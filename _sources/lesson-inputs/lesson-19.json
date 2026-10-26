@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "n": 19,
+  "slug": "ta-kei",
+  "title": {
+   "ja": "〜たことがあります",
+   "ta": "〜 செய்த அனுபவம் உள்ளது",
+   "en": "I have done …"
+  },
+  "theme": {
+   "en": "Experiences and travel memories, changes over time, advice.",
+   "ta": "அனுபவங்கள், பயண நினைவுகள், காலத்தில் மாற்றம், ஆலோசனை."
+  },
+  "grammar": [
+   {
+    "id": "g19-1",
+    "pattern": "た-form rules",
+    "en": "Plain past; same changes as て-form"
+   },
+   {
+    "id": "g19-2",
+    "pattern": "V たことがあります",
+    "en": "Have (ever) done"
+   },
+   {
+    "id": "g19-3",
+    "pattern": "V たり、V たりします",
+    "en": "Doing things like A and B"
+   },
+   {
+    "id": "g19-4",
+    "pattern": "い-adj 〜くなります / な-adj・N に なります",
+    "en": "Become"
+   },
+   {
+    "id": "g19-5",
+    "pattern": "V たほうがいいです",
+    "en": "Had better"
+   },
+   {
+    "id": "g19-6",
+    "pattern": "もう / まだ with adjectives and states",
+    "en": "もう大人になりました / まだ子どもです"
+   }
+  ],
+  "vocabHints": [
+   "travel: Japan places, hot spring, temple, shrine, castle, sightseeing",
+   "verbs: become, get on (plane), travel, swim, dance, sing, climb, lose",
+   "adjectives for change: warm, cold, strong, rich, famous, adult, spring/summer",
+   "advice words"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-052",
+   "expression": "池",
+   "reading": "いけ",
+   "romaji": "ike",
+   "en": "pond"
+  },
+  {
+   "id": "n5-v-080",
+   "expression": "歌う",
+   "reading": "うたう",
+   "romaji": "utau",
+   "en": "to sing"
+  },
+  {
+   "id": "n5-v-082",
+   "expression": "生まれる",
+   "reading": "うまれる",
+   "romaji": "umareru",
+   "en": "to be born"
+  },
+  {
+   "id": "n5-v-083",
+   "expression": "海",
+   "reading": "うみ",
+   "romaji": "umi",
+   "en": "sea, beach"
+  },
+  {
+   "id": "n5-v-121",
+   "expression": "一昨日",
+   "reading": "おととい",
+   "romaji": "ototoi",
+   "en": "the day before yesterday"
+  },
+  {
+   "id": "n5-v-122",
+   "expression": "おととし",
+   "reading": "おととし",
+   "romaji": "ototoshi",
+   "en": "year before last"
+  },
+  {
+   "id": "n5-v-123",
+   "expression": "大人",
+   "reading": "おとな",
+   "romaji": "otona",
+   "en": "adult"
+  },
+  {
+   "id": "n5-v-189",
+   "expression": "木",
+   "reading": "き",
+   "romaji": "ki",
+   "en": "tree, wood, timber"
+  },
+  {
+   "id": "n5-v-207",
+   "expression": "去年",
+   "reading": "きょねん",
+   "romaji": "kyonen",
+   "en": "last year"
+  },
+  {
+   "id": "n5-v-279",
+   "expression": "咲く",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "to bloom"
+  },
+  {
+   "id": "n5-v-304",
+   "expression": "死ぬ",
+   "reading": "しぬ",
+   "romaji": "shinu",
+   "en": "to die"
+  },
+  {
+   "id": "n5-v-320",
+   "expression": "丈夫",
+   "reading": "じょうぶ",
+   "romaji": "joubu",
+   "en": "strong, solid, durable"
+  },
+  {
+   "id": "n5-v-367",
+   "expression": "空",
+   "reading": "そら",
+   "romaji": "sora",
+   "en": "sky"
+  },
+  {
+   "id": "n5-v-398",
+   "expression": "段々",
+   "reading": "だんだん",
+   "romaji": "dandan",
+   "en": "gradually, by degrees"
+  },
+  {
+   "id": "n5-v-458",
+   "expression": "所",
+   "reading": "ところ",
+   "romaji": "tokoro",
+   "en": "place"
+  },
+  {
+   "id": "n5-v-459",
+   "expression": "年",
+   "reading": "とし",
+   "romaji": "toshi",
+   "en": "year, age"
+  },
+  {
+   "id": "n5-v-482",
+   "expression": "無くす",
+   "reading": "なくす",
+   "romaji": "nakusu",
+   "en": "to lose something"
+  },
+  {
+   "id": "n5-v-485",
+   "expression": "夏休み",
+   "reading": "なつやすみ",
+   "romaji": "natsuyasumi",
+   "en": "summer vacation"
+  },
+  {
+   "id": "n5-v-494",
+   "expression": "なる",
+   "reading": "なる",
+   "romaji": "naru",
+   "en": "to become"
+  },
+  {
+   "id": "n5-v-530",
+   "expression": "初めて",
+   "reading": "はじめて",
+   "romaji": "hajimete",
+   "en": "for the first time"
+  },
+  {
+   "id": "n5-v-654",
+   "expression": "村",
+   "reading": "むら",
+   "romaji": "mura",
+   "en": "village"
+  },
+  {
+   "id": "n5-v-674",
+   "expression": "山",
+   "reading": "やま",
+   "romaji": "yama",
+   "en": "mountain"
+  },
+  {
+   "id": "n5-v-679",
+   "expression": "昨夜",
+   "reading": "ゆうべ",
+   "romaji": "yuube",
+   "en": "last night"
+  },
+  {
+   "id": "n5-v-698",
+   "expression": "りっぱ",
+   "reading": "りっぱ",
+   "romaji": "rippa",
+   "en": "splendid, fine"
+  },
+  {
+   "id": "n5-v-702",
+   "expression": "旅行",
+   "reading": "りょこう",
+   "romaji": "ryokou",
+   "en": "travel, trip"
+  }
+ ]
+}

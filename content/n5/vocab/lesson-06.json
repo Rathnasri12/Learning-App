@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n5-v-013",
+    "expression": "朝御飯",
+    "reading": "あさごはん",
+    "romaji": "asagohan",
+    "en": "breakfast",
+    "ta": "காலை உணவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎朝 七時に 朝御飯を 食べます。", "reading": "まいあさ しちじに あさごはんを たべます。", "romaji": "maiasa shichiji ni asagohan o tabemasu.", "ta": "தினமும் காலை ஏழு மணிக்குக் காலை உணவு சாப்பிடுகிறேன்.", "en": "I eat breakfast at seven every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-038",
+    "expression": "飴",
+    "reading": "あめ",
+    "romaji": "ame",
+    "en": "candy",
+    "ta": "மிட்டாய்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 店で 飴を 買いました。", "reading": "あの みせで あめを かいました。", "romaji": "ano mise de ame o kaimashita.", "ta": "அந்தக் கடையில் மிட்டாய் வாங்கினேன்.", "en": "I bought candy at that shop." }
+    ]
+  },
+  {
+    "id": "n5-v-088",
+    "expression": "映画",
+    "reading": "えいが",
+    "romaji": "eiga",
+    "en": "movie",
+    "ta": "திரைப்படம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日曜日に 友達と 映画を 見ます。", "reading": "にちようびに ともだちと えいがを みます。", "romaji": "nichiyoubi ni tomodachi to eiga o mimasu.", "ta": "ஞாயிற்றுக்கிழமை நண்பருடன் படம் பார்க்கிறேன்.", "en": "I will watch a movie with a friend on Sunday." }
+    ]
+  },
+  {
+    "id": "n5-v-089",
+    "expression": "映画館",
+    "reading": "えいがかん",
+    "romaji": "eigakan",
+    "en": "cinema",
+    "ta": "திரையரங்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明日 映画館へ 行きませんか。", "reading": "あした えいがかんへ いきませんか。", "romaji": "ashita eigakan e ikimasen ka.", "ta": "நாளை திரையரங்குக்குப் போகலாமா?", "en": "Won't you go to the cinema tomorrow?" }
+    ]
+  },
+  {
+    "id": "n5-v-103",
+    "expression": "お菓子",
+    "reading": "おかし",
+    "romaji": "okashi",
+    "en": "sweets, snacks",
+    "ta": "தின்பண்டம் (இனிப்பு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "喫茶店で お菓子を 食べました。", "reading": "きっさてんで おかしを たべました。", "romaji": "kissaten de okashi o tabemashita.", "ta": "கபேயில் தின்பண்டம் சாப்பிட்டேன்.", "en": "I ate sweets at a café." }
+    ]
+  },
+  {
+    "id": "n5-v-108",
+    "expression": "お酒",
+    "reading": "おさけ",
+    "romaji": "osake",
+    "en": "alcohol, sake",
+    "ta": "மது (சாகே)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は お酒を 飲みません。", "reading": "わたしは おさけを のみません。", "romaji": "watashi wa osake o nomimasen.", "ta": "நான் மது குடிப்பதில்லை.", "en": "I don't drink alcohol." }
+    ]
+  },
+  {
+    "id": "n5-v-115",
+    "expression": "お茶",
+    "reading": "おちゃ",
+    "romaji": "ocha",
+    "en": "green tea",
+    "ta": "தேநீர் (பச்சைத் தேநீர்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本人は 毎日 お茶を 飲みます。", "reading": "にほんじんは まいにち おちゃを のみます。", "romaji": "nihonjin wa mainichi ocha o nomimasu.", "ta": "ஜப்பானியர்கள் தினமும் தேநீர் குடிக்கிறார்கள்.", "en": "Japanese people drink tea every day." }
+    ]
+  },
+  {
+    "id": "n5-v-149",
+    "expression": "買う",
+    "reading": "かう",
+    "romaji": "kau",
+    "en": "to buy",
+    "ta": "வாங்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "デパートで 時計を 買いました。", "reading": "デパートで とけいを かいました。", "romaji": "depaato de tokei o kaimashita.", "ta": "டிபார்ட்மென்ட் ஸ்டோரில் கைக்கடிகாரம் வாங்கினேன்.", "en": "I bought a watch at the department store." }
+    ]
+  },
+  {
+    "id": "n5-v-155",
+    "expression": "書く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "en": "to write",
+    "ta": "எழுத",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "毎日 ノートに 日本語を 書きます。", "reading": "まいにち ノートに にほんごを かきます。", "romaji": "mainichi nooto ni nihongo o kakimasu.", "ta": "தினமும் நோட்டில் ஜப்பானிய மொழி எழுதுகிறேன்.", "en": "I write Japanese in my notebook every day." }
+    ]
+  },
+  {
+    "id": "n5-v-193",
+    "expression": "聞く",
+    "reading": "きく",
+    "romaji": "kiku",
+    "en": "to listen, to ask",
+    "ta": "கேட்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "毎朝 ラジオで 英語を 聞きます。", "reading": "まいあさ ラジオで えいごを ききます。", "romaji": "maiasa rajio de eigo o kikimasu.", "ta": "தினமும் காலை ரேடியோவில் ஆங்கிலம் கேட்கிறேன்.", "en": "I listen to English on the radio every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-197",
+    "expression": "喫茶店",
+    "reading": "きっさてん",
+    "romaji": "kissaten",
+    "en": "café",
+    "ta": "கபே (தேநீர்க் கடை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "喫茶店で コーヒーを 飲みませんか。", "reading": "きっさてんで コーヒーを のみませんか。", "romaji": "kissaten de koohii o nomimasen ka.", "ta": "கபேயில் காபி குடிக்கலாமா?", "en": "Won't you have coffee at a café?" }
+    ]
+  },
+  {
+    "id": "n5-v-203",
+    "expression": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "en": "milk",
+    "ta": "பால்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "朝、牛乳を 飲みました。", "reading": "あさ、ぎゅうにゅうを のみました。", "romaji": "asa, gyuunyuu o nomimashita.", "ta": "காலையில் பால் குடித்தேன்.", "en": "I drank milk in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-247",
+    "expression": "紅茶",
+    "reading": "こうちゃ",
+    "romaji": "koucha",
+    "en": "black tea",
+    "ta": "டீ (கருப்புத் தேநீர்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "紅茶を 飲みますか、コーヒーを 飲みますか。", "reading": "こうちゃを のみますか、コーヒーを のみますか。", "romaji": "koucha o nomimasu ka, koohii o nomimasu ka.", "ta": "டீ குடிக்கிறீர்களா, காபி குடிக்கிறீர்களா?", "en": "Will you drink tea or coffee?" }
+    ]
+  },
+  {
+    "id": "n5-v-251",
+    "expression": "コーヒー",
+    "reading": "コーヒー",
+    "romaji": "koohii",
+    "en": "coffee",
+    "ta": "காபி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎朝 喫茶店で コーヒーを 飲みます。", "reading": "まいあさ きっさてんで コーヒーを のみます。", "romaji": "maiasa kissaten de koohii o nomimasu.", "ta": "தினமும் காலை கபேயில் காபி குடிக்கிறேன்.", "en": "I drink coffee at a café every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-265",
+    "expression": "御飯",
+    "reading": "ごはん",
+    "romaji": "gohan",
+    "en": "cooked rice, meal",
+    "ta": "சோறு; உணவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 七時に 御飯を 食べます。", "reading": "まいばん しちじに ごはんを たべます。", "romaji": "maiban shichiji ni gohan o tabemasu.", "ta": "தினமும் இரவு ஏழு மணிக்குச் சாப்பிடுகிறேன்.", "en": "I eat dinner at seven every night." }
+    ]
+  },
+  {
+    "id": "n5-v-311",
+    "expression": "写真",
+    "reading": "しゃしん",
+    "romaji": "shashin",
+    "en": "photograph",
+    "ta": "புகைப்படம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 家族の 写真です。", "reading": "これは かぞくの しゃしんです。", "romaji": "kore wa kazoku no shashin desu.", "ta": "இது என் குடும்பப் புகைப்படம்.", "en": "This is a photo of my family." }
+    ]
+  },
+  {
+    "id": "n5-v-343",
+    "expression": "する",
+    "reading": "する",
+    "romaji": "suru",
+    "en": "to do",
+    "ta": "செய்ய",
+    "pos": "verb-irregular",
+    "examples": [
+      { "ja": "日曜日に 何を しますか。", "reading": "にちようびに なにを しますか。", "romaji": "nichiyoubi ni nani o shimasu ka.", "ta": "ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?", "en": "What will you do on Sunday?" }
+    ]
+  },
+  {
+    "id": "n5-v-392",
+    "expression": "食べ物",
+    "reading": "たべもの",
+    "romaji": "tabemono",
+    "en": "food",
+    "ta": "உணவுப் பொருள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本の 食べ物を 食べましたか。", "reading": "にほんの たべものを たべましたか。", "romaji": "nihon no tabemono o tabemashita ka.", "ta": "ஜப்பானிய உணவு சாப்பிட்டீர்களா?", "en": "Did you eat Japanese food?" }
+    ]
+  },
+  {
+    "id": "n5-v-393",
+    "expression": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "en": "to eat",
+    "ta": "சாப்பிட",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "毎日 十二時に 昼御飯を 食べます。", "reading": "まいにち じゅうにじに ひるごはんを たべます。", "romaji": "mainichi juuniji ni hirugohan o tabemasu.", "ta": "தினமும் பன்னிரண்டு மணிக்கு மதிய உணவு சாப்பிடுகிறேன்.", "en": "I eat lunch at twelve every day." }
+    ]
+  },
+  {
+    "id": "n5-v-396",
+    "expression": "誰か",
+    "reading": "だれか",
+    "romaji": "dareka",
+    "en": "someone",
+    "ta": "யாரோ (யாராவது)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "昨日、ここへ 誰か 来ましたか。", "reading": "きのう、ここへ だれか きましたか。", "romaji": "kinou, koko e dareka kimashita ka.", "ta": "நேற்று இங்கே யாராவது வந்தார்களா?", "en": "Did anyone come here yesterday?" }
+    ]
+  },
+  {
+    "id": "n5-v-474",
+    "expression": "撮る",
+    "reading": "とる",
+    "romaji": "toru",
+    "en": "to take (a photo)",
+    "ta": "(புகைப்படம்) எடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "ここで 写真を 撮りませんか。", "reading": "ここで しゃしんを とりませんか。", "romaji": "koko de shashin o torimasen ka.", "ta": "இங்கே புகைப்படம் எடுக்கலாமா?", "en": "Shall we take a photo here?" }
+    ]
+  },
+  {
+    "id": "n5-v-514",
+    "expression": "飲み物",
+    "reading": "のみもの",
+    "romaji": "nomimono",
+    "en": "drink, beverage",
+    "ta": "பானம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あそこで 飲み物を 買いましょう。", "reading": "あそこで のみものを かいましょう。", "romaji": "asoko de nomimono o kaimashou.", "ta": "அங்கே பானம் வாங்குவோம்.", "en": "Let's buy drinks over there." }
+    ]
+  },
+  {
+    "id": "n5-v-515",
+    "expression": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "en": "to drink",
+    "ta": "குடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "あなたは 毎晩 お酒を 飲みますか。", "reading": "あなたは まいばん おさけを のみますか。", "romaji": "anata wa maiban osake o nomimasu ka.", "ta": "நீங்கள் தினமும் இரவு மது குடிக்கிறீர்களா?", "en": "Do you drink alcohol every night?" }
+    ]
+  },
+  {
+    "id": "n5-v-555",
+    "expression": "晩御飯",
+    "reading": "ばんごはん",
+    "romaji": "bangohan",
+    "en": "dinner",
+    "ta": "இரவு உணவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日の 晩御飯は 何ですか。", "reading": "きょうの ばんごはんは なんですか。", "romaji": "kyou no bangohan wa nan desu ka.", "ta": "இன்றைய இரவு உணவு என்ன?", "en": "What is for dinner today?" }
+    ]
+  },
+  {
+    "id": "n5-v-574",
+    "expression": "昼御飯",
+    "reading": "ひるごはん",
+    "romaji": "hirugohan",
+    "en": "lunch",
+    "ta": "மதிய உணவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達と 喫茶店で 昼御飯を 食べました。", "reading": "ともだちと きっさてんで ひるごはんを たべました。", "romaji": "tomodachi to kissaten de hirugohan o tabemashita.", "ta": "நண்பருடன் கபேயில் மதிய உணவு சாப்பிட்டேன்.", "en": "I had lunch with a friend at a café." }
+    ]
+  },
+  {
+    "id": "n5-v-638",
+    "expression": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "en": "water",
+    "ta": "தண்ணீர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は 毎朝 水を 飲みます。", "reading": "わたしは まいあさ みずを のみます。", "romaji": "watashi wa maiasa mizu o nomimasu.", "ta": "நான் தினமும் காலை தண்ணீர் குடிக்கிறேன்.", "en": "I drink water every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-639",
+    "expression": "店",
+    "reading": "みせ",
+    "romaji": "mise",
+    "en": "shop",
+    "ta": "கடை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "駅の 店で お菓子を 買いました。", "reading": "えきの みせで おかしを かいました。", "romaji": "eki no mise de okashi o kaimashita.", "ta": "ஸ்டேஷன் கடையில் தின்பண்டம் வாங்கினேன்.", "en": "I bought sweets at the shop in the station." }
+    ]
+  },
+  {
+    "id": "n5-v-648",
+    "expression": "見る",
+    "reading": "みる",
+    "romaji": "miru",
+    "en": "to see, to watch",
+    "ta": "பார்க்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "昨日 映画館で 映画を 見ました。", "reading": "きのう えいがかんで えいがを みました。", "romaji": "kinou eigakan de eiga o mimashita.", "ta": "நேற்று திரையரங்கில் படம் பார்த்தேன்.", "en": "I watched a movie at the cinema yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-677",
+    "expression": "夕飯",
+    "reading": "ゆうはん",
+    "romaji": "yuuhan",
+    "en": "dinner, supper",
+    "ta": "இரவு உணவு (மாலை உணவு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩、夕飯は 家族と 食べます。", "reading": "まいばん、ゆうはんは かぞくと たべます。", "romaji": "maiban, yuuhan wa kazoku to tabemasu.", "ta": "தினமும் இரவு உணவு குடும்பத்துடன் சாப்பிடுகிறேன்.", "en": "Every night I eat dinner with my family." }
+    ]
+  },
+  {
+    "id": "n5-v-690",
+    "expression": "読む",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "en": "to read",
+    "ta": "படிக்க (வாசிக்க)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "私は 毎晩 日本語の 本を 読みます。", "reading": "わたしは まいばん にほんごの ほんを よみます。", "romaji": "watashi wa maiban nihongo no hon o yomimasu.", "ta": "நான் தினமும் இரவு ஜப்பானிய மொழிப் புத்தகம் படிக்கிறேன்.", "en": "I read a Japanese book every night." }
+    ]
+  }
+]

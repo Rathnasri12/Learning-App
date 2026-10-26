@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "n": 12,
+  "slug": "hikaku",
+  "title": {
+   "ja": "どちらが好きですか",
+   "ta": "எது பிடிக்கும்?",
+   "en": "Which do you prefer?"
+  },
+  "theme": {
+   "en": "Past states, weather and seasons, comparisons and superlatives, festivals.",
+   "ta": "கடந்த கால நிலை, வானிலை, பருவங்கள், ஒப்பீடு, திருவிழாக்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g12-1",
+    "pattern": "N / な-adj でした / じゃありませんでした",
+    "en": "Past of nouns and な-adjectives"
+   },
+   {
+    "id": "g12-2",
+    "pattern": "い-adj 〜かったです / 〜くなかったです",
+    "en": "Past of い-adjectives; いい → よかった"
+   },
+   {
+    "id": "g12-3",
+    "pattern": "N1 は N2 より adj です",
+    "en": "Comparison with より"
+   },
+   {
+    "id": "g12-4",
+    "pattern": "N1 と N2 と どちらが adj ですか / N のほうが",
+    "en": "Which of the two; the X one"
+   },
+   {
+    "id": "g12-5",
+    "pattern": "N の中で 〔何 / どこ / 誰 / いつ〕が 一番 adj ですか",
+    "en": "Superlative within a group"
+   },
+   {
+    "id": "g12-6",
+    "pattern": "adj + の (この赤いの)",
+    "en": "の as a pronoun after adjectives"
+   }
+  ],
+  "vocabHints": [
+   "seasons, weather: rain, snow, cloudy, clear, warm, cool, wind",
+   "festival, holiday, trip words",
+   "comparison words",
+   "adjectives: sweet, spicy, heavy, light, slow, fast, difficult, easy, far, near"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-008",
+   "expression": "秋",
+   "reading": "あき",
+   "romaji": "aki",
+   "en": "fall (season)"
+  },
+  {
+   "id": "n5-v-019",
+   "expression": "暖かい",
+   "reading": "あたたかい",
+   "romaji": "atatakai",
+   "en": "warm"
+  },
+  {
+   "id": "n5-v-025",
+   "expression": "厚い",
+   "reading": "あつい",
+   "romaji": "atsui",
+   "en": "kind, warm(hearted), thick, deep"
+  },
+  {
+   "id": "n5-v-035",
+   "expression": "甘い",
+   "reading": "あまい",
+   "romaji": "amai",
+   "en": "generous, sweet"
+  },
+  {
+   "id": "n5-v-037",
+   "expression": "雨",
+   "reading": "あめ",
+   "romaji": "ame",
+   "en": "rain"
+  },
+  {
+   "id": "n5-v-059",
+   "expression": "一番",
+   "reading": "いちばん",
+   "romaji": "ichiban",
+   "en": "best (most), first, number one"
+  },
+  {
+   "id": "n5-v-078",
+   "expression": "薄い",
+   "reading": "うすい",
+   "romaji": "usui",
+   "en": "thin, weak"
+  },
+  {
+   "id": "n5-v-114",
+   "expression": "遅い",
+   "reading": "おそい",
+   "romaji": "osoi",
+   "en": "slow; (to be) late"
+  },
+  {
+   "id": "n5-v-134",
+   "expression": "重い",
+   "reading": "おもい",
+   "romaji": "omoi",
+   "en": "heavy; serious"
+  },
+  {
+   "id": "n5-v-162",
+   "expression": "風",
+   "reading": "かぜ",
+   "romaji": "kaze",
+   "en": "wind, breeze"
+  },
+  {
+   "id": "n5-v-178",
+   "expression": "辛い",
+   "reading": "からい",
+   "romaji": "karai",
+   "en": "hot and spicy; salty"
+  },
+  {
+   "id": "n5-v-182",
+   "expression": "軽い",
+   "reading": "かるい",
+   "romaji": "karui",
+   "en": "light, non-serious, minor"
+  },
+  {
+   "id": "n5-v-191",
+   "expression": "黄色い",
+   "reading": "きいろい",
+   "romaji": "kiiroi",
+   "en": "yellow"
+  },
+  {
+   "id": "n5-v-224",
+   "expression": "曇り",
+   "reading": "くもり",
+   "romaji": "kumori",
+   "en": "cloudiness, cloudy weather"
+  },
+  {
+   "id": "n5-v-333",
+   "expression": "少ない",
+   "reading": "すくない",
+   "romaji": "sukunai",
+   "en": "a little; a few"
+  },
+  {
+   "id": "n5-v-336",
+   "expression": "涼しい",
+   "reading": "すずしい",
+   "romaji": "suzushii",
+   "en": "cool, refreshing (in reference to weather)"
+  },
+  {
+   "id": "n5-v-401",
+   "expression": "近い",
+   "reading": "ちかい",
+   "romaji": "chikai",
+   "en": "near, close by, short"
+  },
+  {
+   "id": "n5-v-422",
+   "expression": "冷たい",
+   "reading": "つめたい",
+   "romaji": "tsumetai",
+   "en": "cold (things, people)"
+  },
+  {
+   "id": "n5-v-452",
+   "expression": "遠い",
+   "reading": "とおい",
+   "romaji": "tooi",
+   "en": "far (away), distant"
+  },
+  {
+   "id": "n5-v-484",
+   "expression": "夏",
+   "reading": "なつ",
+   "romaji": "natsu",
+   "en": "summer"
+  },
+  {
+   "id": "n5-v-507",
+   "expression": "温い",
+   "reading": "ぬるい",
+   "romaji": "nurui",
+   "en": "lukewarm"
+  },
+  {
+   "id": "n5-v-544",
+   "expression": "速い",
+   "reading": "はやい",
+   "romaji": "hayai",
+   "en": "fast, quick"
+  },
+  {
+   "id": "n5-v-545",
+   "expression": "春",
+   "reading": "はる",
+   "romaji": "haru",
+   "en": "spring"
+  },
+  {
+   "id": "n5-v-547",
+   "expression": "晴れ",
+   "reading": "はれ",
+   "romaji": "hare",
+   "en": "clear (sunny) weather"
+  },
+  {
+   "id": "n5-v-586",
+   "expression": "太い",
+   "reading": "ふとい",
+   "romaji": "futoi",
+   "en": "fat, thick"
+  },
+  {
+   "id": "n5-v-587",
+   "expression": "冬",
+   "reading": "ふゆ",
+   "romaji": "fuyu",
+   "en": "winter"
+  },
+  {
+   "id": "n5-v-624",
+   "expression": "まずい",
+   "reading": "まずい",
+   "romaji": "mazui",
+   "en": "terrible (in reference to food), unappetizing, unpleasant (taste)"
+  },
+  {
+   "id": "n5-v-632",
+   "expression": "丸い; 円い",
+   "reading": "まるい",
+   "romaji": "marui",
+   "en": "round, circular"
+  },
+  {
+   "id": "n5-v-652",
+   "expression": "難しい",
+   "reading": "むずかしい",
+   "romaji": "muzukashii",
+   "en": "difficult"
+  },
+  {
+   "id": "n5-v-669",
+   "expression": "易しい",
+   "reading": "やさしい",
+   "romaji": "yasashii",
+   "en": "easy, plain, simple"
+  },
+  {
+   "id": "n5-v-671",
+   "expression": "休み",
+   "reading": "やすみ",
+   "romaji": "yasumi",
+   "en": "holiday; day off; absence"
+  },
+  {
+   "id": "n5-v-681",
+   "expression": "雪",
+   "reading": "ゆき",
+   "romaji": "yuki",
+   "en": "snow"
+  }
+ ]
+}

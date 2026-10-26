@@ -1,0 +1,237 @@
+{
+ "meta": {
+  "n": 14,
+  "slug": "te-kei-1",
+  "title": {
+   "ja": "て形",
+   "ta": "て-வடிவம்",
+   "en": "The て-form"
+  },
+  "theme": {
+   "en": "Verb groups and て-form; asking for help, taxi and directions, what is happening now.",
+   "ta": "வினைச்சொல் குழுக்கள், て-வடிவம்; உதவி கேட்பது, டாக்ஸி, வழி, இப்போது நடப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g14-1",
+    "pattern": "Verb groups I / II / III",
+    "en": "Classifying verbs by ます-stem"
+   },
+   {
+    "id": "g14-2",
+    "pattern": "て-form rules",
+    "en": "いて/いで, って, んで, して, Group II て, きて/して"
+   },
+   {
+    "id": "g14-3",
+    "pattern": "V てください",
+    "en": "Please do"
+   },
+   {
+    "id": "g14-4",
+    "pattern": "V ています (ongoing action)",
+    "en": "Is doing right now"
+   },
+   {
+    "id": "g14-5",
+    "pattern": "V ましょうか",
+    "en": "Shall I …? (offering help)"
+   },
+   {
+    "id": "g14-6",
+    "pattern": "N が V (natural phenomena)",
+    "en": "雨が降っています"
+   }
+  ],
+  "vocabHints": [
+   "taxi and directions: turn, stop, go straight, signal, corner, crossing",
+   "verbs: open, close, turn on/off, hurry, wait, call, copy, help, show, say",
+   "weather: rain falls, snow",
+   "now, slowly, immediately, a little more"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-010",
+   "expression": "開ける",
+   "reading": "あける",
+   "romaji": "akeru",
+   "en": "to open (v.t.)"
+  },
+  {
+   "id": "n5-v-159",
+   "expression": "かける",
+   "reading": "かける",
+   "romaji": "kakeru",
+   "en": "to dial/call (e.g., phone); to sit down"
+  },
+  {
+   "id": "n5-v-171",
+   "expression": "角",
+   "reading": "かど",
+   "romaji": "kado",
+   "en": "corner (e.g., desk, pavement)"
+  },
+  {
+   "id": "n5-v-209",
+   "expression": "切る",
+   "reading": "きる",
+   "romaji": "kiru",
+   "en": "to cut; to hang up (a phone)"
+  },
+  {
+   "id": "n5-v-236",
+   "expression": "消す",
+   "reading": "けす",
+   "romaji": "kesu",
+   "en": "to erase, to delete, to turn off power"
+  },
+  {
+   "id": "n5-v-266",
+   "expression": "コピーする",
+   "reading": "コピーする",
+   "romaji": "kopiisuru",
+   "en": "to copy"
+  },
+  {
+   "id": "n5-v-308",
+   "expression": "閉める",
+   "reading": "しめる",
+   "romaji": "shimeru",
+   "en": "to close, to shut"
+  },
+  {
+   "id": "n5-v-309",
+   "expression": "締める",
+   "reading": "しめる",
+   "romaji": "shimeru",
+   "en": "to tie, to fasten, to tighten"
+  },
+  {
+   "id": "n5-v-334",
+   "expression": "すぐに",
+   "reading": "すぐに",
+   "romaji": "suguni",
+   "en": "immediately, soon"
+  },
+  {
+   "id": "n5-v-373",
+   "expression": "大使館",
+   "reading": "たいしかん",
+   "romaji": "taishikan",
+   "en": "embassy"
+  },
+  {
+   "id": "n5-v-404",
+   "expression": "地下鉄",
+   "reading": "ちかてつ",
+   "romaji": "chikatetsu",
+   "en": "underground train, subway"
+  },
+  {
+   "id": "n5-v-405",
+   "expression": "地図",
+   "reading": "ちず",
+   "romaji": "chizu",
+   "en": "a map"
+  },
+  {
+   "id": "n5-v-411",
+   "expression": "ちょっと",
+   "reading": "ちょっと",
+   "romaji": "chotto",
+   "en": "a little, somewhat; just a little, somewhat"
+  },
+  {
+   "id": "n5-v-415",
+   "expression": "次",
+   "reading": "つぎ",
+   "romaji": "tsugi",
+   "en": "next"
+  },
+  {
+   "id": "n5-v-419",
+   "expression": "つける",
+   "reading": "つける",
+   "romaji": "tsukeru",
+   "en": "to turn on (e.g., a light); to take"
+  },
+  {
+   "id": "n5-v-425",
+   "expression": "テープ",
+   "reading": "テープ",
+   "romaji": "teepu",
+   "en": "tape"
+  },
+  {
+   "id": "n5-v-426",
+   "expression": "テープレコーダー",
+   "reading": "テープレコーダー",
+   "romaji": "teepurekoodaa",
+   "en": "tape recorder"
+  },
+  {
+   "id": "n5-v-468",
+   "expression": "止まる",
+   "reading": "とまる",
+   "romaji": "tomaru",
+   "en": "to come to a halt"
+  },
+  {
+   "id": "n5-v-588",
+   "expression": "降る",
+   "reading": "ふる",
+   "romaji": "furu",
+   "en": "to precipitate, to fall (e.g., rain, snow, etc.)"
+  },
+  {
+   "id": "n5-v-623",
+   "expression": "曲る",
+   "reading": "まがる",
+   "romaji": "magaru",
+   "en": "to turn, to bend"
+  },
+  {
+   "id": "n5-v-628",
+   "expression": "待つ",
+   "reading": "まつ",
+   "romaji": "matsu",
+   "en": "to wait"
+  },
+  {
+   "id": "n5-v-629",
+   "expression": "まっすぐ",
+   "reading": "まっすぐ",
+   "romaji": "massugu",
+   "en": "straight (ahead), direct"
+  },
+  {
+   "id": "n5-v-640",
+   "expression": "見せる",
+   "reading": "みせる",
+   "romaji": "miseru",
+   "en": "to show, to display"
+  },
+  {
+   "id": "n5-v-662",
+   "expression": "もっと",
+   "reading": "もっと",
+   "romaji": "motto",
+   "en": "more"
+  },
+  {
+   "id": "n5-v-682",
+   "expression": "ゆっくりと",
+   "reading": "ゆっくりと",
+   "romaji": "yukkurito",
+   "en": "slowly, at ease"
+  },
+  {
+   "id": "n5-v-689",
+   "expression": "呼ぶ",
+   "reading": "よぶ",
+   "romaji": "yobu",
+   "en": "to call (one's name); to invite"
+  }
+ ]
+}

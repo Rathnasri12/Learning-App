@@ -1,0 +1,302 @@
+[
+  {
+    "id": "n5-v-046",
+    "expression": "言う",
+    "reading": "いう",
+    "romaji": "iu",
+    "en": "to say",
+    "ta": "சொல்ல",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "先生は「明日 テストです」と 言いました。", "reading": "せんせいは「あした テストです」と いいました。", "romaji": "sensei wa \"ashita tesuto desu\" to iimashita.", "ta": "ஆசிரியர் \"நாளை தேர்வு\" என்று சொன்னார்.", "en": "The teacher said, \"There is a test tomorrow.\"" }
+    ]
+  },
+  {
+    "id": "n5-v-067",
+    "expression": "意味",
+    "reading": "いみ",
+    "romaji": "imi",
+    "en": "meaning",
+    "ta": "பொருள் (அர்த்தம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 言葉の 意味が わかりません。", "reading": "この ことばの いみが わかりません。", "romaji": "kono kotoba no imi ga wakarimasen.", "ta": "இந்த வார்த்தையின் பொருள் எனக்குப் புரியவில்லை.", "en": "I don't understand the meaning of this word." }
+    ]
+  },
+  {
+    "id": "n5-v-101",
+    "expression": "大勢",
+    "reading": "おおぜい",
+    "romaji": "oozei",
+    "en": "many people",
+    "ta": "நிறையப் பேர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "パーティーに 大勢の 人が 来ました。", "reading": "パーティーに おおぜいの ひとが きました。", "romaji": "paatii ni oozei no hito ga kimashita.", "ta": "பார்ட்டிக்கு நிறையப் பேர் வந்தார்கள்.", "en": "Many people came to the party." }
+    ]
+  },
+  {
+    "id": "n5-v-119",
+    "expression": "男",
+    "reading": "おとこ",
+    "romaji": "otoko",
+    "en": "man",
+    "ta": "ஆண்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 男の 人は 誰ですか。", "reading": "あの おとこの ひとは だれですか。", "romaji": "ano otoko no hito wa dare desu ka.", "ta": "அந்த ஆண் யார்?", "en": "Who is that man?" }
+    ]
+  },
+  {
+    "id": "n5-v-125",
+    "expression": "同じ",
+    "reading": "おなじ",
+    "romaji": "onaji",
+    "en": "same",
+    "ta": "ஒரே (அதே)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "私と 友達は 同じ 学校の 学生です。", "reading": "わたしと ともだちは おなじ がっこうの がくせいです。", "romaji": "watashi to tomodachi wa onaji gakkou no gakusei desu.", "ta": "நானும் என் நண்பனும் ஒரே பள்ளி மாணவர்கள்.", "en": "My friend and I are students of the same school." }
+    ]
+  },
+  {
+    "id": "n5-v-140",
+    "expression": "女",
+    "reading": "おんな",
+    "romaji": "onna",
+    "en": "woman",
+    "ta": "பெண்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "女の 人が 二人 立っています。", "reading": "おんなの ひとが ふたり たっています。", "romaji": "onna no hito ga futari tatte imasu.", "ta": "இரண்டு பெண்கள் நின்று கொண்டிருக்கிறார்கள்.", "en": "Two women are standing." }
+    ]
+  },
+  {
+    "id": "n5-v-164",
+    "expression": "方",
+    "reading": "かた",
+    "romaji": "kata",
+    "en": "person (polite)",
+    "ta": "நபர் (மரியாதையாக)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 方は 田中さんの お母さんです。", "reading": "あの かたは たなかさんの おかあさんです。", "romaji": "ano kata wa tanaka san no okaasan desu.", "ta": "அவர் தனாகா அவர்களின் அம்மா.", "en": "That person is Mr. Tanaka's mother." }
+    ]
+  },
+  {
+    "id": "n5-v-237",
+    "expression": "結構",
+    "reading": "けっこう",
+    "romaji": "kekkou",
+    "en": "that's enough; fairly",
+    "ta": "போதும் (வேண்டாம்); நன்றாக",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "「コーヒーは いかがですか。」「いいえ、結構です。」", "reading": "「コーヒーは いかがですか。」「いいえ、けっこうです。」", "romaji": "\"koohii wa ikaga desu ka.\" \"iie, kekkou desu.\"", "ta": "\"காபி வேண்டுமா?\" \"இல்லை, போதும், நன்றி.\"", "en": "\"Would you like coffee?\" \"No, thank you.\"" }
+    ]
+  },
+  {
+    "id": "n5-v-249",
+    "expression": "声",
+    "reading": "こえ",
+    "romaji": "koe",
+    "en": "voice",
+    "ta": "குரல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先生の 声は 大きいです。", "reading": "せんせいの こえは おおきいです。", "romaji": "sensei no koe wa ookii desu.", "ta": "ஆசிரியரின் குரல் பெரியது.", "en": "The teacher's voice is loud." }
+    ]
+  },
+  {
+    "id": "n5-v-257",
+    "expression": "答える",
+    "reading": "こたえる",
+    "romaji": "kotaeru",
+    "en": "to answer",
+    "ta": "பதில் சொல்ல",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "質問に 日本語で 答えてください。", "reading": "しつもんに にほんごで こたえて ください。", "romaji": "shitsumon ni nihongo de kotaete kudasai.", "ta": "கேள்விக்கு ஜப்பானிய மொழியில் பதில் சொல்லுங்கள்.", "en": "Please answer the question in Japanese." }
+    ]
+  },
+  {
+    "id": "n5-v-262",
+    "expression": "言葉",
+    "reading": "ことば",
+    "romaji": "kotoba",
+    "en": "word; language",
+    "ta": "வார்த்தை (மொழி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本語の 言葉を 毎日 十 覚えます。", "reading": "にほんごの ことばを まいにち とお おぼえます。", "romaji": "nihongo no kotoba o mainichi too oboemasu.", "ta": "தினமும் பத்து ஜப்பானிய வார்த்தைகளை மனப்பாடம் செய்கிறேன்.", "en": "I memorise ten Japanese words every day." }
+    ]
+  },
+  {
+    "id": "n5-v-293",
+    "expression": "しかし",
+    "reading": "しかし",
+    "romaji": "shikashi",
+    "en": "however",
+    "ta": "ஆனால் (இருப்பினும்)",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "日本語は 難しいです。しかし、面白いです。", "reading": "にほんごは むずかしいです。しかし、おもしろいです。", "romaji": "nihongo wa muzukashii desu. shikashi, omoshiroi desu.", "ta": "ஜப்பானிய மொழி கடினம். ஆனால் சுவாரசியமானது.", "en": "Japanese is difficult. However, it is interesting." }
+    ]
+  },
+  {
+    "id": "n5-v-301",
+    "expression": "質問",
+    "reading": "しつもん",
+    "romaji": "shitsumon",
+    "en": "question",
+    "ta": "கேள்வி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先生、質問が 一つ あります。", "reading": "せんせい、しつもんが ひとつ あります。", "romaji": "sensei, shitsumon ga hitotsu arimasu.", "ta": "ஆசிரியரே, எனக்கு ஒரு கேள்வி இருக்கிறது.", "en": "Teacher, I have one question." }
+    ]
+  },
+  {
+    "id": "n5-v-327",
+    "expression": "新聞",
+    "reading": "しんぶん",
+    "romaji": "shinbun",
+    "en": "newspaper",
+    "ta": "செய்தித்தாள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 毎朝 新聞を 読みます。", "reading": "ちちは まいあさ しんぶんを よみます。", "romaji": "chichi wa maiasa shinbun o yomimasu.", "ta": "அப்பா தினமும் காலையில் செய்தித்தாள் படிக்கிறார்.", "en": "My father reads the newspaper every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-384",
+    "expression": "～たち",
+    "reading": "～たち",
+    "romaji": "～tachi",
+    "en": "plural suffix",
+    "ta": "-கள் (பன்மை விகுதி)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "私たちは 日本語の 学生です。", "reading": "わたしたちは にほんごの がくせいです。", "romaji": "watashitachi wa nihongo no gakusei desu.", "ta": "நாங்கள் ஜப்பானிய மொழி மாணவர்கள்.", "en": "We are students of Japanese." }
+    ]
+  },
+  {
+    "id": "n5-v-391",
+    "expression": "多分",
+    "reading": "たぶん",
+    "romaji": "tabun",
+    "en": "probably",
+    "ta": "ஒருவேளை (பெரும்பாலும்)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "明日は 多分 雨が 降ると 思います。", "reading": "あしたは たぶん あめが ふると おもいます。", "romaji": "ashita wa tabun ame ga furu to omoimasu.", "ta": "நாளை ஒருவேளை மழை பெய்யும் என்று நினைக்கிறேன்.", "en": "I think it will probably rain tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-402",
+    "expression": "違う",
+    "reading": "ちがう",
+    "romaji": "chigau",
+    "en": "to be different",
+    "ta": "வேறுபட (தவறாக இருக்க)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "私の 答えは 先生の 答えと 違います。", "reading": "わたしの こたえは せんせいの こたえと ちがいます。", "romaji": "watashi no kotae wa sensei no kotae to chigaimasu.", "ta": "என் பதில் ஆசிரியரின் பதிலிலிருந்து வேறுபடுகிறது.", "en": "My answer is different from the teacher's answer." }
+    ]
+  },
+  {
+    "id": "n5-v-435",
+    "expression": "でも",
+    "reading": "でも",
+    "romaji": "demo",
+    "en": "but",
+    "ta": "ஆனால்",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "この 店は 高いです。でも、おいしいです。", "reading": "この みせは たかいです。でも、おいしいです。", "romaji": "kono mise wa takai desu. demo, oishii desu.", "ta": "இந்தக் கடை விலை அதிகம். ஆனால் சுவையாக இருக்கும்.", "en": "This shop is expensive. But the food is delicious." }
+    ]
+  },
+  {
+    "id": "n5-v-437",
+    "expression": "テレビ",
+    "reading": "テレビ",
+    "romaji": "terebi",
+    "en": "television",
+    "ta": "தொலைக்காட்சி (டிவி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "晩御飯の あとで テレビを 見ます。", "reading": "ばんごはんの あとで テレビを みます。", "romaji": "bangohan no ato de terebi o mimasu.", "ta": "இரவு உணவுக்குப் பிறகு டிவி பார்க்கிறேன்.", "en": "I watch TV after dinner." }
+    ]
+  },
+  {
+    "id": "n5-v-483",
+    "expression": "なぜ",
+    "reading": "なぜ",
+    "romaji": "naze",
+    "en": "why",
+    "ta": "ஏன்",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "なぜ 昨日 学校へ 来ませんでしたか。", "reading": "なぜ きのう がっこうへ きませんでしたか。", "romaji": "naze kinou gakkou e kimasen deshita ka.", "ta": "ஏன் நேற்று பள்ளிக்கு வரவில்லை?", "en": "Why didn't you come to school yesterday?" }
+    ]
+  },
+  {
+    "id": "n5-v-503",
+    "expression": "ニュース",
+    "reading": "ニュース",
+    "romaji": "nyuusu",
+    "en": "news",
+    "ta": "செய்தி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 七時に テレビで ニュースを 見ます。", "reading": "まいばん しちじに テレビで ニュースを みます。", "romaji": "maiban shichiji ni terebi de nyuusu o mimasu.", "ta": "தினமும் இரவு ஏழு மணிக்கு டிவியில் செய்திகள் பார்க்கிறேன்.", "en": "I watch the news on TV at seven every night." }
+    ]
+  },
+  {
+    "id": "n5-v-518",
+    "expression": "パーティー",
+    "reading": "パーティー",
+    "romaji": "paateii",
+    "en": "party",
+    "ta": "விருந்து (பார்ட்டி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "土曜日に 友達の 家で パーティーが あります。", "reading": "どようびに ともだちの いえで パーティーが あります。", "romaji": "doyoubi ni tomodachi no ie de paatii ga arimasu.", "ta": "சனிக்கிழமை நண்பனின் வீட்டில் பார்ட்டி இருக்கிறது.", "en": "There is a party at my friend's house on Saturday." }
+    ]
+  },
+  {
+    "id": "n5-v-528",
+    "expression": "始まる",
+    "reading": "はじまる",
+    "romaji": "hajimaru",
+    "en": "to begin",
+    "ta": "தொடங்க (ஆரம்பமாக)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "授業は 九時に 始まります。", "reading": "じゅぎょうは くじに はじまります。", "romaji": "jugyou wa kuji ni hajimarimasu.", "ta": "வகுப்பு ஒன்பது மணிக்குத் தொடங்குகிறது.", "en": "The class starts at nine." }
+    ]
+  },
+  {
+    "id": "n5-v-540",
+    "expression": "話",
+    "reading": "はなし",
+    "romaji": "hanashi",
+    "en": "talk; story",
+    "ta": "பேச்சு (கதை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先生の 話は とても 面白かったです。", "reading": "せんせいの はなしは とても おもしろかったです。", "romaji": "sensei no hanashi wa totemo omoshirokatta desu.", "ta": "ஆசிரியரின் பேச்சு மிகவும் சுவாரசியமாக இருந்தது.", "en": "The teacher's talk was very interesting." }
+    ]
+  },
+  {
+    "id": "n5-v-696",
+    "expression": "ラジオ",
+    "reading": "ラジオ",
+    "romaji": "rajio",
+    "en": "radio",
+    "ta": "ரேடியோ",
+    "pos": "noun",
+    "examples": [
+      { "ja": "母は 台所で ラジオを 聞いています。", "reading": "ははは だいどころで ラジオを きいています。", "romaji": "haha wa daidokoro de rajio o kiite imasu.", "ta": "அம்மா சமையலறையில் ரேடியோ கேட்டுக்கொண்டிருக்கிறார்.", "en": "My mother is listening to the radio in the kitchen." }
+    ]
+  }
+]

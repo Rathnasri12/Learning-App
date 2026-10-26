@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "n": 18,
+  "slug": "jisho-kei",
+  "title": {
+   "ja": "〜ことができます",
+   "ta": "〜 செய்ய முடியும்",
+   "en": "I can …"
+  },
+  "theme": {
+   "en": "Abilities, hobbies, and what you do before something.",
+   "ta": "திறமைகள், பொழுதுபோக்கு, ஒன்றுக்கு முன் செய்வது."
+  },
+  "grammar": [
+   {
+    "id": "g18-1",
+    "pattern": "Dictionary form rules",
+    "en": "From ます-form to plain non-past"
+   },
+   {
+    "id": "g18-2",
+    "pattern": "N / V ことが できます",
+    "en": "Can (ability or possibility)"
+   },
+   {
+    "id": "g18-3",
+    "pattern": "私の趣味は V ことです",
+    "en": "Nominalising with こと"
+   },
+   {
+    "id": "g18-4",
+    "pattern": "V の が 好きです / 上手です",
+    "en": "Nominalising with の"
+   },
+   {
+    "id": "g18-5",
+    "pattern": "V dictionary form / N の / period 前に",
+    "en": "Before doing / before"
+   },
+   {
+    "id": "g18-6",
+    "pattern": "なかなか / ぜひ",
+    "en": "Not easily (with negative) / by all means"
+   }
+  ],
+  "vocabHints": [
+   "hobbies: piano, guitar, driving, skiing, skating, reading, shopping",
+   "verbs: can, drive, play instrument, ride, climb, fly, speak",
+   "diary, novel, concert",
+   "before, after, hobby, interest"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-027",
+   "expression": "後",
+   "reading": "あと",
+   "romaji": "ato",
+   "en": "afterwards (later); in the future; the rest; since then"
+  },
+  {
+   "id": "n5-v-136",
+   "expression": "泳ぐ",
+   "reading": "およぐ",
+   "romaji": "oyogu",
+   "en": "to swim"
+  },
+  {
+   "id": "n5-v-138",
+   "expression": "終る",
+   "reading": "おわる",
+   "romaji": "owaru",
+   "en": "to finish, to close"
+  },
+  {
+   "id": "n5-v-148",
+   "expression": "買い物",
+   "reading": "かいもの",
+   "romaji": "kaimono",
+   "en": "shopping"
+  },
+  {
+   "id": "n5-v-175",
+   "expression": "紙",
+   "reading": "かみ",
+   "romaji": "kami",
+   "en": "paper"
+  },
+  {
+   "id": "n5-v-188",
+   "expression": "漢字",
+   "reading": "かんじ",
+   "romaji": "kanji",
+   "en": "kanji; Chinese character"
+  },
+  {
+   "id": "n5-v-195",
+   "expression": "ギター",
+   "reading": "ギター",
+   "romaji": "gitaa",
+   "en": "guitar"
+  },
+  {
+   "id": "n5-v-245",
+   "expression": "公園",
+   "reading": "こうえん",
+   "romaji": "kouen",
+   "en": "a park"
+  },
+  {
+   "id": "n5-v-280",
+   "expression": "作文",
+   "reading": "さくぶん",
+   "romaji": "sakubun",
+   "en": "essay; composition"
+  },
+  {
+   "id": "n5-v-283",
+   "expression": "雑誌",
+   "reading": "ざっし",
+   "romaji": "zasshi",
+   "en": "magazine, journal"
+  },
+  {
+   "id": "n5-v-289",
+   "expression": "散歩",
+   "reading": "さんぽ (する)",
+   "romaji": "sanpo(suru)",
+   "en": "walk, stroll"
+  },
+  {
+   "id": "n5-v-297",
+   "expression": "辞書",
+   "reading": "じしょ",
+   "romaji": "jisho",
+   "en": "dictionary"
+  },
+  {
+   "id": "n5-v-302",
+   "expression": "自転車",
+   "reading": "じてんしゃ",
+   "romaji": "jitensha",
+   "en": "bicycle"
+  },
+  {
+   "id": "n5-v-430",
+   "expression": "できる",
+   "reading": "できる",
+   "romaji": "dekiru",
+   "en": "to be able to (to accomplish)"
+  },
+  {
+   "id": "n5-v-460",
+   "expression": "図書館",
+   "reading": "としょかん",
+   "romaji": "toshokan",
+   "en": "library"
+  },
+  {
+   "id": "n5-v-467",
+   "expression": "飛ぶ",
+   "reading": "とぶ",
+   "romaji": "tobu",
+   "en": "to fly, to hop"
+  },
+  {
+   "id": "n5-v-513",
+   "expression": "登る",
+   "reading": "のぼる",
+   "romaji": "noboru",
+   "en": "to climb"
+  },
+  {
+   "id": "n5-v-531",
+   "expression": "走る",
+   "reading": "はしる",
+   "romaji": "hashiru",
+   "en": "to run"
+  },
+  {
+   "id": "n5-v-541",
+   "expression": "話す",
+   "reading": "はなす",
+   "romaji": "hanasu",
+   "en": "to speak"
+  },
+  {
+   "id": "n5-v-560",
+   "expression": "弾く",
+   "reading": "ひく",
+   "romaji": "hiku",
+   "en": "to play (a string instrument or piano)"
+  },
+  {
+   "id": "n5-v-591",
+   "expression": "文章",
+   "reading": "ぶんしょう",
+   "romaji": "bunshou",
+   "en": "sentence, text"
+  },
+  {
+   "id": "n5-v-592",
+   "expression": "ページ",
+   "reading": "ページ",
+   "romaji": "peeji",
+   "en": "a page"
+  },
+  {
+   "id": "n5-v-622",
+   "expression": "～前",
+   "reading": "～まえ",
+   "romaji": "～mae",
+   "en": "in front of ~"
+  },
+  {
+   "id": "n5-v-705",
+   "expression": "レコード",
+   "reading": "レコード",
+   "romaji": "rekoodo",
+   "en": "record"
+  },
+  {
+   "id": "n5-v-707",
+   "expression": "練習",
+   "reading": "れんしゅう (する)",
+   "romaji": "renshuu(suru)",
+   "en": "(to) practice"
+  }
+ ]
+}

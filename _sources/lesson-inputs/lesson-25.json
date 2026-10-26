@@ -1,0 +1,238 @@
+{
+ "meta": {
+  "n": 25,
+  "slug": "tara-temo",
+  "title": {
+   "ja": "〜たら、〜ても",
+   "ta": "〜 என்றால், 〜 ஆனாலும்",
+   "en": "If … / Even if …"
+  },
+  "theme": {
+   "en": "Future plans and dreams, conditions, review of the whole N5 course.",
+   "ta": "எதிர்காலத் திட்டங்கள், கனவுகள், நிபந்தனைகள்; N5 முழுவதும் திரும்பப் பார்ப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g25-1",
+    "pattern": "V / adj / N たら、〜",
+    "en": "If / when (conditional たら)"
+   },
+   {
+    "id": "g25-2",
+    "pattern": "V ても / い-adj くても / な-adj・N でも、〜",
+    "en": "Even if"
+   },
+   {
+    "id": "g25-3",
+    "pattern": "もし / いくら 〜ても",
+    "en": "If (emphasis) / no matter how"
+   },
+   {
+    "id": "g25-4",
+    "pattern": "V plain つもりです",
+    "en": "Intend to"
+   },
+   {
+    "id": "g25-5",
+    "pattern": "V dictionary form / N の 予定です",
+    "en": "Plan to"
+   },
+   {
+    "id": "g25-6",
+    "pattern": "N5 grammar review map",
+    "en": "Which form for which job: て / ない / た / plain"
+   }
+  ],
+  "vocabHints": [
+   "future: dream, plan, intention, someday, future, next year",
+   "money: salary, save, rich, poor, bonus",
+   "weather conditions, if it rains",
+   "life events: graduate, get a job, retire, move, marry",
+   "review words"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-014",
+   "expression": "明後日",
+   "reading": "あさって",
+   "romaji": "asatte",
+   "en": "day after tomorrow"
+  },
+  {
+   "id": "n5-v-075",
+   "expression": "色々",
+   "reading": "いろいろ",
+   "romaji": "iroiro",
+   "en": "various"
+  },
+  {
+   "id": "n5-v-153",
+   "expression": "かかる",
+   "reading": "かかる",
+   "romaji": "kakaru",
+   "en": "it takes (amount of time, money) (v.i.)"
+  },
+  {
+   "id": "n5-v-170",
+   "expression": "家庭",
+   "reading": "かてい",
+   "romaji": "katei",
+   "en": "home; family"
+  },
+  {
+   "id": "n5-v-184",
+   "expression": "カレンダー",
+   "reading": "カレンダー",
+   "romaji": "karendaa",
+   "en": "calendar"
+  },
+  {
+   "id": "n5-v-238",
+   "expression": "結婚",
+   "reading": "けっこん (する)",
+   "romaji": "kekkon(suru)",
+   "en": "marriage (get married)"
+  },
+  {
+   "id": "n5-v-286",
+   "expression": "さ来年",
+   "reading": "さらいねん",
+   "romaji": "sarainen",
+   "en": "year after next"
+  },
+  {
+   "id": "n5-v-306",
+   "expression": "自分",
+   "reading": "じぶん",
+   "romaji": "jibun",
+   "en": "myself, oneself"
+  },
+  {
+   "id": "n5-v-332",
+   "expression": "～すぎ",
+   "reading": "～すぎ",
+   "romaji": "～sugi",
+   "en": "past; to exceed, ~ too much"
+  },
+  {
+   "id": "n5-v-357",
+   "expression": "全部",
+   "reading": "ぜんぶ",
+   "romaji": "zenbu",
+   "en": "all, entire, whole"
+  },
+  {
+   "id": "n5-v-372",
+   "expression": "大学",
+   "reading": "だいがく",
+   "romaji": "daigaku",
+   "en": "college; university"
+  },
+  {
+   "id": "n5-v-407",
+   "expression": "茶色",
+   "reading": "ちゃいろ",
+   "romaji": "chairo",
+   "en": "brown"
+  },
+  {
+   "id": "n5-v-410",
+   "expression": "丁度",
+   "reading": "ちょうど",
+   "romaji": "choudo",
+   "en": "just, right, exactly"
+  },
+  {
+   "id": "n5-v-511",
+   "expression": "～年",
+   "reading": "～ねん",
+   "romaji": "～nen",
+   "en": "~ years"
+  },
+  {
+   "id": "n5-v-529",
+   "expression": "初め; 始め",
+   "reading": "はじめ",
+   "romaji": "hajime",
+   "en": "beginning, start"
+  },
+  {
+   "id": "n5-v-548",
+   "expression": "晴れる",
+   "reading": "はれる",
+   "romaji": "hareru",
+   "en": "to be sunny"
+  },
+  {
+   "id": "n5-v-556",
+   "expression": "半分",
+   "reading": "はんぶん",
+   "romaji": "hanbun",
+   "en": "half"
+  },
+  {
+   "id": "n5-v-603",
+   "expression": "外",
+   "reading": "ほか",
+   "romaji": "hoka",
+   "en": "other, the rest"
+  },
+  {
+   "id": "n5-v-616",
+   "expression": "毎月",
+   "reading": "まいげつ; まいつき",
+   "romaji": "maigetsu;maitsuki",
+   "en": "every month, monthly"
+  },
+  {
+   "id": "n5-v-617",
+   "expression": "毎週",
+   "reading": "まいしゅう",
+   "romaji": "maishuu",
+   "en": "every week"
+  },
+  {
+   "id": "n5-v-619",
+   "expression": "毎年",
+   "reading": "まいねん; まいとし",
+   "romaji": "mainen;maitoshi",
+   "en": "every year, yearly, annually"
+  },
+  {
+   "id": "n5-v-644",
+   "expression": "緑",
+   "reading": "みどり",
+   "romaji": "midori",
+   "en": "green"
+  },
+  {
+   "id": "n5-v-663",
+   "expression": "物",
+   "reading": "もの",
+   "romaji": "mono",
+   "en": "thing (concrete object)"
+  },
+  {
+   "id": "n5-v-693",
+   "expression": "来月",
+   "reading": "らいげつ",
+   "romaji": "raigetsu",
+   "en": "next month"
+  },
+  {
+   "id": "n5-v-694",
+   "expression": "来週",
+   "reading": "らいしゅう",
+   "romaji": "raishuu",
+   "en": "next week"
+  },
+  {
+   "id": "n5-v-695",
+   "expression": "来年",
+   "reading": "らいねん",
+   "romaji": "rainen",
+   "en": "next year"
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "meta": {
+  "n": 11,
+  "slug": "kazoekata",
+  "title": {
+   "ja": "いくつありますか",
+   "ta": "எத்தனை இருக்கிறது?",
+   "en": "How many?"
+  },
+  "theme": {
+   "en": "Counting people and things, shopping quantities, frequency and duration.",
+   "ta": "மக்கள், பொருட்களை எண்ணுவது, வாங்கும் அளவு, எவ்வளவு முறை, எத்தனை நாள்."
+  },
+  "grammar": [
+   {
+    "id": "g11-1",
+    "pattern": "〜つ / 〜人 / 〜枚 / 〜台 / 〜本 / 〜匹 / 〜冊 / 〜個 / 〜回 / 〜歳",
+    "en": "Counters and their irregular readings"
+   },
+   {
+    "id": "g11-2",
+    "pattern": "N を quantity V",
+    "en": "Quantity goes right before the verb: りんごを三つ買います"
+   },
+   {
+    "id": "g11-3",
+    "pattern": "いくつ / 何人 / 何枚 … / どのぐらい",
+    "en": "Question words for quantity"
+   },
+   {
+    "id": "g11-4",
+    "pattern": "〜時間 / 〜日 / 〜週間 / 〜か月 / 〜年",
+    "en": "Duration expressions"
+   },
+   {
+    "id": "g11-5",
+    "pattern": "period に 〜回",
+    "en": "Frequency: 一週間に二回"
+   },
+   {
+    "id": "g11-6",
+    "pattern": "〜だけ",
+    "en": "Only"
+   },
+   {
+    "id": "g11-7",
+    "pattern": "〜ぐらい / 〜ごろ",
+    "en": "Approximately (amount) / around (time)"
+   }
+  ],
+  "vocabHints": [
+   "counters",
+   "fruit, vegetables, eggs, paper, stamps, letters, postcards",
+   "duration words",
+   "how many / how long",
+   "post office and shopping phrases"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-050",
+   "expression": "いくつ",
+   "reading": "いくつ",
+   "romaji": "ikutsu",
+   "en": "how many, how old"
+  },
+  {
+   "id": "n5-v-063",
+   "expression": "五つ",
+   "reading": "いつつ",
+   "romaji": "itsutsu",
+   "en": "five things"
+  },
+  {
+   "id": "n5-v-142",
+   "expression": "～回",
+   "reading": "～かい",
+   "romaji": "～kai",
+   "en": "counter for occurrences (~ times)"
+  },
+  {
+   "id": "n5-v-198",
+   "expression": "切手",
+   "reading": "きって",
+   "romaji": "kitte",
+   "en": "postal (postage) stamps"
+  },
+  {
+   "id": "n5-v-227",
+   "expression": "～くらい; ぐらい",
+   "reading": "～くらい; ぐらい",
+   "romaji": "～kurai;gurai",
+   "en": "approximate (quantity)"
+  },
+  {
+   "id": "n5-v-242",
+   "expression": "～個",
+   "reading": "～こ",
+   "romaji": "～ko",
+   "en": "counter for small items (e.g., fruits, cups)"
+  },
+  {
+   "id": "n5-v-255",
+   "expression": "九つ",
+   "reading": "ここのつ",
+   "romaji": "kokonotsu",
+   "en": "nine things"
+  },
+  {
+   "id": "n5-v-269",
+   "expression": "～ころ; ～ごろ",
+   "reading": "～ころ; ～ごろ",
+   "romaji": "～koro;～goro",
+   "en": "about, toward, approximately (time)"
+  },
+  {
+   "id": "n5-v-282",
+   "expression": "～冊",
+   "reading": "～さつ",
+   "romaji": "～satsu",
+   "en": "counter for books"
+  },
+  {
+   "id": "n5-v-295",
+   "expression": "～時間",
+   "reading": "～じかん",
+   "romaji": "～jikan",
+   "en": "~ hours"
+  },
+  {
+   "id": "n5-v-316",
+   "expression": "～週間",
+   "reading": "～しゅうかん",
+   "romaji": "～shuukan",
+   "en": "~ weeks"
+  },
+  {
+   "id": "n5-v-337",
+   "expression": "～ずつ",
+   "reading": "～ずつ",
+   "romaji": "～zutsu",
+   "en": "at a time"
+  },
+  {
+   "id": "n5-v-371",
+   "expression": "～台",
+   "reading": "～だい",
+   "romaji": "～dai",
+   "en": "counter for vehicles; machines"
+  },
+  {
+   "id": "n5-v-380",
+   "expression": "～だけ",
+   "reading": "～だけ",
+   "romaji": "～dake",
+   "en": "only ~, just ~, as ~"
+  },
+  {
+   "id": "n5-v-451",
+   "expression": "十",
+   "reading": "(〜を) とお",
+   "romaji": "(~wo)too",
+   "en": "ten (~)"
+  },
+  {
+   "id": "n5-v-487",
+   "expression": "七つ",
+   "reading": "ななつ",
+   "romaji": "nanatsu",
+   "en": "seven things"
+  },
+  {
+   "id": "n5-v-505",
+   "expression": "～人",
+   "reading": "～にん",
+   "romaji": "～nin",
+   "en": "counter for people"
+  },
+  {
+   "id": "n5-v-520",
+   "expression": "～杯",
+   "reading": "～はい",
+   "romaji": "～hai",
+   "en": "counter for cupfuls"
+  },
+  {
+   "id": "n5-v-523",
+   "expression": "葉書",
+   "reading": "はがき",
+   "romaji": "hagaki",
+   "en": "postcard"
+  },
+  {
+   "id": "n5-v-534",
+   "expression": "二十歳",
+   "reading": "はたち",
+   "romaji": "hatachi",
+   "en": "20 years old"
+  },
+  {
+   "id": "n5-v-558",
+   "expression": "～匹",
+   "reading": "～ひき",
+   "romaji": "～hiki",
+   "en": "counter for small animals"
+  },
+  {
+   "id": "n5-v-565",
+   "expression": "一つ",
+   "reading": "ひとつ",
+   "romaji": "hitotsu",
+   "en": "one thing"
+  },
+  {
+   "id": "n5-v-577",
+   "expression": "封筒",
+   "reading": "ふうとう",
+   "romaji": "fuutou",
+   "en": "envelope"
+  },
+  {
+   "id": "n5-v-582",
+   "expression": "二つ",
+   "reading": "ふたつ",
+   "romaji": "futatsu",
+   "en": "two things"
+  },
+  {
+   "id": "n5-v-584",
+   "expression": "二人",
+   "reading": "ふたり",
+   "romaji": "futari",
+   "en": "two people"
+  },
+  {
+   "id": "n5-v-611",
+   "expression": "～本",
+   "reading": "～ほん",
+   "romaji": "～hon",
+   "en": "counter for long cylindrical things"
+  },
+  {
+   "id": "n5-v-614",
+   "expression": "～枚",
+   "reading": "～まい",
+   "romaji": "～mai",
+   "en": "counter for flat things"
+  },
+  {
+   "id": "n5-v-643",
+   "expression": "三つ",
+   "reading": "みっつ",
+   "romaji": "mittsu",
+   "en": "three things"
+  },
+  {
+   "id": "n5-v-653",
+   "expression": "六つ",
+   "reading": "むっつ",
+   "romaji": "muttsu",
+   "en": "six things"
+  },
+  {
+   "id": "n5-v-673",
+   "expression": "八つ",
+   "reading": "やっつ",
+   "romaji": "yattsu",
+   "en": "eight things"
+  },
+  {
+   "id": "n5-v-688",
+   "expression": "四つ",
+   "reading": "よっつ",
+   "romaji": "yottsu",
+   "en": "four things"
+  }
+ ]
+}

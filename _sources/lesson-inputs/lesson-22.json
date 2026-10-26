@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "n": 22,
+  "slug": "meishi-shuushoku",
+  "title": {
+   "ja": "どんな部屋ですか",
+   "ta": "எப்படிப்பட்ட அறை?",
+   "en": "Describing with clauses"
+  },
+  "theme": {
+   "en": "Clothes and shopping, apartments and renting, describing things with a whole clause.",
+   "ta": "உடைகள், ஷாப்பிங், வீடு வாடகை; முழு வாக்கியத்தால் விவரிப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g22-1",
+    "pattern": "V plain + N",
+    "en": "Verb clauses modifying nouns: 京都へ行く人"
+   },
+   {
+    "id": "g22-2",
+    "pattern": "い-adj / な-adj + N (review in clauses)",
+    "en": "Stacked modifiers"
+   },
+   {
+    "id": "g22-3",
+    "pattern": "V plain 時間 / 約束 / 用事",
+    "en": "Time to do / promise to / errand to"
+   },
+   {
+    "id": "g22-4",
+    "pattern": "V ましょうか (offering) vs V ましょう",
+    "en": "Review contrast"
+   },
+   {
+    "id": "g22-5",
+    "pattern": "N1 が N2 (clause subject)",
+    "en": "Subject inside a modifying clause takes が"
+   },
+   {
+    "id": "g22-6",
+    "pattern": "これは 〜が 作った N です",
+    "en": "Relative clause with past tense"
+   }
+  ],
+  "vocabHints": [
+   "clothes: shirt, trousers, shoes, hat, glasses, coat, dress, wear verbs (着ます、履きます、かぶります、かけます)",
+   "apartment: rent, room, floor plan, kitchen, close to station, quiet",
+   "shopping: size, colour, cheap, choose, try on, pay",
+   "time to, appointment, errand"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-003",
+   "expression": "青",
+   "reading": "あお",
+   "romaji": "ao",
+   "en": "blue"
+  },
+  {
+   "id": "n5-v-005",
+   "expression": "赤",
+   "reading": "あか",
+   "romaji": "aka",
+   "en": "red"
+  },
+  {
+   "id": "n5-v-074",
+   "expression": "色",
+   "reading": "いろ",
+   "romaji": "iro",
+   "en": "color"
+  },
+  {
+   "id": "n5-v-086",
+   "expression": "上着",
+   "reading": "うわぎ",
+   "romaji": "uwagi",
+   "en": "coat, jacket"
+  },
+  {
+   "id": "n5-v-100",
+   "expression": "大きな",
+   "reading": "おおきな",
+   "romaji": "ookina",
+   "en": "big"
+  },
+  {
+   "id": "n5-v-158",
+   "expression": "掛ける",
+   "reading": "かける",
+   "romaji": "kakeru",
+   "en": "to put on (e.g., glasses); to hang (e.g., on a wall)"
+  },
+  {
+   "id": "n5-v-174",
+   "expression": "かぶる",
+   "reading": "かぶる",
+   "romaji": "kaburu",
+   "en": "to wear, to put on (e.g., a hat on the head)"
+  },
+  {
+   "id": "n5-v-190",
+   "expression": "黄色",
+   "reading": "きいろ",
+   "romaji": "kiiro",
+   "en": "yellow"
+  },
+  {
+   "id": "n5-v-210",
+   "expression": "着る",
+   "reading": "きる",
+   "romaji": "kiru",
+   "en": "to put on (clothes above your waist); to wear"
+  },
+  {
+   "id": "n5-v-221",
+   "expression": "靴",
+   "reading": "くつ",
+   "romaji": "kutsu",
+   "en": "shoes, footwear"
+  },
+  {
+   "id": "n5-v-222",
+   "expression": "靴下",
+   "reading": "くつした",
+   "romaji": "kutsushita",
+   "en": "socks"
+  },
+  {
+   "id": "n5-v-232",
+   "expression": "黒",
+   "reading": "くろ",
+   "romaji": "kuro",
+   "en": "black"
+  },
+  {
+   "id": "n5-v-250",
+   "expression": "コート",
+   "reading": "コート",
+   "romaji": "kooto",
+   "en": "coat; court (e.g., tennis)"
+  },
+  {
+   "id": "n5-v-312",
+   "expression": "シャツ",
+   "reading": "シャツ",
+   "romaji": "shatsu",
+   "en": "shirt"
+  },
+  {
+   "id": "n5-v-324",
+   "expression": "白",
+   "reading": "しろ",
+   "romaji": "shiro",
+   "en": "white"
+  },
+  {
+   "id": "n5-v-330",
+   "expression": "スカート",
+   "reading": "スカート",
+   "romaji": "sukaato",
+   "en": "skirt"
+  },
+  {
+   "id": "n5-v-341",
+   "expression": "ズボン",
+   "reading": "ズボン",
+   "romaji": "zubon",
+   "en": "trousers"
+  },
+  {
+   "id": "n5-v-347",
+   "expression": "セーター",
+   "reading": "セーター",
+   "romaji": "seetaa",
+   "en": "sweater"
+  },
+  {
+   "id": "n5-v-349",
+   "expression": "背広",
+   "reading": "せびろ",
+   "romaji": "sebiro",
+   "en": "men's suit"
+  },
+  {
+   "id": "n5-v-350",
+   "expression": "狭い",
+   "reading": "せまい",
+   "romaji": "semai",
+   "en": "narrow; not spacious"
+  },
+  {
+   "id": "n5-v-386",
+   "expression": "たて",
+   "reading": "たて",
+   "romaji": "tate",
+   "en": "length, height"
+  },
+  {
+   "id": "n5-v-400",
+   "expression": "小さな",
+   "reading": "ちいさな",
+   "romaji": "chiisana",
+   "en": "small, little"
+  },
+  {
+   "id": "n5-v-508",
+   "expression": "ネクタイ",
+   "reading": "ネクタイ",
+   "romaji": "nekutai",
+   "en": "tie, necktie"
+  },
+  {
+   "id": "n5-v-524",
+   "expression": "はく",
+   "reading": "はく",
+   "romaji": "haku",
+   "en": "to put on (items below your waist)"
+  },
+  {
+   "id": "n5-v-553",
+   "expression": "ハンカチ",
+   "reading": "ハンカチ",
+   "romaji": "hankachi",
+   "en": "handkerchief"
+  },
+  {
+   "id": "n5-v-575",
+   "expression": "広い",
+   "reading": "ひろい",
+   "romaji": "hiroi",
+   "en": "spacious; wide; broad"
+  },
+  {
+   "id": "n5-v-581",
+   "expression": "服",
+   "reading": "ふく",
+   "romaji": "fuku",
+   "en": "clothes"
+  },
+  {
+   "id": "n5-v-601",
+   "expression": "帽子",
+   "reading": "ぼうし",
+   "romaji": "boushi",
+   "en": "hat; cap"
+  },
+  {
+   "id": "n5-v-604",
+   "expression": "ポケット",
+   "reading": "ポケット",
+   "romaji": "poketto",
+   "en": "pocket"
+  },
+  {
+   "id": "n5-v-657",
+   "expression": "眼鏡",
+   "reading": "めがね",
+   "romaji": "megane",
+   "en": "eye glasses"
+  },
+  {
+   "id": "n5-v-684",
+   "expression": "洋服",
+   "reading": "ようふく",
+   "romaji": "youfuku",
+   "en": "Western-style clothes"
+  },
+  {
+   "id": "n5-v-710",
+   "expression": "ワイシャツ",
+   "reading": "ワイシャツ",
+   "romaji": "waishatsu",
+   "en": "shirt (lit: white shirt), business shirt"
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "meta": {
+  "n": 3,
+  "slug": "koko-doko-ikura",
+  "title": {
+   "ja": "ここはどこですか",
+   "ta": "இது எந்த இடம்?",
+   "en": "Where is this? How much?"
+  },
+  "theme": {
+   "en": "Places in a building and town, shops, countries, prices and large numbers.",
+   "ta": "கட்டிடம் மற்றும் ஊரில் உள்ள இடங்கள், கடைகள், நாடுகள், விலைகள், பெரிய எண்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g03-1",
+    "pattern": "ここ / そこ / あそこ / こちら / そちら / あちら",
+    "en": "Place demonstratives, polite forms"
+   },
+   {
+    "id": "g03-2",
+    "pattern": "N は place です",
+    "en": "Stating where something is"
+   },
+   {
+    "id": "g03-3",
+    "pattern": "どこ / どちら",
+    "en": "Where (plain / polite)"
+   },
+   {
+    "id": "g03-4",
+    "pattern": "N1 の N2 (country / company of origin)",
+    "en": "日本の車, どこの時計"
+   },
+   {
+    "id": "g03-5",
+    "pattern": "いくらですか / 〜円",
+    "en": "Asking prices, numbers 100 to 10,000, yen"
+   },
+   {
+    "id": "g03-6",
+    "pattern": "〜階 / 何階",
+    "en": "Floors of a building"
+   }
+  ],
+  "vocabHints": [
+   "places: station, bank, post office, hospital, department store, toilet, lift, stairs",
+   "countries",
+   "numbers 100-10000",
+   "shop words",
+   "floor counter"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-017",
+   "expression": "あそこ",
+   "reading": "あそこ",
+   "romaji": "asoko",
+   "en": "there, over there, that place"
+  },
+  {
+   "id": "n5-v-022",
+   "expression": "あちら",
+   "reading": "あちら",
+   "romaji": "achira",
+   "en": "this way (polite)"
+  },
+  {
+   "id": "n5-v-051",
+   "expression": "いくら",
+   "reading": "いくら",
+   "romaji": "ikura",
+   "en": "how much, how many"
+  },
+  {
+   "id": "n5-v-092",
+   "expression": "駅",
+   "reading": "えき",
+   "romaji": "eki",
+   "en": "station"
+  },
+  {
+   "id": "n5-v-094",
+   "expression": "～円",
+   "reading": "～えん",
+   "romaji": "～en",
+   "en": "Yen"
+  },
+  {
+   "id": "n5-v-116",
+   "expression": "お手洗い",
+   "reading": "おてあらい",
+   "romaji": "otearai",
+   "en": "toilet, restroom, bathroom (lit., a place to wash one's hands)"
+  },
+  {
+   "id": "n5-v-143",
+   "expression": "～階",
+   "reading": "～かい",
+   "romaji": "～kai",
+   "en": "counter for stories (floors) of a building"
+  },
+  {
+   "id": "n5-v-144",
+   "expression": "外国",
+   "reading": "がいこく",
+   "romaji": "gaikoku",
+   "en": "foreign country; abroad"
+  },
+  {
+   "id": "n5-v-147",
+   "expression": "階段",
+   "reading": "かいだん",
+   "romaji": "kaidan",
+   "en": "stairs"
+  },
+  {
+   "id": "n5-v-214",
+   "expression": "銀行",
+   "reading": "ぎんこう",
+   "romaji": "ginkou",
+   "en": "bank"
+  },
+  {
+   "id": "n5-v-248",
+   "expression": "交番",
+   "reading": "こうばん",
+   "romaji": "kouban",
+   "en": "police box"
+  },
+  {
+   "id": "n5-v-252",
+   "expression": "ここ",
+   "reading": "ここ",
+   "romaji": "koko",
+   "en": "here, this place"
+  },
+  {
+   "id": "n5-v-258",
+   "expression": "こちら",
+   "reading": "こちら",
+   "romaji": "kochira",
+   "en": "this person (polite); this way (polite)"
+  },
+  {
+   "id": "n5-v-352",
+   "expression": "千",
+   "reading": "せん",
+   "romaji": "sen",
+   "en": "thousand"
+  },
+  {
+   "id": "n5-v-361",
+   "expression": "そこ",
+   "reading": "そこ",
+   "romaji": "soko",
+   "en": "that place, there; bottom, sole"
+  },
+  {
+   "id": "n5-v-362",
+   "expression": "そちら",
+   "reading": "そちら",
+   "romaji": "sochira",
+   "en": "over there"
+  },
+  {
+   "id": "n5-v-387",
+   "expression": "建物",
+   "reading": "たてもの",
+   "romaji": "tatemono",
+   "en": "building"
+  },
+  {
+   "id": "n5-v-434",
+   "expression": "デパート",
+   "reading": "デパート",
+   "romaji": "depaato",
+   "en": "(abbr.) department store"
+  },
+  {
+   "id": "n5-v-457",
+   "expression": "どこ",
+   "reading": "どこ",
+   "romaji": "doko",
+   "en": "where, what place"
+  },
+  {
+   "id": "n5-v-461",
+   "expression": "どちら",
+   "reading": "どちら",
+   "romaji": "dochira",
+   "en": "which (one) (way); where (polite)"
+  },
+  {
+   "id": "n5-v-495",
+   "expression": "何～",
+   "reading": "なん～",
+   "romaji": "nan～",
+   "en": "what sort of ~"
+  },
+  {
+   "id": "n5-v-551",
+   "expression": "～番",
+   "reading": "～ばん",
+   "romaji": "～ban",
+   "en": "~st; ~th best"
+  },
+  {
+   "id": "n5-v-554",
+   "expression": "番号",
+   "reading": "ばんごう",
+   "romaji": "bangou",
+   "en": "number, series of digits"
+  },
+  {
+   "id": "n5-v-569",
+   "expression": "百",
+   "reading": "ひゃく",
+   "romaji": "hyaku",
+   "en": "hundred"
+  },
+  {
+   "id": "n5-v-570",
+   "expression": "病院",
+   "reading": "びょういん",
+   "romaji": "byouin",
+   "en": "hospital"
+  },
+  {
+   "id": "n5-v-633",
+   "expression": "万",
+   "reading": "まん",
+   "romaji": "man",
+   "en": "ten thousand"
+  },
+  {
+   "id": "n5-v-666",
+   "expression": "～屋",
+   "reading": "～や",
+   "romaji": "～ya",
+   "en": "~ shop"
+  },
+  {
+   "id": "n5-v-667",
+   "expression": "八百屋",
+   "reading": "やおや",
+   "romaji": "yaoya",
+   "en": "greengrocer"
+  },
+  {
+   "id": "n5-v-678",
+   "expression": "郵便局",
+   "reading": "ゆうびんきょく",
+   "romaji": "yuubinkyoku",
+   "en": "post office"
+  },
+  {
+   "id": "n5-v-703",
+   "expression": "零",
+   "reading": "れい",
+   "romaji": "rei",
+   "en": "zero, nought"
+  }
+ ]
+}

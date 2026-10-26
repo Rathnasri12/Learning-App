@@ -1,0 +1,269 @@
+{
+ "meta": {
+  "n": 4,
+  "slug": "ima-nanji",
+  "title": {
+   "ja": "今何時ですか",
+   "ta": "இப்போது மணி என்ன?",
+   "en": "What time is it?"
+  },
+  "theme": {
+   "en": "Telling time, days of the week, daily routine, opening hours.",
+   "ta": "நேரம் சொல்வது, வாரநாட்கள், தினசரி வழக்கம், திறக்கும்/மூடும் நேரம்."
+  },
+  "grammar": [
+   {
+    "id": "g04-1",
+    "pattern": "今 〜時 〜分 です",
+    "en": "Telling the time; 半"
+   },
+   {
+    "id": "g04-2",
+    "pattern": "V ます / V ません",
+    "en": "Polite non-past verbs: 起きます、寝ます、働きます、勉強します"
+   },
+   {
+    "id": "g04-3",
+    "pattern": "V ました / V ませんでした",
+    "en": "Polite past verbs"
+   },
+   {
+    "id": "g04-4",
+    "pattern": "N(time) に V",
+    "en": "に with specific times and days"
+   },
+   {
+    "id": "g04-5",
+    "pattern": "N1 から N2 まで",
+    "en": "From … to …"
+   },
+   {
+    "id": "g04-6",
+    "pattern": "N1 と N2",
+    "en": "と joining nouns"
+   },
+   {
+    "id": "g04-7",
+    "pattern": "〜ね",
+    "en": "Sentence-final ね seeking agreement"
+   },
+   {
+    "id": "g04-8",
+    "pattern": "〜曜日 / 毎日 / 毎朝 / 毎晩",
+    "en": "Days of the week and every-day words"
+   }
+  ],
+  "vocabHints": [
+   "hours, minutes, half",
+   "days of week",
+   "morning/noon/evening/night",
+   "daily verbs: wake, sleep, work, rest, study, end",
+   "today/tomorrow/yesterday"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-012",
+   "expression": "朝",
+   "reading": "あさ",
+   "romaji": "asa",
+   "en": "morning"
+  },
+  {
+   "id": "n5-v-016",
+   "expression": "明日",
+   "reading": "あした",
+   "romaji": "ashita",
+   "en": "tomorrow"
+  },
+  {
+   "id": "n5-v-058",
+   "expression": "一日",
+   "reading": "いちにち",
+   "romaji": "ichinichi",
+   "en": "one day (duration)"
+  },
+  {
+   "id": "n5-v-066",
+   "expression": "今",
+   "reading": "いま",
+   "romaji": "ima",
+   "en": "now"
+  },
+  {
+   "id": "n5-v-105",
+   "expression": "起きる",
+   "reading": "おきる",
+   "romaji": "okiru",
+   "en": "to get up (e.g., from sleeping); to happen"
+  },
+  {
+   "id": "n5-v-177",
+   "expression": "火曜日",
+   "reading": "かようび",
+   "romaji": "kayoubi",
+   "en": "Tuesday"
+  },
+  {
+   "id": "n5-v-200",
+   "expression": "昨日",
+   "reading": "きのう",
+   "romaji": "kinou",
+   "en": "yesterday"
+  },
+  {
+   "id": "n5-v-204",
+   "expression": "今日",
+   "reading": "きょう",
+   "romaji": "kyou",
+   "en": "today, this day"
+  },
+  {
+   "id": "n5-v-215",
+   "expression": "金曜日",
+   "reading": "きんようび",
+   "romaji": "kin'youbi",
+   "en": "Friday"
+  },
+  {
+   "id": "n5-v-239",
+   "expression": "月曜日",
+   "reading": "げつようび",
+   "romaji": "getsuyoubi",
+   "en": "Monday"
+  },
+  {
+   "id": "n5-v-253",
+   "expression": "午後",
+   "reading": "ごご",
+   "romaji": "gogo",
+   "en": "afternoon, P.M."
+  },
+  {
+   "id": "n5-v-256",
+   "expression": "午前",
+   "reading": "ごぜん",
+   "romaji": "gozen",
+   "en": "morning, A.M."
+  },
+  {
+   "id": "n5-v-291",
+   "expression": "～時",
+   "reading": "～じ",
+   "romaji": "～ji",
+   "en": "~ o'clock (time)"
+  },
+  {
+   "id": "n5-v-328",
+   "expression": "水曜日",
+   "reading": "すいようび",
+   "romaji": "suiyoubi",
+   "en": "Wednesday"
+  },
+  {
+   "id": "n5-v-470",
+   "expression": "土曜日",
+   "reading": "どようび",
+   "romaji": "doyoubi",
+   "en": "Saturday"
+  },
+  {
+   "id": "n5-v-501",
+   "expression": "日曜日",
+   "reading": "にちようび",
+   "romaji": "nichiyoubi",
+   "en": "Sunday"
+  },
+  {
+   "id": "n5-v-510",
+   "expression": "寝る",
+   "reading": "ねる",
+   "romaji": "neru",
+   "en": "to sleep; to go to sleep; to go to bed"
+  },
+  {
+   "id": "n5-v-535",
+   "expression": "働く",
+   "reading": "はたらく",
+   "romaji": "hataraku",
+   "en": "to work"
+  },
+  {
+   "id": "n5-v-543",
+   "expression": "早い",
+   "reading": "はやい",
+   "romaji": "hayai",
+   "en": "early"
+  },
+  {
+   "id": "n5-v-549",
+   "expression": "半",
+   "reading": "はん",
+   "romaji": "han",
+   "en": "half (e.g., にじはん | half-past two)"
+  },
+  {
+   "id": "n5-v-550",
+   "expression": "晩",
+   "reading": "ばん",
+   "romaji": "ban",
+   "en": "evening"
+  },
+  {
+   "id": "n5-v-573",
+   "expression": "昼",
+   "reading": "ひる",
+   "romaji": "hiru",
+   "en": "noon, daytime"
+  },
+  {
+   "id": "n5-v-590",
+   "expression": "～分",
+   "reading": "～ふん",
+   "romaji": "～fun",
+   "en": "~ minutes"
+  },
+  {
+   "id": "n5-v-615",
+   "expression": "毎朝",
+   "reading": "まいあさ",
+   "romaji": "maiasa",
+   "en": "every morning"
+  },
+  {
+   "id": "n5-v-618",
+   "expression": "毎日",
+   "reading": "まいにち",
+   "romaji": "mainichi",
+   "en": "every day"
+  },
+  {
+   "id": "n5-v-620",
+   "expression": "毎晩",
+   "reading": "まいばん",
+   "romaji": "maiban",
+   "en": "every night"
+  },
+  {
+   "id": "n5-v-659",
+   "expression": "木曜日",
+   "reading": "もくようび",
+   "romaji": "mokuyoubi",
+   "en": "Thursday"
+  },
+  {
+   "id": "n5-v-676",
+   "expression": "夕方",
+   "reading": "ゆうがた",
+   "romaji": "yuugata",
+   "en": "late afternoon (typically just before dinner time), evening"
+  },
+  {
+   "id": "n5-v-691",
+   "expression": "夜",
+   "reading": "よる",
+   "romaji": "yoru",
+   "en": "evening, night"
+  }
+ ]
+}

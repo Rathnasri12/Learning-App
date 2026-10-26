@@ -1,0 +1,350 @@
+[
+  {
+    "id": "n5-v-007",
+    "expression": "明るい",
+    "reading": "あかるい",
+    "romaji": "akarui",
+    "en": "bright; cheerful",
+    "ta": "வெளிச்சமான (பிரகாசமான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この部屋は 明るいです。", "reading": "この へやは あかるいです。", "romaji": "kono heya wa akarui desu.", "ta": "இந்த அறை வெளிச்சமாக இருக்கிறது.", "en": "This room is bright." }
+    ]
+  },
+  {
+    "id": "n5-v-015",
+    "expression": "足; 脚",
+    "reading": "あし",
+    "romaji": "ashi",
+    "en": "foot; leg",
+    "ta": "கால்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "弟は 足が 長いです。", "reading": "おとうとは あしが ながいです。", "romaji": "otouto wa ashi ga nagai desu.", "ta": "தம்பிக்குக் கால்கள் நீளம்.", "en": "My younger brother has long legs." }
+    ]
+  },
+  {
+    "id": "n5-v-020",
+    "expression": "頭",
+    "reading": "あたま",
+    "romaji": "atama",
+    "en": "head",
+    "ta": "தலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この犬は 頭が 小さいです。", "reading": "この いぬは あたまが ちいさいです。", "romaji": "kono inu wa atama ga chiisai desu.", "ta": "இந்த நாய்க்குத் தலை சிறியது.", "en": "This dog has a small head." }
+    ]
+  },
+  {
+    "id": "n5-v-073",
+    "expression": "入れる",
+    "reading": "いれる",
+    "romaji": "ireru",
+    "en": "to put in",
+    "ta": "உள்ளே போட",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "コーヒーに 砂糖を 入れます。", "reading": "コーヒーに さとうを いれます。", "romaji": "koohii ni satou o iremasu.", "ta": "காபியில் சர்க்கரை போடுகிறேன்.", "en": "I put sugar in my coffee." }
+    ]
+  },
+  {
+    "id": "n5-v-113",
+    "expression": "押す",
+    "reading": "おす",
+    "romaji": "osu",
+    "en": "to push; to press",
+    "ta": "அழுத்த (தள்ள)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "ここを 押してください。", "reading": "ここを おしてください。", "romaji": "koko o oshite kudasai.", "ta": "இங்கே அழுத்துங்கள்.", "en": "Please press here." }
+    ]
+  },
+  {
+    "id": "n5-v-137",
+    "expression": "降りる",
+    "reading": "おりる",
+    "romaji": "oriru",
+    "en": "to get off",
+    "ta": "இறங்க (வாகனத்திலிருந்து)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "次の駅で 降ります。", "reading": "つぎの えきで おります。", "romaji": "tsugi no eki de orimasu.", "ta": "அடுத்த ஸ்டேஷனில் இறங்குகிறேன்.", "en": "I get off at the next station." }
+    ]
+  },
+  {
+    "id": "n5-v-152",
+    "expression": "顔",
+    "reading": "かお",
+    "romaji": "kao",
+    "en": "face",
+    "ta": "முகம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "妹は 顔が 丸いです。", "reading": "いもうとは かおが まるいです。", "romaji": "imouto wa kao ga marui desu.", "ta": "தங்கைக்கு முகம் வட்டமானது.", "en": "My younger sister has a round face." }
+    ]
+  },
+  {
+    "id": "n5-v-196",
+    "expression": "汚い",
+    "reading": "きたない",
+    "romaji": "kitanai",
+    "en": "dirty",
+    "ta": "அழுக்கான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "このお皿は 汚いですね。", "reading": "この おさらは きたないですね。", "romaji": "kono osara wa kitanai desu ne.", "ta": "இந்தத் தட்டு அழுக்காக இருக்கிறதே.", "en": "This plate is dirty, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-220",
+    "expression": "口",
+    "reading": "くち",
+    "romaji": "kuchi",
+    "en": "mouth",
+    "ta": "வாய்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "口を 開けてください。", "reading": "くちを あけてください。", "romaji": "kuchi o akete kudasai.", "ta": "வாயைத் திறங்கள்.", "en": "Please open your mouth." }
+    ]
+  },
+  {
+    "id": "n5-v-226",
+    "expression": "暗い",
+    "reading": "くらい",
+    "romaji": "kurai",
+    "en": "dark",
+    "ta": "இருட்டான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この部屋は ちょっと 暗いですね。", "reading": "この へやは ちょっと くらいですね。", "romaji": "kono heya wa chotto kurai desu ne.", "ta": "இந்த அறை கொஞ்சம் இருட்டாக இருக்கிறதே.", "en": "This room is a little dark, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-313",
+    "expression": "シャワー",
+    "reading": "シャワー",
+    "romaji": "shawaa",
+    "en": "shower",
+    "ta": "ஷவர் (குளியல்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "シャワーの あとで 朝ご飯を 食べます。", "reading": "シャワーの あとで あさごはんを たべます。", "romaji": "shawaa no ato de asagohan o tabemasu.", "ta": "ஷவருக்குப் பிறகு காலை உணவு சாப்பிடுகிறேன்.", "en": "After my shower I eat breakfast." }
+    ]
+  },
+  {
+    "id": "n5-v-345",
+    "expression": "背",
+    "reading": "せい",
+    "romaji": "sei",
+    "en": "height (of a person)",
+    "ta": "உயரம் (ஆளின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄は 背が 高いです。", "reading": "あには せが たかいです。", "romaji": "ani wa se ga takai desu.", "ta": "அண்ணன் உயரமாக இருக்கிறார்.", "en": "My older brother is tall." }
+    ]
+  },
+  {
+    "id": "n5-v-360",
+    "expression": "そうして; そして",
+    "reading": "そうして; そして",
+    "romaji": "soushite;soshite",
+    "en": "and then",
+    "ta": "பிறகு (மற்றும்)",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "朝 起きます。そして、歯を 磨きます。", "reading": "あさ おきます。そして、はを みがきます。", "romaji": "asa okimasu. soshite, ha o migakimasu.", "ta": "காலையில் எழுகிறேன். பிறகு பல் துலக்குகிறேன்.", "en": "I get up in the morning. Then I brush my teeth." }
+    ]
+  },
+  {
+    "id": "n5-v-369",
+    "expression": "それから",
+    "reading": "それから",
+    "romaji": "sorekara",
+    "en": "after that",
+    "ta": "அதன் பிறகு",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "銀行へ 行きます。それから、デパートへ 行きます。", "reading": "ぎんこうへ いきます。それから、デパートへ いきます。", "romaji": "ginkou e ikimasu. sorekara, depaato e ikimasu.", "ta": "வங்கிக்குப் போகிறேன். அதன் பிறகு டிபார்ட்மென்ட் ஸ்டோருக்குப் போகிறேன்.", "en": "I go to the bank. After that I go to the department store." }
+    ]
+  },
+  {
+    "id": "n5-v-423",
+    "expression": "強い",
+    "reading": "つよい",
+    "romaji": "tsuyoi",
+    "en": "strong",
+    "ta": "வலிமையான (பலமான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "今日は 風が 強いです。", "reading": "きょうは かぜが つよいです。", "romaji": "kyou wa kaze ga tsuyoi desu.", "ta": "இன்று காற்று பலமாக அடிக்கிறது.", "en": "The wind is strong today." }
+    ]
+  },
+  {
+    "id": "n5-v-424",
+    "expression": "手",
+    "reading": "て",
+    "romaji": "te",
+    "en": "hand",
+    "ta": "கை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "手を 見せてください。", "reading": "てを みせてください。", "romaji": "te o misete kudasai.", "ta": "கையைக் காட்டுங்கள்.", "en": "Please show me your hand." }
+    ]
+  },
+  {
+    "id": "n5-v-480",
+    "expression": "長い",
+    "reading": "ながい",
+    "romaji": "nagai",
+    "en": "long",
+    "ta": "நீளமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この川は とても 長いです。", "reading": "この かわは とても ながいです。", "romaji": "kono kawa wa totemo nagai desu.", "ta": "இந்த ஆறு மிக நீளமானது.", "en": "This river is very long." }
+    ]
+  },
+  {
+    "id": "n5-v-516",
+    "expression": "乗る",
+    "reading": "のる",
+    "romaji": "noru",
+    "en": "to get on; to ride",
+    "ta": "ஏற (வாகனத்தில்)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "駅で 電車に 乗ります。", "reading": "えきで でんしゃに のります。", "romaji": "eki de densha ni norimasu.", "ta": "ஸ்டேஷனில் ரயிலில் ஏறுகிறேன்.", "en": "I get on the train at the station." }
+    ]
+  },
+  {
+    "id": "n5-v-517",
+    "expression": "歯",
+    "reading": "は",
+    "romaji": "ha",
+    "en": "tooth",
+    "ta": "பல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 歯を 磨きます。", "reading": "まいばん はを みがきます。", "romaji": "maiban ha o migakimasu.", "ta": "ஒவ்வொரு இரவும் பல் துலக்குகிறேன்.", "en": "I brush my teeth every night." }
+    ]
+  },
+  {
+    "id": "n5-v-539",
+    "expression": "鼻",
+    "reading": "はな",
+    "romaji": "hana",
+    "en": "nose",
+    "ta": "மூக்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "犬は 鼻が いいです。", "reading": "いぬは はなが いいです。", "romaji": "inu wa hana ga ii desu.", "ta": "நாய்க்கு மூக்கு (மோப்ப சக்தி) நல்லது.", "en": "Dogs have a good nose." }
+    ]
+  },
+  {
+    "id": "n5-v-559",
+    "expression": "引く",
+    "reading": "ひく",
+    "romaji": "hiku",
+    "en": "to pull",
+    "ta": "இழுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "このドアを 引いてください。", "reading": "この ドアを ひいてください。", "romaji": "kono doa o hiite kudasai.", "ta": "இந்தக் கதவை இழுங்கள்.", "en": "Please pull this door." }
+    ]
+  },
+  {
+    "id": "n5-v-561",
+    "expression": "低い",
+    "reading": "ひくい",
+    "romaji": "hikui",
+    "en": "low; short (height)",
+    "ta": "தாழ்வான (குட்டையான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "妹は 背が 低いです。", "reading": "いもうとは せが ひくいです。", "romaji": "imouto wa se ga hikui desu.", "ta": "தங்கை குட்டையானவள்.", "en": "My younger sister is short." }
+    ]
+  },
+  {
+    "id": "n5-v-607",
+    "expression": "細い",
+    "reading": "ほそい",
+    "romaji": "hosoi",
+    "en": "thin; slender",
+    "ta": "மெலிந்த (ஒல்லியான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "母は 手が 細いです。", "reading": "ははは てが ほそいです。", "romaji": "haha wa te ga hosoi desu.", "ta": "அம்மாவின் கைகள் மெலிந்தவை.", "en": "My mother has slender hands." }
+    ]
+  },
+  {
+    "id": "n5-v-635",
+    "expression": "磨く",
+    "reading": "みがく",
+    "romaji": "migaku",
+    "en": "to brush; to polish",
+    "ta": "துலக்க (பல்)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "ご飯の あとで 歯を 磨きます。", "reading": "ごはんの あとで はを みがきます。", "romaji": "gohan no ato de ha o migakimasu.", "ta": "சாப்பாட்டுக்குப் பிறகு பல் துலக்குகிறேன்.", "en": "I brush my teeth after meals." }
+    ]
+  },
+  {
+    "id": "n5-v-637",
+    "expression": "短い",
+    "reading": "みじかい",
+    "romaji": "mijikai",
+    "en": "short (length)",
+    "ta": "குட்டையான (நீளம் குறைந்த)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この鉛筆は 短いです。", "reading": "この えんぴつは みじかいです。", "romaji": "kono enpitsu wa mijikai desu.", "ta": "இந்தப் பென்சில் குட்டையானது.", "en": "This pencil is short." }
+    ]
+  },
+  {
+    "id": "n5-v-647",
+    "expression": "耳",
+    "reading": "みみ",
+    "romaji": "mimi",
+    "en": "ear",
+    "ta": "காது",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この猫は 耳が 大きいです。", "reading": "この ねこは みみが おおきいです。", "romaji": "kono neko wa mimi ga ookii desu.", "ta": "இந்தப் பூனைக்குக் காது பெரிது.", "en": "This cat has big ears." }
+    ]
+  },
+  {
+    "id": "n5-v-655",
+    "expression": "目",
+    "reading": "め",
+    "romaji": "me",
+    "en": "eye",
+    "ta": "கண்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "田中さんは 目が 大きいです。", "reading": "たなかさんは めが おおきいです。", "romaji": "tanaka san wa me ga ookii desu.", "ta": "தனாகா-சானுக்குக் கண்கள் பெரிது.", "en": "Tanaka has big eyes." }
+    ]
+  },
+  {
+    "id": "n5-v-692",
+    "expression": "弱い",
+    "reading": "よわい",
+    "romaji": "yowai",
+    "en": "weak",
+    "ta": "பலவீனமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この犬は 小さくて、弱いです。", "reading": "この いぬは ちいさくて、よわいです。", "romaji": "kono inu wa chiisakute, yowai desu.", "ta": "இந்த நாய் சிறியதாகவும் பலவீனமாகவும் இருக்கிறது.", "en": "This dog is small and weak." }
+    ]
+  },
+  {
+    "id": "n5-v-711",
+    "expression": "若い",
+    "reading": "わかい",
+    "romaji": "wakai",
+    "en": "young",
+    "ta": "இளமையான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "あの先生は 若いです。", "reading": "あの せんせいは わかいです。", "romaji": "ano sensei wa wakai desu.", "ta": "அந்த ஆசிரியர் இளமையானவர்.", "en": "That teacher is young." }
+    ]
+  }
+]

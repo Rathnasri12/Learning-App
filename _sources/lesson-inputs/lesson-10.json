@@ -1,0 +1,281 @@
+{
+ "meta": {
+  "n": 10,
+  "slug": "arimasu-imasu",
+  "title": {
+   "ja": "あります・います",
+   "ta": "இருக்கிறது, இருக்கிறார்",
+   "en": "There is / there are"
+  },
+  "theme": {
+   "en": "Home and rooms, furniture, neighbourhood, pets, where things are.",
+   "ta": "வீடு, அறைகள், தளபாடங்கள், அக்கம்பக்கம், செல்லப்பிராணிகள், பொருட்கள் எங்கே உள்ளன."
+  },
+  "grammar": [
+   {
+    "id": "g10-1",
+    "pattern": "N が あります / います",
+    "en": "Existence of things vs living beings"
+   },
+   {
+    "id": "g10-2",
+    "pattern": "place に N が あります / います",
+    "en": "There is X at place"
+   },
+   {
+    "id": "g10-3",
+    "pattern": "N は place に あります / います",
+    "en": "X is at place"
+   },
+   {
+    "id": "g10-4",
+    "pattern": "N1 (上・下・前・後ろ・中・右・左・隣・近く・間) に",
+    "en": "Position words"
+   },
+   {
+    "id": "g10-5",
+    "pattern": "N1 や N2 (など)",
+    "en": "Non-exhaustive listing"
+   },
+   {
+    "id": "g10-6",
+    "pattern": "〜ですか。…ですね。",
+    "en": "Confirming with ね (review in context)"
+   }
+  ],
+  "vocabHints": [
+   "house: room, kitchen, toilet, bath, entrance, garden, door, window",
+   "furniture: table, chair, bed, shelf, refrigerator, box",
+   "position words",
+   "neighbourhood: park, convenience store, supermarket, library, embassy, pool",
+   "pets: dog, cat, bird, fish",
+   "family in house"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-040",
+   "expression": "在る",
+   "reading": "ある",
+   "romaji": "aru",
+   "en": "to be, to have"
+  },
+  {
+   "id": "n5-v-047",
+   "expression": "家",
+   "reading": "いえ",
+   "romaji": "ie",
+   "en": "house, home"
+  },
+  {
+   "id": "n5-v-054",
+   "expression": "椅子",
+   "reading": "いす",
+   "romaji": "isu",
+   "en": "chair"
+  },
+  {
+   "id": "n5-v-065",
+   "expression": "犬",
+   "reading": "いぬ",
+   "romaji": "inu",
+   "en": "dog"
+  },
+  {
+   "id": "n5-v-071",
+   "expression": "居る",
+   "reading": "いる",
+   "romaji": "iru",
+   "en": "(humble) to be (animate), to exist"
+  },
+  {
+   "id": "n5-v-076",
+   "expression": "上",
+   "reading": "うえ",
+   "romaji": "ue",
+   "en": "above (up, top, etc.), over, on top of"
+  },
+  {
+   "id": "n5-v-077",
+   "expression": "後ろ",
+   "reading": "うしろ",
+   "romaji": "ushiro",
+   "en": "back, behind, rear"
+  },
+  {
+   "id": "n5-v-081",
+   "expression": "うち",
+   "reading": "うち",
+   "romaji": "uchi",
+   "en": "home; house; my place"
+  },
+  {
+   "id": "n5-v-240",
+   "expression": "玄関",
+   "reading": "げんかん",
+   "romaji": "genkan",
+   "en": "entrance (to a house or a building)"
+  },
+  {
+   "id": "n5-v-299",
+   "expression": "下",
+   "reading": "した",
+   "romaji": "shita",
+   "en": "under, below, beneath"
+  },
+  {
+   "id": "n5-v-377",
+   "expression": "台所",
+   "reading": "だいどころ",
+   "romaji": "daidokoro",
+   "en": "kitchen"
+  },
+  {
+   "id": "n5-v-403",
+   "expression": "近く",
+   "reading": "ちかく",
+   "romaji": "chikaku",
+   "en": "nearby; in the neighborhood"
+  },
+  {
+   "id": "n5-v-417",
+   "expression": "机",
+   "reading": "つくえ",
+   "romaji": "tsukue",
+   "en": "desk"
+  },
+  {
+   "id": "n5-v-427",
+   "expression": "テーブル",
+   "reading": "テーブル",
+   "romaji": "teeburu",
+   "en": "table"
+  },
+  {
+   "id": "n5-v-444",
+   "expression": "ドア",
+   "reading": "ドア",
+   "romaji": "doa",
+   "en": "door (Western style)"
+  },
+  {
+   "id": "n5-v-445",
+   "expression": "トイレ",
+   "reading": "トイレ",
+   "romaji": "toire",
+   "en": "bathroom; toilet"
+  },
+  {
+   "id": "n5-v-465",
+   "expression": "隣",
+   "reading": "となり",
+   "romaji": "tonari",
+   "en": "next to, next door to"
+  },
+  {
+   "id": "n5-v-471",
+   "expression": "鳥",
+   "reading": "とり",
+   "romaji": "tori",
+   "en": "chicken (lit., bird)"
+  },
+  {
+   "id": "n5-v-479",
+   "expression": "中",
+   "reading": "なか",
+   "romaji": "naka",
+   "en": "inside, middle, among"
+  },
+  {
+   "id": "n5-v-486",
+   "expression": "～など",
+   "reading": "～など",
+   "romaji": "～nado",
+   "en": "et cetera"
+  },
+  {
+   "id": "n5-v-504",
+   "expression": "庭",
+   "reading": "にわ",
+   "romaji": "niwa",
+   "en": "garden"
+  },
+  {
+   "id": "n5-v-509",
+   "expression": "猫",
+   "reading": "ねこ",
+   "romaji": "neko",
+   "en": "cat"
+  },
+  {
+   "id": "n5-v-563",
+   "expression": "左",
+   "reading": "ひだり",
+   "romaji": "hidari",
+   "en": "left hand side"
+  },
+  {
+   "id": "n5-v-594",
+   "expression": "ベッド",
+   "reading": "ベッド",
+   "romaji": "beddo",
+   "en": "bed"
+  },
+  {
+   "id": "n5-v-595",
+   "expression": "ペット",
+   "reading": "ペット",
+   "romaji": "petto",
+   "en": "pet"
+  },
+  {
+   "id": "n5-v-596",
+   "expression": "部屋",
+   "reading": "へや",
+   "romaji": "heya",
+   "en": "a room"
+  },
+  {
+   "id": "n5-v-612",
+   "expression": "本棚",
+   "reading": "ほんだな",
+   "romaji": "hondana",
+   "en": "bookshelf"
+  },
+  {
+   "id": "n5-v-621",
+   "expression": "前",
+   "reading": "まえ",
+   "romaji": "mae",
+   "en": "before, in front"
+  },
+  {
+   "id": "n5-v-631",
+   "expression": "窓",
+   "reading": "まど",
+   "romaji": "mado",
+   "en": "window"
+  },
+  {
+   "id": "n5-v-636",
+   "expression": "右",
+   "reading": "みぎ",
+   "romaji": "migi",
+   "en": "right hand side"
+  },
+  {
+   "id": "n5-v-664",
+   "expression": "門",
+   "reading": "もん",
+   "romaji": "mon",
+   "en": "gate"
+  },
+  {
+   "id": "n5-v-704",
+   "expression": "冷蔵庫",
+   "reading": "れいぞうこ",
+   "romaji": "reizouko",
+   "en": "refrigerator"
+  }
+ ]
+}

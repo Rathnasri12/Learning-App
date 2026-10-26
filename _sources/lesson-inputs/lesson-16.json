@@ -1,0 +1,263 @@
+{
+ "meta": {
+  "n": 16,
+  "slug": "te-te",
+  "title": {
+   "ja": "〜て、〜て",
+   "ta": "〜 செய்து, 〜 செய்து",
+   "en": "Doing this and then that"
+  },
+  "theme": {
+   "en": "Sequences of actions, procedures (ATM, trains), describing people's features.",
+   "ta": "செயல் வரிசை, நடைமுறைகள் (ATM, ரயில்), மனிதர்களின் தோற்றத்தை விவரிப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g16-1",
+    "pattern": "V1 て、V2 て、… V3",
+    "en": "Joining actions in sequence"
+   },
+   {
+    "id": "g16-2",
+    "pattern": "い-adj 〜くて、〜 / な-adj・N で、〜",
+    "en": "Joining adjectives and nouns"
+   },
+   {
+    "id": "g16-3",
+    "pattern": "V1 てから、V2",
+    "en": "After doing V1"
+   },
+   {
+    "id": "g16-4",
+    "pattern": "V1 た あとで、V2 / N の あとで",
+    "en": "After (with た-form preview and nouns)"
+   },
+   {
+    "id": "g16-5",
+    "pattern": "N1 は N2 が adj",
+    "en": "Describing parts: 彼は髪が長いです"
+   },
+   {
+    "id": "g16-6",
+    "pattern": "どうやって",
+    "en": "How (in what way)"
+   },
+   {
+    "id": "g16-7",
+    "pattern": "そして / それから",
+    "en": "And then (sentence connectors)"
+   }
+  ],
+  "vocabHints": [
+   "body: head, hair, face, eyes, ears, nose, mouth, teeth, hands, legs",
+   "ATM / station: push, insert, take out, change trains, get on/off, card, button",
+   "adjectives: young, long, short, tall, bright, dark, strong, weak",
+   "describing: shower, exercise"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-007",
+   "expression": "明るい",
+   "reading": "あかるい",
+   "romaji": "akarui",
+   "en": "bright (in reference to personality or weather); cheerful"
+  },
+  {
+   "id": "n5-v-015",
+   "expression": "足; 脚",
+   "reading": "あし",
+   "romaji": "ashi",
+   "en": "foot; leg"
+  },
+  {
+   "id": "n5-v-020",
+   "expression": "頭",
+   "reading": "あたま",
+   "romaji": "atama",
+   "en": "head"
+  },
+  {
+   "id": "n5-v-073",
+   "expression": "入れる",
+   "reading": "いれる",
+   "romaji": "ireru",
+   "en": "to put in"
+  },
+  {
+   "id": "n5-v-113",
+   "expression": "押す",
+   "reading": "おす",
+   "romaji": "osu",
+   "en": "to push, to press, to stamp (e.g., a passport)"
+  },
+  {
+   "id": "n5-v-137",
+   "expression": "降りる",
+   "reading": "おりる",
+   "romaji": "oriru",
+   "en": "to get off"
+  },
+  {
+   "id": "n5-v-152",
+   "expression": "顔",
+   "reading": "かお",
+   "romaji": "kao",
+   "en": "face (body part)"
+  },
+  {
+   "id": "n5-v-196",
+   "expression": "汚い",
+   "reading": "きたない",
+   "romaji": "kitanai",
+   "en": "dirty, unclean, filthy"
+  },
+  {
+   "id": "n5-v-220",
+   "expression": "口",
+   "reading": "くち",
+   "romaji": "kuchi",
+   "en": "job opening; mouth"
+  },
+  {
+   "id": "n5-v-226",
+   "expression": "暗い",
+   "reading": "くらい",
+   "romaji": "kurai",
+   "en": "dark, gloomy"
+  },
+  {
+   "id": "n5-v-313",
+   "expression": "シャワー",
+   "reading": "シャワー",
+   "romaji": "shawaa",
+   "en": "shower"
+  },
+  {
+   "id": "n5-v-345",
+   "expression": "背",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "(one's) height, stature"
+  },
+  {
+   "id": "n5-v-360",
+   "expression": "そうして; そして",
+   "reading": "そうして; そして",
+   "romaji": "soushite;soshite",
+   "en": "and, like that"
+  },
+  {
+   "id": "n5-v-369",
+   "expression": "それから",
+   "reading": "それから",
+   "romaji": "sorekara",
+   "en": "and then, after that"
+  },
+  {
+   "id": "n5-v-423",
+   "expression": "強い",
+   "reading": "つよい",
+   "romaji": "tsuyoi",
+   "en": "strong, powerful"
+  },
+  {
+   "id": "n5-v-424",
+   "expression": "手",
+   "reading": "て",
+   "romaji": "te",
+   "en": "hand"
+  },
+  {
+   "id": "n5-v-480",
+   "expression": "長い",
+   "reading": "ながい",
+   "romaji": "nagai",
+   "en": "long, lengthy"
+  },
+  {
+   "id": "n5-v-516",
+   "expression": "乗る",
+   "reading": "のる",
+   "romaji": "noru",
+   "en": "to get on, to ride in, to board"
+  },
+  {
+   "id": "n5-v-517",
+   "expression": "歯",
+   "reading": "は",
+   "romaji": "ha",
+   "en": "tooth"
+  },
+  {
+   "id": "n5-v-539",
+   "expression": "鼻",
+   "reading": "はな",
+   "romaji": "hana",
+   "en": "nose"
+  },
+  {
+   "id": "n5-v-559",
+   "expression": "引く",
+   "reading": "ひく",
+   "romaji": "hiku",
+   "en": "to pull, to draw; subtract"
+  },
+  {
+   "id": "n5-v-561",
+   "expression": "低い",
+   "reading": "ひくい",
+   "romaji": "hikui",
+   "en": "short, low"
+  },
+  {
+   "id": "n5-v-607",
+   "expression": "細い",
+   "reading": "ほそい",
+   "romaji": "hosoi",
+   "en": "thin, slender, fine"
+  },
+  {
+   "id": "n5-v-635",
+   "expression": "磨く",
+   "reading": "みがく",
+   "romaji": "migaku",
+   "en": "to brush (teeth); to polish"
+  },
+  {
+   "id": "n5-v-637",
+   "expression": "短い",
+   "reading": "みじかい",
+   "romaji": "mijikai",
+   "en": "short (length)"
+  },
+  {
+   "id": "n5-v-647",
+   "expression": "耳",
+   "reading": "みみ",
+   "romaji": "mimi",
+   "en": "ear"
+  },
+  {
+   "id": "n5-v-655",
+   "expression": "目",
+   "reading": "め",
+   "romaji": "me",
+   "en": "eye(s)"
+  },
+  {
+   "id": "n5-v-692",
+   "expression": "弱い",
+   "reading": "よわい",
+   "romaji": "yowai",
+   "en": "weak"
+  },
+  {
+   "id": "n5-v-711",
+   "expression": "若い",
+   "reading": "わかい",
+   "romaji": "wakai",
+   "en": "young"
+  }
+ ]
+}

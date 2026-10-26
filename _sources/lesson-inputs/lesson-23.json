@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "n": 23,
+  "slug": "toki-to",
+  "title": {
+   "ja": "〜時、〜と",
+   "ta": "〜 போது, 〜 என்றால்",
+   "en": "When … / If …"
+  },
+  "theme": {
+   "en": "Directions and machines, situations and their results, body and health reactions.",
+   "ta": "வழி, இயந்திரங்கள், நிலைமைகள், விளைவுகள்; உடல், உடல்நலம்."
+  },
+  "grammar": [
+   {
+    "id": "g23-1",
+    "pattern": "V / adj / N の 時、〜",
+    "en": "When (clause with 時)"
+   },
+   {
+    "id": "g23-2",
+    "pattern": "V dictionary form と、〜",
+    "en": "When/if X happens, Y naturally follows: このボタンを押すと、お釣りが出ます"
+   },
+   {
+    "id": "g23-3",
+    "pattern": "N が adj / V (observation)",
+    "en": "音が小さいです"
+   },
+   {
+    "id": "g23-4",
+    "pattern": "N を V (movement through / along)",
+    "en": "道を渡ります、角を曲がります"
+   },
+   {
+    "id": "g23-5",
+    "pattern": "〜ながら",
+    "en": "While doing (simultaneous actions)"
+   },
+   {
+    "id": "g23-6",
+    "pattern": "Tense inside 時 clauses",
+    "en": "Non-past vs past before 時"
+   }
+  ],
+  "vocabHints": [
+   "machines: vending machine, button, sound, light, electricity, broken, repair",
+   "directions: road, bridge, intersection, traffic light, right/left, straight",
+   "body states: sleepy, tired, sick, lonely, scared",
+   "while, when, young, student days"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-009",
+   "expression": "開く",
+   "reading": "あく",
+   "romaji": "aku",
+   "en": "to open, to become open"
+  },
+  {
+   "id": "n5-v-186",
+   "expression": "～側",
+   "reading": "～がわ",
+   "romaji": "～gawa",
+   "en": "~ side"
+  },
+  {
+   "id": "n5-v-192",
+   "expression": "消える",
+   "reading": "きえる",
+   "romaji": "kieru",
+   "en": "to vanish, to disappear"
+  },
+  {
+   "id": "n5-v-194",
+   "expression": "北",
+   "reading": "きた",
+   "romaji": "kita",
+   "en": "north"
+  },
+  {
+   "id": "n5-v-213",
+   "expression": "キロ; キロメートル",
+   "reading": "キロ; キロメートル",
+   "romaji": "kiro;kiromeetoru",
+   "en": "(abbr.) kilo (kilometer)"
+  },
+  {
+   "id": "n5-v-225",
+   "expression": "曇る",
+   "reading": "くもる",
+   "romaji": "kumoru",
+   "en": "to become cloudy, to become dim"
+  },
+  {
+   "id": "n5-v-246",
+   "expression": "交差点",
+   "reading": "こうさてん",
+   "romaji": "kousaten",
+   "en": "intersection"
+  },
+  {
+   "id": "n5-v-278",
+   "expression": "先",
+   "reading": "さき",
+   "romaji": "saki",
+   "en": "future; recent, previous"
+  },
+  {
+   "id": "n5-v-281",
+   "expression": "差す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to raise (stretch out) hands, to raise (e.g., umbrella)"
+  },
+  {
+   "id": "n5-v-307",
+   "expression": "閉まる",
+   "reading": "しまる",
+   "romaji": "shimaru",
+   "en": "to close, to be closed"
+  },
+  {
+   "id": "n5-v-315",
+   "expression": "～中",
+   "reading": "～じゅう",
+   "romaji": "～juu",
+   "en": "during, while"
+  },
+  {
+   "id": "n5-v-338",
+   "expression": "ストーブ",
+   "reading": "ストーブ",
+   "romaji": "sutoobu",
+   "en": "heater (lit: stove)"
+  },
+  {
+   "id": "n5-v-364",
+   "expression": "外",
+   "reading": "そと",
+   "romaji": "soto",
+   "en": "outside, exterior"
+  },
+  {
+   "id": "n5-v-409",
+   "expression": "～中",
+   "reading": "～ちゅう",
+   "romaji": "～chuu",
+   "en": "during, while ~ing"
+  },
+  {
+   "id": "n5-v-416",
+   "expression": "着く",
+   "reading": "つく",
+   "romaji": "tsuku",
+   "en": "to arrive at, to reach"
+  },
+  {
+   "id": "n5-v-439",
+   "expression": "電気",
+   "reading": "でんき",
+   "romaji": "denki",
+   "en": "electricity, (electric) light"
+  },
+  {
+   "id": "n5-v-442",
+   "expression": "戸",
+   "reading": "と",
+   "romaji": "to",
+   "en": "door (Japanese style)"
+  },
+  {
+   "id": "n5-v-454",
+   "expression": "～時",
+   "reading": "～とき",
+   "romaji": "～toki",
+   "en": "at the time of ~"
+  },
+  {
+   "id": "n5-v-481",
+   "expression": "鳴く",
+   "reading": "なく",
+   "romaji": "naku",
+   "en": "to make sound (animal)"
+  },
+  {
+   "id": "n5-v-492",
+   "expression": "並ぶ",
+   "reading": "ならぶ",
+   "romaji": "narabu",
+   "en": "to line up, to stand in a line (v.i.)"
+  },
+  {
+   "id": "n5-v-499",
+   "expression": "西",
+   "reading": "にし",
+   "romaji": "nishi",
+   "en": "west"
+  },
+  {
+   "id": "n5-v-526",
+   "expression": "橋",
+   "reading": "はし",
+   "romaji": "hashi",
+   "en": "bridge"
+  },
+  {
+   "id": "n5-v-557",
+   "expression": "東",
+   "reading": "ひがし",
+   "romaji": "higashi",
+   "en": "east"
+  },
+  {
+   "id": "n5-v-580",
+   "expression": "吹く",
+   "reading": "ふく",
+   "romaji": "fuku",
+   "en": "to blow (wind, etc.)"
+  },
+  {
+   "id": "n5-v-597",
+   "expression": "辺",
+   "reading": "へん",
+   "romaji": "hen",
+   "en": "area, vicinity"
+  },
+  {
+   "id": "n5-v-608",
+   "expression": "ボタン",
+   "reading": "ボタン",
+   "romaji": "botan",
+   "en": "button"
+  },
+  {
+   "id": "n5-v-641",
+   "expression": "道",
+   "reading": "みち",
+   "romaji": "michi",
+   "en": "road, street; way, directions"
+  },
+  {
+   "id": "n5-v-646",
+   "expression": "南",
+   "reading": "みなみ",
+   "romaji": "minami",
+   "en": "South"
+  },
+  {
+   "id": "n5-v-651",
+   "expression": "向こう",
+   "reading": "むこう",
+   "romaji": "mukou",
+   "en": "beyond, over there"
+  },
+  {
+   "id": "n5-v-656",
+   "expression": "メートル",
+   "reading": "メートル",
+   "romaji": "meetoru",
+   "en": "meter"
+  },
+  {
+   "id": "n5-v-686",
+   "expression": "横",
+   "reading": "よこ",
+   "romaji": "yoko",
+   "en": "beside; side; width"
+  },
+  {
+   "id": "n5-v-717",
+   "expression": "渡る",
+   "reading": "わたる",
+   "romaji": "wataru",
+   "en": "to cross over, to go across"
+  }
+ ]
+}

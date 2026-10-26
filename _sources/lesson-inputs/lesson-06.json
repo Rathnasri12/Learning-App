@@ -1,0 +1,270 @@
+{
+ "meta": {
+  "n": 6,
+  "slug": "nani-o-shimasu-ka",
+  "title": {
+   "ja": "何をしますか",
+   "ta": "என்ன செய்கிறீர்கள்?",
+   "en": "What will you do?"
+  },
+  "theme": {
+   "en": "Food and drink, hobbies and leisure, inviting someone out.",
+   "ta": "உணவு, பானம், பொழுதுபோக்கு; ஒருவரை வெளியே அழைப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g06-1",
+    "pattern": "N を V",
+    "en": "Object marker を: ご飯を食べます"
+   },
+   {
+    "id": "g06-2",
+    "pattern": "N を します",
+    "en": "します with activity nouns: サッカーをします、勉強をします"
+   },
+   {
+    "id": "g06-3",
+    "pattern": "何を しますか / 何 vs 何",
+    "en": "Asking what; なん vs なに readings"
+   },
+   {
+    "id": "g06-4",
+    "pattern": "N(place) で V",
+    "en": "Location of an action with で"
+   },
+   {
+    "id": "g06-5",
+    "pattern": "V ませんか",
+    "en": "Inviting: won't you …?"
+   },
+   {
+    "id": "g06-6",
+    "pattern": "V ましょう",
+    "en": "Let's …"
+   },
+   {
+    "id": "g06-7",
+    "pattern": "〜か (何か / 誰か)",
+    "en": "Something / someone (introductory)"
+   }
+  ],
+  "vocabHints": [
+   "food, drink, meals",
+   "verbs: eat, drink, see, listen, read, write, buy, take photos, do, meet",
+   "leisure: film, music, sport, party, tennis",
+   "shop/restaurant/garden places"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-013",
+   "expression": "朝御飯",
+   "reading": "あさごはん",
+   "romaji": "asagohan",
+   "en": "breakfast"
+  },
+  {
+   "id": "n5-v-038",
+   "expression": "飴",
+   "reading": "あめ",
+   "romaji": "ame",
+   "en": "(hard) candy"
+  },
+  {
+   "id": "n5-v-088",
+   "expression": "映画",
+   "reading": "えいが",
+   "romaji": "eiga",
+   "en": "movie, film"
+  },
+  {
+   "id": "n5-v-089",
+   "expression": "映画館",
+   "reading": "えいがかん",
+   "romaji": "eigakan",
+   "en": "movie theater, cinema"
+  },
+  {
+   "id": "n5-v-103",
+   "expression": "お菓子",
+   "reading": "おかし",
+   "romaji": "okashi",
+   "en": "confections, sweets, snack"
+  },
+  {
+   "id": "n5-v-108",
+   "expression": "お酒",
+   "reading": "おさけ",
+   "romaji": "osake",
+   "en": "sake; alcohol"
+  },
+  {
+   "id": "n5-v-115",
+   "expression": "お茶",
+   "reading": "おちゃ",
+   "romaji": "ocha",
+   "en": "(green) tea"
+  },
+  {
+   "id": "n5-v-149",
+   "expression": "買う",
+   "reading": "かう",
+   "romaji": "kau",
+   "en": "to buy"
+  },
+  {
+   "id": "n5-v-155",
+   "expression": "書く",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "to write"
+  },
+  {
+   "id": "n5-v-193",
+   "expression": "聞く",
+   "reading": "きく",
+   "romaji": "kiku",
+   "en": "to hear, to listen, to ask"
+  },
+  {
+   "id": "n5-v-197",
+   "expression": "喫茶店",
+   "reading": "きっさてん",
+   "romaji": "kissaten",
+   "en": "café"
+  },
+  {
+   "id": "n5-v-203",
+   "expression": "牛乳",
+   "reading": "ぎゅうにゅう",
+   "romaji": "gyuunyuu",
+   "en": "milk"
+  },
+  {
+   "id": "n5-v-247",
+   "expression": "紅茶",
+   "reading": "こうちゃ",
+   "romaji": "koucha",
+   "en": "black tea"
+  },
+  {
+   "id": "n5-v-251",
+   "expression": "コーヒー",
+   "reading": "コーヒー",
+   "romaji": "koohii",
+   "en": "coffee"
+  },
+  {
+   "id": "n5-v-265",
+   "expression": "御飯",
+   "reading": "ごはん",
+   "romaji": "gohan",
+   "en": "rice (cooked); meal"
+  },
+  {
+   "id": "n5-v-311",
+   "expression": "写真",
+   "reading": "しゃしん",
+   "romaji": "shashin",
+   "en": "a picture; a photograph"
+  },
+  {
+   "id": "n5-v-343",
+   "expression": "する",
+   "reading": "する",
+   "romaji": "suru",
+   "en": "to do, to try; to wear small items (e.g., necktie, watch, etc.)"
+  },
+  {
+   "id": "n5-v-392",
+   "expression": "食べ物",
+   "reading": "たべもの",
+   "romaji": "tabemono",
+   "en": "food"
+  },
+  {
+   "id": "n5-v-393",
+   "expression": "食べる",
+   "reading": "たべる",
+   "romaji": "taberu",
+   "en": "to eat"
+  },
+  {
+   "id": "n5-v-396",
+   "expression": "誰か",
+   "reading": "だれか",
+   "romaji": "dareka",
+   "en": "someone"
+  },
+  {
+   "id": "n5-v-474",
+   "expression": "撮る",
+   "reading": "とる",
+   "romaji": "toru",
+   "en": "to take (a photo), to make (a film)"
+  },
+  {
+   "id": "n5-v-514",
+   "expression": "飲み物",
+   "reading": "のみもの",
+   "romaji": "nomimono",
+   "en": "drink, beverage"
+  },
+  {
+   "id": "n5-v-515",
+   "expression": "飲む",
+   "reading": "のむ",
+   "romaji": "nomu",
+   "en": "to drink"
+  },
+  {
+   "id": "n5-v-555",
+   "expression": "晩御飯",
+   "reading": "ばんごはん",
+   "romaji": "bangohan",
+   "en": "dinner, evening meal"
+  },
+  {
+   "id": "n5-v-574",
+   "expression": "昼御飯",
+   "reading": "ひるごはん",
+   "romaji": "hirugohan",
+   "en": "lunch, midday meal"
+  },
+  {
+   "id": "n5-v-638",
+   "expression": "水",
+   "reading": "みず",
+   "romaji": "mizu",
+   "en": "water"
+  },
+  {
+   "id": "n5-v-639",
+   "expression": "店",
+   "reading": "みせ",
+   "romaji": "mise",
+   "en": "store, shop"
+  },
+  {
+   "id": "n5-v-648",
+   "expression": "見る",
+   "reading": "みる",
+   "romaji": "miru",
+   "en": "to see, to look"
+  },
+  {
+   "id": "n5-v-677",
+   "expression": "夕飯",
+   "reading": "ゆうはん",
+   "romaji": "yuuhan",
+   "en": "dinner, supper, evening meal"
+  },
+  {
+   "id": "n5-v-690",
+   "expression": "読む",
+   "reading": "よむ",
+   "romaji": "yomu",
+   "en": "to read"
+  }
+ ]
+}

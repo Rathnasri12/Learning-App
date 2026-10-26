@@ -1,0 +1,374 @@
+[
+  {
+    "id": "n5-v-050",
+    "expression": "いくつ",
+    "reading": "いくつ",
+    "romaji": "ikutsu",
+    "en": "how many",
+    "ta": "எத்தனை",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "飴はいくつありますか。", "reading": "あめは いくつ ありますか。", "romaji": "ame wa ikutsu arimasu ka.", "ta": "மிட்டாய் எத்தனை இருக்கிறது?", "en": "How many candies are there?" }
+    ]
+  },
+  {
+    "id": "n5-v-063",
+    "expression": "五つ",
+    "reading": "いつつ",
+    "romaji": "itsutsu",
+    "en": "five (things)",
+    "ta": "ஐந்து (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "お皿を五つ買いました。", "reading": "おさらを いつつ かいました。", "romaji": "osara o itsutsu kaimashita.", "ta": "ஐந்து தட்டுகள் வாங்கினேன்.", "en": "I bought five plates." }
+    ]
+  },
+  {
+    "id": "n5-v-142",
+    "expression": "～回",
+    "reading": "～かい",
+    "romaji": "～kai",
+    "en": "times (occurrences)",
+    "ta": "〜 முறை",
+    "pos": "counter",
+    "examples": [
+      { "ja": "一か月に二回映画を見ます。", "reading": "いっかげつに にかい えいがを みます。", "romaji": "ikkagetsu ni nikai eiga o mimasu.", "ta": "மாதத்திற்கு இரண்டு முறை படம் பார்க்கிறேன்.", "en": "I watch a film twice a month." }
+    ]
+  },
+  {
+    "id": "n5-v-198",
+    "expression": "切手",
+    "reading": "きって",
+    "romaji": "kitte",
+    "en": "postage stamp",
+    "ta": "தபால் தலை (ஸ்டாம்ப்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "郵便局で切手を三枚買います。", "reading": "ゆうびんきょくで きってを さんまい かいます。", "romaji": "yuubinkyoku de kitte o sanmai kaimasu.", "ta": "தபால் நிலையத்தில் மூன்று ஸ்டாம்புகள் வாங்குகிறேன்.", "en": "I buy three stamps at the post office." }
+    ]
+  },
+  {
+    "id": "n5-v-227",
+    "expression": "～くらい; ぐらい",
+    "reading": "～くらい; ぐらい",
+    "romaji": "～kurai;gurai",
+    "en": "about, approximately",
+    "ta": "〜 அளவு, சுமார்",
+    "pos": "particle",
+    "examples": [
+      { "ja": "駅から家まで二十分ぐらいです。", "reading": "えきから いえまで にじゅっぷんぐらいです。", "romaji": "eki kara ie made nijuppun gurai desu.", "ta": "ஸ்டேஷனிலிருந்து வீட்டுக்குச் சுமார் இருபது நிமிடம்.", "en": "It is about twenty minutes from the station to my house." }
+    ]
+  },
+  {
+    "id": "n5-v-242",
+    "expression": "～個",
+    "reading": "～こ",
+    "romaji": "～ko",
+    "en": "counter for small items",
+    "ta": "〜 (சிறு பொருட்களை எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "飴を三個食べました。", "reading": "あめを さんこ たべました。", "romaji": "ame o sanko tabemashita.", "ta": "மூன்று மிட்டாய் சாப்பிட்டேன்.", "en": "I ate three candies." }
+    ]
+  },
+  {
+    "id": "n5-v-255",
+    "expression": "九つ",
+    "reading": "ここのつ",
+    "romaji": "kokonotsu",
+    "en": "nine (things)",
+    "ta": "ஒன்பது (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "机の上にコップが九つあります。", "reading": "つくえの うえに コップが ここのつ あります。", "romaji": "tsukue no ue ni koppu ga kokonotsu arimasu.", "ta": "மேசையின் மேல் ஒன்பது கிளாஸ்கள் இருக்கின்றன.", "en": "There are nine glasses on the desk." }
+    ]
+  },
+  {
+    "id": "n5-v-269",
+    "expression": "～ころ; ～ごろ",
+    "reading": "～ころ; ～ごろ",
+    "romaji": "～koro;～goro",
+    "en": "around (a time)",
+    "ta": "〜 சுமார் (நேரம்), 〜 சமயத்தில்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "毎晩十一時ごろ寝ます。", "reading": "まいばん じゅういちじごろ ねます。", "romaji": "maiban juuichiji goro nemasu.", "ta": "தினமும் இரவு சுமார் பதினொரு மணிக்குத் தூங்குகிறேன்.", "en": "I go to bed around eleven every night." }
+    ]
+  },
+  {
+    "id": "n5-v-282",
+    "expression": "～冊",
+    "reading": "～さつ",
+    "romaji": "～satsu",
+    "en": "counter for books",
+    "ta": "〜 (புத்தகங்களை எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "本を二冊借りました。", "reading": "ほんを にさつ かりました。", "romaji": "hon o nisatsu karimashita.", "ta": "இரண்டு புத்தகங்கள் கடன் வாங்கினேன்.", "en": "I borrowed two books." }
+    ]
+  },
+  {
+    "id": "n5-v-295",
+    "expression": "～時間",
+    "reading": "～じかん",
+    "romaji": "～jikan",
+    "en": "hours (duration)",
+    "ta": "〜 மணி நேரம்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "毎日三時間勉強します。", "reading": "まいにち さんじかん べんきょうします。", "romaji": "mainichi sanjikan benkyou shimasu.", "ta": "தினமும் மூன்று மணி நேரம் படிக்கிறேன்.", "en": "I study for three hours every day." }
+    ]
+  },
+  {
+    "id": "n5-v-316",
+    "expression": "～週間",
+    "reading": "～しゅうかん",
+    "romaji": "～shuukan",
+    "en": "weeks (duration)",
+    "ta": "〜 வாரம் (காலம்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "二週間インドへ帰ります。", "reading": "にしゅうかん インドへ かえります。", "romaji": "nishuukan indo e kaerimasu.", "ta": "இரண்டு வாரம் இந்தியாவுக்குத் திரும்பிப் போகிறேன்.", "en": "I am going back to India for two weeks." }
+    ]
+  },
+  {
+    "id": "n5-v-337",
+    "expression": "～ずつ",
+    "reading": "～ずつ",
+    "romaji": "～zutsu",
+    "en": "each, at a time",
+    "ta": "〜 வீதம், தலா",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "子供に飴を二つずつあげます。", "reading": "こどもに あめを ふたつずつ あげます。", "romaji": "kodomo ni ame o futatsu zutsu agemasu.", "ta": "குழந்தைகளுக்கு இரண்டு மிட்டாய் வீதம் கொடுக்கிறேன்.", "en": "I give the children two candies each." }
+    ]
+  },
+  {
+    "id": "n5-v-371",
+    "expression": "～台",
+    "reading": "～だい",
+    "romaji": "～dai",
+    "en": "counter for vehicles, machines",
+    "ta": "〜 (வாகனம், இயந்திரம் எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "家に車が二台あります。", "reading": "いえに くるまが にだい あります。", "romaji": "ie ni kuruma ga nidai arimasu.", "ta": "வீட்டில் இரண்டு கார்கள் இருக்கின்றன.", "en": "There are two cars at home." }
+    ]
+  },
+  {
+    "id": "n5-v-380",
+    "expression": "～だけ",
+    "reading": "～だけ",
+    "romaji": "～dake",
+    "en": "only",
+    "ta": "〜 மட்டும்",
+    "pos": "particle",
+    "examples": [
+      { "ja": "朝はコーヒーだけ飲みます。", "reading": "あさは コーヒーだけ のみます。", "romaji": "asa wa koohii dake nomimasu.", "ta": "காலையில் காபி மட்டும் குடிக்கிறேன்.", "en": "In the morning I drink only coffee." }
+    ]
+  },
+  {
+    "id": "n5-v-451",
+    "expression": "十",
+    "reading": "(〜を) とお",
+    "romaji": "(~wo)too",
+    "en": "ten (things)",
+    "ta": "பத்து (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "台所にお皿が十あります。", "reading": "だいどころに おさらが とお あります。", "romaji": "daidokoro ni osara ga too arimasu.", "ta": "சமையலறையில் பத்து தட்டுகள் இருக்கின்றன.", "en": "There are ten plates in the kitchen." }
+    ]
+  },
+  {
+    "id": "n5-v-487",
+    "expression": "七つ",
+    "reading": "ななつ",
+    "romaji": "nanatsu",
+    "en": "seven (things)",
+    "ta": "ஏழு (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "教室に椅子が七つあります。", "reading": "きょうしつに いすが ななつ あります。", "romaji": "kyoushitsu ni isu ga nanatsu arimasu.", "ta": "வகுப்பறையில் ஏழு நாற்காலிகள் இருக்கின்றன.", "en": "There are seven chairs in the classroom." }
+    ]
+  },
+  {
+    "id": "n5-v-505",
+    "expression": "～人",
+    "reading": "～にん",
+    "romaji": "～nin",
+    "en": "counter for people",
+    "ta": "〜 பேர்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "教室に学生が五人います。", "reading": "きょうしつに がくせいが ごにん います。", "romaji": "kyoushitsu ni gakusei ga gonin imasu.", "ta": "வகுப்பறையில் ஐந்து மாணவர்கள் இருக்கிறார்கள்.", "en": "There are five students in the classroom." }
+    ]
+  },
+  {
+    "id": "n5-v-520",
+    "expression": "～杯",
+    "reading": "～はい",
+    "romaji": "～hai",
+    "en": "counter for cupfuls",
+    "ta": "〜 கப் / கிளாஸ் (எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "毎朝お茶を二杯飲みます。", "reading": "まいあさ おちゃを にはい のみます。", "romaji": "maiasa ocha o nihai nomimasu.", "ta": "தினமும் காலையில் இரண்டு கப் டீ குடிக்கிறேன்.", "en": "I drink two cups of tea every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-523",
+    "expression": "葉書",
+    "reading": "はがき",
+    "romaji": "hagaki",
+    "en": "postcard",
+    "ta": "அஞ்சல் அட்டை (போஸ்ட் கார்டு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達に葉書を書きました。", "reading": "ともだちに はがきを かきました。", "romaji": "tomodachi ni hagaki o kakimashita.", "ta": "நண்பருக்கு போஸ்ட் கார்டு எழுதினேன்.", "en": "I wrote a postcard to my friend." }
+    ]
+  },
+  {
+    "id": "n5-v-534",
+    "expression": "二十歳",
+    "reading": "はたち",
+    "romaji": "hatachi",
+    "en": "twenty years old",
+    "ta": "இருபது வயது",
+    "pos": "noun",
+    "examples": [
+      { "ja": "妹は二十歳です。", "reading": "いもうとは はたちです。", "romaji": "imouto wa hatachi desu.", "ta": "என் தங்கைக்கு இருபது வயது.", "en": "My younger sister is twenty years old." }
+    ]
+  },
+  {
+    "id": "n5-v-558",
+    "expression": "～匹",
+    "reading": "～ひき",
+    "romaji": "～hiki",
+    "en": "counter for small animals",
+    "ta": "〜 (சிறு பிராணிகளை எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "庭に猫が三匹います。", "reading": "にわに ねこが さんびき います。", "romaji": "niwa ni neko ga sanbiki imasu.", "ta": "தோட்டத்தில் மூன்று பூனைகள் இருக்கின்றன.", "en": "There are three cats in the garden." }
+    ]
+  },
+  {
+    "id": "n5-v-565",
+    "expression": "一つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "en": "one (thing)",
+    "ta": "ஒன்று (பொருள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "デパートでかばんを一つ買いました。", "reading": "デパートで かばんを ひとつ かいました。", "romaji": "depaato de kaban o hitotsu kaimashita.", "ta": "டிபார்ட்மென்ட் ஸ்டோரில் ஒரு பை வாங்கினேன்.", "en": "I bought one bag at the department store." }
+    ]
+  },
+  {
+    "id": "n5-v-577",
+    "expression": "封筒",
+    "reading": "ふうとう",
+    "romaji": "fuutou",
+    "en": "envelope",
+    "ta": "கவர் (உறை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "封筒を五枚買います。", "reading": "ふうとうを ごまい かいます。", "romaji": "fuutou o gomai kaimasu.", "ta": "ஐந்து கவர்கள் வாங்குகிறேன்.", "en": "I will buy five envelopes." }
+    ]
+  },
+  {
+    "id": "n5-v-582",
+    "expression": "二つ",
+    "reading": "ふたつ",
+    "romaji": "futatsu",
+    "en": "two (things)",
+    "ta": "இரண்டு (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "部屋に時計が二つあります。", "reading": "へやに とけいが ふたつ あります。", "romaji": "heya ni tokei ga futatsu arimasu.", "ta": "அறையில் இரண்டு கடிகாரங்கள் இருக்கின்றன.", "en": "There are two clocks in the room." }
+    ]
+  },
+  {
+    "id": "n5-v-584",
+    "expression": "二人",
+    "reading": "ふたり",
+    "romaji": "futari",
+    "en": "two people",
+    "ta": "இரண்டு பேர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は子供が二人います。", "reading": "わたしは こどもが ふたり います。", "romaji": "watashi wa kodomo ga futari imasu.", "ta": "எனக்கு இரண்டு குழந்தைகள் இருக்கிறார்கள்.", "en": "I have two children." }
+    ]
+  },
+  {
+    "id": "n5-v-611",
+    "expression": "～本",
+    "reading": "～ほん",
+    "romaji": "～hon",
+    "en": "counter for long things",
+    "ta": "〜 (நீண்ட உருளைப் பொருட்களை எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "友達に鉛筆を三本借りました。", "reading": "ともだちに えんぴつを さんぼん かりました。", "romaji": "tomodachi ni enpitsu o sanbon karimashita.", "ta": "நண்பரிடம் மூன்று பென்சில்கள் கடன் வாங்கினேன்.", "en": "I borrowed three pencils from my friend." }
+    ]
+  },
+  {
+    "id": "n5-v-614",
+    "expression": "～枚",
+    "reading": "～まい",
+    "romaji": "～mai",
+    "en": "counter for flat things",
+    "ta": "〜 (தட்டையான பொருட்களை எண்ணும் சொல்)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "庭で写真を四枚撮りました。", "reading": "にわで しゃしんを よんまい とりました。", "romaji": "niwa de shashin o yonmai torimashita.", "ta": "தோட்டத்தில் நான்கு புகைப்படங்கள் எடுத்தேன்.", "en": "I took four photos in the garden." }
+    ]
+  },
+  {
+    "id": "n5-v-643",
+    "expression": "三つ",
+    "reading": "みっつ",
+    "romaji": "mittsu",
+    "en": "three (things)",
+    "ta": "மூன்று (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "茶碗を三つ買います。", "reading": "ちゃわんを みっつ かいます。", "romaji": "chawan o mittsu kaimasu.", "ta": "மூன்று சோற்றுக் கிண்ணங்கள் வாங்குகிறேன்.", "en": "I will buy three rice bowls." }
+    ]
+  },
+  {
+    "id": "n5-v-653",
+    "expression": "六つ",
+    "reading": "むっつ",
+    "romaji": "muttsu",
+    "en": "six (things)",
+    "ta": "ஆறு (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "店に花瓶が六つあります。", "reading": "みせに かびんが むっつ あります。", "romaji": "mise ni kabin ga muttsu arimasu.", "ta": "கடையில் ஆறு பூஜாடிகள் இருக்கின்றன.", "en": "There are six vases in the shop." }
+    ]
+  },
+  {
+    "id": "n5-v-673",
+    "expression": "八つ",
+    "reading": "やっつ",
+    "romaji": "yattsu",
+    "en": "eight (things)",
+    "ta": "எட்டு (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "お菓子を八つ買いました。", "reading": "おかしを やっつ かいました。", "romaji": "okashi o yattsu kaimashita.", "ta": "எட்டு இனிப்புகள் வாங்கினேன்.", "en": "I bought eight sweets." }
+    ]
+  },
+  {
+    "id": "n5-v-688",
+    "expression": "四つ",
+    "reading": "よっつ",
+    "romaji": "yottsu",
+    "en": "four (things)",
+    "ta": "நான்கு (பொருட்கள்)",
+    "pos": "number",
+    "examples": [
+      { "ja": "部屋に机が四つあります。", "reading": "へやに つくえが よっつ あります。", "romaji": "heya ni tsukue ga yottsu arimasu.", "ta": "அறையில் நான்கு மேசைகள் இருக்கின்றன.", "en": "There are four desks in the room." }
+    ]
+  }
+]

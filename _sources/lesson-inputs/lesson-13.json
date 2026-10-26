@@ -1,0 +1,251 @@
+{
+ "meta": {
+  "n": 13,
+  "slug": "hoshii-tai",
+  "title": {
+   "ja": "〜たいです",
+   "ta": "〜 விரும்புகிறேன்",
+   "en": "I want to …"
+  },
+  "theme": {
+   "en": "Restaurants and ordering, wishes, going somewhere to do something.",
+   "ta": "உணவகம், ஆர்டர் செய்வது, ஆசைகள், ஏதோ செய்ய எங்கோ போவது."
+  },
+  "grammar": [
+   {
+    "id": "g13-1",
+    "pattern": "N が 欲しいです",
+    "en": "Want (a thing)"
+   },
+   {
+    "id": "g13-2",
+    "pattern": "V ます-stem たいです / たくないです",
+    "en": "Want to do; を or が with たい"
+   },
+   {
+    "id": "g13-3",
+    "pattern": "N(place) へ V ます-stem / N に 行きます",
+    "en": "Go somewhere in order to do"
+   },
+   {
+    "id": "g13-4",
+    "pattern": "どこか / 何か + へ / を dropped",
+    "en": "Somewhere / something"
+   },
+   {
+    "id": "g13-5",
+    "pattern": "〜を ください / 〜を お願いします",
+    "en": "Ordering and requesting things"
+   },
+   {
+    "id": "g13-6",
+    "pattern": "別々に / 〜人 (ordering)",
+    "en": "Restaurant phrases"
+   }
+  ],
+  "vocabHints": [
+   "restaurant: menu, set meal, bill, order, waiter",
+   "dishes: curry, noodles, bread, meat, fish, salad, dessert",
+   "verbs: want, borrow, order, rest, swim, walk, play",
+   "places: pool, art gallery, zoo, hotel"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-018",
+   "expression": "遊ぶ",
+   "reading": "あそぶ",
+   "romaji": "asobu",
+   "en": "to play; to spend time pleasantly; to hang out"
+  },
+  {
+   "id": "n5-v-042",
+   "expression": "歩く",
+   "reading": "あるく",
+   "romaji": "aruku",
+   "en": "to walk"
+  },
+  {
+   "id": "n5-v-131",
+   "expression": "お弁当",
+   "reading": "おべんとう",
+   "romaji": "obentou",
+   "en": "a boxed lunch"
+  },
+  {
+   "id": "n5-v-169",
+   "expression": "カップ",
+   "reading": "カップ",
+   "romaji": "kappu",
+   "en": "cup"
+  },
+  {
+   "id": "n5-v-183",
+   "expression": "カレー",
+   "reading": "カレー",
+   "romaji": "karee",
+   "en": "curry (abbr. for curry and rice)"
+  },
+  {
+   "id": "n5-v-202",
+   "expression": "牛肉",
+   "reading": "ぎゅうにく",
+   "romaji": "gyuuniku",
+   "en": "beef"
+  },
+  {
+   "id": "n5-v-218",
+   "expression": "下さい",
+   "reading": "ください",
+   "romaji": "kudasai",
+   "en": "(with te-form verb) please do for me"
+  },
+  {
+   "id": "n5-v-219",
+   "expression": "果物",
+   "reading": "くだもの",
+   "romaji": "kudamono",
+   "en": "fruit"
+  },
+  {
+   "id": "n5-v-229",
+   "expression": "グラム",
+   "reading": "グラム",
+   "romaji": "guramu",
+   "en": "gram"
+  },
+  {
+   "id": "n5-v-277",
+   "expression": "魚",
+   "reading": "さかな",
+   "romaji": "sakana",
+   "en": "fish"
+  },
+  {
+   "id": "n5-v-284",
+   "expression": "砂糖",
+   "reading": "さとう",
+   "romaji": "satou",
+   "en": "sugar"
+  },
+  {
+   "id": "n5-v-292",
+   "expression": "塩",
+   "reading": "しお",
+   "romaji": "shio",
+   "en": "salt"
+  },
+  {
+   "id": "n5-v-321",
+   "expression": "醤油",
+   "reading": "しょうゆ",
+   "romaji": "shouyu",
+   "en": "soy sauce"
+  },
+  {
+   "id": "n5-v-322",
+   "expression": "食堂",
+   "reading": "しょくどう",
+   "romaji": "shokudou",
+   "en": "cafeteria, dining hall"
+  },
+  {
+   "id": "n5-v-366",
+   "expression": "そば",
+   "reading": "そば",
+   "romaji": "soba",
+   "en": "near, close, beside; Japanese traditional buckwheat noodle"
+  },
+  {
+   "id": "n5-v-394",
+   "expression": "卵",
+   "reading": "たまご",
+   "romaji": "tamago",
+   "en": "egg"
+  },
+  {
+   "id": "n5-v-448",
+   "expression": "どうぞ",
+   "reading": "どうぞ",
+   "romaji": "douzo",
+   "en": "please, kindly, by all means"
+  },
+  {
+   "id": "n5-v-449",
+   "expression": "動物",
+   "reading": "どうぶつ",
+   "romaji": "doubutsu",
+   "en": "animal"
+  },
+  {
+   "id": "n5-v-472",
+   "expression": "鶏肉",
+   "reading": "とりにく",
+   "romaji": "toriniku",
+   "en": "chicken meat"
+  },
+  {
+   "id": "n5-v-498",
+   "expression": "肉",
+   "reading": "にく",
+   "romaji": "niku",
+   "en": "meat"
+  },
+  {
+   "id": "n5-v-533",
+   "expression": "バター",
+   "reading": "バター",
+   "romaji": "bataa",
+   "en": "butter"
+  },
+  {
+   "id": "n5-v-552",
+   "expression": "パン",
+   "reading": "パン",
+   "romaji": "pan",
+   "en": "bread"
+  },
+  {
+   "id": "n5-v-578",
+   "expression": "プール",
+   "reading": "プール",
+   "romaji": "puuru",
+   "en": "swimming pool"
+  },
+  {
+   "id": "n5-v-583",
+   "expression": "豚肉",
+   "reading": "ぶたにく",
+   "romaji": "butaniku",
+   "en": "pork"
+  },
+  {
+   "id": "n5-v-605",
+   "expression": "欲しい",
+   "reading": "ほしい",
+   "romaji": "hoshii",
+   "en": "to want, in need of"
+  },
+  {
+   "id": "n5-v-609",
+   "expression": "ホテル",
+   "reading": "ホテル",
+   "romaji": "hoteru",
+   "en": "hotel"
+  },
+  {
+   "id": "n5-v-668",
+   "expression": "野菜",
+   "reading": "やさい",
+   "romaji": "yasai",
+   "en": "vegetable"
+  },
+  {
+   "id": "n5-v-706",
+   "expression": "レストラン",
+   "reading": "レストラン",
+   "romaji": "resutoran",
+   "en": "restaurant"
+  }
+ ]
+}

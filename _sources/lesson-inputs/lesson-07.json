@@ -1,0 +1,272 @@
+{
+ "meta": {
+  "n": 7,
+  "slug": "agemasu-moraimasu",
+  "title": {
+   "ja": "あげます・もらいます",
+   "ta": "கொடுப்பது, பெறுவது",
+   "en": "Giving and receiving"
+  },
+  "theme": {
+   "en": "Family members, gifts, tools and means, languages.",
+   "ta": "குடும்ப உறுப்பினர்கள், பரிசுகள், கருவிகள், மொழிகள்."
+  },
+  "grammar": [
+   {
+    "id": "g07-1",
+    "pattern": "N(tool / means) で V",
+    "en": "By means of: はしで食べます、日本語で話します"
+   },
+   {
+    "id": "g07-2",
+    "pattern": "「word」は 〜語で 何ですか",
+    "en": "Asking how to say something in a language"
+   },
+   {
+    "id": "g07-3",
+    "pattern": "N(person) に あげます / 貸します / 教えます / 書きます / かけます",
+    "en": "Recipient marked with に"
+   },
+   {
+    "id": "g07-4",
+    "pattern": "N(person) に / から もらいます / 借ります / 習います",
+    "en": "Source marked with に or から"
+   },
+   {
+    "id": "g07-5",
+    "pattern": "もう V ました / まだです",
+    "en": "Already / not yet"
+   },
+   {
+    "id": "g07-6",
+    "pattern": "Family terms: 父・母 vs お父さん・お母さん",
+    "en": "Humble vs polite family words"
+   }
+  ],
+  "vocabHints": [
+   "family: father, mother, older/younger siblings, grandparents, husband, wife, child",
+   "gifts: present, flowers, souvenir",
+   "tools: chopsticks, spoon, knife, scissors, computer",
+   "verbs: give, receive, lend, borrow, teach, learn, phone"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-029",
+   "expression": "兄",
+   "reading": "あに",
+   "romaji": "ani",
+   "en": "(my) older brother (humble)"
+  },
+  {
+   "id": "n5-v-030",
+   "expression": "姉",
+   "reading": "あね",
+   "romaji": "ane",
+   "en": "(my) older sister (humble)"
+  },
+  {
+   "id": "n5-v-068",
+   "expression": "妹",
+   "reading": "いもうと",
+   "romaji": "imouto",
+   "en": "younger sister (humble)"
+  },
+  {
+   "id": "n5-v-102",
+   "expression": "お母さん",
+   "reading": "おかあさん",
+   "romaji": "okaasan",
+   "en": "mother (formal)"
+  },
+  {
+   "id": "n5-v-107",
+   "expression": "奥さん",
+   "reading": "おくさん",
+   "romaji": "okusan",
+   "en": "(someone else's) wife (hon.)"
+  },
+  {
+   "id": "n5-v-109",
+   "expression": "お皿",
+   "reading": "おさら",
+   "romaji": "osara",
+   "en": "plate, dish"
+  },
+  {
+   "id": "n5-v-112",
+   "expression": "教える",
+   "reading": "おしえる",
+   "romaji": "oshieru",
+   "en": "to teach, to inform, to instruct"
+  },
+  {
+   "id": "n5-v-117",
+   "expression": "お父さん",
+   "reading": "おとうさん",
+   "romaji": "otousan",
+   "en": "father (formal)"
+  },
+  {
+   "id": "n5-v-118",
+   "expression": "弟",
+   "reading": "おとうと",
+   "romaji": "otouto",
+   "en": "younger brother"
+  },
+  {
+   "id": "n5-v-126",
+   "expression": "お兄さん",
+   "reading": "おにいさん",
+   "romaji": "oniisan",
+   "en": "(someone else's) older brother (formal)"
+  },
+  {
+   "id": "n5-v-127",
+   "expression": "お姉さん",
+   "reading": "おねえさん",
+   "romaji": "oneesan",
+   "en": "older sister (formal)"
+  },
+  {
+   "id": "n5-v-161",
+   "expression": "貸す",
+   "reading": "かす",
+   "romaji": "kasu",
+   "en": "to lend"
+  },
+  {
+   "id": "n5-v-173",
+   "expression": "花瓶",
+   "reading": "かびん",
+   "romaji": "kabin",
+   "en": "(flower) vase"
+  },
+  {
+   "id": "n5-v-180",
+   "expression": "借りる",
+   "reading": "かりる",
+   "romaji": "kariru",
+   "en": "to borrow, to owe"
+  },
+  {
+   "id": "n5-v-206",
+   "expression": "兄弟",
+   "reading": "きょうだい",
+   "romaji": "kyoudai",
+   "en": "siblings (humble), brothers and sisters"
+  },
+  {
+   "id": "n5-v-260",
+   "expression": "コップ",
+   "reading": "コップ",
+   "romaji": "koppu",
+   "en": "a tumbler; a glass"
+  },
+  {
+   "id": "n5-v-263",
+   "expression": "子供",
+   "reading": "こども",
+   "romaji": "kodomo",
+   "en": "child(ren)"
+  },
+  {
+   "id": "n5-v-339",
+   "expression": "スプーン",
+   "reading": "スプーン",
+   "romaji": "supuun",
+   "en": "spoon"
+  },
+  {
+   "id": "n5-v-406",
+   "expression": "父",
+   "reading": "ちち",
+   "romaji": "chichi",
+   "en": "(my) father"
+  },
+  {
+   "id": "n5-v-408",
+   "expression": "茶碗",
+   "reading": "ちゃわん",
+   "romaji": "chawan",
+   "en": "rice bowl"
+  },
+  {
+   "id": "n5-v-441",
+   "expression": "電話",
+   "reading": "でんわ",
+   "romaji": "denwa",
+   "en": "a telephone"
+  },
+  {
+   "id": "n5-v-478",
+   "expression": "ナイフ",
+   "reading": "ナイフ",
+   "romaji": "naifu",
+   "en": "knife"
+  },
+  {
+   "id": "n5-v-491",
+   "expression": "習う",
+   "reading": "ならう",
+   "romaji": "narau",
+   "en": "to learn"
+  },
+  {
+   "id": "n5-v-527",
+   "expression": "箸",
+   "reading": "はし",
+   "romaji": "hashi",
+   "en": "chopsticks"
+  },
+  {
+   "id": "n5-v-538",
+   "expression": "花",
+   "reading": "はな",
+   "romaji": "hana",
+   "en": "flower"
+  },
+  {
+   "id": "n5-v-542",
+   "expression": "母",
+   "reading": "はは",
+   "romaji": "haha",
+   "en": "(my) mother"
+  },
+  {
+   "id": "n5-v-579",
+   "expression": "フォーク",
+   "reading": "フォーク",
+   "romaji": "fuooku",
+   "en": "fork"
+  },
+  {
+   "id": "n5-v-626",
+   "expression": "まだ",
+   "reading": "まだ",
+   "romaji": "mada",
+   "en": "yet, still, besides"
+  },
+  {
+   "id": "n5-v-658",
+   "expression": "もう",
+   "reading": "もう",
+   "romaji": "mou",
+   "en": "already; again; more"
+  },
+  {
+   "id": "n5-v-660",
+   "expression": "もしもし",
+   "reading": "もしもし",
+   "romaji": "moshimoshi",
+   "en": "Hello? (used on the phone)"
+  },
+  {
+   "id": "n5-v-700",
+   "expression": "両親",
+   "reading": "りょうしん",
+   "romaji": "ryoushin",
+   "en": "parents (lit., both parents)"
+  }
+ ]
+}

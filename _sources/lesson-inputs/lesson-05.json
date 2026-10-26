@@ -1,0 +1,285 @@
+{
+ "meta": {
+  "n": 5,
+  "slug": "doko-e-ikimasu-ka",
+  "title": {
+   "ja": "どこへ行きますか",
+   "ta": "எங்கே போகிறீர்கள்?",
+   "en": "Where are you going?"
+  },
+  "theme": {
+   "en": "Travel and transport, going/coming/returning, dates and months, birthdays.",
+   "ta": "பயணம், போக்குவரத்து, போவது/வருவது/திரும்புவது, தேதிகள், மாதங்கள், பிறந்தநாள்."
+  },
+  "grammar": [
+   {
+    "id": "g05-1",
+    "pattern": "N(place) へ 行きます / 来ます / 帰ります",
+    "en": "Direction particle へ with motion verbs"
+   },
+   {
+    "id": "g05-2",
+    "pattern": "どこ[へ]も 行きません",
+    "en": "Not going anywhere (negative + も)"
+   },
+   {
+    "id": "g05-3",
+    "pattern": "N(vehicle) で 行きます / 歩いて",
+    "en": "Means of transport で; on foot"
+   },
+   {
+    "id": "g05-4",
+    "pattern": "N(person) と V",
+    "en": "Doing something with someone; 一人で"
+   },
+   {
+    "id": "g05-5",
+    "pattern": "いつ",
+    "en": "When (no に)"
+   },
+   {
+    "id": "g05-6",
+    "pattern": "〜よ",
+    "en": "Sentence-final よ giving new information"
+   },
+   {
+    "id": "g05-7",
+    "pattern": "〜月 〜日 / 誕生日",
+    "en": "Months and dates; special date readings"
+   }
+  ],
+  "vocabHints": [
+   "transport: train, bus, taxi, bicycle, plane, ship, car",
+   "motion verbs",
+   "months, dates",
+   "this/next/last week/month/year",
+   "friend, family, alone"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-049",
+   "expression": "行く",
+   "reading": "いく; ゆく",
+   "romaji": "iku;yuku",
+   "en": "to go"
+  },
+  {
+   "id": "n5-v-060",
+   "expression": "いつ",
+   "reading": "いつ",
+   "romaji": "itsu",
+   "en": "when"
+  },
+  {
+   "id": "n5-v-061",
+   "expression": "五日",
+   "reading": "いつか",
+   "romaji": "itsuka",
+   "en": "five days; fifth day of the month"
+  },
+  {
+   "id": "n5-v-151",
+   "expression": "帰る",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to go back, to go home, to return"
+  },
+  {
+   "id": "n5-v-157",
+   "expression": "～か月",
+   "reading": "～かげつ",
+   "romaji": "～kagetsu",
+   "en": "(number of) months"
+  },
+  {
+   "id": "n5-v-165",
+   "expression": "家族",
+   "reading": "かぞく",
+   "romaji": "kazoku",
+   "en": "family, members of a family"
+  },
+  {
+   "id": "n5-v-167",
+   "expression": "～月",
+   "reading": "～がつ",
+   "romaji": "～gatsu",
+   "en": "month of year"
+  },
+  {
+   "id": "n5-v-230",
+   "expression": "来る",
+   "reading": "くる",
+   "romaji": "kuru",
+   "en": "to come"
+  },
+  {
+   "id": "n5-v-231",
+   "expression": "車",
+   "reading": "くるま",
+   "romaji": "kuruma",
+   "en": "car, vehicle"
+  },
+  {
+   "id": "n5-v-254",
+   "expression": "九日",
+   "reading": "ここのか",
+   "romaji": "kokonoka",
+   "en": "nine days; ninth day of the month"
+  },
+  {
+   "id": "n5-v-261",
+   "expression": "今年",
+   "reading": "ことし",
+   "romaji": "kotoshi",
+   "en": "this year"
+  },
+  {
+   "id": "n5-v-270",
+   "expression": "今月",
+   "reading": "こんげつ",
+   "romaji": "kongetsu",
+   "en": "this month"
+  },
+  {
+   "id": "n5-v-271",
+   "expression": "今週",
+   "reading": "こんしゅう",
+   "romaji": "konshuu",
+   "en": "this week"
+  },
+  {
+   "id": "n5-v-353",
+   "expression": "先月",
+   "reading": "せんげつ",
+   "romaji": "sengetsu",
+   "en": "last month"
+  },
+  {
+   "id": "n5-v-354",
+   "expression": "先週",
+   "reading": "せんしゅう",
+   "romaji": "senshuu",
+   "en": "last week"
+  },
+  {
+   "id": "n5-v-382",
+   "expression": "タクシー",
+   "reading": "タクシー",
+   "romaji": "takushii",
+   "en": "taxi"
+  },
+  {
+   "id": "n5-v-397",
+   "expression": "誕生日",
+   "reading": "たんじょうび",
+   "romaji": "tanjoubi",
+   "en": "birthday"
+  },
+  {
+   "id": "n5-v-412",
+   "expression": "一日",
+   "reading": "ついたち",
+   "romaji": "tsuitachi",
+   "en": "one day; first day of the month"
+  },
+  {
+   "id": "n5-v-440",
+   "expression": "電車",
+   "reading": "でんしゃ",
+   "romaji": "densha",
+   "en": "electric train"
+  },
+  {
+   "id": "n5-v-453",
+   "expression": "十日",
+   "reading": "とおか",
+   "romaji": "tooka",
+   "en": "ten days; tenth day of the month"
+  },
+  {
+   "id": "n5-v-469",
+   "expression": "友達",
+   "reading": "ともだち",
+   "romaji": "tomodachi",
+   "en": "friend"
+  },
+  {
+   "id": "n5-v-489",
+   "expression": "七日",
+   "reading": "なのか",
+   "romaji": "nanoka",
+   "en": "seven days; seventh day (of the month)"
+  },
+  {
+   "id": "n5-v-500",
+   "expression": "～日",
+   "reading": "～にち",
+   "romaji": "～nichi",
+   "en": "~ day of the month, for ~ days"
+  },
+  {
+   "id": "n5-v-532",
+   "expression": "バス",
+   "reading": "バス",
+   "romaji": "basu",
+   "en": "bus; bath; bass"
+  },
+  {
+   "id": "n5-v-537",
+   "expression": "二十日",
+   "reading": "はつか",
+   "romaji": "hatsuka",
+   "en": "twenty days, twentieth (day of the month)"
+  },
+  {
+   "id": "n5-v-562",
+   "expression": "飛行機",
+   "reading": "ひこうき",
+   "romaji": "hikouki",
+   "en": "airplane"
+  },
+  {
+   "id": "n5-v-566",
+   "expression": "一月",
+   "reading": "ひとつき",
+   "romaji": "hitotsuki",
+   "en": "one month"
+  },
+  {
+   "id": "n5-v-585",
+   "expression": "二日",
+   "reading": "ふつか",
+   "romaji": "futsuka",
+   "en": "two days; second day of the month"
+  },
+  {
+   "id": "n5-v-642",
+   "expression": "三日",
+   "reading": "みっか",
+   "romaji": "mikka",
+   "en": "three days, third day of the month"
+  },
+  {
+   "id": "n5-v-650",
+   "expression": "六日",
+   "reading": "むいか",
+   "romaji": "muika",
+   "en": "six days; sixth day of month"
+  },
+  {
+   "id": "n5-v-683",
+   "expression": "八日",
+   "reading": "ようか",
+   "romaji": "youka",
+   "en": "eight days; eighth day of the month"
+  },
+  {
+   "id": "n5-v-687",
+   "expression": "四日",
+   "reading": "よっか",
+   "romaji": "yokka",
+   "en": "four days; fourth day of the month"
+  }
+ ]
+}

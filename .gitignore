@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.log
+.env*
+_sources/tools/node_modules/
+_sources/*.html
+_sources/cna.log
+_sources/dev.log
+web/AGENTS.md
+.DS_Store
+Thumbs.db

@@ -1,0 +1,394 @@
+{
+  "level": "N5",
+  "lessonCount": 25,
+  "note": "A kana course (hiragana + katakana) precedes lesson 1 and is tracked separately. Grammar order follows the proven beginner progression: polite forms first, て-form at the midpoint, plain forms and clause-building at the end. Every N5 grammar point appears in exactly one lesson.",
+  "lessons": [
+    {
+      "n": 1,
+      "slug": "hajimemashite",
+      "title": { "ja": "はじめまして", "ta": "அறிமுகம்", "en": "Nice to meet you" },
+      "theme": { "en": "Self-introduction: name, country, job, age. Greetings and classroom phrases.", "ta": "சுய அறிமுகம்: பெயர், நாடு, வேலை, வயது. வாழ்த்துகள், வகுப்பறை சொற்றொடர்கள்." },
+      "grammar": [
+        { "id": "g01-1", "pattern": "N1 は N2 です", "en": "X is Y (polite copula, topic marker は)" },
+        { "id": "g01-2", "pattern": "N1 は N2 じゃありません", "en": "X is not Y" },
+        { "id": "g01-3", "pattern": "〜ですか", "en": "Yes/no question with か; answering はい / いいえ" },
+        { "id": "g01-4", "pattern": "N も", "en": "also / too" },
+        { "id": "g01-5", "pattern": "N1 の N2 (affiliation)", "en": "の linking a person to their group: IMC の 社員" },
+        { "id": "g01-6", "pattern": "〜さん / 〜ちゃん / 〜じん / 〜さい", "en": "Name suffix さん, nationality 〜人, age 〜歳" },
+        { "id": "g01-7", "pattern": "お名前は？ / どなた / 何歳", "en": "Asking name, who (polite), age; numbers 0–10" }
+      ],
+      "vocabHints": ["greetings", "nationalities", "occupations", "numbers 0-10", "people: teacher, student, company employee, doctor", "classroom phrases"]
+    },
+    {
+      "n": 2,
+      "slug": "kore-sore-are",
+      "title": { "ja": "これ・それ・あれ", "ta": "இது, அது, அதோ அது", "en": "This, that, that over there" },
+      "theme": { "en": "Everyday objects, stationery, gadgets; asking what something is and whose it is.", "ta": "அன்றாடப் பொருட்கள், எழுதுபொருட்கள்; இது என்ன, யாருடையது என்று கேட்பது." },
+      "grammar": [
+        { "id": "g02-1", "pattern": "これ / それ / あれ", "en": "Demonstrative pronouns by distance" },
+        { "id": "g02-2", "pattern": "この / その / あの N", "en": "Demonstrative adjectives" },
+        { "id": "g02-3", "pattern": "N1 の N2 (possession / content)", "en": "の for ownership and about-ness: 私の本, 日本語の本" },
+        { "id": "g02-4", "pattern": "そうです / そうじゃありません", "en": "That's right / that's not right" },
+        { "id": "g02-5", "pattern": "〜ですか、〜ですか", "en": "Alternative question (A or B?)" },
+        { "id": "g02-6", "pattern": "N は 何ですか / 誰のですか", "en": "What is it / whose is it; の replacing a noun (私のです)" },
+        { "id": "g02-7", "pattern": "お〜 (お国、お名前)", "en": "Honorific prefix お" }
+      ],
+      "vocabHints": ["stationery", "objects: book, bag, watch, umbrella, key, camera, phone", "this/that words", "whose/what", "language names"]
+    },
+    {
+      "n": 3,
+      "slug": "koko-doko-ikura",
+      "title": { "ja": "ここはどこですか", "ta": "இது எந்த இடம்?", "en": "Where is this? How much?" },
+      "theme": { "en": "Places in a building and town, shops, countries, prices and large numbers.", "ta": "கட்டிடம் மற்றும் ஊரில் உள்ள இடங்கள், கடைகள், நாடுகள், விலைகள், பெரிய எண்கள்." },
+      "grammar": [
+        { "id": "g03-1", "pattern": "ここ / そこ / あそこ / こちら / そちら / あちら", "en": "Place demonstratives, polite forms" },
+        { "id": "g03-2", "pattern": "N は place です", "en": "Stating where something is" },
+        { "id": "g03-3", "pattern": "どこ / どちら", "en": "Where (plain / polite)" },
+        { "id": "g03-4", "pattern": "N1 の N2 (country / company of origin)", "en": "日本の車, どこの時計" },
+        { "id": "g03-5", "pattern": "いくらですか / 〜円", "en": "Asking prices, numbers 100 to 10,000, yen" },
+        { "id": "g03-6", "pattern": "〜階 / 何階", "en": "Floors of a building" }
+      ],
+      "vocabHints": ["places: station, bank, post office, hospital, department store, toilet, lift, stairs", "countries", "numbers 100-10000", "shop words", "floor counter"]
+    },
+    {
+      "n": 4,
+      "slug": "ima-nanji",
+      "title": { "ja": "今何時ですか", "ta": "இப்போது மணி என்ன?", "en": "What time is it?" },
+      "theme": { "en": "Telling time, days of the week, daily routine, opening hours.", "ta": "நேரம் சொல்வது, வாரநாட்கள், தினசரி வழக்கம், திறக்கும்/மூடும் நேரம்." },
+      "grammar": [
+        { "id": "g04-1", "pattern": "今 〜時 〜分 です", "en": "Telling the time; 半" },
+        { "id": "g04-2", "pattern": "V ます / V ません", "en": "Polite non-past verbs: 起きます、寝ます、働きます、勉強します" },
+        { "id": "g04-3", "pattern": "V ました / V ませんでした", "en": "Polite past verbs" },
+        { "id": "g04-4", "pattern": "N(time) に V", "en": "に with specific times and days" },
+        { "id": "g04-5", "pattern": "N1 から N2 まで", "en": "From … to …" },
+        { "id": "g04-6", "pattern": "N1 と N2", "en": "と joining nouns" },
+        { "id": "g04-7", "pattern": "〜ね", "en": "Sentence-final ね seeking agreement" },
+        { "id": "g04-8", "pattern": "〜曜日 / 毎日 / 毎朝 / 毎晩", "en": "Days of the week and every-day words" }
+      ],
+      "vocabHints": ["hours, minutes, half", "days of week", "morning/noon/evening/night", "daily verbs: wake, sleep, work, rest, study, end", "today/tomorrow/yesterday"]
+    },
+    {
+      "n": 5,
+      "slug": "doko-e-ikimasu-ka",
+      "title": { "ja": "どこへ行きますか", "ta": "எங்கே போகிறீர்கள்?", "en": "Where are you going?" },
+      "theme": { "en": "Travel and transport, going/coming/returning, dates and months, birthdays.", "ta": "பயணம், போக்குவரத்து, போவது/வருவது/திரும்புவது, தேதிகள், மாதங்கள், பிறந்தநாள்." },
+      "grammar": [
+        { "id": "g05-1", "pattern": "N(place) へ 行きます / 来ます / 帰ります", "en": "Direction particle へ with motion verbs" },
+        { "id": "g05-2", "pattern": "どこ[へ]も 行きません", "en": "Not going anywhere (negative + も)" },
+        { "id": "g05-3", "pattern": "N(vehicle) で 行きます / 歩いて", "en": "Means of transport で; on foot" },
+        { "id": "g05-4", "pattern": "N(person) と V", "en": "Doing something with someone; 一人で" },
+        { "id": "g05-5", "pattern": "いつ", "en": "When (no に)" },
+        { "id": "g05-6", "pattern": "〜よ", "en": "Sentence-final よ giving new information" },
+        { "id": "g05-7", "pattern": "〜月 〜日 / 誕生日", "en": "Months and dates; special date readings" }
+      ],
+      "vocabHints": ["transport: train, bus, taxi, bicycle, plane, ship, car", "motion verbs", "months, dates", "this/next/last week/month/year", "friend, family, alone"]
+    },
+    {
+      "n": 6,
+      "slug": "nani-o-shimasu-ka",
+      "title": { "ja": "何をしますか", "ta": "என்ன செய்கிறீர்கள்?", "en": "What will you do?" },
+      "theme": { "en": "Food and drink, hobbies and leisure, inviting someone out.", "ta": "உணவு, பானம், பொழுதுபோக்கு; ஒருவரை வெளியே அழைப்பது." },
+      "grammar": [
+        { "id": "g06-1", "pattern": "N を V", "en": "Object marker を: ご飯を食べます" },
+        { "id": "g06-2", "pattern": "N を します", "en": "します with activity nouns: サッカーをします、勉強をします" },
+        { "id": "g06-3", "pattern": "何を しますか / 何 vs 何", "en": "Asking what; なん vs なに readings" },
+        { "id": "g06-4", "pattern": "N(place) で V", "en": "Location of an action with で" },
+        { "id": "g06-5", "pattern": "V ませんか", "en": "Inviting: won't you …?" },
+        { "id": "g06-6", "pattern": "V ましょう", "en": "Let's …" },
+        { "id": "g06-7", "pattern": "〜か (何か / 誰か)", "en": "Something / someone (introductory)" }
+      ],
+      "vocabHints": ["food, drink, meals", "verbs: eat, drink, see, listen, read, write, buy, take photos, do, meet", "leisure: film, music, sport, party, tennis", "shop/restaurant/garden places"]
+    },
+    {
+      "n": 7,
+      "slug": "agemasu-moraimasu",
+      "title": { "ja": "あげます・もらいます", "ta": "கொடுப்பது, பெறுவது", "en": "Giving and receiving" },
+      "theme": { "en": "Family members, gifts, tools and means, languages.", "ta": "குடும்ப உறுப்பினர்கள், பரிசுகள், கருவிகள், மொழிகள்." },
+      "grammar": [
+        { "id": "g07-1", "pattern": "N(tool / means) で V", "en": "By means of: はしで食べます、日本語で話します" },
+        { "id": "g07-2", "pattern": "「word」は 〜語で 何ですか", "en": "Asking how to say something in a language" },
+        { "id": "g07-3", "pattern": "N(person) に あげます / 貸します / 教えます / 書きます / かけます", "en": "Recipient marked with に" },
+        { "id": "g07-4", "pattern": "N(person) に / から もらいます / 借ります / 習います", "en": "Source marked with に or から" },
+        { "id": "g07-5", "pattern": "もう V ました / まだです", "en": "Already / not yet" },
+        { "id": "g07-6", "pattern": "Family terms: 父・母 vs お父さん・お母さん", "en": "Humble vs polite family words" }
+      ],
+      "vocabHints": ["family: father, mother, older/younger siblings, grandparents, husband, wife, child", "gifts: present, flowers, souvenir", "tools: chopsticks, spoon, knife, scissors, computer", "verbs: give, receive, lend, borrow, teach, learn, phone"]
+    },
+    {
+      "n": 8,
+      "slug": "keiyoushi",
+      "title": { "ja": "どんな人ですか", "ta": "எப்படிப்பட்டவர்?", "en": "What kind of person?" },
+      "theme": { "en": "Describing people, places and things with adjectives; weather and city life.", "ta": "பெயரடைகளால் மக்கள், இடங்கள், பொருட்களை விவரிப்பது; வானிலை, நகர வாழ்க்கை." },
+      "grammar": [
+        { "id": "g08-1", "pattern": "な-adjective です / じゃありません", "en": "きれいです、静かじゃありません" },
+        { "id": "g08-2", "pattern": "い-adjective です / 〜くないです", "en": "大きいです、大きくないです; いい → よくない" },
+        { "id": "g08-3", "pattern": "とても / あまり", "en": "Degree adverbs with affirmative / negative" },
+        { "id": "g08-4", "pattern": "N は どうですか", "en": "How is …?" },
+        { "id": "g08-5", "pattern": "どんな N / adj + N", "en": "What kind of; adjectives before nouns (な/い attachment)" },
+        { "id": "g08-6", "pattern": "〜が、〜", "en": "but (sentence connector)" },
+        { "id": "g08-7", "pattern": "どれ", "en": "Which one (of three or more)" }
+      ],
+      "vocabHints": ["i-adjectives: big, small, new, old, good, bad, hot, cold, expensive, cheap, interesting, delicious, busy, fun, white/black/red/blue", "na-adjectives: pretty, quiet, lively, famous, kind, free time, convenient", "weather words", "town: town, mountain, river, sea, food of a place"]
+    },
+    {
+      "n": 9,
+      "slug": "suki-kirai-wakarimasu",
+      "title": { "ja": "好きですか", "ta": "பிடிக்குமா?", "en": "Do you like it?" },
+      "theme": { "en": "Likes, dislikes, skills and understanding; giving reasons.", "ta": "விருப்பு வெறுப்புகள், திறமைகள், புரிதல்; காரணம் சொல்வது." },
+      "grammar": [
+        { "id": "g09-1", "pattern": "N が 好きです / 嫌いです", "en": "Like / dislike with が" },
+        { "id": "g09-2", "pattern": "N が 上手です / 下手です", "en": "Good at / bad at" },
+        { "id": "g09-3", "pattern": "N が わかります / あります", "en": "Understand / have, with が" },
+        { "id": "g09-4", "pattern": "よく / だいたい / たくさん / 少し / あまり / 全然", "en": "Quantity and degree adverbs" },
+        { "id": "g09-5", "pattern": "〜から、〜 (reason)", "en": "Because: 時間がありませんから、行きません" },
+        { "id": "g09-6", "pattern": "どうして / 〜からです", "en": "Why / because" },
+        { "id": "g09-7", "pattern": "どんな N (review) / どの N", "en": "どの for choosing among three or more" }
+      ],
+      "vocabHints": ["music, sport, cooking, drawing, songs, dance", "verbs: understand, have, be good at", "adverbs of degree", "time: time, money, appointment, task, homework"]
+    },
+    {
+      "n": 10,
+      "slug": "arimasu-imasu",
+      "title": { "ja": "あります・います", "ta": "இருக்கிறது, இருக்கிறார்", "en": "There is / there are" },
+      "theme": { "en": "Home and rooms, furniture, neighbourhood, pets, where things are.", "ta": "வீடு, அறைகள், தளபாடங்கள், அக்கம்பக்கம், செல்லப்பிராணிகள், பொருட்கள் எங்கே உள்ளன." },
+      "grammar": [
+        { "id": "g10-1", "pattern": "N が あります / います", "en": "Existence of things vs living beings" },
+        { "id": "g10-2", "pattern": "place に N が あります / います", "en": "There is X at place" },
+        { "id": "g10-3", "pattern": "N は place に あります / います", "en": "X is at place" },
+        { "id": "g10-4", "pattern": "N1 (上・下・前・後ろ・中・右・左・隣・近く・間) に", "en": "Position words" },
+        { "id": "g10-5", "pattern": "N1 や N2 (など)", "en": "Non-exhaustive listing" },
+        { "id": "g10-6", "pattern": "〜ですか。…ですね。", "en": "Confirming with ね (review in context)" }
+      ],
+      "vocabHints": ["house: room, kitchen, toilet, bath, entrance, garden, door, window", "furniture: table, chair, bed, shelf, refrigerator, box", "position words", "neighbourhood: park, convenience store, supermarket, library, embassy, pool", "pets: dog, cat, bird, fish", "family in house"]
+    },
+    {
+      "n": 11,
+      "slug": "kazoekata",
+      "title": { "ja": "いくつありますか", "ta": "எத்தனை இருக்கிறது?", "en": "How many?" },
+      "theme": { "en": "Counting people and things, shopping quantities, frequency and duration.", "ta": "மக்கள், பொருட்களை எண்ணுவது, வாங்கும் அளவு, எவ்வளவு முறை, எத்தனை நாள்." },
+      "grammar": [
+        { "id": "g11-1", "pattern": "〜つ / 〜人 / 〜枚 / 〜台 / 〜本 / 〜匹 / 〜冊 / 〜個 / 〜回 / 〜歳", "en": "Counters and their irregular readings" },
+        { "id": "g11-2", "pattern": "N を quantity V", "en": "Quantity goes right before the verb: りんごを三つ買います" },
+        { "id": "g11-3", "pattern": "いくつ / 何人 / 何枚 … / どのぐらい", "en": "Question words for quantity" },
+        { "id": "g11-4", "pattern": "〜時間 / 〜日 / 〜週間 / 〜か月 / 〜年", "en": "Duration expressions" },
+        { "id": "g11-5", "pattern": "period に 〜回", "en": "Frequency: 一週間に二回" },
+        { "id": "g11-6", "pattern": "〜だけ", "en": "Only" },
+        { "id": "g11-7", "pattern": "〜ぐらい / 〜ごろ", "en": "Approximately (amount) / around (time)" }
+      ],
+      "vocabHints": ["counters", "fruit, vegetables, eggs, paper, stamps, letters, postcards", "duration words", "how many / how long", "post office and shopping phrases"]
+    },
+    {
+      "n": 12,
+      "slug": "hikaku",
+      "title": { "ja": "どちらが好きですか", "ta": "எது பிடிக்கும்?", "en": "Which do you prefer?" },
+      "theme": { "en": "Past states, weather and seasons, comparisons and superlatives, festivals.", "ta": "கடந்த கால நிலை, வானிலை, பருவங்கள், ஒப்பீடு, திருவிழாக்கள்." },
+      "grammar": [
+        { "id": "g12-1", "pattern": "N / な-adj でした / じゃありませんでした", "en": "Past of nouns and な-adjectives" },
+        { "id": "g12-2", "pattern": "い-adj 〜かったです / 〜くなかったです", "en": "Past of い-adjectives; いい → よかった" },
+        { "id": "g12-3", "pattern": "N1 は N2 より adj です", "en": "Comparison with より" },
+        { "id": "g12-4", "pattern": "N1 と N2 と どちらが adj ですか / N のほうが", "en": "Which of the two; the X one" },
+        { "id": "g12-5", "pattern": "N の中で 〔何 / どこ / 誰 / いつ〕が 一番 adj ですか", "en": "Superlative within a group" },
+        { "id": "g12-6", "pattern": "adj + の (この赤いの)", "en": "の as a pronoun after adjectives" }
+      ],
+      "vocabHints": ["seasons, weather: rain, snow, cloudy, clear, warm, cool, wind", "festival, holiday, trip words", "comparison words", "adjectives: sweet, spicy, heavy, light, slow, fast, difficult, easy, far, near"]
+    },
+    {
+      "n": 13,
+      "slug": "hoshii-tai",
+      "title": { "ja": "〜たいです", "ta": "〜 விரும்புகிறேன்", "en": "I want to …" },
+      "theme": { "en": "Restaurants and ordering, wishes, going somewhere to do something.", "ta": "உணவகம், ஆர்டர் செய்வது, ஆசைகள், ஏதோ செய்ய எங்கோ போவது." },
+      "grammar": [
+        { "id": "g13-1", "pattern": "N が 欲しいです", "en": "Want (a thing)" },
+        { "id": "g13-2", "pattern": "V ます-stem たいです / たくないです", "en": "Want to do; を or が with たい" },
+        { "id": "g13-3", "pattern": "N(place) へ V ます-stem / N に 行きます", "en": "Go somewhere in order to do" },
+        { "id": "g13-4", "pattern": "どこか / 何か + へ / を dropped", "en": "Somewhere / something" },
+        { "id": "g13-5", "pattern": "〜を ください / 〜を お願いします", "en": "Ordering and requesting things" },
+        { "id": "g13-6", "pattern": "別々に / 〜人 (ordering)", "en": "Restaurant phrases" }
+      ],
+      "vocabHints": ["restaurant: menu, set meal, bill, order, waiter", "dishes: curry, noodles, bread, meat, fish, salad, dessert", "verbs: want, borrow, order, rest, swim, walk, play", "places: pool, art gallery, zoo, hotel"]
+    },
+    {
+      "n": 14,
+      "slug": "te-kei-1",
+      "title": { "ja": "て形", "ta": "て-வடிவம்", "en": "The て-form" },
+      "theme": { "en": "Verb groups and て-form; asking for help, taxi and directions, what is happening now.", "ta": "வினைச்சொல் குழுக்கள், て-வடிவம்; உதவி கேட்பது, டாக்ஸி, வழி, இப்போது நடப்பது." },
+      "grammar": [
+        { "id": "g14-1", "pattern": "Verb groups I / II / III", "en": "Classifying verbs by ます-stem" },
+        { "id": "g14-2", "pattern": "て-form rules", "en": "いて/いで, って, んで, して, Group II て, きて/して" },
+        { "id": "g14-3", "pattern": "V てください", "en": "Please do" },
+        { "id": "g14-4", "pattern": "V ています (ongoing action)", "en": "Is doing right now" },
+        { "id": "g14-5", "pattern": "V ましょうか", "en": "Shall I …? (offering help)" },
+        { "id": "g14-6", "pattern": "N が V (natural phenomena)", "en": "雨が降っています" }
+      ],
+      "vocabHints": ["taxi and directions: turn, stop, go straight, signal, corner, crossing", "verbs: open, close, turn on/off, hurry, wait, call, copy, help, show, say", "weather: rain falls, snow", "now, slowly, immediately, a little more"]
+    },
+    {
+      "n": 15,
+      "slug": "te-mo-ii",
+      "title": { "ja": "〜てもいいですか", "ta": "〜 செய்யலாமா?", "en": "May I …?" },
+      "theme": { "en": "Permission and prohibition; work, home town, marital status, what you know and own.", "ta": "அனுமதி, தடை; வேலை, சொந்த ஊர், திருமண நிலை, தெரிவது, வைத்திருப்பது." },
+      "grammar": [
+        { "id": "g15-1", "pattern": "V てもいいですか", "en": "May I …?" },
+        { "id": "g15-2", "pattern": "V てはいけません", "en": "Must not" },
+        { "id": "g15-3", "pattern": "V ています (state)", "en": "知っています、住んでいます、持っています、結婚しています" },
+        { "id": "g15-4", "pattern": "V ています (habit / occupation)", "en": "働いています、売っています、勉強しています" },
+        { "id": "g15-5", "pattern": "知りません vs 知っています", "en": "Negative of 知っています" },
+        { "id": "g15-6", "pattern": "N に 住んでいます / 勤めています", "en": "Live in / work for" }
+      ],
+      "vocabHints": ["verbs: live, know, have, marry, sell, make, use, enter, exit, sit, stand, smoke, take (photos)", "workplace: company, factory, bank, school, office, salaryman", "no-smoking, prohibited, entrance, exit", "camera, ticket"]
+    },
+    {
+      "n": 16,
+      "slug": "te-te",
+      "title": { "ja": "〜て、〜て", "ta": "〜 செய்து, 〜 செய்து", "en": "Doing this and then that" },
+      "theme": { "en": "Sequences of actions, procedures (ATM, trains), describing people's features.", "ta": "செயல் வரிசை, நடைமுறைகள் (ATM, ரயில்), மனிதர்களின் தோற்றத்தை விவரிப்பது." },
+      "grammar": [
+        { "id": "g16-1", "pattern": "V1 て、V2 て、… V3", "en": "Joining actions in sequence" },
+        { "id": "g16-2", "pattern": "い-adj 〜くて、〜 / な-adj・N で、〜", "en": "Joining adjectives and nouns" },
+        { "id": "g16-3", "pattern": "V1 てから、V2", "en": "After doing V1" },
+        { "id": "g16-4", "pattern": "V1 た あとで、V2 / N の あとで", "en": "After (with た-form preview and nouns)" },
+        { "id": "g16-5", "pattern": "N1 は N2 が adj", "en": "Describing parts: 彼は髪が長いです" },
+        { "id": "g16-6", "pattern": "どうやって", "en": "How (in what way)" },
+        { "id": "g16-7", "pattern": "そして / それから", "en": "And then (sentence connectors)" }
+      ],
+      "vocabHints": ["body: head, hair, face, eyes, ears, nose, mouth, teeth, hands, legs", "ATM / station: push, insert, take out, change trains, get on/off, card, button", "adjectives: young, long, short, tall, bright, dark, strong, weak", "describing: shower, exercise"]
+    },
+    {
+      "n": 17,
+      "slug": "nai-kei",
+      "title": { "ja": "〜ないでください", "ta": "〜 செய்யாதீர்கள்", "en": "Please don't …" },
+      "theme": { "en": "Health and hospital, obligations and deadlines, what you must and need not do.", "ta": "உடல்நலம், மருத்துவமனை, கடமைகள், கெடுக்கள்; செய்ய வேண்டியது, தேவையில்லாதது." },
+      "grammar": [
+        { "id": "g17-1", "pattern": "ない-form rules", "en": "Forming the plain negative" },
+        { "id": "g17-2", "pattern": "V ないでください", "en": "Please don't" },
+        { "id": "g17-3", "pattern": "V なければなりません", "en": "Must / have to" },
+        { "id": "g17-4", "pattern": "V なくてもいいです", "en": "Need not" },
+        { "id": "g17-5", "pattern": "N(object) は (topicalised object)", "en": "荷物はここに置いてください" },
+        { "id": "g17-6", "pattern": "N(time) までに", "en": "By (deadline) vs まで (until)" }
+      ],
+      "vocabHints": ["health: fever, cold, headache, stomach, medicine, doctor, hospital, body feels bad", "verbs: take medicine, bathe, worry, take off, bring, return (things), pay, submit", "deadline, by when, meeting, report", "important, dangerous, late"]
+    },
+    {
+      "n": 18,
+      "slug": "jisho-kei",
+      "title": { "ja": "〜ことができます", "ta": "〜 செய்ய முடியும்", "en": "I can …" },
+      "theme": { "en": "Abilities, hobbies, and what you do before something.", "ta": "திறமைகள், பொழுதுபோக்கு, ஒன்றுக்கு முன் செய்வது." },
+      "grammar": [
+        { "id": "g18-1", "pattern": "Dictionary form rules", "en": "From ます-form to plain non-past" },
+        { "id": "g18-2", "pattern": "N / V ことが できます", "en": "Can (ability or possibility)" },
+        { "id": "g18-3", "pattern": "私の趣味は V ことです", "en": "Nominalising with こと" },
+        { "id": "g18-4", "pattern": "V の が 好きです / 上手です", "en": "Nominalising with の" },
+        { "id": "g18-5", "pattern": "V dictionary form / N の / period 前に", "en": "Before doing / before" },
+        { "id": "g18-6", "pattern": "なかなか / ぜひ", "en": "Not easily (with negative) / by all means" }
+      ],
+      "vocabHints": ["hobbies: piano, guitar, driving, skiing, skating, reading, shopping", "verbs: can, drive, play instrument, ride, climb, fly, speak", "diary, novel, concert", "before, after, hobby, interest"]
+    },
+    {
+      "n": 19,
+      "slug": "ta-kei",
+      "title": { "ja": "〜たことがあります", "ta": "〜 செய்த அனுபவம் உள்ளது", "en": "I have done …" },
+      "theme": { "en": "Experiences and travel memories, changes over time, advice.", "ta": "அனுபவங்கள், பயண நினைவுகள், காலத்தில் மாற்றம், ஆலோசனை." },
+      "grammar": [
+        { "id": "g19-1", "pattern": "た-form rules", "en": "Plain past; same changes as て-form" },
+        { "id": "g19-2", "pattern": "V たことがあります", "en": "Have (ever) done" },
+        { "id": "g19-3", "pattern": "V たり、V たりします", "en": "Doing things like A and B" },
+        { "id": "g19-4", "pattern": "い-adj 〜くなります / な-adj・N に なります", "en": "Become" },
+        { "id": "g19-5", "pattern": "V たほうがいいです", "en": "Had better" },
+        { "id": "g19-6", "pattern": "もう / まだ with adjectives and states", "en": "もう大人になりました / まだ子どもです" }
+      ],
+      "vocabHints": ["travel: Japan places, hot spring, temple, shrine, castle, sightseeing", "verbs: become, get on (plane), travel, swim, dance, sing, climb, lose", "adjectives for change: warm, cold, strong, rich, famous, adult, spring/summer", "advice words"]
+    },
+    {
+      "n": 20,
+      "slug": "futsuu-kei",
+      "title": { "ja": "普通形", "ta": "சாதாரண (நட்பு) வடிவம்", "en": "Plain style" },
+      "theme": { "en": "Casual conversation with friends, plain forms of all sentence types.", "ta": "நண்பர்களுடன் சாதாரண பேச்சு; அனைத்து வாக்கிய வகைகளின் சாதாரண வடிவம்." },
+      "grammar": [
+        { "id": "g20-1", "pattern": "Polite vs plain style", "en": "When to use which" },
+        { "id": "g20-2", "pattern": "Plain forms of verbs (4 forms)", "en": "行く / 行かない / 行った / 行かなかった" },
+        { "id": "g20-3", "pattern": "Plain forms of い-adjectives", "en": "大きい / 大きくない / 大きかった / 大きくなかった" },
+        { "id": "g20-4", "pattern": "Plain forms of な-adjectives and nouns", "en": "だ / じゃない / だった / じゃなかった" },
+        { "id": "g20-5", "pattern": "Plain questions (rising intonation, dropping か)", "en": "行く？ 元気？" },
+        { "id": "g20-6", "pattern": "〜けど", "en": "But (plain connector)" },
+        { "id": "g20-7", "pattern": "Particle dropping in casual speech", "en": "ご飯[を]食べる？" }
+      ],
+      "vocabHints": ["casual words: うん、ううん、そう、ね、本当、すごい", "friend, boyfriend/girlfriend, senior/junior", "verbs: need, ask, think, speak, meet, go out", "weather small talk, feelings: happy, sad, tired, hungry, thirsty"]
+    },
+    {
+      "n": 21,
+      "slug": "to-omoimasu",
+      "title": { "ja": "〜と思います", "ta": "〜 என்று நினைக்கிறேன்", "en": "I think that …" },
+      "theme": { "en": "Opinions, reporting speech, events and news, agreeing and disagreeing.", "ta": "கருத்து, மற்றவர் சொன்னதைச் சொல்வது, நிகழ்வுகள், செய்தி, ஒப்புதல்/மறுப்பு." },
+      "grammar": [
+        { "id": "g21-1", "pattern": "plain form と 思います", "en": "I think that" },
+        { "id": "g21-2", "pattern": "「〜」と 言います / plain form と 言います", "en": "Quoting speech directly and indirectly" },
+        { "id": "g21-3", "pattern": "V / adj / N plain でしょう？", "en": "…, right? (seeking agreement)" },
+        { "id": "g21-4", "pattern": "N1(place) で N2 が あります", "en": "An event takes place at" },
+        { "id": "g21-5", "pattern": "N について", "en": "About (a topic)" },
+        { "id": "g21-6", "pattern": "でも / しかし", "en": "But (sentence-initial)" },
+        { "id": "g21-7", "pattern": "〜ので (reason, soft)", "en": "Because (polite/soft reason)" }
+      ],
+      "vocabHints": ["opinion words: think, say, opinion, true, false, same, different", "news: newspaper, TV, radio, prime minister, president, politics, economy", "events: meeting, match, concert, festival, exhibition", "agree, oppose, probably, certainly, of course"]
+    },
+    {
+      "n": 22,
+      "slug": "meishi-shuushoku",
+      "title": { "ja": "どんな部屋ですか", "ta": "எப்படிப்பட்ட அறை?", "en": "Describing with clauses" },
+      "theme": { "en": "Clothes and shopping, apartments and renting, describing things with a whole clause.", "ta": "உடைகள், ஷாப்பிங், வீடு வாடகை; முழு வாக்கியத்தால் விவரிப்பது." },
+      "grammar": [
+        { "id": "g22-1", "pattern": "V plain + N", "en": "Verb clauses modifying nouns: 京都へ行く人" },
+        { "id": "g22-2", "pattern": "い-adj / な-adj + N (review in clauses)", "en": "Stacked modifiers" },
+        { "id": "g22-3", "pattern": "V plain 時間 / 約束 / 用事", "en": "Time to do / promise to / errand to" },
+        { "id": "g22-4", "pattern": "V ましょうか (offering) vs V ましょう", "en": "Review contrast" },
+        { "id": "g22-5", "pattern": "N1 が N2 (clause subject)", "en": "Subject inside a modifying clause takes が" },
+        { "id": "g22-6", "pattern": "これは 〜が 作った N です", "en": "Relative clause with past tense" }
+      ],
+      "vocabHints": ["clothes: shirt, trousers, shoes, hat, glasses, coat, dress, wear verbs (着ます、履きます、かぶります、かけます)", "apartment: rent, room, floor plan, kitchen, close to station, quiet", "shopping: size, colour, cheap, choose, try on, pay", "time to, appointment, errand"]
+    },
+    {
+      "n": 23,
+      "slug": "toki-to",
+      "title": { "ja": "〜時、〜と", "ta": "〜 போது, 〜 என்றால்", "en": "When … / If …" },
+      "theme": { "en": "Directions and machines, situations and their results, body and health reactions.", "ta": "வழி, இயந்திரங்கள், நிலைமைகள், விளைவுகள்; உடல், உடல்நலம்." },
+      "grammar": [
+        { "id": "g23-1", "pattern": "V / adj / N の 時、〜", "en": "When (clause with 時)" },
+        { "id": "g23-2", "pattern": "V dictionary form と、〜", "en": "When/if X happens, Y naturally follows: このボタンを押すと、お釣りが出ます" },
+        { "id": "g23-3", "pattern": "N が adj / V (observation)", "en": "音が小さいです" },
+        { "id": "g23-4", "pattern": "N を V (movement through / along)", "en": "道を渡ります、角を曲がります" },
+        { "id": "g23-5", "pattern": "〜ながら", "en": "While doing (simultaneous actions)" },
+        { "id": "g23-6", "pattern": "Tense inside 時 clauses", "en": "Non-past vs past before 時" }
+      ],
+      "vocabHints": ["machines: vending machine, button, sound, light, electricity, broken, repair", "directions: road, bridge, intersection, traffic light, right/left, straight", "body states: sleepy, tired, sick, lonely, scared", "while, when, young, student days"]
+    },
+    {
+      "n": 24,
+      "slug": "kuremasu",
+      "title": { "ja": "〜てくれます", "ta": "〜 செய்து கொடுப்பது", "en": "Doing favours" },
+      "theme": { "en": "Help and favours, moving house, thanking people.", "ta": "உதவி, நன்மை செய்வது, வீடு மாறுதல், நன்றி கூறுதல்." },
+      "grammar": [
+        { "id": "g24-1", "pattern": "くれます", "en": "Someone gives to me / my group" },
+        { "id": "g24-2", "pattern": "V てあげます", "en": "Do for someone (careful use)" },
+        { "id": "g24-3", "pattern": "V てもらいます", "en": "Receive the favour of someone doing" },
+        { "id": "g24-4", "pattern": "V てくれます", "en": "Someone kindly does for me" },
+        { "id": "g24-5", "pattern": "N(person) が (identifying who)", "en": "誰が手伝ってくれましたか" },
+        { "id": "g24-6", "pattern": "あげる / もらう / くれる overview", "en": "Giver/receiver viewpoint rules" }
+      ],
+      "vocabHints": ["moving house: luggage, box, truck, lift, help, carry, clean, tidy", "favours: teach, show, lend, send, take someone, pick up, introduce, fix", "thanks and apologies", "neighbour, colleague, grandfather"]
+    },
+    {
+      "n": 25,
+      "slug": "tara-temo",
+      "title": { "ja": "〜たら、〜ても", "ta": "〜 என்றால், 〜 ஆனாலும்", "en": "If … / Even if …" },
+      "theme": { "en": "Future plans and dreams, conditions, review of the whole N5 course.", "ta": "எதிர்காலத் திட்டங்கள், கனவுகள், நிபந்தனைகள்; N5 முழுவதும் திரும்பப் பார்ப்பது." },
+      "grammar": [
+        { "id": "g25-1", "pattern": "V / adj / N たら、〜", "en": "If / when (conditional たら)" },
+        { "id": "g25-2", "pattern": "V ても / い-adj くても / な-adj・N でも、〜", "en": "Even if" },
+        { "id": "g25-3", "pattern": "もし / いくら 〜ても", "en": "If (emphasis) / no matter how" },
+        { "id": "g25-4", "pattern": "V plain つもりです", "en": "Intend to" },
+        { "id": "g25-5", "pattern": "V dictionary form / N の 予定です", "en": "Plan to" },
+        { "id": "g25-6", "pattern": "N5 grammar review map", "en": "Which form for which job: て / ない / た / plain" }
+      ],
+      "vocabHints": ["future: dream, plan, intention, someday, future, next year", "money: salary, save, rich, poor, bonus", "weather conditions, if it rains", "life events: graduate, get a job, retire, move, marry", "review words"]
+    }
+  ]
+}

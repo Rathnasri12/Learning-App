@@ -1,0 +1,270 @@
+{
+ "meta": {
+  "n": 20,
+  "slug": "futsuu-kei",
+  "title": {
+   "ja": "普通形",
+   "ta": "சாதாரண (நட்பு) வடிவம்",
+   "en": "Plain style"
+  },
+  "theme": {
+   "en": "Casual conversation with friends, plain forms of all sentence types.",
+   "ta": "நண்பர்களுடன் சாதாரண பேச்சு; அனைத்து வாக்கிய வகைகளின் சாதாரண வடிவம்."
+  },
+  "grammar": [
+   {
+    "id": "g20-1",
+    "pattern": "Polite vs plain style",
+    "en": "When to use which"
+   },
+   {
+    "id": "g20-2",
+    "pattern": "Plain forms of verbs (4 forms)",
+    "en": "行く / 行かない / 行った / 行かなかった"
+   },
+   {
+    "id": "g20-3",
+    "pattern": "Plain forms of い-adjectives",
+    "en": "大きい / 大きくない / 大きかった / 大きくなかった"
+   },
+   {
+    "id": "g20-4",
+    "pattern": "Plain forms of な-adjectives and nouns",
+    "en": "だ / じゃない / だった / じゃなかった"
+   },
+   {
+    "id": "g20-5",
+    "pattern": "Plain questions (rising intonation, dropping か)",
+    "en": "行く？ 元気？"
+   },
+   {
+    "id": "g20-6",
+    "pattern": "〜けど",
+    "en": "But (plain connector)"
+   },
+   {
+    "id": "g20-7",
+    "pattern": "Particle dropping in casual speech",
+    "en": "ご飯[を]食べる？"
+   }
+  ],
+  "vocabHints": [
+   "casual words: うん、ううん、そう、ね、本当、すごい",
+   "friend, boyfriend/girlfriend, senior/junior",
+   "verbs: need, ask, think, speak, meet, go out",
+   "weather small talk, feelings: happy, sad, tired, hungry, thirsty"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-001",
+   "expression": "ああ",
+   "reading": "ああ",
+   "romaji": "aa",
+   "en": "Ah!, Oh!"
+  },
+  {
+   "id": "n5-v-002",
+   "expression": "会う",
+   "reading": "あう",
+   "romaji": "au",
+   "en": "to meet, to see"
+  },
+  {
+   "id": "n5-v-026",
+   "expression": "あっち",
+   "reading": "あっち",
+   "romaji": "atchi",
+   "en": "over there"
+  },
+  {
+   "id": "n5-v-072",
+   "expression": "要る",
+   "reading": "いる",
+   "romaji": "iru",
+   "en": "to need"
+  },
+  {
+   "id": "n5-v-085",
+   "expression": "うるさい",
+   "reading": "うるさい",
+   "romaji": "urusai",
+   "en": "noisy; annoying"
+  },
+  {
+   "id": "n5-v-120",
+   "expression": "男の子",
+   "reading": "おとこのこ",
+   "romaji": "otokonoko",
+   "en": "boy"
+  },
+  {
+   "id": "n5-v-141",
+   "expression": "女の子",
+   "reading": "おんなのこ",
+   "romaji": "onnanoko",
+   "en": "girl"
+  },
+  {
+   "id": "n5-v-181",
+   "expression": "～がる",
+   "reading": "～がる",
+   "romaji": "～garu",
+   "en": "feel"
+  },
+  {
+   "id": "n5-v-187",
+   "expression": "可愛い",
+   "reading": "かわいい",
+   "romaji": "kawaii",
+   "en": "cute, adorable"
+  },
+  {
+   "id": "n5-v-235",
+   "expression": "今朝",
+   "reading": "けさ",
+   "romaji": "kesa",
+   "en": "this morning"
+  },
+  {
+   "id": "n5-v-241",
+   "expression": "元気",
+   "reading": "げんき",
+   "romaji": "genki",
+   "en": "health(y), energetic"
+  },
+  {
+   "id": "n5-v-259",
+   "expression": "こっち",
+   "reading": "こっち",
+   "romaji": "kotchi",
+   "en": "this person; this direction; this side"
+  },
+  {
+   "id": "n5-v-272",
+   "expression": "こんな",
+   "reading": "こんな",
+   "romaji": "konna",
+   "en": "such, like this"
+  },
+  {
+   "id": "n5-v-273",
+   "expression": "今晩",
+   "reading": "こんばん",
+   "romaji": "konban",
+   "en": "tonight, this evening"
+  },
+  {
+   "id": "n5-v-274",
+   "expression": "さあ",
+   "reading": "さあ",
+   "romaji": "saa",
+   "en": "come now, well"
+  },
+  {
+   "id": "n5-v-310",
+   "expression": "じゃ; じゃあ",
+   "reading": "じゃ; じゃあ",
+   "romaji": "ja;jaa",
+   "en": "well, well then"
+  },
+  {
+   "id": "n5-v-363",
+   "expression": "そっち",
+   "reading": "そっち",
+   "romaji": "sotchi",
+   "en": "over there"
+  },
+  {
+   "id": "n5-v-370",
+   "expression": "それでは",
+   "reading": "それでは",
+   "romaji": "soredeha",
+   "en": "in that situation, well then..."
+  },
+  {
+   "id": "n5-v-389",
+   "expression": "頼む",
+   "reading": "たのむ",
+   "romaji": "tanomu",
+   "en": "to request, to ask (a favor)"
+  },
+  {
+   "id": "n5-v-414",
+   "expression": "疲れる",
+   "reading": "つかれる",
+   "romaji": "tsukareru",
+   "en": "to get (become) tired; to become fatigued"
+  },
+  {
+   "id": "n5-v-421",
+   "expression": "つまらない",
+   "reading": "つまらない",
+   "romaji": "tsumaranai",
+   "en": "boring, dull; insignificant"
+  },
+  {
+   "id": "n5-v-428",
+   "expression": "出かける",
+   "reading": "でかける",
+   "romaji": "dekakeru",
+   "en": "to go out; to depart"
+  },
+  {
+   "id": "n5-v-433",
+   "expression": "では",
+   "reading": "では",
+   "romaji": "deha",
+   "en": "then, well, so"
+  },
+  {
+   "id": "n5-v-438",
+   "expression": "天気",
+   "reading": "てんき",
+   "romaji": "tenki",
+   "en": "weather"
+  },
+  {
+   "id": "n5-v-462",
+   "expression": "どっち",
+   "reading": "どっち",
+   "romaji": "dotchi",
+   "en": "which one, which way"
+  },
+  {
+   "id": "n5-v-477",
+   "expression": "ない",
+   "reading": "ない",
+   "romaji": "nai",
+   "en": "there isn't, doesn't have"
+  },
+  {
+   "id": "n5-v-567",
+   "expression": "一人",
+   "reading": "ひとり",
+   "romaji": "hitori",
+   "en": "one person"
+  },
+  {
+   "id": "n5-v-568",
+   "expression": "暇",
+   "reading": "ひま",
+   "romaji": "hima",
+   "en": "free time, leisure"
+  },
+  {
+   "id": "n5-v-613",
+   "expression": "本当",
+   "reading": "ほんとう",
+   "romaji": "hontou",
+   "en": "real, true"
+  },
+  {
+   "id": "n5-v-649",
+   "expression": "みんな",
+   "reading": "みんな",
+   "romaji": "minna",
+   "en": "all, everyone, everybody"
+  }
+ ]
+}

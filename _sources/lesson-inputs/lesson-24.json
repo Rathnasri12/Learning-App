@@ -1,0 +1,237 @@
+{
+ "meta": {
+  "n": 24,
+  "slug": "kuremasu",
+  "title": {
+   "ja": "〜てくれます",
+   "ta": "〜 செய்து கொடுப்பது",
+   "en": "Doing favours"
+  },
+  "theme": {
+   "en": "Help and favours, moving house, thanking people.",
+   "ta": "உதவி, நன்மை செய்வது, வீடு மாறுதல், நன்றி கூறுதல்."
+  },
+  "grammar": [
+   {
+    "id": "g24-1",
+    "pattern": "くれます",
+    "en": "Someone gives to me / my group"
+   },
+   {
+    "id": "g24-2",
+    "pattern": "V てあげます",
+    "en": "Do for someone (careful use)"
+   },
+   {
+    "id": "g24-3",
+    "pattern": "V てもらいます",
+    "en": "Receive the favour of someone doing"
+   },
+   {
+    "id": "g24-4",
+    "pattern": "V てくれます",
+    "en": "Someone kindly does for me"
+   },
+   {
+    "id": "g24-5",
+    "pattern": "N(person) が (identifying who)",
+    "en": "誰が手伝ってくれましたか"
+   },
+   {
+    "id": "g24-6",
+    "pattern": "あげる / もらう / くれる overview",
+    "en": "Giver/receiver viewpoint rules"
+   }
+  ],
+  "vocabHints": [
+   "moving house: luggage, box, truck, lift, help, carry, clean, tidy",
+   "favours: teach, show, lend, send, take someone, pick up, introduce, fix",
+   "thanks and apologies",
+   "neighbour, colleague, grandfather"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-011",
+   "expression": "上げる",
+   "reading": "あげる",
+   "romaji": "ageru",
+   "en": "to raise, to lift"
+  },
+  {
+   "id": "n5-v-031",
+   "expression": "アパート",
+   "reading": "アパート",
+   "romaji": "apaato",
+   "en": "apartment (abbr.)"
+  },
+  {
+   "id": "n5-v-039",
+   "expression": "洗う",
+   "reading": "あらう",
+   "romaji": "arau",
+   "en": "to wash"
+  },
+  {
+   "id": "n5-v-062",
+   "expression": "一緒",
+   "reading": "いっしょ",
+   "romaji": "issho",
+   "en": "together"
+  },
+  {
+   "id": "n5-v-093",
+   "expression": "エレベーター",
+   "reading": "エレベーター",
+   "romaji": "erebeetaa",
+   "en": "elevator"
+  },
+  {
+   "id": "n5-v-106",
+   "expression": "置く",
+   "reading": "おく",
+   "romaji": "oku",
+   "en": "to put; to lay; to place"
+  },
+  {
+   "id": "n5-v-110",
+   "expression": "伯父; 叔父さん",
+   "reading": "おじさん",
+   "romaji": "ojisan",
+   "en": "uncle, middle-aged man"
+  },
+  {
+   "id": "n5-v-111",
+   "expression": "おじいさん",
+   "reading": "おじいさん",
+   "romaji": "ojiisan",
+   "en": "grandfather, male senior citizen"
+  },
+  {
+   "id": "n5-v-128",
+   "expression": "伯母さん; 叔母さん",
+   "reading": "おばさん",
+   "romaji": "obasan",
+   "en": "aunt"
+  },
+  {
+   "id": "n5-v-129",
+   "expression": "おばあさん",
+   "reading": "おばあさん",
+   "romaji": "obaasan",
+   "en": "grandmother, female senior-citizen"
+  },
+  {
+   "id": "n5-v-303",
+   "expression": "自動車",
+   "reading": "じどうしゃ",
+   "romaji": "jidousha",
+   "en": "automobile"
+  },
+  {
+   "id": "n5-v-348",
+   "expression": "石鹸",
+   "reading": "せっけん",
+   "romaji": "sekken",
+   "en": "soap"
+  },
+  {
+   "id": "n5-v-356",
+   "expression": "洗濯",
+   "reading": "せんたく",
+   "romaji": "sentaku",
+   "en": "washing, laundry"
+  },
+  {
+   "id": "n5-v-359",
+   "expression": "掃除",
+   "reading": "そうじ (する)",
+   "romaji": "souji(suru)",
+   "en": "cleaning, sweeping"
+  },
+  {
+   "id": "n5-v-429",
+   "expression": "手紙",
+   "reading": "てがみ",
+   "romaji": "tegami",
+   "en": "letter"
+  },
+  {
+   "id": "n5-v-450",
+   "expression": "どうも",
+   "reading": "どうも",
+   "romaji": "doumo",
+   "en": "Thank you; somehow; no matter how hard one may try"
+  },
+  {
+   "id": "n5-v-473",
+   "expression": "取る",
+   "reading": "とる",
+   "romaji": "toru",
+   "en": "to take (a class); to get (a grade)"
+  },
+  {
+   "id": "n5-v-493",
+   "expression": "並べる",
+   "reading": "ならべる",
+   "romaji": "naraberu",
+   "en": "to put (things) side by side; to line up"
+  },
+  {
+   "id": "n5-v-502",
+   "expression": "荷物",
+   "reading": "にもつ",
+   "romaji": "nimotsu",
+   "en": "luggage; baggage"
+  },
+  {
+   "id": "n5-v-525",
+   "expression": "箱",
+   "reading": "はこ",
+   "romaji": "hako",
+   "en": "box"
+  },
+  {
+   "id": "n5-v-546",
+   "expression": "貼る",
+   "reading": "はる",
+   "romaji": "haru",
+   "en": "to post; to paste; to attach"
+  },
+  {
+   "id": "n5-v-606",
+   "expression": "ポスト",
+   "reading": "ポスト",
+   "romaji": "posuto",
+   "en": "mailbox; post, position"
+  },
+  {
+   "id": "n5-v-625",
+   "expression": "また",
+   "reading": "また",
+   "romaji": "mata",
+   "en": "and; furthermore"
+  },
+  {
+   "id": "n5-v-675",
+   "expression": "やる",
+   "reading": "やる",
+   "romaji": "yaru",
+   "en": "to do; to give (to pets, parents, siblings, etc.)"
+  },
+  {
+   "id": "n5-v-708",
+   "expression": "廊下",
+   "reading": "ろうか",
+   "romaji": "rouka",
+   "en": "corridor"
+  },
+  {
+   "id": "n5-v-716",
+   "expression": "渡す",
+   "reading": "わたす",
+   "romaji": "watasu",
+   "en": "to hand (something) over (v.t.); to get across"
+  }
+ ]
+}

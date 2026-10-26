@@ -1,0 +1,237 @@
+{
+ "meta": {
+  "n": 17,
+  "slug": "nai-kei",
+  "title": {
+   "ja": "〜ないでください",
+   "ta": "〜 செய்யாதீர்கள்",
+   "en": "Please don't …"
+  },
+  "theme": {
+   "en": "Health and hospital, obligations and deadlines, what you must and need not do.",
+   "ta": "உடல்நலம், மருத்துவமனை, கடமைகள், கெடுக்கள்; செய்ய வேண்டியது, தேவையில்லாதது."
+  },
+  "grammar": [
+   {
+    "id": "g17-1",
+    "pattern": "ない-form rules",
+    "en": "Forming the plain negative"
+   },
+   {
+    "id": "g17-2",
+    "pattern": "V ないでください",
+    "en": "Please don't"
+   },
+   {
+    "id": "g17-3",
+    "pattern": "V なければなりません",
+    "en": "Must / have to"
+   },
+   {
+    "id": "g17-4",
+    "pattern": "V なくてもいいです",
+    "en": "Need not"
+   },
+   {
+    "id": "g17-5",
+    "pattern": "N(object) は (topicalised object)",
+    "en": "荷物はここに置いてください"
+   },
+   {
+    "id": "g17-6",
+    "pattern": "N(time) までに",
+    "en": "By (deadline) vs まで (until)"
+   }
+  ],
+  "vocabHints": [
+   "health: fever, cold, headache, stomach, medicine, doctor, hospital, body feels bad",
+   "verbs: take medicine, bathe, worry, take off, bring, return (things), pay, submit",
+   "deadline, by when, meeting, report",
+   "important, dangerous, late"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-033",
+   "expression": "浴びる",
+   "reading": "あびる",
+   "romaji": "abiru",
+   "en": "to bathe, to shower"
+  },
+  {
+   "id": "n5-v-034",
+   "expression": "危ない",
+   "reading": "あぶない",
+   "romaji": "abunai",
+   "en": "dangerous, critical"
+  },
+  {
+   "id": "n5-v-048",
+   "expression": "いかが",
+   "reading": "いかが",
+   "romaji": "ikaga",
+   "en": "how, in what way"
+  },
+  {
+   "id": "n5-v-056",
+   "expression": "痛い",
+   "reading": "いたい",
+   "romaji": "itai",
+   "en": "hurt; painful; sore"
+  },
+  {
+   "id": "n5-v-124",
+   "expression": "お腹",
+   "reading": "おなか",
+   "romaji": "onaka",
+   "en": "stomach"
+  },
+  {
+   "id": "n5-v-130",
+   "expression": "お風呂",
+   "reading": "おふろ",
+   "romaji": "ofuro",
+   "en": "a bath"
+  },
+  {
+   "id": "n5-v-132",
+   "expression": "覚える",
+   "reading": "おぼえる",
+   "romaji": "oboeru",
+   "en": "to learn, to commit to memory, to remember, to memorize"
+  },
+  {
+   "id": "n5-v-150",
+   "expression": "返す",
+   "reading": "かえす",
+   "romaji": "kaesu",
+   "en": "to return something"
+  },
+  {
+   "id": "n5-v-163",
+   "expression": "風邪",
+   "reading": "かぜ",
+   "romaji": "kaze",
+   "en": "cold, flu"
+  },
+  {
+   "id": "n5-v-179",
+   "expression": "体",
+   "reading": "からだ",
+   "romaji": "karada",
+   "en": "body; health"
+  },
+  {
+   "id": "n5-v-212",
+   "expression": "キロ; キログラム",
+   "reading": "キロ; キログラム",
+   "romaji": "kiro;kiroguramu",
+   "en": "(abbr.) kilo (kilogram)"
+  },
+  {
+   "id": "n5-v-217",
+   "expression": "薬",
+   "reading": "くすり",
+   "romaji": "kusuri",
+   "en": "medicine"
+  },
+  {
+   "id": "n5-v-267",
+   "expression": "困る",
+   "reading": "こまる",
+   "romaji": "komaru",
+   "en": "to be bothered, to have difficulty"
+  },
+  {
+   "id": "n5-v-317",
+   "expression": "授業",
+   "reading": "じゅぎょう",
+   "romaji": "jugyou",
+   "en": "a class (of school)"
+  },
+  {
+   "id": "n5-v-374",
+   "expression": "大丈夫",
+   "reading": "だいじょうぶ",
+   "romaji": "daijoubu",
+   "en": "It's ok (all right); No need to worry; Everything is under control"
+  },
+  {
+   "id": "n5-v-376",
+   "expression": "大切",
+   "reading": "たいせつ",
+   "romaji": "taisetsu",
+   "en": "important"
+  },
+  {
+   "id": "n5-v-378",
+   "expression": "大変",
+   "reading": "たいへん",
+   "romaji": "taihen",
+   "en": "very; difficult, hard"
+  },
+  {
+   "id": "n5-v-383",
+   "expression": "出す",
+   "reading": "だす",
+   "romaji": "dasu",
+   "en": "to take (something) out; to hand in (something)"
+  },
+  {
+   "id": "n5-v-432",
+   "expression": "テスト",
+   "reading": "テスト",
+   "romaji": "tesuto",
+   "en": "test"
+  },
+  {
+   "id": "n5-v-443",
+   "expression": "～度",
+   "reading": "～ど",
+   "romaji": "～do",
+   "en": "counter for occurrences; ~ degree; ~ point"
+  },
+  {
+   "id": "n5-v-506",
+   "expression": "脱ぐ",
+   "reading": "ぬぐ",
+   "romaji": "nugu",
+   "en": "to take off (clothes)"
+  },
+  {
+   "id": "n5-v-571",
+   "expression": "病気",
+   "reading": "びょうき",
+   "romaji": "byouki",
+   "en": "illness; sickness"
+  },
+  {
+   "id": "n5-v-599",
+   "expression": "勉強",
+   "reading": "べんきょう (する)",
+   "romaji": "benkyou(suru)",
+   "en": "study"
+  },
+  {
+   "id": "n5-v-665",
+   "expression": "問題",
+   "reading": "もんだい",
+   "romaji": "mondai",
+   "en": "a problem"
+  },
+  {
+   "id": "n5-v-672",
+   "expression": "休む",
+   "reading": "やすむ",
+   "romaji": "yasumu",
+   "en": "to rest, to have a break, to get time off"
+  },
+  {
+   "id": "n5-v-713",
+   "expression": "忘れる",
+   "reading": "わすれる",
+   "romaji": "wasureru",
+   "en": "to forget"
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "meta": {
+  "n": 8,
+  "slug": "keiyoushi",
+  "title": {
+   "ja": "どんな人ですか",
+   "ta": "எப்படிப்பட்டவர்?",
+   "en": "What kind of person?"
+  },
+  "theme": {
+   "en": "Describing people, places and things with adjectives; weather and city life.",
+   "ta": "பெயரடைகளால் மக்கள், இடங்கள், பொருட்களை விவரிப்பது; வானிலை, நகர வாழ்க்கை."
+  },
+  "grammar": [
+   {
+    "id": "g08-1",
+    "pattern": "な-adjective です / じゃありません",
+    "en": "きれいです、静かじゃありません"
+   },
+   {
+    "id": "g08-2",
+    "pattern": "い-adjective です / 〜くないです",
+    "en": "大きいです、大きくないです; いい → よくない"
+   },
+   {
+    "id": "g08-3",
+    "pattern": "とても / あまり",
+    "en": "Degree adverbs with affirmative / negative"
+   },
+   {
+    "id": "g08-4",
+    "pattern": "N は どうですか",
+    "en": "How is …?"
+   },
+   {
+    "id": "g08-5",
+    "pattern": "どんな N / adj + N",
+    "en": "What kind of; adjectives before nouns (な/い attachment)"
+   },
+   {
+    "id": "g08-6",
+    "pattern": "〜が、〜",
+    "en": "but (sentence connector)"
+   },
+   {
+    "id": "g08-7",
+    "pattern": "どれ",
+    "en": "Which one (of three or more)"
+   }
+  ],
+  "vocabHints": [
+   "i-adjectives: big, small, new, old, good, bad, hot, cold, expensive, cheap, interesting, delicious, busy, fun, white/black/red/blue",
+   "na-adjectives: pretty, quiet, lively, famous, kind, free time, convenient",
+   "weather words",
+   "town: town, mountain, river, sea, food of a place"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-004",
+   "expression": "青い",
+   "reading": "あおい",
+   "romaji": "aoi",
+   "en": "blue"
+  },
+  {
+   "id": "n5-v-006",
+   "expression": "赤い",
+   "reading": "あかい",
+   "romaji": "akai",
+   "en": "red"
+  },
+  {
+   "id": "n5-v-021",
+   "expression": "新しい",
+   "reading": "あたらしい",
+   "romaji": "atarashii",
+   "en": "new"
+  },
+  {
+   "id": "n5-v-023",
+   "expression": "暑い",
+   "reading": "あつい",
+   "romaji": "atsui",
+   "en": "hot (in reference to weather), warm"
+  },
+  {
+   "id": "n5-v-024",
+   "expression": "熱い",
+   "reading": "あつい",
+   "romaji": "atsui",
+   "en": "hot (objects)"
+  },
+  {
+   "id": "n5-v-044",
+   "expression": "いい; よい",
+   "reading": "いい; よい",
+   "romaji": "ii;yoi",
+   "en": "good"
+  },
+  {
+   "id": "n5-v-055",
+   "expression": "忙しい",
+   "reading": "いそがしい",
+   "romaji": "isogashii",
+   "en": "busy (people, days)"
+  },
+  {
+   "id": "n5-v-097",
+   "expression": "美味しい",
+   "reading": "おいしい",
+   "romaji": "oishii",
+   "en": "delicious, tasty"
+  },
+  {
+   "id": "n5-v-099",
+   "expression": "大きい",
+   "reading": "おおきい",
+   "romaji": "ookii",
+   "en": "big, large"
+  },
+  {
+   "id": "n5-v-135",
+   "expression": "面白い",
+   "reading": "おもしろい",
+   "romaji": "omoshiroi",
+   "en": "interesting, amusing"
+  },
+  {
+   "id": "n5-v-185",
+   "expression": "川; 河",
+   "reading": "かわ",
+   "romaji": "kawa",
+   "en": "river"
+  },
+  {
+   "id": "n5-v-211",
+   "expression": "綺麗",
+   "reading": "きれい",
+   "romaji": "kirei",
+   "en": "pretty, clean, tidy"
+  },
+  {
+   "id": "n5-v-233",
+   "expression": "黒い",
+   "reading": "くろい",
+   "romaji": "kuroi",
+   "en": "black; dark"
+  },
+  {
+   "id": "n5-v-285",
+   "expression": "寒い",
+   "reading": "さむい",
+   "romaji": "samui",
+   "en": "cold (in reference to weather)"
+  },
+  {
+   "id": "n5-v-298",
+   "expression": "静か",
+   "reading": "しずか",
+   "romaji": "shizuka",
+   "en": "quiet, calm"
+  },
+  {
+   "id": "n5-v-325",
+   "expression": "白い",
+   "reading": "しろい",
+   "romaji": "shiroi",
+   "en": "white"
+  },
+  {
+   "id": "n5-v-379",
+   "expression": "高い",
+   "reading": "たかい",
+   "romaji": "takai",
+   "en": "tall, high; expensive"
+  },
+  {
+   "id": "n5-v-388",
+   "expression": "楽しい",
+   "reading": "たのしい",
+   "romaji": "tanoshii",
+   "en": "enjoyable, fun"
+  },
+  {
+   "id": "n5-v-399",
+   "expression": "小さい",
+   "reading": "ちいさい",
+   "romaji": "chiisai",
+   "en": "small, little"
+  },
+  {
+   "id": "n5-v-446",
+   "expression": "どう",
+   "reading": "どう",
+   "romaji": "dou",
+   "en": "how, in what way"
+  },
+  {
+   "id": "n5-v-463",
+   "expression": "とても",
+   "reading": "とても",
+   "romaji": "totemo",
+   "en": "very (much), greatly, exceedingly"
+  },
+  {
+   "id": "n5-v-475",
+   "expression": "どれ",
+   "reading": "どれ",
+   "romaji": "dore",
+   "en": "which one"
+  },
+  {
+   "id": "n5-v-476",
+   "expression": "どんな",
+   "reading": "どんな",
+   "romaji": "donna",
+   "en": "what, what kind of"
+  },
+  {
+   "id": "n5-v-497",
+   "expression": "にぎやか",
+   "reading": "にぎやか",
+   "romaji": "nigiyaka",
+   "en": "bustling, busy"
+  },
+  {
+   "id": "n5-v-589",
+   "expression": "古い",
+   "reading": "ふるい",
+   "romaji": "furui",
+   "en": "old (in reference to objects, not people), aged, ancient"
+  },
+  {
+   "id": "n5-v-600",
+   "expression": "便利",
+   "reading": "べんり",
+   "romaji": "benri",
+   "en": "convenient, handy"
+  },
+  {
+   "id": "n5-v-627",
+   "expression": "町",
+   "reading": "まち",
+   "romaji": "machi",
+   "en": "town; city"
+  },
+  {
+   "id": "n5-v-670",
+   "expression": "安い",
+   "reading": "やすい",
+   "romaji": "yasui",
+   "en": "inexpensive; cheap (things)"
+  },
+  {
+   "id": "n5-v-680",
+   "expression": "有名",
+   "reading": "ゆうめい",
+   "romaji": "yuumei",
+   "en": "famous"
+  },
+  {
+   "id": "n5-v-718",
+   "expression": "悪い",
+   "reading": "わるい",
+   "romaji": "warui",
+   "en": "bad, sinful; inferior"
+  }
+ ]
+}

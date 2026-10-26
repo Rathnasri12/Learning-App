@@ -1,0 +1,257 @@
+{
+ "meta": {
+  "n": 2,
+  "slug": "kore-sore-are",
+  "title": {
+   "ja": "これ・それ・あれ",
+   "ta": "இது, அது, அதோ அது",
+   "en": "This, that, that over there"
+  },
+  "theme": {
+   "en": "Everyday objects, stationery, gadgets; asking what something is and whose it is.",
+   "ta": "அன்றாடப் பொருட்கள், எழுதுபொருட்கள்; இது என்ன, யாருடையது என்று கேட்பது."
+  },
+  "grammar": [
+   {
+    "id": "g02-1",
+    "pattern": "これ / それ / あれ",
+    "en": "Demonstrative pronouns by distance"
+   },
+   {
+    "id": "g02-2",
+    "pattern": "この / その / あの N",
+    "en": "Demonstrative adjectives"
+   },
+   {
+    "id": "g02-3",
+    "pattern": "N1 の N2 (possession / content)",
+    "en": "の for ownership and about-ness: 私の本, 日本語の本"
+   },
+   {
+    "id": "g02-4",
+    "pattern": "そうです / そうじゃありません",
+    "en": "That's right / that's not right"
+   },
+   {
+    "id": "g02-5",
+    "pattern": "〜ですか、〜ですか",
+    "en": "Alternative question (A or B?)"
+   },
+   {
+    "id": "g02-6",
+    "pattern": "N は 何ですか / 誰のですか",
+    "en": "What is it / whose is it; の replacing a noun (私のです)"
+   },
+   {
+    "id": "g02-7",
+    "pattern": "お〜 (お国、お名前)",
+    "en": "Honorific prefix お"
+   }
+  ],
+  "vocabHints": [
+   "stationery",
+   "objects: book, bag, watch, umbrella, key, camera, phone",
+   "this/that words",
+   "whose/what",
+   "language names"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-032",
+   "expression": "あの",
+   "reading": "あの",
+   "romaji": "ano",
+   "en": "that over there; like that, that way; um..."
+  },
+  {
+   "id": "n5-v-043",
+   "expression": "あれ",
+   "reading": "あれ",
+   "romaji": "are",
+   "en": "that one (over there)"
+  },
+  {
+   "id": "n5-v-090",
+   "expression": "英語",
+   "reading": "えいご",
+   "romaji": "eigo",
+   "en": "English (language)"
+  },
+  {
+   "id": "n5-v-095",
+   "expression": "鉛筆",
+   "reading": "えんぴつ",
+   "romaji": "enpitsu",
+   "en": "pencil"
+  },
+  {
+   "id": "n5-v-096",
+   "expression": "お～",
+   "reading": "お～",
+   "romaji": "o～",
+   "en": "honorable ~ (honorific)"
+  },
+  {
+   "id": "n5-v-154",
+   "expression": "鍵",
+   "reading": "かぎ",
+   "romaji": "kagi",
+   "en": "a lock; a key"
+  },
+  {
+   "id": "n5-v-160",
+   "expression": "傘",
+   "reading": "かさ",
+   "romaji": "kasa",
+   "en": "umbrella, parasol"
+  },
+  {
+   "id": "n5-v-166",
+   "expression": "片仮名",
+   "reading": "かたかな",
+   "romaji": "katakana",
+   "en": "katakana"
+  },
+  {
+   "id": "n5-v-172",
+   "expression": "かばん",
+   "reading": "かばん",
+   "romaji": "kaban",
+   "en": "bag, basket"
+  },
+  {
+   "id": "n5-v-176",
+   "expression": "カメラ",
+   "reading": "カメラ",
+   "romaji": "kamera",
+   "en": "camera"
+  },
+  {
+   "id": "n5-v-244",
+   "expression": "～語",
+   "reading": "～ご",
+   "romaji": "～go",
+   "en": "word, language"
+  },
+  {
+   "id": "n5-v-264",
+   "expression": "この",
+   "reading": "この",
+   "romaji": "kono",
+   "en": "this"
+  },
+  {
+   "id": "n5-v-268",
+   "expression": "これ",
+   "reading": "これ",
+   "romaji": "kore",
+   "en": "this one"
+  },
+  {
+   "id": "n5-v-276",
+   "expression": "財布",
+   "reading": "さいふ",
+   "romaji": "saifu",
+   "en": "wallet"
+  },
+  {
+   "id": "n5-v-305",
+   "expression": "字引",
+   "reading": "じびき",
+   "romaji": "jibiki",
+   "en": "dictionary"
+  },
+  {
+   "id": "n5-v-358",
+   "expression": "そう; そうです",
+   "reading": "そう; そうです",
+   "romaji": "sou;soudesu",
+   "en": "yes; appears, to be the case"
+  },
+  {
+   "id": "n5-v-365",
+   "expression": "その",
+   "reading": "その",
+   "romaji": "sono",
+   "en": "that"
+  },
+  {
+   "id": "n5-v-368",
+   "expression": "それ",
+   "reading": "それ",
+   "romaji": "sore",
+   "en": "that one"
+  },
+  {
+   "id": "n5-v-395",
+   "expression": "誰",
+   "reading": "だれ",
+   "romaji": "dare",
+   "en": "who"
+  },
+  {
+   "id": "n5-v-456",
+   "expression": "時計",
+   "reading": "とけい",
+   "romaji": "tokei",
+   "en": "a watch; a clock"
+  },
+  {
+   "id": "n5-v-488",
+   "expression": "何",
+   "reading": "なん; なに",
+   "romaji": "nan;nani",
+   "en": "what"
+  },
+  {
+   "id": "n5-v-512",
+   "expression": "ノート",
+   "reading": "ノート",
+   "romaji": "nooto",
+   "en": "notebook"
+  },
+  {
+   "id": "n5-v-572",
+   "expression": "平仮名",
+   "reading": "ひらがな",
+   "romaji": "hiragana",
+   "en": "hiragana"
+  },
+  {
+   "id": "n5-v-598",
+   "expression": "ペン",
+   "reading": "ペン",
+   "romaji": "pen",
+   "en": "pen"
+  },
+  {
+   "id": "n5-v-602",
+   "expression": "ボールペン",
+   "reading": "ボールペン",
+   "romaji": "boorupen",
+   "en": "ball-point pen"
+  },
+  {
+   "id": "n5-v-610",
+   "expression": "本",
+   "reading": "ほん",
+   "romaji": "hon",
+   "en": "book"
+  },
+  {
+   "id": "n5-v-634",
+   "expression": "万年筆",
+   "reading": "まんねんひつ",
+   "romaji": "mannenhitsu",
+   "en": "fountain pen"
+  },
+  {
+   "id": "n5-v-697",
+   "expression": "ラジオカセ",
+   "reading": "ラジオカセ",
+   "romaji": "rajiokase",
+   "en": "radio cassette player"
+  }
+ ]
+}

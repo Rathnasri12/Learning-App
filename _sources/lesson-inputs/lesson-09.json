@@ -1,0 +1,235 @@
+{
+ "meta": {
+  "n": 9,
+  "slug": "suki-kirai-wakarimasu",
+  "title": {
+   "ja": "好きですか",
+   "ta": "பிடிக்குமா?",
+   "en": "Do you like it?"
+  },
+  "theme": {
+   "en": "Likes, dislikes, skills and understanding; giving reasons.",
+   "ta": "விருப்பு வெறுப்புகள், திறமைகள், புரிதல்; காரணம் சொல்வது."
+  },
+  "grammar": [
+   {
+    "id": "g09-1",
+    "pattern": "N が 好きです / 嫌いです",
+    "en": "Like / dislike with が"
+   },
+   {
+    "id": "g09-2",
+    "pattern": "N が 上手です / 下手です",
+    "en": "Good at / bad at"
+   },
+   {
+    "id": "g09-3",
+    "pattern": "N が わかります / あります",
+    "en": "Understand / have, with が"
+   },
+   {
+    "id": "g09-4",
+    "pattern": "よく / だいたい / たくさん / 少し / あまり / 全然",
+    "en": "Quantity and degree adverbs"
+   },
+   {
+    "id": "g09-5",
+    "pattern": "〜から、〜 (reason)",
+    "en": "Because: 時間がありませんから、行きません"
+   },
+   {
+    "id": "g09-6",
+    "pattern": "どうして / 〜からです",
+    "en": "Why / because"
+   },
+   {
+    "id": "g09-7",
+    "pattern": "どんな N (review) / どの N",
+    "en": "どの for choosing among three or more"
+   }
+  ],
+  "vocabHints": [
+   "music, sport, cooking, drawing, songs, dance",
+   "verbs: understand, have, be good at",
+   "adverbs of degree",
+   "time: time, money, appointment, task, homework"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-036",
+   "expression": "余り",
+   "reading": "あまり",
+   "romaji": "amari",
+   "en": "not very; surplus"
+  },
+  {
+   "id": "n5-v-041",
+   "expression": "有る",
+   "reading": "ある",
+   "romaji": "aru",
+   "en": "to be, to have"
+  },
+  {
+   "id": "n5-v-064",
+   "expression": "いつも",
+   "reading": "いつも",
+   "romaji": "itsumo",
+   "en": "always, usually, every time, never (with neg. verb)"
+  },
+  {
+   "id": "n5-v-069",
+   "expression": "嫌",
+   "reading": "いや",
+   "romaji": "iya",
+   "en": "disagreeable, detestable, unpleasant"
+  },
+  {
+   "id": "n5-v-079",
+   "expression": "歌",
+   "reading": "うた",
+   "romaji": "uta",
+   "en": "a song"
+  },
+  {
+   "id": "n5-v-087",
+   "expression": "絵",
+   "reading": "え",
+   "romaji": "e",
+   "en": "a painting; a picture; a drawing"
+  },
+  {
+   "id": "n5-v-098",
+   "expression": "多い",
+   "reading": "おおい",
+   "romaji": "ooi",
+   "en": "many; there are a lot"
+  },
+  {
+   "id": "n5-v-104",
+   "expression": "お金",
+   "reading": "おかね",
+   "romaji": "okane",
+   "en": "money"
+  },
+  {
+   "id": "n5-v-139",
+   "expression": "音楽",
+   "reading": "おんがく",
+   "romaji": "ongaku",
+   "en": "Music"
+  },
+  {
+   "id": "n5-v-208",
+   "expression": "嫌い",
+   "reading": "きらい",
+   "romaji": "kirai",
+   "en": "dislike"
+  },
+  {
+   "id": "n5-v-294",
+   "expression": "時間",
+   "reading": "じかん",
+   "romaji": "jikan",
+   "en": "time"
+  },
+  {
+   "id": "n5-v-318",
+   "expression": "宿題",
+   "reading": "しゅくだい",
+   "romaji": "shukudai",
+   "en": "homework"
+  },
+  {
+   "id": "n5-v-319",
+   "expression": "上手",
+   "reading": "じょうず",
+   "romaji": "jouzu",
+   "en": "be good at, skillful"
+  },
+  {
+   "id": "n5-v-331",
+   "expression": "好き",
+   "reading": "すき",
+   "romaji": "suki",
+   "en": "liking, fondness, love"
+  },
+  {
+   "id": "n5-v-335",
+   "expression": "少し",
+   "reading": "すこし",
+   "romaji": "sukoshi",
+   "en": "little, few"
+  },
+  {
+   "id": "n5-v-340",
+   "expression": "スポーツ",
+   "reading": "スポーツ",
+   "romaji": "supootsu",
+   "en": "sport(s)"
+  },
+  {
+   "id": "n5-v-375",
+   "expression": "大好き",
+   "reading": "だいすき",
+   "romaji": "daisuki",
+   "en": "very like-able, like very much"
+  },
+  {
+   "id": "n5-v-381",
+   "expression": "沢山",
+   "reading": "たくさん",
+   "romaji": "takusan",
+   "en": "many, much"
+  },
+  {
+   "id": "n5-v-447",
+   "expression": "どうして",
+   "reading": "どうして",
+   "romaji": "doushite",
+   "en": "why, for what reason"
+  },
+  {
+   "id": "n5-v-455",
+   "expression": "時々",
+   "reading": "ときどき",
+   "romaji": "tokidoki",
+   "en": "sometimes"
+  },
+  {
+   "id": "n5-v-466",
+   "expression": "どの",
+   "reading": "どの",
+   "romaji": "dono",
+   "en": "which"
+  },
+  {
+   "id": "n5-v-593",
+   "expression": "下手",
+   "reading": "へた",
+   "romaji": "heta",
+   "en": "unskillful, poor"
+  },
+  {
+   "id": "n5-v-685",
+   "expression": "よく",
+   "reading": "よく",
+   "romaji": "yoku",
+   "en": "frequently, often (much); well, skillfully"
+  },
+  {
+   "id": "n5-v-701",
+   "expression": "料理",
+   "reading": "りょうり",
+   "romaji": "ryouri",
+   "en": "cooking; cuisine"
+  },
+  {
+   "id": "n5-v-712",
+   "expression": "分かる",
+   "reading": "わかる",
+   "romaji": "wakaru",
+   "en": "to understand"
+  }
+ ]
+}

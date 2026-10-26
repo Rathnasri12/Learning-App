@@ -1,0 +1,293 @@
+{
+ "meta": {
+  "n": 1,
+  "slug": "hajimemashite",
+  "title": {
+   "ja": "はじめまして",
+   "ta": "அறிமுகம்",
+   "en": "Nice to meet you"
+  },
+  "theme": {
+   "en": "Self-introduction: name, country, job, age. Greetings and classroom phrases.",
+   "ta": "சுய அறிமுகம்: பெயர், நாடு, வேலை, வயது. வாழ்த்துகள், வகுப்பறை சொற்றொடர்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g01-1",
+    "pattern": "N1 は N2 です",
+    "en": "X is Y (polite copula, topic marker は)"
+   },
+   {
+    "id": "g01-2",
+    "pattern": "N1 は N2 じゃありません",
+    "en": "X is not Y"
+   },
+   {
+    "id": "g01-3",
+    "pattern": "〜ですか",
+    "en": "Yes/no question with か; answering はい / いいえ"
+   },
+   {
+    "id": "g01-4",
+    "pattern": "N も",
+    "en": "also / too"
+   },
+   {
+    "id": "g01-5",
+    "pattern": "N1 の N2 (affiliation)",
+    "en": "の linking a person to their group: IMC の 社員"
+   },
+   {
+    "id": "g01-6",
+    "pattern": "〜さん / 〜ちゃん / 〜じん / 〜さい",
+    "en": "Name suffix さん, nationality 〜人, age 〜歳"
+   },
+   {
+    "id": "g01-7",
+    "pattern": "お名前は？ / どなた / 何歳",
+    "en": "Asking name, who (polite), age; numbers 0–10"
+   }
+  ],
+  "vocabHints": [
+   "greetings",
+   "nationalities",
+   "occupations",
+   "numbers 0-10",
+   "people: teacher, student, company employee, doctor",
+   "classroom phrases"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-028",
+   "expression": "あなた",
+   "reading": "あなた",
+   "romaji": "anata",
+   "en": "you"
+  },
+  {
+   "id": "n5-v-045",
+   "expression": "いいえ",
+   "reading": "いいえ",
+   "romaji": "iie",
+   "en": "no, not at all"
+  },
+  {
+   "id": "n5-v-053",
+   "expression": "医者",
+   "reading": "いしゃ",
+   "romaji": "isha",
+   "en": "doctor; physician"
+  },
+  {
+   "id": "n5-v-057",
+   "expression": "一",
+   "reading": "いち",
+   "romaji": "ichi",
+   "en": "one"
+  },
+  {
+   "id": "n5-v-091",
+   "expression": "ええ",
+   "reading": "ええ",
+   "romaji": "ee",
+   "en": "yes"
+  },
+  {
+   "id": "n5-v-145",
+   "expression": "外国人",
+   "reading": "がいこくじん",
+   "romaji": "gaikokujin",
+   "en": "foreigner"
+  },
+  {
+   "id": "n5-v-156",
+   "expression": "学生",
+   "reading": "がくせい",
+   "romaji": "gakusei",
+   "en": "student"
+  },
+  {
+   "id": "n5-v-201",
+   "expression": "九",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "nine"
+  },
+  {
+   "id": "n5-v-205",
+   "expression": "教室",
+   "reading": "きょうしつ",
+   "romaji": "kyoushitsu",
+   "en": "classroom"
+  },
+  {
+   "id": "n5-v-216",
+   "expression": "九",
+   "reading": "く",
+   "romaji": "ku",
+   "en": "nine"
+  },
+  {
+   "id": "n5-v-223",
+   "expression": "国",
+   "reading": "くに",
+   "romaji": "kuni",
+   "en": "country; place of origin"
+  },
+  {
+   "id": "n5-v-228",
+   "expression": "クラス",
+   "reading": "クラス",
+   "romaji": "kurasu",
+   "en": "a class"
+  },
+  {
+   "id": "n5-v-243",
+   "expression": "五",
+   "reading": "ご",
+   "romaji": "go",
+   "en": "five"
+  },
+  {
+   "id": "n5-v-275",
+   "expression": "～歳",
+   "reading": "～さい",
+   "romaji": "～sai",
+   "en": "~ years old"
+  },
+  {
+   "id": "n5-v-287",
+   "expression": "～さん",
+   "reading": "～さん",
+   "romaji": "～san",
+   "en": "Mr. ~, Ms. ~"
+  },
+  {
+   "id": "n5-v-288",
+   "expression": "三",
+   "reading": "さん",
+   "romaji": "san",
+   "en": "three"
+  },
+  {
+   "id": "n5-v-290",
+   "expression": "四",
+   "reading": "し",
+   "romaji": "shi",
+   "en": "four"
+  },
+  {
+   "id": "n5-v-300",
+   "expression": "七",
+   "reading": "しち",
+   "romaji": "shichi",
+   "en": "seven"
+  },
+  {
+   "id": "n5-v-314",
+   "expression": "十",
+   "reading": "じゅう",
+   "romaji": "juu",
+   "en": "ten"
+  },
+  {
+   "id": "n5-v-326",
+   "expression": "～人",
+   "reading": "～じん",
+   "romaji": "～jin",
+   "en": "counter for people"
+  },
+  {
+   "id": "n5-v-351",
+   "expression": "ゼロ",
+   "reading": "ゼロ",
+   "romaji": "zero",
+   "en": "zero"
+  },
+  {
+   "id": "n5-v-355",
+   "expression": "先生",
+   "reading": "せんせい",
+   "romaji": "sensei",
+   "en": "teacher, professor; master; doctor"
+  },
+  {
+   "id": "n5-v-464",
+   "expression": "どなた",
+   "reading": "どなた",
+   "romaji": "donata",
+   "en": "who"
+  },
+  {
+   "id": "n5-v-490",
+   "expression": "名前",
+   "reading": "なまえ",
+   "romaji": "namae",
+   "en": "name"
+  },
+  {
+   "id": "n5-v-496",
+   "expression": "二",
+   "reading": "に",
+   "romaji": "ni",
+   "en": "two"
+  },
+  {
+   "id": "n5-v-519",
+   "expression": "はい",
+   "reading": "はい",
+   "romaji": "hai",
+   "en": "yes"
+  },
+  {
+   "id": "n5-v-536",
+   "expression": "八",
+   "reading": "はち",
+   "romaji": "hachi",
+   "en": "eight"
+  },
+  {
+   "id": "n5-v-564",
+   "expression": "人",
+   "reading": "ひと",
+   "romaji": "hito",
+   "en": "man, person"
+  },
+  {
+   "id": "n5-v-645",
+   "expression": "皆さん",
+   "reading": "みなさん",
+   "romaji": "minasan",
+   "en": "all of you, everyone"
+  },
+  {
+   "id": "n5-v-699",
+   "expression": "留学生",
+   "reading": "りゅうがくせい",
+   "romaji": "ryuugakusei",
+   "en": "international student"
+  },
+  {
+   "id": "n5-v-709",
+   "expression": "六",
+   "reading": "ろく",
+   "romaji": "roku",
+   "en": "six"
+  },
+  {
+   "id": "n5-v-714",
+   "expression": "私",
+   "reading": "わたし",
+   "romaji": "watashi",
+   "en": "I, myself"
+  },
+  {
+   "id": "n5-v-715",
+   "expression": "私",
+   "reading": "わたくし",
+   "romaji": "watakushi",
+   "en": "I (formal), myself, private affairs"
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "meta": {
+  "n": 21,
+  "slug": "to-omoimasu",
+  "title": {
+   "ja": "〜と思います",
+   "ta": "〜 என்று நினைக்கிறேன்",
+   "en": "I think that …"
+  },
+  "theme": {
+   "en": "Opinions, reporting speech, events and news, agreeing and disagreeing.",
+   "ta": "கருத்து, மற்றவர் சொன்னதைச் சொல்வது, நிகழ்வுகள், செய்தி, ஒப்புதல்/மறுப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g21-1",
+    "pattern": "plain form と 思います",
+    "en": "I think that"
+   },
+   {
+    "id": "g21-2",
+    "pattern": "「〜」と 言います / plain form と 言います",
+    "en": "Quoting speech directly and indirectly"
+   },
+   {
+    "id": "g21-3",
+    "pattern": "V / adj / N plain でしょう？",
+    "en": "…, right? (seeking agreement)"
+   },
+   {
+    "id": "g21-4",
+    "pattern": "N1(place) で N2 が あります",
+    "en": "An event takes place at"
+   },
+   {
+    "id": "g21-5",
+    "pattern": "N について",
+    "en": "About (a topic)"
+   },
+   {
+    "id": "g21-6",
+    "pattern": "でも / しかし",
+    "en": "But (sentence-initial)"
+   },
+   {
+    "id": "g21-7",
+    "pattern": "〜ので (reason, soft)",
+    "en": "Because (polite/soft reason)"
+   }
+  ],
+  "vocabHints": [
+   "opinion words: think, say, opinion, true, false, same, different",
+   "news: newspaper, TV, radio, prime minister, president, politics, economy",
+   "events: meeting, match, concert, festival, exhibition",
+   "agree, oppose, probably, certainly, of course"
+  ]
+ },
+ "words": [
+  {
+   "id": "n5-v-046",
+   "expression": "言う",
+   "reading": "いう",
+   "romaji": "iu",
+   "en": "to say"
+  },
+  {
+   "id": "n5-v-067",
+   "expression": "意味",
+   "reading": "いみ",
+   "romaji": "imi",
+   "en": "meaning, significance"
+  },
+  {
+   "id": "n5-v-101",
+   "expression": "大勢",
+   "reading": "おおぜい",
+   "romaji": "oozei",
+   "en": "great number of people"
+  },
+  {
+   "id": "n5-v-119",
+   "expression": "男",
+   "reading": "おとこ",
+   "romaji": "otoko",
+   "en": "man, male"
+  },
+  {
+   "id": "n5-v-125",
+   "expression": "同じ",
+   "reading": "おなじ",
+   "romaji": "onaji",
+   "en": "same, identical"
+  },
+  {
+   "id": "n5-v-140",
+   "expression": "女",
+   "reading": "おんな",
+   "romaji": "onna",
+   "en": "woman, female"
+  },
+  {
+   "id": "n5-v-164",
+   "expression": "方",
+   "reading": "かた",
+   "romaji": "kata",
+   "en": "-- honorific form for 人 (ひと) --; way of doing"
+  },
+  {
+   "id": "n5-v-237",
+   "expression": "結構",
+   "reading": "けっこう",
+   "romaji": "kekkou",
+   "en": "splendid; enough, tolerably"
+  },
+  {
+   "id": "n5-v-249",
+   "expression": "声",
+   "reading": "こえ",
+   "romaji": "koe",
+   "en": "voice"
+  },
+  {
+   "id": "n5-v-257",
+   "expression": "答える",
+   "reading": "こたえる",
+   "romaji": "kotaeru",
+   "en": "to answer, to reply"
+  },
+  {
+   "id": "n5-v-262",
+   "expression": "言葉",
+   "reading": "ことば",
+   "romaji": "kotoba",
+   "en": "language; word(s); expression(s)"
+  },
+  {
+   "id": "n5-v-293",
+   "expression": "しかし",
+   "reading": "しかし",
+   "romaji": "shikashi",
+   "en": "however; but"
+  },
+  {
+   "id": "n5-v-301",
+   "expression": "質問",
+   "reading": "しつもん",
+   "romaji": "shitsumon",
+   "en": "question, inquiry"
+  },
+  {
+   "id": "n5-v-327",
+   "expression": "新聞",
+   "reading": "しんぶん",
+   "romaji": "shinbun",
+   "en": "newspaper"
+  },
+  {
+   "id": "n5-v-384",
+   "expression": "～たち",
+   "reading": "～たち",
+   "romaji": "～tachi",
+   "en": "plural suffix"
+  },
+  {
+   "id": "n5-v-391",
+   "expression": "多分",
+   "reading": "たぶん",
+   "romaji": "tabun",
+   "en": "perhaps, probably, maybe"
+  },
+  {
+   "id": "n5-v-402",
+   "expression": "違う",
+   "reading": "ちがう",
+   "romaji": "chigau",
+   "en": "to be different; to differ; wrong"
+  },
+  {
+   "id": "n5-v-435",
+   "expression": "でも",
+   "reading": "でも",
+   "romaji": "demo",
+   "en": "but, however"
+  },
+  {
+   "id": "n5-v-437",
+   "expression": "テレビ",
+   "reading": "テレビ",
+   "romaji": "terebi",
+   "en": "television, TV"
+  },
+  {
+   "id": "n5-v-483",
+   "expression": "なぜ",
+   "reading": "なぜ",
+   "romaji": "naze",
+   "en": "why (same as どうして)"
+  },
+  {
+   "id": "n5-v-503",
+   "expression": "ニュース",
+   "reading": "ニュース",
+   "romaji": "nyuusu",
+   "en": "news"
+  },
+  {
+   "id": "n5-v-518",
+   "expression": "パーティー",
+   "reading": "パーティー",
+   "romaji": "paateii",
+   "en": "a party"
+  },
+  {
+   "id": "n5-v-528",
+   "expression": "始まる",
+   "reading": "はじまる",
+   "romaji": "hajimaru",
+   "en": "(something) begins"
+  },
+  {
+   "id": "n5-v-540",
+   "expression": "話",
+   "reading": "はなし",
+   "romaji": "hanashi",
+   "en": "talk (chat), story"
+  },
+  {
+   "id": "n5-v-696",
+   "expression": "ラジオ",
+   "reading": "ラジオ",
+   "romaji": "rajio",
+   "en": "radio"
+  }
+ ]
+}

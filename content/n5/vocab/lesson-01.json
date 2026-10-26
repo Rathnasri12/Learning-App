@@ -1,0 +1,398 @@
+[
+  {
+    "id": "n5-v-028",
+    "expression": "あなた",
+    "reading": "あなた",
+    "romaji": "anata",
+    "en": "you",
+    "ta": "நீங்கள் (நீ)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "あなたは 学生ですか。", "reading": "あなたは がくせいですか。", "romaji": "anata wa gakusei desu ka.", "ta": "நீங்கள் மாணவரா?", "en": "Are you a student?" }
+    ]
+  },
+  {
+    "id": "n5-v-045",
+    "expression": "いいえ",
+    "reading": "いいえ",
+    "romaji": "iie",
+    "en": "no",
+    "ta": "இல்லை",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "いいえ、私は 医者じゃありません。", "reading": "いいえ、わたしは いしゃじゃありません。", "romaji": "iie, watashi wa isha ja arimasen.", "ta": "இல்லை, நான் மருத்துவர் இல்லை.", "en": "No, I am not a doctor." }
+    ]
+  },
+  {
+    "id": "n5-v-053",
+    "expression": "医者",
+    "reading": "いしゃ",
+    "romaji": "isha",
+    "en": "doctor",
+    "ta": "மருத்துவர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "田中さんは 医者です。", "reading": "たなかさんは いしゃです。", "romaji": "tanaka-san wa isha desu.", "ta": "தனாகா-சான் மருத்துவர்.", "en": "Mr Tanaka is a doctor." }
+    ]
+  },
+  {
+    "id": "n5-v-057",
+    "expression": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "en": "one",
+    "ta": "ஒன்று",
+    "pos": "number",
+    "examples": [
+      { "ja": "ミーナちゃんは 一歳です。", "reading": "ミーナちゃんは いっさいです。", "romaji": "miina-chan wa issai desu.", "ta": "மீனா ஒரு வயது.", "en": "Meena is one year old." }
+    ]
+  },
+  {
+    "id": "n5-v-091",
+    "expression": "ええ",
+    "reading": "ええ",
+    "romaji": "ee",
+    "en": "yes (soft)",
+    "ta": "ஆமாம் (மென்மையான பதில்)",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "ええ、私は 留学生です。", "reading": "ええ、わたしは りゅうがくせいです。", "romaji": "ee, watashi wa ryuugakusei desu.", "ta": "ஆமாம், நான் வெளிநாட்டு மாணவன்.", "en": "Yes, I am an international student." }
+    ]
+  },
+  {
+    "id": "n5-v-145",
+    "expression": "外国人",
+    "reading": "がいこくじん",
+    "romaji": "gaikokujin",
+    "en": "foreigner",
+    "ta": "வெளிநாட்டவர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "山田さんは 外国人じゃありません。", "reading": "やまださんは がいこくじんじゃありません。", "romaji": "yamada-san wa gaikokujin ja arimasen.", "ta": "யமாடா-சான் வெளிநாட்டவர் இல்லை.", "en": "Ms Yamada is not a foreigner." }
+    ]
+  },
+  {
+    "id": "n5-v-156",
+    "expression": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "en": "student",
+    "ta": "மாணவர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ラジャさんも 学生です。", "reading": "ラジャさんも がくせいです。", "romaji": "raja-san mo gakusei desu.", "ta": "ராஜா-சானும் மாணவர்.", "en": "Raja is also a student." }
+    ]
+  },
+  {
+    "id": "n5-v-201",
+    "expression": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "en": "nine",
+    "ta": "ஒன்பது",
+    "pos": "number",
+    "examples": [
+      { "ja": "カビタちゃんは 九歳です。", "reading": "カビタちゃんは きゅうさいです。", "romaji": "kabita-chan wa kyuusai desu.", "ta": "கவிதா ஒன்பது வயது.", "en": "Kavitha is nine years old." }
+    ]
+  },
+  {
+    "id": "n5-v-205",
+    "expression": "教室",
+    "reading": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "en": "classroom",
+    "ta": "வகுப்பறை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は 日本語教室の 学生です。", "reading": "わたしは にほんご きょうしつの がくせいです。", "romaji": "watashi wa nihongo kyoushitsu no gakusei desu.", "ta": "நான் ஜப்பானிய மொழி வகுப்பறையின் மாணவன்.", "en": "I am a student in the Japanese classroom." }
+    ]
+  },
+  {
+    "id": "n5-v-216",
+    "expression": "九",
+    "reading": "く",
+    "romaji": "ku",
+    "en": "nine (alternative reading)",
+    "ta": "ஒன்பது (மாற்று உச்சரிப்பு)",
+    "pos": "number",
+    "examples": [
+      { "ja": "「く」も 九です。", "reading": "「く」も きゅうです。", "romaji": "\"ku\" mo kyuu desu.", "ta": "「く」 என்பதும் ஒன்பதுதான்.", "en": "\"Ku\" is also nine." }
+    ]
+  },
+  {
+    "id": "n5-v-223",
+    "expression": "国",
+    "reading": "くに",
+    "romaji": "kuni",
+    "en": "country",
+    "ta": "நாடு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "山田さんの 国は 日本です。", "reading": "やまださんの くには にほんです。", "romaji": "yamada-san no kuni wa nihon desu.", "ta": "யமாடா-சானின் நாடு ஜப்பான்.", "en": "Mr Yamada's country is Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-228",
+    "expression": "クラス",
+    "reading": "クラス",
+    "romaji": "kurasu",
+    "en": "class",
+    "ta": "வகுப்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ラジャさんは 私の クラスの 学生です。", "reading": "ラジャさんは わたしの クラスの がくせいです。", "romaji": "raja-san wa watashi no kurasu no gakusei desu.", "ta": "ராஜா-சான் என் வகுப்பு மாணவர்.", "en": "Raja is a student in my class." }
+    ]
+  },
+  {
+    "id": "n5-v-243",
+    "expression": "五",
+    "reading": "ご",
+    "romaji": "go",
+    "en": "five",
+    "ta": "ஐந்து",
+    "pos": "number",
+    "examples": [
+      { "ja": "ハリちゃんは 五歳です。", "reading": "ハリちゃんは ごさいです。", "romaji": "hari-chan wa gosai desu.", "ta": "ஹரி ஐந்து வயது.", "en": "Hari is five years old." }
+    ]
+  },
+  {
+    "id": "n5-v-275",
+    "expression": "～歳",
+    "reading": "～さい",
+    "romaji": "～sai",
+    "en": "years old",
+    "ta": "～ வயது",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "スレシュさんは 何歳ですか。", "reading": "スレシュさんは なんさいですか。", "romaji": "sureshu-san wa nansai desu ka.", "ta": "சுரேஷ்-சான் எத்தனை வயது?", "en": "How old is Suresh?" }
+    ]
+  },
+  {
+    "id": "n5-v-287",
+    "expression": "～さん",
+    "reading": "～さん",
+    "romaji": "～san",
+    "en": "Mr / Ms",
+    "ta": "திரு. / திருமதி. / செல்வி (பெயருக்குப் பின்)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "田中さんは 先生です。", "reading": "たなかさんは せんせいです。", "romaji": "tanaka-san wa sensei desu.", "ta": "தனாகா-சான் ஆசிரியர்.", "en": "Mr Tanaka is a teacher." }
+    ]
+  },
+  {
+    "id": "n5-v-288",
+    "expression": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "en": "three",
+    "ta": "மூன்று",
+    "pos": "number",
+    "examples": [
+      { "ja": "ラニちゃんは 三歳です。", "reading": "ラニちゃんは さんさいです。", "romaji": "rani-chan wa sansai desu.", "ta": "ராணி மூன்று வயது.", "en": "Rani is three years old." }
+    ]
+  },
+  {
+    "id": "n5-v-290",
+    "expression": "四",
+    "reading": "し",
+    "romaji": "shi",
+    "en": "four",
+    "ta": "நான்கு",
+    "pos": "number",
+    "examples": [
+      { "ja": "四は 「し」です。「よん」も 四です。", "reading": "しは 「し」です。「よん」も しです。", "romaji": "shi wa \"shi\" desu. \"yon\" mo shi desu.", "ta": "நான்கு என்பது 「し」. 「よん」 என்பதும் நான்குதான்.", "en": "Four is \"shi\". \"Yon\" is also four." }
+    ]
+  },
+  {
+    "id": "n5-v-300",
+    "expression": "七",
+    "reading": "しち",
+    "romaji": "shichi",
+    "en": "seven",
+    "ta": "ஏழு",
+    "pos": "number",
+    "examples": [
+      { "ja": "プリヤちゃんは 七歳です。", "reading": "プリヤちゃんは ななさいです。", "romaji": "puriya-chan wa nanasai desu.", "ta": "பிரியா ஏழு வயது.", "en": "Priya is seven years old." }
+    ]
+  },
+  {
+    "id": "n5-v-314",
+    "expression": "十",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "en": "ten",
+    "ta": "பத்து",
+    "pos": "number",
+    "examples": [
+      { "ja": "ダニシュちゃんは 十歳です。", "reading": "ダニシュちゃんは じゅっさいです。", "romaji": "danishu-chan wa jussai desu.", "ta": "டானிஷ் பத்து வயது.", "en": "Danish is ten years old." }
+    ]
+  },
+  {
+    "id": "n5-v-326",
+    "expression": "～人",
+    "reading": "～じん",
+    "romaji": "～jin",
+    "en": "person of (nationality)",
+    "ta": "～ நாட்டவர் (இந்தியர், ஜப்பானியர்)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "私は インド人です。", "reading": "わたしは インドじんです。", "romaji": "watashi wa indojin desu.", "ta": "நான் இந்தியர்.", "en": "I am Indian." }
+    ]
+  },
+  {
+    "id": "n5-v-351",
+    "expression": "ゼロ",
+    "reading": "ゼロ",
+    "romaji": "zero",
+    "en": "zero",
+    "ta": "பூஜ்ஜியம்",
+    "pos": "number",
+    "examples": [
+      { "ja": "「ゼロ」も 日本語ですか。", "reading": "「ゼロ」も にほんごですか。", "romaji": "\"zero\" mo nihongo desu ka.", "ta": "「ゼロ」 என்பதும் ஜப்பானிய மொழியா?", "en": "Is \"zero\" also Japanese?" }
+    ]
+  },
+  {
+    "id": "n5-v-355",
+    "expression": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "en": "teacher",
+    "ta": "ஆசிரியர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "山田先生は 日本人です。", "reading": "やまだせんせいは にほんじんです。", "romaji": "yamada-sensei wa nihonjin desu.", "ta": "யமாடா ஆசிரியர் ஜப்பானியர்.", "en": "Yamada-sensei is Japanese." }
+    ]
+  },
+  {
+    "id": "n5-v-464",
+    "expression": "どなた",
+    "reading": "どなた",
+    "romaji": "donata",
+    "en": "who (polite)",
+    "ta": "யார் (மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "すみません、どなたですか。", "reading": "すみません、どなたですか。", "romaji": "sumimasen, donata desu ka.", "ta": "மன்னிக்கவும், நீங்கள் யார்?", "en": "Excuse me, who are you?" }
+    ]
+  },
+  {
+    "id": "n5-v-490",
+    "expression": "名前",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "en": "name",
+    "ta": "பெயர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私の 名前は ラジャです。", "reading": "わたしの なまえは ラジャです。", "romaji": "watashi no namae wa raja desu.", "ta": "என் பெயர் ராஜா.", "en": "My name is Raja." }
+    ]
+  },
+  {
+    "id": "n5-v-496",
+    "expression": "二",
+    "reading": "に",
+    "romaji": "ni",
+    "en": "two",
+    "ta": "இரண்டு",
+    "pos": "number",
+    "examples": [
+      { "ja": "アヌちゃんは 二歳です。", "reading": "アヌちゃんは にさいです。", "romaji": "anu-chan wa nisai desu.", "ta": "அனு இரண்டு வயது.", "en": "Anu is two years old." }
+    ]
+  },
+  {
+    "id": "n5-v-519",
+    "expression": "はい",
+    "reading": "はい",
+    "romaji": "hai",
+    "en": "yes",
+    "ta": "ஆமாம்",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "はい、私は 学生です。", "reading": "はい、わたしは がくせいです。", "romaji": "hai, watashi wa gakusei desu.", "ta": "ஆமாம், நான் மாணவன்.", "en": "Yes, I am a student." }
+    ]
+  },
+  {
+    "id": "n5-v-536",
+    "expression": "八",
+    "reading": "はち",
+    "romaji": "hachi",
+    "en": "eight",
+    "ta": "எட்டு",
+    "pos": "number",
+    "examples": [
+      { "ja": "アルンちゃんは 八歳です。", "reading": "アルンちゃんは はっさいです。", "romaji": "arun-chan wa hassai desu.", "ta": "அருண் எட்டு வயது.", "en": "Arun is eight years old." }
+    ]
+  },
+  {
+    "id": "n5-v-564",
+    "expression": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "en": "person",
+    "ta": "மனிதர், நபர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "山田さんは 日本の 人です。", "reading": "やまださんは にほんの ひとです。", "romaji": "yamada-san wa nihon no hito desu.", "ta": "யமாடா-சான் ஜப்பான் நாட்டவர்.", "en": "Mr Yamada is a person from Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-645",
+    "expression": "皆さん",
+    "reading": "みなさん",
+    "romaji": "minasan",
+    "en": "everyone",
+    "ta": "எல்லோரும் (மரியாதையாக)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "皆さん、おはようございます。", "reading": "みなさん、おはようございます。", "romaji": "minasan, ohayou gozaimasu.", "ta": "எல்லோருக்கும் காலை வணக்கம்.", "en": "Good morning, everyone." }
+    ]
+  },
+  {
+    "id": "n5-v-699",
+    "expression": "留学生",
+    "reading": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "en": "international student",
+    "ta": "வெளிநாட்டு மாணவர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は インドの 留学生です。", "reading": "わたしは インドの りゅうがくせいです。", "romaji": "watashi wa indo no ryuugakusei desu.", "ta": "நான் இந்தியாவிலிருந்து வந்த வெளிநாட்டு மாணவன்.", "en": "I am an international student from India." }
+    ]
+  },
+  {
+    "id": "n5-v-709",
+    "expression": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "en": "six",
+    "ta": "ஆறு",
+    "pos": "number",
+    "examples": [
+      { "ja": "ニシャちゃんは 六歳ですか。", "reading": "ニシャちゃんは ろくさいですか。", "romaji": "nisha-chan wa rokusai desu ka.", "ta": "நிஷா ஆறு வயதா?", "en": "Is Nisha six years old?" }
+    ]
+  },
+  {
+    "id": "n5-v-714",
+    "expression": "私",
+    "reading": "わたし",
+    "romaji": "watashi",
+    "en": "I",
+    "ta": "நான்",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "私は スリランカ人です。", "reading": "わたしは スリランカじんです。", "romaji": "watashi wa surirankajin desu.", "ta": "நான் இலங்கையர்.", "en": "I am Sri Lankan." }
+    ]
+  },
+  {
+    "id": "n5-v-715",
+    "expression": "私",
+    "reading": "わたくし",
+    "romaji": "watakushi",
+    "en": "I (formal)",
+    "ta": "நான் (மிக மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "私は 田中です。どうぞよろしく。", "reading": "わたくしは たなかです。どうぞ よろしく。", "romaji": "watakushi wa tanaka desu. douzo yoroshiku.", "ta": "நான் தனாகா. உங்களைச் சந்தித்ததில் மகிழ்ச்சி.", "en": "I am Tanaka. Pleased to meet you." }
+    ]
+  }
+]
