@@ -1,0 +1,314 @@
+[
+  {
+    "id": "n5-v-033",
+    "expression": "浴びる",
+    "reading": "あびる",
+    "romaji": "abiru",
+    "en": "to take (a shower)",
+    "ta": "(ஷவரில்) குளிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "毎朝 シャワーを 浴びます。", "reading": "まいあさ シャワーを あびます。", "romaji": "maiasa shawaa o abimasu.", "ta": "ஒவ்வொரு காலையும் ஷவரில் குளிக்கிறேன்.", "en": "I take a shower every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-034",
+    "expression": "危ない",
+    "reading": "あぶない",
+    "romaji": "abunai",
+    "en": "dangerous",
+    "ta": "ஆபத்தான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "ここは 危ないですから、入らないでください。", "reading": "ここは あぶないですから、はいらないでください。", "romaji": "koko wa abunai desu kara, hairanaide kudasai.", "ta": "இங்கே ஆபத்து, அதனால் உள்ளே வராதீர்கள்.", "en": "It is dangerous here, so please do not enter." }
+    ]
+  },
+  {
+    "id": "n5-v-048",
+    "expression": "いかが",
+    "reading": "いかが",
+    "romaji": "ikaga",
+    "en": "how (polite)",
+    "ta": "எப்படி (மரியாதையாக)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "お茶は いかがですか。", "reading": "おちゃは いかがですか。", "romaji": "ocha wa ikaga desu ka.", "ta": "தேநீர் சாப்பிடுகிறீர்களா? (தேநீர் எப்படி?)", "en": "Would you like some tea?" }
+    ]
+  },
+  {
+    "id": "n5-v-056",
+    "expression": "痛い",
+    "reading": "いたい",
+    "romaji": "itai",
+    "en": "painful; hurts",
+    "ta": "வலிக்கிற",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "朝から 頭が 痛いです。", "reading": "あさから あたまが いたいです。", "romaji": "asa kara atama ga itai desu.", "ta": "காலையிலிருந்து தலை வலிக்கிறது.", "en": "My head has been hurting since morning." }
+    ]
+  },
+  {
+    "id": "n5-v-124",
+    "expression": "お腹",
+    "reading": "おなか",
+    "romaji": "onaka",
+    "en": "stomach",
+    "ta": "வயிறு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "お腹が 痛いですから、何も 食べません。", "reading": "おなかが いたいですから、なにも たべません。", "romaji": "onaka ga itai desu kara, nani mo tabemasen.", "ta": "வயிறு வலிப்பதால் எதுவும் சாப்பிடவில்லை.", "en": "My stomach hurts, so I am not eating anything." }
+    ]
+  },
+  {
+    "id": "n5-v-130",
+    "expression": "お風呂",
+    "reading": "おふろ",
+    "romaji": "ofuro",
+    "en": "bath",
+    "ta": "குளியல் (தொட்டிக் குளியல்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "晩ご飯の あとで お風呂に 入ります。", "reading": "ばんごはんの あとで おふろに はいります。", "romaji": "bangohan no ato de ofuro ni hairimasu.", "ta": "இரவு உணவுக்குப் பிறகு குளிக்கிறேன்.", "en": "I take a bath after dinner." }
+    ]
+  },
+  {
+    "id": "n5-v-132",
+    "expression": "覚える",
+    "reading": "おぼえる",
+    "romaji": "oboeru",
+    "en": "to memorise; to remember",
+    "ta": "மனப்பாடம் செய்ய (நினைவில் வைக்க)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "テストまでに これを 覚えなければなりません。", "reading": "テストまでに これを おぼえなければなりません。", "romaji": "tesuto made ni kore o oboenakereba narimasen.", "ta": "தேர்வுக்குள் இதை மனப்பாடம் செய்ய வேண்டும்.", "en": "I must memorise this before the test." }
+    ]
+  },
+  {
+    "id": "n5-v-150",
+    "expression": "返す",
+    "reading": "かえす",
+    "romaji": "kaesu",
+    "en": "to return (something)",
+    "ta": "திருப்பிக் கொடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "金曜日までに 本を 返してください。", "reading": "きんようびまでに ほんを かえしてください。", "romaji": "kinyoubi made ni hon o kaeshite kudasai.", "ta": "வெள்ளிக்கிழமைக்குள் புத்தகத்தைத் திருப்பிக் கொடுங்கள்.", "en": "Please return the book by Friday." }
+    ]
+  },
+  {
+    "id": "n5-v-163",
+    "expression": "風邪",
+    "reading": "かぜ",
+    "romaji": "kaze",
+    "en": "a cold",
+    "ta": "சளி (ஜலதோஷம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "風邪ですから、今日は 休みます。", "reading": "かぜですから、きょうは やすみます。", "romaji": "kaze desu kara, kyou wa yasumimasu.", "ta": "சளி பிடித்திருப்பதால் இன்று விடுப்பு எடுக்கிறேன்.", "en": "I have a cold, so I am taking today off." }
+    ]
+  },
+  {
+    "id": "n5-v-179",
+    "expression": "体",
+    "reading": "からだ",
+    "romaji": "karada",
+    "en": "body; health",
+    "ta": "உடல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "体に 悪いですから、たばこを 吸わないでください。", "reading": "からだに わるいですから、たばこを すわないでください。", "romaji": "karada ni warui desu kara, tabako o suwanaide kudasai.", "ta": "உடலுக்குக் கெடுதல், அதனால் புகை பிடிக்காதீர்கள்.", "en": "It is bad for your health, so please do not smoke." }
+    ]
+  },
+  {
+    "id": "n5-v-212",
+    "expression": "キロ; キログラム",
+    "reading": "キロ; キログラム",
+    "romaji": "kiro;kiroguramu",
+    "en": "kilogram",
+    "ta": "கிலோ",
+    "pos": "counter",
+    "examples": [
+      { "ja": "肉を 一キロ 買いました。", "reading": "にくを いちキロ かいました。", "romaji": "niku o ichi kiro kaimashita.", "ta": "ஒரு கிலோ இறைச்சி வாங்கினேன்.", "en": "I bought one kilo of meat." }
+    ]
+  },
+  {
+    "id": "n5-v-217",
+    "expression": "薬",
+    "reading": "くすり",
+    "romaji": "kusuri",
+    "en": "medicine",
+    "ta": "மருந்து",
+    "pos": "noun",
+    "examples": [
+      { "ja": "一日に 三回 薬を 飲みます。", "reading": "いちにちに さんかい くすりを のみます。", "romaji": "ichinichi ni sankai kusuri o nomimasu.", "ta": "ஒரு நாளைக்கு மூன்று முறை மருந்து சாப்பிடுகிறேன்.", "en": "I take medicine three times a day." }
+    ]
+  },
+  {
+    "id": "n5-v-267",
+    "expression": "困る",
+    "reading": "こまる",
+    "romaji": "komaru",
+    "en": "to be in trouble",
+    "ta": "சிரமப்பட (கஷ்டப்பட)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "お金が ありませんから、困っています。", "reading": "おかねが ありませんから、こまっています。", "romaji": "okane ga arimasen kara, komatte imasu.", "ta": "பணம் இல்லாததால் சிரமப்படுகிறேன்.", "en": "I have no money, so I am in trouble." }
+    ]
+  },
+  {
+    "id": "n5-v-317",
+    "expression": "授業",
+    "reading": "じゅぎょう",
+    "romaji": "jugyou",
+    "en": "class; lesson",
+    "ta": "வகுப்பு (பாடவேளை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "授業は 九時から 十二時までです。", "reading": "じゅぎょうは くじから じゅうにじまでです。", "romaji": "jugyou wa kuji kara juuniji made desu.", "ta": "வகுப்பு ஒன்பது மணியிலிருந்து பன்னிரண்டு மணி வரை.", "en": "Class is from nine to twelve." }
+    ]
+  },
+  {
+    "id": "n5-v-374",
+    "expression": "大丈夫",
+    "reading": "だいじょうぶ",
+    "romaji": "daijoubu",
+    "en": "all right; fine",
+    "ta": "பரவாயில்லை (பிரச்சினை இல்லை)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "お腹は もう 大丈夫です。", "reading": "おなかは もう だいじょうぶです。", "romaji": "onaka wa mou daijoubu desu.", "ta": "வயிறு இப்போது பரவாயில்லை.", "en": "My stomach is fine now." }
+    ]
+  },
+  {
+    "id": "n5-v-376",
+    "expression": "大切",
+    "reading": "たいせつ",
+    "romaji": "taisetsu",
+    "en": "important; precious",
+    "ta": "முக்கியமான",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "体は 大切ですから、ゆっくり 休んでください。", "reading": "からだは たいせつですから、ゆっくり やすんでください。", "romaji": "karada wa taisetsu desu kara, yukkuri yasunde kudasai.", "ta": "உடல் முக்கியம், அதனால் நன்றாக ஓய்வெடுங்கள்.", "en": "Your health is important, so please rest well." }
+    ]
+  },
+  {
+    "id": "n5-v-378",
+    "expression": "大変",
+    "reading": "たいへん",
+    "romaji": "taihen",
+    "en": "hard; tough",
+    "ta": "கடினமான (கஷ்டமான)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "毎日 授業が ありますから、大変です。", "reading": "まいにち じゅぎょうが ありますから、たいへんです。", "romaji": "mainichi jugyou ga arimasu kara, taihen desu.", "ta": "தினமும் வகுப்பு இருப்பதால் கஷ்டமாக இருக்கிறது.", "en": "I have class every day, so it is tough." }
+    ]
+  },
+  {
+    "id": "n5-v-383",
+    "expression": "出す",
+    "reading": "だす",
+    "romaji": "dasu",
+    "en": "to take out; to hand in",
+    "ta": "வெளியே எடுக்க (சமர்ப்பிக்க)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "月曜日までに 宿題を 出してください。", "reading": "げつようびまでに しゅくだいを だしてください。", "romaji": "getsuyoubi made ni shukudai o dashite kudasai.", "ta": "திங்கட்கிழமைக்குள் வீட்டுப்பாடத்தைச் சமர்ப்பியுங்கள்.", "en": "Please hand in your homework by Monday." }
+    ]
+  },
+  {
+    "id": "n5-v-432",
+    "expression": "テスト",
+    "reading": "テスト",
+    "romaji": "tesuto",
+    "en": "test",
+    "ta": "தேர்வு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明日 日本語の テストが あります。", "reading": "あした にほんごの テストが あります。", "romaji": "ashita nihongo no tesuto ga arimasu.", "ta": "நாளை ஜப்பானிய மொழித் தேர்வு இருக்கிறது.", "en": "There is a Japanese test tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-443",
+    "expression": "～度",
+    "reading": "～ど",
+    "romaji": "～do",
+    "en": "degrees; times",
+    "ta": "～டிகிரி (～முறை)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "今日は 三十五度ですね。暑いです。", "reading": "きょうは さんじゅうごどですね。あついです。", "romaji": "kyou wa sanjuugo do desu ne. atsui desu.", "ta": "இன்று முப்பத்தைந்து டிகிரியே. வெப்பமாக இருக்கிறது.", "en": "It is 35 degrees today. It is hot." }
+    ]
+  },
+  {
+    "id": "n5-v-506",
+    "expression": "脱ぐ",
+    "reading": "ぬぐ",
+    "romaji": "nugu",
+    "en": "to take off (clothes)",
+    "ta": "கழற்ற (உடை, செருப்பு)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "暑いですから、これを 脱いでも いいですか。", "reading": "あついですから、これを ぬいでも いいですか。", "romaji": "atsui desu kara, kore o nuide mo ii desu ka.", "ta": "சூடாக இருக்கிறது, இதைக் கழற்றலாமா?", "en": "It is hot, so may I take this off?" }
+    ]
+  },
+  {
+    "id": "n5-v-571",
+    "expression": "病気",
+    "reading": "びょうき",
+    "romaji": "byouki",
+    "en": "illness",
+    "ta": "நோய்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 病気で、病院に います。", "reading": "ちちは びょうきで、びょういんに います。", "romaji": "chichi wa byouki de, byouin ni imasu.", "ta": "அப்பா நோய்வாய்ப்பட்டு மருத்துவமனையில் இருக்கிறார்.", "en": "My father is ill and is in hospital." }
+    ]
+  },
+  {
+    "id": "n5-v-599",
+    "expression": "勉強",
+    "reading": "べんきょう (する)",
+    "romaji": "benkyou(suru)",
+    "en": "study",
+    "ta": "படிப்பு (படிக்க)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 二時間 勉強します。", "reading": "まいばん にじかん べんきょうします。", "romaji": "maiban nijikan benkyou shimasu.", "ta": "ஒவ்வொரு இரவும் இரண்டு மணி நேரம் படிக்கிறேன்.", "en": "I study for two hours every night." }
+    ]
+  },
+  {
+    "id": "n5-v-665",
+    "expression": "問題",
+    "reading": "もんだい",
+    "romaji": "mondai",
+    "en": "problem; question",
+    "ta": "பிரச்சினை (கேள்வி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この問題は 難しいですね。", "reading": "この もんだいは むずかしいですね。", "romaji": "kono mondai wa muzukashii desu ne.", "ta": "இந்தக் கேள்வி கடினமாக இருக்கிறதே.", "en": "This question is difficult, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-672",
+    "expression": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "en": "to rest; to take a day off",
+    "ta": "ஓய்வெடுக்க (விடுப்பு எடுக்க)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "風邪ですから、学校を 休みます。", "reading": "かぜですから、がっこうを やすみます。", "romaji": "kaze desu kara, gakkou o yasumimasu.", "ta": "சளி பிடித்திருப்பதால் பள்ளிக்கு விடுப்பு எடுக்கிறேன்.", "en": "I have a cold, so I am taking the day off school." }
+    ]
+  },
+  {
+    "id": "n5-v-713",
+    "expression": "忘れる",
+    "reading": "わすれる",
+    "romaji": "wasureru",
+    "en": "to forget",
+    "ta": "மறக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "薬を 忘れないでください。", "reading": "くすりを わすれないでください。", "romaji": "kusuri o wasurenaide kudasai.", "ta": "மருந்தை மறக்காதீர்கள்.", "en": "Please do not forget your medicine." }
+    ]
+  }
+]

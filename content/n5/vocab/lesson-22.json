@@ -1,0 +1,386 @@
+[
+  {
+    "id": "n5-v-003",
+    "expression": "青",
+    "reading": "あお",
+    "romaji": "ao",
+    "en": "blue",
+    "ta": "நீலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は 青が 一番 好きです。", "reading": "わたしは あおが いちばん すきです。", "romaji": "watashi wa ao ga ichiban suki desu.", "ta": "எனக்கு நீலம் தான் மிகவும் பிடிக்கும்.", "en": "I like blue the best." }
+    ]
+  },
+  {
+    "id": "n5-v-005",
+    "expression": "赤",
+    "reading": "あか",
+    "romaji": "aka",
+    "en": "red",
+    "ta": "சிவப்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "赤の スカートを 買いました。", "reading": "あかの スカートを かいました。", "romaji": "aka no sukaato o kaimashita.", "ta": "சிவப்பு நிறப் பாவாடை வாங்கினேன்.", "en": "I bought a red skirt." }
+    ]
+  },
+  {
+    "id": "n5-v-074",
+    "expression": "色",
+    "reading": "いろ",
+    "romaji": "iro",
+    "en": "colour",
+    "ta": "நிறம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "どんな 色の 服が 好きですか。", "reading": "どんな いろの ふくが すきですか。", "romaji": "donna iro no fuku ga suki desu ka.", "ta": "எந்த நிற உடைகள் உங்களுக்குப் பிடிக்கும்?", "en": "What colour clothes do you like?" }
+    ]
+  },
+  {
+    "id": "n5-v-086",
+    "expression": "上着",
+    "reading": "うわぎ",
+    "romaji": "uwagi",
+    "en": "jacket",
+    "ta": "மேலங்கி (ஜாக்கெட்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "寒いので、上着を 着てください。", "reading": "さむいので、うわぎを きて ください。", "romaji": "samui node, uwagi o kite kudasai.", "ta": "குளிராக இருப்பதால் மேலங்கி அணியுங்கள்.", "en": "Since it is cold, please put on a jacket." }
+    ]
+  },
+  {
+    "id": "n5-v-100",
+    "expression": "大きな",
+    "reading": "おおきな",
+    "romaji": "ookina",
+    "en": "big",
+    "ta": "பெரிய",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "駅の 前に 大きな デパートが あります。", "reading": "えきの まえに おおきな デパートが あります。", "romaji": "eki no mae ni ookina depaato ga arimasu.", "ta": "ரயில் நிலையத்தின் முன்னால் ஒரு பெரிய டிபார்ட்மெண்ட் ஸ்டோர் இருக்கிறது.", "en": "There is a big department store in front of the station." }
+    ]
+  },
+  {
+    "id": "n5-v-158",
+    "expression": "掛ける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "en": "to put on (glasses); to hang",
+    "ta": "அணிய (கண்ணாடி); தொங்கவிட",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "眼鏡を 掛けている 人は 私の 父です。", "reading": "めがねを かけている ひとは わたしの ちちです。", "romaji": "megane o kakete iru hito wa watashi no chichi desu.", "ta": "கண்ணாடி அணிந்திருப்பவர் என் அப்பா.", "en": "The person wearing glasses is my father." }
+    ]
+  },
+  {
+    "id": "n5-v-174",
+    "expression": "かぶる",
+    "reading": "かぶる",
+    "romaji": "kaburu",
+    "en": "to put on (a hat)",
+    "ta": "அணிய (தொப்பி)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "暑いので、帽子を かぶります。", "reading": "あついので、ぼうしを かぶります。", "romaji": "atsui node, boushi o kaburimasu.", "ta": "வெயிலாக இருப்பதால் தொப்பி அணிகிறேன்.", "en": "Since it is hot, I will wear a hat." }
+    ]
+  },
+  {
+    "id": "n5-v-190",
+    "expression": "黄色",
+    "reading": "きいろ",
+    "romaji": "kiiro",
+    "en": "yellow",
+    "ta": "மஞ்சள் நிறம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "黄色の ハンカチは 誰のですか。", "reading": "きいろの ハンカチは だれのですか。", "romaji": "kiiro no hankachi wa dare no desu ka.", "ta": "மஞ்சள் கைக்குட்டை யாருடையது?", "en": "Whose is the yellow handkerchief?" }
+    ]
+  },
+  {
+    "id": "n5-v-210",
+    "expression": "着る",
+    "reading": "きる",
+    "romaji": "kiru",
+    "en": "to wear (upper body)",
+    "ta": "அணிய (மேல் உடை)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "今日は 白い シャツを 着ています。", "reading": "きょうは しろい シャツを きています。", "romaji": "kyou wa shiroi shatsu o kite imasu.", "ta": "இன்று வெள்ளைச் சட்டை அணிந்திருக்கிறேன்.", "en": "Today I am wearing a white shirt." }
+    ]
+  },
+  {
+    "id": "n5-v-221",
+    "expression": "靴",
+    "reading": "くつ",
+    "romaji": "kutsu",
+    "en": "shoes",
+    "ta": "காலணி (ஷூ)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "家に 入る 前に 靴を 脱ぎます。", "reading": "いえに はいる まえに くつを ぬぎます。", "romaji": "ie ni hairu mae ni kutsu o nugimasu.", "ta": "வீட்டுக்குள் நுழையும் முன் காலணியைக் கழற்றுகிறோம்.", "en": "We take off our shoes before entering the house." }
+    ]
+  },
+  {
+    "id": "n5-v-222",
+    "expression": "靴下",
+    "reading": "くつした",
+    "romaji": "kutsushita",
+    "en": "socks",
+    "ta": "காலுறை (சாக்ஸ்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日 黒い 靴下を 買いました。", "reading": "きのう くろい くつしたを かいました。", "romaji": "kinou kuroi kutsushita o kaimashita.", "ta": "நேற்று கருப்புக் காலுறை வாங்கினேன்.", "en": "I bought black socks yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-232",
+    "expression": "黒",
+    "reading": "くろ",
+    "romaji": "kuro",
+    "en": "black",
+    "ta": "கருப்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "黒の 背広を 着ている 人が 先生です。", "reading": "くろの せびろを きている ひとが せんせいです。", "romaji": "kuro no sebiro o kite iru hito ga sensei desu.", "ta": "கருப்புச் சூட் அணிந்திருப்பவர்தான் ஆசிரியர்.", "en": "The person wearing the black suit is the teacher." }
+    ]
+  },
+  {
+    "id": "n5-v-250",
+    "expression": "コート",
+    "reading": "コート",
+    "romaji": "kooto",
+    "en": "coat",
+    "ta": "கோட்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "冬に 着る コートが 欲しいです。", "reading": "ふゆに きる コートが ほしいです。", "romaji": "fuyu ni kiru kooto ga hoshii desu.", "ta": "குளிர்காலத்தில் அணியும் கோட் வேண்டும்.", "en": "I want a coat to wear in winter." }
+    ]
+  },
+  {
+    "id": "n5-v-312",
+    "expression": "シャツ",
+    "reading": "シャツ",
+    "romaji": "shatsu",
+    "en": "shirt",
+    "ta": "சட்டை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この シャツは 少し 小さいです。", "reading": "この シャツは すこし ちいさいです。", "romaji": "kono shatsu wa sukoshi chiisai desu.", "ta": "இந்தச் சட்டை கொஞ்சம் சிறியது.", "en": "This shirt is a little small." }
+    ]
+  },
+  {
+    "id": "n5-v-324",
+    "expression": "白",
+    "reading": "しろ",
+    "romaji": "shiro",
+    "en": "white",
+    "ta": "வெள்ளை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "白と 黒と どちらが いいですか。", "reading": "しろと くろと どちらが いいですか。", "romaji": "shiro to kuro to dochira ga ii desu ka.", "ta": "வெள்ளையா கருப்பா, எது நல்லது?", "en": "Which is better, white or black?" }
+    ]
+  },
+  {
+    "id": "n5-v-330",
+    "expression": "スカート",
+    "reading": "スカート",
+    "romaji": "sukaato",
+    "en": "skirt",
+    "ta": "பாவாடை (ஸ்கர்ட்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "姉は 長い スカートを はいています。", "reading": "あねは ながい スカートを はいています。", "romaji": "ane wa nagai sukaato o haite imasu.", "ta": "அக்கா நீளமான பாவாடை அணிந்திருக்கிறார்.", "en": "My older sister is wearing a long skirt." }
+    ]
+  },
+  {
+    "id": "n5-v-341",
+    "expression": "ズボン",
+    "reading": "ズボン",
+    "romaji": "zubon",
+    "en": "trousers",
+    "ta": "கால்சட்டை (பேண்ட்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この ズボンは 少し 長いですね。", "reading": "この ズボンは すこし ながいですね。", "romaji": "kono zubon wa sukoshi nagai desu ne.", "ta": "இந்தக் கால்சட்டை கொஞ்சம் நீளமாக இருக்கிறது, இல்லையா?", "en": "These trousers are a little long, aren't they?" }
+    ]
+  },
+  {
+    "id": "n5-v-347",
+    "expression": "セーター",
+    "reading": "セーター",
+    "romaji": "seetaa",
+    "en": "sweater",
+    "ta": "ஸ்வெட்டர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "母が 作った セーターを 着ています。", "reading": "ははが つくった セーターを きています。", "romaji": "haha ga tsukutta seetaa o kite imasu.", "ta": "அம்மா பின்னிய ஸ்வெட்டரை அணிந்திருக்கிறேன்.", "en": "I am wearing the sweater my mother made." }
+    ]
+  },
+  {
+    "id": "n5-v-349",
+    "expression": "背広",
+    "reading": "せびろ",
+    "romaji": "sebiro",
+    "en": "men's suit",
+    "ta": "சூட் (ஆண்கள்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 毎日 背広を 着て 会社へ 行きます。", "reading": "ちちは まいにち せびろを きて かいしゃへ いきます。", "romaji": "chichi wa mainichi sebiro o kite kaisha e ikimasu.", "ta": "அப்பா தினமும் சூட் அணிந்து அலுவலகம் போகிறார்.", "en": "My father wears a suit to the office every day." }
+    ]
+  },
+  {
+    "id": "n5-v-350",
+    "expression": "狭い",
+    "reading": "せまい",
+    "romaji": "semai",
+    "en": "narrow; cramped",
+    "ta": "குறுகலான (இடம் குறைவான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "私の 部屋は 狭いですが、明るいです。", "reading": "わたしの へやは せまいですが、あかるいです。", "romaji": "watashi no heya wa semai desu ga, akarui desu.", "ta": "என் அறை குறுகலானது, ஆனால் வெளிச்சமானது.", "en": "My room is small, but it is bright." }
+    ]
+  },
+  {
+    "id": "n5-v-386",
+    "expression": "たて",
+    "reading": "たて",
+    "romaji": "tate",
+    "en": "length; vertical",
+    "ta": "நீளம் (செங்குத்து)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 紙は たてが 少し 長いです。", "reading": "この かみは たてが すこし ながいです。", "romaji": "kono kami wa tate ga sukoshi nagai desu.", "ta": "இந்தத் தாளின் நீளம் கொஞ்சம் அதிகம்.", "en": "This paper is a little long lengthwise." }
+    ]
+  },
+  {
+    "id": "n5-v-400",
+    "expression": "小さな",
+    "reading": "ちいさな",
+    "romaji": "chiisana",
+    "en": "small",
+    "ta": "சிறிய",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "ポケットに 小さな 時計が あります。", "reading": "ポケットに ちいさな とけいが あります。", "romaji": "poketto ni chiisana tokei ga arimasu.", "ta": "பாக்கெட்டில் ஒரு சிறிய கடிகாரம் இருக்கிறது.", "en": "There is a small watch in the pocket." }
+    ]
+  },
+  {
+    "id": "n5-v-508",
+    "expression": "ネクタイ",
+    "reading": "ネクタイ",
+    "romaji": "nekutai",
+    "en": "necktie",
+    "ta": "டை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父の 誕生日に ネクタイを あげました。", "reading": "ちちの たんじょうびに ネクタイを あげました。", "romaji": "chichi no tanjoubi ni nekutai o agemashita.", "ta": "அப்பாவின் பிறந்தநாளுக்கு டை கொடுத்தேன்.", "en": "I gave my father a tie for his birthday." }
+    ]
+  },
+  {
+    "id": "n5-v-524",
+    "expression": "はく",
+    "reading": "はく",
+    "romaji": "haku",
+    "en": "to wear (lower body)",
+    "ta": "அணிய (கீழ் உடை, காலணி)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "新しい 靴を はいて 出かけました。", "reading": "あたらしい くつを はいて でかけました。", "romaji": "atarashii kutsu o haite dekakemashita.", "ta": "புதிய காலணி அணிந்து வெளியே போனேன்.", "en": "I went out wearing new shoes." }
+    ]
+  },
+  {
+    "id": "n5-v-553",
+    "expression": "ハンカチ",
+    "reading": "ハンカチ",
+    "romaji": "hankachi",
+    "en": "handkerchief",
+    "ta": "கைக்குட்டை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ハンカチは ポケットの 中に あります。", "reading": "ハンカチは ポケットの なかに あります。", "romaji": "hankachi wa poketto no naka ni arimasu.", "ta": "கைக்குட்டை பாக்கெட்டுக்குள் இருக்கிறது.", "en": "The handkerchief is in the pocket." }
+    ]
+  },
+  {
+    "id": "n5-v-575",
+    "expression": "広い",
+    "reading": "ひろい",
+    "romaji": "hiroi",
+    "en": "spacious; wide",
+    "ta": "விசாலமான (அகலமான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "広くて 静かな 部屋が いいです。", "reading": "ひろくて しずかな へやが いいです。", "romaji": "hirokute shizuka na heya ga ii desu.", "ta": "விசாலமான, அமைதியான அறை நல்லது.", "en": "A spacious, quiet room is good." }
+    ]
+  },
+  {
+    "id": "n5-v-581",
+    "expression": "服",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "en": "clothes",
+    "ta": "உடை (துணி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "デパートで 服を 買う 時間が ありません。", "reading": "デパートで ふくを かう じかんが ありません。", "romaji": "depaato de fuku o kau jikan ga arimasen.", "ta": "டிபார்ட்மெண்ட் ஸ்டோரில் உடை வாங்க நேரம் இல்லை.", "en": "I have no time to buy clothes at the department store." }
+    ]
+  },
+  {
+    "id": "n5-v-601",
+    "expression": "帽子",
+    "reading": "ぼうし",
+    "romaji": "boushi",
+    "en": "hat; cap",
+    "ta": "தொப்பி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "赤い 帽子を かぶっている 女の子は 妹です。", "reading": "あかい ぼうしを かぶっている おんなのこは いもうとです。", "romaji": "akai boushi o kabutte iru onna no ko wa imouto desu.", "ta": "சிவப்புத் தொப்பி அணிந்திருக்கும் பெண் குழந்தை என் தங்கை.", "en": "The girl wearing the red hat is my younger sister." }
+    ]
+  },
+  {
+    "id": "n5-v-604",
+    "expression": "ポケット",
+    "reading": "ポケット",
+    "romaji": "poketto",
+    "en": "pocket",
+    "ta": "பாக்கெட் (சட்டைப் பை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "鍵を 上着の ポケットに 入れました。", "reading": "かぎを うわぎの ポケットに いれました。", "romaji": "kagi o uwagi no poketto ni iremashita.", "ta": "சாவியை மேலங்கியின் பாக்கெட்டில் போட்டேன்.", "en": "I put the key in my jacket pocket." }
+    ]
+  },
+  {
+    "id": "n5-v-657",
+    "expression": "眼鏡",
+    "reading": "めがね",
+    "romaji": "megane",
+    "en": "glasses",
+    "ta": "மூக்குக் கண்ணாடி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "本を 読む 時間は 眼鏡を 掛けます。", "reading": "ほんを よむ じかんは めがねを かけます。", "romaji": "hon o yomu jikan wa megane o kakemasu.", "ta": "புத்தகம் படிக்கும் நேரத்தில் கண்ணாடி அணிகிறேன்.", "en": "I wear glasses when it is time to read books." }
+    ]
+  },
+  {
+    "id": "n5-v-684",
+    "expression": "洋服",
+    "reading": "ようふく",
+    "romaji": "youfuku",
+    "en": "Western clothes",
+    "ta": "மேற்கத்திய உடை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 店は 安い 洋服を 売っています。", "reading": "あの みせは やすい ようふくを うっています。", "romaji": "ano mise wa yasui youfuku o utte imasu.", "ta": "அந்தக் கடை மலிவான மேற்கத்திய உடைகளை விற்கிறது.", "en": "That shop sells cheap Western clothes." }
+    ]
+  },
+  {
+    "id": "n5-v-710",
+    "expression": "ワイシャツ",
+    "reading": "ワイシャツ",
+    "romaji": "waishatsu",
+    "en": "business shirt",
+    "ta": "அலுவலகச் சட்டை (வெள்ளைச் சட்டை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ワイシャツを 二枚 買いたいです。", "reading": "ワイシャツを にまい かいたいです。", "romaji": "waishatsu o nimai kaitai desu.", "ta": "இரண்டு அலுவலகச் சட்டைகள் வாங்க விரும்புகிறேன்.", "en": "I want to buy two business shirts." }
+    ]
+  }
+]

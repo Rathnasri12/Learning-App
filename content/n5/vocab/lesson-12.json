@@ -1,0 +1,386 @@
+[
+  {
+    "id": "n5-v-008",
+    "expression": "秋",
+    "reading": "あき",
+    "romaji": "aki",
+    "en": "autumn",
+    "ta": "இலையுதிர் காலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本の秋は涼しいです。", "reading": "にほんの あきは すずしいです。", "romaji": "nihon no aki wa suzushii desu.", "ta": "ஜப்பானின் இலையுதிர் காலம் குளிர்ச்சியாக இருக்கும்.", "en": "Autumn in Japan is cool." }
+    ]
+  },
+  {
+    "id": "n5-v-019",
+    "expression": "暖かい",
+    "reading": "あたたかい",
+    "romaji": "atatakai",
+    "en": "warm",
+    "ta": "இதமான வெப்பமுள்ள",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "今日は暖かいですね。", "reading": "きょうは あたたかいですね。", "romaji": "kyou wa atatakai desu ne.", "ta": "இன்று இதமான வெப்பமாக இருக்கிறது அல்லவா?", "en": "It is warm today, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-025",
+    "expression": "厚い",
+    "reading": "あつい",
+    "romaji": "atsui",
+    "en": "thick",
+    "ta": "தடிமனான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この字引はとても厚いです。", "reading": "この じびきは とても あついです。", "romaji": "kono jibiki wa totemo atsui desu.", "ta": "இந்த அகராதி மிகவும் தடிமனானது.", "en": "This dictionary is very thick." }
+    ]
+  },
+  {
+    "id": "n5-v-035",
+    "expression": "甘い",
+    "reading": "あまい",
+    "romaji": "amai",
+    "en": "sweet",
+    "ta": "இனிப்பான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "このお菓子はとても甘いです。", "reading": "この おかしは とても あまいです。", "romaji": "kono okashi wa totemo amai desu.", "ta": "இந்த இனிப்பு மிகவும் இனிப்பாக இருக்கிறது.", "en": "This sweet is very sweet." }
+    ]
+  },
+  {
+    "id": "n5-v-037",
+    "expression": "雨",
+    "reading": "あめ",
+    "romaji": "ame",
+    "en": "rain",
+    "ta": "மழை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日は雨でした。", "reading": "きのうは あめでした。", "romaji": "kinou wa ame deshita.", "ta": "நேற்று மழை பெய்தது.", "en": "It rained yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-059",
+    "expression": "一番",
+    "reading": "いちばん",
+    "romaji": "ichiban",
+    "en": "most, number one",
+    "ta": "மிகவும், முதல் (எல்லாவற்றிலும்)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "飲み物の中でお茶が一番好きです。", "reading": "のみものの なかで おちゃが いちばん すきです。", "romaji": "nomimono no naka de ocha ga ichiban suki desu.", "ta": "பானங்களில் டீ தான் எனக்கு மிகவும் பிடிக்கும்.", "en": "Among drinks, I like tea the most." }
+    ]
+  },
+  {
+    "id": "n5-v-078",
+    "expression": "薄い",
+    "reading": "うすい",
+    "romaji": "usui",
+    "en": "thin",
+    "ta": "மெல்லிய",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "このノートは薄いです。", "reading": "この ノートは うすいです。", "romaji": "kono nooto wa usui desu.", "ta": "இந்த நோட்டு மெல்லியது.", "en": "This notebook is thin." }
+    ]
+  },
+  {
+    "id": "n5-v-114",
+    "expression": "遅い",
+    "reading": "おそい",
+    "romaji": "osoi",
+    "en": "slow, late",
+    "ta": "மெதுவான, தாமதமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "バスは電車より遅いです。", "reading": "バスは でんしゃより おそいです。", "romaji": "basu wa densha yori osoi desu.", "ta": "பஸ் ரயிலை விட மெதுவானது.", "en": "The bus is slower than the train." }
+    ]
+  },
+  {
+    "id": "n5-v-134",
+    "expression": "重い",
+    "reading": "おもい",
+    "romaji": "omoi",
+    "en": "heavy",
+    "ta": "கனமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "このかばんは重いですね。", "reading": "この かばんは おもいですね。", "romaji": "kono kaban wa omoi desu ne.", "ta": "இந்தப் பை கனமாக இருக்கிறது அல்லவா?", "en": "This bag is heavy, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-162",
+    "expression": "風",
+    "reading": "かぜ",
+    "romaji": "kaze",
+    "en": "wind",
+    "ta": "காற்று",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日は風がとても冷たいです。", "reading": "きょうは かぜが とても つめたいです。", "romaji": "kyou wa kaze ga totemo tsumetai desu.", "ta": "இன்று காற்று மிகவும் குளிராக இருக்கிறது.", "en": "The wind is very cold today." }
+    ]
+  },
+  {
+    "id": "n5-v-178",
+    "expression": "辛い",
+    "reading": "からい",
+    "romaji": "karai",
+    "en": "spicy",
+    "ta": "காரமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "インドの料理は辛いです。", "reading": "インドの りょうりは からいです。", "romaji": "indo no ryouri wa karai desu.", "ta": "இந்திய உணவு காரமானது.", "en": "Indian food is spicy." }
+    ]
+  },
+  {
+    "id": "n5-v-182",
+    "expression": "軽い",
+    "reading": "かるい",
+    "romaji": "karui",
+    "en": "light (weight)",
+    "ta": "இலேசான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この傘はとても軽いです。", "reading": "この かさは とても かるいです。", "romaji": "kono kasa wa totemo karui desu.", "ta": "இந்தக் குடை மிகவும் இலேசானது.", "en": "This umbrella is very light." }
+    ]
+  },
+  {
+    "id": "n5-v-191",
+    "expression": "黄色い",
+    "reading": "きいろい",
+    "romaji": "kiiroi",
+    "en": "yellow",
+    "ta": "மஞ்சள் நிற",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "私は黄色い花が好きです。", "reading": "わたしは きいろい はなが すきです。", "romaji": "watashi wa kiiroi hana ga suki desu.", "ta": "எனக்கு மஞ்சள் பூக்கள் பிடிக்கும்.", "en": "I like yellow flowers." }
+    ]
+  },
+  {
+    "id": "n5-v-224",
+    "expression": "曇り",
+    "reading": "くもり",
+    "romaji": "kumori",
+    "en": "cloudy weather",
+    "ta": "மேகமூட்டம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日は曇りです。", "reading": "きょうは くもりです。", "romaji": "kyou wa kumori desu.", "ta": "இன்று மேகமூட்டமாக இருக்கிறது.", "en": "It is cloudy today." }
+    ]
+  },
+  {
+    "id": "n5-v-333",
+    "expression": "少ない",
+    "reading": "すくない",
+    "romaji": "sukunai",
+    "en": "few, little",
+    "ta": "குறைவான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この町は人が少ないです。", "reading": "この まちは ひとが すくないです。", "romaji": "kono machi wa hito ga sukunai desu.", "ta": "இந்த ஊரில் மக்கள் குறைவு.", "en": "There are few people in this town." }
+    ]
+  },
+  {
+    "id": "n5-v-336",
+    "expression": "涼しい",
+    "reading": "すずしい",
+    "romaji": "suzushii",
+    "en": "cool (weather)",
+    "ta": "குளிர்ச்சியான (இதமான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "朝は涼しいですね。", "reading": "あさは すずしいですね。", "romaji": "asa wa suzushii desu ne.", "ta": "காலை குளிர்ச்சியாக இருக்கிறது அல்லவா?", "en": "The morning is cool, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-401",
+    "expression": "近い",
+    "reading": "ちかい",
+    "romaji": "chikai",
+    "en": "near",
+    "ta": "அருகிலுள்ள, பக்கத்து",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "駅は家から近いです。", "reading": "えきは いえから ちかいです。", "romaji": "eki wa ie kara chikai desu.", "ta": "ஸ்டேஷன் வீட்டிலிருந்து அருகில் இருக்கிறது.", "en": "The station is near my house." }
+    ]
+  },
+  {
+    "id": "n5-v-422",
+    "expression": "冷たい",
+    "reading": "つめたい",
+    "romaji": "tsumetai",
+    "en": "cold (to touch)",
+    "ta": "குளிர்ந்த (பொருள், பானம்)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "冷たい水を飲みました。", "reading": "つめたい みずを のみました。", "romaji": "tsumetai mizu o nomimashita.", "ta": "குளிர்ந்த தண்ணீர் குடித்தேன்.", "en": "I drank cold water." }
+    ]
+  },
+  {
+    "id": "n5-v-452",
+    "expression": "遠い",
+    "reading": "とおい",
+    "romaji": "tooi",
+    "en": "far",
+    "ta": "தூரமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "病院はここから遠いですか。", "reading": "びょういんは ここから とおいですか。", "romaji": "byouin wa koko kara tooi desu ka.", "ta": "மருத்துவமனை இங்கிருந்து தூரமா?", "en": "Is the hospital far from here?" }
+    ]
+  },
+  {
+    "id": "n5-v-484",
+    "expression": "夏",
+    "reading": "なつ",
+    "romaji": "natsu",
+    "en": "summer",
+    "ta": "கோடை காலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "チェンナイの夏はとても暑いです。", "reading": "チェンナイの なつは とても あついです。", "romaji": "chennai no natsu wa totemo atsui desu.", "ta": "சென்னையின் கோடை மிகவும் வெப்பமானது.", "en": "Summer in Chennai is very hot." }
+    ]
+  },
+  {
+    "id": "n5-v-507",
+    "expression": "温い",
+    "reading": "ぬるい",
+    "romaji": "nurui",
+    "en": "lukewarm",
+    "ta": "இளஞ்சூடான, ஆறிப்போன",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "このお茶は温いです。", "reading": "この おちゃは ぬるいです。", "romaji": "kono ocha wa nurui desu.", "ta": "இந்த டீ ஆறிப்போய் இளஞ்சூடாக இருக்கிறது.", "en": "This tea is lukewarm." }
+    ]
+  },
+  {
+    "id": "n5-v-544",
+    "expression": "速い",
+    "reading": "はやい",
+    "romaji": "hayai",
+    "en": "fast",
+    "ta": "வேகமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "飛行機は電車より速いです。", "reading": "ひこうきは でんしゃより はやいです。", "romaji": "hikouki wa densha yori hayai desu.", "ta": "விமானம் ரயிலை விட வேகமானது.", "en": "A plane is faster than a train." }
+    ]
+  },
+  {
+    "id": "n5-v-545",
+    "expression": "春",
+    "reading": "はる",
+    "romaji": "haru",
+    "en": "spring",
+    "ta": "வசந்த காலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "春は暖かいです。", "reading": "はるは あたたかいです。", "romaji": "haru wa atatakai desu.", "ta": "வசந்த காலம் இதமாக இருக்கும்.", "en": "Spring is warm." }
+    ]
+  },
+  {
+    "id": "n5-v-547",
+    "expression": "晴れ",
+    "reading": "はれ",
+    "romaji": "hare",
+    "en": "clear weather",
+    "ta": "தெளிந்த வானம் (வெயில்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明日は晴れですか。", "reading": "あしたは はれですか。", "romaji": "ashita wa hare desu ka.", "ta": "நாளை வானம் தெளிவாக இருக்குமா?", "en": "Will it be clear tomorrow?" }
+    ]
+  },
+  {
+    "id": "n5-v-586",
+    "expression": "太い",
+    "reading": "ふとい",
+    "romaji": "futoi",
+    "en": "thick, fat",
+    "ta": "தடித்த, பருமனான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この鉛筆は太いです。", "reading": "この えんぴつは ふといです。", "romaji": "kono enpitsu wa futoi desu.", "ta": "இந்தப் பென்சில் தடித்தது.", "en": "This pencil is thick." }
+    ]
+  },
+  {
+    "id": "n5-v-587",
+    "expression": "冬",
+    "reading": "ふゆ",
+    "romaji": "fuyu",
+    "en": "winter",
+    "ta": "குளிர் காலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本の冬は寒かったです。", "reading": "にほんの ふゆは さむかったです。", "romaji": "nihon no fuyu wa samukatta desu.", "ta": "ஜப்பானின் குளிர்காலம் கடுங்குளிராக இருந்தது.", "en": "Winter in Japan was cold." }
+    ]
+  },
+  {
+    "id": "n5-v-624",
+    "expression": "まずい",
+    "reading": "まずい",
+    "romaji": "mazui",
+    "en": "bad-tasting",
+    "ta": "சுவையற்ற, ருசியில்லாத",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この店の料理はまずいです。", "reading": "この みせの りょうりは まずいです。", "romaji": "kono mise no ryouri wa mazui desu.", "ta": "இந்தக் கடையின் உணவு சுவையில்லை.", "en": "The food at this shop tastes bad." }
+    ]
+  },
+  {
+    "id": "n5-v-632",
+    "expression": "丸い; 円い",
+    "reading": "まるい",
+    "romaji": "marui",
+    "en": "round",
+    "ta": "வட்டமான, உருண்டையான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "台所に丸いテーブルがあります。", "reading": "だいどころに まるい テーブルが あります。", "romaji": "daidokoro ni marui teeburu ga arimasu.", "ta": "சமையலறையில் வட்டமான மேசை இருக்கிறது.", "en": "There is a round table in the kitchen." }
+    ]
+  },
+  {
+    "id": "n5-v-652",
+    "expression": "難しい",
+    "reading": "むずかしい",
+    "romaji": "muzukashii",
+    "en": "difficult",
+    "ta": "கடினமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "日本語の宿題は難しかったです。", "reading": "にほんごの しゅくだいは むずかしかったです。", "romaji": "nihongo no shukudai wa muzukashikatta desu.", "ta": "ஜப்பானிய மொழி வீட்டுப்பாடம் கடினமாக இருந்தது.", "en": "The Japanese homework was difficult." }
+    ]
+  },
+  {
+    "id": "n5-v-669",
+    "expression": "易しい",
+    "reading": "やさしい",
+    "romaji": "yasashii",
+    "en": "easy",
+    "ta": "எளிதான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この本は易しいです。", "reading": "この ほんは やさしいです。", "romaji": "kono hon wa yasashii desu.", "ta": "இந்தப் புத்தகம் எளிதானது.", "en": "This book is easy." }
+    ]
+  },
+  {
+    "id": "n5-v-671",
+    "expression": "休み",
+    "reading": "やすみ",
+    "romaji": "yasumi",
+    "en": "holiday, day off",
+    "ta": "விடுமுறை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明日は休みです。", "reading": "あしたは やすみです。", "romaji": "ashita wa yasumi desu.", "ta": "நாளை விடுமுறை.", "en": "Tomorrow is a holiday." }
+    ]
+  },
+  {
+    "id": "n5-v-681",
+    "expression": "雪",
+    "reading": "ゆき",
+    "romaji": "yuki",
+    "en": "snow",
+    "ta": "பனி (ஸ்நோ)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日は雪でした。", "reading": "きのうは ゆきでした。", "romaji": "kinou wa yuki deshita.", "ta": "நேற்று பனிப்பொழிவு இருந்தது.", "en": "It snowed yesterday." }
+    ]
+  }
+]

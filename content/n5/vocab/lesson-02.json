@@ -1,0 +1,338 @@
+[
+  {
+    "id": "n5-v-032",
+    "expression": "あの",
+    "reading": "あの",
+    "romaji": "ano",
+    "en": "that (over there)",
+    "ta": "அந்த (தூரத்தில் உள்ள)",
+    "pos": "prefix",
+    "examples": [
+      { "ja": "あの人は 田中さんです。", "reading": "あのひとは たなかさんです。", "romaji": "ano hito wa tanaka-san desu.", "ta": "அதோ அந்த நபர் தனாகா-சான்.", "en": "That person over there is Mr Tanaka." }
+    ]
+  },
+  {
+    "id": "n5-v-043",
+    "expression": "あれ",
+    "reading": "あれ",
+    "romaji": "are",
+    "en": "that one over there",
+    "ta": "அதோ அது",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "あれは 私の かばんです。", "reading": "あれは わたしの かばんです。", "romaji": "are wa watashi no kaban desu.", "ta": "அதோ அது என் பை.", "en": "That over there is my bag." }
+    ]
+  },
+  {
+    "id": "n5-v-090",
+    "expression": "英語",
+    "reading": "えいご",
+    "romaji": "eigo",
+    "en": "English language",
+    "ta": "ஆங்கிலம் (மொழி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 英語の 本ですか。", "reading": "これは えいごの ほんですか。", "romaji": "kore wa eigo no hon desu ka.", "ta": "இது ஆங்கிலப் புத்தகமா?", "en": "Is this an English book?" }
+    ]
+  },
+  {
+    "id": "n5-v-095",
+    "expression": "鉛筆",
+    "reading": "えんぴつ",
+    "romaji": "enpitsu",
+    "en": "pencil",
+    "ta": "பென்சில்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "それは 鉛筆じゃありません。ペンです。", "reading": "それは えんぴつじゃありません。ペンです。", "romaji": "sore wa enpitsu ja arimasen. pen desu.", "ta": "அது பென்சில் இல்லை. பேனா.", "en": "That is not a pencil. It is a pen." }
+    ]
+  },
+  {
+    "id": "n5-v-096",
+    "expression": "お～",
+    "reading": "お～",
+    "romaji": "o～",
+    "en": "honorific prefix",
+    "ta": "மரியாதை முன்னொட்டு (お名前 = உங்கள் பெயர்)",
+    "pos": "prefix",
+    "examples": [
+      { "ja": "お名前は 何ですか。", "reading": "おなまえは なんですか。", "romaji": "onamae wa nan desu ka.", "ta": "உங்கள் பெயர் என்ன?", "en": "What is your name?" }
+    ]
+  },
+  {
+    "id": "n5-v-154",
+    "expression": "鍵",
+    "reading": "かぎ",
+    "romaji": "kagi",
+    "en": "key",
+    "ta": "சாவி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 教室の 鍵です。", "reading": "これは きょうしつの かぎです。", "romaji": "kore wa kyoushitsu no kagi desu.", "ta": "இது வகுப்பறையின் சாவி.", "en": "This is the classroom key." }
+    ]
+  },
+  {
+    "id": "n5-v-160",
+    "expression": "傘",
+    "reading": "かさ",
+    "romaji": "kasa",
+    "en": "umbrella",
+    "ta": "குடை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "その傘は 誰のですか。", "reading": "そのかさは だれのですか。", "romaji": "sono kasa wa dare no desu ka.", "ta": "அந்தக் குடை யாருடையது?", "en": "Whose umbrella is that?" }
+    ]
+  },
+  {
+    "id": "n5-v-166",
+    "expression": "片仮名",
+    "reading": "かたかな",
+    "romaji": "katakana",
+    "en": "katakana",
+    "ta": "கடகானா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "「カメラ」は 片仮名です。", "reading": "「カメラ」は かたかなです。", "romaji": "\"kamera\" wa katakana desu.", "ta": "「カメラ」 என்பது கடகானா.", "en": "\"Kamera\" is written in katakana." }
+    ]
+  },
+  {
+    "id": "n5-v-172",
+    "expression": "かばん",
+    "reading": "かばん",
+    "romaji": "kaban",
+    "en": "bag",
+    "ta": "பை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "このかばんは 私のじゃありません。", "reading": "このかばんは わたしのじゃありません。", "romaji": "kono kaban wa watashi no ja arimasen.", "ta": "இந்தப் பை என்னுடையது இல்லை.", "en": "This bag is not mine." }
+    ]
+  },
+  {
+    "id": "n5-v-176",
+    "expression": "カメラ",
+    "reading": "カメラ",
+    "romaji": "kamera",
+    "en": "camera",
+    "ta": "கேமரா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あれは 田中さんの カメラです。", "reading": "あれは たなかさんの カメラです。", "romaji": "are wa tanaka-san no kamera desu.", "ta": "அதோ அது தனாகா-சானின் கேமரா.", "en": "That over there is Mr Tanaka's camera." }
+    ]
+  },
+  {
+    "id": "n5-v-244",
+    "expression": "～語",
+    "reading": "～ご",
+    "romaji": "～go",
+    "en": "language",
+    "ta": "～ மொழி",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "これは タミル語の 本です。", "reading": "これは タミルごの ほんです。", "romaji": "kore wa tamirugo no hon desu.", "ta": "இது தமிழ்ப் புத்தகம்.", "en": "This is a Tamil book." }
+    ]
+  },
+  {
+    "id": "n5-v-264",
+    "expression": "この",
+    "reading": "この",
+    "romaji": "kono",
+    "en": "this",
+    "ta": "இந்த",
+    "pos": "prefix",
+    "examples": [
+      { "ja": "この本は 私のです。", "reading": "このほんは わたしのです。", "romaji": "kono hon wa watashi no desu.", "ta": "இந்தப் புத்தகம் என்னுடையது.", "en": "This book is mine." }
+    ]
+  },
+  {
+    "id": "n5-v-268",
+    "expression": "これ",
+    "reading": "これ",
+    "romaji": "kore",
+    "en": "this one",
+    "ta": "இது",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "これは 何ですか。", "reading": "これは なんですか。", "romaji": "kore wa nan desu ka.", "ta": "இது என்ன?", "en": "What is this?" }
+    ]
+  },
+  {
+    "id": "n5-v-276",
+    "expression": "財布",
+    "reading": "さいふ",
+    "romaji": "saifu",
+    "en": "wallet",
+    "ta": "பணப்பை (பர்ஸ்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 誰の 財布ですか。", "reading": "これは だれの さいふですか。", "romaji": "kore wa dare no saifu desu ka.", "ta": "இது யாருடைய பணப்பை?", "en": "Whose wallet is this?" }
+    ]
+  },
+  {
+    "id": "n5-v-305",
+    "expression": "字引",
+    "reading": "じびき",
+    "romaji": "jibiki",
+    "en": "dictionary",
+    "ta": "அகராதி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "それは 英語の 字引ですか、日本語の 字引ですか。", "reading": "それは えいごの じびきですか、にほんごの じびきですか。", "romaji": "sore wa eigo no jibiki desu ka, nihongo no jibiki desu ka.", "ta": "அது ஆங்கில அகராதியா, ஜப்பானிய அகராதியா?", "en": "Is that an English dictionary or a Japanese dictionary?" }
+    ]
+  },
+  {
+    "id": "n5-v-358",
+    "expression": "そう; そうです",
+    "reading": "そう; そうです",
+    "romaji": "sou;soudesu",
+    "en": "that's right",
+    "ta": "அப்படித்தான்; ஆமாம், அதுதான்",
+    "pos": "expression",
+    "examples": [
+      { "ja": "「これは ペンですか。」「はい、そうです。」", "reading": "「これは ペンですか。」「はい、そうです。」", "romaji": "\"kore wa pen desu ka.\" \"hai, sou desu.\"", "ta": "「இது பேனாவா?」「ஆமாம், அப்படித்தான்.」", "en": "\"Is this a pen?\" \"Yes, it is.\"" }
+    ]
+  },
+  {
+    "id": "n5-v-365",
+    "expression": "その",
+    "reading": "その",
+    "romaji": "sono",
+    "en": "that",
+    "ta": "அந்த (கேட்பவர் அருகில் உள்ள)",
+    "pos": "prefix",
+    "examples": [
+      { "ja": "その時計は 山田さんのです。", "reading": "そのとけいは やまださんのです。", "romaji": "sono tokei wa yamada-san no desu.", "ta": "அந்தக் கடிகாரம் யமாடா-சானுடையது.", "en": "That watch is Ms Yamada's." }
+    ]
+  },
+  {
+    "id": "n5-v-368",
+    "expression": "それ",
+    "reading": "それ",
+    "romaji": "sore",
+    "en": "that one",
+    "ta": "அது",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "それは ノートですか。", "reading": "それは ノートですか。", "romaji": "sore wa nooto desu ka.", "ta": "அது நோட்டா?", "en": "Is that a notebook?" }
+    ]
+  },
+  {
+    "id": "n5-v-395",
+    "expression": "誰",
+    "reading": "だれ",
+    "romaji": "dare",
+    "en": "who",
+    "ta": "யார்",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "あの人は 誰ですか。", "reading": "あのひとは だれですか。", "romaji": "ano hito wa dare desu ka.", "ta": "அதோ அந்த நபர் யார்?", "en": "Who is that person over there?" }
+    ]
+  },
+  {
+    "id": "n5-v-456",
+    "expression": "時計",
+    "reading": "とけい",
+    "romaji": "tokei",
+    "en": "watch, clock",
+    "ta": "கடிகாரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 私の 時計じゃありません。", "reading": "これは わたしの とけいじゃありません。", "romaji": "kore wa watashi no tokei ja arimasen.", "ta": "இது என் கடிகாரம் இல்லை.", "en": "This is not my watch." }
+    ]
+  },
+  {
+    "id": "n5-v-488",
+    "expression": "何",
+    "reading": "なん; なに",
+    "romaji": "nan;nani",
+    "en": "what",
+    "ta": "என்ன",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "それは 何ですか。", "reading": "それは なんですか。", "romaji": "sore wa nan desu ka.", "ta": "அது என்ன?", "en": "What is that?" }
+    ]
+  },
+  {
+    "id": "n5-v-512",
+    "expression": "ノート",
+    "reading": "ノート",
+    "romaji": "nooto",
+    "en": "notebook",
+    "ta": "நோட்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "このノートは 誰のですか。", "reading": "このノートは だれのですか。", "romaji": "kono nooto wa dare no desu ka.", "ta": "இந்த நோட்டு யாருடையது?", "en": "Whose notebook is this?" }
+    ]
+  },
+  {
+    "id": "n5-v-572",
+    "expression": "平仮名",
+    "reading": "ひらがな",
+    "romaji": "hiragana",
+    "en": "hiragana",
+    "ta": "ஹிராகானா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "「かさ」は 平仮名です。", "reading": "「かさ」は ひらがなです。", "romaji": "\"kasa\" wa hiragana desu.", "ta": "「かさ」 என்பது ஹிராகானா.", "en": "\"Kasa\" is written in hiragana." }
+    ]
+  },
+  {
+    "id": "n5-v-598",
+    "expression": "ペン",
+    "reading": "ペン",
+    "romaji": "pen",
+    "en": "pen",
+    "ta": "பேனா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは ペンですか、鉛筆ですか。", "reading": "これは ペンですか、えんぴつですか。", "romaji": "kore wa pen desu ka, enpitsu desu ka.", "ta": "இது பேனாவா, பென்சிலா?", "en": "Is this a pen or a pencil?" }
+    ]
+  },
+  {
+    "id": "n5-v-602",
+    "expression": "ボールペン",
+    "reading": "ボールペン",
+    "romaji": "boorupen",
+    "en": "ballpoint pen",
+    "ta": "பால்பாயிண்ட் பேனா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あれは ボールペンです。", "reading": "あれは ボールペンです。", "romaji": "are wa boorupen desu.", "ta": "அதோ அது பால்பாயிண்ட் பேனா.", "en": "That over there is a ballpoint pen." }
+    ]
+  },
+  {
+    "id": "n5-v-610",
+    "expression": "本",
+    "reading": "ほん",
+    "romaji": "hon",
+    "en": "book",
+    "ta": "புத்தகம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 日本語の 本です。", "reading": "これは にほんごの ほんです。", "romaji": "kore wa nihongo no hon desu.", "ta": "இது ஜப்பானிய மொழிப் புத்தகம்.", "en": "This is a Japanese-language book." }
+    ]
+  },
+  {
+    "id": "n5-v-634",
+    "expression": "万年筆",
+    "reading": "まんねんひつ",
+    "romaji": "mannenhitsu",
+    "en": "fountain pen",
+    "ta": "ஃபவுண்டன் பேனா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この万年筆は 先生のです。", "reading": "このまんねんひつは せんせいのです。", "romaji": "kono mannenhitsu wa sensei no desu.", "ta": "இந்த ஃபவுண்டன் பேனா ஆசிரியருடையது.", "en": "This fountain pen is the teacher's." }
+    ]
+  },
+  {
+    "id": "n5-v-697",
+    "expression": "ラジオカセ",
+    "reading": "ラジオカセ",
+    "romaji": "rajiokase",
+    "en": "radio cassette player",
+    "ta": "ரேடியோ கேசட் பிளேயர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あれは ラジオカセですか。", "reading": "あれは ラジオカセですか。", "romaji": "are wa rajiokase desu ka.", "ta": "அதோ அது ரேடியோ கேசட் பிளேயரா?", "en": "Is that over there a radio cassette player?" }
+    ]
+  }
+]

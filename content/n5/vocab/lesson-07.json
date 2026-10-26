@@ -1,0 +1,374 @@
+[
+  {
+    "id": "n5-v-029",
+    "expression": "兄",
+    "reading": "あに",
+    "romaji": "ani",
+    "en": "my older brother",
+    "ta": "(என்) அண்ணன்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄は 銀行で 働きます。", "reading": "あには ぎんこうで はたらきます。", "romaji": "ani wa ginkou de hatarakimasu.", "ta": "என் அண்ணன் வங்கியில் வேலை செய்கிறார்.", "en": "My older brother works at a bank." }
+    ]
+  },
+  {
+    "id": "n5-v-030",
+    "expression": "姉",
+    "reading": "あね",
+    "romaji": "ane",
+    "en": "my older sister",
+    "ta": "(என்) அக்கா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "姉に 本を 借りました。", "reading": "あねに ほんを かりました。", "romaji": "ane ni hon o karimashita.", "ta": "அக்காவிடம் புத்தகம் கடன் வாங்கினேன்.", "en": "I borrowed a book from my older sister." }
+    ]
+  },
+  {
+    "id": "n5-v-068",
+    "expression": "妹",
+    "reading": "いもうと",
+    "romaji": "imouto",
+    "en": "my younger sister",
+    "ta": "(என்) தங்கை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "妹に 飴を あげました。", "reading": "いもうとに あめを あげました。", "romaji": "imouto ni ame o agemashita.", "ta": "தங்கைக்கு மிட்டாய் கொடுத்தேன்.", "en": "I gave candy to my younger sister." }
+    ]
+  },
+  {
+    "id": "n5-v-102",
+    "expression": "お母さん",
+    "reading": "おかあさん",
+    "romaji": "okaasan",
+    "en": "mother (polite)",
+    "ta": "அம்மா (மரியாதையாக; மற்றவரின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "お母さんは 何歳ですか。", "reading": "おかあさんは なんさいですか。", "romaji": "okaasan wa nansai desu ka.", "ta": "உங்கள் அம்மாவுக்கு வயது என்ன?", "en": "How old is your mother?" }
+    ]
+  },
+  {
+    "id": "n5-v-107",
+    "expression": "奥さん",
+    "reading": "おくさん",
+    "romaji": "okusan",
+    "en": "someone's wife",
+    "ta": "(மற்றவரின்) மனைவி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "田中さんの 奥さんは 先生です。", "reading": "たなかさんの おくさんは せんせいです。", "romaji": "tanaka san no okusan wa sensei desu.", "ta": "தனாகா அவர்களின் மனைவி ஆசிரியர்.", "en": "Mr. Tanaka's wife is a teacher." }
+    ]
+  },
+  {
+    "id": "n5-v-109",
+    "expression": "お皿",
+    "reading": "おさら",
+    "romaji": "osara",
+    "en": "plate",
+    "ta": "தட்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この お皿は 日本のです。", "reading": "この おさらは にほんのです。", "romaji": "kono osara wa nihon no desu.", "ta": "இந்தத் தட்டு ஜப்பானியது.", "en": "This plate is Japanese." }
+    ]
+  },
+  {
+    "id": "n5-v-112",
+    "expression": "教える",
+    "reading": "おしえる",
+    "romaji": "oshieru",
+    "en": "to teach, to tell",
+    "ta": "கற்பிக்க; சொல்லித் தர",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "兄は 私に 英語を 教えます。", "reading": "あには わたしに えいごを おしえます。", "romaji": "ani wa watashi ni eigo o oshiemasu.", "ta": "அண்ணன் எனக்கு ஆங்கிலம் கற்பிக்கிறார்.", "en": "My older brother teaches me English." }
+    ]
+  },
+  {
+    "id": "n5-v-117",
+    "expression": "お父さん",
+    "reading": "おとうさん",
+    "romaji": "otousan",
+    "en": "father (polite)",
+    "ta": "அப்பா (மரியாதையாக; மற்றவரின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "お父さんは 医者ですか。", "reading": "おとうさんは いしゃですか。", "romaji": "otousan wa isha desu ka.", "ta": "உங்கள் அப்பா மருத்துவரா?", "en": "Is your father a doctor?" }
+    ]
+  },
+  {
+    "id": "n5-v-118",
+    "expression": "弟",
+    "reading": "おとうと",
+    "romaji": "otouto",
+    "en": "younger brother",
+    "ta": "(என்) தம்பி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "弟に 時計を あげました。", "reading": "おとうとに とけいを あげました。", "romaji": "otouto ni tokei o agemashita.", "ta": "தம்பிக்குக் கைக்கடிகாரம் கொடுத்தேன்.", "en": "I gave a watch to my younger brother." }
+    ]
+  },
+  {
+    "id": "n5-v-126",
+    "expression": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan",
+    "en": "older brother (polite)",
+    "ta": "அண்ணன் (மரியாதையாக; மற்றவரின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "お兄さんは 学生ですか、先生ですか。", "reading": "おにいさんは がくせいですか、せんせいですか。", "romaji": "oniisan wa gakusei desu ka, sensei desu ka.", "ta": "உங்கள் அண்ணன் மாணவரா, ஆசிரியரா?", "en": "Is your older brother a student or a teacher?" }
+    ]
+  },
+  {
+    "id": "n5-v-127",
+    "expression": "お姉さん",
+    "reading": "おねえさん",
+    "romaji": "oneesan",
+    "en": "older sister (polite)",
+    "ta": "அக்கா (மரியாதையாக; மற்றவரின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "お姉さんは どこで 働きますか。", "reading": "おねえさんは どこで はたらきますか。", "romaji": "oneesan wa doko de hatarakimasu ka.", "ta": "உங்கள் அக்கா எங்கே வேலை செய்கிறார்?", "en": "Where does your older sister work?" }
+    ]
+  },
+  {
+    "id": "n5-v-161",
+    "expression": "貸す",
+    "reading": "かす",
+    "romaji": "kasu",
+    "en": "to lend",
+    "ta": "கடனாகக் கொடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "友達に 傘を 貸しました。", "reading": "ともだちに かさを かしました。", "romaji": "tomodachi ni kasa o kashimashita.", "ta": "நண்பருக்குக் குடை கடனாகக் கொடுத்தேன்.", "en": "I lent an umbrella to my friend." }
+    ]
+  },
+  {
+    "id": "n5-v-173",
+    "expression": "花瓶",
+    "reading": "かびん",
+    "romaji": "kabin",
+    "en": "vase",
+    "ta": "பூஜாடி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "母に 花瓶を あげました。", "reading": "ははに かびんを あげました。", "romaji": "haha ni kabin o agemashita.", "ta": "அம்மாவுக்குப் பூஜாடி கொடுத்தேன்.", "en": "I gave a vase to my mother." }
+    ]
+  },
+  {
+    "id": "n5-v-180",
+    "expression": "借りる",
+    "reading": "かりる",
+    "romaji": "kariru",
+    "en": "to borrow",
+    "ta": "கடன் வாங்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "友達に 字引を 借りました。", "reading": "ともだちに じびきを かりました。", "romaji": "tomodachi ni jibiki o karimashita.", "ta": "நண்பரிடம் அகராதி கடன் வாங்கினேன்.", "en": "I borrowed a dictionary from my friend." }
+    ]
+  },
+  {
+    "id": "n5-v-206",
+    "expression": "兄弟",
+    "reading": "きょうだい",
+    "romaji": "kyoudai",
+    "en": "siblings",
+    "ta": "உடன்பிறந்தோர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私の 兄弟は 兄と 妹です。", "reading": "わたしの きょうだいは あにと いもうとです。", "romaji": "watashi no kyoudai wa ani to imouto desu.", "ta": "என் உடன்பிறந்தோர் அண்ணனும் தங்கையும்.", "en": "My siblings are an older brother and a younger sister." }
+    ]
+  },
+  {
+    "id": "n5-v-260",
+    "expression": "コップ",
+    "reading": "コップ",
+    "romaji": "koppu",
+    "en": "glass, tumbler",
+    "ta": "டம்ளர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "コップで 水を 飲みます。", "reading": "コップで みずを のみます。", "romaji": "koppu de mizu o nomimasu.", "ta": "டம்ளரில் தண்ணீர் குடிக்கிறேன்.", "en": "I drink water from a glass." }
+    ]
+  },
+  {
+    "id": "n5-v-263",
+    "expression": "子供",
+    "reading": "こども",
+    "romaji": "kodomo",
+    "en": "child",
+    "ta": "குழந்தை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "子供は 毎日 牛乳を 飲みます。", "reading": "こどもは まいにち ぎゅうにゅうを のみます。", "romaji": "kodomo wa mainichi gyuunyuu o nomimasu.", "ta": "குழந்தைகள் தினமும் பால் குடிக்கிறார்கள்.", "en": "Children drink milk every day." }
+    ]
+  },
+  {
+    "id": "n5-v-339",
+    "expression": "スプーン",
+    "reading": "スプーン",
+    "romaji": "supuun",
+    "en": "spoon",
+    "ta": "ஸ்பூன் (கரண்டி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "スプーンで 御飯を 食べますか。", "reading": "スプーンで ごはんを たべますか。", "romaji": "supuun de gohan o tabemasu ka.", "ta": "ஸ்பூனால் சாப்பிடுகிறீர்களா?", "en": "Do you eat rice with a spoon?" }
+    ]
+  },
+  {
+    "id": "n5-v-406",
+    "expression": "父",
+    "reading": "ちち",
+    "romaji": "chichi",
+    "en": "my father",
+    "ta": "(என்) அப்பா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 毎朝 六時に 起きます。", "reading": "ちちは まいあさ ろくじに おきます。", "romaji": "chichi wa maiasa rokuji ni okimasu.", "ta": "என் அப்பா தினமும் காலை ஆறு மணிக்கு எழுகிறார்.", "en": "My father gets up at six every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-408",
+    "expression": "茶碗",
+    "reading": "ちゃわん",
+    "romaji": "chawan",
+    "en": "rice bowl",
+    "ta": "சோற்றுக் கிண்ணம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 茶碗は 母のです。", "reading": "この ちゃわんは ははのです。", "romaji": "kono chawan wa haha no desu.", "ta": "இந்தக் கிண்ணம் என் அம்மாவுடையது.", "en": "This rice bowl is my mother's." }
+    ]
+  },
+  {
+    "id": "n5-v-441",
+    "expression": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "en": "telephone",
+    "ta": "தொலைபேசி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 母に 電話を かけます。", "reading": "まいばん ははに でんわを かけます。", "romaji": "maiban haha ni denwa o kakemasu.", "ta": "தினமும் இரவு அம்மாவுக்குத் தொலைபேசி செய்கிறேன்.", "en": "I phone my mother every night." }
+    ]
+  },
+  {
+    "id": "n5-v-478",
+    "expression": "ナイフ",
+    "reading": "ナイフ",
+    "romaji": "naifu",
+    "en": "knife",
+    "ta": "கத்தி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは ナイフと フォークで 食べます。", "reading": "これは ナイフと フォークで たべます。", "romaji": "kore wa naifu to fuooku de tabemasu.", "ta": "இதைக் கத்தியும் முள்கரண்டியும் கொண்டு சாப்பிடுகிறோம்.", "en": "We eat this with a knife and fork." }
+    ]
+  },
+  {
+    "id": "n5-v-491",
+    "expression": "習う",
+    "reading": "ならう",
+    "romaji": "narau",
+    "en": "to learn",
+    "ta": "கற்றுக்கொள்ள",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "先生に 日本語を 習います。", "reading": "せんせいに にほんごを ならいます。", "romaji": "sensei ni nihongo o naraimasu.", "ta": "ஆசிரியரிடம் ஜப்பானிய மொழி கற்றுக்கொள்கிறேன்.", "en": "I learn Japanese from a teacher." }
+    ]
+  },
+  {
+    "id": "n5-v-527",
+    "expression": "箸",
+    "reading": "はし",
+    "romaji": "hashi",
+    "en": "chopsticks",
+    "ta": "சாப்ஸ்டிக்ஸ் (குச்சிகள்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本人は 箸で 御飯を 食べます。", "reading": "にほんじんは はしで ごはんを たべます。", "romaji": "nihonjin wa hashi de gohan o tabemasu.", "ta": "ஜப்பானியர்கள் சாப்ஸ்டிக்ஸால் சாப்பிடுகிறார்கள்.", "en": "Japanese people eat rice with chopsticks." }
+    ]
+  },
+  {
+    "id": "n5-v-538",
+    "expression": "花",
+    "reading": "はな",
+    "romaji": "hana",
+    "en": "flower",
+    "ta": "பூ",
+    "pos": "noun",
+    "examples": [
+      { "ja": "誕生日に 花を もらいました。", "reading": "たんじょうびに はなを もらいました。", "romaji": "tanjoubi ni hana o moraimashita.", "ta": "பிறந்தநாளில் பூ பெற்றேன்.", "en": "I received flowers on my birthday." }
+    ]
+  },
+  {
+    "id": "n5-v-542",
+    "expression": "母",
+    "reading": "はは",
+    "romaji": "haha",
+    "en": "my mother",
+    "ta": "(என்) அம்மா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "母は 毎日 お茶を 飲みます。", "reading": "ははは まいにち おちゃを のみます。", "romaji": "haha wa mainichi ocha o nomimasu.", "ta": "என் அம்மா தினமும் தேநீர் குடிக்கிறார்.", "en": "My mother drinks tea every day." }
+    ]
+  },
+  {
+    "id": "n5-v-579",
+    "expression": "フォーク",
+    "reading": "フォーク",
+    "romaji": "fuooku",
+    "en": "fork",
+    "ta": "முள்கரண்டி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "私は フォークで お菓子を 食べます。", "reading": "わたしは フォークで おかしを たべます。", "romaji": "watashi wa fuooku de okashi o tabemasu.", "ta": "நான் முள்கரண்டியால் இனிப்பு சாப்பிடுகிறேன்.", "en": "I eat sweets with a fork." }
+    ]
+  },
+  {
+    "id": "n5-v-626",
+    "expression": "まだ",
+    "reading": "まだ",
+    "romaji": "mada",
+    "en": "not yet, still",
+    "ta": "இன்னும் (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "「もう 晩御飯を 食べましたか。」「いいえ、まだです。」", "reading": "「もう ばんごはんを たべましたか。」「いいえ、まだです。」", "romaji": "\"mou bangohan o tabemashita ka.\" \"iie, mada desu.\"", "ta": "\"இரவு உணவு சாப்பிட்டுவிட்டீர்களா?\" \"இல்லை, இன்னும் இல்லை.\"", "en": "\"Have you eaten dinner yet?\" \"No, not yet.\"" }
+    ]
+  },
+  {
+    "id": "n5-v-658",
+    "expression": "もう",
+    "reading": "もう",
+    "romaji": "mou",
+    "en": "already",
+    "ta": "ஏற்கனவே",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "私は もう 昼御飯を 食べました。", "reading": "わたしは もう ひるごはんを たべました。", "romaji": "watashi wa mou hirugohan o tabemashita.", "ta": "நான் ஏற்கனவே மதிய உணவு சாப்பிட்டுவிட்டேன்.", "en": "I have already eaten lunch." }
+    ]
+  },
+  {
+    "id": "n5-v-660",
+    "expression": "もしもし",
+    "reading": "もしもし",
+    "romaji": "moshimoshi",
+    "en": "hello (on the phone)",
+    "ta": "ஹலோ (தொலைபேசியில்)",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "もしもし、ラジャです。田中さんですか。", "reading": "もしもし、ラジャです。たなかさんですか。", "romaji": "moshimoshi, raja desu. tanaka san desu ka.", "ta": "ஹலோ, நான் ராஜா. தனாகா அவர்களா?", "en": "Hello, this is Raja. Is this Mr. Tanaka?" }
+    ]
+  },
+  {
+    "id": "n5-v-700",
+    "expression": "両親",
+    "reading": "りょうしん",
+    "romaji": "ryoushin",
+    "en": "parents",
+    "ta": "பெற்றோர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先月 両親と 日本へ 来ました。", "reading": "せんげつ りょうしんと にほんへ きました。", "romaji": "sengetsu ryoushin to nihon e kimashita.", "ta": "போன மாதம் பெற்றோருடன் ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan with my parents last month." }
+    ]
+  }
+]
