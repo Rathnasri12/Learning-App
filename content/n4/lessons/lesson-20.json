@@ -1,0 +1,294 @@
+{
+  "lesson": 20,
+  "title": { "ja": "火事の場合は、119番に電話してください", "ta": "தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள்", "en": "In case of fire, call 119" },
+  "intro_ta": "இந்தப் பாடத்தில் வீட்டுப் பாதுகாப்பு, அவசரநிலைகள் பற்றிப் பேசக் கற்போம். 'இப்படி நடந்தால்' என்பதை 〜場合は என்றும், 'இருந்தும் (ஏமாற்றம்)' என்பதை 〜のに என்றும் சொல்வோம். 'பரவாயில்லை' என்று அனுமதி தருவது 〜てもかまいません. பேச்சில் 'கட்டாயம் செய்ய வேண்டும்' என்பது 〜ないといけません; நண்பர்களிடம் சுருக்கமாக 〜なくちゃ / 〜なきゃ. எரிவாயு, தண்ணீர், ஏசி, தீ, நிலநடுக்கம் போன்ற சூழல்களில் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you talk about safety at home and emergencies. \"In case of …\" is 〜場合は. \"Even though …\", with surprise or complaint, is 〜のに. \"It’s OK if …\" is 〜てもかまいません. \"I must …\" in speech is 〜ないといけません. With friends, the short forms are 〜なくちゃ and 〜なきゃ. You practise with gas, water, air conditioning, fire and earthquakes.",
+  "grammar": [
+    {
+      "id": "g20-1",
+      "pattern": "plain form / N の 場合は、〜",
+      "name": { "en": "In case of … / if … happens", "ta": "~ ஏற்பட்டால் / ~ என்ற நிலையில்" },
+      "explanation_ta": "場合 என்றால் 'நிலைமை, சமயம்'. 〜場合は = '~ என்ற நிலை ஏற்பட்டால்'. நடக்கக்கூடிய ஒரு சூழ்நிலையைச் சொல்லி, அப்போது என்ன செய்ய வேண்டும் என்று சொல்ல இது பயன்படும். அறிவிப்புகள், விதிமுறைகள், அலுவலகப் பேச்சு போன்ற முறையான இடங்களில் அதிகம் வரும். முன்னால் சாதாரண வடிவம்: வினை (遅れる場合, 遅れない場合, 起きた場合), い-பெயரடை (高い場合), な-பெயரடை + な (必要な場合), பெயர்ச்சொல் + の (火事の場合). தமிழில் 'தீ விபத்து ஏற்பட்டால்', 'தாமதமாகும் பட்சத்தில்' என்பது இணை. 〜たら-வை விட முறையானது; 'நிச்சயம் நடக்கும்' விஷயங்களுக்கு (明日になったら) 場合 வராது.",
+      "explanation_en": "場合 means \"case\" or \"situation\". 〜場合は = \"in case of …\", \"if … happens\". Name a possible situation, then say what to do. It is used in notices, rules and polite talk at work. Before it, use the plain form. Verbs: 遅れる場合, 遅れない場合, 起きた場合. い-adjectives: 高い場合. な-adjectives + な: 必要な場合. Nouns + の: 火事の場合. In Tamil: \"தீ விபத்து ஏற்பட்டால்\" (if a fire happens). It is more formal than 〜たら. Don’t use 場合 for things that will surely happen, like \"when tomorrow comes\".",
+      "tamil_parallel": "தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள் = 火事の場合は、119番に電話してください; தாமதமாகும் பட்சத்தில் தெரிவியுங்கள் = 遅れる場合は、連絡してください",
+      "tamil_parallel_en": "In case of fire, call 119 (தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள்) = 火事の場合は、119番に電話してください.",
+      "formation": "V-அகராதி / V-ない / V-た + 場合は、〜\nい-பெயரடை + 場合は、〜\nな-பெயரடை + な + 場合は、〜\nN + の + 場合は、〜\n   火事 → 火事の 場合は\n   遅れる → 遅れる 場合は\n   起きた → 起きた 場合は",
+      "formation_en": "V-dictionary / V-ない / V-た + 場合は、〜\nい-adjective + 場合は、〜\nな-adjective + な + 場合は、〜\nN + の + 場合は、〜\n   火事 → 火事の 場合は\n   遅れる → 遅れる 場合は\n   起きた → 起きた 場合は",
+      "examples": [
+        { "ja": "火事の場合は、119番に電話してください。", "reading": "かじの ばあいは、ひゃくじゅうきゅうばんに でんわして ください。", "romaji": "kaji no baai wa, hyakujuukyuu ban ni denwa shite kudasai.", "ta": "தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள்.", "en": "In case of fire, please call 119." },
+        { "ja": "地震が起きた場合は、すぐ机の下に入ってください。", "reading": "じしんが おきた ばあいは、すぐ つくえの したに はいって ください。", "romaji": "jishin ga okita baai wa, sugu tsukue no shita ni haitte kudasai.", "ta": "நிலநடுக்கம் ஏற்பட்டால் உடனே மேசைக்கு அடியில் போங்கள்.", "en": "If there is an earthquake, get under a desk at once." },
+        { "ja": "授業に遅れる場合は、必ず連絡してください。", "reading": "じゅぎょうに おくれる ばあいは、かならず れんらくして ください。", "romaji": "jugyou ni okureru baai wa, kanarazu renraku shite kudasai.", "ta": "வகுப்புக்குத் தாமதமாகும் பட்சத்தில் கட்டாயம் தெரிவியுங்கள்.", "en": "If you’ll be late for class, be sure to let us know." },
+        { "ja": "熱が高い場合は、この薬を飲んでください。", "reading": "ねつが たかい ばあいは、この くすりを のんで ください。", "romaji": "netsu ga takai baai wa, kono kusuri o nonde kudasai.", "ta": "காய்ச்சல் அதிகமாக இருந்தால் இந்த மருந்தைச் சாப்பிடுங்கள்.", "en": "If your fever is high, take this medicine." },
+        { "ja": "道がわからない場合は、駅員に聞いてください。", "reading": "みちが わからない ばあいは、えきいんに きいて ください。", "romaji": "michi ga wakaranai baai wa, ekiin ni kiite kudasai.", "ta": "வழி தெரியாவிட்டால் ஸ்டேஷன் ஊழியரிடம் கேளுங்கள்.", "en": "If you don’t know the way, ask a station worker." },
+        { "ja": "カードが使えない場合は、どうしたらいいですか。", "reading": "カードが つかえない ばあいは、どう したら いいですか。", "romaji": "kaado ga tsukaenai baai wa, dou shitara ii desu ka.", "ta": "அட்டை வேலை செய்யாவிட்டால் என்ன செய்ய வேண்டும்?", "en": "What should I do if my card doesn’t work?" }
+      ],
+      "pitfalls_ta": "火事場合 தவறு; பெயர்ச்சொல்லுக்குப் பின் の வேண்டும்: 火事の場合. கடந்த கால உண்மைக்கு (昨日の場合 ×) பயன்படுத்தாதீர்கள்; 場合 'நடக்கக்கூடிய நிலை' மட்டும்.",
+      "pitfalls_en": "火事場合 is wrong. After a noun, add の: 火事の場合. Don’t use it for past facts (昨日の場合 is wrong). 場合 is for possible situations."
+    },
+    {
+      "id": "g20-2",
+      "pattern": "plain form のに、〜",
+      "name": { "en": "Even though … (surprise, complaint)", "ta": "~ இருந்தும் / ~ செய்தும் (ஏமாற்றம்)" },
+      "explanation_ta": "A のに、B = 'A இருந்தும் B' — எதிர்பார்த்ததற்கு மாறாக நடந்தது; பேசுபவரின் ஆச்சரியம், அதிருப்தி, ஏமாற்றம் வெளிப்படும். 約束したのに、来ませんでした = 'வாக்குக் கொடுத்தும் வரவில்லை (எனக்குக் கோபம்)'. முன்னால் சாதாரண வடிவம்; な-பெயரடை, பெயர்ச்சொல் என்றால் な: 日曜日なのに, 静かなのに. தமிழில் '-தும்', 'இருந்தும்', 'இருந்தாலும் கூட' என்பதுடன் வருத்தம் சேர்ந்தது. 〜が / 〜けど ('ஆனால்') நடுநிலையானவை; のに உணர்ச்சி கொண்டது. கவனிக்க: のに-க்குப் பின் வேண்டுகோள், விருப்பம், அழைப்பு (〜てください, 〜たい, 〜ましょう) வராது. பாடம் 17-இல் கற்ற 'பயன்படும்' のに (切るのに使います) வேறு; பின்வரும் சொல்லைப் பார்த்து அடையாளம் காணுங்கள்.",
+      "explanation_en": "A のに、B = \"even though A, B\". B is the opposite of what you expected. It shows surprise, complaint or disappointment. 約束したのに、来ませんでした = \"He promised, but he didn’t come (and I’m upset).\" Use the plain form before のに. With な-adjectives and nouns, add な: 日曜日なのに, 静かなのに. Tamil \"-தும்\" or \"இருந்தும்\" (even though), with a feeling of regret, is close. 〜が and 〜けど (\"but\") are neutral. のに carries feeling. After のに, don’t use requests, wishes or invitations like 〜てください, 〜たい, 〜ましょう. This is not the のに of Lesson 17 (切るのに使います). Look at what comes after it.",
+      "tamil_parallel": "வாக்குக் கொடுத்தும் அவன் வரவில்லை = 約束したのに、彼は来ませんでした; ஞாயிற்றுக்கிழமையாக இருந்தும் அலுவலகம் போக வேண்டும் = 日曜日なのに、会社へ行かなければなりません",
+      "tamil_parallel_en": "Even though he promised, he didn’t come (வாக்குக் கொடுத்தும் அவன் வரவில்லை) = 約束したのに、彼は来ませんでした.",
+      "formation": "V-சாதாரண வடிவம் + のに、〜   (約束した のに)\nい-பெயரடை + のに、〜   (新しい のに)\nな-பெயரடை + な + のに、〜   (静かな のに)\nN + な + のに、〜   (日曜日な のに)",
+      "formation_en": "V-plain form + のに、〜   (約束した のに)\nい-adjective + のに、〜   (新しい のに)\nな-adjective + な + のに、〜   (静かな のに)\nN + な + のに、〜   (日曜日な のに)",
+      "examples": [
+        { "ja": "約束したのに、彼は来ませんでした。", "reading": "やくそくしたのに、かれは きませんでした。", "romaji": "yakusoku shita no ni, kare wa kimasen deshita.", "ta": "வாக்குக் கொடுத்தும் அவன் வரவில்லை.", "en": "Even though he promised, he didn’t come." },
+        { "ja": "冷房をつけたのに、部屋が全然涼しくなりません。", "reading": "れいぼうを つけたのに、へやが ぜんぜん すずしく なりません。", "romaji": "reibou o tsuketa no ni, heya ga zenzen suzushiku narimasen.", "ta": "ஏசி போட்டும் அறை கொஞ்சம்கூடக் குளிரவில்லை.", "en": "I turned on the air conditioner, but the room isn’t cooling at all." },
+        { "ja": "日曜日なのに、会社へ行かなければなりません。", "reading": "にちようびなのに、かいしゃへ いかなければ なりません。", "romaji": "nichiyoubi na no ni, kaisha e ikanakereba narimasen.", "ta": "ஞாயிற்றுக்கிழமையாக இருந்தும் அலுவலகம் போக வேண்டும்.", "en": "Even though it’s Sunday, I have to go to work." },
+        { "ja": "一生懸命勉強したのに、試験に落ちました。", "reading": "いっしょうけんめい べんきょうしたのに、しけんに おちました。", "romaji": "isshoukenmei benkyou shita no ni, shiken ni ochimashita.", "ta": "கடினமாகப் படித்தும் தேர்வில் தோல்வியடைந்தேன்.", "en": "I studied really hard, but I failed the exam." },
+        { "ja": "このエアコンは新しいのに、もう動きません。", "reading": "この エアコンは あたらしいのに、もう うごきません。", "romaji": "kono eakon wa atarashii no ni, mou ugokimasen.", "ta": "இந்த ஏசி புதியதாக இருந்தும் ஏற்கனவே வேலை செய்யவில்லை.", "en": "This air conditioner is new, but it already doesn’t work." },
+        { "ja": "天気予報では晴れだったのに、雨が降っています。", "reading": "てんきよほうでは はれだったのに、あめが ふって います。", "romaji": "tenki yohou de wa hare datta no ni, ame ga futte imasu.", "ta": "வானிலை அறிக்கையில் வெயில் என்று சொல்லியும் மழை பெய்கிறது.", "en": "The forecast said sunny, but it’s raining." }
+      ],
+      "pitfalls_ta": "日曜日のに / 静かのに தவறு; な வேண்டும். 雨なのに、出かけましょう போல のに-க்குப் பின் அழைப்பு வராது; அங்கே 雨ですが / 雨でも.",
+      "pitfalls_en": "日曜日のに and 静かのに are wrong; you need な. Don’t put an invitation after のに, like 雨なのに、出かけましょう. Use 雨ですが or 雨でも there."
+    },
+    {
+      "id": "g20-3",
+      "pattern": "V-ても / adj-くても かまいません",
+      "name": { "en": "It’s all right even if … / I don’t mind if …", "ta": "~ செய்தாலும் பரவாயில்லை" },
+      "explanation_ta": "かまう என்றால் 'பொருட்படுத்துவது'. 〜てもかまいません = '~ செய்தாலும் நான் பொருட்படுத்த மாட்டேன்' = 'பரவாயில்லை, செய்யலாம்'. N5-இல் கற்ற 〜てもいいです-இன் சற்று முறையான வடிவம். வினை: V-て + もかまいません (開けてもかまいません). எதிர்மறை: V-なくても かまいません (来なくてもかまいません = வராவிட்டாலும் பரவாயில்லை). い-பெயரடை: 古くても; な-பெயரடை / பெயர்ச்சொல்: 簡単でも, 英語でも. அனுமதி கேட்க: 〜てもかまいませんか. தமிழில் '-னாலும் பரவாயில்லை' என்பதற்குச் சரியான இணை.",
+      "explanation_en": "かまう means \"to mind\". 〜てもかまいません = \"I don’t mind if you …\" = \"it’s fine to …\". It is a little more formal than 〜てもいいです from N5. Verb: V-て + もかまいません: 開けてもかまいません. Negative: V-なくても かまいません: 来なくてもかまいません = \"it’s fine if you don’t come\". い-adjective: 古くても. な-adjective or noun: 簡単でも, 英語でも. To ask: 〜てもかまいませんか. Tamil \"-னாலும் பரவாயில்லை\" (it’s OK even if) is a perfect match.",
+      "tamil_parallel": "ஜன்னலைத் திறந்தாலும் பரவாயில்லை = 窓を開けてもかまいません; பழையதாக இருந்தாலும் பரவாயில்லை = 古くてもかまいません",
+      "tamil_parallel_en": "It’s fine to open the window (ஜன்னலைத் திறந்தாலும் பரவாயில்லை) = 窓を開けてもかまいません.",
+      "formation": "V-て + も かまいません\nV-ない → V-なくて + も かまいません\nい-பெயரடை: 古い → 古くて + も かまいません\nな-பெயரடை / N: 簡単 → 簡単で + も かまいません\nகேள்வி: 〜ても かまいませんか",
+      "formation_en": "V-て + も かまいません\nV-ない → V-なくて + も かまいません\nい-adjective: 古い → 古くて + も かまいません\nな-adjective / N: 簡単 → 簡単で + も かまいません\nQuestion: 〜ても かまいませんか",
+      "examples": [
+        { "ja": "暑いですね。窓を開けてもかまいませんか。", "reading": "あついですね。まどを あけても かまいませんか。", "romaji": "atsui desu ne. mado o akete mo kamaimasen ka.", "ta": "வெப்பமாக இருக்கிறது. ஜன்னலைத் திறக்கலாமா?", "en": "It’s hot. Do you mind if I open the window?" },
+        { "ja": "忙しい場合は、来なくてもかまいません。", "reading": "いそがしい ばあいは、こなくても かまいません。", "romaji": "isogashii baai wa, konakute mo kamaimasen.", "ta": "வேலையாக இருந்தால் வராவிட்டாலும் பரவாயில்லை.", "en": "If you’re busy, it’s fine if you don’t come." },
+        { "ja": "古くてもかまいませんから、安い冷蔵庫がほしいです。", "reading": "ふるくても かまいませんから、やすい れいぞうこが ほしいです。", "romaji": "furukute mo kamaimasen kara, yasui reizouko ga hoshii desu.", "ta": "பழையதாக இருந்தாலும் பரவாயில்லை, மலிவான குளிர்சாதனப் பெட்டி வேண்டும்.", "en": "I don’t mind if it’s old. I want a cheap fridge." },
+        { "ja": "名前は英語で書いてもかまいません。", "reading": "なまえは えいごで かいても かまいません。", "romaji": "namae wa eigo de kaite mo kamaimasen.", "ta": "பெயரை ஆங்கிலத்தில் எழுதினாலும் பரவாயில்லை.", "en": "You may write your name in English." },
+        { "ja": "料理は簡単でもかまいませんよ。", "reading": "りょうりは かんたんでも かまいませんよ。", "romaji": "ryouri wa kantan demo kamaimasen yo.", "ta": "சமையல் எளிமையாக இருந்தாலும் பரவாயில்லை.", "en": "The food can be simple, that’s fine." },
+        { "ja": "電話は夜遅くてもかまいません。", "reading": "でんわは よる おそくても かまいません。", "romaji": "denwa wa yoru osokute mo kamaimasen.", "ta": "இரவு தாமதமாக போன் செய்தாலும் பரவாயில்லை.", "en": "You can call me even late at night." }
+      ],
+      "pitfalls_ta": "開けてかまいません (も இல்லாமல்) தவறு; 〜ても வேண்டும். 'பரவாயில்லை' என்று பதில் சொல்ல: はい、かまいません / いいえ、かまいません இரண்டும் 'சரி' என்ற பொருளில் வரலாம்.",
+      "pitfalls_en": "開けてかまいません, without も, is wrong. You need 〜ても. To say yes, you can answer はい、かまいません."
+    },
+    {
+      "id": "g20-4",
+      "pattern": "V-ないといけません",
+      "name": { "en": "Must … (spoken)", "ta": "~ செய்ய வேண்டும் (பேச்சுவழக்கு)" },
+      "explanation_ta": "V-ない + と + いけません = '~ செய்யாவிட்டால் சரியில்லை' = '~ செய்தே ஆக வேண்டும்'. N5-இல் கற்ற 〜なければなりません-இன் அதே பொருள்; ஆனால் 〜ないといけません அன்றாடப் பேச்சில் அதிகம் வரும்; 〜なければなりません எழுத்திலும் விதிமுறைகளிலும் அதிகம். நண்பர்களிடம்: 〜ないといけない. கேள்வி: 〜ないといけませんか ('செய்ய வேண்டுமா?'). தமிழில் 'அணைக்காவிட்டால் ஆகாது' = 'அணைக்க வேண்டும்' என்பது இதன் அமைப்புக்கு மிக நெருக்கம்.",
+      "explanation_en": "V-ない + と + いけません = \"if I don’t, it’s not OK\" = \"I must\". It means the same as 〜なければなりません from N5. 〜ないといけません is more common in everyday talk. 〜なければなりません is more common in writing and rules. With friends: 〜ないといけない. Question: 〜ないといけませんか (\"Do I have to?\"). Tamil \"அணைக்காவிட்டால் ஆகாது\" (it won’t do if I don’t turn it off) has the same shape.",
+      "tamil_parallel": "கேஸை அணைக்க வேண்டும் (அணைக்காவிட்டால் ஆகாது) = ガスを消さないといけません",
+      "tamil_parallel_en": "I must turn off the gas (கேஸை அணைக்க வேண்டும்) = ガスを消さないといけません.",
+      "formation": "V-ない + と + いけません\n   消す → 消さない と いけません\n   起きる → 起きない と いけません\n   する → しない と いけません\n(சாதாரணம்: 〜ないと いけない)",
+      "formation_en": "V-ない + と + いけません\n   消す → 消さない と いけません\n   起きる → 起きない と いけません\n   する → しない と いけません\n(plain: 〜ないと いけない)",
+      "examples": [
+        { "ja": "出かける前に、ガスを消さないといけません。", "reading": "でかける まえに、ガスを けさないと いけません。", "romaji": "dekakeru mae ni, gasu o kesanai to ikemasen.", "ta": "வெளியே போகும் முன் கேஸை அணைக்க வேண்டும்.", "en": "I have to turn off the gas before I go out." },
+        { "ja": "明日は六時に起きないといけません。", "reading": "あしたは ろくじに おきないと いけません。", "romaji": "ashita wa rokuji ni okinai to ikemasen.", "ta": "நாளை ஆறு மணிக்கு எழ வேண்டும்.", "en": "I have to get up at six tomorrow." },
+        { "ja": "この薬は毎日飲まないといけませんか。", "reading": "この くすりは まいにち のまないと いけませんか。", "romaji": "kono kusuri wa mainichi nomanai to ikemasen ka.", "ta": "இந்த மருந்தைத் தினமும் சாப்பிட வேண்டுமா?", "en": "Do I have to take this medicine every day?" },
+        { "ja": "ベルが鳴ったら、すぐ外に出ないといけません。", "reading": "ベルが なったら、すぐ そとに でないと いけません。", "romaji": "beru ga nattara, sugu soto ni denai to ikemasen.", "ta": "அலார மணி அடித்தால் உடனே வெளியே போக வேண்டும்.", "en": "When the alarm bell rings, you must go outside at once." },
+        { "ja": "今月中に水道代を払わないといけません。", "reading": "こんげつちゅうに すいどうだいを はらわないと いけません。", "romaji": "kongetsuchuu ni suidoudai o harawanai to ikemasen.", "ta": "இந்த மாதத்துக்குள் தண்ணீர்க் கட்டணம் செலுத்த வேண்டும்.", "en": "I have to pay the water bill this month." }
+      ],
+      "pitfalls_ta": "消さないといけません-ஐ 'அணைக்கக் கூடாது' என்று தவறாகப் புரிந்துகொள்ளாதீர்கள்; ない இருந்தாலும் பொருள் 'செய்ய வேண்டும்'. 'செய்யக் கூடாது' = 〜てはいけません.",
+      "pitfalls_en": "Don’t read 消さないといけません as \"must not turn off\". Even with ない, it means \"must do\". \"Must not\" = 〜てはいけません."
+    },
+    {
+      "id": "g20-5",
+      "pattern": "V-なくちゃ / V-なきゃ",
+      "name": { "en": "Gotta … (casual \"must\")", "ta": "~ செய்யணும் (நண்பர்களிடம் சுருக்கமாக)" },
+      "explanation_ta": "நண்பர்கள், குடும்பத்தினரிடம் பேசும்போது 'செய்ய வேண்டும்' என்பதைச் சுருக்கமாகச் சொல்வார்கள். 〜なくちゃ = 〜なくては (いけない) என்பதன் சுருக்கம்; 〜なきゃ = 〜なければ (いけない) என்பதன் சுருக்கம். பின்பகுதி いけない பெரும்பாலும் விடப்படும். 行かなくちゃ / 行かなきゃ = 'போகணும்'. தமிழ்ப் பேச்சில் 'போக வேண்டும்' → 'போகணும்' என்று சுருங்குவது போல. இது முற்றிலும் பேச்சுவழக்கு; ஆசிரியர், மேலாளரிடமும் எழுத்திலும் 〜ないといけません / 〜なければなりません பயன்படுத்துங்கள்.",
+      "explanation_en": "With friends and family, people shorten \"must\". 〜なくちゃ is short for 〜なくては (いけない). 〜なきゃ is short for 〜なければ (いけない). The いけない part is usually dropped. 行かなくちゃ or 行かなきゃ = \"gotta go\". Tamil speech shortens போக வேண்டும் to போகணும் (gotta go) in the same way. These are casual only. With teachers, bosses and in writing, use 〜ないといけません or 〜なければなりません.",
+      "tamil_parallel": "ஐயோ, எட்டு மணி ஆச்சு, போகணும் = あ、もう八時だ。行かなくちゃ / 行かなきゃ",
+      "tamil_parallel_en": "Oh, it’s eight already, I gotta go (போகணும்) = あ、もう八時だ。行かなくちゃ / 行かなきゃ.",
+      "formation": "V-ない → ない-ஐ நீக்கி + なくちゃ / なきゃ\n   行かない → 行か なくちゃ / 行か なきゃ\n   寝ない → 寝 なくちゃ / 寝 なきゃ\n   しない → し なくちゃ / し なきゃ\n(なくちゃ = なくては いけない、なきゃ = なければ いけない)",
+      "formation_en": "V-ない → drop ない + なくちゃ / なきゃ\n   行かない → 行か なくちゃ / 行か なきゃ\n   寝ない → 寝 なくちゃ / 寝 なきゃ\n   しない → し なくちゃ / し なきゃ\n(なくちゃ = なくては いけない、なきゃ = なければ いけない)",
+      "examples": [
+        { "ja": "あ、もう八時だ。行かなくちゃ。", "reading": "あ、もう はちじだ。いかなくちゃ。", "romaji": "a, mou hachiji da. ikanakucha.", "ta": "ஐயோ, எட்டு மணி ஆச்சு. போகணும்.", "en": "Oh, it’s eight already. I’ve got to go." },
+        { "ja": "明日テストだから、今晩は勉強しなきゃ。", "reading": "あした テストだから、こんばんは べんきょうしなきゃ。", "romaji": "ashita tesuto da kara, konban wa benkyou shinakya.", "ta": "நாளை தேர்வு, அதனால் இன்றிரவு படிக்கணும்.", "en": "There’s a test tomorrow, so I’ve got to study tonight." },
+        { "ja": "電気代を払わなきゃ。", "reading": "でんきだいを はらわなきゃ。", "romaji": "denkidai o harawanakya.", "ta": "மின்கட்டணம் கட்டணும்.", "en": "I’ve got to pay the electricity bill." },
+        { "ja": "もう十二時だよ。早く寝なくちゃ。", "reading": "もう じゅうにじだよ。はやく ねなくちゃ。", "romaji": "mou juuniji da yo. hayaku nenakucha.", "ta": "பன்னிரண்டு மணி ஆச்சு. சீக்கிரம் தூங்கணும்.", "en": "It’s already midnight. I’ve got to get to bed." },
+        { "ja": "あ、母に電話しなきゃ。", "reading": "あ、ははに でんわしなきゃ。", "romaji": "a, haha ni denwa shinakya.", "ta": "ஓ, அம்மாவுக்குப் போன் செய்யணும்.", "en": "Oh, I’ve got to call my mum." },
+        { "ja": "冷房、消さなくちゃ。", "reading": "れいぼう、けさなくちゃ。", "romaji": "reibou, kesanakucha.", "ta": "ஏசியை அணைக்கணும்.", "en": "I’ve got to turn off the air conditioner." }
+      ],
+      "pitfalls_ta": "部長、帰らなきゃ என்று மேலாளரிடம் சொல்வது மரியாதைக் குறைவு; அங்கே 帰らないといけません / 帰らなければなりません.",
+      "pitfalls_en": "Don’t say 帰らなきゃ to your boss. It is too casual. Say 帰らないといけません or 帰らなければなりません."
+    }
+  ],
+  "vocab_ids": ["n4-v-102", "n4-v-165", "n4-v-178", "n4-v-221", "n4-v-223", "n4-v-233", "n4-v-285", "n4-v-331", "n4-v-348", "n4-v-389", "n4-v-451", "n4-v-486", "n4-v-531", "n4-v-552", "n4-v-567", "n4-v-587", "n4-v-626", "n4-v-650"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L20-q01", "type": "kanji_reading",
+        "sentence": "昨日の 夜、近くで ＿火事＿が ありました。", "target": "火事",
+        "options": ["かじ", "ひごと", "かし", "ひじ"], "answer": 0,
+        "explanation_ta": "火事 = かじ (தீ விபத்து). 火 தனியாக ひ, ஆனால் இந்தச் சொல்லில் か; 事 = じ.",
+        "explanation_en": "火事 = かじ (தீ விபத்து, a fire). 火 alone is ひ, but in this word it is か. 事 is じ."
+      },
+      {
+        "id": "L20-q02", "type": "kanji_reading",
+        "sentence": "ここは ＿安全＿ですから、心配しないで ください。", "target": "安全",
+        "options": ["あんしん", "あんぜん", "やすぜん", "あんせん"], "answer": 1,
+        "explanation_ta": "安全 = あんぜん (பாதுகாப்பான). あんしん = 安心 (நிம்மதி), வேறு சொல். 全 இங்கே ぜん (濁音).",
+        "explanation_en": "安全 = あんぜん (பாதுகாப்பான, safe). あんしん is 安心 (relief), a different word. Here 全 is ぜん, with the dots."
+      },
+      {
+        "id": "L20-q03", "type": "kanji_reading",
+        "sentence": "火事の ＿原因＿は たばこでした。", "target": "原因",
+        "options": ["げいいん", "はらいん", "げんいん", "げんにん"], "answer": 2,
+        "explanation_ta": "原因 = げんいん (காரணம்). げん + いん; げんにん என்று ன் ஒலியை இரட்டிக்காதீர்கள்.",
+        "explanation_en": "原因 = げんいん (காரணம், cause). It is げん + いん. Don’t say げんにん."
+      },
+      {
+        "id": "L20-q04", "type": "orthography",
+        "sentence": "この 川で 泳ぐのは ＿きけん＿です。", "target": "きけん",
+        "options": ["危験", "気険", "危検", "危険"], "answer": 3,
+        "explanation_ta": "きけん (ஆபத்து) = 危険. 験 (経験-இல் உள்ளது), 検 (சோதனை) ஒலியில் けん ஆனாலும் தவறு.",
+        "explanation_en": "きけん (ஆபத்து, danger) = 危険. 験 (as in 経験) and 検 (check) are also read けん, but they are wrong here."
+      },
+      {
+        "id": "L20-q05", "type": "orthography",
+        "sentence": "＿すいどう＿の 水を 飲んでも 大丈夫ですか。", "target": "すいどう",
+        "options": ["水道", "水通", "水導", "氷道"], "answer": 0,
+        "explanation_ta": "すいどう (குழாய்த் தண்ணீர்) = 水道 (水 தண்ணீர் + 道 வழி). 氷 (பனிக்கட்டி) 水 போலத் தோன்றும்.",
+        "explanation_en": "すいどう (குழாய்த் தண்ணீர், tap water) = 水道 (水 water + 道 way). 氷 (ice) looks like 水."
+      },
+      {
+        "id": "L20-q06", "type": "vocab_context",
+        "sentence": "大きい 地震で、古い 家が（　　）。",
+        "options": ["動きました", "残りました", "倒れました", "過ぎました"], "answer": 2,
+        "explanation_ta": "நிலநடுக்கத்தில் வீடு சரிந்து விழுந்தது = 倒れました. 残りました 'மீதம் இருந்தது' — எதிர்ப்பொருள் போல.",
+        "explanation_en": "In the earthquake the house fell down = 倒れました. 残りました (was left standing) is almost the opposite."
+      },
+      {
+        "id": "L20-q07", "type": "vocab_context",
+        "sentence": "寒いので、（　　）を つけましょう。",
+        "options": ["冷房", "原因", "水道", "暖房"], "answer": 3,
+        "explanation_ta": "குளிராக இருப்பதால் வெப்பமூட்டி = 暖房. 冷房 (ஏசி) எதிர்ப்பொருள்.",
+        "explanation_en": "It’s cold, so turn on the heating = 暖房. 冷房 (air conditioning) is the opposite."
+      },
+      {
+        "id": "L20-q08", "type": "vocab_context",
+        "sentence": "エレベーターが（　　）ので、階段で 上がりました。",
+        "options": ["動かない", "倒れない", "合わない", "足りない"], "answer": 0,
+        "explanation_ta": "லிஃப்ட் இயங்கவில்லை = 動かない. இயந்திரம் வேலை செய்வதற்கு 動く.",
+        "explanation_en": "The lift isn’t working = 動かない. Use 動く for machines that work or move."
+      },
+      {
+        "id": "L20-q09", "type": "vocab_context",
+        "sentence": "大きい 地震でしたが、家族に けがが なくて、（　　）しました。",
+        "options": ["安全", "安心", "危険", "心配"], "answer": 1,
+        "explanation_ta": "குடும்பத்தினருக்குக் காயம் இல்லை → நிம்மதி = 安心しました. 安全 'பாதுகாப்பான' என்ற பெயரடை; 安全しました என்று சொல்ல முடியாது.",
+        "explanation_en": "Nobody in the family was hurt → I was relieved = 安心しました. 安全 means \"safe\". You can’t say 安全しました."
+      },
+      {
+        "id": "L20-q10", "type": "vocab_context",
+        "sentence": "出かける 前に、（　　）の 火を 消したか どうか 確かめました。",
+        "options": ["ベル", "線", "ガス", "原因"], "answer": 2,
+        "explanation_ta": "அடுப்பின் தீ = ガスの火. ベル (மணி), 線 (கோடு) ஆகியவற்றுக்கு 火 இல்லை.",
+        "explanation_en": "The stove flame = ガスの火 (the gas flame). A ベル (bell) or 線 (line) has no flame."
+      },
+      {
+        "id": "L20-q11", "type": "paraphrase",
+        "sentence": "窓を 開けても かまいません。",
+        "options": ["窓を 開けては いけません。", "窓を 開けないと いけません。", "窓を 開けて ください。", "窓を 開けても いいです。"], "answer": 3,
+        "explanation_ta": "〜てもかまいません = 〜てもいいです (செய்யலாம், பரவாயில்லை). 開けないといけません 'கட்டாயம் திறக்க வேண்டும்' — அனுமதி அல்ல, கட்டாயம்.",
+        "explanation_en": "〜てもかまいません = 〜てもいいです (you may). 開けないといけません means \"you must open it\". That is a duty, not permission."
+      },
+      {
+        "id": "L20-q12", "type": "paraphrase",
+        "sentence": "明日は 早く 起きなきゃ。",
+        "options": ["明日は 早く 起きても いい。", "明日は 早く 起きなくても いい。", "明日は 早く 起きないと いけない。", "明日は 早く 起きたい。"], "answer": 2,
+        "explanation_ta": "起きなきゃ = 起きなければいけない = 起きないといけない (எழ வேண்டும்). 起きなくてもいい 'எழ வேண்டாம்' — எதிர்ப்பொருள்.",
+        "explanation_en": "起きなきゃ = 起きなければいけない = 起きないといけない (I must get up). 起きなくてもいい means \"I don’t have to\". It is the opposite."
+      },
+      {
+        "id": "L20-q13", "type": "usage",
+        "sentence": "急",
+        "options": ["この 料理は 急で おいしいです。", "急に 電気が 消えて、部屋が 暗く なりました。", "毎朝 急を 飲んで から 出かけます。", "この 部屋は 急で とても 広いです。"], "answer": 1,
+        "explanation_ta": "急に = திடீரென்று. 'திடீரென்று மின்சாரம் போய் அறை இருட்டானது' சரியான பயன்பாடு. மற்றவற்றில் 急 பொருள் தரவில்லை.",
+        "explanation_en": "急に = suddenly. \"The power suddenly went off and the room went dark\" is the right use. In the others, 急 makes no sense."
+      },
+      {
+        "id": "L20-q14", "type": "usage",
+        "sentence": "場合",
+        "options": ["昨日の 場合は、映画を 見ました。", "私の 家の 場合は 駅の 前に あります。", "場合が 降って、寒いです。", "雨の 場合は、試合は 来週に なります。"], "answer": 3,
+        "explanation_ta": "場合 = நடக்கக்கூடிய நிலை: 雨の場合は (மழை பெய்தால்). 昨日の場合 போல கடந்த கால உண்மைக்கு வராது; அங்கே 昨日は.",
+        "explanation_en": "場合 = a possible situation: 雨の場合は (if it rains). It is not used for past facts like 昨日の場合. Just say 昨日は."
+      },
+      {
+        "id": "L20-q15", "type": "grammar_form",
+        "sentence": "火事の（　　）は、119番に 電話して ください。",
+        "options": ["場合", "ため", "ところ", "はず"], "answer": 0,
+        "explanation_ta": "'தீ விபத்து ஏற்பட்டால்' = 火事の場合は. ために காரணம் / நோக்கம்; இங்கே பொருந்தாது.",
+        "explanation_en": "\"In case of fire\" = 火事の場合は. ため is for reasons or purposes. It doesn’t fit."
+      },
+      {
+        "id": "L20-q16", "type": "grammar_form",
+        "sentence": "約束した（　　）、彼は 来ませんでした。",
+        "options": ["ので", "のに", "から", "ために"], "answer": 1,
+        "explanation_ta": "வாக்குக் கொடுத்தும் வரவில்லை (எதிர்பார்ப்புக்கு மாறாக) → のに. ので / から காரணம் சொல்லும்; பொருள் முரண்படும்.",
+        "explanation_en": "He promised, but he didn’t come. That is against what you expected → のに. ので and から give a reason, so the meaning breaks."
+      },
+      {
+        "id": "L20-q17", "type": "grammar_form",
+        "sentence": "日曜日（　　）、会社へ 行かなければ なりません。",
+        "options": ["のに", "だのに", "なのに", "でのに"], "answer": 2,
+        "explanation_ta": "பெயர்ச்சொல் + な + のに → 日曜日なのに. 日曜日のに / 日曜日だのに தவறு.",
+        "explanation_en": "Noun + な + のに → 日曜日なのに. 日曜日のに and 日曜日だのに are wrong."
+      },
+      {
+        "id": "L20-q18", "type": "grammar_form",
+        "sentence": "名前は ひらがなで 書いて（　　）。",
+        "options": ["も かまいません", "は かまいません", "も いけません", "は ありません"], "answer": 0,
+        "explanation_ta": "அனுமதி = 〜てもかまいません. 〜てはかまいません என்ற வடிவம் இல்லை.",
+        "explanation_en": "Permission = 〜てもかまいません. There is no form 〜てはかまいません."
+      },
+      {
+        "id": "L20-q19", "type": "grammar_form",
+        "sentence": "古（　　）かまいませんから、安い 自転車が ほしいです。",
+        "options": ["いても", "くても", "でも", "くて"], "answer": 1,
+        "explanation_ta": "い-பெயரடை 古い → 古くても (பழையதாக இருந்தாலும்). も இல்லாத 古くて தவறு.",
+        "explanation_en": "い-adjective 古い → 古くても (even if it’s old). 古くて without も is wrong."
+      },
+      {
+        "id": "L20-q20", "type": "grammar_form",
+        "sentence": "もう 遅いですから、そろそろ 帰ら（　　）。",
+        "options": ["ないと いけません", "なくても いいです", "ても かまいません", "ないで ください"], "answer": 0,
+        "explanation_ta": "நேரமாகிவிட்டது → 'போக வேண்டும்' = 帰らないといけません. 帰らなくてもいい 'போக வேண்டாம்' — முரண்.",
+        "explanation_en": "It’s late → \"I must go home\" = 帰らないといけません. 帰らなくてもいい (I don’t have to go) doesn’t fit."
+      },
+      {
+        "id": "L20-q21", "type": "grammar_form",
+        "sentence": "あ、もう 八時だ。早く 行か（　　）。",
+        "options": ["なくて", "ないで", "なかった", "なきゃ"], "answer": 3,
+        "explanation_ta": "நண்பர்களிடம் 'போகணும்' = 行かなきゃ (= 行かなければいけない). 行かないで 'போகாதே' எதிர்ப்பொருள்.",
+        "explanation_en": "Casual \"gotta go\" = 行かなきゃ (= 行かなければいけない). 行かないで means \"don’t go\". It is the opposite."
+      },
+      {
+        "id": "L20-q22", "type": "sentence_order",
+        "before": "地震が 起きた", "chunks": ["場合は", "ガスの", "火を", "消して"], "star": 1, "after": "ください。",
+        "explanation_ta": "地震が 起きた 場合は ガスの 火を 消して ください (நிலநடுக்கம் ஏற்பட்டால் கேஸ் அடுப்பை அணையுங்கள்). ★ = ガスの.",
+        "explanation_en": "地震が 起きた 場合は ガスの 火を 消して ください (if there’s an earthquake, turn off the gas flame). ★ = ガスの."
+      },
+      {
+        "id": "L20-q23", "type": "sentence_order",
+        "before": "冷房を つけた", "chunks": ["のに", "部屋が", "全然", "涼しく"], "star": 2, "after": "なりません。",
+        "explanation_ta": "冷房を つけた のに 部屋が 全然 涼しく なりません (ஏசி போட்டும் அறை கொஞ்சம்கூடக் குளிரவில்லை). ★ = 全然.",
+        "explanation_en": "冷房を つけた のに 部屋が 全然 涼しく なりません (I turned on the AC, but the room isn’t cooling at all). ★ = 全然."
+      },
+      {
+        "id": "L20-q24", "type": "sentence_order",
+        "before": "明日は テストですから、今晩", "chunks": ["漢字を", "勉強", "しないと", "いけません"], "star": 2, "after": "。",
+        "explanation_ta": "今晩 漢字を 勉強 しないと いけません (இன்றிரவு கான்ஜி படிக்க வேண்டும்). ★ = しないと.",
+        "explanation_en": "今晩 漢字を 勉強 しないと いけません (I have to study kanji tonight). ★ = しないと."
+      },
+      {
+        "id": "L20-q25", "type": "passage_cloze",
+        "passage": "日本の アパートでは、ガスや 水道の 使い方に 気を つけ［1］。地震が 起きた［2］は、まず ガスの 火を 消して ください。先週、私は 出かける 前に ガスを 消した［3］、本当に 消したか どうか 心配で、もう一度 家に 帰りました。",
+        "blanks": [
+          { "options": ["ないと いけません", "ても かまいません", "なくても いいです", "ないで ください"], "answer": 0 },
+          { "options": ["ため", "場合", "のに", "ところ"], "answer": 1 },
+          { "options": ["ので", "ために", "のに", "場合"], "answer": 2 }
+        ],
+        "explanation_ta": "［1］ கவனமாக இருக்க வேண்டும் → 気をつけないといけません. ［2］ 'நிலநடுக்கம் ஏற்பட்டால்' → 起きた場合は. ［3］ அணைத்தும் கவலை (எதிர்பார்ப்புக்கு மாறாக) → 消したのに.",
+        "explanation_en": "[1] You must be careful → 気をつけないといけません. [2] \"If an earthquake happens\" → 起きた場合は. [3] I turned it off, but I still worried → 消したのに."
+      }
+    ]
+  }
+}

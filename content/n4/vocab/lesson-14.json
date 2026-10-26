@@ -1,0 +1,326 @@
+[
+  {
+    "id": "n4-v-027",
+    "expression": "怒る",
+    "reading": "おこる",
+    "romaji": "okoru",
+    "en": "to get angry, to scold",
+    "ta": "கோபப்பட, கண்டிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "約束に遅れて行ったら、友達が怒りました。",
+        "reading": "やくそくに おくれて いったら、ともだちが おこりました。",
+        "romaji": "yakusoku ni okurete ittara, tomodachi ga okorimashita.",
+        "ta": "சந்திப்புக்குத் தாமதமாகப் போனதால் நண்பர் கோபப்பட்டார்.",
+        "en": "I was late to meet my friend, and he got angry."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-044",
+    "expression": "気",
+    "reading": "き",
+    "romaji": "ki",
+    "en": "mind, attention",
+    "ta": "மனம், கவனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "道を渡る時は、車に気をつけてください。",
+        "reading": "みちを わたる ときは、くるまに きを つけて ください。",
+        "romaji": "michi o wataru toki wa, kuruma ni ki o tsukete kudasai.",
+        "ta": "சாலையைக் கடக்கும்போது வாகனங்களைக் கவனித்துக்கொள்ளுங்கள்.",
+        "en": "Watch out for cars when you cross the road."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-084",
+    "expression": "地震",
+    "reading": "じしん",
+    "romaji": "jishin",
+    "en": "earthquake",
+    "ta": "நிலநடுக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日の夜、大きい地震がありました。",
+        "reading": "きのうの よる、おおきい じしんが ありました。",
+        "romaji": "kinou no yoru, ookii jishin ga arimashita.",
+        "ta": "நேற்று இரவு பெரிய நிலநடுக்கம் ஏற்பட்டது.",
+        "en": "There was a big earthquake last night."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-097",
+    "expression": "揺れる",
+    "reading": "ゆれる",
+    "romaji": "yureru",
+    "en": "to shake, to sway",
+    "ta": "அதிர, ஆட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "地震で家が揺れました。",
+        "reading": "じしんで いえが ゆれました。",
+        "romaji": "jishin de ie ga yuremashita.",
+        "ta": "நிலநடுக்கத்தால் வீடு அதிர்ந்தது.",
+        "en": "The house shook in the earthquake."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-100",
+    "expression": "悲しい",
+    "reading": "かなしい",
+    "romaji": "kanashii",
+    "en": "sad",
+    "ta": "சோகமான, வருத்தமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "友達が国へ帰って、悲しいです。",
+        "reading": "ともだちが くにへ かえって、かなしいです。",
+        "romaji": "tomodachi ga kuni e kaette, kanashii desu.",
+        "ta": "நண்பர் சொந்த நாட்டுக்குத் திரும்பிவிட்டதால் வருத்தமாக இருக்கிறது.",
+        "en": "My friend went back to her country, and I’m sad."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-140",
+    "expression": "怖い",
+    "reading": "こわい",
+    "romaji": "kowai",
+    "en": "scary, afraid",
+    "ta": "பயமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "私は大きい犬が怖いです。",
+        "reading": "わたしは おおきい いぬが こわいです。",
+        "romaji": "watashi wa ookii inu ga kowai desu.",
+        "ta": "எனக்குப் பெரிய நாய்கள் என்றால் பயம்.",
+        "en": "I’m afraid of big dogs."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-151",
+    "expression": "恥ずかしい",
+    "reading": "はずかしい",
+    "romaji": "hazukashii",
+    "en": "embarrassed, shy",
+    "ta": "வெட்கமான, கூச்சமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "みんなの前で歌うのは恥ずかしいです。",
+        "reading": "みんなの まえで うたうのは はずかしいです。",
+        "romaji": "minna no mae de utau no wa hazukashii desu.",
+        "ta": "எல்லோர் முன்னிலையிலும் பாடுவது கூச்சமாக இருக்கிறது.",
+        "en": "Singing in front of everyone is embarrassing."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-217",
+    "expression": "泣く",
+    "reading": "なく",
+    "romaji": "naku",
+    "en": "to cry",
+    "ta": "அழ",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "赤ちゃんが夜中に泣いています。",
+        "reading": "あかちゃんが よなかに ないて います。",
+        "romaji": "akachan ga yonaka ni naite imasu.",
+        "ta": "நள்ளிரவில் குழந்தை அழுதுகொண்டிருக்கிறது.",
+        "en": "The baby is crying in the middle of the night."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-234",
+    "expression": "驚く",
+    "reading": "おどろく",
+    "romaji": "odoroku",
+    "en": "to be surprised",
+    "ta": "வியப்படைய, ஆச்சரியப்பட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "東京の人の多さに驚きました。",
+        "reading": "とうきょうの ひとの おおさに おどろきました。",
+        "romaji": "toukyou no hito no oosa ni odorokimashita.",
+        "ta": "டோக்கியோவின் மக்கள் கூட்டத்தைப் பார்த்து வியந்தேன்.",
+        "en": "I was surprised at how many people there are in Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-250",
+    "expression": "心",
+    "reading": "こころ",
+    "romaji": "kokoro",
+    "en": "heart, mind",
+    "ta": "மனம், இதயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母の手紙を読んで、心が温かくなりました。",
+        "reading": "ははの てがみを よんで、こころが あたたかく なりました。",
+        "romaji": "haha no tegami o yonde, kokoro ga atatakaku narimashita.",
+        "ta": "அம்மாவின் கடிதத்தைப் படித்து மனம் நெகிழ்ந்தது.",
+        "en": "Reading my mother’s letter warmed my heart."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-284",
+    "expression": "寂しい",
+    "reading": "さびしい",
+    "romaji": "sabishii",
+    "en": "lonely",
+    "ta": "தனிமையான, ஏக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "一人で日本に住んでいるので、時々寂しいです。",
+        "reading": "ひとりで にほんに すんで いるので、ときどき さびしいです。",
+        "romaji": "hitori de nihon ni sunde iru node, tokidoki sabishii desu.",
+        "ta": "ஜப்பானில் தனியாக வசிப்பதால் சில நேரம் தனிமையாக உணர்கிறேன்.",
+        "en": "I live alone in Japan, so sometimes I feel lonely."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-320",
+    "expression": "喜ぶ",
+    "reading": "よろこぶ",
+    "romaji": "yorokobu",
+    "en": "to be delighted",
+    "ta": "மகிழ்ச்சியடைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "母はプレゼントをとても喜びました。",
+        "reading": "ははは プレゼントを とても よろこびました。",
+        "romaji": "haha wa purezento o totemo yorokobimashita.",
+        "ta": "அம்மா பரிசைப் பார்த்து மிகவும் மகிழ்ந்தார்.",
+        "en": "My mother was very happy with the present."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-338",
+    "expression": "気持ち",
+    "reading": "きもち",
+    "romaji": "kimochi",
+    "en": "feeling",
+    "ta": "உணர்வு, மனநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝の散歩は気持ちがいいです。",
+        "reading": "あさの さんぽは きもちが いいです。",
+        "romaji": "asa no sanpo wa kimochi ga ii desu.",
+        "ta": "காலை நடை இதமாக இருக்கிறது.",
+        "en": "A morning walk feels nice."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-392",
+    "expression": "びっくりする",
+    "reading": "びっくりする",
+    "romaji": "bikkurisuru",
+    "en": "to be surprised",
+    "ta": "திடுக்கிட, ஆச்சரியப்பட",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "後ろから名前を呼ばれて、びっくりしました。",
+        "reading": "うしろから なまえを よばれて、びっくりしました。",
+        "romaji": "ushiro kara namae o yobarete, bikkurishimashita.",
+        "ta": "பின்னாலிருந்து யாரோ என் பெயரைக் கூப்பிட்டதும் திடுக்கிட்டேன்.",
+        "en": "Someone called my name from behind, and I jumped."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-498",
+    "expression": "笑う",
+    "reading": "わらう",
+    "romaji": "warau",
+    "en": "to laugh, to smile",
+    "ta": "சிரிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "赤ちゃんが私を見て笑いました。",
+        "reading": "あかちゃんが わたしを みて わらいました。",
+        "romaji": "akachan ga watashi o mite waraimashita.",
+        "ta": "குழந்தை என்னைப் பார்த்துச் சிரித்தது.",
+        "en": "The baby looked at me and smiled."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-591",
+    "expression": "優しい",
+    "reading": "やさしい",
+    "romaji": "yasashii",
+    "en": "kind, gentle",
+    "ta": "அன்பான, இரக்கமுள்ள",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "祖母はいつも優しかったです。",
+        "reading": "そぼは いつも やさしかったです。",
+        "romaji": "sobo wa itsumo yasashikatta desu.",
+        "ta": "பாட்டி எப்போதும் அன்பாக இருந்தார்.",
+        "en": "My grandmother was always kind."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-636",
+    "expression": "お陰",
+    "reading": "おかげ",
+    "romaji": "okage",
+    "en": "thanks to",
+    "ta": "தயவால், உதவியால்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生のおかげで、試験に合格できました。",
+        "reading": "せんせいの おかげで、しけんに ごうかくできました。",
+        "romaji": "sensei no okage de, shiken ni goukakudekimashita.",
+        "ta": "ஆசிரியரின் உதவியால் தேர்வில் தேர்ச்சி பெற முடிந்தது.",
+        "en": "Thanks to my teacher, I passed the exam."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-656",
+    "expression": "嬉しい",
+    "reading": "うれしい",
+    "romaji": "ureshii",
+    "en": "glad, happy",
+    "ta": "மகிழ்ச்சியான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "友達から手紙が来て、うれしかったです。",
+        "reading": "ともだちから てがみが きて、うれしかったです。",
+        "romaji": "tomodachi kara tegami ga kite, ureshikatta desu.",
+        "ta": "நண்பரிடமிருந்து கடிதம் வந்ததில் மகிழ்ச்சியாக இருந்தது.",
+        "en": "I was happy to get a letter from my friend."
+      }
+    ]
+  }
+]

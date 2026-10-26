@@ -1,0 +1,326 @@
+[
+  {
+    "id": "n4-v-102",
+    "expression": "ガス",
+    "reading": "ガス",
+    "romaji": "gasu",
+    "en": "gas",
+    "ta": "எரிவாயு (கேஸ்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "出かける前に、ガスを消しましたか。",
+        "reading": "でかける まえに、ガスを けしましたか。",
+        "romaji": "dekakeru mae ni, gasu o keshimashita ka.",
+        "ta": "வெளியே போகும் முன் கேஸை அணைத்தீர்களா?",
+        "en": "Did you turn off the gas before you went out?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-165",
+    "expression": "場合",
+    "reading": "ばあい",
+    "romaji": "baai",
+    "en": "case; situation",
+    "ta": "சமயம் (நிலைமை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "雨の場合は、試合は来週になります。",
+        "reading": "あめの ばあいは、しあいは らいしゅうに なります。",
+        "romaji": "ame no baai wa, shiai wa raishuu ni narimasu.",
+        "ta": "மழை பெய்தால் போட்டி அடுத்த வாரத்துக்கு மாறும்.",
+        "en": "If it rains, the match will be next week."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-178",
+    "expression": "線",
+    "reading": "せん",
+    "romaji": "sen",
+    "en": "line",
+    "ta": "கோடு (கம்பி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車が来ますから、白い線の内側で待ってください。",
+        "reading": "でんしゃが きますから、しろい せんの うちがわで まって ください。",
+        "romaji": "densha ga kimasu kara, shiroi sen no uchigawa de matte kudasai.",
+        "ta": "ரயில் வருகிறது, வெள்ளைக் கோட்டுக்கு உள்ளே நின்று காத்திருங்கள்.",
+        "en": "A train is coming, so please wait behind the white line."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-221",
+    "expression": "水道",
+    "reading": "すいどう",
+    "romaji": "suidou",
+    "en": "water supply; tap water",
+    "ta": "குழாய்த் தண்ணீர் (நீர் வழங்கல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本では水道の水をそのまま飲んでも大丈夫です。",
+        "reading": "にほんでは すいどうの みずを そのまま のんでも だいじょうぶです。",
+        "romaji": "nihon de wa suidou no mizu o sono mama nonde mo daijoubu desu.",
+        "ta": "ஜப்பானில் குழாய்த் தண்ணீரை அப்படியே குடிக்கலாம்.",
+        "en": "In Japan you can drink tap water as it is."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-223",
+    "expression": "ベル",
+    "reading": "ベル",
+    "romaji": "beru",
+    "en": "bell",
+    "ta": "மணி (அழைப்பு மணி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "授業の終わりのベルが鳴りました。",
+        "reading": "じゅぎょうの おわりの ベルが なりました。",
+        "romaji": "jugyou no owari no beru ga narimashita.",
+        "ta": "வகுப்பு முடிந்ததற்கான மணி அடித்தது.",
+        "en": "The bell rang for the end of class."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-233",
+    "expression": "原因",
+    "reading": "げんいん",
+    "romaji": "gen'in",
+    "en": "cause",
+    "ta": "காரணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "火事の原因はたばこでした。",
+        "reading": "かじの げんいんは たばこでした。",
+        "romaji": "kaji no gen'in wa tabako deshita.",
+        "ta": "தீ விபத்துக்குக் காரணம் சிகரெட்.",
+        "en": "The cause of the fire was a cigarette."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-285",
+    "expression": "火",
+    "reading": "ひ",
+    "romaji": "hi",
+    "en": "fire; flame",
+    "ta": "நெருப்பு (தீ)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "料理が終わったら、すぐ火を消してください。",
+        "reading": "りょうりが おわったら、すぐ ひを けして ください。",
+        "romaji": "ryouri ga owattara, sugu hi o keshite kudasai.",
+        "ta": "சமையல் முடிந்தவுடன் உடனே அடுப்பை அணையுங்கள்.",
+        "en": "When you finish cooking, turn off the flame right away."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-331",
+    "expression": "冷房",
+    "reading": "れいぼう",
+    "romaji": "reibou",
+    "en": "air conditioning",
+    "ta": "குளிரூட்டி (ஏசி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暑いので、冷房をつけましょう。",
+        "reading": "あついので、れいぼうを つけましょう。",
+        "romaji": "atsui node, reibou o tsukemashou.",
+        "ta": "வெப்பமாக இருப்பதால் ஏசியைப் போடுவோம்.",
+        "en": "It’s hot, so let’s turn on the air conditioning."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-348",
+    "expression": "火事",
+    "reading": "かじ",
+    "romaji": "kaji",
+    "en": "fire (accident)",
+    "ta": "தீ விபத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日の夜、近くで火事がありました。",
+        "reading": "きのうの よる、ちかくで かじが ありました。",
+        "romaji": "kinou no yoru, chikaku de kaji ga arimashita.",
+        "ta": "நேற்றிரவு அருகில் ஒரு தீ விபத்து நடந்தது.",
+        "en": "There was a fire nearby last night."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-389",
+    "expression": "電灯",
+    "reading": "でんとう",
+    "romaji": "dentou",
+    "en": "electric light",
+    "ta": "மின்விளக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台所の電灯がつきません。",
+        "reading": "だいどころの でんとうが つきません。",
+        "romaji": "daidokoro no dentou ga tsukimasen.",
+        "ta": "சமையலறை மின்விளக்கு எரியவில்லை.",
+        "en": "The kitchen light won’t come on."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-451",
+    "expression": "危険",
+    "reading": "きけん",
+    "romaji": "kiken",
+    "en": "dangerous; danger",
+    "ta": "ஆபத்தான (ஆபத்து)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この川で泳ぐのは危険です。",
+        "reading": "この かわで およぐのは きけんです。",
+        "romaji": "kono kawa de oyogu no wa kiken desu.",
+        "ta": "இந்த ஆற்றில் நீந்துவது ஆபத்தானது.",
+        "en": "Swimming in this river is dangerous."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-486",
+    "expression": "暖房",
+    "reading": "だんぼう",
+    "romaji": "danbou",
+    "en": "heating",
+    "ta": "வெப்பமூட்டி (ஹீட்டர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "寒くなったので、暖房をつけました。",
+        "reading": "さむく なったので、だんぼうを つけました。",
+        "romaji": "samuku natta node, danbou o tsukemashita.",
+        "ta": "குளிராகிவிட்டதால் ஹீட்டரைப் போட்டேன்.",
+        "en": "It got cold, so I turned on the heating."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-531",
+    "expression": "安心",
+    "reading": "あんしん",
+    "romaji": "anshin",
+    "en": "relief; peace of mind",
+    "ta": "நிம்மதி",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "母の病気が治って、安心しました。",
+        "reading": "ははの びょうきが なおって、あんしんしました。",
+        "romaji": "haha no byouki ga naotte, anshin shimashita.",
+        "ta": "அம்மாவின் நோய் குணமானதால் நிம்மதி அடைந்தேன்.",
+        "en": "I was relieved that my mother got better."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-552",
+    "expression": "構う",
+    "reading": "かまう",
+    "romaji": "kamau",
+    "en": "to mind; to care",
+    "ta": "பொருட்படுத்த (கவலைப்பட)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "「ここに座ってもいいですか。」「ええ、かまいませんよ。」",
+        "reading": "「ここに すわっても いいですか。」「ええ、かまいませんよ。」",
+        "romaji": "\"koko ni suwatte mo ii desu ka.\" \"ee, kamaimasen yo.\"",
+        "ta": "\"இங்கே உட்காரலாமா?\" \"ஆமாம், பரவாயில்லை.\"",
+        "en": "\"May I sit here?\" \"Sure, I don’t mind.\""
+      }
+    ]
+  },
+  {
+    "id": "n4-v-567",
+    "expression": "倒れる",
+    "reading": "たおれる",
+    "romaji": "taoreru",
+    "en": "to fall down; to collapse",
+    "ta": "விழ (சரிந்து விழ)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "強い風で、公園の木が倒れました。",
+        "reading": "つよい かぜで、こうえんの きが たおれました。",
+        "romaji": "tsuyoi kaze de, kouen no ki ga taoremashita.",
+        "ta": "பலத்த காற்றால் பூங்காவின் மரம் சரிந்து விழுந்தது.",
+        "en": "A tree in the park fell down in the strong wind."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-587",
+    "expression": "動く",
+    "reading": "うごく",
+    "romaji": "ugoku",
+    "en": "to move; to work (machine)",
+    "ta": "நகர (இயங்க)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "エレベーターが動きませんから、階段を使ってください。",
+        "reading": "エレベーターが うごきませんから、かいだんを つかって ください。",
+        "romaji": "erebeetaa ga ugokimasen kara, kaidan o tsukatte kudasai.",
+        "ta": "லிஃப்ட் இயங்கவில்லை, படிக்கட்டைப் பயன்படுத்துங்கள்.",
+        "en": "The lift isn’t working, so please use the stairs."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-626",
+    "expression": "安全",
+    "reading": "あんぜん",
+    "romaji": "anzen",
+    "en": "safe; safety",
+    "ta": "பாதுகாப்பான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "地震のときは、机の下が安全です。",
+        "reading": "じしんの ときは、つくえの したが あんぜんです。",
+        "romaji": "jishin no toki wa, tsukue no shita ga anzen desu.",
+        "ta": "நிலநடுக்கத்தின்போது மேசைக்கு அடியில் இருப்பது பாதுகாப்பானது.",
+        "en": "In an earthquake, under the desk is safe."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-650",
+    "expression": "急",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "en": "sudden; urgent",
+    "ta": "திடீர் (அவசரமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "急な用事ができて、パーティーに行けません。",
+        "reading": "きゅうな ようじが できて、パーティーに いけません。",
+        "romaji": "kyuu na youji ga dekite, paatii ni ikemasen.",
+        "ta": "திடீரென்று ஒரு வேலை வந்ததால் விருந்துக்குப் போக முடியாது.",
+        "en": "Something urgent came up, so I can’t go to the party."
+      }
+    ]
+  }
+]

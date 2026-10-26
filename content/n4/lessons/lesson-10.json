@@ -1,0 +1,166 @@
+{
+  "lesson": 10,
+  "title": { "ja": "安ければ買います", "ta": "மலிவாக இருந்தால் வாங்குவேன்", "en": "If it's cheap, I'll buy it" },
+  "intro_ta": "இந்தப் பாடத்தில் 'நிபந்தனை' வடிவமான ば-வடிவத்தைக் கற்போம்: 安ければ買います = 'மலிவாக இருந்தால் வாங்குவேன்'. இது தமிழின் '-ஆல் / -ஆனால்' (வந்தால், மலிவானால்) போன்றது. 'கணினி என்றால் அகிஹபாரா நல்லது' (〜なら), 'படிக்கப் படிக்க சுவாரசியம்' (〜ば〜ほど), 'பொருளும் அதிகம், விலையும் குறைவு' (〜も〜ば、〜も), 'முன்பே வாங்கியிருக்கலாம்' (〜ばよかった), 'கேட்டுப் பார்த்தால் என்ன?' (〜たらどうですか) ஆகியவற்றையும் கற்போம். மின்னணுப் பொருட்கள், மளிகை வாங்கும்போது இவை மிகவும் பயன்படும்.",
+  "intro_en": "In this lesson you learn the ば-form for \"if\": 安ければ買います = \"if it’s cheap, I’ll buy it\". It is like Tamil -ஆல் / -ஆனால் (வந்தால் \"if he comes\", மலிவானால் \"if it’s cheap\"). You also learn: \"if it’s computers, Akihabara is good\" (〜なら); \"the more you study, the more fun it is\" (〜ば〜ほど); \"lots of goods, and low prices too\" (〜も〜ば、〜も); \"I should have bought it earlier\" (〜ばよかった); and \"why don’t you ask?\" (〜たらどうですか). These are very useful when you shop for electronics and groceries.",
+  "grammar": [
+    {
+      "id": "g10-1",
+      "pattern": "ば-form conditional (V-ば / い-adj-ければ / な-adj・N なら)",
+      "name": { "en": "The ば-form: if …", "ta": "ば-வடிவம்: 〜 ஆனால் / 〜 இருந்தால்" },
+      "explanation_ta": "ば-வடிவம் 'இது நடந்தால், அது நடக்கும்' என்ற நிபந்தனையைக் காட்டும். உருவாக்கும் விதம்: குழு I-இல் கடைசி 'உ' ஒலியை 'எ' ஒலியாக்கி ば (行く → 行けば, 買う → 買えば, 待つ → 待てば). குழு II-இல் る → れば (食べる → 食べれば). する → すれば, 来る → 来れば (くれば). எதிர்மறை: ない → なければ. い-பெயரடை: い → ければ (安い → 安ければ, いい → よければ). な-பெயரடை / பெயர்ச்சொல்: なら (静かなら, 雨なら). 'என்ன செய்ய வேண்டும்?' என்று கேட்க: どうすればいいですか. N5-இல் கற்ற たら பொதுவானது (கடந்த கால நிகழ்ச்சிக்கும் வரும்); ば 'நிபந்தனை - விளைவு' உறவை வலியுறுத்தும். ば-வாக்கியத்தின் முதல் பகுதி செயல் (行けば) ஆக இருந்தால், இரண்டாம் பகுதியில் ましょう / ください போன்றவை பொதுவாக வராது; அதற்கு たら.",
+      "explanation_en": "The ば-form shows a condition: \"if this happens, that happens\". How to make it: Group I changes the last u-sound to an e-sound + ば (行く → 行けば, 買う → 買えば, 待つ → 待てば). Group II: る → れば (食べる → 食べれば). する → すれば, 来る → 来れば (くれば). Negative: ない → なければ. い-adjectives: い → ければ (安い → 安ければ, いい → よければ). な-adjectives and nouns use なら (静かなら, 雨なら). To ask \"what should I do?\", say どうすればいいですか. You know たら from N5. たら is more general and also works for past events. ば stresses the link \"condition → result\". If the ば-part is an action (行けば), the second part usually can’t be ましょう or ください. Use たら for that.",
+      "tamil_parallel": "மலிவாக இருந்தால் வாங்குவேன் = 安ければ買います; இந்தப் பொத்தானை அழுத்தினால் விளக்கு எரியும் = このボタンを押せば、電気がつきます",
+      "tamil_parallel_en": "மலிவாக இருந்தால் வாங்குவேன் (if it’s cheap, I’ll buy it) = 安ければ買います; இந்தப் பொத்தானை அழுத்தினால் விளக்கு எரியும் (if you press this button, the light comes on) = このボタンを押せば、電気がつきます",
+      "formation": "குழு I: 行く → 行けば、買う → 買えば、押す → 押せば、ある → あれば\nகுழு II: 食べる → 食べれば、見る → 見れば\nகுழு III: する → すれば、来る → 来れば (くれば)\nஎதிர்மறை: 行かない → 行かなければ\nい-பெயரடை: 安い → 安ければ、いい → よければ\nな-பெயரடை / பெயர்ச்சொல்: 静か → 静かなら、雨 → 雨なら",
+      "formation_en": "Group I: 行く → 行けば、買う → 買えば、押す → 押せば、ある → あれば\nGroup II: 食べる → 食べれば、見る → 見れば\nGroup III: する → すれば、来る → 来れば (くれば)\nNegative: 行かない → 行かなければ\nい-adj: 安い → 安ければ、いい → よければ\nな-adj / noun: 静か → 静かなら、雨 → 雨なら",
+      "examples": [
+        { "ja": "安ければ、買います。", "reading": "やすければ、かいます。", "romaji": "yasukereba, kaimasu.", "ta": "மலிவாக இருந்தால் வாங்குவேன்.", "en": "If it’s cheap, I’ll buy it." },
+        { "ja": "このボタンを押せば、電気がつきます。", "reading": "この ボタンを おせば、でんきが つきます。", "romaji": "kono botan o oseba, denki ga tsukimasu.", "ta": "இந்தப் பொத்தானை அழுத்தினால் விளக்கு எரியும்.", "en": "If you press this button, the light comes on." },
+        { "ja": "天気がよければ、ここから富士山が見えます。", "reading": "てんきが よければ、ここから ふじさんが みえます。", "romaji": "tenki ga yokereba, koko kara fujisan ga miemasu.", "ta": "வானிலை நன்றாக இருந்தால் இங்கிருந்து ஃபுஜி மலை தெரியும்.", "en": "If the weather is good, you can see Mt Fuji from here." },
+        { "ja": "雨が降らなければ、海岸を散歩しましょう。", "reading": "あめが ふらなければ、かいがんを さんぽしましょう。", "romaji": "ame ga furanakereba, kaigan o sanpo shimashou.", "ta": "மழை பெய்யாவிட்டால் கடற்கரையில் நடப்போம்.", "en": "If it doesn’t rain, let’s walk along the beach." },
+        { "ja": "「パソコンが動きません。どうすればいいですか。」「店員に聞けばいいですよ。」", "reading": "「パソコンが うごきません。どう すれば いいですか。」「てんいんに きけば いいですよ。」", "romaji": "\"pasokon ga ugokimasen. dou sureba ii desu ka.\" \"ten'in ni kikeba ii desu yo.\"", "ta": "'கணினி வேலை செய்யவில்லை. நான் என்ன செய்ய வேண்டும்?' 'கடை ஊழியரிடம் கேட்டால் போதும்.'", "en": "“My computer doesn’t work. What should I do?” “You just need to ask a shop assistant.”" },
+        { "ja": "静かなら、この部屋がいいです。", "reading": "しずかなら、この へやが いいです。", "romaji": "shizuka nara, kono heya ga ii desu.", "ta": "அமைதியாக இருந்தால் இந்த அறையே நல்லது.", "en": "If it’s quiet, this room is fine." },
+        { "ja": "このソフトを使えば、だれでも簡単に絵がかけます。", "reading": "この ソフトを つかえば、だれでも かんたんに えが かけます。", "romaji": "kono sofuto o tsukaeba, dare demo kantan ni e ga kakemasu.", "ta": "இந்த மென்பொருளைப் பயன்படுத்தினால் யாரும் எளிதாகப் படம் வரையலாம்.", "en": "With this software, anyone can draw pictures easily." }
+      ],
+      "pitfalls_ta": "いい-யின் ば-வடிவம் よければ (いければ அல்ல). な-பெயரடைக்கு 静かければ என்று சொல்லக் கூடாது; 静かなら.",
+      "pitfalls_en": "The ば-form of いい is よければ, not いければ. For な-adjectives, don’t say 静かければ. Say 静かなら."
+    },
+    {
+      "id": "g10-2",
+      "pattern": "N なら、〜",
+      "name": { "en": "If it’s about N … (advice)", "ta": "N என்றால், 〜 (ஆலோசனை)" },
+      "explanation_ta": "மற்றவர் ஒரு விஷயத்தைப் பற்றிப் பேசும்போது, அதை எடுத்துக்கொண்டு ஆலோசனை / தகவல் சொல்ல 'N なら' பயன்படும்: 'パソコンが欲しいんですが。' 'パソコンなら、秋葉原がいいですよ。' = 'கணினி என்றால் அகிஹபாரா நல்லது'. தமிழில் 'கணினி என்றால்…', 'அது பற்றியா? அப்படியென்றால்…' என்று பதில் சொல்வது போல. வினைக்குப் பின்னும் வரலாம்: 京都へ行くなら、秋がいいですよ ('கியோட்டோ போவதாக இருந்தால்…'). யாரையாவது தேடும்போதும்: 田中さんなら、もう帰りましたよ.",
+      "explanation_en": "When someone brings up a topic, you pick it up with N なら and give advice or information. \"パソコンが欲しいんですが。\" \"パソコンなら、秋葉原がいいですよ。\" = \"If it’s computers, Akihabara is good\". It is like answering in Tamil கணினி என்றால்… (\"if it’s computers…\"). It can also follow a verb: 京都へ行くなら、秋がいいですよ (\"if you’re going to Kyoto, autumn is good\"). Also when someone is looking for a person: 田中さんなら、もう帰りましたよ (\"Mr Tanaka? He’s already gone home\").",
+      "tamil_parallel": "கணினி என்றால் அகிஹபாரா நல்லது = パソコンなら、秋葉原がいいですよ",
+      "tamil_parallel_en": "கணினி என்றால் அகிஹபாரா நல்லது (if it’s computers, Akihabara is good) = パソコンなら、秋葉原がいいですよ",
+      "formation": "(மற்றவர் சொன்ன) N + なら、ஆலோசனை / தகவல்\nV-அகராதி வடிவம் + なら、ஆலோசனை",
+      "formation_en": "N (the topic someone raised) + なら、advice / information\nV-dictionary form + なら、advice",
+      "examples": [
+        { "ja": "「パソコンが欲しいんですが。」「パソコンなら、秋葉原がいいですよ。」", "reading": "「パソコンが ほしいんですが。」「パソコンなら、あきはばらが いいですよ。」", "romaji": "\"pasokon ga hoshiin desu ga.\" \"pasokon nara, akihabara ga ii desu yo.\"", "ta": "'எனக்குக் கணினி வேண்டும்…' 'கணினி என்றால் அகிஹபாரா நல்லது.'", "en": "“I want a computer…” “For computers, Akihabara is good.”" },
+        { "ja": "「カメラを買いたいんですが。」「カメラなら、日本製がいいですよ。」", "reading": "「カメラを かいたいんですが。」「カメラなら、にほんせいが いいですよ。」", "romaji": "\"kamera o kaitain desu ga.\" \"kamera nara, nihonsei ga ii desu yo.\"", "ta": "'கேமரா வாங்க வேண்டும்…' 'கேமரா என்றால் ஜப்பான் தயாரிப்பு நல்லது.'", "en": "“I want to buy a camera…” “For cameras, Japanese-made ones are good.”" },
+        { "ja": "「食料品はどこで買えますか。」「食料品なら、駅前のスーパーが安いですよ。」", "reading": "「しょくりょうひんは どこで かえますか。」「しょくりょうひんなら、えきまえの スーパーが やすいですよ。」", "romaji": "\"shokuryouhin wa doko de kaemasu ka.\" \"shokuryouhin nara, ekimae no suupaa ga yasui desu yo.\"", "ta": "'மளிகைப் பொருட்களை எங்கே வாங்கலாம்?' 'மளிகை என்றால் ஸ்டேஷன் முன் உள்ள சூப்பர் மார்க்கெட் மலிவு.'", "en": "“Where can I buy groceries?” “For groceries, the supermarket by the station is cheap.”" },
+        { "ja": "「田中さんはいますか。」「田中さんなら、もう帰りましたよ。」", "reading": "「たなかさんは いますか。」「たなかさんなら、もう かえりましたよ。」", "romaji": "\"tanaka-san wa imasu ka.\" \"tanaka-san nara, mou kaerimashita yo.\"", "ta": "'தனகா இருக்கிறாரா?' 'தனகாவா? அவர் ஏற்கெனவே வீட்டுக்குப் போய்விட்டார்.'", "en": "“Is Mr Tanaka here?” “Mr Tanaka? He’s already gone home.”" },
+        { "ja": "「京都へ行くんです。」「京都へ行くなら、秋がいいですよ。」", "reading": "「きょうとへ いくんです。」「きょうとへ いくなら、あきが いいですよ。」", "romaji": "\"kyouto e ikun desu.\" \"kyouto e iku nara, aki ga ii desu yo.\"", "ta": "'கியோட்டோ போகிறேன்.' 'கியோட்டோ போவதாக இருந்தால் இலையுதிர் காலம் நல்லது.'", "en": "“I’m going to Kyoto.” “If you’re going to Kyoto, autumn is a good time.”" },
+        { "ja": "「辞書を探しているんですが。」「辞書なら、二階の売り場にありますよ。」", "reading": "「じしょを さがして いるんですが。」「じしょなら、にかいの うりばに ありますよ。」", "romaji": "\"jisho o sagashite irun desu ga.\" \"jisho nara, nikai no uriba ni arimasu yo.\"", "ta": "'அகராதி தேடுகிறேன்…' 'அகராதி என்றால் இரண்டாவது மாடி விற்பனைப் பகுதியில் இருக்கிறது.'", "en": "“I’m looking for a dictionary…” “Dictionaries are in the section on the second floor.”" }
+      ],
+      "pitfalls_ta": "なら பெரும்பாலும் மற்றவர் எழுப்பிய விஷயத்துக்குப் பதிலாக வரும். நீங்களே புதிதாக ஒரு நிபந்தனை சொல்ல ば அல்லது たら சிறந்தது.",
+      "pitfalls_en": "なら usually replies to a topic someone else raised. To give a new condition of your own, ば or たら is better."
+    },
+    {
+      "id": "g10-3",
+      "pattern": "V-ば V-dict ほど",
+      "name": { "en": "The more …, the more …", "ta": "〜க்க 〜க்க (மேலும் மேலும்)" },
+      "explanation_ta": "ஒரே வினை / பெயரடையை இரண்டு முறை சொல்லுங்கள்: முதலில் ば-வடிவம், பிறகு அகராதி வடிவம் + ほど. பொருள்: 'எவ்வளவு அதிகம் 〜 செய்கிறோமோ, அவ்வளவு அதிகம் 〜'. 勉強すれば勉強するほどおもしろくなります = 'படிக்கப் படிக்க சுவாரசியமாகிறது'. தமிழின் 'படிக்கப் படிக்க', 'பார்க்கப் பார்க்க' என்ற இரட்டிப்பு அமைப்புக்கு மிக நெருக்கமானது. い-பெயரடை: 新しければ新しいほど. な-பெயரடை: 静かなら静かなほど. する வினைகளுக்குச் சுருக்கமாக すればするほど.",
+      "explanation_en": "Say the same verb or adjective twice: first the ば-form, then the dictionary form + ほど. It means \"the more you …, the more …\". 勉強すれば勉強するほどおもしろくなります = \"the more you study, the more interesting it gets\". It is very close to the Tamil doubled form படிக்கப் படிக்க (\"the more you read\") or பார்க்கப் பார்க்க (\"the more you look\"). い-adjectives: 新しければ新しいほど. な-adjectives: 静かなら静かなほど. For する verbs, the short form すればするほど is common.",
+      "tamil_parallel": "படிக்கப் படிக்க சுவாரசியம் கூடும் = 勉強すれば勉強するほどおもしろくなります",
+      "tamil_parallel_en": "படிக்கப் படிக்க சுவாரசியம் கூடும் (the more you study, the more fun it gets) = 勉強すれば勉強するほどおもしろくなります",
+      "formation": "V-ば + V-அகராதி வடிவம் + ほど (行けば行くほど)\nい-பெயரடை-ければ + い-பெயரடை + ほど (安ければ安いほど)\nな-பெயரடை + なら + な-பெயரடை + な + ほど (静かなら静かなほど)",
+      "formation_en": "V-ば + V-dictionary form + ほど (行けば行くほど)\nい-adj-ければ + い-adj + ほど (安ければ安いほど)\nな-adj + なら + な-adj + な + ほど (静かなら静かなほど)",
+      "examples": [
+        { "ja": "日本語は勉強すればするほどおもしろくなります。", "reading": "にほんごは べんきょう すれば するほど おもしろく なります。", "romaji": "nihongo wa benkyou sureba suru hodo omoshiroku narimasu.", "ta": "ஜப்பானிய மொழியைப் படிக்கப் படிக்க சுவாரசியம் கூடும்.", "en": "The more you study Japanese, the more interesting it gets." },
+        { "ja": "野菜は新しければ新しいほどおいしいです。", "reading": "やさいは あたらしければ あたらしいほど おいしいです。", "romaji": "yasai wa atarashikereba atarashii hodo oishii desu.", "ta": "காய்கறி எவ்வளவு புதிதோ அவ்வளவு சுவை.", "en": "The fresher the vegetables, the tastier they are." },
+        { "ja": "パソコンは軽ければ軽いほど値段が高いです。", "reading": "パソコンは かるければ かるいほど ねだんが たかいです。", "romaji": "pasokon wa karukereba karui hodo nedan ga takai desu.", "ta": "கணினி எவ்வளவு எடை குறைவோ அவ்வளவு விலை அதிகம்.", "en": "The lighter a computer is, the more expensive it is." },
+        { "ja": "練習すればするほど上手になります。", "reading": "れんしゅう すれば するほど じょうずに なります。", "romaji": "renshuu sureba suru hodo jouzu ni narimasu.", "ta": "பயிற்சி செய்யச் செய்யத் திறமை கூடும்.", "en": "The more you practise, the better you get." },
+        { "ja": "考えれば考えるほどわからなくなりました。", "reading": "かんがえれば かんがえるほど わからなく なりました。", "romaji": "kangaereba kangaeru hodo wakaranaku narimashita.", "ta": "யோசிக்க யோசிக்கக் குழப்பம் அதிகமானது.", "en": "The more I thought about it, the less I understood." },
+        { "ja": "部屋は静かなら静かなほどいいです。", "reading": "へやは しずかなら しずかなほど いいです。", "romaji": "heya wa shizuka nara shizuka na hodo ii desu.", "ta": "அறை எவ்வளவு அமைதியோ அவ்வளவு நல்லது.", "en": "The quieter the room, the better." }
+      ],
+      "pitfalls_ta": "இரண்டாவது முறை அகராதி வடிவம் வேண்டும்: 行けば行けるほど அல்லது 行けば行ったほど தவறு; 行けば行くほど சரி.",
+      "pitfalls_en": "The second word must be the dictionary form. 行けば行けるほど and 行けば行ったほど are wrong. Say 行けば行くほど."
+    },
+    {
+      "id": "g10-4",
+      "pattern": "N も 〜ば、N も 〜",
+      "name": { "en": "Both … and … (listing points)", "ta": "〜வும் 〜, 〜வும் 〜" },
+      "explanation_ta": "ஒன்றைப் பற்றி இரண்டு நல்ல (அல்லது இரண்டு கெட்ட) அம்சங்களைச் சேர்த்துச் சொல்ல: 'N1 も 〜ば、N2 も 〜'. この店は品物も多ければ、値段も安いです = 'இந்தக் கடையில் பொருளும் அதிகம், விலையும் குறைவு'. இங்கே ば 'ஆனால்' என்ற நிபந்தனைப் பொருள் இல்லை; 'மேலும்' என்ற பொருள். தமிழின் '〜உம் 〜உம்' (பொருளும் அதிகம், விலையும் குறைவு). பாடம் 3-இல் கற்ற 〜し、〜し இதைப் போன்றது; இது சற்று எழுத்து நடை. எதிர்மறையிலும்: お金もなければ、時間もない = 'பணமும் இல்லை, நேரமும் இல்லை'.",
+      "explanation_en": "To list two good (or two bad) points about something: N1 も 〜ば、N2 も 〜. この店は品物も多ければ、値段も安いです = \"This shop has lots of goods, and low prices too\". Here ば does not mean \"if\". It means \"and also\". It is like Tamil 〜உம் 〜உம் (பொருளும் அதிகம், விலையும் குறைவு, \"many goods and low prices\"). It is like 〜し、〜し from Lesson 3, but a little more written. It also works with negatives: お金もなければ、時間もない = \"I have neither money nor time\".",
+      "tamil_parallel": "பொருளும் அதிகம், விலையும் குறைவு = 品物も多ければ、値段も安い",
+      "tamil_parallel_en": "பொருளும் அதிகம், விலையும் குறைவு (many goods, and low prices too) = 品物も多ければ、値段も安い",
+      "formation": "N1 も + V-ば / い-பெயரடை-ければ / な-பெயரடை なら 、N2 も + 〜\nஎதிர்மறை: N1 も 〜なければ、N2 も 〜ない",
+      "formation_en": "N1 も + V-ば / い-adj-ければ / な-adj なら 、N2 も + 〜\nNegative: N1 も 〜なければ、N2 も 〜ない",
+      "examples": [
+        { "ja": "この店は品物も多ければ、値段も安いです。", "reading": "この みせは しなものも おおければ、ねだんも やすいです。", "romaji": "kono mise wa shinamono mo ookereba, nedan mo yasui desu.", "ta": "இந்தக் கடையில் பொருள்களும் அதிகம், விலையும் குறைவு.", "en": "This shop has lots of goods, and the prices are low too." },
+        { "ja": "ラジュさんは英語も話せれば、日本語も話せます。", "reading": "ラジュさんは えいごも はなせれば、にほんごも はなせます。", "romaji": "raju-san wa eigo mo hanasereba, nihongo mo hanasemasu.", "ta": "ராஜு ஆங்கிலமும் பேசுவார், ஜப்பானிய மொழியும் பேசுவார்.", "en": "Raju can speak both English and Japanese." },
+        { "ja": "このスーパーは駅にも近ければ、駐車場もあります。", "reading": "この スーパーは えきにも ちかければ、ちゅうしゃじょうも あります。", "romaji": "kono suupaa wa eki ni mo chikakereba, chuushajou mo arimasu.", "ta": "இந்த சூப்பர் மார்க்கெட் ஸ்டேஷனுக்கும் அருகில், வாகன நிறுத்துமிடமும் உண்டு.", "en": "This supermarket is close to the station, and it has a car park too." },
+        { "ja": "姉は歌も上手なら、ダンスも上手です。", "reading": "あねは うたも じょうずなら、ダンスも じょうずです。", "romaji": "ane wa uta mo jouzu nara, dansu mo jouzu desu.", "ta": "அக்கா பாடுவதிலும் திறமைசாலி, நடனத்திலும் திறமைசாலி.", "en": "My older sister is good at both singing and dancing." },
+        { "ja": "このパソコンはデザインもよければ、値段も安いです。", "reading": "この パソコンは デザインも よければ、ねだんも やすいです。", "romaji": "kono pasokon wa dezain mo yokereba, nedan mo yasui desu.", "ta": "இந்தக் கணினியின் வடிவமைப்பும் நன்று, விலையும் குறைவு.", "en": "This computer looks good, and it’s cheap too." },
+        { "ja": "今月はお金もなければ、時間もありません。", "reading": "こんげつは おかねも なければ、じかんも ありません。", "romaji": "kongetsu wa okane mo nakereba, jikan mo arimasen.", "ta": "இந்த மாதம் பணமும் இல்லை, நேரமும் இல்லை.", "en": "This month I have neither money nor time." }
+      ],
+      "pitfalls_ta": "ஒரு நல்லதையும் ஒரு கெட்டதையும் சேர்க்க வேண்டாம் (品物も多ければ、値段も高いです இயல்பற்றது). இரண்டும் ஒரே திசையில் இருக்க வேண்டும்.",
+      "pitfalls_en": "Don’t mix one good point and one bad point (品物も多ければ、値段も高いです sounds odd). Both points should go the same way."
+    },
+    {
+      "id": "g10-5",
+      "pattern": "V-ばよかった",
+      "name": { "en": "I should have … (regret)", "ta": "〜 செய்திருக்கலாம் (வருத்தம்)" },
+      "explanation_ta": "V-ば + よかった = 'செய்திருந்தால் நன்றாக இருந்திருக்கும்' = 'செய்திருக்கலாம்'. செய்யாமல் விட்டதற்கான வருத்தம்: もっと早く買えばよかった = 'இன்னும் முன்பே வாங்கியிருக்கலாம்'. எதிர்மறை 〜なければよかった = 'செய்யாமல் இருந்திருக்கலாம்' (செய்ததற்கான வருத்தம்): 買わなければよかった. மரியாதையாக 〜ばよかったです. மற்றவருக்குச் சொன்னால் 'நீங்கள் 〜 செய்திருக்கலாமே' என்ற குறை கூறும் பொருள் வரும், கவனம். பாடம் 4-இல் கற்ற 〜てしまいました நடந்ததற்கான வருத்தம்; 〜ばよかった 'வேறு மாதிரி செய்திருக்கலாம்' என்ற எண்ணம்.",
+      "explanation_en": "V-ば + よかった = \"it would have been good if I had done it\" = \"I should have done it\". It is regret about something you didn’t do: もっと早く買えばよかった = \"I should have bought it earlier\". The negative 〜なければよかった = \"I shouldn’t have done it\" (regret about something you did): 買わなければよかった. To be polite, say 〜ばよかったです. If you say it to another person, it sounds like blame: \"you should have …\". Be careful. 〜てしまいました (Lesson 4) is regret about what happened. 〜ばよかった is the thought \"I should have done it differently\".",
+      "tamil_parallel": "இன்னும் முன்பே வாங்கியிருக்கலாம் = もっと早く買えばよかった; வாங்காமல் இருந்திருக்கலாம் = 買わなければよかった",
+      "tamil_parallel_en": "இன்னும் முன்பே வாங்கியிருக்கலாம் (I should have bought it earlier) = もっと早く買えばよかった; வாங்காமல் இருந்திருக்கலாம் (I shouldn’t have bought it) = 買わなければよかった",
+      "formation": "V-ば + よかった (です)\nV-なければ + よかった (です)",
+      "formation_en": "V-ば + よかった (です)\nV-なければ + よかった (です)",
+      "examples": [
+        { "ja": "もっと早く買えばよかったです。", "reading": "もっと はやく かえば よかったです。", "romaji": "motto hayaku kaeba yokatta desu.", "ta": "இன்னும் முன்பே வாங்கியிருக்கலாம்.", "en": "I should have bought it sooner." },
+        { "ja": "雨だ。傘を持って来ればよかった。", "reading": "あめだ。かさを もって くれば よかった。", "romaji": "ame da. kasa o motte kureba yokatta.", "ta": "மழை! குடையைக் கொண்டு வந்திருக்கலாம்.", "en": "It’s raining. I should have brought an umbrella." },
+        { "ja": "学生の時、もっと勉強すればよかったです。", "reading": "がくせいの とき、もっと べんきょうすれば よかったです。", "romaji": "gakusei no toki, motto benkyou sureba yokatta desu.", "ta": "மாணவனாக இருந்தபோது இன்னும் அதிகம் படித்திருக்கலாம்.", "en": "I should have studied more when I was a student." },
+        { "ja": "こんなに高いパソコンを買わなければよかった。", "reading": "こんなに たかい パソコンを かわなければ よかった。", "romaji": "konna ni takai pasokon o kawanakereba yokatta.", "ta": "இவ்வளவு விலையுயர்ந்த கணினியை வாங்காமல் இருந்திருக்கலாம்.", "en": "I shouldn’t have bought such an expensive computer." },
+        { "ja": "わからなかったら、店員に聞けばよかったですね。", "reading": "わからなかったら、てんいんに きけば よかったですね。", "romaji": "wakaranakattara, ten'in ni kikeba yokatta desu ne.", "ta": "புரியவில்லை என்றால் கடை ஊழியரிடம் கேட்டிருக்கலாமே.", "en": "If you didn’t understand, you should have asked a shop assistant." },
+        { "ja": "安い時に買っておけばよかった。", "reading": "やすい ときに かって おけば よかった。", "romaji": "yasui toki ni katte okeba yokatta.", "ta": "மலிவாக இருந்தபோதே வாங்கி வைத்திருக்கலாம்.", "en": "I should have bought it while it was cheap." }
+      ],
+      "pitfalls_ta": "'வாங்கியிருக்கலாம்' என்பதை 買ったらよかった என்றும் சொல்லலாம்; ஆனால் 買ってよかった என்றால் 'வாங்கியது நல்லதாயிற்று' என்ற மகிழ்ச்சி – எதிர்ப் பொருள்!",
+      "pitfalls_en": "\"I should have bought it\" can also be 買ったらよかった. But 買ってよかった means \"I’m glad I bought it\". That is the opposite!"
+    },
+    {
+      "id": "g10-6",
+      "pattern": "V-たらどうですか",
+      "name": { "en": "Why don’t you …? (suggestion)", "ta": "〜 செய்தால் என்ன? (ஆலோசனை)" },
+      "explanation_ta": "V-たら + どうですか = '〜 செய்தால் என்ன?' / '〜 செய்து பாருங்களேன்'. மற்றவருக்கு மென்மையான ஆலோசனை: 店員に聞いてみたらどうですか = 'கடை ஊழியரிடம் கேட்டுப் பார்த்தால் என்ன?'. நண்பர்களிடம் 〜たらどう?. மிக மரியாதையாக 〜たらいかがですか. N5-இல் கற்ற 〜たほうがいいです 'செய்வது நல்லது' என்ற வலுவான அறிவுரை; 〜たらどうですか தேர்வை மற்றவரிடம் விடும் மென்மையான ஆலோசனை. மேலதிகாரியிடம் இது சற்று 'அறிவுரை சொல்வது' போல ஒலிக்கலாம்.",
+      "explanation_en": "V-たら + どうですか = \"how about doing …? / why don’t you …?\". It is a soft suggestion: 店員に聞いてみたらどうですか = \"why don’t you try asking a shop assistant?\". With friends, say 〜たらどう?. Very politely, say 〜たらいかがですか. You know 〜たほうがいいです from N5. That is stronger advice: \"you’d better\". 〜たらどうですか leaves the choice to the other person. To a boss, it may still sound like you are giving advice.",
+      "tamil_parallel": "கடை ஊழியரிடம் கேட்டால் என்ன? = 店員に聞いたらどうですか",
+      "tamil_parallel_en": "கடை ஊழியரிடம் கேட்டால் என்ன? (why don’t you ask a shop assistant?) = 店員に聞いたらどうですか",
+      "formation": "V-た + ら + どうですか (சாதாரணம்: どう？ / மரியாதை: いかがですか)",
+      "formation_en": "V-た + ら + どうですか (casual: どう？ / very polite: いかがですか)",
+      "examples": [
+        { "ja": "店員に聞いてみたらどうですか。", "reading": "てんいんに きいて みたら どうですか。", "romaji": "ten'in ni kiite mitara dou desu ka.", "ta": "கடை ஊழியரிடம் கேட்டுப் பார்த்தால் என்ன?", "en": "Why don’t you try asking a shop assistant?" },
+        { "ja": "疲れているなら、少し休んだらどうですか。", "reading": "つかれて いるなら、すこし やすんだら どうですか。", "romaji": "tsukarete iru nara, sukoshi yasundara dou desu ka.", "ta": "களைப்பாக இருந்தால் கொஞ்சம் ஓய்வெடுத்தால் என்ன?", "en": "If you’re tired, why not rest a little?" },
+        { "ja": "そのパソコンは古いですから、新しいのを買ったらどうですか。", "reading": "その パソコンは ふるいですから、あたらしいのを かったら どうですか。", "romaji": "sono pasokon wa furui desu kara, atarashii no o kattara dou desu ka.", "ta": "அந்தக் கணினி பழையது, புதியது வாங்கினால் என்ன?", "en": "That computer is old, so why not buy a new one?" },
+        { "ja": "熱があるなら、一度医者に行ったらどうですか。", "reading": "ねつが あるなら、いちど いしゃに いったら どうですか。", "romaji": "netsu ga aru nara, ichido isha ni ittara dou desu ka.", "ta": "காய்ச்சல் இருந்தால் ஒரு முறை மருத்துவரிடம் போனால் என்ன?", "en": "If you have a fever, why not see a doctor?" },
+        { "ja": "スーパーのほうが安いよ。スーパーで買ったらどう？", "reading": "スーパーの ほうが やすいよ。スーパーで かったら どう？", "romaji": "suupaa no hou ga yasui yo. suupaa de kattara dou?", "ta": "சூப்பர் மார்க்கெட்டில் மலிவு. அங்கே வாங்கினால் என்ன?", "en": "The supermarket is cheaper. Why not buy it there?" },
+        { "ja": "このソフトを使ってみたらいかがですか。", "reading": "この ソフトを つかって みたら いかがですか。", "romaji": "kono sofuto o tsukatte mitara ikaga desu ka.", "ta": "இந்த மென்பொருளைப் பயன்படுத்திப் பார்க்கலாமே?", "en": "Would you like to try using this software?" }
+      ],
+      "pitfalls_ta": "தன்னைப் பற்றி 私が行ったらどうですか என்று சொல்லக் கூடாது; இது மற்றவருக்கான ஆலோசனை மட்டும். உதவி முன்வர 〜ましょうか.",
+      "pitfalls_en": "Don’t say 私が行ったらどうですか about yourself. This pattern is only advice for others. To offer help, use 〜ましょうか."
+    }
+  ],
+  "vocab_ids": ["n4-v-016", "n4-v-032", "n4-v-050", "n4-v-072", "n4-v-090", "n4-v-146", "n4-v-148", "n4-v-152", "n4-v-158", "n4-v-176", "n4-v-247", "n4-v-258", "n4-v-260", "n4-v-310", "n4-v-314", "n4-v-346", "n4-v-398", "n4-v-412", "n4-v-440", "n4-v-516", "n4-v-544", "n4-v-568", "n4-v-592", "n4-v-658"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L10-q01", "type": "kanji_reading", "sentence": "この カメラの ＿値段＿は いくらですか。", "target": "値段", "options": ["ねだん", "ちだん", "ねたん", "あたいだん"], "answer": 0, "explanation_ta": "値段 = ねだん (விலை). 値 இங்கே ね; 段 = だん (ஒலிப்பு உள்ள だ).", "explanation_en": "値段 = ねだん (price). Here 値 is ね, and 段 is だん, with a voiced だ." },
+      { "id": "L10-q02", "type": "kanji_reading", "sentence": "パソコンが ＿故障＿して しまいました。", "target": "故障", "options": ["こしょ", "ごしょう", "こしょう", "こじょう"], "answer": 2, "explanation_ta": "故障 = こしょう (பழுது). கடைசியில் நீண்ட 'ஓ' (しょう).", "explanation_en": "故障 = こしょう (breakdown). It ends with a long sound: しょう." },
+      { "id": "L10-q03", "type": "kanji_reading", "sentence": "わからなければ、＿店員＿に 聞いて ください。", "target": "店員", "options": ["てんにん", "てんいん", "みせいん", "でんいん"], "answer": 1, "explanation_ta": "店員 = てんいん (கடை ஊழியர்). 店 தனியாக みせ, ஆனால் இந்தச் சொல்லில் てん; 員 = いん (会社員 போல).", "explanation_en": "店員 = てんいん (shop assistant). 店 alone is みせ, but here it is てん. 員 = いん, as in 会社員." },
+      { "id": "L10-q04", "type": "orthography", "sentence": "この 店の ＿しなもの＿は どれも 安いです。", "target": "しなもの", "options": ["晶物", "品者", "品物", "区物"], "answer": 2, "explanation_ta": "しなもの = 品物 (பொருள்கள்). 品 = மூன்று 口. 晶 = மூன்று 日, வேறு எழுத்து; 者 = நபர்.", "explanation_en": "しなもの = 品物 (goods). 品 has three 口. 晶 has three 日, a different kanji. 者 means \"person\"." },
+      { "id": "L10-q05", "type": "orthography", "sentence": "カードで ＿はらって＿も いいですか。", "target": "はらって", "options": ["仏って", "技って", "拡って", "払って"], "answer": 3, "explanation_ta": "はらう = 払う (செலுத்த). இடப்பக்கம் 扌 (கை). 仏 (புத்தர்) இடப்பக்கம் 亻 (மனிதன்).", "explanation_en": "はらう = 払う (to pay). It has 扌 (hand) on the left. 仏 (Buddha) has 亻 (person) on the left." },
+      { "id": "L10-q06", "type": "vocab_context", "sentence": "お金は あちらの （　　）で 払って ください。", "options": ["レジ", "ソフト", "ステレオ", "エスカレーター"], "answer": 0, "explanation_ta": "பணம் செலுத்தும் இடம் = レジ (கவுண்டர்).", "explanation_en": "The place where you pay = レジ (checkout)." },
+      { "id": "L10-q07", "type": "vocab_context", "sentence": "千円 出して、二百円の （　　）を もらいました。", "options": ["値段", "おつり", "品物", "倍"], "answer": 1, "explanation_ta": "விலையை விட அதிகமாகக் கொடுத்தால் திரும்பக் கிடைக்கும் பணம் = おつり (மீதி).", "explanation_en": "The money you get back when you pay too much = おつり (change)." },
+      { "id": "L10-q08", "type": "vocab_context", "sentence": "この 店は 日曜日（　　）は 毎日 開いて います。", "options": ["以上", "以下", "以外", "以内"], "answer": 2, "explanation_ta": "'ஞாயிறு தவிர' = 日曜日以外. 以上 / 以下 எண்ணிக்கைக்கு; 以内 கால / தூர எல்லைக்கு.", "explanation_en": "\"Except Sunday\" = 日曜日以外. 以上 and 以下 are for numbers. 以内 is for a time or distance limit." },
+      { "id": "L10-q09", "type": "vocab_context", "sentence": "東京の アパートは チェンナイの 五（　　）ぐらい 高いです。", "options": ["回", "目", "製", "倍"], "answer": 3, "explanation_ta": "'ஐந்து மடங்கு' = 五倍. 五回 = ஐந்து முறை; 五目 = ஐந்தாவது.", "explanation_en": "\"Five times as much\" = 五倍. 五回 = five times (occasions). 五目 = fifth." },
+      { "id": "L10-q10", "type": "paraphrase", "sentence": "この パソコンは 日本製です。", "options": ["この パソコンは 日本で 買いました。", "この パソコンは 日本で 作った ものです。", "この パソコンは 日本に 送ります。", "この パソコンは 日本人の ものです。"], "answer": 1, "explanation_ta": "日本製 = 'ஜப்பானில் தயாரிக்கப்பட்டது' = 日本で作ったもの. 日本で買いました = வாங்கிய இடம், தயாரிப்பு அல்ல.", "explanation_en": "日本製 = \"made in Japan\" = 日本で作ったもの. 日本で買いました tells where it was bought, not where it was made." },
+      { "id": "L10-q11", "type": "paraphrase", "sentence": "もっと 早く 来れば よかったです。", "options": ["早く 来て よかったです。", "早く 来なくて よかったです。", "早く 来なかったので、残念です。", "早く 来たいです。"], "answer": 2, "explanation_ta": "来ればよかった = 'வந்திருக்கலாம்' (ஆனால் வரவில்லை) = 来なかったので残念です. 来てよかった எதிர்ப் பொருள் (வந்தது மகிழ்ச்சி).", "explanation_en": "来ればよかった = \"I should have come\" (but I didn’t) = 来なかったので残念です. 来てよかった is the opposite (\"I’m glad I came\")." },
+      { "id": "L10-q12", "type": "usage", "sentence": "以内", "options": ["日曜日以内は 休みです。", "この 店は 駅の 以内に あります。", "私以内は みんな 学生です。", "一時間以内に 戻ります。"], "answer": 3, "explanation_ta": "以内 = கால / அளவு எல்லைக்குள்: 一時間以内 ('ஒரு மணி நேரத்துக்குள்'). 'தவிர' என்பதற்கு 以外; 'உள்ளே' என்பதற்கு 中.", "explanation_en": "以内 = within a time or amount limit: 一時間以内 (within an hour). For \"except\", use 以外. For \"inside\", use 中." },
+      { "id": "L10-q13", "type": "usage", "sentence": "故障", "options": ["エレベーターが 故障して いるので、階段を 使って ください。", "風邪で 体が 故障しました。", "お皿が 落ちて 故障しました。", "約束を 故障しました。"], "answer": 0, "explanation_ta": "故障 = இயந்திரம் பழுதாவது. உடல் நலக்குறைவுக்கு 体を壊す; தட்டு உடைவது 割れる; வாக்கை மீறுவது 約束を破る.", "explanation_en": "故障 = a machine breaking down. For your health, use 体を壊す. A plate breaking is 割れる. Breaking a promise is 約束を破る." },
+      { "id": "L10-q14", "type": "grammar_form", "sentence": "この ステレオが 安（　　）、買います。", "options": ["いば", "ければ", "くれば", "かったれば"], "answer": 1, "explanation_ta": "い-பெயரடை: い → ければ: 安ければ ('மலிவாக இருந்தால்').", "explanation_en": "い-adjective: い → ければ: 安ければ (if it’s cheap)." },
+      { "id": "L10-q15", "type": "grammar_form", "sentence": "パソコンが 動きません。どう （　　） いいですか。", "options": ["しよう", "して", "したり", "すれば"], "answer": 3, "explanation_ta": "'நான் என்ன செய்ய வேண்டும்?' = どうすればいいですか. する → すれば.", "explanation_en": "\"What should I do?\" = どうすればいいですか. する → すれば." },
+      { "id": "L10-q16", "type": "grammar_form", "sentence": "「カメラを 買いたいんですが。」「カメラ（　　）、日本製が いいですよ。」", "options": ["ば", "と", "なら", "たら"], "answer": 2, "explanation_ta": "மற்றவர் எழுப்பிய விஷயத்துக்கு ஆலோசனை: カメラなら ('கேமரா என்றால்'). பெயர்ச்சொல்லுக்குப் பின் நேரடியாக ば / たら வராது.", "explanation_en": "Advice on a topic someone raised: カメラなら (if it’s cameras). ば and たら can’t come right after a noun." },
+      { "id": "L10-q17", "type": "grammar_form", "sentence": "日本語は 勉強すれば （　　） ほど おもしろく なります。", "options": ["する", "した", "して", "しよう"], "answer": 0, "explanation_ta": "〜ば + அகராதி வடிவம் + ほど: すればするほど ('படிக்கப் படிக்க').", "explanation_en": "〜ば + dictionary form + ほど: すればするほど (the more you study)." },
+      { "id": "L10-q18", "type": "grammar_form", "sentence": "この スーパーは 品物も 多（　　）、値段も 安いです。", "options": ["かったら", "いなら", "いば", "ければ"], "answer": 3, "explanation_ta": "N も 〜ば、N も 〜: 多ければ ('பொருள்களும் அதிகம்'). い-பெயரடை → ければ.", "explanation_en": "N も 〜ば、N も 〜: 多ければ (lots of goods, too). い-adjective → ければ." },
+      { "id": "L10-q19", "type": "grammar_form", "sentence": "雨に ぬれました。傘を 持って 来（　　） よかったです。", "options": ["れば", "ても", "るなら", "ないで"], "answer": 0, "explanation_ta": "வருத்தம்: 来ればよかった ('கொண்டு வந்திருக்கலாம்'). 来る → 来れば (くれば).", "explanation_en": "Regret: 来ればよかった (I should have brought it). 来る → 来れば (くれば)." },
+      { "id": "L10-q20", "type": "grammar_form", "sentence": "疲れて いるなら、少し 休んだら （　　）。", "options": ["いいですか", "どうですか", "ですか", "でしょうか"], "answer": 1, "explanation_ta": "ஆலோசனை: 休んだらどうですか ('ஓய்வெடுத்தால் என்ன?'). 休んだらいいですか என்பது 'நான் ஓய்வெடுக்கலாமா?' என்ற கேள்வி, பொருந்தாது.", "explanation_en": "A suggestion: 休んだらどうですか (why don’t you rest?). 休んだらいいですか asks \"should I rest?\", which does not fit." },
+      { "id": "L10-q21", "type": "grammar_form", "sentence": "わからない ことは、店員に 聞いて （　　） どうですか。", "options": ["みて", "みよう", "みたら", "みない"], "answer": 2, "explanation_ta": "〜たらどうですか: 聞いてみたらどうですか ('கேட்டுப் பார்த்தால் என்ன?').", "explanation_en": "〜たらどうですか: 聞いてみたらどうですか (why not try asking?)." },
+      { "id": "L10-q22", "type": "sentence_order", "before": "時間が", "chunks": ["あれば", "一緒に", "パソコン売り場へ", "行きましょう"], "star": 1, "after": "。", "explanation_ta": "時間があれば (நேரம் இருந்தால்) → 一緒に → パソコン売り場へ → 行きましょう. ★ = 一緒に.", "explanation_en": "時間があれば (if there’s time) → 一緒に (together) → パソコン売り場へ → 行きましょう. ★ = 一緒に." },
+      { "id": "L10-q23", "type": "sentence_order", "before": "野菜は", "chunks": ["新しければ", "新しい", "ほど", "おいしい"], "star": 2, "after": "です。", "explanation_ta": "新しければ → 新しい → ほど → おいしいです ('எவ்வளவு புதிதோ அவ்வளவு சுவை'). ★ = ほど.", "explanation_en": "新しければ → 新しい → ほど → おいしいです (the fresher, the tastier). ★ = ほど." },
+      { "id": "L10-q24", "type": "sentence_order", "before": "もっと", "chunks": ["安い", "時に", "買えば", "よかった"], "star": 2, "after": "です。", "explanation_ta": "安い時に (மலிவாக இருந்தபோது) → 買えば → よかったです ('வாங்கியிருக்கலாம்'). ★ = 買えば.", "explanation_en": "安い時に (when it was cheap) → 買えば → よかったです (I should have bought). ★ = 買えば." },
+      { "id": "L10-q25", "type": "passage_cloze", "passage": "先週、パソコンが 故障しました。店員に 聞くと、「修理すると 二万円 かかります」と 言いました。友達は 「二万円 ［1］、新しいのを 買ったら どうですか」と 言いました。駅前の 電気屋は 品物も 多 ［2］、値段も 安いです。そこで 新しい パソコンを 買いました。もっと 早く ［3］ よかったです。", "blanks": [ { "options": ["ので", "のに", "なら", "まで"], "answer": 2 }, { "options": ["いば", "ければ", "いなら", "かったら"], "answer": 1 }, { "options": ["買えば", "買って", "買う", "買おう"], "answer": 0 } ], "explanation_ta": "［1］ மற்றவர் சொன்ன 'இருபதாயிரம் யென்' என்ற விஷயத்தை எடுத்து: 二万円なら ('இருபதாயிரம் என்றால்'). ［2］ 品物も多ければ、値段も安い ('பொருளும் அதிகம், விலையும் குறைவு'). ［3］ வருத்தம்: 買えばよかった ('முன்பே வாங்கியிருக்கலாம்').", "explanation_en": "［1］ Picking up the topic \"20,000 yen\": 二万円なら (if it’s 20,000 yen). ［2］ 品物も多ければ、値段も安い (lots of goods, and low prices too). ［3］ Regret: 買えばよかった (I should have bought it sooner)." }
+    ]
+  }
+}

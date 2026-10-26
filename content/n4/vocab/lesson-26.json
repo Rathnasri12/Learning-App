@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n4-v-057",
+    "expression": "失礼",
+    "reading": "しつれい",
+    "romaji": "shitsurei",
+    "en": "rudeness; excuse me",
+    "ta": "மரியாதைக் குறைவு; மன்னிக்கவும்",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "すみません、お先に失礼します。",
+        "reading": "すみません、おさきに しつれいします。",
+        "romaji": "sumimasen, osaki ni shitsurei shimasu.",
+        "ta": "மன்னிக்கவும், நான் முன்னதாகக் கிளம்புகிறேன்.",
+        "en": "Excuse me, I’ll leave before you."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-067",
+    "expression": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "romaji": "irassharu",
+    "en": "to go, come, be (respectful)",
+    "ta": "வர / போக / இருக்க (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "社長は今、会議室にいらっしゃいます。",
+        "reading": "しゃちょうは いま、かいぎしつに いらっしゃいます。",
+        "romaji": "shachou wa ima, kaigishitsu ni irasshaimasu.",
+        "ta": "தலைவர் இப்போது கூட்ட அறையில் இருக்கிறார்.",
+        "en": "The president is in the meeting room now."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-083",
+    "expression": "課長",
+    "reading": "かちょう",
+    "romaji": "kachou",
+    "en": "section manager",
+    "ta": "பிரிவுத் தலைவர் (மேலாளர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このレポートは課長に見せてください。",
+        "reading": "この レポートは かちょうに みせて ください。",
+        "romaji": "kono repooto wa kachou ni misete kudasai.",
+        "ta": "இந்த அறிக்கையைப் பிரிவுத் தலைவரிடம் காட்டுங்கள்.",
+        "en": "Please show this report to the section manager."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-121",
+    "expression": "出席",
+    "reading": "しゅっせき",
+    "romaji": "shusseki",
+    "en": "to attend",
+    "ta": "கலந்துகொள்ள (வருகை தர)",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "明日の会議には、私も出席します。",
+        "reading": "あしたの かいぎには、わたしも しゅっせきします。",
+        "romaji": "ashita no kaigi ni wa, watashi mo shusseki shimasu.",
+        "ta": "நாளைய கூட்டத்தில் நானும் கலந்துகொள்கிறேன்.",
+        "en": "I will also attend tomorrow’s meeting."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-126",
+    "expression": "社長",
+    "reading": "しゃちょう",
+    "romaji": "shachou",
+    "en": "company president",
+    "ta": "நிறுவனத் தலைவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "うちの社長は毎朝七時に会社に来ます。",
+        "reading": "うちの しゃちょうは まいあさ しちじに かいしゃに きます。",
+        "romaji": "uchi no shachou wa maiasa shichiji ni kaisha ni kimasu.",
+        "ta": "எங்கள் நிறுவனத் தலைவர் தினமும் காலை ஏழு மணிக்கு அலுவலகம் வருவார்.",
+        "en": "Our president comes to the office at seven every morning."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-137",
+    "expression": "丁寧",
+    "reading": "ていねい",
+    "romaji": "teinei",
+    "en": "polite; careful",
+    "ta": "மரியாதையான; கவனமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "お客さんには丁寧な言葉で話してください。",
+        "reading": "おきゃくさんには ていねいな ことばで はなして ください。",
+        "romaji": "okyakusan ni wa teinei na kotoba de hanashite kudasai.",
+        "ta": "வாடிக்கையாளர்களிடம் மரியாதையான சொற்களில் பேசுங்கள்.",
+        "en": "Please speak to customers in polite words."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-145",
+    "expression": "会議室",
+    "reading": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "en": "meeting room",
+    "ta": "கூட்ட அறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議室はこのビルの三階にあります。",
+        "reading": "かいぎしつは この ビルの さんがいに あります。",
+        "romaji": "kaigishitsu wa kono biru no sangai ni arimasu.",
+        "ta": "கூட்ட அறை இந்தக் கட்டடத்தின் மூன்றாவது மாடியில் இருக்கிறது.",
+        "en": "The meeting room is on the third floor of this building."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-192",
+    "expression": "事務所",
+    "reading": "じむしょ",
+    "romaji": "jimusho",
+    "en": "office",
+    "ta": "அலுவலகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私たちの事務所はチェンナイ駅のすぐ前です。",
+        "reading": "わたしたちの じむしょは チェンナイえきの すぐ まえです。",
+        "romaji": "watashitachi no jimusho wa chennai eki no sugu mae desu.",
+        "ta": "எங்கள் அலுவலகம் சென்னை ரயில் நிலையத்துக்கு நேர் எதிரில் இருக்கிறது.",
+        "en": "Our office is right in front of Chennai station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-195",
+    "expression": "客",
+    "reading": "きゃく",
+    "romaji": "kyaku",
+    "en": "guest; customer",
+    "ta": "விருந்தினர்; வாடிக்கையாளர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は事務所に客が五人来ました。",
+        "reading": "きょうは じむしょに きゃくが ごにん きました。",
+        "romaji": "kyou wa jimusho ni kyaku ga gonin kimashita.",
+        "ta": "இன்று அலுவலகத்துக்கு ஐந்து வாடிக்கையாளர்கள் வந்தார்கள்.",
+        "en": "Five customers came to the office today."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-199",
+    "expression": "なさる",
+    "reading": "なさる",
+    "romaji": "nasaru",
+    "en": "to do (respectful)",
+    "ta": "செய்ய (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生は週末、何をなさいますか。",
+        "reading": "せんせいは しゅうまつ、なにを なさいますか。",
+        "romaji": "sensei wa shuumatsu, nani o nasaimasu ka.",
+        "ta": "ஆசிரியரே, வார இறுதியில் என்ன செய்வீர்கள்?",
+        "en": "What will you do this weekend, sir?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-232",
+    "expression": "～員",
+    "reading": "～いん",
+    "romaji": "～in",
+    "en": "member; staff (suffix)",
+    "ta": "~ ஊழியர் / உறுப்பினர்",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "父は会社員で、母は銀行員です。",
+        "reading": "ちちは かいしゃいんで、ははは ぎんこういんです。",
+        "romaji": "chichi wa kaishain de, haha wa ginkouin desu.",
+        "ta": "என் அப்பா நிறுவன ஊழியர், அம்மா வங்கி ஊழியர்.",
+        "en": "My father is an office worker and my mother works at a bank."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-309",
+    "expression": "ご覧になる",
+    "reading": "ごらんになる",
+    "romaji": "goranninaru",
+    "en": "to see (respectful)",
+    "ta": "பார்க்க (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "社長、この写真をもうごらんになりましたか。",
+        "reading": "しゃちょう、この しゃしんを もう ごらんに なりましたか。",
+        "romaji": "shachou, kono shashin o mou goran ni narimashita ka.",
+        "ta": "தலைவரே, இந்தப் புகைப்படத்தை ஏற்கனவே பார்த்தீர்களா?",
+        "en": "Sir, have you already seen this photo?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-347",
+    "expression": "部長",
+    "reading": "ぶちょう",
+    "romaji": "buchou",
+    "en": "department manager",
+    "ta": "துறைத் தலைவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "部長は来週、仕事でインドへ行かれます。",
+        "reading": "ぶちょうは らいしゅう、しごとで インドへ いかれます。",
+        "romaji": "buchou wa raishuu, shigoto de indo e ikaremasu.",
+        "ta": "துறைத் தலைவர் அடுத்த வாரம் வேலை நிமித்தமாக இந்தியாவுக்குப் போகிறார்.",
+        "en": "The department manager is going to India for work next week."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-410",
+    "expression": "おいでになる",
+    "reading": "おいでになる",
+    "romaji": "oideninaru",
+    "en": "to come, go, be (respectful)",
+    "ta": "வர / போக / இருக்க (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生は何時ごろこちらへおいでになりますか。",
+        "reading": "せんせいは なんじごろ こちらへ おいでに なりますか。",
+        "romaji": "sensei wa nanjigoro kochira e oide ni narimasu ka.",
+        "ta": "ஆசிரியர் சுமார் எத்தனை மணிக்கு இங்கே வருவார்?",
+        "en": "About what time will the teacher come here?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-503",
+    "expression": "席",
+    "reading": "せき",
+    "romaji": "seki",
+    "en": "seat",
+    "ta": "இருக்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、この席は空いていますか。",
+        "reading": "すみません、この せきは あいて いますか。",
+        "romaji": "sumimasen, kono seki wa aite imasu ka.",
+        "ta": "மன்னிக்கவும், இந்த இருக்கை காலியாக இருக்கிறதா?",
+        "en": "Excuse me, is this seat free?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-524",
+    "expression": "召し上がる",
+    "reading": "めしあがる",
+    "romaji": "meshiagaru",
+    "en": "to eat, drink (respectful)",
+    "ta": "சாப்பிட / அருந்த (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生、お茶を召し上がりますか。",
+        "reading": "せんせい、おちゃを めしあがりますか。",
+        "romaji": "sensei, ocha o meshiagarimasu ka.",
+        "ta": "ஆசிரியரே, தேநீர் அருந்துகிறீர்களா?",
+        "en": "Would you like some tea, sir?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-530",
+    "expression": "御～",
+    "reading": "ご～",
+    "romaji": "go～",
+    "en": "honorific prefix",
+    "ta": "மரியாதை முன்னொட்டு (ご~)",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "ご家族の皆さんはお元気ですか。",
+        "reading": "ごかぞくの みなさんは おげんきですか。",
+        "romaji": "gokazoku no minasan wa ogenki desu ka.",
+        "ta": "உங்கள் குடும்பத்தினர் எல்லோரும் நலமாக இருக்கிறார்களா?",
+        "en": "Is everyone in your family well?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-564",
+    "expression": "おっしゃる",
+    "reading": "おっしゃる",
+    "romaji": "ossharu",
+    "en": "to say (respectful)",
+    "ta": "சொல்ல / கூற (மரியாதை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生のおっしゃることがよくわかりました。",
+        "reading": "せんせいの おっしゃる ことが よく わかりました。",
+        "romaji": "sensei no ossharu koto ga yoku wakarimashita.",
+        "ta": "ஆசிரியர் சொல்வது நன்றாகப் புரிந்தது.",
+        "en": "I understood well what the teacher said."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-584",
+    "expression": "紹介",
+    "reading": "しょうかい",
+    "romaji": "shoukai",
+    "en": "introduction",
+    "ta": "அறிமுகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんに私の友達を紹介しました。",
+        "reading": "たなかさんに わたしの ともだちを しょうかいしました。",
+        "romaji": "tanaka san ni watashi no tomodachi o shoukai shimashita.",
+        "ta": "தனகா அவர்களுக்கு என் நண்பரை அறிமுகம் செய்தேன்.",
+        "en": "I introduced my friend to Mr. Tanaka."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-640",
+    "expression": "会議",
+    "reading": "かいぎ",
+    "romaji": "kaigi",
+    "en": "meeting",
+    "ta": "கூட்டம் (அலுவல் கூட்டம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日の会議は二時から四時までです。",
+        "reading": "きょうの かいぎは にじから よじまでです。",
+        "romaji": "kyou no kaigi wa niji kara yoji made desu.",
+        "ta": "இன்றைய கூட்டம் இரண்டு மணி முதல் நான்கு மணி வரை.",
+        "en": "Today’s meeting is from two to four."
+      }
+    ]
+  }
+]

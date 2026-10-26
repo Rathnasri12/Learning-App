@@ -1,0 +1,470 @@
+[
+  {
+    "id": "n4-v-013",
+    "expression": "意見",
+    "reading": "いけん",
+    "romaji": "iken",
+    "en": "opinion",
+    "ta": "கருத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議でみんなの意見を聞きました。",
+        "reading": "かいぎで みんなの いけんを ききました。",
+        "romaji": "kaigi de minna no iken o kikimashita.",
+        "ta": "கூட்டத்தில் எல்லோருடைய கருத்தையும் கேட்டோம்.",
+        "en": "We heard everyone's opinions at the meeting."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-091",
+    "expression": "人口",
+    "reading": "じんこう",
+    "romaji": "jinkou",
+    "en": "population",
+    "ta": "மக்கள்தொகை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "インドの人口は日本の人口よりずっと多いです。",
+        "reading": "インドの じんこうは にほんの じんこうより ずっと おおいです。",
+        "romaji": "indo no jinkou wa nihon no jinkou yori zutto ooi desu.",
+        "ta": "இந்தியாவின் மக்கள்தொகை ஜப்பானை விட மிக அதிகம்.",
+        "en": "India's population is much larger than Japan's."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-104",
+    "expression": "盛ん",
+    "reading": "さかん",
+    "romaji": "sakan",
+    "en": "thriving, popular",
+    "ta": "செழிப்பான, பரவலான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "タミル・ナードゥではクリケットが盛んです。",
+        "reading": "タミル・ナードゥでは クリケットが さかんです。",
+        "romaji": "tamiru naadu de wa kuriketto ga sakan desu.",
+        "ta": "தமிழ்நாட்டில் கிரிக்கெட் மிகப் பரவலாக விளையாடப்படுகிறது.",
+        "en": "Cricket is very popular in Tamil Nadu."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-168",
+    "expression": "行う",
+    "reading": "おこなう",
+    "romaji": "okonau",
+    "en": "to hold, to carry out",
+    "ta": "நடத்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この大学は毎年九月に試験を行います。",
+        "reading": "この だいがくは まいとし くがつに しけんを おこないます。",
+        "romaji": "kono daigaku wa maitoshi kugatsu ni shiken o okonaimasu.",
+        "ta": "இந்தப் பல்கலைக்கழகம் ஒவ்வொரு ஆண்டும் செப்டம்பரில் தேர்வு நடத்துகிறது.",
+        "en": "This university holds exams every September."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-179",
+    "expression": "戦争",
+    "reading": "せんそう",
+    "romaji": "sensou",
+    "en": "war",
+    "ta": "போர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖父は戦争の話をよくしてくれました。",
+        "reading": "そふは せんそうの はなしを よく して くれました。",
+        "romaji": "sofu wa sensou no hanashi o yoku shite kuremashita.",
+        "ta": "தாத்தா போர் பற்றிய கதைகளை அடிக்கடி சொல்லுவார்.",
+        "en": "My grandfather often told me about the war."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-244",
+    "expression": "増える",
+    "reading": "ふえる",
+    "romaji": "fueru",
+    "en": "to increase",
+    "ta": "அதிகரிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "最近、日本で働く外国人が増えています。",
+        "reading": "さいきん、にほんで はたらく がいこくじんが ふえて います。",
+        "romaji": "saikin, nihon de hataraku gaikokujin ga fuete imasu.",
+        "ta": "சமீபத்தில் ஜப்பானில் வேலை செய்யும் வெளிநாட்டவர்கள் அதிகரித்து வருகிறார்கள்.",
+        "en": "Recently more foreigners are working in Japan."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-279",
+    "expression": "アナウンサー",
+    "reading": "アナウンサー",
+    "romaji": "anaunsaa",
+    "en": "announcer, newsreader",
+    "ta": "செய்தி வாசிப்பாளர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あのアナウンサーの日本語はとても聞きやすいです。",
+        "reading": "あの アナウンサーの にほんごは とても ききやすいです。",
+        "romaji": "ano anaunsaa no nihongo wa totemo kikiyasui desu.",
+        "ta": "அந்தச் செய்தி வாசிப்பாளரின் ஜப்பானிய மொழி கேட்க மிக எளிதாக இருக்கிறது.",
+        "en": "That announcer's Japanese is very easy to follow."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-303",
+    "expression": "貿易",
+    "reading": "ぼうえき",
+    "romaji": "boueki",
+    "en": "trade",
+    "ta": "வர்த்தகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は貿易の会社で働いています。",
+        "reading": "ちちは ぼうえきの かいしゃで はたらいて います。",
+        "romaji": "chichi wa boueki no kaisha de hataraite imasu.",
+        "ta": "அப்பா ஒரு வர்த்தக நிறுவனத்தில் வேலை செய்கிறார்.",
+        "en": "My father works for a trading company."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-304",
+    "expression": "反対",
+    "reading": "はんたい",
+    "romaji": "hantai",
+    "en": "opposition, against",
+    "ta": "எதிர்ப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "多くの市民がその計画に反対しています。",
+        "reading": "おおくの しみんが その けいかくに はんたいして います。",
+        "romaji": "ooku no shimin ga sono keikaku ni hantai shite imasu.",
+        "ta": "பல குடிமக்கள் அந்தத் திட்டத்தை எதிர்க்கிறார்கள்.",
+        "en": "Many citizens are against that plan."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-356",
+    "expression": "生産",
+    "reading": "せいさん",
+    "romaji": "seisan",
+    "en": "to produce",
+    "ta": "உற்பத்தி செய்ய",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "この工場では一日に車を千台生産しています。",
+        "reading": "この こうじょうでは いちにちに くるまを せんだい せいさんして います。",
+        "romaji": "kono koujou de wa ichinichi ni kuruma o sendai seisan shite imasu.",
+        "ta": "இந்தத் தொழிற்சாலையில் ஒரு நாளில் ஆயிரம் கார்கள் உற்பத்தி செய்யப்படுகின்றன.",
+        "en": "This factory produces a thousand cars a day."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-376",
+    "expression": "最近",
+    "reading": "さいきん",
+    "romaji": "saikin",
+    "en": "recently",
+    "ta": "சமீபத்தில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "最近、野菜の値段が高くなりました。",
+        "reading": "さいきん、やさいの ねだんが たかく なりました。",
+        "romaji": "saikin, yasai no nedan ga takaku narimashita.",
+        "ta": "சமீபத்தில் காய்கறி விலை அதிகமாகிவிட்டது.",
+        "en": "Vegetables have become expensive recently."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-405",
+    "expression": "経済",
+    "reading": "けいざい",
+    "romaji": "keizai",
+    "en": "economy, economics",
+    "ta": "பொருளாதாரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は大学で経済を勉強しています。",
+        "reading": "あには だいがくで けいざいを べんきょうして います。",
+        "romaji": "ani wa daigaku de keizai o benkyou shite imasu.",
+        "ta": "அண்ணன் பல்கலைக்கழகத்தில் பொருளாதாரம் படிக்கிறார்.",
+        "en": "My older brother studies economics at university."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-429",
+    "expression": "輸入",
+    "reading": "ゆにゅう",
+    "romaji": "yunyuu",
+    "en": "import",
+    "ta": "இறக்குமதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本は外国からたくさんの食べ物を輸入しています。",
+        "reading": "にほんは がいこくから たくさんの たべものを ゆにゅうして います。",
+        "romaji": "nihon wa gaikoku kara takusan no tabemono o yunyuu shite imasu.",
+        "ta": "ஜப்பான் வெளிநாடுகளிலிருந்து நிறைய உணவுப் பொருட்களை இறக்குமதி செய்கிறது.",
+        "en": "Japan imports a lot of food from abroad."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-432",
+    "expression": "産業",
+    "reading": "さんぎょう",
+    "romaji": "sangyou",
+    "en": "industry",
+    "ta": "தொழில்துறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ベンガルールではIT産業が盛んです。",
+        "reading": "ベンガルールでは アイティー さんぎょうが さかんです。",
+        "romaji": "bengaruuru de wa aitii sangyou ga sakan desu.",
+        "ta": "பெங்களூரில் IT தொழில்துறை செழிப்பாக உள்ளது.",
+        "en": "The IT industry is thriving in Bengaluru."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-444",
+    "expression": "～(に) よると",
+    "reading": "～(に) よると",
+    "romaji": "～(ni)yoruto",
+    "en": "according to",
+    "ta": "-இன்படி",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "天気予報によると、明日は雨が降るそうです。",
+        "reading": "てんきよほうに よると、あしたは あめが ふるそうです。",
+        "romaji": "tenkiyohou ni yoru to, ashita wa ame ga furu sou desu.",
+        "ta": "வானிலை அறிக்கையின்படி நாளை மழை பெய்யுமாம்.",
+        "en": "According to the weather forecast, it will rain tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-465",
+    "expression": "放送",
+    "reading": "ほうそう",
+    "romaji": "housou",
+    "en": "to broadcast",
+    "ta": "ஒளிபரப்ப",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "そのニュースは夜七時に放送されました。",
+        "reading": "その ニュースは よる しちじに ほうそう されました。",
+        "romaji": "sono nyuusu wa yoru shichiji ni housou saremashita.",
+        "ta": "அந்தச் செய்தி இரவு ஏழு மணிக்கு ஒளிபரப்பப்பட்டது.",
+        "en": "That news was broadcast at seven in the evening."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-466",
+    "expression": "政治",
+    "reading": "せいじ",
+    "romaji": "seiji",
+    "en": "politics",
+    "ta": "அரசியல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "若い人も政治に興味を持ったほうがいいです。",
+        "reading": "わかい ひとも せいじに きょうみを もった ほうが いいです。",
+        "romaji": "wakai hito mo seiji ni kyoumi o motta hou ga ii desu.",
+        "ta": "இளைஞர்களும் அரசியலில் ஆர்வம் கொள்வது நல்லது.",
+        "en": "Young people should take an interest in politics too."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-467",
+    "expression": "市民",
+    "reading": "しみん",
+    "romaji": "shimin",
+    "en": "citizen",
+    "ta": "குடிமக்கள், நகரவாசிகள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "市民のために新しい図書館ができました。",
+        "reading": "しみんの ために あたらしい としょかんが できました。",
+        "romaji": "shimin no tame ni atarashii toshokan ga dekimashita.",
+        "ta": "நகர மக்களுக்காக ஒரு புதிய நூலகம் கட்டப்பட்டது.",
+        "en": "A new library has been built for the citizens."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-541",
+    "expression": "億",
+    "reading": "おく",
+    "romaji": "oku",
+    "en": "hundred million",
+    "ta": "பத்து கோடி",
+    "pos": "number",
+    "examples": [
+      {
+        "ja": "日本の人口は一億二千万人ぐらいです。",
+        "reading": "にほんの じんこうは いちおく にせんまんにん ぐらいです。",
+        "romaji": "nihon no jinkou wa ichioku nisenmannin gurai desu.",
+        "ta": "ஜப்பானின் மக்கள்தொகை சுமார் பன்னிரண்டு கோடி.",
+        "en": "Japan's population is about 120 million."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-560",
+    "expression": "新聞社",
+    "reading": "しんぶんしゃ",
+    "romaji": "shinbunsha",
+    "en": "newspaper company",
+    "ta": "செய்தித்தாள் நிறுவனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は東京の新聞社で働いています。",
+        "reading": "あねは とうきょうの しんぶんしゃで はたらいて います。",
+        "romaji": "ane wa toukyou no shinbunsha de hataraite imasu.",
+        "ta": "அக்கா டோக்கியோவில் உள்ள ஒரு செய்தித்தாள் நிறுவனத்தில் வேலை செய்கிறார்.",
+        "en": "My older sister works at a newspaper company in Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-578",
+    "expression": "工業",
+    "reading": "こうぎょう",
+    "romaji": "kougyou",
+    "en": "manufacturing industry",
+    "ta": "உற்பத்தித் தொழில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この町は工業が盛んで、工場がたくさんあります。",
+        "reading": "この まちは こうぎょうが さかんで、こうじょうが たくさん あります。",
+        "romaji": "kono machi wa kougyou ga sakan de, koujou ga takusan arimasu.",
+        "ta": "இந்த ஊரில் உற்பத்தித் தொழில் செழிப்பாக உள்ளது, நிறைய தொழிற்சாலைகள் இருக்கின்றன.",
+        "en": "Industry is strong in this town, and there are many factories."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-617",
+    "expression": "この頃",
+    "reading": "このごろ",
+    "romaji": "konogoro",
+    "en": "these days",
+    "ta": "இப்போதெல்லாம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この頃、夜遅くまで働く人が多いようです。",
+        "reading": "このごろ、よる おそくまで はたらく ひとが おおい ようです。",
+        "romaji": "konogoro, yoru osoku made hataraku hito ga ooi you desu.",
+        "ta": "இப்போதெல்லாம் இரவு தாமதம் வரை வேலை செய்பவர்கள் அதிகம் போலத் தெரிகிறது.",
+        "en": "These days, many people seem to work late at night."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-633",
+    "expression": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
+    "en": "to rise, to go up",
+    "ta": "உயர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "来月から電車の料金が上がるそうです。",
+        "reading": "らいげつから でんしゃの りょうきんが あがるそうです。",
+        "romaji": "raigetsu kara densha no ryoukin ga agaru sou desu.",
+        "ta": "அடுத்த மாதத்திலிருந்து ரயில் கட்டணம் உயருமாம்.",
+        "en": "I hear train fares will go up from next month."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-649",
+    "expression": "番組",
+    "reading": "ばんぐみ",
+    "romaji": "bangumi",
+    "en": "TV or radio programme",
+    "ta": "(டிவி / வானொலி) நிகழ்ச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日の夜は家族で料理の番組を見ます。",
+        "reading": "にちようびの よるは かぞくで りょうりの ばんぐみを みます。",
+        "romaji": "nichiyoubi no yoru wa kazoku de ryouri no bangumi o mimasu.",
+        "ta": "ஞாயிறு இரவு குடும்பத்துடன் சமையல் நிகழ்ச்சி பார்ப்போம்.",
+        "en": "On Sunday nights my family watches a cooking programme."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-653",
+    "expression": "輸出",
+    "reading": "ゆしゅつ",
+    "romaji": "yushutsu",
+    "en": "to export",
+    "ta": "ஏற்றுமதி செய்ய",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "インドはたくさんの国にお茶を輸出しています。",
+        "reading": "インドは たくさんの くにに おちゃを ゆしゅつして います。",
+        "romaji": "indo wa takusan no kuni ni ocha o yushutsu shite imasu.",
+        "ta": "இந்தியா பல நாடுகளுக்குத் தேயிலையை ஏற்றுமதி செய்கிறது.",
+        "en": "India exports tea to many countries."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-668",
+    "expression": "社会",
+    "reading": "しゃかい",
+    "romaji": "shakai",
+    "en": "society",
+    "ta": "சமூகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大学を出たら、社会の役に立つ仕事がしたいです。",
+        "reading": "だいがくを でたら、しゃかいの やくに たつ しごとが したいです。",
+        "romaji": "daigaku o detara, shakai no yaku ni tatsu shigoto ga shitai desu.",
+        "ta": "கல்லூரி முடித்த பிறகு சமூகத்துக்குப் பயனுள்ள வேலை செய்ய விரும்புகிறேன்.",
+        "en": "After university, I want a job that is useful to society."
+      }
+    ]
+  }
+]

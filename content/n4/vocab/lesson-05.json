@@ -1,0 +1,488 @@
+[
+  {
+    "id": "n4-v-021",
+    "expression": "～会",
+    "reading": "～かい",
+    "romaji": "～kai",
+    "en": "~ party; ~ meeting",
+    "ta": "〜 கூட்டம் / விருந்து",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "金曜日に 会社で 歓迎会が あります。",
+        "reading": "きんようびに かいしゃで かんげいかいが あります。",
+        "romaji": "kin'youbi ni kaisha de kangeikai ga arimasu.",
+        "ta": "வெள்ளிக்கிழமை அலுவலகத்தில் வரவேற்பு விருந்து இருக்கிறது.",
+        "en": "There's a welcome party at the office on Friday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-062",
+    "expression": "今度",
+    "reading": "こんど",
+    "romaji": "kondo",
+    "en": "next time; this time",
+    "ta": "அடுத்த முறை; இந்த முறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今度の 日曜日、いっしょに 買い物に 行きませんか。",
+        "reading": "こんどの にちようび、いっしょに かいものに いきませんか。",
+        "romaji": "kondo no nichiyoubi, issho ni kaimono ni ikimasen ka.",
+        "ta": "வரும் ஞாயிற்றுக்கிழமை சேர்ந்து கடைக்குப் போகலாமா?",
+        "en": "Shall we go shopping together this coming Sunday?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-106",
+    "expression": "起こす",
+    "reading": "おこす",
+    "romaji": "okosu",
+    "en": "to wake (someone) up",
+    "ta": "எழுப்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "明日 六時に 起こして ください。",
+        "reading": "あした ろくじに おこして ください。",
+        "romaji": "ashita rokuji ni okoshite kudasai.",
+        "ta": "நாளை ஆறு மணிக்கு என்னை எழுப்புங்கள்.",
+        "en": "Please wake me up at six tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-123",
+    "expression": "迎える",
+    "reading": "むかえる",
+    "romaji": "mukaeru",
+    "en": "to meet; to welcome",
+    "ta": "வரவேற்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "空港へ 友達を 迎えに 行きます。",
+        "reading": "くうこうへ ともだちを むかえに いきます。",
+        "romaji": "kuukou e tomodachi o mukae ni ikimasu.",
+        "ta": "நண்பரை வரவேற்க விமான நிலையத்துக்குப் போகிறேன்.",
+        "en": "I'm going to the airport to meet a friend."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-130",
+    "expression": "寄る",
+    "reading": "よる",
+    "romaji": "yoru",
+    "en": "to stop by",
+    "ta": "வழியில் போய் வர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "帰りに 本屋に 寄りました。",
+        "reading": "かえりに ほんやに よりました。",
+        "romaji": "kaeri ni hon'ya ni yorimashita.",
+        "ta": "திரும்பும் வழியில் புத்தகக் கடைக்குப் போய் வந்தேன்.",
+        "en": "I stopped by a bookshop on the way home."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-149",
+    "expression": "飾る",
+    "reading": "かざる",
+    "romaji": "kazaru",
+    "en": "to decorate",
+    "ta": "அலங்கரிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "ディーパバリの 前に 家を 花で 飾ります。",
+        "reading": "ディーパバリの まえに いえを はなで かざります。",
+        "romaji": "diipabari no mae ni ie o hana de kazarimasu.",
+        "ta": "தீபாவளிக்கு முன் வீட்டைப் பூக்களால் அலங்கரிப்போம்.",
+        "en": "Before Deepavali we decorate the house with flowers."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-171",
+    "expression": "準備",
+    "reading": "じゅんび",
+    "romaji": "junbi",
+    "en": "preparation; to prepare",
+    "ta": "தயாரிப்பு; தயார் செய்ய",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行の 準備は もう できましたか。",
+        "reading": "りょこうの じゅんびは もう できましたか。",
+        "romaji": "ryokou no junbi wa mou dekimashita ka.",
+        "ta": "பயணத்துக்கான தயாரிப்பு முடிந்துவிட்டதா?",
+        "en": "Are you ready for the trip yet?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-189",
+    "expression": "飛行場",
+    "reading": "ひこうじょう",
+    "romaji": "hikoujou",
+    "en": "airport; airfield",
+    "ta": "விமான நிலையம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "飛行場から ホテルまで バスで 行きました。",
+        "reading": "ひこうじょうから ホテルまで バスで いきました。",
+        "romaji": "hikoujou kara hoteru made basu de ikimashita.",
+        "ta": "விமான நிலையத்திலிருந்து ஹோட்டல் வரை பஸ்ஸில் போனேன்.",
+        "en": "I went from the airport to the hotel by bus."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-230",
+    "expression": "立てる",
+    "reading": "たてる",
+    "romaji": "tateru",
+    "en": "to stand up (something); to make (a plan)",
+    "ta": "நிறுத்தி வைக்க; (திட்டம்) போட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夏休みの 計画を 立てました。",
+        "reading": "なつやすみの けいかくを たてました。",
+        "romaji": "natsuyasumi no keikaku o tatemashita.",
+        "ta": "கோடை விடுமுறைக்குத் திட்டம் போட்டேன்.",
+        "en": "I made plans for the summer holidays."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-274",
+    "expression": "用意",
+    "reading": "ようい",
+    "romaji": "youi",
+    "en": "preparation; getting ready",
+    "ta": "ஏற்பாடு; தயார்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母が 朝ご飯を 用意して くれました。",
+        "reading": "ははが あさごはんを よういして くれました。",
+        "romaji": "haha ga asagohan o youi shite kuremashita.",
+        "ta": "அம்மா காலை உணவைத் தயார் செய்து தந்தார்.",
+        "en": "My mother got breakfast ready for me."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-280",
+    "expression": "お土産",
+    "reading": "おみやげ",
+    "romaji": "omiyage",
+    "en": "souvenir; gift",
+    "ta": "நினைவுப் பரிசு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都で 家族に お土産を 買いました。",
+        "reading": "きょうとで かぞくに おみやげを かいました。",
+        "romaji": "kyouto de kazoku ni omiyage o kaimashita.",
+        "ta": "கியோட்டோவில் குடும்பத்துக்கு நினைவுப் பரிசுகள் வாங்கினேன்.",
+        "en": "I bought souvenirs for my family in Kyoto."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-282",
+    "expression": "旅館",
+    "reading": "りょかん",
+    "romaji": "ryokan",
+    "en": "Japanese inn",
+    "ta": "ஜப்பானிய பாரம்பரிய விடுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅館で 温泉に 入りました。",
+        "reading": "りょかんで おんせんに はいりました。",
+        "romaji": "ryokan de onsen ni hairimashita.",
+        "ta": "விடுதியில் வெந்நீர் ஊற்றில் குளித்தேன்.",
+        "en": "I bathed in the hot spring at the inn."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-311",
+    "expression": "泊まる",
+    "reading": "とまる",
+    "romaji": "tomaru",
+    "en": "to stay (overnight)",
+    "ta": "இரவு தங்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "今晩は 駅の 近くの ホテルに 泊まります。",
+        "reading": "こんばんは えきの ちかくの ホテルに とまります。",
+        "romaji": "konban wa eki no chikaku no hoteru ni tomarimasu.",
+        "ta": "இன்றிரவு ஸ்டேஷன் அருகிலுள்ள ஹோட்டலில் தங்குகிறேன்.",
+        "en": "Tonight I'm staying at a hotel near the station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-315",
+    "expression": "チェックする",
+    "reading": "チェックする",
+    "romaji": "chekkusuru",
+    "en": "to check",
+    "ta": "சரிபார்க்க",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "出かける 前に、メールを チェックします。",
+        "reading": "でかける まえに、メールを チェックします。",
+        "romaji": "dekakeru mae ni, meeru o chekku shimasu.",
+        "ta": "வெளியே போகும் முன் மின்னஞ்சலைச் சரிபார்க்கிறேன்.",
+        "en": "I check my email before I go out."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-321",
+    "expression": "急行",
+    "reading": "きゅうこう",
+    "romaji": "kyuukou",
+    "en": "express (train)",
+    "ta": "விரைவு ரயில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "急行は この 駅に 止まりません。",
+        "reading": "きゅうこうは この えきに とまりません。",
+        "romaji": "kyuukou wa kono eki ni tomarimasen.",
+        "ta": "விரைவு ரயில் இந்த ஸ்டேஷனில் நிற்காது.",
+        "en": "The express doesn't stop at this station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-324",
+    "expression": "空港",
+    "reading": "くうこう",
+    "romaji": "kuukou",
+    "en": "airport",
+    "ta": "விமான நிலையம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "成田空港から チェンナイ行きの 飛行機に 乗ります。",
+        "reading": "なりたくうこうから チェンナイゆきの ひこうきに のります。",
+        "romaji": "narita kuukou kara chennai-yuki no hikouki ni norimasu.",
+        "ta": "நரிட்டா விமான நிலையத்திலிருந்து சென்னை செல்லும் விமானத்தில் ஏறுவேன்.",
+        "en": "I'll take the flight to Chennai from Narita Airport."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-341",
+    "expression": "予約",
+    "reading": "よやく",
+    "romaji": "yoyaku",
+    "en": "reservation; booking",
+    "ta": "முன்பதிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "レストランに 電話して、予約しました。",
+        "reading": "レストランに でんわして、よやくしました。",
+        "romaji": "resutoran ni denwa shite, yoyaku shimashita.",
+        "ta": "உணவகத்துக்குப் போன் செய்து முன்பதிவு செய்தேன்.",
+        "en": "I phoned the restaurant and made a booking."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-345",
+    "expression": "写す",
+    "reading": "うつす",
+    "romaji": "utsusu",
+    "en": "to copy; to take (a photo)",
+    "ta": "நகலெடுக்க; படம் எடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "黒板の 字を ノートに 写しました。",
+        "reading": "こくばんの じを ノートに うつしました。",
+        "romaji": "kokuban no ji o nooto ni utsushimashita.",
+        "ta": "கரும்பலகையில் இருந்த எழுத்துகளை நோட்டில் எழுதிக்கொண்டேன்.",
+        "en": "I copied the writing on the blackboard into my notebook."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-418",
+    "expression": "支度",
+    "reading": "したく",
+    "romaji": "shitaku",
+    "en": "getting ready; to get ready",
+    "ta": "தயாராதல்; தயாராக",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "早く 出かける 支度を して ください。",
+        "reading": "はやく でかける したくを して ください。",
+        "romaji": "hayaku dekakeru shitaku o shite kudasai.",
+        "ta": "சீக்கிரம் வெளியே போகத் தயாராகுங்கள்.",
+        "en": "Hurry up and get ready to go out."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-442",
+    "expression": "特急",
+    "reading": "とっきゅう",
+    "romaji": "tokkyuu",
+    "en": "limited express",
+    "ta": "அதிவிரைவு ரயில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "特急で 日光へ 行きました。",
+        "reading": "とっきゅうで にっこうへ いきました。",
+        "romaji": "tokkyuu de nikkou e ikimashita.",
+        "ta": "அதிவிரைவு ரயிலில் நிக்கோவுக்குப் போனேன்.",
+        "en": "I went to Nikko by limited express."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-492",
+    "expression": "手伝う",
+    "reading": "てつだう",
+    "romaji": "tetsudau",
+    "en": "to help",
+    "ta": "உதவ",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "引っ越しを 手伝って くれて、ありがとう。",
+        "reading": "ひっこしを てつだって くれて、ありがとう。",
+        "romaji": "hikkoshi o tetsudatte kurete, arigatou.",
+        "ta": "வீடு மாற உதவியதற்கு நன்றி.",
+        "en": "Thanks for helping me move."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-497",
+    "expression": "会場",
+    "reading": "かいじょう",
+    "romaji": "kaijou",
+    "en": "venue; hall",
+    "ta": "நிகழ்ச்சி அரங்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "コンサートの 会場は 駅の 前です。",
+        "reading": "コンサートの かいじょうは えきの まえです。",
+        "romaji": "konsaato no kaijou wa eki no mae desu.",
+        "ta": "இசை நிகழ்ச்சி அரங்கம் ஸ்டேஷன் முன் இருக்கிறது.",
+        "en": "The concert venue is in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-499",
+    "expression": "運ぶ",
+    "reading": "はこぶ",
+    "romaji": "hakobu",
+    "en": "to carry",
+    "ta": "சுமந்து செல்ல",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "いすを 会議室へ 運んで ください。",
+        "reading": "いすを かいぎしつへ はこんで ください。",
+        "romaji": "isu o kaigishitsu e hakonde kudasai.",
+        "ta": "நாற்காலிகளைக் கூட்ட அறைக்குக் கொண்டு செல்லுங்கள்.",
+        "en": "Please carry the chairs to the meeting room."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-533",
+    "expression": "集める",
+    "reading": "あつめる",
+    "romaji": "atsumeru",
+    "en": "to collect; to gather",
+    "ta": "சேகரிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "弟は 古い 切手を 集めて います。",
+        "reading": "おとうとは ふるい きってを あつめて います。",
+        "romaji": "otouto wa furui kitte o atsumete imasu.",
+        "ta": "தம்பி பழைய தபால்தலைகளைச் சேகரிக்கிறான்.",
+        "en": "My younger brother collects old stamps."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-556",
+    "expression": "出発",
+    "reading": "しゅっぱつ",
+    "romaji": "shuppatsu",
+    "en": "departure; to depart",
+    "ta": "புறப்பாடு; புறப்பட",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "バスは 八時に 出発します。",
+        "reading": "バスは はちじに しゅっぱつします。",
+        "romaji": "basu wa hachiji ni shuppatsu shimasu.",
+        "ta": "பஸ் எட்டு மணிக்குப் புறப்படும்.",
+        "en": "The bus leaves at eight."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-580",
+    "expression": "スーツケース",
+    "reading": "スーツケース",
+    "romaji": "suutsukeesu",
+    "en": "suitcase",
+    "ta": "பயணப் பெட்டி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "スーツケースが 重くて、一人で 運べません。",
+        "reading": "スーツケースが おもくて、ひとりで はこべません。",
+        "romaji": "suutsukeesu ga omokute, hitori de hakobemasen.",
+        "ta": "பெட்டி கனமாக இருப்பதால் தனியாகத் தூக்கிச் செல்ல முடியவில்லை.",
+        "en": "The suitcase is heavy, so I can't carry it alone."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-642",
+    "expression": "集まる",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "en": "to gather (together)",
+    "ta": "ஒன்றுகூட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "九時に 駅の 前に 集まって ください。",
+        "reading": "くじに えきの まえに あつまって ください。",
+        "romaji": "kuji ni eki no mae ni atsumatte kudasai.",
+        "ta": "ஒன்பது மணிக்கு ஸ்டேஷன் முன் ஒன்றுகூடுங்கள்.",
+        "en": "Please gather in front of the station at nine."
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "lesson": 3,
+  "title": { "ja": "静かだし、便利だし", "ta": "அமைதியாகவும் இருக்கு, வசதியாகவும் இருக்கு", "en": "It's quiet, and convenient too" },
+  "intro_ta": "எங்கே வசிப்பது நல்லது — நகரமா, புறநகரா, கிராமமா? இந்தப் பாடத்தில் 〜し、〜し என்று பல காரணங்களை அடுக்கிச் சொல்லக் கற்போம். それに (அதோடு), それで (அதனால்தான்) என்ற இணைப்புச் சொற்களைக் கொண்டு கருத்துகளை இணைப்போம். '一時間も' போல ஒரு அளவு எதிர்பார்த்ததைவிட அதிகம் என்று வியப்புடன் சொல்லவும், 'お茶でも飲みませんか' என்று மென்மையாக அழைக்கவும் பழகுவோம்.",
+  "intro_en": "Where is the best place to live: the city, the suburbs or the countryside? In this lesson you will list several reasons with 〜し、〜し. You will join ideas with それに (besides) and それで (that's why). You will say an amount is surprisingly large, like 一時間も (a whole hour). You will also make soft invitations like お茶でも飲みませんか (shall we have tea or something?).",
+  "grammar": [
+    {
+      "id": "g03-1",
+      "pattern": "plain form し、plain form し、〜",
+      "name": { "en": "Listing reasons: 〜し、〜し", "ta": "〜し、〜し: காரணங்களை அடுக்குதல்" },
+      "explanation_ta": "〜し என்பது ஒரு விஷயத்துக்குப் பல காரணங்களை அல்லது பல குணங்களை அடுக்கிச் சொல்லப் பயன்படும். தமிழில் 'ஸ்டேஷனுக்கும் அருகில், வாடகையும் குறைவு' என்று '-உம்' போட்டு அடுக்குவது போல. அதனால் பெரும்பாலும் இரண்டாவது பகுதியில் も வரும் (家賃も). し-க்கு முன் சாதாரண வடிவம் வர வேண்டும்: 近いし, 静かだし, 雨だし, 行ったし. இரண்டு காரணம் சொல்லி முடிவைச் சொல்லலாம்; அல்லது ஒரு காரணம் மட்டும் சொல்லி மற்றவை உண்டு என்று குறிப்பிடலாம். 〜から ஒரே ஒரு காரணத்தைத் தரும்; 〜し 'இதுவும் உண்டு, அதுவும் உண்டு' என்று அடுக்கும்.",
+      "explanation_en": "Use 〜し to list several reasons or good/bad points. It is like Tamil \"-உம்\": ஸ்டேஷனுக்கும் அருகில், வாடகையும் குறைவு (near the station, and cheap too). So the second part often has も (家賃も). Before し, use the plain form: 近いし, 静かだし, 雨だし, 行ったし. You can give two reasons and then the result. Or give one reason and hint there are more. 〜から gives one reason. 〜し lists \"this, and also that\".",
+      "tamil_parallel": "ஸ்டேஷனுக்கும் அருகில், வாடகையும் குறைவு; ரொம்ப நல்ல வீடு = 駅から近いし、家賃も安いし、いいアパートです",
+      "tamil_parallel_en": "\"It's near the station, and the rent is cheap too; a great flat\" (ஸ்டேஷனுக்கும் அருகில், வாடகையும் குறைவு) = 駅から近いし、家賃も安いし、いいアパートです.",
+      "formation": "வினை (சாதாரண வடிவம்) + し: あるし・行ったし\nい-பெயரடை + し: 近いし・安かったし\nな-பெயரடை + だし: 静かだし\nபெயர்ச்சொல் + だし: 雨だし\n〜し、〜し、(முடிவு)",
+      "formation_en": "Verb (plain form) + し: あるし・行ったし\nい-adjective + し: 近いし・安かったし\nな-adjective + だし: 静かだし\nNoun + だし: 雨だし\n〜し、〜し、(result)",
+      "examples": [
+        { "ja": "この アパートは 駅から 近いし、家賃も 安いし、とても いいです。", "reading": "この アパートは えきから ちかいし、やちんも やすいし、とても いいです。", "romaji": "kono apaato wa eki kara chikai shi, yachin mo yasui shi, totemo ii desu.", "ta": "இந்த வீடு ஸ்டேஷனுக்கும் அருகில், வாடகையும் குறைவு; ரொம்ப நல்லது.", "en": "This flat is near the station and the rent is cheap. It's really good." },
+        { "ja": "田舎は 静かだし、空気も きれいだし、住みたいです。", "reading": "いなかは しずかだし、くうきも きれいだし、すみたいです。", "romaji": "inaka wa shizuka da shi, kuuki mo kirei da shi, sumitai desu.", "ta": "கிராமம் அமைதியாகவும் இருக்கிறது, காற்றும் தூய்மையாக இருக்கிறது; அங்கே வசிக்க ஆசை.", "en": "The countryside is quiet and the air is clean, so I'd like to live there." },
+        { "ja": "今日は 雨だし、寒いし、どこも 行きたくないです。", "reading": "きょうは あめだし、さむいし、どこも いきたくないです。", "romaji": "kyou wa ame da shi, samui shi, doko mo ikitakunai desu.", "ta": "இன்று மழையும் பெய்கிறது, குளிரும் அடிக்கிறது; எங்கும் போக விருப்பமில்லை.", "en": "It's raining and cold today, so I don't want to go anywhere." },
+        { "ja": "「どうして この 下宿に したんですか。」「大学に 近いし、大家さんも 親切ですから。」", "reading": "「どうして この げしゅくに したんですか。」「だいがくに ちかいし、おおやさんも しんせつですから。」", "romaji": "\"doushite kono geshuku ni shita n desu ka.\" \"daigaku ni chikai shi, ooya-san mo shinsetsu desu kara.\"", "ta": "\"ஏன் இந்தத் தங்கும் வீட்டைத் தேர்ந்தெடுத்தீர்கள்?\" \"பல்கலைக்கழகத்துக்கும் அருகில், வீட்டு உரிமையாளரும் அன்பானவர்.\"", "en": "\"Why did you choose these lodgings?\" \"They're near the university, and the landlord is kind too.\"" },
+        { "ja": "昨日は 寝坊したし、財布も 忘れたし、大変でした。", "reading": "きのうは ねぼうしたし、さいふも わすれたし、たいへんでした。", "romaji": "kinou wa nebou shita shi, saifu mo wasureta shi, taihen deshita.", "ta": "நேற்று அதிக நேரம் தூங்கிவிட்டேன், பர்ஸையும் மறந்துவிட்டேன்; ரொம்பக் கஷ்டமான நாள்.", "en": "Yesterday I overslept and forgot my wallet too. It was awful." },
+        { "ja": "この 町は 店も 多いし、病院も あるし、便利です。", "reading": "この まちは みせも おおいし、びょういんも あるし、べんりです。", "romaji": "kono machi wa mise mo ooi shi, byouin mo aru shi, benri desu.", "ta": "இந்த ஊரில் கடைகளும் அதிகம், மருத்துவமனையும் இருக்கிறது; வசதியானது.", "en": "This town has lots of shops and a hospital, so it's convenient." }
+      ],
+      "pitfalls_ta": "な-பெயரடை, பெயர்ச்சொல்லுடன் だ-வை மறக்காதீர்கள்: '静かし' தவறு, 静かだし சரி. மேலும் し-க்கு முன் ます-வடிவம் சாதாரணப் பேச்சில் வராது; 'ありますし' மிகப் பணிவான பேச்சில் மட்டும்.",
+      "pitfalls_en": "Don't forget だ after な-adjectives and nouns: 静かし is wrong, 静かだし is right. Also, in normal speech don't put the ます-form before し. ありますし is only for very polite speech."
+    },
+    {
+      "id": "g03-2",
+      "pattern": "それに",
+      "name": { "en": "Besides / what's more: それに", "ta": "それに: அதோடு" },
+      "explanation_ta": "それに என்பது முன் சொன்ன கருத்தோடு இன்னொரு கருத்தைச் சேர்க்கும் இணைப்புச் சொல்: 'அதோடு', 'இன்னும் சொல்லப்போனால்'. இரண்டு கருத்துகளும் ஒரே திசையில் இருக்க வேண்டும் (இரண்டும் நல்லவை, அல்லது இரண்டும் கெட்டவை). பெரும்பாலும் இரண்டாவது வாக்கியத்தில் も வரும். 〜し、〜し என்பதோடு சேர்ந்தும் வரும்: 静かだし、緑も多いです。それに、〜. எதிர்மாறான கருத்தைச் சேர்க்க でも பயன்படுத்துங்கள், それに அல்ல.",
+      "explanation_en": "それに adds one more point to what you just said: \"besides\", \"what's more\" (அதோடு). Both points must go the same way: both good, or both bad. The second sentence often has も. It can come after 〜し、〜し: 静かだし、緑も多いです。それに、〜. To add an opposite point, use でも, not それに.",
+      "tamil_parallel": "இந்த அறை வெளிச்சமானது. அதோடு வாடகையும் குறைவு = この部屋は明るいです。それに、家賃も安いです",
+      "tamil_parallel_en": "\"This room is bright. Besides, the rent is cheap\" (இந்த அறை வெளிச்சமானது. அதோடு வாடகையும் குறைவு) = この部屋は明るいです。それに、家賃も安いです.",
+      "formation": "வாக்கியம் 1。それに、வாக்கியம் 2 (பெரும்பாலும் 〜も)\n(இரண்டும் ஒரே திசை: நல்லது + நல்லது / கெட்டது + கெட்டது)",
+      "formation_en": "Sentence 1。それに、sentence 2 (often with 〜も)\n(Both go the same way: good + good / bad + bad)",
+      "examples": [
+        { "ja": "この 部屋は 明るいです。それに、家賃も 安いです。", "reading": "この へやは あかるいです。それに、やちんも やすいです。", "romaji": "kono heya wa akarui desu. soreni, yachin mo yasui desu.", "ta": "இந்த அறை வெளிச்சமாக இருக்கிறது. அதோடு வாடகையும் குறைவு.", "en": "This room is bright. Besides, the rent is cheap." },
+        { "ja": "今日は 頭が 痛いんです。それに、熱も あります。", "reading": "きょうは あたまが いたいんです。それに、ねつも あります。", "romaji": "kyou wa atama ga itai n desu. soreni, netsu mo arimasu.", "ta": "இன்று தலைவலிக்கிறது. அதோடு காய்ச்சலும் இருக்கிறது.", "en": "I have a headache today. On top of that, I have a fever." },
+        { "ja": "田中さんは 親切です。それに、とても おもしろい 人です。", "reading": "たなかさんは しんせつです。それに、とても おもしろい ひとです。", "romaji": "tanaka-san wa shinsetsu desu. soreni, totemo omoshiroi hito desu.", "ta": "தனகா அன்பானவர். அதோடு மிகவும் வேடிக்கையானவர்.", "en": "Mr Tanaka is kind. What's more, he's very funny." },
+        { "ja": "郊外は 静かだし、緑も 多いです。それに、家も 広いです。", "reading": "こうがいは しずかだし、みどりも おおいです。それに、いえも ひろいです。", "romaji": "kougai wa shizuka da shi, midori mo ooi desu. soreni, ie mo hiroi desu.", "ta": "புறநகர் அமைதியானது, பசுமையும் அதிகம். அதோடு வீடுகளும் பெரியவை.", "en": "The suburbs are quiet and green. Besides, the houses are big." },
+        { "ja": "「なぜ 引っ越すんですか。」「今の 部屋は 狭いんです。それに、駅から 遠いんです。」", "reading": "「なぜ ひっこすんですか。」「いまの へやは せまいんです。それに、えきから とおいんです。」", "romaji": "\"naze hikkosu n desu ka.\" \"ima no heya wa semai n desu. soreni, eki kara tooi n desu.\"", "ta": "\"ஏன் வீடு மாறுகிறீர்கள்?\" \"இப்போதைய அறை சின்னது. அதோடு ஸ்டேஷனிலிருந்தும் தூரம்.\"", "en": "\"Why are you moving?\" \"My room is small. Besides, it's far from the station.\"" }
+      ],
+      "pitfalls_ta": "それに (அதோடு) மற்றும் それで (அதனால்) இரண்டும் ஒலியில் ஒத்தவை; பொருள் முற்றிலும் வேறு. கருத்தைச் சேர்க்க それに, விளைவைச் சொல்ல それで.",
+      "pitfalls_en": "それに (besides) and それで (so) sound alike, but the meaning is very different. Add a point → それに. Give a result → それで."
+    },
+    {
+      "id": "g03-3",
+      "pattern": "それで",
+      "name": { "en": "So / that's why: それで", "ta": "それで: அதனால்தான்" },
+      "explanation_ta": "それで என்பது முன் சொன்ன விஷயத்தின் விளைவைச் சொல்லும் இணைப்புச் சொல்: 'அதனால்தான்', 'அதன் விளைவாக'. ஏற்கனவே நடந்த அல்லது நடக்கும் உண்மையான விளைவை விவரிக்கும். உரையாடலில் மற்றவர் சொன்ன காரணத்தைக் கேட்டு 'ஓ, அதனால்தானா...' என்று புரிந்துகொண்டதைக் காட்டவும் பயன்படும் (それで〜んですね). N1-இல் கற்ற だから-வும் 'அதனால்' தான்; ஆனால் だから-க்குப் பின் கட்டளை, வேண்டுகோள், அழைப்பு வரலாம்; それで-க்குப் பின் பொதுவாக வராது.",
+      "explanation_en": "それで gives the result of what was just said: \"so\", \"that's why\" (அதனால்தான்). It describes a real result that happened or happens. In a conversation, you can also use it to show you understand: \"Oh, so that's why ...\" (それで〜んですね). だから (Lesson 1) also means \"so\". But after だから you can give an order, request or invitation. After それで you usually cannot.",
+      "tamil_parallel": "அலுவலகம் தூரம். அதனால்தான் ஆறு மணிக்கே கிளம்புகிறேன் = 会社が遠いんです。それで、六時に家を出ます",
+      "tamil_parallel_en": "\"My office is far. That's why I leave at six\" (அலுவலகம் தூரம். அதனால்தான் ஆறு மணிக்கே கிளம்புகிறேன்) = 会社が遠いんです。それで、六時に家を出ます.",
+      "formation": "காரணம்。それで、விளைவு (உண்மை நிகழ்வு)\nஉரையாடலில்: それで〜んですね (அதனால்தானா!)\nகவனிக்க: それで + 〜てください / 〜ましょう ✗ → だから",
+      "formation_en": "Reason。それで、result (a real event)\nIn conversation: それで〜んですね (so that's why!)\nNote: それで + 〜てください / 〜ましょう ✗ → use だから",
+      "examples": [
+        { "ja": "会社の 近くに 引っ越しました。それで、毎朝 ゆっくり 寝られます。", "reading": "かいしゃの ちかくに ひっこしました。それで、まいあさ ゆっくり ねられます。", "romaji": "kaisha no chikaku ni hikkoshimashita. sorede, maiasa yukkuri neraremasu.", "ta": "அலுவலகத்துக்கு அருகில் வீடு மாறினேன். அதனால் தினமும் காலையில் நிம்மதியாகத் தூங்க முடிகிறது.", "en": "I moved near my office. So I can sleep longer every morning." },
+        { "ja": "昨日は 大雨でした。それで、電車が 遅れたんです。", "reading": "きのうは おおあめでした。それで、でんしゃが おくれたんです。", "romaji": "kinou wa ooame deshita. sorede, densha ga okureta n desu.", "ta": "நேற்று பலத்த மழை. அதனால்தான் ரயில் தாமதமானது.", "en": "There was heavy rain yesterday. That's why the train was late." },
+        { "ja": "「この 町は 店が 少ないんです。」「それで、いつも 車で 買い物に 行くんですね。」", "reading": "「この まちは みせが すくないんです。」「それで、いつも くるまで かいものに いくんですね。」", "romaji": "\"kono machi wa mise ga sukunai n desu.\" \"sorede, itsumo kuruma de kaimono ni iku n desu ne.\"", "ta": "\"இந்த ஊரில் கடைகள் குறைவு.\" \"அதனால்தான் எப்போதும் காரில் கடைக்குப் போகிறீர்களா!\"", "en": "\"There are few shops in this town.\" \"So that's why you always go shopping by car.\"" },
+        { "ja": "日本の アニメが 好きです。それで、日本語の 勉強を 始めました。", "reading": "にほんの アニメが すきです。それで、にほんごの べんきょうを はじめました。", "romaji": "nihon no anime ga suki desu. sorede, nihongo no benkyou o hajimemashita.", "ta": "எனக்கு ஜப்பானிய அனிமே பிடிக்கும். அதனால்தான் ஜப்பானிய மொழி படிக்கத் தொடங்கினேன்.", "en": "I like Japanese anime. That's why I started learning Japanese." },
+        { "ja": "家賃が 高く なりました。それで、郊外へ 引っ越しました。", "reading": "やちんが たかく なりました。それで、こうがいへ ひっこしました。", "romaji": "yachin ga takaku narimashita. sorede, kougai e hikkoshimashita.", "ta": "வாடகை அதிகமாகிவிட்டது. அதனால் புறநகருக்கு வீடு மாறினேன்.", "en": "The rent went up. So I moved to the suburbs." }
+      ],
+      "pitfalls_ta": "'雨です。それで、傘を持って行ってください' என்பது இயல்பாக இல்லை; வேண்டுகோளுக்கு だから பயன்படுத்துங்கள்: 雨です。だから、傘を持って行ってください.",
+      "pitfalls_en": "雨です。それで、傘を持って行ってください is not natural. For a request, use だから: 雨です。だから、傘を持って行ってください."
+    },
+    {
+      "id": "g03-4",
+      "pattern": "quantity + も",
+      "name": { "en": "As many / as much as: amount + も", "ta": "அளவு + も: இவ்வளவு அதிகமா!" },
+      "explanation_ta": "எண்ணிக்கை அல்லது அளவுக்குப் பின் も சேர்த்தால் 'எதிர்பார்த்ததைவிட அதிகம்' என்ற வியப்பு அல்லது அழுத்தம் வரும்: 一時間もかかりました = 'ஒரு மணி நேரம் ஆகிவிட்டது!'. இங்கே も என்பது 'உம்' (also) என்ற பொருளில் அல்ல. தமிழில் 'ஒரு மணி நேரமா ஆச்சு!', 'பத்து கடைகள் இருக்கு!' என்று குரலை உயர்த்திச் சொல்வது போல. பாடம் 2-இல் கற்ற しか (குறைவு, எதிர்மறை வினை) இதற்கு எதிரானது: 一時間しかかかりませんでした = 'ஒரு மணி நேரம் மட்டுமே ஆனது'.",
+      "explanation_en": "Put も after a number or amount to say \"that much! more than I expected\". 一時間もかかりました means \"It took a whole hour!\". Here も does not mean \"also\". It is like saying in Tamil, with surprise: ஒரு மணி நேரமா ஆச்சு! (a whole hour!). It is the opposite of しか from Lesson 2. 一時間しかかかりませんでした means \"It only took an hour.\"",
+      "tamil_parallel": "ஸ்டேஷனுக்கு நடக்க ஒரு மணி நேரமா ஆச்சு! = 駅まで歩いて一時間もかかりました",
+      "tamil_parallel_en": "\"Walking to the station took a whole hour!\" (ஸ்டேஷனுக்கு நடக்க ஒரு மணி நேரமா ஆச்சு!) = 駅まで歩いて一時間もかかりました.",
+      "formation": "எண் + அளவுச்சொல் + も + வினை (பெரும்பாலும் நேர்மறை)\n一時間も・十軒も・五本も・十五万円も\nஎதிர்: எண் + しか + எதிர்மறை வினை (குறைவு)",
+      "formation_en": "Number + counter + も + verb (usually positive)\n一時間も・十軒も・五本も・十五万円も\nOpposite: number + しか + negative verb (only, too little)",
+      "examples": [
+        { "ja": "駅まで 歩いて 一時間も かかりました。", "reading": "えきまで あるいて いちじかんも かかりました。", "romaji": "eki made aruite ichijikan mo kakarimashita.", "ta": "ஸ்டேஷன் வரை நடக்க ஒரு மணி நேரம் ஆகிவிட்டது!", "en": "It took a whole hour to walk to the station." },
+        { "ja": "毎日 電車で 二時間も かけて 通って います。", "reading": "まいにち でんしゃで にじかんも かけて かよって います。", "romaji": "mainichi densha de nijikan mo kakete kayotte imasu.", "ta": "தினமும் ரயிலில் இரண்டு மணி நேரம் பயணம் செய்து போய் வருகிறேன்!", "en": "Every day I spend as long as two hours commuting by train." },
+        { "ja": "この 町には コンビニが 十軒も あります。", "reading": "この まちには コンビニが じゅっけんも あります。", "romaji": "kono machi ni wa konbini ga jukken mo arimasu.", "ta": "இந்த ஊரில் பத்து கன்வீனியன்ஸ் கடைகள் இருக்கின்றன!", "en": "There are as many as ten convenience stores in this town." },
+        { "ja": "彼は ビールを 五本も 飲みました。", "reading": "かれは ビールを ごほんも のみました。", "romaji": "kare wa biiru o gohon mo nomimashita.", "ta": "அவர் ஐந்து பாட்டில் பீர் குடித்துவிட்டார்!", "en": "He drank as many as five bottles of beer." },
+        { "ja": "この 部屋の 家賃は 十五万円も するんですか。", "reading": "この へやの やちんは じゅうごまんえんも するんですか。", "romaji": "kono heya no yachin wa juugoman'en mo suru n desu ka.", "ta": "இந்த அறையின் வாடகை ஒன்றரை லட்சம் யென்னா?!", "en": "The rent for this room is as much as 150,000 yen?" }
+      ],
+      "pitfalls_ta": "'一時間もかかりませんでした' என்று எதிர்மறையுடன் சொன்னால் 'ஒரு மணி நேரம்கூட ஆகவில்லை' என்று பொருள் மாறிவிடும். 'அதிகம்' என்ற வியப்புக்கு நேர்மறை வினை.",
+      "pitfalls_en": "With a negative verb (一時間もかかりませんでした), the meaning changes to \"not even one hour\". For \"so much!\", use a positive verb."
+    },
+    {
+      "id": "g03-5",
+      "pattern": "N でも V-ませんか",
+      "name": { "en": "Shall we … or something?", "ta": "〜でも〜ませんか: ஏதாவது செய்யலாமா?" },
+      "explanation_ta": "அழைக்கும்போது பெயர்ச்சொல்லுக்குப் பின் でも சேர்த்தால் 'அது அல்லது அது போல ஏதாவது' என்று மென்மையாக்கும்: お茶でも飲みませんか = 'டீ ஏதாவது குடிக்கலாமா?'. கேட்பவர் வேறு ஒன்றைத் தேர்ந்தெடுக்க இடம் தருவதால் கட்டாயப்படுத்துவது போல இருக்காது. இங்கே でも என்பது 'ஆனால்' அல்ல. を, が இருந்தால் அவை விடப்படும் (お茶を → お茶でも); に, へ, で போன்றவை இருக்கலாம் (公園にでも行きませんか). தமிழில் 'டீ-கீ குடிக்கலாமா?', 'படம்-கிடம் பார்க்கலாமா?' என்று சொல்வது போல.",
+      "explanation_en": "In an invitation, put でも after a noun to make it soft: \"that, or something like it\". お茶でも飲みませんか means \"Shall we have tea or something?\". It leaves the other person free to choose, so it doesn't push. Here でも does not mean \"but\". It replaces を and が (お茶を → お茶でも). に, へ and で can stay (公園にでも行きませんか). In Tamil we say டீ-கீ குடிக்கலாமா? (tea or something?).",
+      "tamil_parallel": "டீ-கீ குடிக்கலாமா? = お茶でも飲みませんか",
+      "tamil_parallel_en": "\"Shall we have tea or something?\" (டீ-கீ குடிக்கலாமா?) = お茶でも飲みませんか.",
+      "formation": "N + でも + V-ませんか / V-ましょうか\nお茶を飲みませんか → お茶でも飲みませんか\nに / へ / で + でも: 公園にでも行きませんか",
+      "formation_en": "N + でも + V-ませんか / V-ましょうか\nお茶を飲みませんか → お茶でも飲みませんか\nに / へ / で + でも: 公園にでも行きませんか",
+      "examples": [
+        { "ja": "暑いですね。冷たい ものでも 飲みませんか。", "reading": "あついですね。つめたい ものでも のみませんか。", "romaji": "atsui desu ne. tsumetai mono demo nomimasen ka.", "ta": "வெயிலாக இருக்கிறதே. குளிர்ச்சியாக ஏதாவது குடிக்கலாமா?", "en": "It's hot, isn't it? Shall we have something cold to drink?" },
+        { "ja": "週末、映画でも 見に 行きませんか。", "reading": "しゅうまつ、えいがでも みに いきませんか。", "romaji": "shuumatsu, eiga demo mi ni ikimasen ka.", "ta": "வார இறுதியில் படம் ஏதாவது பார்க்கப் போகலாமா?", "en": "Shall we go and see a film or something at the weekend?" },
+        { "ja": "疲れましたね。お茶でも 飲みませんか。", "reading": "つかれましたね。おちゃでも のみませんか。", "romaji": "tsukaremashita ne. ocha demo nomimasen ka.", "ta": "களைப்பாக இருக்கிறதே. டீ ஏதாவது குடிக்கலாமா?", "en": "We're tired. Shall we have some tea or something?" },
+        { "ja": "「暇ですね。」「じゃ、公園にでも 行きませんか。」", "reading": "「ひまですね。」「じゃ、こうえんにでも いきませんか。」", "romaji": "\"hima desu ne.\" \"ja, kouen ni demo ikimasen ka.\"", "ta": "\"போர் அடிக்கிறது.\" \"அப்படியென்றால், பூங்கா பக்கம் போகலாமா?\"", "en": "\"We're bored.\" \"Then shall we go to the park or something?\"" },
+        { "ja": "来週 いっしょに 食事でも しませんか。", "reading": "らいしゅう いっしょに しょくじでも しませんか。", "romaji": "raishuu issho ni shokuji demo shimasen ka.", "ta": "அடுத்த வாரம் சேர்ந்து சாப்பிடப் போகலாமா?", "en": "Shall we have a meal together next week or something?" }
+      ],
+      "pitfalls_ta": "'お茶をでも' என்று を-வையும் でも-வையும் சேர்த்துச் சொல்வது தவறு; を விடப்படும். இந்த でも-வை வாக்கியத் தொடக்கத்தில் வரும் でも (ஆனால்) உடன் குழப்பிக்கொள்ள வேண்டாம்.",
+      "pitfalls_en": "お茶をでも is wrong. Drop を. Don't mix up this でも with でも at the start of a sentence (\"but\")."
+    }
+  ],
+  "vocab_ids": ["n4-v-002", "n4-v-028", "n4-v-048", "n4-v-056", "n4-v-064", "n4-v-076", "n4-v-114", "n4-v-125", "n4-v-136", "n4-v-154", "n4-v-187", "n4-v-237", "n4-v-291", "n4-v-295", "n4-v-330", "n4-v-377", "n4-v-379", "n4-v-415", "n4-v-425", "n4-v-431", "n4-v-457", "n4-v-471", "n4-v-539", "n4-v-579", "n4-v-625", "n4-v-644"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L03-q01", "type": "kanji_reading", "sentence": "大学の 近くの ＿下宿＿に 住んで います。", "target": "下宿", "options": ["げしゅく", "かしゅく", "したやど", "げやど"], "answer": 0, "explanation_ta": "下宿 = げしゅく (தங்கும் வீடு). 下 இங்கே げ, 宿 இங்கே しゅく.", "explanation_en": "下宿 = げしゅく (தங்கும் வீடு, lodgings). Here 下 is げ and 宿 is しゅく." },
+      { "id": "L03-q02", "type": "kanji_reading", "sentence": "＿郊外＿は 静かで、家も 広いです。", "target": "郊外", "options": ["こうそと", "こがい", "こうがい", "ごうがい"], "answer": 2, "explanation_ta": "郊外 = こうがい (புறநகர்). 外 இங்கே がい (外国 = がいこく போல). こがい-வில் நீட்டல் இல்லை; தவறு.", "explanation_en": "郊外 = こうがい (புறநகர், suburbs). 外 is がい, as in 外国 (がいこく). こがい has no long う, so it's wrong." },
+      { "id": "L03-q03", "type": "kanji_reading", "sentence": "＿近所＿に 新しい パン屋が できました。", "target": "近所", "options": ["きんしょ", "きんじょ", "ちかじょ", "ちかところ"], "answer": 1, "explanation_ta": "近所 = きんじょ (அக்கம்பக்கம்). 所 இங்கே じょ (இனிய ஒலி); きんしょ தவறு.", "explanation_en": "近所 = きんじょ (அக்கம்பக்கம், neighbourhood). 所 becomes じょ here. きんしょ is wrong." },
+      { "id": "L03-q04", "type": "orthography", "sentence": "夏休みは ＿いなか＿へ 帰ります。", "target": "いなか", "options": ["田家", "畑舎", "田合", "田舎"], "answer": 3, "explanation_ta": "いなか = 田舎 (கிராமம்). வாசிப்பு சிறப்பானது; இரண்டு கான்ஜியையும் சேர்த்தே மனப்பாடம் செய்யுங்கள்.", "explanation_en": "いなか = 田舎 (கிராமம், countryside). The reading is special. Learn the two kanji together." },
+      { "id": "L03-q05", "type": "orthography", "sentence": "毎日 電車で 会社に ＿かよって＿ います。", "target": "かよって", "options": ["通って", "道って", "運って", "週って"], "answer": 0, "explanation_ta": "かよう = 通う (தொடர்ந்து போய் வருதல்). 道, 運, 週 ஆகியவற்றிலும் அதே 'நடை' பகுதி இருப்பதால் குழப்பம் வரும்.", "explanation_en": "かよう = 通う (போய் வருதல், commute). 道, 運 and 週 have the same \"walking\" part, so they look similar." },
+      { "id": "L03-q06", "type": "vocab_context", "sentence": "来月、駅の 近くの アパートに （　　）。", "options": ["通います", "建てます", "引っ越します", "送ります"], "answer": 2, "explanation_ta": "புதிய வீட்டுக்குக் குடிபோவது = 引っ越します. 建てます (கட்டுதல்)-க்கு を தேவை; アパートに建てます என்று சொல்ல மாட்டோம்.", "explanation_en": "Moving to a new home = 引っ越します (வீடு மாறுகிறேன்). 建てます (build) needs を. We don't say アパートに建てます." },
+      { "id": "L03-q07", "type": "vocab_context", "sentence": "家の 前の （　　）を 上ると、駅が あります。", "options": ["坂", "畳", "屋上", "床屋"], "answer": 0, "explanation_ta": "ஏறிச் செல்லும் சாலை = 坂 (ஏற்றம்). 坂を上る = ஏற்றத்தில் ஏறுதல். 屋上 என்பது கட்டடத்தின் மேல் மாடி.", "explanation_en": "A road you walk up = 坂 (ஏற்றம், slope). 坂を上る means \"go up a slope\". 屋上 is the roof of a building." },
+      { "id": "L03-q08", "type": "vocab_context", "sentence": "髪が 長く なったので、（　　）へ 行きます。", "options": ["下宿", "床屋", "郊外", "近所"], "answer": 1, "explanation_ta": "முடி நீளமாகிவிட்டது → முடிதிருத்தும் கடை = 床屋.", "explanation_en": "Your hair is long → the barber's = 床屋 (முடிதிருத்தும் கடை)." },
+      { "id": "L03-q09", "type": "vocab_context", "sentence": "店も 病院も 遠くて、とても （　　）です。", "options": ["便利", "大事", "不便", "残念"], "answer": 2, "explanation_ta": "கடையும் மருத்துவமனையும் தூரம் → வசதியற்றது = 不便. 便利 என்பது நேர் எதிர்.", "explanation_en": "Shops and the hospital are far → inconvenient = 不便 (வசதியற்ற). 便利 is the opposite." },
+      { "id": "L03-q10", "type": "vocab_context", "sentence": "この 町には 古い 家が 百（　　）も あります。", "options": ["階", "枚", "台", "軒"], "answer": 3, "explanation_ta": "வீடுகளை எண்ணும் சொல் 〜軒 (けん). 階 = மாடி, 枚 = தட்டையான பொருள், 台 = இயந்திரங்கள், வாகனங்கள்.", "explanation_en": "Houses are counted with 〜軒 (けん). 階 = floors, 枚 = flat things, 台 = machines and cars." },
+      { "id": "L03-q11", "type": "paraphrase", "sentence": "この あたりは 不便です。", "options": ["この あたりは 静かです。", "この あたりは 便利では ありません。", "この あたりは にぎやかです。", "この あたりは 危ないです。"], "answer": 1, "explanation_ta": "不便 = 便利ではない (வசதி இல்லை). அமைதி, ஆபத்து போன்றவை வேறு பொருள்.", "explanation_en": "不便 = 便利ではない (வசதி இல்லை, not convenient). Quiet or dangerous are different ideas." },
+      { "id": "L03-q12", "type": "paraphrase", "sentence": "毎日 大学に 通って います。", "options": ["毎日 大学で 寝て います。", "毎日 大学を 見て います。", "毎日 大学に 住んで います。", "毎日 大学へ 行って います。"], "answer": 3, "explanation_ta": "通う = தினமும் போய் வருதல் → 毎日大学へ行っています. 住んでいます என்றால் அங்கேயே வசிப்பது; வேறு பொருள்.", "explanation_en": "通う = go there regularly → 毎日大学へ行っています (தினமும் போகிறேன்). 住んでいます means you live there." },
+      { "id": "L03-q13", "type": "usage", "sentence": "周り", "options": ["周りに ご飯を 食べました。", "明日の 周りは 雨です。", "駅の 周りには 店が たくさん あります。", "この 本は 周りが おもしろいです。"], "answer": 2, "explanation_ta": "周り = ஒரு இடத்தைச் சுற்றியுள்ள பகுதி: 駅の周り. நேரம் (明日) அல்லது புத்தகத்தின் உள்ளடக்கத்துக்குப் பொருந்தாது.", "explanation_en": "周り means the area around a place (சுற்றுப்புறம்): 駅の周り. It doesn't fit time (明日) or the content of a book." },
+      { "id": "L03-q14", "type": "usage", "sentence": "生活", "options": ["毎朝 生活を 飲みます。", "生活の 字は きれいです。", "友達に 生活を あげました。", "東京の 生活は 楽しいですが、お金が かかります。"], "answer": 3, "explanation_ta": "生活 = வாழ்க்கை முறை, அன்றாட வாழ்வு: 東京の生活. குடிக்கவோ கொடுக்கவோ முடியாது.", "explanation_en": "生活 means daily life (வாழ்க்கை): 東京の生活. You can't drink it or give it." },
+      { "id": "L03-q15", "type": "grammar_form", "sentence": "この 部屋は 広い（　　）、駅にも 近いし、とても いいです。", "options": ["から", "し", "が", "と"], "answer": 1, "explanation_ta": "இரண்டு நல்ல காரணங்களை அடுக்குவதால் 広いし、近いし. が (ஆனால்) எதிர்மாறான கருத்துக்கு.", "explanation_en": "You list two good points, so use 広いし、近いし. が (but) is for opposite ideas." },
+      { "id": "L03-q16", "type": "grammar_form", "sentence": "田舎は 静か（　　）、空気も きれいだし、好きです。", "options": ["し", "なし", "だし", "でし"], "answer": 2, "explanation_ta": "な-பெயரடை + だし: 静かだし. 'なし' என்பது பெயர்ச்சொல்லை விவரிக்கும்போது மட்டும் வரும் な-வுடன் குழப்பம்.", "explanation_en": "な-adjective + だし: 静かだし. なし is a mix-up with the な used before nouns." },
+      { "id": "L03-q17", "type": "grammar_form", "sentence": "会社が 遠いんです。（　　）、毎朝 五時に 起きます。", "options": ["それに", "それで", "でも", "しかし"], "answer": 1, "explanation_ta": "தூரம் → அதனால் சீக்கிரம் எழுவது = விளைவு → それで. それに என்பது இன்னொரு கருத்தைச் சேர்ப்பது மட்டுமே.", "explanation_en": "Far → so I get up early. That's a result → それで (அதனால்தான்). それに only adds another point." },
+      { "id": "L03-q18", "type": "grammar_form", "sentence": "この アパートは 安いです。（　　）、駅からも 近いです。", "options": ["それで", "でも", "それに", "だから"], "answer": 2, "explanation_ta": "மலிவு + அருகில் = இரண்டு நல்ல குணங்கள் → それに (அதோடு). それで / だから காரணம்-விளைவுக்கு; இங்கே அப்படி இல்லை.", "explanation_en": "Cheap + near = two good points → それに (அதோடு, besides). それで and だから are for reason → result. That is not the case here." },
+      { "id": "L03-q19", "type": "grammar_form", "sentence": "駅まで バスで 一時間（　　） かかりました。とても 遠かったです。", "options": ["しか", "だけ", "まで", "も"], "answer": 3, "explanation_ta": "'ரொம்பத் தூரம்' என்பதால் 'ஒரு மணி நேரம் ஆகிவிட்டது!' = 一時間も. しか-க்கு எதிர்மறை வினை தேவை, பொருளும் எதிர்.", "explanation_en": "\"It was very far\", so \"a whole hour!\" = 一時間も. しか needs a negative verb, and the meaning is the opposite." },
+      { "id": "L03-q20", "type": "grammar_form", "sentence": "疲れましたね。コーヒー（　　） 飲みませんか。", "options": ["でも", "しか", "にも", "へも"], "answer": 0, "explanation_ta": "மென்மையான அழைப்பு = N でも〜ませんか (காபி ஏதாவது குடிக்கலாமா?).", "explanation_en": "A soft invitation = N でも〜ませんか (\"Shall we have coffee or something?\")." },
+      { "id": "L03-q21", "type": "grammar_form", "sentence": "「なぜ この 町に 住んで いるんですか。」「静かだ（　　）、家賃も 安いですから。」", "options": ["し", "と", "で", "が"], "answer": 0, "explanation_ta": "காரணங்களை அடுக்குதல் → 静かだし、家賃も安い. பின்பகுதியில் も இருப்பதும் し-க்கான குறிப்பு.", "explanation_en": "You list reasons → 静かだし、家賃も安い. The も in the second part is a hint for し." },
+      { "id": "L03-q22", "type": "sentence_order", "before": "この アパートは", "chunks": ["駅に", "近いし", "部屋も", "広い"], "star": 2, "after": "し、いいですね。", "explanation_ta": "駅に近いし (ஸ்டேஷனுக்கும் அருகில்) → 部屋も広い + し. ★ = 部屋も.", "explanation_en": "駅に近いし (near the station) → 部屋も広い + し (the rooms are big too). ★ = 部屋も." },
+      { "id": "L03-q23", "type": "sentence_order", "before": "日本の 歌が 好きです。", "chunks": ["それで", "日本語の", "勉強を", "始めました"], "star": 1, "after": "。", "explanation_ta": "それで (அதனால்தான்) → 日本語の勉強を → 始めました. ★ = 日本語の.", "explanation_en": "それで (that's why) → 日本語の勉強を → 始めました. ★ = 日本語の." },
+      { "id": "L03-q24", "type": "sentence_order", "before": "暑いですね。", "chunks": ["冷たい", "ものでも", "飲み", "ませんか"], "star": 1, "after": "。", "explanation_ta": "冷たいものでも (குளிர்ச்சியாக ஏதாவது) → 飲みませんか. ★ = ものでも.", "explanation_en": "冷たいものでも (something cold) → 飲みませんか. ★ = ものでも." },
+      { "id": "L03-q25", "type": "passage_cloze", "passage": "わたしは 先月 郊外へ 引っ越しました。前の 部屋は 狭かった［1］、駅からも 遠かったです。［2］、新しい 部屋を 探しました。今の 部屋は 広いし、静かです。［3］、家賃も 安いです。でも、会社まで 電車で 一時間も かかります。", "blanks": [
+        { "options": ["し", "から", "と", "ので"], "answer": 0 },
+        { "options": ["それに", "それで", "でも", "じゃあ"], "answer": 1 },
+        { "options": ["それで", "だから", "それに", "では"], "answer": 2 }
+      ], "explanation_ta": "［1］ இரண்டு குறைகளை அடுக்குதல் (狭かったし、遠かった) → し. ［2］ குறைகள் இருந்ததால் புதிய அறை தேடினேன் = விளைவு → それで. ［3］ இன்னொரு நல்ல குணம் சேர்த்தல் → それに.", "explanation_en": "[1] Two bad points are listed (狭かったし、遠かった) → し. [2] Because of them I looked for a new room = result → それで. [3] One more good point is added → それに (அதோடு)." }
+    ]
+  }
+}

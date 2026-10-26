@@ -1,0 +1,711 @@
+{
+  "lesson": 30,
+  "title": {
+    "ja": "研究について書いたレポートである",
+    "ta": "ஆய்வு பற்றி எழுதிய அறிக்கை",
+    "en": "A report written about research"
+  },
+  "intro_ta": "N4-இன் இந்தக் கடைசிப் பாடத்தில் எழுத்து ஜப்பானிய மொழியைக் கற்போம். அறிக்கைகள், கட்டுரைகள், செய்தித்தாள்கள் です/ます பயன்படுத்தாமல் だ / である என்ற எழுத்து நடையில் எழுதப்படுகின்றன — தமிழில் பேச்சில் 'இது பழைய மொழி' என்பதை எழுத்தில் 'இது பழைய மொழியாகும்' என்று எழுதுவது போல. மேலும் 'சில சமயம் ~ நடப்பதுண்டு' (ことがある), 'திறந்து பார்த்தால் ~ இருந்தது' (〜たら、〜た), 'அழ வேண்டும் போல இருக்கும் அளவுக்கு' (ほど), 'திருவள்ளுவரால் எழுதப்பட்டது' (によって) ஆகியவற்றையும் கற்று, நீண்ட உரைகளை வாசிக்கப் பயிற்சி செய்வோம்.",
+  "intro_en": "This is the last lesson of N4. You will learn written Japanese. Reports, essays and newspapers don’t use です/ます. They use the だ / である style. Tamil is similar: in writing, \"it is an old language\" becomes மொழியாகும் (formal \"is\"). You will also learn ことがある (\"sometimes ~ happens\"), 〜たら、〜た (\"when I opened it, I found ~\"), ほど (\"so ~ that I wanted to cry\") and によって (\"written by ~\"). Then you will practise reading longer texts.",
+  "grammar": [
+    {
+      "id": "g30-1",
+      "pattern": "だ / である style",
+      "name": {
+        "en": "だ / である style (written plain style)",
+        "ta": "だ / である நடை (எழுத்து நடை)"
+      },
+      "explanation_ta": "அறிக்கை, கட்டுரை, செய்தித்தாள், நூல் போன்ற எழுத்துகளில் です/ます இல்லாமல் சாதாரண வடிவம் பயன்படும். வினைச்சொல்லும் い-பெயரடையும் அவற்றின் சாதாரண வடிவத்திலேயே இருக்கும் (行く、行った、高い). பெயர்ச்சொல் / な-பெயரடைக்கு です-க்குப் பதில் だ அல்லது, இன்னும் முறையாக, である: 学生だ / 学生である; எதிர்மறை ではない; இறந்த காலம் であった / だった. கட்டுரையில் である நடை மிகவும் முறையானது. ஒரே உரையில் です/ます உடன் இதைக் கலக்கக் கூடாது. தமிழில் 'இது பழைய மொழி' (பேச்சு) → 'இது பழைய மொழியாகும்' (எழுத்து) என்பது போல. しかし、また、すると、または、けれども போன்ற இணைப்புச் சொற்கள் இந்த நடையில் அதிகம் வரும்.",
+      "explanation_en": "Reports, essays, newspapers and books use the plain form, not です/ます. Verbs and い-adjectives stay plain (行く, 行った, 高い). For nouns and な-adjectives, use だ instead of です, or the more formal である: 学生だ / 学生である. Negative: ではない. Past: であった / だった. In essays, である is the most formal. Don’t mix it with です/ます in one text. Tamil is similar: \"it is an old language\" (பழைய மொழி) becomes பழைய மொழியாகும் in writing. Linking words like しかし, また, すると, または and けれども are common in this style.",
+      "tamil_parallel": "தமிழ் மிகப் பழைய மொழி (பேச்சு) → தமிழ் மிகப் பழைய மொழியாகும் (எழுத்து) = タミル語は古い言葉です → タミル語は古い言葉である",
+      "tamil_parallel_en": "Spoken Tamil பழைய மொழி becomes written பழைய மொழியாகும் (is an old language). Japanese 古い言葉です becomes 古い言葉である.",
+      "formation": "N / な-adj: です → だ / である\nஎதிர்மறை: ではありません → ではない\nஇறந்த காலம்: でした → だった / であった\nV / い-adj: சாதாரண வடிவம் (行く、高かった)",
+      "formation_en": "N / な-adj: です → だ / である\nNegative: ではありません → ではない\nPast: でした → だった / であった\nV / い-adj: plain form (行く、高かった)",
+      "examples": [
+        {
+          "ja": "タミル語は二千年以上の歴史を持つ言葉である。",
+          "reading": "タミルごは にせんねん いじょうの れきしを もつ ことばである。",
+          "romaji": "tamirugo wa nisennen ijou no rekishi o motsu kotoba de aru.",
+          "ta": "தமிழ் இரண்டாயிரம் ஆண்டுகளுக்கும் மேலான வரலாறு கொண்ட மொழியாகும்.",
+          "en": "Tamil is a language with a history of over two thousand years."
+        },
+        {
+          "ja": "この問題は簡単ではない。",
+          "reading": "この もんだいは かんたんではない。",
+          "romaji": "kono mondai wa kantan de wa nai.",
+          "ta": "இந்தப் பிரச்சினை எளிதானது அல்ல.",
+          "en": "This problem is not simple."
+        },
+        {
+          "ja": "昔、この町は小さな港であった。",
+          "reading": "むかし、この まちは ちいさな みなとであった。",
+          "romaji": "mukashi, kono machi wa chiisana minato de atta.",
+          "ta": "முன்பு இந்த நகரம் ஒரு சிறிய துறைமுகமாக இருந்தது.",
+          "en": "Long ago, this town was a small port."
+        },
+        {
+          "ja": "日本に住む外国人の割合は、毎年増えている。",
+          "reading": "にほんに すむ がいこくじんの わりあいは、まいとし ふえて いる。",
+          "romaji": "nihon ni sumu gaikokujin no wariai wa, maitoshi fuete iru.",
+          "ta": "ஜப்பானில் வாழும் வெளிநாட்டினரின் விகிதம் ஒவ்வோர் ஆண்டும் அதிகரித்து வருகிறது.",
+          "en": "The proportion of foreigners living in Japan rises every year."
+        },
+        {
+          "ja": "この研究は非常に大切だ。しかし、お金が足りない。",
+          "reading": "この けんきゅうは ひじょうに たいせつだ。しかし、おかねが たりない。",
+          "romaji": "kono kenkyuu wa hijouni taisetsu da. shikashi, okane ga tarinai.",
+          "ta": "இந்த ஆய்வு மிகவும் முக்கியமானது. ஆனால் பணம் போதவில்லை.",
+          "en": "This research is extremely important. However, there is not enough money."
+        },
+        {
+          "ja": "しかし、それが正しい答えかどうかはまだわからない。",
+          "reading": "しかし、それが ただしい こたえか どうかは まだ わからない。",
+          "romaji": "shikashi, sore ga tadashii kotae ka douka wa mada wakaranai.",
+          "ta": "ஆனால், அது சரியான விடையா இல்லையா என்பது இன்னும் தெரியவில்லை.",
+          "en": "However, it is not yet known whether that is the right answer."
+        }
+      ],
+      "pitfalls_ta": "い-பெயரடையுடன் だ / である சேர்க்காதீர்கள்: 高いだ ✗, 高いである ✗ → 高い. மேலும் ஒரு அறிக்கைக்குள் ஒரு வாக்கியம் です, அடுத்தது である என்று கலக்க வேண்டாம்.",
+      "pitfalls_en": "Don’t add だ or である to い-adjectives. 高いだ and 高いである are wrong. Just write 高い. Also, don’t mix です and である in one report."
+    },
+    {
+      "id": "g30-2",
+      "pattern": "V-dict / V-ない ことが あります",
+      "name": {
+        "en": "〜ことがある (sometimes … happens)",
+        "ta": "〜ことがある (சில சமயம் ~ நடப்பதுண்டு)"
+      },
+      "explanation_ta": "அகராதி வடிவம் அல்லது ない-வடிவம் + ことがある = 'சில சமயம் ~ நடப்பதுண்டு / ~ செய்வதுண்டு'. அடிக்கடி அல்ல, எப்போதாவது: 忙しいときは、昼ご飯を食べないことがある (வேலை அதிகமாக இருக்கும்போது மதிய உணவு சாப்பிடாமல் இருப்பதும் உண்டு). N5-இல் கற்ற V-たことがある ('ஒருமுறையாவது செய்திருக்கிறேன்', அனுபவம்) உடன் குழப்ப வேண்டாம்: 富士山に登ったことがある (புஜி மலை ஏறியிருக்கிறேன்) / 電車が遅れることがある (ரயில் தாமதமாவதும் உண்டு). தமிழின் '-வதுண்டு', '-வதும் உண்டு' என்ற முடிவு இதற்குச் சரியான இணை. ときどき、たまに போன்ற சொற்களுடன் அடிக்கடி வரும்.",
+      "explanation_en": "Dictionary form or ない-form + ことがある = \"sometimes ~ happens / I sometimes ~\". Not often, just now and then. 忙しいときは、昼ご飯を食べないことがある (When I’m busy, I sometimes skip lunch). Don’t mix it up with V-たことがある from N5. That one means \"I have done it before\" (experience). 富士山に登ったことがある = I have climbed Mt. Fuji. 電車が遅れることがある = Trains are sometimes late. Tamil -வதுண்டு (\"it does happen\") is the same. It often goes with ときどき or たまに.",
+      "tamil_parallel": "ரயில் தாமதமாவதும் உண்டு / சாப்பிடாமல் இருப்பதும் உண்டு = 電車が遅れることがある / 食べないことがある",
+      "tamil_parallel_en": "Tamil தாமதமாவதும் உண்டு (it is sometimes late) = 遅れることがある. சாப்பிடாமல் இருப்பதும் உண்டு (I sometimes don’t eat) = 食べないことがある.",
+      "formation": "V-அகராதி வடிவம் + ことが あります: 遅れることがあります\nV-ない + ことが あります: 食べないことがあります\nஒப்பிடுக: V-た + ことが あります = அனுபவம்",
+      "formation_en": "V-dictionary form + ことが あります: 遅れることがあります\nV-ない + ことが あります: 食べないことがあります\nCompare: V-た + ことが あります = experience",
+      "examples": [
+        {
+          "ja": "雪の日は、電車が遅れることがあります。",
+          "reading": "ゆきの ひは、でんしゃが おくれる ことが あります。",
+          "romaji": "yuki no hi wa, densha ga okureru koto ga arimasu.",
+          "ta": "பனி பெய்யும் நாட்களில் ரயில் தாமதமாவதும் உண்டு.",
+          "en": "On snowy days, trains are sometimes late."
+        },
+        {
+          "ja": "忙しいときは、昼ご飯を食べないことがある。",
+          "reading": "いそがしい ときは、ひるごはんを たべない ことが ある。",
+          "romaji": "isogashii toki wa, hirugohan o tabenai koto ga aru.",
+          "ta": "வேலை அதிகமாக இருக்கும்போது மதிய உணவு சாப்பிடாமல் இருப்பதும் உண்டு.",
+          "en": "When I’m busy, I sometimes don’t eat lunch."
+        },
+        {
+          "ja": "研究室には、夜遅くまで学生が残っていることがある。",
+          "reading": "けんきゅうしつには、よる おそくまで がくせいが のこって いる ことが ある。",
+          "romaji": "kenkyuushitsu ni wa, yoru osoku made gakusei ga nokotte iru koto ga aru.",
+          "ta": "ஆய்வகத்தில் இரவு நெடுநேரம் வரை மாணவர்கள் இருப்பதும் உண்டு.",
+          "en": "Students sometimes stay in the lab until late at night."
+        },
+        {
+          "ja": "この辺りでは、夏でも夜は寒くなることがある。",
+          "reading": "この あたりでは、なつでも よるは さむく なる ことが ある。",
+          "romaji": "kono atari de wa, natsu demo yoru wa samuku naru koto ga aru.",
+          "ta": "இந்தப் பகுதியில் கோடையிலும் இரவில் குளிர் அடிப்பதுண்டு.",
+          "en": "Around here, nights can sometimes get cold even in summer."
+        },
+        {
+          "ja": "先生の講義はとても速いので、わからないことがあります。",
+          "reading": "せんせいの こうぎは とても はやいので、わからない ことが あります。",
+          "romaji": "sensei no kougi wa totemo hayai node, wakaranai koto ga arimasu.",
+          "ta": "ஆசிரியரின் விரிவுரை மிக வேகமாக இருப்பதால், சில சமயம் புரியாமல் போவதுண்டு.",
+          "en": "The teacher’s lectures are very fast, so sometimes I don’t understand."
+        },
+        {
+          "ja": "あなたも、友達にうそをつくことがありますか。",
+          "reading": "あなたも、ともだちに うそを つく ことが ありますか。",
+          "romaji": "anata mo, tomodachi ni uso o tsuku koto ga arimasu ka.",
+          "ta": "நீங்களும் சில சமயம் நண்பர்களிடம் பொய் சொல்வதுண்டா?",
+          "en": "Do you sometimes lie to your friends too?"
+        }
+      ],
+      "pitfalls_ta": "遅れたことがある = 'ஒருமுறை தாமதமாகியிருக்கிறது' (அனுபவம்); 遅れることがある = 'சில சமயம் தாமதமாகும்' (பழக்கம் / வாய்ப்பு). வினையின் வடிவம் (た / அகராதி) பொருளை மாற்றுகிறது.",
+      "pitfalls_en": "遅れたことがある = \"it has been late before\" (experience). 遅れることがある = \"it is sometimes late\". The verb form (た or dictionary form) changes the meaning."
+    },
+    {
+      "id": "g30-3",
+      "pattern": "V-たら / V-と、〜た (discovery)",
+      "name": {
+        "en": "〜たら / 〜と、〜た (when I did …, I found …)",
+        "ta": "〜たら / 〜と、〜た (~ பார்த்தால் ~ இருந்தது)"
+      },
+      "explanation_ta": "'A たら、B た' அல்லது 'A と、B た' என்று இரண்டாம் பகுதி இறந்த காலத்தில் இருந்தால், அது நிபந்தனை அல்ல; 'A செய்தபோது B என்று கண்டுபிடித்தேன் / B நடந்தது' என்று பொருள். B பெரும்பாலும் பேசுபவரின் கட்டுப்பாட்டில் இல்லாத, எதிர்பாராத ஒன்று: ドアを開けたら、だれもいなかった (கதவைத் திறந்து பார்த்தால் யாரும் இல்லை). தமிழின் '-ஆல் / பார்த்தால் ... இருந்தது' என்ற அமைப்பு இதற்கு அப்படியே பொருந்தும். と நடை கதைகளிலும் எழுத்திலும் அதிகம்; たら பேச்சில் அதிகம். B பகுதியில் உங்கள் சொந்த விருப்பச் செயல் வராது (家に帰ったら、私はテレビを見た ✗ → 家に帰ってから、テレビを見た).",
+      "explanation_en": "\"A たら、B た\" or \"A と、B た\", with B in the past, is not \"if\". It means \"when I did A, I found B\" or \"B happened\". B is often surprising and not in your control. ドアを開けたら、だれもいなかった (When I opened the door, nobody was there). Tamil திறந்து பார்த்தால் யாரும் இல்லை (\"when I opened and looked, nobody was there\") works the same way. と is common in stories and writing. たら is common in speech. B can’t be your own planned action. For that, use 〜てから.",
+      "tamil_parallel": "கதவைத் திறந்து பார்த்தால் யாரும் இல்லை = ドアを開けたら、だれもいなかった",
+      "tamil_parallel_en": "Tamil திறந்து பார்த்தால் யாரும் இல்லை (when I opened it, nobody was there) = ドアを開けたら、だれもいなかった.",
+      "formation": "V-たら、〜た (பேச்சு)\nV-அகராதி வடிவம் + と、〜た (எழுத்து / கதை)\n窓を開けたら、雪が降っていた\n箱を開けると、手紙が入っていた",
+      "formation_en": "V-たら、〜た (speech)\nV-dictionary form + と、〜た (writing / stories)\n窓を開けたら、雪が降っていた\n箱を開けると、手紙が入っていた",
+      "examples": [
+        {
+          "ja": "研究室のドアを開けたら、だれもいなかった。",
+          "reading": "けんきゅうしつの ドアを あけたら、だれも いなかった。",
+          "romaji": "kenkyuushitsu no doa o aketara, dare mo inakatta.",
+          "ta": "ஆய்வகக் கதவைத் திறந்து பார்த்தால் யாரும் இல்லை.",
+          "en": "When I opened the lab door, nobody was there."
+        },
+        {
+          "ja": "朝、窓を開けると、外は雪で真っ白だった。",
+          "reading": "あさ、まどを あけると、そとは ゆきで まっしろだった。",
+          "romaji": "asa, mado o akeru to, soto wa yuki de masshiro datta.",
+          "ta": "காலையில் ஜன்னலைத் திறந்தபோது வெளியே பனியால் வெள்ளையாக இருந்தது.",
+          "en": "When I opened the window in the morning, outside was all white with snow."
+        },
+        {
+          "ja": "古い箱を開けると、祖父の手紙が入っていた。",
+          "reading": "ふるい はこを あけると、そふの てがみが はいって いた。",
+          "romaji": "furui hako o akeru to, sofu no tegami ga haitte ita.",
+          "ta": "பழைய பெட்டியைத் திறந்தபோது அதில் தாத்தாவின் கடிதம் இருந்தது.",
+          "en": "When I opened the old box, there was a letter from my grandfather inside."
+        },
+        {
+          "ja": "駅に着いたら、電車はもう出てしまっていた。",
+          "reading": "えきに ついたら、でんしゃは もう でて しまって いた。",
+          "romaji": "eki ni tsuitara, densha wa mou dete shimatte ita.",
+          "ta": "ரயில் நிலையத்தை அடைந்தபோது ரயில் ஏற்கனவே போய்விட்டிருந்தது.",
+          "en": "When I got to the station, the train had already left."
+        },
+        {
+          "ja": "先生に聞くと、その本はもう翻訳されているということだった。",
+          "reading": "せんせいに きくと、その ほんは もう ほんやくされて いると いう ことだった。",
+          "romaji": "sensei ni kiku to, sono hon wa mou hon'yaku sarete iru to iu koto datta.",
+          "ta": "ஆசிரியரிடம் கேட்டபோது, அந்தப் புத்தகம் ஏற்கனவே மொழிபெயர்க்கப்பட்டுவிட்டது என்று தெரிந்தது.",
+          "en": "When I asked the teacher, I learned that the book had already been translated."
+        },
+        {
+          "ja": "薬を飲んだら、すぐに頭が痛くなくなった。",
+          "reading": "くすりを のんだら、すぐに あたまが いたく なく なった。",
+          "romaji": "kusuri o nondara, suguni atama ga itaku naku natta.",
+          "ta": "மருந்து சாப்பிட்டதும் உடனே தலைவலி போய்விட்டது.",
+          "en": "When I took the medicine, my headache went away right away."
+        }
+      ],
+      "pitfalls_ta": "இரண்டாம் பகுதி இறந்த காலம் (〜た) என்றால் 'கண்டுபிடிப்பு'; எதிர்காலம் என்றால் 'நிபந்தனை' (開けたら、見てください = திறந்தால் பாருங்கள்). B-இல் உங்கள் சொந்த முடிவான செயல் வேண்டுமென்றால் 〜てから பயன்படுத்துங்கள்.",
+      "pitfalls_en": "If the second part is past (〜た), it means discovery. If it is not past, it is \"if\": 開けたら、見てください (if you open it, please look). For your own planned action after A, use 〜てから."
+    },
+    {
+      "id": "g30-4",
+      "pattern": "〜ほど (extent)",
+      "name": {
+        "en": "〜ほど (so … that …)",
+        "ta": "〜ほど (~ அளவுக்கு)"
+      },
+      "explanation_ta": "'A ほど B' = 'A என்று சொல்லும் அளவுக்கு B'. ஒரு நிலை எவ்வளவு தீவிரமானது என்பதை ஓர் உதாரணத்தால் காட்டுகிறது: 泣きたいほど痛かった (அழ வேண்டும் போல இருக்கும் அளவுக்கு வலித்தது), 歩けないほど疲れた (நடக்க முடியாத அளவுக்குக் களைத்துவிட்டேன்). உருவாக்கம்: V-அகராதி / V-ない / V-たい + ほど, い-பெயரடை + ほど, N + ほど (山ほど = மலை அளவுக்கு, நிறைய). தமிழின் '-அளவுக்கு' என்பது நேரான இணை. முன்பு கற்ற ほど வடிவங்களுடன் வேறுபாடு: N1 は N2 ほど〜ない (பாடம் 23, ஒப்பீடு: 'N2 அளவுக்கு இல்லை'); 〜ば〜ほど (பாடம் 10, 'எவ்வளவு ~ அவ்வளவு ~').",
+      "explanation_en": "\"A ほど B\" = \"B, to the point of A\". It shows how strong something is, with an example. 泣きたいほど痛かった (It hurt so much I wanted to cry). 歩けないほど疲れた (I was so tired I couldn’t walk). Form: V-dictionary / V-ない / V-たい + ほど. い-adj + ほど. N + ほど (山ほど = a mountain’s worth, lots). Tamil -அளவுக்கு (\"to the extent of\") is the same. Compare older ほど patterns: N1 は N2 ほど〜ない (Lesson 23, \"not as ~ as N2\") and 〜ば〜ほど (Lesson 10, \"the more ~, the more ~\").",
+      "tamil_parallel": "அழ வேண்டும் போல இருக்கும் அளவுக்கு வலித்தது / நடக்க முடியாத அளவுக்குக் களைப்பு = 泣きたいほど痛かった / 歩けないほど疲れた",
+      "tamil_parallel_en": "Tamil அழ வேண்டும் போல இருக்கும் அளவுக்கு வலித்தது (it hurt so much I wanted to cry) = 泣きたいほど痛かった.",
+      "formation": "V-அகராதி / V-ない / V-たい + ほど + adj / V\nい-adj + ほど: 驚くほど安い\nN + ほど: 山ほど ある\n泣きたいほど痛い / 歩けないほど疲れた",
+      "formation_en": "V-dictionary / V-ない / V-たい + ほど + adj / V\nい-adj + ほど: 驚くほど安い\nN + ほど: 山ほど ある\n泣きたいほど痛い / 歩けないほど疲れた",
+      "examples": [
+        {
+          "ja": "歯が泣きたいほど痛かった。",
+          "reading": "はが なきたい ほど いたかった。",
+          "romaji": "ha ga nakitai hodo itakatta.",
+          "ta": "பல் அழ வேண்டும் போல இருக்கும் அளவுக்கு வலித்தது.",
+          "en": "My tooth hurt so much I wanted to cry."
+        },
+        {
+          "ja": "一日中歩いて、もう歩けないほど疲れた。",
+          "reading": "いちにちじゅう あるいて、もう あるけない ほど つかれた。",
+          "romaji": "ichinichijuu aruite, mou arukenai hodo tsukareta.",
+          "ta": "நாள் முழுவதும் நடந்ததால் இனி நடக்கவே முடியாத அளவுக்குக் களைத்துவிட்டேன்.",
+          "en": "I walked all day and was so tired I couldn’t walk any more."
+        },
+        {
+          "ja": "宿題が山ほどあって、遊びに行けない。",
+          "reading": "しゅくだいが やまほど あって、あそびに いけない。",
+          "romaji": "shukudai ga yama hodo atte, asobi ni ikenai.",
+          "ta": "வீட்டுப்பாடம் மலை அளவுக்கு இருப்பதால் விளையாடப் போக முடியவில்லை.",
+          "en": "I have a mountain of homework, so I can’t go out to play."
+        },
+        {
+          "ja": "その湖の水は、底が見えるほどきれいだった。",
+          "reading": "その みずうみの みずは、そこが みえる ほど きれいだった。",
+          "romaji": "sono mizuumi no mizu wa, soko ga mieru hodo kirei datta.",
+          "ta": "அந்த ஏரியின் நீர் அடிப்பகுதி தெரியும் அளவுக்குத் தெளிவாக இருந்தது.",
+          "en": "The lake water was so clear you could see the bottom."
+        },
+        {
+          "ja": "この店のカレーは、びっくりするほど辛い。",
+          "reading": "この みせの カレーは、びっくりする ほど からい。",
+          "romaji": "kono mise no karee wa, bikkuri suru hodo karai.",
+          "ta": "இந்தக் கடையின் கறி ஆச்சரியப்படும் அளவுக்குக் காரமாக இருக்கிறது.",
+          "en": "The curry at this shop is shockingly spicy."
+        },
+        {
+          "ja": "昨日の講義は、眠くなるほどつまらなかったですか。",
+          "reading": "きのうの こうぎは、ねむく なる ほど つまらなかったですか。",
+          "romaji": "kinou no kougi wa, nemuku naru hodo tsumaranakatta desu ka.",
+          "ta": "நேற்றைய விரிவுரை தூக்கம் வரும் அளவுக்குச் சலிப்பாக இருந்ததா?",
+          "en": "Was yesterday’s lecture so boring it made you sleepy?"
+        }
+      ],
+      "pitfalls_ta": "ほど-க்கு முன் வினைச்சொல் சாதாரண வடிவத்தில் (泣きたい、歩けない) இருக்க வேண்டும்; 泣きたいですほど ✗. ほど〜ない (ஒப்பீடு) உடன் குழப்ப வேண்டாம்: 東京ほど暑くない = டோக்கியோ அளவுக்குச் சூடு இல்லை.",
+      "pitfalls_en": "Before ほど, use the plain form (泣きたい, 歩けない). 泣きたいですほど is wrong. Don’t mix it up with ほど〜ない for comparing: 東京ほど暑くない = not as hot as Tokyo."
+    },
+    {
+      "id": "g30-5",
+      "pattern": "N に よって V-passive",
+      "name": {
+        "en": "N によって + passive (made / written by N)",
+        "ta": "N によって + செயப்பாட்டு வினை (N-ஆல் உருவாக்கப்பட்டது)"
+      },
+      "explanation_ta": "பாடம் 12-இல் செயப்பாட்டு வாக்கியத்தில் செய்பவரை に கொண்டு குறித்தோம் (先生に褒められた). ஆனால் எழுதுதல், உருவாக்குதல், கண்டுபிடித்தல், கட்டுதல் போன்ற 'புதிதாக ஒன்றை உருவாக்கும்' செயல்களில், குறிப்பாக எழுத்து நடையில், செய்பவரை によって கொண்டு குறிக்கிறோம்: 「源氏物語」は紫式部によって書かれた. தமிழில் 'திருக்குறள் திருவள்ளுவரால் எழுதப்பட்டது' என்ற '-ஆல் ~ப்பட்டது' அமைப்பு இதற்கு அப்படியே இணை. வரலாறு, அறிவியல், செய்திகள் போன்றவற்றில் அதிகம் வரும். பாடம் 22-இல் கற்ற によると ('~ படி, ~ சொல்வதன்படி') உடன் குழப்ப வேண்டாம்.",
+      "explanation_en": "In Lesson 12, you marked the doer of a passive with に (先生に褒められた). But for actions that create something new, use によって, especially in writing. These are actions like writing, making, discovering and building. 「源氏物語」は紫式部によって書かれた (The Tale of Genji was written by Murasaki Shikibu). Tamil uses -ஆல் ~ப்பட்டது: திருக்குறள் திருவள்ளுவரால் எழுதப்பட்டது (Thirukkural was written by Thiruvalluvar). You see it often in history, science and news. Don’t mix it up with によると (\"according to\") from Lesson 22.",
+      "tamil_parallel": "திருக்குறள் திருவள்ளுவரால் எழுதப்பட்டது = 『ティルックラル』はティルヴァッルヴァルによって書かれた",
+      "tamil_parallel_en": "Tamil திருக்குறள் திருவள்ளுவரால் எழுதப்பட்டது (Thirukkural was written by Thiruvalluvar) = 『ティルックラル』はティルヴァッルヴァルによって書かれた.",
+      "formation": "N1(உருவானது) は N2(செய்தவர்) に よって V-passive\n書く → 書かれた、作る → 作られた、建てる → 建てられた\nஒப்பிடுக: N に よると = ~ சொல்வதன்படி (பாடம் 22)",
+      "formation_en": "N1 (what was made) は N2 (the maker) に よって V-passive\n書く → 書かれた、作る → 作られた、建てる → 建てられた\nCompare: N に よると = according to N (Lesson 22)",
+      "examples": [
+        {
+          "ja": "『ティルックラル』はティルヴァッルヴァルによって書かれた。",
+          "reading": "『ティルックラル』は ティルヴァッルヴァルに よって かかれた。",
+          "romaji": "\"tirukkuraru\" wa tiruvarruvaru ni yotte kakareta.",
+          "ta": "திருக்குறள் திருவள்ளுவரால் எழுதப்பட்டது.",
+          "en": "The Thirukkural was written by Thiruvalluvar."
+        },
+        {
+          "ja": "この寺は、八百年前にある王によって建てられた。",
+          "reading": "この てらは、はっぴゃくねん まえに ある おうに よって たてられた。",
+          "romaji": "kono tera wa, happyakunen mae ni aru ou ni yotte taterareta.",
+          "ta": "இந்தக் கோவில் எண்ணூறு ஆண்டுகளுக்கு முன் ஒரு மன்னரால் கட்டப்பட்டது.",
+          "en": "This temple was built by a king eight hundred years ago."
+        },
+        {
+          "ja": "この小説は、田中先生によってタミル語に翻訳された。",
+          "reading": "この しょうせつは、たなかせんせいに よって タミルごに ほんやくされた。",
+          "romaji": "kono shousetsu wa, tanaka sensei ni yotte tamirugo ni hon'yaku sareta.",
+          "ta": "இந்த நாவல் தனகா பேராசிரியரால் தமிழில் மொழிபெயர்க்கப்பட்டது.",
+          "en": "This novel was translated into Tamil by Professor Tanaka."
+        },
+        {
+          "ja": "その町は、大きな地震によって壊された。",
+          "reading": "その まちは、おおきな じしんに よって こわされた。",
+          "romaji": "sono machi wa, ookina jishin ni yotte kowasareta.",
+          "ta": "அந்த நகரம் பெரிய நிலநடுக்கத்தால் அழிக்கப்பட்டது.",
+          "en": "That town was destroyed by a big earthquake."
+        },
+        {
+          "ja": "この研究は、どの大学の研究室によって行われましたか。",
+          "reading": "この けんきゅうは、どの だいがくの けんきゅうしつに よって おこなわれましたか。",
+          "romaji": "kono kenkyuu wa, dono daigaku no kenkyuushitsu ni yotte okonawaremashita ka.",
+          "ta": "இந்த ஆய்வு எந்தப் பல்கலைக்கழக ஆய்வகத்தால் நடத்தப்பட்டது?",
+          "en": "Which university lab carried out this research?"
+        }
+      ],
+      "pitfalls_ta": "書かれた、建てられた போன்ற செயப்பாட்டு வடிவத்தை மறக்காதீர்கள்; によって書いた என்பது தவறு. மேலும் 'செய்தி சொல்வதன்படி' என்ற பொருளுக்கு によると, によって அல்ல.",
+      "pitfalls_en": "Remember the passive form: 書かれた, 建てられた. によって書いた is wrong. And for \"according to the news\", use によると, not によって."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-017",
+    "n4-v-039",
+    "n4-v-080",
+    "n4-v-085",
+    "n4-v-138",
+    "n4-v-245",
+    "n4-v-319",
+    "n4-v-335",
+    "n4-v-378",
+    "n4-v-474",
+    "n4-v-488",
+    "n4-v-500",
+    "n4-v-582",
+    "n4-v-585",
+    "n4-v-588",
+    "n4-v-613",
+    "n4-v-634",
+    "n4-v-646",
+    "n4-v-663"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L30-q01",
+        "type": "kanji_reading",
+        "sentence": "兄は 大学で 日本の ＿歴史＿を 研究して いる。",
+        "target": "歴史",
+        "options": [
+          "れっし",
+          "れきし",
+          "りゃくし",
+          "れいし"
+        ],
+        "answer": 1,
+        "explanation_ta": "歴史 = れきし (வரலாறு). 歴 = れき; っ சேர்ந்து குறுகாது.",
+        "explanation_en": "歴史 = れきし (வரலாறு, history). 歴 is れき. It doesn’t shorten to れっ."
+      },
+      {
+        "id": "L30-q02",
+        "type": "kanji_reading",
+        "sentence": "毎週 月曜日に 田中先生の ＿講義＿が ある。",
+        "target": "講義",
+        "options": [
+          "こうぎ",
+          "こうき",
+          "こぎ",
+          "こうげ"
+        ],
+        "answer": 0,
+        "explanation_ta": "講義 = こうぎ (விரிவுரை). 講 நீண்ட ஒலி こう; 義 = ぎ (கடின ஒலி).",
+        "explanation_en": "講義 = こうぎ (விரிவுரை, lecture). 講 has a long sound, こう. 義 is ぎ, a hard sound."
+      },
+      {
+        "id": "L30-q03",
+        "type": "kanji_reading",
+        "sentence": "この 小説は 英語から ＿翻訳＿された ものである。",
+        "target": "翻訳",
+        "options": [
+          "はんやく",
+          "ほんえき",
+          "ぼんやく",
+          "ほんやく"
+        ],
+        "answer": 3,
+        "explanation_ta": "翻訳 = ほんやく (மொழிபெயர்ப்பு). 訳 = やく (通訳 つうやく போல).",
+        "explanation_en": "翻訳 = ほんやく (மொழிபெயர்ப்பு, translation). 訳 is やく, as in 通訳 (つうやく)."
+      },
+      {
+        "id": "L30-q04",
+        "type": "orthography",
+        "sentence": "姉は 大学で ＿いがく＿を 勉強して いる。",
+        "target": "いがく",
+        "options": [
+          "医楽",
+          "衣学",
+          "医学",
+          "意学"
+        ],
+        "answer": 2,
+        "explanation_ta": "いがく = 医学 (மருத்துவ அறிவியல்). 医 = மருத்துவம் (医者 போல), 学 = கல்வி. 衣 (உடை), 意 (மனம்) வேறு பொருள்.",
+        "explanation_en": "いがく = 医学 (மருத்துவ அறிவியல், medicine). 医 means medical (as in 医者), 学 means study. 衣 (clothes) and 意 (mind) are wrong."
+      },
+      {
+        "id": "L30-q05",
+        "type": "orthography",
+        "sentence": "天気と 気分には ＿かんけい＿が ある。",
+        "target": "かんけい",
+        "options": [
+          "関係",
+          "間係",
+          "関系",
+          "感係"
+        ],
+        "answer": 0,
+        "explanation_ta": "かんけい = 関係 (தொடர்பு). 関 (கதவு + இணைப்பு), 係 (மனிதர் அடையாளம் 亻 உடன்). 間 (இடைவெளி) வடிவம் ஒத்திருந்தாலும் தவறு.",
+        "explanation_en": "かんけい = 関係 (தொடர்பு, connection). 係 has the person mark 亻. 間 (space) looks similar but is wrong."
+      },
+      {
+        "id": "L30-q06",
+        "type": "vocab_context",
+        "sentence": "黒（　　）青の ペンで 名前を 書いて ください。",
+        "options": [
+          "すると",
+          "または",
+          "けれども",
+          "それで"
+        ],
+        "answer": 1,
+        "explanation_ta": "இரண்டில் ஒன்றைத் தேர்வு செய்ய 'அல்லது' = または. けれども (ஆனால்) பெயர்ச்சொற்களை இணைக்காது.",
+        "explanation_en": "To choose one of two: または (அல்லது, or). けれども (but) doesn’t join two nouns."
+      },
+      {
+        "id": "L30-q07",
+        "type": "vocab_context",
+        "sentence": "ボタンを 押した。（　　）、ドアが 静かに 開いた。",
+        "options": [
+          "または",
+          "けれども",
+          "すると",
+          "それに"
+        ],
+        "answer": 2,
+        "explanation_ta": "ஒரு செயலுக்குப் பின் உடனே நடந்தது = すると (அப்போது / உடனே). それに (மேலும்) தகவலைச் சேர்க்க மட்டும்.",
+        "explanation_en": "Something happened right after an action: すると (உடனே, and then). それに (also) only adds information."
+      },
+      {
+        "id": "L30-q08",
+        "type": "vocab_context",
+        "sentence": "この 大学は 女子学生の （　　）が 高い。",
+        "options": [
+          "関係",
+          "研究",
+          "地理",
+          "割合"
+        ],
+        "answer": 3,
+        "explanation_ta": "மொத்தத்தில் மாணவிகள் எத்தனை பங்கு = 割合 (விகிதம்); '高い' உடன் வரும். 関係が高い என்று சொல்ல மாட்டோம்.",
+        "explanation_en": "The share of female students = 割合 (விகிதம், proportion). It goes with 高い. You don’t say 関係が高い."
+      },
+      {
+        "id": "L30-q09",
+        "type": "vocab_context",
+        "sentence": "来週の 金曜日までに 歴史の （　　）を 出して ください。",
+        "options": [
+          "レポート",
+          "ワープロ",
+          "講義",
+          "電報"
+        ],
+        "answer": 0,
+        "explanation_ta": "ஆசிரியரிடம் சமர்ப்பிப்பது (出す) அறிக்கை = レポート. 講義 (விரிவுரை) கேட்பது, சமர்ப்பிப்பது அல்ல.",
+        "explanation_en": "You hand in (出す) a report: レポート (அறிக்கை). You attend a 講義 (lecture). You don’t hand it in."
+      },
+      {
+        "id": "L30-q10",
+        "type": "vocab_context",
+        "sentence": "世界の 国や 山や 川に ついて 勉強する 科目を （　　）と いう。",
+        "options": [
+          "文学",
+          "医学",
+          "地理",
+          "科学"
+        ],
+        "answer": 2,
+        "explanation_ta": "நாடுகள், மலைகள், ஆறுகள் பற்றிய பாடம் = 地理 (புவியியல்). 文学 (இலக்கியம்) நூல்கள் பற்றியது.",
+        "explanation_en": "The subject about countries, mountains and rivers = 地理 (புவியியல், geography). 文学 (literature) is about books."
+      },
+      {
+        "id": "L30-q11",
+        "type": "paraphrase",
+        "sentence": "今日は 非常に 寒い。",
+        "options": [
+          "今日は 少し 寒い。",
+          "今日は あまり 寒くない。",
+          "今日は 寒く なかった。",
+          "今日は とても 寒い。"
+        ],
+        "answer": 3,
+        "explanation_ta": "非常に = とても (மிகவும்), எழுத்து நடையில் அதிகம். 少し (கொஞ்சம்) அளவில் எதிர்.",
+        "explanation_en": "非常に = とても (மிகவும், very), common in writing. 少し (a little) is the opposite amount."
+      },
+      {
+        "id": "L30-q12",
+        "type": "paraphrase",
+        "sentence": "私は 朝ご飯を 食べない ことが ある。",
+        "options": [
+          "私は 朝ご飯を 一度も 食べた ことが ない。",
+          "私は ときどき 朝ご飯を 食べない。",
+          "私は いつも 朝ご飯を 食べない。",
+          "私は 朝ご飯を 食べないように して いる。"
+        ],
+        "answer": 1,
+        "explanation_ta": "食べないことがある = சில சமயம் சாப்பிடுவதில்லை = ときどき食べない. いつも (எப்போதும்) அல்ல; 一度も〜たことがない அனுபவம் பற்றியது.",
+        "explanation_en": "食べないことがある = sometimes I don’t eat (சில சமயம்) = ときどき食べない. Not いつも (always). 一度も〜たことがない is about experience."
+      },
+      {
+        "id": "L30-q13",
+        "type": "usage",
+        "sentence": "関係",
+        "options": [
+          "友達と 関係に 映画を 見た。",
+          "駅までの 関係は 十分ぐらいだ。",
+          "その 問題は 私には 関係が ない。",
+          "関係な 人に 手紙を 書いた。"
+        ],
+        "answer": 2,
+        "explanation_ta": "関係 = தொடர்பு. 'அந்தப் பிரச்சினைக்கும் எனக்கும் தொடர்பில்லை' சரி. 関係 பெயர்ச்சொல்; 関係な என்று な சேர்க்கக் கூடாது. தூரம் / நேரம் பற்றி 関係 வராது.",
+        "explanation_en": "関係 = connection (தொடர்பு). \"That problem has nothing to do with me\" is right. 関係 is a noun, so 関係な is wrong. It can’t mean distance or time."
+      },
+      {
+        "id": "L30-q14",
+        "type": "usage",
+        "sentence": "研究",
+        "options": [
+          "毎朝 研究して、顔を 洗います。",
+          "今夜は 家で 研究して、テレビを 見ます。",
+          "友達の 家で 研究して、遊びました。",
+          "兄は 大学で 日本の 古い 歴史を 研究して いる。"
+        ],
+        "answer": 3,
+        "explanation_ta": "研究 = ஒரு துறையை ஆழமாக ஆய்வு செய்வது (பல்கலைக்கழகம், ஆய்வகம்). 'அண்ணன் ஜப்பானிய வரலாற்றை ஆய்வு செய்கிறான்' சரி. அன்றாடச் சிறு செயல்களுக்கு 研究 வராது.",
+        "explanation_en": "研究 = serious research in a field (ஆய்வு), at a university or lab. \"My brother researches Japanese history\" is right. It’s not used for small daily things."
+      },
+      {
+        "id": "L30-q15",
+        "type": "grammar_form",
+        "sentence": "（レポート）この 問題は 簡単（　　）。",
+        "options": [
+          "ではない",
+          "であらない",
+          "でないだ",
+          "ではないである"
+        ],
+        "answer": 0,
+        "explanation_ta": "எழுத்து நடையில் な-பெயரடை எதிர்மறை = 簡単ではない. であらない என்பது இல்லாத வடிவம்.",
+        "explanation_en": "In written style, the negative of a な-adjective is 簡単ではない (எளிதானது அல்ல). であらない is not a real form."
+      },
+      {
+        "id": "L30-q16",
+        "type": "grammar_form",
+        "sentence": "忙しい ときは、ときどき 昼ご飯を 食べない （　　）。",
+        "options": [
+          "ことに する",
+          "ことが できる",
+          "ことが ある",
+          "ことに なる"
+        ],
+        "answer": 2,
+        "explanation_ta": "ときどき (சில சமயம்) இருப்பதால் 'சாப்பிடாமல் இருப்பதும் உண்டு' = 食べないことがある. ことにする என்பது முடிவு எடுப்பது.",
+        "explanation_en": "ときどき (sometimes) fits 食べないことがある (சாப்பிடாமல் இருப்பதும் உண்டு). ことにする means deciding to do something."
+      },
+      {
+        "id": "L30-q17",
+        "type": "grammar_form",
+        "sentence": "古い 箱を （　　）、中に 祖父の 手紙が 入って いた。",
+        "options": [
+          "開けても",
+          "開けたら",
+          "開けるなら",
+          "開けながら"
+        ],
+        "answer": 1,
+        "explanation_ta": "'திறந்து பார்த்தால் கடிதம் இருந்தது' — கண்டுபிடிப்பு = 開けたら、〜た. 開けても (திறந்தாலும்) எதிர்பார்ப்புக்கு மாறான பொருள்.",
+        "explanation_en": "\"When I opened it, I found a letter\" is a discovery: 開けたら、〜た (திறந்து பார்த்தால்). 開けても means \"even if I open it\"."
+      },
+      {
+        "id": "L30-q18",
+        "type": "grammar_form",
+        "sentence": "一日中 歩いて、もう 歩けない （　　）疲れた。",
+        "options": [
+          "まま",
+          "ほど",
+          "うちに",
+          "ばかり"
+        ],
+        "answer": 1,
+        "explanation_ta": "'நடக்க முடியாத அளவுக்குக் களைப்பு' = 歩けないほど疲れた. うちに 'மாறுவதற்கு முன்' என்ற பொருள், இங்கே பொருந்தாது.",
+        "explanation_en": "\"So tired I couldn’t walk\" = 歩けないほど疲れた (நடக்க முடியாத அளவுக்கு). うちに means \"before it changes\" and doesn’t fit."
+      },
+      {
+        "id": "L30-q19",
+        "type": "grammar_form",
+        "sentence": "『ティルックラル』は ティルヴァッルヴァルに よって （　　）。",
+        "options": [
+          "書いた",
+          "書かせた",
+          "書けた",
+          "書かれた"
+        ],
+        "answer": 3,
+        "explanation_ta": "によって + செயப்பாட்டு வினை → 書かれた (எழுதப்பட்டது). 書いた என்றால் 'திருக்குறள் எழுதியது' என்ற தவறான பொருள் வரும்.",
+        "explanation_en": "によって needs a passive verb → 書かれた (எழுதப்பட்டது, was written). 書いた would mean the book itself wrote something."
+      },
+      {
+        "id": "L30-q20",
+        "type": "grammar_form",
+        "sentence": "この 橋は 百年前に フランスの 会社（　　）作られた。",
+        "options": [
+          "に よると",
+          "から",
+          "に よって",
+          "と"
+        ],
+        "answer": 2,
+        "explanation_ta": "உருவாக்கியவர் = によって (பாலம் ஒரு பிரெஞ்சு நிறுவனத்தால் கட்டப்பட்டது). によると 'சொல்வதன்படி' என்ற பொருள்.",
+        "explanation_en": "The maker takes によって (the bridge was made by a French company). によると means \"according to\"."
+      },
+      {
+        "id": "L30-q21",
+        "type": "grammar_form",
+        "sentence": "研究室の ドアを ノック（　　）、中から 先生の 声が 聞こえた。",
+        "options": [
+          "すると",
+          "しても",
+          "すれば",
+          "するなら"
+        ],
+        "answer": 0,
+        "explanation_ta": "கதவைத் தட்டியதும் குரல் கேட்டது (கண்டுபிடிப்பு, இறந்த காலம்) = ノックすると、〜た. すれば / するなら நிபந்தனைக்கு; இறந்த கால நிகழ்வுக்குப் பொருந்தாது.",
+        "explanation_en": "\"When I knocked, I heard the teacher’s voice\" (discovery, past) = ノックすると、〜た. すれば and するなら are for \"if\", not past events."
+      },
+      {
+        "id": "L30-q22",
+        "type": "sentence_order",
+        "before": "これは",
+        "chunks": [
+          "日本の",
+          "祭り",
+          "について",
+          "書いた"
+        ],
+        "star": 2,
+        "after": "レポートである。",
+        "explanation_ta": "சரியான வாக்கியம்: これは日本の祭りについて書いたレポートである (இது ஜப்பானியத் திருவிழாக்கள் பற்றி எழுதிய அறிக்கையாகும்). N について + 書いた + レポート.",
+        "explanation_en": "The sentence: これは日本の祭りについて書いたレポートである (This is a report written about Japanese festivals). N について + 書いた + レポート."
+      },
+      {
+        "id": "L30-q23",
+        "type": "sentence_order",
+        "before": "この 本は",
+        "chunks": [
+          "有名な",
+          "作家",
+          "によって",
+          "書かれた"
+        ],
+        "star": 1,
+        "after": "ものである。",
+        "explanation_ta": "சரியான வாக்கியம்: この本は有名な作家によって書かれたものである (இந்தப் புத்தகம் ஒரு புகழ்பெற்ற எழுத்தாளரால் எழுதப்பட்டதாகும்).",
+        "explanation_en": "The sentence: この本は有名な作家によって書かれたものである (This book was written by a famous writer)."
+      },
+      {
+        "id": "L30-q24",
+        "type": "sentence_order",
+        "before": "その 映画は",
+        "chunks": [
+          "泣きたく",
+          "なる",
+          "ほど",
+          "悲しかった"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: その映画は泣きたくなるほど悲しかった (அந்தப் படம் அழ வேண்டும் போல ஆகும் அளவுக்குச் சோகமாக இருந்தது). 泣きたくなる + ほど + பெயரடை.",
+        "explanation_en": "The sentence: その映画は泣きたくなるほど悲しかった (That film was so sad it made me want to cry). 泣きたくなる + ほど + adjective."
+      },
+      {
+        "id": "L30-q25",
+        "type": "passage_cloze",
+        "passage": "タミル語は 二千年以上の 歴史を 持つ 言葉［1］。古い 文学も 多く、『ティルックラル』は ティルヴァッルヴァル［2］ 書かれたと 言われている。先月、この 本を 日本語に 翻訳した 人に 会った。話を 聞く［3］、翻訳に 十年も かかったそうだ。",
+        "blanks": [
+          {
+            "options": [
+              "です",
+              "である",
+              "だった",
+              "であります"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "によって",
+              "によると",
+              "について",
+              "にとって"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "ほど",
+              "まま",
+              "と",
+              "ても"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］ முழு உரையும் である நடையில் உள்ளதால் 言葉である; です கலக்கக் கூடாது; だった இறந்த காலம், இப்போதும் உண்மை என்பதால் பொருந்தாது. ［2］ எழுதியவர் → によって (திருவள்ளுவரால்). ［3］ கேட்டபோது தெரிந்தது (கண்டுபிடிப்பு) → 聞くと.",
+        "explanation_en": "[1] The whole text is in である style, so 言葉である. Don’t mix in です. だった is past, but this is still true now. [2] The writer → によって (திருவள்ளுவரால், by Thiruvalluvar). [3] What I learned when I asked (discovery) → 聞くと."
+      }
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "n4-v-095",
+    "expression": "深い",
+    "reading": "ふかい",
+    "romaji": "fukai",
+    "en": "deep",
+    "ta": "ஆழமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この湖はとても深いので、泳がないでください。",
+        "reading": "この みずうみは とても ふかいので、およがないで ください。",
+        "romaji": "kono mizuumi wa totemo fukai node, oyoganaide kudasai.",
+        "ta": "இந்த ஏரி மிகவும் ஆழமானது, அதனால் நீந்த வேண்டாம்.",
+        "en": "This lake is very deep, so please don’t swim."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-110",
+    "expression": "浅い",
+    "reading": "あさい",
+    "romaji": "asai",
+    "en": "shallow",
+    "ta": "ஆழமற்ற",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "子どもたちは川の浅いところで遊んでいます。",
+        "reading": "こどもたちは かわの あさい ところで あそんで います。",
+        "romaji": "kodomotachi wa kawa no asai tokoro de asonde imasu.",
+        "ta": "குழந்தைகள் ஆற்றின் ஆழமில்லாத இடத்தில் விளையாடுகிறார்கள்.",
+        "en": "The children are playing in a shallow part of the river."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-127",
+    "expression": "動物園",
+    "reading": "どうぶつえん",
+    "romaji": "doubutsuen",
+    "en": "zoo",
+    "ta": "மிருகக்காட்சிசாலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日に家族で動物園へ行きました。",
+        "reading": "にちようびに かぞくで どうぶつえんへ いきました。",
+        "romaji": "nichiyoubi ni kazoku de doubutsuen e ikimashita.",
+        "ta": "ஞாயிற்றுக்கிழமை குடும்பத்துடன் மிருகக்காட்சிசாலைக்குப் போனோம்.",
+        "en": "On Sunday we went to the zoo as a family."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-197",
+    "expression": "美しい",
+    "reading": "うつくしい",
+    "romaji": "utsukushii",
+    "en": "beautiful",
+    "ta": "அழகான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "山の上から見た町はとても美しかったです。",
+        "reading": "やまの うえから みた まちは とても うつくしかったです。",
+        "romaji": "yama no ue kara mita machi wa totemo utsukushikatta desu.",
+        "ta": "மலை உச்சியிலிருந்து பார்த்த நகரம் மிகவும் அழகாக இருந்தது.",
+        "en": "The town seen from the top of the mountain was very beautiful."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-201",
+    "expression": "どんどん",
+    "reading": "どんどん",
+    "romaji": "dondon",
+    "en": "steadily, rapidly",
+    "ta": "வேகமாக; தொடர்ந்து",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "ラジャさんの日本語はどんどん上手になっています。",
+        "reading": "ラジャさんの にほんごは どんどん じょうずに なって います。",
+        "romaji": "raja san no nihongo wa dondon jouzu ni natte imasu.",
+        "ta": "ராஜாவின் ஜப்பானிய மொழி வேகமாக முன்னேறி வருகிறது.",
+        "en": "Raja’s Japanese is getting better and better."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-204",
+    "expression": "素晴らしい",
+    "reading": "すばらしい",
+    "romaji": "subarashii",
+    "en": "wonderful",
+    "ta": "அற்புதமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "富士山の上から見た朝の景色は素晴らしかったです。",
+        "reading": "ふじさんの うえから みた あさの けしきは すばらしかったです。",
+        "romaji": "fujisan no ue kara mita asa no keshiki wa subarashikatta desu.",
+        "ta": "புஜி மலை உச்சியிலிருந்து பார்த்த காலைக் காட்சி அற்புதமாக இருந்தது.",
+        "en": "The morning view from the top of Mt. Fuji was wonderful."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-205",
+    "expression": "美術館",
+    "reading": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "en": "art museum",
+    "ta": "கலைக்கூடம் (ஓவிய அருங்காட்சியகம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "上野の美術館で古い絵をたくさん見ました。",
+        "reading": "うえのの びじゅつかんで ふるい えを たくさん みました。",
+        "romaji": "ueno no bijutsukan de furui e o takusan mimashita.",
+        "ta": "உஏனோவில் உள்ள கலைக்கூடத்தில் பல பழைய ஓவியங்களைப் பார்த்தேன்.",
+        "en": "I saw many old paintings at the art museum in Ueno."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-220",
+    "expression": "お祭り",
+    "reading": "おまつり",
+    "romaji": "omatsuri",
+    "en": "festival",
+    "ta": "திருவிழா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏になると、この町では大きなお祭りがあります。",
+        "reading": "なつに なると、この まちでは おおきな おまつりが あります。",
+        "romaji": "natsu ni naru to, kono machi de wa ookina omatsuri ga arimasu.",
+        "ta": "கோடை வந்தால் இந்த நகரில் பெரிய திருவிழா நடக்கும்.",
+        "en": "When summer comes, there is a big festival in this town."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-242",
+    "expression": "内",
+    "reading": "うち",
+    "romaji": "uchi",
+    "en": "inside; while",
+    "ta": "உள்ளே; ~ இருக்கும்போதே",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "若いうちに、いろいろな国へ行ってみたいです。",
+        "reading": "わかい うちに、いろいろな くにへ いって みたいです。",
+        "romaji": "wakai uchi ni, iroiro na kuni e itte mitai desu.",
+        "ta": "இளமையாக இருக்கும்போதே பல நாடுகளுக்குப் போய்ப் பார்க்க விரும்புகிறேன்.",
+        "en": "I want to visit many countries while I’m still young."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-255",
+    "expression": "景色",
+    "reading": "けしき",
+    "romaji": "keshiki",
+    "en": "scenery, view",
+    "ta": "இயற்கைக் காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の窓から見る海の景色がきれいです。",
+        "reading": "でんしゃの まどから みる うみの けしきが きれいです。",
+        "romaji": "densha no mado kara miru umi no keshiki ga kirei desu.",
+        "ta": "ரயில் ஜன்னல் வழியே தெரியும் கடல் காட்சி அழகாக இருக்கிறது.",
+        "en": "The view of the sea from the train window is lovely."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-264",
+    "expression": "石",
+    "reading": "いし",
+    "romaji": "ishi",
+    "en": "stone",
+    "ta": "கல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この寺の庭には大きな石がたくさんあります。",
+        "reading": "この てらの にわには おおきな いしが たくさん あります。",
+        "romaji": "kono tera no niwa ni wa ookina ishi ga takusan arimasu.",
+        "ta": "இந்தக் கோவிலின் தோட்டத்தில் பெரிய கற்கள் நிறைய உள்ளன.",
+        "en": "There are many big stones in this temple’s garden."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-270",
+    "expression": "珍しい",
+    "reading": "めずらしい",
+    "romaji": "mezurashii",
+    "en": "rare, unusual",
+    "ta": "அரிதான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "東京の店で、インドの珍しい果物を見つけました。",
+        "reading": "とうきょうの みせで、インドの めずらしい くだものを みつけました。",
+        "romaji": "toukyou no mise de, indo no mezurashii kudamono o mitsukemashita.",
+        "ta": "டோக்கியோவின் ஒரு கடையில் அரிதான இந்தியப் பழத்தைக் கண்டேன்.",
+        "en": "I found a rare Indian fruit in a shop in Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-340",
+    "expression": "港",
+    "reading": "みなと",
+    "romaji": "minato",
+    "en": "port, harbour",
+    "ta": "துறைமுகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "横浜の港には外国の大きな船がたくさん来ます。",
+        "reading": "よこはまの みなとには がいこくの おおきな ふねが たくさん きます。",
+        "romaji": "yokohama no minato ni wa gaikoku no ookina fune ga takusan kimasu.",
+        "ta": "யோகோஹாமா துறைமுகத்துக்கு வெளிநாட்டுப் பெரிய கப்பல்கள் நிறைய வருகின்றன.",
+        "en": "Many big foreign ships come to Yokohama port."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-350",
+    "expression": "教会",
+    "reading": "きょうかい",
+    "romaji": "kyoukai",
+    "en": "church",
+    "ta": "தேவாலயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日の朝、友達と教会へ行きました。",
+        "reading": "にちようびの あさ、ともだちと きょうかいへ いきました。",
+        "romaji": "nichiyoubi no asa, tomodachi to kyoukai e ikimashita.",
+        "ta": "ஞாயிறு காலை நண்பருடன் தேவாலயத்துக்குப் போனேன்.",
+        "en": "On Sunday morning I went to church with a friend."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-411",
+    "expression": "変わる",
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "en": "to change",
+    "ta": "மாற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "秋になると、山の木の色が変わります。",
+        "reading": "あきに なると、やまの きの いろが かわります。",
+        "romaji": "aki ni naru to, yama no ki no iro ga kawarimasu.",
+        "ta": "இலையுதிர் காலம் வந்தால் மலையில் உள்ள மரங்களின் நிறம் மாறும்.",
+        "en": "When autumn comes, the colour of the trees on the mountains changes."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-436",
+    "expression": "島",
+    "reading": "しま",
+    "romaji": "shima",
+    "en": "island",
+    "ta": "தீவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本には小さい島がたくさんあります。",
+        "reading": "にほんには ちいさい しまが たくさん あります。",
+        "romaji": "nihon ni wa chiisai shima ga takusan arimasu.",
+        "ta": "ஜப்பானில் சிறிய தீவுகள் நிறைய உள்ளன.",
+        "en": "Japan has many small islands."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-441",
+    "expression": "～まま",
+    "reading": "～まま",
+    "romaji": "～mama",
+    "en": "as it is; unchanged",
+    "ta": "அப்படியே; ~ய படியே",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "靴をはいたまま部屋に入らないでください。",
+        "reading": "くつを はいた まま へやに はいらないで ください。",
+        "romaji": "kutsu o haita mama heya ni hairanaide kudasai.",
+        "ta": "செருப்பு போட்டபடியே அறைக்குள் வராதீர்கள்.",
+        "en": "Please don’t come into the room with your shoes on."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-455",
+    "expression": "間",
+    "reading": "あいだ",
+    "romaji": "aida",
+    "en": "between; while; period",
+    "ta": "இடையே; ~ நேரம் முழுவதும்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏休みの間、ずっと国に帰っていました。",
+        "reading": "なつやすみの あいだ、ずっと くにに かえって いました。",
+        "romaji": "natsuyasumi no aida, zutto kuni ni kaette imashita.",
+        "ta": "கோடை விடுமுறை முழுவதும் சொந்த ஊரில் இருந்தேன்.",
+        "en": "I was back in my home country for the whole summer holiday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-489",
+    "expression": "寺",
+    "reading": "てら",
+    "romaji": "tera",
+    "en": "Buddhist temple",
+    "ta": "புத்தக் கோவில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都には古いお寺がたくさんあります。",
+        "reading": "きょうとには ふるい おてらが たくさん あります。",
+        "romaji": "kyouto ni wa furui otera ga takusan arimasu.",
+        "ta": "கியோத்தோவில் பழைய புத்தக் கோவில்கள் நிறைய உள்ளன.",
+        "en": "There are many old temples in Kyoto."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-490",
+    "expression": "慣れる",
+    "reading": "なれる",
+    "romaji": "nareru",
+    "en": "to get used to",
+    "ta": "பழக (பழகிக்கொள்ள)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "日本の生活にもう慣れましたか。",
+        "reading": "にほんの せいかつに もう なれましたか。",
+        "romaji": "nihon no seikatsu ni mou naremashita ka.",
+        "ta": "ஜப்பானிய வாழ்க்கைக்கு இப்போது பழகிவிட்டீர்களா?",
+        "en": "Have you got used to life in Japan yet?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-518",
+    "expression": "展覧会",
+    "reading": "てんらんかい",
+    "romaji": "tenrankai",
+    "en": "exhibition",
+    "ta": "கண்காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "来週、美術館で日本の写真の展覧会があります。",
+        "reading": "らいしゅう、びじゅつかんで にほんの しゃしんの てんらんかいが あります。",
+        "romaji": "raishuu, bijutsukan de nihon no shashin no tenrankai ga arimasu.",
+        "ta": "அடுத்த வாரம் கலைக்கூடத்தில் ஜப்பானியப் புகைப்படக் கண்காட்சி நடக்கிறது.",
+        "en": "Next week there is an exhibition of Japanese photos at the art museum."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-586",
+    "expression": "舟",
+    "reading": "ふね",
+    "romaji": "fune",
+    "en": "boat",
+    "ta": "படகு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "湖で友達と小さい舟に乗りました。",
+        "reading": "みずうみで ともだちと ちいさい ふねに のりました。",
+        "romaji": "mizuumi de tomodachi to chiisai fune ni norimashita.",
+        "ta": "ஏரியில் நண்பருடன் சிறிய படகில் சவாரி செய்தேன்.",
+        "en": "I rode in a small boat on the lake with a friend."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-599",
+    "expression": "砂",
+    "reading": "すな",
+    "romaji": "suna",
+    "en": "sand",
+    "ta": "மணல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼のマリーナビーチの砂はとても熱いです。",
+        "reading": "ひるの マリーナビーチの すなは とても あついです。",
+        "romaji": "hiru no mariina biichi no suna wa totemo atsui desu.",
+        "ta": "மதிய நேரத்தில் மெரினா கடற்கரை மணல் மிகவும் சூடாக இருக்கும்.",
+        "en": "The sand on Marina Beach is very hot at midday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-620",
+    "expression": "花見",
+    "reading": "はなみ",
+    "romaji": "hanami",
+    "en": "cherry-blossom viewing",
+    "ta": "செர்ரிப் பூ காணல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "四月に公園で会社の人と花見をしました。",
+        "reading": "しがつに こうえんで かいしゃの ひとと はなみを しました。",
+        "romaji": "shigatsu ni kouen de kaisha no hito to hanami o shimashita.",
+        "ta": "ஏப்ரலில் பூங்காவில் அலுவலக நண்பர்களுடன் செர்ரிப் பூக்களைப் பார்த்து மகிழ்ந்தோம்.",
+        "en": "In April I did cherry-blossom viewing in the park with people from work."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-628",
+    "expression": "見物",
+    "reading": "けんぶつ",
+    "romaji": "kenbutsu",
+    "en": "sightseeing",
+    "ta": "சுற்றிப் பார்த்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末、浅草でお祭りを見物しました。",
+        "reading": "しゅうまつ、あさくさで おまつりを けんぶつしました。",
+        "romaji": "shuumatsu, asakusa de omatsuri o kenbutsu shimashita.",
+        "ta": "வார இறுதியில் அசகுசாவில் திருவிழாவைச் சுற்றிப் பார்த்தேன்.",
+        "en": "At the weekend I went to see a festival in Asakusa."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-641",
+    "expression": "湖",
+    "reading": "みずうみ",
+    "romaji": "mizuumi",
+    "en": "lake",
+    "ta": "ஏரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "湖のまわりを自転車で走りました。",
+        "reading": "みずうみの まわりを じてんしゃで はしりました。",
+        "romaji": "mizuumi no mawari o jitensha de hashirimashita.",
+        "ta": "ஏரியைச் சுற்றி மிதிவண்டியில் சென்றேன்.",
+        "en": "I rode a bicycle around the lake."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-659",
+    "expression": "神社",
+    "reading": "じんじゃ",
+    "romaji": "jinja",
+    "en": "Shinto shrine",
+    "ta": "ஷிந்தோ ஆலயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お正月には家族で近くの神社へ行きます。",
+        "reading": "おしょうがつには かぞくで ちかくの じんじゃへ いきます。",
+        "romaji": "oshougatsu ni wa kazoku de chikaku no jinja e ikimasu.",
+        "ta": "புத்தாண்டன்று குடும்பத்துடன் அருகிலுள்ள ஷிந்தோ ஆலயத்துக்குப் போவோம்.",
+        "en": "At New Year we go to the nearby shrine as a family."
+      }
+    ]
+  }
+]

@@ -1,0 +1,693 @@
+{
+  "lesson": 1,
+  "title": {
+    "ja": "どうしたんですか",
+    "ta": "என்ன ஆச்சு?",
+    "en": "What happened?"
+  },
+  "intro_ta": "N4 பாடநெறியின் முதல் பாடத்துக்கு வரவேற்கிறோம்! இந்தப் பாடத்தில் 〜んです என்ற முக்கியமான வடிவத்தைக் கற்போம்; இதைக் கொண்டு தாமதம், தூக்கம், கவலை போன்றவற்றுக்குக் காரணம் சொல்லவும், 'என்ன ஆச்சு?' என்று அன்போடு கேட்கவும் முடியும். பிறகு 〜ていただけませんか, 〜てもらえませんか, 〜てくれませんか என்று பணிவாக உதவி கேட்பதையும், 'எப்படிச் செய்தால் நல்லது?' என்று ஆலோசனை கேட்பதையும் பயிற்சி செய்வோம்.",
+  "intro_en": "Welcome to the first lesson of N4! In this lesson you will learn 〜んです. With it you can give a reason for being late, sleepy or worried. You can also kindly ask \"what happened?\". Then you will practise asking for help politely: 〜ていただけませんか, 〜てもらえませんか and 〜てくれませんか. You will also learn to ask for advice: \"what should I do?\".",
+  "grammar": [
+    {
+      "id": "g01-1",
+      "pattern": "plain form + んです",
+      "name": {
+        "en": "Explaining with 〜んです",
+        "ta": "〜んです: காரணம் / நிலைமையை விளக்குதல்"
+      },
+      "explanation_ta": "〜んです என்பது ஒரு நிலைமையை அல்லது காரணத்தை விளக்கும்போது பயன்படும் வடிவம். 'தலை வலிக்கிறது' என்று வெறும் தகவலாகச் சொல்லாமல், 'விஷயம் என்னவென்றால், தலை வலிக்கிறது' என்ற உணர்வைத் தருகிறது. கேள்வியாக 〜んですか என்று கேட்டால், பார்த்ததையோ கேட்டதையோ வைத்து 'என்ன ஆச்சு, விளக்குங்கள்' என்று ஆர்வத்துடன் கேட்கிறோம் (どうしたんですか = என்ன ஆச்சு?). வினை, い-பெயரடையின் சாதாரண (plain) வடிவத்துடன் んです சேர்க்க வேண்டும்; な-பெயரடை மற்றும் பெயர்ச்சொல்லுக்கு だ என்பதை な ஆக மாற்றி なんです என்று சொல்ல வேண்டும். பேச்சில் அதிகம் வரும்; எழுத்தில் 〜のです என்று வரும். ஆனால் எல்லா வாக்கியத்திலும் பயன்படுத்தினால் அழுத்தமாகக் கேட்கும்; காரணம் அல்லது விளக்கம் தேவைப்படும்போது மட்டும் பயன்படுத்துங்கள்.",
+      "explanation_en": "Use 〜んです to explain a situation or a reason. It sounds like \"the thing is, ...\". As a question, 〜んですか asks for an explanation. You saw or heard something, and you want to know more. どうしたんですか means \"What happened?\" (என்ன ஆச்சு?). Put the plain form (dictionary form, ない-form, た-form) before んです. For な-adjectives and nouns, change だ to な: 病気なんです. You hear it a lot in speech. In writing it becomes 〜のです. Do not use it in every sentence. Use it only when you explain something or ask for an explanation.",
+      "tamil_parallel": "தலை வலிக்குது, அதான் விஷயம் = 頭が痛いんです; என்ன ஆச்சு? = どうしたんですか",
+      "tamil_parallel_en": "\"My head hurts, that's the thing\" (தலை வலிக்குது, அதான் விஷயம்) = 頭が痛いんです. \"What happened?\" (என்ன ஆச்சு?) = どうしたんですか.",
+      "formation": "வினை (சாதாரண வடிவம்) + んです: 行くんです・行かないんです・行ったんです\nい-பெயரடை + んです: 痛いんです・痛かったんです\nな-பெயரடை + なんです: 静かなんです・静かだったんです\nபெயர்ச்சொல் + なんです: 病気なんです・病気だったんです\nகேள்வி: 〜んですか",
+      "formation_en": "Verb (plain form) + んです: 行くんです・行かないんです・行ったんです\nい-adjective + んです: 痛いんです・痛かったんです\nな-adjective + なんです: 静かなんです・静かだったんです\nNoun + なんです: 病気なんです・病気だったんです\nQuestion: 〜んですか",
+      "examples": [
+        {
+          "ja": "「どうしたんですか。」「頭が 痛いんです。」",
+          "reading": "「どうしたんですか。」「あたまが いたいんです。」",
+          "romaji": "\"dou shita n desu ka.\" \"atama ga itai n desu.\"",
+          "ta": "\"என்ன ஆச்சு?\" \"தலை வலிக்கிறது.\"",
+          "en": "\"What's wrong?\" \"I have a headache.\""
+        },
+        {
+          "ja": "「遅かったですね。」「すみません、電車が 遅れたんです。」",
+          "reading": "「おそかったですね。」「すみません、でんしゃが おくれたんです。」",
+          "romaji": "\"osokatta desu ne.\" \"sumimasen, densha ga okureta n desu.\"",
+          "ta": "\"தாமதமாகிவிட்டதே.\" \"மன்னிக்கவும், ரயில் தாமதமாக வந்தது.\"",
+          "en": "\"You're late.\" \"Sorry, the train was late.\""
+        },
+        {
+          "ja": "この かばん、すてきですね。どこで 買ったんですか。",
+          "reading": "この かばん、すてきですね。どこで かったんですか。",
+          "romaji": "kono kaban, suteki desu ne. doko de katta n desu ka.",
+          "ta": "இந்தப் பை அழகாக இருக்கிறதே. எங்கே வாங்கினீர்கள்?",
+          "en": "This bag is lovely. Where did you buy it?"
+        },
+        {
+          "ja": "「元気が ないですね。」「ええ、母が 病気なんです。」",
+          "reading": "「げんきが ないですね。」「ええ、ははが びょうきなんです。」",
+          "romaji": "\"genki ga nai desu ne.\" \"ee, haha ga byouki na n desu.\"",
+          "ta": "\"சோர்வாகத் தெரிகிறீர்களே.\" \"ஆமாம், அம்மாவுக்கு உடம்பு சரியில்லை.\"",
+          "en": "\"You look down.\" \"Yes, my mother is ill.\""
+        },
+        {
+          "ja": "今日は お酒を 飲みません。車で 来たんです。",
+          "reading": "きょうは おさけを のみません。くるまで きたんです。",
+          "romaji": "kyou wa osake o nomimasen. kuruma de kita n desu.",
+          "ta": "இன்று மது குடிக்க மாட்டேன். காரில் வந்திருக்கிறேன்.",
+          "en": "I won't drink today. I came by car."
+        },
+        {
+          "ja": "「パーティーに 行かないんですか。」「ええ、用事が あるんです。」",
+          "reading": "「パーティーに いかないんですか。」「ええ、ようじが あるんです。」",
+          "romaji": "\"paatii ni ikanai n desu ka.\" \"ee, youji ga aru n desu.\"",
+          "ta": "\"விருந்துக்குப் போகவில்லையா?\" \"ஆமாம், எனக்கு ஒரு வேலை இருக்கிறது.\"",
+          "en": "\"Aren't you going to the party?\" \"No, I have something to do.\""
+        }
+      ],
+      "pitfalls_ta": "な-பெயரடை, பெயர்ச்சொல்லுடன் 'だんです' என்று சொல்வது தவறு; 'なんです' என்றுதான் சொல்ல வேண்டும் (病気なんです). மேலும், மேலதிகாரியிடம் 'なぜ 〜んですか' என்று கேட்டால் குற்றம் சாட்டுவது போலக் கேட்கலாம்; கவனமாகப் பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Do not say だんです after nouns and な-adjectives. Say なんです: 病気なんです. Also, \"なぜ 〜んですか\" (why ...?) can sound like you are blaming someone. Be careful with your boss."
+    },
+    {
+      "id": "g01-2",
+      "pattern": "〜んですが、〜",
+      "name": {
+        "en": "Soft opening: 〜んですが、〜",
+        "ta": "〜んですが: மென்மையாக விஷயத்தைத் தொடங்குதல்"
+      },
+      "explanation_ta": "ஒருவரிடம் உதவி, அனுமதி, ஆலோசனை கேட்பதற்கு முன் முதலில் நிலைமையைச் சொல்லும்போது 〜んですが பயன்படுகிறது. இங்கே が என்பது 'ஆனால்' என்ற எதிர்மறைப் பொருளில் அல்ல; 'இப்படி ஒரு விஷயம், ...' என்று பேச்சைத் தொடங்கும் மென்மையான இணைப்பு. அதற்குப் பின் 〜ていただけませんか, 〜たらいいですか போன்ற வேண்டுகோள் அல்லது கேள்வி வரும். சில நேரம் பின்பகுதியைச் சொல்லாமலேயே விட்டுவிடுவார்கள் (用があるんですが……); கேட்பவர் புரிந்துகொள்வார். இது ஜப்பானியர் மிகவும் விரும்பும் பணிவான பேச்சு முறை.",
+      "explanation_en": "Use 〜んですが before you ask for help, permission or advice. First you explain your situation. Here が does not mean \"but\". It just opens the topic softly: \"I have this problem, and ...\". After it comes a request or a question, like 〜ていただけませんか or 〜たらいいですか. Sometimes people stop after が and say nothing more (用があるんですが……). The listener understands. Japanese people like this soft, polite way to talk.",
+      "tamil_parallel": "ஸ்டேஷனுக்குப் போகணும், எப்படிப் போகலாம்? = 駅へ行きたいんですが、どう行ったらいいですか",
+      "tamil_parallel_en": "\"I need to go to the station, how can I get there?\" (ஸ்டேஷனுக்குப் போகணும், எப்படிப் போகலாம்?) = 駅へ行きたいんですが、どう行ったらいいですか.",
+      "formation": "நிலைமை (〜んです) + が、+ வேண்டுகோள் / கேள்வி\n駅へ行きたいんですが、+ どう行ったらいいですか\nபின்பகுதி இல்லாமலும்: 用があるんですが……",
+      "formation_en": "Situation (〜んです) + が、+ request / question\n駅へ行きたいんですが、+ どう行ったらいいですか\nWith nothing after it: 用があるんですが……",
+      "examples": [
+        {
+          "ja": "日本語で 手紙を 書いたんですが、ちょっと 見て いただけませんか。",
+          "reading": "にほんごで てがみを かいたんですが、ちょっと みて いただけませんか。",
+          "romaji": "nihongo de tegami o kaita n desu ga, chotto mite itadakemasen ka.",
+          "ta": "ஜப்பானிய மொழியில் ஒரு கடிதம் எழுதினேன், கொஞ்சம் பார்த்துத் தர முடியுமா?",
+          "en": "I wrote a letter in Japanese. Could you have a look at it?"
+        },
+        {
+          "ja": "駅へ 行きたいんですが、どう 行ったら いいですか。",
+          "reading": "えきへ いきたいんですが、どう いったら いいですか。",
+          "romaji": "eki e ikitai n desu ga, dou ittara ii desu ka.",
+          "ta": "ஸ்டேஷனுக்குப் போக வேண்டும், எப்படிப் போகலாம்?",
+          "en": "I want to go to the station. How should I get there?"
+        },
+        {
+          "ja": "すみません、今日は ちょっと 用が あるんですが……。",
+          "reading": "すみません、きょうは ちょっと ようが あるんですが……。",
+          "romaji": "sumimasen, kyou wa chotto you ga aru n desu ga...",
+          "ta": "மன்னிக்கவும், இன்று ஒரு சின்ன வேலை இருக்கிறது... (அதனால் வர முடியாது)",
+          "en": "Sorry, I have something to do today... (so I can't come)."
+        },
+        {
+          "ja": "明日 休みたいんですが、いいですか。",
+          "reading": "あした やすみたいんですが、いいですか。",
+          "romaji": "ashita yasumitai n desu ga, ii desu ka.",
+          "ta": "நாளை விடுப்பு எடுக்க விரும்புகிறேன், பரவாயில்லையா?",
+          "en": "I'd like to take tomorrow off. Is that all right?"
+        },
+        {
+          "ja": "この パソコンの 使い方が わからないんですが、教えて もらえませんか。",
+          "reading": "この パソコンの つかいかたが わからないんですが、おしえて もらえませんか。",
+          "romaji": "kono pasokon no tsukaikata ga wakaranai n desu ga, oshiete moraemasen ka.",
+          "ta": "இந்தக் கணினியை எப்படிப் பயன்படுத்துவது என்று தெரியவில்லை, சொல்லித் தர முடியுமா?",
+          "en": "I don't know how to use this computer. Could you show me?"
+        }
+      ],
+      "pitfalls_ta": "இங்குள்ள が-வை 'ஆனால்' என்று மொழிபெயர்க்க வேண்டாம். அதேபோல் நேரடியாக '見てください' என்று கேட்பதைவிட, முதலில் 〜んですが என்று நிலைமையைச் சொல்வது மிகவும் பணிவாகக் கேட்கும்.",
+      "pitfalls_en": "Do not translate this が as \"but\". Also, saying the situation first with 〜んですが is much more polite than just saying 見てください."
+    },
+    {
+      "id": "g01-3",
+      "pattern": "V-ていただけませんか",
+      "name": {
+        "en": "Could you please …? (very polite)",
+        "ta": "〜ていただけませんか: தயவுசெய்து செய்து தர முடியுமா?"
+      },
+      "explanation_ta": "〜ていただけませんか என்பது மிகவும் பணிவான வேண்டுகோள். N5-இல் கற்ற 〜てください ஒரு கட்டளை போலவும் கேட்கலாம்; ஆனால் இது 'செய்து தர முடியாதா?' என்று எதிர்மறைக் கேள்வியாகக் கேட்பதால் மிக மென்மையாக இருக்கிறது. いただく என்பது もらう (பெறுதல்) என்பதன் பணிவு வடிவம்; 'உங்களிடமிருந்து இந்த உதவியைப் பெற முடியுமா?' என்பது நேரடிப் பொருள். ஆசிரியர், மேலதிகாரி, அந்நியர் போன்றவர்களிடம் பயன்படுத்துங்கள். பெரும்பாலும் すみませんが அல்லது 〜んですが என்பதுடன் தொடங்கும்.",
+      "explanation_en": "〜ていただけませんか is a very polite request. 〜てください (from N5) can sound like an order. This form asks \"couldn't I receive this help from you?\". So it sounds very soft. いただく is the polite word for もらう (to receive). Use it with teachers, bosses and strangers. People often start with すみませんが or 〜んですが.",
+      "tamil_parallel": "தயவுசெய்து இன்னொரு முறை சொல்லித் தர முடியுமா? = もう一度言っていただけませんか",
+      "tamil_parallel_en": "\"Could you kindly say it once more?\" (தயவுசெய்து இன்னொரு முறை சொல்லித் தர முடியுமா?) = もう一度言っていただけませんか.",
+      "formation": "வினை て-வடிவம் + いただけませんか\n言う → 言って + いただけませんか\nபணிவு நிலை: 〜てくれませんか < 〜てもらえませんか < 〜ていただけませんか",
+      "formation_en": "Verb て-form + いただけませんか\n言う → 言って + いただけませんか\nPoliteness: 〜てくれませんか < 〜てもらえませんか < 〜ていただけませんか",
+      "examples": [
+        {
+          "ja": "すみませんが、もう 一度 言って いただけませんか。",
+          "reading": "すみませんが、もう いちど いって いただけませんか。",
+          "romaji": "sumimasen ga, mou ichido itte itadakemasen ka.",
+          "ta": "மன்னிக்கவும், இன்னொரு முறை சொல்ல முடியுமா?",
+          "en": "Excuse me, could you please say that once more?"
+        },
+        {
+          "ja": "先生、この 漢字の 読み方を 教えて いただけませんか。",
+          "reading": "せんせい、この かんじの よみかたを おしえて いただけませんか。",
+          "romaji": "sensei, kono kanji no yomikata o oshiete itadakemasen ka.",
+          "ta": "ஆசிரியரே, இந்தக் கான்ஜியை எப்படிப் படிப்பது என்று சொல்லித் தர முடியுமா?",
+          "en": "Teacher, could you please tell me how to read this kanji?"
+        },
+        {
+          "ja": "すみません、写真を 撮って いただけませんか。",
+          "reading": "すみません、しゃしんを とって いただけませんか。",
+          "romaji": "sumimasen, shashin o totte itadakemasen ka.",
+          "ta": "மன்னிக்கவும், எங்களுக்கு ஒரு புகைப்படம் எடுத்துத் தர முடியுமா?",
+          "en": "Excuse me, could you please take our photo?"
+        },
+        {
+          "ja": "少し ゆっくり 話して いただけませんか。",
+          "reading": "すこし ゆっくり はなして いただけませんか。",
+          "romaji": "sukoshi yukkuri hanashite itadakemasen ka.",
+          "ta": "கொஞ்சம் மெதுவாகப் பேச முடியுமா?",
+          "en": "Could you please speak a little more slowly?"
+        },
+        {
+          "ja": "来週の 会議に 出て いただけませんか。",
+          "reading": "らいしゅうの かいぎに でて いただけませんか。",
+          "romaji": "raishuu no kaigi ni dete itadakemasen ka.",
+          "ta": "அடுத்த வாரக் கூட்டத்தில் கலந்துகொள்ள முடியுமா?",
+          "en": "Could you please attend next week's meeting?"
+        }
+      ],
+      "pitfalls_ta": "いただけませんか (முடியுமா?) மற்றும் いただきませんか ('நாம் சாப்பிடலாமா?' போன்ற அழைப்பு) இரண்டும் வேறு. வேண்டுகோளுக்கு எப்போதும் け உள்ள いただけませんか.",
+      "pitfalls_en": "いただけませんか (could you ...?) and いただきませんか are different. For a request, always use the form with け: いただけませんか."
+    },
+    {
+      "id": "g01-4",
+      "pattern": "question word + V-たらいいですか",
+      "name": {
+        "en": "What / where / how should I …?",
+        "ta": "என்ன / எங்கே / எப்படிச் செய்தால் நல்லது?"
+      },
+      "explanation_ta": "ஆலோசனை அல்லது வழிமுறை கேட்கும்போது கேள்விச்சொல் + 〜たらいいですか பயன்படுகிறது. நேரடிப் பொருள்: 'எங்கே வாங்கினால் நல்லது?'. தமிழில் 'எங்கே வாங்க வேண்டும்?', 'என்ன செய்யலாம்?' என்று கேட்பது போல. வினையின் た-வடிவத்துடன் ら சேர்த்து, பின் いいですか சேர்க்க வேண்டும்: 買った → 買ったら いいですか. 'どうしたらいいですか' (என்ன செய்யலாம்?) என்பது மிகவும் பயனுள்ள தொடர். பதில் சொல்லும்போது 〜たらいいですよ (〜 செய்தால் நல்லது) என்று சொல்லலாம்.",
+      "explanation_en": "Use a question word + 〜たらいいですか to ask for advice. It means \"Where should I buy it?\" or \"What should I do?\". Take the た-form, add ら, then いいですか: 買った → 買ったらいいですか. どうしたらいいですか (what should I do?) is a very useful phrase. To give advice, answer with 〜たらいいですよ (\"you should ...\").",
+      "tamil_parallel": "டிக்கெட் எங்கே வாங்கணும்? (எங்கே வாங்கினால் சரி?) = どこで切符を買ったらいいですか",
+      "tamil_parallel_en": "\"Where should I buy a ticket?\" (டிக்கெட் எங்கே வாங்கணும்?) = どこで切符を買ったらいいですか.",
+      "formation": "கேள்விச்சொல் (何・どこ・誰・どう・いつ・何時) + வினை た-வடிவம் + ら + いいですか\n買う → 買った → どこで買ったらいいですか\nする → した → どうしたらいいですか",
+      "formation_en": "Question word (何・どこ・誰・どう・いつ・何時) + verb た-form + ら + いいですか\n買う → 買った → どこで買ったらいいですか\nする → した → どうしたらいいですか",
+      "examples": [
+        {
+          "ja": "どこで 切符を 買ったら いいですか。",
+          "reading": "どこで きっぷを かったら いいですか。",
+          "romaji": "doko de kippu o kattara ii desu ka.",
+          "ta": "டிக்கெட்டை எங்கே வாங்க வேண்டும்?",
+          "en": "Where should I buy a ticket?"
+        },
+        {
+          "ja": "日本語が 上手に なりたいんですが、どう したら いいですか。",
+          "reading": "にほんごが じょうずに なりたいんですが、どう したら いいですか。",
+          "romaji": "nihongo ga jouzu ni naritai n desu ga, dou shitara ii desu ka.",
+          "ta": "ஜப்பானிய மொழியில் தேர்ச்சி பெற விரும்புகிறேன், என்ன செய்யலாம்?",
+          "en": "I want to get good at Japanese. What should I do?"
+        },
+        {
+          "ja": "誰に 聞いたら いいですか。",
+          "reading": "だれに きいたら いいですか。",
+          "romaji": "dare ni kiitara ii desu ka.",
+          "ta": "யாரிடம் கேட்க வேண்டும்?",
+          "en": "Who should I ask?"
+        },
+        {
+          "ja": "明日は 何時に 来たら いいですか。",
+          "reading": "あしたは なんじに きたら いいですか。",
+          "romaji": "ashita wa nanji ni kitara ii desu ka.",
+          "ta": "நாளை எத்தனை மணிக்கு வர வேண்டும்?",
+          "en": "What time should I come tomorrow?"
+        },
+        {
+          "ja": "先生の 誕生日に 何を あげたら いいですか。",
+          "reading": "せんせいの たんじょうびに なにを あげたら いいですか。",
+          "romaji": "sensei no tanjoubi ni nani o agetara ii desu ka.",
+          "ta": "ஆசிரியரின் பிறந்தநாளுக்கு என்ன கொடுக்கலாம்?",
+          "en": "What should I give my teacher for her birthday?"
+        }
+      ],
+      "pitfalls_ta": "た-வடிவத்தைச் சரியாக உருவாக்குங்கள்: 来る → 来たら (きたら), する → したら, 行く → 行ったら. '買うたら' போன்ற தவறு செய்ய வேண்டாம்.",
+      "pitfalls_en": "Make the た-form correctly: 来る → 来たら (きたら), する → したら, 行く → 行ったら. Do not say 買うたら."
+    },
+    {
+      "id": "g01-5",
+      "pattern": "V-てもらえませんか / V-てくれませんか",
+      "name": {
+        "en": "Could you … for me?",
+        "ta": "〜てもらえませんか / 〜てくれませんか: எனக்காகச் செய்ய முடியுமா?"
+      },
+      "explanation_ta": "N5-இல் கற்ற 〜てもらう (ஒருவரிடமிருந்து உதவி பெறுதல்), 〜てくれる (ஒருவர் எனக்காகச் செய்தல்) ஆகியவற்றை வேண்டுகோளாக மாற்றும் வடிவங்கள் இவை. 〜てもらえませんか = 'நான் இந்த உதவியைப் பெற முடியாதா?'; 〜てくれませんか = 'நீங்கள் எனக்காகச் செய்ய மாட்டீர்களா?'. இரண்டும் பணிவானவைதான்; ஆனால் 〜ていただけませんか-ஐ விடக் குறைவு. நண்பர்கள், சக ஊழியர்கள், குடும்பத்தினரிடம் பயன்படுத்தலாம். நெருங்கிய நண்பர்களிடம் சாதாரணப் பேச்சில் 〜てくれない？ / 〜てもらえない？ என்று கேட்கலாம்.",
+      "explanation_en": "These two make requests from 〜てもらう (receive help) and 〜てくれる (someone does it for me), which you know from N5. 〜てもらえませんか means \"Could I get you to do it?\". 〜てくれませんか means \"Won't you do it for me?\". Both are polite, but less polite than 〜ていただけませんか. Use them with friends, co-workers and family. With close friends, say 〜てくれない？ or 〜てもらえない？.",
+      "tamil_parallel": "இந்தப் பையைக் கொஞ்சம் பிடித்துக்கொள்கிறீர்களா? = この荷物を持ってもらえませんか / 持ってくれませんか",
+      "tamil_parallel_en": "\"Could you hold this bag for me?\" (இந்தப் பையைக் கொஞ்சம் பிடித்துக்கொள்கிறீர்களா?) = この荷物を持ってもらえませんか / 持ってくれませんか.",
+      "formation": "வினை て-வடிவம் + もらえませんか\nவினை て-வடிவம் + くれませんか\nசாதாரணப் பேச்சு: 〜てくれない？・〜てもらえない？",
+      "formation_en": "Verb て-form + もらえませんか\nVerb て-form + くれませんか\nCasual: 〜てくれない？・〜てもらえない？",
+      "examples": [
+        {
+          "ja": "すみません、この 荷物を 持って もらえませんか。",
+          "reading": "すみません、この にもつを もって もらえませんか。",
+          "romaji": "sumimasen, kono nimotsu o motte moraemasen ka.",
+          "ta": "மன்னிக்கவும், இந்தச் சாமானைக் கொஞ்சம் பிடித்துக்கொள்ள முடியுமா?",
+          "en": "Excuse me, could you hold this bag for me?"
+        },
+        {
+          "ja": "田中さん、ペンを 貸して くれませんか。",
+          "reading": "たなかさん、ペンを かして くれませんか。",
+          "romaji": "tanaka-san, pen o kashite kuremasen ka.",
+          "ta": "தனகா அவர்களே, ஒரு பேனா கொடுக்க முடியுமா?",
+          "en": "Mr Tanaka, could you lend me a pen?"
+        },
+        {
+          "ja": "駅に 着いたら、電話して もらえませんか。",
+          "reading": "えきに ついたら、でんわして もらえませんか。",
+          "romaji": "eki ni tsuitara, denwa shite moraemasen ka.",
+          "ta": "ஸ்டேஷனுக்கு வந்து சேர்ந்ததும் எனக்குப் போன் செய்ய முடியுமா?",
+          "en": "When you get to the station, could you call me?"
+        },
+        {
+          "ja": "すみません、少し 静かに して くれませんか。",
+          "reading": "すみません、すこし しずかに して くれませんか。",
+          "romaji": "sumimasen, sukoshi shizuka ni shite kuremasen ka.",
+          "ta": "மன்னிக்கவும், கொஞ்சம் அமைதியாக இருக்க முடியுமா?",
+          "en": "Excuse me, could you be a little quieter?"
+        },
+        {
+          "ja": "ねえ、塩を 取って くれない？",
+          "reading": "ねえ、しおを とって くれない？",
+          "romaji": "nee, shio o totte kurenai?",
+          "ta": "ஏய், உப்பைக் கொஞ்சம் எடுத்துக் கொடுக்கிறாயா?",
+          "en": "Hey, can you pass me the salt?"
+        }
+      ],
+      "pitfalls_ta": "もらえませんか-இல் 'え' (もらえ) வர வேண்டும்; 'もらいませんか' என்றால் 'நாம் பெறலாமா?' என்று பொருள் மாறும். ஆசிரியர், மேலதிகாரியிடம் 〜てくれない？ போன்ற சாதாரண வடிவம் வேண்டாம்.",
+      "pitfalls_en": "Say もらえませんか, with え. もらいませんか has a different meaning. Do not use casual 〜てくれない？ with teachers or bosses."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-014",
+    "n4-v-037",
+    "n4-v-049",
+    "n4-v-069",
+    "n4-v-077",
+    "n4-v-134",
+    "n4-v-135",
+    "n4-v-153",
+    "n4-v-161",
+    "n4-v-182",
+    "n4-v-271",
+    "n4-v-332",
+    "n4-v-355",
+    "n4-v-399",
+    "n4-v-446",
+    "n4-v-480",
+    "n4-v-493",
+    "n4-v-519",
+    "n4-v-522",
+    "n4-v-537",
+    "n4-v-565",
+    "n4-v-632"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L01-q01",
+        "type": "kanji_reading",
+        "sentence": "金曜日は ＿都合＿が 悪いんです。",
+        "target": "都合",
+        "options": [
+          "とごう",
+          "つごう",
+          "つあい",
+          "とあい"
+        ],
+        "answer": 1,
+        "explanation_ta": "都合 = つごう (வசதி). 都 இங்கே つ என்று படிக்கப்படும்; とごう என்பது பொதுவான தவறு.",
+        "explanation_en": "都合 = つごう (வசதி, convenience). Here 都 is read つ. とごう is a common mistake."
+      },
+      {
+        "id": "L01-q02",
+        "type": "kanji_reading",
+        "sentence": "遅れた ＿理由＿を 教えて ください。",
+        "target": "理由",
+        "options": [
+          "りよう",
+          "りゅう",
+          "りゆ",
+          "りゆう"
+        ],
+        "answer": 3,
+        "explanation_ta": "理由 = りゆう (காரணம்). ゆ-வுக்குப் பின் う நீட்டல் உண்டு. りよう என்பது 利用 (பயன்படுத்துதல்) என்ற வேறு சொல்.",
+        "explanation_en": "理由 = りゆう (காரணம், reason). It has a long う after ゆ. りよう is a different word (利用, to use)."
+      },
+      {
+        "id": "L01-q03",
+        "type": "kanji_reading",
+        "sentence": "会社の ＿帰り＿に パンを 買いました。",
+        "target": "帰り",
+        "options": [
+          "かえり",
+          "かいり",
+          "がえり",
+          "もどり"
+        ],
+        "answer": 0,
+        "explanation_ta": "帰り = かえり (திரும்பும் வழி). 帰る (かえる)-இலிருந்து வரும் பெயர்ச்சொல். もどり என்பது 戻り என்ற வேறு கான்ஜி.",
+        "explanation_en": "帰り = かえり (திரும்பும் வழி, the way home). It comes from 帰る (かえる). もどり is written with a different kanji (戻り)."
+      },
+      {
+        "id": "L01-q04",
+        "type": "orthography",
+        "sentence": "友達と 会う ＿やくそく＿を しました。",
+        "target": "やくそく",
+        "options": [
+          "約速",
+          "訳束",
+          "約束",
+          "的束"
+        ],
+        "answer": 2,
+        "explanation_ta": "やくそく = 約束 (வாக்குறுதி / சந்திப்பு ஏற்பாடு). 速 (வேகம்), 訳 (காரணம்) போன்றவை தோற்றத்தில் ஒத்திருந்தாலும் தவறு.",
+        "explanation_en": "やくそく = 約束 (வாக்குறுதி, promise / appointment). 速 (fast) and 訳 (reason) look similar, but they are wrong."
+      },
+      {
+        "id": "L01-q05",
+        "type": "orthography",
+        "sentence": "昨日 遅くまで 起きて いたので、＿ねむい＿んです。",
+        "target": "ねむい",
+        "options": [
+          "眼い",
+          "寝い",
+          "民い",
+          "眠い"
+        ],
+        "answer": 3,
+        "explanation_ta": "ねむい = 眠い (தூக்கக் கலக்கம்). 眼 (கண்) தோற்றத்தில் ஒத்தது; 寝 என்பது 寝る-வில் வரும் கான்ஜி.",
+        "explanation_en": "ねむい = 眠い (தூக்கமான, sleepy). 眼 (eye) looks similar. 寝 is the kanji of 寝る, not ねむい."
+      },
+      {
+        "id": "L01-q06",
+        "type": "vocab_context",
+        "sentence": "「（　　）ですね。お元気でしたか。」「ええ、おかげさまで。」",
+        "options": [
+          "久しぶり",
+          "なるほど",
+          "大事",
+          "残念"
+        ],
+        "answer": 0,
+        "explanation_ta": "நீண்ட நாள் கழித்துச் சந்திக்கும்போது 久しぶりですね. なるほど என்பது 'ஓ, புரிகிறது'; 残念 என்பது 'வருத்தம்' — வாழ்த்தாகப் பொருந்தாது.",
+        "explanation_en": "When you meet after a long time, say 久しぶりですね (நீண்ட நாளுக்குப் பிறகு, long time no see). なるほど means \"I see\". 残念 means \"a pity\". They are not greetings."
+      },
+      {
+        "id": "L01-q07",
+        "type": "vocab_context",
+        "sentence": "けさ （　　）を して、学校に 遅れました。",
+        "options": [
+          "約束",
+          "寝坊",
+          "用事",
+          "気分"
+        ],
+        "answer": 1,
+        "explanation_ta": "அதிக நேரம் தூங்கியதால் தாமதம் → 寝坊をして. 約束をする என்றால் 'வாக்குறுதி கொடு' — அது தாமதத்துக்குக் காரணமாகாது.",
+        "explanation_en": "You were late because you slept too long → 寝坊をして (அதிக நேரம் தூங்கி, overslept). 約束をする means \"make a promise\". It is not a reason for being late."
+      },
+      {
+        "id": "L01-q08",
+        "type": "vocab_context",
+        "sentence": "雨で 旅行に 行かなかったんです。とても （　　）でした。",
+        "options": [
+          "大事",
+          "だめ",
+          "残念",
+          "心配"
+        ],
+        "answer": 2,
+        "explanation_ta": "பயணம் போக முடியாமல் போனது → வருத்தம் = 残念でした. 心配 என்பது வருங்காலத்தைப் பற்றிய கவலை; முடிந்துபோன ஏமாற்றத்துக்கு 残念.",
+        "explanation_en": "The trip didn't happen → 残念でした (வருத்தமாக இருந்தது, it was a pity). 心配 is worry about the future. For a disappointment, use 残念."
+      },
+      {
+        "id": "L01-q09",
+        "type": "vocab_context",
+        "sentence": "子どもが 夜 遅くまで 帰って こないので、（　　）です。",
+        "options": [
+          "心配",
+          "都合",
+          "理由",
+          "気分"
+        ],
+        "answer": 0,
+        "explanation_ta": "குழந்தை இரவு வெகுநேரமாகியும் வீடு திரும்பவில்லை → கவலை = 心配です. 気分です என்று தனியாகச் சொல்ல முடியாது.",
+        "explanation_en": "The child has not come home late at night → 心配です (கவலையாக இருக்கிறது, I'm worried). You cannot say 気分です alone."
+      },
+      {
+        "id": "L01-q10",
+        "type": "vocab_context",
+        "sentence": "「この ボタンを 押すと、お湯が 出ますよ。」「（　　）、わかりました。」",
+        "options": [
+          "だから",
+          "しばらく",
+          "やっぱり",
+          "なるほど"
+        ],
+        "answer": 3,
+        "explanation_ta": "புதிதாக ஒன்றைப் புரிந்துகொண்டபோது なるほど (ஓ, புரிகிறது). やっぱり 'எதிர்பார்த்தபடியே' — முன்பே நினைத்திருந்தால் மட்டும்.",
+        "explanation_en": "When you now understand something new, say なるほど (ஓ, புரிகிறது, I see). やっぱり means \"as I thought\". Use it only if you already guessed."
+      },
+      {
+        "id": "L01-q11",
+        "type": "paraphrase",
+        "sentence": "明日は 都合が 悪いんです。",
+        "options": [
+          "明日は 体の 調子が 悪いんです。",
+          "明日は 用事が あって、時間が ないんです。",
+          "明日は 天気が 悪いんです。",
+          "明日は 道が わからないんです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "都合が悪い = வேறு வேலை இருப்பதால் வசதிப்படாது. அது உடல்நிலை (体の調子) பற்றியது அல்ல.",
+        "explanation_en": "都合が悪い means another plan makes it not convenient (வசதிப்படாது). It is not about your health (体の調子)."
+      },
+      {
+        "id": "L01-q12",
+        "type": "paraphrase",
+        "sentence": "先生に 遅れた 訳を 話しました。",
+        "options": [
+          "先生に 遅れた 日を 話しました。",
+          "先生に 遅れた 時間を 話しました。",
+          "先生に 遅れた 理由を 話しました。",
+          "先生に 遅れた 人を 話しました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "訳 (わけ) = 理由 (காரணம்). இரண்டும் 'ஏன்' என்பதற்கான பதில்.",
+        "explanation_en": "訳 (わけ) = 理由 (காரணம், reason). Both answer the question \"why?\"."
+      },
+      {
+        "id": "L01-q13",
+        "type": "usage",
+        "sentence": "大事",
+        "options": [
+          "大事な 雨が 降って います。",
+          "この 料理は 大事で、おいしいです。",
+          "大事に 遅れて、すみません。",
+          "これは 父に もらった 大事な 時計です。"
+        ],
+        "answer": 3,
+        "explanation_ta": "大事 = முக்கியமான / அருமையான; மதிப்புள்ள பொருளுக்குப் பயன்படும்: 大事な時計. மழைக்கோ சுவைக்கோ 大事 பொருந்தாது.",
+        "explanation_en": "大事 means important or precious (முக்கியமான). It fits a valuable thing: 大事な時計. It does not fit rain or taste."
+      },
+      {
+        "id": "L01-q14",
+        "type": "usage",
+        "sentence": "しばらく",
+        "options": [
+          "明日 しばらく 学校へ 行きます。",
+          "しばらく ここで 待って いて ください。",
+          "本を しばらく 三冊 買いました。",
+          "この 店は しばらく おいしいです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "しばらく = சிறிது நேரம்; காத்திருத்தல் போன்ற நீடிக்கும் செயலுடன் வரும்: しばらく待つ. எண்ணிக்கை அல்லது சுவையுடன் வராது.",
+        "explanation_en": "しばらく means \"for a while\" (சிறிது நேரம்). It goes with an action that lasts, like 待つ. It does not go with numbers or taste."
+      },
+      {
+        "id": "L01-q15",
+        "type": "grammar_form",
+        "sentence": "「どう （　　）んですか。」「おなかが 痛いんです。」",
+        "options": [
+          "する",
+          "して",
+          "しない",
+          "した"
+        ],
+        "answer": 3,
+        "explanation_ta": "'என்ன ஆச்சு?' = どうしたんですか. ஏற்கனவே நடந்ததைப் பற்றிக் கேட்பதால் た-வடிவம் した. する என்றால் 'என்ன செய்யப் போகிறீர்கள்?'.",
+        "explanation_en": "\"What happened?\" = どうしたんですか. You ask about something that already happened, so use the た-form した. どうするんですか means \"What will you do?\"."
+      },
+      {
+        "id": "L01-q16",
+        "type": "grammar_form",
+        "sentence": "「元気が ないですね。」「ええ、昨日から 熱が （　　）んです。」",
+        "options": [
+          "ある",
+          "あって",
+          "あります",
+          "あるな"
+        ],
+        "answer": 0,
+        "explanation_ta": "んです-க்கு முன் சாதாரண வடிவம்: ある + んです. あります + んです என்று ます-வடிவத்தைச் சேர்க்கக் கூடாது.",
+        "explanation_en": "Before んです, use the plain form: ある + んです. Do not put the ます-form (あります) before んです."
+      },
+      {
+        "id": "L01-q17",
+        "type": "grammar_form",
+        "sentence": "「静かですね。」「ええ、今日は 日曜日 （　　）んです。」",
+        "options": [
+          "だ",
+          "の",
+          "で",
+          "な"
+        ],
+        "answer": 3,
+        "explanation_ta": "பெயர்ச்சொல் + んです என்றால் な சேர்க்க வேண்டும்: 日曜日なんです. 'だんです' என்பது தவறு.",
+        "explanation_en": "After a noun, add な before んです: 日曜日なんです. だんです is wrong."
+      },
+      {
+        "id": "L01-q18",
+        "type": "grammar_form",
+        "sentence": "すみませんが、駅までの 道を 教えて （　　）。",
+        "options": [
+          "いただきませんか",
+          "あげませんか",
+          "いただけませんか",
+          "さしあげませんか"
+        ],
+        "answer": 2,
+        "explanation_ta": "பணிவான வேண்டுகோள் = 〜ていただけませんか. いただきませんか என்பது 'நாம் பெறலாமா?' என்று அர்த்தமற்றதாகிவிடும்; あげる / さしあげる என்பது நான் கொடுப்பது.",
+        "explanation_en": "A polite request is 〜ていただけませんか (தர முடியுமா?, could you ...?). いただきませんか does not make sense here. あげる and さしあげる are for giving."
+      },
+      {
+        "id": "L01-q19",
+        "type": "grammar_form",
+        "sentence": "日本語で レポートを 書きたいんですが、何から （　　） いいですか。",
+        "options": [
+          "始めて",
+          "始めた",
+          "始めたら",
+          "始めると"
+        ],
+        "answer": 2,
+        "explanation_ta": "ஆலோசனை கேட்க: கேள்விச்சொல் + 〜たらいいですか → 何から始めたらいいですか. 始めていいですか என்றால் 'தொடங்கலாமா?' (அனுமதி) என்று பொருள் மாறும்.",
+        "explanation_en": "To ask for advice: question word + 〜たらいいですか → 何から始めたらいいですか. 始めていいですか asks for permission (\"may I start?\")."
+      },
+      {
+        "id": "L01-q20",
+        "type": "grammar_form",
+        "sentence": "「ちょっと この 箱を 持って （　　）？」「うん、いいよ。」",
+        "options": [
+          "くれない",
+          "あげない",
+          "もらう",
+          "やらない"
+        ],
+        "answer": 0,
+        "explanation_ta": "நண்பரிடம் சாதாரணமாக உதவி கேட்க: 〜てくれない？ ('செய்து தருவாயா?'). あげない என்பது நான் கொடுப்பது பற்றியது.",
+        "explanation_en": "To ask a friend casually: 〜てくれない？ (செய்து தருவாயா?, will you do it for me?). あげない is about me giving."
+      },
+      {
+        "id": "L01-q21",
+        "type": "grammar_form",
+        "sentence": "「パーティーに 行かないんですか。」「ええ、ちょっと 用事が ある （　　）。」",
+        "options": [
+          "んですか",
+          "ですね",
+          "んです",
+          "でしょう"
+        ],
+        "answer": 2,
+        "explanation_ta": "காரணத்தை விளக்குவதால் 〜んです. あるでしょう என்றால் 'இருக்கலாம்' என்ற ஊகம்; தன் சொந்த வேலையைப் பற்றி அப்படிச் சொல்ல மாட்டோம்.",
+        "explanation_en": "You explain your reason, so use 〜んです. あるでしょう is a guess (\"probably\"). You don't guess about your own plans."
+      },
+      {
+        "id": "L01-q22",
+        "type": "sentence_order",
+        "before": "すみません、",
+        "chunks": [
+          "この 漢字の",
+          "読み方を",
+          "教えて",
+          "いただけませんか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "この漢字の (இந்தக் கான்ஜியின்) → 読み方を (படிக்கும் முறையை) → 教えて → いただけませんか. ★ = 教えて.",
+        "explanation_en": "この漢字の (இந்தக் கான்ஜியின், of this kanji) → 読み方を (how to read) → 教えて → いただけませんか. ★ = 教えて."
+      },
+      {
+        "id": "L01-q23",
+        "type": "sentence_order",
+        "before": "「どうして 遅れたんですか。」「すみません、",
+        "chunks": [
+          "けさ",
+          "寝坊",
+          "した",
+          "んです"
+        ],
+        "star": 1,
+        "after": "。」",
+        "explanation_ta": "けさ (இன்று காலை) → 寝坊 → した → んです (காரணம் விளக்குதல்). ★ = 寝坊.",
+        "explanation_en": "けさ (இன்று காலை, this morning) → 寝坊 → した → んです (giving the reason). ★ = 寝坊."
+      },
+      {
+        "id": "L01-q24",
+        "type": "sentence_order",
+        "before": "病院へ 行きたいんですが、",
+        "chunks": [
+          "どの",
+          "バスに",
+          "乗ったら",
+          "いいですか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "どの (எந்த) → バスに → 乗ったら → いいですか ('எந்த பஸ்ஸில் ஏற வேண்டும்?'). ★ = 乗ったら.",
+        "explanation_en": "どの (எந்த, which) → バスに → 乗ったら → いいですか (\"Which bus should I take?\"). ★ = 乗ったら."
+      },
+      {
+        "id": "L01-q25",
+        "type": "passage_cloze",
+        "passage": "けさ、田中さんが 会社に 遅れました。わたしが「どう［1］んですか。」と 聞きました。田中さんは「すみません。電車が 止まって いた［2］。」と 言いました。わたしは「じゃあ、この 紙を 十枚 コピーして［3］か。」と 言いました。",
+        "blanks": [
+          {
+            "options": [
+              "して",
+              "した",
+              "する",
+              "しよう"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "です",
+              "んですか",
+              "ので",
+              "んです"
+            ],
+            "answer": 3
+          },
+          {
+            "options": [
+              "もらえません",
+              "あげません",
+              "くれました",
+              "いただきません"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ நடந்ததைப் பற்றிக் கேட்பதால் どうしたんですか. ［2］ காரணம் விளக்குதல் → 止まっていたんです. ［3］ சக ஊழியரிடம் வேண்டுகோள் → コピーしてもらえませんか. あげません என்பது நான் கொடுப்பது.",
+        "explanation_en": "[1] You ask about what happened → どうしたんですか. [2] He explains the reason → 止まっていたんです. [3] A request to a co-worker → コピーしてもらえませんか (copy செய்து தர முடியுமா?). あげません is about me giving."
+      }
+    ]
+  }
+}

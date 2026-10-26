@@ -292,8 +292,8 @@
  {
   "id": "n4-v-030",
   "expression": "運動",
-  "reading": "うんどうする",
-  "romaji": "undousuru",
+  "reading": "うんどう",
+  "romaji": "undou",
   "en": "exercise",
   "tags": [
    "JLPT_N4"
@@ -362,8 +362,8 @@
  {
   "id": "n4-v-037",
   "expression": "心配",
-  "reading": "しんぱいする",
-  "romaji": "shinpaisuru",
+  "reading": "しんぱい",
+  "romaji": "shinpai",
   "en": "worry, concern",
   "tags": [
    "JLPT_N4"
@@ -971,7 +971,7 @@
  },
  {
   "id": "n4-v-098",
-  "expression": "落る",
+  "expression": "落ちる",
   "reading": "おちる",
   "romaji": "ochiru",
   "en": "to fall, to drop",
@@ -1101,9 +1101,9 @@
  },
  {
   "id": "n4-v-111",
-  "expression": "うそ",
-  "reading": "嘘",
-  "romaji": "嘘",
+  "expression": "嘘",
+  "reading": "うそ",
+  "romaji": "uso",
   "en": "lie",
   "tags": [
    "JLPT_N4"
@@ -1202,8 +1202,8 @@
  {
   "id": "n4-v-121",
   "expression": "出席",
-  "reading": "しゅっせきする",
-  "romaji": "shussekisuru",
+  "reading": "しゅっせき",
+  "romaji": "shusseki",
   "en": "attendance",
   "tags": [
    "JLPT_N4"
@@ -1572,8 +1572,8 @@
  {
   "id": "n4-v-158",
   "expression": "故障",
-  "reading": "こしょうする",
-  "romaji": "koshousuru",
+  "reading": "こしょう",
+  "romaji": "koshou",
   "en": "breakdown",
   "tags": [
    "JLPT_N4"
@@ -1702,8 +1702,8 @@
  {
   "id": "n4-v-171",
   "expression": "準備",
-  "reading": "じゅんびする",
-  "romaji": "junbisuru",
+  "reading": "じゅんび",
+  "romaji": "junbi",
   "en": "prepare",
   "tags": [
    "JLPT_N4"
@@ -2341,9 +2341,9 @@
  },
  {
   "id": "n4-v-235",
-  "expression": "いただく",
-  "reading": "頂く",
-  "romaji": "頂ku",
+  "expression": "頂く",
+  "reading": "いただく",
+  "romaji": "itadaku",
   "en": "-- extra-modest expression for たべる and のむ; humble expression for もらう --",
   "tags": [
    "JLPT_N4"
@@ -2531,9 +2531,9 @@
  },
  {
   "id": "n4-v-254",
-  "expression": "あいさつする",
-  "reading": "挨拶",
-  "romaji": "挨拶",
+  "expression": "挨拶",
+  "reading": "あいさつ",
+  "romaji": "aisatsu",
   "en": "greet(ing)",
   "tags": [
    "JLPT_N4"
@@ -2762,8 +2762,8 @@
  {
   "id": "n4-v-277",
   "expression": "運転",
-  "reading": "うんてんする",
-  "romaji": "untensuru",
+  "reading": "うんてん",
+  "romaji": "unten",
   "en": "driving",
   "tags": [
    "JLPT_N4"
@@ -2892,8 +2892,8 @@
  {
   "id": "n4-v-290",
   "expression": "案内",
-  "reading": "あんないする",
-  "romaji": "annaisuru",
+  "reading": "あんない",
+  "romaji": "annai",
   "en": "information, guidance",
   "tags": [
    "JLPT_N4"
@@ -2962,8 +2962,8 @@
  {
   "id": "n4-v-297",
   "expression": "招待",
-  "reading": "しょうたいする",
-  "romaji": "shoutaisuru",
+  "reading": "しょうたい",
+  "romaji": "shoutai",
   "en": "invitation",
   "tags": [
    "JLPT_N4"
@@ -3011,7 +3011,7 @@
  },
  {
   "id": "n4-v-302",
-  "expression": "楽む",
+  "expression": "楽しむ",
   "reading": "たのしむ",
   "romaji": "tanoshimu",
   "en": "to enjoy",
@@ -3081,9 +3081,9 @@
  },
  {
   "id": "n4-v-309",
-  "expression": "ごらんになる",
-  "reading": "",
-  "romaji": "",
+  "expression": "ご覧になる",
+  "reading": "ごらんになる",
+  "romaji": "goranninaru",
   "en": "-- honorific expression for みる --",
   "tags": [
    "JLPT_N4"
@@ -3322,8 +3322,8 @@
  {
   "id": "n4-v-333",
   "expression": "遠慮",
-  "reading": "えんりょする",
-  "romaji": "enryosuru",
+  "reading": "えんりょ",
+  "romaji": "enryo",
   "en": "restraint, reserve, hesitate",
   "tags": [
    "JLPT_N4"
@@ -3422,8 +3422,8 @@
  {
   "id": "n4-v-343",
   "expression": "入学",
-  "reading": "にゅうがくする",
-  "romaji": "nyuugakusuru",
+  "reading": "にゅうがく",
+  "romaji": "nyuugaku",
   "en": "entry to school or university",
   "tags": [
    "JLPT_N4"
@@ -3511,9 +3511,9 @@
  },
  {
   "id": "n4-v-352",
-  "expression": "いっぱい",
-  "reading": "一杯",
-  "romaji": "一杯",
+  "expression": "一杯",
+  "reading": "いっぱい",
+  "romaji": "ippai",
   "en": "full, to the utmost",
   "tags": [
    "JLPT_N4"
@@ -3552,8 +3552,8 @@
  {
   "id": "n4-v-356",
   "expression": "生産",
-  "reading": "せいさんする",
-  "romaji": "seisansuru",
+  "reading": "せいさん",
+  "romaji": "seisan",
   "en": "production; to produce",
   "tags": [
    "JLPT_N4"
@@ -4012,8 +4012,8 @@
  {
   "id": "n4-v-402",
   "expression": "計画",
-  "reading": "けいかくする",
-  "romaji": "keikakusuru",
+  "reading": "けいかく",
+  "romaji": "keikaku",
   "en": "plan, project, schedule",
   "tags": [
    "JLPT_N4"
@@ -4172,8 +4172,8 @@
  {
   "id": "n4-v-418",
   "expression": "支度",
-  "reading": "したくする",
-  "romaji": "shitakusuru",
+  "reading": "したく",
+  "romaji": "shitaku",
   "en": "preparation",
   "tags": [
    "JLPT_N4"
@@ -4642,8 +4642,8 @@
  {
   "id": "n4-v-465",
   "expression": "放送",
-  "reading": "ほうそうする",
-  "romaji": "housousuru",
+  "reading": "ほうそう",
+  "romaji": "housou",
   "en": "broadcasting",
   "tags": [
    "JLPT_N4"
@@ -4802,8 +4802,8 @@
  {
   "id": "n4-v-481",
   "expression": "承知",
-  "reading": "しょうちする",
-  "romaji": "shouchisuru",
+  "reading": "しょうち",
+  "romaji": "shouchi",
   "en": "consent, acceptance",
   "tags": [
    "JLPT_N4"
@@ -5051,7 +5051,7 @@
  },
  {
   "id": "n4-v-506",
-  "expression": "下る",
+  "expression": "下がる",
   "reading": "さがる",
   "romaji": "sagaru",
   "en": "to descend, to drop, to fall",
@@ -5162,8 +5162,8 @@
  {
   "id": "n4-v-517",
   "expression": "退院",
-  "reading": "たいいんする",
-  "romaji": "taiinsuru",
+  "reading": "たいいん",
+  "romaji": "taiin",
   "en": "leaving hospital",
   "tags": [
    "JLPT_N4"
@@ -5372,8 +5372,8 @@
  {
   "id": "n4-v-538",
   "expression": "世話",
-  "reading": "せわする",
-  "romaji": "sewasuru",
+  "reading": "せわ",
+  "romaji": "sewa",
   "en": "looking after; to look after",
   "tags": [
    "JLPT_N4"
@@ -5501,9 +5501,9 @@
  },
  {
   "id": "n4-v-551",
-  "expression": "かっこう",
-  "reading": "格好",
-  "romaji": "格好",
+  "expression": "格好",
+  "reading": "かっこう",
+  "romaji": "kakkou",
   "en": "appearance, manner, shape, form, posture",
   "tags": [
    "JLPT_N4"
@@ -5511,9 +5511,9 @@
  },
  {
   "id": "n4-v-552",
-  "expression": "かまう",
-  "reading": "",
-  "romaji": "",
+  "expression": "構う",
+  "reading": "かまう",
+  "romaji": "kamau",
   "en": "to mind, to care about, to be concerned about",
   "tags": [
    "JLPT_N4"
@@ -5552,8 +5552,8 @@
  {
   "id": "n4-v-556",
   "expression": "出発",
-  "reading": "しゅっぱつする",
-  "romaji": "shuppatsusuru",
+  "reading": "しゅっぱつ",
+  "romaji": "shuppatsu",
   "en": "departure",
   "tags": [
    "JLPT_N4"
@@ -5562,8 +5562,8 @@
  {
   "id": "n4-v-557",
   "expression": "拝見",
-  "reading": "はいけんする",
-  "romaji": "haikensuru",
+  "reading": "はいけん",
+  "romaji": "haiken",
   "en": "(humble) (polite) seeing, look at",
   "tags": [
    "JLPT_N4"
@@ -5962,8 +5962,8 @@
  {
   "id": "n4-v-597",
   "expression": "経験",
-  "reading": "けいけんする",
-  "romaji": "keikensuru",
+  "reading": "けいけん",
+  "romaji": "keiken",
   "en": "experience",
   "tags": [
    "JLPT_N4"
@@ -6212,8 +6212,8 @@
  {
   "id": "n4-v-622",
   "expression": "入院",
-  "reading": "にゅういんする",
-  "romaji": "nyuuinsuru",
+  "reading": "にゅういん",
+  "romaji": "nyuuin",
   "en": "hospitalization",
   "tags": [
    "JLPT_N4"
@@ -6282,8 +6282,8 @@
  {
   "id": "n4-v-629",
   "expression": "相談",
-  "reading": "そうだんする",
-  "romaji": "soudansuru",
+  "reading": "そうだん",
+  "romaji": "soudan",
   "en": "consultation",
   "tags": [
    "JLPT_N4"
@@ -6342,8 +6342,8 @@
  {
   "id": "n4-v-635",
   "expression": "食事",
-  "reading": "しょくじする",
-  "romaji": "shokujisuru",
+  "reading": "しょくじ",
+  "romaji": "shokuji",
   "en": "meal",
   "tags": [
    "JLPT_N4"
@@ -6351,9 +6351,9 @@
  },
  {
   "id": "n4-v-636",
-  "expression": "おかげ",
-  "reading": "お陰",
-  "romaji": "o陰",
+  "expression": "お陰",
+  "reading": "おかげ",
+  "romaji": "okage",
   "en": "thanks or owing to",
   "tags": [
    "JLPT_N4"
@@ -6432,8 +6432,8 @@
  {
   "id": "n4-v-644",
   "expression": "生活",
-  "reading": "せいかつする",
-  "romaji": "seikatsusuru",
+  "reading": "せいかつ",
+  "romaji": "seikatsu",
   "en": "living, life; to live",
   "tags": [
    "JLPT_N4"
@@ -6522,8 +6522,8 @@
  {
   "id": "n4-v-653",
   "expression": "輸出",
-  "reading": "ゆしゅつする",
-  "romaji": "yushutsusuru",
+  "reading": "ゆしゅつ",
+  "romaji": "yushutsu",
   "en": "export",
   "tags": [
    "JLPT_N4"
@@ -6551,9 +6551,9 @@
  },
  {
   "id": "n4-v-656",
-  "expression": "うれしい",
-  "reading": "嬉しい",
-  "romaji": "嬉shii",
+  "expression": "嬉しい",
+  "reading": "うれしい",
+  "romaji": "ureshii",
   "en": "to be happy; to be glad",
   "tags": [
    "JLPT_N4"

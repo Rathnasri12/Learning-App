@@ -1,0 +1,452 @@
+[
+  {
+    "id": "n4-v-040",
+    "expression": "お宅",
+    "reading": "おたく",
+    "romaji": "otaku",
+    "en": "(someone's) home",
+    "ta": "(உங்கள் / அவருடைய) வீடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日に先生のお宅へ行きました。",
+        "reading": "にちようびに せんせいの おたくへ いきました。",
+        "romaji": "nichiyoubi ni sensei no otaku e ikimashita.",
+        "ta": "ஞாயிற்றுக்கிழமை ஆசிரியரின் வீட்டுக்குப் போனேன்.",
+        "en": "On Sunday I went to my teacher’s home."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-051",
+    "expression": "正月",
+    "reading": "しょうがつ",
+    "romaji": "shougatsu",
+    "en": "New Year",
+    "ta": "புத்தாண்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "正月は家族と神社へ行きます。",
+        "reading": "しょうがつは かぞくと じんじゃへ いきます。",
+        "romaji": "shougatsu wa kazoku to jinja e ikimasu.",
+        "ta": "புத்தாண்டில் குடும்பத்துடன் ஷின்டோ கோயிலுக்குப் போவேன்.",
+        "en": "At New Year I go to a shrine with my family."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-070",
+    "expression": "贈り物",
+    "reading": "おくりもの",
+    "romaji": "okurimono",
+    "en": "gift",
+    "ta": "பரிசு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母の誕生日に贈り物を買いました。",
+        "reading": "ははの たんじょうびに おくりものを かいました。",
+        "romaji": "haha no tanjoubi ni okurimono o kaimashita.",
+        "ta": "அம்மாவின் பிறந்தநாளுக்குப் பரிசு வாங்கினேன்.",
+        "en": "I bought a gift for my mother’s birthday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-120",
+    "expression": "～式",
+    "reading": "～しき",
+    "romaji": "～shiki",
+    "en": "~ ceremony",
+    "ta": "~ விழா",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "来月、姉の結婚式があります。",
+        "reading": "らいげつ、あねの けっこんしきが あります。",
+        "romaji": "raigetsu, ane no kekkonshiki ga arimasu.",
+        "ta": "அடுத்த மாதம் அக்காவின் திருமண விழா இருக்கிறது.",
+        "en": "Next month is my sister’s wedding."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-132",
+    "expression": "開く",
+    "reading": "ひらく",
+    "romaji": "hiraku",
+    "en": "to hold (a party); to open",
+    "ta": "(விருந்து) நடத்த; திறக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "金曜日に友達の誕生日パーティーを開きます。",
+        "reading": "きんようびに ともだちの たんじょうび パーティーを ひらきます。",
+        "romaji": "kin'youbi ni tomodachi no tanjoubi paatii o hirakimasu.",
+        "ta": "வெள்ளிக்கிழமை நண்பரின் பிறந்தநாள் விருந்து நடத்துகிறோம்.",
+        "en": "We’re holding a birthday party for a friend on Friday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-141",
+    "expression": "包む",
+    "reading": "つつむ",
+    "romaji": "tsutsumu",
+    "en": "to wrap",
+    "ta": "சுற்றிக் கட்ட (பொதிய)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "店の人がプレゼントをきれいな紙で包んでくれました。",
+        "reading": "みせの ひとが プレゼントを きれいな かみで つつんで くれました。",
+        "romaji": "mise no hito ga purezento o kirei na kami de tsutsunde kuremashita.",
+        "ta": "கடைக்காரர் பரிசை அழகான காகிதத்தில் சுற்றிக் கொடுத்தார்.",
+        "en": "The shop staff wrapped the present in pretty paper for me."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-210",
+    "expression": "お礼",
+    "reading": "おれい",
+    "romaji": "orei",
+    "en": "thanks; thank-you gift",
+    "ta": "நன்றி (நன்றிப் பரிசு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "手伝ってくれた友達にお礼を言いました。",
+        "reading": "てつだって くれた ともだちに おれいを いいました。",
+        "romaji": "tetsudatte kureta tomodachi ni orei o iimashita.",
+        "ta": "உதவி செய்த நண்பருக்கு நன்றி சொன்னேன்.",
+        "en": "I thanked the friend who helped me."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-211",
+    "expression": "親切",
+    "reading": "しんせつ",
+    "romaji": "shinsetsu",
+    "en": "kind",
+    "ta": "அன்பான (உதவும் குணமுள்ள)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "隣の家の人はとても親切です。",
+        "reading": "となりの いえの ひとは とても しんせつです。",
+        "romaji": "tonari no ie no hito wa totemo shinsetsu desu.",
+        "ta": "பக்கத்து வீட்டுக்காரர் மிகவும் அன்பானவர்.",
+        "en": "The people next door are very kind."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-216",
+    "expression": "もらう",
+    "reading": "もらう",
+    "romaji": "morau",
+    "en": "to receive",
+    "ta": "பெற (வாங்கிக்கொள்ள)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "誕生日に父から時計をもらいました。",
+        "reading": "たんじょうびに ちちから とけいを もらいました。",
+        "romaji": "tanjoubi ni chichi kara tokei o moraimashita.",
+        "ta": "பிறந்தநாளுக்கு அப்பாவிடமிருந்து கடிகாரம் பெற்றேன்.",
+        "en": "I got a watch from my father for my birthday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-231",
+    "expression": "くれる",
+    "reading": "くれる",
+    "romaji": "kureru",
+    "en": "to give (to me)",
+    "ta": "(எனக்குக்) கொடுக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "友達が私にタミル語の本をくれました。",
+        "reading": "ともだちが わたしに タミルごの ほんを くれました。",
+        "romaji": "tomodachi ga watashi ni tamirugo no hon o kuremashita.",
+        "ta": "நண்பர் எனக்கு ஒரு தமிழ்ப் புத்தகம் கொடுத்தார்.",
+        "en": "My friend gave me a Tamil book."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-235",
+    "expression": "頂く",
+    "reading": "いただく",
+    "romaji": "itadaku",
+    "en": "to receive (humble)",
+    "ta": "(பணிவுடன்) பெற்றுக்கொள்ள",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生に辞書をいただきました。",
+        "reading": "せんせいに じしょを いただきました。",
+        "romaji": "sensei ni jisho o itadakimashita.",
+        "ta": "ஆசிரியரிடமிருந்து அகராதி பெற்றேன்.",
+        "en": "I received a dictionary from my teacher."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-269",
+    "expression": "ご主人",
+    "reading": "ごしゅじん",
+    "romaji": "goshujin",
+    "en": "(someone’s) husband",
+    "ta": "(அவருடைய / உங்கள்) கணவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんのご主人は銀行で働いています。",
+        "reading": "たなかさんの ごしゅじんは ぎんこうで はたらいて います。",
+        "romaji": "tanaka san no goshujin wa ginkou de hataraite imasu.",
+        "ta": "தனகா அவர்களின் கணவர் வங்கியில் வேலை செய்கிறார்.",
+        "en": "Mrs Tanaka’s husband works at a bank."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-273",
+    "expression": "お嬢さん",
+    "reading": "おじょうさん",
+    "romaji": "ojousan",
+    "en": "(someone’s) daughter",
+    "ta": "(அவருடைய / உங்கள்) மகள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生のお嬢さんはピアノが上手です。",
+        "reading": "せんせいの おじょうさんは ピアノが じょうずです。",
+        "romaji": "sensei no ojousan wa piano ga jouzu desu.",
+        "ta": "ஆசிரியரின் மகள் பியானோ நன்றாக வாசிப்பார்.",
+        "en": "My teacher’s daughter plays the piano well."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-288",
+    "expression": "お祝い",
+    "reading": "おいわい",
+    "romaji": "oiwai",
+    "en": "celebration; congratulatory gift",
+    "ta": "வாழ்த்து (வாழ்த்துப் பரிசு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "友達の結婚のお祝いに、時計をあげました。",
+        "reading": "ともだちの けっこんの おいわいに、とけいを あげました。",
+        "romaji": "tomodachi no kekkon no oiwai ni, tokei o agemashita.",
+        "ta": "நண்பரின் திருமண வாழ்த்துப் பரிசாக ஒரு கடிகாரம் கொடுத்தேன்.",
+        "en": "I gave my friend a clock as a wedding gift."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-297",
+    "expression": "招待",
+    "reading": "しょうたい",
+    "romaji": "shoutai",
+    "en": "invitation; to invite",
+    "ta": "அழைப்பு (அழைக்க)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日に友達を家に招待しました。",
+        "reading": "にちようびに ともだちを いえに しょうたいしました。",
+        "romaji": "nichiyoubi ni tomodachi o ie ni shoutai shimashita.",
+        "ta": "ஞாயிற்றுக்கிழமை நண்பர்களை வீட்டுக்கு அழைத்தேன்.",
+        "en": "I invited my friends to my home on Sunday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-333",
+    "expression": "遠慮",
+    "reading": "えんりょ",
+    "romaji": "enryo",
+    "en": "holding back; hesitation",
+    "ta": "தயக்கம் (கூச்சப்படுதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "遠慮しないで、たくさん食べてください。",
+        "reading": "えんりょしないで、たくさん たべて ください。",
+        "romaji": "enryo shinaide, takusan tabete kudasai.",
+        "ta": "தயங்காமல் நிறையச் சாப்பிடுங்கள்.",
+        "en": "Don’t be shy, please eat a lot."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-337",
+    "expression": "差し上げる",
+    "reading": "さしあげる",
+    "romaji": "sashiageru",
+    "en": "to give (humble)",
+    "ta": "(பணிவுடன்) கொடுக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "卒業式の日に、先生に花を差し上げました。",
+        "reading": "そつぎょうしきの ひに、せんせいに はなを さしあげました。",
+        "romaji": "sotsugyoushiki no hi ni, sensei ni hana o sashiagemashita.",
+        "ta": "பட்டமளிப்பு விழா நாளில் ஆசிரியருக்குப் பூக்கள் கொடுத்தேன்.",
+        "en": "On graduation day I gave my teacher flowers."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-369",
+    "expression": "邪魔",
+    "reading": "じゃま",
+    "romaji": "jama",
+    "en": "in the way; intrusion",
+    "ta": "இடையூறு (தொந்தரவு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "「お邪魔します。」と言って、部屋に入りました。",
+        "reading": "「おじゃまします。」と いって、へやに はいりました。",
+        "romaji": "\"ojama shimasu.\" to itte, heya ni hairimashita.",
+        "ta": "\"தொந்தரவுக்கு மன்னிக்கவும்\" என்று சொல்லி அறைக்குள் நுழைந்தேன்.",
+        "en": "I said “Excuse me for intruding” and went into the room."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-407",
+    "expression": "是非",
+    "reading": "ぜひ",
+    "romaji": "zehi",
+    "en": "by all means",
+    "ta": "கட்டாயம் (அவசியம்)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "今度、是非私の家に来てください。",
+        "reading": "こんど、ぜひ わたしの いえに きて ください。",
+        "romaji": "kondo, zehi watashi no ie ni kite kudasai.",
+        "ta": "அடுத்த முறை கட்டாயம் என் வீட்டுக்கு வாருங்கள்.",
+        "en": "Next time, please do come to my home."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-443",
+    "expression": "プレゼント",
+    "reading": "プレゼント",
+    "romaji": "purezento",
+    "en": "present",
+    "ta": "பரிசு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "クリスマスに子どもたちにプレゼントをあげます。",
+        "reading": "クリスマスに こどもたちに プレゼントを あげます。",
+        "romaji": "kurisumasu ni kodomotachi ni purezento o agemasu.",
+        "ta": "கிறிஸ்துமஸுக்குக் குழந்தைகளுக்குப் பரிசு கொடுப்பேன்.",
+        "en": "I give presents to the children at Christmas."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-462",
+    "expression": "あげる",
+    "reading": "あげる",
+    "romaji": "ageru",
+    "en": "to give",
+    "ta": "கொடுக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "ポンガルの日に、隣の人にお菓子をあげました。",
+        "reading": "ポンガルの ひに、となりの ひとに おかしを あげました。",
+        "romaji": "pongaru no hi ni, tonari no hito ni okashi o agemashita.",
+        "ta": "பொங்கல் அன்று பக்கத்து வீட்டுக்காரருக்கு இனிப்பு கொடுத்தேன்.",
+        "en": "On Pongal I gave sweets to my neighbour."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-494",
+    "expression": "くださる",
+    "reading": "くださる",
+    "romaji": "kudasaru",
+    "en": "to give (to me, respectful)",
+    "ta": "(மரியாதையுடன், எனக்குக்) தர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "部長が私にお土産をくださいました。",
+        "reading": "ぶちょうが わたしに おみやげを くださいました。",
+        "romaji": "buchou ga watashi ni omiyage o kudasaimashita.",
+        "ta": "மேலாளர் எனக்கு ஒரு நினைவுப் பரிசு தந்தார்.",
+        "en": "My manager gave me a souvenir."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-496",
+    "expression": "お子さん",
+    "reading": "おこさん",
+    "romaji": "okosan",
+    "en": "(someone’s) child",
+    "ta": "(உங்கள் / அவருடைய) குழந்தை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お子さんは何歳ですか。",
+        "reading": "おこさんは なんさいですか。",
+        "romaji": "okosan wa nansai desu ka.",
+        "ta": "உங்கள் குழந்தைக்கு எத்தனை வயது?",
+        "en": "How old is your child?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-606",
+    "expression": "特別",
+    "reading": "とくべつ",
+    "romaji": "tokubetsu",
+    "en": "special",
+    "ta": "சிறப்பான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "正月には特別な料理を食べます。",
+        "reading": "しょうがつには とくべつな りょうりを たべます。",
+        "romaji": "shougatsu ni wa tokubetsu na ryouri o tabemasu.",
+        "ta": "புத்தாண்டில் சிறப்பான உணவு சாப்பிடுவோம்.",
+        "en": "We eat special food at New Year."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-618",
+    "expression": "訪ねる",
+    "reading": "たずねる",
+    "romaji": "tazuneru",
+    "en": "to visit",
+    "ta": "(ஒருவரைப்) பார்க்கச் செல்ல",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夏休みに大阪の友達を訪ねました。",
+        "reading": "なつやすみに おおさかの ともだちを たずねました。",
+        "romaji": "natsuyasumi ni oosaka no tomodachi o tazunemashita.",
+        "ta": "கோடை விடுமுறையில் ஒசாகாவில் உள்ள நண்பரைப் பார்க்கச் சென்றேன்.",
+        "en": "In the summer holidays I visited a friend in Osaka."
+      }
+    ]
+  }
+]

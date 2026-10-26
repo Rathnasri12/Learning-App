@@ -1,0 +1,290 @@
+[
+  {
+    "id": "n4-v-010",
+    "expression": "生きる",
+    "reading": "いきる",
+    "romaji": "ikiru",
+    "en": "to live, to be alive",
+    "ta": "வாழ, உயிரோடு இருக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "祖父は九十五歳まで生きました。", "reading": "そふは きゅうじゅうごさいまで いきました。", "romaji": "sofu wa kyuujuugosai made ikimashita.", "ta": "தாத்தா தொண்ணூற்றைந்து வயது வரை வாழ்ந்தார்.", "en": "My grandfather lived to ninety-five." }
+    ]
+  },
+  {
+    "id": "n4-v-109",
+    "expression": "赤ちゃん",
+    "reading": "あかちゃん",
+    "romaji": "akachan",
+    "en": "baby",
+    "ta": "கைக்குழந்தை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先月、姉に赤ちゃんが生まれました。", "reading": "せんげつ、あねに あかちゃんが うまれました。", "romaji": "sengetsu, ane ni akachan ga umaremashita.", "ta": "போன மாதம் அக்காவுக்குக் குழந்தை பிறந்தது.", "en": "My older sister had a baby last month." }
+    ]
+  },
+  {
+    "id": "n4-v-118",
+    "expression": "時代",
+    "reading": "じだい",
+    "romaji": "jidai",
+    "en": "era, days (of one’s life)",
+    "ta": "காலம், பருவம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "学生時代は毎日サッカーをしていました。", "reading": "がくせいじだいは まいにち サッカーを して いました。", "romaji": "gakuseijidai wa mainichi sakkaa o shite imashita.", "ta": "மாணவப் பருவத்தில் தினமும் கால்பந்து விளையாடினேன்.", "en": "In my student days I played football every day." }
+    ]
+  },
+  {
+    "id": "n4-v-147",
+    "expression": "人形",
+    "reading": "にんぎょう",
+    "romaji": "ningyou",
+    "en": "doll",
+    "ta": "பொம்மை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "妹は人形で遊ぶのが好きです。", "reading": "いもうとは にんぎょうで あそぶのが すきです。", "romaji": "imouto wa ningyou de asobu no ga suki desu.", "ta": "தங்கைக்குப் பொம்மையோடு விளையாடுவது பிடிக்கும்.", "en": "My little sister likes playing with dolls." }
+    ]
+  },
+  {
+    "id": "n4-v-183",
+    "expression": "パパ",
+    "reading": "パパ",
+    "romaji": "papa",
+    "en": "daddy",
+    "ta": "அப்பா (குழந்தைப் பேச்சு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "パパ、一緒に公園で遊ぼう。", "reading": "パパ、いっしょに こうえんで あそぼう。", "romaji": "papa, issho ni kouen de asobou.", "ta": "அப்பா, சேர்ந்து பூங்காவில் விளையாடலாம் வா.", "en": "Daddy, let’s play in the park together." }
+    ]
+  },
+  {
+    "id": "n4-v-185",
+    "expression": "夫",
+    "reading": "おっと",
+    "romaji": "otto",
+    "en": "(my) husband",
+    "ta": "கணவர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夫は銀行に勤めています。", "reading": "おっとは ぎんこうに つとめて います。", "romaji": "otto wa ginkou ni tsutomete imasu.", "ta": "என் கணவர் வங்கியில் வேலை செய்கிறார்.", "en": "My husband works at a bank." }
+    ]
+  },
+  {
+    "id": "n4-v-196",
+    "expression": "昔",
+    "reading": "むかし",
+    "romaji": "mukashi",
+    "en": "long ago, the old days",
+    "ta": "பழைய காலம், முன்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昔、この町に大きい川がありました。", "reading": "むかし、この まちに おおきい かわが ありました。", "romaji": "mukashi, kono machi ni ookii kawa ga arimashita.", "ta": "முன்பு இந்த ஊரில் ஒரு பெரிய ஆறு இருந்தது.", "en": "Long ago there was a big river in this town." }
+    ]
+  },
+  {
+    "id": "n4-v-200",
+    "expression": "事",
+    "reading": "こと",
+    "romaji": "koto",
+    "en": "thing, matter",
+    "ta": "விஷயம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "子どもの時の事をよく覚えています。", "reading": "こどもの ときの ことを よく おぼえて います。", "romaji": "kodomo no toki no koto o yoku oboete imasu.", "ta": "சிறுவயது விஷயங்களை நன்றாக நினைவில் வைத்திருக்கிறேன்.", "en": "I remember my childhood well." }
+    ]
+  },
+  {
+    "id": "n4-v-224",
+    "expression": "赤ん坊",
+    "reading": "あかんぼう",
+    "romaji": "akanbou",
+    "en": "baby",
+    "ta": "சிசு, குழந்தை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "赤ん坊が静かに寝ています。", "reading": "あかんぼうが しずかに ねて います。", "romaji": "akanbou ga shizuka ni nete imasu.", "ta": "குழந்தை அமைதியாகத் தூங்குகிறது.", "en": "The baby is sleeping quietly." }
+    ]
+  },
+  {
+    "id": "n4-v-236",
+    "expression": "祖母",
+    "reading": "そぼ",
+    "romaji": "sobo",
+    "en": "(my) grandmother",
+    "ta": "பாட்டி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "祖母はマドゥライに住んでいます。", "reading": "そぼは マドゥライに すんで います。", "romaji": "sobo wa madurai ni sunde imasu.", "ta": "பாட்டி மதுரையில் வசிக்கிறார்.", "en": "My grandmother lives in Madurai." }
+    ]
+  },
+  {
+    "id": "n4-v-265",
+    "expression": "思い出す",
+    "reading": "おもいだす",
+    "romaji": "omoidasu",
+    "en": "to remember, to recall",
+    "ta": "நினைவுகூர, ஞாபகம் வர",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "この歌を聞くと、子どもの時を思い出します。", "reading": "この うたを きくと、こどもの ときを おもいだします。", "romaji": "kono uta o kiku to, kodomo no toki o omoidashimasu.", "ta": "இந்தப் பாடலைக் கேட்டால் சிறுவயது ஞாபகம் வருகிறது.", "en": "When I hear this song, I remember my childhood." }
+    ]
+  },
+  {
+    "id": "n4-v-294",
+    "expression": "小鳥",
+    "reading": "ことり",
+    "romaji": "kotori",
+    "en": "small bird",
+    "ta": "சிறு பறவை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "朝、庭で小鳥が鳴いています。", "reading": "あさ、にわで ことりが ないて います。", "romaji": "asa, niwa de kotori ga naite imasu.", "ta": "காலையில் தோட்டத்தில் சிறு பறவைகள் பாடுகின்றன.", "en": "In the morning, little birds are singing in the garden." }
+    ]
+  },
+  {
+    "id": "n4-v-334",
+    "expression": "亡くなる",
+    "reading": "なくなる",
+    "romaji": "nakunaru",
+    "en": "to pass away",
+    "ta": "காலமாக, இறந்துபோக",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "祖父は去年亡くなりました。", "reading": "そふは きょねん なくなりました。", "romaji": "sofu wa kyonen nakunarimashita.", "ta": "தாத்தா போன வருடம் காலமானார்.", "en": "My grandfather passed away last year." }
+    ]
+  },
+  {
+    "id": "n4-v-339",
+    "expression": "祖父",
+    "reading": "そふ",
+    "romaji": "sofu",
+    "en": "(my) grandfather",
+    "ta": "தாத்தா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "祖父は昔、学校の先生でした。", "reading": "そふは むかし、がっこうの せんせいでした。", "romaji": "sofu wa mukashi, gakkou no sensei deshita.", "ta": "தாத்தா முன்பு பள்ளி ஆசிரியராக இருந்தார்.", "en": "My grandfather was a school teacher long ago." }
+    ]
+  },
+  {
+    "id": "n4-v-358",
+    "expression": "おもちゃ",
+    "reading": "おもちゃ",
+    "romaji": "omocha",
+    "en": "toy",
+    "ta": "விளையாட்டுப் பொருள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "息子の誕生日におもちゃを買いました。", "reading": "むすこの たんじょうびに おもちゃを かいました。", "romaji": "musuko no tanjoubi ni omocha o kaimashita.", "ta": "மகனின் பிறந்தநாளுக்கு விளையாட்டுப் பொருள் வாங்கினேன்.", "en": "I bought a toy for my son’s birthday." }
+    ]
+  },
+  {
+    "id": "n4-v-417",
+    "expression": "遊び",
+    "reading": "あそび",
+    "romaji": "asobi",
+    "en": "play, game",
+    "ta": "விளையாட்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "子どもの時、どんな遊びが好きでしたか。", "reading": "こどもの とき、どんな あそびが すきでしたか。", "romaji": "kodomo no toki, donna asobi ga suki deshita ka.", "ta": "சிறுவயதில் உங்களுக்கு எந்த விளையாட்டு பிடிக்கும்?", "en": "What games did you like as a child?" }
+    ]
+  },
+  {
+    "id": "n4-v-445",
+    "expression": "妻",
+    "reading": "つま",
+    "romaji": "tsuma",
+    "en": "(my) wife",
+    "ta": "மனைவி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "妻はチェンナイの出身です。", "reading": "つまは チェンナイの しゅっしんです。", "romaji": "tsuma wa chennai no shusshin desu.", "ta": "என் மனைவி சென்னையைச் சேர்ந்தவர்.", "en": "My wife is from Chennai." }
+    ]
+  },
+  {
+    "id": "n4-v-482",
+    "expression": "日記",
+    "reading": "にっき",
+    "romaji": "nikki",
+    "en": "diary",
+    "ta": "நாட்குறிப்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩寝る前に日記を書いています。", "reading": "まいばん ねる まえに にっきを かいて います。", "romaji": "maiban neru mae ni nikki o kaite imasu.", "ta": "தினமும் இரவு தூங்கும் முன் நாட்குறிப்பு எழுதுகிறேன்.", "en": "I write in my diary every night before bed." }
+    ]
+  },
+  {
+    "id": "n4-v-495",
+    "expression": "息子",
+    "reading": "むすこ",
+    "romaji": "musuko",
+    "en": "(my) son",
+    "ta": "மகன்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "息子は今年大学に入りました。", "reading": "むすこは ことし だいがくに はいりました。", "romaji": "musuko wa kotoshi daigaku ni hairimashita.", "ta": "என் மகன் இந்த வருடம் கல்லூரியில் சேர்ந்தான்.", "en": "My son started university this year." }
+    ]
+  },
+  {
+    "id": "n4-v-514",
+    "expression": "～代",
+    "reading": "～だい",
+    "romaji": "～dai",
+    "en": "(age) -ties; period",
+    "ta": "〜வயதுப் பிரிவு; 〜காலம்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "父は今五十代です。", "reading": "ちちは いま ごじゅうだいです。", "romaji": "chichi wa ima gojuudai desu.", "ta": "அப்பா இப்போது ஐம்பது வயதுகளில் இருக்கிறார்.", "en": "My father is in his fifties now." }
+    ]
+  },
+  {
+    "id": "n4-v-521",
+    "expression": "汽車",
+    "reading": "きしゃ",
+    "romaji": "kisha",
+    "en": "steam train",
+    "ta": "நீராவி ரயில்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昔はこの町にも汽車が走っていました。", "reading": "むかしは この まちにも きしゃが はしって いました。", "romaji": "mukashi wa kono machi ni mo kisha ga hashitte imashita.", "ta": "முன்பு இந்த ஊரிலும் நீராவி ரயில் ஓடியது.", "en": "Long ago steam trains ran in this town too." }
+    ]
+  },
+  {
+    "id": "n4-v-550",
+    "expression": "この間",
+    "reading": "このあいだ",
+    "romaji": "konoaida",
+    "en": "the other day",
+    "ta": "சமீபத்தில், அன்றொரு நாள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この間、駅で先生に会いました。", "reading": "このあいだ、えきで せんせいに あいました。", "romaji": "konoaida, eki de sensei ni aimashita.", "ta": "அன்றொரு நாள் ஸ்டேஷனில் ஆசிரியரைச் சந்தித்தேன்.", "en": "The other day I met my teacher at the station." }
+    ]
+  },
+  {
+    "id": "n4-v-637",
+    "expression": "娘",
+    "reading": "むすめ",
+    "romaji": "musume",
+    "en": "(my) daughter",
+    "ta": "மகள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "娘は三歳で、よく歌を歌います。", "reading": "むすめは さんさいで、よく うたを うたいます。", "romaji": "musume wa sansai de, yoku uta o utaimasu.", "ta": "என் மகளுக்கு மூன்று வயது; அடிக்கடி பாட்டுப் பாடுவாள்.", "en": "My daughter is three, and she often sings songs." }
+    ]
+  },
+  {
+    "id": "n4-v-664",
+    "expression": "家内",
+    "reading": "かない",
+    "romaji": "kanai",
+    "en": "(my) wife",
+    "ta": "என் மனைவி (பணிவாக)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夏休みに家内と二人で旅行に行きました。", "reading": "なつやすみに かないと ふたりで りょこうに いきました。", "romaji": "natsuyasumi ni kanai to futari de ryokou ni ikimashita.", "ta": "கோடை விடுமுறையில் மனைவியும் நானும் சுற்றுலா சென்றோம்.", "en": "In the summer holidays my wife and I went on a trip." }
+    ]
+  }
+]

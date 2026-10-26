@@ -1,0 +1,166 @@
+{
+  "lesson": 8,
+  "title": { "ja": "止まれ", "ta": "நில்!", "en": "Stop!" },
+  "intro_ta": "இந்தப் பாடத்தில் கட்டளை வடிவம் (命令形: 止まれ、急げ、来い), தடை வடிவம் (触るな = 'தொடாதே'), பெற்றோர் / ஆசிரியர் சொல்லும் 'செய்' (寝なさい) ஆகியவற்றைக் கற்போம். இவை சாலை அடையாளங்களிலும், விளையாட்டு மைதானத்திலும், அவசர நேரத்திலும் அதிகம் வரும். அடையாளங்களின் பொருளைக் கேட்கவும் சொல்லவும் (〜と読みます / 〜という意味です), ஒருவரின் செய்தியை இன்னொருவருக்குச் சொல்லவும் (〜と言っていました / 〜と伝えていただけませんか), 'சகுரா என்ற கடை' (『さくら』という店) என்று சொல்லவும் கற்போம்.",
+  "intro_en": "In this lesson you learn the command form (止まれ \"stop!\", 急げ \"hurry!\", 来い \"come!\"). You learn the \"don’t!\" form (触るな \"don’t touch!\"). You also learn how parents and teachers say \"do it\" (寝なさい \"go to bed\"). You see these on road signs, at sports games and in emergencies. You will learn to ask and explain what a sign means (〜と読みます / 〜という意味です). You will pass on messages (〜と言っていました / 〜と伝えていただけませんか). And you will say \"a shop called Sakura\" (『さくら』という店).",
+  "grammar": [
+    {
+      "id": "g08-1",
+      "pattern": "Imperative form (V-え / V-ろ / しろ / 来い)",
+      "name": { "en": "The command form", "ta": "கட்டளை வடிவம் (ஏவல்)" },
+      "explanation_ta": "கட்டளை வடிவம் (命令形) மிக நேரடியான, கடுமையான 'செய்!' என்ற ஏவல். தமிழில் 'நில்!', 'போ!', 'வா!' என்று மரியாதை இல்லாமல் சொல்வது போல. உருவாக்கும் விதம்: குழு I-இல் கடைசி 'உ' ஒலியை 'எ' ஒலியாக மாற்றுங்கள் (止まる → 止まれ, 急ぐ → 急げ, 待つ → 待て). குழு II-இல் る-வை ろ ஆக்குங்கள் (起きる → 起きろ, 止める → 止めろ). குழு III: する → しろ, 来る → 来い (こい). யார் பயன்படுத்துவார்கள்: சாலை அடையாளங்கள் (止まれ), அவசர நேரத்தில் கத்துவது (逃げろ!), விளையாட்டில் உற்சாகப்படுத்துவது (がんばれ!), ஆண்கள் நெருங்கிய நண்பர்களிடம் அல்லது கோபத்தில். நீங்கள் யாரிடமும் இதைச் சொல்ல வேண்டாம்; புரிந்துகொண்டால் போதும்.",
+      "explanation_en": "The command form is a very direct, strong \"do it!\". It is like saying நில்! (stop!), போ! (go!), வா! (come!) in Tamil with no politeness. How to make it: Group I changes the last u-sound to an e-sound (止まる → 止まれ, 急ぐ → 急げ, 待つ → 待て). Group II changes る to ろ (起きる → 起きろ, 止める → 止めろ). Group III: する → しろ, 来る → 来い (こい). Who uses it: road signs (止まれ), shouting in an emergency (逃げろ!), cheering at sports (がんばれ!), and men with close friends or when angry. You don’t need to say it to anyone. It is enough to understand it.",
+      "tamil_parallel": "நில்! = 止まれ！ / வா! = 来い！ / ஓடு! = 逃げろ！",
+      "tamil_parallel_en": "நில்! (stop!) = 止まれ！ / வா! (come!) = 来い！ / ஓடு! (run away!) = 逃げろ！",
+      "formation": "குழு I: 止まる → 止まれ、急ぐ → 急げ、待つ → 待て、がんばる → がんばれ\nகுழு II: 起きる → 起きろ、止める → 止めろ、逃げる → 逃げろ\nகுழு III: する → しろ、来る → 来い (こい)",
+      "formation_en": "Group I: 止まる → 止まれ、急ぐ → 急げ、待つ → 待て、がんばる → がんばれ\nGroup II: 起きる → 起きろ、止める → 止めろ、逃げる → 逃げろ\nGroup III: する → しろ、来る → 来い (こい)",
+      "examples": [
+        { "ja": "道に「止まれ」と書いてあります。", "reading": "みちに 「とまれ」と かいて あります。", "romaji": "michi ni \"tomare\" to kaite arimasu.", "ta": "சாலையில் 'நில்' என்று எழுதியிருக்கிறது.", "en": "“Stop” is written on the road." },
+        { "ja": "火事だ！早く逃げろ！", "reading": "かじだ！はやく にげろ！", "romaji": "kaji da! hayaku nigero!", "ta": "தீ! சீக்கிரம் ஓடு!", "en": "Fire! Get out, quick!" },
+        { "ja": "がんばれ！もう少しだ！", "reading": "がんばれ！もう すこしだ！", "romaji": "ganbare! mou sukoshi da!", "ta": "முயற்சி செய்! இன்னும் கொஞ்சம்தான்!", "en": "Go for it! Almost there!" },
+        { "ja": "急げ！電車が出るよ。", "reading": "いそげ！でんしゃが でるよ。", "romaji": "isoge! densha ga deru yo.", "ta": "சீக்கிரம்! ரயில் கிளம்புது.", "en": "Hurry! The train is leaving." },
+        { "ja": "もう七時だ。早く起きろ。", "reading": "もう しちじだ。はやく おきろ。", "romaji": "mou shichiji da. hayaku okiro.", "ta": "ஏழு மணி ஆச்சு. சீக்கிரம் எழுந்திரு.", "en": "It’s already seven. Get up now." },
+        { "ja": "ちょっとこっちへ来い。", "reading": "ちょっと こっちへ こい。", "romaji": "chotto kotchi e koi.", "ta": "கொஞ்சம் இங்கே வா.", "en": "Come over here." },
+        { "ja": "看板に「スピードに注意しろ」と書いてあります。", "reading": "かんばんに 「スピードに ちゅういしろ」と かいて あります。", "romaji": "kanban ni \"supiido ni chuui shiro\" to kaite arimasu.", "ta": "பலகையில் 'வேகத்தில் கவனம் வை' என்று எழுதியிருக்கிறது.", "en": "The sign says “Watch your speed.”" }
+      ],
+      "pitfalls_ta": "起きれ, 見れ என்று சொல்வது சில வட்டார வழக்கு; பாடநூல் வடிவம் 起きろ, 見ろ. மேலதிகாரி, வாடிக்கையாளரிடம் கட்டளை வடிவம் ஒருபோதும் பயன்படுத்தக் கூடாது.",
+      "pitfalls_en": "起きれ and 見れ are dialect forms. The standard forms are 起きろ and 見ろ. Never use the command form to your boss or a customer."
+    },
+    {
+      "id": "g08-2",
+      "pattern": "V-dictionary な",
+      "name": { "en": "Don’t …! (strong)", "ta": "〜 செய்யாதே! (கடுமையான தடை)" },
+      "explanation_ta": "அகராதி வடிவம் + な = 'செய்யாதே!' என்ற கடுமையான தடை. தமிழில் 'தொடாதே!', 'போகாதே!' போல. 触る → 触るな, 止める → 止めるな, 心配する → 心配するな. அடையாளங்களிலும் (入るな), அவசரத்திலும், ஆண்களின் சாதாரணப் பேச்சிலும் வரும். மரியாதையான வடிவம் N5-இல் கற்ற V-ないでください ('செய்யாதீர்கள்'). கவனிக்க: 'な' அகராதி வடிவத்துக்குப் பின் வரும்; ます-அடிக்குப் பின் வருவது なさい (பாடம் 8-3), வேறு பொருள்.",
+      "explanation_en": "Dictionary form + な = a strong \"don’t!\". It is like Tamil தொடாதே! (don’t touch!) or போகாதே! (don’t go!). 触る → 触るな, 止める → 止めるな, 心配する → 心配するな. You see it on signs (入るな), in emergencies and in men’s casual speech. The polite form is V-ないでください (please don’t), which you know from N5. Note: な comes after the dictionary form. なさい comes after the ます-stem (point 3 of this lesson). They mean different things.",
+      "tamil_parallel": "தொடாதே! = 触るな！ / கவலைப்படாதே = 心配するな",
+      "tamil_parallel_en": "தொடாதே! (don’t touch!) = 触るな！ / கவலைப்படாதே (don’t worry) = 心配するな",
+      "formation": "V-அகராதி வடிவம் + な\n触る → 触るな、行く → 行くな、止める → 止めるな、する → するな、来る → 来るな (くるな)",
+      "formation_en": "V-dictionary form + な\n触る → 触るな、行く → 行くな、止める → 止めるな、する → するな、来る → 来るな (くるな)",
+      "examples": [
+        { "ja": "危ない！触るな！", "reading": "あぶない！さわるな！", "romaji": "abunai! sawaru na!", "ta": "ஆபத்து! தொடாதே!", "en": "Danger! Don’t touch it!" },
+        { "ja": "ここに車を止めるな。", "reading": "ここに くるまを とめるな。", "romaji": "koko ni kuruma o tomeru na.", "ta": "இங்கே வண்டியை நிறுத்தாதே.", "en": "Don’t park here." },
+        { "ja": "そっちへ行くな。川があるぞ。", "reading": "そっちへ いくな。かわが あるぞ。", "romaji": "sotchi e iku na. kawa ga aru zo.", "ta": "அந்தப் பக்கம் போகாதே. ஆறு இருக்கிறது.", "en": "Don’t go that way. There’s a river." },
+        { "ja": "大丈夫だよ。心配するな。", "reading": "だいじょうぶだよ。しんぱいするな。", "romaji": "daijoubu da yo. shinpai suru na.", "ta": "ஒன்றுமில்லை. கவலைப்படாதே.", "en": "It’s OK. Don’t worry." },
+        { "ja": "お酒を飲んだら、運転するな。", "reading": "おさけを のんだら、うんてんするな。", "romaji": "osake o nondara, unten suru na.", "ta": "மது அருந்தினால் வண்டி ஓட்டாதே.", "en": "If you drink, don’t drive." },
+        { "ja": "ドアに「入るな」と書いてあります。", "reading": "ドアに 「はいるな」と かいて あります。", "romaji": "doa ni \"hairu na\" to kaite arimasu.", "ta": "கதவில் 'உள்ளே வராதே' என்று எழுதியிருக்கிறது.", "en": "The door says “Keep out.”" }
+      ],
+      "pitfalls_ta": "触らな, 触りな என்று சொல்லக் கூடாது; அகராதி வடிவம் + な. 'வா' என்ற 来い-க்கும், 'வராதே' என்ற 来るな-க்கும் வேறுபாட்டைக் கவனியுங்கள்.",
+      "pitfalls_en": "Don’t say 触らな or 触りな. Use the dictionary form + な. Note the difference: 来い = \"come!\", 来るな = \"don’t come!\"."
+    },
+    {
+      "id": "g08-3",
+      "pattern": "V-ます stem なさい",
+      "name": { "en": "Do … (parent or teacher instruction)", "ta": "〜 செய் (பெற்றோர் / ஆசிரியர் அறிவுரை)" },
+      "explanation_ta": "ます-அடி + なさい = 'செய்' என்ற அறிவுறுத்தல். பெற்றோர் குழந்தையிடமும், ஆசிரியர் மாணவரிடமும் சொல்வது: 早く寝なさい ('சீக்கிரம் தூங்கு'). கட்டளை வடிவத்தை (寝ろ) விட மென்மையானது, ஆனால் மேலிருந்து கீழே சொல்வது; பெரியவர்களிடம் சொல்லக் கூடாது. தேர்வுக் கேள்விகளிலும் வரும்: 正しいものを一つ選びなさい ('சரியானதை ஒன்றைத் தேர்ந்தெடு'). JLPT தேர்விலேயே இதைப் பார்ப்பீர்கள்!",
+      "explanation_en": "ます-stem + なさい = \"do it\", as an instruction. Parents say it to children. Teachers say it to students: 早く寝なさい (\"go to bed now\"). It is softer than the command form (寝ろ). But it still comes from above, so don’t say it to older people. It is also used in exam questions: 正しいものを一つ選びなさい (\"choose the one correct answer\"). You will see it in the JLPT itself!",
+      "tamil_parallel": "சீக்கிரம் தூங்கு = 早く寝なさい (அம்மா குழந்தையிடம்)",
+      "tamil_parallel_en": "சீக்கிரம் தூங்கு (go to sleep now) = 早く寝なさい (a mother to her child)",
+      "formation": "V-ます அடி + なさい\n寝ます → 寝なさい、食べます → 食べなさい、読みます → 読みなさい、します → しなさい、来ます → 来なさい (きなさい)",
+      "formation_en": "V-ます stem + なさい\n寝ます → 寝なさい、食べます → 食べなさい、読みます → 読みなさい、します → しなさい、来ます → 来なさい (きなさい)",
+      "examples": [
+        { "ja": "もう十時ですよ。早く寝なさい。", "reading": "もう じゅうじですよ。はやく ねなさい。", "romaji": "mou juuji desu yo. hayaku nenasai.", "ta": "பத்து மணி ஆகிவிட்டது. சீக்கிரம் தூங்கு.", "en": "It’s already ten. Go to bed now." },
+        { "ja": "ごみはごみ箱に捨てなさい。", "reading": "ごみは ごみばこに すてなさい。", "romaji": "gomi wa gomibako ni sutenasai.", "ta": "குப்பையைக் குப்பைத் தொட்டியில் போடு.", "en": "Put the rubbish in the bin." },
+        { "ja": "野菜も食べなさい。", "reading": "やさいも たべなさい。", "romaji": "yasai mo tabenasai.", "ta": "காய்கறியையும் சாப்பிடு.", "en": "Eat your vegetables too." },
+        { "ja": "次の文を読みなさい。", "reading": "つぎの ぶんを よみなさい。", "romaji": "tsugi no bun o yominasai.", "ta": "அடுத்த வாக்கியத்தைப் படி.", "en": "Read the next sentence." },
+        { "ja": "正しい答えを一つ選びなさい。", "reading": "ただしい こたえを ひとつ えらびなさい。", "romaji": "tadashii kotae o hitotsu erabinasai.", "ta": "சரியான விடையை ஒன்றைத் தேர்ந்தெடு.", "en": "Choose one correct answer." },
+        { "ja": "宿題をしてから遊びなさい。", "reading": "しゅくだいを してから あそびなさい。", "romaji": "shukudai o shite kara asobinasai.", "ta": "வீட்டுப்பாடம் முடித்த பிறகு விளையாடு.", "en": "Do your homework first, then play." }
+      ],
+      "pitfalls_ta": "நண்பரிடமோ பெரியவரிடமோ 〜なさい சொன்னால் 'அதிகாரம் செய்கிறார்' என்று தோன்றும். மரியாதையாக 〜てください.",
+      "pitfalls_en": "Saying 〜なさい to a friend or an older person sounds bossy. To be polite, use 〜てください."
+    },
+    {
+      "id": "g08-4",
+      "pattern": "N は 〜と 読みます / 〜という 意味です",
+      "name": { "en": "It reads … / It means …", "ta": "〜 என்று படிக்கப்படும் / 〜 என்று பொருள்" },
+      "explanation_ta": "அடையாளங்கள், கான்ஜிகள் பற்றிக் கேட்க இரண்டு வாக்கிய அமைப்புகள். (1) 'N は 〜と読みます' = 'N-ஐ 〜 என்று படிக்க வேண்டும்': この漢字は『いりぐち』と読みます. கேள்வி: 何と読みますか ('எப்படிப் படிப்பது?'). (2) 'N は 〜という意味です' = 'N என்றால் 〜 என்று பொருள்': 『止まれ』は『止まりなさい』という意味です. கேள்வி: どういう意味ですか ('என்ன பொருள்?'). இங்கே と = தமிழின் 'என்று'; という = 'என்ற'. சாலை அடையாளங்களின் பொருளை விளக்க மிகவும் பயனுள்ளது.",
+      "explanation_en": "Two patterns to ask about signs and kanji. (1) N は 〜と読みます = \"N is read as …\": この漢字は『いりぐち』と読みます. The question is 何と読みますか (\"how do you read it?\"). (2) N は 〜という意味です = \"N means …\": 『止まれ』は『止まりなさい』という意味です. The question is どういう意味ですか (\"what does it mean?\"). Here と = Tamil என்று (\"that …\"), and という = என்ற (\"called / saying\"). This is very useful for explaining road signs.",
+      "tamil_parallel": "இதை 'இரிகுச்சி' என்று படிக்க வேண்டும் = これは『いりぐち』と読みます; 'நில்' என்று பொருள் = 『止まれ』という意味です",
+      "tamil_parallel_en": "இதை 'இரிகுச்சி' என்று படிக்க வேண்டும் (this is read \"iriguchi\") = これは『いりぐち』と読みます; 'நில்' என்று பொருள் (it means \"stop\") = 『止まれ』という意味です",
+      "formation": "N は 〜と 読みます (கேள்வி: 何と 読みますか)\nN は 〜という 意味です (கேள்வி: どういう 意味ですか)",
+      "formation_en": "N は 〜と 読みます (question: 何と 読みますか)\nN は 〜という 意味です (question: どういう 意味ですか)",
+      "examples": [
+        { "ja": "「この漢字は何と読みますか。」「『いりぐち』と読みます。」", "reading": "「この かんじは なんと よみますか。」「『いりぐち』と よみます。」", "romaji": "\"kono kanji wa nan to yomimasu ka.\" \"'iriguchi' to yomimasu.\"", "ta": "'இந்தக் கான்ஜியை எப்படிப் படிப்பது?' ''இரிகுச்சி' என்று படிக்க வேண்டும்.'", "en": "“How do you read this kanji?” “It’s read iriguchi.”" },
+        { "ja": "「止まれ」は「止まりなさい」という意味です。", "reading": "「とまれ」は 「とまりなさい」と いう いみです。", "romaji": "\"tomare\" wa \"tomarinasai\" to iu imi desu.", "ta": "'தொமரே' என்றால் 'நில்லு' என்று பொருள்.", "en": "Tomare means “stop”." },
+        { "ja": "「駐車禁止」は「ここに車を止めるな」という意味です。", "reading": "「ちゅうしゃきんし」は 「ここに くるまを とめるな」と いう いみです。", "romaji": "\"chuusha kinshi\" wa \"koko ni kuruma o tomeru na\" to iu imi desu.", "ta": "'சூஷா கின்ஷி' என்றால் 'இங்கே வண்டியை நிறுத்தாதே' என்று பொருள்.", "en": "Chuusha kinshi means “Don’t park here.”" },
+        { "ja": "「あのマークはどういう意味ですか。」「『たばこを吸うな』という意味です。」", "reading": "「あの マークは どう いう いみですか。」「『たばこを すうな』と いう いみです。」", "romaji": "\"ano maaku wa dou iu imi desu ka.\" \"'tabako o suu na' to iu imi desu.\"", "ta": "'அந்தக் குறிக்கு என்ன பொருள்?' ''புகை பிடிக்காதே' என்று பொருள்.'", "en": "“What does that mark mean?” “It means ‘No smoking’.”" },
+        { "ja": "「徐行」は「ゆっくり走れ」という意味です。", "reading": "「じょこう」は 「ゆっくり はしれ」と いう いみです。", "romaji": "\"jokou\" wa \"yukkuri hashire\" to iu imi desu.", "ta": "'ஜோகோ' என்றால் 'மெதுவாகச் செல்' என்று பொருள்.", "en": "Jokou means “Go slowly.”" },
+        { "ja": "この字は「でぐち」と読みます。出る所という意味です。", "reading": "この じは 「でぐち」と よみます。でる ところと いう いみです。", "romaji": "kono ji wa \"deguchi\" to yomimasu. deru tokoro to iu imi desu.", "ta": "இந்த எழுத்தை 'தெகுச்சி' என்று படிக்க வேண்டும். வெளியே போகும் இடம் என்று பொருள்.", "en": "This is read deguchi. It means the place where you go out." }
+      ],
+      "pitfalls_ta": "何と読みますか (எப்படிப் படிப்பது?) மற்றும் 何と言いますか (என்ன பெயர் சொல்வது?) வேறுபட்டவை. பொருள் கேட்க どういう意味ですか; 何の意味ですか என்பது இயல்பற்றது.",
+      "pitfalls_en": "何と読みますか (how is it read?) and 何と言いますか (what do you call it?) are different. To ask a meaning, say どういう意味ですか. 何の意味ですか sounds unnatural."
+    },
+    {
+      "id": "g08-5",
+      "pattern": "〜と 言っていました / 〜と 伝えていただけませんか",
+      "name": { "en": "Passing on a message", "ta": "செய்தியைப் பிறருக்குச் சொல்லுதல்" },
+      "explanation_ta": "ஒருவர் சொன்ன செய்தியை இன்னொருவருக்குக் கடத்த: 'சாதாரண வடிவம் + と言っていました' = '〜 என்று சொன்னார்'. N5-இல் கற்ற と言いました ஒரு முறை சொன்ன உண்மையைக் கூறும்; と言っていました 'அவர் உங்களிடம் சொல்லச் சொன்னார் / அவர் சொல்லிக்கொண்டிருந்தார்' என்ற செய்திக் கடத்தல் உணர்வு தரும். ஒருவரிடம் செய்தி சொல்லக் கேட்க: '〜と伝えていただけませんか' = '〜 என்று சொல்லிவிட முடியுமா?' (伝える = தெரிவிக்க). பெயர்ச்சொல் / な-பெயரடைக்கு だ சேர்க்கவும்: 会議は三時からだと言っていました.",
+      "explanation_en": "To pass on what someone said: plain form + と言っていました = \"(he) said …\". In N5 you learned と言いました. It reports one fact. と言っていました has the feeling of a message: \"he said to tell you\". To ask someone to pass on a message, say 〜と伝えていただけませんか = \"could you tell (him) that …?\" (伝える = to tell, pass on). After a noun or な-adjective, add だ: 会議は三時からだと言っていました.",
+      "tamil_parallel": "நாளை வர முடியாது என்று சொன்னார் = 明日は来られないと言っていました; 〜 என்று சொல்லிவிடுவீர்களா? = 〜と伝えていただけませんか",
+      "tamil_parallel_en": "நாளை வர முடியாது என்று சொன்னார் (he said he can’t come tomorrow) = 明日は来られないと言っていました; 〜 என்று சொல்லிவிடுவீர்களா? (could you tell him …?) = 〜と伝えていただけませんか",
+      "formation": "(N は) சாதாரண வடிவம் + と 言っていました\nN に + சாதாரண வடிவம் + と 伝えて いただけませんか\nபெயர்ச்சொல் / な-பெயரடை + だ + と",
+      "formation_en": "(N は) plain form + と 言っていました\nN に + plain form + と 伝えて いただけませんか\nnoun / な-adj + だ + と",
+      "examples": [
+        { "ja": "田中さんは、明日は来られないと言っていました。", "reading": "たなかさんは、あしたは こられないと いって いました。", "romaji": "tanaka-san wa, ashita wa korarenai to itte imashita.", "ta": "தனகா நாளை வர முடியாது என்று சொன்னார்.", "en": "Mr Tanaka said he can’t come tomorrow." },
+        { "ja": "部長は、会議は三時からだと言っていました。", "reading": "ぶちょうは、かいぎは さんじからだと いって いました。", "romaji": "buchou wa, kaigi wa sanji kara da to itte imashita.", "ta": "மேலாளர், கூட்டம் மூன்று மணிக்குத் தொடங்கும் என்று சொன்னார்.", "en": "The manager said the meeting is from three." },
+        { "ja": "「ラージャさんは何と言っていましたか。」「少し遅れると言っていました。」", "reading": "「ラージャさんは なんと いって いましたか。」「すこし おくれると いって いました。」", "romaji": "\"raaja-san wa nan to itte imashita ka.\" \"sukoshi okureru to itte imashita.\"", "ta": "'ராஜா என்ன சொன்னார்?' 'கொஞ்சம் தாமதமாகும் என்று சொன்னார்.'", "en": "“What did Raja say?” “He said he’d be a little late.”" },
+        { "ja": "すみませんが、山田さんに、駅の前で待っていると伝えていただけませんか。", "reading": "すみませんが、やまださんに、えきの まえで まって いると つたえて いただけませんか。", "romaji": "sumimasen ga, yamada-san ni, eki no mae de matte iru to tsutaete itadakemasen ka.", "ta": "மன்னிக்கவும், யமதாவிடம் நான் ஸ்டேஷன் முன்னால் காத்திருக்கிறேன் என்று சொல்லிவிட முடியுமா?", "en": "Excuse me, could you tell Ms Yamada that I’m waiting in front of the station?" },
+        { "ja": "先生に、今日は熱があるので休むと伝えていただけませんか。", "reading": "せんせいに、きょうは ねつが あるので やすむと つたえて いただけませんか。", "romaji": "sensei ni, kyou wa netsu ga aru node yasumu to tsutaete itadakemasen ka.", "ta": "ஆசிரியரிடம், இன்று காய்ச்சல் இருப்பதால் வரவில்லை என்று சொல்லிவிடுவீர்களா?", "en": "Could you tell the teacher I have a fever and won’t come today?" },
+        { "ja": "「わかりました。伝えておきます。」", "reading": "「わかりました。つたえて おきます。」", "romaji": "\"wakarimashita. tsutaete okimasu.\"", "ta": "'சரி. சொல்லிவிடுகிறேன்.'", "en": "“Sure. I’ll pass it on.”" }
+      ],
+      "pitfalls_ta": "と-க்கு முன் மரியாதை வடிவம் (来られませんと) வேண்டாம்; சாதாரண வடிவம் (来られないと). பெயர்ச்சொல்லுக்குப் பின் だ மறக்க வேண்டாம்: 三時からだと.",
+      "pitfalls_en": "Before と, don’t use the polite form (来られませんと). Use the plain form (来られないと). After a noun, don’t forget だ: 三時からだと."
+    },
+    {
+      "id": "g08-6",
+      "pattern": "N1 という N2",
+      "name": { "en": "An N2 called N1", "ta": "N1 என்ற N2" },
+      "explanation_ta": "N1 という N2 = 'N1 என்ற (பெயருடைய) N2'. கேட்பவருக்குத் தெரியாத பெயரைச் சொல்லும்போது பயன்படும்: 『さくら』という店 = 'சகுரா என்ற கடை'. தமிழின் 'என்ற' அப்படியே: 'மதுரை என்ற ஊர்', 'பொங்கல் என்ற உணவு'. ஒரு வாக்கியத்தையே N1 ஆக வைக்கலாம்: 『左側を通る』という規則 = 'இடது பக்கமாகச் செல்ல வேண்டும் என்ற விதி'. பேச்சில் っていう என்று சுருங்கும்.",
+      "explanation_en": "N1 という N2 = \"an N2 called N1\". Use it for a name the listener may not know: 『さくら』という店 = \"a shop called Sakura\". It is exactly Tamil என்ற: மதுரை என்ற ஊர் (a town called Madurai), பொங்கல் என்ற உணவு (a dish called Pongal). N1 can be a whole sentence: 『左側を通る』という規則 = \"the rule that you keep to the left\". In casual speech it becomes っていう.",
+      "tamil_parallel": "சகுரா என்ற கடை = 『さくら』という店; மதுரை என்ற ஊர் = マドゥライという町",
+      "tamil_parallel_en": "சகுரா என்ற கடை (a shop called Sakura) = 『さくら』という店; மதுரை என்ற ஊர் (a town called Madurai) = マドゥライという町",
+      "formation": "N1 (பெயர்) + という + N2\nவாக்கியம் (சாதாரண வடிவம்) + という + N2 (規則 / 法律 / 意味 …)",
+      "formation_en": "N1 (name) + という + N2\nsentence (plain form) + という + N2 (規則 / 法律 / 意味 …)",
+      "examples": [
+        { "ja": "駅の前の「さくら」という店で昼ご飯を食べました。", "reading": "えきの まえの 「さくら」と いう みせで ひるごはんを たべました。", "romaji": "eki no mae no \"sakura\" to iu mise de hirugohan o tabemashita.", "ta": "ஸ்டேஷன் முன்னால் உள்ள 'சகுரா' என்ற கடையில் மதிய உணவு சாப்பிட்டேன்.", "en": "I had lunch at a shop called Sakura in front of the station." },
+        { "ja": "アンナという人から電話がありました。", "reading": "アンナと いう ひとから でんわが ありました。", "romaji": "anna to iu hito kara denwa ga arimashita.", "ta": "அன்னா என்ற ஒருவரிடமிருந்து போன் வந்தது.", "en": "There was a call from someone called Anna." },
+        { "ja": "マドゥライという町から来ました。", "reading": "マドゥライと いう まちから きました。", "romaji": "madurai to iu machi kara kimashita.", "ta": "மதுரை என்ற ஊரிலிருந்து வந்தேன்.", "en": "I come from a town called Madurai." },
+        { "ja": "「ポンガル」という料理を知っていますか。", "reading": "「ポンガル」と いう りょうりを しって いますか。", "romaji": "\"pongaru\" to iu ryouri o shitte imasu ka.", "ta": "'பொங்கல்' என்ற உணவு உங்களுக்குத் தெரியுமா?", "en": "Do you know a dish called Pongal?" },
+        { "ja": "日本には、車は左側を走るという規則があります。", "reading": "にほんには、くるまは ひだりがわを はしると いう きそくが あります。", "romaji": "nihon ni wa, kuruma wa hidarigawa o hashiru to iu kisoku ga arimasu.", "ta": "ஜப்பானில் வாகனங்கள் இடது பக்கம் செல்ல வேண்டும் என்ற விதி இருக்கிறது.", "en": "In Japan there is a rule that cars drive on the left." },
+        { "ja": "これは何という乗り物ですか。", "reading": "これは なんと いう のりものですか。", "romaji": "kore wa nan to iu norimono desu ka.", "ta": "இது என்ன பெயருள்ள வாகனம்?", "en": "What is this vehicle called?" }
+      ],
+      "pitfalls_ta": "'சகுரா என்ற கடை' என்பதை さくらの店 என்று சொன்னால் 'சகுராவுக்குச் சொந்தமான கடை' என்று பொருள் மாறும். பெயருக்கு という.",
+      "pitfalls_en": "If you say さくらの店, it means \"Sakura’s shop\" (owned by Sakura). For a name, use という."
+    }
+  ],
+  "vocab_ids": ["n4-v-007", "n4-v-029", "n4-v-035", "n4-v-052", "n4-v-058", "n4-v-073", "n4-v-078", "n4-v-124", "n4-v-150", "n4-v-191", "n4-v-277", "n4-v-289", "n4-v-300", "n4-v-318", "n4-v-403", "n4-v-449", "n4-v-478", "n4-v-506", "n4-v-562", "n4-v-571", "n4-v-616", "n4-v-621", "n4-v-623", "n4-v-630"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L08-q01", "type": "kanji_reading", "sentence": "バスの ＿運転手＿に 道を 聞きました。", "target": "運転手", "options": ["うんてんしゅ", "うんでんしゅ", "うんてんて", "うってんしゅ"], "answer": 0, "explanation_ta": "運転手 = うんてんしゅ (ஓட்டுநர்). 手 இங்கே しゅ (歌手 = かしゅ போல), て அல்ல.", "explanation_en": "運転手 = うんてんしゅ (driver). Here 手 is しゅ, as in 歌手 (かしゅ, singer), not て." },
+      { "id": "L08-q02", "type": "kanji_reading", "sentence": "この 町は ＿交通＿が 便利です。", "target": "交通", "options": ["こうつ", "こうつう", "こつう", "ごうつう"], "answer": 1, "explanation_ta": "交通 = こうつう (போக்குவரத்து). இரண்டு நீண்ட ஒலிகள்: こう + つう.", "explanation_en": "交通 = こうつう (traffic, transport). It has two long sounds: こう + つう." },
+      { "id": "L08-q03", "type": "kanji_reading", "sentence": "駅へ 行く ＿途中＿で 友達に 会いました。", "target": "途中", "options": ["とうちゅう", "とじゅう", "どちゅう", "とちゅう"], "answer": 3, "explanation_ta": "途中 = とちゅう (வழியில்). と குறுகிய ஒலி; 中 இங்கே ちゅう (じゅう அல்ல).", "explanation_en": "途中 = とちゅう (on the way). と is short. 中 is ちゅう here, not じゅう." },
+      { "id": "L08-q04", "type": "orthography", "sentence": "スーパーの ＿ちゅうしゃじょう＿に 車を 止めました。", "target": "ちゅうしゃじょう", "options": ["注車場", "駐者場", "駐車場", "駐車所"], "answer": 2, "explanation_ta": "ちゅうしゃじょう = 駐車場. 駐 (நிறுத்தி வைத்தல், 馬 பகுதி), 車 (வண்டி), 場 (இடம், じょう). 注 (ஊற்றுதல்) தவறு.", "explanation_en": "ちゅうしゃじょう = 駐車場. 駐 = to stay (it has 馬, horse), 車 = car, 場 = place (じょう). 注 (to pour) is wrong." },
+      { "id": "L08-q05", "type": "orthography", "sentence": "学校の ＿きそく＿を 守りましょう。", "target": "きそく", "options": ["規則", "規側", "視則", "規測"], "answer": 0, "explanation_ta": "きそく = 規則 (விதி). 側 (பக்கம்), 測 (அளத்தல்) ஒத்த தோற்றமுள்ள வேறு எழுத்துகள்.", "explanation_en": "きそく = 規則 (rule). 側 (side) and 測 (to measure) look similar but are different kanji." },
+      { "id": "L08-q06", "type": "vocab_context", "sentence": "朝の 電車は 人が 多くて、とても （　　）います。", "options": ["通って", "向かって", "回って", "込んで"], "answer": 3, "explanation_ta": "ஆட்கள் அதிகம் → நெரிசல் = 込んでいます.", "explanation_en": "Many people → crowded = 込んでいます." },
+      { "id": "L08-q07", "type": "vocab_context", "sentence": "新宿で 山手線に （　　）。", "options": ["向かいます", "乗り換えます", "触ります", "回します"], "answer": 1, "explanation_ta": "ஒரு ரயிலிலிருந்து இன்னொன்றுக்கு மாறுவது = 乗り換える (〜に乗り換える).", "explanation_en": "Changing from one train to another = 乗り換える (〜に乗り換える)." },
+      { "id": "L08-q08", "type": "vocab_context", "sentence": "車の （　　）が ありませんから、ガソリンスタンドへ 行きます。", "options": ["オートバイ", "駐車場", "交通", "ガソリン"], "answer": 3, "explanation_ta": "பெட்ரோல் பங்குக்குப் போவது பெட்ரோல் (ガソリン) இல்லாததால்.", "explanation_en": "You go to the petrol station because you have no petrol (ガソリン)." },
+      { "id": "L08-q09", "type": "vocab_context", "sentence": "お酒を 飲んだら、（　　） 運転しては いけません。", "options": ["きっと", "たぶん", "決して", "もしかしたら"], "answer": 2, "explanation_ta": "決して + எதிர்மறை = 'ஒருபோதும் கூடாது'. きっと / たぶん ஊகத்துக்கு.", "explanation_en": "決して + negative = \"never\". きっと and たぶん are for guesses." },
+      { "id": "L08-q10", "type": "paraphrase", "sentence": "ここに 車を 止めるな。", "options": ["ここに 車を 止めても いいです。", "ここに 車を 止めなさい。", "ここに 車を 止めては いけません。", "ここに 車を 止めて ください。"], "answer": 2, "explanation_ta": "止めるな = 'நிறுத்தாதே' = 止めてはいけません. 止めなさい எதிர்ப் பொருள் ('நிறுத்து').", "explanation_en": "止めるな = \"don’t park\" = 止めてはいけません. 止めなさい means the opposite (\"park\")." },
+      { "id": "L08-q11", "type": "paraphrase", "sentence": "先生は 「早く 帰りなさい」と 言いました。", "options": ["先生は 早く 帰らないで くださいと 言いました。", "先生は 早く 帰って くださいと 言いました。", "先生は 早く 帰りたいと 言いました。", "先生は 早く 帰ったと 言いました。"], "answer": 1, "explanation_ta": "帰りなさい = 'வீட்டுக்குப் போ' என்ற அறிவுரை = 帰ってください. 帰りたい ஆசிரியரின் விருப்பம், பொருள் வேறு.", "explanation_en": "帰りなさい = \"go home\", an instruction = 帰ってください. 帰りたい is the teacher’s own wish, a different meaning." },
+      { "id": "L08-q12", "type": "usage", "sentence": "通る", "options": ["この バスは 駅の 前を 通ります。", "毎朝 シャワーを 通ります。", "友達に 手紙を 通りました。", "昼ご飯を たくさん 通りました。"], "answer": 0, "explanation_ta": "通る = ஓர் இடத்தின் வழியாகக் கடந்து போவது (〜を通る). மற்றவற்றுக்கு 浴びる, 送る / 書く, 食べる வேண்டும்.", "explanation_en": "通る = to pass through or by a place (〜を通る). The others need 浴びる, 送る / 書く and 食べる." },
+      { "id": "L08-q13", "type": "usage", "sentence": "途中", "options": ["途中を 一つ ください。", "この 途中は とても 高いです。", "途中の 月曜日に 来て ください。", "会社へ 行く 途中で、パンを 買いました。"], "answer": 3, "explanation_ta": "途中 = 'போகும் வழியில்': 行く途中で. பொருள் அல்லது நாளைக் குறிக்காது.", "explanation_en": "途中 = \"on the way\": 行く途中で. It is not a thing or a day." },
+      { "id": "L08-q14", "type": "grammar_form", "sentence": "もう 七時だよ。早く （　　）！", "options": ["起きろ", "起きれ", "起きけ", "起きるな"], "answer": 0, "explanation_ta": "起きる குழு II → る-வை ろ: 起きろ ('எழுந்திரு!'). 起きれ வட்டார வழக்கு; 起きるな = 'எழாதே', எதிர்ப் பொருள்.", "explanation_en": "起きる is Group II, so る → ろ: 起きろ (\"get up!\"). 起きれ is dialect. 起きるな = \"don’t get up\", the opposite." },
+      { "id": "L08-q15", "type": "grammar_form", "sentence": "おい、ちょっと こっちへ （　　）。", "options": ["来ろ", "来い", "来よ", "来れ"], "answer": 1, "explanation_ta": "来る-வின் கட்டளை வடிவம் 来い (こい) – ஒழுங்கற்றது. 来ろ என்ற வடிவம் இல்லை.", "explanation_en": "The command form of 来る is 来い (こい). It is irregular. There is no form 来ろ." },
+      { "id": "L08-q16", "type": "grammar_form", "sentence": "危ない！その 犬に （　　）な！", "options": ["触ら", "触り", "触る", "触れ"], "answer": 2, "explanation_ta": "தடை = அகராதி வடிவம் + な: 触るな ('தொடாதே!').", "explanation_en": "\"Don’t!\" = dictionary form + な: 触るな (\"don’t touch!\")." },
+      { "id": "L08-q17", "type": "grammar_form", "sentence": "母：「ご飯の 前に 手を （　　）なさい。」", "options": ["洗う", "洗え", "洗って", "洗い"], "answer": 3, "explanation_ta": "なさい ます-அடிக்குப் பின்: 洗います → 洗い + なさい. 洗うなさい தவறு.", "explanation_en": "なさい comes after the ます-stem: 洗います → 洗い + なさい. 洗うなさい is wrong." },
+      { "id": "L08-q18", "type": "grammar_form", "sentence": "「この 漢字は 何と （　　）か。」「『でぐち』です。」", "options": ["書きます", "読みます", "聞きます", "見ます"], "answer": 1, "explanation_ta": "கான்ஜியின் உச்சரிப்பைக் கேட்பது: 何と読みますか ('எப்படிப் படிப்பது?').", "explanation_en": "To ask how a kanji is pronounced: 何と読みますか (\"how do you read it?\")." },
+      { "id": "L08-q19", "type": "grammar_form", "sentence": "「止まれ」は 「止まりなさい」（　　） 意味です。", "options": ["と いって", "の", "という", "が"], "answer": 2, "explanation_ta": "'〜 என்று பொருள்' = 〜という意味です. の, が இந்த இடத்தில் பொருந்தாது.", "explanation_en": "\"It means …\" = 〜という意味です. の and が don’t fit here." },
+      { "id": "L08-q20", "type": "grammar_form", "sentence": "田中さんに 会いました。田中さんは 明日は 来られないと （　　）。", "options": ["言って いました", "読みます", "意味です", "伝えて いただけませんか"], "answer": 0, "explanation_ta": "தனகா சொன்ன செய்தியைக் கடத்துவது: 来られないと言っていました. 伝えていただけませんか என்பது வேண்டுகோள், இங்கே பொருந்தாது.", "explanation_en": "Passing on Mr Tanaka’s message: 来られないと言っていました. 伝えていただけませんか is a request, so it doesn’t fit." },
+      { "id": "L08-q21", "type": "grammar_form", "sentence": "「アンナ」（　　） 人から 電話が ありました。", "options": ["の", "という", "が", "と いって"], "answer": 1, "explanation_ta": "'அன்னா என்ற நபர்' = アンナという人. アンナの人 என்றால் 'அன்னாவின் ஆள்' என்று பொருள் மாறும்.", "explanation_en": "\"A person called Anna\" = アンナという人. アンナの人 would mean \"Anna’s person\"." },
+      { "id": "L08-q22", "type": "sentence_order", "before": "すみませんが、山田さんに", "chunks": ["会議は", "十時からだ", "と", "伝えて"], "star": 1, "after": "いただけませんか。", "explanation_ta": "会議は (கூட்டம்) → 十時からだ (பத்து மணியிலிருந்து) → と (என்று) → 伝えていただけませんか (சொல்லிவிட முடியுமா). ★ = 十時からだ.", "explanation_en": "会議は (the meeting) → 十時からだ (is from ten) → と (that) → 伝えていただけませんか (could you tell). ★ = 十時からだ." },
+      { "id": "L08-q23", "type": "sentence_order", "before": "駅の 前の", "chunks": ["「さくら」", "という", "店で", "会いましょう"], "star": 1, "after": "。", "explanation_ta": "「さくら」 → という (என்ற) → 店で (கடையில்) → 会いましょう. ★ = という.", "explanation_en": "「さくら」 → という (called) → 店で (at the shop) → 会いましょう. ★ = という." },
+      { "id": "L08-q24", "type": "sentence_order", "before": "この", "chunks": ["マークは", "「たばこを 吸うな」", "という", "意味です"], "star": 2, "after": "。", "explanation_ta": "マークは (இந்தக் குறி) → 「たばこを吸うな」 → という → 意味です ('என்று பொருள்'). ★ = という.", "explanation_en": "マークは (this mark) → 「たばこを吸うな」 → という → 意味です (\"means\"). ★ = という." },
+      { "id": "L08-q25", "type": "passage_cloze", "passage": "日本で 車を 運転する 時は、規則に 注意しましょう。道に 「止まれ」と 書いて あったら、必ず 止まって ください。「止まれ」は 「止まりなさい」［1］ 意味です。ガソリンスタンドでは 「エンジンを ［2］」と 書いて ある 紙を 見ました。友達の ラジュさんは 「日本の 交通規則は インドと 少し 違う」と ［3］。", "blanks": [ { "options": ["の", "を", "という", "と"], "answer": 2 }, { "options": ["止まれ", "止めろ", "止めれ", "止まろう"], "answer": 1 }, { "options": ["言って いました", "伝えて いただけませんか", "読みます", "意味です"], "answer": 0 } ], "explanation_ta": "［1］ 〜という意味です = '〜 என்று பொருள்'. ［2］ エンジンを (を உடன்) பிறவினை 止める → கட்டளை 止めろ ('அணை'). 止まれ தன்வினை, を எடுக்காது. ［3］ நண்பர் சொன்னதைக் கடத்துவது: 言っていました.", "explanation_en": "［1］ 〜という意味です = \"it means …\". ［2］ エンジンを has を, so use the verb that takes an object, 止める. Its command form is 止めろ (\"turn it off\"). 止まれ does not take を. ［3］ Passing on what a friend said: 言っていました." }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "n4-v-033", "expression": "表", "reading": "おもて", "romaji": "omote",
+    "en": "front, surface", "ta": "முன்பக்கம், மேற்பக்கம்", "pos": "noun",
+    "examples": [
+      { "ja": "紙の表に名前を書いてください。", "reading": "かみの おもてに なまえを かいて ください。", "romaji": "kami no omote ni namae o kaite kudasai.", "ta": "காகிதத்தின் முன்பக்கத்தில் பெயரை எழுதுங்கள்.", "en": "Please write your name on the front of the paper." }
+    ]
+  },
+  {
+    "id": "n4-v-055", "expression": "焼く", "reading": "やく", "romaji": "yaku",
+    "en": "to grill, to bake", "ta": "சுட, வாட்ட", "pos": "verb-u",
+    "examples": [
+      { "ja": "夕飯に魚を焼きました。", "reading": "ゆうはんに さかなを やきました。", "romaji": "yuuhan ni sakana o yakimashita.", "ta": "இரவு உணவுக்கு மீனைச் சுட்டேன்.", "en": "I grilled fish for dinner." }
+    ]
+  },
+  {
+    "id": "n4-v-065", "expression": "複雑", "reading": "ふくざつ", "romaji": "fukuzatsu",
+    "en": "complicated", "ta": "சிக்கலான", "pos": "na-adj",
+    "examples": [
+      { "ja": "この料理の作り方は複雑です。", "reading": "この りょうりの つくりかたは ふくざつです。", "romaji": "kono ryouri no tsukurikata wa fukuzatsu desu.", "ta": "இந்த உணவைச் செய்யும் முறை சிக்கலானது.", "en": "This dish is complicated to make." }
+    ]
+  },
+  {
+    "id": "n4-v-203", "expression": "適当", "reading": "てきとう", "romaji": "tekitou",
+    "en": "suitable, appropriate", "ta": "பொருத்தமான, ஏற்ற", "pos": "na-adj",
+    "examples": [
+      { "ja": "野菜を適当な大きさに切ってください。", "reading": "やさいを てきとうな おおきさに きって ください。", "romaji": "yasai o tekitou na ookisa ni kitte kudasai.", "ta": "காய்கறிகளைப் பொருத்தமான அளவில் வெட்டுங்கள்.", "en": "Cut the vegetables into suitable pieces." }
+    ]
+  },
+  {
+    "id": "n4-v-209", "expression": "一度", "reading": "いちど", "romaji": "ichido",
+    "en": "once, one time", "ta": "ஒரு முறை", "pos": "noun",
+    "examples": [
+      { "ja": "一度、日本の料理を作ってみたいです。", "reading": "いちど、にほんの りょうりを つくって みたいです。", "romaji": "ichido, nihon no ryouri o tsukutte mitai desu.", "ta": "ஒரு முறையாவது ஜப்பானிய உணவைச் செய்து பார்க்க விரும்புகிறேன்.", "en": "I’d like to try making Japanese food once." }
+    ]
+  },
+  {
+    "id": "n4-v-240", "expression": "漬ける", "reading": "つける", "romaji": "tsukeru",
+    "en": "to soak, to pickle", "ta": "ஊறவைக்க, ஊறுகாய் போட", "pos": "verb-ru",
+    "examples": [
+      { "ja": "肉をヨーグルトに一時間漬けます。", "reading": "にくを ヨーグルトに いちじかん つけます。", "romaji": "niku o yooguruto ni ichijikan tsukemasu.", "ta": "இறைச்சியைத் தயிரில் ஒரு மணி நேரம் ஊறவைக்கிறேன்.", "en": "I soak the meat in yogurt for an hour." }
+    ]
+  },
+  {
+    "id": "n4-v-267", "expression": "細かい", "reading": "こまかい", "romaji": "komakai",
+    "en": "small, fine", "ta": "சிறிய, பொடியான", "pos": "i-adj",
+    "examples": [
+      { "ja": "玉ねぎを細かく切ってください。", "reading": "たまねぎを こまかく きって ください。", "romaji": "tamanegi o komakaku kitte kudasai.", "ta": "வெங்காயத்தைப் பொடியாக நறுக்குங்கள்.", "en": "Please chop the onion finely." }
+    ]
+  },
+  {
+    "id": "n4-v-268", "expression": "塗る", "reading": "ぬる", "romaji": "nuru",
+    "en": "to spread, to paint", "ta": "தடவ, பூச", "pos": "verb-u",
+    "examples": [
+      { "ja": "パンにバターを塗ります。", "reading": "パンに バターを ぬります。", "romaji": "pan ni bataa o nurimasu.", "ta": "ரொட்டியில் வெண்ணெய் தடவுகிறேன்.", "en": "I spread butter on the bread." }
+    ]
+  },
+  {
+    "id": "n4-v-276", "expression": "形", "reading": "かたち", "romaji": "katachi",
+    "en": "shape", "ta": "வடிவம்", "pos": "noun",
+    "examples": [
+      { "ja": "星の形のクッキーを作りました。", "reading": "ほしの かたちの クッキーを つくりました。", "romaji": "hoshi no katachi no kukkii o tsukurimashita.", "ta": "நட்சத்திர வடிவ பிஸ்கட்டுகள் செய்தேன்.", "en": "I made star-shaped cookies." }
+    ]
+  },
+  {
+    "id": "n4-v-287", "expression": "味噌", "reading": "みそ", "romaji": "miso",
+    "en": "miso (soybean paste)", "ta": "மிசோ (சோயா பசை)", "pos": "noun",
+    "examples": [
+      { "ja": "みそ汁は味噌で作ります。", "reading": "みそしるは みそで つくります。", "romaji": "misoshiru wa miso de tsukurimasu.", "ta": "மிசோ சூப் மிசோவைக் கொண்டு செய்யப்படுகிறது.", "en": "Miso soup is made with miso." }
+    ]
+  },
+  {
+    "id": "n4-v-296", "expression": "ジャム", "reading": "ジャム", "romaji": "jamu",
+    "en": "jam", "ta": "ஜாம்", "pos": "noun",
+    "examples": [
+      { "ja": "朝はパンにジャムを塗って食べます。", "reading": "あさは パンに ジャムを ぬって たべます。", "romaji": "asa wa pan ni jamu o nutte tabemasu.", "ta": "காலையில் ரொட்டியில் ஜாம் தடவிச் சாப்பிடுகிறேன்.", "en": "In the morning I eat bread with jam." }
+    ]
+  },
+  {
+    "id": "n4-v-349", "expression": "足す", "reading": "たす", "romaji": "tasu",
+    "en": "to add", "ta": "சேர்க்க, கூட்ட", "pos": "verb-u",
+    "examples": [
+      { "ja": "味がうすかったら、塩を少し足してください。", "reading": "あじが うすかったら、しおを すこし たして ください。", "romaji": "aji ga usukattara, shio o sukoshi tashite kudasai.", "ta": "சுவை குறைவாக இருந்தால் கொஞ்சம் உப்பு சேருங்கள்.", "en": "If it tastes bland, add a little salt." }
+    ]
+  },
+  {
+    "id": "n4-v-368", "expression": "米", "reading": "こめ", "romaji": "kome",
+    "en": "rice (uncooked)", "ta": "அரிசி", "pos": "noun",
+    "examples": [
+      { "ja": "米を洗ってから、水に三十分漬けます。", "reading": "こめを あらってから、みずに さんじゅっぷん つけます。", "romaji": "kome o aratte kara, mizu ni sanjuppun tsukemasu.", "ta": "அரிசியைக் கழுவிய பின் தண்ணீரில் முப்பது நிமிடம் ஊறவைக்கிறேன்.", "en": "After washing the rice, I soak it in water for thirty minutes." }
+    ]
+  },
+  {
+    "id": "n4-v-397", "expression": "沸かす", "reading": "わかす", "romaji": "wakasu",
+    "en": "to boil (water)", "ta": "கொதிக்க வைக்க", "pos": "verb-u",
+    "examples": [
+      { "ja": "まず、やかんでお湯を沸かします。", "reading": "まず、やかんで おゆを わかします。", "romaji": "mazu, yakan de oyu o wakashimasu.", "ta": "முதலில் கெட்டிலில் தண்ணீரைக் கொதிக்க வைக்கிறேன்.", "en": "First, boil water in the kettle." }
+    ]
+  },
+  {
+    "id": "n4-v-406", "expression": "こう", "reading": "こう", "romaji": "kou",
+    "en": "like this, this way", "ta": "இப்படி", "pos": "adverb",
+    "examples": [
+      { "ja": "はしはこう持ちます。", "reading": "はしは こう もちます。", "romaji": "hashi wa kou mochimasu.", "ta": "சாப்ஸ்டிக்கை இப்படிப் பிடிக்க வேண்டும்.", "en": "You hold chopsticks like this." }
+    ]
+  },
+  {
+    "id": "n4-v-408", "expression": "裏", "reading": "うら", "romaji": "ura",
+    "en": "back, reverse side", "ta": "பின்பக்கம்", "pos": "noun",
+    "examples": [
+      { "ja": "紙の裏にも書いてください。", "reading": "かみの うらにも かいて ください。", "romaji": "kami no ura ni mo kaite kudasai.", "ta": "காகிதத்தின் பின்பக்கத்திலும் எழுதுங்கள்.", "en": "Please write on the back of the paper too." }
+    ]
+  },
+  {
+    "id": "n4-v-424", "expression": "まず", "reading": "まず", "romaji": "mazu",
+    "en": "first of all", "ta": "முதலில்", "pos": "adverb",
+    "examples": [
+      { "ja": "まず、手をよく洗いましょう。", "reading": "まず、てを よく あらいましょう。", "romaji": "mazu, te o yoku araimashou.", "ta": "முதலில் கைகளை நன்றாகக் கழுவுவோம்.", "en": "First, let’s wash our hands well." }
+    ]
+  },
+  {
+    "id": "n4-v-437", "expression": "道具", "reading": "どうぐ", "romaji": "dougu",
+    "en": "tool, utensil", "ta": "கருவி, சாதனம்", "pos": "noun",
+    "examples": [
+      { "ja": "料理の道具を台所に並べました。", "reading": "りょうりの どうぐを だいどころに ならべました。", "romaji": "ryouri no dougu o daidokoro ni narabemashita.", "ta": "சமையல் சாதனங்களைச் சமையலறையில் வரிசையாக வைத்தேன்.", "en": "I laid out the cooking tools in the kitchen." }
+    ]
+  },
+  {
+    "id": "n4-v-546", "expression": "焼ける", "reading": "やける", "romaji": "yakeru",
+    "en": "to be grilled, to be baked", "ta": "(சுட்டு) வேக", "pos": "verb-ru",
+    "examples": [
+      { "ja": "パンがきれいに焼けました。", "reading": "パンが きれいに やけました。", "romaji": "pan ga kirei ni yakemashita.", "ta": "ரொட்டி அழகாக வெந்துவிட்டது.", "en": "The bread baked nicely." }
+    ]
+  },
+  {
+    "id": "n4-v-573", "expression": "仕方", "reading": "しかた", "romaji": "shikata",
+    "en": "way of doing", "ta": "செய்யும் முறை", "pos": "noun",
+    "examples": [
+      { "ja": "漢字の勉強の仕方を教えてください。", "reading": "かんじの べんきょうの しかたを おしえて ください。", "romaji": "kanji no benkyou no shikata o oshiete kudasai.", "ta": "கான்ஜி படிக்கும் முறையைச் சொல்லித் தாருங்கள்.", "en": "Please tell me how to study kanji." }
+    ]
+  },
+  {
+    "id": "n4-v-577", "expression": "失敗", "reading": "しっぱい", "romaji": "shippai",
+    "en": "failure, mistake", "ta": "தோல்வி, தவறு", "pos": "noun",
+    "examples": [
+      { "ja": "初めてケーキを作りましたが、失敗しました。", "reading": "はじめて ケーキを つくりましたが、しっぱいしました。", "romaji": "hajimete keeki o tsukurimashita ga, shippai shimashita.", "ta": "முதல் முறையாக கேக் செய்தேன், ஆனால் சரியாக வரவில்லை.", "en": "I made a cake for the first time, but it failed." }
+    ]
+  },
+  {
+    "id": "n4-v-603", "expression": "簡単", "reading": "かんたん", "romaji": "kantan",
+    "en": "simple, easy", "ta": "எளிதான", "pos": "na-adj",
+    "examples": [
+      { "ja": "この料理はとても簡単です。", "reading": "この りょうりは とても かんたんです。", "romaji": "kono ryouri wa totemo kantan desu.", "ta": "இந்த உணவைச் செய்வது மிகவும் எளிது.", "en": "This dish is very easy." }
+    ]
+  },
+  {
+    "id": "n4-v-611", "expression": "真中", "reading": "まんなか", "romaji": "mannaka",
+    "en": "middle, centre", "ta": "நடு, மையம்", "pos": "noun",
+    "examples": [
+      { "ja": "テーブルの真中にケーキを置きました。", "reading": "テーブルの まんなかに ケーキを おきました。", "romaji": "teeburu no mannaka ni keeki o okimashita.", "ta": "மேசையின் நடுவில் கேக்கை வைத்தேன்.", "en": "I put the cake in the middle of the table." }
+    ]
+  },
+  {
+    "id": "n4-v-614", "expression": "ケーキ", "reading": "ケーキ", "romaji": "keeki",
+    "en": "cake", "ta": "கேக்", "pos": "noun",
+    "examples": [
+      { "ja": "妹の誕生日にケーキを焼きました。", "reading": "いもうとの たんじょうびに ケーキを やきました。", "romaji": "imouto no tanjoubi ni keeki o yakimashita.", "ta": "தங்கையின் பிறந்தநாளுக்கு கேக் சுட்டேன்.", "en": "I baked a cake for my younger sister’s birthday." }
+    ]
+  },
+  {
+    "id": "n4-v-619", "expression": "下げる", "reading": "さげる", "romaji": "sageru",
+    "en": "to lower", "ta": "குறைக்க, இறக்க", "pos": "verb-ru",
+    "examples": [
+      { "ja": "オーブンの温度を百八十度に下げてください。", "reading": "オーブンの おんどを ひゃくはちじゅうどに さげて ください。", "romaji": "oobun no ondo o hyakuhachijuudo ni sagete kudasai.", "ta": "அடுப்பின் வெப்பநிலையை 180 டிகிரிக்குக் குறையுங்கள்.", "en": "Please lower the oven temperature to 180 degrees." }
+    ]
+  },
+  {
+    "id": "n4-v-638", "expression": "湯", "reading": "ゆ", "romaji": "yu",
+    "en": "hot water", "ta": "வெந்நீர்", "pos": "noun",
+    "examples": [
+      { "ja": "お湯を沸かして、お茶を入れます。", "reading": "おゆを わかして、おちゃを いれます。", "romaji": "oyu o wakashite, ocha o iremasu.", "ta": "வெந்நீர் கொதிக்க வைத்து டீ போடுகிறேன்.", "en": "I boil water and make tea." }
+    ]
+  },
+  {
+    "id": "n4-v-648", "expression": "～目", "reading": "～め", "romaji": "～me",
+    "en": "-th (order)", "ta": "-ஆவது (வரிசை)", "pos": "suffix",
+    "examples": [
+      { "ja": "二つ目の角を右に曲がってください。", "reading": "ふたつめの かどを みぎに まがって ください。", "romaji": "futatsume no kado o migi ni magatte kudasai.", "ta": "இரண்டாவது முனையில் வலது பக்கம் திரும்புங்கள்.", "en": "Please turn right at the second corner." }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "n4-v-016",
+    "expression": "ステレオ",
+    "reading": "ステレオ",
+    "romaji": "sutereo",
+    "en": "stereo",
+    "ta": "ஸ்டீரியோ (ஒலி அமைப்பு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "安ければ、このステレオを買います。",
+        "reading": "やすければ、この ステレオを かいます。",
+        "romaji": "yasukereba, kono sutereo o kaimasu.",
+        "ta": "மலிவாக இருந்தால் இந்த ஸ்டீரியோவை வாங்குவேன்.",
+        "en": "If it’s cheap, I’ll buy this stereo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-032",
+    "expression": "もし",
+    "reading": "もし",
+    "romaji": "moshi",
+    "en": "if",
+    "ta": "ஒருவேளை (〜 என்றால்)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "もし時間があれば、電気屋に行きましょう。",
+        "reading": "もし じかんが あれば、でんきやに いきましょう。",
+        "romaji": "moshi jikan ga areba, denkiya ni ikimashou.",
+        "ta": "ஒருவேளை நேரம் இருந்தால் மின்சாதனக் கடைக்குப் போவோம்.",
+        "en": "If we have time, let’s go to the electronics shop."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-050",
+    "expression": "売り場",
+    "reading": "うりば",
+    "romaji": "uriba",
+    "en": "sales floor, counter",
+    "ta": "விற்பனைப் பகுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "パソコン売り場は五階です。",
+        "reading": "パソコンうりばは ごかいです。",
+        "romaji": "pasokon uriba wa gokai desu.",
+        "ta": "கணினி விற்பனைப் பகுதி ஐந்தாவது மாடியில் இருக்கிறது.",
+        "en": "The computer section is on the fifth floor."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-072",
+    "expression": "～製",
+    "reading": "～せい",
+    "romaji": "～sei",
+    "en": "made in …",
+    "ta": "〜 தயாரிப்பு",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "これは日本製のカメラです。",
+        "reading": "これは にほんせいの カメラです。",
+        "romaji": "kore wa nihonsei no kamera desu.",
+        "ta": "இது ஜப்பான் தயாரிப்பு கேமரா.",
+        "en": "This is a Japanese-made camera."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-090",
+    "expression": "エスカレーター",
+    "reading": "エスカレーター",
+    "romaji": "esukareetaa",
+    "en": "escalator",
+    "ta": "நகரும் படிக்கட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "エスカレーターで三階へ上がってください。",
+        "reading": "エスカレーターで さんがいへ あがって ください。",
+        "romaji": "esukareetaa de sangai e agatte kudasai.",
+        "ta": "நகரும் படிக்கட்டில் மூன்றாவது மாடிக்குச் செல்லுங்கள்.",
+        "en": "Please take the escalator up to the third floor."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-146",
+    "expression": "品物",
+    "reading": "しなもの",
+    "romaji": "shinamono",
+    "en": "goods, items",
+    "ta": "பொருள்கள், சரக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この店の品物はどれも安いです。",
+        "reading": "この みせの しなものは どれも やすいです。",
+        "romaji": "kono mise no shinamono wa dore mo yasui desu.",
+        "ta": "இந்தக் கடையின் பொருள்கள் எல்லாமே மலிவு.",
+        "en": "Everything in this shop is cheap."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-148",
+    "expression": "利用",
+    "reading": "りよう",
+    "romaji": "riyou",
+    "en": "use",
+    "ta": "பயன்படுத்துதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の駐車場を利用する人が多いです。",
+        "reading": "えきの ちゅうしゃじょうを りようする ひとが おおいです。",
+        "romaji": "eki no chuushajou o riyou suru hito ga ooi desu.",
+        "ta": "ஸ்டேஷன் வாகன நிறுத்துமிடத்தைப் பயன்படுத்துபவர்கள் அதிகம்.",
+        "en": "Many people use the station car park."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-152",
+    "expression": "いくら～ても",
+    "reading": "いくら～ても",
+    "romaji": "ikura～temo",
+    "en": "no matter how much",
+    "ta": "எவ்வளவு 〜 னாலும்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "いくら探しても、かぎが見つかりません。",
+        "reading": "いくら さがしても、かぎが みつかりません。",
+        "romaji": "ikura sagashite mo, kagi ga mitsukarimasen.",
+        "ta": "எவ்வளவு தேடினாலும் சாவி கிடைக்கவில்லை.",
+        "en": "No matter how hard I look, I can’t find my key."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-158",
+    "expression": "故障",
+    "reading": "こしょう",
+    "romaji": "koshou",
+    "en": "breakdown",
+    "ta": "பழுது, கோளாறு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "パソコンが故障してしまいました。",
+        "reading": "パソコンが こしょうして しまいました。",
+        "romaji": "pasokon ga koshou shite shimaimashita.",
+        "ta": "கணினி பழுதாகிவிட்டது.",
+        "en": "My computer has broken down."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-176",
+    "expression": "倍",
+    "reading": "ばい",
+    "romaji": "bai",
+    "en": "double, … times",
+    "ta": "மடங்கு",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "東京の野菜はチェンナイの三倍ぐらい高いです。",
+        "reading": "とうきょうの やさいは チェンナイの さんばいぐらい たかいです。",
+        "romaji": "toukyou no yasai wa chennai no sanbai gurai takai desu.",
+        "ta": "டோக்கியோவில் காய்கறிகள் சென்னையை விட சுமார் மூன்று மடங்கு விலை அதிகம்.",
+        "en": "Vegetables in Tokyo cost about three times as much as in Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-247",
+    "expression": "以下",
+    "reading": "いか",
+    "romaji": "ika",
+    "en": "… or less, below",
+    "ta": "〜 அல்லது அதற்குக் குறைவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "三万円以下のカメラを探しています。",
+        "reading": "さんまんえん いかの カメラを さがして います。",
+        "romaji": "sanman'en ika no kamera o sagashite imasu.",
+        "ta": "முப்பதாயிரம் யென் அல்லது அதற்குக் குறைவான கேமராவைத் தேடுகிறேன்.",
+        "en": "I’m looking for a camera for 30,000 yen or less."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-258",
+    "expression": "食料品",
+    "reading": "しょくりょうひん",
+    "romaji": "shokuryouhin",
+    "en": "groceries, food",
+    "ta": "மளிகை / உணவுப் பொருட்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "食料品売り場は地下一階です。",
+        "reading": "しょくりょうひんうりばは ちか いっかいです。",
+        "romaji": "shokuryouhin uriba wa chika ikkai desu.",
+        "ta": "உணவுப் பொருட்கள் பகுதி நிலத்தடி முதல் தளத்தில் இருக்கிறது.",
+        "en": "The food section is on the first basement floor."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-260",
+    "expression": "以内",
+    "reading": "いない",
+    "romaji": "inai",
+    "en": "within",
+    "ta": "〜க்குள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "買ってから一週間以内なら、取り替えることができます。",
+        "reading": "かってから いっしゅうかん いないなら、とりかえる ことが できます。",
+        "romaji": "katte kara isshuukan inai nara, torikaeru koto ga dekimasu.",
+        "ta": "வாங்கி ஒரு வாரத்துக்குள் என்றால் மாற்றிக்கொள்ளலாம்.",
+        "en": "You can exchange it within a week of buying it."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-310",
+    "expression": "店員",
+    "reading": "てんいん",
+    "romaji": "ten'in",
+    "en": "shop assistant",
+    "ta": "கடை ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "わからなければ、店員に聞いてください。",
+        "reading": "わからなければ、てんいんに きいて ください。",
+        "romaji": "wakaranakereba, ten'in ni kiite kudasai.",
+        "ta": "புரியவில்லை என்றால் கடை ஊழியரிடம் கேளுங்கள்.",
+        "en": "If you don’t understand, ask a shop assistant."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-314",
+    "expression": "おつり",
+    "reading": "おつり",
+    "romaji": "otsuri",
+    "en": "change (money)",
+    "ta": "மீதிச் சில்லறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "千円出して、二百円のおつりをもらいました。",
+        "reading": "せんえん だして、にひゃくえんの おつりを もらいました。",
+        "romaji": "sen'en dashite, nihyakuen no otsuri o moraimashita.",
+        "ta": "ஆயிரம் யென் கொடுத்து இருநூறு யென் மீதி வாங்கினேன்.",
+        "en": "I paid 1,000 yen and got 200 yen change."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-346",
+    "expression": "パソコン",
+    "reading": "パソコン",
+    "romaji": "pasokon",
+    "en": "personal computer",
+    "ta": "கணினி (லேப்டாப் / பிசி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "軽いパソコンが欲しいです。",
+        "reading": "かるい パソコンが ほしいです。",
+        "romaji": "karui pasokon ga hoshii desu.",
+        "ta": "எடை குறைந்த கணினி வேண்டும்.",
+        "en": "I want a light computer."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-398",
+    "expression": "レジ",
+    "reading": "レジ",
+    "romaji": "reji",
+    "en": "cash register, checkout",
+    "ta": "பணம் செலுத்துமிடம் (கவுண்டர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お金はレジで払ってください。",
+        "reading": "おかねは レジで はらって ください。",
+        "romaji": "okane wa reji de haratte kudasai.",
+        "ta": "பணத்தைக் கவுண்டரில் செலுத்துங்கள்.",
+        "en": "Please pay at the checkout."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-412",
+    "expression": "以外",
+    "reading": "いがい",
+    "romaji": "igai",
+    "en": "except, other than",
+    "ta": "〜 தவிர",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この店は日曜日以外は毎日開いています。",
+        "reading": "この みせは にちようび いがいは まいにち あいて います。",
+        "romaji": "kono mise wa nichiyoubi igai wa mainichi aite imasu.",
+        "ta": "இந்தக் கடை ஞாயிறு தவிர தினமும் திறந்திருக்கும்.",
+        "en": "This shop is open every day except Sunday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-440",
+    "expression": "以上",
+    "reading": "いじょう",
+    "romaji": "ijou",
+    "en": "… or more, over",
+    "ta": "〜 அல்லது அதற்கு மேல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このパソコンは十万円以上します。",
+        "reading": "この パソコンは じゅうまんえん いじょう します。",
+        "romaji": "kono pasokon wa juuman'en ijou shimasu.",
+        "ta": "இந்தக் கணினியின் விலை ஒரு லட்சம் யென்னுக்கு மேல்.",
+        "en": "This computer costs 100,000 yen or more."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-516",
+    "expression": "値段",
+    "reading": "ねだん",
+    "romaji": "nedan",
+    "en": "price",
+    "ta": "விலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このカメラの値段はいくらですか。",
+        "reading": "この カメラの ねだんは いくらですか。",
+        "romaji": "kono kamera no nedan wa ikura desu ka.",
+        "ta": "இந்த கேமராவின் விலை எவ்வளவு?",
+        "en": "How much is this camera?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-544",
+    "expression": "払う",
+    "reading": "はらう",
+    "romaji": "harau",
+    "en": "to pay",
+    "ta": "(பணம்) செலுத்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "カードで払ってもいいですか。",
+        "reading": "カードで はらっても いいですか。",
+        "romaji": "kaado de haratte mo ii desu ka.",
+        "ta": "கார்டில் பணம் செலுத்தலாமா?",
+        "en": "May I pay by card?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-568",
+    "expression": "スーパー (マーケット)",
+    "reading": "スーパー (マーケット)",
+    "romaji": "suupaa(maaketto)",
+    "en": "supermarket",
+    "ta": "சூப்பர் மார்க்கெட்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜八時になれば、スーパーの弁当が安くなります。",
+        "reading": "よる はちじに なれば、スーパーの べんとうが やすく なります。",
+        "romaji": "yoru hachiji ni nareba, suupaa no bentou ga yasuku narimasu.",
+        "ta": "இரவு எட்டு மணி ஆனால் சூப்பர் மார்க்கெட்டில் சாப்பாட்டுப் பெட்டி மலிவாகும்.",
+        "en": "At 8 p.m., the supermarket lunch boxes get cheaper."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-592",
+    "expression": "コンピュータ; コンピューター",
+    "reading": "コンピュータ; コンピューター",
+    "romaji": "konpyuuta;konpyuutaa",
+    "en": "computer",
+    "ta": "கணினி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父の会社ではコンピューターを使って仕事をします。",
+        "reading": "ちちの かいしゃでは コンピューターを つかって しごとを します。",
+        "romaji": "chichi no kaisha de wa konpyuutaa o tsukatte shigoto o shimasu.",
+        "ta": "அப்பாவின் அலுவலகத்தில் கணினியைப் பயன்படுத்தி வேலை செய்கிறார்கள்.",
+        "en": "At my father’s company, they work with computers."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-658",
+    "expression": "ソフト",
+    "reading": "ソフト",
+    "romaji": "sofuto",
+    "en": "software",
+    "ta": "மென்பொருள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このソフトを使えば、写真を簡単に直せます。",
+        "reading": "この ソフトを つかえば、しゃしんを かんたんに なおせます。",
+        "romaji": "kono sofuto o tsukaeba, shashin o kantan ni naosemasu.",
+        "ta": "இந்த மென்பொருளைப் பயன்படுத்தினால் புகைப்படங்களை எளிதாகத் திருத்தலாம்.",
+        "en": "With this software, you can easily edit photos."
+      }
+    ]
+  }
+]

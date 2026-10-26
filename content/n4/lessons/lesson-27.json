@@ -1,0 +1,690 @@
+{
+  "lesson": 27,
+  "title": {
+    "ja": "私がご案内します",
+    "ta": "நான் உங்களுக்கு வழிகாட்டுகிறேன்",
+    "en": "Let me show you the way"
+  },
+  "intro_ta": "முந்தைய பாடத்தில் மற்றவரை உயர்த்திப் பேசக் கற்றோம். இந்தப் பாடத்தில் அதற்கு எதிர்ப் பக்கமாக, உங்கள் சொந்தச் செயலைத் தாழ்த்திப் பணிவாகப் பேசக் கற்போம் (இதை 謙譲語 என்பார்கள்). தமிழில் 'சொல்கிறேன்' என்பதை 'தெரிவித்துக்கொள்கிறேன்' என்று பணிவாகச் சொல்வது போல, ஜப்பானிய மொழியில் 参る、申す、伺う போன்ற தனிச் சொற்களும் お〜します என்ற வடிவமும் உள்ளன. அலுவலகத் தொலைபேசி அழைப்புகள், செய்தி விட்டுச் செல்லுதல், வருகையாளர்களை வரவேற்றல் ஆகியவற்றைப் பயிற்சி செய்வோம்.",
+  "intro_en": "In the last lesson you raised other people with respectful words. In this lesson you do the opposite. You lower your own actions to be humble. In Japanese this is called 謙譲語 (humble speech). In Tamil you can say \"I say\" humbly as தெரிவித்துக்கொள்கிறேன். Japanese has special humble verbs like 参る, 申す and 伺う, and the form お〜します. You will practise business phone calls, taking messages and welcoming visitors.",
+  "grammar": [
+    {
+      "id": "g27-1",
+      "pattern": "Special humble verbs (参る / 申す / いたす / 伺う / 拝見する / おる / 存じる)",
+      "name": {
+        "en": "Special humble verbs",
+        "ta": "சிறப்புப் பணிவு வினைச்சொற்கள்"
+      },
+      "explanation_ta": "உங்கள் சொந்தச் செயலை (அல்லது உங்கள் நிறுவனத்தைச் சேர்ந்தவரின் செயலை) வெளியாட்களிடம் பணிவாகச் சொல்ல இந்தச் சொற்கள் பயன்படுகின்றன. 行く・来る → 参る; 言う → 申す (மிகப் பணிவாக 申し上げる); する → いたす; 聞く・訪ねる (சந்திக்கப் போவது) → 伺う; 見る → 拝見する; いる → おる; 知っている → 存じている (知りません → 存じません). இவை உங்களைத் தாழ்த்துவதன் மூலம் கேட்பவரை மதிக்கின்றன. கவனிக்க: ご存じですか (உங்களுக்குத் தெரியுமா?) என்பது மரியாதைச் சொல் (மற்றவருக்கு); 存じております (எனக்குத் தெரியும்) என்பது பணிவுச் சொல் (உங்களுக்கு). வெளியாட்களிடம் பேசும்போது உங்கள் சொந்த மேலதிகாரியைப் பற்றியும் பணிவுச் சொல்லையே பயன்படுத்த வேண்டும், பெயருக்குப் பின் さん இல்லாமல் (山田は今おりません).",
+      "explanation_en": "Use these words to talk humbly about your own actions. Also use them for people in your own company when you talk to outsiders. 行く and 来る become 参る. 言う becomes 申す (very humble: 申し上げる). する becomes いたす. 聞く or visiting someone becomes 伺う. 見る becomes 拝見する. いる becomes おる. 知っている becomes 存じている (I don’t know: 存じません). You lower yourself to show respect to the listener. Note: ご存じですか (do you know?) is respectful, for others. 存じております (I know) is humble, for you. To outsiders, talk about your own boss humbly too, without さん: 山田は今おりません.",
+      "tamil_parallel": "சொல்கிறேன் → தெரிவித்துக்கொள்கிறேன்; வருகிறேன் → வந்து சந்திக்கிறேன் = 言います → 申します、来ます → 参ります",
+      "tamil_parallel_en": "Tamil has humble phrases too: சொல்கிறேன் (I say) → தெரிவித்துக்கொள்கிறேன் (I humbly inform). Japanese uses 言います → 申します, 来ます → 参ります.",
+      "formation": "行く・来る → 参る (参ります)\n言う → 申す / 申し上げる\nする → いたす (いたします)\n聞く・訪ねる → 伺う (伺います)\n見る → 拝見する\nいる → おる (おります)\n知っている → 存じている (存じております / 存じません)",
+      "formation_en": "行く・来る → 参る (参ります)\n言う → 申す / 申し上げる\nする → いたす (いたします)\n聞く・visit → 伺う (伺います)\n見る → 拝見する\nいる → おる (おります)\n知っている → 存じている (存じております / 存じません)",
+      "examples": [
+        {
+          "ja": "はじめまして。インド銀行のラジャと申します。",
+          "reading": "はじめまして。インドぎんこうの ラジャと もうします。",
+          "romaji": "hajimemashite. indo ginkou no raja to moushimasu.",
+          "ta": "வணக்கம். நான் இந்தியா வங்கியைச் சேர்ந்த ராஜா.",
+          "en": "Nice to meet you. I’m Raja from India Bank."
+        },
+        {
+          "ja": "明日、三時にそちらへ参ります。",
+          "reading": "あした、さんじに そちらへ まいります。",
+          "romaji": "ashita, sanji ni sochira e mairimasu.",
+          "ta": "நாளை மூன்று மணிக்கு அங்கே வருகிறேன்.",
+          "en": "I will come to you at three tomorrow."
+        },
+        {
+          "ja": "先生、来週お宅に伺ってもよろしいですか。",
+          "reading": "せんせい、らいしゅう おたくに うかがっても よろしいですか。",
+          "romaji": "sensei, raishuu otaku ni ukagattemo yoroshii desu ka.",
+          "ta": "ஆசிரியரே, அடுத்த வாரம் உங்கள் வீட்டுக்கு வரலாமா?",
+          "en": "Sir, may I visit your home next week?"
+        },
+        {
+          "ja": "先生のレポートを拝見しました。",
+          "reading": "せんせいの レポートを はいけんしました。",
+          "romaji": "sensei no repooto o haiken shimashita.",
+          "ta": "ஆசிரியரின் அறிக்கையைப் பார்த்தேன்.",
+          "en": "I read your report, sir."
+        },
+        {
+          "ja": "山田は今、会議室におります。",
+          "reading": "やまだは いま、かいぎしつに おります。",
+          "romaji": "yamada wa ima, kaigishitsu ni orimasu.",
+          "ta": "யமதா இப்போது கூட்ட அறையில் இருக்கிறார். (வெளியாளிடம், சொந்த நிறுவன ஊழியர் பற்றி)",
+          "en": "Yamada is in the meeting room now. (to an outsider, about a colleague)"
+        },
+        {
+          "ja": "すみません、その方は存じません。",
+          "reading": "すみません、その かたは ぞんじません。",
+          "romaji": "sumimasen, sono kata wa zonjimasen.",
+          "ta": "மன்னிக்கவும், அந்த நபரை எனக்குத் தெரியாது.",
+          "en": "I’m sorry, I don’t know that person."
+        }
+      ],
+      "pitfalls_ta": "வெளியாள் 'யமதா அவர்கள் இருக்கிறாரா?' என்று கேட்டால், உங்கள் மேலதிகாரியாக இருந்தாலும் 山田部長はいらっしゃいます என்று சொல்லக் கூடாது; 山田はおります என்று பணிவாகச் சொல்ல வேண்டும். மேலும் ご存じ (மற்றவர்) / 存じる (நான்) இரண்டையும் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "An outsider asks for Mr. Yamada, your boss. Don’t say 山田部長はいらっしゃいます. Say 山田はおります (humble). Also, don’t mix up ご存じ (for others) and 存じる (for you)."
+    },
+    {
+      "id": "g27-2",
+      "pattern": "お V-ます stem します / ご N します",
+      "name": {
+        "en": "お〜します (regular humble form)",
+        "ta": "お〜します (பொதுப் பணிவு வடிவம்)"
+      },
+      "explanation_ta": "சிறப்புச் சொல் இல்லாத வினைகளுக்கு: お + ます-stem + します. 持ちます → お持ちします (நான் எடுத்து வருகிறேன்), 送ります → お送りします, 待ちます → お待ちします. する-வினைகளுக்கு ご + பெயர்ச்சொல் + します: ご案内します, ご連絡します, ご紹介します. இந்த வடிவம் உங்கள் செயல் கேட்பவருக்காக அல்லது கேட்பவரைத் தொடும்போது மட்டுமே வரும் — 'உங்கள் பையை நான் தூக்குகிறேன்', 'உங்களுக்கு வழிகாட்டுகிறேன்'. நீங்கள் தனியாகச் சாப்பிடுவது போன்ற செயல்களுக்கு (お食べします ✗) இது வராது. முந்தைய பாடத்தின் お〜になります (மற்றவர் செய்வது) உடன் வேறுபாட்டைக் கவனியுங்கள்.",
+      "explanation_en": "For verbs with no special humble word: お + ます-stem + します. 持ちます → お持ちします (I’ll carry it for you). 送ります → お送りします. 待ちます → お待ちします. For する verbs, use ご + noun + します: ご案内します, ご連絡します, ご紹介します. Use it only when your action is for the listener, or touches them. For example, carrying their bag or showing them the way. Don’t use it for things like eating alone (お食べします is wrong). Compare お〜になります from the last lesson. That one is for what others do.",
+      "tamil_parallel": "உங்கள் பையை நான் எடுத்து வருகிறேன் / உங்களுக்கு வழிகாட்டுகிறேன் = お荷物をお持ちします / ご案内します",
+      "tamil_parallel_en": "Tamil: உங்கள் பையை நான் எடுத்து வருகிறேன் (I’ll carry your bag for you) = お荷物をお持ちします. உங்களுக்கு வழிகாட்டுகிறேன் (I’ll show you the way) = ご案内します.",
+      "formation": "お + V-ます stem + します\n持ちます → お持ちします\nご + N(する-வினை) + します\n案内します → ご案内します\nஒப்பிடுக: お持ちになります (மற்றவர்) / お持ちします (நான்)",
+      "formation_en": "お + V-ます stem + します\n持ちます → お持ちします\nご + N (する verb) + します\n案内します → ご案内します\nCompare: お持ちになります (others) / お持ちします (me)",
+      "examples": [
+        {
+          "ja": "重そうですね。荷物をお持ちしましょうか。",
+          "reading": "おもそうですね。にもつを おもちしましょうか。",
+          "romaji": "omosou desu ne. nimotsu o omochi shimashou ka.",
+          "ta": "கனமாக இருக்கும் போலிருக்கிறதே. உங்கள் பையை நான் தூக்கட்டுமா?",
+          "en": "That looks heavy. Shall I carry your bag?"
+        },
+        {
+          "ja": "私が会議室までご案内します。",
+          "reading": "わたしが かいぎしつまで ごあんないします。",
+          "romaji": "watashi ga kaigishitsu made goannai shimasu.",
+          "ta": "நான் உங்களைக் கூட்ட அறை வரை அழைத்துச் செல்கிறேன்.",
+          "en": "I’ll show you to the meeting room."
+        },
+        {
+          "ja": "地図はあとでファックスでお送りします。",
+          "reading": "ちずは あとで ファックスで おおくりします。",
+          "romaji": "chizu wa ato de fakkusu de ookuri shimasu.",
+          "ta": "வரைபடத்தைப் பிறகு ஃபேக்ஸில் அனுப்புகிறேன்.",
+          "en": "I’ll send you the map by fax later."
+        },
+        {
+          "ja": "では、駅の前でお待ちしています。",
+          "reading": "では、えきの まえで おまちして います。",
+          "romaji": "dewa, eki no mae de omachi shite imasu.",
+          "ta": "சரி, ரயில் நிலையத்தின் முன் உங்களுக்காகக் காத்திருக்கிறேன்.",
+          "en": "Then I’ll be waiting for you in front of the station."
+        },
+        {
+          "ja": "時間が決まったら、すぐにご連絡します。",
+          "reading": "じかんが きまったら、すぐに ごれんらくします。",
+          "romaji": "jikan ga kimattara, suguni gorenraku shimasu.",
+          "ta": "நேரம் முடிவானதும் உடனே உங்களுக்குத் தெரிவிக்கிறேன்.",
+          "en": "When the time is decided, I’ll contact you right away."
+        }
+      ],
+      "pitfalls_ta": "お持ちします (நான்) / お持ちになります (மற்றவர்) — ஒரு சொல் வேறுபாடு பொருளை முழுவதும் மாற்றும். 'ஆசிரியர் எடுத்துச் செல்கிறார்' என்பதை 先生がお持ちします என்று சொன்னால் தவறு.",
+      "pitfalls_en": "お持ちします (I) and お持ちになります (others) differ by one word, but the meaning is very different. 先生がお持ちします (\"the teacher carries\") is wrong."
+    },
+    {
+      "id": "g27-3",
+      "pattern": "お V-ます stem いたします",
+      "name": {
+        "en": "お〜いたします (extra humble)",
+        "ta": "お〜いたします (மேலும் பணிவு)"
+      },
+      "explanation_ta": "お〜します-இல் உள்ள します-ஐ அதன் பணிவுச் சொல்லான いたします-ஆக மாற்றினால் இன்னும் அதிகப் பணிவு கிடைக்கும்: お持ちいたします, お待ちいたします, ご案内いたします, ご連絡いたします. ஹோட்டல், விமான நிலையம், வங்கி, வணிகத் தொலைபேசி அழைப்பு போன்ற இடங்களில் ஊழியர்கள் அதிகம் பயன்படுத்துவார்கள். பொருள் お〜します-க்குச் சமம்; தொனி மட்டும் மேலும் முறைப்படியானது. தமிழில் 'அனுப்புகிறேன்' → 'அனுப்பி வைக்கிறேன்' → 'அனுப்பித் தருகிறேன், ஐயா' என்று பணிவு கூடுவது போன்றது.",
+      "explanation_en": "Change します in お〜します to its humble word いたします. Then it is even more humble: お持ちいたします, お待ちいたします, ご案内いたします, ご連絡いたします. Staff use it a lot in hotels, airports, banks and business calls. The meaning is the same as お〜します. It just sounds more formal. It is like Tamil going from அனுப்புகிறேன் (I’ll send) to அனுப்பி வைக்கிறேன் (I’ll kindly send).",
+      "tamil_parallel": "அனுப்புகிறேன் → அனுப்பி வைக்கிறேன் (ஐயா) = お送りします → お送りいたします",
+      "tamil_parallel_en": "Tamil அனுப்புகிறேன் (I’ll send) → அனுப்பி வைக்கிறேன் (I’ll kindly send) = お送りします → お送りいたします.",
+      "formation": "お + V-ます stem + いたします\nお待ちします → お待ちいたします\nご + N + いたします\nご案内します → ご案内いたします",
+      "formation_en": "お + V-ます stem + いたします\nお待ちします → お待ちいたします\nご + N + いたします\nご案内します → ご案内いたします",
+      "examples": [
+        {
+          "ja": "お部屋までお荷物をお持ちいたします。",
+          "reading": "おへやまで おにもつを おもちいたします。",
+          "romaji": "oheya made onimotsu o omochi itashimasu.",
+          "ta": "உங்கள் பைகளை அறை வரை எடுத்து வருகிறேன்.",
+          "en": "I will carry your luggage to your room."
+        },
+        {
+          "ja": "では、明日またお電話いたします。",
+          "reading": "では、あした また おでんわいたします。",
+          "romaji": "dewa, ashita mata odenwa itashimasu.",
+          "ta": "சரி, நாளை மீண்டும் தொலைபேசியில் அழைக்கிறேன்.",
+          "en": "Then I will call you again tomorrow."
+        },
+        {
+          "ja": "明日は十時に受付でお待ちいたしております。",
+          "reading": "あしたは じゅうじに うけつけで おまちいたして おります。",
+          "romaji": "ashita wa juuji ni uketsuke de omachi itashite orimasu.",
+          "ta": "நாளை பத்து மணிக்கு வரவேற்பு மேசையில் உங்களுக்காகக் காத்திருப்பேன்.",
+          "en": "Tomorrow I will be waiting for you at reception at ten."
+        },
+        {
+          "ja": "それでは、工場の中をご案内いたします。",
+          "reading": "それでは、こうじょうの なかを ごあんないいたします。",
+          "romaji": "sore dewa, koujou no naka o goannai itashimasu.",
+          "ta": "சரி, தொழிற்சாலையின் உள்ளே சுற்றிக் காட்டுகிறேன்.",
+          "en": "Now, I will show you around the factory."
+        },
+        {
+          "ja": "今日の写真は、あとでメールでお送りいたしましょうか。",
+          "reading": "きょうの しゃしんは、あとで メールで おおくりいたしましょうか。",
+          "romaji": "kyou no shashin wa, ato de meeru de ookuri itashimashou ka.",
+          "ta": "இன்றைய புகைப்படங்களைப் பிறகு மின்னஞ்சலில் அனுப்பி வைக்கட்டுமா?",
+          "en": "Shall I send you today’s photos by email later?"
+        }
+      ],
+      "pitfalls_ta": "いたします உங்கள் செயலுக்கு மட்டும். 'ஆசிரியர் விளக்குகிறார்' என்பதை 先生がご説明いたします என்று சொல்லக் கூடாது; 先生がご説明になります என்று சொல்ல வேண்டும்.",
+      "pitfalls_en": "いたします is only for your own actions. Don’t say 先生がご説明いたします for the teacher. Say 先生がご説明になります."
+    },
+    {
+      "id": "g27-4",
+      "pattern": "でございます / ございます",
+      "name": {
+        "en": "でございます / ございます (very polite です / あります)",
+        "ta": "でございます / ございます (மிக மரியாதையான です / あります)"
+      },
+      "explanation_ta": "です-இன் மிக மரியாதையான வடிவம் でございます; あります-இன் மிக மரியாதையான வடிவம் ございます. கடைகள், ஹோட்டல்கள், வரவேற்பு மேசை, தொலைபேசியில் நிறுவனப் பெயர் சொல்லும்போது அதிகம் கேட்கலாம்: はい、さくら銀行でございます / お手洗いは二階にございます. இதனுடன் いい-இன் மரியாதை வடிவமான よろしい-வும் சேர்ந்து வரும்: よろしいでしょうか (சரியா?). ございます பொருட்களுக்கு மட்டும்; மனிதர்கள் இருப்பதற்கு (いる) おります / いらっしゃいます பயன்படுத்த வேண்டும்.",
+      "explanation_en": "でございます is a very polite です. ございます is a very polite あります. You hear them in shops, hotels, at reception and on business phone calls: はい、さくら銀行でございます (Hello, this is Sakura Bank). お手洗いは二階にございます (The restroom is on the second floor). いい also has a polite word, よろしい: よろしいでしょうか (Is that all right?). ございます is for things only. For people, use おります or いらっしゃいます.",
+      "tamil_parallel": "இது சகுரா வங்கி (ஆகும்) / கழிவறை இரண்டாவது மாடியில் உள்ளது = さくら銀行でございます / 二階にございます",
+      "tamil_parallel_en": "Formal Tamil uses ஆகும் and உள்ளது: சகுரா வங்கி ஆகும் = さくら銀行でございます, இரண்டாவது மாடியில் உள்ளது = 二階にございます.",
+      "formation": "N + です → N + でございます\nN が あります → N が ございます\nいいです → よろしいです",
+      "formation_en": "N + です → N + でございます\nN が あります → N が ございます\nいいです → よろしいです",
+      "examples": [
+        {
+          "ja": "はい、さくら銀行でございます。",
+          "reading": "はい、さくらぎんこうで ございます。",
+          "romaji": "hai, sakura ginkou de gozaimasu.",
+          "ta": "வணக்கம், இது சகுரா வங்கி.",
+          "en": "Hello, this is Sakura Bank."
+        },
+        {
+          "ja": "お手洗いはあちらにございます。",
+          "reading": "おてあらいは あちらに ございます。",
+          "romaji": "otearai wa achira ni gozaimasu.",
+          "ta": "கழிவறை அந்தப் பக்கம் உள்ளது.",
+          "en": "The restroom is over there."
+        },
+        {
+          "ja": "こちらは新しいかばんでございます。色は三つございます。",
+          "reading": "こちらは あたらしい かばんで ございます。いろは みっつ ございます。",
+          "romaji": "kochira wa atarashii kaban de gozaimasu. iro wa mittsu gozaimasu.",
+          "ta": "இது புதிய பை. மூன்று நிறங்களில் உள்ளது.",
+          "en": "This is our new bag. It comes in three colours."
+        },
+        {
+          "ja": "申し訳ございません。その色はございません。",
+          "reading": "もうしわけ ございません。その いろは ございません。",
+          "romaji": "moushiwake gozaimasen. sono iro wa gozaimasen.",
+          "ta": "மன்னிக்கவும். அந்த நிறம் இல்லை.",
+          "en": "I’m very sorry. We don’t have that colour."
+        },
+        {
+          "ja": "お客様、お席はこちらでよろしいでしょうか。",
+          "reading": "おきゃくさま、おせきは こちらで よろしいでしょうか。",
+          "romaji": "okyakusama, oseki wa kochira de yoroshii deshou ka.",
+          "ta": "ஐயா, உங்கள் இருக்கை இங்கே சரியா?",
+          "en": "Sir, is this seat all right for you?"
+        }
+      ],
+      "pitfalls_ta": "இடத்தைச் சொல்லும்போது 'に + ございます' (二階にございます), 'இது ~ ஆகும்' என்று சொல்லும்போது 'で + ございます' (銀行でございます). 'ラジャでございます' என்று உங்களைச் சொல்லலாம், ஆனால் 'மனிதர் இருக்கிறார்' என்பதற்கு ございます வராது.",
+      "pitfalls_en": "For a place, use に + ございます (二階にございます). To say \"this is X\", use で + ございます (銀行でございます). You can say ラジャでございます about yourself. But don’t use ございます for a person being somewhere."
+    },
+    {
+      "id": "g27-5",
+      "pattern": "V-causative-ていただきます",
+      "name": {
+        "en": "〜させていただきます (let me humbly …)",
+        "ta": "〜させていただきます (அனுமதியுடன் செய்கிறேன்)"
+      },
+      "explanation_ta": "பாடம் 24-இல் கற்ற காரண வடிவம் (〜させる) + ていただきます. நேரடிப் பொருள் 'நீங்கள் என்னைச் செய்ய அனுமதித்ததைப் பணிவுடன் பெறுகிறேன்', அதாவது 'உங்கள் அனுமதியுடன் நான் ~ செய்கிறேன்'. கூட்டங்களிலும் அறிவிப்புகளிலும் உங்கள் செயலைப் பணிவாக அறிவிக்கப் பயன்படும்: 説明させていただきます (விளக்குகிறேன்), 明日は休ませていただきます (நாளை விடுப்பு எடுத்துக்கொள்கிறேன்). அனுமதி கேட்க வேண்டுமானால் 〜させていただけませんか (பாடம் 24). தமிழில் 'உங்கள் அனுமதியுடன் சில வார்த்தைகள் சொல்கிறேன்' என்பதைப் போன்றது.",
+      "explanation_en": "This is the causative from Lesson 24 (〜させる) + ていただきます. Word by word: \"I humbly receive your letting me do it.\" So it means \"with your permission, I will do ~\". Use it to announce your own action politely in meetings and notices. 説明させていただきます (Let me explain). 明日は休ませていただきます (I will take tomorrow off). To ask for permission, use 〜させていただけませんか (Lesson 24). It is like Tamil உங்கள் அனுமதியுடன் சொல்கிறேன் (with your permission, I say).",
+      "tamil_parallel": "உங்கள் அனுமதியுடன் விளக்குகிறேன் = 説明させていただきます",
+      "tamil_parallel_en": "Tamil உங்கள் அனுமதியுடன் விளக்குகிறேன் (with your permission, I’ll explain) = 説明させていただきます.",
+      "formation": "V-causative (て-வடிவம்) + いただきます\n説明する → 説明させて いただきます\n休む → 休ませて いただきます\n使う → 使わせて いただきます",
+      "formation_en": "V-causative (て-form) + いただきます\n説明する → 説明させて いただきます\n休む → 休ませて いただきます\n使う → 使わせて いただきます",
+      "examples": [
+        {
+          "ja": "それでは、新しい計画について説明させていただきます。",
+          "reading": "それでは、あたらしい けいかくに ついて せつめいさせて いただきます。",
+          "romaji": "sore dewa, atarashii keikaku ni tsuite setsumei sasete itadakimasu.",
+          "ta": "சரி, புதிய திட்டம் பற்றி விளக்குகிறேன்.",
+          "en": "Now, let me explain the new plan."
+        },
+        {
+          "ja": "熱があるので、今日は休ませていただきます。",
+          "reading": "ねつが あるので、きょうは やすませて いただきます。",
+          "romaji": "netsu ga aru node, kyou wa yasumasete itadakimasu.",
+          "ta": "காய்ச்சல் இருப்பதால், இன்று விடுப்பு எடுத்துக்கொள்கிறேன்.",
+          "en": "I have a fever, so I will take today off."
+        },
+        {
+          "ja": "この会議室を少し使わせていただきます。",
+          "reading": "この かいぎしつを すこし つかわせて いただきます。",
+          "romaji": "kono kaigishitsu o sukoshi tsukawasete itadakimasu.",
+          "ta": "இந்தக் கூட்ட அறையைச் சிறிது நேரம் பயன்படுத்திக்கொள்கிறேன்.",
+          "en": "I will use this meeting room for a little while."
+        },
+        {
+          "ja": "では、今日はこれで帰らせていただきます。",
+          "reading": "では、きょうは これで かえらせて いただきます。",
+          "romaji": "dewa, kyou wa kore de kaerasete itadakimasu.",
+          "ta": "சரி, இன்று இத்துடன் கிளம்புகிறேன்.",
+          "en": "Well then, I will leave now for today."
+        },
+        {
+          "ja": "その仕事、私にやらせていただけませんか。",
+          "reading": "その しごと、わたしに やらせて いただけませんか。",
+          "romaji": "sono shigoto, watashi ni yarasete itadakemasen ka.",
+          "ta": "அந்த வேலையை நான் செய்ய அனுமதிப்பீர்களா?",
+          "en": "Could you let me do that job?"
+        }
+      ],
+      "pitfalls_ta": "説明していただきます (நீங்கள் எனக்கு விளக்குவீர்கள்) / 説明させていただきます (நான் விளக்குகிறேன்) — させ இல்லையென்றால் செய்பவர் மாறிவிடும். கவனம்.",
+      "pitfalls_en": "説明していただきます means you explain it for me. 説明させていただきます means I explain. Without させ, the person doing the action changes. Be careful."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-022",
+    "n4-v-043",
+    "n4-v-107",
+    "n4-v-119",
+    "n4-v-241",
+    "n4-v-254",
+    "n4-v-290",
+    "n4-v-305",
+    "n4-v-306",
+    "n4-v-312",
+    "n4-v-372",
+    "n4-v-433",
+    "n4-v-468",
+    "n4-v-481",
+    "n4-v-487",
+    "n4-v-504",
+    "n4-v-505",
+    "n4-v-557",
+    "n4-v-604"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L27-q01",
+        "type": "kanji_reading",
+        "sentence": "＿受付＿で 名前を 書いて ください。",
+        "target": "受付",
+        "options": [
+          "うけづけ",
+          "じゅつけ",
+          "うけつけ",
+          "うけとり"
+        ],
+        "answer": 2,
+        "explanation_ta": "受付 = うけつけ (வரவேற்பு மேசை). つ-வுக்கு மெய்யொலி மாற்றம் (づ) இல்லை. うけとり என்பது 'பெற்றுக்கொள்ளுதல்', வேறு சொல்.",
+        "explanation_en": "受付 = うけつけ (வரவேற்பு மேசை, reception). つ does not change to づ here. うけとり (receiving) is a different word."
+      },
+      {
+        "id": "L27-q02",
+        "type": "kanji_reading",
+        "sentence": "父は 今 ＿留守＿に して おります。",
+        "target": "留守",
+        "options": [
+          "るす",
+          "りゅうす",
+          "とめす",
+          "るうす"
+        ],
+        "answer": 0,
+        "explanation_ta": "留守 = るす (வீட்டில் இல்லாமை). 留学 (りゅうがく) போல りゅう என்று வாசிக்க வேண்டாம்; இந்தச் சொல்லில் る.",
+        "explanation_en": "留守 = るす (வீட்டில் இல்லாமை, away from home). In 留学 it is りゅう, but in this word it is る."
+      },
+      {
+        "id": "L27-q03",
+        "type": "kanji_reading",
+        "sentence": "駅まで 私が ご＿案内＿します。",
+        "target": "案内",
+        "options": [
+          "あない",
+          "かんない",
+          "あんねい",
+          "あんない"
+        ],
+        "answer": 3,
+        "explanation_ta": "案内 = あんない (வழிகாட்டுதல்). 内 = ない; ねい அல்ல.",
+        "explanation_en": "案内 = あんない (வழிகாட்டுதல், guiding). 内 is read ない, not ねい."
+      },
+      {
+        "id": "L27-q04",
+        "type": "orthography",
+        "sentence": "お客様の 切符を ＿はいけん＿します。",
+        "target": "はいけん",
+        "options": [
+          "配見",
+          "拝見",
+          "拝験",
+          "杯見"
+        ],
+        "answer": 1,
+        "explanation_ta": "はいけん = 拝見 (பணிவாகப் பார்த்தல்). 拝 = வணங்குதல்; 配 (விநியோகம்) அல்ல. 見 = பார்த்தல்.",
+        "explanation_en": "はいけん = 拝見 (பணிவாகப் பார்த்தல், to look at, humble). 拝 means to bow, not 配 (deliver). 見 means to see."
+      },
+      {
+        "id": "L27-q05",
+        "type": "orthography",
+        "sentence": "会議の 時間を 田中さんに ＿つたえて＿ ください。",
+        "target": "つたえて",
+        "options": [
+          "云えて",
+          "転えて",
+          "伝えて",
+          "代えて"
+        ],
+        "answer": 2,
+        "explanation_ta": "つたえる = 伝える (செய்தி தெரிவித்தல்). 代える (かえる, மாற்றுதல்) வடிவம் ஒத்திருந்தாலும் வாசிப்பும் பொருளும் வேறு.",
+        "explanation_en": "つたえる = 伝える (தெரிவிக்க, pass on). 代える looks similar, but it is read かえる and means \"replace\"."
+      },
+      {
+        "id": "L27-q06",
+        "type": "vocab_context",
+        "sentence": "新しい 会社に 入ったら、まず 部長に （　　）に 行きましょう。",
+        "options": [
+          "るす",
+          "あいさつ",
+          "うけつけ",
+          "ファックス"
+        ],
+        "answer": 1,
+        "explanation_ta": "புதிய நிறுவனத்தில் சேர்ந்ததும் மேலதிகாரியிடம் வணக்கம் சொல்லப் போவது = あいさつに行く. るす (வீட்டில் இல்லாமை) பொருந்தாது.",
+        "explanation_en": "When you join a company, you go to greet your boss: あいさつに行く (வணக்கம் சொல்லப் போக). るす (being away) doesn’t fit."
+      },
+      {
+        "id": "L27-q07",
+        "type": "vocab_context",
+        "sentence": "メールが 使えないので、地図を （　　）で 送ります。",
+        "options": [
+          "受付",
+          "留守",
+          "案内",
+          "ファックス"
+        ],
+        "answer": 3,
+        "explanation_ta": "மின்னஞ்சல் வேலை செய்யாததால் வேறு வழியில் அனுப்புவது = ファックスで送ります. 受付 என்பது இடம்; அதனால் 'அனுப்ப' முடியாது.",
+        "explanation_en": "Email doesn’t work, so you send it another way: ファックスで送ります (ஃபேக்ஸில் அனுப்புகிறேன்). 受付 is a place, not a way to send."
+      },
+      {
+        "id": "L27-q08",
+        "type": "vocab_context",
+        "sentence": "田中さんの 家に 電話を かけましたが、（　　）でした。",
+        "options": [
+          "留守",
+          "失礼",
+          "丁寧",
+          "承知"
+        ],
+        "answer": 0,
+        "explanation_ta": "யாரும் போனை எடுக்கவில்லை = வீட்டில் யாரும் இல்லை = 留守でした. 承知 (புரிந்துகொள்ளுதல்) பொருந்தாது.",
+        "explanation_en": "Nobody answered, so nobody was home: 留守でした (வீட்டில் இல்லை). 承知 (understand) doesn’t fit."
+      },
+      {
+        "id": "L27-q09",
+        "type": "vocab_context",
+        "sentence": "すみません、駅へ 行く 道を （　　）たいんですが。",
+        "options": [
+          "まいり",
+          "いたし",
+          "うかがい",
+          "申し"
+        ],
+        "answer": 2,
+        "explanation_ta": "'வழியைக் கேட்க விரும்புகிறேன்' = 道をうかがいたい (うかがう = 聞く-வின் பணிவு). 申す (சொல்லுதல்) 'வழியை' என்ற பொருளுடன் பொருந்தாது.",
+        "explanation_en": "\"I’d like to ask the way\" = 道をうかがいたい (கேட்க). うかがう is the humble 聞く. 申す (say) doesn’t fit 道を."
+      },
+      {
+        "id": "L27-q10",
+        "type": "vocab_context",
+        "sentence": "「この 仕事を 明日までに お願いします。」「はい、（　　）しました。」",
+        "options": [
+          "拝見",
+          "承知",
+          "紹介",
+          "留守"
+        ],
+        "answer": 1,
+        "explanation_ta": "மேலதிகாரியின் கோரிக்கைக்கு 'சரி, புரிந்துகொண்டேன்' = 承知しました (わかりました-இன் பணிவு). 拝見しました என்றால் 'பார்த்தேன்'.",
+        "explanation_en": "To a request from your boss, answer 承知しました (புரிந்துகொண்டேன், certainly). It is a humble わかりました. 拝見しました means \"I saw it\"."
+      },
+      {
+        "id": "L27-q11",
+        "type": "paraphrase",
+        "sentence": "私は ラジャと 申します。",
+        "options": [
+          "私の 名前は ラジャです。",
+          "私は ラジャさんに 言いました。",
+          "ラジャさんが 私に 言いました。",
+          "私は ラジャさんを 知って います。"
+        ],
+        "answer": 0,
+        "explanation_ta": "〜と申します = 'என் பெயர் ~'. 申す என்பது 言う-வின் பணிவு, ஆனால் இங்கே பெயர் சொல்லும் தொடர். 'ராஜாவிடம் சொன்னேன்' என்பது வேறு பொருள்.",
+        "explanation_en": "〜と申します = \"my name is ~\" (என் பெயர்). 申す is the humble 言う, used here to give your name. \"I told Raja\" is a different meaning."
+      },
+      {
+        "id": "L27-q12",
+        "type": "paraphrase",
+        "sentence": "明日、先生の 事務所に 伺います。",
+        "options": [
+          "明日、先生が 事務所に 来ます。",
+          "明日、先生に 事務所で 聞きます。",
+          "明日、先生の 事務所を 見ます。",
+          "明日、先生の 事務所に 行きます。"
+        ],
+        "answer": 3,
+        "explanation_ta": "N に伺います = N-க்குச் சந்திக்கப் போகிறேன் (行きます-இன் பணிவு). 伺う 聞く என்ற பொருளும் தரும், ஆனால் '事務所に' என்பதால் இங்கே 'போதல்'.",
+        "explanation_en": "N に伺います = I will visit N (humble 行きます, போகிறேன்). 伺う can also mean 聞く, but with 事務所に it means \"go\"."
+      },
+      {
+        "id": "L27-q13",
+        "type": "usage",
+        "sentence": "伝える",
+        "options": [
+          "毎朝 七時に 家を 伝えます。",
+          "この 荷物を 駅まで 伝えて ください。",
+          "友達に 誕生日の プレゼントを 伝えました。",
+          "田中さんに 会議は 三時からだと 伝えて ください。"
+        ],
+        "answer": 3,
+        "explanation_ta": "伝える = செய்தி / தகவலைத் தெரிவிப்பது. 'கூட்டம் மூன்று மணிக்கு என்று சொல்லுங்கள்' சரி. பொருளை எடுத்துச் செல்வது 運ぶ / 持っていく; பரிசு கொடுப்பது あげる.",
+        "explanation_en": "伝える = pass on a message or information (தெரிவிக்க). \"Tell him the meeting is at three\" is right. Carrying a bag is 運ぶ. Giving a present is あげる."
+      },
+      {
+        "id": "L27-q14",
+        "type": "usage",
+        "sentence": "留守",
+        "options": [
+          "私が 留守の ときに、友達が 来たそうです。",
+          "この 部屋は いつも 留守なので、静かです。",
+          "明日は 留守に 雨が 降るでしょう。",
+          "留守な 人に 手紙を 書きました。"
+        ],
+        "answer": 0,
+        "explanation_ta": "留守 = ஒருவர் வீட்டில் (தன் இடத்தில்) இல்லாத நிலை. 'நான் வீட்டில் இல்லாதபோது நண்பர் வந்தாராம்' சரி. 留守 பெயர்ச்சொல்; 留守な என்று な சேர்க்கக் கூடாது.",
+        "explanation_en": "留守 = a person is away from home (வீட்டில் இல்லாமை). \"A friend came while I was out\" is right. 留守 is a noun, so 留守な is wrong."
+      },
+      {
+        "id": "L27-q15",
+        "type": "grammar_form",
+        "sentence": "重そうですね。私が （　　）しましょうか。",
+        "options": [
+          "お持って",
+          "ご持ち",
+          "お持ち",
+          "持って"
+        ],
+        "answer": 2,
+        "explanation_ta": "பணிவு வடிவம்: お + ます-stem + します → お持ちします. 持つ ஜப்பானிய மூலச் சொல் என்பதால் ご வராது; て-வடிவமும் வராது.",
+        "explanation_en": "Humble form: お + ます-stem + します → お持ちします (நான் தூக்குகிறேன், I’ll carry it). 持つ is a Japanese word, so no ご. No て-form either."
+      },
+      {
+        "id": "L27-q16",
+        "type": "grammar_form",
+        "sentence": "私が 会議室まで （　　）します。",
+        "options": [
+          "ご案内",
+          "お案内",
+          "ご案内に",
+          "案内に"
+        ],
+        "answer": 0,
+        "explanation_ta": "案内 சீன மூல する-சொல் → ご案内します. お案内 தவறு. ご案内にします என்று に சேர்க்கக் கூடாது.",
+        "explanation_en": "案内 is a Chinese-style する word → ご案内します (வழிகாட்டுகிறேன்). お案内 is wrong. Don’t add に."
+      },
+      {
+        "id": "L27-q17",
+        "type": "grammar_form",
+        "sentence": "「明日は 事務所に いらっしゃいますか。」「はい、一日中 （　　）。」",
+        "options": [
+          "いらっしゃいます",
+          "おいでになります",
+          "ございます",
+          "おります"
+        ],
+        "answer": 3,
+        "explanation_ta": "தன்னைப் பற்றிப் பதில் சொல்லும்போது பணிவுச் சொல் おります. கேள்வியில் உள்ள いらっしゃいます மற்றவருக்கு மட்டும்; ございます பொருட்களுக்கு.",
+        "explanation_en": "You answer about yourself, so use the humble おります (இருப்பேன்). いらっしゃいます in the question is only for others. ございます is for things."
+      },
+      {
+        "id": "L27-q18",
+        "type": "grammar_form",
+        "sentence": "この かばんは、ほかの 色も （　　）。",
+        "options": [
+          "おります",
+          "でございます",
+          "ございます",
+          "参ります"
+        ],
+        "answer": 2,
+        "explanation_ta": "'வேறு நிறங்களும் இருக்கின்றன' = あります-இன் மரியாதை ございます. おります மனிதர்களுக்கு; でございます 'ஆகும்' என்ற பொருள், இங்கே பொருந்தாது.",
+        "explanation_en": "\"There are other colours too\" = ございます (polite あります, உள்ளன). おります is for people. でございます means \"is\" and doesn’t fit."
+      },
+      {
+        "id": "L27-q19",
+        "type": "grammar_form",
+        "sentence": "こちらが 新しい 会議室（　　）。",
+        "options": [
+          "にございます",
+          "でございます",
+          "がございます",
+          "をいたします"
+        ],
+        "answer": 1,
+        "explanation_ta": "'இதுதான் புதிய கூட்ட அறை' = 会議室です → 会議室でございます. にございます இடத்தைச் சொல்லும்போது மட்டும்.",
+        "explanation_en": "\"This is the new meeting room\" = 会議室です → 会議室でございます (ஆகும்). にございます is only for saying where something is."
+      },
+      {
+        "id": "L27-q20",
+        "type": "grammar_form",
+        "sentence": "それでは、私から 新しい 計画について 説明（　　）。",
+        "options": [
+          "して いただきます",
+          "されます",
+          "させられます",
+          "させて いただきます"
+        ],
+        "answer": 3,
+        "explanation_ta": "'நான் விளக்குகிறேன்' என்று பணிவாக அறிவிப்பது = 説明させていただきます. していただきます என்றால் மற்றவர் எனக்காக விளக்குவார்; されます மற்றவருக்கான மரியாதை.",
+        "explanation_en": "Announcing \"I will explain\" humbly = 説明させていただきます (விளக்குகிறேன்). していただきます means someone explains for me. されます is respect for others."
+      },
+      {
+        "id": "L27-q21",
+        "type": "grammar_form",
+        "sentence": "「田中先生を （　　）か。」「いいえ、存じません。」",
+        "options": [
+          "存じております",
+          "ご存じです",
+          "存じます",
+          "ご存じします"
+        ],
+        "answer": 1,
+        "explanation_ta": "மற்றவரிடம் 'உங்களுக்குத் தெரியுமா?' என்று கேட்பது = ご存じですか (மரியாதை). 存じております என்பது 'எனக்குத் தெரியும்' (பணிவு), கேள்விக்கு அல்ல.",
+        "explanation_en": "Asking \"Do you know?\" = ご存じですか (தெரியுமா?, respectful). 存じております means \"I know\" (humble). It is for answers, not questions."
+      },
+      {
+        "id": "L27-q22",
+        "type": "sentence_order",
+        "before": "では、",
+        "chunks": [
+          "明日",
+          "九時に",
+          "そちらへ",
+          "参ります"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: では、明日九時にそちらへ参ります (சரி, நாளை ஒன்பது மணிக்கு அங்கே வருகிறேன்). நேரம் → இடம் → வினை.",
+        "explanation_en": "The sentence: では、明日九時にそちらへ参ります (Then I’ll come to you at nine tomorrow). Time → place → verb."
+      },
+      {
+        "id": "L27-q23",
+        "type": "sentence_order",
+        "before": "重そうですね。",
+        "chunks": [
+          "その",
+          "荷物を",
+          "お持ち",
+          "しましょうか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: 重そうですね。その荷物をお持ちしましょうか (அந்தப் பையை நான் தூக்கட்டுமா?). お持ち + しましょうか சேர்ந்து வரும்.",
+        "explanation_en": "The sentence: その荷物をお持ちしましょうか (Shall I carry that bag for you?). お持ち and しましょうか go together."
+      },
+      {
+        "id": "L27-q24",
+        "type": "sentence_order",
+        "before": "熱が あるので、今日は",
+        "chunks": [
+          "早く",
+          "帰らせて",
+          "いただき",
+          "たい"
+        ],
+        "star": 1,
+        "after": "のですが。",
+        "explanation_ta": "சரியான வாக்கியம்: 今日は早く帰らせていただきたいのですが (இன்று சீக்கிரம் கிளம்ப அனுமதி வேண்டும்). காரண வடிவம் 帰らせて + いただきたい.",
+        "explanation_en": "The sentence: 今日は早く帰らせていただきたいのですが (I’d like to leave early today, if I may). Causative 帰らせて + いただきたい."
+      },
+      {
+        "id": "L27-q25",
+        "type": "passage_cloze",
+        "passage": "「はい、さくら銀行［1］。」「インド銀行の ラジャと 申しますが、山田部長は いらっしゃいますか。」「すみません。山田は 今 ［2］。」「そうですか。では、明日 もう一度 お電話［3］。」",
+        "blanks": [
+          {
+            "options": [
+              "ございます",
+              "でございます",
+              "におります",
+              "いたします"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "出かけて おります",
+              "出かけて いらっしゃいます",
+              "お出かけに なります",
+              "出かけて ください"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "なさいます",
+              "いたします",
+              "に なります",
+              "ください"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ தொலைபேசியில் நிறுவனப் பெயர்: 銀行です → 銀行でございます. ［2］ வெளியாளிடம் சொந்த மேலதிகாரி பற்றி பணிவுச் சொல்: 出かけております; いらっしゃいます இங்கே தவறு. ［3］ தன் செயல் → お電話いたします; なさいます மற்றவருக்கு.",
+        "explanation_en": "[1] Giving the company name on the phone: 銀行です → 銀行でございます. [2] To an outsider, talk about your own boss humbly: 出かけております (வெளியே சென்றிருக்கிறார்). いらっしゃいます is wrong here. [3] Your own action → お電話いたします (அழைக்கிறேன்). なさいます is for others."
+      }
+    ]
+  }
+}

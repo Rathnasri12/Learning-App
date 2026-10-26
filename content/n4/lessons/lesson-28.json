@@ -1,0 +1,705 @@
+{
+  "lesson": 28,
+  "title": {
+    "ja": "日本にいる間に、いろいろな所へ行きたいです",
+    "ta": "ஜப்பானில் இருக்கும்போதே பல இடங்களுக்குப் போக வேண்டும்",
+    "en": "While I’m in Japan I want to see many places"
+  },
+  "intro_ta": "இந்தப் பாடத்தில் நேரத்தைப் பற்றிய நுட்பமான வேறுபாடுகளைக் கற்போம்: ஒரு காலம் முழுவதும் (間), அந்தக் காலத்துக்குள் ஒரு நேரத்தில் (間に), ஒரு நிலை மாறுவதற்கு முன்பே (うちに). மேலும் 'செருப்பு போட்டபடியே' (まま) என்று ஒரு நிலையை மாற்றாமல் விடுவதையும், '~ஆகிக்கொண்டு வருகிறது / ~ஆகிக்கொண்டே போகும்' (〜てきます / 〜ていきます) என்று மாற்றத்தைச் சொல்வதையும் கற்போம். ஜப்பானில் கோவில்கள், திருவிழாக்கள், செர்ரிப் பூக்கள், இயற்கைக் காட்சிகள் பற்றிப் பேசிப் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you learn small but important time words. 間 means \"for the whole time\". 間に means \"at some point during that time\". うちに means \"before it changes\". You also learn まま, \"leaving things as they are\", like \"with your shoes on\". And you learn 〜てきます and 〜ていきます to talk about change: \"it has been getting ~\" and \"it will keep getting ~\". You will practise talking about temples, festivals, cherry blossoms and scenery in Japan.",
+  "grammar": [
+    {
+      "id": "g28-1",
+      "pattern": "V-ている / N の 間、〜",
+      "name": {
+        "en": "〜間 (for the whole time)",
+        "ta": "〜間 (அந்த நேரம் முழுவதும்)"
+      },
+      "explanation_ta": "間 (あいだ) என்பது ஒரு காலப்பகுதியைக் குறிக்கும். 'A 間、B' என்றால் A நடக்கும் காலம் முழுவதும் B-யும் தொடர்ந்து நடக்கிறது என்று பொருள். அதனால் B பெரும்பாலும் தொடர் செயலாக இருக்கும்: 〜ています、ずっと〜. உருவாக்கம்: V-ている + 間 (待っている間), N + の + 間 (夏休みの間). தமிழில் 'நான் காத்திருந்த நேரம் முழுவதும் புத்தகம் படித்துக்கொண்டிருந்தேன்' என்பது போல. 〜ながら (பாடம் N5) ஒரே ஆள் இரண்டு செயல்களை ஒரே நேரத்தில் செய்வது; 間 இரண்டு வெவ்வேறு ஆட்களின் செயல்களுக்கும் வரும்.",
+      "explanation_en": "間 (あいだ) means a period of time. \"A 間、B\" means B goes on for the whole time A happens. So B is usually a continuing action, often with 〜ています or ずっと. Form: V-ている + 間 (待っている間), or N + の + 間 (夏休みの間). In Tamil: \"the whole time I waited, I was reading\" (காத்திருந்த நேரம் முழுவதும்). 〜ながら (N5) is one person doing two things at once. 間 can join actions of two different people.",
+      "tamil_parallel": "நான் காத்திருந்த நேரம் முழுவதும் புத்தகம் படித்துக்கொண்டிருந்தேன் = 待っている間、ずっと本を読んでいました",
+      "tamil_parallel_en": "Tamil காத்திருந்த நேரம் முழுவதும் (the whole time I waited) = 待っている間.",
+      "formation": "V-ている + 間、〜(ています / ずっと〜)\nN + の + 間、〜\n待っている間、本を読んでいました\n夏休みの間、国に帰っていました",
+      "formation_en": "V-ている + 間、〜 (ています / ずっと〜)\nN + の + 間、〜\n待っている間、本を読んでいました\n夏休みの間、国に帰っていました",
+      "examples": [
+        {
+          "ja": "電車に乗っている間、ずっと景色を見ていました。",
+          "reading": "でんしゃに のって いる あいだ、ずっと けしきを みて いました。",
+          "romaji": "densha ni notte iru aida, zutto keshiki o mite imashita.",
+          "ta": "ரயிலில் பயணம் செய்த நேரம் முழுவதும் வெளியே காட்சிகளைப் பார்த்துக்கொண்டிருந்தேன்.",
+          "en": "I looked at the scenery the whole time I was on the train."
+        },
+        {
+          "ja": "夏休みの間、チェンナイの家に帰っていました。",
+          "reading": "なつやすみの あいだ、チェンナイの いえに かえって いました。",
+          "romaji": "natsuyasumi no aida, chennai no ie ni kaette imashita.",
+          "ta": "கோடை விடுமுறை முழுவதும் சென்னை வீட்டில் இருந்தேன்.",
+          "en": "I was back home in Chennai for the whole summer holiday."
+        },
+        {
+          "ja": "母が料理を作っている間、私は部屋を掃除しました。",
+          "reading": "ははが りょうりを つくって いる あいだ、わたしは へやを そうじしました。",
+          "romaji": "haha ga ryouri o tsukutte iru aida, watashi wa heya o souji shimashita.",
+          "ta": "அம்மா சமைத்துக்கொண்டிருந்த நேரத்தில் நான் அறையைச் சுத்தம் செய்தேன்.",
+          "en": "While my mother was cooking, I cleaned the room."
+        },
+        {
+          "ja": "先生が話している間、だれも話しませんでした。",
+          "reading": "せんせいが はなして いる あいだ、だれも はなしませんでした。",
+          "romaji": "sensei ga hanashite iru aida, dare mo hanashimasen deshita.",
+          "ta": "ஆசிரியர் பேசிக்கொண்டிருந்த நேரம் முழுவதும் யாரும் பேசவில்லை.",
+          "en": "Nobody talked the whole time the teacher was speaking."
+        },
+        {
+          "ja": "お祭りの間、この道は車が通れません。",
+          "reading": "おまつりの あいだ、この みちは くるまが とおれません。",
+          "romaji": "omatsuri no aida, kono michi wa kuruma ga tooremasen.",
+          "ta": "திருவிழா நடக்கும் நேரம் முழுவதும் இந்தச் சாலையில் வண்டிகள் போக முடியாது.",
+          "en": "Cars can’t use this road during the festival."
+        }
+      ],
+      "pitfalls_ta": "間-க்குப் பின் ஒரு முறை மட்டும் நடக்கும் செயலைச் சொல்ல வேண்டாம் (待っている間、電話が来ました ✗). ஒரு முறை நடப்பதற்கு அடுத்த பாடப்பகுதியின் 間に பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Don’t use 間 with a one-time event (待っている間、電話が来ました is wrong). For one event, use 間に (next point)."
+    },
+    {
+      "id": "g28-2",
+      "pattern": "V-ている / N の 間に、〜",
+      "name": {
+        "en": "〜間に (at some point during)",
+        "ta": "〜間に (அந்த நேரத்துக்குள்)"
+      },
+      "explanation_ta": "間 + に சேர்ந்தால், அந்தக் காலப்பகுதிக்குள் ஏதோ ஒரு நேரத்தில் B ஒரு முறை நடந்தது (அல்லது நடக்க வேண்டும்) என்று பொருள். 'A 間に、B' — B ஒரு முடிவுற்ற செயல்: 寝ている間に、地震がありました (நான் தூங்கிக்கொண்டிருந்தபோது நிலநடுக்கம் வந்தது). தமிழில் '~இருக்கும்போது (அதற்குள்)' என்பதைப் போன்றது. 間 = காலம் முழுவதும் தொடர்ந்தது; 間に = காலத்துக்குள் ஒரு புள்ளி. 'ஜப்பானில் இருக்கும்போது ஒருமுறை புஜி மலை ஏற வேண்டும்' என்பதற்கு 日本にいる間に.",
+      "explanation_en": "With に, 間に means B happens once, at some point inside that period. \"A 間に、B\": B is a finished, one-time action. 寝ている間に、地震がありました (There was an earthquake while I was asleep). In Tamil it is like \"while ~ (within that time)\". 間 = for the whole time. 間に = at one point in that time. \"While I’m in Japan, I want to climb Mt. Fuji once\" = 日本にいる間に.",
+      "tamil_parallel": "நான் தூங்கிக்கொண்டிருந்தபோது (அதற்குள்) திருடன் வந்தான் = 寝ている間に、どろぼうが入りました",
+      "tamil_parallel_en": "Tamil தூங்கிக்கொண்டிருந்தபோது (while I was asleep), with one event inside that time = 寝ている間に.",
+      "formation": "V-ている + 間に、〜(ஒரு முறை நடக்கும் செயல்)\nN + の + 間に、〜\nஒப்பிடுக: 間 = முழு நேரமும் / 間に = அதற்குள் ஒரு முறை",
+      "formation_en": "V-ている + 間に、〜 (one-time action)\nN + の + 間に、〜\nCompare: 間 = the whole time / 間に = once, inside that time",
+      "examples": [
+        {
+          "ja": "日本にいる間に、富士山に登りたいです。",
+          "reading": "にほんに いる あいだに、ふじさんに のぼりたいです。",
+          "romaji": "nihon ni iru aida ni, fujisan ni noboritai desu.",
+          "ta": "ஜப்பானில் இருக்கும்போதே புஜி மலையில் ஏற விரும்புகிறேன்.",
+          "en": "While I’m in Japan, I want to climb Mt. Fuji."
+        },
+        {
+          "ja": "寝ている間に、小さい地震がありました。",
+          "reading": "ねて いる あいだに、ちいさい じしんが ありました。",
+          "romaji": "nete iru aida ni, chiisai jishin ga arimashita.",
+          "ta": "நான் தூங்கிக்கொண்டிருந்தபோது சிறிய நிலநடுக்கம் வந்தது.",
+          "en": "There was a small earthquake while I was asleep."
+        },
+        {
+          "ja": "留守の間に、友達が来たそうです。",
+          "reading": "るすの あいだに、ともだちが きたそうです。",
+          "romaji": "rusu no aida ni, tomodachi ga kita sou desu.",
+          "ta": "நான் வீட்டில் இல்லாதபோது நண்பர் வந்தாராம்.",
+          "en": "I hear a friend came while I was out."
+        },
+        {
+          "ja": "子どもが寝ている間に、洗濯をしてしまいます。",
+          "reading": "こどもが ねて いる あいだに、せんたくを して しまいます。",
+          "romaji": "kodomo ga nete iru aida ni, sentaku o shite shimaimasu.",
+          "ta": "குழந்தை தூங்கும்போதே துணி துவைத்து முடித்துவிடுவேன்.",
+          "en": "I get the washing done while my child is asleep."
+        },
+        {
+          "ja": "休みの間に、京都のお寺を見物しませんか。",
+          "reading": "やすみの あいだに、きょうとの おてらを けんぶつしませんか。",
+          "romaji": "yasumi no aida ni, kyouto no otera o kenbutsu shimasen ka.",
+          "ta": "விடுமுறையின்போது கியோத்தோவின் கோவில்களைச் சுற்றிப் பார்க்கலாமா?",
+          "en": "Shall we see the temples in Kyoto during the holidays?"
+        }
+      ],
+      "pitfalls_ta": "間に-க்குப் பின் 'ずっと' போன்ற தொடர்ச்சிச் சொல் வராது. 'காலம் முழுவதும்' என்றால் 間, 'அதற்குள் ஒரு முறை' என்றால் 間に.",
+      "pitfalls_en": "Don’t use ずっと after 間に. \"The whole time\" → 間. \"Once, during that time\" → 間に."
+    },
+    {
+      "id": "g28-3",
+      "pattern": "V-dict / V-ない / adj うちに、〜",
+      "name": {
+        "en": "〜うちに (while still …, before it changes)",
+        "ta": "〜うちに (~ இருக்கும்போதே)"
+      },
+      "explanation_ta": "'A うちに、B' என்றால் A என்ற நிலை மாறுவதற்கு முன்பே B செய்ய வேண்டும் என்று பொருள். தமிழின் '~இருக்கும்போதே' (ஏ என்ற அழுத்தம்) இதற்குச் சரியான இணை: 温かいうちに食べてください (சூடாக இருக்கும்போதே சாப்பிடுங்கள்). உருவாக்கம்: い-பெயரடை + うちに (若いうちに), な-பெயரடை + な + うちに (元気なうちに), N + の + うちに (学生のうちに), V-ている + うちに, V-ない + うちに. V-ないうちに என்றால் 'அது நடப்பதற்கு முன்பே': 暗くならないうちに帰りましょう (இருட்டுவதற்கு முன்பே வீடு திரும்புவோம்). 前に-ஐ விட うちに 'பின்னால் கடினமாகிவிடும், அதனால் இப்போதே' என்ற உணர்வைத் தரும்.",
+      "explanation_en": "\"A うちに、B\" means do B before state A changes. Tamil ~இருக்கும்போதே (\"while it is still ~\") fits very well. 温かいうちに食べてください (Please eat it while it’s still hot). Form: い-adj + うちに (若いうちに). な-adj + な + うちに (元気なうちに). N + の + うちに (学生のうちに). V-ている + うちに. V-ない + うちに. V-ないうちに means \"before it happens\". 暗くならないうちに帰りましょう (Let’s go home before it gets dark). Compare 前に: うちに adds \"later it will be hard, so do it now\".",
+      "tamil_parallel": "சூடாக இருக்கும்போதே சாப்பிடுங்கள் / இருட்டுவதற்கு முன்பே திரும்புவோம் = 温かいうちに食べてください / 暗くならないうちに帰りましょう",
+      "tamil_parallel_en": "Tamil சூடாக இருக்கும்போதே (while it is still hot) = 温かいうちに. இருட்டுவதற்கு முன்பே (before it gets dark) = 暗くならないうちに.",
+      "formation": "い-adj + うちに: 温かいうちに\nな-adj + な + うちに: 元気なうちに\nN + の + うちに: 学生のうちに\nV-ない + うちに: 暗くならないうちに\nV-ている + うちに: 話しているうちに",
+      "formation_en": "い-adj + うちに: 温かいうちに\nな-adj + な + うちに: 元気なうちに\nN + の + うちに: 学生のうちに\nV-ない + うちに: 暗くならないうちに\nV-ている + うちに: 話しているうちに",
+      "examples": [
+        {
+          "ja": "温かいうちに、どうぞ召し上がってください。",
+          "reading": "あたたかい うちに、どうぞ めしあがって ください。",
+          "romaji": "atatakai uchi ni, douzo meshiagatte kudasai.",
+          "ta": "சூடாக இருக்கும்போதே தயவுசெய்து சாப்பிடுங்கள்.",
+          "en": "Please eat it while it’s still warm."
+        },
+        {
+          "ja": "暗くならないうちに、山を下りましょう。",
+          "reading": "くらく ならない うちに、やまを おりましょう。",
+          "romaji": "kuraku naranai uchi ni, yama o orimashou.",
+          "ta": "இருட்டுவதற்கு முன்பே மலையிலிருந்து இறங்குவோம்.",
+          "en": "Let’s go down the mountain before it gets dark."
+        },
+        {
+          "ja": "学生のうちに、いろいろな国を旅行したいです。",
+          "reading": "がくせいの うちに、いろいろな くにを りょこうしたいです。",
+          "romaji": "gakusei no uchi ni, iroiro na kuni o ryokou shitai desu.",
+          "ta": "மாணவனாக இருக்கும்போதே பல நாடுகளுக்குப் பயணம் செய்ய விரும்புகிறேன்.",
+          "en": "I want to travel to many countries while I’m still a student."
+        },
+        {
+          "ja": "祖父が元気なうちに、一緒に京都へ行きたいです。",
+          "reading": "そふが げんきな うちに、いっしょに きょうとへ いきたいです。",
+          "romaji": "sofu ga genki na uchi ni, issho ni kyouto e ikitai desu.",
+          "ta": "தாத்தா உடல்நலத்துடன் இருக்கும்போதே அவருடன் கியோத்தோ போக விரும்புகிறேன்.",
+          "en": "I want to go to Kyoto with my grandfather while he’s still healthy."
+        },
+        {
+          "ja": "桜がきれいなうちに、花見に行きませんか。",
+          "reading": "さくらが きれいな うちに、はなみに いきませんか。",
+          "romaji": "sakura ga kirei na uchi ni, hanami ni ikimasen ka.",
+          "ta": "செர்ரிப் பூக்கள் அழகாக இருக்கும்போதே பூ பார்க்கப் போகலாமா?",
+          "en": "Shall we go and see the cherry blossoms while they’re still pretty?"
+        },
+        {
+          "ja": "日本語で話しているうちに、だんだん慣れてきました。",
+          "reading": "にほんごで はなして いる うちに、だんだん なれて きました。",
+          "romaji": "nihongo de hanashite iru uchi ni, dandan narete kimashita.",
+          "ta": "ஜப்பானிய மொழியில் பேசிக்கொண்டிருக்கும்போதே மெல்ல மெல்லப் பழகிவிட்டேன்.",
+          "en": "As I kept speaking Japanese, I slowly got used to it."
+        }
+      ],
+      "pitfalls_ta": "暗くならないうちに-இல் 'ない' இருந்தாலும் பொருள் எதிர்மறை அல்ல; 'இருட்டுவதற்கு முன்' என்பதே. மேலும் மாறாத நிலைக்கு (私が日本人のうちに ✗) うちに வராது; மாறக்கூடிய நிலைக்கு மட்டுமே.",
+      "pitfalls_en": "暗くならないうちに has ない, but it is not negative in meaning. It means \"before it gets dark\". Also, only use うちに for a state that will change. A fixed fact (like your nationality) can’t take うちに."
+    },
+    {
+      "id": "g28-4",
+      "pattern": "V-た / N の まま",
+      "name": {
+        "en": "〜まま (leaving things as they are)",
+        "ta": "〜まま (அப்படியே / ~ய படியே)"
+      },
+      "explanation_ta": "'A まま、B' என்றால் A என்ற நிலையை மாற்றாமல் அப்படியே வைத்துக்கொண்டு B செய்வது. பெரும்பாலும் வழக்கத்துக்கு மாறானது அல்லது செய்யக் கூடாதது என்ற உணர்வுடன் வரும்: 靴をはいたまま部屋に入らないでください (செருப்பு போட்டபடியே அறைக்குள் வராதீர்கள்). உருவாக்கம்: V-た + まま (開けたまま, つけたまま), N + の + まま (この服のまま), い-adj + まま (若いまま), な-adj + な + まま (きれいなまま). தமிழின் '~ட்டபடியே', '~ய நிலையிலேயே' இணை. 'このまま' என்றால் 'இப்படியே (மாற்றாமல்)'.",
+      "explanation_en": "\"A まま、B\" means you do B without changing state A. It often feels unusual or wrong: 靴をはいたまま部屋に入らないでください (Don’t come into the room with your shoes on). Form: V-た + まま (開けたまま, つけたまま). N + の + まま (この服のまま). い-adj + まま (若いまま). な-adj + な + まま (きれいなまま). Tamil ~ட்டபடியே (\"with it still ~\") is the same idea. このまま means \"just like this, without changing\".",
+      "tamil_parallel": "செருப்பு போட்டபடியே உள்ளே வராதீர்கள் / விளக்கைப் போட்டபடியே தூங்கிவிட்டேன் = 靴をはいたまま入らないでください / 電気をつけたまま寝てしまいました",
+      "tamil_parallel_en": "Tamil போட்டபடியே (with it still on) = 〜たまま: 靴をはいたまま (with shoes on), 電気をつけたまま (with the light on).",
+      "formation": "V-た + まま: 窓を開けたまま\nN + の + まま: 子どものまま\nい-adj + まま / な-adj + な + まま\nこのまま / そのまま",
+      "formation_en": "V-た + まま: 窓を開けたまま\nN + の + まま: 子どものまま\nい-adj + まま / な-adj + な + まま\nこのまま / そのまま",
+      "examples": [
+        {
+          "ja": "日本の家には、靴をはいたまま入りません。",
+          "reading": "にほんの いえには、くつを はいた まま はいりません。",
+          "romaji": "nihon no ie ni wa, kutsu o haita mama hairimasen.",
+          "ta": "ஜப்பானிய வீடுகளுக்குள் காலணி போட்டபடியே நுழைய மாட்டார்கள்.",
+          "en": "People don’t go into Japanese homes with their shoes on."
+        },
+        {
+          "ja": "昨日、電気をつけたまま寝てしまいました。",
+          "reading": "きのう、でんきを つけた まま ねて しまいました。",
+          "romaji": "kinou, denki o tsuketa mama nete shimaimashita.",
+          "ta": "நேற்று விளக்கைப் போட்டபடியே தூங்கிவிட்டேன்.",
+          "en": "Last night I fell asleep with the light on."
+        },
+        {
+          "ja": "窓を開けたまま出かけないでください。",
+          "reading": "まどを あけた まま でかけないで ください。",
+          "romaji": "mado o aketa mama dekakenaide kudasai.",
+          "ta": "ஜன்னலைத் திறந்தபடியே வெளியே போகாதீர்கள்.",
+          "en": "Please don’t go out with the window open."
+        },
+        {
+          "ja": "この町は百年前の景色がそのままです。",
+          "reading": "この まちは ひゃくねん まえの けしきが その ままです。",
+          "romaji": "kono machi wa hyakunen mae no keshiki ga sono mama desu.",
+          "ta": "இந்த நகரத்தில் நூறு ஆண்டுகளுக்கு முந்தைய காட்சி அப்படியே இருக்கிறது.",
+          "en": "This town looks just as it did a hundred years ago."
+        },
+        {
+          "ja": "このお茶は温めないで、冷たいままで飲んでください。",
+          "reading": "この おちゃは あたためないで、つめたい ままで のんで ください。",
+          "romaji": "kono ocha wa atatamenaide, tsumetai mama de nonde kudasai.",
+          "ta": "இந்தத் தேநீரைச் சூடாக்காமல், குளிர்ச்சியாகவே குடியுங்கள்.",
+          "en": "Don’t heat this tea. Drink it cold, as it is."
+        }
+      ],
+      "pitfalls_ta": "まま-க்கு முன் வினைச்சொல் பெரும்பாலும் た-வடிவம் (はいたまま); はくまま என்று அகராதி வடிவம் சேர்க்காதீர்கள். மேலும் 'ஒரே நேரத்தில் இரண்டு செயல்' என்பதற்கு ながら; மாறாத நிலையை வைத்திருப்பதற்கு まま.",
+      "pitfalls_en": "Before まま, the verb is usually in the た-form (はいたまま), not はくまま. For doing two actions at once, use ながら. For keeping a state unchanged, use まま."
+    },
+    {
+      "id": "g28-5",
+      "pattern": "V-ていきます / V-てきます (change)",
+      "name": {
+        "en": "〜てきます / 〜ていきます (change over time)",
+        "ta": "〜てきます / 〜ていきます (காலப்போக்கில் மாற்றம்)"
+      },
+      "explanation_ta": "பாடம் 18-இல் 〜てきます 'போய் வருகிறேன்' என்ற பொருளில் கற்றோம். இங்கே காலத்தோடு வரும் மாற்றத்தைக் குறிக்கிறது. 〜てきました = கடந்த காலத்திலிருந்து இப்போது வரை மாறிக்கொண்டு வந்திருக்கிறது: 寒くなってきました (குளிர் அதிகமாகிக்கொண்டு வருகிறது). 〜ていきます = இப்போதிலிருந்து எதிர்காலத்தை நோக்கி மாறிக்கொண்டே போகும்: これから人口は減っていくでしょう (இனி மக்கள் தொகை குறைந்துகொண்டே போகும்). 'இப்போது' என்ற புள்ளியை மையமாக வைத்து, மாற்றம் நம்மை நோக்கி வருகிறதா (きます) நம்மிடமிருந்து விலகிப் போகிறதா (いきます) என்று நினையுங்கள். தமிழின் '~கொண்டு வருகிறது / ~கொண்டே போகும்' என்ற அமைப்பு அப்படியே பொருந்தும். だんだん、どんどん、これから、最近 போன்ற சொற்களுடன் அடிக்கடி வரும்.",
+      "explanation_en": "In Lesson 18 you learned 〜てきます as \"go and come back\". Here it shows change over time. 〜てきました = it has been changing from the past up to now: 寒くなってきました (It has been getting cold). 〜ていきます = it will keep changing from now on: これから人口は減っていくでしょう (The population will keep going down). Think of \"now\" as the centre. Is the change coming towards now (きます), or going away into the future (いきます)? Tamil ~கொண்டு வருகிறது / ~கொண்டே போகும் works the same way. It often goes with だんだん, どんどん, これから and 最近.",
+      "tamil_parallel": "குளிர் அதிகமாகிக்கொண்டு வருகிறது / இனி குறைந்துகொண்டே போகும் = 寒くなってきました / 減っていくでしょう",
+      "tamil_parallel_en": "Tamil அதிகமாகிக்கொண்டு வருகிறது (has been getting more) = 〜てきました. குறைந்துகொண்டே போகும் (will keep going down) = 〜ていくでしょう.",
+      "formation": "(கடந்த காலம் → இப்போது) V-て + きました: 寒くなってきました\n(இப்போது → எதிர்காலம்) V-て + いきます: 増えていくでしょう\nசேர்ந்து வரும் சொற்கள்: だんだん、どんどん、最近、これから",
+      "formation_en": "(past → now) V-て + きました: 寒くなってきました\n(now → future) V-て + いきます: 増えていくでしょう\nCommon partners: だんだん、どんどん、最近、これから",
+      "examples": [
+        {
+          "ja": "十月になって、だんだん寒くなってきました。",
+          "reading": "じゅうがつに なって、だんだん さむく なって きました。",
+          "romaji": "juugatsu ni natte, dandan samuku natte kimashita.",
+          "ta": "அக்டோபர் வந்ததும் மெல்ல மெல்லக் குளிர் அதிகமாகிக்கொண்டு வருகிறது.",
+          "en": "It’s October, and it has been slowly getting colder."
+        },
+        {
+          "ja": "日本の生活にも、少しずつ慣れてきました。",
+          "reading": "にほんの せいかつにも、すこしずつ なれて きました。",
+          "romaji": "nihon no seikatsu ni mo, sukoshizutsu narete kimashita.",
+          "ta": "ஜப்பானிய வாழ்க்கைக்கும் கொஞ்சம் கொஞ்சமாகப் பழகி வருகிறேன்.",
+          "en": "I’m slowly getting used to life in Japan."
+        },
+        {
+          "ja": "これから、日本に住む外国人はどんどん増えていくでしょう。",
+          "reading": "これから、にほんに すむ がいこくじんは どんどん ふえて いくでしょう。",
+          "romaji": "korekara, nihon ni sumu gaikokujin wa dondon fuete iku deshou.",
+          "ta": "இனி ஜப்பானில் வாழும் வெளிநாட்டினர் வேகமாக அதிகரித்துக்கொண்டே போவார்கள்.",
+          "en": "From now on, more and more foreigners will live in Japan."
+        },
+        {
+          "ja": "この町は、この十年でずいぶん変わってきました。",
+          "reading": "この まちは、この じゅうねんで ずいぶん かわって きました。",
+          "romaji": "kono machi wa, kono juunen de zuibun kawatte kimashita.",
+          "ta": "இந்த நகரம் கடந்த பத்து ஆண்டுகளில் நிறைய மாறி வந்திருக்கிறது.",
+          "en": "This town has changed a lot over the last ten years."
+        },
+        {
+          "ja": "これからも日本語の勉強を続けていきます。",
+          "reading": "これからも にほんごの べんきょうを つづけて いきます。",
+          "romaji": "korekara mo nihongo no benkyou o tsuzukete ikimasu.",
+          "ta": "இனிமேலும் ஜப்பானிய மொழிப் படிப்பைத் தொடர்ந்துகொண்டே இருப்பேன்.",
+          "en": "I will keep on studying Japanese from now on."
+        },
+        {
+          "ja": "もうすぐ冬です。これから毎日寒くなっていくでしょう。",
+          "reading": "もうすぐ ふゆです。これから まいにち さむく なって いくでしょう。",
+          "romaji": "mousugu fuyu desu. korekara mainichi samuku natte iku deshou.",
+          "ta": "சீக்கிரம் குளிர்காலம் வருகிறது. இனி நாளுக்கு நாள் குளிர் அதிகமாகிக்கொண்டே போகும்.",
+          "en": "Winter is coming soon. It will keep getting colder every day."
+        }
+      ],
+      "pitfalls_ta": "'最近' (சமீபத்தில்) உடன் 〜てきました; 'これから' (இனிமேல்) உடன் 〜ていきます. 最近寒くなっていきます என்று சொன்னால் திசை தவறு.",
+      "pitfalls_en": "Use 最近 (lately) with 〜てきました. Use これから (from now on) with 〜ていきます. 最近寒くなっていきます has the wrong direction."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-095",
+    "n4-v-110",
+    "n4-v-127",
+    "n4-v-197",
+    "n4-v-201",
+    "n4-v-204",
+    "n4-v-205",
+    "n4-v-220",
+    "n4-v-242",
+    "n4-v-255",
+    "n4-v-264",
+    "n4-v-270",
+    "n4-v-340",
+    "n4-v-350",
+    "n4-v-411",
+    "n4-v-436",
+    "n4-v-441",
+    "n4-v-455",
+    "n4-v-489",
+    "n4-v-490",
+    "n4-v-518",
+    "n4-v-586",
+    "n4-v-599",
+    "n4-v-620",
+    "n4-v-628",
+    "n4-v-641",
+    "n4-v-659"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L28-q01",
+        "type": "kanji_reading",
+        "sentence": "京都で 古い お＿寺＿を 見物しました。",
+        "target": "寺",
+        "options": [
+          "じ",
+          "てら",
+          "でら",
+          "とら"
+        ],
+        "answer": 1,
+        "explanation_ta": "お寺 = おてら (புத்தக் கோவில்). じ என்பது சேர்க்கை வாசிப்பு (金閣寺 போல); தனியாக お寺 என்றால் てら.",
+        "explanation_en": "お寺 = おてら (புத்தக் கோவில், temple). じ is used in names like 金閣寺. On its own, お寺 is てら."
+      },
+      {
+        "id": "L28-q02",
+        "type": "kanji_reading",
+        "sentence": "この ＿湖＿は とても 深いです。",
+        "target": "湖",
+        "options": [
+          "みずみ",
+          "うみ",
+          "こ",
+          "みずうみ"
+        ],
+        "answer": 3,
+        "explanation_ta": "湖 = みずうみ (ஏரி), 'நீர் + கடல்'. うみ என்பது 海 (கடல்).",
+        "explanation_en": "湖 = みずうみ (ஏரி, lake), literally \"water sea\". うみ is 海 (sea)."
+      },
+      {
+        "id": "L28-q03",
+        "type": "kanji_reading",
+        "sentence": "山の 上から 見た ＿景色＿は 素晴らしかったです。",
+        "target": "景色",
+        "options": [
+          "けしき",
+          "けいしき",
+          "けしょく",
+          "けいしょく"
+        ],
+        "answer": 0,
+        "explanation_ta": "景色 = けしき (இயற்கைக் காட்சி). 景 இங்கே けい அல்ல, け என்று குறுகும்.",
+        "explanation_en": "景色 = けしき (இயற்கைக் காட்சி, scenery). Here 景 is short: け, not けい."
+      },
+      {
+        "id": "L28-q04",
+        "type": "orthography",
+        "sentence": "日曜日に ＿どうぶつえん＿へ 行きました。",
+        "target": "どうぶつえん",
+        "options": [
+          "動物苑",
+          "働物園",
+          "動物園",
+          "動物院"
+        ],
+        "answer": 2,
+        "explanation_ta": "どうぶつえん = 動物園 (மிருகக்காட்சிசாலை). 園 = தோட்டம் / பூங்கா (公園-இல் உள்ளது போல). 働 (வேலை செய்தல்) வேறு கான்ஜி.",
+        "explanation_en": "どうぶつえん = 動物園 (மிருகக்காட்சிசாலை, zoo). 園 means garden or park, as in 公園. 働 (work) is a different kanji."
+      },
+      {
+        "id": "L28-q05",
+        "type": "orthography",
+        "sentence": "＿みなと＿に 大きい 船が 着きました。",
+        "target": "みなと",
+        "options": [
+          "巷",
+          "港",
+          "洪",
+          "航"
+        ],
+        "answer": 1,
+        "explanation_ta": "みなと = 港 (துறைமுகம்). 巷 வடிவம் ஒத்திருந்தாலும் நீர் அடையாளம் (氵) இல்லை; 航 = கடல் பயணம்.",
+        "explanation_en": "みなと = 港 (துறைமுகம், port). 巷 looks similar but has no water mark (氵). 航 means sailing."
+      },
+      {
+        "id": "L28-q06",
+        "type": "vocab_context",
+        "sentence": "日本に 来て 半年ですね。日本の 生活には もう （　　）か。",
+        "options": [
+          "変わりました",
+          "慣れました",
+          "見物しました",
+          "似合いました"
+        ],
+        "answer": 1,
+        "explanation_ta": "'வாழ்க்கைக்குப் பழகிவிட்டீர்களா?' = 生活に慣れましたか. 変わりました (மாறியது) N に உடன் இப்படி வராது.",
+        "explanation_en": "\"Have you got used to life here?\" = 生活に慣れましたか (பழகிவிட்டீர்களா?). 変わりました (changed) doesn’t fit here."
+      },
+      {
+        "id": "L28-q07",
+        "type": "vocab_context",
+        "sentence": "四月に なると、公園で （　　）を する 人が 多いです。",
+        "options": [
+          "景色",
+          "教会",
+          "花見",
+          "展覧会"
+        ],
+        "answer": 2,
+        "explanation_ta": "ஏப்ரலில் பூங்காவில் செர்ரிப் பூக்களைப் பார்த்து மகிழ்வது = 花見をする. 展覧会 'செய்வது' அல்ல, 'பார்க்கப் போவது'.",
+        "explanation_en": "In April people do cherry-blossom viewing in parks: 花見をする (செர்ரிப் பூ காணல்). You go to see a 展覧会; you don’t \"do\" one."
+      },
+      {
+        "id": "L28-q08",
+        "type": "vocab_context",
+        "sentence": "この 川は （　　）ので、小さい 子どもが 遊んでも 安全です。",
+        "options": [
+          "浅い",
+          "深い",
+          "珍しい",
+          "美しい"
+        ],
+        "answer": 0,
+        "explanation_ta": "குழந்தைகள் விளையாடப் பாதுகாப்பானது → ஆழமில்லாதது = 浅い. 深い (ஆழமானது) என்றால் ஆபத்து.",
+        "explanation_en": "It is safe for small children, so the river is shallow: 浅い (ஆழமற்ற). 深い (deep) would be dangerous."
+      },
+      {
+        "id": "L28-q09",
+        "type": "vocab_context",
+        "sentence": "留学生の 日本語は 毎日 （　　）上手に なって います。",
+        "options": [
+          "なかなか",
+          "あまり",
+          "ぜひ",
+          "どんどん"
+        ],
+        "answer": 3,
+        "explanation_ta": "நாளுக்கு நாள் வேகமாக முன்னேறுவது = どんどん上手になる. あまり、なかなか எதிர்மறையுடன் வரும்.",
+        "explanation_en": "Getting better fast, day by day = どんどん上手になる (வேகமாக). あまり and なかなか go with negatives."
+      },
+      {
+        "id": "L28-q10",
+        "type": "vocab_context",
+        "sentence": "湖で 友達と 小さい （　　）に 乗りました。",
+        "options": [
+          "舟",
+          "島",
+          "港",
+          "砂"
+        ],
+        "answer": 0,
+        "explanation_ta": "ஏரியில் சவாரி செய்வது படகில் = 舟に乗る. 島 (தீவு) 'に乗る' உடன் வராது.",
+        "explanation_en": "You ride a boat on a lake: 舟に乗る (படகில் ஏற). You can’t ride an island (島)."
+      },
+      {
+        "id": "L28-q11",
+        "type": "paraphrase",
+        "sentence": "雨が 降らない うちに、帰りましょう。",
+        "options": [
+          "雨が 降ったら 帰りましょう。",
+          "雨が 降っても 帰りましょう。",
+          "雨が 降る 前に 帰りましょう。",
+          "雨が 降って いる 間、帰りましょう。"
+        ],
+        "answer": 2,
+        "explanation_ta": "降らないうちに = மழை பெய்வதற்கு முன்பே = 降る前に. 'ない' இருந்தாலும் 'பெய்யாவிட்டால்' என்ற பொருள் இல்லை.",
+        "explanation_en": "降らないうちに = before it rains (மழை பெய்வதற்கு முன்பே) = 降る前に. It has ない, but it doesn’t mean \"if it doesn’t rain\"."
+      },
+      {
+        "id": "L28-q12",
+        "type": "paraphrase",
+        "sentence": "めがねを かけた まま 寝て しまいました。",
+        "options": [
+          "めがねを 取ってから 寝ました。",
+          "めがねを 取らないで 寝て しまいました。",
+          "めがねを かけないで 寝ました。",
+          "めがねを かけながら 本を 読みました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "かけたまま = கண்ணாடியைக் கழற்றாமல் அப்படியே = 取らないで (பாடம் 9). かけないで என்றால் 'அணியாமல்' — எதிர்ப் பொருள்.",
+        "explanation_en": "かけたまま = with the glasses still on (கழற்றாமல்) = 取らないで (Lesson 9). かけないで means \"without wearing them\". That is the opposite."
+      },
+      {
+        "id": "L28-q13",
+        "type": "usage",
+        "sentence": "慣れる",
+        "options": [
+          "毎朝 六時に 慣れて、会社へ 行きます。",
+          "この 服は 私に よく 慣れて います。",
+          "駅で 友達に 慣れました。",
+          "日本の 食べ物にも だんだん 慣れて きました。"
+        ],
+        "answer": 3,
+        "explanation_ta": "慣れる = ஒன்றுக்குப் பழகுவது. 'ஜப்பானிய உணவுக்குப் பழகிவருகிறேன்' சரி. உடை பொருந்துவது 似合う; நண்பரைச் சந்திப்பது 会う.",
+        "explanation_en": "慣れる = to get used to something (பழக). \"I’m getting used to Japanese food\" is right. Clothes that suit you = 似合う. Meeting a friend = 会う."
+      },
+      {
+        "id": "L28-q14",
+        "type": "usage",
+        "sentence": "珍しい",
+        "options": [
+          "東京で 雪が たくさん 降るのは 珍しいです。",
+          "この 料理は 珍しいので、毎日 食べて います。",
+          "今日は 珍しい 時間が ないので、行けません。",
+          "私の 部屋は 珍しいので、掃除を します。"
+        ],
+        "answer": 0,
+        "explanation_ta": "珍しい = அரிதாக நடப்பது / அரிதாகக் கிடைப்பது. 'டோக்கியோவில் அதிகப் பனி அரிது' சரி. 'அரிது, அதனால் தினமும் சாப்பிடுகிறேன்' முரண்பாடு.",
+        "explanation_en": "珍しい = rare, not often seen (அரிதான). \"Heavy snow in Tokyo is rare\" is right. \"It’s rare, so I eat it every day\" doesn’t make sense."
+      },
+      {
+        "id": "L28-q15",
+        "type": "grammar_form",
+        "sentence": "夏休みの （　　）、ずっと 国に 帰って いました。",
+        "options": [
+          "間",
+          "間に",
+          "うちに",
+          "まま"
+        ],
+        "answer": 0,
+        "explanation_ta": "ずっと (முழுவதும்) இருப்பதால் 'காலம் முழுவதும்' = 間. 間に அந்தக் காலத்துக்குள் ஒரு முறை நடப்பதற்கு; ずっと உடன் வராது.",
+        "explanation_en": "ずっと means the whole time, so use 間 (முழுவதும்). 間に is for one event inside the period. It doesn’t go with ずっと."
+      },
+      {
+        "id": "L28-q16",
+        "type": "grammar_form",
+        "sentence": "日本に いる （　　）、一度 富士山に 登りたいです。",
+        "options": [
+          "間",
+          "間に",
+          "まま",
+          "ほど"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஜப்பானில் இருக்கும் காலத்துக்குள் ஒரு முறை (一度) = 間に. 間 என்றால் 'காலம் முழுவதும் ஏறிக்கொண்டிருப்பேன்' என்ற பொருள் வரும்.",
+        "explanation_en": "Once (一度) within the time you’re in Japan = 間に. 間 would mean climbing the whole time."
+      },
+      {
+        "id": "L28-q17",
+        "type": "grammar_form",
+        "sentence": "暗く （　　）うちに、家へ 帰りましょう。",
+        "options": [
+          "なる",
+          "ならない",
+          "なった",
+          "なって"
+        ],
+        "answer": 1,
+        "explanation_ta": "'இருட்டுவதற்கு முன்பே' = 暗くならないうちに. うちに-க்கு முன் た-வடிவம் வராது; なるうちに இயல்பானது அல்ல.",
+        "explanation_en": "\"Before it gets dark\" = 暗くならないうちに (இருட்டுவதற்கு முன்பே). The た-form can’t come before うちに. なるうちに sounds unnatural."
+      },
+      {
+        "id": "L28-q18",
+        "type": "grammar_form",
+        "sentence": "料理が 温かい （　　）、どうぞ 召し上がって ください。",
+        "options": [
+          "間",
+          "まま",
+          "うちに",
+          "あとで"
+        ],
+        "answer": 2,
+        "explanation_ta": "'சூடாக இருக்கும்போதே (ஆறுவதற்கு முன்பே)' = 温かいうちに. まま 'அப்படியே மாற்றாமல்' என்ற பொருள்; இங்கே 'ஆறும் முன்' என்ற அவசர உணர்வு வேண்டும்.",
+        "explanation_en": "\"While it’s still hot, before it cools\" = 温かいうちに (சூடாக இருக்கும்போதே). まま means \"left unchanged\". Here you need \"before it changes\"."
+      },
+      {
+        "id": "L28-q19",
+        "type": "grammar_form",
+        "sentence": "窓を 開けた （　　）、出かけて しまいました。",
+        "options": [
+          "うちに",
+          "間",
+          "ながら",
+          "まま"
+        ],
+        "answer": 3,
+        "explanation_ta": "'ஜன்னலைத் திறந்தபடியே வெளியே போய்விட்டேன்' = 開けたまま. ながら இரண்டு செயல்கள் ஒரே நேரம் நடப்பதற்கு; た-வடிவத்துடன் வராது.",
+        "explanation_en": "\"I went out with the window left open\" = 開けたまま (திறந்தபடியே). ながら is for two actions at once. It doesn’t follow the た-form."
+      },
+      {
+        "id": "L28-q20",
+        "type": "grammar_form",
+        "sentence": "最近、だんだん 暑く （　　）ね。",
+        "options": [
+          "なって いきます",
+          "なって きました",
+          "なって おきました",
+          "なって しまいます"
+        ],
+        "answer": 1,
+        "explanation_ta": "最近 (சமீபத்தில்) = கடந்த காலம் முதல் இப்போது வரை மாற்றம் → なってきました. なっていきます எதிர்காலத்தை நோக்கியது.",
+        "explanation_en": "最近 (lately) = change from the past up to now → なってきました (ஆகிக்கொண்டு வருகிறது). なっていきます points to the future."
+      },
+      {
+        "id": "L28-q21",
+        "type": "grammar_form",
+        "sentence": "これから、日本に 住む 外国人は もっと 増えて （　　）でしょう。",
+        "options": [
+          "きた",
+          "おく",
+          "いく",
+          "みる"
+        ],
+        "answer": 2,
+        "explanation_ta": "これから (இனிமேல்) = இப்போதிலிருந்து எதிர்காலத்துக்கு → 増えていくでしょう (அதிகரித்துக்கொண்டே போகும்). きた கடந்த காலத்துக்கு.",
+        "explanation_en": "これから (from now on) = change into the future → 増えていくでしょう (அதிகரித்துக்கொண்டே போகும்). きた is for change up to now."
+      },
+      {
+        "id": "L28-q22",
+        "type": "sentence_order",
+        "before": "日本に",
+        "chunks": [
+          "いる",
+          "間に",
+          "いろいろな",
+          "所へ"
+        ],
+        "star": 1,
+        "after": "行きたいです。",
+        "explanation_ta": "சரியான வாக்கியம்: 日本にいる間にいろいろな所へ行きたいです (ஜப்பானில் இருக்கும்போதே பல இடங்களுக்குப் போக வேண்டும்). いる + 間に, いろいろな + 所.",
+        "explanation_en": "The sentence: 日本にいる間にいろいろな所へ行きたいです (While I’m in Japan I want to go to many places). いる + 間に, then いろいろな + 所."
+      },
+      {
+        "id": "L28-q23",
+        "type": "sentence_order",
+        "before": "靴を",
+        "chunks": [
+          "はいた",
+          "まま",
+          "部屋に",
+          "入らないで"
+        ],
+        "star": 1,
+        "after": "ください。",
+        "explanation_ta": "சரியான வாக்கியம்: 靴をはいたまま部屋に入らないでください (செருப்பு போட்டபடியே அறைக்குள் வராதீர்கள்). た-வடிவம் + まま.",
+        "explanation_en": "The sentence: 靴をはいたまま部屋に入らないでください (Please don’t come into the room with your shoes on). た-form + まま."
+      },
+      {
+        "id": "L28-q24",
+        "type": "sentence_order",
+        "before": "日本語の 勉強が",
+        "chunks": [
+          "だんだん",
+          "おもしろく",
+          "なって",
+          "きました"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: 日本語の勉強がだんだんおもしろくなってきました (ஜப்பானிய மொழிப் படிப்பு மெல்ல மெல்லச் சுவாரசியமாகி வருகிறது). பெயரடை-く + なって + きました.",
+        "explanation_en": "The sentence: 日本語の勉強がだんだんおもしろくなってきました (Studying Japanese has slowly become more fun). adj-く + なって + きました."
+      },
+      {
+        "id": "L28-q25",
+        "type": "passage_cloze",
+        "passage": "私が 日本に 来てから、もう 一年に なります。来た ばかりの ころは、日本の 生活に なかなか ［1］が、今は もう 大丈夫です。日本語も だんだん わかるように ［2］。国へ 帰る 前に、日本に いる ［3］、もっと いろいろな 所を 見物したいです。",
+        "blanks": [
+          {
+            "options": [
+              "慣れました",
+              "慣れませんでした",
+              "変わりました",
+              "見物しました"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "なって きました",
+              "なって いきます",
+              "なって おきました",
+              "なった ままです"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "まま",
+              "あとで",
+              "うちに",
+              "ほど"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］ なかなか எதிர்மறையுடன் வரும் → 慣れませんでした (பழக முடியவில்லை). ［2］ வந்தது முதல் இப்போது வரை மாற்றம் → なってきました. ［3］ நாடு திரும்புவதற்கு முன், இங்கே இருக்கும்போதே → いるうちに.",
+        "explanation_en": "[1] なかなか goes with a negative → 慣れませんでした (couldn’t get used to it). [2] Change from then until now → なってきました. [3] Before going home, while I’m still here → いるうちに (இருக்கும்போதே)."
+      }
+    ]
+  }
+}

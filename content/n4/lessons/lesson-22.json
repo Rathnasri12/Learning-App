@@ -1,0 +1,167 @@
+{
+  "lesson": 22,
+  "title": { "ja": "ニュースによると、物価が上がるそうです", "ta": "செய்தியின்படி விலைவாசி உயருமாம்", "en": "The news says prices will rise" },
+  "intro_en": "In this lesson you will pass on news and talk about what seems true. You will learn そうです for \"I heard that …\" and によると for \"according to …\". Then you will learn ようです, みたいです and らしいです for \"it seems …\". Last, you will learn らしい before a noun, for \"just like a real …\". The topic is news and society: the economy, trade, politics and TV.",
+  "intro_ta": "இந்தப் பாடத்தில் கேட்ட செய்தியைப் பிறருக்குச் சொல்லவும், 'அப்படித் தோன்றுகிறது' என்று ஊகிக்கவும் கற்போம். 'கேள்விப்பட்டேன் / -ஆம்' என்பதற்கு そうです, '-இன்படி' என்பதற்கு によると கற்போம். பிறகு 'போலத் தெரிகிறது' என்பதற்கு ようです, みたいです, らしいです ஆகியவற்றின் வேறுபாட்டைப் படிப்போம். கடைசியாக 'உண்மையான N போல' என்பதற்கு N らしい N கற்போம். பாடச் சூழல்: செய்திகளும் சமூகமும் — பொருளாதாரம், வர்த்தகம், அரசியல், தொலைக்காட்சி.",
+  "grammar": [
+    {
+      "id": "g22-1",
+      "pattern": "plain form そうです (hearsay)",
+      "name": { "en": "I heard that …", "ta": "-ஆம் (கேள்விப்பட்டது)" },
+      "explanation_en": "Plain form + そうです means \"I heard that …\" or \"they say …\". You pass on information from someone else. It is like the Tamil ending -ஆம் (மழை பெய்யுமாம், \"it will rain, they say\"). Use the full plain form: 降る, 降った, 降らない, おいしい, 静かだ, 学生だ. Be careful: 降りそうです (from lesson 18) means \"it looks like it will rain\". 降るそうです means \"I heard it will rain\".",
+      "explanation_ta": "சாதாரண வடிவம் (plain form) + そうです என்றால் 'கேள்விப்பட்டேன்', 'என்கிறார்கள்' என்று பொருள். வேறொருவரிடமிருந்து பெற்ற தகவலை அப்படியே சொல்கிறோம். இது தமிழின் '-ஆம்' விகுதிக்கு நேர் இணை: 'மழை பெய்யுமாம்' = 雨が降るそうです. முழு plain வடிவம் வேண்டும்: 降る, 降った, 降らない, おいしい, 静かだ, 学生だ. கவனிக்க: பாடம் 18-இல் கற்ற 降りそうです ('மழை பெய்யும் போலிருக்கிறது', தோற்றம்) வேறு; 降るそうです ('பெய்யுமாம்', கேள்வி) வேறு. な-பெயரடை, பெயர்ச்சொல் இரண்டுக்கும் だ அவசியம்.",
+      "tamil_parallel": "明日は雨が降るそうです = நாளை மழை பெய்யுமாம்.",
+      "tamil_parallel_en": "明日は雨が降るそうです = \"I hear it will rain tomorrow\" (நாளை மழை பெய்யுமாம்).",
+      "formation": "வினை plain: ふる / ふった / ふらない + そうです\nい-பெயரடை: おいしい / おいしかった + そうです\nな-பெயரடை: しずかだ + そうです\nபெயர்ச்சொல்: がくせいだ + そうです\nஒப்பிடுக: ふりそうです (தோற்றம்) ≠ ふるそうです (கேள்வி)",
+      "formation_en": "verb plain: ふる / ふった / ふらない + そうです\nい-adj: おいしい / おいしかった + そうです\nな-adj: しずかだ + そうです\nnoun: がくせいだ + そうです\ncompare: ふりそうです (looks like) ≠ ふるそうです (I heard)",
+      "examples": [
+        { "ja": "天気予報によると、明日は雨が降るそうです。", "reading": "てんきよほうに よると、あしたは あめが ふるそうです。", "romaji": "tenkiyohou ni yoru to, ashita wa ame ga furu sou desu.", "ta": "வானிலை அறிக்கையின்படி நாளை மழை பெய்யுமாம்.", "en": "The weather forecast says it will rain tomorrow." },
+        { "ja": "田中さんは来月結婚するそうです。", "reading": "たなかさんは らいげつ けっこんするそうです。", "romaji": "tanaka-san wa raigetsu kekkon suru sou desu.", "ta": "தனாகாவுக்கு அடுத்த மாதம் திருமணமாம்.", "en": "I heard Mr Tanaka is getting married next month." },
+        { "ja": "あの店のカレーはとてもおいしいそうです。", "reading": "あの みせの カレーは とても おいしいそうです。", "romaji": "ano mise no karee wa totemo oishii sou desu.", "ta": "அந்தக் கடையின் கறி மிகவும் சுவையாக இருக்குமாம்.", "en": "They say the curry at that shop is very good." },
+        { "ja": "ラジャさんのお父さんは医者だそうです。", "reading": "ラジャさんの おとうさんは いしゃだそうです。", "romaji": "raja-san no otousan wa isha da sou desu.", "ta": "ராஜாவின் அப்பா மருத்துவராம்.", "en": "I heard Raja's father is a doctor." },
+        { "ja": "昨日、大阪で大きい地震があったそうです。", "reading": "きのう、おおさかで おおきい じしんが あったそうです。", "romaji": "kinou, oosaka de ookii jishin ga atta sou desu.", "ta": "நேற்று ஒசாகாவில் பெரிய நிலநடுக்கம் ஏற்பட்டதாம்.", "en": "I heard there was a big earthquake in Osaka yesterday." },
+        { "ja": "ミナさんは今日の授業に来ないそうです。", "reading": "ミナさんは きょうの じゅぎょうに こないそうです。", "romaji": "mina-san wa kyou no jugyou ni konai sou desu.", "ta": "மீனா இன்றைய வகுப்புக்கு வரமாட்டாராம்.", "en": "I heard Meena isn't coming to class today." }
+      ],
+      "pitfalls_en": "Do not drop だ after a noun or な-adjective: 医者そうです is wrong; say 医者だそうです. Also, hearsay そう does not change to そうな before a noun.",
+      "pitfalls_ta": "பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ விடக்கூடாது: 医者そうです தவறு, 医者だそうです சரி. மேலும் கேள்வி そう பெயர்ச்சொல்லுக்கு முன் そうな என்று மாறாது."
+    },
+    {
+      "id": "g22-2",
+      "pattern": "N に よると、〜",
+      "name": { "en": "According to N", "ta": "N-இன்படி" },
+      "explanation_en": "N によると means \"according to N\". N is where you got the news: the news, a newspaper, a friend, the weather forecast. The sentence usually ends with そうです or らしいです. It is a little formal, so it is common in news and reports. In talk with friends you can say N の話では or just use そうです.",
+      "explanation_ta": "N によると என்றால் 'N-இன்படி', 'N சொல்வதன்படி' என்று பொருள். N என்பது தகவலின் மூலம்: செய்தி, செய்தித்தாள், நண்பர், வானிலை அறிக்கை. வாக்கியத்தின் முடிவில் பொதுவாக そうです அல்லது らしいです வரும். இது சற்று முறையான வடிவம்; செய்திகள், அறிக்கைகளில் அதிகம் கேட்கலாம். தமிழில் 'செய்தியின்படி … -ஆம்' என்று சொல்வதுபோல இரண்டும் சேர்ந்தே வரும்.",
+      "tamil_parallel": "ニュースによると、物価が上がるそうです = செய்தியின்படி விலைவாசி உயருமாம்.",
+      "tamil_parallel_en": "ニュースによると、物価が上がるそうです = \"According to the news, prices will rise\" (செய்தியின்படி விலைவாசி உயருமாம்).",
+      "formation": "தகவல் மூலம் (N) + に よると、+ plain form + そうです / らしいです\nニュースに よると、〜 そうです\nせんせいの はなしに よると、〜 そうです",
+      "formation_en": "source (N) + に よると、+ plain form + そうです / らしいです\nニュースに よると、〜 そうです\nせんせいの はなしに よると、〜 そうです",
+      "examples": [
+        { "ja": "ニュースによると、来年から物価が上がるそうです。", "reading": "ニュースに よると、らいねんから ぶっかが あがるそうです。", "romaji": "nyuusu ni yoru to, rainen kara bukka ga agaru sou desu.", "ta": "செய்தியின்படி அடுத்த ஆண்டிலிருந்து விலைவாசி உயருமாம்.", "en": "According to the news, prices will rise from next year." },
+        { "ja": "新聞によると、日本の人口は減っているそうです。", "reading": "しんぶんに よると、にほんの じんこうは へって いるそうです。", "romaji": "shinbun ni yoru to, nihon no jinkou wa hette iru sou desu.", "ta": "செய்தித்தாளின்படி ஜப்பானின் மக்கள்தொகை குறைந்து வருகிறதாம்.", "en": "According to the newspaper, Japan's population is falling." },
+        { "ja": "先生の話によると、来週テストがあるそうです。", "reading": "せんせいの はなしに よると、らいしゅう テストが あるそうです。", "romaji": "sensei no hanashi ni yoru to, raishuu tesuto ga aru sou desu.", "ta": "ஆசிரியர் சொன்னதன்படி அடுத்த வாரம் தேர்வு இருக்கிறதாம்.", "en": "According to the teacher, there is a test next week." },
+        { "ja": "母の手紙によると、チェンナイは今とても暑いそうです。", "reading": "ははの てがみに よると、チェンナイは いま とても あついそうです。", "romaji": "haha no tegami ni yoru to, chennai wa ima totemo atsui sou desu.", "ta": "அம்மாவின் கடிதத்தின்படி சென்னையில் இப்போது மிகவும் வெயிலாம்.", "en": "According to my mother's letter, Chennai is very hot now." },
+        { "ja": "アナウンサーによると、事故で電車が止まっているそうです。", "reading": "アナウンサーに よると、じこで でんしゃが とまって いるそうです。", "romaji": "anaunsaa ni yoru to, jiko de densha ga tomatte iru sou desu.", "ta": "செய்தி வாசிப்பாளரின்படி விபத்தால் ரயில்கள் நின்றுகொண்டிருக்கின்றனவாம்.", "en": "According to the announcer, the trains have stopped because of an accident." }
+      ],
+      "pitfalls_en": "Do not end a によると sentence with the plain です only. Add そうです or らしいです to show it is news you heard.",
+      "pitfalls_ta": "によると வாக்கியத்தை வெறும் です-உடன் முடிக்க வேண்டாம்; கேட்ட செய்தி என்று காட்ட そうです அல்லது らしいです சேர்க்கவும்."
+    },
+    {
+      "id": "g22-3",
+      "pattern": "plain form / N の ようです",
+      "name": { "en": "It seems that …", "ta": "-போலத் தெரிகிறது" },
+      "explanation_en": "ようです means \"it seems that …\". You guess from what you see, hear or feel yourself. For example, the lights are off, so the person seems to have gone home. It is softer than saying something for sure. Verbs and い-adjectives use the plain form. な-adjectives keep な: 好きなようです. Nouns take の: 学生のようです.",
+      "explanation_ta": "ようです என்றால் 'அப்படித் தெரிகிறது', 'போலிருக்கிறது' என்று பொருள். நீங்களே பார்த்த, கேட்ட, உணர்ந்த தடயங்களை வைத்து ஊகிக்கிறீர்கள்: விளக்கு அணைந்திருக்கிறது → அவர் வீட்டுக்குப் போயிருப்பார் போல. உறுதியாகச் சொல்லாமல் மென்மையாகச் சொல்லும் வழி. வினை, い-பெயரடை: plain வடிவம். な-பெயரடை: な சேர்க்கவும் (好きなようです). பெயர்ச்சொல்: の சேர்க்கவும் (学生のようです). そうです (கேள்வி) மற்றவர் சொன்னது; ようです உங்கள் சொந்த ஊகம்.",
+      "tamil_parallel": "田中さんはもう帰ったようです = தனாகா ஏற்கனவே வீட்டுக்குப் போய்விட்டார் போலத் தெரிகிறது.",
+      "tamil_parallel_en": "田中さんはもう帰ったようです = \"Mr Tanaka seems to have gone home already\" (போய்விட்டார் போலத் தெரிகிறது).",
+      "formation": "வினை / い-பெயரடை plain + ようです\nかえった ようです、あつい ようです\nな-பெயரடை + な + ようです: すきな ようです\nபெயர்ச்சொல் + の + ようです: がくせいの ようです",
+      "formation_en": "verb / い-adj plain + ようです\nかえった ようです、あつい ようです\nな-adj + な + ようです: すきな ようです\nnoun + の + ようです: がくせいの ようです",
+      "examples": [
+        { "ja": "電気が消えていますね。田中さんはもう帰ったようです。", "reading": "でんきが きえて いますね。たなかさんは もう かえった ようです。", "romaji": "denki ga kiete imasu ne. tanaka-san wa mou kaetta you desu.", "ta": "விளக்கு அணைந்திருக்கிறதே. தனாகா ஏற்கனவே போய்விட்டார் போலத் தெரிகிறது.", "en": "The lights are off. Mr Tanaka seems to have gone home." },
+        { "ja": "道がぬれています。夜、雨が降ったようです。", "reading": "みちが ぬれて います。よる、あめが ふった ようです。", "romaji": "michi ga nurete imasu. yoru, ame ga futta you desu.", "ta": "சாலை நனைந்திருக்கிறது. இரவில் மழை பெய்தது போலிருக்கிறது.", "en": "The road is wet. It seems it rained in the night." },
+        { "ja": "この頃、物の値段が少しずつ上がっているようです。", "reading": "このごろ、ものの ねだんが すこしずつ あがって いる ようです。", "romaji": "konogoro, mono no nedan ga sukoshi zutsu agatte iru you desu.", "ta": "இப்போதெல்லாம் பொருட்களின் விலை கொஞ்சம் கொஞ்சமாக உயர்ந்து வருவது போலத் தெரிகிறது.", "en": "These days prices seem to be rising little by little." },
+        { "ja": "ラジャさんは辛い物が好きなようです。", "reading": "ラジャさんは からい ものが すきな ようです。", "romaji": "raja-san wa karai mono ga suki na you desu.", "ta": "ராஜாவுக்குக் காரமான உணவு பிடிக்கும் போலத் தெரிகிறது.", "en": "Raja seems to like spicy food." },
+        { "ja": "あの人はこの大学の学生のようです。", "reading": "あの ひとは この だいがくの がくせいの ようです。", "romaji": "ano hito wa kono daigaku no gakusei no you desu.", "ta": "அவர் இந்தப் பல்கலைக்கழக மாணவர் போலத் தெரிகிறது.", "en": "That person seems to be a student at this university." },
+        { "ja": "隣の部屋にはだれもいないようです。", "reading": "となりの へやには だれも いない ようです。", "romaji": "tonari no heya ni wa dare mo inai you desu.", "ta": "பக்கத்து அறையில் யாரும் இல்லை போலத் தெரிகிறது.", "en": "There seems to be nobody in the next room." }
+      ],
+      "pitfalls_en": "Do not forget の after a noun: 学生ようです is wrong; say 学生のようです. And do not use ようです for news you only heard from someone. That is そうです.",
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் の மறக்கக்கூடாது: 学生ようです தவறு, 学生のようです சரி. பிறர் சொன்னதை மட்டும் கேட்டுச் சொல்லும்போது ようです அல்ல, そうです."
+    },
+    {
+      "id": "g22-4",
+      "pattern": "plain form / N みたいです",
+      "name": { "en": "Seems / looks like (casual)", "ta": "-மாதிரித் தெரிகிறது (சாதாரணப் பேச்சு)" },
+      "explanation_en": "みたいです means the same as ようです, but it is casual. You hear it a lot in daily talk. With friends you can drop です: 寒いみたい. The joining is a little different. な-adjectives and nouns take みたい directly, with no な or の: 好きみたい, 日本人みたい.",
+      "explanation_ta": "みたいです என்பதும் ようです போலவே 'போலத் தெரிகிறது' என்ற பொருள்தான்; ஆனால் இது அன்றாடப் பேச்சு வடிவம். நண்பர்களுடன் です இல்லாமல் 寒いみたい என்று சொல்லலாம். இணைக்கும் விதம் சற்று வேறு: な-பெயரடை, பெயர்ச்சொல் இரண்டும் な / の இல்லாமல் நேரடியாக みたい உடன் சேரும் (好きみたい, 日本人みたい). தமிழில் 'மாதிரி இருக்கு' என்ற பேச்சு வழக்கு போல.",
+      "tamil_parallel": "外は寒いみたいです = வெளியே குளிர் மாதிரி இருக்கு.",
+      "tamil_parallel_en": "外は寒いみたいです = \"It looks cold outside\" (வெளியே குளிர் மாதிரி இருக்கு).",
+      "formation": "வினை / い-பெயரடை plain + みたいです\nかぜを ひいた みたいです、さむい みたいです\nな-பெயரடை / பெயர்ச்சொல் + みたいです (な, の இல்லை)\nすき みたいです、にほんじん みたいです\nநண்பர்களுடன்: 〜みたい / 〜みたいだ",
+      "formation_en": "verb / い-adj plain + みたいです\nかぜを ひいた みたいです、さむい みたいです\nな-adj / noun + みたいです (no な, no の)\nすき みたいです、にほんじん みたいです\nwith friends: 〜みたい / 〜みたいだ",
+      "examples": [
+        { "ja": "外はとても寒いみたいです。", "reading": "そとは とても さむい みたいです。", "romaji": "soto wa totemo samui mitai desu.", "ta": "வெளியே ரொம்பக் குளிர் மாதிரி இருக்கு.", "en": "It looks very cold outside." },
+        { "ja": "田中さん、かぜを引いたみたいですね。", "reading": "たなかさん、かぜを ひいた みたいですね。", "romaji": "tanaka-san, kaze o hiita mitai desu ne.", "ta": "தனாகாவுக்குச் சளி பிடித்த மாதிரி இருக்கே.", "en": "Mr Tanaka seems to have caught a cold." },
+        { "ja": "あの人、日本人みたいですね。", "reading": "あの ひと、にほんじん みたいですね。", "romaji": "ano hito, nihonjin mitai desu ne.", "ta": "அவர் ஜப்பானியர் மாதிரித் தெரிகிறார், இல்லையா?", "en": "That person looks Japanese, doesn't he?" },
+        { "ja": "弟は野菜が嫌いみたいです。", "reading": "おとうとは やさいが きらい みたいです。", "romaji": "otouto wa yasai ga kirai mitai desu.", "ta": "தம்பிக்குக் காய்கறி பிடிக்காது மாதிரி இருக்கு.", "en": "My younger brother seems to dislike vegetables." },
+        { "ja": "この部屋、だれもいないみたいだよ。", "reading": "この へや、だれも いない みたいだよ。", "romaji": "kono heya, dare mo inai mitai da yo.", "ta": "இந்த அறையில் யாரும் இல்லை மாதிரி இருக்குடா.", "en": "Looks like there's nobody in this room." },
+        { "ja": "その番組、もう終わったみたいですよ。", "reading": "その ばんぐみ、もう おわった みたいですよ。", "romaji": "sono bangumi, mou owatta mitai desu yo.", "ta": "அந்த நிகழ்ச்சி ஏற்கனவே முடிந்துவிட்டது மாதிரி இருக்கு.", "en": "That programme seems to have finished already." }
+      ],
+      "pitfalls_en": "Do not say 日本人のみたい or 好きなみたい. みたい joins nouns and な-adjectives directly. In formal writing, use ようです instead.",
+      "pitfalls_ta": "日本人のみたい, 好きなみたい என்று சொல்லக்கூடாது; みたい நேரடியாகச் சேரும். முறையான எழுத்தில் みたい பதிலாக ようです பயன்படுத்துங்கள்."
+    },
+    {
+      "id": "g22-5",
+      "pattern": "plain form らしいです",
+      "name": { "en": "Apparently … (from what I heard)", "ta": "-ஆம் போல (கேள்விப்பட்டபடி)" },
+      "explanation_en": "らしいです means \"apparently\" or \"it seems\". You base it on things you heard or read, not on your own eyes. It sits between そうです and ようです. そうです passes on the words directly. らしいです adds \"I think it's true, but I'm not sure\". It is common in daily talk. な-adjectives and nouns join directly, with no だ: 医者らしいです.",
+      "explanation_ta": "らしいです என்றால் 'அப்படித்தான் போல', 'கேள்விப்பட்டபடி' என்று பொருள். நேரில் பார்த்ததை அல்ல, கேட்ட அல்லது படித்த தகவலை அடிப்படையாகக் கொண்டு சொல்கிறோம். そうです பிறர் சொன்னதை அப்படியே தருகிறது; らしいです 'உண்மைதான் என்று நினைக்கிறேன், ஆனால் உறுதியில்லை' என்ற உணர்வைச் சேர்க்கிறது. அன்றாடப் பேச்சில் அதிகம் வரும். な-பெயரடை, பெயர்ச்சொல் だ இல்லாமல் நேரடியாகச் சேரும்: 医者らしいです.",
+      "tamil_parallel": "あの店は高いらしいです = அந்தக் கடை விலை அதிகம் போல (அப்படிக் கேள்விப்பட்டேன்).",
+      "tamil_parallel_en": "あの店は高いらしいです = \"Apparently that shop is expensive\" (விலை அதிகம் போல, so I hear).",
+      "formation": "வினை / い-பெயரடை plain + らしいです\nできる らしいです、たかい らしいです\nな-பெயரடை / பெயர்ச்சொல் + らしいです (だ இல்லை)\nしずか らしいです、いしゃ らしいです",
+      "formation_en": "verb / い-adj plain + らしいです\nできる らしいです、たかい らしいです\nな-adj / noun + らしいです (no だ)\nしずか らしいです、いしゃ らしいです",
+      "examples": [
+        { "ja": "駅の前に新しいスーパーができるらしいです。", "reading": "えきの まえに あたらしい スーパーが できる らしいです。", "romaji": "eki no mae ni atarashii suupaa ga dekiru rashii desu.", "ta": "ஸ்டேஷன் முன்னால் புதிய சூப்பர் மார்க்கெட் வரப்போகிறது போல.", "en": "Apparently a new supermarket is opening in front of the station." },
+        { "ja": "あのレストランはとても高いらしいですよ。", "reading": "あの レストランは とても たかい らしいですよ。", "romaji": "ano resutoran wa totemo takai rashii desu yo.", "ta": "அந்த உணவகம் ரொம்ப விலை அதிகம் போல.", "en": "That restaurant is apparently very expensive." },
+        { "ja": "隣の人は医者らしいです。", "reading": "となりの ひとは いしゃ らしいです。", "romaji": "tonari no hito wa isha rashii desu.", "ta": "பக்கத்து வீட்டுக்காரர் மருத்துவர் போல.", "en": "Apparently the person next door is a doctor." },
+        { "ja": "昨日の試験はあまり難しくなかったらしいです。", "reading": "きのうの しけんは あまり むずかしく なかった らしいです。", "romaji": "kinou no shiken wa amari muzukashiku nakatta rashii desu.", "ta": "நேற்றைய தேர்வு அவ்வளவு கடினமாக இல்லையாம் போல.", "en": "Apparently yesterday's exam wasn't very hard." },
+        { "ja": "社長は来月アメリカへ行くらしいです。", "reading": "しゃちょうは らいげつ アメリカへ いく らしいです。", "romaji": "shachou wa raigetsu amerika e iku rashii desu.", "ta": "நிறுவனத் தலைவர் அடுத்த மாதம் அமெரிக்கா போகிறார் போல.", "en": "Apparently the company president is going to America next month." },
+        { "ja": "この町は昔、工業が盛んだったらしいです。", "reading": "この まちは むかし、こうぎょうが さかんだった らしいです。", "romaji": "kono machi wa mukashi, kougyou ga sakan datta rashii desu.", "ta": "இந்த ஊரில் முன்பு உற்பத்தித் தொழில் செழிப்பாக இருந்தது போல.", "en": "Apparently this town once had a lot of industry." }
+      ],
+      "pitfalls_en": "Do not say 医者だらしいです. In the present, nouns and な-adjectives take らしい with no だ. In the past, use だった: 盛んだったらしい.",
+      "pitfalls_ta": "医者だらしいです தவறு; நிகழ்காலத்தில் だ இல்லாமல் 医者らしいです. கடந்த காலத்தில் மட்டும் だった சேரும்: 盛んだったらしい."
+    },
+    {
+      "id": "g22-6",
+      "pattern": "N1 らしい N2",
+      "name": { "en": "Just like a real N1", "ta": "உண்மையான N1-க்கு ஏற்ற" },
+      "explanation_en": "N1 らしい means \"typical of N1\" or \"just like a real N1\". It works like an い-adjective: 男らしい人 (a manly man), 春らしい日 (a real spring day). The negative is らしくない: あなたらしくない (not like you). This is different from らしいです for \"apparently\". Here the person or thing really is N1, and it has the good points of N1.",
+      "explanation_ta": "N1 らしい என்றால் 'உண்மையான N1-க்கு உரிய', 'N1-க்கு ஏற்ற' என்று பொருள். இது い-பெயரடை போல் செயல்படும்: 男らしい人 (ஆண்மைமிக்க மனிதர்), 春らしい日 (வசந்தகாலத்துக்கே உரிய நாள்). எதிர்மறை らしくない: あなたらしくない (உங்களுக்கு ஏற்றதல்ல, உங்கள் இயல்பல்ல). 'கேள்விப்பட்டபடி' என்ற らしいです-இலிருந்து இது வேறு; இங்கே அவர் உண்மையிலேயே N1, அதன் சிறப்புக் குணங்களும் உள்ளன.",
+      "tamil_parallel": "春らしい日 = வசந்தகாலத்துக்கே உரிய நாள்; 学生らしい服 = மாணவருக்கு ஏற்ற உடை.",
+      "tamil_parallel_en": "春らしい日 = \"a real spring day\" (வசந்தகாலத்துக்கே உரிய நாள்). 学生らしい服 = \"clothes right for a student\" (மாணவருக்கு ஏற்ற உடை).",
+      "formation": "N1 + らしい + N2\nはる らしい ひ、おとこ らしい ひと\nஎதிர்மறை: N1 + らしくない\nあなた らしくないです",
+      "formation_en": "N1 + らしい + N2\nはる らしい ひ、おとこ らしい ひと\nnegative: N1 + らしくない\nあなた らしくないです",
+      "examples": [
+        { "ja": "今日は春らしい暖かい日ですね。", "reading": "きょうは はるらしい あたたかい ひですね。", "romaji": "kyou wa harurashii atatakai hi desu ne.", "ta": "இன்று வசந்தகாலத்துக்கே உரிய இதமான நாள், இல்லையா?", "en": "Today is a warm, real spring day, isn't it?" },
+        { "ja": "兄はとても男らしい人です。", "reading": "あには とても おとこらしい ひとです。", "romaji": "ani wa totemo otokorashii hito desu.", "ta": "என் அண்ணன் மிகவும் ஆண்மைமிக்கவர்.", "en": "My older brother is a very manly person." },
+        { "ja": "日本らしいお土産を買いたいです。", "reading": "にほんらしい おみやげを かいたいです。", "romaji": "nihonrashii omiyage o kaitai desu.", "ta": "ஜப்பானுக்கே உரிய ஒரு நினைவுப் பரிசு வாங்க விரும்புகிறேன்.", "en": "I want to buy a souvenir that is typically Japanese." },
+        { "ja": "もっと学生らしい服を着なさい。", "reading": "もっと がくせいらしい ふくを きなさい。", "romaji": "motto gakuseirashii fuku o kinasai.", "ta": "மாணவருக்கு ஏற்ற உடையை அணி.", "en": "Wear clothes that suit a student better." },
+        { "ja": "遅れて来るのは、あなたらしくないですね。", "reading": "おくれて くるのは、あなたらしく ないですね。", "romaji": "okurete kuru no wa, anatarashiku nai desu ne.", "ta": "தாமதமாக வருவது உங்கள் இயல்பல்லவே.", "en": "Coming late isn't like you." }
+      ],
+      "pitfalls_en": "Do not confuse it with N のような. 子どものような人 is an adult who acts like a child. 子どもらしい子ども is a child with the good, natural points of a child.",
+      "pitfalls_ta": "N のような உடன் குழப்ப வேண்டாம்: 子どものような人 = குழந்தை போல நடந்துகொள்ளும் பெரியவர்; 子どもらしい子ども = குழந்தைக்கே உரிய இயல்புடைய குழந்தை."
+    }
+  ],
+  "vocab_ids": ["n4-v-013", "n4-v-091", "n4-v-104", "n4-v-168", "n4-v-179", "n4-v-244", "n4-v-279", "n4-v-303", "n4-v-304", "n4-v-356", "n4-v-376", "n4-v-405", "n4-v-429", "n4-v-432", "n4-v-444", "n4-v-465", "n4-v-466", "n4-v-467", "n4-v-541", "n4-v-560", "n4-v-578", "n4-v-617", "n4-v-633", "n4-v-649", "n4-v-653", "n4-v-668"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L22-q01", "type": "kanji_reading", "sentence": "日本は 外国から 食べ物を ＿輸入＿して います。", "target": "輸入", "options": ["ゆにゅう", "ゆしゅつ", "ゆうにゅう", "ゆにゅ"], "answer": 0, "explanation_ta": "輸入 = ゆにゅう (இறக்குமதி). ゆしゅつ என்பது 輸出 (ஏற்றுமதி), எதிர்ப்பொருள். ゆ குறுகியது, にゅう நீண்டது.", "explanation_en": "輸入 = ゆにゅう (இறக்குமதி, import). ゆしゅつ is 輸出 (export), the opposite. ゆ is short and にゅう is long." },
+      { "id": "L22-q02", "type": "kanji_reading", "sentence": "この 町の ＿人口＿は 少しずつ 増えて います。", "target": "人口", "options": ["にんこう", "じんこう", "ひとぐち", "じんごう"], "answer": 1, "explanation_ta": "人口 = じんこう (மக்கள்தொகை). 人 இங்கே じん; こう-க்கு dakuten இல்லை.", "explanation_en": "人口 = じんこう (மக்கள்தொகை, population). Here 人 is じん, and こう has no dakuten." },
+      { "id": "L22-q03", "type": "kanji_reading", "sentence": "大学で ＿経済＿を 勉強したいです。", "target": "経済", "options": ["けいさい", "きょうざい", "けいざつ", "けいざい"], "answer": 3, "explanation_ta": "経済 = けいざい (பொருளாதாரம்). 済 இங்கே ざい என்று dakuten உடன் வரும்; けいさい தவறு.", "explanation_en": "経済 = けいざい (பொருளாதாரம், economy). Here 済 becomes ざい with dakuten. けいさい is wrong." },
+      { "id": "L22-q04", "type": "orthography", "sentence": "この 町は ＿こうぎょう＿が 盛んです。", "target": "こうぎょう", "options": ["校業", "工業", "交業", "工行"], "answer": 1, "explanation_ta": "こうぎょう = 工業 (உற்பத்தித் தொழில்). 工 = வேலை, தொழிற்சாலை (工場). 校 பள்ளி, 交 சந்திப்பு; பொருள் வேறு.", "explanation_en": "こうぎょう = 工業 (உற்பத்தித் தொழில், industry). 工 is the kanji in 工場 (factory). 校 (school) and 交 (cross) have other meanings." },
+      { "id": "L22-q05", "type": "orthography", "sentence": "好きな テレビ＿ばんぐみ＿は 何ですか。", "target": "ばんぐみ", "options": ["晩組", "番祖", "番組", "番細"], "answer": 2, "explanation_ta": "ばんぐみ = 番組 (நிகழ்ச்சி). 晩 என்பது இரவு (今晩); ஒலி ஒன்று, கான்ஜி வேறு. 祖, 細 தோற்றத்தில் 組 போலத் தெரியும் வேறு கான்ஜிகள்.", "explanation_en": "ばんぐみ = 番組 (நிகழ்ச்சி, programme). 晩 means evening (今晩). It sounds the same but is a different kanji. 祖 and 細 only look like 組." },
+      { "id": "L22-q06", "type": "vocab_context", "sentence": "来月から バスの 料金が （　　）そうです。", "options": ["増える", "上がる", "進む", "行う"], "answer": 1, "explanation_ta": "விலை, கட்டணம் உயர்வது → 上がる. 増える எண்ணிக்கை அதிகரிப்பதற்கு (人が増える); 料金 உடன் 上がる தான் இயல்பானது.", "explanation_en": "Prices and fares go up → 上がる (உயர). 増える is for numbers of things or people (人が増える). With 料金 (fare), say 上がる." },
+      { "id": "L22-q07", "type": "vocab_context", "sentence": "会議で みんなが 自分の （　　）を 言いました。", "options": ["番組", "人口", "意見", "戦争"], "answer": 2, "explanation_ta": "கூட்டத்தில் தன் 'கருத்தை' சொல்வது → 意見. மற்றவை (நிகழ்ச்சி, மக்கள்தொகை, போர்) பொருந்தாது.", "explanation_en": "At a meeting, people give their opinion → 意見 (கருத்து). Programme, population and war do not fit." },
+      { "id": "L22-q08", "type": "vocab_context", "sentence": "インドは お茶を たくさん 作って、外国に （　　）して います。", "options": ["輸入", "放送", "反対", "輸出"], "answer": 3, "explanation_ta": "நாட்டில் தயாரித்து வெளிநாட்டுக்கு அனுப்புவது → 輸出 (ஏற்றுமதி). 輸入 வெளிநாட்டிலிருந்து வாங்குவது; திசை எதிர்.", "explanation_en": "Making something and sending it abroad → 輸出 (ஏற்றுமதி, export). 輸入 (import) is buying from abroad, the opposite direction." },
+      { "id": "L22-q09", "type": "vocab_context", "sentence": "テレビ局の （　　）が 毎晩 七時に ニュースを 読みます。", "options": ["アナウンサー", "市民", "新聞社", "番組"], "answer": 0, "explanation_ta": "செய்தியை வாசிக்கும் நபர் → アナウンサー (செய்தி வாசிப்பாளர்). 新聞社 ஒரு நிறுவனம், நபர் அல்ல.", "explanation_en": "The person who reads the news → アナウンサー (செய்தி வாசிப்பாளர், announcer). 新聞社 is a company, not a person." },
+      { "id": "L22-q10", "type": "vocab_context", "sentence": "日本で 働く 外国人の 数が 毎年 （　　）います。", "options": ["上がって", "盛んで", "行って", "増えて"], "answer": 3, "explanation_ta": "எண்ணிக்கை (数) அதிகரிப்பது → 増えて います. 上がる விலை, வெப்பநிலை போன்றவற்றுக்கு.", "explanation_en": "A number (数) grows → 増えています (அதிகரிக்கிறது). 上がる is for prices, temperature and so on." },
+      { "id": "L22-q11", "type": "paraphrase", "sentence": "最近、この 町では サッカーが 盛んです。", "options": ["昔、この 町では サッカーを する 人が 多かったです。", "この頃、この 町では サッカーが 下手な 人が 多いです。", "この頃、この 町では サッカーを する 人が 多いです。", "この頃、この 町では サッカーを する 人が 少ないです。"], "answer": 2, "explanation_ta": "最近 = この頃 (இப்போதெல்லாம்); 盛ん = பலர் ஈடுபடுவது. எனவே 'விளையாடுபவர் அதிகம்'. 昔 (முன்பு) காலம் தவறு.", "explanation_en": "最近 = この頃 (these days). 盛ん means many people do it. So \"many people play\" is right. 昔 (long ago) is the wrong time." },
+      { "id": "L22-q12", "type": "paraphrase", "sentence": "山田さんは 来月 国へ 帰るそうです。", "options": ["山田さんは 来月 国へ 帰ると 聞きました。", "山田さんは 来月 国へ 帰りそうです。", "山田さんは 来月 国へ 帰りたがって います。", "山田さんは 先月 国へ 帰りました。"], "answer": 0, "explanation_ta": "帰るそうです = 'போகிறாராம்' (கேள்வி) = 帰ると聞きました. 帰りそうです 'போவார் போலத் தெரிகிறது' (தோற்றம்); இது முக்கியப் பொறி.", "explanation_en": "帰るそうです = \"I heard he is going home\" = 帰ると聞きました. 帰りそうです means \"he looks like he will go home\". That is the main trap." },
+      { "id": "L22-q13", "type": "usage", "sentence": "盛ん", "options": ["今日は とても 盛んな 天気ですね。", "この 料理は 盛んで おいしいです。", "弟は 部屋で 盛んに 寝て います。", "この 町は 工業が 盛んで、工場が 多いです。"], "answer": 3, "explanation_ta": "盛ん = ஒரு துறை, விளையாட்டு, தொழில் செழிப்பாக, பரவலாக இருப்பது: 工業が盛ん சரி. வானிலை, சுவை, தூக்கம் ஆகியவற்றுக்குப் பொருந்தாது.", "explanation_en": "盛ん (செழிப்பான) is for a field, sport or industry that is active: 工業が盛ん is right. It does not fit weather, taste or sleep." },
+      { "id": "L22-q14", "type": "usage", "sentence": "反対", "options": ["先生の 話を よく 反対して ください。", "私は その 計画に 反対です。", "来週 大学で 反対が あります。", "この ペンは 反対で 書きやすいです。"], "answer": 1, "explanation_ta": "反対 = எதிர்ப்பு; '〜に反対です' (-ஐ எதிர்க்கிறேன்) சரியான வழக்கு. 'நன்றாகக் கேளுங்கள்' என்பதற்கு 聞いて தான்.", "explanation_en": "反対 (எதிர்ப்பு) = being against. 〜に反対です (I'm against …) is the right use. \"Listen well\" needs 聞いて, not 反対して." },
+      { "id": "L22-q15", "type": "grammar_form", "sentence": "天気予報（　　）、明日は 雪が 降るそうです。", "options": ["の とおりに", "までに", "に よると", "の ために"], "answer": 2, "explanation_ta": "தகவலின் மூலத்தைச் சொல்ல → によると (-இன்படி), முடிவில் そうです. のとおりに 'சொன்னபடியே செய்' என்ற செயலுக்கு; இங்கே பொருந்தாது.", "explanation_en": "To name the source of news → によると (according to), with そうです at the end. のとおりに means \"do it exactly as …\". It does not fit here." },
+      { "id": "L22-q16", "type": "grammar_form", "sentence": "田中さんから 聞きました。田中さんは 来月 結婚（　　）そうです。", "options": ["して", "した", "し", "する"], "answer": 3, "explanation_ta": "கேட்ட செய்தி + 来月 (எதிர்காலம்) → plain வடிவம் する + そうです. し + そう என்றால் 'திருமணம் செய்வார் போலத் தெரிகிறது' (தோற்றம்); கேட்ட செய்திக்குப் பொருந்தாது.", "explanation_en": "News you heard + 来月 (future) → plain form する + そうです. し + そう means \"looks like he'll marry\". That is about appearance, not news." },
+      { "id": "L22-q17", "type": "grammar_form", "sentence": "友だちが 言って いました。あの 店の ケーキは とても （　　）そうです。", "options": ["おいしい", "おいし", "おいしく", "おいしいだ"], "answer": 0, "explanation_ta": "நண்பர் சொன்னது → கேள்வி そうです → முழு plain வடிவம் おいしい. おいし + そう என்றால் 'சுவையாகத் தெரிகிறது' (பார்த்துச் சொல்வது). い-பெயரடைக்கு だ வராது.", "explanation_en": "A friend said it → hearsay そうです → full plain form おいしい. おいし + そう means \"looks tasty\" (from seeing it). い-adjectives never take だ." },
+      { "id": "L22-q18", "type": "grammar_form", "sentence": "あの 人は この 大学の 学生（　　）ようです。", "options": ["な", "だ", "の", "に"], "answer": 2, "explanation_ta": "பெயர்ச்சொல் + ようです இடையில் の வேண்டும் → 学生のようです. な என்பது な-பெயரடைக்கு மட்டும் (静かなようです).", "explanation_en": "Between a noun and ようです you need の → 学生のようです. な is only for な-adjectives (静かなようです)." },
+      { "id": "L22-q19", "type": "grammar_form", "sentence": "ラジャさんは からい 物が 好き（　　）ようです。", "options": ["な", "の", "だ", "に"], "answer": 0, "explanation_ta": "好き ஒரு な-பெயரடை → 好きなようです. の பெயர்ச்சொல்லுக்கு; みたい ஆக இருந்தால் 好きみたい (எதுவும் இல்லாமல்).", "explanation_en": "好き is a な-adjective → 好きなようです. の is for nouns. With みたい you would say 好きみたい, with nothing in between." },
+      { "id": "L22-q20", "type": "grammar_form", "sentence": "今日は 春（　　）暖かい 日ですね。", "options": ["そうな", "らしい", "ような", "みたいに"], "answer": 1, "explanation_ta": "'வசந்தகாலத்துக்கே உரிய நாள்' → 春らしい日. 'போல' என்று சொல்ல 春のような என்று の வேண்டும்; 春ような தவறு. みたいに வினைக்கு முன் வரும், பெயர்ச்சொல்லுக்கு முன் அல்ல.", "explanation_en": "\"A day typical of spring\" → 春らしい日. For \"like spring\" you need の: 春のような. 春ような is wrong. みたいに goes before a verb, not a noun." },
+      { "id": "L22-q21", "type": "grammar_form", "sentence": "ニュースに よると、昨日 北海道で 大きい 地震が （　　）そうです。", "options": ["ありそう", "ある ところ", "あって", "あった"], "answer": 3, "explanation_ta": "昨日 (நேற்று) நடந்த செய்தி → கடந்த plain வடிவம் あった + そうです = 'ஏற்பட்டதாம்'. ありそう 'இருக்கும் போல' (தோற்றம்).", "explanation_en": "News about 昨日 (yesterday) → past plain form あった + そうです = \"I hear there was\". ありそう means \"looks like there will be\"." },
+      { "id": "L22-q22", "type": "sentence_order", "before": "新聞", "chunks": ["に", "よると", "物価が", "上がる"], "star": 2, "after": "そうです。", "explanation_ta": "新聞 + に + よると (செய்தித்தாளின்படி) → 物価が (விலைவாசி) → 上がるそうです (உயருமாம்).", "explanation_en": "新聞 + に + よると (according to the paper) → 物価が (prices) → 上がるそうです (will rise, they say)." },
+      { "id": "L22-q23", "type": "sentence_order", "before": "電気が 消えて いますね。隣の 部屋には", "chunks": ["だれも", "いない", "みたい", "です"], "star": 1, "after": "ね。", "explanation_ta": "だれも (யாரும்) → いない (இல்லை) → みたい → です: தடயத்தை வைத்து ஊகம் = 'யாரும் இல்லை மாதிரி இருக்கு'.", "explanation_en": "だれも (nobody) → いない → みたい → です. A guess from a clue: \"there seems to be nobody\"." },
+      { "id": "L22-q24", "type": "sentence_order", "before": "国へ 帰る 前に、", "chunks": ["日本", "らしい", "お土産を", "買いたい"], "star": 1, "after": "です。", "explanation_ta": "日本 + らしい (ஜப்பானுக்கே உரிய) → お土産を (நினைவுப் பரிசை) → 買いたいです.", "explanation_en": "日本 + らしい (typically Japanese) → お土産を (a souvenir) → 買いたいです (I want to buy)." },
+      { "id": "L22-q25", "type": "passage_cloze", "passage": "きのう、テレビで 経済の ニュースを 見ました。アナウンサーの 話に［1］、来年から 電気の 料金が 上がる［2］。最近、外国から 輸入する 物の 値段が 高く なって いる［3］。私の 家でも、電気を 大切に 使おうと 思います。", "blanks": [
+        { "options": ["ために", "よると", "とおりに", "までに"], "answer": 1 },
+        { "options": ["ところです", "ばかりです", "そうです", "つもりです"], "answer": 2 },
+        { "options": ["つもりです", "らしいです", "ほうが いいです", "ことに します"], "answer": 1 }
+      ], "explanation_ta": "［1］ தகவலின் மூலம் → 話によると. ［2］ கேட்ட செய்தி → 上がるそうです (உயருமாம்). ［3］ கேள்விப்பட்ட காரணம், உறுதியில்லை → 高くなっているらしいです. つもり சொந்தத் திட்டத்துக்கு மட்டும்.", "explanation_en": "[1] The source of the news → 話によると (according to what he said). [2] News you heard → 上がるそうです (will go up, they say). [3] A reason you heard but are not sure of → 高くなっているらしいです. つもり is only for your own plans." }
+    ]
+  }
+}

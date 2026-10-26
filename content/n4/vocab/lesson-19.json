@@ -1,0 +1,470 @@
+[
+  {
+    "id": "n4-v-079",
+    "expression": "過ぎる",
+    "reading": "すぎる",
+    "romaji": "sugiru",
+    "en": "to pass; to go too far",
+    "ta": "கடந்துபோக (அளவு மீற)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "約束の時間はもう過ぎました。",
+        "reading": "やくそくの じかんは もう すぎました。",
+        "romaji": "yakusoku no jikan wa mou sugimashita.",
+        "ta": "சந்திக்க வேண்டிய நேரம் ஏற்கனவே கடந்துவிட்டது.",
+        "en": "The time we agreed on has already passed."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-093",
+    "expression": "絹",
+    "reading": "きぬ",
+    "romaji": "kinu",
+    "en": "silk",
+    "ta": "பட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "カーンチプラムは絹のサリーで有名です。",
+        "reading": "カーンチプラムは きぬの サリーで ゆうめいです。",
+        "romaji": "kaanchipuramu wa kinu no sarii de yuumei desu.",
+        "ta": "காஞ்சிபுரம் பட்டுப் புடவைக்குப் பெயர் பெற்றது.",
+        "en": "Kanchipuram is famous for silk saris."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-143",
+    "expression": "無理",
+    "reading": "むり",
+    "romaji": "muri",
+    "en": "impossible; too much",
+    "ta": "முடியாத (சாத்தியமில்லாத)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "一日でこの本を全部読むのは無理です。",
+        "reading": "いちにちで この ほんを ぜんぶ よむのは むりです。",
+        "romaji": "ichinichi de kono hon o zenbu yomu no wa muri desu.",
+        "ta": "ஒரே நாளில் இந்தப் புத்தகம் முழுவதையும் படிப்பது முடியாது.",
+        "en": "Reading this whole book in one day is impossible."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-248",
+    "expression": "選ぶ",
+    "reading": "えらぶ",
+    "romaji": "erabu",
+    "en": "to choose",
+    "ta": "தேர்ந்தெடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "母の誕生日のプレゼントを選んでいます。",
+        "reading": "ははの たんじょうびの プレゼントを えらんで います。",
+        "romaji": "haha no tanjoubi no purezento o erande imasu.",
+        "ta": "அம்மாவின் பிறந்தநாள் பரிசைத் தேர்ந்தெடுத்துக்கொண்டிருக்கிறேன்.",
+        "en": "I’m choosing a birthday present for my mother."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-262",
+    "expression": "オーバー",
+    "reading": "オーバー",
+    "romaji": "oobaa",
+    "en": "overcoat",
+    "ta": "மேலங்கி (ஓவர்கோட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "寒いので、オーバーを着て出かけます。",
+        "reading": "さむいので、オーバーを きて でかけます。",
+        "romaji": "samui node, oobaa o kite dekakemasu.",
+        "ta": "குளிராக இருப்பதால் மேலங்கி அணிந்து வெளியே போகிறேன்.",
+        "en": "It’s cold, so I’ll wear an overcoat when I go out."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-298",
+    "expression": "鏡",
+    "reading": "かがみ",
+    "romaji": "kagami",
+    "en": "mirror",
+    "ta": "கண்ணாடி (முகம் பார்க்கும்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "出かける前に、鏡で顔を見ます。",
+        "reading": "でかける まえに、かがみで かおを みます。",
+        "romaji": "dekakeru mae ni, kagami de kao o mimasu.",
+        "ta": "வெளியே போகும் முன் கண்ணாடியில் முகம் பார்ப்பேன்.",
+        "en": "Before I go out, I check my face in the mirror."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-325",
+    "expression": "手袋",
+    "reading": "てぶくろ",
+    "romaji": "tebukuro",
+    "en": "gloves",
+    "ta": "கையுறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冬は手袋をして自転車に乗ります。",
+        "reading": "ふゆは てぶくろを して じてんしゃに のります。",
+        "romaji": "fuyu wa tebukuro o shite jitensha ni norimasu.",
+        "ta": "குளிர்காலத்தில் கையுறை அணிந்து சைக்கிள் ஓட்டுவேன்.",
+        "en": "In winter I wear gloves when I ride my bike."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-357",
+    "expression": "着物",
+    "reading": "きもの",
+    "romaji": "kimono",
+    "en": "kimono",
+    "ta": "கிமோனோ (ஜப்பானியப் பாரம்பரிய உடை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "正月に、姉は着物を着ました。",
+        "reading": "しょうがつに、あねは きものを きました。",
+        "romaji": "shougatsu ni, ane wa kimono o kimashita.",
+        "ta": "புத்தாண்டில் அக்கா கிமோனோ அணிந்தார்.",
+        "en": "My sister wore a kimono at New Year."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-387",
+    "expression": "～やすい",
+    "reading": "～やすい",
+    "romaji": "～yasui",
+    "en": "easy to ~",
+    "ta": "~ எளிதான",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "このペンは軽くて書きやすいです。",
+        "reading": "この ペンは かるくて かきやすいです。",
+        "romaji": "kono pen wa karukute kakiyasui desu.",
+        "ta": "இந்தப் பேனா எடை குறைவாக இருப்பதால் எழுத எளிது.",
+        "en": "This pen is light and easy to write with."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-391",
+    "expression": "サンダル",
+    "reading": "サンダル",
+    "romaji": "sandaru",
+    "en": "sandals",
+    "ta": "செருப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏はいつもサンダルで出かけます。",
+        "reading": "なつは いつも サンダルで でかけます。",
+        "romaji": "natsu wa itsumo sandaru de dekakemasu.",
+        "ta": "கோடையில் எப்போதும் செருப்பு போட்டுக்கொண்டு வெளியே போவேன்.",
+        "en": "In summer I always go out in sandals."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-394",
+    "expression": "変える",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "en": "to change",
+    "ta": "மாற்ற",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "髪の色を変えました。どうですか。",
+        "reading": "かみの いろを かえました。どうですか。",
+        "romaji": "kami no iro o kaemashita. dou desu ka.",
+        "ta": "தலைமுடியின் நிறத்தை மாற்றினேன். எப்படி இருக்கிறது?",
+        "en": "I changed my hair colour. What do you think?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-400",
+    "expression": "特に",
+    "reading": "とくに",
+    "romaji": "tokuni",
+    "en": "especially",
+    "ta": "குறிப்பாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "果物は何でも好きですが、特にマンゴーが好きです。",
+        "reading": "くだものは なんでも すきですが、とくに マンゴーが すきです。",
+        "romaji": "kudamono wa nan demo suki desu ga, toku ni mangoo ga suki desu.",
+        "ta": "எல்லாப் பழங்களும் பிடிக்கும், குறிப்பாக மாம்பழம் பிடிக்கும்.",
+        "en": "I like all fruit, but I especially like mangoes."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-404",
+    "expression": "下着",
+    "reading": "したぎ",
+    "romaji": "shitagi",
+    "en": "underwear",
+    "ta": "உள்ளாடை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行のために、新しい下着を買いました。",
+        "reading": "りょこうの ために、あたらしい したぎを かいました。",
+        "romaji": "ryokou no tame ni, atarashii shitagi o kaimashita.",
+        "ta": "பயணத்துக்காகப் புதிய உள்ளாடைகள் வாங்கினேன்.",
+        "en": "I bought new underwear for the trip."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-450",
+    "expression": "スーツ",
+    "reading": "スーツ",
+    "romaji": "suutsu",
+    "en": "suit",
+    "ta": "சூட் (அலுவலக உடை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "面接にはスーツを着て行きます。",
+        "reading": "めんせつには スーツを きて いきます。",
+        "romaji": "mensetsu ni wa suutsu o kite ikimasu.",
+        "ta": "நேர்முகத் தேர்வுக்கு சூட் அணிந்து போவேன்.",
+        "en": "I wear a suit to job interviews."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-452",
+    "expression": "髪",
+    "reading": "かみ",
+    "romaji": "kami",
+    "en": "hair",
+    "ta": "தலைமுடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は髪が長くて、きれいです。",
+        "reading": "あねは かみが ながくて、きれいです。",
+        "romaji": "ane wa kami ga nagakute, kirei desu.",
+        "ta": "அக்காவுக்கு நீளமான அழகான தலைமுடி.",
+        "en": "My sister has long, beautiful hair."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-470",
+    "expression": "指輪",
+    "reading": "ゆびわ",
+    "romaji": "yubiwa",
+    "en": "ring",
+    "ta": "மோதிரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "誕生日に母から金の指輪をもらいました。",
+        "reading": "たんじょうびに ははから きんの ゆびわを もらいました。",
+        "romaji": "tanjoubi ni haha kara kin no yubiwa o moraimashita.",
+        "ta": "பிறந்தநாளுக்கு அம்மாவிடமிருந்து தங்க மோதிரம் கிடைத்தது.",
+        "en": "My mother gave me a gold ring for my birthday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-513",
+    "expression": "合う",
+    "reading": "あう",
+    "romaji": "au",
+    "en": "to fit; to match",
+    "ta": "பொருந்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この青いネクタイはスーツによく合います。",
+        "reading": "この あおい ネクタイは スーツに よく あいます。",
+        "romaji": "kono aoi nekutai wa suutsu ni yoku aimasu.",
+        "ta": "இந்த நீல டை சூட்டுடன் நன்றாகப் பொருந்துகிறது.",
+        "en": "This blue tie goes well with the suit."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-551",
+    "expression": "格好",
+    "reading": "かっこう",
+    "romaji": "kakkou",
+    "en": "appearance; how you’re dressed",
+    "ta": "தோற்றம் (உடை அலங்காரம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "そんなかっこうで会社に行くんですか。",
+        "reading": "そんな かっこうで かいしゃに いくんですか。",
+        "romaji": "sonna kakkou de kaisha ni ikun desu ka.",
+        "ta": "அந்த உடையிலா அலுவலகத்துக்குப் போகிறீர்கள்?",
+        "en": "Are you going to the office dressed like that?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-569",
+    "expression": "アクセサリー",
+    "reading": "アクセサリー",
+    "romaji": "akusesarii",
+    "en": "accessory; jewellery",
+    "ta": "அணிகலன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉はアクセサリーを作るのが好きです。",
+        "reading": "あねは アクセサリーを つくるのが すきです。",
+        "romaji": "ane wa akusesarii o tsukuru no ga suki desu.",
+        "ta": "அக்காவுக்கு அணிகலன்கள் செய்வது பிடிக்கும்.",
+        "en": "My sister likes making accessories."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-581",
+    "expression": "ひげ",
+    "reading": "ひげ",
+    "romaji": "hige",
+    "en": "beard; moustache",
+    "ta": "தாடி (மீசை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は毎朝ひげをそります。",
+        "reading": "ちちは まいあさ ひげを そります。",
+        "romaji": "chichi wa maiasa hige o sorimasu.",
+        "ta": "அப்பா தினமும் காலையில் சவரம் செய்கிறார்.",
+        "en": "My father shaves every morning."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-594",
+    "expression": "両方",
+    "reading": "りょうほう",
+    "romaji": "ryouhou",
+    "en": "both",
+    "ta": "இரண்டும்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "赤いのと青いの、両方買いました。",
+        "reading": "あかいのと あおいの、りょうほう かいました。",
+        "romaji": "akai no to aoi no, ryouhou kaimashita.",
+        "ta": "சிவப்பு, நீலம் இரண்டையும் வாங்கினேன்.",
+        "en": "I bought both the red one and the blue one."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-601",
+    "expression": "取り替える",
+    "reading": "とりかえる",
+    "romaji": "torikaeru",
+    "en": "to exchange",
+    "ta": "மாற்றிக்கொள்ள",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "サイズが合わないので、店で取り替えてもらいました。",
+        "reading": "サイズが あわないので、みせで とりかえて もらいました。",
+        "romaji": "saizu ga awanai node, mise de torikaete moraimashita.",
+        "ta": "அளவு பொருந்தாததால் கடையில் மாற்றித் தரச் சொன்னேன்.",
+        "en": "It didn’t fit, so I had the shop exchange it."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-643",
+    "expression": "～にくい",
+    "reading": "～にくい",
+    "romaji": "～nikui",
+    "en": "hard to ~",
+    "ta": "~ கடினமான",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "この靴は重くて歩きにくいです。",
+        "reading": "この くつは おもくて あるきにくいです。",
+        "romaji": "kono kutsu wa omokute arukinikui desu.",
+        "ta": "இந்தக் காலணி கனமாக இருப்பதால் நடக்கக் கடினமாக இருக்கிறது.",
+        "en": "These shoes are heavy and hard to walk in."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-645",
+    "expression": "糸",
+    "reading": "いと",
+    "romaji": "ito",
+    "en": "thread",
+    "ta": "நூல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "針と糸でシャツのボタンをつけました。",
+        "reading": "はりと いとで シャツの ボタンを つけました。",
+        "romaji": "hari to ito de shatsu no botan o tsukemashita.",
+        "ta": "ஊசியும் நூலும் கொண்டு சட்டையில் பொத்தான் தைத்தேன்.",
+        "en": "I sewed a button on my shirt with a needle and thread."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-652",
+    "expression": "木綿",
+    "reading": "もめん",
+    "romaji": "momen",
+    "en": "cotton",
+    "ta": "பருத்தி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏は木綿のシャツが涼しくていいです。",
+        "reading": "なつは もめんの シャツが すずしくて いいです。",
+        "romaji": "natsu wa momen no shatsu ga suzushikute ii desu.",
+        "ta": "கோடையில் பருத்திச் சட்டை குளிர்ச்சியாக இருக்கும், நல்லது.",
+        "en": "In summer, cotton shirts are nice and cool."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-654",
+    "expression": "タイプ",
+    "reading": "タイプ",
+    "romaji": "taipu",
+    "en": "type; style",
+    "ta": "வகை (ரகம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "どんなタイプのかばんを探していますか。",
+        "reading": "どんな タイプの かばんを さがして いますか。",
+        "romaji": "donna taipu no kaban o sagashite imasu ka.",
+        "ta": "எந்த வகைப் பையைத் தேடுகிறீர்கள்?",
+        "en": "What type of bag are you looking for?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,699 @@
+{
+  "lesson": 29,
+  "title": {
+    "ja": "それって本当？",
+    "ta": "அது நிஜமா?",
+    "en": "Is that true?"
+  },
+  "intro_ta": "முந்தைய இரண்டு பாடங்களில் மிக மரியாதையான பேச்சைக் கற்றோம். இந்தப் பாடத்தில் அதற்கு நேர் எதிராக, நண்பர்களுடனும் குடும்பத்தினருடனும் பேசும் சாதாரண (கொச்சை) பேச்சைக் கற்போம். தமிழில் 'சொல்லிக்கொண்டிருக்கிறேன்' என்பதைப் பேச்சில் 'சொல்லிட்டிருக்கேன்' என்று சுருக்குவது போல, ஜப்பானிய மொழியிலும் と言う → って, ている → てる, ておく → とく, てはいけない → ちゃだめ என்று சுருங்கும். காதலன், காதலி, வதந்திகள், சண்டைகள் பற்றிய நண்பர்களின் அரட்டையைப் புரிந்துகொள்ளப் பயிற்சி செய்வோம்.",
+  "intro_en": "In the last two lessons you learned very polite speech. Now you learn the opposite: casual talk with friends and family. In spoken Tamil, சொல்லிக்கொண்டிருக்கிறேன் (I am saying) becomes சொல்லிட்டிருக்கேன். Japanese also shortens words when people talk: と言う → って, ている → てる, ておく → とく, てはいけない → ちゃだめ. You will practise understanding friends chatting about boyfriends, girlfriends, rumours and fights.",
+  "grammar": [
+    {
+      "id": "g29-1",
+      "pattern": "〜って (quotation / topic)",
+      "name": {
+        "en": "〜って (casual quote or topic)",
+        "ta": "〜って (பேச்சு வழக்கில் மேற்கோள் / தலைப்பு)"
+      },
+      "explanation_ta": "って பேச்சில் இரண்டு வேலைகள் செய்யும். (1) மேற்கோள்: と言っていました / と聞きました என்பதன் சுருக்கம். 田中さん、来ないって என்றால் 'தனகா வரமாட்டாராம்'. தமிழின் '-ஆம்' (வரமாட்டாராம்) என்ற செவிவழிச் செய்தி முடிவுக்கு இது நேரான இணை. 〜って言ってた என்றும் முழுமையாகச் சொல்லலாம். (2) தலைப்பு: は-க்குப் பதில், 'இந்த ~ என்றால்' என்ற பொருளில்: 漢字って難しいね (கான்ஜின்னா கஷ்டம்தான்). தெரியாத சொல்லைக் கேட்க: 〜って何？ ('~ன்னா என்ன?'). இது நண்பர்களிடம் மட்டும்; மேலதிகாரியிடமோ எழுத்திலோ வேண்டாம்.",
+      "explanation_en": "って has two jobs in casual talk. (1) Quoting. It is short for と言っていました or と聞きました. 田中さん、来ないって means \"Tanaka says he’s not coming\". It is just like Tamil -ஆம் (வரமாட்டாராம், \"he won’t come, I hear\"). You can also say the full 〜って言ってた. (2) Topic. It replaces は, with the feeling \"talking about ~\". 漢字って難しいね (Kanji is hard, isn’t it). To ask about a new word: 〜って何？ (\"What is ~?\"). Use it only with friends, not with your boss or in writing.",
+      "tamil_parallel": "அவன் வரமாட்டானாம் / கான்ஜின்னா கஷ்டம் = 彼、来ないって / 漢字って難しい",
+      "tamil_parallel_en": "Tamil வரமாட்டானாம் (he won’t come, they say) = 彼、来ないって. Tamil கான்ஜின்னா கஷ்டம் (kanji is hard) = 漢字って難しい.",
+      "formation": "சாதாரண வடிவம் + って (= と言っていました)\n来ないって / 休みだって / おいしいって\nN + って (= は): 漢字って難しい\nN + って + 何？",
+      "formation_en": "plain form + って (= と言っていました)\n来ないって / 休みだって / おいしいって\nN + って (= は): 漢字って難しい\nN + って + 何？",
+      "examples": [
+        {
+          "ja": "田中さん、今日のパーティーに来ないって。",
+          "reading": "たなかさん、きょうの パーティーに こないって。",
+          "romaji": "tanaka san, kyou no paatii ni konaitte.",
+          "ta": "தனகா இன்றைய விருந்துக்கு வரமாட்டாராம்.",
+          "en": "Tanaka says he’s not coming to the party today."
+        },
+        {
+          "ja": "明日は学校、休みだって。",
+          "reading": "あしたは がっこう、やすみだって。",
+          "romaji": "ashita wa gakkou, yasumi datte.",
+          "ta": "நாளைக்குப் பள்ளி விடுமுறையாம்.",
+          "en": "They say there’s no school tomorrow."
+        },
+        {
+          "ja": "漢字って、本当に難しいね。",
+          "reading": "かんじって、ほんとうに むずかしいね。",
+          "romaji": "kanjitte, hontou ni muzukashii ne.",
+          "ta": "கான்ஜின்னா உண்மையிலேயே கஷ்டம்தான், இல்லையா?",
+          "en": "Kanji is really hard, isn’t it?"
+        },
+        {
+          "ja": "ねえ、「花見」って何？",
+          "reading": "ねえ、「はなみ」って なに？",
+          "romaji": "nee, \"hanami\"tte nani?",
+          "ta": "ஏய், 'ஹனமி'ன்னா என்ன?",
+          "en": "Hey, what’s \"hanami\"?"
+        },
+        {
+          "ja": "えっ、それって本当？",
+          "reading": "えっ、それって ほんとう？",
+          "romaji": "e', sorette hontou?",
+          "ta": "என்ன, அது நிஜமா?",
+          "en": "What? Is that true?"
+        },
+        {
+          "ja": "山田さん、彼女と別れたって言ってたよ。",
+          "reading": "やまださん、かのじょと わかれたって いってたよ。",
+          "romaji": "yamada san, kanojo to wakaretatte itteta yo.",
+          "ta": "யமதா தன் காதலியைப் பிரிந்துவிட்டதாகச் சொன்னார்.",
+          "en": "Yamada said he broke up with his girlfriend."
+        }
+      ],
+      "pitfalls_ta": "って-க்கு முன் சாதாரண வடிவம் வர வேண்டும்; பெயர்ச்சொல்லுக்கு だ சேர்க்கவும் (休みだって). மேலதிகாரியிடம் 部長、田中さん来ないって என்று சொல்ல வேண்டாம்; 来ないとおっしゃっていました / 来ないそうです என்று சொல்லுங்கள்.",
+      "pitfalls_en": "Use the plain form before って. Add だ after a noun (休みだって). Don’t say 来ないって to your boss. Say 来ないそうです instead."
+    },
+    {
+      "id": "g29-2",
+      "pattern": "〜っていう N",
+      "name": {
+        "en": "〜っていう N (a … called ~)",
+        "ta": "〜っていう N (~ன்னு ஒரு N)"
+      },
+      "explanation_ta": "பாடம் 8-இல் கற்ற N1 という N2 ('~ என்ற பெயருடைய') -இன் பேச்சு வடிவம் っていう. கேட்பவருக்குத் தெரியாத பெயர்களை அறிமுகப்படுத்தப் பயன்படுகிறது: 「さくら」っていう店 (சகுரான்னு ஒரு கடை), 山田っていう人 (யமதான்னு ஒருத்தர்). தமிழ்ப் பேச்சின் '-ன்னு ஒரு' அப்படியே பொருந்தும். சாதாரண வடிவ வாக்கியத்துடனும் வரும்: 彼女が結婚するっていう話 (அவள் கல்யாணம் செய்யப்போகிறாள் என்ற பேச்சு / வதந்தி).",
+      "explanation_en": "This is the casual form of N1 という N2 (\"an N2 called N1\") from Lesson 8. Use it to name something the listener may not know: 「さくら」っていう店 (a shop called Sakura), 山田っていう人 (a person called Yamada). Spoken Tamil -ன்னு ஒரு (சகுரான்னு ஒரு கடை) fits exactly. It also works with a whole plain sentence: 彼女が結婚するっていう話 (the story that she’s getting married).",
+      "tamil_parallel": "சகுரான்னு ஒரு கடை / யமதான்னு ஒருத்தர் = 「さくら」っていう店 / 山田っていう人",
+      "tamil_parallel_en": "Spoken Tamil சகுரான்னு ஒரு கடை (a shop called Sakura) = 「さくら」っていう店.",
+      "formation": "N1 + っていう + N2 (= という)\n「さくら」っていう店\nசாதாரண வாக்கியம் + っていう + 話 / うわさ / こと",
+      "formation_en": "N1 + っていう + N2 (= という)\n「さくら」っていう店\nplain sentence + っていう + 話 / うわさ / こと",
+      "examples": [
+        {
+          "ja": "駅の前の「さくら」っていう店で待ってるね。",
+          "reading": "えきの まえの 「さくら」っていう みせで まってるね。",
+          "romaji": "eki no mae no \"sakura\" tte iu mise de matteru ne.",
+          "ta": "ஸ்டேஷன் முன்னால் இருக்கும் 'சகுரா'ன்னு ஒரு கடையில் காத்திருக்கிறேன்.",
+          "en": "I’ll wait at a shop called Sakura in front of the station."
+        },
+        {
+          "ja": "山田っていう人から電話があったよ。",
+          "reading": "やまだって いう ひとから でんわが あったよ。",
+          "romaji": "yamada tte iu hito kara denwa ga atta yo.",
+          "ta": "யமதான்னு ஒருத்தர்கிட்டயிருந்து போன் வந்தது.",
+          "en": "There was a call from someone called Yamada."
+        },
+        {
+          "ja": "「ドラえもん」っていうアニメ、知ってる？",
+          "reading": "「ドラえもん」って いう アニメ、しってる？",
+          "romaji": "\"doraemon\" tte iu anime, shitteru?",
+          "ta": "'டோரேமான்'ன்னு ஒரு கார்ட்டூன் தெரியுமா?",
+          "en": "Do you know a cartoon called Doraemon?"
+        },
+        {
+          "ja": "二人が別れたっていう話、うそだよ。",
+          "reading": "ふたりが わかれたって いう はなし、うそだよ。",
+          "romaji": "futari ga wakareta tte iu hanashi, uso da yo.",
+          "ta": "அவங்க ரெண்டு பேரும் பிரிஞ்சுட்டாங்கன்னு சொல்ற பேச்சு பொய்.",
+          "en": "That story about the two of them breaking up is a lie."
+        },
+        {
+          "ja": "「ゆかた」っていうのは、夏に着る着物だよ。",
+          "reading": "「ゆかた」って いうのは、なつに きる きものだよ。",
+          "romaji": "\"yukata\" tte iu no wa, natsu ni kiru kimono da yo.",
+          "ta": "'யுகதா'ன்னா கோடையில் அணியும் கிமோனோ.",
+          "en": "A \"yukata\" is a kimono you wear in summer."
+        }
+      ],
+      "pitfalls_ta": "っていう-வைச் சாதாரண உரையாடலில் மட்டும் பயன்படுத்துங்கள்; அலுவலக மின்னஞ்சல், அறிக்கை போன்றவற்றில் という தான் சரி.",
+      "pitfalls_en": "Use っていう only in casual talk. In work emails and reports, use という."
+    },
+    {
+      "id": "g29-3",
+      "pattern": "〜かい / 〜だい",
+      "name": {
+        "en": "〜かい / 〜だい (casual question endings)",
+        "ta": "〜かい / 〜だい (சாதாரணக் கேள்வி முடிவுகள்)"
+      },
+      "explanation_ta": "இவை பெரும்பாலும் ஆண்கள், குறிப்பாக வயதானவர்கள், அப்பா, ஆசிரியர் போன்றோர் இளையவர்களிடம் அன்பாகக் கேட்கும் கேள்வி முடிவுகள். 'ஆம் / இல்லை' கேள்விக்கு かい: 元気かい？ (நல்லா இருக்கியா?), 行くかい？. கேள்விச் சொல் (何、どこ、どうして) உள்ள கேள்விக்கு だい: 何だい？ (என்னப்பா?), どこへ行くんだい？. தமிழில் 'என்னப்பா?', 'சாப்பிட்டியா தம்பி?' போன்ற அன்பான தொனி. நீங்கள் இதைப் பயன்படுத்தத் தேவையில்லை; கதைகள், கார்ட்டூன்கள், நாடகங்களில் கேட்கும்போது புரிந்துகொண்டால் போதும். பெண்கள் பொதுவாக 〜の？ பயன்படுத்துவார்கள்.",
+      "explanation_en": "These question endings are used mostly by men. Often an older man, like a father or teacher, uses them kindly with younger people. For yes/no questions, use かい: 元気かい？ (Are you well?), 行くかい？. For questions with a question word (何, どこ, どうして), use だい: 何だい？ (What is it?), どこへ行くんだい？. The tone is like Tamil என்னப்பா? (what is it, dear?). You don’t need to use them yourself. Just understand them in stories, cartoons and dramas. Women usually say 〜の？ instead.",
+      "tamil_parallel": "நல்லா இருக்கியா தம்பி? / என்னப்பா? = 元気かい？ / 何だい？",
+      "tamil_parallel_en": "Tamil நல்லா இருக்கியா தம்பி? (are you well, lad?) = 元気かい？ Tamil என்னப்பா? (what is it?) = 何だい？",
+      "formation": "ஆம்/இல்லை கேள்வி: சாதாரண வடிவம் + かい (元気かい？ 行くかい？)\nகேள்விச் சொல் கேள்வி: 〜(ん) + だい (何だい？ どこへ行くんだい？)",
+      "formation_en": "Yes/no question: plain form + かい (元気かい？ 行くかい？)\nQuestion-word question: 〜(ん) + だい (何だい？ どこへ行くんだい？)",
+      "examples": [
+        {
+          "ja": "やあ、ラジャ君。元気かい？",
+          "reading": "やあ、ラジャくん。げんきかい？",
+          "romaji": "yaa, raja kun. genki kai?",
+          "ta": "ஹலோ ராஜா, நல்லா இருக்கியா?",
+          "en": "Hi, Raja. How are you?"
+        },
+        {
+          "ja": "君も一緒に行くかい？",
+          "reading": "きみも いっしょに いくかい？",
+          "romaji": "kimi mo issho ni iku kai?",
+          "ta": "நீயும் கூட வர்றியா?",
+          "en": "Are you coming too?"
+        },
+        {
+          "ja": "それは何だい？",
+          "reading": "それは なんだい？",
+          "romaji": "sore wa nan dai?",
+          "ta": "அது என்னப்பா?",
+          "en": "What’s that?"
+        },
+        {
+          "ja": "どうして泣いているんだい？",
+          "reading": "どうして ないて いるんだい？",
+          "romaji": "doushite naite iru n dai?",
+          "ta": "ஏன் அழுதுட்டிருக்கே?",
+          "en": "Why are you crying?"
+        },
+        {
+          "ja": "宿題はもう終わったのかい？",
+          "reading": "しゅくだいは もう おわったのかい？",
+          "romaji": "shukudai wa mou owatta no kai?",
+          "ta": "வீட்டுப்பாடம் முடிச்சுட்டியா?",
+          "en": "Have you finished your homework already?"
+        }
+      ],
+      "pitfalls_ta": "何かい？ ✗ — கேள்விச் சொல் இருந்தால் だい (何だい？). மேலதிகாரியிடமோ வாடிக்கையாளரிடமோ இவற்றைப் பயன்படுத்தினால் மிகவும் மரியாதைக் குறைவாக இருக்கும்.",
+      "pitfalls_en": "何かい？ is wrong. With a question word, use だい (何だい？). Never use these with your boss or customers. It sounds very rude."
+    },
+    {
+      "id": "g29-4",
+      "pattern": "V-ちゃ / V-じゃ だめ",
+      "name": {
+        "en": "〜ちゃだめ (you mustn’t, casual)",
+        "ta": "〜ちゃだめ (செய்யக் கூடாது, பேச்சு வழக்கு)"
+      },
+      "explanation_ta": "N5-இல் கற்ற 〜てはいけません-இன் பேச்சு வடிவம் இது. 〜ては → 〜ちゃ, 〜では → 〜じゃ என்று சுருங்கும்; いけません → だめ (அல்லது いけない). 見てはいけない → 見ちゃだめ, 飲んではいけない → 飲んじゃだめ, 遊んではいけない → 遊んじゃだめ. பெற்றோர் குழந்தைகளிடமும், நண்பர்கள் ஒருவருக்கொருவரும் சொல்வது. தமிழில் 'பார்க்கக் கூடாது' என்பதைப் பேச்சில் 'பாக்கக்கூடாது', 'பாக்காதே' என்று சொல்வது போல. பாடம் 4-இல் கற்ற ちゃう (= てしまう) உடன் குழப்ப வேண்டாம்: 食べちゃった (சாப்பிட்டுவிட்டேன்) / 食べちゃだめ (சாப்பிடக் கூடாது).",
+      "explanation_en": "This is the casual form of 〜てはいけません from N5. 〜ては becomes 〜ちゃ, and 〜では becomes 〜じゃ. いけません becomes だめ (or いけない). 見てはいけない → 見ちゃだめ. 飲んではいけない → 飲んじゃだめ. 遊んではいけない → 遊んじゃだめ. Parents say it to children, and friends say it to each other. It is like Tamil பாக்கக்கூடாது (mustn’t look), the spoken form of பார்க்கக் கூடாது. Don’t mix it up with ちゃう (= てしまう) from Lesson 4. 食べちゃった = I ate it all. 食べちゃだめ = you mustn’t eat it.",
+      "tamil_parallel": "பார்க்கக் கூடாது → (பேச்சில்) பாக்கக்கூடாது = 見てはいけない → 見ちゃだめ",
+      "tamil_parallel_en": "Tamil பார்க்கக் கூடாது (mustn’t look) becomes பாக்கக்கூடாது in speech. Japanese 見てはいけない becomes 見ちゃだめ.",
+      "formation": "V-て + は → V-ちゃ + だめ: 見ちゃだめ、食べちゃだめ\nV-で + は → V-じゃ + だめ: 飲んじゃだめ、遊んじゃだめ\nだめ = いけない",
+      "formation_en": "V-て + は → V-ちゃ + だめ: 見ちゃだめ、食べちゃだめ\nV-で + は → V-じゃ + だめ: 飲んじゃだめ、遊んじゃだめ\nだめ = いけない",
+      "examples": [
+        {
+          "ja": "それは私の日記だから、見ちゃだめ！",
+          "reading": "それは わたしの にっきだから、みちゃ だめ！",
+          "romaji": "sore wa watashi no nikki da kara, micha dame!",
+          "ta": "அது என் நாட்குறிப்பு, பாக்கக்கூடாது!",
+          "en": "That’s my diary, so don’t look!"
+        },
+        {
+          "ja": "この薬は子どもが飲んじゃだめだよ。",
+          "reading": "この くすりは こどもが のんじゃ だめだよ。",
+          "romaji": "kono kusuri wa kodomo ga nonja dame da yo.",
+          "ta": "இந்த மருந்தைக் குழந்தைகள் குடிக்கக்கூடாது.",
+          "en": "Children mustn’t take this medicine."
+        },
+        {
+          "ja": "あ、そのケーキ、まだ食べちゃだめ。",
+          "reading": "あ、その ケーキ、まだ たべちゃ だめ。",
+          "romaji": "a, sono keeki, mada tabecha dame.",
+          "ta": "அட, அந்தக் கேக்கை இன்னும் சாப்பிடக்கூடாது.",
+          "en": "Oh, don’t eat that cake yet."
+        },
+        {
+          "ja": "危ないから、この川で泳いじゃいけないよ。",
+          "reading": "あぶないから、この かわで およいじゃ いけないよ。",
+          "romaji": "abunai kara, kono kawa de oyoija ikenai yo.",
+          "ta": "ஆபத்து, இந்த ஆற்றில் நீந்தக்கூடாது.",
+          "en": "It’s dangerous, so you mustn’t swim in this river."
+        },
+        {
+          "ja": "うそをついちゃだめだよ。",
+          "reading": "うそを ついちゃ だめだよ。",
+          "romaji": "uso o tsuicha dame da yo.",
+          "ta": "பொய் சொல்லக்கூடாது.",
+          "en": "You mustn’t tell lies."
+        }
+      ],
+      "pitfalls_ta": "飲む、遊ぶ、泳ぐ போன்ற で-வடிவ வினைகளுக்கு じゃ (飲んじゃ), ちゃ அல்ல (飲んちゃ ✗). て-வடிவத்தைப் பார்த்து முடிவு செய்யுங்கள்: て → ちゃ, で → じゃ.",
+      "pitfalls_en": "Verbs with a で-form (飲む, 遊ぶ, 泳ぐ) take じゃ: 飲んじゃ, not 飲んちゃ. Check the て-form: て → ちゃ, で → じゃ."
+    },
+    {
+      "id": "g29-5",
+      "pattern": "V-てる / V-とく",
+      "name": {
+        "en": "〜てる / 〜とく (short ている / ておく)",
+        "ta": "〜てる / 〜とく (ている / ておく சுருக்கம்)"
+      },
+      "explanation_ta": "பேச்சில் ている-வில் உள்ள い விழுந்து てる ஆகிறது: 食べている → 食べてる, 知っている → 知ってる, 待っています → 待ってます. ておく (பாடம் 5, முன்கூட்டியே செய்தல்) → とく: 買っておく → 買っとく, 読んでおく → 読んどく (で → ど). ております / でおきます என்பதும் முறையே てます / とき(ま)す என்று சுருங்கும். தமிழில் 'செய்துகொண்டிருக்கிறேன்' → 'செஞ்சுட்டிருக்கேன்', 'வாங்கி வைக்கிறேன்' → 'வாங்கி வெச்சுடறேன்' என்று பேச்சில் சுருங்குவது போல. நண்பர்களிடம் மிக இயல்பானது; てる சற்று மரியாதையான பேச்சிலும் (〜てます) வரும், ஆனால் எழுத்தில் வேண்டாம்.",
+      "explanation_en": "In speech, the い in ている drops, so it becomes てる. 食べている → 食べてる. 知っている → 知ってる. 待っています → 待ってます. ておく (do in advance, Lesson 5) becomes とく. 買っておく → 買っとく. 読んでおく → 読んどく (で → ど). Tamil does the same in speech: செய்துகொண்டிருக்கிறேன் → செஞ்சுட்டிருக்கேன் (I’m doing it). It is very natural with friends. てる also appears in fairly polite speech (〜てます), but don’t use it in writing.",
+      "tamil_parallel": "என்ன பண்ணிட்டிருக்கே? / நான் வாங்கி வெச்சுடறேன் = 何してる？ / 買っとく",
+      "tamil_parallel_en": "Spoken Tamil என்ன பண்ணிட்டிருக்கே? (what are you doing?) = 何してる？ Spoken Tamil வாங்கி வெச்சுடறேன் (I’ll buy it in advance) = 買っとく.",
+      "formation": "V-ている → V-てる: 食べてる、知ってる\nV-でいる → V-でる: 読んでる、遊んでる\nV-ておく → V-とく: 買っとく、見とく\nV-でおく → V-どく: 読んどく、飲んどく",
+      "formation_en": "V-ている → V-てる: 食べてる、知ってる\nV-でいる → V-でる: 読んでる、遊んでる\nV-ておく → V-とく: 買っとく、見とく\nV-でおく → V-どく: 読んどく、飲んどく",
+      "examples": [
+        {
+          "ja": "今、何してる？",
+          "reading": "いま、なに してる？",
+          "romaji": "ima, nani shiteru?",
+          "ta": "இப்போ என்ன பண்ணிட்டிருக்கே?",
+          "en": "What are you doing now?"
+        },
+        {
+          "ja": "その話、僕も知ってるよ。",
+          "reading": "その はなし、ぼくも しってるよ。",
+          "romaji": "sono hanashi, boku mo shitteru yo.",
+          "ta": "அந்த விஷயம் எனக்கும் தெரியும்.",
+          "en": "I know that story too."
+        },
+        {
+          "ja": "彼女、ずっと部屋で泣いてるよ。",
+          "reading": "かのじょ、ずっと へやで ないてるよ。",
+          "romaji": "kanojo, zutto heya de naiteru yo.",
+          "ta": "அவள் ரொம்ப நேரமா அறையில அழுதுட்டிருக்கா.",
+          "en": "She’s been crying in her room the whole time."
+        },
+        {
+          "ja": "明日パーティーだから、飲み物を買っとくね。",
+          "reading": "あした パーティーだから、のみものを かっとくね。",
+          "romaji": "ashita paatii da kara, nomimono o kattoku ne.",
+          "ta": "நாளைக்கு விருந்து, அதனால குடிபானம் வாங்கி வெச்சுடறேன்.",
+          "en": "There’s a party tomorrow, so I’ll buy the drinks."
+        },
+        {
+          "ja": "この本、明日までに読んどいてね。",
+          "reading": "この ほん、あしたまでに よんどいてね。",
+          "romaji": "kono hon, ashita made ni yondoite ne.",
+          "ta": "இந்தப் புத்தகத்தை நாளைக்குள்ள படிச்சு வெச்சுடு.",
+          "en": "Read this book by tomorrow, OK?"
+        },
+        {
+          "ja": "窓、開けとこうか。",
+          "reading": "まど、あけとこうか。",
+          "romaji": "mado, aketokou ka.",
+          "ta": "ஜன்னலைத் திறந்து வெச்சுடட்டுமா?",
+          "en": "Shall I leave the window open?"
+        }
+      ],
+      "pitfalls_ta": "てる (ている) / とく (ておく) இரண்டையும் குழப்ப வேண்டாம்: 買ってる = வாங்கிக்கொண்டிருக்கிறேன் / வாங்கியிருக்கிறேன்; 買っとく = முன்கூட்டியே வாங்கி வைக்கிறேன். で-வடிவ வினைகளில் でる / どく (読んでる、読んどく).",
+      "pitfalls_en": "Don’t mix up てる (ている) and とく (ておく). 買ってる = I am buying / I have bought. 買っとく = I’ll buy it in advance. Verbs with a で-form use でる and どく (読んでる, 読んどく)."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-003",
+    "n4-v-024",
+    "n4-v-053",
+    "n4-v-066",
+    "n4-v-094",
+    "n4-v-111",
+    "n4-v-155",
+    "n4-v-163",
+    "n4-v-225",
+    "n4-v-227",
+    "n4-v-322",
+    "n4-v-342",
+    "n4-v-351",
+    "n4-v-361",
+    "n4-v-363",
+    "n4-v-454",
+    "n4-v-475",
+    "n4-v-511",
+    "n4-v-547",
+    "n4-v-605",
+    "n4-v-624"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L29-q01",
+        "type": "kanji_reading",
+        "sentence": "＿彼女＿は 私の クラスメートです。",
+        "target": "彼女",
+        "options": [
+          "かのじょ",
+          "かれじょ",
+          "かのおんな",
+          "ひのじょ"
+        ],
+        "answer": 0,
+        "explanation_ta": "彼女 = かのじょ (அவள் / காதலி). 彼 தனியாக かれ, ஆனால் 彼女-இல் かの என்று வாசிக்கப்படும்.",
+        "explanation_en": "彼女 = かのじょ (அவள், she / girlfriend). 彼 alone is かれ, but in 彼女 it is read かの."
+      },
+      {
+        "id": "L29-q02",
+        "type": "kanji_reading",
+        "sentence": "その 話は ＿全然＿ 知りませんでした。",
+        "target": "全然",
+        "options": [
+          "ぜんせん",
+          "ぜんぜん",
+          "せんぜん",
+          "ぜんねん"
+        ],
+        "answer": 1,
+        "explanation_ta": "全然 = ぜんぜん (முற்றிலும் இல்லை). இரண்டாவது 然 ஒலியும் ぜん (கடின ஒலி).",
+        "explanation_en": "全然 = ぜんぜん (முற்றிலும் இல்லை, not at all). The second 然 is also ぜん, with a hard sound."
+      },
+      {
+        "id": "L29-q03",
+        "type": "kanji_reading",
+        "sentence": "＿君＿の 国は どこ？",
+        "target": "君",
+        "options": [
+          "くん",
+          "くみ",
+          "きん",
+          "きみ"
+        ],
+        "answer": 3,
+        "explanation_ta": "தனியாக 'நீ' என்ற பொருளில் 君 = きみ. பெயருக்குப் பின் வரும்போது (ラジャ君) くん.",
+        "explanation_en": "君 alone, meaning \"you\" (நீ), is きみ. After a name (ラジャ君) it is くん."
+      },
+      {
+        "id": "L29-q04",
+        "type": "orthography",
+        "sentence": "＿ぼく＿は 毎朝 走って いるんだ。",
+        "target": "ぼく",
+        "options": [
+          "撲",
+          "朴",
+          "僕",
+          "牧"
+        ],
+        "answer": 2,
+        "explanation_ta": "ぼく = 僕 (நான், ஆண்கள்). மனிதர் அடையாளம் 亻 உள்ளது. 撲 (அடித்தல்) கை அடையாளம் 扌 உடையது.",
+        "explanation_en": "ぼく = 僕 (நான், I, male). It has the person mark 亻. 撲 (hit) has the hand mark 扌."
+      },
+      {
+        "id": "L29-q05",
+        "type": "orthography",
+        "sentence": "冷蔵庫から ＿へん＿な 音が します。",
+        "target": "へん",
+        "options": [
+          "変",
+          "恋",
+          "偏",
+          "返"
+        ],
+        "answer": 0,
+        "explanation_ta": "へん = 変 (விசித்திரமான). 恋 (காதல்) வடிவம் ஒத்திருக்கும், ஆனால் வாசிப்பு こい.",
+        "explanation_en": "へん = 変 (விசித்திரமான, strange). 恋 (love) looks similar, but it is read こい."
+      },
+      {
+        "id": "L29-q06",
+        "type": "vocab_context",
+        "sentence": "昨日、テレビの ことで 弟と （　　）を しました。",
+        "options": [
+          "うそ",
+          "けんか",
+          "あいさつ",
+          "紹介"
+        ],
+        "answer": 1,
+        "explanation_ta": "'டிவி விஷயத்தில் தம்பியுடன் சண்டை போட்டேன்' = けんかをしました. うそ 'をつく' உடன் வரும், 'をする' உடன் அல்ல.",
+        "explanation_en": "\"I had a fight with my brother about the TV\" = けんかをしました (சண்டை போட்டேன்). うそ goes with をつく, not をする."
+      },
+      {
+        "id": "L29-q07",
+        "type": "vocab_context",
+        "sentence": "あの 人の 話は （　　）ばかりだから、信じない ほうが いいよ。",
+        "options": [
+          "けんか",
+          "本当",
+          "うそ",
+          "あいさつ"
+        ],
+        "answer": 2,
+        "explanation_ta": "'நம்ப வேண்டாம்' என்பதால் அவர் சொல்வது எல்லாம் பொய் = うそばかり. 本当 (உண்மை) என்றால் நம்பலாம்.",
+        "explanation_en": "\"Better not believe him\", so his stories are all lies: うそばかり (பொய்யே). If they were 本当 (true), you could believe them."
+      },
+      {
+        "id": "L29-q08",
+        "type": "vocab_context",
+        "sentence": "大好きだった 彼女と （　　）しまって、とても さびしいです。",
+        "options": [
+          "変わって",
+          "慣れて",
+          "伝えて",
+          "別れて"
+        ],
+        "answer": 3,
+        "explanation_ta": "காதலியுடன் பிரிந்துவிட்டதால் தனிமை = 別れてしまって. 変わって (மாறி) 'N と' உடன் இந்தப் பொருள் தராது.",
+        "explanation_en": "He broke up with his girlfriend, so he is lonely: 別れてしまって (பிரிந்துவிட்டு). 変わって (changed) doesn’t give this meaning with と."
+      },
+      {
+        "id": "L29-q09",
+        "type": "vocab_context",
+        "sentence": "「宿題 やった？」「（　　）、もう 終わったよ。」",
+        "options": [
+          "うん",
+          "ううん",
+          "いや",
+          "だめ"
+        ],
+        "answer": 0,
+        "explanation_ta": "'முடிச்சுட்டேன்' என்பதால் 'ஆமா' = うん. ううん / いや என்றால் 'இல்லை', பின்னால் வருவதுடன் முரண்.",
+        "explanation_en": "\"I’ve finished\", so the answer is \"yeah\": うん (ஆமா). ううん and いや mean \"no\" and don’t match."
+      },
+      {
+        "id": "L29-q10",
+        "type": "vocab_context",
+        "sentence": "この 映画は （　　）おもしろくなかった。",
+        "options": [
+          "どんどん",
+          "すっと",
+          "ちっとも",
+          "だんだん"
+        ],
+        "answer": 2,
+        "explanation_ta": "எதிர்மறையுடன் 'கொஞ்சம்கூட இல்லை' = ちっとも〜ない. どんどん、だんだん மாற்றத்தைக் குறிக்கும்.",
+        "explanation_en": "With a negative, \"not at all\" = ちっとも〜ない (கொஞ்சம்கூட இல்லை). どんどん and だんだん describe change."
+      },
+      {
+        "id": "L29-q11",
+        "type": "paraphrase",
+        "sentence": "田中さん、今日は 来ないって。",
+        "options": [
+          "田中さんは 今日 来ないで ください。",
+          "田中さんは 今日 来ないかも しれません。",
+          "田中さんは 今日 来ないと 言って いました。",
+          "田中さんに 今日 来ないと 言いました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "〜って = 〜と言っていました ('வரமாட்டாராம்'). 'தனகாவிடம் வர வேண்டாம் என்று சொன்னேன்' என்பது வேறு — அங்கே சொன்னவர் நான்.",
+        "explanation_en": "〜って = 〜と言っていました (வரமாட்டாராம், he said he won’t come). \"I told Tanaka not to come\" is different. There, I am the one who spoke."
+      },
+      {
+        "id": "L29-q12",
+        "type": "paraphrase",
+        "sentence": "彼の 話は ちっとも わからなかった。",
+        "options": [
+          "彼の 話は 少し わかった。",
+          "彼の 話は 全然 わからなかった。",
+          "彼の 話は よく わかった。",
+          "彼の 話は だいたい わかった。"
+        ],
+        "answer": 1,
+        "explanation_ta": "ちっとも〜ない = 全然〜ない (கொஞ்சம்கூடப் புரியவில்லை). 少しわかった என்றால் 'கொஞ்சம் புரிந்தது'.",
+        "explanation_en": "ちっとも〜ない = 全然〜ない (not at all). 少しわかった means \"I understood a little\"."
+      },
+      {
+        "id": "L29-q13",
+        "type": "usage",
+        "sentence": "すごい",
+        "options": [
+          "すごい 人が 来ないので、さびしいです。",
+          "この 部屋は すごいので、掃除しましょう。",
+          "一日で この 本を 全部 読んだの？ すごいね。",
+          "すごいですが、明日は 雨が 降るかもしれません。"
+        ],
+        "answer": 2,
+        "explanation_ta": "すごい = ஆச்சரியப்படும் அளவு அருமை. 'ஒரே நாளில் முழுப் புத்தகமும் படித்தாயா? பிரமாதம்!' சரி. 'அறை すごい, அதனால் சுத்தம் செய்வோம்' என்பதில் பொருள் தெளிவில்லை.",
+        "explanation_en": "すごい = amazing (பிரமாதமான). \"You read the whole book in one day? Amazing!\" is right. \"The room is すごい, so let’s clean\" doesn’t make clear sense."
+      },
+      {
+        "id": "L29-q14",
+        "type": "usage",
+        "sentence": "そんなに",
+        "options": [
+          "そんなに 本を 一冊 ください。",
+          "駅は ここから そんなに あります。",
+          "そんなに 人が 私の 友達です。",
+          "まだ 時間が あるから、そんなに 急がなくても いいよ。"
+        ],
+        "answer": 3,
+        "explanation_ta": "そんなに = 'அவ்வளவு' (அளவு / அதிகம்). 'அவ்வளவு அவசரப்பட வேண்டாம்' சரி. 'ஒரு புத்தகம்' என்ற அளவுடன் そんなに பொருந்தாது.",
+        "explanation_en": "そんなに = \"that much\" (அவ்வளவு). \"You don’t need to hurry that much\" is right. It doesn’t fit with \"one book\"."
+      },
+      {
+        "id": "L29-q15",
+        "type": "grammar_form",
+        "sentence": "「ねえ、『ゆかた』（　　）何？」「夏に 着る 着物だよ。」",
+        "options": [
+          "って",
+          "っていう",
+          "とか",
+          "かい"
+        ],
+        "answer": 0,
+        "explanation_ta": "தெரியாத சொல்லைக் கேட்க 'N って何？' ('~ன்னா என்ன?'). っていう-க்குப் பின் பெயர்ச்சொல் வேண்டும் (っていうのは).",
+        "explanation_en": "To ask about a new word: N って何？ (~ன்னா என்ன?, what is ~?). っていう needs a noun after it (っていうのは)."
+      },
+      {
+        "id": "L29-q16",
+        "type": "grammar_form",
+        "sentence": "駅の 前の 「さくら」（　　）店で 待って いるね。",
+        "options": [
+          "って",
+          "だい",
+          "かい",
+          "っていう"
+        ],
+        "answer": 3,
+        "explanation_ta": "பெயர்ச்சொல்லுக்கு முன் 'சகுரான்னு ஒரு கடை' = 「さくら」っていう店. って மட்டும் பெயர்ச்சொல்லுடன் நேரடியாக இணையாது.",
+        "explanation_en": "Before a noun, \"a shop called Sakura\" = 「さくら」っていう店 (சகுரான்னு ஒரு கடை). って alone can’t join a noun directly."
+      },
+      {
+        "id": "L29-q17",
+        "type": "grammar_form",
+        "sentence": "君、こんな 時間に どこへ 行くん（　　）？",
+        "options": [
+          "かい",
+          "だい",
+          "って",
+          "じゃ"
+        ],
+        "answer": 1,
+        "explanation_ta": "どこ என்ற கேள்விச் சொல் இருப்பதால் だい (行くんだい？). かい ஆம் / இல்லை கேள்விக்கு மட்டும்.",
+        "explanation_en": "There is a question word (どこ), so use だい: 行くんだい？ (எங்கே போறே?). かい is only for yes/no questions."
+      },
+      {
+        "id": "L29-q18",
+        "type": "grammar_form",
+        "sentence": "やあ、ラジャ君。久しぶりだね。元気（　　）？",
+        "options": [
+          "だい",
+          "って",
+          "ちゃ",
+          "かい"
+        ],
+        "answer": 3,
+        "explanation_ta": "'நல்லா இருக்கியா?' ஆம் / இல்லை கேள்வி → 元気かい？. கேள்விச் சொல் இல்லாததால் だい வராது.",
+        "explanation_en": "\"Are you well?\" is a yes/no question → 元気かい？ (நல்லா இருக்கியா?). No question word, so not だい."
+      },
+      {
+        "id": "L29-q19",
+        "type": "grammar_form",
+        "sentence": "この 薬は 子どもが 飲ん（　　）だめだよ。",
+        "options": [
+          "ちゃ",
+          "で",
+          "じゃ",
+          "ては"
+        ],
+        "answer": 2,
+        "explanation_ta": "飲む-வின் て-வடிவம் 飲んで (で) → では → じゃ: 飲んじゃだめ. 飲んちゃ தவறு.",
+        "explanation_en": "The て-form of 飲む is 飲んで (で). では → じゃ: 飲んじゃだめ (குடிக்கக்கூடாது). 飲んちゃ is wrong."
+      },
+      {
+        "id": "L29-q20",
+        "type": "grammar_form",
+        "sentence": "あ、その ケーキ、まだ 食べ（　　）だめ！",
+        "options": [
+          "ちゃ",
+          "じゃ",
+          "て",
+          "とく"
+        ],
+        "answer": 0,
+        "explanation_ta": "食べて (て) + は → ちゃ: 食べちゃだめ (சாப்பிடக்கூடாது). 食べてだめ என்பது தவறு; は சுருக்கம் தேவை.",
+        "explanation_en": "食べて (て) + は → ちゃ: 食べちゃだめ (சாப்பிடக்கூடாது). 食べてだめ is wrong. You need the short form of ては."
+      },
+      {
+        "id": "L29-q21",
+        "type": "grammar_form",
+        "sentence": "明日 パーティー だから、飲み物を 買っ（　　）ね。",
+        "options": [
+          "てる",
+          "ちゃ",
+          "とく",
+          "たり"
+        ],
+        "answer": 2,
+        "explanation_ta": "நாளைய விருந்துக்காக முன்கூட்டியே வாங்குவது = 買っておく → 買っとく. 買ってる (வாங்கிக்கொண்டிருக்கிறேன்) இங்கே பொருந்தாது.",
+        "explanation_en": "Buying in advance for tomorrow’s party = 買っておく → 買っとく (வாங்கி வெச்சுடறேன்). 買ってる (am buying) doesn’t fit."
+      },
+      {
+        "id": "L29-q22",
+        "type": "sentence_order",
+        "before": "ねえ、",
+        "chunks": [
+          "駅前に",
+          "新しい",
+          "ラーメン屋が",
+          "できたって"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: ねえ、駅前に新しいラーメン屋ができたって (ஸ்டேஷன் முன்னால புது ராமென் கடை திறந்திருக்காம்). できた + って = செவிவழிச் செய்தி.",
+        "explanation_en": "The sentence: ねえ、駅前に新しいラーメン屋ができたって (Hey, I hear a new ramen shop opened by the station). できた + って = news you heard."
+      },
+      {
+        "id": "L29-q23",
+        "type": "sentence_order",
+        "before": "僕は",
+        "chunks": [
+          "山田",
+          "っていう",
+          "人を",
+          "知ってる"
+        ],
+        "star": 1,
+        "after": "よ。",
+        "explanation_ta": "சரியான வாக்கியம்: 僕は山田っていう人を知ってるよ (யமதான்னு ஒருத்தரை எனக்குத் தெரியும்). பெயர் + っていう + 人.",
+        "explanation_en": "The sentence: 僕は山田っていう人を知ってるよ (I know someone called Yamada). name + っていう + 人."
+      },
+      {
+        "id": "L29-q24",
+        "type": "sentence_order",
+        "before": "危ないから、",
+        "chunks": [
+          "その",
+          "川で",
+          "泳いじゃ",
+          "だめ"
+        ],
+        "star": 2,
+        "after": "だよ。",
+        "explanation_ta": "சரியான வாக்கியம்: 危ないから、その川で泳いじゃだめだよ (ஆபத்து, அந்த ஆற்றில் நீந்தக்கூடாது). 泳いで → 泳いじゃ.",
+        "explanation_en": "The sentence: 危ないから、その川で泳いじゃだめだよ (It’s dangerous, don’t swim in that river). 泳いで → 泳いじゃ."
+      },
+      {
+        "id": "L29-q25",
+        "type": "passage_cloze",
+        "passage": "A「ねえ、聞いた？ 田中さん、彼女と ［1］。」B「えっ、うそ！ 先週 二人で 映画を 見に 行ったって ［2］よ。」A「でも、昨日 大きな けんかを したらしいよ。今、田中さん、部屋で 一人で 泣い［3］。」",
+        "blanks": [
+          {
+            "options": [
+              "別れとく",
+              "別れたって",
+              "別れちゃだめ",
+              "別れたっていう"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "言ってた",
+              "言っとく",
+              "言っちゃだめ",
+              "言うかい"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "とくよ",
+              "ちゃだめだよ",
+              "てるよ",
+              "かい"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］ கேட்ட செய்தி: 別れたって (பிரிஞ்சுட்டாராம்). っていう-க்குப் பின் பெயர்ச்சொல் வேண்டும். ［2］ 'சொல்லிக்கொண்டிருந்தார்' = 言っていた → 言ってた. ［3］ இப்போது அழுதுகொண்டிருக்கிறார் = 泣いている → 泣いてる.",
+        "explanation_en": "[1] News you heard: 別れたって (பிரிஞ்சுட்டாராம், they broke up, I hear). っていう needs a noun after it. [2] \"He was saying\" = 言っていた → 言ってた. [3] He is crying now = 泣いている → 泣いてる."
+      }
+    ]
+  }
+}

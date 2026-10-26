@@ -1,0 +1,326 @@
+[
+  {
+    "id": "n4-v-046",
+    "expression": "ほとんど",
+    "reading": "ほとんど",
+    "romaji": "hotondo",
+    "en": "almost all; mostly",
+    "ta": "பெரும்பாலும் (கிட்டத்தட்ட)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "給料はほとんど国の家族に送っています。",
+        "reading": "きゅうりょうは ほとんど くにの かぞくに おくって います。",
+        "romaji": "kyuuryou wa hotondo kuni no kazoku ni okutte imasu.",
+        "ta": "சம்பளத்தில் பெரும்பகுதியை ஊரில் உள்ள குடும்பத்துக்கு அனுப்புகிறேன்.",
+        "en": "I send almost all my salary to my family back home."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-082",
+    "expression": "必要",
+    "reading": "ひつよう",
+    "romaji": "hitsuyou",
+    "en": "necessary",
+    "ta": "தேவையான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "外国へ行くとき、パスポートが必要です。",
+        "reading": "がいこくへ いく とき、パスポートが ひつようです。",
+        "romaji": "gaikoku e iku toki, pasupooto ga hitsuyou desu.",
+        "ta": "வெளிநாட்டுக்குப் போகும்போது பாஸ்போர்ட் தேவை.",
+        "en": "You need a passport when you go abroad."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-105",
+    "expression": "アルバイト",
+    "reading": "アルバイト",
+    "romaji": "arubaito",
+    "en": "part-time job",
+    "ta": "பகுதிநேர வேலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末はコンビニでアルバイトをしています。",
+        "reading": "しゅうまつは コンビニで アルバイトを して います。",
+        "romaji": "shuumatsu wa konbini de arubaito o shite imasu.",
+        "ta": "வார இறுதியில் கன்வீனியன்ஸ் கடையில் பகுதிநேர வேலை செய்கிறேன்.",
+        "en": "I work part-time at a convenience store on weekends."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-117",
+    "expression": "パート (タイム)",
+    "reading": "パート (タイム)",
+    "romaji": "paato(taimu)",
+    "en": "part-time work",
+    "ta": "பகுதிநேர வேலை (பெரும்பாலும் பெரியவர்கள் செய்வது)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は近くのスーパーでパートをしています。",
+        "reading": "ははは ちかくの スーパーで パートを して います。",
+        "romaji": "haha wa chikaku no suupaa de paato o shite imasu.",
+        "ta": "அம்மா அருகிலுள்ள சூப்பர் மார்க்கெட்டில் பகுதிநேர வேலை செய்கிறார்.",
+        "en": "My mother works part-time at a nearby supermarket."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-131",
+    "expression": "決まる",
+    "reading": "きまる",
+    "romaji": "kimaru",
+    "en": "to be decided",
+    "ta": "முடிவாக (தீர்மானமாக)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "旅行の日がやっと決まりました。",
+        "reading": "りょこうの ひが やっと きまりました。",
+        "romaji": "ryokou no hi ga yatto kimarimashita.",
+        "ta": "பயணத் தேதி ஒருவழியாக முடிவாகிவிட்டது.",
+        "en": "The date of the trip is finally decided."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-167",
+    "expression": "足りる",
+    "reading": "たりる",
+    "romaji": "tariru",
+    "en": "to be enough",
+    "ta": "போதுமானதாக இருக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "一万円で足りますか。",
+        "reading": "いちまんえんで たりますか。",
+        "romaji": "ichiman'en de tarimasu ka.",
+        "ta": "பத்தாயிரம் யென் போதுமா?",
+        "en": "Is ten thousand yen enough?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-180",
+    "expression": "決める",
+    "reading": "きめる",
+    "romaji": "kimeru",
+    "en": "to decide",
+    "ta": "முடிவு செய்ய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夏休みにどこへ行くか、もう決めましたか。",
+        "reading": "なつやすみに どこへ いくか、もう きめましたか。",
+        "romaji": "natsuyasumi ni doko e iku ka, mou kimemashita ka.",
+        "ta": "கோடை விடுமுறையில் எங்கே போவது என்று ஏற்கனவே முடிவு செய்தீர்களா?",
+        "en": "Have you decided where to go in the summer holidays?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-293",
+    "expression": "技術",
+    "reading": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "en": "technology; skill",
+    "ta": "தொழில்நுட்பம் (திறன்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の会社で新しい技術を勉強しています。",
+        "reading": "にほんの かいしゃで あたらしい ぎじゅつを べんきょうして います。",
+        "romaji": "nihon no kaisha de atarashii gijutsu o benkyou shite imasu.",
+        "ta": "ஜப்பானிய நிறுவனத்தில் புதிய தொழில்நுட்பம் கற்றுக்கொண்டிருக்கிறேன்.",
+        "en": "I’m learning new technology at a Japanese company."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-409",
+    "expression": "為",
+    "reading": "ため",
+    "romaji": "tame",
+    "en": "sake; purpose",
+    "ta": "-க்காக (நன்மைக்காக)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "家族のために、毎日遅くまで働いています。",
+        "reading": "かぞくの ために、まいにち おそくまで はたらいて います。",
+        "romaji": "kazoku no tame ni, mainichi osoku made hataraite imasu.",
+        "ta": "குடும்பத்துக்காக தினமும் தாமதம் வரை வேலை செய்கிறேன்.",
+        "en": "I work late every day for my family."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-421",
+    "expression": "十分",
+    "reading": "じゅうぶん",
+    "romaji": "juubun",
+    "en": "enough",
+    "ta": "போதுமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "まだ時間は十分ありますから、ゆっくり食べてください。",
+        "reading": "まだ じかんは じゅうぶん ありますから、ゆっくり たべて ください。",
+        "romaji": "mada jikan wa juubun arimasu kara, yukkuri tabete kudasai.",
+        "ta": "இன்னும் போதுமான நேரம் இருக்கிறது, நிதானமாகச் சாப்பிடுங்கள்.",
+        "en": "There’s still plenty of time, so eat slowly."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-426",
+    "expression": "大体",
+    "reading": "だいたい",
+    "romaji": "daitai",
+    "en": "about; mostly",
+    "ta": "சுமார் (பெரும்பாலும்)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "家から工場まで大体三十分かかります。",
+        "reading": "いえから こうじょうまで だいたい さんじゅっぷん かかります。",
+        "romaji": "ie kara koujou made daitai sanjuppun kakarimasu.",
+        "ta": "வீட்டிலிருந்து தொழிற்சாலைக்குச் சுமார் முப்பது நிமிடம் ஆகும்.",
+        "en": "It takes about thirty minutes from home to the factory."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-434",
+    "expression": "お金持ち",
+    "reading": "かねもち; おかねもち",
+    "romaji": "kanemochi;okanemochi",
+    "en": "rich person",
+    "ta": "பணக்காரர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの人はお金持ちですが、とても親切です。",
+        "reading": "あの ひとは おかねもちですが、とても しんせつです。",
+        "romaji": "ano hito wa okanemochi desu ga, totemo shinsetsu desu.",
+        "ta": "அவர் பணக்காரர், ஆனாலும் மிகவும் அன்பானவர்.",
+        "en": "That person is rich, but very kind."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-572",
+    "expression": "自由",
+    "reading": "じゆう",
+    "romaji": "jiyuu",
+    "en": "freedom; free",
+    "ta": "சுதந்திரம் (சுதந்திரமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この会社では、働く時間を自由に決められます。",
+        "reading": "この かいしゃでは、はたらく じかんを じゆうに きめられます。",
+        "romaji": "kono kaisha de wa, hataraku jikan o jiyuu ni kimeraremasu.",
+        "ta": "இந்த நிறுவனத்தில் வேலை நேரத்தைச் சுதந்திரமாக முடிவு செய்யலாம்.",
+        "en": "At this company you can freely decide your working hours."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-576",
+    "expression": "代わり",
+    "reading": "かわり",
+    "romaji": "kawari",
+    "en": "substitute; instead",
+    "ta": "பதிலாக (மாற்று)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母が病気なので、母の代わりに私が料理を作りました。",
+        "reading": "ははが びょうきなので、ははの かわりに わたしが りょうりを つくりました。",
+        "romaji": "haha ga byouki na node, haha no kawari ni watashi ga ryouri o tsukurimashita.",
+        "ta": "அம்மாவுக்கு உடம்பு சரியில்லாததால், அவருக்குப் பதிலாக நான் சமைத்தேன்.",
+        "en": "My mother is sick, so I cooked instead of her."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-583",
+    "expression": "工場",
+    "reading": "こうじょう",
+    "romaji": "koujou",
+    "en": "factory",
+    "ta": "தொழிற்சாலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄はチェンナイの車の工場で働いています。",
+        "reading": "あには チェンナイの くるまの こうじょうで はたらいて います。",
+        "romaji": "ani wa chennai no kuruma no koujou de hataraite imasu.",
+        "ta": "அண்ணன் சென்னையில் ஒரு கார் தொழிற்சாலையில் வேலை செய்கிறார்.",
+        "en": "My older brother works at a car factory in Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-597",
+    "expression": "経験",
+    "reading": "けいけん",
+    "romaji": "keiken",
+    "en": "experience",
+    "ta": "அனுபவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本で働いた経験がありますか。",
+        "reading": "にほんで はたらいた けいけんが ありますか。",
+        "romaji": "nihon de hataraita keiken ga arimasu ka.",
+        "ta": "ஜப்பானில் வேலை செய்த அனுபவம் உண்டா?",
+        "en": "Do you have experience working in Japan?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-609",
+    "expression": "役に立つ",
+    "reading": "やくにたつ",
+    "romaji": "yakunitatsu",
+    "en": "to be useful",
+    "ta": "பயனுள்ளதாக இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この辞書はとても役に立ちます。",
+        "reading": "この じしょは とても やくに たちます。",
+        "romaji": "kono jisho wa totemo yaku ni tachimasu.",
+        "ta": "இந்த அகராதி மிகவும் பயனுள்ளது.",
+        "en": "This dictionary is very useful."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-629",
+    "expression": "相談",
+    "reading": "そうだん",
+    "romaji": "soudan",
+    "en": "consultation; to talk over",
+    "ta": "ஆலோசனை (கலந்து பேச)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "仕事のことを先輩に相談しました。",
+        "reading": "しごとの ことを せんぱいに そうだんしました。",
+        "romaji": "shigoto no koto o senpai ni soudan shimashita.",
+        "ta": "வேலை விஷயமாக மூத்த சக ஊழியரிடம் ஆலோசனை கேட்டேன்.",
+        "en": "I talked to a senior colleague about my work."
+      }
+    ]
+  }
+]

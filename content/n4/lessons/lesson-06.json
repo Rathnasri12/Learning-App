@@ -1,0 +1,144 @@
+{
+  "lesson": 6,
+  "title": { "ja": "留学しようと思っています", "ta": "வெளிநாட்டில் படிக்க நினைக்கிறேன்", "en": "I'm thinking of studying abroad" },
+  "intro_ta": "இந்தப் பாடத்தில் வினைச்சொல்லின் 'எண்ண வடிவம்' (意向形, volitional) கற்போம்: 行こう、食べよう、しよう. இது தமிழின் 'போவோம்', 'சாப்பிடலாம்' போன்றது. இதைக் கொண்டு நண்பர்களிடம் சாதாரணமாக 'போவோம்!' என்று அழைக்கவும், 'வெளிநாட்டில் படிக்க நினைக்கிறேன்' (留学しようと思っています) என்று உங்கள் எதிர்காலத் திட்டங்களைச் சொல்லவும், 'செய்ய முயன்றேன் / செய்யப் போகும்போது' என்று சொல்லவும் முடியும். 'இன்னும் செய்யவில்லை' (まだ V-ていません) என்பதையும் கற்போம்.",
+  "intro_en": "In this lesson you learn the \"let’s / I will\" form of verbs (the volitional form): 行こう、食べよう、しよう. It is like Tamil போவோம் (let’s go) or சாப்பிடலாம் (let’s eat). With it you can invite friends in casual speech. You can talk about your future plans: 留学しようと思っています (I’m thinking of studying abroad). You can also say \"I tried to …\" or \"just as I was about to …\". Last, you learn \"I haven’t done it yet\" (まだ V-ていません).",
+  "grammar": [
+    {
+      "id": "g06-1",
+      "pattern": "Volitional form (V-おう / V-よう)",
+      "name": { "en": "The volitional form (let’s / I will)", "ta": "எண்ண வடிவம் (〜வோம் / 〜லாம்)" },
+      "explanation_ta": "எண்ண வடிவம் (意向形) என்பது 'செய்வோம்' அல்லது 'செய்யலாம் என்று நினைக்கிறேன்' என்ற மனநிலையைக் காட்டும் வடிவம். இது ましょう-வின் சாதாரண (plain) வடிவம்: 行きましょう → 行こう. உருவாக்கும் விதம்: குழு I வினைகளில் அகராதி வடிவத்தின் கடைசி 'உ' வரிசை எழுத்தை 'ஓ' வரிசைக்கு மாற்றி う சேர்க்க வேண்டும் (行く → 行こう, 飲む → 飲もう, 待つ → 待とう, 帰る → 帰ろう). குழு II வினைகளில் る-வை நீக்கி よう சேர்க்க வேண்டும் (食べる → 食べよう, 見る → 見よう). குழு III: する → しよう, 来る → 来よう (こよう). தனியாக நண்பர்களிடம் 'செய்வோம்' என்றும், と思います-உடன் சேர்த்து 'செய்யலாம் என்று நினைக்கிறேன்' என்றும் பயன்படும்.",
+      "explanation_en": "The volitional form shows what you want to do or decide to do. It is the plain (casual) form of ましょう: 行きましょう → 行こう. How to make it: Group I verbs change the last u-sound to an o-sound and add う (行く → 行こう, 飲む → 飲もう, 待つ → 待とう, 帰る → 帰ろう). Group II verbs drop る and add よう (食べる → 食べよう, 見る → 見よう). Group III: する → しよう, 来る → 来よう (こよう). Alone, it means \"let’s do it\" to a friend. With と思います it means \"I think I’ll do it\".",
+      "tamil_parallel": "போவோம் / போகலாம் = 行こう; சாப்பிடுவோம் = 食べよう; செய்வோம் = しよう",
+      "tamil_parallel_en": "போவோம் / போகலாம் (let’s go) = 行こう; சாப்பிடுவோம் (let’s eat) = 食べよう; செய்வோம் (let’s do it) = しよう",
+      "formation": "குழு I: 行く → 行こう、飲む → 飲もう、待つ → 待とう、帰る → 帰ろう、買う → 買おう、話す → 話そう\nகுழு II: 食べる → 食べよう、見る → 見よう、受ける → 受けよう\nகுழு III: する → しよう、来る → 来よう (こよう)",
+      "formation_en": "Group I: 行く → 行こう、飲む → 飲もう、待つ → 待とう、帰る → 帰ろう、買う → 買おう、話す → 話そう\nGroup II: 食べる → 食べよう、見る → 見よう、受ける → 受けよう\nGroup III: する → しよう、来る → 来よう (こよう)",
+      "examples": [
+        { "ja": "一緒に昼ご飯を食べよう。", "reading": "いっしょに ひるごはんを たべよう。", "romaji": "issho ni hirugohan o tabeyou.", "ta": "சேர்ந்து மதிய உணவு சாப்பிடுவோம்.", "en": "Let’s have lunch together." },
+        { "ja": "明日は早く起きよう。", "reading": "あしたは はやく おきよう。", "romaji": "ashita wa hayaku okiyou.", "ta": "நாளை சீக்கிரம் எழுந்திருப்போம்.", "en": "Let’s get up early tomorrow." },
+        { "ja": "駅まで歩こう。", "reading": "えきまで あるこう。", "romaji": "eki made arukou.", "ta": "ஸ்டேஷன் வரை நடந்து போவோம்.", "en": "Let’s walk to the station." },
+        { "ja": "週末、映画を見に行こう。", "reading": "しゅうまつ、えいがを みに いこう。", "romaji": "shuumatsu, eiga o mi ni ikou.", "ta": "வார இறுதியில் படம் பார்க்கப் போவோம்.", "en": "Let’s go and see a movie this weekend." },
+        { "ja": "今夜は家で勉強しよう。", "reading": "こんやは いえで べんきょうしよう。", "romaji": "kon'ya wa ie de benkyou shiyou.", "ta": "இன்றிரவு வீட்டில் படிப்போம்.", "en": "Let’s study at home tonight." },
+        { "ja": "来年、また日本に来よう。", "reading": "らいねん、また にほんに こよう。", "romaji": "rainen, mata nihon ni koyou.", "ta": "அடுத்த ஆண்டு மீண்டும் ஜப்பானுக்கு வருவோம்.", "en": "Let’s come to Japan again next year." }
+      ],
+      "pitfalls_ta": "来る-வின் எண்ண வடிவம் こよう; きよう என்று சொல்லக் கூடாது. 帰る, 入る, 走る போன்றவை குழு I என்பதால் 帰ろう (帰よう அல்ல).",
+      "pitfalls_en": "The volitional of 来る is こよう, not きよう. 帰る, 入る and 走る are Group I, so say 帰ろう, not 帰よう."
+    },
+    {
+      "id": "g06-2",
+      "pattern": "V-volitional (casual 'let's')",
+      "name": { "en": "Casual “let’s …” and “shall we …?”", "ta": "சாதாரணப் பேச்சில் 'செய்வோம்' / 'செய்யலாமா?'" },
+      "explanation_ta": "நண்பர்கள், குடும்பத்தினரிடம் பேசும்போது ましょう-க்குப் பதிலாக எண்ண வடிவத்தைப் பயன்படுத்துகிறோம்: 行きましょう → 行こう. கடைசியில் か சேர்த்தால் 'செய்யலாமா?' என்று கேட்கும் பொருள் (ましょうか-வின் சாதாரண வடிவம்): 休もうか = 'ஓய்வெடுக்கலாமா?'. よ சேர்த்தால் அழைப்பு வலுவாகும்: 行こうよ = 'வா, போவோம்!'. ஆசிரியர், மேலதிகாரி, தெரியாதவர்களிடம் இது மரியாதையற்றதாக ஒலிக்கும்; அவர்களிடம் ましょう / ましょうか பயன்படுத்துங்கள்.",
+      "explanation_en": "With friends and family, use the volitional form instead of ましょう: 行きましょう → 行こう. Add か to ask \"shall we …?\" (the casual ましょうか): 休もうか = \"shall we take a rest?\". Add よ to push a little: 行こうよ = \"come on, let’s go!\". With teachers, bosses or strangers, this sounds rude. Use ましょう / ましょうか with them.",
+      "tamil_parallel": "போவோம்! = 行こう！ / போகலாமா? = 行こうか？",
+      "tamil_parallel_en": "போவோம்! (let’s go!) = 行こう！ / போகலாமா? (shall we go?) = 行こうか？",
+      "formation": "V-எண்ண வடிவம் (= ましょう)\nV-எண்ண வடிவம் + か (= ましょうか)\nV-எண்ண வடிவம் + よ (அழைப்பு வலுவாக)",
+      "formation_en": "V-volitional (= ましょう)\nV-volitional + か (= ましょうか)\nV-volitional + よ (a stronger invitation)",
+      "examples": [
+        { "ja": "疲れたね。少し休もうか。", "reading": "つかれたね。すこし やすもうか。", "romaji": "tsukareta ne. sukoshi yasumou ka.", "ta": "களைப்பாக இருக்கிறது, இல்லையா? கொஞ்சம் ஓய்வெடுக்கலாமா?", "en": "I’m tired. Shall we rest a little?" },
+        { "ja": "雨だから、タクシーで帰ろう。", "reading": "あめだから、タクシーで かえろう。", "romaji": "ame da kara, takushii de kaerou.", "ta": "மழை பெய்கிறது, டாக்ஸியில் வீட்டுக்குப் போவோம்.", "en": "It’s raining, so let’s go home by taxi." },
+        { "ja": "今夜、カレーを作ろうよ。", "reading": "こんや、カレーを つくろうよ。", "romaji": "kon'ya, karee o tsukurou yo.", "ta": "இன்றிரவு கறி சமைப்போம், வா!", "en": "Come on, let’s make curry tonight." },
+        { "ja": "「何を食べようか。」「ラーメンにしよう。」", "reading": "「なにを たべようか。」「ラーメンに しよう。」", "romaji": "\"nani o tabeyou ka.\" \"raamen ni shiyou.\"", "ta": "'என்ன சாப்பிடலாம்?' 'ராமென் சாப்பிடுவோம்.'", "en": "“What shall we eat?” “Let’s have ramen.”" },
+        { "ja": "ちょっと待って。一緒に行こう。", "reading": "ちょっと まって。いっしょに いこう。", "romaji": "chotto matte. issho ni ikou.", "ta": "கொஞ்சம் இரு. சேர்ந்து போவோம்.", "en": "Wait a moment. Let’s go together." },
+        { "ja": "もう遅いから、今日はやめよう。", "reading": "もう おそいから、きょうは やめよう。", "romaji": "mou osoi kara, kyou wa yameyou.", "ta": "ஏற்கெனவே நேரமாகிவிட்டது; இன்று வேண்டாம், நிறுத்துவோம்.", "en": "It’s already late, so let’s stop for today." }
+      ],
+      "pitfalls_ta": "ஆசிரியரிடம் 行こう என்று சொன்னால் மரியாதைக் குறைவு; 行きましょう என்று சொல்லுங்கள்.",
+      "pitfalls_en": "Saying 行こう to your teacher sounds rude. Say 行きましょう instead."
+    },
+    {
+      "id": "g06-3",
+      "pattern": "V-volitional と思っています",
+      "name": { "en": "I’m thinking of doing …", "ta": "〜 செய்யலாம் என்று நினைத்துக்கொண்டிருக்கிறேன்" },
+      "explanation_ta": "எண்ண வடிவம் + と思います = 'செய்யலாம் என்று நினைக்கிறேன்'; பேசும் இந்த நேரத்தில் எடுக்கும் முடிவு. எண்ண வடிவம் + と思っています = சில காலமாக மனதில் வைத்திருக்கும் திட்டம்: 'செய்ய நினைத்துக்கொண்டிருக்கிறேன்'. மற்றவர்களின் திட்டத்தைச் சொல்லும்போது と思っています மட்டுமே பயன்படும்: 姉は公務員になろうと思っています. N5-இல் கற்ற 'V-அகராதி வடிவம் + つもりです' இதை விட உறுதியான முடிவு; と思っています இன்னும் கொஞ்சம் மென்மையானது, 'யோசனையில் இருக்கிறது' என்ற உணர்வு.",
+      "explanation_en": "Volitional + と思います = \"I think I’ll do it\". You decide it right now, as you speak. Volitional + と思っています = \"I’m thinking of doing it\". It is a plan you have had for some time. For other people’s plans, use only と思っています: 姉は公務員になろうと思っています. You know つもりです from N5. つもりです is a firmer decision. と思っています is softer: \"it’s in my mind\".",
+      "tamil_parallel": "வெளிநாட்டில் படிக்கலாம் என்று நினைத்துக்கொண்டிருக்கிறேன் = 留学しようと思っています (と = என்று, 思っています = நினைத்துக்கொண்டிருக்கிறேன்)",
+      "tamil_parallel_en": "வெளிநாட்டில் படிக்கலாம் என்று நினைத்துக்கொண்டிருக்கிறேன் (I’m thinking of studying abroad) = 留学しようと思っています. と = என்று (that), 思っています = நினைத்துக்கொண்டிருக்கிறேன் (I am thinking).",
+      "formation": "V-எண்ண வடிவம் + と思います (இப்போது எடுக்கும் முடிவு)\nV-எண்ண வடிவம் + と思っています (நீண்ட நாள் திட்டம் / மற்றவர்களின் திட்டம்)",
+      "formation_en": "V-volitional + と思います (a decision made now)\nV-volitional + と思っています (a plan held for some time / another person’s plan)",
+      "examples": [
+        { "ja": "将来、日本で働こうと思っています。", "reading": "しょうらい、にほんで はたらこうと おもって います。", "romaji": "shourai, nihon de hatarakou to omotte imasu.", "ta": "எதிர்காலத்தில் ஜப்பானில் வேலை செய்ய நினைத்துக்கொண்டிருக்கிறேன்.", "en": "I’m thinking of working in Japan in the future." },
+        { "ja": "再来月、日本語の試験を受けようと思っています。", "reading": "さらいげつ、にほんごの しけんを うけようと おもって います。", "romaji": "saraigetsu, nihongo no shiken o ukeyou to omotte imasu.", "ta": "அடுத்த மாதத்துக்கு அடுத்த மாதம் ஜப்பானிய மொழித் தேர்வு எழுத நினைக்கிறேன்.", "en": "I’m thinking of taking a Japanese exam the month after next." },
+        { "ja": "姉は公務員になろうと思っています。", "reading": "あねは こうむいんに なろうと おもって います。", "romaji": "ane wa koumuin ni narou to omotte imasu.", "ta": "என் அக்கா அரசு ஊழியர் ஆக நினைத்துக்கொண்டிருக்கிறாள்.", "en": "My older sister is thinking of becoming a public servant." },
+        { "ja": "卒業したら、国へ帰ろうと思っています。", "reading": "そつぎょうしたら、くにへ かえろうと おもって います。", "romaji": "sotsugyou shitara, kuni e kaerou to omotte imasu.", "ta": "படிப்பை முடித்ததும் சொந்த நாட்டுக்குத் திரும்ப நினைக்கிறேன்.", "en": "I’m thinking of going back to my country after I graduate." },
+        { "ja": "今晩は早く寝ようと思います。", "reading": "こんばんは はやく ねようと おもいます。", "romaji": "konban wa hayaku neyou to omoimasu.", "ta": "இன்றிரவு சீக்கிரம் தூங்கலாம் என்று நினைக்கிறேன்.", "en": "I think I’ll go to bed early tonight." },
+        { "ja": "「留学しようと思っていますか。」「いいえ、まだ考えています。」", "reading": "「りゅうがくしようと おもって いますか。」「いいえ、まだ かんがえて います。」", "romaji": "\"ryuugaku shiyou to omotte imasu ka.\" \"iie, mada kangaete imasu.\"", "ta": "'வெளிநாட்டில் படிக்க நினைக்கிறீர்களா?' 'இல்லை, இன்னும் யோசித்துக்கொண்டிருக்கிறேன்.'", "en": "“Are you thinking of studying abroad?” “No, I’m still thinking about it.”" }
+      ],
+      "pitfalls_ta": "姉は帰ろうと思います என்று சொல்லக் கூடாது; மற்றவர்களுக்கு と思っています. மேலும் 行くと思います ('போவார் என்று நினைக்கிறேன்', ஊகம்) மற்றும் 行こうと思います ('போகலாம் என்று நினைக்கிறேன்', என் முடிவு) வேறுபட்டவை.",
+      "pitfalls_en": "Don’t say 姉は帰ろうと思います. For other people, use と思っています. Also, 行くと思います is a guess (\"I think he’ll go\"). 行こうと思います is your own decision (\"I think I’ll go\")."
+    },
+    {
+      "id": "g06-4",
+      "pattern": "V-volitional とします",
+      "name": { "en": "Try to … / be about to …", "ta": "〜 செய்ய முயல / 〜 செய்யப் போகும்போது" },
+      "explanation_ta": "எண்ண வடிவம் + とします இரண்டு பொருள் தரும். (1) 'செய்ய முயல்வது': 起きようとしましたが、起きられませんでした = 'எழ முயன்றேன், ஆனால் எழ முடியவில்லை'. (2) 'செய்யப் போகும் கணம்', பெரும்பாலும் 時 அல்லது たら உடன்: 出かけようとした時、友達が来ました = 'கிளம்பப் போகும்போது நண்பர் வந்தார்'. எதிர்மறை 〜ようとしません = 'செய்யவே முயலவில்லை / மறுக்கிறார்', பெரும்பாலும் மற்றவர்களைப் பற்றி. N5-இல் கற்ற 'V-てみます' (செய்து பார்ப்பது) செயலைச் செய்து முடிக்கிறது; 〜ようとします செயல் நடக்காமல் இருக்கலாம்.",
+      "explanation_en": "Volitional + とします has two meanings. (1) \"Try to do\": 起きようとしましたが、起きられませんでした = \"I tried to get up, but I couldn’t\". (2) \"Be just about to do\", often with 時 or たら: 出かけようとした時、友達が来ました = \"Just as I was about to go out, my friend came\". The negative 〜ようとしません means \"won’t even try / refuses\". It is often about other people. The difference from V-てみます: with てみます you really do it to see. With ようとします the action may not happen.",
+      "tamil_parallel": "கிளம்பப் போகும்போது = 出かけようとした時; எழ முயன்றேன் = 起きようとしました",
+      "tamil_parallel_en": "கிளம்பப் போகும்போது (just as I was about to go out) = 出かけようとした時; எழ முயன்றேன் (I tried to get up) = 起きようとしました",
+      "formation": "V-எண்ண வடிவம் + と + します / しました / した時 / したら\nV-எண்ண வடிவம் + と + しません (செய்ய மறுக்கிறார்)",
+      "formation_en": "V-volitional + と + します / しました / した時 / したら\nV-volitional + と + しません (refuses to)",
+      "examples": [
+        { "ja": "出かけようとした時、友達が来ました。", "reading": "でかけようと した とき、ともだちが きました。", "romaji": "dekakeyou to shita toki, tomodachi ga kimashita.", "ta": "நான் கிளம்பப் போகும்போது நண்பர் வந்தார்.", "en": "Just as I was about to go out, a friend came." },
+        { "ja": "電車に乗ろうとしたら、ドアが閉まりました。", "reading": "でんしゃに のろうと したら、ドアが しまりました。", "romaji": "densha ni norou to shitara, doa ga shimarimashita.", "ta": "ரயிலில் ஏறப் போனபோது கதவு மூடிவிட்டது.", "en": "Just as I tried to get on the train, the door closed." },
+        { "ja": "毎朝六時に起きようとしていますが、なかなか起きられません。", "reading": "まいあさ ろくじに おきようと して いますが、なかなか おきられません。", "romaji": "maiasa rokuji ni okiyou to shite imasu ga, nakanaka okiraremasen.", "ta": "தினமும் காலை ஆறு மணிக்கு எழ முயல்கிறேன், ஆனால் எளிதில் எழ முடியவில்லை.", "en": "I try to get up at six every morning, but I just can’t." },
+        { "ja": "子どもが野菜を食べようとしません。", "reading": "こどもが やさいを たべようと しません。", "romaji": "kodomo ga yasai o tabeyou to shimasen.", "ta": "குழந்தை காய்கறியைச் சாப்பிடவே மறுக்கிறது.", "en": "My child won’t even try to eat vegetables." },
+        { "ja": "寝ようとした時、電話がありました。", "reading": "ねようと した とき、でんわが ありました。", "romaji": "neyou to shita toki, denwa ga arimashita.", "ta": "தூங்கப் போகும்போது ஒரு போன் வந்தது.", "en": "Just as I was going to sleep, there was a phone call." },
+        { "ja": "父は医者の話を聞こうとしません。", "reading": "ちちは いしゃの はなしを きこうと しません。", "romaji": "chichi wa isha no hanashi o kikou to shimasen.", "ta": "என் அப்பா மருத்துவர் சொல்வதைக் கேட்கவே மறுக்கிறார்.", "en": "My father won’t listen to what the doctor says." }
+      ],
+      "pitfalls_ta": "〜ようとしました என்றால் செயல் பெரும்பாலும் நடக்கவில்லை அல்லது தடைபட்டது என்று பொருள். உண்மையில் செய்து பார்த்தால் 〜てみました பயன்படுத்துங்கள்.",
+      "pitfalls_en": "〜ようとしました usually means the action did not happen or was stopped. If you really did it to see, use 〜てみました."
+    },
+    {
+      "id": "g06-5",
+      "pattern": "まだ V-ていません",
+      "name": { "en": "Haven’t done … yet", "ta": "இன்னும் 〜 செய்யவில்லை" },
+      "explanation_ta": "まだ + V-ていません = 'இன்னும் செய்யவில்லை (ஆனால் பின்னர் செய்யலாம்)'. もう V-ましたか ('ஏற்கெனவே செய்துவிட்டீர்களா?') என்ற கேள்விக்கு எதிர்மறைப் பதில் இது. N5-இல் 'まだです' என்று சுருக்கமாகச் சொல்லக் கற்றோம்; முழு வாக்கியம் まだ食べていません. கவனிக்க: 'まだ V-ませんでした' என்று சொல்லக் கூடாது; அது 'அப்போது செய்யவில்லை' என்ற கடந்த கால முடிந்த செய்தி. பாடம் 5-இல் கற்ற まだ V-ています 'இன்னும் செய்துகொண்டிருக்கிறேன்' என்ற பொருள்; இரண்டையும் குழப்ப வேண்டாம்.",
+      "explanation_en": "まだ + V-ていません = \"haven’t done it yet (but maybe later)\". It is the \"no\" answer to もう V-ましたか (\"Have you done it already?\"). In N5 you learned the short answer まだです. The full sentence is まだ食べていません. Note: don’t say まだ V-ませんでした. That means \"I didn’t do it (back then)\", a finished past fact. In Lesson 5 you learned まだ V-ています = \"still doing\". Don’t mix them up.",
+      "tamil_parallel": "இன்னும் சாப்பிடவில்லை = まだ食べていません",
+      "tamil_parallel_en": "இன்னும் சாப்பிடவில்லை (I haven’t eaten yet) = まだ食べていません",
+      "formation": "まだ + V-て + いません\n「もう 〜ましたか。」→「いいえ、まだ 〜ていません。」",
+      "formation_en": "まだ + V-て + いません\n「もう 〜ましたか。」→「いいえ、まだ 〜ていません。」",
+      "examples": [
+        { "ja": "「もう昼ご飯を食べましたか。」「いいえ、まだ食べていません。」", "reading": "「もう ひるごはんを たべましたか。」「いいえ、まだ たべて いません。」", "romaji": "\"mou hirugohan o tabemashita ka.\" \"iie, mada tabete imasen.\"", "ta": "'மதிய உணவு சாப்பிட்டுவிட்டீர்களா?' 'இல்லை, இன்னும் சாப்பிடவில்லை.'", "en": "“Have you had lunch yet?” “No, not yet.”" },
+        { "ja": "宿題はまだしていません。", "reading": "しゅくだいは まだ して いません。", "romaji": "shukudai wa mada shite imasen.", "ta": "வீட்டுப்பாடம் இன்னும் செய்யவில்லை.", "en": "I haven’t done my homework yet." },
+        { "ja": "大学の専門はまだ決めていません。", "reading": "だいがくの せんもんは まだ きめて いません。", "romaji": "daigaku no senmon wa mada kimete imasen.", "ta": "பல்கலைக்கழகச் சிறப்புப் பாடத்தை இன்னும் முடிவு செய்யவில்லை.", "en": "I haven’t decided my university major yet." },
+        { "ja": "再来月の旅行の計画は、まだ立てていません。", "reading": "さらいげつの りょこうの けいかくは、まだ たてて いません。", "romaji": "saraigetsu no ryokou no keikaku wa, mada tatete imasen.", "ta": "அடுத்த மாதத்துக்கு அடுத்த மாதப் பயணத்துக்கு இன்னும் திட்டம் போடவில்லை.", "en": "I haven’t made plans for the trip the month after next yet." },
+        { "ja": "卒業してからのことは、まだ考えていません。", "reading": "そつぎょうしてからの ことは、まだ かんがえて いません。", "romaji": "sotsugyou shite kara no koto wa, mada kangaete imasen.", "ta": "படிப்பு முடிந்த பிறகு என்ன என்பதைப் பற்றி இன்னும் யோசிக்கவில்லை.", "en": "I haven’t thought yet about what comes after graduation." },
+        { "ja": "友達はまだ来ていませんか。", "reading": "ともだちは まだ きて いませんか。", "romaji": "tomodachi wa mada kite imasen ka.", "ta": "நண்பர் இன்னும் வரவில்லையா?", "en": "Hasn’t your friend come yet?" }
+      ],
+      "pitfalls_ta": "'இன்னும் சாப்பிடவில்லை' என்பதை まだ食べませんでした என்று மொழிபெயர்க்கும் தவறு தமிழ் பேசுபவர்களிடம் அதிகம். 'இன்னும்' வந்தால் まだ 〜ていません.",
+      "pitfalls_en": "Tamil speakers often translate இன்னும் சாப்பிடவில்லை (not eaten yet) as まだ食べませんでした. That is wrong. With \"yet\", use まだ 〜ていません."
+    }
+  ],
+  "vocab_ids": ["n4-v-019", "n4-v-047", "n4-v-063", "n4-v-088", "n4-v-116", "n4-v-122", "n4-v-160", "n4-v-174", "n4-v-261", "n4-v-272", "n4-v-343", "n4-v-373", "n4-v-374", "n4-v-402", "n4-v-456", "n4-v-459", "n4-v-540", "n4-v-570", "n4-v-661", "n4-v-666"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L06-q01", "type": "kanji_reading", "sentence": "来年、大学を ＿卒業＿します。", "target": "卒業", "options": ["そつぎょ", "そつぎょう", "しゅつぎょう", "そつごう"], "answer": 1, "explanation_ta": "卒業 = そつぎょう (படிப்பை முடித்தல்). கடைசியில் நீண்ட 'ஓ' (ぎょう) வேண்டும்; そつぎょ என்பது குறுகியது, தவறு.", "explanation_en": "卒業 = そつぎょう (graduation). It ends with a long sound: ぎょう. そつぎょ is too short, so it is wrong." },
+      { "id": "L06-q02", "type": "kanji_reading", "sentence": "＿将来＿、何に なりたいですか。", "target": "将来", "options": ["しょらい", "じょうらい", "しょうらい", "しょうれい"], "answer": 2, "explanation_ta": "将来 = しょうらい (எதிர்காலம்). 将 = しょう (நீண்ட ஒலி), 来 = らい (来年 = らいねん போல).", "explanation_en": "将来 = しょうらい (எதிர்காலம், the future). 将 = しょう, a long sound. 来 = らい, as in 来年 (らいねん)." },
+      { "id": "L06-q03", "type": "kanji_reading", "sentence": "私の ＿専門＿は コンピューターです。", "target": "専門", "options": ["せもん", "ぜんもん", "せんぶん", "せんもん"], "answer": 3, "explanation_ta": "専門 = せんもん (சிறப்புப் பாடம்). 門 = もん (வாசல்). ぜ, ぶ போன்ற ஒலி மாற்றங்கள் இல்லை.", "explanation_en": "専門 = せんもん (major, speciality). 門 = もん (gate). There is no sound change to ぜ or ぶ." },
+      { "id": "L06-q04", "type": "orthography", "sentence": "夏休みの ＿けいかく＿を 立てました。", "target": "けいかく", "options": ["計画", "計角", "景画", "軽画"], "answer": 0, "explanation_ta": "けいかく = 計画 (திட்டம்). 計 = கணக்கிடுதல், 画 = வரைதல். 角 (மூலை) தவறான எழுத்து.", "explanation_en": "けいかく = 計画 (plan). 計 = to measure, 画 = to draw. 角 (corner) is the wrong kanji." },
+      { "id": "L06-q05", "type": "orthography", "sentence": "私の ＿ゆめ＿は 先生に なることです。", "target": "ゆめ", "options": ["暮", "募", "夢", "墓"], "answer": 2, "explanation_ta": "ゆめ = 夢 (கனவு). மற்ற மூன்றும் மேல் பகுதி ஒத்திருக்கும் வேறு கான்ஜிகள்; 夢-இன் கீழ்ப் பகுதி 夕 (மாலை).", "explanation_en": "ゆめ = 夢 (dream). The other three look similar at the top, but they are different kanji. 夢 has 夕 (evening) at the bottom." },
+      { "id": "L06-q06", "type": "vocab_context", "sentence": "姉は 市役所で 働いて います。（　　）です。", "options": ["会社員", "医者", "学生", "公務員"], "answer": 3, "explanation_ta": "市役所 (நகராட்சி அலுவலகம்) அரசு அலுவலகம்; அங்கே வேலை செய்பவர் 公務員 (அரசு ஊழியர்). 会社員 தனியார் நிறுவன ஊழியர்.", "explanation_en": "A city office (市役所) is a government office. A person who works there is a 公務員 (public servant). 会社員 works for a private company." },
+      { "id": "L06-q07", "type": "vocab_context", "sentence": "日本人と 日本語で 話す （　　）が あまり ありません。", "options": ["機会", "専門", "将来", "卒業"], "answer": 0, "explanation_ta": "'பேச வாய்ப்பு இல்லை' = 話す機会がありません. 機会 = வாய்ப்பு. மற்றவை வாக்கியத்துக்குப் பொருந்தாது.", "explanation_en": "\"No chance to talk\" = 話す機会がありません. 機会 = chance. The other words don’t fit the sentence." },
+      { "id": "L06-q08", "type": "vocab_context", "sentence": "来月の 旅行が とても （　　）です。", "options": ["予定", "楽しみ", "機会", "計画"], "answer": 1, "explanation_ta": "〜が楽しみです = 'ஆவலுடன் எதிர்பார்க்கிறேன்'. 予定 / 計画 'திட்டம்' என்ற பெயர்ச்சொற்கள்; とても உடன் வராது.", "explanation_en": "〜が楽しみです = \"I’m looking forward to it\". 予定 and 計画 are plain nouns meaning \"plan\". They don’t go with とても." },
+      { "id": "L06-q09", "type": "vocab_context", "sentence": "来週は 忙しいので、（　　）の 月曜日に 会いましょう。", "options": ["再来週", "先週", "去年", "昨日"], "answer": 0, "explanation_ta": "会いましょう எதிர்காலம்; அடுத்த வாரம் வேலை, எனவே 'அடுத்த வாரத்துக்கு அடுத்த வாரம்' = 再来週. 先週, 昨日 கடந்த காலம்.", "explanation_en": "会いましょう is about the future. Next week is busy, so it is the week after next: 再来週. 先週 and 昨日 are in the past." },
+      { "id": "L06-q10", "type": "vocab_context", "sentence": "来年、日本の 大学の 入学試験を （　　）。", "options": ["受けます", "入ります", "習います", "作ります"], "answer": 0, "explanation_ta": "தேர்வு எழுதுவது = 試験を受けます. 入ります பல்கலைக்கழகத்தில் சேர்வது (大学に入ります); 試験を உடன் வராது.", "explanation_en": "To take an exam = 試験を受けます. 入ります is for entering a school (大学に入ります). It doesn’t go with 試験を." },
+      { "id": "L06-q11", "type": "paraphrase", "sentence": "夏休みに 国へ 帰ろうと 思って います。", "options": ["夏休みに 国へ 帰りました。", "夏休みに 国へ 帰りたくないです。", "夏休みに 国へ 帰っては いけません。", "夏休みに 国へ 帰る つもりです。"], "answer": 3, "explanation_ta": "帰ろうと思っています = 'திரும்ப நினைக்கிறேன்' = 帰るつもりです (திரும்ப எண்ணம்). 帰りました கடந்த காலம்; பொருள் வேறு.", "explanation_en": "帰ろうと思っています = \"I’m thinking of going back\". It is close to 帰るつもりです (I intend to go back). 帰りました is the past, so the meaning is different." },
+      { "id": "L06-q12", "type": "paraphrase", "sentence": "卒業は 再来月です。", "options": ["来月 卒業します。", "来週 卒業します。", "２か月 あとに 卒業します。", "２週間 あとに 卒業します。"], "answer": 2, "explanation_ta": "再来月 = அடுத்த மாதத்துக்கு அடுத்த மாதம் = இரண்டு மாதம் கழித்து (２か月あと). ２週間 என்பது 再来週.", "explanation_en": "再来月 = the month after next = in two months (２か月あと). Two weeks later would be 再来週." },
+      { "id": "L06-q13", "type": "usage", "sentence": "将来", "options": ["きのうの 将来、映画を 見ました。", "将来、日本の 会社で 働きたいです。", "この 将来は とても 安いです。", "将来を 一つ ください。"], "answer": 1, "explanation_ta": "将来 = எதிர்காலம்; 'எதிர்காலத்தில் வேலை செய்ய விரும்புகிறேன்' சரி. きのう (நேற்று) கடந்த காலம், 将来 உடன் பொருந்தாது.", "explanation_en": "将来 = the future. \"I want to work in the future\" is right. きのう (yesterday) is the past, so it can’t go with 将来." },
+      { "id": "L06-q14", "type": "usage", "sentence": "受ける", "options": ["毎朝 シャワーを 受けます。", "バスを 受けて 学校へ 行きます。", "来月、日本語の 試験を 受けます。", "店で 写真を 受けました。"], "answer": 2, "explanation_ta": "受ける = (தேர்வு) எழுதுவது. ஷவருக்கு 浴びる, பஸ்ஸுக்கு 乗る, புகைப்படத்துக்கு 撮る.", "explanation_en": "受ける = to take (an exam). For a shower use 浴びる. For a bus use 乗る. For a photo use 撮る." },
+      { "id": "L06-q15", "type": "grammar_form", "sentence": "疲れたね。ちょっと （　　）か。", "options": ["休んだ", "休もう", "休みたかった", "休んで いた"], "answer": 1, "explanation_ta": "நண்பரிடம் 'ஓய்வெடுக்கலாமா?' = 休もうか (休みましょうか-வின் சாதாரண வடிவம்). மற்றவை கடந்த காலம்; அழைப்பாகாது.", "explanation_en": "\"Shall we rest?\" to a friend = 休もうか. It is the casual 休みましょうか. The others are past forms, so they are not invitations." },
+      { "id": "L06-q16", "type": "grammar_form", "sentence": "来年、日本の 大学に （　　）と 思って います。", "options": ["入って", "入り", "入ろう", "入らないで"], "answer": 2, "explanation_ta": "திட்டம் = எண்ண வடிவம் + と思っています: 入ろうと思っています ('சேர நினைக்கிறேன்'). て-வடிவம், ます-அடி と-க்கு முன் வராது.", "explanation_en": "A plan = volitional + と思っています: 入ろうと思っています (I’m thinking of entering). The て-form and the ます-stem can’t come before と." },
+      { "id": "L06-q17", "type": "grammar_form", "sentence": "家を （　　）と した 時、電話が ありました。", "options": ["出よう", "出る", "出た", "出て"], "answer": 0, "explanation_ta": "'கிளம்பப் போகும்போது' = 出ようとした時. とする-க்கு முன் எண்ண வடிவம் மட்டும் வரும்.", "explanation_en": "\"Just as I was about to leave\" = 出ようとした時. Only the volitional form comes before とする." },
+      { "id": "L06-q18", "type": "grammar_form", "sentence": "「もう 宿題を しましたか。」「いいえ、まだ （　　）。」", "options": ["しました", "しません", "して います", "して いません"], "answer": 3, "explanation_ta": "'இன்னும் செய்யவில்லை' = まだしていません. まだしません என்றால் 'இப்போதைக்குச் செய்யமாட்டேன்' என்ற வேறு பொருள்.", "explanation_en": "\"Not yet\" = まだしていません. まだしません means \"I won’t do it for now\", which is different." },
+      { "id": "L06-q19", "type": "grammar_form", "sentence": "子どもが 野菜を 食べ（　　）しません。", "options": ["ると", "ないと", "ようと", "よう"], "answer": 2, "explanation_ta": "食べようとしません = 'சாப்பிடவே முயலவில்லை / மறுக்கிறது'. と இல்லாமல் 食べようしません தவறு.", "explanation_en": "食べようとしません = \"won’t even try to eat\". Without と, 食べようしません is wrong." },
+      { "id": "L06-q20", "type": "grammar_form", "sentence": "「雨だね。」「うん。今日は タクシーで （　　）か。」", "options": ["帰って", "帰ろう", "帰り", "帰りたい"], "answer": 1, "explanation_ta": "'டாக்ஸியில் போகலாமா?' = 帰ろうか. 帰って / 帰り-க்குப் பின் か வராது; 帰りたいか நண்பரிடம் இயல்பற்றது.", "explanation_en": "\"Shall we go home by taxi?\" = 帰ろうか. か can’t follow 帰って or 帰り. 帰りたいか sounds odd to a friend." },
+      { "id": "L06-q21", "type": "grammar_form", "sentence": "兄は 将来 音楽家に （　　）と 思って います。", "options": ["なって", "なり", "なれ", "なろう"], "answer": 3, "explanation_ta": "மற்றவரின் திட்டம்: なろうと思っています ('ஆக நினைக்கிறார்'). なって, なり என்பவை と思う-க்கு முன் வராது.", "explanation_en": "Another person’s plan: なろうと思っています (he’s thinking of becoming). なって and なり can’t come before と思う." },
+      { "id": "L06-q22", "type": "sentence_order", "before": "将来、", "chunks": ["日本で", "働こう", "と", "思って"], "star": 2, "after": "います。", "explanation_ta": "日本で (ஜப்பானில்) → 働こう (வேலை செய்வோம்) → と (என்று) → 思っています (நினைக்கிறேன்). ★ = と.", "explanation_en": "日本で (in Japan) → 働こう (I’ll work) → と (that) → 思っています (I’m thinking). ★ = と." },
+      { "id": "L06-q23", "type": "sentence_order", "before": "家を", "chunks": ["出よう", "と", "した", "時"], "star": 1, "after": "、友達が 来ました。", "explanation_ta": "出よう + と + した + 時 = 'கிளம்பப் போகும்போது'. ★ = と.", "explanation_en": "出よう + と + した + 時 = \"just as I was about to leave\". ★ = と." },
+      { "id": "L06-q24", "type": "sentence_order", "before": "旅行の", "chunks": ["計画は", "まだ", "立てて", "いません"], "star": 2, "after": "。", "explanation_ta": "旅行の計画は (பயணத் திட்டம்) → まだ (இன்னும்) → 立てて → いません (போடவில்லை). ★ = 立てて.", "explanation_en": "旅行の計画は (the trip plan) → まだ (yet) → 立てて → いません (haven’t made). ★ = 立てて." },
+      { "id": "L06-q25", "type": "passage_cloze", "passage": "私は 来年の 三月に 大学を 卒業します。将来、日本の 会社で ［1］と 思って います。それで、再来月 日本語の 試験を ［2］ つもりです。でも、入る 会社は まだ ［3］。", "blanks": [ { "options": ["働いて", "働きます", "働こう", "働き"], "answer": 2 }, { "options": ["受けた", "受ける", "受けよう", "受けて"], "answer": 1 }, { "options": ["決めました", "決めて います", "決めましょう", "決めて いません"], "answer": 3 } ], "explanation_ta": "［1］ நீண்ட நாள் திட்டம்: 働こうと思っています. ［2］ つもり-க்கு முன் அகராதி வடிவம்: 受けるつもり (受けようつもり தவறு). ［3］ まだ + ていません = 'இன்னும் முடிவு செய்யவில்லை'.", "explanation_en": "［1］ A long-held plan: 働こうと思っています. ［2］ Before つもり, use the dictionary form: 受けるつもり (受けようつもり is wrong). ［3］ まだ + ていません = \"haven’t decided yet\"." }
+    ]
+  }
+}

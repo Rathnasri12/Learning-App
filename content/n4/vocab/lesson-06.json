@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n4-v-019",
+    "expression": "～月",
+    "reading": "～つき",
+    "romaji": "～tsuki",
+    "en": "month (counting)",
+    "ta": "மாதம் (எண்ணும்போது)",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "あとひと月で夏休みです。",
+        "reading": "あと ひとつきで なつやすみです。",
+        "romaji": "ato hitotsuki de natsuyasumi desu.",
+        "ta": "இன்னும் ஒரு மாதத்தில் கோடை விடுமுறை.",
+        "en": "Summer holidays are one month away."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-047",
+    "expression": "つもり",
+    "reading": "つもり",
+    "romaji": "tsumori",
+    "en": "intention, plan",
+    "ta": "எண்ணம், நோக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "来年、日本の大学に入るつもりです。",
+        "reading": "らいねん、にほんの だいがくに はいる つもりです。",
+        "romaji": "rainen, nihon no daigaku ni hairu tsumori desu.",
+        "ta": "அடுத்த ஆண்டு ஜப்பானியப் பல்கலைக்கழகத்தில் சேர எண்ணியிருக்கிறேன்.",
+        "en": "I intend to enter a Japanese university next year."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-063",
+    "expression": "機会",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "en": "chance, opportunity",
+    "ta": "வாய்ப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本人と話す機会があまりありません。",
+        "reading": "にほんじんと はなす きかいが あまり ありません。",
+        "romaji": "nihonjin to hanasu kikai ga amari arimasen.",
+        "ta": "ஜப்பானியர்களுடன் பேச அதிகம் வாய்ப்பு இல்லை.",
+        "en": "I don’t have many chances to talk with Japanese people."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-088",
+    "expression": "～学部",
+    "reading": "～がくぶ",
+    "romaji": "～gakubu",
+    "en": "faculty (of a university)",
+    "ta": "(பல்கலைக்கழகத்) துறை / புலம்",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "兄は大学の工学部の学生です。",
+        "reading": "あには だいがくの こうがくぶの がくせいです。",
+        "romaji": "ani wa daigaku no kougakubu no gakusei desu.",
+        "ta": "என் அண்ணன் பல்கலைக்கழகத்தின் பொறியியல் புல மாணவர்.",
+        "en": "My older brother is a student in the engineering faculty."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-116",
+    "expression": "思う",
+    "reading": "おもう",
+    "romaji": "omou",
+    "en": "to think",
+    "ta": "நினைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "来年、日本へ行こうと思います。",
+        "reading": "らいねん、にほんへ いこうと おもいます。",
+        "romaji": "rainen, nihon e ikou to omoimasu.",
+        "ta": "அடுத்த ஆண்டு ஜப்பானுக்குப் போகலாம் என்று நினைக்கிறேன்.",
+        "en": "I think I’ll go to Japan next year."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-122",
+    "expression": "～家",
+    "reading": "～か",
+    "romaji": "～ka",
+    "en": "-ist, specialist",
+    "ta": "(ஒரு துறையில்) வல்லுநர், -கலைஞர்",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "将来、音楽家になりたいです。",
+        "reading": "しょうらい、おんがくかに なりたいです。",
+        "romaji": "shourai, ongakuka ni naritai desu.",
+        "ta": "எதிர்காலத்தில் இசைக்கலைஞர் ஆக விரும்புகிறேன்.",
+        "en": "I want to be a musician in the future."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-160",
+    "expression": "受ける",
+    "reading": "うける",
+    "romaji": "ukeru",
+    "en": "to take (an exam)",
+    "ta": "(தேர்வு) எழுத, பெற",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "来月、大学の入学試験を受けます。",
+        "reading": "らいげつ、だいがくの にゅうがく しけんを うけます。",
+        "romaji": "raigetsu, daigaku no nyuugaku shiken o ukemasu.",
+        "ta": "அடுத்த மாதம் பல்கலைக்கழக நுழைவுத் தேர்வு எழுதுகிறேன்.",
+        "en": "I will take the university entrance exam next month."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-174",
+    "expression": "再来月",
+    "reading": "さらいげつ",
+    "romaji": "saraigetsu",
+    "en": "the month after next",
+    "ta": "அடுத்த மாதத்துக்கு அடுத்த மாதம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "再来月、チェンナイに帰る予定です。",
+        "reading": "さらいげつ、チェンナイに かえる よていです。",
+        "romaji": "saraigetsu, chennai ni kaeru yotei desu.",
+        "ta": "அடுத்த மாதத்துக்கு அடுத்த மாதம் சென்னைக்குத் திரும்பத் திட்டமிட்டிருக்கிறேன்.",
+        "en": "I plan to go back to Chennai the month after next."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-261",
+    "expression": "予定",
+    "reading": "よてい",
+    "romaji": "yotei",
+    "en": "plan, schedule",
+    "ta": "திட்டம், நிகழ்ச்சி நிரல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今週の土曜日は予定がありますか。",
+        "reading": "こんしゅうの どようびは よていが ありますか。",
+        "romaji": "konshuu no doyoubi wa yotei ga arimasu ka.",
+        "ta": "இந்த சனிக்கிழமை ஏதாவது திட்டம் இருக்கிறதா?",
+        "en": "Do you have any plans this Saturday?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-272",
+    "expression": "公務員",
+    "reading": "こうむいん",
+    "romaji": "koumuin",
+    "en": "public servant",
+    "ta": "அரசு ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は公務員になろうと思っています。",
+        "reading": "あねは こうむいんに なろうと おもって います。",
+        "romaji": "ane wa koumuin ni narou to omotte imasu.",
+        "ta": "என் அக்கா அரசு ஊழியர் ஆக நினைத்துக்கொண்டிருக்கிறாள்.",
+        "en": "My older sister is thinking of becoming a public servant."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-343",
+    "expression": "入学",
+    "reading": "にゅうがく",
+    "romaji": "nyuugaku",
+    "en": "entering a school",
+    "ta": "(பள்ளி / கல்லூரியில்) சேர்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弟は四月に小学校に入学しました。",
+        "reading": "おとうとは しがつに しょうがっこうに にゅうがくしました。",
+        "romaji": "otouto wa shigatsu ni shougakkou ni nyuugaku shimashita.",
+        "ta": "என் தம்பி ஏப்ரலில் தொடக்கப் பள்ளியில் சேர்ந்தான்.",
+        "en": "My younger brother started primary school in April."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-373",
+    "expression": "再来週",
+    "reading": "さらいしゅう",
+    "romaji": "saraishuu",
+    "en": "the week after next",
+    "ta": "அடுத்த வாரத்துக்கு அடுத்த வாரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "再来週、日本語の試験があります。",
+        "reading": "さらいしゅう、にほんごの しけんが あります。",
+        "romaji": "saraishuu, nihongo no shiken ga arimasu.",
+        "ta": "அடுத்த வாரத்துக்கு அடுத்த வாரம் ஜப்பானிய மொழித் தேர்வு இருக்கிறது.",
+        "en": "I have a Japanese exam the week after next."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-374",
+    "expression": "夢",
+    "reading": "ゆめ",
+    "romaji": "yume",
+    "en": "dream",
+    "ta": "கனவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の夢は日本で医者になることです。",
+        "reading": "わたしの ゆめは にほんで いしゃに なる ことです。",
+        "romaji": "watashi no yume wa nihon de isha ni naru koto desu.",
+        "ta": "ஜப்பானில் மருத்துவர் ஆவதே என் கனவு.",
+        "en": "My dream is to become a doctor in Japan."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-402",
+    "expression": "計画",
+    "reading": "けいかく",
+    "romaji": "keikaku",
+    "en": "plan, project",
+    "ta": "திட்டம் (திட்டமிடுதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "友達と夏休みの旅行の計画を立てました。",
+        "reading": "ともだちと なつやすみの りょこうの けいかくを たてました。",
+        "romaji": "tomodachi to natsuyasumi no ryokou no keikaku o tatemashita.",
+        "ta": "நண்பருடன் கோடை விடுமுறைப் பயணத்துக்குத் திட்டம் போட்டேன்.",
+        "en": "I made a plan for a summer trip with my friend."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-456",
+    "expression": "卒業",
+    "reading": "そつぎょう",
+    "romaji": "sotsugyou",
+    "en": "graduation",
+    "ta": "படிப்பை முடித்தல், பட்டம் பெறுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "来年の三月に大学を卒業します。",
+        "reading": "らいねんの さんがつに だいがくを そつぎょうします。",
+        "romaji": "rainen no sangatsu ni daigaku o sotsugyou shimasu.",
+        "ta": "அடுத்த ஆண்டு மார்ச்சில் பல்கலைக்கழகப் படிப்பை முடிக்கிறேன்.",
+        "en": "I will graduate from university next March."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-459",
+    "expression": "専門",
+    "reading": "せんもん",
+    "romaji": "senmon",
+    "en": "major, speciality",
+    "ta": "சிறப்புப் பாடம், சிறப்புத் துறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の専門はコンピューターです。",
+        "reading": "わたしの せんもんは コンピューターです。",
+        "romaji": "watashi no senmon wa konpyuutaa desu.",
+        "ta": "என் சிறப்புப் பாடம் கணினி.",
+        "en": "My major is computers."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-540",
+    "expression": "将来",
+    "reading": "しょうらい",
+    "romaji": "shourai",
+    "en": "the future",
+    "ta": "எதிர்காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "将来、何になりたいですか。",
+        "reading": "しょうらい、なにに なりたいですか。",
+        "romaji": "shourai, nani ni naritai desu ka.",
+        "ta": "எதிர்காலத்தில் நீங்கள் என்ன ஆக விரும்புகிறீர்கள்?",
+        "en": "What do you want to be in the future?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-570",
+    "expression": "考える",
+    "reading": "かんがえる",
+    "romaji": "kangaeru",
+    "en": "to think about, to consider",
+    "ta": "யோசிக்க, சிந்திக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "将来のことを毎日考えています。",
+        "reading": "しょうらいの ことを まいにち かんがえて います。",
+        "romaji": "shourai no koto o mainichi kangaete imasu.",
+        "ta": "எதிர்காலத்தைப் பற்றி தினமும் யோசித்துக்கொண்டிருக்கிறேன்.",
+        "en": "I think about my future every day."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-661",
+    "expression": "楽しみ",
+    "reading": "たのしみ",
+    "romaji": "tanoshimi",
+    "en": "something to look forward to",
+    "ta": "ஆவலுடன் எதிர்பார்ப்பது, மகிழ்ச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "来月の旅行がとても楽しみです。",
+        "reading": "らいげつの りょこうが とても たのしみです。",
+        "romaji": "raigetsu no ryokou ga totemo tanoshimi desu.",
+        "ta": "அடுத்த மாதப் பயணத்தை மிகவும் ஆவலுடன் எதிர்பார்க்கிறேன்.",
+        "en": "I’m really looking forward to next month’s trip."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-666",
+    "expression": "これから",
+    "reading": "これから",
+    "romaji": "korekara",
+    "en": "from now on",
+    "ta": "இனிமேல், இப்போதிலிருந்து",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "これから毎日日本語を勉強しようと思います。",
+        "reading": "これから まいにち にほんごを べんきょうしようと おもいます。",
+        "romaji": "korekara mainichi nihongo o benkyou shiyou to omoimasu.",
+        "ta": "இனிமேல் தினமும் ஜப்பானிய மொழி படிக்கலாம் என்று நினைக்கிறேன்.",
+        "en": "From now on, I’ll study Japanese every day."
+      }
+    ]
+  }
+]

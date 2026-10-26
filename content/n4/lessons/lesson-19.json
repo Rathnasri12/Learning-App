@@ -1,0 +1,276 @@
+{
+  "lesson": 19,
+  "title": { "ja": "このスーツは大きすぎます", "ta": "இந்த உடை மிகவும் பெரியது", "en": "This suit is too big" },
+  "intro_ta": "இந்தப் பாடத்தில் உடைகள், அணிகலன்கள் வாங்கும்போது தேவையான வடிவங்களைக் கற்போம். 'அளவுக்கு மீறி' என்பதை 〜すぎます என்றும், 'செய்ய எளிது / கடினம்' என்பதை 〜やすいです / 〜にくいです என்றும் சொல்வோம். 'குட்டையாக்குங்கள்', 'அமைதியாக இருங்கள்' போல ஒன்றை வேண்டுமென்றே மாற்றுவதை 〜くします / 〜にします என்றும், 'இதையே எடுத்துக்கொள்கிறேன்' என்று தேர்வு செய்வதை N にします என்றும் சொல்வோம்.",
+  "intro_en": "In this lesson you learn what you need when you shop for clothes. \"Too …\" is 〜すぎます. \"Easy to …\" and \"hard to …\" are 〜やすいです and 〜にくいです. To change something on purpose, use 〜くします or 〜にします. For example: \"please make it shorter\" or \"please be quiet\". To choose something, say N にします: \"I’ll take this one\".",
+  "grammar": [
+    {
+      "id": "g19-1",
+      "pattern": "V-ます stem / adj-stem すぎます",
+      "name": { "en": "Too … / too much", "ta": "அளவுக்கு மீறி ~ (மிக அதிகமாக)" },
+      "explanation_ta": "すぎる என்றால் 'கடந்துபோதல், அளவு மீறுதல்'. இதை வினை அல்லது பெயரடையுடன் சேர்த்தால் 'தேவைக்கு அதிகமாக ~' என்று பொருள்; பெரும்பாலும் 'அதனால் பிரச்சினை' என்ற உணர்வுடன். வினை: ます-அடி + すぎます (飲みすぎます = அளவுக்கு மீறிக் குடிக்கிறேன்). い-பெயரடை: கடைசி い-ஐ நீக்கி + すぎます (大きすぎます). な-பெயரடை: நேரடியாக + すぎます (静かすぎます). சிறப்பு: いい → よすぎます, ない → なさすぎます. すぎる ஒரு குழு II வினை: すぎて, すぎた, すぎない. தமிழில் 'ரொம்பப் பெரியது (பொருந்தவில்லை)', 'அளவுக்கு மீறிச் சாப்பிட்டேன்' என்பது இணை. とても大きいです என்பது வெறும் 'மிகப் பெரியது'; 大きすぎます என்றால் 'தேவைக்கு மேல் பெரியது, அதனால் சரியில்லை'.",
+      "explanation_en": "すぎる means \"to go past, to go over the limit\". Add it to a verb or an adjective. It means \"too …\" or \"too much\". It usually means this causes a problem. Verb: ます-stem + すぎます. 飲みすぎます = I drink too much. い-adjective: drop the last い + すぎます: 大きすぎます. な-adjective: just add すぎます: 静かすぎます. Special forms: いい → よすぎます, ない → なさすぎます. すぎる is a Group II verb: すぎて, すぎた, すぎない. In Tamil: \"ரொம்பப் பெரியது\" (too big, so it doesn’t fit). とても大きいです only means \"very big\". 大きすぎます means \"bigger than it should be, so it’s not OK\".",
+      "tamil_parallel": "இந்த சூட் ரொம்பப் பெரியது (பொருந்தவில்லை) = このスーツは大きすぎます; அளவுக்கு மீறிக் குடித்தேன் = 飲みすぎました",
+      "tamil_parallel_en": "This suit is too big (இந்த சூட் ரொம்பப் பெரியது) = このスーツは大きすぎます. I drank too much (அளவுக்கு மீறிக் குடித்தேன்) = 飲みすぎました.",
+      "formation": "வினை: 飲みます → 飲み + すぎます\nい-பெயரடை: 大きい → 大き + すぎます\nな-பெயரடை: 静か(な) → 静か + すぎます\nசிறப்பு: いい → よすぎます、ない → なさすぎます\n(すぎて / すぎた / すぎない — குழு II)",
+      "formation_en": "Verb: 飲みます → 飲み + すぎます\nい-adjective: 大きい → 大き + すぎます\nな-adjective: 静か(な) → 静か + すぎます\nSpecial: いい → よすぎます、ない → なさすぎます\n(すぎて / すぎた / すぎない — Group II)",
+      "examples": [
+        { "ja": "このスーツは私には大きすぎます。", "reading": "この スーツは わたしには おおきすぎます。", "romaji": "kono suutsu wa watashi ni wa ookisugimasu.", "ta": "இந்த சூட் எனக்கு ரொம்பப் பெரியது.", "en": "This suit is too big for me." },
+        { "ja": "昨日は飲みすぎて、頭が痛いです。", "reading": "きのうは のみすぎて、あたまが いたいです。", "romaji": "kinou wa nomisugite, atama ga itai desu.", "ta": "நேற்று அளவுக்கு மீறிக் குடித்ததால் தலைவலிக்கிறது.", "en": "I drank too much yesterday, so I have a headache." },
+        { "ja": "このかばんはデザインはいいですが、高すぎます。", "reading": "この かばんは デザインは いいですが、たかすぎます。", "romaji": "kono kaban wa dezain wa ii desu ga, takasugimasu.", "ta": "இந்தப் பையின் வடிவமைப்பு நல்லது, ஆனால் விலை ரொம்ப அதிகம்.", "en": "This bag has a nice design, but it’s too expensive." },
+        { "ja": "髪が長すぎるので、明日切ります。", "reading": "かみが ながすぎるので、あした きります。", "romaji": "kami ga nagasugiru node, ashita kirimasu.", "ta": "தலைமுடி ரொம்ப நீளமாக இருப்பதால் நாளை வெட்டுவேன்.", "en": "My hair is too long, so I’ll cut it tomorrow." },
+        { "ja": "この町は静かすぎて、少し寂しいです。", "reading": "この まちは しずかすぎて、すこし さびしいです。", "romaji": "kono machi wa shizukasugite, sukoshi sabishii desu.", "ta": "இந்த ஊர் ரொம்ப அமைதியாக இருப்பதால் கொஞ்சம் தனிமையாக இருக்கிறது.", "en": "This town is too quiet, so it’s a bit lonely." },
+        { "ja": "食べすぎないように気をつけています。", "reading": "たべすぎない ように きを つけて います。", "romaji": "tabesuginai you ni ki o tsukete imasu.", "ta": "அளவுக்கு மீறிச் சாப்பிடாமல் இருக்கக் கவனமாக இருக்கிறேன்.", "en": "I’m careful not to eat too much." },
+        { "ja": "このズボンは長すぎませんか。", "reading": "この ズボンは ながすぎませんか。", "romaji": "kono zubon wa nagasugimasen ka.", "ta": "இந்தக் கால்சட்டை ரொம்ப நீளமாக இல்லையா?", "en": "Aren’t these trousers too long?" }
+      ],
+      "pitfalls_ta": "大きいすぎます / 静かなすぎます தவறு; い / な-ஐ நீக்க வேண்டும். 'மிக நல்லது' என்று பாராட்ட すぎます பயன்படுத்தினால் 'அளவு மீறி' என்ற குறை உணர்வு வரலாம்; பாராட்டுக்கு とても.",
+      "pitfalls_en": "大きいすぎます and 静かなすぎます are wrong. Drop the い or な. To praise something, use とても. すぎます can sound like a complaint."
+    },
+    {
+      "id": "g19-2",
+      "pattern": "V-ます stem やすいです / にくいです",
+      "name": { "en": "Easy to … / hard to …", "ta": "~ செய்ய எளிது / ~ செய்யக் கடினம்" },
+      "explanation_ta": "ます-அடி + やすい = '~ செய்ய எளிது'; ます-அடி + にくい = '~ செய்யக் கடினம்'. 書きやすいペン = எழுத எளிதான பேனா; 歩きにくい靴 = நடக்கக் கடினமான காலணி. விளைவுச் சொல் ஒரு い-பெயரடை போல மாறும்: 書きやすくない, 書きやすかった, 書きやすくなりました. 'தானாக நடக்கும்' வினைகளுடன் 'எளிதில் ~ ஆகும் / ஆகாது' என்ற பொருள்: 白い服は汚れやすい = வெள்ளை உடை எளிதில் அழுக்காகும். தமிழில் '-வதற்கு எளிது / கடினம்' அல்லது 'சீக்கிரம் ~ ஆகும்' என்பது இணை. 難しい என்பது வேலை / பாடம் கடினம்; 〜にくい என்பது 'பொருளின் தன்மையால் செய்யக் கடினம்'.",
+      "explanation_en": "ます-stem + やすい = \"easy to do\". ます-stem + にくい = \"hard to do\". 書きやすいペン = a pen that is easy to write with. 歩きにくい靴 = shoes that are hard to walk in. The result works like an い-adjective: 書きやすくない, 書きやすかった, 書きやすくなりました. With verbs that just happen, it means \"easily happens\". 白い服は汚れやすい = white clothes get dirty easily. Tamil \"-வதற்கு எளிது\" (easy to) is the same idea. 難しい means a task is difficult. 〜にくい means the thing makes the action hard.",
+      "tamil_parallel": "இந்தப் பேனா எழுத எளிது = このペンは書きやすいです; இந்தக் காலணியில் நடக்கக் கடினம் = この靴は歩きにくいです",
+      "tamil_parallel_en": "This pen is easy to write with (இந்தப் பேனா எழுத எளிது) = このペンは書きやすいです. These shoes are hard to walk in = この靴は歩きにくいです.",
+      "formation": "V-ます அடி + やすい / にくい (+ です)\n   書きます → 書き やすい\n   歩きます → 歩き にくい\nい-பெயரடை போல மாறும்: 書きやすくない、書きやすかった、書きやすく なる",
+      "formation_en": "V-ます stem + やすい / にくい (+ です)\n   書きます → 書き やすい\n   歩きます → 歩き にくい\nIt changes like an い-adjective: 書きやすくない、書きやすかった、書きやすく なる",
+      "examples": [
+        { "ja": "このペンは書きやすいです。", "reading": "この ペンは かきやすいです。", "romaji": "kono pen wa kakiyasui desu.", "ta": "இந்தப் பேனா எழுத எளிது.", "en": "This pen is easy to write with." },
+        { "ja": "この靴は重くて歩きにくいです。", "reading": "この くつは おもくて あるきにくいです。", "romaji": "kono kutsu wa omokute arukinikui desu.", "ta": "இந்தக் காலணி கனமாக இருப்பதால் நடக்கக் கடினம்.", "en": "These shoes are heavy and hard to walk in." },
+        { "ja": "先生の説明はとてもわかりやすいです。", "reading": "せんせいの せつめいは とても わかりやすいです。", "romaji": "sensei no setsumei wa totemo wakariyasui desu.", "ta": "ஆசிரியரின் விளக்கம் புரிந்துகொள்ள மிக எளிது.", "en": "The teacher’s explanations are very easy to understand." },
+        { "ja": "白い服は汚れやすいので、あまり着ません。", "reading": "しろい ふくは よごれやすいので、あまり きません。", "romaji": "shiroi fuku wa yogoreyasui node, amari kimasen.", "ta": "வெள்ளை உடை சீக்கிரம் அழுக்காகும், அதனால் அதிகம் அணிவதில்லை.", "en": "White clothes get dirty easily, so I don’t wear them much." },
+        { "ja": "この着物は一人では着にくいです。", "reading": "この きものは ひとりでは きにくいです。", "romaji": "kono kimono wa hitori de wa kinikui desu.", "ta": "இந்தக் கிமோனோவைத் தனியாக அணிவது கடினம்.", "en": "This kimono is hard to put on by yourself." },
+        { "ja": "このシャツは木綿なので、洗いやすいです。", "reading": "この シャツは もめんなので、あらいやすいです。", "romaji": "kono shatsu wa momen na node, araiyasui desu.", "ta": "இந்தச் சட்டை பருத்தி என்பதால் துவைக்க எளிது.", "en": "This shirt is cotton, so it’s easy to wash." },
+        { "ja": "この薬は飲みにくいですか。", "reading": "この くすりは のみにくいですか。", "romaji": "kono kusuri wa nominikui desu ka.", "ta": "இந்த மருந்தை விழுங்குவது கடினமா?", "en": "Is this medicine hard to swallow?" }
+      ],
+      "pitfalls_ta": "書くやすい தவறு; ます-அடி வேண்டும்: 書きやすい. 'செய்ய எளிது' என்பதற்கு 簡単に書きます என்று சொல்வதைவிட 書きやすい இயல்பானது.",
+      "pitfalls_en": "書くやすい is wrong. Use the ます-stem: 書きやすい."
+    },
+    {
+      "id": "g19-3",
+      "pattern": "い-adj-く / な-adj に / N に します",
+      "name": { "en": "Make something … (change it on purpose)", "ta": "ஒன்றை ~ ஆக்குதல் (வேண்டுமென்றே மாற்றுதல்)" },
+      "explanation_ta": "N5-இல் 〜くなります / 〜になります ('~ ஆகிறது') கற்றோம்; அது தானாக நடக்கும் மாற்றம். 〜くします / 〜にします என்றால் 'ஒருவர் வேண்டுமென்றே ~ ஆக்குகிறார்'. い-பெயரடை: 短い → 短くします (குட்டையாக்குகிறேன்). な-பெயரடை: きれい → きれいにします (சுத்தமாக்குகிறேன்). பெயர்ச்சொல்: N + にします (இந்த அறையைக் குழந்தை அறையாக்குகிறேன்). தமிழில் 'குட்டையாக்கு', 'சுத்தம் செய்', 'அமைதியாக இரு' என்பது இணை. 静かにしてください = 'அமைதியாக இருங்கள்'. கடையில் 'ズボンを短くしてください' என்று சொல்லி கால்சட்டையைக் குட்டையாக்கச் சொல்லலாம்.",
+      "explanation_en": "In N5 you learned 〜くなります and 〜になります: \"becomes …\". That change just happens. 〜くします and 〜にします mean \"someone makes it … on purpose\". い-adjective: 短い → 短くします (I make it shorter). な-adjective: きれい → きれいにします (I make it clean). Noun: N + にします (I make it into N). 静かにしてください = \"please be quiet\". In a shop, say ズボンを短くしてください to get your trousers made shorter.",
+      "tamil_parallel": "கால்சட்டையைக் கொஞ்சம் குட்டையாக்குங்கள் = ズボンを少し短くしてください; அறையைச் சுத்தமாக்கினேன் = 部屋をきれいにしました",
+      "tamil_parallel_en": "Please make the trousers a bit shorter (கால்சட்டையைக் கொஞ்சம் குட்டையாக்குங்கள்) = ズボンを少し短くしてください.",
+      "formation": "い-பெயரடை: 短い → 短く + します\nな-பெயரடை: きれい(な) → きれいに + します\nN: 子どもの部屋 → 子どもの部屋に + します\n(ஒப்பிடுக: 短く なります = தானாகக் குட்டையாகிறது)",
+      "formation_en": "い-adjective: 短い → 短く + します\nな-adjective: きれい(な) → きれいに + します\nNoun: 子どもの部屋 → 子どもの部屋に + します\n(Compare: 短く なります = it gets shorter by itself)",
+      "examples": [
+        { "ja": "すみません、ズボンを少し短くしてください。", "reading": "すみません、ズボンを すこし みじかく して ください。", "romaji": "sumimasen, zubon o sukoshi mijikaku shite kudasai.", "ta": "மன்னிக்கவும், கால்சட்டையைக் கொஞ்சம் குட்டையாக்குங்கள்.", "en": "Excuse me, please make the trousers a little shorter." },
+        { "ja": "夏なので、髪を短くしました。", "reading": "なつなので、かみを みじかく しました。", "romaji": "natsu na node, kami o mijikaku shimashita.", "ta": "கோடை என்பதால் தலைமுடியைக் குட்டையாக்கினேன்.", "en": "It’s summer, so I had my hair cut short." },
+        { "ja": "テレビの音を小さくしてくれませんか。", "reading": "テレビの おとを ちいさく して くれませんか。", "romaji": "terebi no oto o chiisaku shite kuremasen ka.", "ta": "டிவியின் சத்தத்தைக் குறைக்க முடியுமா?", "en": "Could you turn the TV down?" },
+        { "ja": "お客さんが来るので、部屋をきれいにしました。", "reading": "おきゃくさんが くるので、へやを きれいに しました。", "romaji": "okyakusan ga kuru node, heya o kirei ni shimashita.", "ta": "விருந்தினர் வருவதால் அறையைச் சுத்தமாக்கினேன்.", "en": "Guests are coming, so I cleaned the room." },
+        { "ja": "赤ちゃんが寝ているので、静かにしてください。", "reading": "あかちゃんが ねて いるので、しずかに して ください。", "romaji": "akachan ga nete iru node, shizuka ni shite kudasai.", "ta": "குழந்தை தூங்குவதால் அமைதியாக இருங்கள்.", "en": "The baby is sleeping, so please be quiet." },
+        { "ja": "この部屋を子どもの部屋にします。", "reading": "この へやを こどもの へやに します。", "romaji": "kono heya o kodomo no heya ni shimasu.", "ta": "இந்த அறையைக் குழந்தையின் அறையாக்குவோம்.", "en": "We’ll make this room the children’s room." }
+      ],
+      "pitfalls_ta": "短いにします / きれいくします தவறு: い-பெயரடை → く, な-பெயரடை / பெயர்ச்சொல் → に. なります (தானாக) / します (வேண்டுமென்றே) வேறுபாட்டைக் கவனியுங்கள்.",
+      "pitfalls_en": "短いにします and きれいくします are wrong. い-adjective → く. な-adjective or noun → に. Remember: なります happens by itself; します is done on purpose."
+    },
+    {
+      "id": "g19-4",
+      "pattern": "N に します (choose)",
+      "name": { "en": "I’ll take / choose N", "ta": "N-ஐத் தேர்ந்தெடுக்கிறேன் (N எடுத்துக்கொள்கிறேன்)" },
+      "explanation_ta": "பல பொருட்களில் ஒன்றைத் தேர்வு செய்யும்போது N + にします = 'N-ஐ எடுத்துக்கொள்கிறேன்'. உணவகத்தில் 'コーヒーにします' = 'நான் காபி எடுத்துக்கொள்கிறேன்'. ஏற்கனவே தேர்வு செய்ததை N にしました. கேள்வி: 何にしますか (எதை எடுத்துக்கொள்கிறீர்கள்?), どれにしますか, どちらにしますか. தமிழில் 'எனக்கு காபி', 'இதையே எடுத்துக்கிறேன்' என்பது இணை. 〜をください என்பதைவிட, பல தேர்வுகளில் ஒன்றை முடிவு செய்கிறேன் என்ற உணர்வு அதிகம். பாடம் 17-இல் கற்ற V-ことにします ('செய்வது என்று முடிவு செய்கிறேன்') பெயர்ச்சொல்லுடன் இப்படி வருகிறது.",
+      "explanation_en": "To choose one thing from many, say N + にします: \"I’ll take N\". At a restaurant, コーヒーにします = \"I’ll have coffee\". If you already chose, say N にしました. Questions: 何にしますか (What will you have?), どれにしますか, どちらにしますか. In Tamil: \"எனக்கு காபி\" (coffee for me). It sounds like choosing from options, more than 〜をください. It is the noun version of V-ことにします from Lesson 17.",
+      "tamil_parallel": "நான் காபி எடுத்துக்கொள்கிறேன் = 私はコーヒーにします; பரிசாக மோதிரத்தைத் தேர்ந்தெடுத்தேன் = プレゼントは指輪にしました",
+      "tamil_parallel_en": "I’ll have coffee (நான் காபி எடுத்துக்கொள்கிறேன்) = 私はコーヒーにします.",
+      "formation": "N + に + します / しました\n何 / どれ / どちら + に + しますか\n   コーヒー → コーヒーに します\n   この赤いの → この赤いのに します",
+      "formation_en": "N + に + します / しました\n何 / どれ / どちら + に + しますか\n   コーヒー → コーヒーに します\n   この赤いの → この赤いのに します",
+      "examples": [
+        { "ja": "「飲み物は何にしますか。」「私はコーヒーにします。」", "reading": "「のみものは なにに しますか。」「わたしは コーヒーに します。」", "romaji": "\"nomimono wa nani ni shimasu ka.\" \"watashi wa koohii ni shimasu.\"", "ta": "\"குடிக்க என்ன எடுத்துக்கொள்கிறீர்கள்?\" \"நான் காபி எடுத்துக்கொள்கிறேன்.\"", "en": "\"What would you like to drink?\" \"I’ll have coffee.\"" },
+        { "ja": "母へのプレゼントは指輪にしました。", "reading": "ははへの プレゼントは ゆびわに しました。", "romaji": "haha e no purezento wa yubiwa ni shimashita.", "ta": "அம்மாவுக்கான பரிசாக மோதிரத்தைத் தேர்ந்தெடுத்தேன்.", "en": "I chose a ring as the present for my mother." },
+        { "ja": "赤いのと青いの、どちらにしますか。", "reading": "あかいのと あおいの、どちらに しますか。", "romaji": "akai no to aoi no, dochira ni shimasu ka.", "ta": "சிவப்பு, நீலம் — எதை எடுத்துக்கொள்கிறீர்கள்?", "en": "The red one or the blue one, which will you take?" },
+        { "ja": "このスーツは高すぎるので、あちらにします。", "reading": "この スーツは たかすぎるので、あちらに します。", "romaji": "kono suutsu wa takasugiru node, achira ni shimasu.", "ta": "இந்த சூட் விலை அதிகம், அதனால் அதை எடுத்துக்கொள்கிறேன்.", "en": "This suit is too expensive, so I’ll take that one." },
+        { "ja": "次の会議は月曜日にしましょう。", "reading": "つぎの かいぎは げつようびに しましょう。", "romaji": "tsugi no kaigi wa getsuyoubi ni shimashou.", "ta": "அடுத்த கூட்டத்தைத் திங்கள்கிழமை வைத்துக்கொள்வோம்.", "en": "Let’s have the next meeting on Monday." },
+        { "ja": "夏休みの旅行はどこにしましたか。", "reading": "なつやすみの りょこうは どこに しましたか。", "romaji": "natsuyasumi no ryokou wa doko ni shimashita ka.", "ta": "கோடை விடுமுறைப் பயணத்துக்கு எந்த இடத்தைத் தேர்ந்தெடுத்தீர்கள்?", "en": "Where did you decide to go for your summer trip?" }
+      ],
+      "pitfalls_ta": "コーヒーをします தவறு; தேர்வுக்கு に: コーヒーにします. コーヒーがいいです என்பதும் சரி, ஆனால் にします அதிக உறுதியான முடிவு.",
+      "pitfalls_en": "コーヒーをします is wrong. For choosing, use に: コーヒーにします. コーヒーがいいです is also fine, but にします sounds more decided."
+    }
+  ],
+  "vocab_ids": ["n4-v-079", "n4-v-093", "n4-v-143", "n4-v-248", "n4-v-262", "n4-v-298", "n4-v-325", "n4-v-357", "n4-v-387", "n4-v-391", "n4-v-394", "n4-v-400", "n4-v-404", "n4-v-450", "n4-v-452", "n4-v-470", "n4-v-513", "n4-v-551", "n4-v-569", "n4-v-581", "n4-v-594", "n4-v-601", "n4-v-643", "n4-v-645", "n4-v-652", "n4-v-654"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L19-q01", "type": "kanji_reading",
+        "sentence": "出かける 前に ＿鏡＿で 顔を 見ます。", "target": "鏡",
+        "options": ["かがみ", "きょう", "めがね", "かげみ"], "answer": 0,
+        "explanation_ta": "鏡 = かがみ (முகம் பார்க்கும் கண்ணாடி). めがね (மூக்குக் கண்ணாடி) 眼鏡 என்று எழுதப்படும்; வேறு சொல்.",
+        "explanation_en": "鏡 = かがみ (கண்ணாடி, mirror). めがね (glasses) is written 眼鏡. It is a different word."
+      },
+      {
+        "id": "L19-q02", "type": "kanji_reading",
+        "sentence": "誕生日に 母から ＿指輪＿を もらいました。", "target": "指輪",
+        "options": ["ゆびりん", "しわ", "ゆびわ", "ゆびな"], "answer": 2,
+        "explanation_ta": "指輪 = ゆびわ (மோதிரம்). 指 = ゆび (விரல்), 輪 = わ (வளையம்). りん என்பது சீன வாசிப்பு; இங்கே வராது.",
+        "explanation_en": "指輪 = ゆびわ (மோதிரம், ring). 指 = ゆび (finger) and 輪 = わ (circle). りん is another reading; it is not used here."
+      },
+      {
+        "id": "L19-q03", "type": "kanji_reading",
+        "sentence": "寒いので、＿手袋＿を して 出かけます。", "target": "手袋",
+        "options": ["てふくろ", "てぶくろ", "しゅぶくろ", "てぶくら"], "answer": 1,
+        "explanation_ta": "手袋 = てぶくろ (கையுறை). 袋 (ふくろ, பை) இங்கே ぶくろ ஆக மாறும் (連濁).",
+        "explanation_en": "手袋 = てぶくろ (கையுறை, gloves). 袋 (ふくろ, bag) becomes ぶくろ in this word."
+      },
+      {
+        "id": "L19-q04", "type": "orthography",
+        "sentence": "好きな 色を ＿えらんで＿ ください。", "target": "えらんで",
+        "options": ["遅んで", "達んで", "運んで", "選んで"], "answer": 3,
+        "explanation_ta": "えらぶ (தேர்ந்தெடுத்தல்) = 選ぶ. 運んで என்பது はこんで (சுமந்து செல்லுதல்); 遅, 達 தோற்றத்தில் ஒத்தவை மட்டுமே.",
+        "explanation_en": "えらぶ (தேர்ந்தெடுக்க, to choose) = 選ぶ. 運んで is はこんで (to carry). 遅 and 達 only look similar."
+      },
+      {
+        "id": "L19-q05", "type": "orthography",
+        "sentence": "正月に 姉は ＿きもの＿を 着ました。", "target": "きもの",
+        "options": ["着物", "来物", "切物", "着者"], "answer": 0,
+        "explanation_ta": "きもの = 着物 (着る அணிதல் + 物 பொருள்). 来 (வருதல்), 切 (வெட்டுதல்) ஒலியில் き ஆனாலும் பொருள் வேறு.",
+        "explanation_en": "きもの = 着物 (着る, to wear + 物, thing). 来 (come) and 切 (cut) can also be read き, but the meaning is wrong."
+      },
+      {
+        "id": "L19-q06", "type": "vocab_context",
+        "sentence": "この 靴は 小さくて、足に（　　）。",
+        "options": ["選びません", "合いません", "変えません", "過ぎません"], "answer": 1,
+        "explanation_ta": "அளவு பொருந்தவில்லை = 足に合いません. 合う = பொருந்துவது.",
+        "explanation_en": "Doesn’t fit = 足に合いません. 合う = to fit."
+      },
+      {
+        "id": "L19-q07", "type": "vocab_context",
+        "sentence": "サイズが 合わないので、店で 大きいのと（　　）もらいました。",
+        "options": ["選んで", "包んで", "取り替えて", "合って"], "answer": 2,
+        "explanation_ta": "A と 取り替える = A-உடன் மாற்றிக்கொள்வது. 選んで (தேர்ந்தெடுத்து) と-உடன் இப்படி வராது.",
+        "explanation_en": "A と 取り替える = to exchange it for A. 選んで (choose) doesn’t go with と like this."
+      },
+      {
+        "id": "L19-q08", "type": "vocab_context",
+        "sentence": "果物は 何でも 好きですが、（　　） マンゴーが 好きです。",
+        "options": ["ほとんど", "大体", "是非", "特に"], "answer": 3,
+        "explanation_ta": "எல்லாம் பிடிக்கும், அவற்றில் 'குறிப்பாக' மாம்பழம் = 特に. 大体 'சுமார்'; இங்கே பொருந்தாது.",
+        "explanation_en": "I like everything, but \"especially\" mangoes = 特に. 大体 means \"about\". It doesn’t fit."
+      },
+      {
+        "id": "L19-q09", "type": "vocab_context",
+        "sentence": "赤いのも 青いのも よかったので、（　　） 買いました。",
+        "options": ["両方", "特別", "自由", "代わり"], "answer": 0,
+        "explanation_ta": "இரண்டும் நன்றாக இருந்ததால் 'இரண்டையும்' வாங்கினேன் = 両方.",
+        "explanation_en": "Both were nice, so I bought \"both\" = 両方."
+      },
+      {
+        "id": "L19-q10", "type": "vocab_context",
+        "sentence": "一日で この 本を 全部 読むのは（　　）です。",
+        "options": ["親切", "無理", "丁寧", "自由"], "answer": 1,
+        "explanation_ta": "ஒரே நாளில் முழுவதும் படிப்பது 'முடியாது' = 無理. 親切 / 丁寧 மனிதர்களின் குணத்துக்கு.",
+        "explanation_en": "Reading it all in one day is \"impossible\" = 無理. 親切 and 丁寧 describe people’s manner."
+      },
+      {
+        "id": "L19-q11", "type": "paraphrase",
+        "sentence": "この 説明は わかりやすいです。",
+        "options": ["この 説明は ぜんぜん わかりません。", "この 説明は 長すぎます。", "この 説明は 新しいです。", "この 説明は すぐ わかります。"], "answer": 3,
+        "explanation_ta": "わかりやすい = புரிந்துகொள்ள எளிது = சீக்கிரம் புரியும். ぜんぜんわかりません எதிர்ப்பொருள்.",
+        "explanation_en": "わかりやすい = easy to understand = you understand it quickly. ぜんぜんわかりません is the opposite."
+      },
+      {
+        "id": "L19-q12", "type": "paraphrase",
+        "sentence": "この コーヒーは 甘すぎます。",
+        "options": ["この コーヒーは 少し 甘いです。", "この コーヒーは 甘くないです。", "この コーヒーは とても 甘くて、おいしくないです。", "この コーヒーは 甘くて、おいしいです。"], "answer": 2,
+        "explanation_ta": "甘すぎます = தேவைக்கு மேல் இனிப்பு, அதனால் சரியில்லை. 'இனிப்பாக, சுவையாக இருக்கிறது' என்பது பாராட்டு; すぎる-வின் பொருள் அல்ல.",
+        "explanation_en": "甘すぎます = sweeter than it should be, so it’s not good. \"Sweet and tasty\" is praise. That is not what すぎる means."
+      },
+      {
+        "id": "L19-q13", "type": "usage",
+        "sentence": "合う",
+        "options": ["駅で 友達と 合いました。", "毎朝 七時に 家を 合います。", "この 青い ネクタイは 白い シャツに よく 合います。", "雨が 合って、とても 寒いです。"], "answer": 2,
+        "explanation_ta": "合う = பொருந்துவது: A は B に合う. நண்பரைச் சந்திப்பது 会う (அதே ஒலி, வேறு கான்ஜி) — இது முக்கியமான பொறி.",
+        "explanation_en": "合う = to match: A は B に合う. Meeting a friend is 会う. It sounds the same, but the kanji is different. That is the trap."
+      },
+      {
+        "id": "L19-q14", "type": "usage",
+        "sentence": "無理",
+        "options": ["この ケーキは 無理で おいしいです。", "友達に 無理を あげました。", "この 部屋は 無理で 明るいです。", "熱が あるなら、無理を しないで 休んで ください。"], "answer": 3,
+        "explanation_ta": "無理をしないで = உடலை வருத்திக்கொள்ளாமல் / அளவு மீறாமல். மற்ற வாக்கியங்களில் 無理 பொருள் தரவில்லை.",
+        "explanation_en": "無理をしないで = don’t push yourself too hard. In the other sentences, 無理 makes no sense."
+      },
+      {
+        "id": "L19-q15", "type": "grammar_form",
+        "sentence": "この スーツは 私には 大き（　　）。",
+        "options": ["くします", "すぎます", "やすいです", "にくいです"], "answer": 1,
+        "explanation_ta": "'எனக்கு ரொம்பப் பெரியது' = 大きすぎます. 大きやすい / 大きにくい என்பவை பொருளற்றவை; やすい / にくい வினையுடன் மட்டும்.",
+        "explanation_en": "\"Too big for me\" = 大きすぎます. 大きやすい and 大きにくい make no sense. やすい and にくい go with verbs."
+      },
+      {
+        "id": "L19-q16", "type": "grammar_form",
+        "sentence": "昨日 お酒を 飲み（　　）、頭が 痛いです。",
+        "options": ["すぎて", "やすくて", "にくくて", "そうで"], "answer": 0,
+        "explanation_ta": "அளவுக்கு மீறிக் குடித்ததால் தலைவலி = 飲みすぎて. 飲みやすくて 'குடிக்க எளிதாக' என்று பொருள்; காரணமாகப் பொருந்தாது.",
+        "explanation_en": "I drank too much, so I have a headache = 飲みすぎて. 飲みやすくて means \"easy to drink\". It doesn’t explain a headache."
+      },
+      {
+        "id": "L19-q17", "type": "grammar_form",
+        "sentence": "この ペンは 軽くて、とても 書き（　　）です。",
+        "options": ["にくい", "すぎ", "そう", "やすい"], "answer": 3,
+        "explanation_ta": "எடை குறைவு (நல்ல காரணம்) + とても → 'எழுத எளிது' = 書きやすい. 書きにくい எதிர்ப்பொருள்.",
+        "explanation_en": "Light (a good point) + とても → \"easy to write with\" = 書きやすい. 書きにくい is the opposite."
+      },
+      {
+        "id": "L19-q18", "type": "grammar_form",
+        "sentence": "この 靴は 重くて、歩き（　　）です。",
+        "options": ["やすい", "にくい", "すぎ", "たい"], "answer": 1,
+        "explanation_ta": "கனமான காலணி → 'நடக்கக் கடினம்' = 歩きにくい. 歩きたいです 'நடக்க விரும்புகிறேன்'; காலணிக்குப் பொருந்தாது.",
+        "explanation_en": "Heavy shoes → \"hard to walk in\" = 歩きにくい. 歩きたいです means \"I want to walk\". It doesn’t fit shoes."
+      },
+      {
+        "id": "L19-q19", "type": "grammar_form",
+        "sentence": "ズボンが 長いので、少し 短（　　） ください。",
+        "options": ["くして", "にして", "くなって", "になって"], "answer": 0,
+        "explanation_ta": "い-பெயரடை 短い → 短くして (குட்டையாக்குங்கள்). கடைக்காரரிடம் வேண்டுவதால் する; なって தானாக மாறுவது.",
+        "explanation_en": "い-adjective 短い → 短くして (please make it shorter). You ask the shop to do it, so use する. なって is a change that just happens."
+      },
+      {
+        "id": "L19-q20", "type": "grammar_form",
+        "sentence": "子どもが 寝て いますから、静か（　　） ください。",
+        "options": ["くして", "にして", "くなって", "がして"], "answer": 1,
+        "explanation_ta": "な-பெயரடை 静か → 静かにして (அமைதியாக இருங்கள்). くして い-பெயரடைக்கு மட்டும்.",
+        "explanation_en": "な-adjective 静か → 静かにして (please be quiet). くして is only for い-adjectives."
+      },
+      {
+        "id": "L19-q21", "type": "grammar_form",
+        "sentence": "「飲み物は 何に しますか。」「私は コーヒー（　　）。」",
+        "options": ["が します", "を します", "に します", "で します"], "answer": 2,
+        "explanation_ta": "தேர்வு செய்வது = N にします. கேள்வியிலேயே 何にしますか என்று に வந்துள்ளது.",
+        "explanation_en": "Choosing = N にします. The question 何にしますか already uses に."
+      },
+      {
+        "id": "L19-q22", "type": "sentence_order",
+        "before": "店の 人に", "chunks": ["スーツの", "ズボンを", "短く", "して"], "star": 2, "after": "もらいました。",
+        "explanation_ta": "店の 人に スーツの ズボンを 短く して もらいました (கடைக்காரரிடம் சூட்டின் கால்சட்டையைக் குட்டையாக்கச் சொன்னேன்). ★ = 短く.",
+        "explanation_en": "店の 人に スーツの ズボンを 短く して もらいました (I had the shop shorten the suit trousers). ★ = 短く."
+      },
+      {
+        "id": "L19-q23", "type": "sentence_order",
+        "before": "白い 服は", "chunks": ["汚れ", "やすい", "ので", "あまり"], "star": 1, "after": "着ません。",
+        "explanation_ta": "白い 服は 汚れ やすい ので あまり 着ません (வெள்ளை உடை சீக்கிரம் அழுக்காகும், அதனால் அதிகம் அணிவதில்லை). ★ = やすい.",
+        "explanation_en": "白い 服は 汚れ やすい ので あまり 着ません (white clothes get dirty easily, so I don’t wear them much). ★ = やすい."
+      },
+      {
+        "id": "L19-q24", "type": "sentence_order",
+        "before": "「何に しますか。」「じゃ、", "chunks": ["この", "赤い", "セーター", "に"], "star": 2, "after": "します。」",
+        "explanation_ta": "じゃ、この 赤い セーター に します (இந்தச் சிவப்பு ஸ்வெட்டரை எடுத்துக்கொள்கிறேன்). ★ = セーター.",
+        "explanation_en": "じゃ、この 赤い セーター に します (I’ll take this red sweater). ★ = セーター."
+      },
+      {
+        "id": "L19-q25", "type": "passage_cloze",
+        "passage": "先週、デパートへ スーツを 買いに 行きました。初めに 着た スーツは 私には 大き［1］。店の 人が 別の スーツを 選んで くれました。それは 軽くて 着［2］、色も よかったので、それ［3］。ズボンが 少し 長かったので、短く して もらいました。",
+        "blanks": [
+          { "options": ["すぎました", "やすかったです", "にくかったです", "そうでした"], "answer": 0 },
+          { "options": ["にくくて", "すぎて", "やすくて", "そうで"], "answer": 2 },
+          { "options": ["が しました", "を しました", "に なりました", "に しました"], "answer": 3 }
+        ],
+        "explanation_ta": "［1］ அணிந்து பார்த்த பின் 'ரொம்பப் பெரியது' → 大きすぎました. ［2］ எடை குறைவு, நல்லது → 着やすくて. ［3］ அதையே தேர்ந்தெடுத்தேன் → それにしました.",
+        "explanation_en": "[1] After trying it on: \"too big\" → 大きすぎました. [2] Light, a good point → 着やすくて (easy to wear). [3] I chose that one → それにしました."
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "n4-v-038",
+    "expression": "別",
+    "reading": "べつ",
+    "romaji": "betsu",
+    "en": "another, different",
+    "ta": "வேறு, தனி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "このシャツは小さいので、別のを見せてください。", "reading": "この シャツは ちいさいので、べつのを みせて ください。", "romaji": "kono shatsu wa chiisai node, betsu no o misete kudasai.", "ta": "இந்தச் சட்டை சிறியது, வேறொன்றைக் காட்டுங்கள்.", "en": "This shirt is small, so please show me another one." }
+    ]
+  },
+  {
+    "id": "n4-v-045",
+    "expression": "比べる",
+    "reading": "くらべる",
+    "romaji": "kuraberu",
+    "en": "to compare",
+    "ta": "ஒப்பிட",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "東京とチェンナイの物価を比べてみました。", "reading": "とうきょうと チェンナイの ぶっかを くらべて みました。", "romaji": "toukyou to chennai no bukka o kurabete mimashita.", "ta": "டோக்கியோவையும் சென்னையையும் விலைவாசியில் ஒப்பிட்டுப் பார்த்தேன்.", "en": "I tried comparing prices in Tokyo and Chennai." }
+    ]
+  },
+  {
+    "id": "n4-v-059",
+    "expression": "アフリカ",
+    "reading": "アフリカ",
+    "romaji": "afurika",
+    "en": "Africa",
+    "ta": "ஆப்பிரிக்கா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "いつかアフリカで大きい動物を見てみたいです。", "reading": "いつか アフリカで おおきい どうぶつを みて みたいです。", "romaji": "itsuka afurika de ookii doubutsu o mite mitai desu.", "ta": "என்றாவது ஒருநாள் ஆப்பிரிக்காவில் பெரிய விலங்குகளைப் பார்க்க ஆசை.", "en": "Someday I want to see big animals in Africa." }
+    ]
+  },
+  {
+    "id": "n4-v-115",
+    "expression": "西洋",
+    "reading": "せいよう",
+    "romaji": "seiyou",
+    "en": "the West",
+    "ta": "மேற்கத்திய நாடுகள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "西洋の料理はインドの料理ほど辛くないです。", "reading": "せいようの りょうりは インドの りょうりほど からく ないです。", "romaji": "seiyou no ryouri wa indo no ryouri hodo karaku nai desu.", "ta": "மேற்கத்திய உணவு இந்திய உணவைப் போல் காரமாக இல்லை.", "en": "Western food is not as spicy as Indian food." }
+    ]
+  },
+  {
+    "id": "n4-v-172",
+    "expression": "世界",
+    "reading": "せかい",
+    "romaji": "sekai",
+    "en": "world",
+    "ta": "உலகம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "世界でいちばん高い山はエベレストです。", "reading": "せかいで いちばん たかい やまは エベレストです。", "romaji": "sekai de ichiban takai yama wa eberesuto desu.", "ta": "உலகின் மிக உயரமான மலை எவரெஸ்ட்.", "en": "The highest mountain in the world is Everest." }
+    ]
+  },
+  {
+    "id": "n4-v-353",
+    "expression": "アメリカ",
+    "reading": "アメリカ",
+    "romaji": "amerika",
+    "en": "America, the USA",
+    "ta": "அமெரிக்கா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄はアメリカの大学で勉強しています。", "reading": "あには アメリカの だいがくで べんきょうして います。", "romaji": "ani wa amerika no daigaku de benkyou shite imasu.", "ta": "அண்ணன் அமெரிக்காவில் உள்ள ஒரு பல்கலைக்கழகத்தில் படிக்கிறார்.", "en": "My older brother studies at a university in America." }
+    ]
+  },
+  {
+    "id": "n4-v-354",
+    "expression": "男性",
+    "reading": "だんせい",
+    "romaji": "dansei",
+    "en": "man, male",
+    "ta": "ஆண்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本では料理をする男性が増えているそうです。", "reading": "にほんでは りょうりを する だんせいが ふえて いるそうです。", "romaji": "nihon de wa ryouri o suru dansei ga fuete iru sou desu.", "ta": "ஜப்பானில் சமையல் செய்யும் ஆண்கள் அதிகரித்து வருகிறார்களாம்.", "en": "I hear more men in Japan are cooking these days." }
+    ]
+  },
+  {
+    "id": "n4-v-367",
+    "expression": "女性",
+    "reading": "じょせい",
+    "romaji": "josei",
+    "en": "woman, female",
+    "ta": "பெண்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの着物を着ている女性は私の先生です。", "reading": "あの きものを きて いる じょせいは わたしの せんせいです。", "romaji": "ano kimono o kite iru josei wa watashi no sensei desu.", "ta": "அந்தக் கிமோனோ அணிந்திருக்கும் பெண் என் ஆசிரியர்.", "en": "The woman wearing that kimono is my teacher." }
+    ]
+  },
+  {
+    "id": "n4-v-370",
+    "expression": "国際",
+    "reading": "こくさい",
+    "romaji": "kokusai",
+    "en": "international",
+    "ta": "சர்வதேச",
+    "pos": "noun",
+    "examples": [
+      { "ja": "来月、東京で国際会議が行われます。", "reading": "らいげつ、とうきょうで こくさい かいぎが おこなわれます。", "romaji": "raigetsu, toukyou de kokusai kaigi ga okonawaremasu.", "ta": "அடுத்த மாதம் டோக்கியோவில் ஒரு சர்வதேச மாநாடு நடைபெறும்.", "en": "An international conference will be held in Tokyo next month." }
+    ]
+  },
+  {
+    "id": "n4-v-384",
+    "expression": "例えば",
+    "reading": "たとえば",
+    "romaji": "tatoeba",
+    "en": "for example",
+    "ta": "உதாரணமாக",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "日本の食べ物、例えばすしやてんぷらが好きです。", "reading": "にほんの たべもの、たとえば すしや てんぷらが すきです。", "romaji": "nihon no tabemono, tatoeba sushi ya tenpura ga suki desu.", "ta": "ஜப்பானிய உணவுகள், உதாரணமாக சுஷி, டெம்புரா எனக்குப் பிடிக்கும்.", "en": "I like Japanese food, for example sushi and tempura." }
+    ]
+  },
+  {
+    "id": "n4-v-386",
+    "expression": "随分",
+    "reading": "ずいぶん",
+    "romaji": "zuibun",
+    "en": "very, quite a lot",
+    "ta": "ரொம்பவே",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "一年で日本語が随分上手になりましたね。", "reading": "いちねんで にほんごが ずいぶん じょうずに なりましたね。", "romaji": "ichinen de nihongo ga zuibun jouzu ni narimashita ne.", "ta": "ஒரே வருடத்தில் உங்கள் ஜப்பானிய மொழி ரொம்பவே முன்னேறிவிட்டதே.", "en": "Your Japanese has got a lot better in one year." }
+    ]
+  },
+  {
+    "id": "n4-v-439",
+    "expression": "それほど",
+    "reading": "それほど",
+    "romaji": "sorehodo",
+    "en": "(not) that much",
+    "ta": "அவ்வளவு",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "日本の夏は暑いですが、今日はそれほど暑くないです。", "reading": "にほんの なつは あついですが、きょうは それほど あつく ないです。", "romaji": "nihon no natsu wa atsui desu ga, kyou wa sorehodo atsuku nai desu.", "ta": "ஜப்பானின் கோடை வெயிலானது, ஆனால் இன்று அவ்வளவு வெயில் இல்லை.", "en": "Japanese summers are hot, but today isn't that hot." }
+    ]
+  },
+  {
+    "id": "n4-v-484",
+    "expression": "似る",
+    "reading": "にる",
+    "romaji": "niru",
+    "en": "to look like, to resemble",
+    "ta": "ஒத்திருக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "私は母によく似ていると言われます。", "reading": "わたしは ははに よく にて いると いわれます。", "romaji": "watashi wa haha ni yoku nite iru to iwaremasu.", "ta": "நான் அம்மாவைப் போலவே இருக்கிறேன் என்று எல்லோரும் சொல்வார்கள்.", "en": "People say I look a lot like my mother." }
+    ]
+  },
+  {
+    "id": "n4-v-491",
+    "expression": "普通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "en": "usual, normal",
+    "ta": "சாதாரண, வழக்கமான",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "日本では、電車の中で電話で話さないのが普通です。", "reading": "にほんでは、でんしゃの なかで でんわで はなさないのが ふつうです。", "romaji": "nihon de wa, densha no naka de denwa de hanasanai no ga futsuu desu.", "ta": "ஜப்பானில் ரயிலுக்குள் போனில் பேசாமல் இருப்பதுதான் வழக்கம்.", "en": "In Japan, it is normal not to talk on the phone on trains." }
+    ]
+  },
+  {
+    "id": "n4-v-508",
+    "expression": "アジア",
+    "reading": "アジア",
+    "romaji": "ajia",
+    "en": "Asia",
+    "ta": "ஆசியா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本もインドもアジアの国です。", "reading": "にほんも インドも アジアの くにです。", "romaji": "nihon mo indo mo ajia no kuni desu.", "ta": "ஜப்பானும் இந்தியாவும் ஆசிய நாடுகள்.", "en": "Japan and India are both Asian countries." }
+    ]
+  },
+  {
+    "id": "n4-v-512",
+    "expression": "最も",
+    "reading": "もっとも",
+    "romaji": "mottomo",
+    "en": "most",
+    "ta": "மிக (எல்லாவற்றிலும்)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "富士山は日本で最も高い山です。", "reading": "ふじさんは にほんで もっとも たかい やまです。", "romaji": "fujisan wa nihon de mottomo takai yama desu.", "ta": "ஃபூஜி மலை ஜப்பானின் மிக உயரமான மலை.", "en": "Mount Fuji is the highest mountain in Japan." }
+    ]
+  },
+  {
+    "id": "n4-v-527",
+    "expression": "様",
+    "reading": "よう",
+    "romaji": "you",
+    "en": "like, way, manner",
+    "ta": "போல, விதம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "庭に雪のように白い花が咲いています。", "reading": "にわに ゆきの ように しろい はなが さいて います。", "romaji": "niwa ni yuki no you ni shiroi hana ga saite imasu.", "ta": "தோட்டத்தில் பனி போல வெண்மையான பூக்கள் பூத்திருக்கின்றன.", "en": "Flowers as white as snow are blooming in the garden." }
+    ]
+  },
+  {
+    "id": "n4-v-543",
+    "expression": "文化",
+    "reading": "ぶんか",
+    "romaji": "bunka",
+    "en": "culture",
+    "ta": "கலாச்சாரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本の文化とタミルの文化は違うところが多いです。", "reading": "にほんの ぶんかと タミルの ぶんかは ちがう ところが おおいです。", "romaji": "nihon no bunka to tamiru no bunka wa chigau tokoro ga ooi desu.", "ta": "ஜப்பானிய கலாச்சாரத்துக்கும் தமிழ்க் கலாச்சாரத்துக்கும் வேறுபாடுகள் அதிகம்.", "en": "Japanese and Tamil culture differ in many ways." }
+    ]
+  },
+  {
+    "id": "n4-v-545",
+    "expression": "習慣",
+    "reading": "しゅうかん",
+    "romaji": "shuukan",
+    "en": "custom, habit",
+    "ta": "பழக்கவழக்கம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本にも、家に入る前に靴を脱ぐ習慣があります。", "reading": "にほんにも、いえに はいる まえに くつを ぬぐ しゅうかんが あります。", "romaji": "nihon ni mo, ie ni hairu mae ni kutsu o nugu shuukan ga arimasu.", "ta": "ஜப்பானிலும் வீட்டுக்குள் நுழையும் முன் காலணியைக் கழற்றும் பழக்கம் உண்டு.", "en": "Japan also has the custom of taking off shoes before entering a home." }
+    ]
+  },
+  {
+    "id": "n4-v-575",
+    "expression": "程",
+    "reading": "ほど",
+    "romaji": "hodo",
+    "en": "extent; (not) as … as",
+    "ta": "அளவு; (-ஐப்) போல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今年の夏は去年ほど暑くないです。", "reading": "ことしの なつは きょねんほど あつく ないです。", "romaji": "kotoshi no natsu wa kyonen hodo atsuku nai desu.", "ta": "இந்த ஆண்டுக் கோடை கடந்த ஆண்டைப் போல் வெயிலாக இல்லை.", "en": "This summer is not as hot as last year." }
+    ]
+  }
+]

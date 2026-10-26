@@ -1,0 +1,287 @@
+{
+  "lesson": 17,
+  "title": { "ja": "家を買うために貯金しています", "ta": "வீடு வாங்குவதற்காகச் சேமிக்கிறேன்", "en": "I'm saving to buy a house" },
+  "intro_ta": "இந்தப் பாடத்தில் வேலை, பணம், முடிவுகள் பற்றிப் பேசக் கற்போம். 'எதற்காக' என்பதை 〜ために என்றும், 'எதற்குப் பயன்படும் / தேவை' என்பதை 〜のに使います・必要です என்றும் சொல்வோம். 'நானே முடிவு செய்தேன்' (〜ことにしました), 'என் வழக்கம்' (〜ことにしています), 'மற்றவர்கள் முடிவு செய்தது / விதி' (〜ことになりました / 〜ことになっています) ஆகியவற்றின் வேறுபாட்டையும் கற்போம். பகுதிநேர வேலை, தொழிற்சாலை, சேமிப்பு போன்ற சூழல்களில் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you talk about work, money and decisions. You say \"in order to\" with 〜ために. You say \"used for\" or \"needed for\" with 〜のに使います and 〜のに必要です. You learn three kinds of decisions. \"I decided\" is 〜ことにしました. \"It’s my habit\" is 〜ことにしています. \"It was decided for me\" or \"it’s the rule\" is 〜ことになりました or 〜ことになっています. You practise with part-time jobs, factories and saving money.",
+  "grammar": [
+    {
+      "id": "g17-1",
+      "pattern": "V-dict / N の ために (purpose / benefit)",
+      "name": { "en": "In order to … / for the sake of …", "ta": "~ செய்வதற்காக / ~-இன் நன்மைக்காக" },
+      "explanation_ta": "ために இரண்டு வேலைகள் செய்யும். (1) நோக்கம்: V-அகராதி வடிவம் + ために = 'செய்வதற்காக'. 家を買うために貯金しています = வீடு வாங்குவதற்காகச் சேமிக்கிறேன். இங்கே இரண்டு செயல்களையும் செய்பவர் ஒருவரே; முதல் வினை நாம் விரும்பிச் செய்யக்கூடிய செயலாக இருக்க வேண்டும் (買う、行く、勉強する). (2) நன்மை: N + の + ために = 'ஒருவரின் / ஒன்றின் நன்மைக்காக'. 家族のために = குடும்பத்துக்காக; 健康のために = உடல்நலத்துக்காக. தமிழில் '-க்காக' என்ற விகுதி இதற்குச் சரியான இணை. பாடம் 11-இல் கற்ற ように-உடன் வேறுபாடு: できる, わかる, 見える போன்ற 'தானாக நடக்கும்' வினைகள், அல்லது ない வடிவம் வந்தால் ように; நாம் விரும்பிச் செய்யும் செயல் வந்தால் ために.",
+      "explanation_en": "ために has two jobs. (1) Purpose: V-dictionary form + ために = \"in order to\". 家を買うために貯金しています = I’m saving to buy a house. The same person does both actions. The first verb must be something you choose to do, like 買う, 行く, 勉強する. (2) Benefit: N + の + ために = \"for the sake of N\". 家族のために = for my family. 健康のために = for my health. Tamil \"-க்காக\" (for) works the same way. How is it different from ように (Lesson 11)? Use ように with verbs that just happen, like できる, わかる, 見える. Also use ように with ない-forms. Use ために with actions you choose.",
+      "tamil_parallel": "வீடு வாங்குவதற்காகச் சேமிக்கிறேன் = 家を買うために貯金しています; குடும்பத்துக்காக உழைக்கிறேன் = 家族のために働きます",
+      "tamil_parallel_en": "I save in order to buy a house (வீடு வாங்குவதற்காகச் சேமிக்கிறேன்) = 家を買うために貯金しています. I work for my family (குடும்பத்துக்காக உழைக்கிறேன்) = 家族のために働きます.",
+      "formation": "நோக்கம்: V-அகராதி வடிவம் + ために、〜\n   買う → 買う ために\n   勉強する → 勉強する ために\nநன்மை: N + の + ために、〜\n   家族 → 家族の ために",
+      "formation_en": "Purpose: V-dictionary form + ために、〜\n   買う → 買う ために\n   勉強する → 勉強する ために\nBenefit: N + の + ために、〜\n   家族 → 家族の ために",
+      "examples": [
+        { "ja": "家を買うために、毎月貯金しています。", "reading": "いえを かう ために、まいつき ちょきんして います。", "romaji": "ie o kau tame ni, maitsuki chokin shite imasu.", "ta": "வீடு வாங்குவதற்காக மாதந்தோறும் சேமிக்கிறேன்.", "en": "I save every month to buy a house." },
+        { "ja": "日本の技術を勉強するために、日本へ来ました。", "reading": "にほんの ぎじゅつを べんきょうする ために、にほんへ きました。", "romaji": "nihon no gijutsu o benkyou suru tame ni, nihon e kimashita.", "ta": "ஜப்பானிய தொழில்நுட்பத்தைக் கற்பதற்காக ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan to study Japanese technology." },
+        { "ja": "健康のために、毎朝三十分歩いています。", "reading": "けんこうの ために、まいあさ さんじゅっぷん あるいて います。", "romaji": "kenkou no tame ni, maiasa sanjuppun aruite imasu.", "ta": "உடல்நலத்துக்காக தினமும் காலையில் முப்பது நிமிடம் நடக்கிறேன்.", "en": "For my health, I walk thirty minutes every morning." },
+        { "ja": "家族のために、一生懸命働きます。", "reading": "かぞくの ために、いっしょうけんめい はたらきます。", "romaji": "kazoku no tame ni, isshoukenmei hatarakimasu.", "ta": "குடும்பத்துக்காகக் கடினமாக உழைக்கிறேன்.", "en": "I work hard for my family." },
+        { "ja": "留学するために、アルバイトでお金をためています。", "reading": "りゅうがくする ために、アルバイトで おかねを ためて います。", "romaji": "ryuugaku suru tame ni, arubaito de okane o tamete imasu.", "ta": "வெளிநாட்டில் படிப்பதற்காகப் பகுதிநேர வேலை செய்து பணம் சேர்க்கிறேன்.", "en": "I’m saving money from my part-time job to study abroad." },
+        { "ja": "何のために日本語を勉強していますか。", "reading": "なんの ために にほんごを べんきょうして いますか。", "romaji": "nan no tame ni nihongo o benkyou shite imasu ka.", "ta": "எதற்காக ஜப்பானிய மொழி படிக்கிறீர்கள்?", "en": "Why are you studying Japanese?" }
+      ],
+      "pitfalls_ta": "日本語が話せるために என்பது தவறு; 'முடியும்' போன்ற வினைகளுடன் ように: 日本語が話せるように. மேலும் பெயர்ச்சொல்லுக்குப் பின் の மறக்காதீர்கள்: 家族ために அல்ல, 家族のために.",
+      "pitfalls_en": "日本語が話せるために is wrong. With \"can\" verbs, use ように: 日本語が話せるように. After a noun, don’t forget の: not 家族ために, but 家族のために."
+    },
+    {
+      "id": "g17-2",
+      "pattern": "V-dict の に / N に 使います・必要です・いいです",
+      "name": { "en": "Used for / needed for / good for …", "ta": "~ செய்யப் பயன்படும் / தேவை / நல்லது" },
+      "explanation_ta": "ஒரு பொருள் எதற்குப் பயன்படுகிறது, ஒரு செயலுக்கு என்ன தேவை, ஒன்று எதற்கு நல்லது என்று சொல்ல: V-அகராதி வடிவம் + のに + 使います / 必要です / いいです / 便利です / 役に立ちます. பெயர்ச்சொல் என்றால் நேரடியாக N + に. தமிழில் 'காய்கறி வெட்டுவதற்கு (வெட்ட) இந்தக் கத்தி பயன்படும்' என்பதில் உள்ள '-வதற்கு' இதற்கு இணை. ために-உடன் வேறுபாடு: ために-க்குப் பின் 'செய்கிறேன்' போன்ற செயல் வரும்; のに-க்குப் பின் 使う, 必要, いい, 便利, かかる போன்ற மதிப்பீட்டுச் சொற்கள் வரும். இந்த のに, 'இருந்தும்' என்ற பொருள் தரும் のに (பாடம் 20) அல்ல; பின்வரும் சொல்லைப் பார்த்து வேறுபடுத்துங்கள்.",
+      "explanation_en": "Use this to say what a thing is used for, needed for or good for. Form: V-dictionary form + のに + 使います / 必要です / いいです / 便利です / 役に立ちます. With a noun, just use N + に. Tamil \"-வதற்கு\" (for doing) is the same idea. How is it different from ために? After ために comes an action, like \"I do …\". After のに comes a word like 使う, 必要, いい, 便利 or かかる. This のに is not the \"even though\" のに from Lesson 20. Look at the word that comes after it.",
+      "tamil_parallel": "பூக்களை வெட்டுவதற்கு இந்தக் கத்தரிக்கோல் பயன்படும் = このはさみは花を切るのに使います",
+      "tamil_parallel_en": "These scissors are used for cutting flowers (பூக்களை வெட்டுவதற்கு இந்தக் கத்தரிக்கோல் பயன்படும்) = このはさみは花を切るのに使います.",
+      "formation": "V-அகராதி வடிவம் + のに + 使います / 必要です / いいです / 便利です / かかります\nN + に + 使います / 必要です / いいです / 役に立ちます\n   切る → 切るのに 使います\n   引っ越し → 引っ越しに 使います",
+      "formation_en": "V-dictionary form + のに + 使います / 必要です / いいです / 便利です / かかります\nN + に + 使います / 必要です / いいです / 役に立ちます\n   切る → 切るのに 使います\n   引っ越し → 引っ越しに 使います",
+      "examples": [
+        { "ja": "このはさみは花を切るのに使います。", "reading": "この はさみは はなを きるのに つかいます。", "romaji": "kono hasami wa hana o kiru no ni tsukaimasu.", "ta": "இந்தக் கத்தரிக்கோல் பூக்களை வெட்டப் பயன்படும்.", "en": "These scissors are used for cutting flowers." },
+        { "ja": "東京で家を買うのに、大体五千万円必要です。", "reading": "とうきょうで いえを かうのに、だいたい ごせんまんえん ひつようです。", "romaji": "toukyou de ie o kau no ni, daitai gosenman'en hitsuyou desu.", "ta": "டோக்கியோவில் வீடு வாங்க சுமார் ஐந்து கோடி யென் தேவை.", "en": "To buy a house in Tokyo, you need about fifty million yen." },
+        { "ja": "この辞書は漢字を調べるのにいいです。", "reading": "この じしょは かんじを しらべるのに いいです。", "romaji": "kono jisho wa kanji o shiraberu no ni ii desu.", "ta": "இந்த அகராதி கான்ஜி தேடிப் பார்க்க நல்லது.", "en": "This dictionary is good for looking up kanji." },
+        { "ja": "この鍋はカレーを作るのに便利です。", "reading": "この なべは カレーを つくるのに べんりです。", "romaji": "kono nabe wa karee o tsukuru no ni benri desu.", "ta": "இந்தப் பாத்திரம் கறி சமைக்க வசதியானது.", "en": "This pot is handy for making curry." },
+        { "ja": "アルバイトの経験は、日本語の勉強に役に立ちます。", "reading": "アルバイトの けいけんは、にほんごの べんきょうに やくに たちます。", "romaji": "arubaito no keiken wa, nihongo no benkyou ni yaku ni tachimasu.", "ta": "பகுதிநேர வேலை அனுபவம் ஜப்பானிய மொழிப் படிப்புக்குப் பயனுள்ளது.", "en": "Part-time work experience is useful for studying Japanese." },
+        { "ja": "ビザを取るのに、何が必要ですか。", "reading": "ビザを とるのに、なにが ひつようですか。", "romaji": "biza o toru no ni, nani ga hitsuyou desu ka.", "ta": "விசா பெற என்ன தேவை?", "en": "What do you need to get a visa?" },
+        { "ja": "この箱は引っ越しに使います。", "reading": "この はこは ひっこしに つかいます。", "romaji": "kono hako wa hikkoshi ni tsukaimasu.", "ta": "இந்தப் பெட்டிகள் வீடு மாற்றுவதற்குப் பயன்படும்.", "en": "These boxes are for moving house." }
+      ],
+      "pitfalls_ta": "のに-க்கு முன் அகராதி வடிவம் மட்டும்: 切りますのに அல்ல, 切るのに. பெயர்ச்சொல்லுக்குப் பின் のに அல்ல, に மட்டும்: 引っ越しのに → 引っ越しに.",
+      "pitfalls_en": "Before のに, use the dictionary form: not 切りますのに, but 切るのに. After a noun, use only に: not 引っ越しのに, but 引っ越しに."
+    },
+    {
+      "id": "g17-3",
+      "pattern": "V-dict / V-ない ことに します",
+      "name": { "en": "Decide to (not) … (my own decision)", "ta": "~ செய்ய (செய்யாமல் இருக்க) முடிவு செய்தல்" },
+      "explanation_ta": "V-அகராதி வடிவம் / V-ない வடிவம் + ことにします = 'செய்வது / செய்யாமல் இருப்பது என்று முடிவு செய்கிறேன்'. இது பேசுபவர் தானே எடுக்கும் முடிவு. இப்போதே முடிவு செய்வதை ことにします என்றும், ஏற்கனவே முடிவு செய்துவிட்டதை ことにしました என்றும் சொல்வோம். தமிழில் 'அடுத்த ஆண்டு ஜப்பான் போவது என்று முடிவு செய்தேன்' என்பதில் உள்ள 'என்று முடிவு செய்தேன்' இதற்குச் சரியான இணை. பாடம் 6-இல் கற்ற 〜ようと思っています ('நினைக்கிறேன், திட்டம்') விட இது உறுதியானது.",
+      "explanation_en": "V-dictionary form or V-ない form + ことにします = \"I decide to do / not to do\". It is your own decision. Deciding now → ことにします. Already decided → ことにしました. Tamil \"… என்று முடிவு செய்தேன்\" (I decided that …) is the same. It is stronger than 〜ようと思っています from Lesson 6. That one is only a plan or idea.",
+      "tamil_parallel": "அடுத்த ஆண்டிலிருந்து தொழிற்சாலையில் வேலை செய்வது என்று முடிவு செய்தேன் = 来年から工場で働くことにしました",
+      "tamil_parallel_en": "I decided to work at a factory from next year (… வேலை செய்வது என்று முடிவு செய்தேன்) = 来年から工場で働くことにしました.",
+      "formation": "V-அகராதி வடிவம் + ことに します / しました\nV-ない + ことに します / しました\n   働く → 働く ことに しました\n   行かない → 行かない ことに しました",
+      "formation_en": "V-dictionary form + ことに します / しました\nV-ない + ことに します / しました\n   働く → 働く ことに しました\n   行かない → 行かない ことに しました",
+      "examples": [
+        { "ja": "来年から工場で働くことにしました。", "reading": "らいねんから こうじょうで はたらく ことに しました。", "romaji": "rainen kara koujou de hataraku koto ni shimashita.", "ta": "அடுத்த ஆண்டிலிருந்து தொழிற்சாலையில் வேலை செய்வது என்று முடிவு செய்தேன்.", "en": "I’ve decided to work at a factory from next year." },
+        { "ja": "お金が足りないので、今年は国へ帰らないことにしました。", "reading": "おかねが たりないので、ことしは くにへ かえらない ことに しました。", "romaji": "okane ga tarinai node, kotoshi wa kuni e kaeranai koto ni shimashita.", "ta": "பணம் போதாததால், இந்த ஆண்டு ஊருக்குப் போவதில்லை என்று முடிவு செய்தேன்.", "en": "I don’t have enough money, so I’ve decided not to go home this year." },
+        { "ja": "今日から毎晩、日本語で日記を書くことにします。", "reading": "きょうから まいばん、にほんごで にっきを かく ことに します。", "romaji": "kyou kara maiban, nihongo de nikki o kaku koto ni shimasu.", "ta": "இன்றிலிருந்து தினமும் இரவு ஜப்பானிய மொழியில் நாட்குறிப்பு எழுதுவது என்று முடிவு செய்கிறேன்.", "en": "From today, I’ll write a diary in Japanese every night." },
+        { "ja": "夏休みはどうすることにしましたか。", "reading": "なつやすみは どう する ことに しましたか。", "romaji": "natsuyasumi wa dou suru koto ni shimashita ka.", "ta": "கோடை விடுமுறையில் என்ன செய்வது என்று முடிவு செய்தீர்கள்?", "en": "What have you decided to do in the summer holidays?" },
+        { "ja": "兄に相談して、大学をやめないことにしました。", "reading": "あにに そうだんして、だいがくを やめない ことに しました。", "romaji": "ani ni soudan shite, daigaku o yamenai koto ni shimashita.", "ta": "அண்ணனிடம் ஆலோசனை கேட்டு, கல்லூரியை விடுவதில்லை என்று முடிவு செய்தேன்.", "en": "I talked to my brother and decided not to quit university." }
+      ],
+      "pitfalls_ta": "ことに-க்கு முன் ます-வடிவம் வராது: 働きますことに → 働くことに. 'நானே முடிவு செய்தேன்' என்றால் します; 'மற்றவர் முடிவு' என்றால் なります (g17-5).",
+      "pitfalls_en": "Don’t use the ます-form before ことに: not 働きますことに, but 働くことに. Your own decision → します. Someone else’s decision → なります (see g17-5)."
+    },
+    {
+      "id": "g17-4",
+      "pattern": "V-dict / V-ない ことに しています",
+      "name": { "en": "Have made it a rule to …", "ta": "~ செய்வதை வழக்கமாக வைத்திருத்தல்" },
+      "explanation_ta": "ことにします ('முடிவு செய்கிறேன்') என்பதை 〜ています வடிவத்தில் சொன்னால் 'அந்த முடிவை இன்றும் தொடர்ந்து கடைப்பிடிக்கிறேன்' = 'என் தனிப்பட்ட விதி / பழக்கம்' என்று பொருள். 毎朝歩くことにしています = தினமும் காலையில் நடப்பதை வழக்கமாக வைத்திருக்கிறேன். வெறும் 毎朝歩きます என்பதைவிட, 'நானே முயன்று கடைப்பிடிக்கும் பழக்கம்' என்ற உணர்வு அதிகம். தமிழில் 'நான் … செய்வதை வழக்கமாக வைத்திருக்கிறேன்' / '… செய்வதில்லை என்று ஒரு கொள்கை வைத்திருக்கிறேன்' என்பது இணை. பாடம் 11-இல் கற்ற 〜ようにしています ('முயல்கிறேன்') விட இது உறுதியானது.",
+      "explanation_en": "Put ことにします in the 〜ています form. It means \"I decided, and I still keep it\". So it is your personal rule or habit. 毎朝歩くことにしています = I make a point of walking every morning. Plain 毎朝歩きます only says what you do. ことにしています shows you keep this habit on purpose. In Tamil: \"… செய்வதை வழக்கமாக வைத்திருக்கிறேன்\" (I keep it as my habit). It is firmer than 〜ようにしています (\"I try to\") from Lesson 11.",
+      "tamil_parallel": "இரவு பத்து மணிக்குப் பிறகு போன் பார்ப்பதில்லை என்பதை வழக்கமாக வைத்திருக்கிறேன் = 夜十時からはスマホを見ないことにしています",
+      "tamil_parallel_en": "I make it a rule not to look at my phone after 10 p.m. (… பார்ப்பதில்லை என்பதை வழக்கமாக வைத்திருக்கிறேன்) = 夜十時からはスマホを見ないことにしています.",
+      "formation": "V-அகராதி வடிவம் + ことに して います\nV-ない + ことに して います\n   歩く → 歩く ことに して います\n   食べない → 食べない ことに して います",
+      "formation_en": "V-dictionary form + ことに して います\nV-ない + ことに して います\n   歩く → 歩く ことに して います\n   食べない → 食べない ことに して います",
+      "examples": [
+        { "ja": "毎朝三十分歩くことにしています。", "reading": "まいあさ さんじゅっぷん あるく ことに して います。", "romaji": "maiasa sanjuppun aruku koto ni shite imasu.", "ta": "தினமும் காலையில் முப்பது நிமிடம் நடப்பதை வழக்கமாக வைத்திருக்கிறேன்.", "en": "I make a point of walking thirty minutes every morning." },
+        { "ja": "夜十時からはスマホを見ないことにしています。", "reading": "よる じゅうじからは スマホを みない ことに して います。", "romaji": "yoru juuji kara wa sumaho o minai koto ni shite imasu.", "ta": "இரவு பத்து மணிக்குப் பிறகு ஸ்மார்ட்போன் பார்ப்பதில்லை என்று வழக்கம் வைத்திருக்கிறேன்.", "en": "I make it a rule not to look at my phone after 10 p.m." },
+        { "ja": "毎月三万円貯金することにしています。", "reading": "まいつき さんまんえん ちょきんする ことに して います。", "romaji": "maitsuki sanman'en chokin suru koto ni shite imasu.", "ta": "மாதந்தோறும் முப்பதாயிரம் யென் சேமிப்பதை வழக்கமாக வைத்திருக்கிறேன்.", "en": "I make a point of saving thirty thousand yen every month." },
+        { "ja": "健康のために、甘いものはあまり食べないことにしています。", "reading": "けんこうの ために、あまい ものは あまり たべない ことに して います。", "romaji": "kenkou no tame ni, amai mono wa amari tabenai koto ni shite imasu.", "ta": "உடல்நலத்துக்காக, இனிப்புகளை அதிகம் சாப்பிடுவதில்லை என்று வழக்கம் வைத்திருக்கிறேன்.", "en": "For my health, I try not to eat many sweets." },
+        { "ja": "日曜日はアルバイトをしないことにしています。", "reading": "にちようびは アルバイトを しない ことに して います。", "romaji": "nichiyoubi wa arubaito o shinai koto ni shite imasu.", "ta": "ஞாயிற்றுக்கிழமைகளில் பகுதிநேர வேலை செய்வதில்லை என்று கொள்கை வைத்திருக்கிறேன்.", "en": "I make it a rule not to do part-time work on Sundays." }
+      ],
+      "pitfalls_ta": "ことにしています 'என் சொந்தப் பழக்கம்'; பள்ளி, நிறுவன விதிகளுக்கு ことになっています (g17-5).",
+      "pitfalls_en": "ことにしています is your own habit. For rules made by a school or a company, use ことになっています (see g17-5)."
+    },
+    {
+      "id": "g17-5",
+      "pattern": "V-dict / V-ない ことに なります / なっています",
+      "name": { "en": "It has been decided that … / it is the rule that …", "ta": "~ என்று முடிவாகியுள்ளது / ~ என்பது விதி" },
+      "explanation_ta": "ことにします 'நான் முடிவு செய்தேன்'; ことになります 'முடிவாகிவிட்டது' (நிறுவனம், குழு, சூழ்நிலை முடிவு செய்தது). 大阪の工場で働くことになりました = ஒசாகா தொழிற்சாலையில் வேலை செய்யும்படி முடிவாகிவிட்டது (பெரும்பாலும் நிறுவனம் முடிவு செய்தது). சில நேரம் தான் முடிவு செய்ததையும் அடக்கமாக இப்படிச் சொல்வார்கள். ことになっています = 'அதுதான் விதி / நடைமுறை' (பள்ளி, அலுவலகம், விடுதி விதிகள்). தமிழில் 'ஒசாகாவுக்கு மாற்றல் ஆகிவிட்டது', 'இங்கே புகைபிடிக்கக் கூடாது என்பது விதி' என்பதற்கு இணை. します / なります வேறுபாடு இந்தப் பாடத்தின் 決める (நான் முடிவு செய்வது) / 決まる (முடிவாவது) என்ற சொற்களைப் போன்றது.",
+      "explanation_en": "ことにします = \"I decided\". ことになります = \"it has been decided\". A company, a group or the situation decided it. 大阪の工場で働くことになりました = It was decided that I’ll work at the Osaka factory. People also use it to sound modest about their own decisions. ことになっています = \"that is the rule\" at a school, office or dorm. It works like 決める (I decide) and 決まる (it gets decided).",
+      "tamil_parallel": "அடுத்த மாதத்திலிருந்து ஒசாகாவில் வேலை செய்யும்படி ஆகிவிட்டது = 来月から大阪で働くことになりました; இங்கே புகைபிடிக்கக் கூடாது என்பது விதி = ここではたばこを吸わないことになっています",
+      "tamil_parallel_en": "It has been decided that I’ll work in Osaka from next month (ஒசாகாவில் வேலை செய்யும்படி ஆகிவிட்டது) = 来月から大阪で働くことになりました.",
+      "formation": "V-அகராதி வடிவம் / V-ない + ことに なります / なりました (முடிவு)\nV-அகராதி வடிவம் / V-ない + ことに なって います (விதி)\n   働く → 働く ことに なりました\n   吸わない → 吸わない ことに なって います",
+      "formation_en": "V-dictionary form / V-ない + ことに なります / なりました (a decision)\nV-dictionary form / V-ない + ことに なって います (a rule)\n   働く → 働く ことに なりました\n   吸わない → 吸わない ことに なって います",
+      "examples": [
+        { "ja": "来月から大阪の工場で働くことになりました。", "reading": "らいげつから おおさかの こうじょうで はたらく ことに なりました。", "romaji": "raigetsu kara oosaka no koujou de hataraku koto ni narimashita.", "ta": "அடுத்த மாதத்திலிருந்து ஒசாகா தொழிற்சாலையில் வேலை செய்யும்படி ஆகிவிட்டது.", "en": "It’s been decided that I’ll work at the Osaka factory from next month." },
+        { "ja": "会議は金曜日に開くことになりました。", "reading": "かいぎは きんようびに ひらく ことに なりました。", "romaji": "kaigi wa kin'youbi ni hiraku koto ni narimashita.", "ta": "கூட்டம் வெள்ளிக்கிழமை நடத்தப்படும் என்று முடிவாகிவிட்டது.", "en": "It’s been decided to hold the meeting on Friday." },
+        { "ja": "この会社では、毎朝八時半に会議をすることになっています。", "reading": "この かいしゃでは、まいあさ はちじはんに かいぎを する ことに なって います。", "romaji": "kono kaisha de wa, maiasa hachiji han ni kaigi o suru koto ni natte imasu.", "ta": "இந்த நிறுவனத்தில் தினமும் காலை எட்டரை மணிக்குக் கூட்டம் நடத்துவது வழக்கமான விதி.", "en": "At this company, there is a meeting every morning at 8:30." },
+        { "ja": "寮では、夜十一時までに帰ることになっています。", "reading": "りょうでは、よる じゅういちじまでに かえる ことに なって います。", "romaji": "ryou de wa, yoru juuichiji made ni kaeru koto ni natte imasu.", "ta": "விடுதியில் இரவு பதினொரு மணிக்குள் திரும்ப வேண்டும் என்பது விதி.", "en": "In the dorm, the rule is to be back by 11 p.m." },
+        { "ja": "ここでは、たばこを吸わないことになっています。", "reading": "ここでは、たばこを すわない ことに なって います。", "romaji": "koko de wa, tabako o suwanai koto ni natte imasu.", "ta": "இங்கே புகைபிடிக்கக் கூடாது என்பது விதி.", "en": "Smoking is not allowed here." },
+        { "ja": "結婚式はいつすることになりましたか。", "reading": "けっこんしきは いつ する ことに なりましたか。", "romaji": "kekkonshiki wa itsu suru koto ni narimashita ka.", "ta": "திருமண விழா எப்போது நடத்துவது என்று முடிவாகியுள்ளது?", "en": "When has the wedding been set for?" }
+      ],
+      "pitfalls_ta": "நிறுவன / பள்ளி விதியைச் சொல்ல ことにしています பயன்படுத்தாதீர்கள்; அது தனிப்பட்ட பழக்கம். விதி = ことになっています.",
+      "pitfalls_en": "Don’t use ことにしています for company or school rules. That is a personal habit. A rule = ことになっています."
+    }
+  ],
+  "vocab_ids": ["n4-v-046", "n4-v-082", "n4-v-105", "n4-v-117", "n4-v-131", "n4-v-167", "n4-v-180", "n4-v-293", "n4-v-409", "n4-v-421", "n4-v-426", "n4-v-434", "n4-v-572", "n4-v-576", "n4-v-583", "n4-v-597", "n4-v-609", "n4-v-629"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L17-q01", "type": "kanji_reading",
+        "sentence": "兄は 車の ＿工場＿で 働いて います。", "target": "工場",
+        "options": ["こうじょう", "こうしょう", "くじょう", "こうちょう"], "answer": 0,
+        "explanation_ta": "工場 = こうじょう (தொழிற்சாலை). 場 இங்கே じょう (濁音). こうちょう என்பது 校長 (பள்ளித் தலைமையாசிரியர்).",
+        "explanation_en": "工場 = こうじょう (தொழிற்சாலை, factory). Here 場 is read じょう, with the two dots. こうちょう is 校長 (head teacher)."
+      },
+      {
+        "id": "L17-q02", "type": "kanji_reading",
+        "sentence": "旅行には パスポートが ＿必要＿です。", "target": "必要",
+        "options": ["ひつよ", "ひつよう", "ひっよう", "ひちよう"], "answer": 1,
+        "explanation_ta": "必要 = ひつよう (தேவை). 要 = よう (நீண்ட ஒலி). ひつよ என்பதில் நீட்டல் விடுபட்டுள்ளது.",
+        "explanation_en": "必要 = ひつよう (தேவை, necessary). 要 is よう, a long sound. ひつよ is missing the long sound."
+      },
+      {
+        "id": "L17-q03", "type": "kanji_reading",
+        "sentence": "日本で 働いた ＿経験＿が ありますか。", "target": "経験",
+        "options": ["きょうけん", "けいげん", "けいけん", "けけん"], "answer": 2,
+        "explanation_ta": "経験 = けいけん (அனுபவம்). இரண்டு இடங்களிலும் け (濁点 இல்லை). けいげん என்பது 軽減 என்ற வேறு சொல்.",
+        "explanation_en": "経験 = けいけん (அனுபவம், experience). Both are け, with no dots. けいげん is a different word (軽減, reduction)."
+      },
+      {
+        "id": "L17-q04", "type": "orthography",
+        "sentence": "日本の 新しい ＿ぎじゅつ＿を 勉強したいです。", "target": "ぎじゅつ",
+        "options": ["枝術", "技述", "伎術", "技術"], "answer": 3,
+        "explanation_ta": "ぎじゅつ (தொழில்நுட்பம்) = 技術. 枝 (கிளை) தோற்றத்தில் ஒத்தது; 述 (சொல்லுதல்) ஒலியில் ஒத்தது.",
+        "explanation_en": "ぎじゅつ (தொழில்நுட்பம், technology) = 技術. 枝 (branch) looks similar. 述 (to state) sounds similar."
+      },
+      {
+        "id": "L17-q05", "type": "orthography",
+        "sentence": "仕事の ことを 先生に ＿そうだん＿しました。", "target": "そうだん",
+        "options": ["想談", "相談", "送談", "相淡"], "answer": 1,
+        "explanation_ta": "そうだん (ஆலோசனை) = 相談. 想 (நினைத்தல்), 送 (அனுப்புதல்) ஒலியில் ஒத்தவை; 淡 'வெளிர்' என்ற பொருள்.",
+        "explanation_en": "そうだん (ஆலோசனை, consultation) = 相談. 想 (think) and 送 (send) sound the same. 淡 means pale."
+      },
+      {
+        "id": "L17-q06", "type": "vocab_context",
+        "sentence": "お金が（　　）ので、新しい パソコンが 買えません。",
+        "options": ["きまらない", "きめない", "たりない", "やくにたたない"], "answer": 2,
+        "explanation_ta": "பணம் போதவில்லை = お金が足りない. 決まらない (முடிவாகவில்லை) பணத்துக்குப் பொருந்தாது.",
+        "explanation_en": "Not enough money = お金が足りない. 決まらない (not decided) doesn’t fit money."
+      },
+      {
+        "id": "L17-q07", "type": "vocab_context",
+        "sentence": "この 辞書は 漢字の 勉強に とても（　　）。",
+        "options": ["決まります", "足ります", "相談します", "役に立ちます"], "answer": 3,
+        "explanation_ta": "N に 役に立つ = ~-க்குப் பயனுள்ளது. 足ります (போதுமானது) 'படிப்புக்கு' என்பதுடன் இயல்பாக வராது.",
+        "explanation_en": "N に 役に立つ = useful for N. 足ります (is enough) doesn’t go naturally with \"for studying\"."
+      },
+      {
+        "id": "L17-q08", "type": "vocab_context",
+        "sentence": "今日は 母が 病気なので、母の（　　）に 私が 料理を 作りました。",
+        "options": ["技術", "代わり", "自由", "経験"], "answer": 1,
+        "explanation_ta": "N の代わりに = ~-க்குப் பதிலாக. அம்மா சமைக்க முடியாததால் நான் அவருக்குப் பதிலாகச் சமைத்தேன்.",
+        "explanation_en": "N の代わりに = instead of N. My mother couldn’t cook, so I cooked instead of her."
+      },
+      {
+        "id": "L17-q09", "type": "vocab_context",
+        "sentence": "給料は（　　） 国の 家族に 送って います。",
+        "options": ["ほとんど", "ぜひ", "まだ", "もし"], "answer": 0,
+        "explanation_ta": "ほとんど = பெரும்பகுதி. ぜひ வேண்டுகோள், விருப்பத்துடன் வரும்; もし 'ஒருவேளை என்றால்' நிபந்தனைக்கு.",
+        "explanation_en": "ほとんど = almost all. ぜひ goes with requests and wishes. もし is for \"if\"."
+      },
+      {
+        "id": "L17-q10", "type": "vocab_context",
+        "sentence": "旅行の 日が やっと（　　）。",
+        "options": ["決めました", "足りました", "決まりました", "役に立ちました"], "answer": 2,
+        "explanation_ta": "日が (が = எழுவாய்) → தன்வினை 決まる: 'தேதி முடிவானது'. 決める பிறவினை; அதற்கு 日を வேண்டும்.",
+        "explanation_en": "日が takes が, so use the verb 決まる: \"the date got decided\". 決める means \"to decide\" and needs 日を."
+      },
+      {
+        "id": "L17-q11", "type": "paraphrase",
+        "sentence": "あの 人は お金持ちです。",
+        "options": ["あの 人は お金が たくさん あります。", "あの 人は お金が ありません。", "あの 人は お金を 貸して います。", "あの 人は お金を 使いません。"], "answer": 0,
+        "explanation_ta": "お金持ち = பணக்காரர் = நிறையப் பணம் உள்ளவர். மற்றவை 'பணம் இல்லை', 'கடன் கொடுக்கிறார்', 'செலவு செய்வதில்லை'.",
+        "explanation_en": "お金持ち = a rich person = someone with a lot of money. The others mean \"has no money\", \"lends money\" and \"doesn’t spend\"."
+      },
+      {
+        "id": "L17-q12", "type": "paraphrase",
+        "sentence": "来月から 大阪で 働く ことに なりました。",
+        "options": ["来月から 大阪で 働きたいです。", "来月から 大阪で 働く ことが 決まりました。", "来月から 大阪で 働いて みます。", "来月から 大阪で 働く つもりは ありません。"], "answer": 1,
+        "explanation_ta": "ことになりました = 'முடிவாகிவிட்டது' = ことが決まりました. 働きたい வெறும் விருப்பம்; முடிவு அல்ல.",
+        "explanation_en": "ことになりました = \"it has been decided\" = ことが決まりました. 働きたい is only a wish, not a decision."
+      },
+      {
+        "id": "L17-q13", "type": "usage",
+        "sentence": "足りる",
+        "options": ["駅まで 足りて 行きました。", "この ケーキは とても 足ります。", "毎朝 六時に 足ります。", "時間が 足りなくて、テストを 全部 書けませんでした。"], "answer": 3,
+        "explanation_ta": "足りる = போதுமானதாக இருப்பது: 時間 / お金 が 足りる. மற்ற வாக்கியங்களில் 'நடந்து', 'சுவையானது', 'எழுவது' போன்ற தவறான பொருளில் வருகிறது.",
+        "explanation_en": "足りる = to be enough: 時間 or お金 が 足りる. The other sentences use it like \"walk\", \"tasty\" or \"get up\"."
+      },
+      {
+        "id": "L17-q14", "type": "usage",
+        "sentence": "役に立つ",
+        "options": ["雨が 役に立って、とても 寒いです。", "友達と 公園で 役に立ちました。", "工場で 習った 技術が 今の 仕事に 役に立って います。", "毎晩 十時に 役に立ちます。"], "answer": 2,
+        "explanation_ta": "役に立つ = பயனுள்ளதாக இருப்பது: A が B に 役に立つ. கற்ற தொழில்நுட்பம் இப்போதைய வேலைக்குப் பயன்படுகிறது என்பது சரியான பயன்பாடு.",
+        "explanation_en": "役に立つ = to be useful: A が B に 役に立つ. The skill I learned is useful in my job now. That is the right use."
+      },
+      {
+        "id": "L17-q15", "type": "grammar_form",
+        "sentence": "家を 買う（　　）、毎月 貯金して います。",
+        "options": ["ために", "のに", "ことに", "までに"], "answer": 0,
+        "explanation_ta": "நோக்கம் + செயல் (貯金しています) → ために. のに-க்குப் பின் 使う / 必要 போன்ற சொல் வர வேண்டும்.",
+        "explanation_en": "A purpose followed by an action (貯金しています) → ために. のに needs a word like 使う or 必要 after it."
+      },
+      {
+        "id": "L17-q16", "type": "grammar_form",
+        "sentence": "この はさみは 花を 切る（　　） 使います。",
+        "options": ["のを", "のに", "のが", "のは"], "answer": 1,
+        "explanation_ta": "'~ செய்யப் பயன்படும்' = V-அகராதி + のに + 使います. のを / のが / のは இங்கே பொருள் தராது.",
+        "explanation_en": "\"Used for doing\" = V-dictionary form + のに + 使います. のを, のが and のは make no sense here."
+      },
+      {
+        "id": "L17-q17", "type": "grammar_form",
+        "sentence": "健康の（　　）、毎朝 歩いて います。",
+        "options": ["までに", "のに", "ことに", "ために"], "answer": 3,
+        "explanation_ta": "N の ために = ~-இன் நன்மைக்காக. 健康の-க்குப் பின் のに / ことに வராது.",
+        "explanation_en": "N の ために = for the sake of N. のに and ことに can’t follow 健康の."
+      },
+      {
+        "id": "L17-q18", "type": "grammar_form",
+        "sentence": "お金が ないので、今年は 旅行に 行かない（　　）。",
+        "options": ["ことに しました", "ことが できました", "ために しました", "のに しました"], "answer": 0,
+        "explanation_ta": "V-ない + ことにしました = 'செய்வதில்லை என்று முடிவு செய்தேன்'. ことができました 'முடிந்தது'; ない வடிவத்துடன் பொருந்தாது.",
+        "explanation_en": "V-ない + ことにしました = \"I decided not to\". ことができました means \"was able to\". It doesn’t fit with a ない-form."
+      },
+      {
+        "id": "L17-q19", "type": "grammar_form",
+        "sentence": "私は 毎晩 寝る 前に 日記を 書く（　　）。",
+        "options": ["ことに なりました", "ために います", "のに して います", "ことに して います"], "answer": 3,
+        "explanation_ta": "毎晩 = தினசரி பழக்கம், 私は = சொந்த முடிவு → ことにしています. ことになりました 'மற்றவர் முடிவு செய்தது' என்று பொருள்படும்.",
+        "explanation_en": "毎晩 shows a daily habit, and 私は shows your own choice → ことにしています. ことになりました means someone else decided."
+      },
+      {
+        "id": "L17-q20", "type": "grammar_form",
+        "sentence": "この 寮では、夜 十一時までに 帰る（　　）。",
+        "options": ["ことに します", "ために なって います", "ことに なって います", "のに なって います"], "answer": 2,
+        "explanation_ta": "விடுதி விதி = ことになっています. ことにします 'நான் முடிவு செய்கிறேன்'; விடுதி விதிக்குப் பொருந்தாது.",
+        "explanation_en": "A dorm rule = ことになっています. ことにします means \"I decide\". It doesn’t fit a dorm rule."
+      },
+      {
+        "id": "L17-q21", "type": "sentence_order",
+        "before": "日本の", "chunks": ["技術を", "勉強する", "ために", "日本へ"], "star": 2, "after": "来ました。",
+        "explanation_ta": "日本の 技術を 勉強する ために (கற்பதற்காக) 日本へ 来ました. ★ = ために.",
+        "explanation_en": "日本の 技術を 勉強する ために (in order to study) 日本へ 来ました. ★ = ために."
+      },
+      {
+        "id": "L17-q22", "type": "sentence_order",
+        "before": "この 辞書は", "chunks": ["漢字を", "調べる", "のに", "いいです"], "star": 1, "after": "。",
+        "explanation_ta": "この 辞書は 漢字を 調べる のに いいです (கான்ஜி தேட நல்லது). ★ = 調べる.",
+        "explanation_en": "この 辞書は 漢字を 調べる のに いいです (good for looking up kanji). ★ = 調べる."
+      },
+      {
+        "id": "L17-q23", "type": "sentence_order",
+        "before": "お金が 足りないので、", "chunks": ["今年は", "国へ", "帰らない", "ことに"], "star": 2, "after": "しました。",
+        "explanation_ta": "今年は 国へ 帰らない ことに しました (இந்த ஆண்டு ஊருக்குப் போவதில்லை என்று முடிவு செய்தேன்). ★ = 帰らない.",
+        "explanation_en": "今年は 国へ 帰らない ことに しました (I decided not to go home this year). ★ = 帰らない."
+      },
+      {
+        "id": "L17-q24", "type": "passage_cloze",
+        "passage": "私は 去年から 工場で 働いて います。来年 結婚するので、家を 買う［1］ 毎月 貯金して います。でも、この 町で 家を 買う［2］ 大体 三千万円 必要です。お金が 足りないので、週末も アルバイトを する［3］。",
+        "blanks": [
+          { "options": ["のに", "ために", "ことに", "までに"], "answer": 1 },
+          { "options": ["のを", "ことに", "のが", "のに"], "answer": 3 },
+          { "options": ["ことに しました", "ことを しました", "ことが しました", "ことで しました"], "answer": 0 }
+        ],
+        "explanation_ta": "［1］ நோக்கம் + செயல் (貯金しています) → ために. ［2］ 'வாங்க ~ தேவை' → 買うのに必要です. ［3］ சொந்த முடிவு → することにしました.",
+        "explanation_en": "[1] A purpose followed by an action (貯金しています) → ために. [2] \"needed to buy\" → 買うのに必要です. [3] My own decision → することにしました."
+      }
+    ]
+  }
+}

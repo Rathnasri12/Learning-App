@@ -1,0 +1,306 @@
+{
+  "lesson": 16,
+  "title": { "ja": "先生に本をいただきました", "ta": "ஆசிரியரிடமிருந்து புத்தகம் பெற்றேன்", "en": "I received a book from my teacher" },
+  "intro_ta": "இந்தப் பாடத்தில் பரிசு கொடுப்பது, பெறுவது பற்றி மரியாதையாகப் பேசக் கற்போம். ஆசிரியர், மேலாளர் போன்ற பெரியவர்களிடம் いただく, くださる, 差し上げる என்ற சொற்களையும், செடி, செல்லப்பிராணி, இளையவர்களுக்கு やる என்ற சொல்லையும் பயன்படுத்துவோம். 'பெரியவர் எனக்காக ஒன்று செய்தார்' என்பதை 〜ていただきました / 〜てくださいました என்றும், மிகப் பணிவான வேண்டுகோளை 〜てくださいませんか என்றும் சொல்வோம். புத்தாண்டு, திருமண விழா, ஒருவர் வீட்டுக்குச் செல்வது போன்ற சூழல்களில் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you learn to talk politely about giving and getting. With teachers and bosses, you use いただく, くださる and 差し上げる. With plants, pets and younger people, you use やる. You learn to say \"a superior did something for me\": 〜ていただきました and 〜てくださいました. You also learn a very polite request: 〜てくださいませんか. You practise at New Year, at weddings and when you visit someone’s home.",
+  "grammar": [
+    {
+      "id": "g16-1",
+      "pattern": "いただきます / くださいます / やります",
+      "name": { "en": "Polite and plain giving and getting", "ta": "மரியாதையாகவும் சாதாரணமாகவும் கொடுத்தல், பெறுதல்" },
+      "explanation_ta": "N5-இல் あげる (கொடுப்பது), もらう (பெறுவது), くれる (எனக்குக் கொடுப்பது) கற்றோம். கொடுப்பவர் நம்மைவிட உயர்ந்தவராக (ஆசிரியர், மேலாளர், வயதில் பெரியவர்) இருந்தால் ஜப்பானியர் மரியாதைச் சொற்களைப் பயன்படுத்துவார்கள். もらう → いただく (நான் பணிவுடன் பெற்றுக்கொள்கிறேன்); くれる → くださる (பெரியவர் எனக்குத் தருகிறார்). くださる-வின் ます-வடிவம் くださいます; くださります அல்ல. மாறாக, செடி, செல்லப்பிராணி, தம்பி தங்கை, சொந்தக் குழந்தைகள் ஆகியோருக்குக் கொடுக்கும்போது あげる-க்குப் பதிலாக やる என்ற சாதாரணச் சொல் வரும் (花に水をやる). தமிழில் 'தந்தார்' / 'தந்தருளினார்', 'பெற்றேன்' / 'பெற்றுக்கொண்டேன்' என்று மரியாதைக்கு ஏற்ப சொல் மாறுவது போலவே இது. இலக்கணம் மாறவில்லை: いただく-வில் கொடுப்பவர் に, くださる-வில் கொடுப்பவர் が.",
+      "explanation_en": "In N5 you learned あげる (give), もらう (get) and くれる (give to me). Use polite words when the giver is above you. That means a teacher, a boss or an older person. もらう becomes いただく: \"I humbly receive\". くれる becomes くださる: \"a superior gives to me\". Its ます-form is くださいます, not くださります. For plants, pets and your own children, use やる instead of あげる. For example: 花に水をやる (water the flowers). The sentence shape stays the same. With いただく, the giver takes に. With くださる, the giver takes が.",
+      "tamil_parallel": "ஆசிரியர் எனக்குப் புத்தகம் தந்தார் = 先生が本をくださいました; ஆசிரியரிடமிருந்து புத்தகம் பெற்றுக்கொண்டேன் = 先生に本をいただきました; பூச்செடிக்குத் தண்ணீர் ஊற்றுகிறேன் = 花に水をやります",
+      "tamil_parallel_en": "The teacher gave me a book (ஆசிரியர் எனக்குப் புத்தகம் தந்தார்) = 先生が本をくださいました. I received a book from the teacher (ஆசிரியரிடமிருந்து புத்தகம் பெற்றுக்கொண்டேன்) = 先生に本をいただきました.",
+      "formation": "もらう → いただく: 私は + பெரியவர் + に + N + を + いただきます\nくれる → くださる: பெரியவர் + が + (私に) + N + を + くださいます\nあげる → やる: செடி / விலங்கு / இளையவர் + に + N + を + やります",
+      "formation_en": "もらう → いただく: 私は + superior + に + N + を + いただきます\nくれる → くださる: superior + が + (私に) + N + を + くださいます\nあげる → やる: plant / animal / younger person + に + N + を + やります",
+      "examples": [
+        { "ja": "先生に日本の辞書をいただきました。", "reading": "せんせいに にほんの じしょを いただきました。", "romaji": "sensei ni nihon no jisho o itadakimashita.", "ta": "ஆசிரியரிடமிருந்து ஒரு ஜப்பானிய அகராதி பெற்றேன்.", "en": "I received a Japanese dictionary from my teacher." },
+        { "ja": "部長が私に結婚のお祝いをくださいました。", "reading": "ぶちょうが わたしに けっこんの おいわいを くださいました。", "romaji": "buchou ga watashi ni kekkon no oiwai o kudasaimashita.", "ta": "மேலாளர் எனக்குத் திருமண வாழ்த்துப் பரிசு தந்தார்.", "en": "My manager gave me a wedding gift." },
+        { "ja": "毎朝、庭の花に水をやります。", "reading": "まいあさ、にわの はなに みずを やります。", "romaji": "maiasa, niwa no hana ni mizu o yarimasu.", "ta": "தினமும் காலையில் தோட்டத்துப் பூச்செடிகளுக்குத் தண்ணீர் ஊற்றுகிறேன்.", "en": "Every morning I water the flowers in the garden." },
+        { "ja": "犬にもう餌をやりましたか。", "reading": "いぬに もう えさを やりましたか。", "romaji": "inu ni mou esa o yarimashita ka.", "ta": "நாய்க்கு ஏற்கனவே தீனி போட்டீர்களா?", "en": "Have you fed the dog yet?" },
+        { "ja": "正月に、社長からお菓子をいただきました。", "reading": "しょうがつに、しゃちょうから おかしを いただきました。", "romaji": "shougatsu ni, shachou kara okashi o itadakimashita.", "ta": "புத்தாண்டில் நிறுவனத் தலைவரிடமிருந்து இனிப்பு பெற்றேன்.", "en": "At New Year I received sweets from the company president." },
+        { "ja": "先生は卒業式に何をくださいましたか。", "reading": "せんせいは そつぎょうしきに なにを くださいましたか。", "romaji": "sensei wa sotsugyoushiki ni nani o kudasaimashita ka.", "ta": "பட்டமளிப்பு விழாவில் ஆசிரியர் என்ன தந்தார்?", "en": "What did the teacher give you at the graduation ceremony?" }
+      ],
+      "pitfalls_ta": "くださいました-இல் கொடுப்பவருக்கு が, いただきました-இல் கொடுப்பவருக்கு に; இரண்டையும் கலக்காதீர்கள். やる-வை நண்பர் அல்லது பெரியவருக்குப் பயன்படுத்தினால் முரட்டுத்தனமாகக் கேட்கும்.",
+      "pitfalls_en": "With くださいました, the giver takes が. With いただきました, the giver takes に. Don’t mix them up. Don’t use やる for friends or superiors. It sounds rude."
+    },
+    {
+      "id": "g16-2",
+      "pattern": "差し上げます",
+      "name": { "en": "Humble \"give\" (to a superior)", "ta": "பணிவுடன் கொடுத்தல் (பெரியவருக்கு)" },
+      "explanation_ta": "நான் (அல்லது நம் பக்கத்தவர்) ஒரு பெரியவருக்கு ஏதாவது கொடுக்கும்போது あげる-க்குப் பதிலாக 差し上げる பயன்படுத்துவோம். இது தன்னைத் தாழ்த்திப் பேசும் பணிவுச் சொல் (謙譲語). வாக்கிய அமைப்பு あげる போலவே: பெறுபவர் に, பொருள் を. தமிழில் 'கொடுத்தேன்' என்பதற்குப் பதில் 'சமர்ப்பித்தேன்' / 'அளித்தேன்' என்று பணிவாகச் சொல்வது போல. ஆனால் பெரியவரின் முகத்துக்கு நேரே '先生、これを差し上げます' என்று சொன்னால் 'நான் உங்களுக்கு ஒன்று தருகிறேன்' என்று பெருமை பேசுவது போலக் கேட்கலாம்; அப்போது 'これ、どうぞ' அல்லது 'つまらないものですが' என்று சொல்வது இயல்பு. 差し上げる பெரும்பாலும் நடந்ததை விவரிக்கும்போது வரும்.",
+      "explanation_en": "When you give something to a superior, use 差し上げる instead of あげる. It is a humble word. It lowers you to show respect. The sentence shape is the same as あげる: the receiver takes に, the thing takes を. It is like saying \"I presented\" (அளித்தேன்) instead of \"I gave\" (கொடுத்தேன்) in Tamil. But don’t say 差し上げます to the superior’s face. It can sound like you are showing off. When you hand it over, just say 「これ、どうぞ」. Use 差し上げる mostly when you tell others what happened.",
+      "tamil_parallel": "நான் ஆசிரியருக்குப் பூக்கள் அளித்தேன் = 私は先生に花を差し上げました",
+      "tamil_parallel_en": "I presented flowers to the teacher (நான் ஆசிரியருக்குப் பூக்கள் அளித்தேன்) = 私は先生に花を差し上げました.",
+      "formation": "私は + பெரியவர் + に + N + を + 差し上げます\n(あげます-இன் பணிவு வடிவம்; குழு II வினை: 差し上げて、差し上げた)",
+      "formation_en": "私は + superior + に + N + を + 差し上げます\n(the humble form of あげます; Group II verb: 差し上げて、差し上げた)",
+      "examples": [
+        { "ja": "卒業式の日に、先生に花を差し上げました。", "reading": "そつぎょうしきの ひに、せんせいに はなを さしあげました。", "romaji": "sotsugyoushiki no hi ni, sensei ni hana o sashiagemashita.", "ta": "பட்டமளிப்பு விழா நாளில் ஆசிரியருக்குப் பூக்கள் அளித்தேன்.", "en": "On graduation day I gave my teacher flowers." },
+        { "ja": "社長にインドのお茶を差し上げました。", "reading": "しゃちょうに インドの おちゃを さしあげました。", "romaji": "shachou ni indo no ocha o sashiagemashita.", "ta": "நிறுவனத் தலைவருக்கு இந்தியத் தேநீர் அளித்தேன்.", "en": "I gave the company president some Indian tea." },
+        { "ja": "先生のお嬢さんの結婚式に、何を差し上げましょうか。", "reading": "せんせいの おじょうさんの けっこんしきに、なにを さしあげましょうか。", "romaji": "sensei no ojousan no kekkonshiki ni, nani o sashiagemashou ka.", "ta": "ஆசிரியரின் மகளின் திருமணத்துக்கு என்ன அளிக்கலாம்?", "en": "What shall we give for our teacher’s daughter’s wedding?" },
+        { "ja": "部長のお宅を訪ねて、お礼の手紙を差し上げました。", "reading": "ぶちょうの おたくを たずねて、おれいの てがみを さしあげました。", "romaji": "buchou no otaku o tazunete, orei no tegami o sashiagemashita.", "ta": "மேலாளரின் வீட்டுக்குச் சென்று நன்றிக் கடிதம் அளித்தேன்.", "en": "I visited my manager’s home and gave him a thank-you letter." },
+        { "ja": "お客様には、このカレンダーを差し上げています。", "reading": "おきゃくさまには、この カレンダーを さしあげて います。", "romaji": "okyakusama ni wa, kono karendaa o sashiagete imasu.", "ta": "வாடிக்கையாளர்களுக்கு இந்த நாட்காட்டியை வழங்குகிறோம்.", "en": "We give this calendar to our customers." }
+      ],
+      "pitfalls_ta": "差し上げる-வை நான் கொடுப்பதற்கு மட்டும் பயன்படுத்துங்கள்; பெரியவர் எனக்குக் கொடுப்பதற்கு くださる. 'あなたに差し上げます' என்று நேரில் சொல்வது தவிர்க்கவும்.",
+      "pitfalls_en": "Use 差し上げる only when you (or your side) give. When a superior gives to you, use くださる. Avoid saying 差し上げます to the person’s face."
+    },
+    {
+      "id": "g16-3",
+      "pattern": "V-ていただきます",
+      "name": { "en": "Have a superior do something for me", "ta": "பெரியவர் எனக்காக ஒன்று செய்யப் பெறுதல்" },
+      "explanation_ta": "N5-இல் 〜てもらう ('ஒருவர் எனக்காகச் செய்யும்படி பெறுதல்') கற்றோம். செய்தவர் பெரியவராக இருந்தால் もらう-க்குப் பதில் いただく வரும்: V-て + いただきます. எழுவாய் 'நான்' (பெறுபவர்); செய்தவர் に. இதில் 'எனக்குக் கிடைத்த உதவிக்கு நான் நன்றியுள்ளவன்' என்ற உணர்வு இருக்கிறது. தமிழில் 'ஆசிரியர் எனக்குத் திருத்திக் கொடுத்தார்' என்பதை 'நான் ஆசிரியரிடம் திருத்தித் தரப் பெற்றேன்' என்று நம் பார்வையிலிருந்து சொல்வது போல. நண்பர் செய்தால் 〜てもらいました; பெரியவர் செய்தால் 〜ていただきました.",
+      "explanation_en": "In N5 you learned 〜てもらう: \"get someone to do something for me\". If that person is above you, use いただく instead of もらう. Form: V-て + いただきます. The subject is \"I\", the one who gets the help. The helper takes に. It shows you are thankful. A friend helped → 〜てもらいました. A superior helped → 〜ていただきました.",
+      "tamil_parallel": "ஆசிரியர் என் கட்டுரையைத் திருத்தித் தந்தார் (நான் திருத்தித் தரப் பெற்றேன்) = 先生に作文を直していただきました",
+      "tamil_parallel_en": "The teacher kindly corrected my essay (ஆசிரியர் என் கட்டுரையைத் திருத்தித் தந்தார்) = 先生に作文を直していただきました. The sentence is told from my side.",
+      "formation": "(私は) + பெரியவர் + に + V-て + いただきます\n直す → 直して いただきます\n教える → 教えて いただきます\n送る → 送って いただきます",
+      "formation_en": "(私は) + superior + に + V-て + いただきます\n直す → 直して いただきます\n教える → 教えて いただきます\n送る → 送って いただきます",
+      "examples": [
+        { "ja": "先生に作文を直していただきました。", "reading": "せんせいに さくぶんを なおして いただきました。", "romaji": "sensei ni sakubun o naoshite itadakimashita.", "ta": "ஆசிரியர் என் கட்டுரையைத் திருத்தித் தந்தார்.", "en": "My teacher kindly corrected my essay." },
+        { "ja": "田中さんのご主人に駅まで車で送っていただきました。", "reading": "たなかさんの ごしゅじんに えきまで くるまで おくって いただきました。", "romaji": "tanaka san no goshujin ni eki made kuruma de okutte itadakimashita.", "ta": "தனகா அவர்களின் கணவர் என்னை ஸ்டேஷன் வரை காரில் கொண்டுவிட்டார்.", "en": "Mrs Tanaka’s husband kindly drove me to the station." },
+        { "ja": "部長に新しい仕事のやり方を教えていただきました。", "reading": "ぶちょうに あたらしい しごとの やりかたを おしえて いただきました。", "romaji": "buchou ni atarashii shigoto no yarikata o oshiete itadakimashita.", "ta": "மேலாளர் புதிய வேலையைச் செய்யும் முறையைக் கற்றுக்கொடுத்தார்.", "en": "My manager kindly taught me how to do the new work." },
+        { "ja": "引っ越しのとき、だれに手伝っていただきましたか。", "reading": "ひっこしの とき、だれに てつだって いただきましたか。", "romaji": "hikkoshi no toki, dare ni tetsudatte itadakimashita ka.", "ta": "வீடு மாறும்போது உங்களுக்கு யார் உதவினார்கள்?", "en": "Who helped you when you moved house?" },
+        { "ja": "お店の人にプレゼントを包んでいただきました。", "reading": "おみせの ひとに プレゼントを つつんで いただきました。", "romaji": "omise no hito ni purezento o tsutsunde itadakimashita.", "ta": "கடைக்காரர் பரிசைச் சுற்றிக் கட்டிக் கொடுத்தார்.", "en": "The shop staff kindly wrapped the present for me." },
+        { "ja": "この作文は、まだ先生に見ていただいていません。", "reading": "この さくぶんは、まだ せんせいに みて いただいて いません。", "romaji": "kono sakubun wa, mada sensei ni mite itadaite imasen.", "ta": "இந்தக் கட்டுரையை இன்னும் ஆசிரியரிடம் பார்க்கக் கொடுக்கவில்லை.", "en": "I haven’t had the teacher look at this essay yet." }
+      ],
+      "pitfalls_ta": "செய்தவருக்கு に; 先生が直していただきました என்பது தவறு. 'ஆசிரியர்' எழுவாயாக வேண்டுமானால் 〜てくださいました பயன்படுத்துங்கள்.",
+      "pitfalls_en": "The helper takes に. 先生が直していただきました is wrong. If you want the teacher as the subject, use 〜てくださいました."
+    },
+    {
+      "id": "g16-4",
+      "pattern": "V-てくださいます",
+      "name": { "en": "A superior kindly does something for me", "ta": "பெரியவர் அன்புடன் எனக்காகச் செய்தல்" },
+      "explanation_ta": "N5-இல் 〜てくれる ('ஒருவர் எனக்காகச் செய்தார்') கற்றோம். செய்தவர் பெரியவராக இருந்தால் くれる-க்குப் பதில் くださる வரும்: V-て + くださいます. இங்கு எழுவாய் செய்தவர் (பெரியவர்); அவருக்கு が. பொருள் 〜ていただきます போலவே; பார்வை மட்டும் வேறு. 〜ていただきました: 'நான் பெற்றேன்' (என் பார்வை); 〜てくださいました: 'அவர் தந்தருளினார்' (அவர் பார்வை). தமிழில் 'ஆசிரியர் எனக்குச் சொல்லிக் கொடுத்தார்' என்பதில் உள்ள 'கொடுத்தார்' என்ற உதவி வினையைப் போல இது.",
+      "explanation_en": "In N5 you learned 〜てくれる: \"someone did something for me\". If that person is above you, use くださる instead of くれる. Form: V-て + くださいます. Here the subject is the helper, the superior. The helper takes が. The meaning is the same as 〜ていただきます. Only the point of view is different. 〜ていただきました: told from my side, \"I received\". 〜てくださいました: told from their side, \"they kindly gave\". It is like the Tamil helper verb \"kodu\" in சொல்லிக் கொடுத்தார் (taught me).",
+      "tamil_parallel": "ஆசிரியர் என் கட்டுரையைத் திருத்திக் கொடுத்தார் = 先生が作文を直してくださいました",
+      "tamil_parallel_en": "The teacher corrected my essay for me (ஆசிரியர் என் கட்டுரையைத் திருத்திக் கொடுத்தார்) = 先生が作文を直してくださいました.",
+      "formation": "பெரியவர் + が + (私に / 私の N を) + V-て + くださいます\n直す → 直して くださいます\n招待する → 招待して くださいます\n(くださいます / くださいました / くださった)",
+      "formation_en": "superior + が + (私に / 私の N を) + V-て + くださいます\n直す → 直して くださいます\n招待する → 招待して くださいます\n(くださいます / くださいました / くださった)",
+      "examples": [
+        { "ja": "先生が作文を直してくださいました。", "reading": "せんせいが さくぶんを なおして くださいました。", "romaji": "sensei ga sakubun o naoshite kudasaimashita.", "ta": "ஆசிரியர் என் கட்டுரையைத் திருத்திக் கொடுத்தார்.", "en": "My teacher kindly corrected my essay." },
+        { "ja": "部長が私たちをお宅に招待してくださいました。", "reading": "ぶちょうが わたしたちを おたくに しょうたいして くださいました。", "romaji": "buchou ga watashitachi o otaku ni shoutai shite kudasaimashita.", "ta": "மேலாளர் எங்களை அவர் வீட்டுக்கு அன்புடன் அழைத்தார்.", "en": "Our manager kindly invited us to his home." },
+        { "ja": "鈴木さんのお母さんが、おいしい料理を作ってくださいました。", "reading": "すずきさんの おかあさんが、おいしい りょうりを つくって くださいました。", "romaji": "suzuki san no okaasan ga, oishii ryouri o tsukutte kudasaimashita.", "ta": "சுசுகி அவர்களின் அம்மா சுவையான உணவு சமைத்துத் தந்தார்.", "en": "Mr Suzuki’s mother kindly cooked us a delicious meal." },
+        { "ja": "駅で知らない人が道を教えてくださいました。", "reading": "えきで しらない ひとが みちを おしえて くださいました。", "romaji": "eki de shiranai hito ga michi o oshiete kudasaimashita.", "ta": "ஸ்டேஷனில் தெரியாத ஒருவர் வழி சொல்லிக் கொடுத்தார்.", "en": "At the station a stranger kindly showed me the way." },
+        { "ja": "だれがこの地図を書いてくださったんですか。", "reading": "だれが この ちずを かいて くださったんですか。", "romaji": "dare ga kono chizu o kaite kudasattan desu ka.", "ta": "இந்த வரைபடத்தை யார் வரைந்து கொடுத்தார்கள்?", "en": "Who kindly drew this map for us?" },
+        { "ja": "先生は、毎週漢字の宿題を見てくださいます。", "reading": "せんせいは、まいしゅう かんじの しゅくだいを みて くださいます。", "romaji": "sensei wa, maishuu kanji no shukudai o mite kudasaimasu.", "ta": "ஆசிரியர் ஒவ்வொரு வாரமும் என் கான்ஜி வீட்டுப்பாடத்தைப் பார்த்துக் கொடுக்கிறார்.", "en": "Every week my teacher kindly checks my kanji homework." }
+      ],
+      "pitfalls_ta": "〜てくださいます-இல் செய்தவருக்கு が (அல்லது は); に அல்ல. 'நான்' எழுவாயாக இருக்கும் வாக்கியத்தில் 〜てくださいます வராது.",
+      "pitfalls_en": "In 〜てくださいます, the helper takes が (or は), not に. If \"I\" is the subject, you can’t use 〜てくださいます."
+    },
+    {
+      "id": "g16-5",
+      "pattern": "V-てやります",
+      "name": { "en": "Do something for a child, pet or plant", "ta": "குழந்தை, விலங்கு, செடிக்காக ஒன்று செய்தல்" },
+      "explanation_ta": "〜てあげる ('ஒருவருக்காகச் செய்வது') என்பதன் சாதாரண வடிவம் 〜てやる. சொந்தக் குழந்தைகள், தம்பி தங்கை, செல்லப்பிராணி, செடிகள் ஆகியோருக்காக ஒன்று செய்வதை விவரிக்கும்போது பயன்படும்: V-て + やります. தமிழில் 'பிள்ளைக்குக் கதை படித்துக் காட்டினேன்' என்பதில் உள்ள 'காட்டினேன்' போல, செயல் யாருக்குப் பயன் என்பதைக் காட்டுகிறது. நண்பர், அந்நியர், பெரியவர் ஆகியோருக்கு 〜てやる சொன்னால் இழிவாகக் கேட்கும்; அவர்களுக்கு 〜てあげる அல்லது பணிவாக お〜します (பின்னர் கற்போம்). இன்று பலர் குழந்தைகள், செல்லப்பிராணிகளுக்கும் 〜てあげる பயன்படுத்துகிறார்கள்; இரண்டும் சரி.",
+      "explanation_en": "〜てやる is the plain form of 〜てあげる (do for someone). Use it for your own children, younger family, pets and plants. Form: V-て + やります. It shows who the action helps. Don’t use it for friends, strangers or superiors. It sounds like you look down on them. For them, use 〜てあげる. Today many people also use 〜てあげる for children and pets. Both are fine.",
+      "tamil_parallel": "மகனுக்குப் புத்தகம் படித்துக் காட்டுகிறேன் = 息子に本を読んでやります",
+      "tamil_parallel_en": "I read a book to my son (மகனுக்குப் புத்தகம் படித்துக் காட்டுகிறேன்) = 息子に本を読んでやります.",
+      "formation": "இளையவர் / விலங்கு + に (அல்லது の N を) + V-て + やります\n読む → 読んで やります\n直す → 直して やります\n連れて行く → 連れて行って やります",
+      "formation_en": "younger person / animal + に (or の N を) + V-て + やります\n読む → 読んで やります\n直す → 直して やります\n連れて行く → 連れて行って やります",
+      "examples": [
+        { "ja": "毎晩、息子に本を読んでやります。", "reading": "まいばん、むすこに ほんを よんで やります。", "romaji": "maiban, musuko ni hon o yonde yarimasu.", "ta": "தினமும் இரவு மகனுக்குப் புத்தகம் படித்துக் காட்டுகிறேன்.", "en": "Every night I read a book to my son." },
+        { "ja": "弟の自転車を直してやりました。", "reading": "おとうとの じてんしゃを なおして やりました。", "romaji": "otouto no jitensha o naoshite yarimashita.", "ta": "தம்பியின் சைக்கிளைச் சரிசெய்து கொடுத்தேன்.", "en": "I fixed my little brother’s bike for him." },
+        { "ja": "日曜日は犬を公園に連れて行ってやります。", "reading": "にちようびは いぬを こうえんに つれて いって やります。", "romaji": "nichiyoubi wa inu o kouen ni tsurete itte yarimasu.", "ta": "ஞாயிற்றுக்கிழமை நாயைப் பூங்காவுக்குக் கூட்டிச் செல்வேன்.", "en": "On Sundays I take the dog to the park." },
+        { "ja": "娘の誕生日に、ケーキを作ってやりました。", "reading": "むすめの たんじょうびに、ケーキを つくって やりました。", "romaji": "musume no tanjoubi ni, keeki o tsukutte yarimashita.", "ta": "மகளின் பிறந்தநாளுக்குக் கேக் செய்து கொடுத்தேன்.", "en": "I made a cake for my daughter’s birthday." },
+        { "ja": "子どもに宿題を教えてやりましたか。", "reading": "こどもに しゅくだいを おしえて やりましたか。", "romaji": "kodomo ni shukudai o oshiete yarimashita ka.", "ta": "குழந்தைக்கு வீட்டுப்பாடம் சொல்லிக் கொடுத்தீர்களா?", "en": "Did you help your child with their homework?" }
+      ],
+      "pitfalls_ta": "நண்பரிடம் '手伝ってやるよ' என்று சொல்வது மேலிருந்து பேசுவது போலக் கேட்கும். சந்தேகம் இருந்தால் 〜てあげる பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Saying 手伝ってやるよ to a friend sounds bossy. If you are not sure, use 〜てあげる."
+    },
+    {
+      "id": "g16-6",
+      "pattern": "V-てくださいませんか",
+      "name": { "en": "Would you kindly …? (very polite request)", "ta": "தயவுசெய்து ~ செய்து தர முடியுமா? (மிகப் பணிவான வேண்டுகோள்)" },
+      "explanation_ta": "〜てください என்பது நேரடியான வேண்டுகோள். அதை எதிர்மறைக் கேள்வியாக 〜てくださいませんか என்று மாற்றினால் 'செய்து தர மாட்டீர்களா?' என்று மிகப் பணிவாக மாறும். ஆசிரியர், மேலாளர், அந்நியர் ஆகியோரிடம் ஏதாவது கேட்கும்போது பயன்படுத்துங்கள். பாடம் 1-இல் கற்ற 〜ていただけませんか ('செய்து தரப் பெற முடியுமா?') கூட இதே அளவு பணிவானது. நண்பர்களிடம் 〜てくれませんか / 〜てくれない? போதும். தமிழில் 'கொடுங்கள்' → 'கொடுக்க முடியுமா?' → 'தயவுசெய்து கொடுத்து உதவுவீர்களா?' என்று பணிவு கூடுவது போல.",
+      "explanation_en": "〜てください is a direct request. Make it a negative question: 〜てくださいませんか. Now it means \"Would you kindly …?\". It is very polite. Use it with teachers, bosses and strangers. 〜ていただけませんか from Lesson 1 is just as polite. With friends, 〜てくれませんか or 〜てくれない? is enough. Tamil also gets more polite this way: கொடுங்கள் → கொடுக்க முடியுமா? (could you give?).",
+      "tamil_parallel": "தயவுசெய்து இன்னும் கொஞ்சம் மெதுவாகப் பேசுவீர்களா? = もう少しゆっくり話してくださいませんか",
+      "tamil_parallel_en": "Would you kindly speak a little more slowly? (இன்னும் கொஞ்சம் மெதுவாகப் பேசுவீர்களா?) = もう少しゆっくり話してくださいませんか.",
+      "formation": "V-て + くださいませんか\nபணிவு அளவு: V-て → V-てください → V-てくれませんか → V-てくださいませんか ≈ V-ていただけませんか",
+      "formation_en": "V-て + くださいませんか\nPoliteness: V-て → V-てください → V-てくれませんか → V-てくださいませんか ≈ V-ていただけませんか",
+      "examples": [
+        { "ja": "すみませんが、もう少しゆっくり話してくださいませんか。", "reading": "すみませんが、もう すこし ゆっくり はなして くださいませんか。", "romaji": "sumimasen ga, mou sukoshi yukkuri hanashite kudasaimasen ka.", "ta": "மன்னிக்கவும், இன்னும் கொஞ்சம் மெதுவாகப் பேசுவீர்களா?", "en": "Excuse me, would you kindly speak a little more slowly?" },
+        { "ja": "先生、この漢字の読み方を教えてくださいませんか。", "reading": "せんせい、この かんじの よみかたを おしえて くださいませんか。", "romaji": "sensei, kono kanji no yomikata o oshiete kudasaimasen ka.", "ta": "ஐயா, இந்தக் கான்ஜியை எப்படிப் படிப்பது என்று சொல்லித் தருவீர்களா?", "en": "Sir, would you kindly tell me how to read this kanji?" },
+        { "ja": "すみません、写真を撮ってくださいませんか。", "reading": "すみません、しゃしんを とって くださいませんか。", "romaji": "sumimasen, shashin o totte kudasaimasen ka.", "ta": "மன்னிக்கவும், ஒரு புகைப்படம் எடுத்துத் தருவீர்களா?", "en": "Excuse me, would you kindly take a photo for us?" },
+        { "ja": "プレゼントなので、きれいな紙で包んでくださいませんか。", "reading": "プレゼントなので、きれいな かみで つつんで くださいませんか。", "romaji": "purezento na node, kirei na kami de tsutsunde kudasaimasen ka.", "ta": "இது பரிசு என்பதால், அழகான காகிதத்தில் சுற்றித் தருவீர்களா?", "en": "It’s a present, so would you kindly wrap it in nice paper?" },
+        { "ja": "部長、この書類を見てくださいませんか。", "reading": "ぶちょう、この しょるいを みて くださいませんか。", "romaji": "buchou, kono shorui o mite kudasaimasen ka.", "ta": "மேலாளர் அவர்களே, இந்த ஆவணத்தைப் பார்த்துத் தருவீர்களா?", "en": "Would you kindly look at this document, sir?" }
+      ],
+      "pitfalls_ta": "〜ていただきませんか என்பது தவறு; சரியானது 〜ていただけませんか (முடியுமா என்ற வடிவம்) அல்லது 〜てくださいませんか.",
+      "pitfalls_en": "〜ていただきませんか is wrong. Say 〜ていただけませんか (\"can I get …?\") or 〜てくださいませんか."
+    }
+  ],
+  "vocab_ids": ["n4-v-040", "n4-v-051", "n4-v-070", "n4-v-120", "n4-v-132", "n4-v-141", "n4-v-210", "n4-v-211", "n4-v-216", "n4-v-231", "n4-v-235", "n4-v-269", "n4-v-273", "n4-v-288", "n4-v-297", "n4-v-333", "n4-v-337", "n4-v-369", "n4-v-407", "n4-v-443", "n4-v-462", "n4-v-494", "n4-v-496", "n4-v-606", "n4-v-618"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L16-q01", "type": "kanji_reading",
+        "sentence": "＿正月＿は 家族と 神社へ 行きます。", "target": "正月",
+        "options": ["せいがつ", "しょうげつ", "しょうがつ", "しょがつ"], "answer": 2,
+        "explanation_ta": "正月 = しょうがつ (புத்தாண்டு). 正 இங்கே しょう என்று படிக்கப்படும்; 月 இங்கே がつ. せい, げつ என்பவை வேறு சொற்களில் வரும் வாசிப்புகள்.",
+        "explanation_en": "正月 = しょうがつ (புத்தாண்டு, New Year). Here 正 is read しょう and 月 is read がつ. せい and げつ are readings used in other words."
+      },
+      {
+        "id": "L16-q02", "type": "kanji_reading",
+        "sentence": "友達の 誕生日に ＿贈り物＿を 買いました。", "target": "贈り物",
+        "options": ["ぞうりもの", "おくりもの", "おくりぶつ", "そうりもの"], "answer": 1,
+        "explanation_ta": "贈り物 = おくりもの (பரிசு). 贈る (おくる, அனுப்புதல்/பரிசளித்தல்) + 物 (もの). 物-ஐ ぶつ என்று படிப்பது இங்கே தவறு.",
+        "explanation_en": "贈り物 = おくりもの (பரிசு, gift). It is 贈る (おくる, to give a gift) + 物 (もの, thing). Reading 物 as ぶつ is wrong here."
+      },
+      {
+        "id": "L16-q03", "type": "kanji_reading",
+        "sentence": "週末に 先生の お宅を ＿訪ねました＿。", "target": "訪ねました",
+        "options": ["たずねました", "かさねました", "たづねました", "あたねました"], "answer": 0,
+        "explanation_ta": "訪ねる = たずねる (ஒருவரைப் பார்க்கச் செல்வது). たづねました என்பது எழுத்துப் பிழை; ず தான் சரி.",
+        "explanation_en": "訪ねる = たずねる (பார்க்கச் செல்ல, to visit). たづねました is a spelling mistake. The right kana is ず."
+      },
+      {
+        "id": "L16-q04", "type": "orthography",
+        "sentence": "駅員さんは とても ＿しんせつ＿でした。", "target": "しんせつ",
+        "options": ["親接", "新切", "親説", "親切"], "answer": 3,
+        "explanation_ta": "しんせつ (அன்பான) = 親切. 新 (புதிய), 接, 説 ஆகியவை ஒலியில் ஒத்திருந்தாலும் இந்தச் சொல்லில் வராது.",
+        "explanation_en": "しんせつ (அன்பான, kind) = 親切. 新 (new), 接 and 説 sound close, but they are not in this word."
+      },
+      {
+        "id": "L16-q05", "type": "orthography",
+        "sentence": "この 本を 紙で ＿つつんで＿ ください。", "target": "つつんで",
+        "options": ["包んで", "泡んで", "抱んで", "句んで"], "answer": 0,
+        "explanation_ta": "つつむ (சுற்றிக் கட்டுதல்) = 包む. 泡 (நுரை), 抱 (அணைத்தல்) ஆகியவை தோற்றத்தில் ஒத்த கான்ஜிகள் மட்டுமே.",
+        "explanation_en": "つつむ (சுற்றிக் கட்ட, to wrap) = 包む. 泡 (foam) and 抱 (to hug) only look similar."
+      },
+      {
+        "id": "L16-q06", "type": "vocab_context",
+        "sentence": "先生の お宅に 入る とき、「お（　　）します。」と 言います。",
+        "options": ["じゃま", "えんりょ", "いわい", "れい"], "answer": 0,
+        "explanation_ta": "ஒருவர் வீட்டுக்குள் நுழையும்போது 'お邪魔します' (தொந்தரவு செய்கிறேன்) என்பது வழக்கமான வாழ்த்து. お礼します, お祝いします வேறு பொருள்.",
+        "explanation_en": "When you enter someone’s home, you say お邪魔します (\"sorry to intrude\"). お礼 is thanks and お祝い is a celebration. They don’t fit here."
+      },
+      {
+        "id": "L16-q07", "type": "vocab_context",
+        "sentence": "友達が 結婚したので、（　　）に 時計を あげました。",
+        "options": ["お礼", "お宅", "お正月", "お祝い"], "answer": 3,
+        "explanation_ta": "திருமணம் போன்ற மகிழ்ச்சியான நிகழ்வுக்குக் கொடுப்பது お祝い (வாழ்த்துப் பரிசு). お礼 என்பது உதவிக்கு நன்றியாகக் கொடுப்பது.",
+        "explanation_en": "A gift for a happy event like a wedding is お祝い (வாழ்த்துப் பரிசு, congratulatory gift). お礼 is a gift to say thank you for help."
+      },
+      {
+        "id": "L16-q08", "type": "vocab_context",
+        "sentence": "たくさん ありますから、（　　）しないで 食べて ください。",
+        "options": ["招待", "遠慮", "邪魔", "親切"], "answer": 1,
+        "explanation_ta": "遠慮しないで = தயங்காமல், கூச்சப்படாமல். விருந்தினரிடம் சொல்லும் வழக்கமான சொற்றொடர். 邪魔しないで 'தொந்தரவு செய்யாதே' என்று பொருள்; இங்கே பொருந்தாது.",
+        "explanation_en": "遠慮しないで = don’t hold back, don’t be shy. Hosts often say this to guests. 邪魔しないで means \"don’t disturb me\". It doesn’t fit."
+      },
+      {
+        "id": "L16-q09", "type": "vocab_context",
+        "sentence": "来週の パーティーに、（　　） 来て ください。",
+        "options": ["もし", "たぶん", "ぜひ", "まだ"], "answer": 2,
+        "explanation_ta": "ぜひ 〜てください = 'கட்டாயம் வாருங்கள்' என்ற அன்பான அழைப்பு. たぶん (ஒருவேளை) ஊகத்துக்கு; வேண்டுகோளுடன் வராது.",
+        "explanation_en": "ぜひ 〜てください = \"please do come\". It is a warm invitation. たぶん (probably) is for guesses. It doesn’t go with requests."
+      },
+      {
+        "id": "L16-q10", "type": "paraphrase",
+        "sentence": "田中さんの ご主人は 医者です。",
+        "options": ["田中さんの 奥さんは 医者です。", "田中さんの 夫は 医者です。", "田中さんの 娘さんは 医者です。", "田中さんの 息子さんは 医者です。"], "answer": 1,
+        "explanation_ta": "ご主人 = மற்றவரின் கணவர் (夫). 奥さん மனைவி; 娘さん மகள்.",
+        "explanation_en": "ご主人 = someone else’s husband (夫, கணவர்). 奥さん is wife and 娘さん is daughter."
+      },
+      {
+        "id": "L16-q11", "type": "paraphrase",
+        "sentence": "先生が 作文を 直して くださいました。",
+        "options": ["私は 先生の 作文を 直して さしあげました。", "先生は 私に 作文を 直して もらいました。", "私は 先生に 作文を 直して やりました。", "私は 先生に 作文を 直して いただきました。"], "answer": 3,
+        "explanation_ta": "'ஆசிரியர் திருத்தித் தந்தார்' = 'நான் ஆசிரியரிடம் திருத்தித் தரப் பெற்றேன்' (〜ていただきました). மற்றவற்றில் செய்தவர் 'நான்' அல்லது திசை தலைகீழ்.",
+        "explanation_en": "\"The teacher kindly corrected it\" = \"I had the teacher correct it\" (〜ていただきました). In the others, \"I\" do the correcting, or the direction is reversed."
+      },
+      {
+        "id": "L16-q12", "type": "usage",
+        "sentence": "招待",
+        "options": ["毎朝 駅まで 歩いて 招待します。", "先生に 手紙を 招待しました。", "友達を 誕生日の パーティーに 招待しました。", "電車が 遅れて、会社に 招待しました。"], "answer": 2,
+        "explanation_ta": "招待する = ஒருவரை நிகழ்ச்சிக்கோ வீட்டுக்கோ அழைப்பது: 人を (இடம்/நிகழ்ச்சி) に 招待する. கடிதம் அனுப்புவது 送る; தாமதமாவது 遅刻する.",
+        "explanation_en": "招待する = invite a person to an event or a home: 人を (place/event) に 招待する. Sending a letter is 送る. Being late is 遅刻する."
+      },
+      {
+        "id": "L16-q13", "type": "usage",
+        "sentence": "遠慮",
+        "options": ["朝ご飯を 遠慮して、学校へ 行きました。", "雨が 遠慮して、とても 寒いです。", "この 部屋は 広くて 遠慮です。", "遠慮しないで、何でも 聞いて ください。"], "answer": 3,
+        "explanation_ta": "遠慮 = தயக்கம், கூச்சம். 遠慮しないで = தயங்காமல். மற்ற வாக்கியங்களில் இது 'சாப்பிடாமல்', 'நிற்க' போன்ற தவறான பொருளில் வருகிறது.",
+        "explanation_en": "遠慮 = holding back, being shy. 遠慮しないで = don’t hold back. In the other sentences it is used wrongly, like \"skip\" or \"stop\"."
+      },
+      {
+        "id": "L16-q14", "type": "grammar_form",
+        "sentence": "私は 先生に 辞書を（　　）。",
+        "options": ["くださいました", "いただきました", "さしあげました", "やりました"], "answer": 1,
+        "explanation_ta": "எழுவாய் 私は, கொடுத்தவர் 先生に → 'பெற்றேன்' = いただきました. くださいました-இல் கொடுப்பவர் が எழுவாயாக வர வேண்டும்.",
+        "explanation_en": "The subject is 私は and the giver is 先生に → \"I received\" = いただきました. With くださいました, the giver must be the subject with が."
+      },
+      {
+        "id": "L16-q15", "type": "grammar_form",
+        "sentence": "社長が 私に お土産を（　　）。",
+        "options": ["いただきました", "さしあげました", "くださいました", "もらいました"], "answer": 2,
+        "explanation_ta": "社長が (கொடுப்பவர், பெரியவர்) → 私に (எனக்கு) = くださいました. いただきました / もらいました என்றால் 社長 பெற்றவர் ஆகிவிடுவார்.",
+        "explanation_en": "社長が is the giver and a superior → 私に (to me) = くださいました. With いただきました or もらいました, the president would be the one receiving."
+      },
+      {
+        "id": "L16-q16", "type": "grammar_form",
+        "sentence": "毎朝、庭の 花に 水を（　　）。",
+        "options": ["やります", "くださいます", "いただきます", "くれます"], "answer": 0,
+        "explanation_ta": "செடிகளுக்குக் கொடுப்பது やります (あげる-வின் சாதாரண வடிவம்). くださいます / くれます 'எனக்குக் கொடுப்பது'.",
+        "explanation_en": "Giving to plants = やります (the plain form of あげる). くださいます and くれます mean \"give to me\"."
+      },
+      {
+        "id": "L16-q17", "type": "grammar_form",
+        "sentence": "雨だったので、先生に 駅まで 車で 送って（　　）。",
+        "options": ["くださいました", "いただきました", "やりました", "さしあげました"], "answer": 1,
+        "explanation_ta": "先生に (செய்தவர் に) → 〜ていただきました. 先生が என்று இருந்தால் தான் 〜てくださいました சரி.",
+        "explanation_en": "先生に (the helper takes に) → 〜ていただきました. Only 先生が would go with 〜てくださいました."
+      },
+      {
+        "id": "L16-q18", "type": "grammar_form",
+        "sentence": "すみませんが、この 漢字の 読み方を 教えて（　　）。",
+        "options": ["くださいませんか", "いただきませんか", "やりませんか", "さしあげませんか"], "answer": 0,
+        "explanation_ta": "பணிவான வேண்டுகோள் = 〜てくださいませんか. いただきませんか தவறு; சரியானது いただけませんか.",
+        "explanation_en": "A polite request = 〜てくださいませんか. いただきませんか is wrong. The right form is いただけませんか."
+      },
+      {
+        "id": "L16-q19", "type": "grammar_form",
+        "sentence": "部長が 結婚式に 私を 招待して（　　）。",
+        "options": ["いただきました", "やりました", "さしあげました", "くださいました"], "answer": 3,
+        "explanation_ta": "部長が (செய்தவர், பெரியவர்) → 私を அழைத்தார் = 〜てくださいました. いただきました-க்கு 部長に வேண்டும்.",
+        "explanation_en": "部長が is the helper and a superior. He invited me → 〜てくださいました. いただきました needs 部長に."
+      },
+      {
+        "id": "L16-q20", "type": "grammar_form",
+        "sentence": "私は 娘の 誕生日に、ケーキを 作って（　　）。",
+        "options": ["くださいました", "いただきました", "やりました", "くれました"], "answer": 2,
+        "explanation_ta": "நான் என் மகளுக்காகச் செய்தது → 〜てやりました (இளையவருக்காக). くれました / くださいました 'மற்றவர் எனக்காகச் செய்தது'.",
+        "explanation_en": "I did it for my daughter → 〜てやりました (for a younger person). くれました and くださいました mean someone did it for me."
+      },
+      {
+        "id": "L16-q21", "type": "sentence_order",
+        "before": "先生に", "chunks": ["日本の", "歌を", "教えて", "いただきました"], "star": 1, "after": "。",
+        "explanation_ta": "先生に 日本の 歌を (ஜப்பானியப் பாடலை) 教えて いただきました (கற்றுக்கொடுக்கப் பெற்றேன்). ★ = 歌を.",
+        "explanation_en": "先生に 日本の 歌を (a Japanese song) 教えて いただきました (I was kindly taught). ★ = 歌を."
+      },
+      {
+        "id": "L16-q22", "type": "sentence_order",
+        "before": "先生、", "chunks": ["この", "漢字の", "読み方を", "教えて"], "star": 2, "after": "くださいませんか。",
+        "explanation_ta": "この 漢字の 読み方を (இந்தக் கான்ஜியின் வாசிப்பை) 教えて くださいませんか. ★ = 読み方を.",
+        "explanation_en": "この 漢字の 読み方を (how to read this kanji) 教えて くださいませんか. ★ = 読み方を."
+      },
+      {
+        "id": "L16-q23", "type": "sentence_order",
+        "before": "部長の 奥さんが", "chunks": ["おいしい", "料理を", "作って", "くださいました"], "star": 1, "after": "。",
+        "explanation_ta": "部長の 奥さんが おいしい 料理を (சுவையான உணவை) 作って くださいました (சமைத்துத் தந்தார்). ★ = 料理を.",
+        "explanation_en": "部長の 奥さんが おいしい 料理を (a delicious meal) 作って くださいました (kindly cooked). ★ = 料理を."
+      },
+      {
+        "id": "L16-q24", "type": "passage_cloze",
+        "passage": "正月に 先生の お宅を 訪ねました。先生の 奥さんが 特別な 料理を 作って［1］。私は 先生に 国の お茶を［2］。帰る とき、先生に 日本の カレンダーを［3］。とても うれしかったです。",
+        "blanks": [
+          { "options": ["くださいました", "いただきました", "さしあげました", "やりました"], "answer": 0 },
+          { "options": ["くださいました", "さしあげました", "いただきました", "くれました"], "answer": 1 },
+          { "options": ["さしあげました", "くださいました", "やりました", "いただきました"], "answer": 3 }
+        ],
+        "explanation_ta": "［1］ 奥さんが (பெரியவர்) எனக்காகச் சமைத்தார் → 作ってくださいました. ［2］ நான் ஆசிரியருக்குக் கொடுத்தேன் → さしあげました. ［3］ 先生に (கொடுத்தவர் に) நான் பெற்றேன் → いただきました.",
+        "explanation_en": "[1] The teacher’s wife (a superior) cooked for me → 作ってくださいました. [2] I gave to the teacher → さしあげました. [3] 先生に marks the giver, and I received → いただきました."
+      }
+    ]
+  }
+}

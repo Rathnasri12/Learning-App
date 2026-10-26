@@ -1,0 +1,147 @@
+{
+  "lesson": 25,
+  "title": { "ja": "先輩に走らされました", "ta": "சீனியர் என்னை ஓட வைத்தார்", "en": "My senior made me run" },
+  "intro_en": "In this lesson you will talk about club life and sports. You will learn the causative-passive form: \"I was made to do it\". It shows you did something you did not want to do. You will also learn てばかりいます to complain that someone does \"nothing but …\". Then you will learn ずつ (\"… each\") and おきに / ごとに (\"every other …\" and \"every …\").",
+  "intro_ta": "இந்தப் பாடத்தில் கிளப் வாழ்க்கை, விளையாட்டு பற்றிப் பேசக் கற்போம். 'என்னைச் செய்ய வைத்தார்கள்' (விருப்பமில்லாமல் செய்தேன்) என்று சொல்லும் பிறவினை-செயப்பாட்டு வடிவத்தை (causative-passive) படிப்போம். ஒருவர் 'எப்போதும் இதையே செய்கிறார்' என்று குறை சொல்ல てばかりいます, 'ஒவ்வொருவருக்கும் … அளவு' என்பதற்கு ずつ, 'ஒன்று விட்டு ஒன்று / ஒவ்வொரு …' என்பதற்கு おきに / ごとに ஆகியவற்றையும் கற்போம். பாடச் சூழல்: சீனியர்-ஜூனியர், பயிற்சி, போட்டிகள், வெற்றியும் தோல்வியும்.",
+  "grammar": [
+    {
+      "id": "g25-1",
+      "pattern": "Causative-passive form (V-させられる / V-される)",
+      "name": { "en": "The causative-passive form", "ta": "பிறவினை-செயப்பாட்டு வடிவம் (செய்ய வைக்கப்பட்டேன்)" },
+      "explanation_en": "Take the causative (lesson 24) and make it passive (lesson 12). 食べさせる → 食べさせられる (be made to eat). Group I has a short form too: ない-form stem + される. 行く → 行かされる, 待つ → 待たされる, 飲む → 飲まされる. The short form is very common in speech. But verbs ending in す have no short form: 話す → 話させられる. Group II: 食べさせられる. Group III: させられる, 来させられる (こさせられる).",
+      "explanation_ta": "பாடம் 24-இல் கற்ற பிறவினையைப் பாடம் 12-இல் கற்ற செயப்பாட்டு வடிவமாக மாற்றினால் இது கிடைக்கும்: 食べさせる → 食べさせられる (சாப்பிட வைக்கப்பட்டேன்). குழு I-க்கு ஒரு சுருக்க வடிவமும் உண்டு: ない-வடிவ அடி + される: 行く → 行かされる, 待つ → 待たされる, 飲む → 飲まされる. பேச்சில் சுருக்க வடிவமே அதிகம். ஆனால் す-இல் முடியும் வினைகளுக்குச் சுருக்கம் இல்லை: 話す → 話させられる. குழு II: 食べさせられる. குழு III: させられる, 来させられる (こさせられる). தமிழில் 'என்னைச் சாப்பிட வைத்தார்கள்' என்று சொல்வதை ஜப்பானியம் 'நான் சாப்பிட வைக்கப்பட்டேன்' என்று சொல்கிறது.",
+      "tamil_parallel": "母に野菜を食べさせられました = அம்மா என்னைக் காய்கறி சாப்பிட வைத்தார் (விருப்பமில்லாமல் சாப்பிட்டேன்).",
+      "tamil_parallel_en": "母に野菜を食べさせられました = \"My mother made me eat vegetables\" (அம்மா என்னைச் சாப்பிட வைத்தார்), and I didn't want to.",
+      "formation": "குழு I: ない-அடி + せられる / される (சுருக்கம்)\nいく → いかせられる / いかされる\nまつ → またせられる / またされる\nはなす → はなさせられる (す-வினைக்குச் சுருக்கம் இல்லை)\nகுழு II: る → させられる (たべさせられる)\nகுழு III: する → させられる、くる → こさせられる",
+      "formation_en": "Group I: ない-stem + せられる / される (short)\nいく → いかせられる / いかされる\nまつ → またせられる / またされる\nはなす → はなさせられる (no short form for す-verbs)\nGroup II: る → させられる (たべさせられる)\nGroup III: する → させられる、くる → こさせられる",
+      "examples": [
+        { "ja": "子どもの時、母に嫌いな野菜を食べさせられました。", "reading": "こどもの とき、ははに きらいな やさいを たべさせられました。", "romaji": "kodomo no toki, haha ni kirai na yasai o tabesaseraremashita.", "ta": "சிறுவயதில் அம்மா எனக்குப் பிடிக்காத காய்கறியைச் சாப்பிட வைத்தார்.", "en": "As a child, my mother made me eat vegetables I hated." },
+        { "ja": "駅で友達に一時間も待たされました。", "reading": "えきで ともだちに いちじかんも またされました。", "romaji": "eki de tomodachi ni ichijikan mo matasaremashita.", "ta": "ஸ்டேஷனில் நண்பர் என்னை ஒரு மணி நேரம் காக்க வைத்தார்.", "en": "My friend kept me waiting at the station for a whole hour." },
+        { "ja": "パーティーで、部長にお酒をたくさん飲まされました。", "reading": "パーティーで、ぶちょうに おさけを たくさん のまされました。", "romaji": "paatii de, buchou ni osake o takusan nomasaremashita.", "ta": "விருந்தில் மேலாளர் என்னை நிறைய மது குடிக்க வைத்தார்.", "en": "At the party, my manager made me drink a lot." },
+        { "ja": "先輩にみんなの前で歌を歌わされて、恥ずかしかったです。", "reading": "せんぱいに みんなの まえで うたを うたわされて、はずかしかったです。", "romaji": "senpai ni minna no mae de uta o utawasarete, hazukashikatta desu.", "ta": "சீனியர் என்னை எல்லோர் முன்னிலையிலும் பாட வைத்ததால் வெட்கமாக இருந்தது.", "en": "My senior made me sing in front of everyone, and I was embarrassed." },
+        { "ja": "先生にクラスの前で自分の国について話させられました。", "reading": "せんせいに クラスの まえで じぶんの くにに ついて はなさせられました。", "romaji": "sensei ni kurasu no mae de jibun no kuni ni tsuite hanasaseraremashita.", "ta": "ஆசிரியர் என்னை வகுப்பின் முன் என் நாட்டைப் பற்றிப் பேச வைத்தார்.", "en": "The teacher made me talk about my country in front of the class." },
+        { "ja": "子どもの時、ピアノを習わされましたか。", "reading": "こどもの とき、ピアノを ならわされましたか。", "romaji": "kodomo no toki, piano o narawasaremashita ka.", "ta": "சிறுவயதில் உங்களைப் பியானோ கற்க வைத்தார்களா?", "en": "Were you made to learn the piano as a child?" }
+      ],
+      "pitfalls_en": "Do not use the short form for す-verbs: 話さされる is wrong; say 話させられる. Also, 待たされる (made to wait) is not 待たれる (someone waited, and it troubled me).",
+      "pitfalls_ta": "す-வினைக்குச் சுருக்கம் கூடாது: 話さされる தவறு, 話させられる சரி. 待たされる (காக்க வைக்கப்பட்டேன்) வேறு, 待たれる (ஒருவர் காத்திருந்தது எனக்குத் தொல்லை) வேறு."
+    },
+    {
+      "id": "g25-2",
+      "pattern": "N1 は N2 に V-causative-passive",
+      "name": { "en": "Be made to do something by someone", "ta": "ஒருவரால் செய்ய வைக்கப்படுதல்" },
+      "explanation_en": "N1 は N2 に + causative-passive means \"N1 was made to do it by N2\". N1 is the person who did it, usually \"I\". N2, with に, is the one who forced it. It shows you did not want to do it. Compare: 先輩は私を走らせました is from the senior's side. 私は先輩に走らされました is from my side, and it sounds like a complaint.",
+      "explanation_ta": "N1 は N2 に + பிறவினை-செயப்பாடு = 'N1, N2-ஆல் செய்ய வைக்கப்பட்டார்'. N1 செயலைச் செய்தவர் (பெரும்பாலும் 'நான்'); に எடுக்கும் N2 கட்டாயப்படுத்தியவர். விருப்பமில்லாமல் செய்தேன் என்ற உணர்வைக் காட்டும். ஒப்பிடுக: 先輩は私を走らせました சீனியரின் பார்வையில்; 私は先輩に走らされました என் பார்வையில், ஒரு குறையாகக் கேட்கும். தமிழில் 'சீனியர் என்னை ஓட வைத்தார் (எனக்கு விருப்பமில்லை)' என்பதற்கு நேர் இணை.",
+      "tamil_parallel": "私は先輩に走らされました = சீனியர் என்னை ஓட வைத்தார் (நான் விரும்பவில்லை).",
+      "tamil_parallel_en": "私は先輩に走らされました = \"I was made to run by my senior\" (சீனியர் என்னை ஓட வைத்தார்), against my wishes.",
+      "formation": "N1 (செய்தவர்) は + N2 (கட்டாயப்படுத்தியவர்) に + (பொருள் を) + பிறவினை-செயப்பாடு\nわたしは せんぱいに はしらされました\nおとうとは ははに へやを そうじさせられました",
+      "formation_en": "N1 (the doer) は + N2 (the one who forced) に + (object を) + causative-passive\nわたしは せんぱいに はしらされました\nおとうとは ははに へやを そうじさせられました",
+      "examples": [
+        { "ja": "私は先輩に重い荷物を持たされました。", "reading": "わたしは せんぱいに おもい にもつを もたされました。", "romaji": "watashi wa senpai ni omoi nimotsu o motasaremashita.", "ta": "சீனியர் என்னைக் கனமான சுமையைத் தூக்க வைத்தார்.", "en": "My senior made me carry the heavy bags." },
+        { "ja": "弟は母に部屋を掃除させられました。", "reading": "おとうとは ははに へやを そうじさせられました。", "romaji": "otouto wa haha ni heya o souji saseraremashita.", "ta": "அம்மா தம்பியை அறையைச் சுத்தம் செய்ய வைத்தார்.", "en": "My younger brother was made to clean his room by our mother." },
+        { "ja": "私はコーチに毎朝五キロ走らされます。", "reading": "わたしは コーチに まいあさ ごキロ はしらされます。", "romaji": "watashi wa koochi ni maiasa gokiro hashirasaremasu.", "ta": "பயிற்சியாளர் என்னை ஒவ்வொரு காலையும் ஐந்து கிலோமீட்டர் ஓட வைக்கிறார்.", "en": "My coach makes me run five kilometres every morning." },
+        { "ja": "試合に負けて、私たちはコーチに長い話を聞かされました。", "reading": "しあいに まけて、わたしたちは コーチに ながい はなしを きかされました。", "romaji": "shiai ni makete, watashitachi wa koochi ni nagai hanashi o kikasaremashita.", "ta": "போட்டியில் தோற்றதால் பயிற்சியாளரின் நீண்ட அறிவுரையைக் கேட்க வைக்கப்பட்டோம்.", "en": "We lost the match, so the coach made us listen to a long talk." },
+        { "ja": "学生は先生に漢字を何度も書かされました。", "reading": "がくせいは せんせいに かんじを なんども かかされました。", "romaji": "gakusei wa sensei ni kanji o nando mo kakasaremashita.", "ta": "மாணவர்கள் ஆசிரியரால் கான்ஜியைப் பலமுறை எழுத வைக்கப்பட்டார்கள்.", "en": "The students were made to write the kanji many times by the teacher." },
+        { "ja": "あなたも高校の時、先輩に練習させられましたか。", "reading": "あなたも こうこうの とき、せんぱいに れんしゅうさせられましたか。", "romaji": "anata mo koukou no toki, senpai ni renshuu saseraremashita ka.", "ta": "நீங்களும் மேல்நிலைப் பள்ளியில் சீனியர்களால் பயிற்சி செய்ய வைக்கப்பட்டீர்களா?", "en": "Were you also made to practise by seniors in high school?" }
+      ],
+      "pitfalls_en": "The person who forced you takes に, not が or を. Also do not use this for things you were happy to do. For a kind favour, use させてもらいました.",
+      "pitfalls_ta": "கட்டாயப்படுத்தியவர் に எடுப்பார், が / を அல்ல. மகிழ்ச்சியுடன் செய்த செயலுக்கு இதைப் பயன்படுத்த வேண்டாம்; அனுமதி கிடைத்ததற்கு நன்றியுடன் சொல்ல させてもらいました."
+    },
+    {
+      "id": "g25-3",
+      "pattern": "N / V-て ばかり います",
+      "name": { "en": "Nothing but …, always …ing", "ta": "எப்போதும் இதையே …" },
+      "explanation_en": "N ばかり means \"only N, nothing but N\": ゲームばかりしています. て-form + ばかりいます means \"doing nothing but …\": 寝てばかりいます (always sleeping). It usually shows that you are not happy about it. Parents and teachers often use it to complain. This is not the たばかり of lesson 21 (just did). Look at the form before ばかり.",
+      "explanation_ta": "N ばかり = 'N மட்டுமே, வேறு எதுவும் இல்லை': ゲームばかりしています (விளையாட்டு மட்டுமே விளையாடுகிறான்). て-வடிவம் + ばかりいます = 'எப்போதும் இதையே செய்துகொண்டிருக்கிறான்': 寝てばかりいます (தூங்கிக்கொண்டே இருக்கிறான்). பெரும்பாலும் அதிருப்தியைக் காட்டும்; பெற்றோர், ஆசிரியர்கள் குறை சொல்லப் பயன்படுத்துவார்கள். பாடம் 21-இன் たばかり ('இப்போதுதான் செய்தது') வேறு; ばかり-க்கு முன் உள்ள வடிவத்தைப் பாருங்கள். தமிழில் 'எப்பப் பார்த்தாலும் தூங்கிக்கிட்டே இருக்கான்' என்பது போல.",
+      "tamil_parallel": "弟は寝てばかりいます = தம்பி எப்பப் பார்த்தாலும் தூங்கிக்கொண்டே இருக்கிறான்.",
+      "tamil_parallel_en": "弟は寝てばかりいます = \"My brother does nothing but sleep\" (எப்பப் பார்த்தாலும் தூங்கிக்கொண்டே இருக்கிறான்).",
+      "formation": "N + ばかり + வினை\nゲームばかり して います\nあまい ものばかり たべて います\nV-て + ばかり います\nねて ばかり います、あそんで ばかり います",
+      "formation_en": "N + ばかり + verb\nゲームばかり して います\nあまい ものばかり たべて います\nV-て + ばかり います\nねて ばかり います、あそんで ばかり います",
+      "examples": [
+        { "ja": "弟は毎日ゲームばかりしています。", "reading": "おとうとは まいにち ゲームばかり して います。", "romaji": "otouto wa mainichi geemu bakari shite imasu.", "ta": "தம்பி தினமும் வீடியோ கேம் மட்டுமே விளையாடுகிறான்.", "en": "My younger brother plays nothing but games every day." },
+        { "ja": "妹は甘い物ばかり食べています。", "reading": "いもうとは あまい ものばかり たべて います。", "romaji": "imouto wa amai mono bakari tabete imasu.", "ta": "தங்கை இனிப்புகளை மட்டுமே சாப்பிடுகிறாள்.", "en": "My younger sister eats nothing but sweets." },
+        { "ja": "寝てばかりいないで、少し運動しなさい。", "reading": "ねて ばかり いないで、すこし うんどうしなさい。", "romaji": "nete bakari inaide, sukoshi undou shinasai.", "ta": "தூங்கிக்கொண்டே இருக்காமல் கொஞ்சம் உடற்பயிற்சி செய்.", "en": "Stop sleeping all the time and get some exercise." },
+        { "ja": "彼は遊んでばかりいて、全然練習しません。", "reading": "かれは あそんで ばかり いて、ぜんぜん れんしゅうしません。", "romaji": "kare wa asonde bakari ite, zenzen renshuu shimasen.", "ta": "அவன் விளையாடிக்கொண்டே இருக்கிறான், பயிற்சியே செய்வதில்லை.", "en": "He does nothing but play and never practises." },
+        { "ja": "試合に負けてから、田中君は泣いてばかりいます。", "reading": "しあいに まけて から、たなかくんは ないて ばかり います。", "romaji": "shiai ni makete kara, tanaka-kun wa naite bakari imasu.", "ta": "போட்டியில் தோற்றதிலிருந்து தனாகா அழுதுகொண்டே இருக்கிறான்.", "en": "Since losing the match, Tanaka has done nothing but cry." },
+        { "ja": "休みの日も、テレビを見てばかりいるんですか。", "reading": "やすみの ひも、テレビを みて ばかり いるんですか。", "romaji": "yasumi no hi mo, terebi o mite bakari iru n desu ka.", "ta": "விடுமுறை நாளிலும் டிவி பார்த்துக்கொண்டே இருக்கிறீர்களா?", "en": "Do you just watch TV all day on your days off too?" }
+      ],
+      "pitfalls_en": "Do not confuse 食べてばかりいる (always eating) with 食べたばかり (just ate). Also, it sounds critical, so do not use it to praise someone.",
+      "pitfalls_ta": "食べてばかりいる (எப்போதும் சாப்பிடுகிறான்), 食べたばかり (இப்போதுதான் சாப்பிட்டான்) இரண்டையும் குழப்ப வேண்டாம். இது குறை சொல்லும் தொனி என்பதால் பாராட்டப் பயன்படுத்தக்கூடாது."
+    },
+    {
+      "id": "g25-4",
+      "pattern": "quantity + ずつ",
+      "name": { "en": "… each, … at a time", "ta": "ஒவ்வொன்றுக்கும் … வீதம்" },
+      "explanation_en": "Quantity + ずつ means \"… each\" or \"… at a time\". 一人に二枚ずつ = two sheets for each person. 毎日五つずつ = five every day. 少しずつ means \"little by little\". It shows that the same amount repeats or is shared out equally.",
+      "explanation_ta": "அளவு + ずつ = 'ஒவ்வொருவருக்கும் … வீதம்', 'ஒவ்வொரு முறையும் … அளவு'. 一人に二枚ずつ = ஒவ்வொருவருக்கும் இரண்டு தாள் வீதம்; 毎日五つずつ = தினமும் ஐந்து ஐந்தாக. 少しずつ = கொஞ்சம் கொஞ்சமாக. ஒரே அளவு மீண்டும் மீண்டும் வருவதை அல்லது சமமாகப் பகிர்வதைக் காட்டும். தமிழில் 'இரண்டு இரண்டாக', 'வீதம்' என்பதற்கு நேர் இணை.",
+      "tamil_parallel": "毎日漢字を五つずつ覚えます = தினமும் ஐந்து ஐந்து கான்ஜியாக மனப்பாடம் செய்கிறேன்.",
+      "tamil_parallel_en": "毎日漢字を五つずつ覚えます = \"I learn five kanji each day\" (தினமும் ஐந்து ஐந்தாக).",
+      "formation": "எண் + அலகு (counter) + ずつ\nいつつずつ、にまいずつ、じゅっページずつ\nすこしずつ (கொஞ்சம் கொஞ்சமாக)",
+      "formation_en": "number + counter + ずつ\nいつつずつ、にまいずつ、じゅっページずつ\nすこしずつ (little by little)",
+      "examples": [
+        { "ja": "毎日漢字を五つずつ覚えています。", "reading": "まいにち かんじを いつつずつ おぼえて います。", "romaji": "mainichi kanji o itsutsu zutsu oboete imasu.", "ta": "தினமும் ஐந்து ஐந்து கான்ஜியாக மனப்பாடம் செய்கிறேன்.", "en": "I memorise five kanji every day." },
+        { "ja": "一人に二枚ずつ紙を配ります。", "reading": "ひとりに にまいずつ かみを くばります。", "romaji": "hitori ni nimai zutsu kami o kubarimasu.", "ta": "ஒவ்வொருவருக்கும் இரண்டு தாள் வீதம் கொடுக்கிறேன்.", "en": "I'll hand out two sheets of paper to each person." },
+        { "ja": "少しずつ日本語が上手になりました。", "reading": "すこしずつ にほんごが じょうずに なりました。", "romaji": "sukoshi zutsu nihongo ga jouzu ni narimashita.", "ta": "கொஞ்சம் கொஞ்சமாக ஜப்பானிய மொழி முன்னேறியது.", "en": "My Japanese got better little by little." },
+        { "ja": "ボールは一人一つずつ取ってください。", "reading": "ボールは ひとり ひとつずつ とって ください。", "romaji": "booru wa hitori hitotsu zutsu totte kudasai.", "ta": "பந்தை ஒவ்வொருவரும் ஒன்று வீதம் எடுத்துக்கொள்ளுங்கள்.", "en": "Please take one ball each." },
+        { "ja": "この本は難しいので、毎日十ページずつ読んでいます。", "reading": "この ほんは むずかしいので、まいにち じゅっページずつ よんで います。", "romaji": "kono hon wa muzukashii node, mainichi juppeeji zutsu yonde imasu.", "ta": "இந்தப் புத்தகம் கடினம் என்பதால் தினமும் பத்துப் பத்துப் பக்கங்களாகப் படிக்கிறேன்.", "en": "This book is hard, so I read ten pages a day." }
+      ],
+      "pitfalls_en": "ずつ comes right after the number and counter: 二枚ずつ, not ずつ二枚. Do not use it with a total amount that is not repeated.",
+      "pitfalls_ta": "ずつ எண் + அலகுக்கு உடனே பின் வரும்: 二枚ずつ சரி, ずつ二枚 தவறு. மீண்டும் வராத மொத்த அளவுக்கு ずつ பயன்படுத்தக்கூடாது."
+    },
+    {
+      "id": "g25-5",
+      "pattern": "number + おきに / ごとに",
+      "name": { "en": "Every other … / every …", "ta": "… விட்டு / ஒவ்வொரு …" },
+      "explanation_en": "Number + ごとに means \"every …\": 四年ごとに (every four years). Number + おきに means \"with a gap of …\". With days and things, the meaning is different. 一日ごとに = every day. 一日おきに = every other day (skip one day). With time and distance, they mean about the same: 十分おきに ≈ 十分ごとに (every ten minutes).",
+      "explanation_ta": "எண் + ごとに = 'ஒவ்வொரு …-க்கும்': 四年ごとに (நான்கு ஆண்டுகளுக்கு ஒருமுறை). எண் + おきに = '… இடைவெளி விட்டு'. நாட்கள், பொருட்களுடன் பொருள் மாறும்: 一日ごとに = ஒவ்வொரு நாளும்; 一日おきに = ஒருநாள் விட்டு ஒருநாள் (திங்கள், புதன், வெள்ளி). நேரம், தூரம் ஆகியவற்றுடன் இரண்டும் கிட்டத்தட்ட ஒன்றே: 十分おきに ≈ 十分ごとに (பத்து நிமிடத்துக்கு ஒருமுறை).",
+      "tamil_parallel": "一日おきに = ஒருநாள் விட்டு ஒருநாள்; 四年ごとに = நான்கு ஆண்டுகளுக்கு ஒருமுறை.",
+      "tamil_parallel_en": "一日おきに = \"every other day\" (ஒருநாள் விட்டு ஒருநாள்). 四年ごとに = \"every four years\" (நான்கு ஆண்டுகளுக்கு ஒருமுறை).",
+      "formation": "எண் + அலகு + おきに (இடைவெளி விட்டு)\nいちにちおきに、いちぎょうおきに\nஎண் + அலகு + ごとに (ஒவ்வொரு)\nよねんごとに、さんじかんごとに\nநேரம் / தூரம்: じゅっぷんおきに ≈ じゅっぷんごとに",
+      "formation_en": "number + counter + おきに (with a gap of)\nいちにちおきに、いちぎょうおきに\nnumber + counter + ごとに (every)\nよねんごとに、さんじかんごとに\ntime / distance: じゅっぷんおきに ≈ じゅっぷんごとに",
+      "examples": [
+        { "ja": "一日おきにプールで泳いでいます。", "reading": "いちにちおきに プールで およいで います。", "romaji": "ichinichi oki ni puuru de oyoide imasu.", "ta": "ஒருநாள் விட்டு ஒருநாள் நீச்சல் குளத்தில் நீந்துகிறேன்.", "en": "I swim at the pool every other day." },
+        { "ja": "このバスは十分おきに来ます。", "reading": "この バスは じゅっぷんおきに きます。", "romaji": "kono basu wa juppun oki ni kimasu.", "ta": "இந்த பஸ் பத்து நிமிடத்துக்கு ஒருமுறை வரும்.", "en": "This bus comes every ten minutes." },
+        { "ja": "この薬は六時間ごとに飲んでください。", "reading": "この くすりは ろくじかんごとに のんで ください。", "romaji": "kono kusuri wa rokujikan goto ni nonde kudasai.", "ta": "இந்த மருந்தை ஆறு மணி நேரத்துக்கு ஒருமுறை சாப்பிடுங்கள்.", "en": "Please take this medicine every six hours." },
+        { "ja": "作文は一行おきに書いてください。", "reading": "さくぶんは いちぎょうおきに かいて ください。", "romaji": "sakubun wa ichigyou oki ni kaite kudasai.", "ta": "கட்டுரையை ஒரு வரி விட்டு ஒரு வரியில் எழுதுங்கள்.", "en": "Please write your essay on every other line." },
+        { "ja": "オリンピックは四年ごとに行われます。", "reading": "オリンピックは よねんごとに おこなわれます。", "romaji": "orinpikku wa yonen goto ni okonawaremasu.", "ta": "ஒலிம்பிக் போட்டிகள் நான்கு ஆண்டுகளுக்கு ஒருமுறை நடைபெறும்.", "en": "The Olympics are held every four years." },
+        { "ja": "道の両側に、五メートルおきに木が植えてあります。", "reading": "みちの りょうがわに、ごメートルおきに きが うえて あります。", "romaji": "michi no ryougawa ni, gomeetoru oki ni ki ga uete arimasu.", "ta": "சாலையின் இருபுறமும் ஐந்து மீட்டர் இடைவெளியில் மரங்கள் நடப்பட்டுள்ளன.", "en": "Trees are planted every five metres on both sides of the road." }
+      ],
+      "pitfalls_en": "一日おき is not \"every day\". It means Monday, Wednesday, Friday and so on. For every day, say 毎日 or 一日ごとに.",
+      "pitfalls_ta": "一日おき என்றால் 'தினமும்' அல்ல; திங்கள், புதன், வெள்ளி என்று ஒருநாள் விட்டு ஒருநாள். தினமும் என்பதற்கு 毎日 அல்லது 一日ごとに."
+    }
+  ],
+  "vocab_ids": ["n4-v-030", "n4-v-061", "n4-v-156", "n4-v-157", "n4-v-159", "n4-v-190", "n4-v-202", "n4-v-214", "n4-v-362", "n4-v-469", "n4-v-479", "n4-v-528", "n4-v-536", "n4-v-563", "n4-v-596", "n4-v-598", "n4-v-631", "n4-v-639"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L25-q01", "type": "kanji_reading", "sentence": "昨日の ＿試合＿に 負けて、残念でした。", "target": "試合", "options": ["しごう", "しかい", "じあい", "しあい"], "answer": 3, "explanation_ta": "試合 = しあい (போட்டி). 合 இங்கே あい (会う போல). しかい என்பது 司会 (நிகழ்ச்சி நடத்துபவர்).", "explanation_en": "試合 = しあい (போட்டி, match). Here 合 is あい. しかい is 司会 (host of an event)." },
+      { "id": "L25-q02", "type": "kanji_reading", "sentence": "毎朝 ＿水泳＿の 練習を します。", "target": "水泳", "options": ["すいえい", "すいよう", "みずおよぎ", "すえい"], "answer": 0, "explanation_ta": "水泳 = すいえい (நீச்சல்). すいよう என்பது 水曜 (புதன்கிழமை); 泳 = えい.", "explanation_en": "水泳 = すいえい (நீச்சல், swimming). すいよう is 水曜 (Wednesday). 泳 is えい." },
+      { "id": "L25-q03", "type": "kanji_reading", "sentence": "クラブの ＿先輩＿は とても 厳しいです。", "target": "先輩", "options": ["せんばい", "せんぱい", "せんはい", "さきぱい"], "answer": 1, "explanation_ta": "先輩 = せんぱい (சீனியர்). ん-க்குப் பின் は → ぱ (handakuten). せんばい தவறு.", "explanation_en": "先輩 = せんぱい (சீனியர், senior). After ん, は becomes ぱ. せんばい is wrong." },
+      { "id": "L25-q04", "type": "orthography", "sentence": "次の 試合では ぜったいに ＿かちたい＿です。", "target": "かちたい", "options": ["価ちたい", "活ちたい", "勝ちたい", "割ちたい"], "answer": 2, "explanation_ta": "かつ = 勝つ (வெல்ல). 価, 活 ஆகியவை か / かつ என்று ஒலிக்கும் வேறு கான்ஜிகள்.", "explanation_en": "かつ = 勝つ (வெல்ல, win). 価 and 活 are other kanji with the sound か / かつ." },
+      { "id": "L25-q05", "type": "orthography", "sentence": "重い 荷物を 持って、＿うで＿が 痛く なりました。", "target": "うで", "options": ["碗", "腕", "椀", "腹"], "answer": 1, "explanation_ta": "うで = 腕 (கை, புஜம்). உடல் உறுப்புகள் 月 (肉) பகுதியுடன் வரும்; 碗, 椀 'கிண்ணம்' (わん).", "explanation_en": "うで = 腕 (கை, arm). Body parts have the 月 part on the left. 碗 and 椀 mean bowl (わん)." },
+      { "id": "L25-q06", "type": "vocab_context", "sentence": "弟は ボールを 遠くまで （　　）。", "options": ["負けました", "頑張りました", "勝ちました", "投げました"], "answer": 3, "explanation_ta": "பந்தை வெகுதூரம் → 投げました (எறிந்தான்). 負ける, 勝つ ஆகியவை போட்டியின் முடிவைக் குறிக்கும், பந்தை அல்ல.", "explanation_en": "A ball, a long way → 投げました (எறிந்தான், threw). 負ける and 勝つ are about the result of a match, not a ball." },
+      { "id": "L25-q07", "type": "vocab_context", "sentence": "テニスの 試合で 3対1で （　　）、とても うれしかったです。", "options": ["負けて", "勝って", "打って", "投げて"], "answer": 1, "explanation_ta": "மகிழ்ச்சியாக இருந்தது → வென்றேன் → 勝って. 負けて (தோற்று) என்றால் மகிழ்ச்சியுடன் பொருந்தாது.", "explanation_en": "\"I was very happy\" → I won → 勝って (வென்று). 負けて (lost) does not match being happy." },
+      { "id": "L25-q08", "type": "vocab_context", "sentence": "田中さんは 毎日 （　　）に 練習して います。", "options": ["熱心", "力", "競争", "水泳"], "answer": 0, "explanation_ta": "〜に + வினை → な-பெயரடை வேண்டும் → 熱心に (ஆர்வத்துடன்). 力, 競争 பெயர்ச்சொற்கள்; に-உடன் இந்தப் பொருள் வராது.", "explanation_en": "〜に + verb needs a な-adjective → 熱心に (ஆர்வத்துடன், keenly). 力 and 競争 are nouns and do not work this way." },
+      { "id": "L25-q09", "type": "vocab_context", "sentence": "兄は （　　）が 強くて、重い 物も 簡単に 持てます。", "options": ["試合", "先輩", "力", "柔道"], "answer": 2, "explanation_ta": "கனமானதைத் தூக்க முடியும் → 力が強い (வலிமையானவர்). 柔道が強い என்றால் 'ஜூடோவில் திறமையானவர்'; தூக்குவதற்குப் பொருந்தாது.", "explanation_en": "Can lift heavy things → 力が強い (strong). 柔道が強い means \"good at judo\". It does not explain lifting." },
+      { "id": "L25-q10", "type": "vocab_context", "sentence": "クラスで だれが いちばん 速く 走れるか、（　　）しました。", "options": ["運動", "練習", "試合", "競争"], "answer": 3, "explanation_ta": "யார் வேகம் என்று பார்க்க ஓடுவது → 競争 (போட்டி போடுதல்). 運動 பொதுவான உடற்பயிற்சி; 'யார் முதல்' என்ற பொருள் இல்லை.", "explanation_en": "Running to see who is fastest → 競争 (போட்டி, a race). 運動 is general exercise. It has no \"who is first\" meaning." },
+      { "id": "L25-q11", "type": "paraphrase", "sentence": "私は 先輩に 一時間 走らされました。", "options": ["先輩は 私を 一時間 走らせました。", "私は 先輩を 一時間 走らせました。", "先輩は 一時間 走りました。", "私は 先輩と 一時間 走りたかったです。"], "answer": 0, "explanation_ta": "走らされました = சீனியர் என்னை ஓட வைத்தார் = 先輩は私を走らせました. இரண்டாவது தேர்வில் நான் சீனியரை ஓட வைத்தேன்; திசை தலைகீழ்.", "explanation_en": "走らされました = my senior made me run = 先輩は私を走らせました. In the second option I made my senior run. It is the wrong way round." },
+      { "id": "L25-q12", "type": "paraphrase", "sentence": "弟は ゲームばかり して います。", "options": ["弟は ゲームを した ことが ありません。", "弟は ゲームを 少しだけ します。", "弟は いつも ゲームを して います。", "弟は ゲームを した ばかりです。"], "answer": 2, "explanation_ta": "ゲームばかり = எப்போதும் வீடியோ கேம் மட்டுமே → いつもゲームをしています. したばかり 'இப்போதுதான் விளையாடினான்' என்ற வேறு பொருள்.", "explanation_en": "ゲームばかり = nothing but games → いつもゲームをしています (always playing). したばかり means \"just played\". That is a different meaning." },
+      { "id": "L25-q13", "type": "usage", "sentence": "頑張る", "options": ["この ボールは とても 頑張ります。", "明日の 試合、頑張って ください。", "先生に 宿題を 頑張りました。", "暑いので、窓を 頑張って ください。"], "answer": 1, "explanation_ta": "頑張る = மனிதர் முழு முயற்சி செய்வது; 試合、頑張ってください சரி. பந்து, ஜன்னல் போன்ற பொருட்கள் முயற்சி செய்யாது.", "explanation_en": "頑張る (முயற்சி செய்ய) = a person tries hard. 試合、頑張ってください is right. A ball or a window cannot try." },
+      { "id": "L25-q14", "type": "usage", "sentence": "おき", "options": ["毎朝 おきに 走ります。", "私は 先輩おきに 練習します。", "テニスを 三回おき しました。", "この バスは 十分おきに 来ます。"], "answer": 3, "explanation_ta": "おき எண் + அலகுக்குப் பின் வந்து, に உடன் இடைவெளியைக் காட்டும்: 十分おきに சரி. தனியாகவோ மனிதர் பெயருக்குப் பின்னோ வராது.", "explanation_en": "おき comes after a number and counter, with に, to show a gap: 十分おきに is right. It cannot stand alone or follow a person." },
+      { "id": "L25-q15", "type": "grammar_form", "sentence": "子どもの とき、野菜が 嫌いでしたが、毎日 母に 野菜を （　　）。", "options": ["食べさせました", "食べられました", "食べさせられました", "食べて もらいました"], "answer": 2, "explanation_ta": "பிடிக்காததை அம்மா கட்டாயப்படுத்திச் சாப்பிட வைத்தார் → 食べさせられました. 食べさせました என்றால் 'நான் (யாரையோ) சாப்பிட வைத்தேன்'.", "explanation_en": "I hated them, but my mother forced me → 食べさせられました (was made to eat). 食べさせました means \"I made someone eat\"." },
+      { "id": "L25-q16", "type": "grammar_form", "sentence": "駅で 友だちに 一時間も （　　）。", "options": ["待ちされました", "待たされました", "待たせました", "待たれました"], "answer": 1, "explanation_ta": "நண்பர் என்னைக் காக்க வைத்தார் → 待つ → 待たされました (சுருக்க வடிவம்). 待たせました என்றால் நான் நண்பரைக் காக்க வைத்தேன்.", "explanation_en": "My friend kept me waiting → 待つ → 待たされました (short form). 待たせました means I kept my friend waiting." },
+      { "id": "L25-q17", "type": "grammar_form", "sentence": "先生に みんなの 前で 自分の 夢を （　　）。", "options": ["話さされました", "話されました", "話しさせられました", "話させられました"], "answer": 3, "explanation_ta": "話す (す-வினை) சுருக்க வடிவம் எடுக்காது → 話させられました. 話さされました என்பது பொதுவான தவறு.", "explanation_en": "話す is a す-verb, so it has no short form → 話させられました. 話さされました is a common mistake." },
+      { "id": "L25-q18", "type": "grammar_form", "sentence": "弟は 遊んで （　　）いて、全然 勉強しません。", "options": ["ばかり", "ずつ", "ごと", "ところ"], "answer": 0, "explanation_ta": "'விளையாடிக்கொண்டே இருக்கிறான்' என்ற குறை → てばかりいて. ているところ இந்த நொடி மட்டும்; 全然勉強しません உடன் பொருந்தாது.", "explanation_en": "A complaint: \"he does nothing but play\" → てばかりいて. ているところ is only this moment. It does not fit 全然勉強しません." },
+      { "id": "L25-q19", "type": "grammar_form", "sentence": "毎日 漢字を 五つ（　　）覚えます。", "options": ["ばかり", "ずつ", "おきに", "ごとに"], "answer": 1, "explanation_ta": "தினமும் ஒரே அளவு (ஐந்து) → 五つずつ. おきに / ごとに நேரம், இடைவெளிக்கு; எண்ணிக்கை வீதத்துக்கு அல்ல.", "explanation_en": "The same amount (five) every day → 五つずつ (five each day). おきに and ごとに are for time gaps, not amounts." },
+      { "id": "L25-q20", "type": "grammar_form", "sentence": "この 薬は 六時間（　　）飲んで ください。", "options": ["ずつ", "ばかり", "ごとに", "しか"], "answer": 2, "explanation_ta": "ஆறு மணி நேரத்துக்கு ஒருமுறை → 六時間ごとに. ずつ அளவு வீதத்துக்கு (二錠ずつ); நேர இடைவெளிக்கு அல்ல.", "explanation_en": "Once every six hours → 六時間ごとに. ずつ is for amounts (two pills each), not time gaps." },
+      { "id": "L25-q21", "type": "grammar_form", "sentence": "プールへは 一日（　　）に 行きます。月曜日、水曜日、金曜日です。", "options": ["おき", "ごと", "ずつ", "ばかり"], "answer": 0, "explanation_ta": "திங்கள், புதன், வெள்ளி = ஒருநாள் விட்டு ஒருநாள் → 一日おきに. 一日ごとに என்றால் தினமும்; நாட்கள் பட்டியலுடன் பொருந்தாது.", "explanation_en": "Monday, Wednesday, Friday = every other day → 一日おきに. 一日ごとに means every day, which does not match the list." },
+      { "id": "L25-q22", "type": "sentence_order", "before": "私は 先輩に", "chunks": ["重い", "荷物を", "持た", "されました"], "star": 1, "after": "。", "explanation_ta": "重い → 荷物を (கனமான சுமையை) → 持た + されました (தூக்க வைக்கப்பட்டேன்).", "explanation_en": "重い → 荷物を (heavy bags) → 持た + されました (was made to carry)." },
+      { "id": "L25-q23", "type": "sentence_order", "before": "寝て", "chunks": ["ばかり", "いないで", "少し", "運動しなさい"], "star": 1, "after": "。", "explanation_ta": "寝て + ばかり + いないで (தூங்கிக்கொண்டே இருக்காமல்) → 少し → 運動しなさい (கொஞ்சம் உடற்பயிற்சி செய்).", "explanation_en": "寝て + ばかり + いないで (stop sleeping all the time) → 少し → 運動しなさい (get some exercise)." },
+      { "id": "L25-q24", "type": "sentence_order", "before": "毎日", "chunks": ["新しい", "言葉を", "十個", "ずつ"], "star": 2, "after": "覚えます。", "explanation_ta": "新しい → 言葉を (புதிய சொற்களை) → 十個 → ずつ (பத்துப் பத்தாக) → 覚えます. ずつ எண்ணுக்கு உடனே பின் வரும்.", "explanation_en": "新しい → 言葉を (new words) → 十個 → ずつ (ten each day) → 覚えます. ずつ comes right after the number." },
+      { "id": "L25-q25", "type": "passage_cloze", "passage": "高校の とき、私は テニス部に 入って いました。先輩は とても 厳しくて、一年生は 毎朝 グラウンドを 十周 走ら［1］。試合に 出られない 一年生は、ボールを 拾って［2］いました。でも、一日［3］に 先輩が 練習を 見て くれたので、だんだん 上手に なりました。", "blanks": [
+        { "options": ["せました", "れました", "されました", "ました"], "answer": 2 },
+        { "options": ["ずつ", "ばかり", "ごと", "おき"], "answer": 1 },
+        { "options": ["ずつ", "ばかり", "しか", "おき"], "answer": 3 }
+      ], "explanation_ta": "［1］ ஒன்றாம் ஆண்டு மாணவர்கள் சீனியர்களால் ஓட வைக்கப்பட்டார்கள் → 走らされました. 走らせました என்றால் அவர்கள் பிறரை ஓட வைத்தார்கள். ［2］ பந்து எடுப்பது மட்டுமே → 拾ってばかりいました. ［3］ ஒருநாள் விட்டு ஒருநாள் → 一日おきに.", "explanation_en": "[1] The first-years were made to run by the seniors → 走らされました. 走らせました would mean they made others run. [2] Nothing but picking up balls → 拾ってばかりいました. [3] Every other day → 一日おきに." }
+    ]
+  }
+}

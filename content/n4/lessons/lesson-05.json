@@ -1,0 +1,652 @@
+{
+  "lesson": 5,
+  "title": {
+    "ja": "準備しておきます",
+    "ta": "முன்கூட்டியே தயார் செய்கிறேன்",
+    "en": "I'll get it ready in advance"
+  },
+  "intro_ta": "பயணத்துக்கோ விருந்துக்கோ தயாராகும்போது நிறைய வேலைகள்: முன்பதிவு, பெட்டியில் பொருட்களை வைப்பது, அரங்கை அலங்கரிப்பது, விமான நிலையத்தில் நண்பரை வரவேற்பது. இந்தப் பாடத்தில் 〜てあります என்று 'யாரோ வேண்டுமென்றே செய்து வைத்த நிலை'யை விவரிக்கக் கற்போம் (花が飾ってあります). 〜ておきます என்று 'முன்கூட்டியே செய்து வைப்பது', 'அப்படியே விட்டுவைப்பது' என்ற இரண்டு பொருள்களையும் கற்போம். まだ〜ています என்று 'இன்னும் செய்துகொண்டிருக்கிறேன்' என்று சொல்லவும் பழகுவோம்.",
+  "intro_en": "Getting ready for a trip or a party means lots of jobs. You book, pack your suitcase, decorate the hall and meet a friend at the airport. In this lesson you will learn 〜てあります. It describes a state that someone made on purpose (花が飾ってあります, flowers have been put out). You will learn two meanings of 〜ておきます: \"do it in advance\" and \"leave it as it is\". You will also say \"still doing\" with まだ〜ています.",
+  "grammar": [
+    {
+      "id": "g05-1",
+      "pattern": "N が Vt-てあります",
+      "name": {
+        "en": "Has been done (on purpose): 〜てあります",
+        "ta": "〜てあります: (வேண்டுமென்றே) செய்து வைக்கப்பட்டிருக்கிறது"
+      },
+      "explanation_ta": "பிறவினையின் て-வடிவம் + あります என்றால், யாரோ ஒரு நோக்கத்துடன் ஒன்றைச் செய்தார்கள், அதன் விளைவு இப்போதும் அப்படியே இருக்கிறது என்று பொருள். 花が飾ってあります = 'பூக்கள் அலங்காரமாக வைக்கப்பட்டிருக்கின்றன'. தமிழில் 'வைக்கப்பட்டிருக்கிறது', 'ஒட்டப்பட்டிருக்கிறது', 'செய்து வைத்திருக்கிறோம்' என்பது போல. பொருள் பொதுவாக が பெறும் (தலைப்பாக は). பாடம் 4-இல் கற்ற 〜が〜ています (தன்வினை: 窓が開いています) இயல்பான நிலையை மட்டும் சொல்லும்; 〜てあります (பிறவினை: 窓が開けてあります) 'யாரோ வேண்டுமென்றே திறந்து வைத்தார்கள்' என்ற நோக்கத்தையும் காட்டும். பயணம், விருந்து போன்றவற்றுக்கான தயாரிப்பு முடிந்ததைச் சொல்ல மிகவும் பயன்படும் (ホテルは予約してあります).",
+      "explanation_en": "\"Someone does it\" verb (て-form) + あります means: someone did it on purpose, and the result is still there. 花が飾ってあります means \"flowers have been put out (for decoration)\". Tamil says வைக்கப்பட்டிருக்கிறது (has been placed) or செய்து வைத்திருக்கிறோம் (we have done it, ready). The thing usually takes が (or は as the topic). In Lesson 4, 〜が〜ています with an \"it happens\" verb (窓が開いています) only describes the state. 〜てあります with a \"someone does it\" verb (窓が開けてあります) also shows someone did it on purpose. It is very useful to say preparations are done: ホテルは予約してあります.",
+      "tamil_parallel": "மேசை மேல் பூக்கள் வைக்கப்பட்டிருக்கின்றன = 机の上に花が飾ってあります",
+      "tamil_parallel_en": "\"Flowers have been placed on the desk\" (மேசை மேல் பூக்கள் வைக்கப்பட்டிருக்கின்றன) = 机の上に花が飾ってあります.",
+      "formation": "N + が + பிறவினை て-வடிவம் + あります\n飾る → 花が飾ってあります\n予約する → ホテルは予約してあります\nஒப்பிடுக: 窓が開いています (தன்வினை, நிலை மட்டும்)\n         窓が開けてあります (பிறவினை, நோக்கத்துடன்)",
+      "formation_en": "N + が + \"someone does it\" verb て-form + あります\n飾る → 花が飾ってあります\n予約する → ホテルは予約してあります\nCompare: 窓が開いています (\"it happens\" verb, just the state)\n         窓が開けてあります (\"someone does it\" verb, done on purpose)",
+      "examples": [
+        {
+          "ja": "机の 上に 花が 飾って あります。",
+          "reading": "つくえの うえに はなが かざって あります。",
+          "romaji": "tsukue no ue ni hana ga kazatte arimasu.",
+          "ta": "மேசை மேல் பூக்கள் அலங்காரமாக வைக்கப்பட்டிருக்கின்றன.",
+          "en": "Flowers have been put on the desk."
+        },
+        {
+          "ja": "ホテルは もう 予約して あります。",
+          "reading": "ホテルは もう よやくして あります。",
+          "romaji": "hoteru wa mou yoyaku shite arimasu.",
+          "ta": "ஹோட்டல் ஏற்கனவே முன்பதிவு செய்யப்பட்டிருக்கிறது.",
+          "en": "The hotel has already been booked."
+        },
+        {
+          "ja": "壁に 地図が はって あります。",
+          "reading": "かべに ちずが はって あります。",
+          "romaji": "kabe ni chizu ga hatte arimasu.",
+          "ta": "சுவரில் வரைபடம் ஒட்டப்பட்டிருக்கிறது.",
+          "en": "A map has been put up on the wall."
+        },
+        {
+          "ja": "会場に いすが 並べて あります。",
+          "reading": "かいじょうに いすが ならべて あります。",
+          "romaji": "kaijou ni isu ga narabete arimasu.",
+          "ta": "அரங்கத்தில் நாற்காலிகள் வரிசையாக அடுக்கி வைக்கப்பட்டிருக்கின்றன.",
+          "en": "Chairs have been set out in rows in the hall."
+        },
+        {
+          "ja": "「窓が 開けて ありますね。」「ええ、暑いですから。」",
+          "reading": "「まどが あけて ありますね。」「ええ、あついですから。」",
+          "romaji": "\"mado ga akete arimasu ne.\" \"ee, atsui desu kara.\"",
+          "ta": "\"ஜன்னல் திறந்து வைக்கப்பட்டிருக்கிறதே.\" \"ஆமாம், வெப்பமாக இருப்பதால்.\"",
+          "en": "\"The window has been opened.\" \"Yes, because it's hot.\""
+        },
+        {
+          "ja": "冷蔵庫に ジュースが 冷やして ありますよ。",
+          "reading": "れいぞうこに ジュースが ひやして ありますよ。",
+          "romaji": "reizouko ni juusu ga hiyashite arimasu yo.",
+          "ta": "ஃப்ரிட்ஜில் ஜூஸ் குளிர வைக்கப்பட்டிருக்கிறது.",
+          "en": "There's juice chilling in the fridge."
+        }
+      ],
+      "pitfalls_ta": "〜てあります-க்குப் பிறவினை மட்டுமே (開ける, 飾る); 'ドアが開いてあります' தவறு. மேலும் '花が飾っています' என்று சொன்னால் 'பூக்கள் அலங்கரித்துக்கொண்டிருக்கின்றன' என்று விநோதமாகும்.",
+      "pitfalls_en": "〜てあります only uses \"someone does it\" verbs (開ける, 飾る). ドアが開いてあります is wrong. Also, 花が飾っています would mean \"the flowers are decorating\". That is strange."
+    },
+    {
+      "id": "g05-2",
+      "pattern": "V-ておきます (preparation)",
+      "name": {
+        "en": "Do in advance: 〜ておきます",
+        "ta": "〜ておきます: முன்கூட்டியே செய்து வைத்தல்"
+      },
+      "explanation_ta": "〜ておきます என்பதன் முதல் பொருள்: பின்னால் வரப்போகும் ஒன்றுக்காக இப்போதே தயார் செய்து வைப்பது. தமிழில் 'வாங்கி வைக்கிறேன்', 'முன்பதிவு செய்து வைக்கிறேன்', 'படித்து வைத்துக்கொள்ளுங்கள்' என்று 'வை' சேர்ப்பது போலவே! 〜の前に (〜க்கு முன்), までに (〜க்குள்), 明日 போன்ற நேரச் சொற்களுடன் அடிக்கடி வரும். 〜ておいてください (செய்து வையுங்கள்), 〜ておきましょうか (செய்து வைக்கட்டுமா?) என்ற வடிவங்களும் பயனுள்ளவை. பேச்சில் 〜とく என்று சுருங்கும் (買っておく → 買っとく).",
+      "explanation_en": "The first meaning of 〜ておきます: do something now, to be ready for later. Tamil adds \"வை\" in the same way: வாங்கி வைக்கிறேன் (I'll buy it and keep it ready), முன்பதிவு செய்து வைக்கிறேன் (I'll book it in advance). It often comes with 〜の前に (before ~), までに (by ~) or time words like 明日. 〜ておいてください (please do it in advance) and 〜ておきましょうか (shall I do it in advance?) are also useful. In casual speech it shrinks to 〜とく (買っておく → 買っとく).",
+      "tamil_parallel": "பயணத்துக்கு முன் ஹோட்டலை முன்பதிவு செய்து வைக்கிறேன் = 旅行の前に、ホテルを予約しておきます ('வை' = 〜ておく)",
+      "tamil_parallel_en": "\"Before the trip I'll book the hotel (and keep it ready)\" (பயணத்துக்கு முன் ஹோட்டலை முன்பதிவு செய்து வைக்கிறேன்) = 旅行の前に、ホテルを予約しておきます. Tamil \"வை\" = 〜ておく.",
+      "formation": "வினை て-வடிவம் + おきます\n予約する → 予約しておきます\n買う → 買っておきましょう\n調べる → 調べておいてください\nபேச்சில்: 〜ておく → 〜とく (買っとく)",
+      "formation_en": "Verb て-form + おきます\n予約する → 予約しておきます\n買う → 買っておきましょう\n調べる → 調べておいてください\nCasual: 〜ておく → 〜とく (買っとく)",
+      "examples": [
+        {
+          "ja": "旅行の 前に、ホテルを 予約して おきます。",
+          "reading": "りょこうの まえに、ホテルを よやくして おきます。",
+          "romaji": "ryokou no mae ni, hoteru o yoyaku shite okimasu.",
+          "ta": "பயணத்துக்கு முன் ஹோட்டலை முன்பதிவு செய்து வைப்பேன்.",
+          "en": "Before the trip, I'll book a hotel in advance."
+        },
+        {
+          "ja": "パーティーの 前に 飲み物を 買って おきましょう。",
+          "reading": "パーティーの まえに のみものを かって おきましょう。",
+          "romaji": "paatii no mae ni nomimono o katte okimashou.",
+          "ta": "விருந்துக்கு முன் குளிர்பானங்களை வாங்கி வைப்போம்.",
+          "en": "Let's buy drinks before the party."
+        },
+        {
+          "ja": "授業の 前に 新しい 言葉を 調べて おいて ください。",
+          "reading": "じゅぎょうの まえに あたらしい ことばを しらべて おいて ください。",
+          "romaji": "jugyou no mae ni atarashii kotoba o shirabete oite kudasai.",
+          "ta": "வகுப்புக்கு முன் புதிய சொற்களைத் தேடிப் பார்த்து வையுங்கள்.",
+          "en": "Please look up the new words before class."
+        },
+        {
+          "ja": "出発の 前に パスポートを チェックして おきました。",
+          "reading": "しゅっぱつの まえに パスポートを チェックして おきました。",
+          "romaji": "shuppatsu no mae ni pasupooto o chekku shite okimashita.",
+          "ta": "புறப்படுவதற்கு முன் கடவுச்சீட்டைச் சரிபார்த்து வைத்தேன்.",
+          "en": "I checked my passport before leaving."
+        },
+        {
+          "ja": "明日 お客さんが 来るので、部屋を 掃除して おきます。",
+          "reading": "あした おきゃくさんが くるので、へやを そうじして おきます。",
+          "romaji": "ashita okyakusan ga kuru node, heya o souji shite okimasu.",
+          "ta": "நாளை விருந்தினர் வருவதால் அறையைச் சுத்தம் செய்து வைப்பேன்.",
+          "en": "A guest is coming tomorrow, so I'll clean the room beforehand."
+        },
+        {
+          "ja": "「ビールを 冷やして おきましょうか。」「ええ、お願いします。」",
+          "reading": "「ビールを ひやして おきましょうか。」「ええ、おねがいします。」",
+          "romaji": "\"biiru o hiyashite okimashou ka.\" \"ee, onegai shimasu.\"",
+          "ta": "\"பீரைக் குளிர வைக்கட்டுமா?\" \"ஆமாம், தயவுசெய்து.\"",
+          "en": "\"Shall I chill the beer?\" \"Yes, please.\""
+        }
+      ],
+      "pitfalls_ta": "〜ておきます (நான் இப்போது தயார் செய்கிறேன், செய்பவர் மையம், を) மற்றும் 〜てあります (ஏற்கனவே தயார் நிலையில் உள்ளது, பொருள் மையம், が) இரண்டையும் குழப்ப வேண்டாம்: ホテルを予約しておきます → (பின்னர்) ホテルが予約してあります.",
+      "pitfalls_en": "Don't mix up 〜ておきます and 〜てあります. 〜ておきます is about the person doing it now (with を). 〜てあります is about the thing that is already ready (with が). ホテルを予約しておきます → later: ホテルが予約してあります."
+    },
+    {
+      "id": "g05-3",
+      "pattern": "V-ておきます (leave as it is)",
+      "name": {
+        "en": "Leave it as it is: 〜ておきます",
+        "ta": "〜ておきます: அப்படியே விட்டுவைத்தல்"
+      },
+      "explanation_ta": "〜ておきます-இன் இரண்டாவது பொருள்: ஒன்றை மாற்றாமல் அப்படியே விட்டுவைப்பது, அல்லது பயன்படுத்திய பின் அதற்குரிய இடத்தில் வைப்பது. 'ஜன்னலை மூடட்டுமா?' என்று கேட்டால் 'வேண்டாம், திறந்தே வையுங்கள்' = 開けておいてください. தமிழிலும் 'திறந்தே வையுங்கள்', 'அப்படியே விடுங்கள்' என்று சொல்கிறோம். 'அப்படியே' என்பதற்கு そのまま; 'அப்படியே விடுங்கள்' = そのままにしておいてください. பெரும்பாலும் 〜ておいてください, 〜ておいてもいいですか என்ற வடிவங்களில் வரும்.",
+      "explanation_en": "The second meaning of 〜ておきます: leave something as it is, or put it back in its place after use. Someone asks, \"Shall I close the window?\" You say, \"No, leave it open\" = 開けておいてください. Tamil says the same: திறந்தே வையுங்கள் (keep it open). \"As it is\" is そのまま. \"Leave it as it is\" = そのままにしておいてください. It often comes as 〜ておいてください or 〜ておいてもいいですか.",
+      "tamil_parallel": "வேண்டாம், ஜன்னலைத் திறந்தே வையுங்கள் = いいえ、窓を開けておいてください; அப்படியே விடுங்கள் = そのままにしておいてください",
+      "tamil_parallel_en": "\"No, keep the window open\" (வேண்டாம், ஜன்னலைத் திறந்தே வையுங்கள்) = いいえ、窓を開けておいてください. \"Leave it as it is\" (அப்படியே விடுங்கள்) = そのままにしておいてください.",
+      "formation": "வினை て-வடிவம் + おいてください (அப்படியே வையுங்கள்)\n開ける → 開けておいてください\nそのままにする → そのままにしておいてください\n置く → 置いておいてもいいですか",
+      "formation_en": "Verb て-form + おいてください (please leave it so)\n開ける → 開けておいてください\nそのままにする → そのままにしておいてください\n置く → 置いておいてもいいですか",
+      "examples": [
+        {
+          "ja": "「窓を 閉めましょうか。」「いいえ、暑いですから、開けて おいて ください。」",
+          "reading": "「まどを しめましょうか。」「いいえ、あついですから、あけて おいて ください。」",
+          "romaji": "\"mado o shimemashou ka.\" \"iie, atsui desu kara, akete oite kudasai.\"",
+          "ta": "\"ஜன்னலை மூடட்டுமா?\" \"வேண்டாம், வெப்பமாக இருப்பதால் திறந்தே வையுங்கள்.\"",
+          "en": "\"Shall I close the window?\" \"No, it's hot, so leave it open.\""
+        },
+        {
+          "ja": "はさみを 使ったら、元の 所に 戻して おいて ください。",
+          "reading": "はさみを つかったら、もとの ところに もどして おいて ください。",
+          "romaji": "hasami o tsukattara, moto no tokoro ni modoshite oite kudasai.",
+          "ta": "கத்தரிக்கோலைப் பயன்படுத்திய பிறகு, அது இருந்த இடத்திலேயே திரும்ப வையுங்கள்.",
+          "en": "After using the scissors, put them back where they were."
+        },
+        {
+          "ja": "いすは そのままに して おいて ください。後で 片付けます。",
+          "reading": "いすは そのままに して おいて ください。あとで かたづけます。",
+          "romaji": "isu wa sono mama ni shite oite kudasai. ato de katazukemasu.",
+          "ta": "நாற்காலிகளை அப்படியே விட்டுவிடுங்கள். பிறகு நான் எடுத்து வைக்கிறேன்.",
+          "en": "Leave the chairs as they are. I'll tidy them later."
+        },
+        {
+          "ja": "「テレビを 消しましょうか。」「いいえ、まだ 見て いますから、つけて おいて ください。」",
+          "reading": "「テレビを けしましょうか。」「いいえ、まだ みて いますから、つけて おいて ください。」",
+          "romaji": "\"terebi o keshimashou ka.\" \"iie, mada mite imasu kara, tsukete oite kudasai.\"",
+          "ta": "\"டிவியை அணைக்கட்டுமா?\" \"வேண்டாம், இன்னும் பார்த்துக்கொண்டிருக்கிறேன், ஓடவிடுங்கள்.\"",
+          "en": "\"Shall I turn off the TV?\" \"No, I'm still watching, so leave it on.\""
+        },
+        {
+          "ja": "荷物は ここに 置いて おいても いいですか。",
+          "reading": "にもつは ここに おいて おいても いいですか。",
+          "romaji": "nimotsu wa koko ni oite oite mo ii desu ka.",
+          "ta": "சாமான்களை இங்கேயே வைத்துவிட்டுப் போகலாமா?",
+          "en": "May I leave my bags here?"
+        }
+      ],
+      "pitfalls_ta": "置いておく என்பதில் 置く-வும் おく-வும் இரண்டு முறை வருவது சரியே (置いておいてください). 'おいてください' என்று ஒரு முறை மட்டும் சொன்னால் 'வையுங்கள்' என்ற சாதாரணப் பொருள்தான் வரும்.",
+      "pitfalls_en": "In 置いておく, \"oku\" appears twice, and that is correct (置いておいてください). Just 置いてください only means \"please put it\"."
+    },
+    {
+      "id": "g05-4",
+      "pattern": "まだ V-ています",
+      "name": {
+        "en": "Still doing / still in that state",
+        "ta": "まだ〜ています: இன்னும் 〜கொண்டிருக்கிறது"
+      },
+      "explanation_ta": "まだ + 〜ています = 'இன்னும் செய்துகொண்டிருக்கிறது' அல்லது 'இன்னும் அதே நிலையில் இருக்கிறது'. எதிர்பார்த்த நேரம் தாண்டியும் ஒரு செயல் அல்லது நிலை தொடர்கிறது என்ற உணர்வு. செயல் வினையுடன்: まだ寝ています (இன்னும் தூங்கிக்கொண்டிருக்கிறார்); தன்வினையின் நிலையுடன்: 電気がまだ点いています (விளக்கு இன்னும் எரிகிறது). எதிர்ச்சொல் もう (ஏற்கனவே): もう起きています = ஏற்கனவே எழுந்துவிட்டார். 'இன்னும் செய்யவில்லை' (まだ〜ていません) அடுத்த பாடத்தில் வரும்.",
+      "explanation_en": "まだ + 〜ています means \"still doing\" or \"still in that state\". The action or state goes on, maybe longer than you expected. With an action: まだ寝ています (he is still sleeping). With a state: 電気がまだ点いています (the light is still on). The opposite is もう (already): もう起きています (he is already up). \"Not yet done\" (まだ〜ていません) comes in the next lesson.",
+      "tamil_parallel": "அப்பா இன்னும் தூங்கிக்கொண்டிருக்கிறார் = 父はまだ寝ています",
+      "tamil_parallel_en": "\"Father is still sleeping\" (அப்பா இன்னும் தூங்கிக்கொண்டிருக்கிறார்) = 父はまだ寝ています.",
+      "formation": "まだ + வினை て-வடிவம் + います\nசெயல்: まだ寝ています・まだ働いています\nநிலை: まだ点いています・まだ降っています\nஎதிர்: もう〜ています / もう〜ました",
+      "formation_en": "まだ + verb て-form + います\nAction: まだ寝ています・まだ働いています\nState: まだ点いています・まだ降っています\nOpposite: もう〜ています / もう〜ました",
+      "examples": [
+        {
+          "ja": "父は まだ 寝て います。",
+          "reading": "ちちは まだ ねて います。",
+          "romaji": "chichi wa mada nete imasu.",
+          "ta": "அப்பா இன்னும் தூங்கிக்கொண்டிருக்கிறார்.",
+          "en": "My father is still asleep."
+        },
+        {
+          "ja": "雨が まだ 降って いますね。",
+          "reading": "あめが まだ ふって いますね。",
+          "romaji": "ame ga mada futte imasu ne.",
+          "ta": "மழை இன்னும் பெய்துகொண்டிருக்கிறதே.",
+          "en": "It's still raining, isn't it?"
+        },
+        {
+          "ja": "十時ですが、会場の 電気が まだ 点いて います。",
+          "reading": "じゅうじですが、かいじょうの でんきが まだ ついて います。",
+          "romaji": "juuji desu ga, kaijou no denki ga mada tsuite imasu.",
+          "ta": "பத்து மணி ஆகிவிட்டது, ஆனால் அரங்கத்தின் விளக்குகள் இன்னும் எரிகின்றன.",
+          "en": "It's ten o'clock, but the lights in the hall are still on."
+        },
+        {
+          "ja": "「もう 準備は できましたか。」「いいえ、まだ スーツケースに 服を 入れて います。」",
+          "reading": "「もう じゅんびは できましたか。」「いいえ、まだ スーツケースに ふくを いれて います。」",
+          "romaji": "\"mou junbi wa dekimashita ka.\" \"iie, mada suutsukeesu ni fuku o irete imasu.\"",
+          "ta": "\"தயாராகிவிட்டீர்களா?\" \"இல்லை, இன்னும் பெட்டியில் துணிகளை வைத்துக்கொண்டிருக்கிறேன்.\"",
+          "en": "\"Are you ready yet?\" \"No, I'm still putting clothes in my suitcase.\""
+        },
+        {
+          "ja": "祖母は 八十歳ですが、まだ 働いて います。",
+          "reading": "そぼは はちじゅっさいですが、まだ はたらいて います。",
+          "romaji": "sobo wa hachijussai desu ga, mada hataraite imasu.",
+          "ta": "பாட்டிக்கு எண்பது வயது, ஆனாலும் இன்னும் வேலை செய்கிறார்.",
+          "en": "My grandmother is eighty, but she's still working."
+        }
+      ],
+      "pitfalls_ta": "'まだ寝ました' என்று கடந்த காலத்துடன் சொல்வது தவறு; தொடரும் நிலைக்கு 〜ています தேவை. もう (ஏற்கனவே) மற்றும் まだ (இன்னும்) இரண்டையும் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "まだ寝ました is wrong. For something that goes on, use 〜ています. Don't mix up もう (already) and まだ (still)."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-021",
+    "n4-v-062",
+    "n4-v-106",
+    "n4-v-123",
+    "n4-v-130",
+    "n4-v-149",
+    "n4-v-171",
+    "n4-v-189",
+    "n4-v-230",
+    "n4-v-274",
+    "n4-v-280",
+    "n4-v-282",
+    "n4-v-311",
+    "n4-v-315",
+    "n4-v-321",
+    "n4-v-324",
+    "n4-v-341",
+    "n4-v-345",
+    "n4-v-418",
+    "n4-v-442",
+    "n4-v-492",
+    "n4-v-497",
+    "n4-v-499",
+    "n4-v-533",
+    "n4-v-556",
+    "n4-v-580",
+    "n4-v-642"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L05-q01",
+        "type": "kanji_reading",
+        "sentence": "ホテルを ＿予約＿して おきました。",
+        "target": "予約",
+        "options": [
+          "よやく",
+          "ようやく",
+          "よてい",
+          "ゆやく"
+        ],
+        "answer": 0,
+        "explanation_ta": "予約 = よやく (முன்பதிவு). よてい என்பது 予定 (திட்டம்); ようやく என்பது வேறு சொல்.",
+        "explanation_en": "予約 = よやく (முன்பதிவு, booking). よてい is 予定 (plan). ようやく is a different word."
+      },
+      {
+        "id": "L05-q02",
+        "type": "kanji_reading",
+        "sentence": "京都の ＿旅館＿に 泊まりました。",
+        "target": "旅館",
+        "options": [
+          "りょうかん",
+          "りょかん",
+          "たびかん",
+          "りょがん"
+        ],
+        "answer": 1,
+        "explanation_ta": "旅館 = りょかん (ஜப்பானிய விடுதி). 旅 இங்கே りょ (நீட்டல் இல்லை); りょうかん தவறு.",
+        "explanation_en": "旅館 = りょかん (ஜப்பானிய விடுதி, Japanese inn). 旅 is りょ here, with no long う. りょうかん is wrong."
+      },
+      {
+        "id": "L05-q03",
+        "type": "kanji_reading",
+        "sentence": "バスは 九時に ＿出発＿します。",
+        "target": "出発",
+        "options": [
+          "しゅつはつ",
+          "でぱつ",
+          "しゅっぱつ",
+          "しゅっぱち"
+        ],
+        "answer": 2,
+        "explanation_ta": "出発 = しゅっぱつ (புறப்பாடு). しゅつ + はつ சேரும்போது っぱ ஆகிறது.",
+        "explanation_en": "出発 = しゅっぱつ (புறப்பாடு, departure). しゅつ + はつ join and become っぱ."
+      },
+      {
+        "id": "L05-q04",
+        "type": "orthography",
+        "sentence": "家族に ＿おみやげ＿を 買いました。",
+        "target": "おみやげ",
+        "options": [
+          "お士産",
+          "お上産",
+          "お土差",
+          "お土産"
+        ],
+        "answer": 3,
+        "explanation_ta": "おみやげ = お土産 (நினைவுப் பரிசு; 'அந்த மண்ணின் விளைபொருள்'). 士 (மேல் கோடு நீளம்) தோற்றத்தில் 土 போல; தவறு.",
+        "explanation_en": "おみやげ = お土産 (நினைவுப் பரிசு, souvenir; \"product of that land\"). 士 looks like 土, but it is wrong."
+      },
+      {
+        "id": "L05-q05",
+        "type": "orthography",
+        "sentence": "＿くうこう＿まで 友達を 迎えに 行きます。",
+        "target": "くうこう",
+        "options": [
+          "空港",
+          "空行",
+          "室港",
+          "空巷"
+        ],
+        "answer": 0,
+        "explanation_ta": "くうこう = 空港 (வான் + துறைமுகம் = விமான நிலையம்). 室 (அறை) 空 போலத் தோன்றும்.",
+        "explanation_en": "くうこう = 空港 (sky + port = airport, விமான நிலையம்). 室 (room) looks like 空."
+      },
+      {
+        "id": "L05-q06",
+        "type": "vocab_context",
+        "sentence": "旅行の 前に、ホテルを （　　）して おきます。",
+        "options": [
+          "用事",
+          "予約",
+          "出発",
+          "生活"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஹோட்டலை முன்கூட்டியே = 予約しておきます (முன்பதிவு செய்து வைப்பேன்).",
+        "explanation_en": "A hotel, in advance = 予約しておきます (முன்பதிவு செய்து வைப்பேன், I'll book it)."
+      },
+      {
+        "id": "L05-q07",
+        "type": "vocab_context",
+        "sentence": "明日の 朝 六時に 私を （　　） ください。",
+        "options": [
+          "起きて",
+          "集めて",
+          "起こして",
+          "寄って"
+        ],
+        "answer": 2,
+        "explanation_ta": "私を → பிறவினை 起こす (எழுப்புதல்): 起こしてください. 起きる தன்வினை; を எடுக்காது.",
+        "explanation_en": "私を needs the \"someone does it\" verb 起こす (எழுப்ப, wake someone up): 起こしてください. 起きる does not take を."
+      },
+      {
+        "id": "L05-q08",
+        "type": "vocab_context",
+        "sentence": "帰りに コンビニに （　　）、牛乳を 買いました。",
+        "options": [
+          "迎えて",
+          "泊まって",
+          "運んで",
+          "寄って"
+        ],
+        "answer": 3,
+        "explanation_ta": "வழியில் ஒரு இடத்துக்குப் போய் வருவது = 寄る (コンビニに寄って). 泊まる இரவு தங்குவது.",
+        "explanation_en": "Stopping somewhere on the way = 寄る (コンビニに寄って, stop by). 泊まる is staying the night."
+      },
+      {
+        "id": "L05-q09",
+        "type": "vocab_context",
+        "sentence": "パーティーの 前に、部屋を 花で （　　） おきました。",
+        "options": [
+          "集まって",
+          "写して",
+          "起こして",
+          "飾って"
+        ],
+        "answer": 3,
+        "explanation_ta": "பூக்களால் அறையை அலங்கரித்தல் = 飾る → 飾っておきました.",
+        "explanation_en": "Decorating a room with flowers = 飾る (அலங்கரிக்க) → 飾っておきました."
+      },
+      {
+        "id": "L05-q10",
+        "type": "vocab_context",
+        "sentence": "学生が 九時に 教室に （　　）。",
+        "options": [
+          "集めました",
+          "集まりました",
+          "運びました",
+          "手伝いました"
+        ],
+        "answer": 1,
+        "explanation_ta": "学生が → தன்வினை 集まる (ஒன்றுகூடுதல்). 集める பிறவினை; を தேவை.",
+        "explanation_en": "学生が needs the \"it happens\" verb 集まる (ஒன்றுகூட, gather). 集める needs を."
+      },
+      {
+        "id": "L05-q11",
+        "type": "paraphrase",
+        "sentence": "出かける 支度を して います。",
+        "options": [
+          "出かける 約束を して います。",
+          "出かける 場所を 探して います。",
+          "出かける 準備を して います。",
+          "出かける 人を 待って います。"
+        ],
+        "answer": 2,
+        "explanation_ta": "支度 = 準備 (தயாராதல்). 約束 (வாக்குறுதி) வேறு பொருள்.",
+        "explanation_en": "支度 = 準備 (தயாராதல், getting ready). 約束 (promise) is different."
+      },
+      {
+        "id": "L05-q12",
+        "type": "paraphrase",
+        "sentence": "飲み物は もう 用意して あります。",
+        "options": [
+          "飲み物は もう 準備が できて います。",
+          "飲み物は もう 全部 飲みました。",
+          "飲み物は まだ 買って いません。",
+          "飲み物は もう 捨てました。"
+        ],
+        "answer": 0,
+        "explanation_ta": "用意してあります = தயார் செய்து வைக்கப்பட்டுள்ளது = 準備ができています. 全部飲みました என்றால் தீர்ந்துவிட்டது; எதிர்ப் பொருள்.",
+        "explanation_en": "用意してあります = it has been got ready = 準備ができています. 全部飲みました means it's all gone. That's the opposite."
+      },
+      {
+        "id": "L05-q13",
+        "type": "usage",
+        "sentence": "迎える",
+        "options": [
+          "毎朝 歯を 迎えます。",
+          "空港で 友達を 迎えました。",
+          "友達に 手紙を 迎えました。",
+          "雨が 迎えて います。"
+        ],
+        "answer": 1,
+        "explanation_ta": "迎える = வருபவரை வரவேற்க / அழைத்து வர: 空港で友達を迎えました. பல், கடிதம், மழைக்குப் பொருந்தாது.",
+        "explanation_en": "迎える means to meet or welcome a person who arrives (வரவேற்க): 空港で友達を迎えました. It doesn't fit teeth, letters or rain."
+      },
+      {
+        "id": "L05-q14",
+        "type": "usage",
+        "sentence": "手伝う",
+        "options": [
+          "窓を 手伝って 開けました。",
+          "本が 手伝って 落ちました。",
+          "明日は 手伝って 雨です。",
+          "母の 料理を 手伝いました。"
+        ],
+        "answer": 3,
+        "explanation_ta": "手伝う = ஒருவரின் வேலையில் உதவுதல்: 母の料理を手伝いました. பொருட்களோ வானிலையோ 'உதவ' முடியாது.",
+        "explanation_en": "手伝う means to help with someone's work (உதவ): 母の料理を手伝いました. Things and weather cannot help."
+      },
+      {
+        "id": "L05-q15",
+        "type": "grammar_form",
+        "sentence": "壁に カレンダーが かけて （　　）。",
+        "options": [
+          "います",
+          "あります",
+          "おきます",
+          "しまいます"
+        ],
+        "answer": 1,
+        "explanation_ta": "カレンダーが + பிறவினை かける → யாரோ மாட்டி வைத்த நிலை = かけてあります. 'カレンダーがかけています' தவறு (நாட்காட்டி மாட்டிக்கொண்டிருக்கிறது என்று ஆகிவிடும்).",
+        "explanation_en": "カレンダーが + the \"someone does it\" verb かける → someone hung it there = かけてあります. カレンダーがかけています would mean the calendar is hanging something."
+      },
+      {
+        "id": "L05-q16",
+        "type": "grammar_form",
+        "sentence": "友達が 来る 前に、ケーキを 買って （　　）ましょう。",
+        "options": [
+          "あり",
+          "い",
+          "おき",
+          "くれ"
+        ],
+        "answer": 2,
+        "explanation_ta": "நண்பர் வருவதற்கு முன் (தயாரிப்பு) → 買っておきましょう. あります-க்கு 〜ましょう வராது.",
+        "explanation_en": "Before the friend comes (getting ready) → 買っておきましょう (வாங்கி வைப்போம்). You can't add 〜ましょう to あります."
+      },
+      {
+        "id": "L05-q17",
+        "type": "grammar_form",
+        "sentence": "「窓を 閉めましょうか。」「いいえ、暑いので、開けて （　　） ください。」",
+        "options": [
+          "あって",
+          "みて",
+          "しまって",
+          "おいて"
+        ],
+        "answer": 3,
+        "explanation_ta": "'மூட வேண்டாம், அப்படியே திறந்தே வையுங்கள்' = 開けておいてください. 開けてみて என்றால் 'திறந்து பாருங்கள்'.",
+        "explanation_en": "\"Don't close it; leave it open\" = 開けておいてください (திறந்தே வையுங்கள்). 開けてみて means \"try opening it\"."
+      },
+      {
+        "id": "L05-q18",
+        "type": "grammar_form",
+        "sentence": "「田中さんは もう 帰りましたか。」「いいえ、（　　） 会議室で 仕事を して います。」",
+        "options": [
+          "もう",
+          "すぐ",
+          "まだ",
+          "ちょうど"
+        ],
+        "answer": 2,
+        "explanation_ta": "'இல்லை, இன்னும் வேலை செய்துகொண்டிருக்கிறார்' = まだ〜ています. もう (ஏற்கனவே) இங்கே முரண்படும்.",
+        "explanation_en": "\"No, he is still working\" = まだ〜ています (இன்னும்). もう (already) does not fit."
+      },
+      {
+        "id": "L05-q19",
+        "type": "grammar_form",
+        "sentence": "テーブルの 上に 料理が 並べて （　　）。",
+        "options": [
+          "おきます",
+          "います",
+          "あります",
+          "しまいます"
+        ],
+        "answer": 2,
+        "explanation_ta": "料理が + பிறவினை 並べる → அடுக்கி வைக்கப்பட்ட நிலை = 並べてあります. 〜ておきます-க்கு を தேவை.",
+        "explanation_en": "料理が + the \"someone does it\" verb 並べる → it has been set out = 並べてあります. 〜ておきます needs を."
+      },
+      {
+        "id": "L05-q20",
+        "type": "grammar_form",
+        "sentence": "使った はさみは 元の 場所に 戻して （　　）。",
+        "options": [
+          "おいて ください",
+          "あって ください",
+          "いて ください",
+          "しまって ください"
+        ],
+        "answer": 0,
+        "explanation_ta": "இடத்தில் திரும்ப வைத்து விட்டுவிடுவது → 戻しておいてください. 〜てあってください என்ற வடிவம் இல்லை.",
+        "explanation_en": "Put it back and leave it there → 戻しておいてください. 〜てあってください is not a real form."
+      },
+      {
+        "id": "L05-q21",
+        "type": "grammar_form",
+        "sentence": "もう 十一時ですが、子どもは （　　） 起きて います。",
+        "options": [
+          "まだ",
+          "もう",
+          "前に",
+          "今度"
+        ],
+        "answer": 0,
+        "explanation_ta": "'பதினொரு மணி ஆகிவிட்டது, ஆனாலும் இன்னும் விழித்திருக்கிறார்கள்' = まだ起きています.",
+        "explanation_en": "\"It's already eleven, but the children are still awake\" = まだ起きています (இன்னும் விழித்திருக்கிறார்கள்)."
+      },
+      {
+        "id": "L05-q22",
+        "type": "sentence_order",
+        "before": "会場の",
+        "chunks": [
+          "入り口に",
+          "大きな",
+          "花が",
+          "飾って"
+        ],
+        "star": 2,
+        "after": "あります。",
+        "explanation_ta": "入り口に (நுழைவாயிலில்) → 大きな花が → 飾って + あります. ★ = 花が.",
+        "explanation_en": "入り口に (at the entrance) → 大きな花が → 飾って + あります. ★ = 花が."
+      },
+      {
+        "id": "L05-q23",
+        "type": "sentence_order",
+        "before": "旅行の 前に、",
+        "chunks": [
+          "新幹線の",
+          "切符を",
+          "買って",
+          "おきます"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "新幹線の切符を (ஷின்கான்சென் டிக்கெட்டை) → 買って → おきます (முன்கூட்டியே). ★ = 切符を.",
+        "explanation_en": "新幹線の切符を (the bullet-train ticket) → 買って → おきます (in advance). ★ = 切符を."
+      },
+      {
+        "id": "L05-q24",
+        "type": "sentence_order",
+        "before": "「もう 寝ましたか。」「いいえ、",
+        "chunks": [
+          "まだ",
+          "宿題を",
+          "して",
+          "います"
+        ],
+        "star": 1,
+        "after": "。」",
+        "explanation_ta": "まだ (இன்னும்) → 宿題を → して → います. ★ = 宿題を.",
+        "explanation_en": "まだ (still) → 宿題を → して → います. ★ = 宿題を."
+      },
+      {
+        "id": "L05-q25",
+        "type": "passage_cloze",
+        "passage": "来週、インドから 友達が 来ます。わたしは 空港まで 迎えに 行きます。旅館は もう 予約して［1］。明日は 友達の 好きな お菓子を 買って［2］。今、部屋を 片付けて います。もう 夜の 十時ですが、まだ［3］。",
+        "blanks": [
+          {
+            "options": [
+              "くれます",
+              "しまいます",
+              "あります",
+              "あげます"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "おきます",
+              "あります",
+              "います",
+              "しまいました"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "片付けました",
+              "片付けて あります",
+              "片付けて います",
+              "片付けて おきました"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］ もう (ஏற்கனவே) முடிந்த தயாரிப்பு நிலை → 予約してあります. ［2］ 明日, வருகைக்கான முன்தயாரிப்பு → 買っておきます. ［3］ まだ + இன்னும் தொடரும் செயல் → 片付けています (இன்னும் ஒழுங்குபடுத்திக்கொண்டிருக்கிறேன்).",
+        "explanation_en": "[1] もう: the booking is already done and ready → 予約してあります. [2] 明日, getting ready before the visit → 買っておきます (வாங்கி வைப்பேன்). [3] まだ + an action that goes on → 片付けています (I am still tidying)."
+      }
+    ]
+  }
+}

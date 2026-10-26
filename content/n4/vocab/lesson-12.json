@@ -1,0 +1,218 @@
+[
+  {
+    "id": "n4-v-001",
+    "expression": "踏む",
+    "reading": "ふむ",
+    "romaji": "fumu",
+    "en": "to step on",
+    "ta": "மிதிக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "電車の中で足を踏まれました。", "reading": "でんしゃの なかで あしを ふまれました。", "romaji": "densha no naka de ashi o fumaremashita.", "ta": "ரயிலில் யாரோ என் காலை மிதித்துவிட்டார்கள்.", "en": "Someone stepped on my foot on the train." }
+    ]
+  },
+  {
+    "id": "n4-v-004",
+    "expression": "盗む",
+    "reading": "ぬすむ",
+    "romaji": "nusumu",
+    "en": "to steal",
+    "ta": "திருட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "駅で財布を盗まれました。", "reading": "えきで さいふを ぬすまれました。", "romaji": "eki de saifu o nusumaremashita.", "ta": "ஸ்டேஷனில் என் பணப்பை திருடப்பட்டது.", "en": "My wallet was stolen at the station." }
+    ]
+  },
+  {
+    "id": "n4-v-071",
+    "expression": "泥棒",
+    "reading": "どろぼう",
+    "romaji": "dorobou",
+    "en": "thief, burglar",
+    "ta": "திருடன்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日の夜、隣の家に泥棒が入りました。", "reading": "きのうの よる、となりの いえに どろぼうが はいりました。", "romaji": "kinou no yoru, tonari no ie ni dorobou ga hairimashita.", "ta": "நேற்று இரவு பக்கத்து வீட்டில் திருடன் புகுந்தான்.", "en": "Last night a burglar broke into the house next door." }
+    ]
+  },
+  {
+    "id": "n4-v-128",
+    "expression": "捕まえる",
+    "reading": "つかまえる",
+    "romaji": "tsukamaeru",
+    "en": "to catch",
+    "ta": "பிடிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "警察が泥棒を捕まえました。", "reading": "けいさつが どろぼうを つかまえました。", "romaji": "keisatsu ga dorobou o tsukamaemashita.", "ta": "காவல்துறை திருடனைப் பிடித்தது.", "en": "The police caught the thief." }
+    ]
+  },
+  {
+    "id": "n4-v-133",
+    "expression": "逃げる",
+    "reading": "にげる",
+    "romaji": "nigeru",
+    "en": "to run away",
+    "ta": "தப்பி ஓட",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "猫は犬を見て、逃げました。", "reading": "ねこは いぬを みて、にげました。", "romaji": "neko wa inu o mite, nigemashita.", "ta": "நாயைப் பார்த்ததும் பூனை ஓடிவிட்டது.", "en": "The cat saw the dog and ran away." }
+    ]
+  },
+  {
+    "id": "n4-v-162",
+    "expression": "間違える",
+    "reading": "まちがえる",
+    "romaji": "machigaeru",
+    "en": "to get wrong",
+    "ta": "தவறு செய்ய, தவறாக நினைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "電話番号を間違えてしまいました。", "reading": "でんわばんごうを まちがえて しまいました。", "romaji": "denwabangou o machigaete shimaimashita.", "ta": "தொலைபேசி எண்ணைத் தவறாகப் போட்டுவிட்டேன்.", "en": "I got the phone number wrong." }
+    ]
+  },
+  {
+    "id": "n4-v-226",
+    "expression": "事故",
+    "reading": "じこ",
+    "romaji": "jiko",
+    "en": "accident",
+    "ta": "விபத்து",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今朝、駅の前で事故がありました。", "reading": "けさ、えきの まえで じこが ありました。", "romaji": "kesa, eki no mae de jiko ga arimashita.", "ta": "இன்று காலை ஸ்டேஷன் முன்னால் ஒரு விபத்து நடந்தது.", "en": "There was an accident in front of the station this morning." }
+    ]
+  },
+  {
+    "id": "n4-v-246",
+    "expression": "けがする",
+    "reading": "けがする",
+    "romaji": "kegasuru",
+    "en": "to get hurt",
+    "ta": "காயமடைய",
+    "pos": "verb-irregular",
+    "examples": [
+      { "ja": "サッカーをして、足にけがをしました。", "reading": "サッカーを して、あしに けがを しました。", "romaji": "sakkaa o shite, ashi ni kega o shimashita.", "ta": "கால்பந்து விளையாடியபோது காலில் காயம் பட்டது.", "en": "I hurt my leg playing football." }
+    ]
+  },
+  {
+    "id": "n4-v-364",
+    "expression": "謝る",
+    "reading": "あやまる",
+    "romaji": "ayamaru",
+    "en": "to apologize",
+    "ta": "மன்னிப்புக் கேட்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "遅れて、先生に謝りました。", "reading": "おくれて、せんせいに あやまりました。", "romaji": "okurete, sensei ni ayamarimashita.", "ta": "தாமதமாக வந்ததால் ஆசிரியரிடம் மன்னிப்புக் கேட்டேன்.", "en": "I was late, so I apologized to my teacher." }
+    ]
+  },
+  {
+    "id": "n4-v-383",
+    "expression": "ひどい",
+    "reading": "ひどい",
+    "romaji": "hidoi",
+    "en": "terrible, cruel",
+    "ta": "மோசமான, கொடூரமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "昨日はひどい雨でした。", "reading": "きのうは ひどい あめでした。", "romaji": "kinou wa hidoi ame deshita.", "ta": "நேற்று பயங்கர மழை பெய்தது.", "en": "We had terrible rain yesterday." }
+    ]
+  },
+  {
+    "id": "n4-v-427",
+    "expression": "折れる",
+    "reading": "おれる",
+    "romaji": "oreru",
+    "en": "to break (bone, stick)",
+    "ta": "முறிய, ஒடிய",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "階段で転んで、足の骨が折れました。", "reading": "かいだんで ころんで、あしの ほねが おれました。", "romaji": "kaidan de koronde, ashi no hone ga oremashita.", "ta": "படிக்கட்டில் விழுந்து கால் எலும்பு முறிந்தது.", "en": "I fell on the stairs and broke a bone in my leg." }
+    ]
+  },
+  {
+    "id": "n4-v-438",
+    "expression": "滑る",
+    "reading": "すべる",
+    "romaji": "suberu",
+    "en": "to slip",
+    "ta": "வழுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "雨の日は道が滑るので、気をつけてください。", "reading": "あめの ひは みちが すべるので、きを つけて ください。", "romaji": "ame no hi wa michi ga suberu node, ki o tsukete kudasai.", "ta": "மழை நாளில் சாலை வழுக்கும், கவனமாக இருங்கள்.", "en": "Roads are slippery on rainy days, so be careful." }
+    ]
+  },
+  {
+    "id": "n4-v-463",
+    "expression": "騒ぐ",
+    "reading": "さわぐ",
+    "romaji": "sawagu",
+    "en": "to make noise",
+    "ta": "சத்தம் போட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "図書館で騒がないでください。", "reading": "としょかんで さわがないで ください。", "romaji": "toshokan de sawaganaide kudasai.", "ta": "நூலகத்தில் சத்தம் போடாதீர்கள்.", "en": "Please don’t make noise in the library." }
+    ]
+  },
+  {
+    "id": "n4-v-554",
+    "expression": "落す",
+    "reading": "おとす",
+    "romaji": "otosu",
+    "en": "to drop, to lose",
+    "ta": "கீழே போட, தவறவிட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "どこかで鍵を落としました。", "reading": "どこかで かぎを おとしました。", "romaji": "dokoka de kagi o otoshimashita.", "ta": "எங்கோ சாவியைத் தவறவிட்டுவிட்டேன்.", "en": "I dropped my key somewhere." }
+    ]
+  },
+  {
+    "id": "n4-v-561",
+    "expression": "いじめる",
+    "reading": "いじめる",
+    "romaji": "ijimeru",
+    "en": "to bully",
+    "ta": "துன்புறுத்த, கேலி செய்து வதைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "小さい子をいじめてはいけません。", "reading": "ちいさい こを いじめては いけません。", "romaji": "chiisai ko o ijimete wa ikemasen.", "ta": "சிறிய குழந்தைகளைத் துன்புறுத்தக் கூடாது.", "en": "You must not bully little children." }
+    ]
+  },
+  {
+    "id": "n4-v-566",
+    "expression": "濡れる",
+    "reading": "ぬれる",
+    "romaji": "nureru",
+    "en": "to get wet",
+    "ta": "நனைய",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "傘がなかったので、服が濡れました。", "reading": "かさが なかったので、ふくが ぬれました。", "romaji": "kasa ga nakatta node, fuku ga nuremashita.", "ta": "குடை இல்லாததால் உடை நனைந்துவிட்டது.", "en": "I had no umbrella, so my clothes got wet." }
+    ]
+  },
+  {
+    "id": "n4-v-600",
+    "expression": "警察",
+    "reading": "けいさつ",
+    "romaji": "keisatsu",
+    "en": "police",
+    "ta": "காவல்துறை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "財布を落としたので、警察に行きました。", "reading": "さいふを おとしたので、けいさつに いきました。", "romaji": "saifu o otoshita node, keisatsu ni ikimashita.", "ta": "பணப்பையைத் தவறவிட்டதால் காவல் நிலையத்துக்குப் போனேன்.", "en": "I lost my wallet, so I went to the police." }
+    ]
+  },
+  {
+    "id": "n4-v-655",
+    "expression": "すり",
+    "reading": "すり",
+    "romaji": "suri",
+    "en": "pickpocket",
+    "ta": "பிக்பாக்கெட் திருடன்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "人が多い所では、すりに気をつけてください。", "reading": "ひとが おおい ところでは、すりに きを つけて ください。", "romaji": "hito ga ooi tokoro de wa, suri ni ki o tsukete kudasai.", "ta": "கூட்டமான இடங்களில் பிக்பாக்கெட் திருடர்களிடம் கவனமாக இருங்கள்.", "en": "Watch out for pickpockets in crowded places." }
+    ]
+  }
+]

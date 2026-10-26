@@ -1,0 +1,218 @@
+[
+  {
+    "id": "n4-v-042",
+    "expression": "拾う",
+    "reading": "ひろう",
+    "romaji": "hirou",
+    "en": "to pick up, to find",
+    "ta": "கீழே கிடப்பதை எடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "道で財布を拾って、交番に届けました。", "reading": "みちで さいふを ひろって、こうばんに とどけました。", "romaji": "michi de saifu o hirotte, kouban ni todokemashita.", "ta": "சாலையில் கிடந்த பணப்பையை எடுத்துக் காவல் சாவடியில் ஒப்படைத்தேன்.", "en": "I found a wallet on the street and took it to the police box." }
+    ]
+  },
+  {
+    "id": "n4-v-170",
+    "expression": "無くなる",
+    "reading": "なくなる",
+    "romaji": "nakunaru",
+    "en": "to go missing, to run out",
+    "ta": "காணாமல் போக, தீர்ந்துபோக",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "机の上に置いたペンが無くなりました。", "reading": "つくえの うえに おいた ペンが なくなりました。", "romaji": "tsukue no ue ni oita pen ga nakunarimashita.", "ta": "மேசை மேல் வைத்த பேனா காணாமல் போய்விட்டது.", "en": "The pen I put on the desk has gone missing." }
+    ]
+  },
+  {
+    "id": "n4-v-173",
+    "expression": "住所",
+    "reading": "じゅうしょ",
+    "romaji": "juusho",
+    "en": "address",
+    "ta": "முகவரி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ここに名前と住所を書いてください。", "reading": "ここに なまえと じゅうしょを かいて ください。", "romaji": "koko ni namae to juusho o kaite kudasai.", "ta": "இங்கே பெயரையும் முகவரியையும் எழுதுங்கள்.", "en": "Please write your name and address here." }
+    ]
+  },
+  {
+    "id": "n4-v-181",
+    "expression": "調べる",
+    "reading": "しらべる",
+    "romaji": "shiraberu",
+    "en": "to check, to look up",
+    "ta": "சரிபார்க்க, தேடிப் பார்க்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "わからない言葉を辞書で調べます。", "reading": "わからない ことばを じしょで しらべます。", "romaji": "wakaranai kotoba o jisho de shirabemasu.", "ta": "தெரியாத சொற்களை அகராதியில் தேடிப் பார்க்கிறேன்.", "en": "I look up words I don’t know in the dictionary." }
+    ]
+  },
+  {
+    "id": "n4-v-193",
+    "expression": "連絡",
+    "reading": "れんらく",
+    "romaji": "renraku",
+    "en": "contact, getting in touch",
+    "ta": "தொடர்பு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "着いたら、すぐ連絡してください。", "reading": "ついたら、すぐ れんらくして ください。", "romaji": "tsuitara, sugu renrakushite kudasai.", "ta": "போய்ச் சேர்ந்ததும் உடனே தொடர்பு கொள்ளுங்கள்.", "en": "Please get in touch as soon as you arrive." }
+    ]
+  },
+  {
+    "id": "n4-v-212",
+    "expression": "知らせる",
+    "reading": "しらせる",
+    "romaji": "shiraseru",
+    "en": "to let know, to inform",
+    "ta": "தெரிவிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "試験の結果はメールで知らせます。", "reading": "しけんの けっかは メールで しらせます。", "romaji": "shiken no kekka wa meeru de shirasemasu.", "ta": "தேர்வு முடிவை மின்னஞ்சலில் தெரிவிப்போம்.", "en": "We will send you the exam results by email." }
+    ]
+  },
+  {
+    "id": "n4-v-253",
+    "expression": "届ける",
+    "reading": "とどける",
+    "romaji": "todokeru",
+    "en": "to deliver, to hand in",
+    "ta": "கொண்டுபோய்க் கொடுக்க, ஒப்படைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "拾った鍵を警察に届けました。", "reading": "ひろった かぎを けいさつに とどけました。", "romaji": "hirotta kagi o keisatsu ni todokemashita.", "ta": "கண்டெடுத்த சாவியைக் காவல்துறையிடம் ஒப்படைத்தேன்.", "en": "I handed in the key I found to the police." }
+    ]
+  },
+  {
+    "id": "n4-v-256",
+    "expression": "確か",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "en": "if I remember rightly; sure",
+    "ta": "எனக்கு நினைவிருக்கும்படி; உறுதியாக",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "確か、会議は三時からです。", "reading": "たしか、かいぎは さんじからです。", "romaji": "tashika, kaigi wa sanji kara desu.", "ta": "எனக்கு நினைவிருக்கும்படி கூட்டம் மூன்று மணிக்குத் தொடங்கும்.", "en": "If I remember rightly, the meeting starts at three." }
+    ]
+  },
+  {
+    "id": "n4-v-275",
+    "expression": "探す",
+    "reading": "さがす",
+    "romaji": "sagasu",
+    "en": "to look for",
+    "ta": "தேட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "駅の近くでアパートを探しています。", "reading": "えきの ちかくで アパートを さがして います。", "romaji": "eki no chikaku de apaato o sagashite imasu.", "ta": "ஸ்டேஷன் அருகில் வாடகை வீடு தேடிக்கொண்டிருக்கிறேன்.", "en": "I’m looking for a flat near the station." }
+    ]
+  },
+  {
+    "id": "n4-v-336",
+    "expression": "はっきり",
+    "reading": "はっきり",
+    "romaji": "hakkiri",
+    "en": "clearly",
+    "ta": "தெளிவாக",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "今日は遠くの山がはっきり見えます。", "reading": "きょうは とおくの やまが はっきり みえます。", "romaji": "kyou wa tooku no yama ga hakkiri miemasu.", "ta": "இன்று தொலைவில் உள்ள மலை தெளிவாகத் தெரிகிறது.", "en": "Today you can see the far mountains clearly." }
+    ]
+  },
+  {
+    "id": "n4-v-430",
+    "expression": "返事",
+    "reading": "へんじ",
+    "romaji": "henji",
+    "en": "reply, answer",
+    "ta": "பதில்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達にメールを送りましたが、まだ返事がありません。", "reading": "ともだちに メールを おくりましたが、まだ へんじが ありません。", "romaji": "tomodachi ni meeru o okurimashita ga, mada henji ga arimasen.", "ta": "நண்பருக்கு மின்னஞ்சல் அனுப்பினேன், ஆனால் இன்னும் பதில் வரவில்லை.", "en": "I sent my friend an email, but there’s no reply yet." }
+    ]
+  },
+  {
+    "id": "n4-v-435",
+    "expression": "説明",
+    "reading": "せつめい",
+    "romaji": "setsumei",
+    "en": "explanation",
+    "ta": "விளக்கம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先生がもう一度説明してくれました。", "reading": "せんせいが もう いちど せつめいして くれました。", "romaji": "sensei ga mou ichido setsumeishite kuremashita.", "ta": "ஆசிரியர் மீண்டும் ஒருமுறை விளக்கிச் சொன்னார்.", "en": "The teacher explained it once more for us." }
+    ]
+  },
+  {
+    "id": "n4-v-461",
+    "expression": "送る",
+    "reading": "おくる",
+    "romaji": "okuru",
+    "en": "to send",
+    "ta": "அனுப்ப",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "母に誕生日のプレゼントを送りました。", "reading": "ははに たんじょうびの プレゼントを おくりました。", "romaji": "haha ni tanjoubi no purezento o okurimashita.", "ta": "அம்மாவுக்குப் பிறந்தநாள் பரிசு அனுப்பினேன்.", "en": "I sent my mother a birthday present." }
+    ]
+  },
+  {
+    "id": "n4-v-464",
+    "expression": "尋ねる",
+    "reading": "たずねる",
+    "romaji": "tazuneru",
+    "en": "to ask, to inquire",
+    "ta": "விசாரிக்க, கேட்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "駅員に出口を尋ねました。", "reading": "えきいんに でぐちを たずねました。", "romaji": "ekiin ni deguchi o tazunemashita.", "ta": "ஸ்டேஷன் ஊழியரிடம் வெளியேறும் வழியை விசாரித்தேன்.", "en": "I asked a station worker where the exit was." }
+    ]
+  },
+  {
+    "id": "n4-v-472",
+    "expression": "見つける",
+    "reading": "みつける",
+    "romaji": "mitsukeru",
+    "en": "to find",
+    "ta": "கண்டுபிடிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "部屋を掃除して、なくした指輪を見つけました。", "reading": "へやを そうじして、なくした ゆびわを みつけました。", "romaji": "heya o soujishite, nakushita yubiwa o mitsukemashita.", "ta": "அறையைச் சுத்தம் செய்தபோது தொலைத்த மோதிரத்தைக் கண்டுபிடித்தேன்.", "en": "I cleaned my room and found the ring I had lost." }
+    ]
+  },
+  {
+    "id": "n4-v-477",
+    "expression": "忘れ物",
+    "reading": "わすれもの",
+    "romaji": "wasuremono",
+    "en": "thing left behind",
+    "ta": "மறந்து விட்ட பொருள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "電車に忘れ物をしてしまいました。", "reading": "でんしゃに わすれものを して しまいました。", "romaji": "densha ni wasuremono o shite shimaimashita.", "ta": "ரயிலில் ஒரு பொருளை மறந்து விட்டுவிட்டேன்.", "en": "I left something behind on the train." }
+    ]
+  },
+  {
+    "id": "n4-v-523",
+    "expression": "見つかる",
+    "reading": "みつかる",
+    "romaji": "mitsukaru",
+    "en": "to be found",
+    "ta": "கிடைக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "なくした財布が見つかりました。", "reading": "なくした さいふが みつかりました。", "romaji": "nakushita saifu ga mitsukarimashita.", "ta": "தொலைத்த பணப்பை கிடைத்துவிட்டது.", "en": "The wallet I lost has been found." }
+    ]
+  },
+  {
+    "id": "n4-v-612",
+    "expression": "戻る",
+    "reading": "もどる",
+    "romaji": "modoru",
+    "en": "to go back, to come back",
+    "ta": "திரும்பிச் செல்ல / வர",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "忘れ物をして、家に戻りました。", "reading": "わすれものを して、いえに もどりました。", "romaji": "wasuremono o shite, ie ni modorimashita.", "ta": "ஒரு பொருளை மறந்துவிட்டதால் வீட்டுக்குத் திரும்பிப் போனேன்.", "en": "I forgot something, so I went back home." }
+    ]
+  }
+]

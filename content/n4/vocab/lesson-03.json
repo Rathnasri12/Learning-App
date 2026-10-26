@@ -1,0 +1,470 @@
+[
+  {
+    "id": "n4-v-002",
+    "expression": "～区",
+    "reading": "～く",
+    "romaji": "～ku",
+    "en": "ward; district",
+    "ta": "வார்டு (நகரப் பகுதி)",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "私の 会社は 東京の 港区に あります。",
+        "reading": "わたしの かいしゃは とうきょうの みなとくに あります。",
+        "romaji": "watashi no kaisha wa toukyou no minato-ku ni arimasu.",
+        "ta": "என் அலுவலகம் டோக்கியோவின் மினாட்டோ வார்டில் இருக்கிறது.",
+        "en": "My company is in Minato Ward, Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-028",
+    "expression": "床屋",
+    "reading": "とこや",
+    "romaji": "tokoya",
+    "en": "barber's",
+    "ta": "முடிதிருத்தும் கடை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "月に 一回 床屋で 髪を 切ります。",
+        "reading": "つきに いっかい とこやで かみを きります。",
+        "romaji": "tsuki ni ikkai tokoya de kami o kirimasu.",
+        "ta": "மாதம் ஒருமுறை முடிதிருத்தும் கடையில் முடி வெட்டிக்கொள்கிறேன்.",
+        "en": "I get my hair cut at the barber's once a month."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-048",
+    "expression": "郊外",
+    "reading": "こうがい",
+    "romaji": "kougai",
+    "en": "suburbs",
+    "ta": "புறநகர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "郊外は 静かだし、家賃も 安いです。",
+        "reading": "こうがいは しずかだし、やちんも やすいです。",
+        "romaji": "kougai wa shizuka da shi, yachin mo yasui desu.",
+        "ta": "புறநகர் அமைதியாகவும் இருக்கிறது, வாடகையும் குறைவு.",
+        "en": "The suburbs are quiet, and the rent is cheap too."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-056",
+    "expression": "屋上",
+    "reading": "おくじょう",
+    "romaji": "okujou",
+    "en": "rooftop",
+    "ta": "மொட்டை மாடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "デパートの 屋上から 町が よく 見えます。",
+        "reading": "デパートの おくじょうから まちが よく みえます。",
+        "romaji": "depaato no okujou kara machi ga yoku miemasu.",
+        "ta": "டிபார்ட்மென்ட் ஸ்டோரின் மொட்டை மாடியிலிருந்து நகரம் நன்றாகத் தெரிகிறது.",
+        "en": "You can see the town well from the department store rooftop."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-064",
+    "expression": "建てる",
+    "reading": "たてる",
+    "romaji": "tateru",
+    "en": "to build",
+    "ta": "கட்ட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "父は 田舎に 新しい 家を 建てました。",
+        "reading": "ちちは いなかに あたらしい いえを たてました。",
+        "romaji": "chichi wa inaka ni atarashii ie o tatemashita.",
+        "ta": "அப்பா கிராமத்தில் புதிய வீடு கட்டினார்.",
+        "en": "My father built a new house in the countryside."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-076",
+    "expression": "～軒",
+    "reading": "～けん",
+    "romaji": "～ken",
+    "en": "counter for houses and shops",
+    "ta": "வீடு / கடை எண்ணும் சொல்",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "この 道には 本屋が 三軒 あります。",
+        "reading": "この みちには ほんやが さんげん あります。",
+        "romaji": "kono michi ni wa hon'ya ga sangen arimasu.",
+        "ta": "இந்தத் தெருவில் மூன்று புத்தகக் கடைகள் இருக்கின்றன.",
+        "en": "There are three bookshops on this street."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-114",
+    "expression": "それに",
+    "reading": "それに",
+    "romaji": "soreni",
+    "en": "besides; what's more",
+    "ta": "அதோடு",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "この 部屋は 広いです。それに、駅から 近いです。",
+        "reading": "この へやは ひろいです。それに、えきから ちかいです。",
+        "romaji": "kono heya wa hiroi desu. soreni, eki kara chikai desu.",
+        "ta": "இந்த அறை பெரியது. அதோடு ஸ்டேஷனுக்கும் அருகில் இருக்கிறது.",
+        "en": "This room is spacious. Besides, it's near the station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-125",
+    "expression": "建て",
+    "reading": "～だて",
+    "romaji": "～date",
+    "en": "-storey (building)",
+    "ta": "〜 மாடி (கட்டடம்)",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "私の アパートは 五階建てです。",
+        "reading": "わたしの アパートは ごかいだてです。",
+        "romaji": "watashi no apaato wa gokaidate desu.",
+        "ta": "என் அடுக்குமாடிக் குடியிருப்பு ஐந்து மாடிக் கட்டடம்.",
+        "en": "My apartment building has five storeys."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-136",
+    "expression": "畳",
+    "reading": "たたみ",
+    "romaji": "tatami",
+    "en": "tatami mat",
+    "ta": "தடாமி பாய் (ஜப்பானிய வைக்கோல் பாய்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "畳の 部屋で 寝るのが 好きです。",
+        "reading": "たたみの へやで ねるのが すきです。",
+        "romaji": "tatami no heya de neru no ga suki desu.",
+        "ta": "தடாமி பாய் விரித்த அறையில் தூங்குவது எனக்குப் பிடிக்கும்.",
+        "en": "I like sleeping in a tatami room."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-154",
+    "expression": "ビル",
+    "reading": "ビル",
+    "romaji": "biru",
+    "en": "building",
+    "ta": "கட்டடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の 前に 高い ビルが たくさん あります。",
+        "reading": "えきの まえに たかい ビルが たくさん あります。",
+        "romaji": "eki no mae ni takai biru ga takusan arimasu.",
+        "ta": "ஸ்டேஷன் முன் நிறைய உயரமான கட்டடங்கள் உள்ளன.",
+        "en": "There are many tall buildings in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-187",
+    "expression": "坂",
+    "reading": "さか",
+    "romaji": "saka",
+    "en": "slope; hill",
+    "ta": "சரிவு; ஏற்றம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "家の 前の 坂は 急で、自転車では 大変です。",
+        "reading": "いえの まえの さかは きゅうで、じてんしゃでは たいへんです。",
+        "romaji": "ie no mae no saka wa kyuu de, jitensha de wa taihen desu.",
+        "ta": "வீட்டின் முன் உள்ள ஏற்றம் செங்குத்தானது; சைக்கிளில் ஏறுவது கஷ்டம்.",
+        "en": "The slope in front of my house is steep, so it's hard by bike."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-237",
+    "expression": "場所",
+    "reading": "ばしょ",
+    "romaji": "basho",
+    "en": "place",
+    "ta": "இடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "静かな 場所で 勉強したいです。",
+        "reading": "しずかな ばしょで べんきょうしたいです。",
+        "romaji": "shizuka na basho de benkyou shitai desu.",
+        "ta": "அமைதியான இடத்தில் படிக்க விரும்புகிறேன்.",
+        "en": "I want to study in a quiet place."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-291",
+    "expression": "通う",
+    "reading": "かよう",
+    "romaji": "kayou",
+    "en": "to commute; to go regularly",
+    "ta": "தொடர்ந்து போய் வர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "毎日 電車で 大学に 通って います。",
+        "reading": "まいにち でんしゃで だいがくに かよって います。",
+        "romaji": "mainichi densha de daigaku ni kayotte imasu.",
+        "ta": "தினமும் ரயிலில் பல்கலைக்கழகத்துக்குப் போய் வருகிறேன்.",
+        "en": "I go to university by train every day."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-295",
+    "expression": "下宿",
+    "reading": "げしゅく",
+    "romaji": "geshuku",
+    "en": "lodgings; boarding house",
+    "ta": "தங்கும் வீடு (வாடகை அறை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大学の 近くの 下宿に 住んで います。",
+        "reading": "だいがくの ちかくの げしゅくに すんで います。",
+        "romaji": "daigaku no chikaku no geshuku ni sunde imasu.",
+        "ta": "பல்கலைக்கழகத்துக்கு அருகில் உள்ள ஒரு தங்கும் வீட்டில் வசிக்கிறேன்.",
+        "en": "I live in lodgings near the university."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-330",
+    "expression": "引っ越す",
+    "reading": "ひっこす",
+    "romaji": "hikkosu",
+    "en": "to move house",
+    "ta": "வீடு மாற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "来月 チェンナイから バンガロールへ 引っ越します。",
+        "reading": "らいげつ チェンナイから バンガロールへ ひっこします。",
+        "romaji": "raigetsu chennai kara bangarooru e hikkoshimasu.",
+        "ta": "அடுத்த மாதம் சென்னையிலிருந்து பெங்களூருக்கு வீடு மாறுகிறேன்.",
+        "en": "Next month I'm moving from Chennai to Bangalore."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-377",
+    "expression": "周り",
+    "reading": "まわり",
+    "romaji": "mawari",
+    "en": "surroundings; around",
+    "ta": "சுற்றுப்புறம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "家の 周りに 木が たくさん あります。",
+        "reading": "いえの まわりに きが たくさん あります。",
+        "romaji": "ie no mawari ni ki ga takusan arimasu.",
+        "ta": "வீட்டைச் சுற்றி நிறைய மரங்கள் உள்ளன.",
+        "en": "There are lots of trees around the house."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-379",
+    "expression": "不便",
+    "reading": "ふべん",
+    "romaji": "fuben",
+    "en": "inconvenient",
+    "ta": "வசதியற்ற",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "近くに 店が ないので、ちょっと 不便です。",
+        "reading": "ちかくに みせが ないので、ちょっと ふべんです。",
+        "romaji": "chikaku ni mise ga nai node, chotto fuben desu.",
+        "ta": "அருகில் கடை இல்லாததால் கொஞ்சம் வசதிக் குறைவு.",
+        "en": "There are no shops nearby, so it's a bit inconvenient."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-415",
+    "expression": "市",
+    "reading": "し",
+    "romaji": "shi",
+    "en": "city",
+    "ta": "நகரம் (மாநகராட்சி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "横浜市は 東京の 南に あります。",
+        "reading": "よこはましは とうきょうの みなみに あります。",
+        "romaji": "yokohama-shi wa toukyou no minami ni arimasu.",
+        "ta": "யோகோஹாமா நகரம் டோக்கியோவுக்குத் தெற்கே இருக்கிறது.",
+        "en": "Yokohama City is south of Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-425",
+    "expression": "遠く",
+    "reading": "とおく",
+    "romaji": "tooku",
+    "en": "far away; the distance",
+    "ta": "தொலைவில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "屋上から 遠くに 山が 見えます。",
+        "reading": "おくじょうから とおくに やまが みえます。",
+        "romaji": "okujou kara tooku ni yama ga miemasu.",
+        "ta": "மொட்டை மாடியிலிருந்து தொலைவில் மலை தெரிகிறது.",
+        "en": "From the rooftop you can see mountains in the distance."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-431",
+    "expression": "都",
+    "reading": "と",
+    "romaji": "to",
+    "en": "metropolis (Tokyo)",
+    "ta": "பெருநகரம் (டோக்கியோ)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "東京都には 千四百万人ぐらい 住んで います。",
+        "reading": "とうきょうとには せんよんひゃくまんにんぐらい すんで います。",
+        "romaji": "toukyou-to ni wa sen'yonhyakuman-nin gurai sunde imasu.",
+        "ta": "டோக்கியோ பெருநகரில் சுமார் ஒரு கோடியே நாற்பது லட்சம் பேர் வசிக்கிறார்கள்.",
+        "en": "About fourteen million people live in Tokyo Metropolis."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-457",
+    "expression": "それで",
+    "reading": "それで",
+    "romaji": "sorede",
+    "en": "so; that's why",
+    "ta": "அதனால்தான்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "会社が 遠いんです。それで、毎朝 六時に 家を 出ます。",
+        "reading": "かいしゃが とおいんです。それで、まいあさ ろくじに いえを でます。",
+        "romaji": "kaisha ga tooi n desu. sorede, maiasa rokuji ni ie o demasu.",
+        "ta": "அலுவலகம் தூரம். அதனால்தான் தினமும் காலை ஆறு மணிக்கு வீட்டிலிருந்து கிளம்புகிறேன்.",
+        "en": "My office is far. So I leave home at six every morning."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-471",
+    "expression": "田舎",
+    "reading": "いなか",
+    "romaji": "inaka",
+    "en": "countryside; hometown",
+    "ta": "கிராமம்; சொந்த ஊர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏休みに 田舎の 祖父の 家へ 帰ります。",
+        "reading": "なつやすみに いなかの そふの いえへ かえります。",
+        "romaji": "natsuyasumi ni inaka no sofu no ie e kaerimasu.",
+        "ta": "கோடை விடுமுறையில் கிராமத்தில் உள்ள தாத்தா வீட்டுக்குப் போவேன்.",
+        "en": "In the summer holidays I go back to my grandfather's house in the countryside."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-539",
+    "expression": "近所",
+    "reading": "きんじょ",
+    "romaji": "kinjo",
+    "en": "neighbourhood",
+    "ta": "அக்கம்பக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "近所に 大きい 公園が あります。",
+        "reading": "きんじょに おおきい こうえんが あります。",
+        "romaji": "kinjo ni ookii kouen ga arimasu.",
+        "ta": "அக்கம்பக்கத்தில் ஒரு பெரிய பூங்கா இருக்கிறது.",
+        "en": "There's a big park in my neighbourhood."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-579",
+    "expression": "移る",
+    "reading": "うつる",
+    "romaji": "utsuru",
+    "en": "to move; to transfer",
+    "ta": "இடம் மாற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "来年から 大阪の 会社に 移ります。",
+        "reading": "らいねんから おおさかの かいしゃに うつります。",
+        "romaji": "rainen kara oosaka no kaisha ni utsurimasu.",
+        "ta": "அடுத்த ஆண்டு முதல் ஒசாகாவில் உள்ள நிறுவனத்துக்கு மாறுகிறேன்.",
+        "en": "From next year I'm moving to a company in Osaka."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-625",
+    "expression": "～町",
+    "reading": "～ちょう",
+    "romaji": "～chou",
+    "en": "town of ~; ~ district",
+    "ta": "〜 நகர் / பேட்டை",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "私は 緑町に 住んで います。",
+        "reading": "わたしは みどりちょうに すんで います。",
+        "romaji": "watashi wa midori-chou ni sunde imasu.",
+        "ta": "நான் மிதோரி நகரில் வசிக்கிறேன்.",
+        "en": "I live in Midori Town."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-644",
+    "expression": "生活",
+    "reading": "せいかつ",
+    "romaji": "seikatsu",
+    "en": "life; to live",
+    "ta": "வாழ்க்கை; வாழ",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の 生活には もう 慣れましたか。",
+        "reading": "にほんの せいかつには もう なれましたか。",
+        "romaji": "nihon no seikatsu ni wa mou naremashita ka.",
+        "ta": "ஜப்பானிய வாழ்க்கைக்குப் பழகிவிட்டீர்களா?",
+        "en": "Have you got used to life in Japan?"
+      }
+    ]
+  }
+]

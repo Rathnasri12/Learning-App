@@ -1,0 +1,434 @@
+[
+  {
+    "id": "n4-v-007",
+    "expression": "ガソリン",
+    "reading": "ガソリン",
+    "romaji": "gasorin",
+    "en": "petrol, gasoline",
+    "ta": "பெட்ரோல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "車のガソリンがもうありません。",
+        "reading": "くるまの ガソリンが もう ありません。",
+        "romaji": "kuruma no gasorin ga mou arimasen.",
+        "ta": "காரில் பெட்ரோல் தீர்ந்துவிட்டது.",
+        "en": "The car is out of petrol."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-029",
+    "expression": "オートバイ",
+    "reading": "オートバイ",
+    "romaji": "ootobai",
+    "en": "motorbike",
+    "ta": "மோட்டார் சைக்கிள், பைக்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は毎日オートバイで会社へ行きます。",
+        "reading": "あには まいにち オートバイで かいしゃへ いきます。",
+        "romaji": "ani wa mainichi ootobai de kaisha e ikimasu.",
+        "ta": "என் அண்ணன் தினமும் பைக்கில் அலுவலகம் போகிறார்.",
+        "en": "My older brother goes to work by motorbike every day."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-035",
+    "expression": "運転手",
+    "reading": "うんてんしゅ",
+    "romaji": "untenshu",
+    "en": "driver",
+    "ta": "ஓட்டுநர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "バスの運転手に道を聞きました。",
+        "reading": "バスの うんてんしゅに みちを ききました。",
+        "romaji": "basu no untenshu ni michi o kikimashita.",
+        "ta": "பஸ் ஓட்டுநரிடம் வழி கேட்டேன்.",
+        "en": "I asked the bus driver the way."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-052",
+    "expression": "規則",
+    "reading": "きそく",
+    "romaji": "kisoku",
+    "en": "rule",
+    "ta": "விதி, ஒழுங்குமுறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "学校の規則を守ってください。",
+        "reading": "がっこうの きそくを まもって ください。",
+        "romaji": "gakkou no kisoku o mamotte kudasai.",
+        "ta": "பள்ளியின் விதிகளைப் பின்பற்றுங்கள்.",
+        "en": "Please follow the school rules."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-058",
+    "expression": "ごみ",
+    "reading": "ごみ",
+    "romaji": "gomi",
+    "en": "rubbish, garbage",
+    "ta": "குப்பை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ごみは月曜日と木曜日に出してください。",
+        "reading": "ごみは げつようびと もくようびに だして ください。",
+        "romaji": "gomi wa getsuyoubi to mokuyoubi ni dashite kudasai.",
+        "ta": "குப்பையைத் திங்கள், வியாழன் அன்று வெளியே வையுங்கள்.",
+        "en": "Please put out the rubbish on Mondays and Thursdays."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-073",
+    "expression": "注意",
+    "reading": "ちゅうい",
+    "romaji": "chuui",
+    "en": "care, caution",
+    "ta": "கவனம், எச்சரிக்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "道を渡る時は、車に注意してください。",
+        "reading": "みちを わたる ときは、くるまに ちゅういして ください。",
+        "romaji": "michi o wataru toki wa, kuruma ni chuui shite kudasai.",
+        "ta": "சாலையைக் கடக்கும்போது வாகனங்களைக் கவனியுங்கள்.",
+        "en": "Watch out for cars when you cross the road."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-078",
+    "expression": "通る",
+    "reading": "とおる",
+    "romaji": "tooru",
+    "en": "to pass through",
+    "ta": "கடந்து செல்ல, வழியாகப் போக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "このバスは駅の前を通ります。",
+        "reading": "この バスは えきの まえを とおります。",
+        "romaji": "kono basu wa eki no mae o toorimasu.",
+        "ta": "இந்த பஸ் ஸ்டேஷன் முன்னால் வழியாகப் போகும்.",
+        "en": "This bus goes past the front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-124",
+    "expression": "触る",
+    "reading": "さわる",
+    "romaji": "sawaru",
+    "en": "to touch",
+    "ta": "தொட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "危ないですから、触らないでください。",
+        "reading": "あぶないですから、さわらないで ください。",
+        "romaji": "abunai desu kara, sawaranaide kudasai.",
+        "ta": "ஆபத்தானது, தொடாதீர்கள்.",
+        "en": "It’s dangerous, so please don’t touch it."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-150",
+    "expression": "止める",
+    "reading": "とめる",
+    "romaji": "tomeru",
+    "en": "to stop (something), to park",
+    "ta": "நிறுத்த",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "ここに車を止めないでください。",
+        "reading": "ここに くるまを とめないで ください。",
+        "romaji": "koko ni kuruma o tomenaide kudasai.",
+        "ta": "இங்கே காரை நிறுத்தாதீர்கள்.",
+        "en": "Please don’t park your car here."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-191",
+    "expression": "決して",
+    "reading": "けっして",
+    "romaji": "kesshite",
+    "en": "never (with negative)",
+    "ta": "ஒருபோதும் (〜 கூடாது)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "お酒を飲んだら、決して運転してはいけません。",
+        "reading": "おさけを のんだら、けっして うんてんしては いけません。",
+        "romaji": "osake o nondara, kesshite unten shite wa ikemasen.",
+        "ta": "மது அருந்தினால் ஒருபோதும் வாகனம் ஓட்டக் கூடாது.",
+        "en": "If you drink alcohol, you must never drive."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-277",
+    "expression": "運転",
+    "reading": "うんてん",
+    "romaji": "unten",
+    "en": "driving",
+    "ta": "(வாகனம்) ஓட்டுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は車の運転が上手です。",
+        "reading": "ちちは くるまの うんてんが じょうずです。",
+        "romaji": "chichi wa kuruma no unten ga jouzu desu.",
+        "ta": "என் அப்பா கார் நன்றாக ஓட்டுவார்.",
+        "en": "My father is a good driver."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-289",
+    "expression": "乗り物",
+    "reading": "のりもの",
+    "romaji": "norimono",
+    "en": "vehicle, ride",
+    "ta": "வாகனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "子どもは乗り物が大好きです。",
+        "reading": "こどもは のりものが だいすきです。",
+        "romaji": "kodomo wa norimono ga daisuki desu.",
+        "ta": "குழந்தைகளுக்கு வாகனங்கள் என்றால் மிகவும் பிடிக்கும்.",
+        "en": "Children love vehicles."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-300",
+    "expression": "法律",
+    "reading": "ほうりつ",
+    "romaji": "houritsu",
+    "en": "law",
+    "ta": "சட்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本には、二十歳までお酒を飲んではいけないという法律があります。",
+        "reading": "にほんには、はたちまで おさけを のんでは いけないと いう ほうりつが あります。",
+        "romaji": "nihon ni wa, hatachi made osake o nonde wa ikenai to iu houritsu ga arimasu.",
+        "ta": "ஜப்பானில் இருபது வயது வரை மது அருந்தக் கூடாது என்ற சட்டம் இருக்கிறது.",
+        "en": "In Japan there is a law that you can’t drink alcohol until you are twenty."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-318",
+    "expression": "交通",
+    "reading": "こうつう",
+    "romaji": "koutsuu",
+    "en": "traffic, transport",
+    "ta": "போக்குவரத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この町は交通が便利です。",
+        "reading": "この まちは こうつうが べんりです。",
+        "romaji": "kono machi wa koutsuu ga benri desu.",
+        "ta": "இந்த நகரத்தில் போக்குவரத்து வசதியாக இருக்கிறது.",
+        "en": "Transport is convenient in this town."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-403",
+    "expression": "通り",
+    "reading": "とおり",
+    "romaji": "toori",
+    "en": "street, road",
+    "ta": "தெரு, சாலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この通りをまっすぐ行ってください。",
+        "reading": "この とおりを まっすぐ いって ください。",
+        "romaji": "kono toori o massugu itte kudasai.",
+        "ta": "இந்தச் சாலையில் நேராகப் போங்கள்.",
+        "en": "Please go straight along this street."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-449",
+    "expression": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "en": "car park, parking lot",
+    "ta": "வாகன நிறுத்துமிடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "スーパーの駐車場に車を止めました。",
+        "reading": "スーパーの ちゅうしゃじょうに くるまを とめました。",
+        "romaji": "suupaa no chuushajou ni kuruma o tomemashita.",
+        "ta": "சூப்பர் மார்க்கெட்டின் வாகன நிறுத்துமிடத்தில் காரை நிறுத்தினேன்.",
+        "en": "I parked the car in the supermarket car park."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-478",
+    "expression": "下りる",
+    "reading": "おりる",
+    "romaji": "oriru",
+    "en": "to go down, to get off",
+    "ta": "இறங்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "階段を下りて、右へ行ってください。",
+        "reading": "かいだんを おりて、みぎへ いって ください。",
+        "romaji": "kaidan o orite, migi e itte kudasai.",
+        "ta": "படிக்கட்டில் இறங்கி வலது பக்கம் போங்கள்.",
+        "en": "Go down the stairs and turn right."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-506",
+    "expression": "下がる",
+    "reading": "さがる",
+    "romaji": "sagaru",
+    "en": "to step back, to go down",
+    "ta": "பின்னால் நகர, இறங்க / குறைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "危ないですから、白い線の後ろに下がってください。",
+        "reading": "あぶないですから、しろい せんの うしろに さがって ください。",
+        "romaji": "abunai desu kara, shiroi sen no ushiro ni sagatte kudasai.",
+        "ta": "ஆபத்து, வெள்ளைக் கோட்டுக்குப் பின்னால் நகர்ந்து நில்லுங்கள்.",
+        "en": "It’s dangerous, so please step back behind the white line."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-562",
+    "expression": "回る、回す",
+    "reading": "まわる、まわす",
+    "romaji": "mawaru,mawasu",
+    "en": "to turn, to go around",
+    "ta": "சுற்ற / சுழற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "かぎを右に回して、ドアを開けてください。",
+        "reading": "かぎを みぎに まわして、ドアを あけて ください。",
+        "romaji": "kagi o migi ni mawashite, doa o akete kudasai.",
+        "ta": "சாவியை வலது பக்கம் திருப்பிக் கதவைத் திறங்கள்.",
+        "en": "Turn the key to the right and open the door."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-571",
+    "expression": "向かう",
+    "reading": "むかう",
+    "romaji": "mukau",
+    "en": "to head towards",
+    "ta": "நோக்கிச் செல்ல",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "今、タクシーで駅に向かっています。",
+        "reading": "いま、タクシーで えきに むかって います。",
+        "romaji": "ima, takushii de eki ni mukatte imasu.",
+        "ta": "இப்போது டாக்ஸியில் ஸ்டேஷனை நோக்கிப் போய்க்கொண்டிருக்கிறேன்.",
+        "en": "I’m on my way to the station by taxi now."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-616",
+    "expression": "込む",
+    "reading": "こむ",
+    "romaji": "komu",
+    "en": "to be crowded",
+    "ta": "கூட்டமாக / நெரிசலாக இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "朝の電車はとても込んでいます。",
+        "reading": "あさの でんしゃは とても こんで います。",
+        "romaji": "asa no densha wa totemo konde imasu.",
+        "ta": "காலை ரயில் மிகவும் நெரிசலாக இருக்கிறது.",
+        "en": "The morning trains are very crowded."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-621",
+    "expression": "途中",
+    "reading": "とちゅう",
+    "romaji": "tochuu",
+    "en": "on the way, midway",
+    "ta": "வழியில், பாதியில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "学校へ行く途中で、友達に会いました。",
+        "reading": "がっこうへ いく とちゅうで、ともだちに あいました。",
+        "romaji": "gakkou e iku tochuu de, tomodachi ni aimashita.",
+        "ta": "பள்ளிக்குப் போகும் வழியில் நண்பரைச் சந்தித்தேன்.",
+        "en": "I met a friend on my way to school."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-623",
+    "expression": "乗り換える",
+    "reading": "のりかえる",
+    "romaji": "norikaeru",
+    "en": "to change (trains, buses)",
+    "ta": "(வண்டி) மாற",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "新宿で山手線に乗り換えます。",
+        "reading": "しんじゅくで やまのてせんに のりかえます。",
+        "romaji": "shinjuku de yamanotesen ni norikaemasu.",
+        "ta": "ஷின்ஜுக்குவில் யாமானோதே லைனுக்கு மாறுகிறேன்.",
+        "en": "I change to the Yamanote Line at Shinjuku."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-630",
+    "expression": "ガソリンスタンド",
+    "reading": "ガソリンスタンド",
+    "romaji": "gasorinsutando",
+    "en": "petrol station",
+    "ta": "பெட்ரோல் பங்க்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの角にガソリンスタンドがあります。",
+        "reading": "あの かどに ガソリンスタンドが あります。",
+        "romaji": "ano kado ni gasorinsutando ga arimasu.",
+        "ta": "அந்த முனையில் ஒரு பெட்ரோல் பங்க் இருக்கிறது.",
+        "en": "There is a petrol station on that corner."
+      }
+    ]
+  }
+]

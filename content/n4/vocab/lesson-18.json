@@ -1,0 +1,326 @@
+[
+  {
+    "id": "n4-v-011",
+    "expression": "苦い",
+    "reading": "にがい",
+    "romaji": "nigai",
+    "en": "bitter",
+    "ta": "கசப்பான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "ゴーヤは苦いですが、体にいいです。",
+        "reading": "ゴーヤは にがいですが、からだに いいです。",
+        "romaji": "gooya wa nigai desu ga, karada ni ii desu.",
+        "ta": "பாகற்காய் கசப்பானது, ஆனால் உடலுக்கு நல்லது.",
+        "en": "Bitter gourd is bitter, but it’s good for you."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-041",
+    "expression": "柔らかい",
+    "reading": "やわらかい",
+    "romaji": "yawarakai",
+    "en": "soft; tender",
+    "ta": "மென்மையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この店のパンはとても柔らかいです。",
+        "reading": "この みせの パンは とても やわらかいです。",
+        "romaji": "kono mise no pan wa totemo yawarakai desu.",
+        "ta": "இந்தக் கடையின் ரொட்டி மிகவும் மென்மையானது.",
+        "en": "The bread at this shop is very soft."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-108",
+    "expression": "噛む",
+    "reading": "かむ",
+    "romaji": "kamu",
+    "en": "to chew; to bite",
+    "ta": "மெல்ல (கடிக்க)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "ご飯はよく噛んで食べてください。",
+        "reading": "ごはんは よく かんで たべて ください。",
+        "romaji": "gohan wa yoku kande tabete kudasai.",
+        "ta": "சாப்பாட்டை நன்றாக மென்று சாப்பிடுங்கள்.",
+        "en": "Please chew your food well."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-144",
+    "expression": "サンドイッチ",
+    "reading": "サンドイッチ",
+    "romaji": "sandoitchi",
+    "en": "sandwich",
+    "ta": "சாண்ட்விச்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼ご飯に、コンビニでサンドイッチを買います。",
+        "reading": "ひるごはんに、コンビニで サンドイッチを かいます。",
+        "romaji": "hirugohan ni, konbini de sandoitchi o kaimasu.",
+        "ta": "மதிய உணவுக்குக் கன்வீனியன்ஸ் கடையில் சாண்ட்விச் வாங்குவேன்.",
+        "en": "I buy a sandwich at the convenience store for lunch."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-169",
+    "expression": "ぶどう",
+    "reading": "ぶどう",
+    "romaji": "budou",
+    "en": "grapes",
+    "ta": "திராட்சை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "山梨県はぶどうで有名です。",
+        "reading": "やまなしけんは ぶどうで ゆうめいです。",
+        "romaji": "yamanashi ken wa budou de yuumei desu.",
+        "ta": "யமனாஷி மாகாணம் திராட்சைக்குப் பெயர் பெற்றது.",
+        "en": "Yamanashi Prefecture is famous for grapes."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-222",
+    "expression": "匂い",
+    "reading": "におい",
+    "romaji": "nioi",
+    "en": "smell",
+    "ta": "மணம் (வாசனை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この花はいい匂いですね。",
+        "reading": "この はなは いい においですね。",
+        "romaji": "kono hana wa ii nioi desu ne.",
+        "ta": "இந்தப் பூ நல்ல மணமாக இருக்கிறது, இல்லையா?",
+        "en": "This flower smells nice, doesn’t it?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-229",
+    "expression": "残る",
+    "reading": "のこる",
+    "romaji": "nokoru",
+    "en": "to be left over",
+    "ta": "மீதம் இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "昨日のカレーがまだ残っています。",
+        "reading": "きのうの カレーが まだ のこって います。",
+        "romaji": "kinou no karee ga mada nokotte imasu.",
+        "ta": "நேற்றைய கறி இன்னும் மீதம் இருக்கிறது.",
+        "en": "There’s still some curry left from yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-252",
+    "expression": "サラダ",
+    "reading": "サラダ",
+    "romaji": "sarada",
+    "en": "salad",
+    "ta": "சாலட் (பச்சைக் காய்கறிக் கலவை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎朝、トマトのサラダを食べます。",
+        "reading": "まいあさ、トマトの サラダを たべます。",
+        "romaji": "maiasa, tomato no sarada o tabemasu.",
+        "ta": "தினமும் காலையில் தக்காளி சாலட் சாப்பிடுவேன்.",
+        "en": "I eat a tomato salad every morning."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-257",
+    "expression": "ステーキ",
+    "reading": "ステーキ",
+    "romaji": "suteeki",
+    "en": "steak",
+    "ta": "ஸ்டீக் (வறுத்த இறைச்சித் துண்டு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "誕生日にレストランでステーキを食べました。",
+        "reading": "たんじょうびに レストランで ステーキを たべました。",
+        "romaji": "tanjoubi ni resutoran de suteeki o tabemashita.",
+        "ta": "பிறந்தநாளில் உணவகத்தில் ஸ்டீக் சாப்பிட்டேன்.",
+        "en": "I had steak at a restaurant on my birthday."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-323",
+    "expression": "味",
+    "reading": "あじ",
+    "romaji": "aji",
+    "en": "taste; flavour",
+    "ta": "சுவை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この店のラーメンは味がいいです。",
+        "reading": "この みせの ラーメンは あじが いいです。",
+        "romaji": "kono mise no raamen wa aji ga ii desu.",
+        "ta": "இந்தக் கடையின் ராமென் சுவையாக இருக்கும்.",
+        "en": "The ramen at this shop tastes good."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-327",
+    "expression": "ごちそう",
+    "reading": "ごちそう",
+    "romaji": "gochisou",
+    "en": "feast; treat",
+    "ta": "விருந்து (விருந்தளிப்பு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先輩が晩ご飯をごちそうしてくれました。",
+        "reading": "せんぱいが ばんごはんを ごちそうして くれました。",
+        "romaji": "senpai ga bangohan o gochisou shite kuremashita.",
+        "ta": "மூத்தவர் எனக்கு இரவு உணவு வாங்கித் தந்தார்.",
+        "en": "My senior treated me to dinner."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-352",
+    "expression": "一杯",
+    "reading": "いっぱい",
+    "romaji": "ippai",
+    "en": "full; a lot",
+    "ta": "நிரம்பிய (நிறைய)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "もうおなかがいっぱいです。",
+        "reading": "もう おなかが いっぱいです。",
+        "romaji": "mou onaka ga ippai desu.",
+        "ta": "ஏற்கனவே வயிறு நிரம்பிவிட்டது.",
+        "en": "I’m already full."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-393",
+    "expression": "うまい",
+    "reading": "うまい",
+    "romaji": "umai",
+    "en": "tasty; skilful",
+    "ta": "சுவையான (திறமையான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この店のラーメンはうまいですよ。",
+        "reading": "この みせの ラーメンは うまいですよ。",
+        "romaji": "kono mise no raamen wa umai desu yo.",
+        "ta": "இந்தக் கடையின் ராமென் அருமையான சுவை.",
+        "en": "The ramen at this shop is really tasty."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-414",
+    "expression": "ハンバーグ",
+    "reading": "ハンバーグ",
+    "romaji": "hanbaagu",
+    "en": "hamburger steak",
+    "ta": "ஹம்பர்க் (அரைத்த இறைச்சி வடை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "子どもたちはハンバーグが大好きです。",
+        "reading": "こどもたちは ハンバーグが だいすきです。",
+        "romaji": "kodomotachi wa hanbaagu ga daisuki desu.",
+        "ta": "குழந்தைகளுக்கு ஹம்பர்க் மிகவும் பிடிக்கும்.",
+        "en": "The children love hamburger steak."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-448",
+    "expression": "堅; 硬; 固い",
+    "reading": "かたい",
+    "romaji": "katai",
+    "en": "hard; tough",
+    "ta": "கடினமான (கெட்டியான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この肉は固くて、なかなか噛めません。",
+        "reading": "この にくは かたくて、なかなか かめません。",
+        "romaji": "kono niku wa katakute, nakanaka kamemasen.",
+        "ta": "இந்த இறைச்சி கடினமாக இருப்பதால் மெல்லவே முடியவில்லை.",
+        "en": "This meat is tough, and I can hardly chew it."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-510",
+    "expression": "空く",
+    "reading": "すく",
+    "romaji": "suku",
+    "en": "to be less crowded; to get empty",
+    "ta": "கூட்டம் குறைய (காலியாக)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "昼の二時ごろは、レストランが空いています。",
+        "reading": "ひるの にじごろは、レストランが すいて います。",
+        "romaji": "hiru no niji goro wa, resutoran ga suite imasu.",
+        "ta": "மதியம் இரண்டு மணி அளவில் உணவகத்தில் கூட்டம் குறைவாக இருக்கும்.",
+        "en": "Around 2 p.m., restaurants are not crowded."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-635",
+    "expression": "食事",
+    "reading": "しょくじ",
+    "romaji": "shokuji",
+    "en": "meal; to eat a meal",
+    "ta": "உணவு (சாப்பாடு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末に家族と外で食事をしました。",
+        "reading": "しゅうまつに かぞくと そとで しょくじを しました。",
+        "romaji": "shuumatsu ni kazoku to soto de shokuji o shimashita.",
+        "ta": "வார இறுதியில் குடும்பத்துடன் வெளியே சாப்பிட்டேன்.",
+        "en": "At the weekend I ate out with my family."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-657",
+    "expression": "アルコール",
+    "reading": "アルコール",
+    "romaji": "arukooru",
+    "en": "alcohol",
+    "ta": "மது (ஆல்கஹால்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "車で来たので、アルコールは飲めません。",
+        "reading": "くるまで きたので、アルコールは のめません。",
+        "romaji": "kuruma de kita node, arukooru wa nomemasen.",
+        "ta": "காரில் வந்ததால் மது குடிக்க முடியாது.",
+        "en": "I came by car, so I can’t drink alcohol."
+      }
+    ]
+  }
+]

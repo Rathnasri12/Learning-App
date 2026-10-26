@@ -1,0 +1,434 @@
+[
+  {
+    "id": "n4-v-008",
+    "expression": "鳴る",
+    "reading": "なる",
+    "romaji": "naru",
+    "en": "to ring; to sound",
+    "ta": "ஒலிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "授業中に 携帯電話が 鳴って しまいました。",
+        "reading": "じゅぎょうちゅうに けいたいでんわが なって しまいました。",
+        "romaji": "jugyouchuu ni keitai denwa ga natte shimaimashita.",
+        "ta": "வகுப்பு நடக்கும்போது கைப்பேசி ஒலித்துவிட்டது.",
+        "en": "My mobile phone rang during class."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-012",
+    "expression": "沸く",
+    "reading": "わく",
+    "romaji": "waku",
+    "en": "to boil",
+    "ta": "கொதிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "お湯が 沸いたら、お茶を 入れましょう。",
+        "reading": "おゆが わいたら、おちゃを いれましょう。",
+        "romaji": "oyu ga waitara, ocha o iremashou.",
+        "ta": "தண்ணீர் கொதித்ததும் டீ போடலாம்.",
+        "en": "When the water boils, let's make tea."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-020",
+    "expression": "折る",
+    "reading": "おる",
+    "romaji": "oru",
+    "en": "to break; to fold",
+    "ta": "முறிக்க; மடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "サッカーで 足の 骨を 折りました。",
+        "reading": "サッカーで あしの ほねを おりました。",
+        "romaji": "sakkaa de ashi no hone o orimashita.",
+        "ta": "கால்பந்து விளையாடும்போது காலெலும்பு முறிந்துவிட்டது.",
+        "en": "I broke a bone in my leg playing football."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-026",
+    "expression": "壊す",
+    "reading": "こわす",
+    "romaji": "kowasu",
+    "en": "to break (something)",
+    "ta": "உடைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "弟が 私の 時計を 壊しました。",
+        "reading": "おとうとが わたしの とけいを こわしました。",
+        "romaji": "otouto ga watashi no tokei o kowashimashita.",
+        "ta": "தம்பி என் கடிகாரத்தை உடைத்துவிட்டான்.",
+        "en": "My younger brother broke my watch."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-068",
+    "expression": "布団",
+    "reading": "ふとん",
+    "romaji": "futon",
+    "en": "futon (bedding)",
+    "ta": "மெத்தை (ஃபுட்டான்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "晴れた 日は 布団を 外に 干します。",
+        "reading": "はれた ひは ふとんを そとに ほします。",
+        "romaji": "hareta hi wa futon o soto ni hoshimasu.",
+        "ta": "வெயில் நாளில் மெத்தையை வெளியே காயப் போடுவேன்.",
+        "en": "On sunny days I air the futon outside."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-087",
+    "expression": "ガラス",
+    "reading": "ガラス",
+    "romaji": "garasu",
+    "en": "glass",
+    "ta": "கண்ணாடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ボールが 当たって、窓の ガラスが 割れました。",
+        "reading": "ボールが あたって、まどの ガラスが われました。",
+        "romaji": "booru ga atatte, mado no garasu ga waremashita.",
+        "ta": "பந்து பட்டு ஜன்னல் கண்ணாடி உடைந்தது.",
+        "en": "A ball hit the window and the glass broke."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-096",
+    "expression": "壊れる",
+    "reading": "こわれる",
+    "romaji": "kowareru",
+    "en": "to break; to be broken",
+    "ta": "உடைய; பழுதாக",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "エアコンが 壊れて、部屋が とても 暑いです。",
+        "reading": "エアコンが こわれて、へやが とても あついです。",
+        "romaji": "eakon ga kowarete, heya ga totemo atsui desu.",
+        "ta": "ஏசி பழுதாகிவிட்டதால் அறை மிகவும் சூடாக இருக்கிறது.",
+        "en": "The air conditioner broke, so the room is very hot."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-098",
+    "expression": "落ちる",
+    "reading": "おちる",
+    "romaji": "ochiru",
+    "en": "to fall; to drop",
+    "ta": "விழ",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "木から りんごが 落ちました。",
+        "reading": "きから りんごが おちました。",
+        "romaji": "ki kara ringo ga ochimashita.",
+        "ta": "மரத்திலிருந்து ஆப்பிள் விழுந்தது.",
+        "en": "An apple fell from the tree."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-188",
+    "expression": "～(て) しまう",
+    "reading": "～(て) しまう",
+    "romaji": "～(te)shimau",
+    "en": "to finish ~; to end up ~",
+    "ta": "〜விட (முடித்துவிட / தவறுதலாக நடந்துவிட)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "宿題を 全部 やって しまいました。",
+        "reading": "しゅくだいを ぜんぶ やって しまいました。",
+        "romaji": "shukudai o zenbu yatte shimaimashita.",
+        "ta": "வீட்டுப்பாடம் முழுவதையும் செய்து முடித்துவிட்டேன்.",
+        "en": "I've finished all my homework."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-198",
+    "expression": "捨てる",
+    "reading": "すてる",
+    "romaji": "suteru",
+    "en": "to throw away",
+    "ta": "தூக்கி எறிய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "古い 雑誌を 捨てました。",
+        "reading": "ふるい ざっしを すてました。",
+        "romaji": "furui zasshi o sutemashita.",
+        "ta": "பழைய பத்திரிகைகளைத் தூக்கி எறிந்தேன்.",
+        "en": "I threw away some old magazines."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-208",
+    "expression": "壁",
+    "reading": "かべ",
+    "romaji": "kabe",
+    "en": "wall",
+    "ta": "சுவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "壁に カレンダーを かけました。",
+        "reading": "かべに カレンダーを かけました。",
+        "romaji": "kabe ni karendaa o kakemashita.",
+        "ta": "சுவரில் நாட்காட்டியை மாட்டினேன்.",
+        "en": "I hung a calendar on the wall."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-263",
+    "expression": "乾く",
+    "reading": "かわく",
+    "romaji": "kawaku",
+    "en": "to dry; to get dry",
+    "ta": "காய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "洗濯物は もう 乾きましたか。",
+        "reading": "せんたくものは もう かわきましたか。",
+        "romaji": "sentakumono wa mou kawakimashita ka.",
+        "ta": "துவைத்த துணிகள் காய்ந்துவிட்டனவா?",
+        "en": "Is the laundry dry yet?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-344",
+    "expression": "片付ける",
+    "reading": "かたづける",
+    "romaji": "katazukeru",
+    "en": "to tidy up; to put away",
+    "ta": "ஒழுங்குபடுத்த; எடுத்து வைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "遊んだ 後で、おもちゃを 片付けて ください。",
+        "reading": "あそんだ あとで、おもちゃを かたづけて ください。",
+        "romaji": "asonda ato de, omocha o katazukete kudasai.",
+        "ta": "விளையாடிய பிறகு பொம்மைகளை எடுத்து வையுங்கள்.",
+        "en": "After playing, please put your toys away."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-371",
+    "expression": "隅",
+    "reading": "すみ",
+    "romaji": "sumi",
+    "en": "corner (inside)",
+    "ta": "மூலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "部屋の 隅に 小さい 机が あります。",
+        "reading": "へやの すみに ちいさい つくえが あります。",
+        "romaji": "heya no sumi ni chiisai tsukue ga arimasu.",
+        "ta": "அறையின் மூலையில் ஒரு சின்ன மேசை இருக்கிறது.",
+        "en": "There's a small desk in the corner of the room."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-388",
+    "expression": "押し入れ",
+    "reading": "おしいれ",
+    "romaji": "oshiire",
+    "en": "closet (Japanese-style)",
+    "ta": "சுவர் அலமாரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝 起きたら、布団を 押し入れに しまいます。",
+        "reading": "あさ おきたら、ふとんを おしいれに しまいます。",
+        "romaji": "asa okitara, futon o oshiire ni shimaimasu.",
+        "ta": "காலையில் எழுந்ததும் மெத்தையைச் சுவர் அலமாரியில் வைத்துவிடுவேன்.",
+        "en": "When I get up, I put the futon away in the closet."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-401",
+    "expression": "空く",
+    "reading": "あく",
+    "romaji": "aku",
+    "en": "to become empty; to be free",
+    "ta": "காலியாக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "すみません、この 席は 空いて いますか。",
+        "reading": "すみません、この せきは あいて いますか。",
+        "romaji": "sumimasen, kono seki wa aite imasu ka.",
+        "ta": "மன்னிக்கவும், இந்த இருக்கை காலியாக இருக்கிறதா?",
+        "en": "Excuse me, is this seat free?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-416",
+    "expression": "引き出し",
+    "reading": "ひきだし",
+    "romaji": "hikidashi",
+    "en": "drawer",
+    "ta": "இழுப்பறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "はさみは 机の 引き出しに 入って います。",
+        "reading": "はさみは つくえの ひきだしに はいって います。",
+        "romaji": "hasami wa tsukue no hikidashi ni haitte imasu.",
+        "ta": "கத்தரிக்கோல் மேசை இழுப்பறையில் இருக்கிறது.",
+        "en": "The scissors are in the desk drawer."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-520",
+    "expression": "カーテン",
+    "reading": "カーテン",
+    "romaji": "kaaten",
+    "en": "curtain",
+    "ta": "திரைச்சீலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝 起きて、カーテンを 開けます。",
+        "reading": "あさ おきて、カーテンを あけます。",
+        "romaji": "asa okite, kaaten o akemasu.",
+        "ta": "காலையில் எழுந்து திரைச்சீலையைத் திறக்கிறேன்.",
+        "en": "I get up in the morning and open the curtains."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-532",
+    "expression": "直る",
+    "reading": "なおる",
+    "romaji": "naoru",
+    "en": "to be fixed",
+    "ta": "சரியாக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "パソコンは もう 直りましたか。",
+        "reading": "パソコンは もう なおりましたか。",
+        "romaji": "pasokon wa mou naorimashita ka.",
+        "ta": "கணினி சரியாகிவிட்டதா?",
+        "en": "Has the computer been fixed yet?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-534",
+    "expression": "直す",
+    "reading": "なおす",
+    "romaji": "naosu",
+    "en": "to fix; to correct",
+    "ta": "சரிசெய்ய; திருத்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "父が 壊れた いすを 直しました。",
+        "reading": "ちちが こわれた いすを なおしました。",
+        "romaji": "chichi ga kowareta isu o naoshimashita.",
+        "ta": "அப்பா உடைந்த நாற்காலியைச் சரிசெய்தார்.",
+        "en": "My father fixed the broken chair."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-549",
+    "expression": "点く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "en": "to come on (light, power)",
+    "ta": "எரிய (விளக்கு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "夜に なると、町の 電気が 点きます。",
+        "reading": "よるに なると、まちの でんきが つきます。",
+        "romaji": "yoru ni naru to, machi no denki ga tsukimasu.",
+        "ta": "இரவானதும் நகரத்தின் விளக்குகள் எரியத் தொடங்கும்.",
+        "en": "When night comes, the town lights come on."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-558",
+    "expression": "割れる",
+    "reading": "われる",
+    "romaji": "wareru",
+    "en": "to break; to crack",
+    "ta": "உடைய (கண்ணாடி போன்றவை)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "コップが 落ちて、割れて しまいました。",
+        "reading": "コップが おちて、われて しまいました。",
+        "romaji": "koppu ga ochite, warete shimaimashita.",
+        "ta": "கிளாஸ் கீழே விழுந்து உடைந்துவிட்டது.",
+        "en": "The glass fell and broke."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-595",
+    "expression": "汚れる",
+    "reading": "よごれる",
+    "romaji": "yogoreru",
+    "en": "to get dirty",
+    "ta": "அழுக்காக",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "雨の 中を 歩いて、靴が 汚れました。",
+        "reading": "あめの なかを あるいて、くつが よごれました。",
+        "romaji": "ame no naka o aruite, kutsu ga yogoremashita.",
+        "ta": "மழையில் நடந்ததால் காலணிகள் அழுக்காகிவிட்டன.",
+        "en": "I walked in the rain and my shoes got dirty."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-651",
+    "expression": "棚",
+    "reading": "たな",
+    "romaji": "tana",
+    "en": "shelf",
+    "ta": "அலமாரித் தட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "読んだ 本を 棚に 戻して ください。",
+        "reading": "よんだ ほんを たなに もどして ください。",
+        "romaji": "yonda hon o tana ni modoshite kudasai.",
+        "ta": "படித்த புத்தகத்தை அலமாரியில் திரும்ப வையுங்கள்.",
+        "en": "Please put the book you read back on the shelf."
+      }
+    ]
+  }
+]

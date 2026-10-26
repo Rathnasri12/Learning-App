@@ -1,0 +1,145 @@
+{
+  "lesson": 9,
+  "title": { "ja": "説明書のとおりに作ります", "ta": "குறிப்பின்படி செய்கிறேன்", "en": "Make it as the instructions say" },
+  "intro_ta": "இந்தப் பாடத்தில் சமையல் குறிப்பு, வழிமுறைகளைப் பின்பற்றுவது பற்றிப் பேசக் கற்போம். 'குறிப்பின்படி' (説明書のとおりに), 'சர்க்கரை போடாமல் குடிப்பது' (砂糖を入れないで飲む), 'பஸ்ஸில் போகாமல் நடந்து போவது' (バスに乗らないで歩く), எழுத்து நடையில் 'செய்யாமல்' (〜ずに), 'செய்யும் முறை' (作り方) ஆகியவற்றைக் கற்போம். இவற்றைக் கொண்டு ஒரு உணவைச் செய்யும் முறையை ஜப்பானிய மொழியில் விளக்க முடியும்.",
+  "intro_en": "In this lesson you learn to talk about recipes and following instructions. You will say \"as the instructions say\" (説明書のとおりに). You will say \"drink it without sugar\" (砂糖を入れないで飲む). You will say \"walk instead of taking the bus\" (バスに乗らないで歩く). You will learn a formal \"without doing\" (〜ずに) and \"how to do\" (作り方). With these, you can explain how to make a dish in Japanese.",
+  "grammar": [
+    {
+      "id": "g09-1",
+      "pattern": "V-た / N の とおりに",
+      "name": { "en": "Exactly as …", "ta": "〜 படியே, 〜 போலவே" },
+      "explanation_ta": "'V-た とおりに' அல்லது 'N の とおりに' = 'சொன்னபடியே / காட்டியபடியே அப்படியே செய்வது'. தமிழின் '〜படி' (சொன்னபடி, குறிப்பின்படி) என்பதற்கு நேரான இணை: 説明書のとおりに作ります = 'கையேட்டின்படி செய்கிறேன்'. கடந்த கால வடிவம் (言ったとおりに) 'முன்பே சொன்னது / பார்த்தது' என்பதைக் காட்டும். இனி நான் செய்யப்போவதைப் பார்த்துச் செய்யச் சொல்ல அகராதி வடிவம்: 私がやるとおりにやってください. பெயர்ச்சொல்லுடன் சுருக்கமாக 'Nどおり(に)' என்றும் சொல்லலாம்: 予定どおり ('திட்டப்படி').",
+      "explanation_en": "V-た とおりに or N の とおりに = \"exactly as (someone) said or showed\". It matches Tamil 〜படி (சொன்னபடி \"as he said\", குறிப்பின்படி \"as the recipe says\"): 説明書のとおりに作ります = \"I make it as the manual says\". The past form (言ったとおりに) points to something said or seen before. To ask someone to copy what you are going to do, use the dictionary form: 私がやるとおりにやってください. With nouns there is also a short form Nどおり(に): 予定どおり (\"as planned\").",
+      "tamil_parallel": "அம்மா சொன்னபடியே சமைத்தேன் = 母が言ったとおりに作りました; குறிப்பின்படி = レシピのとおりに",
+      "tamil_parallel_en": "அம்மா சொன்னபடியே சமைத்தேன் (I cooked exactly as Mum said) = 母が言ったとおりに作りました; குறிப்பின்படி (as the recipe says) = レシピのとおりに",
+      "formation": "V-た + とおりに (言った / 見た / 習った とおりに)\nV-அகராதி வடிவம் + とおりに (私が やる とおりに)\nN + の + とおりに (説明書の / 地図の とおりに) = Nどおりに",
+      "formation_en": "V-た + とおりに (言った / 見た / 習った とおりに)\nV-dictionary form + とおりに (私が やる とおりに)\nN + の + とおりに (説明書の / 地図の とおりに) = Nどおりに",
+      "examples": [
+        { "ja": "説明書のとおりに作ってください。", "reading": "せつめいしょの とおりに つくって ください。", "romaji": "setsumeisho no toori ni tsukutte kudasai.", "ta": "கையேட்டின்படியே செய்யுங்கள்.", "en": "Please make it as the instructions say." },
+        { "ja": "母に習ったとおりに、カレーを作りました。", "reading": "ははに ならった とおりに、カレーを つくりました。", "romaji": "haha ni naratta toori ni, karee o tsukurimashita.", "ta": "அம்மாவிடம் கற்றபடியே கறி சமைத்தேன்.", "en": "I made curry just as my mother taught me." },
+        { "ja": "先生が言ったとおりに書きました。", "reading": "せんせいが いった とおりに かきました。", "romaji": "sensei ga itta toori ni kakimashita.", "ta": "ஆசிரியர் சொன்னபடியே எழுதினேன்.", "en": "I wrote it exactly as the teacher said." },
+        { "ja": "地図のとおりに行ったら、すぐ駅に着きました。", "reading": "ちずの とおりに いったら、すぐ えきに つきました。", "romaji": "chizu no toori ni ittara, sugu eki ni tsukimashita.", "ta": "வரைபடத்தின்படி போனதும் உடனே ஸ்டேஷனை அடைந்தேன்.", "en": "I followed the map and got to the station quickly." },
+        { "ja": "私がやるとおりに、やってみてください。", "reading": "わたしが やる とおりに、やって みて ください。", "romaji": "watashi ga yaru toori ni, yatte mite kudasai.", "ta": "நான் செய்வது போலவே செய்து பாருங்கள்.", "en": "Try doing it just the way I do." },
+        { "ja": "レシピのとおりに作りましたが、おいしくありませんでした。", "reading": "レシピの とおりに つくりましたが、おいしく ありませんでした。", "romaji": "reshipi no toori ni tsukurimashita ga, oishiku arimasen deshita.", "ta": "குறிப்பின்படியே செய்தேன், ஆனால் சுவையாக இல்லை.", "en": "I followed the recipe, but it didn’t taste good." }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் の மறக்க வேண்டாம்: 説明書とおりに தவறு; 説明書のとおりに அல்லது 説明書どおりに.",
+      "pitfalls_en": "Don’t forget の after a noun. 説明書とおりに is wrong. Say 説明書のとおりに or 説明書どおりに."
+    },
+    {
+      "id": "g09-2",
+      "pattern": "V-て / V-ないで V (manner)",
+      "name": { "en": "Doing V with / without …", "ta": "〜 செய்து / 〜 செய்யாமல் (முறை)" },
+      "explanation_ta": "இரண்டு வினைகளில் முதல் வினை, இரண்டாம் வினை எந்த நிலையில் / எப்படிச் செய்யப்படுகிறது என்பதைக் காட்டும். V-て V = 'செய்து கொண்டு': 砂糖を入れて飲みます = 'சர்க்கரை போட்டுக் குடிக்கிறேன்'. V-ないで V = 'செய்யாமல்': 砂糖を入れないで飲みます = 'சர்க்கரை போடாமல் குடிக்கிறேன்'. தமிழின் '-து' (போட்டு) மற்றும் '-ஆமல்' (போடாமல்) வினையெச்சங்களுக்குச் சரியான இணை. இங்கே முக்கியச் செயல் இரண்டாம் வினை; முதல் வினை அதன் 'விதம்'.",
+      "explanation_en": "With two verbs, the first one shows how the second action is done. V-て V = \"doing it with …\": 砂糖を入れて飲みます = \"I drink it with sugar\". V-ないで V = \"doing it without …\": 砂糖を入れないで飲みます = \"I drink it without sugar\". This matches Tamil போட்டு (\"having put\") and போடாமல் (\"without putting\"). The main action is the second verb. The first verb shows the way it is done.",
+      "tamil_parallel": "சர்க்கரை போட்டுக் குடிப்பது = 砂糖を入れて飲む; சர்க்கரை போடாமல் குடிப்பது = 砂糖を入れないで飲む",
+      "tamil_parallel_en": "சர்க்கரை போட்டுக் குடிப்பது (drink it with sugar) = 砂糖を入れて飲む; சர்க்கரை போடாமல் குடிப்பது (drink it without sugar) = 砂糖を入れないで飲む",
+      "formation": "V1-て + V2 (V1 செய்த நிலையில் V2)\nV1-ないで + V2 (V1 செய்யாமல் V2)",
+      "formation_en": "V1-て + V2 (do V2 with V1 done)\nV1-ないで + V2 (do V2 without doing V1)",
+      "examples": [
+        { "ja": "私はいつも砂糖を入れないでコーヒーを飲みます。", "reading": "わたしは いつも さとうを いれないで コーヒーを のみます。", "romaji": "watashi wa itsumo satou o irenaide koohii o nomimasu.", "ta": "நான் எப்போதும் சர்க்கரை போடாமல் காபி குடிக்கிறேன்.", "en": "I always drink coffee without sugar." },
+        { "ja": "父は砂糖を入れて紅茶を飲みます。", "reading": "ちちは さとうを いれて こうちゃを のみます。", "romaji": "chichi wa satou o irete koucha o nomimasu.", "ta": "அப்பா சர்க்கரை போட்டு டீ குடிப்பார்.", "en": "My father drinks tea with sugar." },
+        { "ja": "傘を持たないで出かけて、雨にぬれました。", "reading": "かさを もたないで でかけて、あめに ぬれました。", "romaji": "kasa o motanaide dekakete, ame ni nuremashita.", "ta": "குடை எடுக்காமல் வெளியே போய் மழையில் நனைந்தேன்.", "en": "I went out without an umbrella and got wet." },
+        { "ja": "地図を見て行きました。", "reading": "ちずを みて いきました。", "romaji": "chizu o mite ikimashita.", "ta": "வரைபடத்தைப் பார்த்துக்கொண்டு போனேன்.", "en": "I went there using a map." },
+        { "ja": "説明書を読まないで、新しい道具を使いました。", "reading": "せつめいしょを よまないで、あたらしい どうぐを つかいました。", "romaji": "setsumeisho o yomanaide, atarashii dougu o tsukaimashita.", "ta": "கையேட்டைப் படிக்காமல் புதிய கருவியைப் பயன்படுத்தினேன்.", "en": "I used the new tool without reading the instructions." },
+        { "ja": "野菜を洗わないで料理してはいけません。", "reading": "やさいを あらわないで りょうりしては いけません。", "romaji": "yasai o arawanaide ryouri shite wa ikemasen.", "ta": "காய்கறிகளைக் கழுவாமல் சமைக்கக் கூடாது.", "en": "You must not cook vegetables without washing them." },
+        { "ja": "ゆうべは寝ないで勉強しました。", "reading": "ゆうべは ねないで べんきょうしました。", "romaji": "yuube wa nenaide benkyou shimashita.", "ta": "நேற்றிரவு தூங்காமல் படித்தேன்.", "en": "Last night I studied without sleeping." }
+      ],
+      "pitfalls_ta": "'போடாமல்' என்பதை 入れなくて என்று சொல்வது தவறு; 入れなくて காரணத்தைக் காட்டும் ('போடாததால்'). 'விதம்' காட்ட 入れないで.",
+      "pitfalls_en": "Don’t use 入れなくて for \"without putting in\". 入れなくて gives a reason (\"because I didn’t put it in\"). To show the way, use 入れないで."
+    },
+    {
+      "id": "g09-3",
+      "pattern": "V1-ないで、V2 (instead)",
+      "name": { "en": "Do V2 instead of V1", "ta": "V1 செய்யாமல், (அதற்குப் பதிலாக) V2" },
+      "explanation_ta": "V1-ないで、V2 = 'V1 செய்வதற்குப் பதிலாக V2 செய்தேன்'. வழக்கமாக / எதிர்பார்த்தபடி V1 செய்ய வேண்டியது, ஆனால் அதைச் செய்யாமல் வேறு ஒன்றைச் செய்தோம்: バスに乗らないで、歩いて帰りました = 'பஸ்ஸில் போகாமல் நடந்தே வந்தேன்'. இந்தப் பாடத்தின் 2-ஆம் பகுதியில் (முறை) இரண்டு செயல்களும் ஒன்றாக நடக்கின்றன; இங்கே ஒன்று மற்றொன்றின் இடத்தைப் பிடிக்கிறது. பெரும்பாலும் இடையில் 、 (காற்புள்ளி) வரும். தமிழில் 'போகாமல், (பதிலாக) நடந்தேன்'.",
+      "explanation_en": "V1-ないで、V2 = \"I did V2 instead of V1\". You usually do V1, or someone expects V1. But you didn’t do it, and did something else: バスに乗らないで、歩いて帰りました = \"I walked home instead of taking the bus\". In point 2 (manner), both actions happen together. Here, one action takes the place of the other. There is usually a comma (、) in between. In Tamil: போகாமல், (பதிலாக) நடந்தேன் (\"instead of going, I walked\").",
+      "tamil_parallel": "பஸ்ஸில் போகாமல் நடந்தே வந்தேன் = バスに乗らないで、歩いて帰りました",
+      "tamil_parallel_en": "பஸ்ஸில் போகாமல் நடந்தே வந்தேன் (I walked home instead of taking the bus) = バスに乗らないで、歩いて帰りました",
+      "formation": "V1-ないで、V2 (V1-க்குப் பதிலாக V2)",
+      "formation_en": "V1-ないで、V2 (V2 instead of V1)",
+      "examples": [
+        { "ja": "日曜日はどこへも行かないで、家で休みました。", "reading": "にちようびは どこへも いかないで、いえで やすみました。", "romaji": "nichiyoubi wa doko e mo ikanaide, ie de yasumimashita.", "ta": "ஞாயிற்றுக்கிழமை எங்கும் போகாமல் வீட்டில் ஓய்வெடுத்தேன்.", "en": "On Sunday I didn’t go anywhere and rested at home instead." },
+        { "ja": "バスに乗らないで、歩いて帰りました。", "reading": "バスに のらないで、あるいて かえりました。", "romaji": "basu ni noranaide, aruite kaerimashita.", "ta": "பஸ்ஸில் போகாமல் நடந்தே வீடு திரும்பினேன்.", "en": "I walked home instead of taking the bus." },
+        { "ja": "今夜は料理しないで、レストランで食べましょう。", "reading": "こんやは りょうりしないで、レストランで たべましょう。", "romaji": "kon'ya wa ryouri shinaide, resutoran de tabemashou.", "ta": "இன்றிரவு சமைக்காமல் உணவகத்தில் சாப்பிடுவோம்.", "en": "Let’s eat at a restaurant tonight instead of cooking." },
+        { "ja": "電話しないで、メールを送りました。", "reading": "でんわしないで、メールを おくりました。", "romaji": "denwa shinaide, meeru o okurimashita.", "ta": "போன் செய்யாமல் மின்னஞ்சல் அனுப்பினேன்.", "en": "I sent an email instead of calling." },
+        { "ja": "肉を焼かないで、カレーに入れました。", "reading": "にくを やかないで、カレーに いれました。", "romaji": "niku o yakanaide, karee ni iremashita.", "ta": "இறைச்சியைச் சுடாமல் கறியில் போட்டேன்.", "en": "Instead of grilling the meat, I put it in the curry." },
+        { "ja": "ジャムを塗らないで、バターだけで食べます。", "reading": "ジャムを ぬらないで、バターだけで たべます。", "romaji": "jamu o nuranaide, bataa dake de tabemasu.", "ta": "ஜாம் தடவாமல் வெண்ணெய் மட்டும் வைத்துச் சாப்பிடுகிறேன்.", "en": "I eat it with just butter instead of jam." }
+      ],
+      "pitfalls_ta": "இங்கும் 〜なくて வேண்டாம்: 行かなくて、家で休みました என்றால் 'போகாததால்' என்ற காரணப் பொருள் வரும்.",
+      "pitfalls_en": "Don’t use 〜なくて here either. 行かなくて、家で休みました sounds like a reason (\"because I didn’t go\")."
+    },
+    {
+      "id": "g09-4",
+      "pattern": "V-ずに",
+      "name": { "en": "Without doing (formal)", "ta": "〜 செய்யாமல் (எழுத்து நடை)" },
+      "explanation_ta": "V-ずに என்பது V-ないで-இன் சற்று முறையான / எழுத்து நடை வடிவம்; பொருள் ஒன்றே: 'செய்யாமல்'. உருவாக்கும் விதம்: ない-வடிவத்திலிருந்து ない-வை நீக்கி ずに சேர்க்கவும்: 食べない → 食べずに, 使わない → 使わずに. விதிவிலக்கு: する → せずに (しずに அல்ல), 来る → 来ずに (こずに). செய்தி, சமையல் குறிப்பு, கதைகள், முறையான பேச்சு ஆகியவற்றில் அதிகம் வரும். 'முறை' (9-2), 'பதிலாக' (9-3) இரண்டுக்கும் பயன்படும்.",
+      "explanation_en": "V-ずに is a slightly formal or written form of V-ないで. The meaning is the same: \"without doing\". How to make it: take the ない-form, drop ない and add ずに: 食べない → 食べずに, 使わない → 使わずに. Exceptions: する → せずに (not しずに), 来る → 来ずに (こずに). You see it in news, recipes, stories and formal speech. It works for both \"manner\" (point 2) and \"instead\" (point 3).",
+      "tamil_parallel": "காலை உணவு சாப்பிடாமல் போனேன் = 朝ご飯を食べずに行きました (= 食べないで)",
+      "tamil_parallel_en": "காலை உணவு சாப்பிடாமல் போனேன் (I went without eating breakfast) = 朝ご飯を食べずに行きました (= 食べないで)",
+      "formation": "V-ない வடிவம் − ない + ずに\n食べない → 食べずに、使わない → 使わずに、言わない → 言わずに\nする → せずに、来る → 来ずに (こずに)",
+      "formation_en": "V-ない form − ない + ずに\n食べない → 食べずに、使わない → 使わずに、言わない → 言わずに\nする → せずに、来る → 来ずに (こずに)",
+      "examples": [
+        { "ja": "朝ご飯を食べずに、学校へ行きました。", "reading": "あさごはんを たべずに、がっこうへ いきました。", "romaji": "asagohan o tabezu ni, gakkou e ikimashita.", "ta": "காலை உணவு சாப்பிடாமல் பள்ளிக்குப் போனேன்.", "en": "I went to school without eating breakfast." },
+        { "ja": "辞書を使わずに、この本を読みました。", "reading": "じしょを つかわずに、この ほんを よみました。", "romaji": "jisho o tsukawazu ni, kono hon o yomimashita.", "ta": "அகராதி இல்லாமல் இந்தப் புத்தகத்தைப் படித்தேன்.", "en": "I read this book without using a dictionary." },
+        { "ja": "弟は何も言わずに、出かけてしまいました。", "reading": "おとうとは なにも いわずに、でかけて しまいました。", "romaji": "otouto wa nani mo iwazu ni, dekakete shimaimashita.", "ta": "தம்பி ஒன்றும் சொல்லாமல் வெளியே போய்விட்டான்.", "en": "My younger brother went out without saying anything." },
+        { "ja": "今度は失敗せずに、ケーキを焼くことができました。", "reading": "こんどは しっぱいせずに、ケーキを やく ことが できました。", "romaji": "kondo wa shippai sezu ni, keeki o yaku koto ga dekimashita.", "ta": "இந்த முறை தவறில்லாமல் கேக் சுட முடிந்தது.", "en": "This time I managed to bake a cake without failing." },
+        { "ja": "一度も休まずに、駅まで走りました。", "reading": "いちども やすまずに、えきまで はしりました。", "romaji": "ichido mo yasumazu ni, eki made hashirimashita.", "ta": "ஒரு முறைகூட நிற்காமல் ஸ்டேஷன் வரை ஓடினேன்.", "en": "I ran to the station without stopping once." },
+        { "ja": "この米は洗わずに炊いてもいいです。", "reading": "この こめは あらわずに たいても いいです。", "romaji": "kono kome wa arawazu ni taite mo ii desu.", "ta": "இந்த அரிசியைக் கழுவாமலே சமைக்கலாம்.", "en": "You can cook this rice without washing it." }
+      ],
+      "pitfalls_ta": "する-வுக்கு しずに என்று சொல்வது பொதுவான தவறு; சரியான வடிவம் せずに (勉強せずに, 失敗せずに).",
+      "pitfalls_en": "A common mistake is しずに for する. The correct form is せずに (勉強せずに, 失敗せずに)."
+    },
+    {
+      "id": "g09-5",
+      "pattern": "V-ます stem + 方",
+      "name": { "en": "How to …, the way of …ing", "ta": "〜 செய்யும் முறை" },
+      "explanation_ta": "ます-அடி + 方 (かた) = 'செய்யும் முறை / எப்படிச் செய்வது'. 作ります → 作り方 ('செய்யும் முறை'), 読みます → 読み方 ('படிக்கும் முறை / உச்சரிப்பு'), 行きます → 行き方 ('போகும் வழி'). இது பெயர்ச்சொல் ஆகிவிடுவதால், பொருளைக் குறிக்கும் を → の ஆக மாறும்: ケーキを作る → ケーキの作り方. இடத்துக்கு 駅への行き方. 'Nする' வினைகளுக்கு 'N の仕方' (勉強の仕方) பயன்படுத்தலாம்.",
+      "explanation_en": "ます-stem + 方 (かた) = \"the way of doing / how to do\". 作ります → 作り方 (how to make), 読みます → 読み方 (how to read, the reading), 行きます → 行き方 (how to get there). It becomes a noun, so the object marker を changes to の: ケーキを作る → ケーキの作り方. For places, say 駅への行き方. For 〜する verbs, you can use N の仕方 (勉強の仕方, how to study).",
+      "tamil_parallel": "கேக் செய்யும் முறை = ケーキの作り方; ஸ்டேஷனுக்குப் போகும் வழி = 駅への行き方",
+      "tamil_parallel_en": "கேக் செய்யும் முறை (how to make a cake) = ケーキの作り方; ஸ்டேஷனுக்குப் போகும் வழி (how to get to the station) = 駅への行き方",
+      "formation": "V-ます அடி + 方\n作ります → 作り方、使います → 使い方、読みます → 読み方\nN を V → N の V-方 (ケーキの作り方)\nN する → N の 仕方 (勉強の仕方)",
+      "formation_en": "V-ます stem + 方\n作ります → 作り方、使います → 使い方、読みます → 読み方\nN を V → N の V-方 (ケーキの作り方)\nN する → N の 仕方 (勉強の仕方)",
+      "examples": [
+        { "ja": "このケーキの作り方を教えてください。", "reading": "この ケーキの つくりかたを おしえて ください。", "romaji": "kono keeki no tsukurikata o oshiete kudasai.", "ta": "இந்த கேக் செய்யும் முறையைச் சொல்லித் தாருங்கள்.", "en": "Please teach me how to make this cake." },
+        { "ja": "この漢字の読み方がわかりません。", "reading": "この かんじの よみかたが わかりません。", "romaji": "kono kanji no yomikata ga wakarimasen.", "ta": "இந்தக் கான்ஜியை எப்படிப் படிப்பது என்று தெரியவில்லை.", "en": "I don’t know how to read this kanji." },
+        { "ja": "すみません、駅への行き方を教えていただけませんか。", "reading": "すみません、えきへの いきかたを おしえて いただけませんか。", "romaji": "sumimasen, eki e no ikikata o oshiete itadakemasen ka.", "ta": "மன்னிக்கவும், ஸ்டேஷனுக்குப் போகும் வழியைச் சொல்ல முடியுமா?", "en": "Excuse me, could you tell me how to get to the station?" },
+        { "ja": "みそ汁の作り方は簡単です。", "reading": "みそしるの つくりかたは かんたんです。", "romaji": "misoshiru no tsukurikata wa kantan desu.", "ta": "மிசோ சூப் செய்யும் முறை எளிது.", "en": "Miso soup is easy to make." },
+        { "ja": "この機械の使い方は複雑です。", "reading": "この きかいの つかいかたは ふくざつです。", "romaji": "kono kikai no tsukaikata wa fukuzatsu desu.", "ta": "இந்த இயந்திரத்தைப் பயன்படுத்தும் முறை சிக்கலானது.", "en": "This machine is complicated to use." },
+        { "ja": "はしの持ち方が上手ですね。", "reading": "はしの もちかたが じょうずですね。", "romaji": "hashi no mochikata ga jouzu desu ne.", "ta": "நீங்கள் சாப்ஸ்டிக்கை நன்றாகப் பிடிக்கிறீர்கள்!", "en": "You hold your chopsticks well!" }
+      ],
+      "pitfalls_ta": "ケーキを作り方 தவறு; 方 சேர்ந்ததும் பெயர்ச்சொல், எனவே ケーキの作り方. 勉強し方 என்று சொல்லக் கூடாது; 勉強の仕方.",
+      "pitfalls_en": "ケーキを作り方 is wrong. With 方 it becomes a noun, so say ケーキの作り方. Don’t say 勉強し方; say 勉強の仕方."
+    }
+  ],
+  "vocab_ids": ["n4-v-033", "n4-v-055", "n4-v-065", "n4-v-203", "n4-v-209", "n4-v-240", "n4-v-267", "n4-v-268", "n4-v-276", "n4-v-287", "n4-v-296", "n4-v-349", "n4-v-368", "n4-v-397", "n4-v-406", "n4-v-408", "n4-v-424", "n4-v-437", "n4-v-546", "n4-v-573", "n4-v-577", "n4-v-603", "n4-v-611", "n4-v-614", "n4-v-619", "n4-v-638", "n4-v-648"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L09-q01", "type": "kanji_reading", "sentence": "＿簡単＿な 料理を 作りました。", "target": "簡単", "options": ["がんたん", "かんだん", "かんたん", "かんた"], "answer": 2, "explanation_ta": "簡単 = かんたん (எளிதான). இரண்டு எழுத்திலும் மெய்யொலி மாற்றம் (が, だ) இல்லை.", "explanation_en": "簡単 = かんたん (easy). Neither part changes to a voiced sound (が, だ)." },
+      { "id": "L09-q02", "type": "kanji_reading", "sentence": "初めて ケーキを 作りましたが、＿失敗＿しました。", "target": "失敗", "options": ["しつはい", "しっはい", "しつぱい", "しっぱい"], "answer": 3, "explanation_ta": "失敗 = しっぱい (தோல்வி). しつ + はい சேரும்போது っぱ என மாறும்.", "explanation_en": "失敗 = しっぱい (failure). しつ + はい join and become っぱ." },
+      { "id": "L09-q03", "type": "kanji_reading", "sentence": "この 料理の 作り方は ＿複雑＿です。", "target": "複雑", "options": ["ふくざつ", "ふくさつ", "ふくじつ", "ふくぞう"], "answer": 0, "explanation_ta": "複雑 = ふくざつ (சிக்கலான). 雑 = ざつ (ஒலிப்பு உள்ள ざ).", "explanation_en": "複雑 = ふくざつ (complicated). 雑 = ざつ, with a voiced ざ." },
+      { "id": "L09-q04", "type": "orthography", "sentence": "まず、お＿ゆ＿を 沸かします。", "target": "ゆ", "options": ["温", "陽", "渇", "湯"], "answer": 3, "explanation_ta": "ゆ (வெந்நீர்) = 湯. 温 = வெப்பம் (おん), 陽 = சூரியன், 渇 = தாகம்.", "explanation_en": "ゆ (hot water) = 湯. 温 = warm (おん), 陽 = sun, 渇 = thirst." },
+      { "id": "L09-q05", "type": "orthography", "sentence": "玉ねぎを ＿こまかく＿ 切って ください。", "target": "こまかく", "options": ["組かく", "細かく", "紬かく", "綿かく"], "answer": 1, "explanation_ta": "こまかい = 細かい (பொடியான). 細 = 糸 (நூல்) + 田. 組, 紬, 綿 ஒத்த தோற்றமுள்ள வேறு எழுத்துகள்.", "explanation_en": "こまかい = 細かい (fine, small). 細 = 糸 (thread) + 田. 組, 紬 and 綿 look similar but are different kanji." },
+      { "id": "L09-q06", "type": "vocab_context", "sentence": "朝は パンに バターを （　　）。", "options": ["足します", "漬けます", "塗ります", "沸かします"], "answer": 2, "explanation_ta": "ரொட்டியில் வெண்ணெய் தடவுவது = 塗る. 足す = கூட்டுவது / சேர்ப்பது.", "explanation_en": "Spreading butter on bread = 塗る. 足す = to add." },
+      { "id": "L09-q07", "type": "vocab_context", "sentence": "味が うすいので、塩を 少し （　　）。", "options": ["足しました", "塗りました", "焼けました", "下げました"], "answer": 0, "explanation_ta": "சுவை குறைவு → உப்பைச் சேர்ப்பது = 足す.", "explanation_en": "It tastes bland → add salt = 足す." },
+      { "id": "L09-q08", "type": "vocab_context", "sentence": "お茶を 入れるので、お湯を （　　）。", "options": ["焼きます", "沸かします", "漬けます", "塗ります"], "answer": 1, "explanation_ta": "தண்ணீரைக் கொதிக்க வைப்பது = 湯を沸かす.", "explanation_en": "To boil water = 湯を沸かす." },
+      { "id": "L09-q09", "type": "vocab_context", "sentence": "（　　）、手を 洗ってから 料理を 始めましょう。", "options": ["こう", "一度", "決して", "まず"], "answer": 3, "explanation_ta": "படிகளில் முதல் படி = まず (முதலில்). 決して எதிர்மறையுடன் மட்டும்.", "explanation_en": "The first step = まず (first). 決して only goes with negatives." },
+      { "id": "L09-q10", "type": "paraphrase", "sentence": "この ケーキは 作り方が 簡単です。", "options": ["この ケーキは 作るのが 難しいです。", "この ケーキは 作るのが やさしいです。", "この ケーキは とても おいしいです。", "この ケーキは 高くないです。"], "answer": 1, "explanation_ta": "作り方が簡単 = 'செய்வது எளிது' = 作るのがやさしい. 難しい எதிர்ப் பொருள்.", "explanation_en": "作り方が簡単 = \"easy to make\" = 作るのがやさしい. 難しい is the opposite." },
+      { "id": "L09-q11", "type": "paraphrase", "sentence": "一度も 休まずに 走りました。", "options": ["一度 休んでから 走りました。", "休んだり 走ったり しました。", "ぜんぜん 休まないで 走りました。", "休みながら 走りました。"], "answer": 2, "explanation_ta": "休まずに = 休まないで ('நிற்காமல்'). 一度も = ஒரு முறைகூட = ぜんぜん.", "explanation_en": "休まずに = 休まないで (without resting). 一度も (not even once) = ぜんぜん (not at all)." },
+      { "id": "L09-q12", "type": "usage", "sentence": "適当", "options": ["この 適当を 一つ ください。", "毎朝 コーヒーを 適当します。", "私の 適当は 料理です。", "野菜を 適当な 大きさに 切って ください。"], "answer": 3, "explanation_ta": "適当 = 'பொருத்தமான' என்ற な-பெயரடை: 適当な大きさ. பொருளாகவோ வினையாகவோ வராது.", "explanation_en": "適当 is a な-adjective meaning \"suitable\": 適当な大きさ. It is not a thing or a verb." },
+      { "id": "L09-q13", "type": "usage", "sentence": "下げる", "options": ["階段を 下げて 一階へ 行きました。", "熱が 下げました。", "オーブンの 温度を 少し 下げて ください。", "電車を 下げました。"], "answer": 2, "explanation_ta": "下げる = ஒன்றைக் குறைப்பது / இறக்குவது (を உடன்): 温度を下げる. படி இறங்குவது 下りる; காய்ச்சல் குறைவது 熱が下がる.", "explanation_en": "下げる = to lower something (with を): 温度を下げる. Going down stairs is 下りる. A fever going down is 熱が下がる." },
+      { "id": "L09-q14", "type": "grammar_form", "sentence": "説明書の （　　） 作って ください。", "options": ["ために", "とおりに", "までに", "あとで"], "answer": 1, "explanation_ta": "'கையேட்டின்படி' = 説明書のとおりに.", "explanation_en": "\"As the instructions say\" = 説明書のとおりに." },
+      { "id": "L09-q15", "type": "grammar_form", "sentence": "先生が （　　） とおりに 書きました。", "options": ["言った", "言いの", "言って", "言い"], "answer": 0, "explanation_ta": "வினைக்குப் பின் とおりに: 言ったとおりに ('சொன்னபடியே'). て-வடிவம், ます-அடி வராது.", "explanation_en": "A verb before とおりに: 言ったとおりに (just as he said). The て-form and the ます-stem can’t be used." },
+      { "id": "L09-q16", "type": "grammar_form", "sentence": "私は いつも 砂糖を （　　）で コーヒーを 飲みます。", "options": ["入れなく", "入れず", "入れない", "入れなくて"], "answer": 2, "explanation_ta": "'போடாமல்' = 入れないで. で ஏற்கெனவே உள்ளதால் 入れない. 入れずで என்ற வடிவம் இல்லை (入れずに).", "explanation_en": "\"Without putting in\" = 入れないで. で is already there, so choose 入れない. There is no form 入れずで (it is 入れずに)." },
+      { "id": "L09-q17", "type": "grammar_form", "sentence": "日曜日は どこへも （　　）、家で 休みました。", "options": ["行って", "行かないで", "行ったり", "行こう"], "answer": 1, "explanation_ta": "எங்கும் போகாமல் (பதிலாக) வீட்டில் ஓய்வு = 行かないで. どこへも எதிர்மறையுடன் மட்டும் வரும்.", "explanation_en": "Instead of going anywhere, I rested at home = 行かないで. どこへも only goes with a negative." },
+      { "id": "L09-q18", "type": "grammar_form", "sentence": "朝ご飯を 食べ（　　）、学校へ 行きました。", "options": ["ないに", "なくに", "ずで", "ずに"], "answer": 3, "explanation_ta": "食べない → 食べずに ('சாப்பிடாமல்'). ずで, ないに என்ற வடிவங்கள் இல்லை.", "explanation_en": "食べない → 食べずに (without eating). ずで and ないに are not real forms." },
+      { "id": "L09-q19", "type": "grammar_form", "sentence": "宿題を （　　）に 寝て しまいました。", "options": ["せず", "しず", "さず", "すず"], "answer": 0, "explanation_ta": "する → せずに (விதிவிலக்கு). しずに பொதுவான தவறு.", "explanation_en": "する → せずに (an exception). しずに is a common mistake." },
+      { "id": "L09-q20", "type": "grammar_form", "sentence": "この 漢字の 読み（　　）を 教えて ください。", "options": ["方", "ながら", "なさい", "たい"], "answer": 0, "explanation_ta": "ます-அடி + 方 = 'செய்யும் முறை': 読み方 ('படிக்கும் முறை').", "explanation_en": "ます-stem + 方 = \"the way to do\": 読み方 (how to read)." },
+      { "id": "L09-q21", "type": "grammar_form", "sentence": "すみません、駅（　　） 行き方を 教えて ください。", "options": ["を", "へ", "への", "に"], "answer": 2, "explanation_ta": "行き方 பெயர்ச்சொல், எனவே へ + の: 駅への行き方. 駅へ行き方 தவறு.", "explanation_en": "行き方 is a noun, so use へ + の: 駅への行き方. 駅へ行き方 is wrong." },
+      { "id": "L09-q22", "type": "sentence_order", "before": "母に", "chunks": ["習った", "とおりに", "カレーを", "作りました"], "star": 1, "after": "。", "explanation_ta": "母に習った (அம்மாவிடம் கற்ற) → とおりに (படியே) → カレーを → 作りました. ★ = とおりに.", "explanation_en": "母に習った (learned from Mum) → とおりに (just as) → カレーを → 作りました. ★ = とおりに." },
+      { "id": "L09-q23", "type": "sentence_order", "before": "辞書を", "chunks": ["使わずに", "この", "本を", "読みました"], "star": 2, "after": "。", "explanation_ta": "辞書を使わずに (அகராதி இல்லாமல்) → この本を → 読みました. ★ = 本を.", "explanation_en": "辞書を使わずに (without a dictionary) → この本を → 読みました. ★ = 本を." },
+      { "id": "L09-q24", "type": "sentence_order", "before": "すみません、", "chunks": ["この", "ケーキの", "作り方を", "教えて"], "star": 2, "after": "ください。", "explanation_ta": "この → ケーキの → 作り方を (செய்யும் முறையை) → 教えてください. ★ = 作り方を.", "explanation_en": "この → ケーキの → 作り方を (how to make) → 教えてください. ★ = 作り方を." },
+      { "id": "L09-q25", "type": "passage_cloze", "passage": "私は 料理が 好きです。でも、ケーキは 一度も 作った ことが ありませんでした。きのう、母に ケーキの ［1］を 聞いて、母が 言った ［2］ 作りました。でも、時間を 見ないで 焼いたので、［3］ しまいました。", "blanks": [ { "options": ["作るの", "作って", "作ります", "作り方"], "answer": 3 }, { "options": ["ために", "ながら", "とおりに", "まで"], "answer": 2 }, { "options": ["簡単して", "失敗して", "足して", "塗って"], "answer": 1 } ], "explanation_ta": "［1］ 'செய்யும் முறை' = 作り方. ［2］ 'அம்மா சொன்னபடியே' = 言ったとおりに. ［3］ நேரம் பார்க்காமல் சுட்டதால் சரியாக வரவில்லை = 失敗してしまいました.", "explanation_en": "［1］ \"How to make\" = 作り方. ［2］ \"Just as Mum said\" = 言ったとおりに. ［3］ I baked it without watching the time, so it went wrong = 失敗してしまいました." }
+    ]
+  }
+}

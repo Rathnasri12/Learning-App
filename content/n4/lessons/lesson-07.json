@@ -1,0 +1,146 @@
+{
+  "lesson": 7,
+  "title": { "ja": "雨が降るかもしれません", "ta": "மழை பெய்யலாம்", "en": "It might rain" },
+  "intro_ta": "இந்தப் பாடத்தில் 'எவ்வளவு உறுதியாகத் தெரியும்' என்பதைக் காட்டும் வழிகளைக் கற்போம். 'மழை பெய்யலாம்' (かもしれません), 'பெய்யும் என்று நினைக்கிறேன்' (だろうと思います), 'பெய்ய வேண்டும் / பெய்யும் என்பது எதிர்பார்ப்பு' (はずです), 'பெய்ய வாய்ப்பே இல்லை' (はずがありません) ஆகியவற்றைக் கற்போம். きっと、たぶん、もしかしたら என்ற வினையடைகளுடன் வானிலை, பருவங்கள், இயற்கை பற்றிப் பேசப் பழகுவோம்.",
+  "intro_en": "In this lesson you learn to show how sure you are. You will say \"it might rain\" (かもしれません). You will say \"I think it will probably rain\" (だろうと思います). You will say \"it should rain\" (はずです) and \"there’s no way it will rain\" (はずがありません). With the words きっと (surely), たぶん (probably) and もしかしたら (maybe), you will talk about weather, seasons and nature.",
+  "grammar": [
+    {
+      "id": "g07-1",
+      "pattern": "plain form かもしれません",
+      "name": { "en": "Might, may", "ta": "〜 ஆகலாம், 〜 இருக்கலாம்" },
+      "explanation_ta": "சாதாரண (plain) வடிவம் + かもしれません = 'அப்படி இருக்கலாம்', சுமார் 50% உறுதி. 'நடக்கலாம், நடக்காமலும் போகலாம்' என்ற உணர்வு. வினை, い-பெயரடை சாதாரண வடிவத்தோடு நேரடியாகச் சேரும்: 降るかもしれません、寒いかもしれません. な-பெயரடை மற்றும் பெயர்ச்சொல்லுக்கு だ சேர்க்கக் கூடாது: 静かかもしれません、雨かもしれません. நண்பர்களிடம் かもしれない அல்லது சுருக்கமாக かも. でしょう (சுமார் 70–80% உறுதி) இதைவிட உறுதியானது.",
+      "explanation_en": "Plain form + かもしれません = \"it might be so\". You are about 50% sure. It may happen, or it may not. Verbs and い-adjectives join directly: 降るかもしれません、寒いかもしれません. For な-adjectives and nouns, don’t add だ: 静かかもしれません、雨かもしれません. With friends, say かもしれない or just かも. でしょう (about 70–80% sure) is stronger.",
+      "tamil_parallel": "மழை பெய்யலாம் = 雨が降るかもしれません; அவர் தம்பியாக இருக்கலாம் = 弟かもしれません",
+      "tamil_parallel_en": "மழை பெய்யலாம் (it might rain) = 雨が降るかもしれません; அவர் தம்பியாக இருக்கலாம் (he might be the younger brother) = 弟かもしれません",
+      "formation": "V சாதாரண வடிவம் + かもしれません (降る / 降らない / 降った)\nい-பெயரடை + かもしれません (寒い / 寒くない)\nな-பெயரடை / பெயர்ச்சொல் (だ இல்லாமல்) + かもしれません (静か / 雨)",
+      "formation_en": "V plain form + かもしれません (降る / 降らない / 降った)\nい-adj + かもしれません (寒い / 寒くない)\nな-adj / noun (no だ) + かもしれません (静か / 雨)",
+      "examples": [
+        { "ja": "午後、雨が降るかもしれません。", "reading": "ごご、あめが ふるかも しれません。", "romaji": "gogo, ame ga furu kamo shiremasen.", "ta": "மதியம் மழை பெய்யலாம்.", "en": "It might rain this afternoon." },
+        { "ja": "台風で電車が止まるかもしれません。", "reading": "たいふうで でんしゃが とまるかも しれません。", "romaji": "taifuu de densha ga tomaru kamo shiremasen.", "ta": "புயலால் ரயில் நிற்கலாம்.", "en": "The trains might stop because of the typhoon." },
+        { "ja": "今夜は星が見えないかもしれません。", "reading": "こんやは ほしが みえないかも しれません。", "romaji": "kon'ya wa hoshi ga mienai kamo shiremasen.", "ta": "இன்றிரவு நட்சத்திரங்கள் தெரியாமல் போகலாம்.", "en": "We might not see the stars tonight." },
+        { "ja": "山の上は寒いかもしれません。", "reading": "やまの うえは さむいかも しれません。", "romaji": "yama no ue wa samui kamo shiremasen.", "ta": "மலை உச்சியில் குளிராக இருக்கலாம்.", "en": "It might be cold on top of the mountain." },
+        { "ja": "あの人は田中さんの弟かもしれません。", "reading": "あの ひとは たなかさんの おとうとかも しれません。", "romaji": "ano hito wa tanaka-san no otouto kamo shiremasen.", "ta": "அவர் தனகா அவர்களின் தம்பியாக இருக்கலாம்.", "en": "That person might be Mr Tanaka’s younger brother." },
+        { "ja": "「傘を持って行きますか。」「ええ、雨が降るかもしれませんから。」", "reading": "「かさを もって いきますか。」「ええ、あめが ふるかも しれませんから。」", "romaji": "\"kasa o motte ikimasu ka.\" \"ee, ame ga furu kamo shiremasen kara.\"", "ta": "'குடை எடுத்துப் போகிறீர்களா?' 'ஆமாம், மழை பெய்யலாம் என்பதால்.'", "en": "“Are you taking an umbrella?” “Yes, because it might rain.”" },
+        { "ja": "明日は海岸は静かかもしれないね。", "reading": "あしたは かいがんは しずかかも しれないね。", "romaji": "ashita wa kaigan wa shizuka kamo shirenai ne.", "ta": "நாளை கடற்கரை அமைதியாக இருக்கலாம், இல்லையா?", "en": "The beach might be quiet tomorrow, don’t you think?" }
+      ],
+      "pitfalls_ta": "静かだかもしれません, 雨だかもしれません என்று だ சேர்ப்பது பொதுவான தவறு. かもしれません-க்கு முன் だ வராது.",
+      "pitfalls_en": "A common mistake is adding だ: 静かだかもしれません or 雨だかもしれません. Never put だ before かもしれません."
+    },
+    {
+      "id": "g07-2",
+      "pattern": "plain form だろう / だろうと思います",
+      "name": { "en": "Probably (plain でしょう)", "ta": "〜 ஆகும் என்று நினைக்கிறேன் (でしょう-வின் சாதாரண வடிவம்)" },
+      "explanation_ta": "だろう என்பது でしょう-வின் சாதாரண (plain) வடிவம்: 'அப்படித்தான் இருக்கும் என்று ஊகிக்கிறேன்'. தனியாக だろう எழுத்து நடையிலும், ஆண்களின் சாதாரணப் பேச்சிலும், மனதுக்குள் நினைப்பதிலும் வரும். பேச்சில் மரியாதையாகத் தன் கருத்தைச் சொல்ல 'だろうと思います' மிகவும் பொதுவானது: 'ஆகும் என்று நினைக்கிறேன்'. இதில் でしょうと思います என்று சொல்லக் கூடாது. சேர்க்கும் விதம் かもしれません போலவே: な-பெயரடை, பெயர்ச்சொல்லுக்கு だ இல்லாமல் (静かだろう、雨だろう).",
+      "explanation_en": "だろう is the plain form of でしょう. It means \"I guess it is probably so\". Alone, だろう is used in writing, in men’s casual speech, and when thinking to yourself. In polite speech, だろうと思います is very common: \"I think it will probably …\". Never say でしょうと思います. It joins words the same way as かもしれません. For な-adjectives and nouns, there is no だ before it (静かだろう、雨だろう).",
+      "tamil_parallel": "இன்றிரவு குளிரும் என்று நினைக்கிறேன் = 今夜は冷えるだろうと思います",
+      "tamil_parallel_en": "இன்றிரவு குளிரும் என்று நினைக்கிறேன் (I think it will probably get cold tonight) = 今夜は冷えるだろうと思います",
+      "formation": "V / い-பெயரடை சாதாரண வடிவம் + だろう\nな-பெயரடை / பெயர்ச்சொல் + だろう (静かだろう、雨だろう)\n〜だろう + と思います (மரியாதையான பேச்சு)",
+      "formation_en": "V / い-adj plain form + だろう\nな-adj / noun + だろう (静かだろう、雨だろう)\n〜だろう + と思います (polite speech)",
+      "examples": [
+        { "ja": "今夜はとても冷えるだろうと思います。", "reading": "こんやは とても ひえるだろうと おもいます。", "romaji": "kon'ya wa totemo hieru darou to omoimasu.", "ta": "இன்றிரவு மிகவும் குளிரும் என்று நினைக்கிறேன்.", "en": "I think it will probably get very cold tonight." },
+        { "ja": "台風は明日の朝、東京に来るだろうと思います。", "reading": "たいふうは あしたの あさ、とうきょうに くるだろうと おもいます。", "romaji": "taifuu wa ashita no asa, toukyou ni kuru darou to omoimasu.", "ta": "புயல் நாளை காலை டோக்கியோவுக்கு வரும் என்று நினைக்கிறேன்.", "en": "I think the typhoon will probably reach Tokyo tomorrow morning." },
+        { "ja": "森の中の空気はきれいだろうと思います。", "reading": "もりの なかの くうきは きれいだろうと おもいます。", "romaji": "mori no naka no kuuki wa kirei darou to omoimasu.", "ta": "காட்டுக்குள் காற்று சுத்தமாக இருக்கும் என்று நினைக்கிறேன்.", "en": "I think the air in the forest is probably clean." },
+        { "ja": "明日もきっと暑いだろう。", "reading": "あしたも きっと あついだろう。", "romaji": "ashita mo kitto atsui darou.", "ta": "நாளையும் நிச்சயமாக வெப்பமாக இருக்கும்.", "en": "Tomorrow will surely be hot too." },
+        { "ja": "この森にはいろいろな虫がいるだろうと思います。", "reading": "この もりには いろいろな むしが いるだろうと おもいます。", "romaji": "kono mori ni wa iroiro na mushi ga iru darou to omoimasu.", "ta": "இந்தக் காட்டில் பலவகைப் பூச்சிகள் இருக்கும் என்று நினைக்கிறேன்.", "en": "I think there are probably many kinds of insects in this forest." },
+        { "ja": "ラージャさんはもう家に着いただろう。", "reading": "ラージャさんは もう いえに ついただろう。", "romaji": "raaja-san wa mou ie ni tsuita darou.", "ta": "ராஜா இதற்குள் வீடு போய்ச் சேர்ந்திருப்பார்.", "en": "Raja has probably got home by now." },
+        { "ja": "あしたは雨じゃないだろうと思います。", "reading": "あしたは あめじゃ ないだろうと おもいます。", "romaji": "ashita wa ame ja nai darou to omoimasu.", "ta": "நாளை மழை இருக்காது என்று நினைக்கிறேன்.", "en": "I don’t think it will rain tomorrow." }
+      ],
+      "pitfalls_ta": "でしょうと思います தவறு; だろうと思います சரி. மேலதிகாரியிடம் தனியாக だろう என்று சொன்னால் முரட்டுத்தனமாக ஒலிக்கும்.",
+      "pitfalls_en": "でしょうと思います is wrong; say だろうと思います. Saying だろう alone to your boss sounds rough."
+    },
+    {
+      "id": "g07-3",
+      "pattern": "きっと / たぶん / もしかしたら",
+      "name": { "en": "Surely / probably / maybe", "ta": "நிச்சயமாக / அநேகமாக / ஒருவேளை" },
+      "explanation_ta": "இந்த மூன்று வினையடைகளும் வாக்கியத்தின் தொடக்கத்திலேயே உறுதியின் அளவைக் காட்டும். きっと = 'நிச்சயமாக' (சுமார் 90%), பெரும்பாலும் でしょう / と思います உடன். たぶん = 'அநேகமாக' (சுமார் 70%), でしょう / と思います உடன். もしかしたら = 'ஒருவேளை' (சுமார் 30–50%), பெரும்பாலும் かもしれません உடன். தமிழில் 'நிச்சயமாக வருவார்', 'அநேகமாக வருவார்', 'ஒருவேளை வரலாம்' என்று சொல்வது போலவே. கவனிக்க: きっと + かもしれません பொருந்தாது (நிச்சயம் + ஒருவேளை).",
+      "explanation_en": "These three words show at the start how sure you are. きっと = \"surely\" (about 90%). It often goes with でしょう or と思います. たぶん = \"probably\" (about 70%). It goes with でしょう or と思います. もしかしたら = \"maybe, perhaps\" (about 30–50%). It usually goes with かもしれません. It is like Tamil நிச்சயமாக வருவார் (he’ll surely come), அநேகமாக வருவார் (he’ll probably come), ஒருவேளை வரலாம் (he may come). Note: きっと does not go with かもしれません (\"surely\" + \"maybe\" don’t match).",
+      "tamil_parallel": "நிச்சயமாக = きっと; அநேகமாக = たぶん; ஒருவேளை = もしかしたら",
+      "tamil_parallel_en": "நிச்சயமாக (surely) = きっと; அநேகமாக (probably) = たぶん; ஒருவேளை (maybe) = もしかしたら",
+      "formation": "きっと 〜でしょう / 〜と思います (≈90%)\nたぶん 〜でしょう / 〜と思います (≈70%)\nもしかしたら 〜かもしれません (≈30–50%)",
+      "formation_en": "きっと 〜でしょう / 〜と思います (≈90%)\nたぶん 〜でしょう / 〜と思います (≈70%)\nもしかしたら 〜かもしれません (≈30–50%)",
+      "examples": [
+        { "ja": "明日はきっと晴れるでしょう。", "reading": "あしたは きっと はれるでしょう。", "romaji": "ashita wa kitto hareru deshou.", "ta": "நாளை நிச்சயமாக வெயில் அடிக்கும்.", "en": "It will surely be sunny tomorrow." },
+        { "ja": "たぶん今夜は雨でしょう。", "reading": "たぶん こんやは あめでしょう。", "romaji": "tabun kon'ya wa ame deshou.", "ta": "அநேகமாக இன்றிரவு மழை பெய்யும்.", "en": "It will probably rain tonight." },
+        { "ja": "もしかしたら、台風が来るかもしれません。", "reading": "もしかしたら、たいふうが くるかも しれません。", "romaji": "moshikashitara, taifuu ga kuru kamo shiremasen.", "ta": "ஒருவேளை புயல் வரலாம்.", "en": "Maybe a typhoon will come." },
+        { "ja": "マラさんはきっと来ると思います。", "reading": "マラさんは きっと くると おもいます。", "romaji": "mara-san wa kitto kuru to omoimasu.", "ta": "மலா நிச்சயமாக வருவார் என்று நினைக்கிறேன்.", "en": "I’m sure Mala will come." },
+        { "ja": "「田中さんは来ますか。」「たぶん来ないと思います。」", "reading": "「たなかさんは きますか。」「たぶん こないと おもいます。」", "romaji": "\"tanaka-san wa kimasu ka.\" \"tabun konai to omoimasu.\"", "ta": "'தனகா வருவாரா?' 'அநேகமாக வரமாட்டார் என்று நினைக்கிறேன்.'", "en": "“Is Mr Tanaka coming?” “I don’t think he’ll come.”" },
+        { "ja": "もしかしたら、かぎを電車に忘れたかもしれません。", "reading": "もしかしたら、かぎを でんしゃに わすれたかも しれません。", "romaji": "moshikashitara, kagi o densha ni wasureta kamo shiremasen.", "ta": "ஒருவேளை சாவியை ரயிலில் மறந்து விட்டிருக்கலாம்.", "en": "Maybe I left my key on the train." }
+      ],
+      "pitfalls_ta": "きっと〜かもしれません என்று சேர்க்க வேண்டாம். மேலும் きっと来てください ('கட்டாயம் வாருங்கள்') என்ற வேண்டுகோளில் きっと 'கட்டாயம்' என்ற பொருள் தரும்; たぶん அப்படி வராது.",
+      "pitfalls_en": "Don’t put きっと with かもしれません. Also, in a request like きっと来てください (\"be sure to come\"), きっと means \"without fail\". たぶん can’t be used this way."
+    },
+    {
+      "id": "g07-4",
+      "pattern": "plain form はずです",
+      "name": { "en": "Should be (expected from facts)", "ta": "〜 இருக்க வேண்டும் (காரணத்தின் அடிப்படையில் எதிர்பார்ப்பு)" },
+      "explanation_ta": "சாதாரண வடிவம் + はずです = 'நான் அறிந்த உண்மைகளின்படி அப்படித்தான் இருக்க வேண்டும்'. இது வெறும் ஊகம் அல்ல; ஒரு காரணம் அல்லது தகவல் அடிப்படையில் வரும் நம்பிக்கை: 田中さんは今日休みですから、家にいるはずです ('இன்று விடுமுறை, எனவே வீட்டில் இருக்க வேண்டும்'). இணைப்பு: வினை / い-பெயரடை நேரடியாக; な-பெயரடை + な はず; பெயர்ச்சொல் + の はず. でしょう (பொதுவான ஊகம்), かもしれません (ஒருவேளை) இரண்டையும் விட はず காரணம் சார்ந்தது. என் சொந்த முடிவுக்கு はず பயன்படாது; அதற்கு つもり.",
+      "explanation_en": "Plain form + はずです = \"from the facts I know, it should be so\". It is not just a guess. It is based on a reason or information: 田中さんは今日休みですから、家にいるはずです (\"He’s off today, so he should be at home\"). How to join: verbs and い-adjectives directly; な-adjective + な はず; noun + の はず. でしょう is a general guess. かもしれません is \"maybe\". はず is based on reasons. Don’t use はず for your own decisions; use つもり.",
+      "tamil_parallel": "அவர் வீட்டில் இருக்க வேண்டும் (இன்று விடுமுறை ஆதலால்) = 家にいるはずです",
+      "tamil_parallel_en": "அவர் வீட்டில் இருக்க வேண்டும் (he should be at home, because today is a holiday) = 家にいるはずです",
+      "formation": "V சாதாரண வடிவம் + はずです (来る / 来ない / 来た)\nい-பெயரடை + はずです (寒い)\nな-பெயரடை + な + はずです (便利な)\nபெயர்ச்சொல் + の + はずです (休みの)",
+      "formation_en": "V plain form + はずです (来る / 来ない / 来た)\nい-adj + はずです (寒い)\nな-adj + な + はずです (便利な)\nnoun + の + はずです (休みの)",
+      "examples": [
+        { "ja": "田中さんは今日休みですから、家にいるはずです。", "reading": "たなかさんは きょう やすみですから、いえに いる はずです。", "romaji": "tanaka-san wa kyou yasumi desu kara, ie ni iru hazu desu.", "ta": "தனகாவுக்கு இன்று விடுமுறை, எனவே அவர் வீட்டில் இருக்க வேண்டும்.", "en": "Mr Tanaka is off today, so he should be at home." },
+        { "ja": "電車は十時に着くはずです。", "reading": "でんしゃは じゅうじに つく はずです。", "romaji": "densha wa juuji ni tsuku hazu desu.", "ta": "ரயில் பத்து மணிக்கு வந்து சேர வேண்டும்.", "en": "The train should arrive at ten." },
+        { "ja": "北海道は今、寒いはずです。", "reading": "ほっかいどうは いま、さむい はずです。", "romaji": "hokkaidou wa ima, samui hazu desu.", "ta": "ஹொக்கைடோவில் இப்போது குளிராக இருக்க வேண்டும்.", "en": "It should be cold in Hokkaido now." },
+        { "ja": "駅の近くのアパートですから、便利なはずです。", "reading": "えきの ちかくの アパートですから、べんりな はずです。", "romaji": "eki no chikaku no apaato desu kara, benri na hazu desu.", "ta": "ஸ்டேஷன் அருகிலுள்ள அடுக்குமாடி வீடு, எனவே வசதியாக இருக்க வேண்டும்.", "en": "It’s an apartment near the station, so it should be convenient." },
+        { "ja": "あの人はラージャさんのお兄さんのはずです。", "reading": "あの ひとは ラージャさんの おにいさんの はずです。", "romaji": "ano hito wa raaja-san no oniisan no hazu desu.", "ta": "அவர் ராஜாவின் அண்ணனாக இருக்க வேண்டும்.", "en": "That person should be Raja’s older brother." },
+        { "ja": "二時間前に出ましたから、もう着いたはずです。", "reading": "にじかん まえに でましたから、もう ついた はずです。", "romaji": "nijikan mae ni demashita kara, mou tsuita hazu desu.", "ta": "இரண்டு மணி நேரத்துக்கு முன் கிளம்பினார், எனவே இதற்குள் சேர்ந்திருக்க வேண்டும்.", "en": "He left two hours ago, so he should have arrived by now." }
+      ],
+      "pitfalls_ta": "私は明日行くはずです என்று தன் விருப்பத்துக்குச் சொல்வது இயல்பற்றது; 行くつもりです / 行く予定です என்று சொல்லுங்கள். பெயர்ச்சொல்லுக்கு の மறக்க வேண்டாம்: 休みのはず.",
+      "pitfalls_en": "Saying 私は明日行くはずです about your own wish sounds odd. Say 行くつもりです or 行く予定です. Don’t forget の after a noun: 休みのはず."
+    },
+    {
+      "id": "g07-5",
+      "pattern": "plain form はずがありません",
+      "name": { "en": "There’s no way that …", "ta": "〜 ஆக வாய்ப்பே இல்லை" },
+      "explanation_ta": "சாதாரண வடிவம் + はずがありません = 'அப்படி இருக்க வாய்ப்பே இல்லை / அது சாத்தியமே இல்லை'. பேசுபவர் ஒரு காரணத்தை வைத்து உறுதியாக மறுக்கிறார்: 今は八月ですから、雪が降るはずがありません. இணைப்பு はずです போலவே (な-பெயரடை + な, பெயர்ச்சொல் + の). சாதாரணப் பேச்சில் はずがない அல்லது はずない. 'வராமல் இருக்கலாம்' (来ないかもしれません) மென்மையானது; はずがありません மிக உறுதியான மறுப்பு.",
+      "explanation_en": "Plain form + はずがありません = \"there is no way it is so; it can’t be\". You strongly deny it, based on a reason: 今は八月ですから、雪が降るはずがありません (\"It’s August, so there’s no way it will snow\"). It joins like はずです (な-adj + な, noun + の). In casual speech, say はずがない or はずない. 来ないかもしれません (\"he might not come\") is soft. はずがありません is a very strong \"no\".",
+      "tamil_parallel": "இப்போது பனி பெய்ய வாய்ப்பே இல்லை = 今、雪が降るはずがありません",
+      "tamil_parallel_en": "இப்போது பனி பெய்ய வாய்ப்பே இல்லை (there’s no way it will snow now) = 今、雪が降るはずがありません",
+      "formation": "V / い-பெயரடை சாதாரண வடிவம் + はずがありません\nな-பெயரடை + な / பெயர்ச்சொல் + の + はずがありません\nசாதாரணப் பேச்சு: 〜はずがない",
+      "formation_en": "V / い-adj plain form + はずがありません\nな-adj + な / noun + の + はずがありません\nCasual: 〜はずがない",
+      "examples": [
+        { "ja": "今は八月ですから、雪が降るはずがありません。", "reading": "いまは はちがつですから、ゆきが ふる はずが ありません。", "romaji": "ima wa hachigatsu desu kara, yuki ga furu hazu ga arimasen.", "ta": "இப்போது ஆகஸ்ட் மாதம், பனி பெய்ய வாய்ப்பே இல்லை.", "en": "It’s August now, so there’s no way it will snow." },
+        { "ja": "かぎをかけておいたので、ドアが開いているはずがありません。", "reading": "かぎを かけて おいたので、ドアが あいて いる はずが ありません。", "romaji": "kagi o kakete oita node, doa ga aite iru hazu ga arimasen.", "ta": "பூட்டிவிட்டு வந்தேன், கதவு திறந்திருக்க வாய்ப்பே இல்லை.", "en": "I locked it, so the door can’t be open." },
+        { "ja": "駅の前ですから、静かなはずがありません。", "reading": "えきの まえですから、しずかな はずが ありません。", "romaji": "eki no mae desu kara, shizuka na hazu ga arimasen.", "ta": "ஸ்டேஷன் முன்னால் இருப்பதால் அமைதியாக இருக்க வாய்ப்பே இல்லை.", "en": "It’s in front of the station, so it can’t be quiet." },
+        { "ja": "あんなに勉強したから、試験に落ちるはずがないよ。", "reading": "あんなに べんきょうしたから、しけんに おちる はずが ないよ。", "romaji": "anna ni benkyou shita kara, shiken ni ochiru hazu ga nai yo.", "ta": "அவ்வளவு படித்திருக்கிறாய், தேர்வில் தோல்வியடைய வாய்ப்பே இல்லை.", "en": "You studied so hard, there’s no way you’ll fail the exam." },
+        { "ja": "あの店のカレーがまずいはずがありません。", "reading": "あの みせの カレーが まずい はずが ありません。", "romaji": "ano mise no karee ga mazui hazu ga arimasen.", "ta": "அந்தக் கடையின் கறி சுவையில்லாமல் இருக்க வாய்ப்பே இல்லை.", "en": "There’s no way that shop’s curry tastes bad." },
+        { "ja": "彼は昨日チェンナイにいました。今日ここにいるはずがありません。", "reading": "かれは きのう チェンナイに いました。きょう ここに いる はずが ありません。", "romaji": "kare wa kinou chennai ni imashita. kyou koko ni iru hazu ga arimasen.", "ta": "அவர் நேற்று சென்னையில் இருந்தார். இன்று இங்கே இருக்க வாய்ப்பே இல்லை.", "en": "He was in Chennai yesterday. He can’t be here today." }
+      ],
+      "pitfalls_ta": "はずがありません (வாய்ப்பே இல்லை) மற்றும் ないはずです (இல்லாமல் இருக்க வேண்டும்) இரண்டும் எதிர்மறை என்றாலும், はずがありません மிக வலுவான மறுப்பு.",
+      "pitfalls_en": "はずがありません (\"no way\") and ないはずです (\"it should not be\") are both negative. But はずがありません is a much stronger \"no\"."
+    }
+  ],
+  "vocab_ids": ["n4-v-031", "n4-v-074", "n4-v-075", "n4-v-081", "n4-v-092", "n4-v-129", "n4-v-164", "n4-v-175", "n4-v-184", "n4-v-186", "n4-v-259", "n4-v-283", "n4-v-299", "n4-v-313", "n4-v-317", "n4-v-359", "n4-v-423", "n4-v-453", "n4-v-458", "n4-v-501", "n4-v-548", "n4-v-555", "n4-v-590", "n4-v-593", "n4-v-615"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L07-q01", "type": "kanji_reading", "sentence": "明日は ＿台風＿が 来るかもしれません。", "target": "台風", "options": ["だいふう", "たいふ", "たいふう", "たいふく"], "answer": 2, "explanation_ta": "台風 = たいふう (புயல்). 台 இங்கே たい (だい அல்ல); 風 = ふう (நீண்ட ஒலி).", "explanation_en": "台風 = たいふう (typhoon). Here 台 is たい, not だい. 風 is ふう, a long sound." },
+      { "id": "L07-q02", "type": "kanji_reading", "sentence": "山の ＿空気＿は きれいです。", "target": "空気", "options": ["くうき", "そらき", "くき", "くうけ"], "answer": 0, "explanation_ta": "空気 = くうき (காற்று). 空 தனியாக そら (வானம்), ஆனால் இந்தச் சொல்லில் くう.", "explanation_en": "空気 = くうき (air). 空 alone is そら (sky), but in this word it is くう." },
+      { "id": "L07-q03", "type": "kanji_reading", "sentence": "夜空に ＿星＿が たくさん 見えます。", "target": "星", "options": ["はし", "ほし", "ぼし", "ほそ"], "answer": 1, "explanation_ta": "星 = ほし (நட்சத்திரம்). はし = பாலம் / குச்சி, வேறு சொல்.", "explanation_en": "星 = ほし (star). はし is a different word (bridge, chopsticks)." },
+      { "id": "L07-q04", "type": "orthography", "sentence": "黒い ＿くも＿が 出て いますね。", "target": "くも", "options": ["雪", "雷", "電", "雲"], "answer": 3, "explanation_ta": "くも = 雲 (மேகம்). 雪 = பனி, 雷 = இடி, 電 = மின்சாரம்; எல்லாவற்றிலும் 雨 மேல் பகுதி இருப்பதால் குழப்பம் வரும்.", "explanation_en": "くも = 雲 (cloud). 雪 = snow, 雷 = thunder, 電 = electricity. They all have 雨 on top, so they look alike." },
+      { "id": "L07-q05", "type": "orthography", "sentence": "夕方、＿かいがん＿を 散歩しました。", "target": "かいがん", "options": ["海岩", "毎岸", "海原", "海岸"], "answer": 3, "explanation_ta": "かいがん = 海岸 (கடற்கரை). 岩 = பாறை (いわ), 岸 = கரை (がん). 毎-க்கு நீர் (氵) இல்லை.", "explanation_en": "かいがん = 海岸 (seashore). 岩 = rock, 岸 = shore. 毎 has no water part (氵), so it is wrong." },
+      { "id": "L07-q06", "type": "vocab_context", "sentence": "出かける 前に、テレビで （　　）を 見ます。", "options": ["天気予報", "季節", "空気", "台風"], "answer": 0, "explanation_ta": "வெளியே போவதற்கு முன் டிவியில் பார்ப்பது வானிலை முன்னறிவிப்பு = 天気予報.", "explanation_en": "Before going out, you watch the weather forecast (天気予報) on TV." },
+      { "id": "L07-q07", "type": "vocab_context", "sentence": "冬は 五時ごろに 日が （　　）。", "options": ["止みます", "光ります", "暮れます", "冷えます"], "answer": 2, "explanation_ta": "日が暮れる = இருட்டுவது, பொழுது சாய்வது. 止む மழை / காற்றுக்கு; 冷える குளிருக்கு.", "explanation_en": "日が暮れる = it gets dark. 止む is for rain or wind stopping. 冷える is for getting cold." },
+      { "id": "L07-q08", "type": "vocab_context", "sentence": "雨が （　　）から、散歩に 行きましょう。", "options": ["暮れた", "止んだ", "冷えた", "植えた"], "answer": 1, "explanation_ta": "மழை நின்றது = 雨が止んだ. அதனால் நடக்கப் போகலாம். 暮れる வெளிச்சத்துக்கு மட்டும்.", "explanation_en": "The rain stopped = 雨が止んだ. So we can go for a walk. 暮れる is only for daylight ending." },
+      { "id": "L07-q09", "type": "vocab_context", "sentence": "春に なったら、庭に トマトを （　　）。", "options": ["光ります", "止みます", "暮れます", "植えます"], "answer": 3, "explanation_ta": "செடியை நடுவது = 植える. மற்றவை 'を' எடுக்காத வினைகள் (光る, 止む, 暮れる).", "explanation_en": "To plant something = 植える. The others (光る, 止む, 暮れる) don’t take を." },
+      { "id": "L07-q10", "type": "vocab_context", "sentence": "夜に なると、空で 星が （　　）。", "options": ["光ります", "植えます", "暮れます", "止みます"], "answer": 0, "explanation_ta": "நட்சத்திரம் மின்னுவது = 光る. 植える (நடுவது) பொருந்தாது.", "explanation_en": "Stars shine = 光る. 植える (to plant) does not fit." },
+      { "id": "L07-q11", "type": "paraphrase", "sentence": "田中さんは たぶん 来ないでしょう。", "options": ["田中さんは きっと 来ます。", "田中さんは 来なかったです。", "田中さんは 来ないと 思います。", "田中さんは 来たいです。"], "answer": 2, "explanation_ta": "たぶん〜ないでしょう = 'அநேகமாக வரமாட்டார்' = 来ないと思います. きっと来ます எதிர்ப் பொருள்.", "explanation_en": "たぶん〜ないでしょう = \"he probably won’t come\" = 来ないと思います. きっと来ます means the opposite." },
+      { "id": "L07-q12", "type": "paraphrase", "sentence": "今夜は 冷えるでしょう。", "options": ["今夜は 暑く なるでしょう。", "今夜は 寒く なるでしょう。", "今夜は 雨が 降るでしょう。", "今夜は 星が 見えるでしょう。"], "answer": 1, "explanation_ta": "冷える = குளிர்வது = 寒くなる. 暑くなる எதிர்ப் பொருள்.", "explanation_en": "冷える = to get cold = 寒くなる. 暑くなる is the opposite." },
+      { "id": "L07-q13", "type": "usage", "sentence": "止む", "options": ["車が 駅の 前で 止みました。", "時計が 止みました。", "たばこを 止みました。", "雨が 止んだら、出かけましょう。"], "answer": 3, "explanation_ta": "止む மழை, காற்று, சத்தம் நிற்பதற்கு மட்டும். வண்டி / கடிகாரம் நிற்பது 止まる; புகைப்பிடிப்பதை நிறுத்துவது やめる.", "explanation_en": "止む is only for rain, wind or noise stopping. A car or clock stops = 止まる. Quitting smoking = やめる." },
+      { "id": "L07-q14", "type": "usage", "sentence": "冷える", "options": ["夜は 冷えますから、上着を 持って 行きましょう。", "部屋が 暗いので、電気を 冷えて ください。", "冷蔵庫に 牛乳を 冷えました。", "彼は とても 冷える 人です。"], "answer": 0, "explanation_ta": "冷える = தானாகக் குளிர்வது (を எடுக்காது). பாலைக் குளிர வைப்பது 冷やす. மற்ற இரண்டு வாக்கியங்களும் பொருளற்றவை.", "explanation_en": "冷える = to get cold by itself. It does not take を. To make milk cold is 冷やす. The other two sentences make no sense." },
+      { "id": "L07-q15", "type": "grammar_form", "sentence": "空が 暗いですね。雨が 降る（　　）。", "options": ["つもりです", "かもしれません", "予定です", "ましょう"], "answer": 1, "explanation_ta": "ஊகம் = 降るかもしれません ('பெய்யலாம்'). つもり / 予定 மனிதரின் திட்டத்துக்கு; மழைக்கு அல்ல.", "explanation_en": "A guess = 降るかもしれません (it might rain). つもり and 予定 are for people’s plans, not for rain." },
+      { "id": "L07-q16", "type": "grammar_form", "sentence": "日曜日の 朝は、山の 上は （　　）かもしれません。", "options": ["静かだ", "静かな", "静か", "静かの"], "answer": 2, "explanation_ta": "な-பெயரடை + かもしれません: だ, な இல்லாமல் 静かかもしれません. 静かだかもしれません பொதுவான தவறு.", "explanation_en": "な-adjective + かもしれません has no だ or な: 静かかもしれません. 静かだかもしれません is a common mistake." },
+      { "id": "L07-q17", "type": "grammar_form", "sentence": "田中さんは 今日 休みですから、家に いる （　　）。", "options": ["つもりです", "はずがありません", "ようと します", "はずです"], "answer": 3, "explanation_ta": "காரணம் (இன்று விடுமுறை) → எதிர்பார்ப்பு: いるはずです. はずがありません எதிர்ப் பொருள்; つもり தன் திட்டத்துக்கு.", "explanation_en": "A reason (he’s off today) → an expectation: いるはずです. はずがありません means the opposite. つもり is for your own plan." },
+      { "id": "L07-q18", "type": "grammar_form", "sentence": "今は 八月です。雪が 降る （　　）。", "options": ["はずです", "はずがありません", "でしょう", "と 思います"], "answer": 1, "explanation_ta": "ஆகஸ்டில் (ஜப்பானில் கோடை) பனி பெய்ய வாய்ப்பே இல்லை = はずがありません.", "explanation_en": "In August (summer in Japan), there’s no way it will snow = はずがありません." },
+      { "id": "L07-q19", "type": "grammar_form", "sentence": "天気予報を 見ました。明日は （　　） 晴れるでしょう。", "options": ["まだ", "ぜんぜん", "きっと", "もしかしたら"], "answer": 2, "explanation_ta": "でしょう உடன் உறுதி: きっと. もしかしたら பெரும்பாலும் かもしれません உடன்; ぜんぜん எதிர்மறையுடன் மட்டும்.", "explanation_en": "With でしょう, use きっと (surely). もしかしたら usually goes with かもしれません. ぜんぜん only goes with negatives." },
+      { "id": "L07-q20", "type": "grammar_form", "sentence": "（　　）、かぎを 電車に 忘れたかもしれません。", "options": ["もしかしたら", "きっと", "ぜひ", "必ず"], "answer": 0, "explanation_ta": "かもしれません உடன் இயல்பாக வருவது もしかしたら (ஒருவேளை). きっと / 必ず உறுதியைக் காட்டுவதால் பொருந்தாது.", "explanation_en": "もしかしたら (maybe) goes naturally with かもしれません. きっと and 必ず show you are sure, so they don’t fit." },
+      { "id": "L07-q21", "type": "grammar_form", "sentence": "今夜は とても 冷える （　　） と 思います。", "options": ["でしょう", "よう", "だろう", "な"], "answer": 2, "explanation_ta": "と思います-க்கு முன் でしょう-வின் சாதாரண வடிவம் だろう வரும்: 冷えるだろうと思います. でしょうと思います தவறு.", "explanation_en": "Before と思います, use だろう, the plain form of でしょう: 冷えるだろうと思います. でしょうと思います is wrong." },
+      { "id": "L07-q22", "type": "sentence_order", "before": "明日は", "chunks": ["雨が", "降る", "かも", "しれません"], "star": 2, "after": "。", "explanation_ta": "雨が (மழை) → 降る (பெய்யும்) → かも → しれません = 'பெய்யலாம்'. ★ = かも.", "explanation_en": "雨が (rain) → 降る (falls) → かも → しれません = \"it might rain\". ★ = かも." },
+      { "id": "L07-q23", "type": "sentence_order", "before": "二時間前に 出ましたから、", "chunks": ["もう", "着いた", "はず", "です"], "star": 1, "after": "。", "explanation_ta": "もう (இதற்குள்) → 着いた (சேர்ந்தது) → はずです = 'சேர்ந்திருக்க வேண்டும்'. ★ = 着いた.", "explanation_en": "もう (by now) → 着いた (arrived) → はずです = \"should have arrived\". ★ = 着いた." },
+      { "id": "L07-q24", "type": "sentence_order", "before": "雲が 多いので、今夜は", "chunks": ["星が", "見えない", "だろう", "と"], "star": 2, "after": "思います。", "explanation_ta": "星が (நட்சத்திரம்) → 見えない (தெரியாது) → だろう → と思います. ★ = だろう.", "explanation_en": "星が (stars) → 見えない (can’t be seen) → だろう → と思います. ★ = だろう." },
+      { "id": "L07-q25", "type": "passage_cloze", "passage": "天気予報を 見ました。明日は 台風が 来る ［1］。電車が 止まるかもしれません。山田さんは 家が 会社の 近くなので、歩いて 来る ［2］。でも、私の 家は 遠いです。［3］ 会社へ 行けないかもしれません。", "blanks": [ { "options": ["つもりです", "でしょう", "ましょう", "はずがありません"], "answer": 1 }, { "options": ["はずです", "はずがありません", "つもりです", "でしょうか"], "answer": 0 }, { "options": ["ぜひ", "きっと", "もしかしたら", "まだ"], "answer": 2 } ], "explanation_ta": "［1］ வானிலை ஊகம்: 来るでしょう. ［2］ வீடு அருகில் என்ற காரணம் → 来るはずです. ［3］ かもしれません உடன் もしかしたら.", "explanation_en": "［1］ A weather guess: 来るでしょう. ［2］ The reason (his house is near) → 来るはずです. ［3］ もしかしたら goes with かもしれません." }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "lesson": 18,
+  "title": { "ja": "おいしそうですね", "ta": "சுவையாக இருக்கும் போலிருக்கு", "en": "That looks delicious" },
+  "intro_ta": "இந்தப் பாடத்தில் கண்ணால் பார்த்து ஊகிப்பதைச் சொல்லக் கற்போம்: 'சுவையாக இருக்கும் போலிருக்கிறது', 'மழை பெய்யப் போகிறது போலிருக்கிறது'. இதற்கு 〜そうです என்ற வடிவம் பயன்படும். いい, ない ஆகியவற்றின் சிறப்பு வடிவங்கள் よさそう, なさそう. மேலும் 'போய் வாங்கி வருகிறேன்' என்பதை 〜てきます என்று சொல்வோம். உணவகம், சுவை, மணம், விருந்து போன்ற சூழல்களில் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you learn to say how things look. For example: \"That looks delicious\" and \"It looks like it’s going to rain\". You use 〜そうです for this. いい and ない have special forms: よさそう and なさそう. You also learn 〜てきます: \"I’ll go and buy it, then come back\". You practise with restaurants, tastes, smells and treating friends.",
+  "grammar": [
+    {
+      "id": "g18-1",
+      "pattern": "V-ます stem そうです",
+      "name": { "en": "Looks like it’s about to …", "ta": "~ நடக்கப் போவது போலிருக்கிறது" },
+      "explanation_ta": "வினைச்சொல்லின் ます-அடி (ます-ஐ நீக்கிய பகுதி) + そうです = 'இப்போது பார்த்தால் ~ நடக்கப் போவது போலத் தெரிகிறது'. கருமேகங்களைப் பார்த்து 雨が降りそうです = 'மழை பெய்யப் போகிறது போலிருக்கு' என்கிறோம். நாம் கண்ணால் பார்ப்பதை வைத்து, விரைவில் நடக்கக்கூடியதை ஊகிக்கிறோம். தமிழில் 'விழப் போகிறது போலிருக்கு', 'அழப் போகிறான் போல' என்பது இணை. பாடம் 7-இல் கற்ற かもしれません ('ஒருவேளை ~ இருக்கலாம்') ஒரு பொதுவான ஊகம்; 〜そうです கண்முன் தெரியும் அடையாளத்தை வைத்துச் சொல்வது. கவனிக்க: இது பாடம் 22-இல் வரும் 'கேள்விப்பட்டேன்' என்ற そうです அல்ல; அது அகராதி வடிவத்துக்குப் பின் வரும் (降るそうです).",
+      "explanation_en": "Take the ます-stem of a verb (remove ます) and add そうです. It means \"it looks like … is about to happen\". You see dark clouds and say 雨が降りそうです: \"It looks like it’s going to rain.\" You guess from what you can see now. Tamil \"விழப் போகிறது போலிருக்கு\" (looks like it will fall) is the same. かもしれません (Lesson 7) is a general guess: \"it might\". 〜そうです is based on a sign you can see. Note: this is not the \"I heard\" そうです of Lesson 22. That one comes after the dictionary form: 降るそうです.",
+      "tamil_parallel": "மழை பெய்யப் போகிறது போலிருக்கு = 雨が降りそうです; பை விழப் போகிறது போலிருக்கு = かばんが落ちそうです",
+      "tamil_parallel_en": "It looks like it’s going to rain (மழை பெய்யப் போகிறது போலிருக்கு) = 雨が降りそうです.",
+      "formation": "V-ます அடி + そうです\n   降ります → 降り そうです\n   落ちます → 落ち そうです\n   終わります → 終わり そうです",
+      "formation_en": "V-ます stem + そうです\n   降ります → 降り そうです\n   落ちます → 落ち そうです\n   終わります → 終わり そうです",
+      "examples": [
+        { "ja": "空が暗くなりましたね。雨が降りそうです。", "reading": "そらが くらく なりましたね。あめが ふりそうです。", "romaji": "sora ga kuraku narimashita ne. ame ga furisou desu.", "ta": "வானம் இருட்டிவிட்டது. மழை பெய்யப் போகிறது போலிருக்கு.", "en": "The sky has gone dark. It looks like it’s going to rain." },
+        { "ja": "あ、荷物が落ちそうですよ。", "reading": "あ、にもつが おちそうですよ。", "romaji": "a, nimotsu ga ochisou desu yo.", "ta": "ஐயோ, உங்கள் சாமான் விழப் போகிறது!", "en": "Oh, your bag is about to fall!" },
+        { "ja": "シャツのボタンが取れそうです。", "reading": "シャツの ボタンが とれそうです。", "romaji": "shatsu no botan ga toresou desu.", "ta": "சட்டையின் பொத்தான் கழன்று விழப் போகிறது போலிருக்கு.", "en": "The button on my shirt is about to come off." },
+        { "ja": "今日は仕事が早く終わりそうです。", "reading": "きょうは しごとが はやく おわりそうです。", "romaji": "kyou wa shigoto ga hayaku owarisou desu.", "ta": "இன்று வேலை சீக்கிரம் முடிந்துவிடும் போலிருக்கு.", "en": "It looks like work will finish early today." },
+        { "ja": "赤ちゃんが泣きそうですよ。", "reading": "あかちゃんが なきそうですよ。", "romaji": "akachan ga nakisou desu yo.", "ta": "குழந்தை அழப் போகிறது போலிருக்கு.", "en": "The baby looks like it’s about to cry." },
+        { "ja": "雨はやみそうですか。", "reading": "あめは やみそうですか。", "romaji": "ame wa yamisou desu ka.", "ta": "மழை நிற்கும் போலிருக்கிறதா?", "en": "Does it look like the rain will stop?" }
+      ],
+      "pitfalls_ta": "降るそうです (கேள்விப்பட்டது) / 降りそうです (பார்த்து ஊகிப்பது) — ஒரு எழுத்து வேறுபாடு, பொருள் முற்றிலும் வேறு. ます-அடியை மறக்காதீர்கள்.",
+      "pitfalls_en": "降るそうです (I heard it will rain) and 降りそうです (it looks like rain) differ by one kana. The meaning is very different. Always use the ます-stem here."
+    },
+    {
+      "id": "g18-2",
+      "pattern": "い-adj / な-adj stem そうです (そうな N / そうに V)",
+      "name": { "en": "Looks … (judging by appearance)", "ta": "~ ஆகத் தெரிகிறது (தோற்றத்தைப் பார்த்து)" },
+      "explanation_ta": "பெயரடைகளுடன் そうです சேர்த்தால் 'பார்த்தால் ~ ஆகத் தெரிகிறது' என்று பொருள். い-பெயரடை: கடைசி い-ஐ நீக்கி そう: おいしい → おいしそう, 高い → 高そう. な-பெயரடை: な இல்லாமல் நேரடியாக: 元気 → 元気そう, 親切 → 親切そう. இதன்பின் そう ஒரு な-பெயரடை போல நடக்கும்: பெயர்ச்சொல்லுக்கு முன் そうな (おいしそうなケーキ), வினைக்கு முன் そうに (楽しそうに遊ぶ). இன்னும் சாப்பிடவில்லை, ஆனால் பார்த்து ஊகிக்கிறோம் என்ற உணர்வு. தமிழில் 'சுவையாக இருக்கும் போலிருக்கு', 'சந்தோஷமாக விளையாடுகிறார்கள்' என்பது இணை. கவனிக்க: நிறம், வடிவம் போல நேரடியாகப் பார்த்தே தெரிவதற்கு そう வராது (赤そう ×).",
+      "explanation_en": "Add そうです to an adjective. It means \"it looks …\". For い-adjectives, drop the last い and add そう: おいしい → おいしそう, 高い → 高そう. For な-adjectives, add そう with no な: 元気 → 元気そう, 親切 → 親切そう. After that, そう works like a な-adjective. Before a noun: そうな (おいしそうなケーキ). Before a verb: そうに (楽しそうに遊ぶ). You haven’t tasted it yet, you are guessing from the look. Tamil \"சுவையாக இருக்கும் போலிருக்கு\" (looks tasty) is the same. Don’t use そう for things you can see directly, like colour: 赤そう is wrong.",
+      "tamil_parallel": "இந்தக் கேக் சுவையாக இருக்கும் போலிருக்கு = このケーキはおいしそうです; குழந்தைகள் சந்தோஷமாக விளையாடுகிறார்கள் = 子どもたちが楽しそうに遊んでいます",
+      "tamil_parallel_en": "This cake looks delicious (இந்தக் கேக் சுவையாக இருக்கும் போலிருக்கு) = このケーキはおいしそうです.",
+      "formation": "い-பெயரடை: おいしい → おいし + そうです\nな-பெயரடை: 元気(な) → 元気 + そうです\nபெயர்ச்சொல்லுக்கு முன்: おいしそうな + N\nவினைக்கு முன்: 楽しそうに + V",
+      "formation_en": "い-adjective: おいしい → おいし + そうです\nな-adjective: 元気(な) → 元気 + そうです\nBefore a noun: おいしそうな + N\nBefore a verb: 楽しそうに + V",
+      "examples": [
+        { "ja": "このケーキはおいしそうですね。", "reading": "この ケーキは おいしそうですね。", "romaji": "kono keeki wa oishisou desu ne.", "ta": "இந்தக் கேக் சுவையாக இருக்கும் போலிருக்கு.", "en": "This cake looks delicious." },
+        { "ja": "あのかばんは高そうです。", "reading": "あの かばんは たかそうです。", "romaji": "ano kaban wa takasou desu.", "ta": "அந்தப் பை விலை அதிகம் போலத் தெரிகிறது.", "en": "That bag looks expensive." },
+        { "ja": "子どもたちが楽しそうに遊んでいます。", "reading": "こどもたちが たのしそうに あそんで います。", "romaji": "kodomotachi ga tanoshisou ni asonde imasu.", "ta": "குழந்தைகள் சந்தோஷமாக விளையாடுகிறார்கள்.", "en": "The children are playing happily." },
+        { "ja": "柔らかそうなパンですね。一つください。", "reading": "やわらかそうな パンですね。ひとつ ください。", "romaji": "yawarakasou na pan desu ne. hitotsu kudasai.", "ta": "மென்மையாகத் தெரியும் ரொட்டி. ஒன்று கொடுங்கள்.", "en": "That bread looks soft. One, please." },
+        { "ja": "このステーキは固そうですね。", "reading": "この ステーキは かたそうですね。", "romaji": "kono suteeki wa katasou desu ne.", "ta": "இந்த ஸ்டீக் கடினமாக இருக்கும் போலிருக்கு.", "en": "This steak looks tough." },
+        { "ja": "店員さんは親切そうな人でした。", "reading": "てんいんさんは しんせつそうな ひとでした。", "romaji": "ten'in san wa shinsetsusou na hito deshita.", "ta": "கடை ஊழியர் அன்பானவராகத் தெரிந்தார்.", "en": "The shop assistant looked like a kind person." },
+        { "ja": "その料理は辛そうですか。", "reading": "その りょうりは からそうですか。", "romaji": "sono ryouri wa karasou desu ka.", "ta": "அந்த உணவு காரமாகத் தெரிகிறதா?", "en": "Does that dish look spicy?" }
+      ],
+      "pitfalls_ta": "おいしいそう என்பது தவறு (い-ஐ நீக்க வேண்டும்). おいしいそうです என்றால் 'சுவையாக இருக்குமாம்' (கேள்விப்பட்டது, பாடம் 22) என்று வேறு பொருள் ஆகும்.",
+      "pitfalls_en": "おいしいそう is wrong here; drop the い. おいしいそうです means \"I heard it’s tasty\" (Lesson 22). That is a different meaning."
+    },
+    {
+      "id": "g18-3",
+      "pattern": "なさそう / よさそう",
+      "name": { "en": "Looks like it isn’t … / looks good", "ta": "~ இல்லை போலிருக்கு / நன்றாக இருக்கும் போலிருக்கு" },
+      "explanation_ta": "இரண்டு சிறப்பு வடிவங்கள் மனப்பாடம் செய்ய வேண்டியவை. (1) いい → よさそう ('நன்றாக இருக்கும் போலிருக்கு'). いそう / いいそう அல்ல; いい-யின் பழைய வடிவம் よい என்பதால் よさそう. (2) ない → なさそう ('இல்லை போலிருக்கு'). 時間がない → 時間がなさそう. எதிர்மறைப் பெயரடைகளும் இதே முறை: おいしくない → おいしくなさそう, 元気じゃない → 元気じゃなさそう. தமிழில் 'நேரம் இல்லை போலிருக்கு', 'இந்தக் கடை நல்லா இருக்கும் போல' என்பது இணை.",
+      "explanation_en": "Learn two special forms by heart. (1) いい → よさそう: \"looks good\". It is not いそう or いいそう. The old form of いい is よい, so you say よさそう. (2) ない → なさそう: \"looks like there isn’t\". 時間がない → 時間がなさそう. Negative adjectives work the same way: おいしくない → おいしくなさそう, 元気じゃない → 元気じゃなさそう. In Tamil: \"நேரம் இல்லை போலிருக்கு\" (seems to have no time).",
+      "tamil_parallel": "அவருக்கு நேரம் இல்லை போலிருக்கு = 彼は時間がなさそうです; இந்தக் கடை நன்றாக இருக்கும் போலிருக்கு = この店はよさそうです",
+      "tamil_parallel_en": "He seems to have no time (அவருக்கு நேரம் இல்லை போலிருக்கு) = 彼は時間がなさそうです. This shop looks good = この店はよさそうです.",
+      "formation": "いい → よさ + そうです\nない → なさ + そうです\nい-பெயரடை எதிர்மறை: おいしくない → おいしくなさ + そうです\nな-பெயரடை எதிர்மறை: 元気じゃない → 元気じゃなさ + そうです",
+      "formation_en": "いい → よさ + そうです\nない → なさ + そうです\nNegative い-adjective: おいしくない → おいしくなさ + そうです\nNegative な-adjective: 元気じゃない → 元気じゃなさ + そうです",
+      "examples": [
+        { "ja": "この店はよさそうですね。入ってみましょう。", "reading": "この みせは よさそうですね。はいって みましょう。", "romaji": "kono mise wa yosasou desu ne. haitte mimashou.", "ta": "இந்தக் கடை நன்றாக இருக்கும் போலிருக்கு. உள்ளே போய்ப் பார்ப்போம்.", "en": "This place looks good. Let’s go in and try it." },
+        { "ja": "部長は忙しくて、時間がなさそうです。", "reading": "ぶちょうは いそがしくて、じかんが なさそうです。", "romaji": "buchou wa isogashikute, jikan ga nasasou desu.", "ta": "மேலாளர் பரபரப்பாக இருக்கிறார், நேரம் இல்லை போலிருக்கு.", "en": "The manager is busy and seems to have no time." },
+        { "ja": "天気がよさそうなので、公園で食事しましょう。", "reading": "てんきが よさそうなので、こうえんで しょくじしましょう。", "romaji": "tenki ga yosasou na node, kouen de shokuji shimashou.", "ta": "வானிலை நன்றாக இருக்கும் போலிருப்பதால், பூங்காவில் சாப்பிடுவோம்.", "en": "The weather looks good, so let’s eat in the park." },
+        { "ja": "田中さんは元気がなさそうですね。どうしたんでしょう。", "reading": "たなかさんは げんきが なさそうですね。どう したんでしょう。", "romaji": "tanaka san wa genki ga nasasou desu ne. dou shitan deshou.", "ta": "தனகா அவர்கள் சோர்வாகத் தெரிகிறார். என்ன ஆச்சோ?", "en": "Mr Tanaka looks down. I wonder what happened." },
+        { "ja": "あの店のサンドイッチは、あまりおいしくなさそうです。", "reading": "あの みせの サンドイッチは、あまり おいしくなさそうです。", "romaji": "ano mise no sandoitchi wa, amari oishikunasasou desu.", "ta": "அந்தக் கடையின் சாண்ட்விச் அவ்வளவு சுவையாக இருக்காது போலிருக்கு.", "en": "That shop’s sandwiches don’t look very good." },
+        { "ja": "この部屋は静かじゃなさそうですね。", "reading": "この へやは しずかじゃなさそうですね。", "romaji": "kono heya wa shizuka janasasou desu ne.", "ta": "இந்த அறை அமைதியாக இருக்காது போலிருக்கு.", "en": "This room doesn’t look very quiet." }
+      ],
+      "pitfalls_ta": "いいそうです / ないそうです என்றால் 'நல்லதாம் / இல்லையாம்' (கேள்விப்பட்டது). தோற்றத்தை வைத்து ஊகிக்க よさそう / なさそう மட்டுமே.",
+      "pitfalls_en": "いいそうです and ないそうです mean \"I heard it’s good / there isn’t\". For guessing from looks, use only よさそう and なさそう."
+    },
+    {
+      "id": "g18-4",
+      "pattern": "V-てきます (go and come back)",
+      "name": { "en": "Go, do something, and come back", "ta": "போய் ~ செய்துவிட்டு வருதல்" },
+      "explanation_ta": "V-て + きます = 'எங்காவது போய், ஒன்றைச் செய்துவிட்டுத் திரும்பி வருகிறேன்'. 飲み物を買ってきます = 'குடிபானம் வாங்கிக்கொண்டு வருகிறேன்'. தமிழில் 'வாங்கிட்டு வரேன்', 'கை கழுவிட்டு வரேன்' என்பதற்கு மிகச் சரியான இணை. வீட்டை விட்டுப் புறப்படும்போது சொல்லும் 行ってきます ('போய் வருகிறேன்') இதே வடிவம்தான். 〜てきてください = 'போய் ~ செய்துவிட்டு வாருங்கள்'. கடந்த காலத்தில் 〜てきました = 'போய்ச் செய்துவிட்டு வந்தேன்'.",
+      "explanation_en": "V-て + きます = \"go somewhere, do something, then come back\". 飲み物を買ってきます = \"I’ll go buy a drink and come back.\" Tamil \"வாங்கிட்டு வரேன்\" (I’ll buy it and come) is exactly the same. 行ってきます, which you say when you leave home, is this same form. 〜てきてください = \"please go and do it, then come back\". Past: 〜てきました = \"I went, did it and came back.\"",
+      "tamil_parallel": "குடிபானம் வாங்கிட்டு வரேன் = 飲み物を買ってきます; கை கழுவிட்டு வா = 手を洗ってきて",
+      "tamil_parallel_en": "I’ll go and buy a drink (குடிபானம் வாங்கிட்டு வரேன்) = 飲み物を買ってきます.",
+      "formation": "V-て + きます\n   買う → 買って きます\n   洗う → 洗って きます\n   取る → 取って きます\n(行ってきます = போய் வருகிறேன்)",
+      "formation_en": "V-て + きます\n   買う → 買って きます\n   洗う → 洗って きます\n   取る → 取って きます\n(行ってきます = I’m off, I’ll be back)",
+      "examples": [
+        { "ja": "ちょっと飲み物を買ってきます。", "reading": "ちょっと のみものを かって きます。", "romaji": "chotto nomimono o katte kimasu.", "ta": "கொஞ்சம் குடிபானம் வாங்கிட்டு வரேன்.", "en": "I’ll just go and buy something to drink." },
+        { "ja": "コンビニでサンドイッチを買ってきましょうか。", "reading": "コンビニで サンドイッチを かって きましょうか。", "romaji": "konbini de sandoitchi o katte kimashou ka.", "ta": "கன்வீனியன்ஸ் கடையில் சாண்ட்விச் வாங்கிட்டு வரட்டுமா?", "en": "Shall I go and get some sandwiches from the convenience store?" },
+        { "ja": "食事の前に、手を洗ってきてください。", "reading": "しょくじの まえに、てを あらって きて ください。", "romaji": "shokuji no mae ni, te o aratte kite kudasai.", "ta": "சாப்பிடுவதற்கு முன் கை கழுவிட்டு வாருங்கள்.", "en": "Please go and wash your hands before the meal." },
+        { "ja": "部屋から辞書を取ってきます。", "reading": "へやから じしょを とって きます。", "romaji": "heya kara jisho o totte kimasu.", "ta": "அறையிலிருந்து அகராதியை எடுத்துட்டு வரேன்.", "en": "I’ll go and get the dictionary from my room." },
+        { "ja": "郵便局で切手を買ってきました。", "reading": "ゆうびんきょくで きってを かって きました。", "romaji": "yuubinkyoku de kitte o katte kimashita.", "ta": "தபால் நிலையத்தில் தபால் தலை வாங்கிட்டு வந்தேன்.", "en": "I went to the post office and bought stamps." },
+        { "ja": "「行ってきます。」「行ってらっしゃい。」", "reading": "「いって きます。」「いって らっしゃい。」", "romaji": "\"itte kimasu.\" \"itte rasshai.\"", "ta": "\"போய் வருகிறேன்.\" \"போய் வாருங்கள்.\"", "en": "\"I’m off.\" \"See you later.\"" }
+      ],
+      "pitfalls_ta": "買ってきます-ஐ 'வாங்கி வந்துகொண்டிருக்கிறேன்' என்று எண்ணாதீர்கள்; 'போய் வாங்கித் திரும்புவேன்' என்பதே பொருள். 買っておきます (முன்கூட்டியே வாங்குதல், பாடம் 5) வேறு.",
+      "pitfalls_en": "買ってきます means \"I’ll go, buy it and come back\". It is different from 買っておきます: \"buy it in advance\" (Lesson 5)."
+    }
+  ],
+  "vocab_ids": ["n4-v-011", "n4-v-041", "n4-v-108", "n4-v-144", "n4-v-169", "n4-v-222", "n4-v-229", "n4-v-252", "n4-v-257", "n4-v-323", "n4-v-327", "n4-v-352", "n4-v-393", "n4-v-414", "n4-v-448", "n4-v-510", "n4-v-635", "n4-v-657"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L18-q01", "type": "kanji_reading",
+        "sentence": "この 店の カレーは ＿味＿が いいです。", "target": "味",
+        "options": ["み", "あじ", "におい", "あい"], "answer": 1,
+        "explanation_ta": "味 = あじ (சுவை). 味 தனியாக வரும்போது あじ; み என்பது 意味 (いみ) போன்ற கூட்டுச் சொற்களில் மட்டும்.",
+        "explanation_en": "味 = あじ (சுவை, taste). On its own it is あじ. み is used only in compounds like 意味 (いみ)."
+      },
+      {
+        "id": "L18-q02", "type": "kanji_reading",
+        "sentence": "この 薬は とても ＿苦い＿です。", "target": "苦い",
+        "options": ["からい", "くるしい", "あまい", "にがい"], "answer": 3,
+        "explanation_ta": "苦い = にがい (கசப்பான). அதே கான்ஜி 苦しい-இல் くるしい (சிரமமான) என்று படிக்கப்படும்; கான்ஜிக்குப் பின் வரும் கானா எழுத்துகளைக் கவனியுங்கள்.",
+        "explanation_en": "苦い = にがい (கசப்பான, bitter). The same kanji in 苦しい is read くるしい (painful). Look at the kana after the kanji."
+      },
+      {
+        "id": "L18-q03", "type": "kanji_reading",
+        "sentence": "週末に 家族と 外で ＿食事＿を しました。", "target": "食事",
+        "options": ["しょくじ", "しょっじ", "たべごと", "しょくし"], "answer": 0,
+        "explanation_ta": "食事 = しょくじ (உணவு). 事 இங்கே じ (濁音). たべごと என்று ஜப்பானிய வாசிப்பைக் கலக்காதீர்கள்.",
+        "explanation_en": "食事 = しょくじ (உணவு, meal). Here 事 is じ, with the two dots. Don’t mix in the native reading たべ."
+      },
+      {
+        "id": "L18-q04", "type": "orthography",
+        "sentence": "この パンは とても ＿やわらかい＿です。", "target": "やわらかい",
+        "options": ["弱らかい", "優らかい", "柔らかい", "易らかい"], "answer": 2,
+        "explanation_ta": "やわらかい (மென்மையான) = 柔らかい. 弱 (பலவீனம்), 優 (மென்மை/மேன்மை), 易 (எளிது) பொருளில் நெருக்கமானவை, ஆனால் தவறு.",
+        "explanation_en": "やわらかい (மென்மையான, soft) = 柔らかい. 弱 (weak), 優 (gentle) and 易 (easy) are close in meaning, but wrong."
+      },
+      {
+        "id": "L18-q05", "type": "orthography",
+        "sentence": "昨日の カレーが まだ ＿のこって＿ います。", "target": "のこって",
+        "options": ["浅って", "残って", "践って", "銭って"], "answer": 1,
+        "explanation_ta": "のこる (மீதம் இருக்க) = 残る. 浅, 践, 銭 ஆகியவை வலது பக்கம் ஒத்த தோற்றம் கொண்ட கான்ஜிகள்.",
+        "explanation_en": "のこる (மீதம் இருக்க, to be left) = 残る. 浅, 践 and 銭 have a similar right side, but they are different kanji."
+      },
+      {
+        "id": "L18-q06", "type": "vocab_context",
+        "sentence": "もう おなかが（　　）です。何も 食べられません。",
+        "options": ["じゅうぶん", "とくべつ", "ひつよう", "いっぱい"], "answer": 3,
+        "explanation_ta": "おなかがいっぱい = வயிறு நிரம்பியது. じゅうぶん (போதுமான) おなかが-வுடன் இப்படி வராது.",
+        "explanation_en": "おなかがいっぱい = my stomach is full. じゅうぶん (enough) is not used with おなかが like this."
+      },
+      {
+        "id": "L18-q07", "type": "vocab_context",
+        "sentence": "この 肉は（　　）て、なかなか 噛めません。",
+        "options": ["かたく", "やわらかく", "うまく", "にがく"], "answer": 0,
+        "explanation_ta": "மெல்ல முடியவில்லை → இறைச்சி கடினம் = かたくて. やわらかくて எதிர்ப்பொருள்.",
+        "explanation_en": "I can’t chew it → the meat is tough = かたくて. やわらかくて (soft) is the opposite."
+      },
+      {
+        "id": "L18-q08", "type": "vocab_context",
+        "sentence": "昼の 二時ごろは、レストランが（　　）います。",
+        "options": ["のこって", "かんで", "すいて", "たりて"], "answer": 2,
+        "explanation_ta": "கூட்டம் குறைவு = 空いている (すいている). 残っている 'மீதம் இருக்கிறது'; உணவகத்துக்குப் பொருந்தாது.",
+        "explanation_en": "Not crowded = 空いている (すいている). 残っている means \"is left over\". It doesn’t fit a restaurant."
+      },
+      {
+        "id": "L18-q09", "type": "vocab_context",
+        "sentence": "かぜで 鼻が 悪いので、料理の（　　）が わかりません。",
+        "options": ["あじ", "におい", "おと", "いろ"], "answer": 1,
+        "explanation_ta": "மூக்கு அடைத்திருப்பதால் தெரியாதது = におい (மணம்). 音 (ஒலி) காதால், 色 (நிறம்) கண்ணால்.",
+        "explanation_en": "With a blocked nose, you can’t tell the におい (மணம், smell). 音 (sound) is for ears and 色 (colour) is for eyes."
+      },
+      {
+        "id": "L18-q10", "type": "vocab_context",
+        "sentence": "先輩が 晩ご飯を（　　）して くれました。",
+        "options": ["しょくじ", "えんりょ", "じゃま", "ごちそう"], "answer": 3,
+        "explanation_ta": "ごちそうする = (பணம் கொடுத்து) விருந்தளிப்பது. 食事する 'சாப்பிடுவது' மட்டும்; 'எனக்காக' என்ற பொருள் வராது.",
+        "explanation_en": "ごちそうする = to treat someone (and pay). 食事する only means \"to eat a meal\"."
+      },
+      {
+        "id": "L18-q11", "type": "paraphrase",
+        "sentence": "この ラーメンは うまいです。",
+        "options": ["この ラーメンは おいしいです。", "この ラーメンは 安いです。", "この ラーメンは 熱いです。", "この ラーメンは まずいです。"], "answer": 0,
+        "explanation_ta": "உணவைப் பற்றி うまい = おいしい (சுவையான). まずい எதிர்ப்பொருள்.",
+        "explanation_en": "For food, うまい = おいしい (சுவையான, tasty). まずい is the opposite."
+      },
+      {
+        "id": "L18-q12", "type": "paraphrase",
+        "sentence": "雨が 降りそうです。",
+        "options": ["雨が 降って います。", "雨は 降りません。", "もうすぐ 雨が 降るかもしれません。", "雨が やみました。"], "answer": 2,
+        "explanation_ta": "降りそうです = இன்னும் பெய்யவில்லை, ஆனால் விரைவில் பெய்யலாம் போலிருக்கு. 降っています 'இப்போது பெய்கிறது'; அது வேறு.",
+        "explanation_en": "降りそうです = it isn’t raining yet, but it may rain soon. 降っています means it is raining now."
+      },
+      {
+        "id": "L18-q13", "type": "usage",
+        "sentence": "残る",
+        "options": ["毎朝 七時に 家を 残ります。", "友達に 手紙を 残りました。", "雨が 残って、とても 寒いです。", "昨日の 料理が 冷蔵庫に 残って います。"], "answer": 3,
+        "explanation_ta": "残る = மீதம் இருப்பது (தன்வினை, が). 手紙を残りました தவறு; பிறவினை 残す வேண்டும். வீட்டை விடுவது 出る.",
+        "explanation_en": "残る = to be left over (it takes が). 手紙を残りました is wrong; that needs 残す. Leaving home is 出る."
+      },
+      {
+        "id": "L18-q14", "type": "usage",
+        "sentence": "噛む",
+        "options": ["犬に 手を 噛まれました。", "ジュースを よく 噛んで 飲みます。", "部屋で 音楽を 噛んで います。", "暑いので、窓を 噛んで ください。"], "answer": 0,
+        "explanation_ta": "噛む = கடிப்பது / மெல்லுவது. 'நாய் கையைக் கடித்தது' (passive) சரியான பயன்பாடு. ஜூஸ், இசை, ஜன்னல் ஆகியவற்றுக்கு噛む பொருந்தாது.",
+        "explanation_en": "噛む = to bite or chew. \"I was bitten on the hand by a dog\" is the right use. You can’t chew juice, music or a window."
+      },
+      {
+        "id": "L18-q15", "type": "grammar_form",
+        "sentence": "空が 暗く なりました。雨が（　　）そうです。",
+        "options": ["降り", "降る", "降って", "降った"], "answer": 0,
+        "explanation_ta": "பார்த்து ஊகிப்பது = ます-அடி + そう → 降りそう. 降るそうです 'பெய்யுமாம்' (கேள்விப்பட்டது).",
+        "explanation_en": "A guess from what you see = ます-stem + そう → 降りそう. 降るそうです means \"I heard it will rain\"."
+      },
+      {
+        "id": "L18-q16", "type": "grammar_form",
+        "sentence": "この ケーキは（　　）そうですね。",
+        "options": ["おいしい", "おいし", "おいしく", "おいしいの"], "answer": 1,
+        "explanation_ta": "い-பெயரடையின் い-ஐ நீக்கி そう: おいしい → おいしそう. おいしいそう 'சுவையாம்' (கேள்விப்பட்டது).",
+        "explanation_en": "Drop the い of the い-adjective and add そう: おいしい → おいしそう. おいしいそう means \"I heard it’s tasty\"."
+      },
+      {
+        "id": "L18-q17", "type": "grammar_form",
+        "sentence": "子どもたちが 公園で 楽し（　　） 遊んで います。",
+        "options": ["そうな", "そうで", "そうに", "そうだ"], "answer": 2,
+        "explanation_ta": "வினைக்கு (遊んでいます) முன் → そうに. பெயர்ச்சொல்லுக்கு முன் மட்டுமே そうな.",
+        "explanation_en": "Before a verb (遊んでいます) → そうに. そうな comes only before a noun."
+      },
+      {
+        "id": "L18-q18", "type": "grammar_form",
+        "sentence": "この かばんは とても 丈夫（　　）ですね。",
+        "options": ["そうな", "そうに", "なそう", "そう"], "answer": 3,
+        "explanation_ta": "な-பெயரடை + そうです: 丈夫そうです. です-க்கு முன் そうな / そうに வராது.",
+        "explanation_en": "な-adjective + そうです: 丈夫そうです. そうな and そうに can’t come before です."
+      },
+      {
+        "id": "L18-q19", "type": "grammar_form",
+        "sentence": "田中さんは 今日、元気が（　　）ですね。",
+        "options": ["なそう", "なさそう", "なくそう", "なしそう"], "answer": 1,
+        "explanation_ta": "ない + そう = なさそう (சிறப்பு வடிவம்). なそう / なくそう தவறு.",
+        "explanation_en": "ない + そう = なさそう. It is a special form. なそう and なくそう are wrong."
+      },
+      {
+        "id": "L18-q20", "type": "grammar_form",
+        "sentence": "天気が（　　）ですね。散歩に 行きましょう。",
+        "options": ["いさそう", "よそう", "よさそう", "よくそう"], "answer": 2,
+        "explanation_ta": "いい + そう = よさそう (சிறப்பு வடிவம்). いさそう / よそう தவறு.",
+        "explanation_en": "いい + そう = よさそう. It is a special form. いさそう and よそう are wrong."
+      },
+      {
+        "id": "L18-q21", "type": "grammar_form",
+        "sentence": "のどが かわきましたね。ちょっと 飲み物を 買って（　　）。",
+        "options": ["います", "きます", "あります", "しまいます"], "answer": 1,
+        "explanation_ta": "'போய் வாங்கிட்டு வரேன்' = 買ってきます. 買っています 'வாங்கிக்கொண்டிருக்கிறேன் / வழக்கமாக வாங்குகிறேன்'.",
+        "explanation_en": "\"I’ll go and buy it\" = 買ってきます. 買っています means \"I am buying\" or \"I usually buy\"."
+      },
+      {
+        "id": "L18-q22", "type": "sentence_order",
+        "before": "あの", "chunks": ["おいしそうな", "ケーキを", "買って", "きます"], "star": 1, "after": "。",
+        "explanation_ta": "あの おいしそうな ケーキを (சுவையாகத் தெரியும் கேக்கை) 買って きます (வாங்கிட்டு வரேன்). ★ = ケーキを.",
+        "explanation_en": "あの おいしそうな ケーキを (that delicious-looking cake) 買って きます (I’ll go and buy). ★ = ケーキを."
+      },
+      {
+        "id": "L18-q23", "type": "sentence_order",
+        "before": "子どもたちが 公園で", "chunks": ["とても", "楽しそうに", "遊んで", "います"], "star": 1, "after": "。",
+        "explanation_ta": "とても 楽しそうに (மிகச் சந்தோஷமாக) 遊んで います. ★ = 楽しそうに.",
+        "explanation_en": "とても 楽しそうに (very happily) 遊んで います. ★ = 楽しそうに."
+      },
+      {
+        "id": "L18-q24", "type": "sentence_order",
+        "before": "この", "chunks": ["ステーキは", "固そう", "ですが、", "柔らかくて"], "star": 1, "after": "おいしいです。",
+        "explanation_ta": "この ステーキは 固そう ですが、柔らかくて おいしいです (கடினமாகத் தெரிந்தாலும் மென்மையாகச் சுவையாக இருக்கிறது). ★ = 固そう.",
+        "explanation_en": "この ステーキは 固そう ですが、柔らかくて おいしいです (it looks tough, but it’s soft and tasty). ★ = 固そう."
+      },
+      {
+        "id": "L18-q25", "type": "passage_cloze",
+        "passage": "今日は 友達と 新しい レストランへ 行きました。ステーキが［1］ので、注文しました。とても 柔らかくて、おいしかったです。友達は 車で 来たので、アルコールは［2］。食事の 後、友達が「コーヒーを 買って［3］。」と 言って、コンビニへ 行きました。",
+        "blanks": [
+          { "options": ["おいしそうだった", "おいしいそうだった", "おいしそうな", "おいしくそう"], "answer": 0 },
+          { "options": ["飲みそうでした", "飲みませんでした", "飲んできました", "飲んでいました"], "answer": 1 },
+          { "options": ["います", "あります", "きます", "しまいます"], "answer": 2 }
+        ],
+        "explanation_ta": "［1］ பார்த்து ஊகித்தது, ので-க்கு முன் → おいしそうだった. ［2］ காரில் வந்ததால் குடிக்கவில்லை → 飲みませんでした. ［3］ 'வாங்கிட்டு வரேன்' → 買ってきます.",
+        "explanation_en": "[1] A guess from looks, before ので → おいしそうだった. [2] He came by car, so he didn’t drink → 飲みませんでした. [3] \"I’ll go and buy it\" → 買ってきます."
+      }
+    ]
+  }
+}

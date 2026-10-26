@@ -1,0 +1,177 @@
+[
+  {
+    "id": "n4-v-031", "expression": "止む", "reading": "やむ", "romaji": "yamu",
+    "en": "to stop (rain, wind)", "ta": "(மழை, காற்று) நிற்க / ஓய", "pos": "verb-u",
+    "examples": [
+      { "ja": "雨はもうすぐ止むでしょう。", "reading": "あめは もうすぐ やむでしょう。", "romaji": "ame wa mousugu yamu deshou.", "ta": "மழை சீக்கிரம் நின்றுவிடும்.", "en": "The rain will probably stop soon." }
+    ]
+  },
+  {
+    "id": "n4-v-074", "expression": "台風", "reading": "たいふう", "romaji": "taifuu",
+    "en": "typhoon", "ta": "புயல் (சூறாவளி)", "pos": "noun",
+    "examples": [
+      { "ja": "明日、台風が来るかもしれません。", "reading": "あした、たいふうが くるかも しれません。", "romaji": "ashita, taifuu ga kuru kamo shiremasen.", "ta": "நாளை புயல் வரலாம்.", "en": "A typhoon might come tomorrow." }
+    ]
+  },
+  {
+    "id": "n4-v-075", "expression": "日", "reading": "ひ", "romaji": "hi",
+    "en": "sun, sunshine", "ta": "சூரியன், வெயில்", "pos": "noun",
+    "examples": [
+      { "ja": "日が強いですから、帽子をかぶってください。", "reading": "ひが つよいですから、ぼうしを かぶって ください。", "romaji": "hi ga tsuyoi desu kara, boushi o kabutte kudasai.", "ta": "வெயில் கடுமையாக இருப்பதால் தொப்பி அணியுங்கள்.", "en": "The sun is strong, so please wear a hat." }
+    ]
+  },
+  {
+    "id": "n4-v-081", "expression": "葉", "reading": "は", "romaji": "ha",
+    "en": "leaf", "ta": "இலை", "pos": "noun",
+    "examples": [
+      { "ja": "秋になると、木の葉が赤くなります。", "reading": "あきに なると、きの はが あかく なります。", "romaji": "aki ni naru to, ki no ha ga akaku narimasu.", "ta": "இலையுதிர் காலம் வந்தால் மரங்களின் இலைகள் சிவப்பாகின்றன.", "en": "In autumn, the leaves on the trees turn red." }
+    ]
+  },
+  {
+    "id": "n4-v-092", "expression": "月", "reading": "つき", "romaji": "tsuki",
+    "en": "moon", "ta": "நிலா, சந்திரன்", "pos": "noun",
+    "examples": [
+      { "ja": "今夜は月がとてもきれいです。", "reading": "こんやは つきが とても きれいです。", "romaji": "kon'ya wa tsuki ga totemo kirei desu.", "ta": "இன்றிரவு நிலா மிகவும் அழகாக இருக்கிறது.", "en": "The moon is very beautiful tonight." }
+    ]
+  },
+  {
+    "id": "n4-v-129", "expression": "季節", "reading": "きせつ", "romaji": "kisetsu",
+    "en": "season", "ta": "பருவம், பருவகாலம்", "pos": "noun",
+    "examples": [
+      { "ja": "日本でいちばん好きな季節は秋です。", "reading": "にほんで いちばん すきな きせつは あきです。", "romaji": "nihon de ichiban suki na kisetsu wa aki desu.", "ta": "ஜப்பானில் எனக்கு மிகவும் பிடித்த பருவம் இலையுதிர் காலம்.", "en": "My favourite season in Japan is autumn." }
+    ]
+  },
+  {
+    "id": "n4-v-164", "expression": "星", "reading": "ほし", "romaji": "hoshi",
+    "en": "star", "ta": "நட்சத்திரம்", "pos": "noun",
+    "examples": [
+      { "ja": "村では星がたくさん見えます。", "reading": "むらでは ほしが たくさん みえます。", "romaji": "mura de wa hoshi ga takusan miemasu.", "ta": "கிராமத்தில் நிறைய நட்சத்திரங்கள் தெரியும்.", "en": "You can see lots of stars in the village." }
+    ]
+  },
+  {
+    "id": "n4-v-175", "expression": "林", "reading": "はやし", "romaji": "hayashi",
+    "en": "woods, grove", "ta": "தோப்பு, சிறு காடு", "pos": "noun",
+    "examples": [
+      { "ja": "家の後ろに竹の林があります。", "reading": "いえの うしろに たけの はやしが あります。", "romaji": "ie no ushiro ni take no hayashi ga arimasu.", "ta": "வீட்டின் பின்னால் ஒரு மூங்கில் தோப்பு இருக்கிறது.", "en": "There is a bamboo grove behind the house." }
+    ]
+  },
+  {
+    "id": "n4-v-184", "expression": "光る", "reading": "ひかる", "romaji": "hikaru",
+    "en": "to shine", "ta": "ஒளிர, மின்ன", "pos": "verb-u",
+    "examples": [
+      { "ja": "夜空で星が光っています。", "reading": "よぞらで ほしが ひかって います。", "romaji": "yozora de hoshi ga hikatte imasu.", "ta": "இரவு வானில் நட்சத்திரங்கள் மின்னுகின்றன.", "en": "Stars are shining in the night sky." }
+    ]
+  },
+  {
+    "id": "n4-v-186", "expression": "雲", "reading": "くも", "romaji": "kumo",
+    "en": "cloud", "ta": "மேகம்", "pos": "noun",
+    "examples": [
+      { "ja": "黒い雲が出ていますから、雨が降るかもしれません。", "reading": "くろい くもが でて いますから、あめが ふるかも しれません。", "romaji": "kuroi kumo ga dete imasu kara, ame ga furu kamo shiremasen.", "ta": "கருமேகங்கள் தெரிகின்றன, மழை பெய்யலாம்.", "en": "There are dark clouds, so it might rain." }
+    ]
+  },
+  {
+    "id": "n4-v-259", "expression": "森", "reading": "もり", "romaji": "mori",
+    "en": "forest", "ta": "காடு", "pos": "noun",
+    "examples": [
+      { "ja": "森の中は夏でも涼しいです。", "reading": "もりの なかは なつでも すずしいです。", "romaji": "mori no naka wa natsu demo suzushii desu.", "ta": "காட்டுக்குள் கோடையிலும் குளிர்ச்சியாக இருக்கும்.", "en": "It’s cool inside the forest, even in summer." }
+    ]
+  },
+  {
+    "id": "n4-v-283", "expression": "海岸", "reading": "かいがん", "romaji": "kaigan",
+    "en": "seashore, coast", "ta": "கடற்கரை", "pos": "noun",
+    "examples": [
+      { "ja": "夕方、マリーナの海岸を散歩しました。", "reading": "ゆうがた、マリーナの かいがんを さんぽしました。", "romaji": "yuugata, mariina no kaigan o sanpo shimashita.", "ta": "மாலையில் மெரினா கடற்கரையில் நடந்தேன்.", "en": "In the evening I took a walk on Marina beach." }
+    ]
+  },
+  {
+    "id": "n4-v-299", "expression": "はず", "reading": "はず", "romaji": "hazu",
+    "en": "should be (expected)", "ta": "〜 இருக்க வேண்டும் (எதிர்பார்ப்பு)", "pos": "noun",
+    "examples": [
+      { "ja": "電車はもうすぐ来るはずです。", "reading": "でんしゃは もうすぐ くる はずです。", "romaji": "densha wa mousugu kuru hazu desu.", "ta": "ரயில் சீக்கிரம் வர வேண்டும்.", "en": "The train should come soon." }
+    ]
+  },
+  {
+    "id": "n4-v-313", "expression": "今夜", "reading": "こんや", "romaji": "kon'ya",
+    "en": "tonight", "ta": "இன்றிரவு", "pos": "noun",
+    "examples": [
+      { "ja": "今夜は冷えるでしょう。", "reading": "こんやは ひえるでしょう。", "romaji": "kon'ya wa hieru deshou.", "ta": "இன்றிரவு குளிராக இருக்கும்.", "en": "It will probably get cold tonight." }
+    ]
+  },
+  {
+    "id": "n4-v-317", "expression": "空気", "reading": "くうき", "romaji": "kuuki",
+    "en": "air", "ta": "காற்று", "pos": "noun",
+    "examples": [
+      { "ja": "山の空気はきれいでおいしいです。", "reading": "やまの くうきは きれいで おいしいです。", "romaji": "yama no kuuki wa kirei de oishii desu.", "ta": "மலைக் காற்று சுத்தமாகவும் இனிமையாகவும் இருக்கிறது.", "en": "The mountain air is clean and fresh." }
+    ]
+  },
+  {
+    "id": "n4-v-359", "expression": "暮れる", "reading": "くれる", "romaji": "kureru",
+    "en": "to get dark", "ta": "(பொழுது) சாய, இருட்ட", "pos": "verb-ru",
+    "examples": [
+      { "ja": "冬は日が早く暮れます。", "reading": "ふゆは ひが はやく くれます。", "romaji": "fuyu wa hi ga hayaku kuremasu.", "ta": "குளிர்காலத்தில் சீக்கிரம் இருட்டிவிடும்.", "en": "In winter it gets dark early." }
+    ]
+  },
+  {
+    "id": "n4-v-423", "expression": "きっと", "reading": "きっと", "romaji": "kitto",
+    "en": "surely, certainly", "ta": "நிச்சயமாக, கட்டாயம்", "pos": "adverb",
+    "examples": [
+      { "ja": "明日はきっと晴れるでしょう。", "reading": "あしたは きっと はれるでしょう。", "romaji": "ashita wa kitto hareru deshou.", "ta": "நாளை நிச்சயமாக வெயில் அடிக்கும்.", "en": "It will surely be sunny tomorrow." }
+    ]
+  },
+  {
+    "id": "n4-v-453", "expression": "天気予報", "reading": "てんきよほう", "romaji": "tenkiyohou",
+    "en": "weather forecast", "ta": "வானிலை முன்னறிவிப்பு", "pos": "noun",
+    "examples": [
+      { "ja": "毎朝、テレビで天気予報を見ます。", "reading": "まいあさ、テレビで てんきよほうを みます。", "romaji": "maiasa, terebi de tenkiyohou o mimasu.", "ta": "தினமும் காலை டிவியில் வானிலை முன்னறிவிப்பைப் பார்க்கிறேன்.", "en": "I watch the weather forecast on TV every morning." }
+    ]
+  },
+  {
+    "id": "n4-v-458", "expression": "枝", "reading": "えだ", "romaji": "eda",
+    "en": "branch", "ta": "கிளை", "pos": "noun",
+    "examples": [
+      { "ja": "台風で木の枝が折れてしまいました。", "reading": "たいふうで きの えだが おれて しまいました。", "romaji": "taifuu de ki no eda ga orete shimaimashita.", "ta": "புயலால் மரக்கிளை முறிந்துவிட்டது.", "en": "A tree branch broke in the typhoon." }
+    ]
+  },
+  {
+    "id": "n4-v-501", "expression": "光", "reading": "ひかり", "romaji": "hikari",
+    "en": "light", "ta": "ஒளி, வெளிச்சம்", "pos": "noun",
+    "examples": [
+      { "ja": "朝の光が窓から部屋に入ります。", "reading": "あさの ひかりが まどから へやに はいります。", "romaji": "asa no hikari ga mado kara heya ni hairimasu.", "ta": "காலை வெளிச்சம் ஜன்னல் வழியாக அறைக்குள் வருகிறது.", "en": "Morning light comes into the room through the window." }
+    ]
+  },
+  {
+    "id": "n4-v-548", "expression": "冷える", "reading": "ひえる", "romaji": "hieru",
+    "en": "to get cold", "ta": "குளிர, குளிர்ச்சியாக", "pos": "verb-ru",
+    "examples": [
+      { "ja": "夜は冷えますから、上着を持って行ってください。", "reading": "よるは ひえますから、うわぎを もって いって ください。", "romaji": "yoru wa hiemasu kara, uwagi o motte itte kudasai.", "ta": "இரவில் குளிரும், அதனால் மேலங்கியை எடுத்துச் செல்லுங்கள்.", "en": "It gets cold at night, so please take a jacket." }
+    ]
+  },
+  {
+    "id": "n4-v-555", "expression": "明日", "reading": "あす", "romaji": "asu",
+    "en": "tomorrow (formal)", "ta": "நாளை", "pos": "noun",
+    "examples": [
+      { "ja": "明日の天気は雨でしょう。", "reading": "あすの てんきは あめでしょう。", "romaji": "asu no tenki wa ame deshou.", "ta": "நாளை மழை பெய்யும் போலிருக்கிறது.", "en": "Tomorrow’s weather will probably be rain." }
+    ]
+  },
+  {
+    "id": "n4-v-590", "expression": "虫", "reading": "むし", "romaji": "mushi",
+    "en": "insect, bug", "ta": "பூச்சி", "pos": "noun",
+    "examples": [
+      { "ja": "夏の夜は虫の声がよく聞こえます。", "reading": "なつの よるは むしの こえが よく きこえます。", "romaji": "natsu no yoru wa mushi no koe ga yoku kikoemasu.", "ta": "கோடை இரவுகளில் பூச்சிகளின் சத்தம் நன்றாகக் கேட்கும்.", "en": "On summer nights you can often hear insects." }
+    ]
+  },
+  {
+    "id": "n4-v-593", "expression": "植える", "reading": "うえる", "romaji": "ueru",
+    "en": "to plant", "ta": "நட", "pos": "verb-ru",
+    "examples": [
+      { "ja": "庭にマンゴーの木を植えました。", "reading": "にわに マンゴーの きを うえました。", "romaji": "niwa ni mangoo no ki o uemashita.", "ta": "தோட்டத்தில் ஒரு மாமரத்தை நட்டேன்.", "en": "I planted a mango tree in the garden." }
+    ]
+  },
+  {
+    "id": "n4-v-615", "expression": "草", "reading": "くさ", "romaji": "kusa",
+    "en": "grass", "ta": "புல்", "pos": "noun",
+    "examples": [
+      { "ja": "公園の草の上に座りました。", "reading": "こうえんの くさの うえに すわりました。", "romaji": "kouen no kusa no ue ni suwarimashita.", "ta": "பூங்காவில் புல்லின் மேல் உட்கார்ந்தேன்.", "en": "I sat on the grass in the park." }
+    ]
+  }
+]

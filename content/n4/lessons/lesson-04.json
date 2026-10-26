@@ -1,0 +1,146 @@
+{
+  "lesson": 4,
+  "title": { "ja": "窓が割れてしまいました", "ta": "சன்னல் உடைந்துவிட்டது", "en": "The window got broken" },
+  "intro_ta": "வீட்டில் பொருட்கள் உடைகின்றன, விழுகின்றன, அழுக்காகின்றன, விளக்கு எரிகிறது — இவற்றை எப்படிச் சொல்வது? இந்தப் பாடத்தில் 'தானாக நடப்பது' (தன்வினை, 開く) மற்றும் 'ஒருவர் செய்வது' (பிறவினை, 開ける) என்ற வினை ஜோடிகளைக் கற்போம்; தமிழில் 'உடை / உடைத்தேன்', 'திற / திறந்தது' போல. 窓が割れています என்று ஒரு மாற்றத்துக்குப் பின் உள்ள நிலையை விவரிப்போம். 〜てしまいます என்று 'முழுவதும் செய்து முடித்துவிடுவது', 'தவறுதலாக நடந்துவிட்டது' என்ற வருத்தத்தைச் சொல்லவும், அதன் பேச்சு வடிவமான 〜ちゃう / 〜じゃう-வையும் கற்போம்.",
+  "intro_en": "At home, things break, fall, get dirty, and lights come on. How do you say all this? In this lesson you will learn verb pairs: \"it happens by itself\" (開く, it opens) and \"someone does it\" (開ける, I open it). Tamil has pairs like this too: உடைந்தது (it broke) / உடைத்தேன் (I broke it). You will describe a state after a change: 窓が割れています (the window is broken). With 〜てしまいます you will say \"finish completely\", or say sorry that something bad happened. You will also learn the casual form 〜ちゃう / 〜じゃう.",
+  "grammar": [
+    {
+      "id": "g04-1",
+      "pattern": "Vi / Vt pairs (開く・開ける, 壊れる・壊す …)",
+      "name": { "en": "\"It happens\" and \"someone does it\" verb pairs", "ta": "தன்வினை / பிறவினை ஜோடிகள்" },
+      "explanation_ta": "ஜப்பானிய மொழியில் பல வினைகள் ஜோடியாக வருகின்றன. தன்வினை (intransitive) — பொருள் தானாக மாறுகிறது; அந்தப் பொருள் が பெறும்: ドアが開きます (கதவு திறக்கிறது). பிறவினை (transitive) — ஒருவர் பொருளை மாற்றுகிறார்; பொருள் を பெறும்: ドアを開けます (கதவைத் திறக்கிறேன்). தமிழில் 'உடைந்தது / உடைத்தேன்', 'எரிகிறது / எரிக்கிறேன்', 'விழுந்தது / விழவைத்தேன்' போலவே. பொதுவான விதி: 〜す என்று முடிபவை பெரும்பாலும் பிறவினை (壊す, 直す, 消す), 〜れる / 〜まる என்று முடிபவை பெரும்பாலும் தன்வினை (壊れる, 割れる, 閉まる). ஆனால் விதிவிலக்குகள் உண்டு (開く → 開ける), அதனால் ஜோடிகளாக மனப்பாடம் செய்வது நல்லது. யார் செய்தார் என்பது தெரியாதபோதும், முக்கியமில்லாதபோதும் ஜப்பானியர் தன்வினையை அதிகம் பயன்படுத்துவார்கள்.",
+      "explanation_en": "Many Japanese verbs come in pairs. \"It happens\" verbs (intransitive): the thing changes by itself, and it takes が: ドアが開きます (the door opens). \"Someone does it\" verbs (transitive): a person changes the thing, and it takes を: ドアを開けます (I open the door). Tamil has the same idea: உடைந்தது (it broke) / உடைத்தேன் (I broke it). A rough rule: verbs ending in 〜す are usually \"someone does it\" (壊す, 直す, 消す). Verbs ending in 〜れる or 〜まる are usually \"it happens\" (壊れる, 割れる, 閉まる). There are exceptions (開く → 開ける), so learn them as pairs. When the doer is unknown or not important, Japanese people prefer the \"it happens\" verb.",
+      "tamil_parallel": "கதவு திறந்தது (தானாக) = ドアが開きました; நான் கதவைத் திறந்தேன் = 私はドアを開けました",
+      "tamil_parallel_en": "\"The door opened\" (கதவு திறந்தது) = ドアが開きました. \"I opened the door\" (நான் கதவைத் திறந்தேன்) = 私はドアを開けました.",
+      "formation": "தன்வினை (N が 〜) ・ பிறவினை (N を 〜)\n開く ・ 開ける\n閉まる ・ 閉める\n点く ・ 点ける\n消える ・ 消す\n壊れる ・ 壊す\n割れる ・ 割る\n直る ・ 直す\n落ちる ・ 落とす\n止まる ・ 止める\n沸く ・ 沸かす\n汚れる ・ 汚す",
+      "formation_en": "It happens (N が 〜) ・ Someone does it (N を 〜)\n開く ・ 開ける\n閉まる ・ 閉める\n点く ・ 点ける\n消える ・ 消す\n壊れる ・ 壊す\n割れる ・ 割る\n直る ・ 直す\n落ちる ・ 落とす\n止まる ・ 止める\n沸く ・ 沸かす\n汚れる ・ 汚す",
+      "examples": [
+        { "ja": "私は ドアを 開けました。ドアが 開きました。", "reading": "わたしは ドアを あけました。ドアが あきました。", "romaji": "watashi wa doa o akemashita. doa ga akimashita.", "ta": "நான் கதவைத் திறந்தேன். கதவு திறந்தது.", "en": "I opened the door. The door opened." },
+        { "ja": "風で 窓が 閉まりました。", "reading": "かぜで まどが しまりました。", "romaji": "kaze de mado ga shimarimashita.", "ta": "காற்றால் ஜன்னல் மூடிக்கொண்டது.", "en": "The window closed in the wind." },
+        { "ja": "父が テレビを 直しました。それで、テレビが 直りました。", "reading": "ちちが テレビを なおしました。それで、テレビが なおりました。", "romaji": "chichi ga terebi o naoshimashita. sorede, terebi ga naorimashita.", "ta": "அப்பா டிவியைச் சரிசெய்தார். அதனால் டிவி சரியாகிவிட்டது.", "en": "My father fixed the TV. So the TV works again." },
+        { "ja": "スイッチを 押すと、電気が 点きます。", "reading": "スイッチを おすと、でんきが つきます。", "romaji": "suicchi o osu to, denki ga tsukimasu.", "ta": "சுவிட்சை அழுத்தினால் விளக்கு எரியும்.", "en": "When you press the switch, the light comes on." },
+        { "ja": "子どもが 皿を 割りました。", "reading": "こどもが さらを わりました。", "romaji": "kodomo ga sara o warimashita.", "ta": "குழந்தை தட்டை உடைத்தது.", "en": "The child broke a plate." },
+        { "ja": "お湯を 沸かして ください。お湯が 沸いたら、教えて ください。", "reading": "おゆを わかして ください。おゆが わいたら、おしえて ください。", "romaji": "oyu o wakashite kudasai. oyu ga waitara, oshiete kudasai.", "ta": "தண்ணீரைக் கொதிக்க வையுங்கள். தண்ணீர் கொதித்ததும் சொல்லுங்கள்.", "en": "Please boil some water. Tell me when it boils." }
+      ],
+      "pitfalls_ta": "'ドアを開きます' அல்லது 'ドアが開けます' என்று துகளையும் வினையையும் கலப்பது பொதுவான தவறு. を → பிறவினை (開ける), が → தன்வினை (開く).",
+      "pitfalls_en": "A common mistake is mixing particles and verbs: ドアを開きます or ドアが開けます. を goes with the \"someone does it\" verb (開ける). が goes with the \"it happens\" verb (開く)."
+    },
+    {
+      "id": "g04-2",
+      "pattern": "N が Vi-ています (resulting state)",
+      "name": { "en": "The state after a change: 〜が〜ています", "ta": "மாற்றத்துக்குப் பின் உள்ள நிலை: 〜が〜ています" },
+      "explanation_ta": "N5-இல் 〜ています என்பது 'இப்போது செய்துகொண்டிருக்கிறேன்' என்று கற்றோம். ஆனால் தன்வினையுடன் (割れる, 点く, 開く, 落ちる, 壊れる) 〜ています வந்தால், ஒரு மாற்றம் நடந்து அதன் விளைவு இப்போதும் தொடர்கிறது என்று பொருள்: 窓が割れています = 'ஜன்னல் உடைந்த நிலையில் இருக்கிறது'. தமிழில் 'உடைந்து கிடக்கிறது', 'திறந்திருக்கிறது', 'விழுந்து கிடக்கிறது' என்பது போல. கண்முன் பார்ப்பதை அப்படியே விவரிக்கப் பயன்படும்; யார் செய்தார்கள் என்பது சொல்லப்படாது.",
+      "explanation_en": "In N5, 〜ています meant \"I am doing it now\". But with an \"it happens\" verb (割れる, 点く, 開く, 落ちる, 壊れる), 〜ています means a change happened and the result is still there. 窓が割れています means \"the window is (in a) broken (state)\". Tamil says உடைந்து கிடக்கிறது (lies broken) or திறந்திருக்கிறது (is open). Use it to describe what you see in front of you. It does not say who did it.",
+      "tamil_parallel": "ஜன்னல் உடைந்து கிடக்கிறது = 窓が割れています; விளக்கு எரிந்துகொண்டிருக்கிறது = 電気が点いています",
+      "tamil_parallel_en": "\"The window is broken\" (ஜன்னல் உடைந்து கிடக்கிறது) = 窓が割れています. \"The light is on\" (விளக்கு எரிகிறது) = 電気が点いています.",
+      "formation": "N + が + தன்வினை て-வடிவம் + います\n割れる → 割れています (உடைந்திருக்கிறது)\n点く → 点いています (எரிகிறது)\n落ちる → 落ちています (விழுந்து கிடக்கிறது)",
+      "formation_en": "N + が + \"it happens\" verb て-form + います\n割れる → 割れています (is broken)\n点く → 点いています (is on)\n落ちる → 落ちています (is lying on the ground)",
+      "examples": [
+        { "ja": "窓が 割れて います。", "reading": "まどが われて います。", "romaji": "mado ga warete imasu.", "ta": "ஜன்னல் உடைந்து கிடக்கிறது.", "en": "The window is broken." },
+        { "ja": "電気が 点いて いますね。誰か いるんですか。", "reading": "でんきが ついて いますね。だれか いるんですか。", "romaji": "denki ga tsuite imasu ne. dareka iru n desu ka.", "ta": "விளக்கு எரிகிறதே. யாராவது இருக்கிறார்களா?", "en": "The light is on. Is someone there?" },
+        { "ja": "この いすは 壊れて いますから、座らないで ください。", "reading": "この いすは こわれて いますから、すわらないで ください。", "romaji": "kono isu wa kowarete imasu kara, suwaranaide kudasai.", "ta": "இந்த நாற்காலி உடைந்திருக்கிறது, உட்கார வேண்டாம்.", "en": "This chair is broken, so please don't sit on it." },
+        { "ja": "床に ハンカチが 落ちて いますよ。", "reading": "ゆかに ハンカチが おちて いますよ。", "romaji": "yuka ni hankachi ga ochite imasu yo.", "ta": "தரையில் ஒரு கைக்குட்டை விழுந்து கிடக்கிறது.", "en": "There's a handkerchief on the floor." },
+        { "ja": "シャツが 汚れて いますよ。", "reading": "シャツが よごれて いますよ。", "romaji": "shatsu ga yogorete imasu yo.", "ta": "உங்கள் சட்டை அழுக்காக இருக்கிறது.", "en": "Your shirt is dirty." },
+        { "ja": "「窓は 開いて いますか。」「いいえ、閉まって います。」", "reading": "「まどは あいて いますか。」「いいえ、しまって います。」", "romaji": "\"mado wa aite imasu ka.\" \"iie, shimatte imasu.\"", "ta": "\"ஜன்னல் திறந்திருக்கிறதா?\" \"இல்லை, மூடியிருக்கிறது.\"", "en": "\"Is the window open?\" \"No, it's closed.\"" }
+      ],
+      "pitfalls_ta": "'窓が割れています' என்பதை 'ஜன்னல் உடைந்துகொண்டிருக்கிறது' என்று (நடந்துகொண்டிருக்கும் செயலாக) புரிந்துகொள்ள வேண்டாம்; ஏற்கனவே உடைந்த நிலை. மேலும் 'ドアを開いています' தவறு; நிலைக்கு が + தன்வினை.",
+      "pitfalls_en": "窓が割れています does not mean \"the window is breaking right now\". It is already broken. Also, ドアを開いています is wrong. For a state, use が + the \"it happens\" verb."
+    },
+    {
+      "id": "g04-3",
+      "pattern": "V-てしまいます (completion)",
+      "name": { "en": "Finish completely: 〜てしまいます", "ta": "〜てしまいます: முழுவதும் செய்து முடித்தல்" },
+      "explanation_ta": "〜てしまう என்பதன் முதல் பொருள்: ஒரு செயலை முழுமையாகச் செய்து முடித்துவிடுவது. தமிழில் 'படித்துவிட்டேன்', 'சாப்பிட்டுவிட்டேன்', 'செய்து முடித்துவிடுவேன்' என்று '-விடு' சேர்ப்பது போலவே! 全部 (முழுவதும்), もう (ஏற்கனவே), 一日で (ஒரே நாளில்) போன்ற சொற்களுடன் அடிக்கடி வரும். எதிர்காலத்தில் 〜てしまいます என்றால் 'முடித்துவிடுவேன்' என்று உறுதி. 〜てしまってから = 'முழுவதும் முடித்த பிறகு'.",
+      "explanation_en": "The first meaning of 〜てしまう is to finish something completely. Tamil does this with \"-விடு\": படித்துவிட்டேன் (I've read it all), சாப்பிட்டுவிட்டேன் (I've eaten it up). It often comes with 全部 (all), もう (already) or 一日で (in one day). In the future, 〜てしまいます means \"I'll get it done\". 〜てしまってから means \"after I finish it\".",
+      "tamil_parallel": "இந்தப் புத்தகத்தைப் படித்துவிட்டேன் = この本を読んでしまいました ('-விடு' = てしまう)",
+      "tamil_parallel_en": "\"I've read this book (all of it)\" (இந்தப் புத்தகத்தைப் படித்துவிட்டேன்) = この本を読んでしまいました. Tamil \"-விடு\" = てしまう.",
+      "formation": "வினை て-வடிவம் + しまいます / しまいました\n読む → 読んでしまいました\nやる → やってしまいます\n〜てしまってから (முடித்த பிறகு)",
+      "formation_en": "Verb て-form + しまいます / しまいました\n読む → 読んでしまいました\nやる → やってしまいます\n〜てしまってから (after finishing)",
+      "examples": [
+        { "ja": "この 本は 一日で 読んで しまいました。", "reading": "この ほんは いちにちで よんで しまいました。", "romaji": "kono hon wa ichinichi de yonde shimaimashita.", "ta": "இந்தப் புத்தகத்தை ஒரே நாளில் படித்து முடித்துவிட்டேன்.", "en": "I read this whole book in one day." },
+        { "ja": "昼ご飯の 前に 宿題を やって しまいます。", "reading": "ひるごはんの まえに しゅくだいを やって しまいます。", "romaji": "hirugohan no mae ni shukudai o yatte shimaimasu.", "ta": "மதிய உணவுக்கு முன் வீட்டுப்பாடத்தைச் செய்து முடித்துவிடுவேன்.", "en": "I'll get my homework done before lunch." },
+        { "ja": "ケーキを 全部 食べて しまいました。", "reading": "ケーキを ぜんぶ たべて しまいました。", "romaji": "keeki o zenbu tabete shimaimashita.", "ta": "கேக் முழுவதையும் சாப்பிட்டுவிட்டேன்.", "en": "I ate up all the cake." },
+        { "ja": "部屋を 片付けて しまってから、出かけます。", "reading": "へやを かたづけて しまってから、でかけます。", "romaji": "heya o katazukete shimatte kara, dekakemasu.", "ta": "அறையை ஒழுங்குபடுத்தி முடித்த பிறகு வெளியே போவேன்.", "en": "I'll go out after I finish tidying my room." },
+        { "ja": "この 仕事は 今日中に して しまって ください。", "reading": "この しごとは きょうじゅうに して しまって ください。", "romaji": "kono shigoto wa kyoujuu ni shite shimatte kudasai.", "ta": "இந்த வேலையை இன்றைக்குள் செய்து முடித்துவிடுங்கள்.", "en": "Please get this work finished today." }
+      ],
+      "pitfalls_ta": "て-வடிவத்தைச் சரியாக உருவாக்குங்கள்: 読む → 読んでしまう (でしまう), 書く → 書いてしまう. 'で' வருமா 'て' வருமா என்பது て-வடிவத்தைப் பொறுத்தது.",
+      "pitfalls_en": "Make the て-form correctly: 読む → 読んでしまう (でしまう), 書く → 書いてしまう. Whether you use て or で depends on the て-form."
+    },
+    {
+      "id": "g04-4",
+      "pattern": "V-てしまいました (regret)",
+      "name": { "en": "Oops / unfortunately: 〜てしまいました", "ta": "〜てしまいました: தவறுதலாக நடந்துவிட்டது (வருத்தம்)" },
+      "explanation_ta": "〜てしまう-வின் இரண்டாவது, மிக அதிகம் பயன்படும் பொருள்: விரும்பாத ஒன்று நடந்துவிட்டது, அல்லது தவறுதலாகச் செய்துவிட்டேன் என்ற வருத்தம். 財布を落としてしまいました = 'பர்ஸைத் தவறவிட்டுவிட்டேன் (ஐயோ!)'. தமிழில் 'மறந்துவிட்டேன்', 'உடைந்துவிட்டது' என்பதில் உள்ள 'ஐயோ' உணர்வு. பிறவினையுடன் (落とす, 割る) வந்தால் நான் செய்த தவறு; தன்வினையுடன் (壊れる, 汚れる) வந்தால் தானாக நடந்த துரதிர்ஷ்டம். மன்னிப்புக் கேட்கும்போது 〜てしまって、すみません என்று சொல்லலாம்.",
+      "explanation_en": "The second meaning, and the most common one: something bad happened, or you did something by mistake, and you feel sorry. 財布を落としてしまいました means \"I dropped my wallet (oh no!)\". In Tamil, மறந்துவிட்டேன் (I forgot) and உடைந்துவிட்டது (it broke) carry the same \"oh no\" feeling. With a \"someone does it\" verb (落とす, 割る), it is your mistake. With an \"it happens\" verb (壊れる, 汚れる), it is bad luck. To apologise, say 〜てしまって、すみません.",
+      "tamil_parallel": "ரயிலில் பையை மறந்து வைத்துவிட்டேன் (ஐயோ!) = 電車にかばんを忘れてしまいました",
+      "tamil_parallel_en": "\"I left my bag on the train (oh no!)\" (ரயிலில் பையை மறந்து வைத்துவிட்டேன்) = 電車にかばんを忘れてしまいました.",
+      "formation": "வினை て-வடிவம் + しまいました (வருத்தம்)\nபிறவினை: 皿を割ってしまいました (நான் செய்த தவறு)\nதன்வினை: パソコンが壊れてしまいました (தானாக நடந்தது)\nமன்னிப்பு: 〜てしまって、すみません",
+      "formation_en": "Verb て-form + しまいました (regret)\nSomeone does it: 皿を割ってしまいました (my mistake)\nIt happens: パソコンが壊れてしまいました (bad luck)\nApology: 〜てしまって、すみません",
+      "examples": [
+        { "ja": "電車に かばんを 忘れて しまいました。", "reading": "でんしゃに かばんを わすれて しまいました。", "romaji": "densha ni kaban o wasurete shimaimashita.", "ta": "ரயிலில் பையை மறந்து வைத்துவிட்டேன்.", "en": "I left my bag on the train." },
+        { "ja": "母の 大事な 皿を 割って しまいました。", "reading": "ははの だいじな さらを わって しまいました。", "romaji": "haha no daiji na sara o watte shimaimashita.", "ta": "அம்மாவின் அருமையான தட்டை உடைத்துவிட்டேன்.", "en": "I broke my mother's precious plate." },
+        { "ja": "寝坊して、バスに 遅れて しまいました。", "reading": "ねぼうして、バスに おくれて しまいました。", "romaji": "nebou shite, basu ni okurete shimaimashita.", "ta": "அதிக நேரம் தூங்கியதால் பஸ்ஸைத் தவறவிட்டுவிட்டேன்.", "en": "I overslept and missed the bus." },
+        { "ja": "白い シャツが 汚れて しまいました。", "reading": "しろい シャツが よごれて しまいました。", "romaji": "shiroi shatsu ga yogorete shimaimashita.", "ta": "வெள்ளைச் சட்டை அழுக்காகிவிட்டது.", "en": "My white shirt got dirty." },
+        { "ja": "道で 財布を 落として しまったんです。", "reading": "みちで さいふを おとして しまったんです。", "romaji": "michi de saifu o otoshite shimatta n desu.", "ta": "வழியில் பர்ஸைத் தவறவிட்டுவிட்டேன்.", "en": "I dropped my wallet on the street." },
+        { "ja": "パソコンが 壊れて しまいました。どう したら いいですか。", "reading": "パソコンが こわれて しまいました。どう したら いいですか。", "romaji": "pasokon ga kowarete shimaimashita. dou shitara ii desu ka.", "ta": "கணினி பழுதாகிவிட்டது. என்ன செய்யலாம்?", "en": "My computer has broken. What should I do?" }
+      ],
+      "pitfalls_ta": "நல்ல செய்தியுடன் 〜てしまいました சேர்த்தால் 'ஐயோ' என்ற வருத்தம் தோன்றும். 'தேர்வில் தேர்ச்சி பெற்றுவிட்டேன்!' என்று மகிழ்ச்சியாகச் சொல்ல 合格しました போதும்.",
+      "pitfalls_en": "With good news, 〜てしまいました can sound like \"oh no\". To say happily \"I passed the exam!\", just say 合格しました."
+    },
+    {
+      "id": "g04-5",
+      "pattern": "V-ちゃう / V-じゃう",
+      "name": { "en": "Casual 〜ちゃう / 〜じゃう", "ta": "பேச்சு வடிவம் 〜ちゃう / 〜じゃう" },
+      "explanation_ta": "நண்பர்கள், குடும்பத்தினருடன் பேசும்போது 〜てしまう என்பது சுருங்கி 〜ちゃう ஆகிறது; 〜でしまう என்பது 〜じゃう ஆகிறது. கடந்த காலம்: 〜ちゃった / 〜じゃった. பொருள் இரண்டும் ஒன்றே (முடித்துவிடுவது அல்லது 'ஐயோ' வருத்தம்). தமிழில் 'உடைஞ்சுபோச்சு', 'சாப்பிட்டுட்டேன்' என்று பேச்சுத் தமிழில் சுருக்குவது போல. ஆசிரியர், மேலதிகாரி, அலுவலக எழுத்து ஆகியவற்றில் பயன்படுத்த வேண்டாம்; அங்கே 〜てしまいました.",
+      "explanation_en": "With friends and family, 〜てしまう shrinks to 〜ちゃう, and 〜でしまう becomes 〜じゃう. Past: 〜ちゃった / 〜じゃった. The meaning is the same (finish completely, or \"oh no\"). Spoken Tamil also shortens words, like உடைஞ்சுபோச்சு (it broke) or சாப்பிட்டுட்டேன் (I ate it). Don't use it with teachers, bosses or in formal writing. Use 〜てしまいました there.",
+      "tamil_parallel": "ஐயோ, கிளாஸ் உடைஞ்சுபோச்சு! = あ、コップが割れちゃった",
+      "tamil_parallel_en": "\"Oh no, the glass broke!\" (ஐயோ, கிளாஸ் உடைஞ்சுபோச்சு!) = あ、コップが割れちゃった.",
+      "formation": "〜てしまう → 〜ちゃう: 食べてしまう → 食べちゃう\n〜でしまう → 〜じゃう: 飲んでしまう → 飲んじゃう\nகடந்த காலம்: 食べちゃった・飲んじゃった\nする → しちゃう・しちゃった",
+      "formation_en": "〜てしまう → 〜ちゃう: 食べてしまう → 食べちゃう\n〜でしまう → 〜じゃう: 飲んでしまう → 飲んじゃう\nPast: 食べちゃった・飲んじゃった\nする → しちゃう・しちゃった",
+      "examples": [
+        { "ja": "あ、コップが 割れちゃった。", "reading": "あ、コップが われちゃった。", "romaji": "a, koppu ga warechatta.", "ta": "ஐயோ, கிளாஸ் உடைந்துவிட்டது.", "en": "Oh no, the glass broke." },
+        { "ja": "ケーキ、全部 食べちゃったの？", "reading": "ケーキ、ぜんぶ たべちゃったの？", "romaji": "keeki, zenbu tabechatta no?", "ta": "கேக் முழுவதையும் சாப்பிட்டுவிட்டாயா?", "en": "Did you eat all the cake?" },
+        { "ja": "宿題、先に やっちゃうね。", "reading": "しゅくだい、さきに やっちゃうね。", "romaji": "shukudai, saki ni yacchau ne.", "ta": "வீட்டுப்பாடத்தை முதலில் முடித்துவிடுகிறேன்.", "en": "I'll get my homework done first." },
+        { "ja": "昨日の 夜、テレビを 見ながら 寝ちゃった。", "reading": "きのうの よる、テレビを みながら ねちゃった。", "romaji": "kinou no yoru, terebi o minagara nechatta.", "ta": "நேற்று இரவு டிவி பார்த்துக்கொண்டே தூங்கிவிட்டேன்.", "en": "Last night I fell asleep watching TV." },
+        { "ja": "冷たい ジュースを 三本も 飲んじゃった。", "reading": "つめたい ジュースを さんぼんも のんじゃった。", "romaji": "tsumetai juusu o sanbon mo nonjatta.", "ta": "குளிர்ந்த ஜூஸ் மூன்று பாட்டில் குடித்துவிட்டேன்!", "en": "I drank three bottles of cold juice!" }
+      ],
+      "pitfalls_ta": "で-வில் முடியும் て-வடிவம் (飲んで, 読んで, 死んで) → じゃう; மற்றவை → ちゃう. 'のんちゃった' தவறு, 飲んじゃった சரி.",
+      "pitfalls_en": "If the て-form ends in で (飲んで, 読んで), use じゃう. Otherwise use ちゃう. のんちゃった is wrong; 飲んじゃった is right."
+    }
+  ],
+  "vocab_ids": ["n4-v-008", "n4-v-012", "n4-v-020", "n4-v-026", "n4-v-068", "n4-v-087", "n4-v-096", "n4-v-098", "n4-v-188", "n4-v-198", "n4-v-208", "n4-v-263", "n4-v-344", "n4-v-371", "n4-v-388", "n4-v-401", "n4-v-416", "n4-v-520", "n4-v-532", "n4-v-534", "n4-v-549", "n4-v-558", "n4-v-595", "n4-v-651"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L04-q01", "type": "kanji_reading", "sentence": "押し入れから ＿布団＿を 出します。", "target": "布団", "options": ["ふとん", "ぬのだん", "ふだん", "ぶとん"], "answer": 0, "explanation_ta": "布団 = ふとん (மெத்தை). 団 இங்கே とん. ふだん என்பது 普段 (வழக்கமாக) என்ற வேறு சொல்.", "explanation_en": "布団 = ふとん (மெத்தை, futon). 団 is とん here. ふだん is a different word (普段, usually)." },
+      { "id": "L04-q02", "type": "kanji_reading", "sentence": "部屋の ＿隅＿に ごみが あります。", "target": "隅", "options": ["かど", "すみ", "はし", "まど"], "answer": 1, "explanation_ta": "隅 = すみ (அறையின் உள் மூலை). かど (角) என்பது தெருவின் வெளி மூலை / திருப்பம்.", "explanation_en": "隅 = すみ (மூலை, inside corner). かど (角) is an outside corner, like a street corner." },
+      { "id": "L04-q03", "type": "kanji_reading", "sentence": "洗濯物が もう ＿乾きました＿。", "target": "乾きました", "options": ["かきました", "かんきました", "かわきました", "かれきました"], "answer": 2, "explanation_ta": "乾く = かわく (காய்தல்) → 乾きました = かわきました. かきました என்பது 書きました.", "explanation_en": "乾く = かわく (காய்தல், to dry) → 乾きました = かわきました. かきました is 書きました (wrote)." },
+      { "id": "L04-q04", "type": "orthography", "sentence": "＿かべ＿に 地図を はりました。", "target": "かべ", "options": ["璧", "癖", "避", "壁"], "answer": 3, "explanation_ta": "かべ = 壁 (சுவர்). கீழே 土 (மண்) உள்ளது — சுவர் மண்ணால் கட்டப்படுவதால். 璧 (கீழே 玉) தவறு.", "explanation_en": "かべ = 壁 (சுவர், wall). It has 土 (earth) at the bottom, because walls are built of earth. 璧 (with 玉) is wrong." },
+      { "id": "L04-q05", "type": "orthography", "sentence": "机の 上を ＿かたづけて＿ ください。", "target": "かたづけて", "options": ["方付けて", "片付けて", "片作けて", "型付けて"], "answer": 1, "explanation_ta": "かたづける = 片付ける (ஒழுங்குபடுத்துதல்). 方, 型 ஒலியில் ஒத்தாலும் தவறு.", "explanation_en": "かたづける = 片付ける (ஒழுங்குபடுத்த, tidy up). 方 and 型 sound the same, but they are wrong." },
+      { "id": "L04-q06", "type": "vocab_context", "sentence": "お湯が （　　）、お茶を 入れます。", "options": ["沸いたら", "乾いたら", "鳴ったら", "点いたら"], "answer": 0, "explanation_ta": "தண்ணீர் கொதித்தால் = お湯が沸いたら. 乾く (காய்தல்) தண்ணீருக்குப் பொருந்தாது.", "explanation_en": "When the water boils = お湯が沸いたら (கொதித்ததும்). 乾く (to dry) does not fit water." },
+      { "id": "L04-q07", "type": "vocab_context", "sentence": "古い 雑誌は もう 読まないので、（　　）。", "options": ["直しました", "折りました", "捨てました", "落ちました"], "answer": 2, "explanation_ta": "இனி படிக்க மாட்டேன் → தூக்கி எறிந்தேன் = 捨てました. 落ちました தன்வினை; を உடன் வராது.", "explanation_en": "You won't read them again → you threw them away = 捨てました (தூக்கி எறிந்தேன்). 落ちました is an \"it happens\" verb." },
+      { "id": "L04-q08", "type": "vocab_context", "sentence": "朝 起きたら、布団を （　　）に しまいます。", "options": ["引き出し", "押し入れ", "壁", "屋上"], "answer": 1, "explanation_ta": "மெத்தையை வைக்கும் இடம் = 押し入れ (சுவர் அலமாரி). 引き出し (இழுப்பறை) மெத்தைக்கு மிகச் சிறியது.", "explanation_en": "The place for a futon = 押し入れ (சுவர் அலமாரி, closet). A drawer (引き出し) is too small." },
+      { "id": "L04-q09", "type": "vocab_context", "sentence": "夜中に 電話が （　　）、目が 覚めました。", "options": ["沸いて", "点いて", "割れて", "鳴って"], "answer": 3, "explanation_ta": "தொலைபேசி ஒலித்தல் = 電話が鳴る. 点く விளக்குக்கு.", "explanation_en": "A phone rings = 電話が鳴る (ஒலிக்கிறது). 点く is for lights." },
+      { "id": "L04-q10", "type": "vocab_context", "sentence": "壊れた 自転車を 自分で （　　）。", "options": ["直りました", "壊れました", "直しました", "汚れました"], "answer": 2, "explanation_ta": "自転車を என்று を வருவதால் பிறவினை: 直しました (சரிசெய்தேன்). 直りました தன்வினை; を எடுக்காது.", "explanation_en": "自転車を has を, so use the \"someone does it\" verb: 直しました (சரிசெய்தேன், I fixed). 直りました does not take を." },
+      { "id": "L04-q11", "type": "paraphrase", "sentence": "窓ガラスが 割れて います。", "options": ["窓ガラスが 汚れて います。", "窓ガラスが 壊れて います。", "窓ガラスを 洗って います。", "窓ガラスが 開いて います。"], "answer": 1, "explanation_ta": "割れている ≈ 壊れている (உடைந்திருக்கிறது). 汚れている (அழுக்காக) வேறு பொருள்.", "explanation_en": "割れている ≈ 壊れている (உடைந்திருக்கிறது, is broken). 汚れている (dirty) is different." },
+      { "id": "L04-q12", "type": "paraphrase", "sentence": "部屋を 片付けました。", "options": ["部屋を 借りました。", "部屋を 汚しました。", "部屋を きれいに しました。", "部屋を 出ました。"], "answer": 2, "explanation_ta": "片付ける = பொருட்களை இடத்தில் வைத்து அறையைச் சுத்தமாக்குவது ≈ きれいにしました. 汚しました நேர் எதிர்.", "explanation_en": "片付ける = put things away and make the room neat ≈ きれいにしました. 汚しました is the opposite." },
+      { "id": "L04-q13", "type": "usage", "sentence": "汚れる", "options": ["子どもが 壁を 汚れました。", "この 料理は 汚れて おいしいです。", "部屋を 汚れて ください。", "雨の 中を 歩いて、ズボンが 汚れました。"], "answer": 3, "explanation_ta": "汚れる தன்வினை: N が汚れる (ズボンが汚れました). '壁を汚れました' தவறு; அதற்கு பிறவினை 汚す (壁を汚しました).", "explanation_en": "汚れる is an \"it happens\" verb: N が汚れる (ズボンが汚れました). 壁を汚れました is wrong. Use 汚す for that: 壁を汚しました." },
+      { "id": "L04-q14", "type": "usage", "sentence": "落ちる", "options": ["棚から 本が 落ちました。", "財布を 道に 落ちました。", "先生が 学生を 落ちました。", "毎朝 シャワーを 落ちます。"], "answer": 0, "explanation_ta": "落ちる தன்வினை: 本が落ちました (புத்தகம் விழுந்தது). 財布を落ちました தவறு; 財布を落としました என்று சொல்ல வேண்டும்.", "explanation_en": "落ちる is an \"it happens\" verb: 本が落ちました (the book fell). 財布を落ちました is wrong. Say 財布を落としました." },
+      { "id": "L04-q15", "type": "grammar_form", "sentence": "風で ドアが （　　）。", "options": ["閉めました", "閉めて ください", "閉めたいです", "閉まりました"], "answer": 3, "explanation_ta": "காற்றால் தானாக மூடியது + ドアが → தன்வினை 閉まりました. 閉めました-க்கு செய்பவரும் を-வும் தேவை.", "explanation_en": "The wind closed it; nobody did it, and it says ドアが → use 閉まりました. 閉めました needs a person and を." },
+      { "id": "L04-q16", "type": "grammar_form", "sentence": "「あれ、電気が （　　）よ。」「あ、消すのを 忘れました。」", "options": ["点いて います", "点けて います", "点きます", "点けました"], "answer": 0, "explanation_ta": "இப்போது கண்முன் உள்ள நிலை + 電気が → 点いています (எரிந்துகொண்டிருக்கிறது). 電気が点けています தவறு.", "explanation_en": "You describe the state now, with 電気が → 点いています (the light is on). 電気が点けています is wrong." },
+      { "id": "L04-q17", "type": "grammar_form", "sentence": "この 本は おもしろくて、一晩で 全部 読んで （　　）。", "options": ["あげました", "ください", "しまいました", "いません"], "answer": 2, "explanation_ta": "全部, 一晩で → முழுமையாகப் படித்து முடித்தது = 読んでしまいました.", "explanation_en": "全部 and 一晩で show you finished it all → 読んでしまいました (படித்து முடித்துவிட்டேன்)." },
+      { "id": "L04-q18", "type": "grammar_form", "sentence": "大事な 時計を （　　）、とても 悲しいです。", "options": ["壊れて しまって", "壊して あげて", "壊れて いて", "壊して しまって"], "answer": 3, "explanation_ta": "時計を → பிறவினை 壊す; தவறுதலாகச் செய்த வருத்தம் → 壊してしまって. 壊れて-க்கு を வராது.", "explanation_en": "時計を needs the \"someone does it\" verb 壊す. Regret → 壊してしまって (உடைத்துவிட்டேன்). 壊れて does not take を." },
+      { "id": "L04-q19", "type": "grammar_form", "sentence": "「どうしたの？」「財布、落と（　　）。」", "options": ["しじゃった", "しちゃった", "しちゃう", "ちゃった"], "answer": 1, "explanation_ta": "落としてしまった → 落としちゃった (பேச்சு வடிவம்). て-வடிவம் 落として, で அல்ல; அதனால் ちゃった. நடந்து முடிந்ததால் கடந்த காலம்.", "explanation_en": "落としてしまった → 落としちゃった (casual). The て-form is 落として, not で, so use ちゃった. It already happened, so use the past." },
+      { "id": "L04-q20", "type": "grammar_form", "sentence": "ビールを 全部 飲（　　）。", "options": ["んちゃった", "みちゃった", "んじゃった", "んだちゃった"], "answer": 2, "explanation_ta": "飲んでしまった → で-வில் முடிவதால் → 飲んじゃった. 'のんちゃった' தவறு.", "explanation_en": "飲んでしまった ends in で → 飲んじゃった. のんちゃった is wrong." },
+      { "id": "L04-q21", "type": "grammar_form", "sentence": "窓が （　　） いますね。だれが 開けたんですか。", "options": ["開いて", "開けて", "開き", "開く"], "answer": 0, "explanation_ta": "窓が + நிலை → தன்வினை 開いています (திறந்திருக்கிறது). 窓が開けています தவறு.", "explanation_en": "窓が + a state → the \"it happens\" verb: 開いています (is open). 窓が開けています is wrong." },
+      { "id": "L04-q22", "type": "sentence_order", "before": "あっ、", "chunks": ["棚の", "上から", "コップが", "落ちて"], "star": 2, "after": "しまいました。", "explanation_ta": "棚の上から (அலமாரியின் மேலிருந்து) → コップが → 落ちて + しまいました. ★ = コップが.", "explanation_en": "棚の上から (from the top of the shelf) → コップが → 落ちて + しまいました. ★ = コップが." },
+      { "id": "L04-q23", "type": "sentence_order", "before": "母の", "chunks": ["大事な", "皿を", "割って", "しまいました"], "star": 1, "after": "。", "explanation_ta": "大事な皿を (அருமையான தட்டை) → 割って → しまいました (வருத்தம்). ★ = 皿を.", "explanation_en": "大事な皿を (the precious plate) → 割って → しまいました (regret). ★ = 皿を." },
+      { "id": "L04-q24", "type": "sentence_order", "before": "あの 部屋は", "chunks": ["電気が", "点いて", "いる", "から"], "star": 1, "after": "、だれか いますよ。", "explanation_ta": "電気が → 点いている (எரிகிறது, நிலை) → から (காரணம்). ★ = 点いて.", "explanation_en": "電気が → 点いている (the light is on, a state) → から (because). ★ = 点いて." },
+      { "id": "L04-q25", "type": "passage_cloze", "passage": "きのう、部屋を 掃除しました。でも、棚の 上の 花瓶を 落として［1］。花瓶が［2］しまいました。母が「けがは ない？」と 聞きました。それから、父が 壊れた いすも［3］くれました。今は 部屋が とても きれいに なって います。", "blanks": [
+        { "options": ["みました", "しまいました", "あげました", "いました"], "answer": 1 },
+        { "options": ["割って", "割り", "割る", "割れて"], "answer": 3 },
+        { "options": ["直して", "直って", "直る", "直した"], "answer": 0 }
+      ], "explanation_ta": "［1］ தவறுதலாக விழவைத்த வருத்தம் → 落としてしまいました. ［2］ 花瓶が → தன்வினை 割れて + しまいました. ［3］ அப்பா (செய்பவர்) சரிசெய்து தந்தார் → பிறவினை 直して + くれました.", "explanation_en": "[1] I dropped it by mistake (regret) → 落としてしまいました. [2] 花瓶が → \"it happens\" verb 割れて + しまいました. [3] Father did it for me → \"someone does it\" verb 直して + くれました (சரிசெய்து தந்தார்)." }
+    ]
+  }
+}

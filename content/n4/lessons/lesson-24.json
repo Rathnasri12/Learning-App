@@ -1,0 +1,148 @@
+{
+  "lesson": 24,
+  "title": { "ja": "子どもに野菜を食べさせます", "ta": "குழந்தையைக் காய்கறி சாப்பிட வைக்கிறேன்", "en": "I make my child eat vegetables" },
+  "intro_en": "In this lesson you will learn the causative form: \"make someone do\" or \"let someone do\". Parents make children eat vegetables. Teachers make students write essays. You will learn how to make the form for every verb group. You will learn when the person takes を and when it takes に. Last, you will ask for permission politely: 休ませていただけませんか (could you let me rest?).",
+  "intro_ta": "இந்தப் பாடத்தில் 'பிறரைச் செய்ய வை' அல்லது 'செய்ய விடு' என்ற பிறவினை வடிவத்தை (causative) கற்போம். பெற்றோர் குழந்தையைக் காய்கறி சாப்பிட வைப்பது, ஆசிரியர் மாணவரைக் கட்டுரை எழுத வைப்பது போன்றவை. எல்லா வினைக் குழுக்களுக்கும் இந்த வடிவத்தை உருவாக்கும் விதம், செய்பவருக்கு を வருமா に வருமா என்பது ஆகியவற்றைப் படிப்போம். கடைசியாக 休ませていただけませんか ('ஓய்வெடுக்க அனுமதிப்பீர்களா?') போல மரியாதையாக அனுமதி கேட்கக் கற்போம்.",
+  "grammar": [
+    {
+      "id": "g24-1",
+      "pattern": "Causative form (V-させる / V-せる)",
+      "name": { "en": "The causative form", "ta": "பிறவினை வடிவம் (செய்ய வை)" },
+      "explanation_en": "The causative form means \"make someone do\" or \"let someone do\". Group I: change the last u-sound to the a-sound and add せる. 行く → 行かせる, 読む → 読ませる, 待つ → 待たせる. For う, use わ: 買う → 買わせる. Group II: drop る and add させる: 食べる → 食べさせる. Group III: する → させる, 来る → 来させる (こさせる). The new verb works like a Group II verb: 食べさせます, 食べさせて, 食べさせない.",
+      "explanation_ta": "பிறவினை வடிவம் 'பிறரைச் செய்ய வை' அல்லது 'செய்ய விடு' என்று பொருள் தரும். தமிழில் 'சாப்பிடு → சாப்பிடவை', 'படி → படிக்கவை' என்பது போல. குழு I: கடைசி உ-ஒலியை அ-ஒலியாக்கி せる சேர்க்கவும்: 行く → 行かせる, 読む → 読ませる, 待つ → 待たせる; う என்றால் わ: 買う → 買わせる (ない-வடிவம் போலவே). குழு II: る நீக்கி させる: 食べる → 食べさせる. குழு III: する → させる, 来る → 来させる (こさせる). புதிய வினை குழு II போல மாறும்: 食べさせます, 食べさせて, 食べさせない.",
+      "tamil_parallel": "食べる → 食べさせる = சாப்பிடு → சாப்பிட வை; 読む → 読ませる = படி → படிக்க வை.",
+      "tamil_parallel_en": "食べる → 食べさせる = eat → make (someone) eat (சாப்பிட வை). 読む → 読ませる = read → make (someone) read (படிக்க வை).",
+      "formation": "குழு I: உ-ஒலி → அ-ஒலி + せる\nいく → いかせる、よむ → よませる、まつ → またせる、かう → かわせる\nகுழு II: る → させる\nたべる → たべさせる、みる → みさせる\nகுழு III: する → させる、くる → こさせる\nமாற்றம் குழு II போல: 〜させます、〜させて、〜させない",
+      "formation_en": "Group I: u-sound → a-sound + せる\nいく → いかせる、よむ → よませる、まつ → またせる、かう → かわせる\nGroup II: る → させる\nたべる → たべさせる、みる → みさせる\nGroup III: する → させる、くる → こさせる\nIt changes like Group II: 〜させます、〜させて、〜させない",
+      "examples": [
+        { "ja": "母は子どもに野菜を食べさせます。", "reading": "ははは こどもに やさいを たべさせます。", "romaji": "haha wa kodomo ni yasai o tabesasemasu.", "ta": "அம்மா குழந்தையைக் காய்கறி சாப்பிட வைக்கிறார்.", "en": "The mother makes her child eat vegetables." },
+        { "ja": "先生は学生に作文を書かせました。", "reading": "せんせいは がくせいに さくぶんを かかせました。", "romaji": "sensei wa gakusei ni sakubun o kakasemashita.", "ta": "ஆசிரியர் மாணவர்களைக் கட்டுரை எழுத வைத்தார்.", "en": "The teacher made the students write an essay." },
+        { "ja": "遅れて、友達を三十分も待たせてしまいました。", "reading": "おくれて、ともだちを さんじゅっぷんも またせて しまいました。", "romaji": "okurete, tomodachi o sanjuppun mo matasete shimaimashita.", "ta": "தாமதமாகி, நண்பரை முப்பது நிமிடம் காக்க வைத்துவிட்டேன்.", "en": "I was late and kept my friend waiting for thirty minutes." },
+        { "ja": "子どもに毎日ピアノを練習させています。", "reading": "こどもに まいにち ピアノを れんしゅうさせて います。", "romaji": "kodomo ni mainichi piano o renshuu sasete imasu.", "ta": "குழந்தையைத் தினமும் பியானோ பயிற்சி செய்ய வைக்கிறேன்.", "en": "I make my child practise the piano every day." },
+        { "ja": "医者は父にたばこをやめさせました。", "reading": "いしゃは ちちに たばこを やめさせました。", "romaji": "isha wa chichi ni tabako o yamesasemashita.", "ta": "மருத்துவர் அப்பாவைப் புகைப்பதை நிறுத்த வைத்தார்.", "en": "The doctor made my father stop smoking." },
+        { "ja": "明日、息子さんを八時に学校へ来させてください。", "reading": "あした、むすこさんを はちじに がっこうへ こさせて ください。", "romaji": "ashita, musuko-san o hachiji ni gakkou e kosasete kudasai.", "ta": "நாளை உங்கள் மகனை எட்டு மணிக்குப் பள்ளிக்கு வர வையுங்கள்.", "en": "Please have your son come to school at eight tomorrow." }
+      ],
+      "pitfalls_en": "Do not mix it up with the passive. 食べられる is passive (\"be eaten\") or potential. 食べさせる is causative (\"make eat\"). For Group I, use the a-sound: 待たせる, not 待ちさせる.",
+      "pitfalls_ta": "செயப்பாட்டு வினையுடன் (passive) குழப்ப வேண்டாம்: 食べられる = சாப்பிடப்படு / சாப்பிட முடியும்; 食べさせる = சாப்பிட வை. குழு I-க்கு அ-ஒலி தான்: 待たせる சரி, 待ちさせる தவறு."
+    },
+    {
+      "id": "g24-2",
+      "pattern": "N(person) を V-causative (intransitive)",
+      "name": { "en": "Make someone go, wait, cry …", "ta": "ஒருவரைப் போக, காத்திருக்க, அழ வை" },
+      "explanation_en": "Some verbs have no object: 行く, 待つ, 泣く, 笑う, 遊ぶ. With these, the person you make act takes を. 弟を行かせました (I made my brother go). Feelings work the same way: 友達を笑わせる (make friends laugh), 妹を泣かせる (make my sister cry), 親を心配させる (make my parents worry).",
+      "explanation_ta": "சில வினைகளுக்குச் செயப்படுபொருள் இல்லை: 行く, 待つ, 泣く, 笑う, 遊ぶ. இவற்றின் பிறவினையில் செய்ய வைக்கப்படும் நபர் を எடுக்கும்: 弟を行かせました (தம்பியைப் போக வைத்தேன்). உணர்ச்சிகளுக்கும் இப்படியே: 友達を笑わせる (நண்பர்களைச் சிரிக்க வை), 妹を泣かせる (தங்கையை அழ வை), 親を心配させる (பெற்றோரைக் கவலைப்பட வை). தமிழில் 'தம்பியைப் போக வைத்தேன்' என்று -ஐ வருவது போலவே ஜப்பானியத்திலும் を.",
+      "tamil_parallel": "弟を買い物に行かせました = தம்பியைக் கடைக்குப் போக வைத்தேன்.",
+      "tamil_parallel_en": "弟を買い物に行かせました = \"I sent my younger brother shopping\" (தம்பியைக் கடைக்குப் போக வைத்தேன்).",
+      "formation": "நபர் + を + தன்வினை-பிறவினை\nおとうとを いかせます\nともだちを またせます\nこどもを あそばせます\nいもうとを なかせます",
+      "formation_en": "person + を + causative of a verb with no object\nおとうとを いかせます\nともだちを またせます\nこどもを あそばせます\nいもうとを なかせます",
+      "examples": [
+        { "ja": "母は弟を買い物に行かせました。", "reading": "ははは おとうとを かいものに いかせました。", "romaji": "haha wa otouto o kaimono ni ikasemashita.", "ta": "அம்மா தம்பியைக் கடைக்குப் போக வைத்தார்.", "en": "Mother sent my younger brother shopping." },
+        { "ja": "雨の日は、子どもを家の中で遊ばせます。", "reading": "あめの ひは、こどもを いえの なかで あそばせます。", "romaji": "ame no hi wa, kodomo o ie no naka de asobasemasu.", "ta": "மழை நாட்களில் குழந்தைகளை வீட்டுக்குள்ளேயே விளையாட விடுவேன்.", "en": "On rainy days I let the children play indoors." },
+        { "ja": "おもしろい話をして、クラスのみんなを笑わせました。", "reading": "おもしろい はなしを して、クラスの みんなを わらわせました。", "romaji": "omoshiroi hanashi o shite, kurasu no minna o warawasemashita.", "ta": "வேடிக்கையான கதை சொல்லி வகுப்பில் எல்லோரையும் சிரிக்க வைத்தேன்.", "en": "I told a funny story and made the whole class laugh." },
+        { "ja": "ひどいことを言って、妹を泣かせてしまいました。", "reading": "ひどい ことを いって、いもうとを なかせて しまいました。", "romaji": "hidoi koto o itte, imouto o nakasete shimaimashita.", "ta": "கடுமையாகப் பேசி தங்கையை அழ வைத்துவிட்டேன்.", "en": "I said something mean and made my younger sister cry." },
+        { "ja": "先生は遅れた学生を廊下に立たせました。", "reading": "せんせいは おくれた がくせいを ろうかに たたせました。", "romaji": "sensei wa okureta gakusei o rouka ni tatasemashita.", "ta": "ஆசிரியர் தாமதமாக வந்த மாணவனை வராந்தாவில் நிற்க வைத்தார்.", "en": "The teacher made the late student stand in the corridor." },
+        { "ja": "高校生の息子を一人で外国へ行かせますか。", "reading": "こうこうせいの むすこを ひとりで がいこくへ いかせますか。", "romaji": "koukousei no musuko o hitori de gaikoku e ikasemasu ka.", "ta": "மேல்நிலைப் பள்ளியில் படிக்கும் மகனைத் தனியாக வெளிநாட்டுக்குப் போக விடுவீர்களா?", "en": "Would you let your high-school son go abroad alone?" }
+      ],
+      "pitfalls_en": "If the sentence already has を for a place, like 道を歩く, change the person to に: 子どもに道を歩かせる. Japanese avoids two を in one sentence.",
+      "pitfalls_ta": "வாக்கியத்தில் ஏற்கனவே இடத்துக்கு を இருந்தால் (道を歩く), நபருக்கு に போடவும்: 子どもに道を歩かせる. ஒரே வாக்கியத்தில் இரண்டு を வருவதை ஜப்பானியம் தவிர்க்கும்."
+    },
+    {
+      "id": "g24-3",
+      "pattern": "N(person) に N を V-causative (transitive)",
+      "name": { "en": "Make someone do something", "ta": "ஒருவரை ஒன்றைச் செய்ய வை" },
+      "explanation_en": "Some verbs already have an object with を: 食べる, 書く, 読む, 洗う. Here the person takes に, and the object keeps を. 子どもに本を読ませます (I make my child read a book). Whether it is \"make\" or \"let\" depends on the situation. A strict parent makes. A kind parent lets.",
+      "explanation_ta": "சில வினைகளுக்கு ஏற்கனவே を உடன் செயப்படுபொருள் உண்டு: 食べる, 書く, 読む, 洗う. இவற்றின் பிறவினையில் செய்ய வைக்கப்படும் நபர் に எடுப்பார், பொருள் を-ஐ வைத்துக்கொள்ளும்: 子どもに本を読ませます (குழந்தையைப் புத்தகம் படிக்க வைக்கிறேன்). 'கட்டாயப்படுத்தல்' அல்லது 'அனுமதித்தல்' என்பது சூழலைப் பொறுத்தது: கண்டிப்பான பெற்றோர் 'வைக்கிறார்', அன்பான பெற்றோர் 'விடுகிறார்'.",
+      "tamil_parallel": "子どもに本を読ませます = குழந்தையைப் புத்தகம் படிக்க வைக்கிறேன்.",
+      "tamil_parallel_en": "子どもに本を読ませます = \"I make (or let) my child read a book\" (குழந்தையைப் புத்தகம் படிக்க வைக்கிறேன்).",
+      "formation": "நபர் + に + பொருள் + を + பிறவினை\nこどもに ほんを よませます\nがくせいに かんじを かかせます\nむすこに くるまを あらわせます",
+      "formation_en": "person + に + object + を + causative\nこどもに ほんを よませます\nがくせいに かんじを かかせます\nむすこに くるまを あらわせます",
+      "examples": [
+        { "ja": "私は娘に毎晩本を読ませています。", "reading": "わたしは むすめに まいばん ほんを よませて います。", "romaji": "watashi wa musume ni maiban hon o yomasete imasu.", "ta": "நான் மகளை ஒவ்வொரு இரவும் புத்தகம் படிக்க வைக்கிறேன்.", "en": "I have my daughter read a book every night." },
+        { "ja": "先生は学生に漢字を十回書かせました。", "reading": "せんせいは がくせいに かんじを じゅっかい かかせました。", "romaji": "sensei wa gakusei ni kanji o jukkai kakasemashita.", "ta": "ஆசிரியர் மாணவர்களைக் கான்ஜியைப் பத்து முறை எழுத வைத்தார்.", "en": "The teacher made the students write the kanji ten times." },
+        { "ja": "父は私に車を洗わせました。", "reading": "ちちは わたしに くるまを あらわせました。", "romaji": "chichi wa watashi ni kuruma o arawasemashita.", "ta": "அப்பா என்னைக் காரைக் கழுவ வைத்தார்.", "en": "My father made me wash the car." },
+        { "ja": "日曜日には、子どもたちに部屋を掃除させます。", "reading": "にちようびには、こどもたちに へやを そうじさせます。", "romaji": "nichiyoubi ni wa, kodomotachi ni heya o souji sasemasu.", "ta": "ஞாயிற்றுக்கிழமைகளில் குழந்தைகளை அறையைச் சுத்தம் செய்ய வைக்கிறேன்.", "en": "On Sundays I have the children clean their rooms." },
+        { "ja": "小学校では、子どもたちに花を育てさせます。", "reading": "しょうがっこうでは、こどもたちに はなを そだてさせます。", "romaji": "shougakkou de wa, kodomotachi ni hana o sodatesasemasu.", "ta": "தொடக்கப் பள்ளியில் குழந்தைகளைப் பூச்செடி வளர்க்க வைக்கிறார்கள்.", "en": "At elementary school they have the children grow flowers." },
+        { "ja": "子どもに好きなものを食べさせてもいいですか。", "reading": "こどもに すきな ものを たべさせても いいですか。", "romaji": "kodomo ni suki na mono o tabesasete mo ii desu ka.", "ta": "குழந்தையைப் பிடித்ததைச் சாப்பிட விடலாமா?", "en": "May I let my child eat whatever he likes?" }
+      ],
+      "pitfalls_en": "Do not use を for the person here: 子どもを本を読ませる is wrong. When the object has を, the person takes に.",
+      "pitfalls_ta": "இங்கே நபருக்கு を போடக்கூடாது: 子どもを本を読ませる தவறு. பொருளுக்கு を இருந்தால் நபருக்கு に."
+    },
+    {
+      "id": "g24-4",
+      "pattern": "V-causative-ていただけませんか",
+      "name": { "en": "Would you please let me …?", "ta": "-க்க அனுமதிப்பீர்களா?" },
+      "explanation_en": "Causative て-form + いただけませんか is a very polite way to ask for permission. Word for word it is \"could I receive your letting me do …?\" Use it with teachers, bosses and shop staff. 休ませていただけませんか = \"Could you let me rest?\" You learned ていただけませんか in lesson 1. Here the verb before it is causative, so the doer is you, not the listener.",
+      "explanation_ta": "பிறவினை て-வடிவம் + いただけませんか என்பது அனுமதி கேட்கும் மிக மரியாதையான வழி. நேர்ப்பொருள்: 'நான் செய்ய நீங்கள் அனுமதிக்கும் உதவியைப் பெறலாமா?' ஆசிரியர், மேலதிகாரி, கடை ஊழியர் ஆகியோரிடம் பயன்படுத்துங்கள். 休ませていただけませんか = 'ஓய்வெடுக்க அனுமதிப்பீர்களா?' பாடம் 1-இல் கற்ற ていただけませんか-இல் செய்பவர் கேட்பவர்; இங்கே முன்னால் பிறவினை இருப்பதால் செய்பவர் நீங்களே.",
+      "tamil_parallel": "少し休ませていただけませんか = கொஞ்சம் ஓய்வெடுக்க அனுமதிப்பீர்களா?",
+      "tamil_parallel_en": "少し休ませていただけませんか = \"Could you let me rest a little?\" (கொஞ்சம் ஓய்வெடுக்க அனுமதிப்பீர்களா?).",
+      "formation": "பிறவினை て-வடிவம் + いただけませんか\nやすむ → やすませて いただけませんか\nつかう → つかわせて いただけませんか\nかえる → かえらせて いただけませんか",
+      "formation_en": "causative て-form + いただけませんか\nやすむ → やすませて いただけませんか\nつかう → つかわせて いただけませんか\nかえる → かえらせて いただけませんか",
+      "examples": [
+        { "ja": "すみません、気分が悪いので、少し休ませていただけませんか。", "reading": "すみません、きぶんが わるいので、すこし やすませて いただけませんか。", "romaji": "sumimasen, kibun ga warui node, sukoshi yasumasete itadakemasen ka.", "ta": "மன்னிக்கவும், உடல்நிலை சரியில்லை, கொஞ்சம் ஓய்வெடுக்க அனுமதிப்பீர்களா?", "en": "Excuse me, I feel sick. Could you let me rest a little?" },
+        { "ja": "この電話を使わせていただけませんか。", "reading": "この でんわを つかわせて いただけませんか。", "romaji": "kono denwa o tsukawasete itadakemasen ka.", "ta": "இந்தத் தொலைபேசியைப் பயன்படுத்த அனுமதிப்பீர்களா?", "en": "Could you let me use this phone?" },
+        { "ja": "母が病気なので、今日は早く帰らせていただけませんか。", "reading": "ははが びょうきなので、きょうは はやく かえらせて いただけませんか。", "romaji": "haha ga byouki na node, kyou wa hayaku kaerasete itadakemasen ka.", "ta": "அம்மாவுக்கு உடம்பு சரியில்லை, இன்று சீக்கிரம் வீட்டுக்குப் போக அனுமதிப்பீர்களா?", "en": "My mother is ill, so could you let me go home early today?" },
+        { "ja": "会議で、私にも意見を言わせていただけませんか。", "reading": "かいぎで、わたしにも いけんを いわせて いただけませんか。", "romaji": "kaigi de, watashi ni mo iken o iwasete itadakemasen ka.", "ta": "கூட்டத்தில் எனக்கும் கருத்துச் சொல்ல அனுமதிப்பீர்களா?", "en": "Could you let me give my opinion at the meeting too?" },
+        { "ja": "このお寺の写真を撮らせていただけませんか。", "reading": "この おてらの しゃしんを とらせて いただけませんか。", "romaji": "kono otera no shashin o torasete itadakemasen ka.", "ta": "இந்தக் கோவிலைப் படம் எடுக்க அனுமதிப்பீர்களா?", "en": "Could you let me take a photo of this temple?" },
+        { "ja": "大切なことなので、一日考えさせていただけませんか。", "reading": "たいせつな ことなので、いちにち かんがえさせて いただけませんか。", "romaji": "taisetsu na koto na node, ichinichi kangaesasete itadakemasen ka.", "ta": "இது முக்கியமான விஷயம், ஒரு நாள் யோசிக்க அனுமதிப்பீர்களா?", "en": "It's an important matter, so could you give me a day to think?" }
+      ],
+      "pitfalls_en": "Do not drop the causative. 休んでいただけませんか asks the other person to rest. 休ませていただけませんか asks to let you rest.",
+      "pitfalls_ta": "பிறவினையை விட்டுவிடாதீர்கள்: 休んでいただけませんか = 'நீங்கள் ஓய்வெடுப்பீர்களா?' (கேட்பவர் ஓய்வு); 休ませていただけませんか = 'நான் ஓய்வெடுக்க அனுமதிப்பீர்களா?'"
+    },
+    {
+      "id": "g24-5",
+      "pattern": "V-causative-てください / V-causative-てもらいます",
+      "name": { "en": "Please let me … / I was allowed to …", "ta": "-க்க விடுங்கள் / -க்க அனுமதி பெற்றேன்" },
+      "explanation_en": "Causative て-form + ください means \"please let me do …\". It is less formal than ていただけませんか. Use it to offer strongly: 私に払わせてください (let me pay). Causative て-form + もらいます means \"I was allowed to …\", with thanks. 親に留学させてもらいました = my parents let me study abroad. The person who allows takes に.",
+      "explanation_ta": "பிறவினை て-வடிவம் + ください = 'நான் செய்ய விடுங்கள்'. இது ていただけませんか-ஐ விடக் குறைந்த முறைமை; உறுதியாக முன்வரப் பயன்படும்: 私に払わせてください (நான் பணம் கட்டுகிறேன், விடுங்கள்). பிறவினை て-வடிவம் + もらいます = 'செய்ய அனுமதி பெற்றேன்' (நன்றியுணர்வுடன்): 親に留学させてもらいました = பெற்றோர் என்னை வெளிநாட்டில் படிக்க அனுமதித்தார்கள். அனுமதி தருபவர் に எடுப்பார்.",
+      "tamil_parallel": "私に払わせてください = நான் பணம் கட்டுகிறேன், விடுங்கள்; 親に留学させてもらいました = பெற்றோர் வெளிநாட்டில் படிக்க விட்டார்கள்.",
+      "tamil_parallel_en": "私に払わせてください = \"Please let me pay\" (நான் கட்டுகிறேன், விடுங்கள்). 親に留学させてもらいました = \"My parents let me study abroad\" (படிக்க விட்டார்கள்).",
+      "formation": "பிறவினை て-வடிவம் + ください (செய்ய விடுங்கள்)\nはらわせて ください、かんがえさせて ください\nஅனுமதிப்பவர் + に + பிறவினை て-வடிவம் + もらいます\nおやに りゅうがくさせて もらいました",
+      "formation_en": "causative て-form + ください (please let me)\nはらわせて ください、かんがえさせて ください\nperson who allows + に + causative て-form + もらいます\nおやに りゅうがくさせて もらいました",
+      "examples": [
+        { "ja": "今日は私に払わせてください。", "reading": "きょうは わたしに はらわせて ください。", "romaji": "kyou wa watashi ni harawasete kudasai.", "ta": "இன்று நான் பணம் கட்டுகிறேன், விடுங்கள்.", "en": "Please let me pay today." },
+        { "ja": "その仕事は、ぜひ私にやらせてください。", "reading": "その しごとは、ぜひ わたしに やらせて ください。", "romaji": "sono shigoto wa, zehi watashi ni yarasete kudasai.", "ta": "அந்த வேலையை எப்படியாவது நான் செய்ய விடுங்கள்.", "en": "Please do let me take on that job." },
+        { "ja": "少し考えさせてください。", "reading": "すこし かんがえさせて ください。", "romaji": "sukoshi kangaesasete kudasai.", "ta": "கொஞ்சம் யோசிக்க விடுங்கள்.", "en": "Please let me think about it a little." },
+        { "ja": "大学生の時、親にアメリカへ留学させてもらいました。", "reading": "だいがくせいの とき、おやに アメリカへ りゅうがくさせて もらいました。", "romaji": "daigakusei no toki, oya ni amerika e ryuugaku sasete moraimashita.", "ta": "கல்லூரியில் படித்தபோது பெற்றோர் என்னை அமெரிக்காவில் படிக்க அனுமதித்தார்கள்.", "en": "When I was at university, my parents let me study in America." },
+        { "ja": "熱があったので、会社を休ませてもらいました。", "reading": "ねつが あったので、かいしゃを やすませて もらいました。", "romaji": "netsu ga atta node, kaisha o yasumasete moraimashita.", "ta": "காய்ச்சல் இருந்ததால் அலுவலகத்தில் விடுப்பு எடுக்க அனுமதி பெற்றேன்.", "en": "I had a fever, so I was allowed to take the day off work." },
+        { "ja": "校長先生に講堂を使わせてもらいました。", "reading": "こうちょうせんせいに こうどうを つかわせて もらいました。", "romaji": "kouchou-sensei ni koudou o tsukawasete moraimashita.", "ta": "தலைமை ஆசிரியர் அரங்கத்தைப் பயன்படுத்த அனுமதித்தார்.", "en": "The principal let us use the hall." }
+      ],
+      "pitfalls_en": "やってください asks the other person to do it. やらせてください asks to let you do it. Check who does the action.",
+      "pitfalls_ta": "やってください = 'நீங்கள் செய்யுங்கள்'; やらせてください = 'நான் செய்ய விடுங்கள்'. செயலைச் செய்பவர் யார் என்று சரிபாருங்கள்."
+    }
+  ],
+  "vocab_ids": ["n4-v-034", "n4-v-060", "n4-v-089", "n4-v-101", "n4-v-113", "n4-v-194", "n4-v-238", "n4-v-286", "n4-v-292", "n4-v-307", "n4-v-308", "n4-v-326", "n4-v-366", "n4-v-390", "n4-v-395", "n4-v-396", "n4-v-428", "n4-v-473", "n4-v-483", "n4-v-509", "n4-v-538", "n4-v-542"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L24-q01", "type": "kanji_reading", "sentence": "＿試験＿は 来週の 月曜日です。", "target": "試験", "options": ["しげん", "しけん", "しっけん", "じけん"], "answer": 1, "explanation_ta": "試験 = しけん (தேர்வு). じけん என்பது 事件 (சம்பவம்); しげん என்பது dakuten சேர்த்த தவறு.", "explanation_en": "試験 = しけん (தேர்வு, exam). じけん is 事件 (incident). しげん wrongly adds a dakuten." },
+      { "id": "L24-q02", "type": "kanji_reading", "sentence": "＿数学＿の 点が あまり よく なかったです。", "target": "数学", "options": ["すうがく", "すがく", "かずがく", "すうかく"], "answer": 0, "explanation_ta": "数学 = すうがく (கணிதம்). 数 இங்கே நீண்ட すう; 学 = がく. かず என்பது தனிச்சொல் 数 (எண்ணிக்கை) வாசிப்பு.", "explanation_en": "数学 = すうがく (கணிதம், maths). 数 is a long すう here, and 学 is がく. かず is the reading of 数 alone (number)." },
+      { "id": "L24-q03", "type": "kanji_reading", "sentence": "＿校長＿先生の 話を 聞きました。", "target": "校長", "options": ["こちょう", "がっちょう", "こうじょう", "こうちょう"], "answer": 3, "explanation_ta": "校長 = こうちょう (தலைமை ஆசிரியர்). 校 = こう (学校 போல), 長 = ちょう. こうじょう என்பது 工場 (தொழிற்சாலை).", "explanation_en": "校長 = こうちょう (தலைமை ஆசிரியர், principal). 校 is こう (as in 学校) and 長 is ちょう. こうじょう is 工場 (factory)." },
+      { "id": "L24-q04", "type": "orthography", "sentence": "作文が 上手だと、先生に ＿ほめられ＿ました。", "target": "ほめられ", "options": ["保められ", "褒められ", "包められ", "宝められ"], "answer": 1, "explanation_ta": "ほめる = 褒める (பாராட்ட). 保, 包, 宝 ஆகியவை ほう / ほ என்று ஒலிக்கும் வேறு கான்ஜிகள்.", "explanation_en": "ほめる = 褒める (பாராட்ட, praise). 保, 包 and 宝 are other kanji that sound like ほ / ほう." },
+      { "id": "L24-q05", "type": "orthography", "sentence": "子どもを ＿そだてる＿のは 大変です。", "target": "そだてる", "options": ["教てる", "生てる", "育てる", "青てる"], "answer": 2, "explanation_ta": "そだてる = 育てる (வளர்க்க). 教 என்பது 教える (கற்பி); 青 தோற்றத்தில் 育 போலத் தெரியும் வேறு கான்ஜி.", "explanation_en": "そだてる = 育てる (வளர்க்க, raise). 教 is the kanji in 教える (teach). 青 only looks like 育." },
+      { "id": "L24-q06", "type": "vocab_context", "sentence": "宿題を しなかったので、先生に （　　）。", "options": ["褒められました", "育てられました", "連れられました", "叱られました"], "answer": 3, "explanation_ta": "வீட்டுப்பாடம் செய்யாததால் → 叱られました (திட்டு வாங்கினேன்). 褒められました (பாராட்டப்பட்டேன்) எதிர்ப்பொருள்.", "explanation_en": "No homework → 叱られました (திட்டு வாங்கினேன், got scolded). 褒められました (got praised) is the opposite." },
+      { "id": "L24-q07", "type": "vocab_context", "sentence": "日曜日に 子どもを 動物園へ （　　）行きました。", "options": ["育てて", "叱って", "連れて", "褒めて"], "answer": 2, "explanation_ta": "ஒருவரை உடன் அழைத்துச் செல்வது → 連れて行く. பொருளை எடுத்துச் செல்வது 持って行く; மனிதருக்கு 連れて.", "explanation_en": "Taking a person along → 連れて行く (அழைத்துச் செல்ல). For things, use 持って行く. For people, use 連れて." },
+      { "id": "L24-q08", "type": "vocab_context", "sentence": "ラジャさんは （　　）な 学生で、毎日 予習を して います。", "options": ["下手", "真面目", "失礼", "残念"], "answer": 1, "explanation_ta": "தினமும் முன்கூட்டியே படிக்கும் மாணவர் → 真面目 (ஒழுங்கான). 下手, 失礼 போன்றவை இந்த நல்ல பழக்கத்துடன் பொருந்தாது.", "explanation_en": "A student who prepares every day → 真面目 (ஒழுங்கான, hard-working). 下手 (bad at) and 失礼 (rude) do not match this good habit." },
+      { "id": "L24-q09", "type": "vocab_context", "sentence": "卒業式は 学校の （　　）で 行われます。", "options": ["講堂", "校長", "教育", "答"], "answer": 0, "explanation_ta": "விழா நடக்கும் இடம் → 講堂 (அரங்கம்). 校長 ஒரு நபர், இடம் அல்ல.", "explanation_en": "A place for a ceremony → 講堂 (அரங்கம், hall). 校長 (principal) is a person, not a place." },
+      { "id": "L24-q10", "type": "vocab_context", "sentence": "数学の テストで 百（　　）を 取りました。", "options": ["答", "番", "回", "点"], "answer": 3, "explanation_ta": "தேர்வு மதிப்பெண் → 百点 (நூறு மதிப்பெண்). 番 வரிசை எண் (一番), 回 தடவை.", "explanation_en": "A test score → 百点 (நூறு மதிப்பெண், 100 points). 番 is a number in order (一番), and 回 is \"times\"." },
+      { "id": "L24-q11", "type": "paraphrase", "sentence": "母は 私に 毎日 部屋を 掃除させます。", "options": ["私は 母に 言われて、毎日 部屋を 掃除します。", "母は 毎日 私の 部屋を 掃除します。", "私は 毎日 母の 部屋を 掃除して あげます。", "母は 毎日 部屋を 掃除したがって います。"], "answer": 0, "explanation_ta": "掃除させます = அம்மா என்னைச் சுத்தம் செய்ய வைக்கிறார் → சுத்தம் செய்பவர் நான், அம்மா சொல்வதால். இரண்டாவது தேர்வில் சுத்தம் செய்பவர் அம்மா; இது பொறி.", "explanation_en": "掃除させます = Mother makes me clean → I do the cleaning because she tells me. In the second option Mother does the cleaning. That is the trap." },
+      { "id": "L24-q12", "type": "paraphrase", "sentence": "あの 先生は とても 厳しいです。", "options": ["あの 先生は 学生に 好きな ことを させます。", "あの 先生は とても やさしいです。", "あの 先生は 学生に 規則を きちんと 守らせます。", "あの 先生は 学生に よく 褒められます。"], "answer": 2, "explanation_ta": "厳しい ஆசிரியர் = விதிகளைக் கண்டிப்பாகப் பின்பற்ற வைப்பவர் → 規則を守らせます. 好きなことをさせます (விரும்பியதைச் செய்ய விடுவது) எதிர்ப்பொருள்.", "explanation_en": "A strict (厳しい) teacher makes students follow the rules → 規則を守らせます. 好きなことをさせます (lets them do what they like) is the opposite." },
+      { "id": "L24-q13", "type": "usage", "sentence": "連れる", "options": ["母に 手紙を 連れて 行きました。", "電車が 駅に 連れました。", "毎朝 犬を 連れて 散歩します。", "友だちに 電話を 連れました。"], "answer": 2, "explanation_ta": "連れる = மனிதர் அல்லது விலங்கை உடன் அழைத்துச் செல்வது; 犬を連れて சரி. கடிதம் போன்ற பொருளுக்கு 持って.", "explanation_en": "連れる (அழைத்துச் செல்ல) = take a person or animal with you, so 犬を連れて is right. For things like a letter, use 持って." },
+      { "id": "L24-q14", "type": "usage", "sentence": "正しい", "options": ["正しい 答を 一つ 選んで ください。", "この 料理は とても 正しいです。", "今日は 正しく 寒い 日でした。", "あの 人は 正しい 背が 高いです。"], "answer": 0, "explanation_ta": "正しい = சரியான (தவறில்லாத); 正しい答 சரி. சுவை, வானிலை, உயரம் பற்றிச் சொல்ல வராது.", "explanation_en": "正しい (சரியான) = correct, not wrong. 正しい答 (the correct answer) is right. It does not describe taste, weather or height." },
+      { "id": "L24-q15", "type": "grammar_form", "sentence": "母は 子どもに 野菜を （　　）。", "options": ["食べられます", "食べて あげます", "食べさせます", "食べたがります"], "answer": 2, "explanation_ta": "子どもに + 野菜を → குழந்தையைச் சாப்பிட வைப்பது → 食べさせます (பிறவினை). 食べられます செயப்பாட்டு / இயலுமை வடிவம்.", "explanation_en": "子どもに + 野菜を → make the child eat → 食べさせます (causative). 食べられます is passive or potential." },
+      { "id": "L24-q16", "type": "grammar_form", "sentence": "遅れて、友だちを 三十分も （　　）しまいました。", "options": ["待させて", "待たせて", "待てさせて", "待ちさせて"], "answer": 1, "explanation_ta": "待つ (குழு I): つ → た + せる → 待たせる → 待たせて. 待ちさせて என்பது ます-stem-உடன் させる சேர்த்த தவறு.", "explanation_en": "待つ is Group I: つ → た + せる → 待たせる → 待たせて. 待ちさせて wrongly adds させる to the ます-stem." },
+      { "id": "L24-q17", "type": "grammar_form", "sentence": "母は 弟（　　）買い物に 行かせました。", "options": ["を", "が", "で", "と"], "answer": 0, "explanation_ta": "行く செயப்படுபொருள் இல்லாத வினை → போக வைக்கப்படும் நபர் を: 弟を行かせました. が என்றால் தம்பியே செய்பவராகிவிடுவார்.", "explanation_en": "行く has no object → the person made to go takes を: 弟を行かせました. With が, the brother would be the one doing the causing." },
+      { "id": "L24-q18", "type": "grammar_form", "sentence": "先生は 学生（　　）漢字を 書かせました。", "options": ["を", "で", "が", "に"], "answer": 3, "explanation_ta": "漢字を என்று ஏற்கனவே を இருப்பதால் நபர் に: 学生に漢字を書かせました. 学生を漢字を என்று இரண்டு を வராது.", "explanation_en": "漢字を already uses を, so the person takes に: 学生に漢字を書かせました. Two を (学生を漢字を) is wrong." },
+      { "id": "L24-q19", "type": "grammar_form", "sentence": "すみません、気分が 悪いので、少し （　　）いただけませんか。", "options": ["休んで", "休まれて", "休めて", "休ませて"], "answer": 3, "explanation_ta": "நான் ஓய்வெடுக்க அனுமதி கேட்பது → 休ませていただけませんか. 休んでいただけませんか என்றால் 'நீங்கள் ஓய்வெடுப்பீர்களா' என்று கேட்பவரிடம் கேட்பதாகும்.", "explanation_en": "Asking permission for yourself to rest → 休ませていただけませんか. 休んでいただけませんか asks the listener to rest." },
+      { "id": "L24-q20", "type": "grammar_form", "sentence": "その 仕事は ぜひ 私に （　　）ください。", "options": ["やって", "やらせて", "やられて", "やらないで"], "answer": 1, "explanation_ta": "私に + 'நான் செய்ய விடுங்கள்' → やらせてください. やってください என்றால் கேட்பவர் செய்ய வேண்டும்; 私に உடன் பொருந்தாது.", "explanation_en": "私に + \"let me do it\" → やらせてください. やってください asks the listener to do it, which does not fit 私に." },
+      { "id": "L24-q21", "type": "grammar_form", "sentence": "高校生の とき、親に 一人で 旅行（　　）もらいました。", "options": ["して", "されて", "させて", "さして"], "answer": 2, "explanation_ta": "பெற்றோர் 'அனுமதித்தார்கள்' → 旅行させてもらいました. 旅行してもらいました என்றால் பெற்றோர் எனக்காகப் பயணம் செய்தார்கள் என்று தவறான பொருள்.", "explanation_en": "My parents allowed me → 旅行させてもらいました. 旅行してもらいました would mean my parents travelled for me." },
+      { "id": "L24-q22", "type": "sentence_order", "before": "母は", "chunks": ["毎日", "子どもに", "野菜を", "食べさせます"], "star": 2, "after": "。", "explanation_ta": "毎日 → 子どもに (குழந்தையை) → 野菜を (காய்கறியை) → 食べさせます. நபர் に, பொருள் を, பிறகு பிறவினை.", "explanation_en": "毎日 → 子どもに (the child) → 野菜を (vegetables) → 食べさせます. Person with に, object with を, then the causative verb." },
+      { "id": "L24-q23", "type": "sentence_order", "before": "すみません、この", "chunks": ["電話を", "使わせて", "いただけ", "ません"], "star": 1, "after": "か。", "explanation_ta": "電話を → 使わせて (பயன்படுத்த அனுமதித்து) → いただけ → ませんか = இந்தத் தொலைபேசியைப் பயன்படுத்த அனுமதிப்பீர்களா?", "explanation_en": "電話を → 使わせて → いただけ → ませんか = \"Could you let me use this phone?\"" },
+      { "id": "L24-q24", "type": "sentence_order", "before": "おもしろい 話を して、", "chunks": ["クラスの", "みんなを", "笑わせ", "ました"], "star": 1, "after": "。", "explanation_ta": "クラスの → みんなを (எல்லோரையும்) → 笑わせ → ました. 笑う செயப்படுபொருள் இல்லாத வினை என்பதால் நபர் を.", "explanation_en": "クラスの → みんなを (everyone) → 笑わせ → ました. 笑う has no object, so the person takes を." },
+      { "id": "L24-q25", "type": "passage_cloze", "passage": "私の 父は とても 厳しい 人でした。子どもの とき、父は 私に 毎日 二時間 勉強［1］。テレビも あまり 見せて くれませんでした。でも、高校生に なった とき、父は 私を 一人で 東京へ 旅行［2］くれました。今は、父に いろいろな ことを［3］もらって、本当に よかったと 思って います。", "blanks": [
+        { "options": ["しました", "されました", "させました", "して あげました"], "answer": 2 },
+        { "options": ["させて", "して", "されて", "しないで"], "answer": 0 },
+        { "options": ["経験して", "経験されて", "経験しないで", "経験させて"], "answer": 3 }
+      ], "explanation_ta": "［1］ 父は私に〜 → அப்பா என்னைப் படிக்க வைத்தார் → 勉強させました. ［2］ அப்பா என்னைப் பயணம் செய்ய விட்டார் → 旅行させてくれました. ［3］ அப்பாவிடமிருந்து அனுபவிக்க அனுமதி பெற்றேன் → 経験させてもらって.", "explanation_en": "[1] 父は私に〜 → Father made me study → 勉強させました. [2] Father let me travel → 旅行させてくれました. [3] I was allowed by my father to experience things → 経験させてもらって." }
+    ]
+  }
+}

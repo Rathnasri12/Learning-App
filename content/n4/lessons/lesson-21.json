@@ -1,0 +1,167 @@
+{
+  "lesson": 21,
+  "title": { "ja": "今、宿題をしているところです", "ta": "இப்போது வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்", "en": "I'm doing my homework right now" },
+  "intro_en": "In this lesson you will talk about where you are in an action. With ところです you can say \"I'm about to …\", \"I'm in the middle of …\" and \"I've just …\". You will also learn たばかりです for things that feel very recent. Then you will join verbs with 始める, 出す, 終わる and 続ける. The topic is school life: classes, homework, preview and review, and being on time.",
+  "intro_ta": "இந்தப் பாடத்தில் ஒரு செயலின் எந்தக் கட்டத்தில் இருக்கிறீர்கள் என்று சொல்லக் கற்போம். ところです கொண்டு 'செய்யப் போகிறேன்', 'செய்துகொண்டிருக்கிறேன்', 'இப்போதுதான் செய்தேன்' என்று சொல்லலாம். மிகச் சமீபத்தில் நடந்ததாக உணர்வதைச் சொல்ல たばかりです கற்போம். பிறகு 始める、出す、終わる、続ける ஆகியவற்றை வினைகளுடன் சேர்த்து 'செய்யத் தொடங்கு', 'திடீரென்று தொடங்கு', 'செய்து முடி', 'தொடர்ந்து செய்' என்று சொல்வோம். பாடச் சூழல்: வகுப்புகள், வீட்டுப்பாடம், முன்தயாரிப்பு, மீள்பார்வை, நேரத்துக்கு வருவது.",
+  "grammar": [
+    {
+      "id": "g21-1",
+      "pattern": "V-dict ところです",
+      "name": { "en": "About to do", "ta": "செய்யப் போகும் தருணம்" },
+      "explanation_en": "ところ means \"point\" or \"moment\". Dictionary form + ところです means you are just about to start. The action has not started yet, but it will start right now. Words like これから (from now) and 今から often come with it. Compare with つもりです. つもり is a plan, maybe for next year. ところ is this very moment.",
+      "explanation_ta": "ところ என்றால் இங்கே 'இடம்' அல்ல, 'தருணம்' என்று பொருள். வினையின் அகராதி வடிவம் + ところです என்றால் 'இதோ இப்போதே செய்யப் போகிறேன்' என்று பொருள்; செயல் இன்னும் தொடங்கவில்லை, ஆனால் உடனே தொடங்கும். பெரும்பாலும் これから, 今から ஆகிய சொற்களுடன் வரும். つもりです என்பது திட்டம் (அடுத்த ஆண்டாகக்கூட இருக்கலாம்); ところです என்பது இந்த நொடியின் நிலை மட்டுமே. கடந்த காலத்தில் ところでした என்றால் 'செய்ய இருந்தேன் (அந்த நேரத்தில்)' என்று பொருள்.",
+      "tamil_parallel": "これから食べるところです = இதோ சாப்பிடப் போகிறேன் (சாப்பிடும் தருணத்தில் இருக்கிறேன்).",
+      "tamil_parallel_en": "これから食べるところです = \"I'm just about to eat\" (இதோ சாப்பிடப் போகிறேன்).",
+      "formation": "வினை அகராதி வடிவம் + ところです\nたべる → たべる ところです\nでる → でる ところです\nする → する ところです\nகடந்த காலம்: 〜る ところでした (செய்ய இருந்தேன்)",
+      "formation_en": "verb dictionary form + ところです\nたべる → たべる ところです\nでる → でる ところです\nする → する ところです\npast: 〜る ところでした (I was just about to)",
+      "examples": [
+        { "ja": "これから晩ご飯を食べるところです。", "reading": "これから ばんごはんを たべる ところです。", "romaji": "korekara bangohan o taberu tokoro desu.", "ta": "இதோ இப்போது இரவு உணவு சாப்பிடப் போகிறேன்.", "en": "I'm just about to eat dinner." },
+        { "ja": "今から家を出るところです。", "reading": "いまから いえを でる ところです。", "romaji": "ima kara ie o deru tokoro desu.", "ta": "இப்போதுதான் வீட்டை விட்டுக் கிளம்பப் போகிறேன்.", "en": "I'm just about to leave home." },
+        { "ja": "「もう宿題をしましたか。」「いいえ、今からするところです。」", "reading": "「もう しゅくだいを しましたか。」「いいえ、いまから する ところです。」", "romaji": "\"mou shukudai o shimashita ka.\" \"iie, ima kara suru tokoro desu.\"", "ta": "'வீட்டுப்பாடம் செய்துவிட்டாயா?' 'இல்லை, இப்போதுதான் செய்யப் போகிறேன்.'", "en": "\"Have you done your homework?\" \"No, I'm about to do it now.\"" },
+        { "ja": "授業はこれから始まるところです。", "reading": "じゅぎょうは これから はじまる ところです。", "romaji": "jugyou wa korekara hajimaru tokoro desu.", "ta": "வகுப்பு இதோ தொடங்கப் போகிறது.", "en": "The class is just about to begin." },
+        { "ja": "ちょうど今、あなたに電話をかけるところでした。", "reading": "ちょうど いま、あなたに でんわを かける ところでした。", "romaji": "choudo ima, anata ni denwa o kakeru tokoro deshita.", "ta": "சரியாக இப்போதுதான் உங்களுக்குப் போன் செய்ய இருந்தேன்.", "en": "I was just about to call you." },
+        { "ja": "これから何をするところですか。", "reading": "これから なにを する ところですか。", "romaji": "korekara nani o suru tokoro desu ka.", "ta": "இப்போது என்ன செய்யப் போகிறீர்கள்?", "en": "What are you about to do now?" }
+      ],
+      "pitfalls_en": "Do not use ところです for plans far away. For next week or next year, use つもりです or the plain ます-form.",
+      "pitfalls_ta": "தொலைவான திட்டங்களுக்கு ところです பயன்படுத்த வேண்டாம். 'அடுத்த ஆண்டு ஜப்பான் போகிறேன்' என்பதற்கு つもりです அல்லது ます-வடிவமே சரி."
+    },
+    {
+      "id": "g21-2",
+      "pattern": "V-ている ところです",
+      "name": { "en": "In the middle of doing", "ta": "செய்துகொண்டிருக்கும் நடுவில்" },
+      "explanation_en": "て-form + いる ところです means \"I'm right in the middle of it\". You already know ています for \"doing now\". ているところです stresses this exact moment. It often explains why you cannot do something else now. For example: \"I'm writing a report now, so I'll call you later.\"",
+      "explanation_ta": "て-வடிவம் + いる ところです என்றால் 'சரியாக இப்போது அந்தச் செயலின் நடுவில் இருக்கிறேன்' என்று பொருள். ています ஏற்கனவே தெரியும்; ているところです அதே பொருளில் 'இந்த நொடியில்' என்பதை வலியுறுத்துகிறது. 'இப்போது வேறு வேலை செய்ய முடியாது' என்று காரணம் சொல்ல அடிக்கடி பயன்படும். தமிழில் 'செய்துகொண்டிருக்கிறேன்' என்பதில் 'இதோ இப்போது' சேர்ப்பது போல.",
+      "tamil_parallel": "今、宿題をしているところです = இப்போது (சரியாக) வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்.",
+      "tamil_parallel_en": "今、宿題をしているところです = \"I'm right in the middle of my homework\" (இப்போது வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்).",
+      "formation": "வினை て-வடிவம் + いる ところです\nかく → かいて いる ところです\nよむ → よんで いる ところです\nしらべる → しらべて いる ところです",
+      "formation_en": "verb て-form + いる ところです\nかく → かいて いる ところです\nよむ → よんで いる ところです\nしらべる → しらべて いる ところです",
+      "examples": [
+        { "ja": "今、宿題をしているところです。", "reading": "いま、しゅくだいを して いる ところです。", "romaji": "ima, shukudai o shite iru tokoro desu.", "ta": "இப்போது வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்.", "en": "I'm doing my homework right now." },
+        { "ja": "今、レポートを書いているところですから、あとで電話します。", "reading": "いま、レポートを かいて いる ところですから、あとで でんわします。", "romaji": "ima, repooto o kaite iru tokoro desu kara, ato de denwa shimasu.", "ta": "இப்போது அறிக்கை எழுதிக்கொண்டிருக்கிறேன், அதனால் பிறகு போன் செய்கிறேன்.", "en": "I'm writing a report now, so I'll call you later." },
+        { "ja": "母は台所で晩ご飯を作っているところです。", "reading": "ははは だいどころで ばんごはんを つくって いる ところです。", "romaji": "haha wa daidokoro de bangohan o tsukutte iru tokoro desu.", "ta": "அம்மா சமையலறையில் இரவு உணவு சமைத்துக்கொண்டிருக்கிறார்.", "en": "My mother is in the kitchen making dinner." },
+        { "ja": "電車の時間を調べているところですから、ちょっと待ってください。", "reading": "でんしゃの じかんを しらべて いる ところですから、ちょっと まって ください。", "romaji": "densha no jikan o shirabete iru tokoro desu kara, chotto matte kudasai.", "ta": "ரயில் நேரத்தைப் பார்த்துக்கொண்டிருக்கிறேன், கொஞ்சம் காத்திருங்கள்.", "en": "I'm checking the train times, so please wait a moment." },
+        { "ja": "「今、何をしているところですか。」「明日の予習をしているところです。」", "reading": "「いま、なにを して いる ところですか。」「あしたの よしゅうを して いる ところです。」", "romaji": "\"ima, nani o shite iru tokoro desu ka.\" \"ashita no yoshuu o shite iru tokoro desu.\"", "ta": "'இப்போது என்ன செய்துகொண்டிருக்கிறீர்கள்?' 'நாளைய பாடத்தை முன்கூட்டியே படித்துக்கொண்டிருக்கிறேன்.'", "en": "\"What are you doing right now?\" \"I'm preparing tomorrow's lesson.\"" }
+      ],
+      "pitfalls_en": "Use it only for actions happening right now. For habits like \"I work at a bank\", use ています, not ているところです.",
+      "pitfalls_ta": "இது இந்த நொடியில் நடக்கும் செயலுக்கு மட்டும். 'வங்கியில் வேலை செய்கிறேன்' போன்ற வழக்கமான நிலைக்கு ています தான், ているところです அல்ல."
+    },
+    {
+      "id": "g21-3",
+      "pattern": "V-た ところです",
+      "name": { "en": "Have just done", "ta": "இப்போதுதான் செய்து முடித்தேன்" },
+      "explanation_en": "た-form + ところです means the action ended a moment ago. It is like a clock: you are at the point just after the action. It often comes with 今 or さっき (a little while ago). It is about real, short time: minutes, not months.",
+      "explanation_ta": "た-வடிவம் + ところです என்றால் 'செயல் இப்போதுதான், சில நிமிடங்களுக்கு முன் முடிந்தது' என்று பொருள். செயல் முடிந்த உடனடித் தருணத்தில் இருக்கிறோம். 今, さっき (சற்று முன்) ஆகிய சொற்களுடன் வரும். இது கடிகார நேரம் போன்ற உண்மையான குறுகிய நேரத்தைக் குறிக்கும்; மாதங்களுக்கு முன் நடந்ததற்குப் பயன்படுத்த முடியாது. தமிழில் 'இப்போதுதான் வந்தேன்' என்பது போல.",
+      "tamil_parallel": "今、家に帰ったところです = இப்போதுதான் வீட்டுக்கு வந்தேன்.",
+      "tamil_parallel_en": "今、家に帰ったところです = \"I've just got home\" (இப்போதுதான் வீட்டுக்கு வந்தேன்).",
+      "formation": "வினை た-வடிவம் + ところです\nかえる → かえった ところです\nおきる → おきた ところです\nつく → ついた ところです",
+      "formation_en": "verb た-form + ところです\nかえる → かえった ところです\nおきる → おきた ところです\nつく → ついた ところです",
+      "examples": [
+        { "ja": "今、家に帰ったところです。", "reading": "いま、いえに かえった ところです。", "romaji": "ima, ie ni kaetta tokoro desu.", "ta": "இப்போதுதான் வீட்டுக்கு வந்தேன்.", "en": "I've just got home." },
+        { "ja": "授業はさっき終わったところです。", "reading": "じゅぎょうは さっき おわった ところです。", "romaji": "jugyou wa sakki owatta tokoro desu.", "ta": "வகுப்பு சற்று முன்புதான் முடிந்தது.", "en": "The class ended just a moment ago." },
+        { "ja": "今、駅に着いたところですから、あと十分で行きます。", "reading": "いま、えきに ついた ところですから、あと じゅっぷんで いきます。", "romaji": "ima, eki ni tsuita tokoro desu kara, ato juppun de ikimasu.", "ta": "இப்போதுதான் ஸ்டேஷனுக்கு வந்தேன், இன்னும் பத்து நிமிடத்தில் வருகிறேன்.", "en": "I've just arrived at the station, so I'll be there in ten minutes." },
+        { "ja": "「もう昼ご飯を食べましたか。」「はい、今食べたところです。」", "reading": "「もう ひるごはんを たべましたか。」「はい、いま たべた ところです。」", "romaji": "\"mou hirugohan o tabemashita ka.\" \"hai, ima tabeta tokoro desu.\"", "ta": "'மதிய உணவு சாப்பிட்டாயிற்றா?' 'ஆமாம், இப்போதுதான் சாப்பிட்டேன்.'", "en": "\"Have you had lunch?\" \"Yes, I've just eaten.\"" },
+        { "ja": "さっき起きたところですから、まだ顔を洗っていません。", "reading": "さっき おきた ところですから、まだ かおを あらって いません。", "romaji": "sakki okita tokoro desu kara, mada kao o aratte imasen.", "ta": "சற்று முன்புதான் எழுந்தேன், இன்னும் முகம் கழுவவில்லை.", "en": "I only just woke up, so I haven't washed my face yet." }
+      ],
+      "pitfalls_en": "Do not say 先月日本に来たところです. Last month is too long ago for たところ. Use たばかりです for that (next point).",
+      "pitfalls_ta": "先月日本に来たところです என்று சொல்லக்கூடாது; ஒரு மாதம் たところ-க்கு மிக நீண்ட நேரம். அதற்கு அடுத்த பாடக்கூறான たばかりです பயன்படுத்துங்கள்."
+    },
+    {
+      "id": "g21-4",
+      "pattern": "V-た ばかりです",
+      "name": { "en": "Only just did (it feels recent)", "ta": "இப்போதுதான் (என்று உணரும்) செய்தது" },
+      "explanation_en": "た-form + ばかりです also means \"just did\". But here the time is how the speaker feels it. A week or even a month can feel \"just now\". たところ is about real minutes. たばかり is about your feeling. たばかり can also come before a noun: 買ったばかりの靴 (shoes I just bought). It often comes with のに or から to show a result or surprise.",
+      "explanation_ta": "た-வடிவம் + ばかりです என்பதும் 'இப்போதுதான் செய்தேன்' என்றே பொருள். ஆனால் இங்கே நேரம் பேசுபவரின் உணர்வைப் பொறுத்தது; ஒரு வாரம், ஒரு மாதம் கூட 'இப்போதுதான்' என்று தோன்றலாம். たところ உண்மையான சில நிமிடங்களைக் குறிக்கும்; たばかり மனதில் உணரும் சமீபத்தைக் குறிக்கும். たばかり பெயர்ச்சொல்லுக்கு முன்னும் வரும்: 買ったばかりの靴 (இப்போதுதான் வாங்கிய காலணி). のに, から ஆகியவற்றுடன் சேர்ந்து ஏமாற்றம் அல்லது காரணத்தைக் காட்டும்.",
+      "tamil_parallel": "先月日本に来たばかりです = போன மாதம்தான் ஜப்பானுக்கு வந்தேன் (இன்னும் புதியவன்).",
+      "tamil_parallel_en": "先月日本に来たばかりです = \"I only came to Japan last month\" (போன மாதம்தான் வந்தேன், I'm still new).",
+      "formation": "வினை た-வடிவம் + ばかりです\nくる → きた ばかりです\nかう → かった ばかりです\nபெயர்ச்சொல்லுக்கு முன்: 〜た ばかりの + N (かった ばかりの くつ)",
+      "formation_en": "verb た-form + ばかりです\nくる → きた ばかりです\nかう → かった ばかりです\nbefore a noun: 〜た ばかりの + N (かった ばかりの くつ)",
+      "examples": [
+        { "ja": "先月日本に来たばかりです。", "reading": "せんげつ にほんに きた ばかりです。", "romaji": "sengetsu nihon ni kita bakari desu.", "ta": "போன மாதம்தான் ஜப்பானுக்கு வந்தேன்.", "en": "I only came to Japan last month." },
+        { "ja": "このパソコンは先週買ったばかりなのに、もう壊れてしまいました。", "reading": "この パソコンは せんしゅう かった ばかりなのに、もう こわれて しまいました。", "romaji": "kono pasokon wa senshuu katta bakari na noni, mou kowarete shimaimashita.", "ta": "இந்தக் கணினியைப் போன வாரம்தான் வாங்கினேன், அதற்குள் பழுதாகிவிட்டது.", "en": "I only bought this computer last week, but it's already broken." },
+        { "ja": "習ったばかりの言葉を、もう忘れてしまいました。", "reading": "ならった ばかりの ことばを、もう わすれて しまいました。", "romaji": "naratta bakari no kotoba o, mou wasurete shimaimashita.", "ta": "இப்போதுதான் கற்ற சொல்லை ஏற்கனவே மறந்துவிட்டேன்.", "en": "I've already forgotten the word I just learned." },
+        { "ja": "ご飯を食べたばかりですから、まだ泳がないほうがいいですよ。", "reading": "ごはんを たべた ばかりですから、まだ およがない ほうが いいですよ。", "romaji": "gohan o tabeta bakari desu kara, mada oyoganai hou ga ii desu yo.", "ta": "இப்போதுதான் சாப்பிட்டீர்கள், அதனால் இன்னும் நீந்தாமல் இருப்பது நல்லது.", "en": "You've just eaten, so you'd better not swim yet." },
+        { "ja": "兄は結婚したばかりで、とても幸せそうです。", "reading": "あには けっこんした ばかりで、とても しあわせそうです。", "romaji": "ani wa kekkon shita bakari de, totemo shiawasesou desu.", "ta": "அண்ணனுக்கு இப்போதுதான் திருமணம் ஆனது, மிகவும் மகிழ்ச்சியாக இருப்பது போல் தெரிகிறது.", "en": "My older brother just got married and looks very happy." },
+        { "ja": "日本語の勉強は始めたばかりですか。", "reading": "にほんごの べんきょうは はじめた ばかりですか。", "romaji": "nihongo no benkyou wa hajimeta bakari desu ka.", "ta": "ஜப்பானிய மொழிப் படிப்பை இப்போதுதான் தொடங்கினீர்களா?", "en": "Have you only just started studying Japanese?" }
+      ],
+      "pitfalls_en": "Do not mix it up with dictionary form + ばかり. For this meaning ばかり always comes after the た-form. Also, ばかり after a noun means \"only\". That is a different use.",
+      "pitfalls_ta": "இந்தப் பொருளில் ばかり எப்போதும் た-வடிவத்திற்குப் பின்னே வரும்; 来るばかり என்று சொல்லக்கூடாது. பெயர்ச்சொல்லுக்குப் பின் வரும் ばかり 'மட்டுமே' என்ற வேறு பொருள் தரும்."
+    },
+    {
+      "id": "g21-5",
+      "pattern": "V-ます stem 始めます / 出します",
+      "name": { "en": "Start doing / suddenly start doing", "ta": "செய்யத் தொடங்கு / திடீரென்று தொடங்கு" },
+      "explanation_en": "Take the ます-form and drop ます. This is the stem: 読みます → 読み. Add 始めます to say \"start doing\": 読み始めます. Add 出します to say \"suddenly start\": 泣き出します (burst into tears). 出す shows surprise. You cannot plan it. So do not use 出す with ましょう or てください. Use 始める for plans.",
+      "explanation_ta": "ます-வடிவத்திலிருந்து ます-ஐ நீக்கினால் 'stem' (அடிப்பகுதி) கிடைக்கும்: 読みます → 読み. அதனுடன் 始めます சேர்த்தால் 'படிக்கத் தொடங்குகிறேன்' (読み始めます). 出します சேர்த்தால் 'திடீரென்று தொடங்கு' (泣き出します = திடீரென்று அழத் தொடங்கு). 出す எதிர்பாராத, கட்டுப்படுத்த முடியாத தொடக்கத்தைக் காட்டும்; எனவே ましょう, てください ஆகியவற்றுடன் 出す வராது. திட்டமிட்ட தொடக்கத்துக்கு 始める மட்டுமே. தமிழில் 'படிக்கத் தொடங்கு', 'அழ ஆரம்பித்துவிட்டான்' போன்றது.",
+      "tamil_parallel": "読み始めます = படிக்கத் தொடங்குகிறேன்; 泣き出しました = திடீரென்று அழ ஆரம்பித்தான்.",
+      "tamil_parallel_en": "読み始めます = \"I start reading\" (படிக்கத் தொடங்குகிறேன்). 泣き出しました = \"burst into tears\" (திடீரென்று அழ ஆரம்பித்தான்).",
+      "formation": "ます-stem + はじめます\nよみます → よみはじめます\nならいます → ならいはじめます\nます-stem + だします (திடீரென்று)\nなきます → なきだします\nふります → ふりだします",
+      "formation_en": "ます-stem + はじめます\nよみます → よみはじめます\nならいます → ならいはじめます\nます-stem + だします (suddenly)\nなきます → なきだします\nふります → ふりだします",
+      "examples": [
+        { "ja": "去年からピアノを習い始めました。", "reading": "きょねんから ピアノを ならいはじめました。", "romaji": "kyonen kara piano o naraihajimemashita.", "ta": "கடந்த ஆண்டிலிருந்து பியானோ கற்கத் தொடங்கினேன்.", "en": "I started learning the piano last year." },
+        { "ja": "この本は先週読み始めましたが、まだ半分です。", "reading": "この ほんは せんしゅう よみはじめましたが、まだ はんぶんです。", "romaji": "kono hon wa senshuu yomihajimemashita ga, mada hanbun desu.", "ta": "இந்தப் புத்தகத்தைப் போன வாரம் படிக்கத் தொடங்கினேன், ஆனால் இன்னும் பாதிதான்.", "en": "I started reading this book last week, but I'm only halfway." },
+        { "ja": "赤ちゃんが急に泣き出しました。", "reading": "あかちゃんが きゅうに なきだしました。", "romaji": "akachan ga kyuu ni nakidashimashita.", "ta": "குழந்தை திடீரென்று அழத் தொடங்கியது.", "en": "The baby suddenly burst into tears." },
+        { "ja": "先生の話を聞いて、みんなが笑い出しました。", "reading": "せんせいの はなしを きいて、みんなが わらいだしました。", "romaji": "sensei no hanashi o kiite, minna ga waraidashimashita.", "ta": "ஆசிரியர் சொன்னதைக் கேட்டு எல்லோரும் திடீரென்று சிரிக்கத் தொடங்கினார்கள்.", "en": "Hearing the teacher's story, everyone burst out laughing." },
+        { "ja": "何歳から日本語を勉強し始めましたか。", "reading": "なんさいから にほんごを べんきょうしはじめましたか。", "romaji": "nansai kara nihongo o benkyoushihajimemashita ka.", "ta": "எந்த வயதிலிருந்து ஜப்பானிய மொழி படிக்கத் தொடங்கினீர்கள்?", "en": "At what age did you start studying Japanese?" },
+        { "ja": "雨が降り出しましたから、早く帰りましょう。", "reading": "あめが ふりだしましたから、はやく かえりましょう。", "romaji": "ame ga furidashimashita kara, hayaku kaerimashou.", "ta": "மழை பெய்யத் தொடங்கிவிட்டது, சீக்கிரம் வீட்டுக்குப் போவோம்.", "en": "It has started to rain, so let's go home quickly." }
+      ],
+      "pitfalls_en": "Do not say 読み出しましょう. 出す is for sudden things you did not plan. For \"let's start\", say 読み始めましょう.",
+      "pitfalls_ta": "読み出しましょう என்று சொல்லக்கூடாது; 出す திட்டமிடாத, திடீர் தொடக்கத்துக்கு மட்டும். 'தொடங்குவோம்' என்பதற்கு 読み始めましょう."
+    },
+    {
+      "id": "g21-6",
+      "pattern": "V-ます stem 終わります / 続けます",
+      "name": { "en": "Finish doing / keep on doing", "ta": "செய்து முடி / தொடர்ந்து செய்" },
+      "explanation_en": "Stem + 終わります means \"finish doing\": 書き終わります (finish writing). Stem + 続けます means \"keep on doing\": 歩き続けます (keep walking). Both are very common at school: 読み終わる, 書き終わる, 勉強し続ける. Use 続ける even for things like rain: 雨が降り続けています.",
+      "explanation_ta": "stem + 終わります என்றால் 'செய்து முடி': 書き終わります = எழுதி முடிக்கிறேன். stem + 続けます என்றால் 'தொடர்ந்து செய்': 歩き続けます = தொடர்ந்து நடக்கிறேன். பள்ளியில் 読み終わる, 書き終わる, 勉強し続ける என்று அடிக்கடி வரும். மழை போன்றவற்றுக்கும் 続ける பயன்படும்: 雨が降り続けています = மழை தொடர்ந்து பெய்கிறது. தமிழில் '-முடி', 'தொடர்ந்து-' சேர்ப்பது போலவே.",
+      "tamil_parallel": "書き終わりました = எழுதி முடித்தேன்; 歩き続けました = தொடர்ந்து நடந்தேன்.",
+      "tamil_parallel_en": "書き終わりました = \"I finished writing\" (எழுதி முடித்தேன்). 歩き続けました = \"I kept walking\" (தொடர்ந்து நடந்தேன்).",
+      "formation": "ます-stem + おわります\nかきます → かきおわります\nたべます → たべおわります\nます-stem + つづけます\nあるきます → あるきつづけます\nふります → ふりつづけます",
+      "formation_en": "ます-stem + おわります\nかきます → かきおわります\nたべます → たべおわります\nます-stem + つづけます\nあるきます → あるきつづけます\nふります → ふりつづけます",
+      "examples": [
+        { "ja": "やっとレポートを書き終わりました。", "reading": "やっと レポートを かきおわりました。", "romaji": "yatto repooto o kakiowarimashita.", "ta": "ஒருவழியாக அறிக்கையை எழுதி முடித்தேன்.", "en": "I finally finished writing the report." },
+        { "ja": "その本を読み終わったら、貸してください。", "reading": "その ほんを よみおわったら、かして ください。", "romaji": "sono hon o yomiowattara, kashite kudasai.", "ta": "அந்தப் புத்தகத்தைப் படித்து முடித்ததும் எனக்குக் கொடுங்கள்.", "en": "When you finish reading that book, please lend it to me." },
+        { "ja": "ご飯を食べ終わってから、テレビを見ます。", "reading": "ごはんを たべおわって から、テレビを みます。", "romaji": "gohan o tabeowatte kara, terebi o mimasu.", "ta": "சாப்பிட்டு முடித்த பிறகு டிவி பார்க்கிறேன்.", "en": "After I finish eating, I watch TV." },
+        { "ja": "雨が三日間降り続けています。", "reading": "あめが みっかかん ふりつづけて います。", "romaji": "ame ga mikkakan furitsuzukete imasu.", "ta": "மழை மூன்று நாட்களாகத் தொடர்ந்து பெய்துகொண்டிருக்கிறது.", "en": "It has kept raining for three days." },
+        { "ja": "この薬を一か月飲み続けてください。", "reading": "この くすりを いっかげつ のみつづけて ください。", "romaji": "kono kusuri o ikkagetsu nomitsuzukete kudasai.", "ta": "இந்த மருந்தை ஒரு மாதம் தொடர்ந்து சாப்பிடுங்கள்.", "en": "Please keep taking this medicine for a month." },
+        { "ja": "もうテキストを読み終わりましたか。", "reading": "もう テキストを よみおわりましたか。", "romaji": "mou tekisuto o yomiowarimashita ka.", "ta": "பாடநூலை ஏற்கனவே படித்து முடித்துவிட்டீர்களா?", "en": "Have you finished reading the textbook already?" }
+      ],
+      "pitfalls_en": "Do not use the て-form here. 書いて終わります is wrong; say 書き終わります. Also, 続く is \"it continues\" and 続ける is \"keep doing\". After a stem, always use 続ける.",
+      "pitfalls_ta": "இங்கே て-வடிவம் வராது: 書いて終わります தவறு, 書き終わります சரி. 続く (தானாகத் தொடர்வது), 続ける (தொடர்ந்து செய்வது); stem-க்குப் பின் எப்போதும் 続ける."
+    }
+  ],
+  "vocab_ids": ["n4-v-006", "n4-v-018", "n4-v-036", "n4-v-139", "n4-v-166", "n4-v-207", "n4-v-215", "n4-v-249", "n4-v-251", "n4-v-278", "n4-v-281", "n4-v-301", "n4-v-365", "n4-v-381", "n4-v-413", "n4-v-419", "n4-v-460", "n4-v-476", "n4-v-485", "n4-v-515", "n4-v-529", "n4-v-535", "n4-v-553", "n4-v-602", "n4-v-607", "n4-v-608", "n4-v-610"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L21-q01", "type": "kanji_reading", "sentence": "毎晩、授業の ＿復習＿を します。", "target": "復習", "options": ["ふくしゅ", "ふくしゅう", "ふくしょう", "ぶくしゅう"], "answer": 1, "explanation_ta": "復習 = ふくしゅう (மீள்பார்வை). கடைசியில் நீண்ட 'う' வேண்டும்; ふくしゅ என்பது குறுகிய தவறு.", "explanation_en": "復習 = ふくしゅう (மீள்பார்வை, review). It ends with a long う. ふくしゅ is too short." },
+      { "id": "L21-q02", "type": "kanji_reading", "sentence": "＿昼休み＿に 友だちと 話しました。", "target": "昼休み", "options": ["ひるやすみ", "ちゅうやすみ", "ひるやずみ", "ひるよすみ"], "answer": 0, "explanation_ta": "昼休み = ひるやすみ (மதிய இடைவேளை). 昼 இங்கே ひる; ちゅう என்ற வாசிப்பு 昼食 போன்ற சொற்களில் மட்டும். や-வுக்கு dakuten இல்லை.", "explanation_en": "昼休み = ひるやすみ (மதிய இடைவேளை, lunch break). Here 昼 is ひる. ちゅう is used in other words like 昼食. やすみ has no dakuten." },
+      { "id": "L21-q03", "type": "kanji_reading", "sentence": "＿最初＿は 日本語が ぜんぜん わかりませんでした。", "target": "最初", "options": ["さいご", "さいしょう", "さいしょ", "さいはつ"], "answer": 2, "explanation_ta": "最初 = さいしょ (ஆரம்பம்). さいご என்பது 最後 (கடைசி), எதிர்ப்பொருள். しょ குறுகியது; さいしょう தவறு.", "explanation_en": "最初 = さいしょ (ஆரம்பம், the beginning). さいご is 最後 (the end), the opposite. しょ is short, so さいしょう is wrong." },
+      { "id": "L21-q04", "type": "orthography", "sentence": "走ったので、授業に ＿まにあいました＿。", "target": "まにあいました", "options": ["前に合いました", "間に会いました", "前に会いました", "間に合いました"], "answer": 3, "explanation_ta": "まにあう = 間に合う (நேரத்துக்குச் சேர). 間 (இடைவெளி) + 合う (பொருந்து). 会う என்பது மனிதரைச் சந்திப்பது; இங்கே பொருந்தாது.", "explanation_en": "まにあう = 間に合う (நேரத்துக்குச் சேர, be in time). It is 間 (space) + 合う (fit). 会う is \"meet a person\", so it is wrong here." },
+      { "id": "L21-q05", "type": "orthography", "sentence": "電車に おくれますから、＿いそいで＿ ください。", "target": "いそいで", "options": ["急いで", "忙いで", "息いで", "速いで"], "answer": 0, "explanation_ta": "いそぐ = 急ぐ (விரைய). 忙 என்பது 忙しい (பரபரப்பான) என்பதில் வரும்; தோற்றம் ஒத்தாலும் வேறு கான்ஜி.", "explanation_en": "いそぐ = 急ぐ (விரைய, hurry). 忙 is the kanji in 忙しい (busy). It looks similar, but it is a different kanji." },
+      { "id": "L21-q06", "type": "vocab_context", "sentence": "三時間 がんばって、（　　）宿題が 終わりました。", "options": ["さっき", "やっと", "もうすぐ", "そろそろ"], "answer": 1, "explanation_ta": "நீண்ட முயற்சிக்குப் பிறகு நிம்மதியாக முடிந்தது → やっと (ஒருவழியாக). さっき 'சற்று முன்', もうすぐ 'விரைவில்' (எதிர்காலம்), கடந்த கால முடிவுக்குப் பொருந்தாது.", "explanation_en": "After a long effort it is done, with relief → やっと (ஒருவழியாக, at last). さっき means \"a moment ago\". もうすぐ means \"soon\", for the future." },
+      { "id": "L21-q07", "type": "vocab_context", "sentence": "もう 十時ですね。（　　）帰りましょう。", "options": ["とうとう", "さっき", "すっかり", "そろそろ"], "answer": 3, "explanation_ta": "'நேரமாகிவிட்டது, இனி கிளம்புவோம்' → そろそろ. とうとう கடந்த கால முடிவுக்கு (கடைசியில் நடந்தது); ましょう உடன் வராது.", "explanation_en": "\"It's getting late, let's go home now\" → そろそろ (இனி, it's about time). とうとう is for a past result (\"in the end it happened\"). It does not go with ましょう." },
+      { "id": "L21-q08", "type": "vocab_context", "sentence": "授業の 前に テキストを 読んで、（　　）を して おきます。", "options": ["復習", "最後", "終わり", "予習"], "answer": 3, "explanation_ta": "வகுப்புக்கு முன்பே படிப்பது → 予習 (முன்தயாரிப்பு). 復習 வகுப்புக்குப் பின் திரும்பப் படிப்பது; 授業の前に உடன் பொருந்தாது.", "explanation_en": "Reading before class → 予習 (முன்தயாரிப்பு, preview). 復習 is review after class. It does not fit 授業の前に (before class)." },
+      { "id": "L21-q09", "type": "vocab_context", "sentence": "まちがえた 字を （　　）で 消しました。", "options": ["テキスト", "消しゴム", "ノート", "えんぴつ"], "answer": 1, "explanation_ta": "தவறான எழுத்தை அழிப்பது → 消しゴム (அழிப்பான்). えんぴつ (பென்சில்) எழுதுவதற்கு, அழிப்பதற்கு அல்ல.", "explanation_en": "You rub out a wrong letter with 消しゴム (அழிப்பான், eraser). えんぴつ (pencil) is for writing, not erasing." },
+      { "id": "L21-q10", "type": "vocab_context", "sentence": "暑い 日が 一か月も （　　）います。", "options": ["続いて", "続けて", "始めて", "進んで"], "answer": 0, "explanation_ta": "暑い日が என்று が வருவதால் 'தானாகத் தொடர்வது' → 続いて (続く). 続ける ஒருவர் ஒன்றைத் தொடர்ந்து செய்வது; அதற்கு を வேண்டும்.", "explanation_en": "暑い日が uses が, so the thing goes on by itself → 続いて (from 続く, தொடர). 続ける means someone keeps doing something. It needs を." },
+      { "id": "L21-q11", "type": "paraphrase", "sentence": "さっき 家に 帰った ところです。", "options": ["これから 家に 帰ります。", "今 家へ 帰る ところです。", "少し 前に 家に 帰りました。", "まだ 家に 帰って いません。"], "answer": 2, "explanation_ta": "帰ったところ = இப்போதுதான் வந்தேன் = 少し前に帰りました. 帰るところ (இதோ போகப் போகிறேன்) வேறு; அது இன்னும் நடக்கவில்லை.", "explanation_en": "帰ったところ = \"I just got home\" = 少し前に帰りました (சற்று முன் வந்தேன்). 帰るところ means \"about to go home\". That has not happened yet." },
+      { "id": "L21-q12", "type": "paraphrase", "sentence": "宿題は もう 済みました。", "options": ["宿題は まだ 始めて いません。", "宿題は 今 して いる ところです。", "宿題は これから します。", "宿題は もう 終わりました。"], "answer": 3, "explanation_ta": "済む = முடிவது. 宿題はもう済みました = வீட்டுப்பாடம் ஏற்கனவே முடிந்தது = もう終わりました. しているところ என்றால் இன்னும் நடுவில்.", "explanation_en": "済む (முடிய) = to be finished. So 済みました = 終わりました (finished). しているところ means it is still going on." },
+      { "id": "L21-q13", "type": "usage", "sentence": "すっかり", "options": ["雨が すっかり 降りだしました。", "約束を すっかり 忘れて いました。", "すっかり 駅まで 歩きましょう。", "この 店は すっかり 安いです。"], "answer": 1, "explanation_ta": "すっかり = முழுவதுமாக; ஒரு மாற்றம் முழுமையாக நடந்ததைக் காட்டும் (忘れる, 変わる, 治る). 安い போன்ற சாதாரண விவரணைக்கு とても தான்.", "explanation_en": "すっかり (முழுவதுமாக) = completely. It shows a full change: forget, change, get well. For simple description like 安い, use とても." },
+      { "id": "L21-q14", "type": "usage", "sentence": "間に合う", "options": ["駅で 友だちに 間に合いました。", "この 服は 私に よく 間に合います。", "急いだので、最後の バスに 間に合いました。", "毎日 三時間 日本語に 間に合います。"], "answer": 2, "explanation_ta": "間に合う = குறித்த நேரத்துக்குள் சேர்வது; バスに間に合う சரி. நண்பரைச் சந்திப்பது 会う; உடை பொருந்துவது 似合う.", "explanation_en": "間に合う (நேரத்துக்குச் சேர) = be in time, so バスに間に合う is right. Meeting a friend is 会う. Clothes that suit you is 似合う." },
+      { "id": "L21-q15", "type": "grammar_form", "sentence": "今、ご飯を 食べて いる （　　）ですから、あとで 電話します。", "options": ["ところ", "ばかり", "ため", "はず"], "answer": 0, "explanation_ta": "ている + ところです = இப்போது நடுவில் இருக்கிறேன். ばかり た-வடிவத்திற்குப் பின் தான் வரும்; ているばかり இந்தப் பொருளில் தவறு.", "explanation_en": "ている + ところです = \"in the middle of it now\". ばかり (just did) comes after the た-form, so ているばかり is wrong here." },
+      { "id": "L21-q16", "type": "grammar_form", "sentence": "すみません、今から 家を （　　）ところです。少し 待って ください。", "options": ["出た", "出て いる", "出る", "出ない"], "answer": 2, "explanation_ta": "今から (இப்போதிலிருந்து) → இன்னும் கிளம்பவில்லை, இதோ கிளம்பப் போகிறேன் → அகராதி வடிவம் 出るところ. 出たところ என்றால் ஏற்கனவே கிளம்பிவிட்டேன்.", "explanation_en": "今から (from now) shows it has not happened yet → dictionary form 出るところ (about to leave). 出たところ means \"I have just left\"." },
+      { "id": "L21-q17", "type": "grammar_form", "sentence": "「もう 昼ご飯を 食べましたか。」「はい、今 （　　）ところです。」", "options": ["食べる", "食べた", "食べて いる", "食べ"], "answer": 1, "explanation_ta": "'ஆமாம்' என்று முடிந்ததைச் சொல்வதால் → た-வடிவம் 食べたところ (இப்போதுதான் சாப்பிட்டேன்). 食べるところ என்றால் இன்னும் சாப்பிடவில்லை.", "explanation_en": "\"Yes\" means it is done → た-form 食べたところ (I've just eaten). 食べるところ means you have not eaten yet." },
+      { "id": "L21-q18", "type": "grammar_form", "sentence": "この パソコンは 先週 （　　）なのに、もう 壊れて しまいました。", "options": ["買う ところ", "買って いる ところ", "買う ばかり", "買った ばかり"], "answer": 3, "explanation_ta": "போன வாரம் வாங்கியது, ஆனாலும் பேசுபவருக்கு 'இப்போதுதான்' என்று தோன்றுகிறது → 買ったばかり. 先週 என்பது たところ-க்கு மிக நீண்ட நேரம்; 買うところ எதிர்காலம்.", "explanation_en": "Last week feels \"just now\" to the speaker → 買ったばかり (இப்போதுதான் வாங்கியது). 先週 is too long for たところ. 買うところ is the future." },
+      { "id": "L21-q19", "type": "grammar_form", "sentence": "先生の 話を 聞いて、急に みんなが 笑い（　　）。", "options": ["出しました", "続けました", "終わりました", "済みました"], "answer": 0, "explanation_ta": "急に (திடீரென்று) → திடீர்த் தொடக்கம் → 笑い出しました. 続けました (தொடர்ந்து செய்தார்கள்) 急に உடன் பொருந்தாது.", "explanation_en": "急に (suddenly) → a sudden start → 笑い出しました (burst out laughing). 続けました (kept on) does not fit 急に." },
+      { "id": "L21-q20", "type": "grammar_form", "sentence": "二時間 （　　）続けて、足が 痛く なりました。", "options": ["歩く", "歩いて", "歩き", "歩いた"], "answer": 2, "explanation_ta": "続ける ます-stem உடன் சேரும்: 歩きます → 歩き + 続ける. て-வடிவம் (歩いて) இங்கே வராது.", "explanation_en": "続ける joins the ます-stem: 歩きます → 歩き + 続ける. The て-form (歩いて) is wrong here." },
+      { "id": "L21-q21", "type": "grammar_form", "sentence": "その 本を 読み（　　）たら、私に 貸して ください。", "options": ["始め", "続け", "出し", "終わっ"], "answer": 3, "explanation_ta": "'படித்து முடித்ததும் கொடு' → 読み終わったら. 読み始めたら என்றால் 'படிக்கத் தொடங்கியதும்'; அப்போது புத்தகம் கொடுக்க முடியாது.", "explanation_en": "\"When you finish reading, lend it to me\" → 読み終わったら. 読み始めたら means \"when you start reading\". That makes no sense here." },
+      { "id": "L21-q22", "type": "sentence_order", "before": "今、", "chunks": ["テキストを", "読んで", "いる", "ところ"], "star": 1, "after": "です。", "explanation_ta": "テキストを (பாடநூலை) → 読んで → いる → ところです = இப்போது பாடநூலைப் படித்துக்கொண்டிருக்கிறேன்.", "explanation_en": "テキストを (the textbook) → 読んで → いる → ところです = \"I'm reading the textbook right now.\"" },
+      { "id": "L21-q23", "type": "sentence_order", "before": "日本に", "chunks": ["来た", "ばかり", "なので", "まだ"], "star": 2, "after": "友だちが いません。", "explanation_ta": "来た → ばかり → なので (காரணம்) → まだ (இன்னும்) 友だちがいません = இப்போதுதான் வந்ததால் இன்னும் நண்பர்கள் இல்லை.", "explanation_en": "来た → ばかり → なので (so) → まだ (still) 友だちがいません = \"I've only just come, so I have no friends yet.\"" },
+      { "id": "L21-q24", "type": "sentence_order", "before": "学校を 出た とき、", "chunks": ["雨が", "急に", "降り", "出した"], "star": 2, "after": "ので、走りました。", "explanation_ta": "雨が → 急に (திடீரென்று) → 降り → 出した: stem 降り + 出す சேர்ந்து 'பெய்யத் தொடங்கியது'.", "explanation_en": "雨が → 急に (suddenly) → 降り → 出した. The stem 降り joins 出す: \"it started to rain\"." },
+      { "id": "L21-q25", "type": "passage_cloze", "passage": "きのうは いそがしい 一日でした。朝、学校へ 行く とき、急に 雨が 降り［1］ので、バス停まで 走りました。でも、バスは なかなか 来ませんでした。寒い 中で 二十分も 待ち［2］、授業には やっと 間に合いました。夜は 九時から レポートを 書いて、十一時に とうとう 書き［3］。", "blanks": [
+        { "options": ["終わった", "出した", "続けた", "済んだ"], "answer": 1 },
+        { "options": ["始めて", "出して", "続けて", "終わって"], "answer": 2 },
+        { "options": ["始めました", "出しました", "続けました", "終わりました"], "answer": 3 }
+      ], "explanation_ta": "［1］ 急に இருப்பதால் திடீர்த் தொடக்கம் → 降り出した. ［2］ இருபது நிமிடம் நிறுத்தாமல் காத்திருந்தது → 待ち続けて. ［3］ とうとう (கடைசியில்) எழுதி முடித்தது → 書き終わりました.", "explanation_en": "[1] 急に (suddenly) → a sudden start → 降り出した. [2] Waiting for twenty minutes without stopping → 待ち続けて (kept waiting). [3] とうとう (in the end) the writing was done → 書き終わりました (finished writing)." }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "lesson": 2,
+  "title": { "ja": "日本語が話せます", "ta": "ஜப்பானிய மொழி பேச முடியும்", "en": "I can speak Japanese" },
+  "intro_ta": "இந்தப் பாடத்தில் 'முடியும்' என்று சொல்லும் ஆற்றல் வடிவத்தை (potential form) எல்லா வினைக் குழுக்களுக்கும் உருவாக்கக் கற்போம்: 話せます, 食べられます, 来られます, できます. பொழுதுபோக்குகள், மொழிகள், இசை, நடனம் பற்றி உங்களால் என்ன செய்ய முடியும் என்று சொல்லப் பழகுவோம். கூடவே 見えます / 聞こえます (தானாகத் தெரிவது, கேட்பது), 'தயாராவது, உருவாவது' என்ற பொருளில் できます, 'மட்டுமே' என்ற 〜しか〜ない, ஒப்பிட்டுச் சொல்லும் は ஆகியவற்றையும் கற்போம்.",
+  "intro_en": "In this lesson you will learn the \"can do\" form (potential form) for every verb group: 話せます, 食べられます, 来られます, できます. You will talk about what you can do: hobbies, languages, music and dance. You will also learn 見えます and 聞こえます (you can see / hear something). You will learn できます meaning \"is built, is ready\". You will learn 〜しか〜ない (only), and は for comparing two things.",
+  "grammar": [
+    {
+      "id": "g02-1",
+      "pattern": "Potential form (V-える / V-られる / 来られる / できる)",
+      "name": { "en": "The \"can do\" form", "ta": "ஆற்றல் வடிவம் (முடியும்)" },
+      "explanation_ta": "தமிழில் 'பேசு' என்பதை 'பேச முடியும்' என்று மாற்றுவது போல, ஜப்பானிய வினைச்சொல்லையே மாற்றி 'முடியும்' என்ற பொருளைத் தரலாம். குழு I: கடைசி う-ஒலியை え-ஒலியாக மாற்றி る சேர்க்கவும் (書く → 書ける, 話す → 話せる, 買う → 買える). குழு II: る-வை எடுத்து られる சேர்க்கவும் (食べる → 食べられる, 見る → 見られる). குழு III: 来る → 来られる (こられる), する → できる. இப்படி உருவான ஆற்றல் வினைகள் எல்லாம் குழு II போல மாறும்: 書けます, 書けない, 書けた. N5-இல் கற்ற 'V-dictionary + ことができます' என்பதற்கும் இதற்கும் ஒரே பொருள்; ஆனால் பேச்சில் இந்தச் சுருக்கமான வடிவமே அதிகம் பயன்படும்.",
+      "explanation_en": "In Tamil you change பேசு (speak) into பேச முடியும் (can speak). In Japanese you change the verb itself. Group I: change the last う-sound to an え-sound and add る (書く → 書ける, 話す → 話せる, 買う → 買える). Group II: drop る and add られる (食べる → 食べられる, 見る → 見られる). Group III: 来る → 来られる (こられる), する → できる. The new verbs all change like Group II: 書けます, 書けない, 書けた. It means the same as N5 \"dictionary form + ことができます\". But in speech this short form is much more common.",
+      "tamil_parallel": "எழுது → எழுத முடியும் = 書く → 書ける; சாப்பிடு → சாப்பிட முடியும் = 食べる → 食べられる",
+      "tamil_parallel_en": "\"write\" → \"can write\" (எழுது → எழுத முடியும்) = 書く → 書ける; \"eat\" → \"can eat\" (சாப்பிடு → சாப்பிட முடியும்) = 食べる → 食べられる.",
+      "formation": "குழு I: う-ஒலி → え-ஒலி + る\n   書く → 書ける、話す → 話せる、読む → 読める、買う → 買える、待つ → 待てる\nகுழு II: る → られる\n   食べる → 食べられる、見る → 見られる、起きる → 起きられる\nகுழு III: 来る → 来られる (こられる)、する → できる\nமாற்றம் (குழு II போல): 書けます・書けない・書けません・書けた",
+      "formation_en": "Group I: う-sound → え-sound + る\n   書く → 書ける、話す → 話せる、読む → 読める、買う → 買える、待つ → 待てる\nGroup II: る → られる\n   食べる → 食べられる、見る → 見られる、起きる → 起きられる\nGroup III: 来る → 来られる (こられる)、する → できる\nThey change like Group II: 書けます・書けない・書けません・書けた",
+      "examples": [
+        { "ja": "辛い 料理が 食べられますか。", "reading": "からい りょうりが たべられますか。", "romaji": "karai ryouri ga taberaremasu ka.", "ta": "காரமான உணவு சாப்பிட முடியுமா?", "en": "Can you eat spicy food?" },
+        { "ja": "明日の パーティーに 来られますか。", "reading": "あしたの パーティーに こられますか。", "romaji": "ashita no paatii ni koraremasu ka.", "ta": "நாளை விருந்துக்கு வர முடியுமா?", "en": "Can you come to the party tomorrow?" },
+        { "ja": "父は 車の 運転が できます。", "reading": "ちちは くるまの うんてんが できます。", "romaji": "chichi wa kuruma no unten ga dekimasu.", "ta": "அப்பாவுக்குக் கார் ஓட்டத் தெரியும்.", "en": "My father can drive a car." },
+        { "ja": "昨日は 暑くて、よく 眠れませんでした。", "reading": "きのうは あつくて、よく ねむれませんでした。", "romaji": "kinou wa atsukute, yoku nemuremasen deshita.", "ta": "நேற்று வெப்பமாக இருந்ததால் சரியாகத் தூங்க முடியவில்லை.", "en": "It was hot yesterday, so I couldn't sleep well." },
+        { "ja": "この 店では カードで 払えます。", "reading": "この みせでは カードで はらえます。", "romaji": "kono mise de wa kaado de haraemasu.", "ta": "இந்தக் கடையில் கார்டு மூலம் பணம் செலுத்தலாம்.", "en": "You can pay by card at this shop." },
+        { "ja": "朝 五時に 起きられますか。", "reading": "あさ ごじに おきられますか。", "romaji": "asa goji ni okiraremasu ka.", "ta": "காலை ஐந்து மணிக்கு எழுந்திருக்க முடியுமா?", "en": "Can you get up at five in the morning?" }
+      ],
+      "pitfalls_ta": "来る-வின் ஆற்றல் வடிவம் 来られる (こられる); する-வின் ஆற்றல் வடிவம் できる ('しれる' இல்லை). பேச்சில் 'ら' விடப்பட்டு 来れる, 見れる என்று கேட்கலாம்; ஆனால் தேர்வில் 来られる, 見られる என்பதே சரி.",
+      "pitfalls_en": "The \"can\" form of 来る is 来られる (こられる). For する it is できる. In speech you may hear 来れる or 見れる without ら. But in the JLPT, 来られる and 見られる are correct."
+    },
+    {
+      "id": "g02-2",
+      "pattern": "N が V-potential",
+      "name": { "en": "が with \"can\" verbs", "ta": "ஆற்றல் வினையுடன் が" },
+      "explanation_ta": "சாதாரண வினையில் செயப்படுபொருள் を பெறும் (漢字を読みます). ஆனால் ஆற்றல் வடிவத்தில் அந்தப் பொருள் பொதுவாக が பெறும் (漢字が読めます). தமிழில் 'எனக்குக் கான்ஜி படிக்கத் தெரியும்' என்பதில் 'கான்ஜி' எழுவாய் போல நிற்பது போலவே இது. இந்த மாற்றம் を-க்கு மட்டுமே; に, で, へ போன்ற மற்ற துகள்கள் மாறாது: 自転車に乗れます. できます-உடனும் が: 運転ができます. செய்பவரை は கொண்டு குறிக்கலாம்: 私は日本語が話せます.",
+      "explanation_en": "With a normal verb, the object takes を: 漢字を読みます. With a \"can\" verb, the object usually takes が: 漢字が読めます. Tamil is similar: in \"எனக்குக் கான்ஜி படிக்கத் தெரியும்\" (I can read kanji), \"kanji\" stands like a subject. Only を changes. Other particles like に, で and へ stay: 自転車に乗れます. できます also takes が: 運転ができます. Mark the person with は: 私は日本語が話せます.",
+      "tamil_parallel": "எனக்குத் தமிழும் ஆங்கிலமும் பேசத் தெரியும் = 私はタミル語と英語が話せます",
+      "tamil_parallel_en": "\"I can speak Tamil and English\" (எனக்குத் தமிழும் ஆங்கிலமும் பேசத் தெரியும்) = 私はタミル語と英語が話せます.",
+      "formation": "(நபர் は) + பொருள் + が + ஆற்றல் வினை\n漢字を読みます → 漢字が読めます\nに / で / へ மாறாது: 自転車に乗れます",
+      "formation_en": "(Person は) + object + が + \"can\" verb\n漢字を読みます → 漢字が読めます\nに / で / へ do not change: 自転車に乗れます",
+      "examples": [
+        { "ja": "私は タミル語と 英語が 話せます。", "reading": "わたしは タミルごと えいごが はなせます。", "romaji": "watashi wa tamirugo to eigo ga hanasemasu.", "ta": "எனக்குத் தமிழும் ஆங்கிலமும் பேசத் தெரியும்.", "en": "I can speak Tamil and English." },
+        { "ja": "ラジャさんは ピアノが 弾けます。", "reading": "ラジャさんは ピアノが ひけます。", "romaji": "raja-san wa piano ga hikemasu.", "ta": "ராஜாவுக்குப் பியானோ வாசிக்கத் தெரியும்.", "en": "Raja can play the piano." },
+        { "ja": "この 漢字が 読めますか。", "reading": "この かんじが よめますか。", "romaji": "kono kanji ga yomemasu ka.", "ta": "இந்தக் கான்ஜியைப் படிக்க முடியுமா?", "en": "Can you read this kanji?" },
+        { "ja": "一人で 着物が 着られません。", "reading": "ひとりで きものが きられません。", "romaji": "hitori de kimono ga kiraremasen.", "ta": "தனியாகக் கிமோனோ அணிய முடியாது.", "en": "I can't put on a kimono by myself." },
+        { "ja": "弟は まだ 自転車に 乗れません。", "reading": "おとうとは まだ じてんしゃに のれません。", "romaji": "otouto wa mada jitensha ni noremasen.", "ta": "என் தம்பிக்கு இன்னும் சைக்கிள் ஓட்டத் தெரியாது.", "en": "My younger brother can't ride a bike yet." }
+      ],
+      "pitfalls_ta": "'自転車が乗れます' என்று に-வையும் が ஆக மாற்றுவது தவறு; を மட்டுமே が ஆகும். மேலும் 'を' வைத்துச் சொன்னாலும் (日本語を話せます) பேச்சில் கேட்கலாம்; ஆனால் தேர்வில் が தான் எதிர்பார்க்கப்படும்.",
+      "pitfalls_en": "Do not change に to が: 自転車が乗れます is wrong. Only を becomes が. You may hear 日本語を話せます in speech. But the JLPT expects が."
+    },
+    {
+      "id": "g02-3",
+      "pattern": "見えます / 聞こえます",
+      "name": { "en": "Can see / can hear (by itself)", "ta": "見えます / 聞こえます: தானாகத் தெரிவது, கேட்பது" },
+      "explanation_ta": "見えます = கண்ணுக்குத் தானாகத் தெரிகிறது; 聞こえます = காதில் தானாக விழுகிறது. நாம் முயற்சி செய்யாமலேயே நடக்கும். தெரியும் / கேட்கும் பொருள் が பெறும்: 海が見えます, 音が聞こえます. இவற்றை 見られます / 聞けます என்பதிலிருந்து வேறுபடுத்துங்கள்: 見られます / 聞けます என்றால் 'பார்க்க / கேட்க வாய்ப்பு இருக்கிறது' (இணையத்தில் படம் பார்க்க முடியும்). தமிழில் 'கடல் தெரிகிறது', 'சத்தம் கேட்கிறது' என்பது போலவே.",
+      "explanation_en": "見えます means something comes into your eyes by itself. 聞こえます means a sound comes into your ears by itself. You don't try; it just happens. The thing seen or heard takes が: 海が見えます, 音が聞こえます. Compare 見られます / 聞けます. They mean you have the chance to see or hear something (like watching a film online). Tamil is the same: கடல் தெரிகிறது (the sea is visible), சத்தம் கேட்கிறது (a sound is heard).",
+      "tamil_parallel": "ஜன்னல் வழியே கடல் தெரிகிறது = 窓から海が見えます; பறவைச் சத்தம் கேட்கிறது = 鳥の声が聞こえます",
+      "tamil_parallel_en": "\"The sea is visible from the window\" (ஜன்னல் வழியே கடல் தெரிகிறது) = 窓から海が見えます. \"I can hear birds\" (பறவைச் சத்தம் கேட்கிறது) = 鳥の声が聞こえます.",
+      "formation": "N + が + 見えます (தானாகத் தெரிகிறது)\nN + が + 聞こえます (தானாகக் கேட்கிறது)\nஒப்பிடுக: N + が + 見られます / 聞けます (வாய்ப்பு உண்டு)",
+      "formation_en": "N + が + 見えます (you can see it, by itself)\nN + が + 聞こえます (you can hear it, by itself)\nCompare: N + が + 見られます / 聞けます (you have the chance)",
+      "examples": [
+        { "ja": "窓から 海が 見えます。", "reading": "まどから うみが みえます。", "romaji": "mado kara umi ga miemasu.", "ta": "ஜன்னல் வழியே கடல் தெரிகிறது.", "en": "You can see the sea from the window." },
+        { "ja": "鳥の 声が 聞こえますね。", "reading": "とりの こえが きこえますね。", "romaji": "tori no koe ga kikoemasu ne.", "ta": "பறவைகளின் குரல் கேட்கிறது, இல்லையா?", "en": "You can hear the birds, can't you?" },
+        { "ja": "後ろの 席から スクリーンが よく 見えません。", "reading": "うしろの せきから スクリーンが よく みえません。", "romaji": "ushiro no seki kara sukuriin ga yoku miemasen.", "ta": "பின் இருக்கையிலிருந்து திரை சரியாகத் தெரியவில்லை.", "en": "I can't see the screen well from the back seat." },
+        { "ja": "「私の 声が 聞こえますか。」「はい、よく 聞こえます。」", "reading": "「わたしの こえが きこえますか。」「はい、よく きこえます。」", "romaji": "\"watashi no koe ga kikoemasu ka.\" \"hai, yoku kikoemasu.\"", "ta": "\"என் குரல் கேட்கிறதா?\" \"ஆம், நன்றாகக் கேட்கிறது.\"", "en": "\"Can you hear me?\" \"Yes, clearly.\"" },
+        { "ja": "山では 夜 星が たくさん 見えます。", "reading": "やまでは よる ほしが たくさん みえます。", "romaji": "yama de wa yoru hoshi ga takusan miemasu.", "ta": "மலையில் இரவில் நிறைய நட்சத்திரங்கள் தெரியும்.", "en": "In the mountains you can see lots of stars at night." },
+        { "ja": "インターネットで 日本の ドラマが 見られます。", "reading": "インターネットで にほんの ドラマが みられます。", "romaji": "intaanetto de nihon no dorama ga miraremasu.", "ta": "இணையத்தில் ஜப்பானியத் தொடர்களைப் பார்க்க முடியும் (வாய்ப்பு உண்டு).", "en": "You can watch Japanese dramas online (you have the chance)." }
+      ],
+      "pitfalls_ta": "'音を聞こえます' என்பது தவறு; 聞こえる-க்கு を வராது, が தான். மேலும் 'நான் இசை கேட்கிறேன்' (முயன்று கேட்பது) என்றால் 音楽を聞きます; 聞こえます அல்ல.",
+      "pitfalls_en": "音を聞こえます is wrong. 聞こえる never takes を; use が. Also, when you listen on purpose (\"I listen to music\"), say 音楽を聞きます, not 聞こえます."
+    },
+    {
+      "id": "g02-4",
+      "pattern": "N が できます (be built / be ready)",
+      "name": { "en": "できます: is built / is ready", "ta": "できます: உருவாவது / தயாராவது" },
+      "explanation_ta": "できます என்பது 'முடியும்' என்பதோடு மட்டுமல்ல; 'உருவாகிறது, கட்டப்படுகிறது, தயாராகிறது, முடிகிறது, கிடைக்கிறது' என்ற பொருளிலும் வரும். புதிய கடை திறந்தால் 新しい店ができました; சாப்பாடு தயாரானால் ごはんができました; நண்பர்கள் கிடைத்தால் 友達ができました. உருவாகும் பொருள் が பெறும். யார் செய்தார்கள் என்பது முக்கியமில்லை; விளைவு மட்டுமே சொல்லப்படுகிறது. தமிழில் 'கடை வந்திருக்கிறது', 'சாப்பாடு ரெடி' என்பது போல.",
+      "explanation_en": "できます does not only mean \"can\". It also means \"is built, is made, is ready, is done, comes into being\". A new shop opens: 新しい店ができました. Dinner is ready: ごはんができました. You made friends: 友達ができました. The thing that appears takes が. Who made it is not important; only the result. In Tamil we say கடை வந்திருக்கிறது (a shop has come up) or சாப்பாடு ரெடி (food is ready).",
+      "tamil_parallel": "ஸ்டேஷன் முன் புதிய சூப்பர்மார்க்கெட் வந்திருக்கிறது = 駅の前に新しいスーパーができました",
+      "tamil_parallel_en": "\"A new supermarket has come up near the station\" (ஸ்டேஷன் முன் புதிய சூப்பர்மார்க்கெட் வந்திருக்கிறது) = 駅の前に新しいスーパーができました.",
+      "formation": "(இடம் に) + N + が + できます / できました\n新しいビルができました (கட்டப்பட்டது)\nごはんができました (தயார்)\n友達ができました (கிடைத்தார்கள்)",
+      "formation_en": "(Place に) + N + が + できます / できました\n新しいビルができました (was built)\nごはんができました (is ready)\n友達ができました (I made friends)",
+      "examples": [
+        { "ja": "駅の 前に 新しい スーパーが できました。", "reading": "えきの まえに あたらしい スーパーが できました。", "romaji": "eki no mae ni atarashii suupaa ga dekimashita.", "ta": "ஸ்டேஷன் முன் புதிய சூப்பர்மார்க்கெட் திறந்திருக்கிறது.", "en": "A new supermarket has opened in front of the station." },
+        { "ja": "「ごはんが できましたよ。」", "reading": "「ごはんが できましたよ。」", "romaji": "\"gohan ga dekimashita yo.\"", "ta": "\"சாப்பாடு தயார்!\"", "en": "\"Dinner is ready!\"" },
+        { "ja": "写真は いつ できますか。", "reading": "しゃしんは いつ できますか。", "romaji": "shashin wa itsu dekimasu ka.", "ta": "புகைப்படங்கள் எப்போது தயாராகும்?", "en": "When will the photos be ready?" },
+        { "ja": "日本に 来て、友達が たくさん できました。", "reading": "にほんに きて、ともだちが たくさん できました。", "romaji": "nihon ni kite, tomodachi ga takusan dekimashita.", "ta": "ஜப்பானுக்கு வந்து நிறைய நண்பர்கள் கிடைத்தார்கள்.", "en": "Since coming to Japan, I've made many friends." },
+        { "ja": "宿題は もう できましたか。", "reading": "しゅくだいは もう できましたか。", "romaji": "shukudai wa mou dekimashita ka.", "ta": "வீட்டுப்பாடம் முடிந்துவிட்டதா?", "en": "Is your homework done yet?" }
+      ],
+      "pitfalls_ta": "'スーパーを作りました' என்றால் யாரோ கட்டினார்கள் என்று செய்பவரை முன்னிறுத்துகிறது; வெறுமனே 'திறந்திருக்கிறது' என்று சொல்ல スーパーができました.",
+      "pitfalls_en": "スーパーを作りました focuses on the person who built it. To simply say \"a new one opened\", say スーパーができました."
+    },
+    {
+      "id": "g02-5",
+      "pattern": "N しか V-ない",
+      "name": { "en": "Only (with a negative verb)", "ta": "〜しか〜ない: மட்டுமே" },
+      "explanation_ta": "しか என்பது 'மட்டுமே' என்ற பொருள் தரும்; ஆனால் அதற்குப் பின் எப்போதும் எதிர்மறை வினை வர வேண்டும். நேரடிப் பொருள்: 'ஆயிரம் யென் தவிர வேறு எதுவும் இல்லை'. だけ என்பதும் 'மட்டும்' தான்; ஆனால் だけ நடுநிலையானது, しか 'போதவில்லை, குறைவு' என்ற வருத்த உணர்வைத் தரும். தமிழில் 'ஆயிரம் யென் தான் இருக்கு' என்று சொல்வது போல. しか வந்தால் が, を விடப்படும்; に, で போன்றவை இருக்கலாம் (日本でしか買えません).",
+      "explanation_en": "しか means \"only\". After it, the verb must always be negative. Word for word: \"nothing except 1,000 yen\". だけ also means \"only\". But だけ is neutral. しか adds the feeling \"not enough\". It is like Tamil ஆயிரம் யென் தான் இருக்கு (there's only 1,000 yen). When you use しか, drop が and を. に and で can stay: 日本でしか買えません.",
+      "tamil_parallel": "பர்ஸில் ஆயிரம் யென் தான் இருக்கு = 財布に千円しかありません",
+      "tamil_parallel_en": "\"There's only 1,000 yen in my wallet\" (பர்ஸில் ஆயிரம் யென் தான் இருக்கு) = 財布に千円しかありません.",
+      "formation": "N / அளவு + しか + எதிர்மறை வினை\n千円しかありません・ひらがなしか読めません\nஒப்பிடுக: 千円だけあります (நடுநிலை)",
+      "formation_en": "N / amount + しか + negative verb\n千円しかありません・ひらがなしか読めません\nCompare: 千円だけあります (neutral)",
+      "examples": [
+        { "ja": "財布に 千円しか ありません。", "reading": "さいふに せんえんしか ありません。", "romaji": "saifu ni sen'en shika arimasen.", "ta": "பர்ஸில் ஆயிரம் யென் மட்டுமே இருக்கிறது.", "en": "I only have 1,000 yen in my wallet." },
+        { "ja": "ひらがなしか 読めません。", "reading": "ひらがなしか よめません。", "romaji": "hiragana shika yomemasen.", "ta": "எனக்கு ஹிரகானா மட்டுமே படிக்கத் தெரியும்.", "en": "I can only read hiragana." },
+        { "ja": "昨日は 三時間しか 寝ませんでした。", "reading": "きのうは さんじかんしか ねませんでした。", "romaji": "kinou wa sanjikan shika nemasen deshita.", "ta": "நேற்று மூன்று மணி நேரம் மட்டுமே தூங்கினேன்.", "en": "I only slept three hours yesterday." },
+        { "ja": "教室に 学生が 二人しか いません。", "reading": "きょうしつに がくせいが ふたりしか いません。", "romaji": "kyoushitsu ni gakusei ga futari shika imasen.", "ta": "வகுப்பறையில் இரண்டு மாணவர்கள் மட்டுமே இருக்கிறார்கள்.", "en": "There are only two students in the classroom." },
+        { "ja": "この バスは 朝しか 来ません。", "reading": "この バスは あさしか きません。", "romaji": "kono basu wa asa shika kimasen.", "ta": "இந்தப் பஸ் காலையில் மட்டுமே வரும்.", "en": "This bus only comes in the morning." }
+      ],
+      "pitfalls_ta": "தமிழில் 'மட்டும் இருக்கிறது' என்று நேர்மறையாகச் சொல்வதால் 'しかあります' என்று சொல்லும் தவறு அதிகம். しか-க்குப் பின் எப்போதும் 〜ません / 〜ない.",
+      "pitfalls_en": "In Tamil, \"only\" goes with a positive verb. So learners often say しかあります. That is wrong. After しか, always use 〜ません or 〜ない."
+    },
+    {
+      "id": "g02-6",
+      "pattern": "N は (contrast)",
+      "name": { "en": "は for contrast", "ta": "ஒப்பிட்டுக் காட்டும் は" },
+      "explanation_ta": "は என்பது தலைப்பைக் குறிப்பது மட்டுமல்ல; இரண்டு விஷயங்களை ஒப்பிட்டு வேறுபாட்டைக் காட்டவும் பயன்படும்: 'ஹிரகானா என்றால் எழுத முடியும், கான்ஜி என்றால் முடியாது'. அப்போது が, を ஆகியவற்றுக்குப் பதிலாக は வரும்; に, で, へ, から ஆகியவற்றுக்குப் பின் は சேர்ந்து には, では, へは என்று ஆகும். தமிழில் 'ஹிரகானா-வா, எழுதுவேன்; கான்ஜி-யா, முடியாது' என்ற அழுத்தம் போல. ஒரு பகுதியை மட்டும் சொன்னாலும் (肉は食べます) 'மற்றவை அப்படி இல்லை' என்ற மறைமுகப் பொருள் தோன்றும்.",
+      "explanation_en": "は is not only for the topic. It also shows a contrast between two things: \"hiragana, I can write; kanji, I can't\". Then は replaces が and を. After に, で, へ and から, add は: には, では, へは. It is like stressing words in Tamil: ஹிரகானா-வா, எழுதுவேன்; கான்ஜி-யா, முடியாது. Even with only one half (肉は食べます), it hints that other things are different.",
+      "tamil_parallel": "ஹிரகானா எழுதுவேன், ஆனால் கான்ஜி-யை எழுத முடியாது = ひらがなは書けますが、漢字は書けません",
+      "tamil_parallel_en": "\"Hiragana I can write, but kanji I can't\" (ஹிரகானா எழுதுவேன், ஆனால் கான்ஜி-யை எழுத முடியாது) = ひらがなは書けますが、漢字は書けません.",
+      "formation": "N1 は 〜が、N2 は 〜\nが / を → は: ひらがなは書けます\nに・で・へ・から + は: 東京へは行きました",
+      "formation_en": "N1 は 〜が、N2 は 〜\nが / を → は: ひらがなは書けます\nに・で・へ・から + は: 東京へは行きました",
+      "examples": [
+        { "ja": "ひらがなは 書けますが、漢字は 書けません。", "reading": "ひらがなは かけますが、かんじは かけません。", "romaji": "hiragana wa kakemasu ga, kanji wa kakemasen.", "ta": "ஹிரகானா எழுத முடியும், ஆனால் கான்ஜி எழுத முடியாது.", "en": "I can write hiragana, but not kanji." },
+        { "ja": "肉は 食べますが、魚は 食べません。", "reading": "にくは たべますが、さかなは たべません。", "romaji": "niku wa tabemasu ga, sakana wa tabemasen.", "ta": "இறைச்சி சாப்பிடுவேன், ஆனால் மீன் சாப்பிட மாட்டேன்.", "en": "I eat meat, but I don't eat fish." },
+        { "ja": "平日は 忙しいですが、週末は 暇です。", "reading": "へいじつは いそがしいですが、しゅうまつは ひまです。", "romaji": "heijitsu wa isogashii desu ga, shuumatsu wa hima desu.", "ta": "வார நாட்களில் வேலை அதிகம், ஆனால் வார இறுதியில் ஓய்வாக இருப்பேன்.", "en": "I'm busy on weekdays, but free at weekends." },
+        { "ja": "「ビールを 飲みますか。」「ビールは 飲みませんが、ワインは 飲みます。」", "reading": "「ビールを のみますか。」「ビールは のみませんが、ワインは のみます。」", "romaji": "\"biiru o nomimasu ka.\" \"biiru wa nomimasen ga, wain wa nomimasu.\"", "ta": "\"பீர் குடிப்பீர்களா?\" \"பீர் குடிக்க மாட்டேன், ஆனால் ஒயின் குடிப்பேன்.\"", "en": "\"Do you drink beer?\" \"Not beer, but I drink wine.\"" },
+        { "ja": "東京へは 行きましたが、京都へは 行きませんでした。", "reading": "とうきょうへは いきましたが、きょうとへは いきませんでした。", "romaji": "toukyou e wa ikimashita ga, kyouto e wa ikimasen deshita.", "ta": "டோக்கியோவுக்குப் போனேன், ஆனால் கியோட்டோவுக்குப் போகவில்லை.", "en": "I went to Tokyo, but not to Kyoto." }
+      ],
+      "pitfalls_ta": "ஒப்பீட்டில் 'ひらがなが書けますが、漢字が書けません' என்று が வைத்தால் வேறுபாடு தெளிவாகத் தெரியாது; இரண்டு பக்கமும் は வைக்கவும். へ-வை அழிக்காமல் へは என்று சேர்க்கவும்.",
+      "pitfalls_en": "With が on both sides (ひらがなが書けますが、漢字が書けません), the contrast is not clear. Use は on both sides. Keep へ and add は: へは."
+    }
+  ],
+  "vocab_ids": ["n4-v-015", "n4-v-023", "n4-v-054", "n4-v-112", "n4-v-206", "n4-v-228", "n4-v-239", "n4-v-243", "n4-v-266", "n4-v-302", "n4-v-316", "n4-v-328", "n4-v-329", "n4-v-360", "n4-v-385", "n4-v-420", "n4-v-422", "n4-v-507", "n4-v-589", "n4-v-647", "n4-v-662", "n4-v-667"],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      { "id": "L02-q01", "type": "kanji_reading", "sentence": "日本語の ＿発音＿は むずかしいですか。", "target": "発音", "options": ["はつおん", "はっおん", "ほつおん", "はつね"], "answer": 0, "explanation_ta": "発音 = はつおん (உச்சரிப்பு). 発 = はつ, 音 = おん. はつね என்பது வேறு வாசிப்பு.", "explanation_en": "発音 = はつおん (உச்சரிப்பு, pronunciation). 発 = はつ and 音 = おん here." },
+      { "id": "L02-q02", "type": "kanji_reading", "sentence": "私の ＿趣味＿は 釣りです。", "target": "趣味", "options": ["しゅうみ", "しゅみ", "しゅあじ", "しゅうあじ"], "answer": 1, "explanation_ta": "趣味 = しゅみ (பொழுதுபோக்கு). நீட்டல் இல்லை; しゅうみ தவறு. 味 இங்கே み.", "explanation_en": "趣味 = しゅみ (பொழுதுபோக்கு, hobby). There is no long う, so しゅうみ is wrong. 味 is read み here." },
+      { "id": "L02-q03", "type": "kanji_reading", "sentence": "寝る 前に ＿小説＿を 読みます。", "target": "小説", "options": ["しょせつ", "こせつ", "しょうせつ", "しょうせい"], "answer": 2, "explanation_ta": "小説 = しょうせつ (நாவல்). 小 இங்கே しょう (நீட்டல் உண்டு); しょせつ தவறு.", "explanation_en": "小説 = しょうせつ (நாவல், novel). 小 is しょう here, with a long う. しょせつ is wrong." },
+      { "id": "L02-q04", "type": "orthography", "sentence": "日本語の ＿ぶんぽう＿を 勉強して います。", "target": "ぶんぽう", "options": ["文方", "分法", "文包", "文法"], "answer": 3, "explanation_ta": "ぶんぽう = 文法 (இலக்கணம்). 文 = வாக்கியம், 法 = விதி. 方 (திசை), 分 (பகுதி) தவறு.", "explanation_en": "ぶんぽう = 文法 (இலக்கணம், grammar). 文 = sentence, 法 = rule. 方 and 分 are wrong." },
+      { "id": "L02-q05", "type": "orthography", "sentence": "日本の 歴史に ＿きょうみ＿が あります。", "target": "きょうみ", "options": ["興味", "共味", "興未", "教味"], "answer": 0, "explanation_ta": "きょうみ = 興味 (ஆர்வம்). 未 என்பது 味 போலத் தோன்றும் வேறு கான்ஜி.", "explanation_en": "きょうみ = 興味 (ஆர்வம், interest). 未 looks like 味, but it is a different kanji." },
+      { "id": "L02-q06", "type": "vocab_context", "sentence": "後ろの 席からは 字が 小さくて、よく （　　）。", "options": ["見ません", "見えません", "聞こえません", "見せません"], "answer": 1, "explanation_ta": "எழுத்துகள் சின்னதாக இருப்பதால் கண்ணுக்குத் 'தெரியவில்லை' = 見えません. 聞こえません என்பது சத்தத்துக்கு; 見せません 'காட்ட மாட்டேன்'.", "explanation_en": "The letters are small, so you can't see them = 見えません (தெரியவில்லை). 聞こえません is for sounds. 見せません means \"I won't show\"." },
+      { "id": "L02-q07", "type": "vocab_context", "sentence": "隣の 部屋から ピアノの （　　）が 聞こえます。", "options": ["声", "字", "音", "絵"], "answer": 2, "explanation_ta": "இசைக்கருவியின் சத்தம் = 音 (ஒலி). 声 என்பது மனிதர், விலங்குகளின் குரலுக்கு மட்டும்.", "explanation_en": "The sound of an instrument = 音 (ஒலி, sound). 声 is only for the voice of people or animals." },
+      { "id": "L02-q08", "type": "vocab_context", "sentence": "日本人の 友達と 日本語で （　　）を して、話す 練習を して います。", "options": ["小説", "発音", "文法", "会話"], "answer": 3, "explanation_ta": "இருவர் பேசிக்கொள்வது = 会話をする (உரையாடுதல்). 発音をする என்று சொல்ல மாட்டோம்.", "explanation_en": "Two people talking = 会話をする (உரையாடுதல், have a conversation). We don't say 発音をする." },
+      { "id": "L02-q09", "type": "vocab_context", "sentence": "映画は あまり 見ませんが、（　　） 見ます。", "options": ["たまに", "もちろん", "なかなか", "やっぱり"], "answer": 0, "explanation_ta": "'அதிகம் பார்க்க மாட்டேன், ஆனால் எப்போதாவது பார்ப்பேன்' = たまに. もちろん (நிச்சயமாக) இங்கே பொருந்தாது.", "explanation_en": "\"I don't watch films much, but I do sometimes\" = たまに (எப்போதாவது, occasionally). もちろん (of course) does not fit." },
+      { "id": "L02-q10", "type": "vocab_context", "sentence": "「タミル語が 話せますか。」「（　　）。毎日 使って いますよ。」", "options": ["たまに", "もちろん", "しばらく", "なかなか"], "answer": 1, "explanation_ta": "தினமும் பயன்படுத்துவதால் 'நிச்சயமாக' = もちろん. たまに (எப்போதாவது) 毎日 உடன் முரண்படும்.", "explanation_en": "You use it every day, so \"of course\" = もちろん (நிச்சயமாக). たまに (sometimes) clashes with 毎日." },
+      { "id": "L02-q11", "type": "paraphrase", "sentence": "私は 日本語が 話せます。", "options": ["私は 日本語を 話して います。", "私は 日本語を 話したいです。", "私は 日本語を 話す ことが できます。", "私は 日本語を 話しません。"], "answer": 2, "explanation_ta": "話せます = 話すことができます (பேச முடியும்). 話したいです என்பது 'பேச விரும்புகிறேன்' — ஆசை மட்டுமே.", "explanation_en": "話せます = 話すことができます (பேச முடியும், can speak). 話したいです only means \"want to speak\"." },
+      { "id": "L02-q12", "type": "paraphrase", "sentence": "財布に 五百円しか ありません。", "options": ["財布に お金が たくさん あります。", "財布に 五百円だけ あります。", "財布に 五百円 ぐらい あります。", "財布に お金が ぜんぜん ありません。"], "answer": 1, "explanation_ta": "〜しかない = 〜だけある (மட்டுமே இருக்கிறது). ぜんぜんありません என்றால் 'சுத்தமாக இல்லை' — அது தவறு.", "explanation_en": "〜しかない = 〜だけある (மட்டுமே இருக்கிறது, there is only ...). ぜんぜんありません means \"none at all\". That is wrong." },
+      { "id": "L02-q13", "type": "usage", "sentence": "興味", "options": ["弟は 車に とても 興味が あります。", "この 料理は 興味が いいです。", "新しい 興味を 買いました。", "友達に 興味を 教えました。"], "answer": 0, "explanation_ta": "興味 (ஆர்வம்) என்பது 'N に興味があります' என்ற வடிவில் வரும். சுவை, வாங்குதல் போன்றவற்றுடன் பொருந்தாது.", "explanation_en": "興味 (ஆர்வம், interest) is used as \"N に興味があります\". It does not go with taste or buying." },
+      { "id": "L02-q14", "type": "usage", "sentence": "聞こえる", "options": ["私は 毎朝 音楽を 聞こえます。", "先生に 質問を 聞こえました。", "遠くから 電車の 音が 聞こえます。", "友達の 話を よく 聞こえて ください。"], "answer": 2, "explanation_ta": "聞こえる = தானாகக் காதில் விழுதல்; பொருள் が பெறும்: 音が聞こえます. 'を聞こえます' எப்போதும் தவறு; முயன்று கேட்பதற்கு 聞く.", "explanation_en": "聞こえる means a sound reaches you by itself. It takes が: 音が聞こえます. を聞こえます is always wrong. To listen on purpose, use 聞く." },
+      { "id": "L02-q15", "type": "grammar_form", "sentence": "私は 漢字が 少し （　　）。", "options": ["書けます", "書きます", "書かれます", "書けられます"], "answer": 0, "explanation_ta": "漢字が என்று が வருவதால் ஆற்றல் வடிவம்: 書く → 書けます. 書けられます என்பது இரண்டு முறை மாற்றிய தவறான வடிவம்.", "explanation_en": "漢字が has が, so you need the \"can\" form: 書く → 書けます. 書けられます changes the verb twice. It is wrong." },
+      { "id": "L02-q16", "type": "grammar_form", "sentence": "すみません、明日は 用事が あって、（　　）。", "options": ["来りません", "来えません", "来れられません", "来られません"], "answer": 3, "explanation_ta": "来る-வின் ஆற்றல் வடிவம் 来られる (こられる) → 来られません (வர முடியாது). மற்றவை இல்லாத வடிவங்கள்.", "explanation_en": "The \"can\" form of 来る is 来られる (こられる) → 来られません (வர முடியாது, can't come). The others are not real forms." },
+      { "id": "L02-q17", "type": "grammar_form", "sentence": "私は 一人で 着物が （　　）。", "options": ["着ません", "着えません", "着せません", "着られません"], "answer": 3, "explanation_ta": "着る குழு II → 着られる → 着られません (அணிய முடியாது). 着せません என்பது 'அணிவிக்க மாட்டேன்' என்ற வேறு வினை.", "explanation_en": "着る is Group II → 着られる → 着られません (அணிய முடியாது, can't put on). 着せません is a different verb (\"dress someone\")." },
+      { "id": "L02-q18", "type": "grammar_form", "sentence": "教室に 学生が 二人（　　） いません。", "options": ["だけ", "まで", "ぐらい", "しか"], "answer": 3, "explanation_ta": "எதிர்மறை வினையுடன் 'மட்டுமே' = しか〜いません. だけ எதிர்மறையுடன் வந்தால் பொருள் மாறிவிடும்.", "explanation_en": "\"Only\" with a negative verb = しか〜いません (மட்டுமே இருக்கிறார்கள்). だけ with a negative changes the meaning." },
+      { "id": "L02-q19", "type": "grammar_form", "sentence": "窓から 海が （　　）。", "options": ["見ます", "見せます", "見えます", "見て います"], "answer": 2, "explanation_ta": "கடல் தானாகக் கண்ணுக்குத் தெரிவது = 海が見えます. 海が見ています என்றால் 'கடல் பார்த்துக்கொண்டிருக்கிறது' என்று விநோதப் பொருள்.", "explanation_en": "The sea comes into view by itself = 海が見えます (தெரிகிறது). 海が見ています would mean \"the sea is watching\"." },
+      { "id": "L02-q20", "type": "grammar_form", "sentence": "駅の 前に 新しい 本屋が （　　）。", "options": ["しました", "できました", "なりました", "作りました"], "answer": 1, "explanation_ta": "புதிதாக உருவானது = N ができました. 作りました-க்கு を தேவை (本屋を作りました), が அல்ல.", "explanation_en": "Something new appeared = N ができました (உருவானது). 作りました needs を (本屋を作りました), not が." },
+      { "id": "L02-q21", "type": "grammar_form", "sentence": "「肉や 魚を 食べますか。」「肉（　　） 食べますが、魚は 食べません。」", "options": ["が", "も", "は", "しか"], "answer": 2, "explanation_ta": "இறைச்சியையும் மீனையும் ஒப்பிடுவதால் இரண்டிலும் は: 肉は〜、魚は〜. しか-க்கு எதிர்மறை வினை தேவை.", "explanation_en": "You compare meat and fish, so use は on both: 肉は〜、魚は〜. しか needs a negative verb." },
+      { "id": "L02-q22", "type": "sentence_order", "before": "私は", "chunks": ["ひらがな", "しか", "読め", "ません"], "star": 1, "after": "。", "explanation_ta": "ひらがな → しか → 読め → ません: 'ஹிரகானா மட்டுமே படிக்க முடியும்'. ★ = しか.", "explanation_en": "ひらがな → しか → 読め → ません: \"I can only read hiragana\" (ஹிரகானா மட்டுமே படிக்க முடியும்). ★ = しか." },
+      { "id": "L02-q23", "type": "sentence_order", "before": "この 部屋から", "chunks": ["きれいな", "山が", "よく", "見えます"], "star": 2, "after": "。", "explanation_ta": "きれいな山が (அழகான மலை) → よく (நன்றாக) → 見えます. ★ = よく.", "explanation_en": "きれいな山が (அழகான மலை, a beautiful mountain) → よく (well) → 見えます. ★ = よく." },
+      { "id": "L02-q24", "type": "sentence_order", "before": "駅の 前に", "chunks": ["大きい", "スーパーが", "できた", "んです"], "star": 2, "after": "よ。", "explanation_ta": "大きいスーパーが → できた → んです (விளக்கம்). ★ = できた.", "explanation_en": "大きいスーパーが (a big supermarket) → できた → んです (explaining). ★ = できた." },
+      { "id": "L02-q25", "type": "passage_cloze", "passage": "わたしの 趣味は 音楽です。ピアノが 少し［1］。でも、ギターは［2］。日曜日は たまに 友達と コンサートへ 行きます。前の 席に 座ると、ピアノの 音が よく［3］。", "blanks": [
+        { "options": ["弾かれます", "弾いて", "弾けます", "弾きます"], "answer": 2 },
+        { "options": ["弾けません", "弾けます", "弾きました", "弾いて います"], "answer": 0 },
+        { "options": ["聞きます", "聞こえます", "聞かせます", "聞いて います"], "answer": 1 }
+      ], "explanation_ta": "［1］ ピアノが என்று が வருவதால் ஆற்றல் வடிவம் 弾けます. ［2］ でも + ギターは (ஒப்பீடு) → எதிர்மாறாக 弾けません. ［3］ சத்தம் தானாகக் காதில் விழுவது → 聞こえます.", "explanation_en": "[1] ピアノが has が, so use the \"can\" form 弾けます. [2] でも + ギターは shows a contrast → 弾けません (வாசிக்க முடியாது). [3] The sound reaches you by itself → 聞こえます (கேட்கிறது)." }
+    ]
+  }
+}

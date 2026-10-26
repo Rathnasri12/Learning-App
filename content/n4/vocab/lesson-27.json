@@ -1,0 +1,344 @@
+[
+  {
+    "id": "n4-v-022",
+    "expression": "うかがう",
+    "reading": "うかがう",
+    "romaji": "ukagau",
+    "en": "to ask (humble)",
+    "ta": "கேட்க (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "ちょっとうかがいますが、駅はどちらですか。",
+        "reading": "ちょっと うかがいますが、えきは どちらですか。",
+        "romaji": "chotto ukagaimasu ga, eki wa dochira desu ka.",
+        "ta": "ஒன்று கேட்கலாமா, ரயில் நிலையம் எந்தப் பக்கம்?",
+        "en": "May I ask, which way is the station?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-043",
+    "expression": "～ございます",
+    "reading": "～ございます",
+    "romaji": "～gozaimasu",
+    "en": "to be, have (very polite)",
+    "ta": "இருக்கிறது (மிக மரியாதை)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "お手洗いはこちらの階段の上にございます。",
+        "reading": "おてあらいは こちらの かいだんの うえに ございます。",
+        "romaji": "otearai wa kochira no kaidan no ue ni gozaimasu.",
+        "ta": "கழிவறை இந்தப் படிக்கட்டின் மேலே இருக்கிறது.",
+        "en": "The restroom is at the top of these stairs."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-107",
+    "expression": "致す",
+    "reading": "いたす",
+    "romaji": "itasu",
+    "en": "to do (humble)",
+    "ta": "செய்ய (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "その仕事は、私がいたします。",
+        "reading": "その しごとは、わたしが いたします。",
+        "romaji": "sono shigoto wa, watashi ga itashimasu.",
+        "ta": "அந்த வேலையை நான் செய்கிறேன்.",
+        "en": "I will do that job."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-119",
+    "expression": "申し上げる",
+    "reading": "もうしあげる",
+    "romaji": "moushiageru",
+    "en": "to say (humble)",
+    "ta": "கூற / தெரிவிக்க (பணிவு)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "皆様に心からお礼を申し上げます。",
+        "reading": "みなさまに こころから おれいを もうしあげます。",
+        "romaji": "minasama ni kokoro kara orei o moushiagemasu.",
+        "ta": "அனைவருக்கும் மனமார்ந்த நன்றியைத் தெரிவித்துக்கொள்கிறேன்.",
+        "en": "I thank you all from my heart."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-241",
+    "expression": "受付",
+    "reading": "うけつけ",
+    "romaji": "uketsuke",
+    "en": "reception desk",
+    "ta": "வரவேற்பு மேசை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "病院に着いたら、まず受付で名前を書いてください。",
+        "reading": "びょういんに ついたら、まず うけつけで なまえを かいて ください。",
+        "romaji": "byouin ni tsuitara, mazu uketsuke de namae o kaite kudasai.",
+        "ta": "மருத்துவமனைக்கு வந்ததும் முதலில் வரவேற்பு மேசையில் பெயரை எழுதுங்கள்.",
+        "en": "When you get to the hospital, first write your name at reception."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-254",
+    "expression": "挨拶",
+    "reading": "あいさつ",
+    "romaji": "aisatsu",
+    "en": "to greet",
+    "ta": "வணக்கம் சொல்ல",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "朝、会社の人に「おはようございます」とあいさつします。",
+        "reading": "あさ、かいしゃの ひとに 「おはようございます」と あいさつします。",
+        "romaji": "asa, kaisha no hito ni \"ohayou gozaimasu\" to aisatsu shimasu.",
+        "ta": "காலையில் அலுவலக நண்பர்களிடம் 'காலை வணக்கம்' என்று சொல்கிறேன்.",
+        "en": "In the morning I greet people at work with \"Good morning\"."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-290",
+    "expression": "案内",
+    "reading": "あんない",
+    "romaji": "annai",
+    "en": "to guide, show around",
+    "ta": "வழிகாட்ட; சுற்றிக் காட்ட",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "週末、友達に京都を案内しました。",
+        "reading": "しゅうまつ、ともだちに きょうとを あんないしました。",
+        "romaji": "shuumatsu, tomodachi ni kyouto o annai shimashita.",
+        "ta": "வார இறுதியில் நண்பருக்கு கியோத்தோவைச் சுற்றிக் காட்டினேன்.",
+        "en": "At the weekend I showed my friend around Kyoto."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-305",
+    "expression": "おる",
+    "reading": "おる",
+    "romaji": "oru",
+    "en": "to be (humble)",
+    "ta": "இருக்க (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "明日は一日中、事務所におります。",
+        "reading": "あしたは いちにちじゅう、じむしょに おります。",
+        "romaji": "ashita wa ichinichijuu, jimusho ni orimasu.",
+        "ta": "நாளை நாள் முழுவதும் அலுவலகத்தில் இருப்பேன்.",
+        "en": "I will be in the office all day tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-306",
+    "expression": "申す",
+    "reading": "もうす",
+    "romaji": "mousu",
+    "en": "to say; be called (humble)",
+    "ta": "சொல்ல; பெயர் ~ (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "はじめまして、チェンナイから来たラジャと申します。",
+        "reading": "はじめまして、チェンナイから きた ラジャと もうします。",
+        "romaji": "hajimemashite, chennai kara kita raja to moushimasu.",
+        "ta": "வணக்கம், நான் சென்னையிலிருந்து வந்த ராஜா.",
+        "en": "Nice to meet you. My name is Raja, from Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-312",
+    "expression": "よろしい",
+    "reading": "よろしい",
+    "romaji": "yoroshii",
+    "en": "good, all right (polite)",
+    "ta": "சரி; பரவாயில்லை (மரியாதை)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "お客様、こちらの席でよろしいですか。",
+        "reading": "おきゃくさま、こちらの せきで よろしいですか。",
+        "romaji": "okyakusama, kochira no seki de yoroshii desu ka.",
+        "ta": "ஐயா, இந்த இருக்கை உங்களுக்குச் சரியா?",
+        "en": "Sir, is this seat all right for you?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-372",
+    "expression": "伺う",
+    "reading": "うかがう",
+    "romaji": "ukagau",
+    "en": "to visit; to ask (humble)",
+    "ta": "சந்திக்க வர; கேட்க (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "明日の午後、そちらの事務所に伺います。",
+        "reading": "あしたの ごご、そちらの じむしょに うかがいます。",
+        "romaji": "ashita no gogo, sochira no jimusho ni ukagaimasu.",
+        "ta": "நாளை மதியம் உங்கள் அலுவலகத்துக்கு வருகிறேன்.",
+        "en": "I will visit your office tomorrow afternoon."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-433",
+    "expression": "伝える",
+    "reading": "つたえる",
+    "romaji": "tsutaeru",
+    "en": "to pass on (a message)",
+    "ta": "தெரிவிக்க (செய்தி சொல்ல)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "田中さんに、会議は三時からだと伝えてください。",
+        "reading": "たなかさんに、かいぎは さんじからだと つたえて ください。",
+        "romaji": "tanaka san ni, kaigi wa sanji kara da to tsutaete kudasai.",
+        "ta": "கூட்டம் மூன்று மணிக்கு என்று தனகா அவர்களிடம் தெரிவியுங்கள்.",
+        "en": "Please tell Mr. Tanaka that the meeting starts at three."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-468",
+    "expression": "ファックス",
+    "reading": "ファックス",
+    "romaji": "fuakkusu",
+    "en": "fax",
+    "ta": "ஃபேக்ஸ் (தொலைநகல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "地図をファックスで送っていただけませんか。",
+        "reading": "ちずを ファックスで おくって いただけませんか。",
+        "romaji": "chizu o fakkusu de okutte itadakemasen ka.",
+        "ta": "வரைபடத்தை ஃபேக்ஸில் அனுப்ப முடியுமா?",
+        "en": "Could you send me the map by fax?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-481",
+    "expression": "承知",
+    "reading": "しょうち",
+    "romaji": "shouchi",
+    "en": "to understand, agree (humble)",
+    "ta": "புரிந்துகொள்ள; ஏற்றுக்கொள்ள (பணிவு)",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "はい、承知しました。すぐに準備します。",
+        "reading": "はい、しょうちしました。すぐに じゅんびします。",
+        "romaji": "hai, shouchi shimashita. suguni junbi shimasu.",
+        "ta": "சரி, புரிந்துகொண்டேன். உடனே தயார் செய்கிறேன்.",
+        "en": "Certainly. I will get it ready right away."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-487",
+    "expression": "留守",
+    "reading": "るす",
+    "romaji": "rusu",
+    "en": "being away from home",
+    "ta": "வீட்டில் இல்லாமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日、友達の家へ行きましたが、留守でした。",
+        "reading": "きのう、ともだちの いえへ いきましたが、るすでした。",
+        "romaji": "kinou, tomodachi no ie e ikimashita ga, rusu deshita.",
+        "ta": "நேற்று நண்பரின் வீட்டுக்குப் போனேன், ஆனால் அவர் வீட்டில் இல்லை.",
+        "en": "Yesterday I went to my friend’s house, but nobody was home."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-504",
+    "expression": "～様",
+    "reading": "～さま",
+    "romaji": "～sama",
+    "en": "Mr., Ms. (very polite)",
+    "ta": "திரு / திருமதி (மிக மரியாதை)",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "山田様、お部屋は五階でございます。",
+        "reading": "やまださま、おへやは ごかいで ございます。",
+        "romaji": "yamada sama, oheya wa gokai de gozaimasu.",
+        "ta": "திரு யமதா அவர்களே, உங்கள் அறை ஐந்தாவது மாடியில் உள்ளது.",
+        "en": "Mr. Yamada, your room is on the fifth floor."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-505",
+    "expression": "ご存じ",
+    "reading": "ごぞんじ",
+    "romaji": "gozonji",
+    "en": "knowing (respectful)",
+    "ta": "தெரிந்திருத்தல் (மரியாதை)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "社長の新しい電話番号をご存じですか。",
+        "reading": "しゃちょうの あたらしい でんわばんごうを ごぞんじですか。",
+        "romaji": "shachou no atarashii denwa bangou o gozonji desu ka.",
+        "ta": "தலைவரின் புதிய தொலைபேசி எண் உங்களுக்குத் தெரியுமா?",
+        "en": "Do you know the president’s new phone number?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-557",
+    "expression": "拝見",
+    "reading": "はいけん",
+    "romaji": "haiken",
+    "en": "to look at (humble)",
+    "ta": "பார்க்க (பணிவு)",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "すみません、ちょっと切符を拝見します。",
+        "reading": "すみません、ちょっと きっぷを はいけんします。",
+        "romaji": "sumimasen, chotto kippu o haiken shimasu.",
+        "ta": "மன்னிக்கவும், உங்கள் பயணச்சீட்டைச் சற்றுப் பார்க்கிறேன்.",
+        "en": "Excuse me, may I see your ticket for a moment."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-604",
+    "expression": "参る",
+    "reading": "まいる",
+    "romaji": "mairu",
+    "en": "to go, come (humble)",
+    "ta": "போக / வர (பணிவு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "明日の朝九時にそちらへ参ります。",
+        "reading": "あしたの あさ くじに そちらへ まいります。",
+        "romaji": "ashita no asa kuji ni sochira e mairimasu.",
+        "ta": "நாளை காலை ஒன்பது மணிக்கு அங்கே வருகிறேன்.",
+        "en": "I will come to you at nine tomorrow morning."
+      }
+    ]
+  }
+]

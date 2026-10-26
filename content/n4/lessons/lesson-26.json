@@ -1,0 +1,691 @@
+{
+  "lesson": 26,
+  "title": {
+    "ja": "社長はもうお帰りになりました",
+    "ta": "தலைவர் ஏற்கனவே வீடு திரும்பிவிட்டார்",
+    "en": "The president has already gone home"
+  },
+  "intro_ta": "இந்தப் பாடத்தில் மேலதிகாரிகள், வாடிக்கையாளர்கள், ஆசிரியர்கள் போன்றவர்களின் செயல்களைப் பற்றி மரியாதையாகப் பேசக் கற்போம் (இதை ஜப்பானிய மொழியில் 尊敬語 என்பார்கள்). தமிழில் 'வந்தான்' என்பதற்குப் பதில் 'வந்தார்', 'சாப்பிட்டான்' என்பதற்குப் பதில் 'உணவருந்தினார்' என்று சொல்வது போல, ஜப்பானிய மொழியிலும் மற்றவரை உயர்த்தும் தனி வினைச்சொற்களும் வடிவங்களும் உள்ளன. அலுவலகத்தில் கூட்டங்கள், வாடிக்கையாளர் வரவேற்பு, மேலதிகாரியைப் பற்றிப் பேசுவது ஆகியவற்றைப் பயிற்சி செய்வோம்.",
+  "intro_en": "In this lesson you will learn to talk about other people’s actions with respect. This is for bosses, customers and teachers. In Japanese this is called 尊敬語 (respectful speech). In Tamil you say \"he came\" politely as வந்தார், not வந்தான். Japanese also has special verbs and forms that raise the other person. You will practise meetings, welcoming customers and talking about your boss.",
+  "grammar": [
+    {
+      "id": "g26-1",
+      "pattern": "Special honorific verbs (いらっしゃる / おっしゃる / なさる / 召し上がる / ご覧になる)",
+      "name": {
+        "en": "Special respectful verbs",
+        "ta": "சிறப்பு மரியாதை வினைச்சொற்கள்"
+      },
+      "explanation_ta": "சில அடிக்கடி வரும் வினைச்சொற்களுக்கு மரியாதைக்கென்றே தனிச் சொற்கள் உள்ளன. 行く・来る・いる → いらっしゃる (அல்லது おいでになる); 言う → おっしゃる; する → なさる; 食べる・飲む → 召し上がる; 見る → ご覧になる. இவற்றை மேலதிகாரி, வாடிக்கையாளர், ஆசிரியர் போன்ற மற்றவர்களின் செயலுக்கு மட்டுமே பயன்படுத்த வேண்டும்; உங்கள் சொந்தச் செயலுக்கு அல்ல. いらっしゃる、おっしゃる、なさる ஆகியவற்றின் ます-வடிவம் ஒழுங்கற்றது: いらっしゃいます、おっしゃいます、なさいます (り அல்ல, い). தமிழில் 'சாப்பிடு' என்பதற்குப் பதில் 'உணவருந்து', 'சொல்' என்பதற்குப் பதில் 'கூறு' என்று மரியாதைச் சொல் பயன்படுத்துவது போலவே இதுவும்.",
+      "explanation_en": "Some common verbs have special respectful words. 行く, 来る and いる become いらっしゃる (or おいでになる). 言う becomes おっしゃる. する becomes なさる. 食べる and 飲む become 召し上がる. 見る becomes ご覧になる. Use them only for other people’s actions, like your boss or a customer. Never use them for yourself. The ます-form is special for three of them: いらっしゃいます, おっしゃいます, なさいます. It is い, not り. Tamil does the same: \"eat\" becomes உணவருந்து and \"say\" becomes கூறு when you show respect.",
+      "tamil_parallel": "சாப்பிடுகிறான் → உணவருந்துகிறார்; சொன்னான் → கூறினார் = 食べる → 召し上がる、言う → おっしゃる",
+      "tamil_parallel_en": "Tamil uses a different, respectful word: சாப்பிடு → உணவருந்து (eat), சொல் → கூறு (say). Japanese does the same: 食べる → 召し上がる, 言う → おっしゃる.",
+      "formation": "行く・来る・いる → いらっしゃる / おいでになる (ます: いらっしゃいます)\n言う → おっしゃる (ます: おっしゃいます)\nする → なさる (ます: なさいます)\n食べる・飲む → 召し上がる (ます: 召し上がります)\n見る → ご覧になる (ます: ご覧になります)",
+      "formation_en": "行く・来る・いる → いらっしゃる / おいでになる (ます: いらっしゃいます)\n言う → おっしゃる (ます: おっしゃいます)\nする → なさる (ます: なさいます)\n食べる・飲む → 召し上がる (ます: 召し上がります)\n見る → ご覧になる (ます: ご覧になります)",
+      "examples": [
+        {
+          "ja": "部長は今、会議室にいらっしゃいます。",
+          "reading": "ぶちょうは いま、かいぎしつに いらっしゃいます。",
+          "romaji": "buchou wa ima, kaigishitsu ni irasshaimasu.",
+          "ta": "துறைத் தலைவர் இப்போது கூட்ட அறையில் இருக்கிறார்.",
+          "en": "The department manager is in the meeting room now."
+        },
+        {
+          "ja": "先生は明日、何時に学校へいらっしゃいますか。",
+          "reading": "せんせいは あした、なんじに がっこうへ いらっしゃいますか。",
+          "romaji": "sensei wa ashita, nanji ni gakkou e irasshaimasu ka.",
+          "ta": "ஆசிரியர் நாளை எத்தனை மணிக்குப் பள்ளிக்கு வருவார்?",
+          "en": "What time will the teacher come to school tomorrow?"
+        },
+        {
+          "ja": "社長は会議で何とおっしゃいましたか。",
+          "reading": "しゃちょうは かいぎで なんと おっしゃいましたか。",
+          "romaji": "shachou wa kaigi de nan to osshaimashita ka.",
+          "ta": "தலைவர் கூட்டத்தில் என்ன கூறினார்?",
+          "en": "What did the president say at the meeting?"
+        },
+        {
+          "ja": "課長は毎朝ジョギングをなさいます。",
+          "reading": "かちょうは まいあさ ジョギングを なさいます。",
+          "romaji": "kachou wa maiasa jogingu o nasaimasu.",
+          "ta": "பிரிவுத் தலைவர் தினமும் காலையில் ஓட்டப் பயிற்சி செய்கிறார்.",
+          "en": "The section manager goes jogging every morning."
+        },
+        {
+          "ja": "お客さん、インドのお茶を召し上がったことがありますか。",
+          "reading": "おきゃくさん、インドの おちゃを めしあがった ことが ありますか。",
+          "romaji": "okyakusan, indo no ocha o meshiagatta koto ga arimasu ka.",
+          "ta": "நீங்கள் இந்தியத் தேநீர் அருந்தியிருக்கிறீர்களா?",
+          "en": "Have you ever had Indian tea?"
+        },
+        {
+          "ja": "先生、この映画をご覧になりましたか。いいえ、まだです。",
+          "reading": "せんせい、この えいがを ごらんに なりましたか。いいえ、まだです。",
+          "romaji": "sensei, kono eiga o goran ni narimashita ka. iie, mada desu.",
+          "ta": "ஆசிரியரே, இந்தத் திரைப்படத்தைப் பார்த்தீர்களா? இல்லை, இன்னும் இல்லை.",
+          "en": "Sir, have you seen this film? No, not yet."
+        }
+      ],
+      "pitfalls_ta": "'私は社長室にいらっしゃいます' என்று உங்களைப் பற்றிச் சொல்வது பெரிய தவறு; மரியாதை வினை மற்றவருக்கு மட்டுமே. மேலும் いらっしゃります、なさります என்று எழுத வேண்டாம்; சரியான வடிவம் いらっしゃいます、なさいます.",
+      "pitfalls_en": "Never say 私はいらっしゃいます about yourself. Respectful verbs are only for others. Also, don’t write いらっしゃります or なさります. The right forms are いらっしゃいます and なさいます."
+    },
+    {
+      "id": "g26-2",
+      "pattern": "お V-ます stem に なります",
+      "name": {
+        "en": "お〜になります (regular respectful form)",
+        "ta": "お〜になります (பொது மரியாதை வடிவம்)"
+      },
+      "explanation_ta": "சிறப்புச் சொல் இல்லாத வினைகளுக்கு இந்த வடிவத்தைப் பயன்படுத்துகிறோம்: ます-வடிவத்திலிருந்து ます-ஐ நீக்கி, முன்னால் お, பின்னால் になります சேர்க்க வேண்டும். 帰ります → お帰りになります, 待ちます → お待ちになります, 書きます → お書きになります. பொருள் மாறாது; மரியாதை மட்டும் கூடுகிறது — தமிழில் 'திரும்பினான்' என்பதை 'திரும்பினார்' என்று சொல்வது போல. する-வினைகளுக்கு (出席する போன்றவை) ご出席になります என்று ご பயன்படுத்துவோம். 見ます、寝ます போன்ற ஒரு எழுத்து stem உள்ள வினைகளுக்கு இந்த வடிவம் வராது (お見になる ✗ → ご覧になる).",
+      "explanation_en": "Use this form for verbs with no special respectful word. Take the ます-form and remove ます. Put お in front and になります after it. 帰ります → お帰りになります. 待ちます → お待ちになります. 書きます → お書きになります. The meaning is the same. It only adds respect, like Tamil திரும்பினார் instead of திரும்பினான். For する verbs like 出席する, use ご: ご出席になります. It doesn’t work for very short stems like 見 or 寝. Say ご覧になる, not お見になる.",
+      "tamil_parallel": "அவர் வீட்டுக்குத் திரும்பிவிட்டார் (திரும்பினான் அல்ல) = 社長はお帰りになりました",
+      "tamil_parallel_en": "Tamil adds respect with the ending -ஆர்: திரும்பினார் (he returned, respectful). Japanese adds お〜になる: お帰りになりました.",
+      "formation": "お + V-ます stem + に なります\n帰ります → お帰りに なります\n待ちます → お待ちに なります\nご + N(する-வினை) + に なります\n出席します → ご出席に なります",
+      "formation_en": "お + V-ます stem + に なります\n帰ります → お帰りに なります\n待ちます → お待ちに なります\nご + N (する verb) + に なります\n出席します → ご出席に なります",
+      "examples": [
+        {
+          "ja": "社長はもうお帰りになりました。",
+          "reading": "しゃちょうは もう おかえりに なりました。",
+          "romaji": "shachou wa mou okaeri ni narimashita.",
+          "ta": "தலைவர் ஏற்கனவே வீடு திரும்பிவிட்டார்.",
+          "en": "The president has already gone home."
+        },
+        {
+          "ja": "部長はどのぐらいお待ちになりましたか。",
+          "reading": "ぶちょうは どのぐらい おまちに なりましたか。",
+          "romaji": "buchou wa donogurai omachi ni narimashita ka.",
+          "ta": "துறைத் தலைவர் எவ்வளவு நேரம் காத்திருந்தார்?",
+          "en": "How long did the department manager wait?"
+        },
+        {
+          "ja": "この本は先生がお書きになったんですか。",
+          "reading": "この ほんは せんせいが おかきに なったんですか。",
+          "romaji": "kono hon wa sensei ga okaki ni natta n desu ka.",
+          "ta": "இந்தப் புத்தகத்தை ஆசிரியர் எழுதினாரா?",
+          "en": "Did you write this book, sir?"
+        },
+        {
+          "ja": "お客さんは新聞をお読みになっています。",
+          "reading": "おきゃくさんは しんぶんを およみに なって います。",
+          "romaji": "okyakusan wa shinbun o oyomi ni natte imasu.",
+          "ta": "வாடிக்கையாளர் செய்தித்தாள் படித்துக்கொண்டிருக்கிறார்.",
+          "en": "The customer is reading the newspaper."
+        },
+        {
+          "ja": "社長は明日の会議にご出席になりません。",
+          "reading": "しゃちょうは あしたの かいぎに ごしゅっせきに なりません。",
+          "romaji": "shachou wa ashita no kaigi ni goshusseki ni narimasen.",
+          "ta": "தலைவர் நாளைய கூட்டத்தில் கலந்துகொள்ள மாட்டார்.",
+          "en": "The president won’t attend tomorrow’s meeting."
+        }
+      ],
+      "pitfalls_ta": "お帰りになります-இல் になります-ஐ விட்டுவிட்டு お帰りします என்று சொன்னால் அது உங்கள் பணிவுச் செயலாக மாறிவிடும் (அடுத்த பாடம்). மரியாதைக்கு எப்போதும் 〜になります.",
+      "pitfalls_en": "Don’t drop になります. お帰りします is a humble form for your own actions (next lesson). For respect, always use 〜になります."
+    },
+    {
+      "id": "g26-3",
+      "pattern": "V-られる (honorific)",
+      "name": {
+        "en": "V-られる as a respectful form",
+        "ta": "V-られる மரியாதை வடிவமாக"
+      },
+      "explanation_ta": "பாடம் 12-இல் கற்ற செயப்பாட்டு வடிவத்தையே (書かれる、来られる) மரியாதைக்கும் பயன்படுத்தலாம். 部長は何時に来られますか என்றால் 'துறைத் தலைவர் எத்தனை மணிக்கு வருவார்?' — இங்கே யாரும் யாராலும் செய்யப்படவில்லை; இது மரியாதை மட்டுமே. இது お〜になります-ஐ விட சற்று இலேசான மரியாதை; அலுவலகத்திலும் செய்தித்தாள்களிலும் அதிகம் வரும். உருவாக்கம்: குழு I: 書く → 書かれる, 帰る → 帰られる (ஆ-வரிசை + れる); குழு II: 始める → 始められる; する → される, 来る → 来られる. ஒரு வாக்கியம் செயப்பாட்டுப் பொருளா மரியாதைப் பொருளா என்பதைச் சூழலும் 'に' (யாரால்) இருக்கிறதா என்பதும் சொல்லும்.",
+      "explanation_en": "You learned the passive form in Lesson 12 (書かれる, 来られる). The same form can also show respect. 部長は何時に来られますか means \"What time will the manager come?\" Nobody is doing anything to anyone. It is only respect. It is a little lighter than お〜になります. You hear it a lot at work and read it in newspapers. Group I: 書く → 書かれる, 帰る → 帰られる. Group II: 始める → 始められる. する → される, 来る → 来られる. Context tells you if it means passive or respect. Is there a に (\"by someone\")? Then it is usually passive.",
+      "tamil_parallel": "தலைவர் எத்தனை மணிக்கு வருவார்? (வருவான் அல்ல) = 部長は何時に来られますか",
+      "tamil_parallel_en": "Tamil shows respect with வருவார் (he will come, respectful). Japanese can use the passive shape 来られます for the same respect.",
+      "formation": "குழு I: 書く → 書かれる、帰る → 帰られる\nகுழு II: 始める → 始められる\nகுழு III: する → される、来る → 来られる\nN(மேலதிகாரி) は V-られます",
+      "formation_en": "Group I: 書く → 書かれる、帰る → 帰られる\nGroup II: 始める → 始められる\nGroup III: する → される、来る → 来られる\nN (superior) は V-られます",
+      "examples": [
+        {
+          "ja": "部長は何時に来られますか。",
+          "reading": "ぶちょうは なんじに こられますか。",
+          "romaji": "buchou wa nanji ni koraremasu ka.",
+          "ta": "துறைத் தலைவர் எத்தனை மணிக்கு வருவார்?",
+          "en": "What time will the department manager come?"
+        },
+        {
+          "ja": "社長は来月、新しい店を始められるそうです。",
+          "reading": "しゃちょうは らいげつ、あたらしい みせを はじめられるそうです。",
+          "romaji": "shachou wa raigetsu, atarashii mise o hajimerareru sou desu.",
+          "ta": "தலைவர் அடுத்த மாதம் புதிய கடையைத் தொடங்கப் போகிறாராம்.",
+          "en": "I hear the president will open a new shop next month."
+        },
+        {
+          "ja": "課長はもう帰られました。",
+          "reading": "かちょうは もう かえられました。",
+          "romaji": "kachou wa mou kaeraremashita.",
+          "ta": "பிரிவுத் தலைவர் ஏற்கனவே கிளம்பிவிட்டார்.",
+          "en": "The section manager has already left."
+        },
+        {
+          "ja": "先生はどんな本を書かれましたか。",
+          "reading": "せんせいは どんな ほんを かかれましたか。",
+          "romaji": "sensei wa donna hon o kakaremashita ka.",
+          "ta": "ஆசிரியர் எப்படிப்பட்ட புத்தகங்களை எழுதியிருக்கிறார்?",
+          "en": "What kind of books has the teacher written?"
+        },
+        {
+          "ja": "部長は会議に出席されませんでした。",
+          "reading": "ぶちょうは かいぎに しゅっせきされませんでした。",
+          "romaji": "buchou wa kaigi ni shusseki saremasen deshita.",
+          "ta": "துறைத் தலைவர் கூட்டத்தில் கலந்துகொள்ளவில்லை.",
+          "en": "The department manager did not attend the meeting."
+        }
+      ],
+      "pitfalls_ta": "来る-இன் மரியாதை வடிவம் 来られる (こられる); 来させる (வர வைத்தல்) உடன் குழப்ப வேண்டாம். மேலும் ஒரே வாக்கியத்தில் お〜になられる என்று இரண்டையும் சேர்க்காதீர்கள்.",
+      "pitfalls_en": "The respectful form of 来る is 来られる (こられる). Don’t mix it up with 来させる (make someone come). Also, don’t stack two forms, like お帰りになられる."
+    },
+    {
+      "id": "g26-4",
+      "pattern": "お V-ます stem ください / ご N ください",
+      "name": {
+        "en": "お〜ください (please, respectful)",
+        "ta": "お〜ください (தயவுசெய்து, மரியாதையுடன்)"
+      },
+      "explanation_ta": "〜てください-ஐ விட மரியாதையான கோரிக்கை இது. கடைகள், வங்கிகள், அலுவலக வரவேற்பு, ரயில் நிலைய அறிவிப்புகள் ஆகியவற்றில் வாடிக்கையாளர்களிடம் பேசும்போது பயன்படுகிறது. உருவாக்கம்: お + ます-stem + ください (待ちます → お待ちください, 入ります → お入りください, かけます → おかけください 'அமருங்கள்'). する-வினைகளுக்கு ご + பெயர்ச்சொல் + ください (ご注意ください, ご連絡ください). தமிழில் 'காத்திரு' என்பதை 'காத்திருக்கவும்' அல்லது 'தயவுசெய்து காத்திருங்கள்' என்று சொல்வதைப் போன்றது.",
+      "explanation_en": "This is a more polite \"please\" than 〜てください. You hear it in shops, banks, offices and station announcements. Staff say it to customers. Add お before the ます-stem and ください after it. 待ちます → お待ちください. 入ります → お入りください. かけます → おかけください (please sit). For する verbs, use ご + noun + ください: ご注意ください, ご連絡ください. It is like Tamil காத்திருக்கவும் (please wait, polite).",
+      "tamil_parallel": "தயவுசெய்து காத்திருக்கவும் / அமரவும் = お待ちください / おかけください",
+      "tamil_parallel_en": "Tamil polite requests like காத்திருக்கவும் (please wait) and அமரவும் (please sit) = お待ちください / おかけください.",
+      "formation": "お + V-ます stem + ください\n待ちます → お待ちください\nご + N(する-வினை) + ください\n連絡します → ご連絡ください",
+      "formation_en": "お + V-ます stem + ください\n待ちます → お待ちください\nご + N (する verb) + ください\n連絡します → ご連絡ください",
+      "examples": [
+        {
+          "ja": "少しお待ちください。",
+          "reading": "すこし おまち ください。",
+          "romaji": "sukoshi omachi kudasai.",
+          "ta": "சிறிது நேரம் காத்திருக்கவும்.",
+          "en": "Please wait a moment."
+        },
+        {
+          "ja": "どうぞ、こちらの席におかけください。",
+          "reading": "どうぞ、こちらの せきに おかけ ください。",
+          "romaji": "douzo, kochira no seki ni okake kudasai.",
+          "ta": "தயவுசெய்து இந்த இருக்கையில் அமருங்கள்.",
+          "en": "Please have a seat here."
+        },
+        {
+          "ja": "どうぞ、会議室にお入りください。",
+          "reading": "どうぞ、かいぎしつに おはいり ください。",
+          "romaji": "douzo, kaigishitsu ni ohairi kudasai.",
+          "ta": "தயவுசெய்து கூட்ட அறைக்குள் வாருங்கள்.",
+          "en": "Please come into the meeting room."
+        },
+        {
+          "ja": "電車が来ます。ご注意ください。",
+          "reading": "でんしゃが きます。ごちゅうい ください。",
+          "romaji": "densha ga kimasu. gochuui kudasai.",
+          "ta": "ரயில் வருகிறது. கவனமாக இருக்கவும்.",
+          "en": "A train is coming. Please be careful."
+        },
+        {
+          "ja": "わからないことがあれば、いつでもご連絡ください。",
+          "reading": "わからない ことが あれば、いつでも ごれんらく ください。",
+          "romaji": "wakaranai koto ga areba, itsudemo gorenraku kudasai.",
+          "ta": "புரியாதது ஏதாவது இருந்தால், எப்போது வேண்டுமானாலும் தொடர்புகொள்ளவும்.",
+          "en": "If anything is unclear, please contact us any time."
+        }
+      ],
+      "pitfalls_ta": "お待ってください என்று て-வடிவத்துடன் お சேர்க்காதீர்கள்; お待ちください தான் சரி. மேலதிகாரியிடம் நேரடிக் கட்டளை போலத் தோன்றாமல் இருக்க, பெரும்பாலும் 〜ていただけませんか-வும் பயன்படுத்தலாம்.",
+      "pitfalls_en": "Don’t say お待ってください. Don’t add お to the て-form. Say お待ちください. With your boss, 〜ていただけませんか can sound softer than an order."
+    },
+    {
+      "id": "g26-5",
+      "pattern": "お N / ご N (honorific prefix)",
+      "name": {
+        "en": "Polite prefixes お and ご",
+        "ta": "மரியாதை முன்னொட்டுகள் お / ご"
+      },
+      "explanation_ta": "மற்றவருக்குச் சொந்தமான பொருள், குடும்பம், செயல் ஆகியவற்றைக் குறிக்கும் பெயர்ச்சொல்லுக்கும் பெயரடைக்கும் முன்னால் お அல்லது ご சேர்த்து மரியாதை காட்டலாம்: お名前、お仕事、お電話、ご家族、ご住所、お忙しい、お元気. பொதுவாக ஜப்பானிய மூலச் சொற்களுக்கு お (お名前), சீன மூலச் சொற்களுக்கு (இரண்டு கான்ஜி, ஒன்ஞோமி வாசிப்பு) ご (ご家族、ご住所); ஆனால் お電話、お時間 போன்ற விதிவிலக்குகள் உண்டு. தமிழில் 'உங்கள் பெயர்' என்பதை 'தங்கள் திருப்பெயர்' என்று மரியாதையாகச் சொல்வது போன்றது. உங்கள் சொந்தக் குடும்பம், பெயர் போன்றவற்றுக்கு お/ご சேர்க்க வேண்டாம் (お茶、ご飯 போன்ற பழக்கச் சொற்கள் தவிர).",
+      "explanation_en": "Add お or ご before a noun or adjective about the other person. It shows respect. For example: お名前, お仕事, お電話, ご家族, ご住所, お忙しい, お元気. Usually お goes with Japanese words (お名前). ご goes with Chinese-style words, often two kanji (ご家族, ご住所). But there are exceptions, like お電話 and お時間. It is like Tamil தங்கள் திருப்பெயர் (your honourable name) instead of உன் பெயர். Don’t add お or ご to your own name or family. Fixed words like お茶 and ご飯 are fine for anyone.",
+      "tamil_parallel": "உன் பெயர் → தங்கள் (திரு)ப்பெயர்; உன் குடும்பம் → தங்கள் குடும்பத்தினர் = 名前 → お名前、家族 → ご家族",
+      "tamil_parallel_en": "Tamil changes உன் பெயர் (your name) to தங்கள் திருப்பெயர் (your honourable name). Japanese adds お or ご: お名前, ご家族.",
+      "formation": "お + ஜப்பானிய மூலச் சொல்: お名前、お仕事、お忙しい\nご + சீன மூலச் சொல்: ご家族、ご住所、ご出席\nவிதிவிலக்கு: お電話、お時間、お元気",
+      "formation_en": "お + Japanese-origin word: お名前、お仕事、お忙しい\nご + Chinese-origin word: ご家族、ご住所、ご出席\nExceptions: お電話、お時間、お元気",
+      "examples": [
+        {
+          "ja": "すみません、お名前とご住所をお願いします。",
+          "reading": "すみません、おなまえと ごじゅうしょを おねがいします。",
+          "romaji": "sumimasen, onamae to gojuusho o onegai shimasu.",
+          "ta": "மன்னிக்கவும், உங்கள் பெயரும் முகவரியும் தாருங்கள்.",
+          "en": "Excuse me, your name and address, please."
+        },
+        {
+          "ja": "ご家族は何人ですか。",
+          "reading": "ごかぞくは なんにんですか。",
+          "romaji": "gokazoku wa nannin desu ka.",
+          "ta": "உங்கள் குடும்பத்தில் எத்தனை பேர்?",
+          "en": "How many people are in your family?"
+        },
+        {
+          "ja": "部長、今お忙しいですか。",
+          "reading": "ぶちょう、いま おいそがしいですか。",
+          "romaji": "buchou, ima oisogashii desu ka.",
+          "ta": "துறைத் தலைவரே, இப்போது பரபரப்பாக இருக்கிறீர்களா?",
+          "en": "Are you busy now, sir?"
+        },
+        {
+          "ja": "課長、田中さんからお電話です。",
+          "reading": "かちょう、たなかさんから おでんわです。",
+          "romaji": "kachou, tanaka san kara odenwa desu.",
+          "ta": "பிரிவுத் தலைவரே, தனகா அவர்களிடமிருந்து உங்களுக்குத் தொலைபேசி அழைப்பு.",
+          "en": "Sir, there’s a phone call for you from Mr. Tanaka."
+        },
+        {
+          "ja": "先生のお仕事は何ですか。",
+          "reading": "せんせいの おしごとは なんですか。",
+          "romaji": "sensei no oshigoto wa nan desu ka.",
+          "ta": "ஐயா, உங்கள் பணி என்ன?",
+          "en": "What is your work, sir?"
+        }
+      ],
+      "pitfalls_ta": "'私のお名前はラジャです' என்று உங்கள் பெயருக்கு お சேர்க்காதீர்கள். அதே போல ご名前 ✗, お家族 ✗ — எந்தச் சொல்லுக்கு எது என்பதைச் சொல்லோடு சேர்த்தே மனப்பாடம் செய்யுங்கள்.",
+      "pitfalls_en": "Don’t say 私のお名前 about your own name. Also, ご名前 and お家族 are wrong. Learn each word together with its prefix."
+    }
+  ],
+  "vocab_ids": [
+    "n4-v-057",
+    "n4-v-067",
+    "n4-v-083",
+    "n4-v-121",
+    "n4-v-126",
+    "n4-v-137",
+    "n4-v-145",
+    "n4-v-192",
+    "n4-v-195",
+    "n4-v-199",
+    "n4-v-232",
+    "n4-v-309",
+    "n4-v-347",
+    "n4-v-410",
+    "n4-v-503",
+    "n4-v-524",
+    "n4-v-530",
+    "n4-v-564",
+    "n4-v-584",
+    "n4-v-640"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L26-q01",
+        "type": "kanji_reading",
+        "sentence": "明日の ＿会議＿は 十時からです。",
+        "target": "会議",
+        "options": [
+          "かいき",
+          "かいぎ",
+          "がいぎ",
+          "かいいぎ"
+        ],
+        "answer": 1,
+        "explanation_ta": "会議 = かいぎ (கூட்டம்). 議 என்பது 'ぎ' (கடின ஒலி); かいき என்பது தவறு.",
+        "explanation_en": "会議 = かいぎ (கூட்டம், meeting). 議 is read ぎ, with a hard sound. かいき is wrong."
+      },
+      {
+        "id": "L26-q02",
+        "type": "kanji_reading",
+        "sentence": "＿社長＿は もう お帰りに なりました。",
+        "target": "社長",
+        "options": [
+          "しゃちょう",
+          "しゃちょ",
+          "じゃちょう",
+          "しゃっちょう"
+        ],
+        "answer": 0,
+        "explanation_ta": "社長 = しゃちょう (நிறுவனத் தலைவர்). 長 நீண்ட ஒலி ちょう; しゃちょ என்று குறுக்கக் கூடாது.",
+        "explanation_en": "社長 = しゃちょう (நிறுவனத் தலைவர், company president). 長 has a long sound: ちょう. しゃちょ is too short."
+      },
+      {
+        "id": "L26-q03",
+        "type": "kanji_reading",
+        "sentence": "お客さんの ＿席＿は こちらです。",
+        "target": "席",
+        "options": [
+          "さき",
+          "しき",
+          "せき",
+          "せっき"
+        ],
+        "answer": 2,
+        "explanation_ta": "席 = せき (இருக்கை). さき (முன்பு / முனை) வேறு சொல்.",
+        "explanation_en": "席 = せき (இருக்கை, seat). さき is a different word (ahead, tip)."
+      },
+      {
+        "id": "L26-q04",
+        "type": "orthography",
+        "sentence": "三階の ＿かいぎしつ＿で 待って います。",
+        "target": "かいぎしつ",
+        "options": [
+          "会義室",
+          "回議室",
+          "会議屋",
+          "会議室"
+        ],
+        "answer": 3,
+        "explanation_ta": "かいぎしつ = 会議室 (கூட்ட அறை). 義 (நீதி) அல்ல, 議 (விவாதம்); 屋 (கடை) அல்ல, 室 (அறை).",
+        "explanation_en": "かいぎしつ = 会議室 (கூட்ட அறை, meeting room). Use 議 (discuss), not 義. Use 室 (room), not 屋 (shop)."
+      },
+      {
+        "id": "L26-q05",
+        "type": "orthography",
+        "sentence": "駅の 前に 会社の ＿じむしょ＿が あります。",
+        "target": "じむしょ",
+        "options": [
+          "事務処",
+          "事務所",
+          "時務所",
+          "事努所"
+        ],
+        "answer": 1,
+        "explanation_ta": "じむしょ = 事務所 (அலுவலகம்). 所 = இடம். 処 வடிவம் ஒத்திருந்தாலும் இங்கே தவறு; 時 (நேரம்) பொருந்தாது.",
+        "explanation_en": "じむしょ = 事務所 (அலுவலகம், office). 所 means place. 処 looks similar but is wrong here. 時 (time) doesn’t fit."
+      },
+      {
+        "id": "L26-q06",
+        "type": "vocab_context",
+        "sentence": "部長は お客さんに いつも （　　）な 言葉で 話すので、みんなに 好かれて います。",
+        "options": [
+          "失礼",
+          "下手",
+          "丁寧",
+          "不便"
+        ],
+        "answer": 2,
+        "explanation_ta": "எல்லோரும் விரும்புகிறார்கள் என்பதால் 'மரியாதையான சொற்கள்' = 丁寧な言葉. 失礼な言葉 (மரியாதையற்ற சொற்கள்) என்றால் யாரும் விரும்ப மாட்டார்கள்.",
+        "explanation_en": "Everyone likes him, so he uses \"polite words\": 丁寧な言葉 (மரியாதையான சொற்கள்). With 失礼な言葉 (rude words), nobody would like him."
+      },
+      {
+        "id": "L26-q07",
+        "type": "vocab_context",
+        "sentence": "用事が あるので、明日の 会議には （　　）できません。",
+        "options": [
+          "連絡",
+          "紹介",
+          "約束",
+          "出席"
+        ],
+        "answer": 3,
+        "explanation_ta": "'கூட்டத்தில் கலந்துகொள்ள முடியாது' = 会議に出席できません. 紹介 (அறிமுகம்) கூட்டத்துடன் இப்படி வராது.",
+        "explanation_en": "\"I can’t attend the meeting\" = 会議に出席できません (கலந்துகொள்ள முடியாது). 紹介 (introduction) doesn’t fit with 会議に."
+      },
+      {
+        "id": "L26-q08",
+        "type": "vocab_context",
+        "sentence": "みなさん、今日から この 事務所で 働く ラジャさんを （　　）します。",
+        "options": [
+          "紹介",
+          "出席",
+          "失礼",
+          "見物"
+        ],
+        "answer": 0,
+        "explanation_ta": "புதிய ஊழியரை எல்லோருக்கும் அறிமுகம் செய்வது = 紹介します. 出席します (கலந்துகொள்ளுதல்) ஒருவரை 'を' உடன் எடுக்காது.",
+        "explanation_en": "You introduce a new worker to everyone: 紹介します (அறிமுகம் செய்கிறேன்). 出席します (attend) can’t take a person with を."
+      },
+      {
+        "id": "L26-q09",
+        "type": "vocab_context",
+        "sentence": "会議中に 大きい 声で 電話を するのは （　　）ですよ。",
+        "options": [
+          "丁寧",
+          "上手",
+          "失礼",
+          "便利"
+        ],
+        "answer": 2,
+        "explanation_ta": "கூட்டத்தின் நடுவே சத்தமாகப் போன் பேசுவது மரியாதைக் குறைவு = 失礼. 丁寧 (மரியாதையான) எதிர்ப் பொருள்.",
+        "explanation_en": "Talking loudly on the phone in a meeting is rude: 失礼 (மரியாதைக் குறைவு). 丁寧 (polite) is the opposite."
+      },
+      {
+        "id": "L26-q10",
+        "type": "vocab_context",
+        "sentence": "この 会社の 社（　　）は 百人ぐらいです。",
+        "options": [
+          "員",
+          "長",
+          "者",
+          "室"
+        ],
+        "answer": 0,
+        "explanation_ta": "நிறுவன ஊழியர்கள் = 社員. 社長 (தலைவர்) ஒருவர் மட்டுமே; 'நூறு பேர்' என்பதால் பொருந்தாது.",
+        "explanation_en": "Company staff = 社員 (நிறுவன ஊழியர்கள்). There is only one 社長 (president), so \"about 100 people\" doesn’t fit."
+      },
+      {
+        "id": "L26-q11",
+        "type": "paraphrase",
+        "sentence": "部長は 今、会議室に いらっしゃいます。",
+        "options": [
+          "部長は 今、会議室を 出ました。",
+          "部長は 今、会議室に います。",
+          "部長は 今、会議室を 見て います。",
+          "部長は 今、会議室で 食べて います。"
+        ],
+        "answer": 1,
+        "explanation_ta": "இங்கே いらっしゃいます = います (இருக்கிறார்). 出ました (வெளியேறினார்) எதிர்ப் பொருள்; 見る-வின் மரியாதைச் சொல் ご覧になる.",
+        "explanation_en": "Here いらっしゃいます = います (இருக்கிறார், is there). 出ました (left) means the opposite. The respectful word for 見る is ご覧になる."
+      },
+      {
+        "id": "L26-q12",
+        "type": "paraphrase",
+        "sentence": "先生は 何と おっしゃいましたか。",
+        "options": [
+          "先生は 何を 見ましたか。",
+          "先生は 何を 食べましたか。",
+          "先生は 何を しましたか。",
+          "先生は 何と 言いましたか。"
+        ],
+        "answer": 3,
+        "explanation_ta": "おっしゃる = 言う (சொல்லுதல்). する-வின் மரியாதைச் சொல் なさる; おっしゃる அல்ல.",
+        "explanation_en": "おっしゃる = 言う (சொல்ல, to say). The respectful word for する is なさる, not おっしゃる."
+      },
+      {
+        "id": "L26-q13",
+        "type": "usage",
+        "sentence": "召し上がる",
+        "options": [
+          "私は 毎朝 パンを 召し上がります。",
+          "先生は 毎朝 新聞を 召し上がります。",
+          "どうぞ、温かい スープを 召し上がって ください。",
+          "社長、この 写真を 召し上がりましたか。"
+        ],
+        "answer": 2,
+        "explanation_ta": "召し上がる = மற்றவர் சாப்பிடுவது / அருந்துவது. விருந்தினரிடம் 'சூப் அருந்துங்கள்' என்பது சரி. 私は〜召し上がります தவறு: உங்கள் சொந்தச் செயலுக்கு மரியாதைச் சொல் வராது.",
+        "explanation_en": "召し上がる = someone else eats or drinks (சாப்பிட / அருந்த). Offering soup to a guest is right. 私は召し上がります is wrong. Never use a respectful verb for yourself."
+      },
+      {
+        "id": "L26-q14",
+        "type": "usage",
+        "sentence": "丁寧",
+        "options": [
+          "丁寧な 雨が たくさん 降って います。",
+          "この 子は いつも 字を 丁寧に 書きます。",
+          "駅は ここから 丁寧な ところに あります。",
+          "この カレーは とても 丁寧で おいしいです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "丁寧 = கவனமான / மரியாதையான; மனிதர் செய்யும் செயலைப் பற்றியது. 'எழுத்துகளைக் கவனமாக எழுதுகிறான்' சரி. மழை, இடம், உணவு ஆகியவற்றுக்கு 丁寧 வராது.",
+        "explanation_en": "丁寧 = careful or polite (கவனமான). It describes how a person does something. \"This child writes letters carefully\" is right. Rain, places and food can’t be 丁寧."
+      },
+      {
+        "id": "L26-q15",
+        "type": "grammar_form",
+        "sentence": "社長は もう お帰りに （　　）。",
+        "options": [
+          "しました",
+          "なりました",
+          "ありました",
+          "いました"
+        ],
+        "answer": 1,
+        "explanation_ta": "மரியாதை வடிவம்: お + stem + になります → お帰りになりました. お帰りしました என்பது பணிவு வடிவம் (தன் செயலுக்கு); இங்கே தலைவரின் செயல் என்பதால் தவறு.",
+        "explanation_en": "Respectful form: お + stem + になります → お帰りになりました (திரும்பிவிட்டார், has gone home). お帰りしました is the humble form for your own actions. It is wrong for the president."
+      },
+      {
+        "id": "L26-q16",
+        "type": "grammar_form",
+        "sentence": "先生は 週末 何を （　　）か。",
+        "options": [
+          "なさります",
+          "されります",
+          "なさいます",
+          "おしになります"
+        ],
+        "answer": 2,
+        "explanation_ta": "なさる-வின் ます-வடிவம் ஒழுங்கற்றது: なさいます. なさります என்பது பொதுவான தவறு.",
+        "explanation_en": "The ます-form of なさる is special: なさいます (செய்வீர்கள், will you do). なさります is a common mistake."
+      },
+      {
+        "id": "L26-q17",
+        "type": "grammar_form",
+        "sentence": "部長、明日は 何時に 会社へ （　　）か。",
+        "options": [
+          "来られます",
+          "来させます",
+          "来させられます",
+          "来たがります"
+        ],
+        "answer": 0,
+        "explanation_ta": "மேலதிகாரியிடம் 'எத்தனை மணிக்கு வருவீர்கள்?' என்று மரியாதையுடன் கேட்பது = 来られますか. 来させます என்பது 'வர வைக்கிறேன்' (காரண வடிவம்) — பொருள் வேறு.",
+        "explanation_en": "Asking your boss \"what time will you come?\" with respect = 来られますか (வருவீர்கள்). 来させます means \"make someone come\". The meaning is different."
+      },
+      {
+        "id": "L26-q18",
+        "type": "grammar_form",
+        "sentence": "どうぞ、こちらに お（　　） ください。",
+        "options": [
+          "かけて",
+          "かけに",
+          "かける",
+          "かけ"
+        ],
+        "answer": 3,
+        "explanation_ta": "お + ます-stem + ください → おかけください (அமருங்கள்). お-வுடன் て-வடிவம் (おかけて) வராது.",
+        "explanation_en": "お + ます-stem + ください → おかけください (அமருங்கள், please sit). Don’t use the て-form after お (おかけて is wrong)."
+      },
+      {
+        "id": "L26-q19",
+        "type": "grammar_form",
+        "sentence": "明日の 説明会に （　　）ください。",
+        "options": [
+          "ご出席",
+          "お出席",
+          "ご出席に",
+          "出席に"
+        ],
+        "answer": 0,
+        "explanation_ta": "出席 சீன மூலச் சொல் (する-வினை) என்பதால் ご + 出席 + ください. お出席 என்று சொல்ல மாட்டோம்.",
+        "explanation_en": "出席 is a Chinese-style する word, so use ご: ご出席ください (தயவுசெய்து கலந்துகொள்ளுங்கள்). お出席 is wrong."
+      },
+      {
+        "id": "L26-q20",
+        "type": "grammar_form",
+        "sentence": "すみません、（　　）を 教えて いただけませんか。",
+        "options": [
+          "ご名前",
+          "名前さん",
+          "お名前",
+          "ご名前さん"
+        ],
+        "answer": 2,
+        "explanation_ta": "名前 ஜப்பானிய மூலச் சொல் என்பதால் お名前. ご名前 என்பது தவறு; 〜さん பெயர்ச்சொல்லுக்கு வராது.",
+        "explanation_en": "名前 is a Japanese-origin word, so it takes お: お名前 (உங்கள் பெயர், your name). ご名前 is wrong, and さん can’t go on this noun."
+      },
+      {
+        "id": "L26-q21",
+        "type": "grammar_form",
+        "sentence": "社長、この 写真を もう （　　）か。",
+        "options": [
+          "お見になりました",
+          "ご覧になりました",
+          "ご覧しました",
+          "見させました"
+        ],
+        "answer": 1,
+        "explanation_ta": "見る-வின் மரியாதைச் சொல் ご覧になる → ご覧になりました. 見 ஒரு எழுத்து stem என்பதால் お見になる வராது.",
+        "explanation_en": "The respectful word for 見る is ご覧になる → ご覧になりました (பார்த்தீர்களா, have you seen). 見 is too short a stem, so お見になる is wrong."
+      },
+      {
+        "id": "L26-q22",
+        "type": "sentence_order",
+        "before": "部長は",
+        "chunks": [
+          "今",
+          "会議室に",
+          "いらっしゃる",
+          "と"
+        ],
+        "star": 2,
+        "after": "思います。",
+        "explanation_ta": "சரியான வாக்கியம்: 部長は今会議室にいらっしゃると思います (துறைத் தலைவர் இப்போது கூட்ட அறையில் இருப்பார் என்று நினைக்கிறேன்). と思います-க்கு முன் சாதாரண வடிவம் いらっしゃる.",
+        "explanation_en": "The sentence: 部長は今会議室にいらっしゃると思います (I think the manager is in the meeting room now). Before と思います, use the plain form いらっしゃる."
+      },
+      {
+        "id": "L26-q23",
+        "type": "sentence_order",
+        "before": "先生、",
+        "chunks": [
+          "温かい",
+          "コーヒーを",
+          "召し上がり",
+          "ませんか"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "சரியான வாக்கியம்: 先生、温かいコーヒーを召し上がりませんか (ஆசிரியரே, சூடான காபி அருந்துகிறீர்களா?). பெயரடை 温かい பெயர்ச்சொல்லுக்கு முன்.",
+        "explanation_en": "The sentence: 先生、温かいコーヒーを召し上がりませんか (Sir, won’t you have some hot coffee?). The adjective 温かい comes before the noun."
+      },
+      {
+        "id": "L26-q24",
+        "type": "sentence_order",
+        "before": "ここが",
+        "chunks": [
+          "社長が",
+          "いつも",
+          "おっしゃる",
+          "レストラン"
+        ],
+        "star": 2,
+        "after": "です。",
+        "explanation_ta": "சரியான வாக்கியம்: ここが社長がいつもおっしゃるレストランです (தலைவர் எப்போதும் சொல்லும் உணவகம் இதுதான்). 社長がいつもおっしゃる என்ற தொடர் レストラン-ஐ விவரிக்கிறது.",
+        "explanation_en": "The sentence: ここが社長がいつもおっしゃるレストランです (This is the restaurant the president always talks about). 社長がいつもおっしゃる describes レストラン."
+      },
+      {
+        "id": "L26-q25",
+        "type": "passage_cloze",
+        "passage": "今日、インドから 大切な お客さんが 来ました。社長が 会議室で お客さんを みんなに ［1］。お客さんは 「日本の お茶が 大好きです」と おっしゃって、おいしそうに ［2］。会議の あと、社長は 六時ごろ ［3］。",
+        "blanks": [
+          {
+            "options": [
+              "紹介しました",
+              "出席しました",
+              "失礼しました",
+              "召し上がりました"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "いらっしゃいました",
+              "おっしゃいました",
+              "召し上がりました",
+              "なさいました"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "お帰りしました",
+              "お帰りになりました",
+              "お帰りください",
+              "帰られください"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ வாடிக்கையாளரை எல்லோருக்கும் அறிமுகம் செய்தார் → 紹介しました. ［2］ வாடிக்கையாளர் தேநீர் அருந்தினார் → 召し上がりました (மரியாதை). ［3］ தலைவர் வீடு திரும்பினார் → お帰りになりました; お帰りしました பணிவு வடிவம், தலைவருக்குப் பொருந்தாது.",
+        "explanation_en": "[1] The president introduced the guest to everyone → 紹介しました (அறிமுகம் செய்தார்). [2] The guest drank the tea → 召し上がりました (அருந்தினார், respectful). [3] The president went home → お帰りになりました. お帰りしました is humble and wrong for the president."
+      }
+    ]
+  }
+}

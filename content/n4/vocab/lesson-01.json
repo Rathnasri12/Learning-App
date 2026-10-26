@@ -1,0 +1,398 @@
+[
+  {
+    "id": "n4-v-014",
+    "expression": "やはり; やっぱり",
+    "reading": "やはり; やっぱり",
+    "romaji": "yahari;yappari",
+    "en": "as expected; after all",
+    "ta": "எதிர்பார்த்தபடியே; கடைசியில்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "やっぱり この 店の カレーが 一番 おいしいです。",
+        "reading": "やっぱり この みせの カレーが いちばん おいしいです。",
+        "romaji": "yappari kono mise no karee ga ichiban oishii desu.",
+        "ta": "கடைசியில், இந்தக் கடையின் கறிதான் மிகவும் சுவையானது.",
+        "en": "After all, this shop's curry is the best."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-037",
+    "expression": "心配",
+    "reading": "しんぱい",
+    "romaji": "shinpai",
+    "en": "worry; to worry",
+    "ta": "கவலை; கவலைப்பட",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は いつも 私の ことを 心配して います。",
+        "reading": "ははは いつも わたしの ことを しんぱいして います。",
+        "romaji": "haha wa itsumo watashi no koto o shinpai shite imasu.",
+        "ta": "அம்மா எப்போதும் என்னைப் பற்றிக் கவலைப்படுகிறார்.",
+        "en": "My mother always worries about me."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-049",
+    "expression": "だめ",
+    "reading": "だめ",
+    "romaji": "dame",
+    "en": "no good; not allowed",
+    "ta": "கூடாது; சரியில்லாத",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "ここで たばこを 吸っては だめです。",
+        "reading": "ここで たばこを すっては だめです。",
+        "romaji": "koko de tabako o sutte wa dame desu.",
+        "ta": "இங்கே புகைபிடிக்கக் கூடாது.",
+        "en": "You must not smoke here."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-069",
+    "expression": "大事",
+    "reading": "だいじ",
+    "romaji": "daiji",
+    "en": "important; precious",
+    "ta": "முக்கியமான; அருமையான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "これは 祖母に もらった 大事な 時計です。",
+        "reading": "これは そぼに もらった だいじな とけいです。",
+        "romaji": "kore wa sobo ni moratta daiji na tokei desu.",
+        "ta": "இது பாட்டியிடமிருந்து கிடைத்த அருமையான கடிகாரம்.",
+        "en": "This is a precious watch I got from my grandmother."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-077",
+    "expression": "そう",
+    "reading": "そう",
+    "romaji": "sou",
+    "en": "so; like that",
+    "ta": "அப்படி",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "「明日は 休みですよ。」「そうですか。」",
+        "reading": "「あしたは やすみですよ。」「そうですか。」",
+        "romaji": "\"ashita wa yasumi desu yo.\" \"sou desu ka.\"",
+        "ta": "\"நாளை விடுமுறை.\" \"அப்படியா?\"",
+        "en": "\"Tomorrow is a holiday.\" \"Oh, really?\""
+      }
+    ]
+  },
+  {
+    "id": "n4-v-134",
+    "expression": "だから",
+    "reading": "だから",
+    "romaji": "dakara",
+    "en": "so; that's why",
+    "ta": "அதனால்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "昨日 寝坊しました。だから、学校に 遅れました。",
+        "reading": "きのう ねぼうしました。だから、がっこうに おくれました。",
+        "romaji": "kinou nebou shimashita. dakara, gakkou ni okuremashita.",
+        "ta": "நேற்று அதிக நேரம் தூங்கிவிட்டேன். அதனால் பள்ளிக்குத் தாமதமாகப் போனேன்.",
+        "en": "I overslept yesterday. So I was late for school."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-135",
+    "expression": "残念",
+    "reading": "ざんねん",
+    "romaji": "zannen",
+    "en": "a pity; disappointing",
+    "ta": "வருத்தமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "雨で 試合が なくなって、残念でした。",
+        "reading": "あめで しあいが なくなって、ざんねんでした。",
+        "romaji": "ame de shiai ga nakunatte, zannen deshita.",
+        "ta": "மழையால் போட்டி ரத்தானது வருத்தமாக இருந்தது.",
+        "en": "It was a pity the match was cancelled because of rain."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-153",
+    "expression": "用事",
+    "reading": "ようじ",
+    "romaji": "youji",
+    "en": "errand; something to do",
+    "ta": "செய்ய வேண்டிய வேலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、今日は 用事が あるんです。",
+        "reading": "すみません、きょうは ようじが あるんです。",
+        "romaji": "sumimasen, kyou wa youji ga aru n desu.",
+        "ta": "மன்னிக்கவும், இன்று எனக்கு ஒரு வேலை இருக்கிறது.",
+        "en": "Sorry, I have something to do today."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-161",
+    "expression": "気分",
+    "reading": "きぶん",
+    "romaji": "kibun",
+    "en": "feeling; mood",
+    "ta": "மனநிலை; உடல் உணர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "気分が 悪いんですか。少し 休んで ください。",
+        "reading": "きぶんが わるいんですか。すこし やすんで ください。",
+        "romaji": "kibun ga warui n desu ka. sukoshi yasunde kudasai.",
+        "ta": "உடம்புக்கு முடியவில்லையா? கொஞ்சம் ஓய்வெடுங்கள்.",
+        "en": "Are you feeling unwell? Please rest a little."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-182",
+    "expression": "寝坊",
+    "reading": "ねぼう",
+    "romaji": "nebou",
+    "en": "oversleeping",
+    "ta": "அதிக நேரம் தூங்குதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今朝は 寝坊して、朝ごはんを 食べませんでした。",
+        "reading": "けさは ねぼうして、あさごはんを たべませんでした。",
+        "romaji": "kesa wa nebou shite, asagohan o tabemasen deshita.",
+        "ta": "இன்று காலை அதிக நேரம் தூங்கிவிட்டதால் காலை உணவு சாப்பிடவில்லை.",
+        "en": "I overslept this morning and didn't eat breakfast."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-271",
+    "expression": "用",
+    "reading": "よう",
+    "romaji": "you",
+    "en": "business; something to do",
+    "ta": "காரியம்; வேலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生、ちょっと 用が あるんですが、今 いいですか。",
+        "reading": "せんせい、ちょっと ようが あるんですが、いま いいですか。",
+        "romaji": "sensei, chotto you ga aru n desu ga, ima ii desu ka.",
+        "ta": "ஐயா, ஒரு சின்ன விஷயம் இருக்கிறது, இப்போது பேசலாமா?",
+        "en": "Sir, I need something. Is now a good time?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-332",
+    "expression": "都合",
+    "reading": "つごう",
+    "romaji": "tsugou",
+    "en": "convenience; schedule",
+    "ta": "வசதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "金曜日は 都合が 悪いんです。",
+        "reading": "きんようびは つごうが わるいんです。",
+        "romaji": "kin'youbi wa tsugou ga warui n desu.",
+        "ta": "வெள்ளிக்கிழமை எனக்கு வசதிப்படாது.",
+        "en": "Friday isn't convenient for me."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-355",
+    "expression": "理由",
+    "reading": "りゆう",
+    "romaji": "riyuu",
+    "en": "reason",
+    "ta": "காரணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "遅れた 理由を 教えて ください。",
+        "reading": "おくれた りゆうを おしえて ください。",
+        "romaji": "okureta riyuu o oshiete kudasai.",
+        "ta": "தாமதமானதற்கான காரணத்தைச் சொல்லுங்கள்.",
+        "en": "Please tell me why you were late."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-399",
+    "expression": "しばらく",
+    "reading": "しばらく",
+    "romaji": "shibaraku",
+    "en": "for a while",
+    "ta": "சிறிது நேரம்; கொஞ்ச காலம்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "しばらく ここで 待って いて ください。",
+        "reading": "しばらく ここで まって いて ください。",
+        "romaji": "shibaraku koko de matte ite kudasai.",
+        "ta": "சிறிது நேரம் இங்கே காத்திருங்கள்.",
+        "en": "Please wait here for a while."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-446",
+    "expression": "帰り",
+    "reading": "かえり",
+    "romaji": "kaeri",
+    "en": "the way home; return",
+    "ta": "திரும்பும் வழி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会社の 帰りに スーパーで 野菜を 買いました。",
+        "reading": "かいしゃの かえりに スーパーで やさいを かいました。",
+        "romaji": "kaisha no kaeri ni suupaa de yasai o kaimashita.",
+        "ta": "அலுவலகத்திலிருந்து திரும்பும் வழியில் சூப்பர்மார்க்கெட்டில் காய்கறி வாங்கினேன்.",
+        "en": "On my way home from work, I bought vegetables at the supermarket."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-480",
+    "expression": "訳",
+    "reading": "わけ",
+    "romaji": "wake",
+    "en": "reason; meaning",
+    "ta": "காரணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼が 怒って いる 訳が わかりません。",
+        "reading": "かれが おこって いる わけが わかりません。",
+        "romaji": "kare ga okotte iru wake ga wakarimasen.",
+        "ta": "அவர் ஏன் கோபமாக இருக்கிறார் என்று காரணம் புரியவில்லை.",
+        "en": "I don't understand why he is angry."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-493",
+    "expression": "なるほど",
+    "reading": "なるほど",
+    "romaji": "naruhodo",
+    "en": "I see",
+    "ta": "ஓ, புரிகிறது",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "「この ボタンを 押すんです。」「なるほど、わかりました。」",
+        "reading": "「この ボタンを おすんです。」「なるほど、わかりました。」",
+        "romaji": "\"kono botan o osu n desu.\" \"naruhodo, wakarimashita.\"",
+        "ta": "\"இந்தப் பொத்தானை அழுத்த வேண்டும்.\" \"ஓ, புரிந்தது.\"",
+        "en": "\"You press this button.\" \"I see, got it.\""
+      }
+    ]
+  },
+  {
+    "id": "n4-v-519",
+    "expression": "久しぶり",
+    "reading": "ひさしぶり",
+    "romaji": "hisashiburi",
+    "en": "after a long time",
+    "ta": "நீண்ட நாளுக்குப் பிறகு",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "久しぶりですね。お元気ですか。",
+        "reading": "ひさしぶりですね。おげんきですか。",
+        "romaji": "hisashiburi desu ne. ogenki desu ka.",
+        "ta": "பார்த்து ரொம்ப நாளாகிவிட்டது! நலமாக இருக்கிறீர்களா?",
+        "en": "Long time no see. How are you?"
+      }
+    ]
+  },
+  {
+    "id": "n4-v-522",
+    "expression": "遅れる",
+    "reading": "おくれる",
+    "romaji": "okureru",
+    "en": "to be late",
+    "ta": "தாமதமாக",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "道が 込んで いて、約束の 時間に 遅れました。",
+        "reading": "みちが こんで いて、やくそくの じかんに おくれました。",
+        "romaji": "michi ga konde ite, yakusoku no jikan ni okuremashita.",
+        "ta": "சாலையில் நெரிசல் இருந்ததால் சந்திப்பு நேரத்துக்குத் தாமதமாகிவிட்டது.",
+        "en": "The road was crowded, so I was late for my appointment."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-537",
+    "expression": "約束",
+    "reading": "やくそく",
+    "romaji": "yakusoku",
+    "en": "promise; appointment",
+    "ta": "வாக்குறுதி; சந்திப்பு ஏற்பாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "友達と 六時に 駅で 会う 約束を しました。",
+        "reading": "ともだちと ろくじに えきで あう やくそくを しました。",
+        "romaji": "tomodachi to rokuji ni eki de au yakusoku o shimashita.",
+        "ta": "நண்பருடன் ஆறு மணிக்கு ஸ்டேஷனில் சந்திக்க ஏற்பாடு செய்தேன்.",
+        "en": "I arranged to meet a friend at the station at six."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-565",
+    "expression": "眠い",
+    "reading": "ねむい",
+    "romaji": "nemui",
+    "en": "sleepy",
+    "ta": "தூக்கக் கலக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "昨日 遅くまで 勉強したので、とても 眠いんです。",
+        "reading": "きのう おそくまで べんきょうしたので、とても ねむいんです。",
+        "romaji": "kinou osoku made benkyou shita node, totemo nemui n desu.",
+        "ta": "நேற்று வெகுநேரம் வரை படித்ததால் ரொம்பத் தூக்கமாக இருக்கிறது.",
+        "en": "I studied until late yesterday, so I'm very sleepy."
+      }
+    ]
+  },
+  {
+    "id": "n4-v-632",
+    "expression": "眠る",
+    "reading": "ねむる",
+    "romaji": "nemuru",
+    "en": "to sleep",
+    "ta": "உறங்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "赤ちゃんが 静かに 眠って います。",
+        "reading": "あかちゃんが しずかに ねむって います。",
+        "romaji": "akachan ga shizuka ni nemutte imasu.",
+        "ta": "குழந்தை அமைதியாக உறங்கிக்கொண்டிருக்கிறது.",
+        "en": "The baby is sleeping quietly."
+      }
+    ]
+  }
+]
