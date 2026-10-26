@@ -1,0 +1,194 @@
+[
+  {
+    "id": "n5-b-16-01",
+    "expression": "髪",
+    "reading": "かみ",
+    "en": "hair (on the head)",
+    "ta": "தலைமுடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "妹は 髪が 長いです。",
+        "reading": "いもうとは かみが ながいです。",
+        "ta": "என் தங்கைக்கு முடி நீளமாக இருக்கிறது.",
+        "en": "My younger sister has long hair."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-02",
+    "expression": "首",
+    "reading": "くび",
+    "en": "neck",
+    "ta": "கழுத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは 首が 長いです。",
+        "reading": "たなかさんは くびが ながいです。",
+        "ta": "தனகா அவர்களுக்குக் கழுத்து நீளமானது.",
+        "en": "Mr. Tanaka has a long neck."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-03",
+    "expression": "肩",
+    "reading": "かた",
+    "en": "shoulder",
+    "ta": "தோள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は 肩が 広いです。",
+        "reading": "ちちは かたが ひろいです。",
+        "ta": "என் அப்பாவின் தோள்கள் அகலமானவை.",
+        "en": "My father has broad shoulders."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-04",
+    "expression": "指",
+    "reading": "ゆび",
+    "en": "finger",
+    "ta": "விரல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は 指が 細くて、長いです。",
+        "reading": "あねは ゆびが ほそくて、ながいです。",
+        "ta": "என் அக்காவின் விரல்கள் மெலிதாகவும் நீளமாகவும் இருக்கின்றன.",
+        "en": "My older sister's fingers are thin and long."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-05",
+    "expression": "背中",
+    "reading": "せなか",
+    "en": "back (of the body)",
+    "ta": "முதுகு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "背中が 痛いです。",
+        "reading": "せなかが いたいです。",
+        "ta": "எனக்கு முதுகு வலிக்கிறது.",
+        "en": "My back hurts."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-06",
+    "expression": "かっこいい",
+    "reading": "かっこいい",
+    "en": "cool; good-looking",
+    "ta": "ஸ்டைலான (அழகான தோற்றமுள்ள)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "兄は 背が 高くて、かっこいいです。",
+        "reading": "あには せが たかくて、かっこいいです。",
+        "ta": "என் அண்ணன் உயரமாகவும் ஸ்டைலாகவும் இருக்கிறார்.",
+        "en": "My older brother is tall and good-looking."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-07",
+    "expression": "乗り換える",
+    "reading": "のりかえる",
+    "en": "to change (trains, buses)",
+    "ta": "(ரயில், பஸ்) மாறு",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "次の 駅で 乗り換えて ください。",
+        "reading": "つぎの えきで のりかえて ください。",
+        "ta": "அடுத்த நிலையத்தில் ரயில் மாறுங்கள்.",
+        "en": "Please change trains at the next station."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-08",
+    "expression": "引き出す",
+    "reading": "ひきだす",
+    "en": "to withdraw (money)",
+    "ta": "(பணம்) எடு",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "銀行で お金を 引き出してから、買い物に 行きます。",
+        "reading": "ぎんこうで おかねを ひきだしてから、かいものに いきます。",
+        "ta": "வங்கியில் பணம் எடுத்த பிறகு, கடைக்குப் போகிறேன்.",
+        "en": "I'll withdraw money at the bank and then go shopping."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-09",
+    "expression": "暗証番号",
+    "reading": "あんしょうばんごう",
+    "en": "PIN (personal number)",
+    "ta": "ரகசிய எண் (PIN)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暗証番号を 入れて ください。",
+        "reading": "あんしょうばんごうを いれて ください。",
+        "ta": "ரகசிய எண்ணை உள்ளிடுங்கள்.",
+        "en": "Please enter your PIN."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-10",
+    "expression": "口座",
+    "reading": "こうざ",
+    "en": "bank account",
+    "ta": "வங்கிக் கணக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "銀行で 口座を 作りたいです。",
+        "reading": "ぎんこうで こうざを つくりたいです。",
+        "ta": "வங்கியில் ஒரு கணக்கு தொடங்க விரும்புகிறேன்.",
+        "en": "I want to open an account at the bank."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-11",
+    "expression": "ホーム",
+    "reading": "ホーム",
+    "en": "(station) platform",
+    "ta": "நடைமேடை (பிளாட்ஃபார்ம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ホームで 電車を 待って います。",
+        "reading": "ホームで でんしゃを まって います。",
+        "ta": "நடைமேடையில் ரயிலுக்காகக் காத்திருக்கிறேன்.",
+        "en": "I am waiting for the train on the platform."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-16-12",
+    "expression": "改札",
+    "reading": "かいさつ",
+    "en": "ticket gate",
+    "ta": "டிக்கெட் சோதனை வாயில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "改札を 出て、右へ 曲がって ください。",
+        "reading": "かいさつを でて、みぎへ まがって ください。",
+        "ta": "டிக்கெட் வாயிலிலிருந்து வெளியே வந்து, வலது பக்கம் திரும்புங்கள்.",
+        "en": "Go out through the ticket gate and turn right."
+      }
+    ]
+  }
+]

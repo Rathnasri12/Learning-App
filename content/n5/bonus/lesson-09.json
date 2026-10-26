@@ -1,0 +1,258 @@
+[
+  {
+    "id": "n5-b-09-01",
+    "expression": "趣味",
+    "reading": "しゅみ",
+    "en": "hobby",
+    "ta": "பொழுதுபோக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の 趣味は 音楽です。",
+        "reading": "わたしの しゅみは おんがくです。",
+        "ta": "என் பொழுதுபோக்கு இசை.",
+        "en": "My hobby is music."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-02",
+    "expression": "ダンス",
+    "reading": "ダンス",
+    "en": "dance, dancing",
+    "ta": "நடனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "妹は ダンスが 上手です。",
+        "reading": "いもうとは ダンスが じょうずです。",
+        "ta": "என் தங்கை நன்றாக நடனமாடுவாள்.",
+        "en": "My younger sister is good at dancing."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-03",
+    "expression": "ピアノ",
+    "reading": "ピアノ",
+    "en": "piano",
+    "ta": "பியானோ",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は ピアノが とても 上手です。",
+        "reading": "あねは ピアノが とても じょうずです。",
+        "ta": "என் அக்கா பியானோ வாசிப்பதில் மிகவும் திறமையானவர்.",
+        "en": "My older sister is very good at the piano."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-04",
+    "expression": "歌手",
+    "reading": "かしゅ",
+    "en": "singer",
+    "ta": "பாடகர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの 歌手が 大好きです。",
+        "reading": "あの かしゅが だいすきです。",
+        "ta": "அந்தப் பாடகரை எனக்கு மிகவும் பிடிக்கும்.",
+        "en": "I really love that singer."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-05",
+    "expression": "運動",
+    "reading": "うんどう",
+    "en": "exercise, physical activity",
+    "ta": "உடற்பயிற்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は 運動が あまり 好きじゃありません。",
+        "reading": "わたしは うんどうが あまり すきじゃありません。",
+        "ta": "எனக்கு உடற்பயிற்சி அவ்வளவாகப் பிடிக்காது.",
+        "en": "I don't like exercise very much."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-06",
+    "expression": "水泳",
+    "reading": "すいえい",
+    "en": "swimming",
+    "ta": "நீச்சல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は 水泳が 上手です。",
+        "reading": "あには すいえいが じょうずです。",
+        "ta": "என் அண்ணன் நீச்சலில் திறமையானவர்.",
+        "en": "My older brother is good at swimming."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-07",
+    "expression": "漫画",
+    "reading": "まんが",
+    "en": "manga, comics",
+    "ta": "மாங்கா (ஜப்பானிய படக்கதை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "漫画が 好きですから、よく 読みます。",
+        "reading": "まんがが すきですから、よく よみます。",
+        "ta": "மாங்கா பிடிக்கும் என்பதால் அடிக்கடி படிக்கிறேன்.",
+        "en": "I like manga, so I read it often."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-08",
+    "expression": "アニメ",
+    "reading": "アニメ",
+    "en": "anime, animation",
+    "ta": "அனிமே (ஜப்பானிய கார்ட்டூன்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の アニメが 大好きです。",
+        "reading": "にほんの アニメが だいすきです。",
+        "ta": "ஜப்பானிய அனிமே எனக்கு மிகவும் பிடிக்கும்.",
+        "en": "I really love Japanese anime."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-09",
+    "expression": "ドラマ",
+    "reading": "ドラマ",
+    "en": "TV drama, series",
+    "ta": "தொலைக்காட்சித் தொடர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は テレビの ドラマが 好きです。",
+        "reading": "ははは テレビの ドラマが すきです。",
+        "ta": "அம்மாவுக்குத் தொலைக்காட்சித் தொடர் பிடிக்கும்.",
+        "en": "My mother likes TV dramas."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-10",
+    "expression": "得意",
+    "reading": "とくい",
+    "en": "good at, strong point",
+    "ta": "கைவந்த, திறமையான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は 料理が 得意です。",
+        "reading": "わたしは りょうりが とくいです。",
+        "ta": "சமையல் எனக்கு நன்றாக வரும்.",
+        "en": "Cooking is my strong point."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-11",
+    "expression": "苦手",
+    "reading": "にがて",
+    "en": "weak at, not good with",
+    "ta": "கைவராத, சரியாக வராத",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は 歌が 苦手です。",
+        "reading": "わたしは うたが にがてです。",
+        "ta": "பாடுவது எனக்குச் சரியாக வராது.",
+        "en": "I am not good at singing."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-12",
+    "expression": "全然",
+    "reading": "ぜんぜん",
+    "en": "not at all (with negative)",
+    "ta": "கொஞ்சம்கூட (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "漢字が 全然 わかりません。",
+        "reading": "かんじが ぜんぜん わかりません。",
+        "ta": "எனக்குக் காஞ்சி கொஞ்சம்கூடப் புரியாது.",
+        "en": "I don't understand kanji at all."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-13",
+    "expression": "だいたい",
+    "reading": "だいたい",
+    "en": "mostly, roughly",
+    "ta": "பெரும்பாலும், ஏறக்குறைய",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "日本語が だいたい わかります。",
+        "reading": "にほんごが だいたい わかります。",
+        "ta": "ஜப்பானிய மொழி பெரும்பாலும் புரிகிறது.",
+        "en": "I mostly understand Japanese."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-14",
+    "expression": "約束",
+    "reading": "やくそく",
+    "en": "promise, appointment",
+    "ta": "வாக்குறுதி; சந்திப்பு ஏற்பாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は 約束が ありますから、行きません。",
+        "reading": "きょうは やくそくが ありますから、いきません。",
+        "ta": "இன்று ஒரு சந்திப்பு ஏற்பாடு இருப்பதால் போகமாட்டேன்.",
+        "en": "I have an appointment today, so I won't go."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-15",
+    "expression": "用事",
+    "reading": "ようじ",
+    "en": "errand, something to do",
+    "ta": "(செய்ய வேண்டிய) வேலை, அலுவல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日は 用事が あります。",
+        "reading": "あしたは ようじが あります。",
+        "ta": "நாளை எனக்கு ஒரு வேலை இருக்கிறது.",
+        "en": "I have something to do tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-09-16",
+    "expression": "字",
+    "reading": "じ",
+    "en": "written character; handwriting",
+    "ta": "எழுத்து; கையெழுத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは 字が 上手です。",
+        "reading": "たなかさんは じが じょうずです。",
+        "ta": "தனகா அவர்களின் கையெழுத்து அழகாக இருக்கும்.",
+        "en": "Mr. Tanaka has nice handwriting."
+      }
+    ]
+  }
+]

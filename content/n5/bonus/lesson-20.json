@@ -1,0 +1,194 @@
+[
+  {
+    "id": "n5-b-20-01",
+    "expression": "彼氏",
+    "reading": "かれし",
+    "en": "boyfriend",
+    "ta": "காதலன் (பாய்ஃப்ரெண்ட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼氏 いる？",
+        "reading": "かれし いる？",
+        "ta": "உனக்குக் காதலன் இருக்கிறானா?",
+        "en": "Do you have a boyfriend?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-02",
+    "expression": "先輩",
+    "reading": "せんぱい",
+    "en": "senior (at school or work)",
+    "ta": "மூத்தவர் (சீனியர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日 先輩に 会う。",
+        "reading": "あした せんぱいに あう。",
+        "ta": "நாளை சீனியரைச் சந்திக்கிறேன்.",
+        "en": "I'm meeting my senior tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-03",
+    "expression": "後輩",
+    "reading": "こうはい",
+    "en": "junior (at school or work)",
+    "ta": "இளையவர் (ஜூனியர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "後輩と 昼ご飯を 食べた。",
+        "reading": "こうはいと ひるごはんを たべた。",
+        "ta": "ஜூனியருடன் மதிய உணவு சாப்பிட்டேன்.",
+        "en": "I had lunch with my junior."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-04",
+    "expression": "悲しい",
+    "reading": "かなしい",
+    "en": "sad",
+    "ta": "சோகமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "その 映画、悲しかったね。",
+        "reading": "その えいが、かなしかったね。",
+        "ta": "அந்தப் படம் சோகமாக இருந்தது, இல்லையா?",
+        "en": "That film was sad, wasn't it?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-05",
+    "expression": "お腹が空く",
+    "reading": "おなかがすく",
+    "en": "to get hungry",
+    "ta": "பசி எடு",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "お腹 空いた？ うん、すごく 空いた。",
+        "reading": "おなか すいた？ うん、すごく すいた。",
+        "ta": "பசிக்கிறதா? ஆமாம், ரொம்பப் பசிக்கிறது.",
+        "en": "Are you hungry? Yeah, really hungry."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-06",
+    "expression": "喉が渇く",
+    "reading": "のどがかわく",
+    "en": "to get thirsty",
+    "ta": "தாகம் எடு",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "喉 渇いた。水 ある？",
+        "reading": "のど かわいた。みず ある？",
+        "ta": "தாகமாக இருக்கிறது. தண்ணீர் இருக்கிறதா?",
+        "en": "I'm thirsty. Is there any water?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-07",
+    "expression": "うん",
+    "reading": "うん",
+    "en": "yeah; yes (casual)",
+    "ta": "ஆமாம் (நண்பர்களிடம்)",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "うん、行く。",
+        "reading": "うん、いく。",
+        "ta": "ஆமாம், போகிறேன்.",
+        "en": "Yeah, I'll go."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-08",
+    "expression": "ううん",
+    "reading": "ううん",
+    "en": "no; nope (casual)",
+    "ta": "இல்லை (நண்பர்களிடம்)",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "ううん、行かない。",
+        "reading": "ううん、いかない。",
+        "ta": "இல்லை, போகவில்லை.",
+        "en": "No, I'm not going."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-09",
+    "expression": "すごい",
+    "reading": "すごい",
+    "en": "amazing; great (すごく: really, very)",
+    "ta": "அருமையான (பிரமாதமான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "すごい！ 日本語、上手だね。",
+        "reading": "すごい！ にほんご、じょうずだね。",
+        "ta": "அருமை! உன் ஜப்பானிய மொழி நன்றாக இருக்கிறது.",
+        "en": "Amazing! Your Japanese is good."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-10",
+    "expression": "楽しみ",
+    "reading": "たのしみ",
+    "en": "something to look forward to",
+    "ta": "ஆவலுடன் எதிர்பார்ப்பது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日の パーティー、楽しみだね。",
+        "reading": "あしたの パーティー、たのしみだね。",
+        "ta": "நாளைய பார்ட்டியை ஆவலுடன் எதிர்பார்க்கிறோம், இல்லையா?",
+        "en": "Can't wait for tomorrow's party, right?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-11",
+    "expression": "やっぱり",
+    "reading": "やっぱり",
+    "en": "after all; as expected",
+    "ta": "என்ன இருந்தாலும் (எதிர்பார்த்தது போலவே)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "やっぱり 家が 一番 いいね。",
+        "reading": "やっぱり いえが いちばん いいね。",
+        "ta": "என்ன இருந்தாலும் வீடுதான் சிறந்தது, இல்லையா?",
+        "en": "Home really is the best, isn't it?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-20-12",
+    "expression": "連絡",
+    "reading": "れんらく",
+    "en": "contact (〜する: to get in touch)",
+    "ta": "தொடர்பு கொள்ளுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あとで 連絡するね。",
+        "reading": "あとで れんらくするね。",
+        "ta": "பிறகு தொடர்பு கொள்கிறேன்.",
+        "en": "I'll get in touch later."
+      }
+    ]
+  }
+]

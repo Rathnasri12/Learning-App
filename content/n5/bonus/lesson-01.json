@@ -1,0 +1,258 @@
+[
+  {
+    "id": "n5-b-01-01",
+    "expression": "会社員",
+    "reading": "かいしゃいん",
+    "en": "company employee",
+    "ta": "நிறுவன ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は 会社員です。",
+        "reading": "わたしは かいしゃいんです。",
+        "ta": "நான் ஒரு நிறுவன ஊழியர்.",
+        "en": "I am a company employee."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-02",
+    "expression": "社員",
+    "reading": "しゃいん",
+    "en": "employee (of a company)",
+    "ta": "(ஒரு நிறுவனத்தின்) ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは 銀行の 社員です。",
+        "reading": "たなかさんは ぎんこうの しゃいんです。",
+        "ta": "தனாகா-சான் வங்கியின் ஊழியர்.",
+        "en": "Mr Tanaka is an employee of a bank."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-03",
+    "expression": "銀行員",
+    "reading": "ぎんこういん",
+    "en": "bank employee",
+    "ta": "வங்கி ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは 銀行員ですか。",
+        "reading": "たなかさんは ぎんこういんですか。",
+        "ta": "தனாகா-சான் வங்கி ஊழியரா?",
+        "en": "Is Mr Tanaka a bank employee?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-04",
+    "expression": "研究者",
+    "reading": "けんきゅうしゃ",
+    "en": "researcher",
+    "ta": "ஆராய்ச்சியாளர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ラオさんは 研究者です。",
+        "reading": "ラオさんは けんきゅうしゃです。",
+        "ta": "ராவ்-சான் ஒரு ஆராய்ச்சியாளர்.",
+        "en": "Mr Rao is a researcher."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-05",
+    "expression": "エンジニア",
+    "reading": "エンジニア",
+    "en": "engineer",
+    "ta": "பொறியாளர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私も エンジニアです。",
+        "reading": "わたしも エンジニアです。",
+        "ta": "நானும் ஒரு பொறியாளர்.",
+        "en": "I am an engineer too."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-06",
+    "expression": "看護師",
+    "reading": "かんごし",
+    "en": "nurse",
+    "ta": "செவிலியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "マリアさんは 看護師じゃありません。",
+        "reading": "マリアさんは かんごしじゃありません。",
+        "ta": "மரியா-சான் செவிலியர் இல்லை.",
+        "en": "Maria is not a nurse."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-07",
+    "expression": "店員",
+    "reading": "てんいん",
+    "en": "shop assistant",
+    "ta": "கடை ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "鈴木さんは 店員です。",
+        "reading": "すずきさんは てんいんです。",
+        "ta": "சுசுகி-சான் ஒரு கடை ஊழியர்.",
+        "en": "Ms Suzuki is a shop assistant."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-08",
+    "expression": "主婦",
+    "reading": "しゅふ",
+    "en": "housewife, homemaker",
+    "ta": "இல்லத்தரசி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は 主婦です。",
+        "reading": "ははは しゅふです。",
+        "ta": "என் அம்மா ஒரு இல்லத்தரசி.",
+        "en": "My mother is a homemaker."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-09",
+    "expression": "大学生",
+    "reading": "だいがくせい",
+    "en": "university student",
+    "ta": "பல்கலைக்கழக மாணவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ミーラさんは 大学生ですか。",
+        "reading": "ミーラさんは だいがくせいですか。",
+        "ta": "மீரா-சான் பல்கலைக்கழக மாணவியா?",
+        "en": "Is Meera a university student?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-10",
+    "expression": "高校生",
+    "reading": "こうこうせい",
+    "en": "high school student",
+    "ta": "மேல்நிலைப் பள்ளி மாணவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弟は 高校生です。",
+        "reading": "おとうとは こうこうせいです。",
+        "ta": "என் தம்பி மேல்நிலைப் பள்ளி மாணவன்.",
+        "en": "My younger brother is a high school student."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-11",
+    "expression": "日本人",
+    "reading": "にほんじん",
+    "en": "Japanese person",
+    "ta": "ஜப்பானியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは 日本人です。",
+        "reading": "たなかさんは にほんじんです。",
+        "ta": "தனாகா-சான் ஒரு ஜப்பானியர்.",
+        "en": "Mr Tanaka is Japanese."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-12",
+    "expression": "インド人",
+    "reading": "インドじん",
+    "en": "Indian (person)",
+    "ta": "இந்தியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は インド人です。",
+        "reading": "わたしは インドじんです。",
+        "ta": "நான் ஒரு இந்தியர்.",
+        "en": "I am Indian."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-13",
+    "expression": "はじめまして",
+    "reading": "はじめまして",
+    "en": "nice to meet you (first meeting)",
+    "ta": "உங்களை முதன்முறையாகச் சந்திப்பதில் மகிழ்ச்சி",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "はじめまして。私は ラーマンです。",
+        "reading": "はじめまして。わたしは ラーマンです。",
+        "ta": "உங்களைச் சந்திப்பதில் மகிழ்ச்சி. நான் ரஹ்மான்.",
+        "en": "Nice to meet you. I am Rahman."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-14",
+    "expression": "よろしくお願いします",
+    "reading": "よろしくおねがいします",
+    "en": "pleased to meet you; please treat me kindly",
+    "ta": "தயவுசெய்து என்னை அன்புடன் ஏற்றுக்கொள்ளுங்கள் (சந்திப்பில் சொல்வது)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "ラージャです。よろしく お願いします。",
+        "reading": "ラージャです。よろしく おねがいします。",
+        "ta": "நான் ராஜா. உங்களைச் சந்தித்ததில் மகிழ்ச்சி.",
+        "en": "I'm Raja. Pleased to meet you."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-15",
+    "expression": "こんにちは",
+    "reading": "こんにちは",
+    "en": "hello, good afternoon",
+    "ta": "வணக்கம்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "こんにちは。田中さんですか。",
+        "reading": "こんにちは。たなかさんですか。",
+        "ta": "வணக்கம். நீங்கள் தனாகா-சானா?",
+        "en": "Hello. Are you Mr Tanaka?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-01-16",
+    "expression": "失礼ですが",
+    "reading": "しつれいですが",
+    "en": "excuse me, but ...",
+    "ta": "மன்னிக்கவும், ஆனால் ...",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "失礼ですが、お名前は？",
+        "reading": "しつれいですが、おなまえは？",
+        "ta": "மன்னிக்கவும், உங்கள் பெயர் என்ன?",
+        "en": "Excuse me, but what is your name?"
+      }
+    ]
+  }
+]

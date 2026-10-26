@@ -12,6 +12,17 @@ export default function Home() {
     <div className="space-y-6">
       <HomeHero lessonCount={syllabus.lessonCount} readyCount={ready} />
 
+      <Link href="/kana" className="card p-5 flex items-center gap-4 border-l-8 !border-l-sakura hover:-translate-y-0.5 transition">
+        <div className="text-4xl font-black" lang="ja">
+          あア
+        </div>
+        <div className="flex-1">
+          <div className="text-xs font-extrabold text-sakura tracking-wider">START HERE</div>
+          <div className="font-black text-lg">Hiragana & Katakana</div>
+          <div className="text-sm text-fg-2">Learn both alphabets with stroke order, Tamil sounds, memory stories and tests</div>
+        </div>
+      </Link>
+
       <section className="grid gap-4 sm:grid-cols-3">
         <Link href="/n5" className="card p-5 hover:-translate-y-0.5 transition">
           <div className="text-xs font-extrabold text-sakura tracking-wider">LEVEL</div>

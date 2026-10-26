@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { ArrowLeft, ArrowRight, BookA, GraduationCap, ScrollText, Check, Trophy } from "lucide-react";
+import { ArrowLeft, ArrowRight, BookA, GraduationCap, ScrollText, Check, Sparkles, Trophy } from "lucide-react";
 import { useEffect, useState } from "react";
 import type { LessonBundle } from "@/lib/types";
 import { useLessonProgress } from "@/lib/progress";
@@ -18,12 +18,14 @@ export default function LessonHub({
   bundle: LessonBundle;
   total: number;
 }) {
-  const { meta, lesson, vocab } = bundle;
+  const { meta, lesson, vocab, bonus } = bundle;
   const lp = useLessonProgress(level, meta.n);
+  const bp = useLessonProgress(`${level}-bonus`, meta.n);
   const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
 
   const vocabPct = vocab.length && mounted ? lp.vocabSeen.length / vocab.length : 0;
+  const bonusPct = bonus.length && mounted ? bp.vocabSeen.length / bonus.length : 0;
   const grammarPct = lesson?.grammar.length && mounted ? lp.grammarDone.length / lesson.grammar.length : 0;
   const base = `/${level}/lesson/${meta.n}`;
 
@@ -38,6 +40,20 @@ export default function LessonHub({
       done: vocabPct >= 1,
       enabled: vocab.length > 0,
     },
+    ...(bonus.length
+      ? [
+          {
+            href: `${base}/bonus`,
+            icon: <Sparkles size={26} />,
+            title: "Bonus words (optional)",
+            sub: `${bonus.length} extra beginner words, not on the N5 list`,
+            value: bonusPct,
+            color: "var(--green)",
+            done: bonusPct >= 1,
+            enabled: true,
+          },
+        ]
+      : []),
     {
       href: `${base}/grammar`,
       icon: <ScrollText size={26} />,

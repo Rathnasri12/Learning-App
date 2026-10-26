@@ -107,6 +107,7 @@ export type LessonBundle = {
   meta: SyllabusLesson;
   lesson: Lesson | null;
   vocab: Vocab[];
+  bonus: Vocab[]; // optional extra words beyond the N5 list
 };
 
 export const ITEM_TYPE_LABEL: Record<TestItem["type"], { ja: string; en: string }> = {
@@ -156,3 +157,29 @@ export type KanjiUnit = {
 };
 
 export type KanjiExam = { title: Bi; passMark: number; items: TestItem[] };
+
+export type KanaScriptName = "hiragana" | "katakana";
+
+export type KanaChar = {
+  kana: string;
+  romaji: string;
+  row: string;
+  tamil: string; // approximate Tamil-script sound
+  voiced: string | null; // g/z/j/d/b when Tamil script can't show the voicing
+  strokes: string[];
+  mnemonic?: Bi;
+  note?: Bi;
+  example?: { word: string; romaji: string; en: string; ta: string };
+};
+
+export type KanaRule = {
+  id: string;
+  unit: number;
+  title: Bi;
+  body: Bi;
+  examples: { word: string; en: string; ta: string }[];
+};
+
+export type KanaUnit = { n: number; title: Bi; intro: Bi; chars: KanaChar[]; rules: KanaRule[] };
+
+export type KanaScript = { script: KanaScriptName; intro: Bi; units: KanaUnit[] };

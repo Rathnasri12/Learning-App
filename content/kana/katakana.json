@@ -1,0 +1,760 @@
+{
+  "script": "katakana",
+  "intro": {
+    "en": "Katakana is the second Japanese alphabet. It has the same sounds as hiragana, but the shapes are made of straight, sharp lines. You use it for foreign words (like コーヒー, coffee), foreign names and places (like インド, India), and for words you want to make stand out.",
+    "ta": "கடகானா ஜப்பானிய மொழியின் இரண்டாவது எழுத்து முறை. இதன் ஒலிகள் ஹிரகானா போலவே இருக்கும்; ஆனால் வடிவங்கள் நேரான, கூர்மையான கோடுகளால் ஆனவை. வெளிநாட்டுச் சொற்கள் (コーヒー – காபி), வெளிநாட்டுப் பெயர்கள், இடங்கள் (インド – இந்தியா), மேலும் தனியாகத் தெரிய வேண்டிய சொற்களுக்கு இதைப் பயன்படுத்துவோம்."
+  },
+  "units": {
+    "1": {
+      "en": "Start with the five vowels and the カ and サ rows. Many of these look like a sharp, simple version of the hiragana you know.",
+      "ta": "ஐந்து உயிர் ஒலிகளுடனும் カ, サ வரிசைகளுடனும் தொடங்குங்கள். இவற்றில் பல, உங்களுக்குத் தெரிந்த ஹிரகானாவின் கூர்மையான, எளிய வடிவம் போலவே இருக்கும்."
+    },
+    "2": {
+      "en": "Learn the タ, ナ and ハ rows. Watch out for the look-alikes シ/ツ, チ/テ and ヌ/ス.",
+      "ta": "タ, ナ, ハ வரிசைகளைக் கற்றுக்கொள்ளுங்கள். シ/ツ, チ/テ, ヌ/ス போன்ற ஒரே மாதிரித் தோன்றும் எழுத்துகளில் கவனமாக இருங்கள்."
+    },
+    "3": {
+      "en": "Finish the basic sounds with the マ, ヤ, ラ and ワ rows, plus ン. After this unit you can read every basic katakana.",
+      "ta": "マ, ヤ, ラ, ワ வரிசைகளும் ン-உம் கற்றால் அடிப்படை ஒலிகள் முடிந்துவிடும். இந்தப் பகுதிக்குப் பிறகு எல்லா அடிப்படைக் கடகானாவையும் உங்களால் படிக்க முடியும்."
+    },
+    "4": {
+      "en": "Add two small dots (゛) to make sounds like g, z, d and b. Add a small circle (゜) to the ハ row to make p sounds.",
+      "ta": "இரண்டு சின்னப் புள்ளிகள் (゛) சேர்த்தால் g, z, d, b ஒலிகள் வரும். ハ வரிசையில் ஒரு சின்ன வட்டம் (゜) சேர்த்தால் p ஒலிகள் வரும்."
+    },
+    "5": {
+      "en": "Join a kana with a small ャ, ュ or ョ to make one quick sound, like シャ (sha). You will also meet the small ッ, which makes a short stop.",
+      "ta": "ஒரு எழுத்துடன் சின்ன ャ, ュ, ョ சேர்த்தால் ஒரே வேகமான ஒலி வரும் – シャ (ஷா) போல. ஒரு சிறு நிறுத்தத்தைக் காட்டும் சின்ன ッ-ஐயும் இங்கே சந்திப்பீர்கள்."
+    },
+    "6": {
+      "en": "Japanese did not have sounds like fa, ti or she, so katakana makes them with a small vowel: ファ, ティ, シェ. You need these for many foreign words and names, like チェンナイ (Chennai).",
+      "ta": "ஜப்பானிய மொழியில் fa, ti, she போன்ற ஒலிகள் இல்லை; அதனால் கடகானா ஒரு சின்ன உயிர் எழுத்தைச் சேர்த்து அவற்றை உருவாக்குகிறது: ファ, ティ, シェ. チェンナイ (சென்னை) போன்ற பல வெளிநாட்டுச் சொற்களுக்கும் பெயர்களுக்கும் இவை தேவை."
+    }
+  },
+  "chars": {
+    "ア": {
+      "mnemonic": {
+        "en": "ア looks like a sickle (அரிவாள், arivaal): a bent blade on top and a long handle going down. Arivaal → a.",
+        "ta": "ア ஒரு அரிவாள் போல: மேலே வளைந்த அலகு, கீழே நீண்ட கைப்பிடி. அரிவாள் → a (அ)."
+      },
+      "example": { "word": "アパート", "en": "apartment", "ta": "அடுக்குமாடி வீடு" }
+    },
+    "イ": {
+      "mnemonic": {
+        "en": "イ looks like one leaf (இலை, ilai) sticking out from a straight stem. Ilai → i.",
+        "ta": "イ ஒரு நேரான காம்பில் இருந்து சாய்ந்து நிற்கும் ஒரு இலை போல. இலை → i (இ)."
+      },
+      "example": { "word": "インド", "en": "India", "ta": "இந்தியா" }
+    },
+    "ウ": {
+      "mnemonic": {
+        "en": "ウ looks like a money box (உண்டியல், undiyal) with a coin dropping in from the top. Undiyal → u.",
+        "ta": "ウ ஒரு உண்டியல் போல: மேலே இருக்கும் சின்னக் கோடு உள்ளே விழும் காசு. உண்டியல் → u (உ)."
+      },
+      "note": {
+        "en": "Look-alikes ウ/ワ/フ: ウ has a little tick on top. ワ has no tick. フ has no tick and no left side.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ウ/ワ/フ: ウ-க்கு மேலே ஒரு சின்னக் கோடு உண்டு. ワ-க்கு அது இல்லை. フ-க்கு மேல் கோடும் இல்லை, இடப்பக்கக் கோடும் இல்லை."
+      },
+      "example": { "word": "ウール", "en": "wool", "ta": "கம்பளி" }
+    },
+    "エ": {
+      "mnemonic": {
+        "en": "エ looks like a short piece of a ladder (ஏணி, eni): two rungs joined by one post. Eni → e.",
+        "ta": "エ ஒரு சின்ன ஏணித் துண்டு போல: ஒரு கம்பம், இரண்டு படிகள். ஏணி → e (ஏ)."
+      },
+      "note": {
+        "en": "エ looks the same as the kanji 工 (craft, read こう). In a katakana word like エレベーター, it is エ.",
+        "ta": "エ, 工 என்ற கஞ்சியைப் (கைவினை, こう) போலவே இருக்கும். エレベーター போன்ற கடகானா சொல்லுக்குள் இருந்தால் அது エ."
+      },
+      "example": { "word": "エレベーター", "en": "elevator, lift", "ta": "மின்தூக்கி (லிஃப்ட்)" }
+    },
+    "オ": {
+      "mnemonic": {
+        "en": "オ looks like a person running fast with one leg kicked back. Run! In Tamil, ஓடு (odu) → o.",
+        "ta": "オ ஒருவர் ஒரு காலைப் பின்னால் உதைத்து வேகமாக ஓடுவது போல. ஓடு! → o (ஓ)."
+      },
+      "note": {
+        "en": "オ is like hiragana お without the loop.",
+        "ta": "オ, ஹிரகானா お-வின் சுருள் இல்லாத வடிவம் போல."
+      },
+      "example": { "word": "オレンジ", "en": "orange", "ta": "ஆரஞ்சு" }
+    },
+    "カ": {
+      "mnemonic": {
+        "en": "カ looks like a bent leg (கால், kaal) ready to kick. Kaal → ka. It is hiragana か without the little extra line.",
+        "ta": "カ உதைக்கத் தயாராக மடிந்த ஒரு கால் போல. கால் → ka (க). இது ஹிரகானா か-வின் சின்னக் கூடுதல் கோடு இல்லாத வடிவம்."
+      },
+      "note": {
+        "en": "カ looks like the kanji 力 (power, ちから). カ is a little smaller and its corner is sharper; inside a katakana word, read it ka.",
+        "ta": "カ, 力 என்ற கஞ்சியைப் (சக்தி, ちから) போல இருக்கும். カ கொஞ்சம் சிறியது, அதன் மூலை கூர்மையானது; கடகானா சொல்லுக்குள் வந்தால் ka என்று படியுங்கள்."
+      },
+      "example": { "word": "カメラ", "en": "camera", "ta": "கேமரா" }
+    },
+    "キ": {
+      "mnemonic": {
+        "en": "キ looks like a key: two teeth on a long shaft. Key → ki.",
+        "ta": "キ ஒரு சாவி போல: நீண்ட கம்பியில் இரண்டு பற்கள். ஆங்கிலத்தில் சாவி 'key' → ki (கி)."
+      },
+      "note": {
+        "en": "キ is hiragana き without the curve at the bottom.",
+        "ta": "キ, ஹிரகானா き-வின் கீழ் வளைவு இல்லாத வடிவம்."
+      },
+      "example": { "word": "キロ", "en": "kilo (kilogram or kilometre)", "ta": "கிலோ" }
+    },
+    "ク": {
+      "mnemonic": {
+        "en": "ク looks like the open beak of a sparrow (குருவி, kuruvi), crying for food. Kuruvi → ku.",
+        "ta": "ク உணவுக்காகத் திறந்திருக்கும் குருவியின் அலகு போல. குருவி → ku (கு)."
+      },
+      "note": {
+        "en": "Look-alikes ク/ケ/タ: ク is just two strokes. ケ has a long flat line going right, with the last stroke hanging from it. タ is ク with one small line inside.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ク/ケ/タ: ク-வில் இரண்டு கோடுகள் மட்டும். ケ-வில் வலப்பக்கம் நீளும் ஒரு கிடைக்கோடு, அதிலிருந்து கடைசிக் கோடு கீழே தொங்கும். タ என்பது ク-வுக்குள் ஒரு சின்னக் கோடு."
+      },
+      "example": { "word": "クラス", "en": "class", "ta": "வகுப்பு" }
+    },
+    "ケ": {
+      "mnemonic": {
+        "en": "ケ looks like a knife cutting a slice of cake: ケーキ (cake) → ke.",
+        "ta": "ケ ஒரு கேக் துண்டை வெட்டும் கத்தி போல. கேக் (ケーキ) → ke (கெ)."
+      },
+      "note": {
+        "en": "Look-alikes ク/ケ/タ: only ケ has a flat line that sticks out to the right. ク and タ have none.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ク/ケ/タ: வலப்பக்கம் நீட்டிக்கொண்டிருக்கும் கிடைக்கோடு ケ-வில் மட்டும் உண்டு. ク, タ-வில் இல்லை."
+      },
+      "example": { "word": "ケーキ", "en": "cake", "ta": "கேக்" }
+    },
+    "コ": {
+      "mnemonic": {
+        "en": "コ is a box open on the left, with two sharp corners (கோணம், konam). Konam → ko.",
+        "ta": "コ இடப்பக்கம் திறந்த ஒரு பெட்டி; அதில் இரண்டு கூர்மையான கோணங்கள். கோணம் → ko (கோ)."
+      },
+      "note": {
+        "en": "Do not mix コ (open on the left) with ユ (open on the top, with a long bottom line).",
+        "ta": "コ (இடப்பக்கம் திறந்தது) மற்றும் ユ (மேலே திறந்தது, கீழே நீண்ட கோடு) இரண்டையும் குழப்பிக்கொள்ள வேண்டாம்."
+      },
+      "example": { "word": "コーヒー", "en": "coffee", "ta": "காபி" }
+    },
+    "サ": {
+      "mnemonic": {
+        "en": "サ looks like an old wooden easy chair (சாய்வு நாற்காலி, saayvu naarkaali): a crossbar and two legs, one long and leaning. Saayvu → sa.",
+        "ta": "サ ஒரு சாய்வு நாற்காலி போல: ஒரு குறுக்குக் கட்டை, இரண்டு கால்கள்; ஒரு கால் நீண்டு சாய்ந்திருக்கும். சாய்வு → sa (ச)."
+      },
+      "example": { "word": "サラダ", "en": "salad", "ta": "சாலட் (காய்கறிக் கலவை)" }
+    },
+    "シ": {
+      "mnemonic": {
+        "en": "シ is a smiling face looking up at the sky: two eyes on the left, and the long smile goes UP from the bottom. A smile (சிரிப்பு, sirippu) → shi.",
+        "ta": "シ வானத்தைப் பார்த்துச் சிரிக்கும் முகம்: இரண்டு கண்கள் இடப்பக்கம், நீண்ட புன்னகைக் கோடு கீழிருந்து மேலே போகும். சிரிப்பு → shi (ஷி)."
+      },
+      "note": {
+        "en": "Look-alikes シ/ツ: シ has its two dots on the LEFT and the long stroke goes UP. ツ has its dots on TOP and the long stroke falls DOWN. Write シ's last stroke from bottom-left up to the right.",
+        "ta": "ஒரே மாதிரித் தோற்றம் シ/ツ: シ-வின் இரண்டு புள்ளிகள் இடப்பக்கம், நீண்ட கோடு கீழிருந்து மேலே போகும். ツ-வின் புள்ளிகள் மேலே, நீண்ட கோடு மேலிருந்து கீழே விழும். シ-வின் கடைசிக் கோட்டை இடது கீழிருந்து வலது மேல் நோக்கி எழுதுங்கள்."
+      },
+      "example": { "word": "シーツ", "en": "bed sheet", "ta": "படுக்கை விரிப்பு" }
+    },
+    "ス": {
+      "mnemonic": {
+        "en": "ス looks like a stick person who suddenly slipped: a flat head, a body sliding down, one leg kicking out. Sudden slip → su.",
+        "ta": "ス வழுக்கி விழும் ஒரு குச்சி மனிதன் போல: தட்டையான தலை, கீழே சறுக்கும் உடல், வெளியே உதைக்கும் ஒரு கால். 'சூ!' என்று வழுக்கினான் → su (ஸு)."
+      },
+      "note": {
+        "en": "Look-alikes ヌ/ス: ス has only two strokes. ヌ has an extra short line cutting across the middle.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ヌ/ス: ス-வில் இரண்டு கோடுகள் மட்டும். ヌ-வில் நடுவில் குறுக்கே ஒரு கூடுதல் சின்னக் கோடு இருக்கும்."
+      },
+      "example": { "word": "スプーン", "en": "spoon", "ta": "கரண்டி" }
+    },
+    "セ": {
+      "mnemonic": {
+        "en": "セ looks like a hook on the wall holding a sweater: セーター (sweater) → se.",
+        "ta": "セ சுவரில் ஒரு ஸ்வெட்டரைத் தொங்கவிட்ட கொக்கி போல. ஸ்வெட்டர் (セーター) → se (செ)."
+      },
+      "note": {
+        "en": "セ is like hiragana せ, but the bottom is one simple hook.",
+        "ta": "セ ஹிரகானா せ போல; ஆனால் கீழ்ப்பகுதி ஒரே ஒரு எளிய கொக்கி."
+      },
+      "example": { "word": "セーター", "en": "sweater", "ta": "ஸ்வெட்டர் (கம்பளிச் சட்டை)" }
+    },
+    "ソ": {
+      "mnemonic": {
+        "en": "ソ looks like two drops (சொட்டு, sottu) falling down from above. Sottu → so.",
+        "ta": "ソ மேலிருந்து கீழே விழும் இரண்டு சொட்டுகள் போல. சொட்டு → so (சொ)."
+      },
+      "note": {
+        "en": "Look-alikes ソ/ン: in ソ both strokes fall DOWN from the top, like ツ with one drop. In ン the dot is on the left and the long stroke goes UP, like シ with one eye.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ソ/ン: ソ-வில் இரண்டு கோடுகளும் மேலிருந்து கீழே விழும் – ஒரு சொட்டு மட்டும் உள்ள ツ போல. ン-வில் புள்ளி இடப்பக்கம், நீண்ட கோடு கீழிருந்து மேலே போகும் – ஒரு கண் மட்டும் உள்ள シ போல."
+      },
+      "example": { "word": "ソファ", "en": "sofa", "ta": "சோபா" }
+    },
+    "タ": {
+      "mnemonic": {
+        "en": "タ is ク with a passenger sitting inside: get in the タクシー (taxi) → ta.",
+        "ta": "タ என்பது ク-வுக்குள் ஒரு பயணி உட்கார்ந்திருப்பது போல. டாக்ஸியில் (タクシー) ஏறுங்கள் → ta (டா)."
+      },
+      "note": {
+        "en": "Look-alikes ク/ケ/タ: タ is the only one with a small line inside.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ク/ケ/タ: உள்ளே சின்னக் கோடு இருப்பது タ-வில் மட்டுமே."
+      },
+      "example": { "word": "タクシー", "en": "taxi", "ta": "டாக்ஸி" }
+    },
+    "チ": {
+      "mnemonic": {
+        "en": "チ looks like a cross (சிலுவை, siluvai) wearing a little slanted cap. Siluvai → chi.",
+        "ta": "チ ஒரு சின்னச் சாய்ந்த தொப்பி அணிந்த சிலுவை போல. சிலுவை → chi (சி)."
+      },
+      "note": {
+        "en": "Look-alikes チ/テ: in チ the top line slants and the long stroke CROSSES the middle line. In テ there are two flat lines, and the stroke starts BELOW them without crossing.",
+        "ta": "ஒரே மாதிரித் தோற்றம் チ/テ: チ-வில் மேல் கோடு சாய்ந்திருக்கும், நீண்ட கோடு நடுக்கோட்டைக் கடந்து போகும். テ-வில் இரண்டு தட்டையான கோடுகள்; கீழ்க்கோடு அவற்றைக் கடக்காமல் கீழிருந்து தொடங்கும்."
+      },
+      "example": { "word": "チーズ", "en": "cheese", "ta": "பாலாடைக்கட்டி (சீஸ்)" }
+    },
+    "ツ": {
+      "mnemonic": {
+        "en": "ツ looks like a tsunami wave crashing down: the drops are on top and the big wave falls from top-right. Tsunami → tsu.",
+        "ta": "ツ மேலிருந்து மோதி விழும் சுனாமி அலை போல: மேலே துளிகள், வலது மேலிருந்து பெரிய அலை கீழே விழும். சுனாமி → tsu (ட்ஸு)."
+      },
+      "note": {
+        "en": "Look-alikes シ/ツ: ツ has its dots on TOP and the long stroke falls DOWN. Tamil has no 'ts' sound: say த்ஸு quickly, with the tongue touching the teeth.",
+        "ta": "ஒரே மாதிரித் தோற்றம் シ/ツ: ツ-வின் புள்ளிகள் மேலே, நீண்ட கோடு மேலிருந்து கீழே விழும். தமிழில் 'ts' ஒலி இல்லை; நாக்கைப் பல்லில் தொட்டு 'த்ஸு' என்று வேகமாகச் சொல்லுங்கள்."
+      },
+      "example": { "word": "ツアー", "en": "tour", "ta": "சுற்றுலா" }
+    },
+    "テ": {
+      "mnemonic": {
+        "en": "テ looks like a street-light pole (தெரு விளக்கு, theru vilakku) with two flat bars on top. Theru → te.",
+        "ta": "テ மேலே இரண்டு தட்டையான கம்பிகள் உள்ள தெரு விளக்குக் கம்பம் போல. தெரு → te (தெ)."
+      },
+      "note": {
+        "en": "Look-alikes チ/テ: テ has two flat lines on top, and nothing crosses them.",
+        "ta": "ஒரே மாதிரித் தோற்றம் チ/テ: テ-வின் மேலே இரண்டு தட்டையான கோடுகள்; அவற்றை எந்தக் கோடும் கடக்காது."
+      },
+      "example": { "word": "テレビ", "en": "television, TV", "ta": "தொலைக்காட்சி (டிவி)" }
+    },
+    "ト": {
+      "mnemonic": {
+        "en": "ト looks like a pipe going into a water tank (தொட்டி, thotti) with a small tap sticking out. Thotti → to.",
+        "ta": "ト தண்ணீர்த் தொட்டிக்குள் போகும் குழாயில் ஒரு சின்னக் குழாய்த் திருகு நீட்டிக்கொண்டிருப்பது போல. தொட்டி → to (தொ)."
+      },
+      "note": {
+        "en": "ト is the left part of hiragana と made straight.",
+        "ta": "ト, ஹிரகானா と-வை நேராக்கியது போல இருக்கும்."
+      },
+      "example": { "word": "トイレ", "en": "toilet", "ta": "கழிப்பறை" }
+    },
+    "ナ": {
+      "mnemonic": {
+        "en": "ナ looks like a young rice plant (நாற்று, naatru) leaning over the water line of a paddy field. Naatru → na.",
+        "ta": "ナ வயலின் தண்ணீர்க் கோட்டின் மேல் சாய்ந்து நிற்கும் நாற்று போல. நாற்று → na (ந)."
+      },
+      "note": {
+        "en": "ナ is the top-left part of hiragana な.",
+        "ta": "ナ, ஹிரகானா な-வின் மேல் இடப்பகுதி."
+      },
+      "example": { "word": "ナイフ", "en": "knife", "ta": "கத்தி" }
+    },
+    "ニ": {
+      "mnemonic": {
+        "en": "ニ is just two lines, and in Japanese 'two' (二) is read ni! Two lines → ni.",
+        "ta": "ニ இரண்டே இரண்டு கோடுகள்; ஜப்பானிய மொழியில் 'இரண்டு' (二) என்பதும் ni தான்! இரண்டு கோடு → ni (நி)."
+      },
+      "note": {
+        "en": "ニ looks just like the kanji 二 (two), and both are read ni. In a katakana word like テニス, it is ニ.",
+        "ta": "ニ, 二 (இரண்டு) என்ற கஞ்சியைப் போலவே இருக்கும்; இரண்டும் ni என்றே படிக்கப்படும். テニス போன்ற கடகானா சொல்லுக்குள் இருந்தால் அது ニ."
+      },
+      "example": { "word": "テニス", "en": "tennis", "ta": "டென்னிஸ்" }
+    },
+    "ヌ": {
+      "mnemonic": {
+        "en": "ヌ looks like chopsticks lifting noodles: the short line across the middle is the noodle. Noodles → nu.",
+        "ta": "ヌ நூடுல்ஸைத் தூக்கும் சாப்ஸ்டிக்ஸ் போல: நடுவில் குறுக்கே இருக்கும் சின்னக் கோடுதான் நூடுல்ஸ். நூடுல்ஸ் → nu (நு)."
+      },
+      "note": {
+        "en": "Look-alikes ヌ/ス: ヌ has the extra line across the middle (the noodle). ス does not.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ヌ/ス: ヌ-வில் நடுவில் குறுக்கே கூடுதல் கோடு (நூடுல்ஸ்) உண்டு. ス-வில் இல்லை."
+      },
+      "example": { "word": "ヌードル", "en": "noodles", "ta": "நூடுல்ஸ்" }
+    },
+    "ネ": {
+      "mnemonic": {
+        "en": "ネ looks like a man wearing a necktie: a head on top, the tie hanging down. ネクタイ (necktie) → ne.",
+        "ta": "ネ டை கட்டிய ஒருவர் போல: மேலே தலை, கீழே தொங்கும் டை. நெக்டை (ネクタイ) → ne (நெ)."
+      },
+      "example": { "word": "ネクタイ", "en": "necktie", "ta": "கழுத்துப்பட்டை (டை)" }
+    },
+    "ノ": {
+      "mnemonic": {
+        "en": "ノ is one quick slash, like crossing something out and saying “No!” → no.",
+        "ta": "ノ ஒரே ஒரு சாய்வுக் கோடு – ஒன்றை அடித்துவிட்டு “நோ!” என்று சொல்வது போல. நோ → no (நோ)."
+      },
+      "example": { "word": "ノート", "en": "notebook", "ta": "நோட்டுப் புத்தகம்" }
+    },
+    "ハ": {
+      "mnemonic": {
+        "en": "ハ is two lines opening wide like a laughing mouth: “Ha ha!” → ha.",
+        "ta": "ハ சிரிக்கும் வாய் போல விரியும் இரண்டு கோடுகள்: “ஹா ஹா!” → ha (ஹ)."
+      },
+      "note": {
+        "en": "ハ looks like the kanji 八 (eight, はち). In a katakana word like ハンカチ, it is ハ.",
+        "ta": "ハ, 八 (எட்டு, はち) என்ற கஞ்சியைப் போல இருக்கும். ハンカチ போன்ற கடகானா சொல்லுக்குள் இருந்தால் அது ハ."
+      },
+      "example": { "word": "ハンカチ", "en": "handkerchief", "ta": "கைக்குட்டை" }
+    },
+    "ヒ": {
+      "mnemonic": {
+        "en": "ヒ looks like a person sitting on the floor with one arm out, giggling “hee hee” → hi.",
+        "ta": "ヒ ஒரு கையை நீட்டித் தரையில் உட்கார்ந்து “ஹி ஹி” என்று சிரிப்பவர் போல → hi (ஹி)."
+      },
+      "example": { "word": "ヒーター", "en": "heater", "ta": "ஹீட்டர் (வெப்பமூட்டி)" }
+    },
+    "フ": {
+      "mnemonic": {
+        "en": "フ looks like a curl of wind: blow “fuuu” → fu.",
+        "ta": "フ வளைந்து வீசும் காற்று போல: “ஃபூ…” என்று ஊதுங்கள் → fu (ஃபு)."
+      },
+      "note": {
+        "en": "Look-alikes ウ/ワ/フ: フ has no left side and no top tick. Say it softly, between “fu” and “hu”, with no teeth on the lip.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ウ/ワ/フ: フ-க்கு இடப்பக்கக் கோடும் மேல் கோடும் இல்லை. 'fu'-க்கும் 'hu'-க்கும் இடையில் மென்மையாகச் சொல்லுங்கள்; பல் உதட்டைத் தொடக் கூடாது."
+      },
+      "example": { "word": "フルーツ", "en": "fruit", "ta": "பழங்கள்" }
+    },
+    "ヘ": {
+      "mnemonic": {
+        "en": "ヘ is a small hill. Hey, it is the same as hiragana へ! → he.",
+        "ta": "ヘ ஒரு சின்னக் குன்று. “ஹே! இது ஹிரகானா へ போலவே இருக்கே!” → he (ஹெ)."
+      },
+      "note": {
+        "en": "Katakana ヘ and hiragana へ look almost the same. Tell them apart from the other letters in the word.",
+        "ta": "கடகானா ヘ-வும் ஹிரகானா へ-வும் கிட்டத்தட்ட ஒன்றாகவே இருக்கும். சொல்லில் உள்ள மற்ற எழுத்துகளை வைத்து வேறுபடுத்துங்கள்."
+      },
+      "example": { "word": "ヘリコプター", "en": "helicopter", "ta": "ஹெலிகாப்டர்" }
+    },
+    "ホ": {
+      "mnemonic": {
+        "en": "ホ looks like a hotel sign post: a pole with a crossbar and two little legs. ホテル (hotel) → ho.",
+        "ta": "ホ ஒரு ஹோட்டல் பெயர்ப் பலகைக் கம்பம் போல: குறுக்குக் கட்டையும் இரண்டு சின்னக் கால்களும். ஹோட்டல் (ホテル) → ho (ஹோ)."
+      },
+      "note": {
+        "en": "ホ is the right half of hiragana ほ.",
+        "ta": "ホ, ஹிரகானா ほ-வின் வலது பாதி."
+      },
+      "example": { "word": "ホテル", "en": "hotel", "ta": "ஹோட்டல் (விடுதி)" }
+    },
+    "マ": {
+      "mnemonic": {
+        "en": "マ looks like a slice of mango (மாம்பழம், maambazham): a triangle with a tiny tip. Mango → ma.",
+        "ta": "マ ஒரு மாம்பழத் துண்டு போல: முக்கோண வடிவம், கீழே ஒரு சின்ன முனை. மாம்பழம் → ma (ம)."
+      },
+      "note": {
+        "en": "Do not mix マ with ム: マ is a wide triangle hanging down; ム has a corner at the bottom-left and a tick on the right.",
+        "ta": "マ-வையும் ム-வையும் குழப்ப வேண்டாம்: マ கீழே தொங்கும் அகலமான முக்கோணம்; ム-க்கு இடது கீழே ஒரு மூலையும் வலப்பக்கம் ஒரு சின்னக் கோடும் உண்டு."
+      },
+      "example": { "word": "マッチ", "en": "match (matchstick)", "ta": "தீக்குச்சி" }
+    },
+    "ミ": {
+      "mnemonic": {
+        "en": "ミ looks like three hairs of a moustache (மீசை, meesai). Meesai → mi.",
+        "ta": "ミ மீசையின் மூன்று முடிகள் போல. மீசை → mi (மி)."
+      },
+      "example": { "word": "ミルク", "en": "milk", "ta": "பால்" }
+    },
+    "ム": {
+      "mnemonic": {
+        "en": "ム looks like a big nose (மூக்கு, mookku) seen from the side. Mookku → mu.",
+        "ta": "ム பக்கவாட்டில் பார்க்கும் ஒரு பெரிய மூக்கு போல. மூக்கு → mu (மு)."
+      },
+      "example": { "word": "クリーム", "en": "cream", "ta": "கிரீம்" }
+    },
+    "メ": {
+      "mnemonic": {
+        "en": "メ looks like two drumsticks crossed on a மேளம் (melam, drum). Melam → me.",
+        "ta": "メ மேளத்தின் மேல் குறுக்காக வைத்த இரண்டு குச்சிகள் போல. மேளம் → me (மெ)."
+      },
+      "note": {
+        "en": "Do not mix メ with ノ: ノ is one slash; メ is that slash with a short stroke crossing it.",
+        "ta": "メ-வையும் ノ-வையும் குழப்ப வேண்டாம்: ノ ஒரே சாய்வுக் கோடு; メ அந்தக் கோட்டை ஒரு சின்னக் கோடு கடப்பது."
+      },
+      "example": { "word": "メートル", "en": "metre", "ta": "மீட்டர்" }
+    },
+    "モ": {
+      "mnemonic": {
+        "en": "モ looks like a churning stick with two crossbars, used to make மோர் (mor, buttermilk). Mor → mo.",
+        "ta": "モ மோர் கடையும் மத்து போல: ஒரு கம்பில் இரண்டு குறுக்குக் கட்டைகள். மோர் → mo (மோ)."
+      },
+      "note": {
+        "en": "モ is like hiragana も, but the bottom bends to the right with no loop.",
+        "ta": "モ ஹிரகானா も போல; ஆனால் கீழ்ப்பகுதி சுருள் இல்லாமல் வலப்பக்கம் வளையும்."
+      },
+      "example": { "word": "モーター", "en": "motor", "ta": "மோட்டார்" }
+    },
+    "ヤ": {
+      "mnemonic": {
+        "en": "ヤ looks like an elephant (யானை, yaanai) lifting its trunk, with one tusk crossing it. Yaanai → ya.",
+        "ta": "ヤ தும்பிக்கையைத் தூக்கிய யானை போல; ஒரு தந்தம் அதைக் குறுக்கே கடக்கும். யானை → ya (ய)."
+      },
+      "note": {
+        "en": "ヤ is like hiragana や without the small dot.",
+        "ta": "ヤ, ஹிரகானா や-வின் சின்னப் புள்ளி இல்லாத வடிவம் போல."
+      },
+      "example": { "word": "タイヤ", "en": "tyre", "ta": "டயர்" }
+    },
+    "ユ": {
+      "mnemonic": {
+        "en": "ユ looks like a road making a U-turn. “You”-turn → yu.",
+        "ta": "ユ ஒரு U-turn (யூ-டர்ன்) சாலை போல. யூ → yu (யு)."
+      },
+      "note": {
+        "en": "ユ has a long bottom line that sticks out; コ is a closed corner shape with no sticking-out line.",
+        "ta": "ユ-வின் கீழ்க்கோடு நீண்டு வெளியே நீட்டும்; コ-வில் அப்படி நீட்டும் கோடு இல்லை."
+      },
+      "example": { "word": "ユニフォーム", "en": "uniform", "ta": "சீருடை" }
+    },
+    "ヨ": {
+      "mnemonic": {
+        "en": "ヨ looks like three yoga mats stacked on a rack (a backward E). Yoga → yo.",
+        "ta": "ヨ ஒரு தாங்கியில் அடுக்கி வைத்த மூன்று யோகா பாய்கள் போல (பின்னோக்கிய E). யோகா → yo (யோ)."
+      },
+      "example": { "word": "ヨガ", "en": "yoga", "ta": "யோகா" }
+    },
+    "ラ": {
+      "mnemonic": {
+        "en": "ラ looks like a radio with a short antenna on top: ラジオ (radio) → ra.",
+        "ta": "ラ மேலே சின்ன ஆன்டெனா உள்ள ரேடியோ போல. ரேடியோ (ラジオ) → ra (ர)."
+      },
+      "note": {
+        "en": "The ラ row is a light tap of the tongue, between r and l, like the soft ர in Tamil.",
+        "ta": "ラ வரிசை நாக்கை லேசாகத் தட்டும் ஒலி – r-க்கும் l-க்கும் இடையில், தமிழ் 'ர' போல மென்மையாக."
+      },
+      "example": { "word": "ラジオ", "en": "radio", "ta": "வானொலி (ரேடியோ)" }
+    },
+    "リ": {
+      "mnemonic": {
+        "en": "リ looks like the two ends of a ribbon (ரிப்பன்) hanging from a girl’s braid. Ribbon → ri.",
+        "ta": "リ ஒரு சிறுமியின் சடையில் தொங்கும் ரிப்பனின் இரண்டு முனைகள் போல. ரிப்பன் → ri (ரி)."
+      },
+      "note": {
+        "en": "リ looks almost like hiragana り; the katakana one is straighter and sharper.",
+        "ta": "リ ஹிரகானா り போலவே இருக்கும்; கடகானா வடிவம் இன்னும் நேராகவும் கூர்மையாகவும் இருக்கும்."
+      },
+      "example": { "word": "リボン", "en": "ribbon", "ta": "ரிப்பன்" }
+    },
+    "ル": {
+      "mnemonic": {
+        "en": "ル looks like two legs running, the back leg kicking up. Run → ru.",
+        "ta": "ル ஓடும் இரண்டு கால்கள் போல; பின்னங்கால் மேலே உதைக்கும். ரன் (run) → ru (ரு)."
+      },
+      "note": {
+        "en": "ル has two strokes; レ is only the right one.",
+        "ta": "ル-வில் இரண்டு கோடுகள்; レ அதன் வலப்பக்கக் கோடு மட்டுமே."
+      },
+      "example": { "word": "ルール", "en": "rule", "ta": "விதி" }
+    },
+    "レ": {
+      "mnemonic": {
+        "en": "レ looks like a tick mark (✓): you are ready! Ready → re.",
+        "ta": "レ ஒரு சரி (✓) குறி போல: “ரெடி!” → re (ரெ)."
+      },
+      "example": { "word": "レストラン", "en": "restaurant", "ta": "உணவகம்" }
+    },
+    "ロ": {
+      "mnemonic": {
+        "en": "ロ is a square, like a slice of bread (ரொட்டி, rotti). Rotti → ro.",
+        "ta": "ロ ஒரு சதுர ரொட்டித் துண்டு போல. ரொட்டி → ro (ரொ)."
+      },
+      "note": {
+        "en": "ロ looks like the kanji 口 (mouth, くち). ロ is usually a bit smaller; inside a katakana word like ロボット, it is ロ.",
+        "ta": "ロ, 口 (வாய், くち) என்ற கஞ்சியைப் போல இருக்கும். ロ பொதுவாகக் கொஞ்சம் சிறியது; ロボット போன்ற கடகானா சொல்லுக்குள் இருந்தால் அது ロ."
+      },
+      "example": { "word": "ロボット", "en": "robot", "ta": "ரோபோ (இயந்திர மனிதன்)" }
+    },
+    "ワ": {
+      "mnemonic": {
+        "en": "ワ looks like a bucket (வாளி, vaali) turned upside down. Vaali → wa.",
+        "ta": "ワ கவிழ்த்து வைத்த வாளி போல. வாளி → wa (வ)."
+      },
+      "note": {
+        "en": "Look-alikes ウ/ワ/フ: ワ has a short left side but no tick on top. ウ has the tick; フ has no left side.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ウ/ワ/フ: ワ-க்கு இடப்பக்கம் சின்னக் கோடு உண்டு, மேல் கோடு இல்லை. ウ-க்கு மேல் கோடு உண்டு; フ-க்கு இடப்பக்கக் கோடு இல்லை."
+      },
+      "example": { "word": "ワイシャツ", "en": "dress shirt", "ta": "சட்டை (அலுவலகச் சட்டை)" }
+    },
+    "ヲ": {
+      "mnemonic": {
+        "en": "ヲ looks like フ carrying a bar across its middle: “Whoa, heavy!” → wo (said o).",
+        "ta": "ヲ நடுவில் ஒரு கம்பியைத் தூக்கிக்கொண்டிருக்கும் フ போல: “வோ, கனமா இருக்கே!” → wo (ஓ என்று ஒலிக்கும்)."
+      },
+      "note": {
+        "en": "ヲ is almost never used. It is the katakana form of the particle を, and in real sentences you write を. You may see ヲ only in old signs or all-katakana text, so there is no example word.",
+        "ta": "ヲ கிட்டத்தட்டப் பயன்படுவதே இல்லை. இது を என்ற இணைச்சொல்லின் கடகானா வடிவம்; உண்மையான வாக்கியங்களில் を தான் எழுதுவோம். பழைய பலகைகளிலோ முழுவதும் கடகானாவில் எழுதிய உரையிலோ மட்டும் பார்க்கலாம்; அதனால் உதாரணச் சொல் இல்லை."
+      }
+    },
+    "ン": {
+      "mnemonic": {
+        "en": "ン is a face with only one eye, winking and humming “nnn”. Like Tamil ன், it closes the end of a sound → n.",
+        "ta": "ン ஒரே ஒரு கண்ணுடன் கண் சிமிட்டி “ன்ன்ன்” என்று முணுமுணுக்கும் முகம். தமிழ் 'ன்' போல ஒலியின் முடிவில் வரும் → n (ன்)."
+      },
+      "note": {
+        "en": "Look-alikes ソ/ン: ン’s long stroke goes UP from the bottom-left, like シ. ソ’s strokes both fall DOWN from the top, like ツ.",
+        "ta": "ஒரே மாதிரித் தோற்றம் ソ/ン: ン-வின் நீண்ட கோடு シ போல இடது கீழிருந்து மேலே போகும். ソ-வின் இரண்டு கோடுகளும் ツ போல மேலிருந்து கீழே விழும்."
+      },
+      "example": { "word": "ペン", "en": "pen", "ta": "பேனா" }
+    },
+
+    "ガ": { "example": { "word": "ガス", "en": "gas", "ta": "எரிவாயு (கேஸ்)" } },
+    "ギ": { "example": { "word": "ギター", "en": "guitar", "ta": "கிட்டார்" } },
+    "グ": { "example": { "word": "グラム", "en": "gram", "ta": "கிராம்" } },
+    "ゲ": { "example": { "word": "ゲーム", "en": "game", "ta": "விளையாட்டு" } },
+    "ゴ": { "example": { "word": "ゴール", "en": "goal", "ta": "இலக்கு (கோல்)" } },
+    "ザ": { "example": { "word": "ピザ", "en": "pizza", "ta": "பீட்சா" } },
+    "ジ": {
+      "note": {
+        "en": "ジ (voiced シ) is the normal way to write ji. ヂ sounds the same but is very rare.",
+        "ta": "ji ஒலிக்கு வழக்கமாக ジ (シ + ゛) தான் எழுதுவோம். ヂ-யும் அதே ஒலிதான், ஆனால் மிக அரிது."
+      },
+      "example": { "word": "ジーンズ", "en": "jeans", "ta": "ஜீன்ஸ்" }
+    },
+    "ズ": {
+      "note": {
+        "en": "ズ (voiced ス) is the normal way to write zu. ヅ sounds the same but is very rare.",
+        "ta": "zu ஒலிக்கு வழக்கமாக ズ (ス + ゛) தான் எழுதுவோம். ヅ-வும் அதே ஒலிதான், ஆனால் மிக அரிது."
+      },
+      "example": { "word": "ズボン", "en": "trousers", "ta": "கால்சட்டை" }
+    },
+    "ゼ": { "example": { "word": "ゼロ", "en": "zero", "ta": "பூஜ்ஜியம்" } },
+    "ゾ": { "example": { "word": "アマゾン", "en": "Amazon", "ta": "அமேசான்" } },
+    "ダ": { "example": { "word": "ダンス", "en": "dance", "ta": "நடனம்" } },
+    "ヂ": {
+      "note": {
+        "en": "ヂ sounds like ジ (ji), but foreign words almost never use it. Always write ジ. So there is no example word.",
+        "ta": "ヂ, ジ (ji) போலவே ஒலிக்கும்; ஆனால் வெளிநாட்டுச் சொற்களில் இது கிட்டத்தட்ட வருவதே இல்லை. எப்போதும் ジ என்றே எழுதுங்கள். அதனால் உதாரணச் சொல் இல்லை."
+      }
+    },
+    "ヅ": {
+      "note": {
+        "en": "ヅ sounds like ズ (zu), but foreign words almost never use it. Always write ズ. So there is no example word.",
+        "ta": "ヅ, ズ (zu) போலவே ஒலிக்கும்; ஆனால் வெளிநாட்டுச் சொற்களில் இது கிட்டத்தட்ட வருவதே இல்லை. எப்போதும் ズ என்றே எழுதுங்கள். அதனால் உதாரணச் சொல் இல்லை."
+      }
+    },
+    "デ": { "example": { "word": "デパート", "en": "department store", "ta": "பல்பொருள் அங்காடி" } },
+    "ド": { "example": { "word": "ドア", "en": "door", "ta": "கதவு" } },
+    "バ": { "example": { "word": "バス", "en": "bus", "ta": "பேருந்து" } },
+    "ビ": { "example": { "word": "ビル", "en": "building", "ta": "கட்டடம்" } },
+    "ブ": { "example": { "word": "ブラシ", "en": "brush", "ta": "தூரிகை (பிரஷ்)" } },
+    "ベ": { "example": { "word": "ベッド", "en": "bed", "ta": "கட்டில்" } },
+    "ボ": { "example": { "word": "ボールペン", "en": "ballpoint pen", "ta": "பால்பாயிண்ட் பேனா" } },
+    "パ": { "example": { "word": "パン", "en": "bread", "ta": "ரொட்டி" } },
+    "ピ": { "example": { "word": "ピアノ", "en": "piano", "ta": "பியானோ" } },
+    "プ": { "example": { "word": "プール", "en": "swimming pool", "ta": "நீச்சல் குளம்" } },
+    "ペ": { "example": { "word": "ページ", "en": "page", "ta": "பக்கம்" } },
+    "ポ": { "example": { "word": "ポスト", "en": "post box", "ta": "அஞ்சல் பெட்டி" } },
+
+    "キャ": { "example": { "word": "キャンプ", "en": "camp", "ta": "முகாம்" } },
+    "キュ": { "example": { "word": "バーベキュー", "en": "barbecue", "ta": "பார்பிக்யூ (நெருப்பில் சுட்ட உணவு)" } },
+    "キョ": {
+      "note": {
+        "en": "キョ is rare in loanwords. You mostly see it when Japanese place names are written in katakana, like トーキョー.",
+        "ta": "வெளிநாட்டுச் சொற்களில் キョ அரிது. ஜப்பானிய இடப் பெயர்களைக் கடகானாவில் எழுதும்போதுதான் அதிகம் பார்ப்பீர்கள் – トーキョー போல."
+      },
+      "example": { "word": "トーキョー", "en": "Tokyo (written in katakana)", "ta": "டோக்கியோ (கடகானாவில்)" }
+    },
+    "シャ": { "example": { "word": "シャツ", "en": "shirt", "ta": "சட்டை" } },
+    "シュ": { "example": { "word": "シューズ", "en": "shoes", "ta": "காலணிகள் (ஷூ)" } },
+    "ショ": { "example": { "word": "ショッピング", "en": "shopping", "ta": "பொருள் வாங்குதல் (ஷாப்பிங்)" } },
+    "チャ": { "example": { "word": "チャンス", "en": "chance", "ta": "வாய்ப்பு" } },
+    "チュ": { "example": { "word": "チューブ", "en": "tube", "ta": "குழாய் (டியூப்)" } },
+    "チョ": { "example": { "word": "チョコレート", "en": "chocolate", "ta": "சாக்லேட்" } },
+    "ニャ": { "example": { "word": "ニャー", "en": "meow (a cat’s sound)", "ta": "மியாவ் (பூனையின் சத்தம்)" } },
+    "ニュ": { "example": { "word": "ニュース", "en": "news", "ta": "செய்தி" } },
+    "ニョ": {
+      "note": {
+        "en": "ニョ is very rare. Just learn to read it.",
+        "ta": "ニョ மிக அரிது. படிக்கத் தெரிந்தால் போதும்."
+      },
+      "example": { "word": "ニョッキ", "en": "gnocchi (small Italian dumplings)", "ta": "நியோக்கி (சின்ன இத்தாலிய மாவு உருண்டைகள்)" }
+    },
+    "ヒャ": {
+      "note": {
+        "en": "ヒャ is very rare in loanwords. You see it mostly in comic sound words like ヒャー.",
+        "ta": "வெளிநாட்டுச் சொற்களில் ヒャ மிக அரிது. ヒャー போன்ற காமிக்ஸ் ஒலிச் சொற்களில்தான் அதிகம் வரும்."
+      },
+      "example": { "word": "ヒャー", "en": "Yikes! (a scream in comics)", "ta": "ஐயோ! (காமிக்ஸில் வரும் அலறல்)" }
+    },
+    "ヒュ": { "example": { "word": "ヒューズ", "en": "fuse (electric)", "ta": "ஃப்யூஸ் (மின் உருகி)" } },
+    "ヒョ": { "example": { "word": "ヒョウ", "en": "leopard (animal names are often in katakana)", "ta": "சிறுத்தை (விலங்குப் பெயர்கள் பெரும்பாலும் கடகானாவில்)" } },
+    "ミャ": { "example": { "word": "ミャンマー", "en": "Myanmar", "ta": "மியான்மர்" } },
+    "ミュ": { "example": { "word": "ミュージック", "en": "music", "ta": "இசை" } },
+    "ミョ": {
+      "note": {
+        "en": "ミョ is very rare. Just learn to read it.",
+        "ta": "ミョ மிக அரிது. படிக்கத் தெரிந்தால் போதும்."
+      },
+      "example": { "word": "ミョウガ", "en": "myoga (a Japanese ginger plant)", "ta": "மியோகா (ஒரு ஜப்பானிய இஞ்சி வகை)" }
+    },
+    "リャ": { "example": { "word": "リャマ", "en": "llama", "ta": "லாமா (தென் அமெரிக்க விலங்கு)" } },
+    "リュ": { "example": { "word": "リュック", "en": "backpack", "ta": "முதுகுப் பை" } },
+    "リョ": {
+      "note": {
+        "en": "リョ is rare in loanwords. You see it most in Japanese names written in katakana.",
+        "ta": "வெளிநாட்டுச் சொற்களில் リョ அரிது. கடகானாவில் எழுதும் ஜப்பானியப் பெயர்களில்தான் அதிகம் வரும்."
+      },
+      "example": { "word": "リョウ", "en": "Ryō (a Japanese boy’s name)", "ta": "ரியோ (ஜப்பானிய ஆண் பெயர்)" }
+    },
+    "ギャ": { "example": { "word": "ギャラリー", "en": "gallery", "ta": "கலைக்கூடம்" } },
+    "ギュ": { "example": { "word": "フィギュア", "en": "figure (a small model doll)", "ta": "சின்ன பொம்மைச் சிலை" } },
+    "ギョ": { "example": { "word": "ギョーザ", "en": "gyoza (dumplings)", "ta": "ஜியோசா (கொழுக்கட்டை போன்ற உணவு)" } },
+    "ジャ": { "example": { "word": "ジャム", "en": "jam", "ta": "ஜாம்" } },
+    "ジュ": { "example": { "word": "ジュース", "en": "juice", "ta": "பழச்சாறு" } },
+    "ジョ": { "example": { "word": "ジョギング", "en": "jogging", "ta": "மெல்லோட்டம் (ஜாகிங்)" } },
+    "ビャ": {
+      "note": {
+        "en": "ビャ is very rare. Plant names are often written in katakana, like ビャクダン.",
+        "ta": "ビャ மிக அரிது. ビャクダン போல, தாவரப் பெயர்கள் பெரும்பாலும் கடகானாவில் எழுதப்படும்."
+      },
+      "example": { "word": "ビャクダン", "en": "sandalwood", "ta": "சந்தனம்" }
+    },
+    "ビュ": { "example": { "word": "ビュッフェ", "en": "buffet", "ta": "பஃபே விருந்து" } },
+    "ビョ": {
+      "note": {
+        "en": "ビョ is very rare in katakana. Just learn to read it.",
+        "ta": "கடகானாவில் ビョ மிக அரிது. படிக்கத் தெரிந்தால் போதும்."
+      },
+      "example": { "word": "ビョーク", "en": "Björk (a singer’s name)", "ta": "பியோர்க் (ஒரு பாடகியின் பெயர்)" }
+    },
+    "ピャ": {
+      "note": {
+        "en": "ピャ is very rare. You may see it in comic sound words.",
+        "ta": "ピャ மிக அரிது. காமிக்ஸ் ஒலிச் சொற்களில் பார்க்கலாம்."
+      },
+      "example": { "word": "ピャー", "en": "eek (a high squeak in comics)", "ta": "கீச் (காமிக்ஸில் வரும் கூர்மையான சத்தம்)" }
+    },
+    "ピュ": { "example": { "word": "コンピューター", "en": "computer", "ta": "கணினி" } },
+    "ピョ": { "example": { "word": "ピョンピョン", "en": "hop hop (sound word for jumping)", "ta": "குதி குதி (தாவுவதைக் காட்டும் ஒலிச் சொல்)" } },
+
+    "ファ": { "example": { "word": "ファイル", "en": "file, folder", "ta": "கோப்பு (ஃபைல்)" } },
+    "フィ": { "example": { "word": "フィルム", "en": "film", "ta": "படச்சுருள் (ஃபிலிம்)" } },
+    "フェ": { "example": { "word": "カフェ", "en": "café", "ta": "காபிக் கடை (கஃபே)" } },
+    "フォ": { "example": { "word": "フォーク", "en": "fork", "ta": "முள்கரண்டி" } },
+    "ティ": {
+      "note": {
+        "en": "ティ is “ti” as in “tea”. Plain チ is “chi”.",
+        "ta": "ティ என்பது 'tea'-வில் வரும் 'டி'. சாதாரண チ என்பது 'சி'."
+      },
+      "example": { "word": "パーティー", "en": "party", "ta": "விருந்து" }
+    },
+    "ディ": { "example": { "word": "ディナー", "en": "dinner", "ta": "இரவு விருந்து" } },
+    "トゥ": { "example": { "word": "タトゥー", "en": "tattoo", "ta": "பச்சை குத்துதல்" } },
+    "ウィ": { "example": { "word": "ウィキペディア", "en": "Wikipedia", "ta": "விக்கிப்பீடியா" } },
+    "ウェ": { "example": { "word": "ウェイター", "en": "waiter", "ta": "உணவு பரிமாறுபவர்" } },
+    "ウォ": { "example": { "word": "ウォーキング", "en": "walking (for exercise)", "ta": "நடைப்பயிற்சி" } },
+    "シェ": { "example": { "word": "シェフ", "en": "chef", "ta": "சமையல் கலைஞர்" } },
+    "チェ": { "example": { "word": "チェンナイ", "en": "Chennai", "ta": "சென்னை" } },
+    "ジェ": { "example": { "word": "ジェット", "en": "jet (plane)", "ta": "ஜெட் விமானம்" } },
+    "ヴ": {
+      "note": {
+        "en": "ヴ (ウ with ゛) shows a “v” sound. Many words just use the バ row instead, like バイオリン (violin), and both are read with b.",
+        "ta": "ヴ (ウ + ゛) 'v' ஒலியைக் காட்டும். பல சொற்களில் バ வரிசையையே பயன்படுத்துவார்கள் – バイオリン (வயலின்) போல; இரண்டும் பெரும்பாலும் 'b' ஒலியிலேயே சொல்லப்படும்."
+      },
+      "example": { "word": "ヴィーナ", "en": "veena (Indian string instrument)", "ta": "வீணை" }
+    }
+  },
+  "rules": [
+    {
+      "id": "katakana-intro",
+      "unit": 1,
+      "title": { "en": "What is katakana?", "ta": "கடகானா என்றால் என்ன?" },
+      "body": {
+        "en": "Katakana has the same sounds as hiragana. Only the shapes are different: straight lines and sharp corners. You use it for words from other languages and for foreign names, like your own name.",
+        "ta": "கடகானாவில் ஹிரகானாவின் அதே ஒலிகள்தான். வடிவம் மட்டும் வேறு: நேர்கோடுகளும் கூர்மையான மூலைகளும். வேறு மொழிச் சொற்களுக்கும், உங்கள் சொந்தப் பெயர் போன்ற வெளிநாட்டுப் பெயர்களுக்கும் இதைப் பயன்படுத்துவோம்."
+      },
+      "examples": [
+        { "word": "あ → ア", "en": "same sound “a”, new shape", "ta": "அதே 'அ' ஒலி, புதிய வடிவம்" },
+        { "word": "インド", "en": "India", "ta": "இந்தியா" },
+        { "word": "カメラ", "en": "camera", "ta": "கேமரா" },
+        { "word": "アルン", "en": "Arun (a name)", "ta": "அருண் (ஒரு பெயர்)" }
+      ]
+    },
+    {
+      "id": "long-vowel-mark",
+      "unit": 1,
+      "title": { "en": "The long mark ー", "ta": "நீட்டல் குறி ー" },
+      "body": {
+        "en": "In katakana, a long vowel is shown with a dash: ー. It makes the sound before it twice as long, like the difference between கொ and கோ. In vertical writing, the dash stands up: ｜.",
+        "ta": "கடகானாவில் நீண்ட உயிர் ஒலியை ー என்ற கோட்டால் காட்டுவோம். அதற்கு முன் உள்ள ஒலியை இரண்டு மடங்கு நீட்டும் – கொ, கோ வேறுபாடு போல. மேலிருந்து கீழாக எழுதும்போது இந்தக் கோடு நேராக நிற்கும்: ｜."
+      },
+      "examples": [
+        { "word": "コーヒー", "en": "coffee (kōhī)", "ta": "காபி (கோஹீ)" },
+        { "word": "ケーキ", "en": "cake (kēki)", "ta": "கேக் (கேகி)" },
+        { "word": "セーター", "en": "sweater (sētā)", "ta": "ஸ்வெட்டர் (சேட்டா)" }
+      ]
+    },
+    {
+      "id": "dakuten",
+      "unit": 4,
+      "title": { "en": "Two dots ゛: voiced sounds", "ta": "இரண்டு புள்ளிகள் ゛: ஒலிப்பு மாற்றம்" },
+      "body": {
+        "en": "Put two small dots (゛) on the top right and the sound gets “heavier”. k → g, s → z, t → d, h → b. It works the same way as in hiragana.",
+        "ta": "மேல் வலப்பக்கம் இரண்டு சின்னப் புள்ளிகள் (゛) போட்டால் ஒலி 'கனமாக' மாறும். k → g, s → z, t → d, h → b. ஹிரகானாவில் உள்ளது போலவே."
+      },
+      "examples": [
+        { "word": "カ → ガ (ガス)", "en": "ka → ga (gas)", "ta": "ka → ga (எரிவாயு)" },
+        { "word": "ス → ズ (ズボン)", "en": "su → zu (trousers)", "ta": "su → zu (கால்சட்டை)" },
+        { "word": "ト → ド (ドア)", "en": "to → do (door)", "ta": "to → do (கதவு)" },
+        { "word": "ハ → バ (バス)", "en": "ha → ba (bus)", "ta": "ha → ba (பேருந்து)" }
+      ]
+    },
+    {
+      "id": "handakuten",
+      "unit": 4,
+      "title": { "en": "Small circle ゜: p sounds", "ta": "சின்ன வட்டம் ゜: p ஒலிகள்" },
+      "body": {
+        "en": "Only the ハ row takes a small circle (゜). It changes h into p. So ハ is ha, バ is ba, and パ is pa.",
+        "ta": "ハ வரிசைக்கு மட்டுமே சின்ன வட்டம் (゜) வரும். அது h-ஐ p-ஆக மாற்றும். ハ = ha, バ = ba, パ = pa."
+      },
+      "examples": [
+        { "word": "ハ → パ (パン)", "en": "ha → pa (bread)", "ta": "ha → pa (ரொட்டி)" },
+        { "word": "ヒ → ピ (ピアノ)", "en": "hi → pi (piano)", "ta": "hi → pi (பியானோ)" },
+        { "word": "ヘ → ペ (ペン)", "en": "he → pe (pen)", "ta": "he → pe (பேனா)" }
+      ]
+    },
+    {
+      "id": "yoon",
+      "unit": 5,
+      "title": { "en": "Small ャ ュ ョ: joined sounds", "ta": "சின்ன ャ ュ ョ: இணைந்த ஒலிகள்" },
+      "body": {
+        "en": "Write a small ャ, ュ or ョ after an “i” sound like キ, シ or チ. The two kana become one quick sound. Look at the size: シヤ is two sounds (shi-ya), but シャ is one (sha).",
+        "ta": "キ, シ, チ போன்ற 'இ' ஒலிக்குப் பின் சின்ன ャ, ュ, ョ எழுதுங்கள். இரண்டு எழுத்தும் சேர்ந்து ஒரே வேகமான ஒலியாகும். அளவைக் கவனியுங்கள்: シヤ இரண்டு ஒலிகள் (ஷி-யா), シャ ஒரே ஒலி (ஷா)."
+      },
+      "examples": [
+        { "word": "シャツ", "en": "shirt", "ta": "சட்டை" },
+        { "word": "ジュース", "en": "juice", "ta": "பழச்சாறு" },
+        { "word": "チョコレート", "en": "chocolate", "ta": "சாக்லேட்" }
+      ]
+    },
+    {
+      "id": "sokuon",
+      "unit": 5,
+      "title": { "en": "Small ッ: a short stop", "ta": "சின்ன ッ: ஒரு சிறு நிறுத்தம்" },
+      "body": {
+        "en": "A small ッ is not said as “tsu”. It means: stop for one short beat, then say the next sound strongly, like the double letter in Tamil பட்டம் or கப்பல். So ベッド is bed-do, not be-tsu-do.",
+        "ta": "சின்ன ッ-ஐ 'ட்ஸு' என்று சொல்லக் கூடாது. ஒரு சிறிய நொடி நிறுத்தி, அடுத்த ஒலியை அழுத்திச் சொல்ல வேண்டும் – தமிழில் பட்டம், கப்பல் போன்ற இரட்டை எழுத்து போல. ベッド என்றால் bed-do; be-tsu-do அல்ல."
+      },
+      "examples": [
+        { "word": "ベッド", "en": "bed", "ta": "கட்டில்" },
+        { "word": "カップ", "en": "cup", "ta": "கோப்பை" },
+        { "word": "ポケット", "en": "pocket", "ta": "சட்டைப் பை" }
+      ]
+    },
+    {
+      "id": "extended",
+      "unit": 6,
+      "title": { "en": "New sounds for foreign words", "ta": "வெளிநாட்டுச் சொற்களுக்கான புதிய ஒலிகள்" },
+      "body": {
+        "en": "Some foreign sounds do not exist in Japanese, like fa, ti, we or che. Katakana makes them by adding a small ァ ィ ゥ ェ ォ after another kana. Say the two kana together as one sound.",
+        "ta": "fa, ti, we, che போன்ற சில வெளிநாட்டு ஒலிகள் ஜப்பானிய மொழியில் இல்லை. கடகானா ஒரு எழுத்துக்குப் பின் சின்ன ァ ィ ゥ ェ ォ சேர்த்து அவற்றை உருவாக்குகிறது. இரண்டு எழுத்தையும் சேர்த்து ஒரே ஒலியாகச் சொல்லுங்கள்."
+      },
+      "examples": [
+        { "word": "チェンナイ", "en": "Chennai", "ta": "சென்னை" },
+        { "word": "フォーク", "en": "fork", "ta": "முள்கரண்டி" },
+        { "word": "パーティー", "en": "party", "ta": "விருந்து" },
+        { "word": "ウェイター", "en": "waiter", "ta": "உணவு பரிமாறுபவர்" }
+      ]
+    }
+  ]
+}

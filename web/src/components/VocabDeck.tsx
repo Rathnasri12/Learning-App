@@ -17,13 +17,17 @@ export default function VocabDeck({
   n,
   title,
   vocab,
+  bonus = false,
+  bonusCount = 0,
 }: {
   level: string;
   n: number;
   title: Lang3;
   vocab: Vocab[];
+  bonus?: boolean; // this deck is the optional bonus words
+  bonusCount?: number; // main deck: how many bonus words exist, to offer them at the end
 }) {
-  const key = lessonKey(level, n);
+  const key = lessonKey(bonus ? `${level}-bonus` : level, n);
   const settings = useProgress((s) => s.settings);
   const setSetting = useProgress((s) => s.setSetting);
   const markSeen = useProgress((s) => s.markVocabSeen);
@@ -157,7 +161,7 @@ export default function VocabDeck({
         <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="card p-6 text-center space-y-4">
           <div className="text-5xl">🎴</div>
           <h2 className="text-2xl font-black">
-            Deck done · <span lang="ja">{title.ja}</span>
+            {bonus ? "Bonus words done" : "Deck done"} · <span lang="ja">{title.ja}</span>
           </h2>
           <div className="flex justify-center gap-6">
             <div>
@@ -181,6 +185,11 @@ export default function VocabDeck({
             <Link href={`/${level}/lesson/${n}/grammar`} className="btn btn-indigo">
               Go to grammar
             </Link>
+            {!bonus && bonusCount > 0 && (
+              <Link href={`/${level}/lesson/${n}/bonus`} className="btn btn-ghost">
+                + {bonusCount} bonus words
+              </Link>
+            )}
           </div>
         </motion.div>
       )}

@@ -23,6 +23,9 @@ export default function TopBar() {
         </Link>
         <div className="flex items-center gap-2">
           <nav className="hidden sm:flex items-center gap-1 mr-1 text-sm font-extrabold">
+            <Link href="/kana" className="px-3 py-1 rounded-full hover:bg-bg-2">
+              <span lang="ja">かな</span>
+            </Link>
             <Link href="/n5" className="px-3 py-1 rounded-full hover:bg-bg-2">
               Lessons
             </Link>

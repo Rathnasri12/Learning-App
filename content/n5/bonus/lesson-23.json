@@ -1,0 +1,162 @@
+[
+  {
+    "id": "n5-b-23-01",
+    "expression": "お釣り",
+    "reading": "おつり",
+    "en": "change (money given back)",
+    "ta": "மீதிச் சில்லறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ここを 回すと、お釣りが 出ます。",
+        "reading": "ここを まわすと、おつりが でます。",
+        "ta": "இதைத் திருப்பினால் மீதிச் சில்லறை வரும்.",
+        "en": "Turn this and your change comes out."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-02",
+    "expression": "回す",
+    "reading": "まわす",
+    "en": "to turn, to rotate",
+    "ta": "திருப்ப (சுழற்ற)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "右に 回すと、音が 大きく なります。",
+        "reading": "みぎに まわすと、おとが おおきく なります。",
+        "ta": "வலது பக்கம் திருப்பினால் சத்தம் அதிகமாகும்.",
+        "en": "Turn it to the right and the sound gets louder."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-03",
+    "expression": "音",
+    "reading": "おと",
+    "en": "sound, noise",
+    "ta": "ஒலி (சத்தம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "テレビの 音が 小さいです。",
+        "reading": "テレビの おとが ちいさいです。",
+        "ta": "தொலைக்காட்சியின் சத்தம் குறைவாக இருக்கிறது.",
+        "en": "The TV sound is too low."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-04",
+    "expression": "機械",
+    "reading": "きかい",
+    "en": "machine",
+    "ta": "இயந்திரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 機械の 使い方が わかりません。",
+        "reading": "この きかいの つかいかたが わかりません。",
+        "ta": "இந்த இயந்திரத்தை எப்படிப் பயன்படுத்துவது என்று தெரியவில்லை.",
+        "en": "I don't know how to use this machine."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-05",
+    "expression": "故障",
+    "reading": "こしょう",
+    "en": "breakdown, being out of order",
+    "ta": "பழுது (இயங்காமை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "エレベーターが 故障して います。",
+        "reading": "エレベーターが こしょうして います。",
+        "ta": "மின்தூக்கி பழுதாகியிருக்கிறது.",
+        "en": "The elevator is out of order."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-06",
+    "expression": "壊れる",
+    "reading": "こわれる",
+    "en": "to break, to stop working",
+    "ta": "உடைய (பழுதாக)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "古い ラジオが 壊れました。",
+        "reading": "ふるい ラジオが こわれました。",
+        "ta": "பழைய வானொலி பழுதாகிவிட்டது.",
+        "en": "The old radio broke."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-07",
+    "expression": "直す",
+    "reading": "なおす",
+    "en": "to fix, to repair",
+    "ta": "சரிசெய்ய (பழுது பார்க்க)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "父は 壊れた 自転車を 直しました。",
+        "reading": "ちちは こわれた じてんしゃを なおしました。",
+        "ta": "அப்பா உடைந்த சைக்கிளைச் சரிசெய்தார்.",
+        "en": "My father fixed the broken bicycle."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-08",
+    "expression": "坂",
+    "reading": "さか",
+    "en": "slope, hill (road)",
+    "ta": "மேடு (சரிவான சாலை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "坂を 登ると、右に 病院が あります。",
+        "reading": "さかを のぼると、みぎに びょういんが あります。",
+        "ta": "மேட்டில் ஏறினால், வலது பக்கம் மருத்துவமனை இருக்கிறது.",
+        "en": "Go up the slope and the hospital is on your right."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-09",
+    "expression": "怖い",
+    "reading": "こわい",
+    "en": "scary, afraid",
+    "ta": "பயமான (பயமாக இருக்கும்)",
+    "pos": "i-adjective",
+    "examples": [
+      {
+        "ja": "夜 一人で この 道を 歩くと、怖いです。",
+        "reading": "よる ひとりで この みちを あるくと、こわいです。",
+        "ta": "இரவில் தனியாக இந்தச் சாலையில் நடந்தால் பயமாக இருக்கும்.",
+        "en": "Walking down this road alone at night is scary."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-23-10",
+    "expression": "学生時代",
+    "reading": "がくせいじだい",
+    "en": "student days",
+    "ta": "மாணவப் பருவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "学生時代、よく 音楽を 聞きながら 勉強しました。",
+        "reading": "がくせいじだい、よく おんがくを ききながら べんきょうしました。",
+        "ta": "மாணவப் பருவத்தில், அடிக்கடி இசை கேட்டுக்கொண்டே படித்தேன்.",
+        "en": "In my student days, I often studied while listening to music."
+      }
+    ]
+  }
+]

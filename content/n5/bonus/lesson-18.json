@@ -1,0 +1,130 @@
+[
+  {
+    "id": "n5-b-18-01",
+    "expression": "運転",
+    "reading": "うんてん",
+    "en": "driving (〜する: to drive)",
+    "ta": "வாகனம் ஓட்டுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は 車の 運転が できます。",
+        "reading": "わたしは くるまの うんてんが できます。",
+        "ta": "என்னால் கார் ஓட்ட முடியும்.",
+        "en": "I can drive a car."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-02",
+    "expression": "スケート",
+    "reading": "スケート",
+    "en": "skating",
+    "ta": "ஸ்கேட்டிங்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "スケートが できますか。",
+        "reading": "スケートが できますか。",
+        "ta": "உங்களால் ஸ்கேட்டிங் செய்ய முடியுமா?",
+        "en": "Can you skate?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-03",
+    "expression": "読書",
+    "reading": "どくしょ",
+    "en": "reading (books)",
+    "ta": "புத்தக வாசிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄の 趣味は 読書です。",
+        "reading": "あにの しゅみは どくしょです。",
+        "ta": "என் அண்ணனின் பொழுதுபோக்கு புத்தக வாசிப்பு.",
+        "en": "My older brother's hobby is reading."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-04",
+    "expression": "小説",
+    "reading": "しょうせつ",
+    "en": "novel",
+    "ta": "நாவல் (புதினம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の 中で 小説を 読むのが 好きです。",
+        "reading": "でんしゃの なかで しょうせつを よむのが すきです。",
+        "ta": "ரயிலில் நாவல் படிப்பது எனக்குப் பிடிக்கும்.",
+        "en": "I like reading novels on the train."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-05",
+    "expression": "日記",
+    "reading": "にっき",
+    "en": "diary",
+    "ta": "நாட்குறிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎晩 寝る 前に、日記を 書きます。",
+        "reading": "まいばん ねる まえに、にっきを かきます。",
+        "ta": "ஒவ்வொரு இரவும் தூங்குவதற்கு முன், நாட்குறிப்பு எழுதுகிறேன்.",
+        "en": "Every night before I go to bed, I write in my diary."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-06",
+    "expression": "興味",
+    "reading": "きょうみ",
+    "en": "interest (〜に 〜が ある: be interested in)",
+    "ta": "ஆர்வம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の 音楽に 興味が あります。",
+        "reading": "にほんの おんがくに きょうみが あります。",
+        "ta": "ஜப்பானிய இசையில் எனக்கு ஆர்வம் இருக்கிறது.",
+        "en": "I am interested in Japanese music."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-07",
+    "expression": "楽器",
+    "reading": "がっき",
+    "en": "musical instrument",
+    "ta": "இசைக்கருவி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "何か 楽器が できますか。",
+        "reading": "なにか がっきが できますか。",
+        "ta": "ஏதாவது இசைக்கருவி வாசிக்கத் தெரியுமா?",
+        "en": "Can you play any instrument?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-18-08",
+    "expression": "馬",
+    "reading": "うま",
+    "en": "horse",
+    "ta": "குதிரை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は 馬に 乗る ことが できます。",
+        "reading": "わたしは うまに のる ことが できます。",
+        "ta": "என்னால் குதிரை சவாரி செய்ய முடியும்.",
+        "en": "I can ride a horse."
+      }
+    ]
+  }
+]

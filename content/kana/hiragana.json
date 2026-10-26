@@ -1,0 +1,626 @@
+{
+  "script": "hiragana",
+  "intro": {
+    "en": "Hiragana is the first Japanese script you learn. It has 46 basic letters, and each letter is one sound, just like Tamil letters. You use it for Japanese words and for the small grammar parts of a sentence, like word endings and particles.",
+    "ta": "ஹிரகானா நீங்கள் முதலில் கற்கும் ஜப்பானிய எழுத்து முறை. இதில் 46 அடிப்படை எழுத்துகள் உள்ளன; தமிழ் எழுத்துகள் போலவே ஒவ்வொரு எழுத்தும் ஒரு ஒலி. ஜப்பானிய சொற்களையும், வினைச்சொல் முடிவுகள், இடைச்சொற்கள் போன்ற இலக்கணப் பகுதிகளையும் இதில் எழுதுவீர்கள்."
+  },
+  "units": {
+    "1": {
+      "en": "Start with the five vowels あいうえお and the か and さ rows. Japanese vowels are short and clear, like Tamil அ இ உ எ ஒ.",
+      "ta": "ஐந்து உயிர் எழுத்துகள் あいうえお, பிறகு か, さ வரிசைகளுடன் தொடங்குங்கள். ஜப்பானிய உயிர் ஒலிகள் தமிழ் அ இ உ எ ஒ போலவே குறுகியவை, தெளிவானவை."
+    },
+    "2": {
+      "en": "Now learn the た, な and は rows. Watch for ち (chi), つ (tsu) and ふ (fu): they do not follow the pattern of their row.",
+      "ta": "இப்போது た, な, は வரிசைகளைக் கற்கலாம். ち (சி), つ (த்ஸு), ふ (ஃபு) ஆகியவை தங்கள் வரிசையின் வழக்கமான ஒலியைப் பின்பற்றாது; கவனமாக இருங்கள்."
+    },
+    "3": {
+      "en": "Finish the basic letters with the ま, や, ら and わ rows, plus を and ん. After this unit you can read every basic hiragana sound.",
+      "ta": "ま, や, ら, わ வரிசைகள், を, ん ஆகியவற்றுடன் அடிப்படை எழுத்துகள் முடிகின்றன. இந்தப் பாடத்துக்குப் பிறகு எல்லா அடிப்படை ஹிரகானா ஒலிகளையும் படிக்க முடியும்."
+    },
+    "4": {
+      "en": "Two small marks change a sound. Two dashes (゛) make it voiced: か ka → が ga. A small circle (゜) on the は row makes a p sound: は ha → ぱ pa.",
+      "ta": "இரண்டு சிறிய குறிகள் ஒலியை மாற்றும். இரண்டு கோடுகள் (゛) ஒலியை மென்மையாக்கும்: か ka → が ga. は வரிசையில் ஒரு சிறிய வட்டம் (゜) 'ப' ஒலியைத் தரும்: は ha → ぱ pa."
+    },
+    "5": {
+      "en": "Join a small ゃ, ゅ or ょ to a letter to make one quick sound: き + ゃ = きゃ (kya). You also learn the small っ pause and long vowels.",
+      "ta": "ஒரு எழுத்துடன் சிறிய ゃ, ゅ, ょ சேர்த்தால் ஒரே விரைவான ஒலி கிடைக்கும்: き + ゃ = きゃ (க்ய). சிறிய っ நிறுத்தத்தையும் நீண்ட உயிர் ஒலிகளையும் இங்கே கற்பீர்கள்."
+    }
+  },
+  "chars": {
+    "あ": {
+      "mnemonic": {
+        "en": "あ looks like an apple with a stick pushed through it: apple → a.",
+        "ta": "あ ஒரு குச்சி குத்திய வட்டமான அப்பளம் போல் தெரிகிறது: அப்பளம் → அ."
+      },
+      "note": {
+        "en": "あ and お look alike. あ has a cross on top; お has a single stroke and a small dash on the right.",
+        "ta": "あ, お இரண்டும் ஒன்று போல் தெரியும். あ மேலே சிலுவைக் குறி கொண்டது; お-வில் ஒரு கோடும் வலப்பக்கம் ஒரு சிறு கோடும் உண்டு."
+      },
+      "example": { "word": "あめ", "en": "rain", "ta": "மழை" }
+    },
+    "い": {
+      "mnemonic": {
+        "en": "い is two leaves standing side by side, like two eels: eel → i.",
+        "ta": "い இரண்டு இலைகள் அருகருகே நிற்பது போல் இருக்கிறது: இலை → இ."
+      },
+      "example": { "word": "いえ", "en": "house", "ta": "வீடு" }
+    },
+    "う": {
+      "mnemonic": {
+        "en": "う is a face: a small dash for the nose and a round mouth pushed out to say “oo”: u.",
+        "ta": "う ஒரு முகம்: மேலே சிறு கோடு மூக்கு, கீழே 'உ' என்று குவிந்த உதடு: உதடு → உ."
+      },
+      "example": { "word": "うみ", "en": "sea", "ta": "கடல்" }
+    },
+    "え": {
+      "mnemonic": {
+        "en": "え looks like a rat running: a small ear on top and a tail sweeping out at the bottom. In Tamil a rat is எலி: eli → e.",
+        "ta": "え ஓடும் எலி போல் இருக்கிறது: மேலே சிறு காது, கீழே வளைந்து ஓடும் வால்: எலி → எ."
+      },
+      "example": { "word": "えき", "en": "train station", "ta": "ரயில் நிலையம்" }
+    },
+    "お": {
+      "mnemonic": {
+        "en": "お looks like a camel: the round curve is its hump and the dash is its head. In Tamil a camel is ஒட்டகம்: ottagam → o.",
+        "ta": "お ஒரு ஒட்டகம் போல்: வளைந்த பகுதி அதன் திமில், மேலே உள்ள சிறு கோடு அதன் தலை: ஒட்டகம் → ஒ."
+      },
+      "example": { "word": "おかね", "en": "money", "ta": "பணம்" }
+    },
+    "か": {
+      "mnemonic": {
+        "en": "か is a knife cutting, with a small piece flying off to the side. In Tamil a knife is கத்தி: kaththi → ka.",
+        "ta": "か ஒரு கத்தி வெட்டுவது போல், பக்கத்தில் ஒரு சிறு துண்டு பறக்கிறது: கத்தி → க."
+      },
+      "example": { "word": "かさ", "en": "umbrella", "ta": "குடை" }
+    },
+    "き": {
+      "mnemonic": {
+        "en": "き looks like a key with two teeth: key → ki.",
+        "ta": "き இரண்டு பற்கள் கொண்ட ஒரு சாவி போல் இருக்கிறது: ஆங்கிலத்தில் key → கி."
+      },
+      "note": {
+        "en": "き has two lines across; さ has only one. In some fonts the bottom of き is split in two.",
+        "ta": "き-வில் இரண்டு குறுக்குக் கோடுகள்; さ-வில் ஒன்றுதான். சில எழுத்துருக்களில் き-வின் கீழ்ப்பகுதி இரண்டாகப் பிரிந்திருக்கும்."
+      },
+      "example": { "word": "きのう", "en": "yesterday", "ta": "நேற்று" }
+    },
+    "く": {
+      "mnemonic": {
+        "en": "く is the open beak of a singing koel bird (குயில், kuyil): kuyil → ku.",
+        "ta": "く பாடும் குயிலின் திறந்த அலகு போல் இருக்கிறது: குயில் → கு."
+      },
+      "example": { "word": "くつ", "en": "shoes", "ta": "காலணி" }
+    },
+    "け": {
+      "mnemonic": {
+        "en": "け is a post standing next to a village well (கேணி, keni) with a rope going down: keni → ke.",
+        "ta": "け: இடப்பக்கம் ஒரு கம்பம், வலப்பக்கம் கயிறு தொங்கும் ஏற்றம் — கேணியில் நீர் இறைப்பது போல்: கேணி → கெ."
+      },
+      "example": { "word": "けさ", "en": "this morning", "ta": "இன்று காலை" }
+    },
+    "こ": {
+      "mnemonic": {
+        "en": "こ is two short horns lying down, like a bull’s horns (கொம்பு, kombu): kombu → ko.",
+        "ta": "こ படுத்திருக்கும் இரண்டு மாட்டுக் கொம்புகள் போல் இருக்கிறது: கொம்பு → கொ."
+      },
+      "note": {
+        "en": "こ has two lines lying flat; い has two lines standing up.",
+        "ta": "こ-வில் இரண்டு கோடுகள் படுத்திருக்கும்; い-வில் இரண்டு கோடுகள் நின்றிருக்கும்."
+      },
+      "example": { "word": "ここ", "en": "here", "ta": "இங்கே" }
+    },
+    "さ": {
+      "mnemonic": {
+        "en": "さ is a samurai’s face from the side: a sword across the top and a curved chin below: samurai → sa.",
+        "ta": "さ பக்கவாட்டில் தெரியும் ஒரு சாமுராய் வீரனின் முகம்: மேலே குறுக்கே வாள், கீழே வளைந்த தாடை: சாமுராய் → ஸ."
+      },
+      "note": {
+        "en": "さ and ち are mirror images. さ opens to the left at the bottom; ち opens to the right.",
+        "ta": "さ, ち இரண்டும் கண்ணாடிப் பிம்பம் போன்றவை. さ-வின் கீழ்ப்பகுதி இடப்பக்கம் திறந்திருக்கும்; ち வலப்பக்கம் திறந்திருக்கும்."
+      },
+      "example": { "word": "さかな", "en": "fish", "ta": "மீன்" }
+    },
+    "し": {
+      "mnemonic": {
+        "en": "し is the curved tail of a lion (சிங்கம், singam): singam → shi.",
+        "ta": "し ஒரு சிங்கத்தின் வளைந்த வால் போல் இருக்கிறது: சிங்கம் → ஷி."
+      },
+      "note": {
+        "en": "Say “shi”, not “si”, like the start of English “she”.",
+        "ta": "'ஸி' அல்ல, 'ஷி' என்று சொல்லுங்கள் — ஆங்கில 'she' போல."
+      },
+      "example": { "word": "しお", "en": "salt", "ta": "உப்பு" }
+    },
+    "す": {
+      "mnemonic": {
+        "en": "す is a rope hanging from a bar with a coil in it, like a swing: swing → su.",
+        "ta": "す ஒரு கம்பியில் சுருண்டு தொங்கும் கயிறு போல் இருக்கிறது: சுருள் → ஸு."
+      },
+      "note": {
+        "en": "The u in す is very soft. In です and ます it often sounds like just “s”.",
+        "ta": "す-வில் உள்ள 'உ' மிக மெதுவாக ஒலிக்கும். です, ます-வில் பெரும்பாலும் வெறும் 'ஸ்' போல் கேட்கும்."
+      },
+      "example": { "word": "すし", "en": "sushi", "ta": "சூஷி (ஜப்பானிய உணவு)" }
+    },
+    "せ": {
+      "mnemonic": {
+        "en": "せ looks like a young plant (செடி, sedi): a long branch with two stems, one bent over: sedi → se.",
+        "ta": "せ ஒரு சிறிய செடி போல்: நீண்ட கிளை, இரண்டு தண்டுகள், ஒன்று வளைந்திருக்கிறது: செடி → ஸெ."
+      },
+      "example": { "word": "せんせい", "en": "teacher", "ta": "ஆசிரியர்" }
+    },
+    "そ": {
+      "mnemonic": {
+        "en": "そ is a zigzag thread, like a line of sewing: sew → so.",
+        "ta": "そ நெளிந்து போகும் தையல் நூல் போல் இருக்கிறது: ஆங்கிலத்தில் sew (தை) → ஸொ."
+      },
+      "example": { "word": "そら", "en": "sky", "ta": "வானம்" }
+    },
+    "た": {
+      "mnemonic": {
+        "en": "た is made of a small t on the left and an a-like shape on the right: t + a → ta.",
+        "ta": "た-வில் இடப்பக்கம் ஒரு தடி போன்ற 't', வலப்பக்கம் 'a' போன்ற வடிவம்: t + a → த."
+      },
+      "note": {
+        "en": "た and な both start with a cross. な has a loop at the bottom right; た does not.",
+        "ta": "た, な இரண்டும் சிலுவையுடன் தொடங்கும். な-வின் வலப்பக்கக் கீழே ஒரு சுழல் உண்டு; た-வில் இல்லை."
+      },
+      "example": { "word": "たまご", "en": "egg", "ta": "முட்டை" }
+    },
+    "ち": {
+      "mnemonic": {
+        "en": "ち looks like a sparrow (சிட்டு, chittu) with a crest on its head and a round body: chittu → chi.",
+        "ta": "ち ஒரு சிட்டுக்குருவி போல்: மேலே கொண்டை, கீழே உருண்டையான உடல்: சிட்டு → சி."
+      },
+      "note": {
+        "en": "ち is “chi”, not “ti”. Do not mix it up with さ, its mirror image.",
+        "ta": "ち 'டி' அல்ல, 'சி'. அதன் கண்ணாடிப் பிம்பமான さ-வுடன் குழப்பாதீர்கள்."
+      },
+      "example": { "word": "ちず", "en": "map", "ta": "வரைபடம்" }
+    },
+    "つ": {
+      "mnemonic": {
+        "en": "つ is one big wave rolling in: tsunami → tsu.",
+        "ta": "つ கரைக்கு உருண்டு வரும் ஒரு பெரிய அலை போல்: சுனாமி → த்ஸு."
+      },
+      "note": {
+        "en": "Say “tsu” with a quick t before the s, like the end of English “cats”.",
+        "ta": "'ஸு'-க்கு முன் விரைவான 'த்' சேர்த்து 'த்ஸு' என்று சொல்லுங்கள் — ஆங்கில 'cats' முடிவு போல."
+      },
+      "example": { "word": "つくえ", "en": "desk", "ta": "மேசை" }
+    },
+    "て": {
+      "mnemonic": {
+        "en": "て looks like a coconut tree bent by the wind. In Tamil it is தென்னை: thennai → te.",
+        "ta": "て காற்றில் வளைந்த தென்னை மரம் போல் இருக்கிறது: தென்னை → தெ."
+      },
+      "example": { "word": "て", "en": "hand", "ta": "கை" }
+    },
+    "と": {
+      "mnemonic": {
+        "en": "と is a toe with a thorn stuck in it: toe → to.",
+        "ta": "と ஒரு கால் விரலில் (ஆங்கிலத்தில் toe) முள் குத்தியது போல் இருக்கிறது: toe → தொ."
+      },
+      "example": { "word": "とけい", "en": "clock, watch", "ta": "கடிகாரம்" }
+    },
+    "な": {
+      "mnemonic": {
+        "en": "な is a cross with a rope tied in a knot beside it, like a ship’s anchor (நங்கூரம், nangooram): nangooram → na.",
+        "ta": "な: ஒரு சிலுவை, அருகில் முடிச்சுப் போட்ட கயிறு — கப்பலின் நங்கூரம் போல்: நங்கூரம் → ந."
+      },
+      "example": { "word": "なつ", "en": "summer", "ta": "கோடைக் காலம்" }
+    },
+    "に": {
+      "mnemonic": {
+        "en": "に is a needle on the left with two pieces of thread beside it: needle → ni.",
+        "ta": "に: இடப்பக்கம் ஒரு கம்பம், அருகில் அதன் இரண்டு நிழல் கோடுகள்: நிழல் → நி."
+      },
+      "example": { "word": "にく", "en": "meat", "ta": "இறைச்சி" }
+    },
+    "ぬ": {
+      "mnemonic": {
+        "en": "ぬ is a bowl of noodles twisted around chopsticks, with a loop at the end: noodles → nu.",
+        "ta": "ぬ குச்சிகளில் சுற்றிய நூடுல்ஸ் போல், முடிவில் ஒரு சுழல்: நூடுல்ஸ் → நு."
+      },
+      "note": {
+        "en": "ぬ has a small loop at the end; め does not.",
+        "ta": "ぬ-வின் முடிவில் ஒரு சிறு சுழல் உண்டு; め-வில் இல்லை."
+      },
+      "example": { "word": "いぬ", "en": "dog", "ta": "நாய்" }
+    },
+    "ね": {
+      "mnemonic": {
+        "en": "ね is a snake wriggling around a pole with its tail in a loop. In Tamil, to wriggle is நெளி: neli → ne.",
+        "ta": "ね ஒரு கம்பைச் சுற்றி நெளியும் பாம்பு போல், வால் சுழலாக இருக்கிறது: நெளி → நெ."
+      },
+      "note": {
+        "en": "ね, れ and わ all start with the same pole. ね ends in a loop, れ ends in a kick out, わ ends in a round curve.",
+        "ta": "ね, れ, わ மூன்றும் ஒரே கம்பத்துடன் தொடங்கும். ね சுழலில் முடியும், れ வெளியே உதைப்பது போல் முடியும், わ வட்டமான வளைவில் முடியும்."
+      },
+      "example": { "word": "ねこ", "en": "cat", "ta": "பூனை" }
+    },
+    "の": {
+      "mnemonic": {
+        "en": "の looks like a “No!” sign: a circle with a line through it: no → no.",
+        "ta": "の 'கூடாது' அடையாளம் போல், வட்டத்தின் குறுக்கே ஒரு கோடு: ஆங்கில No → நொ."
+      },
+      "example": { "word": "のみもの", "en": "drink", "ta": "பானம்" }
+    },
+    "は": {
+      "mnemonic": {
+        "en": "は is a man (the line on the left) laughing next to his friend: “Ha ha!” → ha.",
+        "ta": "は: இடப்பக்கக் கோடு ஒரு மனிதர், அருகில் நண்பருடன் 'ஹா ஹா' என்று சிரிக்கிறார்: ஹா → ஹ."
+      },
+      "note": {
+        "en": "When は is the topic particle, read it “wa”, not “ha”: わたしは.",
+        "ta": "は எழுவாய்க் குறி இடைச்சொல்லாக வரும்போது 'ha' அல்ல, 'wa' என்று படிக்க வேண்டும்: わたしは."
+      },
+      "example": { "word": "はな", "en": "flower", "ta": "பூ" }
+    },
+    "ひ": {
+      "mnemonic": {
+        "en": "ひ is a big grinning mouth going “hee hee”: hi.",
+        "ta": "ひ 'ஹி ஹி' என்று இளிக்கும் பெரிய வாய் போல் இருக்கிறது: ஹி."
+      },
+      "example": { "word": "ひと", "en": "person", "ta": "மனிதர்" }
+    },
+    "ふ": {
+      "mnemonic": {
+        "en": "ふ is a mouth blowing “foo” with little puffs of air all around it: fu.",
+        "ta": "ふ 'ஃபூ' என்று ஊதும் வாய் போல், சுற்றிலும் சிறு காற்றுத் துளிகள்: ஊது → ஃபு."
+      },
+      "note": {
+        "en": "ふ is between “fu” and “hu”. Blow softly through your lips; do not bite your lip like English f.",
+        "ta": "ふ 'ஃபு'-க்கும் 'ஹு'-க்கும் இடையிலான ஒலி. உதடுகள் வழியாக மெதுவாக ஊதுங்கள்; ஆங்கில f போல உதட்டைக் கடிக்க வேண்டாம்."
+      },
+      "example": { "word": "ふゆ", "en": "winter", "ta": "குளிர்காலம்" }
+    },
+    "へ": {
+      "mnemonic": {
+        "en": "へ is a small hill. You climb it and shout “Hey!” at the top: he.",
+        "ta": "へ ஒரு சிறிய மலை. ஏறி உச்சியில் 'ஹே!' என்று கத்துகிறீர்கள்: ஹெ."
+      },
+      "note": {
+        "en": "As the direction particle (“to”), へ is read “e”: がっこうへ.",
+        "ta": "'நோக்கி' என்ற திசை இடைச்சொல்லாக வரும்போது へ 'e' என்று படிக்கப்படும்: がっこうへ."
+      },
+      "example": { "word": "へや", "en": "room", "ta": "அறை" }
+    },
+    "ほ": {
+      "mnemonic": {
+        "en": "ほ is a post next to a house with a two-level roof: home → ho.",
+        "ta": "ほ: ஒரு கம்பம், அருகில் இரண்டு அடுக்குக் கூரை கொண்ட வீடு: ஆங்கில home → ஹொ."
+      },
+      "note": {
+        "en": "ほ is like は with one more line on top.",
+        "ta": "ほ என்பது は-வுடன் மேலே இன்னொரு கோடு சேர்த்தது போன்றது."
+      },
+      "example": { "word": "ほん", "en": "book", "ta": "புத்தகம்" }
+    },
+    "ま": {
+      "mnemonic": {
+        "en": "ま is a tree with two branches and its root curled at the bottom. In Tamil a tree is மரம்: maram → ma.",
+        "ta": "ま இரண்டு கிளைகள் கொண்ட மரம், கீழே வேர் சுருண்டிருக்கிறது: மரம் → ம."
+      },
+      "note": {
+        "en": "ま and も both have two lines across. ま ends in a closed loop at the bottom; も ends in an open hook.",
+        "ta": "ま, も இரண்டிலும் இரண்டு குறுக்குக் கோடுகள் உண்டு. ま கீழே மூடிய சுழலில் முடியும்; も திறந்த கொக்கியில் முடியும்."
+      },
+      "example": { "word": "まど", "en": "window", "ta": "ஜன்னல்" }
+    },
+    "み": {
+      "mnemonic": {
+        "en": "み looks like a fish with a curled body and a long tail. In Tamil a fish is மீன்: meen → mi.",
+        "ta": "み சுருண்ட உடலும் நீண்ட வாலும் கொண்ட மீன் போல் இருக்கிறது: மீன் → மி."
+      },
+      "example": { "word": "みず", "en": "water", "ta": "தண்ணீர்" }
+    },
+    "む": {
+      "mnemonic": {
+        "en": "む is a cow with a horn on top and a curly tail, going “moo”: mu.",
+        "ta": "む மேலே கொம்பும் சுருண்ட வாலும் கொண்ட பசு 'ம்மு' என்று கத்துவது போல்: மு."
+      },
+      "example": { "word": "むし", "en": "insect, bug", "ta": "பூச்சி" }
+    },
+    "め": {
+      "mnemonic": {
+        "en": "め looks like an eye with a line across it. Fun fact: め means “eye” in Japanese: me.",
+        "ta": "め குறுக்குக் கோடு கொண்ட ஒரு கண் போல் இருக்கிறது. ஜப்பானிய மொழியில் め என்றாலே 'கண்': மெ."
+      },
+      "note": {
+        "en": "め has no loop at the end; ぬ does.",
+        "ta": "め-வின் முடிவில் சுழல் இல்லை; ぬ-வில் உண்டு."
+      },
+      "example": { "word": "め", "en": "eye", "ta": "கண்" }
+    },
+    "も": {
+      "mnemonic": {
+        "en": "も is a fishing hook with two worms on it, catching more fish: more → mo.",
+        "ta": "も இரண்டு புழுக்கள் கோத்த தூண்டில் முள் போல் இருக்கிறது — 'மோர்' (more) மீன் பிடிக்க: மோர் → மொ."
+      },
+      "example": { "word": "もの", "en": "thing", "ta": "பொருள்" }
+    },
+    "や": {
+      "mnemonic": {
+        "en": "や looks like an elephant with a curved tusk and a trunk. In Tamil an elephant is யானை: yaanai → ya.",
+        "ta": "や வளைந்த தந்தமும் துதிக்கையும் கொண்ட யானை போல் இருக்கிறது: யானை → ய."
+      },
+      "example": { "word": "やま", "en": "mountain", "ta": "மலை" }
+    },
+    "ゆ": {
+      "mnemonic": {
+        "en": "ゆ is a fish making a U-turn in the water: U → yu.",
+        "ta": "ゆ தண்ணீரில் 'U' திருப்பம் போடும் மீன் போல் இருக்கிறது: U → யு."
+      },
+      "example": { "word": "ゆき", "en": "snow", "ta": "பனி" }
+    },
+    "よ": {
+      "mnemonic": {
+        "en": "よ is a yo-yo hanging from a string: yo-yo → yo.",
+        "ta": "よ கயிற்றில் தொங்கும் யோ-யோ பொம்மை போல் இருக்கிறது: யோ-யோ → யொ."
+      },
+      "example": { "word": "よる", "en": "night", "ta": "இரவு" }
+    },
+    "ら": {
+      "mnemonic": {
+        "en": "ら is a rabbit sitting with one ear up: rabbit → ra.",
+        "ta": "ら ஒரு காதை உயர்த்தி உட்கார்ந்திருக்கும் முயல் போல்: ஆங்கில rabbit → ர."
+      },
+      "note": {
+        "en": "The ら row is a light tap of the tongue, between r and l. It is close to Tamil ர, not a rolled ற.",
+        "ta": "ら வரிசை நாக்கின் லேசான தட்டல்; r-க்கும் l-க்கும் இடைப்பட்டது. இது தமிழ் 'ர' போன்றது, உருட்டும் 'ற' அல்ல."
+      },
+      "example": { "word": "らいねん", "en": "next year", "ta": "அடுத்த ஆண்டு" }
+    },
+    "り": {
+      "mnemonic": {
+        "en": "り is two ribbons hanging down side by side: ribbon → ri.",
+        "ta": "り அருகருகே தொங்கும் இரண்டு ரிப்பன்கள் போல் இருக்கிறது: ரிப்பன் → ரி."
+      },
+      "example": { "word": "りんご", "en": "apple", "ta": "ஆப்பிள்" }
+    },
+    "る": {
+      "mnemonic": {
+        "en": "る is a winding route with a loop at the end, like a roundabout: route → ru.",
+        "ta": "る வளைந்து செல்லும் சாலை, முடிவில் ஒரு சுழல் (ரவுண்டானா) போல்: ரூட் → ரு."
+      },
+      "note": {
+        "en": "る has a loop at the end; ろ does not.",
+        "ta": "る-வின் முடிவில் சுழல் உண்டு; ろ-வில் இல்லை."
+      },
+      "example": { "word": "はる", "en": "spring (season)", "ta": "வசந்த காலம்" }
+    },
+    "れ": {
+      "mnemonic": {
+        "en": "れ is a pole with a wing opening out to the right. In everyday Tamil a wing is ரெக்கை: rekkai → re.",
+        "ta": "れ ஒரு கம்பத்தின் அருகே வலப்பக்கம் விரியும் ரெக்கை போல் இருக்கிறது: ரெக்கை → ரெ."
+      },
+      "note": {
+        "en": "れ ends with a kick out to the right; ね ends in a loop and わ in a round curve.",
+        "ta": "れ வலப்பக்கம் உதைப்பது போல் முடியும்; ね சுழலில், わ வட்ட வளைவில் முடியும்."
+      },
+      "example": { "word": "れいぞうこ", "en": "fridge", "ta": "குளிர்சாதனப் பெட்டி" }
+    },
+    "ろ": {
+      "mnemonic": {
+        "en": "ろ is the same road as る but with no loop at the end, so it just goes on: road → ro.",
+        "ta": "ろ என்பது る போன்ற சாலை, ஆனால் முடிவில் சுழல் இல்லாமல் நேராகப் போகிறது: ஆங்கில road → ரொ."
+      },
+      "example": { "word": "ろく", "en": "six", "ta": "ஆறு" }
+    },
+    "わ": {
+      "mnemonic": {
+        "en": "わ looks like a duck sitting on water, with a long neck and a round body. In Tamil a duck is வாத்து: vaaththu → wa.",
+        "ta": "わ நீண்ட கழுத்தும் உருண்டையான உடலும் கொண்ட வாத்து தண்ணீரில் அமர்ந்திருப்பது போல்: வாத்து → வ."
+      },
+      "note": {
+        "en": "わ ends in a round curve; ね ends in a loop and れ in a kick.",
+        "ta": "わ வட்ட வளைவில் முடியும்; ね சுழலில், れ உதைப்பது போல் முடியும்."
+      },
+      "example": { "word": "わたし", "en": "I, me", "ta": "நான்" }
+    },
+    "を": {
+      "mnemonic": {
+        "en": "を is a man bowing low under a heavy load, saying “Whoa!”: wo.",
+        "ta": "を கனமான சுமையுடன் குனிந்து 'வோ!' என்று சொல்லும் மனிதர் போல் இருக்கிறது: வொ."
+      },
+      "note": {
+        "en": "を is used only as the object particle, and it is read “o”, the same as お.",
+        "ta": "を செயப்படுபொருள் இடைச்சொல்லாக மட்டுமே பயன்படும்; இது お போலவே 'o' என்று படிக்கப்படும்."
+      },
+      "example": { "word": "ほんをよむ", "en": "to read a book", "ta": "புத்தகம் படிப்பது" }
+    },
+    "ん": {
+      "mnemonic": {
+        "en": "ん looks like a handwritten small n: n.",
+        "ta": "ん கையால் எழுதிய ஆங்கிலச் சிறிய 'n' போல் இருக்கிறது: ன்."
+      },
+      "note": {
+        "en": "ん is the only letter with no vowel. It never starts a word.",
+        "ta": "உயிர் ஒலி இல்லாத ஒரே எழுத்து ん. இது சொல்லின் தொடக்கத்தில் வராது."
+      },
+      "example": { "word": "かばん", "en": "bag", "ta": "பை" }
+    },
+    "が": {
+      "note": {
+        "en": "In the middle of a word, some people say が softly, close to “nga”.",
+        "ta": "சொல்லின் நடுவில் சிலர் が-வை மென்மையாக 'ங' போல் சொல்வார்கள்."
+      },
+      "example": { "word": "がっこう", "en": "school", "ta": "பள்ளி" }
+    },
+    "ぎ": { "example": { "word": "ぎんこう", "en": "bank", "ta": "வங்கி" } },
+    "ぐ": { "example": { "word": "すぐ", "en": "right away", "ta": "உடனே" } },
+    "げ": { "example": { "word": "げんき", "en": "well, healthy", "ta": "நலம், ஆரோக்கியம்" } },
+    "ご": { "example": { "word": "ごはん", "en": "cooked rice, meal", "ta": "சோறு, உணவு" } },
+    "ざ": { "example": { "word": "ざっし", "en": "magazine", "ta": "பத்திரிகை" } },
+    "じ": { "example": { "word": "じしょ", "en": "dictionary", "ta": "அகராதி" } },
+    "ず": { "example": { "word": "すずしい", "en": "cool (weather)", "ta": "குளுமையான" } },
+    "ぜ": { "example": { "word": "ぜんぶ", "en": "all", "ta": "எல்லாம்" } },
+    "ぞ": { "example": { "word": "ぞう", "en": "elephant", "ta": "யானை" } },
+    "だ": { "example": { "word": "だいがく", "en": "university", "ta": "பல்கலைக்கழகம்" } },
+    "ぢ": {
+      "note": {
+        "en": "ぢ sounds the same as じ and is rare. It appears mainly when ち gets voiced in a joined word: はな + ち → はなぢ.",
+        "ta": "ぢ, じ போலவே ஒலிக்கும்; அரிதாகவே வரும். இரண்டு சொற்கள் சேரும்போது ち மென்மையாகும் இடத்தில் வரும்: はな + ち → はなぢ."
+      },
+      "example": { "word": "はなぢ", "en": "nosebleed", "ta": "மூக்கில் ரத்தம் வடிதல்" }
+    },
+    "づ": {
+      "note": {
+        "en": "づ sounds the same as ず and is rare. It appears mainly after another つ or when つ gets voiced in a joined word.",
+        "ta": "づ, ず போலவே ஒலிக்கும்; அரிதாகவே வரும். பெரும்பாலும் つ-க்குப் பின் அல்லது சொற்கள் சேரும்போது つ மென்மையாகும் இடத்தில் வரும்."
+      },
+      "example": { "word": "つづく", "en": "to continue", "ta": "தொடர்வது" }
+    },
+    "で": { "example": { "word": "でんわ", "en": "telephone", "ta": "தொலைபேசி" } },
+    "ど": { "example": { "word": "どこ", "en": "where", "ta": "எங்கே" } },
+    "ば": { "example": { "word": "ばんごはん", "en": "dinner", "ta": "இரவு உணவு" } },
+    "び": { "example": { "word": "へび", "en": "snake", "ta": "பாம்பு" } },
+    "ぶ": { "example": { "word": "ぶどう", "en": "grapes", "ta": "திராட்சை" } },
+    "べ": { "example": { "word": "べんきょう", "en": "study", "ta": "படிப்பு" } },
+    "ぼ": { "example": { "word": "ぼうし", "en": "hat, cap", "ta": "தொப்பி" } },
+    "ぱ": { "example": { "word": "いっぱい", "en": "full, a lot", "ta": "நிறைய" } },
+    "ぴ": { "example": { "word": "えんぴつ", "en": "pencil", "ta": "பென்சில்" } },
+    "ぷ": { "example": { "word": "きっぷ", "en": "ticket", "ta": "பயணச்சீட்டு" } },
+    "ぺ": { "example": { "word": "ぺらぺら", "en": "fluent (speaking)", "ta": "சரளமாக" } },
+    "ぽ": { "example": { "word": "さんぽ", "en": "a walk", "ta": "நடைப்பயிற்சி" } },
+    "きゃ": { "example": { "word": "おきゃくさん", "en": "guest, customer", "ta": "விருந்தினர், வாடிக்கையாளர்" } },
+    "きゅ": { "example": { "word": "きゅう", "en": "nine", "ta": "ஒன்பது" } },
+    "きょ": { "example": { "word": "きょう", "en": "today", "ta": "இன்று" } },
+    "しゃ": { "example": { "word": "しゃしん", "en": "photo", "ta": "புகைப்படம்" } },
+    "しゅ": { "example": { "word": "しゅくだい", "en": "homework", "ta": "வீட்டுப்பாடம்" } },
+    "しょ": { "example": { "word": "としょかん", "en": "library", "ta": "நூலகம்" } },
+    "ちゃ": { "example": { "word": "おちゃ", "en": "(green) tea", "ta": "தேநீர் (பச்சைத் தேநீர்)" } },
+    "ちゅ": { "example": { "word": "ちゅうがっこう", "en": "junior high school", "ta": "நடுநிலைப் பள்ளி" } },
+    "ちょ": { "example": { "word": "ちょっと", "en": "a little", "ta": "கொஞ்சம்" } },
+    "にゃ": { "example": { "word": "にゃあ", "en": "meow (a cat’s cry)", "ta": "மியாவ் (பூனையின் சத்தம்)" } },
+    "にゅ": { "example": { "word": "ぎゅうにゅう", "en": "milk", "ta": "பால்" } },
+    "にょ": { "example": { "word": "にょろにょろ", "en": "wriggling (like a snake)", "ta": "நெளிந்து நெளிந்து" } },
+    "ひゃ": { "example": { "word": "ひゃく", "en": "hundred", "ta": "நூறு" } },
+    "ひゅ": { "example": { "word": "ひゅうひゅう", "en": "whoosh (sound of the wind)", "ta": "காற்று வீசும் 'ஹூ ஹூ' சத்தம்" } },
+    "ひょ": { "example": { "word": "ひょう", "en": "hail (ice falling from the sky)", "ta": "ஆலங்கட்டி மழை" } },
+    "みゃ": { "example": { "word": "みゃく", "en": "pulse", "ta": "நாடித்துடிப்பு" } },
+    "みゅ": {
+      "note": {
+        "en": "みゅ is very rare in hiragana. You will see it mostly in katakana loanwords like ミュージック (music).",
+        "ta": "ஹிரகானாவில் みゅ மிக அரிது. பெரும்பாலும் ミュージック (இசை) போன்ற கடன் சொற்களில் கதகானாவில் பார்ப்பீர்கள்."
+      },
+      "example": { "word": "みゅう", "en": "mew (a kitten’s cry)", "ta": "பூனைக்குட்டியின் 'மியூ' சத்தம்" }
+    },
+    "みょ": { "example": { "word": "みょうじ", "en": "family name", "ta": "குடும்பப் பெயர்" } },
+    "りゃ": { "example": { "word": "りゃくご", "en": "short form of a word", "ta": "சுருக்கச் சொல்" } },
+    "りゅ": { "example": { "word": "りゅう", "en": "dragon", "ta": "டிராகன் (பறக்கும் நாகம்)" } },
+    "りょ": { "example": { "word": "りょこう", "en": "trip, travel", "ta": "பயணம்" } },
+    "ぎゃ": { "example": { "word": "ぎゃく", "en": "opposite", "ta": "எதிர்" } },
+    "ぎゅ": { "example": { "word": "ぎゅうにく", "en": "beef", "ta": "மாட்டிறைச்சி" } },
+    "ぎょ": { "example": { "word": "きんぎょ", "en": "goldfish", "ta": "தங்க மீன்" } },
+    "じゃ": { "example": { "word": "じゃあ", "en": "well then", "ta": "சரி, அப்படியென்றால்" } },
+    "じゅ": { "example": { "word": "じゅぎょう", "en": "class, lesson", "ta": "வகுப்பு" } },
+    "じょ": { "example": { "word": "じょうず", "en": "good at, skilful", "ta": "திறமையான" } },
+    "びゃ": { "example": { "word": "さんびゃく", "en": "three hundred", "ta": "முந்நூறு" } },
+    "びゅ": {
+      "note": {
+        "en": "びゅ is rare. It shows up mostly in sound words and in katakana.",
+        "ta": "びゅ அரிது. பெரும்பாலும் ஒலிக்குறிப்புச் சொற்களிலும் கதகானாவிலும் வரும்."
+      },
+      "example": { "word": "びゅうびゅう", "en": "howling (strong wind)", "ta": "பலத்த காற்றின் ஊளைச் சத்தம்" }
+    },
+    "びょ": { "example": { "word": "びょういん", "en": "hospital", "ta": "மருத்துவமனை" } },
+    "ぴゃ": { "example": { "word": "はっぴゃく", "en": "eight hundred", "ta": "எண்ணூறு" } },
+    "ぴゅ": {
+      "note": {
+        "en": "ぴゅ is rare. It shows up mostly in sound words and in katakana.",
+        "ta": "ぴゅ அரிது. பெரும்பாலும் ஒலிக்குறிப்புச் சொற்களிலும் கதகானாவிலும் வரும்."
+      },
+      "example": { "word": "ぴゅう", "en": "whiz (something flying fast)", "ta": "வேகமாகப் பறக்கும் 'விர்' சத்தம்" }
+    },
+    "ぴょ": { "example": { "word": "ぴょんぴょん", "en": "hop hop (jumping)", "ta": "தத்தித் தத்தி" } }
+  },
+  "rules": [
+    {
+      "id": "particles",
+      "unit": 3,
+      "title": { "en": "Three letters with a special reading: は, へ, を", "ta": "தனி வாசிப்பு கொண்ட மூன்று எழுத்துகள்: は, へ, を" },
+      "body": {
+        "en": "Some small grammar words keep an old spelling. As particles, は is read “wa”, へ is read “e”, and を is read “o”. In normal words they keep their usual sound: はな is “hana”.",
+        "ta": "சில சிறிய இலக்கணச் சொற்கள் பழைய எழுத்து முறையை வைத்திருக்கின்றன. இடைச்சொல்லாக வரும்போது は 'wa', へ 'e', を 'o' என்று படிக்கப்படும். சாதாரண சொற்களில் அவை வழக்கமான ஒலியையே தரும்: はな என்பது 'hana'."
+      },
+      "examples": [
+        { "word": "わたしは", "en": "as for me (wa-ta-shi wa)", "ta": "நான் (வாடாஷி வா)" },
+        { "word": "がっこうへ", "en": "to school (gak-kō e)", "ta": "பள்ளிக்கு (கக்கோ எ)" },
+        { "word": "みずをのむ", "en": "drink water (mizu o nomu)", "ta": "தண்ணீர் குடி (மிஸு ஒ நொமு)" }
+      ]
+    },
+    {
+      "id": "dakuten",
+      "unit": 4,
+      "title": { "en": "Two dashes ゛: voiced sounds", "ta": "இரண்டு கோடுகள் ゛: மென்மையான ஒலிகள்" },
+      "body": {
+        "en": "Add two small dashes to the top right of a letter to make a voiced sound. か becomes が (k → g), さ becomes ざ (s → z), た becomes だ (t → d), and は becomes ば (h → b). One small mark can change the whole meaning of a word.",
+        "ta": "ஒரு எழுத்தின் மேல் வலப்பக்கம் இரண்டு சிறு கோடுகள் போட்டால் ஒலி மென்மையாகும். か → が (k → g), さ → ざ (s → z), た → だ (t → d), は → ば (h → b). ஒரு சிறு குறி சொல்லின் பொருளையே மாற்றிவிடும்."
+      },
+      "examples": [
+        { "word": "かき → かぎ", "en": "persimmon → key", "ta": "பேரீச்சை வகைப் பழம் → சாவி" },
+        { "word": "てんき → でんき", "en": "weather → electricity, light", "ta": "வானிலை → மின்சாரம், விளக்கு" },
+        { "word": "さる → ざる", "en": "monkey → bamboo strainer", "ta": "குரங்கு → மூங்கில் வடிகட்டி" }
+      ]
+    },
+    {
+      "id": "handakuten",
+      "unit": 4,
+      "title": { "en": "Small circle ゜: p sounds", "ta": "சிறு வட்டம் ゜: 'ப' ஒலிகள்" },
+      "body": {
+        "en": "Only the は row takes a small circle. It turns h into p: ぱ ぴ ぷ ぺ ぽ. Compare: ば is “ba” with dashes, ぱ is “pa” with a circle.",
+        "ta": "は வரிசைக்கு மட்டுமே சிறு வட்டம் வரும். அது h-ஐ p ஆக மாற்றும்: ぱ ぴ ぷ ぺ ぽ. ஒப்பிடுங்கள்: கோடுகளுடன் ば 'ba', வட்டத்துடன் ぱ 'pa'."
+      },
+      "examples": [
+        { "word": "さんぽ", "en": "a walk", "ta": "நடைப்பயிற்சி" },
+        { "word": "えんぴつ", "en": "pencil", "ta": "பென்சில்" },
+        { "word": "ぺらぺら", "en": "fluent (speaking)", "ta": "சரளமாக" }
+      ]
+    },
+    {
+      "id": "yoon",
+      "unit": 5,
+      "title": { "en": "Small ゃ ゅ ょ: joined sounds", "ta": "சிறிய ゃ ゅ ょ: இணைந்த ஒலிகள்" },
+      "body": {
+        "en": "Write a small ゃ, ゅ or ょ after an い-row letter (き, し, ち, に, ひ, み, り and their voiced forms). The two letters make one quick sound: き + ゃ = きゃ (kya), not “ki-ya”. A big や keeps two sounds; a small ゃ joins them.",
+        "ta": "い வரிசை எழுத்துக்கு (き, し, ち, に, ひ, み, り, அவற்றின் மென்மை வடிவங்கள்) பின் சிறிய ゃ, ゅ, ょ எழுதுங்கள். இரண்டு எழுத்தும் சேர்ந்து ஒரே விரைவான ஒலி: き + ゃ = きゃ (க்ய), 'கி-ய' அல்ல. பெரிய や இரண்டு ஒலிகள்; சிறிய ゃ அவற்றை இணைக்கும்."
+      },
+      "examples": [
+        { "word": "きょう", "en": "today (kyō)", "ta": "இன்று (க்யோ)" },
+        { "word": "おちゃ", "en": "tea (o-cha)", "ta": "தேநீர் (ஒ-ச)" },
+        { "word": "びょういん / びよういん", "en": "hospital / beauty salon", "ta": "மருத்துவமனை / அழகு நிலையம்" }
+      ]
+    },
+    {
+      "id": "sokuon",
+      "unit": 5,
+      "title": { "en": "Small っ: a short pause", "ta": "சிறிய っ: ஒரு சிறு நிறுத்தம்" },
+      "body": {
+        "en": "A small っ has no sound of its own. It makes you stop for one beat and double the next consonant, like the க்க in Tamil அக்கா. Big つ is “tsu”; small っ is a pause.",
+        "ta": "சிறிய っ-க்குத் தனி ஒலி இல்லை. அடுத்த மெய்யெழுத்தை இரட்டிக்க ஒரு கணம் நிறுத்தச் சொல்கிறது — தமிழ் 'அக்கா'வில் உள்ள க்க போல. பெரிய つ 'த்ஸு'; சிறிய っ ஒரு நிறுத்தம்."
+      },
+      "examples": [
+        { "word": "きって", "en": "stamp (kit-te)", "ta": "அஞ்சல் தலை (கித்-தெ)" },
+        { "word": "がっこう", "en": "school (gak-kō)", "ta": "பள்ளி (கக்-கோ)" },
+        { "word": "ちょっと", "en": "a little (chot-to)", "ta": "கொஞ்சம் (சொத்-தொ)" }
+      ]
+    },
+    {
+      "id": "long-vowels",
+      "unit": 5,
+      "title": { "en": "Long vowels", "ta": "நீண்ட உயிர் ஒலிகள்" },
+      "body": {
+        "en": "A long vowel is held for two beats, like Tamil ஆ after அ. In hiragana you add a vowel letter: ああ, いい, うう, ええ. Long “o” is usually written おう, and long “e” is often written えい. Short or long can change the meaning.",
+        "ta": "நீண்ட உயிர் ஒலி இரண்டு மாத்திரை நீளும் — தமிழில் அ-வுக்குப் பின் ஆ போல. ஹிரகானாவில் ஒரு உயிர் எழுத்தைச் சேர்ப்பீர்கள்: ああ, いい, うう, ええ. நீண்ட 'ஓ' பெரும்பாலும் おう என்றும், நீண்ட 'ஏ' பெரும்பாலும் えい என்றும் எழுதப்படும். குறில், நெடில் மாறினால் பொருளும் மாறும்."
+      },
+      "examples": [
+        { "word": "おばさん → おばあさん", "en": "aunt → grandmother", "ta": "அத்தை/சித்தி → பாட்டி" },
+        { "word": "おじさん → おじいさん", "en": "uncle → grandfather", "ta": "மாமா/சித்தப்பா → தாத்தா" },
+        { "word": "おとうさん", "en": "father (o-tō-san)", "ta": "அப்பா (ஒ-தோ-ஸன்)" },
+        { "word": "とけい", "en": "clock (to-kē)", "ta": "கடிகாரம் (தொ-கே)" }
+      ]
+    }
+  ]
+}

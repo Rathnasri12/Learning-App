@@ -1,0 +1,178 @@
+[
+  {
+    "id": "n5-b-12-01",
+    "expression": "季節",
+    "reading": "きせつ",
+    "en": "season",
+    "ta": "பருவகாலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "季節の 中で 春が 一番 好きです。",
+        "reading": "きせつの なかで はるが いちばん すきです。",
+        "ta": "பருவகாலங்களில் எனக்கு வசந்த காலம்தான் மிகவும் பிடிக்கும்.",
+        "en": "Of all the seasons, I like spring best."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-02",
+    "expression": "天気予報",
+    "reading": "てんきよほう",
+    "en": "weather forecast",
+    "ta": "வானிலை முன்னறிவிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日の 天気予報は 雨です。",
+        "reading": "あしたの てんきよほうは あめです。",
+        "ta": "நாளைய வானிலை முன்னறிவிப்பு மழை.",
+        "en": "Tomorrow's forecast is rain."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-03",
+    "expression": "台風",
+    "reading": "たいふう",
+    "en": "typhoon",
+    "ta": "புயல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日は 台風でした。",
+        "reading": "きのうは たいふうでした。",
+        "ta": "நேற்று புயல் அடித்தது.",
+        "en": "There was a typhoon yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-04",
+    "expression": "梅雨",
+    "reading": "つゆ",
+    "en": "rainy season (June-July)",
+    "ta": "மழைக்காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "梅雨は 雨が 多いです。",
+        "reading": "つゆは あめが おおいです。",
+        "ta": "மழைக்காலத்தில் மழை அதிகம்.",
+        "en": "There is a lot of rain in the rainy season."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-05",
+    "expression": "祭り",
+    "reading": "まつり",
+    "en": "festival",
+    "ta": "திருவிழா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祭りは とても にぎやかでした。",
+        "reading": "まつりは とても にぎやかでした。",
+        "ta": "திருவிழா மிகவும் கலகலப்பாக இருந்தது.",
+        "en": "The festival was very lively."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-06",
+    "expression": "花見",
+    "reading": "はなみ",
+    "en": "cherry-blossom viewing",
+    "ta": "செர்ரி மலர்களைக் கண்டு ரசித்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "花見は 楽しかったです。",
+        "reading": "はなみは たのしかったです。",
+        "ta": "மலர் பார்க்கச் சென்றது மகிழ்ச்சியாக இருந்தது.",
+        "en": "The cherry-blossom viewing was fun."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-07",
+    "expression": "温泉",
+    "reading": "おんせん",
+    "en": "hot spring",
+    "ta": "வெந்நீர் ஊற்று",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "海と 温泉と どちらが 好きですか。",
+        "reading": "うみと おんせんと どちらが すきですか。",
+        "ta": "கடல், வெந்நீர் ஊற்று — இவற்றில் உங்களுக்கு எது பிடிக்கும்?",
+        "en": "Which do you like better, the sea or hot springs?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-08",
+    "expression": "雷",
+    "reading": "かみなり",
+    "en": "thunder, lightning",
+    "ta": "இடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日は 雨と 雷でした。",
+        "reading": "きのうは あめと かみなりでした。",
+        "ta": "நேற்று மழையும் இடியுமாக இருந்தது.",
+        "en": "Yesterday there was rain and thunder."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-09",
+    "expression": "気温",
+    "reading": "きおん",
+    "en": "air temperature",
+    "ta": "வெப்பநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は 昨日より 気温が 高いです。",
+        "reading": "きょうは きのうより きおんが たかいです。",
+        "ta": "இன்று நேற்றைவிட வெப்பநிலை அதிகம்.",
+        "en": "Today the temperature is higher than yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-10",
+    "expression": "観光",
+    "reading": "かんこう",
+    "en": "sightseeing",
+    "ta": "சுற்றிப் பார்த்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都で 観光を しました。",
+        "reading": "きょうとで かんこうを しました。",
+        "ta": "நான் கியோட்டோவில் சுற்றிப் பார்த்தேன்.",
+        "en": "I went sightseeing in Kyoto."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-12-11",
+    "expression": "スキー",
+    "reading": "スキー",
+    "en": "skiing",
+    "ta": "பனிச்சறுக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "スキーは 難しかったです。",
+        "reading": "スキーは むずかしかったです。",
+        "ta": "பனிச்சறுக்கு கடினமாக இருந்தது.",
+        "en": "Skiing was difficult."
+      }
+    ]
+  }
+]

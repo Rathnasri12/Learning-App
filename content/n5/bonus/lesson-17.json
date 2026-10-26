@@ -1,0 +1,242 @@
+[
+  {
+    "id": "n5-b-17-01",
+    "expression": "熱",
+    "reading": "ねつ",
+    "en": "fever; heat",
+    "ta": "காய்ச்சல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "熱が ありますから、学校を 休みます。",
+        "reading": "ねつが ありますから、がっこうを やすみます。",
+        "ta": "காய்ச்சல் இருப்பதால், பள்ளிக்கு விடுப்பு எடுக்கிறேன்.",
+        "en": "I have a fever, so I'll stay home from school."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-02",
+    "expression": "咳",
+    "reading": "せき",
+    "en": "cough",
+    "ta": "இருமல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日から 咳が 出て います。",
+        "reading": "きのうから せきが でて います。",
+        "ta": "நேற்றிலிருந்து இருமல் வருகிறது.",
+        "en": "I've had a cough since yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-03",
+    "expression": "喉",
+    "reading": "のど",
+    "en": "throat",
+    "ta": "தொண்டை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "喉が 痛いですから、話したくないです。",
+        "reading": "のどが いたいですから、はなしたくないです。",
+        "ta": "தொண்டை வலிப்பதால், பேச விரும்பவில்லை.",
+        "en": "My throat hurts, so I don't want to talk."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-04",
+    "expression": "怪我",
+    "reading": "けが",
+    "en": "injury (〜を する: to get hurt)",
+    "ta": "காயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "足に 怪我を しましたから、今日は 走りません。",
+        "reading": "あしに けがを しましたから、きょうは はしりません。",
+        "ta": "காலில் காயம் பட்டதால், இன்று ஓடமாட்டேன்.",
+        "en": "I hurt my leg, so I won't run today."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-05",
+    "expression": "注射",
+    "reading": "ちゅうしゃ",
+    "en": "injection",
+    "ta": "ஊசி (மருந்து செலுத்துதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "注射は 痛くないですから、心配しないで ください。",
+        "reading": "ちゅうしゃは いたくないですから、しんぱいしないで ください。",
+        "ta": "ஊசி வலிக்காது, கவலைப்படாதீர்கள்.",
+        "en": "The injection doesn't hurt, so please don't worry."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-06",
+    "expression": "入院",
+    "reading": "にゅういん",
+    "en": "being in hospital (〜する: to be hospitalised)",
+    "ta": "மருத்துவமனையில் சேர்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は 今 入院して います。",
+        "reading": "ちちは いま にゅういんして います。",
+        "ta": "என் அப்பா இப்போது மருத்துவமனையில் இருக்கிறார்.",
+        "en": "My father is in hospital now."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-07",
+    "expression": "保険証",
+    "reading": "ほけんしょう",
+    "en": "health insurance card",
+    "ta": "மருத்துவக் காப்பீட்டு அட்டை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "病院へ 保険証を 持って 行かなければ なりません。",
+        "reading": "びょういんへ ほけんしょうを もって いかなければ なりません。",
+        "ta": "மருத்துவமனைக்குக் காப்பீட்டு அட்டையைக் கொண்டு போக வேண்டும்.",
+        "en": "You must take your insurance card to the hospital."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-08",
+    "expression": "気分",
+    "reading": "きぶん",
+    "en": "feeling; how one feels",
+    "ta": "உடல்/மன நிலை உணர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "気分が 悪いですから、少し 休みます。",
+        "reading": "きぶんが わるいですから、すこし やすみます。",
+        "ta": "உடம்பு சரியில்லாததால், கொஞ்சம் ஓய்வெடுக்கிறேன்.",
+        "en": "I don't feel well, so I'll rest a little."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-09",
+    "expression": "心配",
+    "reading": "しんぱい",
+    "en": "worry (〜する: to worry)",
+    "ta": "கவலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "心配しないで ください。",
+        "reading": "しんぱいしないで ください。",
+        "ta": "கவலைப்படாதீர்கள்.",
+        "en": "Please don't worry."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-10",
+    "expression": "払う",
+    "reading": "はらう",
+    "en": "to pay",
+    "ta": "பணம் செலுத்து",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "お金は 今日 払わなくても いいです。",
+        "reading": "おかねは きょう はらわなくても いいです。",
+        "ta": "பணத்தை இன்று செலுத்தத் தேவையில்லை.",
+        "en": "You don't have to pay today."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-11",
+    "expression": "締め切り",
+    "reading": "しめきり",
+    "en": "deadline",
+    "ta": "கடைசி தேதி (காலக்கெடு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "レポートの 締め切りは 金曜日です。",
+        "reading": "レポートの しめきりは きんようびです。",
+        "ta": "அறிக்கைக்கான கடைசி தேதி வெள்ளிக்கிழமை.",
+        "en": "The deadline for the report is Friday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-12",
+    "expression": "レポート",
+    "reading": "レポート",
+    "en": "report; paper",
+    "ta": "அறிக்கை (ரிப்போர்ட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "金曜日までに レポートを 出さなければ なりません。",
+        "reading": "きんようびまでに レポートを ださなければ なりません。",
+        "ta": "வெள்ளிக்கிழமைக்குள் அறிக்கையைச் சமர்ப்பிக்க வேண்டும்.",
+        "en": "I must hand in the report by Friday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-13",
+    "expression": "遅れる",
+    "reading": "おくれる",
+    "en": "to be late",
+    "ta": "தாமதமாகு",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "会議に 遅れないで ください。",
+        "reading": "かいぎに おくれないで ください。",
+        "ta": "கூட்டத்திற்குத் தாமதமாக வராதீர்கள்.",
+        "en": "Please don't be late for the meeting."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-14",
+    "expression": "歯医者",
+    "reading": "はいしゃ",
+    "en": "dentist",
+    "ta": "பல் மருத்துவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "歯が 痛いですから、歯医者へ 行かなければ なりません。",
+        "reading": "はが いたいですから、はいしゃへ いかなければ なりません。",
+        "ta": "பல் வலிப்பதால், பல் மருத்துவரிடம் போக வேண்டும்.",
+        "en": "My tooth hurts, so I have to go to the dentist."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-17-15",
+    "expression": "お大事に",
+    "reading": "おだいじに",
+    "en": "Take care of yourself (to someone sick)",
+    "ta": "உடம்பைப் பார்த்துக்கொள்ளுங்கள்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "風邪ですか。どうぞ お大事に。",
+        "reading": "かぜですか。どうぞ おだいじに。",
+        "ta": "சளியா? உடம்பைப் பார்த்துக்கொள்ளுங்கள்.",
+        "en": "You have a cold? Please take care of yourself."
+      }
+    ]
+  }
+]

@@ -9,6 +9,10 @@ import type {
   KanjiReading,
   KanjiUnit,
   KanjiUnitMeta,
+  KanaChar,
+  KanaRule,
+  KanaScript,
+  KanaScriptName,
   Lesson,
   LessonBundle,
   LessonTest,
@@ -46,13 +50,23 @@ export function getLessonVocab(level: string, n: number): Vocab[] {
   return readJson<Vocab[]>(`${level}/vocab/lesson-${pad(n)}.json`) ?? [];
 }
 
+/** Optional bonus words (common beginner words not on the N5 list). Romaji is generated. */
+export function getLessonBonus(level: string, n: number): Vocab[] {
+  const raw = readJson<Omit<Vocab, "romaji">[]>(`${level}/bonus/lesson-${pad(n)}.json`) ?? [];
+  return raw.map((v) => ({
+    ...v,
+    romaji: kanaToRomaji(v.reading),
+    examples: v.examples.map((e) => ({ ...e, romaji: e.romaji ?? kanaToRomaji(e.reading) })),
+  }));
+}
+
 export function getLessonBundle(level: string, n: number): LessonBundle | null {
   const syllabus = getSyllabus(level);
   const meta = syllabus.lessons.find((l) => l.n === n);
   if (!meta) return null;
   const lesson = getLesson(level, n);
   const vocab = getLessonVocab(level, n);
-  return { meta, lesson, vocab };
+  return { meta, lesson, vocab, bonus: getLessonBonus(level, n) };
 }
 
 export type LessonAvailability = { n: number; hasLesson: boolean; vocabCount: number; itemCount: number };
@@ -109,4 +123,41 @@ export function getKanjiUnit(level: string, n: number): KanjiUnit | null {
 
 export function getKanjiExam(level = "n5"): KanjiExam | null {
   return readJson<KanjiExam>(`kanji/${level}/exam.json`);
+}
+
+// ---- Kana course ----
+
+type KanaSkeleton = Record<KanaScriptName, { n: number; title: Bi; chars: Omit<KanaChar, "mnemonic" | "note" | "example">[] }[]>;
+type KanaAuthored = {
+  intro: Bi;
+  units: Record<string, Bi>;
+  chars: Record<string, { mnemonic?: Bi; note?: Bi; example?: { word: string; en: string; ta: string } }>;
+  rules: KanaRule[];
+};
+
+export const KANA_SCRIPTS: KanaScriptName[] = ["hiragana", "katakana"];
+
+export function getKanaScript(script: KanaScriptName): KanaScript | null {
+  const skel = readJson<KanaSkeleton>("kana/skeleton.json")?.[script];
+  const a = readJson<KanaAuthored>(`kana/${script}.json`);
+  if (!skel || !a) return null;
+  return {
+    script,
+    intro: a.intro,
+    units: skel.map((u) => ({
+      n: u.n,
+      title: u.title,
+      intro: a.units[String(u.n)] ?? { en: "", ta: "" },
+      rules: a.rules.filter((r) => r.unit === u.n),
+      chars: u.chars.map((c) => {
+        const x = a.chars[c.kana] ?? {};
+        return {
+          ...c,
+          mnemonic: x.mnemonic,
+          note: x.note,
+          example: x.example && { ...x.example, romaji: kanaToRomaji(x.example.word) },
+        };
+      }),
+    })),
+  };
 }

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "n5-b-24-01",
+    "expression": "引っ越し",
+    "reading": "ひっこし",
+    "en": "moving house",
+    "ta": "வீடு மாற்றம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "引っ越しの 時、友達が 手伝って くれました。",
+        "reading": "ひっこしの とき、ともだちが てつだって くれました。",
+        "ta": "வீடு மாறியபோது நண்பர் எனக்கு உதவி செய்தார்.",
+        "en": "My friend helped me when I moved house."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-02",
+    "expression": "段ボール",
+    "reading": "だんボール",
+    "en": "cardboard box",
+    "ta": "அட்டைப் பெட்டி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "段ボールに 本を 入れました。",
+        "reading": "だんボールに ほんを いれました。",
+        "ta": "அட்டைப் பெட்டியில் புத்தகங்களை வைத்தேன்.",
+        "en": "I put the books in a cardboard box."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-03",
+    "expression": "トラック",
+    "reading": "トラック",
+    "en": "truck, lorry",
+    "ta": "லாரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "友達が トラックを 貸して くれました。",
+        "reading": "ともだちが トラックを かして くれました。",
+        "ta": "நண்பர் எனக்கு லாரியை இரவல் கொடுத்தார்.",
+        "en": "My friend lent me a truck."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-04",
+    "expression": "片付ける",
+    "reading": "かたづける",
+    "en": "to tidy up, to put away",
+    "ta": "ஒழுங்குபடுத்த (எடுத்து வைக்க)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "姉が 部屋を 片付けて くれました。",
+        "reading": "あねが へやを かたづけて くれました。",
+        "ta": "அக்கா என் அறையை ஒழுங்குபடுத்திக் கொடுத்தாள்.",
+        "en": "My older sister tidied up my room for me."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-05",
+    "expression": "案内",
+    "reading": "あんない",
+    "en": "guiding, showing around",
+    "ta": "வழிகாட்டுதல் (சுற்றிக் காட்டுதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんが 町を 案内して くれました。",
+        "reading": "たなかさんが まちを あんないして くれました。",
+        "ta": "தனகா-சான் எனக்கு ஊரைச் சுற்றிக் காட்டினார்.",
+        "en": "Tanaka-san showed me around the town."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-06",
+    "expression": "紹介",
+    "reading": "しょうかい",
+    "en": "introduction, recommending",
+    "ta": "அறிமுகம் (அறிமுகப்படுத்துதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生が いい アパートを 紹介して くれました。",
+        "reading": "せんせいが いい アパートを しょうかいして くれました。",
+        "ta": "ஆசிரியர் எனக்கு ஒரு நல்ல வாடகை வீட்டை அறிமுகப்படுத்தினார்.",
+        "en": "My teacher found me a good apartment."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-07",
+    "expression": "迎える",
+    "reading": "むかえる",
+    "en": "to welcome, to meet (迎えに 行く: to pick someone up)",
+    "ta": "வரவேற்க (அழைத்து வர)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "父が 駅まで 迎えに 来て くれました。",
+        "reading": "ちちが えきまで むかえに きて くれました。",
+        "ta": "அப்பா என்னை அழைத்துப் போக ரயில் நிலையத்துக்கு வந்தார்.",
+        "en": "My father came to the station to pick me up."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-08",
+    "expression": "同僚",
+    "reading": "どうりょう",
+    "en": "colleague, co-worker",
+    "ta": "சக ஊழியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "同僚に 仕事を 手伝って もらいました。",
+        "reading": "どうりょうに しごとを てつだって もらいました。",
+        "ta": "சக ஊழியர் என் வேலையில் உதவி செய்தார்.",
+        "en": "A colleague helped me with my work."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-09",
+    "expression": "お礼",
+    "reading": "おれい",
+    "en": "thanks, a thank-you (words or gift)",
+    "ta": "நன்றி (நன்றிக்கடன்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "手伝って くれた 友達に お礼を 言いました。",
+        "reading": "てつだって くれた ともだちに おれいを いいました。",
+        "ta": "உதவி செய்த நண்பருக்கு நன்றி சொன்னேன்.",
+        "en": "I thanked the friend who helped me."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-24-10",
+    "expression": "助かる",
+    "reading": "たすかる",
+    "en": "to be a great help, to be saved",
+    "ta": "பெரிய உதவியாக இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "手伝って くれて、本当に 助かりました。",
+        "reading": "てつだって くれて、ほんとうに たすかりました。",
+        "ta": "நீங்கள் உதவி செய்தது எனக்கு மிகப் பெரிய உதவியாக இருந்தது.",
+        "en": "Thank you for helping; it was a real help."
+      }
+    ]
+  }
+]

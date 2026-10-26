@@ -1,0 +1,258 @@
+[
+  {
+    "id": "n5-b-08-01",
+    "expression": "親切",
+    "reading": "しんせつ",
+    "en": "kind, helpful",
+    "ta": "அன்பான, உதவும் குணமுள்ள",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "田中さんは とても 親切な 人です。",
+        "reading": "たなかさんは とても しんせつな ひとです。",
+        "ta": "தனகா அவர்கள் மிகவும் அன்பான மனிதர்.",
+        "en": "Mr. Tanaka is a very kind person."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-02",
+    "expression": "優しい",
+    "reading": "やさしい",
+    "en": "gentle, kind",
+    "ta": "கனிவான, மென்மையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "山田先生は 優しい 先生です。",
+        "reading": "やまだせんせいは やさしい せんせいです。",
+        "ta": "யமதா ஆசிரியர் கனிவான ஆசிரியர்.",
+        "en": "Ms. Yamada is a gentle teacher."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-03",
+    "expression": "簡単",
+    "reading": "かんたん",
+    "en": "easy, simple",
+    "ta": "எளிதான, சுலபமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この テストは あまり 簡単じゃありません。",
+        "reading": "この テストは あまり かんたんじゃありません。",
+        "ta": "இந்தத் தேர்வு அவ்வளவு எளிதாக இல்லை.",
+        "en": "This test is not very easy."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-04",
+    "expression": "素敵",
+    "reading": "すてき",
+    "en": "lovely, nice",
+    "ta": "அருமையான, அழகான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "素敵な かばんですね。",
+        "reading": "すてきな かばんですね。",
+        "ta": "அழகான பை, இல்லையா!",
+        "en": "What a lovely bag!"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-05",
+    "expression": "不便",
+    "reading": "ふべん",
+    "en": "inconvenient",
+    "ta": "வசதியற்ற",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この 町は 不便ですが、静かです。",
+        "reading": "この まちは ふべんですが、しずかです。",
+        "ta": "இந்த ஊர் வசதியற்றது, ஆனால் அமைதியானது.",
+        "en": "This town is inconvenient, but it is quiet."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-06",
+    "expression": "ハンサム",
+    "reading": "ハンサム",
+    "en": "handsome",
+    "ta": "அழகான (ஆண்)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "お兄さんは ハンサムですね。",
+        "reading": "おにいさんは ハンサムですね。",
+        "ta": "உங்கள் அண்ணன் அழகானவர், இல்லையா!",
+        "en": "Your older brother is handsome, isn't he?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-07",
+    "expression": "美しい",
+    "reading": "うつくしい",
+    "en": "beautiful",
+    "ta": "அழகான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "美しい 山ですね。",
+        "reading": "うつくしい やまですね。",
+        "ta": "அழகான மலை, இல்லையா!",
+        "en": "What a beautiful mountain!"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-08",
+    "expression": "嬉しい",
+    "reading": "うれしい",
+    "en": "happy, glad",
+    "ta": "மகிழ்ச்சியான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "今日は 誕生日です。とても 嬉しいです。",
+        "reading": "きょうは たんじょうびです。とても うれしいです。",
+        "ta": "இன்று என் பிறந்தநாள். மிகவும் மகிழ்ச்சியாக இருக்கிறது.",
+        "en": "Today is my birthday. I am very happy."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-09",
+    "expression": "寂しい",
+    "reading": "さびしい",
+    "en": "lonely; deserted",
+    "ta": "தனிமையான, வெறிச்சோடிய",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "夜の 公園は 寂しいです。",
+        "reading": "よるの こうえんは さびしいです。",
+        "ta": "இரவில் பூங்கா வெறிச்சோடி இருக்கிறது.",
+        "en": "The park at night is lonely."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-10",
+    "expression": "素晴らしい",
+    "reading": "すばらしい",
+    "en": "wonderful, splendid",
+    "ta": "மிக அருமையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "素晴らしい 写真ですね。",
+        "reading": "すばらしい しゃしんですね。",
+        "ta": "மிக அருமையான புகைப்படம், இல்லையா!",
+        "en": "What a wonderful photo!"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-11",
+    "expression": "蒸し暑い",
+    "reading": "むしあつい",
+    "en": "hot and humid",
+    "ta": "புழுக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "東京の 夏は 蒸し暑いです。",
+        "reading": "とうきょうの なつは むしあついです。",
+        "ta": "டோக்கியோவின் கோடைக்காலம் புழுக்கமாக இருக்கும்.",
+        "en": "Summer in Tokyo is hot and humid."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-12",
+    "expression": "眠い",
+    "reading": "ねむい",
+    "en": "sleepy",
+    "ta": "தூக்கக் கலக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "今 とても 眠いです。",
+        "reading": "いま とても ねむいです。",
+        "ta": "இப்போது ரொம்பத் தூக்கமாக இருக்கிறது.",
+        "en": "I am very sleepy now."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-13",
+    "expression": "景色",
+    "reading": "けしき",
+    "en": "scenery, view",
+    "ta": "இயற்கைக் காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ここの 景色は とても きれいです。",
+        "reading": "ここの けしきは とても きれいです。",
+        "ta": "இங்குள்ள இயற்கைக் காட்சி மிகவும் அழகாக இருக்கிறது.",
+        "en": "The view here is very beautiful."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-14",
+    "expression": "桜",
+    "reading": "さくら",
+    "en": "cherry blossom",
+    "ta": "சகுரா (செர்ரி மலர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "桜は とても きれいな 花です。",
+        "reading": "さくらは とても きれいな はなです。",
+        "ta": "சகுரா மிகவும் அழகான பூ.",
+        "en": "Cherry blossoms are very pretty flowers."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-15",
+    "expression": "生活",
+    "reading": "せいかつ",
+    "en": "life, daily life",
+    "ta": "வாழ்க்கை (அன்றாட வாழ்வு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の 生活は どうですか。",
+        "reading": "にほんの せいかつは どうですか。",
+        "ta": "ஜப்பானில் வாழ்க்கை எப்படி இருக்கிறது?",
+        "en": "How is life in Japan?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-08-16",
+    "expression": "田舎",
+    "reading": "いなか",
+    "en": "countryside; hometown",
+    "ta": "கிராமப்புறம்; சொந்த ஊர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の 田舎は 静かな 町です。",
+        "reading": "わたしの いなかは しずかな まちです。",
+        "ta": "என் சொந்த ஊர் அமைதியான ஊர்.",
+        "en": "My hometown is a quiet town."
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "n5-b-13-01",
+    "expression": "メニュー",
+    "reading": "メニュー",
+    "en": "menu",
+    "ta": "உணவுப் பட்டியல் (மெனு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、メニューを ください。",
+        "reading": "すみません、メニューを ください。",
+        "ta": "மன்னிக்கவும், மெனுவைக் கொடுங்கள்.",
+        "en": "Excuse me, the menu, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-02",
+    "expression": "定食",
+    "reading": "ていしょく",
+    "en": "set meal",
+    "ta": "முழுச் சாப்பாடு (செட் மீல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼ご飯は 魚の 定食が 食べたいです。",
+        "reading": "ひるごはんは さかなの ていしょくが たべたいです。",
+        "ta": "மதிய உணவுக்கு மீன் செட் மீல் சாப்பிட விரும்புகிறேன்.",
+        "en": "For lunch I want to eat the fish set meal."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-03",
+    "expression": "注文",
+    "reading": "ちゅうもん",
+    "en": "order (food, goods)",
+    "ta": "ஆர்டர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、注文を お願いします。",
+        "reading": "すみません、ちゅうもんを おねがいします。",
+        "ta": "மன்னிக்கவும், ஆர்டர் செய்ய வேண்டும்.",
+        "en": "Excuse me, I'd like to order."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-04",
+    "expression": "お勘定",
+    "reading": "おかんじょう",
+    "en": "the bill, check",
+    "ta": "பில் (கணக்கு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お勘定を お願いします。",
+        "reading": "おかんじょうを おねがいします。",
+        "ta": "பில்லைக் கொடுங்கள்.",
+        "en": "The bill, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-05",
+    "expression": "予約",
+    "reading": "よやく",
+    "en": "reservation, booking",
+    "ta": "முன்பதிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "レストランの 予約を お願いします。",
+        "reading": "レストランの よやくを おねがいします。",
+        "ta": "உணவகத்தில் முன்பதிவு செய்யுங்கள்.",
+        "en": "Please make a restaurant reservation."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-06",
+    "expression": "うどん",
+    "reading": "うどん",
+    "en": "udon (thick wheat noodles)",
+    "ta": "உடோன் (தடித்த நூடுல்ஸ்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "うどんを 二つ ください。",
+        "reading": "うどんを ふたつ ください。",
+        "ta": "இரண்டு உடோன் கொடுங்கள்.",
+        "en": "Two udon, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-07",
+    "expression": "天ぷら",
+    "reading": "てんぷら",
+    "en": "tempura (deep-fried battered food)",
+    "ta": "டெம்புரா (மாவில் தோய்த்துப் பொரித்த உணவு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "天ぷら定食を 一つ ください。",
+        "reading": "てんぷらていしょくを ひとつ ください。",
+        "ta": "ஒரு டெம்புரா செட் மீல் கொடுங்கள்.",
+        "en": "One tempura set meal, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-08",
+    "expression": "サラダ",
+    "reading": "サラダ",
+    "en": "salad",
+    "ta": "சாலட்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "サラダも ください。",
+        "reading": "サラダも ください。",
+        "ta": "சாலட்டும் கொடுங்கள்.",
+        "en": "A salad too, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-13-09",
+    "expression": "デザート",
+    "reading": "デザート",
+    "en": "dessert",
+    "ta": "இனிப்பு உணவு (டெசர்ட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "デザートは 何が いいですか。",
+        "reading": "デザートは なにが いいですか。",
+        "ta": "இனிப்புக்கு என்ன வேண்டும்?",
+        "en": "What would you like for dessert?"
+      }
+    ]
+  }
+]

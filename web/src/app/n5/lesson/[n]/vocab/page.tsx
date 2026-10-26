@@ -10,5 +10,5 @@ export default async function VocabPage({ params }: { params: Promise<{ n: strin
   const { n } = await params;
   const bundle = getLessonBundle("n5", Number(n));
   if (!bundle || bundle.vocab.length === 0) notFound();
-  return <VocabDeck level="n5" n={Number(n)} title={bundle.meta.title} vocab={bundle.vocab} />;
+  return <VocabDeck level="n5" n={Number(n)} title={bundle.meta.title} vocab={bundle.vocab} bonusCount={bundle.bonus.length} />;
 }

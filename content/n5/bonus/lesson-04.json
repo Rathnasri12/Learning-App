@@ -1,0 +1,226 @@
+[
+  {
+    "id": "n5-b-04-01",
+    "expression": "何時",
+    "reading": "なんじ",
+    "en": "what time",
+    "ta": "எத்தனை மணி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今 何時ですか。",
+        "reading": "いま なんじですか。",
+        "ta": "இப்போது மணி என்ன?",
+        "en": "What time is it now?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-02",
+    "expression": "何曜日",
+    "reading": "なんようび",
+    "en": "what day of the week",
+    "ta": "என்ன கிழமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は 何曜日ですか。",
+        "reading": "きょうは なんようびですか。",
+        "ta": "இன்று என்ன கிழமை?",
+        "en": "What day is it today?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-03",
+    "expression": "昼休み",
+    "reading": "ひるやすみ",
+    "en": "lunch break",
+    "ta": "மதிய இடைவேளை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼休みは 十二時から 一時までです。",
+        "reading": "ひるやすみは じゅうにじから いちじまでです。",
+        "ta": "மதிய இடைவேளை பன்னிரண்டு மணி முதல் ஒரு மணி வரை.",
+        "en": "Lunch break is from twelve to one."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-04",
+    "expression": "休憩",
+    "reading": "きゅうけい",
+    "en": "break, rest (short)",
+    "ta": "ஓய்வு இடைவேளை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "十時から 十時半まで 休憩です。",
+        "reading": "じゅうじから じゅうじはんまで きゅうけいです。",
+        "ta": "பத்து மணி முதல் பத்தரை வரை இடைவேளை.",
+        "en": "There is a break from ten to ten-thirty."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-05",
+    "expression": "会議",
+    "reading": "かいぎ",
+    "en": "meeting, conference",
+    "ta": "கூட்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議は 午後 三時からです。",
+        "reading": "かいぎは ごご さんじからです。",
+        "ta": "கூட்டம் மதியம் மூன்று மணிக்குத் தொடங்கும்.",
+        "en": "The meeting starts at 3 p.m."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-06",
+    "expression": "試験",
+    "reading": "しけん",
+    "en": "exam, test",
+    "ta": "தேர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試験は 金曜日です。",
+        "reading": "しけんは きんようびです。",
+        "ta": "தேர்வு வெள்ளிக்கிழமை.",
+        "en": "The exam is on Friday."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-07",
+    "expression": "残業",
+    "reading": "ざんぎょう",
+    "en": "overtime work",
+    "ta": "கூடுதல் நேர வேலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日 九時まで 残業しました。",
+        "reading": "きのう くじまで ざんぎょうしました。",
+        "ta": "நேற்று ஒன்பது மணி வரை கூடுதல் நேரம் வேலை செய்தேன்.",
+        "en": "Yesterday I worked overtime until nine."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-08",
+    "expression": "平日",
+    "reading": "へいじつ",
+    "en": "weekday",
+    "ta": "வார வேலை நாள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "平日は 毎朝 六時に 起きます。",
+        "reading": "へいじつは まいあさ ろくじに おきます。",
+        "ta": "வேலை நாட்களில் தினமும் காலை ஆறு மணிக்கு எழுந்திருப்பேன்.",
+        "en": "On weekdays I get up at six every morning."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-09",
+    "expression": "週末",
+    "reading": "しゅうまつ",
+    "en": "weekend",
+    "ta": "வார இறுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末は 働きません。",
+        "reading": "しゅうまつは はたらきません。",
+        "ta": "வார இறுதியில் நான் வேலை செய்வதில்லை.",
+        "en": "I don't work at the weekend."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-10",
+    "expression": "夜中",
+    "reading": "よなか",
+    "en": "middle of the night",
+    "ta": "நள்ளிரவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日 夜中まで 勉強しました。",
+        "reading": "きのう よなかまで べんきょうしました。",
+        "ta": "நேற்று நள்ளிரவு வரை படித்தேன்.",
+        "en": "Yesterday I studied until the middle of the night."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-11",
+    "expression": "営業時間",
+    "reading": "えいぎょうじかん",
+    "en": "business hours, opening hours",
+    "ta": "வணிக நேரம் (திறந்திருக்கும் நேரம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "銀行の 営業時間は 九時から 三時までです。",
+        "reading": "ぎんこうの えいぎょうじかんは くじから さんじまでです。",
+        "ta": "வங்கியின் வணிக நேரம் ஒன்பது மணி முதல் மூன்று மணி வரை.",
+        "en": "The bank's opening hours are from nine to three."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-12",
+    "expression": "美術館",
+    "reading": "びじゅつかん",
+    "en": "art museum, gallery",
+    "ta": "கலைக்கூடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "美術館は 午前 十時から 午後 五時までです。",
+        "reading": "びじゅつかんは ごぜん じゅうじから ごご ごじまでです。",
+        "ta": "கலைக்கூடம் காலை பத்து மணி முதல் மாலை ஐந்து மணி வரை திறந்திருக்கும்.",
+        "en": "The art museum is open from 10 a.m. to 5 p.m."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-13",
+    "expression": "お疲れ様です",
+    "reading": "おつかれさまです",
+    "en": "thanks for your hard work (greeting between co-workers)",
+    "ta": "உங்கள் உழைப்புக்கு நன்றி (சக ஊழியர்களுக்குச் சொல்லும் வாழ்த்து)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "お疲れ様です。今日も 残業ですか。",
+        "reading": "おつかれさまです。きょうも ざんぎょうですか。",
+        "ta": "உங்கள் உழைப்புக்கு நன்றி. இன்றும் கூடுதல் நேர வேலையா?",
+        "en": "Thanks for your hard work. Overtime again today?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-04-14",
+    "expression": "おやすみなさい",
+    "reading": "おやすみなさい",
+    "en": "good night",
+    "ta": "இனிய இரவு வணக்கம்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "十一時ですね。おやすみなさい。",
+        "reading": "じゅういちじですね。おやすみなさい。",
+        "ta": "மணி பதினொன்று ஆகிவிட்டது, இல்லையா? இனிய இரவு.",
+        "en": "It's eleven o'clock, isn't it. Good night."
+      }
+    ]
+  }
+]

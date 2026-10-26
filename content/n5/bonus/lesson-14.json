@@ -1,0 +1,226 @@
+[
+  {
+    "id": "n5-b-14-01",
+    "expression": "信号",
+    "reading": "しんごう",
+    "en": "traffic light",
+    "ta": "போக்குவரத்து சிக்னல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "次の 信号を 右へ 曲がってください。",
+        "reading": "つぎの しんごうを みぎへ まがってください。",
+        "ta": "அடுத்த சிக்னலில் வலது பக்கம் திரும்புங்கள்.",
+        "en": "Please turn right at the next traffic light."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-02",
+    "expression": "突き当たり",
+    "reading": "つきあたり",
+    "en": "end of the street",
+    "ta": "தெருவின் முடிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "突き当たりを 左へ 曲がってください。",
+        "reading": "つきあたりを ひだりへ まがってください。",
+        "ta": "தெருவின் முடிவில் இடது பக்கம் திரும்புங்கள்.",
+        "en": "Please turn left at the end of the street."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-03",
+    "expression": "横断歩道",
+    "reading": "おうだんほどう",
+    "en": "pedestrian crossing",
+    "ta": "பாதசாரிகள் கடக்கும் இடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "横断歩道を 渡ってください。",
+        "reading": "おうだんほどうを わたってください。",
+        "ta": "பாதசாரிகள் கடக்கும் இடத்தில் சாலையைக் கடங்கள்.",
+        "en": "Please cross at the pedestrian crossing."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-04",
+    "expression": "住所",
+    "reading": "じゅうしょ",
+    "en": "address",
+    "ta": "முகவரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 住所へ 行ってください。",
+        "reading": "この じゅうしょへ いってください。",
+        "ta": "இந்த முகவரிக்குப் போங்கள்.",
+        "en": "Please go to this address."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-05",
+    "expression": "運転手",
+    "reading": "うんてんしゅ",
+    "en": "driver",
+    "ta": "ஓட்டுநர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "運転手さん、急いでください。",
+        "reading": "うんてんしゅさん、いそいでください。",
+        "ta": "ஓட்டுநரே, கொஞ்சம் விரைவாகப் போங்கள்.",
+        "en": "Driver, please hurry."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-06",
+    "expression": "止める",
+    "reading": "とめる",
+    "en": "to stop (a car, a machine)",
+    "ta": "நிறுத்து",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "駅の 前で 止めてください。",
+        "reading": "えきの まえで とめてください。",
+        "ta": "ரயில் நிலையத்தின் முன் நிறுத்துங்கள்.",
+        "en": "Please stop in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-07",
+    "expression": "降ろす",
+    "reading": "おろす",
+    "en": "to let (someone) off, drop off",
+    "ta": "இறக்கிவிடு",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "あの 角で 降ろしてください。",
+        "reading": "あの かどで おろしてください。",
+        "ta": "அந்த மூலையில் என்னை இறக்கிவிடுங்கள்.",
+        "en": "Please drop me off at that corner."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-08",
+    "expression": "戻る",
+    "reading": "もどる",
+    "en": "to go back, return",
+    "ta": "திரும்பிச் செல்",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "少し 戻ってください。",
+        "reading": "すこし もどってください。",
+        "ta": "கொஞ்சம் பின்னால் திரும்பிச் செல்லுங்கள்.",
+        "en": "Please go back a little."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-09",
+    "expression": "拾う",
+    "reading": "ひろう",
+    "en": "to pick up; to catch (a taxi)",
+    "ta": "எடு; (டாக்சி) பிடி",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "駅の 前で タクシーを 拾いました。",
+        "reading": "えきの まえで タクシーを ひろいました。",
+        "ta": "ரயில் நிலையத்தின் முன் ஒரு டாக்சி பிடித்தேன்.",
+        "en": "I caught a taxi in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-10",
+    "expression": "急ぐ",
+    "reading": "いそぐ",
+    "en": "to hurry",
+    "ta": "அவசரப்படு",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "時間が ありません。急いでください。",
+        "reading": "じかんが ありません。いそいでください。",
+        "ta": "நேரம் இல்லை. சீக்கிரம் வாருங்கள்.",
+        "en": "There's no time. Please hurry."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-11",
+    "expression": "手伝う",
+    "reading": "てつだう",
+    "en": "to help",
+    "ta": "உதவி செய்",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "ちょっと 手伝ってください。",
+        "reading": "ちょっと てつだってください。",
+        "ta": "கொஞ்சம் உதவி செய்யுங்கள்.",
+        "en": "Please help me a little."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-12",
+    "expression": "運ぶ",
+    "reading": "はこぶ",
+    "en": "to carry",
+    "ta": "தூக்கிச் செல்",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "この 荷物を 運んでください。",
+        "reading": "この にもつを はこんでください。",
+        "ta": "இந்தச் சாமான்களைத் தூக்கிச் செல்லுங்கள்.",
+        "en": "Please carry this luggage."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-13",
+    "expression": "案内する",
+    "reading": "あんないする",
+    "en": "to guide, show around",
+    "ta": "வழிகாட்டு; சுற்றிக் காட்டு",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "京都を 案内しましょうか。",
+        "reading": "きょうとを あんないしましょうか。",
+        "ta": "கியோட்டோவைச் சுற்றிக் காட்டட்டுமா?",
+        "en": "Shall I show you around Kyoto?"
+      }
+    ]
+  },
+  {
+    "id": "n5-b-14-14",
+    "expression": "説明する",
+    "reading": "せつめいする",
+    "en": "to explain",
+    "ta": "விளக்கு",
+    "pos": "verb",
+    "examples": [
+      {
+        "ja": "もう 一度 説明してください。",
+        "reading": "もう いちど せつめいしてください。",
+        "ta": "இன்னொரு முறை விளக்குங்கள்.",
+        "en": "Please explain once more."
+      }
+    ]
+  }
+]

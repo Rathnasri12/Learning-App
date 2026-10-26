@@ -1,0 +1,226 @@
+[
+  {
+    "id": "n5-b-10-01",
+    "expression": "棚",
+    "reading": "たな",
+    "en": "shelf",
+    "ta": "அலமாரித் தட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "棚の 上に 箱が あります。",
+        "reading": "たなの うえに はこが あります。",
+        "ta": "அலமாரித் தட்டின் மேல் ஒரு பெட்டி இருக்கிறது.",
+        "en": "There is a box on the shelf."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-02",
+    "expression": "引き出し",
+    "reading": "ひきだし",
+    "en": "drawer",
+    "ta": "இழுப்பறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "机の 引き出しに 鍵が あります。",
+        "reading": "つくえの ひきだしに かぎが あります。",
+        "ta": "மேசை இழுப்பறையில் சாவி இருக்கிறது.",
+        "en": "There is a key in the desk drawer."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-03",
+    "expression": "ソファ",
+    "reading": "ソファ",
+    "en": "sofa",
+    "ta": "சோஃபா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "猫は ソファの 上に います。",
+        "reading": "ねこは ソファの うえに います。",
+        "ta": "பூனை சோஃபாவின் மேல் இருக்கிறது.",
+        "en": "The cat is on the sofa."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-04",
+    "expression": "カーテン",
+    "reading": "カーテン",
+    "en": "curtain",
+    "ta": "திரைச்சீலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "窓に 青い カーテンが あります。",
+        "reading": "まどに あおい カーテンが あります。",
+        "ta": "ஜன்னலில் நீலத் திரைச்சீலை இருக்கிறது.",
+        "en": "There is a blue curtain on the window."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-05",
+    "expression": "エアコン",
+    "reading": "エアコン",
+    "en": "air conditioner",
+    "ta": "குளிரூட்டி (ஏசி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 部屋に エアコンが ありません。",
+        "reading": "この へやに エアコンが ありません。",
+        "ta": "இந்த அறையில் ஏசி இல்லை.",
+        "en": "There is no air conditioner in this room."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-06",
+    "expression": "電子レンジ",
+    "reading": "でんしレンジ",
+    "en": "microwave oven",
+    "ta": "மைக்ரோவேவ் அடுப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台所に 冷蔵庫や 電子レンジが あります。",
+        "reading": "だいどころに れいぞうこや でんしレンジが あります。",
+        "ta": "சமையலறையில் குளிர்சாதனப் பெட்டி, மைக்ரோவேவ் அடுப்பு போன்றவை இருக்கின்றன.",
+        "en": "There are a fridge, a microwave and so on in the kitchen."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-07",
+    "expression": "洗濯機",
+    "reading": "せんたくき",
+    "en": "washing machine",
+    "ta": "சலவை இயந்திரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "洗濯機は お風呂の 隣に あります。",
+        "reading": "せんたくきは おふろの となりに あります。",
+        "ta": "சலவை இயந்திரம் குளியலறைக்குப் பக்கத்தில் இருக்கிறது.",
+        "en": "The washing machine is next to the bathroom."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-08",
+    "expression": "鏡",
+    "reading": "かがみ",
+    "en": "mirror",
+    "ta": "முகம் பார்க்கும் கண்ணாடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ドアの 右に 鏡が あります。",
+        "reading": "ドアの みぎに かがみが あります。",
+        "ta": "கதவின் வலதுபுறம் கண்ணாடி இருக்கிறது.",
+        "en": "There is a mirror to the right of the door."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-09",
+    "expression": "布団",
+    "reading": "ふとん",
+    "en": "futon (Japanese bedding)",
+    "ta": "ஃபுட்டோன் (ஜப்பானிய தரை மெத்தை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "部屋の 中に 布団が あります。",
+        "reading": "へやの なかに ふとんが あります。",
+        "ta": "அறைக்குள் ஃபுட்டோன் மெத்தை இருக்கிறது.",
+        "en": "There is a futon in the room."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-10",
+    "expression": "畳",
+    "reading": "たたみ",
+    "en": "tatami mat",
+    "ta": "தடாமி (ஜப்பானிய வைக்கோல் தரைப்பாய்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "畳の 部屋に テーブルが あります。",
+        "reading": "たたみの へやに テーブルが あります。",
+        "ta": "தடாமி அறையில் ஒரு மேசை இருக்கிறது.",
+        "en": "There is a table in the tatami room."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-11",
+    "expression": "ごみ箱",
+    "reading": "ごみばこ",
+    "en": "wastebasket, trash can",
+    "ta": "குப்பைத் தொட்டி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ごみ箱は 机の 下に あります。",
+        "reading": "ごみばこは つくえの したに あります。",
+        "ta": "குப்பைத் தொட்டி மேசைக்குக் கீழே இருக்கிறது.",
+        "en": "The wastebasket is under the desk."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-12",
+    "expression": "金魚",
+    "reading": "きんぎょ",
+    "en": "goldfish",
+    "ta": "தங்கமீன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "玄関に 金魚が います。",
+        "reading": "げんかんに きんぎょが います。",
+        "ta": "வாசலில் தங்கமீன் இருக்கிறது.",
+        "en": "There is a goldfish in the entrance."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-13",
+    "expression": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "en": "parking lot",
+    "ta": "வாகன நிறுத்துமிடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "アパートの 後ろに 駐車場が あります。",
+        "reading": "アパートの うしろに ちゅうしゃじょうが あります。",
+        "ta": "அடுக்ககத்தின் பின்னால் வாகன நிறுத்துமிடம் இருக்கிறது.",
+        "en": "There is a parking lot behind the apartment building."
+      }
+    ]
+  },
+  {
+    "id": "n5-b-10-14",
+    "expression": "近所",
+    "reading": "きんじょ",
+    "en": "neighbourhood",
+    "ta": "அக்கம்பக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "近所に 公園や 図書館が あります。",
+        "reading": "きんじょに こうえんや としょかんが あります。",
+        "ta": "அக்கம்பக்கத்தில் பூங்கா, நூலகம் போன்றவை இருக்கின்றன.",
+        "en": "There are a park, a library and so on in my neighbourhood."
+      }
+    ]
+  }
+]
