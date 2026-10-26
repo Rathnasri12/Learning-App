@@ -134,9 +134,7 @@ export default function TestRunner({
             <h1 className="text-3xl font-black mt-1" lang="ja">
               {title.ja}
             </h1>
-            <div className="text-fg-2" lang="ta">
-              {title.ta} · பாடத் தேர்வு
-            </div>
+            <div className="text-fg-2">{title.en} · Lesson test</div>
           </div>
           <div className="grid grid-cols-3 gap-3 text-center">
             <Stat label="items" value={String(items.length)} />
@@ -161,14 +159,12 @@ export default function TestRunner({
                 active={!practice}
                 onClick={() => setSetting("testMode", "exam")}
                 title="Exam"
-                ta="தேர்வு முறை"
                 desc="Answers checked at the end, like the real JLPT."
               />
               <ModeButton
                 active={practice}
                 onClick={() => setSetting("testMode", "practice")}
                 title="Practice"
-                ta="பயிற்சி முறை"
                 desc="See the answer and Tamil explanation after each item."
               />
             </div>
@@ -256,10 +252,10 @@ export default function TestRunner({
                 )}
               >
                 <div className="text-xs font-extrabold text-muted mb-1">
-                  {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "சரி ✓" : "தவறு ✕"} · விளக்கம்
+                  {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "Correct ✓" : "Wrong ✕"} · Explanation
                 </div>
-                <p lang="ta" className="leading-relaxed">
-                  {item.explanation_ta}
+                <p className="leading-relaxed">
+                  {item.explanation_en ?? item.explanation_ta}
                 </p>
               </motion.div>
             )}
@@ -319,13 +315,11 @@ function ModeButton({
   active,
   onClick,
   title,
-  ta,
   desc,
 }: {
   active: boolean;
   onClick: () => void;
   title: string;
-  ta: string;
   desc: string;
 }) {
   return (
@@ -334,7 +328,7 @@ function ModeButton({
       className={cx("text-left rounded-2xl border-2 p-3 transition", active ? "border-indigo bg-indigo-2" : "border-line")}
     >
       <div className="font-black">
-        {title} <span className="text-sm text-fg-2 font-bold" lang="ta">{ta}</span>
+        {title}
       </div>
       <div className="text-xs text-muted mt-1">{desc}</div>
     </button>

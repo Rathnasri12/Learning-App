@@ -1,181 +1,901 @@
 {
   "lesson": 4,
-  "title": { "ja": "今何時ですか", "ta": "இப்போது மணி என்ன?", "en": "What time is it?" },
+  "title": {
+    "ja": "今何時ですか",
+    "ta": "இப்போது மணி என்ன?",
+    "en": "What time is it?"
+  },
   "intro_ta": "இந்தப் பாடத்தில் நேரம் சொல்லவும், வாரநாட்களைச் சொல்லவும், 'காலை ஏழு மணிக்கு எழுந்திருக்கிறேன்', 'ஒன்பது முதல் ஐந்து வரை வேலை செய்கிறேன்' என்று உங்கள் தினசரி வழக்கத்தை விவரிக்கவும் கற்றுக்கொள்வீர்கள். முதன்முறையாக வினைச்சொற்கள் வருகின்றன: 〜ます (செய்கிறேன்), 〜ません (செய்வதில்லை), 〜ました (செய்தேன்), 〜ませんでした (செய்யவில்லை). தமிழைப் போலவே வினைச்சொல் வாக்கியத்தின் கடைசியில் வருகிறது, காலமும் மறுப்பும் வினையின் விகுதியிலேயே சேர்கின்றன.",
+  "intro_en": "In this lesson you will learn to tell the time, say the days of the week, and describe your daily routine: \"I get up at seven in the morning\", \"I work from nine to five\". Verbs appear for the first time: 〜ます (I do), 〜ません (I don't do), 〜ました (I did), 〜ませんでした (I didn't do). As in Tamil, the verb comes at the end of the sentence, and tense and negation are added as endings on the verb itself.",
   "grammar": [
     {
       "id": "g04-1",
       "pattern": "今 〜時 〜分 です",
-      "name": { "en": "Telling the time", "ta": "நேரம் சொல்வது" },
+      "name": {
+        "en": "Telling the time",
+        "ta": "நேரம் சொல்வது"
+      },
       "explanation_ta": "நேரம் சொல்ல எண் + 時 (じ, மணி) + எண் + 分 (ふん/ぷん, நிமிடம்). 'இப்போது மணி என்ன?' = 「今 何時ですか」; பதில் 「今 九時十分です」. அரை மணிக்கு 半 (はん): 七時半 = ஏழரை மணி — தமிழில் 'ஏழரை' என்று சொல்வது போலவே எண்ணுக்குப் பின் 'அரை'. காலை / மாலையை வேறுபடுத்த 午前 (a.m.), 午後 (p.m.) நேரத்துக்கு முன்னால் வரும்: 午後 三時 — தமிழில் 'மதியம் மூன்று மணி' என்று சொல்வது போன்ற வரிசை. ஒலி மாற்றங்களை மனப்பாடம் செய்யுங்கள்: 四時 = よじ, 七時 = しちじ, 九時 = くじ; 一分 = いっぷん, 三分 = さんぷん, 四分 = よんぷん, 六分 = ろっぷん, 八分 = はっぷん, 十分 = じゅっぷん, 何分 = なんぷん (மற்றவை ふん: 二分 にふん, 五分 ごふん).",
+      "explanation_en": "To tell the time, use number + 時 (じ, o'clock / மணி) + number + 分 (ふん/ぷん, minutes / நிமிடம்). \"What time is it now?\" = 「今 何時ですか」; the answer is 「今 九時十分です」. For half past, use 半 (はん): 七時半 = half past seven (ஏழரை மணி). Just as Tamil says \"ஏழரை\" (seven and a half), \"half\" comes after the number. To tell morning from afternoon, 午前 (a.m.) and 午後 (p.m.) go before the time: 午後 三時. This is the same order as Tamil \"மதியம் மூன்று மணி\" (afternoon three o'clock). Memorise the sound changes: 四時 = よじ, 七時 = しちじ, 九時 = くじ; 一分 = いっぷん, 三分 = さんぷん, 四分 = よんぷん, 六分 = ろっぷん, 八分 = はっぷん, 十分 = じゅっぷん, 何分 = なんぷん (the others use ふん: 二分 にふん, 五分 ごふん).",
       "tamil_parallel": "இப்போது மணி ஏழரை. = 今 七時半です。 — 時 ≈ 'மணி', 分 ≈ 'நிமிடம்', 半 ≈ 'அரை'",
+      "tamil_parallel_en": "இப்போது மணி ஏழரை \"It is half past seven now\" = 今 七時半です。 Here 時 is roughly \"மணி\" (o'clock), 分 is \"நிமிடம்\" (minute), and 半 is \"அரை\" (half), which comes after the number just as in Tamil \"ஏழரை\".",
       "formation": "今 + (午前 / 午後) + எண் 時 + எண் 分 / 半 + です ; 今 何時ですか",
+      "formation_en": "今 + (午前 / 午後) + number 時 + number 分 / 半 + です ; 今 何時ですか",
       "examples": [
-        { "ja": "今 何時ですか。", "reading": "いま なんじですか。", "romaji": "ima nanji desu ka.", "ta": "இப்போது மணி என்ன?", "en": "What time is it now?" },
-        { "ja": "今 四時十分です。", "reading": "いま よじ じゅっぷんです。", "romaji": "ima yoji juppun desu.", "ta": "இப்போது நான்கு மணி பத்து நிமிடம்.", "en": "It is 4:10 now." },
-        { "ja": "今 午前 七時半です。", "reading": "いま ごぜん しちじはんです。", "romaji": "ima gozen shichijihan desu.", "ta": "இப்போது காலை ஏழரை மணி.", "en": "It is 7:30 a.m. now." },
-        { "ja": "今 午後 九時三分です。", "reading": "いま ごご くじ さんぷんです。", "romaji": "ima gogo kuji sanpun desu.", "ta": "இப்போது இரவு ஒன்பது மணி மூன்று நிமிடம்.", "en": "It is 9:03 p.m. now." },
-        { "ja": "今 六時じゃありません。五時です。", "reading": "いま ろくじじゃありません。ごじです。", "romaji": "ima rokuji ja arimasen. goji desu.", "ta": "இப்போது ஆறு மணி இல்லை. ஐந்து மணி.", "en": "It is not six now. It is five." },
-        { "ja": "ニューデリーは 今 何時ですか。", "reading": "ニューデリーは いま なんじですか。", "romaji": "nyuuderii wa ima nanji desu ka.", "ta": "புது டெல்லியில் இப்போது மணி என்ன?", "en": "What time is it in New Delhi now?" }
+        {
+          "ja": "今 何時ですか。",
+          "reading": "いま なんじですか。",
+          "romaji": "ima nanji desu ka.",
+          "ta": "இப்போது மணி என்ன?",
+          "en": "What time is it now?"
+        },
+        {
+          "ja": "今 四時十分です。",
+          "reading": "いま よじ じゅっぷんです。",
+          "romaji": "ima yoji juppun desu.",
+          "ta": "இப்போது நான்கு மணி பத்து நிமிடம்.",
+          "en": "It is 4:10 now."
+        },
+        {
+          "ja": "今 午前 七時半です。",
+          "reading": "いま ごぜん しちじはんです。",
+          "romaji": "ima gozen shichijihan desu.",
+          "ta": "இப்போது காலை ஏழரை மணி.",
+          "en": "It is 7:30 a.m. now."
+        },
+        {
+          "ja": "今 午後 九時三分です。",
+          "reading": "いま ごご くじ さんぷんです。",
+          "romaji": "ima gogo kuji sanpun desu.",
+          "ta": "இப்போது இரவு ஒன்பது மணி மூன்று நிமிடம்.",
+          "en": "It is 9:03 p.m. now."
+        },
+        {
+          "ja": "今 六時じゃありません。五時です。",
+          "reading": "いま ろくじじゃありません。ごじです。",
+          "romaji": "ima rokuji ja arimasen. goji desu.",
+          "ta": "இப்போது ஆறு மணி இல்லை. ஐந்து மணி.",
+          "en": "It is not six now. It is five."
+        },
+        {
+          "ja": "ニューデリーは 今 何時ですか。",
+          "reading": "ニューデリーは いま なんじですか。",
+          "romaji": "nyuuderii wa ima nanji desu ka.",
+          "ta": "புது டெல்லியில் இப்போது மணி என்ன?",
+          "en": "What time is it in New Delhi now?"
+        }
       ],
-      "pitfalls_ta": "四時 = よじ (よんじ அல்ல), 九時 = くじ (きゅうじ அல்ல). 半 என்பதை 時-க்குப் பின்னால் சேர்க்க வேண்டும்: 七時半 (半七時 தவறு). 午後-ஐ நேரத்துக்குப் பின் வைக்காதீர்கள் (三時午後 தவறு)."
+      "pitfalls_ta": "四時 = よじ (よんじ அல்ல), 九時 = くじ (きゅうじ அல்ல). 半 என்பதை 時-க்குப் பின்னால் சேர்க்க வேண்டும்: 七時半 (半七時 தவறு). 午後-ஐ நேரத்துக்குப் பின் வைக்காதீர்கள் (三時午後 தவறு).",
+      "pitfalls_en": "四時 = よじ (not よんじ), 九時 = くじ (not きゅうじ). 半 must go after 時: 七時半 (半七時 is wrong). Don't put 午後 after the time (三時午後 is wrong)."
     },
     {
       "id": "g04-2",
       "pattern": "V ます / V ません",
-      "name": { "en": "Polite non-past verbs", "ta": "மரியாதை நிகழ்/எதிர்கால வினை" },
+      "name": {
+        "en": "Polite non-past verbs",
+        "ta": "மரியாதை நிகழ்/எதிர்கால வினை"
+      },
       "explanation_ta": "ஜப்பானிய வினைச்சொல்லின் மரியாதை வடிவம் 〜ます: 起きます (எழுந்திருக்கிறேன்), 寝ます (தூங்குகிறேன்), 働きます (வேலை செய்கிறேன்). இது தினசரி வழக்கத்தையும் ('தினமும் எழுந்திருக்கிறேன்'), எதிர்காலத்தையும் ('நாளை வேலை செய்வேன்') குறிக்கும் — தமிழில் நிகழ்காலமும் எதிர்காலமும் தனித்தனி, ஆனால் ஜப்பானியில் ஒன்றே; சூழல் (毎日, 明日) பொருளைச் சொல்லும். மறுப்புக்கு ます → ません: 働きません = 'வேலை செய்வதில்லை / செய்ய மாட்டேன்'. கேள்விக்கு வழக்கம்போல் か: 働きますか. தமிழைப் போலவே வினை வாக்கியத்தின் கடைசியில் வரும், 'நான்' என்ற எழுவாயை அடிக்கடி விட்டுவிடலாம்.",
+      "explanation_en": "The polite form of a Japanese verb is 〜ます: 起きます (I get up), 寝ます (I sleep / go to bed), 働きます (I work). It shows both daily habits (\"I get up every day\") and the future (\"I will work tomorrow\"). Tamil has separate present and future tenses, but in Japanese they are the same form; the context (毎日, 明日) tells you the meaning. For the negative, ます → ません: 働きません = \"I don't work / I won't work\". For a question, add か as usual: 働きますか. As in Tamil, the verb comes at the end of the sentence, and you can often drop the subject \"I\".",
       "tamil_parallel": "நாளை வேலை செய்வேன். / புதன்கிழமை வேலை செய்வதில்லை. = 明日 働きます。/ 水曜日は 働きません。",
+      "tamil_parallel_en": "நாளை வேலை செய்வேன் \"I will work tomorrow\" / புதன்கிழமை வேலை செய்வதில்லை \"I don't work on Wednesdays\" = 明日 働きます。/ 水曜日は 働きません。 Where Tamil uses separate future and habitual forms, Japanese uses one ます form for both.",
       "formation": "V (ます-வடிவம்): 起きます → 起きません ; 寝ます → 寝ません ; 働きます → 働きません",
+      "formation_en": "V (ます-form): 起きます → 起きません ; 寝ます → 寝ません ; 働きます → 働きません",
       "examples": [
-        { "ja": "毎朝 六時に 起きます。", "reading": "まいあさ ろくじに おきます。", "romaji": "maiasa rokuji ni okimasu.", "ta": "தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at six every morning." },
-        { "ja": "明日 働きますか。", "reading": "あした はたらきますか。", "romaji": "ashita hatarakimasu ka.", "ta": "நாளை வேலை செய்வீர்களா?", "en": "Will you work tomorrow?" },
-        { "ja": "いいえ、働きません。", "reading": "いいえ、はたらきません。", "romaji": "iie, hatarakimasen.", "ta": "இல்லை, வேலை செய்ய மாட்டேன்.", "en": "No, I won't work." },
-        { "ja": "毎晩 十一時に 寝ます。", "reading": "まいばん じゅういちじに ねます。", "romaji": "maiban juuichiji ni nemasu.", "ta": "தினமும் இரவு பதினொரு மணிக்குத் தூங்குகிறேன்.", "en": "I go to bed at eleven every night." },
-        { "ja": "田中さんは 土曜日も 働きます。", "reading": "たなかさんは どようびも はたらきます。", "romaji": "tanaka-san wa doyoubi mo hatarakimasu.", "ta": "தனாகா-சான் சனிக்கிழமையும் வேலை செய்கிறார்.", "en": "Mr Tanaka works on Saturdays too." },
-        { "ja": "日曜日は 早く 起きません。", "reading": "にちようびは はやく おきません。", "romaji": "nichiyoubi wa hayaku okimasen.", "ta": "ஞாயிற்றுக்கிழமை சீக்கிரம் எழுந்திருப்பதில்லை.", "en": "I don't get up early on Sundays." }
+        {
+          "ja": "毎朝 六時に 起きます。",
+          "reading": "まいあさ ろくじに おきます。",
+          "romaji": "maiasa rokuji ni okimasu.",
+          "ta": "தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன்.",
+          "en": "I get up at six every morning."
+        },
+        {
+          "ja": "明日 働きますか。",
+          "reading": "あした はたらきますか。",
+          "romaji": "ashita hatarakimasu ka.",
+          "ta": "நாளை வேலை செய்வீர்களா?",
+          "en": "Will you work tomorrow?"
+        },
+        {
+          "ja": "いいえ、働きません。",
+          "reading": "いいえ、はたらきません。",
+          "romaji": "iie, hatarakimasen.",
+          "ta": "இல்லை, வேலை செய்ய மாட்டேன்.",
+          "en": "No, I won't work."
+        },
+        {
+          "ja": "毎晩 十一時に 寝ます。",
+          "reading": "まいばん じゅういちじに ねます。",
+          "romaji": "maiban juuichiji ni nemasu.",
+          "ta": "தினமும் இரவு பதினொரு மணிக்குத் தூங்குகிறேன்.",
+          "en": "I go to bed at eleven every night."
+        },
+        {
+          "ja": "田中さんは 土曜日も 働きます。",
+          "reading": "たなかさんは どようびも はたらきます。",
+          "romaji": "tanaka-san wa doyoubi mo hatarakimasu.",
+          "ta": "தனாகா-சான் சனிக்கிழமையும் வேலை செய்கிறார்.",
+          "en": "Mr Tanaka works on Saturdays too."
+        },
+        {
+          "ja": "日曜日は 早く 起きません。",
+          "reading": "にちようびは はやく おきません。",
+          "romaji": "nichiyoubi wa hayaku okimasen.",
+          "ta": "ஞாயிற்றுக்கிழமை சீக்கிரம் எழுந்திருப்பதில்லை.",
+          "en": "I don't get up early on Sundays."
+        }
       ],
-      "pitfalls_ta": "〜ます வடிவத்தில் 'நான் / நீங்கள் / அவர்' என்று எழுவாய்க்கு ஏற்ப விகுதி மாறாது — தமிழில் 'செய்கிறேன் / செய்கிறார்' என்று மாறுவது போல ஜப்பானியில் மாறாது; 働きます எல்லோருக்கும் ஒன்றே. ません-ஐ じゃありません-உடன் குழப்ப வேண்டாம்; அது பெயர்ச்சொல்லுக்கு."
+      "pitfalls_ta": "〜ます வடிவத்தில் 'நான் / நீங்கள் / அவர்' என்று எழுவாய்க்கு ஏற்ப விகுதி மாறாது — தமிழில் 'செய்கிறேன் / செய்கிறார்' என்று மாறுவது போல ஜப்பானியில் மாறாது; 働きます எல்லோருக்கும் ஒன்றே. ません-ஐ じゃありません-உடன் குழப்ப வேண்டாம்; அது பெயர்ச்சொல்லுக்கு.",
+      "pitfalls_en": "The 〜ます form does not change for \"I / you / he\". Tamil changes the ending, as in \"செய்கிறேன்\" (I do) / \"செய்கிறார்\" (he does), but Japanese does not; 働きます is the same for everyone. Don't confuse ません with じゃありません; that one is for nouns."
     },
     {
       "id": "g04-3",
       "pattern": "V ました / V ませんでした",
-      "name": { "en": "Polite past verbs", "ta": "மரியாதை இறந்தகால வினை" },
+      "name": {
+        "en": "Polite past verbs",
+        "ta": "மரியாதை இறந்தகால வினை"
+      },
       "explanation_ta": "இறந்த காலத்துக்கு ます → ました: 起きました (எழுந்தேன்), 寝ました (தூங்கினேன்), 働きました (வேலை செய்தேன்). இறந்தகால மறுப்புக்கு ません + でした = ませんでした: 働きませんでした (வேலை செய்யவில்லை). தமிழில் 'செய்-த்-ஏன்' என்று காலம் வினையின் நடுவில் சேர்வது போல, ஜப்பானியிலும் காலம் வினையின் விகுதியில் மட்டுமே தெரியும். 'நேற்று', 'நேற்றிரவு' போன்ற காலச் சொற்களுடன் இறந்த கால வடிவம் கட்டாயம்.",
+      "explanation_en": "For the past tense, ます → ました: 起きました (I got up), 寝ました (I slept), 働きました (I worked). For the past negative, ません + でした = ませんでした: 働きませんでした (I didn't work). Just as Tamil adds the tense inside the verb, as in \"செய்-த்-ஏன்\" (I did), in Japanese the tense shows only in the verb ending. With time words such as \"yesterday\" and \"last night\", the past form is required.",
       "tamil_parallel": "நேற்று வேலை செய்தேன். / நேற்று வேலை செய்யவில்லை. = 昨日 働きました。/ 昨日 働きませんでした。",
+      "tamil_parallel_en": "நேற்று வேலை செய்தேன் \"I worked yesterday\" / நேற்று வேலை செய்யவில்லை \"I didn't work yesterday\" = 昨日 働きました。/ 昨日 働きませんでした。 Like Tamil, tense and negation are both carried by the verb ending.",
       "formation": "V ます → V ました ; V ません → V ませんでした",
+      "formation_en": "V ます → V ました ; V ません → V ませんでした",
       "examples": [
-        { "ja": "昨日 七時に 起きました。", "reading": "きのう しちじに おきました。", "romaji": "kinou shichiji ni okimashita.", "ta": "நேற்று ஏழு மணிக்கு எழுந்தேன்.", "en": "Yesterday I got up at seven." },
-        { "ja": "昨日の 晩 何時に 寝ましたか。", "reading": "きのうの ばん なんじに ねましたか。", "romaji": "kinou no ban nanji ni nemashita ka.", "ta": "நேற்றிரவு எத்தனை மணிக்குத் தூங்கினீர்கள்?", "en": "What time did you go to bed last night?" },
-        { "ja": "十二時に 寝ました。", "reading": "じゅうにじに ねました。", "romaji": "juuniji ni nemashita.", "ta": "பன்னிரண்டு மணிக்குத் தூங்கினேன்.", "en": "I went to bed at twelve." },
-        { "ja": "昨日は 働きませんでした。", "reading": "きのうは はたらきませんでした。", "romaji": "kinou wa hatarakimasen deshita.", "ta": "நேற்று வேலை செய்யவில்லை.", "en": "I didn't work yesterday." },
-        { "ja": "金曜日も 働きましたか。", "reading": "きんようびも はたらきましたか。", "romaji": "kin'youbi mo hatarakimashita ka.", "ta": "வெள்ளிக்கிழமையும் வேலை செய்தீர்களா?", "en": "Did you work on Friday too?" },
-        { "ja": "今日は 早く 起きませんでした。", "reading": "きょうは はやく おきませんでした。", "romaji": "kyou wa hayaku okimasen deshita.", "ta": "இன்று சீக்கிரம் எழுந்திருக்கவில்லை.", "en": "I didn't get up early today." }
+        {
+          "ja": "昨日 七時に 起きました。",
+          "reading": "きのう しちじに おきました。",
+          "romaji": "kinou shichiji ni okimashita.",
+          "ta": "நேற்று ஏழு மணிக்கு எழுந்தேன்.",
+          "en": "Yesterday I got up at seven."
+        },
+        {
+          "ja": "昨日の 晩 何時に 寝ましたか。",
+          "reading": "きのうの ばん なんじに ねましたか。",
+          "romaji": "kinou no ban nanji ni nemashita ka.",
+          "ta": "நேற்றிரவு எத்தனை மணிக்குத் தூங்கினீர்கள்?",
+          "en": "What time did you go to bed last night?"
+        },
+        {
+          "ja": "十二時に 寝ました。",
+          "reading": "じゅうにじに ねました。",
+          "romaji": "juuniji ni nemashita.",
+          "ta": "பன்னிரண்டு மணிக்குத் தூங்கினேன்.",
+          "en": "I went to bed at twelve."
+        },
+        {
+          "ja": "昨日は 働きませんでした。",
+          "reading": "きのうは はたらきませんでした。",
+          "romaji": "kinou wa hatarakimasen deshita.",
+          "ta": "நேற்று வேலை செய்யவில்லை.",
+          "en": "I didn't work yesterday."
+        },
+        {
+          "ja": "金曜日も 働きましたか。",
+          "reading": "きんようびも はたらきましたか。",
+          "romaji": "kin'youbi mo hatarakimashita ka.",
+          "ta": "வெள்ளிக்கிழமையும் வேலை செய்தீர்களா?",
+          "en": "Did you work on Friday too?"
+        },
+        {
+          "ja": "今日は 早く 起きませんでした。",
+          "reading": "きょうは はやく おきませんでした。",
+          "romaji": "kyou wa hayaku okimasen deshita.",
+          "ta": "இன்று சீக்கிரம் எழுந்திருக்கவில்லை.",
+          "en": "I didn't get up early today."
+        }
       ],
-      "pitfalls_ta": "「働きましたでした」 போன்ற இரட்டை இறந்தகாலம் தவறு. இறந்தகால மறுப்பு ませんでした ஒரே தொகுப்பு; ませんした என்று எழுதக் கூடாது."
+      "pitfalls_ta": "「働きましたでした」 போன்ற இரட்டை இறந்தகாலம் தவறு. இறந்தகால மறுப்பு ませんでした ஒரே தொகுப்பு; ませんした என்று எழுதக் கூடாது.",
+      "pitfalls_en": "A double past like 「働きましたでした」 is wrong. The past negative ませんでした is one unit; don't write ませんした."
     },
     {
       "id": "g04-4",
       "pattern": "N(time) に V",
-      "name": { "en": "At (a specific time)", "ta": "(குறிப்பிட்ட நேரத்தில்)-க்கு" },
+      "name": {
+        "en": "At (a specific time)",
+        "ta": "(குறிப்பிட்ட நேரத்தில்)-க்கு"
+      },
       "explanation_ta": "ஒரு செயல் எந்தக் குறிப்பிட்ட நேரத்தில் நடக்கிறது என்று சொல்ல நேரத்துக்குப் பின் に: 「六時に 起きます」 = 'ஆறு மணிக்கு எழுந்திருக்கிறேன்'. தமிழின் 'ஆறு மணி-க்கு' இல் உள்ள '-க்கு' தான் に. வாரநாட்களுக்கும் に போடலாம்: 「日曜日に」 = 'ஞாயிற்றுக்கிழமை(யன்று)'. ஆனால் 今日, 明日, 昨日, 毎日, 毎朝, 毎晩, 今, 朝, 晩 போன்ற தொடர்புக் காலச் சொற்களுக்கு に போடக் கூடாது — தமிழிலும் 'நாளை-க்கு வேலை செய்கிறேன்' என்று சொல்ல மாட்டோம் அல்லவா, 'நாளை வேலை செய்கிறேன்' என்றுதான். எண் உள்ள நேரம் → に; எண் இல்லாத தொடர்புச் சொல் → に இல்லை.",
+      "explanation_en": "To say the specific time an action happens, put に after the time: 「六時に 起きます」 = \"I get up at six o'clock\" (ஆறு மணிக்கு எழுந்திருக்கிறேன்). に is the \"-க்கு\" (at) in the Tamil \"ஆறு மணி-க்கு\". You can also put に after days of the week: 「日曜日に」 = on Sunday (ஞாயிற்றுக்கிழமையன்று). But you must not put に after relative time words such as 今日, 明日, 昨日, 毎日, 毎朝, 毎晩, 今, 朝 and 晩. Be careful here: spoken Tamil often says \"நாளைக்கு\" (tomorrow, with \"-க்கு\"), but Japanese never says 明日に; just say 明日 働きます. Time with a number → に; relative word with no number → no に.",
       "tamil_parallel": "ஆறு மணிக்கு எழுந்திருக்கிறேன். = 六時に 起きます。 — に ≈ '-க்கு' (நேரம்)",
+      "tamil_parallel_en": "ஆறு மணிக்கு எழுந்திருக்கிறேன் \"I get up at six o'clock\" = 六時に 起きます。 Here に is roughly the Tamil \"-க்கு\" (at) on a time.",
       "formation": "நேரம் (எண் / வாரநாள்) + に + V ; 今日・明日・毎日 + V (に இல்லை)",
+      "formation_en": "Time (number / day of the week) + に + V ; 今日・明日・毎日 + V (no に)",
       "examples": [
-        { "ja": "五時半に 起きます。", "reading": "ごじはんに おきます。", "romaji": "gojihan ni okimasu.", "ta": "ஐந்தரை மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at 5:30." },
-        { "ja": "何時に 寝ますか。", "reading": "なんじに ねますか。", "romaji": "nanji ni nemasu ka.", "ta": "எத்தனை மணிக்குத் தூங்குவீர்கள்?", "en": "What time do you go to bed?" },
-        { "ja": "日曜日に 働きますか。", "reading": "にちようびに はたらきますか。", "romaji": "nichiyoubi ni hatarakimasu ka.", "ta": "ஞாயிற்றுக்கிழமை வேலை செய்வீர்களா?", "en": "Do you work on Sunday?" },
-        { "ja": "明日 八時に 起きます。", "reading": "あした はちじに おきます。", "romaji": "ashita hachiji ni okimasu.", "ta": "நாளை எட்டு மணிக்கு எழுந்திருப்பேன்.", "en": "Tomorrow I will get up at eight." },
-        { "ja": "昨日 午後 十時に 寝ました。", "reading": "きのう ごご じゅうじに ねました。", "romaji": "kinou gogo juuji ni nemashita.", "ta": "நேற்று இரவு பத்து மணிக்குத் தூங்கினேன்.", "en": "Yesterday I went to bed at 10 p.m." },
-        { "ja": "毎朝 七時に 起きます。", "reading": "まいあさ しちじに おきます。", "romaji": "maiasa shichiji ni okimasu.", "ta": "தினமும் காலை ஏழு மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at seven every morning." }
+        {
+          "ja": "五時半に 起きます。",
+          "reading": "ごじはんに おきます。",
+          "romaji": "gojihan ni okimasu.",
+          "ta": "ஐந்தரை மணிக்கு எழுந்திருக்கிறேன்.",
+          "en": "I get up at 5:30."
+        },
+        {
+          "ja": "何時に 寝ますか。",
+          "reading": "なんじに ねますか。",
+          "romaji": "nanji ni nemasu ka.",
+          "ta": "எத்தனை மணிக்குத் தூங்குவீர்கள்?",
+          "en": "What time do you go to bed?"
+        },
+        {
+          "ja": "日曜日に 働きますか。",
+          "reading": "にちようびに はたらきますか。",
+          "romaji": "nichiyoubi ni hatarakimasu ka.",
+          "ta": "ஞாயிற்றுக்கிழமை வேலை செய்வீர்களா?",
+          "en": "Do you work on Sunday?"
+        },
+        {
+          "ja": "明日 八時に 起きます。",
+          "reading": "あした はちじに おきます。",
+          "romaji": "ashita hachiji ni okimasu.",
+          "ta": "நாளை எட்டு மணிக்கு எழுந்திருப்பேன்.",
+          "en": "Tomorrow I will get up at eight."
+        },
+        {
+          "ja": "昨日 午後 十時に 寝ました。",
+          "reading": "きのう ごご じゅうじに ねました。",
+          "romaji": "kinou gogo juuji ni nemashita.",
+          "ta": "நேற்று இரவு பத்து மணிக்குத் தூங்கினேன்.",
+          "en": "Yesterday I went to bed at 10 p.m."
+        },
+        {
+          "ja": "毎朝 七時に 起きます。",
+          "reading": "まいあさ しちじに おきます。",
+          "romaji": "maiasa shichiji ni okimasu.",
+          "ta": "தினமும் காலை ஏழு மணிக்கு எழுந்திருக்கிறேன்.",
+          "en": "I get up at seven every morning."
+        }
       ],
-      "pitfalls_ta": "「明日に」「毎日に」「今に」 — இவை தவறு. 「毎朝 七時に」 என்பதில் 毎朝-க்கு に இல்லை, எண் உள்ள 七時-க்கு மட்டும் に."
+      "pitfalls_ta": "「明日に」「毎日に」「今に」 — இவை தவறு. 「毎朝 七時に」 என்பதில் 毎朝-க்கு に இல்லை, எண் உள்ள 七時-க்கு மட்டும் に.",
+      "pitfalls_en": "「明日に」「毎日に」「今に」 are wrong. In 「毎朝 七時に」, 毎朝 takes no に; only 七時, which has a number, takes に."
     },
     {
       "id": "g04-5",
       "pattern": "N1 から N2 まで",
-      "name": { "en": "From … to …", "ta": "…-இலிருந்து …-வரை" },
+      "name": {
+        "en": "From … to …",
+        "ta": "…-இலிருந்து …-வரை"
+      },
       "explanation_ta": "から = 'இலிருந்து / முதல்', まで = 'வரை'. 「九時から 五時まで 働きます」 = 'ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்'. தமிழின் '-இலிருந்து', '-வரை' போலவே இவை பெயர்ச்சொல்லின் பின்னால் ஒட்டுகின்றன, வரிசையும் தமிழோடு ஒன்றே. இரண்டையும் சேர்த்தோ தனியாகவோ பயன்படுத்தலாம். கடைகள், வங்கிகளின் நேரம் சொல்ல 「銀行は 九時から 三時までです」 என்று です-உடன் நேரடியாக முடிக்கலாம் — தமிழில் 'வங்கி ஒன்பது முதல் மூன்று வரை' என்று சொல்வது போல.",
+      "explanation_en": "から = \"from\" (-இலிருந்து / முதல்), まで = \"until / to\" (வரை). 「九時から 五時まで 働きます」 = \"I work from nine o'clock to five o'clock\" (ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்). Like the Tamil \"-இலிருந்து\" and \"-வரை\", they attach after the noun, and the order is the same as Tamil. You can use them together or on their own. For shop or bank hours, you can end directly with です: 「銀行は 九時から 三時までです」, just as Tamil says \"வங்கி ஒன்பது முதல் மூன்று வரை\" (the bank is from nine to three).",
       "tamil_parallel": "ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன். = 九時から 五時まで 働きます。 — から ≈ '-இலிருந்து', まで ≈ '-வரை'",
+      "tamil_parallel_en": "ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன் \"I work from nine to five\" = 九時から 五時まで 働きます。 Here から is roughly \"-இலிருந்து\" (from) and まで is \"-வரை\" (until), in the same order as Tamil.",
       "formation": "N1 + から + N2 + まで + V / です",
+      "formation_en": "N1 + から + N2 + まで + V / です",
       "examples": [
-        { "ja": "九時から 五時まで 働きます。", "reading": "くじから ごじまで はたらきます。", "romaji": "kuji kara goji made hatarakimasu.", "ta": "ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்.", "en": "I work from nine to five." },
-        { "ja": "銀行は 九時から 三時までです。", "reading": "ぎんこうは くじから さんじまでです。", "romaji": "ginkou wa kuji kara sanji made desu.", "ta": "வங்கி ஒன்பது மணி முதல் மூன்று மணி வரை.", "en": "The bank is open from nine to three." },
-        { "ja": "郵便局は 何時までですか。", "reading": "ゆうびんきょくは なんじまでですか。", "romaji": "yuubinkyoku wa nanji made desu ka.", "ta": "தபால் நிலையம் எத்தனை மணி வரை?", "en": "Until what time is the post office open?" },
-        { "ja": "月曜日から 金曜日まで 働きます。", "reading": "げつようびから きんようびまで はたらきます。", "romaji": "getsuyoubi kara kin'youbi made hatarakimasu.", "ta": "திங்கள் முதல் வெள்ளி வரை வேலை செய்கிறேன்.", "en": "I work from Monday to Friday." },
-        { "ja": "昨日は 夜 十一時まで 働きました。", "reading": "きのうは よる じゅういちじまで はたらきました。", "romaji": "kinou wa yoru juuichiji made hatarakimashita.", "ta": "நேற்று இரவு பதினொரு மணி வரை வேலை செய்தேன்.", "en": "Yesterday I worked until eleven at night." },
-        { "ja": "デパートは 十時からです。", "reading": "デパートは じゅうじからです。", "romaji": "depaato wa juuji kara desu.", "ta": "பல்பொருள் அங்காடி பத்து மணியிலிருந்து (திறந்திருக்கும்).", "en": "The department store opens at ten." }
+        {
+          "ja": "九時から 五時まで 働きます。",
+          "reading": "くじから ごじまで はたらきます。",
+          "romaji": "kuji kara goji made hatarakimasu.",
+          "ta": "ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்.",
+          "en": "I work from nine to five."
+        },
+        {
+          "ja": "銀行は 九時から 三時までです。",
+          "reading": "ぎんこうは くじから さんじまでです。",
+          "romaji": "ginkou wa kuji kara sanji made desu.",
+          "ta": "வங்கி ஒன்பது மணி முதல் மூன்று மணி வரை.",
+          "en": "The bank is open from nine to three."
+        },
+        {
+          "ja": "郵便局は 何時までですか。",
+          "reading": "ゆうびんきょくは なんじまでですか。",
+          "romaji": "yuubinkyoku wa nanji made desu ka.",
+          "ta": "தபால் நிலையம் எத்தனை மணி வரை?",
+          "en": "Until what time is the post office open?"
+        },
+        {
+          "ja": "月曜日から 金曜日まで 働きます。",
+          "reading": "げつようびから きんようびまで はたらきます。",
+          "romaji": "getsuyoubi kara kin'youbi made hatarakimasu.",
+          "ta": "திங்கள் முதல் வெள்ளி வரை வேலை செய்கிறேன்.",
+          "en": "I work from Monday to Friday."
+        },
+        {
+          "ja": "昨日は 夜 十一時まで 働きました。",
+          "reading": "きのうは よる じゅういちじまで はたらきました。",
+          "romaji": "kinou wa yoru juuichiji made hatarakimashita.",
+          "ta": "நேற்று இரவு பதினொரு மணி வரை வேலை செய்தேன்.",
+          "en": "Yesterday I worked until eleven at night."
+        },
+        {
+          "ja": "デパートは 十時からです。",
+          "reading": "デパートは じゅうじからです。",
+          "romaji": "depaato wa juuji kara desu.",
+          "ta": "பல்பொருள் அங்காடி பத்து மணியிலிருந்து (திறந்திருக்கும்).",
+          "en": "The department store opens at ten."
+        }
       ],
-      "pitfalls_ta": "から / まで-க்குப் பின் に சேர்க்க வேண்டாம் (「九時からに」 தவறு). まで என்பது 'வரை' மட்டுமே; 'வரைக்குள் (deadline)' என்ற பொருள் வேறு வடிவம் (பிற்பாடம்)."
+      "pitfalls_ta": "から / まで-க்குப் பின் に சேர்க்க வேண்டாம் (「九時からに」 தவறு). まで என்பது 'வரை' மட்டுமே; 'வரைக்குள் (deadline)' என்ற பொருள் வேறு வடிவம் (பிற்பாடம்).",
+      "pitfalls_en": "Don't add に after から / まで (「九時からに」 is wrong). まで means only \"until\"; the meaning \"by (a deadline)\" is a different form (in a later lesson)."
     },
     {
       "id": "g04-6",
       "pattern": "N1 と N2",
-      "name": { "en": "N1 and N2", "ta": "N1-உம் N2-உம்" },
+      "name": {
+        "en": "N1 and N2",
+        "ta": "N1-உம் N2-உம்"
+      },
       "explanation_ta": "இரண்டு பெயர்ச்சொற்களை 'மற்றும்' என்று இணைக்க と: 「土曜日と 日曜日」 = 'சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும்'. தமிழில் 'சனி-யும் ஞாயிறு-ம்' என்று இரண்டிலும் '-உம்' சேர்ப்போம்; ஜப்பானியில் と முதல் பெயர்ச்சொல்லுக்குப் பின் மட்டும் வரும். と பெயர்ச்சொற்களை மட்டுமே இணைக்கும்; இரண்டு வாக்கியங்களை அல்லது வினைகளை இணைக்காது. も (-உம், கூட) என்பதோடு குழப்ப வேண்டாம்: と = பட்டியல் 'மற்றும்', も = 'இதுவும் கூட'.",
+      "explanation_en": "To join two nouns with \"and\", use と: 「土曜日と 日曜日」 = Saturday and Sunday (சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும்). In Tamil we add \"-உம்\" to both, as in \"சனி-யும் ஞாயிறு-ம்\"; in Japanese と comes only after the first noun. と only joins nouns; it does not join two sentences or verbs. Don't confuse it with も (too / also): と = \"and\" in a list, も = \"this one too\".",
       "tamil_parallel": "சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும் = 土曜日と 日曜日 — と ≈ 'மற்றும் / -உம் … -உம்'",
+      "tamil_parallel_en": "சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும் \"Saturday and Sunday\" = 土曜日と 日曜日. Tamil puts \"-உம்\" on both nouns, but Japanese と goes only after the first.",
       "formation": "N1 + と + N2",
+      "formation_en": "N1 + と + N2",
       "examples": [
-        { "ja": "土曜日と 日曜日は 働きません。", "reading": "どようびと にちようびは はたらきません。", "romaji": "doyoubi to nichiyoubi wa hatarakimasen.", "ta": "சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும் வேலை செய்வதில்லை.", "en": "I don't work on Saturday and Sunday." },
-        { "ja": "月曜日と 木曜日に 働きます。", "reading": "げつようびと もくようびに はたらきます。", "romaji": "getsuyoubi to mokuyoubi ni hatarakimasu.", "ta": "திங்கள், வியாழன் ஆகிய நாட்களில் வேலை செய்கிறேன்.", "en": "I work on Monday and Thursday." },
-        { "ja": "これは 私と 田中さんの 本です。", "reading": "これは わたしと たなかさんの ほんです。", "romaji": "kore wa watashi to tanaka-san no hon desu.", "ta": "இது என்னுடையதும் தனாகா-சானுடையதுமான புத்தகம்.", "en": "This is my and Mr Tanaka's book." },
-        { "ja": "銀行と 郵便局は 一階です。", "reading": "ぎんこうと ゆうびんきょくは いっかいです。", "romaji": "ginkou to yuubinkyoku wa ikkai desu.", "ta": "வங்கியும் தபால் நிலையமும் தரைத்தளத்தில்.", "en": "The bank and the post office are on the first floor." },
-        { "ja": "火曜日と 金曜日は 早く 起きます。", "reading": "かようびと きんようびは はやく おきます。", "romaji": "kayoubi to kin'youbi wa hayaku okimasu.", "ta": "செவ்வாயும் வெள்ளியும் சீக்கிரம் எழுந்திருக்கிறேன்.", "en": "On Tuesday and Friday I get up early." }
+        {
+          "ja": "土曜日と 日曜日は 働きません。",
+          "reading": "どようびと にちようびは はたらきません。",
+          "romaji": "doyoubi to nichiyoubi wa hatarakimasen.",
+          "ta": "சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும் வேலை செய்வதில்லை.",
+          "en": "I don't work on Saturday and Sunday."
+        },
+        {
+          "ja": "月曜日と 木曜日に 働きます。",
+          "reading": "げつようびと もくようびに はたらきます。",
+          "romaji": "getsuyoubi to mokuyoubi ni hatarakimasu.",
+          "ta": "திங்கள், வியாழன் ஆகிய நாட்களில் வேலை செய்கிறேன்.",
+          "en": "I work on Monday and Thursday."
+        },
+        {
+          "ja": "これは 私と 田中さんの 本です。",
+          "reading": "これは わたしと たなかさんの ほんです。",
+          "romaji": "kore wa watashi to tanaka-san no hon desu.",
+          "ta": "இது என்னுடையதும் தனாகா-சானுடையதுமான புத்தகம்.",
+          "en": "This is my and Mr Tanaka's book."
+        },
+        {
+          "ja": "銀行と 郵便局は 一階です。",
+          "reading": "ぎんこうと ゆうびんきょくは いっかいです。",
+          "romaji": "ginkou to yuubinkyoku wa ikkai desu.",
+          "ta": "வங்கியும் தபால் நிலையமும் தரைத்தளத்தில்.",
+          "en": "The bank and the post office are on the first floor."
+        },
+        {
+          "ja": "火曜日と 金曜日は 早く 起きます。",
+          "reading": "かようびと きんようびは はやく おきます。",
+          "romaji": "kayoubi to kin'youbi wa hayaku okimasu.",
+          "ta": "செவ்வாயும் வெள்ளியும் சீக்கிரம் எழுந்திருக்கிறேன்.",
+          "en": "On Tuesday and Friday I get up early."
+        }
       ],
-      "pitfalls_ta": "「土曜日と 日曜日と」 என்று கடைசியிலும் と சேர்க்கும் தமிழ்ப் பழக்கத்தைத் தவிர்க்கவும். 'எழுந்து, வேலை செய்கிறேன்' போல வினைகளை と-வால் இணைக்க முடியாது."
+      "pitfalls_ta": "「土曜日と 日曜日と」 என்று கடைசியிலும் と சேர்க்கும் தமிழ்ப் பழக்கத்தைத் தவிர்க்கவும். 'எழுந்து, வேலை செய்கிறேன்' போல வினைகளை と-வால் இணைக்க முடியாது.",
+      "pitfalls_en": "Avoid the Tamil habit of adding と at the end too, as in 「土曜日と 日曜日と」. You cannot join verbs with と, as in \"I get up and work\"."
     },
     {
       "id": "g04-7",
       "pattern": "〜ね",
-      "name": { "en": "Sentence-final ね (seeking agreement)", "ta": "வாக்கிய இறுதி ね ('இல்லையா?')" },
+      "name": {
+        "en": "Sentence-final ね (seeking agreement)",
+        "ta": "வாக்கிய இறுதி ね ('இல்லையா?')"
+      },
       "explanation_ta": "வாக்கியத்தின் கடைசியில் ね சேர்த்தால் 'இல்லையா? / அல்லவா?' என்ற பொருள் — கேட்பவரும் அதே கருத்தைக் கொண்டிருப்பார் என்று எதிர்பார்த்துச் சொல்வது. தமிழில் 'இன்று திங்கள், இல்லையா?' அல்லது 'சீக்கிரம்தானே!' என்பதில் உள்ள '-தானே / இல்லையா' போன்றது. மற்றவர் சொன்னதை ஒப்புக்கொள்ளவும் 「そうですね」 ('ஆமாம், அப்படித்தான்') என்று ね பயன்படும். か (கேள்வி) என்பது பதில் தெரியாதபோது; ね என்பது பதில் ஓரளவு தெரிந்து உறுதிப்படுத்தும்போது.",
+      "explanation_en": "Adding ね at the end of a sentence means \"…, isn't it? / …, right?\"; you say it expecting the listener to agree. It is like the Tamil \"-தானே / இல்லையா\" in \"இன்று திங்கள், இல்லையா?\" (Today is Monday, isn't it?) or \"சீக்கிரம்தானே!\" (It's early, isn't it!). ね is also used to agree with what someone else said: 「そうですね」 (\"Yes, that's right\"). か (question) is for when you don't know the answer; ね is for when you more or less know the answer and want to confirm it.",
       "tamil_parallel": "இன்று திங்கள்தானே? = 今日は 月曜日ですね。 — ね ≈ '-தானே / இல்லையா'",
+      "tamil_parallel_en": "இன்று திங்கள்தானே? \"Today is Monday, isn't it?\" = 今日は 月曜日ですね。 Here ね is roughly the Tamil \"-தானே / இல்லையா\" (isn't it).",
       "formation": "வாக்கியம் (です / ます) + ね",
+      "formation_en": "Sentence (です / ます) + ね",
       "examples": [
-        { "ja": "今日は 月曜日ですね。", "reading": "きょうは げつようびですね。", "romaji": "kyou wa getsuyoubi desu ne.", "ta": "இன்று திங்கட்கிழமைதானே.", "en": "Today is Monday, isn't it?" },
-        { "ja": "ラジャさんは 毎朝 五時に 起きますね。", "reading": "ラジャさんは まいあさ ごじに おきますね。", "romaji": "raja-san wa maiasa goji ni okimasu ne.", "ta": "ராஜா-சான், நீங்கள் தினமும் காலை ஐந்து மணிக்கு எழுந்திருக்கிறீர்கள், இல்லையா?", "en": "Raja, you get up at five every morning, right?" },
-        { "ja": "ええ、毎朝 五時です。", "reading": "ええ、まいあさ ごじです。", "romaji": "ee, maiasa goji desu.", "ta": "ஆமாம், தினமும் காலை ஐந்து மணிதான்.", "en": "Yes, five every morning." },
-        { "ja": "田中さんは 土曜日も 働きますね。", "reading": "たなかさんは どようびも はたらきますね。", "romaji": "tanaka-san wa doyoubi mo hatarakimasu ne.", "ta": "தனாகா-சான் சனிக்கிழமையும் வேலை செய்கிறார், இல்லையா?", "en": "Mr Tanaka works on Saturdays too, right?" },
-        { "ja": "ええ、そうですね。", "reading": "ええ、そうですね。", "romaji": "ee, sou desu ne.", "ta": "ஆமாம், அப்படித்தான்.", "en": "Yes, that's right." },
-        { "ja": "銀行は 三時までですね。", "reading": "ぎんこうは さんじまでですね。", "romaji": "ginkou wa sanji made desu ne.", "ta": "வங்கி மூன்று மணி வரைதானே.", "en": "The bank is open until three, right?" }
+        {
+          "ja": "今日は 月曜日ですね。",
+          "reading": "きょうは げつようびですね。",
+          "romaji": "kyou wa getsuyoubi desu ne.",
+          "ta": "இன்று திங்கட்கிழமைதானே.",
+          "en": "Today is Monday, isn't it?"
+        },
+        {
+          "ja": "ラジャさんは 毎朝 五時に 起きますね。",
+          "reading": "ラジャさんは まいあさ ごじに おきますね。",
+          "romaji": "raja-san wa maiasa goji ni okimasu ne.",
+          "ta": "ராஜா-சான், நீங்கள் தினமும் காலை ஐந்து மணிக்கு எழுந்திருக்கிறீர்கள், இல்லையா?",
+          "en": "Raja, you get up at five every morning, right?"
+        },
+        {
+          "ja": "ええ、毎朝 五時です。",
+          "reading": "ええ、まいあさ ごじです。",
+          "romaji": "ee, maiasa goji desu.",
+          "ta": "ஆமாம், தினமும் காலை ஐந்து மணிதான்.",
+          "en": "Yes, five every morning."
+        },
+        {
+          "ja": "田中さんは 土曜日も 働きますね。",
+          "reading": "たなかさんは どようびも はたらきますね。",
+          "romaji": "tanaka-san wa doyoubi mo hatarakimasu ne.",
+          "ta": "தனாகா-சான் சனிக்கிழமையும் வேலை செய்கிறார், இல்லையா?",
+          "en": "Mr Tanaka works on Saturdays too, right?"
+        },
+        {
+          "ja": "ええ、そうですね。",
+          "reading": "ええ、そうですね。",
+          "romaji": "ee, sou desu ne.",
+          "ta": "ஆமாம், அப்படித்தான்.",
+          "en": "Yes, that's right."
+        },
+        {
+          "ja": "銀行は 三時までですね。",
+          "reading": "ぎんこうは さんじまでですね。",
+          "romaji": "ginkou wa sanji made desu ne.",
+          "ta": "வங்கி மூன்று மணி வரைதானே.",
+          "en": "The bank is open until three, right?"
+        }
       ],
-      "pitfalls_ta": "முதல் முறையாகக் கேட்கும் தகவலுக்கு ね அல்ல, か போடுங்கள். ね-ஐ அளவுக்கு மீறிப் பயன்படுத்தினால் பேச்சு சற்று அழுத்தமாகத் தோன்றும்."
+      "pitfalls_ta": "முதல் முறையாகக் கேட்கும் தகவலுக்கு ね அல்ல, か போடுங்கள். ね-ஐ அளவுக்கு மீறிப் பயன்படுத்தினால் பேச்சு சற்று அழுத்தமாகத் தோன்றும்.",
+      "pitfalls_en": "For information you are asking about for the first time, use か, not ね. Overusing ね makes your speech sound a bit pushy."
     },
     {
       "id": "g04-8",
       "pattern": "〜曜日 / 毎日 / 毎朝 / 毎晩",
-      "name": { "en": "Days of the week; every day / morning / night", "ta": "வாரநாட்கள்; தினமும் / தினமும் காலை / தினமும் இரவு" },
+      "name": {
+        "en": "Days of the week; every day / morning / night",
+        "ta": "வாரநாட்கள்; தினமும் / தினமும் காலை / தினமும் இரவு"
+      },
       "explanation_ta": "வாரநாட்கள் அனைத்தும் 〜曜日 (ようび) என்று முடியும்: 月曜日 (திங்கள், சந்திரன்), 火曜日 (செவ்வாய், நெருப்பு), 水曜日 (புதன், நீர்), 木曜日 (வியாழன், மரம்), 金曜日 (வெள்ளி, உலோகம்), 土曜日 (சனி, மண்), 日曜日 (ஞாயிறு, சூரியன்). தமிழில் திங்கள் = சந்திரன், ஞாயிறு = சூரியன், செவ்வாய் = அங்காரகன் என்று கோள்களின் பெயரில் கிழமைகள் வருவது போலவே ஜப்பானியிலும் கோள்கள்தான் — வெள்ளி = Venus = 金星 என்று பொருத்தமும் அப்படியே! 'என்ன கிழமை?' = 何曜日 (なんようび). 毎 (まい) = 'ஒவ்வொரு': 毎日 (தினமும்), 毎朝 (தினமும் காலை), 毎晩 (தினமும் இரவு) — தமிழின் 'தின-' போன்ற முன்னொட்டு. இவற்றுக்கு に வராது.",
+      "explanation_en": "All the days of the week end in 〜曜日 (ようび): 月曜日 (திங்கள், Monday; moon), 火曜日 (செவ்வாய், Tuesday; fire), 水曜日 (புதன், Wednesday; water), 木曜日 (வியாழன், Thursday; tree), 金曜日 (வெள்ளி, Friday; metal), 土曜日 (சனி, Saturday; earth), 日曜日 (ஞாயிறு, Sunday; sun). Just as Tamil days are named after heavenly bodies (திங்கள் = moon, ஞாயிறு = sun, செவ்வாய் = Mars), Japanese days are named after planets too. Even the match \"வெள்ளி\" (Friday) = Venus = 金星 is the same! \"What day?\" = 何曜日 (なんようび). 毎 (まい) = \"every\": 毎日 (every day, தினமும்), 毎朝 (every morning), 毎晩 (every night). It is a prefix like the Tamil \"தின-\" (daily). These words don't take に.",
       "tamil_parallel": "தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன். = 毎朝 六時に 起きます。 — 毎 ≈ 'தின- / ஒவ்வொரு'",
+      "tamil_parallel_en": "தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன் \"I get up at six every morning\" = 毎朝 六時に 起きます。 Here 毎 is roughly the Tamil \"தின- / ஒவ்வொரு\" (daily / every). Like Tamil weekday names, the Japanese ones come from the moon, sun and planets.",
       "formation": "(月・火・水・木・金・土・日) + 曜日 ; 毎 + 日 / 朝 / 晩",
+      "formation_en": "(月・火・水・木・金・土・日) + 曜日 ; 毎 + 日 / 朝 / 晩",
       "examples": [
-        { "ja": "今日は 何曜日ですか。", "reading": "きょうは なんようびですか。", "romaji": "kyou wa nan'youbi desu ka.", "ta": "இன்று என்ன கிழமை?", "en": "What day is it today?" },
-        { "ja": "木曜日です。", "reading": "もくようびです。", "romaji": "mokuyoubi desu.", "ta": "வியாழக்கிழமை.", "en": "It is Thursday." },
-        { "ja": "明日は 土曜日じゃありません。金曜日です。", "reading": "あしたは どようびじゃありません。きんようびです。", "romaji": "ashita wa doyoubi ja arimasen. kin'youbi desu.", "ta": "நாளை சனிக்கிழமை இல்லை. வெள்ளிக்கிழமை.", "en": "Tomorrow is not Saturday. It is Friday." },
-        { "ja": "毎日 働きますか。", "reading": "まいにち はたらきますか。", "romaji": "mainichi hatarakimasu ka.", "ta": "தினமும் வேலை செய்கிறீர்களா?", "en": "Do you work every day?" },
-        { "ja": "毎晩 十時に 寝ます。", "reading": "まいばん じゅうじに ねます。", "romaji": "maiban juuji ni nemasu.", "ta": "தினமும் இரவு பத்து மணிக்குத் தூங்குகிறேன்.", "en": "I go to bed at ten every night." },
-        { "ja": "毎朝 早く 起きます。", "reading": "まいあさ はやく おきます。", "romaji": "maiasa hayaku okimasu.", "ta": "தினமும் காலை சீக்கிரம் எழுந்திருக்கிறேன்.", "en": "I get up early every morning." }
+        {
+          "ja": "今日は 何曜日ですか。",
+          "reading": "きょうは なんようびですか。",
+          "romaji": "kyou wa nan'youbi desu ka.",
+          "ta": "இன்று என்ன கிழமை?",
+          "en": "What day is it today?"
+        },
+        {
+          "ja": "木曜日です。",
+          "reading": "もくようびです。",
+          "romaji": "mokuyoubi desu.",
+          "ta": "வியாழக்கிழமை.",
+          "en": "It is Thursday."
+        },
+        {
+          "ja": "明日は 土曜日じゃありません。金曜日です。",
+          "reading": "あしたは どようびじゃありません。きんようびです。",
+          "romaji": "ashita wa doyoubi ja arimasen. kin'youbi desu.",
+          "ta": "நாளை சனிக்கிழமை இல்லை. வெள்ளிக்கிழமை.",
+          "en": "Tomorrow is not Saturday. It is Friday."
+        },
+        {
+          "ja": "毎日 働きますか。",
+          "reading": "まいにち はたらきますか。",
+          "romaji": "mainichi hatarakimasu ka.",
+          "ta": "தினமும் வேலை செய்கிறீர்களா?",
+          "en": "Do you work every day?"
+        },
+        {
+          "ja": "毎晩 十時に 寝ます。",
+          "reading": "まいばん じゅうじに ねます。",
+          "romaji": "maiban juuji ni nemasu.",
+          "ta": "தினமும் இரவு பத்து மணிக்குத் தூங்குகிறேன்.",
+          "en": "I go to bed at ten every night."
+        },
+        {
+          "ja": "毎朝 早く 起きます。",
+          "reading": "まいあさ はやく おきます。",
+          "romaji": "maiasa hayaku okimasu.",
+          "ta": "தினமும் காலை சீக்கிரம் எழுந்திருக்கிறேன்.",
+          "en": "I get up early every morning."
+        }
       ],
-      "pitfalls_ta": "火曜日 (かようび) — か, が அல்ல; 金曜日 (きんようび) — ぎん அல்ல (ぎん = 銀, வங்கியின் 銀行). 毎日に, 毎晩に என்று に சேர்க்க வேண்டாம்."
+      "pitfalls_ta": "火曜日 (かようび) — か, が அல்ல; 金曜日 (きんようび) — ぎん அல்ல (ぎん = 銀, வங்கியின் 銀行). 毎日に, 毎晩に என்று に சேர்க்க வேண்டாம்.",
+      "pitfalls_en": "火曜日 is かようび (か, not が); 金曜日 is きんようび (not ぎん; ぎん = 銀, as in 銀行, bank). Don't add に, as in 毎日に or 毎晩に."
     }
   ],
   "vocab_ids": [
-    "n5-v-012", "n5-v-016", "n5-v-058", "n5-v-066", "n5-v-105", "n5-v-177", "n5-v-200", "n5-v-204", "n5-v-215", "n5-v-239",
-    "n5-v-253", "n5-v-256", "n5-v-291", "n5-v-328", "n5-v-470", "n5-v-501", "n5-v-510", "n5-v-535", "n5-v-543", "n5-v-549",
-    "n5-v-550", "n5-v-573", "n5-v-590", "n5-v-615", "n5-v-618", "n5-v-620", "n5-v-659", "n5-v-676", "n5-v-691"
+    "n5-v-012",
+    "n5-v-016",
+    "n5-v-058",
+    "n5-v-066",
+    "n5-v-105",
+    "n5-v-177",
+    "n5-v-200",
+    "n5-v-204",
+    "n5-v-215",
+    "n5-v-239",
+    "n5-v-253",
+    "n5-v-256",
+    "n5-v-291",
+    "n5-v-328",
+    "n5-v-470",
+    "n5-v-501",
+    "n5-v-510",
+    "n5-v-535",
+    "n5-v-543",
+    "n5-v-549",
+    "n5-v-550",
+    "n5-v-573",
+    "n5-v-590",
+    "n5-v-615",
+    "n5-v-618",
+    "n5-v-620",
+    "n5-v-659",
+    "n5-v-676",
+    "n5-v-691"
   ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L04-q01", "type": "kanji_reading", "sentence": "銀行は ＿午後＿ 三時までです。", "target": "午後", "options": ["ごこ", "ごうご", "ごご", "ごごう"], "answer": 2, "explanation_ta": "午後 = ごご (பிற்பகல்). இரண்டும் குறுகிய ご; ごうご என்று நீட்டுவதும் ごこ என்று ஒலி மாற்றுவதும் தவறு." },
-      { "id": "L04-q02", "type": "kanji_reading", "sentence": "＿毎朝＿ 六時に 起きます。", "target": "毎朝", "options": ["まいちょう", "まいあさ", "めいあさ", "まいさ"], "answer": 1, "explanation_ta": "毎朝 = まいあさ. 朝 தனியாக あさ; ちょう என்பது வேறு சொற்களில் வரும் படிப்பு, இங்கே பொருந்தாது." },
-      { "id": "L04-q03", "type": "kanji_reading", "sentence": "＿昨日＿は 働きませんでした。", "target": "昨日", "options": ["きの", "さくひ", "きにょう", "きのう"], "answer": 3, "explanation_ta": "昨日 = きのう (நேற்று) — தனிப்பட்ட சிறப்புப் படிப்பு. கடைசி நீண்ட ஒலி う-வை விடக் கூடாது." },
-      { "id": "L04-q04", "type": "orthography", "sentence": "昨日の ＿よる＿ 十二時に 寝ました。", "target": "よる", "options": ["夜", "液", "役", "仪"], "answer": 0, "explanation_ta": "よる = 夜 (இரவு). 液 என்பதில் இடப்பக்கம் 氵 (நீர்) கூடுதல்; 役 வேறு எழுத்து." },
-      { "id": "L04-q05", "type": "orthography", "sentence": "＿げつようび＿から 金曜日まで 働きます。", "target": "げつようび", "options": ["月躍日", "月曜目", "月曜日", "月耀日"], "answer": 2, "explanation_ta": "げつようび = 月曜日. 曜-ஐப் போலத் தோன்றும் 躍, 耀 வேறு எழுத்துகள்; 日-க்குப் பதிலாக 目 (கண்) என்பதும் பொறி." },
-      { "id": "L04-q06", "type": "vocab_context", "sentence": "（　　）は 何時ですか。三時十分です。", "options": ["きのう", "いま", "まいばん", "あした"], "answer": 1, "explanation_ta": "'இப்போது மணி என்ன?' = 今 何時ですか. பதில் です என்ற நிகழ்காலம்; きのう (நேற்று) பொருந்தாது." },
-      { "id": "L04-q07", "type": "vocab_context", "sentence": "毎晩 十一時に （　　）。", "options": ["おきます", "はたらきます", "ねます", "あさです"], "answer": 2, "explanation_ta": "இரவு பதினொரு மணிக்கு இயல்பாகச் செய்வது தூங்குவது (寝ます). 起きます (எழுந்திருத்தல்) காலைக்கான செயல்." },
-      { "id": "L04-q08", "type": "vocab_context", "sentence": "今日は 土曜日です。（　　）は 日曜日です。", "options": ["きのう", "けさ", "まいにち", "あした"], "answer": 3, "explanation_ta": "இன்று சனி என்றால் ஞாயிறு 'நாளை' (明日). 昨日 (நேற்று) வெள்ளிக்கிழமை ஆகும்." },
-      { "id": "L04-q09", "type": "vocab_context", "sentence": "今 七時（　　）です。七時三十分です。", "options": ["はん", "ふん", "じ", "まで"], "answer": 0, "explanation_ta": "ஏழு மணி முப்பது நிமிடம் = 七時半 (ஏழரை). ふん நிமிடம், அதற்கு முன் எண் வேண்டும்." },
-      { "id": "L04-q10", "type": "vocab_context", "sentence": "銀行は （　　） 九時から 午後 三時までです。", "options": ["ごご", "ごぜん", "よる", "ばん"], "answer": 1, "explanation_ta": "காலை ஒன்பது மணி = 午前 九時 (a.m.). 午後 / 夜 என்றால் இரவு ஒன்பது — வங்கி அப்போது திறக்காது." },
-      { "id": "L04-q11", "type": "vocab_context", "sentence": "田中さんは 月曜日から 日曜日まで、（　　） 働きます。", "options": ["まいにち", "きょう", "ゆうがた", "いちにち"], "answer": 0, "explanation_ta": "திங்கள் முதல் ஞாயிறு வரை = ஒவ்வொரு நாளும் (毎日). 一日 என்றால் 'ஒரு நாள் முழுவதும்' — வாரம் முழுவதும் என்ற பொருள் வராது." },
-      { "id": "L04-q12", "type": "paraphrase", "sentence": "昨日は 働きませんでした。", "options": ["昨日は 働きました。", "明日は 働きません。", "今日は 働きませんでした。", "昨日は 一日 働きませんでした。"], "answer": 3, "explanation_ta": "'நேற்று வேலை செய்யவில்லை' = 'நேற்று நாள் முழுவதும் வேலை செய்யவில்லை' என்பதே நெருக்கமான பொருள். 明日 / 今日 என்றால் நாள் மாறும்; 働きました என்பது எதிர்ப்பொருள்." },
-      { "id": "L04-q13", "type": "paraphrase", "sentence": "郵便局は 午前 九時から 午後 五時までです。", "options": ["郵便局は 午前 五時からです。", "郵便局は 九時から 十七時までです。", "郵便局は 午後 九時までです。", "郵便局は 五時から 九時までです。"], "answer": 1, "explanation_ta": "ஜப்பானில் 24 மணி நேரக் கணக்கும் வழக்கம்: 午後 五時 = 十七時. மற்ற தேர்வுகள் 午前 / 午後 அல்லது から / まで-ஐ இடம் மாற்றுகின்றன." },
-      { "id": "L04-q14", "type": "paraphrase", "sentence": "毎朝 五時に 起きます。", "options": ["毎晩 五時に 寝ます。", "毎日 朝 五時に 起きます。", "今日 五時に 起きました。", "毎朝 五時に 寝ます。"], "answer": 1, "explanation_ta": "毎朝 = 'தினமும் காலை' = 毎日 朝. 今日 起きました என்றால் 'இன்று மட்டும்' — ஒருமுறை நிகழ்வு." },
-      { "id": "L04-q15", "type": "grammar_form", "sentence": "毎朝 六時（　　） 起きます。", "options": ["に", "と", "から", "も"], "answer": 0, "explanation_ta": "எண் உள்ள குறிப்பிட்ட நேரம் → に (தமிழ் '-க்கு'). から என்றால் 'ஆறு மணியிலிருந்து எழுந்திருக்கிறேன்' — அர்த்தமற்றது." },
-      { "id": "L04-q16", "type": "grammar_form", "sentence": "九時から 五時（　　） 働きます。", "options": ["に", "まで", "と", "から"], "answer": 1, "explanation_ta": "から (இலிருந்து) உடன் ஜோடியாக まで (வரை). に போட்டால் 'ஐந்து மணிக்கு' என்று ஒரே நேரப் புள்ளி ஆகிவிடும்." },
-      { "id": "L04-q17", "type": "grammar_form", "sentence": "土曜日（　　） 日曜日は 働きません。", "options": ["に", "の", "と", "か"], "answer": 2, "explanation_ta": "இரண்டு பெயர்ச்சொற்களை 'மற்றும்' என்று இணைக்க と. の என்றால் 'சனிக்கிழமையின் ஞாயிறு' — அர்த்தமற்றது." },
-      { "id": "L04-q18", "type": "grammar_form", "sentence": "昨日 十二時に （　　）。", "options": ["寝ます", "寝ません", "寝ましたか", "寝ました"], "answer": 3, "explanation_ta": "昨日 (நேற்று) என்பதால் இறந்தகாலம் 寝ました. 寝ます நிகழ்/எதிர்காலம்; 寝ましたか கேள்வி வடிவம், இங்கே கேள்வி இல்லை." },
-      { "id": "L04-q19", "type": "grammar_form", "sentence": "「昨日 働きましたか。」「いいえ、（　　）。」", "options": ["働きました", "働きませんでした", "働きません", "働きます"], "answer": 1, "explanation_ta": "いいえ + இறந்தகால மறுப்பு = 働きませんでした. 働きません நிகழ்கால மறுப்பு; நேற்றைக்குப் பொருந்தாது." },
-      { "id": "L04-q20", "type": "grammar_form", "sentence": "明日（　　） 八時に 起きます。", "options": ["に", "と", "まで", "は"], "answer": 3, "explanation_ta": "明日 போன்ற தொடர்புக் காலச் சொல்லுக்கு に வராது; தலைப்பாக は போடலாம் (அல்லது ஒன்றும் வேண்டாம்). 「明日に」 பொதுவான தவறு." },
-      { "id": "L04-q21", "type": "grammar_form", "sentence": "「今日は 金曜日です（　　）。」「ええ、そうですね。」", "options": ["か", "ね", "と", "も"], "answer": 1, "explanation_ta": "பதில் 「そうですね」 என்ற ஒப்புதல்; ஆகவே கேட்பவர் உறுதிப்படுத்த ね ('இல்லையா?') பயன்படுத்தினார். か என்றால் பதில் はい / いいえ என்று தொடங்கும்." },
-      { "id": "L04-q22", "type": "sentence_order", "before": "私は", "chunks": ["毎朝", "七時", "に", "起きます"], "star": 1, "after": "。", "explanation_ta": "私は 毎朝 七時に 起きます。 — தொடர்புக் காலச் சொல் → எண் நேரம் + に → வினை. ★ இடத்தில் 七時 வரும்." },
-      { "id": "L04-q23", "type": "sentence_order", "before": "銀行は", "chunks": ["九時", "から", "三時", "までです"], "star": 2, "after": "。", "explanation_ta": "銀行は 九時から 三時までです。 — から-க்கு முன் தொடக்க நேரம், まで-க்கு முன் முடிவு நேரம். ★ இடத்தில் 三時 வரும்." },
-      { "id": "L04-q24", "type": "sentence_order", "before": "", "chunks": ["昨日の", "晩", "何時に", "寝ましたか"], "star": 2, "after": "。", "explanation_ta": "昨日の 晩 何時に 寝ましたか。 — 'நேற்றைய இரவு' → 'எத்தனை மணிக்கு' → வினை. ★ இடத்தில் 何時に வரும்." },
-      { "id": "L04-q25", "type": "passage_cloze", "passage": "私は 毎朝 六時に 起きます。月曜日［1］ 金曜日まで 働きます。土曜日と 日曜日は 働きません。日曜日は 十時に 起きます。昨日も 十時に 起きました。夜は 十一時に ［2］。今日は 月曜日です。今 ［3］ 七時です。", "blanks": [
-        { "options": ["まで", "から", "に", "と"], "answer": 1 },
-        { "options": ["寝ます", "寝ません", "寝ました", "起きます"], "answer": 2 },
-        { "options": ["ごぜん", "ごご", "ばん", "よる"], "answer": 0 }
-      ], "explanation_ta": "［1］ まで-உடன் ஜோடி から (திங்கள் முதல்). ［2］ நேற்றைய இரவைப் பற்றியது, இறந்தகாலம் 寝ました. ［3］ காலையில் எழுந்து வேலைக்குச் செல்லும் நேரம் — காலை ஏழு மணி = 午前 七時." }
+      {
+        "id": "L04-q01",
+        "type": "kanji_reading",
+        "sentence": "銀行は ＿午後＿ 三時までです。",
+        "target": "午後",
+        "options": [
+          "ごこ",
+          "ごうご",
+          "ごご",
+          "ごごう"
+        ],
+        "answer": 2,
+        "explanation_ta": "午後 = ごご (பிற்பகல்). இரண்டும் குறுகிய ご; ごうご என்று நீட்டுவதும் ごこ என்று ஒலி மாற்றுவதும் தவறு.",
+        "explanation_en": "午後 = ごご (பிற்பகல், afternoon / p.m.). Both are short ご; stretching it to ごうご or changing the sound to ごこ is wrong."
+      },
+      {
+        "id": "L04-q02",
+        "type": "kanji_reading",
+        "sentence": "＿毎朝＿ 六時に 起きます。",
+        "target": "毎朝",
+        "options": [
+          "まいちょう",
+          "まいあさ",
+          "めいあさ",
+          "まいさ"
+        ],
+        "answer": 1,
+        "explanation_ta": "毎朝 = まいあさ. 朝 தனியாக あさ; ちょう என்பது வேறு சொற்களில் வரும் படிப்பு, இங்கே பொருந்தாது.",
+        "explanation_en": "毎朝 = まいあさ (தினமும் காலை, every morning). 朝 on its own is あさ; ちょう is a reading used in other words and doesn't fit here."
+      },
+      {
+        "id": "L04-q03",
+        "type": "kanji_reading",
+        "sentence": "＿昨日＿は 働きませんでした。",
+        "target": "昨日",
+        "options": [
+          "きの",
+          "さくひ",
+          "きにょう",
+          "きのう"
+        ],
+        "answer": 3,
+        "explanation_ta": "昨日 = きのう (நேற்று) — தனிப்பட்ட சிறப்புப் படிப்பு. கடைசி நீண்ட ஒலி う-வை விடக் கூடாது.",
+        "explanation_en": "昨日 = きのう (நேற்று, yesterday), a special one-off reading. Don't drop the long う sound at the end."
+      },
+      {
+        "id": "L04-q04",
+        "type": "orthography",
+        "sentence": "昨日の ＿よる＿ 十二時に 寝ました。",
+        "target": "よる",
+        "options": [
+          "夜",
+          "液",
+          "役",
+          "仪"
+        ],
+        "answer": 0,
+        "explanation_ta": "よる = 夜 (இரவு). 液 என்பதில் இடப்பக்கம் 氵 (நீர்) கூடுதல்; 役 வேறு எழுத்து.",
+        "explanation_en": "よる = 夜 (இரவு, night). 液 has an extra 氵 (water) on the left; 役 is a different character."
+      },
+      {
+        "id": "L04-q05",
+        "type": "orthography",
+        "sentence": "＿げつようび＿から 金曜日まで 働きます。",
+        "target": "げつようび",
+        "options": [
+          "月躍日",
+          "月曜目",
+          "月曜日",
+          "月耀日"
+        ],
+        "answer": 2,
+        "explanation_ta": "げつようび = 月曜日. 曜-ஐப் போலத் தோன்றும் 躍, 耀 வேறு எழுத்துகள்; 日-க்குப் பதிலாக 目 (கண்) என்பதும் பொறி.",
+        "explanation_en": "げつようび = 月曜日 (திங்கள், Monday). 躍 and 耀 look like 曜 but are different characters; 目 (கண், eye) in place of 日 is also a trap."
+      },
+      {
+        "id": "L04-q06",
+        "type": "vocab_context",
+        "sentence": "（　　）は 何時ですか。三時十分です。",
+        "options": [
+          "きのう",
+          "いま",
+          "まいばん",
+          "あした"
+        ],
+        "answer": 1,
+        "explanation_ta": "'இப்போது மணி என்ன?' = 今 何時ですか. பதில் です என்ற நிகழ்காலம்; きのう (நேற்று) பொருந்தாது.",
+        "explanation_en": "\"What time is it now?\" (இப்போது மணி என்ன?) = 今 何時ですか. The answer uses です in the present tense, so きのう (நேற்று, yesterday) doesn't fit."
+      },
+      {
+        "id": "L04-q07",
+        "type": "vocab_context",
+        "sentence": "毎晩 十一時に （　　）。",
+        "options": [
+          "おきます",
+          "はたらきます",
+          "ねます",
+          "あさです"
+        ],
+        "answer": 2,
+        "explanation_ta": "இரவு பதினொரு மணிக்கு இயல்பாகச் செய்வது தூங்குவது (寝ます). 起きます (எழுந்திருத்தல்) காலைக்கான செயல்.",
+        "explanation_en": "What you naturally do at eleven at night is go to bed (寝ます, தூங்குகிறேன்). 起きます (getting up) is a morning action."
+      },
+      {
+        "id": "L04-q08",
+        "type": "vocab_context",
+        "sentence": "今日は 土曜日です。（　　）は 日曜日です。",
+        "options": [
+          "きのう",
+          "けさ",
+          "まいにち",
+          "あした"
+        ],
+        "answer": 3,
+        "explanation_ta": "இன்று சனி என்றால் ஞாயிறு 'நாளை' (明日). 昨日 (நேற்று) வெள்ளிக்கிழமை ஆகும்.",
+        "explanation_en": "If today is Saturday, Sunday is \"tomorrow\" (明日, நாளை). 昨日 (நேற்று, yesterday) would be Friday."
+      },
+      {
+        "id": "L04-q09",
+        "type": "vocab_context",
+        "sentence": "今 七時（　　）です。七時三十分です。",
+        "options": [
+          "はん",
+          "ふん",
+          "じ",
+          "まで"
+        ],
+        "answer": 0,
+        "explanation_ta": "ஏழு மணி முப்பது நிமிடம் = 七時半 (ஏழரை). ふん நிமிடம், அதற்கு முன் எண் வேண்டும்.",
+        "explanation_en": "Seven hours and thirty minutes = 七時半 (ஏழரை, half past seven). ふん means minutes and needs a number before it."
+      },
+      {
+        "id": "L04-q10",
+        "type": "vocab_context",
+        "sentence": "銀行は （　　） 九時から 午後 三時までです。",
+        "options": [
+          "ごご",
+          "ごぜん",
+          "よる",
+          "ばん"
+        ],
+        "answer": 1,
+        "explanation_ta": "காலை ஒன்பது மணி = 午前 九時 (a.m.). 午後 / 夜 என்றால் இரவு ஒன்பது — வங்கி அப்போது திறக்காது.",
+        "explanation_en": "Nine in the morning = 午前 九時 (a.m., காலை). 午後 / 夜 would mean nine at night, and the bank isn't open then."
+      },
+      {
+        "id": "L04-q11",
+        "type": "vocab_context",
+        "sentence": "田中さんは 月曜日から 日曜日まで、（　　） 働きます。",
+        "options": [
+          "まいにち",
+          "きょう",
+          "ゆうがた",
+          "いちにち"
+        ],
+        "answer": 0,
+        "explanation_ta": "திங்கள் முதல் ஞாயிறு வரை = ஒவ்வொரு நாளும் (毎日). 一日 என்றால் 'ஒரு நாள் முழுவதும்' — வாரம் முழுவதும் என்ற பொருள் வராது.",
+        "explanation_en": "Monday to Sunday = every day (毎日, தினமும்). 一日 means \"a whole day\" and doesn't give the meaning \"the whole week\"."
+      },
+      {
+        "id": "L04-q12",
+        "type": "paraphrase",
+        "sentence": "昨日は 働きませんでした。",
+        "options": [
+          "昨日は 働きました。",
+          "明日は 働きません。",
+          "今日は 働きませんでした。",
+          "昨日は 一日 働きませんでした。"
+        ],
+        "answer": 3,
+        "explanation_ta": "'நேற்று வேலை செய்யவில்லை' = 'நேற்று நாள் முழுவதும் வேலை செய்யவில்லை' என்பதே நெருக்கமான பொருள். 明日 / 今日 என்றால் நாள் மாறும்; 働きました என்பது எதிர்ப்பொருள்.",
+        "explanation_en": "\"I didn't work yesterday\" is closest to \"I didn't work all day yesterday\" (நேற்று நாள் முழுவதும் வேலை செய்யவில்லை). 明日 / 今日 change the day; 働きました is the opposite."
+      },
+      {
+        "id": "L04-q13",
+        "type": "paraphrase",
+        "sentence": "郵便局は 午前 九時から 午後 五時までです。",
+        "options": [
+          "郵便局は 午前 五時からです。",
+          "郵便局は 九時から 十七時までです。",
+          "郵便局は 午後 九時までです。",
+          "郵便局は 五時から 九時までです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஜப்பானில் 24 மணி நேரக் கணக்கும் வழக்கம்: 午後 五時 = 十七時. மற்ற தேர்வுகள் 午前 / 午後 அல்லது から / まで-ஐ இடம் மாற்றுகின்றன.",
+        "explanation_en": "The 24-hour clock is also common in Japan: 午後 五時 = 十七時 (5 p.m. = 17:00). The other options swap 午前 / 午後 or から / まで."
+      },
+      {
+        "id": "L04-q14",
+        "type": "paraphrase",
+        "sentence": "毎朝 五時に 起きます。",
+        "options": [
+          "毎晩 五時に 寝ます。",
+          "毎日 朝 五時に 起きます。",
+          "今日 五時に 起きました。",
+          "毎朝 五時に 寝ます。"
+        ],
+        "answer": 1,
+        "explanation_ta": "毎朝 = 'தினமும் காலை' = 毎日 朝. 今日 起きました என்றால் 'இன்று மட்டும்' — ஒருமுறை நிகழ்வு.",
+        "explanation_en": "毎朝 = \"every morning\" (தினமும் காலை) = 毎日 朝. 今日 起きました means \"today only\", a one-time event."
+      },
+      {
+        "id": "L04-q15",
+        "type": "grammar_form",
+        "sentence": "毎朝 六時（　　） 起きます。",
+        "options": [
+          "に",
+          "と",
+          "から",
+          "も"
+        ],
+        "answer": 0,
+        "explanation_ta": "எண் உள்ள குறிப்பிட்ட நேரம் → に (தமிழ் '-க்கு'). から என்றால் 'ஆறு மணியிலிருந்து எழுந்திருக்கிறேன்' — அர்த்தமற்றது.",
+        "explanation_en": "A specific time with a number → に (Tamil \"-க்கு\", at). から would mean \"I get up from six o'clock\", which makes no sense."
+      },
+      {
+        "id": "L04-q16",
+        "type": "grammar_form",
+        "sentence": "九時から 五時（　　） 働きます。",
+        "options": [
+          "に",
+          "まで",
+          "と",
+          "から"
+        ],
+        "answer": 1,
+        "explanation_ta": "から (இலிருந்து) உடன் ஜோடியாக まで (வரை). に போட்டால் 'ஐந்து மணிக்கு' என்று ஒரே நேரப் புள்ளி ஆகிவிடும்.",
+        "explanation_en": "まで (வரை, until) pairs with から (from). に would make it a single point in time, \"at five o'clock\"."
+      },
+      {
+        "id": "L04-q17",
+        "type": "grammar_form",
+        "sentence": "土曜日（　　） 日曜日は 働きません。",
+        "options": [
+          "に",
+          "の",
+          "と",
+          "か"
+        ],
+        "answer": 2,
+        "explanation_ta": "இரண்டு பெயர்ச்சொற்களை 'மற்றும்' என்று இணைக்க と. の என்றால் 'சனிக்கிழமையின் ஞாயிறு' — அர்த்தமற்றது.",
+        "explanation_en": "To join two nouns with \"and\", use と. の would mean \"Saturday's Sunday\", which makes no sense."
+      },
+      {
+        "id": "L04-q18",
+        "type": "grammar_form",
+        "sentence": "昨日 十二時に （　　）。",
+        "options": [
+          "寝ます",
+          "寝ません",
+          "寝ましたか",
+          "寝ました"
+        ],
+        "answer": 3,
+        "explanation_ta": "昨日 (நேற்று) என்பதால் இறந்தகாலம் 寝ました. 寝ます நிகழ்/எதிர்காலம்; 寝ましたか கேள்வி வடிவம், இங்கே கேள்வி இல்லை.",
+        "explanation_en": "Because of 昨日 (நேற்று, yesterday), the past tense 寝ました (தூங்கினேன், I slept) is needed. 寝ます is present/future; 寝ましたか is a question form, and this is not a question."
+      },
+      {
+        "id": "L04-q19",
+        "type": "grammar_form",
+        "sentence": "「昨日 働きましたか。」「いいえ、（　　）。」",
+        "options": [
+          "働きました",
+          "働きませんでした",
+          "働きません",
+          "働きます"
+        ],
+        "answer": 1,
+        "explanation_ta": "いいえ + இறந்தகால மறுப்பு = 働きませんでした. 働きません நிகழ்கால மறுப்பு; நேற்றைக்குப் பொருந்தாது.",
+        "explanation_en": "いいえ + past negative = 働きませんでした (வேலை செய்யவில்லை, I didn't work). 働きません is the present negative and doesn't fit \"yesterday\"."
+      },
+      {
+        "id": "L04-q20",
+        "type": "grammar_form",
+        "sentence": "明日（　　） 八時に 起きます。",
+        "options": [
+          "に",
+          "と",
+          "まで",
+          "は"
+        ],
+        "answer": 3,
+        "explanation_ta": "明日 போன்ற தொடர்புக் காலச் சொல்லுக்கு に வராது; தலைப்பாக は போடலாம் (அல்லது ஒன்றும் வேண்டாம்). 「明日に」 பொதுவான தவறு.",
+        "explanation_en": "A relative time word like 明日 (நாளை, tomorrow) doesn't take に; you can mark it as the topic with は (or use nothing). 「明日に」 is a common mistake."
+      },
+      {
+        "id": "L04-q21",
+        "type": "grammar_form",
+        "sentence": "「今日は 金曜日です（　　）。」「ええ、そうですね。」",
+        "options": [
+          "か",
+          "ね",
+          "と",
+          "も"
+        ],
+        "answer": 1,
+        "explanation_ta": "பதில் 「そうですね」 என்ற ஒப்புதல்; ஆகவே கேட்பவர் உறுதிப்படுத்த ね ('இல்லையா?') பயன்படுத்தினார். か என்றால் பதில் はい / いいえ என்று தொடங்கும்.",
+        "explanation_en": "The reply is the agreement 「そうですね」, so the speaker used ね (\"isn't it?\", இல்லையா) to confirm. With か the reply would start with はい / いいえ."
+      },
+      {
+        "id": "L04-q22",
+        "type": "sentence_order",
+        "before": "私は",
+        "chunks": [
+          "毎朝",
+          "七時",
+          "に",
+          "起きます"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "私は 毎朝 七時に 起きます。 — தொடர்புக் காலச் சொல் → எண் நேரம் + に → வினை. ★ இடத்தில் 七時 வரும்.",
+        "explanation_en": "私は 毎朝 七時に 起きます。 — relative time word → time with number + に → verb. 七時 goes in the ★ slot."
+      },
+      {
+        "id": "L04-q23",
+        "type": "sentence_order",
+        "before": "銀行は",
+        "chunks": [
+          "九時",
+          "から",
+          "三時",
+          "までです"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "銀行は 九時から 三時までです。 — から-க்கு முன் தொடக்க நேரம், まで-க்கு முன் முடிவு நேரம். ★ இடத்தில் 三時 வரும்.",
+        "explanation_en": "銀行は 九時から 三時までです。 — the start time goes before から and the end time before まで. 三時 goes in the ★ slot."
+      },
+      {
+        "id": "L04-q24",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "昨日の",
+          "晩",
+          "何時に",
+          "寝ましたか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "昨日の 晩 何時に 寝ましたか。 — 'நேற்றைய இரவு' → 'எத்தனை மணிக்கு' → வினை. ★ இடத்தில் 何時に வரும்.",
+        "explanation_en": "昨日の 晩 何時に 寝ましたか。 — \"last night\" → \"at what time\" → verb. 何時に goes in the ★ slot."
+      },
+      {
+        "id": "L04-q25",
+        "type": "passage_cloze",
+        "passage": "私は 毎朝 六時に 起きます。月曜日［1］ 金曜日まで 働きます。土曜日と 日曜日は 働きません。日曜日は 十時に 起きます。昨日も 十時に 起きました。夜は 十一時に ［2］。今日は 月曜日です。今 ［3］ 七時です。",
+        "blanks": [
+          {
+            "options": [
+              "まで",
+              "から",
+              "に",
+              "と"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "寝ます",
+              "寝ません",
+              "寝ました",
+              "起きます"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "ごぜん",
+              "ごご",
+              "ばん",
+              "よる"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ まで-உடன் ஜோடி から (திங்கள் முதல்). ［2］ நேற்றைய இரவைப் பற்றியது, இறந்தகாலம் 寝ました. ［3］ காலையில் எழுந்து வேலைக்குச் செல்லும் நேரம் — காலை ஏழு மணி = 午前 七時.",
+        "explanation_en": "［1］ から pairs with まで (from Monday, திங்கள் முதல்). ［2］ It is about last night, so the past tense 寝ました (தூங்கினேன், I slept). ［3］ The time to get up and go to work in the morning: seven in the morning = 午前 七時."
+      }
     ]
   }
 }

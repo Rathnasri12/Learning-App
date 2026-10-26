@@ -31,8 +31,7 @@ export default function LessonHub({
       href: `${base}/vocab`,
       icon: <BookA size={26} />,
       title: "Vocabulary",
-      ta: "சொற்கள்",
-      sub: `${vocab.length} words · Japanese / Romaji / தமிழ் / English`,
+      sub: `${vocab.length} words · Japanese, romaji, Tamil and English meanings`,
       value: vocabPct,
       color: "var(--sakura)",
       done: vocabPct >= 1,
@@ -42,8 +41,7 @@ export default function LessonHub({
       href: `${base}/grammar`,
       icon: <ScrollText size={26} />,
       title: "Grammar",
-      ta: "இலக்கணம்",
-      sub: `${lesson?.grammar.length ?? meta.grammar.length} patterns · explained in Tamil`,
+      sub: `${lesson?.grammar.length ?? meta.grammar.length} patterns · with examples and a mini game`,
       value: grammarPct,
       color: "var(--indigo)",
       done: grammarPct >= 1,
@@ -53,7 +51,6 @@ export default function LessonHub({
       href: `${base}/test`,
       icon: <GraduationCap size={26} />,
       title: "Lesson test",
-      ta: "பாடத் தேர்வு",
       sub: lesson
         ? `${lesson.test.items.length} JLPT-style items · pass ${pct(lesson.test.passMark)}`
         : "Coming soon",
@@ -92,12 +89,9 @@ export default function LessonHub({
           <h1 className="text-4xl font-black leading-tight" lang="ja">
             {meta.title.ja}
           </h1>
-          <div className="text-xl font-extrabold text-sakura mt-1" lang="ta">
-            {meta.title.ta}
-          </div>
-          <div className="text-sm text-muted font-bold">{meta.title.en}</div>
-          <p className="mt-4 text-fg-2 leading-relaxed" lang="ta">
-            {lesson?.intro_ta ?? meta.theme.ta}
+          <div className="text-xl font-extrabold text-sakura mt-1">{meta.title.en}</div>
+          <p className="mt-4 text-fg-2 leading-relaxed">
+            {lesson?.intro_en ?? meta.theme.en}
           </p>
           {mounted && lp.passed && (
             <div className="mt-4 inline-flex items-center gap-2 px-3 py-1 rounded-full bg-green-2 text-green font-extrabold text-sm">
@@ -121,12 +115,7 @@ export default function LessonHub({
                 <div style={{ color: s.color }}>{s.done ? <Check size={24} /> : s.icon}</div>
               </ProgressRing>
               <div className="flex-1 min-w-0">
-                <div className="flex items-baseline gap-2">
-                  <div className="font-black text-lg">{s.title}</div>
-                  <div className="text-sm text-fg-2" lang="ta">
-                    {s.ta}
-                  </div>
-                </div>
+                <div className="font-black text-lg">{s.title}</div>
                 <div className="text-sm text-muted">{s.sub}</div>
               </div>
               {s.enabled && <ArrowRight className="text-muted shrink-0" />}

@@ -57,8 +57,8 @@ export default function GrammarSlides({
           <h2 className="text-2xl font-black">
             Grammar done · <span lang="ja">{title.ja}</span>
           </h2>
-          <p className="text-fg-2" lang="ta">
-            {total} இலக்கண அமைப்புகளையும் பார்த்துவிட்டீர்கள். இப்போது பாடத் தேர்வை எழுதலாம்.
+          <p className="text-fg-2">
+            You have gone through all {total} grammar patterns. Now take the lesson test.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link href={`/${level}/lesson/${n}/test`} className="btn btn-primary">
@@ -109,34 +109,31 @@ export default function GrammarSlides({
                   <h1 className="text-3xl sm:text-4xl font-black mt-1 leading-tight" lang="ja">
                     {g.pattern}
                   </h1>
-                  <div className="text-lg font-extrabold text-sakura mt-1" lang="ta">
-                    {g.name.ta}
-                  </div>
-                  <div className="text-sm text-muted font-bold">{g.name.en}</div>
+                  <div className="text-lg font-extrabold text-sakura mt-1">{g.name.en}</div>
                 </div>
               </header>
 
               <section className="card p-5 border-l-8 !border-l-gold">
                 <div className="flex items-center gap-2 text-xs font-extrabold text-gold mb-1">
-                  <Lightbulb size={14} /> தமிழில் இதே போல
+                  <Lightbulb size={14} /> COMPARED WITH TAMIL
                 </div>
-                <p className="text-lg font-bold leading-relaxed" lang="ta">
-                  {g.tamil_parallel}
+                <p className="text-lg font-bold leading-relaxed">
+                  {g.tamil_parallel_en ?? g.tamil_parallel}
                 </p>
               </section>
 
               <section className="card p-5">
-                <div className="text-xs font-extrabold text-muted mb-2">FORMATION · அமைப்பு</div>
+                <div className="text-xs font-extrabold text-muted mb-2">FORMATION</div>
                 <pre className="whitespace-pre-wrap font-sans text-lg font-bold bg-bg-2 rounded-xl p-3" lang="ja">
-                  {g.formation}
+                  {g.formation_en ?? g.formation}
                 </pre>
-                <p className="mt-4 leading-relaxed text-[17px]" lang="ta">
-                  {g.explanation_ta}
+                <p className="mt-4 leading-relaxed text-[17px]">
+                  {g.explanation_en ?? g.explanation_ta}
                 </p>
               </section>
 
               <section className="card p-5">
-                <div className="text-xs font-extrabold text-muted mb-3">EXAMPLES · எடுத்துக்காட்டுகள்</div>
+                <div className="text-xs font-extrabold text-muted mb-3">EXAMPLES</div>
                 <ul className="space-y-4">
                   {g.examples.map((ex, k) => (
                     <ExampleRow key={k} ex={ex} showReading={settings.showReading} showRomaji={settings.showRomaji} />
@@ -144,13 +141,13 @@ export default function GrammarSlides({
                 </ul>
               </section>
 
-              {g.pitfalls_ta && (
+              {(g.pitfalls_en ?? g.pitfalls_ta) && (
                 <section className="card p-5 border-l-8 !border-l-red">
                   <div className="flex items-center gap-2 text-xs font-extrabold text-red mb-1">
-                    <AlertTriangle size={14} /> கவனம்
+                    <AlertTriangle size={14} /> WATCH OUT
                   </div>
-                  <p className="leading-relaxed" lang="ta">
-                    {g.pitfalls_ta}
+                  <p className="leading-relaxed">
+                    {g.pitfalls_en ?? g.pitfalls_ta}
                   </p>
                 </section>
               )}
@@ -160,7 +157,7 @@ export default function GrammarSlides({
                   <ArrowLeft size={16} /> Prev
                 </button>
                 <button className="btn btn-indigo flex-1" onClick={() => setMode("build")}>
-                  <Wand2 size={16} /> Build it · வாக்கியம் அமை
+                  <Wand2 size={16} /> Build the sentence
                 </button>
               </div>
             </article>

@@ -1,0 +1,75 @@
+{
+  "lesson": 1,
+  "intro_en": "In this lesson you will learn to introduce yourself in Japanese: saying your name, country, job and age, saying \"I am a student / I am not a student\", and asking \"Are you a student?\". You will see for yourself that Japanese sentence structure is just like Tamil: the key word comes at the end, and particles come after the noun. The lesson also covers the numbers 0 to 10 and the greetings you will use in class every day.",
+  "grammar": {
+    "g01-1": {
+      "explanation_en": "To say \"X is Y\" in Japanese, you use the pattern 「N1 は N2 です」. は (pronounced \"wa\" here) is the topic particle; it means \"as for X…\". です politely ends the sentence. It is close to the Tamil \"ஆக இருக்கிறார் / இருக்கிறது\" (is), but just as Tamil says \"நான் மாணவன்\" (I [am a] student) without a verb, here です alone is enough. Like Tamil, Japanese puts the key word at the end of the sentence. If it is clear who is speaking, you can drop 私は; this is a Tamil habit too.",
+      "tamil_parallel_en": "நான் மாணவன் (ஆக இருக்கிறேன்) \"I am a student\" = 私は 学生です。 Here は is roughly \"நானோ / நான் என்றால்\" (as for me), and です is roughly \"ஆக இருக்கிறேன்\" (I am).",
+      "formation_en": "N1 + は + N2 + です",
+      "pitfalls_en": "Don't read は as \"ha\"; when it is a particle it is always \"wa\". Add です only once per sentence. If you end with just 「学生」 without です, it is casual speech, not polite."
+    },
+    "g01-2": {
+      "explanation_en": "To deny \"X is Y\" (\"X is not Y\"), you put じゃありません in place of です. It is just like the \"இல்லை\" (not) at the end of Tamil \"நான் மாணவன் இல்லை / அல்ல\" (I am not a student). じゃありません is the spoken form of ではありません; in writing or in very polite speech you can also say ではありません. As in Tamil, the negative comes at the end of the sentence, so you only know whether it is \"yes\" or \"no\" after hearing the whole sentence.",
+      "tamil_parallel_en": "நான் மாணவன் இல்லை \"I am not a student\" = 私は 学生じゃありません。 Here じゃありません is roughly \"இல்லை / அல்ல\" (not).",
+      "formation_en": "N1 + は + N2 + じゃありません (= ではありません)",
+      "pitfalls_en": "In conversation people also say 「じゃないです」, but in the exam write じゃありません / ではありません. The は in ではありません is also read \"wa\"."
+    },
+    "g01-3": {
+      "explanation_en": "Adding か at the end of a sentence turns it into a question; you don't need to change the word order. It is just like adding \"-ஆ\" in Tamil: \"மாணவன்\" (student) → \"மாணவனா?\" (student?). In Japanese you don't need to write a question mark (?); か with 。 is enough. When you answer, start with はい (ஆமாம், yes) or いいえ (இல்லை, no), and then you can answer with a full sentence. ええ is a softer, slightly more conversational form of はい.",
+      "tamil_parallel_en": "நீங்கள் மாணவரா? — ஆமாம், மாணவன். \"Are you a student? — Yes, I am a student.\" = あなたは 学生ですか。— はい、学生です。 Here か works like the Tamil question ending \"-ஆ\".",
+      "formation_en": "Sentence + か → はい、〜です / いいえ、〜じゃありません",
+      "pitfalls_en": "Raise your voice on the か of a question. Don't use あなた too much; with someone you know, it is polite to ask using their name plus さん (田中さんは…)."
+    },
+    "g01-4": {
+      "explanation_en": "も means \"too / also\" (-உம், கூட). When something already said about one person also applies to another, you use も in place of は. In the Tamil \"ராஜா மாணவன். நானும் மாணவன்.\" (Raja is a student. I am a student too.), the \"-உம்\" in \"நானும்\" is exactly も. The same goes for negatives: \"I am not a doctor either\" = 私も 医者じゃありません。 Note: when も is used, は does not appear, just as in Tamil you don't add another ending when you say \"நானும்\" (me too).",
+      "tamil_parallel_en": "ராஜா மாணவன். நானும் மாணவன். \"Raja is a student. I am a student too.\" = ラジャさんは 学生です。私も 学生です。 Here も is the Tamil \"-உம்\" (too).",
+      "formation_en": "N + も + です / じゃありません (in place of は)",
+      "pitfalls_en": "Writing は and も together, as in 「私はも」, is a common mistake; も alone is enough. In negatives Japanese does not switch words the way English switches \"too\" to \"either\"; just like Tamil, you keep using も."
+    },
+    "g01-5": {
+      "explanation_en": "の is a particle that links two nouns. In this lesson you use it to say which organisation a person belongs to: 「IMCの 会社員」 = an IMC company employee (IMC நிறுவன ஊழியர்), 「IITマドラスの 学生」 = an IIT Madras student (IIT மதராஸ் மாணவர்). It is like the Tamil \"-இன் / -உடைய\" (of), or simply placing the words together (\"கல்லூரி மாணவர்\", college student). The organisation name (N1) comes first and the person (N2) comes after; this order matches Tamil exactly (\"TCS ஊழியர்\" TCS employee, \"அப்போலோ மருத்துவர்\" Apollo doctor).",
+      "tamil_parallel_en": "நான் IIT மதராஸ் மாணவன் \"I am an IIT Madras student\" = 私は IITマドラスの 学生です。 Here の is roughly \"-இன் / -ஐச் சேர்ந்த\" (of / belonging to).",
+      "formation_en": "N1 (organisation) + の + N2 (person)",
+      "pitfalls_en": "Don't read の back-to-front like English \"of\"; the Tamil order (organisation → person) is correct. Don't put の twice, as in 「IMCのの会社員」."
+    },
+    "g01-6": {
+      "explanation_en": "Adding さん after another person's name is polite; it is the same for men and women, like Mr. / Mrs. / Ms. It is like adding a respectful word in Tamil, as in \"ராஜா அவர்கள்\" (Raja sir) or \"கவிதா அக்கா\" (Kavitha akka). But you must never add さん to your own name: 「私は 田中です」. For small children and close female friends, use ちゃん. Adding 人 (じん) after a country name gives a person from that country: インド人 (Indian), 日本人 (Japanese), like Tamil \"இந்திய-ர்\" and \"ஜப்பானிய-ர்\". Adding 歳 (さい) after a number gives an age: 五歳 (ごさい, five years old). But note the sound changes: 一歳 = いっさい, 八歳 = はっさい, 十歳 = じゅっさい.",
+      "tamil_parallel_en": "தனாகா அவர்கள் \"Mr. Tanaka\" / இந்திய-ர் \"Indian\" / ஐந்து வயது \"five years old\" = 田中さん / インド人 / 五歳. Like the Tamil respect word and the suffix \"-ர்\", these Japanese suffixes attach after the noun.",
+      "formation_en": "Name + さん / ちゃん ; Country + 人(じん) ; Number + 歳(さい)",
+      "pitfalls_en": "Adding さん to your own name, as in 「私は ラジャさんです」, is the most common mistake Tamil speakers make. 先生 is itself a title of respect; you can say 「田中先生」, but not 「田中先生さん」. 四歳 = よんさい (not しさい)."
+    },
+    "g01-7": {
+      "explanation_en": "To ask someone's name, say 「お名前は？」. Just as in Tamil you can ask \"உங்கள் பெயர்?\" (your name?) without finishing the sentence, in Japanese you can drop 何ですか, stop at は and raise your voice. お is a politeness prefix (more on it in the next lesson). To ask \"who?\" politely, use どなた (the ordinary word is 誰, covered in the next lesson). To ask someone's age, say 「何歳ですか」 (なんさい); to older people, the polite form is 「おいくつですか」. Numbers 0–10: ゼロ, いち, に, さん, し/よん, ご, ろく, しち/なな, はち, きゅう/く, じゅう. Tamil has only one word for each number, but Japanese has two pronunciations for 4, 7 and 9.",
+      "tamil_parallel_en": "உங்கள் பெயர்? \"Your name?\" / நீங்கள் யார்? \"Who are you?\" / எத்தனை வயது? \"How old?\" = お名前は？ / どなたですか / 何歳ですか",
+      "formation_en": "お名前は？ ; N は どなたですか ; N は 何歳ですか",
+      "pitfalls_en": "With people you have just met, use どなた; saying 誰 (だれ) is less polite. 何歳 = なんさい (not なにさい). In Tamil \"உனக்கு எத்தனை வயது?\" (how old are you?) uses \"-க்கு\" (to you), but in Japanese you use は: 「〜さんは 何歳ですか」."
+    }
+  },
+  "items": {
+    "L01-q01": "学生 = がくせい (மாணவர், student). It ends with a long sound (せい); shortening it to がくせ is wrong. Also note the sound is が, not か.",
+    "L01-q02": "先生 = せんせい (ஆசிரியர், teacher). Changing the sound to ぜんせい, or dropping the long sound to make せんせ, are common mistakes.",
+    "L01-q03": "医者 = いしゃ (மருத்துவர், doctor). しゃ is a single sound (with a small ゃ); splitting it into two sounds as いしや is wrong.",
+    "L01-q04": "なまえ = 名前 (பெயர், name). 各 is a different character that looks like 名; 名 has the 夕 part on top.",
+    "L01-q05": "きょうしつ = 教室 (வகுப்பறை, classroom). 数 is a different character that looks like 教; 至 is only the bottom part of 室.",
+    "L01-q06": "The word that starts an introduction when you meet someone for the first time is はじめまして (nice to meet you). さようなら is what you say when parting.",
+    "L01-q07": "To say someone's nationality, use country name + 人 (じん): インド人 = Indian (இந்தியர்). Just インド means the country India (இந்தியா).",
+    "L01-q08": "To say an age, use number + 歳 (さい): 五歳 = five years old (ஐந்து வயது). じん means a person from a country; さん is the polite suffix that goes after a name.",
+    "L01-q09": "To ask \"Who are you?\" politely, use どなた (யார், who). The answer is a name, \"Tanaka\", so a \"who\" question is the only one that fits.",
+    "L01-q10": "The answer is a denial, \"not a student\", so it must start with いいえ (இல்லை, no). はい and ええ both mean \"yes\" (ஆமாம்).",
+    "L01-q11": "The word for a person who has come from India to study is 留学生 (வெளிநாட்டு மாணவர், international student). きょうしつ (வகுப்பறை, classroom) and くに (நாடு, country) are not people.",
+    "L01-q12": "\"Not a doctor, a teacher\" boils down to \"Raja-san is a teacher\" (ஆசிரியர்). The first option gives the job that was denied.",
+    "L01-q13": "も = \"too\" (-உம்); \"Yamada-san is Japanese too\" means \"Yamada-san is Japanese\". 外国人 (வெளிநாட்டவர், foreigner) is the opposite.",
+    "L01-q14": "インド人 = an Indian (இந்திய நாட்டவர்), which means \"Raja-san's country is India\". \"A teacher from India\" adds a job, which is not in the sentence.",
+    "L01-q15": "The topic is marked with は: 私は カビタです = I am Kavitha. In the first sentence of an introduction there is nothing before it to say \"me too\" (も) about.",
+    "L01-q16": "What was said in the previous sentence also applies to this person, so \"too\" (-உம்) = も. Using は is not wrong, but it loses the meaning of \"also\"; the JLPT expects も.",
+    "L01-q17": "The reply is はい, so the first sentence is a question; the question ending is か (like Tamil \"-ஆ\"). は / も do not come at the end of a sentence.",
+    "L01-q18": "The organisation and the person are linked with の: IITマドラスの 学生 = an IIT Madras student (IIT மதராஸ் மாணவர்). は does not appear twice in one sentence.",
+    "L01-q19": "The next sentence says \"student\", so the first sentence must be the denial \"not a teacher\" = じゃありません. Using です would contradict itself: \"a teacher, a student\".",
+    "L01-q20": "A reply starting with いいえ is a denial, so it needs じゃありません. Saying いいえ and then ending with です makes the meaning contradict itself.",
+    "L01-q21": "Stopping at は in 「お名前は？」 and raising your voice makes the question \"Your name?\" (உங்கள் பெயர்?). か does not come directly after a noun here; this is a shortened form of 「お名前は 何ですか」.",
+    "L01-q22": "私は インドの 留学生です。 — topic (私は) → の link (インドの) → noun (留学生) → です. 留学生 goes in the ★ slot.",
+    "L01-q23": "田中さんも 日本語教室の 先生です。 — after the topic with も comes the の phrase, then 先生です. 日本語教室の goes in the ★ slot.",
+    "L01-q24": "山田先生は どなたですか。 — the question word どなた comes before です, and か comes last. どなた goes in the ★ slot.",
+    "L01-q25": "［1］ Country + 人 = Indian (இந்தியர்). ［2］ After saying Kavitha is a student, Tanaka-san is a student too, so も. ［3］ After saying \"student\", the denial \"not a teacher\" is じゃありません."
+  }
+}

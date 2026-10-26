@@ -1,0 +1,75 @@
+{
+  "lesson": 8,
+  "intro_en": "In this lesson you learn to describe people, towns and things using adjectives. Japanese has two kinds of adjectives, い-adjectives and な-adjectives. We will look at their positive and negative forms and how they go in front of a noun. You will also learn to ask \"How is it?\", \"What kind of?\" and \"Which one?\", and to join two ideas with \"but\".",
+  "grammar": {
+    "g08-1": {
+      "explanation_en": "きれい, 静か, 便利, 有名 and にぎやか are な-adjectives. At the end of a sentence they behave just like nouns: 静かです (it is quiet), 静かじゃありません (it is not quiet). This is the same pattern as 学生です / 学生じゃありません from Lesson 1. It is like saying in Tamil \"ஊர் அமைதி\" (the town is quiet) / \"ஊர் அமைதியானது அல்ல\" (the town is not quiet). Careful: きれい ends in い but it is still a な-adjective, so きれくないです ✗, きれいじゃありません ✓. The word order is the same as Tamil: topic は + adjective + です.",
+      "tamil_parallel_en": "Like a Tamil noun-style description with அல்ல (\"is not\"), な-adjectives work like nouns: இந்த ஊர் அமைதியானது (\"this town is quiet\") = この町は静かです; அமைதியானது அல்ல (\"it is not quiet\") = 静かじゃありません.",
+      "formation_en": "N は + な-adj (without な) + です / じゃありません",
+      "pitfalls_en": "Because きれい and 有名 end in い, a common mistake is to think they are い-adjectives and change them to きれくない. For な-adjectives, use only じゃありません."
+    },
+    "g08-2": {
+      "explanation_en": "Adjectives ending in い, such as 大きい, 高い and 美味しい, already contain the meaning \"is\" by themselves; です is added only for politeness: 高いです (it is expensive). Negative: drop the final い and add くないです: 高い → 高くないです (it is not expensive). Just as the Tamil form changes from \"பெரிய\" (big) to \"பெரிதாக இல்லை\" (not big), here the adjective itself changes. Exception: いい (good) → negative よくないです (いくない ✗), because the old form of いい is よい.",
+      "tamil_parallel_en": "As in Tamil, where the adjective itself changes form in the negative (பெரிய \"big\" → பெரிதாக இல்லை \"not big\"), the い-adjective changes: இந்தக் கைக்கடிகாரம் விலை அதிகம் (\"this watch is expensive\") = この時計は高いです; விலை அதிகம் இல்லை (\"not expensive\") = 高くないです.",
+      "formation_en": "い-adj + です ／ い-adj (drop い) + くないです ／ いい → よくないです",
+      "pitfalls_en": "高いじゃありません ✗. い-adjectives take くないです. いくないです ✗; it is よくないです. 暑い (hot weather) and 熱い (hot to the touch, for things) are both あつい; tell them apart by the kanji."
+    },
+    "g08-3": {
+      "explanation_en": "とても = \"very\"; it is used only in positive sentences: とても高いです (it is very expensive). あまり = \"(not) very much\"; it always comes only with a negative: あまり高くないです (it is not very expensive). In Tamil too, the word \"அவ்வளவாக\" (that much) only sounds natural with \"இல்லை\" (not); it is the same rule. As in Tamil, these adverbs come directly before the adjective.",
+      "tamil_parallel_en": "あまり works like Tamil அவ்வளவாக, which only goes with a negative: மிகவும் சுவையானது (\"very tasty\") = とても美味しいです; அவ்வளவாகச் சுவை இல்லை (\"not very tasty\") = あまり美味しくないです.",
+      "formation_en": "とても + adj です ／ あまり + adj negative (〜くないです / 〜じゃありません)",
+      "pitfalls_en": "あまり高いです ✗. あまり always goes with a negative. とても高くないです is also unnatural; for \"not very\", use あまり."
+    },
+    "g08-4": {
+      "explanation_en": "どう = \"how\". Use it to ask for someone's opinion or experience: 日本の食べ物はどうですか = \"How is Japanese food?\". Answer with an adjective: 美味しいです. Just like asking \"சாப்பாடு எப்படி?\" (How is the food?) in Tamil, the question word どう comes at the end of the sentence, before です. It is also used when offering something: お茶はどうですか = \"How about some tea? (Will you have some?)\".",
+      "tamil_parallel_en": "どう is the Tamil எப்படி (\"how\"), in the same end position: ஜப்பானிய உணவு எப்படி? (\"How is Japanese food?\") = 日本の食べ物はどうですか.",
+      "formation_en": "N + は + どうですか",
+      "pitfalls_en": "どう (how, asking about a state or opinion) vs どんな (what kind of, used before a noun). どう人ですか ✗ → どんな人ですか."
+    },
+    "g08-5": {
+      "explanation_en": "As in Tamil, adjectives come before the noun (\"பெரிய கடை\", big shop = 大きい店). い-adjectives go in as they are: 大きい店, 新しいカメラ. な-adjectives need な: 静かな町, 有名な喫茶店. It is like Tamil adding \"-ஆன\" to turn \"அமைதி\" (quiet) into \"அமைதியான ஊர்\" (a quiet town); な is that \"-ஆன\". どんな = \"what kind of\"; it also goes before a noun: どんな町ですか = \"What kind of town is it?\" Answer: 静かな町です.",
+      "tamil_parallel_en": "な plays the role of the Tamil -ஆன ending that links a describing word to a noun: அமைதியான ஊர் (\"a quiet town\") = 静かな町; பெரிய கடை (\"a big shop\") = 大きい店; எப்படிப்பட்ட ஊர்? (\"what kind of town?\") = どんな町ですか.",
+      "formation_en": "い-adj + N ／ な-adj + な + N ／ どんな + N",
+      "pitfalls_en": "大きいな店 ✗. い-adjectives don't take な. 静か町 ✗. な-adjectives must have な. At the end of a sentence (静かです), な does not appear; it is used only before a noun."
+    },
+    "g08-6": {
+      "explanation_en": "To join two contrasting ideas, add が at the end of the first sentence: この店は安いですが、美味しくないです = \"This shop is cheap, but it isn't tasty\". It is just like Tamil, where a joining word comes at the end of the first part: \"மலிவுதான், ஆனால்...\" (it's cheap, but...) or \"மலிவு என்றாலும்...\" (even though it's cheap...). Before が, the です/ます form stays as it is, and a comma (、) follows. This が is the connector \"but\"; the が in 好きです, which comes in Lesson 9, does a different job.",
+      "tamil_parallel_en": "が works like Tamil ஆனால் (\"but\") at the end of the first clause: மலிவுதான், ஆனால் சுவையில்லை (\"it's cheap, but not tasty\") = 安いですが、美味しくないです.",
+      "formation_en": "Sentence 1 (〜です / 〜ます) + が、+ Sentence 2",
+      "pitfalls_en": "The ideas on each side of が must contrast. If both are good, as in 安いですが、美味しいです, \"but\" doesn't fit."
+    },
+    "g08-7": {
+      "explanation_en": "The question form of これ, それ and あれ from Lesson 2 is どれ = \"which one?\". It is used to ask about one item out of three or more: あなたの傘はどれですか = \"Which one is your umbrella?\". As in Tamil, the question word can come at the end of the sentence, before です. どれ stands alone (it does not go before a noun). The form that uses どれ as the subject (\"Which one is big?\") comes later; for now, learn the 〜はどれですか pattern.",
+      "tamil_parallel_en": "どれ is the Tamil எது (\"which one\"), placed at the end like in Tamil: உங்கள் குடை எது? (\"Which is your umbrella?\") = あなたの傘はどれですか.",
+      "formation_en": "N + は + どれですか → これ / それ / あれ です",
+      "pitfalls_en": "どれ傘ですか ✗. \"Which\" before a noun is どの (Lesson 9). どれ is used only on its own. For one out of two, use どちら (Lesson 12)."
+    }
+  },
+  "items": {
+    "L08-q01": "有名 = ゆうめい (புகழ்பெற்ற, famous). Both ゆう and めい are long sounds; shortening it to ゆめい (like 夢) is a common mistake.",
+    "L08-q02": "便利 = べんり (வசதியான, convenient). Here 便 is べん; びん is another reading of 便 (郵便 = ゆうびん), which is why people get confused.",
+    "L08-q03": "忙しい = いそがしい (பிஸியான, busy). It is が, with the voiced mark; the final い is part of the adjective, so don't drop it.",
+    "L08-q04": "たかい = 高い (விலை அதிகம்/உயரம், expensive/tall). 髙 is an old form used only in names; the normal character is 高. 古い (ふるい) and 安い (やすい) are different words.",
+    "L08-q05": "しろい = 白い (வெள்ளை, white). 百 (ひゃく) = 白 + a line on top; 自 (じ) = 白 + one extra line. 日 is missing the short stroke on top that 白 has.",
+    "L08-q06": "Hot weather = 暑い (வெப்பம், hot). 熱い is for hot things (お茶). Chennai in May is not 寒い!",
+    "L08-q07": "Hot tea (a thing) = 熱い (சூடு, hot). 暑い is only for weather; both sound あつい, which causes confusion.",
+    "L08-q08": "After が (ஆனால், but) comes the good point 美味しい, so what comes before must be something ordinary or unexpected: 安い (மலிவு, cheap: cheap, but still tasty). 高いですが、美味しい may look grammatically fine, but an expensive thing being tasty is not a \"but\".",
+    "L08-q09": "After が (ஆனால், but) comes 静か (அமைதி, quiet), so before it you need the opposite, にぎやか (கலகலப்பு, lively). 有名, 便利 and きれい don't contrast with 静か, so \"but\" doesn't fit.",
+    "L08-q10": "\"How is it?\" = どうですか (எப்படி இருக்கிறது?). どんな is only used before a noun; どれ (which one) doesn't fit the answer.",
+    "L08-q11": "With a negative (面白くない), \"not very\" = あまり (அவ்வளவாக, not very). とても is used only with positives.",
+    "L08-q12": "\"Not expensive\" ≈ \"cheap\" (安い, மலிவு). 古い (பழைய, old) is the opposite of 新しい, not of 高い.",
+    "L08-q13": "Not lively = quiet (静か, அமைதியானது). 有名, 便利 and きれい are different qualities.",
+    "L08-q14": "Not new = old (古い, பழையது). 小さい (சிறிய, small) is the opposite of 大きい.",
+    "L08-q15": "A な-adjective before a noun → 静かな町 (\"அமைதியான ஊர்\", a quiet town; the Tamil \"-ஆன\" = な). Using の, or leaving out な, is wrong.",
+    "L08-q16": "The negative of いい is よくない (நல்லதில்லை, not good), an exception. いくない is a common mistake; いい is an い-adjective, so じゃありません is also wrong.",
+    "L08-q17": "きれい is a な-adjective (even though it ends in い) → negative きれいじゃありません (அழகாக இல்லை, not pretty/clean). きれくない wrongly applies the い-adjective rule.",
+    "L08-q18": "An い-adjective goes directly before the noun → 新しいカメラ (புதிய கேமரா, new camera). Don't add な; it goes straight in, like Tamil \"புதிய கேமரா\".",
+    "L08-q19": "\"It's tasty, but expensive\" is a contrast, so use が (ஆனால், but). と is only for joining nouns.",
+    "L08-q20": "\"What kind of\" before the noun 人 = どんな (எப்படிப்பட்ட, what kind of). どう doesn't go before a noun.",
+    "L08-q21": "\"Which one?\" among several umbrellas = どれ (எது, which). どこ asks about a place (\"எங்கே?\", where?); the answer is \"that blue one\", so it is どれ.",
+    "L08-q22": "とても (மிகவும், very) → 古い (பழைய, old) → 町 (நகரம், town) → です. The adverb comes before the adjective and the adjective before the noun, just like Tamil \"மிகவும் பழைய நகரம்\" (a very old town). ★ = 古い.",
+    "L08-q23": "安いですが (மலிவு, ஆனால், it's cheap, but) → あまり → 美味しくないです. あまり comes right before the negative adjective. ★ = あまり.",
+    "L08-q24": "\"அமைதியான ஊரின் புகழ்பெற்ற கபே\" (a famous cafe in a quiet town): 静かな町の → 有名な喫茶店です. ★ = 有名な. Both な-adjectives come before their own nouns.",
+    "L08-q25": "［1］At the end of a sentence (before です), a な-adjective has no な → 静か. ［2］あまり goes with a negative; 便利 is a な-adjective → じゃありません. ［3］とても goes with a positive → 美味しいです; 美味しくない doesn't fit with とても."
+  }
+}

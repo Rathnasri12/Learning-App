@@ -1,0 +1,69 @@
+{
+  "lesson": 22,
+  "intro_en": "In this lesson you will learn to describe a noun with a whole sentence: 'the bus that goes to Kyoto', 'the food Mother made', 'the person wearing glasses'. Just as Tamil puts a relative participle such as 'போகும்' (that goes) or 'செய்த' (that was made) before the noun, Japanese puts a plain-form verb directly before the noun. This lesson also brings words for clothes, colours, verbs for wearing, and house hunting.",
+  "grammar": {
+    "g22-1": {
+      "explanation_en": "In Tamil, a relative participle like 'போகும்' (that goes) or 'வாங்கிய' (that was bought) comes before the noun, as in 'கியோட்டோவுக்குப் போகும் பஸ்' (the bus that goes to Kyoto) and 'நேற்று வாங்கிய காலணி' (the shoes I bought yesterday), right? Japanese uses the same order: write the whole sentence in plain form (普通形) and put the noun after it: 京都へ行くバス、昨日買った靴. Unlike English, you don’t need 'which' or 'that'; just like Tamil, the noun comes last. All four forms can be used: 行く (that goes)、行かない (that doesn’t go)、行った (that went)、行かなかった (that didn’t go, past). For 'is doing now / is in a state', use 〜ている + N: 眼鏡を掛けている人. A noun described this way works like any ordinary noun and can take は、が、を、に and so on.",
+      "tamil_parallel_en": "கியோட்டோவுக்குப் போகும் பஸ் (the bus that goes to Kyoto) = 京都へ行くバス ； நேற்று வாங்கிய காலணி (the shoes bought yesterday) = 昨日買った靴. Both languages use relative participle + noun, with nothing like 'which' in between.",
+      "formation_en": "V plain (行く / 行かない / 行った / 行かなかった / 〜ている) + N",
+      "pitfalls_en": "Putting the ます-form before a noun is wrong: ×行きますバス → ○行くバス. To describe a state like 'wearing', you need the 〜ている form: 掛けている人 (掛ける人 changes the meaning to 'a person who is going to put on glasses')."
+    },
+    "g22-2": {
+      "explanation_en": "In Lesson 8 you learned that い-adjectives come directly before a noun (大きい帽子) and な-adjectives take な (静かな部屋). To join two adjectives, use the 〜くて / 〜で form from Lesson 16: 白くて大きな帽子 (a big white hat), 広くて明るい部屋. In speech you can also stack them with nothing in between: 赤い長いスカート. This lesson’s 大きな and 小さな only come before a noun, like な-adjectives; unlike 大きいです, you cannot say 大きなです at the end of a sentence. A verb clause and an adjective can also be used together: 駅に近い静かな部屋 (a quiet room near the station). It is just like stacking in Tamil: 'வெள்ளையான பெரிய தொப்பி' (a white, big hat).",
+      "tamil_parallel_en": "வெள்ளையான பெரிய தொப்பி (a white big hat) = 白くて大きな帽子 ； விசாலமான வெளிச்சமான அறை (a spacious bright room) = 広くて明るい部屋. Like Tamil, Japanese simply lines up the describing words before the noun.",
+      "formation_en": "い-adj くて + adj + N ； な-adj で + adj + N ； adj + adj + N ； 大きな / 小さな + N",
+      "pitfalls_en": "Forgetting な after a な-adjective is a common mistake: ×静か部屋 → ○静かな部屋. Don’t put 大きな at the end of a sentence like 大きい: ×この犬は大きなです → ○大きいです."
+    },
+    "g22-3": {
+      "explanation_en": "This is a special use of g22-1. Before nouns such as 時間 (time), 約束 (promise, appointment) and 用事 (an errand, something you have to do), put a dictionary-form verb that says 'to do what': 服を買う時間 (time to buy clothes), 映画を見る約束 (a promise to see a movie), 銀行へ行く用事 (an errand to go to the bank). It matches Tamil phrases with the infinitive such as 'வாங்க நேரம் இல்லை' (no time to buy) and 'பார்க்க வாக்கு கொடுத்தேன்' (I promised to see). These are usually followed by があります / がありません; you can also say 約束をします (I make a promise). Here you always use the dictionary (non-past) form only; the past form is not used.",
+      "tamil_parallel_en": "உடை வாங்க நேரம் இல்லை (no time to buy clothes) = 服を買う時間がありません ； வங்கிக்குப் போக வேலை இருக்கிறது (I have an errand to go to the bank) = 銀行へ行く用事があります. The Tamil infinitive (வாங்க, போக) before the noun matches the Japanese dictionary form.",
+      "formation_en": "V dictionary form + 時間 / 約束 / 用事 + が あります / ありません",
+      "pitfalls_en": "To ask 'do you have time?', say 時間がありますか; don’t use 時間を because of Tamil 'நேரத்தை'. The ます-form doesn’t come before 時間: ×買います時間 → ○買う時間."
+    },
+    "g22-4": {
+      "explanation_en": "Here we compare two forms that sound alike. 〜ましょうか from Lesson 14 offers help: 'shall I do it?': 持ちましょうか (shall I carry it?). 〜ましょう from Lesson 6 invites someone to do something together: 'let’s do it': 食べましょう (let’s eat). It is the same difference as Tamil 'தூக்கட்டுமா?' (shall I carry? first person singular + ஆ) versus 'சாப்பிடுவோம்' (let’s eat, first person plural). To answer ましょうか you can say お願いします (yes please) or いいえ、結構です (no, thank you). To answer ましょう you can agree with ええ、〜ましょう or いいですね. ましょうか can also be used as an invitation, 'shall we do it?', but for N5 the meaning of offering help is the important one.",
+      "tamil_parallel_en": "நான் தூக்கட்டுமா? (shall I carry it?) = 持ちましょうか ； (நாம்) சாப்பிடுவோம் (let’s eat) = 食べましょう. Tamil uses different endings, -அட்டுமா for an offer and -வோம் for 'let’s'; Japanese uses ましょうか vs ましょう.",
+      "formation_en": "V ます-stem + ましょうか (shall I do it?) ； V ます-stem + ましょう (let’s do it)",
+      "pitfalls_en": "If you forget か when offering help, the meaning changes to 'let’s carry it (together)': 持ちましょう ≠ 持ちましょうか. When answering ましょうか, it is more polite to say お願いします rather than just はい."
+    },
+    "g22-5": {
+      "explanation_en": "When the clause that describes a noun has its own subject ('who did it'), that subject is marked with が, not は: 母が作った料理 (the food Mother made), 友達が住んでいる町 (the town where my friend lives). Why? は marks the topic of the whole sentence; the subject of the small clause inside takes が. Full sentence: 母は料理を作りました → description: 母が作った料理. In Tamil 'அம்மா செய்த சாப்பாடு' (the food Mother made), 'அம்மா' does not change, but in Japanese you must notice that it changes to が. The same rule applies inside adjectives like 好きな and 欲しい: 私が好きな色 (the colour I like). In short clauses の can also replace が (母の作った料理), but for N5 が is enough.",
+      "tamil_parallel_en": "அம்மா செய்த சாப்பாடு (the food Mother made) = 母が作った料理 (subject inside the clause takes が) ； அம்மா சாப்பாடு செய்தார் (Mother made food) = 母は料理を作りました (topic takes は). In Tamil, அம்மா looks the same in both, but Japanese switches は to が.",
+      "formation_en": "N1 が + V plain + N2 ； N1 が + adj + N2",
+      "pitfalls_en": "Using は inside the clause is a very common mistake: ×母は作った料理 → ○母が作った料理. In 'this is the food Mother made', the topic of the whole sentence is これは; inside the clause it is 母が."
+    },
+    "g22-6": {
+      "explanation_en": "This form identifies something by an action that already happened: 'this is the sweater my sister knitted', 'that is the coat I bought last year'. Put the た-form you learned in Lesson 19 (作った、買った、撮った、もらった) before the noun; the person who did it is marked with が. It is a direct match for the Tamil past relative participle 'செய்த' (that was made), 'வாங்கிய' (that was bought). It often appears in the pattern これ / それ / あれ + は + [description] + N + です; to ask a question, say 誰が作ったNですか. Because it is past, 作ります or 作る is not used; the た shows the action is finished.",
+      "tamil_parallel_en": "இது அக்கா பின்னிய ஸ்வெட்டர் (this is the sweater my older sister knitted) = これは姉が作ったセーターです. The past relative participle பின்னிய / செய்த matches the た-form 作った.",
+      "formation_en": "これ / それ / あれ は + N1 が + V た-form + N2 です",
+      "pitfalls_en": "Don’t use ました instead of the た-form: ×姉が作りましたセーター → ○姉が作ったセーター. When asking 'who made it', it is also 誰が (が), not 誰は."
+    }
+  },
+  "items": {
+    "L22-q01": "上着 = うわぎ (மேலங்கி, jacket). Here 上 is read うわ, not うえ, and 着 is voiced as ぎ. Saying うわき without the voicing is the trap.",
+    "L22-q02": "靴 = くつ (காலணி, shoes). くち is 口 (mouth), くず is a different word, and the voiced ぐつ never appears on its own.",
+    "L22-q03": "眼鏡 = めがね (மூக்குக் கண்ணாடி, glasses), a special reading. がんきょう is the on-reading of each kanji, but it is not used for this word. めかね has lost the voicing (が).",
+    "L22-q04": "ぼうし = 帽子 (தொப்பி, hat). 帽 must have 巾 (cloth) on its left side; 冒 is a fake without it. The second kanji is 子 (こ/し), not 字 (じ).",
+    "L22-q05": "ひろい = 広い (விசாலமான, spacious). 太い (ふとい, thick) is a different adjective that looks similar; 庭 (にわ, garden) and 店 (みせ, shop) are nouns, and adding い makes no word at all.",
+    "L22-q06": "For glasses, use 掛けます (கண்ணாடி அணிய, put on glasses). 着る = upper-body clothes, かぶる = on the head, はく = lower-body clothes/shoes. In Japanese, the verb for 'wear' changes depending on the part of the body.",
+    "L22-q07": "A hat is worn on the head, so かぶります (தலையில் அணிய, put on the head). 着ます is only for upper-body clothes such as shirts and coats.",
+    "L22-q08": "Skirts, trousers, shoes, socks: anything worn below the waist takes はきます (கீழ் உடை அணிய, put on lower-body clothes). 着て is only for upper-body clothes; be careful, because Tamil uses 'அணிய' (wear) for everything.",
+    "L22-q09": "Since 'there is only a bed', the room is 狭い (குறுகலானது, small/narrow). 広い/大きい mean the opposite; 明るい (bright) doesn’t describe the size of a place.",
+    "L22-q10": "何色 (なにいろ) = (எந்த நிறம், what colour). 黒 and 青 are specific colours; they don’t form a question with 何.",
+    "L22-q11": "What goes with 着て (wearing on the upper body) is 背広 (சூட், suit). 靴, 靴下 and ズボン take はきます, not 着ます.",
+    "L22-q12": "狭い (குறுகலான, small) = 大きくない (not big). 広い is the exact opposite meaning.",
+    "L22-q13": "母が作ったセーター is the noun-describing form of the sentence 母はセーターを作りました (அம்மா ஸ்வெட்டர் செய்தார், Mother made the sweater). 'Bought' or 'received' is a different action.",
+    "L22-q14": "'No time to buy' means I won’t buy today (買いません, வாங்க மாட்டேன்). 買いたいです (I want to buy) is a wish, not about time.",
+    "L22-q15": "A verb describing a noun comes directly in plain form: 行くバス (போகும் பஸ், the bus that goes). 行きますバス is wrong; adding の as in 行くの is also wrong (don’t translate Tamil 'போகிற' with の).",
+    "L22-q16": "Describe the state of 'wearing' with 〜ている, and before a noun use the plain form 掛けている (அணிந்திருக்கும், who is wearing). 掛けています is a sentence-ending form and doesn’t come before a noun.",
+    "L22-q17": "The subject inside a describing clause takes が: 母が作った料理. Using は is a common mistake; は is only for the topic of the whole sentence, これは.",
+    "L22-q18": "Because of 昨日 (yesterday), it is past; before a noun you need the plain past form 買った (வாங்கிய, that I bought). 買いました is the polite form and doesn’t come before a noun.",
+    "L22-q19": "Before 約束 (appointment), 時間 and 用事, use the dictionary form: 見る約束 (பார்க்கும் வாக்கு, a promise to see). 見た would change the meaning to 'a promise of having seen' and clash with 明日 (tomorrow).",
+    "L22-q20": "To offer help to someone, 'shall I carry it?' = 持ちましょうか (நான் தூக்கட்டுமா?). 持ちましょう would become an invitation: 'let’s (both) carry it'.",
+    "L22-q21": "静か is a な-adjective; before a noun it needs な: 静かな部屋 (அமைதியான அறை, a quiet room). Putting の as in 静かの is a mistake that comes from thinking of Tamil '-ஆன'; 静かで is only used to join it with another adjective.",
+    "L22-q22": "あそこで 新聞を 読んでいる 人は 田中さんです。 — (அங்கே செய்தித்தாள் படித்துக்கொண்டிருப்பவர் தனாகா, the person reading a newspaper over there is Tanaka). The description (新聞を 読んでいる) comes before the noun 人; 読んでいる goes in the star position.",
+    "L22-q23": "これは 姉が 去年 作った セーターです。 — The inner clause is 姉が 去年 作った, followed by the noun セーター. 作った goes in the star position.",
+    "L22-q24": "今日は 服を 買う 時間が ありません。 — 'to do what' (服を 買う) + 時間が + ありません. 時間が goes in the star position.",
+    "L22-q25": "［1］ Because 'but it is cheap' follows, there must be a drawback before it: 狭い (குறுகலான, small). ［2］ The room where my friend lives now = 友達が住んでいる部屋; が inside the clause and the verb in 〜ている. ［3］ To finish the plan for 日曜日に (Sunday) in polite form, use 見に行きます; ending with the plain form 行く does not match the polite style of this passage."
+  }
+}

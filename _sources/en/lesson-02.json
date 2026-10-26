@@ -1,0 +1,75 @@
+{
+  "lesson": 2,
+  "intro_en": "In this lesson you will learn to point at things that are near, a little far, and far away, and to ask and answer \"What is this?\" and \"Whose is that?\". Just as Tamil has the demonstratives \"இது / அது\" (this / that) and \"இந்த / அந்த\" (this … / that …), Japanese has これ・それ・あれ and この・その・あの. The difference is that Japanese has three distance levels. The lesson also covers words for stationery, everyday objects and names of languages.",
+  "grammar": {
+    "g02-1": {
+      "explanation_en": "There are three words for pointing at things: これ = something near the speaker (\"this\", இது), それ = something near the listener (\"that\", அது), あれ = something far from both (\"that over there\", அதோ அது). Modern Tamil commonly uses only two, \"இது / அது\"; but Old Tamil and Sri Lankan Tamil have a middle demonstrative \"உது\", and that is exactly それ. These words behave like nouns, so they take particles such as は, も and の directly: これは、それも. If I ask 「これは 何ですか」, the listener answers 「それは ペンです」, because what is near me is a little far from them.",
+      "tamil_parallel_en": "இது புத்தகம் \"This is a book\" / அது பேனா \"That is a pen\" / அதோ அது கடிகாரம் \"That over there is a clock\" = これは 本です。/ それは ペンです。/ あれは 時計です。 Tamil \"இது / அது\" map to これ / それ・あれ, with Japanese adding a third distance.",
+      "formation_en": "これ / それ / あれ + は + N + です",
+      "pitfalls_en": "Because Tamil \"அது\" (that) covers both それ and あれ, remember: if it is near the listener, use それ; if it is far from both of you, use あれ. A noun cannot come directly after これ・それ・あれ (「これ本」 is wrong)."
+    },
+    "g02-2": {
+      "explanation_en": "これ・それ・あれ stand alone as \"this / that\"; but to say \"this book, that pen\" together with a noun, you use この・その・あの. Just as Tamil changes \"இது\" (this) → \"இந்த\" (this …) and \"அது\" (that) → \"அந்த\" (that …), Japanese changes これ → この, それ → その, あれ → あの. The distance rule is the same as before: この = near me, その = near you, あの = far from both of us. A noun must come after この・その・あの; they never stand alone, just as in Tamil you don't stop after saying only \"இந்த\" (this …).",
+      "tamil_parallel_en": "இந்தப் புத்தகம் என்னுடையது \"This book is mine\" = この本は 私のです。 Here この is roughly \"இந்த\" (this …), and その / あの are roughly \"அந்த\" (that …).",
+      "formation_en": "この / その / あの + N + は …",
+      "pitfalls_en": "Putting は right after この, as in 「このは 本です」, is wrong; a noun must follow この. \"This is a book\" = これは 本です, \"this book\" = この本; don't mix the two up."
+    },
+    "g02-3": {
+      "explanation_en": "In the last lesson, の showed which organisation someone belongs to; in this lesson it has two more jobs. First, possession: 「私の 本」 = my book (என் புத்தகம்), 「田中さんの 傘」 = Tanaka-san's umbrella (தனாகா-சானின் குடை), exactly like the Tamil \"-இன் / -உடைய\" (of / 's). Second, content or type: 「日本語の 本」 = a Japanese-language book (ஜப்பானிய மொழிப் புத்தகம்), 「英語の 字引」 = an English dictionary (ஆங்கில அகராதி). In Tamil we just put the words side by side here with no ending, but in Japanese の is required. The owner / type always comes first and the thing comes after, the same order as Tamil.",
+      "tamil_parallel_en": "என் புத்தகம் \"my book\" / ஜப்பானிய மொழிப் புத்தகம் \"Japanese-language book\" = 私の 本 / 日本語の 本. Here の is roughly the Tamil \"-இன் / -உடைய\" (of / 's), or a type link where Tamil simply puts the two words side by side.",
+      "formation_en": "N1 (owner / type) + の + N2 (thing)",
+      "pitfalls_en": "Don't write \"Japanese book\" as 「日本語本」 without の. \"My\" = 私の; using は, as in 「私は 本」, is wrong."
+    },
+    "g02-4": {
+      "explanation_en": "To answer a 「〜は N ですか」 question briefly without repeating the whole noun, you use そう: 「はい、そうです」 = \"Yes, that's right / it is\" (ஆமாம், அப்படித்தான் / அதுதான்), 「いいえ、そうじゃありません」 = \"No, it isn't\" (இல்லை, அப்படி இல்லை). It is just like answering the Tamil \"இது பேனாவா?\" (Is this a pen?) with \"ஆமாம், அதுதான்\" (yes, that's it). For a negative answer, people also say 「いいえ、違います」 instead of そうじゃありません. Note: そうです is only for questions about nouns; questions with verbs and adjectives come later. 「そうですか」 said with a falling voice means \"I see\" (அப்படியா), showing you have understood.",
+      "tamil_parallel_en": "\"இது பேனாவா?\" \"Is this a pen?\" — \"ஆமாம், அதுதான்.\" \"Yes, it is.\" / \"இல்லை, அப்படி இல்லை.\" \"No, it isn't.\" = 「これは ペンですか。」「はい、そうです。」/「いいえ、そうじゃありません。」 Like Tamil \"அதுதான் / அப்படி இல்லை\", そう stands in for the noun.",
+      "formation_en": "はい、そうです / いいえ、そうじゃありません (= いいえ、違います)",
+      "pitfalls_en": "You can't answer a 何 question such as \"What is this?\" with そうです; there you must say the noun. Don't combine はい with a denial, as in 「はい、そうじゃありません」."
+    },
+    "g02-5": {
+      "explanation_en": "To ask \"which of the two?\", just put the two questions one after the other: 「これは ペンですか、鉛筆ですか」. Just as Tamil adds \"-ஆ\" to both in \"இது பேனாவா, பென்சிலா?\" (Is this a pen or a pencil?), Japanese puts ですか after both; you don't need a word for \"or\". You must not answer this question with はい / いいえ; you say the one you choose: 「ペンです」. In Tamil too, if someone asks \"பேனாவா பென்சிலா?\" (pen or pencil?), we don't answer \"ஆமாம்\" (yes), do we?",
+      "tamil_parallel_en": "இது பேனாவா, பென்சிலா? — பேனா. \"Is this a pen or a pencil? — A pen.\" = これは ペンですか、鉛筆ですか。— ペンです。 Like the Tamil \"-ஆ\" on both choices, ですか goes on both.",
+      "formation_en": "N1 は A ですか、B ですか。 → A です / B です",
+      "pitfalls_en": "Don't forget ですか on the second part too (「ペンですか、鉛筆」 is wrong). The answer is not 「はい」; say which of the two it is."
+    },
+    "g02-6": {
+      "explanation_en": "\"What is this?\" = 「これは 何ですか」 (なん). \"Whose is this?\" = 「これは 誰のですか」. Here the noun after 誰の (本, かばん) has been dropped; の itself carries the meaning \"belonging to\". It is just like shortening Tamil \"என் புத்தகம்\" (my book) → \"என்னுடையது\" (mine), and \"ராஜாவின் பை\" (Raja's bag) → \"ராஜாவுடையது\" (Raja's). So 「私のです」 = \"It's mine\" (என்னுடையது), 「田中さんのです」 = \"It's Tanaka-san's\" (தனாகா-சானுடையது). Question words (何, 誰) stay in the middle of the sentence, before です, just as in Tamil; don't move them to the front as in English.",
+      "tamil_parallel_en": "இது யாருடையது? — என்னுடையது. \"Whose is this? — It's mine.\" = これは 誰のですか。— 私のです。 Here の is roughly the Tamil \"-உடையது\" (the one belonging to).",
+      "formation_en": "N は 何ですか ; N は 誰のですか → (person) のです",
+      "pitfalls_en": "「誰ですか」 = \"Who?\" (யார்?), 「誰のですか」 = \"Whose?\" (யாருடையது?); if you drop の, the meaning changes. Before です, 何 is read なん (not なに)."
+    },
+    "g02-7": {
+      "explanation_en": "Adding お before certain nouns that belong to someone else makes them polite: お名前 = your name (உங்கள் பெயர்), お国 = your country (உங்கள் நாடு). It is like adding \"தங்கள்\" (your, respectful) in Tamil: \"பெயர்\" (name) → \"தங்கள் பெயர்\", \"ஊர்\" (hometown) → \"தங்கள் ஊர்\". Important rule: never add お when talking about yourself: 「私の 名前は ラジャです」 (私の お名前 is wrong). You can't add お to every word; only to some familiar ones (お名前、お国、おいくつ). Katakana words (カメラ, ペン) don't take お.",
+      "tamil_parallel_en": "தங்கள் பெயர்? \"Your name?\" / தங்கள் நாடு? \"Your country?\" = お名前は？ / お国は？ Here お works like the respectful Tamil \"தங்கள்\" (your).",
+      "formation_en": "お + N (someone else's) ; no お for your own",
+      "pitfalls_en": "「私の お名前」: adding お to your own thing is wrong. お is not a separate word; write it joined to the noun (おなまえ)."
+    }
+  },
+  "items": {
+    "L02-q01": "時計 = とけい (கடிகாரம், clock / watch). It ends with the long sound けい; shortening it to とけ or changing the sound to どけい is wrong.",
+    "L02-q02": "英語 = えいご (ஆங்கிலம், English). 語 is ご (not こ); don't shorten the long sound えい to えご.",
+    "L02-q03": "鉛筆 = えんぴつ (பென்சில், pencil). 筆 alone is ひつ, but after 鉛 it changes to ぴつ; えんひつ / えんびつ are wrong.",
+    "L02-q04": "かさ = 傘 (குடை, umbrella). 金, 全 and 命 are look-alike characters that all have a 人 shape on top; 傘 has four small 人 inside.",
+    "L02-q05": "ほん = 本 (புத்தகம், book). Add a short stroke at the bottom of 木 (மரம், tree) and you get 本; 体 and 休 are different characters that contain 木.",
+    "L02-q06": "The answer uses それ (the thing near you), so the question uses これ (the thing near me). この / その / あの need a noun after them; は cannot come directly after them.",
+    "L02-q07": "The answer is \"mine\", so the question is \"whose\" = 誰の (யாருடைய). If it were なん (என்ன, what), the answer would be an object.",
+    "L02-q08": "カメラ (camera) is a word written in katakana. In hiragana it would be かめら.",
+    "L02-q09": "The thing that can be \"… of the Japanese language\" is a dictionary (字引, அகராதி). A key, an umbrella and a clock don't have a language.",
+    "L02-q10": "For a noun question like \"Is it a pen?\", \"Yes, it is\" = はい、そうです. あれ is the demonstrative \"that over there\" (அதோ அது) and doesn't fit here.",
+    "L02-q11": "What can come before the noun 人 is あの (அந்த, that …). あれ / それ / これ are demonstratives that stand alone; they don't come before a noun.",
+    "L02-q12": "\"This book is mine\" = \"This is my book\" (இது என் புத்தகம்). 本 has been dropped after 私の; the first option is a negative.",
+    "L02-q13": "そうじゃありません = \"it isn't\" (அப்படி இல்லை), that is, \"that is not a pencil\" (பென்சில் இல்லை). \"That is a pencil too\" (も) is the opposite.",
+    "L02-q14": "山田さんの = \"Yamada-san's\" (யமாடா-சானுடையது); the dropped noun is 時計 (clock). \"Yamada-san is a clock\" is a meaningless sentence.",
+    "L02-q15": "The demonstrative noun これ is the topic, so は. If you put の, the meaning changes to \"this one's bag\" and the sentence doesn't finish.",
+    "L02-q16": "Before the noun 本, use この (இந்த, this …). これ (இது, this) only stands alone; 「これ本」 is wrong.",
+    "L02-q17": "\"English dictionary\" (ஆங்கில அகராதி) uses the type-linking の. は does not appear twice in one sentence.",
+    "L02-q18": "If the asker says それ (near you), then for the person answering it is これ (near me). Distance changes depending on who is speaking.",
+    "L02-q19": "\"Is it Tanaka-san's?\" (தனாகா-சானுடையதா?) = 田中さんのですか; の gives the meaning \"belonging to\". Using は would put two は in one sentence.",
+    "L02-q20": "In an \"A or B?\" question, か is required on the second part too. Using も gives a different meaning, \"a pencil too\".",
+    "L02-q21": "It starts with いいえ, so it is a denial: 私のじゃありません = \"It's not mine\" (என்னுடையது இல்லை). Using です would contradict いいえ.",
+    "L02-q22": "これは 私の 日本語の 本です。 — owner (私の) → type (日本語の) → thing (本). 日本語の goes in the ★ slot.",
+    "L02-q23": "そのかばんは 誰のですか。 — その comes before the noun, and 誰の before です. 誰の goes in the ★ slot.",
+    "L02-q24": "あれは ペンですか、鉛筆ですか。 — both choices take ですか; 鉛筆 goes in the ★ slot.",
+    "L02-q25": "［1］ \"Japanese-language teacher\" (ஜப்பானிய மொழி ஆசிரியர்) uses the type-linking の. ［2］ \"Not the teacher's, it's mine\" = 私のです; here の means \"belonging to\". ［3］ The second か of an \"A or B?\" question."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "lesson": 4,
+  "intro_en": "In this lesson you will learn to tell the time, say the days of the week, and describe your daily routine: \"I get up at seven in the morning\", \"I work from nine to five\". Verbs appear for the first time: 〜ます (I do), 〜ません (I don't do), 〜ました (I did), 〜ませんでした (I didn't do). As in Tamil, the verb comes at the end of the sentence, and tense and negation are added as endings on the verb itself.",
+  "grammar": {
+    "g04-1": {
+      "explanation_en": "To tell the time, use number + 時 (じ, o'clock / மணி) + number + 分 (ふん/ぷん, minutes / நிமிடம்). \"What time is it now?\" = 「今 何時ですか」; the answer is 「今 九時十分です」. For half past, use 半 (はん): 七時半 = half past seven (ஏழரை மணி). Just as Tamil says \"ஏழரை\" (seven and a half), \"half\" comes after the number. To tell morning from afternoon, 午前 (a.m.) and 午後 (p.m.) go before the time: 午後 三時. This is the same order as Tamil \"மதியம் மூன்று மணி\" (afternoon three o'clock). Memorise the sound changes: 四時 = よじ, 七時 = しちじ, 九時 = くじ; 一分 = いっぷん, 三分 = さんぷん, 四分 = よんぷん, 六分 = ろっぷん, 八分 = はっぷん, 十分 = じゅっぷん, 何分 = なんぷん (the others use ふん: 二分 にふん, 五分 ごふん).",
+      "tamil_parallel_en": "இப்போது மணி ஏழரை \"It is half past seven now\" = 今 七時半です。 Here 時 is roughly \"மணி\" (o'clock), 分 is \"நிமிடம்\" (minute), and 半 is \"அரை\" (half), which comes after the number just as in Tamil \"ஏழரை\".",
+      "formation_en": "今 + (午前 / 午後) + number 時 + number 分 / 半 + です ; 今 何時ですか",
+      "pitfalls_en": "四時 = よじ (not よんじ), 九時 = くじ (not きゅうじ). 半 must go after 時: 七時半 (半七時 is wrong). Don't put 午後 after the time (三時午後 is wrong)."
+    },
+    "g04-2": {
+      "explanation_en": "The polite form of a Japanese verb is 〜ます: 起きます (I get up), 寝ます (I sleep / go to bed), 働きます (I work). It shows both daily habits (\"I get up every day\") and the future (\"I will work tomorrow\"). Tamil has separate present and future tenses, but in Japanese they are the same form; the context (毎日, 明日) tells you the meaning. For the negative, ます → ません: 働きません = \"I don't work / I won't work\". For a question, add か as usual: 働きますか. As in Tamil, the verb comes at the end of the sentence, and you can often drop the subject \"I\".",
+      "tamil_parallel_en": "நாளை வேலை செய்வேன் \"I will work tomorrow\" / புதன்கிழமை வேலை செய்வதில்லை \"I don't work on Wednesdays\" = 明日 働きます。/ 水曜日は 働きません。 Where Tamil uses separate future and habitual forms, Japanese uses one ます form for both.",
+      "formation_en": "V (ます-form): 起きます → 起きません ; 寝ます → 寝ません ; 働きます → 働きません",
+      "pitfalls_en": "The 〜ます form does not change for \"I / you / he\". Tamil changes the ending, as in \"செய்கிறேன்\" (I do) / \"செய்கிறார்\" (he does), but Japanese does not; 働きます is the same for everyone. Don't confuse ません with じゃありません; that one is for nouns."
+    },
+    "g04-3": {
+      "explanation_en": "For the past tense, ます → ました: 起きました (I got up), 寝ました (I slept), 働きました (I worked). For the past negative, ません + でした = ませんでした: 働きませんでした (I didn't work). Just as Tamil adds the tense inside the verb, as in \"செய்-த்-ஏன்\" (I did), in Japanese the tense shows only in the verb ending. With time words such as \"yesterday\" and \"last night\", the past form is required.",
+      "tamil_parallel_en": "நேற்று வேலை செய்தேன் \"I worked yesterday\" / நேற்று வேலை செய்யவில்லை \"I didn't work yesterday\" = 昨日 働きました。/ 昨日 働きませんでした。 Like Tamil, tense and negation are both carried by the verb ending.",
+      "formation_en": "V ます → V ました ; V ません → V ませんでした",
+      "pitfalls_en": "A double past like 「働きましたでした」 is wrong. The past negative ませんでした is one unit; don't write ませんした."
+    },
+    "g04-4": {
+      "explanation_en": "To say the specific time an action happens, put に after the time: 「六時に 起きます」 = \"I get up at six o'clock\" (ஆறு மணிக்கு எழுந்திருக்கிறேன்). に is the \"-க்கு\" (at) in the Tamil \"ஆறு மணி-க்கு\". You can also put に after days of the week: 「日曜日に」 = on Sunday (ஞாயிற்றுக்கிழமையன்று). But you must not put に after relative time words such as 今日, 明日, 昨日, 毎日, 毎朝, 毎晩, 今, 朝 and 晩. Be careful here: spoken Tamil often says \"நாளைக்கு\" (tomorrow, with \"-க்கு\"), but Japanese never says 明日に; just say 明日 働きます. Time with a number → に; relative word with no number → no に.",
+      "tamil_parallel_en": "ஆறு மணிக்கு எழுந்திருக்கிறேன் \"I get up at six o'clock\" = 六時に 起きます。 Here に is roughly the Tamil \"-க்கு\" (at) on a time.",
+      "formation_en": "Time (number / day of the week) + に + V ; 今日・明日・毎日 + V (no に)",
+      "pitfalls_en": "「明日に」「毎日に」「今に」 are wrong. In 「毎朝 七時に」, 毎朝 takes no に; only 七時, which has a number, takes に."
+    },
+    "g04-5": {
+      "explanation_en": "から = \"from\" (-இலிருந்து / முதல்), まで = \"until / to\" (வரை). 「九時から 五時まで 働きます」 = \"I work from nine o'clock to five o'clock\" (ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்). Like the Tamil \"-இலிருந்து\" and \"-வரை\", they attach after the noun, and the order is the same as Tamil. You can use them together or on their own. For shop or bank hours, you can end directly with です: 「銀行は 九時から 三時までです」, just as Tamil says \"வங்கி ஒன்பது முதல் மூன்று வரை\" (the bank is from nine to three).",
+      "tamil_parallel_en": "ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன் \"I work from nine to five\" = 九時から 五時まで 働きます。 Here から is roughly \"-இலிருந்து\" (from) and まで is \"-வரை\" (until), in the same order as Tamil.",
+      "formation_en": "N1 + から + N2 + まで + V / です",
+      "pitfalls_en": "Don't add に after から / まで (「九時からに」 is wrong). まで means only \"until\"; the meaning \"by (a deadline)\" is a different form (in a later lesson)."
+    },
+    "g04-6": {
+      "explanation_en": "To join two nouns with \"and\", use と: 「土曜日と 日曜日」 = Saturday and Sunday (சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும்). In Tamil we add \"-உம்\" to both, as in \"சனி-யும் ஞாயிறு-ம்\"; in Japanese と comes only after the first noun. と only joins nouns; it does not join two sentences or verbs. Don't confuse it with も (too / also): と = \"and\" in a list, も = \"this one too\".",
+      "tamil_parallel_en": "சனிக்கிழமையும் ஞாயிற்றுக்கிழமையும் \"Saturday and Sunday\" = 土曜日と 日曜日. Tamil puts \"-உம்\" on both nouns, but Japanese と goes only after the first.",
+      "formation_en": "N1 + と + N2",
+      "pitfalls_en": "Avoid the Tamil habit of adding と at the end too, as in 「土曜日と 日曜日と」. You cannot join verbs with と, as in \"I get up and work\"."
+    },
+    "g04-7": {
+      "explanation_en": "Adding ね at the end of a sentence means \"…, isn't it? / …, right?\"; you say it expecting the listener to agree. It is like the Tamil \"-தானே / இல்லையா\" in \"இன்று திங்கள், இல்லையா?\" (Today is Monday, isn't it?) or \"சீக்கிரம்தானே!\" (It's early, isn't it!). ね is also used to agree with what someone else said: 「そうですね」 (\"Yes, that's right\"). か (question) is for when you don't know the answer; ね is for when you more or less know the answer and want to confirm it.",
+      "tamil_parallel_en": "இன்று திங்கள்தானே? \"Today is Monday, isn't it?\" = 今日は 月曜日ですね。 Here ね is roughly the Tamil \"-தானே / இல்லையா\" (isn't it).",
+      "formation_en": "Sentence (です / ます) + ね",
+      "pitfalls_en": "For information you are asking about for the first time, use か, not ね. Overusing ね makes your speech sound a bit pushy."
+    },
+    "g04-8": {
+      "explanation_en": "All the days of the week end in 〜曜日 (ようび): 月曜日 (திங்கள், Monday; moon), 火曜日 (செவ்வாய், Tuesday; fire), 水曜日 (புதன், Wednesday; water), 木曜日 (வியாழன், Thursday; tree), 金曜日 (வெள்ளி, Friday; metal), 土曜日 (சனி, Saturday; earth), 日曜日 (ஞாயிறு, Sunday; sun). Just as Tamil days are named after heavenly bodies (திங்கள் = moon, ஞாயிறு = sun, செவ்வாய் = Mars), Japanese days are named after planets too. Even the match \"வெள்ளி\" (Friday) = Venus = 金星 is the same! \"What day?\" = 何曜日 (なんようび). 毎 (まい) = \"every\": 毎日 (every day, தினமும்), 毎朝 (every morning), 毎晩 (every night). It is a prefix like the Tamil \"தின-\" (daily). These words don't take に.",
+      "tamil_parallel_en": "தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன் \"I get up at six every morning\" = 毎朝 六時に 起きます。 Here 毎 is roughly the Tamil \"தின- / ஒவ்வொரு\" (daily / every). Like Tamil weekday names, the Japanese ones come from the moon, sun and planets.",
+      "formation_en": "(月・火・水・木・金・土・日) + 曜日 ; 毎 + 日 / 朝 / 晩",
+      "pitfalls_en": "火曜日 is かようび (か, not が); 金曜日 is きんようび (not ぎん; ぎん = 銀, as in 銀行, bank). Don't add に, as in 毎日に or 毎晩に."
+    }
+  },
+  "items": {
+    "L04-q01": "午後 = ごご (பிற்பகல், afternoon / p.m.). Both are short ご; stretching it to ごうご or changing the sound to ごこ is wrong.",
+    "L04-q02": "毎朝 = まいあさ (தினமும் காலை, every morning). 朝 on its own is あさ; ちょう is a reading used in other words and doesn't fit here.",
+    "L04-q03": "昨日 = きのう (நேற்று, yesterday), a special one-off reading. Don't drop the long う sound at the end.",
+    "L04-q04": "よる = 夜 (இரவு, night). 液 has an extra 氵 (water) on the left; 役 is a different character.",
+    "L04-q05": "げつようび = 月曜日 (திங்கள், Monday). 躍 and 耀 look like 曜 but are different characters; 目 (கண், eye) in place of 日 is also a trap.",
+    "L04-q06": "\"What time is it now?\" (இப்போது மணி என்ன?) = 今 何時ですか. The answer uses です in the present tense, so きのう (நேற்று, yesterday) doesn't fit.",
+    "L04-q07": "What you naturally do at eleven at night is go to bed (寝ます, தூங்குகிறேன்). 起きます (getting up) is a morning action.",
+    "L04-q08": "If today is Saturday, Sunday is \"tomorrow\" (明日, நாளை). 昨日 (நேற்று, yesterday) would be Friday.",
+    "L04-q09": "Seven hours and thirty minutes = 七時半 (ஏழரை, half past seven). ふん means minutes and needs a number before it.",
+    "L04-q10": "Nine in the morning = 午前 九時 (a.m., காலை). 午後 / 夜 would mean nine at night, and the bank isn't open then.",
+    "L04-q11": "Monday to Sunday = every day (毎日, தினமும்). 一日 means \"a whole day\" and doesn't give the meaning \"the whole week\".",
+    "L04-q12": "\"I didn't work yesterday\" is closest to \"I didn't work all day yesterday\" (நேற்று நாள் முழுவதும் வேலை செய்யவில்லை). 明日 / 今日 change the day; 働きました is the opposite.",
+    "L04-q13": "The 24-hour clock is also common in Japan: 午後 五時 = 十七時 (5 p.m. = 17:00). The other options swap 午前 / 午後 or から / まで.",
+    "L04-q14": "毎朝 = \"every morning\" (தினமும் காலை) = 毎日 朝. 今日 起きました means \"today only\", a one-time event.",
+    "L04-q15": "A specific time with a number → に (Tamil \"-க்கு\", at). から would mean \"I get up from six o'clock\", which makes no sense.",
+    "L04-q16": "まで (வரை, until) pairs with から (from). に would make it a single point in time, \"at five o'clock\".",
+    "L04-q17": "To join two nouns with \"and\", use と. の would mean \"Saturday's Sunday\", which makes no sense.",
+    "L04-q18": "Because of 昨日 (நேற்று, yesterday), the past tense 寝ました (தூங்கினேன், I slept) is needed. 寝ます is present/future; 寝ましたか is a question form, and this is not a question.",
+    "L04-q19": "いいえ + past negative = 働きませんでした (வேலை செய்யவில்லை, I didn't work). 働きません is the present negative and doesn't fit \"yesterday\".",
+    "L04-q20": "A relative time word like 明日 (நாளை, tomorrow) doesn't take に; you can mark it as the topic with は (or use nothing). 「明日に」 is a common mistake.",
+    "L04-q21": "The reply is the agreement 「そうですね」, so the speaker used ね (\"isn't it?\", இல்லையா) to confirm. With か the reply would start with はい / いいえ.",
+    "L04-q22": "私は 毎朝 七時に 起きます。 — relative time word → time with number + に → verb. 七時 goes in the ★ slot.",
+    "L04-q23": "銀行は 九時から 三時までです。 — the start time goes before から and the end time before まで. 三時 goes in the ★ slot.",
+    "L04-q24": "昨日の 晩 何時に 寝ましたか。 — \"last night\" → \"at what time\" → verb. 何時に goes in the ★ slot.",
+    "L04-q25": "［1］ から pairs with まで (from Monday, திங்கள் முதல்). ［2］ It is about last night, so the past tense 寝ました (தூங்கினேன், I slept). ［3］ The time to get up and go to work in the morning: seven in the morning = 午前 七時."
+  }
+}

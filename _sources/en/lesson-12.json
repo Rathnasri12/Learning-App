@@ -1,0 +1,69 @@
+{
+  "lesson": 12,
+  "intro_en": "In this lesson you will learn to describe states in the past, such as \"it rained yesterday\" and \"the winter was very cold\". Then you will learn to compare things: \"a plane is faster than a train\", \"which of the two do you like?\" and \"which is the best of all?\". Many new adjectives about weather, seasons, taste and weight also appear in this lesson.",
+  "grammar": {
+    "g12-1": {
+      "explanation_en": "In Tamil we can say \"yesterday, rain\" without any verb (நேற்று மழை). But to give the past meaning \"it was rainy yesterday\" in Japanese, you change です to でした: 昨日は雨でした. The negative past is じゃありませんでした (\"was not\"): 昨日は休みじゃありませんでした. The same rule applies to な-adjectives (静か、きれい、にぎやか、便利、有名), because they behave just like nouns: 町はにぎやかでした / きれいじゃありませんでした. To ask a question, just add か: でしたか. Remember the four forms together: です / じゃありません / でした / じゃありませんでした.",
+      "tamil_parallel_en": "நேற்று விடுமுறையாக இருந்தது (\"Yesterday was a holiday\") = 昨日は休みでした; விடுமுறையாக இல்லை (\"was not a holiday\") = 休みじゃありませんでした. Tamil shows the past with இருந்தது; Japanese shows it with でした.",
+      "formation_en": "N / な-adj + でした (past, affirmative)\nN / な-adj + じゃありませんでした (past, negative); alternative: ではありませんでした\nQuestion: 〜でしたか",
+      "pitfalls_en": "The main mistake is mixed forms like 雨でしたじゃありません. The negative past is always じゃありませんでした and nothing else."
+    },
+    "g12-2": {
+      "explanation_en": "い-adjectives are not like nouns; like Tamil verbs, they change their own tense. Remove the final い and add かった to make the past: 寒い → 寒かった (\"was cold\"). For politeness add です: 寒かったです. The negative past changes い → くなかった: 寒くなかったです (\"was not cold\"). Here です itself does not change, so 寒いでした and 寒かったでした are both wrong. Only いい is irregular: よかったです / よくなかったです. In Tamil, a separate verb shows the tense (குளிராக இருந்தது, was cold; குளிராக இல்லை, was not cold); in Japanese, the ending of the adjective itself shows the tense.",
+      "tamil_parallel_en": "நேற்று குளிராக இருந்தது (\"It was cold yesterday\") = 昨日は寒かったです; குளிராக இல்லை (\"was not cold\") = 寒くなかったです. Where Tamil uses the verb இருந்தது, Japanese changes い → かった / くなかった.",
+      "formation_en": "い-adj (drop い) + かったです: 暑い → 暑かったです\nい-adj (drop い) + くなかったです: 暑い → 暑くなかったです (alternative: 暑くありませんでした)\nいい → よかったです / よくなかったです\nQuestion: 〜かったですか",
+      "pitfalls_en": "寒いでした is a mistake Tamil speakers often make: でした never goes with an い-adjective. The past of いい is not いかった but よかった."
+    },
+    "g12-3": {
+      "explanation_en": "To compare two things, you use より, the direct equivalent of Tamil \"than\" (-ஐ விட). 飛行機は電車より速いです = \"A plane is faster than a train\" (விமானம் ரயிலை விட வேகமானது). The order matches Tamil exactly: first the topic (は), then the thing you compare with + より (-ஐ விட), and the adjective at the end. Unlike English, you don't need a separate word like \"more\"; the adjective stays as it is. The negative and the question use the same structure: 〜より重くないです, 〜より速いですか.",
+      "tamil_parallel_en": "விமானம் ரயிலை விட வேகமானது (\"A plane is faster than a train\") = 飛行機は電車より速いです. より works exactly like Tamil -ஐ விட, in the same position.",
+      "formation_en": "N1 + は + N2 + より + adj + です\nN1 + は + N2 + より + い-adj くないです / な-adj じゃありません",
+      "pitfalls_en": "You don't need words like もっと after より; don't try to translate \"more\". Using と, as in N1 と N2 より, is also wrong."
+    },
+    "g12-4": {
+      "explanation_en": "To ask which of two things, use the pattern \"N1 と N2 と どちらが 〜ですか\": 夏と冬とどちらが好きですか = \"Summer and winter: which do you like?\". Don't drop the second と (people sometimes drop it in speech, but it appears in the exam). For \"which of two\" always use どちら (polite), or どっち in casual speech; even for people or places it is still どちら. In the answer, use \"N のほうが 〜です\". ほう means \"side\": 夏のほうが好きです = \"I like summer (better)\". If both are equal, say どちらも 〜です (both). It is just like asking \"which of these?\" in Tamil (இதில் எது?) and answering with emphasis, \"this one\" (இது தான்).",
+      "tamil_parallel_en": "கோடையும் குளிர்காலமும், எது பிடிக்கும்? (\"Summer or winter, which do you like?\") = 夏と冬とどちらが好きですか; கோடை தான் பிடிக்கும் (\"I like summer\") = 夏のほうが好きです. のほうが gives the same emphasis as Tamil தான்.",
+      "formation_en": "N1 + と + N2 + と + どちらが + adj + ですか\nAnswer: N + のほうが + adj + です\nBoth: どちらも + adj + です",
+      "pitfalls_en": "When asking which of two, don't use どれ (that is for three or more); use only どちら. In the answer, don't say 夏がほうが with が; say 夏のほうが with の."
+    },
+    "g12-5": {
+      "explanation_en": "To say \"the most\" among three or more things, use 一番 (いちばん = \"number one, most\"). Name the group with N の中で (\"among N\"), then say \"X が 一番 adj です\": 飲み物の中でお茶が一番好きです = \"Among drinks, I like tea the most\". In Tamil, the \"among\" ending (-இல், as in பானங்களில், among drinks) is の中で, and \"most / more than all\" (மிகவும் / எல்லாவற்றையும் விட) is 一番. To ask, use a question word + が: 何 for things, どこ for places, 誰 for people, いつ for times. どちら is not used here (it is only for two). 一番 comes directly before the adjective.",
+      "tamil_parallel_en": "பானங்களில் டீ தான் மிகவும் பிடிக்கும் (\"Among drinks, I like tea the most\") = 飲み物の中でお茶が一番好きです. の中で matches Tamil -களில் (\"among\"), and 一番 matches மிகவும் (\"most\").",
+      "formation_en": "N (group) + の中で + 〔何 / どこ / 誰 / いつ〕 + が + 一番 + adj + ですか\nAnswer: N + が + 一番 + adj + です",
+      "pitfalls_en": "When there are more than two, don't ask with どちら; use 何 / どこ / 誰 / いつ. Don't put 一番 at the start of the sentence; place it directly before the adjective."
+    },
+    "g12-6": {
+      "explanation_en": "Instead of repeating a thing you have already talked about, add の after an adjective to mean \"the one\": この赤いの = \"this red one\", 大きいの = \"the big one\". This is the exact equivalent of the Tamil ending that turns \"the big clock\" (பெரிய கடிகாரம்) into \"the big one\" (பெரியது, with -து). An い-adjective takes の directly (軽いの); a な-adjective keeps な before の (きれいなの、静かなの). Just like 私の (mine) from Lesson 2, の stands in the place of a noun here, so が, を, は and so on can all follow it: 黒いのを買いました.",
+      "tamil_parallel_en": "சிவப்பானது பிடிக்கும் (\"I like the red one\") = 赤いのが好きです. Adjective + の works like Tamil adjective + அது / -து (\"the ... one\").",
+      "formation_en": "い-adj + の: 大きいの、安いの\nな-adj + な + の: きれいなの、便利なの\nこの / その / あの + adj + の: この赤いの\n(+ が / を / は …)",
+      "pitfalls_en": "Don't forget な after a な-adjective: きれいの is wrong, きれいなの is correct. When the noun is not already known, don't use の; say the noun itself."
+    }
+  },
+  "items": {
+    "L12-q01": "雨 = あめ (மழை, rain). あま is the reading of 雨 inside compound words; on its own it is あめ.",
+    "L12-q02": "近い = ちかい (அருகில், near). とおい is 遠い (தூரம், far), the opposite; ちがい is a mistake with a changed sound.",
+    "L12-q03": "冬 = ふゆ (குளிர்காலம், winter). なつ is 夏 (கோடை, summer); ふゆう is a mistake with an added long sound.",
+    "L12-q04": "A book being \"thick\" = 厚い (தடிமனானது, thick). There are three different kanji read あつい: 暑い (hot weather), 熱い (hot to the touch) and 厚い (thick).",
+    "L12-q05": "Fast = 速い (வேகம், fast). 早い (Lesson 4) means \"early in time\"; for the speed of a plane, use 速い. 連 and 束 are look-alike characters.",
+    "L12-q06": "\"Very hot\" means the sky is clear and sunny = 晴れ (வெயில், sunny). With 雨 or 雪, it would not be hot.",
+    "L12-q07": "\"Not heavy\" = light → 軽い (இலேசானது, light). 薄い (மெல்லிய, thin) does not describe weight.",
+    "L12-q08": "Neither hot nor cold = lukewarm → 温い (ぬるい, இளஞ்சூடு, lukewarm). 冷たい has already been ruled out.",
+    "L12-q09": "Indian food is spicy = 辛い (காரமானது, spicy). The others (heavy, far, slow) don't describe the taste of food.",
+    "L12-q10": "\"Very quiet\" means few people → 少ない (குறைவு, few). 多い (அதிகம், many) is the opposite.",
+    "L12-q11": "\"Doesn't work\" → a day off = 休み (விடுமுறை, holiday). The seasons (春、夏) don't fit here.",
+    "L12-q12": "\"The train is faster than the bus\" = \"the bus is slower than the train\". When you swap the nouns before and after より, you must also swap the adjective for its opposite.",
+    "L12-q13": "\"Not cold\" = \"it was pleasantly warm\" → 暖かかったです (இதமாக இருந்தது, was warm). 冷たい is for the coldness of objects; we don't use it for weather.",
+    "L12-q14": "易しい (எளிது, easy) = 難しくない (கடினமில்லை, not difficult). 厚くない (தடிமனில்லை, not thick) has a different meaning.",
+    "L12-q15": "雨 (மழை, rain) is a noun, so its past is でした. かったです is only for い-adjectives.",
+    "L12-q16": "The past of an い-adjective: い → かったです. 暑いでした is a mistake Tamil speakers often make; でした does not go here.",
+    "L12-q17": "The negative past of an い-adjective: くなかったです. じゃありませんでした is only for nouns and な-adjectives.",
+    "L12-q18": "\"Than\" = より (-ஐ விட). ほう appears in answers as のほうが; it doesn't go after the thing you compare with.",
+    "L12-q19": "Which of two = どちら (இரண்டில் எது). どれ is for three or more.",
+    "L12-q20": "\"When\" in the year = いつ (எப்போது). 一年の中で is a group of many months; どちら is only for two.",
+    "L12-q21": "黒いの = \"the black one\" (கருப்பானது); の replaces かばん. A particle cannot come directly after an adjective, as in 黒いを.",
+    "L12-q22": "日本語は英語より難しいです (ஜப்பானிய மொழி ஆங்கிலத்தை விட கடினம், Japanese is harder than English): the thing compared with (英語) + より + adjective + です.",
+    "L12-q23": "N1と N2と どちらが 〜ですか: どちらが comes after the second と.",
+    "L12-q24": "家族の中で誰が一番料理が上手ですか (குடும்பத்தில் யார் மிகவும் நன்றாகச் சமைப்பார்?, who in the family cooks best?): group (の中で) → question word + が → 一番 → adjective.",
+    "L12-q25": "[1] 晴れ (வெயில், sunny) is a noun, so its past is 晴れでした. [2] 冷たい (குளிர்ச்சி, cold) is an い-adjective, so its past is 冷たかったです; 冷たいでした is wrong. [3] For a comparison, \"than\" = より (-ஐ விட)."
+  }
+}

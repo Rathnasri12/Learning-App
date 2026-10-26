@@ -1,140 +1,791 @@
 {
   "lesson": 12,
-  "title": { "ja": "どちらが好きですか", "ta": "எது பிடிக்கும்?", "en": "Which do you prefer?" },
+  "title": {
+    "ja": "どちらが好きですか",
+    "ta": "எது பிடிக்கும்?",
+    "en": "Which do you prefer?"
+  },
   "intro_ta": "இந்தப் பாடத்தில் 'நேற்று மழை பெய்தது', 'குளிர்காலம் கடுங்குளிராக இருந்தது' என்று கடந்த காலத்தில் நிலையைச் சொல்லக் கற்போம். பின்னர் 'ரயிலை விட விமானம் வேகம்', 'இரண்டில் எது பிடிக்கும்?', 'எல்லாவற்றிலும் எது சிறந்தது?' என்று ஒப்பிட்டுப் பேசுவோம். வானிலை, பருவங்கள், சுவை, எடை பற்றிய பல புதிய பெயரடைகளும் இந்தப் பாடத்தில் வரும்.",
+  "intro_en": "In this lesson you will learn to describe states in the past, such as \"it rained yesterday\" and \"the winter was very cold\". Then you will learn to compare things: \"a plane is faster than a train\", \"which of the two do you like?\" and \"which is the best of all?\". Many new adjectives about weather, seasons, taste and weight also appear in this lesson.",
   "grammar": [
     {
       "id": "g12-1",
       "pattern": "N / な-adj でした / じゃありませんでした",
-      "name": { "en": "Past of nouns and な-adjectives", "ta": "பெயர்ச்சொல், な-பெயரடை: கடந்த காலம்" },
+      "name": {
+        "en": "Past of nouns and な-adjectives",
+        "ta": "பெயர்ச்சொல், な-பெயரடை: கடந்த காலம்"
+      },
       "explanation_ta": "'நேற்று மழை' என்று தமிழில் வினைச்சொல் இல்லாமல் சொல்லிவிடுவோம்; ஆனால் 'நேற்று மழையாக இருந்தது' என்ற கடந்த காலப் பொருளை ஜப்பானியத்தில் です-ஐ でした ஆக மாற்றிச் சொல்கிறோம்: 昨日は雨でした. எதிர்மறைக் கடந்த காலம் じゃありませんでした ('ஆக இல்லை' – கடந்த காலம்): 昨日は休みじゃありませんでした. இதே விதி な-பெயரடைகளுக்கும் (静か、きれい、にぎやか、便利、有名) பொருந்தும், ஏனெனில் அவை பெயர்ச்சொல் போலவே நடக்கின்றன: 町はにぎやかでした / きれいじゃありませんでした. கேள்வி கேட்க でしたか சேர்த்தால் போதும். நான்கு வடிவங்களை ஒன்றாக நினைவில் வையுங்கள்: です / じゃありません / でした / じゃありませんでした.",
+      "explanation_en": "In Tamil we can say \"yesterday, rain\" without any verb (நேற்று மழை). But to give the past meaning \"it was rainy yesterday\" in Japanese, you change です to でした: 昨日は雨でした. The negative past is じゃありませんでした (\"was not\"): 昨日は休みじゃありませんでした. The same rule applies to な-adjectives (静か、きれい、にぎやか、便利、有名), because they behave just like nouns: 町はにぎやかでした / きれいじゃありませんでした. To ask a question, just add か: でしたか. Remember the four forms together: です / じゃありません / でした / じゃありませんでした.",
       "tamil_parallel": "நேற்று விடுமுறையாக இருந்தது = 昨日は休みでした; விடுமுறையாக இல்லை = 休みじゃありませんでした",
+      "tamil_parallel_en": "நேற்று விடுமுறையாக இருந்தது (\"Yesterday was a holiday\") = 昨日は休みでした; விடுமுறையாக இல்லை (\"was not a holiday\") = 休みじゃありませんでした. Tamil shows the past with இருந்தது; Japanese shows it with でした.",
       "formation": "N / な-adj + でした (கடந்த காலம், உறுதி)\nN / な-adj + じゃありませんでした (கடந்த காலம், எதிர்மறை) — மாற்று: ではありませんでした\nகேள்வி: 〜でしたか",
+      "formation_en": "N / な-adj + でした (past, affirmative)\nN / な-adj + じゃありませんでした (past, negative); alternative: ではありませんでした\nQuestion: 〜でしたか",
       "examples": [
-        { "ja": "昨日は雨でした。", "reading": "きのうは あめでした。", "romaji": "kinou wa ame deshita.", "ta": "நேற்று மழை பெய்தது.", "en": "It rained yesterday." },
-        { "ja": "先週の土曜日は晴れでしたか。— いいえ、曇りでした。", "reading": "せんしゅうの どようびは はれでしたか。— いいえ、くもりでした。", "romaji": "senshuu no doyoubi wa hare deshita ka. — iie, kumori deshita.", "ta": "போன சனிக்கிழமை வானம் தெளிவாக இருந்ததா? — இல்லை, மேகமூட்டமாக இருந்தது.", "en": "Was it clear last Saturday? — No, it was cloudy." },
-        { "ja": "昨日の町はとてもにぎやかでした。", "reading": "きのうの まちは とても にぎやかでした。", "romaji": "kinou no machi wa totemo nigiyaka deshita.", "ta": "நேற்று ஊர் மிகவும் பரபரப்பாக இருந்தது.", "en": "The town was very lively yesterday." },
-        { "ja": "その店は静かじゃありませんでした。", "reading": "その みせは しずかじゃありませんでした。", "romaji": "sono mise wa shizuka ja arimasen deshita.", "ta": "அந்தக் கடை அமைதியாக இல்லை.", "en": "That shop was not quiet." },
-        { "ja": "先月までは学生でした。", "reading": "せんげつまでは がくせいでした。", "romaji": "sengetsu made wa gakusei deshita.", "ta": "போன மாதம் வரை மாணவனாக இருந்தேன்.", "en": "Until last month I was a student." },
-        { "ja": "昨日は休みじゃありませんでした。", "reading": "きのうは やすみじゃありませんでした。", "romaji": "kinou wa yasumi ja arimasen deshita.", "ta": "நேற்று விடுமுறை இல்லை.", "en": "Yesterday was not a holiday." }
+        {
+          "ja": "昨日は雨でした。",
+          "reading": "きのうは あめでした。",
+          "romaji": "kinou wa ame deshita.",
+          "ta": "நேற்று மழை பெய்தது.",
+          "en": "It rained yesterday."
+        },
+        {
+          "ja": "先週の土曜日は晴れでしたか。— いいえ、曇りでした。",
+          "reading": "せんしゅうの どようびは はれでしたか。— いいえ、くもりでした。",
+          "romaji": "senshuu no doyoubi wa hare deshita ka. — iie, kumori deshita.",
+          "ta": "போன சனிக்கிழமை வானம் தெளிவாக இருந்ததா? — இல்லை, மேகமூட்டமாக இருந்தது.",
+          "en": "Was it clear last Saturday? — No, it was cloudy."
+        },
+        {
+          "ja": "昨日の町はとてもにぎやかでした。",
+          "reading": "きのうの まちは とても にぎやかでした。",
+          "romaji": "kinou no machi wa totemo nigiyaka deshita.",
+          "ta": "நேற்று ஊர் மிகவும் பரபரப்பாக இருந்தது.",
+          "en": "The town was very lively yesterday."
+        },
+        {
+          "ja": "その店は静かじゃありませんでした。",
+          "reading": "その みせは しずかじゃありませんでした。",
+          "romaji": "sono mise wa shizuka ja arimasen deshita.",
+          "ta": "அந்தக் கடை அமைதியாக இல்லை.",
+          "en": "That shop was not quiet."
+        },
+        {
+          "ja": "先月までは学生でした。",
+          "reading": "せんげつまでは がくせいでした。",
+          "romaji": "sengetsu made wa gakusei deshita.",
+          "ta": "போன மாதம் வரை மாணவனாக இருந்தேன்.",
+          "en": "Until last month I was a student."
+        },
+        {
+          "ja": "昨日は休みじゃありませんでした。",
+          "reading": "きのうは やすみじゃありませんでした。",
+          "romaji": "kinou wa yasumi ja arimasen deshita.",
+          "ta": "நேற்று விடுமுறை இல்லை.",
+          "en": "Yesterday was not a holiday."
+        }
       ],
-      "pitfalls_ta": "முக்கியத் தவறு: 雨でしたじゃありません போன்ற கலப்பு வடிவங்கள்; எதிர்மறைக் கடந்த காலம் எப்போதும் じゃありませんでした மட்டுமே."
+      "pitfalls_ta": "முக்கியத் தவறு: 雨でしたじゃありません போன்ற கலப்பு வடிவங்கள்; எதிர்மறைக் கடந்த காலம் எப்போதும் じゃありませんでした மட்டுமே.",
+      "pitfalls_en": "The main mistake is mixed forms like 雨でしたじゃありません. The negative past is always じゃありませんでした and nothing else."
     },
     {
       "id": "g12-2",
       "pattern": "い-adj 〜かったです / 〜くなかったです",
-      "name": { "en": "Past of い-adjectives", "ta": "い-பெயரடை: கடந்த காலம்" },
+      "name": {
+        "en": "Past of い-adjectives",
+        "ta": "い-பெயரடை: கடந்த காலம்"
+      },
       "explanation_ta": "い-பெயரடைகள் பெயர்ச்சொல் போல் அல்ல, தமிழ் வினைச்சொல் போல் தாங்களே காலத்தை மாற்றிக் கொள்கின்றன. கடைசி い-ஐ எடுத்துவிட்டு かった சேர்த்தால் கடந்த காலம்: 寒い → 寒かった (குளிராக இருந்தது); மரியாதைக்கு です சேர்க்கவும்: 寒かったです. எதிர்மறைக் கடந்த காலம்: い → くなかった: 寒くなかったです (குளிராக இல்லை). இங்கே です மாறாது — 寒いでした、寒かったでした என்பவை எல்லாம் தவறு. いい மட்டும் ஒழுங்கற்றது: よかったです / よくなかったです. தமிழில் 'குளிராக இருந்தது / குளிராக இல்லை' என்று 'இருந்தது' என்ற வினைச்சொல் காலத்தைக் காட்டுவது போல, ஜப்பானியத்தில் பெயரடையின் முனையே காலத்தைக் காட்டுகிறது.",
+      "explanation_en": "い-adjectives are not like nouns; like Tamil verbs, they change their own tense. Remove the final い and add かった to make the past: 寒い → 寒かった (\"was cold\"). For politeness add です: 寒かったです. The negative past changes い → くなかった: 寒くなかったです (\"was not cold\"). Here です itself does not change, so 寒いでした and 寒かったでした are both wrong. Only いい is irregular: よかったです / よくなかったです. In Tamil, a separate verb shows the tense (குளிராக இருந்தது, was cold; குளிராக இல்லை, was not cold); in Japanese, the ending of the adjective itself shows the tense.",
       "tamil_parallel": "நேற்று குளிராக இருந்தது = 昨日は寒かったです; குளிராக இல்லை = 寒くなかったです (い → かった / くなかった)",
+      "tamil_parallel_en": "நேற்று குளிராக இருந்தது (\"It was cold yesterday\") = 昨日は寒かったです; குளிராக இல்லை (\"was not cold\") = 寒くなかったです. Where Tamil uses the verb இருந்தது, Japanese changes い → かった / くなかった.",
       "formation": "い-adj (い எடுத்து) + かったです — 暑い → 暑かったです\nい-adj (い எடுத்து) + くなかったです — 暑い → 暑くなかったです (மாற்று: 暑くありませんでした)\nいい → よかったです / よくなかったです\nகேள்வி: 〜かったですか",
+      "formation_en": "い-adj (drop い) + かったです: 暑い → 暑かったです\nい-adj (drop い) + くなかったです: 暑い → 暑くなかったです (alternative: 暑くありませんでした)\nいい → よかったです / よくなかったです\nQuestion: 〜かったですか",
       "examples": [
-        { "ja": "昨日はとても寒かったです。", "reading": "きのうは とても さむかったです。", "romaji": "kinou wa totemo samukatta desu.", "ta": "நேற்று மிகவும் குளிராக இருந்தது.", "en": "It was very cold yesterday." },
-        { "ja": "日本の夏は暑かったですか。— はい、暑かったです。", "reading": "にほんの なつは あつかったですか。— はい、あつかったです。", "romaji": "nihon no natsu wa atsukatta desu ka. — hai, atsukatta desu.", "ta": "ஜப்பானின் கோடை வெப்பமாக இருந்ததா? — ஆம், வெப்பமாக இருந்தது.", "en": "Was summer in Japan hot? — Yes, it was hot." },
-        { "ja": "先週は忙しくなかったです。", "reading": "せんしゅうは いそがしくなかったです。", "romaji": "senshuu wa isogashikunakatta desu.", "ta": "போன வாரம் பிஸியாக இல்லை.", "en": "I was not busy last week." },
-        { "ja": "店の料理はおいしくなかったです。まずかったです。", "reading": "みせの りょうりは おいしくなかったです。まずかったです。", "romaji": "mise no ryouri wa oishikunakatta desu. mazukatta desu.", "ta": "கடையின் உணவு சுவையாக இல்லை. ருசியில்லாமல் இருந்தது.", "en": "The food at the shop was not tasty. It tasted bad." },
-        { "ja": "昨日の宿題は難しくなかったです。易しかったです。", "reading": "きのうの しゅくだいは むずかしくなかったです。やさしかったです。", "romaji": "kinou no shukudai wa muzukashikunakatta desu. yasashikatta desu.", "ta": "நேற்றைய வீட்டுப்பாடம் கடினமாக இல்லை. எளிதாக இருந்தது.", "en": "Yesterday's homework was not difficult. It was easy." },
-        { "ja": "昨日の映画はよかったですか。— いいえ、あまりよくなかったです。", "reading": "きのうの えいがは よかったですか。— いいえ、あまり よくなかったです。", "romaji": "kinou no eiga wa yokatta desu ka. — iie, amari yokunakatta desu.", "ta": "நேற்றைய படம் நன்றாக இருந்ததா? — இல்லை, அவ்வளவு நன்றாக இல்லை.", "en": "Was yesterday's film good? — No, it was not very good." }
+        {
+          "ja": "昨日はとても寒かったです。",
+          "reading": "きのうは とても さむかったです。",
+          "romaji": "kinou wa totemo samukatta desu.",
+          "ta": "நேற்று மிகவும் குளிராக இருந்தது.",
+          "en": "It was very cold yesterday."
+        },
+        {
+          "ja": "日本の夏は暑かったですか。— はい、暑かったです。",
+          "reading": "にほんの なつは あつかったですか。— はい、あつかったです。",
+          "romaji": "nihon no natsu wa atsukatta desu ka. — hai, atsukatta desu.",
+          "ta": "ஜப்பானின் கோடை வெப்பமாக இருந்ததா? — ஆம், வெப்பமாக இருந்தது.",
+          "en": "Was summer in Japan hot? — Yes, it was hot."
+        },
+        {
+          "ja": "先週は忙しくなかったです。",
+          "reading": "せんしゅうは いそがしくなかったです。",
+          "romaji": "senshuu wa isogashikunakatta desu.",
+          "ta": "போன வாரம் பிஸியாக இல்லை.",
+          "en": "I was not busy last week."
+        },
+        {
+          "ja": "店の料理はおいしくなかったです。まずかったです。",
+          "reading": "みせの りょうりは おいしくなかったです。まずかったです。",
+          "romaji": "mise no ryouri wa oishikunakatta desu. mazukatta desu.",
+          "ta": "கடையின் உணவு சுவையாக இல்லை. ருசியில்லாமல் இருந்தது.",
+          "en": "The food at the shop was not tasty. It tasted bad."
+        },
+        {
+          "ja": "昨日の宿題は難しくなかったです。易しかったです。",
+          "reading": "きのうの しゅくだいは むずかしくなかったです。やさしかったです。",
+          "romaji": "kinou no shukudai wa muzukashikunakatta desu. yasashikatta desu.",
+          "ta": "நேற்றைய வீட்டுப்பாடம் கடினமாக இல்லை. எளிதாக இருந்தது.",
+          "en": "Yesterday's homework was not difficult. It was easy."
+        },
+        {
+          "ja": "昨日の映画はよかったですか。— いいえ、あまりよくなかったです。",
+          "reading": "きのうの えいがは よかったですか。— いいえ、あまり よくなかったです。",
+          "romaji": "kinou no eiga wa yokatta desu ka. — iie, amari yokunakatta desu.",
+          "ta": "நேற்றைய படம் நன்றாக இருந்ததா? — இல்லை, அவ்வளவு நன்றாக இல்லை.",
+          "en": "Was yesterday's film good? — No, it was not very good."
+        }
       ],
-      "pitfalls_ta": "寒いでした என்பது தமிழர்கள் அடிக்கடி செய்யும் தவறு — い-பெயரடைக்கு でした வராது. いい-இன் கடந்த காலம் いかった அல்ல, よかった."
+      "pitfalls_ta": "寒いでした என்பது தமிழர்கள் அடிக்கடி செய்யும் தவறு — い-பெயரடைக்கு でした வராது. いい-இன் கடந்த காலம் いかった அல்ல, よかった.",
+      "pitfalls_en": "寒いでした is a mistake Tamil speakers often make: でした never goes with an い-adjective. The past of いい is not いかった but よかった."
     },
     {
       "id": "g12-3",
       "pattern": "N1 は N2 より adj です",
-      "name": { "en": "Comparison with より", "ta": "より கொண்டு ஒப்பிடுதல் (-ஐ விட)" },
+      "name": {
+        "en": "Comparison with より",
+        "ta": "より கொண்டு ஒப்பிடுதல் (-ஐ விட)"
+      },
       "explanation_ta": "இரண்டு பொருட்களை ஒப்பிட より பயன்படுத்துகிறோம்; இது தமிழின் '-ஐ விட' என்பதற்கு நேரடி இணை. 飛行機は電車より速いです = 'விமானம் ரயிலை விட வேகமானது'. வரிசையும் தமிழோடு அப்படியே ஒத்துப் போகிறது: முதலில் தலைப்பு (は), பின் ஒப்பிடும் பொருள் + より (-ஐ விட), கடைசியில் பெயரடை. ஆங்கிலத்தில் உள்ளது போல 'more' என்ற தனிச் சொல் தேவையில்லை; பெயரடை அப்படியே இருக்கும். எதிர்மறையிலும் கேள்வியிலும் அதே அமைப்பு: 〜より重くないです、〜より速いですか.",
+      "explanation_en": "To compare two things, you use より, the direct equivalent of Tamil \"than\" (-ஐ விட). 飛行機は電車より速いです = \"A plane is faster than a train\" (விமானம் ரயிலை விட வேகமானது). The order matches Tamil exactly: first the topic (は), then the thing you compare with + より (-ஐ விட), and the adjective at the end. Unlike English, you don't need a separate word like \"more\"; the adjective stays as it is. The negative and the question use the same structure: 〜より重くないです, 〜より速いですか.",
       "tamil_parallel": "விமானம் ரயிலை விட வேகமானது = 飛行機は電車より速いです (より = -ஐ விட)",
+      "tamil_parallel_en": "விமானம் ரயிலை விட வேகமானது (\"A plane is faster than a train\") = 飛行機は電車より速いです. より works exactly like Tamil -ஐ விட, in the same position.",
       "formation": "N1 + は + N2 + より + adj + です\nN1 + は + N2 + より + い-adj くないです / な-adj じゃありません",
+      "formation_en": "N1 + は + N2 + より + adj + です\nN1 + は + N2 + より + い-adj くないです / な-adj じゃありません",
       "examples": [
-        { "ja": "飛行機は電車より速いです。", "reading": "ひこうきは でんしゃより はやいです。", "romaji": "hikouki wa densha yori hayai desu.", "ta": "விமானம் ரயிலை விட வேகமானது.", "en": "A plane is faster than a train." },
-        { "ja": "今日は昨日より暖かいです。", "reading": "きょうは きのうより あたたかいです。", "romaji": "kyou wa kinou yori atatakai desu.", "ta": "இன்று நேற்றை விட இதமாக இருக்கிறது.", "en": "Today is warmer than yesterday." },
-        { "ja": "日本の冬はチェンナイの冬より寒いです。", "reading": "にほんの ふゆは チェンナイの ふゆより さむいです。", "romaji": "nihon no fuyu wa chennai no fuyu yori samui desu.", "ta": "ஜப்பானின் குளிர்காலம் சென்னையின் குளிர்காலத்தை விடக் குளிரானது.", "en": "Winter in Japan is colder than winter in Chennai." },
-        { "ja": "インドの料理は日本の料理より辛いです。", "reading": "インドの りょうりは にほんの りょうりより からいです。", "romaji": "indo no ryouri wa nihon no ryouri yori karai desu.", "ta": "இந்திய உணவு ஜப்பானிய உணவை விடக் காரமானது.", "en": "Indian food is spicier than Japanese food." },
-        { "ja": "電車はバスより速いですか。— はい、速いです。", "reading": "でんしゃは バスより はやいですか。— はい、はやいです。", "romaji": "densha wa basu yori hayai desu ka. — hai, hayai desu.", "ta": "ரயில் பஸ்ஸை விட வேகமா? — ஆம், வேகம்.", "en": "Is the train faster than the bus? — Yes, it is." },
-        { "ja": "このかばんはそのかばんより重くないです。", "reading": "この かばんは その かばんより おもくないです。", "romaji": "kono kaban wa sono kaban yori omokunai desu.", "ta": "இந்தப் பை அந்தப் பையை விடக் கனமாக இல்லை.", "en": "This bag is not heavier than that bag." }
+        {
+          "ja": "飛行機は電車より速いです。",
+          "reading": "ひこうきは でんしゃより はやいです。",
+          "romaji": "hikouki wa densha yori hayai desu.",
+          "ta": "விமானம் ரயிலை விட வேகமானது.",
+          "en": "A plane is faster than a train."
+        },
+        {
+          "ja": "今日は昨日より暖かいです。",
+          "reading": "きょうは きのうより あたたかいです。",
+          "romaji": "kyou wa kinou yori atatakai desu.",
+          "ta": "இன்று நேற்றை விட இதமாக இருக்கிறது.",
+          "en": "Today is warmer than yesterday."
+        },
+        {
+          "ja": "日本の冬はチェンナイの冬より寒いです。",
+          "reading": "にほんの ふゆは チェンナイの ふゆより さむいです。",
+          "romaji": "nihon no fuyu wa chennai no fuyu yori samui desu.",
+          "ta": "ஜப்பானின் குளிர்காலம் சென்னையின் குளிர்காலத்தை விடக் குளிரானது.",
+          "en": "Winter in Japan is colder than winter in Chennai."
+        },
+        {
+          "ja": "インドの料理は日本の料理より辛いです。",
+          "reading": "インドの りょうりは にほんの りょうりより からいです。",
+          "romaji": "indo no ryouri wa nihon no ryouri yori karai desu.",
+          "ta": "இந்திய உணவு ஜப்பானிய உணவை விடக் காரமானது.",
+          "en": "Indian food is spicier than Japanese food."
+        },
+        {
+          "ja": "電車はバスより速いですか。— はい、速いです。",
+          "reading": "でんしゃは バスより はやいですか。— はい、はやいです。",
+          "romaji": "densha wa basu yori hayai desu ka. — hai, hayai desu.",
+          "ta": "ரயில் பஸ்ஸை விட வேகமா? — ஆம், வேகம்.",
+          "en": "Is the train faster than the bus? — Yes, it is."
+        },
+        {
+          "ja": "このかばんはそのかばんより重くないです。",
+          "reading": "この かばんは その かばんより おもくないです。",
+          "romaji": "kono kaban wa sono kaban yori omokunai desu.",
+          "ta": "இந்தப் பை அந்தப் பையை விடக் கனமாக இல்லை.",
+          "en": "This bag is not heavier than that bag."
+        }
       ],
-      "pitfalls_ta": "より-க்குப் பின் もっと போன்ற சொற்கள் தேவையில்லை; 'more' என்பதை மொழிபெயர்க்க முயலாதீர்கள். N1 と N2 より என்று と போடுவதும் தவறு."
+      "pitfalls_ta": "より-க்குப் பின் もっと போன்ற சொற்கள் தேவையில்லை; 'more' என்பதை மொழிபெயர்க்க முயலாதீர்கள். N1 と N2 より என்று と போடுவதும் தவறு.",
+      "pitfalls_en": "You don't need words like もっと after より; don't try to translate \"more\". Using と, as in N1 と N2 より, is also wrong."
     },
     {
       "id": "g12-4",
       "pattern": "N1 と N2 と どちらが adj ですか / N のほうが",
-      "name": { "en": "Which of the two? / the X one", "ta": "இரண்டில் எது? / X தான்" },
+      "name": {
+        "en": "Which of the two? / the X one",
+        "ta": "இரண்டில் எது? / X தான்"
+      },
       "explanation_ta": "இரண்டு பொருட்களில் எது என்று கேட்க 'N1 と N2 と どちらが 〜ですか' என்ற அமைப்பு: 夏と冬とどちらが好きですか = 'கோடையும் குளிர்காலமும் — எது பிடிக்கும்?'. இரண்டாவது と-ஐ விடக்கூடாது (பேச்சில் விடுவதுண்டு, ஆனால் தேர்வில் இருக்கும்). இரண்டில் எது என்றால் எப்போதும் どちら (மரியாதையாக), பேச்சில் どっち; மனிதராக இருந்தாலும் இடமாக இருந்தாலும் どちら தான். பதிலில் 'N のほうが 〜です' — ほう என்பது 'பக்கம்' என்ற பொருள்; 夏のほうが好きです = 'கோடை (பக்கம்) தான் பிடிக்கும்'. இரண்டும் சமம் என்றால் どちらも 〜です (இரண்டும்). தமிழில் 'இதில் எது?' என்று கேட்டு 'இது தான்' என்று அழுத்திச் சொல்வது போலவே.",
+      "explanation_en": "To ask which of two things, use the pattern \"N1 と N2 と どちらが 〜ですか\": 夏と冬とどちらが好きですか = \"Summer and winter: which do you like?\". Don't drop the second と (people sometimes drop it in speech, but it appears in the exam). For \"which of two\" always use どちら (polite), or どっち in casual speech; even for people or places it is still どちら. In the answer, use \"N のほうが 〜です\". ほう means \"side\": 夏のほうが好きです = \"I like summer (better)\". If both are equal, say どちらも 〜です (both). It is just like asking \"which of these?\" in Tamil (இதில் எது?) and answering with emphasis, \"this one\" (இது தான்).",
       "tamil_parallel": "கோடையும் குளிர்காலமும், எது பிடிக்கும்? = 夏と冬とどちらが好きですか; கோடை தான் பிடிக்கும் = 夏のほうが好きです",
+      "tamil_parallel_en": "கோடையும் குளிர்காலமும், எது பிடிக்கும்? (\"Summer or winter, which do you like?\") = 夏と冬とどちらが好きですか; கோடை தான் பிடிக்கும் (\"I like summer\") = 夏のほうが好きです. のほうが gives the same emphasis as Tamil தான்.",
       "formation": "N1 + と + N2 + と + どちらが + adj + ですか\nபதில்: N + のほうが + adj + です\nஇரண்டும்: どちらも + adj + です",
+      "formation_en": "N1 + と + N2 + と + どちらが + adj + ですか\nAnswer: N + のほうが + adj + です\nBoth: どちらも + adj + です",
       "examples": [
-        { "ja": "夏と冬とどちらが好きですか。— 夏のほうが好きです。", "reading": "なつと ふゆと どちらが すきですか。— なつのほうが すきです。", "romaji": "natsu to fuyu to dochira ga suki desu ka. — natsu no hou ga suki desu.", "ta": "கோடையும் குளிர்காலமும், எது பிடிக்கும்? — கோடை தான் பிடிக்கும்.", "en": "Which do you like, summer or winter? — I prefer summer." },
-        { "ja": "バスと電車とどちらが速いですか。— 電車のほうが速いです。", "reading": "バスと でんしゃと どちらが はやいですか。— でんしゃのほうが はやいです。", "romaji": "basu to densha to dochira ga hayai desu ka. — densha no hou ga hayai desu.", "ta": "பஸ்ஸும் ரயிலும், எது வேகம்? — ரயில் தான் வேகம்.", "en": "Which is faster, the bus or the train? — The train is faster." },
-        { "ja": "紅茶とコーヒーとどちらがいいですか。— どちらもいいです。", "reading": "こうちゃと コーヒーと どちらが いいですか。— どちらも いいです。", "romaji": "koucha to koohii to dochira ga ii desu ka. — dochira mo ii desu.", "ta": "டீயா காபியா, எது வேண்டும்? — எதுவானாலும் சரி.", "en": "Which would you like, tea or coffee? — Either is fine." },
-        { "ja": "この時計とその時計とどちらが安いですか。— この時計のほうが安いです。", "reading": "この とけいと その とけいと どちらが やすいですか。— この とけいのほうが やすいです。", "romaji": "kono tokei to sono tokei to dochira ga yasui desu ka. — kono tokei no hou ga yasui desu.", "ta": "இந்தக் கடிகாரமும் அந்தக் கடிகாரமும், எது மலிவு? — இந்தக் கடிகாரம் தான் மலிவு.", "en": "Which is cheaper, this watch or that watch? — This watch is cheaper." },
-        { "ja": "春と秋とどちらが涼しいですか。", "reading": "はると あきと どちらが すずしいですか。", "romaji": "haru to aki to dochira ga suzushii desu ka.", "ta": "வசந்தமும் இலையுதிர் காலமும், எது குளிர்ச்சி?", "en": "Which is cooler, spring or autumn?" },
-        { "ja": "お母さんとお父さんとどちらが料理が上手ですか。— 母のほうが上手です。", "reading": "おかあさんと おとうさんと どちらが りょうりが じょうずですか。— ははのほうが じょうずです。", "romaji": "okaasan to otousan to dochira ga ryouri ga jouzu desu ka. — haha no hou ga jouzu desu.", "ta": "அம்மாவும் அப்பாவும், யார் சமையலில் திறமை? — அம்மா தான் திறமை.", "en": "Who is better at cooking, your mother or your father? — My mother is better." }
+        {
+          "ja": "夏と冬とどちらが好きですか。— 夏のほうが好きです。",
+          "reading": "なつと ふゆと どちらが すきですか。— なつのほうが すきです。",
+          "romaji": "natsu to fuyu to dochira ga suki desu ka. — natsu no hou ga suki desu.",
+          "ta": "கோடையும் குளிர்காலமும், எது பிடிக்கும்? — கோடை தான் பிடிக்கும்.",
+          "en": "Which do you like, summer or winter? — I prefer summer."
+        },
+        {
+          "ja": "バスと電車とどちらが速いですか。— 電車のほうが速いです。",
+          "reading": "バスと でんしゃと どちらが はやいですか。— でんしゃのほうが はやいです。",
+          "romaji": "basu to densha to dochira ga hayai desu ka. — densha no hou ga hayai desu.",
+          "ta": "பஸ்ஸும் ரயிலும், எது வேகம்? — ரயில் தான் வேகம்.",
+          "en": "Which is faster, the bus or the train? — The train is faster."
+        },
+        {
+          "ja": "紅茶とコーヒーとどちらがいいですか。— どちらもいいです。",
+          "reading": "こうちゃと コーヒーと どちらが いいですか。— どちらも いいです。",
+          "romaji": "koucha to koohii to dochira ga ii desu ka. — dochira mo ii desu.",
+          "ta": "டீயா காபியா, எது வேண்டும்? — எதுவானாலும் சரி.",
+          "en": "Which would you like, tea or coffee? — Either is fine."
+        },
+        {
+          "ja": "この時計とその時計とどちらが安いですか。— この時計のほうが安いです。",
+          "reading": "この とけいと その とけいと どちらが やすいですか。— この とけいのほうが やすいです。",
+          "romaji": "kono tokei to sono tokei to dochira ga yasui desu ka. — kono tokei no hou ga yasui desu.",
+          "ta": "இந்தக் கடிகாரமும் அந்தக் கடிகாரமும், எது மலிவு? — இந்தக் கடிகாரம் தான் மலிவு.",
+          "en": "Which is cheaper, this watch or that watch? — This watch is cheaper."
+        },
+        {
+          "ja": "春と秋とどちらが涼しいですか。",
+          "reading": "はると あきと どちらが すずしいですか。",
+          "romaji": "haru to aki to dochira ga suzushii desu ka.",
+          "ta": "வசந்தமும் இலையுதிர் காலமும், எது குளிர்ச்சி?",
+          "en": "Which is cooler, spring or autumn?"
+        },
+        {
+          "ja": "お母さんとお父さんとどちらが料理が上手ですか。— 母のほうが上手です。",
+          "reading": "おかあさんと おとうさんと どちらが りょうりが じょうずですか。— ははのほうが じょうずです。",
+          "romaji": "okaasan to otousan to dochira ga ryouri ga jouzu desu ka. — haha no hou ga jouzu desu.",
+          "ta": "அம்மாவும் அப்பாவும், யார் சமையலில் திறமை? — அம்மா தான் திறமை.",
+          "en": "Who is better at cooking, your mother or your father? — My mother is better."
+        }
       ],
-      "pitfalls_ta": "இரண்டில் எது என்று கேட்கும்போது どれ (மூன்று அல்லது அதற்கு மேல்) பயன்படுத்தக் கூடாது; どちら மட்டும். பதிலில் 夏がほうが என்று が போடாமல் 夏のほうが என்று の போடுங்கள்."
+      "pitfalls_ta": "இரண்டில் எது என்று கேட்கும்போது どれ (மூன்று அல்லது அதற்கு மேல்) பயன்படுத்தக் கூடாது; どちら மட்டும். பதிலில் 夏がほうが என்று が போடாமல் 夏のほうが என்று の போடுங்கள்.",
+      "pitfalls_en": "When asking which of two, don't use どれ (that is for three or more); use only どちら. In the answer, don't say 夏がほうが with が; say 夏のほうが with の."
     },
     {
       "id": "g12-5",
       "pattern": "N の中で 〔何 / どこ / 誰 / いつ〕が 一番 adj ですか",
-      "name": { "en": "Superlative within a group", "ta": "ஒரு குழுவில் 'மிக' (எல்லாவற்றிலும்)" },
+      "name": {
+        "en": "Superlative within a group",
+        "ta": "ஒரு குழுவில் 'மிக' (எல்லாவற்றிலும்)"
+      },
       "explanation_ta": "மூன்று அல்லது அதற்கு மேற்பட்டவற்றில் 'மிகச் சிறந்தது' என்று சொல்ல 一番 (いちばん = 'முதல் இடம், மிக') பயன்படுத்துகிறோம். குழுவை N の中で ('N-இல், N-களில்') என்று சொல்லி, பின் 'X が 一番 adj です': 飲み物の中でお茶が一番好きです = 'பானங்களில் டீ தான் மிகவும் பிடிக்கும்'. தமிழில் 'பானங்களில்' என்ற -இல் தான் の中で; 'மிகவும் / எல்லாவற்றையும் விட' தான் 一番. கேள்வி கேட்கும்போது கேள்விச் சொல் + が: பொருளுக்கு 何、இடத்துக்கு どこ、மனிதருக்கு 誰、நேரத்துக்கு いつ. இங்கே どちら வராது (அது இரண்டுக்கு மட்டும்). 一番 பெயரடைக்கு நேரே முன்னால் வரும்.",
+      "explanation_en": "To say \"the most\" among three or more things, use 一番 (いちばん = \"number one, most\"). Name the group with N の中で (\"among N\"), then say \"X が 一番 adj です\": 飲み物の中でお茶が一番好きです = \"Among drinks, I like tea the most\". In Tamil, the \"among\" ending (-இல், as in பானங்களில், among drinks) is の中で, and \"most / more than all\" (மிகவும் / எல்லாவற்றையும் விட) is 一番. To ask, use a question word + が: 何 for things, どこ for places, 誰 for people, いつ for times. どちら is not used here (it is only for two). 一番 comes directly before the adjective.",
       "tamil_parallel": "பானங்களில் டீ தான் மிகவும் பிடிக்கும் = 飲み物の中でお茶が一番好きです (の中で = -களில், 一番 = மிகவும்)",
+      "tamil_parallel_en": "பானங்களில் டீ தான் மிகவும் பிடிக்கும் (\"Among drinks, I like tea the most\") = 飲み物の中でお茶が一番好きです. の中で matches Tamil -களில் (\"among\"), and 一番 matches மிகவும் (\"most\").",
       "formation": "N(குழு) + の中で + 〔何 / どこ / 誰 / いつ〕 + が + 一番 + adj + ですか\nபதில்: N + が + 一番 + adj + です",
+      "formation_en": "N (group) + の中で + 〔何 / どこ / 誰 / いつ〕 + が + 一番 + adj + ですか\nAnswer: N + が + 一番 + adj + です",
       "examples": [
-        { "ja": "飲み物の中で何が一番好きですか。— お茶が一番好きです。", "reading": "のみものの なかで なにが いちばん すきですか。— おちゃが いちばん すきです。", "romaji": "nomimono no naka de nani ga ichiban suki desu ka. — ocha ga ichiban suki desu.", "ta": "பானங்களில் எது மிகவும் பிடிக்கும்? — டீ தான் மிகவும் பிடிக்கும்.", "en": "Among drinks, what do you like best? — I like tea best." },
-        { "ja": "一年の中でいつが一番暑いですか。— 五月が一番暑いです。", "reading": "いちねんの なかで いつが いちばん あついですか。— ごがつが いちばん あついです。", "romaji": "ichinen no naka de itsu ga ichiban atsui desu ka. — gogatsu ga ichiban atsui desu.", "ta": "வருடத்தில் எப்போது மிகவும் வெப்பம்? — மே மாதம் தான் மிகவும் வெப்பம்.", "en": "When is it hottest in the year? — May is the hottest." },
-        { "ja": "家族の中で誰が一番料理が上手ですか。— 母です。", "reading": "かぞくの なかで だれが いちばん りょうりが じょうずですか。— ははです。", "romaji": "kazoku no naka de dare ga ichiban ryouri ga jouzu desu ka. — haha desu.", "ta": "குடும்பத்தில் யார் சமையலில் மிகவும் திறமை? — அம்மா.", "en": "Who in your family is the best cook? — My mother." },
-        { "ja": "インドの中でどこが一番にぎやかですか。— ムンバイが一番にぎやかです。", "reading": "インドの なかで どこが いちばん にぎやかですか。— ムンバイが いちばん にぎやかです。", "romaji": "indo no naka de doko ga ichiban nigiyaka desu ka. — mumbai ga ichiban nigiyaka desu.", "ta": "இந்தியாவில் எந்த இடம் மிகவும் பரபரப்பு? — மும்பை தான்.", "en": "Where in India is the liveliest? — Mumbai is the liveliest." },
-        { "ja": "スポーツの中で何が一番面白いですか。", "reading": "スポーツの なかで なにが いちばん おもしろいですか。", "romaji": "supootsu no naka de nani ga ichiban omoshiroi desu ka.", "ta": "விளையாட்டுகளில் எது மிகவும் சுவாரசியம்?", "en": "Among sports, which is the most interesting?" },
-        { "ja": "日本語と英語とタミル語の中で日本語が一番難しいです。", "reading": "にほんごと えいごと タミルごの なかで にほんごが いちばん むずかしいです。", "romaji": "nihongo to eigo to tamirugo no naka de nihongo ga ichiban muzukashii desu.", "ta": "ஜப்பானிய மொழி, ஆங்கிலம், தமிழ் — இவற்றில் ஜப்பானிய மொழி தான் மிகவும் கடினம்.", "en": "Among Japanese, English and Tamil, Japanese is the most difficult." }
+        {
+          "ja": "飲み物の中で何が一番好きですか。— お茶が一番好きです。",
+          "reading": "のみものの なかで なにが いちばん すきですか。— おちゃが いちばん すきです。",
+          "romaji": "nomimono no naka de nani ga ichiban suki desu ka. — ocha ga ichiban suki desu.",
+          "ta": "பானங்களில் எது மிகவும் பிடிக்கும்? — டீ தான் மிகவும் பிடிக்கும்.",
+          "en": "Among drinks, what do you like best? — I like tea best."
+        },
+        {
+          "ja": "一年の中でいつが一番暑いですか。— 五月が一番暑いです。",
+          "reading": "いちねんの なかで いつが いちばん あついですか。— ごがつが いちばん あついです。",
+          "romaji": "ichinen no naka de itsu ga ichiban atsui desu ka. — gogatsu ga ichiban atsui desu.",
+          "ta": "வருடத்தில் எப்போது மிகவும் வெப்பம்? — மே மாதம் தான் மிகவும் வெப்பம்.",
+          "en": "When is it hottest in the year? — May is the hottest."
+        },
+        {
+          "ja": "家族の中で誰が一番料理が上手ですか。— 母です。",
+          "reading": "かぞくの なかで だれが いちばん りょうりが じょうずですか。— ははです。",
+          "romaji": "kazoku no naka de dare ga ichiban ryouri ga jouzu desu ka. — haha desu.",
+          "ta": "குடும்பத்தில் யார் சமையலில் மிகவும் திறமை? — அம்மா.",
+          "en": "Who in your family is the best cook? — My mother."
+        },
+        {
+          "ja": "インドの中でどこが一番にぎやかですか。— ムンバイが一番にぎやかです。",
+          "reading": "インドの なかで どこが いちばん にぎやかですか。— ムンバイが いちばん にぎやかです。",
+          "romaji": "indo no naka de doko ga ichiban nigiyaka desu ka. — mumbai ga ichiban nigiyaka desu.",
+          "ta": "இந்தியாவில் எந்த இடம் மிகவும் பரபரப்பு? — மும்பை தான்.",
+          "en": "Where in India is the liveliest? — Mumbai is the liveliest."
+        },
+        {
+          "ja": "スポーツの中で何が一番面白いですか。",
+          "reading": "スポーツの なかで なにが いちばん おもしろいですか。",
+          "romaji": "supootsu no naka de nani ga ichiban omoshiroi desu ka.",
+          "ta": "விளையாட்டுகளில் எது மிகவும் சுவாரசியம்?",
+          "en": "Among sports, which is the most interesting?"
+        },
+        {
+          "ja": "日本語と英語とタミル語の中で日本語が一番難しいです。",
+          "reading": "にほんごと えいごと タミルごの なかで にほんごが いちばん むずかしいです。",
+          "romaji": "nihongo to eigo to tamirugo no naka de nihongo ga ichiban muzukashii desu.",
+          "ta": "ஜப்பானிய மொழி, ஆங்கிலம், தமிழ் — இவற்றில் ஜப்பானிய மொழி தான் மிகவும் கடினம்.",
+          "en": "Among Japanese, English and Tamil, Japanese is the most difficult."
+        }
       ],
-      "pitfalls_ta": "மூன்றுக்கு மேல் இருக்கும்போது どちら என்று கேட்கக் கூடாது; 何 / どこ / 誰 / いつ பயன்படுத்துங்கள். 一番-ஐ வாக்கியத்தின் தொடக்கத்தில் போடாமல் பெயரடைக்கு நேரே முன்னால் வையுங்கள்."
+      "pitfalls_ta": "மூன்றுக்கு மேல் இருக்கும்போது どちら என்று கேட்கக் கூடாது; 何 / どこ / 誰 / いつ பயன்படுத்துங்கள். 一番-ஐ வாக்கியத்தின் தொடக்கத்தில் போடாமல் பெயரடைக்கு நேரே முன்னால் வையுங்கள்.",
+      "pitfalls_en": "When there are more than two, don't ask with どちら; use 何 / どこ / 誰 / いつ. Don't put 一番 at the start of the sentence; place it directly before the adjective."
     },
     {
       "id": "g12-6",
       "pattern": "adj + の (この赤いの)",
-      "name": { "en": "の as a pronoun after adjectives", "ta": "பெயரடைக்குப் பின் の = 'அது'" },
+      "name": {
+        "en": "の as a pronoun after adjectives",
+        "ta": "பெயரடைக்குப் பின் の = 'அது'"
+      },
       "explanation_ta": "ஏற்கனவே பேசிய பொருளைத் திரும்பச் சொல்லாமல், பெயரடைக்குப் பின் の சேர்த்தால் 'அது, ஒன்று' என்ற பொருள் வரும்: この赤いの = 'இந்தச் சிவப்பானது', 大きいの = 'பெரியது'. தமிழில் 'பெரிய கடிகாரம்' என்று சொல்லாமல் 'பெரியது' என்று '-து' சேர்ப்பதற்குச் சரியான இணை இது. い-பெயரடை நேரடியாக の எடுக்கும் (軽いの); な-பெயரடைக்கு な வைத்து の (きれいなの、静かなの). பாடம் 2-இல் பார்த்த 私の (என்னுடையது) போலவே, இங்கும் の ஒரு பெயர்ச்சொல்லின் இடத்தில் நிற்கிறது; அதனால் அதற்குப் பின் が、を、は எல்லாம் வரும்: 黒いのを買いました.",
+      "explanation_en": "Instead of repeating a thing you have already talked about, add の after an adjective to mean \"the one\": この赤いの = \"this red one\", 大きいの = \"the big one\". This is the exact equivalent of the Tamil ending that turns \"the big clock\" (பெரிய கடிகாரம்) into \"the big one\" (பெரியது, with -து). An い-adjective takes の directly (軽いの); a な-adjective keeps な before の (きれいなの、静かなの). Just like 私の (mine) from Lesson 2, の stands in the place of a noun here, so が, を, は and so on can all follow it: 黒いのを買いました.",
       "tamil_parallel": "சிவப்பானது பிடிக்கும் = 赤いのが好きです (பெயரடை + の = பெயரடை + 'அது/து')",
+      "tamil_parallel_en": "சிவப்பானது பிடிக்கும் (\"I like the red one\") = 赤いのが好きです. Adjective + の works like Tamil adjective + அது / -து (\"the ... one\").",
       "formation": "い-adj + の — 大きいの、安いの\nな-adj + な + の — きれいなの、便利なの\nこの / その / あの + adj + の — この赤いの\n(+ が / を / は …)",
+      "formation_en": "い-adj + の: 大きいの、安いの\nな-adj + な + の: きれいなの、便利なの\nこの / その / あの + adj + の: この赤いの\n(+ が / を / は …)",
       "examples": [
-        { "ja": "どのかばんがいいですか。— この黒いのがいいです。", "reading": "どの かばんが いいですか。— この くろいのが いいです。", "romaji": "dono kaban ga ii desu ka. — kono kuroi no ga ii desu.", "ta": "எந்தப் பை வேண்டும்? — இந்தக் கருப்பானது வேண்டும்.", "en": "Which bag would you like? — This black one." },
-        { "ja": "赤いのと青いのとどちらが好きですか。", "reading": "あかいのと あおいのと どちらが すきですか。", "romaji": "akai no to aoi no to dochira ga suki desu ka.", "ta": "சிவப்பானதும் நீலமானதும், எது பிடிக்கும்?", "en": "Which do you like, the red one or the blue one?" },
-        { "ja": "この傘は重いですね。軽いのはありますか。", "reading": "この かさは おもいですね。かるいのは ありますか。", "romaji": "kono kasa wa omoi desu ne. karui no wa arimasu ka.", "ta": "இந்தக் குடை கனமாக இருக்கிறதே. இலேசானது இருக்கிறதா?", "en": "This umbrella is heavy. Do you have a lighter one?" },
-        { "ja": "甘いのが好きです。辛いのは嫌いです。", "reading": "あまいのが すきです。からいのは きらいです。", "romaji": "amai no ga suki desu. karai no wa kirai desu.", "ta": "இனிப்பானது பிடிக்கும். காரமானது பிடிக்காது.", "en": "I like sweet ones. I don't like spicy ones." },
-        { "ja": "デパートできれいなのを買いました。", "reading": "デパートで きれいなのを かいました。", "romaji": "depaato de kirei na no o kaimashita.", "ta": "டிபார்ட்மென்ட் ஸ்டோரில் அழகானதை வாங்கினேன்.", "en": "I bought a pretty one at the department store." },
-        { "ja": "厚いのは高いです。薄いのは安いです。", "reading": "あついのは たかいです。うすいのは やすいです。", "romaji": "atsui no wa takai desu. usui no wa yasui desu.", "ta": "தடிமனானது விலை அதிகம். மெல்லியது மலிவு.", "en": "The thick one is expensive. The thin one is cheap." }
+        {
+          "ja": "どのかばんがいいですか。— この黒いのがいいです。",
+          "reading": "どの かばんが いいですか。— この くろいのが いいです。",
+          "romaji": "dono kaban ga ii desu ka. — kono kuroi no ga ii desu.",
+          "ta": "எந்தப் பை வேண்டும்? — இந்தக் கருப்பானது வேண்டும்.",
+          "en": "Which bag would you like? — This black one."
+        },
+        {
+          "ja": "赤いのと青いのとどちらが好きですか。",
+          "reading": "あかいのと あおいのと どちらが すきですか。",
+          "romaji": "akai no to aoi no to dochira ga suki desu ka.",
+          "ta": "சிவப்பானதும் நீலமானதும், எது பிடிக்கும்?",
+          "en": "Which do you like, the red one or the blue one?"
+        },
+        {
+          "ja": "この傘は重いですね。軽いのはありますか。",
+          "reading": "この かさは おもいですね。かるいのは ありますか。",
+          "romaji": "kono kasa wa omoi desu ne. karui no wa arimasu ka.",
+          "ta": "இந்தக் குடை கனமாக இருக்கிறதே. இலேசானது இருக்கிறதா?",
+          "en": "This umbrella is heavy. Do you have a lighter one?"
+        },
+        {
+          "ja": "甘いのが好きです。辛いのは嫌いです。",
+          "reading": "あまいのが すきです。からいのは きらいです。",
+          "romaji": "amai no ga suki desu. karai no wa kirai desu.",
+          "ta": "இனிப்பானது பிடிக்கும். காரமானது பிடிக்காது.",
+          "en": "I like sweet ones. I don't like spicy ones."
+        },
+        {
+          "ja": "デパートできれいなのを買いました。",
+          "reading": "デパートで きれいなのを かいました。",
+          "romaji": "depaato de kirei na no o kaimashita.",
+          "ta": "டிபார்ட்மென்ட் ஸ்டோரில் அழகானதை வாங்கினேன்.",
+          "en": "I bought a pretty one at the department store."
+        },
+        {
+          "ja": "厚いのは高いです。薄いのは安いです。",
+          "reading": "あついのは たかいです。うすいのは やすいです。",
+          "romaji": "atsui no wa takai desu. usui no wa yasui desu.",
+          "ta": "தடிமனானது விலை அதிகம். மெல்லியது மலிவு.",
+          "en": "The thick one is expensive. The thin one is cheap."
+        }
       ],
-      "pitfalls_ta": "な-பெயரடைக்குப் பின் な-ஐ மறக்காதீர்கள்: きれいの தவறு, きれいなの சரி. பெயர்ச்சொல் ஏற்கனவே தெரியாதபோது の போடாமல் பெயர்ச்சொல்லையே சொல்லுங்கள்."
+      "pitfalls_ta": "な-பெயரடைக்குப் பின் な-ஐ மறக்காதீர்கள்: きれいの தவறு, きれいなの சரி. பெயர்ச்சொல் ஏற்கனவே தெரியாதபோது の போடாமல் பெயர்ச்சொல்லையே சொல்லுங்கள்.",
+      "pitfalls_en": "Don't forget な after a な-adjective: きれいの is wrong, きれいなの is correct. When the noun is not already known, don't use の; say the noun itself."
     }
   ],
-  "vocab_ids": ["n5-v-008", "n5-v-019", "n5-v-025", "n5-v-035", "n5-v-037", "n5-v-059", "n5-v-078", "n5-v-114", "n5-v-134", "n5-v-162", "n5-v-178", "n5-v-182", "n5-v-191", "n5-v-224", "n5-v-333", "n5-v-336", "n5-v-401", "n5-v-422", "n5-v-452", "n5-v-484", "n5-v-507", "n5-v-544", "n5-v-545", "n5-v-547", "n5-v-586", "n5-v-587", "n5-v-624", "n5-v-632", "n5-v-652", "n5-v-669", "n5-v-671", "n5-v-681"],
+  "vocab_ids": [
+    "n5-v-008",
+    "n5-v-019",
+    "n5-v-025",
+    "n5-v-035",
+    "n5-v-037",
+    "n5-v-059",
+    "n5-v-078",
+    "n5-v-114",
+    "n5-v-134",
+    "n5-v-162",
+    "n5-v-178",
+    "n5-v-182",
+    "n5-v-191",
+    "n5-v-224",
+    "n5-v-333",
+    "n5-v-336",
+    "n5-v-401",
+    "n5-v-422",
+    "n5-v-452",
+    "n5-v-484",
+    "n5-v-507",
+    "n5-v-544",
+    "n5-v-545",
+    "n5-v-547",
+    "n5-v-586",
+    "n5-v-587",
+    "n5-v-624",
+    "n5-v-632",
+    "n5-v-652",
+    "n5-v-669",
+    "n5-v-671",
+    "n5-v-681"
+  ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L12-q01", "type": "kanji_reading", "sentence": "昨日は ＿雨＿でした。", "target": "雨", "options": ["あま", "あめ", "うめ", "あみ"], "answer": 1, "explanation_ta": "雨 = あめ (மழை). あま என்பது 雨-இன் கூட்டுச் சொல் உச்சரிப்பு; தனியாக வரும்போது あめ." },
-      { "id": "L12-q02", "type": "kanji_reading", "sentence": "駅は ここから ＿近い＿です。", "target": "近い", "options": ["ちがい", "とおい", "ちかい", "ちかし"], "answer": 2, "explanation_ta": "近い = ちかい (அருகில்). とおい என்பது 遠い (தூரம்) — எதிர்ப்பொருள்; ちがい ஒலி மாறிய தவறு." },
-      { "id": "L12-q03", "type": "kanji_reading", "sentence": "日本の ＿冬＿は 寒いです。", "target": "冬", "options": ["ふゆ", "ふよ", "なつ", "ふゆう"], "answer": 0, "explanation_ta": "冬 = ふゆ (குளிர்காலம்). なつ என்பது 夏 (கோடை); ふゆう என்பது நீண்ட ஒலி சேர்த்த தவறு." },
-      { "id": "L12-q04", "type": "orthography", "sentence": "この 本は ＿あつい＿です。", "target": "あつい", "options": ["暑い", "熱い", "厚い", "原い"], "answer": 2, "explanation_ta": "புத்தகம் 'தடிமனானது' = 厚い. あつい என்று மூன்று வெவ்வேறு கஞ்சி உண்டு: 暑い (வானிலை வெப்பம்), 熱い (பொருள் சூடு), 厚い (தடிமன்)." },
-      { "id": "L12-q05", "type": "orthography", "sentence": "飛行機は ＿はやい＿です。", "target": "はやい", "options": ["早い", "速い", "連い", "束い"], "answer": 1, "explanation_ta": "வேகம் = 速い. 早い (பாடம் 4) என்பது 'நேரத்தில் சீக்கிரம்'; விமானத்தின் வேகத்துக்கு 速い. 連、束 ஒத்த தோற்ற எழுத்துகள்." },
-      { "id": "L12-q06", "type": "vocab_context", "sentence": "今日は（　　）です。とても 暑いです。", "options": ["雨", "雪", "曇り", "晴れ"], "answer": 3, "explanation_ta": "'மிகவும் வெப்பம்' என்றால் வானம் தெளிவாக வெயில் = 晴れ. 雨、雪 இருந்தால் வெப்பமாக இருக்காது." },
-      { "id": "L12-q07", "type": "vocab_context", "sentence": "この かばんは とても（　　）です。重くないです。", "options": ["太い", "軽い", "薄い", "遠い"], "answer": 1, "explanation_ta": "'கனமாக இல்லை' = இலேசானது → 軽い. 薄い (மெல்லிய) எடையைக் குறிக்காது." },
-      { "id": "L12-q08", "type": "vocab_context", "sentence": "この お茶は 熱くないです。冷たくないです。（　　）です。", "options": ["温い", "冷たい", "辛い", "甘い"], "answer": 0, "explanation_ta": "சூடும் இல்லை, குளிரும் இல்லை = இளஞ்சூடு → 温い (ぬるい). 冷たい ஏற்கனவே மறுக்கப்பட்டது." },
-      { "id": "L12-q09", "type": "vocab_context", "sentence": "インドの 料理は（　　）です。", "options": ["重い", "遠い", "辛い", "遅い"], "answer": 2, "explanation_ta": "இந்திய உணவு காரமானது = 辛い. மற்றவை (கனமான, தூரமான, மெதுவான) உணவுச் சுவையைக் குறிக்காது." },
-      { "id": "L12-q10", "type": "vocab_context", "sentence": "この 町は 人が（　　）です。とても 静かです。", "options": ["多い", "易しい", "少ない", "近い"], "answer": 2, "explanation_ta": "'மிகவும் அமைதி' என்றால் மக்கள் குறைவு → 少ない. 多い (அதிகம்) எதிர்ப்பொருள்." },
-      { "id": "L12-q11", "type": "vocab_context", "sentence": "日曜日は（　　）です。働きません。", "options": ["雪", "春", "夏", "休み"], "answer": 3, "explanation_ta": "'வேலை செய்வதில்லை' → விடுமுறை = 休み. பருவங்கள் (春、夏) இங்கே பொருந்தாது." },
-      { "id": "L12-q12", "type": "paraphrase", "sentence": "電車は バスより 速いです。", "options": ["バスは 電車より 速いです。", "電車は バスより 遅いです。", "バスは 電車より 遅いです。", "バスの ほうが 速いです。"], "answer": 2, "explanation_ta": "'ரயில் பஸ்ஸை விட வேகம்' = 'பஸ் ரயிலை விட மெதுவு'. より-க்கு முன்னும் பின்னும் உள்ள பெயர்ச்சொற்களை மாற்றும்போது பெயரடையையும் எதிராக மாற்ற வேண்டும்." },
-      { "id": "L12-q13", "type": "paraphrase", "sentence": "昨日は 寒くなかったです。", "options": ["昨日は 寒かったです。", "昨日は 暖かかったです。", "昨日は 雪でした。", "昨日は 冷たかったです。"], "answer": 1, "explanation_ta": "'குளிராக இல்லை' = 'இதமாக இருந்தது' → 暖かかったです. 冷たい என்பது பொருளின் குளிர்ச்சிக்கு; வானிலைக்குப் பயன்படுத்த மாட்டோம்." },
-      { "id": "L12-q14", "type": "paraphrase", "sentence": "この 本は 易しいです。", "options": ["この 本は 難しいです。", "この 本は 厚くないです。", "この 本は 面白くないです。", "この 本は 難しくないです。"], "answer": 3, "explanation_ta": "易しい (எளிது) = 難しくない (கடினமில்லை). 厚くない (தடிமனில்லை) என்பது வேறு பொருள்." },
-      { "id": "L12-q15", "type": "grammar_form", "sentence": "昨日は 雨（　　）。", "options": ["でした", "かったです", "です", "ました"], "answer": 0, "explanation_ta": "雨 பெயர்ச்சொல்; கடந்த காலம் でした. かったです என்பது い-பெயரடைக்கு மட்டும்." },
-      { "id": "L12-q16", "type": "grammar_form", "sentence": "日本の 夏は とても（　　）。", "options": ["暑いでした", "暑かったです", "暑くでした", "暑かったでした"], "answer": 1, "explanation_ta": "い-பெயரடையின் கடந்த காலம்: い → かったです. 暑いでした என்பது தமிழர்கள் அடிக்கடி செய்யும் தவறு — でした வராது." },
-      { "id": "L12-q17", "type": "grammar_form", "sentence": "先週は（　　）。", "options": ["忙しいじゃありませんでした", "忙しくないでした", "忙しくなかったです", "忙しかったじゃありません"], "answer": 2, "explanation_ta": "い-பெயரடை எதிர்மறைக் கடந்த காலம்: くなかったです. じゃありませんでした என்பது பெயர்ச்சொல் / な-பெயரடைக்கு மட்டும்." },
-      { "id": "L12-q18", "type": "grammar_form", "sentence": "飛行機は 電車（　　）速いです。", "options": ["と", "から", "ほう", "より"], "answer": 3, "explanation_ta": "'-ஐ விட' = より. ほう பதிலில் のほうが என்று வரும்; ஒப்பிடும் பொருளுக்குப் பின் அல்ல." },
-      { "id": "L12-q19", "type": "grammar_form", "sentence": "春と 秋と（　　）が 好きですか。", "options": ["どちら", "どれ", "何", "どこ"], "answer": 0, "explanation_ta": "இரண்டில் எது = どちら. どれ மூன்று அல்லது அதற்கு மேற்பட்டவற்றுக்கு." },
-      { "id": "L12-q20", "type": "grammar_form", "sentence": "一年の 中で（　　）が 一番 暑いですか。", "options": ["どちら", "いつ", "いくつ", "どのぐらい"], "answer": 1, "explanation_ta": "வருடத்தில் 'எப்போது' = いつ. 一年の中で என்பது பல மாதங்கள் கொண்ட குழு; どちら இரண்டுக்கு மட்டும்." },
-      { "id": "L12-q21", "type": "grammar_form", "sentence": "赤い かばんと 黒い かばんが あります。私は 黒い（　　）を 買いました。", "options": ["が", "の", "は", "も"], "answer": 1, "explanation_ta": "黒いの = 'கருப்பானது' (かばん-ஐ の மாற்றுகிறது). 黒いを என்று பெயரடைக்குப் பின் நேரடியாக உருபு வராது." },
-      { "id": "L12-q22", "type": "sentence_order", "before": "日本語は", "chunks": ["英語", "より", "難しい", "です"], "star": 1, "after": "。", "explanation_ta": "日本語は英語より難しいです — ஒப்பிடும் பொருள் (英語) + より + பெயரடை + です." },
-      { "id": "L12-q23", "type": "sentence_order", "before": "", "chunks": ["夏と", "冬と", "どちらが", "好きですか"], "star": 2, "after": "。", "explanation_ta": "N1と N2と どちらが 〜ですか — இரண்டாவது と-க்குப் பின் どちらが." },
-      { "id": "L12-q24", "type": "sentence_order", "before": "家族の", "chunks": ["中で", "誰が", "一番", "料理が上手ですか"], "star": 2, "after": "。", "explanation_ta": "家族の中で誰が一番料理が上手ですか — குழு (の中で) → கேள்விச் சொல் + が → 一番 → பெயரடை." },
-      { "id": "L12-q25", "type": "passage_cloze", "passage": "先週の 日曜日は［1］。私は 友達と 川へ 行きました。川の 水は とても［2］。チェンナイの 夏は 日本の 夏［3］暑いですが、川は 涼しかったです。", "blanks": [ { "options": ["晴れました", "晴れかったです", "晴れでした", "晴れです"], "answer": 2 }, { "options": ["冷たいでした", "冷たかったです", "冷たくないでした", "冷たいです"], "answer": 1 }, { "options": ["より", "ほう", "と", "から"], "answer": 0 } ], "explanation_ta": "［1］ 晴れ பெயர்ச்சொல், கடந்த காலம் → 晴れでした. ［2］ 冷たい い-பெயரடை, கடந்த காலம் → 冷たかったです; 冷たいでした தவறு. ［3］ ஒப்பீடு '-ஐ விட' = より." }
+      {
+        "id": "L12-q01",
+        "type": "kanji_reading",
+        "sentence": "昨日は ＿雨＿でした。",
+        "target": "雨",
+        "options": [
+          "あま",
+          "あめ",
+          "うめ",
+          "あみ"
+        ],
+        "answer": 1,
+        "explanation_ta": "雨 = あめ (மழை). あま என்பது 雨-இன் கூட்டுச் சொல் உச்சரிப்பு; தனியாக வரும்போது あめ.",
+        "explanation_en": "雨 = あめ (மழை, rain). あま is the reading of 雨 inside compound words; on its own it is あめ."
+      },
+      {
+        "id": "L12-q02",
+        "type": "kanji_reading",
+        "sentence": "駅は ここから ＿近い＿です。",
+        "target": "近い",
+        "options": [
+          "ちがい",
+          "とおい",
+          "ちかい",
+          "ちかし"
+        ],
+        "answer": 2,
+        "explanation_ta": "近い = ちかい (அருகில்). とおい என்பது 遠い (தூரம்) — எதிர்ப்பொருள்; ちがい ஒலி மாறிய தவறு.",
+        "explanation_en": "近い = ちかい (அருகில், near). とおい is 遠い (தூரம், far), the opposite; ちがい is a mistake with a changed sound."
+      },
+      {
+        "id": "L12-q03",
+        "type": "kanji_reading",
+        "sentence": "日本の ＿冬＿は 寒いです。",
+        "target": "冬",
+        "options": [
+          "ふゆ",
+          "ふよ",
+          "なつ",
+          "ふゆう"
+        ],
+        "answer": 0,
+        "explanation_ta": "冬 = ふゆ (குளிர்காலம்). なつ என்பது 夏 (கோடை); ふゆう என்பது நீண்ட ஒலி சேர்த்த தவறு.",
+        "explanation_en": "冬 = ふゆ (குளிர்காலம், winter). なつ is 夏 (கோடை, summer); ふゆう is a mistake with an added long sound."
+      },
+      {
+        "id": "L12-q04",
+        "type": "orthography",
+        "sentence": "この 本は ＿あつい＿です。",
+        "target": "あつい",
+        "options": [
+          "暑い",
+          "熱い",
+          "厚い",
+          "原い"
+        ],
+        "answer": 2,
+        "explanation_ta": "புத்தகம் 'தடிமனானது' = 厚い. あつい என்று மூன்று வெவ்வேறு கஞ்சி உண்டு: 暑い (வானிலை வெப்பம்), 熱い (பொருள் சூடு), 厚い (தடிமன்).",
+        "explanation_en": "A book being \"thick\" = 厚い (தடிமனானது, thick). There are three different kanji read あつい: 暑い (hot weather), 熱い (hot to the touch) and 厚い (thick)."
+      },
+      {
+        "id": "L12-q05",
+        "type": "orthography",
+        "sentence": "飛行機は ＿はやい＿です。",
+        "target": "はやい",
+        "options": [
+          "早い",
+          "速い",
+          "連い",
+          "束い"
+        ],
+        "answer": 1,
+        "explanation_ta": "வேகம் = 速い. 早い (பாடம் 4) என்பது 'நேரத்தில் சீக்கிரம்'; விமானத்தின் வேகத்துக்கு 速い. 連、束 ஒத்த தோற்ற எழுத்துகள்.",
+        "explanation_en": "Fast = 速い (வேகம், fast). 早い (Lesson 4) means \"early in time\"; for the speed of a plane, use 速い. 連 and 束 are look-alike characters."
+      },
+      {
+        "id": "L12-q06",
+        "type": "vocab_context",
+        "sentence": "今日は（　　）です。とても 暑いです。",
+        "options": [
+          "雨",
+          "雪",
+          "曇り",
+          "晴れ"
+        ],
+        "answer": 3,
+        "explanation_ta": "'மிகவும் வெப்பம்' என்றால் வானம் தெளிவாக வெயில் = 晴れ. 雨、雪 இருந்தால் வெப்பமாக இருக்காது.",
+        "explanation_en": "\"Very hot\" means the sky is clear and sunny = 晴れ (வெயில், sunny). With 雨 or 雪, it would not be hot."
+      },
+      {
+        "id": "L12-q07",
+        "type": "vocab_context",
+        "sentence": "この かばんは とても（　　）です。重くないです。",
+        "options": [
+          "太い",
+          "軽い",
+          "薄い",
+          "遠い"
+        ],
+        "answer": 1,
+        "explanation_ta": "'கனமாக இல்லை' = இலேசானது → 軽い. 薄い (மெல்லிய) எடையைக் குறிக்காது.",
+        "explanation_en": "\"Not heavy\" = light → 軽い (இலேசானது, light). 薄い (மெல்லிய, thin) does not describe weight."
+      },
+      {
+        "id": "L12-q08",
+        "type": "vocab_context",
+        "sentence": "この お茶は 熱くないです。冷たくないです。（　　）です。",
+        "options": [
+          "温い",
+          "冷たい",
+          "辛い",
+          "甘い"
+        ],
+        "answer": 0,
+        "explanation_ta": "சூடும் இல்லை, குளிரும் இல்லை = இளஞ்சூடு → 温い (ぬるい). 冷たい ஏற்கனவே மறுக்கப்பட்டது.",
+        "explanation_en": "Neither hot nor cold = lukewarm → 温い (ぬるい, இளஞ்சூடு, lukewarm). 冷たい has already been ruled out."
+      },
+      {
+        "id": "L12-q09",
+        "type": "vocab_context",
+        "sentence": "インドの 料理は（　　）です。",
+        "options": [
+          "重い",
+          "遠い",
+          "辛い",
+          "遅い"
+        ],
+        "answer": 2,
+        "explanation_ta": "இந்திய உணவு காரமானது = 辛い. மற்றவை (கனமான, தூரமான, மெதுவான) உணவுச் சுவையைக் குறிக்காது.",
+        "explanation_en": "Indian food is spicy = 辛い (காரமானது, spicy). The others (heavy, far, slow) don't describe the taste of food."
+      },
+      {
+        "id": "L12-q10",
+        "type": "vocab_context",
+        "sentence": "この 町は 人が（　　）です。とても 静かです。",
+        "options": [
+          "多い",
+          "易しい",
+          "少ない",
+          "近い"
+        ],
+        "answer": 2,
+        "explanation_ta": "'மிகவும் அமைதி' என்றால் மக்கள் குறைவு → 少ない. 多い (அதிகம்) எதிர்ப்பொருள்.",
+        "explanation_en": "\"Very quiet\" means few people → 少ない (குறைவு, few). 多い (அதிகம், many) is the opposite."
+      },
+      {
+        "id": "L12-q11",
+        "type": "vocab_context",
+        "sentence": "日曜日は（　　）です。働きません。",
+        "options": [
+          "雪",
+          "春",
+          "夏",
+          "休み"
+        ],
+        "answer": 3,
+        "explanation_ta": "'வேலை செய்வதில்லை' → விடுமுறை = 休み. பருவங்கள் (春、夏) இங்கே பொருந்தாது.",
+        "explanation_en": "\"Doesn't work\" → a day off = 休み (விடுமுறை, holiday). The seasons (春、夏) don't fit here."
+      },
+      {
+        "id": "L12-q12",
+        "type": "paraphrase",
+        "sentence": "電車は バスより 速いです。",
+        "options": [
+          "バスは 電車より 速いです。",
+          "電車は バスより 遅いです。",
+          "バスは 電車より 遅いです。",
+          "バスの ほうが 速いです。"
+        ],
+        "answer": 2,
+        "explanation_ta": "'ரயில் பஸ்ஸை விட வேகம்' = 'பஸ் ரயிலை விட மெதுவு'. より-க்கு முன்னும் பின்னும் உள்ள பெயர்ச்சொற்களை மாற்றும்போது பெயரடையையும் எதிராக மாற்ற வேண்டும்.",
+        "explanation_en": "\"The train is faster than the bus\" = \"the bus is slower than the train\". When you swap the nouns before and after より, you must also swap the adjective for its opposite."
+      },
+      {
+        "id": "L12-q13",
+        "type": "paraphrase",
+        "sentence": "昨日は 寒くなかったです。",
+        "options": [
+          "昨日は 寒かったです。",
+          "昨日は 暖かかったです。",
+          "昨日は 雪でした。",
+          "昨日は 冷たかったです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "'குளிராக இல்லை' = 'இதமாக இருந்தது' → 暖かかったです. 冷たい என்பது பொருளின் குளிர்ச்சிக்கு; வானிலைக்குப் பயன்படுத்த மாட்டோம்.",
+        "explanation_en": "\"Not cold\" = \"it was pleasantly warm\" → 暖かかったです (இதமாக இருந்தது, was warm). 冷たい is for the coldness of objects; we don't use it for weather."
+      },
+      {
+        "id": "L12-q14",
+        "type": "paraphrase",
+        "sentence": "この 本は 易しいです。",
+        "options": [
+          "この 本は 難しいです。",
+          "この 本は 厚くないです。",
+          "この 本は 面白くないです。",
+          "この 本は 難しくないです。"
+        ],
+        "answer": 3,
+        "explanation_ta": "易しい (எளிது) = 難しくない (கடினமில்லை). 厚くない (தடிமனில்லை) என்பது வேறு பொருள்.",
+        "explanation_en": "易しい (எளிது, easy) = 難しくない (கடினமில்லை, not difficult). 厚くない (தடிமனில்லை, not thick) has a different meaning."
+      },
+      {
+        "id": "L12-q15",
+        "type": "grammar_form",
+        "sentence": "昨日は 雨（　　）。",
+        "options": [
+          "でした",
+          "かったです",
+          "です",
+          "ました"
+        ],
+        "answer": 0,
+        "explanation_ta": "雨 பெயர்ச்சொல்; கடந்த காலம் でした. かったです என்பது い-பெயரடைக்கு மட்டும்.",
+        "explanation_en": "雨 (மழை, rain) is a noun, so its past is でした. かったです is only for い-adjectives."
+      },
+      {
+        "id": "L12-q16",
+        "type": "grammar_form",
+        "sentence": "日本の 夏は とても（　　）。",
+        "options": [
+          "暑いでした",
+          "暑かったです",
+          "暑くでした",
+          "暑かったでした"
+        ],
+        "answer": 1,
+        "explanation_ta": "い-பெயரடையின் கடந்த காலம்: い → かったです. 暑いでした என்பது தமிழர்கள் அடிக்கடி செய்யும் தவறு — でした வராது.",
+        "explanation_en": "The past of an い-adjective: い → かったです. 暑いでした is a mistake Tamil speakers often make; でした does not go here."
+      },
+      {
+        "id": "L12-q17",
+        "type": "grammar_form",
+        "sentence": "先週は（　　）。",
+        "options": [
+          "忙しいじゃありませんでした",
+          "忙しくないでした",
+          "忙しくなかったです",
+          "忙しかったじゃありません"
+        ],
+        "answer": 2,
+        "explanation_ta": "い-பெயரடை எதிர்மறைக் கடந்த காலம்: くなかったです. じゃありませんでした என்பது பெயர்ச்சொல் / な-பெயரடைக்கு மட்டும்.",
+        "explanation_en": "The negative past of an い-adjective: くなかったです. じゃありませんでした is only for nouns and な-adjectives."
+      },
+      {
+        "id": "L12-q18",
+        "type": "grammar_form",
+        "sentence": "飛行機は 電車（　　）速いです。",
+        "options": [
+          "と",
+          "から",
+          "ほう",
+          "より"
+        ],
+        "answer": 3,
+        "explanation_ta": "'-ஐ விட' = より. ほう பதிலில் のほうが என்று வரும்; ஒப்பிடும் பொருளுக்குப் பின் அல்ல.",
+        "explanation_en": "\"Than\" = より (-ஐ விட). ほう appears in answers as のほうが; it doesn't go after the thing you compare with."
+      },
+      {
+        "id": "L12-q19",
+        "type": "grammar_form",
+        "sentence": "春と 秋と（　　）が 好きですか。",
+        "options": [
+          "どちら",
+          "どれ",
+          "何",
+          "どこ"
+        ],
+        "answer": 0,
+        "explanation_ta": "இரண்டில் எது = どちら. どれ மூன்று அல்லது அதற்கு மேற்பட்டவற்றுக்கு.",
+        "explanation_en": "Which of two = どちら (இரண்டில் எது). どれ is for three or more."
+      },
+      {
+        "id": "L12-q20",
+        "type": "grammar_form",
+        "sentence": "一年の 中で（　　）が 一番 暑いですか。",
+        "options": [
+          "どちら",
+          "いつ",
+          "いくつ",
+          "どのぐらい"
+        ],
+        "answer": 1,
+        "explanation_ta": "வருடத்தில் 'எப்போது' = いつ. 一年の中で என்பது பல மாதங்கள் கொண்ட குழு; どちら இரண்டுக்கு மட்டும்.",
+        "explanation_en": "\"When\" in the year = いつ (எப்போது). 一年の中で is a group of many months; どちら is only for two."
+      },
+      {
+        "id": "L12-q21",
+        "type": "grammar_form",
+        "sentence": "赤い かばんと 黒い かばんが あります。私は 黒い（　　）を 買いました。",
+        "options": [
+          "が",
+          "の",
+          "は",
+          "も"
+        ],
+        "answer": 1,
+        "explanation_ta": "黒いの = 'கருப்பானது' (かばん-ஐ の மாற்றுகிறது). 黒いを என்று பெயரடைக்குப் பின் நேரடியாக உருபு வராது.",
+        "explanation_en": "黒いの = \"the black one\" (கருப்பானது); の replaces かばん. A particle cannot come directly after an adjective, as in 黒いを."
+      },
+      {
+        "id": "L12-q22",
+        "type": "sentence_order",
+        "before": "日本語は",
+        "chunks": [
+          "英語",
+          "より",
+          "難しい",
+          "です"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "日本語は英語より難しいです — ஒப்பிடும் பொருள் (英語) + より + பெயரடை + です.",
+        "explanation_en": "日本語は英語より難しいです (ஜப்பானிய மொழி ஆங்கிலத்தை விட கடினம், Japanese is harder than English): the thing compared with (英語) + より + adjective + です."
+      },
+      {
+        "id": "L12-q23",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "夏と",
+          "冬と",
+          "どちらが",
+          "好きですか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "N1と N2と どちらが 〜ですか — இரண்டாவது と-க்குப் பின் どちらが.",
+        "explanation_en": "N1と N2と どちらが 〜ですか: どちらが comes after the second と."
+      },
+      {
+        "id": "L12-q24",
+        "type": "sentence_order",
+        "before": "家族の",
+        "chunks": [
+          "中で",
+          "誰が",
+          "一番",
+          "料理が上手ですか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "家族の中で誰が一番料理が上手ですか — குழு (の中で) → கேள்விச் சொல் + が → 一番 → பெயரடை.",
+        "explanation_en": "家族の中で誰が一番料理が上手ですか (குடும்பத்தில் யார் மிகவும் நன்றாகச் சமைப்பார்?, who in the family cooks best?): group (の中で) → question word + が → 一番 → adjective."
+      },
+      {
+        "id": "L12-q25",
+        "type": "passage_cloze",
+        "passage": "先週の 日曜日は［1］。私は 友達と 川へ 行きました。川の 水は とても［2］。チェンナイの 夏は 日本の 夏［3］暑いですが、川は 涼しかったです。",
+        "blanks": [
+          {
+            "options": [
+              "晴れました",
+              "晴れかったです",
+              "晴れでした",
+              "晴れです"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "冷たいでした",
+              "冷たかったです",
+              "冷たくないでした",
+              "冷たいです"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "より",
+              "ほう",
+              "と",
+              "から"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ 晴れ பெயர்ச்சொல், கடந்த காலம் → 晴れでした. ［2］ 冷たい い-பெயரடை, கடந்த காலம் → 冷たかったです; 冷たいでした தவறு. ［3］ ஒப்பீடு '-ஐ விட' = より.",
+        "explanation_en": "[1] 晴れ (வெயில், sunny) is a noun, so its past is 晴れでした. [2] 冷たい (குளிர்ச்சி, cold) is an い-adjective, so its past is 冷たかったです; 冷たいでした is wrong. [3] For a comparison, \"than\" = より (-ஐ விட)."
+      }
     ]
   }
 }

@@ -67,9 +67,7 @@ export default function LessonMap({
                   <div className="font-black text-lg leading-tight truncate" lang="ja">
                     {l.title.ja}
                   </div>
-                  <div className="text-sm text-fg-2 truncate" lang="ta">
-                    {l.title.ta}
-                  </div>
+                  <div className="text-sm text-fg-2 truncate">{l.title.en}</div>
                 </div>
                 <div className="flex flex-col items-end gap-1 shrink-0">
                   <div className="flex">

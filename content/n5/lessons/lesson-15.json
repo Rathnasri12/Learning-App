@@ -6,6 +6,7 @@
     "en": "May I …?"
   },
   "intro_ta": "பாடம் 14-இல் கற்ற て-வடிவத்தை வைத்து இந்தப் பாடத்தில் 'இதைச் செய்யலாமா?' என்று அனுமதி கேட்கவும், 'இங்கே இதைச் செய்யக் கூடாது' என்று தடையைச் சொல்லவும் கற்போம். அதே ています வடிவம் 'செய்துகொண்டிருக்கிறேன்' என்பதோடு, 'சென்னையில் வசிக்கிறேன்', 'வங்கியில் வேலை செய்கிறேன்', 'அவரைத் தெரியும்' போன்ற நிலைகளையும் வழக்கங்களையும் எப்படிக் காட்டுகிறது என்று பார்ப்போம்.",
+  "intro_en": "Using the て-form from Lesson 14, in this lesson you will learn to ask permission (\"may I do this?\") and to state a prohibition (\"you must not do this here\"). You will also see how the same ています form shows not only \"I am doing\" but also states and habits, such as \"I live in Chennai\", \"I work at a bank\" and \"I know him\".",
   "grammar": [
     {
       "id": "g15-1",
@@ -15,8 +16,11 @@
         "ta": "〜 செய்யலாமா?"
       },
       "explanation_ta": "அனுமதி கேட்க て-வடிவத்துக்குப் பின் も いいですか சேர்க்கிறோம்: 写真を撮ってもいいですか = 'புகைப்படம் எடுக்கலாமா?'. நேரடிப் பொருள்: 'எடுத்தாலும் (撮っても) சரியா (いいですか)?'. தமிழில் 'எடுக்கலாமா?' என்று '-லாமா' சேர்ப்பதற்கு இது இணை. அனுமதி தர 'ええ、いいですよ' அல்லது 'はい、どうぞ'; மறுக்க மென்மையாக 'すみません、ちょっと…' என்று பாதியில் நிறுத்துவது ஜப்பானிய வழக்கம், அல்லது நேரடியாக 'いいえ、〜てはいけません' (g15-2). も-ஐ விடாதீர்கள்: 撮ていいですか தவறு. கேள்வி இல்லாமல் '〜てもいいです' என்றால் 'செய்யலாம்' என்று அனுமதி கொடுப்பது.",
+      "explanation_en": "To ask permission, add も いいですか after the て-form: 写真を撮ってもいいですか = \"May I take a photo?\". The literal meaning is \"even if I take (撮っても), is it all right (いいですか)?\". It is equivalent to the Tamil ending \"may I\" (-லாமா, as in எடுக்கலாமா?, may I take?). To give permission, say ええ、いいですよ or はい、どうぞ. To refuse, the Japanese custom is to say すみません、ちょっと… softly and leave it unfinished, or more directly いいえ、〜てはいけません (g15-2). Use the full form with も, 撮ってもいいですか. You will also hear 撮っていいですか in casual speech, but the JLPT tests the form with も. Without the question, 〜てもいいです means \"you may do it\", which gives permission.",
       "tamil_parallel": "இங்கே உட்காரலாமா? = ここに座ってもいいですか (座って = உட்கார்ந்து, も いい = -ஆலும் சரி → -லாம்)",
+      "tamil_parallel_en": "இங்கே உட்காரலாமா? (\"May I sit here?\") = ここに座ってもいいですか. 座って matches Tamil உட்கார்ந்து (\"having sat\"), and も いい means -ஆலும் சரி (\"even if, it's fine\"), which together work like Tamil -லாம் (\"may\").",
       "formation": "V て-வடிவம் + も + いいですか (அனுமதி கேட்பது)\nV て-வடிவம் + も + いいです (அனுமதி தருவது)\nபதில்: ええ、いいですよ。/ はい、どうぞ。/ すみません、ちょっと…。",
+      "formation_en": "V て-form + も + いいですか (asking permission)\nV て-form + も + いいです (giving permission)\nAnswer: ええ、いいですよ。/ はい、どうぞ。/ すみません、ちょっと…。",
       "examples": [
         {
           "ja": "ここで写真を撮ってもいいですか。— ええ、いいですよ。",
@@ -68,7 +72,8 @@
           "en": "You may come in here."
         }
       ],
-      "pitfalls_ta": "てもいい-இல் も-ஐ மறப்பது பொதுவான தவறு. அனுமதி கேட்கும்போது 〜ましょうか (நான் செய்யட்டுமா? — உதவி) உடன் குழப்ப வேண்டாம்; 〜てもいいですか என்பது 'எனக்கு அனுமதி உண்டா?'."
+      "pitfalls_ta": "てもいい-இல் も-ஐ மறப்பது பொதுவான தவறு. அனுமதி கேட்கும்போது 〜ましょうか (நான் செய்யட்டுமா? — உதவி) உடன் குழப்ப வேண்டாம்; 〜てもいいですか என்பது 'எனக்கு அனுமதி உண்டா?'.",
+      "pitfalls_en": "Forgetting も in てもいい is a common mistake. When asking permission, don't confuse it with 〜ましょうか (\"shall I do it?\", an offer of help); 〜てもいいですか means \"am I allowed?\"."
     },
     {
       "id": "g15-2",
@@ -78,8 +83,11 @@
         "ta": "〜 செய்யக் கூடாது"
       },
       "explanation_ta": "தடையைச் சொல்ல て-வடிவத்துக்குப் பின் は いけません சேர்க்கிறோம்: ここでたばこを吸ってはいけません = 'இங்கே புகை பிடிக்கக் கூடாது'. நேரடிப் பொருள்: 'பிடித்தால் (吸っては) ஆகாது (いけません)'. தமிழில் 'பிடிக்கக் கூடாது', 'செய்யக் கூடாது' என்று '-க் கூடாது' சேர்ப்பதற்கு இணை. இது மிகவும் உறுதியான தடை; விதிமுறைகள், அறிவிப்புகள், ஆசிரியர் மாணவர்களுக்குச் சொல்வது, பெற்றோர் குழந்தைகளுக்குச் சொல்வது போன்ற இடங்களில் வரும். மேலதிகாரியிடம் நேரடியாகச் சொல்ல மாட்டோம். 〜てもいいですか என்ற கேள்விக்கு உறுதியான மறுப்பு: いいえ、〜てはいけません. இங்கே は-ஐ 'wa' என்று உச்சரியுங்கள்.",
+      "explanation_en": "To state a prohibition, add は いけません after the て-form: ここでたばこを吸ってはいけません = \"You must not smoke here\". The literal meaning is \"if you smoke (吸っては), it won't do (いけません)\". It is equivalent to the Tamil ending \"must not\" (-க் கூடாது, as in பிடிக்கக் கூடாது, must not smoke, or செய்யக் கூடாது, must not do). It is a very firm prohibition, used in rules, notices, by teachers to students and by parents to children. We don't say it directly to a superior. It is the firm \"no\" answer to a 〜てもいいですか question: いいえ、〜てはいけません. Here, pronounce は as \"wa\".",
       "tamil_parallel": "இங்கே புகை பிடிக்கக் கூடாது = ここでたばこを吸ってはいけません (吸っては = பிடித்தால், いけません = ஆகாது)",
+      "tamil_parallel_en": "இங்கே புகை பிடிக்கக் கூடாது (\"You must not smoke here\") = ここでたばこを吸ってはいけません. 吸っては matches Tamil பிடித்தால் (\"if you smoke\"), and いけません matches ஆகாது (\"won't do\"), like Tamil -க் கூடாது.",
       "formation": "V て-வடிவம் + は + いけません\n吸います → 吸って + はいけません; 入ります → 入って + はいけません; 使います → 使って + はいけません\nகேள்வி–பதில்: 〜てもいいですか。— いいえ、〜てはいけません。",
+      "formation_en": "V て-form + は + いけません\n吸います → 吸って + はいけません; 入ります → 入って + はいけません; 使います → 使って + はいけません\nQuestion and answer: 〜てもいいですか。— いいえ、〜てはいけません。",
       "examples": [
         {
           "ja": "ここでたばこを吸ってはいけません。",
@@ -124,7 +132,8 @@
           "en": "You must not make phone calls on the train."
         }
       ],
-      "pitfalls_ta": "吸ってもいけません என்று も போடுவது தவறு; தடைக்கு は, அனுமதிக்கு も. இது கடுமையான தடை என்பதால் வயதில் மூத்தவர்களிடம் நேரடியாகச் சொல்ல வேண்டாம்."
+      "pitfalls_ta": "吸ってもいけません என்று も போடுவது தவறு; தடைக்கு は, அனுமதிக்கு も. இது கடுமையான தடை என்பதால் வயதில் மூத்தவர்களிடம் நேரடியாகச் சொல்ல வேண்டாம்.",
+      "pitfalls_en": "Using も, as in 吸ってもいけません, is wrong: prohibition takes は, permission takes も. Because this is a strict prohibition, don't say it directly to older people."
     },
     {
       "id": "g15-3",
@@ -134,8 +143,11 @@
         "ta": "ています: தொடரும் நிலை"
       },
       "explanation_ta": "பாடம் 14-இல் ています 'இப்போது நடந்துகொண்டிருக்கும் செயல்' என்று கற்றோம். ஆனால் சில வினைச்சொற்களுடன் ています ஒரு செயலின் விளைவாகத் தொடரும் 'நிலையை'க் காட்டுகிறது. 住んでいます = 'வசிக்கிறேன்' (ஒரு முறை குடியேறினேன், இப்போதும் அங்கே இருக்கிறேன்); 持っています = 'வைத்திருக்கிறேன் / என்னிடம் உள்ளது'; 知っています = 'தெரியும்' (ஒரு முறை தெரிந்துகொண்டேன், இப்போதும் தெரியும்); 立っています / 座っています = 'நின்றுகொண்டு / உட்கார்ந்துகொண்டு இருக்கிறார்'. 結婚しています ('திருமணமானவர்') என்பதும் இதே வகை (இந்தச் சொல்லைப் பின்னர் முழுமையாகப் படிப்போம்). தமிழிலும் 'உட்கார்ந்திருக்கிறார்', 'தெரிந்திருக்கிறது' என்று வினையெச்சம் + 'இரு' கொண்டு நிலையைச் சொல்வது போலவே. இந்த வினைகளில் ます-வடிவம் (住みます、持ちます) 'இனி செய்வேன்' என்ற பொருள் தரும்; இப்போதைய நிலைக்கு எப்போதும் ています.",
+      "explanation_en": "In Lesson 14 you learned ています as \"an action happening now\". But with some verbs, ています shows a \"state\" that continues as the result of an action. 住んでいます = \"I live\" (I moved there once and I am still there); 持っています = \"I have / I own\"; 知っています = \"I know\" (I learned it once and still know it); 立っています / 座っています = \"is standing / is sitting\". 結婚しています (\"is married\") is the same type (you will study this word fully later). It is just like Tamil expressing a state with a verbal participle + \"be\" (இரு, as in உட்கார்ந்திருக்கிறார், is seated, and தெரிந்திருக்கிறது, is known). With these verbs, the ます-form (住みます、持ちます) means \"will do from now on\"; for a current state, always use ています.",
       "tamil_parallel": "நான் சென்னையில் வசிக்கிறேன் = チェンナイに住んでいます; என்னிடம் குடை இருக்கிறது = 傘を持っています (வினையெச்சம் + இரு = て + います)",
+      "tamil_parallel_en": "நான் சென்னையில் வசிக்கிறேன் (\"I live in Chennai\") = チェンナイに住んでいます; என்னிடம் குடை இருக்கிறது (\"I have an umbrella\") = 傘を持っています. Tamil verbal participle + இரு (\"be\") matches Japanese て + います.",
       "formation": "V て-வடிவம் + います (நிலை)\n住みます → 住んでいます; 持ちます → 持っています; 知ります → 知っています; 座ります → 座っています; 立ちます → 立っています\nஎதிர்மறை: 〜ていません (விதிவிலக்கு: 知っています → 知りません, g15-5)",
+      "formation_en": "V て-form + います (state)\n住みます → 住んでいます; 持ちます → 持っています; 知ります → 知っています; 座ります → 座っています; 立ちます → 立っています\nNegative: 〜ていません (exception: 知っています → 知りません, g15-5)",
       "examples": [
         {
           "ja": "私はチェンナイに住んでいます。",
@@ -180,7 +192,8 @@
           "en": "Do you know Mr. Tanaka?"
         }
       ],
-      "pitfalls_ta": "'சென்னையில் வசிக்கிறேன்' என்பதை チェンナイに住みます என்று சொன்னால் 'இனிமேல் வசிக்கப் போகிறேன்' என்று பொருள் மாறிவிடும். 'என்னிடம் கார் இருக்கிறது' = 車を持っています (அல்லது 車があります)."
+      "pitfalls_ta": "'சென்னையில் வசிக்கிறேன்' என்பதை チェンナイに住みます என்று சொன்னால் 'இனிமேல் வசிக்கப் போகிறேன்' என்று பொருள் மாறிவிடும். 'என்னிடம் கார் இருக்கிறது' = 車を持っています (அல்லது 車があります).",
+      "pitfalls_en": "If you say \"I live in Chennai\" as チェンナイに住みます, the meaning changes to \"I am going to live there from now on\". \"I have a car\" = 車を持っています (or 車があります)."
     },
     {
       "id": "g15-4",
@@ -190,8 +203,11 @@
         "ta": "ています: வழக்கம், தொழில்"
       },
       "explanation_ta": "ています மூன்றாவது ஒரு வேலையும் செய்கிறது: நீண்ட காலமாகத் தொடரும் வழக்கம் அல்லது ஒருவரின் தொழிலைச் சொல்வது. 兄は銀行で働いています = 'அண்ணன் வங்கியில் வேலை செய்கிறார்' — இந்த நொடியில் வேலை செய்துகொண்டிருக்கிறார் என்பதல்ல, அதுதான் அவர் தொழில். あの店で切符を売っています = 'அந்தக் கடையில் டிக்கெட் விற்கிறார்கள்' (வழக்கமாக). தமிழில் 'அவர் பள்ளியில் ஆங்கிலம் கற்பிக்கிறார்' என்று நிகழ்காலத்தில் தொழிலைச் சொல்வது போல, ஜப்பானியத்தில் ています. 'என்ன வேலை செய்கிறீர்கள்?' என்று கேட்க お仕事は何ですか அல்லது 何をしていますか. சூழலைப் பார்த்தே 'இப்போது நடப்பது' (g14-4) அல்லது 'வழக்கம்' என்று புரிந்துகொள்ள வேண்டும்: 今 இருந்தால் இப்போது, 毎日 / தொழில் இருந்தால் வழக்கம்.",
+      "explanation_en": "ています does a third job too: it describes a long-running habit or a person's occupation. 兄は銀行で働いています = \"My older brother works at a bank\". This does not mean he is working at this very moment; it is his job. あの店で切符を売っています = \"They sell tickets at that shop\" (regularly). Just as Tamil states a job in the present tense, as in \"he teaches English at a school\" (அவர் பள்ளியில் ஆங்கிலம் கற்பிக்கிறார்), Japanese uses ています. To ask \"what do you do (for work)?\", say お仕事は何ですか or 何をしていますか. You have to tell from context whether it means \"happening now\" (g14-4) or \"habit\": with 今 it is now; with 毎日 or an occupation, it is a habit.",
       "tamil_parallel": "அண்ணன் வங்கியில் வேலை செய்கிறார் (அவர் தொழில்) = 兄は銀行で働いています",
+      "tamil_parallel_en": "அண்ணன் வங்கியில் வேலை செய்கிறார் (\"My older brother works at a bank\", as his job) = 兄は銀行で働いています. Tamil uses the simple present for an occupation; Japanese uses ています.",
       "formation": "N(இடம்) + で + V て-வடிவம் + います (தொழில் / வழக்கம்)\n働きます → 働いています; 売ります → 売っています; 教えます → 教えています; 作ります → 作っています; 勉強します → 勉強しています",
+      "formation_en": "N (place) + で + V て-form + います (occupation / habit)\n働きます → 働いています; 売ります → 売っています; 教えます → 教えています; 作ります → 作っています; 勉強します → 勉強しています",
       "examples": [
         {
           "ja": "兄は銀行で働いています。",
@@ -236,7 +252,8 @@
           "en": "Do you drink milk every morning? — No, I don't."
         }
       ],
-      "pitfalls_ta": "தொழிலைச் சொல்லும்போது 銀行で働きます என்று ます-வடிவம் சொன்னால் 'வேலை செய்வேன் (எதிர்காலம்)' என்று தோன்றும்; 働いています தான் இயல்பு."
+      "pitfalls_ta": "தொழிலைச் சொல்லும்போது 銀行で働きます என்று ます-வடிவம் சொன்னால் 'வேலை செய்வேன் (எதிர்காலம்)' என்று தோன்றும்; 働いています தான் இயல்பு.",
+      "pitfalls_en": "When stating someone's job, if you use the ます-form, as in 銀行で働きます, it sounds like \"will work (future)\"; 働いています is the natural form."
     },
     {
       "id": "g15-5",
@@ -246,8 +263,11 @@
         "ta": "'தெரியும்' / 'தெரியாது'"
       },
       "explanation_ta": "'தெரியும்' = 知っています (நிலை, g15-3). ஆனால் 'தெரியாது' என்பதை 知っていません என்று சொல்ல மாட்டோம்; 知りません என்றே சொல்வோம். இது ஒரு முக்கியமான விதிவிலக்கு. காரணம்: 'தெரிந்துகொள்ளும்' செயல் நடக்கவே இல்லை என்பதால் 'தெரிந்துகொண்டு இருக்கிறேன்' என்பதன் மறுப்பு அர்த்தமற்றது. தமிழிலும் 'தெரியும்' / 'தெரியாது' என்று எளிமையாகச் சொல்கிறோம் — 'தெரிந்திருக்கவில்லை' என்று சொல்வதில்லை. 知っています ஒரு நபரை, இடத்தை, தகவலை அறிவது; 分かります (பாடம் 9) ஒரு மொழியை / பொருளைப் புரிந்துகொள்வது — 日本語が分かります (புரியும்), 田中さんを知っています (தெரியும்).",
+      "explanation_en": "\"I know\" = 知っています (a state, g15-3). But \"I don't know\" is not 知っていません; we say 知りません. This is an important exception. The reason: since the act of \"getting to know\" never happened, negating \"I am in the state of knowing\" doesn't make sense. Tamil also simply says \"I know\" (தெரியும்) / \"I don't know\" (தெரியாது); we don't say \"was not known\" (தெரிந்திருக்கவில்லை). 知っています means knowing a person, a place or a piece of information; 分かります (Lesson 9) means understanding a language or a meaning: 日本語が分かります (புரியும், \"I understand\"), 田中さんを知っています (தெரியும், \"I know\").",
       "tamil_parallel": "தெரியுமா? — தெரியும் / தெரியாது = 知っていますか。— 知っています / 知りません",
+      "tamil_parallel_en": "தெரியுமா? — தெரியும் / தெரியாது (\"Do you know? — I know / I don't know\") = 知っていますか。— 知っています / 知りません. Like Tamil தெரியாது, the Japanese negative is a simple form, 知りません.",
       "formation": "கேள்வி: N を 知っていますか\nஆம்: はい、知っています\nஇல்லை: いいえ、知りません (知っていません அல்ல)",
+      "formation_en": "Question: N を 知っていますか\nYes: はい、知っています\nNo: いいえ、知りません (not 知っていません)",
       "examples": [
         {
           "ja": "この人を知っていますか。— はい、知っています。",
@@ -292,7 +312,8 @@
           "en": "I understand Japanese, but I don't know Japanese songs."
         }
       ],
-      "pitfalls_ta": "知っていません என்பது தமிழர்கள் (மற்றும் எல்லா மாணவர்களும்) அடிக்கடி செய்யும் தவறு; எப்போதும் 知りません. 'ஆம்' என்ற பதிலில் மட்டும் 知っています."
+      "pitfalls_ta": "知っていません என்பது தமிழர்கள் (மற்றும் எல்லா மாணவர்களும்) அடிக்கடி செய்யும் தவறு; எப்போதும் 知りません. 'ஆம்' என்ற பதிலில் மட்டும் 知っています.",
+      "pitfalls_en": "知っていません is a mistake Tamil speakers (and all learners) often make; always say 知りません. Use 知っています only in a \"yes\" answer."
     },
     {
       "id": "g15-6",
@@ -302,8 +323,11 @@
         "ta": "〜-இல் வசிக்கிறேன் / 〜-இல் பணிபுரிகிறேன்"
       },
       "explanation_ta": "住む (வசிக்க), 勤める (ஒரு நிறுவனத்தில் பணிபுரிய) இரண்டும் இடத்தைக் குறிக்க に எடுக்கின்றன, で அல்ல: 東京に住んでいます、銀行に勤めています. காரணம்: இவை ஒரு இடத்தில் 'இருப்பது / சேர்ந்திருப்பது' என்ற நிலை — あります / います போல (பாடம் 10, に). ஆனால் 働く (வேலை செய்) என்பது செயல் நடக்கும் இடம், அதனால் で: 銀行で働いています. தமிழில் இரண்டும் '-இல்' (வங்கியில்) என்று வருவதால் இந்த வேறுபாட்டைக் கவனமாக நினைவில் வைக்க வேண்டும்: 勤める・住む → に, 働く → で. கேட்க: どこに住んでいますか / どこに勤めていますか.",
+      "explanation_en": "住む (to live) and 勤める (to work for a company) both take に for the place, not で: 東京に住んでいます、銀行に勤めています. The reason: they describe a state of \"being at / belonging to\" a place, like あります / います (Lesson 10, に). But 働く (to work) marks the place where an action happens, so it takes で: 銀行で働いています. In Tamil both use the same ending (-இல், as in வங்கியில், at the bank), so you need to remember this difference carefully: 勤める・住む → に, 働く → で. To ask: どこに住んでいますか / どこに勤めていますか.",
       "tamil_parallel": "நான் மதுரையில் வசிக்கிறேன் = マドゥライに住んでいます; அக்கா வங்கியில் பணிபுரிகிறார் = 姉は銀行に勤めています (-இல் = に)",
+      "tamil_parallel_en": "நான் மதுரையில் வசிக்கிறேன் (\"I live in Madurai\") = マドゥライに住んでいます; அக்கா வங்கியில் பணிபுரிகிறார் (\"My older sister works for a bank\") = 姉は銀行に勤めています. Here Tamil -இல் becomes に, not で.",
       "formation": "N(இடம்) + に + 住んでいます\nN(நிறுவனம்) + に + 勤めています\n(ஒப்பிட: N(இடம்) + で + 働いています)\nகேள்வி: どこに 住んでいますか / どこに 勤めていますか",
+      "formation_en": "N (place) + に + 住んでいます\nN (company) + に + 勤めています\n(compare: N (place) + で + 働いています)\nQuestion: どこに 住んでいますか / どこに 勤めていますか",
       "examples": [
         {
           "ja": "どこに住んでいますか。— 東京に住んでいます。",
@@ -348,7 +372,8 @@
           "en": "I don't live near the station."
         }
       ],
-      "pitfalls_ta": "東京で住んでいます、銀行で勤めています என்று で போடுவது தமிழர்கள் அதிகம் செய்யும் தவறு — '-இல்' என்பதை எப்போதும் で என்று மொழிபெயர்க்காதீர்கள்."
+      "pitfalls_ta": "東京で住んでいます、銀行で勤めています என்று で போடுவது தமிழர்கள் அதிகம் செய்யும் தவறு — '-இல்' என்பதை எப்போதும் で என்று மொழிபெயர்க்காதீர்கள்.",
+      "pitfalls_en": "Using で, as in 東京で住んでいます or 銀行で勤めています, is a mistake Tamil speakers make very often. Don't always translate the Tamil ending \"in / at\" (-இல்) as で."
     }
   ],
   "vocab_ids": [
@@ -393,7 +418,8 @@
           "きっぷう"
         ],
         "answer": 2,
-        "explanation_ta": "切符 = きっぷ (டிக்கெட்). きっふ என்பது ぷ → ふ மாற்றிய தவறு; 切手 (きって) உடன் குழப்ப வேண்டாம்."
+        "explanation_ta": "切符 = きっぷ (டிக்கெட்). きっふ என்பது ぷ → ふ மாற்றிய தவறு; 切手 (きって) உடன் குழப்ப வேண்டாம்.",
+        "explanation_en": "切符 = きっぷ (டிக்கெட், ticket). きっふ is a mistake with ぷ changed to ふ; don't confuse it with 切手 (きって, stamp)."
       },
       {
         "id": "L15-q02",
@@ -407,7 +433,8 @@
           "にゅうこう"
         ],
         "answer": 0,
-        "explanation_ta": "入口 = いりぐち (நுழைவாயில்). 入る (はいる) என்ற வினையிலிருந்து はいりぐち என்று ஊகிப்பது தவறு; いりくち என்பது ぐ → く மாற்றம்."
+        "explanation_ta": "入口 = いりぐち (நுழைவாயில்). 入る (はいる) என்ற வினையிலிருந்து はいりぐち என்று ஊகிப்பது தவறு; いりくち என்பது ぐ → く மாற்றம்.",
+        "explanation_en": "入口 = いりぐち (நுழைவாயில், entrance). Guessing はいりぐち from the verb 入る (はいる) is wrong; いりくち changes ぐ to く."
       },
       {
         "id": "L15-q03",
@@ -421,7 +448,8 @@
           "しごと"
         ],
         "answer": 3,
-        "explanation_ta": "仕事 = しごと (வேலை). しこと என்பது ご → こ மாற்றிய தவறு."
+        "explanation_ta": "仕事 = しごと (வேலை). しこと என்பது ご → こ மாற்றிய தவறு.",
+        "explanation_en": "仕事 = しごと (வேலை, work). しこと is a mistake with ご changed to こ."
       },
       {
         "id": "L15-q04",
@@ -435,7 +463,8 @@
           "出囗"
         ],
         "answer": 1,
-        "explanation_ta": "でぐち = 出口 (出 வெளியே + 口 வாய்/வழி). 山口 என்பது ஒத்த தோற்றமுள்ள இடப்பெயர்."
+        "explanation_ta": "でぐち = 出口 (出 வெளியே + 口 வாய்/வழி). 山口 என்பது ஒத்த தோற்றமுள்ள இடப்பெயர்.",
+        "explanation_en": "でぐち = 出口 (வெளியேறும் வழி, exit), from 出 (out) + 口 (mouth / way). 山口 is a look-alike place name."
       },
       {
         "id": "L15-q05",
@@ -449,7 +478,8 @@
           "柱んで"
         ],
         "answer": 2,
-        "explanation_ta": "வசிப்பது = 住む → 住んで. 往、注、柱 எல்லாம் 主 பகுதி கொண்ட ஒத்த தோற்ற எழுத்துகள்."
+        "explanation_ta": "வசிப்பது = 住む → 住んで. 往、注、柱 எல்லாம் 主 பகுதி கொண்ட ஒத்த தோற்ற எழுத்துகள்.",
+        "explanation_en": "To live = 住む → 住んで (வசித்து, living). 往, 注 and 柱 are look-alike characters that all contain the part 主."
       },
       {
         "id": "L15-q06",
@@ -462,7 +492,8 @@
           "入口"
         ],
         "answer": 0,
-        "explanation_ta": "புகை பிடிக்கக் கூடாத அறையில் சாம்பல் தட்டு = 灰皿 இருக்காது. மற்றவை புகையோடு தொடர்பில்லை."
+        "explanation_ta": "புகை பிடிக்கக் கூடாத அறையில் சாம்பல் தட்டு = 灰皿 இருக்காது. மற்றவை புகையோடு தொடர்பில்லை.",
+        "explanation_en": "A no-smoking room won't have an ashtray = 灰皿 (சாம்பல் தட்டு, ashtray). The others have nothing to do with smoking."
       },
       {
         "id": "L15-q07",
@@ -475,7 +506,8 @@
           "切符"
         ],
         "answer": 2,
-        "explanation_ta": "கேமராவுக்கு வேண்டியது ஃபிலிம் = フィルム. マッチ (தீப்பெட்டி) கேமராவுடன் தொடர்பில்லை."
+        "explanation_ta": "கேமராவுக்கு வேண்டியது ஃபிலிம் = フィルム. マッチ (தீப்பெட்டி) கேமராவுடன் தொடர்பில்லை.",
+        "explanation_en": "What a camera needs is film = フィルム (ஃபிலிம், film). マッチ (தீப்பெட்டி, matches) has nothing to do with cameras."
       },
       {
         "id": "L15-q08",
@@ -488,7 +520,8 @@
           "勤めて"
         ],
         "answer": 3,
-        "explanation_ta": "'வங்கியில் பணிபுரிகிறார்' = 銀行に勤めています. 住んで (வசிக்கிறார்) வங்கிக்குப் பொருந்தாது."
+        "explanation_ta": "'வங்கியில் பணிபுரிகிறார்' = 銀行に勤めています. 住んで (வசிக்கிறார்) வங்கிக்குப் பொருந்தாது.",
+        "explanation_en": "\"Works for a bank\" = 銀行に勤めています (வங்கியில் பணிபுரிகிறார்). 住んで (வசிக்கிறார், lives) doesn't fit with a bank."
       },
       {
         "id": "L15-q09",
@@ -501,7 +534,8 @@
           "出て"
         ],
         "answer": 0,
-        "explanation_ta": "நாற்காலியில் 'உட்காருங்கள்' = 座ってください. 立って (நில்லுங்கள்) நாற்காலியுடன் பொருந்தாது."
+        "explanation_ta": "நாற்காலியில் 'உட்காருங்கள்' = 座ってください. 立って (நில்லுங்கள்) நாற்காலியுடன் பொருந்தாது.",
+        "explanation_en": "\"Please sit\" on a chair = 座ってください (உட்காருங்கள், please sit). 立って (நில்லுங்கள், stand) doesn't fit with a chair."
       },
       {
         "id": "L15-q10",
@@ -514,7 +548,8 @@
           "住んで"
         ],
         "answer": 1,
-        "explanation_ta": "கடை காய்கறி, பழங்களை 'விற்கிறது' = 売っています. 吸って (புகை பிடித்து) பொருந்தாது."
+        "explanation_ta": "கடை காய்கறி, பழங்களை 'விற்கிறது' = 売っています. 吸って (புகை பிடித்து) பொருந்தாது.",
+        "explanation_en": "The shop \"sells\" vegetables and fruit = 売っています (விற்கிறது, sells). 吸って (புகை பிடித்து, smoking) doesn't fit."
       },
       {
         "id": "L15-q11",
@@ -527,7 +562,8 @@
           "持ちます"
         ],
         "answer": 1,
-        "explanation_ta": "'வீட்டிலிருந்து புறப்படுகிறேன்' = 家を出ます. 入ります (நுழைகிறேன்) என்றால் 家に入ります என்று に வரும்."
+        "explanation_ta": "'வீட்டிலிருந்து புறப்படுகிறேன்' = 家を出ます. 入ります (நுழைகிறேன்) என்றால் 家に入ります என்று に வரும்.",
+        "explanation_en": "\"I leave the house\" = 家を出ます (வீட்டிலிருந்து புறப்படுகிறேன்). For 入ります (நுழைகிறேன், enter), it would be 家に入ります with に."
       },
       {
         "id": "L15-q12",
@@ -540,7 +576,8 @@
           "山田さんは 銀行を 知って います。"
         ],
         "answer": 1,
-        "explanation_ta": "銀行に勤めています = 銀行で働いています (வங்கியில் வேலை செய்கிறார்). 銀行へ行きます என்பது ஒரு முறை போவது — தொழில் அல்ல."
+        "explanation_ta": "銀行に勤めています = 銀行で働いています (வங்கியில் வேலை செய்கிறார்). 銀行へ行きます என்பது ஒரு முறை போவது — தொழில் அல்ல.",
+        "explanation_en": "銀行に勤めています = 銀行で働いています (வங்கியில் வேலை செய்கிறார், works at a bank). 銀行へ行きます means going there once, not an occupation."
       },
       {
         "id": "L15-q13",
@@ -553,7 +590,8 @@
           "兄は 警官です。"
         ],
         "answer": 2,
-        "explanation_ta": "பள்ளியில் ஆங்கிலம் கற்பிக்கிறார் = ஆசிரியர் (先生). 学生 என்றால் கற்பவர் — எதிர்ப் பக்கம்."
+        "explanation_ta": "பள்ளியில் ஆங்கிலம் கற்பிக்கிறார் = ஆசிரியர் (先生). 学生 என்றால் கற்பவர் — எதிர்ப் பக்கம்.",
+        "explanation_en": "Teaches English at a school = a teacher (先生, ஆசிரியர்). 学生 is the one who learns, the opposite side."
       },
       {
         "id": "L15-q14",
@@ -566,7 +604,8 @@
           "傘が ありますか。"
         ],
         "answer": 3,
-        "explanation_ta": "持っていますか (வைத்திருக்கிறீர்களா?) = ありますか (இருக்கிறதா?). 買いましたか (வாங்கினீர்களா?) பொருள் வேறு."
+        "explanation_ta": "持っていますか (வைத்திருக்கிறீர்களா?) = ありますか (இருக்கிறதா?). 買いましたか (வாங்கினீர்களா?) பொருள் வேறு.",
+        "explanation_en": "持っていますか (வைத்திருக்கிறீர்களா?, do you have it?) = ありますか (இருக்கிறதா?, is there one?). 買いましたか (வாங்கினீர்களா?, did you buy it?) has a different meaning."
       },
       {
         "id": "L15-q15",
@@ -579,7 +618,8 @@
           "撮って"
         ],
         "answer": 0,
-        "explanation_ta": "அனுமதி கேட்க て-வடிவம் + も + いいですか: 撮ってもいいですか. 撮っては என்பது தடைக்கு (いけません உடன்)."
+        "explanation_ta": "அனுமதி கேட்க て-வடிவம் + も + いいですか: 撮ってもいいですか. 撮っては என்பது தடைக்கு (いけません உடன்).",
+        "explanation_en": "To ask permission, use て-form + も + いいですか: 撮ってもいいですか (எடுக்கலாமா?, may I take a photo?). 撮っては is for prohibition (with いけません)."
       },
       {
         "id": "L15-q16",
@@ -592,7 +632,8 @@
           "が"
         ],
         "answer": 2,
-        "explanation_ta": "தடை = て + は + いけません. も (அனுமதி) உடன் குழப்ப வேண்டாம்."
+        "explanation_ta": "தடை = て + は + いけません. も (அனுமதி) உடன் குழப்ப வேண்டாம்.",
+        "explanation_en": "Prohibition = て + は + いけません (கூடாது, must not). Don't confuse it with も (permission)."
       },
       {
         "id": "L15-q17",
@@ -605,7 +646,8 @@
           "知って いますか"
         ],
         "answer": 1,
-        "explanation_ta": "'தெரியாது' = 知りません. 知っていません என்பது தவறான வடிவம் — இது இந்தப் பாடத்தின் முக்கிய விதிவிலக்கு."
+        "explanation_ta": "'தெரியாது' = 知りません. 知っていません என்பது தவறான வடிவம் — இது இந்தப் பாடத்தின் முக்கிய விதிவிலக்கு.",
+        "explanation_en": "\"I don't know\" = 知りません (தெரியாது). 知っていません is a wrong form; this is the key exception in this lesson."
       },
       {
         "id": "L15-q18",
@@ -618,7 +660,8 @@
           "に"
         ],
         "answer": 3,
-        "explanation_ta": "住む இடத்துக்கு に: 東京に住んでいます. で என்பது தமிழின் '-இல்' என்று நினைத்துச் செய்யும் தவறு."
+        "explanation_ta": "住む இடத்துக்கு に: 東京に住んでいます. で என்பது தமிழின் '-இல்' என்று நினைத்துச் செய்யும் தவறு.",
+        "explanation_en": "The place for 住む (வசிக்க, to live) takes に: 東京に住んでいます. で is the mistake of thinking of the Tamil ending \"in / at\" (-இல்)."
       },
       {
         "id": "L15-q19",
@@ -631,7 +674,8 @@
           "が"
         ],
         "answer": 0,
-        "explanation_ta": "働く செயல் நடக்கும் இடத்துக்கு で. 勤める என்றால் に (病院に勤めています) — வினைச்சொல்லைப் பார்த்துத் தேர்வு செய்யுங்கள்."
+        "explanation_ta": "働く செயல் நடக்கும் இடத்துக்கு で. 勤める என்றால் に (病院に勤めています) — வினைச்சொல்லைப் பார்த்துத் தேர்வு செய்யுங்கள்.",
+        "explanation_en": "The place where 働く (வேலை செய், to work) happens takes で. With 勤める it is に (病院に勤めています); choose by looking at the verb."
       },
       {
         "id": "L15-q20",
@@ -644,7 +688,8 @@
           "持ちましょう"
         ],
         "answer": 2,
-        "explanation_ta": "பதில் 持っていません என்பதால் கேள்வி நிலையைப் பற்றியது: 持っていますか (வைத்திருக்கிறீர்களா?). 持ちますか என்றால் 'பிடிப்பீர்களா?' (எதிர்காலம்)."
+        "explanation_ta": "பதில் 持っていません என்பதால் கேள்வி நிலையைப் பற்றியது: 持っていますか (வைத்திருக்கிறீர்களா?). 持ちますか என்றால் 'பிடிப்பீர்களா?' (எதிர்காலம்).",
+        "explanation_en": "The answer is 持っていません, so the question is about a state: 持っていますか (வைத்திருக்கிறீர்களா?, do you have it?). 持ちますか would mean \"will you hold it?\" (future)."
       },
       {
         "id": "L15-q21",
@@ -657,7 +702,8 @@
           "住んで ください"
         ],
         "answer": 1,
-        "explanation_ta": "இப்போது எங்கே வசிக்கிறீர்கள் என்ற நிலை = 住んでいますか. 住みますか என்றால் 'இனி எங்கே வசிப்பீர்கள்?' என்று பொருள் மாறும்."
+        "explanation_ta": "இப்போது எங்கே வசிக்கிறீர்கள் என்ற நிலை = 住んでいますか. 住みますか என்றால் 'இனி எங்கே வசிப்பீர்கள்?' என்று பொருள் மாறும்.",
+        "explanation_en": "Where you live now is a state = 住んでいますか (வசிக்கிறீர்களா?, do you live?). 住みますか would change the meaning to \"where will you live from now on?\"."
       },
       {
         "id": "L15-q22",
@@ -671,7 +717,8 @@
         ],
         "star": 1,
         "after": "。",
-        "explanation_ta": "写真を → 撮っても → いいですか. அனுமதி கேட்க て + も + いいですか."
+        "explanation_ta": "写真を → 撮っても → いいですか. அனுமதி கேட்க て + も + いいですか.",
+        "explanation_en": "写真を → 撮っても → いいですか (புகைப்படம் எடுக்கலாமா?, may I take a photo?). To ask permission: て + も + いいですか."
       },
       {
         "id": "L15-q23",
@@ -685,7 +732,8 @@
         ],
         "star": 1,
         "after": "。",
-        "explanation_ta": "駅の近くの (ஸ்டேஷன் அருகிலுள்ள) → 銀行に → 勤めています. 勤める-க்கு இடம் に."
+        "explanation_ta": "駅の近くの (ஸ்டேஷன் அருகிலுள்ள) → 銀行に → 勤めています. 勤める-க்கு இடம் に.",
+        "explanation_en": "駅の近くの (ஸ்டேஷன் அருகிலுள்ள, near the station) → 銀行に → 勤めています. The place for 勤める takes に."
       },
       {
         "id": "L15-q24",
@@ -699,7 +747,8 @@
         ],
         "star": 2,
         "after": "。",
-        "explanation_ta": "この部屋で → たばこを → 吸っては → いけません. தடை = て + は + いけません."
+        "explanation_ta": "この部屋で → たばこを → 吸っては → いけません. தடை = て + は + いけません.",
+        "explanation_en": "この部屋で → たばこを → 吸っては → いけません (புகை பிடிக்கக் கூடாது, must not smoke). Prohibition = て + は + いけません."
       },
       {
         "id": "L15-q25",
@@ -734,7 +783,8 @@
             "answer": 0
           }
         ],
-        "explanation_ta": "［1］ 住みます: み → んで → 住んでいます (நிலை). ［2］ தடை = 吸ってはいけません; 吸っても என்றால் அனுமதி. ［3］ 'தெரியாது' = 知りません; 知っていません தவறு."
+        "explanation_ta": "［1］ 住みます: み → んで → 住んでいます (நிலை). ［2］ தடை = 吸ってはいけません; 吸っても என்றால் அனுமதி. ［3］ 'தெரியாது' = 知りません; 知っていません தவறு.",
+        "explanation_en": "[1] 住みます: み → んで → 住んでいます (வசிக்கிறேன், live; a state). [2] Prohibition = 吸ってはいけません (புகை பிடிக்கக் கூடாது); 吸っても would be permission. [3] \"I don't know\" = 知りません (தெரியாது); 知っていません is wrong."
       }
     ]
   }

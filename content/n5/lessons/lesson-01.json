@@ -1,164 +1,838 @@
 {
   "lesson": 1,
-  "title": { "ja": "はじめまして", "ta": "அறிமுகம்", "en": "Nice to meet you" },
+  "title": {
+    "ja": "はじめまして",
+    "ta": "அறிமுகம்",
+    "en": "Nice to meet you"
+  },
   "intro_ta": "இந்தப் பாடத்தில் உங்களை ஜப்பானிய மொழியில் அறிமுகம் செய்துகொள்ளக் கற்றுக்கொள்வீர்கள்: பெயர், நாடு, வேலை, வயது சொல்வது, 'நான் மாணவன் / மாணவன் இல்லை' என்று சொல்வது, 'நீங்கள் மாணவரா?' என்று கேட்பது. ஜப்பானிய வாக்கிய அமைப்பு தமிழைப் போலவே இருப்பதை — முக்கியச் சொல் கடைசியில், துணைச்சொற்கள் பெயரின் பின்னால் — நீங்களே பார்ப்பீர்கள். 0 முதல் 10 வரை எண்களும், வகுப்பில் தினமும் பயன்படும் வாழ்த்துச் சொற்களும் இதில் உள்ளன.",
+  "intro_en": "In this lesson you will learn to introduce yourself in Japanese: saying your name, country, job and age, saying \"I am a student / I am not a student\", and asking \"Are you a student?\". You will see for yourself that Japanese sentence structure is just like Tamil: the key word comes at the end, and particles come after the noun. The lesson also covers the numbers 0 to 10 and the greetings you will use in class every day.",
   "grammar": [
     {
       "id": "g01-1",
       "pattern": "N1 は N2 です",
-      "name": { "en": "X is Y", "ta": "X என்பது Y" },
+      "name": {
+        "en": "X is Y",
+        "ta": "X என்பது Y"
+      },
       "explanation_ta": "ஜப்பானிய மொழியில் 'X என்பது Y' என்று சொல்ல 「N1 は N2 です」 என்ற அமைப்பைப் பயன்படுத்துகிறோம். は (இங்கே 'wa' என்று உச்சரிக்க வேண்டும்) என்பது தலைப்பைக் குறிக்கும் துணைச்சொல்; 'X-ஐப் பற்றிச் சொன்னால்…' என்ற பொருள். です என்பது வாக்கியத்தை மரியாதையாக முடிக்கும் சொல்; தமிழில் 'ஆக இருக்கிறார் / இருக்கிறது' என்பதற்கு நெருக்கமானது, ஆனால் தமிழில் 'நான் மாணவன்' என்று வினைச்சொல் இல்லாமலே சொல்வது போலவே, இங்கே です மட்டும் போதும். தமிழைப் போலவே ஜப்பானியிலும் முக்கியச் சொல் வாக்கியத்தின் கடைசியில் வருகிறது. பேசுபவர் யார் என்று தெளிவாகத் தெரிந்தால் 私は-ஐ விட்டுவிடலாம் — இதுவும் தமிழ்ப் பழக்கம்தான்.",
+      "explanation_en": "To say \"X is Y\" in Japanese, you use the pattern 「N1 は N2 です」. は (pronounced \"wa\" here) is the topic particle; it means \"as for X…\". です politely ends the sentence. It is close to the Tamil \"ஆக இருக்கிறார் / இருக்கிறது\" (is), but just as Tamil says \"நான் மாணவன்\" (I [am a] student) without a verb, here です alone is enough. Like Tamil, Japanese puts the key word at the end of the sentence. If it is clear who is speaking, you can drop 私は; this is a Tamil habit too.",
       "tamil_parallel": "நான் மாணவன் (ஆக இருக்கிறேன்). = 私は 学生です。 — は ≈ 'நானோ / நான் என்றால்', です ≈ 'ஆக இருக்கிறேன்'",
+      "tamil_parallel_en": "நான் மாணவன் (ஆக இருக்கிறேன்) \"I am a student\" = 私は 学生です。 Here は is roughly \"நானோ / நான் என்றால்\" (as for me), and です is roughly \"ஆக இருக்கிறேன்\" (I am).",
       "formation": "N1 + は + N2 + です",
+      "formation_en": "N1 + は + N2 + です",
       "examples": [
-        { "ja": "私は 学生です。", "reading": "わたしは がくせいです。", "romaji": "watashi wa gakusei desu.", "ta": "நான் மாணவன்.", "en": "I am a student." },
-        { "ja": "田中さんは 先生です。", "reading": "たなかさんは せんせいです。", "romaji": "tanaka-san wa sensei desu.", "ta": "தனாகா-சான் ஆசிரியர்.", "en": "Mr Tanaka is a teacher." },
-        { "ja": "ラジャさんは 医者です。", "reading": "ラジャさんは いしゃです。", "romaji": "raja-san wa isha desu.", "ta": "ராஜா-சான் மருத்துவர்.", "en": "Raja is a doctor." },
-        { "ja": "私は インド人です。", "reading": "わたしは インドじんです。", "romaji": "watashi wa indojin desu.", "ta": "நான் இந்தியர்.", "en": "I am Indian." },
-        { "ja": "山田さんは 日本人です。", "reading": "やまださんは にほんじんです。", "romaji": "yamada-san wa nihonjin desu.", "ta": "யமாடா-சான் ஜப்பானியர்.", "en": "Ms Yamada is Japanese." },
-        { "ja": "カビタさんは 留学生です。", "reading": "カビタさんは りゅうがくせいです。", "romaji": "kabita-san wa ryuugakusei desu.", "ta": "கவிதா-சான் வெளிநாட்டு மாணவி.", "en": "Kavitha is an international student." }
+        {
+          "ja": "私は 学生です。",
+          "reading": "わたしは がくせいです。",
+          "romaji": "watashi wa gakusei desu.",
+          "ta": "நான் மாணவன்.",
+          "en": "I am a student."
+        },
+        {
+          "ja": "田中さんは 先生です。",
+          "reading": "たなかさんは せんせいです。",
+          "romaji": "tanaka-san wa sensei desu.",
+          "ta": "தனாகா-சான் ஆசிரியர்.",
+          "en": "Mr Tanaka is a teacher."
+        },
+        {
+          "ja": "ラジャさんは 医者です。",
+          "reading": "ラジャさんは いしゃです。",
+          "romaji": "raja-san wa isha desu.",
+          "ta": "ராஜா-சான் மருத்துவர்.",
+          "en": "Raja is a doctor."
+        },
+        {
+          "ja": "私は インド人です。",
+          "reading": "わたしは インドじんです。",
+          "romaji": "watashi wa indojin desu.",
+          "ta": "நான் இந்தியர்.",
+          "en": "I am Indian."
+        },
+        {
+          "ja": "山田さんは 日本人です。",
+          "reading": "やまださんは にほんじんです。",
+          "romaji": "yamada-san wa nihonjin desu.",
+          "ta": "யமாடா-சான் ஜப்பானியர்.",
+          "en": "Ms Yamada is Japanese."
+        },
+        {
+          "ja": "カビタさんは 留学生です。",
+          "reading": "カビタさんは りゅうがくせいです。",
+          "romaji": "kabita-san wa ryuugakusei desu.",
+          "ta": "கவிதா-சான் வெளிநாட்டு மாணவி.",
+          "en": "Kavitha is an international student."
+        }
       ],
-      "pitfalls_ta": "は-ஐ 'ha' என்று படிக்காதீர்கள்; துணைச்சொல்லாக வரும்போது எப்போதும் 'wa'. です-ஐ ஒரு வாக்கியத்தில் ஒருமுறைதான் சேர்க்க வேண்டும்; です இல்லாமல் வெறும் 「学生」 என்று முடித்தால் அது சாதாரண பேச்சு, மரியாதை இல்லை."
+      "pitfalls_ta": "は-ஐ 'ha' என்று படிக்காதீர்கள்; துணைச்சொல்லாக வரும்போது எப்போதும் 'wa'. です-ஐ ஒரு வாக்கியத்தில் ஒருமுறைதான் சேர்க்க வேண்டும்; です இல்லாமல் வெறும் 「学生」 என்று முடித்தால் அது சாதாரண பேச்சு, மரியாதை இல்லை.",
+      "pitfalls_en": "Don't read は as \"ha\"; when it is a particle it is always \"wa\". Add です only once per sentence. If you end with just 「学生」 without です, it is casual speech, not polite."
     },
     {
       "id": "g01-2",
       "pattern": "N1 は N2 じゃありません",
-      "name": { "en": "X is not Y", "ta": "X என்பது Y இல்லை" },
+      "name": {
+        "en": "X is not Y",
+        "ta": "X என்பது Y இல்லை"
+      },
       "explanation_ta": "'X என்பது Y இல்லை' என்று மறுக்க, です-க்குப் பதிலாக じゃありません போடுகிறோம். தமிழில் 'நான் மாணவன் இல்லை / அல்ல' என்பதில் கடைசியில் வரும் 'இல்லை' போன்றதே இது. じゃありません என்பது ではありません என்பதின் பேச்சு வடிவம்; எழுத்தில், மிகுந்த மரியாதையில் ではありません எனவும் சொல்லலாம். மறுப்புச் சொல் தமிழைப் போலவே வாக்கியத்தின் கடைசியில் வருகிறது; அதனால் முழு வாக்கியத்தையும் கேட்ட பிறகுதான் 'ஆம்' அல்லது 'இல்லை' என்று தெரியும்.",
+      "explanation_en": "To deny \"X is Y\" (\"X is not Y\"), you put じゃありません in place of です. It is just like the \"இல்லை\" (not) at the end of Tamil \"நான் மாணவன் இல்லை / அல்ல\" (I am not a student). じゃありません is the spoken form of ではありません; in writing or in very polite speech you can also say ではありません. As in Tamil, the negative comes at the end of the sentence, so you only know whether it is \"yes\" or \"no\" after hearing the whole sentence.",
       "tamil_parallel": "நான் மாணவன் இல்லை. = 私は 学生じゃありません。 — じゃありません ≈ 'இல்லை / அல்ல'",
+      "tamil_parallel_en": "நான் மாணவன் இல்லை \"I am not a student\" = 私は 学生じゃありません。 Here じゃありません is roughly \"இல்லை / அல்ல\" (not).",
       "formation": "N1 + は + N2 + じゃありません (= ではありません)",
+      "formation_en": "N1 + は + N2 + じゃありません (= ではありません)",
       "examples": [
-        { "ja": "私は 先生じゃありません。", "reading": "わたしは せんせいじゃありません。", "romaji": "watashi wa sensei ja arimasen.", "ta": "நான் ஆசிரியர் இல்லை.", "en": "I am not a teacher." },
-        { "ja": "田中さんは 学生じゃありません。", "reading": "たなかさんは がくせいじゃありません。", "romaji": "tanaka-san wa gakusei ja arimasen.", "ta": "தனாகா-சான் மாணவர் இல்லை.", "en": "Mr Tanaka is not a student." },
-        { "ja": "ラジャさんは 日本人じゃありません。", "reading": "ラジャさんは にほんじんじゃありません。", "romaji": "raja-san wa nihonjin ja arimasen.", "ta": "ராஜா-சான் ஜப்பானியர் இல்லை.", "en": "Raja is not Japanese." },
-        { "ja": "私は 医者じゃありません。学生です。", "reading": "わたしは いしゃじゃありません。がくせいです。", "romaji": "watashi wa isha ja arimasen. gakusei desu.", "ta": "நான் மருத்துவர் இல்லை. மாணவன்.", "en": "I am not a doctor. I am a student." },
-        { "ja": "山田さんは 外国人じゃありません。", "reading": "やまださんは がいこくじんじゃありません。", "romaji": "yamada-san wa gaikokujin ja arimasen.", "ta": "யமாடா-சான் வெளிநாட்டவர் இல்லை.", "en": "Ms Yamada is not a foreigner." }
+        {
+          "ja": "私は 先生じゃありません。",
+          "reading": "わたしは せんせいじゃありません。",
+          "romaji": "watashi wa sensei ja arimasen.",
+          "ta": "நான் ஆசிரியர் இல்லை.",
+          "en": "I am not a teacher."
+        },
+        {
+          "ja": "田中さんは 学生じゃありません。",
+          "reading": "たなかさんは がくせいじゃありません。",
+          "romaji": "tanaka-san wa gakusei ja arimasen.",
+          "ta": "தனாகா-சான் மாணவர் இல்லை.",
+          "en": "Mr Tanaka is not a student."
+        },
+        {
+          "ja": "ラジャさんは 日本人じゃありません。",
+          "reading": "ラジャさんは にほんじんじゃありません。",
+          "romaji": "raja-san wa nihonjin ja arimasen.",
+          "ta": "ராஜா-சான் ஜப்பானியர் இல்லை.",
+          "en": "Raja is not Japanese."
+        },
+        {
+          "ja": "私は 医者じゃありません。学生です。",
+          "reading": "わたしは いしゃじゃありません。がくせいです。",
+          "romaji": "watashi wa isha ja arimasen. gakusei desu.",
+          "ta": "நான் மருத்துவர் இல்லை. மாணவன்.",
+          "en": "I am not a doctor. I am a student."
+        },
+        {
+          "ja": "山田さんは 外国人じゃありません。",
+          "reading": "やまださんは がいこくじんじゃありません。",
+          "romaji": "yamada-san wa gaikokujin ja arimasen.",
+          "ta": "யமாடா-சான் வெளிநாட்டவர் இல்லை.",
+          "en": "Ms Yamada is not a foreigner."
+        }
       ],
-      "pitfalls_ta": "பேச்சில் 「じゃないです」 என்றும் சொல்வார்கள், ஆனால் தேர்வில் じゃありません / ではありません என்றே எழுதுங்கள். ではありません-இல் உள்ள は-ஐயும் 'wa' என்றே படிக்க வேண்டும்."
+      "pitfalls_ta": "பேச்சில் 「じゃないです」 என்றும் சொல்வார்கள், ஆனால் தேர்வில் じゃありません / ではありません என்றே எழுதுங்கள். ではありません-இல் உள்ள は-ஐயும் 'wa' என்றே படிக்க வேண்டும்.",
+      "pitfalls_en": "In conversation people also say 「じゃないです」, but in the exam write じゃありません / ではありません. The は in ではありません is also read \"wa\"."
     },
     {
       "id": "g01-3",
       "pattern": "〜ですか",
-      "name": { "en": "Yes/no question with か", "ta": "か சேர்த்த ஆம்/இல்லை கேள்வி" },
+      "name": {
+        "en": "Yes/no question with か",
+        "ta": "か சேர்த்த ஆம்/இல்லை கேள்வி"
+      },
       "explanation_ta": "வாக்கியத்தின் கடைசியில் か சேர்த்தால் அது கேள்வியாகிவிடும்; சொற்களின் வரிசையை மாற்ற வேண்டியதில்லை. தமிழில் 'மாணவன்' → 'மாணவனா?' என்று '-ஆ' சேர்ப்பது போலவே இது. ஜப்பானியில் கேள்விக்குறி (?) எழுத வேண்டியதில்லை; か-வோடு 。 போதும். பதில் சொல்லும்போது はい (ஆமாம்) அல்லது いいえ (இல்லை) என்று தொடங்கி, பிறகு முழு வாக்கியமாகப் பதில் சொல்லலாம். ええ என்பது はい-ன் மென்மையான, சற்று பேச்சுவழக்கு வடிவம்.",
+      "explanation_en": "Adding か at the end of a sentence turns it into a question; you don't need to change the word order. It is just like adding \"-ஆ\" in Tamil: \"மாணவன்\" (student) → \"மாணவனா?\" (student?). In Japanese you don't need to write a question mark (?); か with 。 is enough. When you answer, start with はい (ஆமாம், yes) or いいえ (இல்லை, no), and then you can answer with a full sentence. ええ is a softer, slightly more conversational form of はい.",
       "tamil_parallel": "நீங்கள் மாணவரா? — ஆமாம், மாணவன். = あなたは 学生ですか。— はい、学生です。 — か ≈ '-ஆ'",
+      "tamil_parallel_en": "நீங்கள் மாணவரா? — ஆமாம், மாணவன். \"Are you a student? — Yes, I am a student.\" = あなたは 学生ですか。— はい、学生です。 Here か works like the Tamil question ending \"-ஆ\".",
       "formation": "வாக்கியம் + か → はい、〜です / いいえ、〜じゃありません",
+      "formation_en": "Sentence + か → はい、〜です / いいえ、〜じゃありません",
       "examples": [
-        { "ja": "田中さんは 先生ですか。", "reading": "たなかさんは せんせいですか。", "romaji": "tanaka-san wa sensei desu ka.", "ta": "தனாகா-சான் ஆசிரியரா?", "en": "Is Mr Tanaka a teacher?" },
-        { "ja": "はい、先生です。", "reading": "はい、せんせいです。", "romaji": "hai, sensei desu.", "ta": "ஆமாம், ஆசிரியர்.", "en": "Yes, he is a teacher." },
-        { "ja": "ラジャさんは 学生ですか。", "reading": "ラジャさんは がくせいですか。", "romaji": "raja-san wa gakusei desu ka.", "ta": "ராஜா-சான் மாணவரா?", "en": "Is Raja a student?" },
-        { "ja": "いいえ、学生じゃありません。医者です。", "reading": "いいえ、がくせいじゃありません。いしゃです。", "romaji": "iie, gakusei ja arimasen. isha desu.", "ta": "இல்லை, மாணவர் இல்லை. மருத்துவர்.", "en": "No, he is not a student. He is a doctor." },
-        { "ja": "あなたは インド人ですか。", "reading": "あなたは インドじんですか。", "romaji": "anata wa indojin desu ka.", "ta": "நீங்கள் இந்தியரா?", "en": "Are you Indian?" },
-        { "ja": "ええ、インド人です。", "reading": "ええ、インドじんです。", "romaji": "ee, indojin desu.", "ta": "ஆமாம், இந்தியர்.", "en": "Yes, I am Indian." }
+        {
+          "ja": "田中さんは 先生ですか。",
+          "reading": "たなかさんは せんせいですか。",
+          "romaji": "tanaka-san wa sensei desu ka.",
+          "ta": "தனாகா-சான் ஆசிரியரா?",
+          "en": "Is Mr Tanaka a teacher?"
+        },
+        {
+          "ja": "はい、先生です。",
+          "reading": "はい、せんせいです。",
+          "romaji": "hai, sensei desu.",
+          "ta": "ஆமாம், ஆசிரியர்.",
+          "en": "Yes, he is a teacher."
+        },
+        {
+          "ja": "ラジャさんは 学生ですか。",
+          "reading": "ラジャさんは がくせいですか。",
+          "romaji": "raja-san wa gakusei desu ka.",
+          "ta": "ராஜா-சான் மாணவரா?",
+          "en": "Is Raja a student?"
+        },
+        {
+          "ja": "いいえ、学生じゃありません。医者です。",
+          "reading": "いいえ、がくせいじゃありません。いしゃです。",
+          "romaji": "iie, gakusei ja arimasen. isha desu.",
+          "ta": "இல்லை, மாணவர் இல்லை. மருத்துவர்.",
+          "en": "No, he is not a student. He is a doctor."
+        },
+        {
+          "ja": "あなたは インド人ですか。",
+          "reading": "あなたは インドじんですか。",
+          "romaji": "anata wa indojin desu ka.",
+          "ta": "நீங்கள் இந்தியரா?",
+          "en": "Are you Indian?"
+        },
+        {
+          "ja": "ええ、インド人です。",
+          "reading": "ええ、インドじんです。",
+          "romaji": "ee, indojin desu.",
+          "ta": "ஆமாம், இந்தியர்.",
+          "en": "Yes, I am Indian."
+        }
       ],
-      "pitfalls_ta": "கேள்வியில் か-வைக் குரல் உயர்த்திச் சொல்லுங்கள். あなた-ஐ அதிகம் பயன்படுத்த வேண்டாம்; தெரிந்தவரிடம் பெயரோடு さん சேர்த்து (田中さんは…) கேட்பதே மரியாதை."
+      "pitfalls_ta": "கேள்வியில் か-வைக் குரல் உயர்த்திச் சொல்லுங்கள். あなた-ஐ அதிகம் பயன்படுத்த வேண்டாம்; தெரிந்தவரிடம் பெயரோடு さん சேர்த்து (田中さんは…) கேட்பதே மரியாதை.",
+      "pitfalls_en": "Raise your voice on the か of a question. Don't use あなた too much; with someone you know, it is polite to ask using their name plus さん (田中さんは…)."
     },
     {
       "id": "g01-4",
       "pattern": "N も",
-      "name": { "en": "also / too", "ta": "-உம் (கூட)" },
+      "name": {
+        "en": "also / too",
+        "ta": "-உம் (கூட)"
+      },
       "explanation_ta": "も என்பது '-உம் / கூட' என்ற பொருள். ஏற்கனவே ஒருவரைப் பற்றிச் சொன்னதே இன்னொருவருக்கும் பொருந்தும் என்று சொல்ல, は-க்குப் பதிலாக も போடுகிறோம். தமிழில் 'ராஜா மாணவன். நானும் மாணவன்.' என்பதில் 'நானும்' இல் உள்ள '-உம்' தான் も. எதிர்மறையிலும் அதே: 'நானும் மருத்துவர் இல்லை' = 私も 医者じゃありません。 கவனிக்க: も வந்தால் は வராது — தமிழில் 'நான்-உம்' என்று சொல்லும்போது வேறு விகுதி சேர்க்காதது போல.",
+      "explanation_en": "も means \"too / also\" (-உம், கூட). When something already said about one person also applies to another, you use も in place of は. In the Tamil \"ராஜா மாணவன். நானும் மாணவன்.\" (Raja is a student. I am a student too.), the \"-உம்\" in \"நானும்\" is exactly も. The same goes for negatives: \"I am not a doctor either\" = 私も 医者じゃありません。 Note: when も is used, は does not appear, just as in Tamil you don't add another ending when you say \"நானும்\" (me too).",
       "tamil_parallel": "ராஜா மாணவன். நானும் மாணவன். = ラジャさんは 学生です。私も 学生です。 — も ≈ '-உம்'",
+      "tamil_parallel_en": "ராஜா மாணவன். நானும் மாணவன். \"Raja is a student. I am a student too.\" = ラジャさんは 学生です。私も 学生です。 Here も is the Tamil \"-உம்\" (too).",
       "formation": "N + も + です / じゃありません (は-க்குப் பதிலாக)",
+      "formation_en": "N + も + です / じゃありません (in place of は)",
       "examples": [
-        { "ja": "田中さんは 日本人です。山田さんも 日本人です。", "reading": "たなかさんは にほんじんです。やまださんも にほんじんです。", "romaji": "tanaka-san wa nihonjin desu. yamada-san mo nihonjin desu.", "ta": "தனாகா-சான் ஜப்பானியர். யமாடா-சானும் ஜப்பானியர்.", "en": "Mr Tanaka is Japanese. Ms Yamada is also Japanese." },
-        { "ja": "私も 学生です。", "reading": "わたしも がくせいです。", "romaji": "watashi mo gakusei desu.", "ta": "நானும் மாணவன்.", "en": "I am also a student." },
-        { "ja": "カビタさんも 留学生ですか。", "reading": "カビタさんも りゅうがくせいですか。", "romaji": "kabita-san mo ryuugakusei desu ka.", "ta": "கவிதா-சானும் வெளிநாட்டு மாணவியா?", "en": "Is Kavitha also an international student?" },
-        { "ja": "はい、カビタさんも 留学生です。", "reading": "はい、カビタさんも りゅうがくせいです。", "romaji": "hai, kabita-san mo ryuugakusei desu.", "ta": "ஆமாம், கவிதா-சானும் வெளிநாட்டு மாணவி.", "en": "Yes, Kavitha is also an international student." },
-        { "ja": "ラジャさんも 先生じゃありません。", "reading": "ラジャさんも せんせいじゃありません。", "romaji": "raja-san mo sensei ja arimasen.", "ta": "ராஜா-சானும் ஆசிரியர் இல்லை.", "en": "Raja is not a teacher either." }
+        {
+          "ja": "田中さんは 日本人です。山田さんも 日本人です。",
+          "reading": "たなかさんは にほんじんです。やまださんも にほんじんです。",
+          "romaji": "tanaka-san wa nihonjin desu. yamada-san mo nihonjin desu.",
+          "ta": "தனாகா-சான் ஜப்பானியர். யமாடா-சானும் ஜப்பானியர்.",
+          "en": "Mr Tanaka is Japanese. Ms Yamada is also Japanese."
+        },
+        {
+          "ja": "私も 学生です。",
+          "reading": "わたしも がくせいです。",
+          "romaji": "watashi mo gakusei desu.",
+          "ta": "நானும் மாணவன்.",
+          "en": "I am also a student."
+        },
+        {
+          "ja": "カビタさんも 留学生ですか。",
+          "reading": "カビタさんも りゅうがくせいですか。",
+          "romaji": "kabita-san mo ryuugakusei desu ka.",
+          "ta": "கவிதா-சானும் வெளிநாட்டு மாணவியா?",
+          "en": "Is Kavitha also an international student?"
+        },
+        {
+          "ja": "はい、カビタさんも 留学生です。",
+          "reading": "はい、カビタさんも りゅうがくせいです。",
+          "romaji": "hai, kabita-san mo ryuugakusei desu.",
+          "ta": "ஆமாம், கவிதா-சானும் வெளிநாட்டு மாணவி.",
+          "en": "Yes, Kavitha is also an international student."
+        },
+        {
+          "ja": "ラジャさんも 先生じゃありません。",
+          "reading": "ラジャさんも せんせいじゃありません。",
+          "romaji": "raja-san mo sensei ja arimasen.",
+          "ta": "ராஜா-சானும் ஆசிரியர் இல்லை.",
+          "en": "Raja is not a teacher either."
+        }
       ],
-      "pitfalls_ta": "「私はも」 என்று は-வும் も-வும் சேர்த்து எழுதுவது பொதுவான தவறு; も மட்டும் போதும். எதிர்மறையில் ஆங்கிலம் 'either' என்று மாறுவது போல ஜப்பானியில் மாறாது — தமிழ் போலவே も-ஐயே பயன்படுத்துவோம்."
+      "pitfalls_ta": "「私はも」 என்று は-வும் も-வும் சேர்த்து எழுதுவது பொதுவான தவறு; も மட்டும் போதும். எதிர்மறையில் ஆங்கிலம் 'either' என்று மாறுவது போல ஜப்பானியில் மாறாது — தமிழ் போலவே も-ஐயே பயன்படுத்துவோம்.",
+      "pitfalls_en": "Writing は and も together, as in 「私はも」, is a common mistake; も alone is enough. In negatives Japanese does not switch words the way English switches \"too\" to \"either\"; just like Tamil, you keep using も."
     },
     {
       "id": "g01-5",
       "pattern": "N1 の N2 (affiliation)",
-      "name": { "en": "N2 belonging to N1", "ta": "N1-ஐச் சேர்ந்த N2" },
+      "name": {
+        "en": "N2 belonging to N1",
+        "ta": "N1-ஐச் சேர்ந்த N2"
+      },
       "explanation_ta": "の என்பது இரண்டு பெயர்ச்சொற்களை இணைக்கும் துணைச்சொல். இந்தப் பாடத்தில் ஒருவர் எந்த அமைப்பைச் சேர்ந்தவர் என்று சொல்ல இதைப் பயன்படுத்துகிறோம்: 「IMCの 会社員」 = 'IMC நிறுவன ஊழியர்', 「IITマドラスの 学生」 = 'IIT மதராஸ் மாணவர்'. தமிழில் '-இன் / -உடைய' அல்லது வெறும் இணைப்பு ('கல்லூரி மாணவர்') போன்றது. அமைப்பின் பெயர் (N1) முன்னால், நபர் (N2) பின்னால் — இந்த வரிசை தமிழோடு அப்படியே ஒத்துப்போகிறது ('TCS ஊழியர்', 'அப்போலோ மருத்துவர்').",
+      "explanation_en": "の is a particle that links two nouns. In this lesson you use it to say which organisation a person belongs to: 「IMCの 会社員」 = an IMC company employee (IMC நிறுவன ஊழியர்), 「IITマドラスの 学生」 = an IIT Madras student (IIT மதராஸ் மாணவர்). It is like the Tamil \"-இன் / -உடைய\" (of), or simply placing the words together (\"கல்லூரி மாணவர்\", college student). The organisation name (N1) comes first and the person (N2) comes after; this order matches Tamil exactly (\"TCS ஊழியர்\" TCS employee, \"அப்போலோ மருத்துவர்\" Apollo doctor).",
       "tamil_parallel": "நான் IIT மதராஸ் மாணவன். = 私は IITマドラスの 学生です。 — の ≈ '-இன் / -ஐச் சேர்ந்த'",
+      "tamil_parallel_en": "நான் IIT மதராஸ் மாணவன் \"I am an IIT Madras student\" = 私は IITマドラスの 学生です。 Here の is roughly \"-இன் / -ஐச் சேர்ந்த\" (of / belonging to).",
       "formation": "N1 (அமைப்பு) + の + N2 (நபர்)",
+      "formation_en": "N1 (organisation) + の + N2 (person)",
       "examples": [
-        { "ja": "私は IITマドラスの 学生です。", "reading": "わたしは アイアイティー マドラスの がくせいです。", "romaji": "watashi wa ai-ai-tii madorasu no gakusei desu.", "ta": "நான் IIT மதராஸ் மாணவன்.", "en": "I am a student of IIT Madras." },
-        { "ja": "田中さんは IMCの 会社員です。", "reading": "たなかさんは アイエムシーの かいしゃいんです。", "romaji": "tanaka-san wa ai-emu-shii no kaishain desu.", "ta": "தனாகா-சான் IMC நிறுவன ஊழியர்.", "en": "Mr Tanaka is an employee of IMC." },
-        { "ja": "カビタさんは 日本語教室の 留学生です。", "reading": "カビタさんは にほんご きょうしつの りゅうがくせいです。", "romaji": "kabita-san wa nihongo kyoushitsu no ryuugakusei desu.", "ta": "கவிதா-சான் ஜப்பானிய மொழி வகுப்பின் வெளிநாட்டு மாணவி.", "en": "Kavitha is an international student of the Japanese classroom." },
-        { "ja": "ラジャさんは アポロ病院の 医者です。", "reading": "ラジャさんは アポロ びょういんの いしゃです。", "romaji": "raja-san wa aporo byouin no isha desu.", "ta": "ராஜா-சான் அப்போலோ மருத்துவமனை மருத்துவர்.", "en": "Raja is a doctor at Apollo Hospital." },
-        { "ja": "山田さんは ソニーの 会社員ですか。", "reading": "やまださんは ソニーの かいしゃいんですか。", "romaji": "yamada-san wa sonii no kaishain desu ka.", "ta": "யமாடா-சான் சோனி நிறுவன ஊழியரா?", "en": "Is Ms Yamada a Sony employee?" },
-        { "ja": "いいえ、ソニーの 会社員じゃありません。", "reading": "いいえ、ソニーの かいしゃいんじゃありません。", "romaji": "iie, sonii no kaishain ja arimasen.", "ta": "இல்லை, சோனி நிறுவன ஊழியர் இல்லை.", "en": "No, she is not a Sony employee." }
+        {
+          "ja": "私は IITマドラスの 学生です。",
+          "reading": "わたしは アイアイティー マドラスの がくせいです。",
+          "romaji": "watashi wa ai-ai-tii madorasu no gakusei desu.",
+          "ta": "நான் IIT மதராஸ் மாணவன்.",
+          "en": "I am a student of IIT Madras."
+        },
+        {
+          "ja": "田中さんは IMCの 会社員です。",
+          "reading": "たなかさんは アイエムシーの かいしゃいんです。",
+          "romaji": "tanaka-san wa ai-emu-shii no kaishain desu.",
+          "ta": "தனாகா-சான் IMC நிறுவன ஊழியர்.",
+          "en": "Mr Tanaka is an employee of IMC."
+        },
+        {
+          "ja": "カビタさんは 日本語教室の 留学生です。",
+          "reading": "カビタさんは にほんご きょうしつの りゅうがくせいです。",
+          "romaji": "kabita-san wa nihongo kyoushitsu no ryuugakusei desu.",
+          "ta": "கவிதா-சான் ஜப்பானிய மொழி வகுப்பின் வெளிநாட்டு மாணவி.",
+          "en": "Kavitha is an international student of the Japanese classroom."
+        },
+        {
+          "ja": "ラジャさんは アポロ病院の 医者です。",
+          "reading": "ラジャさんは アポロ びょういんの いしゃです。",
+          "romaji": "raja-san wa aporo byouin no isha desu.",
+          "ta": "ராஜா-சான் அப்போலோ மருத்துவமனை மருத்துவர்.",
+          "en": "Raja is a doctor at Apollo Hospital."
+        },
+        {
+          "ja": "山田さんは ソニーの 会社員ですか。",
+          "reading": "やまださんは ソニーの かいしゃいんですか。",
+          "romaji": "yamada-san wa sonii no kaishain desu ka.",
+          "ta": "யமாடா-சான் சோனி நிறுவன ஊழியரா?",
+          "en": "Is Ms Yamada a Sony employee?"
+        },
+        {
+          "ja": "いいえ、ソニーの 会社員じゃありません。",
+          "reading": "いいえ、ソニーの かいしゃいんじゃありません。",
+          "romaji": "iie, sonii no kaishain ja arimasen.",
+          "ta": "இல்லை, சோனி நிறுவன ஊழியர் இல்லை.",
+          "en": "No, she is not a Sony employee."
+        }
       ],
-      "pitfalls_ta": "の-ஐ ஆங்கிலம் 'of' போல பின்னிருந்து முன்னாகப் படிக்க வேண்டாம்; தமிழ் வரிசையே (அமைப்பு → நபர்) சரி. 「IMCのの会社員」 போல の-ஐ இரண்டு முறை போடாதீர்கள்."
+      "pitfalls_ta": "の-ஐ ஆங்கிலம் 'of' போல பின்னிருந்து முன்னாகப் படிக்க வேண்டாம்; தமிழ் வரிசையே (அமைப்பு → நபர்) சரி. 「IMCのの会社員」 போல の-ஐ இரண்டு முறை போடாதீர்கள்.",
+      "pitfalls_en": "Don't read の back-to-front like English \"of\"; the Tamil order (organisation → person) is correct. Don't put の twice, as in 「IMCのの会社員」."
     },
     {
       "id": "g01-6",
       "pattern": "〜さん / 〜ちゃん / 〜じん / 〜さい",
-      "name": { "en": "Name suffix, nationality, age", "ta": "பெயர் விகுதி, நாட்டவர், வயது" },
+      "name": {
+        "en": "Name suffix, nationality, age",
+        "ta": "பெயர் விகுதி, நாட்டவர், வயது"
+      },
       "explanation_ta": "பிறரின் பெயருக்குப் பின் さん சேர்ப்பது மரியாதை; ஆண்-பெண் இருவருக்கும் ஒன்றே, திரு. / திருமதி. / செல்வி போல. தமிழில் 'ராஜா அவர்கள், கவிதா அக்கா' என்று மரியாதைச் சொல் சேர்ப்பது போல. ஆனால் சொந்தப் பெயருக்கு さん சேர்க்கக் கூடாது — 「私は 田中です」. சிறு குழந்தைகளுக்கும் நெருங்கிய பெண் நண்பர்களுக்கும் ちゃん. நாட்டின் பெயருக்குப் பின் 人 (じん) சேர்த்தால் அந்த நாட்டவர்: インド人, 日本人 — தமிழின் 'இந்திய-ர், ஜப்பானிய-ர்' போல. எண்ணுக்குப் பின் 歳 (さい) சேர்த்தால் வயது: 五歳 (ごさい); ஆனால் 一歳 = いっさい, 八歳 = はっさい, 十歳 = じゅっさい என்று ஒலி மாறுவதைக் கவனிக்க.",
+      "explanation_en": "Adding さん after another person's name is polite; it is the same for men and women, like Mr. / Mrs. / Ms. It is like adding a respectful word in Tamil, as in \"ராஜா அவர்கள்\" (Raja sir) or \"கவிதா அக்கா\" (Kavitha akka). But you must never add さん to your own name: 「私は 田中です」. For small children and close female friends, use ちゃん. Adding 人 (じん) after a country name gives a person from that country: インド人 (Indian), 日本人 (Japanese), like Tamil \"இந்திய-ர்\" and \"ஜப்பானிய-ர்\". Adding 歳 (さい) after a number gives an age: 五歳 (ごさい, five years old). But note the sound changes: 一歳 = いっさい, 八歳 = はっさい, 十歳 = じゅっさい.",
       "tamil_parallel": "தனாகா அவர்கள் / இந்திய-ர் / ஐந்து வயது = 田中さん / インド人 / 五歳",
+      "tamil_parallel_en": "தனாகா அவர்கள் \"Mr. Tanaka\" / இந்திய-ர் \"Indian\" / ஐந்து வயது \"five years old\" = 田中さん / インド人 / 五歳. Like the Tamil respect word and the suffix \"-ர்\", these Japanese suffixes attach after the noun.",
       "formation": "பெயர் + さん / ちゃん ; நாடு + 人(じん) ; எண் + 歳(さい)",
+      "formation_en": "Name + さん / ちゃん ; Country + 人(じん) ; Number + 歳(さい)",
       "examples": [
-        { "ja": "山田さんは 医者です。", "reading": "やまださんは いしゃです。", "romaji": "yamada-san wa isha desu.", "ta": "யமாடா-சான் மருத்துவர்.", "en": "Ms Yamada is a doctor." },
-        { "ja": "ミーナちゃんは 五歳です。", "reading": "ミーナちゃんは ごさいです。", "romaji": "miina-chan wa gosai desu.", "ta": "மீனா ஐந்து வயது.", "en": "Meena is five years old." },
-        { "ja": "ラジャさんは インド人です。", "reading": "ラジャさんは インドじんです。", "romaji": "raja-san wa indojin desu.", "ta": "ராஜா-சான் இந்தியர்.", "en": "Raja is Indian." },
-        { "ja": "プリヤさんは スリランカ人ですか。", "reading": "プリヤさんは スリランカじんですか。", "romaji": "puriya-san wa surirankajin desu ka.", "ta": "பிரியா-சான் இலங்கையரா?", "en": "Is Priya Sri Lankan?" },
-        { "ja": "いいえ、スリランカ人じゃありません。インド人です。", "reading": "いいえ、スリランカじんじゃありません。インドじんです。", "romaji": "iie, surirankajin ja arimasen. indojin desu.", "ta": "இல்லை, இலங்கையர் இல்லை. இந்தியர்.", "en": "No, she is not Sri Lankan. She is Indian." },
-        { "ja": "アルンちゃんは 八歳です。", "reading": "アルンちゃんは はっさいです。", "romaji": "arun-chan wa hassai desu.", "ta": "அருண் எட்டு வயது.", "en": "Arun is eight years old." }
+        {
+          "ja": "山田さんは 医者です。",
+          "reading": "やまださんは いしゃです。",
+          "romaji": "yamada-san wa isha desu.",
+          "ta": "யமாடா-சான் மருத்துவர்.",
+          "en": "Ms Yamada is a doctor."
+        },
+        {
+          "ja": "ミーナちゃんは 五歳です。",
+          "reading": "ミーナちゃんは ごさいです。",
+          "romaji": "miina-chan wa gosai desu.",
+          "ta": "மீனா ஐந்து வயது.",
+          "en": "Meena is five years old."
+        },
+        {
+          "ja": "ラジャさんは インド人です。",
+          "reading": "ラジャさんは インドじんです。",
+          "romaji": "raja-san wa indojin desu.",
+          "ta": "ராஜா-சான் இந்தியர்.",
+          "en": "Raja is Indian."
+        },
+        {
+          "ja": "プリヤさんは スリランカ人ですか。",
+          "reading": "プリヤさんは スリランカじんですか。",
+          "romaji": "puriya-san wa surirankajin desu ka.",
+          "ta": "பிரியா-சான் இலங்கையரா?",
+          "en": "Is Priya Sri Lankan?"
+        },
+        {
+          "ja": "いいえ、スリランカ人じゃありません。インド人です。",
+          "reading": "いいえ、スリランカじんじゃありません。インドじんです。",
+          "romaji": "iie, surirankajin ja arimasen. indojin desu.",
+          "ta": "இல்லை, இலங்கையர் இல்லை. இந்தியர்.",
+          "en": "No, she is not Sri Lankan. She is Indian."
+        },
+        {
+          "ja": "アルンちゃんは 八歳です。",
+          "reading": "アルンちゃんは はっさいです。",
+          "romaji": "arun-chan wa hassai desu.",
+          "ta": "அருண் எட்டு வயது.",
+          "en": "Arun is eight years old."
+        }
       ],
-      "pitfalls_ta": "「私は ラジャさんです」 என்று சொந்தப் பெயருக்கு さん சேர்ப்பது தமிழர்கள் செய்யும் மிகப் பொதுவான தவறு. 先生 என்பதே மரியாதைச் சொல்; 「田中先生」 என்று சொல்லலாம், 「田中先生さん」 கூடாது. 四歳 = よんさい (しさい அல்ல)."
+      "pitfalls_ta": "「私は ラジャさんです」 என்று சொந்தப் பெயருக்கு さん சேர்ப்பது தமிழர்கள் செய்யும் மிகப் பொதுவான தவறு. 先生 என்பதே மரியாதைச் சொல்; 「田中先生」 என்று சொல்லலாம், 「田中先生さん」 கூடாது. 四歳 = よんさい (しさい அல்ல).",
+      "pitfalls_en": "Adding さん to your own name, as in 「私は ラジャさんです」, is the most common mistake Tamil speakers make. 先生 is itself a title of respect; you can say 「田中先生」, but not 「田中先生さん」. 四歳 = よんさい (not しさい)."
     },
     {
       "id": "g01-7",
       "pattern": "お名前は？ / どなた / 何歳",
-      "name": { "en": "Asking name, who, age; numbers 0–10", "ta": "பெயர், யார், வயது கேட்பது; எண்கள் 0–10" },
+      "name": {
+        "en": "Asking name, who, age; numbers 0–10",
+        "ta": "பெயர், யார், வயது கேட்பது; எண்கள் 0–10"
+      },
       "explanation_ta": "பெயர் கேட்க 「お名前は？」 — தமிழில் 'உங்கள் பெயர்?' என்று வாக்கியத்தை முடிக்காமல் கேட்பது போலவே, ஜப்பானியிலும் 何ですか-ஐ விட்டுவிட்டு は-வில் நிறுத்தி, குரலை உயர்த்தினால் போதும். お என்பது மரியாதை முன்னொட்டு (அடுத்த பாடத்தில் விரிவாக). 'யார்?' என்று மரியாதையாகக் கேட்க どなた (சாதாரணமாக 誰 — அடுத்த பாடம்). வயது கேட்க 「何歳ですか」 (なんさい); பெரியவர்களிடம் மரியாதையாக 「おいくつですか」. எண்கள் 0–10: ゼロ, いち, に, さん, し/よん, ご, ろく, しち/なな, はち, きゅう/く, じゅう — தமிழில் ஒரு எண்ணுக்கு ஒரே சொல்தான், ஆனால் ஜப்பானியில் 4, 7, 9-க்கு இரண்டு உச்சரிப்புகள் உள்ளன.",
+      "explanation_en": "To ask someone's name, say 「お名前は？」. Just as in Tamil you can ask \"உங்கள் பெயர்?\" (your name?) without finishing the sentence, in Japanese you can drop 何ですか, stop at は and raise your voice. お is a politeness prefix (more on it in the next lesson). To ask \"who?\" politely, use どなた (the ordinary word is 誰, covered in the next lesson). To ask someone's age, say 「何歳ですか」 (なんさい); to older people, the polite form is 「おいくつですか」. Numbers 0–10: ゼロ, いち, に, さん, し/よん, ご, ろく, しち/なな, はち, きゅう/く, じゅう. Tamil has only one word for each number, but Japanese has two pronunciations for 4, 7 and 9.",
       "tamil_parallel": "உங்கள் பெயர்? / நீங்கள் யார்? / எத்தனை வயது? = お名前は？ / どなたですか / 何歳ですか",
+      "tamil_parallel_en": "உங்கள் பெயர்? \"Your name?\" / நீங்கள் யார்? \"Who are you?\" / எத்தனை வயது? \"How old?\" = お名前は？ / どなたですか / 何歳ですか",
       "formation": "お名前は？ ; N は どなたですか ; N は 何歳ですか",
+      "formation_en": "お名前は？ ; N は どなたですか ; N は 何歳ですか",
       "examples": [
-        { "ja": "お名前は？", "reading": "おなまえは？", "romaji": "onamae wa?", "ta": "உங்கள் பெயர்?", "en": "Your name?" },
-        { "ja": "私は スレシュです。どうぞよろしく。", "reading": "わたしは スレシュです。どうぞ よろしく。", "romaji": "watashi wa sureshu desu. douzo yoroshiku.", "ta": "நான் சுரேஷ். உங்களைச் சந்தித்ததில் மகிழ்ச்சி.", "en": "I am Suresh. Nice to meet you." },
-        { "ja": "すみません、どなたですか。", "reading": "すみません、どなたですか。", "romaji": "sumimasen, donata desu ka.", "ta": "மன்னிக்கவும், நீங்கள் யார்?", "en": "Excuse me, who are you?" },
-        { "ja": "山田先生は どなたですか。", "reading": "やまだせんせいは どなたですか。", "romaji": "yamada-sensei wa donata desu ka.", "ta": "யமாடா ஆசிரியர் யார் (எவர்)?", "en": "Which one is Yamada-sensei?" },
-        { "ja": "カビタちゃんは 何歳ですか。", "reading": "カビタちゃんは なんさいですか。", "romaji": "kabita-chan wa nansai desu ka.", "ta": "கவிதா எத்தனை வயது?", "en": "How old is Kavitha?" },
-        { "ja": "九歳です。", "reading": "きゅうさいです。", "romaji": "kyuusai desu.", "ta": "ஒன்பது வயது.", "en": "She is nine years old." }
+        {
+          "ja": "お名前は？",
+          "reading": "おなまえは？",
+          "romaji": "onamae wa?",
+          "ta": "உங்கள் பெயர்?",
+          "en": "Your name?"
+        },
+        {
+          "ja": "私は スレシュです。どうぞよろしく。",
+          "reading": "わたしは スレシュです。どうぞ よろしく。",
+          "romaji": "watashi wa sureshu desu. douzo yoroshiku.",
+          "ta": "நான் சுரேஷ். உங்களைச் சந்தித்ததில் மகிழ்ச்சி.",
+          "en": "I am Suresh. Nice to meet you."
+        },
+        {
+          "ja": "すみません、どなたですか。",
+          "reading": "すみません、どなたですか。",
+          "romaji": "sumimasen, donata desu ka.",
+          "ta": "மன்னிக்கவும், நீங்கள் யார்?",
+          "en": "Excuse me, who are you?"
+        },
+        {
+          "ja": "山田先生は どなたですか。",
+          "reading": "やまだせんせいは どなたですか。",
+          "romaji": "yamada-sensei wa donata desu ka.",
+          "ta": "யமாடா ஆசிரியர் யார் (எவர்)?",
+          "en": "Which one is Yamada-sensei?"
+        },
+        {
+          "ja": "カビタちゃんは 何歳ですか。",
+          "reading": "カビタちゃんは なんさいですか。",
+          "romaji": "kabita-chan wa nansai desu ka.",
+          "ta": "கவிதா எத்தனை வயது?",
+          "en": "How old is Kavitha?"
+        },
+        {
+          "ja": "九歳です。",
+          "reading": "きゅうさいです。",
+          "romaji": "kyuusai desu.",
+          "ta": "ஒன்பது வயது.",
+          "en": "She is nine years old."
+        }
       ],
-      "pitfalls_ta": "புதியவர்களிடம் どなた; 誰 (だれ) சொன்னால் மரியாதை குறையும். 何歳 = なんさい (なにさい அல்ல). தமிழில் 'உனக்கு எத்தனை வயது?' என்பதில் '-க்கு' வரும்; ஜப்பானியில் 「〜さんは 何歳ですか」 என்று は-வே வரும்."
+      "pitfalls_ta": "புதியவர்களிடம் どなた; 誰 (だれ) சொன்னால் மரியாதை குறையும். 何歳 = なんさい (なにさい அல்ல). தமிழில் 'உனக்கு எத்தனை வயது?' என்பதில் '-க்கு' வரும்; ஜப்பானியில் 「〜さんは 何歳ですか」 என்று は-வே வரும்.",
+      "pitfalls_en": "With people you have just met, use どなた; saying 誰 (だれ) is less polite. 何歳 = なんさい (not なにさい). In Tamil \"உனக்கு எத்தனை வயது?\" (how old are you?) uses \"-க்கு\" (to you), but in Japanese you use は: 「〜さんは 何歳ですか」."
     }
   ],
   "vocab_ids": [
-    "n5-v-028", "n5-v-045", "n5-v-053", "n5-v-057", "n5-v-091", "n5-v-145", "n5-v-156", "n5-v-201", "n5-v-205", "n5-v-216",
-    "n5-v-223", "n5-v-228", "n5-v-243", "n5-v-275", "n5-v-287", "n5-v-288", "n5-v-290", "n5-v-300", "n5-v-314", "n5-v-326",
-    "n5-v-351", "n5-v-355", "n5-v-464", "n5-v-490", "n5-v-496", "n5-v-519", "n5-v-536", "n5-v-564", "n5-v-645", "n5-v-699",
-    "n5-v-709", "n5-v-714", "n5-v-715"
+    "n5-v-028",
+    "n5-v-045",
+    "n5-v-053",
+    "n5-v-057",
+    "n5-v-091",
+    "n5-v-145",
+    "n5-v-156",
+    "n5-v-201",
+    "n5-v-205",
+    "n5-v-216",
+    "n5-v-223",
+    "n5-v-228",
+    "n5-v-243",
+    "n5-v-275",
+    "n5-v-287",
+    "n5-v-288",
+    "n5-v-290",
+    "n5-v-300",
+    "n5-v-314",
+    "n5-v-326",
+    "n5-v-351",
+    "n5-v-355",
+    "n5-v-464",
+    "n5-v-490",
+    "n5-v-496",
+    "n5-v-519",
+    "n5-v-536",
+    "n5-v-564",
+    "n5-v-645",
+    "n5-v-699",
+    "n5-v-709",
+    "n5-v-714",
+    "n5-v-715"
   ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L01-q01", "type": "kanji_reading", "sentence": "私は ＿学生＿です。", "target": "学生", "options": ["がくせ", "がくせい", "かくせい", "がっせい"], "answer": 1, "explanation_ta": "学生 = がくせい. கடைசியில் நீண்ட ஒலி (せい) உண்டு; がくせ என்று குறுக்கினால் தவறு. か-வுக்குப் பதிலாக が என்ற ஒலியையும் கவனிக்க." },
-      { "id": "L01-q02", "type": "kanji_reading", "sentence": "田中さんは ＿先生＿です。", "target": "先生", "options": ["せんせ", "ぜんせい", "せいせん", "せんせい"], "answer": 3, "explanation_ta": "先生 = せんせい. ぜんせい என்று ஒலி மாறுவதும், せんせ என்று நீண்ட ஒலியை விடுவதும் பொதுவான தவறுகள்." },
-      { "id": "L01-q03", "type": "kanji_reading", "sentence": "ラジャさんは ＿医者＿です。", "target": "医者", "options": ["いじゃ", "いしや", "いしゃ", "いっしゃ"], "answer": 2, "explanation_ta": "医者 = いしゃ. しゃ என்பது ஒரே ஒலி (சிறிய ゃ); いしや என்று இரண்டு ஒலியாகப் பிரிப்பது தவறு." },
-      { "id": "L01-q04", "type": "orthography", "sentence": "私の ＿なまえ＿は ラジャです。", "target": "なまえ", "options": ["各前", "名前", "名削", "右前"], "answer": 1, "explanation_ta": "なまえ = 名前 (பெயர்). 各 என்பது 名-ஐப் போலவே தோன்றும் வேறு எழுத்து; 名 என்பதில் மேலே 夕 பகுதி இருக்கும்." },
-      { "id": "L01-q05", "type": "orthography", "sentence": "私は 日本語＿きょうしつ＿の 学生です。", "target": "きょうしつ", "options": ["数室", "教至", "教室", "教堂"], "answer": 2, "explanation_ta": "きょうしつ = 教室 (வகுப்பறை). 数 என்பது 教-ஐப் போலத் தோன்றும் வேறு எழுத்து; 至 என்பது 室-இன் கீழ்ப்பகுதி மட்டும்." },
-      { "id": "L01-q06", "type": "vocab_context", "sentence": "（　　）、私は カビタです。", "options": ["さようなら", "はじめまして", "おやすみなさい", "いただきます"], "answer": 1, "explanation_ta": "முதல் முறை சந்திக்கும்போது அறிமுகத்தைத் தொடங்கும் சொல் はじめまして. さようなら என்பது பிரியும்போது சொல்வது." },
-      { "id": "L01-q07", "type": "vocab_context", "sentence": "山田さんは 日本人です。私は （　　）です。", "options": ["インド", "インド語", "インドさん", "インド人"], "answer": 3, "explanation_ta": "நாட்டவரைச் சொல்ல நாட்டின் பெயர் + 人 (じん): インド人 = இந்தியர். வெறும் インド என்றால் 'இந்தியா' என்ற நாடு." },
-      { "id": "L01-q08", "type": "vocab_context", "sentence": "ミーナちゃんは 五（　　）です。", "options": ["さん", "じん", "さい", "にん"], "answer": 2, "explanation_ta": "வயது சொல்ல எண் + 歳 (さい): 五歳 = ஐந்து வயது. じん என்பது நாட்டவர்; さん என்பது பெயருக்குப் பின் வரும் மரியாதை விகுதி." },
-      { "id": "L01-q09", "type": "vocab_context", "sentence": "「すみません、（　　）ですか。」「田中です。」", "options": ["なまえ", "どなた", "がくせい", "せんせい"], "answer": 1, "explanation_ta": "'நீங்கள் யார்?' என்று மரியாதையாகக் கேட்க どなた. பதில் 'தனாகா' என்ற பெயர் என்பதால் 'யார்' என்ற கேள்வியே பொருந்தும்." },
-      { "id": "L01-q10", "type": "vocab_context", "sentence": "「田中さんは 学生ですか。」「（　　）、学生じゃありません。先生です。」", "options": ["はい", "ええ", "みなさん", "いいえ"], "answer": 3, "explanation_ta": "பதில் 'மாணவர் இல்லை' என்ற மறுப்பு என்பதால் いいえ (இல்லை) வர வேண்டும். はい / ええ இரண்டும் 'ஆமாம்'." },
-      { "id": "L01-q11", "type": "vocab_context", "sentence": "カビタさんは インドの （　　）です。", "options": ["りゅうがくせい", "きょうしつ", "なまえ", "くに"], "answer": 0, "explanation_ta": "இந்தியாவிலிருந்து வந்த நபரைச் சொல்லும் சொல் 留学生 (வெளிநாட்டு மாணவர்). きょうしつ (வகுப்பறை), くに (நாடு) என்பவை நபர் அல்ல." },
-      { "id": "L01-q12", "type": "paraphrase", "sentence": "ラジャさんは 医者じゃありません。先生です。", "options": ["ラジャさんは 医者です。", "ラジャさんは 先生です。", "ラジャさんは 学生です。", "ラジャさんも 医者です。"], "answer": 1, "explanation_ta": "'மருத்துவர் இல்லை, ஆசிரியர்' என்பதன் சாராம்சம் 'ராஜா-சான் ஆசிரியர்'. முதல் தேர்வு மறுக்கப்பட்ட தொழிலையே சொல்கிறது." },
-      { "id": "L01-q13", "type": "paraphrase", "sentence": "田中さんは 日本人です。山田さんも 日本人です。", "options": ["山田さんは 日本人じゃありません。", "山田さんは 外国人です。", "山田さんは 日本人です。", "田中さんは 外国人です。"], "answer": 2, "explanation_ta": "も = '-உம்'; 'யமாடா-சானும் ஜப்பானியர்' என்பதால் 'யமாடா-சான் ஜப்பானியர்' என்பதே பொருள். 外国人 (வெளிநாட்டவர்) என்பது எதிர்ப்பொருள்." },
-      { "id": "L01-q14", "type": "paraphrase", "sentence": "ラジャさんは インド人です。", "options": ["ラジャさんは インドの 先生です。", "ラジャさんは 日本人です。", "ラジャさんの 名前は インドです。", "ラジャさんの 国は インドです。"], "answer": 3, "explanation_ta": "インド人 = இந்திய நாட்டவர்; அதாவது 'ராஜா-சானின் நாடு இந்தியா'. 'இந்தியாவின் ஆசிரியர்' என்பது தொழிலைச் சேர்க்கிறது, அது வாக்கியத்தில் இல்லை." },
-      { "id": "L01-q15", "type": "grammar_form", "sentence": "はじめまして。私（　　）カビタです。", "options": ["も", "の", "は", "か"], "answer": 2, "explanation_ta": "தலைப்பைக் குறிக்க は: 私は カビタです = நான் கவிதா. அறிமுகத்தின் முதல் வாக்கியத்தில் 'நானும்' (も) என்று சொல்ல முன்னர் எதுவும் இல்லை." },
-      { "id": "L01-q16", "type": "grammar_form", "sentence": "田中さんは 先生です。山田さん（　　）先生です。", "options": ["は", "の", "か", "も"], "answer": 3, "explanation_ta": "முன் வாக்கியத்தில் சொன்னதே இவருக்கும் பொருந்துவதால் '-உம்' = も. は போட்டால் தவறு இல்லை, ஆனால் 'கூட' என்ற பொருள் வராது; JLPT-யில் も எதிர்பார்க்கப்படுகிறது." },
-      { "id": "L01-q17", "type": "grammar_form", "sentence": "「田中さんは 医者です（　　）。」「はい、医者です。」", "options": ["の", "も", "か", "は"], "answer": 2, "explanation_ta": "はい என்று பதில் வருவதால் முதல் வாக்கியம் கேள்வி; கேள்வி விகுதி か (தமிழ் '-ஆ'). வாக்கியத்தின் கடைசியில் は / も வராது." },
-      { "id": "L01-q18", "type": "grammar_form", "sentence": "私は IITマドラス（　　）学生です。", "options": ["は", "も", "か", "の"], "answer": 3, "explanation_ta": "அமைப்பையும் நபரையும் இணைக்க の: IITマドラスの 学生 = IIT மதராஸ் மாணவர். ஒரு வாக்கியத்தில் は இரண்டு முறை வராது." },
-      { "id": "L01-q19", "type": "grammar_form", "sentence": "私は 先生（　　）。学生です。", "options": ["じゃありません", "です", "ですか", "も"], "answer": 0, "explanation_ta": "அடுத்த வாக்கியம் 'மாணவன்' என்பதால் முதலில் 'ஆசிரியர் இல்லை' என்ற மறுப்பு = じゃありません. です போட்டால் 'ஆசிரியர், மாணவன்' என்று முரண்பாடு." },
-      { "id": "L01-q20", "type": "grammar_form", "sentence": "「あなたは 日本人ですか。」「いいえ、日本人（　　）。」", "options": ["です", "ですか", "も", "じゃありません"], "answer": 3, "explanation_ta": "いいえ என்று தொடங்கும் பதில் மறுப்பு; அதனால் じゃありません. いいえ சொல்லிவிட்டு です என்று முடித்தால் பொருள் முரண்படும்." },
-      { "id": "L01-q21", "type": "grammar_form", "sentence": "「お名前（　　）？」「田中です。」", "options": ["は", "の", "か", "も"], "answer": 0, "explanation_ta": "「お名前は？」 என்று は-வில் நிறுத்தி குரலை உயர்த்தினால் 'உங்கள் பெயர்?' என்ற கேள்வி. か நேரடியாக பெயர்ச்சொல்லுக்குப் பின் வராது; 「お名前は 何ですか」 என்பதன் சுருக்கம் இது." },
-      { "id": "L01-q22", "type": "sentence_order", "before": "", "chunks": ["私は", "インドの", "留学生", "です"], "star": 2, "after": "。", "explanation_ta": "私は インドの 留学生です。 — தலைப்பு (私は) → の இணைப்பு (インドの) → பெயர்ச்சொல் (留学生) → です. ★ இடத்தில் 留学生 வரும்." },
-      { "id": "L01-q23", "type": "sentence_order", "before": "", "chunks": ["田中さんも", "日本語教室の", "先生", "です"], "star": 1, "after": "。", "explanation_ta": "田中さんも 日本語教室の 先生です。 — も வந்த தலைப்புக்குப் பின் の இணைப்புச் சொற்றொடர், பிறகு 先生です. ★ இடத்தில் 日本語教室の வரும்." },
-      { "id": "L01-q24", "type": "sentence_order", "before": "", "chunks": ["山田先生は", "どなた", "です", "か"], "star": 1, "after": "。", "explanation_ta": "山田先生は どなたですか。 — கேள்விச் சொல் どなた です-க்கு முன் வரும், か கடைசியில். ★ இடத்தில் どなた வரும்." },
-      { "id": "L01-q25", "type": "passage_cloze", "passage": "はじめまして。私は カビタです。インド［1］です。IITマドラスの 学生です。田中さん［2］IITマドラスの 学生です。田中さんは 日本人です。私は 学生です。先生［3］。どうぞよろしく。", "blanks": [
-        { "options": ["人", "さん", "歳", "ちゃん"], "answer": 0 },
-        { "options": ["は", "も", "の", "か"], "answer": 1 },
-        { "options": ["です", "じゃありません", "ですか", "も"], "answer": 1 }
-      ], "explanation_ta": "［1］ நாடு + 人 = இந்தியர். ［2］ கவிதா மாணவி என்று சொன்ன பின் தனாகா-சானும் மாணவர் என்பதால் も. ［3］ 'மாணவி' என்று சொன்ன பின் 'ஆசிரியர் இல்லை' என்ற மறுப்பு じゃありません." }
+      {
+        "id": "L01-q01",
+        "type": "kanji_reading",
+        "sentence": "私は ＿学生＿です。",
+        "target": "学生",
+        "options": [
+          "がくせ",
+          "がくせい",
+          "かくせい",
+          "がっせい"
+        ],
+        "answer": 1,
+        "explanation_ta": "学生 = がくせい. கடைசியில் நீண்ட ஒலி (せい) உண்டு; がくせ என்று குறுக்கினால் தவறு. か-வுக்குப் பதிலாக が என்ற ஒலியையும் கவனிக்க.",
+        "explanation_en": "学生 = がくせい (மாணவர், student). It ends with a long sound (せい); shortening it to がくせ is wrong. Also note the sound is が, not か."
+      },
+      {
+        "id": "L01-q02",
+        "type": "kanji_reading",
+        "sentence": "田中さんは ＿先生＿です。",
+        "target": "先生",
+        "options": [
+          "せんせ",
+          "ぜんせい",
+          "せいせん",
+          "せんせい"
+        ],
+        "answer": 3,
+        "explanation_ta": "先生 = せんせい. ぜんせい என்று ஒலி மாறுவதும், せんせ என்று நீண்ட ஒலியை விடுவதும் பொதுவான தவறுகள்.",
+        "explanation_en": "先生 = せんせい (ஆசிரியர், teacher). Changing the sound to ぜんせい, or dropping the long sound to make せんせ, are common mistakes."
+      },
+      {
+        "id": "L01-q03",
+        "type": "kanji_reading",
+        "sentence": "ラジャさんは ＿医者＿です。",
+        "target": "医者",
+        "options": [
+          "いじゃ",
+          "いしや",
+          "いしゃ",
+          "いっしゃ"
+        ],
+        "answer": 2,
+        "explanation_ta": "医者 = いしゃ. しゃ என்பது ஒரே ஒலி (சிறிய ゃ); いしや என்று இரண்டு ஒலியாகப் பிரிப்பது தவறு.",
+        "explanation_en": "医者 = いしゃ (மருத்துவர், doctor). しゃ is a single sound (with a small ゃ); splitting it into two sounds as いしや is wrong."
+      },
+      {
+        "id": "L01-q04",
+        "type": "orthography",
+        "sentence": "私の ＿なまえ＿は ラジャです。",
+        "target": "なまえ",
+        "options": [
+          "各前",
+          "名前",
+          "名削",
+          "右前"
+        ],
+        "answer": 1,
+        "explanation_ta": "なまえ = 名前 (பெயர்). 各 என்பது 名-ஐப் போலவே தோன்றும் வேறு எழுத்து; 名 என்பதில் மேலே 夕 பகுதி இருக்கும்.",
+        "explanation_en": "なまえ = 名前 (பெயர், name). 各 is a different character that looks like 名; 名 has the 夕 part on top."
+      },
+      {
+        "id": "L01-q05",
+        "type": "orthography",
+        "sentence": "私は 日本語＿きょうしつ＿の 学生です。",
+        "target": "きょうしつ",
+        "options": [
+          "数室",
+          "教至",
+          "教室",
+          "教堂"
+        ],
+        "answer": 2,
+        "explanation_ta": "きょうしつ = 教室 (வகுப்பறை). 数 என்பது 教-ஐப் போலத் தோன்றும் வேறு எழுத்து; 至 என்பது 室-இன் கீழ்ப்பகுதி மட்டும்.",
+        "explanation_en": "きょうしつ = 教室 (வகுப்பறை, classroom). 数 is a different character that looks like 教; 至 is only the bottom part of 室."
+      },
+      {
+        "id": "L01-q06",
+        "type": "vocab_context",
+        "sentence": "（　　）、私は カビタです。",
+        "options": [
+          "さようなら",
+          "はじめまして",
+          "おやすみなさい",
+          "いただきます"
+        ],
+        "answer": 1,
+        "explanation_ta": "முதல் முறை சந்திக்கும்போது அறிமுகத்தைத் தொடங்கும் சொல் はじめまして. さようなら என்பது பிரியும்போது சொல்வது.",
+        "explanation_en": "The word that starts an introduction when you meet someone for the first time is はじめまして (nice to meet you). さようなら is what you say when parting."
+      },
+      {
+        "id": "L01-q07",
+        "type": "vocab_context",
+        "sentence": "山田さんは 日本人です。私は （　　）です。",
+        "options": [
+          "インド",
+          "インド語",
+          "インドさん",
+          "インド人"
+        ],
+        "answer": 3,
+        "explanation_ta": "நாட்டவரைச் சொல்ல நாட்டின் பெயர் + 人 (じん): インド人 = இந்தியர். வெறும் インド என்றால் 'இந்தியா' என்ற நாடு.",
+        "explanation_en": "To say someone's nationality, use country name + 人 (じん): インド人 = Indian (இந்தியர்). Just インド means the country India (இந்தியா)."
+      },
+      {
+        "id": "L01-q08",
+        "type": "vocab_context",
+        "sentence": "ミーナちゃんは 五（　　）です。",
+        "options": [
+          "さん",
+          "じん",
+          "さい",
+          "にん"
+        ],
+        "answer": 2,
+        "explanation_ta": "வயது சொல்ல எண் + 歳 (さい): 五歳 = ஐந்து வயது. じん என்பது நாட்டவர்; さん என்பது பெயருக்குப் பின் வரும் மரியாதை விகுதி.",
+        "explanation_en": "To say an age, use number + 歳 (さい): 五歳 = five years old (ஐந்து வயது). じん means a person from a country; さん is the polite suffix that goes after a name."
+      },
+      {
+        "id": "L01-q09",
+        "type": "vocab_context",
+        "sentence": "「すみません、（　　）ですか。」「田中です。」",
+        "options": [
+          "なまえ",
+          "どなた",
+          "がくせい",
+          "せんせい"
+        ],
+        "answer": 1,
+        "explanation_ta": "'நீங்கள் யார்?' என்று மரியாதையாகக் கேட்க どなた. பதில் 'தனாகா' என்ற பெயர் என்பதால் 'யார்' என்ற கேள்வியே பொருந்தும்.",
+        "explanation_en": "To ask \"Who are you?\" politely, use どなた (யார், who). The answer is a name, \"Tanaka\", so a \"who\" question is the only one that fits."
+      },
+      {
+        "id": "L01-q10",
+        "type": "vocab_context",
+        "sentence": "「田中さんは 学生ですか。」「（　　）、学生じゃありません。先生です。」",
+        "options": [
+          "はい",
+          "ええ",
+          "みなさん",
+          "いいえ"
+        ],
+        "answer": 3,
+        "explanation_ta": "பதில் 'மாணவர் இல்லை' என்ற மறுப்பு என்பதால் いいえ (இல்லை) வர வேண்டும். はい / ええ இரண்டும் 'ஆமாம்'.",
+        "explanation_en": "The answer is a denial, \"not a student\", so it must start with いいえ (இல்லை, no). はい and ええ both mean \"yes\" (ஆமாம்)."
+      },
+      {
+        "id": "L01-q11",
+        "type": "vocab_context",
+        "sentence": "カビタさんは インドの （　　）です。",
+        "options": [
+          "りゅうがくせい",
+          "きょうしつ",
+          "なまえ",
+          "くに"
+        ],
+        "answer": 0,
+        "explanation_ta": "இந்தியாவிலிருந்து வந்த நபரைச் சொல்லும் சொல் 留学生 (வெளிநாட்டு மாணவர்). きょうしつ (வகுப்பறை), くに (நாடு) என்பவை நபர் அல்ல.",
+        "explanation_en": "The word for a person who has come from India to study is 留学生 (வெளிநாட்டு மாணவர், international student). きょうしつ (வகுப்பறை, classroom) and くに (நாடு, country) are not people."
+      },
+      {
+        "id": "L01-q12",
+        "type": "paraphrase",
+        "sentence": "ラジャさんは 医者じゃありません。先生です。",
+        "options": [
+          "ラジャさんは 医者です。",
+          "ラジャさんは 先生です。",
+          "ラジャさんは 学生です。",
+          "ラジャさんも 医者です。"
+        ],
+        "answer": 1,
+        "explanation_ta": "'மருத்துவர் இல்லை, ஆசிரியர்' என்பதன் சாராம்சம் 'ராஜா-சான் ஆசிரியர்'. முதல் தேர்வு மறுக்கப்பட்ட தொழிலையே சொல்கிறது.",
+        "explanation_en": "\"Not a doctor, a teacher\" boils down to \"Raja-san is a teacher\" (ஆசிரியர்). The first option gives the job that was denied."
+      },
+      {
+        "id": "L01-q13",
+        "type": "paraphrase",
+        "sentence": "田中さんは 日本人です。山田さんも 日本人です。",
+        "options": [
+          "山田さんは 日本人じゃありません。",
+          "山田さんは 外国人です。",
+          "山田さんは 日本人です。",
+          "田中さんは 外国人です。"
+        ],
+        "answer": 2,
+        "explanation_ta": "も = '-உம்'; 'யமாடா-சானும் ஜப்பானியர்' என்பதால் 'யமாடா-சான் ஜப்பானியர்' என்பதே பொருள். 外国人 (வெளிநாட்டவர்) என்பது எதிர்ப்பொருள்.",
+        "explanation_en": "も = \"too\" (-உம்); \"Yamada-san is Japanese too\" means \"Yamada-san is Japanese\". 外国人 (வெளிநாட்டவர், foreigner) is the opposite."
+      },
+      {
+        "id": "L01-q14",
+        "type": "paraphrase",
+        "sentence": "ラジャさんは インド人です。",
+        "options": [
+          "ラジャさんは インドの 先生です。",
+          "ラジャさんは 日本人です。",
+          "ラジャさんの 名前は インドです。",
+          "ラジャさんの 国は インドです。"
+        ],
+        "answer": 3,
+        "explanation_ta": "インド人 = இந்திய நாட்டவர்; அதாவது 'ராஜா-சானின் நாடு இந்தியா'. 'இந்தியாவின் ஆசிரியர்' என்பது தொழிலைச் சேர்க்கிறது, அது வாக்கியத்தில் இல்லை.",
+        "explanation_en": "インド人 = an Indian (இந்திய நாட்டவர்), which means \"Raja-san's country is India\". \"A teacher from India\" adds a job, which is not in the sentence."
+      },
+      {
+        "id": "L01-q15",
+        "type": "grammar_form",
+        "sentence": "はじめまして。私（　　）カビタです。",
+        "options": [
+          "も",
+          "の",
+          "は",
+          "か"
+        ],
+        "answer": 2,
+        "explanation_ta": "தலைப்பைக் குறிக்க は: 私は カビタです = நான் கவிதா. அறிமுகத்தின் முதல் வாக்கியத்தில் 'நானும்' (も) என்று சொல்ல முன்னர் எதுவும் இல்லை.",
+        "explanation_en": "The topic is marked with は: 私は カビタです = I am Kavitha. In the first sentence of an introduction there is nothing before it to say \"me too\" (も) about."
+      },
+      {
+        "id": "L01-q16",
+        "type": "grammar_form",
+        "sentence": "田中さんは 先生です。山田さん（　　）先生です。",
+        "options": [
+          "は",
+          "の",
+          "か",
+          "も"
+        ],
+        "answer": 3,
+        "explanation_ta": "முன் வாக்கியத்தில் சொன்னதே இவருக்கும் பொருந்துவதால் '-உம்' = も. は போட்டால் தவறு இல்லை, ஆனால் 'கூட' என்ற பொருள் வராது; JLPT-யில் も எதிர்பார்க்கப்படுகிறது.",
+        "explanation_en": "What was said in the previous sentence also applies to this person, so \"too\" (-உம்) = も. Using は is not wrong, but it loses the meaning of \"also\"; the JLPT expects も."
+      },
+      {
+        "id": "L01-q17",
+        "type": "grammar_form",
+        "sentence": "「田中さんは 医者です（　　）。」「はい、医者です。」",
+        "options": [
+          "の",
+          "も",
+          "か",
+          "は"
+        ],
+        "answer": 2,
+        "explanation_ta": "はい என்று பதில் வருவதால் முதல் வாக்கியம் கேள்வி; கேள்வி விகுதி か (தமிழ் '-ஆ'). வாக்கியத்தின் கடைசியில் は / も வராது.",
+        "explanation_en": "The reply is はい, so the first sentence is a question; the question ending is か (like Tamil \"-ஆ\"). は / も do not come at the end of a sentence."
+      },
+      {
+        "id": "L01-q18",
+        "type": "grammar_form",
+        "sentence": "私は IITマドラス（　　）学生です。",
+        "options": [
+          "は",
+          "も",
+          "か",
+          "の"
+        ],
+        "answer": 3,
+        "explanation_ta": "அமைப்பையும் நபரையும் இணைக்க の: IITマドラスの 学生 = IIT மதராஸ் மாணவர். ஒரு வாக்கியத்தில் は இரண்டு முறை வராது.",
+        "explanation_en": "The organisation and the person are linked with の: IITマドラスの 学生 = an IIT Madras student (IIT மதராஸ் மாணவர்). は does not appear twice in one sentence."
+      },
+      {
+        "id": "L01-q19",
+        "type": "grammar_form",
+        "sentence": "私は 先生（　　）。学生です。",
+        "options": [
+          "じゃありません",
+          "です",
+          "ですか",
+          "も"
+        ],
+        "answer": 0,
+        "explanation_ta": "அடுத்த வாக்கியம் 'மாணவன்' என்பதால் முதலில் 'ஆசிரியர் இல்லை' என்ற மறுப்பு = じゃありません. です போட்டால் 'ஆசிரியர், மாணவன்' என்று முரண்பாடு.",
+        "explanation_en": "The next sentence says \"student\", so the first sentence must be the denial \"not a teacher\" = じゃありません. Using です would contradict itself: \"a teacher, a student\"."
+      },
+      {
+        "id": "L01-q20",
+        "type": "grammar_form",
+        "sentence": "「あなたは 日本人ですか。」「いいえ、日本人（　　）。」",
+        "options": [
+          "です",
+          "ですか",
+          "も",
+          "じゃありません"
+        ],
+        "answer": 3,
+        "explanation_ta": "いいえ என்று தொடங்கும் பதில் மறுப்பு; அதனால் じゃありません. いいえ சொல்லிவிட்டு です என்று முடித்தால் பொருள் முரண்படும்.",
+        "explanation_en": "A reply starting with いいえ is a denial, so it needs じゃありません. Saying いいえ and then ending with です makes the meaning contradict itself."
+      },
+      {
+        "id": "L01-q21",
+        "type": "grammar_form",
+        "sentence": "「お名前（　　）？」「田中です。」",
+        "options": [
+          "は",
+          "の",
+          "か",
+          "も"
+        ],
+        "answer": 0,
+        "explanation_ta": "「お名前は？」 என்று は-வில் நிறுத்தி குரலை உயர்த்தினால் 'உங்கள் பெயர்?' என்ற கேள்வி. か நேரடியாக பெயர்ச்சொல்லுக்குப் பின் வராது; 「お名前は 何ですか」 என்பதன் சுருக்கம் இது.",
+        "explanation_en": "Stopping at は in 「お名前は？」 and raising your voice makes the question \"Your name?\" (உங்கள் பெயர்?). か does not come directly after a noun here; this is a shortened form of 「お名前は 何ですか」."
+      },
+      {
+        "id": "L01-q22",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "私は",
+          "インドの",
+          "留学生",
+          "です"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "私は インドの 留学生です。 — தலைப்பு (私は) → の இணைப்பு (インドの) → பெயர்ச்சொல் (留学生) → です. ★ இடத்தில் 留学生 வரும்.",
+        "explanation_en": "私は インドの 留学生です。 — topic (私は) → の link (インドの) → noun (留学生) → です. 留学生 goes in the ★ slot."
+      },
+      {
+        "id": "L01-q23",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "田中さんも",
+          "日本語教室の",
+          "先生",
+          "です"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "田中さんも 日本語教室の 先生です。 — も வந்த தலைப்புக்குப் பின் の இணைப்புச் சொற்றொடர், பிறகு 先生です. ★ இடத்தில் 日本語教室の வரும்.",
+        "explanation_en": "田中さんも 日本語教室の 先生です。 — after the topic with も comes the の phrase, then 先生です. 日本語教室の goes in the ★ slot."
+      },
+      {
+        "id": "L01-q24",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "山田先生は",
+          "どなた",
+          "です",
+          "か"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "山田先生は どなたですか。 — கேள்விச் சொல் どなた です-க்கு முன் வரும், か கடைசியில். ★ இடத்தில் どなた வரும்.",
+        "explanation_en": "山田先生は どなたですか。 — the question word どなた comes before です, and か comes last. どなた goes in the ★ slot."
+      },
+      {
+        "id": "L01-q25",
+        "type": "passage_cloze",
+        "passage": "はじめまして。私は カビタです。インド［1］です。IITマドラスの 学生です。田中さん［2］IITマドラスの 学生です。田中さんは 日本人です。私は 学生です。先生［3］。どうぞよろしく。",
+        "blanks": [
+          {
+            "options": [
+              "人",
+              "さん",
+              "歳",
+              "ちゃん"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "は",
+              "も",
+              "の",
+              "か"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "です",
+              "じゃありません",
+              "ですか",
+              "も"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ நாடு + 人 = இந்தியர். ［2］ கவிதா மாணவி என்று சொன்ன பின் தனாகா-சானும் மாணவர் என்பதால் も. ［3］ 'மாணவி' என்று சொன்ன பின் 'ஆசிரியர் இல்லை' என்ற மறுப்பு じゃありません.",
+        "explanation_en": "［1］ Country + 人 = Indian (இந்தியர்). ［2］ After saying Kavitha is a student, Tanaka-san is a student too, so も. ［3］ After saying \"student\", the denial \"not a teacher\" is じゃありません."
+      }
     ]
   }
 }

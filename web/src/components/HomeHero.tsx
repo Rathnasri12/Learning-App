@@ -34,10 +34,10 @@ export default function HomeHero({ lessonCount, readyCount }: { lessonCount: num
         <div className="flex-1 text-center sm:text-left">
           <div className="text-sm font-extrabold text-sakura tracking-wide">JLPT N5</div>
           <h1 className="text-3xl sm:text-4xl font-black leading-tight mt-1">
-            <span lang="ja">日本語</span>, <span lang="ta">தமிழில்</span>.
+            <span lang="ja">日本語</span> for Tamil speakers
           </h1>
-          <p className="text-fg-2 mt-2" lang="ta">
-            அட்டைகள், விளையாட்டுகள், JLPT வடிவத் தேர்வுகள். ஒவ்வொரு நாளும் 15 நிமிடம்.
+          <p className="text-fg-2 mt-2">
+            Flashcards, games and JLPT-style tests, with every word explained in Tamil. 15 minutes a day.
           </p>
           <div className="mt-4 flex flex-wrap gap-3 justify-center sm:justify-start">
             <Link href={`/n5/lesson/${next}`} className="btn btn-primary">

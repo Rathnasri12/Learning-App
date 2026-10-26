@@ -16,8 +16,8 @@ export default function Home() {
         <Link href="/n5" className="card p-5 hover:-translate-y-0.5 transition">
           <div className="text-xs font-extrabold text-sakura tracking-wider">LEVEL</div>
           <div className="text-4xl font-black mt-1">N5</div>
-          <div className="text-fg-2 mt-2 text-sm" lang="ta">
-            25 பாடங்கள் · சொற்கள் + இலக்கணம் + JLPT தேர்வு
+          <div className="text-fg-2 mt-2 text-sm">
+            25 lessons · vocabulary + grammar + JLPT tests
           </div>
           <div className="mt-3 text-xs font-bold text-muted">
             {ready}/{syllabus.lessonCount} lessons ready
@@ -29,8 +29,8 @@ export default function Home() {
             <Lock size={16} className="text-muted" />
           </div>
           <div className="text-4xl font-black mt-1">N4</div>
-          <div className="text-fg-2 mt-2 text-sm" lang="ta">
-            N5 முடித்த பிறகு திறக்கும்
+          <div className="text-fg-2 mt-2 text-sm">
+            Unlocks after N5
           </div>
         </div>
         <div className="card p-5 opacity-60">
@@ -39,17 +39,17 @@ export default function Home() {
             <Lock size={16} className="text-muted" />
           </div>
           <div className="text-4xl font-black mt-1">N3</div>
-          <div className="text-fg-2 mt-2 text-sm" lang="ta">
-            N4 முடித்த பிறகு திறக்கும்
+          <div className="text-fg-2 mt-2 text-sm">
+            Unlocks after N4
           </div>
         </div>
       </section>
 
       <section className="grid gap-4 sm:grid-cols-3">
         {[
-          { ja: "漢字", ta: "கான்ஜி", en: "Kanji track" },
-          { ja: "読解", ta: "வாசிப்பு", en: "Reading track" },
-          { ja: "聴解", ta: "கேட்டல்", en: "Listening track" },
+          { ja: "漢字", en: "Kanji track" },
+          { ja: "読解", en: "Reading track" },
+          { ja: "聴解", en: "Listening track" },
         ].map((t) => (
           <div key={t.en} className="card p-5 opacity-60 flex items-center gap-4">
             <div className="text-3xl font-black" lang="ja">
@@ -57,9 +57,7 @@ export default function Home() {
             </div>
             <div>
               <div className="font-extrabold">{t.en}</div>
-              <div className="text-sm text-fg-2" lang="ta">
-                {t.ta} · விரைவில்
-              </div>
+              <div className="text-sm text-fg-2">Coming soon</div>
             </div>
           </div>
         ))}

@@ -1,0 +1,75 @@
+{
+  "lesson": 5,
+  "intro_en": "In this lesson you will learn to talk about travel: \"Where are you going?\", \"How are you going?\", \"Who are you going with?\", \"When did you come?\". It covers three movement verbs, 行きます (go, போ), 来ます (come, வா) and 帰ります (return, திரும்பு), and the particles へ for direction (\"to\", -க்கு), で for a vehicle (\"by\", -இல்) and と for a companion (\"with\", -உடன்). You will also learn to say months, dates and your birthday, especially the special readings of the dates 1 to 10.",
+  "grammar": {
+    "g05-1": {
+      "explanation_en": "へ marks the direction of movement; when it is a particle, へ is pronounced \"e\". 「駅へ 行きます」 = \"I go to the station\" (ரயில் நிலையத்துக்குப் போகிறேன்). へ is the \"-க்கு\" (to) in the Tamil \"நிலையத்து-க்கு\". 行きます = go (away from the speaker), 来ます = come (toward the speaker), 帰ります = return to your own home / hometown / country. Where Tamil says \"வீட்டுக்குப் போகிறேன்\" (I'm going home), Japanese says \"I'm returning\" (帰ります). \"Where are you going?\" = 「どこへ 行きますか」. に can also be used instead of へ (日本に 来ました), but in this lesson practise with へ.",
+      "tamil_parallel_en": "நாளை டோக்கியோவுக்குப் போகிறேன் \"I'm going to Tokyo tomorrow\" = 明日 東京へ 行きます。 Here へ is roughly the Tamil \"-க்கு\" (to) showing direction.",
+      "formation_en": "Place + へ + 行きます / 来ます / 帰ります",
+      "pitfalls_en": "Don't read へ as \"he\"; it is \"e\". \"I'm going home\" = 帰ります (not 行きます). 来ます means coming to where the speaker is; while you are in Japan, you can't use 来ます to say \"I'm coming to India\"."
+    },
+    "g05-2": {
+      "explanation_en": "Question word + も + negative verb = \"nothing / nowhere …\". 「どこへも 行きません」 = \"I don't go anywhere\" (எங்கும் போகவில்லை). Tamil \"எங்கு-ம் போகவில்லை\" has exactly the same structure: \"எங்கு\" (where) + \"-உம்\" + negative. It is the same も = \"-உம்\" you learned in Lesson 1! You can also drop へ and say 「どこも 行きません」. This も must always be followed by ません / ませんでした.",
+      "tamil_parallel_en": "நேற்று எங்கும் போகவில்லை \"I didn't go anywhere yesterday\" = 昨日 どこ[へ]も 行きませんでした。 Just like Tamil \"எங்கு + -உம் + negative\", どこも + negative means \"not … anywhere\".",
+      "formation_en": "どこ + [へ] + も + V ません / ませんでした",
+      "pitfalls_en": "「どこへも 行きます」 is wrong: a positive verb cannot come after this も. If you drop も and say 「どこへ 行きません」, it becomes a different question: \"Where won't you go?\"."
+    },
+    "g05-3": {
+      "explanation_en": "To say which vehicle you travel by, use vehicle + で: 「電車で 行きます」 = \"I go by train\" (ரயிலில் போகிறேன்). で is the \"-இல்\" (in / by), or \"மூலம்\" (by means of), in Tamil \"ரயிலி-ல்\" (by train) and \"பஸ்ஸி-ல்\" (by bus). \"How do you go?\" = 「何で 行きますか」 (なんで). Walking doesn't use で: 「歩いて 行きます」 = \"I walk there\" (நடந்து போகிறேன்). This is a verb form like the Tamil \"நட-ந்து\" (having walked); for now, memorise it as a phrase. Sentence order: time → vehicle で → place へ → verb; but as in Tamil, you can change this order somewhat.",
+      "tamil_parallel_en": "ரயிலில் டோக்கியோவுக்குப் போகிறேன் \"I go to Tokyo by train\" = 電車で 東京へ 行きます。 Here で is roughly the Tamil \"-இல் / மூலம்\" (by) for a vehicle, and 歩いて is like the Tamil verbal participle \"நடந்து\" (walking).",
+      "formation_en": "Vehicle + で + place + へ + V ; 歩いて + V",
+      "pitfalls_en": "Don't add で after 歩いて (「歩いてで」 is wrong). \"How / by what?\" = 何で (なんで); the same characters can also mean \"why\", so work it out from the context."
+    },
+    "g05-4": {
+      "explanation_en": "To say who you do something with, use person + と: 「友達と 行きます」 = \"I go with a friend\" (நண்பருடன் போகிறேன்). This と is the Tamil \"நண்பரு-டன் / நண்பரோ-டு\" (with a friend). In the last lesson, と joined two nouns as \"and\"; here, used with a verb, it means \"with\". \"With whom?\" = 「誰と」. To say you go alone, use 「一人で」 (ひとりで) = \"alone\" (தனியாக). Here it is で, not と; memorise it as a phrase. With family = 家族と.",
+      "tamil_parallel_en": "நண்பருடன் டோக்கியோவுக்குப் போனேன் \"I went to Tokyo with a friend\" = 友達と 東京へ 行きました。 Here と is roughly the Tamil \"-உடன் / -ஓடு\" (with).",
+      "formation_en": "Person + と + V ; 一人で + V ; 誰と V ますか",
+      "pitfalls_en": "「一人と」 is wrong; \"alone\" = 一人で. 「友達で 行きます」 would have the strange meaning \"I go using my friend as a vehicle\"; use と for people and で for vehicles."
+    },
+    "g05-5": {
+      "explanation_en": "\"When?\" = いつ. 「いつ 日本へ 来ましたか」 = \"When did you come to Japan?\" (எப்போது ஜப்பானுக்கு வந்தீர்கள்?). Important: いつ does not take に, just as relative time words like 今日 and 明日 don't take に. In Tamil too we wouldn't say \"எப்போது-க்கு வந்தீர்கள்\", would we? But if the answer has a time with a number, such as a date or month, we add に: 「四月に 来ました」. いつ can also come with です, as in 「誕生日は いつですか」.",
+      "tamil_parallel_en": "எப்போது ஜப்பானுக்கு வந்தீர்கள்? — ஏப்ரல் மாதம் வந்தேன். \"When did you come to Japan? — I came in April.\" = いつ 日本へ 来ましたか。— 四月に 来ました。 Like Tamil \"எப்போது\" (when), いつ takes no case ending.",
+      "formation_en": "いつ + V ますか (no に) ; N は いつですか",
+      "pitfalls_en": "「いつに 行きますか」 is wrong; don't put に after いつ. To ask only for the clock time, use 何時に (なんじに); いつ is the general \"when\"."
+    },
+    "g05-6": {
+      "explanation_en": "Adding よ at the end of a sentence means \"I'm telling you some new information you don't know\". It is like the emphasis in the Tamil \"இந்த ரயில் கியோட்டோவுக்குப் போகாது-ங்க!\" (This train doesn't go to Kyoto, you know!) or \"நாளை சனிக்கிழமை-யே!\" (Tomorrow is Saturday, you know!). The ね from the last lesson expects the listener to agree (both of you know it); よ tells the listener something they don't know. If you use よ often with seniors such as teachers, it can sound like you are saying \"you don't know this\", so use it carefully.",
+      "tamil_parallel_en": "இந்த பஸ் ரயில் நிலையத்துக்குப் போகாது-ங்க! \"This bus doesn't go to the station, you know!\" = このバスは 駅へ 行きませんよ。 Here よ is roughly the Tamil \"தெரியுமா / -ங்க\" (you know), used for new information.",
+      "formation_en": "Sentence (です / ます) + よ",
+      "pitfalls_en": "Don't add よ to a question (「行きますかよ」 is wrong). ね = \"isn't it?\" (shared information), よ = \"you know!\" (new information); don't mix the two up."
+    },
+    "g05-7": {
+      "explanation_en": "Japanese months use only numbers: number + 月 (がつ): 一月 (January, ஜனவரி), 二月 (February, பிப்ரவரி) … 十二月 (December, டிசம்பர்). Sound changes: 四月 = しがつ, 七月 = しちがつ, 九月 = くがつ. \"Which month?\" = 何月 (なんがつ). Dates: from the 11th on, they are generally number + 日 (にち): 十一日, 十五日. But 1–10, 14, 20 and 24 have special readings: 一日 ついたち, 二日 ふつか, 三日 みっか, 四日 よっか, 五日 いつか, 六日 むいか, 七日 なのか, 八日 ようか, 九日 ここのか, 十日 とおか, 十四日 じゅうよっか, 二十日 はつか, 二十四日 にじゅうよっか. \"What date?\" = 何日 (なんにち). Order: month → date, just as Tamil says \"ஜூலை ஏழாம் தேதி\" (July 7th). To say a length of time, use 〜か月 (months): 三か月 = three months (மூன்று மாதங்கள்); 一か月 = 一月 (ひとつき).",
+      "tamil_parallel_en": "என் பிறந்தநாள் ஜூலை ஏழாம் தேதி \"My birthday is July 7th\" = 私の 誕生日は 七月七日です。 Here 月 is roughly \"மாதம்\" (month) and 日 is \"தேதி\" (date), in the same month → date order as Tamil.",
+      "formation_en": "(number) 月 (number) 日 ; 何月 何日ですか ; 〜か月 (length of time)",
+      "pitfalls_en": "四月 = しがつ (not よんがつ), 九月 = くがつ (not きゅうがつ). Tell 一日 \"ついたち\" (the first day of the month) apart from \"いちにち\" (one whole day). 三月 (さんがつ = March) ≠ 三か月 (さんかげつ = three months)."
+    }
+  },
+  "items": {
+    "L05-q01": "電車 = でんしゃ (ரயில், train). しゃ is a single sound (with a small ゃ); splitting it as でんしや, or changing で to て, is wrong.",
+    "L05-q02": "友達 = ともだち (நண்பர், friend). Here 達 is だち (not たち); ゆう is another reading of 友 that doesn't appear in this word.",
+    "L05-q03": "飛行機 = ひこうき (விமானம், aeroplane). Here 行 is こう (a long sound); shortening it to ひこき or changing こ to ご is wrong.",
+    "L05-q04": "くるま = 車 (கார், car). 東 (கிழக்கு, east) looks very similar; 車 has a 田 shape in the middle and only one stroke above it.",
+    "L05-q05": "たんじょうび = 誕生日 (பிறந்தநாள், birthday). 延 is only the right-hand part of 誕; 性 / 目 are look-alike traps.",
+    "L05-q06": "Returning to your own country is 帰ります (திரும்புகிறேன், return). 来ます means coming to where the speaker is; 起きます / 寝ます don't take a place with へ.",
+    "L05-q07": "The answer is a time, \"last month\", so the question is いつ (எப்போது, when). If it were どこ, the answer would be a place.",
+    "L05-q08": "行きました is past tense, and the next sentence is about \"this week\", so \"last week\" (先週, போன வாரம்). 明日 is future; 今週 would contradict the next sentence.",
+    "L05-q09": "The fifth = 五日 (いつか), a special reading. Saying number + にち, as in ごにち, is only for the 11th and above. いつ means \"when\" (எப்போது).",
+    "L05-q10": "If you didn't go with a friend, then \"alone\" = 一人で (தனியாக). かぞくで / ともだちで are wrong: people take と, not で.",
+    "L05-q11": "Chennai to Tokyo is across the sea, so only an aeroplane (飛行機, விமானம்) fits.",
+    "L05-q12": "Didn't come by car, came on foot: the essence is \"came walking\" (நடந்து வந்தார்). 来ませんでした would change the meaning to \"didn't come at all\".",
+    "L05-q13": "一人で = \"alone\" (தனியாக) = \"didn't go with anyone\". The other options add a companion or deny the trip itself.",
+    "L05-q14": "\"Came last month\" = \"didn't come this month, came last month\" (போன மாதம் வந்தார்). 先週 (போன வாரம், last week) changes the time; 帰りました changes the direction.",
+    "L05-q15": "The destination → へ (Tamil \"-க்கு\", to). で is for vehicles; と is for people.",
+    "L05-q16": "A vehicle → で (Tamil \"-இல்\", by). バスへ would change the meaning to \"toward the bus\".",
+    "L05-q17": "With whom → と (Tamil \"-உடன்\", with). 家族で has a different meaning, \"as a family\", and is not this lesson's rule.",
+    "L05-q18": "Question word + も + negative = \"didn't go anywhere\" (எங்கும் போகவில்லை). Using は does not give this meaning.",
+    "L05-q19": "The answer is \"August\" (a month), so the question is いつ (எப்போது, when); don't put に after いつ. 「いつに」 is a common mistake Tamil speakers make. 何日 / 何時 would make the answer a date / a clock time.",
+    "L05-q20": "The speaker is telling the listener new information they don't know, so よ. ね would treat it as something the listener already knows; か would make it a question.",
+    "L05-q21": "The seventh = 七日 (なのか). Saying number + にち, as in しちにち, is wrong; かげつ is for lengths of time.",
+    "L05-q22": "友達と 電車で 京都へ 行きました。 — person と → vehicle で → place へ → verb. 電車で goes in the ★ slot.",
+    "L05-q23": "誕生日は 何月何日ですか。 — month first, date after. 何日 goes in the ★ slot.",
+    "L05-q24": "昨日は どこへも 行きませんでした。 — どこ + へも + past negative. へも goes in the ★ slot.",
+    "L05-q25": "［1］ Came \"to Japan\" (ஜப்பானுக்கு) → へ. ［2］ Vehicle, \"by train\" (ரயிலில்) → で. ［3］ \"I will go to Kyoto with my family\" (குடும்பத்துடன்) → と."
+  }
+}

@@ -1,148 +1,789 @@
 {
   "lesson": 3,
-  "title": { "ja": "ここはどこですか", "ta": "இது எந்த இடம்?", "en": "Where is this? How much?" },
+  "title": {
+    "ja": "ここはどこですか",
+    "ta": "இது எந்த இடம்?",
+    "en": "Where is this? How much?"
+  },
   "intro_ta": "இந்தப் பாடத்தில் இடங்களைச் சுட்டிக்காட்டவும், 'வங்கி எங்கே?', 'இது எத்தனையாவது மாடி?', 'இது என்ன விலை?' என்று கேட்கவும் பதில் சொல்லவும் கற்றுக்கொள்வீர்கள். ரயில் நிலையம், வங்கி, தபால் நிலையம், மருத்துவமனை போன்ற இடப் பெயர்களும், நூறு முதல் பத்தாயிரம் வரையிலான எண்களும், யென் நாணயமும் இதில் வரும். தமிழில் 'இங்கே / அங்கே / எங்கே' என்று சொல்வது போலவே ஜப்பானியில் ここ・そこ・あそこ・どこ — முந்தைய பாடத்தின் これ・それ・あれ அமைப்பையே பின்பற்றுகின்றன.",
+  "intro_en": "In this lesson you will learn to point at places and to ask and answer \"Where is the bank?\", \"Which floor is this?\" and \"How much is this?\". It includes place names such as railway station, bank, post office and hospital, numbers from one hundred to ten thousand, and the yen currency. Just as Tamil says \"இங்கே / அங்கே / எங்கே\" (here / there / where), Japanese has ここ・そこ・あそこ・どこ, which follow the same pattern as これ・それ・あれ from the last lesson.",
   "grammar": [
     {
       "id": "g03-1",
       "pattern": "ここ / そこ / あそこ / こちら / そちら / あちら",
-      "name": { "en": "Here / there / over there (and polite forms)", "ta": "இங்கே / அங்கே / அதோ அங்கே (மரியாதை வடிவங்களுடன்)" },
+      "name": {
+        "en": "Here / there / over there (and polite forms)",
+        "ta": "இங்கே / அங்கே / அதோ அங்கே (மரியாதை வடிவங்களுடன்)"
+      },
       "explanation_ta": "これ・それ・あれ பொருட்களைச் சுட்டியது போலவே, ここ・そこ・あそこ இடங்களைச் சுட்டுகின்றன: ここ = பேசுபவர் இருக்கும் இடம் ('இங்கே'), そこ = கேட்பவர் அருகில் ('அங்கே'), あそこ = இருவருக்கும் தூரம் ('அதோ அங்கே'). தமிழில் 'இ-' சுட்டு அருகில், 'அ-' சுட்டு தூரம் என்பது போல, ஜப்பானியில் こ- / そ- / あ- / ど- என்ற நான்கு தொடக்கங்கள் ஒரு குடும்பமாக வருகின்றன. こちら・そちら・あちら என்பவை 'இந்தப் பக்கம் / அந்தப் பக்கம்' என்ற திசைச் சொற்கள்; கடைகளிலும் அலுவலகங்களிலும் ここ・そこ・あそこ-க்குப் பதிலாக மரியாதை வடிவமாகவும் பயன்படும். ஒருவரை அறிமுகம் செய்யும்போது 「こちらは 山田さんです」 = 'இவர் யமாடா-சான்' — தமிழில் 'இவர்' என்பது போன்ற மரியாதையான சுட்டு.",
+      "explanation_en": "Just as これ・それ・あれ point at things, ここ・そこ・あそこ point at places: ここ = where the speaker is (\"here\", இங்கே), そこ = near the listener (\"there\", அங்கே), あそこ = far from both (\"over there\", அதோ அங்கே). Just as in Tamil the \"இ-\" demonstrative means near and \"அ-\" means far, Japanese has a family of four beginnings: こ- / そ- / あ- / ど-. こちら・そちら・あちら are direction words, \"this way / that way\"; in shops and offices they are also used as the polite form instead of ここ・そこ・あそこ. When you introduce someone, 「こちらは 山田さんです」 = \"This is Yamada-san\" (இவர் யமாடா-சான்), a polite way of pointing, like the Tamil \"இவர்\" (this person, respectful).",
       "tamil_parallel": "இங்கே வகுப்பறை. / அங்கே வங்கி. = ここは 教室です。/ あそこは 銀行です。 — こ ≈ 'இ', そ / あ ≈ 'அ', ど ≈ 'எ'",
+      "tamil_parallel_en": "இங்கே வகுப்பறை \"Here is the classroom\" / அங்கே வங்கி \"Over there is the bank\" = ここは 教室です。/ あそこは 銀行です。 The Japanese こ matches Tamil \"இ\" (this/here), そ and あ match \"அ\" (that/there), and ど matches \"எ\" (which/where).",
       "formation": "ここ / そこ / あそこ (சாதாரணம்) — こちら / そちら / あちら (மரியாதை, திசை)",
+      "formation_en": "ここ / そこ / あそこ (ordinary) — こちら / そちら / あちら (polite, direction)",
       "examples": [
-        { "ja": "ここは 教室です。", "reading": "ここは きょうしつです。", "romaji": "koko wa kyoushitsu desu.", "ta": "இது வகுப்பறை.", "en": "This is the classroom." },
-        { "ja": "そこは お手洗いです。", "reading": "そこは おてあらいです。", "romaji": "soko wa otearai desu.", "ta": "அங்கே (உங்கள் அருகில்) கழிப்பறை.", "en": "That place is the restroom." },
-        { "ja": "あそこは 郵便局ですか。", "reading": "あそこは ゆうびんきょくですか。", "romaji": "asoko wa yuubinkyoku desu ka.", "ta": "அங்கே இருப்பது தபால் நிலையமா?", "en": "Is that over there the post office?" },
-        { "ja": "いいえ、郵便局じゃありません。銀行です。", "reading": "いいえ、ゆうびんきょくじゃありません。ぎんこうです。", "romaji": "iie, yuubinkyoku ja arimasen. ginkou desu.", "ta": "இல்லை, தபால் நிலையம் இல்லை. வங்கி.", "en": "No, it is not the post office. It is a bank." },
-        { "ja": "階段は こちらです。", "reading": "かいだんは こちらです。", "romaji": "kaidan wa kochira desu.", "ta": "படிக்கட்டு இந்தப் பக்கம் இருக்கிறது.", "en": "The stairs are this way." },
-        { "ja": "こちらは 田中さんです。", "reading": "こちらは たなかさんです。", "romaji": "kochira wa tanaka-san desu.", "ta": "இவர் தனாகா-சான்.", "en": "This is Mr Tanaka." }
+        {
+          "ja": "ここは 教室です。",
+          "reading": "ここは きょうしつです。",
+          "romaji": "koko wa kyoushitsu desu.",
+          "ta": "இது வகுப்பறை.",
+          "en": "This is the classroom."
+        },
+        {
+          "ja": "そこは お手洗いです。",
+          "reading": "そこは おてあらいです。",
+          "romaji": "soko wa otearai desu.",
+          "ta": "அங்கே (உங்கள் அருகில்) கழிப்பறை.",
+          "en": "That place is the restroom."
+        },
+        {
+          "ja": "あそこは 郵便局ですか。",
+          "reading": "あそこは ゆうびんきょくですか。",
+          "romaji": "asoko wa yuubinkyoku desu ka.",
+          "ta": "அங்கே இருப்பது தபால் நிலையமா?",
+          "en": "Is that over there the post office?"
+        },
+        {
+          "ja": "いいえ、郵便局じゃありません。銀行です。",
+          "reading": "いいえ、ゆうびんきょくじゃありません。ぎんこうです。",
+          "romaji": "iie, yuubinkyoku ja arimasen. ginkou desu.",
+          "ta": "இல்லை, தபால் நிலையம் இல்லை. வங்கி.",
+          "en": "No, it is not the post office. It is a bank."
+        },
+        {
+          "ja": "階段は こちらです。",
+          "reading": "かいだんは こちらです。",
+          "romaji": "kaidan wa kochira desu.",
+          "ta": "படிக்கட்டு இந்தப் பக்கம் இருக்கிறது.",
+          "en": "The stairs are this way."
+        },
+        {
+          "ja": "こちらは 田中さんです。",
+          "reading": "こちらは たなかさんです。",
+          "romaji": "kochira wa tanaka-san desu.",
+          "ta": "இவர் தனாகா-சான்.",
+          "en": "This is Mr Tanaka."
+        }
       ],
-      "pitfalls_ta": "அறிமுகத்தில் 「この人は 田中さんです」 என்பதை விட 「こちらは」 மிக மரியாதையானது. あそこ என்று சொல்லும்போது 'あそ' அல்ல, முழுமையாக あそこ; 'அச்சோ' போல உச்சரிக்க வேண்டாம்."
+      "pitfalls_ta": "அறிமுகத்தில் 「この人は 田中さんです」 என்பதை விட 「こちらは」 மிக மரியாதையானது. あそこ என்று சொல்லும்போது 'あそ' அல்ல, முழுமையாக あそこ; 'அச்சோ' போல உச்சரிக்க வேண்டாம்.",
+      "pitfalls_en": "When introducing someone, 「こちらは」 is much more polite than 「この人は 田中さんです」. When you say あそこ, say all of it, あそこ, not \"あそ\"; don't pronounce it like \"அச்சோ\"."
     },
     {
       "id": "g03-2",
       "pattern": "N は place です",
-      "name": { "en": "N is at (place)", "ta": "N (இந்த இடத்தில்) இருக்கிறது" },
+      "name": {
+        "en": "N is at (place)",
+        "ta": "N (இந்த இடத்தில்) இருக்கிறது"
+      },
       "explanation_ta": "ஒரு பொருள் அல்லது இடம் எங்கே இருக்கிறது என்று சொல்ல முதல் பாடத்தின் 「N1 は N2 です」 அமைப்பையே பயன்படுத்தலாம்: 「銀行は あそこです」 = 'வங்கி அங்கே (இருக்கிறது)'. தமிழிலும் 'வங்கி அங்கே' என்று 'இருக்கிறது' இல்லாமலே சொல்வோம் அல்லவா — அதே சுருக்கம். இடத்தைக் குறிக்க ここ・そこ・あそこ, こちら・そちら・あちら, அல்லது 五階 போன்ற மாடி எண் வரலாம். ஆட்களுக்கும் இதையே பயன்படுத்தலாம்: 「先生は 教室です」 = 'ஆசிரியர் வகுப்பறையில் (இருக்கிறார்)'.",
+      "explanation_en": "To say where a thing or place is, you can use the same 「N1 は N2 です」 pattern from Lesson 1: 「銀行は あそこです」 = \"The bank is over there\" (வங்கி அங்கே இருக்கிறது). In Tamil too we say \"வங்கி அங்கே\" (bank, over there) without \"இருக்கிறது\" (is), don't we? It is the same shortcut. The place can be ここ・そこ・あそこ, こちら・そちら・あちら, or a floor number like 五階. You can use this for people too: 「先生は 教室です」 = \"The teacher is in the classroom\" (ஆசிரியர் வகுப்பறையில் இருக்கிறார்).",
       "tamil_parallel": "தபால் நிலையம் அங்கே. = 郵便局は あそこです。 — 'இருக்கிறது' என்பதை です மட்டுமே காட்டுகிறது",
+      "tamil_parallel_en": "தபால் நிலையம் அங்கே \"The post office is over there\" = 郵便局は あそこです。 Like Tamil, which can leave out \"இருக்கிறது\" (is), Japanese shows \"is there\" with です alone.",
       "formation": "N (பொருள் / இடம் / நபர்) + は + இடம் + です",
+      "formation_en": "N (thing / place / person) + は + place + です",
       "examples": [
-        { "ja": "駅は あそこです。", "reading": "えきは あそこです。", "romaji": "eki wa asoko desu.", "ta": "ரயில் நிலையம் அங்கே இருக்கிறது.", "en": "The station is over there." },
-        { "ja": "お手洗いは あちらです。", "reading": "おてあらいは あちらです。", "romaji": "otearai wa achira desu.", "ta": "கழிப்பறை அந்தப் பக்கம் இருக்கிறது.", "en": "The restroom is that way." },
-        { "ja": "山田先生は 教室です。", "reading": "やまだせんせいは きょうしつです。", "romaji": "yamada-sensei wa kyoushitsu desu.", "ta": "யமாடா ஆசிரியர் வகுப்பறையில் இருக்கிறார்.", "en": "Yamada-sensei is in the classroom." },
-        { "ja": "私の かばんは そこです。", "reading": "わたしの かばんは そこです。", "romaji": "watashi no kaban wa soko desu.", "ta": "என் பை அங்கே (உங்கள் அருகில்) இருக்கிறது.", "en": "My bag is there (by you)." },
-        { "ja": "銀行は ここじゃありません。", "reading": "ぎんこうは ここじゃありません。", "romaji": "ginkou wa koko ja arimasen.", "ta": "வங்கி இங்கே இல்லை.", "en": "The bank is not here." },
-        { "ja": "交番は そちらですか。", "reading": "こうばんは そちらですか。", "romaji": "kouban wa sochira desu ka.", "ta": "போலீஸ் பூத் உங்கள் பக்கமா?", "en": "Is the police box on your side?" }
+        {
+          "ja": "駅は あそこです。",
+          "reading": "えきは あそこです。",
+          "romaji": "eki wa asoko desu.",
+          "ta": "ரயில் நிலையம் அங்கே இருக்கிறது.",
+          "en": "The station is over there."
+        },
+        {
+          "ja": "お手洗いは あちらです。",
+          "reading": "おてあらいは あちらです。",
+          "romaji": "otearai wa achira desu.",
+          "ta": "கழிப்பறை அந்தப் பக்கம் இருக்கிறது.",
+          "en": "The restroom is that way."
+        },
+        {
+          "ja": "山田先生は 教室です。",
+          "reading": "やまだせんせいは きょうしつです。",
+          "romaji": "yamada-sensei wa kyoushitsu desu.",
+          "ta": "யமாடா ஆசிரியர் வகுப்பறையில் இருக்கிறார்.",
+          "en": "Yamada-sensei is in the classroom."
+        },
+        {
+          "ja": "私の かばんは そこです。",
+          "reading": "わたしの かばんは そこです。",
+          "romaji": "watashi no kaban wa soko desu.",
+          "ta": "என் பை அங்கே (உங்கள் அருகில்) இருக்கிறது.",
+          "en": "My bag is there (by you)."
+        },
+        {
+          "ja": "銀行は ここじゃありません。",
+          "reading": "ぎんこうは ここじゃありません。",
+          "romaji": "ginkou wa koko ja arimasen.",
+          "ta": "வங்கி இங்கே இல்லை.",
+          "en": "The bank is not here."
+        },
+        {
+          "ja": "交番は そちらですか。",
+          "reading": "こうばんは そちらですか。",
+          "romaji": "kouban wa sochira desu ka.",
+          "ta": "போலீஸ் பூத் உங்கள் பக்கமா?",
+          "en": "Is the police box on your side?"
+        }
       ],
-      "pitfalls_ta": "「ここは 銀行です」 (இந்த இடம் வங்கி) மற்றும் 「銀行は ここです」 (வங்கி இங்கே இருக்கிறது) — இரண்டும் சரி, ஆனால் தலைப்பு மாறுகிறது. கேள்வி 'வங்கி எங்கே?' என்றால் பதிலில் 銀行は-ஐத் தலைப்பாக வைக்கவும்."
+      "pitfalls_ta": "「ここは 銀行です」 (இந்த இடம் வங்கி) மற்றும் 「銀行は ここです」 (வங்கி இங்கே இருக்கிறது) — இரண்டும் சரி, ஆனால் தலைப்பு மாறுகிறது. கேள்வி 'வங்கி எங்கே?' என்றால் பதிலில் 銀行は-ஐத் தலைப்பாக வைக்கவும்.",
+      "pitfalls_en": "「ここは 銀行です」 (this place is a bank) and 「銀行は ここです」 (the bank is here) are both correct, but the topic changes. If the question is \"Where is the bank?\", make 銀行は the topic in your answer."
     },
     {
       "id": "g03-3",
       "pattern": "どこ / どちら",
-      "name": { "en": "Where (plain / polite)", "ta": "எங்கே (சாதாரணம் / மரியாதை)" },
+      "name": {
+        "en": "Where (plain / polite)",
+        "ta": "எங்கே (சாதாரணம் / மரியாதை)"
+      },
       "explanation_ta": "'எங்கே?' = どこ; மரியாதையாக どちら. தமிழில் 'எ-' சுட்டு கேள்வியைக் குறிப்பது போல, ஜப்பானியில் ど- தொடக்கம் கேள்விச் சொல்: どれ, どの, どこ, どちら. கேள்விச் சொல் தமிழைப் போலவே இடத்தின் நிலையிலேயே, です-க்கு முன் வரும்: 「駅は どこですか」 = 'ரயில் நிலையம் எங்கே?'. どちら-க்கு 'எந்தப் பக்கம்', 'எந்த நாடு / எந்த நிறுவனம்' என்ற மரியாதையான பொருளும் உண்டு: 「お国は どちらですか」 = 'உங்கள் நாடு எது?' — இங்கே 何ですか என்று கேட்பது இயல்பானதல்ல.",
+      "explanation_en": "\"Where?\" = どこ; the polite form is どちら. Just as the Tamil \"எ-\" beginning marks a question, the Japanese ど- beginning marks question words: どれ, どの, どこ, どちら. As in Tamil, the question word stays in the place position, before です: 「駅は どこですか」 = \"Where is the station?\" (ரயில் நிலையம் எங்கே?). どちら also has polite meanings like \"which direction\" and \"which country / which company\": 「お国は どちらですか」 = \"Which country are you from?\" (உங்கள் நாடு எது?). Asking with 何ですか here is not natural.",
       "tamil_parallel": "ரயில் நிலையம் எங்கே? = 駅は どこですか。 / உங்கள் நாடு எது? = お国は どちらですか。",
+      "tamil_parallel_en": "ரயில் நிலையம் எங்கே? \"Where is the station?\" = 駅は どこですか。 / உங்கள் நாடு எது? \"Which is your country?\" = お国は どちらですか。 Like the Tamil question beginning \"எ-\", Japanese question words start with ど-.",
       "formation": "N は どこ / どちら ですか",
+      "formation_en": "N は どこ / どちら ですか",
       "examples": [
-        { "ja": "駅は どこですか。", "reading": "えきは どこですか。", "romaji": "eki wa doko desu ka.", "ta": "ரயில் நிலையம் எங்கே?", "en": "Where is the station?" },
-        { "ja": "すみません、お手洗いは どちらですか。", "reading": "すみません、おてあらいは どちらですか。", "romaji": "sumimasen, otearai wa dochira desu ka.", "ta": "மன்னிக்கவும், கழிப்பறை எந்தப் பக்கம்?", "en": "Excuse me, which way is the restroom?" },
-        { "ja": "お国は どちらですか。", "reading": "おくには どちらですか。", "romaji": "okuni wa dochira desu ka.", "ta": "உங்கள் நாடு எது?", "en": "Which country are you from?" },
-        { "ja": "インドです。", "reading": "インドです。", "romaji": "indo desu.", "ta": "இந்தியா.", "en": "India." },
-        { "ja": "ここは どこですか。", "reading": "ここは どこですか。", "romaji": "koko wa doko desu ka.", "ta": "இது எந்த இடம்?", "en": "Where is this (place)?" },
-        { "ja": "私の 傘は どこですか。", "reading": "わたしの かさは どこですか。", "romaji": "watashi no kasa wa doko desu ka.", "ta": "என் குடை எங்கே?", "en": "Where is my umbrella?" }
+        {
+          "ja": "駅は どこですか。",
+          "reading": "えきは どこですか。",
+          "romaji": "eki wa doko desu ka.",
+          "ta": "ரயில் நிலையம் எங்கே?",
+          "en": "Where is the station?"
+        },
+        {
+          "ja": "すみません、お手洗いは どちらですか。",
+          "reading": "すみません、おてあらいは どちらですか。",
+          "romaji": "sumimasen, otearai wa dochira desu ka.",
+          "ta": "மன்னிக்கவும், கழிப்பறை எந்தப் பக்கம்?",
+          "en": "Excuse me, which way is the restroom?"
+        },
+        {
+          "ja": "お国は どちらですか。",
+          "reading": "おくには どちらですか。",
+          "romaji": "okuni wa dochira desu ka.",
+          "ta": "உங்கள் நாடு எது?",
+          "en": "Which country are you from?"
+        },
+        {
+          "ja": "インドです。",
+          "reading": "インドです。",
+          "romaji": "indo desu.",
+          "ta": "இந்தியா.",
+          "en": "India."
+        },
+        {
+          "ja": "ここは どこですか。",
+          "reading": "ここは どこですか。",
+          "romaji": "koko wa doko desu ka.",
+          "ta": "இது எந்த இடம்?",
+          "en": "Where is this (place)?"
+        },
+        {
+          "ja": "私の 傘は どこですか。",
+          "reading": "わたしの かさは どこですか。",
+          "romaji": "watashi no kasa wa doko desu ka.",
+          "ta": "என் குடை எங்கே?",
+          "en": "Where is my umbrella?"
+        }
       ],
-      "pitfalls_ta": "どちら-வுக்கு 'இரண்டில் எது' என்ற பொருளும் உண்டு (பிற்பாடங்களில்). 'உங்கள் நாடு எது?' என்பதை 「お国は 何ですか」 என்று கேட்க வேண்டாம்; どちら அல்லது どこ."
+      "pitfalls_ta": "どちら-வுக்கு 'இரண்டில் எது' என்ற பொருளும் உண்டு (பிற்பாடங்களில்). 'உங்கள் நாடு எது?' என்பதை 「お国は 何ですか」 என்று கேட்க வேண்டாம்; どちら அல்லது どこ.",
+      "pitfalls_en": "どちら also means \"which of the two\" (in later lessons). Don't ask \"Which is your country?\" as 「お国は 何ですか」; use どちら or どこ."
     },
     {
       "id": "g03-4",
       "pattern": "N1 の N2 (country / company of origin)",
-      "name": { "en": "N2 made in / from N1", "ta": "N1 நாட்டு / நிறுவனத் தயாரிப்பு N2" },
+      "name": {
+        "en": "N2 made in / from N1",
+        "ta": "N1 நாட்டு / நிறுவனத் தயாரிப்பு N2"
+      },
       "explanation_ta": "の-வுக்கு இன்னொரு வேலை: ஒரு பொருள் எந்த நாட்டில் அல்லது எந்த நிறுவனத்தில் தயாரானது என்று சொல்வது. 「日本の 時計」 = 'ஜப்பானியக் கடிகாரம்', 「ソニーの カメラ」 = 'சோனி கேமரா'. தமிழில் 'ஜப்பான் கடிகாரம்', 'சோனி கேமரா' என்று விகுதியில்லாமல் அடுத்தடுத்து வைப்போம், ஆனால் ஜப்பானியில் の கட்டாயம். 'எந்த நாட்டு…?' என்று கேட்க 「どこの N ですか」 — どこ + の. பதிலில் 「日本のです」 என்று பெயர்ச்சொல்லை விடலாம், முந்தைய பாடத்தின் 「私のです」 போல.",
+      "explanation_en": "Another job for の: saying which country or company made something. 「日本の 時計」 = a Japanese(-made) clock (ஜப்பானியக் கடிகாரம்), 「ソニーの カメラ」 = a Sony camera (சோனி கேமரா). In Tamil we just put the words side by side with no ending, as in \"ஜப்பான் கடிகாரம்\" (Japan clock) and \"சோனி கேமரா\" (Sony camera), but in Japanese の is required. To ask \"made in which country…?\", say 「どこの N ですか」, which is どこ + の. In the answer you can drop the noun, as in 「日本のです」, just like 「私のです」 in the last lesson.",
       "tamil_parallel": "இது எந்த நாட்டுக் கடிகாரம்? — ஜப்பான் கடிகாரம். = これは どこの 時計ですか。— 日本の 時計です。",
+      "tamil_parallel_en": "இது எந்த நாட்டுக் கடிகாரம்? — ஜப்பான் கடிகாரம். \"Which country's clock is this? — A Japanese clock.\" = これは どこの 時計ですか。— 日本の 時計です。 Where Tamil puts the words side by side, Japanese needs の.",
       "formation": "N1 (நாடு / நிறுவனம்) + の + N2 ; どこの + N ですか",
+      "formation_en": "N1 (country / company) + の + N2 ; どこの + N ですか",
       "examples": [
-        { "ja": "これは 日本の 時計です。", "reading": "これは にほんの とけいです。", "romaji": "kore wa nihon no tokei desu.", "ta": "இது ஜப்பானியக் கடிகாரம்.", "en": "This is a Japanese watch." },
-        { "ja": "それは どこの カメラですか。", "reading": "それは どこの カメラですか。", "romaji": "sore wa doko no kamera desu ka.", "ta": "அது எந்த நாட்டுக் கேமரா?", "en": "Where is that camera from?" },
-        { "ja": "ソニーの カメラです。", "reading": "ソニーの カメラです。", "romaji": "sonii no kamera desu.", "ta": "சோனி கேமரா.", "en": "It is a Sony camera." },
-        { "ja": "この傘は インドのです。", "reading": "このかさは インドのです。", "romaji": "kono kasa wa indo no desu.", "ta": "இந்தக் குடை இந்தியத் தயாரிப்பு.", "en": "This umbrella is from India." },
-        { "ja": "あの万年筆は 外国のですか。", "reading": "あのまんねんひつは がいこくのですか。", "romaji": "ano mannenhitsu wa gaikoku no desu ka.", "ta": "அதோ அந்த ஃபவுண்டன் பேனா வெளிநாட்டுத் தயாரிப்பா?", "en": "Is that fountain pen foreign-made?" },
-        { "ja": "いいえ、外国のじゃありません。日本のです。", "reading": "いいえ、がいこくのじゃありません。にほんのです。", "romaji": "iie, gaikoku no ja arimasen. nihon no desu.", "ta": "இல்லை, வெளிநாட்டுத் தயாரிப்பு இல்லை. ஜப்பானியது.", "en": "No, it is not foreign. It is Japanese." }
+        {
+          "ja": "これは 日本の 時計です。",
+          "reading": "これは にほんの とけいです。",
+          "romaji": "kore wa nihon no tokei desu.",
+          "ta": "இது ஜப்பானியக் கடிகாரம்.",
+          "en": "This is a Japanese watch."
+        },
+        {
+          "ja": "それは どこの カメラですか。",
+          "reading": "それは どこの カメラですか。",
+          "romaji": "sore wa doko no kamera desu ka.",
+          "ta": "அது எந்த நாட்டுக் கேமரா?",
+          "en": "Where is that camera from?"
+        },
+        {
+          "ja": "ソニーの カメラです。",
+          "reading": "ソニーの カメラです。",
+          "romaji": "sonii no kamera desu.",
+          "ta": "சோனி கேமரா.",
+          "en": "It is a Sony camera."
+        },
+        {
+          "ja": "この傘は インドのです。",
+          "reading": "このかさは インドのです。",
+          "romaji": "kono kasa wa indo no desu.",
+          "ta": "இந்தக் குடை இந்தியத் தயாரிப்பு.",
+          "en": "This umbrella is from India."
+        },
+        {
+          "ja": "あの万年筆は 外国のですか。",
+          "reading": "あのまんねんひつは がいこくのですか。",
+          "romaji": "ano mannenhitsu wa gaikoku no desu ka.",
+          "ta": "அதோ அந்த ஃபவுண்டன் பேனா வெளிநாட்டுத் தயாரிப்பா?",
+          "en": "Is that fountain pen foreign-made?"
+        },
+        {
+          "ja": "いいえ、外国のじゃありません。日本のです。",
+          "reading": "いいえ、がいこくのじゃありません。にほんのです。",
+          "romaji": "iie, gaikoku no ja arimasen. nihon no desu.",
+          "ta": "இல்லை, வெளிநாட்டுத் தயாரிப்பு இல்லை. ஜப்பானியது.",
+          "en": "No, it is not foreign. It is Japanese."
+        }
       ],
-      "pitfalls_ta": "「どこ カメラ」 என்று の விடுவது தவறு; 「どこの カメラ」. 'யாருடைய' (誰の) மற்றும் 'எந்த நாட்டு' (どこの) இரண்டையும் குழப்பிக்கொள்ள வேண்டாம்."
+      "pitfalls_ta": "「どこ カメラ」 என்று の விடுவது தவறு; 「どこの カメラ」. 'யாருடைய' (誰の) மற்றும் 'எந்த நாட்டு' (どこの) இரண்டையும் குழப்பிக்கொள்ள வேண்டாம்.",
+      "pitfalls_en": "Dropping の, as in 「どこ カメラ」, is wrong; say 「どこの カメラ」. Don't confuse \"whose\" (誰の) with \"from which country\" (どこの)."
     },
     {
       "id": "g03-5",
       "pattern": "いくらですか / 〜円",
-      "name": { "en": "How much? / ~ yen", "ta": "என்ன விலை? / ～ யென்" },
+      "name": {
+        "en": "How much? / ~ yen",
+        "ta": "என்ன விலை? / ～ யென்"
+      },
       "explanation_ta": "விலை கேட்க 「N は いくらですか」 = 'N என்ன விலை?'. பதில் எண் + 円 (えん): 「百円です」 = 'நூறு யென்'. பெரிய எண்கள்: 百 (100), 千 (1,000), 万 (10,000). தமிழில் 'முன்னூறு, மூவாயிரம்' என்று ஒலி மாறுவது போல ஜப்பானியிலும் சில எண்களில் ஒலி மாறும்: 三百 = さんびゃく, 六百 = ろっぴゃく, 八百 = はっぴゃく, 三千 = さんぜん, 八千 = はっせん. 10,000-ஐ 'பத்து ஆயிரம்' என்று சொல்லாமல் 一万 (いちまん) என்று சொல்ல வேண்டும்; 30,000 = 三万. இந்தியர்கள் 'லட்சம்' என்று எண்ணுவது போல ஜப்பானியர்கள் 万 அலகில் எண்ணுகிறார்கள். 0 = ゼロ அல்லது 零 (れい).",
+      "explanation_en": "To ask a price, say 「N は いくらですか」 = \"How much is N?\" (N என்ன விலை?). The answer is number + 円 (えん): 「百円です」 = \"100 yen\" (நூறு யென்). Big numbers: 百 (100), 千 (1,000), 万 (10,000). Just as Tamil sounds change in \"முன்னூறு\" (three hundred) and \"மூவாயிரம்\" (three thousand), some Japanese numbers change sound: 三百 = さんびゃく, 六百 = ろっぴゃく, 八百 = はっぴゃく, 三千 = さんぜん, 八千 = はっせん. Don't say 10,000 as \"ten thousand\"; say 一万 (いちまん). 30,000 = 三万. Just as Indians count in lakhs (லட்சம்), Japanese people count in units of 万. 0 = ゼロ or 零 (れい).",
       "tamil_parallel": "இந்தக் குடை என்ன விலை? — ஆயிரம் யென். = この傘は いくらですか。— 千円です。",
+      "tamil_parallel_en": "இந்தக் குடை என்ன விலை? — ஆயிரம் யென். \"How much is this umbrella? — 1,000 yen.\" = この傘は いくらですか。— 千円です。 Also, like Tamil sound changes such as \"முன்னூறு\" (three hundred), Japanese numbers like 三百 (さんびゃく) change sound.",
       "formation": "N は いくらですか → (எண்) 円です ; 百 / 千 / 万",
+      "formation_en": "N は いくらですか → (number) 円です ; 百 / 千 / 万",
       "examples": [
-        { "ja": "この本は いくらですか。", "reading": "このほんは いくらですか。", "romaji": "kono hon wa ikura desu ka.", "ta": "இந்தப் புத்தகம் என்ன விலை?", "en": "How much is this book?" },
-        { "ja": "八百円です。", "reading": "はっぴゃくえんです。", "romaji": "happyakuen desu.", "ta": "எண்ணூறு யென்.", "en": "It is 800 yen." },
-        { "ja": "この傘は 三千円です。", "reading": "このかさは さんぜんえんです。", "romaji": "kono kasa wa sanzen'en desu.", "ta": "இந்தக் குடை மூவாயிரம் யென்.", "en": "This umbrella is 3,000 yen." },
-        { "ja": "あの時計は 一万円ですか。", "reading": "あのとけいは いちまんえんですか。", "romaji": "ano tokei wa ichiman'en desu ka.", "ta": "அதோ அந்தக் கடிகாரம் பத்தாயிரம் யென்னா?", "en": "Is that watch 10,000 yen?" },
-        { "ja": "いいえ、一万円じゃありません。六千円です。", "reading": "いいえ、いちまんえんじゃありません。ろくせんえんです。", "romaji": "iie, ichiman'en ja arimasen. rokusen'en desu.", "ta": "இல்லை, பத்தாயிரம் யென் இல்லை. ஆறாயிரம் யென்.", "en": "No, it is not 10,000 yen. It is 6,000 yen." },
-        { "ja": "このボールペンは 百円です。", "reading": "このボールペンは ひゃくえんです。", "romaji": "kono boorupen wa hyakuen desu.", "ta": "இந்த பால்பாயிண்ட் பேனா நூறு யென்.", "en": "This ballpoint pen is 100 yen." }
+        {
+          "ja": "この本は いくらですか。",
+          "reading": "このほんは いくらですか。",
+          "romaji": "kono hon wa ikura desu ka.",
+          "ta": "இந்தப் புத்தகம் என்ன விலை?",
+          "en": "How much is this book?"
+        },
+        {
+          "ja": "八百円です。",
+          "reading": "はっぴゃくえんです。",
+          "romaji": "happyakuen desu.",
+          "ta": "எண்ணூறு யென்.",
+          "en": "It is 800 yen."
+        },
+        {
+          "ja": "この傘は 三千円です。",
+          "reading": "このかさは さんぜんえんです。",
+          "romaji": "kono kasa wa sanzen'en desu.",
+          "ta": "இந்தக் குடை மூவாயிரம் யென்.",
+          "en": "This umbrella is 3,000 yen."
+        },
+        {
+          "ja": "あの時計は 一万円ですか。",
+          "reading": "あのとけいは いちまんえんですか。",
+          "romaji": "ano tokei wa ichiman'en desu ka.",
+          "ta": "அதோ அந்தக் கடிகாரம் பத்தாயிரம் யென்னா?",
+          "en": "Is that watch 10,000 yen?"
+        },
+        {
+          "ja": "いいえ、一万円じゃありません。六千円です。",
+          "reading": "いいえ、いちまんえんじゃありません。ろくせんえんです。",
+          "romaji": "iie, ichiman'en ja arimasen. rokusen'en desu.",
+          "ta": "இல்லை, பத்தாயிரம் யென் இல்லை. ஆறாயிரம் யென்.",
+          "en": "No, it is not 10,000 yen. It is 6,000 yen."
+        },
+        {
+          "ja": "このボールペンは 百円です。",
+          "reading": "このボールペンは ひゃくえんです。",
+          "romaji": "kono boorupen wa hyakuen desu.",
+          "ta": "இந்த பால்பாயிண்ட் பேனா நூறு யென்.",
+          "en": "This ballpoint pen is 100 yen."
+        }
       ],
-      "pitfalls_ta": "四円 = よえん (よんえん அல்ல). 'பத்தாயிரம்' = 一万, 「十千」 என்று சொல்லக் கூடாது. 百 / 千 முன் 一 சேர்க்க வேண்டாம் (百 = ひゃく), ஆனால் 万 முன் 一 கட்டாயம் (一万)."
+      "pitfalls_ta": "四円 = よえん (よんえん அல்ல). 'பத்தாயிரம்' = 一万, 「十千」 என்று சொல்லக் கூடாது. 百 / 千 முன் 一 சேர்க்க வேண்டாம் (百 = ひゃく), ஆனால் 万 முன் 一 கட்டாயம் (一万).",
+      "pitfalls_en": "四円 = よえん (not よんえん). Ten thousand = 一万; never say 「十千」. Don't put 一 before 百 / 千 (百 = ひゃく), but 一 is required before 万 (一万)."
     },
     {
       "id": "g03-6",
       "pattern": "〜階 / 何階",
-      "name": { "en": "Floors of a building", "ta": "கட்டிடத்தின் மாடிகள்" },
+      "name": {
+        "en": "Floors of a building",
+        "ta": "கட்டிடத்தின் மாடிகள்"
+      },
       "explanation_ta": "கட்டிடத்தின் மாடியைச் சொல்ல எண் + 階 (かい). 'எத்தனையாவது மாடி?' = 何階 (なんがい). கவனிக்க: ஜப்பானில் தரைத்தளமே 一階 (1வது மாடி) — தமிழ்நாட்டில் 'கிரவுண்ட் ஃப்ளோர்' என்பது ஜப்பானில் 一階, நம் 'முதல் மாடி' அங்கே 二階. ஒலி மாற்றங்கள்: 一階 = いっかい, 三階 = さんがい, 六階 = ろっかい, 八階 = はっかい (அல்லது はちかい), 十階 = じゅっかい, 何階 = なんがい. 'X எந்த மாடி?' என்று கேட்க 「X は 何階ですか」, பதில் 「三階です」 — தமிழில் 'மூன்றாவது மாடியில்' என்பதில் '-இல்' வரும், ஜப்பானியில் です மட்டும் போதும்.",
+      "explanation_en": "To say a floor of a building, use number + 階 (かい). \"Which floor?\" = 何階 (なんがい). Note: in Japan the ground floor itself is 一階 (1st floor). What is called the \"ground floor\" in Tamil Nadu is 一階 in Japan, and our \"first floor\" is 二階 there. Sound changes: 一階 = いっかい, 三階 = さんがい, 六階 = ろっかい, 八階 = はっかい (or はちかい), 十階 = じゅっかい, 何階 = なんがい. To ask \"Which floor is X on?\", say 「X は 何階ですか」; the answer is 「三階です」. Tamil \"மூன்றாவது மாடியில்\" (on the third floor) uses \"-இல்\" (on/in), but in Japanese です alone is enough.",
       "tamil_parallel": "தபால் நிலையம் எத்தனையாவது மாடி? — மூன்றாவது மாடி. = 郵便局は 何階ですか。— 三階です。",
+      "tamil_parallel_en": "தபால் நிலையம் எத்தனையாவது மாடி? — மூன்றாவது மாடி. \"Which floor is the post office on? — The third floor.\" = 郵便局は 何階ですか。— 三階です。 Tamil adds \"-இல்\" (on), but Japanese needs only です.",
       "formation": "(எண்) + 階 ; N は 何階ですか",
+      "formation_en": "(number) + 階 ; N は 何階ですか",
       "examples": [
-        { "ja": "教室は 何階ですか。", "reading": "きょうしつは なんがいですか。", "romaji": "kyoushitsu wa nangai desu ka.", "ta": "வகுப்பறை எத்தனையாவது மாடி?", "en": "What floor is the classroom on?" },
-        { "ja": "三階です。", "reading": "さんがいです。", "romaji": "sangai desu.", "ta": "மூன்றாவது மாடி.", "en": "It is on the third floor." },
-        { "ja": "銀行は 一階です。", "reading": "ぎんこうは いっかいです。", "romaji": "ginkou wa ikkai desu.", "ta": "வங்கி தரைத்தளத்தில் (一階) இருக்கிறது.", "en": "The bank is on the first (ground) floor." },
-        { "ja": "お手洗いは 二階ですか。", "reading": "おてあらいは にかいですか。", "romaji": "otearai wa nikai desu ka.", "ta": "கழிப்பறை இரண்டாவது மாடியிலா?", "en": "Is the restroom on the second floor?" },
-        { "ja": "いいえ、二階じゃありません。六階です。", "reading": "いいえ、にかいじゃありません。ろっかいです。", "romaji": "iie, nikai ja arimasen. rokkai desu.", "ta": "இல்லை, இரண்டாவது மாடி இல்லை. ஆறாவது மாடி.", "en": "No, not the second floor. The sixth floor." },
-        { "ja": "デパートの 本屋は 八階です。", "reading": "デパートの ほんやは はっかいです。", "romaji": "depaato no hon'ya wa hakkai desu.", "ta": "பல்பொருள் அங்காடியின் புத்தகக் கடை எட்டாவது மாடியில்.", "en": "The department store's bookshop is on the eighth floor." }
+        {
+          "ja": "教室は 何階ですか。",
+          "reading": "きょうしつは なんがいですか。",
+          "romaji": "kyoushitsu wa nangai desu ka.",
+          "ta": "வகுப்பறை எத்தனையாவது மாடி?",
+          "en": "What floor is the classroom on?"
+        },
+        {
+          "ja": "三階です。",
+          "reading": "さんがいです。",
+          "romaji": "sangai desu.",
+          "ta": "மூன்றாவது மாடி.",
+          "en": "It is on the third floor."
+        },
+        {
+          "ja": "銀行は 一階です。",
+          "reading": "ぎんこうは いっかいです。",
+          "romaji": "ginkou wa ikkai desu.",
+          "ta": "வங்கி தரைத்தளத்தில் (一階) இருக்கிறது.",
+          "en": "The bank is on the first (ground) floor."
+        },
+        {
+          "ja": "お手洗いは 二階ですか。",
+          "reading": "おてあらいは にかいですか。",
+          "romaji": "otearai wa nikai desu ka.",
+          "ta": "கழிப்பறை இரண்டாவது மாடியிலா?",
+          "en": "Is the restroom on the second floor?"
+        },
+        {
+          "ja": "いいえ、二階じゃありません。六階です。",
+          "reading": "いいえ、にかいじゃありません。ろっかいです。",
+          "romaji": "iie, nikai ja arimasen. rokkai desu.",
+          "ta": "இல்லை, இரண்டாவது மாடி இல்லை. ஆறாவது மாடி.",
+          "en": "No, not the second floor. The sixth floor."
+        },
+        {
+          "ja": "デパートの 本屋は 八階です。",
+          "reading": "デパートの ほんやは はっかいです。",
+          "romaji": "depaato no hon'ya wa hakkai desu.",
+          "ta": "பல்பொருள் அங்காடியின் புத்தகக் கடை எட்டாவது மாடியில்.",
+          "en": "The department store's bookshop is on the eighth floor."
+        }
       ],
-      "pitfalls_ta": "三階 = さんがい, 何階 = なんがい — か ஒலி が ஆக மாறுவதை மறக்க வேண்டாம். ஜப்பானில் 一階 = தரைத்தளம்; இந்திய வழக்கப்படி ஒன்று கூட்டிக் கணக்கிடுங்கள்."
+      "pitfalls_ta": "三階 = さんがい, 何階 = なんがい — か ஒலி が ஆக மாறுவதை மறக்க வேண்டாம். ஜப்பானில் 一階 = தரைத்தளம்; இந்திய வழக்கப்படி ஒன்று கூட்டிக் கணக்கிடுங்கள்.",
+      "pitfalls_en": "三階 = さんがい, 何階 = なんがい; don't forget that the か sound changes to が. In Japan 一階 = the ground floor, so add one to the Indian floor number."
     }
   ],
   "vocab_ids": [
-    "n5-v-017", "n5-v-022", "n5-v-051", "n5-v-092", "n5-v-094", "n5-v-116", "n5-v-143", "n5-v-144", "n5-v-147", "n5-v-214",
-    "n5-v-248", "n5-v-252", "n5-v-258", "n5-v-352", "n5-v-361", "n5-v-362", "n5-v-387", "n5-v-434", "n5-v-457", "n5-v-461",
-    "n5-v-495", "n5-v-551", "n5-v-554", "n5-v-569", "n5-v-570", "n5-v-633", "n5-v-666", "n5-v-667", "n5-v-678", "n5-v-703"
+    "n5-v-017",
+    "n5-v-022",
+    "n5-v-051",
+    "n5-v-092",
+    "n5-v-094",
+    "n5-v-116",
+    "n5-v-143",
+    "n5-v-144",
+    "n5-v-147",
+    "n5-v-214",
+    "n5-v-248",
+    "n5-v-252",
+    "n5-v-258",
+    "n5-v-352",
+    "n5-v-361",
+    "n5-v-362",
+    "n5-v-387",
+    "n5-v-434",
+    "n5-v-457",
+    "n5-v-461",
+    "n5-v-495",
+    "n5-v-551",
+    "n5-v-554",
+    "n5-v-569",
+    "n5-v-570",
+    "n5-v-633",
+    "n5-v-666",
+    "n5-v-667",
+    "n5-v-678",
+    "n5-v-703"
   ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L03-q01", "type": "kanji_reading", "sentence": "＿駅＿は どこですか。", "target": "駅", "options": ["えぎ", "いき", "えき", "えっき"], "answer": 2, "explanation_ta": "駅 = えき (ரயில் நிலையம்). き-ஐ ぎ என்று ஒலி மாற்றுவதும், சிறிய っ சேர்ப்பதும் தவறு." },
-      { "id": "L03-q02", "type": "kanji_reading", "sentence": "あそこは ＿銀行＿です。", "target": "銀行", "options": ["ぎんこう", "ぎんこ", "きんこう", "ぎんごう"], "answer": 0, "explanation_ta": "銀行 = ぎんこう. கடைசி நீண்ட ஒலி こう உண்டு; ぎんこ என்று குறுக்குவதும் ぎ-ஐ き ஆக்குவதும் தவறு." },
-      { "id": "L03-q03", "type": "kanji_reading", "sentence": "あの建物は ＿病院＿です。", "target": "病院", "options": ["びよういん", "びょうい", "ぴょういん", "びょういん"], "answer": 3, "explanation_ta": "病院 = びょういん. びょ ஒரே ஒலி (சிறிய ょ); びよういん என்றால் 美容院 (அழகு நிலையம்) — இது பெரிய பொறி!" },
-      { "id": "L03-q04", "type": "orthography", "sentence": "＿ゆうびんきょく＿は 三階です。", "target": "ゆうびんきょく", "options": ["郵使局", "郵便局", "郵便居", "郵更局"], "answer": 1, "explanation_ta": "ゆうびんきょく = 郵便局. 便 என்பதற்குப் பதிலாக ஒத்த தோற்றமுள்ள 使 (பயன்படுத்த), 局 என்பதற்குப் பதிலாக 居 — இரண்டும் பொறிகள்." },
-      { "id": "L03-q05", "type": "orthography", "sentence": "あの＿たてもの＿は デパートです。", "target": "たてもの", "options": ["健物", "建勿", "建物", "達物"], "answer": 2, "explanation_ta": "たてもの = 建物 (கட்டிடம்). 健 என்பதில் இடப்பக்கம் 亻 கூடுதல்; 勿 என்பது 物-இன் வலப்பகுதி மட்டும்." },
-      { "id": "L03-q06", "type": "vocab_context", "sentence": "「すみません、（　　）は どこですか。」「あそこです。」", "options": ["おてあらい", "なまえ", "ばんごう", "いくら"], "answer": 0, "explanation_ta": "'எங்கே?' என்று கேட்கக்கூடியது ஓர் இடம் — கழிப்பறை. பெயர், எண் போன்றவை 'அங்கே' என்ற பதிலுக்குப் பொருந்தாது." },
-      { "id": "L03-q07", "type": "vocab_context", "sentence": "「このカメラは （　　）ですか。」「三万円です。」", "options": ["どこ", "なんがい", "いくら", "どなた"], "answer": 2, "explanation_ta": "பதில் விலை (三万円) என்பதால் கேள்வி いくら (என்ன விலை). どこ என்றால் பதில் ஓர் இடம்." },
-      { "id": "L03-q08", "type": "vocab_context", "sentence": "「本屋は （　　）ですか。」「八階です。」", "options": ["なんさい", "なんがい", "なんばん", "なんえん"], "answer": 1, "explanation_ta": "பதில் 八階 (எட்டாவது மாடி) என்பதால் கேள்வி 何階 (なんがい). なんさい என்பது வயது கேட்கும் சொல்." },
-      { "id": "L03-q09", "type": "vocab_context", "sentence": "（　　）は 山田さんです。山田さんは IMCの 会社員です。", "options": ["あそこ", "どちら", "そこ", "こちら"], "answer": 3, "explanation_ta": "ஒருவரை மரியாதையாக அறிமுகம் செய்ய こちら ('இவர்'). あそこ / そこ இடங்களைக் குறிக்கும், ஆட்களை அல்ல." },
-      { "id": "L03-q10", "type": "vocab_context", "sentence": "ここは （　　）です。ラジャさんは ここの 医者です。", "options": ["やおや", "びょういん", "ぎんこう", "こうばん"], "answer": 1, "explanation_ta": "மருத்துவர் வேலை செய்யும் இடம் 病院 (மருத்துவமனை). 銀行 (வங்கி), 交番 (போலீஸ் பூத்) ஆகியவற்றில் மருத்துவர் இருக்க மாட்டார்." },
-      { "id": "L03-q11", "type": "vocab_context", "sentence": "「お国は （　　）ですか。」「スリランカです。」", "options": ["どなた", "いくら", "どちら", "なん"], "answer": 2, "explanation_ta": "நாட்டை மரியாதையாகக் கேட்க どちら. どなた என்பது 'யார்', நாட்டுக்குப் பொருந்தாது." },
-      { "id": "L03-q12", "type": "paraphrase", "sentence": "銀行は あそこです。", "options": ["あそこは 銀行じゃありません。", "あそこは 銀行です。", "ここは 銀行です。", "銀行は ここです。"], "answer": 1, "explanation_ta": "'வங்கி அங்கே இருக்கிறது' = 'அங்கே இருப்பது வங்கி'. ここ என்பது 'இங்கே', இடம் மாறிவிடும்." },
-      { "id": "L03-q13", "type": "paraphrase", "sentence": "これは 日本の 時計です。", "options": ["これは 日本人の 時計です。", "この時計は 外国のです。", "これは 日本語の 時計です。", "この時計は 日本のです。"], "answer": 3, "explanation_ta": "'ஜப்பானியத் தயாரிப்புக் கடிகாரம்' = 'இந்தக் கடிகாரம் ஜப்பானியது'. 日本人の என்றால் 'ஒரு ஜப்பானியருடையது' — உடைமை, தயாரிப்பு அல்ல." },
-      { "id": "L03-q14", "type": "paraphrase", "sentence": "お手洗いは 一階です。", "options": ["お手洗いは 二階じゃありません。一階です。", "お手洗いは 一階じゃありません。", "お手洗いは 二階です。", "お手洗いは あそこじゃありません。"], "answer": 0, "explanation_ta": "இரண்டாவது மாடி இல்லை, முதல் (தரை) மாடி — அதே பொருள். மற்ற தேர்வுகள் மாடியை மாற்றுகின்றன அல்லது மறுக்கின்றன." },
-      { "id": "L03-q15", "type": "grammar_form", "sentence": "「駅は （　　）ですか。」「あそこです。」", "options": ["どこ", "だれ", "なに", "いくら"], "answer": 0, "explanation_ta": "பதில் 'அங்கே' என்ற இடம்; ஆகவே கேள்வி どこ (எங்கே)." },
-      { "id": "L03-q16", "type": "grammar_form", "sentence": "これは どこ（　　）カメラですか。", "options": ["は", "も", "か", "の"], "answer": 3, "explanation_ta": "'எந்த நாட்டுக் கேமரா' = どこの カメラ; பெயர்ச்சொல்லை இணைக்க の வேண்டும்." },
-      { "id": "L03-q17", "type": "grammar_form", "sentence": "この本は 三百（　　）です。", "options": ["かい", "えん", "さい", "ばん"], "answer": 1, "explanation_ta": "புத்தகத்தின் விலை = 三百円 (さんびゃくえん). かい மாடி, さい வயது — புத்தகத்துக்குப் பொருந்தாது." },
-      { "id": "L03-q18", "type": "grammar_form", "sentence": "「そこは 郵便局ですか。」「いいえ、郵便局（　　）。交番です。」", "options": ["です", "ですか", "じゃありません", "も"], "answer": 2, "explanation_ta": "いいえ என்ற மறுப்புக்குப் பின் 'தபால் நிலையம் இல்லை' = じゃありません; பின் 交番です என்று சரியானதைச் சொல்கிறார்." },
-      { "id": "L03-q19", "type": "grammar_form", "sentence": "銀行は 二階です。郵便局（　　）二階です。", "options": ["も", "の", "は", "か"], "answer": 0, "explanation_ta": "வங்கியைப் போலவே தபால் நிலையமும் இரண்டாவது மாடியில் — '-உம்' = も." },
-      { "id": "L03-q20", "type": "grammar_form", "sentence": "「（　　）は どこですか。」「ここは 駅です。」", "options": ["そこ", "あそこ", "ここ", "どこ"], "answer": 2, "explanation_ta": "'இது எந்த இடம்?' = ここは どこですか. பதிலும் ここは என்று வருவதால் இருவரும் ஒரே இடத்தில் உள்ளனர்." },
-      { "id": "L03-q21", "type": "grammar_form", "sentence": "「この傘は いくらですか。」「（　　）です。」", "options": ["三階", "三番", "三歳", "三千円"], "answer": 3, "explanation_ta": "いくら (என்ன விலை) கேள்விக்குப் பதில் விலை: 三千円 (さんぜんえん). மற்றவை மாடி, எண், வயது." },
-      { "id": "L03-q22", "type": "sentence_order", "before": "すみません、", "chunks": ["お手洗いは", "何階", "です", "か"], "star": 1, "after": "。", "explanation_ta": "すみません、お手洗いは 何階ですか。 — தலைப்பு → கேள்விச் சொல் → です → か. ★ இடத்தில் 何階 வரும்." },
-      { "id": "L03-q23", "type": "sentence_order", "before": "それは", "chunks": ["どこの", "時計", "です", "か"], "star": 0, "after": "。", "explanation_ta": "それは どこの 時計ですか。 — どこの பெயர்ச்சொல்லுக்கு முன் வரும். ★ இடத்தில் どこの வரும்." },
-      { "id": "L03-q24", "type": "sentence_order", "before": "", "chunks": ["あの", "建物は", "病院じゃ", "ありません"], "star": 2, "after": "。", "explanation_ta": "あの建物は 病院じゃありません。 — あの + பெயர்ச்சொல், பிறகு மறுப்பு. ★ இடத்தில் 病院じゃ வரும்." },
-      { "id": "L03-q25", "type": "passage_cloze", "passage": "ここは デパートです。お手洗いは 一階です。カメラ［1］ 五階です。このカメラは 日本［2］ カメラです。三万円です。あの時計は 外国のです。六千円です。本屋は ［3］ですか。八階です。", "blanks": [
-        { "options": ["の", "は", "か", "も"], "answer": 1 },
-        { "options": ["は", "も", "の", "か"], "answer": 2 },
-        { "options": ["何階", "いくら", "どなた", "何歳"], "answer": 0 }
-      ], "explanation_ta": "［1］ 'கேமரா (பிரிவு) ஐந்தாவது மாடி' — தலைப்பு は. ［2］ 'ஜப்பானியக் கேமரா' — நாட்டைக் காட்டும் の. ［3］ பதில் 八階 என்பதால் கேள்வி 何階." }
+      {
+        "id": "L03-q01",
+        "type": "kanji_reading",
+        "sentence": "＿駅＿は どこですか。",
+        "target": "駅",
+        "options": [
+          "えぎ",
+          "いき",
+          "えき",
+          "えっき"
+        ],
+        "answer": 2,
+        "explanation_ta": "駅 = えき (ரயில் நிலையம்). き-ஐ ぎ என்று ஒலி மாற்றுவதும், சிறிய っ சேர்ப்பதும் தவறு.",
+        "explanation_en": "駅 = えき (ரயில் நிலையம், railway station). Changing き to ぎ or adding a small っ is wrong."
+      },
+      {
+        "id": "L03-q02",
+        "type": "kanji_reading",
+        "sentence": "あそこは ＿銀行＿です。",
+        "target": "銀行",
+        "options": [
+          "ぎんこう",
+          "ぎんこ",
+          "きんこう",
+          "ぎんごう"
+        ],
+        "answer": 0,
+        "explanation_ta": "銀行 = ぎんこう. கடைசி நீண்ட ஒலி こう உண்டு; ぎんこ என்று குறுக்குவதும் ぎ-ஐ き ஆக்குவதும் தவறு.",
+        "explanation_en": "銀行 = ぎんこう (வங்கி, bank). It ends with the long sound こう; shortening it to ぎんこ or changing ぎ to き is wrong."
+      },
+      {
+        "id": "L03-q03",
+        "type": "kanji_reading",
+        "sentence": "あの建物は ＿病院＿です。",
+        "target": "病院",
+        "options": [
+          "びよういん",
+          "びょうい",
+          "ぴょういん",
+          "びょういん"
+        ],
+        "answer": 3,
+        "explanation_ta": "病院 = びょういん. びょ ஒரே ஒலி (சிறிய ょ); びよういん என்றால் 美容院 (அழகு நிலையம்) — இது பெரிய பொறி!",
+        "explanation_en": "病院 = びょういん (மருத்துவமனை, hospital). びょ is a single sound (with a small ょ); びよういん is 美容院 (அழகு நிலையம், beauty salon). This is a big trap!"
+      },
+      {
+        "id": "L03-q04",
+        "type": "orthography",
+        "sentence": "＿ゆうびんきょく＿は 三階です。",
+        "target": "ゆうびんきょく",
+        "options": [
+          "郵使局",
+          "郵便局",
+          "郵便居",
+          "郵更局"
+        ],
+        "answer": 1,
+        "explanation_ta": "ゆうびんきょく = 郵便局. 便 என்பதற்குப் பதிலாக ஒத்த தோற்றமுள்ள 使 (பயன்படுத்த), 局 என்பதற்குப் பதிலாக 居 — இரண்டும் பொறிகள்.",
+        "explanation_en": "ゆうびんきょく = 郵便局 (தபால் நிலையம், post office). The look-alike 使 (பயன்படுத்த, to use) in place of 便, and 居 in place of 局, are both traps."
+      },
+      {
+        "id": "L03-q05",
+        "type": "orthography",
+        "sentence": "あの＿たてもの＿は デパートです。",
+        "target": "たてもの",
+        "options": [
+          "健物",
+          "建勿",
+          "建物",
+          "達物"
+        ],
+        "answer": 2,
+        "explanation_ta": "たてもの = 建物 (கட்டிடம்). 健 என்பதில் இடப்பக்கம் 亻 கூடுதல்; 勿 என்பது 物-இன் வலப்பகுதி மட்டும்.",
+        "explanation_en": "たてもの = 建物 (கட்டிடம், building). 健 has an extra 亻 on the left; 勿 is only the right-hand part of 物."
+      },
+      {
+        "id": "L03-q06",
+        "type": "vocab_context",
+        "sentence": "「すみません、（　　）は どこですか。」「あそこです。」",
+        "options": [
+          "おてあらい",
+          "なまえ",
+          "ばんごう",
+          "いくら"
+        ],
+        "answer": 0,
+        "explanation_ta": "'எங்கே?' என்று கேட்கக்கூடியது ஓர் இடம் — கழிப்பறை. பெயர், எண் போன்றவை 'அங்கே' என்ற பதிலுக்குப் பொருந்தாது.",
+        "explanation_en": "What you can ask \"Where?\" about is a place: the toilet (கழிப்பறை). Things like a name or a number don't fit the answer \"over there\"."
+      },
+      {
+        "id": "L03-q07",
+        "type": "vocab_context",
+        "sentence": "「このカメラは （　　）ですか。」「三万円です。」",
+        "options": [
+          "どこ",
+          "なんがい",
+          "いくら",
+          "どなた"
+        ],
+        "answer": 2,
+        "explanation_ta": "பதில் விலை (三万円) என்பதால் கேள்வி いくら (என்ன விலை). どこ என்றால் பதில் ஓர் இடம்.",
+        "explanation_en": "The answer is a price (三万円), so the question is いくら (என்ன விலை, how much). If it were どこ (where), the answer would be a place."
+      },
+      {
+        "id": "L03-q08",
+        "type": "vocab_context",
+        "sentence": "「本屋は （　　）ですか。」「八階です。」",
+        "options": [
+          "なんさい",
+          "なんがい",
+          "なんばん",
+          "なんえん"
+        ],
+        "answer": 1,
+        "explanation_ta": "பதில் 八階 (எட்டாவது மாடி) என்பதால் கேள்வி 何階 (なんがい). なんさい என்பது வயது கேட்கும் சொல்.",
+        "explanation_en": "The answer is 八階 (எட்டாவது மாடி, eighth floor), so the question is 何階 (なんがい, which floor). なんさい is the word for asking someone's age."
+      },
+      {
+        "id": "L03-q09",
+        "type": "vocab_context",
+        "sentence": "（　　）は 山田さんです。山田さんは IMCの 会社員です。",
+        "options": [
+          "あそこ",
+          "どちら",
+          "そこ",
+          "こちら"
+        ],
+        "answer": 3,
+        "explanation_ta": "ஒருவரை மரியாதையாக அறிமுகம் செய்ய こちら ('இவர்'). あそこ / そこ இடங்களைக் குறிக்கும், ஆட்களை அல்ல.",
+        "explanation_en": "To introduce someone politely, use こちら (இவர், this person). あそこ / そこ point at places, not people."
+      },
+      {
+        "id": "L03-q10",
+        "type": "vocab_context",
+        "sentence": "ここは （　　）です。ラジャさんは ここの 医者です。",
+        "options": [
+          "やおや",
+          "びょういん",
+          "ぎんこう",
+          "こうばん"
+        ],
+        "answer": 1,
+        "explanation_ta": "மருத்துவர் வேலை செய்யும் இடம் 病院 (மருத்துவமனை). 銀行 (வங்கி), 交番 (போலீஸ் பூத்) ஆகியவற்றில் மருத்துவர் இருக்க மாட்டார்.",
+        "explanation_en": "The place where a doctor works is 病院 (மருத்துவமனை, hospital). A doctor wouldn't be at 銀行 (வங்கி, bank) or 交番 (போலீஸ் பூத், police box)."
+      },
+      {
+        "id": "L03-q11",
+        "type": "vocab_context",
+        "sentence": "「お国は （　　）ですか。」「スリランカです。」",
+        "options": [
+          "どなた",
+          "いくら",
+          "どちら",
+          "なん"
+        ],
+        "answer": 2,
+        "explanation_ta": "நாட்டை மரியாதையாகக் கேட்க どちら. どなた என்பது 'யார்', நாட்டுக்குப் பொருந்தாது.",
+        "explanation_en": "To ask about someone's country politely, use どちら (எங்கே / எது, where / which). どなた means \"who\" (யார்) and doesn't fit a country."
+      },
+      {
+        "id": "L03-q12",
+        "type": "paraphrase",
+        "sentence": "銀行は あそこです。",
+        "options": [
+          "あそこは 銀行じゃありません。",
+          "あそこは 銀行です。",
+          "ここは 銀行です。",
+          "銀行は ここです。"
+        ],
+        "answer": 1,
+        "explanation_ta": "'வங்கி அங்கே இருக்கிறது' = 'அங்கே இருப்பது வங்கி'. ここ என்பது 'இங்கே', இடம் மாறிவிடும்.",
+        "explanation_en": "\"The bank is over there\" = \"What is over there is the bank\" (அங்கே இருப்பது வங்கி). ここ means \"here\" (இங்கே), which changes the place."
+      },
+      {
+        "id": "L03-q13",
+        "type": "paraphrase",
+        "sentence": "これは 日本の 時計です。",
+        "options": [
+          "これは 日本人の 時計です。",
+          "この時計は 外国のです。",
+          "これは 日本語の 時計です。",
+          "この時計は 日本のです。"
+        ],
+        "answer": 3,
+        "explanation_ta": "'ஜப்பானியத் தயாரிப்புக் கடிகாரம்' = 'இந்தக் கடிகாரம் ஜப்பானியது'. 日本人の என்றால் 'ஒரு ஜப்பானியருடையது' — உடைமை, தயாரிப்பு அல்ல.",
+        "explanation_en": "\"A Japanese-made clock\" = \"This clock is Japanese\" (இந்தக் கடிகாரம் ஜப்பானியது). 日本人の would mean \"belonging to a Japanese person\": ownership, not where it was made."
+      },
+      {
+        "id": "L03-q14",
+        "type": "paraphrase",
+        "sentence": "お手洗いは 一階です。",
+        "options": [
+          "お手洗いは 二階じゃありません。一階です。",
+          "お手洗いは 一階じゃありません。",
+          "お手洗いは 二階です。",
+          "お手洗いは あそこじゃありません。"
+        ],
+        "answer": 0,
+        "explanation_ta": "இரண்டாவது மாடி இல்லை, முதல் (தரை) மாடி — அதே பொருள். மற்ற தேர்வுகள் மாடியை மாற்றுகின்றன அல்லது மறுக்கின்றன.",
+        "explanation_en": "Not the second floor but the first (ground) floor (தரை மாடி): the same meaning. The other options change the floor or deny it."
+      },
+      {
+        "id": "L03-q15",
+        "type": "grammar_form",
+        "sentence": "「駅は （　　）ですか。」「あそこです。」",
+        "options": [
+          "どこ",
+          "だれ",
+          "なに",
+          "いくら"
+        ],
+        "answer": 0,
+        "explanation_ta": "பதில் 'அங்கே' என்ற இடம்; ஆகவே கேள்வி どこ (எங்கே).",
+        "explanation_en": "The answer is a place, \"over there\", so the question is どこ (எங்கே, where)."
+      },
+      {
+        "id": "L03-q16",
+        "type": "grammar_form",
+        "sentence": "これは どこ（　　）カメラですか。",
+        "options": [
+          "は",
+          "も",
+          "か",
+          "の"
+        ],
+        "answer": 3,
+        "explanation_ta": "'எந்த நாட்டுக் கேமரா' = どこの カメラ; பெயர்ச்சொல்லை இணைக்க の வேண்டும்.",
+        "explanation_en": "\"A camera from which country\" = どこの カメラ; you need の to link it to the noun."
+      },
+      {
+        "id": "L03-q17",
+        "type": "grammar_form",
+        "sentence": "この本は 三百（　　）です。",
+        "options": [
+          "かい",
+          "えん",
+          "さい",
+          "ばん"
+        ],
+        "answer": 1,
+        "explanation_ta": "புத்தகத்தின் விலை = 三百円 (さんびゃくえん). かい மாடி, さい வயது — புத்தகத்துக்குப் பொருந்தாது.",
+        "explanation_en": "The price of a book = 三百円 (さんびゃくえん, 300 yen). かい is for floors and さい is for ages; they don't fit a book."
+      },
+      {
+        "id": "L03-q18",
+        "type": "grammar_form",
+        "sentence": "「そこは 郵便局ですか。」「いいえ、郵便局（　　）。交番です。」",
+        "options": [
+          "です",
+          "ですか",
+          "じゃありません",
+          "も"
+        ],
+        "answer": 2,
+        "explanation_ta": "いいえ என்ற மறுப்புக்குப் பின் 'தபால் நிலையம் இல்லை' = じゃありません; பின் 交番です என்று சரியானதைச் சொல்கிறார்.",
+        "explanation_en": "After the denial いいえ, \"it's not the post office\" = じゃありません; then the speaker gives the right answer, 交番です (it's the police box)."
+      },
+      {
+        "id": "L03-q19",
+        "type": "grammar_form",
+        "sentence": "銀行は 二階です。郵便局（　　）二階です。",
+        "options": [
+          "も",
+          "の",
+          "は",
+          "か"
+        ],
+        "answer": 0,
+        "explanation_ta": "வங்கியைப் போலவே தபால் நிலையமும் இரண்டாவது மாடியில் — '-உம்' = も.",
+        "explanation_en": "Like the bank, the post office is on the second floor too, so \"too\" (-உம்) = も."
+      },
+      {
+        "id": "L03-q20",
+        "type": "grammar_form",
+        "sentence": "「（　　）は どこですか。」「ここは 駅です。」",
+        "options": [
+          "そこ",
+          "あそこ",
+          "ここ",
+          "どこ"
+        ],
+        "answer": 2,
+        "explanation_ta": "'இது எந்த இடம்?' = ここは どこですか. பதிலும் ここは என்று வருவதால் இருவரும் ஒரே இடத்தில் உள்ளனர்.",
+        "explanation_en": "\"What place is this?\" (இது எந்த இடம்?) = ここは どこですか. The answer also uses ここは, so both people are in the same place."
+      },
+      {
+        "id": "L03-q21",
+        "type": "grammar_form",
+        "sentence": "「この傘は いくらですか。」「（　　）です。」",
+        "options": [
+          "三階",
+          "三番",
+          "三歳",
+          "三千円"
+        ],
+        "answer": 3,
+        "explanation_ta": "いくら (என்ன விலை) கேள்விக்குப் பதில் விலை: 三千円 (さんぜんえん). மற்றவை மாடி, எண், வயது.",
+        "explanation_en": "The answer to an いくら (என்ன விலை, how much) question is a price: 三千円 (さんぜんえん, 3,000 yen). The others are a floor, a number and an age."
+      },
+      {
+        "id": "L03-q22",
+        "type": "sentence_order",
+        "before": "すみません、",
+        "chunks": [
+          "お手洗いは",
+          "何階",
+          "です",
+          "か"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "すみません、お手洗いは 何階ですか。 — தலைப்பு → கேள்விச் சொல் → です → か. ★ இடத்தில் 何階 வரும்.",
+        "explanation_en": "すみません、お手洗いは 何階ですか。 — topic → question word → です → か. 何階 goes in the ★ slot."
+      },
+      {
+        "id": "L03-q23",
+        "type": "sentence_order",
+        "before": "それは",
+        "chunks": [
+          "どこの",
+          "時計",
+          "です",
+          "か"
+        ],
+        "star": 0,
+        "after": "。",
+        "explanation_ta": "それは どこの 時計ですか。 — どこの பெயர்ச்சொல்லுக்கு முன் வரும். ★ இடத்தில் どこの வரும்.",
+        "explanation_en": "それは どこの 時計ですか。 — どこの comes before the noun. どこの goes in the ★ slot."
+      },
+      {
+        "id": "L03-q24",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "あの",
+          "建物は",
+          "病院じゃ",
+          "ありません"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "あの建物は 病院じゃありません。 — あの + பெயர்ச்சொல், பிறகு மறுப்பு. ★ இடத்தில் 病院じゃ வரும்.",
+        "explanation_en": "あの建物は 病院じゃありません。 — あの + noun, then the denial. 病院じゃ goes in the ★ slot."
+      },
+      {
+        "id": "L03-q25",
+        "type": "passage_cloze",
+        "passage": "ここは デパートです。お手洗いは 一階です。カメラ［1］ 五階です。このカメラは 日本［2］ カメラです。三万円です。あの時計は 外国のです。六千円です。本屋は ［3］ですか。八階です。",
+        "blanks": [
+          {
+            "options": [
+              "の",
+              "は",
+              "か",
+              "も"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "は",
+              "も",
+              "の",
+              "か"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "何階",
+              "いくら",
+              "どなた",
+              "何歳"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ 'கேமரா (பிரிவு) ஐந்தாவது மாடி' — தலைப்பு は. ［2］ 'ஜப்பானியக் கேமரா' — நாட்டைக் காட்டும் の. ［3］ பதில் 八階 என்பதால் கேள்வி 何階.",
+        "explanation_en": "［1］ \"Cameras (section) are on the fifth floor\": topic は. ［2］ \"Japanese camera\" (ஜப்பானியக் கேமரா): の showing the country. ［3］ The answer is 八階 (eighth floor), so the question is 何階."
+      }
     ]
   }
 }

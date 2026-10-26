@@ -9,14 +9,14 @@ export default function SettingsPage() {
   const setSetting = useProgress((s) => s.setSetting);
   const xp = useProgress((s) => s.xp);
 
-  const Toggle = ({ k, label, ta, desc }: { k: "freeNavigation" | "showRomaji" | "showReading" | "autoSpeak"; label: string; ta: string; desc: string }) => (
+  const Toggle = ({ k, label, desc }: { k: "freeNavigation" | "showRomaji" | "showReading" | "autoSpeak"; label: string; desc: string }) => (
     <button
       onClick={() => setSetting(k, !settings[k])}
       className="card p-4 w-full flex items-center justify-between gap-4 text-left"
     >
       <div>
         <div className="font-black">
-          {label} <span className="text-sm text-fg-2 font-bold" lang="ta">{ta}</span>
+          {label}
         </div>
         <div className="text-xs text-muted">{desc}</div>
       </div>
@@ -32,10 +32,10 @@ export default function SettingsPage() {
         <ArrowLeft size={16} /> Home
       </Link>
       <h1 className="text-3xl font-black">Settings</h1>
-      <Toggle k="freeNavigation" label="Open all lessons" ta="எல்லா பாடங்களும் திறந்தவை" desc="Review mode. Off = lessons unlock only after passing the previous test." />
-      <Toggle k="showReading" label="Show kana reading" ta="கனா வாசிப்பு" desc="Reading line under kanji words and sentences." />
-      <Toggle k="showRomaji" label="Show romaji" ta="ரோமாஜி" desc="Latin transcription on cards and examples." />
-      <Toggle k="autoSpeak" label="Auto-play audio" ta="தானாக ஒலி" desc="Speak each vocabulary card when it appears." />
+      <Toggle k="freeNavigation" label="Open all lessons" desc="Review mode. Off = lessons unlock only after passing the previous test." />
+      <Toggle k="showReading" label="Show kana reading" desc="Reading line under kanji words and sentences." />
+      <Toggle k="showRomaji" label="Show romaji" desc="Latin transcription on cards and examples." />
+      <Toggle k="autoSpeak" label="Auto-play audio" desc="Speak each vocabulary card when it appears." />
       <div className="card p-4 flex items-center justify-between">
         <div>
           <div className="font-black">Total XP</div>

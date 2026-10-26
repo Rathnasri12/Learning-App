@@ -1,0 +1,69 @@
+{
+  "lesson": 7,
+  "intro_en": "In this lesson you learn to say who you gave something to, who you received something from, and who you learned from. The key point is how に and から are used; they work like the Tamil \"-க்கு\" (to) and \"-இடம்\" (from/with a person) endings. We will also look at で for tools (\"I eat with chopsticks\"), how to ask \"What is this in Japanese?\", and もう / まだ (\"already / not yet\"). The vocabulary for this lesson is family words: one word for your own family members, and a polite word for other people's family members.",
+  "grammar": {
+    "g07-1": {
+      "explanation_en": "In Lesson 6 you saw で as \"the place where an action happens\". The same で also shows the tool or means, \"with what / using what\": 箸で食べます = \"I eat with chopsticks\", 日本語で書きます = \"I write in Japanese\". This is the Tamil third case ending \"-ஆல் / -ஐக் கொண்டு\" (by / using). バスで行きます (I go by bus) from Lesson 5 is also this same \"means\" で. For languages, Tamil says \"ஜப்பானிய மொழியில்\" (in Japanese) with \"-இல்\", but Japanese uses only で; don't use に.",
+      "tamil_parallel_en": "で for a tool or means matches the Tamil instrumental -ஆல் (\"by / with\"): சாப்ஸ்டிக்ஸால்(-ஆல்) சாப்பிடுகிறேன் (\"I eat with chopsticks\") = 箸で食べます; தமிழில் எழுதுகிறேன் (\"I write in Tamil\") = タミル語で書きます.",
+      "formation_en": "N(tool / language / vehicle) + で + V",
+      "pitfalls_en": "日本語に書きます ✗. For a language, use で, not に. Also, don't get confused because the same で marks both a place (喫茶店で) and a tool (箸で); the context makes it clear."
+    },
+    "g07-2": {
+      "explanation_en": "To ask how to say a word in another language: 「ありがとう」はタミル語で何ですか = \"What is 'ありがとう' in Tamil?\". Here 〜語で is the \"means\" で you just saw: \"using the Tamil language\". The answer: \"「நன்றி」です\". The sentence structure is the same as asking in Tamil \"'தண்ணீர்' ஜப்பானிய மொழியில் என்ன?\" (What is 'water' in Japanese?): word + topic は + in the language で + what 何 + ですか. Here 何 is read なん (because it comes before です). This is a very useful sentence for asking your teacher in class.",
+      "tamil_parallel_en": "The question follows the same order as the Tamil one: 'நன்றி' ஜப்பானிய மொழியில் என்ன? (\"What is 'thank you' in Japanese?\") = 「ナンドリ」は日本語で何ですか.",
+      "formation_en": "「word」 + は + 〜語 + で + 何ですか  → 「word」です",
+      "pitfalls_en": "タミル語に何ですか ✗. For a language, use で. Here 何 is なん; don't read it as なに."
+    },
+    "g07-3": {
+      "explanation_en": "With verbs such as give, lend, teach, write (to someone) and phone, に comes after the person the action is directed at: 妹に飴をあげます = \"I give candy to my younger sister\". This is the Tamil fourth case ending \"-க்கு\" (to). The word order is the same as Tamil: to whom に → what を → verb. 兄は私に英語を教えます = \"My older brother teaches me English\". 電話をかけます (make a phone call) is also in this group: 母に電話をかけます. Note: あげます is for when I or someone else gives to another person; \"someone gave to me\" uses a different word, くれます, which comes in Lesson 24.",
+      "tamil_parallel_en": "に for the receiver is the Tamil dative -க்கு (\"to\"), with the same word order: தம்பிக்கு(-க்கு) புத்தகம் கொடுத்தேன் (\"I gave my younger brother a book\") = 弟に本をあげました.",
+      "formation_en": "N(person) + に + N(thing) + を + あげます / 貸します / 教えます / 書きます / かけます",
+      "pitfalls_en": "妹を飴をあげます ✗. The receiver takes に and the thing takes を; you can't have two を. If you think of the Tamil \"-க்கு\" in \"தங்கைக்கு\" (to my younger sister), you will get に right."
+    },
+    "g07-4": {
+      "explanation_en": "With receive (もらいます), borrow (借ります) and learn (習います), に or から shows who you get it from: 母に花瓶をもらいました = \"I received a vase from my mother\". This is the Tamil \"-இடம் / -இடமிருந்து\" (from a person). Careful: with あげます above, に showed the receiver (\"-க்கு\", to); here the same に shows the giver (\"-இடம்\", from). The verb decides the direction. Tamil keeps \"-க்கு\" and \"-இடம்\" clearly separate, so look at the verb when you choose. から (from) can be used for a person and also for an organisation or place (銀行から); に is only for a person.",
+      "tamil_parallel_en": "With receiving verbs, に / から match the Tamil -இடம் / -இடமிருந்து (\"from\"): அம்மாவிடம்(-இடம்) பூ பெற்றேன் (\"I received flowers from my mother\") = 母に花をもらいました; நண்பரிடமிருந்து புத்தகம் கடன் வாங்கினேன் (\"I borrowed a book from a friend\") = 友達から本を借りました.",
+      "formation_en": "N(person) + に / から + N(thing) + を + もらいます / 借ります / 習います",
+      "pitfalls_en": "With もらいます, に marks the giver; with あげます, に marks the receiver. 私は母にあげました (I gave it to my mother) ≠ 私は母にもらいました (I received it from my mother). If you are unsure, you can use から with もらいます."
+    },
+    "g07-5": {
+      "explanation_en": "もう + past tense = \"I have already done it\": もう食べました = \"I have already eaten\". As a question: もう食べましたか = \"Have you eaten (yet)?\". If yes, はい、もう食べました; if no, いいえ、まだです (\"No, not yet\"). This is just like the Tamil conversation \"சாப்பிட்டாச்சா? — ஆச்சு / இன்னும் இல்லை\" (Have you eaten? Done / Not yet). Careful: don't say \"I haven't eaten yet\" as まだ食べませんでした; that becomes a past statement, \"I didn't eat (at that time)\". At N5 level, just answer まだです. (The full form まだ食べていません comes after Lesson 14.)",
+      "tamil_parallel_en": "This is the everyday Tamil exchange with ஆச்சு / இன்னும் இல்லை: ஏற்கனவே சாப்பிட்டாச்சு (\"I've already eaten\") = もう食べました; இன்னும் இல்லை (\"not yet\") = まだです.",
+      "formation_en": "もう + V ました (か) ／ いいえ、まだです",
+      "pitfalls_en": "まだ食べませんでした ✗ (when you mean \"I haven't eaten yet\"); say まだです. The word もう can also mean \"one more / more\" (もう一つ); here it only means \"already\"."
+    },
+    "g07-6": {
+      "explanation_en": "Japanese has two words for each family relation. When you talk about your own family to others, use the humble word (父 father, 母 mother, 兄 older brother, 姉 older sister, 弟 younger brother, 妹 younger sister, 両親 parents). When you talk about someone else's family, use the polite word (お父さん, お母さん, お兄さん, お姉さん, 弟さん, 妹さん, 奥さん). In Tamil, \"என் அப்பா\" (my father) and \"உங்கள் அப்பா\" (your father) use the same word, but you can understand this through the way Tamil adds respect for other people's family, as in \"அப்பா அவர்கள்\" or \"உங்க அம்மாவுங்க\". One exception: at home, when you call your own father and mother directly, you say お父さん and お母さん (like calling \"அப்பா! அம்மா!\" in Tamil). These polite words combine the お〜 honorific prefix from Lesson 2 and 〜さん from Lesson 1.",
+      "tamil_parallel_en": "Tamil uses one word but adds respect for someone else's family, while Japanese switches words: என் அப்பா (\"my father\") = 父; உங்கள் அப்பா (அவர்கள்) (\"your (respected) father\") = お父さん.",
+      "formation_en": "Your own family: 父・母・兄・姉・弟・妹・両親 ／ Someone else's family: お父さん・お母さん・お兄さん・お姉さん・弟さん・妹さん・奥さん",
+      "pitfalls_en": "私のお父さんは医者です is wrong when talking about your own father to others; say 私の父. The other way round, 田中さんの父 ✗ → 田中さんのお父さん. Pronunciation: mixing up おとうさん (father) and おとうと (younger brother) is common."
+    }
+  },
+  "items": {
+    "L07-q01": "両親 = りょうしん (பெற்றோர், parents). 両 is the long sound りょう; 親 is しん (not じん; don't confuse it with じん in 〜人).",
+    "L07-q02": "弟 = おとうと (தம்பி, younger brother). おとうさん is お父さん (அப்பா, father); they sound similar, so this is a common confusion. There must be an う in the middle, and it is と, not ど.",
+    "L07-q03": "兄弟 = きょうだい (உடன்பிறந்தோர், siblings). きょう is a long sound; here 弟 is だい (voiced). Shortening it to きょだい is wrong.",
+    "L07-q04": "はな = 花 (பூ, flower). 化 is only the bottom part of 花; it becomes 花 only with the grass radical (艹) on top. 茶 (ちゃ) also has 艹, but it is a different word.",
+    "L07-q05": "はは = 母 (என் அம்மா, my mother). 毎 (まい) and 海 (うみ) look similar because they contain a shape like 母; 父 (ちち) is father.",
+    "L07-q06": "Learning a language from a teacher = 習います (கற்றுக்கொள்கிறேன், learn). With 教えます the direction flips: \"I teach the teacher\".",
+    "L07-q07": "The first word on the phone = もしもし (ஹலோ, hello). はじめまして is for meeting someone in person for the first time; さようなら is for parting.",
+    "L07-q08": "You drink water from a glass = コップ (டம்ளர், glass/cup). お皿 (plate) and 箸 (chopsticks) are for eating, not drinking.",
+    "L07-q09": "Japanese people eat with chopsticks = 箸 (சாப்ஸ்டிக்ஸ், chopsticks). コップ is for drinking; 花瓶 (vase) and 電話 (phone) are not eating tools.",
+    "L07-q10": "\"No, not yet\" = いいえ、まだです (இன்னும் இல்லை, not yet). もう (already) doesn't go with いいえ.",
+    "L07-q11": "Someone else's (田中さんの) father → the polite word お父さん (அப்பா, father). 父 is only for your own father; 兄 and 母 are also humble words and don't fit someone else's family.",
+    "L07-q12": "\"My older brother teaches me\" = \"I learn from my older brother\" (習います, கற்றுக்கொள்கிறேன், learn). If you keep 教えます and just swap the people, the direction is reversed.",
+    "L07-q13": "\"Tanaka received a watch from Yamada\" = \"Yamada gave Tanaka a watch\" (山田さんは田中さんにあげました; கொடுத்தார், gave). もらう and あげる both use に, but the direction is opposite. Note: you cannot use あげました when someone gives something to you; that needs くれました (Lesson 24).",
+    "L07-q14": "\"I borrowed it from a friend\" = \"My friend lent it to me\" (貸しました, கடனாகக் கொடுத்தார், lent). 借りる (கடன் வாங்க, borrow) and 貸す (கடன் கொடுக்க, lend) sound similar, which causes confusion.",
+    "L07-q15": "The receiver with あげます → に (the Tamil \"தங்கைக்கு\", to my younger sister). を is only for the thing; one sentence can't have two を.",
+    "L07-q16": "The giver with もらいます → から (or に). で is for a tool or place; が doesn't fit here.",
+    "L07-q17": "A tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks) → で. With に it would mean \"to the chopsticks\".",
+    "L07-q18": "Use で for a language (in English = by means of English). 英語に ✗.",
+    "L07-q19": "もう (ஏற்கனவே, already) + past ました → 撮りましたか (எடுத்துவிட்டீர்களா?, have you taken it?). もう撮りますか doesn't make sense.",
+    "L07-q20": "\"Not yet\" = まだです (இன்னும் இல்லை). まだ読みませんでした is a common mistake; it is a past statement, \"I didn't read it (then)\", not \"I haven't read it yet\".",
+    "L07-q21": "電話をかけます means make a phone call; 電話 is the object → を. The person already has に (母に).",
+    "L07-q22": "To whom (友達に) → what (日本語の本を) → verb (貸しました). The ★ slot is 本を; 日本語の describes 本, so it comes right before it.",
+    "L07-q23": "インドの母に (இந்தியாவில் உள்ள அம்மாவுக்கு, to my mother in India) → 電話を → かけます. The ★ slot is 母に; インドの, with の, comes before it.",
+    "L07-q24": "Time (誕生日に) → from whom (友達に) → what (花を) → verb. The ★ slot is 花を. Because the verb is もらいました, 友達に = the friend who gave it.",
+    "L07-q25": "［1］A tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks) → で. ［2］The receiver of 教えます (\"எனக்கு\", to me) → に; から is only for receiving verbs. ［3］The source of 借りました (\"அண்ணனிடமிருந்து\", from my older brother) → から (に is also correct, but it is not among the choices)."
+  }
+}

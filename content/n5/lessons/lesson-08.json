@@ -6,6 +6,7 @@
     "en": "What kind of person?"
   },
   "intro_ta": "இந்தப் பாடத்தில் பெயரடைகளை (adjectives) கொண்டு மனிதர்கள், ஊர்கள், பொருட்களை விவரிக்கக் கற்றுக்கொள்வோம். ஜப்பானிய மொழியில் い-பெயரடை, な-பெயரடை என்று இரண்டு வகைகள் உண்டு; அவற்றின் உடன்பாடு, எதிர்மறை வடிவங்கள், பெயர்ச்சொல்லுக்கு முன் வரும் விதம் ஆகியவற்றைப் பார்ப்போம். \"எப்படி இருக்கிறது?\", \"எப்படிப்பட்ட?\", \"எது?\" என்று கேட்கவும், \"ஆனால்\" என்று இரண்டு கருத்துகளை இணைக்கவும் கற்போம்.",
+  "intro_en": "In this lesson you learn to describe people, towns and things using adjectives. Japanese has two kinds of adjectives, い-adjectives and な-adjectives. We will look at their positive and negative forms and how they go in front of a noun. You will also learn to ask \"How is it?\", \"What kind of?\" and \"Which one?\", and to join two ideas with \"but\".",
   "grammar": [
     {
       "id": "g08-1",
@@ -15,8 +16,11 @@
         "ta": "な-பெயரடை: ஆம் / இல்லை வடிவம்"
       },
       "explanation_ta": "きれい, 静か, 便利, 有名, にぎやか போன்றவை な-பெயரடைகள். வாக்கிய முடிவில் இவை பெயர்ச்சொல் போலவே நடந்துகொள்ளும்: 静かです (அமைதியாக இருக்கிறது), 静かじゃありません (அமைதியாக இல்லை). 1-ஆம் பாடத்தின் 学生です / 学生じゃありません அதே அமைப்பு. தமிழில் \"ஊர் அமைதி\" / \"ஊர் அமைதியானது அல்ல\" என்று சொல்வது போல. கவனம்: きれい என்பது い-இல் முடிந்தாலும் な-பெயரடைதான்; ஆகவே きれくないです ✗, きれいじゃありません ✓. வாக்கிய வரிசை தமிழைப் போலவே: தலைப்பு は + பெயரடை + です.",
+      "explanation_en": "きれい, 静か, 便利, 有名 and にぎやか are な-adjectives. At the end of a sentence they behave just like nouns: 静かです (it is quiet), 静かじゃありません (it is not quiet). This is the same pattern as 学生です / 学生じゃありません from Lesson 1. It is like saying in Tamil \"ஊர் அமைதி\" (the town is quiet) / \"ஊர் அமைதியானது அல்ல\" (the town is not quiet). Careful: きれい ends in い but it is still a な-adjective, so きれくないです ✗, きれいじゃありません ✓. The word order is the same as Tamil: topic は + adjective + です.",
       "tamil_parallel": "இந்த ஊர் அமைதியானது = この町は静かです ; அமைதியானது அல்ல = 静かじゃありません",
+      "tamil_parallel_en": "Like a Tamil noun-style description with அல்ல (\"is not\"), な-adjectives work like nouns: இந்த ஊர் அமைதியானது (\"this town is quiet\") = この町は静かです; அமைதியானது அல்ல (\"it is not quiet\") = 静かじゃありません.",
       "formation": "N は + な-adj (な இல்லாமல்) + です / じゃありません",
+      "formation_en": "N は + な-adj (without な) + です / じゃありません",
       "examples": [
         {
           "ja": "この 町は 静かです。",
@@ -54,7 +58,8 @@
           "en": "That café is not famous."
         }
       ],
-      "pitfalls_ta": "きれい・有名 போன்றவை い-இல் முடிவதால் い-பெயரடை என்று நினைத்து きれくない என்று மாற்றுவது பொதுவான தவறு. な-பெயரடைகளுக்கு じゃありません மட்டும்."
+      "pitfalls_ta": "きれい・有名 போன்றவை い-இல் முடிவதால் い-பெயரடை என்று நினைத்து きれくない என்று மாற்றுவது பொதுவான தவறு. な-பெயரடைகளுக்கு じゃありません மட்டும்.",
+      "pitfalls_en": "Because きれい and 有名 end in い, a common mistake is to think they are い-adjectives and change them to きれくない. For な-adjectives, use only じゃありません."
     },
     {
       "id": "g08-2",
@@ -64,8 +69,11 @@
         "ta": "い-பெயரடை: ஆம் / இல்லை வடிவம்"
       },
       "explanation_ta": "大きい, 高い, 美味しい போன்ற い-இல் முடியும் பெயரடைகள் தாமே \"இருக்கிறது\" என்ற பொருளைக் கொண்டவை; です மரியாதைக்காக மட்டும் சேர்க்கப்படுகிறது: 高いです (விலை அதிகம்). எதிர்மறை: கடைசி い-ஐ நீக்கி くないです: 高い → 高くないです (விலை அதிகம் இல்லை). தமிழில் \"பெரிய\" → \"பெரிதாக இல்லை\" என்று வடிவம் மாறுவது போல, இங்கும் பெயரடையே மாறுகிறது. விதிவிலக்கு: いい (நல்ல) → எதிர்மறை よくないです (いくない ✗); ஏனெனில் いい-இன் பழைய வடிவம் よい.",
+      "explanation_en": "Adjectives ending in い, such as 大きい, 高い and 美味しい, already contain the meaning \"is\" by themselves; です is added only for politeness: 高いです (it is expensive). Negative: drop the final い and add くないです: 高い → 高くないです (it is not expensive). Just as the Tamil form changes from \"பெரிய\" (big) to \"பெரிதாக இல்லை\" (not big), here the adjective itself changes. Exception: いい (good) → negative よくないです (いくない ✗), because the old form of いい is よい.",
       "tamil_parallel": "இந்தக் கைக்கடிகாரம் விலை அதிகம் = この時計は高いです ; விலை அதிகம் இல்லை = 高くないです",
+      "tamil_parallel_en": "As in Tamil, where the adjective itself changes form in the negative (பெரிய \"big\" → பெரிதாக இல்லை \"not big\"), the い-adjective changes: இந்தக் கைக்கடிகாரம் விலை அதிகம் (\"this watch is expensive\") = この時計は高いです; விலை அதிகம் இல்லை (\"not expensive\") = 高くないです.",
       "formation": "い-adj + です ／ い-adj (い நீக்கி) + くないです ／ いい → よくないです",
+      "formation_en": "い-adj + です ／ い-adj (drop い) + くないです ／ いい → よくないです",
       "examples": [
         {
           "ja": "この 時計は 高いです。",
@@ -110,7 +118,8 @@
           "en": "Is the coffee hot?"
         }
       ],
-      "pitfalls_ta": "高いじゃありません ✗ — い-பெயரடைக்கு くないです. いくないです ✗ — よくないです. 暑い (வானிலை வெப்பம்) மற்றும் 熱い (பொருள் சூடு) இரண்டும் あつい; கஞ்சியால் வேறுபடுத்துங்கள்."
+      "pitfalls_ta": "高いじゃありません ✗ — い-பெயரடைக்கு くないです. いくないです ✗ — よくないです. 暑い (வானிலை வெப்பம்) மற்றும் 熱い (பொருள் சூடு) இரண்டும் あつい; கஞ்சியால் வேறுபடுத்துங்கள்.",
+      "pitfalls_en": "高いじゃありません ✗. い-adjectives take くないです. いくないです ✗; it is よくないです. 暑い (hot weather) and 熱い (hot to the touch, for things) are both あつい; tell them apart by the kanji."
     },
     {
       "id": "g08-3",
@@ -120,8 +129,11 @@
         "ta": "மிகவும் (とても) / அவ்வளவாக இல்லை (あまり)"
       },
       "explanation_ta": "とても = \"மிகவும்\"; உடன்பாட்டு வாக்கியத்தில் மட்டும் வரும்: とても高いです (மிகவும் விலை அதிகம்). あまり = \"அவ்வளவாக\"; எப்போதும் எதிர்மறையுடன் மட்டும் வரும்: あまり高くないです (அவ்வளவாக விலை அதிகம் இல்லை). தமிழிலும் \"அவ்வளவாக\" என்ற சொல் \"இல்லை\" உடன் மட்டுமே இயல்பாக வரும் — அதே விதி. இந்த வினையடைகள் தமிழைப் போலவே பெயரடைக்கு நேர் முன்னால் வரும்.",
+      "explanation_en": "とても = \"very\"; it is used only in positive sentences: とても高いです (it is very expensive). あまり = \"(not) very much\"; it always comes only with a negative: あまり高くないです (it is not very expensive). In Tamil too, the word \"அவ்வளவாக\" (that much) only sounds natural with \"இல்லை\" (not); it is the same rule. As in Tamil, these adverbs come directly before the adjective.",
       "tamil_parallel": "மிகவும் சுவையானது = とても美味しいです ; அவ்வளவாகச் சுவை இல்லை = あまり美味しくないです",
+      "tamil_parallel_en": "あまり works like Tamil அவ்வளவாக, which only goes with a negative: மிகவும் சுவையானது (\"very tasty\") = とても美味しいです; அவ்வளவாகச் சுவை இல்லை (\"not very tasty\") = あまり美味しくないです.",
       "formation": "とても + adj です ／ あまり + adj எதிர்மறை (〜くないです / 〜じゃありません)",
+      "formation_en": "とても + adj です ／ あまり + adj negative (〜くないです / 〜じゃありません)",
       "examples": [
         {
           "ja": "この お菓子は とても 美味しいです。",
@@ -159,7 +171,8 @@
           "en": "My father is very busy."
         }
       ],
-      "pitfalls_ta": "あまり高いです ✗ — あまり எப்போதும் எதிர்மறையுடன். とても高くないです என்பதும் இயல்பற்றது; \"அவ்வளவாக இல்லை\" என்றால் あまり."
+      "pitfalls_ta": "あまり高いです ✗ — あまり எப்போதும் எதிர்மறையுடன். とても高くないです என்பதும் இயல்பற்றது; \"அவ்வளவாக இல்லை\" என்றால் あまり.",
+      "pitfalls_en": "あまり高いです ✗. あまり always goes with a negative. とても高くないです is also unnatural; for \"not very\", use あまり."
     },
     {
       "id": "g08-4",
@@ -169,8 +182,11 @@
         "ta": "〜 எப்படி இருக்கிறது?"
       },
       "explanation_ta": "どう = \"எப்படி\". ஒருவரின் கருத்தை அல்லது அனுபவத்தைக் கேட்க: 日本の食べ物はどうですか = \"ஜப்பானிய உணவு எப்படி இருக்கிறது?\". பதில் பெயரடையுடன்: 美味しいです. தமிழில் \"சாப்பாடு எப்படி?\" என்று கேட்பது போலவே, どう கேள்விச் சொல் です-க்கு முன், வாக்கிய முடிவில் வரும். ஒன்றை வழங்கும்போதும் பயன்படும்: お茶はどうですか = \"தேநீர் எப்படி? (குடிக்கிறீர்களா?)\".",
+      "explanation_en": "どう = \"how\". Use it to ask for someone's opinion or experience: 日本の食べ物はどうですか = \"How is Japanese food?\". Answer with an adjective: 美味しいです. Just like asking \"சாப்பாடு எப்படி?\" (How is the food?) in Tamil, the question word どう comes at the end of the sentence, before です. It is also used when offering something: お茶はどうですか = \"How about some tea? (Will you have some?)\".",
       "tamil_parallel": "ஜப்பானிய உணவு எப்படி? = 日本の食べ物はどうですか",
+      "tamil_parallel_en": "どう is the Tamil எப்படி (\"how\"), in the same end position: ஜப்பானிய உணவு எப்படி? (\"How is Japanese food?\") = 日本の食べ物はどうですか.",
       "formation": "N + は + どうですか",
+      "formation_en": "N + は + どうですか",
       "examples": [
         {
           "ja": "日本の 食べ物は どうですか。",
@@ -208,7 +224,8 @@
           "en": "How about some tea?"
         }
       ],
-      "pitfalls_ta": "どう (எப்படி — நிலை/கருத்து) vs どんな (எப்படிப்பட்ட — பெயர்ச்சொல்லுக்கு முன்). どう人ですか ✗ → どんな人ですか."
+      "pitfalls_ta": "どう (எப்படி — நிலை/கருத்து) vs どんな (எப்படிப்பட்ட — பெயர்ச்சொல்லுக்கு முன்). どう人ですか ✗ → どんな人ですか.",
+      "pitfalls_en": "どう (how, asking about a state or opinion) vs どんな (what kind of, used before a noun). どう人ですか ✗ → どんな人ですか."
     },
     {
       "id": "g08-5",
@@ -218,8 +235,11 @@
         "ta": "எப்படிப்பட்ட N; பெயரடை + பெயர்ச்சொல்"
       },
       "explanation_ta": "பெயரடைகள் தமிழைப் போலவே பெயர்ச்சொல்லுக்கு முன்னால் வரும் (\"பெரிய கடை\" = 大きい店). い-பெயரடை அப்படியே: 大きい店, 新しいカメラ. な-பெயரடைக்கு な சேர்க்க வேண்டும்: 静かな町, 有名な喫茶店 — தமிழில் \"அமைதி\" → \"அமைதியான ஊர்\" என்று \"-ஆன\" சேர்ப்பது போல, な என்பது அந்த \"-ஆன\". どんな = \"எப்படிப்பட்ட\"; அதுவும் பெயர்ச்சொல்லுக்கு முன்: どんな町ですか = \"எப்படிப்பட்ட ஊர்?\" பதில்: 静かな町です.",
+      "explanation_en": "As in Tamil, adjectives come before the noun (\"பெரிய கடை\", big shop = 大きい店). い-adjectives go in as they are: 大きい店, 新しいカメラ. な-adjectives need な: 静かな町, 有名な喫茶店. It is like Tamil adding \"-ஆன\" to turn \"அமைதி\" (quiet) into \"அமைதியான ஊர்\" (a quiet town); な is that \"-ஆன\". どんな = \"what kind of\"; it also goes before a noun: どんな町ですか = \"What kind of town is it?\" Answer: 静かな町です.",
       "tamil_parallel": "அமைதியான ஊர் = 静かな町 ; பெரிய கடை = 大きい店 ; எப்படிப்பட்ட ஊர்? = どんな町ですか",
+      "tamil_parallel_en": "な plays the role of the Tamil -ஆன ending that links a describing word to a noun: அமைதியான ஊர் (\"a quiet town\") = 静かな町; பெரிய கடை (\"a big shop\") = 大きい店; எப்படிப்பட்ட ஊர்? (\"what kind of town?\") = どんな町ですか.",
       "formation": "い-adj + N ／ な-adj + な + N ／ どんな + N",
+      "formation_en": "い-adj + N ／ な-adj + な + N ／ どんな + N",
       "examples": [
         {
           "ja": "マドゥライは 古い 町です。",
@@ -264,7 +284,8 @@
           "en": "That is not a clean river."
         }
       ],
-      "pitfalls_ta": "大きいな店 ✗ — い-பெயரடைக்கு な வேண்டாம். 静か町 ✗ — な-பெயரடைக்கு な கட்டாயம். வாக்கிய முடிவில் (静かです) な வராது; பெயர்ச்சொல்லுக்கு முன் மட்டும்."
+      "pitfalls_ta": "大きいな店 ✗ — い-பெயரடைக்கு な வேண்டாம். 静か町 ✗ — な-பெயரடைக்கு な கட்டாயம். வாக்கிய முடிவில் (静かです) な வராது; பெயர்ச்சொல்லுக்கு முன் மட்டும்.",
+      "pitfalls_en": "大きいな店 ✗. い-adjectives don't take な. 静か町 ✗. な-adjectives must have な. At the end of a sentence (静かです), な does not appear; it is used only before a noun."
     },
     {
       "id": "g08-6",
@@ -274,8 +295,11 @@
         "ta": "〜, ஆனால் 〜"
       },
       "explanation_ta": "இரண்டு எதிர்மாறான கருத்துகளை இணைக்க முதல் வாக்கியத்தின் முடிவில் が சேர்க்கிறோம்: この店は安いですが、美味しくないです = \"இந்தக் கடை மலிவு, ஆனால் சுவையில்லை\". தமிழில் \"மலிவுதான், ஆனால்...\" அல்லது \"மலிவு என்றாலும்...\" என்று முதல் பகுதியின் முடிவில் இணைப்புச் சொல் வருவது போலவே. が-வுக்கு முன் です/ます வடிவம் அப்படியே இருக்கும்; பின் ஒரு காற்புள்ளி (、). இந்த が \"ஆனால்\" என்ற இணைப்பு; 9-ஆம் பாடத்தில் வரும் 好きです-இன் が வேறு வேலை செய்யும்.",
+      "explanation_en": "To join two contrasting ideas, add が at the end of the first sentence: この店は安いですが、美味しくないです = \"This shop is cheap, but it isn't tasty\". It is just like Tamil, where a joining word comes at the end of the first part: \"மலிவுதான், ஆனால்...\" (it's cheap, but...) or \"மலிவு என்றாலும்...\" (even though it's cheap...). Before が, the です/ます form stays as it is, and a comma (、) follows. This が is the connector \"but\"; the が in 好きです, which comes in Lesson 9, does a different job.",
       "tamil_parallel": "மலிவுதான், ஆனால் சுவையில்லை = 安いですが、美味しくないです",
+      "tamil_parallel_en": "が works like Tamil ஆனால் (\"but\") at the end of the first clause: மலிவுதான், ஆனால் சுவையில்லை (\"it's cheap, but not tasty\") = 安いですが、美味しくないです.",
       "formation": "வாக்கியம்1 (〜です / 〜ます) + が、+ வாக்கியம்2",
+      "formation_en": "Sentence 1 (〜です / 〜ます) + が、+ Sentence 2",
       "examples": [
         {
           "ja": "この 店は 安いですが、美味しくないです。",
@@ -313,7 +337,8 @@
           "en": "This camera is old, but good."
         }
       ],
-      "pitfalls_ta": "が-வின் இரு பக்கமும் எதிர்மாறான கருத்துகள் இருக்க வேண்டும்; 安いですが、美味しいです என்று இரண்டும் நல்லதாக இருந்தால் \"ஆனால்\" பொருந்தாது."
+      "pitfalls_ta": "が-வின் இரு பக்கமும் எதிர்மாறான கருத்துகள் இருக்க வேண்டும்; 安いですが、美味しいです என்று இரண்டும் நல்லதாக இருந்தால் \"ஆனால்\" பொருந்தாது.",
+      "pitfalls_en": "The ideas on each side of が must contrast. If both are good, as in 安いですが、美味しいです, \"but\" doesn't fit."
     },
     {
       "id": "g08-7",
@@ -323,8 +348,11 @@
         "ta": "எது (மூன்று அல்லது அதற்கு மேற்பட்டவற்றில்)"
       },
       "explanation_ta": "これ・それ・あれ என்ற 2-ஆம் பாடச் சொற்களின் கேள்வி வடிவம் どれ = \"எது?\". மூன்று அல்லது அதற்கு மேற்பட்ட பொருட்களில் ஒன்றைக் கேட்கப் பயன்படும்: あなたの傘はどれですか = \"உங்கள் குடை எது?\". தமிழைப் போலவே கேள்விச் சொல் வாக்கியத்தின் இறுதியில் です-க்கு முன் வரலாம். どれ தனியாக நிற்கும் சொல் (பெயர்ச்சொல்லுக்கு முன் வராது); どれ-ஐ எழுவாயாக (\"எது பெரியது?\") பயன்படுத்தும் வடிவம் பின்னர் வரும் — இப்போது 〜はどれですか என்ற வடிவத்தைக் கற்போம்.",
+      "explanation_en": "The question form of これ, それ and あれ from Lesson 2 is どれ = \"which one?\". It is used to ask about one item out of three or more: あなたの傘はどれですか = \"Which one is your umbrella?\". As in Tamil, the question word can come at the end of the sentence, before です. どれ stands alone (it does not go before a noun). The form that uses どれ as the subject (\"Which one is big?\") comes later; for now, learn the 〜はどれですか pattern.",
       "tamil_parallel": "உங்கள் குடை எது? = あなたの傘はどれですか",
+      "tamil_parallel_en": "どれ is the Tamil எது (\"which one\"), placed at the end like in Tamil: உங்கள் குடை எது? (\"Which is your umbrella?\") = あなたの傘はどれですか.",
       "formation": "N + は + どれですか → これ / それ / あれ です",
+      "formation_en": "N + は + どれですか → これ / それ / あれ です",
       "examples": [
         {
           "ja": "あなたの 傘は どれですか。",
@@ -362,7 +390,8 @@
           "en": "Which one is the famous café?"
         }
       ],
-      "pitfalls_ta": "どれ傘ですか ✗ — பெயர்ச்சொல்லுக்கு முன் வரும் \"எந்த\" என்பது どの (9-ஆம் பாடம்). どれ தனியாக மட்டும். இரண்டில் ஒன்று என்றால் どちら (12-ஆம் பாடம்)."
+      "pitfalls_ta": "どれ傘ですか ✗ — பெயர்ச்சொல்லுக்கு முன் வரும் \"எந்த\" என்பது どの (9-ஆம் பாடம்). どれ தனியாக மட்டும். இரண்டில் ஒன்று என்றால் どちら (12-ஆம் பாடம்).",
+      "pitfalls_en": "どれ傘ですか ✗. \"Which\" before a noun is どの (Lesson 9). どれ is used only on its own. For one out of two, use どちら (Lesson 12)."
     }
   ],
   "vocab_ids": [
@@ -412,7 +441,8 @@
           "ゆうめい"
         ],
         "answer": 3,
-        "explanation_ta": "有名 = ゆうめい (புகழ்பெற்ற). ゆう, めい இரண்டும் நீண்ட ஒலிகள்; ゆめい (夢 போல) என்று குறுக்குவது பொதுவான தவறு."
+        "explanation_ta": "有名 = ゆうめい (புகழ்பெற்ற). ゆう, めい இரண்டும் நீண்ட ஒலிகள்; ゆめい (夢 போல) என்று குறுக்குவது பொதுவான தவறு.",
+        "explanation_en": "有名 = ゆうめい (புகழ்பெற்ற, famous). Both ゆう and めい are long sounds; shortening it to ゆめい (like 夢) is a common mistake."
       },
       {
         "id": "L08-q02",
@@ -426,7 +456,8 @@
           "べんり"
         ],
         "answer": 3,
-        "explanation_ta": "便利 = べんり (வசதியான). 便 இங்கே べん; びん என்பது 便-இன் மற்றொரு வாசிப்பு (郵便 = ゆうびん) — அதனால் குழப்பம்."
+        "explanation_ta": "便利 = べんり (வசதியான). 便 இங்கே べん; びん என்பது 便-இன் மற்றொரு வாசிப்பு (郵便 = ゆうびん) — அதனால் குழப்பம்.",
+        "explanation_en": "便利 = べんり (வசதியான, convenient). Here 便 is べん; びん is another reading of 便 (郵便 = ゆうびん), which is why people get confused."
       },
       {
         "id": "L08-q03",
@@ -440,7 +471,8 @@
           "いそがしい"
         ],
         "answer": 3,
-        "explanation_ta": "忙しい = いそがしい (பிஸியான). が என்று ஒலியழுத்தத்துடன்; கடைசி い பெயரடையின் ஒரு பகுதி, விடக்கூடாது."
+        "explanation_ta": "忙しい = いそがしい (பிஸியான). が என்று ஒலியழுத்தத்துடன்; கடைசி い பெயரடையின் ஒரு பகுதி, விடக்கூடாது.",
+        "explanation_en": "忙しい = いそがしい (பிஸியான, busy). It is が, with the voiced mark; the final い is part of the adjective, so don't drop it."
       },
       {
         "id": "L08-q04",
@@ -454,7 +486,8 @@
           "髙い"
         ],
         "answer": 0,
-        "explanation_ta": "たかい = 高い (விலை அதிகம்/உயரம்). 髙 என்பது பெயர்களில் மட்டும் பயன்படும் பழைய வடிவம்; பொதுவான எழுத்து 高. 古い (ふるい), 安い (やすい) வேறு சொற்கள்."
+        "explanation_ta": "たかい = 高い (விலை அதிகம்/உயரம்). 髙 என்பது பெயர்களில் மட்டும் பயன்படும் பழைய வடிவம்; பொதுவான எழுத்து 高. 古い (ふるい), 安い (やすい) வேறு சொற்கள்.",
+        "explanation_en": "たかい = 高い (விலை அதிகம்/உயரம், expensive/tall). 髙 is an old form used only in names; the normal character is 高. 古い (ふるい) and 安い (やすい) are different words."
       },
       {
         "id": "L08-q05",
@@ -468,7 +501,8 @@
           "自い"
         ],
         "answer": 2,
-        "explanation_ta": "しろい = 白い (வெள்ளை). 百 (ひゃく) = 白 + மேலே ஒரு கோடு; 自 (じ) = 白 + ஒரு கோடு கூடுதல். 日 உள்ளே புள்ளி இல்லை."
+        "explanation_ta": "しろい = 白い (வெள்ளை). 百 (ひゃく) = 白 + மேலே ஒரு கோடு; 自 (じ) = 白 + ஒரு கோடு கூடுதல். 日 உள்ளே புள்ளி இல்லை.",
+        "explanation_en": "しろい = 白い (வெள்ளை, white). 百 (ひゃく) = 白 + a line on top; 自 (じ) = 白 + one extra line. 日 is missing the short stroke on top that 白 has."
       },
       {
         "id": "L08-q06",
@@ -481,7 +515,8 @@
           "新しい"
         ],
         "answer": 0,
-        "explanation_ta": "வானிலை வெப்பம் = 暑い. 熱い பொருட்களின் சூட்டுக்கு (お茶). சென்னை மே மாதம் 寒い அல்ல!"
+        "explanation_ta": "வானிலை வெப்பம் = 暑い. 熱い பொருட்களின் சூட்டுக்கு (お茶). சென்னை மே மாதம் 寒い அல்ல!",
+        "explanation_en": "Hot weather = 暑い (வெப்பம், hot). 熱い is for hot things (お茶). Chennai in May is not 寒い!"
       },
       {
         "id": "L08-q07",
@@ -494,7 +529,8 @@
           "高い"
         ],
         "answer": 2,
-        "explanation_ta": "தேநீர் (பொருள்) சூடு = 熱い. 暑い வானிலைக்கு மட்டும்; இரண்டும் あつい என்று ஒலிப்பதால் குழப்பம்."
+        "explanation_ta": "தேநீர் (பொருள்) சூடு = 熱い. 暑い வானிலைக்கு மட்டும்; இரண்டும் あつい என்று ஒலிப்பதால் குழப்பம்.",
+        "explanation_en": "Hot tea (a thing) = 熱い (சூடு, hot). 暑い is only for weather; both sound あつい, which causes confusion."
       },
       {
         "id": "L08-q08",
@@ -507,7 +543,8 @@
           "大きい"
         ],
         "answer": 1,
-        "explanation_ta": "が (ஆனால்) பின் 美味しい என்ற நல்ல கருத்து வருவதால், முன்னால் வருவது சாதாரணமான/எதிர்பாராத ஒன்று: 安い (மலிவு, ஆனாலும் சுவை). 高いですが、美味しい என்பதும் இலக்கணப்படி சரியாகத் தோன்றலாம்; ஆனால் விலை உயர்ந்த பொருள் சுவையாக இருப்பது \"ஆனால்\" ஆகாது."
+        "explanation_ta": "が (ஆனால்) பின் 美味しい என்ற நல்ல கருத்து வருவதால், முன்னால் வருவது சாதாரணமான/எதிர்பாராத ஒன்று: 安い (மலிவு, ஆனாலும் சுவை). 高いですが、美味しい என்பதும் இலக்கணப்படி சரியாகத் தோன்றலாம்; ஆனால் விலை உயர்ந்த பொருள் சுவையாக இருப்பது \"ஆனால்\" ஆகாது.",
+        "explanation_en": "After が (ஆனால், but) comes the good point 美味しい, so what comes before must be something ordinary or unexpected: 安い (மலிவு, cheap: cheap, but still tasty). 高いですが、美味しい may look grammatically fine, but an expensive thing being tasty is not a \"but\"."
       },
       {
         "id": "L08-q09",
@@ -520,7 +557,8 @@
           "きれい"
         ],
         "answer": 1,
-        "explanation_ta": "が (ஆனால்) பின் 静か (அமைதி) வருவதால், முன்னால் அதற்கு எதிர்மாறான にぎやか (கலகலப்பு). 有名・便利・きれい 静か-உடன் முரண்படாதவை; \"ஆனால்\" பொருந்தாது."
+        "explanation_ta": "が (ஆனால்) பின் 静か (அமைதி) வருவதால், முன்னால் அதற்கு எதிர்மாறான にぎやか (கலகலப்பு). 有名・便利・きれい 静か-உடன் முரண்படாதவை; \"ஆனால்\" பொருந்தாது.",
+        "explanation_en": "After が (ஆனால், but) comes 静か (அமைதி, quiet), so before it you need the opposite, にぎやか (கலகலப்பு, lively). 有名, 便利 and きれい don't contrast with 静か, so \"but\" doesn't fit."
       },
       {
         "id": "L08-q10",
@@ -533,7 +571,8 @@
           "どこ"
         ],
         "answer": 2,
-        "explanation_ta": "\"எப்படி இருக்கிறது?\" = どうですか. どんな பெயர்ச்சொல்லுக்கு முன் மட்டும்; どれ (எது) பதிலுக்குப் பொருந்தாது."
+        "explanation_ta": "\"எப்படி இருக்கிறது?\" = どうですか. どんな பெயர்ச்சொல்லுக்கு முன் மட்டும்; どれ (எது) பதிலுக்குப் பொருந்தாது.",
+        "explanation_en": "\"How is it?\" = どうですか (எப்படி இருக்கிறது?). どんな is only used before a noun; どれ (which one) doesn't fit the answer."
       },
       {
         "id": "L08-q11",
@@ -546,7 +585,8 @@
           "まだ"
         ],
         "answer": 1,
-        "explanation_ta": "எதிர்மறை (面白くない) உடன் \"அவ்வளவாக\" = あまり. とても உடன்பாட்டுடன் மட்டும்."
+        "explanation_ta": "எதிர்மறை (面白くない) உடன் \"அவ்வளவாக\" = あまり. とても உடன்பாட்டுடன் மட்டும்.",
+        "explanation_en": "With a negative (面白くない), \"not very\" = あまり (அவ்வளவாக, not very). とても is used only with positives."
       },
       {
         "id": "L08-q12",
@@ -559,7 +599,8 @@
           "この 時計は 安いです。"
         ],
         "answer": 3,
-        "explanation_ta": "\"விலை அதிகம் இல்லை\" ≈ \"மலிவு\" (安い). 古い (பழைய) 新しい-இன் எதிர்ச்சொல்; 高い-இன் எதிர்ச்சொல் அல்ல."
+        "explanation_ta": "\"விலை அதிகம் இல்லை\" ≈ \"மலிவு\" (安い). 古い (பழைய) 新しい-இன் எதிர்ச்சொல்; 高い-இன் எதிர்ச்சொல் அல்ல.",
+        "explanation_en": "\"Not expensive\" ≈ \"cheap\" (安い, மலிவு). 古い (பழைய, old) is the opposite of 新しい, not of 高い."
       },
       {
         "id": "L08-q13",
@@ -572,7 +613,8 @@
           "この 町は きれいです。"
         ],
         "answer": 0,
-        "explanation_ta": "கலகலப்பு இல்லை = அமைதியானது (静か). 有名・便利・きれい வேறு பண்புகள்."
+        "explanation_ta": "கலகலப்பு இல்லை = அமைதியானது (静か). 有名・便利・きれい வேறு பண்புகள்.",
+        "explanation_en": "Not lively = quiet (静か, அமைதியானது). 有名, 便利 and きれい are different qualities."
       },
       {
         "id": "L08-q14",
@@ -585,7 +627,8 @@
           "あの 建物は 白いです。"
         ],
         "answer": 2,
-        "explanation_ta": "புதிதல்ல = பழையது (古い). 小さい (சிறிய) 大きい-இன் எதிர்ச்சொல்."
+        "explanation_ta": "புதிதல்ல = பழையது (古い). 小さい (சிறிய) 大きい-இன் எதிர்ச்சொல்.",
+        "explanation_en": "Not new = old (古い, பழையது). 小さい (சிறிய, small) is the opposite of 大きい."
       },
       {
         "id": "L08-q15",
@@ -598,7 +641,8 @@
           "静かの"
         ],
         "answer": 1,
-        "explanation_ta": "な-பெயரடை பெயர்ச்சொல்லுக்கு முன் → 静かな町 (\"அமைதியான ஊர்\"; தமிழ் \"-ஆன\" = な). の அல்லது な இல்லாமல் சொல்வது தவறு."
+        "explanation_ta": "な-பெயரடை பெயர்ச்சொல்லுக்கு முன் → 静かな町 (\"அமைதியான ஊர்\"; தமிழ் \"-ஆன\" = な). の அல்லது な இல்லாமல் சொல்வது தவறு.",
+        "explanation_en": "A な-adjective before a noun → 静かな町 (\"அமைதியான ஊர்\", a quiet town; the Tamil \"-ஆன\" = な). Using の, or leaving out な, is wrong."
       },
       {
         "id": "L08-q16",
@@ -611,7 +655,8 @@
           "よくない"
         ],
         "answer": 3,
-        "explanation_ta": "いい-இன் எதிர்மறை よくない (விதிவிலக்கு). いくない என்பது பொதுவான தவறு; いい い-பெயரடை என்பதால் じゃありません-உம் தவறு."
+        "explanation_ta": "いい-இன் எதிர்மறை よくない (விதிவிலக்கு). いくない என்பது பொதுவான தவறு; いい い-பெயரடை என்பதால் じゃありません-உம் தவறு.",
+        "explanation_en": "The negative of いい is よくない (நல்லதில்லை, not good), an exception. いくない is a common mistake; いい is an い-adjective, so じゃありません is also wrong."
       },
       {
         "id": "L08-q17",
@@ -624,7 +669,8 @@
           "きれいないです"
         ],
         "answer": 1,
-        "explanation_ta": "きれい な-பெயரடை (い-இல் முடிந்தாலும்) → எதிர்மறை きれいじゃありません. きれくない என்பது い-பெயரடை விதியைத் தவறாகப் பயன்படுத்துவது."
+        "explanation_ta": "きれい な-பெயரடை (い-இல் முடிந்தாலும்) → எதிர்மறை きれいじゃありません. きれくない என்பது い-பெயரடை விதியைத் தவறாகப் பயன்படுத்துவது.",
+        "explanation_en": "きれい is a な-adjective (even though it ends in い) → negative きれいじゃありません (அழகாக இல்லை, not pretty/clean). きれくない wrongly applies the い-adjective rule."
       },
       {
         "id": "L08-q18",
@@ -637,7 +683,8 @@
           "新しいの"
         ],
         "answer": 0,
-        "explanation_ta": "い-பெயரடை அப்படியே பெயர்ச்சொல்லுக்கு முன் → 新しいカメラ. な சேர்க்க வேண்டாம்; தமிழில் \"புதிய கேமரா\" போல நேரடியாக."
+        "explanation_ta": "い-பெயரடை அப்படியே பெயர்ச்சொல்லுக்கு முன் → 新しいカメラ. な சேர்க்க வேண்டாம்; தமிழில் \"புதிய கேமரா\" போல நேரடியாக.",
+        "explanation_en": "An い-adjective goes directly before the noun → 新しいカメラ (புதிய கேமரா, new camera). Don't add な; it goes straight in, like Tamil \"புதிய கேமரா\"."
       },
       {
         "id": "L08-q19",
@@ -650,7 +697,8 @@
           "も"
         ],
         "answer": 2,
-        "explanation_ta": "\"சுவையானது, ஆனால் விலை அதிகம்\" — எதிர்மாறான இணைப்பு が. と பெயர்ச்சொற்களை இணைக்க மட்டும்."
+        "explanation_ta": "\"சுவையானது, ஆனால் விலை அதிகம்\" — எதிர்மாறான இணைப்பு が. と பெயர்ச்சொற்களை இணைக்க மட்டும்.",
+        "explanation_en": "\"It's tasty, but expensive\" is a contrast, so use が (ஆனால், but). と is only for joining nouns."
       },
       {
         "id": "L08-q20",
@@ -663,7 +711,8 @@
           "だれ"
         ],
         "answer": 2,
-        "explanation_ta": "人 என்ற பெயர்ச்சொல்லுக்கு முன் \"எப்படிப்பட்ட\" = どんな. どう பெயர்ச்சொல்லுக்கு முன் வராது."
+        "explanation_ta": "人 என்ற பெயர்ச்சொல்லுக்கு முன் \"எப்படிப்பட்ட\" = どんな. どう பெயர்ச்சொல்லுக்கு முன் வராது.",
+        "explanation_en": "\"What kind of\" before the noun 人 = どんな (எப்படிப்பட்ட, what kind of). どう doesn't go before a noun."
       },
       {
         "id": "L08-q21",
@@ -676,7 +725,8 @@
           "どんな"
         ],
         "answer": 0,
-        "explanation_ta": "பல குடைகளில் \"எது?\" = どれ. どこ இடத்தைக் கேட்கும் (\"எங்கே?\"); பதில் \"அந்த நீலம்\" என்பதால் どれ."
+        "explanation_ta": "பல குடைகளில் \"எது?\" = どれ. どこ இடத்தைக் கேட்கும் (\"எங்கே?\"); பதில் \"அந்த நீலம்\" என்பதால் どれ.",
+        "explanation_en": "\"Which one?\" among several umbrellas = どれ (எது, which). どこ asks about a place (\"எங்கே?\", where?); the answer is \"that blue one\", so it is どれ."
       },
       {
         "id": "L08-q22",
@@ -690,7 +740,8 @@
         ],
         "star": 1,
         "after": "。",
-        "explanation_ta": "とても (மிகவும்) → 古い (பழைய) → 町 (நகரம்) → です. வினையடை பெயரடைக்கு முன், பெயரடை பெயர்ச்சொல்லுக்கு முன் — தமிழ் \"மிகவும் பழைய நகரம்\" போலவே. ★ 古い."
+        "explanation_ta": "とても (மிகவும்) → 古い (பழைய) → 町 (நகரம்) → です. வினையடை பெயரடைக்கு முன், பெயரடை பெயர்ச்சொல்லுக்கு முன் — தமிழ் \"மிகவும் பழைய நகரம்\" போலவே. ★ 古い.",
+        "explanation_en": "とても (மிகவும், very) → 古い (பழைய, old) → 町 (நகரம், town) → です. The adverb comes before the adjective and the adjective before the noun, just like Tamil \"மிகவும் பழைய நகரம்\" (a very old town). ★ = 古い."
       },
       {
         "id": "L08-q23",
@@ -704,7 +755,8 @@
         ],
         "star": 1,
         "after": "。",
-        "explanation_ta": "安いですが (மலிவு, ஆனால்) → あまり → 美味しくないです. あまり எதிர்மறைப் பெயரடைக்கு நேர் முன். ★ あまり."
+        "explanation_ta": "安いですが (மலிவு, ஆனால்) → あまり → 美味しくないです. あまり எதிர்மறைப் பெயரடைக்கு நேர் முன். ★ あまり.",
+        "explanation_en": "安いですが (மலிவு, ஆனால், it's cheap, but) → あまり → 美味しくないです. あまり comes right before the negative adjective. ★ = あまり."
       },
       {
         "id": "L08-q24",
@@ -718,7 +770,8 @@
         ],
         "star": 2,
         "after": "。",
-        "explanation_ta": "\"அமைதியான ஊரின் புகழ்பெற்ற கபே\": 静かな町の → 有名な喫茶店です. ★ 有名な. な-பெயரடைகள் இரண்டும் தங்கள் பெயர்ச்சொல்லுக்கு முன்."
+        "explanation_ta": "\"அமைதியான ஊரின் புகழ்பெற்ற கபே\": 静かな町の → 有名な喫茶店です. ★ 有名な. な-பெயரடைகள் இரண்டும் தங்கள் பெயர்ச்சொல்லுக்கு முன்.",
+        "explanation_en": "\"அமைதியான ஊரின் புகழ்பெற்ற கபே\" (a famous cafe in a quiet town): 静かな町の → 有名な喫茶店です. ★ = 有名な. Both な-adjectives come before their own nouns."
       },
       {
         "id": "L08-q25",
@@ -753,7 +806,8 @@
             "answer": 0
           }
         ],
-        "explanation_ta": "［1］வாக்கிய முடிவில் (です முன்) な-பெயரடை な இல்லாமல் → 静か. ［2］あまり எதிர்மறையுடன்; 便利 な-பெயரடை → じゃありません. ［3］とても உடன்பாட்டுடன் → 美味しいです; 美味しくない とても-உடன் பொருந்தாது."
+        "explanation_ta": "［1］வாக்கிய முடிவில் (です முன்) な-பெயரடை な இல்லாமல் → 静か. ［2］あまり எதிர்மறையுடன்; 便利 な-பெயரடை → じゃありません. ［3］とても உடன்பாட்டுடன் → 美味しいです; 美味しくない とても-உடன் பொருந்தாது.",
+        "explanation_en": "［1］At the end of a sentence (before です), a な-adjective has no な → 静か. ［2］あまり goes with a negative; 便利 is a な-adjective → じゃありません. ［3］とても goes with a positive → 美味しいです; 美味しくない doesn't fit with とても."
       }
     ]
   }

@@ -1,144 +1,785 @@
 {
   "lesson": 24,
-  "title": { "ja": "〜てくれます", "ta": "〜 செய்து கொடுப்பது", "en": "Doing favours" },
+  "title": {
+    "ja": "〜てくれます",
+    "ta": "〜 செய்து கொடுப்பது",
+    "en": "Doing favours"
+  },
   "intro_ta": "7-ஆம் பாடத்தில் あげます (கொடுக்கிறேன்), もらいます (பெறுகிறேன்) படித்தோம். இந்தப் பாடத்தில் 'எனக்குக் கொடுக்கிறார்' என்ற くれます-ஐயும், பொருளுக்குப் பதிலாக 'உதவியை' கொடுப்பது பெறுவதையும் (〜てあげます、〜てもらいます、〜てくれます) கற்பீர்கள். தமிழில் 'செய்து கொடுத்தார்', 'சொல்லிக் கொடுத்தார்' என்று 'கொடு' சேர்த்துச் சொல்வது போலவே ஜப்பானிய மொழியிலும் て-வடிவம் + கொடுக்கும் வினை சேர்கிறது. வீடு மாறுதல், சுத்தம் செய்தல், நன்றி சொல்வது ஆகியவற்றின் சொற்களும் வரும்.",
+  "intro_en": "In Lesson 7 you learned あげます (I give) and もらいます (I receive). In this lesson you will learn くれます, 'someone gives to me', and how to give and receive help instead of things (〜てあげます、〜てもらいます、〜てくれます). Just as Tamil adds 'கொடு' (give) in phrases like 'செய்து கொடுத்தார்' (did it for me) and 'சொல்லிக் கொடுத்தார்' (taught me), Japanese adds a giving verb to the て-form. You will also meet words for moving house, cleaning and saying thank you.",
   "grammar": [
     {
       "id": "g24-1",
       "pattern": "くれます",
-      "name": { "en": "Someone gives to me", "ta": "(ஒருவர்) எனக்குக் கொடுக்கிறார்" },
+      "name": {
+        "en": "Someone gives to me",
+        "ta": "(ஒருவர்) எனக்குக் கொடுக்கிறார்"
+      },
       "explanation_ta": "ஜப்பானிய மொழியில் 'கொடு' என்பதற்கு இரண்டு வினைச்சொற்கள் உண்டு. நான் (அல்லது ஒருவர்) மற்றவருக்குக் கொடுத்தால் あげます; மற்றவர் எனக்கு (அல்லது என் குடும்பத்தினருக்கு) கொடுத்தால் くれます. 田中さんは私に本をくれました (தனாகா எனக்குப் புத்தகம் கொடுத்தார்). இங்கே 私に பெரும்பாலும் விடப்படும், ஏனென்றால் くれます என்பதே 'எனக்கு' என்பதைக் காட்டுகிறது. தமிழில் 'கொடுத்தார்' ஒன்றே போதும், ஆனால் ஜப்பானிய மொழியில் பொருள் 'எந்தத் திசையில்' போகிறது என்பதைக் கவனிக்க வேண்டும்: என்னை நோக்கி வந்தால் くれる. ×田中さんは私に本をあげました என்று சொல்வது தவறு. சாதாரண வடிவம்: くれる、くれない、くれた.",
+      "explanation_en": "Japanese has two verbs for 'give'. If I (or someone) give to another person, it is あげます; if another person gives to me (or to my family), it is くれます. 田中さんは私に本をくれました (Tanaka gave me a book). Here 私に is usually left out, because くれます itself shows 'to me'. In Tamil 'கொடுத்தார்' (gave) is enough, but in Japanese you have to notice which direction the thing moves: if it comes toward me, use くれる. Saying ×田中さんは私に本をあげました is wrong. Plain forms: くれる、くれない、くれた.",
       "tamil_parallel": "தனாகா எனக்குப் புத்தகம் கொடுத்தார் = 田中さんは(私に)本をくれました (என்னை நோக்கி = くれる)",
+      "tamil_parallel_en": "தனாகா எனக்குப் புத்தகம் கொடுத்தார் (Tanaka gave me a book) = 田中さんは(私に)本をくれました. Tamil uses the same கொடு (give) in every direction; Japanese uses くれる when it comes toward me.",
       "formation": "N(கொடுப்பவர்) は / が + (私に) + N(பொருள்) を くれます",
+      "formation_en": "N(giver) は / が + (私に) + N(thing) を くれます",
       "examples": [
-        { "ja": "田中さんは 私に 本を くれました。", "reading": "たなかさんは わたしに ほんを くれました。", "romaji": "tanaka san wa watashi ni hon o kuremashita.", "ta": "தனாகா எனக்குப் புத்தகம் கொடுத்தார்.", "en": "Mr. Tanaka gave me a book." },
-        { "ja": "おばあさんが お菓子を くれました。", "reading": "おばあさんが おかしを くれました。", "romaji": "obaasan ga okashi o kuremashita.", "ta": "பாட்டி எனக்கு இனிப்பு கொடுத்தார்.", "en": "Grandmother gave me sweets." },
-        { "ja": "誕生日に 友達が 赤い 帽子を くれました。", "reading": "たんじょうびに ともだちが あかい ぼうしを くれました。", "romaji": "tanjoubi ni tomodachi ga akai boushi o kuremashita.", "ta": "பிறந்தநாளுக்கு நண்பன் எனக்குச் சிவப்புத் தொப்பி கொடுத்தான்.", "en": "My friend gave me a red hat for my birthday." },
-        { "ja": "おじさんは 妹に 時計を くれました。", "reading": "おじさんは いもうとに とけいを くれました。", "romaji": "ojisan wa imouto ni tokei o kuremashita.", "ta": "மாமா என் தங்கைக்குக் கடிகாரம் கொடுத்தார்.", "en": "My uncle gave my younger sister a watch." },
-        { "ja": "この ハンカチは 誰が くれましたか。", "reading": "この ハンカチは だれが くれましたか。", "romaji": "kono hankachi wa dare ga kuremashita ka.", "ta": "இந்தக் கைக்குட்டையை யார் உனக்குக் கொடுத்தார்?", "en": "Who gave you this handkerchief?" },
-        { "ja": "先生は 何も くれませんでした。", "reading": "せんせいは なにも くれませんでした。", "romaji": "sensei wa nani mo kuremasen deshita.", "ta": "ஆசிரியர் எனக்கு எதுவும் கொடுக்கவில்லை.", "en": "The teacher didn't give me anything." }
+        {
+          "ja": "田中さんは 私に 本を くれました。",
+          "reading": "たなかさんは わたしに ほんを くれました。",
+          "romaji": "tanaka san wa watashi ni hon o kuremashita.",
+          "ta": "தனாகா எனக்குப் புத்தகம் கொடுத்தார்.",
+          "en": "Mr. Tanaka gave me a book."
+        },
+        {
+          "ja": "おばあさんが お菓子を くれました。",
+          "reading": "おばあさんが おかしを くれました。",
+          "romaji": "obaasan ga okashi o kuremashita.",
+          "ta": "பாட்டி எனக்கு இனிப்பு கொடுத்தார்.",
+          "en": "Grandmother gave me sweets."
+        },
+        {
+          "ja": "誕生日に 友達が 赤い 帽子を くれました。",
+          "reading": "たんじょうびに ともだちが あかい ぼうしを くれました。",
+          "romaji": "tanjoubi ni tomodachi ga akai boushi o kuremashita.",
+          "ta": "பிறந்தநாளுக்கு நண்பன் எனக்குச் சிவப்புத் தொப்பி கொடுத்தான்.",
+          "en": "My friend gave me a red hat for my birthday."
+        },
+        {
+          "ja": "おじさんは 妹に 時計を くれました。",
+          "reading": "おじさんは いもうとに とけいを くれました。",
+          "romaji": "ojisan wa imouto ni tokei o kuremashita.",
+          "ta": "மாமா என் தங்கைக்குக் கடிகாரம் கொடுத்தார்.",
+          "en": "My uncle gave my younger sister a watch."
+        },
+        {
+          "ja": "この ハンカチは 誰が くれましたか。",
+          "reading": "この ハンカチは だれが くれましたか。",
+          "romaji": "kono hankachi wa dare ga kuremashita ka.",
+          "ta": "இந்தக் கைக்குட்டையை யார் உனக்குக் கொடுத்தார்?",
+          "en": "Who gave you this handkerchief?"
+        },
+        {
+          "ja": "先生は 何も くれませんでした。",
+          "reading": "せんせいは なにも くれませんでした。",
+          "romaji": "sensei wa nani mo kuremasen deshita.",
+          "ta": "ஆசிரியர் எனக்கு எதுவும் கொடுக்கவில்லை.",
+          "en": "The teacher didn't give me anything."
+        }
       ],
-      "pitfalls_ta": "நான் கொடுக்கும்போது くれます போடாதீர்கள்: ×私は友達に本をくれました → ○あげました. என் தங்கை, அம்மா போன்ற 'என் குழு'வுக்கு மற்றவர் கொடுத்தாலும் くれます."
+      "pitfalls_ta": "நான் கொடுக்கும்போது くれます போடாதீர்கள்: ×私は友達に本をくれました → ○あげました. என் தங்கை, அம்மா போன்ற 'என் குழு'வுக்கு மற்றவர் கொடுத்தாலும் くれます.",
+      "pitfalls_en": "Don’t use くれます when you are the giver: ×私は友達に本をくれました → ○あげました. Even when someone gives to 'my group', such as my younger sister or my mother, it is くれます."
     },
     {
       "id": "g24-2",
       "pattern": "V てあげます",
-      "name": { "en": "Do something for someone", "ta": "(நான்) 〜 செய்து கொடுக்கிறேன்" },
+      "name": {
+        "en": "Do something for someone",
+        "ta": "(நான்) 〜 செய்து கொடுக்கிறேன்"
+      },
       "explanation_ta": "பொருளைக் கொடுப்பது あげます; ஒரு செயலை (உதவியை) மற்றவருக்காகச் செய்வது て-வடிவம் + あげます. 妹に本を読んであげました (தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன்). தமிழில் 'படித்துக் காட்டினேன்', 'செய்து கொடுத்தேன்' என்பதற்கு நேரடி இணை. உதவி பெறுபவர் に-வால் குறிக்கப்படுவார்; ஆனால் 洗う、掃除する போன்ற செயல்களில் பொருள் 'அவருடையது' என்றால் の: 弟の自転車を洗ってあげました. கவனம்: மேலதிகாரி, ஆசிரியர், வயதானவரிடம் நேரடியாக 〜てあげましょうか என்று சொன்னால் 'நான் உனக்கு உதவி செய்கிறேன்' என்று பெருமையாக ஒலிக்கும்; அப்போது 22-ஆம் பாடத்தின் 〜ましょうか (持ちましょうか) மட்டும் போதும். நண்பர்கள், இளையவர்கள், குடும்பத்தினரிடம் 〜てあげます இயல்பானது.",
+      "explanation_en": "Giving a thing is あげます; doing an action (a favour) for someone else is て-form + あげます. 妹に本を読んであげました (I read a book to my younger sister). It is a direct match for Tamil 'படித்துக் காட்டினேன்' (read it out for her) and 'செய்து கொடுத்தேன்' (did it for them). The person who receives the help is marked with に; but with actions like 洗う and 掃除する, when the object belongs to that person, use の: 弟の自転車を洗ってあげました. Careful: if you say 〜てあげましょうか directly to a boss, teacher or older person, it sounds proud, like 'I will do you a favour'; in that case 〜ましょうか from Lesson 22 (持ちましょうか) is enough. With friends, younger people and family, 〜てあげます is natural.",
       "tamil_parallel": "தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன் = 妹に本を読んであげました (て-வடிவம் + あげる = செய்து கொடு)",
+      "tamil_parallel_en": "தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன் (I read a book to my younger sister) = 妹に本を読んであげました. て-form + あげる works like Tamil verb + கொடு (செய்து கொடு, 'do for someone').",
       "formation": "N(பெறுபவர்) に + V て-form + あげます ； N(பெறுபவர்) の + N を + V て + あげます",
+      "formation_en": "N(receiver) に + V て-form + あげます ； N(receiver) の + N を + V て + あげます",
       "examples": [
-        { "ja": "妹に 本を 読んで あげました。", "reading": "いもうとに ほんを よんで あげました。", "romaji": "imouto ni hon o yonde agemashita.", "ta": "தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன்.", "en": "I read a book to my younger sister." },
-        { "ja": "友達に 駅までの 地図を 書いて あげました。", "reading": "ともだちに えきまでの ちずを かいて あげました。", "romaji": "tomodachi ni eki made no chizu o kaite agemashita.", "ta": "நண்பனுக்கு ஸ்டேஷன் வரையிலான வரைபடம் வரைந்து கொடுத்தேன்.", "en": "I drew a map to the station for my friend." },
-        { "ja": "弟の 自転車を 洗って あげました。", "reading": "おとうとの じてんしゃを あらって あげました。", "romaji": "otouto no jitensha o aratte agemashita.", "ta": "தம்பியின் சைக்கிளைக் கழுவிக் கொடுத்தேன்.", "en": "I washed my younger brother's bicycle for him." },
-        { "ja": "おじいさんの 荷物を 持って あげました。", "reading": "おじいさんの にもつを もって あげました。", "romaji": "ojiisan no nimotsu o motte agemashita.", "ta": "ஒரு பெரியவரின் சாமானைத் தூக்கிக் கொடுத்தேன்.", "en": "I carried an old man's luggage for him." },
-        { "ja": "留学生に 日本語を 教えて あげています。", "reading": "りゅうがくせいに にほんごを おしえて あげています。", "romaji": "ryuugakusei ni nihongo o oshiete agete imasu.", "ta": "வெளிநாட்டு மாணவருக்கு ஜப்பானிய மொழி சொல்லிக் கொடுக்கிறேன்.", "en": "I teach Japanese to an international student." },
-        { "ja": "子供に 写真を 見せて あげませんか。", "reading": "こどもに しゃしんを みせて あげませんか。", "romaji": "kodomo ni shashin o misete agemasen ka.", "ta": "குழந்தைக்குப் போட்டோவைக் காட்டலாமா?", "en": "Why don't you show the photo to the child?" }
+        {
+          "ja": "妹に 本を 読んで あげました。",
+          "reading": "いもうとに ほんを よんで あげました。",
+          "romaji": "imouto ni hon o yonde agemashita.",
+          "ta": "தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன்.",
+          "en": "I read a book to my younger sister."
+        },
+        {
+          "ja": "友達に 駅までの 地図を 書いて あげました。",
+          "reading": "ともだちに えきまでの ちずを かいて あげました。",
+          "romaji": "tomodachi ni eki made no chizu o kaite agemashita.",
+          "ta": "நண்பனுக்கு ஸ்டேஷன் வரையிலான வரைபடம் வரைந்து கொடுத்தேன்.",
+          "en": "I drew a map to the station for my friend."
+        },
+        {
+          "ja": "弟の 自転車を 洗って あげました。",
+          "reading": "おとうとの じてんしゃを あらって あげました。",
+          "romaji": "otouto no jitensha o aratte agemashita.",
+          "ta": "தம்பியின் சைக்கிளைக் கழுவிக் கொடுத்தேன்.",
+          "en": "I washed my younger brother's bicycle for him."
+        },
+        {
+          "ja": "おじいさんの 荷物を 持って あげました。",
+          "reading": "おじいさんの にもつを もって あげました。",
+          "romaji": "ojiisan no nimotsu o motte agemashita.",
+          "ta": "ஒரு பெரியவரின் சாமானைத் தூக்கிக் கொடுத்தேன்.",
+          "en": "I carried an old man's luggage for him."
+        },
+        {
+          "ja": "留学生に 日本語を 教えて あげています。",
+          "reading": "りゅうがくせいに にほんごを おしえて あげています。",
+          "romaji": "ryuugakusei ni nihongo o oshiete agete imasu.",
+          "ta": "வெளிநாட்டு மாணவருக்கு ஜப்பானிய மொழி சொல்லிக் கொடுக்கிறேன்.",
+          "en": "I teach Japanese to an international student."
+        },
+        {
+          "ja": "子供に 写真を 見せて あげませんか。",
+          "reading": "こどもに しゃしんを みせて あげませんか。",
+          "romaji": "kodomo ni shashin o misete agemasen ka.",
+          "ta": "குழந்தைக்குப் போட்டோவைக் காட்டலாமா?",
+          "en": "Why don't you show the photo to the child?"
+        }
       ],
-      "pitfalls_ta": "ஆசிரியரிடம் ×先生、持ってあげましょうか என்று சொல்லாதீர்கள்; ○持ちましょうか. 〜てあげます-க்கு 'பெறுபவர் நான்' ஆக முடியாது."
+      "pitfalls_ta": "ஆசிரியரிடம் ×先生、持ってあげましょうか என்று சொல்லாதீர்கள்; ○持ちましょうか. 〜てあげます-க்கு 'பெறுபவர் நான்' ஆக முடியாது.",
+      "pitfalls_en": "Don’t say ×先生、持ってあげましょうか to a teacher; say ○持ちましょうか. With 〜てあげます, the receiver cannot be 'me'."
     },
     {
       "id": "g24-3",
       "pattern": "V てもらいます",
-      "name": { "en": "Have someone do (as a favour)", "ta": "(ஒருவரிடம்) 〜 செய்து பெறுகிறேன்" },
+      "name": {
+        "en": "Have someone do (as a favour)",
+        "ta": "(ஒருவரிடம்) 〜 செய்து பெறுகிறேன்"
+      },
       "explanation_ta": "7-ஆம் பாடத்தில் 友達に本をもらいました (நண்பனிடமிருந்து புத்தகம் பெற்றேன்) படித்தோம். செயலைப் பெறும்போது て-வடிவம் + もらいます: 友達に写真を撮ってもらいました — நேரடிப் பொருள் 'நண்பனிடமிருந்து போட்டோ எடுத்துக்கொடுக்கும் உதவியைப் பெற்றேன்', அதாவது 'நண்பனைக் கொண்டு போட்டோ எடுக்க வைத்தேன் / நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்'. இங்கே எழுவாய் (は) உதவி பெறுபவர் (நான்), உதவி செய்பவர் に-வால் குறிக்கப்படுவார். தமிழில் இதற்கு நேர் வடிவம் இல்லை; 'X-இடம் 〜 செய்யச் சொல்லிப் பெற்றேன்' அல்லது 'X எனக்கு 〜 செய்து கொடுத்தார்' என்று மொழிபெயர்க்கலாம். நான் கேட்டுக்கொண்டு, அதனால் நன்றியுணர்வுடன் பெற்ற உதவி என்ற தொனி உண்டு.",
+      "explanation_en": "In Lesson 7 you learned 友達に本をもらいました (I received a book from my friend). When you receive an action, use て-form + もらいます: 友達に写真を撮ってもらいました — literally 'I received from my friend the favour of taking a photo', meaning 'I had my friend take a photo / my friend took a photo for me'. Here the subject (は) is the person who receives the help (me), and the person who does the favour is marked with に. Tamil has no exact equivalent for this; you can translate it as 'I asked X to do it and got it done' or 'X did it for me'. It carries the feeling that I asked for the help and am grateful for it.",
       "tamil_parallel": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் (நான் அந்த உதவியைப் பெற்றேன்) = 私は友達に写真を撮ってもらいました",
+      "tamil_parallel_en": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் (my friend took a photo for me; I received that favour) = 私は友達に写真を撮ってもらいました. Tamil has no direct form for this; the closest is X + செய்து கொடுத்தான் (did it for me), but Japanese makes the receiver the subject.",
       "formation": "N(பெறுபவர்) は + N(செய்பவர்) に + V て-form + もらいます",
+      "formation_en": "N(receiver) は + N(doer) に + V て-form + もらいます",
       "examples": [
-        { "ja": "私は 友達に 写真を 撮って もらいました。", "reading": "わたしは ともだちに しゃしんを とって もらいました。", "romaji": "watashi wa tomodachi ni shashin o totte moraimashita.", "ta": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்.", "en": "I had my friend take a photo for me." },
-        { "ja": "先生に 作文を 見て もらいました。", "reading": "せんせいに さくぶんを みて もらいました。", "romaji": "sensei ni sakubun o mite moraimashita.", "ta": "ஆசிரியரிடம் என் கட்டுரையைப் பார்த்துத் திருத்திப் பெற்றேன்.", "en": "I had the teacher look over my essay." },
-        { "ja": "おじさんに 自動車を 貸して もらいました。", "reading": "おじさんに じどうしゃを かして もらいました。", "romaji": "ojisan ni jidousha o kashite moraimashita.", "ta": "மாமாவிடம் கார் இரவல் பெற்றேன்.", "en": "I had my uncle lend me his car." },
-        { "ja": "田中さんに 漢字の 意味を 教えて もらいました。", "reading": "たなかさんに かんじの いみを おしえて もらいました。", "romaji": "tanaka san ni kanji no imi o oshiete moraimashita.", "ta": "தனாகாவிடம் காஞ்சியின் பொருளைக் கற்றுக்கொண்டேன்.", "en": "Mr. Tanaka taught me the meaning of the kanji." },
-        { "ja": "誰に 荷物を 持って もらいましたか。", "reading": "だれに にもつを もって もらいましたか。", "romaji": "dare ni nimotsu o motte moraimashita ka.", "ta": "யார் உங்கள் சாமானைத் தூக்கிக் கொடுத்தார்?", "en": "Who carried your luggage for you?" },
-        { "ja": "母に セーターを 洗って もらいました。", "reading": "ははに セーターを あらって もらいました。", "romaji": "haha ni seetaa o aratte moraimashita.", "ta": "அம்மா என் ஸ்வெட்டரைத் துவைத்துக் கொடுத்தார்.", "en": "My mother washed my sweater for me." }
+        {
+          "ja": "私は 友達に 写真を 撮って もらいました。",
+          "reading": "わたしは ともだちに しゃしんを とって もらいました。",
+          "romaji": "watashi wa tomodachi ni shashin o totte moraimashita.",
+          "ta": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்.",
+          "en": "I had my friend take a photo for me."
+        },
+        {
+          "ja": "先生に 作文を 見て もらいました。",
+          "reading": "せんせいに さくぶんを みて もらいました。",
+          "romaji": "sensei ni sakubun o mite moraimashita.",
+          "ta": "ஆசிரியரிடம் என் கட்டுரையைப் பார்த்துத் திருத்திப் பெற்றேன்.",
+          "en": "I had the teacher look over my essay."
+        },
+        {
+          "ja": "おじさんに 自動車を 貸して もらいました。",
+          "reading": "おじさんに じどうしゃを かして もらいました。",
+          "romaji": "ojisan ni jidousha o kashite moraimashita.",
+          "ta": "மாமாவிடம் கார் இரவல் பெற்றேன்.",
+          "en": "I had my uncle lend me his car."
+        },
+        {
+          "ja": "田中さんに 漢字の 意味を 教えて もらいました。",
+          "reading": "たなかさんに かんじの いみを おしえて もらいました。",
+          "romaji": "tanaka san ni kanji no imi o oshiete moraimashita.",
+          "ta": "தனாகாவிடம் காஞ்சியின் பொருளைக் கற்றுக்கொண்டேன்.",
+          "en": "Mr. Tanaka taught me the meaning of the kanji."
+        },
+        {
+          "ja": "誰に 荷物を 持って もらいましたか。",
+          "reading": "だれに にもつを もって もらいましたか。",
+          "romaji": "dare ni nimotsu o motte moraimashita ka.",
+          "ta": "யார் உங்கள் சாமானைத் தூக்கிக் கொடுத்தார்?",
+          "en": "Who carried your luggage for you?"
+        },
+        {
+          "ja": "母に セーターを 洗って もらいました。",
+          "reading": "ははに セーターを あらって もらいました。",
+          "romaji": "haha ni seetaa o aratte moraimashita.",
+          "ta": "அம்மா என் ஸ்வெட்டரைத் துவைத்துக் கொடுத்தார்.",
+          "en": "My mother washed my sweater for me."
+        }
       ],
-      "pitfalls_ta": "செய்பவருக்கு が அல்லது は போடாதீர்கள்: ×友達が写真を撮ってもらいました → ○(私は)友達に写真を撮ってもらいました. てもらう வாக்கியத்தின் எழுவாய் எப்போதும் 'பெறுபவர்'."
+      "pitfalls_ta": "செய்பவருக்கு が அல்லது は போடாதீர்கள்: ×友達が写真を撮ってもらいました → ○(私は)友達に写真を撮ってもらいました. てもらう வாக்கியத்தின் எழுவாய் எப்போதும் 'பெறுபவர்'.",
+      "pitfalls_en": "Don’t mark the doer with が or は: ×友達が写真を撮ってもらいました → ○(私は)友達に写真を撮ってもらいました. The subject of a てもらう sentence is always the receiver."
     },
     {
       "id": "g24-4",
       "pattern": "V てくれます",
-      "name": { "en": "Someone kindly does for me", "ta": "(ஒருவர்) எனக்கு 〜 செய்து கொடுக்கிறார்" },
+      "name": {
+        "en": "Someone kindly does for me",
+        "ta": "(ஒருவர்) எனக்கு 〜 செய்து கொடுக்கிறார்"
+      },
       "explanation_ta": "てもらいます-ஐ 'பெறுபவர்' பார்வையில் சொன்னோம்; அதே நிகழ்வை 'செய்பவர்' எழுவாயாக வைத்துச் சொல்ல て-வடிவம் + くれます: 友達が写真を撮ってくれました (நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்). தமிழ் 'செய்து கொடுத்தார்' என்பதற்கு மிக நெருக்கமான வடிவம் இதுவே. செய்பவர் は/が, பெறுபவர் நான் (சொல்லப்படாது). அவர் தாமாக முன்வந்து, அன்புடன் செய்தார் என்ற நன்றியுணர்வு இதில் உண்டு. நன்றி சொல்ல 〜てくれて、ありがとう என்று て-வடிவத்தில் சொல்லலாம். 'நான் கேட்கவில்லை, அவரே செய்தார்' என்றால் てくれました பொருத்தம்; 'நான் கேட்டுப் பெற்றேன்' என்றால் てもらいました.",
+      "explanation_en": "We described てもらいます from the receiver’s point of view; to describe the same event with the doer as the subject, use て-form + くれます: 友達が写真を撮ってくれました (my friend took a photo for me). This is the form closest to Tamil 'செய்து கொடுத்தார்' (did it for me). The doer takes は/が, and the receiver is me (not mentioned). It carries a feeling of gratitude that the person did it kindly, on their own initiative. To say thank you, use the て-form: 〜てくれて、ありがとう. If 'I didn’t ask, they did it themselves', てくれました fits; if 'I asked and received it', use てもらいました.",
       "tamil_parallel": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் = 友達が(私に)写真を撮ってくれました",
+      "tamil_parallel_en": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் (my friend took a photo for me) = 友達が(私に)写真を撮ってくれました. Tamil verb + கொடுத்தான் with the doer as subject matches て-form + くれました.",
       "formation": "N(செய்பவர்) は / が + V て-form + くれます",
+      "formation_en": "N(doer) は / が + V て-form + くれます",
       "examples": [
-        { "ja": "友達が 写真を 撮って くれました。", "reading": "ともだちが しゃしんを とって くれました。", "romaji": "tomodachi ga shashin o totte kuremashita.", "ta": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்.", "en": "My friend took a photo for me." },
-        { "ja": "おばさんが 部屋を 掃除して くれました。", "reading": "おばさんが へやを そうじして くれました。", "romaji": "obasan ga heya o souji shite kuremashita.", "ta": "அத்தை என் அறையைச் சுத்தம் செய்து கொடுத்தார்.", "en": "My aunt cleaned my room for me." },
-        { "ja": "隣の 人が エレベーターの 戸を 開けて くれました。", "reading": "となりの ひとが エレベーターの とを あけて くれました。", "romaji": "tonari no hito ga erebeetaa no to o akete kuremashita.", "ta": "பக்கத்து வீட்டுக்காரர் எனக்காக லிஃப்ட் கதவைத் திறந்து வைத்தார்.", "en": "My neighbour held the elevator door open for me." },
-        { "ja": "母は 毎朝 お弁当を 作って くれます。", "reading": "ははは まいあさ おべんとうを つくって くれます。", "romaji": "haha wa maiasa obentou o tsukutte kuremasu.", "ta": "அம்மா தினமும் காலையில் எனக்கு மதிய உணவு கட்டிக் கொடுக்கிறார்.", "en": "My mother makes me a packed lunch every morning." },
-        { "ja": "荷物を 持って くれて、どうも ありがとう。", "reading": "にもつを もって くれて、どうも ありがとう。", "romaji": "nimotsu o motte kurete, doumo arigatou.", "ta": "சாமானைத் தூக்கிக் கொடுத்ததற்கு மிக்க நன்றி.", "en": "Thank you very much for carrying my luggage." },
-        { "ja": "誰も 教えて くれませんでした。", "reading": "だれも おしえて くれませんでした。", "romaji": "dare mo oshiete kuremasen deshita.", "ta": "யாரும் எனக்குச் சொல்லித் தரவில்லை.", "en": "Nobody told me." }
+        {
+          "ja": "友達が 写真を 撮って くれました。",
+          "reading": "ともだちが しゃしんを とって くれました。",
+          "romaji": "tomodachi ga shashin o totte kuremashita.",
+          "ta": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்.",
+          "en": "My friend took a photo for me."
+        },
+        {
+          "ja": "おばさんが 部屋を 掃除して くれました。",
+          "reading": "おばさんが へやを そうじして くれました。",
+          "romaji": "obasan ga heya o souji shite kuremashita.",
+          "ta": "அத்தை என் அறையைச் சுத்தம் செய்து கொடுத்தார்.",
+          "en": "My aunt cleaned my room for me."
+        },
+        {
+          "ja": "隣の 人が エレベーターの 戸を 開けて くれました。",
+          "reading": "となりの ひとが エレベーターの とを あけて くれました。",
+          "romaji": "tonari no hito ga erebeetaa no to o akete kuremashita.",
+          "ta": "பக்கத்து வீட்டுக்காரர் எனக்காக லிஃப்ட் கதவைத் திறந்து வைத்தார்.",
+          "en": "My neighbour held the elevator door open for me."
+        },
+        {
+          "ja": "母は 毎朝 お弁当を 作って くれます。",
+          "reading": "ははは まいあさ おべんとうを つくって くれます。",
+          "romaji": "haha wa maiasa obentou o tsukutte kuremasu.",
+          "ta": "அம்மா தினமும் காலையில் எனக்கு மதிய உணவு கட்டிக் கொடுக்கிறார்.",
+          "en": "My mother makes me a packed lunch every morning."
+        },
+        {
+          "ja": "荷物を 持って くれて、どうも ありがとう。",
+          "reading": "にもつを もって くれて、どうも ありがとう。",
+          "romaji": "nimotsu o motte kurete, doumo arigatou.",
+          "ta": "சாமானைத் தூக்கிக் கொடுத்ததற்கு மிக்க நன்றி.",
+          "en": "Thank you very much for carrying my luggage."
+        },
+        {
+          "ja": "誰も 教えて くれませんでした。",
+          "reading": "だれも おしえて くれませんでした。",
+          "romaji": "dare mo oshiete kuremasen deshita.",
+          "ta": "யாரும் எனக்குச் சொல்லித் தரவில்லை.",
+          "en": "Nobody told me."
+        }
       ],
-      "pitfalls_ta": "நான் மற்றவருக்குச் செய்யும்போது てくれます போடாதீர்கள்: ×私は友達に写真を撮ってくれました → ○撮ってあげました. てくれます-இல் செய்பவர் に அல்ல, は/が."
+      "pitfalls_ta": "நான் மற்றவருக்குச் செய்யும்போது てくれます போடாதீர்கள்: ×私は友達に写真を撮ってくれました → ○撮ってあげました. てくれます-இல் செய்பவர் に அல்ல, は/が.",
+      "pitfalls_en": "Don’t use てくれます when you do something for someone else: ×私は友達に写真を撮ってくれました → ○撮ってあげました. In てくれます, the doer takes は/が, not に."
     },
     {
       "id": "g24-5",
       "pattern": "N(person) が (identifying who)",
-      "name": { "en": "が to identify who did it", "ta": "'யார் செய்தார்' என்று அடையாளம் காட்டும் が" },
+      "name": {
+        "en": "が to identify who did it",
+        "ta": "'யார் செய்தார்' என்று அடையாளம் காட்டும் が"
+      },
       "explanation_ta": "'யார்?' என்று கேட்கும்போதும், அதற்குப் பதில் சொல்லும்போதும் அந்த ஆள் が-வால் குறிக்கப்படுவார், は-வால் அல்ல. 誰が教えてくれましたか (யார் சொல்லிக் கொடுத்தார்?) — 田中さんが教えてくれました (தனாகாதான் சொல்லிக் கொடுத்தார்). 誰, 何, どこ போன்ற கேள்விச் சொற்கள் எழுவாயாக வந்தால் எப்போதும் が; は வராது (×誰は). பதிலிலும் 'புதிய தகவல்' என்பதால் が. தமிழில் 'தனாகாதான்' என்று -தான் சேர்த்து வலியுறுத்துவதற்கு இது ஒத்தது. ஏற்கனவே தெரிந்த ஆளைப் பற்றி மேலும் சொல்லும்போது மட்டும் は: 田中さんは親切です.",
+      "explanation_en": "When you ask 'who?' and when you answer it, the person is marked with が, not は. 誰が教えてくれましたか (who taught you?) — 田中さんが教えてくれました (it was Tanaka who taught me). When question words like 誰, 何 or どこ are the subject, they always take が; は is never used (×誰は). The answer also uses が, because it is 'new information'. It is like emphasising with '-தான்' in Tamil, as in 'தனாகாதான்' (it was Tanaka). Use は only when you say more about a person who is already known: 田中さんは親切です.",
       "tamil_parallel": "யார் சொல்லிக் கொடுத்தார்? — தனாகாதான் சொல்லிக் கொடுத்தார் = 誰が教えてくれましたか。— 田中さんが教えてくれました。",
+      "tamil_parallel_en": "யார் சொல்லிக் கொடுத்தார்? — தனாகாதான் சொல்லிக் கொடுத்தார் (Who taught you? — It was Tanaka who taught me.) = 誰が教えてくれましたか。— 田中さんが教えてくれました。 The emphasis of Tamil -தான் matches が here.",
       "formation": "誰 + が + V てくれましたか ； N(person) + が + V てくれました",
+      "formation_en": "誰 + が + V てくれましたか ； N(person) + が + V てくれました",
       "examples": [
-        { "ja": "誰が この 料理を 作って くれましたか。", "reading": "だれが この りょうりを つくって くれましたか。", "romaji": "dare ga kono ryouri o tsukutte kuremashita ka.", "ta": "இந்த உணவை யார் செய்து கொடுத்தார்?", "en": "Who made this food for us?" },
-        { "ja": "おばあさんが 作って くれました。", "reading": "おばあさんが つくって くれました。", "romaji": "obaasan ga tsukutte kuremashita.", "ta": "பாட்டிதான் செய்து கொடுத்தார்.", "en": "Grandmother made it for us." },
-        { "ja": "誰が 荷物を 箱に 入れて くれましたか。", "reading": "だれが にもつを はこに いれて くれましたか。", "romaji": "dare ga nimotsu o hako ni irete kuremashita ka.", "ta": "சாமான்களைப் பெட்டியில் யார் அடுக்கிக் கொடுத்தார்?", "en": "Who put the things in the boxes for me?" },
-        { "ja": "隣の 人が 入れて くれました。", "reading": "となりの ひとが いれて くれました。", "romaji": "tonari no hito ga irete kuremashita.", "ta": "பக்கத்து வீட்டுக்காரர்தான் அடுக்கிக் கொடுத்தார்.", "en": "My neighbour did it for me." },
-        { "ja": "誰が 窓を 閉めましたか。", "reading": "だれが まどを しめましたか。", "romaji": "dare ga mado o shimemashita ka.", "ta": "ஜன்னலை யார் மூடினார்?", "en": "Who closed the window?" },
-        { "ja": "この 切手は 誰が 貼りましたか。", "reading": "この きっては だれが はりましたか。", "romaji": "kono kitte wa dare ga harimashita ka.", "ta": "இந்தத் தபால் தலையை யார் ஒட்டினார்?", "en": "Who stuck on this stamp?" }
+        {
+          "ja": "誰が この 料理を 作って くれましたか。",
+          "reading": "だれが この りょうりを つくって くれましたか。",
+          "romaji": "dare ga kono ryouri o tsukutte kuremashita ka.",
+          "ta": "இந்த உணவை யார் செய்து கொடுத்தார்?",
+          "en": "Who made this food for us?"
+        },
+        {
+          "ja": "おばあさんが 作って くれました。",
+          "reading": "おばあさんが つくって くれました。",
+          "romaji": "obaasan ga tsukutte kuremashita.",
+          "ta": "பாட்டிதான் செய்து கொடுத்தார்.",
+          "en": "Grandmother made it for us."
+        },
+        {
+          "ja": "誰が 荷物を 箱に 入れて くれましたか。",
+          "reading": "だれが にもつを はこに いれて くれましたか。",
+          "romaji": "dare ga nimotsu o hako ni irete kuremashita ka.",
+          "ta": "சாமான்களைப் பெட்டியில் யார் அடுக்கிக் கொடுத்தார்?",
+          "en": "Who put the things in the boxes for me?"
+        },
+        {
+          "ja": "隣の 人が 入れて くれました。",
+          "reading": "となりの ひとが いれて くれました。",
+          "romaji": "tonari no hito ga irete kuremashita.",
+          "ta": "பக்கத்து வீட்டுக்காரர்தான் அடுக்கிக் கொடுத்தார்.",
+          "en": "My neighbour did it for me."
+        },
+        {
+          "ja": "誰が 窓を 閉めましたか。",
+          "reading": "だれが まどを しめましたか。",
+          "romaji": "dare ga mado o shimemashita ka.",
+          "ta": "ஜன்னலை யார் மூடினார்?",
+          "en": "Who closed the window?"
+        },
+        {
+          "ja": "この 切手は 誰が 貼りましたか。",
+          "reading": "この きっては だれが はりましたか。",
+          "romaji": "kono kitte wa dare ga harimashita ka.",
+          "ta": "இந்தத் தபால் தலையை யார் ஒட்டினார்?",
+          "en": "Who stuck on this stamp?"
+        }
       ],
-      "pitfalls_ta": "×誰は来ましたか என்பது தவறு; கேள்விச் சொல் எழுவாயானால் ○誰が来ましたか. பதிலிலும் ×田中さんは来ました அல்ல, ○田中さんが来ました."
+      "pitfalls_ta": "×誰は来ましたか என்பது தவறு; கேள்விச் சொல் எழுவாயானால் ○誰が来ましたか. பதிலிலும் ×田中さんは来ました அல்ல, ○田中さんが来ました.",
+      "pitfalls_en": "×誰は来ましたか is wrong; when the question word is the subject, use ○誰が来ましたか. In the answer too, not ×田中さんは来ました but ○田中さんが来ました."
     },
     {
       "id": "g24-6",
       "pattern": "あげる / もらう / くれる overview",
-      "name": { "en": "Giving and receiving: viewpoint rules", "ta": "கொடுத்தல்-பெறுதல்: யார் பார்வையில்?" },
+      "name": {
+        "en": "Giving and receiving: viewpoint rules",
+        "ta": "கொடுத்தல்-பெறுதல்: யார் பார்வையில்?"
+      },
       "explanation_ta": "மூன்று வினைச்சொற்களையும் ஒன்றாகப் பார்ப்போம். (1) あげる: கொடுப்பவர் நான்/என் குழு அல்லது மூன்றாம் நபர் → மற்றவருக்கு. 私は友達に花をあげました. (2) くれる: மற்றவர் → எனக்கு/என் குழுவுக்கு. 友達は私に花をくれました. (3) もらう: பெறுபவர் பார்வையில், கொடுத்தவர் に/から. 私は友達に花をもらいました. இரண்டாவதும் மூன்றாவதும் ஒரே நிகழ்வு, எழுவாய் மட்டும் வேறு. பொருளுக்குப் பதில் உதவி என்றால் மூன்றுக்கும் முன் て-வடிவம்: 〜てあげる、〜てくれる、〜てもらう. தமிழில் 'கொடு' ஒன்றே திசையைக் காட்டாது; ஜப்பானிய மொழியில் 'என்னை நோக்கி வருகிறதா (くれる), என்னிடமிருந்து போகிறதா (あげる)' என்பதே முக்கிய விதி. விலங்கு, செடிக்குக் கொடுக்கும்போது やる (犬に水をやる) சொல்வார்கள்; இது あげる-வின் சாதாரண வடிவம்.",
+      "explanation_en": "Let’s look at all three verbs together. (1) あげる: the giver is me / my group or a third person → to someone else. 私は友達に花をあげました. (2) くれる: someone else → to me / my group. 友達は私に花をくれました. (3) もらう: from the receiver’s point of view; the giver takes に/から. 私は友達に花をもらいました. The second and third describe the same event; only the subject is different. When it is help instead of a thing, put the て-form before all three: 〜てあげる、〜てくれる、〜てもらう. Tamil 'கொடு' (give) alone doesn’t show direction; in Japanese the key rule is whether it 'comes toward me (くれる)' or 'goes away from me (あげる)'. When giving to animals or plants, people say やる (犬に水をやる); it is a plain, casual version of あげる.",
       "tamil_parallel": "நான் கொடுத்தேன் = あげました ； அவர் எனக்குக் கொடுத்தார் = くれました ； நான் அவரிடமிருந்து பெற்றேன் = もらいました",
+      "tamil_parallel_en": "நான் கொடுத்தேன் (I gave) = あげました ； அவர் எனக்குக் கொடுத்தார் (he gave to me) = くれました ； நான் அவரிடமிருந்து பெற்றேன் (I received from him) = もらいました. Tamil uses கொடு for both directions, while Japanese splits it into あげる and くれる.",
       "formation": "私 → 他人: あげる ； 他人 → 私: くれる ； 私 ← 他人 (私が主語): もらう ； + て-form = 〜てあげる / 〜てくれる / 〜てもらう",
+      "formation_en": "私 → 他人: あげる ； 他人 → 私: くれる ； 私 ← 他人 (私が主語): もらう ； + て-form = 〜てあげる / 〜てくれる / 〜てもらう",
       "examples": [
-        { "ja": "私は 山田さんに 本を あげました。", "reading": "わたしは やまださんに ほんを あげました。", "romaji": "watashi wa yamada san ni hon o agemashita.", "ta": "நான் யமதாவுக்குப் புத்தகம் கொடுத்தேன்.", "en": "I gave Ms. Yamada a book." },
-        { "ja": "山田さんは 私に 手紙を くれました。", "reading": "やまださんは わたしに てがみを くれました。", "romaji": "yamada san wa watashi ni tegami o kuremashita.", "ta": "யமதா எனக்குக் கடிதம் கொடுத்தார்.", "en": "Ms. Yamada gave me a letter." },
-        { "ja": "私は 山田さんに 手紙を もらいました。", "reading": "わたしは やまださんに てがみを もらいました。", "romaji": "watashi wa yamada san ni tegami o moraimashita.", "ta": "நான் யமதாவிடமிருந்து கடிதம் பெற்றேன்.", "en": "I received a letter from Ms. Yamada." },
-        { "ja": "田中さんは 私に 傘を 貸して くれました。", "reading": "たなかさんは わたしに かさを かして くれました。", "romaji": "tanaka san wa watashi ni kasa o kashite kuremashita.", "ta": "தனாகா எனக்குக் குடை இரவல் கொடுத்தார்.", "en": "Mr. Tanaka lent me an umbrella." },
-        { "ja": "私は 田中さんに 傘を 貸して もらいました。", "reading": "わたしは たなかさんに かさを かして もらいました。", "romaji": "watashi wa tanaka san ni kasa o kashite moraimashita.", "ta": "நான் தனாகாவிடம் குடை இரவல் பெற்றேன்.", "en": "I had Mr. Tanaka lend me an umbrella." },
-        { "ja": "毎朝 花に 水を やります。", "reading": "まいあさ はなに みずを やります。", "romaji": "maiasa hana ni mizu o yarimasu.", "ta": "தினமும் காலையில் பூச்செடிகளுக்குத் தண்ணீர் ஊற்றுகிறேன்.", "en": "I water the flowers every morning." }
+        {
+          "ja": "私は 山田さんに 本を あげました。",
+          "reading": "わたしは やまださんに ほんを あげました。",
+          "romaji": "watashi wa yamada san ni hon o agemashita.",
+          "ta": "நான் யமதாவுக்குப் புத்தகம் கொடுத்தேன்.",
+          "en": "I gave Ms. Yamada a book."
+        },
+        {
+          "ja": "山田さんは 私に 手紙を くれました。",
+          "reading": "やまださんは わたしに てがみを くれました。",
+          "romaji": "yamada san wa watashi ni tegami o kuremashita.",
+          "ta": "யமதா எனக்குக் கடிதம் கொடுத்தார்.",
+          "en": "Ms. Yamada gave me a letter."
+        },
+        {
+          "ja": "私は 山田さんに 手紙を もらいました。",
+          "reading": "わたしは やまださんに てがみを もらいました。",
+          "romaji": "watashi wa yamada san ni tegami o moraimashita.",
+          "ta": "நான் யமதாவிடமிருந்து கடிதம் பெற்றேன்.",
+          "en": "I received a letter from Ms. Yamada."
+        },
+        {
+          "ja": "田中さんは 私に 傘を 貸して くれました。",
+          "reading": "たなかさんは わたしに かさを かして くれました。",
+          "romaji": "tanaka san wa watashi ni kasa o kashite kuremashita.",
+          "ta": "தனாகா எனக்குக் குடை இரவல் கொடுத்தார்.",
+          "en": "Mr. Tanaka lent me an umbrella."
+        },
+        {
+          "ja": "私は 田中さんに 傘を 貸して もらいました。",
+          "reading": "わたしは たなかさんに かさを かして もらいました。",
+          "romaji": "watashi wa tanaka san ni kasa o kashite moraimashita.",
+          "ta": "நான் தனாகாவிடம் குடை இரவல் பெற்றேன்.",
+          "en": "I had Mr. Tanaka lend me an umbrella."
+        },
+        {
+          "ja": "毎朝 花に 水を やります。",
+          "reading": "まいあさ はなに みずを やります。",
+          "romaji": "maiasa hana ni mizu o yarimasu.",
+          "ta": "தினமும் காலையில் பூச்செடிகளுக்குத் தண்ணீர் ஊற்றுகிறேன்.",
+          "en": "I water the flowers every morning."
+        }
       ],
-      "pitfalls_ta": "'அவர் எனக்குக் கொடுத்தார்' என்பதை ×あげました என்று சொல்வது தமிழ் மாணவர்களின் முதல் தவறு; ○くれました. もらう-வில் கொடுத்தவர் に அல்லது から, くれる-வில் கொடுத்தவர் は/が."
+      "pitfalls_ta": "'அவர் எனக்குக் கொடுத்தார்' என்பதை ×あげました என்று சொல்வது தமிழ் மாணவர்களின் முதல் தவறு; ○くれました. もらう-வில் கொடுத்தவர் に அல்லது から, くれる-வில் கொடுத்தவர் は/が.",
+      "pitfalls_en": "Saying 'he gave to me' as ×あげました is the first mistake Tamil learners make; it should be ○くれました. In もらう the giver takes に or から; in くれる the giver takes は/が."
     }
   ],
-  "vocab_ids": ["n5-v-011", "n5-v-031", "n5-v-039", "n5-v-062", "n5-v-093", "n5-v-106", "n5-v-110", "n5-v-111", "n5-v-128", "n5-v-129", "n5-v-303", "n5-v-348", "n5-v-356", "n5-v-359", "n5-v-429", "n5-v-450", "n5-v-473", "n5-v-493", "n5-v-502", "n5-v-525", "n5-v-546", "n5-v-606", "n5-v-625", "n5-v-675", "n5-v-708", "n5-v-716"],
+  "vocab_ids": [
+    "n5-v-011",
+    "n5-v-031",
+    "n5-v-039",
+    "n5-v-062",
+    "n5-v-093",
+    "n5-v-106",
+    "n5-v-110",
+    "n5-v-111",
+    "n5-v-128",
+    "n5-v-129",
+    "n5-v-303",
+    "n5-v-348",
+    "n5-v-356",
+    "n5-v-359",
+    "n5-v-429",
+    "n5-v-450",
+    "n5-v-473",
+    "n5-v-493",
+    "n5-v-502",
+    "n5-v-525",
+    "n5-v-546",
+    "n5-v-606",
+    "n5-v-625",
+    "n5-v-675",
+    "n5-v-708",
+    "n5-v-716"
+  ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L24-q01", "type": "kanji_reading", "sentence": "＿荷物＿は ここに 置いてください。", "target": "荷物", "options": ["にもの", "かもつ", "にもつ", "にぶつ"], "answer": 2, "explanation_ta": "荷物 = にもつ (சாமான்). 物 இங்கே もつ; 食べ物 போல もの அல்ல. かもつ என்பது 貨物 (சரக்கு), N5-இல் வராது." },
-      { "id": "L24-q02", "type": "kanji_reading", "sentence": "おばあさんに ＿手紙＿を 書きました。", "target": "手紙", "options": ["てかみ", "てがみ", "でがみ", "しゅし"], "answer": 1, "explanation_ta": "手紙 = てがみ (கடிதம்). 紙 (かみ) கூட்டுச் சொல்லில் ஒலிப்புடன் がみ. てかみ என்பது ஒலிப்பு விடுபட்ட பொறி." },
-      { "id": "L24-q03", "type": "kanji_reading", "sentence": "＿廊下＿を 走らないでください。", "target": "廊下", "options": ["ろうか", "ろか", "ろうした", "ろうげ"], "answer": 0, "explanation_ta": "廊下 = ろうか (நடைபாதை). 下 இங்கே か; した (கீழே) அல்ல. ろか என்று நீண்ட உயிரை விடுவது பொறி." },
-      { "id": "L24-q04", "type": "orthography", "sentence": "テーブルに お皿を ＿ならべて＿ ください。", "target": "ならべて", "options": ["並べて", "並んで", "立べて", "習べて"], "answer": 0, "explanation_ta": "ならべて = 並べて (வரிசையாக வைக்க, பிறவினை). 並んで என்பது 並ぶ (தானே வரிசையில் நிற்க) — வேறு வினை, ஒலியும் வேறு. 立 தோற்றத்தில் ஒத்த போலி." },
-      { "id": "L24-q05", "type": "orthography", "sentence": "まいしゅう 部屋を ＿そうじ＿します。", "target": "そうじ", "options": ["掃事", "帰除", "掃除", "婦除"], "answer": 2, "explanation_ta": "そうじ = 掃除 (சுத்தம்). 帰 (かえる) மற்றும் 婦 இடப்புறம் மாறிய போலிகள்; 事 (こと) ஒலி ஒத்திருந்தாலும் தவறான காஞ்சி." },
-      { "id": "L24-q06", "type": "vocab_context", "sentence": "封筒に 切手を（　　）ください。", "options": ["置いて", "貼って", "渡して", "取って"], "answer": 1, "explanation_ta": "தபால் தலையை உறையில் 'ஒட்டுவது' = 貼ります. 置いて (வை) பொருள் மேசை போன்ற இடத்தில் வைப்பதற்கு; ஒட்டுவதற்கு அல்ல." },
-      { "id": "L24-q07", "type": "vocab_context", "sentence": "この 手紙を 先生に（　　）ください。", "options": ["渡して", "貼って", "並べて", "洗って"], "answer": 0, "explanation_ta": "ஒருவரின் கையில் ஒப்படைப்பது = 渡します; பெறுபவர் に. 貼って (ஒட்டு) பொருந்தாது." },
-      { "id": "L24-q08", "type": "vocab_context", "sentence": "シャツが 汚いので、今日は（　　）を します。", "options": ["掃除", "洗濯", "料理", "散歩"], "answer": 1, "explanation_ta": "சட்டை அழுக்கு என்பதால் 'துணி துவைத்தல்' = 洗濯. 掃除 என்பது அறை, வீட்டைச் சுத்தம் செய்வது; துணிக்கு அல்ல." },
-      { "id": "L24-q09", "type": "vocab_context", "sentence": "（　　）で 手を よく 洗ってください。", "options": ["箱", "石鹸", "ポスト", "荷物"], "answer": 1, "explanation_ta": "கையைக் கழுவ 'சோப்பால்' = 石鹸で (で = கருவி, -ஆல்). மற்றவை கழுவுவதற்கான பொருள்கள் அல்ல." },
-      { "id": "L24-q10", "type": "vocab_context", "sentence": "質問が ある 人は 手を（　　）ください。", "options": ["上げて", "取って", "置いて", "やって"], "answer": 0, "explanation_ta": "கையை உயர்த்துவது = 手を上げる. 取って (எடு) என்பது பொருளை எடுப்பதற்கு; கையை அல்ல." },
-      { "id": "L24-q11", "type": "vocab_context", "sentence": "毎朝 犬に 水を（　　）。", "options": ["くれます", "もらいます", "やります", "渡します"], "answer": 2, "explanation_ta": "விலங்கு, செடிக்குக் கொடுப்பது やります. くれます 'எனக்கு' கொடுப்பது; நாய் எனக்குத் தண்ணீர் தராது." },
-      { "id": "L24-q12", "type": "paraphrase", "sentence": "田中さんは 私に 辞書を くれました。", "options": ["私は 田中さんに 辞書を あげました。", "田中さんは 私に 辞書を 借りました。", "私は 田中さんに 辞書を 貸しました。", "私は 田中さんに 辞書を もらいました。"], "answer": 3, "explanation_ta": "AはBにXをくれました = BはAにXをもらいました. 'தனாகா எனக்குக் கொடுத்தார்' = 'நான் தனாகாவிடம் பெற்றேன்'. முதல் விடை திசையைத் தலைகீழாக்குகிறது." },
-      { "id": "L24-q13", "type": "paraphrase", "sentence": "私は 母に 部屋を 掃除して もらいました。", "options": ["私は 母の 部屋を 掃除して あげました。", "母が 私の 部屋を 掃除して くれました。", "母は 部屋を 掃除しませんでした。", "私は 一人で 部屋を 掃除しました。"], "answer": 1, "explanation_ta": "〜に〜てもらいました = 〜が〜てくれました; இரண்டிலும் அம்மாதான் சுத்தம் செய்தார். முதல் விடையில் நான் அம்மாவுக்குச் செய்தேன் — திசை தவறு." },
-      { "id": "L24-q14", "type": "paraphrase", "sentence": "おじいさんの 荷物を 持って あげました。", "options": ["おじいさんが 私の 荷物を 持って くれました。", "おじいさんに 荷物を もらいました。", "私が おじいさんの 荷物を 持ちました。", "おじいさんは 荷物を 持っていませんでした。"], "answer": 2, "explanation_ta": "持ってあげました = நான் (அவருக்காக) தூக்கினேன்: 私が持ちました. முதல் விடையில் தாத்தா எனக்காகத் தூக்கினார் — எதிர்த் திசை." },
-      { "id": "L24-q15", "type": "grammar_form", "sentence": "誕生日に 友達が 帽子を（　　）。", "options": ["くれました", "あげました", "もらいました", "やりました"], "answer": 0, "explanation_ta": "நண்பன் → எனக்கு, எனவே くれました. あげました என்பது நான் மற்றவருக்குக் கொடுப்பது; もらいました-க்கு எழுவாய் நானாக இருக்க வேண்டும் (友達に もらいました)." },
-      { "id": "L24-q16", "type": "grammar_form", "sentence": "私は 友達（　　）写真を 撮って もらいました。", "options": ["が", "は", "に", "を"], "answer": 2, "explanation_ta": "てもらう-வில் உதவி செய்பவர் に: 友達に撮ってもらいました. が போட்டால் 'நண்பன் பெற்றான்' என்று பொருள் குழம்பும்." },
-      { "id": "L24-q17", "type": "grammar_form", "sentence": "荷物を 持って（　　）、どうも ありがとう。", "options": ["あげて", "もらって", "くれて", "やって"], "answer": 2, "explanation_ta": "நன்றி சொல்லும்போது 'நீங்கள் எனக்குச் செய்ததற்கு' = 〜てくれて、ありがとう. 持ってあげて என்றால் நான் உங்களுக்குச் செய்தது என்று திசை தவறு." },
-      { "id": "L24-q18", "type": "grammar_form", "sentence": "妹に 本を 読んで（　　）。", "options": ["くれました", "もらいました", "あげました", "いました"], "answer": 2, "explanation_ta": "தங்கைக்கு (に) நான் படித்துக் காட்டினேன் → 〜てあげました. くれました என்றால் 'யாரோ எனக்கு' என்று பொருள், அப்போது 妹に வராது." },
-      { "id": "L24-q19", "type": "grammar_form", "sentence": "「誰（　　）この 料理を 作って くれましたか。」「おばあさんです。」", "options": ["は", "を", "に", "が"], "answer": 3, "explanation_ta": "誰 எழுவாயாக வந்தால் எப்போதும் が: 誰が作ってくれましたか. 誰は என்று சொல்ல முடியாது." },
-      { "id": "L24-q20", "type": "grammar_form", "sentence": "おじさんが 新しい 自転車を 買って（　　）。", "options": ["もらいました", "くれました", "あげました", "やりました"], "answer": 1, "explanation_ta": "செய்பவர் おじさんが (が) எழுவாய், பெறுபவர் நான் → 〜てくれました. もらいました-க்கு おじさんに என்று に தேவை." },
-      { "id": "L24-q21", "type": "grammar_form", "sentence": "おじさん（　　）時計を もらいました。", "options": ["から", "が", "を", "で"], "answer": 0, "explanation_ta": "もらう-வில் கொடுத்தவர் に அல்லது から (= -இடமிருந்து). が போட்டால் 'மாமா பெற்றார்' என்று பொருள் மாறும்." },
-      { "id": "L24-q22", "type": "sentence_order", "before": "私は", "chunks": ["田中さんに", "漢字の 意味を", "教えて", "もらいました"], "star": 2, "after": "。", "explanation_ta": "私は 田中さんに 漢字の 意味を 教えて もらいました。 — பெறுபவர் は, செய்பவர் に, பொருள் を, பின் て-வடிவம் + もらいました. நட்சத்திர இடத்தில் 教えて." },
-      { "id": "L24-q23", "type": "sentence_order", "before": "隣の 人が", "chunks": ["重い", "荷物を", "持って", "くれました"], "star": 1, "after": "。", "explanation_ta": "隣の 人が 重い 荷物を 持って くれました。 — பெயரடை 重い பெயர்ச்சொல்லுக்கு முன், பின் を, பின் 持って くれました. நட்சத்திர இடத்தில் 荷物を." },
-      { "id": "L24-q24", "type": "sentence_order", "before": "姉が", "chunks": ["手紙を", "ポストに", "入れて", "くれました"], "star": 1, "after": "。", "explanation_ta": "姉が 手紙を ポストに 入れて くれました。 — 'அக்கா எனக்காகக் கடிதத்தைத் தபால் பெட்டியில் போட்டார்'. பொருள் を, இடம் に, பின் て-வடிவம் + くれました. நட்சத்திர இடத்தில் ポストに." },
-      { "id": "L24-q25", "type": "passage_cloze", "passage": "先週から 駅の 近くの 新しい アパートに 住んでいます。荷物が たくさん あったので、大変でした。でも、おじさんが 自動車で 荷物を 持って 来て［1］。友達の 山田さんも 来て、部屋を 掃除して くれました。私は 山田さん［2］晩御飯を 作って あげました。山田さんは「おいしい」と 言いました。来週は 私が 山田さんの 部屋を 掃除して［3］と 思います。", "blanks": [
-        { "options": ["あげました", "くれました", "もらいました", "やりました"], "answer": 1 },
-        { "options": ["が", "を", "に", "で"], "answer": 2 },
-        { "options": ["くれる", "もらう", "あげよう", "あげる"], "answer": 3 }
-      ], "explanation_ta": "［1］ மாமா (が) எனக்காகச் செய்தார் → くれました. ［2］ 〜てあげる-வில் பெறுபவர் に: 山田さんに作ってあげました. ［3］ நான் யமதாவுக்கு உதவுவேன் → あげる; と思います-க்கு முன் சாதாரண வடிவம். くれる என்றால் யமதா எனக்கு என்று திசை தவறு." }
+      {
+        "id": "L24-q01",
+        "type": "kanji_reading",
+        "sentence": "＿荷物＿は ここに 置いてください。",
+        "target": "荷物",
+        "options": [
+          "にもの",
+          "かもつ",
+          "にもつ",
+          "にぶつ"
+        ],
+        "answer": 2,
+        "explanation_ta": "荷物 = にもつ (சாமான்). 物 இங்கே もつ; 食べ物 போல もの அல்ல. かもつ என்பது 貨物 (சரக்கு), N5-இல் வராது.",
+        "explanation_en": "荷物 = にもつ (சாமான், luggage). Here 物 is read もつ, not もの as in 食べ物. かもつ is 貨物 (freight), which is not in N5."
+      },
+      {
+        "id": "L24-q02",
+        "type": "kanji_reading",
+        "sentence": "おばあさんに ＿手紙＿を 書きました。",
+        "target": "手紙",
+        "options": [
+          "てかみ",
+          "てがみ",
+          "でがみ",
+          "しゅし"
+        ],
+        "answer": 1,
+        "explanation_ta": "手紙 = てがみ (கடிதம்). 紙 (かみ) கூட்டுச் சொல்லில் ஒலிப்புடன் がみ. てかみ என்பது ஒலிப்பு விடுபட்ட பொறி.",
+        "explanation_en": "手紙 = てがみ (கடிதம், letter). 紙 (かみ) becomes voiced as がみ in a compound. てかみ is the trap with the voicing missing."
+      },
+      {
+        "id": "L24-q03",
+        "type": "kanji_reading",
+        "sentence": "＿廊下＿を 走らないでください。",
+        "target": "廊下",
+        "options": [
+          "ろうか",
+          "ろか",
+          "ろうした",
+          "ろうげ"
+        ],
+        "answer": 0,
+        "explanation_ta": "廊下 = ろうか (நடைபாதை). 下 இங்கே か; した (கீழே) அல்ல. ろか என்று நீண்ட உயிரை விடுவது பொறி.",
+        "explanation_en": "廊下 = ろうか (நடைபாதை, corridor). Here 下 is read か, not した (below). Dropping the long vowel to make ろか is the trap."
+      },
+      {
+        "id": "L24-q04",
+        "type": "orthography",
+        "sentence": "テーブルに お皿を ＿ならべて＿ ください。",
+        "target": "ならべて",
+        "options": [
+          "並べて",
+          "並んで",
+          "立べて",
+          "習べて"
+        ],
+        "answer": 0,
+        "explanation_ta": "ならべて = 並べて (வரிசையாக வைக்க, பிறவினை). 並んで என்பது 並ぶ (தானே வரிசையில் நிற்க) — வேறு வினை, ஒலியும் வேறு. 立 தோற்றத்தில் ஒத்த போலி.",
+        "explanation_en": "ならべて = 並べて (வரிசையாக வைக்க, to line things up; transitive). 並んで is from 並ぶ (to line up oneself) — a different verb with a different sound. 立 is a fake that looks similar."
+      },
+      {
+        "id": "L24-q05",
+        "type": "orthography",
+        "sentence": "まいしゅう 部屋を ＿そうじ＿します。",
+        "target": "そうじ",
+        "options": [
+          "掃事",
+          "帰除",
+          "掃除",
+          "婦除"
+        ],
+        "answer": 2,
+        "explanation_ta": "そうじ = 掃除 (சுத்தம்). 帰 (かえる) மற்றும் 婦 இடப்புறம் மாறிய போலிகள்; 事 (こと) ஒலி ஒத்திருந்தாலும் தவறான காஞ்சி.",
+        "explanation_en": "そうじ = 掃除 (சுத்தம், cleaning). 帰 (かえる) and 婦 are fakes with a changed left side; 事 (こと) sounds similar but is the wrong kanji."
+      },
+      {
+        "id": "L24-q06",
+        "type": "vocab_context",
+        "sentence": "封筒に 切手を（　　）ください。",
+        "options": [
+          "置いて",
+          "貼って",
+          "渡して",
+          "取って"
+        ],
+        "answer": 1,
+        "explanation_ta": "தபால் தலையை உறையில் 'ஒட்டுவது' = 貼ります. 置いて (வை) பொருள் மேசை போன்ற இடத்தில் வைப்பதற்கு; ஒட்டுவதற்கு அல்ல.",
+        "explanation_en": "'Sticking' a stamp on an envelope = 貼ります (ஒட்டு, stick). 置いて (put) is for placing something on a table or similar, not for sticking."
+      },
+      {
+        "id": "L24-q07",
+        "type": "vocab_context",
+        "sentence": "この 手紙を 先生に（　　）ください。",
+        "options": [
+          "渡して",
+          "貼って",
+          "並べて",
+          "洗って"
+        ],
+        "answer": 0,
+        "explanation_ta": "ஒருவரின் கையில் ஒப்படைப்பது = 渡します; பெறுபவர் に. 貼って (ஒட்டு) பொருந்தாது.",
+        "explanation_en": "Handing something into a person’s hand = 渡します (ஒப்படை, hand over); the receiver takes に. 貼って (stick) doesn’t fit."
+      },
+      {
+        "id": "L24-q08",
+        "type": "vocab_context",
+        "sentence": "シャツが 汚いので、今日は（　　）を します。",
+        "options": [
+          "掃除",
+          "洗濯",
+          "料理",
+          "散歩"
+        ],
+        "answer": 1,
+        "explanation_ta": "சட்டை அழுக்கு என்பதால் 'துணி துவைத்தல்' = 洗濯. 掃除 என்பது அறை, வீட்டைச் சுத்தம் செய்வது; துணிக்கு அல்ல.",
+        "explanation_en": "The shirt is dirty, so 'doing laundry' = 洗濯 (துணி துவைத்தல், washing clothes). 掃除 is cleaning a room or house, not clothes."
+      },
+      {
+        "id": "L24-q09",
+        "type": "vocab_context",
+        "sentence": "（　　）で 手を よく 洗ってください。",
+        "options": [
+          "箱",
+          "石鹸",
+          "ポスト",
+          "荷物"
+        ],
+        "answer": 1,
+        "explanation_ta": "கையைக் கழுவ 'சோப்பால்' = 石鹸で (で = கருவி, -ஆல்). மற்றவை கழுவுவதற்கான பொருள்கள் அல்ல.",
+        "explanation_en": "To wash your hands 'with soap' = 石鹸で (சோப்பால், with soap) (で = tool, Tamil -ஆல்). The others are not things you wash with."
+      },
+      {
+        "id": "L24-q10",
+        "type": "vocab_context",
+        "sentence": "質問が ある 人は 手を（　　）ください。",
+        "options": [
+          "上げて",
+          "取って",
+          "置いて",
+          "やって"
+        ],
+        "answer": 0,
+        "explanation_ta": "கையை உயர்த்துவது = 手を上げる. 取って (எடு) என்பது பொருளை எடுப்பதற்கு; கையை அல்ல.",
+        "explanation_en": "Raising your hand = 手を上げる (கையை உயர்த்து, raise your hand). 取って (take) is for picking up a thing, not your hand."
+      },
+      {
+        "id": "L24-q11",
+        "type": "vocab_context",
+        "sentence": "毎朝 犬に 水を（　　）。",
+        "options": [
+          "くれます",
+          "もらいます",
+          "やります",
+          "渡します"
+        ],
+        "answer": 2,
+        "explanation_ta": "விலங்கு, செடிக்குக் கொடுப்பது やります. くれます 'எனக்கு' கொடுப்பது; நாய் எனக்குத் தண்ணீர் தராது.",
+        "explanation_en": "Giving to animals and plants is やります (கொடு, give to animals/plants). くれます is giving to 'me'; the dog doesn’t give me water."
+      },
+      {
+        "id": "L24-q12",
+        "type": "paraphrase",
+        "sentence": "田中さんは 私に 辞書を くれました。",
+        "options": [
+          "私は 田中さんに 辞書を あげました。",
+          "田中さんは 私に 辞書を 借りました。",
+          "私は 田中さんに 辞書を 貸しました。",
+          "私は 田中さんに 辞書を もらいました。"
+        ],
+        "answer": 3,
+        "explanation_ta": "AはBにXをくれました = BはAにXをもらいました. 'தனாகா எனக்குக் கொடுத்தார்' = 'நான் தனாகாவிடம் பெற்றேன்'. முதல் விடை திசையைத் தலைகீழாக்குகிறது.",
+        "explanation_en": "AはBにXをくれました = BはAにXをもらいました. (தனாகா எனக்குக் கொடுத்தார், Tanaka gave it to me) = (நான் தனாகாவிடம் பெற்றேன், I received it from Tanaka). The first option reverses the direction."
+      },
+      {
+        "id": "L24-q13",
+        "type": "paraphrase",
+        "sentence": "私は 母に 部屋を 掃除して もらいました。",
+        "options": [
+          "私は 母の 部屋を 掃除して あげました。",
+          "母が 私の 部屋を 掃除して くれました。",
+          "母は 部屋を 掃除しませんでした。",
+          "私は 一人で 部屋を 掃除しました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "〜に〜てもらいました = 〜が〜てくれました; இரண்டிலும் அம்மாதான் சுத்தம் செய்தார். முதல் விடையில் நான் அம்மாவுக்குச் செய்தேன் — திசை தவறு.",
+        "explanation_en": "〜に〜てもらいました = 〜が〜てくれました; in both, Mother did the cleaning (அம்மா சுத்தம் செய்தார்). In the first option, I did it for Mother — the wrong direction."
+      },
+      {
+        "id": "L24-q14",
+        "type": "paraphrase",
+        "sentence": "おじいさんの 荷物を 持って あげました。",
+        "options": [
+          "おじいさんが 私の 荷物を 持って くれました。",
+          "おじいさんに 荷物を もらいました。",
+          "私が おじいさんの 荷物を 持ちました。",
+          "おじいさんは 荷物を 持っていませんでした。"
+        ],
+        "answer": 2,
+        "explanation_ta": "持ってあげました = நான் (அவருக்காக) தூக்கினேன்: 私が持ちました. முதல் விடையில் தாத்தா எனக்காகத் தூக்கினார் — எதிர்த் திசை.",
+        "explanation_en": "持ってあげました = I carried it (for him) (நான் தூக்கினேன்): 私が持ちました. In the first option, the grandfather carried it for me — the opposite direction."
+      },
+      {
+        "id": "L24-q15",
+        "type": "grammar_form",
+        "sentence": "誕生日に 友達が 帽子を（　　）。",
+        "options": [
+          "くれました",
+          "あげました",
+          "もらいました",
+          "やりました"
+        ],
+        "answer": 0,
+        "explanation_ta": "நண்பன் → எனக்கு, எனவே くれました. あげました என்பது நான் மற்றவருக்குக் கொடுப்பது; もらいました-க்கு எழுவாய் நானாக இருக்க வேண்டும் (友達に もらいました).",
+        "explanation_en": "Friend → to me, so くれました (கொடுத்தான், gave me). あげました is me giving to someone else; with もらいました the subject must be me (友達に もらいました)."
+      },
+      {
+        "id": "L24-q16",
+        "type": "grammar_form",
+        "sentence": "私は 友達（　　）写真を 撮って もらいました。",
+        "options": [
+          "が",
+          "は",
+          "に",
+          "を"
+        ],
+        "answer": 2,
+        "explanation_ta": "てもらう-வில் உதவி செய்பவர் に: 友達に撮ってもらいました. が போட்டால் 'நண்பன் பெற்றான்' என்று பொருள் குழம்பும்.",
+        "explanation_en": "In てもらう the person doing the favour takes に: 友達に撮ってもらいました (நண்பன் எனக்கு எடுத்துக் கொடுத்தான், my friend took it for me). With が the meaning gets confused, as if 'my friend received it'."
+      },
+      {
+        "id": "L24-q17",
+        "type": "grammar_form",
+        "sentence": "荷物を 持って（　　）、どうも ありがとう。",
+        "options": [
+          "あげて",
+          "もらって",
+          "くれて",
+          "やって"
+        ],
+        "answer": 2,
+        "explanation_ta": "நன்றி சொல்லும்போது 'நீங்கள் எனக்குச் செய்ததற்கு' = 〜てくれて、ありがとう. 持ってあげて என்றால் நான் உங்களுக்குச் செய்தது என்று திசை தவறு.",
+        "explanation_en": "When saying thank you for 'what you did for me' = 〜てくれて、ありがとう (எனக்குச் செய்ததற்கு நன்றி, thank you for doing it for me). 持ってあげて would mean what I did for you — the wrong direction."
+      },
+      {
+        "id": "L24-q18",
+        "type": "grammar_form",
+        "sentence": "妹に 本を 読んで（　　）。",
+        "options": [
+          "くれました",
+          "もらいました",
+          "あげました",
+          "いました"
+        ],
+        "answer": 2,
+        "explanation_ta": "தங்கைக்கு (に) நான் படித்துக் காட்டினேன் → 〜てあげました. くれました என்றால் 'யாரோ எனக்கு' என்று பொருள், அப்போது 妹に வராது.",
+        "explanation_en": "I read it to (に) my younger sister → 〜てあげました (படித்துக் காட்டினேன், I read it for her). くれました would mean 'someone did it for me', and then 妹に wouldn’t fit."
+      },
+      {
+        "id": "L24-q19",
+        "type": "grammar_form",
+        "sentence": "「誰（　　）この 料理を 作って くれましたか。」「おばあさんです。」",
+        "options": [
+          "は",
+          "を",
+          "に",
+          "が"
+        ],
+        "answer": 3,
+        "explanation_ta": "誰 எழுவாயாக வந்தால் எப்போதும் が: 誰が作ってくれましたか. 誰は என்று சொல்ல முடியாது.",
+        "explanation_en": "When 誰 is the subject, it always takes が: 誰が作ってくれましたか (யார் செய்து கொடுத்தார்?, who made it for you?). You cannot say 誰は."
+      },
+      {
+        "id": "L24-q20",
+        "type": "grammar_form",
+        "sentence": "おじさんが 新しい 自転車を 買って（　　）。",
+        "options": [
+          "もらいました",
+          "くれました",
+          "あげました",
+          "やりました"
+        ],
+        "answer": 1,
+        "explanation_ta": "செய்பவர் おじさんが (が) எழுவாய், பெறுபவர் நான் → 〜てくれました. もらいました-க்கு おじさんに என்று に தேவை.",
+        "explanation_en": "The doer おじさんが (が) is the subject and the receiver is me → 〜てくれました (செய்து கொடுத்தார், did it for me). もらいました would need に: おじさんに."
+      },
+      {
+        "id": "L24-q21",
+        "type": "grammar_form",
+        "sentence": "おじさん（　　）時計を もらいました。",
+        "options": [
+          "から",
+          "が",
+          "を",
+          "で"
+        ],
+        "answer": 0,
+        "explanation_ta": "もらう-வில் கொடுத்தவர் に அல்லது から (= -இடமிருந்து). が போட்டால் 'மாமா பெற்றார்' என்று பொருள் மாறும்.",
+        "explanation_en": "In もらう the giver takes に or から (= Tamil -இடமிருந்து, from). Using が changes the meaning to 'my uncle received it'."
+      },
+      {
+        "id": "L24-q22",
+        "type": "sentence_order",
+        "before": "私は",
+        "chunks": [
+          "田中さんに",
+          "漢字の 意味を",
+          "教えて",
+          "もらいました"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "私は 田中さんに 漢字の 意味を 教えて もらいました。 — பெறுபவர் は, செய்பவர் に, பொருள் を, பின் て-வடிவம் + もらいました. நட்சத்திர இடத்தில் 教えて.",
+        "explanation_en": "私は 田中さんに 漢字の 意味を 教えて もらいました。 — Receiver は, doer に, object を, then て-form + もらいました. 教えて goes in the star position."
+      },
+      {
+        "id": "L24-q23",
+        "type": "sentence_order",
+        "before": "隣の 人が",
+        "chunks": [
+          "重い",
+          "荷物を",
+          "持って",
+          "くれました"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "隣の 人が 重い 荷物を 持って くれました。 — பெயரடை 重い பெயர்ச்சொல்லுக்கு முன், பின் を, பின் 持って くれました. நட்சத்திர இடத்தில் 荷物を.",
+        "explanation_en": "隣の 人が 重い 荷物を 持って くれました。 — The adjective 重い comes before the noun, then を, then 持って くれました. 荷物を goes in the star position."
+      },
+      {
+        "id": "L24-q24",
+        "type": "sentence_order",
+        "before": "姉が",
+        "chunks": [
+          "手紙を",
+          "ポストに",
+          "入れて",
+          "くれました"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "姉が 手紙を ポストに 入れて くれました。 — 'அக்கா எனக்காகக் கடிதத்தைத் தபால் பெட்டியில் போட்டார்'. பொருள் を, இடம் に, பின் て-வடிவம் + くれました. நட்சத்திர இடத்தில் ポストに.",
+        "explanation_en": "姉が 手紙を ポストに 入れて くれました。 — (அக்கா எனக்காகக் கடிதத்தைத் தபால் பெட்டியில் போட்டார், my older sister posted the letter for me). Object を, place に, then て-form + くれました. ポストに goes in the star position."
+      },
+      {
+        "id": "L24-q25",
+        "type": "passage_cloze",
+        "passage": "先週から 駅の 近くの 新しい アパートに 住んでいます。荷物が たくさん あったので、大変でした。でも、おじさんが 自動車で 荷物を 持って 来て［1］。友達の 山田さんも 来て、部屋を 掃除して くれました。私は 山田さん［2］晩御飯を 作って あげました。山田さんは「おいしい」と 言いました。来週は 私が 山田さんの 部屋を 掃除して［3］と 思います。",
+        "blanks": [
+          {
+            "options": [
+              "あげました",
+              "くれました",
+              "もらいました",
+              "やりました"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "が",
+              "を",
+              "に",
+              "で"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "くれる",
+              "もらう",
+              "あげよう",
+              "あげる"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ மாமா (が) எனக்காகச் செய்தார் → くれました. ［2］ 〜てあげる-வில் பெறுபவர் に: 山田さんに作ってあげました. ［3］ நான் யமதாவுக்கு உதவுவேன் → あげる; と思います-க்கு முன் சாதாரண வடிவம். くれる என்றால் யமதா எனக்கு என்று திசை தவறு.",
+        "explanation_en": "［1］ My uncle (が) did it for me → くれました. ［2］ In 〜てあげる the receiver takes に: 山田さんに作ってあげました. ［3］ I will help Yamada → あげる; the plain form comes before と思います. くれる would mean Yamada does it for me — the wrong direction."
+      }
     ]
   }
 }

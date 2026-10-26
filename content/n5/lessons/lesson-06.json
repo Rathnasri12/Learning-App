@@ -1,161 +1,820 @@
 {
   "lesson": 6,
-  "title": { "ja": "何をしますか", "ta": "என்ன செய்கிறீர்கள்?", "en": "What will you do?" },
+  "title": {
+    "ja": "何をしますか",
+    "ta": "என்ன செய்கிறீர்கள்?",
+    "en": "What will you do?"
+  },
   "intro_ta": "இந்தப் பாடத்தில் \"என்ன சாப்பிடுகிறீர்கள், என்ன பார்க்கிறீர்கள், எங்கே செய்கிறீர்கள்\" என்று அன்றாடச் செயல்களைப் பற்றிப் பேசக் கற்றுக்கொள்வோம். தமிழின் \"-ஐ\" உருபு போன்ற を, \"-இல்\" போன்ற で என்ற இரண்டு துணைச்சொற்கள் முக்கியம். கூடவே ஒருவரை \"படம் பார்க்கலாமா?\" என்று அழைப்பதும், \"சரி, போவோம்!\" என்று ஒப்புக்கொள்வதும் வரும். உணவு, பானம், பொழுதுபோக்குச் சொற்கள் இந்தப் பாடத்தின் சொற்களஞ்சியம்.",
+  "intro_en": "In this lesson you learn to talk about everyday actions: what you eat, what you watch, and where you do things. Two particles are key: を, which works like the Tamil \"-ஐ\" ending, and で, which works like the Tamil \"-இல்\" ending. You will also learn how to invite someone (\"Shall we watch a movie?\") and how to accept (\"OK, let's go!\"). The vocabulary for this lesson covers food, drinks and free-time activities.",
   "grammar": [
     {
       "id": "g06-1",
       "pattern": "N を V",
-      "name": { "en": "Object marker を", "ta": "செயப்படுபொருள் を (-ஐ)" },
+      "name": {
+        "en": "Object marker を",
+        "ta": "செயப்படுபொருள் を (-ஐ)"
+      },
       "explanation_ta": "を என்பது வினைச்சொல்லின் செயப்படுபொருளை (object) காட்டும் துணைச்சொல். தமிழில் \"புத்தகத்தைப் படிக்கிறேன்\" என்பதில் உள்ள \"-ஐ\" (இரண்டாம் வேற்றுமை உருபு) செய்யும் வேலையைத்தான் ஜப்பானிய மொழியில் を செய்கிறது. தமிழைப் போலவே ஜப்பானிய மொழியும் \"செயப்படுபொருள் → வினை\" வரிசையைப் பின்பற்றுகிறது; ஆகவே 御飯を食べます = \"சோற்றைச் சாப்பிடுகிறேன்\" என்று சொல்லுக்குச் சொல் ஒத்துப் போகும். を என்ற எழுத்து \"wo\" வரிசையில் இருந்தாலும் உச்சரிப்பு எப்போதும் \"o\" மட்டுமே. தமிழில் \"தண்ணீர் குடிக்கிறேன்\" என்று -ஐ-ஐ விட்டுப் பேசுவது போல, ஜப்பானிய மரியாதைப் பேச்சில் を-ஐ விடக்கூடாது; எப்போதும் சொல்ல வேண்டும்.",
+      "explanation_en": "を is the particle that marks the object of a verb. It does the same job as the Tamil \"-ஐ\" (the second case ending) in \"புத்தகத்தைப் படிக்கிறேன்\" (I read the book). Like Tamil, Japanese follows the order \"object → verb\", so 御飯を食べます matches \"சோற்றைச் சாப்பிடுகிறேன்\" (I eat rice) word for word. Although を sits in the \"wo\" row of the kana chart, it is always pronounced just \"o\". In Tamil you can drop \"-ஐ\" and say \"தண்ணீர் குடிக்கிறேன்\" (I drink water), but in polite Japanese you must not drop を; always say it.",
       "tamil_parallel": "சோற்றை(-ஐ) சாப்பிடுகிறேன் = 御飯を食べます ; படத்தை(-ஐ) பார்க்கிறேன் = 映画を見ます",
+      "tamil_parallel_en": "The Japanese object marker を matches the Tamil accusative ending -ஐ, and the word order is the same: சோற்றை(-ஐ) சாப்பிடுகிறேன் (\"I eat rice\") = 御飯を食べます; படத்தை(-ஐ) பார்க்கிறேன் (\"I watch a film\") = 映画を見ます.",
       "formation": "N + を + V ます / ません / ました / ませんでした",
+      "formation_en": "N + を + V ます / ません / ました / ませんでした",
       "examples": [
-        { "ja": "毎朝 御飯を 食べます。", "reading": "まいあさ ごはんを たべます。", "romaji": "maiasa gohan o tabemasu.", "ta": "தினமும் காலை சோறு சாப்பிடுகிறேன்.", "en": "I eat rice every morning." },
-        { "ja": "私は コーヒーを 飲みます。", "reading": "わたしは コーヒーを のみます。", "romaji": "watashi wa koohii o nomimasu.", "ta": "நான் காபி குடிக்கிறேன்.", "en": "I drink coffee." },
-        { "ja": "昨日 映画を 見ました。", "reading": "きのう えいがを みました。", "romaji": "kinou eiga o mimashita.", "ta": "நேற்று படம் பார்த்தேன்.", "en": "I watched a movie yesterday." },
-        { "ja": "毎晩 本を 読みますか。", "reading": "まいばん ほんを よみますか。", "romaji": "maiban hon o yomimasu ka.", "ta": "தினமும் இரவு புத்தகம் படிக்கிறீர்களா?", "en": "Do you read books every night?" },
-        { "ja": "私は お酒を 飲みません。", "reading": "わたしは おさけを のみません。", "romaji": "watashi wa osake o nomimasen.", "ta": "நான் மது குடிப்பதில்லை.", "en": "I don't drink alcohol." },
-        { "ja": "友達は 写真を 撮りました。", "reading": "ともだちは しゃしんを とりました。", "romaji": "tomodachi wa shashin o torimashita.", "ta": "நண்பர் புகைப்படம் எடுத்தார்.", "en": "My friend took a photo." }
+        {
+          "ja": "毎朝 御飯を 食べます。",
+          "reading": "まいあさ ごはんを たべます。",
+          "romaji": "maiasa gohan o tabemasu.",
+          "ta": "தினமும் காலை சோறு சாப்பிடுகிறேன்.",
+          "en": "I eat rice every morning."
+        },
+        {
+          "ja": "私は コーヒーを 飲みます。",
+          "reading": "わたしは コーヒーを のみます。",
+          "romaji": "watashi wa koohii o nomimasu.",
+          "ta": "நான் காபி குடிக்கிறேன்.",
+          "en": "I drink coffee."
+        },
+        {
+          "ja": "昨日 映画を 見ました。",
+          "reading": "きのう えいがを みました。",
+          "romaji": "kinou eiga o mimashita.",
+          "ta": "நேற்று படம் பார்த்தேன்.",
+          "en": "I watched a movie yesterday."
+        },
+        {
+          "ja": "毎晩 本を 読みますか。",
+          "reading": "まいばん ほんを よみますか。",
+          "romaji": "maiban hon o yomimasu ka.",
+          "ta": "தினமும் இரவு புத்தகம் படிக்கிறீர்களா?",
+          "en": "Do you read books every night?"
+        },
+        {
+          "ja": "私は お酒を 飲みません。",
+          "reading": "わたしは おさけを のみません。",
+          "romaji": "watashi wa osake o nomimasen.",
+          "ta": "நான் மது குடிப்பதில்லை.",
+          "en": "I don't drink alcohol."
+        },
+        {
+          "ja": "友達は 写真を 撮りました。",
+          "reading": "ともだちは しゃしんを とりました。",
+          "romaji": "tomodachi wa shashin o torimashita.",
+          "ta": "நண்பர் புகைப்படம் எடுத்தார்.",
+          "en": "My friend took a photo."
+        }
       ],
-      "pitfalls_ta": "தமிழில் \"டீ குடிக்கிறேன்\" என்று உருபு இல்லாமல் பேசும் பழக்கத்தில் を-ஐ விட்டுவிடுவது பொதுவான தவறு; ஜப்பானிய மரியாதைப் பேச்சில் を கட்டாயம். மேலும் を-ஐ \"wo\" என்று உச்சரிக்காதீர்கள்; \"o\" தான்."
+      "pitfalls_ta": "தமிழில் \"டீ குடிக்கிறேன்\" என்று உருபு இல்லாமல் பேசும் பழக்கத்தில் を-ஐ விட்டுவிடுவது பொதுவான தவறு; ஜப்பானிய மரியாதைப் பேச்சில் を கட்டாயம். மேலும் を-ஐ \"wo\" என்று உச்சரிக்காதீர்கள்; \"o\" தான்.",
+      "pitfalls_en": "Because Tamil speakers often say \"டீ குடிக்கிறேன்\" (I drink tea) with no case ending, a common mistake is leaving out を. In polite Japanese, を is required. Also, don't pronounce を as \"wo\"; it is \"o\"."
     },
     {
       "id": "g06-2",
       "pattern": "N を します",
-      "name": { "en": "Doing an activity with します", "ta": "செயல்பெயர் + を します (〜 செய்கிறேன்)" },
+      "name": {
+        "en": "Doing an activity with します",
+        "ta": "செயல்பெயர் + を します (〜 செய்கிறேன்)"
+      },
       "explanation_ta": "します (\"செய்கிறேன்\") என்ற வினைச்சொல்லுடன் ஒரு செயலைக் குறிக்கும் பெயர்ச்சொல்லைச் சேர்த்தால் \"X செய்கிறேன்\" என்று புதிய வினை கிடைக்கும்: 勉強をします (படிப்புச் செய்கிறேன் = படிக்கிறேன்), サッカーをします (கால்பந்து விளையாடுகிறேன்). தமிழில் \"வேலை செய்கிறேன்\", \"படிப்பு பண்ணுகிறேன்\", \"ஷாப்பிங் பண்ணுகிறேன்\" என்று \"செய்/பண்ணு\" சேர்ப்பது போலவே இது. பெயர்ச்சொல் + します என்று を இல்லாமல் ஒரே வினையாகவும் சொல்லலாம் (勉強します); இரண்டும் சரி. する-இன் மரியாதை வடிவங்கள்: します, しません, しました, しませんでした.",
+      "explanation_en": "If you add a noun that names an activity to the verb します (\"do\"), you get a new verb meaning \"do X\": 勉強をします (do study = study), サッカーをします (play soccer). This is just like adding \"செய்/பண்ணு\" (do) in Tamil: \"வேலை செய்கிறேன்\" (I do work), \"படிப்பு பண்ணுகிறேன்\" (I do studies), \"ஷாப்பிங் பண்ணுகிறேன்\" (I do shopping). You can also drop を and say noun + します as one verb (勉強します); both are correct. The polite forms of する are します, しません, しました, しませんでした.",
       "tamil_parallel": "படிப்புப் பண்ணுகிறேன் / படிக்கிறேன் = 勉強をします ; கால்பந்து விளையாடுகிறேன் = サッカーをします",
+      "tamil_parallel_en": "Tamil makes verbs from activity nouns with செய்/பண்ணு (\"do\"), and Japanese does the same with します: படிப்புப் பண்ணுகிறேன் / படிக்கிறேன் (\"I study\") = 勉強をします; கால்பந்து விளையாடுகிறேன் (\"I play football\") = サッカーをします.",
       "formation": "செயல்-பெயர்ச்சொல் + を + します  (= N + します)",
+      "formation_en": "Activity noun + を + します  (= N + します)",
       "examples": [
-        { "ja": "毎晩 日本語の 勉強を します。", "reading": "まいばん にほんごの べんきょうを します。", "romaji": "maiban nihongo no benkyou o shimasu.", "ta": "தினமும் இரவு ஜப்பானிய மொழிப் படிப்புச் செய்கிறேன்.", "en": "I study Japanese every night." },
-        { "ja": "日曜日に 友達と サッカーを します。", "reading": "にちようびに ともだちと サッカーを します。", "romaji": "nichiyoubi ni tomodachi to sakkaa o shimasu.", "ta": "ஞாயிற்றுக்கிழமை நண்பர்களுடன் கால்பந்து விளையாடுகிறேன்.", "en": "I play football with friends on Sunday." },
-        { "ja": "明日 テニスを しますか。", "reading": "あした テニスを しますか。", "romaji": "ashita tenisu o shimasu ka.", "ta": "நாளை டென்னிஸ் விளையாடுகிறீர்களா?", "en": "Will you play tennis tomorrow?" },
-        { "ja": "昨日は 何も しませんでした。", "reading": "きのうは なにも しませんでした。", "romaji": "kinou wa nani mo shimasen deshita.", "ta": "நேற்று எதுவும் செய்யவில்லை.", "en": "I didn't do anything yesterday." },
-        { "ja": "先週 友達と テニスを しました。", "reading": "せんしゅう ともだちと テニスを しました。", "romaji": "senshuu tomodachi to tenisu o shimashita.", "ta": "போன வாரம் நண்பர்களுடன் டென்னிஸ் விளையாடினேன்.", "en": "I played tennis with friends last week." }
+        {
+          "ja": "毎晩 日本語の 勉強を します。",
+          "reading": "まいばん にほんごの べんきょうを します。",
+          "romaji": "maiban nihongo no benkyou o shimasu.",
+          "ta": "தினமும் இரவு ஜப்பானிய மொழிப் படிப்புச் செய்கிறேன்.",
+          "en": "I study Japanese every night."
+        },
+        {
+          "ja": "日曜日に 友達と サッカーを します。",
+          "reading": "にちようびに ともだちと サッカーを します。",
+          "romaji": "nichiyoubi ni tomodachi to sakkaa o shimasu.",
+          "ta": "ஞாயிற்றுக்கிழமை நண்பர்களுடன் கால்பந்து விளையாடுகிறேன்.",
+          "en": "I play football with friends on Sunday."
+        },
+        {
+          "ja": "明日 テニスを しますか。",
+          "reading": "あした テニスを しますか。",
+          "romaji": "ashita tenisu o shimasu ka.",
+          "ta": "நாளை டென்னிஸ் விளையாடுகிறீர்களா?",
+          "en": "Will you play tennis tomorrow?"
+        },
+        {
+          "ja": "昨日は 何も しませんでした。",
+          "reading": "きのうは なにも しませんでした。",
+          "romaji": "kinou wa nani mo shimasen deshita.",
+          "ta": "நேற்று எதுவும் செய்யவில்லை.",
+          "en": "I didn't do anything yesterday."
+        },
+        {
+          "ja": "先週 友達と テニスを しました。",
+          "reading": "せんしゅう ともだちと テニスを しました。",
+          "romaji": "senshuu tomodachi to tenisu o shimashita.",
+          "ta": "போன வாரம் நண்பர்களுடன் டென்னிஸ் விளையாடினேன்.",
+          "en": "I played tennis with friends last week."
+        }
       ],
-      "pitfalls_ta": "勉強を 勉強します என்று இரட்டிப்பாக்கக் கூடாது; 勉強をします அல்லது 勉強します — ஒன்றே போதும். また, 食べます போன்ற சாதாரண வினைச்சொற்களுக்கு します சேர்க்கத் தேவையில்லை."
+      "pitfalls_ta": "勉強を 勉強します என்று இரட்டிப்பாக்கக் கூடாது; 勉強をします அல்லது 勉強します — ஒன்றே போதும். また, 食べます போன்ற சாதாரண வினைச்சொற்களுக்கு します சேர்க்கத் தேவையில்லை.",
+      "pitfalls_en": "Don't double it as 勉強を 勉強します; use either 勉強をします or 勉強します, one is enough. Also, ordinary verbs such as 食べます don't need します added."
     },
     {
       "id": "g06-3",
       "pattern": "何を しますか / なん vs なに",
-      "name": { "en": "Asking what; なん vs なに", "ta": "என்ன? — 何 (なん / なに) படிக்கும் முறை" },
+      "name": {
+        "en": "Asking what; なん vs なに",
+        "ta": "என்ன? — 何 (なん / なに) படிக்கும் முறை"
+      },
       "explanation_ta": "何 = \"என்ன\". வினைச்சொல்லுடன் を சேர்த்து 何をしますか (\"என்ன செய்கிறீர்கள்?\") என்று கேட்கலாம். 何 என்பதை இரண்டு விதமாகப் படிக்கிறோம்: です, の, で போன்ற d/t/n ஒலியில் தொடங்கும் சொல்லுக்கு முன்னும், எண்ணிக்கை கேட்கும் 何時・何歳・何人 போன்ற இடங்களிலும் なん; を, が, も போன்ற மற்ற துணைச்சொற்களுக்கு முன் なに. தமிழில் \"என்ன\" ஒன்றே; ஆனால் ஜப்பானிய மொழியில் கேள்விச் சொல் தமிழைப் போலவே வாக்கியத்தின் நடுவில், வினைச்சொல்லுக்கு முன் வரும் (\"ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?\" = 日曜日に何をしますか) — ஆங்கிலம் போல் வாக்கியத்தின் முன்னால் கொண்டுவரத் தேவையில்லை. கேள்வியின் முடிவில் か மறக்காதீர்கள்.",
+      "explanation_en": "何 means \"what\". With a verb and を you can ask 何をしますか (\"What do you do?\"). 何 is read in two ways: なん before words starting with a d, t or n sound such as です, の and で, and in counting questions such as 何時, 何歳 and 何人; なに before other particles such as を, が and も. Tamil has just one word, \"என்ன\" (what). As in Tamil, the Japanese question word stays in the middle of the sentence, right before the verb (\"ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?\", What do you do on Sunday? = 日曜日に何をしますか). You don't need to move it to the front like in English. Don't forget か at the end of the question.",
       "tamil_parallel": "என்ன(-ஐ) செய்கிறீர்கள்? = 何をしますか ; அது என்ன? = それは何ですか",
+      "tamil_parallel_en": "Like Tamil என்ன (\"what\"), 何 stays in its normal place before the verb: என்ன(-ஐ) செய்கிறீர்கள்? (\"What do you do?\") = 何をしますか; அது என்ன? (\"What is that?\") = それは何ですか.",
       "formation": "何(なに) + を + V ますか ／ 何(なん) + ですか ／ 何(なん) + 時・歳・人",
+      "formation_en": "何(なに) + を + V ますか ／ 何(なん) + ですか ／ 何(なん) + 時・歳・人",
       "examples": [
-        { "ja": "日曜日に 何を しますか。", "reading": "にちようびに なにを しますか。", "romaji": "nichiyoubi ni nani o shimasu ka.", "ta": "ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?", "en": "What will you do on Sunday?" },
-        { "ja": "毎朝 何を 食べますか。", "reading": "まいあさ なにを たべますか。", "romaji": "maiasa nani o tabemasu ka.", "ta": "தினமும் காலை என்ன சாப்பிடுகிறீர்கள்?", "en": "What do you eat every morning?" },
-        { "ja": "それは 何ですか。", "reading": "それは なんですか。", "romaji": "sore wa nan desu ka.", "ta": "அது என்ன?", "en": "What is that?" },
-        { "ja": "今、何時ですか。", "reading": "いま、なんじですか。", "romaji": "ima, nanji desu ka.", "ta": "இப்போது மணி என்ன?", "en": "What time is it now?" },
-        { "ja": "昨日 何を 買いましたか。", "reading": "きのう なにを かいましたか。", "romaji": "kinou nani o kaimashita ka.", "ta": "நேற்று என்ன வாங்கினீர்கள்?", "en": "What did you buy yesterday?" },
-        { "ja": "今日の 晩御飯は 何ですか。", "reading": "きょうの ばんごはんは なんですか。", "romaji": "kyou no bangohan wa nan desu ka.", "ta": "இன்றைய இரவு உணவு என்ன?", "en": "What is for dinner today?" }
+        {
+          "ja": "日曜日に 何を しますか。",
+          "reading": "にちようびに なにを しますか。",
+          "romaji": "nichiyoubi ni nani o shimasu ka.",
+          "ta": "ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?",
+          "en": "What will you do on Sunday?"
+        },
+        {
+          "ja": "毎朝 何を 食べますか。",
+          "reading": "まいあさ なにを たべますか。",
+          "romaji": "maiasa nani o tabemasu ka.",
+          "ta": "தினமும் காலை என்ன சாப்பிடுகிறீர்கள்?",
+          "en": "What do you eat every morning?"
+        },
+        {
+          "ja": "それは 何ですか。",
+          "reading": "それは なんですか。",
+          "romaji": "sore wa nan desu ka.",
+          "ta": "அது என்ன?",
+          "en": "What is that?"
+        },
+        {
+          "ja": "今、何時ですか。",
+          "reading": "いま、なんじですか。",
+          "romaji": "ima, nanji desu ka.",
+          "ta": "இப்போது மணி என்ன?",
+          "en": "What time is it now?"
+        },
+        {
+          "ja": "昨日 何を 買いましたか。",
+          "reading": "きのう なにを かいましたか。",
+          "romaji": "kinou nani o kaimashita ka.",
+          "ta": "நேற்று என்ன வாங்கினீர்கள்?",
+          "en": "What did you buy yesterday?"
+        },
+        {
+          "ja": "今日の 晩御飯は 何ですか。",
+          "reading": "きょうの ばんごはんは なんですか。",
+          "romaji": "kyou no bangohan wa nan desu ka.",
+          "ta": "இன்றைய இரவு உணவு என்ன?",
+          "en": "What is for dinner today?"
+        }
       ],
-      "pitfalls_ta": "何を-ஐ なんを என்று படிப்பது பொதுவான தவறு; を-க்கு முன் எப்போதும் なに. மாறாக 何ですか-ஐ なにですか என்று சொல்லக்கூடாது; なんですか."
+      "pitfalls_ta": "何を-ஐ なんを என்று படிப்பது பொதுவான தவறு; を-க்கு முன் எப்போதும் なに. மாறாக 何ですか-ஐ なにですか என்று சொல்லக்கூடாது; なんですか.",
+      "pitfalls_en": "Reading 何を as なんを is a common mistake; before を it is always なに. The other way round, don't say 何ですか as なにですか; it is なんですか."
     },
     {
       "id": "g06-4",
       "pattern": "N(place) で V",
-      "name": { "en": "Place of action with で", "ta": "செயல் நடக்கும் இடம் で (-இல்)" },
+      "name": {
+        "en": "Place of action with で",
+        "ta": "செயல் நடக்கும் இடம் で (-இல்)"
+      },
       "explanation_ta": "ஒரு செயல் எங்கே நடக்கிறது என்பதைக் காட்ட இடப் பெயருக்குப் பின் で சேர்க்கிறோம்: 喫茶店でコーヒーを飲みます = \"கபேயில் காபி குடிக்கிறேன்\". தமிழின் \"-இல்\" (ஏழாம் வேற்றுமை) அதுதான். கவனம்: へ \"எங்கே போகிறோம்\" என்ற திசையைக் காட்டும்; で \"எங்கே செய்கிறோம்\" என்ற செயல் நடக்கும் இடத்தைக் காட்டும். 駅へ行きます (ஸ்டேஷனுக்குப் போகிறேன்), ஆனால் 駅で写真を撮ります (ஸ்டேஷனில் புகைப்படம் எடுக்கிறேன்). 5-ஆம் பாடத்தில் பார்த்த வாகனத்தின் で (バスで = பஸ்ஸில்) அதே சொல்தான்; இரண்டும் தமிழில் \"-இல்\" ஆகவே அமைவது நினைவில் வைக்க உதவும். வாக்கிய வரிசை: இடம்で → பொருள்を → வினை.",
+      "explanation_en": "To show where an action takes place, add で after the place noun: 喫茶店でコーヒーを飲みます = \"I drink coffee at a cafe\". This is the Tamil \"-இல்\" (the seventh case ending). Be careful: へ shows the direction you go (\"where to\"), while で shows the place where you do something. 駅へ行きます (I go to the station), but 駅で写真を撮ります (I take photos at the station). The で for vehicles from Lesson 5 (バスで = by bus) is the same word; in Tamil both come out as \"-இல்\", which helps you remember. Word order: place で → object を → verb.",
       "tamil_parallel": "கடையில்(-இல்) மிட்டாய் வாங்குகிறேன் = 店で飴を買います",
+      "tamil_parallel_en": "で marking the place of an action is the Tamil locative -இல்: கடையில்(-இல்) மிட்டாய் வாங்குகிறேன் (\"I buy sweets at the shop\") = 店で飴を買います.",
       "formation": "N(இடம்) + で + [N を] + V",
+      "formation_en": "N(place) + で + [N を] + V",
       "examples": [
-        { "ja": "喫茶店で コーヒーを 飲みます。", "reading": "きっさてんで コーヒーを のみます。", "romaji": "kissaten de koohii o nomimasu.", "ta": "கபேயில் காபி குடிக்கிறேன்.", "en": "I drink coffee at a café." },
-        { "ja": "教室で 日本語を 勉強します。", "reading": "きょうしつで にほんごを べんきょうします。", "romaji": "kyoushitsu de nihongo o benkyoushimasu.", "ta": "வகுப்பறையில் ஜப்பானிய மொழி படிக்கிறேன்.", "en": "I study Japanese in the classroom." },
-        { "ja": "どこで 昼御飯を 食べますか。", "reading": "どこで ひるごはんを たべますか。", "romaji": "doko de hirugohan o tabemasu ka.", "ta": "எங்கே மதிய உணவு சாப்பிடுகிறீர்கள்?", "en": "Where do you eat lunch?" },
-        { "ja": "駅で 写真を 撮りました。", "reading": "えきで しゃしんを とりました。", "romaji": "eki de shashin o torimashita.", "ta": "ஸ்டேஷனில் புகைப்படம் எடுத்தேன்.", "en": "I took a photo at the station." },
-        { "ja": "私は 銀行で 働きます。", "reading": "わたしは ぎんこうで はたらきます。", "romaji": "watashi wa ginkou de hatarakimasu.", "ta": "நான் வங்கியில் வேலை செய்கிறேன்.", "en": "I work at a bank." },
-        { "ja": "昨日は 映画館で 映画を 見ませんでした。", "reading": "きのうは えいがかんで えいがを みませんでした。", "romaji": "kinou wa eigakan de eiga o mimasen deshita.", "ta": "நேற்று திரையரங்கில் படம் பார்க்கவில்லை.", "en": "I didn't watch a movie at the cinema yesterday." }
+        {
+          "ja": "喫茶店で コーヒーを 飲みます。",
+          "reading": "きっさてんで コーヒーを のみます。",
+          "romaji": "kissaten de koohii o nomimasu.",
+          "ta": "கபேயில் காபி குடிக்கிறேன்.",
+          "en": "I drink coffee at a café."
+        },
+        {
+          "ja": "教室で 日本語を 勉強します。",
+          "reading": "きょうしつで にほんごを べんきょうします。",
+          "romaji": "kyoushitsu de nihongo o benkyoushimasu.",
+          "ta": "வகுப்பறையில் ஜப்பானிய மொழி படிக்கிறேன்.",
+          "en": "I study Japanese in the classroom."
+        },
+        {
+          "ja": "どこで 昼御飯を 食べますか。",
+          "reading": "どこで ひるごはんを たべますか。",
+          "romaji": "doko de hirugohan o tabemasu ka.",
+          "ta": "எங்கே மதிய உணவு சாப்பிடுகிறீர்கள்?",
+          "en": "Where do you eat lunch?"
+        },
+        {
+          "ja": "駅で 写真を 撮りました。",
+          "reading": "えきで しゃしんを とりました。",
+          "romaji": "eki de shashin o torimashita.",
+          "ta": "ஸ்டேஷனில் புகைப்படம் எடுத்தேன்.",
+          "en": "I took a photo at the station."
+        },
+        {
+          "ja": "私は 銀行で 働きます。",
+          "reading": "わたしは ぎんこうで はたらきます。",
+          "romaji": "watashi wa ginkou de hatarakimasu.",
+          "ta": "நான் வங்கியில் வேலை செய்கிறேன்.",
+          "en": "I work at a bank."
+        },
+        {
+          "ja": "昨日は 映画館で 映画を 見ませんでした。",
+          "reading": "きのうは えいがかんで えいがを みませんでした。",
+          "romaji": "kinou wa eigakan de eiga o mimasen deshita.",
+          "ta": "நேற்று திரையரங்கில் படம் பார்க்கவில்லை.",
+          "en": "I didn't watch a movie at the cinema yesterday."
+        }
       ],
-      "pitfalls_ta": "喫茶店へコーヒーを飲みます ✗ — へ போகும் திசைக்கு மட்டும்; செயல் நடக்கும் இடத்துக்கு で. தமிழில் இரண்டும் \"-க்கு / -இல்\" என்று பிரிந்திருப்பதை நினைவில் கொள்ளுங்கள்."
+      "pitfalls_ta": "喫茶店へコーヒーを飲みます ✗ — へ போகும் திசைக்கு மட்டும்; செயல் நடக்கும் இடத்துக்கு で. தமிழில் இரண்டும் \"-க்கு / -இல்\" என்று பிரிந்திருப்பதை நினைவில் கொள்ளுங்கள்.",
+      "pitfalls_en": "喫茶店へコーヒーを飲みます ✗. へ is only for the direction you go; for the place where an action happens, use で. Remember that Tamil also keeps these apart as \"-க்கு\" (to) and \"-இல்\" (at/in)."
     },
     {
       "id": "g06-5",
       "pattern": "V ませんか",
-      "name": { "en": "Inviting: won't you …?", "ta": "அழைப்பு: 〜 செய்யலாமா? / செய்ய மாட்டீர்களா?" },
+      "name": {
+        "en": "Inviting: won't you …?",
+        "ta": "அழைப்பு: 〜 செய்யலாமா? / செய்ய மாட்டீர்களா?"
+      },
       "explanation_ta": "ஒருவரை அழைக்க எதிர்மறை வினை + か பயன்படுத்துவது ஜப்பானிய மரியாதை முறை: 映画を見ませんか = \"படம் பார்க்கலாமா? / பார்க்க மாட்டீர்களா?\". தமிழிலும் \"வர மாட்டீர்களா?\", \"ஒரு டீ சாப்பிடலாமா?\" என்று எதிர்மறையிலோ \"-லாமா\" என்றோ மென்மையாக அழைப்பது வழக்கம்; அதே உணர்வு. இது உண்மையான எதிர்மறைக் கேள்வி அல்ல; \"செய்கிறீர்களா இல்லையா\" என்ற தகவல் கேட்பதும் அல்ல — அழைப்பு. ஏற்றுக்கொள்ள ええ、〜ましょう (ஆம், செய்வோம்) அல்லது ええ、いいですね (ஆம், நல்லது) என்று சொல்லலாம். மறுக்கும்போது நேரடியாக いいえ என்பது கடுமையாகத் தோன்றும்; すみません、ちょっと… (மன்னிக்கவும், சற்று…) என்று மென்மையாகச் சொல்வது வழக்கம்.",
+      "explanation_en": "Using a negative verb + か to invite someone is the polite Japanese way: 映画を見ませんか = \"Shall we watch a movie? / Won't you watch a movie?\". In Tamil too, we invite gently with a negative or with \"-லாமா\": \"வர மாட்டீர்களா?\" (won't you come?), \"ஒரு டீ சாப்பிடலாமா?\" (shall we have a tea?). It is the same feeling. This is not a real negative question, and it is not asking for information about whether you do it or not; it is an invitation. To accept, say ええ、〜ましょう (yes, let's do it) or ええ、いいですね (yes, that sounds good). When you decline, a direct いいえ sounds harsh; it is usual to say softly すみません、ちょっと… (sorry, it's a bit…).",
       "tamil_parallel": "படம் பார்க்கலாமா? / பார்க்க மாட்டீர்களா? = 映画を見ませんか",
+      "tamil_parallel_en": "Tamil also invites with a negative question or -லாமா: படம் பார்க்கலாமா? (\"shall we watch a film?\") / பார்க்க மாட்டீர்களா? (\"won't you watch?\") = 映画を見ませんか.",
       "formation": "V ます-அடி + ませんか  (食べます → 食べませんか)",
+      "formation_en": "V ます-stem + ませんか  (食べます → 食べませんか)",
       "examples": [
-        { "ja": "明日 映画を 見ませんか。", "reading": "あした えいがを みませんか。", "romaji": "ashita eiga o mimasen ka.", "ta": "நாளை படம் பார்க்கலாமா?", "en": "Won't you watch a movie tomorrow?" },
-        { "ja": "喫茶店で お茶を 飲みませんか。", "reading": "きっさてんで おちゃを のみませんか。", "romaji": "kissaten de ocha o nomimasen ka.", "ta": "கபேயில் தேநீர் குடிக்கலாமா?", "en": "Won't you have tea at a café?" },
-        { "ja": "日曜日に デパートへ 行きませんか。", "reading": "にちようびに デパートへ いきませんか。", "romaji": "nichiyoubi ni depaato e ikimasen ka.", "ta": "ஞாயிற்றுக்கிழமை டிபார்ட்மென்ட் ஸ்டோருக்குப் போகலாமா?", "en": "Won't you go to the department store on Sunday?" },
-        { "ja": "今日の 夜、晩御飯を 食べませんか。", "reading": "きょうの よる、ばんごはんを たべませんか。", "romaji": "kyou no yoru, bangohan o tabemasen ka.", "ta": "இன்று இரவு சேர்ந்து இரவு உணவு சாப்பிடலாமா?", "en": "Won't you have dinner with me tonight?" },
-        { "ja": "ここで 写真を 撮りませんか。", "reading": "ここで しゃしんを とりませんか。", "romaji": "koko de shashin o torimasen ka.", "ta": "இங்கே புகைப்படம் எடுக்கலாமா?", "en": "Shall we take a photo here?" }
+        {
+          "ja": "明日 映画を 見ませんか。",
+          "reading": "あした えいがを みませんか。",
+          "romaji": "ashita eiga o mimasen ka.",
+          "ta": "நாளை படம் பார்க்கலாமா?",
+          "en": "Won't you watch a movie tomorrow?"
+        },
+        {
+          "ja": "喫茶店で お茶を 飲みませんか。",
+          "reading": "きっさてんで おちゃを のみませんか。",
+          "romaji": "kissaten de ocha o nomimasen ka.",
+          "ta": "கபேயில் தேநீர் குடிக்கலாமா?",
+          "en": "Won't you have tea at a café?"
+        },
+        {
+          "ja": "日曜日に デパートへ 行きませんか。",
+          "reading": "にちようびに デパートへ いきませんか。",
+          "romaji": "nichiyoubi ni depaato e ikimasen ka.",
+          "ta": "ஞாயிற்றுக்கிழமை டிபார்ட்மென்ட் ஸ்டோருக்குப் போகலாமா?",
+          "en": "Won't you go to the department store on Sunday?"
+        },
+        {
+          "ja": "今日の 夜、晩御飯を 食べませんか。",
+          "reading": "きょうの よる、ばんごはんを たべませんか。",
+          "romaji": "kyou no yoru, bangohan o tabemasen ka.",
+          "ta": "இன்று இரவு சேர்ந்து இரவு உணவு சாப்பிடலாமா?",
+          "en": "Won't you have dinner with me tonight?"
+        },
+        {
+          "ja": "ここで 写真を 撮りませんか。",
+          "reading": "ここで しゃしんを とりませんか。",
+          "romaji": "koko de shashin o torimasen ka.",
+          "ta": "இங்கே புகைப்படம் எடுக்கலாமா?",
+          "en": "Shall we take a photo here?"
+        }
       ],
-      "pitfalls_ta": "食べますか (சாப்பிடுகிறீர்களா? — பழக்கம்/உண்மை கேட்பது) vs 食べませんか (சாப்பிடலாமா? — அழைப்பு). அழைக்கும்போது ますか பயன்படுத்தினால் \"நீங்கள் சாப்பிடுவீர்களா இல்லையா\" என்று வெறும் விசாரணையாகத் தோன்றும்."
+      "pitfalls_ta": "食べますか (சாப்பிடுகிறீர்களா? — பழக்கம்/உண்மை கேட்பது) vs 食べませんか (சாப்பிடலாமா? — அழைப்பு). அழைக்கும்போது ますか பயன்படுத்தினால் \"நீங்கள் சாப்பிடுவீர்களா இல்லையா\" என்று வெறும் விசாரணையாகத் தோன்றும்.",
+      "pitfalls_en": "食べますか (Do you eat? asks about a habit or fact) vs 食べませんか (Shall we eat? an invitation). If you use ますか when inviting, it sounds like a plain inquiry: \"Do you eat or not?\""
     },
     {
       "id": "g06-6",
       "pattern": "V ましょう",
-      "name": { "en": "Let's …", "ta": "〜 செய்வோம் (வாருங்கள்)" },
+      "name": {
+        "en": "Let's …",
+        "ta": "〜 செய்வோம் (வாருங்கள்)"
+      },
       "explanation_ta": "ましょう = \"〜 செய்வோம்\". பேசுபவரும் கேட்பவரும் சேர்ந்து செய்வதை முன்மொழியவும், ませんか அழைப்புக்கு \"சரி, செய்வோம்\" என்று பதில் சொல்லவும் பயன்படும். தமிழ் \"போவோம்\", \"சாப்பிடுவோம்\" என்ற நாம்-வடிவத்துக்கு நேர் ஒத்தது. ます நீக்கி ましょう சேர்த்தால் போதும்: 行きます → 行きましょう, 食べます → 食べましょう. ませんか கேட்பவரின் விருப்பத்தை மதிக்கும் மென்மையான அழைப்பு; ましょう ஏற்கனவே ஒப்புக்கொண்ட அல்லது இயல்பாக ஒப்புக்கொள்வார் என்ற நிலையில் சொல்லும் உறுதியான முன்மொழிவு.",
+      "explanation_en": "ましょう means \"let's do ~\". You use it to propose something the speaker and listener do together, and to answer a ませんか invitation with \"OK, let's do it\". It matches exactly the Tamil \"we\" form such as \"போவோம்\" (let's go) and \"சாப்பிடுவோம்\" (let's eat). Just remove ます and add ましょう: 行きます → 行きましょう, 食べます → 食べましょう. ませんか is a gentle invitation that respects the listener's wishes; ましょう is a firmer proposal, used when the other person has already agreed or will naturally agree.",
       "tamil_parallel": "வாருங்கள், போவோம் = 行きましょう ; சாப்பிடுவோம் = 食べましょう",
+      "tamil_parallel_en": "ましょう is the Tamil inclusive \"let's\" form ending in -ஓம்: வாருங்கள், போவோம் (\"come on, let's go\") = 行きましょう; சாப்பிடுவோம் (\"let's eat\") = 食べましょう.",
       "formation": "V ます-அடி + ましょう  (行きます → 行きましょう)",
+      "formation_en": "V ます-stem + ましょう  (行きます → 行きましょう)",
       "examples": [
-        { "ja": "昼御飯を 食べましょう。", "reading": "ひるごはんを たべましょう。", "romaji": "hirugohan o tabemashou.", "ta": "மதிய உணவு சாப்பிடுவோம்.", "en": "Let's eat lunch." },
-        { "ja": "ええ、タクシーで 行きましょう。", "reading": "ええ、タクシーで いきましょう。", "romaji": "ee, takushii de ikimashou.", "ta": "ஆம், டாக்ஸியில் போவோம்.", "en": "Yes, let's go by taxi." },
-        { "ja": "あそこで 写真を 撮りましょう。", "reading": "あそこで しゃしんを とりましょう。", "romaji": "asoko de shashin o torimashou.", "ta": "அங்கே புகைப்படம் எடுப்போம்.", "en": "Let's take a photo over there." },
-        { "ja": "今日は 日本語を 勉強しましょう。", "reading": "きょうは にほんごを べんきょうしましょう。", "romaji": "kyou wa nihongo o benkyoushimashou.", "ta": "இன்று ஜப்பானிய மொழி படிப்போம்.", "en": "Let's study Japanese today." },
-        { "ja": "「映画を 見ませんか。」「ええ、見ましょう。」", "reading": "「えいがを みませんか。」「ええ、みましょう。」", "romaji": "\"eiga o mimasen ka.\" \"ee, mimashou.\"", "ta": "\"படம் பார்க்கலாமா?\" \"ஆம், பார்ப்போம்.\"", "en": "\"Won't you watch a movie?\" \"Yes, let's.\"" }
+        {
+          "ja": "昼御飯を 食べましょう。",
+          "reading": "ひるごはんを たべましょう。",
+          "romaji": "hirugohan o tabemashou.",
+          "ta": "மதிய உணவு சாப்பிடுவோம்.",
+          "en": "Let's eat lunch."
+        },
+        {
+          "ja": "ええ、タクシーで 行きましょう。",
+          "reading": "ええ、タクシーで いきましょう。",
+          "romaji": "ee, takushii de ikimashou.",
+          "ta": "ஆம், டாக்ஸியில் போவோம்.",
+          "en": "Yes, let's go by taxi."
+        },
+        {
+          "ja": "あそこで 写真を 撮りましょう。",
+          "reading": "あそこで しゃしんを とりましょう。",
+          "romaji": "asoko de shashin o torimashou.",
+          "ta": "அங்கே புகைப்படம் எடுப்போம்.",
+          "en": "Let's take a photo over there."
+        },
+        {
+          "ja": "今日は 日本語を 勉強しましょう。",
+          "reading": "きょうは にほんごを べんきょうしましょう。",
+          "romaji": "kyou wa nihongo o benkyoushimashou.",
+          "ta": "இன்று ஜப்பானிய மொழி படிப்போம்.",
+          "en": "Let's study Japanese today."
+        },
+        {
+          "ja": "「映画を 見ませんか。」「ええ、見ましょう。」",
+          "reading": "「えいがを みませんか。」「ええ、みましょう。」",
+          "romaji": "\"eiga o mimasen ka.\" \"ee, mimashou.\"",
+          "ta": "\"படம் பார்க்கலாமா?\" \"ஆம், பார்ப்போம்.\"",
+          "en": "\"Won't you watch a movie?\" \"Yes, let's.\""
+        }
       ],
-      "pitfalls_ta": "ましょう-ஐ ஒருவர் தனியே செய்யும் செயலுக்குப் பயன்படுத்தக் கூடாது (私は食べましょう ✗). \"நாம்\" சேர்ந்து செய்வதற்கு மட்டும்."
+      "pitfalls_ta": "ましょう-ஐ ஒருவர் தனியே செய்யும் செயலுக்குப் பயன்படுத்தக் கூடாது (私は食べましょう ✗). \"நாம்\" சேர்ந்து செய்வதற்கு மட்டும்.",
+      "pitfalls_en": "Don't use ましょう for something one person does alone (私は食べましょう ✗). It is only for things \"we\" do together."
     },
     {
       "id": "g06-7",
       "pattern": "〜か (何か / 誰か)",
-      "name": { "en": "Something / someone", "ta": "ஏதோ / யாரோ — 何か / 誰か" },
+      "name": {
+        "en": "Something / someone",
+        "ta": "ஏதோ / யாரோ — 何か / 誰か"
+      },
       "explanation_ta": "கேள்விச் சொல் + か = \"குறிப்பிடப்படாத ஒன்று\": 何か = \"ஏதோ / ஏதாவது\", 誰か = \"யாரோ / யாராவது\". தமிழில் \"என்ன\" → \"ஏதோ / ஏதாவது\", \"யார்\" → \"யாரோ / யாராவது\" என்று -ஓ / -ஆவது சேர்ப்பது போலவே. கேள்வியில் \"ஏதாவது சாப்பிடுவீர்களா?\" = 何か食べますか. 何か-க்குப் பின் を பொதுவாகச் சொல்லப்படுவதில்லை: 何か飲みませんか (何かを அல்ல). \"இல்லை\" என்று பதில் சொல்ல 何も + எதிர்மறை (\"எதுவும் இல்லை\") — 5-ஆம் பாடத்தின் どこも行きません போலவே.",
+      "explanation_en": "Question word + か = \"some unspecified thing\": 何か = \"something / anything\", 誰か = \"someone / anyone\". This is like Tamil adding \"-ஓ / -ஆவது\": \"என்ன\" (what) → \"ஏதோ / ஏதாவது\" (something / anything), \"யார்\" (who) → \"யாரோ / யாராவது\" (someone / anyone). In a question, \"Will you eat something?\" = 何か食べますか. After 何か, を is usually not said: 何か飲みませんか (not 何かを). To answer \"no, nothing\", use 何も + negative (\"nothing at all\"), just like どこも行きません in Lesson 5.",
       "tamil_parallel": "ஏதாவது குடிக்கலாமா? = 何か飲みませんか ; யாரோ வந்தார்கள் = 誰か来ました",
+      "tamil_parallel_en": "Tamil adds -ஓ / -ஆவது to question words, and Japanese adds か: ஏதாவது குடிக்கலாமா? (\"shall we drink something?\") = 何か飲みませんか; யாரோ வந்தார்கள் (\"someone came\") = 誰か来ました.",
       "formation": "何 / 誰 + か (+ V)  — を பெரும்பாலும் விடப்படும்",
+      "formation_en": "何 / 誰 + か (+ V)  (を is usually dropped)",
       "examples": [
-        { "ja": "何か 飲みませんか。", "reading": "なにか のみませんか。", "romaji": "nanika nomimasen ka.", "ta": "ஏதாவது குடிக்கலாமா?", "en": "Won't you drink something?" },
-        { "ja": "喫茶店で 何か 食べましょう。", "reading": "きっさてんで なにか たべましょう。", "romaji": "kissaten de nanika tabemashou.", "ta": "கபேயில் ஏதாவது சாப்பிடுவோம்.", "en": "Let's eat something at a café." },
-        { "ja": "昨日 誰か 来ましたか。", "reading": "きのう だれか きましたか。", "romaji": "kinou dareka kimashita ka.", "ta": "நேற்று யாராவது வந்தார்களா?", "en": "Did anyone come yesterday?" },
-        { "ja": "誰か 写真を 撮りました。", "reading": "だれか しゃしんを とりました。", "romaji": "dareka shashin o torimashita.", "ta": "யாரோ புகைப்படம் எடுத்தார்கள்.", "en": "Someone took a photo." },
-        { "ja": "「何か 買いましたか。」「いいえ、何も 買いませんでした。」", "reading": "「なにか かいましたか。」「いいえ、なにも かいませんでした。」", "romaji": "\"nanika kaimashita ka.\" \"iie, nani mo kaimasen deshita.\"", "ta": "\"ஏதாவது வாங்கினீர்களா?\" \"இல்லை, எதுவும் வாங்கவில்லை.\"", "en": "\"Did you buy something?\" \"No, I didn't buy anything.\"" }
+        {
+          "ja": "何か 飲みませんか。",
+          "reading": "なにか のみませんか。",
+          "romaji": "nanika nomimasen ka.",
+          "ta": "ஏதாவது குடிக்கலாமா?",
+          "en": "Won't you drink something?"
+        },
+        {
+          "ja": "喫茶店で 何か 食べましょう。",
+          "reading": "きっさてんで なにか たべましょう。",
+          "romaji": "kissaten de nanika tabemashou.",
+          "ta": "கபேயில் ஏதாவது சாப்பிடுவோம்.",
+          "en": "Let's eat something at a café."
+        },
+        {
+          "ja": "昨日 誰か 来ましたか。",
+          "reading": "きのう だれか きましたか。",
+          "romaji": "kinou dareka kimashita ka.",
+          "ta": "நேற்று யாராவது வந்தார்களா?",
+          "en": "Did anyone come yesterday?"
+        },
+        {
+          "ja": "誰か 写真を 撮りました。",
+          "reading": "だれか しゃしんを とりました。",
+          "romaji": "dareka shashin o torimashita.",
+          "ta": "யாரோ புகைப்படம் எடுத்தார்கள்.",
+          "en": "Someone took a photo."
+        },
+        {
+          "ja": "「何か 買いましたか。」「いいえ、何も 買いませんでした。」",
+          "reading": "「なにか かいましたか。」「いいえ、なにも かいませんでした。」",
+          "romaji": "\"nanika kaimashita ka.\" \"iie, nani mo kaimasen deshita.\"",
+          "ta": "\"ஏதாவது வாங்கினீர்களா?\" \"இல்லை, எதுவும் வாங்கவில்லை.\"",
+          "en": "\"Did you buy something?\" \"No, I didn't buy anything.\""
+        }
       ],
-      "pitfalls_ta": "何か (ஏதாவது — உடன்பாடு/கேள்வி) vs 何も (எதுவும் — எதிர்மறையுடன் மட்டும்) குழப்பம் பொதுவானது. 何も食べます ✗; 何も食べません ✓."
+      "pitfalls_ta": "何か (ஏதாவது — உடன்பாடு/கேள்வி) vs 何も (எதுவும் — எதிர்மறையுடன் மட்டும்) குழப்பம் பொதுவானது. 何も食べます ✗; 何も食べません ✓.",
+      "pitfalls_en": "Mixing up 何か (something, in positive sentences and questions) and 何も (nothing, only with a negative) is common. 何も食べます ✗; 何も食べません ✓."
     }
   ],
   "vocab_ids": [
-    "n5-v-013", "n5-v-038", "n5-v-088", "n5-v-089", "n5-v-103", "n5-v-108", "n5-v-115", "n5-v-149", "n5-v-155", "n5-v-193",
-    "n5-v-197", "n5-v-203", "n5-v-247", "n5-v-251", "n5-v-265", "n5-v-311", "n5-v-343", "n5-v-392", "n5-v-393", "n5-v-396",
-    "n5-v-474", "n5-v-514", "n5-v-515", "n5-v-555", "n5-v-574", "n5-v-638", "n5-v-639", "n5-v-648", "n5-v-677", "n5-v-690"
+    "n5-v-013",
+    "n5-v-038",
+    "n5-v-088",
+    "n5-v-089",
+    "n5-v-103",
+    "n5-v-108",
+    "n5-v-115",
+    "n5-v-149",
+    "n5-v-155",
+    "n5-v-193",
+    "n5-v-197",
+    "n5-v-203",
+    "n5-v-247",
+    "n5-v-251",
+    "n5-v-265",
+    "n5-v-311",
+    "n5-v-343",
+    "n5-v-392",
+    "n5-v-393",
+    "n5-v-396",
+    "n5-v-474",
+    "n5-v-514",
+    "n5-v-515",
+    "n5-v-555",
+    "n5-v-574",
+    "n5-v-638",
+    "n5-v-639",
+    "n5-v-648",
+    "n5-v-677",
+    "n5-v-690"
   ],
   "test": {
     "passMark": 0.7,
     "items": [
-      { "id": "L06-q01", "type": "kanji_reading", "sentence": "毎朝 ＿牛乳＿を 飲みます。", "target": "牛乳", "options": ["きゅうにゅう", "ぎゅうにゅ", "ぎゅうにゅう", "ぎゅにゅう"], "answer": 2, "explanation_ta": "牛乳 = ぎゅうにゅう (பால்). இரண்டு நீண்ட உயிர்கள் (ぎゅう・にゅう) உள்ளன; ஒன்றை விட்டாலும் தவறு. きゅう என்று ஒலியழுத்தம் இல்லாமல் படிப்பதும் தவறு." },
-      { "id": "L06-q02", "type": "kanji_reading", "sentence": "昨日 ＿映画＿を 見ました。", "target": "映画", "options": ["えいが", "えが", "えいか", "ええが"], "answer": 0, "explanation_ta": "映画 = えいが (திரைப்படம்). 映 = えい என்று நீண்ட ஒலி; 画 = が (か அல்ல)." },
-      { "id": "L06-q03", "type": "kanji_reading", "sentence": "＿喫茶店＿で コーヒーを 飲みます。", "target": "喫茶店", "options": ["きさてん", "きっちゃてん", "きっさでん", "きっさてん"], "answer": 3, "explanation_ta": "喫茶店 = きっさてん (கபே). 喫 = きっ என்ற சிறிய っ முக்கியம்; 茶 இங்கே さ என்று படிக்கிறோம் (お茶-இல் ちゃ என்பது வேறு); 店 = てん." },
-      { "id": "L06-q04", "type": "orthography", "sentence": "＿みず＿を 飲みます。", "target": "みず", "options": ["氷", "水", "永", "木"], "answer": 1, "explanation_ta": "みず = 水 (தண்ணீர்). 氷 (こおり = பனிக்கட்டி) மற்றும் 永 ஒரே மாதிரி தோற்றம் தரும் கஞ்சிகள்; மேல் புள்ளி/கோடு சேர்க்காமல் எழுதுவதே 水." },
-      { "id": "L06-q05", "type": "orthography", "sentence": "友達と ＿しゃしん＿を 撮りました。", "target": "しゃしん", "options": ["写直", "与真", "写具", "写真"], "answer": 3, "explanation_ta": "しゃしん = 写真 (புகைப்படம்). 真 என்ற இரண்டாம் கஞ்சியை 直 அல்லது 具 என்று மாற்றி எழுதுவது பொதுவான தவறு." },
-      { "id": "L06-q06", "type": "vocab_context", "sentence": "毎朝 七時に （　　）を 食べます。", "options": ["飲み物", "晩御飯", "朝御飯", "お茶"], "answer": 2, "explanation_ta": "毎朝 (தினமும் காலை) என்பதால் காலை உணவு = 朝御飯. 晩御飯 இரவு உணவு; 飲み物・お茶 குடிப்பது, 食べます-உடன் வராது." },
-      { "id": "L06-q07", "type": "vocab_context", "sentence": "喫茶店で コーヒーを （　　）。", "options": ["食べます", "飲みます", "見ます", "読みます"], "answer": 1, "explanation_ta": "காபி குடிப்பது = 飲みます. தமிழில் \"டீ சாப்பிடலாம்\" என்று சொல்வதால் 食べます என்று தவறாகத் தேர்வு செய்ய வேண்டாம்; ஜப்பானிய மொழியில் பானங்களுக்கு 飲む மட்டும்." },
-      { "id": "L06-q08", "type": "vocab_context", "sentence": "日曜日に 映画館で 映画を （　　）。", "options": ["聞きます", "読みます", "見ます", "買います"], "answer": 2, "explanation_ta": "படம் பார்ப்பது = 映画を見ます. 聞きます கேட்பது (音楽, ラジオ); 読みます படிப்பது (本)." },
-      { "id": "L06-q09", "type": "vocab_context", "sentence": "駅で 写真を （　　）。", "options": ["書きます", "します", "飲みます", "撮ります"], "answer": 3, "explanation_ta": "புகைப்படம் எடுப்பது = 写真を撮ります. தமிழில் \"எடுக்க\" என்பதால் வேறு வினையைத் தேடாதீர்கள்; 写真-உடன் எப்போதும் 撮る." },
-      { "id": "L06-q10", "type": "vocab_context", "sentence": "店で 飴と （　　）を 買いました。", "options": ["電車", "お菓子", "教室", "映画館"], "answer": 1, "explanation_ta": "கடையில் மிட்டாயோடு வாங்குவது தின்பண்டம் = お菓子. மற்றவை (電車, 教室, 映画館) கடையில் வாங்கும் பொருட்கள் அல்ல." },
-      { "id": "L06-q11", "type": "vocab_context", "sentence": "毎晩 日本語の 本を （　　）。", "options": ["読みます", "書きます", "聞きます", "撮ります"], "answer": 0, "explanation_ta": "புத்தகம் படிப்பது = 本を読みます. 書きます எழுதுவது — \"படிக்க\" என்ற தமிழ்ச்சொல் படிப்பு/வாசிப்பு இரண்டையும் குறிப்பதால் குழப்பம் வரலாம்; 本-உடன் 読む." },
-      { "id": "L06-q12", "type": "paraphrase", "sentence": "七時に 晩御飯を 食べました。", "options": ["七時に 朝御飯を 食べました。", "七時に 昼御飯を 食べました。", "七時に 夕飯を 食べました。", "七時に お菓子を 食べました。"], "answer": 2, "explanation_ta": "晩御飯 = 夕飯 — இரண்டும் இரவு/மாலை உணவு. 朝御飯 காலை, 昼御飯 மதியம்." },
-      { "id": "L06-q13", "type": "paraphrase", "sentence": "明日 映画を 見ませんか。", "options": ["明日 映画を 見ましたか。", "明日 映画を 見ましょう。", "明日 映画を 見ません。", "明日 映画を 見ますか。"], "answer": 1, "explanation_ta": "見ませんか என்பது அழைப்பு (பார்க்கலாமா?); அதற்கு நெருக்கமான பொருள் 見ましょう (பார்ப்போம்). 見ますか வெறும் விசாரணை; 見ません எதிர்மறைக் கூற்று." },
-      { "id": "L06-q14", "type": "paraphrase", "sentence": "店で コーヒーと お茶を 買いました。", "options": ["店で 食べ物を 買いました。", "店で 本を 買いました。", "店で 写真を 買いました。", "店で 飲み物を 買いました。"], "answer": 3, "explanation_ta": "コーヒー, お茶 இரண்டும் பானங்கள் = 飲み物. 食べ物 (உணவுப் பொருள்) என்று தேர்வு செய்வது பொதுவான தவறு." },
-      { "id": "L06-q15", "type": "grammar_form", "sentence": "毎朝 御飯（　　）食べます。", "options": ["に", "を", "で", "へ"], "answer": 1, "explanation_ta": "食べます-இன் செயப்படுபொருள் 御飯 → を (தமிழ் \"-ஐ\"). に நேரம்/இலக்கு, で இடம்; இங்கே பொருந்தாது." },
-      { "id": "L06-q16", "type": "grammar_form", "sentence": "喫茶店（　　）コーヒーを 飲みます。", "options": ["へ", "に", "で", "を"], "answer": 2, "explanation_ta": "குடிக்கும் செயல் நடக்கும் இடம் → で (\"கபேயில்\"). へ போகும் திசைக்கு மட்டும் — 喫茶店へ飲みます ✗." },
-      { "id": "L06-q17", "type": "grammar_form", "sentence": "七時（　　）晩御飯を 食べます。", "options": ["に", "を", "で", "と"], "answer": 0, "explanation_ta": "குறிப்பிட்ட நேரம் (七時) → に (4-ஆம் பாடம்; தமிழ் \"ஏழு மணிக்கு\"). で இடத்துக்கு, を பொருளுக்கு." },
-      { "id": "L06-q18", "type": "grammar_form", "sentence": "「明日 映画を （　　）。」「ええ、見ましょう。」", "options": ["見ますか", "見ません", "見ませんか", "見ました"], "answer": 2, "explanation_ta": "பதில் 見ましょう (பார்ப்போம்) என்பதால் கேள்வி அழைப்பு = 見ませんか. 見ますか என்றால் \"பார்க்கிறீர்களா?\" என்ற விசாரணை; அதற்கு はい、見ます என்றே பதில் வரும்." },
-      { "id": "L06-q19", "type": "grammar_form", "sentence": "「昼御飯を 食べませんか。」「ええ、（　　）。」", "options": ["食べます", "食べません", "食べましたか", "食べましょう"], "answer": 3, "explanation_ta": "ませんか அழைப்பை ஏற்றுக்கொள்ள ましょう (சாப்பிடுவோம்). ええ、食べます என்பது இயல்பான பதில் அல்ல — \"நான் சாப்பிடுகிறேன்\" என்று தகவலாகத் தோன்றும்." },
-      { "id": "L06-q20", "type": "grammar_form", "sentence": "日曜日に （　　）を しますか。", "options": ["なに", "なん", "なにか", "なんか"], "answer": 0, "explanation_ta": "を-க்கு முன் 何 = なに. なん என்பது です・時・人 போன்றவற்றுக்கு முன் மட்டும். なにか (ஏதாவது) என்றால் を சேர்க்கமாட்டோம்; மேலும் \"என்ன?\" என்ற கேள்விப் பொருளும் வராது." },
-      { "id": "L06-q21", "type": "grammar_form", "sentence": "「何か 飲みませんか。」「ええ、お茶を （　　）。」", "options": ["飲みましょう", "飲みませんか", "飲みますか", "飲みません"], "answer": 0, "explanation_ta": "ええ என்று ஒப்புக்கொண்ட பின் \"தேநீர் குடிப்போம்\" = 飲みましょう. மீண்டும் 飲みませんか என்று கேட்பது பதில் ஆகாது." },
-      { "id": "L06-q22", "type": "sentence_order", "before": "毎朝", "chunks": ["駅の", "喫茶店で", "コーヒーを", "飲みます"], "star": 2, "after": "。", "explanation_ta": "வரிசை: இடம் (駅の喫茶店で) → பொருள் (コーヒーを) → வினை (飲みます). ★ இடத்தில் コーヒーを. の இணைக்கும் 駅の முதலில் வர வேண்டும்." },
-      { "id": "L06-q23", "type": "sentence_order", "before": "日曜日に", "chunks": ["友達と", "映画館で", "映画を", "見ませんか"], "star": 2, "after": "。", "explanation_ta": "நேரம் → யாருடன் (友達と) → இடம் (映画館で) → பொருள் (映画を) → வினை. ★ இடத்தில் 映画を; அழைப்பு 見ませんか கடைசியில்." },
-      { "id": "L06-q24", "type": "sentence_order", "before": "昨日は", "chunks": ["店で", "何も", "買いませんでした"], "star": 1, "after": "。", "explanation_ta": "店で (இடம்) → 何も (எதுவும்) → 買いませんでした (எதிர்மறைக் கடந்த காலம்). ★ இடத்தில் 何も; 何も எப்போதும் எதிர்மறை வினையோடு வரும்." },
-      { "id": "L06-q25", "type": "passage_cloze", "passage": "私は 毎朝 六時に 起きます。七時に 朝御飯［1］食べます。八時に 電車で 銀行へ 行きます。銀行［2］五時まで 働きます。日曜日は 友達と 映画を［3］。", "blanks": [
-        { "options": ["を", "に", "で", "へ"], "answer": 0 },
-        { "options": ["へ", "を", "で", "に"], "answer": 2 },
-        { "options": ["見ません", "見ましょう", "見ます", "見ませんか"], "answer": 2 }
-      ], "explanation_ta": "［1］食べます-இன் செயப்படுபொருள் → を. ［2］銀行へ行きます (திசை へ) என்ற பின் வேலை செய்யும் இடம் → で. ［3］தினசரி வழக்கத்தைச் சொல்லும் கூற்று → 見ます; 見ましょう・見ませんか அழைப்பு வடிவங்கள், இங்கே பொருந்தாது." }
+      {
+        "id": "L06-q01",
+        "type": "kanji_reading",
+        "sentence": "毎朝 ＿牛乳＿を 飲みます。",
+        "target": "牛乳",
+        "options": [
+          "きゅうにゅう",
+          "ぎゅうにゅ",
+          "ぎゅうにゅう",
+          "ぎゅにゅう"
+        ],
+        "answer": 2,
+        "explanation_ta": "牛乳 = ぎゅうにゅう (பால்). இரண்டு நீண்ட உயிர்கள் (ぎゅう・にゅう) உள்ளன; ஒன்றை விட்டாலும் தவறு. きゅう என்று ஒலியழுத்தம் இல்லாமல் படிப்பதும் தவறு.",
+        "explanation_en": "牛乳 = ぎゅうにゅう (பால், milk). There are two long vowels (ぎゅう and にゅう); dropping either one is wrong. Reading it as きゅう without the voiced mark is also wrong."
+      },
+      {
+        "id": "L06-q02",
+        "type": "kanji_reading",
+        "sentence": "昨日 ＿映画＿を 見ました。",
+        "target": "映画",
+        "options": [
+          "えいが",
+          "えが",
+          "えいか",
+          "ええが"
+        ],
+        "answer": 0,
+        "explanation_ta": "映画 = えいが (திரைப்படம்). 映 = えい என்று நீண்ட ஒலி; 画 = が (か அல்ல).",
+        "explanation_en": "映画 = えいが (திரைப்படம், movie). 映 is the long sound えい; 画 is が (not か)."
+      },
+      {
+        "id": "L06-q03",
+        "type": "kanji_reading",
+        "sentence": "＿喫茶店＿で コーヒーを 飲みます。",
+        "target": "喫茶店",
+        "options": [
+          "きさてん",
+          "きっちゃてん",
+          "きっさでん",
+          "きっさてん"
+        ],
+        "answer": 3,
+        "explanation_ta": "喫茶店 = きっさてん (கபே). 喫 = きっ என்ற சிறிய っ முக்கியம்; 茶 இங்கே さ என்று படிக்கிறோம் (お茶-இல் ちゃ என்பது வேறு); 店 = てん.",
+        "explanation_en": "喫茶店 = きっさてん (கபே, cafe). The small っ in 喫 = きっ is important; here 茶 is read さ (the ちゃ in お茶 is a different reading); 店 = てん."
+      },
+      {
+        "id": "L06-q04",
+        "type": "orthography",
+        "sentence": "＿みず＿を 飲みます。",
+        "target": "みず",
+        "options": [
+          "氷",
+          "水",
+          "永",
+          "木"
+        ],
+        "answer": 1,
+        "explanation_ta": "みず = 水 (தண்ணீர்). 氷 (こおり = பனிக்கட்டி) மற்றும் 永 ஒரே மாதிரி தோற்றம் தரும் கஞ்சிகள்; மேல் புள்ளி/கோடு சேர்க்காமல் எழுதுவதே 水.",
+        "explanation_en": "みず = 水 (தண்ணீர், water). 氷 (こおり = பனிக்கட்டி, ice) and 永 are kanji that look similar; 水 is the one written without the extra dot or stroke on top."
+      },
+      {
+        "id": "L06-q05",
+        "type": "orthography",
+        "sentence": "友達と ＿しゃしん＿を 撮りました。",
+        "target": "しゃしん",
+        "options": [
+          "写直",
+          "与真",
+          "写具",
+          "写真"
+        ],
+        "answer": 3,
+        "explanation_ta": "しゃしん = 写真 (புகைப்படம்). 真 என்ற இரண்டாம் கஞ்சியை 直 அல்லது 具 என்று மாற்றி எழுதுவது பொதுவான தவறு.",
+        "explanation_en": "しゃしん = 写真 (புகைப்படம், photo). Writing the second kanji 真 as 直 or 具 is a common mistake."
+      },
+      {
+        "id": "L06-q06",
+        "type": "vocab_context",
+        "sentence": "毎朝 七時に （　　）を 食べます。",
+        "options": [
+          "飲み物",
+          "晩御飯",
+          "朝御飯",
+          "お茶"
+        ],
+        "answer": 2,
+        "explanation_ta": "毎朝 (தினமும் காலை) என்பதால் காலை உணவு = 朝御飯. 晩御飯 இரவு உணவு; 飲み物・お茶 குடிப்பது, 食べます-உடன் வராது.",
+        "explanation_en": "Because of 毎朝 (தினமும் காலை, every morning), the answer is breakfast = 朝御飯 (காலை உணவு). 晩御飯 is dinner; 飲み物 and お茶 are things you drink, so they don't go with 食べます."
+      },
+      {
+        "id": "L06-q07",
+        "type": "vocab_context",
+        "sentence": "喫茶店で コーヒーを （　　）。",
+        "options": [
+          "食べます",
+          "飲みます",
+          "見ます",
+          "読みます"
+        ],
+        "answer": 1,
+        "explanation_ta": "காபி குடிப்பது = 飲みます. தமிழில் \"டீ சாப்பிடலாம்\" என்று சொல்வதால் 食べます என்று தவறாகத் தேர்வு செய்ய வேண்டாம்; ஜப்பானிய மொழியில் பானங்களுக்கு 飲む மட்டும்.",
+        "explanation_en": "Drinking coffee = 飲みます (குடிக்கிறேன், drink). In Tamil we say \"டீ சாப்பிடலாம்\" (let's \"eat\" tea), so don't wrongly pick 食べます; in Japanese, drinks only take 飲む."
+      },
+      {
+        "id": "L06-q08",
+        "type": "vocab_context",
+        "sentence": "日曜日に 映画館で 映画を （　　）。",
+        "options": [
+          "聞きます",
+          "読みます",
+          "見ます",
+          "買います"
+        ],
+        "answer": 2,
+        "explanation_ta": "படம் பார்ப்பது = 映画を見ます. 聞きます கேட்பது (音楽, ラジオ); 読みます படிப்பது (本).",
+        "explanation_en": "Watching a movie = 映画を見ます (பார்க்கிறேன், watch). 聞きます is listen (音楽, ラジオ); 読みます is read (本)."
+      },
+      {
+        "id": "L06-q09",
+        "type": "vocab_context",
+        "sentence": "駅で 写真を （　　）。",
+        "options": [
+          "書きます",
+          "します",
+          "飲みます",
+          "撮ります"
+        ],
+        "answer": 3,
+        "explanation_ta": "புகைப்படம் எடுப்பது = 写真を撮ります. தமிழில் \"எடுக்க\" என்பதால் வேறு வினையைத் தேடாதீர்கள்; 写真-உடன் எப்போதும் 撮る.",
+        "explanation_en": "Taking a photo = 写真を撮ります (எடுக்கிறேன், take). Don't look for another verb just because Tamil says \"எடுக்க\" (take); 写真 always goes with 撮る."
+      },
+      {
+        "id": "L06-q10",
+        "type": "vocab_context",
+        "sentence": "店で 飴と （　　）を 買いました。",
+        "options": [
+          "電車",
+          "お菓子",
+          "教室",
+          "映画館"
+        ],
+        "answer": 1,
+        "explanation_ta": "கடையில் மிட்டாயோடு வாங்குவது தின்பண்டம் = お菓子. மற்றவை (電車, 教室, 映画館) கடையில் வாங்கும் பொருட்கள் அல்ல.",
+        "explanation_en": "Something you buy at a shop along with candy is a snack = お菓子 (தின்பண்டம், snack). The others (電車, 教室, 映画館) are not things you buy at a shop."
+      },
+      {
+        "id": "L06-q11",
+        "type": "vocab_context",
+        "sentence": "毎晩 日本語の 本を （　　）。",
+        "options": [
+          "読みます",
+          "書きます",
+          "聞きます",
+          "撮ります"
+        ],
+        "answer": 0,
+        "explanation_ta": "புத்தகம் படிப்பது = 本を読みます. 書きます எழுதுவது — \"படிக்க\" என்ற தமிழ்ச்சொல் படிப்பு/வாசிப்பு இரண்டையும் குறிப்பதால் குழப்பம் வரலாம்; 本-உடன் 読む.",
+        "explanation_en": "Reading a book = 本を読みます (படிக்கிறேன், read). 書きます is write. The Tamil word \"படிக்க\" means both study and read, which can cause confusion; with 本, use 読む."
+      },
+      {
+        "id": "L06-q12",
+        "type": "paraphrase",
+        "sentence": "七時に 晩御飯を 食べました。",
+        "options": [
+          "七時に 朝御飯を 食べました。",
+          "七時に 昼御飯を 食べました。",
+          "七時に 夕飯を 食べました。",
+          "七時に お菓子を 食べました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "晩御飯 = 夕飯 — இரண்டும் இரவு/மாலை உணவு. 朝御飯 காலை, 昼御飯 மதியம்.",
+        "explanation_en": "晩御飯 = 夕飯; both mean the evening or night meal (இரவு உணவு, dinner). 朝御飯 is breakfast, 昼御飯 is lunch."
+      },
+      {
+        "id": "L06-q13",
+        "type": "paraphrase",
+        "sentence": "明日 映画を 見ませんか。",
+        "options": [
+          "明日 映画を 見ましたか。",
+          "明日 映画を 見ましょう。",
+          "明日 映画を 見ません。",
+          "明日 映画を 見ますか。"
+        ],
+        "answer": 1,
+        "explanation_ta": "見ませんか என்பது அழைப்பு (பார்க்கலாமா?); அதற்கு நெருக்கமான பொருள் 見ましょう (பார்ப்போம்). 見ますか வெறும் விசாரணை; 見ません எதிர்மறைக் கூற்று.",
+        "explanation_en": "見ませんか is an invitation (பார்க்கலாமா?, shall we watch?); the closest meaning is 見ましょう (பார்ப்போம், let's watch). 見ますか is just an inquiry; 見ません is a negative statement."
+      },
+      {
+        "id": "L06-q14",
+        "type": "paraphrase",
+        "sentence": "店で コーヒーと お茶を 買いました。",
+        "options": [
+          "店で 食べ物を 買いました。",
+          "店で 本を 買いました。",
+          "店で 写真を 買いました。",
+          "店で 飲み物を 買いました。"
+        ],
+        "answer": 3,
+        "explanation_ta": "コーヒー, お茶 இரண்டும் பானங்கள் = 飲み物. 食べ物 (உணவுப் பொருள்) என்று தேர்வு செய்வது பொதுவான தவறு.",
+        "explanation_en": "コーヒー and お茶 are both drinks = 飲み物 (பானம், drink). Choosing 食べ物 (உணவுப் பொருள், food) is a common mistake."
+      },
+      {
+        "id": "L06-q15",
+        "type": "grammar_form",
+        "sentence": "毎朝 御飯（　　）食べます。",
+        "options": [
+          "に",
+          "を",
+          "で",
+          "へ"
+        ],
+        "answer": 1,
+        "explanation_ta": "食べます-இன் செயப்படுபொருள் 御飯 → を (தமிழ் \"-ஐ\"). に நேரம்/இலக்கு, で இடம்; இங்கே பொருந்தாது.",
+        "explanation_en": "The object of 食べます is 御飯 → を (the Tamil \"-ஐ\"). に is for time or destination and で is for place; they don't fit here."
+      },
+      {
+        "id": "L06-q16",
+        "type": "grammar_form",
+        "sentence": "喫茶店（　　）コーヒーを 飲みます。",
+        "options": [
+          "へ",
+          "に",
+          "で",
+          "を"
+        ],
+        "answer": 2,
+        "explanation_ta": "குடிக்கும் செயல் நடக்கும் இடம் → で (\"கபேயில்\"). へ போகும் திசைக்கு மட்டும் — 喫茶店へ飲みます ✗.",
+        "explanation_en": "The place where the drinking happens → で (\"கபேயில்\", at the cafe). へ is only for the direction you go; 喫茶店へ飲みます ✗."
+      },
+      {
+        "id": "L06-q17",
+        "type": "grammar_form",
+        "sentence": "七時（　　）晩御飯を 食べます。",
+        "options": [
+          "に",
+          "を",
+          "で",
+          "と"
+        ],
+        "answer": 0,
+        "explanation_ta": "குறிப்பிட்ட நேரம் (七時) → に (4-ஆம் பாடம்; தமிழ் \"ஏழு மணிக்கு\"). で இடத்துக்கு, を பொருளுக்கு.",
+        "explanation_en": "A specific time (七時) → に (Lesson 4; Tamil \"ஏழு மணிக்கு\", at seven o'clock). で is for place, を is for the object."
+      },
+      {
+        "id": "L06-q18",
+        "type": "grammar_form",
+        "sentence": "「明日 映画を （　　）。」「ええ、見ましょう。」",
+        "options": [
+          "見ますか",
+          "見ません",
+          "見ませんか",
+          "見ました"
+        ],
+        "answer": 2,
+        "explanation_ta": "பதில் 見ましょう (பார்ப்போம்) என்பதால் கேள்வி அழைப்பு = 見ませんか. 見ますか என்றால் \"பார்க்கிறீர்களா?\" என்ற விசாரணை; அதற்கு はい、見ます என்றே பதில் வரும்.",
+        "explanation_en": "The answer is 見ましょう (பார்ப்போம், let's watch), so the question is the invitation 見ませんか. 見ますか would be the inquiry \"Do you watch?\", and its answer would be はい、見ます."
+      },
+      {
+        "id": "L06-q19",
+        "type": "grammar_form",
+        "sentence": "「昼御飯を 食べませんか。」「ええ、（　　）。」",
+        "options": [
+          "食べます",
+          "食べません",
+          "食べましたか",
+          "食べましょう"
+        ],
+        "answer": 3,
+        "explanation_ta": "ませんか அழைப்பை ஏற்றுக்கொள்ள ましょう (சாப்பிடுவோம்). ええ、食べます என்பது இயல்பான பதில் அல்ல — \"நான் சாப்பிடுகிறேன்\" என்று தகவலாகத் தோன்றும்.",
+        "explanation_en": "To accept a ませんか invitation, use ましょう (சாப்பிடுவோம், let's eat). ええ、食べます is not a natural reply; it sounds like giving information: \"I eat.\""
+      },
+      {
+        "id": "L06-q20",
+        "type": "grammar_form",
+        "sentence": "日曜日に （　　）を しますか。",
+        "options": [
+          "なに",
+          "なん",
+          "なにか",
+          "なんか"
+        ],
+        "answer": 0,
+        "explanation_ta": "を-க்கு முன் 何 = なに. なん என்பது です・時・人 போன்றவற்றுக்கு முன் மட்டும். なにか (ஏதாவது) என்றால் を சேர்க்கமாட்டோம்; மேலும் \"என்ன?\" என்ற கேள்விப் பொருளும் வராது.",
+        "explanation_en": "Before を, 何 is read なに. なん is only used before words such as です, 時 and 人. With なにか (ஏதாவது, something) we don't add を, and it also doesn't have the question meaning \"what?\"."
+      },
+      {
+        "id": "L06-q21",
+        "type": "grammar_form",
+        "sentence": "「何か 飲みませんか。」「ええ、お茶を （　　）。」",
+        "options": [
+          "飲みましょう",
+          "飲みませんか",
+          "飲みますか",
+          "飲みません"
+        ],
+        "answer": 0,
+        "explanation_ta": "ええ என்று ஒப்புக்கொண்ட பின் \"தேநீர் குடிப்போம்\" = 飲みましょう. மீண்டும் 飲みませんか என்று கேட்பது பதில் ஆகாது.",
+        "explanation_en": "After agreeing with ええ, \"let's drink tea\" = 飲みましょう (குடிப்போம், let's drink). Asking 飲みませんか again is not an answer."
+      },
+      {
+        "id": "L06-q22",
+        "type": "sentence_order",
+        "before": "毎朝",
+        "chunks": [
+          "駅の",
+          "喫茶店で",
+          "コーヒーを",
+          "飲みます"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "வரிசை: இடம் (駅の喫茶店で) → பொருள் (コーヒーを) → வினை (飲みます). ★ இடத்தில் コーヒーを. の இணைக்கும் 駅の முதலில் வர வேண்டும்.",
+        "explanation_en": "Order: place (駅の喫茶店で) → object (コーヒーを) → verb (飲みます). The ★ slot is コーヒーを. 駅の, joined by の, must come first."
+      },
+      {
+        "id": "L06-q23",
+        "type": "sentence_order",
+        "before": "日曜日に",
+        "chunks": [
+          "友達と",
+          "映画館で",
+          "映画を",
+          "見ませんか"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "நேரம் → யாருடன் (友達と) → இடம் (映画館で) → பொருள் (映画を) → வினை. ★ இடத்தில் 映画を; அழைப்பு 見ませんか கடைசியில்.",
+        "explanation_en": "Time → with whom (友達と) → place (映画館で) → object (映画を) → verb. The ★ slot is 映画を; the invitation 見ませんか comes last."
+      },
+      {
+        "id": "L06-q24",
+        "type": "sentence_order",
+        "before": "昨日は",
+        "chunks": [
+          "店で",
+          "何も",
+          "買いませんでした"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "店で (இடம்) → 何も (எதுவும்) → 買いませんでした (எதிர்மறைக் கடந்த காலம்). ★ இடத்தில் 何も; 何も எப்போதும் எதிர்மறை வினையோடு வரும்.",
+        "explanation_en": "店で (place) → 何も (எதுவும், nothing) → 買いませんでした (negative past). The ★ slot is 何も; 何も always comes with a negative verb."
+      },
+      {
+        "id": "L06-q25",
+        "type": "passage_cloze",
+        "passage": "私は 毎朝 六時に 起きます。七時に 朝御飯［1］食べます。八時に 電車で 銀行へ 行きます。銀行［2］五時まで 働きます。日曜日は 友達と 映画を［3］。",
+        "blanks": [
+          {
+            "options": [
+              "を",
+              "に",
+              "で",
+              "へ"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "へ",
+              "を",
+              "で",
+              "に"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "見ません",
+              "見ましょう",
+              "見ます",
+              "見ませんか"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］食べます-இன் செயப்படுபொருள் → を. ［2］銀行へ行きます (திசை へ) என்ற பின் வேலை செய்யும் இடம் → で. ［3］தினசரி வழக்கத்தைச் சொல்லும் கூற்று → 見ます; 見ましょう・見ませんか அழைப்பு வடிவங்கள், இங்கே பொருந்தாது.",
+        "explanation_en": "［1］The object of 食べます → を. ［2］After 銀行へ行きます (direction へ), the place where you work → で. ［3］A statement about a daily routine → 見ます; 見ましょう and 見ませんか are invitation forms and don't fit here."
+      }
     ]
   }
 }

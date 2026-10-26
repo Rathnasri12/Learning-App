@@ -88,10 +88,10 @@ export default function Results({
           <h1 className={cx("text-3xl font-black", passed ? "text-green" : "text-red")}>
             {passed ? "合格！ Passed" : "もう一度 · Try again"}
           </h1>
-          <p className="text-fg-2 mt-1" lang="ta">
+          <p className="text-fg-2 mt-1">
             {passed
-              ? "அருமை! இந்தப் பாடத்தைத் தேர்ச்சி பெற்றீர்கள். அடுத்த பாடம் திறந்துவிட்டது."
-              : `தேர்ச்சிக்கு ${Math.round(passMark * 100)}% தேவை. கீழே உள்ள தவறுகளின் விளக்கங்களைப் படித்து மீண்டும் முயலுங்கள்.`}
+              ? "Great work! You passed this lesson and the next one is unlocked."
+              : `You need ${Math.round(passMark * 100)}% to pass. Read the explanations for your mistakes below and try again.`}
           </p>
           <div className="text-xs text-muted font-bold mt-2">
             Time {mm}:{ss}
@@ -139,7 +139,7 @@ export default function Results({
 
       <section className="space-y-3">
         <div className="flex items-center justify-between">
-          <div className="text-xs font-extrabold text-muted">REVIEW · மறுபார்வை</div>
+          <div className="text-xs font-extrabold text-muted">REVIEW</div>
           <div className="flex gap-1">
             <button
               className={cx("px-3 py-1 rounded-full text-xs font-extrabold", filter === "wrong" ? "bg-red-2 text-red" : "bg-bg-2 text-muted")}
@@ -156,8 +156,8 @@ export default function Results({
           </div>
         </div>
         {list.length === 0 && (
-          <div className="card p-6 text-center text-fg-2 font-bold" lang="ta">
-            எல்லாம் சரி! 🎉
+          <div className="card p-6 text-center text-fg-2 font-bold">
+            All correct! 🎉
           </div>
         )}
         {list.map((it, k) => {
@@ -193,9 +193,9 @@ export default function Results({
                     <PassageClozeView item={it} perms={perms[it.id] as number[][]} value={a} onChange={() => {}} reveal />
                   )}
                   <div className="rounded-xl bg-bg-2 p-3">
-                    <div className="text-xs font-extrabold text-muted mb-1">விளக்கம்</div>
-                    <p lang="ta" className="leading-relaxed">
-                      {it.explanation_ta}
+                    <div className="text-xs font-extrabold text-muted mb-1">Explanation</div>
+                    <p className="leading-relaxed">
+                      {it.explanation_en ?? it.explanation_ta}
                     </p>
                   </div>
                 </div>

@@ -28,6 +28,10 @@ export type GrammarPoint = {
   formation: string;
   examples: Example[];
   pitfalls_ta?: string;
+  explanation_en?: string;
+  tamil_parallel_en?: string;
+  formation_en?: string;
+  pitfalls_en?: string;
 };
 
 export type McqType =
@@ -46,6 +50,7 @@ export type McqItem = {
   options: string[];
   answer: number;
   explanation_ta: string;
+  explanation_en?: string;
 };
 
 export type SentenceOrderItem = {
@@ -56,6 +61,7 @@ export type SentenceOrderItem = {
   star: number;
   after: string;
   explanation_ta: string;
+  explanation_en?: string;
 };
 
 export type PassageClozeItem = {
@@ -64,6 +70,7 @@ export type PassageClozeItem = {
   passage: string;
   blanks: { options: string[]; answer: number }[];
   explanation_ta: string;
+  explanation_en?: string;
 };
 
 export type TestItem = McqItem | SentenceOrderItem | PassageClozeItem;
@@ -74,6 +81,7 @@ export type Lesson = {
   lesson: number;
   title: Lang3;
   intro_ta: string;
+  intro_en?: string;
   grammar: GrammarPoint[];
   vocab_ids: string[];
   test: LessonTest;
