@@ -1,0 +1,382 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 34,
+  "slug": "nihon-to-ieba",
+  "title": {
+   "ja": "日本といえば",
+   "ta": "ஜப்பான் என்றாலே",
+   "en": "Speaking of Japan"
+  },
+  "theme": {
+   "en": "Japanese culture and traditions: festivals, beliefs, arts and topics of conversation.",
+   "ta": "ஜப்பானிய கலாச்சாரமும் பாரம்பரியமும்: திருவிழாக்கள், நம்பிக்கைகள், கலைகள், பேச்சுத் தலைப்புகள்."
+  },
+  "grammar": [
+   {
+    "id": "g34-1",
+    "pattern": "〜と いうと / 〜と いえば / 〜と いったら",
+    "en": "Speaking of ~ / when it comes to ~"
+   },
+   {
+    "id": "g34-2",
+    "pattern": "〜か と いうと",
+    "en": "If you ask whether or why ~, (explaining)"
+   },
+   {
+    "id": "g34-3",
+    "pattern": "Adj / V-た ことに",
+    "en": "To my ~ (嬉しいことに, 驚いたことに)"
+   },
+   {
+    "id": "g34-4",
+    "pattern": "〜ことは 〜が",
+    "en": "It's true that ~, but ~"
+   }
+  ],
+  "vocabHints": [
+   "Japanese traditions and festivals",
+   "religion and beliefs",
+   "traditional arts and objects",
+   "proverbs and sayings"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0093",
+   "expression": "宗教",
+   "reading": "しゅうきょう",
+   "romaji": "shuukyou",
+   "en": "religion"
+  },
+  {
+   "id": "n3-v-0187",
+   "expression": "信仰",
+   "reading": "しんこう",
+   "romaji": "shinkou",
+   "en": "(religious) faith, belief"
+  },
+  {
+   "id": "n3-v-0245",
+   "expression": "墨",
+   "reading": "すみ",
+   "romaji": "sumi",
+   "en": "ink"
+  },
+  {
+   "id": "n3-v-0409",
+   "expression": "稲",
+   "reading": "いね",
+   "romaji": "ine",
+   "en": "rice-plant"
+  },
+  {
+   "id": "n3-v-0425",
+   "expression": "祝い",
+   "reading": "いわい",
+   "romaji": "iwai",
+   "en": "celebration, festival"
+  },
+  {
+   "id": "n3-v-0426",
+   "expression": "祝う",
+   "reading": "いわう",
+   "romaji": "iwau",
+   "en": "to congratulate, to celebrate"
+  },
+  {
+   "id": "n3-v-0429",
+   "expression": "インク",
+   "reading": "インク",
+   "romaji": "inku",
+   "en": "ink"
+  },
+  {
+   "id": "n3-v-0458",
+   "expression": "梅",
+   "reading": "うめ",
+   "romaji": "ume",
+   "en": "plum, lowest (of a three-tier ranking system)"
+  },
+  {
+   "id": "n3-v-0528",
+   "expression": "おめでとう",
+   "reading": "おめでとう",
+   "romaji": "omedetou",
+   "en": "Congratulations!, an auspicious occasion!"
+  },
+  {
+   "id": "n3-v-0619",
+   "expression": "刀",
+   "reading": "かたな",
+   "romaji": "katana",
+   "en": "sword, saber"
+  },
+  {
+   "id": "n3-v-0637",
+   "expression": "鐘",
+   "reading": "かね",
+   "romaji": "kane",
+   "en": "bell, chime"
+  },
+  {
+   "id": "n3-v-0643",
+   "expression": "神",
+   "reading": "かみ",
+   "romaji": "kami",
+   "en": "god"
+  },
+  {
+   "id": "n3-v-0806",
+   "expression": "クリスマス",
+   "reading": "クリスマス",
+   "romaji": "kurisumasu",
+   "en": "Christmas"
+  },
+  {
+   "id": "n3-v-0811",
+   "expression": "暮れ",
+   "reading": "くれ",
+   "romaji": "kure",
+   "en": "year end,"
+  },
+  {
+   "id": "n3-v-0933",
+   "expression": "琴",
+   "reading": "こと",
+   "romaji": "koto",
+   "en": "Japanese harp"
+  },
+  {
+   "id": "n3-v-0935",
+   "expression": "諺",
+   "reading": "ことわざ",
+   "romaji": "kotowaza",
+   "en": "proverb, saying"
+  },
+  {
+   "id": "n3-v-0979",
+   "expression": "桜",
+   "reading": "さくら",
+   "romaji": "sakura",
+   "en": "cherry blossom, cherry tree"
+  },
+  {
+   "id": "n3-v-0987",
+   "expression": "挿す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to insert, to put in, to graft"
+  },
+  {
+   "id": "n3-v-1075",
+   "expression": "元",
+   "reading": "もと",
+   "romaji": "moto",
+   "en": "origin, original; former"
+  },
+  {
+   "id": "n3-v-1206",
+   "expression": "椀",
+   "reading": "わん",
+   "romaji": "wan",
+   "en": "bowl"
+  },
+  {
+   "id": "n3-v-1207",
+   "expression": "碗",
+   "reading": "わん",
+   "romaji": "wan",
+   "en": "bowl"
+  },
+  {
+   "id": "n3-v-1256",
+   "expression": "起源",
+   "reading": "きげん",
+   "romaji": "kigen",
+   "en": "origin, beginning, rise"
+  },
+  {
+   "id": "n3-v-1352",
+   "expression": "田",
+   "reading": "た",
+   "romaji": "ta",
+   "en": "rice field"
+  },
+  {
+   "id": "n3-v-1422",
+   "expression": "足袋",
+   "reading": "たび",
+   "romaji": "tabi",
+   "en": "Japanese socks (with split toe)"
+  },
+  {
+   "id": "n3-v-1470",
+   "expression": "茶",
+   "reading": "ちゃ",
+   "romaji": "cha",
+   "en": "tea"
+  },
+  {
+   "id": "n3-v-1516",
+   "expression": "伝わる",
+   "reading": "つたわる",
+   "romaji": "tsutawaru",
+   "en": "to be handed down, to be transmitted"
+  },
+  {
+   "id": "n3-v-1569",
+   "expression": "伝統",
+   "reading": "でんとう",
+   "romaji": "dentou",
+   "en": "tradition, convention"
+  },
+  {
+   "id": "n3-v-1585",
+   "expression": "東洋",
+   "reading": "とうよう",
+   "romaji": "touyou",
+   "en": "Orient"
+  },
+  {
+   "id": "n3-v-1663",
+   "expression": "鍋",
+   "reading": "なべ",
+   "romaji": "nabe",
+   "en": "saucepan, pot"
+  },
+  {
+   "id": "n3-v-1686",
+   "expression": "日本",
+   "reading": "にっぽん",
+   "romaji": "nippon",
+   "en": "Japan"
+  },
+  {
+   "id": "n3-v-1687",
+   "expression": "日本",
+   "reading": "にほん",
+   "romaji": "nihon",
+   "en": "Japan"
+  },
+  {
+   "id": "n3-v-1763",
+   "expression": "始まり",
+   "reading": "はじまり",
+   "romaji": "hajimari",
+   "en": "origin, beginning"
+  },
+  {
+   "id": "n3-v-1768",
+   "expression": "旗",
+   "reading": "はた",
+   "romaji": "hata",
+   "en": "flag"
+  },
+  {
+   "id": "n3-v-1892",
+   "expression": "筆",
+   "reading": "ふで",
+   "romaji": "fude",
+   "en": "writing brush"
+  },
+  {
+   "id": "n3-v-1912",
+   "expression": "文明",
+   "reading": "ぶんめい",
+   "romaji": "bunmei",
+   "en": "civilization"
+  },
+  {
+   "id": "n3-v-1942",
+   "expression": "ボール",
+   "reading": "ボール",
+   "romaji": "booru",
+   "en": "ball; bowl"
+  },
+  {
+   "id": "n3-v-1947",
+   "expression": "保存",
+   "reading": "ほぞん",
+   "romaji": "hozon",
+   "en": "preservation, conservation"
+  },
+  {
+   "id": "n3-v-1949",
+   "expression": "仏",
+   "reading": "ほとけ",
+   "romaji": "hotoke",
+   "en": "Buddha"
+  },
+  {
+   "id": "n3-v-1992",
+   "expression": "祭",
+   "reading": "まつり",
+   "romaji": "matsuri",
+   "en": "festival, feast"
+  },
+  {
+   "id": "n3-v-2008",
+   "expression": "磁器",
+   "reading": "じき",
+   "romaji": "jiki",
+   "en": "porcelain, china"
+  },
+  {
+   "id": "n3-v-2043",
+   "expression": "節",
+   "reading": "せつ",
+   "romaji": "setsu",
+   "en": "when, if; section; clause"
+  },
+  {
+   "id": "n3-v-2044",
+   "expression": "膳",
+   "reading": "ぜん",
+   "romaji": "zen",
+   "en": "(small) table, tray, meal"
+  },
+  {
+   "id": "n3-v-2045",
+   "expression": "禅",
+   "reading": "ぜん",
+   "romaji": "zen",
+   "en": "Zen (Buddhism)"
+  },
+  {
+   "id": "n3-v-2052",
+   "expression": "僧",
+   "reading": "そう",
+   "romaji": "sou",
+   "en": "monk, priest"
+  },
+  {
+   "id": "n3-v-2053",
+   "expression": "像",
+   "reading": "ぞう",
+   "romaji": "zou",
+   "en": "statue, image"
+  },
+  {
+   "id": "n3-v-2065",
+   "expression": "チャイム",
+   "reading": "チャイム",
+   "romaji": "chaimu",
+   "en": "chime"
+  },
+  {
+   "id": "n3-v-2108",
+   "expression": "碑",
+   "reading": "ひ",
+   "romaji": "hi",
+   "en": "stone monument bearing an inscription"
+  },
+  {
+   "id": "n3-v-2113",
+   "expression": "福",
+   "reading": "ふく",
+   "romaji": "fuku",
+   "en": "good fortune"
+  }
+ ]
+}

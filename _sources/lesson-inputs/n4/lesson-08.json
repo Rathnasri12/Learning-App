@@ -1,0 +1,224 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 8,
+  "slug": "meireikei",
+  "title": {
+   "ja": "止まれ",
+   "ta": "நில்!",
+   "en": "Stop!"
+  },
+  "theme": {
+   "en": "Rules, road signs and traffic: driving, motorbikes, parking, transferring trains.",
+   "ta": "விதிகள், சாலை அடையாளங்கள், போக்குவரத்து: வாகனம் ஓட்டுவது, பைக், வாகன நிறுத்தம், ரயில் மாறுவது."
+  },
+  "grammar": [
+   {
+    "id": "g08-1",
+    "pattern": "Imperative form (V-え / V-ろ / しろ / 来い)",
+    "en": "Commands: signs, shouting, sports, rough speech"
+   },
+   {
+    "id": "g08-2",
+    "pattern": "V-dictionary な",
+    "en": "Don't …! (prohibition)"
+   },
+   {
+    "id": "g08-3",
+    "pattern": "V-ます stem なさい",
+    "en": "Do … (parent / teacher giving an instruction)"
+   },
+   {
+    "id": "g08-4",
+    "pattern": "N は 〜と 読みます / 〜という 意味です",
+    "en": "Reading signs: 'is read as …' / 'means …'"
+   },
+   {
+    "id": "g08-5",
+    "pattern": "〜と 言っていました / 〜と 伝えていただけませんか",
+    "en": "Passing on a message: '(X) said …' / 'could you tell (X) …'"
+   },
+   {
+    "id": "g08-6",
+    "pattern": "N1 という N2",
+    "en": "An N2 called N1: 『さくら』という店"
+   }
+  ],
+  "vocabHints": [
+   "traffic: driver, motorbike, parking, petrol station",
+   "rules, law, caution, garbage rules",
+   "on the road: pass, turn, get off, on the way",
+   "transfers and crowded trains"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-007",
+   "expression": "ガソリン",
+   "reading": "ガソリン",
+   "romaji": "gasorin",
+   "en": "gasoline, petrol"
+  },
+  {
+   "id": "n4-v-029",
+   "expression": "オートバイ",
+   "reading": "オートバイ",
+   "romaji": "ootobai",
+   "en": "motorcycle (lit: auto-bi(ke))"
+  },
+  {
+   "id": "n4-v-035",
+   "expression": "運転手",
+   "reading": "うんてんしゅ",
+   "romaji": "untenshu",
+   "en": "driver (by occupation)"
+  },
+  {
+   "id": "n4-v-052",
+   "expression": "規則",
+   "reading": "きそく",
+   "romaji": "kisoku",
+   "en": "rule, regulation"
+  },
+  {
+   "id": "n4-v-058",
+   "expression": "ごみ",
+   "reading": "ごみ",
+   "romaji": "gomi",
+   "en": "trash, garbage"
+  },
+  {
+   "id": "n4-v-073",
+   "expression": "注意",
+   "reading": "ちゅうい",
+   "romaji": "chuui",
+   "en": "caution, attention"
+  },
+  {
+   "id": "n4-v-078",
+   "expression": "通る",
+   "reading": "とおる",
+   "romaji": "tooru",
+   "en": "to pass (by), to go through"
+  },
+  {
+   "id": "n4-v-124",
+   "expression": "触る",
+   "reading": "さわる",
+   "romaji": "sawaru",
+   "en": "to touch, to feel"
+  },
+  {
+   "id": "n4-v-150",
+   "expression": "止める",
+   "reading": "とめる",
+   "romaji": "tomeru",
+   "en": "to stop (something)"
+  },
+  {
+   "id": "n4-v-191",
+   "expression": "決して",
+   "reading": "けっして",
+   "romaji": "kesshite",
+   "en": "never"
+  },
+  {
+   "id": "n4-v-277",
+   "expression": "運転",
+   "reading": "うんてんする",
+   "romaji": "untensuru",
+   "en": "driving"
+  },
+  {
+   "id": "n4-v-289",
+   "expression": "乗り物",
+   "reading": "のりもの",
+   "romaji": "norimono",
+   "en": "vehicle"
+  },
+  {
+   "id": "n4-v-300",
+   "expression": "法律",
+   "reading": "ほうりつ",
+   "romaji": "houritsu",
+   "en": "law"
+  },
+  {
+   "id": "n4-v-318",
+   "expression": "交通",
+   "reading": "こうつう",
+   "romaji": "koutsuu",
+   "en": "traffic, transportation"
+  },
+  {
+   "id": "n4-v-403",
+   "expression": "通り",
+   "reading": "とおり",
+   "romaji": "toori",
+   "en": "~ Street, ~ Avenue"
+  },
+  {
+   "id": "n4-v-449",
+   "expression": "駐車場",
+   "reading": "ちゅうしゃじょう",
+   "romaji": "chuushajou",
+   "en": "parking lot"
+  },
+  {
+   "id": "n4-v-478",
+   "expression": "下りる",
+   "reading": "おりる",
+   "romaji": "oriru",
+   "en": "to get down, to go; come down"
+  },
+  {
+   "id": "n4-v-506",
+   "expression": "下る",
+   "reading": "さがる",
+   "romaji": "sagaru",
+   "en": "to descend, to drop, to fall"
+  },
+  {
+   "id": "n4-v-562",
+   "expression": "回る、回す",
+   "reading": "まわる、まわす",
+   "romaji": "mawaru,mawasu",
+   "en": "to go around, to revolve"
+  },
+  {
+   "id": "n4-v-571",
+   "expression": "向かう",
+   "reading": "むかう",
+   "romaji": "mukau",
+   "en": "to face, to go towards"
+  },
+  {
+   "id": "n4-v-616",
+   "expression": "込む",
+   "reading": "こむ",
+   "romaji": "komu",
+   "en": "to be crowded"
+  },
+  {
+   "id": "n4-v-621",
+   "expression": "途中",
+   "reading": "とちゅう",
+   "romaji": "tochuu",
+   "en": "on the way, midway"
+  },
+  {
+   "id": "n4-v-623",
+   "expression": "乗り換える",
+   "reading": "のりかえる",
+   "romaji": "norikaeru",
+   "en": "to transfer (trains), to change (bus, train, etc.)"
+  },
+  {
+   "id": "n4-v-630",
+   "expression": "ガソリンスタンド",
+   "reading": "ガソリンスタンド",
+   "romaji": "gasorinsutando",
+   "en": "gas station, service station"
+  }
+ ]
+}

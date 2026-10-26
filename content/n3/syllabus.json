@@ -1,0 +1,1755 @@
+{
+  "level": "n3",
+  "lessonCount": 40,
+  "note": "Assumes the N5 and N4 courses (all their grammar is known). Grammar is grouped by function: casual spoken patterns, time and sequence, cause and reason, contrast, conditions, purpose, hearsay and appearance, guesses and feelings, emphasis, advice and obligation, then formal written expressions and connectors. Every N3 grammar point appears in exactly one lesson.",
+  "lessons": [
+    {
+      "n": 1,
+      "slug": "tomodachi-to-shaberu",
+      "title": {
+        "ja": "友だちとしゃべる",
+        "ta": "நண்பர்களுடன் அரட்டை",
+        "en": "Chatting with friends"
+      },
+      "theme": {
+        "en": "Casual talk with friends: catching up, checking things you forgot, small talk and excuses.",
+        "ta": "நண்பர்களுடன் சாதாரணப் பேச்சு: நலம் விசாரிப்பது, மறந்ததை உறுதி செய்வது, சிறு பேச்சு, சாக்குகள்."
+      },
+      "grammar": [
+        {
+          "id": "g01-1",
+          "pattern": "〜っけ",
+          "en": "Checking something you forgot (what was it again?)"
+        },
+        {
+          "id": "g01-2",
+          "pattern": "〜じゃない / 〜じゃん",
+          "en": "Isn't it? (seeking agreement, casual)"
+        },
+        {
+          "id": "g01-3",
+          "pattern": "〜もん",
+          "en": "Because ~ (casual, emotional excuse)"
+        },
+        {
+          "id": "g01-4",
+          "pattern": "〜わ / 〜ぞ / 〜ぜ",
+          "en": "Sentence endings that show the speaker's style and feeling"
+        }
+      ],
+      "vocabHints": [
+        "friends and chatting",
+        "greetings and interjections",
+        "jokes, humour, gossip",
+        "casual everyday verbs"
+      ]
+    },
+    {
+      "n": 2,
+      "slug": "shuumatsu-no-yotei",
+      "title": {
+        "ja": "ゲームなんか",
+        "ta": "வார இறுதித் திட்டங்கள்",
+        "en": "Plans for the weekend"
+      },
+      "theme": {
+        "en": "Inviting friends and making plans: outings, games, drinks and leisure.",
+        "ta": "நண்பர்களை அழைப்பதும் திட்டமிடுவதும்: வெளியே செல்வது, விளையாட்டுகள், பானங்கள், ஓய்வு."
+      },
+      "grammar": [
+        {
+          "id": "g02-1",
+          "pattern": "N なんか",
+          "en": "Things like N (example; modest or dismissive)"
+        },
+        {
+          "id": "g02-2",
+          "pattern": "〜なんて",
+          "en": "Something like ~ (surprise, disbelief or contempt)"
+        },
+        {
+          "id": "g02-3",
+          "pattern": "N か 何か / N か どこか",
+          "en": "N or something / somewhere like that (vague)"
+        },
+        {
+          "id": "g02-4",
+          "pattern": "V-たって / Adj-くたって",
+          "en": "Even if (casual ても)"
+        }
+      ],
+      "vocabHints": [
+        "outings: picnic, hiking, camping, drive",
+        "drinks and snacks",
+        "games and hobbies",
+        "invitations"
+      ]
+    },
+    {
+      "n": 3,
+      "slug": "kaeru-tsuide-ni",
+      "title": {
+        "ja": "帰るついでに",
+        "ta": "வீட்டுக்குப் போகும் வழியில்",
+        "en": "On the way home"
+      },
+      "theme": {
+        "en": "A busy daily routine: errands, doing things on the way, every time and in the middle of things.",
+        "ta": "பரபரப்பான அன்றாட வாழ்க்கை: சிறு வேலைகள், வழியில் செய்யும் காரியங்கள், ஒவ்வொரு முறையும், வேலையின் நடுவில்."
+      },
+      "grammar": [
+        {
+          "id": "g03-1",
+          "pattern": "V-ている / N の 最中に",
+          "en": "Right in the middle of ~"
+        },
+        {
+          "id": "g03-2",
+          "pattern": "V-る / N の たびに",
+          "en": "Every time ~"
+        },
+        {
+          "id": "g03-3",
+          "pattern": "V-る / V-た / N の ついでに",
+          "en": "While you are at it, ~ (doing B on the occasion of A)"
+        },
+        {
+          "id": "g03-4",
+          "pattern": "V-る / V-た / N の 際(に)",
+          "en": "When / on the occasion of (formal とき)"
+        }
+      ],
+      "vocabHints": [
+        "daily routine and time of day",
+        "errands: post office, bank, mail",
+        "sleeping and waking",
+        "time words"
+      ]
+    },
+    {
+      "n": 4,
+      "slug": "ie-wo-deta-totan",
+      "title": {
+        "ja": "家を出たとたん",
+        "ta": "வீட்டை விட்டு வெளியே வந்த உடனே",
+        "en": "The moment I left home"
+      },
+      "theme": {
+        "en": "Commuting and unexpected moments: trains, traffic, near misses and timing.",
+        "ta": "பயணமும் எதிர்பாராத நிமிடங்களும்: ரயில், போக்குவரத்து, நூலிழையில் தப்பியது, நேரம்."
+      },
+      "grammar": [
+        {
+          "id": "g04-1",
+          "pattern": "V-た とたん(に)",
+          "en": "The moment ~, (something unexpected happened)"
+        },
+        {
+          "id": "g04-2",
+          "pattern": "V-た ところ",
+          "en": "When I did ~, (I found that)"
+        },
+        {
+          "id": "g04-3",
+          "pattern": "V-る / V-ている / V-た ところに・ところへ",
+          "en": "Just when ~ (someone or something arrives)"
+        },
+        {
+          "id": "g04-4",
+          "pattern": "V-ている ところを",
+          "en": "(Caught or seen) in the act of ~"
+        },
+        {
+          "id": "g04-5",
+          "pattern": "V-る ところだった",
+          "en": "Almost ~ (nearly happened)"
+        }
+      ],
+      "vocabHints": [
+        "trains, stations, buses, traffic",
+        "roads and driving",
+        "sudden events and timing"
+      ]
+    },
+    {
+      "n": 5,
+      "slug": "yarikake-no-kaji",
+      "title": {
+        "ja": "やりかけの家事",
+        "ta": "முடிக்காத வீட்டு வேலைகள்",
+        "en": "Unfinished housework"
+      },
+      "theme": {
+        "en": "Housework and cooking: half-done jobs, freshly made food, things left on, doing it again properly.",
+        "ta": "வீட்டு வேலையும் சமையலும்: பாதியில் நின்ற வேலைகள், புதிதாகச் செய்த உணவு, அணைக்காமல் விட்டவை, மீண்டும் சரியாகச் செய்வது."
+      },
+      "grammar": [
+        {
+          "id": "g05-1",
+          "pattern": "V-ます かける / V-ます かけの N",
+          "en": "Half-done, started but not finished"
+        },
+        {
+          "id": "g05-2",
+          "pattern": "V-ます きる / V-ます きれない",
+          "en": "Do completely / cannot finish"
+        },
+        {
+          "id": "g05-3",
+          "pattern": "V-ます たて",
+          "en": "Freshly done (焼きたて, 作りたて)"
+        },
+        {
+          "id": "g05-4",
+          "pattern": "V-ます っぱなし",
+          "en": "Left on / left undone (careless state)"
+        },
+        {
+          "id": "g05-5",
+          "pattern": "V-ます 直す",
+          "en": "Redo, do again properly"
+        }
+      ],
+      "vocabHints": [
+        "cooking and the kitchen",
+        "cleaning, laundry, tidying",
+        "food and ingredients",
+        "household items"
+      ]
+    },
+    {
+      "n": 6,
+      "slug": "tasuke-au",
+      "title": {
+        "ja": "助け合う",
+        "ta": "ஒருவருக்கொருவர் உதவுதல்",
+        "en": "Helping each other"
+      },
+      "theme": {
+        "en": "Family, friends and relationships: helping each other, trying hard, refusing to listen.",
+        "ta": "குடும்பம், நண்பர்கள், உறவுகள்: ஒருவருக்கொருவர் உதவுவது, முயற்சி செய்வது, கேட்க மறுப்பது."
+      },
+      "grammar": [
+        {
+          "id": "g06-1",
+          "pattern": "V-ます 合う",
+          "en": "Do to each other (話し合う, 助け合う)"
+        },
+        {
+          "id": "g06-2",
+          "pattern": "V-ます 込む",
+          "en": "Into / thoroughly (飛び込む, 思い込む)"
+        },
+        {
+          "id": "g06-3",
+          "pattern": "V-よう と する",
+          "en": "Try to ~ / be about to ~"
+        },
+        {
+          "id": "g06-4",
+          "pattern": "V-よう と しない",
+          "en": "Won't even try / refuses to"
+        }
+      ],
+      "vocabHints": [
+        "family members and relatives",
+        "love and marriage",
+        "trust, conflict and making up"
+      ]
+    },
+    {
+      "n": 7,
+      "slug": "nihon-ni-kite-irai",
+      "title": {
+        "ja": "日本に来て以来",
+        "ta": "ஜப்பானுக்கு வந்ததிலிருந்து",
+        "en": "Since I came to Japan"
+      },
+      "theme": {
+        "en": "Life milestones: moving, starting a job, first experiences, meeting again after years.",
+        "ta": "வாழ்க்கையின் முக்கியக் கட்டங்கள்: இடம் மாறுவது, வேலையில் சேருவது, முதல் அனுபவங்கள், பல ஆண்டுகளுக்குப் பின் சந்திப்பது."
+      },
+      "grammar": [
+        {
+          "id": "g07-1",
+          "pattern": "V-て 以来",
+          "en": "Ever since ~"
+        },
+        {
+          "id": "g07-2",
+          "pattern": "V-て はじめて",
+          "en": "Only after ~ (did I realise / could I)"
+        },
+        {
+          "id": "g07-3",
+          "pattern": "V-た 上で / N の 上で",
+          "en": "After doing ~ (and based on it)"
+        },
+        {
+          "id": "g07-4",
+          "pattern": "Time + ぶり / N ぶり",
+          "en": "For the first time in (time) / manner of (話しぶり)"
+        }
+      ],
+      "vocabHints": [
+        "life events: birth, graduation, employment, moving",
+        "age and generations",
+        "memories and hometown"
+      ]
+    },
+    {
+      "n": 8,
+      "slug": "fueru-ippou",
+      "title": {
+        "ja": "増える一方だ",
+        "ta": "தொடர்ந்து அதிகரித்துக்கொண்டே இருக்கிறது",
+        "en": "It just keeps rising"
+      },
+      "theme": {
+        "en": "A changing society: technology, population and prices over time.",
+        "ta": "மாறிவரும் சமூகம்: தொழில்நுட்பம், மக்கள்தொகை, விலைகள் காலப்போக்கில்."
+      },
+      "grammar": [
+        {
+          "id": "g08-1",
+          "pattern": "V-る 一方だ",
+          "en": "Keeps on ~ (one-way change, often bad)"
+        },
+        {
+          "id": "g08-2",
+          "pattern": "N / V-る と 共に",
+          "en": "Together with / as ~ changes"
+        },
+        {
+          "id": "g08-3",
+          "pattern": "V-る / N に つれて",
+          "en": "As ~, (gradually) ~"
+        },
+        {
+          "id": "g08-4",
+          "pattern": "V-る / N に したがって",
+          "en": "As ~ / in accordance with ~"
+        },
+        {
+          "id": "g08-5",
+          "pattern": "V-る / N に 伴って",
+          "en": "Along with ~ (formal)"
+        }
+      ],
+      "vocabHints": [
+        "change verbs: increase, decrease, spread, rise",
+        "technology and machines",
+        "development and progress"
+      ]
+    },
+    {
+      "n": 9,
+      "slug": "natsu-kara-aki-ni-kakete",
+      "title": {
+        "ja": "夏から秋にかけて",
+        "ta": "கோடையிலிருந்து இலையுதிர் காலம் வரை",
+        "en": "From summer into autumn"
+      },
+      "theme": {
+        "en": "Seasons, weather and the yearly calendar.",
+        "ta": "பருவங்கள், வானிலை, ஆண்டு நாட்காட்டி."
+      },
+      "grammar": [
+        {
+          "id": "g09-1",
+          "pattern": "N から N に かけて",
+          "en": "From ~ through ~ (spread over a range)"
+        },
+        {
+          "id": "g09-2",
+          "pattern": "N を 通じて / を 通して",
+          "en": "Throughout (a period) / through (a means)"
+        },
+        {
+          "id": "g09-3",
+          "pattern": "N に わたって / に わたる N",
+          "en": "Over (a whole period or area)"
+        },
+        {
+          "id": "g09-4",
+          "pattern": "N 中(じゅう) / N 中(ちゅう)",
+          "en": "All through N / during N"
+        }
+      ],
+      "vocabHints": [
+        "seasons and weather",
+        "climate and temperature",
+        "the calendar and periods of time"
+      ]
+    },
+    {
+      "n": 10,
+      "slug": "kimi-no-okage-de",
+      "title": {
+        "ja": "君のおかげで",
+        "ta": "உங்கள் உதவியால்",
+        "en": "Thanks to you"
+      },
+      "theme": {
+        "en": "Good and bad luck: thanks to someone, because of something, accidents and troubles.",
+        "ta": "நல்ல அதிர்ஷ்டமும் கெட்ட அதிர்ஷ்டமும்: ஒருவரின் உதவியால், ஏதோ ஒன்றின் காரணத்தால், விபத்துகள், தொல்லைகள்."
+      },
+      "grammar": [
+        {
+          "id": "g10-1",
+          "pattern": "〜おかげで / 〜おかげだ",
+          "en": "Thanks to ~ (good result)"
+        },
+        {
+          "id": "g10-2",
+          "pattern": "〜せいで / 〜せいだ",
+          "en": "Because of ~ (blame, bad result)"
+        },
+        {
+          "id": "g10-3",
+          "pattern": "〜せいか",
+          "en": "Perhaps because ~"
+        },
+        {
+          "id": "g10-4",
+          "pattern": "〜ものだから / 〜もので",
+          "en": "Because ~ (explaining or excusing)"
+        }
+      ],
+      "vocabHints": [
+        "luck and fortune",
+        "accidents, fire, damage",
+        "rescue and safety"
+      ]
+    },
+    {
+      "n": 11,
+      "slug": "yaru-kara-ni-wa",
+      "title": {
+        "ja": "やるからには",
+        "ta": "செய்வதென்று முடிவெடுத்தால்",
+        "en": "If I'm going to do it"
+      },
+      "theme": {
+        "en": "Career choices and responsibility: decisions, reasons and resolve.",
+        "ta": "தொழில் தேர்வுகளும் பொறுப்பும்: முடிவுகள், காரணங்கள், உறுதி."
+      },
+      "grammar": [
+        {
+          "id": "g11-1",
+          "pattern": "〜からこそ",
+          "en": "Precisely because ~"
+        },
+        {
+          "id": "g11-2",
+          "pattern": "〜からには",
+          "en": "Now that ~ / since ~ (then must)"
+        },
+        {
+          "id": "g11-3",
+          "pattern": "〜以上(は)",
+          "en": "Since ~ / as long as ~ (then must)"
+        },
+        {
+          "id": "g11-4",
+          "pattern": "〜のだから / 〜んだから",
+          "en": "Since (obviously) ~"
+        },
+        {
+          "id": "g11-5",
+          "pattern": "〜からといって",
+          "en": "Just because ~ (doesn't mean)"
+        }
+      ],
+      "vocabHints": [
+        "career and jobs",
+        "decisions and resolve",
+        "duty and responsibility",
+        "goals and ambitions"
+      ]
+    },
+    {
+      "n": 12,
+      "slug": "sou-iu-wake-dewa-nai",
+      "title": {
+        "ja": "そういうわけではない",
+        "ta": "நான் அப்படிச் சொல்லவில்லை",
+        "en": "That's not what I mean"
+      },
+      "theme": {
+        "en": "Clearing up misunderstandings: explaining reasons and facts.",
+        "ta": "தவறான புரிதல்களைத் தீர்ப்பது: காரணங்களையும் உண்மைகளையும் விளக்குவது."
+      },
+      "grammar": [
+        {
+          "id": "g12-1",
+          "pattern": "〜わけだ",
+          "en": "That's why / no wonder (logical conclusion)"
+        },
+        {
+          "id": "g12-2",
+          "pattern": "〜わけではない",
+          "en": "It doesn't mean that ~ / not necessarily"
+        },
+        {
+          "id": "g12-3",
+          "pattern": "V-る わけには いかない",
+          "en": "Can't (for social or moral reasons)"
+        },
+        {
+          "id": "g12-4",
+          "pattern": "〜ことから",
+          "en": "From the fact that ~ (reason, origin)"
+        }
+      ],
+      "vocabHints": [
+        "misunderstanding and explanation",
+        "facts, truth and reality",
+        "mistakes and apologies"
+      ]
+    },
+    {
+      "n": 13,
+      "slug": "kodomo-no-kuse-ni",
+      "title": {
+        "ja": "子どものくせに",
+        "ta": "சின்னப் பையனாக இருந்தும்",
+        "en": "Even though he's just a kid"
+      },
+      "theme": {
+        "en": "Impressions of people: character, complaints and pleasant surprises.",
+        "ta": "மனிதர்களைப் பற்றிய எண்ணங்கள்: குணம், குறைகள், இனிய ஆச்சரியங்கள்."
+      },
+      "grammar": [
+        {
+          "id": "g13-1",
+          "pattern": "〜くせに",
+          "en": "Even though ~ (criticism)"
+        },
+        {
+          "id": "g13-2",
+          "pattern": "〜わりに(は)",
+          "en": "Considering ~ / for ~"
+        },
+        {
+          "id": "g13-3",
+          "pattern": "〜にしては",
+          "en": "For ~ (unexpected compared with the standard)"
+        },
+        {
+          "id": "g13-4",
+          "pattern": "〜ながら(も)",
+          "en": "Although ~ (concession)"
+        },
+        {
+          "id": "g13-5",
+          "pattern": "〜ばいいのに / 〜たらいいのに",
+          "en": "I wish ~ / why don't they ~ (regret, criticism)"
+        }
+      ],
+      "vocabHints": [
+        "character and personality",
+        "praise and complaints",
+        "abilities and habits"
+      ]
+    },
+    {
+      "n": 14,
+      "slug": "tokai-to-inaka",
+      "title": {
+        "ja": "都会に対して田舎は",
+        "ta": "நகரமும் கிராமமும்",
+        "en": "City and countryside"
+      },
+      "theme": {
+        "en": "Comparing city and countryside life: housing, farming and regions.",
+        "ta": "நகர வாழ்க்கையையும் கிராம வாழ்க்கையையும் ஒப்பிடுவது: வீடு, விவசாயம், பகுதிகள்."
+      },
+      "grammar": [
+        {
+          "id": "g14-1",
+          "pattern": "〜のに 対して",
+          "en": "Whereas ~ (contrast)"
+        },
+        {
+          "id": "g14-2",
+          "pattern": "〜一方(で)",
+          "en": "On the one hand ~ / while ~"
+        },
+        {
+          "id": "g14-3",
+          "pattern": "〜反面",
+          "en": "On the other hand (two sides of one thing)"
+        },
+        {
+          "id": "g14-4",
+          "pattern": "〜かわりに",
+          "en": "Instead of / in exchange for ~"
+        },
+        {
+          "id": "g14-5",
+          "pattern": "〜というより",
+          "en": "Rather than ~"
+        }
+      ],
+      "vocabHints": [
+        "city and town",
+        "countryside, farming and crops",
+        "regions and housing"
+      ]
+    },
+    {
+      "n": 15,
+      "slug": "tatoe-maketemo",
+      "title": {
+        "ja": "たとえ負けても",
+        "ta": "தோற்றாலும் கூட",
+        "en": "Even if we lose"
+      },
+      "theme": {
+        "en": "Sports and challenges: effort, competition, winning and losing.",
+        "ta": "விளையாட்டுகளும் சவால்களும்: முயற்சி, போட்டி, வெற்றி, தோல்வி."
+      },
+      "grammar": [
+        {
+          "id": "g15-1",
+          "pattern": "〜といっても",
+          "en": "Although I say ~, (it's not much)"
+        },
+        {
+          "id": "g15-2",
+          "pattern": "〜にもかかわらず",
+          "en": "Despite ~"
+        },
+        {
+          "id": "g15-3",
+          "pattern": "〜としても",
+          "en": "Even if (we assume) ~"
+        },
+        {
+          "id": "g15-4",
+          "pattern": "たとえ 〜ても",
+          "en": "Even if ~ (strong)"
+        },
+        {
+          "id": "g15-5",
+          "pattern": "V-ても V-ても",
+          "en": "No matter how much (you keep doing) ~"
+        }
+      ],
+      "vocabHints": [
+        "sports, teams and players",
+        "winning and losing",
+        "training and effort"
+      ]
+    },
+    {
+      "n": 16,
+      "slug": "okane-sae-areba",
+      "title": {
+        "ja": "お金さえあれば",
+        "ta": "பணம் மட்டும் இருந்தால்",
+        "en": "If only I had money"
+      },
+      "theme": {
+        "en": "Money, saving and dreams: hypothetical plans and conditions.",
+        "ta": "பணம், சேமிப்பு, கனவுகள்: கற்பனைத் திட்டங்களும் நிபந்தனைகளும்."
+      },
+      "grammar": [
+        {
+          "id": "g16-1",
+          "pattern": "〜としたら / 〜とすれば / 〜とすると",
+          "en": "If we suppose ~"
+        },
+        {
+          "id": "g16-2",
+          "pattern": "N さえ 〜ば",
+          "en": "If only ~ (that alone is enough)"
+        },
+        {
+          "id": "g16-3",
+          "pattern": "〜限り / 〜ない限り",
+          "en": "As long as ~ / unless ~"
+        },
+        {
+          "id": "g16-4",
+          "pattern": "V-て からでないと / V-て からでなければ",
+          "en": "Not until ~ / unless you first ~"
+        }
+      ],
+      "vocabHints": [
+        "money, prices and costs",
+        "saving and spending",
+        "rich and poor",
+        "dreams and plans"
+      ]
+    },
+    {
+      "n": 17,
+      "slug": "yasui-towa-kagiranai",
+      "title": {
+        "ja": "安いとは限らない",
+        "ta": "எப்போதும் மலிவு என்று சொல்ல முடியாது",
+        "en": "Not always cheap"
+      },
+      "theme": {
+        "en": "Shopping, sales and customer service: exceptions and conditions.",
+        "ta": "கடைவீதி, தள்ளுபடி விற்பனை, வாடிக்கையாளர் சேவை: விதிவிலக்குகளும் நிபந்தனைகளும்."
+      },
+      "grammar": [
+        {
+          "id": "g17-1",
+          "pattern": "〜とは 限らない",
+          "en": "Not necessarily / not always (often with 必ずしも)"
+        },
+        {
+          "id": "g17-2",
+          "pattern": "N に 限り / N に 限らず",
+          "en": "Only for N / not only N"
+        },
+        {
+          "id": "g17-3",
+          "pattern": "N に 限って",
+          "en": "Of all (times or people), ~ (unexpectedly)"
+        },
+        {
+          "id": "g17-4",
+          "pattern": "V-て は (repeated)",
+          "en": "Do ~ and then (again and again)"
+        },
+        {
+          "id": "g17-5",
+          "pattern": "N は N で",
+          "en": "N, for its part / in its own way"
+        }
+      ],
+      "vocabHints": [
+        "shopping and shops",
+        "goods and prices",
+        "customer service",
+        "wrapping and delivery"
+      ]
+    },
+    {
+      "n": 18,
+      "slug": "goukaku-suru-ni-wa",
+      "title": {
+        "ja": "合格するには",
+        "ta": "தேர்வில் தேர்ச்சி பெற",
+        "en": "To pass the exam"
+      },
+      "theme": {
+        "en": "Studying and exams: goals, hopes and preparation.",
+        "ta": "படிப்பும் தேர்வுகளும்: இலக்குகள், நம்பிக்கைகள், தயாரிப்பு."
+      },
+      "grammar": [
+        {
+          "id": "g18-1",
+          "pattern": "V-る には",
+          "en": "In order to ~ (requirement)"
+        },
+        {
+          "id": "g18-2",
+          "pattern": "〜と いい(な) / 〜と いいね",
+          "en": "I hope ~ (wish)"
+        },
+        {
+          "id": "g18-3",
+          "pattern": "V-た つもりで / V-た つもり",
+          "en": "As if / believing that one has ~"
+        },
+        {
+          "id": "g18-4",
+          "pattern": "N に 向けて",
+          "en": "Toward (a goal or date)"
+        },
+        {
+          "id": "g18-5",
+          "pattern": "V-る よう(に) お願いします",
+          "en": "Please make sure to ~ (polite written request)"
+        }
+      ],
+      "vocabHints": [
+        "school and university",
+        "exams and grades",
+        "language study: words, grammar",
+        "teachers and textbooks"
+      ]
+    },
+    {
+      "n": 19,
+      "slug": "ame-ni-naru-to-no-koto",
+      "title": {
+        "ja": "雨になるとのことだ",
+        "ta": "மழை பெய்யும் என்று கேள்விப்பட்டேன்",
+        "en": "I hear it'll rain"
+      },
+      "theme": {
+        "en": "News, rumours and messages: passing on what you heard.",
+        "ta": "செய்திகள், வதந்திகள், தகவல்கள்: கேள்விப்பட்டதை மற்றவர்களுக்குச் சொல்வது."
+      },
+      "grammar": [
+        {
+          "id": "g19-1",
+          "pattern": "〜ということだ / 〜とのことだ",
+          "en": "I hear that ~ / I was told that ~"
+        },
+        {
+          "id": "g19-2",
+          "pattern": "〜とか",
+          "en": "I heard something like ~ (vague hearsay)"
+        },
+        {
+          "id": "g19-3",
+          "pattern": "〜という 話だ / 〜という 噂だ",
+          "en": "There's talk / a rumour that ~"
+        },
+        {
+          "id": "g19-4",
+          "pattern": "〜というのは 〜ことだ",
+          "en": "~ means ~ (definition)"
+        },
+        {
+          "id": "g19-5",
+          "pattern": "〜ということは",
+          "en": "That means ~ (inference)"
+        }
+      ],
+      "vocabHints": [
+        "news and the media",
+        "rumours and gossip",
+        "messages and information",
+        "incidents and events"
+      ]
+    },
+    {
+      "n": 20,
+      "slug": "otona-ppoi",
+      "title": {
+        "ja": "大人っぽい",
+        "ta": "பெரியவர் போலத் தோற்றம்",
+        "en": "Looking grown-up"
+      },
+      "theme": {
+        "en": "Appearance and fashion: what people and things look like.",
+        "ta": "தோற்றமும் ஃபேஷனும்: மனிதர்களும் பொருட்களும் எப்படித் தெரிகிறார்கள்."
+      },
+      "grammar": [
+        {
+          "id": "g20-1",
+          "pattern": "N / V-ます っぽい",
+          "en": "-ish, -like / tends to"
+        },
+        {
+          "id": "g20-2",
+          "pattern": "Adj-stem げ",
+          "en": "Looking ~ (寂しげ, 楽しげ)"
+        },
+        {
+          "id": "g20-3",
+          "pattern": "まるで 〜よう(だ) / みたい(だ)",
+          "en": "Just like ~ (as if)"
+        },
+        {
+          "id": "g20-4",
+          "pattern": "〜ように 見える",
+          "en": "Looks as if ~ / seems ~"
+        }
+      ],
+      "vocabHints": [
+        "clothes and fashion",
+        "faces, hair and looks",
+        "colours, patterns and style"
+      ]
+    },
+    {
+      "n": 21,
+      "slug": "hannin-ni-chigainai",
+      "title": {
+        "ja": "犯人に違いない",
+        "ta": "அவன்தான் குற்றவாளியாக இருக்க வேண்டும்",
+        "en": "He must be the culprit"
+      },
+      "theme": {
+        "en": "Mysteries and crime stories: guesses, certainty and impossibility.",
+        "ta": "மர்மங்களும் குற்றக் கதைகளும்: ஊகங்கள், உறுதி, சாத்தியமற்றவை."
+      },
+      "grammar": [
+        {
+          "id": "g21-1",
+          "pattern": "〜に 違いない",
+          "en": "Must be ~ (strong conviction)"
+        },
+        {
+          "id": "g21-2",
+          "pattern": "〜に 決まっている",
+          "en": "It's certain that ~ / surely"
+        },
+        {
+          "id": "g21-3",
+          "pattern": "〜わけがない",
+          "en": "There's no way that ~"
+        },
+        {
+          "id": "g21-4",
+          "pattern": "〜はずだった",
+          "en": "Was supposed to ~ (but didn't)"
+        },
+        {
+          "id": "g21-5",
+          "pattern": "V-ます そうもない / そうにない",
+          "en": "Doesn't look likely to ~"
+        }
+      ],
+      "vocabHints": [
+        "crime, police and detectives",
+        "secrets and mysteries",
+        "guessing and certainty"
+      ]
+    },
+    {
+      "n": 22,
+      "slug": "kaze-gimi",
+      "title": {
+        "ja": "かぜ気味",
+        "ta": "லேசான சளி",
+        "en": "A touch of a cold"
+      },
+      "theme": {
+        "en": "Health and the body: symptoms, worries, habits and hunches.",
+        "ta": "உடல்நலம்: அறிகுறிகள், கவலைகள், பழக்கங்கள், உள்ளுணர்வுகள்."
+      },
+      "grammar": [
+        {
+          "id": "g22-1",
+          "pattern": "〜ような 気が する",
+          "en": "I have a feeling that ~"
+        },
+        {
+          "id": "g22-2",
+          "pattern": "N / V-ます 気味",
+          "en": "A touch of ~ / slightly ~"
+        },
+        {
+          "id": "g22-3",
+          "pattern": "N / V-ます がち",
+          "en": "Tend to ~ / prone to (often bad)"
+        },
+        {
+          "id": "g22-4",
+          "pattern": "〜おそれが ある",
+          "en": "There is a risk that ~"
+        },
+        {
+          "id": "g22-5",
+          "pattern": "〜のではないか / 〜んじゃないか",
+          "en": "Isn't it ~? / I suspect ~"
+        }
+      ],
+      "vocabHints": [
+        "the body and body parts",
+        "illness, symptoms and treatment",
+        "doctors and hospitals",
+        "healthy habits"
+      ]
+    },
+    {
+      "n": 23,
+      "slug": "aitakute-tamaranai",
+      "title": {
+        "ja": "会いたくてたまらない",
+        "ta": "உன்னைப் பார்க்க ஏங்குகிறேன்",
+        "en": "I'm dying to see you"
+      },
+      "theme": {
+        "en": "Emotions: strong feelings, longing, worry and joy.",
+        "ta": "உணர்ச்சிகள்: ஆழ்ந்த உணர்வுகள், ஏக்கம், கவலை, மகிழ்ச்சி."
+      },
+      "grammar": [
+        {
+          "id": "g23-1",
+          "pattern": "〜て たまらない",
+          "en": "Unbearably ~ / dying to ~"
+        },
+        {
+          "id": "g23-2",
+          "pattern": "〜て しょうがない / 〜て しかたがない",
+          "en": "Extremely ~ / can't help feeling ~"
+        },
+        {
+          "id": "g23-3",
+          "pattern": "〜て ならない",
+          "en": "Can't help feeling ~ (written)"
+        },
+        {
+          "id": "g23-4",
+          "pattern": "V-ず に いられない / V-ない では いられない",
+          "en": "Can't help doing ~"
+        },
+        {
+          "id": "g23-5",
+          "pattern": "〜ことか",
+          "en": "How (very) ~! (exclamation)"
+        }
+      ],
+      "vocabHints": [
+        "emotions and feelings",
+        "joy, sadness, anger, fear",
+        "worry and relief"
+      ]
+    },
+    {
+      "n": 24,
+      "slug": "kondo-koso",
+      "title": {
+        "ja": "今度こそ",
+        "ta": "இந்த முறை கண்டிப்பாக",
+        "en": "This time for sure"
+      },
+      "theme": {
+        "en": "Achievements and effort: prizes, records, talent and hard work.",
+        "ta": "சாதனைகளும் முயற்சியும்: பரிசுகள், சாதனைப் பதிவுகள், திறமை, கடின உழைப்பு."
+      },
+      "grammar": [
+        {
+          "id": "g24-1",
+          "pattern": "N こそ",
+          "en": "Precisely N / N for sure (emphasis)"
+        },
+        {
+          "id": "g24-2",
+          "pattern": "N さえ / N でさえ",
+          "en": "Even N"
+        },
+        {
+          "id": "g24-3",
+          "pattern": "N まで (even)",
+          "en": "Even N (going as far as)"
+        },
+        {
+          "id": "g24-4",
+          "pattern": "N だって (even)",
+          "en": "Even N / N too (casual)"
+        }
+      ],
+      "vocabHints": [
+        "success and achievements",
+        "prizes and records",
+        "talent, ability and effort"
+      ]
+    },
+    {
+      "n": 25,
+      "slug": "kyouto-wa-mochiron",
+      "title": {
+        "ja": "京都はもちろん",
+        "ta": "கியோட்டோ, நிச்சயமாக",
+        "en": "Kyoto, of course"
+      },
+      "theme": {
+        "en": "Travel and sightseeing: recommending places and adding information.",
+        "ta": "பயணமும் சுற்றுலாவும்: இடங்களைப் பரிந்துரைப்பது, கூடுதல் தகவல் சேர்ப்பது."
+      },
+      "grammar": [
+        {
+          "id": "g25-1",
+          "pattern": "〜だけでなく 〜も",
+          "en": "Not only ~ but also ~"
+        },
+        {
+          "id": "g25-2",
+          "pattern": "〜ばかりか / 〜ばかりでなく",
+          "en": "Not only ~ but even ~"
+        },
+        {
+          "id": "g25-3",
+          "pattern": "N は もちろん",
+          "en": "N, of course, (and also)"
+        },
+        {
+          "id": "g25-4",
+          "pattern": "〜上(に)",
+          "en": "On top of ~ / besides ~"
+        },
+        {
+          "id": "g25-5",
+          "pattern": "N に 加えて",
+          "en": "In addition to N"
+        }
+      ],
+      "vocabHints": [
+        "travel and sightseeing",
+        "hotels and inns",
+        "scenery and famous places",
+        "abroad and overseas"
+      ]
+    },
+    {
+      "n": 26,
+      "slug": "doro-darake",
+      "title": {
+        "ja": "泥だらけ",
+        "ta": "சேறு முழுவதும் படிந்து",
+        "en": "Covered in mud"
+      },
+      "theme": {
+        "en": "Nature and animals: extremes, records and degrees.",
+        "ta": "இயற்கையும் விலங்குகளும்: உச்சநிலைகள், சாதனைகள், அளவுகள்."
+      },
+      "grammar": [
+        {
+          "id": "g26-1",
+          "pattern": "〜くらい / 〜ぐらい (extent)",
+          "en": "To the extent that ~ / so ~ that"
+        },
+        {
+          "id": "g26-2",
+          "pattern": "N ほど 〜は ない / N くらい 〜は ない",
+          "en": "Nothing is as ~ as N"
+        },
+        {
+          "id": "g26-3",
+          "pattern": "N だらけ",
+          "en": "Covered in / full of N (bad)"
+        },
+        {
+          "id": "g26-4",
+          "pattern": "あまり(に) / 〜の あまり",
+          "en": "Too ~ / so ~ that (excess)"
+        },
+        {
+          "id": "g26-5",
+          "pattern": "V-る / V-たい だけ",
+          "en": "As much as (you can or want)"
+        }
+      ],
+      "vocabHints": [
+        "animals, birds and insects",
+        "plants and nature",
+        "size, amount and degree"
+      ]
+    },
+    {
+      "n": 27,
+      "slug": "ki-ni-suru-koto-wa-nai",
+      "title": {
+        "ja": "気にすることはない",
+        "ta": "கவலைப்படத் தேவையில்லை",
+        "en": "No need to worry"
+      },
+      "theme": {
+        "en": "Manners and advice: etiquette, opinions and what you need (or don't need) to do.",
+        "ta": "நன்னடத்தையும் அறிவுரையும்: ஒழுக்கம், கருத்துகள், செய்ய வேண்டியவை, தேவையில்லாதவை."
+      },
+      "grammar": [
+        {
+          "id": "g27-1",
+          "pattern": "〜ものだ",
+          "en": "It's natural / one should (general truth)"
+        },
+        {
+          "id": "g27-2",
+          "pattern": "V-る / V-ない ことだ",
+          "en": "You should ~ (advice)"
+        },
+        {
+          "id": "g27-3",
+          "pattern": "V-る ことは ない",
+          "en": "There's no need to ~"
+        },
+        {
+          "id": "g27-4",
+          "pattern": "〜ないことは ない / 〜ないことも ない",
+          "en": "It's not that ~ can't / not impossible"
+        }
+      ],
+      "vocabHints": [
+        "manners and etiquette",
+        "respect and politeness",
+        "advice and opinions",
+        "good and bad behaviour"
+      ]
+    },
+    {
+      "n": 28,
+      "slug": "shigoto-no-nayami",
+      "title": {
+        "ja": "やるしかない",
+        "ta": "செய்வதைத் தவிர வேறு வழியில்லை",
+        "en": "No choice but to do it"
+      },
+      "theme": {
+        "en": "Problems at work: overtime, deadlines, colleagues and having no choice.",
+        "ta": "வேலையில் பிரச்சினைகள்: கூடுதல் நேர வேலை, காலக்கெடு, சக ஊழியர்கள், வேறு வழியில்லாத நிலை."
+      },
+      "grammar": [
+        {
+          "id": "g28-1",
+          "pattern": "V-る しか ない",
+          "en": "Have no choice but to ~"
+        },
+        {
+          "id": "g28-2",
+          "pattern": "V-る ほか ない / V-る より ほか ない",
+          "en": "There's nothing to do but ~ (formal)"
+        },
+        {
+          "id": "g28-3",
+          "pattern": "V-ないで 済む / V-ず に 済む",
+          "en": "Get by without ~ / don't have to after all"
+        },
+        {
+          "id": "g28-4",
+          "pattern": "V-ざるを 得ない",
+          "en": "Cannot help but ~ / be forced to ~ (formal)"
+        }
+      ],
+      "vocabHints": [
+        "the workplace and colleagues",
+        "tasks, deadlines and overtime",
+        "jobs and positions"
+      ]
+    },
+    {
+      "n": 29,
+      "slug": "ruuru-wa-mamoru-beki",
+      "title": {
+        "ja": "ルールは守るべきだ",
+        "ta": "விதிகளைப் பின்பற்ற வேண்டும்",
+        "en": "Rules should be followed"
+      },
+      "theme": {
+        "en": "Life in Japan: rules, customs, notices and how things used to be.",
+        "ta": "ஜப்பானில் வாழ்க்கை: விதிகள், பழக்கவழக்கங்கள், அறிவிப்புகள், முன்பு எப்படி இருந்தது."
+      },
+      "grammar": [
+        {
+          "id": "g29-1",
+          "pattern": "V-る べきだ / V-る べきではない",
+          "en": "Should / should not"
+        },
+        {
+          "id": "g29-2",
+          "pattern": "V-る ものではない",
+          "en": "You shouldn't ~ (social norm)"
+        },
+        {
+          "id": "g29-3",
+          "pattern": "V-た ものだ",
+          "en": "Used to ~ (nostalgic memory)"
+        },
+        {
+          "id": "g29-4",
+          "pattern": "V-る / V-ない こと (instruction)",
+          "en": "Must ~ (written rules and notices)"
+        }
+      ],
+      "vocabHints": [
+        "rules and notices",
+        "rubbish and recycling",
+        "neighbours and housing",
+        "customs and procedures"
+      ]
+    },
+    {
+      "n": 30,
+      "slug": "sekkaku-no-yasumi",
+      "title": {
+        "ja": "せっかくの休み",
+        "ta": "அரிதாகக் கிடைத்த விடுமுறை",
+        "en": "A precious day off"
+      },
+      "theme": {
+        "en": "Free time and hobbies: attitudes and feelings shown through adverbs.",
+        "ta": "ஓய்வு நேரமும் பொழுதுபோக்குகளும்: வினையடைகள் மூலம் வெளிப்படும் மனப்பான்மைகள்."
+      },
+      "grammar": [
+        {
+          "id": "g30-1",
+          "pattern": "せっかく 〜のに / 〜から",
+          "en": "Specially / after all the trouble ~"
+        },
+        {
+          "id": "g30-2",
+          "pattern": "さすが(に)",
+          "en": "As expected of ~ / even ~ (admiration)"
+        },
+        {
+          "id": "g30-3",
+          "pattern": "どうせ 〜",
+          "en": "Anyway (resigned: it won't change)"
+        },
+        {
+          "id": "g30-4",
+          "pattern": "まさか 〜ない / まさか 〜とは",
+          "en": "Surely not ~ / never imagined that ~"
+        },
+        {
+          "id": "g30-5",
+          "pattern": "めったに 〜ない / 決して 〜ない",
+          "en": "Rarely / never"
+        }
+      ],
+      "vocabHints": [
+        "hobbies and free time",
+        "rest and relaxation",
+        "adverbs of frequency and attitude"
+      ]
+    },
+    {
+      "n": 31,
+      "slug": "tanoshii-dokoroka",
+      "title": {
+        "ja": "楽しいどころか",
+        "ta": "மகிழ்ச்சி என்பதற்கு மாறாக",
+        "en": "Far from fun"
+      },
+      "theme": {
+        "en": "Arts and entertainment: opinions on books, films, paintings and music.",
+        "ta": "கலையும் பொழுதுபோக்கும்: புத்தகங்கள், திரைப்படங்கள், ஓவியங்கள், இசை பற்றிய கருத்துகள்."
+      },
+      "grammar": [
+        {
+          "id": "g31-1",
+          "pattern": "〜どころか",
+          "en": "Far from ~ / let alone ~"
+        },
+        {
+          "id": "g31-2",
+          "pattern": "〜ても しかたがない",
+          "en": "It's no use ~ (pointless)"
+        },
+        {
+          "id": "g31-3",
+          "pattern": "別に 〜ない / 少しも 〜ない",
+          "en": "Not particularly / not at all"
+        },
+        {
+          "id": "g31-4",
+          "pattern": "どうやら 〜らしい / 〜ようだ",
+          "en": "It seems that ~ (judging from signs)"
+        },
+        {
+          "id": "g31-5",
+          "pattern": "おそらく 〜だろう",
+          "en": "Probably ~ (formal guess)"
+        }
+      ],
+      "vocabHints": [
+        "art and painting",
+        "music and songs",
+        "books, poems and stories",
+        "reviews and opinions"
+      ]
+    },
+    {
+      "n": 32,
+      "slug": "shiranai-furi",
+      "title": {
+        "ja": "知らないふりをする",
+        "ta": "தெரியாதது போல் நடிப்பது",
+        "en": "Pretending not to know"
+      },
+      "theme": {
+        "en": "Theatre, magic and performance: acting, showing and pretending.",
+        "ta": "நாடகம், மாயவித்தை, நிகழ்ச்சிகள்: நடிப்பது, செய்துகாட்டுவது, பாசாங்கு செய்வது."
+      },
+      "grammar": [
+        {
+          "id": "g32-1",
+          "pattern": "〜ふりを する",
+          "en": "Pretend to ~"
+        },
+        {
+          "id": "g32-2",
+          "pattern": "V-て みせる",
+          "en": "Show (someone) how / I'll show you I can"
+        },
+        {
+          "id": "g32-3",
+          "pattern": "V-て ごらん",
+          "en": "Try ~ (to a junior or child)"
+        },
+        {
+          "id": "g32-4",
+          "pattern": "〜かのように",
+          "en": "As if ~ (though it isn't true)"
+        }
+      ],
+      "vocabHints": [
+        "theatre and the stage",
+        "actors and performances",
+        "magic and tricks",
+        "kings, queens and stories"
+      ]
+    },
+    {
+      "n": 33,
+      "slug": "kodomo-muke",
+      "title": {
+        "ja": "子ども向けの商品",
+        "ta": "குழந்தைகளுக்கான பொருட்கள்",
+        "en": "Products made for children"
+      },
+      "theme": {
+        "en": "Products and design: who it's for, how easy it is to use, quality and comparison.",
+        "ta": "பொருட்களும் வடிவமைப்பும்: யாருக்காக, பயன்படுத்த எவ்வளவு எளிது, தரம், ஒப்பீடு."
+      },
+      "grammar": [
+        {
+          "id": "g33-1",
+          "pattern": "N 向け",
+          "en": "Made for / aimed at N"
+        },
+        {
+          "id": "g33-2",
+          "pattern": "N 向き",
+          "en": "Suited to N"
+        },
+        {
+          "id": "g33-3",
+          "pattern": "V-ます づらい",
+          "en": "Hard to ~ (uncomfortable)"
+        },
+        {
+          "id": "g33-4",
+          "pattern": "Adj-stem み",
+          "en": "Noun from adjective (重み, 楽しみ, 甘み)"
+        },
+        {
+          "id": "g33-5",
+          "pattern": "N に 比べて / N に 比べると",
+          "en": "Compared with N"
+        }
+      ],
+      "vocabHints": [
+        "products and manufacturing",
+        "materials and shapes",
+        "tools and equipment",
+        "quality and design"
+      ]
+    },
+    {
+      "n": 34,
+      "slug": "nihon-to-ieba",
+      "title": {
+        "ja": "日本といえば",
+        "ta": "ஜப்பான் என்றாலே",
+        "en": "Speaking of Japan"
+      },
+      "theme": {
+        "en": "Japanese culture and traditions: festivals, beliefs, arts and topics of conversation.",
+        "ta": "ஜப்பானிய கலாச்சாரமும் பாரம்பரியமும்: திருவிழாக்கள், நம்பிக்கைகள், கலைகள், பேச்சுத் தலைப்புகள்."
+      },
+      "grammar": [
+        {
+          "id": "g34-1",
+          "pattern": "〜と いうと / 〜と いえば / 〜と いったら",
+          "en": "Speaking of ~ / when it comes to ~"
+        },
+        {
+          "id": "g34-2",
+          "pattern": "〜か と いうと",
+          "en": "If you ask whether or why ~, (explaining)"
+        },
+        {
+          "id": "g34-3",
+          "pattern": "Adj / V-た ことに",
+          "en": "To my ~ (嬉しいことに, 驚いたことに)"
+        },
+        {
+          "id": "g34-4",
+          "pattern": "〜ことは 〜が",
+          "en": "It's true that ~, but ~"
+        }
+      ],
+      "vocabHints": [
+        "Japanese traditions and festivals",
+        "religion and beliefs",
+        "traditional arts and objects",
+        "proverbs and sayings"
+      ]
+    },
+    {
+      "n": 35,
+      "slug": "watashi-ni-totte",
+      "title": {
+        "ja": "私にとって",
+        "ta": "எனக்கு",
+        "en": "For me"
+      },
+      "theme": {
+        "en": "Society and values: different points of view, roles and attitudes.",
+        "ta": "சமூகமும் மதிப்பீடுகளும்: வெவ்வேறு கண்ணோட்டங்கள், பங்குகள், மனப்பான்மைகள்."
+      },
+      "grammar": [
+        {
+          "id": "g35-1",
+          "pattern": "N に とって",
+          "en": "For N / from N's point of view"
+        },
+        {
+          "id": "g35-2",
+          "pattern": "N と して / N と しては",
+          "en": "As N (role, capacity)"
+        },
+        {
+          "id": "g35-3",
+          "pattern": "N に 対して (toward)",
+          "en": "Toward / against N"
+        },
+        {
+          "id": "g35-4",
+          "pattern": "N に したら / N に すれば",
+          "en": "From N's standpoint (imagining their feelings)"
+        },
+        {
+          "id": "g35-5",
+          "pattern": "N から 言うと / から すると / から して",
+          "en": "Judging from N"
+        }
+      ],
+      "vocabHints": [
+        "society and the world",
+        "people, generations and groups",
+        "rights and equality",
+        "values and ideas"
+      ]
+    },
+    {
+      "n": 36,
+      "slug": "oshiete-itadakenai-deshou-ka",
+      "title": {
+        "ja": "教えていただけないでしょうか",
+        "ta": "தயவுசெய்து எனக்குச் சொல்ல முடியுமா?",
+        "en": "Could you kindly tell me?"
+      },
+      "theme": {
+        "en": "Business requests and emails: very polite requests, wishes and conditions.",
+        "ta": "வணிகக் கோரிக்கைகளும் மின்னஞ்சல்களும்: மிகப் பணிவான வேண்டுகோள்கள், விருப்பங்கள், நிபந்தனைகள்."
+      },
+      "grammar": [
+        {
+          "id": "g36-1",
+          "pattern": "V-て いただけないでしょうか / V-て もらえないでしょうか",
+          "en": "Would you be so kind as to ~?"
+        },
+        {
+          "id": "g36-2",
+          "pattern": "V-て いただきたい / V-て もらいたい",
+          "en": "I would like you to ~"
+        },
+        {
+          "id": "g36-3",
+          "pattern": "お V-ます 願う / ご N 願う",
+          "en": "We ask you to ~ (formal notices: お待ち願います)"
+        },
+        {
+          "id": "g36-4",
+          "pattern": "N に 応じて / N に 応じた N",
+          "en": "According to / in response to N"
+        },
+        {
+          "id": "g36-5",
+          "pattern": "V-ます 次第 / N 次第",
+          "en": "As soon as ~ / depending on N"
+        }
+      ],
+      "vocabHints": [
+        "business and companies",
+        "documents, contracts, signatures",
+        "requests and proposals",
+        "appointments and meetings"
+      ]
+    },
+    {
+      "n": 37,
+      "slug": "chousa-ni-motozuite",
+      "title": {
+        "ja": "調査に基づいて",
+        "ta": "ஒரு ஆய்வின் அடிப்படையில்",
+        "en": "Based on a survey"
+      },
+      "theme": {
+        "en": "Research and reports: surveys, science and data.",
+        "ta": "ஆராய்ச்சியும் அறிக்கைகளும்: கணக்கெடுப்புகள், அறிவியல், தரவுகள்."
+      },
+      "grammar": [
+        {
+          "id": "g37-1",
+          "pattern": "N に 関して / N に 関する N",
+          "en": "About / concerning N (formal)"
+        },
+        {
+          "id": "g37-2",
+          "pattern": "N に よって / N に よる N",
+          "en": "By / depending on / due to N"
+        },
+        {
+          "id": "g37-3",
+          "pattern": "N を もとに(して)",
+          "en": "Based on N (material, source)"
+        },
+        {
+          "id": "g37-4",
+          "pattern": "N に 基づいて / N に 基づく N",
+          "en": "Based on N (grounds, rules)"
+        },
+        {
+          "id": "g37-5",
+          "pattern": "N を 中心に(して)",
+          "en": "Centred on N"
+        }
+      ],
+      "vocabHints": [
+        "research and surveys",
+        "science: chemistry, physics, biology",
+        "numbers, data and statistics",
+        "space and the earth"
+      ]
+    },
+    {
+      "n": 38,
+      "slug": "kansha-wo-komete",
+      "title": {
+        "ja": "感謝をこめて",
+        "ta": "நன்றியுடன்",
+        "en": "With gratitude"
+      },
+      "theme": {
+        "en": "Ceremonies and events: celebrations, speeches, gifts and opportunities.",
+        "ta": "விழாக்களும் நிகழ்வுகளும்: கொண்டாட்டங்கள், உரைகள், பரிசுகள், வாய்ப்புகள்."
+      },
+      "grammar": [
+        {
+          "id": "g38-1",
+          "pattern": "N を はじめ(として)",
+          "en": "Starting with N / including N"
+        },
+        {
+          "id": "g38-2",
+          "pattern": "N を きっかけに",
+          "en": "Taking N as a chance / triggered by N"
+        },
+        {
+          "id": "g38-3",
+          "pattern": "N を こめて",
+          "en": "With (a feeling) put into it"
+        },
+        {
+          "id": "g38-4",
+          "pattern": "N に 代わって / N に 代わり",
+          "en": "In place of N / on behalf of N"
+        },
+        {
+          "id": "g38-5",
+          "pattern": "N に おいて / N に おける N",
+          "en": "In / at N (formal place or field)"
+        },
+        {
+          "id": "g38-6",
+          "pattern": "V-よう では ないか / V-よう じゃ ないか",
+          "en": "Let's ~ (rallying call in speeches)"
+        }
+      ],
+      "vocabHints": [
+        "ceremonies and celebrations",
+        "speeches and representatives",
+        "gifts and thanks",
+        "opportunities and turning points"
+      ]
+    },
+    {
+      "n": 39,
+      "slug": "nihon-wa-shimaguni-de-aru",
+      "title": {
+        "ja": "日本は島国である",
+        "ta": "ஜப்பான் ஒரு தீவு நாடு",
+        "en": "Japan is an island nation"
+      },
+      "theme": {
+        "en": "Reading news articles: politics, economy and law in written style.",
+        "ta": "செய்திக் கட்டுரைகளைப் படிப்பது: அரசியல், பொருளாதாரம், சட்டம் — எழுத்து நடையில்."
+      },
+      "grammar": [
+        {
+          "id": "g39-1",
+          "pattern": "〜のである / 〜のだ (written)",
+          "en": "It is that ~ (explanatory, written style)"
+        },
+        {
+          "id": "g39-2",
+          "pattern": "V-ず、〜",
+          "en": "Not ~, and (written negative connective)"
+        },
+        {
+          "id": "g39-3",
+          "pattern": "N 上(じょう)",
+          "en": "From the point of view of N (法律上, 健康上)"
+        },
+        {
+          "id": "g39-4",
+          "pattern": "N 的(な)",
+          "en": "-ic, -al (経済的, 積極的)"
+        },
+        {
+          "id": "g39-5",
+          "pattern": "N 化 (する)",
+          "en": "-ization (国際化, 自動化)"
+        }
+      ],
+      "vocabHints": [
+        "politics and government",
+        "law and the constitution",
+        "economy and industry",
+        "war, peace and nations"
+      ]
+    },
+    {
+      "n": 40,
+      "slug": "tsumari-yousuru-ni",
+      "title": {
+        "ja": "つまり、要するに",
+        "ta": "வேறு வார்த்தைகளில் சொன்னால்",
+        "en": "In other words"
+      },
+      "theme": {
+        "en": "Writing opinions and essays: the environment, the future and logical connectors.",
+        "ta": "கருத்துகளையும் கட்டுரைகளையும் எழுதுவது: சுற்றுச்சூழல், எதிர்காலம், தர்க்க இணைப்புச் சொற்கள்."
+      },
+      "grammar": [
+        {
+          "id": "g40-1",
+          "pattern": "すると / そこで",
+          "en": "Then (result) / so (action taken)"
+        },
+        {
+          "id": "g40-2",
+          "pattern": "そのうえ / しかも / さらに",
+          "en": "Moreover, besides"
+        },
+        {
+          "id": "g40-3",
+          "pattern": "つまり / 要するに / すなわち",
+          "en": "In other words, in short, namely"
+        },
+        {
+          "id": "g40-4",
+          "pattern": "ただし / なお",
+          "en": "However (exception) / note that (extra information)"
+        },
+        {
+          "id": "g40-5",
+          "pattern": "なぜなら 〜からだ",
+          "en": "The reason is that ~"
+        }
+      ],
+      "vocabHints": [
+        "conjunctions and essay words",
+        "the environment and resources",
+        "arguments and conclusions",
+        "the future"
+      ]
+    }
+  ]
+}

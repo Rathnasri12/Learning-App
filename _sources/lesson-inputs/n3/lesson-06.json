@@ -1,0 +1,451 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 6,
+  "slug": "tasuke-au",
+  "title": {
+   "ja": "助け合う",
+   "ta": "ஒருவருக்கொருவர் உதவுதல்",
+   "en": "Helping each other"
+  },
+  "theme": {
+   "en": "Family, friends and relationships: helping each other, trying hard, refusing to listen.",
+   "ta": "குடும்பம், நண்பர்கள், உறவுகள்: ஒருவருக்கொருவர் உதவுவது, முயற்சி செய்வது, கேட்க மறுப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g06-1",
+    "pattern": "V-ます 合う",
+    "en": "Do to each other (話し合う, 助け合う)"
+   },
+   {
+    "id": "g06-2",
+    "pattern": "V-ます 込む",
+    "en": "Into / thoroughly (飛び込む, 思い込む)"
+   },
+   {
+    "id": "g06-3",
+    "pattern": "V-よう と する",
+    "en": "Try to ~ / be about to ~"
+   },
+   {
+    "id": "g06-4",
+    "pattern": "V-よう と しない",
+    "en": "Won't even try / refuses to"
+   }
+  ],
+  "vocabHints": [
+   "family members and relatives",
+   "love and marriage",
+   "trust, conflict and making up"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0018",
+   "expression": "氏",
+   "reading": "し",
+   "romaji": "shi",
+   "en": "family name, lineage"
+  },
+  {
+   "id": "n3-v-0049",
+   "expression": "親しい",
+   "reading": "したしい",
+   "romaji": "shitashii",
+   "en": "intimate, close (e.g., friend)"
+  },
+  {
+   "id": "n3-v-0077",
+   "expression": "姉妹",
+   "reading": "しまい",
+   "romaji": "shimai",
+   "en": "sisters"
+  },
+  {
+   "id": "n3-v-0118",
+   "expression": "主婦",
+   "reading": "しゅふ",
+   "romaji": "shufu",
+   "en": "housewife"
+  },
+  {
+   "id": "n3-v-0181",
+   "expression": "知合い",
+   "reading": "しりあい",
+   "romaji": "shiriai",
+   "en": "acquaintance"
+  },
+  {
+   "id": "n3-v-0195",
+   "expression": "親戚",
+   "reading": "しんせき",
+   "romaji": "shinseki",
+   "en": "relative(s)"
+  },
+  {
+   "id": "n3-v-0204",
+   "expression": "親友",
+   "reading": "しんゆう",
+   "romaji": "shin'yuu",
+   "en": "close friend, buddy"
+  },
+  {
+   "id": "n3-v-0205",
+   "expression": "信用",
+   "reading": "しんよう",
+   "romaji": "shin'you",
+   "en": "confidence, dependence"
+  },
+  {
+   "id": "n3-v-0206",
+   "expression": "信頼",
+   "reading": "しんらい",
+   "romaji": "shinrai",
+   "en": "reliance, trust, confidence"
+  },
+  {
+   "id": "n3-v-0257",
+   "expression": "姓",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "surname, family name"
+  },
+  {
+   "id": "n3-v-0296",
+   "expression": "愛",
+   "reading": "あい",
+   "romaji": "ai",
+   "en": "love"
+  },
+  {
+   "id": "n3-v-0298",
+   "expression": "愛情",
+   "reading": "あいじょう",
+   "romaji": "aijou",
+   "en": "love, affection"
+  },
+  {
+   "id": "n3-v-0301",
+   "expression": "愛する",
+   "reading": "あいする",
+   "romaji": "aisuru",
+   "en": "to love"
+  },
+  {
+   "id": "n3-v-0339",
+   "expression": "争う",
+   "reading": "あらそう",
+   "romaji": "arasou",
+   "en": "to dispute, to argue, to fight"
+  },
+  {
+   "id": "n3-v-0394",
+   "expression": "一家",
+   "reading": "いっか",
+   "romaji": "ikka",
+   "en": "family, clan"
+  },
+  {
+   "id": "n3-v-0407",
+   "expression": "従兄弟",
+   "reading": "いとこ",
+   "romaji": "itoko",
+   "en": "cousin (male)"
+  },
+  {
+   "id": "n3-v-0408",
+   "expression": "従姉妹",
+   "reading": "いとこ",
+   "romaji": "itoko",
+   "en": "cousin (female)"
+  },
+  {
+   "id": "n3-v-0460",
+   "expression": "裏切る",
+   "reading": "うらぎる",
+   "romaji": "uragiru",
+   "en": "to betray, to turn traitor"
+  },
+  {
+   "id": "n3-v-0467",
+   "expression": "永遠",
+   "reading": "えいえん",
+   "romaji": "eien",
+   "en": "eternity, perpetuity, immortality"
+  },
+  {
+   "id": "n3-v-0517",
+   "expression": "お互い",
+   "reading": "おたがい",
+   "romaji": "otagai",
+   "en": "mutual, reciprocal, each other"
+  },
+  {
+   "id": "n3-v-0752",
+   "expression": "共通",
+   "reading": "きょうつう",
+   "romaji": "kyoutsuu",
+   "en": "commonness, mutual"
+  },
+  {
+   "id": "n3-v-0753",
+   "expression": "共同",
+   "reading": "きょうどう",
+   "romaji": "kyoudou",
+   "en": "cooperation, association, collaboration"
+  },
+  {
+   "id": "n3-v-0755",
+   "expression": "協力",
+   "reading": "きょうりょく",
+   "romaji": "kyouryoku",
+   "en": "cooperation, collaboration"
+  },
+  {
+   "id": "n3-v-0794",
+   "expression": "組む",
+   "reading": "くむ",
+   "romaji": "kumu",
+   "en": "to put together"
+  },
+  {
+   "id": "n3-v-0874",
+   "expression": "恋",
+   "reading": "こい",
+   "romaji": "koi",
+   "en": "love, tender passion"
+  },
+  {
+   "id": "n3-v-0876",
+   "expression": "恋人",
+   "reading": "こいびと",
+   "romaji": "koibito",
+   "en": "lover; sweetheart; girlfriend"
+  },
+  {
+   "id": "n3-v-0891",
+   "expression": "交際",
+   "reading": "こうさい",
+   "romaji": "kousai",
+   "en": "friendship, association, acquaintance"
+  },
+  {
+   "id": "n3-v-0956",
+   "expression": "婚約",
+   "reading": "こんやく",
+   "romaji": "kon'yaku",
+   "en": "engagement, betrothal"
+  },
+  {
+   "id": "n3-v-0972",
+   "expression": "逆らう",
+   "reading": "さからう",
+   "romaji": "sakarau",
+   "en": "to go against, to oppose, to disobey"
+  },
+  {
+   "id": "n3-v-1000",
+   "expression": "ママ",
+   "reading": "ママ",
+   "romaji": "mama",
+   "en": "Mama"
+  },
+  {
+   "id": "n3-v-1149",
+   "expression": "嫁",
+   "reading": "よめ",
+   "romaji": "yome",
+   "en": "bride, daughter-in-law"
+  },
+  {
+   "id": "n3-v-1164",
+   "expression": "離婚",
+   "reading": "りこん",
+   "romaji": "rikon",
+   "en": "divorce"
+  },
+  {
+   "id": "n3-v-1192",
+   "expression": "別れ",
+   "reading": "わかれ",
+   "romaji": "wakare",
+   "en": "parting, separation, farewell"
+  },
+  {
+   "id": "n3-v-1354",
+   "expression": "対",
+   "reading": "たい",
+   "romaji": "tai",
+   "en": "pair, couple, set"
+  },
+  {
+   "id": "n3-v-1388",
+   "expression": "互い",
+   "reading": "たがい",
+   "romaji": "tagai",
+   "en": "mutual, each other"
+  },
+  {
+   "id": "n3-v-1394",
+   "expression": "抱く",
+   "reading": "だく",
+   "romaji": "daku",
+   "en": "to embrace, to hug"
+  },
+  {
+   "id": "n3-v-1400",
+   "expression": "助ける",
+   "reading": "たすける",
+   "romaji": "tasukeru",
+   "en": "to help (v.t.), to save, to rescue"
+  },
+  {
+   "id": "n3-v-1439",
+   "expression": "頼る",
+   "reading": "たよる",
+   "romaji": "tayoru",
+   "en": "to rely on, to have recourse to, to depend on"
+  },
+  {
+   "id": "n3-v-1466",
+   "expression": "父親",
+   "reading": "ちちおや",
+   "romaji": "chichioya",
+   "en": "father"
+  },
+  {
+   "id": "n3-v-1506",
+   "expression": "付き合い",
+   "reading": "つきあい",
+   "romaji": "tsukiai",
+   "en": "socialization; friendship; association"
+  },
+  {
+   "id": "n3-v-1507",
+   "expression": "付合う",
+   "reading": "つきあう",
+   "romaji": "tsukiau",
+   "en": "to associate with, to keep company with, to get on with"
+  },
+  {
+   "id": "n3-v-1535",
+   "expression": "連れ",
+   "reading": "つれ",
+   "romaji": "tsure",
+   "en": "companion, company"
+  },
+  {
+   "id": "n3-v-1559",
+   "expression": "手伝い",
+   "reading": "てつだい",
+   "romaji": "tetsudai",
+   "en": "help, helper, assistant"
+  },
+  {
+   "id": "n3-v-1599",
+   "expression": "独身",
+   "reading": "どくしん",
+   "romaji": "dokushin",
+   "en": "single, unmarried"
+  },
+  {
+   "id": "n3-v-1645",
+   "expression": "仲",
+   "reading": "なか",
+   "romaji": "naka",
+   "en": "relation, relationship"
+  },
+  {
+   "id": "n3-v-1648",
+   "expression": "仲間",
+   "reading": "なかま",
+   "romaji": "nakama",
+   "en": "company, fellow, colleague, associate"
+  },
+  {
+   "id": "n3-v-1785",
+   "expression": "話し合う",
+   "reading": "はなしあう",
+   "romaji": "hanashiau",
+   "en": "to discuss, to talk together"
+  },
+  {
+   "id": "n3-v-1793",
+   "expression": "母親",
+   "reading": "ははおや",
+   "romaji": "hahaoya",
+   "en": "mother"
+  },
+  {
+   "id": "n3-v-1802",
+   "expression": "反抗",
+   "reading": "はんこう",
+   "romaji": "hankou",
+   "en": "opposition, resistance"
+  },
+  {
+   "id": "n3-v-1830",
+   "expression": "独り",
+   "reading": "ひとり",
+   "romaji": "hitori",
+   "en": "alone, unmarried"
+  },
+  {
+   "id": "n3-v-1860",
+   "expression": "夫婦",
+   "reading": "ふうふ",
+   "romaji": "fuufu",
+   "en": "married couple, husband and wife"
+  },
+  {
+   "id": "n3-v-1875",
+   "expression": "夫人",
+   "reading": "ふじん",
+   "romaji": "fujin",
+   "en": "wife, Mrs, madam"
+  },
+  {
+   "id": "n3-v-1881",
+   "expression": "双子",
+   "reading": "ふたご",
+   "romaji": "futago",
+   "en": "twins, a twin"
+  },
+  {
+   "id": "n3-v-1974",
+   "expression": "孫",
+   "reading": "まご",
+   "romaji": "mago",
+   "en": "grandchild"
+  },
+  {
+   "id": "n3-v-2068",
+   "expression": "対",
+   "reading": "つい",
+   "romaji": "tsui",
+   "en": "pair, couple, set"
+  },
+  {
+   "id": "n3-v-2084",
+   "expression": "同士",
+   "reading": "どうし",
+   "romaji": "doushi",
+   "en": "one another, companion, comrade"
+  },
+  {
+   "id": "n3-v-2085",
+   "expression": "同志",
+   "reading": "どうし",
+   "romaji": "doushi",
+   "en": "same mind, comrade, kindred soul"
+  },
+  {
+   "id": "n3-v-2090",
+   "expression": "供",
+   "reading": "とも",
+   "romaji": "tomo",
+   "en": "accompanying, attendant, companion, retinue"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 14,
+  "slug": "kimochi",
+  "title": {
+   "ja": "ニュースを聞いて、びっくりしました",
+   "ta": "செய்தியைக் கேட்டு ஆச்சரியப்பட்டேன்",
+   "en": "I was surprised to hear the news"
+  },
+  "theme": {
+   "en": "Feelings and reactions: surprise, sadness, fear, joy; an earthquake experience.",
+   "ta": "உணர்வுகளும் எதிர்வினைகளும்: ஆச்சரியம், சோகம், பயம், மகிழ்ச்சி; நிலநடுக்க அனுபவம்."
+  },
+  "grammar": [
+   {
+    "id": "g14-1",
+    "pattern": "V-て / い-adj-くて / な-adj で、〜 (cause)",
+    "en": "Cause of a feeling or result: 聞いて、驚きました"
+   },
+   {
+    "id": "g14-2",
+    "pattern": "N で (cause)",
+    "en": "Because of N: 地震で電車が止まりました"
+   },
+   {
+    "id": "g14-3",
+    "pattern": "plain form / N の ため(に) (reason)",
+    "en": "Because of (formal, notices and news)"
+   },
+   {
+    "id": "g14-4",
+    "pattern": "adj-stem がります / がっています",
+    "en": "Someone else seems to feel …: 寂しがっています"
+   },
+   {
+    "id": "g14-5",
+    "pattern": "N に V-てほしい / V-ないでほしい",
+    "en": "I want someone to (not) do …"
+   }
+  ],
+  "vocabHints": [
+   "emotions: sad, scary, lonely, glad, embarrassed",
+   "reactions: cry, laugh, get angry, be surprised",
+   "earthquake, shaking",
+   "heart, mood, thanks to"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-027",
+   "expression": "怒る",
+   "reading": "おこる",
+   "romaji": "okoru",
+   "en": "to get angry; to scold angrily"
+  },
+  {
+   "id": "n4-v-044",
+   "expression": "気",
+   "reading": "き",
+   "romaji": "ki",
+   "en": "spirit, mood"
+  },
+  {
+   "id": "n4-v-084",
+   "expression": "地震",
+   "reading": "じしん",
+   "romaji": "jishin",
+   "en": "earthquake"
+  },
+  {
+   "id": "n4-v-097",
+   "expression": "揺れる",
+   "reading": "ゆれる",
+   "romaji": "yureru",
+   "en": "to shake, to sway"
+  },
+  {
+   "id": "n4-v-100",
+   "expression": "悲しい",
+   "reading": "かなしい",
+   "romaji": "kanashii",
+   "en": "sad, sorrowful"
+  },
+  {
+   "id": "n4-v-140",
+   "expression": "怖い",
+   "reading": "こわい",
+   "romaji": "kowai",
+   "en": "scary, frightening"
+  },
+  {
+   "id": "n4-v-151",
+   "expression": "恥ずかしい",
+   "reading": "はずかしい",
+   "romaji": "hazukashii",
+   "en": "ashamed, embarrassed"
+  },
+  {
+   "id": "n4-v-217",
+   "expression": "泣く",
+   "reading": "なく",
+   "romaji": "naku",
+   "en": "to cry"
+  },
+  {
+   "id": "n4-v-234",
+   "expression": "驚く",
+   "reading": "おどろく",
+   "romaji": "odoroku",
+   "en": "to be surprised, to be astonished"
+  },
+  {
+   "id": "n4-v-250",
+   "expression": "心",
+   "reading": "こころ",
+   "romaji": "kokoro",
+   "en": "heart, mind"
+  },
+  {
+   "id": "n4-v-284",
+   "expression": "寂しい",
+   "reading": "さびしい",
+   "romaji": "sabishii",
+   "en": "lonely, lonesome"
+  },
+  {
+   "id": "n4-v-320",
+   "expression": "喜ぶ",
+   "reading": "よろこぶ",
+   "romaji": "yorokobu",
+   "en": "to rejoice, to be delighted, to be glad"
+  },
+  {
+   "id": "n4-v-338",
+   "expression": "気持ち",
+   "reading": "きもち",
+   "romaji": "kimochi",
+   "en": "feeling, sensation, mood"
+  },
+  {
+   "id": "n4-v-392",
+   "expression": "びっくりする",
+   "reading": "びっくりする",
+   "romaji": "bikkurisuru",
+   "en": "to be surprised"
+  },
+  {
+   "id": "n4-v-498",
+   "expression": "笑う",
+   "reading": "わらう",
+   "romaji": "warau",
+   "en": "to laugh, to smile"
+  },
+  {
+   "id": "n4-v-591",
+   "expression": "優しい",
+   "reading": "やさしい",
+   "romaji": "yasashii",
+   "en": "kind (person), gentle (person), easy (problem)"
+  },
+  {
+   "id": "n4-v-636",
+   "expression": "おかげ",
+   "reading": "お陰",
+   "romaji": "o陰",
+   "en": "thanks or owing to"
+  },
+  {
+   "id": "n4-v-656",
+   "expression": "うれしい",
+   "reading": "嬉しい",
+   "romaji": "嬉shii",
+   "en": "to be happy; to be glad"
+  }
+ ]
+}

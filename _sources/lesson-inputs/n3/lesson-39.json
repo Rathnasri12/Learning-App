@@ -1,0 +1,457 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 39,
+  "slug": "nihon-wa-shimaguni-de-aru",
+  "title": {
+   "ja": "日本は島国である",
+   "ta": "ஜப்பான் ஒரு தீவு நாடு",
+   "en": "Japan is an island nation"
+  },
+  "theme": {
+   "en": "Reading news articles: politics, economy and law in written style.",
+   "ta": "செய்திக் கட்டுரைகளைப் படிப்பது: அரசியல், பொருளாதாரம், சட்டம் — எழுத்து நடையில்."
+  },
+  "grammar": [
+   {
+    "id": "g39-1",
+    "pattern": "〜のである / 〜のだ (written)",
+    "en": "It is that ~ (explanatory, written style)"
+   },
+   {
+    "id": "g39-2",
+    "pattern": "V-ず、〜",
+    "en": "Not ~, and (written negative connective)"
+   },
+   {
+    "id": "g39-3",
+    "pattern": "N 上(じょう)",
+    "en": "From the point of view of N (法律上, 健康上)"
+   },
+   {
+    "id": "g39-4",
+    "pattern": "N 的(な)",
+    "en": "-ic, -al (経済的, 積極的)"
+   },
+   {
+    "id": "g39-5",
+    "pattern": "N 化 (する)",
+    "en": "-ization (国際化, 自動化)"
+   }
+  ],
+  "vocabHints": [
+   "politics and government",
+   "law and the constitution",
+   "economy and industry",
+   "war, peace and nations"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0057",
+   "expression": "実施",
+   "reading": "じっし",
+   "romaji": "jisshi",
+   "en": "enforcement, carry out, operation"
+  },
+  {
+   "id": "n3-v-0069",
+   "expression": "支配",
+   "reading": "しはい",
+   "romaji": "shihai",
+   "en": "rule, control, direction"
+  },
+  {
+   "id": "n3-v-0089",
+   "expression": "州",
+   "reading": "しゅう",
+   "romaji": "shuu",
+   "en": "state, province"
+  },
+  {
+   "id": "n3-v-0094",
+   "expression": "重視",
+   "reading": "じゅうし",
+   "romaji": "juushi",
+   "en": "importance, stress"
+  },
+  {
+   "id": "n3-v-0111",
+   "expression": "首相",
+   "reading": "しゅしょう",
+   "romaji": "shushou",
+   "en": "Prime Minister"
+  },
+  {
+   "id": "n3-v-0169",
+   "expression": "食糧",
+   "reading": "しょくりょう",
+   "romaji": "shokuryou",
+   "en": "provisions, rations"
+  },
+  {
+   "id": "n3-v-0278",
+   "expression": "制度",
+   "reading": "せいど",
+   "romaji": "seido",
+   "en": "system, institution"
+  },
+  {
+   "id": "n3-v-0282",
+   "expression": "政府",
+   "reading": "せいふ",
+   "romaji": "seifu",
+   "en": "government, administration"
+  },
+  {
+   "id": "n3-v-0292",
+   "expression": "積極的",
+   "reading": "せっきょくてき",
+   "romaji": "sekkyokuteki",
+   "en": "positive, active, proactive"
+  },
+  {
+   "id": "n3-v-0359",
+   "expression": "安定",
+   "reading": "あんてい",
+   "romaji": "antei",
+   "en": "stability, equilibrium"
+  },
+  {
+   "id": "n3-v-0363",
+   "expression": "委員",
+   "reading": "いいん",
+   "romaji": "iin",
+   "en": "committee member"
+  },
+  {
+   "id": "n3-v-0368",
+   "expression": "勢い",
+   "reading": "いきおい",
+   "romaji": "ikioi",
+   "en": "force, vigor, momentum"
+  },
+  {
+   "id": "n3-v-0374",
+   "expression": "維持",
+   "reading": "いじ",
+   "romaji": "iji",
+   "en": "maintenance, preservation"
+  },
+  {
+   "id": "n3-v-0387",
+   "expression": "至る",
+   "reading": "いたる",
+   "romaji": "itaru",
+   "en": "to come, to arrive"
+  },
+  {
+   "id": "n3-v-0418",
+   "expression": "否",
+   "reading": "いや",
+   "romaji": "iya",
+   "en": "no, the noes"
+  },
+  {
+   "id": "n3-v-0508",
+   "expression": "治める",
+   "reading": "おさめる",
+   "romaji": "osameru",
+   "en": "to govern, to manage; to subdue"
+  },
+  {
+   "id": "n3-v-0557",
+   "expression": "外交",
+   "reading": "がいこう",
+   "romaji": "gaikou",
+   "en": "diplomacy"
+  },
+  {
+   "id": "n3-v-0687",
+   "expression": "管理",
+   "reading": "かんり",
+   "romaji": "kanri",
+   "en": "control, management (e.g., of a business)"
+  },
+  {
+   "id": "n3-v-0690",
+   "expression": "議員",
+   "reading": "ぎいん",
+   "romaji": "giin",
+   "en": "member of the Diet, congress, or parliament"
+  },
+  {
+   "id": "n3-v-0695",
+   "expression": "議会",
+   "reading": "ぎかい",
+   "romaji": "gikai",
+   "en": "Diet, congress, parliament"
+  },
+  {
+   "id": "n3-v-0713",
+   "expression": "議長",
+   "reading": "ぎちょう",
+   "romaji": "gichou",
+   "en": "chairman"
+  },
+  {
+   "id": "n3-v-0793",
+   "expression": "組合",
+   "reading": "くみあい",
+   "romaji": "kumiai",
+   "en": "association, union"
+  },
+  {
+   "id": "n3-v-0818",
+   "expression": "軍",
+   "reading": "ぐん",
+   "romaji": "gun",
+   "en": "army, force, troops"
+  },
+  {
+   "id": "n3-v-0820",
+   "expression": "軍隊",
+   "reading": "ぐんたい",
+   "romaji": "guntai",
+   "en": "army, troops"
+  },
+  {
+   "id": "n3-v-0826",
+   "expression": "景気",
+   "reading": "けいき",
+   "romaji": "keiki",
+   "en": "condition, state, business (condition)"
+  },
+  {
+   "id": "n3-v-0863",
+   "expression": "現状",
+   "reading": "げんじょう",
+   "romaji": "genjou",
+   "en": "present condition, status quo"
+  },
+  {
+   "id": "n3-v-0870",
+   "expression": "憲法",
+   "reading": "けんぽう",
+   "romaji": "kenpou",
+   "en": "constitution"
+  },
+  {
+   "id": "n3-v-0921",
+   "expression": "国民",
+   "reading": "こくみん",
+   "romaji": "kokumin",
+   "en": "national, people, citizen"
+  },
+  {
+   "id": "n3-v-0928",
+   "expression": "国家",
+   "reading": "こっか",
+   "romaji": "kokka",
+   "en": "state, country, nation"
+  },
+  {
+   "id": "n3-v-0929",
+   "expression": "国会",
+   "reading": "こっかい",
+   "romaji": "kokkai",
+   "en": "National Diet, parliament, congress"
+  },
+  {
+   "id": "n3-v-1237",
+   "expression": "核",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "nucleus, kernel"
+  },
+  {
+   "id": "n3-v-1253",
+   "expression": "官僚",
+   "reading": "かんりょう",
+   "romaji": "kanryou",
+   "en": "bureaucrat, bureaucracy"
+  },
+  {
+   "id": "n3-v-1257",
+   "expression": "機構",
+   "reading": "きこう",
+   "romaji": "kikou",
+   "en": "mechanism, organization"
+  },
+  {
+   "id": "n3-v-1262",
+   "expression": "享受",
+   "reading": "きょうじゅ",
+   "romaji": "kyouju",
+   "en": "enjoyment, being given"
+  },
+  {
+   "id": "n3-v-1283",
+   "expression": "荒廃",
+   "reading": "こうはい",
+   "romaji": "kouhai",
+   "en": "ruin"
+  },
+  {
+   "id": "n3-v-1304",
+   "expression": "全国",
+   "reading": "ぜんこく",
+   "romaji": "zenkoku",
+   "en": "the entire nation, country-wide, nation-wide"
+  },
+  {
+   "id": "n3-v-1364",
+   "expression": "大使",
+   "reading": "たいし",
+   "romaji": "taishi",
+   "en": "ambassador"
+  },
+  {
+   "id": "n3-v-1369",
+   "expression": "大臣",
+   "reading": "だいじん",
+   "romaji": "daijin",
+   "en": "cabinet minister"
+  },
+  {
+   "id": "n3-v-1371",
+   "expression": "大戦",
+   "reading": "たいせん",
+   "romaji": "taisen",
+   "en": "great war, great battle"
+  },
+  {
+   "id": "n3-v-1373",
+   "expression": "大統領",
+   "reading": "だいとうりょう",
+   "romaji": "daitouryou",
+   "en": "president"
+  },
+  {
+   "id": "n3-v-1452",
+   "expression": "地位",
+   "reading": "ちい",
+   "romaji": "chii",
+   "en": "(social) position, status"
+  },
+  {
+   "id": "n3-v-1464",
+   "expression": "知事",
+   "reading": "ちじ",
+   "romaji": "chiji",
+   "en": "prefectural governor"
+  },
+  {
+   "id": "n3-v-1553",
+   "expression": "適用",
+   "reading": "てきよう",
+   "romaji": "tekiyou",
+   "en": "applying"
+  },
+  {
+   "id": "n3-v-1564",
+   "expression": "デモ",
+   "reading": "デモ",
+   "romaji": "demo",
+   "en": "demo, demonstration"
+  },
+  {
+   "id": "n3-v-1572",
+   "expression": "党",
+   "reading": "とう",
+   "romaji": "tou",
+   "en": "party (political)"
+  },
+  {
+   "id": "n3-v-1584",
+   "expression": "投票",
+   "reading": "とうひょう",
+   "romaji": "touhyou",
+   "en": "voting, poll"
+  },
+  {
+   "id": "n3-v-1603",
+   "expression": "独立",
+   "reading": "どくりつ",
+   "romaji": "dokuritsu",
+   "en": "independence (e.g., Ind. Day), self-support"
+  },
+  {
+   "id": "n3-v-1841",
+   "expression": "評価",
+   "reading": "ひょうか",
+   "romaji": "hyouka",
+   "en": "assessment, evaluation"
+  },
+  {
+   "id": "n3-v-1854",
+   "expression": "不",
+   "reading": "ふ",
+   "romaji": "fu",
+   "en": "un(~), non(~), negative prefix"
+  },
+  {
+   "id": "n3-v-1855",
+   "expression": "不",
+   "reading": "ぶ",
+   "romaji": "bu",
+   "en": "un(~), non(~), negative prefix"
+  },
+  {
+   "id": "n3-v-1916",
+   "expression": "平和",
+   "reading": "へいわ",
+   "romaji": "heiwa",
+   "en": "peace"
+  },
+  {
+   "id": "n3-v-1927",
+   "expression": "法",
+   "reading": "ほう",
+   "romaji": "hou",
+   "en": "Act (law: the X Act)"
+  },
+  {
+   "id": "n3-v-2030",
+   "expression": "振興",
+   "reading": "しんこう",
+   "romaji": "shinkou",
+   "en": "promotion, encouragement"
+  },
+  {
+   "id": "n3-v-2046",
+   "expression": "選挙",
+   "reading": "せんきょ",
+   "romaji": "senkyo",
+   "en": "election"
+  },
+  {
+   "id": "n3-v-2057",
+   "expression": "隊",
+   "reading": "たい",
+   "romaji": "tai",
+   "en": "party, troops"
+  },
+  {
+   "id": "n3-v-2102",
+   "expression": "諮る",
+   "reading": "はかる",
+   "romaji": "hakaru",
+   "en": "to consult with, to confer"
+  },
+  {
+   "id": "n3-v-2110",
+   "expression": "票",
+   "reading": "ひょう",
+   "romaji": "hyou",
+   "en": "label, ballot, sign"
+  },
+  {
+   "id": "n3-v-2129",
+   "expression": "野党",
+   "reading": "やとう",
+   "romaji": "yatou",
+   "en": "opposition party"
+  }
+ ]
+}

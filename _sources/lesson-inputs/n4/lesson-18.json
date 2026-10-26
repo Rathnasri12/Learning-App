@@ -1,0 +1,172 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 18,
+  "slug": "sou-desu-youtai",
+  "title": {
+   "ja": "おいしそうですね",
+   "ta": "சுவையாக இருக்கும் போலிருக்கு",
+   "en": "That looks delicious"
+  },
+  "theme": {
+   "en": "Food and restaurants: taste, smell, texture, ordering and treating friends.",
+   "ta": "உணவும் உணவகங்களும்: சுவை, மணம், மென்மை, ஆர்டர் செய்வது, நண்பர்களுக்கு விருந்தளிப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g18-1",
+    "pattern": "V-ます stem そうです",
+    "en": "Looks like it is about to …: 雨が降りそうです"
+   },
+   {
+    "id": "g18-2",
+    "pattern": "い-adj / な-adj stem そうです (そうな N / そうに V)",
+    "en": "Looks … (judging by appearance): おいしそうなケーキ"
+   },
+   {
+    "id": "g18-3",
+    "pattern": "なさそう / よさそう",
+    "en": "Looks like it isn't … / looks good (special forms)"
+   },
+   {
+    "id": "g18-4",
+    "pattern": "V-てきます (go and come back)",
+    "en": "Go, do something and come back: 飲み物を買ってきます"
+   }
+  ],
+  "vocabHints": [
+   "taste: bitter, delicious, soft, hard, smell",
+   "Western food: steak, salad, sandwich",
+   "meal, treat, alcohol, full",
+   "biting and chewing, leftovers"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-011",
+   "expression": "苦い",
+   "reading": "にがい",
+   "romaji": "nigai",
+   "en": "bitter"
+  },
+  {
+   "id": "n4-v-041",
+   "expression": "柔らかい",
+   "reading": "やわらかい",
+   "romaji": "yawarakai",
+   "en": "soft (in reference to texture), tender"
+  },
+  {
+   "id": "n4-v-108",
+   "expression": "噛む",
+   "reading": "かむ",
+   "romaji": "kamu",
+   "en": "to bite, to chew"
+  },
+  {
+   "id": "n4-v-144",
+   "expression": "サンドイッチ",
+   "reading": "サンドイッチ",
+   "romaji": "sandoitchi",
+   "en": "sandwich"
+  },
+  {
+   "id": "n4-v-169",
+   "expression": "ぶどう",
+   "reading": "ぶどう",
+   "romaji": "budou",
+   "en": "grapes"
+  },
+  {
+   "id": "n4-v-222",
+   "expression": "匂い",
+   "reading": "におい",
+   "romaji": "nioi",
+   "en": "odor, smell"
+  },
+  {
+   "id": "n4-v-229",
+   "expression": "残る",
+   "reading": "のこる",
+   "romaji": "nokoru",
+   "en": "to remain (v.i.), to be left"
+  },
+  {
+   "id": "n4-v-252",
+   "expression": "サラダ",
+   "reading": "サラダ",
+   "romaji": "sarada",
+   "en": "salad"
+  },
+  {
+   "id": "n4-v-257",
+   "expression": "ステーキ",
+   "reading": "ステーキ",
+   "romaji": "suteeki",
+   "en": "steak"
+  },
+  {
+   "id": "n4-v-323",
+   "expression": "味",
+   "reading": "あじ",
+   "romaji": "aji",
+   "en": "flavor, taste"
+  },
+  {
+   "id": "n4-v-327",
+   "expression": "ごちそう",
+   "reading": "ごちそう",
+   "romaji": "gochisou",
+   "en": "feast, treating (someone)"
+  },
+  {
+   "id": "n4-v-352",
+   "expression": "いっぱい",
+   "reading": "一杯",
+   "romaji": "一杯",
+   "en": "full, to the utmost"
+  },
+  {
+   "id": "n4-v-393",
+   "expression": "うまい",
+   "reading": "うまい",
+   "romaji": "umai",
+   "en": "delicious; skillful; fortunate"
+  },
+  {
+   "id": "n4-v-414",
+   "expression": "ハンバーグ",
+   "reading": "ハンバーグ",
+   "romaji": "hanbaagu",
+   "en": "hamburger steak"
+  },
+  {
+   "id": "n4-v-448",
+   "expression": "堅; 硬; 固い",
+   "reading": "かたい",
+   "romaji": "katai",
+   "en": "solid, hard, firm"
+  },
+  {
+   "id": "n4-v-510",
+   "expression": "空く",
+   "reading": "すく",
+   "romaji": "suku",
+   "en": "to be empty (in reference to people), to be less crowded"
+  },
+  {
+   "id": "n4-v-635",
+   "expression": "食事",
+   "reading": "しょくじする",
+   "romaji": "shokujisuru",
+   "en": "meal"
+  },
+  {
+   "id": "n4-v-657",
+   "expression": "アルコール",
+   "reading": "アルコール",
+   "romaji": "arukooru",
+   "en": "alcohol"
+  }
+ ]
+}

@@ -1,0 +1,470 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 26,
+  "slug": "doro-darake",
+  "title": {
+   "ja": "泥だらけ",
+   "ta": "சேறு முழுவதும் படிந்து",
+   "en": "Covered in mud"
+  },
+  "theme": {
+   "en": "Nature and animals: extremes, records and degrees.",
+   "ta": "இயற்கையும் விலங்குகளும்: உச்சநிலைகள், சாதனைகள், அளவுகள்."
+  },
+  "grammar": [
+   {
+    "id": "g26-1",
+    "pattern": "〜くらい / 〜ぐらい (extent)",
+    "en": "To the extent that ~ / so ~ that"
+   },
+   {
+    "id": "g26-2",
+    "pattern": "N ほど 〜は ない / N くらい 〜は ない",
+    "en": "Nothing is as ~ as N"
+   },
+   {
+    "id": "g26-3",
+    "pattern": "N だらけ",
+    "en": "Covered in / full of N (bad)"
+   },
+   {
+    "id": "g26-4",
+    "pattern": "あまり(に) / 〜の あまり",
+    "en": "Too ~ / so ~ that (excess)"
+   },
+   {
+    "id": "g26-5",
+    "pattern": "V-る / V-たい だけ",
+    "en": "As much as (you can or want)"
+   }
+  ],
+  "vocabHints": [
+   "animals, birds and insects",
+   "plants and nature",
+   "size, amount and degree"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0011",
+   "expression": "猿",
+   "reading": "さる",
+   "romaji": "saru",
+   "en": "monkey"
+  },
+  {
+   "id": "n3-v-0043",
+   "expression": "自然",
+   "reading": "しぜん",
+   "romaji": "shizen",
+   "en": "nature, spontaneous"
+  },
+  {
+   "id": "n3-v-0165",
+   "expression": "植物",
+   "reading": "しょくぶつ",
+   "romaji": "shokubutsu",
+   "en": "plant, vegetation"
+  },
+  {
+   "id": "n3-v-0209",
+   "expression": "巣",
+   "reading": "す",
+   "romaji": "su",
+   "en": "nest, breeding place"
+  },
+  {
+   "id": "n3-v-0219",
+   "expression": "末",
+   "reading": "すえ",
+   "romaji": "sue",
+   "en": "the end of, powder"
+  },
+  {
+   "id": "n3-v-0283",
+   "expression": "生物",
+   "reading": "せいぶつ",
+   "romaji": "seibutsu",
+   "en": "living thing, organism"
+  },
+  {
+   "id": "n3-v-0333",
+   "expression": "穴",
+   "reading": "あな",
+   "romaji": "ana",
+   "en": "hole"
+  },
+  {
+   "id": "n3-v-0352",
+   "expression": "泡",
+   "reading": "あわ",
+   "romaji": "awa",
+   "en": "bubble, foam"
+  },
+  {
+   "id": "n3-v-0360",
+   "expression": "あんなに",
+   "reading": "あんなに",
+   "romaji": "annani",
+   "en": "to that extent, to that degree"
+  },
+  {
+   "id": "n3-v-0369",
+   "expression": "生き物",
+   "reading": "いきもの",
+   "romaji": "ikimono",
+   "en": "living thing, creature"
+  },
+  {
+   "id": "n3-v-0436",
+   "expression": "上",
+   "reading": "うわ",
+   "romaji": "uwa",
+   "en": "upper, outer, surface"
+  },
+  {
+   "id": "n3-v-0437",
+   "expression": "魚",
+   "reading": "うお",
+   "romaji": "uo",
+   "en": "fish"
+  },
+  {
+   "id": "n3-v-0441",
+   "expression": "兎",
+   "reading": "うさぎ",
+   "romaji": "usagi",
+   "en": "rabbit, hare"
+  },
+  {
+   "id": "n3-v-0442",
+   "expression": "牛",
+   "reading": "うし",
+   "romaji": "ushi",
+   "en": "cattle, cow"
+  },
+  {
+   "id": "n3-v-0455",
+   "expression": "馬",
+   "reading": "うま",
+   "romaji": "uma",
+   "en": "horse; promoted bishop (in Japanese chess known as shogi)"
+  },
+  {
+   "id": "n3-v-0545",
+   "expression": "蚊",
+   "reading": "か",
+   "romaji": "ka",
+   "en": "mosquito"
+  },
+  {
+   "id": "n3-v-0549",
+   "expression": "貝",
+   "reading": "かい",
+   "romaji": "kai",
+   "en": "shell, shellfish"
+  },
+  {
+   "id": "n3-v-0564",
+   "expression": "飼う",
+   "reading": "かう",
+   "romaji": "kau",
+   "en": "to keep; to own (a pet); to raise; to feed"
+  },
+  {
+   "id": "n3-v-0570",
+   "expression": "香り",
+   "reading": "かおり",
+   "romaji": "kaori",
+   "en": "aroma, fragrance"
+  },
+  {
+   "id": "n3-v-0581",
+   "expression": "嗅ぐ",
+   "reading": "かぐ",
+   "romaji": "kagu",
+   "en": "to sniff, to smell"
+  },
+  {
+   "id": "n3-v-0651",
+   "expression": "殻",
+   "reading": "から",
+   "romaji": "kara",
+   "en": "shell, husk, hull"
+  },
+  {
+   "id": "n3-v-0655",
+   "expression": "皮",
+   "reading": "かわ",
+   "romaji": "kawa",
+   "en": "skin, hide, leather"
+  },
+  {
+   "id": "n3-v-0759",
+   "expression": "巨大",
+   "reading": "きょだい",
+   "romaji": "kyodai",
+   "en": "huge, gigantic, enormous"
+  },
+  {
+   "id": "n3-v-0781",
+   "expression": "臭い",
+   "reading": "くさい",
+   "romaji": "kusai",
+   "en": "stinky, smelly, bad-smelling"
+  },
+  {
+   "id": "n3-v-0783",
+   "expression": "腐る",
+   "reading": "くさる",
+   "romaji": "kusaru",
+   "en": "to rot, to go bad"
+  },
+  {
+   "id": "n3-v-0802",
+   "expression": "グラス",
+   "reading": "グラス",
+   "romaji": "gurasu",
+   "en": "glass; grass"
+  },
+  {
+   "id": "n3-v-0916",
+   "expression": "極",
+   "reading": "ごく",
+   "romaji": "goku",
+   "en": "quite, very"
+  },
+  {
+   "id": "n3-v-0952",
+   "expression": "こんなに",
+   "reading": "こんなに",
+   "romaji": "konnani",
+   "en": "so, like this, in this way"
+  },
+  {
+   "id": "n3-v-0985",
+   "expression": "刺す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to sting, to bite (e.g., bug), to prick, to stab"
+  },
+  {
+   "id": "n3-v-1010",
+   "expression": "実",
+   "reading": "み",
+   "romaji": "mi",
+   "en": "fruit, seed, good result"
+  },
+  {
+   "id": "n3-v-1102",
+   "expression": "やや",
+   "reading": "やや",
+   "romaji": "yaya",
+   "en": "a little, partially, somewhat"
+  },
+  {
+   "id": "n3-v-1169",
+   "expression": "量",
+   "reading": "りょう",
+   "romaji": "ryou",
+   "en": "quantity, amount"
+  },
+  {
+   "id": "n3-v-1198",
+   "expression": "僅か",
+   "reading": "わずか",
+   "romaji": "wazuka",
+   "en": "only, merely, a little"
+  },
+  {
+   "id": "n3-v-1229",
+   "expression": "尾",
+   "reading": "お",
+   "romaji": "o",
+   "en": "tail, ridge"
+  },
+  {
+   "id": "n3-v-1315",
+   "expression": "象",
+   "reading": "ぞう",
+   "romaji": "zou",
+   "en": "elephant"
+  },
+  {
+   "id": "n3-v-1322",
+   "expression": "相当",
+   "reading": "そうとう",
+   "romaji": "soutou",
+   "en": "considerably, fairly; worth ~"
+  },
+  {
+   "id": "n3-v-1324",
+   "expression": "底",
+   "reading": "そこ",
+   "romaji": "soko",
+   "en": "bottom, sole"
+  },
+  {
+   "id": "n3-v-1398",
+   "expression": "多少",
+   "reading": "たしょう",
+   "romaji": "tashou",
+   "en": "a little (same as 少し (すこし))"
+  },
+  {
+   "id": "n3-v-1416",
+   "expression": "たっぷり",
+   "reading": "たっぷり",
+   "romaji": "tappuri",
+   "en": "full, in plenty, ample"
+  },
+  {
+   "id": "n3-v-1420",
+   "expression": "種",
+   "reading": "たね",
+   "romaji": "tane",
+   "en": "seed; material; cause"
+  },
+  {
+   "id": "n3-v-1451",
+   "expression": "地",
+   "reading": "ち",
+   "romaji": "chi",
+   "en": "earth"
+  },
+  {
+   "id": "n3-v-1545",
+   "expression": "程度",
+   "reading": "ていど",
+   "romaji": "teido",
+   "en": "degree, amount, level"
+  },
+  {
+   "id": "n3-v-1570",
+   "expression": "天然",
+   "reading": "てんねん",
+   "romaji": "tennen",
+   "en": "nature, spontaneity"
+  },
+  {
+   "id": "n3-v-1627",
+   "expression": "虎",
+   "reading": "とら",
+   "romaji": "tora",
+   "en": "tiger"
+  },
+  {
+   "id": "n3-v-1637",
+   "expression": "泥",
+   "reading": "どろ",
+   "romaji": "doro",
+   "en": "mud"
+  },
+  {
+   "id": "n3-v-1640",
+   "expression": "どんなに",
+   "reading": "どんなに",
+   "romaji": "donnani",
+   "en": "how, how much"
+  },
+  {
+   "id": "n3-v-1671",
+   "expression": "生る",
+   "reading": "なる",
+   "romaji": "naru",
+   "en": "to bear fruit"
+  },
+  {
+   "id": "n3-v-1672",
+   "expression": "馴れる",
+   "reading": "なれる",
+   "romaji": "nareru",
+   "en": "to become domesticated, to become tame"
+  },
+  {
+   "id": "n3-v-1696",
+   "expression": "根",
+   "reading": "ね",
+   "romaji": "ne",
+   "en": "root"
+  },
+  {
+   "id": "n3-v-1700",
+   "expression": "鼠",
+   "reading": "ねずみ",
+   "romaji": "nezumi",
+   "en": "mouse, rat"
+  },
+  {
+   "id": "n3-v-1746",
+   "expression": "生える",
+   "reading": "はえる",
+   "romaji": "haeru",
+   "en": "to grow, to spring up; to cut (teeth)"
+  },
+  {
+   "id": "n3-v-1756",
+   "expression": "莫大",
+   "reading": "ばくだい",
+   "romaji": "bakudai",
+   "en": "enormous, vast"
+  },
+  {
+   "id": "n3-v-1790",
+   "expression": "羽",
+   "reading": "はね",
+   "romaji": "hane",
+   "en": "wing"
+  },
+  {
+   "id": "n3-v-1791",
+   "expression": "羽根",
+   "reading": "はね",
+   "romaji": "hane",
+   "en": "feather"
+  },
+  {
+   "id": "n3-v-1792",
+   "expression": "幅",
+   "reading": "はば",
+   "romaji": "haba",
+   "en": "width, breadth"
+  },
+  {
+   "id": "n3-v-1846",
+   "expression": "表面",
+   "reading": "ひょうめん",
+   "romaji": "hyoumen",
+   "en": "surface, outside, face"
+  },
+  {
+   "id": "n3-v-1934",
+   "expression": "豊富",
+   "reading": "ほうふ",
+   "romaji": "houfu",
+   "en": "abundance, plenty"
+  },
+  {
+   "id": "n3-v-1938",
+   "expression": "吠える",
+   "reading": "ほえる",
+   "romaji": "hoeru",
+   "en": "to bark, to howl"
+  },
+  {
+   "id": "n3-v-1954",
+   "expression": "ほぼ",
+   "reading": "ほぼ",
+   "romaji": "hobo",
+   "en": "almost, roughly"
+  },
+  {
+   "id": "n3-v-2093",
+   "expression": "馴らす",
+   "reading": "ならす",
+   "romaji": "narasu",
+   "en": "to domesticate, to tame"
+  }
+ ]
+}

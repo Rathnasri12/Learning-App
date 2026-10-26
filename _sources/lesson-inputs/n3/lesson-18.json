@@ -1,0 +1,464 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 18,
+  "slug": "goukaku-suru-ni-wa",
+  "title": {
+   "ja": "合格するには",
+   "ta": "தேர்வில் தேர்ச்சி பெற",
+   "en": "To pass the exam"
+  },
+  "theme": {
+   "en": "Studying and exams: goals, hopes and preparation.",
+   "ta": "படிப்பும் தேர்வுகளும்: இலக்குகள், நம்பிக்கைகள், தயாரிப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g18-1",
+    "pattern": "V-る には",
+    "en": "In order to ~ (requirement)"
+   },
+   {
+    "id": "g18-2",
+    "pattern": "〜と いい(な) / 〜と いいね",
+    "en": "I hope ~ (wish)"
+   },
+   {
+    "id": "g18-3",
+    "pattern": "V-た つもりで / V-た つもり",
+    "en": "As if / believing that one has ~"
+   },
+   {
+    "id": "g18-4",
+    "pattern": "N に 向けて",
+    "en": "Toward (a goal or date)"
+   },
+   {
+    "id": "g18-5",
+    "pattern": "V-る よう(に) お願いします",
+    "en": "Please make sure to ~ (polite written request)"
+   }
+  ],
+  "vocabHints": [
+   "school and university",
+   "exams and grades",
+   "language study: words, grammar",
+   "teachers and textbooks"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0065",
+   "expression": "指導",
+   "reading": "しどう",
+   "romaji": "shidou",
+   "en": "leadership, guidance, coaching"
+  },
+  {
+   "id": "n3-v-0103",
+   "expression": "集中",
+   "reading": "しゅうちゅう",
+   "romaji": "shuuchuu",
+   "en": "concentration, focusing the mind"
+  },
+  {
+   "id": "n3-v-0128",
+   "expression": "章",
+   "reading": "しょう",
+   "romaji": "shou",
+   "en": "chapter, section; medal"
+  },
+  {
+   "id": "n3-v-0132",
+   "expression": "奨学金",
+   "reading": "しょうがくきん",
+   "romaji": "shougakukin",
+   "en": "scholarship"
+  },
+  {
+   "id": "n3-v-0159",
+   "expression": "省略",
+   "reading": "しょうりゃく",
+   "romaji": "shouryaku",
+   "en": "omission, abbreviation, abridgment"
+  },
+  {
+   "id": "n3-v-0170",
+   "expression": "書斎",
+   "reading": "しょさい",
+   "romaji": "shosai",
+   "en": "study, den"
+  },
+  {
+   "id": "n3-v-0358",
+   "expression": "暗記",
+   "reading": "あんき",
+   "romaji": "anki",
+   "en": "memorization, learning by heart"
+  },
+  {
+   "id": "n3-v-0516",
+   "expression": "教わる",
+   "reading": "おそわる",
+   "romaji": "osowaru",
+   "en": "to be taught"
+  },
+  {
+   "id": "n3-v-0544",
+   "expression": "可",
+   "reading": "か",
+   "romaji": "ka",
+   "en": "passable"
+  },
+  {
+   "id": "n3-v-0583",
+   "expression": "学",
+   "reading": "がく",
+   "romaji": "gaku",
+   "en": "learning, knowledge"
+  },
+  {
+   "id": "n3-v-0587",
+   "expression": "学者",
+   "reading": "がくしゃ",
+   "romaji": "gakusha",
+   "en": "scholar"
+  },
+  {
+   "id": "n3-v-0588",
+   "expression": "学習",
+   "reading": "がくしゅう",
+   "romaji": "gakushuu",
+   "en": "study, learning"
+  },
+  {
+   "id": "n3-v-0592",
+   "expression": "学問",
+   "reading": "がくもん",
+   "romaji": "gakumon",
+   "en": "scholarship, study, learning"
+  },
+  {
+   "id": "n3-v-0626",
+   "expression": "学期",
+   "reading": "がっき",
+   "romaji": "gakki",
+   "en": "term (school)"
+  },
+  {
+   "id": "n3-v-0629",
+   "expression": "活用",
+   "reading": "かつよう",
+   "romaji": "katsuyou",
+   "en": "conjugation; practical use"
+  },
+  {
+   "id": "n3-v-0632",
+   "expression": "課程",
+   "reading": "かてい",
+   "romaji": "katei",
+   "en": "course, curriculum"
+  },
+  {
+   "id": "n3-v-0646",
+   "expression": "科目",
+   "reading": "かもく",
+   "romaji": "kamoku",
+   "en": "(school) subject, curriculum, course"
+  },
+  {
+   "id": "n3-v-0734",
+   "expression": "級",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "class, grade, rank"
+  },
+  {
+   "id": "n3-v-0746",
+   "expression": "教科書",
+   "reading": "きょうかしょ",
+   "romaji": "kyoukasho",
+   "en": "textbook"
+  },
+  {
+   "id": "n3-v-0750",
+   "expression": "教授",
+   "reading": "きょうじゅ",
+   "romaji": "kyouju",
+   "en": "teaching, instruction; professor"
+  },
+  {
+   "id": "n3-v-0778",
+   "expression": "句",
+   "reading": "く",
+   "romaji": "ku",
+   "en": "phrase"
+  },
+  {
+   "id": "n3-v-0792",
+   "expression": "組",
+   "reading": "くみ",
+   "romaji": "kumi",
+   "en": "class, team, set"
+  },
+  {
+   "id": "n3-v-0798",
+   "expression": "位",
+   "reading": "くらい",
+   "romaji": "kurai",
+   "en": "grade, rank, about"
+  },
+  {
+   "id": "n3-v-0817",
+   "expression": "訓",
+   "reading": "くん",
+   "romaji": "kun",
+   "en": "native Japanese reading of a Chinese character"
+  },
+  {
+   "id": "n3-v-0846",
+   "expression": "欠席",
+   "reading": "けっせき",
+   "romaji": "kesseki",
+   "en": "absence, non-attendance"
+  },
+  {
+   "id": "n3-v-0857",
+   "expression": "言語",
+   "reading": "げんご",
+   "romaji": "gengo",
+   "en": "language"
+  },
+  {
+   "id": "n3-v-0892",
+   "expression": "校舎",
+   "reading": "こうしゃ",
+   "romaji": "kousha",
+   "en": "school building"
+  },
+  {
+   "id": "n3-v-0913",
+   "expression": "語学",
+   "reading": "ごがく",
+   "romaji": "gogaku",
+   "en": "language study"
+  },
+  {
+   "id": "n3-v-0919",
+   "expression": "黒板",
+   "reading": "こくばん",
+   "romaji": "kokuban",
+   "en": "blackboard"
+  },
+  {
+   "id": "n3-v-1046",
+   "expression": "名詞",
+   "reading": "めいし",
+   "romaji": "meishi",
+   "en": "noun"
+  },
+  {
+   "id": "n3-v-1067",
+   "expression": "文字",
+   "reading": "もじ",
+   "romaji": "moji",
+   "en": "letter (of alphabet), character"
+  },
+  {
+   "id": "n3-v-1068",
+   "expression": "文字",
+   "reading": "もんじ",
+   "romaji": "monji",
+   "en": "letter (of alphabet), character"
+  },
+  {
+   "id": "n3-v-1091",
+   "expression": "訳",
+   "reading": "やく",
+   "romaji": "yaku",
+   "en": "translation"
+  },
+  {
+   "id": "n3-v-1092",
+   "expression": "訳す",
+   "reading": "やくす",
+   "romaji": "yakusu",
+   "en": "to translate"
+  },
+  {
+   "id": "n3-v-1148",
+   "expression": "読み",
+   "reading": "よみ",
+   "romaji": "yomi",
+   "en": "reading"
+  },
+  {
+   "id": "n3-v-1170",
+   "expression": "寮",
+   "reading": "りょう",
+   "romaji": "ryou",
+   "en": "hostel, dormitory"
+  },
+  {
+   "id": "n3-v-1232",
+   "expression": "教え",
+   "reading": "おしえ",
+   "romaji": "oshie",
+   "en": "teachings, doctrine"
+  },
+  {
+   "id": "n3-v-1242",
+   "expression": "課題",
+   "reading": "かだい",
+   "romaji": "kadai",
+   "en": "subject, theme, task"
+  },
+  {
+   "id": "n3-v-1286",
+   "expression": "語句",
+   "reading": "ごく",
+   "romaji": "goku",
+   "en": "words, phrases"
+  },
+  {
+   "id": "n3-v-1303",
+   "expression": "専攻",
+   "reading": "せんこう",
+   "romaji": "senkou",
+   "en": "major subject, special study"
+  },
+  {
+   "id": "n3-v-1435",
+   "expression": "試し",
+   "reading": "ためし",
+   "romaji": "tameshi",
+   "en": "trial, test"
+  },
+  {
+   "id": "n3-v-1436",
+   "expression": "試す",
+   "reading": "ためす",
+   "romaji": "tamesu",
+   "en": "to attempt, to test"
+  },
+  {
+   "id": "n3-v-1440",
+   "expression": "段",
+   "reading": "だん",
+   "romaji": "dan",
+   "en": "step, stair, grade"
+  },
+  {
+   "id": "n3-v-1441",
+   "expression": "単位",
+   "reading": "たんい",
+   "romaji": "tan'i",
+   "en": "credit (for a course in school); unit, denomination"
+  },
+  {
+   "id": "n3-v-1442",
+   "expression": "単語",
+   "reading": "たんご",
+   "romaji": "tango",
+   "en": "word; vocabulary"
+  },
+  {
+   "id": "n3-v-1456",
+   "expression": "知恵",
+   "reading": "ちえ",
+   "romaji": "chie",
+   "en": "wisdom, wit, intelligence"
+  },
+  {
+   "id": "n3-v-1465",
+   "expression": "知識",
+   "reading": "ちしき",
+   "romaji": "chishiki",
+   "en": "knowledge, information"
+  },
+  {
+   "id": "n3-v-1467",
+   "expression": "知能",
+   "reading": "ちのう",
+   "romaji": "chinou",
+   "en": "intelligence, brains"
+  },
+  {
+   "id": "n3-v-1474",
+   "expression": "注",
+   "reading": "ちゅう",
+   "romaji": "chuu",
+   "en": "annotation, explanatory note"
+  },
+  {
+   "id": "n3-v-1476",
+   "expression": "中学",
+   "reading": "ちゅうがく",
+   "romaji": "chuugaku",
+   "en": "middle school, junior high school"
+  },
+  {
+   "id": "n3-v-1571",
+   "expression": "問い",
+   "reading": "とい",
+   "romaji": "toi",
+   "en": "question, query"
+  },
+  {
+   "id": "n3-v-1574",
+   "expression": "答案",
+   "reading": "とうあん",
+   "romaji": "touan",
+   "en": "examination paper, examination script"
+  },
+  {
+   "id": "n3-v-1578",
+   "expression": "動詞",
+   "reading": "どうし",
+   "romaji": "doushi",
+   "en": "verb"
+  },
+  {
+   "id": "n3-v-1594",
+   "expression": "解く",
+   "reading": "とく",
+   "romaji": "toku",
+   "en": "to unfasten; answer, solve"
+  },
+  {
+   "id": "n3-v-1749",
+   "expression": "博士",
+   "reading": "はかせ",
+   "romaji": "hakase",
+   "en": "doctorate, PhD., doctor"
+  },
+  {
+   "id": "n3-v-1909",
+   "expression": "文",
+   "reading": "ぶん",
+   "romaji": "bun",
+   "en": "sentence"
+  },
+  {
+   "id": "n3-v-2010",
+   "expression": "字体",
+   "reading": "じたい",
+   "romaji": "jitai",
+   "en": "font, lettering"
+  },
+  {
+   "id": "n3-v-2017",
+   "expression": "修飾",
+   "reading": "しゅうしょく",
+   "romaji": "shuushoku",
+   "en": "ornamentation; modification (gram)"
+  },
+  {
+   "id": "n3-v-2026",
+   "expression": "助詞",
+   "reading": "じょし",
+   "romaji": "joshi",
+   "en": "(gram) particle(s), postposition"
+  }
+ ]
+}

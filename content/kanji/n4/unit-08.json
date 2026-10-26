@@ -1,0 +1,398 @@
+{
+  "unit": 8,
+  "title": { "en": "Family, food and daily life", "ta": "குடும்பம், உணவு, அன்றாட வாழ்க்கை" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for family and food: older and younger brothers and sisters, tea, cow, fish, winter, noon, and useful words like matter, start and person. Tip: 姉 (older sister) and 妹 (younger sister) both have 女 (woman) on the left; only the right side is different.",
+    "ta": "இந்தப் பாடத்தில் குடும்பம், உணவு பற்றிய 12 கான்ஜிகளைக் கற்கிறீர்கள்: அண்ணன், தம்பி, அக்கா, தங்கை, தேநீர், மாடு, மீன், குளிர் காலம், மதியம், மேலும் விஷயம், புறப்படு, நபர் போன்ற பயனுள்ள சொற்கள். குறிப்பு: 姉 (அக்கா), 妹 (தங்கை) இரண்டுக்கும் இடப்பக்கம் 女 (பெண்); வலப்பக்கம் மட்டுமே வேறு."
+  },
+  "kanji": [
+    {
+      "kanji": "冬",
+      "meaning": { "en": "winter", "ta": "குளிர் காலம்" },
+      "on": ["とう"],
+      "kun": ["ふゆ"],
+      "mnemonic": {
+        "en": "On top are slow, dragging legs (夂), as in 夏. Below them are two drops of ice (冫). Walking slowly and carefully over icy ground: winter.",
+        "ta": "மேலே மெதுவாக இழுக்கும் கால்கள் (夂), 夏-இல் போல. அவற்றுக்குக் கீழே இரண்டு பனித்துளிகள் (冫). பனி படிந்த தரையில் வழுக்காமல் மெதுவாக நடப்பது: குளிர் காலம்."
+      },
+      "note": {
+        "en": "夏 (summer) and 冬 (winter) both have the slow legs 夂. Summer has a big head on top; winter has ice below.",
+        "ta": "夏 (கோடை), 冬 (குளிர்) இரண்டிலும் மெதுவான கால்கள் 夂 உண்டு. கோடைக்கு மேலே பெரிய தலை; குளிருக்குக் கீழே பனி."
+      },
+      "examples": [
+        { "word": "冬", "reading": "ふゆ", "en": "winter", "ta": "குளிர் காலம்", "vocabId": "n5-v-587" },
+        { "word": "冬休み", "reading": "ふゆやすみ", "en": "winter holidays", "ta": "குளிர் கால விடுமுறை" },
+        { "word": "真冬", "reading": "まふゆ", "en": "midwinter, the coldest part of winter", "ta": "நடுக் குளிர் காலம் (கடும் குளிர்)" },
+        { "word": "春夏秋冬", "reading": "しゅんかしゅうとう", "en": "the four seasons", "ta": "நான்கு பருவங்கள்" }
+      ]
+    },
+    {
+      "kanji": "昼",
+      "meaning": { "en": "noon, daytime", "ta": "மதியம் / பகல்" },
+      "on": [],
+      "kun": ["ひる"],
+      "mnemonic": {
+        "en": "The top (尺) is a tall stick for measuring the sun’s shadow. Under it, the sun (日) stands right above the ground line (一). The sun is at its highest and the shadow is shortest: noon.",
+        "ta": "மேல்பகுதி (尺) சூரிய நிழலை அளக்கும் உயரமான குச்சி. அதன் கீழ், தரைக் கோட்டுக்கு (一) நேர் மேலே சூரியன் (日). சூரியன் உச்சியில், நிழல் மிகச் சின்னது: உச்சி வேளை, மதியம்."
+      },
+      "examples": [
+        { "word": "昼", "reading": "ひる", "en": "noon, daytime", "ta": "மதியம் / பகல்", "vocabId": "n5-v-573" },
+        { "word": "昼ご飯", "reading": "ひるごはん", "en": "lunch", "ta": "மதிய உணவு", "vocabId": "n5-v-574" },
+        { "word": "昼休み", "reading": "ひるやすみ", "en": "lunch break", "ta": "மதிய இடைவேளை", "vocabId": "n4-v-476" },
+        { "word": "昼間", "reading": "ひるま", "en": "daytime", "ta": "பகல் நேரம்", "vocabId": "n4-v-365" }
+      ]
+    },
+    {
+      "kanji": "茶",
+      "meaning": { "en": "tea", "ta": "தேநீர்" },
+      "on": ["ちゃ", "さ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top are grass leaves (艹), as in 花. In the middle is a person (人) with a hat. At the bottom is 木 (a tree, a bush). A worker in a hat picks leaves from a bush: tea, like the tea gardens of Ooty and Munnar.",
+        "ta": "மேலே புல் இலைகள் (艹), 花-இல் போல. நடுவில் தொப்பி போட்ட ஒருவர் (人). அடியில் 木 (மரம், செடி). தொப்பி அணிந்த தொழிலாளி செடியிலிருந்து இலை பறிக்கிறார்: ஊட்டி, மூணாறு தேயிலைத் தோட்டம் போல — தேநீர்!"
+      },
+      "note": {
+        "en": "Usually ちゃ, but 茶道 (the tea ceremony) is さどう.",
+        "ta": "பொதுவாக ちゃ, ஆனால் 茶道 (தேநீர் சடங்கு) = さどう."
+      },
+      "examples": [
+        { "word": "お茶", "reading": "おちゃ", "en": "green tea; tea", "ta": "தேநீர் (பச்சைத் தேநீர்)", "vocabId": "n5-v-115" },
+        { "word": "茶色", "reading": "ちゃいろ", "en": "brown", "ta": "பழுப்பு நிறம்", "vocabId": "n5-v-407" },
+        { "word": "茶道", "reading": "さどう", "en": "tea ceremony", "ta": "தேநீர் சடங்கு (ஜப்பானிய முறை)" }
+      ]
+    },
+    {
+      "kanji": "弟",
+      "meaning": { "en": "younger brother", "ta": "தம்பி" },
+      "on": ["だい"],
+      "kun": ["おとうと"],
+      "mnemonic": {
+        "en": "On top are two little tufts of hair (ソ). In the middle is a bow (弓) with a stick going through it. Your little brother, with his messy hair, plays with a toy bow all day.",
+        "ta": "மேலே இரண்டு சின்ன முடிக்கொத்துகள் (ソ). நடுவில் ஒரு குச்சி ஊடுருவிய வில் (弓). கலைந்த முடியுடன் உங்கள் தம்பி நாள் முழுக்க பொம்மை வில்லுடன் விளையாடுகிறான்."
+      },
+      "note": {
+        "en": "My younger brother = 弟 (おとうと). Someone else’s = 弟さん. 兄弟 (きょうだい) = brothers, siblings.",
+        "ta": "என் தம்பி = 弟 (おとうと). மற்றவரின் தம்பி = 弟さん. 兄弟 (きょうだい) = சகோதரர்கள், உடன்பிறந்தோர்."
+      },
+      "examples": [
+        { "word": "弟", "reading": "おとうと", "en": "(my) younger brother", "ta": "(என்) தம்பி", "vocabId": "n5-v-118" },
+        { "word": "兄弟", "reading": "きょうだい", "en": "brothers; siblings", "ta": "உடன்பிறந்தோர்", "vocabId": "n5-v-206" },
+        { "word": "弟さん", "reading": "おとうとさん", "en": "(someone else’s) younger brother", "ta": "(மற்றவரின்) தம்பி" }
+      ]
+    },
+    {
+      "kanji": "牛",
+      "meaning": { "en": "cow", "ta": "மாடு / பசு" },
+      "on": ["ぎゅう"],
+      "kun": ["うし"],
+      "mnemonic": {
+        "en": "It looks like 午 (noon), but the middle line goes up through the top, like a horn. A cow’s face with one horn sticking up, pulling a bullock cart at noon.",
+        "ta": "இது 午 (மதியம்) போலவே இருக்கும், ஆனால் நடுக்கோடு மேலே கொம்பு போலத் துருத்திக்கொண்டு நிற்கிறது. மதிய வெயிலில் மாட்டு வண்டி இழுக்கும், ஒரு கொம்பு நீட்டிய மாட்டின் முகம்."
+      },
+      "note": {
+        "en": "牛 (cow): the middle line pokes out on top. 午 (noon): it does not.",
+        "ta": "牛 (மாடு): நடுக்கோடு மேலே துருத்தும். 午 (மதியம்): துருத்தாது."
+      },
+      "examples": [
+        { "word": "牛", "reading": "うし", "en": "cow, cattle", "ta": "மாடு (பசு)" },
+        { "word": "牛肉", "reading": "ぎゅうにく", "en": "beef", "ta": "மாட்டிறைச்சி", "vocabId": "n5-v-202" },
+        { "word": "子牛", "reading": "こうし", "en": "calf", "ta": "கன்றுக்குட்டி" }
+      ]
+    },
+    {
+      "kanji": "魚",
+      "meaning": { "en": "fish", "ta": "மீன்" },
+      "on": ["ぎょ"],
+      "kun": ["さかな"],
+      "mnemonic": {
+        "en": "It is a picture of a fish standing on its tail. On top is the head (ク), in the middle a body with scales like a rice field (田), and at the bottom the tail fin (four dots).",
+        "ta": "இது வாலில் நிற்கும் ஒரு மீனின் படம். மேலே தலை (ク), நடுவில் வயல் (田) போலச் செதில்கள் கொண்ட உடல், அடியில் வால் துடுப்பு (நான்கு புள்ளிகள்). காசிமேடு மீன் சந்தையில் பார்ப்பது போல!"
+      },
+      "note": {
+        "en": "Alone it is さかな. In words it is often ぎょ: 金魚 (きんぎょ, goldfish).",
+        "ta": "தனியாக さかな. சொற்களுக்குள் பெரும்பாலும் ぎょ: 金魚 (きんぎょ, தங்கமீன்)."
+      },
+      "examples": [
+        { "word": "魚", "reading": "さかな", "en": "fish", "ta": "மீன்", "vocabId": "n5-v-277" },
+        { "word": "金魚", "reading": "きんぎょ", "en": "goldfish", "ta": "தங்கமீன்" },
+        { "word": "魚屋", "reading": "さかなや", "en": "fish shop", "ta": "மீன் கடை" }
+      ]
+    },
+    {
+      "kanji": "兄",
+      "meaning": { "en": "older brother", "ta": "அண்ணன்" },
+      "on": ["きょう"],
+      "kun": ["あに"],
+      "mnemonic": {
+        "en": "A big mouth (口) walking on two legs (儿). The older brother is the one with the big mouth, always giving orders to the younger ones.",
+        "ta": "இரண்டு கால்களில் (儿) நடக்கும் ஒரு பெரிய வாய் (口). எப்போதும் தம்பி தங்கைகளுக்கு உத்தரவு போடும் பெரிய வாய்க்காரன்தான் அண்ணன்!"
+      },
+      "note": {
+        "en": "My older brother = 兄 (あに). Someone else’s, or when you call your own brother = お兄さん (おにいさん).",
+        "ta": "என் அண்ணன் = 兄 (あに). மற்றவரின் அண்ணன், அல்லது உங்கள் அண்ணனைக் கூப்பிடும்போது = お兄さん (おにいさん)."
+      },
+      "examples": [
+        { "word": "兄", "reading": "あに", "en": "(my) older brother", "ta": "(என்) அண்ணன்", "vocabId": "n5-v-029" },
+        { "word": "お兄さん", "reading": "おにいさん", "en": "older brother (polite)", "ta": "அண்ணன் (மரியாதையாக; மற்றவரின்)", "vocabId": "n5-v-126" },
+        { "word": "兄弟", "reading": "きょうだい", "en": "brothers; siblings", "ta": "உடன்பிறந்தோர்", "vocabId": "n5-v-206" }
+      ]
+    },
+    {
+      "kanji": "妹",
+      "meaning": { "en": "younger sister", "ta": "தங்கை" },
+      "on": ["まい"],
+      "kun": ["いもうと"],
+      "mnemonic": {
+        "en": "On the left is 女 (woman, girl). On the right is 未, a young tree (木) with a short new branch: “not yet grown”. A girl who is not grown up yet: your younger sister.",
+        "ta": "இடப்பக்கம் 女 (பெண்). வலப்பக்கம் 未, ஒரு சின்னப் புதுக் கிளையுடன் கூடிய இளம் மரம் (木): “இன்னும் வளரவில்லை”. இன்னும் வளராத சின்னப் பெண்: உங்கள் தங்கை."
+      },
+      "examples": [
+        { "word": "妹", "reading": "いもうと", "en": "(my) younger sister", "ta": "(என்) தங்கை", "vocabId": "n5-v-068" },
+        { "word": "妹さん", "reading": "いもうとさん", "en": "(someone else’s) younger sister", "ta": "(மற்றவரின்) தங்கை" },
+        { "word": "姉妹", "reading": "しまい", "en": "sisters", "ta": "சகோதரிகள்" }
+      ]
+    },
+    {
+      "kanji": "姉",
+      "meaning": { "en": "older sister", "ta": "அக்கா" },
+      "on": ["し"],
+      "kun": ["あね"],
+      "mnemonic": {
+        "en": "On the left is 女 (woman). On the right is 市, the market. The girl who is old enough to go to the market alone and do the shopping: your older sister.",
+        "ta": "இடப்பக்கம் 女 (பெண்). வலப்பக்கம் 市, சந்தை. தனியாகச் சந்தைக்குப் போய்க் காய்கறி வாங்கும் அளவுக்கு வளர்ந்த பெண்: உங்கள் அக்கா."
+      },
+      "note": {
+        "en": "姉 (older sister) has 市 on the right; 妹 (younger sister) has 未. My older sister = 姉 (あね); someone else’s = お姉さん (おねえさん).",
+        "ta": "姉 (அக்கா) வலப்பக்கம் 市; 妹 (தங்கை) வலப்பக்கம் 未. என் அக்கா = 姉 (あね); மற்றவரின் அக்கா = お姉さん (おねえさん)."
+      },
+      "examples": [
+        { "word": "姉", "reading": "あね", "en": "(my) older sister", "ta": "(என்) அக்கா", "vocabId": "n5-v-030" },
+        { "word": "お姉さん", "reading": "おねえさん", "en": "older sister (polite)", "ta": "அக்கா (மரியாதையாக; மற்றவரின்)", "vocabId": "n5-v-127" },
+        { "word": "姉妹", "reading": "しまい", "en": "sisters", "ta": "சகோதரிகள்" }
+      ]
+    },
+    {
+      "kanji": "事",
+      "meaning": { "en": "thing, matter", "ta": "விஷயம் / காரியம்" },
+      "on": ["じ"],
+      "kun": ["こと"],
+      "mnemonic": {
+        "en": "A hand (ヨ) holds a long stick that goes straight down through a mouth (口) and a desk (一). Someone at a desk, pen in hand, busy with a matter: business, things to do.",
+        "ta": "ஒரு கை (ヨ) ஒரு நீண்ட குச்சியைப் பிடித்திருக்கிறது; அது ஒரு வாய் (口), ஒரு மேசை (一) வழியாக நேராகக் கீழே இறங்குகிறது. கையில் பேனாவுடன் மேசையில் ஒருவர் ஒரு காரியத்தில் மும்முரமாக இருக்கிறார்: விஷயம், செய்ய வேண்டிய வேலை."
+      },
+      "note": {
+        "en": "Alone, 事 is こと (thing, matter). In words it is じ: 食事 (meal), 火事 (fire), 用事 (errand). 仕事 (work) is しごと, with a voiced ご.",
+        "ta": "தனியாக 事 = こと (விஷயம்). சொற்களுக்குள் じ: 食事 (உணவு), 火事 (தீ விபத்து), 用事 (வேலை). 仕事 (பணி) = しごと; இங்கே ご என்று ஒலி மாறும்."
+      },
+      "examples": [
+        { "word": "仕事", "reading": "しごと", "en": "work, job", "ta": "வேலை", "vocabId": "n5-v-296" },
+        { "word": "食事", "reading": "しょくじ", "en": "meal", "ta": "உணவு (சாப்பாடு)", "vocabId": "n4-v-635" },
+        { "word": "火事", "reading": "かじ", "en": "fire (a building on fire)", "ta": "தீ விபத்து", "vocabId": "n4-v-348" },
+        { "word": "大事", "reading": "だいじ", "en": "important, precious", "ta": "முக்கியமான (அருமையான)", "vocabId": "n4-v-069" }
+      ]
+    },
+    {
+      "kanji": "発",
+      "meaning": { "en": "start, depart", "ta": "புறப்படு / தொடங்கு" },
+      "on": ["はつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top (癶) are two feet pointing out, ready to push off. At the bottom are two running legs (儿), as in 兄. Push, jump, go: you depart.",
+        "ta": "மேலே (癶) வெளியே திரும்பிய இரண்டு பாதங்கள், உந்தித் தள்ளத் தயாராக. அடியில் ஓடும் இரண்டு கால்கள் (儿), 兄-இல் போல. உந்து, தாவு, புறப்படு!"
+      },
+      "note": {
+        "en": "はつ often becomes はっ or ぱつ: 出発 (しゅっぱつ, departure), 発見 (はっけん, discovery).",
+        "ta": "はつ பெரும்பாலும் はっ அல்லது ぱつ ஆக மாறும்: 出発 (しゅっぱつ, புறப்பாடு), 発見 (はっけん, கண்டுபிடிப்பு)."
+      },
+      "examples": [
+        { "word": "出発", "reading": "しゅっぱつ", "en": "departure", "ta": "புறப்பாடு", "vocabId": "n4-v-556" },
+        { "word": "発音", "reading": "はつおん", "en": "pronunciation", "ta": "உச்சரிப்பு", "vocabId": "n4-v-054" },
+        { "word": "発見", "reading": "はっけん", "en": "discovery", "ta": "கண்டுபிடிப்பு" }
+      ]
+    },
+    {
+      "kanji": "者",
+      "meaning": { "en": "person (who does…)", "ta": "நபர் (…செய்பவர்)" },
+      "on": ["しゃ"],
+      "kun": ["もの"],
+      "mnemonic": {
+        "en": "The top (耂) is an old man with a walking stick, the same top as 考 (think). Below him is the sun (日). An old man sitting in the sun, watching the world: a person.",
+        "ta": "மேல்பகுதி (耂) கைத்தடியுடன் ஒரு முதியவர்; 考 (யோசி)-இன் அதே மேல்பகுதி. அவருக்குக் கீழே சூரியன் (日). திண்ணையில் வெயிலில் அமர்ந்து உலகத்தைப் பார்க்கும் முதியவர்: ஒரு நபர்."
+      },
+      "note": {
+        "en": "者 is added to words to mean “a person who…”: 医者 (doctor), 学者 (scholar). As a word ending it is usually しゃ; もの in 人気者.",
+        "ta": "“…செய்பவர்” என்ற பொருளில் 者 சொற்களுடன் சேரும்: 医者 (மருத்துவர்), 学者 (அறிஞர்). பெரும்பாலும் しゃ; 人気者-இல் もの."
+      },
+      "examples": [
+        { "word": "医者", "reading": "いしゃ", "en": "doctor", "ta": "மருத்துவர்", "vocabId": "n5-v-053" },
+        { "word": "学者", "reading": "がくしゃ", "en": "scholar", "ta": "அறிஞர்" },
+        { "word": "人気者", "reading": "にんきもの", "en": "popular person", "ta": "எல்லோருக்கும் பிடித்தவர்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU8-q01",
+        "type": "kanji_reading",
+        "sentence": "＿冬＿は ゆきが たくさん ふります。",
+        "target": "冬",
+        "options": ["なつ", "ふゆ", "ふう", "とう"],
+        "answer": 1,
+        "explanation_en": "Alone, 冬 is ふゆ (குளிர் காலம், winter). とう is the on reading (春夏秋冬), and なつ is summer (夏).",
+        "explanation_ta": "தனியாக 冬 = ふゆ (குளிர் காலம், winter). とう on வாசிப்பு (春夏秋冬). なつ என்பது கோடை (夏)."
+      },
+      {
+        "id": "KU8-q02",
+        "type": "kanji_reading",
+        "sentence": "＿昼休み＿に こうえんへ いきます。",
+        "target": "昼休み",
+        "options": ["ちゅうやすみ", "ひるやずみ", "よるやすみ", "ひるやすみ"],
+        "answer": 3,
+        "explanation_en": "昼休み is ひるやすみ (மதிய இடைவேளை, lunch break). ちゅう is an on reading not used here, and よる is night (夜).",
+        "explanation_ta": "昼休み = ひるやすみ (மதிய இடைவேளை, lunch break). ちゅう on வாசிப்பு; இங்கே பயன்படாது. よる என்பது இரவு (夜)."
+      },
+      {
+        "id": "KU8-q03",
+        "type": "kanji_reading",
+        "sentence": "＿お茶＿を のみませんか。",
+        "target": "お茶",
+        "options": ["おちゃ", "おさ", "おちや", "おちょ"],
+        "answer": 0,
+        "explanation_en": "お茶 is おちゃ (தேநீர், tea), with a small ゃ. さ is used only in 茶道, and おちや has a big や, which is wrong.",
+        "explanation_ta": "お茶 = おちゃ (தேநீர், tea); சிறிய ゃ. さ என்பது 茶道-இல் மட்டும். おちや-வில் பெரிய や; அது தவறு."
+      },
+      {
+        "id": "KU8-q04",
+        "type": "kanji_reading",
+        "sentence": "＿兄弟＿は なんにん いますか。",
+        "target": "兄弟",
+        "options": ["けいてい", "きょうだ", "きょうだい", "きょだい"],
+        "answer": 2,
+        "explanation_en": "兄弟 is きょうだい (உடன்பிறந்தோர், siblings). きょう is long, so きょだい is wrong. けいてい uses other on readings that are not used here.",
+        "explanation_ta": "兄弟 = きょうだい (உடன்பிறந்தோர், siblings). きょう நீண்டது; ஆகவே きょだい தவறு. けいてい வேறு on வாசிப்புகள்; இங்கே பயன்படாது."
+      },
+      {
+        "id": "KU8-q05",
+        "type": "kanji_reading",
+        "sentence": "スーパーで ＿牛肉＿を 買いました。",
+        "target": "牛肉",
+        "options": ["ぎゅにく", "うしにく", "ぎゅうにく", "ぎゅうじく"],
+        "answer": 2,
+        "explanation_en": "牛肉 is ぎゅうにく (மாட்டிறைச்சி, beef). ぎゅう is long. うし is the kun reading of 牛, but this word uses on readings.",
+        "explanation_ta": "牛肉 = ぎゅうにく (மாட்டிறைச்சி, beef). ぎゅう நீண்டது. うし என்பது 牛-இன் kun வாசிப்பு; இந்தச் சொல் on வாசிப்புகளைப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU8-q06",
+        "type": "kanji_reading",
+        "sentence": "わたしは ＿魚＿が すきです。",
+        "target": "魚",
+        "options": ["さかな", "ざかな", "ぎょ", "うま"],
+        "answer": 0,
+        "explanation_en": "Alone, 魚 is さかな (மீன், fish). ぎょ is the on reading (金魚), and ざかな is wrongly voiced.",
+        "explanation_ta": "தனியாக 魚 = さかな (மீன், fish). ぎょ on வாசிப்பு (金魚). ざかな தவறான ஒலி மாற்றம்."
+      },
+      {
+        "id": "KU8-q07",
+        "type": "kanji_reading",
+        "sentence": "わたしの ＿姉＿は 先生です。",
+        "target": "姉",
+        "options": ["いもうと", "あに", "あめ", "あね"],
+        "answer": 3,
+        "explanation_en": "姉 is あね (அக்கா, older sister). あに is older brother (兄), and いもうと is younger sister (妹).",
+        "explanation_ta": "姉 = あね (அக்கா, older sister). あに என்பது அண்ணன் (兄); いもうと என்பது தங்கை (妹)."
+      },
+      {
+        "id": "KU8-q08",
+        "type": "kanji_reading",
+        "sentence": "七時に かぞくと ＿食事＿を します。",
+        "target": "食事",
+        "options": ["しょくし", "しょくじ", "しょっじ", "たべこと"],
+        "answer": 1,
+        "explanation_en": "食事 is しょくじ (உணவு, meal). 事 is voiced じ here. たべこと wrongly mixes kun readings.",
+        "explanation_ta": "食事 = しょくじ (உணவு, meal). இங்கே 事 = じ (ஒலி மாற்றம்). たべこと kun வாசிப்புகளைத் தவறாகக் கலந்தது."
+      },
+      {
+        "id": "KU8-q09",
+        "type": "kanji_reading",
+        "sentence": "あしたの 朝 九時に ＿出発＿します。",
+        "target": "出発",
+        "options": ["しゅっぱつ", "しゅつはつ", "しゅっぱち", "でぱつ"],
+        "answer": 0,
+        "explanation_en": "出発 is しゅっぱつ (புறப்பாடு, departure): small っ and ぱ. しゅつはつ has no sound change, which is wrong.",
+        "explanation_ta": "出発 = しゅっぱつ (புறப்பாடு, departure): சிறிய っ, பிறகு ぱ. しゅつはつ-வில் ஒலி மாற்றம் இல்லை; அது தவறு."
+      },
+      {
+        "id": "KU8-q10",
+        "type": "kanji_reading",
+        "sentence": "ねつが あるので ＿医者＿へ 行きました。",
+        "target": "医者",
+        "options": ["いじゃ", "いしや", "いしゃ", "いしょ"],
+        "answer": 2,
+        "explanation_en": "医者 is いしゃ (மருத்துவர், doctor), with a small ゃ. いじゃ is wrongly voiced, and いしや has a big や.",
+        "explanation_ta": "医者 = いしゃ (மருத்துவர், doctor); சிறிய ゃ. いじゃ தவறான ஒலி மாற்றம். いしや-வில் பெரிய や."
+      },
+      {
+        "id": "KU8-q11",
+        "type": "orthography",
+        "sentence": "＿いもうと＿は 十さいです。",
+        "target": "いもうと",
+        "options": ["姉", "妹", "味", "娘"],
+        "answer": 1,
+        "explanation_en": "いもうと is 妹 (தங்கை, younger sister): 女 + 未. 姉 (older sister) has 市 on the right, and 味 has 口 instead of 女.",
+        "explanation_ta": "いもうと = 妹 (தங்கை, younger sister): 女 + 未. 姉 (அக்கா) வலப்பக்கம் 市. 味-இல் 女-க்குப் பதில் 口."
+      },
+      {
+        "id": "KU8-q12",
+        "type": "orthography",
+        "sentence": "こうえんで ＿おとうと＿と あそびます。",
+        "target": "おとうと",
+        "options": ["第", "兄", "弔", "弟"],
+        "answer": 3,
+        "explanation_en": "おとうと is 弟 (தம்பி, younger brother). 第 has bamboo on top, 弔 is missing the hair on top, and 兄 is older brother.",
+        "explanation_ta": "おとうと = 弟 (தம்பி, younger brother). 第-க்கு மேலே மூங்கில். 弔-இல் மேலே முடி இல்லை. 兄 என்பது அண்ணன்."
+      },
+      {
+        "id": "KU8-q13",
+        "type": "orthography",
+        "sentence": "うちで ＿きんぎょ＿を かって います。",
+        "target": "きんぎょ",
+        "options": ["金漁", "全魚", "金鳥", "金魚"],
+        "answer": 3,
+        "explanation_en": "きんぎょ is 金魚 (தங்கமீன், goldfish). 漁 adds water 氵, 鳥 is a bird, and 全 is not 金.",
+        "explanation_ta": "きんぎょ = 金魚 (தங்கமீன், goldfish). 漁-இல் நீர் 氵 சேர்ந்துள்ளது. 鳥 என்பது பறவை. 全 என்பது 金 அல்ல."
+      },
+      {
+        "id": "KU8-q14",
+        "type": "orthography",
+        "sentence": "＿だいじ＿な ものを なくしました。",
+        "target": "だいじ",
+        "options": ["大字", "大事", "大寺", "犬事"],
+        "answer": 1,
+        "explanation_en": "だいじ is 大事 (முக்கியமான, important). 字 and 寺 can sound similar (じ) but mean letter and temple. 犬 has an extra dot.",
+        "explanation_ta": "だいじ = 大事 (முக்கியமான, important). 字, 寺 இரண்டும் じ போல ஒலிக்கலாம், ஆனால் பொருள் எழுத்து, கோயில். 犬-க்கு ஒரு கூடுதல் புள்ளி."
+      },
+      {
+        "id": "KU8-q15",
+        "type": "orthography",
+        "sentence": "日本語の ＿はつおん＿は むずかしいです。",
+        "target": "はつおん",
+        "options": ["登音", "発言", "発音", "発意"],
+        "answer": 2,
+        "explanation_en": "はつおん is 発音 (உச்சரிப்பு, pronunciation). 登 has the same top as 発 but is another kanji. 発言 is a real word, but it is read はつげん (a remark).",
+        "explanation_ta": "はつおん = 発音 (உச்சரிப்பு, pronunciation). 登-க்கும் 発-இன் அதே மேல்பகுதி, ஆனால் வேறு கான்ஜி. 発言 உண்மையான சொல், ஆனால் அது はつげん (கருத்து)."
+      },
+      {
+        "id": "KU8-q16",
+        "type": "orthography",
+        "sentence": "＿あに＿は 大学生です。",
+        "target": "あに",
+        "options": ["兄", "足", "光", "元"],
+        "answer": 0,
+        "explanation_en": "あに is 兄 (அண்ணன், older brother): a mouth 口 on legs 儿. 元 and 光 also end in 儿 but have no 口, and 足 is foot.",
+        "explanation_ta": "あに = 兄 (அண்ணன், older brother): கால்கள் 儿 மேல் வாய் 口. 元, 光 இரண்டும் 儿-இல் முடியும், ஆனால் 口 இல்லை. 足 என்பது கால்."
+      }
+    ]
+  }
+}

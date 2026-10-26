@@ -1,0 +1,191 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 6,
+  "slug": "ikoukei",
+  "title": {
+   "ja": "留学しようと思っています",
+   "ta": "வெளிநாட்டில் படிக்க நினைக்கிறேன்",
+   "en": "I'm thinking of studying abroad"
+  },
+  "theme": {
+   "en": "Plans for the future: study, entrance exams, careers, dreams.",
+   "ta": "எதிர்காலத் திட்டங்கள்: படிப்பு, நுழைவுத் தேர்வு, வேலை, கனவுகள்."
+  },
+  "grammar": [
+   {
+    "id": "g06-1",
+    "pattern": "Volitional form (V-おう / V-よう)",
+    "en": "How to make the volitional ('let's', 'I will') form"
+   },
+   {
+    "id": "g06-2",
+    "pattern": "V-volitional (casual 'let's')",
+    "en": "Let's … in plain speech: 行こう、食べよう"
+   },
+   {
+    "id": "g06-3",
+    "pattern": "V-volitional と思っています",
+    "en": "I'm thinking of … / I intend to … (a plan you have had for a while)"
+   },
+   {
+    "id": "g06-4",
+    "pattern": "V-volitional とします",
+    "en": "Try to … / be about to …"
+   },
+   {
+    "id": "g06-5",
+    "pattern": "まだ V-ていません",
+    "en": "Have not done … yet"
+   }
+  ],
+  "vocabHints": [
+   "future, plans, dreams",
+   "university, faculty, entrance, graduation",
+   "jobs: public servant, specialist",
+   "time: month after next, from now on"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-019",
+   "expression": "～月",
+   "reading": "～つき",
+   "romaji": "～tsuki",
+   "en": "month"
+  },
+  {
+   "id": "n4-v-047",
+   "expression": "つもり",
+   "reading": "つもり",
+   "romaji": "tsumori",
+   "en": "intention, plan"
+  },
+  {
+   "id": "n4-v-063",
+   "expression": "機会",
+   "reading": "きかい",
+   "romaji": "kikai",
+   "en": "chance, opportunity"
+  },
+  {
+   "id": "n4-v-088",
+   "expression": "～学部",
+   "reading": "～がくぶ",
+   "romaji": "～gakubu",
+   "en": "department of a university"
+  },
+  {
+   "id": "n4-v-116",
+   "expression": "思う",
+   "reading": "おもう",
+   "romaji": "omou",
+   "en": "to think, to feel"
+  },
+  {
+   "id": "n4-v-122",
+   "expression": "～家",
+   "reading": "～か",
+   "romaji": "～ka",
+   "en": "person who is specialized in ~"
+  },
+  {
+   "id": "n4-v-160",
+   "expression": "受ける",
+   "reading": "うける",
+   "romaji": "ukeru",
+   "en": "to take (an examination, interview, etc.); to receive"
+  },
+  {
+   "id": "n4-v-174",
+   "expression": "再来月",
+   "reading": "さらいげつ",
+   "romaji": "saraigetsu",
+   "en": "the month after next"
+  },
+  {
+   "id": "n4-v-261",
+   "expression": "予定",
+   "reading": "よてい",
+   "romaji": "yotei",
+   "en": "plans, arrangement, schedule"
+  },
+  {
+   "id": "n4-v-272",
+   "expression": "公務員",
+   "reading": "こうむいん",
+   "romaji": "koumuin",
+   "en": "government worker, public servant"
+  },
+  {
+   "id": "n4-v-343",
+   "expression": "入学",
+   "reading": "にゅうがくする",
+   "romaji": "nyuugakusuru",
+   "en": "entry to school or university"
+  },
+  {
+   "id": "n4-v-373",
+   "expression": "再来週",
+   "reading": "さらいしゅう",
+   "romaji": "saraishuu",
+   "en": "the week after next"
+  },
+  {
+   "id": "n4-v-374",
+   "expression": "夢",
+   "reading": "ゆめ",
+   "romaji": "yume",
+   "en": "a dream"
+  },
+  {
+   "id": "n4-v-402",
+   "expression": "計画",
+   "reading": "けいかくする",
+   "romaji": "keikakusuru",
+   "en": "plan, project, schedule"
+  },
+  {
+   "id": "n4-v-456",
+   "expression": "卒業",
+   "reading": "そつぎょう",
+   "romaji": "sotsugyou",
+   "en": "graduation"
+  },
+  {
+   "id": "n4-v-459",
+   "expression": "専門",
+   "reading": "せんもん",
+   "romaji": "senmon",
+   "en": "major; speciality"
+  },
+  {
+   "id": "n4-v-540",
+   "expression": "将来",
+   "reading": "しょうらい",
+   "romaji": "shourai",
+   "en": "(in the) future; prospects"
+  },
+  {
+   "id": "n4-v-570",
+   "expression": "考える",
+   "reading": "かんがえる",
+   "romaji": "kangaeru",
+   "en": "to think (about); to consider"
+  },
+  {
+   "id": "n4-v-661",
+   "expression": "楽しみ",
+   "reading": "たのしみ",
+   "romaji": "tanoshimi",
+   "en": "pleasure, joy"
+  },
+  {
+   "id": "n4-v-666",
+   "expression": "これから",
+   "reading": "これから",
+   "romaji": "korekara",
+   "en": "from now on, after this"
+  }
+ ]
+}

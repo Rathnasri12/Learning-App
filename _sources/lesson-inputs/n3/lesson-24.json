@@ -1,0 +1,388 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 24,
+  "slug": "kondo-koso",
+  "title": {
+   "ja": "今度こそ",
+   "ta": "இந்த முறை கண்டிப்பாக",
+   "en": "This time for sure"
+  },
+  "theme": {
+   "en": "Achievements and effort: prizes, records, talent and hard work.",
+   "ta": "சாதனைகளும் முயற்சியும்: பரிசுகள், சாதனைப் பதிவுகள், திறமை, கடின உழைப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g24-1",
+    "pattern": "N こそ",
+    "en": "Precisely N / N for sure (emphasis)"
+   },
+   {
+    "id": "g24-2",
+    "pattern": "N さえ / N でさえ",
+    "en": "Even N"
+   },
+   {
+    "id": "g24-3",
+    "pattern": "N まで (even)",
+    "en": "Even N (going as far as)"
+   },
+   {
+    "id": "g24-4",
+    "pattern": "N だって (even)",
+    "en": "Even N / N too (casual)"
+   }
+  ],
+  "vocabHints": [
+   "success and achievements",
+   "prizes and records",
+   "talent, ability and effort"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0054",
+   "expression": "実現",
+   "reading": "じつげん",
+   "romaji": "jitsugen",
+   "en": "implementation, materialization, realization"
+  },
+  {
+   "id": "n3-v-0063",
+   "expression": "実力",
+   "reading": "じつりょく",
+   "romaji": "jitsuryoku",
+   "en": "ability; force"
+  },
+  {
+   "id": "n3-v-0129",
+   "expression": "賞",
+   "reading": "しょう",
+   "romaji": "shou",
+   "en": "prize, award"
+  },
+  {
+   "id": "n3-v-0147",
+   "expression": "上等",
+   "reading": "じょうとう",
+   "romaji": "joutou",
+   "en": "first class, very good"
+  },
+  {
+   "id": "n3-v-0155",
+   "expression": "賞品",
+   "reading": "しょうひん",
+   "romaji": "shouhin",
+   "en": "prize, trophy"
+  },
+  {
+   "id": "n3-v-0212",
+   "expression": "水準",
+   "reading": "すいじゅん",
+   "romaji": "suijun",
+   "en": "level, standard"
+  },
+  {
+   "id": "n3-v-0224",
+   "expression": "優れる",
+   "reading": "すぐれる",
+   "romaji": "sugureru",
+   "en": "to surpass, to outstrip, to excel"
+  },
+  {
+   "id": "n3-v-0267",
+   "expression": "成功",
+   "reading": "せいこう",
+   "romaji": "seikou",
+   "en": "success, hit"
+  },
+  {
+   "id": "n3-v-0272",
+   "expression": "精々",
+   "reading": "せいぜい",
+   "romaji": "seizei",
+   "en": "at the most, at best"
+  },
+  {
+   "id": "n3-v-0273",
+   "expression": "成績",
+   "reading": "せいせき",
+   "romaji": "seiseki",
+   "en": "grade (i.e., on a test), academic record"
+  },
+  {
+   "id": "n3-v-0382",
+   "expression": "偉大",
+   "reading": "いだい",
+   "romaji": "idai",
+   "en": "greatness"
+  },
+  {
+   "id": "n3-v-0496",
+   "expression": "大いに",
+   "reading": "おおいに",
+   "romaji": "ooini",
+   "en": "much, considerably (same as 大変 (たいへん)), greatly"
+  },
+  {
+   "id": "n3-v-0521",
+   "expression": "劣る",
+   "reading": "おとる",
+   "romaji": "otoru",
+   "en": "to fall behind, to be inferior to"
+  },
+  {
+   "id": "n3-v-0602",
+   "expression": "重なる",
+   "reading": "かさなる",
+   "romaji": "kasanaru",
+   "en": "to be piled up, lie on top of one another"
+  },
+  {
+   "id": "n3-v-0627",
+   "expression": "活動",
+   "reading": "かつどう",
+   "romaji": "katsudou",
+   "en": "action, activity"
+  },
+  {
+   "id": "n3-v-0628",
+   "expression": "活躍",
+   "reading": "かつやく",
+   "romaji": "katsuyaku",
+   "en": "activity"
+  },
+  {
+   "id": "n3-v-0641",
+   "expression": "我慢",
+   "reading": "がまん",
+   "romaji": "gaman",
+   "en": "patience, endurance, perseverance"
+  },
+  {
+   "id": "n3-v-0682",
+   "expression": "完全",
+   "reading": "かんぜん",
+   "romaji": "kanzen",
+   "en": "perfection, completeness"
+  },
+  {
+   "id": "n3-v-0712",
+   "expression": "貴重",
+   "reading": "きちょう",
+   "romaji": "kichou",
+   "en": "precious, valuable"
+  },
+  {
+   "id": "n3-v-0764",
+   "expression": "記録",
+   "reading": "きろく",
+   "romaji": "kiroku",
+   "en": "record, minutes, document"
+  },
+  {
+   "id": "n3-v-0883",
+   "expression": "合格",
+   "reading": "ごうかく",
+   "romaji": "goukaku",
+   "en": "success, passing (e.g., exam)"
+  },
+  {
+   "id": "n3-v-0920",
+   "expression": "克服",
+   "reading": "こくふく",
+   "romaji": "kokufuku",
+   "en": "conquest, overcome"
+  },
+  {
+   "id": "n3-v-0961",
+   "expression": "最高",
+   "reading": "さいこう",
+   "romaji": "saikou",
+   "en": "highest, supreme, the most"
+  },
+  {
+   "id": "n3-v-0965",
+   "expression": "最低",
+   "reading": "さいてい",
+   "romaji": "saitei",
+   "en": "least, lowest, worst"
+  },
+  {
+   "id": "n3-v-1008",
+   "expression": "満足",
+   "reading": "まんぞく",
+   "romaji": "manzoku",
+   "en": "satisfaction"
+  },
+  {
+   "id": "n3-v-1013",
+   "expression": "見事",
+   "reading": "みごと",
+   "romaji": "migoto",
+   "en": "splendid, magnificent"
+  },
+  {
+   "id": "n3-v-1048",
+   "expression": "名人",
+   "reading": "めいじん",
+   "romaji": "meijin",
+   "en": "master, expert"
+  },
+  {
+   "id": "n3-v-1103",
+   "expression": "唯一",
+   "reading": "ゆいいつ",
+   "romaji": "yuiitsu",
+   "en": "only, sole, unique"
+  },
+  {
+   "id": "n3-v-1107",
+   "expression": "優秀",
+   "reading": "ゆうしゅう",
+   "romaji": "yuushuu",
+   "en": "superiority, excellence"
+  },
+  {
+   "id": "n3-v-1180",
+   "expression": "レベル",
+   "reading": "レベル",
+   "romaji": "reberu",
+   "en": "level"
+  },
+  {
+   "id": "n3-v-1209",
+   "expression": "当り",
+   "reading": "あたり",
+   "romaji": "atari",
+   "en": "hit, success, reaching the mark"
+  },
+  {
+   "id": "n3-v-1210",
+   "expression": "アップ",
+   "reading": "アップ",
+   "romaji": "appu",
+   "en": "up"
+  },
+  {
+   "id": "n3-v-1355",
+   "expression": "大",
+   "reading": "だい",
+   "romaji": "dai",
+   "en": "big, great"
+  },
+  {
+   "id": "n3-v-1365",
+   "expression": "大した",
+   "reading": "たいした",
+   "romaji": "taishita",
+   "en": "significant, great, considerable"
+  },
+  {
+   "id": "n3-v-1366",
+   "expression": "体重",
+   "reading": "たいじゅう",
+   "romaji": "taijuu",
+   "en": "(body) weight"
+  },
+  {
+   "id": "n3-v-1374",
+   "expression": "大半",
+   "reading": "たいはん",
+   "romaji": "taihan",
+   "en": "most of, majority, mostly"
+  },
+  {
+   "id": "n3-v-1413",
+   "expression": "達する",
+   "reading": "たっする",
+   "romaji": "tassuru",
+   "en": "to reach, to get to"
+  },
+  {
+   "id": "n3-v-1487",
+   "expression": "頂上",
+   "reading": "ちょうじょう",
+   "romaji": "choujou",
+   "en": "top, summit, peak"
+  },
+  {
+   "id": "n3-v-1618",
+   "expression": "トップ",
+   "reading": "トップ",
+   "romaji": "toppu",
+   "en": "top"
+  },
+  {
+   "id": "n3-v-1619",
+   "expression": "届く",
+   "reading": "とどく",
+   "romaji": "todoku",
+   "en": "to reach"
+  },
+  {
+   "id": "n3-v-1633",
+   "expression": "努力",
+   "reading": "どりょく",
+   "romaji": "doryoku",
+   "en": "great effort, exertion, endeavor"
+  },
+  {
+   "id": "n3-v-1638",
+   "expression": "トン",
+   "reading": "トン",
+   "romaji": "ton",
+   "en": "ton (1000 lbs.)"
+  },
+  {
+   "id": "n3-v-1709",
+   "expression": "能",
+   "reading": "のう",
+   "romaji": "nou",
+   "en": "being skilled in, nicely, properly"
+  },
+  {
+   "id": "n3-v-1713",
+   "expression": "能力",
+   "reading": "のうりょく",
+   "romaji": "nouryoku",
+   "en": "ability, faculty"
+  },
+  {
+   "id": "n3-v-1822",
+   "expression": "必死",
+   "reading": "ひっし",
+   "romaji": "hisshi",
+   "en": "desperation, frantic, inevitable result"
+  },
+  {
+   "id": "n3-v-1845",
+   "expression": "評判",
+   "reading": "ひょうばん",
+   "romaji": "hyouban",
+   "en": "fame, reputation"
+  },
+  {
+   "id": "n3-v-1907",
+   "expression": "プロ",
+   "reading": "プロ",
+   "romaji": "puro",
+   "en": "professional"
+  },
+  {
+   "id": "n3-v-1983",
+   "expression": "マスター",
+   "reading": "マスター",
+   "romaji": "masutaa",
+   "en": "bar owner, master (e.g., arts, science)"
+  },
+  {
+   "id": "n3-v-2130",
+   "expression": "優",
+   "reading": "ゆう",
+   "romaji": "yuu",
+   "en": "superiority, high grade"
+  }
+ ]
+}

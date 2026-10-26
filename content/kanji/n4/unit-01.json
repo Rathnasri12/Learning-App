@@ -1,0 +1,407 @@
+{
+  "unit": 1,
+  "title": { "en": "Body, fields and town", "ta": "உடல், வயல், ஊர்" },
+  "intro": {
+    "en": "In this unit you will learn twelve kanji: parts of the body (hand, eye, mouth, foot), the rice field, the town and the sky. Most of them are simple pictures. Look at each shape and find the picture inside it.",
+    "ta": "இந்தப் பிரிவில் பன்னிரண்டு கான்ஜிகளைக் கற்போம்: உடல் உறுப்புகள் (கை, கண், வாய், கால்), நெல் வயல், ஊர், வானம். இவற்றில் பெரும்பாலானவை எளிய படங்களே. ஒவ்வொரு வடிவத்திலும் ஒளிந்திருக்கும் படத்தைத் தேடிப் பாருங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "立",
+      "meaning": { "en": "stand", "ta": "நிற்றல்" },
+      "on": ["りつ"],
+      "kun": ["た.つ", "た.てる"],
+      "mnemonic": {
+        "en": "Look at a person standing on the ground. The dot is the head, the short line is the arms held out, the two small strokes are the legs, and the long bottom line is the ground. The person stands up straight.",
+        "ta": "தரையில் நேராக நிற்கும் ஒருவரைப் பாருங்கள். மேலே உள்ள புள்ளி தலை, சிறிய கோடு விரித்த கைகள், இரண்டு சிறு கோடுகள் கால்கள், அடியில் நீண்ட கோடு தரை. அவர் நிமிர்ந்து நிற்கிறார்!"
+      },
+      "note": {
+        "en": "立つ (たつ) means you stand up. 立てる (たてる) means you make something stand, like a pole or a plan.",
+        "ta": "立つ (たつ) = நீங்களே எழுந்து நிற்பது. 立てる (たてる) = ஒரு கம்பம், ஒரு திட்டம் போன்ற ஒன்றை நிறுத்துவது / அமைப்பது."
+      },
+      "examples": [
+        { "word": "立つ", "reading": "たつ", "en": "to stand up", "ta": "எழுந்து நிற்க", "vocabId": "n5-v-385" },
+        { "word": "立てる", "reading": "たてる", "en": "to stand (something) up; to make (a plan)", "ta": "(ஒன்றை) நிறுத்த; (திட்டம்) போட", "vocabId": "n4-v-230" },
+        { "word": "国立", "reading": "こくりつ", "en": "national (run by the country)", "ta": "தேசிய (அரசு நடத்தும்)" }
+      ]
+    },
+    {
+      "kanji": "手",
+      "meaning": { "en": "hand", "ta": "கை" },
+      "on": ["しゅ"],
+      "kun": ["て"],
+      "mnemonic": {
+        "en": "Hold up your hand. The three flat strokes are your fingers spread out, and the long line down the middle is your arm, with a little hook at the wrist.",
+        "ta": "உங்கள் கையை உயர்த்திப் பாருங்கள். மூன்று குறுக்குக் கோடுகள் விரித்த விரல்கள்; நடுவில் கீழே இறங்கும் நீண்ட கோடு மணிக்கட்டில் சிறு வளைவுடன் உள்ள கை."
+      },
+      "note": {
+        "en": "Special words: 上手 (じょうず, good at) and 下手 (へた, bad at). For a person who does a job, 手 is read しゅ: 運転手 (うんてんしゅ, driver).",
+        "ta": "சிறப்புச் சொற்கள்: 上手 (じょうず, திறமையான), 下手 (へた, திறமையில்லாத). ஒரு வேலை செய்பவரைக் குறிக்கும்போது 手 = しゅ: 運転手 (うんてんしゅ, ஓட்டுநர்)."
+      },
+      "examples": [
+        { "word": "手", "reading": "て", "en": "hand", "ta": "கை", "vocabId": "n5-v-424" },
+        { "word": "手紙", "reading": "てがみ", "en": "letter", "ta": "கடிதம்", "vocabId": "n5-v-429" },
+        { "word": "運転手", "reading": "うんてんしゅ", "en": "driver", "ta": "ஓட்டுநர் (டிரைவர்)", "vocabId": "n4-v-035" },
+        { "word": "上手", "reading": "じょうず", "en": "good at, skilful", "ta": "திறமையான (நன்றாகச் செய்யும்)", "vocabId": "n5-v-319" }
+      ]
+    },
+    {
+      "kanji": "力",
+      "meaning": { "en": "power, strength", "ta": "சக்தி, பலம்" },
+      "on": ["りょく", "りき"],
+      "kun": ["ちから"],
+      "mnemonic": {
+        "en": "It is a strong arm bent at the elbow, showing its muscle. Like a wrestler who says, “Look at my power!”",
+        "ta": "முழங்கையில் மடித்து, தசையைக் காட்டும் வலிமையான கை இது. “என் பலத்தைப் பார்!” என்று காட்டும் மல்யுத்த வீரர் போல."
+      },
+      "note": {
+        "en": "力 looks like katakana カ (ka), but the kanji is a little taller. Most words use りょく: 体力, 電力.",
+        "ta": "力, கட்டகானா カ (ka) போலவே இருக்கும்; கான்ஜி சற்று உயரமானது. பெரும்பாலான சொற்களில் りょく: 体力, 電力."
+      },
+      "examples": [
+        { "word": "力", "reading": "ちから", "en": "strength, power", "ta": "பலம், சக்தி", "vocabId": "n4-v-159" },
+        { "word": "体力", "reading": "たいりょく", "en": "physical strength", "ta": "உடல் வலிமை" },
+        { "word": "電力", "reading": "でんりょく", "en": "electric power", "ta": "மின்சக்தி" },
+        { "word": "力持ち", "reading": "ちからもち", "en": "a very strong person", "ta": "மிகப் பலசாலி" }
+      ]
+    },
+    {
+      "kanji": "目",
+      "meaning": { "en": "eye", "ta": "கண்" },
+      "on": ["もく"],
+      "kun": ["め"],
+      "mnemonic": {
+        "en": "Turn your head to the side and look: it is an eye standing up. The box is the eye, and the two lines inside are the eyelid and the black middle of the eye.",
+        "ta": "தலையை ஒரு பக்கமாகச் சாய்த்துப் பாருங்கள்: நிமிர்த்தி வைத்த ஒரு கண்! பெட்டி கண்; உள்ளே உள்ள இரண்டு கோடுகள் இமையும் கருவிழியும்."
+      },
+      "note": {
+        "en": "After a number, 目 (め) means “the …th”: 二つ目 (the second one), 三日目 (the third day). Don’t mix up 目 (eye, two lines inside) and 日 (sun, one line inside).",
+        "ta": "எண்ணுக்குப் பிறகு 目 (め) = “…-ஆவது”: 二つ目 (இரண்டாவது), 三日目 (மூன்றாவது நாள்). 目 (கண், உள்ளே இரண்டு கோடு), 日 (சூரியன், உள்ளே ஒரு கோடு) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "目", "reading": "め", "en": "eye", "ta": "கண்", "vocabId": "n5-v-655" },
+        { "word": "二つ目", "reading": "ふたつめ", "en": "the second one", "ta": "இரண்டாவது", "vocabId": "n4-v-648" },
+        { "word": "注目", "reading": "ちゅうもく", "en": "attention, notice", "ta": "கவனம் (கவனித்தல்)" }
+      ]
+    },
+    {
+      "kanji": "田",
+      "meaning": { "en": "rice field", "ta": "நெல் வயல்" },
+      "on": ["でん"],
+      "kun": ["た"],
+      "mnemonic": {
+        "en": "Look down at a rice field from a hill. The big box is the field, and the cross inside is the small mud walls (bunds) that cut it into four plots.",
+        "ta": "மலையின் மேலிருந்து ஒரு நெல் வயலைப் பாருங்கள். பெரிய பெட்டி வயல்; உள்ளே உள்ள கூட்டல் குறி அதை நான்கு பாத்திகளாகப் பிரிக்கும் வரப்புகள்."
+      },
+      "note": {
+        "en": "田 is in many family names. After another kanji, た often becomes だ: 山田 (やまだ). Don’t mix up 田 (field) and 由 (the middle line goes up out of the box).",
+        "ta": "பல குடும்பப் பெயர்களில் 田 வரும். வேறு கான்ஜிக்குப் பின் た பெரும்பாலும் だ ஆகும்: 山田 (やまだ). 田 (வயல்), 由 (நடுக்கோடு பெட்டிக்கு மேலே நீளும்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "田んぼ", "reading": "たんぼ", "en": "rice paddy", "ta": "நெல் வயல்" },
+        { "word": "水田", "reading": "すいでん", "en": "paddy field (with water)", "ta": "நீர் நிறைந்த நெல் வயல்" },
+        { "word": "田中さん", "reading": "たなかさん", "en": "Mr./Ms. Tanaka (a family name)", "ta": "தனக்கா அவர்கள் (குடும்பப் பெயர்)" },
+        { "word": "山田さん", "reading": "やまださん", "en": "Mr./Ms. Yamada (a family name)", "ta": "யமதா அவர்கள் (குடும்பப் பெயர்)" }
+      ]
+    },
+    {
+      "kanji": "正",
+      "meaning": { "en": "correct, right", "ta": "சரியான" },
+      "on": ["せい", "しょう"],
+      "kun": ["ただ.しい"],
+      "mnemonic": {
+        "en": "A foot (止, stop) stops exactly at the line (一) on top. It doesn’t cross the line, so it is correct.",
+        "ta": "ஒரு கால் (止, நில்) மேலே உள்ள கோட்டில் (一) சரியாக நின்றுவிடுகிறது. கோட்டைத் தாண்டவில்லை, அதனால் அது சரி!"
+      },
+      "note": {
+        "en": "Use しょう in 正月 (New Year) and 正午 (12 noon). Other words mostly use せい.",
+        "ta": "正月 (புத்தாண்டு), 正午 (நண்பகல் 12 மணி) ஆகியவற்றில் しょう. மற்ற சொற்களில் பெரும்பாலும் せい."
+      },
+      "examples": [
+        { "word": "正しい", "reading": "ただしい", "en": "correct, right", "ta": "சரியான", "vocabId": "n4-v-428" },
+        { "word": "正月", "reading": "しょうがつ", "en": "New Year", "ta": "புத்தாண்டு (ஜப்பானிய புத்தாண்டு)", "vocabId": "n4-v-051" },
+        { "word": "正午", "reading": "しょうご", "en": "noon, 12 o’clock", "ta": "நண்பகல் (12 மணி)" },
+        { "word": "正答", "reading": "せいとう", "en": "correct answer", "ta": "சரியான விடை" }
+      ]
+    },
+    {
+      "kanji": "文",
+      "meaning": { "en": "sentence, writing", "ta": "வாக்கியம், எழுத்து" },
+      "on": ["ぶん", "もん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A teacher with a hat (the dot and the lid on top) sits with crossed legs (the big X). He sits like this all day and writes sentences.",
+        "ta": "தொப்பி அணிந்த ஓர் ஆசிரியர் (மேலே புள்ளியும் மூடியும்) கால்களைக் குறுக்காக மடித்து (பெரிய X) அமர்ந்திருக்கிறார். நாள் முழுவதும் இப்படியே அமர்ந்து வாக்கியங்கள் எழுதுகிறார்."
+      },
+      "note": {
+        "en": "Most words use ぶん. 注文 (ちゅうもん, an order in a shop) uses もん. 文字 (letters) is read もじ.",
+        "ta": "பெரும்பாலான சொற்களில் ぶん. 注文 (ちゅうもん, கடையில் ஆர்டர்) என்பதில் もん. 文字 (எழுத்துகள்) = もじ."
+      },
+      "examples": [
+        { "word": "文", "reading": "ぶん", "en": "sentence", "ta": "வாக்கியம்" },
+        { "word": "作文", "reading": "さくぶん", "en": "essay, composition", "ta": "கட்டுரை", "vocabId": "n5-v-280" },
+        { "word": "文学", "reading": "ぶんがく", "en": "literature", "ta": "இலக்கியம்", "vocabId": "n4-v-500" },
+        { "word": "注文", "reading": "ちゅうもん", "en": "order (in a shop or restaurant)", "ta": "ஆர்டர் (கடை / உணவகத்தில்)" }
+      ]
+    },
+    {
+      "kanji": "口",
+      "meaning": { "en": "mouth", "ta": "வாய்" },
+      "on": ["こう"],
+      "kun": ["くち"],
+      "mnemonic": {
+        "en": "It is an open mouth, wide open like when you say “Aaa” for the doctor. A mouth is also a door where things go in and out.",
+        "ta": "இது திறந்த வாய்; டாக்டரிடம் “ஆ…” என்று காட்டுவது போல அகலமாகத் திறந்திருக்கிறது. பொருள்கள் உள்ளே வந்து வெளியே போகும் கதவும் வாய் போன்றதே."
+      },
+      "note": {
+        "en": "After 入 and 出, くち becomes ぐち: 入口 (いりぐち), 出口 (でぐち). Don’t mix up 口 (3 strokes) with katakana ロ (ro, 2 strokes).",
+        "ta": "入, 出 ஆகியவற்றுக்குப் பின் くち → ぐち: 入口 (いりぐち), 出口 (でぐち). 口 (3 கோடுகள்), கட்டகானா ロ (ro, 2 கோடுகள்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "口", "reading": "くち", "en": "mouth", "ta": "வாய்", "vocabId": "n5-v-220" },
+        { "word": "入口", "reading": "いりぐち", "en": "entrance", "ta": "நுழைவாயில்", "vocabId": "n5-v-070" },
+        { "word": "出口", "reading": "でぐち", "en": "exit", "ta": "வெளியேறும் வழி", "vocabId": "n5-v-431" },
+        { "word": "人口", "reading": "じんこう", "en": "population", "ta": "மக்கள்தொகை", "vocabId": "n4-v-091" }
+      ]
+    },
+    {
+      "kanji": "町",
+      "meaning": { "en": "town", "ta": "ஊர், சிறு நகரம்" },
+      "on": ["ちょう"],
+      "kun": ["まち"],
+      "mnemonic": {
+        "en": "On the left, rice fields (田). On the right, a long straight street (丁) like a nail. When a street is built next to the fields, a town grows.",
+        "ta": "இடப்பக்கம் நெல் வயல்கள் (田). வலப்பக்கம் ஆணி போல நீளமான நேரான தெரு (丁). வயல்களின் பக்கத்தில் தெரு போட்டதும், ஓர் ஊர் உருவாகிறது!"
+      },
+      "examples": [
+        { "word": "町", "reading": "まち", "en": "town", "ta": "ஊர் (நகரம்)", "vocabId": "n5-v-627" },
+        { "word": "下町", "reading": "したまち", "en": "old part of a city, downtown", "ta": "நகரின் பழைய பகுதி" },
+        { "word": "町長", "reading": "ちょうちょう", "en": "town mayor", "ta": "ஊர்த் தலைவர் (நகர மேயர்)" }
+      ]
+    },
+    {
+      "kanji": "空",
+      "meaning": { "en": "sky; empty", "ta": "வானம்; காலி" },
+      "on": ["くう"],
+      "kun": ["そら", "あ.く", "す.く"],
+      "mnemonic": {
+        "en": "The top part (穴) is the opening of a cave. Under it is a work tool (工). Look up out of the cave: above you is only the big empty sky.",
+        "ta": "மேல் பகுதி (穴) ஒரு குகையின் வாசல். அதன் கீழே ஒரு வேலைக் கருவி (工). குகையிலிருந்து மேலே பாருங்கள்: பரந்த, காலியான வானம் மட்டுமே!"
+      },
+      "note": {
+        "en": "空く can be read two ways: あく (a seat or room becomes free) and すく (a place gets less crowded, or your stomach is empty: おなかが すく).",
+        "ta": "空く இரண்டு விதமாக வாசிக்கப்படும்: あく (இருக்கை / அறை காலியாகுதல்), すく (கூட்டம் குறைதல், அல்லது பசித்தல்: おなかが すく)."
+      },
+      "examples": [
+        { "word": "空", "reading": "そら", "en": "sky", "ta": "வானம்", "vocabId": "n5-v-367" },
+        { "word": "空気", "reading": "くうき", "en": "air", "ta": "காற்று (வளிமண்டலம்)", "vocabId": "n4-v-317" },
+        { "word": "空く", "reading": "あく", "en": "to become empty, to be free", "ta": "காலியாக (இருக்கை, அறை)", "vocabId": "n4-v-401" },
+        { "word": "空く", "reading": "すく", "en": "to become less crowded", "ta": "கூட்டம் குறைய", "vocabId": "n4-v-510" }
+      ]
+    },
+    {
+      "kanji": "足",
+      "meaning": { "en": "foot, leg; enough", "ta": "கால்; போதுமான" },
+      "on": ["そく"],
+      "kun": ["あし", "た.りる", "た.す"],
+      "mnemonic": {
+        "en": "The box on top (口) is the knee. Below it is the leg, and at the bottom the foot steps forward. Two good feet are enough to walk anywhere.",
+        "ta": "மேலே உள்ள பெட்டி (口) முழங்கால். அதன் கீழே கால், அடியில் பாதம் முன்னே அடி வைக்கிறது. நல்ல இரண்டு கால்கள் இருந்தால் எங்கும் நடக்கப் போதும்!"
+      },
+      "note": {
+        "en": "足 also counts pairs of shoes or socks: 一足 (いっそく), 二足 (にそく). 足りる = to be enough; 足す = to add.",
+        "ta": "காலணி, காலுறை ஜோடிகளை எண்ணவும் 足: 一足 (いっそく), 二足 (にそく). 足りる = போதுமானதாக இருக்க; 足す = கூட்ட."
+      },
+      "examples": [
+        { "word": "足", "reading": "あし", "en": "foot, leg", "ta": "கால்", "vocabId": "n5-v-015" },
+        { "word": "足りる", "reading": "たりる", "en": "to be enough", "ta": "போதுமானதாக இருக்க", "vocabId": "n4-v-167" },
+        { "word": "足す", "reading": "たす", "en": "to add (numbers)", "ta": "கூட்ட (எண்களை)", "vocabId": "n4-v-349" },
+        { "word": "一足", "reading": "いっそく", "en": "one pair (of shoes)", "ta": "ஒரு ஜோடி (காலணி)" }
+      ]
+    },
+    {
+      "kanji": "早",
+      "meaning": { "en": "early", "ta": "சீக்கிரம், அதிகாலை" },
+      "on": ["そう"],
+      "kun": ["はや.い"],
+      "mnemonic": {
+        "en": "The sun (日) peeks over a fence post (十). It is early morning, and the sun has just come up.",
+        "ta": "ஒரு வேலிக் கம்பத்தின் (十) மேலே சூரியன் (日) எட்டிப் பார்க்கிறது. அதிகாலை! சூரியன் இப்போதுதான் உதித்திருக்கிறது."
+      },
+      "note": {
+        "en": "早い means early (in time). For fast (in speed), Japanese uses a different kanji: 速い. Both are read はやい.",
+        "ta": "早い = நேரத்தில் சீக்கிரம். வேகம் (fast) என்பதற்கு வேறு கான்ஜி: 速い. இரண்டுமே はやい என்றுதான் வாசிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "早い", "reading": "はやい", "en": "early", "ta": "சீக்கிரமான", "vocabId": "n5-v-543" },
+        { "word": "早く", "reading": "はやく", "en": "early; quickly", "ta": "சீக்கிரம்" },
+        { "word": "早朝", "reading": "そうちょう", "en": "early morning", "ta": "அதிகாலை" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU1-q01",
+        "type": "kanji_reading",
+        "sentence": "＿入口＿は あちらです。",
+        "target": "入口",
+        "options": ["いりくち", "にゅうぐち", "いりぐち", "いれぐち"],
+        "answer": 2,
+        "explanation_en": "入口 is read いりぐち (நுழைவாயில், entrance). After 入, くち becomes ぐち with ゛. いりくち has no ゛, and にゅう is the on reading of 入, which is not used here.",
+        "explanation_ta": "入口 = いりぐち (நுழைவாயில், entrance). 入 க்குப் பின் くち → ぐち (゛ சேரும்). いりくち-இல் ゛ இல்லை; にゅう என்பது 入-இன் ஆன் வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU1-q02",
+        "type": "kanji_reading",
+        "sentence": "この 車は ＿電力＿で うごきます。",
+        "target": "電力",
+        "options": ["でんりょく", "でんりょ", "でんりき", "てんりょく"],
+        "answer": 0,
+        "explanation_en": "電力 is read でんりょく (மின்சக்தி, electric power). 力 is りょく in most words. でんりょ is too short, and てんりょく is missing the ゛.",
+        "explanation_ta": "電力 = でんりょく (மின்சக்தி, electric power). பெரும்பாலான சொற்களில் 力 = りょく. でんりょ மிகக் குறுகியது; てんりょく-இல் ゛ இல்லை."
+      },
+      {
+        "id": "KU1-q03",
+        "type": "kanji_reading",
+        "sentence": "＿正月＿には 国へ かえります。",
+        "target": "正月",
+        "options": ["せいがつ", "しょうげつ", "しょがつ", "しょうがつ"],
+        "answer": 3,
+        "explanation_en": "正月 is read しょうがつ (புத்தாண்டு, New Year). Here 正 is しょう (long), not せい, and 月 is がつ. しょがつ is too short.",
+        "explanation_ta": "正月 = しょうがつ (புத்தாண்டு, New Year). இங்கே 正 = しょう (நீண்ட ஒலி), せい அல்ல; 月 = がつ. しょがつ மிகக் குறுகியது."
+      },
+      {
+        "id": "KU1-q04",
+        "type": "kanji_reading",
+        "sentence": "山の ＿空気＿は きれいです。",
+        "target": "空気",
+        "options": ["くき", "くうき", "そらき", "からき"],
+        "answer": 1,
+        "explanation_en": "空気 is read くうき (காற்று, air). くう has a long う. くき is too short, and そら is the kun reading (sky), which is not used here.",
+        "explanation_ta": "空気 = くうき (காற்று, air). くう-வில் நீண்ட う உண்டு. くき மிகக் குறுகியது; そら (வானம்) என்பது குன் வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU1-q05",
+        "type": "kanji_reading",
+        "sentence": "あの 子は ＿目＿が 大きいです。",
+        "target": "目",
+        "options": ["もく", "め", "みみ", "ひ"],
+        "answer": 1,
+        "explanation_en": "目 alone is read め (கண், eye). もく is the on reading, used in words like 注目. みみ is 耳 (ear) and ひ is 日 (sun), two kanji that look similar.",
+        "explanation_ta": "தனியாக 目 = め (கண், eye). もく ஆன் வாசிப்பு; 注目 போன்ற சொற்களில் வரும். みみ = 耳 (காது), ひ = 日 (சூரியன்); இவை பார்க்க ஒத்த கான்ஜிகள்."
+      },
+      {
+        "id": "KU1-q06",
+        "type": "kanji_reading",
+        "sentence": "ここに ＿立って＿ ください。",
+        "target": "立って",
+        "options": ["りって", "だって", "たてて", "たって"],
+        "answer": 3,
+        "explanation_en": "立って is read たって (நின்று, standing; from 立つ). だって has a wrong ゛, and たてて is from 立てる (to stand something up).",
+        "explanation_ta": "立って = たって (நின்று, standing; 立つ-இலிருந்து). だって-இல் தேவையில்லாத ゛ உள்ளது; たてて என்பது 立てる (ஒன்றை நிறுத்த) என்பதிலிருந்து வருவது."
+      },
+      {
+        "id": "KU1-q07",
+        "type": "kanji_reading",
+        "sentence": "お金が ＿足りません＿。",
+        "target": "足りません",
+        "options": ["たりません", "あしりません", "だりません", "そくりません"],
+        "answer": 0,
+        "explanation_en": "足りません is read たりません (போதவில்லை, is not enough). あし (foot) is a different kun reading of 足, and だり has a wrong ゛.",
+        "explanation_ta": "足りません = たりません (போதவில்லை, is not enough). あし (கால்) என்பது 足-இன் வேறொரு குன் வாசிப்பு; だり-வில் தேவையில்லாத ゛ உள்ளது."
+      },
+      {
+        "id": "KU1-q08",
+        "type": "kanji_reading",
+        "sentence": "日本語で みじかい ＿文＿を 書きました。",
+        "target": "文",
+        "options": ["もん", "ふみ", "ぶん", "ぷん"],
+        "answer": 2,
+        "explanation_en": "文 alone is read ぶん (வாக்கியம், sentence). もん is used only in a few words like 注文. ぷん has ゜ instead of ゛.",
+        "explanation_ta": "தனியாக 文 = ぶん (வாக்கியம், sentence). もん என்பது 注文 போன்ற சில சொற்களில் மட்டும். ぷん-இல் ゛ பதிலாக ゜ உள்ளது."
+      },
+      {
+        "id": "KU1-q09",
+        "type": "kanji_reading",
+        "sentence": "わたしの ＿町＿は しずかです。",
+        "target": "町",
+        "options": ["ちょう", "むら", "まつ", "まち"],
+        "answer": 3,
+        "explanation_en": "町 alone is read まち (ஊர், town). ちょう is the on reading, used in words like 町長. むら means village, a different word.",
+        "explanation_ta": "தனியாக 町 = まち (ஊர், town). ちょう ஆன் வாசிப்பு; 町長 போன்ற சொற்களில் வரும். むら = கிராமம், வேறு சொல்."
+      },
+      {
+        "id": "KU1-q10",
+        "type": "kanji_reading",
+        "sentence": "あしたは ＿早く＿ おきます。",
+        "target": "早く",
+        "options": ["そうく", "はやく", "はかく", "ばやく"],
+        "answer": 1,
+        "explanation_en": "早く is read はやく (சீக்கிரம், early). そう is the on reading, used in 早朝. ばやく has a wrong ゛.",
+        "explanation_ta": "早く = はやく (சீக்கிரம், early). そう ஆன் வாசிப்பு; 早朝 என்பதில் வரும். ばやく-வில் தேவையில்லாத ゛ உள்ளது."
+      },
+      {
+        "id": "KU1-q11",
+        "type": "orthography",
+        "sentence": "ごはんの 前に ＿て＿を あらいましょう。",
+        "target": "て",
+        "options": ["手", "午", "千", "牛"],
+        "answer": 0,
+        "explanation_en": "て (கை, hand) is written 手, with three flat lines for the fingers. 午 (noon), 千 (thousand) and 牛 (cow) look similar but have fewer lines.",
+        "explanation_ta": "て (கை, hand) = 手; விரல்களுக்கு மூன்று குறுக்குக் கோடுகள். 午 (நண்பகல்), 千 (ஆயிரம்), 牛 (மாடு) ஒத்திருந்தாலும் கோடுகள் குறைவு."
+      },
+      {
+        "id": "KU1-q12",
+        "type": "orthography",
+        "sentence": "この こたえは ＿ただしい＿です。",
+        "target": "ただしい",
+        "options": ["止しい", "五しい", "正しい", "王しい"],
+        "answer": 2,
+        "explanation_en": "ただしい (சரியான, correct) is written 正しい: a line (一) on top of 止 (stop). 止 has no top line, and 五 and 王 are different kanji.",
+        "explanation_ta": "ただしい (சரியான, correct) = 正しい: 止 (நில்) மேல் ஒரு கோடு (一). 止-இல் மேல் கோடு இல்லை; 五, 王 வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU1-q13",
+        "type": "orthography",
+        "sentence": "きょうは ＿そら＿が きれいです。",
+        "target": "そら",
+        "options": ["究", "空", "穴", "突"],
+        "answer": 1,
+        "explanation_en": "そら (வானம், sky) is written 空: a cave opening (穴) over a tool (工). 究 and 突 have the same top part but a different bottom.",
+        "explanation_ta": "そら (வானம், sky) = 空: குகை வாசல் (穴) கீழே கருவி (工). 究, 突 ஆகியவற்றுக்கும் அதே மேல் பகுதி; ஆனால் கீழ்ப் பகுதி வேறு."
+      },
+      {
+        "id": "KU1-q14",
+        "type": "orthography",
+        "sentence": "あの 人は ＿ちから＿が あります。",
+        "target": "ちから",
+        "options": ["刀", "九", "方", "力"],
+        "answer": 3,
+        "explanation_en": "ちから (பலம், strength) is written 力, a bent arm showing its muscle. 刀 means sword, 九 is nine and 方 means direction.",
+        "explanation_ta": "ちから (பலம், strength) = 力; தசையைக் காட்டும் மடித்த கை. 刀 = வாள், 九 = ஒன்பது, 方 = திசை."
+      },
+      {
+        "id": "KU1-q15",
+        "type": "orthography",
+        "sentence": "＿たなか＿さんは 学校の 先生です。",
+        "target": "たなか",
+        "options": ["田中", "由中", "日中", "申中"],
+        "answer": 0,
+        "explanation_en": "たなか (Tanaka, a family name) is written 田中. 田 (rice field) is a closed box with a cross. In 由 and 申 the middle line goes out of the box, and 日 has only one line inside.",
+        "explanation_ta": "たなか (தனக்கா, a family name) = 田中. 田 (வயல்) கூட்டல் குறியுடன் மூடிய பெட்டி. 由, 申 ஆகியவற்றில் நடுக்கோடு பெட்டிக்கு வெளியே நீளும்; 日-இல் உள்ளே ஒரு கோடு மட்டும்."
+      },
+      {
+        "id": "KU1-q16",
+        "type": "orthography",
+        "sentence": "たくさん あるいて、＿あし＿が いたいです。",
+        "target": "あし",
+        "options": ["定", "走", "足", "是"],
+        "answer": 2,
+        "explanation_en": "あし (கால், foot) is written 足: a knee (口) on top of a leg. 走 (run) has 土 on top instead of 口, and 定 and 是 are different kanji.",
+        "explanation_ta": "あし (கால், foot) = 足: காலின் மேல் முழங்கால் (口). 走 (ஓடு)-இல் மேலே 口 பதிலாக 土; 定, 是 வேறு கான்ஜிகள்."
+      }
+    ]
+  }
+}

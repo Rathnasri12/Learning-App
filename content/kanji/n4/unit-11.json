@@ -1,0 +1,384 @@
+{
+  "unit": 11,
+  "title": { "en": "Daily life: home, travel and health", "ta": "அன்றாட வாழ்க்கை: வீடு, பயணம், உடல்நலம்" },
+  "intro": {
+    "en": "In this unit you learn 11 kanji for everyday life: where you live (住), getting up (起), wearing clothes (着), hurrying (急), sending (送), being sick (病) and studying (研究). Many have a part you know, like 走 (run) in 起 or 車 (car) in 転. Find that part first, then read the story.",
+    "ta": "இந்தப் பாடத்தில் அன்றாட வாழ்க்கைக்கான 11 கான்ஜிகளைக் கற்கிறீர்கள்: வசிக்கும் இடம் (住), எழுந்திருத்தல் (起), உடை அணிதல் (着), அவசரம் (急), அனுப்புதல் (送), நோய் (病), ஆராய்ச்சி (研究). பலவற்றில் நீங்கள் அறிந்த ஒரு பகுதி இருக்கும், உதாரணமாக 起-இல் 走 (ஓடு), 転-இல் 車 (வண்டி). முதலில் அந்தப் பகுதியைக் கண்டுபிடியுங்கள், பிறகு கதையைப் படியுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "住",
+      "meaning": { "en": "live (in a place)", "ta": "வசி, குடியிரு" },
+      "on": ["じゅう"],
+      "kun": ["す.む"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to 主 (master). The person who is master of the house lives there.",
+        "ta": "ஒரு மனிதர் (亻) 主 (எஜமான்) அருகே நிற்கிறார். வீட்டின் எஜமானாக இருப்பவர்தான் அங்கே வசிக்கிறார்."
+      },
+      "note": {
+        "en": "住む is used with に: 東京に住んでいます (I live in Tokyo). Don’t mix up 住 (person 亻) and 注 (water 氵, as in 注意).",
+        "ta": "住む என்பது に உடன் வரும்: 東京に住んでいます (நான் டோக்கியோவில் வசிக்கிறேன்). 住 (மனிதர் 亻), 注 (தண்ணீர் 氵, 注意 போல) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "住む", "reading": "すむ", "en": "to live (in a place)", "ta": "வசிக்க", "vocabId": "n5-v-342" },
+        { "word": "住所", "reading": "じゅうしょ", "en": "address", "ta": "முகவரி", "vocabId": "n4-v-173" },
+        { "word": "住まい", "reading": "すまい", "en": "home, place to live", "ta": "வசிப்பிடம், வீடு" }
+      ]
+    },
+    {
+      "kanji": "真",
+      "meaning": { "en": "true, real; exact", "ta": "உண்மை; சரியாக" },
+      "on": ["しん"],
+      "kun": ["ま"],
+      "mnemonic": {
+        "en": "A sharp eye (目) looks straight at a needle (十) on top of a table with two legs. It sees the thing exactly as it is: the truth. A photo (写真) copies the truth.",
+        "ta": "கூர்மையான ஒரு கண் (目) இரண்டு கால் மேசையின் மேல் உள்ள ஊசியை (十) நேராகப் பார்க்கிறது. அது ஒன்றை அப்படியே பார்க்கிறது: அதுதான் உண்மை. புகைப்படம் (写真) உண்மையை அப்படியே நகல் எடுக்கிறது."
+      },
+      "note": {
+        "en": "真 before a word means “pure, right in”: 真ん中 (まんなか, the exact middle), 真っ白 (まっしろ, pure white), 真っ赤 (まっか, deep red).",
+        "ta": "ஒரு சொல்லுக்கு முன் 真 வந்தால் “முழுமையாக, சரியாக” என்று பொருள்: 真ん中 (まんなか, சரியான நடு), 真っ白 (まっしろ, முழு வெள்ளை), 真っ赤 (まっか, அடர் சிவப்பு)."
+      },
+      "examples": [
+        { "word": "写真", "reading": "しゃしん", "en": "photograph", "ta": "புகைப்படம்", "vocabId": "n5-v-311" },
+        { "word": "真ん中", "reading": "まんなか", "en": "the middle, center", "ta": "நடு, மையம்", "vocabId": "n4-v-611" },
+        { "word": "真っ白", "reading": "まっしろ", "en": "pure white", "ta": "முழு வெள்ளை" },
+        { "word": "真っ赤", "reading": "まっか", "en": "deep red", "ta": "அடர் சிவப்பு", "vocabId": "n3-v-1990" }
+      ]
+    },
+    {
+      "kanji": "有",
+      "meaning": { "en": "have, exist", "ta": "உடைமை, இரு" },
+      "on": ["ゆう"],
+      "kun": ["あ.る"],
+      "mnemonic": {
+        "en": "A hand (ナ) holds a piece of meat (月, here it means meat, as in 肉). “Look, I have food!” To have.",
+        "ta": "ஒரு கை (ナ) ஒரு இறைச்சித் துண்டைப் (月, இங்கே 肉 போல இறைச்சி) பிடித்திருக்கிறது. “பாருங்கள், என்னிடம் உணவு இருக்கிறது!” உடைமை, வைத்திருத்தல்."
+      },
+      "note": {
+        "en": "The verb ある is almost always written in hiragana. You will mostly see 有 in 有名 (famous) and 有料 (paid, with a fee).",
+        "ta": "ある என்ற வினைச்சொல் பெரும்பாலும் ஹிரகானாவில்தான் எழுதப்படும். 有 பொதுவாக 有名 (புகழ்பெற்ற), 有料 (கட்டணம் உள்ள) ஆகிய சொற்களில் வரும்."
+      },
+      "examples": [
+        { "word": "有名", "reading": "ゆうめい", "en": "famous", "ta": "புகழ்பெற்ற", "vocabId": "n5-v-680" },
+        { "word": "有料", "reading": "ゆうりょう", "en": "with a fee, not free", "ta": "கட்டணம் உள்ள (இலவசம் அல்ல)" },
+        { "word": "有る", "reading": "ある", "en": "to have; to be (things)", "ta": "இருக்க (உடைமை)", "vocabId": "n5-v-041" }
+      ]
+    },
+    {
+      "kanji": "急",
+      "meaning": { "en": "hurry; sudden", "ta": "அவசரம்; திடீர்" },
+      "on": ["きゅう"],
+      "kun": ["いそ.ぐ"],
+      "mnemonic": {
+        "en": "On top, a person bends forward (⺈). In the middle, a hand (ヨ) pulls him along. At the bottom, his heart (心) beats fast. Hurry, hurry, the train is leaving!",
+        "ta": "மேலே ஒரு மனிதர் முன்னால் குனிந்து ஓடுகிறார் (⺈). நடுவில் ஒரு கை (ヨ) அவரை இழுக்கிறது. கீழே அவருடைய இதயம் (心) வேகமாகத் துடிக்கிறது. சீக்கிரம், சீக்கிரம், ரயில் கிளம்புகிறது!"
+      },
+      "note": {
+        "en": "急行 (きゅうこう) is an express train; 特急 (とっきゅう) is a limited express, even faster. In 特急 the sound becomes a small っ.",
+        "ta": "急行 (きゅうこう) என்பது விரைவு ரயில்; 特急 (とっきゅう) அதைவிட வேகமான சிறப்பு விரைவு ரயில். 特急-இல் ஒலி சிறிய っ ஆக மாறுகிறது."
+      },
+      "examples": [
+        { "word": "急ぐ", "reading": "いそぐ", "en": "to hurry", "ta": "அவசரப்பட", "vocabId": "n4-v-602" },
+        { "word": "急行", "reading": "きゅうこう", "en": "express (train or bus)", "ta": "விரைவு ரயில் / பேருந்து", "vocabId": "n4-v-321" },
+        { "word": "特急", "reading": "とっきゅう", "en": "limited express (train)", "ta": "சிறப்பு விரைவு ரயில்", "vocabId": "n4-v-442" },
+        { "word": "急に", "reading": "きゅうに", "en": "suddenly", "ta": "திடீரென்று", "vocabId": "n3-v-0743" }
+      ]
+    },
+    {
+      "kanji": "送",
+      "meaning": { "en": "send; see off", "ta": "அனுப்பு; வழியனுப்பு" },
+      "on": ["そう"],
+      "kun": ["おく.る"],
+      "mnemonic": {
+        "en": "On the road (辶), someone carries a gift box (天) with a bow tied on top (丷). They are sending the gift to a friend far away.",
+        "ta": "சாலையில் (辶) ஒருவர் மேலே வில் முடிச்சு (丷) போட்ட ஒரு பரிசுப் பெட்டியை (天) எடுத்துச் செல்கிறார். தொலைவில் உள்ள நண்பருக்கு அந்தப் பரிசை அனுப்புகிறார்."
+      },
+      "note": {
+        "en": "送る means to send a thing (手紙を送る), and also to take or see a person off (駅まで送る, 見送る).",
+        "ta": "送る என்றால் ஒரு பொருளை அனுப்புவது (手紙を送る); ஒருவரைக் கொண்டு போய் விடுவது அல்லது வழியனுப்புவது என்றும் பொருள் (駅まで送る, 見送る)."
+      },
+      "examples": [
+        { "word": "送る", "reading": "おくる", "en": "to send; to see off", "ta": "அனுப்ப; வழியனுப்ப", "vocabId": "n4-v-461" },
+        { "word": "見送る", "reading": "みおくる", "en": "to see (someone) off", "ta": "வழியனுப்ப" },
+        { "word": "送料", "reading": "そうりょう", "en": "shipping cost, postage", "ta": "அனுப்பும் கட்டணம் (தபால் செலவு)" }
+      ]
+    },
+    {
+      "kanji": "転",
+      "meaning": { "en": "turn, roll", "ta": "சுழல், உருள்" },
+      "on": ["てん"],
+      "kun": ["ころ.ぶ"],
+      "mnemonic": {
+        "en": "On the left is a car (車) with its wheels. On the right is a little swirl of dust (云). The wheels turn and roll, and dust swirls up behind.",
+        "ta": "இடப்பக்கம் சக்கரங்களுடன் ஒரு வண்டி (車). வலப்பக்கம் ஒரு சிறிய தூசிச் சுழல் (云). சக்கரங்கள் சுழன்று உருள்கின்றன; பின்னால் தூசி சுழன்று எழுகிறது."
+      },
+      "examples": [
+        { "word": "自転車", "reading": "じてんしゃ", "en": "bicycle", "ta": "சைக்கிள் (மிதிவண்டி)", "vocabId": "n5-v-302" },
+        { "word": "運転", "reading": "うんてん", "en": "driving", "ta": "வாகனம் ஓட்டுதல்", "vocabId": "n4-v-277" },
+        { "word": "運転手", "reading": "うんてんしゅ", "en": "driver", "ta": "ஓட்டுநர்", "vocabId": "n4-v-035" },
+        { "word": "転ぶ", "reading": "ころぶ", "en": "to fall down", "ta": "கீழே விழ (தடுக்கி)", "vocabId": "n3-v-0948" }
+      ]
+    },
+    {
+      "kanji": "研",
+      "meaning": { "en": "polish; study", "ta": "தீட்டு; ஆய்வு" },
+      "on": ["けん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a stone (石). On the right are two flat bars side by side (开). You rub a knife on the flat stone to polish it sharp. Study is polishing your mind.",
+        "ta": "இடப்பக்கம் ஒரு கல் (石). வலப்பக்கம் அருகருகே இரண்டு தட்டையான கம்பிகள் (开). தட்டையான சாணைக் கல்லில் கத்தியைத் தேய்த்துக் கூர்மையாக்குகிறீர்கள். படிப்பு என்பது மனதைக் கூர்மையாக்குவது."
+      },
+      "note": {
+        "en": "At N4 you will see 研 almost only in 研究 (research) and words made from it.",
+        "ta": "N4 நிலையில் 研 பெரும்பாலும் 研究 (ஆராய்ச்சி), அதிலிருந்து வரும் சொற்களில் மட்டுமே வரும்."
+      },
+      "examples": [
+        { "word": "研究", "reading": "けんきゅう", "en": "research, study", "ta": "ஆராய்ச்சி", "vocabId": "n4-v-613" },
+        { "word": "研究室", "reading": "けんきゅうしつ", "en": "professor’s office; laboratory", "ta": "பேராசிரியர் அறை; ஆய்வகம்", "vocabId": "n4-v-582" },
+        { "word": "研究者", "reading": "けんきゅうしゃ", "en": "researcher", "ta": "ஆராய்ச்சியாளர்" }
+      ]
+    },
+    {
+      "kanji": "究",
+      "meaning": { "en": "research, dig deep", "ta": "ஆழ்ந்து ஆராய்" },
+      "on": ["きゅう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a hole (穴), the same top part as in 空. Below is nine (九). You climb down into the hole nine times to reach the very bottom. Research means digging deep until you find the answer.",
+        "ta": "மேலே ஒரு குழி (穴); 空-இன் மேல்பகுதி போலவே. கீழே ஒன்பது (九). அடிப்பகுதியை அடைய ஒன்பது முறை குழிக்குள் இறங்குகிறீர்கள். ஆராய்ச்சி என்றால் விடை கிடைக்கும் வரை ஆழமாகத் தோண்டுவது."
+      },
+      "note": {
+        "en": "究 is きゅう with a long vowel: けんきゅう, not けんきゅ.",
+        "ta": "究 என்பது நீண்ட உயிருடன் きゅう: けんきゅう, けんきゅ அல்ல."
+      },
+      "examples": [
+        { "word": "研究", "reading": "けんきゅう", "en": "research, study", "ta": "ஆராய்ச்சி", "vocabId": "n4-v-613" },
+        { "word": "研究室", "reading": "けんきゅうしつ", "en": "professor’s office; laboratory", "ta": "பேராசிரியர் அறை; ஆய்வகம்", "vocabId": "n4-v-582" },
+        { "word": "研究者", "reading": "けんきゅうしゃ", "en": "researcher", "ta": "ஆராய்ச்சியாளர்" }
+      ]
+    },
+    {
+      "kanji": "起",
+      "meaning": { "en": "get up, wake up", "ta": "எழு, எழுப்பு" },
+      "on": ["き"],
+      "kun": ["お.きる", "お.こす"],
+      "mnemonic": {
+        "en": "On the right, a sleeper is curled up in bed (己). On the left is 走 (run). The alarm rings, he gets up and runs: he is late!",
+        "ta": "வலப்பக்கம் ஒருவர் படுக்கையில் சுருண்டு தூங்குகிறார் (己). இடப்பக்கம் 走 (ஓடு). அலாரம் அடிக்கிறது; அவர் எழுந்து ஓடுகிறார்: தாமதமாகிவிட்டது!"
+      },
+      "note": {
+        "en": "起きる (おきる): you get up. 起こす (おこす): you wake someone else up. 起きる can also mean “to happen” (じこが起きる).",
+        "ta": "起きる (おきる): நீங்கள் எழுந்திருப்பது. 起こす (おこす): வேறொருவரை எழுப்புவது. 起きる என்றால் “நடப்பது” என்றும் பொருள் (じこが起きる, விபத்து நடக்கிறது)."
+      },
+      "examples": [
+        { "word": "起きる", "reading": "おきる", "en": "to get up", "ta": "எழுந்திருக்க", "vocabId": "n5-v-105" },
+        { "word": "起こす", "reading": "おこす", "en": "to wake (someone) up", "ta": "(ஒருவரை) எழுப்ப", "vocabId": "n4-v-106" },
+        { "word": "早起き", "reading": "はやおき", "en": "getting up early", "ta": "அதிகாலையில் எழுதல்" }
+      ]
+    },
+    {
+      "kanji": "着",
+      "meaning": { "en": "wear; arrive", "ta": "அணி; போய்ச் சேர்" },
+      "on": ["ちゃく"],
+      "kun": ["き.る", "つ.く"],
+      "mnemonic": {
+        "en": "On top is a sheep (⺷) with soft wool. Below is an eye (目). The sheep’s wool becomes a new shirt, and your eye checks how it looks when you wear it. All dressed, you arrive at the party.",
+        "ta": "மேலே மென்மையான கம்பளியுடன் ஒரு ஆடு (⺷). கீழே ஒரு கண் (目). ஆட்டின் கம்பளி புதிய சட்டை ஆகிறது; அதை அணிந்ததும் எப்படி இருக்கிறது என்று கண் பார்க்கிறது. உடை அணிந்து, விருந்துக்குப் போய்ச் சேருகிறீர்கள்."
+      },
+      "note": {
+        "en": "着る (きる): to wear on the upper body. 着く (つく): to arrive. Don’t confuse 着る with 切る (きる, to cut).",
+        "ta": "着る (きる): உடலின் மேல் பகுதியில் அணிவது. 着く (つく): போய்ச் சேர்வது. 着る-வை 切る (きる, வெட்டு) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "着る", "reading": "きる", "en": "to wear (upper body)", "ta": "அணிய (மேல் உடை)", "vocabId": "n5-v-210" },
+        { "word": "着く", "reading": "つく", "en": "to arrive", "ta": "போய்ச் சேர", "vocabId": "n5-v-416" },
+        { "word": "着物", "reading": "きもの", "en": "kimono (Japanese dress)", "ta": "கிமோனோ (ஜப்பானிய பாரம்பரிய உடை)", "vocabId": "n4-v-357" },
+        { "word": "一着", "reading": "いっちゃく", "en": "first place (in a race); one suit", "ta": "முதல் இடம் (பந்தயத்தில்); ஒரு செட் உடை" }
+      ]
+    },
+    {
+      "kanji": "病",
+      "meaning": { "en": "illness, sick", "ta": "நோய்" },
+      "on": ["びょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "疒 is a sickbed in a room, with two drops of sweat (the two dots) on the left. The person lying inside has a high fever. This is illness.",
+        "ta": "疒 என்பது ஒரு அறையில் உள்ள நோயாளியின் படுக்கை; இடப்பக்கம் உள்ள இரண்டு புள்ளிகள் வியர்வைத் துளிகள். உள்ளே படுத்திருப்பவருக்குக் கடும் காய்ச்சல். இதுதான் நோய்."
+      },
+      "note": {
+        "en": "病 is びょう with a long vowel. 病院 (びょういん) is a hospital, but びよういん (美容院) is a beauty salon.",
+        "ta": "病 என்பது நீண்ட உயிருடன் びょう. 病院 (びょういん) மருத்துவமனை; ஆனால் びよういん (美容院) அழகு நிலையம்."
+      },
+      "examples": [
+        { "word": "病気", "reading": "びょうき", "en": "illness", "ta": "நோய்", "vocabId": "n5-v-571" },
+        { "word": "病院", "reading": "びょういん", "en": "hospital", "ta": "மருத்துவமனை", "vocabId": "n5-v-570" },
+        { "word": "病人", "reading": "びょうにん", "en": "sick person", "ta": "நோயாளி" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU11-q01",
+        "type": "kanji_reading",
+        "sentence": "わたしは 東京に ＿住んで＿ います。",
+        "target": "住んで",
+        "options": ["すすんで", "すんで", "じゅうんで", "すまんで"],
+        "answer": 1,
+        "explanation_en": "住んで is read すんで (வசிக்கிறேன், living). すすんで is from 進む (to go forward), a different word.",
+        "explanation_ta": "住んで = すんで (வசிக்கிறேன், living). すすんで என்பது 進む (முன்னேறு) இலிருந்து வருகிறது; அது வேறு சொல்."
+      },
+      {
+        "id": "KU11-q02",
+        "type": "kanji_reading",
+        "sentence": "かぞくの ＿写真＿を 見せて ください。",
+        "target": "写真",
+        "options": ["しゃじん", "しゃっしん", "うつしん", "しゃしん"],
+        "answer": 3,
+        "explanation_en": "写真 is read しゃしん (புகைப்படம், photograph). しゃじん wrongly voices し; there is no small っ.",
+        "explanation_ta": "写真 = しゃしん (புகைப்படம், photograph). しゃじん-இல் し தவறாக じ ஆகிறது; சிறிய っ-உம் இல்லை."
+      },
+      {
+        "id": "KU11-q03",
+        "type": "kanji_reading",
+        "sentence": "ここは ＿有名＿な レストランです。",
+        "target": "有名",
+        "options": ["ゆうめい", "ゆめい", "ゆうみょう", "ありめい"],
+        "answer": 0,
+        "explanation_en": "有名 is read ゆうめい (புகழ்பெற்ற, famous). ゆめい is too short: 有 is ゆう with a long vowel.",
+        "explanation_ta": "有名 = ゆうめい (புகழ்பெற்ற, famous). ゆめい மிகக் குறுகியது: 有 என்பது நீண்ட உயிருடன் ゆう."
+      },
+      {
+        "id": "KU11-q04",
+        "type": "kanji_reading",
+        "sentence": "時間が ありません。＿急いで＿ ください。",
+        "target": "急いで",
+        "options": ["きゅういで", "いぞいで", "いそいで", "いしいで"],
+        "answer": 2,
+        "explanation_en": "急いで is read いそいで (சீக்கிரம், hurry). いぞいで wrongly voices そ; きゅういで uses the on reading.",
+        "explanation_ta": "急いで = いそいで (சீக்கிரம், hurry). いぞいで-இல் そ தவறாக ぞ ஆகிறது; きゅういで on வாசிப்பைப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU11-q05",
+        "type": "kanji_reading",
+        "sentence": "友だちに 手紙を ＿送りました＿。",
+        "target": "送りました",
+        "options": ["おこりました", "おぐりました", "おくりました", "そうりました"],
+        "answer": 2,
+        "explanation_en": "送りました is read おくりました (அனுப்பினேன், sent). おぐりました wrongly voices く; おこりました is a different verb (got angry).",
+        "explanation_ta": "送りました = おくりました (அனுப்பினேன், sent). おぐりました-இல் く தவறாக ぐ ஆகிறது; おこりました வேறு வினைச்சொல் (கோபப்பட்டார்)."
+      },
+      {
+        "id": "KU11-q06",
+        "type": "kanji_reading",
+        "sentence": "毎日 ＿自転車＿で 学校へ 行きます。",
+        "target": "自転車",
+        "options": ["じてんしゃ", "じでんしゃ", "じてんしや", "じどうしゃ"],
+        "answer": 0,
+        "explanation_en": "自転車 is read じてんしゃ (சைக்கிள், bicycle). じでんしゃ wrongly voices て; じどうしゃ is 自動車 (car).",
+        "explanation_ta": "自転車 = じてんしゃ (சைக்கிள், bicycle). じでんしゃ-இல் て தவறாக で ஆகிறது; じどうしゃ என்பது 自動車 (கார்)."
+      },
+      {
+        "id": "KU11-q07",
+        "type": "kanji_reading",
+        "sentence": "兄は 大学で 日本語の ＿研究＿を して います。",
+        "target": "研究",
+        "options": ["けんきゅ", "げんきゅう", "けんきょう", "けんきゅう"],
+        "answer": 3,
+        "explanation_en": "研究 is read けんきゅう (ஆராய்ச்சி, research). けんきゅ is too short; けんきょう has the wrong small ょ.",
+        "explanation_ta": "研究 = けんきゅう (ஆராய்ச்சி, research). けんきゅ மிகக் குறுகியது; けんきょう-இல் தவறான சிறிய ょ உள்ளது."
+      },
+      {
+        "id": "KU11-q08",
+        "type": "kanji_reading",
+        "sentence": "毎朝 六時に ＿起きます＿。",
+        "target": "起きます",
+        "options": ["いきます", "おきます", "ききます", "おこします"],
+        "answer": 1,
+        "explanation_en": "起きます is read おきます (எழுந்திருக்கிறேன், get up). おこします is 起こします (wake someone else up).",
+        "explanation_ta": "起きます = おきます (எழுந்திருக்கிறேன், get up). おこします என்பது 起こします (வேறொருவரை எழுப்புவது)."
+      },
+      {
+        "id": "KU11-q09",
+        "type": "kanji_reading",
+        "sentence": "三時間 かかって、やっと 東京に ＿着きました＿。",
+        "target": "着きました",
+        "options": ["つきました", "ききました", "ちゃくきました", "きりました"],
+        "answer": 0,
+        "explanation_en": "着きました is read つきました (போய்ச் சேர்ந்தேன், arrived). With に and a place, 着く means arrive. きりました is 着る/切る, not “arrive”.",
+        "explanation_ta": "着きました = つきました (போய்ச் சேர்ந்தேன், arrived). இடம் + に உடன் 着く என்றால் போய்ச் சேர்வது. きりました என்பது 着る/切る; “போய்ச் சேர்” அல்ல."
+      },
+      {
+        "id": "KU11-q10",
+        "type": "kanji_reading",
+        "sentence": "＿病気＿で 学校を 休みました。",
+        "target": "病気",
+        "options": ["びよき", "ぴょうき", "びょうき", "びょうけ"],
+        "answer": 2,
+        "explanation_en": "病気 is read びょうき (நோய், illness). It has a small ょ and a long vowel; ぴょうき has the wrong sound (ぴ).",
+        "explanation_ta": "病気 = びょうき (நோய், illness). இதில் சிறிய ょ, நீண்ட உயிர் இரண்டும் உண்டு; ぴょうき-இல் தவறான ஒலி (ぴ) உள்ளது."
+      },
+      {
+        "id": "KU11-q11",
+        "type": "orthography",
+        "sentence": "へやの ＿まんなか＿に テーブルが あります。",
+        "target": "まんなか",
+        "options": ["直ん中", "真ん中", "具ん中", "貞ん中"],
+        "answer": 1,
+        "explanation_en": "まんなか is 真ん中 (நடு, the middle). 直, 具 and 貞 look similar, but only 真 has 十 on top of 目 with two legs.",
+        "explanation_ta": "まんなか = 真ん中 (நடு, the middle). 直, 具, 貞 பார்க்க ஒத்திருக்கும்; ஆனால் 目-க்கு மேல் 十, கீழே இரண்டு கால்கள் உள்ளது 真 மட்டுமே."
+      },
+      {
+        "id": "KU11-q12",
+        "type": "orthography",
+        "sentence": "時間が ないから、＿きゅうこう＿に のりましょう。",
+        "target": "きゅうこう",
+        "options": ["急考", "究行", "休行", "急行"],
+        "answer": 3,
+        "explanation_en": "きゅうこう is 急行 (விரைவு ரயில், express train). 究 is also きゅう but means research; 休 is きゅう too, but means rest.",
+        "explanation_ta": "きゅうこう = 急行 (விரைவு ரயில், express train). 究-உம் きゅう தான், ஆனால் அது ஆராய்ச்சி; 休-உம் きゅう, ஆனால் அது ஓய்வு."
+      },
+      {
+        "id": "KU11-q13",
+        "type": "orthography",
+        "sentence": "父は 大学の ＿けんきゅうしゃ＿です。",
+        "target": "けんきゅうしゃ",
+        "options": ["研九者", "研究社", "験究者", "研究者"],
+        "answer": 3,
+        "explanation_en": "けんきゅうしゃ is 研究者 (ஆராய்ச்சியாளர், researcher). 者 is a person; 社 is a company. 験 is also けん, but it means test.",
+        "explanation_ta": "けんきゅうしゃ = 研究者 (ஆராய்ச்சியாளர், researcher). 者 ஒரு நபர்; 社 ஒரு நிறுவனம். 験-உம் けん தான், ஆனால் அதன் பொருள் சோதனை."
+      },
+      {
+        "id": "KU11-q14",
+        "type": "orthography",
+        "sentence": "その しゃしんを メールで ＿おくって＿ ください。",
+        "target": "おくって",
+        "options": ["送って", "迷って", "返って", "遅って"],
+        "answer": 0,
+        "explanation_en": "おくって is 送って (அனுப்புங்கள், please send). 迷, 返 and 遅 also sit on the road part (辶), but they are different kanji.",
+        "explanation_ta": "おくって = 送って (அனுப்புங்கள், please send). 迷, 返, 遅 ஆகியவற்றிலும் சாலைப் பகுதி (辶) உள்ளது, ஆனால் அவை வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU11-q15",
+        "type": "orthography",
+        "sentence": "さむいので、コートを ＿きて＿ 出かけます。",
+        "target": "きて",
+        "options": ["来て", "差て", "着て", "看て"],
+        "answer": 2,
+        "explanation_en": "Here きて is 着て (அணிந்து, wearing): you wear a coat. 来て (come) has the same sound but a different meaning.",
+        "explanation_ta": "இங்கே きて = 着て (அணிந்து, wearing): கோட்டை அணிவது. 来て (வா) அதே ஒலி, ஆனால் வேறு பொருள்."
+      },
+      {
+        "id": "KU11-q16",
+        "type": "orthography",
+        "sentence": "かぜを ひいて、＿びょういん＿へ 行きました。",
+        "target": "びょういん",
+        "options": ["病員", "病院", "痛院", "疲院"],
+        "answer": 1,
+        "explanation_en": "びょういん is 病院 (மருத்துவமனை, hospital). 員 is also いん, but it means a staff member. 痛 and 疲 have the same sickbed part (疒).",
+        "explanation_ta": "びょういん = 病院 (மருத்துவமனை, hospital). 員-உம் いん தான், ஆனால் அது ஊழியரைக் குறிக்கும். 痛, 疲 இரண்டிலும் அதே நோய்ப் படுக்கைப் பகுதி (疒) உள்ளது."
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "unit": 4,
+  "title": { "en": "Home, heart and thinking", "ta": "வீடு, மனம், சிந்தனை" },
+  "intro": {
+    "en": "In this unit you will learn eleven kanji about home and family, the heart and the mind (think, consider, teach), and a few useful words like many, near and picture. Watch the heart 心: it sits under 思, and you will see it in many kanji later.",
+    "ta": "இந்தப் பிரிவில் வீடும் குடும்பமும், இதயமும் மனமும் (நினை, யோசி, கற்பி), மேலும் நிறைய, அருகில், படம் போன்ற பயனுள்ள சொற்கள் பற்றிய பதினொரு கான்ஜிகளைக் கற்போம். இதயம் 心-ஐக் கவனியுங்கள்: அது 思-இன் கீழே அமர்ந்திருக்கிறது; இனி வரும் பல கான்ஜிகளிலும் அதைப் பார்ப்பீர்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "公",
+      "meaning": { "en": "public", "ta": "பொது" },
+      "on": ["こう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "At the bottom is a small closed box (ム), something private. On top, two hands (八) pull it open. Now everyone can see what is inside: it is public.",
+        "ta": "அடியில் ஒரு சிறிய மூடிய பெட்டி (ム), தனிப்பட்ட பொருள். மேலே இரண்டு கைகள் (八) அதைத் திறக்கின்றன. இப்போது உள்ளே இருப்பதை எல்லோரும் பார்க்கலாம்: அது பொது!"
+      },
+      "note": {
+        "en": "A park, こうえん, is written with 公 too: a public garden. 公立 (こうりつ) is a public school or hospital, run by the city.",
+        "ta": "பூங்கா こうえん என்பதும் 公 கொண்டுதான் எழுதப்படும்: பொதுத் தோட்டம். 公立 (こうりつ) = நகரம் நடத்தும் பொதுப் பள்ளி அல்லது மருத்துவமனை."
+      },
+      "examples": [
+        { "word": "公立", "reading": "こうりつ", "en": "public (run by the city or state)", "ta": "பொது (அரசு / நகரம் நடத்தும்)" },
+        { "word": "主人公", "reading": "しゅじんこう", "en": "main character (of a story)", "ta": "கதையின் நாயகன் / நாயகி" },
+        { "word": "公開", "reading": "こうかい", "en": "opening to the public", "ta": "பொதுமக்களுக்குத் திறத்தல்" }
+      ]
+    },
+    {
+      "kanji": "野",
+      "meaning": { "en": "field, open land", "ta": "திறந்த வெளி, காடு" },
+      "on": ["や"],
+      "kun": ["の"],
+      "mnemonic": {
+        "en": "On the left is a village (里): rice fields (田) on the earth (土). On the right is a long hook (予) stretching far away. Past the village, the wide open fields go on and on.",
+        "ta": "இடப்பக்கம் ஒரு கிராமம் (里): மண்ணில் (土) நெல் வயல்கள் (田). வலப்பக்கம் தொலைவு வரை நீளும் ஒரு கொக்கி (予). கிராமத்தைத் தாண்டி, பரந்த திறந்த வெளிகள் நீண்டு கொண்டே போகின்றன!"
+      },
+      "note": {
+        "en": "Two common words use 野: やさい (vegetables, “field greens”) and やきゅう (baseball, “field ball”).",
+        "ta": "இரண்டு பொதுவான சொற்களில் 野 வரும்: やさい (காய்கறி, “வயல் கீரை”), やきゅう (பேஸ்பால், “வெளிப் பந்து”)."
+      },
+      "examples": [
+        { "word": "分野", "reading": "ぶんや", "en": "field (of study or work)", "ta": "துறை (படிப்பு / வேலை)" },
+        { "word": "野生", "reading": "やせい", "en": "wild (animals, plants)", "ta": "காட்டு (விலங்கு, செடி)" },
+        { "word": "野鳥", "reading": "やちょう", "en": "wild bird", "ta": "காட்டுப் பறவை" },
+        { "word": "上野", "reading": "うえの", "en": "Ueno (a place in Tokyo)", "ta": "உவேனோ (டோக்கியோவில் ஓர் இடம்)" }
+      ]
+    },
+    {
+      "kanji": "思",
+      "meaning": { "en": "think", "ta": "நினை, எண்ணு" },
+      "on": [],
+      "kun": ["おも.う"],
+      "mnemonic": {
+        "en": "A farmer looks at his rice field (田) with all his heart (心). He thinks: “Will it rain? Will the rice grow well?”",
+        "ta": "ஒரு விவசாயி தன் நெல் வயலை (田) முழு மனதுடன் (心) பார்க்கிறார். அவர் நினைக்கிறார்: “மழை பெய்யுமா? நெல் நன்றாக வளருமா?”"
+      },
+      "note": {
+        "en": "思う is to think or feel (an opinion, a feeling). 考える is to think something over carefully.",
+        "ta": "思う = நினைக்க, உணர (கருத்து, உணர்வு). 考える = ஒன்றைக் கவனமாக யோசிக்க."
+      },
+      "examples": [
+        { "word": "思う", "reading": "おもう", "en": "to think, to feel", "ta": "நினைக்க, உணர", "vocabId": "n4-v-116" },
+        { "word": "思い出す", "reading": "おもいだす", "en": "to remember, to recall", "ta": "நினைவுகூர", "vocabId": "n4-v-265" },
+        { "word": "思い出", "reading": "おもいで", "en": "memory (of the past)", "ta": "நினைவு (பழைய நினைவுகள்)" }
+      ]
+    },
+    {
+      "kanji": "家",
+      "meaning": { "en": "house, home; family", "ta": "வீடு; குடும்பம்" },
+      "on": ["か"],
+      "kun": ["いえ", "うち"],
+      "mnemonic": {
+        "en": "A roof (宀) with a pig (豕) under it. In old villages, people kept their animals at home, like a cow tied in the yard of a village house. Roof + animals = home.",
+        "ta": "கூரையின் (宀) கீழே ஒரு பன்றி (豕). பழைய கிராமங்களில், நம் ஊர் வீட்டு முற்றத்தில் கட்டிய பசு போல, மக்கள் தங்கள் விலங்குகளை வீட்டிலேயே வைத்திருந்தார்கள். கூரை + விலங்குகள் = வீடு!"
+      },
+      "note": {
+        "en": "家 can be read いえ (the house) or うち (my home, my family). After a word, ～家 (か) means a person who is an expert: 作家 (さっか, writer), 画家 (がか, painter).",
+        "ta": "家 = いえ (வீடு) அல்லது うち (என் வீடு, என் குடும்பம்). ஒரு சொல்லுக்குப் பின் ～家 (か) = அத்துறை வல்லுநர்: 作家 (さっか, எழுத்தாளர்), 画家 (がか, ஓவியர்)."
+      },
+      "examples": [
+        { "word": "家", "reading": "いえ", "en": "house, home", "ta": "வீடு", "vocabId": "n5-v-047" },
+        { "word": "家族", "reading": "かぞく", "en": "family", "ta": "குடும்பம்", "vocabId": "n5-v-165" },
+        { "word": "家事", "reading": "かじ", "en": "housework", "ta": "வீட்டு வேலை" },
+        { "word": "作家", "reading": "さっか", "en": "writer, author", "ta": "எழுத்தாளர்" }
+      ]
+    },
+    {
+      "kanji": "多",
+      "meaning": { "en": "many, a lot", "ta": "நிறைய, அதிகம்" },
+      "on": ["た"],
+      "kun": ["おお.い"],
+      "mnemonic": {
+        "en": "One evening (夕) on top of another evening (夕). Evening after evening after evening: so many days go by.",
+        "ta": "ஒரு மாலையின் (夕) மேல் இன்னொரு மாலை (夕). மாலை, மாலை, மீண்டும் மாலை: எத்தனையோ நாட்கள் கடந்து போகின்றன!"
+      },
+      "note": {
+        "en": "Write おおい with お, not う: おおい. Don’t mix up 多い (many) and 大きい (big). Both start with おお.",
+        "ta": "おおい என்பதில் お வரும், う அல்ல: おおい. 多い (நிறைய), 大きい (பெரிய) இரண்டையும் குழப்ப வேண்டாம்; இரண்டும் おお-வில் தொடங்கும்."
+      },
+      "examples": [
+        { "word": "多い", "reading": "おおい", "en": "many, a lot", "ta": "அதிகமான (நிறைய)", "vocabId": "n5-v-098" },
+        { "word": "多分", "reading": "たぶん", "en": "probably, maybe", "ta": "ஒருவேளை (பெரும்பாலும்)", "vocabId": "n5-v-391" },
+        { "word": "多少", "reading": "たしょう", "en": "a little, somewhat", "ta": "கொஞ்சம், ஓரளவு" }
+      ]
+    },
+    {
+      "kanji": "心",
+      "meaning": { "en": "heart, mind", "ta": "இதயம், மனம்" },
+      "on": ["しん"],
+      "kun": ["こころ"],
+      "mnemonic": {
+        "en": "The curved stroke is a heart lying down, like a small cup. The three dots are its beats: thump, thump, thump. Your heart is where your feelings live.",
+        "ta": "வளைந்த கோடு, சிறு கிண்ணம் போலப் படுத்திருக்கும் இதயம். மூன்று புள்ளிகள் அதன் துடிப்புகள்: டக், டக், டக். உங்கள் உணர்வுகள் வாழும் இடம் இதயம்!"
+      },
+      "note": {
+        "en": "心 is often hidden at the bottom of other kanji, like 思 (think). Don’t mix up 心 with 必 (a slash goes through it).",
+        "ta": "心 பல கான்ஜிகளின் அடியில் ஒளிந்திருக்கும், 思 (நினை) போல. 心, குறுக்கே ஒரு சாய்கோடு செல்லும் 必 இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "心", "reading": "こころ", "en": "heart, mind", "ta": "இதயம், மனம்", "vocabId": "n4-v-250" },
+        { "word": "安心", "reading": "あんしん", "en": "relief, peace of mind", "ta": "நிம்மதி", "vocabId": "n4-v-531" },
+        { "word": "中心", "reading": "ちゅうしん", "en": "center", "ta": "மையம்" }
+      ]
+    },
+    {
+      "kanji": "教",
+      "meaning": { "en": "teach", "ta": "கற்பி" },
+      "on": ["きょう"],
+      "kun": ["おし.える", "おそ.わる"],
+      "mnemonic": {
+        "en": "On the left, an old man (耂) stands over a child (子). On the right, a hand holds a pointer stick (攵). The old teacher points at the board and teaches the child.",
+        "ta": "இடப்பக்கம் ஒரு முதியவர் (耂) குழந்தையின் (子) மேல் குனிந்து நிற்கிறார். வலப்பக்கம் சுட்டுக்குச்சியைப் பிடித்த ஒரு கை (攵). வயதான ஆசிரியர் பலகையைச் சுட்டிக்காட்டி, குழந்தைக்குக் கற்பிக்கிறார்!"
+      },
+      "note": {
+        "en": "教える (おしえる) is to teach or to tell. 教わる (おそわる) is the other side: to be taught, to learn from someone.",
+        "ta": "教える (おしえる) = கற்பிக்க, சொல்லித் தர. 教わる (おそわる) = மறுபக்கம்: ஒருவரிடம் கற்றுக்கொள்ள."
+      },
+      "examples": [
+        { "word": "教える", "reading": "おしえる", "en": "to teach, to tell", "ta": "கற்பிக்க; சொல்லித் தர", "vocabId": "n5-v-112" },
+        { "word": "教わる", "reading": "おそわる", "en": "to be taught, to learn (from someone)", "ta": "(ஒருவரிடம்) கற்றுக்கொள்ள" },
+        { "word": "教室", "reading": "きょうしつ", "en": "classroom", "ta": "வகுப்பறை", "vocabId": "n5-v-205" },
+        { "word": "教会", "reading": "きょうかい", "en": "church", "ta": "தேவாலயம்", "vocabId": "n4-v-350" }
+      ]
+    },
+    {
+      "kanji": "元",
+      "meaning": { "en": "origin, beginning", "ta": "மூலம், தொடக்கம்" },
+      "on": ["げん", "がん"],
+      "kun": ["もと"],
+      "mnemonic": {
+        "en": "Two lines (二) make a big head, and under it are two legs (儿). A person standing on their own legs, full of life: this is where everything begins, and they are 元気 (healthy).",
+        "ta": "இரண்டு கோடுகள் (二) ஒரு பெரிய தலை; அதன் கீழே இரண்டு கால்கள் (儿). தன் சொந்தக் கால்களில் உயிர்ப்புடன் நிற்கும் ஒருவர்: எல்லாம் தொடங்கும் இடம் இதுதான்; அவர் 元気 (நலமாக) இருக்கிறார்!"
+      },
+      "note": {
+        "en": "元日 (がんじつ) is January 1st, New Year’s Day. Don’t mix up 元 with 先 (ahead), which has a different top.",
+        "ta": "元日 (がんじつ) = ஜனவரி 1, புத்தாண்டு நாள். 元, மேல் பகுதி வேறுபடும் 先 (முன்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "元気", "reading": "げんき", "en": "healthy, energetic", "ta": "நலமான (சுறுசுறுப்பான)", "vocabId": "n5-v-241" },
+        { "word": "元日", "reading": "がんじつ", "en": "New Year’s Day", "ta": "புத்தாண்டு நாள் (ஜனவரி 1)" },
+        { "word": "地元", "reading": "じもと", "en": "home area, local area", "ta": "சொந்த ஊர்ப் பகுதி" },
+        { "word": "足元", "reading": "あしもと", "en": "at one’s feet; one’s step", "ta": "காலடி" }
+      ]
+    },
+    {
+      "kanji": "近",
+      "meaning": { "en": "near", "ta": "அருகில்" },
+      "on": ["きん"],
+      "kun": ["ちか.い"],
+      "mnemonic": {
+        "en": "The bottom-left part (辶) is a road. On it lies an axe (斤). The woodcutter’s axe is only a few steps down the road: it is very near.",
+        "ta": "கீழ் இடப்பக்கப் பகுதி (辶) ஒரு சாலை. அதன் மேல் ஒரு கோடரி (斤). விறகுவெட்டியின் கோடரி சாலையில் சில அடிகள் தூரத்தில்தான்: மிக அருகில்!"
+      },
+      "note": {
+        "en": "近く (ちかく) is a noun: 駅の 近く (near the station). Don’t mix up 近 (near, with 斤) and 遠 (far), which has a different part on the road.",
+        "ta": "近く (ちかく) ஒரு பெயர்ச்சொல்: 駅の 近く (ரயில் நிலையத்தின் அருகில்). 近 (அருகில், 斤 உடன்), சாலையில் வேறு பகுதி உள்ள 遠 (தொலைவு) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "近い", "reading": "ちかい", "en": "near, close", "ta": "அருகிலுள்ள, பக்கத்து", "vocabId": "n5-v-401" },
+        { "word": "近く", "reading": "ちかく", "en": "nearby, the neighborhood", "ta": "அருகில்", "vocabId": "n5-v-403" },
+        { "word": "近道", "reading": "ちかみち", "en": "shortcut", "ta": "குறுக்கு வழி" },
+        { "word": "近代", "reading": "きんだい", "en": "modern times", "ta": "நவீன காலம்" }
+      ]
+    },
+    {
+      "kanji": "考",
+      "meaning": { "en": "think over, consider", "ta": "யோசி, சிந்தி" },
+      "on": ["こう"],
+      "kun": ["かんが.える"],
+      "mnemonic": {
+        "en": "On top is an old man (耂, the same part as in 教). Below it is a bent walking stick (丂). The old man leans on his stick and thinks hard for a long time.",
+        "ta": "மேலே ஒரு முதியவர் (耂, 教-இல் உள்ள அதே பகுதி). அதன் கீழே வளைந்த ஊன்றுகோல் (丂). முதியவர் தன் கோலில் சாய்ந்து, நீண்ட நேரம் ஆழமாக யோசிக்கிறார்."
+      },
+      "note": {
+        "en": "考える (かんがえる) has ゛ on the が, but not on the か. Don’t mix up 考 (think) and 老 (old), which has 匕 at the bottom.",
+        "ta": "考える (かんがえる): が-வில் ゛ உண்டு, か-வில் இல்லை. 考 (யோசி), அடியில் 匕 உள்ள 老 (முதுமை) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "考える", "reading": "かんがえる", "en": "to think about, to consider", "ta": "யோசிக்க, சிந்திக்க", "vocabId": "n4-v-570" },
+        { "word": "考え", "reading": "かんがえ", "en": "idea, thought", "ta": "யோசனை, எண்ணம்" },
+        { "word": "思考", "reading": "しこう", "en": "thinking, thought", "ta": "சிந்தனை" }
+      ]
+    },
+    {
+      "kanji": "画",
+      "meaning": { "en": "picture; stroke", "ta": "படம்; கோடு" },
+      "on": ["が", "かく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A line (一) on top is the edge of the paper. In the middle is a rice field (田), and around it is a frame (凵). Someone has drawn a picture of the fields and put it in a frame.",
+        "ta": "மேலே உள்ள கோடு (一) தாளின் ஓரம். நடுவில் ஒரு நெல் வயல் (田); அதைச் சுற்றி ஒரு சட்டகம் (凵). யாரோ வயல்களின் படத்தை வரைந்து சட்டகத்தில் வைத்திருக்கிறார்கள்!"
+      },
+      "note": {
+        "en": "画 has two readings: が for pictures (映画, 画家) and かく for plans and strokes (計画).",
+        "ta": "画-க்கு இரண்டு வாசிப்புகள்: படங்களுக்கு が (映画, 画家), திட்டங்கள், கோடுகளுக்கு かく (計画)."
+      },
+      "examples": [
+        { "word": "映画", "reading": "えいが", "en": "movie", "ta": "திரைப்படம்", "vocabId": "n5-v-088" },
+        { "word": "映画館", "reading": "えいがかん", "en": "cinema", "ta": "திரையரங்கு", "vocabId": "n5-v-089" },
+        { "word": "画家", "reading": "がか", "en": "painter, artist", "ta": "ஓவியர்" },
+        { "word": "計画", "reading": "けいかく", "en": "plan", "ta": "திட்டம்", "vocabId": "n4-v-402" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU4-q01",
+        "type": "kanji_reading",
+        "sentence": "あの 人は ゆうめいな ＿作家＿です。",
+        "target": "作家",
+        "options": ["さっか", "さくか", "さっけ", "さか"],
+        "answer": 0,
+        "explanation_en": "作家 is read さっか (எழுத்தாளர், writer). さく becomes さっ before か. さくか has no small っ, and さか is too short.",
+        "explanation_ta": "作家 = さっか (எழுத்தாளர், writer). か-க்கு முன் さく → さっ. さくか-வில் சிறிய っ இல்லை; さか மிகக் குறுகியது."
+      },
+      {
+        "id": "KU4-q02",
+        "type": "kanji_reading",
+        "sentence": "この 町は 人が ＿多い＿です。",
+        "target": "多い",
+        "options": ["おいい", "たい", "おおい", "おうい"],
+        "answer": 2,
+        "explanation_en": "多い is read おおい (நிறைய, many). It is written with お, so おうい is wrong. た is the on reading, used in 多分.",
+        "explanation_ta": "多い = おおい (நிறைய, many). இதில் お வரும்; ஆகவே おうい தவறு. た ஆன் வாசிப்பு, 多分 என்பதில் வரும்."
+      },
+      {
+        "id": "KU4-q03",
+        "type": "kanji_reading",
+        "sentence": "お母さんは ＿元気＿ですか。",
+        "target": "元気",
+        "options": ["がんき", "げんき", "けんき", "もとき"],
+        "answer": 1,
+        "explanation_en": "元気 is read げんき (நலமான, healthy). がん is used only in 元日. けんき has no ゛, and もと is the kun reading.",
+        "explanation_ta": "元気 = げんき (நலமான, healthy). がん என்பது 元日-இல் மட்டும். けんき-இல் ゛ இல்லை; もと குன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q04",
+        "type": "kanji_reading",
+        "sentence": "学校の ＿近く＿に すんで います。",
+        "target": "近く",
+        "options": ["きんく", "ちかぐ", "しかく", "ちかく"],
+        "answer": 3,
+        "explanation_en": "近く is read ちかく (அருகில், nearby). きん is the on reading, used in 近代. ちかぐ has a wrong ゛.",
+        "explanation_ta": "近く = ちかく (அருகில், nearby). きん ஆன் வாசிப்பு, 近代 என்பதில் வரும். ちかぐ-வில் தேவையில்லாத ゛."
+      },
+      {
+        "id": "KU4-q05",
+        "type": "kanji_reading",
+        "sentence": "父は 子どもに 日本語を ＿教えて＿ います。",
+        "target": "教えて",
+        "options": ["おそえて", "きょうえて", "おしいて", "おしえて"],
+        "answer": 3,
+        "explanation_en": "教えて is read おしえて (கற்பித்து, teaching; from 教える). おそ is from 教わる (to be taught), and おしいて has a wrong vowel.",
+        "explanation_ta": "教えて = おしえて (கற்பித்து, teaching; 教える-இலிருந்து). おそ என்பது 教わる (கற்றுக்கொள்ள) என்பதிலிருந்து; おしいて-இல் தவறான உயிர் ஒலி."
+      },
+      {
+        "id": "KU4-q06",
+        "type": "kanji_reading",
+        "sentence": "あの 人は ＿心＿の やさしい 人です。",
+        "target": "心",
+        "options": ["しん", "こころ", "ここら", "ごころ"],
+        "answer": 1,
+        "explanation_en": "心 alone is read こころ (மனம், heart). しん is the on reading, used in 安心. ごころ has a wrong ゛.",
+        "explanation_ta": "தனியாக 心 = こころ (மனம், heart). しん ஆன் வாசிப்பு, 安心 என்பதில் வரும். ごころ-வில் தேவையில்லாத ゛."
+      },
+      {
+        "id": "KU4-q07",
+        "type": "kanji_reading",
+        "sentence": "わたしの 父は ＿画家＿です。",
+        "target": "画家",
+        "options": ["かか", "がけ", "がか", "かくか"],
+        "answer": 2,
+        "explanation_en": "画家 is read がか (ஓவியர், painter). 画 is が (with ゛) for pictures. かくか uses the other reading かく, which is for plans (計画).",
+        "explanation_ta": "画家 = がか (ஓவியர், painter). படங்களுக்கு 画 = が (゛ உடன்). かくか-வில் உள்ள かく திட்டங்களுக்கான வாசிப்பு (計画)."
+      },
+      {
+        "id": "KU4-q08",
+        "type": "kanji_reading",
+        "sentence": "山で ＿野生＿の どうぶつを 見ました。",
+        "target": "野生",
+        "options": ["やせい", "のせい", "やしょう", "やぜい"],
+        "answer": 0,
+        "explanation_en": "野生 is read やせい (காட்டு, wild). Here 野 is や, not の. やぜい has a wrong ゛, and しょう is a reading of 生 in other words.",
+        "explanation_ta": "野生 = やせい (காட்டு, wild). இங்கே 野 = や, の அல்ல. やぜい-இல் தேவையில்லாத ゛; しょう என்பது வேறு சொற்களில் வரும் 生-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q09",
+        "type": "kanji_reading",
+        "sentence": "よく ＿考えて＿ から こたえて ください。",
+        "target": "考えて",
+        "options": ["こうえて", "かんがえて", "かんがいて", "かんかえて"],
+        "answer": 1,
+        "explanation_en": "考えて is read かんがえて (யோசித்து, thinking it over; from 考える). かんかえて is missing the ゛ on が, and こう is the on reading.",
+        "explanation_ta": "考えて = かんがえて (யோசித்து, thinking it over; 考える-இலிருந்து). かんかえて-இல் が-வின் ゛ இல்லை; こう ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q10",
+        "type": "kanji_reading",
+        "sentence": "いもうとは ＿公立＿の 学校に 行って います。",
+        "target": "公立",
+        "options": ["こりつ", "こうりゅう", "おおやけりつ", "こうりつ"],
+        "answer": 3,
+        "explanation_en": "公立 is read こうりつ (பொது, public). こう is long, so こりつ is wrong. りゅう is a rare reading of 立, not used here.",
+        "explanation_ta": "公立 = こうりつ (பொது, public). こう நீண்ட ஒலி; ஆகவே こりつ தவறு. りゅう என்பது 立-இன் அரிதான வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU4-q11",
+        "type": "orthography",
+        "sentence": "＿こころ＿から ありがとう ございます。",
+        "target": "こころ",
+        "options": ["必", "小", "心", "水"],
+        "answer": 2,
+        "explanation_en": "こころ (மனம், heart) is written 心: a cup shape with three dots. 必 has a slash going through it, and 小 and 水 are different kanji.",
+        "explanation_ta": "こころ (மனம், heart) = 心: மூன்று புள்ளிகளுடன் கிண்ண வடிவம். 必-இல் குறுக்கே சாய்கோடு; 小, 水 வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU4-q12",
+        "type": "orthography",
+        "sentence": "新しい ＿いえ＿を かいました。",
+        "target": "いえ",
+        "options": ["家", "安", "字", "宝"],
+        "answer": 0,
+        "explanation_en": "いえ (வீடு, house) is written 家: a roof (宀) with a pig (豕) under it. 安, 字 and 宝 have the same roof but something else under it.",
+        "explanation_ta": "いえ (வீடு, house) = 家: கூரையின் (宀) கீழ் பன்றி (豕). 安, 字, 宝 ஆகியவற்றுக்கும் அதே கூரை; ஆனால் கீழே வேறு பொருள்."
+      },
+      {
+        "id": "KU4-q13",
+        "type": "orthography",
+        "sentence": "あしたは 雨だと ＿おもいます＿。",
+        "target": "おもいます",
+        "options": ["恩います", "田います", "息います", "思います"],
+        "answer": 3,
+        "explanation_en": "おもいます (நினைக்கிறேன், I think) is written 思います: a rice field (田) over a heart (心). 恩 and 息 also have 心 at the bottom, but a different top.",
+        "explanation_ta": "おもいます (நினைக்கிறேன், I think) = 思います: இதயத்தின் (心) மேல் நெல் வயல் (田). 恩, 息 ஆகியவற்றின் அடியிலும் 心; ஆனால் மேல் பகுதி வேறு."
+      },
+      {
+        "id": "KU4-q14",
+        "type": "orthography",
+        "sentence": "学校は 家から ＿ちかい＿です。",
+        "target": "ちかい",
+        "options": ["返い", "近い", "遠い", "斤い"],
+        "answer": 1,
+        "explanation_en": "ちかい (அருகிலுள்ள, near) is written 近い: an axe (斤) on the road (辶). 遠い means far, the opposite, and 返 has a different part on the road.",
+        "explanation_ta": "ちかい (அருகிலுள்ள, near) = 近い: சாலையில் (辶) கோடரி (斤). 遠い = தொலைவு, எதிர்ப் பொருள்; 返-இல் சாலையின் மேல் வேறு பகுதி."
+      },
+      {
+        "id": "KU4-q15",
+        "type": "orthography",
+        "sentence": "きょうは しゅくだいが ＿おおい＿です。",
+        "target": "おおい",
+        "options": ["多い", "夕い", "名い", "大い"],
+        "answer": 0,
+        "explanation_en": "おおい (நிறைய, many) is written 多い: two evenings (夕 + 夕). 大 is used in 大きい (big), not in おおい.",
+        "explanation_ta": "おおい (நிறைய, many) = 多い: இரண்டு மாலைகள் (夕 + 夕). 大 என்பது 大きい (பெரிய) என்பதற்கு; おおい-க்கு அல்ல."
+      },
+      {
+        "id": "KU4-q16",
+        "type": "orthography",
+        "sentence": "それは いい ＿かんがえ＿ですね。",
+        "target": "かんがえ",
+        "options": ["孝え", "老え", "考え", "教え"],
+        "answer": 2,
+        "explanation_en": "かんがえ (யோசனை, idea) is written 考え: an old man (耂) with a bent stick. 老 (old) and 孝 have the same top, and 教え is おしえ (teaching).",
+        "explanation_ta": "かんがえ (யோசனை, idea) = 考え: வளைந்த கோலுடன் முதியவர் (耂). 老 (முதுமை), 孝 ஆகியவற்றுக்கும் அதே மேல் பகுதி; 教え = おしえ (போதனை)."
+      }
+    ]
+  }
+}

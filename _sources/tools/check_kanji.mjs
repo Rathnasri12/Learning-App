@@ -1,18 +1,25 @@
 // Validate kanji unit files (content/kanji/n5/unit-XX.json) and the exam file.
-// Usage: node check_kanji.mjs [unit ...] [exam]   (no args = all units + exam)
+// Usage: node check_kanji.mjs [level] [unit ...] [exam]   (level defaults to n5; no units = all units + exam)
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..", "..");
-const dir = path.join(root, "content/kanji/n5");
+let args = process.argv.slice(2);
+const level = /^n[1-5]$/.test(args[0] ?? "") ? args.shift() : "n5";
+const dir = path.join(root, "content/kanji", level);
 const units = JSON.parse(fs.readFileSync(path.join(dir, "units.json"), "utf8")).units;
 const skel = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(dir, "skeleton.json"), "utf8")).map((k) => [k.kanji, k]));
 const vocabIds = new Set();
-for (let n = 1; n <= 25; n++) {
-  const d = JSON.parse(fs.readFileSync(path.join(root, "content/n5/vocab", `lesson-${String(n).padStart(2, "0")}.json`), "utf8"));
-  for (const v of Array.isArray(d) ? d : d.vocab) vocabIds.add(v.id);
+for (const l of ["n5", "n4", "n3"]) {
+  const vd = path.join(root, "content", l, "vocab");
+  if (fs.existsSync(vd)) for (const f of fs.readdirSync(vd)) for (const v of JSON.parse(fs.readFileSync(path.join(vd, f), "utf8"))) vocabIds.add(v.id);
+  const sk = path.join(root, "content", l, "vocab-skeleton.json");
+  if (fs.existsSync(sk)) for (const v of JSON.parse(fs.readFileSync(sk, "utf8"))) vocabIds.add(v.id);
 }
+// Higher levels: unit tests are a little longer and the final exam bigger.
+const UNIT_ITEMS = level === "n5" ? [10, 6] : [10, 6];
+const EXAM_ITEMS = { n5: 30, n4: 30, n3: 40 }[level];
 const TAMIL = /[஀-௿]/;
 const norm = (r) => r.replace(/[.\-]/g, "");
 
@@ -41,7 +48,6 @@ function checkItems(items, errs, prefix, expectCount) {
   if (items.length >= 8 && Math.max(...idx) - Math.min(...idx) > Math.ceil(items.length / 8)) errs.push(`answer spread uneven ${idx.join("/")}`);
 }
 
-const args = process.argv.slice(2);
 const targets = args.length ? args : [...units.map((u) => String(u.n)), "exam"];
 let bad = 0;
 for (const t of targets) {
@@ -54,7 +60,7 @@ for (const t of targets) {
       continue;
     }
     const E = JSON.parse(fs.readFileSync(p, "utf8"));
-    checkItems(E.items ?? [], errs, "KX-q", 30);
+    checkItems(E.items ?? [], errs, "KX-q", EXAM_ITEMS);
     if (!(E.passMark > 0)) errs.push("passMark missing");
     if (errs.length) {
       bad++;
@@ -81,6 +87,7 @@ for (const t of targets) {
   }
   if (U.unit !== n) errs.push("unit number");
   if (!U.intro?.en || !TAMIL.test(U.intro?.ta ?? "")) errs.push("intro en/ta");
+  if (level !== "n5" && (!U.title?.en || !TAMIL.test(U.title?.ta ?? "") || /^Unit d+$/.test(U.title.en))) errs.push("title en/ta (a real theme name)");
   const got = (U.kanji ?? []).map((k) => k.kanji).join("");
   if (got !== u.kanji.join("")) errs.push(`kanji order/set "${got}" != "${u.kanji.join("")}"`);
   for (const k of U.kanji ?? []) {
@@ -106,7 +113,7 @@ for (const t of targets) {
   }
   checkItems(U.test?.items ?? [], errs, `KU${n}-q`, 16);
   const types = (U.test?.items ?? []).reduce((a, it) => ((a[it.type] = (a[it.type] ?? 0) + 1), a), {});
-  if (types.kanji_reading !== 10 || types.orthography !== 6) errs.push(`item mix ${JSON.stringify(types)} (want 10 reading + 6 orthography)`);
+  if (types.kanji_reading !== UNIT_ITEMS[0] || types.orthography !== UNIT_ITEMS[1]) errs.push(`item mix ${JSON.stringify(types)} (want 10 reading + 6 orthography)`);
   if (errs.length) {
     bad++;
     console.log(`Unit ${n}: ${errs.length} errors`);

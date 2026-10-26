@@ -1,0 +1,409 @@
+{
+  "unit": 2,
+  "title": { "en": "Colors, sounds and meeting people", "ta": "நிறம், ஒலி, சந்திப்பு" },
+  "intro": {
+    "en": "In this unit you will learn twelve kanji: colors (red, blue), sounds and letters, the evening, a dog and a flower, and words for meeting people and working together. Many of them are built from kanji you already know, like 子, 日, 月, 土 and 大.",
+    "ta": "இந்தப் பிரிவில் பன்னிரண்டு கான்ஜிகளைக் கற்போம்: நிறங்கள் (சிவப்பு, நீலம்), ஒலியும் எழுத்தும், மாலை நேரம், நாய், பூ, மற்றும் சந்திப்பு, சேர்ந்து வேலை செய்வது பற்றிய சொற்கள். இவற்றில் பல, உங்களுக்கு ஏற்கெனவே தெரிந்த 子, 日, 月, 土, 大 போன்ற கான்ஜிகளால் ஆனவை."
+  },
+  "kanji": [
+    {
+      "kanji": "字",
+      "meaning": { "en": "letter, character", "ta": "எழுத்து" },
+      "on": ["じ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A child (子) sits under the roof (宀) of the house. At home, the child is learning to write letters on a slate.",
+        "ta": "வீட்டுக் கூரையின் (宀) கீழே ஒரு குழந்தை (子) அமர்ந்திருக்கிறது. வீட்டில், சிலேட்டில் எழுத்துகள் எழுதக் கற்றுக்கொள்கிறது."
+      },
+      "note": {
+        "en": "Don’t mix up 字 (letter: a roof 宀 on top) and 学 (study: three small lines on top). Both have 子 at the bottom. 文字 (letters) is read もじ.",
+        "ta": "字 (எழுத்து: மேலே கூரை 宀), 学 (படிப்பு: மேலே மூன்று சிறு கோடுகள்) இரண்டையும் குழப்ப வேண்டாம். இரண்டின் கீழும் 子 உண்டு. 文字 (எழுத்துகள்) = もじ."
+      },
+      "examples": [
+        { "word": "字", "reading": "じ", "en": "letter, character; handwriting", "ta": "எழுத்து; கையெழுத்து", "vocabId": "n4-v-507" },
+        { "word": "漢字", "reading": "かんじ", "en": "kanji", "ta": "கான்ஜி (ஜப்பானிய சித்திர எழுத்து)", "vocabId": "n5-v-188" },
+        { "word": "文字", "reading": "もじ", "en": "letters, characters", "ta": "எழுத்துகள்" }
+      ]
+    },
+    {
+      "kanji": "音",
+      "meaning": { "en": "sound", "ta": "ஒலி, சத்தம்" },
+      "on": ["おん"],
+      "kun": ["おと"],
+      "mnemonic": {
+        "en": "Someone stands (立) and opens a mouth with a tongue inside (日). A sound comes out. Stand up and sing!",
+        "ta": "ஒருவர் எழுந்து நின்று (立), நாக்குடன் வாயைத் (日) திறக்கிறார். ஒலி வெளியே வருகிறது. எழுந்து நின்று பாடுங்கள்!"
+      },
+      "note": {
+        "en": "音 (おと) is the sound of things, like a bell or rain. The voice of a person or an animal is a different word: こえ.",
+        "ta": "音 (おと) = மணி, மழை போன்ற பொருள்களின் ஒலி. மனிதர் அல்லது விலங்கின் குரல் என்பது வேறு சொல்: こえ."
+      },
+      "examples": [
+        { "word": "音", "reading": "おと", "en": "sound", "ta": "ஒலி, சத்தம்", "vocabId": "n4-v-422" },
+        { "word": "音楽", "reading": "おんがく", "en": "music", "ta": "இசை", "vocabId": "n5-v-139" },
+        { "word": "発音", "reading": "はつおん", "en": "pronunciation", "ta": "உச்சரிப்பு", "vocabId": "n4-v-054" },
+        { "word": "足音", "reading": "あしおと", "en": "sound of footsteps", "ta": "காலடிச் சத்தம்" }
+      ]
+    },
+    {
+      "kanji": "花",
+      "meaning": { "en": "flower", "ta": "பூ, மலர்" },
+      "on": ["か"],
+      "kun": ["はな"],
+      "mnemonic": {
+        "en": "Grass (艹) grows on top. Below it, a person (亻) and a person sitting down (匕): the little plant changes, and one day it becomes a flower.",
+        "ta": "மேலே புல் (艹) வளர்கிறது. அதன் கீழே ஒரு மனிதர் (亻), அருகில் அமர்ந்திருக்கும் இன்னொருவர் (匕): சிறு செடி மாறி மாறி, ஒரு நாள் பூவாக மலர்கிறது!"
+      },
+      "note": {
+        "en": "花 (はな, flower) and 鼻 (はな, nose) sound the same. 花火 (fireworks) is read はなび, with ゛: “fire flowers”.",
+        "ta": "花 (はな, பூ), 鼻 (はな, மூக்கு) ஒரே ஒலி. 花火 (வாணவேடிக்கை) = はなび (゛ உடன்): “நெருப்புப் பூக்கள்”."
+      },
+      "examples": [
+        { "word": "花", "reading": "はな", "en": "flower", "ta": "பூ", "vocabId": "n5-v-538" },
+        { "word": "花見", "reading": "はなみ", "en": "cherry-blossom viewing", "ta": "செர்ரி மலர் காணுதல்", "vocabId": "n4-v-620" },
+        { "word": "花火", "reading": "はなび", "en": "fireworks", "ta": "வாணவேடிக்கை" },
+        { "word": "花びん", "reading": "かびん", "en": "(flower) vase", "ta": "பூஜாடி" }
+      ]
+    },
+    {
+      "kanji": "赤",
+      "meaning": { "en": "red", "ta": "சிவப்பு" },
+      "on": ["せき"],
+      "kun": ["あか", "あか.い"],
+      "mnemonic": {
+        "en": "On top is the earth (土). Below it, a fire is burning (the four legs are flames). Fire under the earth makes the ground glow red, like hot coals.",
+        "ta": "மேலே மண் (土). அதன் கீழே நெருப்பு எரிகிறது (நான்கு கால்களும் தீ நாக்குகள்). மண்ணுக்கு அடியில் எரியும் நெருப்பு, தணல் போல நிலத்தைச் சிவப்பாக்குகிறது!"
+      },
+      "note": {
+        "en": "赤ちゃん (baby) comes from 赤: a new baby has red skin. 赤 is the noun (red) and 赤い is the い-adjective (red …).",
+        "ta": "赤ちゃん (பச்சைக் குழந்தை) 赤-இலிருந்து வந்தது: புதிதாகப் பிறந்த குழந்தையின் தோல் சிவப்பாக இருக்கும். 赤 = பெயர்ச்சொல் (சிவப்பு), 赤い = い-பெயரடை (சிவப்பான)."
+      },
+      "examples": [
+        { "word": "赤", "reading": "あか", "en": "red", "ta": "சிவப்பு", "vocabId": "n5-v-005" },
+        { "word": "赤い", "reading": "あかい", "en": "red", "ta": "சிவப்பான", "vocabId": "n5-v-006" },
+        { "word": "赤ちゃん", "reading": "あかちゃん", "en": "baby", "ta": "பச்சைக் குழந்தை", "vocabId": "n4-v-109" },
+        { "word": "赤道", "reading": "せきどう", "en": "the equator", "ta": "நிலநடுக்கோடு" }
+      ]
+    },
+    {
+      "kanji": "青",
+      "meaning": { "en": "blue, green", "ta": "நீலம், பச்சை" },
+      "on": ["せい"],
+      "kun": ["あお", "あお.い"],
+      "mnemonic": {
+        "en": "On top, a young plant is growing (like 生, life). Below it is the moon (月). Fresh young leaves under the moonlight look blue-green.",
+        "ta": "மேலே ஓர் இளம் செடி வளர்கிறது (生, உயிர் போல). அதன் கீழே நிலா (月). நிலவொளியில் இளம் இலைகள் நீலப் பச்சையாகத் தெரிகின்றன."
+      },
+      "note": {
+        "en": "In Japanese, 青 is blue, but also the green of young leaves and the green traffic light (あおしんごう).",
+        "ta": "ஜப்பானிய மொழியில் 青 = நீலம்; ஆனால் இளம் இலைகளின் பச்சையும், போக்குவரத்துப் பச்சை விளக்கும் (あおしんごう) 青 தான்."
+      },
+      "examples": [
+        { "word": "青", "reading": "あお", "en": "blue", "ta": "நீலம்", "vocabId": "n5-v-003" },
+        { "word": "青い", "reading": "あおい", "en": "blue", "ta": "நீலமான", "vocabId": "n5-v-004" },
+        { "word": "青空", "reading": "あおぞら", "en": "blue sky", "ta": "நீல வானம்" },
+        { "word": "青年", "reading": "せいねん", "en": "young man, youth", "ta": "இளைஞர்" }
+      ]
+    },
+    {
+      "kanji": "夕",
+      "meaning": { "en": "evening", "ta": "மாலை" },
+      "on": [],
+      "kun": ["ゆう"],
+      "mnemonic": {
+        "en": "It is the moon (月) with a line missing: only half of the moon has come up. When the moon just starts to appear, it is evening.",
+        "ta": "இது ஒரு கோடு குறைந்த நிலா (月): பாதி நிலா மட்டுமே எழுந்திருக்கிறது. நிலா மெல்லத் தெரியத் தொடங்கும்போது, மாலை நேரம்!"
+      },
+      "note": {
+        "en": "Don’t mix up 夕 (evening) with katakana タ (ta), and with 多 (many), which is two 夕. Special word: 七夕 (たなばた, the star festival).",
+        "ta": "夕 (மாலை), கட்டகானா タ (ta), இரண்டு 夕 சேர்ந்த 多 (நிறைய) மூன்றையும் குழப்ப வேண்டாம். சிறப்புச் சொல்: 七夕 (たなばた, நட்சத்திரத் திருவிழா)."
+      },
+      "examples": [
+        { "word": "夕方", "reading": "ゆうがた", "en": "early evening", "ta": "மாலை", "vocabId": "n5-v-676" },
+        { "word": "夕飯", "reading": "ゆうはん", "en": "dinner, supper", "ta": "இரவு உணவு (மாலை உணவு)", "vocabId": "n5-v-677" },
+        { "word": "夕日", "reading": "ゆうひ", "en": "the evening sun, sunset", "ta": "மாலைச் சூரியன்" }
+      ]
+    },
+    {
+      "kanji": "犬",
+      "meaning": { "en": "dog", "ta": "நாய்" },
+      "on": ["けん"],
+      "kun": ["いぬ"],
+      "mnemonic": {
+        "en": "A big (大) man walks, and the little dot by his shoulder is his dog jumping up beside him. Wherever he goes, his dog follows.",
+        "ta": "ஒரு பெரிய (大) மனிதர் நடக்கிறார்; அவர் தோளருகே உள்ள சிறு புள்ளி, அவருடன் துள்ளிக் குதிக்கும் அவரது நாய். அவர் எங்கே போனாலும் நாய் பின்னால் வரும்!"
+      },
+      "note": {
+        "en": "Look at the dot: 大 (big) has no dot. In 犬 the dot is at the top right.",
+        "ta": "புள்ளியைக் கவனியுங்கள்: 大 (பெரிய)-இல் புள்ளி இல்லை. 犬-இல் புள்ளி மேலே வலப்பக்கம் இருக்கும்."
+      },
+      "examples": [
+        { "word": "犬", "reading": "いぬ", "en": "dog", "ta": "நாய்", "vocabId": "n5-v-065" },
+        { "word": "子犬", "reading": "こいぬ", "en": "puppy", "ta": "நாய்க்குட்டி" },
+        { "word": "秋田犬", "reading": "あきたけん", "en": "Akita dog (a Japanese dog breed)", "ta": "அகிதா நாய் (ஜப்பானிய நாய் இனம்)" }
+      ]
+    },
+    {
+      "kanji": "会",
+      "meaning": { "en": "meet, meeting", "ta": "சந்தித்தல், கூட்டம்" },
+      "on": ["かい"],
+      "kun": ["あ.う"],
+      "mnemonic": {
+        "en": "On top is a big roof shaped like 人. Under it are two lines (二) and a person sitting (ム). People come together under one roof: they meet.",
+        "ta": "மேலே 人 வடிவில் ஒரு பெரிய கூரை. அதன் கீழே இரண்டு கோடுகள் (二), அமர்ந்திருக்கும் ஒருவர் (ム). ஒரே கூரையின் கீழ் மக்கள் ஒன்று கூடுகிறார்கள்: சந்திப்பு!"
+      },
+      "note": {
+        "en": "会う (あう) is to meet a person: 友だちに 会う. Another kanji, 合う (あう), means to fit or match. Use 会 for people.",
+        "ta": "会う (あう) = ஒருவரைச் சந்திக்க: 友だちに 会う. 合う (あう) என்ற வேறு கான்ஜிக்கு “பொருந்து” என்று பொருள். மனிதர்களைச் சந்திக்க 会."
+      },
+      "examples": [
+        { "word": "会う", "reading": "あう", "en": "to meet", "ta": "சந்திக்க", "vocabId": "n5-v-002" },
+        { "word": "会社", "reading": "かいしゃ", "en": "company", "ta": "நிறுவனம் (கம்பெனி)", "vocabId": "n5-v-146" },
+        { "word": "会話", "reading": "かいわ", "en": "conversation", "ta": "உரையாடல்", "vocabId": "n4-v-316" },
+        { "word": "会場", "reading": "かいじょう", "en": "venue, meeting place", "ta": "நிகழ்ச்சி நடக்கும் இடம்", "vocabId": "n4-v-497" }
+      ]
+    },
+    {
+      "kanji": "同",
+      "meaning": { "en": "same", "ta": "அதே, ஒரே" },
+      "on": ["どう"],
+      "kun": ["おな.じ"],
+      "mnemonic": {
+        "en": "Inside a frame (冂) there is one (一) mouth (口). Everyone in the room speaks with one mouth: they all say the same thing.",
+        "ta": "ஒரு சட்டகத்தின் (冂) உள்ளே ஒன்று (一) வாய் (口). அறையில் உள்ள எல்லோரும் ஒரே வாயால் பேசுகிறார்கள்: எல்லோரும் அதே சொல்லைச் சொல்கிறார்கள்!"
+      },
+      "note": {
+        "en": "Before a noun, 同じ stays the same, with no な: 同じ 本 (the same book), not 同じな 本.",
+        "ta": "பெயர்ச்சொல்லுக்கு முன் 同じ அப்படியே வரும், な சேராது: 同じ 本 (அதே புத்தகம்); 同じな 本 அல்ல."
+      },
+      "examples": [
+        { "word": "同じ", "reading": "おなじ", "en": "same", "ta": "ஒரே (அதே)", "vocabId": "n5-v-125" },
+        { "word": "同時", "reading": "どうじ", "en": "the same time", "ta": "ஒரே நேரம்" },
+        { "word": "同意", "reading": "どうい", "en": "agreement", "ta": "ஒப்புதல்" }
+      ]
+    },
+    {
+      "kanji": "自",
+      "meaning": { "en": "self, oneself", "ta": "தான், சுயம்" },
+      "on": ["じ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "自 is a picture of a nose: the dot on top and a long nose below. In Japan, when people say “me”, they point to their own nose. So the nose means “myself”.",
+        "ta": "自 என்பது ஒரு மூக்கின் படம்: மேலே புள்ளி, கீழே நீண்ட மூக்கு. ஜப்பானில் “நான்” என்று சொல்லும்போது தங்கள் மூக்கைத் தொட்டுக் காட்டுவார்கள். அதனால் மூக்கு = “நானே, தானே”."
+      },
+      "note": {
+        "en": "Don’t mix up 自 (self, a dot on top and three lines inside), 目 (eye, no dot) and 白 (white, only one line inside).",
+        "ta": "自 (தான்: மேலே புள்ளி, உள்ளே மூன்று கோடுகள்), 目 (கண்: புள்ளி இல்லை), 白 (வெள்ளை: உள்ளே ஒரு கோடு மட்டும்) மூன்றையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "自分", "reading": "じぶん", "en": "oneself, myself", "ta": "தான் (சொந்தமாக)", "vocabId": "n5-v-306" },
+        { "word": "自転車", "reading": "じてんしゃ", "en": "bicycle", "ta": "சைக்கிள் (மிதிவண்டி)", "vocabId": "n5-v-302" },
+        { "word": "自動車", "reading": "じどうしゃ", "en": "car, automobile", "ta": "வாகனம் (மோட்டார் கார்)", "vocabId": "n5-v-303" }
+      ]
+    },
+    {
+      "kanji": "社",
+      "meaning": { "en": "company; shrine", "ta": "நிறுவனம்; கோயில்" },
+      "on": ["しゃ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is an altar (礻). On the right is a mound of earth (土). In old days, the people of a village met at the shrine of the earth god, like at our village temple. A group of people working together became a company.",
+        "ta": "இடப்பக்கம் ஒரு பலிபீடம் (礻). வலப்பக்கம் மண் மேடு (土). பழங்காலத்தில், நம் ஊர்க் கோயிலைப் போல, மண் தெய்வத்தின் கோயிலில் கிராம மக்கள் கூடுவார்கள். ஒன்றாகச் சேர்ந்து வேலை செய்யும் குழுவே பிறகு “நிறுவனம்” ஆனது."
+      },
+      "note": {
+        "en": "After ん, しゃ often becomes じゃ: じんじゃ (a Shinto shrine). Don’t mix up the left part 礻 (altar) with 衤 (clothes), which has one more dot.",
+        "ta": "ん-க்குப் பின் しゃ பெரும்பாலும் じゃ ஆகும்: じんじゃ (ஷிந்தோ கோயில்). இடப்பக்க 礻 (பலிபீடம்), ஒரு புள்ளி கூடுதலான 衤 (உடை) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "会社", "reading": "かいしゃ", "en": "company", "ta": "நிறுவனம் (கம்பெனி)", "vocabId": "n5-v-146" },
+        { "word": "社長", "reading": "しゃちょう", "en": "company president", "ta": "நிறுவனத் தலைவர்", "vocabId": "n4-v-126" },
+        { "word": "社会", "reading": "しゃかい", "en": "society", "ta": "சமூகம்", "vocabId": "n4-v-668" }
+      ]
+    },
+    {
+      "kanji": "地",
+      "meaning": { "en": "ground, land", "ta": "நிலம், பூமி" },
+      "on": ["ち", "じ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is earth (土). On the right is a snake (也) crawling along. A snake moves on the ground: this is the land under our feet.",
+        "ta": "இடப்பக்கம் மண் (土). வலப்பக்கம் ஊர்ந்து செல்லும் ஒரு பாம்பு (也). பாம்பு தரையில் ஊர்கிறது: இதுதான் நம் காலடியில் உள்ள நிலம்!"
+      },
+      "note": {
+        "en": "Most words use ち: 地図, 地下. A few use じ: 地元 (じもと, your home area).",
+        "ta": "பெரும்பாலான சொற்களில் ち: 地図, 地下. சிலவற்றில் じ: 地元 (じもと, சொந்த ஊர்ப் பகுதி)."
+      },
+      "examples": [
+        { "word": "地図", "reading": "ちず", "en": "map", "ta": "வரைபடம் (மேப்)", "vocabId": "n5-v-405" },
+        { "word": "地下", "reading": "ちか", "en": "underground, basement", "ta": "நிலத்தடி" },
+        { "word": "地理", "reading": "ちり", "en": "geography", "ta": "புவியியல்", "vocabId": "n4-v-138" },
+        { "word": "地元", "reading": "じもと", "en": "home area, local area", "ta": "சொந்த ஊர்ப் பகுதி" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU2-q01",
+        "type": "kanji_reading",
+        "sentence": "＿赤ちゃん＿が ねて います。",
+        "target": "赤ちゃん",
+        "options": ["せきちゃん", "あがちゃん", "あかちゃん", "あおちゃん"],
+        "answer": 2,
+        "explanation_en": "赤ちゃん is read あかちゃん (பச்சைக் குழந்தை, baby). せき is the on reading of 赤, not used here. あがちゃん has a wrong ゛, and あお is 青 (blue).",
+        "explanation_ta": "赤ちゃん = あかちゃん (பச்சைக் குழந்தை, baby). せき என்பது 赤-இன் ஆன் வாசிப்பு, இங்கே பொருந்தாது. あがちゃん-இல் தேவையில்லாத ゛; あお = 青 (நீலம்)."
+      },
+      {
+        "id": "KU2-q02",
+        "type": "kanji_reading",
+        "sentence": "へやの 外で 大きい ＿音＿が しました。",
+        "target": "音",
+        "options": ["おと", "おん", "こえ", "いん"],
+        "answer": 0,
+        "explanation_en": "音 alone is read おと (ஒலி, sound). おん is the on reading, used in 音楽. こえ means voice, and it is a different kanji.",
+        "explanation_ta": "தனியாக 音 = おと (ஒலி, sound). おん ஆன் வாசிப்பு; 音楽 என்பதில் வரும். こえ = குரல், அது வேறு கான்ஜி."
+      },
+      {
+        "id": "KU2-q03",
+        "type": "kanji_reading",
+        "sentence": "学校で ＿社会＿を べんきょうします。",
+        "target": "社会",
+        "options": ["しゃがい", "じゃかい", "しゃっかい", "しゃかい"],
+        "answer": 3,
+        "explanation_en": "社会 is read しゃかい (சமூகம், society). There is no ゛ and no small っ. じゃ is used only after ん, as in じんじゃ.",
+        "explanation_ta": "社会 = しゃかい (சமூகம், society). ゛-உம் இல்லை, சிறிய っ-உம் இல்லை. じゃ என்பது じんじゃ போல ん-க்குப் பின் மட்டும்."
+      },
+      {
+        "id": "KU2-q04",
+        "type": "kanji_reading",
+        "sentence": "毎日 ＿会社＿へ 行きます。",
+        "target": "会社",
+        "options": ["かいじゃ", "かいしゃ", "がいしゃ", "あいしゃ"],
+        "answer": 1,
+        "explanation_en": "会社 is read かいしゃ (நிறுவனம், company). かいじゃ and がいしゃ have a wrong ゛. あ is from 会う, the kun reading, not used here.",
+        "explanation_ta": "会社 = かいしゃ (நிறுவனம், company). かいじゃ, がいしゃ ஆகியவற்றில் தேவையில்லாத ゛. あ என்பது 会う-இன் குன் வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU2-q05",
+        "type": "kanji_reading",
+        "sentence": "しゅくだいは ＿自分＿で やりなさい。",
+        "target": "自分",
+        "options": ["じふん", "じぶん", "しぶん", "じっぷん"],
+        "answer": 1,
+        "explanation_en": "自分 is read じぶん (தான், oneself). 分 becomes ぶん here, with ゛. じふん has no ゛, and じっぷん is like 十分 (ten minutes).",
+        "explanation_ta": "自分 = じぶん (தான், oneself). இங்கே 分 = ぶん (゛ உடன்). じふん-இல் ゛ இல்லை; じっぷん என்பது 十分 (பத்து நிமிடம்) போல."
+      },
+      {
+        "id": "KU2-q06",
+        "type": "kanji_reading",
+        "sentence": "この ビルの ＿地下＿に レストランが あります。",
+        "target": "地下",
+        "options": ["じか", "ちが", "しか", "ちか"],
+        "answer": 3,
+        "explanation_en": "地下 is read ちか (நிலத்தடி, underground). Here 地 is ち, not じ. ちが has a wrong ゛.",
+        "explanation_ta": "地下 = ちか (நிலத்தடி, underground). இங்கே 地 = ち, じ அல்ல. ちが-வில் தேவையில்லாத ゛ உள்ளது."
+      },
+      {
+        "id": "KU2-q07",
+        "type": "kanji_reading",
+        "sentence": "わたしと ＿同じ＿ かばんですね。",
+        "target": "同じ",
+        "options": ["おなじ", "おおじ", "どうじ", "おなし"],
+        "answer": 0,
+        "explanation_en": "同じ is read おなじ (அதே, same). どうじ is 同時 (the same time). おなし is missing the ゛.",
+        "explanation_ta": "同じ = おなじ (அதே, same). どうじ = 同時 (ஒரே நேரம்). おなし-வில் ゛ இல்லை."
+      },
+      {
+        "id": "KU2-q08",
+        "type": "kanji_reading",
+        "sentence": "なつの よるに ＿花火＿を 見ました。",
+        "target": "花火",
+        "options": ["はなひ", "かび", "はなび", "はなぴ"],
+        "answer": 2,
+        "explanation_en": "花火 is read はなび (வாணவேடிக்கை, fireworks). ひ becomes び with ゛. はなひ has no ゛, and はなぴ has ゜.",
+        "explanation_ta": "花火 = はなび (வாணவேடிக்கை, fireworks). ひ → び (゛ உடன்). はなひ-இல் ゛ இல்லை; はなぴ-இல் ゜ உள்ளது."
+      },
+      {
+        "id": "KU2-q09",
+        "type": "kanji_reading",
+        "sentence": "＿青い＿ シャツを かいました。",
+        "target": "青い",
+        "options": ["あおおい", "せいい", "あかい", "あおい"],
+        "answer": 3,
+        "explanation_en": "青い is read あおい (நீலமான, blue). あかい is 赤い (red), and せい is the on reading of 青, not used here.",
+        "explanation_ta": "青い = あおい (நீலமான, blue). あかい = 赤い (சிவப்பான); せい என்பது 青-இன் ஆன் வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU2-q10",
+        "type": "kanji_reading",
+        "sentence": "にわに ＿子犬＿が 二ひき います。",
+        "target": "子犬",
+        "options": ["こけん", "こいぬ", "こいの", "ごいぬ"],
+        "answer": 1,
+        "explanation_en": "子犬 is read こいぬ (நாய்க்குட்டி, puppy). けん is the on reading of 犬, not used here. ごいぬ has a wrong ゛.",
+        "explanation_ta": "子犬 = こいぬ (நாய்க்குட்டி, puppy). けん என்பது 犬-இன் ஆன் வாசிப்பு, இங்கே பொருந்தாது. ごいぬ-வில் தேவையில்லாத ゛."
+      },
+      {
+        "id": "KU2-q11",
+        "type": "orthography",
+        "sentence": "あした 友だちに ＿あいます＿。",
+        "target": "あいます",
+        "options": ["会います", "合います", "今います", "全います"],
+        "answer": 0,
+        "explanation_en": "あいます (சந்திக்கிறேன், to meet) is written 会います. 合います has the same sound but means “to fit”. 今 and 全 only look similar.",
+        "explanation_ta": "あいます (சந்திக்கிறேன், to meet) = 会います. 合います அதே ஒலி; ஆனால் “பொருந்து” என்று பொருள். 今, 全 பார்க்க மட்டும் ஒத்தவை."
+      },
+      {
+        "id": "KU2-q12",
+        "type": "orthography",
+        "sentence": "あなたの ＿じ＿は きれいですね。",
+        "target": "じ",
+        "options": ["学", "子", "字", "宇"],
+        "answer": 2,
+        "explanation_en": "じ (எழுத்து, letter / handwriting) is written 字: a child (子) under a roof (宀). 学 has three small lines on top, and 宇 has no 子.",
+        "explanation_ta": "じ (எழுத்து, letter / handwriting) = 字: கூரையின் (宀) கீழ் குழந்தை (子). 学-இன் மேலே மூன்று சிறு கோடுகள்; 宇-இல் 子 இல்லை."
+      },
+      {
+        "id": "KU2-q13",
+        "type": "orthography",
+        "sentence": "この 会社の ＿しゃちょう＿は わかいです。",
+        "target": "しゃちょう",
+        "options": ["杜長", "社長", "祉長", "仕長"],
+        "answer": 1,
+        "explanation_en": "しゃちょう (நிறுவனத் தலைவர், company president) is written 社長: altar (礻) + earth (土). 杜 has 木 on the left, and 祉 has a different right side.",
+        "explanation_ta": "しゃちょう (நிறுவனத் தலைவர், company president) = 社長: பலிபீடம் (礻) + மண் (土). 杜-இல் இடப்பக்கம் 木; 祉-இல் வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU2-q14",
+        "type": "orthography",
+        "sentence": "さむくて、手が ＿あかく＿ なりました。",
+        "target": "あかく",
+        "options": ["亦く", "変く", "朱く", "赤く"],
+        "answer": 3,
+        "explanation_en": "あかく (சிவப்பாக, red) is written 赤く: earth (土) over fire. 亦 and 変 only look similar, and 朱 is not used for this word.",
+        "explanation_ta": "あかく (சிவப்பாக, red) = 赤く: நெருப்பின் மேல் மண் (土). 亦, 変 பார்க்க மட்டும் ஒத்தவை; 朱 இந்தச் சொல்லுக்குப் பயன்படாது."
+      },
+      {
+        "id": "KU2-q15",
+        "type": "orthography",
+        "sentence": "毎日 ＿いぬ＿と さんぽします。",
+        "target": "いぬ",
+        "options": ["犬", "大", "太", "尤"],
+        "answer": 0,
+        "explanation_en": "いぬ (நாய், dog) is written 犬, with the dot at the top right. 大 (big) has no dot, and 太 has the dot at the bottom.",
+        "explanation_ta": "いぬ (நாய், dog) = 犬; புள்ளி மேலே வலப்பக்கம். 大 (பெரிய)-இல் புள்ளி இல்லை; 太-இல் புள்ளி கீழே."
+      },
+      {
+        "id": "KU2-q16",
+        "type": "orthography",
+        "sentence": "うみで 見た ＿ゆうひ＿は きれいでした。",
+        "target": "ゆうひ",
+        "options": ["多日", "タ日", "夕日", "名日"],
+        "answer": 2,
+        "explanation_en": "ゆうひ (மாலைச் சூரியன், evening sun) is written 夕日. タ is katakana, not kanji. 多 (many) is two 夕, and 名 (name) has 口 under 夕.",
+        "explanation_ta": "ゆうひ (மாலைச் சூரியன், evening sun) = 夕日. タ கட்டகானா, கான்ஜி அல்ல. 多 (நிறைய) = இரண்டு 夕; 名 (பெயர்) = 夕-இன் கீழ் 口."
+      }
+    ]
+  }
+}

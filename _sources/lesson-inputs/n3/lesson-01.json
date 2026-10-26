@@ -1,0 +1,417 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 1,
+  "slug": "tomodachi-to-shaberu",
+  "title": {
+   "ja": "友だちとしゃべる",
+   "ta": "நண்பர்களுடன் அரட்டை",
+   "en": "Chatting with friends"
+  },
+  "theme": {
+   "en": "Casual talk with friends: catching up, checking things you forgot, small talk and excuses.",
+   "ta": "நண்பர்களுடன் சாதாரணப் பேச்சு: நலம் விசாரிப்பது, மறந்ததை உறுதி செய்வது, சிறு பேச்சு, சாக்குகள்."
+  },
+  "grammar": [
+   {
+    "id": "g01-1",
+    "pattern": "〜っけ",
+    "en": "Checking something you forgot (what was it again?)"
+   },
+   {
+    "id": "g01-2",
+    "pattern": "〜じゃない / 〜じゃん",
+    "en": "Isn't it? (seeking agreement, casual)"
+   },
+   {
+    "id": "g01-3",
+    "pattern": "〜もん",
+    "en": "Because ~ (casual, emotional excuse)"
+   },
+   {
+    "id": "g01-4",
+    "pattern": "〜わ / 〜ぞ / 〜ぜ",
+    "en": "Sentence endings that show the speaker's style and feeling"
+   }
+  ],
+  "vocabHints": [
+   "friends and chatting",
+   "greetings and interjections",
+   "jokes, humour, gossip",
+   "casual everyday verbs"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0078",
+   "expression": "しまった (かん)",
+   "reading": "しまった (かん)",
+   "romaji": "shimatta(kan)",
+   "en": "Damn it!"
+  },
+  {
+   "id": "n3-v-0087",
+   "expression": "しゃべる",
+   "reading": "しゃべる",
+   "romaji": "shaberu",
+   "en": "to talk, to chat, to chatter (same as 話す (はなす))"
+  },
+  {
+   "id": "n3-v-0146",
+   "expression": "冗談",
+   "reading": "じょうだん",
+   "romaji": "joudan",
+   "en": "a joke"
+  },
+  {
+   "id": "n3-v-0193",
+   "expression": "信じる",
+   "reading": "しんじる",
+   "romaji": "shinjiru",
+   "en": "to believe"
+  },
+  {
+   "id": "n3-v-0228",
+   "expression": "過ごす",
+   "reading": "すごす",
+   "romaji": "sugosu",
+   "en": "to pass, to spend (time)"
+  },
+  {
+   "id": "n3-v-0246",
+   "expression": "すみません (かん)",
+   "reading": "すみません (かん)",
+   "romaji": "sumimasen(kan)",
+   "en": "sorry, excuse me"
+  },
+  {
+   "id": "n3-v-0250",
+   "expression": "為る",
+   "reading": "する",
+   "romaji": "suru",
+   "en": "to do, to attempt"
+  },
+  {
+   "id": "n3-v-0347",
+   "expression": "ありがとう",
+   "reading": "ありがとう",
+   "romaji": "arigatou",
+   "en": "Thank you"
+  },
+  {
+   "id": "n3-v-0348",
+   "expression": "在る; 有る",
+   "reading": "ある",
+   "romaji": "aru",
+   "en": "to live, to be, to exist"
+  },
+  {
+   "id": "n3-v-0353",
+   "expression": "合わせる",
+   "reading": "あわせる",
+   "romaji": "awaseru",
+   "en": "to combine"
+  },
+  {
+   "id": "n3-v-0361",
+   "expression": "あんまり",
+   "reading": "あんまり",
+   "romaji": "anmari",
+   "en": "not very, not much"
+  },
+  {
+   "id": "n3-v-0385",
+   "expression": "いただきます",
+   "reading": "いただきます",
+   "romaji": "itadakimasu",
+   "en": "expression of gratitude before meals"
+  },
+  {
+   "id": "n3-v-0422",
+   "expression": "いらっしゃい",
+   "reading": "いらっしゃい",
+   "romaji": "irasshai",
+   "en": "welcome"
+  },
+  {
+   "id": "n3-v-0440",
+   "expression": "動かす",
+   "reading": "うごかす",
+   "romaji": "ugokasu",
+   "en": "to move, to shift"
+  },
+  {
+   "id": "n3-v-0503",
+   "expression": "起こる",
+   "reading": "おこる",
+   "romaji": "okoru",
+   "en": "to occur, to happen"
+  },
+  {
+   "id": "n3-v-0511",
+   "expression": "お喋り",
+   "reading": "おしゃべり",
+   "romaji": "oshaberi",
+   "en": "chattering, talk"
+  },
+  {
+   "id": "n3-v-0527",
+   "expression": "お前",
+   "reading": "おまえ",
+   "romaji": "omae",
+   "en": "you (sing), presence (of a high personage)"
+  },
+  {
+   "id": "n3-v-0538",
+   "expression": "降ろす",
+   "reading": "おろす",
+   "romaji": "orosu",
+   "en": "to take down, to launch, to drop"
+  },
+  {
+   "id": "n3-v-0565",
+   "expression": "帰す",
+   "reading": "かえす",
+   "romaji": "kaesu",
+   "en": "to send back"
+  },
+  {
+   "id": "n3-v-0572",
+   "expression": "抱える",
+   "reading": "かかえる",
+   "romaji": "kakaeru",
+   "en": "to hold or carry under or in the arms"
+  },
+  {
+   "id": "n3-v-0596",
+   "expression": "欠ける",
+   "reading": "かける",
+   "romaji": "kakeru",
+   "en": "to be lacking"
+  },
+  {
+   "id": "n3-v-0600",
+   "expression": "囲む",
+   "reading": "かこむ",
+   "romaji": "kakomu",
+   "en": "to surround, to encircle"
+  },
+  {
+   "id": "n3-v-0677",
+   "expression": "感じる",
+   "reading": "かんじる",
+   "romaji": "kanjiru",
+   "en": "to feel, to sense"
+  },
+  {
+   "id": "n3-v-0779",
+   "expression": "食う",
+   "reading": "くう",
+   "romaji": "kuu",
+   "en": "(male) (vulg.) to eat"
+  },
+  {
+   "id": "n3-v-0788",
+   "expression": "下る",
+   "reading": "くだる",
+   "romaji": "kudaru",
+   "en": "to get down, to descend"
+  },
+  {
+   "id": "n3-v-0801",
+   "expression": "暮らす",
+   "reading": "くらす",
+   "romaji": "kurasu",
+   "en": "to live, to get along"
+  },
+  {
+   "id": "n3-v-0905",
+   "expression": "越える",
+   "reading": "こえる",
+   "romaji": "koeru",
+   "en": "to exceed, to cross over, to cross"
+  },
+  {
+   "id": "n3-v-0906",
+   "expression": "超える",
+   "reading": "こえる",
+   "romaji": "koeru",
+   "en": "to exceed, to cross over, to cross"
+  },
+  {
+   "id": "n3-v-0927",
+   "expression": "超す",
+   "reading": "こす",
+   "romaji": "kosu",
+   "en": "to cross, to pass, to tide over"
+  },
+  {
+   "id": "n3-v-0955",
+   "expression": "こんにちは",
+   "reading": "こんにちは",
+   "romaji": "konnichiha",
+   "en": "hello, good day (daytime greeting)"
+  },
+  {
+   "id": "n3-v-0982",
+   "expression": "避ける",
+   "reading": "さける",
+   "romaji": "sakeru",
+   "en": "to avoid (physical contact); to ward off, to avert"
+  },
+  {
+   "id": "n3-v-1078",
+   "expression": "戻す",
+   "reading": "もどす",
+   "romaji": "modosu",
+   "en": "to restore, to put back, to return"
+  },
+  {
+   "id": "n3-v-1105",
+   "expression": "友好",
+   "reading": "ゆうこう",
+   "romaji": "yuukou",
+   "en": "friendship"
+  },
+  {
+   "id": "n3-v-1109",
+   "expression": "友情",
+   "reading": "ゆうじょう",
+   "romaji": "yuujou",
+   "en": "friendship, fellowship"
+  },
+  {
+   "id": "n3-v-1110",
+   "expression": "友人",
+   "reading": "ゆうじん",
+   "romaji": "yuujin",
+   "en": "friend (formal)"
+  },
+  {
+   "id": "n3-v-1113",
+   "expression": "ユーモア",
+   "reading": "ユーモア",
+   "romaji": "yuumoa",
+   "en": "humor"
+  },
+  {
+   "id": "n3-v-1154",
+   "expression": "よろしく (かん)",
+   "reading": "よろしく (かん)",
+   "romaji": "yoroshiku(kan)",
+   "en": "best regards, please remember me"
+  },
+  {
+   "id": "n3-v-1226",
+   "expression": "埋まる",
+   "reading": "うまる",
+   "romaji": "umaru",
+   "en": "to be buried, to be filled"
+  },
+  {
+   "id": "n3-v-1230",
+   "expression": "負う",
+   "reading": "おう",
+   "romaji": "ou",
+   "en": "to bear, to owe"
+  },
+  {
+   "id": "n3-v-1343",
+   "expression": "それと",
+   "reading": "それと",
+   "romaji": "soreto",
+   "en": "and"
+  },
+  {
+   "id": "n3-v-1395",
+   "expression": "だけど",
+   "reading": "だけど",
+   "romaji": "dakedo",
+   "en": "however"
+  },
+  {
+   "id": "n3-v-1429",
+   "expression": "偶",
+   "reading": "たま",
+   "romaji": "tama",
+   "en": "even number, couple, friend"
+  },
+  {
+   "id": "n3-v-1434",
+   "expression": "黙る",
+   "reading": "だまる",
+   "romaji": "damaru",
+   "en": "to be silent"
+  },
+  {
+   "id": "n3-v-1488",
+   "expression": "ちょうだい",
+   "reading": "ちょうだい",
+   "romaji": "choudai",
+   "en": "-- colloquial form of ください; typically used by children or women --"
+  },
+  {
+   "id": "n3-v-1581",
+   "expression": "どうぞよろしく",
+   "reading": "どうぞよろしく",
+   "romaji": "douzoyoroshiku",
+   "en": "pleased to meet you"
+  },
+  {
+   "id": "n3-v-1608",
+   "expression": "ところで",
+   "reading": "ところで",
+   "romaji": "tokorode",
+   "en": "by the way; even if"
+  },
+  {
+   "id": "n3-v-1625",
+   "expression": "友",
+   "reading": "とも",
+   "romaji": "tomo",
+   "en": "friend, companion, pal"
+  },
+  {
+   "id": "n3-v-1639",
+   "expression": "とんでもない",
+   "reading": "とんでもない",
+   "romaji": "tondemonai",
+   "en": "outrageous, No way!"
+  },
+  {
+   "id": "n3-v-1674",
+   "expression": "何で",
+   "reading": "なんで",
+   "romaji": "nande",
+   "en": "Why, What for"
+  },
+  {
+   "id": "n3-v-1685",
+   "expression": "にっこり",
+   "reading": "にっこり",
+   "romaji": "nikkori",
+   "en": "smile sweetly, smile, grin"
+  },
+  {
+   "id": "n3-v-1736",
+   "expression": "はあ (かん)",
+   "reading": "はあ (かん)",
+   "romaji": "haa(kan)",
+   "en": "(sigh)"
+  },
+  {
+   "id": "n3-v-1963",
+   "expression": "まあ",
+   "reading": "まあ",
+   "romaji": "maa",
+   "en": "well (used when making a modest or hesitant statement)"
+  },
+  {
+   "id": "n3-v-1999",
+   "expression": "柵",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "fence, paling"
+  }
+ ]
+}

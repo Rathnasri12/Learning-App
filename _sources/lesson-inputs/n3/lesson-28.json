@@ -1,0 +1,423 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 28,
+  "slug": "shigoto-no-nayami",
+  "title": {
+   "ja": "やるしかない",
+   "ta": "செய்வதைத் தவிர வேறு வழியில்லை",
+   "en": "No choice but to do it"
+  },
+  "theme": {
+   "en": "Problems at work: overtime, deadlines, colleagues and having no choice.",
+   "ta": "வேலையில் பிரச்சினைகள்: கூடுதல் நேர வேலை, காலக்கெடு, சக ஊழியர்கள், வேறு வழியில்லாத நிலை."
+  },
+  "grammar": [
+   {
+    "id": "g28-1",
+    "pattern": "V-る しか ない",
+    "en": "Have no choice but to ~"
+   },
+   {
+    "id": "g28-2",
+    "pattern": "V-る ほか ない / V-る より ほか ない",
+    "en": "There's nothing to do but ~ (formal)"
+   },
+   {
+    "id": "g28-3",
+    "pattern": "V-ないで 済む / V-ず に 済む",
+    "en": "Get by without ~ / don't have to after all"
+   },
+   {
+    "id": "g28-4",
+    "pattern": "V-ざるを 得ない",
+    "en": "Cannot help but ~ / be forced to ~ (formal)"
+   }
+  ],
+  "vocabHints": [
+   "the workplace and colleagues",
+   "tasks, deadlines and overtime",
+   "jobs and positions"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0064",
+   "expression": "支店",
+   "reading": "してん",
+   "romaji": "shiten",
+   "en": "branch store (office)"
+  },
+  {
+   "id": "n3-v-0124",
+   "expression": "順調",
+   "reading": "じゅんちょう",
+   "romaji": "junchou",
+   "en": "doing well"
+  },
+  {
+   "id": "n3-v-0172",
+   "expression": "助手",
+   "reading": "じょしゅ",
+   "romaji": "joshu",
+   "en": "helper, assistant"
+  },
+  {
+   "id": "n3-v-0226",
+   "expression": "スケジュール",
+   "reading": "スケジュール",
+   "romaji": "sukejuuru",
+   "en": "schedule"
+  },
+  {
+   "id": "n3-v-0243",
+   "expression": "済ませる",
+   "reading": "すませる",
+   "romaji": "sumaseru",
+   "en": "to be finished"
+  },
+  {
+   "id": "n3-v-0329",
+   "expression": "扱う",
+   "reading": "あつかう",
+   "romaji": "atsukau",
+   "en": "to treat, to handle, to deal with"
+  },
+  {
+   "id": "n3-v-0466",
+   "expression": "柄",
+   "reading": "え",
+   "romaji": "e",
+   "en": "handle (of a sword, dagger, etc.), grip"
+  },
+  {
+   "id": "n3-v-0495",
+   "expression": "終える",
+   "reading": "おえる",
+   "romaji": "oeru",
+   "en": "to finish"
+  },
+  {
+   "id": "n3-v-0525",
+   "expression": "オフィス",
+   "reading": "オフィス",
+   "romaji": "ofyisu",
+   "en": "office"
+  },
+  {
+   "id": "n3-v-0546",
+   "expression": "課",
+   "reading": "か",
+   "romaji": "ka",
+   "en": "department, division"
+  },
+  {
+   "id": "n3-v-0551",
+   "expression": "会員",
+   "reading": "かいいん",
+   "romaji": "kaiin",
+   "en": "member, the membership"
+  },
+  {
+   "id": "n3-v-0556",
+   "expression": "会合",
+   "reading": "かいごう",
+   "romaji": "kaigou",
+   "en": "meeting, assembly"
+  },
+  {
+   "id": "n3-v-0576",
+   "expression": "係",
+   "reading": "かかり",
+   "romaji": "kakari",
+   "en": "person in charge"
+  },
+  {
+   "id": "n3-v-0631",
+   "expression": "過程",
+   "reading": "かてい",
+   "romaji": "katei",
+   "en": "process"
+  },
+  {
+   "id": "n3-v-0681",
+   "expression": "完成",
+   "reading": "かんせい",
+   "romaji": "kansei",
+   "en": "complete, completion; perfection"
+  },
+  {
+   "id": "n3-v-0688",
+   "expression": "完了",
+   "reading": "かんりょう",
+   "romaji": "kanryou",
+   "en": "completion, conclusion"
+  },
+  {
+   "id": "n3-v-0698",
+   "expression": "企業",
+   "reading": "きぎょう",
+   "romaji": "kigyou",
+   "en": "industry, business, undertaking"
+  },
+  {
+   "id": "n3-v-0700",
+   "expression": "期限",
+   "reading": "きげん",
+   "romaji": "kigen",
+   "en": "deadline, term"
+  },
+  {
+   "id": "n3-v-0706",
+   "expression": "技師",
+   "reading": "ぎし",
+   "romaji": "gishi",
+   "en": "engineer, technician"
+  },
+  {
+   "id": "n3-v-0725",
+   "expression": "決まり",
+   "reading": "きまり",
+   "romaji": "kimari",
+   "en": "settlement, conclusion, rule"
+  },
+  {
+   "id": "n3-v-0758",
+   "expression": "局",
+   "reading": "きょく",
+   "romaji": "kyoku",
+   "en": "office, bureau, station(TV, radio)"
+  },
+  {
+   "id": "n3-v-0825",
+   "expression": "経営",
+   "reading": "けいえい",
+   "romaji": "keiei",
+   "en": "management, administration"
+  },
+  {
+   "id": "n3-v-0849",
+   "expression": "結論",
+   "reading": "けつろん",
+   "romaji": "ketsuron",
+   "en": "conclusion"
+  },
+  {
+   "id": "n3-v-0894",
+   "expression": "工場",
+   "reading": "こうば",
+   "romaji": "kouba",
+   "en": "factory, plant"
+  },
+  {
+   "id": "n3-v-0896",
+   "expression": "構成",
+   "reading": "こうせい",
+   "romaji": "kousei",
+   "en": "organization, composition"
+  },
+  {
+   "id": "n3-v-0900",
+   "expression": "後輩",
+   "reading": "こうはい",
+   "romaji": "kouhai",
+   "en": "junior members of a group"
+  },
+  {
+   "id": "n3-v-0974",
+   "expression": "作業",
+   "reading": "さぎょう",
+   "romaji": "sagyou",
+   "en": "work, operation, manufacturing"
+  },
+  {
+   "id": "n3-v-1047",
+   "expression": "命じる",
+   "reading": "めいじる",
+   "romaji": "meijiru",
+   "en": "to order, to command, to appoint"
+  },
+  {
+   "id": "n3-v-1049",
+   "expression": "命令",
+   "reading": "めいれい",
+   "romaji": "meirei",
+   "en": "order, command, decree"
+  },
+  {
+   "id": "n3-v-1054",
+   "expression": "メモ",
+   "reading": "メモ",
+   "romaji": "memo",
+   "en": "memorandum, note"
+  },
+  {
+   "id": "n3-v-1060",
+   "expression": "メンバー",
+   "reading": "メンバー",
+   "romaji": "menbaa",
+   "en": "member"
+  },
+  {
+   "id": "n3-v-1097",
+   "expression": "雇う",
+   "reading": "やとう",
+   "romaji": "yatou",
+   "en": "to employ, to hire"
+  },
+  {
+   "id": "n3-v-1184",
+   "expression": "労働",
+   "reading": "ろうどう",
+   "romaji": "roudou",
+   "en": "labor, work"
+  },
+  {
+   "id": "n3-v-1193",
+   "expression": "分かれる",
+   "reading": "わかれる",
+   "romaji": "wakareru",
+   "en": "to branch off, to diverge from"
+  },
+  {
+   "id": "n3-v-1263",
+   "expression": "協調",
+   "reading": "きょうちょう",
+   "romaji": "kyouchou",
+   "en": "co-operation, conciliation, harmony"
+  },
+  {
+   "id": "n3-v-1293",
+   "expression": "作",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "a work, a harvest"
+  },
+  {
+   "id": "n3-v-1295",
+   "expression": "設備",
+   "reading": "せつび",
+   "romaji": "setsubi",
+   "en": "equipment, device, facilities"
+  },
+  {
+   "id": "n3-v-1318",
+   "expression": "操作",
+   "reading": "そうさ",
+   "romaji": "sousa",
+   "en": "operation, management, processing"
+  },
+  {
+   "id": "n3-v-1321",
+   "expression": "装置",
+   "reading": "そうち",
+   "romaji": "souchi",
+   "en": "equipment, installation, apparatus"
+  },
+  {
+   "id": "n3-v-1326",
+   "expression": "組織",
+   "reading": "そしき",
+   "romaji": "soshiki",
+   "en": "organization; structure; tissue"
+  },
+  {
+   "id": "n3-v-1383",
+   "expression": "代理",
+   "reading": "だいり",
+   "romaji": "dairi",
+   "en": "representation, proxy, deputy"
+  },
+  {
+   "id": "n3-v-1447",
+   "expression": "団体",
+   "reading": "だんたい",
+   "romaji": "dantai",
+   "en": "organization, association"
+  },
+  {
+   "id": "n3-v-1448",
+   "expression": "担当",
+   "reading": "たんとう",
+   "romaji": "tantou",
+   "en": "(in) charge"
+  },
+  {
+   "id": "n3-v-1510",
+   "expression": "就く",
+   "reading": "つく",
+   "romaji": "tsuku",
+   "en": "to settle in (place), to take (seat position), to study (under teacher)"
+  },
+  {
+   "id": "n3-v-1512",
+   "expression": "次ぐ",
+   "reading": "つぐ",
+   "romaji": "tsugu",
+   "en": "to rank next to, to come after"
+  },
+  {
+   "id": "n3-v-1530",
+   "expression": "詰める",
+   "reading": "つめる",
+   "romaji": "tsumeru",
+   "en": "to pack, to shorten, to work out (details)"
+  },
+  {
+   "id": "n3-v-1560",
+   "expression": "徹底",
+   "reading": "てってい",
+   "romaji": "tettei",
+   "en": "thoroughness, completeness"
+  },
+  {
+   "id": "n3-v-1562",
+   "expression": "徹夜",
+   "reading": "てつや",
+   "romaji": "tetsuya",
+   "en": "staying up all night, sleepless night"
+  },
+  {
+   "id": "n3-v-1563",
+   "expression": "手間",
+   "reading": "てま",
+   "romaji": "tema",
+   "en": "time, labor"
+  },
+  {
+   "id": "n3-v-1588",
+   "expression": "同僚",
+   "reading": "どうりょう",
+   "romaji": "douryou",
+   "en": "colleague; co-worker"
+  },
+  {
+   "id": "n3-v-1772",
+   "expression": "働き",
+   "reading": "はたらき",
+   "romaji": "hataraki",
+   "en": "work, labor"
+  },
+  {
+   "id": "n3-v-1968",
+   "expression": "任せる",
+   "reading": "まかせる",
+   "romaji": "makaseru",
+   "en": "to entrust to another, to leave to"
+  },
+  {
+   "id": "n3-v-2022",
+   "expression": "上司",
+   "reading": "じょうし",
+   "romaji": "joushi",
+   "en": "one's superior"
+  },
+  {
+   "id": "n3-v-2036",
+   "expression": "正規",
+   "reading": "せいき",
+   "romaji": "seiki",
+   "en": "regular, legitimate"
+  }
+ ]
+}

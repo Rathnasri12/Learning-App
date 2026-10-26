@@ -93,10 +93,12 @@ type RawKanji = Omit<Kanji, "on" | "kun" | "examples" | "strokeCount" | "strokes
   kun: string[];
   examples: Omit<KanjiExample, "romaji">[];
 };
-type RawUnit = { unit: number; intro: Bi; kanji: RawKanji[]; test: LessonTest };
+type RawUnit = { unit: number; title?: Bi; intro: Bi; kanji: RawKanji[]; test: LessonTest };
 
 export function getKanjiUnits(level = "n5"): KanjiUnitMeta[] {
-  return readJson<{ units: KanjiUnitMeta[] }>(`kanji/${level}/units.json`)?.units ?? [];
+  const units = readJson<{ units: KanjiUnitMeta[] }>(`kanji/${level}/units.json`)?.units ?? [];
+  // N4/N3 unit titles are written by the content authors inside each unit file.
+  return units.map((u) => ({ ...u, title: readJson<RawUnit>(`kanji/${level}/unit-${pad(u.n)}.json`)?.title ?? u.title }));
 }
 
 export function getKanjiUnit(level: string, n: number): KanjiUnit | null {
@@ -107,7 +109,7 @@ export function getKanjiUnit(level: string, n: number): KanjiUnit | null {
   const reading = (r: string): KanjiReading => ({ kana: r, romaji: kanaToRomaji(r.replace(/[.\-]/g, "")) });
   return {
     unit: n,
-    title: meta.title,
+    title: raw.title ?? meta.title,
     intro: raw.intro,
     test: raw.test,
     kanji: raw.kanji.map((k) => ({
@@ -160,4 +162,13 @@ export function getKanaScript(script: KanaScriptName): KanaScript | null {
       }),
     })),
   };
+}
+
+// ---- Levels ----
+
+export const LEVELS = ["n5", "n4", "n3"] as const;
+
+/** Levels whose syllabus exists (a level appears in the app once its syllabus is written). */
+export function availableLevels(): string[] {
+  return LEVELS.filter((l) => fs.existsSync(path.join(CONTENT_ROOT, l, "syllabus.json")));
 }

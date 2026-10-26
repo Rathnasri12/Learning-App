@@ -1,0 +1,373 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 11,
+  "slug": "yaru-kara-ni-wa",
+  "title": {
+   "ja": "やるからには",
+   "ta": "செய்வதென்று முடிவெடுத்தால்",
+   "en": "If I'm going to do it"
+  },
+  "theme": {
+   "en": "Career choices and responsibility: decisions, reasons and resolve.",
+   "ta": "தொழில் தேர்வுகளும் பொறுப்பும்: முடிவுகள், காரணங்கள், உறுதி."
+  },
+  "grammar": [
+   {
+    "id": "g11-1",
+    "pattern": "〜からこそ",
+    "en": "Precisely because ~"
+   },
+   {
+    "id": "g11-2",
+    "pattern": "〜からには",
+    "en": "Now that ~ / since ~ (then must)"
+   },
+   {
+    "id": "g11-3",
+    "pattern": "〜以上(は)",
+    "en": "Since ~ / as long as ~ (then must)"
+   },
+   {
+    "id": "g11-4",
+    "pattern": "〜のだから / 〜んだから",
+    "en": "Since (obviously) ~"
+   },
+   {
+    "id": "g11-5",
+    "pattern": "〜からといって",
+    "en": "Just because ~ (doesn't mean)"
+   }
+  ],
+  "vocabHints": [
+   "career and jobs",
+   "decisions and resolve",
+   "duty and responsibility",
+   "goals and ambitions"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0051",
+   "expression": "失業",
+   "reading": "しつぎょう",
+   "romaji": "shitsugyou",
+   "en": "unemployment"
+  },
+  {
+   "id": "n3-v-0055",
+   "expression": "実行",
+   "reading": "じっこう",
+   "romaji": "jikkou",
+   "en": "practice, execution (e.g., program), realization"
+  },
+  {
+   "id": "n3-v-0095",
+   "expression": "就職",
+   "reading": "しゅうしょく",
+   "romaji": "shuushoku",
+   "en": "finding employment"
+  },
+  {
+   "id": "n3-v-0161",
+   "expression": "職",
+   "reading": "しょく",
+   "romaji": "shoku",
+   "en": "employment"
+  },
+  {
+   "id": "n3-v-0162",
+   "expression": "職業",
+   "reading": "しょくぎょう",
+   "romaji": "shokugyou",
+   "en": "occupation, business"
+  },
+  {
+   "id": "n3-v-0288",
+   "expression": "責任",
+   "reading": "せきにん",
+   "romaji": "sekinin",
+   "en": "duty, responsibility"
+  },
+  {
+   "id": "n3-v-0309",
+   "expression": "諦める",
+   "reading": "あきらめる",
+   "romaji": "akirameru",
+   "en": "to give up, to abandon"
+  },
+  {
+   "id": "n3-v-0331",
+   "expression": "当てる",
+   "reading": "あてる",
+   "romaji": "ateru",
+   "en": "to hit; to apply to"
+  },
+  {
+   "id": "n3-v-0372",
+   "expression": "意思",
+   "reading": "いし",
+   "romaji": "ishi",
+   "en": "intention, purpose"
+  },
+  {
+   "id": "n3-v-0373",
+   "expression": "意志",
+   "reading": "いし",
+   "romaji": "ishi",
+   "en": "will, volition"
+  },
+  {
+   "id": "n3-v-0432",
+   "expression": "引退",
+   "reading": "いんたい",
+   "romaji": "intai",
+   "en": "retirement"
+  },
+  {
+   "id": "n3-v-0585",
+   "expression": "覚悟",
+   "reading": "かくご",
+   "romaji": "kakugo",
+   "en": "resolution, resignation, readiness"
+  },
+  {
+   "id": "n3-v-0709",
+   "expression": "期待",
+   "reading": "きたい",
+   "romaji": "kitai",
+   "en": "expectation, anticipation, hope"
+  },
+  {
+   "id": "n3-v-0723",
+   "expression": "希望",
+   "reading": "きぼう",
+   "romaji": "kibou",
+   "en": "hope, wish, aspiration"
+  },
+  {
+   "id": "n3-v-0728",
+   "expression": "義務",
+   "reading": "ぎむ",
+   "romaji": "gimu",
+   "en": "duty, obligation, responsibility"
+  },
+  {
+   "id": "n3-v-0845",
+   "expression": "決心",
+   "reading": "けっしん",
+   "romaji": "kesshin",
+   "en": "determination, resolution"
+  },
+  {
+   "id": "n3-v-0847",
+   "expression": "決定",
+   "reading": "けってい",
+   "romaji": "kettei",
+   "en": "decision, determination"
+  },
+  {
+   "id": "n3-v-0903",
+   "expression": "候補",
+   "reading": "こうほ",
+   "romaji": "kouho",
+   "en": "candidacy"
+  },
+  {
+   "id": "n3-v-1058",
+   "expression": "面接",
+   "reading": "めんせつ",
+   "romaji": "mensetsu",
+   "en": "interview"
+  },
+  {
+   "id": "n3-v-1061",
+   "expression": "申し込む",
+   "reading": "もうしこむ",
+   "romaji": "moushikomu",
+   "en": "to apply for, to make an application"
+  },
+  {
+   "id": "n3-v-1065",
+   "expression": "目的",
+   "reading": "もくてき",
+   "romaji": "mokuteki",
+   "en": "purpose, goal, aim"
+  },
+  {
+   "id": "n3-v-1066",
+   "expression": "目標",
+   "reading": "もくひょう",
+   "romaji": "mokuhyou",
+   "en": "mark, objective, target"
+  },
+  {
+   "id": "n3-v-1101",
+   "expression": "辞める",
+   "reading": "やめる",
+   "romaji": "yameru",
+   "en": "to retire"
+  },
+  {
+   "id": "n3-v-1104",
+   "expression": "勇気",
+   "reading": "ゆうき",
+   "romaji": "yuuki",
+   "en": "courage, bravery, boldness"
+  },
+  {
+   "id": "n3-v-1118",
+   "expression": "豊か",
+   "reading": "ゆたか",
+   "romaji": "yutaka",
+   "en": "abundant, wealthy, plentiful, rich"
+  },
+  {
+   "id": "n3-v-1139",
+   "expression": "止す",
+   "reading": "よす",
+   "romaji": "yosu",
+   "en": "to cease, to give up"
+  },
+  {
+   "id": "n3-v-1165",
+   "expression": "理想",
+   "reading": "りそう",
+   "romaji": "risou",
+   "en": "ideal"
+  },
+  {
+   "id": "n3-v-1214",
+   "expression": "意",
+   "reading": "い",
+   "romaji": "i",
+   "en": "will"
+  },
+  {
+   "id": "n3-v-1239",
+   "expression": "学歴",
+   "reading": "がくれき",
+   "romaji": "gakureki",
+   "en": "academic background"
+  },
+  {
+   "id": "n3-v-1301",
+   "expression": "全",
+   "reading": "ぜん",
+   "romaji": "zen",
+   "en": "all, whole, entire"
+  },
+  {
+   "id": "n3-v-1313",
+   "expression": "選択",
+   "reading": "せんたく",
+   "romaji": "sentaku",
+   "en": "selection, choice"
+  },
+  {
+   "id": "n3-v-1367",
+   "expression": "対象",
+   "reading": "たいしょう",
+   "romaji": "taishou",
+   "en": "target; object (of worship, study, etc.); subject (i.e., of taxation)"
+  },
+  {
+   "id": "n3-v-1520",
+   "expression": "勤め",
+   "reading": "つとめ",
+   "romaji": "tsutome",
+   "en": "work, employment"
+  },
+  {
+   "id": "n3-v-1521",
+   "expression": "務め",
+   "reading": "つとめ",
+   "romaji": "tsutome",
+   "en": "duty"
+  },
+  {
+   "id": "n3-v-1698",
+   "expression": "願い",
+   "reading": "ねがい",
+   "romaji": "negai",
+   "en": "desire, wish, request"
+  },
+  {
+   "id": "n3-v-1699",
+   "expression": "願う",
+   "reading": "ねがう",
+   "romaji": "negau",
+   "en": "to desire, to wish, to request"
+  },
+  {
+   "id": "n3-v-1722",
+   "expression": "望み",
+   "reading": "のぞみ",
+   "romaji": "nozomi",
+   "en": "wish, desire, (a) hope"
+  },
+  {
+   "id": "n3-v-1723",
+   "expression": "望む",
+   "reading": "のぞむ",
+   "romaji": "nozomu",
+   "en": "to desire, to wish for; to view"
+  },
+  {
+   "id": "n3-v-1806",
+   "expression": "判断",
+   "reading": "はんだん",
+   "romaji": "handan",
+   "en": "judgment, decision"
+  },
+  {
+   "id": "n3-v-1926",
+   "expression": "方",
+   "reading": "ほう",
+   "romaji": "hou",
+   "en": "side"
+  },
+  {
+   "id": "n3-v-1929",
+   "expression": "冒険",
+   "reading": "ぼうけん",
+   "romaji": "bouken",
+   "en": "risk, venture, adventure"
+  },
+  {
+   "id": "n3-v-2004",
+   "expression": "資格",
+   "reading": "しかく",
+   "romaji": "shikaku",
+   "en": "qualifications, requirements, capabilities"
+  },
+  {
+   "id": "n3-v-2014",
+   "expression": "志望",
+   "reading": "しぼう",
+   "romaji": "shibou",
+   "en": "wish, desire, ambition"
+  },
+  {
+   "id": "n3-v-2048",
+   "expression": "選考",
+   "reading": "せんこう",
+   "romaji": "senkou",
+   "en": "selection, screening"
+  },
+  {
+   "id": "n3-v-2066",
+   "expression": "挑戦",
+   "reading": "ちょうせん",
+   "romaji": "chousen",
+   "en": "challenge, defiance"
+  },
+  {
+   "id": "n3-v-2094",
+   "expression": "難",
+   "reading": "なん",
+   "romaji": "nan",
+   "en": "difficulty, hardships, defect"
+  }
+ ]
+}

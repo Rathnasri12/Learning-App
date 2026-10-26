@@ -1,0 +1,219 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 13,
+  "slug": "no-koto",
+  "title": {
+   "ja": "子どものころ、遊ぶのが好きでした",
+   "ta": "சிறுவயதில் விளையாடுவது பிடிக்கும்",
+   "en": "As a child I loved playing"
+  },
+  "theme": {
+   "en": "Memories and family: childhood, grandparents, old days, diaries.",
+   "ta": "நினைவுகளும் குடும்பமும்: குழந்தைப் பருவம், தாத்தா பாட்டி, பழைய காலம், நாட்குறிப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g13-1",
+    "pattern": "V-plain の は adj です",
+    "en": "Doing … is (fun / hard …): 子どもと遊ぶのは楽しいです"
+   },
+   {
+    "id": "g13-2",
+    "pattern": "V-plain の を 忘れました",
+    "en": "Forgot to …"
+   },
+   {
+    "id": "g13-3",
+    "pattern": "plain form の を 知っていますか",
+    "en": "Do you know that …?"
+   },
+   {
+    "id": "g13-4",
+    "pattern": "plain form の は N です",
+    "en": "Focusing on one part: 生まれたのは大阪です"
+   },
+   {
+    "id": "g13-5",
+    "pattern": "adj-stem + さ",
+    "en": "Turning an adjective into a noun: 高さ, 大きさ, 便利さ"
+   }
+  ],
+  "vocabHints": [
+   "family: husband, wife, son, daughter, grandparents, baby",
+   "the past: old days, era, the other day",
+   "toys, dolls, play",
+   "remembering, diary, life and death"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-010",
+   "expression": "生きる",
+   "reading": "いきる",
+   "romaji": "ikiru",
+   "en": "to live"
+  },
+  {
+   "id": "n4-v-109",
+   "expression": "赤ちゃん",
+   "reading": "あかちゃん",
+   "romaji": "akachan",
+   "en": "baby, infant"
+  },
+  {
+   "id": "n4-v-118",
+   "expression": "時代",
+   "reading": "じだい",
+   "romaji": "jidai",
+   "en": "age, period, epoch, era"
+  },
+  {
+   "id": "n4-v-147",
+   "expression": "人形",
+   "reading": "にんぎょう",
+   "romaji": "ningyou",
+   "en": "doll, figure"
+  },
+  {
+   "id": "n4-v-183",
+   "expression": "パパ",
+   "reading": "パパ",
+   "romaji": "papa",
+   "en": "papa, daddy"
+  },
+  {
+   "id": "n4-v-185",
+   "expression": "夫",
+   "reading": "おっと",
+   "romaji": "otto",
+   "en": "husband"
+  },
+  {
+   "id": "n4-v-196",
+   "expression": "昔",
+   "reading": "むかし",
+   "romaji": "mukashi",
+   "en": "old days; past"
+  },
+  {
+   "id": "n4-v-200",
+   "expression": "事",
+   "reading": "こと",
+   "romaji": "koto",
+   "en": "thing(s), matter(s), fact"
+  },
+  {
+   "id": "n4-v-224",
+   "expression": "赤ん坊",
+   "reading": "あかんぼう",
+   "romaji": "akanbou",
+   "en": "baby"
+  },
+  {
+   "id": "n4-v-236",
+   "expression": "祖母",
+   "reading": "そぼ",
+   "romaji": "sobo",
+   "en": "grandmother"
+  },
+  {
+   "id": "n4-v-265",
+   "expression": "思い出す",
+   "reading": "おもいだす",
+   "romaji": "omoidasu",
+   "en": "to recall, to remember"
+  },
+  {
+   "id": "n4-v-294",
+   "expression": "小鳥",
+   "reading": "ことり",
+   "romaji": "kotori",
+   "en": "small bird"
+  },
+  {
+   "id": "n4-v-334",
+   "expression": "亡くなる",
+   "reading": "なくなる",
+   "romaji": "nakunaru",
+   "en": "to pass away"
+  },
+  {
+   "id": "n4-v-339",
+   "expression": "祖父",
+   "reading": "そふ",
+   "romaji": "sofu",
+   "en": "grandfather"
+  },
+  {
+   "id": "n4-v-358",
+   "expression": "おもちゃ",
+   "reading": "おもちゃ",
+   "romaji": "omocha",
+   "en": "a toy"
+  },
+  {
+   "id": "n4-v-417",
+   "expression": "遊び",
+   "reading": "あそび",
+   "romaji": "asobi",
+   "en": "play"
+  },
+  {
+   "id": "n4-v-445",
+   "expression": "妻",
+   "reading": "つま",
+   "romaji": "tsuma",
+   "en": "wife (humble)"
+  },
+  {
+   "id": "n4-v-482",
+   "expression": "日記",
+   "reading": "にっき",
+   "romaji": "nikki",
+   "en": "diary, journal"
+  },
+  {
+   "id": "n4-v-495",
+   "expression": "息子",
+   "reading": "むすこ",
+   "romaji": "musuko",
+   "en": "(humble) son"
+  },
+  {
+   "id": "n4-v-514",
+   "expression": "～代",
+   "reading": "～だい",
+   "romaji": "～dai",
+   "en": "~ age; period"
+  },
+  {
+   "id": "n4-v-521",
+   "expression": "汽車",
+   "reading": "きしゃ",
+   "romaji": "kisha",
+   "en": "train (steam)"
+  },
+  {
+   "id": "n4-v-550",
+   "expression": "この間",
+   "reading": "このあいだ",
+   "romaji": "konoaida",
+   "en": "the other day, recently"
+  },
+  {
+   "id": "n4-v-637",
+   "expression": "娘",
+   "reading": "むすめ",
+   "romaji": "musume",
+   "en": "daughter (humble)"
+  },
+  {
+   "id": "n4-v-664",
+   "expression": "家内",
+   "reading": "かない",
+   "romaji": "kanai",
+   "en": "(one's own) wife"
+  }
+ ]
+}

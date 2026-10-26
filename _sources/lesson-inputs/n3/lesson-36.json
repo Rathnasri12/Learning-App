@@ -1,0 +1,436 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 36,
+  "slug": "oshiete-itadakenai-deshou-ka",
+  "title": {
+   "ja": "教えていただけないでしょうか",
+   "ta": "தயவுசெய்து எனக்குச் சொல்ல முடியுமா?",
+   "en": "Could you kindly tell me?"
+  },
+  "theme": {
+   "en": "Business requests and emails: very polite requests, wishes and conditions.",
+   "ta": "வணிகக் கோரிக்கைகளும் மின்னஞ்சல்களும்: மிகப் பணிவான வேண்டுகோள்கள், விருப்பங்கள், நிபந்தனைகள்."
+  },
+  "grammar": [
+   {
+    "id": "g36-1",
+    "pattern": "V-て いただけないでしょうか / V-て もらえないでしょうか",
+    "en": "Would you be so kind as to ~?"
+   },
+   {
+    "id": "g36-2",
+    "pattern": "V-て いただきたい / V-て もらいたい",
+    "en": "I would like you to ~"
+   },
+   {
+    "id": "g36-3",
+    "pattern": "お V-ます 願う / ご N 願う",
+    "en": "We ask you to ~ (formal notices: お待ち願います)"
+   },
+   {
+    "id": "g36-4",
+    "pattern": "N に 応じて / N に 応じた N",
+    "en": "According to / in response to N"
+   },
+   {
+    "id": "g36-5",
+    "pattern": "V-ます 次第 / N 次第",
+    "en": "As soon as ~ / depending on N"
+   }
+  ],
+  "vocabHints": [
+   "business and companies",
+   "documents, contracts, signatures",
+   "requests and proposals",
+   "appointments and meetings"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0014",
+   "expression": "参考",
+   "reading": "さんこう",
+   "romaji": "sankou",
+   "en": "reference, consultation"
+  },
+  {
+   "id": "n3-v-0024",
+   "expression": "直に",
+   "reading": "じかに",
+   "romaji": "jikani",
+   "en": "immediately, readily, directly"
+  },
+  {
+   "id": "n3-v-0027",
+   "expression": "直",
+   "reading": "じき",
+   "romaji": "jiki",
+   "en": "immediately, soon, shortly"
+  },
+  {
+   "id": "n3-v-0030",
+   "expression": "至急",
+   "reading": "しきゅう",
+   "romaji": "shikyuu",
+   "en": "urgent, pressing"
+  },
+  {
+   "id": "n3-v-0046",
+   "expression": "次第",
+   "reading": "しだい",
+   "romaji": "shidai",
+   "en": "order; circumstances; immediate(ly)"
+  },
+  {
+   "id": "n3-v-0082",
+   "expression": "占める",
+   "reading": "しめる",
+   "romaji": "shimeru",
+   "en": "to take up; to account for"
+  },
+  {
+   "id": "n3-v-0112",
+   "expression": "手段",
+   "reading": "しゅだん",
+   "romaji": "shudan",
+   "en": "means, way, measure"
+  },
+  {
+   "id": "n3-v-0120",
+   "expression": "需要",
+   "reading": "じゅよう",
+   "romaji": "juyou",
+   "en": "demand"
+  },
+  {
+   "id": "n3-v-0136",
+   "expression": "条件",
+   "reading": "じょうけん",
+   "romaji": "jouken",
+   "en": "conditions, terms"
+  },
+  {
+   "id": "n3-v-0141",
+   "expression": "少々",
+   "reading": "しょうしょう",
+   "romaji": "shoushou",
+   "en": "a little; short (time) (formal for 少し (すこし))"
+  },
+  {
+   "id": "n3-v-0144",
+   "expression": "状態",
+   "reading": "じょうたい",
+   "romaji": "joutai",
+   "en": "condition, situation"
+  },
+  {
+   "id": "n3-v-0150",
+   "expression": "承認",
+   "reading": "しょうにん",
+   "romaji": "shounin",
+   "en": "recognition, approval"
+  },
+  {
+   "id": "n3-v-0152",
+   "expression": "商売",
+   "reading": "しょうばい",
+   "romaji": "shoubai",
+   "en": "trade, business, commerce"
+  },
+  {
+   "id": "n3-v-0174",
+   "expression": "署名",
+   "reading": "しょめい",
+   "romaji": "shomei",
+   "en": "signature"
+  },
+  {
+   "id": "n3-v-0213",
+   "expression": "推薦",
+   "reading": "すいせん",
+   "romaji": "suisen",
+   "en": "recommendation"
+  },
+  {
+   "id": "n3-v-0263",
+   "expression": "請求",
+   "reading": "せいきゅう",
+   "romaji": "seikyuu",
+   "en": "claim, demand, request"
+  },
+  {
+   "id": "n3-v-0268",
+   "expression": "正式",
+   "reading": "せいしき",
+   "romaji": "seishiki",
+   "en": "official, formal"
+  },
+  {
+   "id": "n3-v-0293",
+   "expression": "設計",
+   "reading": "せっけい",
+   "romaji": "sekkei",
+   "en": "plan, design"
+  },
+  {
+   "id": "n3-v-0307",
+   "expression": "空き",
+   "reading": "あき",
+   "romaji": "aki",
+   "en": "vacancy, opening, space"
+  },
+  {
+   "id": "n3-v-0356",
+   "expression": "案",
+   "reading": "あん",
+   "romaji": "an",
+   "en": "plan, scheme, proposal"
+  },
+  {
+   "id": "n3-v-0391",
+   "expression": "一度に",
+   "reading": "いちどに",
+   "romaji": "ichidoni",
+   "en": "all at once"
+  },
+  {
+   "id": "n3-v-0420",
+   "expression": "依頼",
+   "reading": "いらい",
+   "romaji": "irai",
+   "en": "request; dependence"
+  },
+  {
+   "id": "n3-v-0470",
+   "expression": "営業",
+   "reading": "えいぎょう",
+   "romaji": "eigyou",
+   "en": "business, trade, management"
+  },
+  {
+   "id": "n3-v-0480",
+   "expression": "延期",
+   "reading": "えんき",
+   "romaji": "enki",
+   "en": "postponement, adjournment"
+  },
+  {
+   "id": "n3-v-0493",
+   "expression": "応じる",
+   "reading": "おうじる",
+   "romaji": "oujiru",
+   "en": "to adapt, to respond, to comply with"
+  },
+  {
+   "id": "n3-v-0529",
+   "expression": "お目に掛かる",
+   "reading": "おめにかかる",
+   "romaji": "omenikakaru",
+   "en": "meet ~, see ~"
+  },
+  {
+   "id": "n3-v-0539",
+   "expression": "卸す",
+   "reading": "おろす",
+   "romaji": "orosu",
+   "en": "to sell wholesale, grated (vegetables)"
+  },
+  {
+   "id": "n3-v-0554",
+   "expression": "会計",
+   "reading": "かいけい",
+   "romaji": "kaikei",
+   "en": "account, finance"
+  },
+  {
+   "id": "n3-v-0749",
+   "expression": "供給",
+   "reading": "きょうきゅう",
+   "romaji": "kyoukyuu",
+   "en": "supply, provision"
+  },
+  {
+   "id": "n3-v-0815",
+   "expression": "詳しい",
+   "reading": "くわしい",
+   "romaji": "kuwashii",
+   "en": "detailed; full; accurate"
+  },
+  {
+   "id": "n3-v-0823",
+   "expression": "計",
+   "reading": "けい",
+   "romaji": "kei",
+   "en": "plan; sum, total"
+  },
+  {
+   "id": "n3-v-0833",
+   "expression": "契約",
+   "reading": "けいやく",
+   "romaji": "keiyaku",
+   "en": "contract, compact, agreement"
+  },
+  {
+   "id": "n3-v-0867",
+   "expression": "見当",
+   "reading": "けんとう",
+   "romaji": "kentou",
+   "en": "estimate, guess"
+  },
+  {
+   "id": "n3-v-0868",
+   "expression": "検討",
+   "reading": "けんとう",
+   "romaji": "kentou",
+   "en": "consideration, examination, investigation"
+  },
+  {
+   "id": "n3-v-0904",
+   "expression": "考慮",
+   "reading": "こうりょ",
+   "romaji": "kouryo",
+   "en": "consideration, taking into account"
+  },
+  {
+   "id": "n3-v-0936",
+   "expression": "断る",
+   "reading": "ことわる",
+   "romaji": "kotowaru",
+   "en": "to refuse, to decline, to dismiss"
+  },
+  {
+   "id": "n3-v-0997",
+   "expression": "さて",
+   "reading": "さて",
+   "romaji": "sate",
+   "en": "well; now (typically used when switching to a new, usually more important topic)"
+  },
+  {
+   "id": "n3-v-1045",
+   "expression": "名刺",
+   "reading": "めいし",
+   "romaji": "meishi",
+   "en": "(name) card; business card"
+  },
+  {
+   "id": "n3-v-1080",
+   "expression": "求める",
+   "reading": "もとめる",
+   "romaji": "motomeru",
+   "en": "to request, to ask for; to seek, to search for"
+  },
+  {
+   "id": "n3-v-1127",
+   "expression": "要求",
+   "reading": "ようきゅう",
+   "romaji": "youkyuu",
+   "en": "request, demand"
+  },
+  {
+   "id": "n3-v-1138",
+   "expression": "予算",
+   "reading": "よさん",
+   "romaji": "yosan",
+   "en": "estimate, budget"
+  },
+  {
+   "id": "n3-v-1277",
+   "expression": "件",
+   "reading": "けん",
+   "romaji": "ken",
+   "en": "matter, case, item"
+  },
+  {
+   "id": "n3-v-1294",
+   "expression": "策",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "plan, policy"
+  },
+  {
+   "id": "n3-v-1407",
+   "expression": "直ちに",
+   "reading": "ただちに",
+   "romaji": "tadachini",
+   "en": "at once, immediately"
+  },
+  {
+   "id": "n3-v-1486",
+   "expression": "調子",
+   "reading": "ちょうし",
+   "romaji": "choushi",
+   "en": "condition, state, tune, tone"
+  },
+  {
+   "id": "n3-v-1490",
+   "expression": "直接",
+   "reading": "ちょくせつ",
+   "romaji": "chokusetsu",
+   "en": "direct, immediate, firsthand"
+  },
+  {
+   "id": "n3-v-1540",
+   "expression": "提案",
+   "reading": "ていあん",
+   "romaji": "teian",
+   "en": "proposal, proposition, suggestion"
+  },
+  {
+   "id": "n3-v-1901",
+   "expression": "プラン",
+   "reading": "プラン",
+   "romaji": "puran",
+   "en": "plan"
+  },
+  {
+   "id": "n3-v-1923",
+   "expression": "変更",
+   "reading": "へんこう",
+   "romaji": "henkou",
+   "en": "change, modification, alteration"
+  },
+  {
+   "id": "n3-v-1935",
+   "expression": "方法",
+   "reading": "ほうほう",
+   "romaji": "houhou",
+   "en": "method, means, technique"
+  },
+  {
+   "id": "n3-v-2011",
+   "expression": "辞退",
+   "reading": "じたい",
+   "romaji": "jitai",
+   "en": "refusal"
+  },
+  {
+   "id": "n3-v-2070",
+   "expression": "継ぐ",
+   "reading": "つぐ",
+   "romaji": "tsugu",
+   "en": "to succeed (someone in a business or inheritance"
+  },
+  {
+   "id": "n3-v-2089",
+   "expression": "綴じる",
+   "reading": "とじる",
+   "romaji": "tojiru",
+   "en": "to bind, to file"
+  },
+  {
+   "id": "n3-v-2103",
+   "expression": "図る",
+   "reading": "はかる",
+   "romaji": "hakaru",
+   "en": "to plot, to attempt, to devise, to design, to refer A to B"
+  },
+  {
+   "id": "n3-v-2120",
+   "expression": "前もって",
+   "reading": "まえもって",
+   "romaji": "maemotte",
+   "en": "in advance, beforehand, previously"
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 25,
+  "slug": "kyouto-wa-mochiron",
+  "title": {
+   "ja": "京都はもちろん",
+   "ta": "கியோட்டோ, நிச்சயமாக",
+   "en": "Kyoto, of course"
+  },
+  "theme": {
+   "en": "Travel and sightseeing: recommending places and adding information.",
+   "ta": "பயணமும் சுற்றுலாவும்: இடங்களைப் பரிந்துரைப்பது, கூடுதல் தகவல் சேர்ப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g25-1",
+    "pattern": "〜だけでなく 〜も",
+    "en": "Not only ~ but also ~"
+   },
+   {
+    "id": "g25-2",
+    "pattern": "〜ばかりか / 〜ばかりでなく",
+    "en": "Not only ~ but even ~"
+   },
+   {
+    "id": "g25-3",
+    "pattern": "N は もちろん",
+    "en": "N, of course, (and also)"
+   },
+   {
+    "id": "g25-4",
+    "pattern": "〜上(に)",
+    "en": "On top of ~ / besides ~"
+   },
+   {
+    "id": "g25-5",
+    "pattern": "N に 加えて",
+    "en": "In addition to N"
+   }
+  ],
+  "vocabHints": [
+   "travel and sightseeing",
+   "hotels and inns",
+   "scenery and famous places",
+   "abroad and overseas"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0109",
+   "expression": "宿泊",
+   "reading": "しゅくはく",
+   "romaji": "shukuhaku",
+   "en": "lodging"
+  },
+  {
+   "id": "n3-v-0183",
+   "expression": "城",
+   "reading": "しろ",
+   "romaji": "shiro",
+   "en": "castle"
+  },
+  {
+   "id": "n3-v-0378",
+   "expression": "泉",
+   "reading": "いずみ",
+   "romaji": "izumi",
+   "en": "spring, fountain"
+  },
+  {
+   "id": "n3-v-0424",
+   "expression": "岩",
+   "reading": "いわ",
+   "romaji": "iwa",
+   "en": "rock"
+  },
+  {
+   "id": "n3-v-0449",
+   "expression": "映す",
+   "reading": "うつす",
+   "romaji": "utsusu",
+   "en": "to project, to reflect, to cast (shadow)"
+  },
+  {
+   "id": "n3-v-0451",
+   "expression": "写る",
+   "reading": "うつる",
+   "romaji": "utsuru",
+   "en": "to be photographed, to be projected"
+  },
+  {
+   "id": "n3-v-0499",
+   "expression": "丘",
+   "reading": "おか",
+   "romaji": "oka",
+   "en": "hill, height"
+  },
+  {
+   "id": "n3-v-0500",
+   "expression": "沖",
+   "reading": "おき",
+   "romaji": "oki",
+   "en": "open sea"
+  },
+  {
+   "id": "n3-v-0553",
+   "expression": "海外",
+   "reading": "かいがい",
+   "romaji": "kaigai",
+   "en": "foreign, abroad, overseas"
+  },
+  {
+   "id": "n3-v-0654",
+   "expression": "河",
+   "reading": "かわ",
+   "romaji": "kawa",
+   "en": "river, stream"
+  },
+  {
+   "id": "n3-v-0670",
+   "expression": "観光",
+   "reading": "かんこう",
+   "romaji": "kankou",
+   "en": "sightseeing"
+  },
+  {
+   "id": "n3-v-0703",
+   "expression": "岸",
+   "reading": "きし",
+   "romaji": "kishi",
+   "en": "bank, coast, shore"
+  },
+  {
+   "id": "n3-v-0736",
+   "expression": "休暇",
+   "reading": "きゅうか",
+   "romaji": "kyuuka",
+   "en": "vacation, holiday, day off"
+  },
+  {
+   "id": "n3-v-0886",
+   "expression": "光景",
+   "reading": "こうけい",
+   "romaji": "koukei",
+   "en": "scene, spectacle"
+  },
+  {
+   "id": "n3-v-0998",
+   "expression": "砂漠",
+   "reading": "さばく",
+   "romaji": "sabaku",
+   "en": "desert"
+  },
+  {
+   "id": "n3-v-1003",
+   "expression": "迷う",
+   "reading": "まよう",
+   "romaji": "mayou",
+   "en": "to be puzzled, to be perplexed, to lose one's way"
+  },
+  {
+   "id": "n3-v-1011",
+   "expression": "見送り",
+   "reading": "みおくり",
+   "romaji": "miokuri",
+   "en": "seeing one off"
+  },
+  {
+   "id": "n3-v-1019",
+   "expression": "土産",
+   "reading": "みやげ",
+   "romaji": "miyage",
+   "en": "souvenir"
+  },
+  {
+   "id": "n3-v-1029",
+   "expression": "迎え",
+   "reading": "むかえ",
+   "romaji": "mukae",
+   "en": "meeting, person sent to pick up an arrival"
+  },
+  {
+   "id": "n3-v-1096",
+   "expression": "宿",
+   "reading": "やど",
+   "romaji": "yado",
+   "en": "inn, lodging"
+  },
+  {
+   "id": "n3-v-1134",
+   "expression": "ヨーロッパ",
+   "reading": "ヨーロッパ",
+   "romaji": "yooroppa",
+   "en": "Europe"
+  },
+  {
+   "id": "n3-v-1162",
+   "expression": "陸",
+   "reading": "りく",
+   "romaji": "riku",
+   "en": "land, shore"
+  },
+  {
+   "id": "n3-v-1205",
+   "expression": "湾",
+   "reading": "わん",
+   "romaji": "wan",
+   "en": "bay, gulf, inlet"
+  },
+  {
+   "id": "n3-v-1248",
+   "expression": "～観",
+   "reading": "かん",
+   "romaji": "kan",
+   "en": "feeling, view"
+  },
+  {
+   "id": "n3-v-1260",
+   "expression": "丘陵",
+   "reading": "きゅうりょう",
+   "romaji": "kyuuryou",
+   "en": "hill"
+  },
+  {
+   "id": "n3-v-1281",
+   "expression": "航海",
+   "reading": "こうかい",
+   "romaji": "koukai",
+   "en": "sail, voyage"
+  },
+  {
+   "id": "n3-v-1363",
+   "expression": "滞在",
+   "reading": "たいざい",
+   "romaji": "taizai",
+   "en": "stay, sojourn"
+  },
+  {
+   "id": "n3-v-1384",
+   "expression": "大陸",
+   "reading": "たいりく",
+   "romaji": "tairiku",
+   "en": "continent"
+  },
+  {
+   "id": "n3-v-1418",
+   "expression": "谷",
+   "reading": "たに",
+   "romaji": "tani",
+   "en": "valley"
+  },
+  {
+   "id": "n3-v-1424",
+   "expression": "旅",
+   "reading": "たび",
+   "romaji": "tabi",
+   "en": "travel, trip, journey"
+  },
+  {
+   "id": "n3-v-1526",
+   "expression": "翼",
+   "reading": "つばさ",
+   "romaji": "tsubasa",
+   "en": "wings"
+  },
+  {
+   "id": "n3-v-1573",
+   "expression": "塔",
+   "reading": "とう",
+   "romaji": "tou",
+   "en": "tower, pagoda"
+  },
+  {
+   "id": "n3-v-1598",
+   "expression": "読書",
+   "reading": "どくしょ",
+   "romaji": "dokusho",
+   "en": "reading"
+  },
+  {
+   "id": "n3-v-1609",
+   "expression": "登山",
+   "reading": "とざん",
+   "romaji": "tozan",
+   "en": "mountain-climbing"
+  },
+  {
+   "id": "n3-v-1624",
+   "expression": "泊める",
+   "reading": "とめる",
+   "romaji": "tomeru",
+   "en": "to have someone stay (over night) (v.t.)"
+  },
+  {
+   "id": "n3-v-1651",
+   "expression": "眺め",
+   "reading": "ながめ",
+   "romaji": "nagame",
+   "en": "scene; view; prospect; outlook"
+  },
+  {
+   "id": "n3-v-1652",
+   "expression": "眺める",
+   "reading": "ながめる",
+   "romaji": "nagameru",
+   "en": "to view, to gaze at"
+  },
+  {
+   "id": "n3-v-1653",
+   "expression": "流れ",
+   "reading": "ながれ",
+   "romaji": "nagare",
+   "en": "stream, current"
+  },
+  {
+   "id": "n3-v-1666",
+   "expression": "波",
+   "reading": "なみ",
+   "romaji": "nami",
+   "en": "wave"
+  },
+  {
+   "id": "n3-v-1758",
+   "expression": "博物館",
+   "reading": "はくぶつかん",
+   "romaji": "hakubutsukan",
+   "en": "museum"
+  },
+  {
+   "id": "n3-v-1766",
+   "expression": "パスポート",
+   "reading": "パスポート",
+   "romaji": "pasupooto",
+   "en": "passport"
+  },
+  {
+   "id": "n3-v-1857",
+   "expression": "分",
+   "reading": "ぶ",
+   "romaji": "bu",
+   "en": "dividing, part"
+  },
+  {
+   "id": "n3-v-1859",
+   "expression": "風景",
+   "reading": "ふうけい",
+   "romaji": "fuukei",
+   "en": "scenery"
+  },
+  {
+   "id": "n3-v-1882",
+   "expression": "再び",
+   "reading": "ふたたび",
+   "romaji": "futatabi",
+   "en": "again, once more, a second time"
+  },
+  {
+   "id": "n3-v-1889",
+   "expression": "ぶつける",
+   "reading": "ぶつける",
+   "romaji": "butsukeru",
+   "en": "to knock, to strike hard, to hit and attack"
+  },
+  {
+   "id": "n3-v-2132",
+   "expression": "世",
+   "reading": "よ",
+   "romaji": "yo",
+   "en": "world, society, generation"
+  }
+ ]
+}

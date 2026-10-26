@@ -1,0 +1,235 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 5,
+  "slug": "te-aru-te-oku",
+  "title": {
+   "ja": "準備しておきます",
+   "ta": "முன்கூட்டியே தயார் செய்கிறேன்",
+   "en": "I'll get it ready in advance"
+  },
+  "theme": {
+   "en": "Preparing for a trip or party: bookings, packing, decorating, meeting people at the airport.",
+   "ta": "பயணம் அல்லது விருந்துக்குத் தயாராவது: முன்பதிவு, பொருட்களை அடுக்குவது, அலங்காரம், விமான நிலையத்தில் வரவேற்பது."
+  },
+  "grammar": [
+   {
+    "id": "g05-1",
+    "pattern": "N が Vt-てあります",
+    "en": "Something has been done (on purpose) and stays that way"
+   },
+   {
+    "id": "g05-2",
+    "pattern": "V-ておきます (preparation)",
+    "en": "Do something in advance, as preparation"
+   },
+   {
+    "id": "g05-3",
+    "pattern": "V-ておきます (leave as it is)",
+    "en": "Leave something in a state: そのままにしておいてください"
+   },
+   {
+    "id": "g05-4",
+    "pattern": "まだ V-ています",
+    "en": "Still doing / still in that state"
+   }
+  ],
+  "vocabHints": [
+   "travel: airport, express train, inn, suitcase",
+   "reservation, preparation, check",
+   "decorating and setting up a venue",
+   "souvenirs"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-021",
+   "expression": "～会",
+   "reading": "～かい",
+   "romaji": "～kai",
+   "en": "~ meeting"
+  },
+  {
+   "id": "n4-v-062",
+   "expression": "今度",
+   "reading": "こんど",
+   "romaji": "kondo",
+   "en": "now, this time, near future, one of these days, next time"
+  },
+  {
+   "id": "n4-v-106",
+   "expression": "起こす",
+   "reading": "おこす",
+   "romaji": "okosu",
+   "en": "to wake (someone) up"
+  },
+  {
+   "id": "n4-v-123",
+   "expression": "迎える",
+   "reading": "むかえる",
+   "romaji": "mukaeru",
+   "en": "to welcome; to meet; to greet"
+  },
+  {
+   "id": "n4-v-130",
+   "expression": "寄る",
+   "reading": "よる",
+   "romaji": "yoru",
+   "en": "to stop by"
+  },
+  {
+   "id": "n4-v-149",
+   "expression": "飾る",
+   "reading": "かざる",
+   "romaji": "kazaru",
+   "en": "to decorate, to adorn"
+  },
+  {
+   "id": "n4-v-171",
+   "expression": "準備",
+   "reading": "じゅんびする",
+   "romaji": "junbisuru",
+   "en": "prepare"
+  },
+  {
+   "id": "n4-v-189",
+   "expression": "飛行場",
+   "reading": "ひこうじょう",
+   "romaji": "hikoujou",
+   "en": "airport"
+  },
+  {
+   "id": "n4-v-230",
+   "expression": "立てる",
+   "reading": "たてる",
+   "romaji": "tateru",
+   "en": "to stand (something) up, to erect (something)"
+  },
+  {
+   "id": "n4-v-274",
+   "expression": "用意",
+   "reading": "ようい",
+   "romaji": "youi",
+   "en": "preparation"
+  },
+  {
+   "id": "n4-v-280",
+   "expression": "お土産",
+   "reading": "おみやげ",
+   "romaji": "omiyage",
+   "en": "souvenir"
+  },
+  {
+   "id": "n4-v-282",
+   "expression": "旅館",
+   "reading": "りょかん",
+   "romaji": "ryokan",
+   "en": "a Japanese inn"
+  },
+  {
+   "id": "n4-v-311",
+   "expression": "泊まる",
+   "reading": "とまる",
+   "romaji": "tomaru",
+   "en": "to stay (over night) (v.i.)"
+  },
+  {
+   "id": "n4-v-315",
+   "expression": "チェックする",
+   "reading": "チェックする",
+   "romaji": "chekkusuru",
+   "en": "check"
+  },
+  {
+   "id": "n4-v-321",
+   "expression": "急行",
+   "reading": "きゅうこう",
+   "romaji": "kyuukou",
+   "en": "express train or bus"
+  },
+  {
+   "id": "n4-v-324",
+   "expression": "空港",
+   "reading": "くうこう",
+   "romaji": "kuukou",
+   "en": "airport"
+  },
+  {
+   "id": "n4-v-341",
+   "expression": "予約",
+   "reading": "よやく",
+   "romaji": "yoyaku",
+   "en": "reservation"
+  },
+  {
+   "id": "n4-v-345",
+   "expression": "写す",
+   "reading": "うつす",
+   "romaji": "utsusu",
+   "en": "to copy (v.t.); to photograph"
+  },
+  {
+   "id": "n4-v-418",
+   "expression": "支度",
+   "reading": "したくする",
+   "romaji": "shitakusuru",
+   "en": "preparation"
+  },
+  {
+   "id": "n4-v-442",
+   "expression": "特急",
+   "reading": "とっきゅう",
+   "romaji": "tokkyuu",
+   "en": "limited express (train faster than an express)"
+  },
+  {
+   "id": "n4-v-492",
+   "expression": "手伝う",
+   "reading": "てつだう",
+   "romaji": "tetsudau",
+   "en": "to help"
+  },
+  {
+   "id": "n4-v-497",
+   "expression": "会場",
+   "reading": "かいじょう",
+   "romaji": "kaijou",
+   "en": "venue, meeting place"
+  },
+  {
+   "id": "n4-v-499",
+   "expression": "運ぶ",
+   "reading": "はこぶ",
+   "romaji": "hakobu",
+   "en": "to transport, to carry"
+  },
+  {
+   "id": "n4-v-533",
+   "expression": "集める",
+   "reading": "あつめる",
+   "romaji": "atsumeru",
+   "en": "to collect, to gather (v.t.), to assemble"
+  },
+  {
+   "id": "n4-v-556",
+   "expression": "出発",
+   "reading": "しゅっぱつする",
+   "romaji": "shuppatsusuru",
+   "en": "departure"
+  },
+  {
+   "id": "n4-v-580",
+   "expression": "スーツケース",
+   "reading": "スーツケース",
+   "romaji": "suutsukeesu",
+   "en": "suitcase"
+  },
+  {
+   "id": "n4-v-642",
+   "expression": "集まる",
+   "reading": "あつまる",
+   "romaji": "atsumaru",
+   "en": "to gather (v.i.), to collect"
+  }
+ ]
+}

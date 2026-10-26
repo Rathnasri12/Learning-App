@@ -1,0 +1,394 @@
+{
+  "unit": 7,
+  "title": { "en": "Seasons, colours and the outdoors", "ta": "பருவங்கள், நிறங்கள், வெளியுலகம்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for the world outside: three seasons (spring, summer, autumn), wind, colour, black, birds, meat, walking and running. Tip: many seasons kanji hide the sun 日 or fire 火 inside, because seasons are about heat and light.",
+    "ta": "இந்தப் பாடத்தில் வெளியுலகம் பற்றிய 12 கான்ஜிகளைக் கற்கிறீர்கள்: மூன்று பருவங்கள் (வசந்தம், கோடை, இலையுதிர்), காற்று, நிறம், கருப்பு, பறவை, இறைச்சி, நடை, ஓட்டம். குறிப்பு: பருவக் கான்ஜிகள் பலவற்றுக்குள் சூரியன் 日 அல்லது நெருப்பு 火 ஒளிந்திருக்கும், ஏனென்றால் பருவம் என்பது வெப்பமும் வெளிச்சமும்தான்."
+  },
+  "kanji": [
+    {
+      "kanji": "歩",
+      "meaning": { "en": "walk", "ta": "நட" },
+      "on": ["ほ"],
+      "kun": ["ある.く"],
+      "mnemonic": {
+        "en": "On top is 止 (stop), a foot. Below is 少 (a little) without its dot, a second foot. One foot stops, the other moves a little: step, step. You are walking.",
+        "ta": "மேலே 止 (நில்), ஒரு பாதம். கீழே புள்ளி இல்லாத 少 (கொஞ்சம்), இரண்டாவது பாதம். ஒரு கால் நிற்கிறது, மற்றொன்று கொஞ்சம் முன்னே போகிறது: அடி, அடி. நீங்கள் நடக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "一歩 (one step) is いっぽ: a small っ and ぽ. The bottom has no dot, unlike 少.",
+        "ta": "一歩 (ஒரு அடி) = いっぽ: சிறிய っ, பிறகு ぽ. 少 போல அல்லாமல், அடிப்பகுதியில் புள்ளி இல்லை."
+      },
+      "examples": [
+        { "word": "歩く", "reading": "あるく", "en": "to walk", "ta": "நடக்க", "vocabId": "n5-v-042" },
+        { "word": "歩道", "reading": "ほどう", "en": "footpath, sidewalk", "ta": "நடைபாதை" },
+        { "word": "一歩", "reading": "いっぽ", "en": "one step", "ta": "ஒரு அடி (காலடி)" }
+      ]
+    },
+    {
+      "kanji": "風",
+      "meaning": { "en": "wind; style", "ta": "காற்று; பாணி" },
+      "on": ["ふう"],
+      "kun": ["かぜ"],
+      "mnemonic": {
+        "en": "The outside (几) is a big sail full of air. Inside is a little insect (虫). The wind blows so hard that it fills the sail and carries the insect away.",
+        "ta": "வெளிப்பகுதி (几) காற்று நிறைந்த ஒரு பெரிய பாய்மரம். உள்ளே ஒரு சின்னப் பூச்சி (虫). காற்று பலமாக வீசி, பாயை நிரப்பி, பூச்சியையும் தூக்கிக்கொண்டு போகிறது."
+      },
+      "note": {
+        "en": "風 also means “style”: 洋風 (ようふう) = Western style. Note 風邪 (a cold) is also read かぜ.",
+        "ta": "風 என்பதற்கு “பாணி” என்ற பொருளும் உண்டு: 洋風 (ようふう) = மேற்கத்திய பாணி. 風邪 (சளி) என்பதும் かぜ என்றே படிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "風", "reading": "かぜ", "en": "wind", "ta": "காற்று", "vocabId": "n5-v-162" },
+        { "word": "台風", "reading": "たいふう", "en": "typhoon", "ta": "சூறாவளி (புயல்)", "vocabId": "n4-v-074" },
+        { "word": "洋風", "reading": "ようふう", "en": "Western style", "ta": "மேற்கத்திய பாணி" }
+      ]
+    },
+    {
+      "kanji": "紙",
+      "meaning": { "en": "paper", "ta": "காகிதம்" },
+      "on": ["し"],
+      "kun": ["かみ"],
+      "mnemonic": {
+        "en": "On the left is 糸, a thread. On the right is 氏, a hand pressing down flat. Long ago, paper was made by pressing plant threads flat into a thin sheet.",
+        "ta": "இடப்பக்கம் 糸, ஒரு நூல். வலப்பக்கம் 氏, கீழே அழுத்தித் தட்டையாக்கும் கை. பழங்காலத்தில் தாவர நார்களை அழுத்தித் தட்டையாக்கி மெல்லிய தாளாகக் காகிதம் செய்தார்கள்."
+      },
+      "note": {
+        "en": "In 手紙 (letter) the reading changes to がみ: てがみ. 手紙 is a letter you send, not “hand paper”.",
+        "ta": "手紙 (கடிதம்)-இல் வாசிப்பு がみ ஆக மாறும்: てがみ. 手紙 என்பது அனுப்பும் கடிதம்; “கைக் காகிதம்” அல்ல."
+      },
+      "examples": [
+        { "word": "紙", "reading": "かみ", "en": "paper", "ta": "காகிதம்", "vocabId": "n5-v-175" },
+        { "word": "手紙", "reading": "てがみ", "en": "letter", "ta": "கடிதம்", "vocabId": "n5-v-429" },
+        { "word": "用紙", "reading": "ようし", "en": "form, sheet (of paper)", "ta": "படிவம் (தாள்)" }
+      ]
+    },
+    {
+      "kanji": "黒",
+      "meaning": { "en": "black", "ta": "கருப்பு" },
+      "on": [],
+      "kun": ["くろ", "くろ.い"],
+      "mnemonic": {
+        "en": "At the bottom are four dots of fire (灬). Above them is a chimney with a window, full of soot. Fire burning under the chimney makes everything black.",
+        "ta": "அடியில் நெருப்பின் நான்கு புள்ளிகள் (灬). அவற்றின் மேல் புகைக்கரி நிறைந்த ஜன்னலுள்ள புகைபோக்கி. கீழே நெருப்பு எரிய, அடுப்படிப் புகைபோக்கி முழுவதும் கருப்பாகிவிடுகிறது."
+      },
+      "examples": [
+        { "word": "黒", "reading": "くろ", "en": "black (the colour)", "ta": "கருப்பு", "vocabId": "n5-v-232" },
+        { "word": "黒い", "reading": "くろい", "en": "black, dark", "ta": "கருப்பான", "vocabId": "n5-v-233" },
+        { "word": "白黒", "reading": "しろくろ", "en": "black and white", "ta": "கருப்பு வெள்ளை" }
+      ]
+    },
+    {
+      "kanji": "春",
+      "meaning": { "en": "spring", "ta": "வசந்த காலம்" },
+      "on": ["しゅん"],
+      "kun": ["はる"],
+      "mnemonic": {
+        "en": "The top looks like 三 (three) with 人 (a person) spreading out: three people with open arms. Below them is the sun (日). After the cold, everyone goes out to enjoy the warm sun: spring.",
+        "ta": "மேல்பகுதி 三 (மூன்று) மேல் 人 (மனிதர்) கை விரிப்பது போல: கைகளை விரித்த மூன்று பேர். அவர்களுக்குக் கீழே சூரியன் (日). குளிருக்குப் பிறகு எல்லோரும் வெளியே வந்து இதமான வெயிலை ரசிக்கிறார்கள்: வசந்த காலம்."
+      },
+      "note": {
+        "en": "The four seasons together: 春夏秋冬 (しゅんかしゅうとう).",
+        "ta": "நான்கு பருவங்களும் சேர்ந்து: 春夏秋冬 (しゅんかしゅうとう)."
+      },
+      "examples": [
+        { "word": "春", "reading": "はる", "en": "spring", "ta": "வசந்த காலம்", "vocabId": "n5-v-545" },
+        { "word": "春休み", "reading": "はるやすみ", "en": "spring holidays", "ta": "வசந்த கால விடுமுறை" },
+        { "word": "青春", "reading": "せいしゅん", "en": "youth (the spring of life)", "ta": "இளமைப் பருவம்" },
+        { "word": "春夏秋冬", "reading": "しゅんかしゅうとう", "en": "the four seasons", "ta": "நான்கு பருவங்கள்" }
+      ]
+    },
+    {
+      "kanji": "色",
+      "meaning": { "en": "colour", "ta": "நிறம்" },
+      "on": [],
+      "kun": ["いろ"],
+      "mnemonic": {
+        "en": "On top, a person bends over (ク). Below, a snake lies curled up (巴), its skin shining with bright patterns. The person stares at the snake’s colours.",
+        "ta": "மேலே ஒருவர் குனிந்து பார்க்கிறார் (ク). கீழே ஒரு பாம்பு சுருண்டு கிடக்கிறது (巴); அதன் தோல் பளபளக்கும் வண்ணக் கோலங்களுடன் மின்னுகிறது. அவர் பாம்பின் நிறங்களை வியந்து பார்க்கிறார்."
+      },
+      "note": {
+        "en": "色々 (いろいろ) means “various”. Later you will meet 景色 (けしき, scenery), where 色 is read しき.",
+        "ta": "色々 (いろいろ) = பலவிதமான. பின்னால் 景色 (けしき, இயற்கைக் காட்சி) என்ற சொல்லைச் சந்திப்பீர்கள்; அதில் 色 = しき."
+      },
+      "examples": [
+        { "word": "色", "reading": "いろ", "en": "colour", "ta": "நிறம்", "vocabId": "n5-v-074" },
+        { "word": "色々", "reading": "いろいろ", "en": "various", "ta": "பலவிதமான", "vocabId": "n5-v-075" },
+        { "word": "茶色", "reading": "ちゃいろ", "en": "brown", "ta": "பழுப்பு நிறம்", "vocabId": "n5-v-407" }
+      ]
+    },
+    {
+      "kanji": "走",
+      "meaning": { "en": "run", "ta": "ஓடு" },
+      "on": ["そう"],
+      "kun": ["はし.る"],
+      "mnemonic": {
+        "en": "On top is 土 (earth, ground). Below is a foot like 止 with a long kick to the right. Your feet kick the ground hard and fast: you run.",
+        "ta": "மேலே 土 (மண், தரை). கீழே 止 போன்ற ஒரு பாதம், வலப்பக்கம் நீண்ட உதையுடன். உங்கள் கால்கள் தரையை வேகமாக உதைக்கின்றன: நீங்கள் ஓடுகிறீர்கள்."
+      },
+      "note": {
+        "en": "走る is a u-verb even though it ends in る: 走ります, 走らない, 走って.",
+        "ta": "走る る-வில் முடிந்தாலும் இது u-வினை: 走ります, 走らない, 走って."
+      },
+      "examples": [
+        { "word": "走る", "reading": "はしる", "en": "to run", "ta": "ஓட", "vocabId": "n5-v-531" },
+        { "word": "走り出す", "reading": "はしりだす", "en": "to start running", "ta": "ஓடத் தொடங்க" },
+        { "word": "走者", "reading": "そうしゃ", "en": "runner", "ta": "ஓட்டக்காரர்" }
+      ]
+    },
+    {
+      "kanji": "秋",
+      "meaning": { "en": "autumn", "ta": "இலையுதிர் காலம்" },
+      "on": ["しゅう"],
+      "kun": ["あき"],
+      "mnemonic": {
+        "en": "On the left is 禾, a rice plant with its head bending down. On the right is 火, fire. The rice fields turn golden red like fire: harvest time, autumn.",
+        "ta": "இடப்பக்கம் 禾, கதிர் தலைசாய்ந்த நெற்பயிர். வலப்பக்கம் 火, நெருப்பு. வயல்கள் நெருப்பு போலப் பொன்னிறமாகின்றன: அறுவடைக் காலம், இலையுதிர் காலம்."
+      },
+      "examples": [
+        { "word": "秋", "reading": "あき", "en": "autumn", "ta": "இலையுதிர் காலம்", "vocabId": "n5-v-008" },
+        { "word": "秋風", "reading": "あきかぜ", "en": "autumn breeze", "ta": "இலையுதிர் காலக் காற்று" },
+        { "word": "春夏秋冬", "reading": "しゅんかしゅうとう", "en": "the four seasons", "ta": "நான்கு பருவங்கள்" }
+      ]
+    },
+    {
+      "kanji": "夏",
+      "meaning": { "en": "summer", "ta": "கோடை காலம்" },
+      "on": ["か"],
+      "kun": ["なつ"],
+      "mnemonic": {
+        "en": "On top is a big head: 一 and 自. At the bottom are slow, dragging legs (夂). In the heat a person walks so slowly, with a heavy, sweating head: summer.",
+        "ta": "மேலே ஒரு பெரிய தலை: 一, 自. அடியில் மெதுவாக இழுக்கும் கால்கள் (夂). வியர்த்து வழியும் கனமான தலையுடன் ஒருவர் வெயிலில் மெதுவாக நடக்கிறார்: சித்திரை வெயில் போன்ற கோடை காலம்."
+      },
+      "examples": [
+        { "word": "夏", "reading": "なつ", "en": "summer", "ta": "கோடை காலம்", "vocabId": "n5-v-484" },
+        { "word": "夏休み", "reading": "なつやすみ", "en": "summer holidays", "ta": "கோடை விடுமுறை", "vocabId": "n5-v-485" },
+        { "word": "真夏", "reading": "まなつ", "en": "midsummer, the hottest part of summer", "ta": "நடுக் கோடை (கடும் வெயில் காலம்)" },
+        { "word": "春夏秋冬", "reading": "しゅんかしゅうとう", "en": "the four seasons", "ta": "நான்கு பருவங்கள்" }
+      ]
+    },
+    {
+      "kanji": "曜",
+      "meaning": { "en": "day of the week", "ta": "வாரத்தின் நாள்" },
+      "on": ["よう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is the sun (日). On the right, two wings (羽) spread over a bird (隹). Every day of the week, a bird flies across the sun: Monday, Tuesday, Wednesday…",
+        "ta": "இடப்பக்கம் சூரியன் (日). வலப்பக்கம் ஒரு பறவையின் (隹) மேல் இரண்டு இறக்கைகள் (羽) விரிந்திருக்கின்றன. வாரத்தின் ஒவ்வொரு நாளும் ஒரு பறவை சூரியனைக் கடந்து பறக்கிறது: திங்கள், செவ்வாய், புதன்…"
+      },
+      "note": {
+        "en": "18 strokes, the biggest kanji so far, but it is used almost only in 〜曜日. Ask the day with 何曜日 (なんようび).",
+        "ta": "18 கோடுகள், இதுவரை வந்ததில் பெரிய கான்ஜி; ஆனால் இது பெரும்பாலும் 〜曜日-இல் மட்டும் வரும். நாளைக் கேட்க 何曜日 (なんようび)."
+      },
+      "examples": [
+        { "word": "日曜日", "reading": "にちようび", "en": "Sunday", "ta": "ஞாயிற்றுக்கிழமை", "vocabId": "n5-v-501" },
+        { "word": "月曜日", "reading": "げつようび", "en": "Monday", "ta": "திங்கட்கிழமை", "vocabId": "n5-v-239" },
+        { "word": "土曜日", "reading": "どようび", "en": "Saturday", "ta": "சனிக்கிழமை", "vocabId": "n5-v-470" },
+        { "word": "何曜日", "reading": "なんようび", "en": "what day of the week", "ta": "என்ன கிழமை" }
+      ]
+    },
+    {
+      "kanji": "肉",
+      "meaning": { "en": "meat", "ta": "இறைச்சி" },
+      "on": ["にく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The outside (冂) is a piece of meat hanging at the butcher’s shop. The two 人 shapes inside are the white lines of fat in the meat.",
+        "ta": "வெளிப்பகுதி (冂) கறிக்கடையில் தொங்கும் ஒரு துண்டு இறைச்சி. உள்ளே உள்ள இரண்டு 人 வடிவங்கள் இறைச்சியில் உள்ள வெள்ளைக் கொழுப்புக் கோடுகள்."
+      },
+      "note": {
+        "en": "Don’t mix up 肉 (meat, two 人 inside) and 内 (inside, one 人).",
+        "ta": "肉 (இறைச்சி, உள்ளே இரண்டு 人), 内 (உள்ளே, ஒரு 人) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "肉", "reading": "にく", "en": "meat", "ta": "இறைச்சி", "vocabId": "n5-v-498" },
+        { "word": "牛肉", "reading": "ぎゅうにく", "en": "beef", "ta": "மாட்டிறைச்சி", "vocabId": "n5-v-202" },
+        { "word": "肉屋", "reading": "にくや", "en": "butcher’s shop", "ta": "கறிக்கடை" }
+      ]
+    },
+    {
+      "kanji": "鳥",
+      "meaning": { "en": "bird", "ta": "பறவை" },
+      "on": ["ちょう"],
+      "kun": ["とり"],
+      "mnemonic": {
+        "en": "It is a picture of a bird. The top is the head with an eye (like 白), the middle is the body and wing, and the four dots at the bottom are its claws holding a branch.",
+        "ta": "இது ஒரு பறவையின் படம். மேலே கண்ணுடன் தலை (白 போல), நடுவில் உடலும் இறக்கையும், அடியில் உள்ள நான்கு புள்ளிகள் கிளையைப் பற்றியிருக்கும் நகங்கள். மரக்கிளையில் அமர்ந்த கிளி போல!"
+      },
+      "note": {
+        "en": "鳥 also means chicken: 鳥肉 (とりにく). Don’t mix 鳥 with 島 (island), which has a mountain 山 at the bottom.",
+        "ta": "鳥 என்றால் கோழியும் கூட: 鳥肉 (とりにく). 鳥-ஐ 島 (தீவு)-உடன் குழப்ப வேண்டாம்; அதன் அடியில் மலை 山 இருக்கும்."
+      },
+      "examples": [
+        { "word": "鳥", "reading": "とり", "en": "bird; chicken", "ta": "பறவை (கோழி)", "vocabId": "n5-v-471" },
+        { "word": "小鳥", "reading": "ことり", "en": "little bird", "ta": "சிறு பறவை", "vocabId": "n4-v-294" },
+        { "word": "白鳥", "reading": "はくちょう", "en": "swan", "ta": "அன்னப் பறவை" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU7-q01",
+        "type": "kanji_reading",
+        "sentence": "えきまで ＿歩いて＿ いきます。",
+        "target": "歩いて",
+        "options": ["はしいて", "あるいて", "あゆいて", "あろいて"],
+        "answer": 1,
+        "explanation_en": "歩く is あるく (நடக்க, to walk), so 歩いて is あるいて. はし comes from 走る (run), a different kanji.",
+        "explanation_ta": "歩く = あるく (நடக்க, to walk); ஆகவே 歩いて = あるいて. はし என்பது 走る (ஓடு)-இலிருந்து வருகிறது; வேறு கான்ஜி."
+      },
+      {
+        "id": "KU7-q02",
+        "type": "kanji_reading",
+        "sentence": "今日は ＿風＿が つよいです。",
+        "target": "風",
+        "options": ["ふう", "かせ", "かざ", "かぜ"],
+        "answer": 3,
+        "explanation_en": "Alone, 風 is かぜ (காற்று, wind). ふう is the on reading (台風), and かせ is missing the voiced ぜ.",
+        "explanation_ta": "தனியாக 風 = かぜ (காற்று, wind). ふう என்பது on வாசிப்பு (台風). かせ-வில் ぜ ஒலி மாற்றம் இல்லை."
+      },
+      {
+        "id": "KU7-q03",
+        "type": "kanji_reading",
+        "sentence": "ともだちに ＿手紙＿を かきました。",
+        "target": "手紙",
+        "options": ["てがみ", "てかみ", "しゅし", "てがし"],
+        "answer": 0,
+        "explanation_en": "手紙 is てがみ (கடிதம், letter). かみ becomes がみ after て, so てかみ is wrong. しゅし uses on readings, but this word uses kun readings.",
+        "explanation_ta": "手紙 = てがみ (கடிதம், letter). て-க்குப் பின் かみ → がみ ஆகிறது; ஆகவே てかみ தவறு. しゅし on வாசிப்புகள்; இந்தச் சொல் kun வாசிப்புகளைப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU7-q04",
+        "type": "kanji_reading",
+        "sentence": "＿黒い＿ かばんを もって います。",
+        "target": "黒い",
+        "options": ["こくい", "くるい", "くろい", "ぐろい"],
+        "answer": 2,
+        "explanation_en": "黒い is くろい (கருப்பான, black). くるい changes one vowel, and ぐろい is wrongly voiced.",
+        "explanation_ta": "黒い = くろい (கருப்பான, black). くるい ஒரு உயிரை மாற்றியது. ぐろい தவறான ஒலி மாற்றம்."
+      },
+      {
+        "id": "KU7-q05",
+        "type": "kanji_reading",
+        "sentence": "＿春＿に なると さくらが さきます。",
+        "target": "春",
+        "options": ["なつ", "しゅん", "はる", "ばる"],
+        "answer": 2,
+        "explanation_en": "Alone, 春 is はる (வசந்த காலம், spring). しゅん is the on reading (青春), and なつ is summer (夏).",
+        "explanation_ta": "தனியாக 春 = はる (வசந்த காலம், spring). しゅん on வாசிப்பு (青春). なつ என்பது கோடை (夏)."
+      },
+      {
+        "id": "KU7-q06",
+        "type": "kanji_reading",
+        "sentence": "この 花は きれいな ＿色＿ですね。",
+        "target": "色",
+        "options": ["いろ", "しょく", "しき", "いる"],
+        "answer": 0,
+        "explanation_en": "Alone, 色 is いろ (நிறம், colour). しょく and しき are on readings used only inside some longer words.",
+        "explanation_ta": "தனியாக 色 = いろ (நிறம், colour). しょく, しき on வாசிப்புகள்; சில நீண்ட சொற்களுக்குள் மட்டும் வரும்."
+      },
+      {
+        "id": "KU7-q07",
+        "type": "kanji_reading",
+        "sentence": "毎朝 こうえんを ＿走ります＿。",
+        "target": "走ります",
+        "options": ["あるります", "そうります", "ばしります", "はしります"],
+        "answer": 3,
+        "explanation_en": "走る is はしる (ஓட, to run), so 走ります is はしります. ある is from 歩く (walk), and そう is the on reading.",
+        "explanation_ta": "走る = はしる (ஓட, to run); ஆகவே 走ります = はしります. ある என்பது 歩く (நட)-இலிருந்து. そう on வாசிப்பு."
+      },
+      {
+        "id": "KU7-q08",
+        "type": "kanji_reading",
+        "sentence": "＿秋＿は すずしくて いい きせつです。",
+        "target": "秋",
+        "options": ["あさ", "あき", "しゅう", "あぎ"],
+        "answer": 1,
+        "explanation_en": "Alone, 秋 is あき (இலையுதிர் காலம், autumn). しゅう is the on reading, and あさ is morning (朝).",
+        "explanation_ta": "தனியாக 秋 = あき (இலையுதிர் காலம், autumn). しゅう on வாசிப்பு. あさ என்பது காலை (朝)."
+      },
+      {
+        "id": "KU7-q09",
+        "type": "kanji_reading",
+        "sentence": "＿夏休み＿に 海へ いきました。",
+        "target": "夏休み",
+        "options": ["なつやすみ", "かやすみ", "なつやずみ", "なっやすみ"],
+        "answer": 0,
+        "explanation_en": "夏休み is なつやすみ (கோடை விடுமுறை, summer holidays). か is the on reading of 夏, and やすみ is not voiced here.",
+        "explanation_ta": "夏休み = なつやすみ (கோடை விடுமுறை, summer holidays). か என்பது 夏-இன் on வாசிப்பு. இங்கே やすみ-வில் ஒலி மாற்றம் இல்லை."
+      },
+      {
+        "id": "KU7-q10",
+        "type": "kanji_reading",
+        "sentence": "＿日曜日＿に かいものを します。",
+        "target": "日曜日",
+        "options": ["にちよび", "ひようび", "にちようび", "にちようひ"],
+        "answer": 2,
+        "explanation_en": "日曜日 is にちようび (ஞாயிற்றுக்கிழமை, Sunday). よう is long, and the last 日 is び.",
+        "explanation_ta": "日曜日 = にちようび (ஞாயிற்றுக்கிழமை, Sunday). よう நீண்டது; கடைசி 日 = び."
+      },
+      {
+        "id": "KU7-q11",
+        "type": "orthography",
+        "sentence": "ばんごはんに ＿にく＿を 食べました。",
+        "target": "にく",
+        "options": ["内", "肉", "円", "丙"],
+        "answer": 1,
+        "explanation_en": "にく is 肉 (இறைச்சி, meat), with two 人 inside. 内 (inside) has only one 人, and 円 / 丙 are other kanji.",
+        "explanation_ta": "にく = 肉 (இறைச்சி, meat); உள்ளே இரண்டு 人. 内 (உள்ளே)-இல் ஒரு 人 மட்டும். 円, 丙 வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU7-q12",
+        "type": "orthography",
+        "sentence": "木の 上に きれいな ＿とり＿が います。",
+        "target": "とり",
+        "options": ["烏", "島", "馬", "鳥"],
+        "answer": 3,
+        "explanation_en": "とり is 鳥 (பறவை, bird). 烏 (crow) has no eye line in the head, 島 (island) has 山 at the bottom, and 馬 is a horse.",
+        "explanation_ta": "とり = 鳥 (பறவை, bird). 烏 (காகம்) தலையில் கண் கோடு இல்லை. 島 (தீவு) அடியில் 山. 馬 என்பது குதிரை."
+      },
+      {
+        "id": "KU7-q13",
+        "type": "orthography",
+        "sentence": "この ＿かみ＿に なまえを かいて ください。",
+        "target": "かみ",
+        "options": ["低", "級", "紅", "紙"],
+        "answer": 3,
+        "explanation_en": "かみ is 紙 (காகிதம், paper): thread 糸 + 氏. 級 and 紅 also have 糸 but other right sides, and 低 has a person 亻 on the left.",
+        "explanation_ta": "かみ = 紙 (காகிதம், paper): நூல் 糸 + 氏. 級, 紅-இலும் 糸 உண்டு, ஆனால் வலப்பக்கம் வேறு. 低-க்கு இடப்பக்கம் மனிதர் 亻."
+      },
+      {
+        "id": "KU7-q14",
+        "type": "orthography",
+        "sentence": "きのう 大きな ＿たいふう＿が きました。",
+        "target": "たいふう",
+        "options": ["台虱", "台風", "台凧", "合風"],
+        "answer": 1,
+        "explanation_en": "たいふう is 台風 (சூறாவளி, typhoon). 虱 and 凧 look like 風 but are different, and 合 is not 台.",
+        "explanation_ta": "たいふう = 台風 (சூறாவளி, typhoon). 虱, 凧 பார்க்க 風 போல இருக்கும், ஆனால் வேறு கான்ஜிகள். 合 என்பது 台 அல்ல."
+      },
+      {
+        "id": "KU7-q15",
+        "type": "orthography",
+        "sentence": "＿もくようび＿に あいましょう。",
+        "target": "もくようび",
+        "options": ["木躍日", "木燿日", "木曜日", "本曜日"],
+        "answer": 2,
+        "explanation_en": "もくようび is 木曜日 (வியாழக்கிழமை, Thursday): 曜 has the sun 日 on the left. 躍 has a foot and 燿 has fire instead, and 本 is not 木.",
+        "explanation_ta": "もくようび = 木曜日 (வியாழக்கிழமை, Thursday): 曜-க்கு இடப்பக்கம் சூரியன் 日. 躍-இல் கால், 燿-இல் நெருப்பு இருக்கிறது. 本 என்பது 木 அல்ல."
+      },
+      {
+        "id": "KU7-q16",
+        "type": "orthography",
+        "sentence": "＿はるやすみ＿は いつからですか。",
+        "target": "はるやすみ",
+        "options": ["春休み", "椿休み", "泰休み", "春体み"],
+        "answer": 0,
+        "explanation_en": "はるやすみ is 春休み (வசந்த கால விடுமுறை, spring holidays). 椿 and 泰 have a top like 春, and 体 (body) is not 休 (rest).",
+        "explanation_ta": "はるやすみ = 春休み (வசந்த கால விடுமுறை, spring holidays). 椿, 泰 மேல்பகுதி 春 போல இருக்கும். 体 (உடல்) என்பது 休 (ஓய்வு) அல்ல."
+      }
+    ]
+  }
+}

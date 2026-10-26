@@ -1,0 +1,400 @@
+{
+  "unit": 9,
+  "title": { "en": "Work, questions and the world", "ta": "வேலை, கேள்விகள், உலகம்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for work, questions, ideas and the world: 業, 員, 問, 意, 世 and more. Many of them are built from kanji you already know, like 門 (gate) + 口 (mouth) = 問 (ask). Look for the old parts first, and the new kanji becomes easy.",
+    "ta": "இந்தப் பாடத்தில் வேலை, கேள்வி, எண்ணம், உலகம் பற்றிய 12 கான்ஜிகளைக் கற்கிறீர்கள்: 業, 員, 問, 意, 世 போன்றவை. இவற்றில் பல நீங்கள் ஏற்கனவே அறிந்த கான்ஜிகளால் ஆனவை, உதாரணமாக 門 (வாசல்) + 口 (வாய்) = 問 (கேட்பது). முதலில் பழைய பகுதிகளைக் கண்டுபிடியுங்கள்; புதிய கான்ஜி எளிதாகிவிடும்."
+  },
+  "kanji": [
+    {
+      "kanji": "業",
+      "meaning": { "en": "business, work", "ta": "தொழில், வேலை" },
+      "on": ["ぎょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "At the bottom is a tree (木): a strong wooden workbench. On top, many tools stand up in a busy row. A bench full of tools is someone’s work, their business.",
+        "ta": "கீழே ஒரு மரம் (木): அது மரத்தால் ஆன ஒரு உறுதியான வேலை மேசை. அதன் மேல் பல கருவிகள் வரிசையாக நிற்கின்றன. கருவிகள் நிறைந்த மேசை என்றால் அது ஒருவருடைய வேலை, அவருடைய தொழில்."
+      },
+      "note": {
+        "en": "業 is read ぎょう with a long ょう, not ぎょ. You will also meet it in 授業 (じゅぎょう, class) and 卒業 (そつぎょう, graduation).",
+        "ta": "業 என்பதை நீண்ட ょう உடன் ぎょう என்று படிக்க வேண்டும், ぎょ அல்ல. 授業 (じゅぎょう, வகுப்பு), 卒業 (そつぎょう, பட்டப்படிப்பு முடித்தல்) ஆகிய சொற்களிலும் இதைப் பார்ப்பீர்கள்."
+      },
+      "examples": [
+        { "word": "工業", "reading": "こうぎょう", "en": "(manufacturing) industry", "ta": "தொழில்துறை (உற்பத்தி)", "vocabId": "n4-v-578" },
+        { "word": "作業", "reading": "さぎょう", "en": "work, task", "ta": "வேலை, பணி", "vocabId": "n3-v-0974" },
+        { "word": "事業", "reading": "じぎょう", "en": "business, enterprise", "ta": "வணிகம், தொழில் முயற்சி" }
+      ]
+    },
+    {
+      "kanji": "員",
+      "meaning": { "en": "member, staff", "ta": "உறுப்பினர், பணியாளர்" },
+      "on": ["いん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a mouth (口). Below is an eye (目) on two little legs: that is a shell, the money of old times. A mouth to feed and shells for pay: this is a worker, a member of the staff.",
+        "ta": "மேலே ஒரு வாய் (口). கீழே இரண்டு சிறிய கால்களுடன் ஒரு கண் (目): அது ஒரு சிப்பி, பழைய காலத்துப் பணம். உணவு கேட்கும் ஒரு வாய், சம்பளமாகச் சிப்பிகள்: இவர்தான் ஒரு பணியாளர், குழுவின் உறுப்பினர்."
+      },
+      "note": {
+        "en": "員 usually comes at the end of a word for a job: 店員 (shop clerk), 会社員 (company worker), 駅員 (station staff). Don’t mix it up with 院 (いん, institution), which has the same sound.",
+        "ta": "員 பொதுவாக ஒரு வேலையைக் குறிக்கும் சொல்லின் கடைசியில் வரும்: 店員 (கடை ஊழியர்), 会社員 (நிறுவன ஊழியர்), 駅員 (நிலைய ஊழியர்). அதே ஒலி கொண்ட 院 (いん, நிறுவனம்) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "店員", "reading": "てんいん", "en": "shop clerk", "ta": "கடை ஊழியர்", "vocabId": "n4-v-310" },
+        { "word": "会社員", "reading": "かいしゃいん", "en": "company employee", "ta": "நிறுவன ஊழியர்" },
+        { "word": "駅員", "reading": "えきいん", "en": "station staff", "ta": "ரயில் நிலைய ஊழியர்" }
+      ]
+    },
+    {
+      "kanji": "開",
+      "meaning": { "en": "open", "ta": "திற" },
+      "on": ["かい"],
+      "kun": ["ひら.く", "あ.く", "あ.ける"],
+      "mnemonic": {
+        "en": "A big double gate (門), the same gate you saw in 間 and 聞. Inside, two hands push up the heavy wooden bar (开). The temple gate opens!",
+        "ta": "இரட்டைக் கதவுள்ள ஒரு பெரிய வாசல் (門); 間, 聞 ஆகியவற்றில் பார்த்த அதே வாசல். உள்ளே இரண்டு கைகள் கனமான மரக் குறுக்குக் கட்டையை மேலே தூக்குகின்றன (开). கோயில் கதவு திறக்கிறது!"
+      },
+      "note": {
+        "en": "開く has two readings. あく: something opens by itself (ドアが開く). ひらく: to open, or to hold an event (パーティーを開く). 開ける (あける) means you open something.",
+        "ta": "開く க்கு இரண்டு வாசிப்புகள் உண்டு. あく: ஒன்று தானாகத் திறக்கும் (ドアが開く). ひらく: திறப்பது, அல்லது ஒரு நிகழ்ச்சியை நடத்துவது (パーティーを開く). 開ける (あける) என்றால் நீங்கள் ஒன்றைத் திறப்பது."
+      },
+      "examples": [
+        { "word": "開ける", "reading": "あける", "en": "to open (something)", "ta": "திறக்க", "vocabId": "n5-v-010" },
+        { "word": "開く", "reading": "あく", "en": "to open (by itself)", "ta": "திறக்க (தானாக)", "vocabId": "n5-v-009" },
+        { "word": "開く", "reading": "ひらく", "en": "to open; to hold (a party)", "ta": "திறக்க; (விருந்து) நடத்த", "vocabId": "n4-v-132" },
+        { "word": "開始", "reading": "かいし", "en": "start, beginning", "ta": "தொடக்கம், ஆரம்பம்", "vocabId": "n3-v-0558" }
+      ]
+    },
+    {
+      "kanji": "問",
+      "meaning": { "en": "question, ask", "ta": "கேள்வி, கேட்பது" },
+      "on": ["もん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A mouth (口) stands at the gate (門). The guard calls out: “Who are you? Why are you here?” A mouth at the gate asks a question.",
+        "ta": "வாசலில் (門) ஒரு வாய் (口) நிற்கிறது. காவலாளி கத்துகிறார்: “யார் நீ? எதற்காக வந்தாய்?” வாசலில் நிற்கும் வாய் கேள்வி கேட்கிறது."
+      },
+      "note": {
+        "en": "Three gate kanji: 問 (mouth in the gate = ask), 聞 (ear in the gate = listen), 間 (sun in the gate = between).",
+        "ta": "வாசல் உள்ள மூன்று கான்ஜிகள்: 問 (வாசலில் வாய் = கேட்பது), 聞 (வாசலில் காது = கேட்டல்/செவிமடுத்தல்), 間 (வாசலில் சூரியன் = இடைவெளி)."
+      },
+      "examples": [
+        { "word": "問題", "reading": "もんだい", "en": "problem; question", "ta": "பிரச்சினை (கேள்வி)", "vocabId": "n5-v-665" },
+        { "word": "質問", "reading": "しつもん", "en": "question", "ta": "கேள்வி", "vocabId": "n5-v-301" },
+        { "word": "学問", "reading": "がくもん", "en": "learning, study", "ta": "கல்வி, அறிவுத் துறை", "vocabId": "n3-v-0592" }
+      ]
+    },
+    {
+      "kanji": "代",
+      "meaning": { "en": "replace; age, generation; fee", "ta": "பதிலாக; காலம், தலைமுறை; கட்டணம்" },
+      "on": ["だい"],
+      "kun": ["か.わる"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a guard post (弋). When his time is over, a new person takes his place. One replaces the other, generation after generation.",
+        "ta": "ஒரு மனிதர் (亻) காவல் கம்பத்தின் (弋) அருகில் நிற்கிறார். அவருடைய நேரம் முடிந்ததும், புதிய ஒருவர் அவருக்குப் பதிலாக வருகிறார். ஒருவருக்குப் பதில் இன்னொருவர், தலைமுறை தலைமுறையாக."
+      },
+      "note": {
+        "en": "After a word, 代 can mean a fee (電気代, electricity bill) or an age group (二十代, in your twenties).",
+        "ta": "ஒரு சொல்லுக்குப் பின் வரும்போது 代 என்றால் கட்டணம் (電気代, மின்சாரக் கட்டணம்) அல்லது வயதுப் பிரிவு (二十代, இருபது வயதுகளில்)."
+      },
+      "examples": [
+        { "word": "時代", "reading": "じだい", "en": "age, era, period", "ta": "காலம், யுகம்", "vocabId": "n4-v-118" },
+        { "word": "代わり", "reading": "かわり", "en": "substitute, replacement", "ta": "பதிலாக (மாற்று)", "vocabId": "n4-v-576" },
+        { "word": "電気代", "reading": "でんきだい", "en": "electricity bill", "ta": "மின்சாரக் கட்டணம்" },
+        { "word": "二十代", "reading": "にじゅうだい", "en": "(in one’s) twenties", "ta": "இருபது வயதுகள் (20–29)" }
+      ]
+    },
+    {
+      "kanji": "動",
+      "meaning": { "en": "move", "ta": "அசைவு, நகர்" },
+      "on": ["どう"],
+      "kun": ["うご.く"],
+      "mnemonic": {
+        "en": "On the left is 重 (heavy). On the right is 力 (power). Something heavy needs power to move it. Push with all your strength, and it moves!",
+        "ta": "இடப்பக்கம் 重 (கனமான). வலப்பக்கம் 力 (சக்தி). கனமான பொருளை நகர்த்தச் சக்தி தேவை. முழு பலத்துடன் தள்ளுங்கள், அது நகர்கிறது!"
+      },
+      "note": {
+        "en": "Don’t mix up 動 (move) and 働 (work). 働 has a person (亻) in front: a person who moves = works.",
+        "ta": "動 (நகர்தல்), 働 (வேலை செய்தல்) இரண்டையும் குழப்ப வேண்டாம். 働-இல் முன்னால் ஒரு மனிதர் (亻) இருக்கிறார்: நகரும் மனிதர் = வேலை செய்பவர்."
+      },
+      "examples": [
+        { "word": "動く", "reading": "うごく", "en": "to move", "ta": "நகர, அசைய", "vocabId": "n4-v-587" },
+        { "word": "動物", "reading": "どうぶつ", "en": "animal", "ta": "விலங்கு", "vocabId": "n5-v-449" },
+        { "word": "自動車", "reading": "じどうしゃ", "en": "car, automobile", "ta": "வாகனம் (மோட்டார் கார்)", "vocabId": "n5-v-303" },
+        { "word": "運動", "reading": "うんどう", "en": "exercise", "ta": "உடற்பயிற்சி", "vocabId": "n4-v-030" }
+      ]
+    },
+    {
+      "kanji": "主",
+      "meaning": { "en": "master; main", "ta": "எஜமான்; முக்கிய" },
+      "on": ["しゅ"],
+      "kun": ["おも"],
+      "mnemonic": {
+        "en": "The dot on top (丶) is a flame. Below it is the lamp stand. The big lamp burns in the main room, where the master of the house sits.",
+        "ta": "மேலே உள்ள புள்ளி (丶) ஒரு தீபச் சுடர். அதன் கீழே குத்துவிளக்கின் தண்டு. அந்தப் பெரிய விளக்கு வீட்டின் முக்கிய அறையில் எரிகிறது; அங்கேதான் வீட்டு எஜமான் அமர்ந்திருக்கிறார்."
+      },
+      "note": {
+        "en": "主人 (しゅじん) is “my husband”. For someone else’s husband, say ご主人 (ごしゅじん).",
+        "ta": "主人 (しゅじん) என்றால் “என் கணவர்”. மற்றவருடைய கணவரைச் சொல்ல ご主人 (ごしゅじん) என்று சொல்லுங்கள்."
+      },
+      "examples": [
+        { "word": "ご主人", "reading": "ごしゅじん", "en": "(someone’s) husband", "ta": "(அவருடைய / உங்கள்) கணவர்", "vocabId": "n4-v-269" },
+        { "word": "主人", "reading": "しゅじん", "en": "(my) husband; master", "ta": "(என்) கணவர்; எஜமான்" },
+        { "word": "主に", "reading": "おもに", "en": "mainly", "ta": "முக்கியமாக", "vocabId": "n3-v-0532" }
+      ]
+    },
+    {
+      "kanji": "題",
+      "meaning": { "en": "topic, title", "ta": "தலைப்பு, விஷயம்" },
+      "on": ["だい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the right is a big head (頁), like the head, the top, of a page. On the left the sun (日) shines on 正 (correct). The right words at the head of the page are the title, the topic.",
+        "ta": "வலப்பக்கம் ஒரு பெரிய தலை (頁), ஒரு பக்கத்தின் தலைப்பகுதி போல. இடப்பக்கம் சூரியன் (日) 正 (சரியான) மேல் ஒளிர்கிறது. பக்கத்தின் தலையில் எழுதும் சரியான சொற்கள்தான் தலைப்பு."
+      },
+      "note": {
+        "en": "問題 (problem) and 宿題 (しゅくだい, homework) both end with 題 read だい.",
+        "ta": "問題 (பிரச்சினை), 宿題 (しゅくだい, வீட்டுப்பாடம்) இரண்டும் だい என்று படிக்கும் 題-இல் முடிகின்றன."
+      },
+      "examples": [
+        { "word": "問題", "reading": "もんだい", "en": "problem; question", "ta": "பிரச்சினை (கேள்வி)", "vocabId": "n5-v-665" },
+        { "word": "話題", "reading": "わだい", "en": "topic (of talk)", "ta": "பேச்சுப் பொருள்", "vocabId": "n3-v-1200" },
+        { "word": "題名", "reading": "だいめい", "en": "title", "ta": "தலைப்பு (பெயர்)" }
+      ]
+    },
+    {
+      "kanji": "意",
+      "meaning": { "en": "mind, meaning", "ta": "மனம், அர்த்தம்" },
+      "on": ["い"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 音 (sound). Below is 心 (heart). The sound that comes from your heart is what you really mean: your idea, your mind.",
+        "ta": "மேலே 音 (ஒலி). கீழே 心 (இதயம்). இதயத்திலிருந்து வரும் ஒலிதான் நீங்கள் உண்மையில் சொல்ல விரும்பும் அர்த்தம்: உங்கள் எண்ணம், உங்கள் மனம்."
+      },
+      "examples": [
+        { "word": "意味", "reading": "いみ", "en": "meaning", "ta": "பொருள் (அர்த்தம்)", "vocabId": "n5-v-067" },
+        { "word": "意見", "reading": "いけん", "en": "opinion", "ta": "கருத்து", "vocabId": "n4-v-013" },
+        { "word": "注意", "reading": "ちゅうい", "en": "caution, attention", "ta": "கவனம், எச்சரிக்கை", "vocabId": "n4-v-073" },
+        { "word": "用意", "reading": "ようい", "en": "preparation", "ta": "தயாரிப்பு, ஏற்பாடு", "vocabId": "n4-v-274" }
+      ]
+    },
+    {
+      "kanji": "度",
+      "meaning": { "en": "times; degrees", "ta": "முறை; டிகிரி" },
+      "on": ["ど"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Under a roof (广), a hand (又) measures a cloth with its fingers, again and again. Each measure is one time, one degree.",
+        "ta": "ஒரு கூரையின் கீழ் (广), ஒரு கை (又) விரல்களால் துணியை மீண்டும் மீண்டும் அளக்கிறது. ஒவ்வொரு அளவும் ஒரு முறை, ஒரு டிகிரி."
+      },
+      "note": {
+        "en": "度 counts times (一度 = once) and degrees (三十度 = 30 degrees). 今度 can mean “this time” or “next time”.",
+        "ta": "度 முறைகளை எண்ணும் (一度 = ஒரு முறை), வெப்ப டிகிரிகளையும் எண்ணும் (三十度 = 30 டிகிரி). 今度 என்றால் “இந்த முறை” அல்லது “அடுத்த முறை”."
+      },
+      "examples": [
+        { "word": "今度", "reading": "こんど", "en": "this time; next time", "ta": "இந்த முறை; அடுத்த முறை", "vocabId": "n4-v-062" },
+        { "word": "一度", "reading": "いちど", "en": "once, one time", "ta": "ஒரு முறை", "vocabId": "n4-v-209" },
+        { "word": "何度", "reading": "なんど", "en": "how many times; how many degrees", "ta": "எத்தனை முறை; எத்தனை டிகிரி" },
+        { "word": "三十度", "reading": "さんじゅうど", "en": "30 degrees", "ta": "30 டிகிரி" }
+      ]
+    },
+    {
+      "kanji": "持",
+      "meaning": { "en": "hold, have", "ta": "பிடி, வைத்திரு" },
+      "on": [],
+      "kun": ["も.つ"],
+      "mnemonic": {
+        "en": "A hand (扌) at the temple (寺). The hand holds a plate with a coconut and flowers for the god. To hold, to carry.",
+        "ta": "கோயிலில் (寺) ஒரு கை (扌). அந்தக் கை சாமிக்காகத் தேங்காய், பூ வைத்த தட்டைப் பிடித்துக் கொண்டிருக்கிறது. பிடிப்பது, எடுத்துச் செல்வது."
+      },
+      "note": {
+        "en": "Don’t mix up 持 (hold, hand 扌) and 待 (wait, 彳). Both have 寺 on the right: 持つ もつ, 待つ まつ.",
+        "ta": "持 (பிடி, கை 扌), 待 (காத்திரு, 彳) இரண்டையும் குழப்ப வேண்டாம். இரண்டிலும் வலப்பக்கம் 寺 உள்ளது: 持つ もつ, 待つ まつ."
+      },
+      "examples": [
+        { "word": "持つ", "reading": "もつ", "en": "to hold, to carry; to have", "ta": "வைத்திருக்க, பிடிக்க", "vocabId": "n5-v-661" },
+        { "word": "気持ち", "reading": "きもち", "en": "feeling, mood", "ta": "உணர்வு, மனநிலை", "vocabId": "n4-v-338" },
+        { "word": "お金持ち", "reading": "おかねもち", "en": "rich person", "ta": "பணக்காரர்", "vocabId": "n4-v-434" }
+      ]
+    },
+    {
+      "kanji": "世",
+      "meaning": { "en": "world; generation", "ta": "உலகம்; தலைமுறை" },
+      "on": ["せ"],
+      "kun": ["よ"],
+      "mnemonic": {
+        "en": "Three tens (十 十 十) stand side by side, joined by a line at the bottom. Thirty years make one generation, and generation after generation makes the world.",
+        "ta": "மூன்று பத்துகள் (十 十 十) அருகருகே நின்று, கீழே ஒரு கோட்டால் இணைக்கப்பட்டுள்ளன. முப்பது ஆண்டுகள் ஒரு தலைமுறை; தலைமுறை தலைமுறையாகச் சேர்ந்தால் இந்த உலகம்."
+      },
+      "examples": [
+        { "word": "世界", "reading": "せかい", "en": "world", "ta": "உலகம்", "vocabId": "n4-v-172" },
+        { "word": "世話", "reading": "せわ", "en": "looking after, care", "ta": "கவனிப்பு, பராமரிப்பு", "vocabId": "n4-v-538" },
+        { "word": "世の中", "reading": "よのなか", "en": "society, the world", "ta": "சமூகம், உலகம்", "vocabId": "n3-v-1144" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU9-q01",
+        "type": "kanji_reading",
+        "sentence": "この 町は ＿工業＿が さかんです。",
+        "target": "工業",
+        "options": ["こうぎょ", "こうぎょう", "くぎょう", "こうごう"],
+        "answer": 1,
+        "explanation_en": "工業 is read こうぎょう (தொழில்துறை, industry). 業 has a long vowel: ぎょう, so こうぎょ is wrong.",
+        "explanation_ta": "工業 = こうぎょう (தொழில்துறை, industry). 業-இல் நீண்ட உயிர் உண்டு: ぎょう. எனவே こうぎょ தவறு."
+      },
+      {
+        "id": "KU9-q02",
+        "type": "kanji_reading",
+        "sentence": "わからない ときは ＿店員＿に 聞いて ください。",
+        "target": "店員",
+        "options": ["てにん", "てんえん", "みせいん", "てんいん"],
+        "answer": 3,
+        "explanation_en": "店員 is read てんいん (கடை ஊழியர், shop clerk). みせいん mixes the kun reading of 店 (みせ) with the on reading of 員.",
+        "explanation_ta": "店員 = てんいん (கடை ஊழியர், shop clerk). みせいん என்பது 店-இன் kun வாசிப்பையும் (みせ) 員-இன் on வாசிப்பையும் கலக்கிறது; அது தவறு."
+      },
+      {
+        "id": "KU9-q03",
+        "type": "kanji_reading",
+        "sentence": "あついですね。まどを ＿開けて＿ ください。",
+        "target": "開けて",
+        "options": ["あけて", "ひらけて", "しめて", "かいけて"],
+        "answer": 0,
+        "explanation_en": "開けて is read あけて (திறக்க, to open). ひらけて is not the form for opening a window; しめて means “close”.",
+        "explanation_ta": "開けて = あけて (திறக்க, to open). ஜன்னலைத் திறக்க ひらけて சரியல்ல; しめて என்றால் “மூடு”."
+      },
+      {
+        "id": "KU9-q04",
+        "type": "kanji_reading",
+        "sentence": "先生、＿質問＿が あります。",
+        "target": "質問",
+        "options": ["しつぶん", "しっもん", "しつもん", "しつもう"],
+        "answer": 2,
+        "explanation_en": "質問 is read しつもん (கேள்வி, question). しつぶん is a trap: ぶん is a reading of 聞, which looks like 問.",
+        "explanation_ta": "質問 = しつもん (கேள்வி, question). しつぶん ஒரு பொறி: ぶん என்பது 問 போலத் தெரியும் 聞-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU9-q05",
+        "type": "kanji_reading",
+        "sentence": "これは 古い ＿時代＿の 話です。",
+        "target": "時代",
+        "options": ["じたい", "しだい", "じだい", "じかん"],
+        "answer": 2,
+        "explanation_en": "時代 is read じだい (காலம், age / era). 代 here is voiced: だい, not たい.",
+        "explanation_ta": "時代 = じだい (காலம், age / era). இங்கே 代 என்பது だい (ஒலிப்புடன்), たい அல்ல."
+      },
+      {
+        "id": "KU9-q06",
+        "type": "kanji_reading",
+        "sentence": "わたしは ＿動物＿が だいすきです。",
+        "target": "動物",
+        "options": ["どうぶつ", "とうぶつ", "どぶつ", "どうもの"],
+        "answer": 0,
+        "explanation_en": "動物 is read どうぶつ (விலங்கு, animal). どぶつ is too short: 動 is どう with a long vowel.",
+        "explanation_ta": "動物 = どうぶつ (விலங்கு, animal). どぶつ மிகக் குறுகியது: 動 என்பது நீண்ட உயிருடன் どう."
+      },
+      {
+        "id": "KU9-q07",
+        "type": "kanji_reading",
+        "sentence": "あなたの ＿意見＿を 聞かせて ください。",
+        "target": "意見",
+        "options": ["いみ", "いげん", "えけん", "いけん"],
+        "answer": 3,
+        "explanation_en": "意見 is read いけん (கருத்து, opinion). いげん is wrong: 見 here is けん, not げん. いみ is another word (meaning).",
+        "explanation_ta": "意見 = いけん (கருத்து, opinion). いげん தவறு: இங்கே 見 என்பது けん, げん அல்ல. いみ வேறு சொல் (அர்த்தம்)."
+      },
+      {
+        "id": "KU9-q08",
+        "type": "kanji_reading",
+        "sentence": "＿今度＿ いっしょに えいがを 見ましょう。",
+        "target": "今度",
+        "options": ["こんと", "こんど", "いまど", "こんたび"],
+        "answer": 1,
+        "explanation_en": "今度 is read こんど (அடுத்த முறை, next time). こんと is wrong: 度 is voiced, ど.",
+        "explanation_ta": "今度 = こんど (அடுத்த முறை, next time). こんと தவறு: 度 ஒலிப்புடன் ど."
+      },
+      {
+        "id": "KU9-q09",
+        "type": "kanji_reading",
+        "sentence": "雨ですから、かさを ＿持って＿ 行きます。",
+        "target": "持って",
+        "options": ["もって", "まって", "もうって", "じって"],
+        "answer": 0,
+        "explanation_en": "持って is read もって (பிடித்துக்கொண்டு, holding / taking). まって is from 待つ (wait), a kanji that looks similar.",
+        "explanation_ta": "持って = もって (எடுத்துக்கொண்டு, holding / taking). まって என்பது 待つ (காத்திரு) இலிருந்து வருகிறது; அது தோற்றத்தில் ஒத்த வேறு கான்ஜி."
+      },
+      {
+        "id": "KU9-q10",
+        "type": "kanji_reading",
+        "sentence": "＿世界＿で いちばん 高い 山は どこですか。",
+        "target": "世界",
+        "options": ["よかい", "せいかい", "せかい", "せがい"],
+        "answer": 2,
+        "explanation_en": "世界 is read せかい (உலகம், world). せいかい has a long vowel that is not there; よかい uses the kun reading of 世.",
+        "explanation_ta": "世界 = せかい (உலகம், world). せいかい-இல் இல்லாத நீண்ட உயிர் உள்ளது; よかい 世-இன் kun வாசிப்பைப் பயன்படுத்துகிறது; இரண்டும் தவறு."
+      },
+      {
+        "id": "KU9-q11",
+        "type": "orthography",
+        "sentence": "この ＿もんだい＿は むずかしいです。",
+        "target": "もんだい",
+        "options": ["聞題", "問題", "間題", "門題"],
+        "answer": 1,
+        "explanation_en": "もんだい is 問題 (பிரச்சினை, problem). It has a mouth (口) in the gate. 聞 has an ear and 間 has a sun.",
+        "explanation_ta": "もんだい = 問題 (பிரச்சினை, problem). அதில் வாசலுக்குள் வாய் (口) உள்ளது. 聞-இல் காது, 間-இல் சூரியன்."
+      },
+      {
+        "id": "KU9-q12",
+        "type": "orthography",
+        "sentence": "この 時計は ＿うごきません＿。",
+        "target": "うごきません",
+        "options": ["働きません", "運きません", "重きません", "動きません"],
+        "answer": 3,
+        "explanation_en": "うごきません is 動きません (நகரவில்லை, does not move). 働 has an extra person (亻) and means “work”.",
+        "explanation_ta": "うごきません = 動きません (நகரவில்லை, does not move). 働-இல் கூடுதலாக ஒரு மனிதர் (亻) உள்ளார்; அதன் பொருள் “வேலை செய்”."
+      },
+      {
+        "id": "KU9-q13",
+        "type": "orthography",
+        "sentence": "この ことばの ＿いみ＿を 教えて ください。",
+        "target": "いみ",
+        "options": ["音味", "意未", "息味", "意味"],
+        "answer": 3,
+        "explanation_en": "いみ is 意味 (பொருள், meaning). 音 is only the top half of 意; 未 is missing the mouth (口) of 味.",
+        "explanation_ta": "いみ = 意味 (பொருள், meaning). 音 என்பது 意-இன் மேல் பாதி மட்டுமே; 未-இல் 味-இன் வாய் (口) இல்லை."
+      },
+      {
+        "id": "KU9-q14",
+        "type": "orthography",
+        "sentence": "土曜日に パーティーを ＿ひらきます＿。",
+        "target": "ひらきます",
+        "options": ["開きます", "閉きます", "問きます", "間きます"],
+        "answer": 0,
+        "explanation_en": "ひらきます is 開きます (நடத்துகிறேன், will hold / open). 閉 looks similar but means “close”.",
+        "explanation_ta": "ひらきます = 開きます (நடத்துவோம், will hold / open). 閉 பார்க்க ஒத்திருக்கும், ஆனால் அதன் பொருள் “மூடு”."
+      },
+      {
+        "id": "KU9-q15",
+        "type": "orthography",
+        "sentence": "わたしの ＿しゅじん＿は ぎんこうで はたらいて います。",
+        "target": "しゅじん",
+        "options": ["王人", "注人", "主人", "住人"],
+        "answer": 2,
+        "explanation_en": "しゅじん is 主人 (என் கணவர், my husband). 王 has no dot on top; 住人 is a different word (じゅうにん, resident).",
+        "explanation_ta": "しゅじん = 主人 (என் கணவர், my husband). 王-இல் மேலே புள்ளி இல்லை; 住人 வேறு சொல் (じゅうにん, குடியிருப்பவர்)."
+      },
+      {
+        "id": "KU9-q16",
+        "type": "orthography",
+        "sentence": "それは おもしろい ＿わだい＿ですね。",
+        "target": "わだい",
+        "options": ["話頭", "話題", "語題", "話顔"],
+        "answer": 1,
+        "explanation_en": "わだい is 話題 (பேச்சுப் பொருள், topic). 頭 and 顔 have the same right part (頁) as 題, but they are different kanji.",
+        "explanation_ta": "わだい = 話題 (பேச்சுப் பொருள், topic). 頭, 顔 இரண்டிலும் 題-இன் அதே வலப்பகுதி (頁) உள்ளது, ஆனால் அவை வேறு கான்ஜிகள்."
+      }
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 14,
+  "slug": "tokai-to-inaka",
+  "title": {
+   "ja": "都会に対して田舎は",
+   "ta": "நகரமும் கிராமமும்",
+   "en": "City and countryside"
+  },
+  "theme": {
+   "en": "Comparing city and countryside life: housing, farming and regions.",
+   "ta": "நகர வாழ்க்கையையும் கிராம வாழ்க்கையையும் ஒப்பிடுவது: வீடு, விவசாயம், பகுதிகள்."
+  },
+  "grammar": [
+   {
+    "id": "g14-1",
+    "pattern": "〜のに 対して",
+    "en": "Whereas ~ (contrast)"
+   },
+   {
+    "id": "g14-2",
+    "pattern": "〜一方(で)",
+    "en": "On the one hand ~ / while ~"
+   },
+   {
+    "id": "g14-3",
+    "pattern": "〜反面",
+    "en": "On the other hand (two sides of one thing)"
+   },
+   {
+    "id": "g14-4",
+    "pattern": "〜かわりに",
+    "en": "Instead of / in exchange for ~"
+   },
+   {
+    "id": "g14-5",
+    "pattern": "〜というより",
+    "en": "Rather than ~"
+   }
+  ],
+  "vocabHints": [
+   "city and town",
+   "countryside, farming and crops",
+   "regions and housing"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0072",
+   "expression": "芝生",
+   "reading": "しばふ",
+   "romaji": "shibafu",
+   "en": "lawn"
+  },
+  {
+   "id": "n3-v-0091",
+   "expression": "周囲",
+   "reading": "しゅうい",
+   "romaji": "shuui",
+   "en": "surroundings, circumference, environs"
+  },
+  {
+   "id": "n3-v-0092",
+   "expression": "収穫",
+   "reading": "しゅうかく",
+   "romaji": "shuukaku",
+   "en": "harvest, crop, ingathering"
+  },
+  {
+   "id": "n3-v-0117",
+   "expression": "首都",
+   "reading": "しゅと",
+   "romaji": "shuto",
+   "en": "capital city"
+  },
+  {
+   "id": "n3-v-0134",
+   "expression": "上京",
+   "reading": "じょうきょう",
+   "romaji": "joukyou",
+   "en": "proceeding to the capital (Tokyo)"
+  },
+  {
+   "id": "n3-v-0234",
+   "expression": "スタンド",
+   "reading": "スタンド",
+   "romaji": "sutando",
+   "en": "stand"
+  },
+  {
+   "id": "n3-v-0244",
+   "expression": "角",
+   "reading": "すみ",
+   "romaji": "sumi",
+   "en": "corner"
+  },
+  {
+   "id": "n3-v-0325",
+   "expression": "辺り",
+   "reading": "あたり",
+   "romaji": "atari",
+   "en": "vicinity, nearby"
+  },
+  {
+   "id": "n3-v-0328",
+   "expression": "あちこち",
+   "reading": "あちこち",
+   "romaji": "achikochi",
+   "en": "here and there"
+  },
+  {
+   "id": "n3-v-0389",
+   "expression": "位置",
+   "reading": "いち",
+   "romaji": "ichi",
+   "en": "place, position"
+  },
+  {
+   "id": "n3-v-0404",
+   "expression": "一方",
+   "reading": "いっぽう",
+   "romaji": "ippou",
+   "en": "on the other hand; meanwhile"
+  },
+  {
+   "id": "n3-v-0459",
+   "expression": "埋める",
+   "reading": "うめる",
+   "romaji": "umeru",
+   "en": "to bury, to fill up, to fill (a seat, a vacant position)"
+  },
+  {
+   "id": "n3-v-0498",
+   "expression": "大家",
+   "reading": "おおや",
+   "romaji": "ooya",
+   "en": "landlord"
+  },
+  {
+   "id": "n3-v-0730",
+   "expression": "逆",
+   "reading": "ぎゃく",
+   "romaji": "gyaku",
+   "en": "reverse, opposite"
+  },
+  {
+   "id": "n3-v-0819",
+   "expression": "郡",
+   "reading": "ぐん",
+   "romaji": "gun",
+   "en": "country, district"
+  },
+  {
+   "id": "n3-v-0853",
+   "expression": "県",
+   "reading": "けん",
+   "romaji": "ken",
+   "en": "prefecture"
+  },
+  {
+   "id": "n3-v-0864",
+   "expression": "建設",
+   "reading": "けんせつ",
+   "romaji": "kensetsu",
+   "en": "construction, foundation"
+  },
+  {
+   "id": "n3-v-0866",
+   "expression": "建築",
+   "reading": "けんちく",
+   "romaji": "kenchiku",
+   "en": "construction, architecture"
+  },
+  {
+   "id": "n3-v-0945",
+   "expression": "小屋",
+   "reading": "こや",
+   "romaji": "koya",
+   "en": "hut, cabin, shed"
+  },
+  {
+   "id": "n3-v-0971",
+   "expression": "境",
+   "reading": "さかい",
+   "romaji": "sakai",
+   "en": "border, boundary, mental state"
+  },
+  {
+   "id": "n3-v-0978",
+   "expression": "作物",
+   "reading": "さくもつ",
+   "romaji": "sakumotsu",
+   "en": "produce (e.g., agricultural), crops"
+  },
+  {
+   "id": "n3-v-1020",
+   "expression": "都",
+   "reading": "みやこ",
+   "romaji": "miyako",
+   "en": "city; capital"
+  },
+  {
+   "id": "n3-v-1028",
+   "expression": "向かい",
+   "reading": "むかい",
+   "romaji": "mukai",
+   "en": "facing, opposite, across"
+  },
+  {
+   "id": "n3-v-1094",
+   "expression": "家賃",
+   "reading": "やちん",
+   "romaji": "yachin",
+   "en": "rent"
+  },
+  {
+   "id": "n3-v-1222",
+   "expression": "一帯",
+   "reading": "いったい",
+   "romaji": "ittai",
+   "en": "a region, the whole place"
+  },
+  {
+   "id": "n3-v-1258",
+   "expression": "築く",
+   "reading": "きずく",
+   "romaji": "kizuku",
+   "en": "to build, to establish"
+  },
+  {
+   "id": "n3-v-1316",
+   "expression": "騒音",
+   "reading": "そうおん",
+   "romaji": "souon",
+   "en": "noise"
+  },
+  {
+   "id": "n3-v-1368",
+   "expression": "対照",
+   "reading": "たいしょう",
+   "romaji": "taishou",
+   "en": "contrast, antithesis, comparison"
+  },
+  {
+   "id": "n3-v-1409",
+   "expression": "立ち上がる",
+   "reading": "たちあがる",
+   "romaji": "tachiagaru",
+   "en": "to stand up"
+  },
+  {
+   "id": "n3-v-1411",
+   "expression": "建つ",
+   "reading": "たつ",
+   "romaji": "tatsu",
+   "en": "to stand; to be built (v.i.), to erect, to be erected"
+  },
+  {
+   "id": "n3-v-1453",
+   "expression": "地域",
+   "reading": "ちいき",
+   "romaji": "chiiki",
+   "en": "area, region"
+  },
+  {
+   "id": "n3-v-1457",
+   "expression": "地下",
+   "reading": "ちか",
+   "romaji": "chika",
+   "en": "basement, underground"
+  },
+  {
+   "id": "n3-v-1462",
+   "expression": "地区",
+   "reading": "ちく",
+   "romaji": "chiku",
+   "en": "district, section"
+  },
+  {
+   "id": "n3-v-1469",
+   "expression": "地方",
+   "reading": "ちほう",
+   "romaji": "chihou",
+   "en": "area, locality, region"
+  },
+  {
+   "id": "n3-v-1475",
+   "expression": "中央",
+   "reading": "ちゅうおう",
+   "romaji": "chuuou",
+   "en": "central, center, middle"
+  },
+  {
+   "id": "n3-v-1481",
+   "expression": "中心",
+   "reading": "ちゅうしん",
+   "romaji": "chuushin",
+   "en": "center, core"
+  },
+  {
+   "id": "n3-v-1517",
+   "expression": "土",
+   "reading": "つち",
+   "romaji": "tsuchi",
+   "en": "earth, soil"
+  },
+  {
+   "id": "n3-v-1592",
+   "expression": "都会",
+   "reading": "とかい",
+   "romaji": "tokai",
+   "en": "city"
+  },
+  {
+   "id": "n3-v-1610",
+   "expression": "都市",
+   "reading": "とし",
+   "romaji": "toshi",
+   "en": "town, city, urban"
+  },
+  {
+   "id": "n3-v-1616",
+   "expression": "土地",
+   "reading": "とち",
+   "romaji": "tochi",
+   "en": "plot of land, lot, soil"
+  },
+  {
+   "id": "n3-v-1646",
+   "expression": "流す",
+   "reading": "ながす",
+   "romaji": "nagasu",
+   "en": "to drain, to float, to shed (e.g., blood, tears)"
+  },
+  {
+   "id": "n3-v-1708",
+   "expression": "野",
+   "reading": "の",
+   "romaji": "no",
+   "en": "field"
+  },
+  {
+   "id": "n3-v-1710",
+   "expression": "農家",
+   "reading": "のうか",
+   "romaji": "nouka",
+   "en": "farmer, farm family"
+  },
+  {
+   "id": "n3-v-1711",
+   "expression": "農業",
+   "reading": "のうぎょう",
+   "romaji": "nougyou",
+   "en": "agriculture"
+  },
+  {
+   "id": "n3-v-1712",
+   "expression": "農民",
+   "reading": "のうみん",
+   "romaji": "noumin",
+   "en": "farmers, peasants"
+  },
+  {
+   "id": "n3-v-1715",
+   "expression": "軒",
+   "reading": "のき",
+   "romaji": "noki",
+   "en": "eaves"
+  },
+  {
+   "id": "n3-v-1735",
+   "expression": "場",
+   "reading": "ば",
+   "romaji": "ba",
+   "en": "place, field (physics)"
+  },
+  {
+   "id": "n3-v-1762",
+   "expression": "端",
+   "reading": "はし",
+   "romaji": "hashi",
+   "en": "end (e.g., of street), edge, margin"
+  },
+  {
+   "id": "n3-v-1771",
+   "expression": "畑",
+   "reading": "はたけ",
+   "romaji": "hatake",
+   "en": "field, patch"
+  },
+  {
+   "id": "n3-v-1798",
+   "expression": "原",
+   "reading": "はら",
+   "romaji": "hara",
+   "en": "field, plain"
+  },
+  {
+   "id": "n3-v-1914",
+   "expression": "塀",
+   "reading": "へい",
+   "romaji": "hei",
+   "en": "wall, fence"
+  },
+  {
+   "id": "n3-v-1924",
+   "expression": "ベンチ",
+   "reading": "ベンチ",
+   "romaji": "benchi",
+   "en": "bench"
+  },
+  {
+   "id": "n3-v-1936",
+   "expression": "方々",
+   "reading": "ほうぼう",
+   "romaji": "houbou",
+   "en": "here and there, everywhere"
+  },
+  {
+   "id": "n3-v-1956",
+   "expression": "堀",
+   "reading": "ほり",
+   "romaji": "hori",
+   "en": "moat, canal"
+  },
+  {
+   "id": "n3-v-1957",
+   "expression": "濠",
+   "reading": "ほり",
+   "romaji": "hori",
+   "en": "moat"
+  },
+  {
+   "id": "n3-v-1970",
+   "expression": "蒔く",
+   "reading": "まく",
+   "romaji": "maku",
+   "en": "to sow (seeds)"
+  },
+  {
+   "id": "n3-v-1971",
+   "expression": "撒く",
+   "reading": "まく",
+   "romaji": "maku",
+   "en": "to scatter, to sprinkle, to sow"
+  },
+  {
+   "id": "n3-v-1987",
+   "expression": "街",
+   "reading": "まち",
+   "romaji": "machi",
+   "en": "town; street, road"
+  },
+  {
+   "id": "n3-v-2082",
+   "expression": "棟",
+   "reading": "とう",
+   "romaji": "tou",
+   "en": "ridge (of roof"
+  }
+ ]
+}

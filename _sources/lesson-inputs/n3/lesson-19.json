@@ -1,0 +1,373 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 19,
+  "slug": "ame-ni-naru-to-no-koto",
+  "title": {
+   "ja": "雨になるとのことだ",
+   "ta": "மழை பெய்யும் என்று கேள்விப்பட்டேன்",
+   "en": "I hear it'll rain"
+  },
+  "theme": {
+   "en": "News, rumours and messages: passing on what you heard.",
+   "ta": "செய்திகள், வதந்திகள், தகவல்கள்: கேள்விப்பட்டதை மற்றவர்களுக்குச் சொல்வது."
+  },
+  "grammar": [
+   {
+    "id": "g19-1",
+    "pattern": "〜ということだ / 〜とのことだ",
+    "en": "I hear that ~ / I was told that ~"
+   },
+   {
+    "id": "g19-2",
+    "pattern": "〜とか",
+    "en": "I heard something like ~ (vague hearsay)"
+   },
+   {
+    "id": "g19-3",
+    "pattern": "〜という 話だ / 〜という 噂だ",
+    "en": "There's talk / a rumour that ~"
+   },
+   {
+    "id": "g19-4",
+    "pattern": "〜というのは 〜ことだ",
+    "en": "~ means ~ (definition)"
+   },
+   {
+    "id": "g19-5",
+    "pattern": "〜ということは",
+    "en": "That means ~ (inference)"
+   }
+  ],
+  "vocabHints": [
+   "news and the media",
+   "rumours and gossip",
+   "messages and information",
+   "incidents and events"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0012",
+   "expression": "騒ぎ",
+   "reading": "さわぎ",
+   "romaji": "sawagi",
+   "en": "uproar, disturbance"
+  },
+  {
+   "id": "n3-v-0034",
+   "expression": "事件",
+   "reading": "じけん",
+   "romaji": "jiken",
+   "en": "event, affair, incident"
+  },
+  {
+   "id": "n3-v-0116",
+   "expression": "出版",
+   "reading": "しゅっぱん",
+   "romaji": "shuppan",
+   "en": "publication"
+  },
+  {
+   "id": "n3-v-0135",
+   "expression": "状況",
+   "reading": "じょうきょう",
+   "romaji": "joukyou",
+   "en": "state of affairs, situation"
+  },
+  {
+   "id": "n3-v-0157",
+   "expression": "情報",
+   "reading": "じょうほう",
+   "romaji": "jouhou",
+   "en": "information, (military) intelligence"
+  },
+  {
+   "id": "n3-v-0223",
+   "expression": "すくなくとも",
+   "reading": "すくなくとも",
+   "romaji": "sukunakutomo",
+   "en": "at least"
+  },
+  {
+   "id": "n3-v-0342",
+   "expression": "表す",
+   "reading": "あらわす",
+   "romaji": "arawasu",
+   "en": "to express, to show"
+  },
+  {
+   "id": "n3-v-0344",
+   "expression": "著す",
+   "reading": "あらわす",
+   "romaji": "arawasu",
+   "en": "to write, to publish"
+  },
+  {
+   "id": "n3-v-0345",
+   "expression": "現れ",
+   "reading": "あらわれ",
+   "romaji": "araware",
+   "en": "expression, indication, sign"
+  },
+  {
+   "id": "n3-v-0433",
+   "expression": "インタビュー",
+   "reading": "インタビュー",
+   "romaji": "intabyuu",
+   "en": "interview"
+  },
+  {
+   "id": "n3-v-0463",
+   "expression": "噂",
+   "reading": "うわさ",
+   "romaji": "uwasa",
+   "en": "rumor, gossip"
+  },
+  {
+   "id": "n3-v-0620",
+   "expression": "語る",
+   "reading": "かたる",
+   "romaji": "kataru",
+   "en": "to talk, to tell, to recite"
+  },
+  {
+   "id": "n3-v-0650",
+   "expression": "空",
+   "reading": "から",
+   "romaji": "kara",
+   "en": "empty"
+  },
+  {
+   "id": "n3-v-0705",
+   "expression": "記事",
+   "reading": "きじ",
+   "romaji": "kiji",
+   "en": "article, news story"
+  },
+  {
+   "id": "n3-v-0707",
+   "expression": "記者",
+   "reading": "きしゃ",
+   "romaji": "kisha",
+   "en": "reporter"
+  },
+  {
+   "id": "n3-v-0830",
+   "expression": "掲示",
+   "reading": "けいじ",
+   "romaji": "keiji",
+   "en": "notice, bulletin"
+  },
+  {
+   "id": "n3-v-0930",
+   "expression": "国境",
+   "reading": "こっきょう",
+   "romaji": "kokkyou",
+   "en": "national or state border"
+  },
+  {
+   "id": "n3-v-1150",
+   "expression": "余裕",
+   "reading": "よゆう",
+   "romaji": "yoyuu",
+   "en": "excess; surplus"
+  },
+  {
+   "id": "n3-v-1250",
+   "expression": "刊行",
+   "reading": "かんこう",
+   "romaji": "kankou",
+   "en": "publication, issue"
+  },
+  {
+   "id": "n3-v-1270",
+   "expression": "経緯",
+   "reading": "けいい",
+   "romaji": "keii",
+   "en": "sequence of events, course"
+  },
+  {
+   "id": "n3-v-1376",
+   "expression": "大部分",
+   "reading": "だいぶぶん",
+   "romaji": "daibubun",
+   "en": "most part, majority"
+  },
+  {
+   "id": "n3-v-1438",
+   "expression": "便り",
+   "reading": "たより",
+   "romaji": "tayori",
+   "en": "news, correspondence, letter"
+  },
+  {
+   "id": "n3-v-1482",
+   "expression": "注目",
+   "reading": "ちゅうもく",
+   "romaji": "chuumoku",
+   "en": "notice, attention, observation"
+  },
+  {
+   "id": "n3-v-1501",
+   "expression": "通信",
+   "reading": "つうしん",
+   "romaji": "tsuushin",
+   "en": "correspondence, communications"
+  },
+  {
+   "id": "n3-v-1505",
+   "expression": "疲れ",
+   "reading": "つかれ",
+   "romaji": "tsukare",
+   "en": "tiredness, fatigue"
+  },
+  {
+   "id": "n3-v-1549",
+   "expression": "出来事",
+   "reading": "できごと",
+   "romaji": "dekigoto",
+   "en": "incident happening, event"
+  },
+  {
+   "id": "n3-v-1642",
+   "expression": "名",
+   "reading": "な",
+   "romaji": "na",
+   "en": "name, reputation"
+  },
+  {
+   "id": "n3-v-1657",
+   "expression": "無し",
+   "reading": "なし",
+   "romaji": "nashi",
+   "en": "without"
+  },
+  {
+   "id": "n3-v-1690",
+   "expression": "人気",
+   "reading": "にんき",
+   "romaji": "ninki",
+   "en": "popularity"
+  },
+  {
+   "id": "n3-v-1719",
+   "expression": "載せる",
+   "reading": "のせる",
+   "romaji": "noseru",
+   "en": "to place on (something); to publish"
+  },
+  {
+   "id": "n3-v-1730",
+   "expression": "述べる",
+   "reading": "のべる",
+   "romaji": "noberu",
+   "en": "to state, to express, to mention"
+  },
+  {
+   "id": "n3-v-1733",
+   "expression": "載る",
+   "reading": "のる",
+   "romaji": "noru",
+   "en": "to appear (in print), to be recorded"
+  },
+  {
+   "id": "n3-v-1775",
+   "expression": "発行",
+   "reading": "はっこう",
+   "romaji": "hakkou",
+   "en": "issue (publications)"
+  },
+  {
+   "id": "n3-v-1782",
+   "expression": "発表",
+   "reading": "はっぴょう",
+   "romaji": "happyou",
+   "en": "announcement; publication; presentation"
+  },
+  {
+   "id": "n3-v-1827",
+   "expression": "一言",
+   "reading": "ひとこと",
+   "romaji": "hitokoto",
+   "en": "one word"
+  },
+  {
+   "id": "n3-v-1842",
+   "expression": "表現",
+   "reading": "ひょうげん",
+   "romaji": "hyougen",
+   "en": "expression, presentation"
+  },
+  {
+   "id": "n3-v-1843",
+   "expression": "表情",
+   "reading": "ひょうじょう",
+   "romaji": "hyoujou",
+   "en": "facial expression"
+  },
+  {
+   "id": "n3-v-1893",
+   "expression": "ふと",
+   "reading": "ふと",
+   "romaji": "futo",
+   "en": "suddenly, accidentally, incidentally"
+  },
+  {
+   "id": "n3-v-1908",
+   "expression": "分",
+   "reading": "ぶん",
+   "romaji": "bun",
+   "en": "dividing, part, segment"
+  },
+  {
+   "id": "n3-v-1931",
+   "expression": "報告",
+   "reading": "ほうこく",
+   "romaji": "houkoku",
+   "en": "report, information"
+  },
+  {
+   "id": "n3-v-2031",
+   "expression": "申告",
+   "reading": "しんこく",
+   "romaji": "shinkoku",
+   "en": "report, statement"
+  },
+  {
+   "id": "n3-v-2040",
+   "expression": "声明",
+   "reading": "せいめい",
+   "romaji": "seimei",
+   "en": "declaration, statement, proclamation"
+  },
+  {
+   "id": "n3-v-2079",
+   "expression": "伝言",
+   "reading": "でんごん",
+   "romaji": "dengon",
+   "en": "verbal message"
+  },
+  {
+   "id": "n3-v-2107",
+   "expression": "版",
+   "reading": "はん",
+   "romaji": "han",
+   "en": "edition"
+  },
+  {
+   "id": "n3-v-2122",
+   "expression": "マスコミ",
+   "reading": "マスコミ",
+   "romaji": "masukomi",
+   "en": "mass communication"
+  },
+  {
+   "id": "n3-v-2128",
+   "expression": "メッセージ",
+   "reading": "メッセージ",
+   "romaji": "messeeji",
+   "en": "message"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+  "level": "n4",
+  "lessonCount": 30,
+  "note": "Builds on the full N5 course (all N5 grammar is assumed). Order follows the classic beginner book 2 progression: ～んです and polite requests, potential, transitive/intransitive and て-form aspect, volitional, guesses, imperative, ば/なら conditionals, ように, passive, nominalisers, giving and receiving in keigo, appearance and hearsay, causative, causative-passive, then honorific and humble keigo, with time clauses, casual speech and written style at the end. Every N4 grammar point appears in exactly one lesson; N5 points (たら, ても, と-conditional, ながら, ので, つもり, てあげる/てもらう/てくれる, etc.) are not repeated.",
+  "lessons": [
+    {
+      "n": 1,
+      "slug": "n-desu",
+      "title": { "ja": "どうしたんですか", "ta": "என்ன ஆச்சு?", "en": "What happened?" },
+      "theme": { "en": "Everyday situations: explaining why you are late, sleepy or worried; asking politely for help and advice.", "ta": "அன்றாடச் சூழல்கள்: தாமதம், தூக்கம், கவலைக்குக் காரணம் சொல்வது; பணிவாக உதவியும் ஆலோசனையும் கேட்பது." },
+      "grammar": [
+        { "id": "g01-1", "pattern": "plain form + んです", "en": "Explaining a reason or situation; asking for an explanation (〜んですか)" },
+        { "id": "g01-2", "pattern": "〜んですが、〜", "en": "Opening a topic or request softly: 'The thing is …, (could you …)'" },
+        { "id": "g01-3", "pattern": "V-ていただけませんか", "en": "Could you please … (very polite request)" },
+        { "id": "g01-4", "pattern": "question word + V-たらいいですか", "en": "What / where / how should I …? (asking for advice)" },
+        { "id": "g01-5", "pattern": "V-てもらえませんか / V-てくれませんか", "en": "Could you … for me? (polite and friendly requests)" }
+      ],
+      "vocabHints": ["reasons and excuses", "feelings: worried, sleepy, sorry", "appointments and errands", "time words: a while, long time no see"]
+    },
+    {
+      "n": 2,
+      "slug": "kanoukei",
+      "title": { "ja": "日本語が話せます", "ta": "ஜப்பானிய மொழி பேச முடியும்", "en": "I can speak Japanese" },
+      "theme": { "en": "Hobbies and abilities: music, reading, dancing, languages; what you can see and hear.", "ta": "பொழுதுபோக்கும் திறமைகளும்: இசை, வாசிப்பு, நடனம், மொழிகள்; என்ன பார்க்க, கேட்க முடிகிறது." },
+      "grammar": [
+        { "id": "g02-1", "pattern": "Potential form (V-える / V-られる / 来られる / できる)", "en": "Can do: how to make the potential form of all verb groups" },
+        { "id": "g02-2", "pattern": "N が V-potential", "en": "The object of a potential verb usually takes が: 漢字が読めます" },
+        { "id": "g02-3", "pattern": "見えます / 聞こえます", "en": "Something is visible / audible (happens by itself)" },
+        { "id": "g02-4", "pattern": "N が できます (be built / be ready)", "en": "できる meaning 'be made, be completed, open up'" },
+        { "id": "g02-5", "pattern": "N しか V-ない", "en": "Only / nothing but (always with a negative verb)" },
+        { "id": "g02-6", "pattern": "N は (contrast)", "en": "は to contrast one thing with another: ひらがなは書けますが、漢字は書けません" }
+      ],
+      "vocabHints": ["hobbies: comics, novels, piano, concerts, dance", "language study: pronunciation, grammar, dictionary", "sound and sight", "fishing and leisure"]
+    },
+    {
+      "n": 3,
+      "slug": "shi-shi",
+      "title": { "ja": "静かだし、便利だし", "ta": "அமைதியாகவும் இருக்கு, வசதியாகவும் இருக்கு", "en": "It's quiet, and convenient too" },
+      "theme": { "en": "Choosing where to live: neighbourhood, town or countryside, boarding houses, moving house.", "ta": "எங்கே வசிப்பது: சுற்றுப்புறம், நகரம் அல்லது கிராமம், தங்கும் விடுதி, வீடு மாற்றுவது." },
+      "grammar": [
+        { "id": "g03-1", "pattern": "plain form し、plain form し、〜", "en": "Listing several reasons: 'and also …, and …'" },
+        { "id": "g03-2", "pattern": "それに", "en": "Besides, moreover (adding another point)" },
+        { "id": "g03-3", "pattern": "それで", "en": "So, that's why (result of what was just said)" },
+        { "id": "g03-4", "pattern": "quantity + も", "en": "As many / as much as (emphasising a large amount): 1時間も" },
+        { "id": "g03-5", "pattern": "N でも V-ませんか", "en": "Shall we … or something? (soft suggestion with でも)" }
+      ],
+      "vocabHints": ["housing: tatami, building, rooftop, storeys", "town, ward, suburbs, countryside", "neighbourhood and surroundings", "moving house, commuting"]
+    },
+    {
+      "n": 4,
+      "slug": "jidoushi-tadoushi",
+      "title": { "ja": "窓が割れてしまいました", "ta": "சன்னல் உடைந்துவிட்டது", "en": "The window got broken" },
+      "theme": { "en": "Around the house: things that break, open, switch on, get dirty; tidying up and small accidents.", "ta": "வீட்டைச் சுற்றி: உடைவது, திறப்பது, எரிவது, அழுக்காவது; ஒழுங்குபடுத்துவதும் சின்ன விபத்துகளும்." },
+      "grammar": [
+        { "id": "g04-1", "pattern": "Vi / Vt pairs (開く・開ける, 壊れる・壊す …)", "en": "Intransitive (it happens) vs transitive (someone does it) verb pairs" },
+        { "id": "g04-2", "pattern": "N が Vi-ています (resulting state)", "en": "Describing a state that results from a change: 窓が割れています" },
+        { "id": "g04-3", "pattern": "V-てしまいます (completion)", "en": "Do completely / finish off" },
+        { "id": "g04-4", "pattern": "V-てしまいました (regret)", "en": "Something unfortunate happened / I did it by mistake" },
+        { "id": "g04-5", "pattern": "V-ちゃう / V-じゃう", "en": "Casual contraction of てしまう / でしまう" }
+      ],
+      "vocabHints": ["household items: futon, closet, drawer, shelf, curtain", "breaking, falling, getting dirty", "fixing and tidying", "lights and switches"]
+    },
+    {
+      "n": 5,
+      "slug": "te-aru-te-oku",
+      "title": { "ja": "準備しておきます", "ta": "முன்கூட்டியே தயார் செய்கிறேன்", "en": "I'll get it ready in advance" },
+      "theme": { "en": "Preparing for a trip or party: bookings, packing, decorating, meeting people at the airport.", "ta": "பயணம் அல்லது விருந்துக்குத் தயாராவது: முன்பதிவு, பொருட்களை அடுக்குவது, அலங்காரம், விமான நிலையத்தில் வரவேற்பது." },
+      "grammar": [
+        { "id": "g05-1", "pattern": "N が Vt-てあります", "en": "Something has been done (on purpose) and stays that way" },
+        { "id": "g05-2", "pattern": "V-ておきます (preparation)", "en": "Do something in advance, as preparation" },
+        { "id": "g05-3", "pattern": "V-ておきます (leave as it is)", "en": "Leave something in a state: そのままにしておいてください" },
+        { "id": "g05-4", "pattern": "まだ V-ています", "en": "Still doing / still in that state" }
+      ],
+      "vocabHints": ["travel: airport, express train, inn, suitcase", "reservation, preparation, check", "decorating and setting up a venue", "souvenirs"]
+    },
+    {
+      "n": 6,
+      "slug": "ikoukei",
+      "title": { "ja": "留学しようと思っています", "ta": "வெளிநாட்டில் படிக்க நினைக்கிறேன்", "en": "I'm thinking of studying abroad" },
+      "theme": { "en": "Plans for the future: study, entrance exams, careers, dreams.", "ta": "எதிர்காலத் திட்டங்கள்: படிப்பு, நுழைவுத் தேர்வு, வேலை, கனவுகள்." },
+      "grammar": [
+        { "id": "g06-1", "pattern": "Volitional form (V-おう / V-よう)", "en": "How to make the volitional ('let's', 'I will') form" },
+        { "id": "g06-2", "pattern": "V-volitional (casual 'let's')", "en": "Let's … in plain speech: 行こう、食べよう" },
+        { "id": "g06-3", "pattern": "V-volitional と思っています", "en": "I'm thinking of … / I intend to … (a plan you have had for a while)" },
+        { "id": "g06-4", "pattern": "V-volitional とします", "en": "Try to … / be about to …" },
+        { "id": "g06-5", "pattern": "まだ V-ていません", "en": "Have not done … yet" }
+      ],
+      "vocabHints": ["future, plans, dreams", "university, faculty, entrance, graduation", "jobs: public servant, specialist", "time: month after next, from now on"]
+    },
+    {
+      "n": 7,
+      "slug": "kamoshiremasen",
+      "title": { "ja": "雨が降るかもしれません", "ta": "மழை பெய்யலாம்", "en": "It might rain" },
+      "theme": { "en": "Weather, seasons and nature: forecasts, typhoons, stars, forests and the seaside.", "ta": "வானிலை, பருவங்கள், இயற்கை: வானிலை முன்னறிவிப்பு, புயல், நட்சத்திரங்கள், காடு, கடற்கரை." },
+      "grammar": [
+        { "id": "g07-1", "pattern": "plain form かもしれません", "en": "Might / may (about 50% sure)" },
+        { "id": "g07-2", "pattern": "plain form だろう / だろうと思います", "en": "Plain form of でしょう: probably; I think it will probably …" },
+        { "id": "g07-3", "pattern": "きっと / たぶん / もしかしたら", "en": "Adverbs of certainty: surely / probably / perhaps" },
+        { "id": "g07-4", "pattern": "plain form はずです", "en": "Should be / is expected to be (based on facts)" },
+        { "id": "g07-5", "pattern": "plain form はずがありません", "en": "There is no way that …; it cannot be" }
+      ],
+      "vocabHints": ["weather: typhoon, clouds, forecast, cold", "nature: forest, leaves, grass, insects", "sky: sun, moon, stars, light", "seasons and evenings"]
+    },
+    {
+      "n": 8,
+      "slug": "meireikei",
+      "title": { "ja": "止まれ", "ta": "நில்!", "en": "Stop!" },
+      "theme": { "en": "Rules, road signs and traffic: driving, motorbikes, parking, transferring trains.", "ta": "விதிகள், சாலை அடையாளங்கள், போக்குவரத்து: வாகனம் ஓட்டுவது, பைக், வாகன நிறுத்தம், ரயில் மாறுவது." },
+      "grammar": [
+        { "id": "g08-1", "pattern": "Imperative form (V-え / V-ろ / しろ / 来い)", "en": "Commands: signs, shouting, sports, rough speech" },
+        { "id": "g08-2", "pattern": "V-dictionary な", "en": "Don't …! (prohibition)" },
+        { "id": "g08-3", "pattern": "V-ます stem なさい", "en": "Do … (parent / teacher giving an instruction)" },
+        { "id": "g08-4", "pattern": "N は 〜と 読みます / 〜という 意味です", "en": "Reading signs: 'is read as …' / 'means …'" },
+        { "id": "g08-5", "pattern": "〜と 言っていました / 〜と 伝えていただけませんか", "en": "Passing on a message: '(X) said …' / 'could you tell (X) …'" },
+        { "id": "g08-6", "pattern": "N1 という N2", "en": "An N2 called N1: 『さくら』という店" }
+      ],
+      "vocabHints": ["traffic: driver, motorbike, parking, petrol station", "rules, law, caution, garbage rules", "on the road: pass, turn, get off, on the way", "transfers and crowded trains"]
+    },
+    {
+      "n": 9,
+      "slug": "toori-ni",
+      "title": { "ja": "説明書のとおりに作ります", "ta": "குறிப்பின்படி செய்கிறேன்", "en": "Make it as the instructions say" },
+      "theme": { "en": "Cooking and following instructions: recipes, tools, steps, mistakes in the kitchen.", "ta": "சமையலும் வழிமுறைகளைப் பின்பற்றுவதும்: சமையல் குறிப்பு, கருவிகள், படிகள், சமையலறைத் தவறுகள்." },
+      "grammar": [
+        { "id": "g09-1", "pattern": "V-た / N の とおりに", "en": "Exactly as …, following …" },
+        { "id": "g09-2", "pattern": "V-て / V-ないで V (manner)", "en": "Doing V in a certain way: with / without (砂糖を入れないで飲む)" },
+        { "id": "g09-3", "pattern": "V1-ないで、V2 (instead)", "en": "Do V2 instead of V1" },
+        { "id": "g09-4", "pattern": "V-ずに", "en": "Without doing (more formal ないで); せずに for する" },
+        { "id": "g09-5", "pattern": "V-ます stem + 方", "en": "How to …, the way of …ing: 作り方" }
+      ],
+      "vocabHints": ["cooking: grill, boil, pickle, miso, jam, rice", "steps: first, add, lower, middle", "tools and shapes", "easy, complicated, mistake"]
+    },
+    {
+      "n": 10,
+      "slug": "ba-jouken",
+      "title": { "ja": "安ければ買います", "ta": "மலிவாக இருந்தால் வாங்குவேன்", "en": "If it's cheap, I'll buy it" },
+      "theme": { "en": "Shopping for electronics and groceries: prices, sales floors, broken goods, paying.", "ta": "மின்னணுப் பொருட்களும் மளிகையும் வாங்குவது: விலை, விற்பனைப் பகுதி, பழுதான பொருள், பணம் செலுத்துவது." },
+      "grammar": [
+        { "id": "g10-1", "pattern": "ば-form conditional (V-ば / い-adj-ければ / な-adj・N なら)", "en": "If … (condition for a result); also V-ばいいですか 'what should I do'" },
+        { "id": "g10-2", "pattern": "N なら、〜", "en": "If it's about N / speaking of N (advice on a topic someone raised)" },
+        { "id": "g10-3", "pattern": "V-ば V-dict ほど", "en": "The more …, the more …" },
+        { "id": "g10-4", "pattern": "N も 〜ば、N も 〜", "en": "Both … and … (listing good points)" },
+        { "id": "g10-5", "pattern": "V-ばよかった", "en": "I should have … (regret)" },
+        { "id": "g10-6", "pattern": "V-たらどうですか", "en": "Why don't you …? (suggestion)" }
+      ],
+      "vocabHints": ["shops: supermarket, sales floor, register, clerk, change", "electronics: computer, software, stereo, made in ~", "numbers: double, more than, less than, within", "price, paying, breakdown"]
+    },
+    {
+      "n": 11,
+      "slug": "you-ni",
+      "title": { "ja": "毎日運動するようにしています", "ta": "தினமும் உடற்பயிற்சி செய்ய முயல்கிறேன்", "en": "I try to exercise every day" },
+      "theme": { "en": "Health and habits: the doctor, hospital, injections, diet, getting better.", "ta": "உடல்நலமும் பழக்கங்களும்: மருத்துவர், மருத்துவமனை, ஊசி, உணவுக் கட்டுப்பாடு, குணமடைவது." },
+      "grammar": [
+        { "id": "g11-1", "pattern": "V-dict / V-ない ように、〜", "en": "So that … / in order that … (goal you cannot control directly)" },
+        { "id": "g11-2", "pattern": "V-dict ように なります", "en": "Come to be able to / start to (gradual change)" },
+        { "id": "g11-3", "pattern": "V-なく なります", "en": "Become unable to / stop doing" },
+        { "id": "g11-4", "pattern": "V-dict / V-ない ように しています", "en": "Make a point of …, try to (habit)" },
+        { "id": "g11-5", "pattern": "V-dict / V-ない ように してください", "en": "Please be sure to … / please try not to …" },
+        { "id": "g11-6", "pattern": "V-dict / V-ない ように 言います / 頼みます", "en": "Tell / ask someone to (not) do …" },
+        { "id": "g11-7", "pattern": "V-ますように", "en": "Wishing: I hope …; may …" }
+      ],
+      "vocabHints": ["body: throat, neck, back, finger, blood", "hospital: dentist, nurse, injection, admitted, discharged", "fever, condition, getting better", "habits: diet, as much as possible, always"]
+    },
+    {
+      "n": 12,
+      "slug": "ukemi",
+      "title": { "ja": "財布を盗まれました", "ta": "என் பணப்பை திருடப்பட்டது", "en": "My wallet was stolen" },
+      "theme": { "en": "Troubles and accidents: thieves, pickpockets, injuries, the police.", "ta": "பிரச்சினைகளும் விபத்துகளும்: திருடர்கள், பிக்பாக்கெட், காயம், காவல்துறை." },
+      "grammar": [
+        { "id": "g12-1", "pattern": "Passive form (V-られる / V-れる)", "en": "How to make the passive form of all verb groups" },
+        { "id": "g12-2", "pattern": "N1 は N2 に V-passive", "en": "Direct passive: X is (done to) by Y — 先生に褒められました" },
+        { "id": "g12-3", "pattern": "N1 は N2 に N3 を V-passive", "en": "Someone's belonging or body part is affected: 足を踏まれました" },
+        { "id": "g12-4", "pattern": "N1 に V-passive (suffering passive)", "en": "Being troubled by something: 雨に降られました" }
+      ],
+      "vocabHints": ["crime: thief, pickpocket, steal, catch, police", "accidents: injury, slip, break a bone", "trouble: bully, make noise, step on", "apologising"]
+    },
+    {
+      "n": 13,
+      "slug": "no-koto",
+      "title": { "ja": "子どものころ、遊ぶのが好きでした", "ta": "சிறுவயதில் விளையாடுவது பிடிக்கும்", "en": "As a child I loved playing" },
+      "theme": { "en": "Memories and family: childhood, grandparents, old days, diaries.", "ta": "நினைவுகளும் குடும்பமும்: குழந்தைப் பருவம், தாத்தா பாட்டி, பழைய காலம், நாட்குறிப்பு." },
+      "grammar": [
+        { "id": "g13-1", "pattern": "V-plain の は adj です", "en": "Doing … is (fun / hard …): 子どもと遊ぶのは楽しいです" },
+        { "id": "g13-2", "pattern": "V-plain の を 忘れました", "en": "Forgot to …" },
+        { "id": "g13-3", "pattern": "plain form の を 知っていますか", "en": "Do you know that …?" },
+        { "id": "g13-4", "pattern": "plain form の は N です", "en": "Focusing on one part: 生まれたのは大阪です" },
+        { "id": "g13-5", "pattern": "adj-stem + さ", "en": "Turning an adjective into a noun: 高さ, 大きさ, 便利さ" }
+      ],
+      "vocabHints": ["family: husband, wife, son, daughter, grandparents, baby", "the past: old days, era, the other day", "toys, dolls, play", "remembering, diary, life and death"]
+    },
+    {
+      "n": 14,
+      "slug": "kimochi",
+      "title": { "ja": "ニュースを聞いて、びっくりしました", "ta": "செய்தியைக் கேட்டு ஆச்சரியப்பட்டேன்", "en": "I was surprised to hear the news" },
+      "theme": { "en": "Feelings and reactions: surprise, sadness, fear, joy; an earthquake experience.", "ta": "உணர்வுகளும் எதிர்வினைகளும்: ஆச்சரியம், சோகம், பயம், மகிழ்ச்சி; நிலநடுக்க அனுபவம்." },
+      "grammar": [
+        { "id": "g14-1", "pattern": "V-て / い-adj-くて / な-adj で、〜 (cause)", "en": "Cause of a feeling or result: 聞いて、驚きました" },
+        { "id": "g14-2", "pattern": "N で (cause)", "en": "Because of N: 地震で電車が止まりました" },
+        { "id": "g14-3", "pattern": "plain form / N の ため(に) (reason)", "en": "Because of (formal, notices and news)" },
+        { "id": "g14-4", "pattern": "adj-stem がります / がっています", "en": "Someone else seems to feel …: 寂しがっています" },
+        { "id": "g14-5", "pattern": "N に V-てほしい / V-ないでほしい", "en": "I want someone to (not) do …" }
+      ],
+      "vocabHints": ["emotions: sad, scary, lonely, glad, embarrassed", "reactions: cry, laugh, get angry, be surprised", "earthquake, shaking", "heart, mood, thanks to"]
+    },
+    {
+      "n": 15,
+      "slug": "ka-dou-ka",
+      "title": { "ja": "届いたかどうか調べます", "ta": "வந்துசேர்ந்ததா என்று பார்க்கிறேன்", "en": "I'll check whether it arrived" },
+      "theme": { "en": "Lost and found, deliveries and enquiries: looking for things, contacting people, checking facts.", "ta": "தொலைந்ததும் கிடைத்ததும், அனுப்புதல், விசாரணை: பொருட்களைத் தேடுவது, தொடர்புகொள்வது, உண்மையைச் சரிபார்ப்பது." },
+      "grammar": [
+        { "id": "g15-1", "pattern": "question word + plain form か、〜", "en": "Embedded question: 何時に来るか、わかりません" },
+        { "id": "g15-2", "pattern": "plain form か どうか、〜", "en": "Whether or not …" },
+        { "id": "g15-3", "pattern": "V-てみます", "en": "Try doing … (to see what happens)" },
+        { "id": "g15-4", "pattern": "〜かな / 〜かしら", "en": "I wonder … (talking to yourself)" },
+        { "id": "g15-5", "pattern": "plain form の？ (casual question)", "en": "Casual question asking for an explanation: どこ行くの？" }
+      ],
+      "vocabHints": ["lost property: lose, look for, find, be found", "contact: notify, reply, send, deliver", "address, explanation, enquiry", "certain, clearly"]
+    },
+    {
+      "n": 16,
+      "slug": "itadakimasu",
+      "title": { "ja": "先生に本をいただきました", "ta": "ஆசிரியரிடமிருந்து புத்தகம் பெற்றேன்", "en": "I received a book from my teacher" },
+      "theme": { "en": "Gifts, celebrations and visits: New Year, ceremonies, invitations, visiting someone's home.", "ta": "பரிசுகள், கொண்டாட்டங்கள், வருகைகள்: புத்தாண்டு, விழாக்கள், அழைப்புகள், ஒருவர் வீட்டுக்குச் செல்வது." },
+      "grammar": [
+        { "id": "g16-1", "pattern": "いただきます / くださいます / やります", "en": "Polite and plain verbs of giving and receiving (to/from superiors, to animals and plants)" },
+        { "id": "g16-2", "pattern": "差し上げます", "en": "Humble 'give' (to a superior)" },
+        { "id": "g16-3", "pattern": "V-ていただきます", "en": "Have a superior do something for me" },
+        { "id": "g16-4", "pattern": "V-てくださいます", "en": "A superior kindly does something for me" },
+        { "id": "g16-5", "pattern": "V-てやります", "en": "Do something for a younger person, animal or plant" },
+        { "id": "g16-6", "pattern": "V-てくださいませんか", "en": "Would you kindly … (polite request)" }
+      ],
+      "vocabHints": ["gifts: present, celebration, thanks, wrap", "events: New Year, ceremony, invitation", "visiting: someone's home, husband, daughter, children", "kindness, reserve, intrusion"]
+    },
+    {
+      "n": 17,
+      "slug": "tame-ni",
+      "title": { "ja": "家を買うために貯金しています", "ta": "வீடு வாங்குவதற்காகச் சேமிக்கிறேன்", "en": "I'm saving to buy a house" },
+      "theme": { "en": "Work, money and decisions: part-time jobs, skills, factories, saving up.", "ta": "வேலை, பணம், முடிவுகள்: பகுதிநேர வேலை, திறன்கள், தொழிற்சாலை, சேமிப்பு." },
+      "grammar": [
+        { "id": "g17-1", "pattern": "V-dict / N の ために (purpose / benefit)", "en": "In order to … / for the sake of …" },
+        { "id": "g17-2", "pattern": "V-dict の に / N に 使います・必要です・いいです", "en": "Used for / needed for / good for …" },
+        { "id": "g17-3", "pattern": "V-dict / V-ない ことに します", "en": "Decide to (not) … (my own decision)" },
+        { "id": "g17-4", "pattern": "V-dict / V-ない ことに しています", "en": "Have made it a rule to …" },
+        { "id": "g17-5", "pattern": "V-dict / V-ない ことに なります / なっています", "en": "It has been decided (by others) that …; it is the rule that …" }
+      ],
+      "vocabHints": ["work: part-time job, factory, skill, experience", "money: rich person, enough, necessary", "deciding, consulting", "useful, free, substitute"]
+    },
+    {
+      "n": 18,
+      "slug": "sou-desu-youtai",
+      "title": { "ja": "おいしそうですね", "ta": "சுவையாக இருக்கும் போலிருக்கு", "en": "That looks delicious" },
+      "theme": { "en": "Food and restaurants: taste, smell, texture, ordering and treating friends.", "ta": "உணவும் உணவகங்களும்: சுவை, மணம், மென்மை, ஆர்டர் செய்வது, நண்பர்களுக்கு விருந்தளிப்பது." },
+      "grammar": [
+        { "id": "g18-1", "pattern": "V-ます stem そうです", "en": "Looks like it is about to …: 雨が降りそうです" },
+        { "id": "g18-2", "pattern": "い-adj / な-adj stem そうです (そうな N / そうに V)", "en": "Looks … (judging by appearance): おいしそうなケーキ" },
+        { "id": "g18-3", "pattern": "なさそう / よさそう", "en": "Looks like it isn't … / looks good (special forms)" },
+        { "id": "g18-4", "pattern": "V-てきます (go and come back)", "en": "Go, do something and come back: 飲み物を買ってきます" }
+      ],
+      "vocabHints": ["taste: bitter, delicious, soft, hard, smell", "Western food: steak, salad, sandwich", "meal, treat, alcohol, full", "biting and chewing, leftovers"]
+    },
+    {
+      "n": 19,
+      "slug": "sugiru-yasui",
+      "title": { "ja": "このスーツは大きすぎます", "ta": "இந்த உடை மிகவும் பெரியது", "en": "This suit is too big" },
+      "theme": { "en": "Clothes and fashion: suits, kimono, accessories, sizes, choosing and exchanging.", "ta": "உடைகளும் நாகரிகமும்: சூட், கிமோனோ, அணிகலன்கள், அளவுகள், தேர்ந்தெடுப்பதும் மாற்றுவதும்." },
+      "grammar": [
+        { "id": "g19-1", "pattern": "V-ます stem / adj-stem すぎます", "en": "Too much / too … (overdoing it)" },
+        { "id": "g19-2", "pattern": "V-ます stem やすいです / にくいです", "en": "Easy to … / hard to …" },
+        { "id": "g19-3", "pattern": "い-adj-く / な-adj に / N に します", "en": "Make something … (change it on purpose): 短くします" },
+        { "id": "g19-4", "pattern": "N に します (choose)", "en": "I'll take / choose N" }
+      ],
+      "vocabHints": ["clothes: suit, kimono, underwear, gloves, sandals", "materials: silk, cotton, thread", "accessories: ring, mirror, hair, beard", "fit, choose, exchange, style"]
+    },
+    {
+      "n": 20,
+      "slug": "baai-noni",
+      "title": { "ja": "火事の場合は、119番に電話してください", "ta": "தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள்", "en": "In case of fire, call 119" },
+      "theme": { "en": "Emergencies and safety at home: fire, gas, water, heating, danger and complaints.", "ta": "அவசரநிலைகளும் வீட்டுப் பாதுகாப்பும்: தீ, எரிவாயு, தண்ணீர், வெப்பமூட்டி, ஆபத்து, புகார்கள்." },
+      "grammar": [
+        { "id": "g20-1", "pattern": "plain form / N の 場合は、〜", "en": "In case of …, if … happens" },
+        { "id": "g20-2", "pattern": "plain form のに、〜", "en": "Even though … (surprise, complaint, disappointment)" },
+        { "id": "g20-3", "pattern": "V-ても / adj-くても かまいません", "en": "It's all right even if …; I don't mind if …" },
+        { "id": "g20-4", "pattern": "V-ないといけません", "en": "Must … (spoken)" },
+        { "id": "g20-5", "pattern": "V-なくちゃ / V-なきゃ", "en": "Gotta … (casual short forms of 'must')" }
+      ],
+      "vocabHints": ["home utilities: gas, water, electric light, heating, air conditioning", "danger: fire, cause, collapse", "safety and relief", "bells and alarms"]
+    },
+    {
+      "n": 21,
+      "slug": "tokoro",
+      "title": { "ja": "今、宿題をしているところです", "ta": "இப்போது வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்", "en": "I'm doing my homework right now" },
+      "theme": { "en": "Study and daily schedule: classes, homework, preview and review, being on time.", "ta": "படிப்பும் தினசரி அட்டவணையும்: வகுப்புகள், வீட்டுப்பாடம், முன்தயாரிப்பு, மீள்பார்வை, நேரத்துக்கு வருவது." },
+      "grammar": [
+        { "id": "g21-1", "pattern": "V-dict ところです", "en": "About to …" },
+        { "id": "g21-2", "pattern": "V-ている ところです", "en": "In the middle of …ing" },
+        { "id": "g21-3", "pattern": "V-た ところです", "en": "Have just … (a moment ago)" },
+        { "id": "g21-4", "pattern": "V-た ばかりです", "en": "Only just … (feels recent to the speaker)" },
+        { "id": "g21-5", "pattern": "V-ます stem 始めます / 出します", "en": "Start …ing / suddenly start …ing" },
+        { "id": "g21-6", "pattern": "V-ます stem 終わります / 続けます", "en": "Finish …ing / keep on …ing" }
+      ],
+      "vocabHints": ["study: preview, review, textbook, eraser", "time: a moment ago, at last, soon, daytime, lunch break", "start, continue, finish, end", "hurry, be in time"]
+    },
+    {
+      "n": 22,
+      "slug": "denbun-youda",
+      "title": { "ja": "ニュースによると、物価が上がるそうです", "ta": "செய்தியின்படி விலைவாசி உயருமாம்", "en": "The news says prices will rise" },
+      "theme": { "en": "News and society: the economy, trade, industry, politics, broadcasting.", "ta": "செய்திகளும் சமூகமும்: பொருளாதாரம், வர்த்தகம், தொழில்துறை, அரசியல், ஒளிபரப்பு." },
+      "grammar": [
+        { "id": "g22-1", "pattern": "plain form そうです (hearsay)", "en": "I heard that … / they say …" },
+        { "id": "g22-2", "pattern": "N に よると、〜", "en": "According to N" },
+        { "id": "g22-3", "pattern": "plain form / N の ようです", "en": "It seems that … (judging from what I see or know)" },
+        { "id": "g22-4", "pattern": "plain form / N みたいです", "en": "Looks like / seems (casual ようです)" },
+        { "id": "g22-5", "pattern": "plain form らしいです", "en": "Apparently … (based on what I heard)" },
+        { "id": "g22-6", "pattern": "N1 らしい N2", "en": "Typical of / just like a real N1: 男らしい人" }
+      ],
+      "vocabHints": ["economy: trade, import, export, industry, production", "society: population, citizens, politics, war", "media: newscaster, broadcast, programme, newspaper company", "increase, rise, opinion"]
+    },
+    {
+      "n": 23,
+      "slug": "you-na",
+      "title": { "ja": "日本は私の国ほど暑くないです", "ta": "ஜப்பான் என் நாட்டைப் போல் சூடாக இல்லை", "en": "Japan isn't as hot as my country" },
+      "theme": { "en": "Comparing countries and cultures: customs, the West and Asia, men and women.", "ta": "நாடுகளையும் கலாச்சாரங்களையும் ஒப்பிடுவது: பழக்கவழக்கங்கள், மேற்கும் ஆசியாவும், ஆண்களும் பெண்களும்." },
+      "grammar": [
+        { "id": "g23-1", "pattern": "N のような N / N のように V", "en": "Like N, such as N (comparison and example)" },
+        { "id": "g23-2", "pattern": "N1 は N2 ほど 〜ない", "en": "N1 is not as … as N2" },
+        { "id": "g23-3", "pattern": "N1 と 同じ / N1 と 違います", "en": "The same as / different from N1" },
+        { "id": "g23-4", "pattern": "〜とか、〜とか", "en": "Things like … and … (casual listing)" },
+        { "id": "g23-5", "pattern": "N が します (音・におい・味・声)", "en": "There is a sound / smell / taste / voice; I sense …" }
+      ],
+      "vocabHints": ["world: Asia, Africa, America, the West, international", "culture and customs", "comparing: compare, resemble, ordinary, most", "for example, to that degree"]
+    },
+    {
+      "n": 24,
+      "slug": "shieki",
+      "title": { "ja": "子どもに野菜を食べさせます", "ta": "குழந்தையைக் காய்கறி சாப்பிட வைக்கிறேன்", "en": "I make my child eat vegetables" },
+      "theme": { "en": "Parents, children and school: education, strict teachers, exams and praise.", "ta": "பெற்றோர், குழந்தைகள், பள்ளி: கல்வி, கண்டிப்பான ஆசிரியர்கள், தேர்வுகள், பாராட்டு." },
+      "grammar": [
+        { "id": "g24-1", "pattern": "Causative form (V-させる / V-せる)", "en": "How to make the causative (make / let someone do) form" },
+        { "id": "g24-2", "pattern": "N(person) を V-causative (intransitive)", "en": "Make / let someone go, wait, cry …" },
+        { "id": "g24-3", "pattern": "N(person) に N を V-causative (transitive)", "en": "Make / let someone do something: 子どもに本を読ませます" },
+        { "id": "g24-4", "pattern": "V-causative-ていただけませんか", "en": "Would you please let me …?" },
+        { "id": "g24-5", "pattern": "V-causative-てください / V-causative-てもらいます", "en": "Please let me … / I was allowed to …" }
+      ],
+      "vocabHints": ["school: elementary, junior high, high school, principal, auditorium", "exams, answers, points, maths", "parents: raise, scold, praise, look after", "strict, serious, correct"]
+    },
+    {
+      "n": 25,
+      "slug": "shieki-ukemi",
+      "title": { "ja": "先輩に走らされました", "ta": "சீனியர் என்னை ஓட வைத்தார்", "en": "My senior made me run" },
+      "theme": { "en": "Sports and club activities: seniors and juniors, practice, matches, winning and losing.", "ta": "விளையாட்டும் கிளப் செயல்பாடுகளும்: சீனியர்-ஜூனியர், பயிற்சி, போட்டிகள், வெற்றியும் தோல்வியும்." },
+      "grammar": [
+        { "id": "g25-1", "pattern": "Causative-passive form (V-させられる / V-される)", "en": "How to make the causative-passive (be made to do) form" },
+        { "id": "g25-2", "pattern": "N1 は N2 に V-causative-passive", "en": "Be made (forced) to do something by someone" },
+        { "id": "g25-3", "pattern": "N / V-て ばかり います", "en": "Nothing but …, always …ing (criticism)" },
+        { "id": "g25-4", "pattern": "quantity + ずつ", "en": "… each / … at a time" },
+        { "id": "g25-5", "pattern": "number + おきに / ごとに", "en": "Every other … / every …" }
+      ],
+      "vocabHints": ["sports: judo, tennis, swimming, match, competition", "throw, hit, win, lose, arm, strength", "club life: seniors, ～君, hard work", "exercise and effort"]
+    },
+    {
+      "n": 26,
+      "slug": "sonkeigo",
+      "title": { "ja": "社長はもうお帰りになりました", "ta": "தலைவர் ஏற்கனவே வீடு திரும்பிவிட்டார்", "en": "The president has already gone home" },
+      "theme": { "en": "At the company: bosses, customers, meetings, honorific speech about others.", "ta": "நிறுவனத்தில்: மேலதிகாரிகள், வாடிக்கையாளர்கள், கூட்டங்கள், பிறரைப் பற்றி மரியாதைப் பேச்சு." },
+      "grammar": [
+        { "id": "g26-1", "pattern": "Special honorific verbs (いらっしゃる / おっしゃる / なさる / 召し上がる / ご覧になる)", "en": "Respectful verbs used for superiors' actions" },
+        { "id": "g26-2", "pattern": "お V-ます stem に なります", "en": "Regular honorific pattern: 社長はお帰りになりました" },
+        { "id": "g26-3", "pattern": "V-られる (honorific)", "en": "Passive-shaped honorific form: 部長は何時に来られますか" },
+        { "id": "g26-4", "pattern": "お V-ます stem ください / ご N ください", "en": "Please … (respectful request to customers)" },
+        { "id": "g26-5", "pattern": "お N / ご N (honorific prefix)", "en": "Polite prefixes on nouns and adjectives: お名前, ご家族, お忙しい" }
+      ],
+      "vocabHints": ["company ranks: president, department manager, section manager", "office: meeting room, meeting, seat, office", "customers, introductions, attendance", "rude, polite"]
+    },
+    {
+      "n": 27,
+      "slug": "kenjougo",
+      "title": { "ja": "私がご案内します", "ta": "நான் உங்களுக்கு வழிகாட்டுகிறேன்", "en": "Let me show you the way" },
+      "theme": { "en": "Business phone calls and receptions: humble speech about yourself, messages, visitors.", "ta": "வணிகத் தொலைபேசி அழைப்புகளும் வரவேற்பும்: தன்னைப் பற்றிப் பணிவுப் பேச்சு, செய்திகள், வருகையாளர்கள்." },
+      "grammar": [
+        { "id": "g27-1", "pattern": "Special humble verbs (参る / 申す / いたす / 伺う / 拝見する / おる / 存じる)", "en": "Humble verbs for your own actions" },
+        { "id": "g27-2", "pattern": "お V-ます stem します / ご N します", "en": "Regular humble pattern: お持ちします, ご案内します" },
+        { "id": "g27-3", "pattern": "お V-ます stem いたします", "en": "Extra-humble version of おVします" },
+        { "id": "g27-4", "pattern": "でございます / ございます", "en": "Very polite です / あります (shops, receptions)" },
+        { "id": "g27-5", "pattern": "V-causative-ていただきます", "en": "Humbly allow myself to …: 説明させていただきます" }
+      ],
+      "vocabHints": ["reception desk, guidance, greeting", "phone: absent, message, fax", "humble verbs: say, go, come, see, ask", "～様, consent, knowing"]
+    },
+    {
+      "n": 28,
+      "slug": "aida-uchi",
+      "title": { "ja": "日本にいる間に、いろいろな所へ行きたいです", "ta": "ஜப்பானில் இருக்கும்போதே பல இடங்களுக்குப் போக வேண்டும்", "en": "While I'm in Japan I want to see many places" },
+      "theme": { "en": "Life and sightseeing in Japan: temples, shrines, festivals, scenery, getting used to change.", "ta": "ஜப்பானில் வாழ்க்கையும் சுற்றுலாவும்: கோவில்கள், ஷிந்தோ ஆலயங்கள், திருவிழாக்கள், இயற்கைக் காட்சிகள், மாற்றத்துக்குப் பழகுவது." },
+      "grammar": [
+        { "id": "g28-1", "pattern": "V-ている / N の 間、〜", "en": "While, during (the whole time)" },
+        { "id": "g28-2", "pattern": "V-ている / N の 間に、〜", "en": "While, during (at some point within that time)" },
+        { "id": "g28-3", "pattern": "V-dict / V-ない / adj うちに、〜", "en": "While still … (before it changes)" },
+        { "id": "g28-4", "pattern": "V-た / N の まま", "en": "Leaving things as they are: 靴をはいたまま" },
+        { "id": "g28-5", "pattern": "V-ていきます / V-てきます (change)", "en": "Change going forward / change up to now: 寒くなってきました" }
+      ],
+      "vocabHints": ["sightseeing: temple, shrine, church, art museum, exhibition", "festivals and cherry-blossom viewing", "scenery: lake, island, port, sand, stones", "change, getting used to, these days"]
+    },
+    {
+      "n": 29,
+      "slug": "kudaketa-hanashikata",
+      "title": { "ja": "それって本当？", "ta": "அது நிஜமா?", "en": "Is that true?" },
+      "theme": { "en": "Casual talk with friends: boyfriends and girlfriends, rumours, quarrels, gossip.", "ta": "நண்பர்களுடன் சாதாரணப் பேச்சு: காதலன், காதலி, வதந்திகள், சண்டைகள், அரட்டை." },
+      "grammar": [
+        { "id": "g29-1", "pattern": "〜って (quotation / topic)", "en": "Casual と言う or は: 彼、来ないって。 / 漢字って難しい" },
+        { "id": "g29-2", "pattern": "〜っていう N", "en": "Casual という: 『山田』っていう人" },
+        { "id": "g29-3", "pattern": "〜かい / 〜だい", "en": "Casual (mostly male) question endings" },
+        { "id": "g29-4", "pattern": "V-ちゃ / V-じゃ だめ", "en": "Casual 'you mustn't': 見ちゃだめ" },
+        { "id": "g29-5", "pattern": "V-てる / V-とく", "en": "Casual contractions of ている / ておく" }
+      ],
+      "vocabHints": ["people: I (boku), you (kimi), he, she, they, everyone", "casual words: yeah, such, that kind of, not at all", "lies, quarrels, breaking up", "strange, amazing"]
+    },
+    {
+      "n": 30,
+      "slug": "kakikotoba",
+      "title": { "ja": "研究について書いたレポートである", "ta": "ஆய்வு பற்றி எழுதிய அறிக்கை", "en": "A report written about research" },
+      "theme": { "en": "Written Japanese: reports, lectures, science and history, letters; reading longer texts.", "ta": "எழுத்து ஜப்பானிய மொழி: அறிக்கைகள், விரிவுரைகள், அறிவியல், வரலாறு, கடிதங்கள்; நீண்ட உரைகளை வாசிப்பது." },
+      "grammar": [
+        { "id": "g30-1", "pattern": "だ / である style", "en": "Plain written style used in reports, essays and newspapers" },
+        { "id": "g30-2", "pattern": "V-dict / V-ない ことが あります", "en": "Sometimes … happens / there are times when …" },
+        { "id": "g30-3", "pattern": "V-たら / V-と、〜た (discovery)", "en": "When I did …, I found that …: 開けたら、だれもいなかった" },
+        { "id": "g30-4", "pattern": "〜ほど (extent)", "en": "So … that … / to the extent of: 泣きたいほど" },
+        { "id": "g30-5", "pattern": "N に よって V-passive", "en": "Made / written / discovered by N (passive agent in written style)" }
+      ],
+      "vocabHints": ["academic: research, lecture, report, laboratory, translation", "subjects: science, medicine, history, geography, literature", "written connectors: and then, or, although, concerning", "ratio, relationship"]
+    }
+  ]
+}

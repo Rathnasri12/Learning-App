@@ -1,0 +1,421 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 30,
+  "slug": "sekkaku-no-yasumi",
+  "title": {
+   "ja": "せっかくの休み",
+   "ta": "அரிதாகக் கிடைத்த விடுமுறை",
+   "en": "A precious day off"
+  },
+  "theme": {
+   "en": "Free time and hobbies: attitudes and feelings shown through adverbs.",
+   "ta": "ஓய்வு நேரமும் பொழுதுபோக்குகளும்: வினையடைகள் மூலம் வெளிப்படும் மனப்பான்மைகள்."
+  },
+  "grammar": [
+   {
+    "id": "g30-1",
+    "pattern": "せっかく 〜のに / 〜から",
+    "en": "Specially / after all the trouble ~"
+   },
+   {
+    "id": "g30-2",
+    "pattern": "さすが(に)",
+    "en": "As expected of ~ / even ~ (admiration)"
+   },
+   {
+    "id": "g30-3",
+    "pattern": "どうせ 〜",
+    "en": "Anyway (resigned: it won't change)"
+   },
+   {
+    "id": "g30-4",
+    "pattern": "まさか 〜ない / まさか 〜とは",
+    "en": "Surely not ~ / never imagined that ~"
+   },
+   {
+    "id": "g30-5",
+    "pattern": "めったに 〜ない / 決して 〜ない",
+    "en": "Rarely / never"
+   }
+  ],
+  "vocabHints": [
+   "hobbies and free time",
+   "rest and relaxation",
+   "adverbs of frequency and attitude"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0031",
+   "expression": "しきりに",
+   "reading": "しきりに",
+   "romaji": "shikirini",
+   "en": "frequently, repeatedly, eagerly"
+  },
+  {
+   "id": "n3-v-0059",
+   "expression": "じっと",
+   "reading": "じっと",
+   "romaji": "jitto",
+   "en": "patiently, quietly"
+  },
+  {
+   "id": "n3-v-0071",
+   "expression": "しばしば",
+   "reading": "しばしば",
+   "romaji": "shibashiba",
+   "en": "often, again and again, frequently"
+  },
+  {
+   "id": "n3-v-0231",
+   "expression": "勧める",
+   "reading": "すすめる",
+   "romaji": "susumeru",
+   "en": "to urge (someone) to do (something), to recommend"
+  },
+  {
+   "id": "n3-v-0236",
+   "expression": "ずっと",
+   "reading": "ずっと",
+   "romaji": "zutto",
+   "en": "for a long time; all the time; consecutively"
+  },
+  {
+   "id": "n3-v-0297",
+   "expression": "相変わらず",
+   "reading": "あいかわらず",
+   "romaji": "aikawarazu",
+   "en": "as ever, as usual"
+  },
+  {
+   "id": "n3-v-0330",
+   "expression": "集まり",
+   "reading": "あつまり",
+   "romaji": "atsumari",
+   "en": "gathering, meeting, collection"
+  },
+  {
+   "id": "n3-v-0357",
+   "expression": "案外",
+   "reading": "あんがい",
+   "romaji": "angai",
+   "en": "unexpectedly"
+  },
+  {
+   "id": "n3-v-0364",
+   "expression": "意外",
+   "reading": "いがい",
+   "romaji": "igai",
+   "en": "unexpected, surprising"
+  },
+  {
+   "id": "n3-v-0393",
+   "expression": "いつか",
+   "reading": "いつか",
+   "romaji": "itsuka",
+   "en": "sometime, one day"
+  },
+  {
+   "id": "n3-v-0399",
+   "expression": "一体",
+   "reading": "いったい",
+   "romaji": "ittai",
+   "en": "one object; body; what on earth?; generally"
+  },
+  {
+   "id": "n3-v-0401",
+   "expression": "いつでも",
+   "reading": "いつでも",
+   "romaji": "itsudemo",
+   "en": "(at) any time, always"
+  },
+  {
+   "id": "n3-v-0402",
+   "expression": "いつのまにか",
+   "reading": "いつのまにか",
+   "romaji": "itsunomanika",
+   "en": "before one knows"
+  },
+  {
+   "id": "n3-v-0405",
+   "expression": "いつまでも",
+   "reading": "いつまでも",
+   "romaji": "itsumademo",
+   "en": "forever, for good, eternally"
+  },
+  {
+   "id": "n3-v-0415",
+   "expression": "今に",
+   "reading": "いまに",
+   "romaji": "imani",
+   "en": "before long, soon"
+  },
+  {
+   "id": "n3-v-0416",
+   "expression": "今にも",
+   "reading": "いまにも",
+   "romaji": "imanimo",
+   "en": "at any time, soon"
+  },
+  {
+   "id": "n3-v-0603",
+   "expression": "重ねる",
+   "reading": "かさねる",
+   "romaji": "kasaneru",
+   "en": "to pile up, to put something on another, to heap up"
+  },
+  {
+   "id": "n3-v-0737",
+   "expression": "休憩",
+   "reading": "きゅうけい",
+   "romaji": "kyuukei",
+   "en": "rest, break, intermission"
+  },
+  {
+   "id": "n3-v-0742",
+   "expression": "休息",
+   "reading": "きゅうそく",
+   "romaji": "kyuusoku",
+   "en": "rest, relief, relaxation"
+  },
+  {
+   "id": "n3-v-0763",
+   "expression": "切れる",
+   "reading": "きれる",
+   "romaji": "kireru",
+   "en": "to cut well, to be sharp; to break (off)"
+  },
+  {
+   "id": "n3-v-0805",
+   "expression": "繰り返す",
+   "reading": "くりかえす",
+   "romaji": "kurikaesu",
+   "en": "to repeat, to do something over again"
+  },
+  {
+   "id": "n3-v-0814",
+   "expression": "咥える",
+   "reading": "くわえる",
+   "romaji": "kuwaeru",
+   "en": "to hold something in the mouth"
+  },
+  {
+   "id": "n3-v-0844",
+   "expression": "結局",
+   "reading": "けっきょく",
+   "romaji": "kekkyoku",
+   "en": "after all, eventually"
+  },
+  {
+   "id": "n3-v-1027",
+   "expression": "無",
+   "reading": "む",
+   "romaji": "mu",
+   "en": "nothing, naught, zero"
+  },
+  {
+   "id": "n3-v-1053",
+   "expression": "滅多に",
+   "reading": "めったに",
+   "romaji": "mettani",
+   "en": "rarely (with neg. verb), seldom"
+  },
+  {
+   "id": "n3-v-1084",
+   "expression": "物事",
+   "reading": "ものごと",
+   "romaji": "monogoto",
+   "en": "things, everything"
+  },
+  {
+   "id": "n3-v-1088",
+   "expression": "やがて",
+   "reading": "やがて",
+   "romaji": "yagate",
+   "en": "before long, soon, at length"
+  },
+  {
+   "id": "n3-v-1140",
+   "expression": "寄せる",
+   "reading": "よせる",
+   "romaji": "yoseru",
+   "en": "to collect, to gather, to put aside"
+  },
+  {
+   "id": "n3-v-1197",
+   "expression": "わざと",
+   "reading": "わざと",
+   "romaji": "wazato",
+   "en": "on purpose"
+  },
+  {
+   "id": "n3-v-1202",
+   "expression": "割る",
+   "reading": "わる",
+   "romaji": "waru",
+   "en": "to divide, to break"
+  },
+  {
+   "id": "n3-v-1292",
+   "expression": "採集",
+   "reading": "さいしゅう",
+   "romaji": "saishuu",
+   "en": "collecting, gathering"
+  },
+  {
+   "id": "n3-v-1331",
+   "expression": "そっと",
+   "reading": "そっと",
+   "romaji": "sotto",
+   "en": "softly, gently"
+  },
+  {
+   "id": "n3-v-1336",
+   "expression": "そのうち",
+   "reading": "そのうち",
+   "romaji": "sonouchi",
+   "en": "before long, eventually, sooner or later"
+  },
+  {
+   "id": "n3-v-1425",
+   "expression": "たびたび",
+   "reading": "たびたび",
+   "romaji": "tabitabi",
+   "en": "often, repeatedly, frequently"
+  },
+  {
+   "id": "n3-v-1431",
+   "expression": "偶々",
+   "reading": "たまたま",
+   "romaji": "tamatama",
+   "en": "unexpectedly, accidentally, by chance"
+  },
+  {
+   "id": "n3-v-1433",
+   "expression": "溜まる",
+   "reading": "たまる",
+   "romaji": "tamaru",
+   "en": "to collect, to gather, to accumulate"
+  },
+  {
+   "id": "n3-v-1437",
+   "expression": "溜める",
+   "reading": "ためる",
+   "romaji": "tameru",
+   "en": "to accumulate, to collect"
+  },
+  {
+   "id": "n3-v-1494",
+   "expression": "遂に",
+   "reading": "ついに",
+   "romaji": "tsuini",
+   "en": "finally, at last"
+  },
+  {
+   "id": "n3-v-1525",
+   "expression": "常に",
+   "reading": "つねに",
+   "romaji": "tsuneni",
+   "en": "always (same as いつも) (written expression)"
+  },
+  {
+   "id": "n3-v-1580",
+   "expression": "どうしても",
+   "reading": "どうしても",
+   "romaji": "doushitemo",
+   "en": "at any cost, no matter what, no matter how hard one tries"
+  },
+  {
+   "id": "n3-v-1606",
+   "expression": "どこか",
+   "reading": "どこか",
+   "romaji": "dokoka",
+   "en": "somewhere, anywhere"
+  },
+  {
+   "id": "n3-v-1620",
+   "expression": "とにかく",
+   "reading": "とにかく",
+   "romaji": "tonikaku",
+   "en": "anyhow, at any rate, anyway"
+  },
+  {
+   "id": "n3-v-1661",
+   "expression": "何か",
+   "reading": "なにか",
+   "romaji": "nanika",
+   "en": "something"
+  },
+  {
+   "id": "n3-v-1662",
+   "expression": "なにも",
+   "reading": "なにも",
+   "romaji": "nanimo",
+   "en": "nothing"
+  },
+  {
+   "id": "n3-v-1675",
+   "expression": "何でも",
+   "reading": "なんでも",
+   "romaji": "nandemo",
+   "en": "by all means, everything"
+  },
+  {
+   "id": "n3-v-1676",
+   "expression": "何とか",
+   "reading": "なんとか",
+   "romaji": "nantoka",
+   "en": "somehow, anyhow, one way or another"
+  },
+  {
+   "id": "n3-v-1718",
+   "expression": "乗せる",
+   "reading": "のせる",
+   "romaji": "noseru",
+   "en": "to place on (something), to take on board"
+  },
+  {
+   "id": "n3-v-1788",
+   "expression": "離れる",
+   "reading": "はなれる",
+   "romaji": "hanareru",
+   "en": "(something, someone) separates; parts from; to be apart"
+  },
+  {
+   "id": "n3-v-1856",
+   "expression": "無",
+   "reading": "ぶ",
+   "romaji": "bu",
+   "en": "nothing, naught, nil, zero"
+  },
+  {
+   "id": "n3-v-1961",
+   "expression": "ぼんやり",
+   "reading": "ぼんやり",
+   "romaji": "bon'yari",
+   "en": "dim, faint, vague"
+  },
+  {
+   "id": "n3-v-1975",
+   "expression": "まさか",
+   "reading": "まさか",
+   "romaji": "masaka",
+   "en": "by no means"
+  },
+  {
+   "id": "n3-v-1991",
+   "expression": "全く",
+   "reading": "まったく",
+   "romaji": "mattaku",
+   "en": "really, completely"
+  },
+  {
+   "id": "n3-v-1993",
+   "expression": "まとまる",
+   "reading": "まとまる",
+   "romaji": "matomaru",
+   "en": "to be collected, to be settled, to be in order"
+  }
+ ]
+}

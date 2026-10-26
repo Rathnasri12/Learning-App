@@ -1,0 +1,430 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 9,
+  "slug": "natsu-kara-aki-ni-kakete",
+  "title": {
+   "ja": "夏から秋にかけて",
+   "ta": "கோடையிலிருந்து இலையுதிர் காலம் வரை",
+   "en": "From summer into autumn"
+  },
+  "theme": {
+   "en": "Seasons, weather and the yearly calendar.",
+   "ta": "பருவங்கள், வானிலை, ஆண்டு நாட்காட்டி."
+  },
+  "grammar": [
+   {
+    "id": "g09-1",
+    "pattern": "N から N に かけて",
+    "en": "From ~ through ~ (spread over a range)"
+   },
+   {
+    "id": "g09-2",
+    "pattern": "N を 通じて / を 通して",
+    "en": "Throughout (a period) / through (a means)"
+   },
+   {
+    "id": "g09-3",
+    "pattern": "N に わたって / に わたる N",
+    "en": "Over (a whole period or area)"
+   },
+   {
+    "id": "g09-4",
+    "pattern": "N 中(じゅう) / N 中(ちゅう)",
+    "en": "All through N / during N"
+   }
+  ],
+  "vocabHints": [
+   "seasons and weather",
+   "climate and temperature",
+   "the calendar and periods of time"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0026",
+   "expression": "四季",
+   "reading": "しき",
+   "romaji": "shiki",
+   "en": "four seasons"
+  },
+  {
+   "id": "n3-v-0028",
+   "expression": "時期",
+   "reading": "じき",
+   "romaji": "jiki",
+   "en": "time, season, period"
+  },
+  {
+   "id": "n3-v-0052",
+   "expression": "湿気",
+   "reading": "しっけ",
+   "romaji": "shikke",
+   "en": "moisture, humidity, dampness"
+  },
+  {
+   "id": "n3-v-0058",
+   "expression": "湿度",
+   "reading": "しつど",
+   "romaji": "shitsudo",
+   "en": "humidity"
+  },
+  {
+   "id": "n3-v-0083",
+   "expression": "湿る",
+   "reading": "しめる",
+   "romaji": "shimeru",
+   "en": "to be wet, to be damp"
+  },
+  {
+   "id": "n3-v-0085",
+   "expression": "霜",
+   "reading": "しも",
+   "romaji": "shimo",
+   "en": "frost"
+  },
+  {
+   "id": "n3-v-0247",
+   "expression": "澄む",
+   "reading": "すむ",
+   "romaji": "sumu",
+   "en": "to clear (e.g., weather), to become transparent"
+  },
+  {
+   "id": "n3-v-0248",
+   "expression": "清む",
+   "reading": "すむ",
+   "romaji": "sumu",
+   "en": "to clear (e.g., weather), to become transparent"
+  },
+  {
+   "id": "n3-v-0306",
+   "expression": "明かり",
+   "reading": "あかり",
+   "romaji": "akari",
+   "en": "lamplight, light (in general)"
+  },
+  {
+   "id": "n3-v-0322",
+   "expression": "温まる",
+   "reading": "あたたまる",
+   "romaji": "atatamaru",
+   "en": "to warm oneself, to get warm"
+  },
+  {
+   "id": "n3-v-0323",
+   "expression": "暖める",
+   "reading": "あたためる",
+   "romaji": "atatameru",
+   "en": "to warm (up to someone/something), to heat (up to someone/something)"
+  },
+  {
+   "id": "n3-v-0338",
+   "expression": "嵐",
+   "reading": "あらし",
+   "romaji": "arashi",
+   "en": "storm"
+  },
+  {
+   "id": "n3-v-0390",
+   "expression": "一時",
+   "reading": "いちじ",
+   "romaji": "ichiji",
+   "en": "for a time, temporarily"
+  },
+  {
+   "id": "n3-v-0542",
+   "expression": "温暖",
+   "reading": "おんだん",
+   "romaji": "ondan",
+   "en": "warmth"
+  },
+  {
+   "id": "n3-v-0543",
+   "expression": "温度",
+   "reading": "おんど",
+   "romaji": "ondo",
+   "en": "temperature"
+  },
+  {
+   "id": "n3-v-0594",
+   "expression": "影",
+   "reading": "かげ",
+   "romaji": "kage",
+   "en": "shade, shadow, other side"
+  },
+  {
+   "id": "n3-v-0595",
+   "expression": "陰",
+   "reading": "かげ",
+   "romaji": "kage",
+   "en": "shade, shadow, other side"
+  },
+  {
+   "id": "n3-v-0644",
+   "expression": "雷",
+   "reading": "かみなり",
+   "romaji": "kaminari",
+   "en": "thunder"
+  },
+  {
+   "id": "n3-v-0683",
+   "expression": "乾燥",
+   "reading": "かんそう",
+   "romaji": "kansou",
+   "en": "dry, arid, dehydrated"
+  },
+  {
+   "id": "n3-v-0692",
+   "expression": "気温",
+   "reading": "きおん",
+   "romaji": "kion",
+   "en": "temperature (weather - not used for things)"
+  },
+  {
+   "id": "n3-v-0696",
+   "expression": "期間",
+   "reading": "きかん",
+   "romaji": "kikan",
+   "en": "period, term"
+  },
+  {
+   "id": "n3-v-0702",
+   "expression": "気候",
+   "reading": "きこう",
+   "romaji": "kikou",
+   "en": "climate"
+  },
+  {
+   "id": "n3-v-0761",
+   "expression": "霧",
+   "reading": "きり",
+   "romaji": "kiri",
+   "en": "fog, mist"
+  },
+  {
+   "id": "n3-v-0909",
+   "expression": "氷",
+   "reading": "こおり",
+   "romaji": "koori",
+   "en": "ice, hail"
+  },
+  {
+   "id": "n3-v-0976",
+   "expression": "昨",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "last (year), yesterday"
+  },
+  {
+   "id": "n3-v-0989",
+   "expression": "射す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to shine, to strike"
+  },
+  {
+   "id": "n3-v-1034",
+   "expression": "蒸し暑い",
+   "reading": "むしあつい",
+   "romaji": "mushiatsui",
+   "en": "humid, sultry"
+  },
+  {
+   "id": "n3-v-1043",
+   "expression": "芽",
+   "reading": "め",
+   "romaji": "me",
+   "en": "sprout"
+  },
+  {
+   "id": "n3-v-1121",
+   "expression": "夜",
+   "reading": "よ",
+   "romaji": "yo",
+   "en": "evening, night"
+  },
+  {
+   "id": "n3-v-1135",
+   "expression": "予期",
+   "reading": "よき",
+   "romaji": "yoki",
+   "en": "expectation, forecast"
+  },
+  {
+   "id": "n3-v-1146",
+   "expression": "予報",
+   "reading": "よほう",
+   "romaji": "yohou",
+   "en": "forecast, prediction"
+  },
+  {
+   "id": "n3-v-1381",
+   "expression": "太陽",
+   "reading": "たいよう",
+   "romaji": "taiyou",
+   "en": "sun"
+  },
+  {
+   "id": "n3-v-1468",
+   "expression": "地平線",
+   "reading": "ちへいせん",
+   "romaji": "chiheisen",
+   "en": "horizon"
+  },
+  {
+   "id": "n3-v-1473",
+   "expression": "中",
+   "reading": "ちゅう",
+   "romaji": "chuu",
+   "en": "inside, middle, among"
+  },
+  {
+   "id": "n3-v-1478",
+   "expression": "中止",
+   "reading": "ちゅうし",
+   "romaji": "chuushi",
+   "en": "suspension, stoppage, discontinuance"
+  },
+  {
+   "id": "n3-v-1484",
+   "expression": "長期",
+   "reading": "ちょうき",
+   "romaji": "chouki",
+   "en": "long time period"
+  },
+  {
+   "id": "n3-v-1493",
+   "expression": "散る",
+   "reading": "ちる",
+   "romaji": "chiru",
+   "en": "to fall, to scatter (e.g., blossoms)"
+  },
+  {
+   "id": "n3-v-1500",
+   "expression": "通じる",
+   "reading": "つうじる",
+   "romaji": "tsuujiru",
+   "en": "to run to, to lead to, to communicate"
+  },
+  {
+   "id": "n3-v-1531",
+   "expression": "積もる",
+   "reading": "つもる",
+   "romaji": "tsumoru",
+   "en": "to pile up"
+  },
+  {
+   "id": "n3-v-1532",
+   "expression": "梅雨",
+   "reading": "つゆ",
+   "romaji": "tsuyu",
+   "en": "rainy season"
+  },
+  {
+   "id": "n3-v-1541",
+   "expression": "定期",
+   "reading": "ていき",
+   "romaji": "teiki",
+   "en": "fixed term"
+  },
+  {
+   "id": "n3-v-1566",
+   "expression": "天候",
+   "reading": "てんこう",
+   "romaji": "tenkou",
+   "en": "weather"
+  },
+  {
+   "id": "n3-v-1683",
+   "expression": "日光",
+   "reading": "にっこう",
+   "romaji": "nikkou",
+   "en": "sunlight"
+  },
+  {
+   "id": "n3-v-1695",
+   "expression": "濡らす",
+   "reading": "ぬらす",
+   "romaji": "nurasu",
+   "en": "to wet, to soak"
+  },
+  {
+   "id": "n3-v-1701",
+   "expression": "熱帯",
+   "reading": "ねったい",
+   "romaji": "nettai",
+   "en": "tropics"
+  },
+  {
+   "id": "n3-v-1703",
+   "expression": "年間",
+   "reading": "ねんかん",
+   "romaji": "nenkan",
+   "en": "year"
+  },
+  {
+   "id": "n3-v-1705",
+   "expression": "年中",
+   "reading": "ねんじゅう",
+   "romaji": "nenjuu",
+   "en": "whole year, always, everyday"
+  },
+  {
+   "id": "n3-v-1732",
+   "expression": "昇る",
+   "reading": "のぼる",
+   "romaji": "noboru",
+   "en": "to arise, to ascend, to go up"
+  },
+  {
+   "id": "n3-v-1739",
+   "expression": "梅雨",
+   "reading": "ばいう",
+   "romaji": "baiu",
+   "en": "rainy season"
+  },
+  {
+   "id": "n3-v-1759",
+   "expression": "激しい",
+   "reading": "はげしい",
+   "romaji": "hageshii",
+   "en": "violent, vehement, intense"
+  },
+  {
+   "id": "n3-v-1809",
+   "expression": "灯",
+   "reading": "ひ",
+   "romaji": "hi",
+   "en": "light"
+  },
+  {
+   "id": "n3-v-1904",
+   "expression": "震える",
+   "reading": "ふるえる",
+   "romaji": "furueru",
+   "en": "to shiver, to shake, to quake"
+  },
+  {
+   "id": "n3-v-1989",
+   "expression": "松",
+   "reading": "まつ",
+   "romaji": "matsu",
+   "en": "pine tree"
+  },
+  {
+   "id": "n3-v-2072",
+   "expression": "露",
+   "reading": "つゆ",
+   "romaji": "tsuyu",
+   "en": "dew"
+  },
+  {
+   "id": "n3-v-2124",
+   "expression": "末",
+   "reading": "まつ",
+   "romaji": "matsu",
+   "en": "the end of"
+  }
+ ]
+}

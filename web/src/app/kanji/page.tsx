@@ -1,8 +1,15 @@
-import { getKanjiExam, getKanjiUnit, getKanjiUnits } from "@/lib/content";
-import KanjiTrack from "@/components/kanji/KanjiTrack";
+import { LEVELS, getKanjiExam, getKanjiUnit, getKanjiUnits } from "@/lib/content";
+import KanjiLevels from "@/components/kanji/KanjiLevels";
 
 export default function KanjiPage() {
-  const units = getKanjiUnits("n5");
-  const ready = units.filter((u) => getKanjiUnit("n5", u.n)).map((u) => u.n);
-  return <KanjiTrack level="n5" units={units} ready={ready} hasExam={!!getKanjiExam("n5")} />;
+  const levels = LEVELS.map((level) => {
+    const units = getKanjiUnits(level);
+    return {
+      level,
+      units,
+      ready: units.filter((u) => getKanjiUnit(level, u.n)).map((u) => u.n),
+      hasExam: !!getKanjiExam(level),
+    };
+  }).filter((l) => l.units.length > 0);
+  return <KanjiLevels levels={levels} />;
 }

@@ -1,0 +1,368 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 32,
+  "slug": "shiranai-furi",
+  "title": {
+   "ja": "知らないふりをする",
+   "ta": "தெரியாதது போல் நடிப்பது",
+   "en": "Pretending not to know"
+  },
+  "theme": {
+   "en": "Theatre, magic and performance: acting, showing and pretending.",
+   "ta": "நாடகம், மாயவித்தை, நிகழ்ச்சிகள்: நடிப்பது, செய்துகாட்டுவது, பாசாங்கு செய்வது."
+  },
+  "grammar": [
+   {
+    "id": "g32-1",
+    "pattern": "〜ふりを する",
+    "en": "Pretend to ~"
+   },
+   {
+    "id": "g32-2",
+    "pattern": "V-て みせる",
+    "en": "Show (someone) how / I'll show you I can"
+   },
+   {
+    "id": "g32-3",
+    "pattern": "V-て ごらん",
+    "en": "Try ~ (to a junior or child)"
+   },
+   {
+    "id": "g32-4",
+    "pattern": "〜かのように",
+    "en": "As if ~ (though it isn't true)"
+   }
+  ],
+  "vocabHints": [
+   "theatre and the stage",
+   "actors and performances",
+   "magic and tricks",
+   "kings, queens and stories"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0002",
+   "expression": "様々",
+   "reading": "さまざま",
+   "romaji": "samazama",
+   "en": "varied, various"
+  },
+  {
+   "id": "n3-v-0070",
+   "expression": "芝居",
+   "reading": "しばい",
+   "romaji": "shibai",
+   "en": "play, drama"
+  },
+  {
+   "id": "n3-v-0081",
+   "expression": "示す",
+   "reading": "しめす",
+   "romaji": "shimesu",
+   "en": "to show, to indicate"
+  },
+  {
+   "id": "n3-v-0084",
+   "expression": "下",
+   "reading": "しも",
+   "romaji": "shimo",
+   "en": "under, below, beneath"
+  },
+  {
+   "id": "n3-v-0160",
+   "expression": "女王",
+   "reading": "じょおう",
+   "romaji": "joou",
+   "en": "queen"
+  },
+  {
+   "id": "n3-v-0176",
+   "expression": "女優",
+   "reading": "じょゆう",
+   "romaji": "joyuu",
+   "en": "actress"
+  },
+  {
+   "id": "n3-v-0220",
+   "expression": "姿",
+   "reading": "すがた",
+   "romaji": "sugata",
+   "en": "figure, shape, appearance"
+  },
+  {
+   "id": "n3-v-0232",
+   "expression": "スター",
+   "reading": "スター",
+   "romaji": "sutaa",
+   "en": "star"
+  },
+  {
+   "id": "n3-v-0343",
+   "expression": "現す",
+   "reading": "あらわす",
+   "romaji": "arawasu",
+   "en": "to show, to appear, to reveal"
+  },
+  {
+   "id": "n3-v-0346",
+   "expression": "現れる",
+   "reading": "あらわれる",
+   "romaji": "arawareru",
+   "en": "to appear (v.i.), to become visible; to express"
+  },
+  {
+   "id": "n3-v-0457",
+   "expression": "有無",
+   "reading": "うむ",
+   "romaji": "umu",
+   "en": "yes or no, presence or absence"
+  },
+  {
+   "id": "n3-v-0481",
+   "expression": "演技",
+   "reading": "えんぎ",
+   "romaji": "engi",
+   "en": "acting, performance"
+  },
+  {
+   "id": "n3-v-0488",
+   "expression": "王",
+   "reading": "おう",
+   "romaji": "ou",
+   "en": "king"
+  },
+  {
+   "id": "n3-v-0491",
+   "expression": "王様",
+   "reading": "おうさま",
+   "romaji": "ousama",
+   "en": "king"
+  },
+  {
+   "id": "n3-v-0492",
+   "expression": "王子",
+   "reading": "おうじ",
+   "romaji": "ouji",
+   "en": "prince"
+  },
+  {
+   "id": "n3-v-0522",
+   "expression": "鬼",
+   "reading": "おに",
+   "romaji": "oni",
+   "en": "ogre, demon, 'it' (e.g.,in a game of tag)"
+  },
+  {
+   "id": "n3-v-0667",
+   "expression": "観客",
+   "reading": "かんきゃく",
+   "romaji": "kankyaku",
+   "en": "audience, spectator(s)"
+  },
+  {
+   "id": "n3-v-0686",
+   "expression": "監督",
+   "reading": "かんとく",
+   "romaji": "kantoku",
+   "en": "supervision, control, (movie) director"
+  },
+  {
+   "id": "n3-v-0756",
+   "expression": "強力",
+   "reading": "きょうりょく",
+   "romaji": "kyouryoku",
+   "en": "powerful, strong"
+  },
+  {
+   "id": "n3-v-0837",
+   "expression": "劇",
+   "reading": "げき",
+   "romaji": "geki",
+   "en": "drama, play"
+  },
+  {
+   "id": "n3-v-0838",
+   "expression": "劇場",
+   "reading": "げきじょう",
+   "romaji": "gekijou",
+   "en": "theater, playhouse"
+  },
+  {
+   "id": "n3-v-0869",
+   "expression": "現場",
+   "reading": "げんば",
+   "romaji": "genba",
+   "en": "actual spot, scene, field"
+  },
+  {
+   "id": "n3-v-0926",
+   "expression": "越す",
+   "reading": "こす",
+   "romaji": "kosu",
+   "en": "to go over (e.g., with audience)"
+  },
+  {
+   "id": "n3-v-1089",
+   "expression": "役",
+   "reading": "やく",
+   "romaji": "yaku",
+   "en": "role, position"
+  },
+  {
+   "id": "n3-v-1093",
+   "expression": "役割",
+   "reading": "やくわり",
+   "romaji": "yakuwari",
+   "en": "assigning (allotment of) parts, role, duties"
+  },
+  {
+   "id": "n3-v-1155",
+   "expression": "四",
+   "reading": "よん",
+   "romaji": "yon",
+   "en": "four"
+  },
+  {
+   "id": "n3-v-1249",
+   "expression": "癌",
+   "reading": "がん",
+   "romaji": "gan",
+   "en": "cancer"
+  },
+  {
+   "id": "n3-v-1279",
+   "expression": "公演",
+   "reading": "こうえん",
+   "romaji": "kouen",
+   "en": "public performance"
+  },
+  {
+   "id": "n3-v-1390",
+   "expression": "宝",
+   "reading": "たから",
+   "romaji": "takara",
+   "en": "treasure"
+  },
+  {
+   "id": "n3-v-1446",
+   "expression": "ダンス",
+   "reading": "ダンス",
+   "romaji": "dansu",
+   "en": "dance"
+  },
+  {
+   "id": "n3-v-1555",
+   "expression": "手品",
+   "reading": "てじな",
+   "romaji": "tejina",
+   "en": "conjuring trick, magic"
+  },
+  {
+   "id": "n3-v-1630",
+   "expression": "ドラマ",
+   "reading": "ドラマ",
+   "romaji": "dorama",
+   "en": "drama"
+  },
+  {
+   "id": "n3-v-1647",
+   "expression": "半ば",
+   "reading": "なかば",
+   "romaji": "nakaba",
+   "en": "middle, halfway"
+  },
+  {
+   "id": "n3-v-1688",
+   "expression": "入場",
+   "reading": "にゅうじょう",
+   "romaji": "nyuujou",
+   "en": "entrance, admission, entering"
+  },
+  {
+   "id": "n3-v-1714",
+   "expression": "ノー",
+   "reading": "ノー",
+   "romaji": "noo",
+   "en": "no"
+  },
+  {
+   "id": "n3-v-1744",
+   "expression": "俳優",
+   "reading": "はいゆう",
+   "romaji": "haiyuu",
+   "en": "actor, actress, performer"
+  },
+  {
+   "id": "n3-v-1755",
+   "expression": "拍手",
+   "reading": "はくしゅ",
+   "romaji": "hakushu",
+   "en": "clapping hands, applause"
+  },
+  {
+   "id": "n3-v-1795",
+   "expression": "場面",
+   "reading": "ばめん",
+   "romaji": "bamen",
+   "en": "scene, setting (e.g., of novel)"
+  },
+  {
+   "id": "n3-v-1814",
+   "expression": "悲劇",
+   "reading": "ひげき",
+   "romaji": "higeki",
+   "en": "tragedy"
+  },
+  {
+   "id": "n3-v-1880",
+   "expression": "舞台",
+   "reading": "ぶたい",
+   "romaji": "butai",
+   "en": "stage (theater)"
+  },
+  {
+   "id": "n3-v-1903",
+   "expression": "振る",
+   "reading": "ふる",
+   "romaji": "furu",
+   "en": "to wave, to shake; to sprinkle; to cast (actor)"
+  },
+  {
+   "id": "n3-v-1965",
+   "expression": "マイク",
+   "reading": "マイク",
+   "romaji": "maiku",
+   "en": "mic"
+  },
+  {
+   "id": "n3-v-1972",
+   "expression": "幕",
+   "reading": "まく",
+   "romaji": "maku",
+   "en": "curtain, act (in play)"
+  },
+  {
+   "id": "n3-v-1996",
+   "expression": "真似",
+   "reading": "まね",
+   "romaji": "mane",
+   "en": "mimicry, imitation, behavior"
+  },
+  {
+   "id": "n3-v-2024",
+   "expression": "照明",
+   "reading": "しょうめい",
+   "romaji": "shoumei",
+   "en": "illumination"
+  },
+  {
+   "id": "n3-v-2114",
+   "expression": "振り",
+   "reading": "ふり",
+   "romaji": "furi",
+   "en": "style, manner"
+  }
+ ]
+}

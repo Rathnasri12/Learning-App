@@ -1,0 +1,417 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 3,
+  "slug": "kaeru-tsuide-ni",
+  "title": {
+   "ja": "帰るついでに",
+   "ta": "வீட்டுக்குப் போகும் வழியில்",
+   "en": "On the way home"
+  },
+  "theme": {
+   "en": "A busy daily routine: errands, doing things on the way, every time and in the middle of things.",
+   "ta": "பரபரப்பான அன்றாட வாழ்க்கை: சிறு வேலைகள், வழியில் செய்யும் காரியங்கள், ஒவ்வொரு முறையும், வேலையின் நடுவில்."
+  },
+  "grammar": [
+   {
+    "id": "g03-1",
+    "pattern": "V-ている / N の 最中に",
+    "en": "Right in the middle of ~"
+   },
+   {
+    "id": "g03-2",
+    "pattern": "V-る / N の たびに",
+    "en": "Every time ~"
+   },
+   {
+    "id": "g03-3",
+    "pattern": "V-る / V-た / N の ついでに",
+    "en": "While you are at it, ~ (doing B on the occasion of A)"
+   },
+   {
+    "id": "g03-4",
+    "pattern": "V-る / V-た / N の 際(に)",
+    "en": "When / on the occasion of (formal とき)"
+   }
+  ],
+  "vocabHints": [
+   "daily routine and time of day",
+   "errands: post office, bank, mail",
+   "sleeping and waking",
+   "time words"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0004",
+   "expression": "覚ます",
+   "reading": "さます",
+   "romaji": "samasu",
+   "en": "to awaken"
+  },
+  {
+   "id": "n3-v-0006",
+   "expression": "覚める",
+   "reading": "さめる",
+   "romaji": "sameru",
+   "en": "to wake, to wake up"
+  },
+  {
+   "id": "n3-v-0035",
+   "expression": "時刻",
+   "reading": "じこく",
+   "romaji": "jikoku",
+   "en": "time, hour"
+  },
+  {
+   "id": "n3-v-0088",
+   "expression": "週",
+   "reading": "しゅう",
+   "romaji": "shuu",
+   "en": "week"
+  },
+  {
+   "id": "n3-v-0137",
+   "expression": "正午",
+   "reading": "しょうご",
+   "romaji": "shougo",
+   "en": "noon, mid-day"
+  },
+  {
+   "id": "n3-v-0215",
+   "expression": "睡眠",
+   "reading": "すいみん",
+   "romaji": "suimin",
+   "en": "sleep"
+  },
+  {
+   "id": "n3-v-0239",
+   "expression": "既に",
+   "reading": "すでに",
+   "romaji": "sudeni",
+   "en": "already (same as もう)"
+  },
+  {
+   "id": "n3-v-0313",
+   "expression": "明ける",
+   "reading": "あける",
+   "romaji": "akeru",
+   "en": "to dawn, to become daylight"
+  },
+  {
+   "id": "n3-v-0410",
+   "expression": "居眠り",
+   "reading": "いねむり",
+   "romaji": "inemuri",
+   "en": "dozing, nodding off"
+  },
+  {
+   "id": "n3-v-0524",
+   "expression": "お昼",
+   "reading": "おひる",
+   "romaji": "ohiru",
+   "en": "lunch, noon"
+  },
+  {
+   "id": "n3-v-0618",
+   "expression": "片付く",
+   "reading": "かたづく",
+   "romaji": "katazuku",
+   "en": "to put in order, to solve"
+  },
+  {
+   "id": "n3-v-0711",
+   "expression": "帰宅",
+   "reading": "きたく",
+   "romaji": "kitaku",
+   "en": "returning home"
+  },
+  {
+   "id": "n3-v-0932",
+   "expression": "小包",
+   "reading": "こづつみ",
+   "romaji": "kozutsumi",
+   "en": "parcel, package"
+  },
+  {
+   "id": "n3-v-0949",
+   "expression": "今回",
+   "reading": "こんかい",
+   "romaji": "konkai",
+   "en": "now, this time, lately"
+  },
+  {
+   "id": "n3-v-0954",
+   "expression": "今日",
+   "reading": "こんにち",
+   "romaji": "konnichi",
+   "en": "today, this day"
+  },
+  {
+   "id": "n3-v-0960",
+   "expression": "際",
+   "reading": "さい",
+   "romaji": "sai",
+   "en": "on the occasion of, circumstances"
+  },
+  {
+   "id": "n3-v-0964",
+   "expression": "最中",
+   "reading": "さいちゅう",
+   "romaji": "saichuu",
+   "en": "in the middle of"
+  },
+  {
+   "id": "n3-v-1015",
+   "expression": "満ちる",
+   "reading": "みちる",
+   "romaji": "michiru",
+   "en": "to be full, to mature"
+  },
+  {
+   "id": "n3-v-1022",
+   "expression": "明後日",
+   "reading": "みょうごにち",
+   "romaji": "myougonichi",
+   "en": "day after tomorrow"
+  },
+  {
+   "id": "n3-v-1072",
+   "expression": "用いる",
+   "reading": "もちいる",
+   "romaji": "mochiiru",
+   "en": "to use, to make use of"
+  },
+  {
+   "id": "n3-v-1112",
+   "expression": "郵便",
+   "reading": "ゆうびん",
+   "romaji": "yuubin",
+   "en": "mail, postal service"
+  },
+  {
+   "id": "n3-v-1122",
+   "expression": "夜明け",
+   "reading": "よあけ",
+   "romaji": "yoake",
+   "en": "dawn, daybreak"
+  },
+  {
+   "id": "n3-v-1133",
+   "expression": "曜日",
+   "reading": "ようび",
+   "romaji": "youbi",
+   "en": "day of the week"
+  },
+  {
+   "id": "n3-v-1143",
+   "expression": "夜中",
+   "reading": "よなか",
+   "romaji": "yonaka",
+   "en": "midnight, dead of night"
+  },
+  {
+   "id": "n3-v-1156",
+   "expression": "来",
+   "reading": "らい～",
+   "romaji": "rai～",
+   "en": "next ~"
+  },
+  {
+   "id": "n3-v-1234",
+   "expression": "織る",
+   "reading": "おる",
+   "romaji": "oru",
+   "en": "to weave"
+  },
+  {
+   "id": "n3-v-1306",
+   "expression": "先日",
+   "reading": "せんじつ",
+   "romaji": "senjitsu",
+   "en": "the other day, a few days ago"
+  },
+  {
+   "id": "n3-v-1423",
+   "expression": "度",
+   "reading": "たび",
+   "romaji": "tabi",
+   "en": "counter for occurrences"
+  },
+  {
+   "id": "n3-v-1458",
+   "expression": "違い",
+   "reading": "ちがい",
+   "romaji": "chigai",
+   "en": "difference, discrepancy"
+  },
+  {
+   "id": "n3-v-1480",
+   "expression": "昼食",
+   "reading": "ちゅうしょく",
+   "romaji": "chuushoku",
+   "en": "lunch (same as 昼ご飯 (ひるごはん))"
+  },
+  {
+   "id": "n3-v-1489",
+   "expression": "貯金",
+   "reading": "ちょきん",
+   "romaji": "chokin",
+   "en": "(bank) savings"
+  },
+  {
+   "id": "n3-v-1509",
+   "expression": "付く",
+   "reading": "つく",
+   "romaji": "tsuku",
+   "en": "to adjoin, to be attached, to adhere"
+  },
+  {
+   "id": "n3-v-1514",
+   "expression": "付ける",
+   "reading": "つける",
+   "romaji": "tsukeru",
+   "en": "to attach, to join, to add"
+  },
+  {
+   "id": "n3-v-1522",
+   "expression": "繋がる",
+   "reading": "つながる",
+   "romaji": "tsunagaru",
+   "en": "to be connected to, to be related to"
+  },
+  {
+   "id": "n3-v-1523",
+   "expression": "繋ぐ",
+   "reading": "つなぐ",
+   "romaji": "tsunagu",
+   "en": "to tie, to fasten, to connect"
+  },
+  {
+   "id": "n3-v-1524",
+   "expression": "繋げる",
+   "reading": "つなげる",
+   "romaji": "tsunageru",
+   "en": "to connect"
+  },
+  {
+   "id": "n3-v-1579",
+   "expression": "同時",
+   "reading": "どうじ",
+   "romaji": "douji",
+   "en": "simultaneous(ly), same time"
+  },
+  {
+   "id": "n3-v-1593",
+   "expression": "溶く",
+   "reading": "とく",
+   "romaji": "toku",
+   "en": "to dissolve (paint)"
+  },
+  {
+   "id": "n3-v-1604",
+   "expression": "溶ける",
+   "reading": "とける",
+   "romaji": "tokeru",
+   "en": "to melt, to thaw, to dissolve"
+  },
+  {
+   "id": "n3-v-1623",
+   "expression": "留める",
+   "reading": "とめる",
+   "romaji": "tomeru",
+   "en": "to fasten, to turn off, to detain"
+  },
+  {
+   "id": "n3-v-1669",
+   "expression": "鳴らす",
+   "reading": "ならす",
+   "romaji": "narasu",
+   "en": "to ring, to sound"
+  },
+  {
+   "id": "n3-v-1680",
+   "expression": "握る",
+   "reading": "にぎる",
+   "romaji": "nigiru",
+   "en": "to grasp, to seize, to mold sushi"
+  },
+  {
+   "id": "n3-v-1681",
+   "expression": "日",
+   "reading": "にち",
+   "romaji": "nichi",
+   "en": "day"
+  },
+  {
+   "id": "n3-v-1682",
+   "expression": "日常",
+   "reading": "にちじょう",
+   "romaji": "nichijou",
+   "en": "ordinary, regular, everyday"
+  },
+  {
+   "id": "n3-v-1684",
+   "expression": "日中",
+   "reading": "にっちゅう",
+   "romaji": "nitchuu",
+   "en": "daytime, broad daylight"
+  },
+  {
+   "id": "n3-v-1725",
+   "expression": "ノック",
+   "reading": "ノック",
+   "romaji": "nokku",
+   "en": "knock; fungo (baseball)"
+  },
+  {
+   "id": "n3-v-1820",
+   "expression": "日付",
+   "reading": "ひづけ",
+   "romaji": "hizuke",
+   "en": "date, dating"
+  },
+  {
+   "id": "n3-v-1840",
+   "expression": "秒",
+   "reading": "びょう",
+   "romaji": "byou",
+   "en": "second (60th min)"
+  },
+  {
+   "id": "n3-v-1883",
+   "expression": "普段",
+   "reading": "ふだん",
+   "romaji": "fudan",
+   "en": "in everyday situations, usually, ordinarily"
+  },
+  {
+   "id": "n3-v-1925",
+   "expression": "弁当",
+   "reading": "べんとう",
+   "romaji": "bentou",
+   "en": "box lunch"
+  },
+  {
+   "id": "n3-v-1995",
+   "expression": "学ぶ",
+   "reading": "まなぶ",
+   "romaji": "manabu",
+   "en": "to learn; to study"
+  },
+  {
+   "id": "n3-v-2081",
+   "expression": "問う",
+   "reading": "とう",
+   "romaji": "tou",
+   "en": "to ask, to question"
+  },
+  {
+   "id": "n3-v-2126",
+   "expression": "見掛ける",
+   "reading": "みかける",
+   "romaji": "mikakeru",
+   "en": "to (happen to see), to notice, to catch sight of"
+  }
+ ]
+}

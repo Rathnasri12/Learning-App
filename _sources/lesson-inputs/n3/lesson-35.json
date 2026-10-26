@@ -1,0 +1,436 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 35,
+  "slug": "watashi-ni-totte",
+  "title": {
+   "ja": "私にとって",
+   "ta": "எனக்கு",
+   "en": "For me"
+  },
+  "theme": {
+   "en": "Society and values: different points of view, roles and attitudes.",
+   "ta": "சமூகமும் மதிப்பீடுகளும்: வெவ்வேறு கண்ணோட்டங்கள், பங்குகள், மனப்பான்மைகள்."
+  },
+  "grammar": [
+   {
+    "id": "g35-1",
+    "pattern": "N に とって",
+    "en": "For N / from N's point of view"
+   },
+   {
+    "id": "g35-2",
+    "pattern": "N と して / N と しては",
+    "en": "As N (role, capacity)"
+   },
+   {
+    "id": "g35-3",
+    "pattern": "N に 対して (toward)",
+    "en": "Toward / against N"
+   },
+   {
+    "id": "g35-4",
+    "pattern": "N に したら / N に すれば",
+    "en": "From N's standpoint (imagining their feelings)"
+   },
+   {
+    "id": "g35-5",
+    "pattern": "N から 言うと / から すると / から して",
+    "en": "Judging from N"
+   }
+  ],
+  "vocabHints": [
+   "society and the world",
+   "people, generations and groups",
+   "rights and equality",
+   "values and ideas"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0036",
+   "expression": "自殺",
+   "reading": "じさつ",
+   "romaji": "jisatsu",
+   "en": "suicide"
+  },
+  {
+   "id": "n3-v-0041",
+   "expression": "自身",
+   "reading": "じしん",
+   "romaji": "jishin",
+   "en": "oneself"
+  },
+  {
+   "id": "n3-v-0044",
+   "expression": "思想",
+   "reading": "しそう",
+   "romaji": "shisou",
+   "en": "thought, idea"
+  },
+  {
+   "id": "n3-v-0067",
+   "expression": "児童",
+   "reading": "じどう",
+   "romaji": "jidou",
+   "en": "children, juvenile"
+  },
+  {
+   "id": "n3-v-0102",
+   "expression": "集団",
+   "reading": "しゅうだん",
+   "romaji": "shuudan",
+   "en": "group, mass"
+  },
+  {
+   "id": "n3-v-0108",
+   "expression": "主義",
+   "reading": "しゅぎ",
+   "romaji": "shugi",
+   "en": "doctrine, cause, principle"
+  },
+  {
+   "id": "n3-v-0140",
+   "expression": "少女",
+   "reading": "しょうじょ",
+   "romaji": "shoujo",
+   "en": "young girl"
+  },
+  {
+   "id": "n3-v-0151",
+   "expression": "少年",
+   "reading": "しょうねん",
+   "romaji": "shounen",
+   "en": "boys, juveniles"
+  },
+  {
+   "id": "n3-v-0171",
+   "expression": "女子",
+   "reading": "じょし",
+   "romaji": "joshi",
+   "en": "woman, girl"
+  },
+  {
+   "id": "n3-v-0189",
+   "expression": "人工",
+   "reading": "じんこう",
+   "romaji": "jinkou",
+   "en": "artificial, man made, human work,"
+  },
+  {
+   "id": "n3-v-0192",
+   "expression": "人種",
+   "reading": "じんしゅ",
+   "romaji": "jinshu",
+   "en": "race (of people)"
+  },
+  {
+   "id": "n3-v-0194",
+   "expression": "人生",
+   "reading": "じんせい",
+   "romaji": "jinsei",
+   "en": "(human) life (e.g., conception to death)"
+  },
+  {
+   "id": "n3-v-0208",
+   "expression": "人類",
+   "reading": "じんるい",
+   "romaji": "jinrui",
+   "en": "mankind, humanity"
+  },
+  {
+   "id": "n3-v-0256",
+   "expression": "性",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "sex, gender"
+  },
+  {
+   "id": "n3-v-0270",
+   "expression": "精神",
+   "reading": "せいしん",
+   "romaji": "seishin",
+   "en": "mind, soul, spirit"
+  },
+  {
+   "id": "n3-v-0290",
+   "expression": "世間",
+   "reading": "せけん",
+   "romaji": "seken",
+   "en": "world, society"
+  },
+  {
+   "id": "n3-v-0519",
+   "expression": "男の人",
+   "reading": "おとこのひと",
+   "romaji": "otokonohito",
+   "en": "man"
+  },
+  {
+   "id": "n3-v-0617",
+   "expression": "方々",
+   "reading": "かたがた",
+   "romaji": "katagata",
+   "en": "persons"
+  },
+  {
+   "id": "n3-v-0664",
+   "expression": "考え",
+   "reading": "かんがえ",
+   "romaji": "kangae",
+   "en": "thinking, thought, ideas"
+  },
+  {
+   "id": "n3-v-0808",
+   "expression": "グループ",
+   "reading": "グループ",
+   "romaji": "guruupu",
+   "en": "group"
+  },
+  {
+   "id": "n3-v-0871",
+   "expression": "権利",
+   "reading": "けんり",
+   "romaji": "kenri",
+   "en": "right, privilege"
+  },
+  {
+   "id": "n3-v-0917",
+   "expression": "国語",
+   "reading": "こくご",
+   "romaji": "kokugo",
+   "en": "national language"
+  },
+  {
+   "id": "n3-v-0918",
+   "expression": "国籍",
+   "reading": "こくせき",
+   "romaji": "kokuseki",
+   "en": "nationality"
+  },
+  {
+   "id": "n3-v-0925",
+   "expression": "個人",
+   "reading": "こじん",
+   "romaji": "kojin",
+   "en": "individual, private person"
+  },
+  {
+   "id": "n3-v-0999",
+   "expression": "差別",
+   "reading": "さべつ",
+   "romaji": "sabetsu",
+   "en": "discrimination, differentiation"
+  },
+  {
+   "id": "n3-v-1051",
+   "expression": "目上",
+   "reading": "めうえ",
+   "romaji": "meue",
+   "en": "person of higher status; one's senior"
+  },
+  {
+   "id": "n3-v-1081",
+   "expression": "者",
+   "reading": "もの",
+   "romaji": "mono",
+   "en": "person (same as 人 (ひと))"
+  },
+  {
+   "id": "n3-v-1144",
+   "expression": "世の中",
+   "reading": "よのなか",
+   "romaji": "yononaka",
+   "en": "society, the world"
+  },
+  {
+   "id": "n3-v-1181",
+   "expression": "連想",
+   "reading": "れんそう",
+   "romaji": "rensou",
+   "en": "association (of ideas), suggestion"
+  },
+  {
+   "id": "n3-v-1204",
+   "expression": "我々",
+   "reading": "われわれ",
+   "romaji": "wareware",
+   "en": "we"
+  },
+  {
+   "id": "n3-v-1268",
+   "expression": "群",
+   "reading": "ぐん",
+   "romaji": "gun",
+   "en": "group"
+  },
+  {
+   "id": "n3-v-1287",
+   "expression": "個々",
+   "reading": "ここ",
+   "romaji": "koko",
+   "en": "individual, one by one"
+  },
+  {
+   "id": "n3-v-1302",
+   "expression": "全員",
+   "reading": "ぜんいん",
+   "romaji": "zen'in",
+   "en": "all members"
+  },
+  {
+   "id": "n3-v-1341",
+   "expression": "それぞれ",
+   "reading": "それぞれ",
+   "romaji": "sorezore",
+   "en": "each, every, respectively"
+  },
+  {
+   "id": "n3-v-1345",
+   "expression": "揃う",
+   "reading": "そろう",
+   "romaji": "sorou",
+   "en": "to become complete, to be equal"
+  },
+  {
+   "id": "n3-v-1350",
+   "expression": "存在",
+   "reading": "そんざい",
+   "romaji": "sonzai",
+   "en": "existence, being"
+  },
+  {
+   "id": "n3-v-1353",
+   "expression": "他",
+   "reading": "た",
+   "romaji": "ta",
+   "en": "other (esp. places and things)"
+  },
+  {
+   "id": "n3-v-1370",
+   "expression": "対する",
+   "reading": "たいする",
+   "romaji": "taisuru",
+   "en": "to face, to confront, to oppose"
+  },
+  {
+   "id": "n3-v-1410",
+   "expression": "立場",
+   "reading": "たちば",
+   "romaji": "tachiba",
+   "en": "standpoint, position, situation"
+  },
+  {
+   "id": "n3-v-1419",
+   "expression": "他人",
+   "reading": "たにん",
+   "romaji": "tanin",
+   "en": "unrelated person, stranger"
+  },
+  {
+   "id": "n3-v-1558",
+   "expression": "哲学",
+   "reading": "てつがく",
+   "romaji": "tetsugaku",
+   "en": "philosophy"
+  },
+  {
+   "id": "n3-v-1691",
+   "expression": "人間",
+   "reading": "にんげん",
+   "romaji": "ningen",
+   "en": "human being, person"
+  },
+  {
+   "id": "n3-v-1829",
+   "expression": "等しい",
+   "reading": "ひとしい",
+   "romaji": "hitoshii",
+   "en": "equal"
+  },
+  {
+   "id": "n3-v-1831",
+   "expression": "一人一人",
+   "reading": "ひとりひとり",
+   "romaji": "hitorihitori",
+   "en": "one by one, each"
+  },
+  {
+   "id": "n3-v-1844",
+   "expression": "平等",
+   "reading": "びょうどう",
+   "romaji": "byoudou",
+   "en": "equality, impartiality, evenness"
+  },
+  {
+   "id": "n3-v-1874",
+   "expression": "不自由",
+   "reading": "ふじゆう",
+   "romaji": "fujiyuu",
+   "en": "discomfort, disability, inconvenience"
+  },
+  {
+   "id": "n3-v-1876",
+   "expression": "婦人",
+   "reading": "ふじん",
+   "romaji": "fujin",
+   "en": "woman (same as 女性 (じょせい)、女の人 (おんなのひと))"
+  },
+  {
+   "id": "n3-v-1939",
+   "expression": "ボーイ",
+   "reading": "ボーイ",
+   "romaji": "booi",
+   "en": "porter; boy"
+  },
+  {
+   "id": "n3-v-1943",
+   "expression": "他",
+   "reading": "ほか",
+   "romaji": "hoka",
+   "en": "other (esp. places and things)"
+  },
+  {
+   "id": "n3-v-1959",
+   "expression": "本人",
+   "reading": "ほんにん",
+   "romaji": "honnin",
+   "en": "the person himself"
+  },
+  {
+   "id": "n3-v-1966",
+   "expression": "迷子",
+   "reading": "まいご",
+   "romaji": "maigo",
+   "en": "lost (stray) child"
+  },
+  {
+   "id": "n3-v-2009",
+   "expression": "自己",
+   "reading": "じこ",
+   "romaji": "jiko",
+   "en": "self, oneself"
+  },
+  {
+   "id": "n3-v-2015",
+   "expression": "衆",
+   "reading": "しゅう",
+   "romaji": "shuu",
+   "en": "masses, people"
+  },
+  {
+   "id": "n3-v-2018",
+   "expression": "私用",
+   "reading": "しよう",
+   "romaji": "shiyou",
+   "en": "personal use, private business"
+  },
+  {
+   "id": "n3-v-2025",
+   "expression": "女史",
+   "reading": "じょし",
+   "romaji": "joshi",
+   "en": "Ms."
+  }
+ ]
+}

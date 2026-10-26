@@ -1,0 +1,471 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 33,
+  "slug": "kodomo-muke",
+  "title": {
+   "ja": "子ども向けの商品",
+   "ta": "குழந்தைகளுக்கான பொருட்கள்",
+   "en": "Products made for children"
+  },
+  "theme": {
+   "en": "Products and design: who it's for, how easy it is to use, quality and comparison.",
+   "ta": "பொருட்களும் வடிவமைப்பும்: யாருக்காக, பயன்படுத்த எவ்வளவு எளிது, தரம், ஒப்பீடு."
+  },
+  "grammar": [
+   {
+    "id": "g33-1",
+    "pattern": "N 向け",
+    "en": "Made for / aimed at N"
+   },
+   {
+    "id": "g33-2",
+    "pattern": "N 向き",
+    "en": "Suited to N"
+   },
+   {
+    "id": "g33-3",
+    "pattern": "V-ます づらい",
+    "en": "Hard to ~ (uncomfortable)"
+   },
+   {
+    "id": "g33-4",
+    "pattern": "Adj-stem み",
+    "en": "Noun from adjective (重み, 楽しみ, 甘み)"
+   },
+   {
+    "id": "g33-5",
+    "pattern": "N に 比べて / N に 比べると",
+    "en": "Compared with N"
+   }
+  ],
+  "vocabHints": [
+   "products and manufacturing",
+   "materials and shapes",
+   "tools and equipment",
+   "quality and design"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0023",
+   "expression": "四角",
+   "reading": "しかく",
+   "romaji": "shikaku",
+   "en": "square"
+  },
+  {
+   "id": "n3-v-0121",
+   "expression": "種類",
+   "reading": "しゅるい",
+   "romaji": "shurui",
+   "en": "variety, kind"
+  },
+  {
+   "id": "n3-v-0126",
+   "expression": "使用",
+   "reading": "しよう",
+   "romaji": "shiyou",
+   "en": "use (same as 使うこと (つかうこと)), application, employment, utilization"
+  },
+  {
+   "id": "n3-v-0237",
+   "expression": "すっぱい",
+   "reading": "すっぱい",
+   "romaji": "suppai",
+   "en": "sour, acid"
+  },
+  {
+   "id": "n3-v-0251",
+   "expression": "鋭い",
+   "reading": "するどい",
+   "romaji": "surudoi",
+   "en": "pointed, sharp"
+  },
+  {
+   "id": "n3-v-0274",
+   "expression": "製造",
+   "reading": "せいぞう",
+   "romaji": "seizou",
+   "en": "manufacture, production"
+  },
+  {
+   "id": "n3-v-0281",
+   "expression": "製品",
+   "reading": "せいひん",
+   "romaji": "seihin",
+   "en": "manufactured goods, finished goods"
+  },
+  {
+   "id": "n3-v-0381",
+   "expression": "板",
+   "reading": "いた",
+   "romaji": "ita",
+   "en": "board, plank"
+  },
+  {
+   "id": "n3-v-0395",
+   "expression": "一種",
+   "reading": "いっしゅ",
+   "romaji": "isshu",
+   "en": "a species, a kind, a variety"
+  },
+  {
+   "id": "n3-v-0479",
+   "expression": "円",
+   "reading": "えん",
+   "romaji": "en",
+   "en": "circle, yen"
+  },
+  {
+   "id": "n3-v-0569",
+   "expression": "反る",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to warp, to be warped, to curve"
+  },
+  {
+   "id": "n3-v-0613",
+   "expression": "型",
+   "reading": "かた",
+   "romaji": "kata",
+   "en": "mold, model, style"
+  },
+  {
+   "id": "n3-v-0615",
+   "expression": "堅い",
+   "reading": "かたい",
+   "romaji": "katai",
+   "en": "hard, firm, solid"
+  },
+  {
+   "id": "n3-v-0616",
+   "expression": "硬い",
+   "reading": "かたい",
+   "romaji": "katai",
+   "en": "hard, firm, solid"
+  },
+  {
+   "id": "n3-v-0636",
+   "expression": "金",
+   "reading": "かね",
+   "romaji": "kane",
+   "en": "gold, metal; money"
+  },
+  {
+   "id": "n3-v-0694",
+   "expression": "器械",
+   "reading": "きかい",
+   "romaji": "kikai",
+   "en": "instrument"
+  },
+  {
+   "id": "n3-v-0715",
+   "expression": "きつい",
+   "reading": "きつい",
+   "romaji": "kitsui",
+   "en": "tight, close, intense"
+  },
+  {
+   "id": "n3-v-0720",
+   "expression": "機能",
+   "reading": "きのう",
+   "romaji": "kinou",
+   "en": "function, faculty"
+  },
+  {
+   "id": "n3-v-0735",
+   "expression": "球",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "globe, sphere, ball"
+  },
+  {
+   "id": "n3-v-0767",
+   "expression": "銀",
+   "reading": "ぎん",
+   "romaji": "gin",
+   "en": "silver"
+  },
+  {
+   "id": "n3-v-0773",
+   "expression": "金属",
+   "reading": "きんぞく",
+   "romaji": "kinzoku",
+   "en": "metal"
+  },
+  {
+   "id": "n3-v-0782",
+   "expression": "鎖",
+   "reading": "くさり",
+   "romaji": "kusari",
+   "en": "chain"
+  },
+  {
+   "id": "n3-v-0785",
+   "expression": "管",
+   "reading": "くだ",
+   "romaji": "kuda",
+   "en": "pipe, tube"
+  },
+  {
+   "id": "n3-v-0791",
+   "expression": "区別",
+   "reading": "くべつ",
+   "romaji": "kubetsu",
+   "en": "distinction, differentiation, classification"
+  },
+  {
+   "id": "n3-v-0816",
+   "expression": "加わる",
+   "reading": "くわわる",
+   "romaji": "kuwawaru",
+   "en": "to join in, to accede to"
+  },
+  {
+   "id": "n3-v-0875",
+   "expression": "濃い",
+   "reading": "こい",
+   "romaji": "koi",
+   "en": "thick (as of color, liquid), dense, strong"
+  },
+  {
+   "id": "n3-v-0908",
+   "expression": "コード",
+   "reading": "コード",
+   "romaji": "koodo",
+   "en": "code; cord; chord"
+  },
+  {
+   "id": "n3-v-0934",
+   "expression": "異なる",
+   "reading": "ことなる",
+   "romaji": "kotonaru",
+   "en": "to differ, to vary"
+  },
+  {
+   "id": "n3-v-0958",
+   "expression": "差",
+   "reading": "さ",
+   "romaji": "sa",
+   "en": "difference, variation"
+  },
+  {
+   "id": "n3-v-0984",
+   "expression": "刺さる",
+   "reading": "ささる",
+   "romaji": "sasaru",
+   "en": "to stick, to be stuck"
+  },
+  {
+   "id": "n3-v-1004",
+   "expression": "丸",
+   "reading": "まる",
+   "romaji": "maru",
+   "en": "circle, full (month)"
+  },
+  {
+   "id": "n3-v-1005",
+   "expression": "円",
+   "reading": "まる",
+   "romaji": "maru",
+   "en": "circle"
+  },
+  {
+   "id": "n3-v-1030",
+   "expression": "向く",
+   "reading": "むく",
+   "romaji": "muku",
+   "en": "to face"
+  },
+  {
+   "id": "n3-v-1124",
+   "expression": "容易",
+   "reading": "ようい",
+   "romaji": "youi",
+   "en": "easy, simple, plain"
+  },
+  {
+   "id": "n3-v-1151",
+   "expression": "より",
+   "reading": "より",
+   "romaji": "yori",
+   "en": "twist, ply"
+  },
+  {
+   "id": "n3-v-1236",
+   "expression": "角",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "angle"
+  },
+  {
+   "id": "n3-v-1247",
+   "expression": "管",
+   "reading": "かん",
+   "romaji": "kan",
+   "en": "pipe, tube"
+  },
+  {
+   "id": "n3-v-1271",
+   "expression": "計器",
+   "reading": "けいき",
+   "romaji": "keiki",
+   "en": "meter, gauge"
+  },
+  {
+   "id": "n3-v-1274",
+   "expression": "形態",
+   "reading": "けいたい",
+   "romaji": "keitai",
+   "en": "form, shape, figure"
+  },
+  {
+   "id": "n3-v-1334",
+   "expression": "具える",
+   "reading": "そなえる",
+   "romaji": "sonaeru",
+   "en": "to be furnished with"
+  },
+  {
+   "id": "n3-v-1382",
+   "expression": "平ら",
+   "reading": "たいら",
+   "romaji": "taira",
+   "en": "flatness, level, smooth"
+  },
+  {
+   "id": "n3-v-1550",
+   "expression": "適する",
+   "reading": "てきする",
+   "romaji": "tekisuru",
+   "en": "to fit, to suit"
+  },
+  {
+   "id": "n3-v-1557",
+   "expression": "鉄",
+   "reading": "てつ",
+   "romaji": "tetsu",
+   "en": "iron"
+  },
+  {
+   "id": "n3-v-1565",
+   "expression": "典型",
+   "reading": "てんけい",
+   "romaji": "tenkei",
+   "en": "type, pattern, archetypal"
+  },
+  {
+   "id": "n3-v-1575",
+   "expression": "同一",
+   "reading": "どういつ",
+   "romaji": "douitsu",
+   "en": "identity, sameness, similarity"
+  },
+  {
+   "id": "n3-v-1601",
+   "expression": "特長",
+   "reading": "とくちょう",
+   "romaji": "tokuchou",
+   "en": "forte, merit"
+  },
+  {
+   "id": "n3-v-1673",
+   "expression": "縄",
+   "reading": "なわ",
+   "romaji": "nawa",
+   "en": "rope"
+  },
+  {
+   "id": "n3-v-1743",
+   "expression": "パイプ",
+   "reading": "パイプ",
+   "romaji": "paipu",
+   "en": "pipe; channels official or otherwise"
+  },
+  {
+   "id": "n3-v-1800",
+   "expression": "針",
+   "reading": "はり",
+   "romaji": "hari",
+   "en": "needle, hand (e.g., clock)"
+  },
+  {
+   "id": "n3-v-1812",
+   "expression": "比較",
+   "reading": "ひかく",
+   "romaji": "hikaku",
+   "en": "comparison"
+  },
+  {
+   "id": "n3-v-1836",
+   "expression": "紐",
+   "reading": "ひも",
+   "romaji": "himo",
+   "en": "string, cord"
+  },
+  {
+   "id": "n3-v-1853",
+   "expression": "ピン",
+   "reading": "ピン",
+   "romaji": "pin",
+   "en": "pin"
+  },
+  {
+   "id": "n3-v-1884",
+   "expression": "縁",
+   "reading": "ふち",
+   "romaji": "fuchi",
+   "en": "edge, rim"
+  },
+  {
+   "id": "n3-v-1900",
+   "expression": "プラスチック",
+   "reading": "プラスチック",
+   "romaji": "purasuchikku",
+   "en": "plastic"
+  },
+  {
+   "id": "n3-v-1928",
+   "expression": "棒",
+   "reading": "ぼう",
+   "romaji": "bou",
+   "en": "pole, rod, stick"
+  },
+  {
+   "id": "n3-v-2019",
+   "expression": "仕様",
+   "reading": "しよう",
+   "romaji": "shiyou",
+   "en": "way, method, specification"
+  },
+  {
+   "id": "n3-v-2037",
+   "expression": "精巧",
+   "reading": "せいこう",
+   "romaji": "seikou",
+   "en": "elaborate, delicate, exquisite"
+  },
+  {
+   "id": "n3-v-2069",
+   "expression": "接ぐ",
+   "reading": "つぐ",
+   "romaji": "tsugu",
+   "en": "to join; to piece together; to set (bones); to graft (trees)"
+  },
+  {
+   "id": "n3-v-2076",
+   "expression": "デザイン",
+   "reading": "デザイン",
+   "romaji": "dezain",
+   "en": "design"
+  },
+  {
+   "id": "n3-v-2139",
+   "expression": "枠",
+   "reading": "わく",
+   "romaji": "waku",
+   "en": "frame, slide"
+  }
+ ]
+}

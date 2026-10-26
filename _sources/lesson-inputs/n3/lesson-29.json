@@ -1,0 +1,396 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 29,
+  "slug": "ruuru-wa-mamoru-beki",
+  "title": {
+   "ja": "ルールは守るべきだ",
+   "ta": "விதிகளைப் பின்பற்ற வேண்டும்",
+   "en": "Rules should be followed"
+  },
+  "theme": {
+   "en": "Life in Japan: rules, customs, notices and how things used to be.",
+   "ta": "ஜப்பானில் வாழ்க்கை: விதிகள், பழக்கவழக்கங்கள், அறிவிப்புகள், முன்பு எப்படி இருந்தது."
+  },
+  "grammar": [
+   {
+    "id": "g29-1",
+    "pattern": "V-る べきだ / V-る べきではない",
+    "en": "Should / should not"
+   },
+   {
+    "id": "g29-2",
+    "pattern": "V-る ものではない",
+    "en": "You shouldn't ~ (social norm)"
+   },
+   {
+    "id": "g29-3",
+    "pattern": "V-た ものだ",
+    "en": "Used to ~ (nostalgic memory)"
+   },
+   {
+    "id": "g29-4",
+    "pattern": "V-る / V-ない こと (instruction)",
+    "en": "Must ~ (written rules and notices)"
+   }
+  ],
+  "vocabHints": [
+   "rules and notices",
+   "rubbish and recycling",
+   "neighbours and housing",
+   "customs and procedures"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0047",
+   "expression": "従う",
+   "reading": "したがう",
+   "romaji": "shitagau",
+   "en": "to abide (by the rules), to obey"
+  },
+  {
+   "id": "n3-v-0101",
+   "expression": "住宅",
+   "reading": "じゅうたく",
+   "romaji": "juutaku",
+   "en": "resident, housing"
+  },
+  {
+   "id": "n3-v-0105",
+   "expression": "住民",
+   "reading": "じゅうみん",
+   "romaji": "juumin",
+   "en": "inhabitants, residents"
+  },
+  {
+   "id": "n3-v-0178",
+   "expression": "書類",
+   "reading": "しょるい",
+   "romaji": "shorui",
+   "en": "documents, official papers"
+  },
+  {
+   "id": "n3-v-0179",
+   "expression": "知らせ",
+   "reading": "しらせ",
+   "romaji": "shirase",
+   "en": "notice"
+  },
+  {
+   "id": "n3-v-0182",
+   "expression": "印",
+   "reading": "しるし",
+   "romaji": "shirushi",
+   "en": "mark; symbol; evidence"
+  },
+  {
+   "id": "n3-v-0266",
+   "expression": "制限",
+   "reading": "せいげん",
+   "romaji": "seigen",
+   "en": "restriction, restraint, limitation"
+  },
+  {
+   "id": "n3-v-0285",
+   "expression": "整理",
+   "reading": "せいり",
+   "romaji": "seiri",
+   "en": "sorting, arrangement"
+  },
+  {
+   "id": "n3-v-0299",
+   "expression": "合図",
+   "reading": "あいず",
+   "romaji": "aizu",
+   "en": "sign, signal"
+  },
+  {
+   "id": "n3-v-0316",
+   "expression": "預かる",
+   "reading": "あずかる",
+   "romaji": "azukaru",
+   "en": "to keep (something) for (someone)"
+  },
+  {
+   "id": "n3-v-0370",
+   "expression": "いけない",
+   "reading": "いけない",
+   "romaji": "ikenai",
+   "en": "must not do, bad, wrong"
+  },
+  {
+   "id": "n3-v-0414",
+   "expression": "居間",
+   "reading": "いま",
+   "romaji": "ima",
+   "en": "living room"
+  },
+  {
+   "id": "n3-v-0582",
+   "expression": "家具",
+   "reading": "かぐ",
+   "romaji": "kagu",
+   "en": "furniture"
+  },
+  {
+   "id": "n3-v-0607",
+   "expression": "家事",
+   "reading": "かじ",
+   "romaji": "kaji",
+   "en": "household matters; housework (same as 家の仕事 (いえのしごと))"
+  },
+  {
+   "id": "n3-v-0718",
+   "expression": "記入",
+   "reading": "きにゅう",
+   "romaji": "kinyuu",
+   "en": "entry, filling in of forms"
+  },
+  {
+   "id": "n3-v-0757",
+   "expression": "許可",
+   "reading": "きょか",
+   "romaji": "kyoka",
+   "en": "permission, approval"
+  },
+  {
+   "id": "n3-v-0768",
+   "expression": "禁煙",
+   "reading": "きんえん",
+   "romaji": "kin'en",
+   "en": "No Smoking"
+  },
+  {
+   "id": "n3-v-0771",
+   "expression": "禁止",
+   "reading": "きんし",
+   "romaji": "kinshi",
+   "en": "prohibition, ban"
+  },
+  {
+   "id": "n3-v-0828",
+   "expression": "警告",
+   "reading": "けいこく",
+   "romaji": "keikoku",
+   "en": "warning"
+  },
+  {
+   "id": "n3-v-0855",
+   "expression": "限界",
+   "reading": "げんかい",
+   "romaji": "genkai",
+   "en": "limit, bound"
+  },
+  {
+   "id": "n3-v-0942",
+   "expression": "塵",
+   "reading": "ごみ",
+   "romaji": "gomi",
+   "en": "garbage, litter"
+  },
+  {
+   "id": "n3-v-0970",
+   "expression": "サイン",
+   "reading": "サイン",
+   "romaji": "sain",
+   "en": "autograph; sign; sine"
+  },
+  {
+   "id": "n3-v-1002",
+   "expression": "守る",
+   "reading": "まもる",
+   "romaji": "mamoru",
+   "en": "to protect; to abide (by the rules)"
+  },
+  {
+   "id": "n3-v-1057",
+   "expression": "免許",
+   "reading": "めんきょ",
+   "romaji": "menkyo",
+   "en": "license, permit, certificate"
+  },
+  {
+   "id": "n3-v-1063",
+   "expression": "毛布",
+   "reading": "もうふ",
+   "romaji": "moufu",
+   "en": "blanket"
+  },
+  {
+   "id": "n3-v-1098",
+   "expression": "屋根",
+   "reading": "やね",
+   "romaji": "yane",
+   "en": "roof"
+  },
+  {
+   "id": "n3-v-1115",
+   "expression": "床",
+   "reading": "ゆか",
+   "romaji": "yuka",
+   "en": "floor"
+  },
+  {
+   "id": "n3-v-1120",
+   "expression": "許す",
+   "reading": "ゆるす",
+   "romaji": "yurusu",
+   "en": "to permit, to allow, to approve"
+  },
+  {
+   "id": "n3-v-1175",
+   "expression": "例外",
+   "reading": "れいがい",
+   "romaji": "reigai",
+   "en": "exception"
+  },
+  {
+   "id": "n3-v-1178",
+   "expression": "列",
+   "reading": "れつ",
+   "romaji": "retsu",
+   "en": "queue, line, row"
+  },
+  {
+   "id": "n3-v-1196",
+   "expression": "分ける",
+   "reading": "わける",
+   "romaji": "wakeru",
+   "en": "to divide, to separate"
+  },
+  {
+   "id": "n3-v-1243",
+   "expression": "片付け",
+   "reading": "かたづけ",
+   "romaji": "katazuke",
+   "en": "tidying up, finishing"
+  },
+  {
+   "id": "n3-v-1251",
+   "expression": "慣行",
+   "reading": "かんこう",
+   "romaji": "kankou",
+   "en": "customary practice, habit, traditional event"
+  },
+  {
+   "id": "n3-v-1259",
+   "expression": "規制",
+   "reading": "きせい",
+   "romaji": "kisei",
+   "en": "regulation"
+  },
+  {
+   "id": "n3-v-1264",
+   "expression": "切り",
+   "reading": "きり",
+   "romaji": "kiri",
+   "en": "limits, place to leave off"
+  },
+  {
+   "id": "n3-v-1282",
+   "expression": "拘束",
+   "reading": "こうそく",
+   "romaji": "kousoku",
+   "en": "restriction, restraint"
+  },
+  {
+   "id": "n3-v-1339",
+   "expression": "ソファー",
+   "reading": "ソファー",
+   "romaji": "sofuaa",
+   "en": "sofa, couch"
+  },
+  {
+   "id": "n3-v-1391",
+   "expression": "宅",
+   "reading": "たく",
+   "romaji": "taku",
+   "en": "house, home"
+  },
+  {
+   "id": "n3-v-1479",
+   "expression": "駐車",
+   "reading": "ちゅうしゃ",
+   "romaji": "chuusha",
+   "en": "parking (e.g., car)"
+  },
+  {
+   "id": "n3-v-1753",
+   "expression": "掃く",
+   "reading": "はく",
+   "romaji": "haku",
+   "en": "to sweep, to brush, to gather up"
+  },
+  {
+   "id": "n3-v-1786",
+   "expression": "離す",
+   "reading": "はなす",
+   "romaji": "hanasu",
+   "en": "to part, to separate"
+  },
+  {
+   "id": "n3-v-1787",
+   "expression": "放す",
+   "reading": "はなす",
+   "romaji": "hanasu",
+   "en": "to separate, to set free"
+  },
+  {
+   "id": "n3-v-1878",
+   "expression": "防ぐ",
+   "reading": "ふせぐ",
+   "romaji": "fusegu",
+   "en": "to defend (against), to protect, to prevent"
+  },
+  {
+   "id": "n3-v-1945",
+   "expression": "埃",
+   "reading": "ほこり",
+   "romaji": "hokori",
+   "en": "dust"
+  },
+  {
+   "id": "n3-v-1962",
+   "expression": "間",
+   "reading": "ま",
+   "romaji": "ma",
+   "en": "space, room, pause"
+  },
+  {
+   "id": "n3-v-2016",
+   "expression": "住",
+   "reading": "じゅう",
+   "romaji": "juu",
+   "en": "dwelling, living"
+  },
+  {
+   "id": "n3-v-2033",
+   "expression": "水洗",
+   "reading": "すいせん",
+   "romaji": "suisen",
+   "en": "flushing"
+  },
+  {
+   "id": "n3-v-2041",
+   "expression": "姓名",
+   "reading": "せいめい",
+   "romaji": "seimei",
+   "en": "full name"
+  },
+  {
+   "id": "n3-v-2051",
+   "expression": "添う",
+   "reading": "そう",
+   "romaji": "sou",
+   "en": "to accompany, to comply with"
+  },
+  {
+   "id": "n3-v-2138",
+   "expression": "ルール",
+   "reading": "ルール",
+   "romaji": "ruuru",
+   "en": "rule"
+  }
+ ]
+}

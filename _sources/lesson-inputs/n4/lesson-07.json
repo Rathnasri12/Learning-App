@@ -1,0 +1,226 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 7,
+  "slug": "kamoshiremasen",
+  "title": {
+   "ja": "雨が降るかもしれません",
+   "ta": "மழை பெய்யலாம்",
+   "en": "It might rain"
+  },
+  "theme": {
+   "en": "Weather, seasons and nature: forecasts, typhoons, stars, forests and the seaside.",
+   "ta": "வானிலை, பருவங்கள், இயற்கை: வானிலை முன்னறிவிப்பு, புயல், நட்சத்திரங்கள், காடு, கடற்கரை."
+  },
+  "grammar": [
+   {
+    "id": "g07-1",
+    "pattern": "plain form かもしれません",
+    "en": "Might / may (about 50% sure)"
+   },
+   {
+    "id": "g07-2",
+    "pattern": "plain form だろう / だろうと思います",
+    "en": "Plain form of でしょう: probably; I think it will probably …"
+   },
+   {
+    "id": "g07-3",
+    "pattern": "きっと / たぶん / もしかしたら",
+    "en": "Adverbs of certainty: surely / probably / perhaps"
+   },
+   {
+    "id": "g07-4",
+    "pattern": "plain form はずです",
+    "en": "Should be / is expected to be (based on facts)"
+   },
+   {
+    "id": "g07-5",
+    "pattern": "plain form はずがありません",
+    "en": "There is no way that …; it cannot be"
+   }
+  ],
+  "vocabHints": [
+   "weather: typhoon, clouds, forecast, cold",
+   "nature: forest, leaves, grass, insects",
+   "sky: sun, moon, stars, light",
+   "seasons and evenings"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-031",
+   "expression": "止む",
+   "reading": "やむ",
+   "romaji": "yamu",
+   "en": "to cease, to stop"
+  },
+  {
+   "id": "n4-v-074",
+   "expression": "台風",
+   "reading": "たいふう",
+   "romaji": "taifuu",
+   "en": "typhoon"
+  },
+  {
+   "id": "n4-v-075",
+   "expression": "日",
+   "reading": "ひ",
+   "romaji": "hi",
+   "en": "sun, sunshine, day"
+  },
+  {
+   "id": "n4-v-081",
+   "expression": "葉",
+   "reading": "は",
+   "romaji": "ha",
+   "en": "leaf"
+  },
+  {
+   "id": "n4-v-092",
+   "expression": "月",
+   "reading": "つき",
+   "romaji": "tsuki",
+   "en": "moon"
+  },
+  {
+   "id": "n4-v-129",
+   "expression": "季節",
+   "reading": "きせつ",
+   "romaji": "kisetsu",
+   "en": "season (in reference to weather)"
+  },
+  {
+   "id": "n4-v-164",
+   "expression": "星",
+   "reading": "ほし",
+   "romaji": "hoshi",
+   "en": "star"
+  },
+  {
+   "id": "n4-v-175",
+   "expression": "林",
+   "reading": "はやし",
+   "romaji": "hayashi",
+   "en": "woods, forest"
+  },
+  {
+   "id": "n4-v-184",
+   "expression": "光る",
+   "reading": "ひかる",
+   "romaji": "hikaru",
+   "en": "to shine, to glitter"
+  },
+  {
+   "id": "n4-v-186",
+   "expression": "雲",
+   "reading": "くも",
+   "romaji": "kumo",
+   "en": "cloud"
+  },
+  {
+   "id": "n4-v-259",
+   "expression": "森",
+   "reading": "もり",
+   "romaji": "mori",
+   "en": "forest"
+  },
+  {
+   "id": "n4-v-283",
+   "expression": "海岸",
+   "reading": "かいがん",
+   "romaji": "kaigan",
+   "en": "coast, seashore"
+  },
+  {
+   "id": "n4-v-299",
+   "expression": "はず",
+   "reading": "はず",
+   "romaji": "hazu",
+   "en": "it should be so"
+  },
+  {
+   "id": "n4-v-313",
+   "expression": "今夜",
+   "reading": "こんや",
+   "romaji": "kon'ya",
+   "en": "this evening, tonight"
+  },
+  {
+   "id": "n4-v-317",
+   "expression": "空気",
+   "reading": "くうき",
+   "romaji": "kuuki",
+   "en": "air, atmosphere"
+  },
+  {
+   "id": "n4-v-359",
+   "expression": "暮れる",
+   "reading": "くれる",
+   "romaji": "kureru",
+   "en": "to get dark, to come to an end"
+  },
+  {
+   "id": "n4-v-423",
+   "expression": "きっと",
+   "reading": "きっと",
+   "romaji": "kitto",
+   "en": "surely, definitely, undoubtedly, certainly"
+  },
+  {
+   "id": "n4-v-453",
+   "expression": "天気予報",
+   "reading": "てんきよほう",
+   "romaji": "tenkiyohou",
+   "en": "weather forecast"
+  },
+  {
+   "id": "n4-v-458",
+   "expression": "枝",
+   "reading": "えだ",
+   "romaji": "eda",
+   "en": "branch, twig"
+  },
+  {
+   "id": "n4-v-501",
+   "expression": "光",
+   "reading": "ひかり",
+   "romaji": "hikari",
+   "en": "light"
+  },
+  {
+   "id": "n4-v-548",
+   "expression": "冷える",
+   "reading": "ひえる",
+   "romaji": "hieru",
+   "en": "to grow cold, to cool down"
+  },
+  {
+   "id": "n4-v-555",
+   "expression": "明日",
+   "reading": "あす",
+   "romaji": "asu",
+   "en": "tomorrow"
+  },
+  {
+   "id": "n4-v-590",
+   "expression": "虫",
+   "reading": "むし",
+   "romaji": "mushi",
+   "en": "insect"
+  },
+  {
+   "id": "n4-v-593",
+   "expression": "植える",
+   "reading": "うえる",
+   "romaji": "ueru",
+   "en": "to plant"
+  },
+  {
+   "id": "n4-v-615",
+   "expression": "草",
+   "reading": "くさ",
+   "romaji": "kusa",
+   "en": "grass"
+  }
+ ]
+}

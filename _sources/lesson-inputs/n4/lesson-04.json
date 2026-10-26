@@ -1,0 +1,219 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 4,
+  "slug": "jidoushi-tadoushi",
+  "title": {
+   "ja": "窓が割れてしまいました",
+   "ta": "சன்னல் உடைந்துவிட்டது",
+   "en": "The window got broken"
+  },
+  "theme": {
+   "en": "Around the house: things that break, open, switch on, get dirty; tidying up and small accidents.",
+   "ta": "வீட்டைச் சுற்றி: உடைவது, திறப்பது, எரிவது, அழுக்காவது; ஒழுங்குபடுத்துவதும் சின்ன விபத்துகளும்."
+  },
+  "grammar": [
+   {
+    "id": "g04-1",
+    "pattern": "Vi / Vt pairs (開く・開ける, 壊れる・壊す …)",
+    "en": "Intransitive (it happens) vs transitive (someone does it) verb pairs"
+   },
+   {
+    "id": "g04-2",
+    "pattern": "N が Vi-ています (resulting state)",
+    "en": "Describing a state that results from a change: 窓が割れています"
+   },
+   {
+    "id": "g04-3",
+    "pattern": "V-てしまいます (completion)",
+    "en": "Do completely / finish off"
+   },
+   {
+    "id": "g04-4",
+    "pattern": "V-てしまいました (regret)",
+    "en": "Something unfortunate happened / I did it by mistake"
+   },
+   {
+    "id": "g04-5",
+    "pattern": "V-ちゃう / V-じゃう",
+    "en": "Casual contraction of てしまう / でしまう"
+   }
+  ],
+  "vocabHints": [
+   "household items: futon, closet, drawer, shelf, curtain",
+   "breaking, falling, getting dirty",
+   "fixing and tidying",
+   "lights and switches"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-008",
+   "expression": "鳴る",
+   "reading": "なる",
+   "romaji": "naru",
+   "en": "to sound, to ring (v.i.)"
+  },
+  {
+   "id": "n4-v-012",
+   "expression": "沸く",
+   "reading": "わく",
+   "romaji": "waku",
+   "en": "to boil, to grow hot"
+  },
+  {
+   "id": "n4-v-020",
+   "expression": "折る",
+   "reading": "おる",
+   "romaji": "oru",
+   "en": "to snap, to break; to bend"
+  },
+  {
+   "id": "n4-v-026",
+   "expression": "壊す",
+   "reading": "こわす",
+   "romaji": "kowasu",
+   "en": "to break, to break down"
+  },
+  {
+   "id": "n4-v-068",
+   "expression": "布団",
+   "reading": "ふとん",
+   "romaji": "futon",
+   "en": "futon"
+  },
+  {
+   "id": "n4-v-087",
+   "expression": "ガラス",
+   "reading": "ガラス",
+   "romaji": "garasu",
+   "en": "glass, pane"
+  },
+  {
+   "id": "n4-v-096",
+   "expression": "壊れる",
+   "reading": "こわれる",
+   "romaji": "kowareru",
+   "en": "to be broken, to break"
+  },
+  {
+   "id": "n4-v-098",
+   "expression": "落る",
+   "reading": "おちる",
+   "romaji": "ochiru",
+   "en": "to fall, to drop"
+  },
+  {
+   "id": "n4-v-188",
+   "expression": "～(て) しまう",
+   "reading": "～(て) しまう",
+   "romaji": "～(te)shimau",
+   "en": "to end up ~"
+  },
+  {
+   "id": "n4-v-198",
+   "expression": "捨てる",
+   "reading": "すてる",
+   "romaji": "suteru",
+   "en": "throw away (trash), dump, discard"
+  },
+  {
+   "id": "n4-v-208",
+   "expression": "壁",
+   "reading": "かべ",
+   "romaji": "kabe",
+   "en": "wall"
+  },
+  {
+   "id": "n4-v-263",
+   "expression": "乾く",
+   "reading": "かわく",
+   "romaji": "kawaku",
+   "en": "to get dry"
+  },
+  {
+   "id": "n4-v-344",
+   "expression": "片付ける",
+   "reading": "かたづける",
+   "romaji": "katazukeru",
+   "en": "to (clean) tidy up (v.t.), to put away"
+  },
+  {
+   "id": "n4-v-371",
+   "expression": "隅",
+   "reading": "すみ",
+   "romaji": "sumi",
+   "en": "corner"
+  },
+  {
+   "id": "n4-v-388",
+   "expression": "押し入れ",
+   "reading": "おしいれ",
+   "romaji": "oshiire",
+   "en": "closet"
+  },
+  {
+   "id": "n4-v-401",
+   "expression": "空く",
+   "reading": "あく",
+   "romaji": "aku",
+   "en": "to open, to become empty (vacant)"
+  },
+  {
+   "id": "n4-v-416",
+   "expression": "引き出し",
+   "reading": "ひきだし",
+   "romaji": "hikidashi",
+   "en": "drawer"
+  },
+  {
+   "id": "n4-v-520",
+   "expression": "カーテン",
+   "reading": "カーテン",
+   "romaji": "kaaten",
+   "en": "curtain"
+  },
+  {
+   "id": "n4-v-532",
+   "expression": "直る",
+   "reading": "なおる",
+   "romaji": "naoru",
+   "en": "to be fixed"
+  },
+  {
+   "id": "n4-v-534",
+   "expression": "直す",
+   "reading": "なおす",
+   "romaji": "naosu",
+   "en": "to correct (v.t.); to fix"
+  },
+  {
+   "id": "n4-v-549",
+   "expression": "点く",
+   "reading": "つく",
+   "romaji": "tsuku",
+   "en": "to be started, to be switched on"
+  },
+  {
+   "id": "n4-v-558",
+   "expression": "割れる",
+   "reading": "われる",
+   "romaji": "wareru",
+   "en": "to break"
+  },
+  {
+   "id": "n4-v-595",
+   "expression": "汚れる",
+   "reading": "よごれる",
+   "romaji": "yogoreru",
+   "en": "to become dirty"
+  },
+  {
+   "id": "n4-v-651",
+   "expression": "棚",
+   "reading": "たな",
+   "romaji": "tana",
+   "en": "shelves, rack"
+  }
+ ]
+}

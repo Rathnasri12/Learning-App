@@ -1,0 +1,184 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 30,
+  "slug": "kakikotoba",
+  "title": {
+   "ja": "研究について書いたレポートである",
+   "ta": "ஆய்வு பற்றி எழுதிய அறிக்கை",
+   "en": "A report written about research"
+  },
+  "theme": {
+   "en": "Written Japanese: reports, lectures, science and history, letters; reading longer texts.",
+   "ta": "எழுத்து ஜப்பானிய மொழி: அறிக்கைகள், விரிவுரைகள், அறிவியல், வரலாறு, கடிதங்கள்; நீண்ட உரைகளை வாசிப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g30-1",
+    "pattern": "だ / である style",
+    "en": "Plain written style used in reports, essays and newspapers"
+   },
+   {
+    "id": "g30-2",
+    "pattern": "V-dict / V-ない ことが あります",
+    "en": "Sometimes … happens / there are times when …"
+   },
+   {
+    "id": "g30-3",
+    "pattern": "V-たら / V-と、〜た (discovery)",
+    "en": "When I did …, I found that …: 開けたら、だれもいなかった"
+   },
+   {
+    "id": "g30-4",
+    "pattern": "〜ほど (extent)",
+    "en": "So … that … / to the extent of: 泣きたいほど"
+   },
+   {
+    "id": "g30-5",
+    "pattern": "N に よって V-passive",
+    "en": "Made / written / discovered by N (passive agent in written style)"
+   }
+  ],
+  "vocabHints": [
+   "academic: research, lecture, report, laboratory, translation",
+   "subjects: science, medicine, history, geography, literature",
+   "written connectors: and then, or, although, concerning",
+   "ratio, relationship"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-017",
+   "expression": "医学",
+   "reading": "いがく",
+   "romaji": "igaku",
+   "en": "medical science"
+  },
+  {
+   "id": "n4-v-039",
+   "expression": "非常に",
+   "reading": "ひじょうに",
+   "romaji": "hijouni",
+   "en": "extremely; very"
+  },
+  {
+   "id": "n4-v-080",
+   "expression": "レポート; リポート",
+   "reading": "レポート; リポート",
+   "romaji": "repooto;ripooto",
+   "en": "report"
+  },
+  {
+   "id": "n4-v-085",
+   "expression": "すると",
+   "reading": "すると",
+   "romaji": "suruto",
+   "en": "and, then"
+  },
+  {
+   "id": "n4-v-138",
+   "expression": "地理",
+   "reading": "ちり",
+   "romaji": "chiri",
+   "en": "geography"
+  },
+  {
+   "id": "n4-v-245",
+   "expression": "または",
+   "reading": "または",
+   "romaji": "mataha",
+   "en": "or, otherwise"
+  },
+  {
+   "id": "n4-v-319",
+   "expression": "ワープロ",
+   "reading": "ワープロ",
+   "romaji": "waapuro",
+   "en": "word processor"
+  },
+  {
+   "id": "n4-v-335",
+   "expression": "科学",
+   "reading": "かがく",
+   "romaji": "kagaku",
+   "en": "science"
+  },
+  {
+   "id": "n4-v-378",
+   "expression": "歴史",
+   "reading": "れきし",
+   "romaji": "rekishi",
+   "en": "history"
+  },
+  {
+   "id": "n4-v-474",
+   "expression": "講義",
+   "reading": "こうぎ",
+   "romaji": "kougi",
+   "en": "a lecture"
+  },
+  {
+   "id": "n4-v-488",
+   "expression": "割合",
+   "reading": "わりあい",
+   "romaji": "wariai",
+   "en": "rate, ratio, percentage"
+  },
+  {
+   "id": "n4-v-500",
+   "expression": "文学",
+   "reading": "ぶんがく",
+   "romaji": "bungaku",
+   "en": "literature"
+  },
+  {
+   "id": "n4-v-582",
+   "expression": "研究室",
+   "reading": "けんきゅうしつ",
+   "romaji": "kenkyuushitsu",
+   "en": "the professor's office; laboratory"
+  },
+  {
+   "id": "n4-v-585",
+   "expression": "けれど; けれども",
+   "reading": "けれど; けれども",
+   "romaji": "keredo;keredomo",
+   "en": "but, although"
+  },
+  {
+   "id": "n4-v-588",
+   "expression": "～(に) ついて",
+   "reading": "～(に) ついて",
+   "romaji": "～(ni)tsuite",
+   "en": "about, concerning"
+  },
+  {
+   "id": "n4-v-613",
+   "expression": "研究",
+   "reading": "けんきゅう",
+   "romaji": "kenkyuu",
+   "en": "study, research, investigation"
+  },
+  {
+   "id": "n4-v-634",
+   "expression": "翻訳",
+   "reading": "ほんやく",
+   "romaji": "hon'yaku",
+   "en": "translation"
+  },
+  {
+   "id": "n4-v-646",
+   "expression": "関係",
+   "reading": "かんけい",
+   "romaji": "kankei",
+   "en": "relation(ship), connection"
+  },
+  {
+   "id": "n4-v-663",
+   "expression": "電報",
+   "reading": "でんぽう",
+   "romaji": "denpou",
+   "en": "telegram"
+  }
+ ]
+}

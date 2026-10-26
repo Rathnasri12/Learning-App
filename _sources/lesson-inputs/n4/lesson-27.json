@@ -1,0 +1,184 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 27,
+  "slug": "kenjougo",
+  "title": {
+   "ja": "私がご案内します",
+   "ta": "நான் உங்களுக்கு வழிகாட்டுகிறேன்",
+   "en": "Let me show you the way"
+  },
+  "theme": {
+   "en": "Business phone calls and receptions: humble speech about yourself, messages, visitors.",
+   "ta": "வணிகத் தொலைபேசி அழைப்புகளும் வரவேற்பும்: தன்னைப் பற்றிப் பணிவுப் பேச்சு, செய்திகள், வருகையாளர்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g27-1",
+    "pattern": "Special humble verbs (参る / 申す / いたす / 伺う / 拝見する / おる / 存じる)",
+    "en": "Humble verbs for your own actions"
+   },
+   {
+    "id": "g27-2",
+    "pattern": "お V-ます stem します / ご N します",
+    "en": "Regular humble pattern: お持ちします, ご案内します"
+   },
+   {
+    "id": "g27-3",
+    "pattern": "お V-ます stem いたします",
+    "en": "Extra-humble version of おVします"
+   },
+   {
+    "id": "g27-4",
+    "pattern": "でございます / ございます",
+    "en": "Very polite です / あります (shops, receptions)"
+   },
+   {
+    "id": "g27-5",
+    "pattern": "V-causative-ていただきます",
+    "en": "Humbly allow myself to …: 説明させていただきます"
+   }
+  ],
+  "vocabHints": [
+   "reception desk, guidance, greeting",
+   "phone: absent, message, fax",
+   "humble verbs: say, go, come, see, ask",
+   "～様, consent, knowing"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-022",
+   "expression": "うかがう",
+   "reading": "うかがう",
+   "romaji": "ukagau",
+   "en": "to ask"
+  },
+  {
+   "id": "n4-v-043",
+   "expression": "～ございます",
+   "reading": "～ございます",
+   "romaji": "～gozaimasu",
+   "en": "to be (polite), to exist"
+  },
+  {
+   "id": "n4-v-107",
+   "expression": "致す",
+   "reading": "いたす",
+   "romaji": "itasu",
+   "en": "-- extra-modest expression for する --"
+  },
+  {
+   "id": "n4-v-119",
+   "expression": "申し上げる",
+   "reading": "もうしあげる",
+   "romaji": "moushiageru",
+   "en": "(humble)to say, to tell"
+  },
+  {
+   "id": "n4-v-241",
+   "expression": "受付",
+   "reading": "うけつけ",
+   "romaji": "uketsuke",
+   "en": "reception(ist) desk"
+  },
+  {
+   "id": "n4-v-254",
+   "expression": "あいさつする",
+   "reading": "挨拶",
+   "romaji": "挨拶",
+   "en": "greet(ing)"
+  },
+  {
+   "id": "n4-v-290",
+   "expression": "案内",
+   "reading": "あんないする",
+   "romaji": "annaisuru",
+   "en": "information, guidance"
+  },
+  {
+   "id": "n4-v-305",
+   "expression": "おる",
+   "reading": "おる",
+   "romaji": "oru",
+   "en": "-- extra-modest expression for いる --"
+  },
+  {
+   "id": "n4-v-306",
+   "expression": "申す",
+   "reading": "もうす",
+   "romaji": "mousu",
+   "en": "-- extra-modest (humble) expression for 言う (いう) --"
+  },
+  {
+   "id": "n4-v-312",
+   "expression": "よろしい",
+   "reading": "よろしい",
+   "romaji": "yoroshii",
+   "en": "(hon.) good, OK, all right"
+  },
+  {
+   "id": "n4-v-372",
+   "expression": "伺う",
+   "reading": "うかがう",
+   "romaji": "ukagau",
+   "en": "humble form of 行く (いく), 聞く (きく) and 来る (くる)"
+  },
+  {
+   "id": "n4-v-433",
+   "expression": "伝える",
+   "reading": "つたえる",
+   "romaji": "tsutaeru",
+   "en": "to convey (a message); to tell, to report"
+  },
+  {
+   "id": "n4-v-468",
+   "expression": "ファックス",
+   "reading": "ファックス",
+   "romaji": "fuakkusu",
+   "en": "fax"
+  },
+  {
+   "id": "n4-v-481",
+   "expression": "承知",
+   "reading": "しょうちする",
+   "romaji": "shouchisuru",
+   "en": "consent, acceptance"
+  },
+  {
+   "id": "n4-v-487",
+   "expression": "留守",
+   "reading": "るす",
+   "romaji": "rusu",
+   "en": "absence; not at home"
+  },
+  {
+   "id": "n4-v-504",
+   "expression": "～様",
+   "reading": "～さま",
+   "romaji": "～sama",
+   "en": "Mr., Mrs., Ms."
+  },
+  {
+   "id": "n4-v-505",
+   "expression": "ご存じ",
+   "reading": "ごぞんじ",
+   "romaji": "gozonji",
+   "en": "knowing, acquaintance"
+  },
+  {
+   "id": "n4-v-557",
+   "expression": "拝見",
+   "reading": "はいけんする",
+   "romaji": "haikensuru",
+   "en": "(humble) (polite) seeing, look at"
+  },
+  {
+   "id": "n4-v-604",
+   "expression": "参る",
+   "reading": "まいる",
+   "romaji": "mairu",
+   "en": "humble expression for 行く and 来る"
+  }
+ ]
+}

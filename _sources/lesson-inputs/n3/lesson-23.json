@@ -1,0 +1,456 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 23,
+  "slug": "aitakute-tamaranai",
+  "title": {
+   "ja": "会いたくてたまらない",
+   "ta": "உன்னைப் பார்க்க ஏங்குகிறேன்",
+   "en": "I'm dying to see you"
+  },
+  "theme": {
+   "en": "Emotions: strong feelings, longing, worry and joy.",
+   "ta": "உணர்ச்சிகள்: ஆழ்ந்த உணர்வுகள், ஏக்கம், கவலை, மகிழ்ச்சி."
+  },
+  "grammar": [
+   {
+    "id": "g23-1",
+    "pattern": "〜て たまらない",
+    "en": "Unbearably ~ / dying to ~"
+   },
+   {
+    "id": "g23-2",
+    "pattern": "〜て しょうがない / 〜て しかたがない",
+    "en": "Extremely ~ / can't help feeling ~"
+   },
+   {
+    "id": "g23-3",
+    "pattern": "〜て ならない",
+    "en": "Can't help feeling ~ (written)"
+   },
+   {
+    "id": "g23-4",
+    "pattern": "V-ず に いられない / V-ない では いられない",
+    "en": "Can't help doing ~"
+   },
+   {
+    "id": "g23-5",
+    "pattern": "〜ことか",
+    "en": "How (very) ~! (exclamation)"
+   }
+  ],
+  "vocabHints": [
+   "emotions and feelings",
+   "joy, sadness, anger, fear",
+   "worry and relief"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0032",
+   "expression": "刺激",
+   "reading": "しげき",
+   "romaji": "shigeki",
+   "en": "stimulus, impetus, incentive"
+  },
+  {
+   "id": "n3-v-0062",
+   "expression": "失望",
+   "reading": "しつぼう",
+   "romaji": "shitsubou",
+   "en": "disappointment, despair"
+  },
+  {
+   "id": "n3-v-0207",
+   "expression": "心理",
+   "reading": "しんり",
+   "romaji": "shinri",
+   "en": "mentality"
+  },
+  {
+   "id": "n3-v-0310",
+   "expression": "飽きる",
+   "reading": "あきる",
+   "romaji": "akiru",
+   "en": "to get tired of, to lose interest in"
+  },
+  {
+   "id": "n3-v-0354",
+   "expression": "慌てる",
+   "reading": "あわてる",
+   "romaji": "awateru",
+   "en": "to become confused、to panic"
+  },
+  {
+   "id": "n3-v-0355",
+   "expression": "哀れ",
+   "reading": "あわれ",
+   "romaji": "aware",
+   "en": "helpless, pity, pathetic"
+  },
+  {
+   "id": "n3-v-0383",
+   "expression": "抱く",
+   "reading": "いだく",
+   "romaji": "idaku",
+   "en": "to hold (v.t.) (written expression), to embrace, to harbor"
+  },
+  {
+   "id": "n3-v-0421",
+   "expression": "いらいら",
+   "reading": "いらいら",
+   "romaji": "iraira",
+   "en": "getting nervous, irritation"
+  },
+  {
+   "id": "n3-v-0453",
+   "expression": "うなる",
+   "reading": "うなる",
+   "romaji": "unaru",
+   "en": "to groan, to moan"
+  },
+  {
+   "id": "n3-v-0514",
+   "expression": "恐れる",
+   "reading": "おそれる",
+   "romaji": "osoreru",
+   "en": "to fear, to be afraid of"
+  },
+  {
+   "id": "n3-v-0533",
+   "expression": "思わず",
+   "reading": "おもわず",
+   "romaji": "omowazu",
+   "en": "unintentional, spontaneous"
+  },
+  {
+   "id": "n3-v-0562",
+   "expression": "快適",
+   "reading": "かいてき",
+   "romaji": "kaiteki",
+   "en": "pleasant, agreeable"
+  },
+  {
+   "id": "n3-v-0623",
+   "expression": "がっかり",
+   "reading": "がっかり",
+   "romaji": "gakkari",
+   "en": "feel disappointed, be dejected, lose heart"
+  },
+  {
+   "id": "n3-v-0633",
+   "expression": "悲しむ",
+   "reading": "かなしむ",
+   "romaji": "kanashimu",
+   "en": "to be sad, to mourn for, to regret"
+  },
+  {
+   "id": "n3-v-0657",
+   "expression": "可愛そう",
+   "reading": "かわいそう",
+   "romaji": "kawaisou",
+   "en": "poor, pitiable, pathetic"
+  },
+  {
+   "id": "n3-v-0663",
+   "expression": "勘",
+   "reading": "かん",
+   "romaji": "kan",
+   "en": "perception, intuition, the sixth sense"
+  },
+  {
+   "id": "n3-v-0665",
+   "expression": "感覚",
+   "reading": "かんかく",
+   "romaji": "kankaku",
+   "en": "sense, sensation"
+  },
+  {
+   "id": "n3-v-0672",
+   "expression": "感じ",
+   "reading": "かんじ",
+   "romaji": "kanji",
+   "en": "feeling, sense, impression"
+  },
+  {
+   "id": "n3-v-0676",
+   "expression": "感情",
+   "reading": "かんじょう",
+   "romaji": "kanjou",
+   "en": "emotion(s), feeling(s), sentiment"
+  },
+  {
+   "id": "n3-v-0678",
+   "expression": "感心",
+   "reading": "かんしん",
+   "romaji": "kanshin",
+   "en": "admiration"
+  },
+  {
+   "id": "n3-v-0679",
+   "expression": "関心",
+   "reading": "かんしん",
+   "romaji": "kanshin",
+   "en": "concern, interest"
+  },
+  {
+   "id": "n3-v-0685",
+   "expression": "感動",
+   "reading": "かんどう",
+   "romaji": "kandou",
+   "en": "being deeply moved, excitement"
+  },
+  {
+   "id": "n3-v-0721",
+   "expression": "気の毒",
+   "reading": "きのどく",
+   "romaji": "kinodoku",
+   "en": "pitiful, a pity"
+  },
+  {
+   "id": "n3-v-0760",
+   "expression": "嫌う",
+   "reading": "きらう",
+   "romaji": "kirau",
+   "en": "to hate, to dislike, to loathe"
+  },
+  {
+   "id": "n3-v-0775",
+   "expression": "緊張",
+   "reading": "きんちょう",
+   "romaji": "kinchou",
+   "en": "tension, mental strain, nervousness"
+  },
+  {
+   "id": "n3-v-0797",
+   "expression": "悔しい",
+   "reading": "くやしい",
+   "romaji": "kuyashii",
+   "en": "regrettable, mortifying, vexing"
+  },
+  {
+   "id": "n3-v-0807",
+   "expression": "狂う",
+   "reading": "くるう",
+   "romaji": "kuruu",
+   "en": "to go mad, to get out of order"
+  },
+  {
+   "id": "n3-v-0809",
+   "expression": "苦しい",
+   "reading": "くるしい",
+   "romaji": "kurushii",
+   "en": "tough; physically strenuous"
+  },
+  {
+   "id": "n3-v-0810",
+   "expression": "苦しむ",
+   "reading": "くるしむ",
+   "romaji": "kurushimu",
+   "en": "to suffer, to groan, to be worried"
+  },
+  {
+   "id": "n3-v-0812",
+   "expression": "苦労",
+   "reading": "くろう",
+   "romaji": "kurou",
+   "en": "hardship; suffering"
+  },
+  {
+   "id": "n3-v-0957",
+   "expression": "混乱",
+   "reading": "こんらん",
+   "romaji": "konran",
+   "en": "chaos, confusion, mayhem"
+  },
+  {
+   "id": "n3-v-0975",
+   "expression": "裂く",
+   "reading": "さく",
+   "romaji": "saku",
+   "en": "to tear, to split"
+  },
+  {
+   "id": "n3-v-0981",
+   "expression": "叫ぶ",
+   "reading": "さけぶ",
+   "romaji": "sakebu",
+   "en": "to shout, to cry"
+  },
+  {
+   "id": "n3-v-1040",
+   "expression": "夢中",
+   "reading": "むちゅう",
+   "romaji": "muchuu",
+   "en": "crush, crazy, be hooked on"
+  },
+  {
+   "id": "n3-v-1099",
+   "expression": "破る",
+   "reading": "やぶる",
+   "romaji": "yaburu",
+   "en": "to tear; to violate; to defeat"
+  },
+  {
+   "id": "n3-v-1116",
+   "expression": "愉快",
+   "reading": "ゆかい",
+   "romaji": "yukai",
+   "en": "pleasant, happy"
+  },
+  {
+   "id": "n3-v-1153",
+   "expression": "喜び",
+   "reading": "よろこび",
+   "romaji": "yorokobi",
+   "en": "joy, pleasure, rejoicing"
+  },
+  {
+   "id": "n3-v-1158",
+   "expression": "楽",
+   "reading": "らく",
+   "romaji": "raku",
+   "en": "comfort, ease"
+  },
+  {
+   "id": "n3-v-1201",
+   "expression": "笑い",
+   "reading": "わらい",
+   "romaji": "warai",
+   "en": "laugh, laughter, smile"
+  },
+  {
+   "id": "n3-v-1216",
+   "expression": "怒り",
+   "reading": "いかり",
+   "romaji": "ikari",
+   "en": "anger"
+  },
+  {
+   "id": "n3-v-1233",
+   "expression": "驚き",
+   "reading": "おどろき",
+   "romaji": "odoroki",
+   "en": "surprise, astonishment, wonder"
+  },
+  {
+   "id": "n3-v-1280",
+   "expression": "後悔",
+   "reading": "こうかい",
+   "romaji": "koukai",
+   "en": "regret, repentance"
+  },
+  {
+   "id": "n3-v-1285",
+   "expression": "興奮",
+   "reading": "こうふん",
+   "romaji": "koufun",
+   "en": "excitement, stimulation"
+  },
+  {
+   "id": "n3-v-1362",
+   "expression": "退屈",
+   "reading": "たいくつ",
+   "romaji": "taikutsu",
+   "en": "tedium, boring"
+  },
+  {
+   "id": "n3-v-1432",
+   "expression": "たまらない",
+   "reading": "たまらない",
+   "romaji": "tamaranai",
+   "en": "intolerable, unbearable, unendurable"
+  },
+  {
+   "id": "n3-v-1533",
+   "expression": "辛い",
+   "reading": "つらい",
+   "romaji": "tsurai",
+   "en": "painful, heart-breaking"
+  },
+  {
+   "id": "n3-v-1667",
+   "expression": "涙",
+   "reading": "なみだ",
+   "romaji": "namida",
+   "en": "tear"
+  },
+  {
+   "id": "n3-v-1668",
+   "expression": "悩む",
+   "reading": "なやむ",
+   "romaji": "nayamu",
+   "en": "to agonize, to be troubled"
+  },
+  {
+   "id": "n3-v-1702",
+   "expression": "熱中",
+   "reading": "ねっちゅう",
+   "romaji": "netchuu",
+   "en": "enthusiasm, zeal, mania"
+  },
+  {
+   "id": "n3-v-1797",
+   "expression": "腹",
+   "reading": "はら",
+   "romaji": "hara",
+   "en": "abdomen, belly, stomach"
+  },
+  {
+   "id": "n3-v-1805",
+   "expression": "反省",
+   "reading": "はんせい",
+   "romaji": "hansei",
+   "en": "reflection, reconsideration, regret"
+  },
+  {
+   "id": "n3-v-1835",
+   "expression": "微妙",
+   "reading": "びみょう",
+   "romaji": "bimyou",
+   "en": "delicate, subtle"
+  },
+  {
+   "id": "n3-v-1858",
+   "expression": "不安",
+   "reading": "ふあん",
+   "romaji": "fuan",
+   "en": "anxiety, uneasiness"
+  },
+  {
+   "id": "n3-v-2000",
+   "expression": "裂ける",
+   "reading": "さける",
+   "romaji": "sakeru",
+   "en": "to split, to tear, to burst"
+  },
+  {
+   "id": "n3-v-2020",
+   "expression": "情",
+   "reading": "じょう",
+   "romaji": "jou",
+   "en": "feelings, emotion, passion"
+  },
+  {
+   "id": "n3-v-2027",
+   "expression": "ショック",
+   "reading": "ショック",
+   "romaji": "shokku",
+   "en": "shock"
+  },
+  {
+   "id": "n3-v-2087",
+   "expression": "動揺",
+   "reading": "どうよう",
+   "romaji": "douyou",
+   "en": "disturbance, flutter shock"
+  },
+  {
+   "id": "n3-v-2119",
+   "expression": "ほっと",
+   "reading": "ほっと",
+   "romaji": "hotto",
+   "en": "feel relieved"
+  }
+ ]
+}

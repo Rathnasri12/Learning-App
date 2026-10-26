@@ -1,0 +1,400 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 21,
+  "slug": "hannin-ni-chigainai",
+  "title": {
+   "ja": "犯人に違いない",
+   "ta": "அவன்தான் குற்றவாளியாக இருக்க வேண்டும்",
+   "en": "He must be the culprit"
+  },
+  "theme": {
+   "en": "Mysteries and crime stories: guesses, certainty and impossibility.",
+   "ta": "மர்மங்களும் குற்றக் கதைகளும்: ஊகங்கள், உறுதி, சாத்தியமற்றவை."
+  },
+  "grammar": [
+   {
+    "id": "g21-1",
+    "pattern": "〜に 違いない",
+    "en": "Must be ~ (strong conviction)"
+   },
+   {
+    "id": "g21-2",
+    "pattern": "〜に 決まっている",
+    "en": "It's certain that ~ / surely"
+   },
+   {
+    "id": "g21-3",
+    "pattern": "〜わけがない",
+    "en": "There's no way that ~"
+   },
+   {
+    "id": "g21-4",
+    "pattern": "〜はずだった",
+    "en": "Was supposed to ~ (but didn't)"
+   },
+   {
+    "id": "g21-5",
+    "pattern": "V-ます そうもない / そうにない",
+    "en": "Doesn't look likely to ~"
+   }
+  ],
+  "vocabHints": [
+   "crime, police and detectives",
+   "secrets and mysteries",
+   "guessing and certainty"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0090",
+   "expression": "銃",
+   "reading": "じゅう",
+   "romaji": "juu",
+   "en": "gun"
+  },
+  {
+   "id": "n3-v-0158",
+   "expression": "証明",
+   "reading": "しょうめい",
+   "romaji": "shoumei",
+   "en": "proof, verification"
+  },
+  {
+   "id": "n3-v-0294",
+   "expression": "絶対",
+   "reading": "ぜったい",
+   "romaji": "zettai",
+   "en": "definitely, without fail, absoluteness"
+  },
+  {
+   "id": "n3-v-0312",
+   "expression": "悪魔",
+   "reading": "あくま",
+   "romaji": "akuma",
+   "en": "devil, demon, evil spirit"
+  },
+  {
+   "id": "n3-v-0332",
+   "expression": "跡",
+   "reading": "あと",
+   "romaji": "ato",
+   "en": "trace; remains; scar"
+  },
+  {
+   "id": "n3-v-0384",
+   "expression": "いたずら",
+   "reading": "いたずら",
+   "romaji": "itazura",
+   "en": "trick, practical joke"
+  },
+  {
+   "id": "n3-v-0412",
+   "expression": "違反",
+   "reading": "いはん",
+   "romaji": "ihan",
+   "en": "violation (of law), infringement"
+  },
+  {
+   "id": "n3-v-0446",
+   "expression": "討つ",
+   "reading": "うつ",
+   "romaji": "utsu",
+   "en": "to attack, to avenge"
+  },
+  {
+   "id": "n3-v-0447",
+   "expression": "撃つ",
+   "reading": "うつ",
+   "romaji": "utsu",
+   "en": "to attack, to shoot"
+  },
+  {
+   "id": "n3-v-0450",
+   "expression": "訴える",
+   "reading": "うったえる",
+   "romaji": "uttaeru",
+   "en": "to complain, to appeal, to sue (a person)"
+  },
+  {
+   "id": "n3-v-0454",
+   "expression": "奪う",
+   "reading": "うばう",
+   "romaji": "ubau",
+   "en": "to rob, to deprive"
+  },
+  {
+   "id": "n3-v-0497",
+   "expression": "覆う",
+   "reading": "おおう",
+   "romaji": "oou",
+   "en": "to cover, to hide, to conceal"
+  },
+  {
+   "id": "n3-v-0515",
+   "expression": "恐ろしい",
+   "reading": "おそろしい",
+   "romaji": "osoroshii",
+   "en": "terrible, dreadful"
+  },
+  {
+   "id": "n3-v-0586",
+   "expression": "確実",
+   "reading": "かくじつ",
+   "romaji": "kakujitsu",
+   "en": "certainty, reliability, soundness"
+  },
+  {
+   "id": "n3-v-0589",
+   "expression": "隠す",
+   "reading": "かくす",
+   "romaji": "kakusu",
+   "en": "to hide, to conceal"
+  },
+  {
+   "id": "n3-v-0593",
+   "expression": "隠れる",
+   "reading": "かくれる",
+   "romaji": "kakureru",
+   "en": "to hide, to be hidden"
+  },
+  {
+   "id": "n3-v-0727",
+   "expression": "奇妙",
+   "reading": "きみょう",
+   "romaji": "kimyou",
+   "en": "strange, queer, curious"
+  },
+  {
+   "id": "n3-v-0754",
+   "expression": "恐怖",
+   "reading": "きょうふ",
+   "romaji": "kyoufu",
+   "en": "fear, terror"
+  },
+  {
+   "id": "n3-v-0831",
+   "expression": "刑事",
+   "reading": "けいじ",
+   "romaji": "keiji",
+   "en": "criminal case, (police) detective"
+  },
+  {
+   "id": "n3-v-0888",
+   "expression": "攻撃",
+   "reading": "こうげき",
+   "romaji": "kougeki",
+   "en": "attack, strike, offensive"
+  },
+  {
+   "id": "n3-v-0899",
+   "expression": "強盗",
+   "reading": "ごうとう",
+   "romaji": "goutou",
+   "en": "robbery, burglary"
+  },
+  {
+   "id": "n3-v-0947",
+   "expression": "殺す",
+   "reading": "ころす",
+   "romaji": "korosu",
+   "en": "to kill"
+  },
+  {
+   "id": "n3-v-0967",
+   "expression": "裁判",
+   "reading": "さいばん",
+   "romaji": "saiban",
+   "en": "trial, judgment"
+  },
+  {
+   "id": "n3-v-1021",
+   "expression": "妙",
+   "reading": "みょう",
+   "romaji": "myou",
+   "en": "strange, unusual"
+  },
+  {
+   "id": "n3-v-1082",
+   "expression": "物音",
+   "reading": "ものおと",
+   "romaji": "monooto",
+   "en": "sounds"
+  },
+  {
+   "id": "n3-v-1208",
+   "expression": "悪",
+   "reading": "あく",
+   "romaji": "aku",
+   "en": "evil, vice"
+  },
+  {
+   "id": "n3-v-1269",
+   "expression": "刑",
+   "reading": "けい",
+   "romaji": "kei",
+   "en": "penalty, sentence, punishment"
+  },
+  {
+   "id": "n3-v-1298",
+   "expression": "攻める",
+   "reading": "せめる",
+   "romaji": "semeru",
+   "en": "to attack, to assault"
+  },
+  {
+   "id": "n3-v-1378",
+   "expression": "逮捕",
+   "reading": "たいほ",
+   "romaji": "taiho",
+   "en": "arrest, apprehension, capture"
+  },
+  {
+   "id": "n3-v-1396",
+   "expression": "たしか",
+   "reading": "たしか",
+   "romaji": "tashika",
+   "en": "certain, sure, if I remember correctly"
+  },
+  {
+   "id": "n3-v-1428",
+   "expression": "弾",
+   "reading": "たま",
+   "romaji": "tama",
+   "en": "bullet, shot"
+  },
+  {
+   "id": "n3-v-1430",
+   "expression": "騙す",
+   "reading": "だます",
+   "romaji": "damasu",
+   "en": "to trick, to cheat, to deceive"
+  },
+  {
+   "id": "n3-v-1459",
+   "expression": "違いない",
+   "reading": "ちがいない",
+   "romaji": "chigainai",
+   "en": "(phrase) sure, no mistaking it, for certain"
+  },
+  {
+   "id": "n3-v-1503",
+   "expression": "捕まる",
+   "reading": "つかまる",
+   "romaji": "tsukamaru",
+   "en": "to be arrested; to be caught"
+  },
+  {
+   "id": "n3-v-1528",
+   "expression": "罪",
+   "reading": "つみ",
+   "romaji": "tsumi",
+   "en": "crime, fault, indiscretion"
+  },
+  {
+   "id": "n3-v-1596",
+   "expression": "毒",
+   "reading": "どく",
+   "romaji": "doku",
+   "en": "poison, toxicant"
+  },
+  {
+   "id": "n3-v-1659",
+   "expression": "謎",
+   "reading": "なぞ",
+   "romaji": "nazo",
+   "en": "riddle, puzzle, enigma"
+  },
+  {
+   "id": "n3-v-1777",
+   "expression": "発射",
+   "reading": "はっしゃ",
+   "romaji": "hassha",
+   "en": "firing, shooting, discharge"
+  },
+  {
+   "id": "n3-v-1778",
+   "expression": "罰する",
+   "reading": "ばっする",
+   "romaji": "bassuru",
+   "en": "to punish, to penalize"
+  },
+  {
+   "id": "n3-v-1803",
+   "expression": "犯罪",
+   "reading": "はんざい",
+   "romaji": "hanzai",
+   "en": "crime"
+  },
+  {
+   "id": "n3-v-1807",
+   "expression": "犯人",
+   "reading": "はんにん",
+   "romaji": "hannin",
+   "en": "offender, criminal"
+  },
+  {
+   "id": "n3-v-1834",
+   "expression": "秘密",
+   "reading": "ひみつ",
+   "romaji": "himitsu",
+   "en": "secret, secrecy"
+  },
+  {
+   "id": "n3-v-1864",
+   "expression": "武器",
+   "reading": "ぶき",
+   "romaji": "buki",
+   "en": "weapon, arms"
+  },
+  {
+   "id": "n3-v-1873",
+   "expression": "不思議",
+   "reading": "ふしぎ",
+   "romaji": "fushigi",
+   "en": "mystery, curiosity"
+  },
+  {
+   "id": "n3-v-1877",
+   "expression": "不正",
+   "reading": "ふせい",
+   "romaji": "fusei",
+   "en": "injustice, unfairness"
+  },
+  {
+   "id": "n3-v-2001",
+   "expression": "裁く",
+   "reading": "さばく",
+   "romaji": "sabaku",
+   "en": "to judge"
+  },
+  {
+   "id": "n3-v-2054",
+   "expression": "捜査",
+   "reading": "そうさ",
+   "romaji": "sousa",
+   "en": "search (esp. in criminal investigations, investigation)"
+  },
+  {
+   "id": "n3-v-2063",
+   "expression": "盾",
+   "reading": "たて",
+   "romaji": "tate",
+   "en": "shield"
+  },
+  {
+   "id": "n3-v-2109",
+   "expression": "非行",
+   "reading": "ひこう",
+   "romaji": "hikou",
+   "en": "delinquency, misconduct"
+  },
+  {
+   "id": "n3-v-2134",
+   "expression": "予想",
+   "reading": "よそう",
+   "romaji": "yosou",
+   "en": "expectation, anticipation, prediction"
+  }
+ ]
+}

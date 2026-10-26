@@ -1,0 +1,422 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 17,
+  "slug": "yasui-towa-kagiranai",
+  "title": {
+   "ja": "安いとは限らない",
+   "ta": "எப்போதும் மலிவு என்று சொல்ல முடியாது",
+   "en": "Not always cheap"
+  },
+  "theme": {
+   "en": "Shopping, sales and customer service: exceptions and conditions.",
+   "ta": "கடைவீதி, தள்ளுபடி விற்பனை, வாடிக்கையாளர் சேவை: விதிவிலக்குகளும் நிபந்தனைகளும்."
+  },
+  "grammar": [
+   {
+    "id": "g17-1",
+    "pattern": "〜とは 限らない",
+    "en": "Not necessarily / not always (often with 必ずしも)"
+   },
+   {
+    "id": "g17-2",
+    "pattern": "N に 限り / N に 限らず",
+    "en": "Only for N / not only N"
+   },
+   {
+    "id": "g17-3",
+    "pattern": "N に 限って",
+    "en": "Of all (times or people), ~ (unexpectedly)"
+   },
+   {
+    "id": "g17-4",
+    "pattern": "V-て は (repeated)",
+    "en": "Do ~ and then (again and again)"
+   },
+   {
+    "id": "g17-5",
+    "pattern": "N は N で",
+    "en": "N, for its part / in its own way"
+   }
+  ],
+  "vocabHints": [
+   "shopping and shops",
+   "goods and prices",
+   "customer service",
+   "wrapping and delivery"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0068",
+   "expression": "品",
+   "reading": "しな",
+   "romaji": "shina",
+   "en": "thing, article, goods"
+  },
+  {
+   "id": "n3-v-0122",
+   "expression": "順",
+   "reading": "じゅん",
+   "romaji": "jun",
+   "en": "order, turn"
+  },
+  {
+   "id": "n3-v-0125",
+   "expression": "順番",
+   "reading": "じゅんばん",
+   "romaji": "junban",
+   "en": "turn (in line), order of things"
+  },
+  {
+   "id": "n3-v-0149",
+   "expression": "商人",
+   "reading": "しょうにん",
+   "romaji": "shounin",
+   "en": "trader, shopkeeper, merchant"
+  },
+  {
+   "id": "n3-v-0154",
+   "expression": "商品",
+   "reading": "しょうひん",
+   "romaji": "shouhin",
+   "en": "commodity, merchandise"
+  },
+  {
+   "id": "n3-v-0164",
+   "expression": "食品",
+   "reading": "しょくひん",
+   "romaji": "shokuhin",
+   "en": "foodstuff"
+  },
+  {
+   "id": "n3-v-0295",
+   "expression": "セット",
+   "reading": "セット",
+   "romaji": "setto",
+   "en": "set"
+  },
+  {
+   "id": "n3-v-0388",
+   "expression": "市",
+   "reading": "いち",
+   "romaji": "ichi",
+   "en": "market, fair"
+  },
+  {
+   "id": "n3-v-0392",
+   "expression": "市場",
+   "reading": "いちば",
+   "romaji": "ichiba",
+   "en": "market, bazaar"
+  },
+  {
+   "id": "n3-v-0462",
+   "expression": "売れる",
+   "reading": "うれる",
+   "romaji": "ureru",
+   "en": "to be sold"
+  },
+  {
+   "id": "n3-v-0506",
+   "expression": "収める",
+   "reading": "おさめる",
+   "romaji": "osameru",
+   "en": "to store to pay, to supply"
+  },
+  {
+   "id": "n3-v-0507",
+   "expression": "納める",
+   "reading": "おさめる",
+   "romaji": "osameru",
+   "en": "to store to pay, to supply"
+  },
+  {
+   "id": "n3-v-0566",
+   "expression": "代える",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to exchange, to interchange, to substitute"
+  },
+  {
+   "id": "n3-v-0567",
+   "expression": "替える",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to exchange, to interchange, to substitute"
+  },
+  {
+   "id": "n3-v-0568",
+   "expression": "換える",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to exchange, to interchange, to substitute"
+  },
+  {
+   "id": "n3-v-0578",
+   "expression": "限る",
+   "reading": "かぎる",
+   "romaji": "kagiru",
+   "en": "to restrict, to limit, to confine"
+  },
+  {
+   "id": "n3-v-0622",
+   "expression": "価値",
+   "reading": "かち",
+   "romaji": "kachi",
+   "en": "value, worth, merit"
+  },
+  {
+   "id": "n3-v-0634",
+   "expression": "必ずしも",
+   "reading": "かならずしも",
+   "romaji": "kanarazushimo",
+   "en": "(not) always, (not) necessarily"
+  },
+  {
+   "id": "n3-v-0717",
+   "expression": "気に入る",
+   "reading": "きにいる",
+   "romaji": "kiniiru",
+   "en": "to like, to be please"
+  },
+  {
+   "id": "n3-v-0881",
+   "expression": "高価",
+   "reading": "こうか",
+   "romaji": "kouka",
+   "en": "high price"
+  },
+  {
+   "id": "n3-v-0884",
+   "expression": "交換",
+   "reading": "こうかん",
+   "romaji": "koukan",
+   "en": "exchange, swap"
+  },
+  {
+   "id": "n3-v-0890",
+   "expression": "広告",
+   "reading": "こうこく",
+   "romaji": "koukoku",
+   "en": "advertisement"
+  },
+  {
+   "id": "n3-v-0938",
+   "expression": "好み",
+   "reading": "このみ",
+   "romaji": "konomi",
+   "en": "liking, taste, choice"
+  },
+  {
+   "id": "n3-v-0939",
+   "expression": "好む",
+   "reading": "このむ",
+   "romaji": "konomu",
+   "en": "to like, to prefer"
+  },
+  {
+   "id": "n3-v-0959",
+   "expression": "サービス",
+   "reading": "サービス",
+   "romaji": "saabisu",
+   "en": "service, support system; goods or services without charge"
+  },
+  {
+   "id": "n3-v-1042",
+   "expression": "無料",
+   "reading": "むりょう",
+   "romaji": "muryou",
+   "en": "free, no charge"
+  },
+  {
+   "id": "n3-v-1168",
+   "expression": "流行",
+   "reading": "りゅうこう",
+   "romaji": "ryuukou",
+   "en": "fashionable, fad, prevailing"
+  },
+  {
+   "id": "n3-v-1314",
+   "expression": "宣伝",
+   "reading": "せんでん",
+   "romaji": "senden",
+   "en": "advertisement, publicity"
+  },
+  {
+   "id": "n3-v-1346",
+   "expression": "揃える",
+   "reading": "そろえる",
+   "romaji": "soroeru",
+   "en": "to put things in order, to arrange"
+  },
+  {
+   "id": "n3-v-1401",
+   "expression": "ただ",
+   "reading": "ただ",
+   "romaji": "tada",
+   "en": "free of charge; just (~); only (~)"
+  },
+  {
+   "id": "n3-v-1402",
+   "expression": "只",
+   "reading": "ただ",
+   "romaji": "tada",
+   "en": "free of charge, mere, only"
+  },
+  {
+   "id": "n3-v-1477",
+   "expression": "中古",
+   "reading": "ちゅうこ",
+   "romaji": "chuuko",
+   "en": "used, second-hand"
+  },
+  {
+   "id": "n3-v-1483",
+   "expression": "注文",
+   "reading": "ちゅうもん",
+   "romaji": "chuumon",
+   "en": "order, request"
+  },
+  {
+   "id": "n3-v-1697",
+   "expression": "値",
+   "reading": "ね",
+   "romaji": "ne",
+   "en": "value, price, cost"
+  },
+  {
+   "id": "n3-v-1742",
+   "expression": "配達",
+   "reading": "はいたつ",
+   "romaji": "haitatsu",
+   "en": "delivery, distribution"
+  },
+  {
+   "id": "n3-v-1773",
+   "expression": "バッグ",
+   "reading": "バッグ",
+   "romaji": "baggu",
+   "en": "bag"
+  },
+  {
+   "id": "n3-v-1796",
+   "expression": "流行る",
+   "reading": "はやる",
+   "romaji": "hayaru",
+   "en": "to be popular, to come into fashion"
+  },
+  {
+   "id": "n3-v-1808",
+   "expression": "販売",
+   "reading": "はんばい",
+   "romaji": "hanbai",
+   "en": "sale, selling, marketing"
+  },
+  {
+   "id": "n3-v-1850",
+   "expression": "品",
+   "reading": "ひん",
+   "romaji": "hin",
+   "en": "goods; taste, elegance"
+  },
+  {
+   "id": "n3-v-1851",
+   "expression": "瓶",
+   "reading": "びん",
+   "romaji": "bin",
+   "en": "bottle"
+  },
+  {
+   "id": "n3-v-1867",
+   "expression": "含む",
+   "reading": "ふくむ",
+   "romaji": "fukumu",
+   "en": "to contain, to include"
+  },
+  {
+   "id": "n3-v-1868",
+   "expression": "含める",
+   "reading": "ふくめる",
+   "romaji": "fukumeru",
+   "en": "to include"
+  },
+  {
+   "id": "n3-v-1869",
+   "expression": "袋",
+   "reading": "ふくろ",
+   "romaji": "fukuro",
+   "en": "bag, sack"
+  },
+  {
+   "id": "n3-v-1887",
+   "expression": "物価",
+   "reading": "ぶっか",
+   "romaji": "bukka",
+   "en": "(commodity/consumer) prices"
+  },
+  {
+   "id": "n3-v-1933",
+   "expression": "包装",
+   "reading": "ほうそう",
+   "romaji": "housou",
+   "en": "packing, wrapping"
+  },
+  {
+   "id": "n3-v-1946",
+   "expression": "保証",
+   "reading": "ほしょう",
+   "romaji": "hoshou",
+   "en": "guarantee, assurance, warranty"
+  },
+  {
+   "id": "n3-v-1960",
+   "expression": "本物",
+   "reading": "ほんもの",
+   "romaji": "honmono",
+   "en": "genuine article"
+  },
+  {
+   "id": "n3-v-1964",
+   "expression": "マーケット",
+   "reading": "マーケット",
+   "romaji": "maaketto",
+   "en": "market"
+  },
+  {
+   "id": "n3-v-1994",
+   "expression": "まとめる",
+   "reading": "まとめる",
+   "romaji": "matomeru",
+   "en": "to put in order, to collect, to bring to a conclusion"
+  },
+  {
+   "id": "n3-v-2091",
+   "expression": "並",
+   "reading": "なみ",
+   "romaji": "nami",
+   "en": "medium (e.g., food serving size, quality, price, etc.), ordinary"
+  },
+  {
+   "id": "n3-v-2117",
+   "expression": "保障",
+   "reading": "ほしょう",
+   "romaji": "hoshou",
+   "en": "guarantee, security, warranty"
+  },
+  {
+   "id": "n3-v-2131",
+   "expression": "有機",
+   "reading": "ゆうき",
+   "romaji": "yuuki",
+   "en": "organic"
+  },
+  {
+   "id": "n3-v-2137",
+   "expression": "ラベル",
+   "reading": "ラベル",
+   "romaji": "raberu",
+   "en": "label"
+  }
+ ]
+}

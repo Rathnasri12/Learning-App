@@ -1,0 +1,437 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 20,
+  "slug": "otona-ppoi",
+  "title": {
+   "ja": "大人っぽい",
+   "ta": "பெரியவர் போலத் தோற்றம்",
+   "en": "Looking grown-up"
+  },
+  "theme": {
+   "en": "Appearance and fashion: what people and things look like.",
+   "ta": "தோற்றமும் ஃபேஷனும்: மனிதர்களும் பொருட்களும் எப்படித் தெரிகிறார்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g20-1",
+    "pattern": "N / V-ます っぽい",
+    "en": "-ish, -like / tends to"
+   },
+   {
+    "id": "g20-2",
+    "pattern": "Adj-stem げ",
+    "en": "Looking ~ (寂しげ, 楽しげ)"
+   },
+   {
+    "id": "g20-3",
+    "pattern": "まるで 〜よう(だ) / みたい(だ)",
+    "en": "Just like ~ (as if)"
+   },
+   {
+    "id": "g20-4",
+    "pattern": "〜ように 見える",
+    "en": "Looks as if ~ / seems ~"
+   }
+  ],
+  "vocabHints": [
+   "clothes and fashion",
+   "faces, hair and looks",
+   "colours, patterns and style"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0021",
+   "expression": "ジーンズ",
+   "reading": "ジーンズ",
+   "romaji": "jiinzu",
+   "en": "jeans"
+  },
+  {
+   "id": "n3-v-0233",
+   "expression": "スタイル",
+   "reading": "スタイル",
+   "romaji": "sutairu",
+   "en": "style"
+  },
+  {
+   "id": "n3-v-0238",
+   "expression": "すてき",
+   "reading": "すてき",
+   "romaji": "suteki",
+   "en": "lovely, great"
+  },
+  {
+   "id": "n3-v-0413",
+   "expression": "衣服",
+   "reading": "いふく",
+   "romaji": "ifuku",
+   "en": "clothes"
+  },
+  {
+   "id": "n3-v-0417",
+   "expression": "イメージ",
+   "reading": "イメージ",
+   "romaji": "imeeji",
+   "en": "one's image"
+  },
+  {
+   "id": "n3-v-0431",
+   "expression": "印象",
+   "reading": "いんしょう",
+   "romaji": "inshou",
+   "en": "impression"
+  },
+  {
+   "id": "n3-v-0452",
+   "expression": "映る",
+   "reading": "うつる",
+   "romaji": "utsuru",
+   "en": "to be reflected, to come out (photo)"
+  },
+  {
+   "id": "n3-v-0473",
+   "expression": "笑顔",
+   "reading": "えがお",
+   "romaji": "egao",
+   "en": "smile (on one's face)"
+  },
+  {
+   "id": "n3-v-0510",
+   "expression": "お洒落",
+   "reading": "おしゃれ",
+   "romaji": "oshare",
+   "en": "smartly dressed, fashion-conscious"
+  },
+  {
+   "id": "n3-v-0523",
+   "expression": "帯",
+   "reading": "おび",
+   "romaji": "obi",
+   "en": "band, sash"
+  },
+  {
+   "id": "n3-v-0575",
+   "expression": "輝く",
+   "reading": "かがやく",
+   "romaji": "kagayaku",
+   "en": "to shine, to glitter, to sparkle"
+  },
+  {
+   "id": "n3-v-0640",
+   "expression": "被る",
+   "reading": "かぶる",
+   "romaji": "kaburu",
+   "en": "to wear; to be covered with"
+  },
+  {
+   "id": "n3-v-0645",
+   "expression": "髪の毛",
+   "reading": "かみのけ",
+   "romaji": "kaminoke",
+   "en": "hair (head)"
+  },
+  {
+   "id": "n3-v-0652",
+   "expression": "柄",
+   "reading": "がら",
+   "romaji": "gara",
+   "en": "pattern; build; character"
+  },
+  {
+   "id": "n3-v-0653",
+   "expression": "刈る",
+   "reading": "かる",
+   "romaji": "karu",
+   "en": "to cut (hair), to mow (grass), to harvest"
+  },
+  {
+   "id": "n3-v-0656",
+   "expression": "革",
+   "reading": "かわ",
+   "romaji": "kawa",
+   "en": "leather"
+  },
+  {
+   "id": "n3-v-0658",
+   "expression": "可愛らしい",
+   "reading": "かわいらしい",
+   "romaji": "kawairashii",
+   "en": "lovely, sweet"
+  },
+  {
+   "id": "n3-v-0704",
+   "expression": "生地",
+   "reading": "きじ",
+   "romaji": "kiji",
+   "en": "fabric; dough"
+  },
+  {
+   "id": "n3-v-0762",
+   "expression": "切れ",
+   "reading": "きれ",
+   "romaji": "kire",
+   "en": "cloth, piece, cut"
+  },
+  {
+   "id": "n3-v-0839",
+   "expression": "化粧",
+   "reading": "けしょう",
+   "romaji": "keshou",
+   "en": "make-up (cosmetic)"
+  },
+  {
+   "id": "n3-v-1006",
+   "expression": "まるで",
+   "reading": "まるで",
+   "romaji": "marude",
+   "en": "just like"
+  },
+  {
+   "id": "n3-v-1024",
+   "expression": "魅力",
+   "reading": "みりょく",
+   "romaji": "miryoku",
+   "en": "charm, fascination, appeal"
+  },
+  {
+   "id": "n3-v-1055",
+   "expression": "面",
+   "reading": "めん",
+   "romaji": "men",
+   "en": "face, mug, surface, side or facet, corner, page"
+  },
+  {
+   "id": "n3-v-1056",
+   "expression": "綿",
+   "reading": "めん",
+   "romaji": "men",
+   "en": "cotton"
+  },
+  {
+   "id": "n3-v-1086",
+   "expression": "模様",
+   "reading": "もよう",
+   "romaji": "moyou",
+   "en": "pattern, figure, design"
+  },
+  {
+   "id": "n3-v-1100",
+   "expression": "破れる",
+   "reading": "やぶれる",
+   "romaji": "yabureru",
+   "en": "to get torn, to wear out"
+  },
+  {
+   "id": "n3-v-1129",
+   "expression": "様子",
+   "reading": "ようす",
+   "romaji": "yousu",
+   "en": "aspect, state, appearance"
+  },
+  {
+   "id": "n3-v-1199",
+   "expression": "綿",
+   "reading": "わた",
+   "romaji": "wata",
+   "en": "cotton"
+  },
+  {
+   "id": "n3-v-1217",
+   "expression": "粋",
+   "reading": "いき",
+   "romaji": "iki",
+   "en": "chic, style, purity"
+  },
+  {
+   "id": "n3-v-1224",
+   "expression": "衣料",
+   "reading": "いりょう",
+   "romaji": "iryou",
+   "en": "clothing"
+  },
+  {
+   "id": "n3-v-1330",
+   "expression": "そっくり",
+   "reading": "そっくり",
+   "romaji": "sokkuri",
+   "en": "the splitting image of; entirely"
+  },
+  {
+   "id": "n3-v-1332",
+   "expression": "袖",
+   "reading": "そで",
+   "romaji": "sode",
+   "en": "sleeve"
+  },
+  {
+   "id": "n3-v-1403",
+   "expression": "唯",
+   "reading": "ただ",
+   "romaji": "tada",
+   "en": "mere, sole, plain"
+  },
+  {
+   "id": "n3-v-1515",
+   "expression": "着ける",
+   "reading": "つける",
+   "romaji": "tsukeru",
+   "en": "to put on, to wear; to draw up"
+  },
+  {
+   "id": "n3-v-1635",
+   "expression": "ドレス",
+   "reading": "ドレス",
+   "romaji": "doresu",
+   "en": "dress"
+  },
+  {
+   "id": "n3-v-1677",
+   "expression": "似合う",
+   "reading": "にあう",
+   "romaji": "niau",
+   "en": "to suit (a person), to match (clothing), (something) becomes (someone)"
+  },
+  {
+   "id": "n3-v-1694",
+   "expression": "布",
+   "reading": "ぬの",
+   "romaji": "nuno",
+   "en": "cloth"
+  },
+  {
+   "id": "n3-v-1720",
+   "expression": "覗く",
+   "reading": "のぞく",
+   "romaji": "nozoku",
+   "en": "to peek in, to look in"
+  },
+  {
+   "id": "n3-v-1769",
+   "expression": "肌",
+   "reading": "はだ",
+   "romaji": "hada",
+   "en": "skin"
+  },
+  {
+   "id": "n3-v-1770",
+   "expression": "裸",
+   "reading": "はだか",
+   "romaji": "hadaka",
+   "en": "naked, nude"
+  },
+  {
+   "id": "n3-v-1784",
+   "expression": "派手",
+   "reading": "はで",
+   "romaji": "hade",
+   "en": "showy, flashy, gaudy"
+  },
+  {
+   "id": "n3-v-1804",
+   "expression": "ハンサム",
+   "reading": "ハンサム",
+   "romaji": "hansamu",
+   "en": "handsome"
+  },
+  {
+   "id": "n3-v-1818",
+   "expression": "美人",
+   "reading": "びじん",
+   "romaji": "bijin",
+   "en": "beautiful person (woman)"
+  },
+  {
+   "id": "n3-v-1819",
+   "expression": "額",
+   "reading": "ひたい",
+   "romaji": "hitai",
+   "en": "forehead, brow"
+  },
+  {
+   "id": "n3-v-1823",
+   "expression": "ぴったり",
+   "reading": "ぴったり",
+   "romaji": "pittari",
+   "en": "exactly, neatly, sharp"
+  },
+  {
+   "id": "n3-v-1866",
+   "expression": "服装",
+   "reading": "ふくそう",
+   "romaji": "fukusou",
+   "en": "clothes, attire"
+  },
+  {
+   "id": "n3-v-1920",
+   "expression": "ベルト",
+   "reading": "ベルト",
+   "romaji": "beruto",
+   "en": "Belt for western clothes"
+  },
+  {
+   "id": "n3-v-1932",
+   "expression": "宝石",
+   "reading": "ほうせき",
+   "romaji": "houseki",
+   "en": "gem, jewel"
+  },
+  {
+   "id": "n3-v-1952",
+   "expression": "頬",
+   "reading": "ほほ",
+   "romaji": "hoho",
+   "en": "cheek (of face)"
+  },
+  {
+   "id": "n3-v-1953",
+   "expression": "頬",
+   "reading": "ほお",
+   "romaji": "hoo",
+   "en": "cheek (of face)"
+  },
+  {
+   "id": "n3-v-1955",
+   "expression": "微笑む",
+   "reading": "ほほえむ",
+   "romaji": "hohoemu",
+   "en": "to smile"
+  },
+  {
+   "id": "n3-v-1969",
+   "expression": "巻く",
+   "reading": "まく",
+   "romaji": "maku",
+   "en": "to wind, to coil, to roll"
+  },
+  {
+   "id": "n3-v-1990",
+   "expression": "真っ赤",
+   "reading": "まっか",
+   "romaji": "makka",
+   "en": "deep red, flushed (of face)"
+  },
+  {
+   "id": "n3-v-1998",
+   "expression": "まぶしい",
+   "reading": "まぶしい",
+   "romaji": "mabushii",
+   "en": "dazzling, radiant"
+  },
+  {
+   "id": "n3-v-2101",
+   "expression": "映える",
+   "reading": "はえる",
+   "romaji": "haeru",
+   "en": "to shine, to look attractive, to look pretty"
+  },
+  {
+   "id": "n3-v-2104",
+   "expression": "生やす",
+   "reading": "はやす",
+   "romaji": "hayasu",
+   "en": "to grow, to cultivate, to wear beard"
+  }
+ ]
+}

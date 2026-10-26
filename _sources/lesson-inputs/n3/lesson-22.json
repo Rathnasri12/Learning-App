@@ -1,0 +1,471 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 22,
+  "slug": "kaze-gimi",
+  "title": {
+   "ja": "かぜ気味",
+   "ta": "லேசான சளி",
+   "en": "A touch of a cold"
+  },
+  "theme": {
+   "en": "Health and the body: symptoms, worries, habits and hunches.",
+   "ta": "உடல்நலம்: அறிகுறிகள், கவலைகள், பழக்கங்கள், உள்ளுணர்வுகள்."
+  },
+  "grammar": [
+   {
+    "id": "g22-1",
+    "pattern": "〜ような 気が する",
+    "en": "I have a feeling that ~"
+   },
+   {
+    "id": "g22-2",
+    "pattern": "N / V-ます 気味",
+    "en": "A touch of ~ / slightly ~"
+   },
+   {
+    "id": "g22-3",
+    "pattern": "N / V-ます がち",
+    "en": "Tend to ~ / prone to (often bad)"
+   },
+   {
+    "id": "g22-4",
+    "pattern": "〜おそれが ある",
+    "en": "There is a risk that ~"
+   },
+   {
+    "id": "g22-5",
+    "pattern": "〜のではないか / 〜んじゃないか",
+    "en": "Isn't it ~? / I suspect ~"
+   }
+  ],
+  "vocabHints": [
+   "the body and body parts",
+   "illness, symptoms and treatment",
+   "doctors and hospitals",
+   "healthy habits"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0045",
+   "expression": "舌",
+   "reading": "した",
+   "romaji": "shita",
+   "en": "tongue"
+  },
+  {
+   "id": "n3-v-0098",
+   "expression": "重体",
+   "reading": "じゅうたい",
+   "romaji": "juutai",
+   "en": "seriously ill, critical state"
+  },
+  {
+   "id": "n3-v-0110",
+   "expression": "手術",
+   "reading": "しゅじゅつ",
+   "romaji": "shujutsu",
+   "en": "surgical operation"
+  },
+  {
+   "id": "n3-v-0142",
+   "expression": "症状",
+   "reading": "しょうじょう",
+   "romaji": "shoujou",
+   "en": "symptoms, condition"
+  },
+  {
+   "id": "n3-v-0180",
+   "expression": "尻",
+   "reading": "しり",
+   "romaji": "shiri",
+   "en": "buttocks, bottom"
+  },
+  {
+   "id": "n3-v-0185",
+   "expression": "神経",
+   "reading": "しんけい",
+   "romaji": "shinkei",
+   "en": "nerve, sensitivity"
+  },
+  {
+   "id": "n3-v-0191",
+   "expression": "診察",
+   "reading": "しんさつ",
+   "romaji": "shinsatsu",
+   "en": "medical examination (of a patient)"
+  },
+  {
+   "id": "n3-v-0197",
+   "expression": "心臓",
+   "reading": "しんぞう",
+   "romaji": "shinzou",
+   "en": "heart"
+  },
+  {
+   "id": "n3-v-0198",
+   "expression": "身体",
+   "reading": "しんたい",
+   "romaji": "shintai",
+   "en": "the body"
+  },
+  {
+   "id": "n3-v-0199",
+   "expression": "身長",
+   "reading": "しんちょう",
+   "romaji": "shinchou",
+   "en": "height (of body), stature"
+  },
+  {
+   "id": "n3-v-0235",
+   "expression": "頭痛",
+   "reading": "ずつう",
+   "romaji": "zutsuu",
+   "en": "headache"
+  },
+  {
+   "id": "n3-v-0286",
+   "expression": "咳",
+   "reading": "せき",
+   "romaji": "seki",
+   "en": "cough"
+  },
+  {
+   "id": "n3-v-0318",
+   "expression": "汗",
+   "reading": "あせ",
+   "romaji": "ase",
+   "en": "sweat, perspiration"
+  },
+  {
+   "id": "n3-v-0335",
+   "expression": "脂",
+   "reading": "あぶら",
+   "romaji": "abura",
+   "en": "fat"
+  },
+  {
+   "id": "n3-v-0362",
+   "expression": "胃",
+   "reading": "い",
+   "romaji": "i",
+   "en": "stomach"
+  },
+  {
+   "id": "n3-v-0367",
+   "expression": "息",
+   "reading": "いき",
+   "romaji": "iki",
+   "en": "breath"
+  },
+  {
+   "id": "n3-v-0371",
+   "expression": "医師",
+   "reading": "いし",
+   "romaji": "ishi",
+   "en": "doctor, physician"
+  },
+  {
+   "id": "n3-v-0375",
+   "expression": "意識",
+   "reading": "いしき",
+   "romaji": "ishiki",
+   "en": "consciousness, senses"
+  },
+  {
+   "id": "n3-v-0376",
+   "expression": "異常",
+   "reading": "いじょう",
+   "romaji": "ijou",
+   "en": "strangeness, abnormality, disorder"
+  },
+  {
+   "id": "n3-v-0386",
+   "expression": "痛み",
+   "reading": "いたみ",
+   "romaji": "itami",
+   "en": "pain, ache, sore"
+  },
+  {
+   "id": "n3-v-0423",
+   "expression": "医療",
+   "reading": "いりょう",
+   "romaji": "iryou",
+   "en": "medical care, medical treatment"
+  },
+  {
+   "id": "n3-v-0438",
+   "expression": "うがい",
+   "reading": "うがい",
+   "romaji": "ugai",
+   "en": "gargling"
+  },
+  {
+   "id": "n3-v-0472",
+   "expression": "栄養",
+   "reading": "えいよう",
+   "romaji": "eiyou",
+   "en": "nutrition, nourishment"
+  },
+  {
+   "id": "n3-v-0563",
+   "expression": "回復",
+   "reading": "かいふく",
+   "romaji": "kaifuku",
+   "en": "recovery (from illness), rehabilitation, restoration"
+  },
+  {
+   "id": "n3-v-0577",
+   "expression": "罹る",
+   "reading": "かかる",
+   "romaji": "kakaru",
+   "en": "to suffer from"
+  },
+  {
+   "id": "n3-v-0579",
+   "expression": "掻く",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "to scratch"
+  },
+  {
+   "id": "n3-v-0614",
+   "expression": "肩",
+   "reading": "かた",
+   "romaji": "kata",
+   "en": "shoulder"
+  },
+  {
+   "id": "n3-v-0648",
+   "expression": "かゆい",
+   "reading": "かゆい",
+   "romaji": "kayui",
+   "en": "itchy, itching"
+  },
+  {
+   "id": "n3-v-0660",
+   "expression": "渇く",
+   "reading": "かわく",
+   "romaji": "kawaku",
+   "en": "to be thirsty"
+  },
+  {
+   "id": "n3-v-0674",
+   "expression": "患者",
+   "reading": "かんじゃ",
+   "romaji": "kanja",
+   "en": "patient"
+  },
+  {
+   "id": "n3-v-0726",
+   "expression": "気味",
+   "reading": "きみ",
+   "romaji": "kimi",
+   "en": "-like, -looking, -looked"
+  },
+  {
+   "id": "n3-v-0789",
+   "expression": "苦痛",
+   "reading": "くつう",
+   "romaji": "kutsuu",
+   "en": "pain, agony"
+  },
+  {
+   "id": "n3-v-0790",
+   "expression": "ぐっすり",
+   "reading": "ぐっすり",
+   "romaji": "gussuri",
+   "en": "sound asleep, fast asleep"
+  },
+  {
+   "id": "n3-v-0841",
+   "expression": "血液",
+   "reading": "けつえき",
+   "romaji": "ketsueki",
+   "en": "blood"
+  },
+  {
+   "id": "n3-v-0858",
+   "expression": "健康",
+   "reading": "けんこう",
+   "romaji": "kenkou",
+   "en": "health(y)"
+  },
+  {
+   "id": "n3-v-0859",
+   "expression": "検査",
+   "reading": "けんさ",
+   "romaji": "kensa",
+   "en": "inspection, examination"
+  },
+  {
+   "id": "n3-v-0914",
+   "expression": "呼吸",
+   "reading": "こきゅう",
+   "romaji": "kokyuu",
+   "en": "breath, respiration"
+  },
+  {
+   "id": "n3-v-0923",
+   "expression": "腰",
+   "reading": "こし",
+   "romaji": "koshi",
+   "en": "hip, waist"
+  },
+  {
+   "id": "n3-v-1009",
+   "expression": "身",
+   "reading": "み",
+   "romaji": "mi",
+   "en": "body, main part"
+  },
+  {
+   "id": "n3-v-1018",
+   "expression": "見舞い",
+   "reading": "みまい",
+   "romaji": "mimai",
+   "en": "expression of sympathy, expression of concern"
+  },
+  {
+   "id": "n3-v-1025",
+   "expression": "診る",
+   "reading": "みる",
+   "romaji": "miru",
+   "en": "to examine (a patient)"
+  },
+  {
+   "id": "n3-v-1035",
+   "expression": "虫歯",
+   "reading": "むしば",
+   "romaji": "mushiba",
+   "en": "cavity, tooth decay"
+  },
+  {
+   "id": "n3-v-1041",
+   "expression": "胸",
+   "reading": "むね",
+   "romaji": "mune",
+   "en": "breast, chest"
+  },
+  {
+   "id": "n3-v-1147",
+   "expression": "予防",
+   "reading": "よぼう",
+   "romaji": "yobou",
+   "en": "prevention, protection against"
+  },
+  {
+   "id": "n3-v-1215",
+   "expression": "医院",
+   "reading": "いいん",
+   "romaji": "iin",
+   "en": "doctor's office (surgery), clinic"
+  },
+  {
+   "id": "n3-v-1254",
+   "expression": "器官",
+   "reading": "きかん",
+   "romaji": "kikan",
+   "en": "organ (of body, instrument)"
+  },
+  {
+   "id": "n3-v-1265",
+   "expression": "菌",
+   "reading": "きん",
+   "romaji": "kin",
+   "en": "germ, bacterium"
+  },
+  {
+   "id": "n3-v-1275",
+   "expression": "血管",
+   "reading": "けっかん",
+   "romaji": "kekkan",
+   "en": "blood vessel"
+  },
+  {
+   "id": "n3-v-1358",
+   "expression": "体温",
+   "reading": "たいおん",
+   "romaji": "taion",
+   "en": "temperature (body)"
+  },
+  {
+   "id": "n3-v-1552",
+   "expression": "適度",
+   "reading": "てきど",
+   "romaji": "tekido",
+   "en": "moderate"
+  },
+  {
+   "id": "n3-v-1754",
+   "expression": "吐く",
+   "reading": "はく",
+   "romaji": "haku",
+   "en": "to throw up, to vomit"
+  },
+  {
+   "id": "n3-v-2005",
+   "expression": "視覚",
+   "reading": "しかく",
+   "romaji": "shikaku",
+   "en": "sense of sight, vision"
+  },
+  {
+   "id": "n3-v-2013",
+   "expression": "脂肪",
+   "reading": "しぼう",
+   "romaji": "shibou",
+   "en": "fat, grease"
+  },
+  {
+   "id": "n3-v-2034",
+   "expression": "ストレス",
+   "reading": "ストレス",
+   "romaji": "sutoresu",
+   "en": "stress"
+  },
+  {
+   "id": "n3-v-2042",
+   "expression": "生理",
+   "reading": "せいり",
+   "romaji": "seiri",
+   "en": "physiology, menses"
+  },
+  {
+   "id": "n3-v-2067",
+   "expression": "治療",
+   "reading": "ちりょう",
+   "romaji": "chiryou",
+   "en": "medical treatment"
+  },
+  {
+   "id": "n3-v-2097",
+   "expression": "脳",
+   "reading": "のう",
+   "romaji": "nou",
+   "en": "brain, memory"
+  },
+  {
+   "id": "n3-v-2099",
+   "expression": "肺",
+   "reading": "はい",
+   "romaji": "hai",
+   "en": "lung"
+  },
+  {
+   "id": "n3-v-2123",
+   "expression": "股",
+   "reading": "また",
+   "romaji": "mata",
+   "en": "thigh, crotch"
+  },
+  {
+   "id": "n3-v-2125",
+   "expression": "マッサージ",
+   "reading": "マッサージ",
+   "romaji": "massaaji",
+   "en": "massage"
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+  "title": { "en": "N4 kanji exam", "ta": "N4 கான்ஜி தேர்வு" },
+  "passMark": 0.7,
+  "items": [
+    {
+      "id": "KX-q01",
+      "type": "kanji_reading",
+      "sentence": "あしたは ＿早く＿ おきて ください。",
+      "target": "早く",
+      "options": ["はやく", "そうく", "はやっく", "さく"],
+      "answer": 0,
+      "explanation_en": "早く is read はやく (சீக்கிரம், early). そう is the on reading of 早 (早朝 そうちょう); with く after it, use はやく.",
+      "explanation_ta": "早く = はやく (சீக்கிரம், early). そう என்பது 早-இன் on வாசிப்பு (早朝 そうちょう); பின்னால் く வந்தால் はやく."
+    },
+    {
+      "id": "KX-q02",
+      "type": "kanji_reading",
+      "sentence": "＿地図＿を 見ながら 歩きます。",
+      "target": "地図",
+      "options": ["じず", "ちず", "ちと", "ちづ"],
+      "answer": 1,
+      "explanation_en": "地図 is read ちず (வரைபடம், map). 地 is ち here, not じ, and 図 is ず.",
+      "explanation_ta": "地図 = ちず (வரைபடம், map). இங்கே 地 = ち, じ அல்ல; 図 = ず."
+    },
+    {
+      "id": "KX-q03",
+      "type": "kanji_reading",
+      "sentence": "この 道を まっすぐ 行くと ＿新しい＿ 店が あります。",
+      "target": "新しい",
+      "options": ["あらたしい", "しんしい", "あたらしい", "あたらい"],
+      "answer": 2,
+      "explanation_en": "新しい is read あたらしい (புதிய, new). The order is あ-た-ら: あらたしい mixes up the sounds. しん is the on reading (新聞).",
+      "explanation_ta": "新しい = あたらしい (புதிய, new). வரிசை あ-た-ら; あらたしい ஒலிகளை மாற்றிவிட்டது. しん என்பது on வாசிப்பு (新聞)."
+    },
+    {
+      "id": "KX-q04",
+      "type": "kanji_reading",
+      "sentence": "＿近く＿に コンビニが ありますか。",
+      "target": "近く",
+      "options": ["ちがく", "きんく", "ちかっく", "ちかく"],
+      "answer": 3,
+      "explanation_en": "近く is read ちかく (அருகில், nearby). か is not voiced, so ちがく is wrong. きん is the on reading (近所).",
+      "explanation_ta": "近く = ちかく (அருகில், nearby). か கனமாக ஒலிக்காது; அதனால் ちがく தவறு. きん என்பது on வாசிப்பு (近所)."
+    },
+    {
+      "id": "KX-q05",
+      "type": "kanji_reading",
+      "sentence": "毎日 ＿朝＿ 六時に おきます。",
+      "target": "朝",
+      "options": ["あさ", "ちょう", "あざ", "ひる"],
+      "answer": 0,
+      "explanation_en": "朝 alone is read あさ (காலை, morning). ちょう is the on reading, used in words like 朝食 (ちょうしょく).",
+      "explanation_ta": "தனியாக 朝 = あさ (காலை, morning). ちょう என்பது on வாசிப்பு; 朝食 (ちょうしょく) போன்ற சொற்களில் வரும்."
+    },
+    {
+      "id": "KX-q06",
+      "type": "kanji_reading",
+      "sentence": "きのうの パーティーは とても ＿楽しかった＿です。",
+      "target": "楽しかった",
+      "options": ["らくしかった", "たのしかった", "たのじかった", "がくしかった"],
+      "answer": 1,
+      "explanation_en": "楽しかった is read たのしかった (மகிழ்ச்சியாக இருந்தது, was fun). らく is an on reading of 楽 (楽な, easy), not used with しい.",
+      "explanation_ta": "楽しかった = たのしかった (மகிழ்ச்சியாக இருந்தது, was fun). らく என்பது 楽-இன் on வாசிப்பு (楽な, எளிதான); しい உடன் வராது."
+    },
+    {
+      "id": "KX-q07",
+      "type": "kanji_reading",
+      "sentence": "＿黒い＿ くつを 買いました。",
+      "target": "黒い",
+      "options": ["くらい", "こくい", "くろい", "ころい"],
+      "answer": 2,
+      "explanation_en": "黒い is read くろい (கருப்பு, black). くらい is 暗い (dark): a different word.",
+      "explanation_ta": "黒い = くろい (கருப்பு, black). くらい என்பது 暗い (இருட்டான): வேறு சொல்."
+    },
+    {
+      "id": "KX-q08",
+      "type": "kanji_reading",
+      "sentence": "＿兄弟＿は いますか。",
+      "target": "兄弟",
+      "options": ["けいてい", "きょだい", "きょうたい", "きょうだい"],
+      "answer": 3,
+      "explanation_en": "兄弟 is read きょうだい (உடன்பிறந்தவர்கள், brothers and sisters). きょう is long and だい is voiced, so きょだい and きょうたい are wrong.",
+      "explanation_ta": "兄弟 = きょうだい (உடன்பிறந்தவர்கள், siblings). きょう நீண்ட ஒலி, だい கனமான ஒலி; அதனால் きょだい, きょうたい தவறு."
+    },
+    {
+      "id": "KX-q09",
+      "type": "kanji_reading",
+      "sentence": "まどを ＿開けて＿ ください。",
+      "target": "開けて",
+      "options": ["あけて", "ひらけて", "かいけて", "あいけて"],
+      "answer": 0,
+      "explanation_en": "開けて is read あけて (திறந்து, open). ひらく is another reading of 開, but ひらけて is not the right form here.",
+      "explanation_ta": "開けて = あけて (திறந்து, open). ひらく என்பதும் 開-இன் ஒரு வாசிப்புதான்; ஆனால் இங்கே ひらけて சரியான வடிவம் அல்ல."
+    },
+    {
+      "id": "KX-q10",
+      "type": "kanji_reading",
+      "sentence": "だいじょうぶです。＿安心＿して ください。",
+      "target": "安心",
+      "options": ["あんじん", "あんしん", "やすしん", "あんし"],
+      "answer": 1,
+      "explanation_en": "安心 is read あんしん (நிம்மதி, relief). 心 stays しん, not じん. やす is the kun reading of 安 (安い).",
+      "explanation_ta": "安心 = あんしん (நிம்மதி, relief). 心 = しん, じん அல்ல. やす என்பது 安-இன் kun வாசிப்பு (安い)."
+    },
+    {
+      "id": "KX-q11",
+      "type": "kanji_reading",
+      "sentence": "ねつが あるので、＿病院＿へ 行きます。",
+      "target": "病院",
+      "options": ["びょいん", "びよういん", "びょういん", "ひょういん"],
+      "answer": 2,
+      "explanation_en": "病院 is read びょういん (மருத்துவமனை, hospital): small ょ and a long びょう. びょいん is too short; びよういん (美容院) is a beauty salon.",
+      "explanation_ta": "病院 = びょういん (மருத்துவமனை, hospital): சிறிய ょ, நீண்ட びょう. びょいん மிகக் குட்டை; びよういん (美容院) என்பது அழகு நிலையம்."
+    },
+    {
+      "id": "KX-q12",
+      "type": "kanji_reading",
+      "sentence": "国の 母に 手紙を ＿送りました＿。",
+      "target": "送りました",
+      "options": ["おこりました", "そうりました", "おりました", "おくりました"],
+      "answer": 3,
+      "explanation_en": "送りました is read おくりました (அனுப்பினேன், I sent). おこりました is 起こりました or 怒りました: different words.",
+      "explanation_ta": "送りました = おくりました (அனுப்பினேன், I sent). おこりました என்பது 起こりました / 怒りました: வேறு சொற்கள்."
+    },
+    {
+      "id": "KX-q13",
+      "type": "kanji_reading",
+      "sentence": "＿屋上＿から 町が よく 見えます。",
+      "target": "屋上",
+      "options": ["おくじょう", "やじょう", "おくうえ", "おくしょう"],
+      "answer": 0,
+      "explanation_en": "屋上 is read おくじょう (மொட்டை மாடி, rooftop). Both kanji use on readings here: 屋 is おく (not や) and 上 is じょう.",
+      "explanation_ta": "屋上 = おくじょう (மொட்டை மாடி, rooftop). இங்கே இரண்டும் on வாசிப்புகள்: 屋 = おく (や அல்ல), 上 = じょう."
+    },
+    {
+      "id": "KX-q14",
+      "type": "kanji_reading",
+      "sentence": "＿特急＿で 東京へ 行きます。",
+      "target": "特急",
+      "options": ["とくきゅう", "とっきゅう", "とくきゅ", "どっきゅう"],
+      "answer": 1,
+      "explanation_en": "特急 is read とっきゅう (அதிவிரைவு ரயில், limited express). Before き, とく becomes とっ, so とくきゅう is wrong.",
+      "explanation_ta": "特急 = とっきゅう (அதிவிரைவு ரயில், limited express). き முன் とく → とっ; அதனால் とくきゅう தவறு."
+    },
+    {
+      "id": "KX-q15",
+      "type": "kanji_reading",
+      "sentence": "兄は ＿私立＿の 大学に 行って います。",
+      "target": "私立",
+      "options": ["しりゅう", "わたしりつ", "しりつ", "じりつ"],
+      "answer": 2,
+      "explanation_en": "私立 is read しりつ (தனியார், private). In words, 私 is し, not わたし. じりつ is 自立 (standing on your own): a different word.",
+      "explanation_ta": "私立 = しりつ (தனியார், private). சொற்களில் 私 = し, わたし அல்ல. じりつ என்பது 自立 (சொந்தக் காலில் நிற்றல்): வேறு சொல்."
+    },
+    {
+      "id": "KX-q16",
+      "type": "kanji_reading",
+      "sentence": "＿体＿に 気を つけて ください。",
+      "target": "体",
+      "options": ["たい", "かだら", "からた", "からだ"],
+      "answer": 3,
+      "explanation_en": "体 alone is read からだ (உடல், body). たい is the on reading (体育). からた is not voiced: wrong.",
+      "explanation_ta": "தனியாக 体 = からだ (உடல், body). たい என்பது on வாசிப்பு (体育). からた-இல் だ இல்லை; தவறு."
+    },
+    {
+      "id": "KX-q17",
+      "type": "kanji_reading",
+      "sentence": "この 店は 何でも ＿売って＿ います。",
+      "target": "売って",
+      "options": ["うって", "かって", "ばいって", "うて"],
+      "answer": 0,
+      "explanation_en": "売って is read うって (விற்று, selling), with a small っ. かって is 買って (buying): the opposite.",
+      "explanation_ta": "売って = うって (விற்று, selling); சிறிய っ உண்டு. かって என்பது 買って (வாங்கி): எதிர்ப் பொருள்."
+    },
+    {
+      "id": "KX-q18",
+      "type": "kanji_reading",
+      "sentence": "わたしは ＿動物＿が すきです。",
+      "target": "動物",
+      "options": ["どうもつ", "どうぶつ", "とうぶつ", "どぶつ"],
+      "answer": 1,
+      "explanation_en": "動物 is read どうぶつ (விலங்கு, animal). 物 is ぶつ here; もつ is in 荷物 (にもつ), not this word.",
+      "explanation_ta": "動物 = どうぶつ (விலங்கு, animal). இங்கே 物 = ぶつ; もつ என்பது 荷物 (にもつ) போன்றவற்றில் வரும், இதில் அல்ல."
+    },
+    {
+      "id": "KX-q19",
+      "type": "orthography",
+      "sentence": "ころんで ＿あし＿が いたいです。",
+      "target": "あし",
+      "options": ["足", "走", "定", "是"],
+      "answer": 0,
+      "explanation_en": "あし (கால், foot/leg) is 足: a mouth-like box 口 over a foot. 走 (run, はしる) has 土 on top instead.",
+      "explanation_ta": "あし (கால், foot/leg) = 足: மேலே 口 போன்ற பெட்டி, கீழே பாதம். 走 (ஓடு, はしる)-இல் மேலே 土."
+    },
+    {
+      "id": "KX-q20",
+      "type": "orthography",
+      "sentence": "あの ＿あかい＿ 車は だれのですか。",
+      "target": "あかい",
+      "options": ["亦い", "赤い", "恋い", "赦い"],
+      "answer": 1,
+      "explanation_en": "あかい (சிவப்பு, red) is 赤い: earth 土 over a fire. 亦 and 恋 look a little alike but are different kanji.",
+      "explanation_ta": "あかい (சிவப்பு, red) = 赤い: மேலே மண் 土, கீழே நெருப்பு. 亦, 恋 கொஞ்சம் ஒத்திருந்தாலும் வேறு கான்ஜிகள்."
+    },
+    {
+      "id": "KX-q21",
+      "type": "orthography",
+      "sentence": "あしたの ことを ＿かんがえて＿ います。",
+      "target": "かんがえて",
+      "options": ["孝えて", "老えて", "考えて", "者えて"],
+      "answer": 2,
+      "explanation_en": "かんがえて (யோசித்து, thinking) is 考えて. 老 (old), 孝 and 者 (person) have the same top, but the bottom is different.",
+      "explanation_ta": "かんがえて (யோசித்து, thinking) = 考えて. 老 (முதுமை), 孝, 者 (நபர்) ஆகியவற்றின் மேல் பகுதி ஒன்றே; கீழ்ப் பகுதி வேறு."
+    },
+    {
+      "id": "KX-q22",
+      "type": "orthography",
+      "sentence": "ノートに ＿こたえ＿を 書いて ください。",
+      "target": "こたえ",
+      "options": ["笞え", "箸え", "合え", "答え"],
+      "answer": 3,
+      "explanation_en": "こたえ (பதில், answer) is 答え: bamboo ⺮ over 合. 合 alone has no bamboo; 笞 and 箸 have bamboo but a different bottom.",
+      "explanation_ta": "こたえ (பதில், answer) = 答え: மேலே மூங்கில் ⺮, கீழே 合. தனி 合-இல் மூங்கில் இல்லை; 笞, 箸 இரண்டிலும் மூங்கில் உண்டு, கீழ்ப் பகுதி வேறு."
+    },
+    {
+      "id": "KX-q23",
+      "type": "orthography",
+      "sentence": "木の 上で ＿とり＿が ないて います。",
+      "target": "とり",
+      "options": ["島", "烏", "鳥", "馬"],
+      "answer": 2,
+      "explanation_en": "とり (பறவை, bird) is 鳥. 烏 (crow) has no eye line inside, 島 (island) has a mountain 山, and 馬 is a horse.",
+      "explanation_ta": "とり (பறவை, bird) = 鳥. 烏 (காகம்)-இல் உள்ளே கண் கோடு இல்லை; 島 (தீவு)-இல் மலை 山; 馬 என்பது குதிரை."
+    },
+    {
+      "id": "KX-q24",
+      "type": "orthography",
+      "sentence": "＿いもうと＿は 高校生です。",
+      "target": "いもうと",
+      "options": ["姉", "妹", "味", "姝"],
+      "answer": 1,
+      "explanation_en": "いもうと (தங்கை, younger sister) is 妹: woman 女 and 未. 姉 is あね (older sister), and 味 (taste) has a mouth 口.",
+      "explanation_ta": "いもうと (தங்கை, younger sister) = 妹: பெண் 女 + 未. 姉 = あね (அக்கா); 味 (சுவை)-இல் வாய் 口."
+    },
+    {
+      "id": "KX-q25",
+      "type": "orthography",
+      "sentence": "しゅくだいの ＿もんだい＿が わかりません。",
+      "target": "もんだい",
+      "options": ["間題", "門題", "問頭", "問題"],
+      "answer": 3,
+      "explanation_en": "もんだい (கேள்வி / பிரச்சனை, problem) is 問題: a gate 門 with a mouth 口 inside, because you ask. 間 has a sun 日 inside; 門 alone is a gate.",
+      "explanation_ta": "もんだい (கேள்வி / பிரச்சனை, problem) = 問題: வாசல் 門, உள்ளே வாய் 口 (கேட்பதால்). 間-இல் உள்ளே சூரியன் 日; தனி 門 என்பது வாசல் மட்டும்."
+    },
+    {
+      "id": "KX-q26",
+      "type": "orthography",
+      "sentence": "パーティーは 七時に ＿はじまります＿。",
+      "target": "はじまります",
+      "options": ["始まります", "治まります", "姶まります", "初まります"],
+      "answer": 0,
+      "explanation_en": "はじまります (தொடங்குகிறது, starts) is 始まります: woman 女 and 台. 初 is also はじめ (first time), but it is not used for はじまる.",
+      "explanation_ta": "はじまります (தொடங்குகிறது, starts) = 始まります: பெண் 女 + 台. 初-உம் はじめ (முதல் முறை) தான்; ஆனால் はじまる-க்குப் பயன்படாது."
+    },
+    {
+      "id": "KX-q27",
+      "type": "orthography",
+      "sentence": "わたしは 東京に ＿すんで＿ います。",
+      "target": "すんで",
+      "options": ["往んで", "主んで", "住んで", "柱んで"],
+      "answer": 2,
+      "explanation_en": "すんで (வசித்து, living) is 住んで: a person 亻 and 主 (master). 往 has the street part 彳, and 柱 has a tree 木.",
+      "explanation_ta": "すんで (வசித்து, living) = 住んで: மனிதர் 亻 + 主 (எஜமான்). 往-இல் தெருப் பகுதி 彳; 柱-இல் மரம் 木."
+    },
+    {
+      "id": "KX-q28",
+      "type": "orthography",
+      "sentence": "えきで 友だちを ＿まって＿ います。",
+      "target": "まって",
+      "options": ["持って", "侍って", "待って", "特って"],
+      "answer": 2,
+      "explanation_en": "まって (காத்திருந்து, waiting) is 待って, with the street part 彳. 持 (hold) has a hand 扌, 侍 has a person 亻, and 特 (special) has a cow 牛.",
+      "explanation_ta": "まって (காத்திருந்து, waiting) = 待って (தெருப் பகுதி 彳). 持 (பிடி)-இல் கை 扌, 侍-இல் மனிதர் 亻, 特 (சிறப்பு)-இல் மாடு 牛."
+    },
+    {
+      "id": "KX-q29",
+      "type": "orthography",
+      "sentence": "毎日 ＿かんじ＿を 十 おぼえます。",
+      "target": "かんじ",
+      "options": ["漠字", "漢字", "難字", "嘆字"],
+      "answer": 1,
+      "explanation_en": "かんじ (கான்ஜி, kanji) is 漢字, with water 氵 on the left. 漠 looks very close but has 莫 on the right; 難 and 嘆 have no water.",
+      "explanation_ta": "かんじ (கான்ஜி, kanji) = 漢字 (இடப்பக்கம் தண்ணீர் 氵). 漠 மிக ஒத்திருக்கும், ஆனால் வலப்பக்கம் 莫; 難, 嘆 இரண்டிலும் தண்ணீர் இல்லை."
+    },
+    {
+      "id": "KX-q30",
+      "type": "orthography",
+      "sentence": "いっしょに ＿ごはん＿を 食べましょう。",
+      "target": "ごはん",
+      "options": ["ご飲", "ご飾", "ご販", "ご飯"],
+      "answer": 3,
+      "explanation_en": "ごはん (சோறு / உணவு, meal) is ご飯: eat 食 and 反. 飲 (drink) also starts with 食, and 販 has the same 反 but money 貝 on the left.",
+      "explanation_ta": "ごはん (சோறு / உணவு, meal) = ご飯: சாப்பிடு 食 + 反. 飲 (குடி)-உம் 食 உடன் தொடங்கும்; 販-இல் அதே 反, ஆனால் இடப்பக்கம் பணம் 貝."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 16,
+  "slug": "itadakimasu",
+  "title": {
+   "ja": "先生に本をいただきました",
+   "ta": "ஆசிரியரிடமிருந்து புத்தகம் பெற்றேன்",
+   "en": "I received a book from my teacher"
+  },
+  "theme": {
+   "en": "Gifts, celebrations and visits: New Year, ceremonies, invitations, visiting someone's home.",
+   "ta": "பரிசுகள், கொண்டாட்டங்கள், வருகைகள்: புத்தாண்டு, விழாக்கள், அழைப்புகள், ஒருவர் வீட்டுக்குச் செல்வது."
+  },
+  "grammar": [
+   {
+    "id": "g16-1",
+    "pattern": "いただきます / くださいます / やります",
+    "en": "Polite and plain verbs of giving and receiving (to/from superiors, to animals and plants)"
+   },
+   {
+    "id": "g16-2",
+    "pattern": "差し上げます",
+    "en": "Humble 'give' (to a superior)"
+   },
+   {
+    "id": "g16-3",
+    "pattern": "V-ていただきます",
+    "en": "Have a superior do something for me"
+   },
+   {
+    "id": "g16-4",
+    "pattern": "V-てくださいます",
+    "en": "A superior kindly does something for me"
+   },
+   {
+    "id": "g16-5",
+    "pattern": "V-てやります",
+    "en": "Do something for a younger person, animal or plant"
+   },
+   {
+    "id": "g16-6",
+    "pattern": "V-てくださいませんか",
+    "en": "Would you kindly … (polite request)"
+   }
+  ],
+  "vocabHints": [
+   "gifts: present, celebration, thanks, wrap",
+   "events: New Year, ceremony, invitation",
+   "visiting: someone's home, husband, daughter, children",
+   "kindness, reserve, intrusion"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-040",
+   "expression": "お宅",
+   "reading": "おたく",
+   "romaji": "otaku",
+   "en": "(someone else's) house; home -- polite word for 家 (いえ) --"
+  },
+  {
+   "id": "n4-v-051",
+   "expression": "正月",
+   "reading": "しょうがつ",
+   "romaji": "shougatsu",
+   "en": "New Year, New Year's Day"
+  },
+  {
+   "id": "n4-v-070",
+   "expression": "贈り物",
+   "reading": "おくりもの",
+   "romaji": "okurimono",
+   "en": "a gift; a present"
+  },
+  {
+   "id": "n4-v-120",
+   "expression": "～式",
+   "reading": "～しき",
+   "romaji": "～shiki",
+   "en": "~ ceremony; ~ style"
+  },
+  {
+   "id": "n4-v-132",
+   "expression": "開く",
+   "reading": "ひらく",
+   "romaji": "hiraku",
+   "en": "to open; to hold (an event)"
+  },
+  {
+   "id": "n4-v-141",
+   "expression": "包む",
+   "reading": "つつむ",
+   "romaji": "tsutsumu",
+   "en": "to wrap, to cover"
+  },
+  {
+   "id": "n4-v-210",
+   "expression": "お礼",
+   "reading": "おれい",
+   "romaji": "orei",
+   "en": "expression of gratitude; thanking; gift of appreciation; bow"
+  },
+  {
+   "id": "n4-v-211",
+   "expression": "親切",
+   "reading": "しんせつ",
+   "romaji": "shinsetsu",
+   "en": "kindness"
+  },
+  {
+   "id": "n4-v-216",
+   "expression": "もらう",
+   "reading": "もらう",
+   "romaji": "morau",
+   "en": "to receive"
+  },
+  {
+   "id": "n4-v-231",
+   "expression": "くれる",
+   "reading": "くれる",
+   "romaji": "kureru",
+   "en": "to give, to do for"
+  },
+  {
+   "id": "n4-v-235",
+   "expression": "いただく",
+   "reading": "頂く",
+   "romaji": "頂ku",
+   "en": "-- extra-modest expression for たべる and のむ; humble expression for もらう --"
+  },
+  {
+   "id": "n4-v-269",
+   "expression": "ご主人",
+   "reading": "ごしゅじん",
+   "romaji": "goshujin",
+   "en": "(your, her) husband"
+  },
+  {
+   "id": "n4-v-273",
+   "expression": "お嬢さん",
+   "reading": "おじょうさん",
+   "romaji": "ojousan",
+   "en": "(someone's) daughter (polite)"
+  },
+  {
+   "id": "n4-v-288",
+   "expression": "お祝い",
+   "reading": "おいわい",
+   "romaji": "oiwai",
+   "en": "congratulation, celebration"
+  },
+  {
+   "id": "n4-v-297",
+   "expression": "招待",
+   "reading": "しょうたいする",
+   "romaji": "shoutaisuru",
+   "en": "invitation"
+  },
+  {
+   "id": "n4-v-333",
+   "expression": "遠慮",
+   "reading": "えんりょする",
+   "romaji": "enryosuru",
+   "en": "restraint, reserve, hesitate"
+  },
+  {
+   "id": "n4-v-337",
+   "expression": "差し上げる",
+   "reading": "さしあげる",
+   "romaji": "sashiageru",
+   "en": "-- humble expression for あげる --"
+  },
+  {
+   "id": "n4-v-369",
+   "expression": "邪魔",
+   "reading": "じゃま",
+   "romaji": "jama",
+   "en": "hindrance, intrusion"
+  },
+  {
+   "id": "n4-v-407",
+   "expression": "是非",
+   "reading": "ぜひ",
+   "romaji": "zehi",
+   "en": "certainly, by all means; without fail"
+  },
+  {
+   "id": "n4-v-443",
+   "expression": "プレゼント",
+   "reading": "プレゼント",
+   "romaji": "purezento",
+   "en": "present, gift"
+  },
+  {
+   "id": "n4-v-462",
+   "expression": "あげる",
+   "reading": "あげる",
+   "romaji": "ageru",
+   "en": "to give"
+  },
+  {
+   "id": "n4-v-494",
+   "expression": "くださる",
+   "reading": "くださる",
+   "romaji": "kudasaru",
+   "en": "(hon.) to give, to confer"
+  },
+  {
+   "id": "n4-v-496",
+   "expression": "お子さん",
+   "reading": "おこさん",
+   "romaji": "okosan",
+   "en": "(someone else's) child (polite)"
+  },
+  {
+   "id": "n4-v-606",
+   "expression": "特別",
+   "reading": "とくべつ",
+   "romaji": "tokubetsu",
+   "en": "special"
+  },
+  {
+   "id": "n4-v-618",
+   "expression": "訪ねる",
+   "reading": "たずねる",
+   "romaji": "tazuneru",
+   "en": "to visit"
+  }
+ ]
+}

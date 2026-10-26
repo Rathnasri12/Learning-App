@@ -1,0 +1,381 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 10,
+  "slug": "kimi-no-okage-de",
+  "title": {
+   "ja": "君のおかげで",
+   "ta": "உங்கள் உதவியால்",
+   "en": "Thanks to you"
+  },
+  "theme": {
+   "en": "Good and bad luck: thanks to someone, because of something, accidents and troubles.",
+   "ta": "நல்ல அதிர்ஷ்டமும் கெட்ட அதிர்ஷ்டமும்: ஒருவரின் உதவியால், ஏதோ ஒன்றின் காரணத்தால், விபத்துகள், தொல்லைகள்."
+  },
+  "grammar": [
+   {
+    "id": "g10-1",
+    "pattern": "〜おかげで / 〜おかげだ",
+    "en": "Thanks to ~ (good result)"
+   },
+   {
+    "id": "g10-2",
+    "pattern": "〜せいで / 〜せいだ",
+    "en": "Because of ~ (blame, bad result)"
+   },
+   {
+    "id": "g10-3",
+    "pattern": "〜せいか",
+    "en": "Perhaps because ~"
+   },
+   {
+    "id": "g10-4",
+    "pattern": "〜ものだから / 〜もので",
+    "en": "Because ~ (explaining or excusing)"
+   }
+  ],
+  "vocabHints": [
+   "luck and fortune",
+   "accidents, fire, damage",
+   "rescue and safety"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0020",
+   "expression": "幸せ",
+   "reading": "しあわせ",
+   "romaji": "shiawase",
+   "en": "happiness, blessing"
+  },
+  {
+   "id": "n3-v-0042",
+   "expression": "沈む",
+   "reading": "しずむ",
+   "romaji": "shizumu",
+   "en": "to sink; to feel depressed"
+  },
+  {
+   "id": "n3-v-0100",
+   "expression": "重大",
+   "reading": "じゅうだい",
+   "romaji": "juudai",
+   "en": "serious, important"
+  },
+  {
+   "id": "n3-v-0131",
+   "expression": "障害",
+   "reading": "しょうがい",
+   "romaji": "shougai",
+   "en": "obstacle, impediment"
+  },
+  {
+   "id": "n3-v-0156",
+   "expression": "消防",
+   "reading": "しょうぼう",
+   "romaji": "shoubou",
+   "en": "fire fighting, fire department"
+  },
+  {
+   "id": "n3-v-0222",
+   "expression": "救う",
+   "reading": "すくう",
+   "romaji": "sukuu",
+   "en": "to rescue from, to help out of"
+  },
+  {
+   "id": "n3-v-0258",
+   "expression": "所為",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "cause, reason, fault"
+  },
+  {
+   "id": "n3-v-0303",
+   "expression": "あいにく",
+   "reading": "あいにく",
+   "romaji": "ainiku",
+   "en": "unfortunately"
+  },
+  {
+   "id": "n3-v-0304",
+   "expression": "遭う",
+   "reading": "あう",
+   "romaji": "au",
+   "en": "to meet, to encounter (undesirable nuance)"
+  },
+  {
+   "id": "n3-v-0337",
+   "expression": "粗",
+   "reading": "あら",
+   "romaji": "ara",
+   "en": "defect, flaw, fault"
+  },
+  {
+   "id": "n3-v-0443",
+   "expression": "失う",
+   "reading": "うしなう",
+   "romaji": "ushinau",
+   "en": "to lose, to part with"
+  },
+  {
+   "id": "n3-v-0464",
+   "expression": "運",
+   "reading": "うん",
+   "romaji": "un",
+   "en": "fortune, luck"
+  },
+  {
+   "id": "n3-v-0526",
+   "expression": "溺れる",
+   "reading": "おぼれる",
+   "romaji": "oboreru",
+   "en": "to be drowned, to indulge in"
+  },
+  {
+   "id": "n3-v-0550",
+   "expression": "害",
+   "reading": "がい",
+   "romaji": "gai",
+   "en": "harm, damage"
+  },
+  {
+   "id": "n3-v-0601",
+   "expression": "火災",
+   "reading": "かさい",
+   "romaji": "kasai",
+   "en": "conflagration, fire"
+  },
+  {
+   "id": "n3-v-0708",
+   "expression": "傷",
+   "reading": "きず",
+   "romaji": "kizu",
+   "en": "wound, injury, hurt"
+  },
+  {
+   "id": "n3-v-0740",
+   "expression": "救助",
+   "reading": "きゅうじょ",
+   "romaji": "kyuujo",
+   "en": "relief, aid, rescue"
+  },
+  {
+   "id": "n3-v-0843",
+   "expression": "欠陥",
+   "reading": "けっかん",
+   "romaji": "kekkan",
+   "en": "defect, fault, deficiency"
+  },
+  {
+   "id": "n3-v-0848",
+   "expression": "欠点",
+   "reading": "けってん",
+   "romaji": "ketten",
+   "en": "faults, defect, weakness"
+  },
+  {
+   "id": "n3-v-0850",
+   "expression": "煙",
+   "reading": "けむり",
+   "romaji": "kemuri",
+   "en": "smoke, fumes"
+  },
+  {
+   "id": "n3-v-0877",
+   "expression": "幸運",
+   "reading": "こううん",
+   "romaji": "kouun",
+   "en": "good luck, fortune"
+  },
+  {
+   "id": "n3-v-0901",
+   "expression": "幸福",
+   "reading": "こうふく",
+   "romaji": "koufuku",
+   "en": "happiness, blessedness"
+  },
+  {
+   "id": "n3-v-0931",
+   "expression": "骨折",
+   "reading": "こっせつ",
+   "romaji": "kossetsu",
+   "en": "bone fracture"
+  },
+  {
+   "id": "n3-v-0969",
+   "expression": "幸い",
+   "reading": "さいわい",
+   "romaji": "saiwai",
+   "en": "fortunately; luckily"
+  },
+  {
+   "id": "n3-v-1038",
+   "expression": "結ぶ",
+   "reading": "むすぶ",
+   "romaji": "musubu",
+   "en": "to tie, to bind, to link"
+  },
+  {
+   "id": "n3-v-1064",
+   "expression": "燃える",
+   "reading": "もえる",
+   "romaji": "moeru",
+   "en": "to burn"
+  },
+  {
+   "id": "n3-v-1085",
+   "expression": "燃やす",
+   "reading": "もやす",
+   "romaji": "moyasu",
+   "en": "to burn"
+  },
+  {
+   "id": "n3-v-1220",
+   "expression": "傷める",
+   "reading": "いためる",
+   "romaji": "itameru",
+   "en": "to damage, to impair, to spoil"
+  },
+  {
+   "id": "n3-v-1309",
+   "expression": "全身",
+   "reading": "ぜんしん",
+   "romaji": "zenshin",
+   "en": "the whole body, full-length (portrait)"
+  },
+  {
+   "id": "n3-v-1333",
+   "expression": "備える",
+   "reading": "そなえる",
+   "romaji": "sonaeru",
+   "en": "to prepare, to furnish, to store"
+  },
+  {
+   "id": "n3-v-1347",
+   "expression": "損",
+   "reading": "そん",
+   "romaji": "son",
+   "en": "loss, disadvantage"
+  },
+  {
+   "id": "n3-v-1348",
+   "expression": "損害",
+   "reading": "そんがい",
+   "romaji": "songai",
+   "en": "damage, loss"
+  },
+  {
+   "id": "n3-v-1393",
+   "expression": "焚く",
+   "reading": "たく",
+   "romaji": "taku",
+   "en": "to burn, to kindle, to build a fire"
+  },
+  {
+   "id": "n3-v-1399",
+   "expression": "助かる",
+   "reading": "たすかる",
+   "romaji": "tasukaru",
+   "en": "to be saved; (something) helps (v.i.)"
+  },
+  {
+   "id": "n3-v-1544",
+   "expression": "停電",
+   "reading": "ていでん",
+   "romaji": "teiden",
+   "en": "failure of electricity"
+  },
+  {
+   "id": "n3-v-1655",
+   "expression": "亡くす",
+   "reading": "なくす",
+   "romaji": "nakusu",
+   "en": "to lose someone"
+  },
+  {
+   "id": "n3-v-1738",
+   "expression": "灰",
+   "reading": "はい",
+   "romaji": "hai",
+   "en": "ash"
+  },
+  {
+   "id": "n3-v-1752",
+   "expression": "測る",
+   "reading": "はかる",
+   "romaji": "hakaru",
+   "en": "to measure, to weigh, to survey"
+  },
+  {
+   "id": "n3-v-1757",
+   "expression": "爆発",
+   "reading": "ばくはつ",
+   "romaji": "bakuhatsu",
+   "en": "explosion, detonation, eruption"
+  },
+  {
+   "id": "n3-v-1811",
+   "expression": "被害",
+   "reading": "ひがい",
+   "romaji": "higai",
+   "en": "damage"
+  },
+  {
+   "id": "n3-v-1816",
+   "expression": "膝",
+   "reading": "ひざ",
+   "romaji": "hiza",
+   "en": "knee, lap"
+  },
+  {
+   "id": "n3-v-1817",
+   "expression": "非常",
+   "reading": "ひじょう",
+   "romaji": "hijou",
+   "en": "emergency, extraordinary, unusual"
+  },
+  {
+   "id": "n3-v-1870",
+   "expression": "不幸",
+   "reading": "ふこう",
+   "romaji": "fukou",
+   "en": "unhappiness, sorrow, misfortune"
+  },
+  {
+   "id": "n3-v-1872",
+   "expression": "無事",
+   "reading": "ぶじ",
+   "romaji": "buji",
+   "en": "safety, peace"
+  },
+  {
+   "id": "n3-v-1886",
+   "expression": "不通",
+   "reading": "ふつう",
+   "romaji": "futsuu",
+   "en": "blockade, interruption, stoppage"
+  },
+  {
+   "id": "n3-v-1950",
+   "expression": "骨",
+   "reading": "ほね",
+   "romaji": "hone",
+   "en": "bone"
+  },
+  {
+   "id": "n3-v-1951",
+   "expression": "炎",
+   "reading": "ほのお",
+   "romaji": "honoo",
+   "en": "flame"
+  },
+  {
+   "id": "n3-v-2118",
+   "expression": "補償",
+   "reading": "ほしょう",
+   "romaji": "hoshou",
+   "en": "compensation, reparation"
+  }
+ ]
+}

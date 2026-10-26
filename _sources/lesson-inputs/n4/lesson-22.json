@@ -1,0 +1,238 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 22,
+  "slug": "denbun-youda",
+  "title": {
+   "ja": "ニュースによると、物価が上がるそうです",
+   "ta": "செய்தியின்படி விலைவாசி உயருமாம்",
+   "en": "The news says prices will rise"
+  },
+  "theme": {
+   "en": "News and society: the economy, trade, industry, politics, broadcasting.",
+   "ta": "செய்திகளும் சமூகமும்: பொருளாதாரம், வர்த்தகம், தொழில்துறை, அரசியல், ஒளிபரப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g22-1",
+    "pattern": "plain form そうです (hearsay)",
+    "en": "I heard that … / they say …"
+   },
+   {
+    "id": "g22-2",
+    "pattern": "N に よると、〜",
+    "en": "According to N"
+   },
+   {
+    "id": "g22-3",
+    "pattern": "plain form / N の ようです",
+    "en": "It seems that … (judging from what I see or know)"
+   },
+   {
+    "id": "g22-4",
+    "pattern": "plain form / N みたいです",
+    "en": "Looks like / seems (casual ようです)"
+   },
+   {
+    "id": "g22-5",
+    "pattern": "plain form らしいです",
+    "en": "Apparently … (based on what I heard)"
+   },
+   {
+    "id": "g22-6",
+    "pattern": "N1 らしい N2",
+    "en": "Typical of / just like a real N1: 男らしい人"
+   }
+  ],
+  "vocabHints": [
+   "economy: trade, import, export, industry, production",
+   "society: population, citizens, politics, war",
+   "media: newscaster, broadcast, programme, newspaper company",
+   "increase, rise, opinion"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-013",
+   "expression": "意見",
+   "reading": "いけん",
+   "romaji": "iken",
+   "en": "opinion, view, idea"
+  },
+  {
+   "id": "n4-v-091",
+   "expression": "人口",
+   "reading": "じんこう",
+   "romaji": "jinkou",
+   "en": "population"
+  },
+  {
+   "id": "n4-v-104",
+   "expression": "盛ん",
+   "reading": "さかん",
+   "romaji": "sakan",
+   "en": "prosperous, active, thriving"
+  },
+  {
+   "id": "n4-v-168",
+   "expression": "行う",
+   "reading": "おこなう",
+   "romaji": "okonau",
+   "en": "to carry out; to conduct (typically used in written language)"
+  },
+  {
+   "id": "n4-v-179",
+   "expression": "戦争",
+   "reading": "せんそう",
+   "romaji": "sensou",
+   "en": "war"
+  },
+  {
+   "id": "n4-v-244",
+   "expression": "増える",
+   "reading": "ふえる",
+   "romaji": "fueru",
+   "en": "to increase, to multiply"
+  },
+  {
+   "id": "n4-v-279",
+   "expression": "アナウンサー",
+   "reading": "アナウンサー",
+   "romaji": "anaunsaa",
+   "en": "announcer"
+  },
+  {
+   "id": "n4-v-303",
+   "expression": "貿易",
+   "reading": "ぼうえき",
+   "romaji": "boueki",
+   "en": "trade"
+  },
+  {
+   "id": "n4-v-304",
+   "expression": "反対",
+   "reading": "はんたい",
+   "romaji": "hantai",
+   "en": "oppose, opposition, resistance"
+  },
+  {
+   "id": "n4-v-356",
+   "expression": "生産",
+   "reading": "せいさんする",
+   "romaji": "seisansuru",
+   "en": "production; to produce"
+  },
+  {
+   "id": "n4-v-376",
+   "expression": "最近",
+   "reading": "さいきん",
+   "romaji": "saikin",
+   "en": "recently, nowadays, in recent years, most recent, latest"
+  },
+  {
+   "id": "n4-v-405",
+   "expression": "経済",
+   "reading": "けいざい",
+   "romaji": "keizai",
+   "en": "economics, finance, economy"
+  },
+  {
+   "id": "n4-v-429",
+   "expression": "輸入",
+   "reading": "ゆにゅう",
+   "romaji": "yunyuu",
+   "en": "import"
+  },
+  {
+   "id": "n4-v-432",
+   "expression": "産業",
+   "reading": "さんぎょう",
+   "romaji": "sangyou",
+   "en": "industry"
+  },
+  {
+   "id": "n4-v-444",
+   "expression": "～(に) よると",
+   "reading": "～(に) よると",
+   "romaji": "～(ni)yoruto",
+   "en": "according to ~"
+  },
+  {
+   "id": "n4-v-465",
+   "expression": "放送",
+   "reading": "ほうそうする",
+   "romaji": "housousuru",
+   "en": "broadcasting"
+  },
+  {
+   "id": "n4-v-466",
+   "expression": "政治",
+   "reading": "せいじ",
+   "romaji": "seiji",
+   "en": "politics"
+  },
+  {
+   "id": "n4-v-467",
+   "expression": "市民",
+   "reading": "しみん",
+   "romaji": "shimin",
+   "en": "citizen"
+  },
+  {
+   "id": "n4-v-541",
+   "expression": "億",
+   "reading": "おく",
+   "romaji": "oku",
+   "en": "hundred million"
+  },
+  {
+   "id": "n4-v-560",
+   "expression": "新聞社",
+   "reading": "しんぶんしゃ",
+   "romaji": "shinbunsha",
+   "en": "newspaper company"
+  },
+  {
+   "id": "n4-v-578",
+   "expression": "工業",
+   "reading": "こうぎょう",
+   "romaji": "kougyou",
+   "en": "(manufacturing) industry"
+  },
+  {
+   "id": "n4-v-617",
+   "expression": "この頃",
+   "reading": "このごろ",
+   "romaji": "konogoro",
+   "en": "these days, nowadays"
+  },
+  {
+   "id": "n4-v-633",
+   "expression": "上がる",
+   "reading": "あがる",
+   "romaji": "agaru",
+   "en": "to rise, to go up"
+  },
+  {
+   "id": "n4-v-649",
+   "expression": "番組",
+   "reading": "ばんぐみ",
+   "romaji": "bangumi",
+   "en": "broadcast program"
+  },
+  {
+   "id": "n4-v-653",
+   "expression": "輸出",
+   "reading": "ゆしゅつする",
+   "romaji": "yushutsusuru",
+   "en": "export"
+  },
+  {
+   "id": "n4-v-668",
+   "expression": "社会",
+   "reading": "しゃかい",
+   "romaji": "shakai",
+   "en": "society"
+  }
+ ]
+}

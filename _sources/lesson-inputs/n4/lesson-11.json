@@ -1,0 +1,236 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 11,
+  "slug": "you-ni",
+  "title": {
+   "ja": "毎日運動するようにしています",
+   "ta": "தினமும் உடற்பயிற்சி செய்ய முயல்கிறேன்",
+   "en": "I try to exercise every day"
+  },
+  "theme": {
+   "en": "Health and habits: the doctor, hospital, injections, diet, getting better.",
+   "ta": "உடல்நலமும் பழக்கங்களும்: மருத்துவர், மருத்துவமனை, ஊசி, உணவுக் கட்டுப்பாடு, குணமடைவது."
+  },
+  "grammar": [
+   {
+    "id": "g11-1",
+    "pattern": "V-dict / V-ない ように、〜",
+    "en": "So that … / in order that … (goal you cannot control directly)"
+   },
+   {
+    "id": "g11-2",
+    "pattern": "V-dict ように なります",
+    "en": "Come to be able to / start to (gradual change)"
+   },
+   {
+    "id": "g11-3",
+    "pattern": "V-なく なります",
+    "en": "Become unable to / stop doing"
+   },
+   {
+    "id": "g11-4",
+    "pattern": "V-dict / V-ない ように しています",
+    "en": "Make a point of …, try to (habit)"
+   },
+   {
+    "id": "g11-5",
+    "pattern": "V-dict / V-ない ように してください",
+    "en": "Please be sure to … / please try not to …"
+   },
+   {
+    "id": "g11-6",
+    "pattern": "V-dict / V-ない ように 言います / 頼みます",
+    "en": "Tell / ask someone to (not) do …"
+   },
+   {
+    "id": "g11-7",
+    "pattern": "V-ますように",
+    "en": "Wishing: I hope …; may …"
+   }
+  ],
+  "vocabHints": [
+   "body: throat, neck, back, finger, blood",
+   "hospital: dentist, nurse, injection, admitted, discharged",
+   "fever, condition, getting better",
+   "habits: diet, as much as possible, always"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-005",
+   "expression": "大抵",
+   "reading": "たいてい",
+   "romaji": "taitei",
+   "en": "generally, usually"
+  },
+  {
+   "id": "n4-v-009",
+   "expression": "しっかり",
+   "reading": "しっかり",
+   "romaji": "shikkari",
+   "en": "firmly, steady"
+  },
+  {
+   "id": "n4-v-025",
+   "expression": "必ず",
+   "reading": "かならず",
+   "romaji": "kanarazu",
+   "en": "surely, certainly"
+  },
+  {
+   "id": "n4-v-086",
+   "expression": "止める",
+   "reading": "やめる",
+   "romaji": "yameru",
+   "en": "to end, to stop"
+  },
+  {
+   "id": "n4-v-099",
+   "expression": "できるだけ",
+   "reading": "できるだけ",
+   "romaji": "dekirudake",
+   "en": "if at all possible, as much as possible"
+  },
+  {
+   "id": "n4-v-103",
+   "expression": "祈る",
+   "reading": "いのる",
+   "romaji": "inoru",
+   "en": "to pray; to wish"
+  },
+  {
+   "id": "n4-v-142",
+   "expression": "なるべく",
+   "reading": "なるべく",
+   "romaji": "narubeku",
+   "en": "if possible, as much as possible"
+  },
+  {
+   "id": "n4-v-177",
+   "expression": "痩せる",
+   "reading": "やせる",
+   "romaji": "yaseru",
+   "en": "to lose weight"
+  },
+  {
+   "id": "n4-v-213",
+   "expression": "歯医者",
+   "reading": "はいしゃ",
+   "romaji": "haisha",
+   "en": "dentist"
+  },
+  {
+   "id": "n4-v-218",
+   "expression": "治る",
+   "reading": "なおる",
+   "romaji": "naoru",
+   "en": "to get better; to recover from illness (v.i.)"
+  },
+  {
+   "id": "n4-v-219",
+   "expression": "熱",
+   "reading": "ねつ",
+   "romaji": "netsu",
+   "en": "fever, temperature"
+  },
+  {
+   "id": "n4-v-375",
+   "expression": "喉",
+   "reading": "のど",
+   "romaji": "nodo",
+   "en": "throat"
+  },
+  {
+   "id": "n4-v-380",
+   "expression": "血",
+   "reading": "ち",
+   "romaji": "chi",
+   "en": "blood"
+  },
+  {
+   "id": "n4-v-382",
+   "expression": "毛",
+   "reading": "け",
+   "romaji": "ke",
+   "en": "hair, fur"
+  },
+  {
+   "id": "n4-v-447",
+   "expression": "具合",
+   "reading": "ぐあい",
+   "romaji": "guai",
+   "en": "condition, state, health"
+  },
+  {
+   "id": "n4-v-502",
+   "expression": "お見舞い",
+   "reading": "おみまい",
+   "romaji": "omimai",
+   "en": "calling on someone who is ill, visit"
+  },
+  {
+   "id": "n4-v-517",
+   "expression": "退院",
+   "reading": "たいいんする",
+   "romaji": "taiinsuru",
+   "en": "leaving hospital"
+  },
+  {
+   "id": "n4-v-525",
+   "expression": "太る",
+   "reading": "ふとる",
+   "romaji": "futoru",
+   "en": "to gain weight"
+  },
+  {
+   "id": "n4-v-526",
+   "expression": "注射",
+   "reading": "ちゅうしゃ",
+   "romaji": "chuusha",
+   "en": "injection"
+  },
+  {
+   "id": "n4-v-559",
+   "expression": "背中",
+   "reading": "せなか",
+   "romaji": "senaka",
+   "en": "back (of body)"
+  },
+  {
+   "id": "n4-v-574",
+   "expression": "首",
+   "reading": "くび",
+   "romaji": "kubi",
+   "en": "neck"
+  },
+  {
+   "id": "n4-v-622",
+   "expression": "入院",
+   "reading": "にゅういんする",
+   "romaji": "nyuuinsuru",
+   "en": "hospitalization"
+  },
+  {
+   "id": "n4-v-627",
+   "expression": "看護婦",
+   "reading": "かんごふ",
+   "romaji": "kangofu",
+   "en": "(female) nurse"
+  },
+  {
+   "id": "n4-v-660",
+   "expression": "大分",
+   "reading": "だいぶ",
+   "romaji": "daibu",
+   "en": "fairly well, to a large extent, considerably, pretty much"
+  },
+  {
+   "id": "n4-v-665",
+   "expression": "指",
+   "reading": "ゆび",
+   "romaji": "yubi",
+   "en": "finger"
+  }
+ ]
+}

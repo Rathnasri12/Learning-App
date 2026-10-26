@@ -1,0 +1,406 @@
+{
+  "unit": 3,
+  "title": { "en": "Places, ways and making things", "ta": "இடங்கள், வழிகள், உருவாக்குதல்" },
+  "intro": {
+    "en": "In this unit you will learn twelve kanji about places and ways (direction, place, the capital, passing through), about saying and thinking, and about making and using things. Look for parts you know: 立, 木, 日, 月, 土, 口 and 人 (亻) are all inside these kanji.",
+    "ta": "இந்தப் பிரிவில் இடங்களும் வழிகளும் (திசை, இடம், தலைநகரம், கடந்து செல்லுதல்), சொல்லுதல், சிந்தித்தல், பொருள்களை உருவாக்குதல், பயன்படுத்துதல் பற்றிய பன்னிரண்டு கான்ஜிகளைக் கற்போம். உங்களுக்குத் தெரிந்த பகுதிகளைத் தேடுங்கள்: 立, 木, 日, 月, 土, 口, 人 (亻) எல்லாம் இவற்றுக்குள் இருக்கின்றன."
+  },
+  "kanji": [
+    {
+      "kanji": "方",
+      "meaning": { "en": "direction; way; person (polite)", "ta": "திசை; முறை; நபர் (மரியாதை)" },
+      "on": ["ほう"],
+      "kun": ["かた"],
+      "mnemonic": {
+        "en": "The dot and the long line on top are a signboard. Below it, a bent arm like 力 points the way: “Go in that direction!”",
+        "ta": "மேலே உள்ள புள்ளியும் நீண்ட கோடும் ஒரு வழிகாட்டிப் பலகை. அதன் கீழே 力 போல மடிந்த ஒரு கை வழியைக் காட்டுகிறது: “அந்தத் திசையில் போங்கள்!”"
+      },
+      "note": {
+        "en": "After the ます-stem, 方 (かた) means “the way of doing”: 読み方 (how to read), 作り方 (how to make). In comparisons, ほう means “side”: コーヒーの ほうが すきです. Don’t mix up 方 with 万 (ten thousand).",
+        "ta": "ます-அடிக்குப் பின் 方 (かた) = “செய்யும் முறை”: 読み方 (வாசிக்கும் முறை), 作り方 (செய்யும் முறை). ஒப்பிடும்போது ほう = “பக்கம்”: コーヒーの ほうが すきです. 方, 万 (பத்தாயிரம்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "方", "reading": "かた", "en": "person (polite)", "ta": "நபர் (மரியாதையாக)", "vocabId": "n5-v-164" },
+        { "word": "夕方", "reading": "ゆうがた", "en": "early evening", "ta": "மாலை", "vocabId": "n5-v-676" },
+        { "word": "読み方", "reading": "よみかた", "en": "way of reading", "ta": "வாசிக்கும் முறை" },
+        { "word": "地方", "reading": "ちほう", "en": "region, area; the countryside", "ta": "பிரதேசம்; நாட்டுப்புறம்" }
+      ]
+    },
+    {
+      "kanji": "新",
+      "meaning": { "en": "new", "ta": "புதிய" },
+      "on": ["しん"],
+      "kun": ["あたら.しい"],
+      "mnemonic": {
+        "en": "Stand (立) next to a tree (木) with an axe (斤) in your hand. Chop! Now you have fresh, new wood.",
+        "ta": "கையில் கோடரியுடன் (斤) ஒரு மரத்தின் (木) அருகே நில்லுங்கள் (立). வெட்டு! இப்போது புத்தம் புதிய மரக்கட்டை கிடைத்தது!"
+      },
+      "note": {
+        "en": "The kun reading is long: あたらしい (あ・た・ら・し・い). Don’t mix up 新 with 親 (parent), which has 見 on the right.",
+        "ta": "குன் வாசிப்பு நீளமானது: あたらしい (あ・た・ら・し・い). 新, வலப்பக்கம் 見 உள்ள 親 (பெற்றோர்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "新しい", "reading": "あたらしい", "en": "new", "ta": "புதிய", "vocabId": "n5-v-021" },
+        { "word": "新聞", "reading": "しんぶん", "en": "newspaper", "ta": "செய்தித்தாள்", "vocabId": "n5-v-327" },
+        { "word": "新年", "reading": "しんねん", "en": "the New Year", "ta": "புத்தாண்டு" },
+        { "word": "新聞社", "reading": "しんぶんしゃ", "en": "newspaper company", "ta": "செய்தித்தாள் நிறுவனம்", "vocabId": "n4-v-560" }
+      ]
+    },
+    {
+      "kanji": "場",
+      "meaning": { "en": "place", "ta": "இடம்" },
+      "on": ["じょう"],
+      "kun": ["ば"],
+      "mnemonic": {
+        "en": "On the left is earth (土). On the right, the sun (日) is high over the horizon (一), and its rays shine down (勿). An open piece of ground in the sunshine: a place where people gather.",
+        "ta": "இடப்பக்கம் மண் (土). வலப்பக்கம் அடிவானத்துக்கு (一) மேலே சூரியன் (日); அதன் கதிர்கள் கீழே விழுகின்றன (勿). வெயிலில் திறந்த நிலம்: மக்கள் கூடும் இடம்!"
+      },
+      "note": {
+        "en": "Alone or with kun words, use ば: 売り場, 広場. With on words, use じょう (long): 会場, 工場.",
+        "ta": "தனியாகவோ குன் சொற்களுடனோ ば: 売り場, 広場. ஆன் சொற்களுடன் じょう (நீண்ட ஒலி): 会場, 工場."
+      },
+      "examples": [
+        { "word": "会場", "reading": "かいじょう", "en": "venue, meeting place", "ta": "நிகழ்ச்சி நடக்கும் இடம்", "vocabId": "n4-v-497" },
+        { "word": "工場", "reading": "こうじょう", "en": "factory", "ta": "தொழிற்சாலை", "vocabId": "n4-v-583" },
+        { "word": "売り場", "reading": "うりば", "en": "sales counter (in a shop)", "ta": "விற்பனைப் பகுதி (கடையில்)", "vocabId": "n4-v-050" },
+        { "word": "広場", "reading": "ひろば", "en": "open square, plaza", "ta": "திறந்த மைதானம்" }
+      ]
+    },
+    {
+      "kanji": "明",
+      "meaning": { "en": "bright", "ta": "பிரகாசமான, வெளிச்சம்" },
+      "on": ["めい"],
+      "kun": ["あか.るい"],
+      "mnemonic": {
+        "en": "The sun (日) and the moon (月) shine side by side. With both lights in the sky, everything is very bright.",
+        "ta": "சூரியனும் (日) நிலாவும் (月) அருகருகே ஒளிர்கின்றன. வானத்தில் இரண்டு விளக்குகளும் இருந்தால், எல்லாமே மிகப் பிரகாசம்!"
+      },
+      "note": {
+        "en": "Special readings: 明日 = あした (tomorrow; also あす), 明後日 = あさって (the day after tomorrow).",
+        "ta": "சிறப்பு வாசிப்புகள்: 明日 = あした (நாளை; あす என்றும் சொல்லலாம்), 明後日 = あさって (நாளை மறுநாள்)."
+      },
+      "examples": [
+        { "word": "明るい", "reading": "あかるい", "en": "bright; cheerful", "ta": "வெளிச்சமான (பிரகாசமான)", "vocabId": "n5-v-007" },
+        { "word": "明日", "reading": "あした", "en": "tomorrow", "ta": "நாளை", "vocabId": "n5-v-016" },
+        { "word": "発明", "reading": "はつめい", "en": "invention", "ta": "கண்டுபிடிப்பு" }
+      ]
+    },
+    {
+      "kanji": "京",
+      "meaning": { "en": "capital city", "ta": "தலைநகரம்" },
+      "on": ["きょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A tall building: a roof (亠) on top, a window (口) in the middle, and pillars (小) below. Only the capital city has such tall buildings.",
+        "ta": "ஓர் உயரமான கட்டடம்: மேலே கூரை (亠), நடுவில் ஜன்னல் (口), கீழே தூண்கள் (小). இத்தனை உயரமான கட்டடங்கள் தலைநகரில் மட்டுமே!"
+      },
+      "note": {
+        "en": "東京 (とうきょう) is the “eastern capital”. The old capital is きょうと. Beijing, 北京, is read ペキン.",
+        "ta": "東京 (とうきょう) = “கிழக்குத் தலைநகரம்”. பழைய தலைநகரம் きょうと. சீனாவின் பெய்ஜிங் 北京 = ペキン."
+      },
+      "examples": [
+        { "word": "東京", "reading": "とうきょう", "en": "Tokyo", "ta": "டோக்கியோ" },
+        { "word": "上京", "reading": "じょうきょう", "en": "going (moving) to Tokyo", "ta": "டோக்கியோவுக்குச் செல்லுதல் (குடிபெயர்தல்)" },
+        { "word": "東京駅", "reading": "とうきょうえき", "en": "Tokyo Station", "ta": "டோக்கியோ ரயில் நிலையம்" }
+      ]
+    },
+    {
+      "kanji": "通",
+      "meaning": { "en": "pass through; commute", "ta": "கடந்து செல்; தினமும் போய்வா" },
+      "on": ["つう"],
+      "kun": ["とお.る", "とお.り", "かよ.う"],
+      "mnemonic": {
+        "en": "The bottom-left part (辶) is a road. On it is a bucket with a handle (甬, like マ on top of 用). Every day you carry the bucket along the same road: you pass through and commute.",
+        "ta": "கீழ் இடப்பக்கப் பகுதி (辶) ஒரு சாலை. அதன் மேல் கைப்பிடியுடன் ஒரு வாளி (甬, 用-இன் மேல் マ போல). தினமும் அதே சாலையில் வாளியைச் சுமந்து போகிறீர்கள்: கடந்து செல்லுதல், தினமும் போய்வருதல்!"
+      },
+      "note": {
+        "en": "とおる is written with お, not う: とおる, とおり. 通う (かよう) means to go to the same place again and again, like school or work.",
+        "ta": "とおる என்பதில் お வரும், う அல்ல: とおる, とおり. 通う (かよう) = பள்ளி, வேலை போன்ற அதே இடத்துக்குத் திரும்பத் திரும்பப் போய்வருதல்."
+      },
+      "examples": [
+        { "word": "通る", "reading": "とおる", "en": "to pass (by), to go through", "ta": "கடந்து செல்ல", "vocabId": "n4-v-078" },
+        { "word": "通う", "reading": "かよう", "en": "to commute, to go regularly", "ta": "தினமும் போய்வர", "vocabId": "n4-v-291" },
+        { "word": "通り", "reading": "とおり", "en": "street, avenue", "ta": "தெரு, சாலை", "vocabId": "n4-v-403" },
+        { "word": "通学", "reading": "つうがく", "en": "going to school", "ta": "பள்ளிக்குப் போய்வருதல்" }
+      ]
+    },
+    {
+      "kanji": "言",
+      "meaning": { "en": "say, word", "ta": "சொல்" },
+      "on": ["げん"],
+      "kun": ["い.う", "こと"],
+      "mnemonic": {
+        "en": "At the bottom is a mouth (口). The lines above it are words floating up out of the mouth. Open your mouth and say something!",
+        "ta": "அடியில் ஒரு வாய் (口). அதற்கு மேலே உள்ள கோடுகள், வாயிலிருந்து மேலே மிதந்து வரும் சொற்கள். வாயைத் திறந்து ஏதாவது சொல்லுங்கள்!"
+      },
+      "note": {
+        "en": "言う is written いう but said ゆう. 言 is also the left part of many “talking” kanji you know: 話, 語, 読.",
+        "ta": "言う என்பதை いう என்று எழுதுவோம், ゆう என்று உச்சரிப்போம். உங்களுக்குத் தெரிந்த 話, 語, 読 போன்ற “பேச்சு” கான்ஜிகளின் இடப்பக்கமும் 言 தான்."
+      },
+      "examples": [
+        { "word": "言う", "reading": "いう", "en": "to say", "ta": "சொல்ல", "vocabId": "n5-v-046" },
+        { "word": "一言", "reading": "ひとこと", "en": "a word, a few words", "ta": "ஒரு சொல் (சில வார்த்தைகள்)" },
+        { "word": "方言", "reading": "ほうげん", "en": "dialect", "ta": "வட்டார மொழி" }
+      ]
+    },
+    {
+      "kanji": "理",
+      "meaning": { "en": "reason, logic", "ta": "காரணம், தர்க்கம்" },
+      "on": ["り"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a jewel (王). On the right is a village (里): rice fields (田) on the earth (土), cut by straight lines. A jewel cut neatly along its lines, like neat fields: everything in good order and with reason.",
+        "ta": "இடப்பக்கம் ஓர் இரத்தினக்கல் (王). வலப்பக்கம் ஒரு கிராமம் (里): மண்ணில் (土) நேர்க்கோடுகளால் பிரிக்கப்பட்ட வயல்கள் (田). வயல்களைப் போல நேர்த்தியாகக் கோடு பிடித்து வெட்டிய கல்: எல்லாம் ஒழுங்காக, காரணத்துடன்!"
+      },
+      "examples": [
+        { "word": "料理", "reading": "りょうり", "en": "cooking; dish", "ta": "சமையல்; உணவு வகை", "vocabId": "n5-v-701" },
+        { "word": "地理", "reading": "ちり", "en": "geography", "ta": "புவியியல்", "vocabId": "n4-v-138" },
+        { "word": "心理", "reading": "しんり", "en": "state of mind; psychology", "ta": "மனநிலை; உளவியல்" }
+      ]
+    },
+    {
+      "kanji": "体",
+      "meaning": { "en": "body", "ta": "உடல்" },
+      "on": ["たい"],
+      "kun": ["からだ"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to the trunk of a tree (本, a tree with a line at the root). A person’s trunk is the body.",
+        "ta": "ஒரு மனிதர் (亻) ஒரு மரத்தின் அடிமரத்தின் (本, வேரில் கோடு உள்ள மரம்) அருகே நிற்கிறார். மனிதனின் அடிமரம் = உடல்!"
+      },
+      "note": {
+        "en": "Don’t mix up 体 (body: 亻 + 本) and 休 (rest: 亻 + 木, no line at the bottom).",
+        "ta": "体 (உடல்: 亻 + 本), 休 (ஓய்வு: 亻 + 木, அடியில் கோடு இல்லை) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "体", "reading": "からだ", "en": "body; health", "ta": "உடல்", "vocabId": "n5-v-179" },
+        { "word": "大体", "reading": "だいたい", "en": "about, mostly", "ta": "ஏறக்குறைய, பெரும்பாலும்", "vocabId": "n4-v-426" },
+        { "word": "体力", "reading": "たいりょく", "en": "physical strength", "ta": "உடல் வலிமை" },
+        { "word": "体重", "reading": "たいじゅう", "en": "body weight", "ta": "உடல் எடை" }
+      ]
+    },
+    {
+      "kanji": "作",
+      "meaning": { "en": "make", "ta": "செய், உருவாக்கு" },
+      "on": ["さく", "さ"],
+      "kun": ["つく.る"],
+      "mnemonic": {
+        "en": "A person (亻) works with a saw (乍, it looks like a saw with teeth). The person is making a chair.",
+        "ta": "ஒரு மனிதர் (亻) ஒரு ரம்பத்துடன் (乍, பற்கள் உள்ள ரம்பம் போலத் தெரியும்) வேலை செய்கிறார். அவர் ஒரு நாற்காலி செய்துகொண்டிருக்கிறார்!"
+      },
+      "note": {
+        "en": "Most words use さく: 作文, 作品. A few use さ: 動作 (どうさ, a movement). Before か, さく becomes さっ: 作家 (さっか, a writer).",
+        "ta": "பெரும்பாலான சொற்களில் さく: 作文, 作品. சிலவற்றில் さ: 動作 (どうさ, அசைவு). か-க்கு முன் さく → さっ: 作家 (さっか, எழுத்தாளர்)."
+      },
+      "examples": [
+        { "word": "作る", "reading": "つくる", "en": "to make", "ta": "செய்ய, தயாரிக்க", "vocabId": "n5-v-418" },
+        { "word": "作文", "reading": "さくぶん", "en": "essay, composition", "ta": "கட்டுரை", "vocabId": "n5-v-280" },
+        { "word": "作品", "reading": "さくひん", "en": "a work (of art)", "ta": "படைப்பு (கலைப் படைப்பு)" },
+        { "word": "動作", "reading": "どうさ", "en": "movement, action", "ta": "அசைவு, செயல்" }
+      ]
+    },
+    {
+      "kanji": "用",
+      "meaning": { "en": "use; business, errand", "ta": "பயன்பாடு; வேலை" },
+      "on": ["よう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "It looks like a wooden bucket with a frame and two bars across it. A bucket is something you use every day for many jobs.",
+        "ta": "சட்டமும் குறுக்கே இரண்டு கம்பிகளும் உள்ள மர வாளி போலத் தெரிகிறது. வாளியைத் தினமும் பல வேலைகளுக்குப் பயன்படுத்துகிறோம்!"
+      },
+      "note": {
+        "en": "用 (よう) alone means some small business or errand: 用が あります (I have something to do). Don’t mix up 用 with 月 (moon), which has no middle line going down.",
+        "ta": "தனியாக 用 (よう) = சிறிய வேலை, அலுவல்: 用が あります (எனக்கு ஒரு வேலை இருக்கிறது). 用, நடுவில் கீழிறங்கும் கோடு இல்லாத 月 (நிலா) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "用", "reading": "よう", "en": "errand, something to do", "ta": "அலுவல், செய்ய வேண்டிய வேலை", "vocabId": "n4-v-271" },
+        { "word": "用事", "reading": "ようじ", "en": "errand, things to do", "ta": "செய்ய வேண்டிய வேலைகள்", "vocabId": "n4-v-153" },
+        { "word": "用意", "reading": "ようい", "en": "preparation", "ta": "தயாரிப்பு, ஆயத்தம்", "vocabId": "n4-v-274" },
+        { "word": "使用", "reading": "しよう", "en": "use", "ta": "பயன்பாடு" }
+      ]
+    },
+    {
+      "kanji": "強",
+      "meaning": { "en": "strong", "ta": "வலிமையான" },
+      "on": ["きょう"],
+      "kun": ["つよ.い"],
+      "mnemonic": {
+        "en": "On the left is a bow (弓). On the right is a big beetle (虫) with a hard shell. Only a very strong bow can shoot through that shell.",
+        "ta": "இடப்பக்கம் ஒரு வில் (弓). வலப்பக்கம் கடினமான ஓடு உள்ள ஒரு பெரிய வண்டு (虫). மிக வலிமையான வில்லால் மட்டுமே அந்த ஓட்டைத் துளைக்க முடியும்!"
+      },
+      "note": {
+        "en": "勉強 (べんきょう, study) has 強 in it: studying means pushing yourself hard.",
+        "ta": "勉強 (べんきょう, படிப்பு) என்பதிலும் 強 உண்டு: படிப்பது என்றால் உங்களையே கடுமையாக உழைக்க வைப்பது."
+      },
+      "examples": [
+        { "word": "強い", "reading": "つよい", "en": "strong", "ta": "வலிமையான (பலமான)", "vocabId": "n5-v-423" },
+        { "word": "勉強", "reading": "べんきょう", "en": "study", "ta": "படிப்பு", "vocabId": "n5-v-599" },
+        { "word": "強力", "reading": "きょうりょく", "en": "powerful", "ta": "சக்திவாய்ந்த" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU3-q01",
+        "type": "kanji_reading",
+        "sentence": "毎日 ＿新聞＿を 読みます。",
+        "target": "新聞",
+        "options": ["しんもん", "しんぶん", "しいぶん", "あたらぶん"],
+        "answer": 1,
+        "explanation_en": "新聞 is read しんぶん (செய்தித்தாள், newspaper). 聞 becomes ぶん here. しいぶん has a wrong long vowel, and あたら is from the kun reading あたらしい.",
+        "explanation_ta": "新聞 = しんぶん (செய்தித்தாள், newspaper). இங்கே 聞 = ぶん. しいぶん-இல் தவறான நீண்ட ஒலி; あたら என்பது あたらしい என்ற குன் வாசிப்பிலிருந்து வருவது."
+      },
+      {
+        "id": "KU3-q02",
+        "type": "kanji_reading",
+        "sentence": "＿明日＿は 学校が 休みです。",
+        "target": "明日",
+        "options": ["めいにち", "あかび", "あさって", "あした"],
+        "answer": 3,
+        "explanation_en": "明日 has a special reading: あした (நாளை, tomorrow). あさって is 明後日 (the day after tomorrow). めいにち uses the normal on readings, but it is not used for tomorrow.",
+        "explanation_ta": "明日-க்குச் சிறப்பு வாசிப்பு: あした (நாளை, tomorrow). あさって = 明後日 (நாளை மறுநாள்). めいにち சாதாரண ஆன் வாசிப்புகளால் ஆனது; நாளை என்ற பொருளில் பயன்படாது."
+      },
+      {
+        "id": "KU3-q03",
+        "type": "kanji_reading",
+        "sentence": "あには ＿東京＿で はたらいて います。",
+        "target": "東京",
+        "options": ["とうきょう", "ときょう", "とうきょ", "とうけい"],
+        "answer": 0,
+        "explanation_en": "東京 is read とうきょう (டோக்கியோ, Tokyo). Both parts are long: とう and きょう. ときょう and とうきょ are too short.",
+        "explanation_ta": "東京 = とうきょう (டோக்கியோ, Tokyo). இரண்டு பகுதிகளும் நீண்ட ஒலி: とう, きょう. ときょう, とうきょ மிகக் குறுகியவை."
+      },
+      {
+        "id": "KU3-q04",
+        "type": "kanji_reading",
+        "sentence": "この みちを ＿通って＿ ください。",
+        "target": "通って",
+        "options": ["かよって", "つうって", "とおって", "とうって"],
+        "answer": 2,
+        "explanation_en": "通って is read とおって (கடந்து, passing through; from 通る). It is written with お, not う. かよって is from 通う (to commute).",
+        "explanation_ta": "通って = とおって (கடந்து, passing through; 通る-இலிருந்து). இதில் お வரும், う அல்ல. かよって என்பது 通う (தினமும் போய்வர) என்பதிலிருந்து."
+      },
+      {
+        "id": "KU3-q05",
+        "type": "kanji_reading",
+        "sentence": "やさいは ＿体＿に いいです。",
+        "target": "体",
+        "options": ["たい", "からた", "からだ", "かたち"],
+        "answer": 2,
+        "explanation_en": "体 alone is read からだ (உடல், body). からた is missing the ゛, and たい is the on reading, used in 体力.",
+        "explanation_ta": "தனியாக 体 = からだ (உடல், body). からた-வில் ゛ இல்லை; たい ஆன் வாசிப்பு, 体力 என்பதில் வரும்."
+      },
+      {
+        "id": "KU3-q06",
+        "type": "kanji_reading",
+        "sentence": "日本語で ＿作文＿を 書きました。",
+        "target": "作文",
+        "options": ["さくぶん", "さぶん", "さっぶん", "つくぶん"],
+        "answer": 0,
+        "explanation_en": "作文 is read さくぶん (கட்டுரை, essay). さぶん is too short, さっぶん has a wrong small っ, and つく is the kun reading (作る).",
+        "explanation_ta": "作文 = さくぶん (கட்டுரை, essay). さぶん மிகக் குறுகியது; さっぶん-இல் தவறான சிறிய っ; つく குன் வாசிப்பு (作る)."
+      },
+      {
+        "id": "KU3-q07",
+        "type": "kanji_reading",
+        "sentence": "わたしは ＿地理＿の じゅぎょうが すきです。",
+        "target": "地理",
+        "options": ["じり", "ちいり", "ぢり", "ちり"],
+        "answer": 3,
+        "explanation_en": "地理 is read ちり (புவியியல், geography). Here 地 is ち, not じ. ちいり has an extra い.",
+        "explanation_ta": "地理 = ちり (புவியியல், geography). இங்கே 地 = ち, じ அல்ல. ちいり-இல் கூடுதல் い."
+      },
+      {
+        "id": "KU3-q08",
+        "type": "kanji_reading",
+        "sentence": "＿用＿が あるので、先に かえります。",
+        "target": "用",
+        "options": ["もち", "よう", "よお", "ゆう"],
+        "answer": 1,
+        "explanation_en": "用 alone is read よう (அலுவல், something to do). The long sound is written う: よう, not よお. ゆう is a different sound.",
+        "explanation_ta": "தனியாக 用 = よう (அலுவல், something to do). நீண்ட ஒலி う-வால் எழுதப்படும்: よう, よお அல்ல. ゆう வேறு ஒலி."
+      },
+      {
+        "id": "KU3-q09",
+        "type": "kanji_reading",
+        "sentence": "先生が ＿言った＿ ことを ノートに 書きます。",
+        "target": "言った",
+        "options": ["いった", "げんった", "こった", "かった"],
+        "answer": 0,
+        "explanation_en": "言った is read いった (சொன்ன, said; from 言う). げん is the on reading, used in 方言. こと is another kun reading, used in 一言.",
+        "explanation_ta": "言った = いった (சொன்ன, said; 言う-இலிருந்து). げん ஆன் வாசிப்பு, 方言-இல் வரும். こと மற்றொரு குன் வாசிப்பு, 一言-இல் வரும்."
+      },
+      {
+        "id": "KU3-q10",
+        "type": "kanji_reading",
+        "sentence": "パーティーの ＿会場＿は 二かいです。",
+        "target": "会場",
+        "options": ["かいば", "かいじょ", "かいじょう", "がいじょう"],
+        "answer": 2,
+        "explanation_en": "会場 is read かいじょう (நிகழ்ச்சி நடக்கும் இடம், venue). じょう is long. ば is the kun reading of 場, and かいじょ is too short.",
+        "explanation_ta": "会場 = かいじょう (நிகழ்ச்சி நடக்கும் இடம், venue). じょう நீண்ட ஒலி. ば என்பது 場-இன் குன் வாசிப்பு; かいじょ மிகக் குறுகியது."
+      },
+      {
+        "id": "KU3-q11",
+        "type": "orthography",
+        "sentence": "＿あたらしい＿ くつを かいました。",
+        "target": "あたらしい",
+        "options": ["親しい", "斤しい", "薪しい", "新しい"],
+        "answer": 3,
+        "explanation_en": "あたらしい (புதிய, new) is written 新しい: stand (立) + tree (木) + axe (斤). 親 has 見 on the right, and 薪 has grass on top.",
+        "explanation_ta": "あたらしい (புதிய, new) = 新しい: நில் (立) + மரம் (木) + கோடரி (斤). 親-இல் வலப்பக்கம் 見; 薪-இல் மேலே புல்."
+      },
+      {
+        "id": "KU3-q12",
+        "type": "orthography",
+        "sentence": "あの チームは とても ＿つよい＿です。",
+        "target": "つよい",
+        "options": ["弓い", "強い", "引い", "張い"],
+        "answer": 1,
+        "explanation_en": "つよい (வலிமையான, strong) is written 強い: a bow (弓) and a beetle (虫). 弓, 引 and 張 all have the bow, but they are different kanji.",
+        "explanation_ta": "つよい (வலிமையான, strong) = 強い: வில் (弓) + வண்டு (虫). 弓, 引, 張 எல்லாவற்றிலும் வில் உண்டு; ஆனால் அவை வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU3-q13",
+        "type": "orthography",
+        "sentence": "母が ケーキを ＿つくりました＿。",
+        "target": "つくりました",
+        "options": ["昨りました", "住りました", "作りました", "低りました"],
+        "answer": 2,
+        "explanation_en": "つくりました (செய்தார், made) is written 作りました: a person (亻) with a saw. 昨 has 日 on the left, and 住 and 低 have a different right side.",
+        "explanation_ta": "つくりました (செய்தார், made) = 作りました: ரம்பத்துடன் ஒரு மனிதர் (亻). 昨-இல் இடப்பக்கம் 日; 住, 低 ஆகியவற்றின் வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU3-q14",
+        "type": "orthography",
+        "sentence": "わたしは こうちゃより コーヒーの ＿ほう＿が すきです。",
+        "target": "ほう",
+        "options": ["方", "万", "力", "刀"],
+        "answer": 0,
+        "explanation_en": "ほう (பக்கம், side / direction) is written 方, with a dot on top. 万 (ten thousand) has no dot, and 力 and 刀 have no top line.",
+        "explanation_ta": "ほう (பக்கம், side / direction) = 方; மேலே புள்ளி உண்டு. 万 (பத்தாயிரம்)-இல் புள்ளி இல்லை; 力, 刀 ஆகியவற்றில் மேல் கோடு இல்லை."
+      },
+      {
+        "id": "KU3-q15",
+        "type": "orthography",
+        "sentence": "この へやは ＿あかるい＿ですね。",
+        "target": "あかるい",
+        "options": ["朋るい", "明るい", "暗るい", "晴るい"],
+        "answer": 1,
+        "explanation_en": "あかるい (வெளிச்சமான, bright) is written 明るい: the sun (日) and the moon (月) together. 朋 is two moons, and 暗 means dark, the opposite.",
+        "explanation_ta": "あかるい (வெளிச்சமான, bright) = 明るい: சூரியனும் (日) நிலாவும் (月) சேர்ந்து. 朋 = இரண்டு நிலாக்கள்; 暗 = இருட்டு, எதிர்ப் பொருள்."
+      },
+      {
+        "id": "KU3-q16",
+        "type": "orthography",
+        "sentence": "すみません、もう 一ど ＿いって＿ ください。",
+        "target": "いって",
+        "options": ["信って", "話って", "計って", "言って"],
+        "answer": 3,
+        "explanation_en": "いって here means “say” (சொல்லுங்கள், please say), so it is written 言って. 信, 話 and 計 all have 言 on the left, but they are different kanji.",
+        "explanation_ta": "இங்கே いって = “சொல்” (சொல்லுங்கள், please say); ஆகவே 言って. 信, 話, 計 எல்லாவற்றின் இடப்பக்கமும் 言 உண்டு; ஆனால் அவை வேறு கான்ஜிகள்."
+      }
+    ]
+  }
+}

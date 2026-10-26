@@ -1,0 +1,177 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 17,
+  "slug": "tame-ni",
+  "title": {
+   "ja": "家を買うために貯金しています",
+   "ta": "வீடு வாங்குவதற்காகச் சேமிக்கிறேன்",
+   "en": "I'm saving to buy a house"
+  },
+  "theme": {
+   "en": "Work, money and decisions: part-time jobs, skills, factories, saving up.",
+   "ta": "வேலை, பணம், முடிவுகள்: பகுதிநேர வேலை, திறன்கள், தொழிற்சாலை, சேமிப்பு."
+  },
+  "grammar": [
+   {
+    "id": "g17-1",
+    "pattern": "V-dict / N の ために (purpose / benefit)",
+    "en": "In order to … / for the sake of …"
+   },
+   {
+    "id": "g17-2",
+    "pattern": "V-dict の に / N に 使います・必要です・いいです",
+    "en": "Used for / needed for / good for …"
+   },
+   {
+    "id": "g17-3",
+    "pattern": "V-dict / V-ない ことに します",
+    "en": "Decide to (not) … (my own decision)"
+   },
+   {
+    "id": "g17-4",
+    "pattern": "V-dict / V-ない ことに しています",
+    "en": "Have made it a rule to …"
+   },
+   {
+    "id": "g17-5",
+    "pattern": "V-dict / V-ない ことに なります / なっています",
+    "en": "It has been decided (by others) that …; it is the rule that …"
+   }
+  ],
+  "vocabHints": [
+   "work: part-time job, factory, skill, experience",
+   "money: rich person, enough, necessary",
+   "deciding, consulting",
+   "useful, free, substitute"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-046",
+   "expression": "ほとんど",
+   "reading": "ほとんど",
+   "romaji": "hotondo",
+   "en": "mostly, almost"
+  },
+  {
+   "id": "n4-v-082",
+   "expression": "必要",
+   "reading": "ひつよう",
+   "romaji": "hitsuyou",
+   "en": "necessary"
+  },
+  {
+   "id": "n4-v-105",
+   "expression": "アルバイト",
+   "reading": "アルバイト",
+   "romaji": "arubaito",
+   "en": "part-time job"
+  },
+  {
+   "id": "n4-v-117",
+   "expression": "パート (タイム)",
+   "reading": "パート (タイム)",
+   "romaji": "paato(taimu)",
+   "en": "part time (esp. female part time employees)"
+  },
+  {
+   "id": "n4-v-131",
+   "expression": "決まる",
+   "reading": "きまる",
+   "romaji": "kimaru",
+   "en": "to be set; fixed (v.i.)"
+  },
+  {
+   "id": "n4-v-167",
+   "expression": "足りる",
+   "reading": "たりる",
+   "romaji": "tariru",
+   "en": "to be sufficient; to be enough"
+  },
+  {
+   "id": "n4-v-180",
+   "expression": "決める",
+   "reading": "きめる",
+   "romaji": "kimeru",
+   "en": "to decide (v.t.)"
+  },
+  {
+   "id": "n4-v-293",
+   "expression": "技術",
+   "reading": "ぎじゅつ",
+   "romaji": "gijutsu",
+   "en": "technique, technology, skill"
+  },
+  {
+   "id": "n4-v-409",
+   "expression": "為",
+   "reading": "ため",
+   "romaji": "tame",
+   "en": "good, advantage, in order to"
+  },
+  {
+   "id": "n4-v-421",
+   "expression": "十分",
+   "reading": "じゅうぶん",
+   "romaji": "juubun",
+   "en": "enough"
+  },
+  {
+   "id": "n4-v-426",
+   "expression": "大体",
+   "reading": "だいたい",
+   "romaji": "daitai",
+   "en": "approximately; in most cases; in general; to begin with (same as もともと)"
+  },
+  {
+   "id": "n4-v-434",
+   "expression": "お金持ち",
+   "reading": "かねもち; おかねもち",
+   "romaji": "kanemochi;okanemochi",
+   "en": "rich person"
+  },
+  {
+   "id": "n4-v-572",
+   "expression": "自由",
+   "reading": "じゆう",
+   "romaji": "jiyuu",
+   "en": "freedom"
+  },
+  {
+   "id": "n4-v-576",
+   "expression": "代わり",
+   "reading": "かわり",
+   "romaji": "kawari",
+   "en": "substitute, replacement"
+  },
+  {
+   "id": "n4-v-583",
+   "expression": "工場",
+   "reading": "こうじょう",
+   "romaji": "koujou",
+   "en": "factory"
+  },
+  {
+   "id": "n4-v-597",
+   "expression": "経験",
+   "reading": "けいけんする",
+   "romaji": "keikensuru",
+   "en": "experience"
+  },
+  {
+   "id": "n4-v-609",
+   "expression": "役に立つ",
+   "reading": "やくにたつ",
+   "romaji": "yakunitatsu",
+   "en": "to be helpful, to be useful"
+  },
+  {
+   "id": "n4-v-629",
+   "expression": "相談",
+   "reading": "そうだんする",
+   "romaji": "soudansuru",
+   "en": "consultation"
+  }
+ ]
+}

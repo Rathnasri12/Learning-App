@@ -1,0 +1,471 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 37,
+  "slug": "chousa-ni-motozuite",
+  "title": {
+   "ja": "調査に基づいて",
+   "ta": "ஒரு ஆய்வின் அடிப்படையில்",
+   "en": "Based on a survey"
+  },
+  "theme": {
+   "en": "Research and reports: surveys, science and data.",
+   "ta": "ஆராய்ச்சியும் அறிக்கைகளும்: கணக்கெடுப்புகள், அறிவியல், தரவுகள்."
+  },
+  "grammar": [
+   {
+    "id": "g37-1",
+    "pattern": "N に 関して / N に 関する N",
+    "en": "About / concerning N (formal)"
+   },
+   {
+    "id": "g37-2",
+    "pattern": "N に よって / N に よる N",
+    "en": "By / depending on / due to N"
+   },
+   {
+    "id": "g37-3",
+    "pattern": "N を もとに(して)",
+    "en": "Based on N (material, source)"
+   },
+   {
+    "id": "g37-4",
+    "pattern": "N に 基づいて / N に 基づく N",
+    "en": "Based on N (grounds, rules)"
+   },
+   {
+    "id": "g37-5",
+    "pattern": "N を 中心に(して)",
+    "en": "Centred on N"
+   }
+  ],
+  "vocabHints": [
+   "research and surveys",
+   "science: chemistry, physics, biology",
+   "numbers, data and statistics",
+   "space and the earth"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0016",
+   "expression": "酸性",
+   "reading": "さんせい",
+   "romaji": "sansei",
+   "en": "acidity"
+  },
+  {
+   "id": "n3-v-0017",
+   "expression": "酸素",
+   "reading": "さんそ",
+   "romaji": "sanso",
+   "en": "oxygen"
+  },
+  {
+   "id": "n3-v-0053",
+   "expression": "実験",
+   "reading": "じっけん",
+   "romaji": "jikken",
+   "en": "lab work; experiment"
+  },
+  {
+   "id": "n3-v-0143",
+   "expression": "生じる",
+   "reading": "しょうじる",
+   "romaji": "shoujiru",
+   "en": "to occur, to arise, to be generated"
+  },
+  {
+   "id": "n3-v-0211",
+   "expression": "図",
+   "reading": "ず",
+   "romaji": "zu",
+   "en": "figure, drawing, illustration"
+  },
+  {
+   "id": "n3-v-0242",
+   "expression": "全て",
+   "reading": "すべて",
+   "romaji": "subete",
+   "en": "all, the whole, entirely"
+  },
+  {
+   "id": "n3-v-0291",
+   "expression": "説",
+   "reading": "せつ",
+   "romaji": "setsu",
+   "en": "theory"
+  },
+  {
+   "id": "n3-v-0403",
+   "expression": "一般",
+   "reading": "いっぱん",
+   "romaji": "ippan",
+   "en": "general, average"
+  },
+  {
+   "id": "n3-v-0434",
+   "expression": "引用",
+   "reading": "いんよう",
+   "romaji": "in'you",
+   "en": "quotation, citation"
+  },
+  {
+   "id": "n3-v-0445",
+   "expression": "宇宙",
+   "reading": "うちゅう",
+   "romaji": "uchuu",
+   "en": "universe, cosmos, space"
+  },
+  {
+   "id": "n3-v-0469",
+   "expression": "影響",
+   "reading": "えいきょう",
+   "romaji": "eikyou",
+   "en": "influence, effect"
+  },
+  {
+   "id": "n3-v-0501",
+   "expression": "奥",
+   "reading": "おく",
+   "romaji": "oku",
+   "en": "interior, inner part"
+  },
+  {
+   "id": "n3-v-0532",
+   "expression": "主に",
+   "reading": "おもに",
+   "romaji": "omoni",
+   "en": "mainly, primarily"
+  },
+  {
+   "id": "n3-v-0535",
+   "expression": "およそ",
+   "reading": "およそ",
+   "romaji": "oyoso",
+   "en": "about, roughly, approximately"
+  },
+  {
+   "id": "n3-v-0536",
+   "expression": "及ぼす",
+   "reading": "およぼす",
+   "romaji": "oyobosu",
+   "en": "to exert, to cause, to exercise"
+  },
+  {
+   "id": "n3-v-0574",
+   "expression": "化学",
+   "reading": "かがく",
+   "romaji": "kagaku",
+   "en": "chemistry"
+  },
+  {
+   "id": "n3-v-0610",
+   "expression": "数",
+   "reading": "かず",
+   "romaji": "kazu",
+   "en": "number, figure, amount"
+  },
+  {
+   "id": "n3-v-0612",
+   "expression": "数える",
+   "reading": "かぞえる",
+   "romaji": "kazoeru",
+   "en": "to count"
+  },
+  {
+   "id": "n3-v-0666",
+   "expression": "間隔",
+   "reading": "かんかく",
+   "romaji": "kankaku",
+   "en": "space, interval, SPC"
+  },
+  {
+   "id": "n3-v-0671",
+   "expression": "観察",
+   "reading": "かんさつ",
+   "romaji": "kansatsu",
+   "en": "observation, survey"
+  },
+  {
+   "id": "n3-v-0680",
+   "expression": "関する",
+   "reading": "かんする",
+   "romaji": "kansuru",
+   "en": "to concern, to be related"
+  },
+  {
+   "id": "n3-v-0689",
+   "expression": "関連",
+   "reading": "かんれん",
+   "romaji": "kanren",
+   "en": "relation, connection, relevance"
+  },
+  {
+   "id": "n3-v-0699",
+   "expression": "効く",
+   "reading": "きく",
+   "romaji": "kiku",
+   "en": "to be effective"
+  },
+  {
+   "id": "n3-v-0710",
+   "expression": "気体",
+   "reading": "きたい",
+   "romaji": "kitai",
+   "en": "vapor, gas"
+  },
+  {
+   "id": "n3-v-0724",
+   "expression": "基本",
+   "reading": "きほん",
+   "romaji": "kihon",
+   "en": "basic, basis"
+  },
+  {
+   "id": "n3-v-0739",
+   "expression": "吸収",
+   "reading": "きゅうしゅう",
+   "romaji": "kyuushuu",
+   "en": "absorption, suction"
+  },
+  {
+   "id": "n3-v-0842",
+   "expression": "結果",
+   "reading": "けっか",
+   "romaji": "kekka",
+   "en": "result, consequence"
+  },
+  {
+   "id": "n3-v-0862",
+   "expression": "現象",
+   "reading": "げんしょう",
+   "romaji": "genshou",
+   "en": "phenomenon"
+  },
+  {
+   "id": "n3-v-0879",
+   "expression": "効果",
+   "reading": "こうか",
+   "romaji": "kouka",
+   "en": "effect, result"
+  },
+  {
+   "id": "n3-v-0995",
+   "expression": "ざっと",
+   "reading": "ざっと",
+   "romaji": "zatto",
+   "en": "roughly, in round numbers"
+  },
+  {
+   "id": "n3-v-1076",
+   "expression": "基",
+   "reading": "もと",
+   "romaji": "moto",
+   "en": "basis"
+  },
+  {
+   "id": "n3-v-1079",
+   "expression": "基づく",
+   "reading": "もとづく",
+   "romaji": "motozuku",
+   "en": "to be grounded on, to be based on"
+  },
+  {
+   "id": "n3-v-1090",
+   "expression": "約",
+   "reading": "やく",
+   "romaji": "yaku",
+   "en": "approximately, about, some"
+  },
+  {
+   "id": "n3-v-1106",
+   "expression": "有効",
+   "reading": "ゆうこう",
+   "romaji": "yuukou",
+   "en": "valid, effectual"
+  },
+  {
+   "id": "n3-v-1131",
+   "expression": "要素",
+   "reading": "ようそ",
+   "romaji": "youso",
+   "en": "element"
+  },
+  {
+   "id": "n3-v-1141",
+   "expression": "予測",
+   "reading": "よそく",
+   "romaji": "yosoku",
+   "en": "prediction, estimation"
+  },
+  {
+   "id": "n3-v-1152",
+   "expression": "因る",
+   "reading": "よる",
+   "romaji": "yoru",
+   "en": "to come from"
+  },
+  {
+   "id": "n3-v-1166",
+   "expression": "率",
+   "reading": "りつ",
+   "romaji": "ritsu",
+   "en": "rate, ratio, percentage"
+  },
+  {
+   "id": "n3-v-1188",
+   "expression": "論文",
+   "reading": "ろんぶん",
+   "romaji": "ronbun",
+   "en": "thesis, paper"
+  },
+  {
+   "id": "n3-v-1212",
+   "expression": "アンケート",
+   "reading": "アンケート",
+   "romaji": "ankeeto",
+   "en": "questionnaire (FRE: enquete), survey"
+  },
+  {
+   "id": "n3-v-1312",
+   "expression": "全体",
+   "reading": "ぜんたい",
+   "romaji": "zentai",
+   "en": "whole, entirety, whatever (is the matter)"
+  },
+  {
+   "id": "n3-v-1485",
+   "expression": "調査",
+   "reading": "ちょうさ",
+   "romaji": "chousa",
+   "en": "survey; investigation"
+  },
+  {
+   "id": "n3-v-1649",
+   "expression": "中身",
+   "reading": "なかみ",
+   "romaji": "nakami",
+   "en": "content(s); substance"
+  },
+  {
+   "id": "n3-v-1650",
+   "expression": "中味",
+   "reading": "なかみ",
+   "romaji": "nakami",
+   "en": "contents, interior, filling"
+  },
+  {
+   "id": "n3-v-1737",
+   "expression": "パーセント",
+   "reading": "パーセント",
+   "romaji": "paasento",
+   "en": "percent"
+  },
+  {
+   "id": "n3-v-1750",
+   "expression": "計る",
+   "reading": "はかる",
+   "romaji": "hakaru",
+   "en": "to measure, to weigh, to survey"
+  },
+  {
+   "id": "n3-v-1751",
+   "expression": "量る",
+   "reading": "はかる",
+   "romaji": "hakaru",
+   "en": "to measure, to weigh, to survey"
+  },
+  {
+   "id": "n3-v-1774",
+   "expression": "発見",
+   "reading": "はっけん",
+   "romaji": "hakken",
+   "en": "discovery, detection, finding"
+  },
+  {
+   "id": "n3-v-1801",
+   "expression": "範囲",
+   "reading": "はんい",
+   "romaji": "han'i",
+   "en": "extent, scope, range"
+  },
+  {
+   "id": "n3-v-1839",
+   "expression": "表",
+   "reading": "ひょう",
+   "romaji": "hyou",
+   "en": "table (e.g., Tab 1), chart, list"
+  },
+  {
+   "id": "n3-v-1890",
+   "expression": "物質",
+   "reading": "ぶっしつ",
+   "romaji": "busshitsu",
+   "en": "material, substance"
+  },
+  {
+   "id": "n3-v-1891",
+   "expression": "物理",
+   "reading": "ぶつり",
+   "romaji": "butsuri",
+   "en": "physics"
+  },
+  {
+   "id": "n3-v-1894",
+   "expression": "部分",
+   "reading": "ぶぶん",
+   "romaji": "bubun",
+   "en": "portion, section, part"
+  },
+  {
+   "id": "n3-v-1899",
+   "expression": "プラス",
+   "reading": "プラス",
+   "romaji": "purasu",
+   "en": "plus"
+  },
+  {
+   "id": "n3-v-1911",
+   "expression": "分析",
+   "reading": "ぶんせき",
+   "romaji": "bunseki",
+   "en": "analysis"
+  },
+  {
+   "id": "n3-v-1913",
+   "expression": "分野",
+   "reading": "ぶんや",
+   "romaji": "bun'ya",
+   "en": "field, sphere"
+  },
+  {
+   "id": "n3-v-1915",
+   "expression": "平均",
+   "reading": "へいきん",
+   "romaji": "heikin",
+   "en": "equilibrium, balance, average"
+  },
+  {
+   "id": "n3-v-1967",
+   "expression": "マイナス",
+   "reading": "マイナス",
+   "romaji": "mainasu",
+   "en": "minus"
+  },
+  {
+   "id": "n3-v-2002",
+   "expression": "酸化",
+   "reading": "さんか",
+   "romaji": "sanka",
+   "en": "oxidation"
+  },
+  {
+   "id": "n3-v-2007",
+   "expression": "磁気",
+   "reading": "じき",
+   "romaji": "jiki",
+   "en": "magnetism"
+  }
+ ]
+}

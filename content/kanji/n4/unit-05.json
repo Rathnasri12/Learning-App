@@ -1,0 +1,400 @@
+{
+  "unit": 5,
+  "title": { "en": "Town, roads and daily actions", "ta": "ஊர், சாலை, தினசரி செயல்கள்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji you see every day in town: sea, road, shop words like sell, and actions like stop, cut and know. Most of them are built from parts you already know, like 氵 (water), 言 (say), 十 (ten) and 七 (seven). Look for the old parts first, and the new kanji becomes easy.",
+    "ta": "இந்தப் பாடத்தில் ஊரில் தினமும் பார்க்கும் 12 கான்ஜிகளைக் கற்கிறீர்கள்: கடல், சாலை, விற்பது போன்ற கடைச் சொற்கள், நிறுத்து, வெட்டு, தெரிந்துகொள் போன்ற செயல்கள். இவற்றில் பெரும்பாலானவை நீங்கள் ஏற்கனவே அறிந்த பகுதிகளால் ஆனவை: 氵 (நீர்), 言 (சொல்), 十 (பத்து), 七 (ஏழு). முதலில் பழைய பகுதிகளைத் தேடுங்கள்; புதிய கான்ஜி எளிதாகிவிடும்."
+  },
+  "kanji": [
+    {
+      "kanji": "海",
+      "meaning": { "en": "sea", "ta": "கடல்" },
+      "on": ["かい"],
+      "kun": ["うみ"],
+      "mnemonic": {
+        "en": "On the left are three drops of water (氵). On the right is 毎 (every). Water everywhere, every way you look: that is the sea.",
+        "ta": "இடப்பக்கம் மூன்று நீர்த்துளிகள் (氵). வலப்பக்கம் 毎 (ஒவ்வொரு). எந்தப் பக்கம் பார்த்தாலும் ஒவ்வொரு இடத்திலும் தண்ணீர் — அதுதான் கடல், மெரினா கடற்கரையில் நின்று பார்ப்பது போல!"
+      },
+      "note": {
+        "en": "Alone, 海 is read うみ. In longer words it is often かい: 海外 (abroad). 北海道 is read ほっかいどう.",
+        "ta": "தனியாக 海 = うみ. நீண்ட சொற்களில் பெரும்பாலும் かい: 海外 (வெளிநாடு). 北海道 என்பதை ほっかいどう என்று படிக்க வேண்டும்."
+      },
+      "examples": [
+        { "word": "海", "reading": "うみ", "en": "sea; beach", "ta": "கடல்", "vocabId": "n5-v-083" },
+        { "word": "海外", "reading": "かいがい", "en": "overseas, abroad", "ta": "வெளிநாடு" },
+        { "word": "北海道", "reading": "ほっかいどう", "en": "Hokkaido (northern island of Japan)", "ta": "ஹொக்கைடோ (ஜப்பானின் வடக்குத் தீவு)" }
+      ]
+    },
+    {
+      "kanji": "売",
+      "meaning": { "en": "sell", "ta": "விற்பது" },
+      "on": ["ばい"],
+      "kun": ["う.る", "う.れる"],
+      "mnemonic": {
+        "en": "A man (士) stands on top, under him a cover (冖), and at the bottom two legs (儿). It is a seller standing at his street stall with a cloth roof, calling out: “Buy, buy!” He sells.",
+        "ta": "மேலே ஒரு மனிதன் (士), அவனுக்குக் கீழே ஒரு மூடி (冖), அடியில் இரண்டு கால்கள் (儿). துணிக் கூரை போட்ட தெருக் கடையில் நின்று “வாங்க, வாங்க!” என்று கூவுகிற வியாபாரி இவன். அவன் விற்கிறான்."
+      },
+      "note": {
+        "en": "Don’t mix up 売る (うる, sell) and 買う (かう, buy). Together they make 売買 (ばいばい, buying and selling).",
+        "ta": "売る (うる, விற்பது), 買う (かう, வாங்குவது) இரண்டையும் குழப்ப வேண்டாம். இரண்டும் சேர்ந்தால் 売買 (ばいばい, வாங்கல் விற்றல்)."
+      },
+      "examples": [
+        { "word": "売る", "reading": "うる", "en": "to sell", "ta": "விற்க", "vocabId": "n5-v-084" },
+        { "word": "売り場", "reading": "うりば", "en": "sales counter, section of a store", "ta": "விற்பனைப் பகுதி (கடையில்)", "vocabId": "n4-v-050" },
+        { "word": "売れる", "reading": "うれる", "en": "to sell well, to be sold", "ta": "நன்றாக விற்பனையாக" },
+        { "word": "売店", "reading": "ばいてん", "en": "kiosk, small shop", "ta": "சிறு கடை (கியோஸ்க்)" }
+      ]
+    },
+    {
+      "kanji": "知",
+      "meaning": { "en": "know", "ta": "அறிவது / தெரிவது" },
+      "on": ["ち"],
+      "kun": ["し.る", "し.らせる"],
+      "mnemonic": {
+        "en": "On the left is an arrow (矢). On the right is a mouth (口). When you really know something, the answer flies out of your mouth as fast as an arrow.",
+        "ta": "இடப்பக்கம் ஒரு அம்பு (矢). வலப்பக்கம் ஒரு வாய் (口). உண்மையில் ஒரு விஷயம் தெரிந்தால், பதில் வாயிலிருந்து அம்பு போல வேகமாகப் பாய்ந்து வரும்."
+      },
+      "note": {
+        "en": "“I don’t know” is 知りません, but “I know” is 知っています (not 知ります).",
+        "ta": "“தெரியாது” = 知りません. ஆனால் “தெரியும்” = 知っています (知ります அல்ல)."
+      },
+      "examples": [
+        { "word": "知る", "reading": "しる", "en": "to know", "ta": "தெரிந்துகொள்ள, அறிய", "vocabId": "n5-v-323" },
+        { "word": "知らせる", "reading": "しらせる", "en": "to let someone know, to inform", "ta": "தெரியப்படுத்த, அறிவிக்க", "vocabId": "n4-v-212" },
+        { "word": "知人", "reading": "ちじん", "en": "acquaintance (a person you know)", "ta": "தெரிந்தவர் (அறிமுகமானவர்)" }
+      ]
+    },
+    {
+      "kanji": "道",
+      "meaning": { "en": "road, way", "ta": "சாலை / வழி" },
+      "on": ["どう"],
+      "kun": ["みち"],
+      "mnemonic": {
+        "en": "The long sliding stroke at the bottom (辶) is “moving along a road”, the same part as in 近 and 通. On it rides 首, a head with two hairs on top. Your head leads you along the road: the way.",
+        "ta": "அடியில் உள்ள நீண்ட சறுக்குக் கோடு (辶) “சாலையில் நகர்வது” — 近, 通 ஆகியவற்றில் வந்த அதே பகுதி. அதன் மேல் 首 — மேலே இரண்டு முடி கொண்ட ஒரு தலை. உங்கள் தலை உங்களைச் சாலை வழியே கூட்டிச் செல்கிறது: அதுதான் வழி."
+      },
+      "examples": [
+        { "word": "道", "reading": "みち", "en": "road; way", "ta": "சாலை (வழி)", "vocabId": "n5-v-641" },
+        { "word": "水道", "reading": "すいどう", "en": "water supply, tap water", "ta": "குழாய் நீர் (நீர் விநியோகம்)", "vocabId": "n4-v-221" },
+        { "word": "歩道", "reading": "ほどう", "en": "footpath, sidewalk", "ta": "நடைபாதை" },
+        { "word": "北海道", "reading": "ほっかいどう", "en": "Hokkaido", "ta": "ஹொக்கைடோ" }
+      ]
+    },
+    {
+      "kanji": "計",
+      "meaning": { "en": "measure, plan", "ta": "அளவிடுவது / திட்டம்" },
+      "on": ["けい"],
+      "kun": ["はか.る"],
+      "mnemonic": {
+        "en": "On the left is 言 (say). On the right is 十 (ten). You say the numbers out loud, one to ten: you are counting and measuring.",
+        "ta": "இடப்பக்கம் 言 (சொல்). வலப்பக்கம் 十 (பத்து). ஒன்று முதல் பத்து வரை எண்களைச் சத்தமாகச் சொல்கிறீர்கள்: எண்ணுகிறீர்கள், அளக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "時計 (clock) is read とけい: と, not じ. Don’t write 時計 as とけ — the い is long.",
+        "ta": "時計 (கடிகாரம்) = とけい: じ அல்ல, と. கடைசியில் உள்ள い-வை விடாதீர்கள்; とけ என்பது தவறு."
+      },
+      "examples": [
+        { "word": "時計", "reading": "とけい", "en": "watch, clock", "ta": "கடிகாரம்", "vocabId": "n5-v-456" },
+        { "word": "計画", "reading": "けいかく", "en": "plan", "ta": "திட்டம்", "vocabId": "n4-v-402" },
+        { "word": "計る", "reading": "はかる", "en": "to measure (time, temperature)", "ta": "அளக்க (நேரம், வெப்பம்)" }
+      ]
+    },
+    {
+      "kanji": "朝",
+      "meaning": { "en": "morning", "ta": "காலை" },
+      "on": ["ちょう"],
+      "kun": ["あさ"],
+      "mnemonic": {
+        "en": "On the left, the sun (日) is coming up between the grass (十 above and 十 below). On the right, the moon (月) is still in the sky. Sun rising, moon not gone yet: early morning.",
+        "ta": "இடப்பக்கம் புல்லுக்கு நடுவே (மேலே 十, கீழே 十) சூரியன் (日) உதிக்கிறது. வலப்பக்கம் சந்திரன் (月) இன்னும் வானத்தில் இருக்கிறது. சூரியன் வருகிறது, சந்திரன் இன்னும் போகவில்லை: அதிகாலை."
+      },
+      "note": {
+        "en": "今朝 (this morning) has a special reading: けさ. 毎朝 is まいあさ.",
+        "ta": "今朝 (இன்று காலை) என்பதற்குச் சிறப்பு வாசிப்பு: けさ. 毎朝 = まいあさ."
+      },
+      "examples": [
+        { "word": "朝", "reading": "あさ", "en": "morning", "ta": "காலை", "vocabId": "n5-v-012" },
+        { "word": "今朝", "reading": "けさ", "en": "this morning", "ta": "இன்று காலை", "vocabId": "n5-v-235" },
+        { "word": "毎朝", "reading": "まいあさ", "en": "every morning", "ta": "தினமும் காலை", "vocabId": "n5-v-615" },
+        { "word": "朝食", "reading": "ちょうしょく", "en": "breakfast", "ta": "காலை உணவு" }
+      ]
+    },
+    {
+      "kanji": "台",
+      "meaning": { "en": "stand; counter for machines", "ta": "மேடை; இயந்திரம் எண்ணும் சொல்" },
+      "on": ["だい", "たい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A box (口) at the bottom with a small triangle (ム) sitting on top. It is a stand, a little stage with something placed on it.",
+        "ta": "அடியில் ஒரு பெட்டி (口), அதன் மேல் ஒரு சின்ன முக்கோணம் (ム) வைக்கப்பட்டிருக்கிறது. இது ஒரு மேடை — கோயில் திருவிழாவில் சாமி சிலை வைக்கும் சிறு பீடம் போல."
+      },
+      "note": {
+        "en": "Count cars, bikes and machines with 〜台: 一台 (いちだい), 二台. But 台風 (typhoon) is たいふう, with た not だ.",
+        "ta": "கார், சைக்கிள், இயந்திரங்களை 〜台 கொண்டு எண்ணுங்கள்: 一台 (いちだい), 二台. ஆனால் 台風 (புயல்) = たいふう; だ அல்ல, た."
+      },
+      "examples": [
+        { "word": "台所", "reading": "だいどころ", "en": "kitchen", "ta": "சமையலறை", "vocabId": "n5-v-377" },
+        { "word": "台風", "reading": "たいふう", "en": "typhoon", "ta": "சூறாவளி (புயல்)", "vocabId": "n4-v-074" },
+        { "word": "一台", "reading": "いちだい", "en": "one (car, machine)", "ta": "ஒன்று (வாகனம், இயந்திரம்)" }
+      ]
+    },
+    {
+      "kanji": "広",
+      "meaning": { "en": "wide, spacious", "ta": "அகலமான / விசாலமான" },
+      "on": [],
+      "kun": ["ひろ.い", "ひろ.げる"],
+      "mnemonic": {
+        "en": "广 is a big roof with only one wall: a wide open shed. Under it there is just one small thing (ム). So much empty space: it is wide.",
+        "ta": "广 என்பது ஒரே ஒரு சுவர் கொண்ட பெரிய கூரை: திறந்த பெரிய கொட்டகை. அதன் கீழ் ஒரே ஒரு சின்னப் பொருள் (ム). எவ்வளவு காலி இடம்! அதனால் விசாலமானது."
+      },
+      "examples": [
+        { "word": "広い", "reading": "ひろい", "en": "wide, spacious", "ta": "விசாலமான (அகலமான)", "vocabId": "n5-v-575" },
+        { "word": "広場", "reading": "ひろば", "en": "open square, plaza", "ta": "திறந்த மைதானம் (சதுக்கம்)" },
+        { "word": "広げる", "reading": "ひろげる", "en": "to spread out, to open wide", "ta": "விரிக்க, பரப்ப" }
+      ]
+    },
+    {
+      "kanji": "少",
+      "meaning": { "en": "a little, few", "ta": "கொஞ்சம் / குறைவு" },
+      "on": ["しょう"],
+      "kun": ["すく.ない", "すこ.し"],
+      "mnemonic": {
+        "en": "This is 小 (small), but a long slash cuts a piece off the bottom. Something small that loses even more: only a little is left.",
+        "ta": "இது 小 (சிறிய), ஆனால் அடியில் ஒரு நீண்ட சாய்கோடு ஒரு துண்டை வெட்டிக்கொண்டு போகிறது. ஏற்கனவே சின்னது, இன்னும் குறைந்தால் — கொஞ்சம்தான் மிச்சம்."
+      },
+      "note": {
+        "en": "Two kun readings: 少し (すこし, a little) and 少ない (すくない, few). Don’t mix 少 (few) with 小 (small).",
+        "ta": "இரண்டு kun வாசிப்புகள்: 少し (すこし, கொஞ்சம்), 少ない (すくない, குறைவான). 少 (குறைவு), 小 (சிறிய) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "少し", "reading": "すこし", "en": "a little", "ta": "கொஞ்சம்", "vocabId": "n5-v-335" },
+        { "word": "少ない", "reading": "すくない", "en": "few, little", "ta": "குறைவான", "vocabId": "n5-v-333" },
+        { "word": "少年", "reading": "しょうねん", "en": "boy", "ta": "சிறுவன்" }
+      ]
+    },
+    {
+      "kanji": "工",
+      "meaning": { "en": "craft, construction", "ta": "கைவினை / கட்டுமானம்" },
+      "on": ["こう", "く"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Two flat lines joined by one post: it looks like an iron beam, or a carpenter’s tool. Workers use it to build things: craft, factory work.",
+        "ta": "இரண்டு கிடைக்கோடுகளை ஒரு தூண் இணைக்கிறது: இரும்புத் தூலம் போல, அல்லது தச்சரின் கருவி போல. இதைக் கொண்டு வேலைக்காரர்கள் பொருட்களைக் கட்டுகிறார்கள்: கைவினை, தொழிற்சாலை வேலை."
+      },
+      "note": {
+        "en": "大工 (carpenter) uses the rare reading く: だいく. 工場 is こうじょう (long う twice).",
+        "ta": "大工 (தச்சர்) என்பதில் அரிய வாசிப்பு く: だいく. 工場 = こうじょう (இரண்டு இடத்திலும் நீண்ட う)."
+      },
+      "examples": [
+        { "word": "工場", "reading": "こうじょう", "en": "factory", "ta": "தொழிற்சாலை", "vocabId": "n4-v-583" },
+        { "word": "工業", "reading": "こうぎょう", "en": "industry (manufacturing)", "ta": "தொழில்துறை (உற்பத்தி)", "vocabId": "n4-v-578" },
+        { "word": "大工", "reading": "だいく", "en": "carpenter", "ta": "தச்சர்" }
+      ]
+    },
+    {
+      "kanji": "止",
+      "meaning": { "en": "stop", "ta": "நிறுத்து / நில்" },
+      "on": ["し"],
+      "kun": ["と.まる", "と.める", "や.める", "や.む"],
+      "mnemonic": {
+        "en": "It is a footprint: a foot pressed flat on the ground line, with toes sticking up. The foot is planted and does not move: stop!",
+        "ta": "இது ஒரு காலடித் தடம்: தரைக் கோட்டின் மேல் பாதம் அழுத்தமாக ஊன்றியிருக்கிறது, விரல்கள் மேலே நீட்டியிருக்கின்றன. கால் ஊன்றிவிட்டது, நகரவில்லை: நில்!"
+      },
+      "note": {
+        "en": "止める has two readings. とめる = stop something (a car, a machine). やめる = quit, give up a habit. 止まる (とまる) = something stops by itself. 雨が止む (やむ) = the rain stops.",
+        "ta": "止める-க்கு இரண்டு வாசிப்புகள். とめる = ஒன்றை நிறுத்துவது (கார், இயந்திரம்). やめる = ஒரு பழக்கத்தை விட்டுவிடுவது. 止まる (とまる) = தானாக நிற்பது. 雨が止む (やむ) = மழை நிற்கிறது."
+      },
+      "examples": [
+        { "word": "止まる", "reading": "とまる", "en": "to stop (by itself)", "ta": "நிற்க (வாகனம்)", "vocabId": "n5-v-468" },
+        { "word": "止める", "reading": "とめる", "en": "to stop (something)", "ta": "(ஒன்றை) நிறுத்த", "vocabId": "n4-v-150" },
+        { "word": "止む", "reading": "やむ", "en": "to stop (rain, wind)", "ta": "(மழை, காற்று) நிற்க", "vocabId": "n4-v-031" },
+        { "word": "中止", "reading": "ちゅうし", "en": "cancellation, calling off", "ta": "ரத்து (நிறுத்தி வைத்தல்)" }
+      ]
+    },
+    {
+      "kanji": "切",
+      "meaning": { "en": "cut", "ta": "வெட்டு" },
+      "on": ["せつ"],
+      "kun": ["き.る"],
+      "mnemonic": {
+        "en": "On the left is 七 (seven). On the right is 刀, a sword. Seven quick strokes of the sword: chop, chop, chop. You cut.",
+        "ta": "இடப்பக்கம் 七 (ஏழு). வலப்பக்கம் 刀, ஒரு கத்தி/வாள். கத்தியால் ஏழு முறை வேகமாக வெட்டு, வெட்டு, வெட்டு — வாழை இலையை நறுக்குவது போல. நீங்கள் வெட்டுகிறீர்கள்."
+      },
+      "note": {
+        "en": "切手 (stamp) is きって with a small っ. 大切 and 親切 use せつ.",
+        "ta": "切手 (தபால் தலை) = きって, நடுவில் சிறிய っ. 大切, 親切 இரண்டிலும் せつ."
+      },
+      "examples": [
+        { "word": "切る", "reading": "きる", "en": "to cut; to hang up (a phone)", "ta": "வெட்ட; (போனை) துண்டிக்க", "vocabId": "n5-v-209" },
+        { "word": "切手", "reading": "きって", "en": "postage stamp", "ta": "தபால் தலை (ஸ்டாம்ப்)", "vocabId": "n5-v-198" },
+        { "word": "大切", "reading": "たいせつ", "en": "important; precious", "ta": "முக்கியமான", "vocabId": "n5-v-376" },
+        { "word": "親切", "reading": "しんせつ", "en": "kind", "ta": "அன்பான (உதவும் குணமுள்ள)", "vocabId": "n4-v-211" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU5-q01",
+        "type": "kanji_reading",
+        "sentence": "なつやすみに ＿海＿で およぎました。",
+        "target": "海",
+        "options": ["かい", "うみ", "うま", "あみ"],
+        "answer": 1,
+        "explanation_en": "Alone, 海 is read うみ (கடல், sea). かい is the on reading, used in longer words like 海外.",
+        "explanation_ta": "தனியாக 海 = うみ (கடல், sea). かい என்பது on வாசிப்பு; 海外 போன்ற நீண்ட சொற்களில் மட்டும் வரும்."
+      },
+      {
+        "id": "KU5-q02",
+        "type": "kanji_reading",
+        "sentence": "あたらしい ＿時計＿が ほしいです。",
+        "target": "時計",
+        "options": ["じけい", "とけ", "どけい", "とけい"],
+        "answer": 3,
+        "explanation_en": "時計 is read とけい (கடிகாரம், clock). とけ drops the long い, and じけい uses the usual reading of 時, but this word is special.",
+        "explanation_ta": "時計 = とけい (கடிகாரம், clock). とけ-வில் நீண்ட い விடுபட்டுள்ளது. じけい என்பது 時-இன் வழக்கமான வாசிப்பு, ஆனால் இந்தச் சொல் சிறப்பானது."
+      },
+      {
+        "id": "KU5-q03",
+        "type": "kanji_reading",
+        "sentence": "＿毎朝＿ 六時に おきます。",
+        "target": "毎朝",
+        "options": ["まいあさ", "まいちょう", "まいあざ", "めいあさ"],
+        "answer": 0,
+        "explanation_en": "毎朝 is まいあさ (தினமும் காலை, every morning). 朝 uses its kun reading あさ here, not ちょう, and あさ is not voiced.",
+        "explanation_ta": "毎朝 = まいあさ (தினமும் காலை, every morning). இங்கே 朝 kun வாசிப்பு あさ; ちょう அல்ல. あざ என்று ஒலி மாறாது."
+      },
+      {
+        "id": "KU5-q04",
+        "type": "kanji_reading",
+        "sentence": "＿今朝＿ パンを 食べました。",
+        "target": "今朝",
+        "options": ["こんあさ", "いまあさ", "けさ", "けいさ"],
+        "answer": 2,
+        "explanation_en": "今朝 has a special reading: けさ (இன்று காலை, this morning). こんあさ and いまあさ just join the normal readings, and they are wrong.",
+        "explanation_ta": "今朝 என்பதற்குச் சிறப்பு வாசிப்பு: けさ (இன்று காலை, this morning). こんあさ, いまあさ என்பவை சாதாரண வாசிப்புகளை ஒட்டியவை; அவை தவறு."
+      },
+      {
+        "id": "KU5-q05",
+        "type": "kanji_reading",
+        "sentence": "母は ＿台所＿で りょうりを して います。",
+        "target": "台所",
+        "options": ["たいどころ", "だいところ", "だいどころ", "だいどこ"],
+        "answer": 2,
+        "explanation_en": "台所 is だいどころ (சமையலறை, kitchen). Both parts are voiced: だい and どころ. たい is the reading in 台風, not here.",
+        "explanation_ta": "台所 = だいどころ (சமையலறை, kitchen). இரண்டு பகுதியும் ஒலி மாறியவை: だい, どころ. たい என்பது 台風-இல் வரும் வாசிப்பு; இங்கே அல்ல."
+      },
+      {
+        "id": "KU5-q06",
+        "type": "kanji_reading",
+        "sentence": "この こうえんは ＿広い＿ですね。",
+        "target": "広い",
+        "options": ["ひろい", "ひらい", "ひるい", "こうい"],
+        "answer": 0,
+        "explanation_en": "広い is ひろい (விசாலமான, wide). ひらい and ひるい change one sound, and こうい wrongly uses an on reading with okurigana.",
+        "explanation_ta": "広い = ひろい (விசாலமான, wide). ひらい, ひるい ஒரு ஒலியை மாற்றியவை. こうい என்பது on வாசிப்பை okurigana-வுடன் தவறாகச் சேர்த்தது."
+      },
+      {
+        "id": "KU5-q07",
+        "type": "kanji_reading",
+        "sentence": "えきの まえで バスが ＿止まりました＿。",
+        "target": "止まりました",
+        "options": ["やまりました", "しまりました", "どまりました", "とまりました"],
+        "answer": 3,
+        "explanation_en": "止まる is とまる (நிற்க, to stop), so 止まりました is とまりました. や is used only in 止む / 止める (やめる), and とまる is not voiced.",
+        "explanation_ta": "止まる = とまる (நிற்க, to stop); ஆகவே 止まりました = とまりました. や என்பது 止む / 止める (やめる)-இல் மட்டும் வரும். とまる-வில் ஒலி மாற்றம் இல்லை."
+      },
+      {
+        "id": "KU5-q08",
+        "type": "kanji_reading",
+        "sentence": "これは ＿大切＿な しゃしんです。",
+        "target": "大切",
+        "options": ["たいせち", "たいせつ", "だいせつ", "たいきり"],
+        "answer": 1,
+        "explanation_en": "大切 is たいせつ (முக்கியமான, important). It is た, not だ, and 切 is せつ here, not きり.",
+        "explanation_ta": "大切 = たいせつ (முக்கியமான, important). だ அல்ல, た. இங்கே 切 = せつ; きり அல்ல."
+      },
+      {
+        "id": "KU5-q09",
+        "type": "kanji_reading",
+        "sentence": "ちちは ＿工場＿で はたらいて います。",
+        "target": "工場",
+        "options": ["こうじょう", "こうじょ", "くじょう", "こじょう"],
+        "answer": 0,
+        "explanation_en": "工場 is こうじょう (தொழிற்சாலை, factory). Both vowels are long: こう and じょう. く is the reading only in 大工.",
+        "explanation_ta": "工場 = こうじょう (தொழிற்சாலை, factory). இரண்டு உயிரும் நீண்டவை: こう, じょう. く என்பது 大工-இல் மட்டும் வரும்."
+      },
+      {
+        "id": "KU5-q10",
+        "type": "kanji_reading",
+        "sentence": "＿少し＿ まって ください。",
+        "target": "少し",
+        "options": ["すくし", "しょうし", "すこし", "すごし"],
+        "answer": 2,
+        "explanation_en": "少し is すこし (கொஞ்சம், a little). すく is the start of 少ない, not 少し, and すごし is wrongly voiced.",
+        "explanation_ta": "少し = すこし (கொஞ்சம், a little). すく என்பது 少ない-இன் தொடக்கம், 少し-இன் அல்ல. すごし என்பது தவறான ஒலி மாற்றம்."
+      },
+      {
+        "id": "KU5-q11",
+        "type": "orthography",
+        "sentence": "この みせでは くだものを ＿うって＿ います。",
+        "target": "うって",
+        "options": ["買って", "売って", "元って", "読って"],
+        "answer": 1,
+        "explanation_en": "うって comes from うる, written 売る (விற்க, to sell). 買って is read かって and means “buy”, the opposite. 読 has 売 inside, but it means read.",
+        "explanation_ta": "うって என்பது うる-இலிருந்து வருகிறது: 売る (விற்க, to sell). 買って = かって, “வாங்கு” — எதிர்ப் பொருள். 読-க்குள் 売 இருக்கிறது, ஆனால் அது “படி”."
+      },
+      {
+        "id": "KU5-q12",
+        "type": "orthography",
+        "sentence": "わたしは その 人を ＿しりません＿。",
+        "target": "しりません",
+        "options": ["短りません", "和りません", "如りません", "知りません"],
+        "answer": 3,
+        "explanation_en": "しる is 知る (அறிய, to know): arrow 矢 + mouth 口. 短 also has 矢 but means short. 和 and 如 also end in 口, but they are different kanji.",
+        "explanation_ta": "しる = 知る (அறிய, to know): அம்பு 矢 + வாய் 口. 短-இலும் 矢 உண்டு, ஆனால் அது “குட்டை”. 和, 如 இரண்டும் 口-வில் முடிகின்றன, ஆனால் வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU5-q13",
+        "type": "orthography",
+        "sentence": "えきまでの ＿みち＿を おしえて ください。",
+        "target": "みち",
+        "options": ["通", "遠", "首", "道"],
+        "answer": 3,
+        "explanation_en": "みち is 道 (சாலை, road): 首 (head) on the moving road 辶. 通 and 遠 also have 辶 but other parts, and 首 alone has no road.",
+        "explanation_ta": "みち = 道 (சாலை, road): நகரும் சாலை 辶 மேல் 首 (தலை). 通, 遠-இலும் 辶 உண்டு, ஆனால் வேறு பகுதிகள். 首-இல் சாலையே இல்லை."
+      },
+      {
+        "id": "KU5-q14",
+        "type": "orthography",
+        "sentence": "なつやすみの ＿けいかく＿を たてましょう。",
+        "target": "けいかく",
+        "options": ["計面", "計画", "言画", "討画"],
+        "answer": 1,
+        "explanation_en": "けいかく is 計画 (திட்டம், plan). 言 alone is missing the 十, 討 has 寸 instead of 十, and 面 is not 画.",
+        "explanation_ta": "けいかく = 計画 (திட்டம், plan). 言 மட்டும் என்றால் 十 இல்லை; 討-இல் 十-க்குப் பதில் 寸. 面 என்பது 画 அல்ல."
+      },
+      {
+        "id": "KU5-q15",
+        "type": "orthography",
+        "sentence": "はさみで かみを ＿きります＿。",
+        "target": "きります",
+        "options": ["功ります", "刀ります", "切ります", "初ります"],
+        "answer": 2,
+        "explanation_en": "きる is 切る (வெட்ட, to cut): 七 + sword 刀. 刀 alone is just “sword”, 初 has a clothing part, and 功 has 工 + 力.",
+        "explanation_ta": "きる = 切る (வெட்ட, to cut): 七 + கத்தி 刀. 刀 மட்டும் என்றால் “வாள்” தான். 初-இல் உடைப் பகுதி உள்ளது, 功 = 工 + 力."
+      },
+      {
+        "id": "KU5-q16",
+        "type": "orthography",
+        "sentence": "この クラスは 学生が ＿すくない＿です。",
+        "target": "すくない",
+        "options": ["少ない", "小ない", "砂ない", "劣ない"],
+        "answer": 0,
+        "explanation_en": "すくない is 少ない (குறைவான, few). 小 means small and has no long slash. 砂 and 劣 contain 少, but they are other kanji.",
+        "explanation_ta": "すくない = 少ない (குறைவான, few). 小 என்றால் “சிறிய”; அதில் நீண்ட சாய்கோடு இல்லை. 砂, 劣 இரண்டிலும் 少 இருக்கிறது, ஆனால் அவை வேறு கான்ஜிகள்."
+      }
+    ]
+  }
+}

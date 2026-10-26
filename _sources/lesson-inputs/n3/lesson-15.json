@@ -1,0 +1,463 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 15,
+  "slug": "tatoe-maketemo",
+  "title": {
+   "ja": "たとえ負けても",
+   "ta": "தோற்றாலும் கூட",
+   "en": "Even if we lose"
+  },
+  "theme": {
+   "en": "Sports and challenges: effort, competition, winning and losing.",
+   "ta": "விளையாட்டுகளும் சவால்களும்: முயற்சி, போட்டி, வெற்றி, தோல்வி."
+  },
+  "grammar": [
+   {
+    "id": "g15-1",
+    "pattern": "〜といっても",
+    "en": "Although I say ~, (it's not much)"
+   },
+   {
+    "id": "g15-2",
+    "pattern": "〜にもかかわらず",
+    "en": "Despite ~"
+   },
+   {
+    "id": "g15-3",
+    "pattern": "〜としても",
+    "en": "Even if (we assume) ~"
+   },
+   {
+    "id": "g15-4",
+    "pattern": "たとえ 〜ても",
+    "en": "Even if ~ (strong)"
+   },
+   {
+    "id": "g15-5",
+    "pattern": "V-ても V-ても",
+    "en": "No matter how much (you keep doing) ~"
+   }
+  ],
+  "vocabHints": [
+   "sports, teams and players",
+   "winning and losing",
+   "training and effort"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0013",
+   "expression": "参加",
+   "reading": "さんか",
+   "romaji": "sanka",
+   "en": "participation"
+  },
+  {
+   "id": "n3-v-0114",
+   "expression": "出場",
+   "reading": "しゅつじょう",
+   "romaji": "shutsujou",
+   "en": "participation"
+  },
+  {
+   "id": "n3-v-0201",
+   "expression": "審判",
+   "reading": "しんぱん",
+   "romaji": "shinpan",
+   "en": "umpire, referee, judgment"
+  },
+  {
+   "id": "n3-v-0229",
+   "expression": "筋",
+   "reading": "すじ",
+   "romaji": "suji",
+   "en": "muscle, string, line"
+  },
+  {
+   "id": "n3-v-0305",
+   "expression": "アウト",
+   "reading": "アウト",
+   "romaji": "auto",
+   "en": "out"
+  },
+  {
+   "id": "n3-v-0327",
+   "expression": "当たる",
+   "reading": "あたる",
+   "romaji": "ataru",
+   "en": "to be hit, to be successful"
+  },
+  {
+   "id": "n3-v-0487",
+   "expression": "追い付く",
+   "reading": "おいつく",
+   "romaji": "oitsuku",
+   "en": "to overtake, to catch up (with)"
+  },
+  {
+   "id": "n3-v-0489",
+   "expression": "追う",
+   "reading": "おう",
+   "romaji": "ou",
+   "en": "to chase, to run after"
+  },
+  {
+   "id": "n3-v-0530",
+   "expression": "思い付く",
+   "reading": "おもいつく",
+   "romaji": "omoitsuku",
+   "en": "to think of, to hit upon"
+  },
+  {
+   "id": "n3-v-0534",
+   "expression": "泳ぎ",
+   "reading": "およぎ",
+   "romaji": "oyogi",
+   "en": "swimming"
+  },
+  {
+   "id": "n3-v-0621",
+   "expression": "勝ち",
+   "reading": "かち",
+   "romaji": "kachi",
+   "en": "win, victory"
+  },
+  {
+   "id": "n3-v-0731",
+   "expression": "キャプテン",
+   "reading": "キャプテン",
+   "romaji": "kyaputen",
+   "en": "captain"
+  },
+  {
+   "id": "n3-v-0747",
+   "expression": "競技",
+   "reading": "きょうぎ",
+   "romaji": "kyougi",
+   "en": "game, match, contest"
+  },
+  {
+   "id": "n3-v-0776",
+   "expression": "筋肉",
+   "reading": "きんにく",
+   "romaji": "kinniku",
+   "en": "muscle, sinews"
+  },
+  {
+   "id": "n3-v-0821",
+   "expression": "訓練",
+   "reading": "くんれん",
+   "romaji": "kunren",
+   "en": "practice, training"
+  },
+  {
+   "id": "n3-v-0851",
+   "expression": "蹴る",
+   "reading": "ける",
+   "romaji": "keru",
+   "en": "to kick"
+  },
+  {
+   "id": "n3-v-0907",
+   "expression": "コーチ",
+   "reading": "コーチ",
+   "romaji": "koochi",
+   "en": "coach"
+  },
+  {
+   "id": "n3-v-0911",
+   "expression": "ゴール",
+   "reading": "ゴール",
+   "romaji": "gooru",
+   "en": "goal"
+  },
+  {
+   "id": "n3-v-0953",
+   "expression": "困難",
+   "reading": "こんなん",
+   "romaji": "konnan",
+   "en": "difficulty, distress"
+  },
+  {
+   "id": "n3-v-1108",
+   "expression": "優勝",
+   "reading": "ゆうしょう",
+   "romaji": "yuushou",
+   "en": "overall victory, championship"
+  },
+  {
+   "id": "n3-v-1114",
+   "expression": "有利",
+   "reading": "ゆうり",
+   "romaji": "yuuri",
+   "en": "advantageous, better"
+  },
+  {
+   "id": "n3-v-1159",
+   "expression": "ラケット",
+   "reading": "ラケット",
+   "romaji": "raketto",
+   "en": "racket"
+  },
+  {
+   "id": "n3-v-1240",
+   "expression": "駆ける",
+   "reading": "かける",
+   "romaji": "kakeru",
+   "en": "to run"
+  },
+  {
+   "id": "n3-v-1252",
+   "expression": "歓声",
+   "reading": "かんせい",
+   "romaji": "kansei",
+   "en": "cheer, shout of joy"
+  },
+  {
+   "id": "n3-v-1276",
+   "expression": "決行",
+   "reading": "けっこう",
+   "romaji": "kekkou",
+   "en": "doing (with resolve), carrying out (e.g., a plan)"
+  },
+  {
+   "id": "n3-v-1284",
+   "expression": "降伏",
+   "reading": "こうふく",
+   "romaji": "koufuku",
+   "en": "capitulation, surrender, submission"
+  },
+  {
+   "id": "n3-v-1291",
+   "expression": "コンテスト",
+   "reading": "コンテスト",
+   "romaji": "kontesuto",
+   "en": "contest"
+  },
+  {
+   "id": "n3-v-1308",
+   "expression": "選手",
+   "reading": "せんしゅ",
+   "romaji": "senshu",
+   "en": "player selected for a team (usually athletic)"
+  },
+  {
+   "id": "n3-v-1342",
+   "expression": "それでも",
+   "reading": "それでも",
+   "romaji": "soredemo",
+   "en": "but (still), and yet, nevertheless"
+  },
+  {
+   "id": "n3-v-1357",
+   "expression": "体育",
+   "reading": "たいいく",
+   "romaji": "taiiku",
+   "en": "physical education, gymnastics, athletics"
+  },
+  {
+   "id": "n3-v-1385",
+   "expression": "倒す",
+   "reading": "たおす",
+   "romaji": "taosu",
+   "en": "to throw down, to beat"
+  },
+  {
+   "id": "n3-v-1387",
+   "expression": "だが",
+   "reading": "だが",
+   "romaji": "daga",
+   "en": "but, however"
+  },
+  {
+   "id": "n3-v-1404",
+   "expression": "戦い",
+   "reading": "たたかい",
+   "romaji": "tatakai",
+   "en": "battle, fight"
+  },
+  {
+   "id": "n3-v-1405",
+   "expression": "戦う",
+   "reading": "たたかう",
+   "romaji": "tatakau",
+   "en": "to fight, to compete, to battle"
+  },
+  {
+   "id": "n3-v-1406",
+   "expression": "叩く",
+   "reading": "たたく",
+   "romaji": "tataku",
+   "en": "to strike, to beat"
+  },
+  {
+   "id": "n3-v-1417",
+   "expression": "たとえ",
+   "reading": "たとえ",
+   "romaji": "tatoe",
+   "en": "even if, no matter, though"
+  },
+  {
+   "id": "n3-v-1426",
+   "expression": "玉",
+   "reading": "たま",
+   "romaji": "tama",
+   "en": "ball, sphere, coin"
+  },
+  {
+   "id": "n3-v-1427",
+   "expression": "球",
+   "reading": "たま",
+   "romaji": "tama",
+   "en": "globe, sphere, ball"
+  },
+  {
+   "id": "n3-v-1455",
+   "expression": "チーム",
+   "reading": "チーム",
+   "romaji": "chiimu",
+   "en": "team"
+  },
+  {
+   "id": "n3-v-1504",
+   "expression": "掴む",
+   "reading": "つかむ",
+   "romaji": "tsukamu",
+   "en": "to seize, to catch, to grasp"
+  },
+  {
+   "id": "n3-v-1511",
+   "expression": "突く",
+   "reading": "つく",
+   "romaji": "tsuku",
+   "en": "to thrust, to strike; to poke"
+  },
+  {
+   "id": "n3-v-1536",
+   "expression": "出",
+   "reading": "で",
+   "romaji": "de",
+   "en": "outflow, coming (going) out, graduate (of)"
+  },
+  {
+   "id": "n3-v-1542",
+   "expression": "抵抗",
+   "reading": "ていこう",
+   "romaji": "teikou",
+   "en": "resistance, opposition"
+  },
+  {
+   "id": "n3-v-1548",
+   "expression": "敵",
+   "reading": "てき",
+   "romaji": "teki",
+   "en": "enemy, rival"
+  },
+  {
+   "id": "n3-v-1622",
+   "expression": "飛び出す",
+   "reading": "とびだす",
+   "romaji": "tobidasu",
+   "en": "to jump out, to rush out, to fly out"
+  },
+  {
+   "id": "n3-v-1634",
+   "expression": "トレーニング",
+   "reading": "トレーニング",
+   "romaji": "toreeningu",
+   "en": "training"
+  },
+  {
+   "id": "n3-v-1656",
+   "expression": "殴る",
+   "reading": "なぐる",
+   "romaji": "naguru",
+   "en": "to strike; to hit; to punch"
+  },
+  {
+   "id": "n3-v-1693",
+   "expression": "抜ける",
+   "reading": "ぬける",
+   "romaji": "nukeru",
+   "en": "to come out, to fall out, to be omitted"
+  },
+  {
+   "id": "n3-v-1726",
+   "expression": "伸ばす",
+   "reading": "のばす",
+   "romaji": "nobasu",
+   "en": "to extend, to stretch, to reach out"
+  },
+  {
+   "id": "n3-v-1727",
+   "expression": "延ばす",
+   "reading": "のばす",
+   "romaji": "nobasu",
+   "en": "to extend, to stretch, to reach out"
+  },
+  {
+   "id": "n3-v-1764",
+   "expression": "パス",
+   "reading": "パス",
+   "romaji": "pasu",
+   "en": "path, pass (in games)"
+  },
+  {
+   "id": "n3-v-1767",
+   "expression": "外れる",
+   "reading": "はずれる",
+   "romaji": "hazureru",
+   "en": "to be disconnected, to be out (e.g., of gear)"
+  },
+  {
+   "id": "n3-v-1824",
+   "expression": "引っ張る",
+   "reading": "ひっぱる",
+   "romaji": "hipparu",
+   "en": "to pull, to stretch, to drag"
+  },
+  {
+   "id": "n3-v-1885",
+   "expression": "打つ",
+   "reading": "ぶつ",
+   "romaji": "butsu",
+   "en": "to hit, to strike"
+  },
+  {
+   "id": "n3-v-1888",
+   "expression": "ぶつかる",
+   "reading": "ぶつかる",
+   "romaji": "butsukaru",
+   "en": "to strike, to collide with"
+  },
+  {
+   "id": "n3-v-1902",
+   "expression": "不利",
+   "reading": "ふり",
+   "romaji": "furi",
+   "en": "disadvantage, drawback"
+  },
+  {
+   "id": "n3-v-1973",
+   "expression": "負け",
+   "reading": "まけ",
+   "romaji": "make",
+   "en": "defeat, loss"
+  },
+  {
+   "id": "n3-v-2060",
+   "expression": "ダウン",
+   "reading": "ダウン",
+   "romaji": "daun",
+   "en": "down"
+  },
+  {
+   "id": "n3-v-2100",
+   "expression": "～敗",
+   "reading": "はい",
+   "romaji": "hai",
+   "en": "counter for loss, defeat"
+  }
+ ]
+}

@@ -1,0 +1,417 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 16,
+  "slug": "okane-sae-areba",
+  "title": {
+   "ja": "お金さえあれば",
+   "ta": "பணம் மட்டும் இருந்தால்",
+   "en": "If only I had money"
+  },
+  "theme": {
+   "en": "Money, saving and dreams: hypothetical plans and conditions.",
+   "ta": "பணம், சேமிப்பு, கனவுகள்: கற்பனைத் திட்டங்களும் நிபந்தனைகளும்."
+  },
+  "grammar": [
+   {
+    "id": "g16-1",
+    "pattern": "〜としたら / 〜とすれば / 〜とすると",
+    "en": "If we suppose ~"
+   },
+   {
+    "id": "g16-2",
+    "pattern": "N さえ 〜ば",
+    "en": "If only ~ (that alone is enough)"
+   },
+   {
+    "id": "g16-3",
+    "pattern": "〜限り / 〜ない限り",
+    "en": "As long as ~ / unless ~"
+   },
+   {
+    "id": "g16-4",
+    "pattern": "V-て からでないと / V-て からでなければ",
+    "en": "Not until ~ / unless you first ~"
+   }
+  ],
+  "vocabHints": [
+   "money, prices and costs",
+   "saving and spending",
+   "rich and poor",
+   "dreams and plans"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0029",
+   "expression": "支給",
+   "reading": "しきゅう",
+   "romaji": "shikyuu",
+   "en": "payment, allowance"
+  },
+  {
+   "id": "n3-v-0038",
+   "expression": "支出",
+   "reading": "ししゅつ",
+   "romaji": "shishutsu",
+   "en": "expenditure, expenses"
+  },
+  {
+   "id": "n3-v-0073",
+   "expression": "支払",
+   "reading": "しはらい",
+   "romaji": "shiharai",
+   "en": "payment"
+  },
+  {
+   "id": "n3-v-0074",
+   "expression": "支払う",
+   "reading": "しはらう",
+   "romaji": "shiharau",
+   "en": "to pay"
+  },
+  {
+   "id": "n3-v-0076",
+   "expression": "資本",
+   "reading": "しほん",
+   "romaji": "shihon",
+   "en": "funds, capital"
+  },
+  {
+   "id": "n3-v-0086",
+   "expression": "借金",
+   "reading": "しゃっきん",
+   "romaji": "shakkin",
+   "en": "debt, loan, liabilities"
+  },
+  {
+   "id": "n3-v-0104",
+   "expression": "収入",
+   "reading": "しゅうにゅう",
+   "romaji": "shuunyuu",
+   "en": "income, revenue"
+  },
+  {
+   "id": "n3-v-0153",
+   "expression": "消費",
+   "reading": "しょうひ",
+   "romaji": "shouhi",
+   "en": "consumption, expenditure"
+  },
+  {
+   "id": "n3-v-0216",
+   "expression": "数",
+   "reading": "すう",
+   "romaji": "suu",
+   "en": "number, figure"
+  },
+  {
+   "id": "n3-v-0217",
+   "expression": "数字",
+   "reading": "すうじ",
+   "romaji": "suuji",
+   "en": "numeral, figure"
+  },
+  {
+   "id": "n3-v-0259",
+   "expression": "税",
+   "reading": "ぜい",
+   "romaji": "zei",
+   "en": "tax"
+  },
+  {
+   "id": "n3-v-0264",
+   "expression": "税金",
+   "reading": "ぜいきん",
+   "romaji": "zeikin",
+   "en": "tax, duty"
+  },
+  {
+   "id": "n3-v-0275",
+   "expression": "贅沢",
+   "reading": "ぜいたく",
+   "romaji": "zeitaku",
+   "en": "luxury, extravagance"
+  },
+  {
+   "id": "n3-v-0573",
+   "expression": "価格",
+   "reading": "かかく",
+   "romaji": "kakaku",
+   "en": "price, value"
+  },
+  {
+   "id": "n3-v-0584",
+   "expression": "額",
+   "reading": "がく",
+   "romaji": "gaku",
+   "en": "amount; frame"
+  },
+  {
+   "id": "n3-v-0605",
+   "expression": "貸し",
+   "reading": "かし",
+   "romaji": "kashi",
+   "en": "loan, lending"
+  },
+  {
+   "id": "n3-v-0611",
+   "expression": "稼ぐ",
+   "reading": "かせぐ",
+   "romaji": "kasegu",
+   "en": "to earn income, to labor"
+  },
+  {
+   "id": "n3-v-0639",
+   "expression": "株",
+   "reading": "かぶ",
+   "romaji": "kabu",
+   "en": "stock; stump (of tree)"
+  },
+  {
+   "id": "n3-v-0675",
+   "expression": "勘定",
+   "reading": "かんじょう",
+   "romaji": "kanjou",
+   "en": "calculation, counting, consideration"
+  },
+  {
+   "id": "n3-v-0744",
+   "expression": "給料",
+   "reading": "きゅうりょう",
+   "romaji": "kyuuryou",
+   "en": "salary, wages"
+  },
+  {
+   "id": "n3-v-0766",
+   "expression": "金",
+   "reading": "きん",
+   "romaji": "kin",
+   "en": "gold, metal; money"
+  },
+  {
+   "id": "n3-v-0769",
+   "expression": "金額",
+   "reading": "きんがく",
+   "romaji": "kingaku",
+   "en": "amount of money"
+  },
+  {
+   "id": "n3-v-0770",
+   "expression": "金庫",
+   "reading": "きんこ",
+   "romaji": "kinko",
+   "en": "safe, vault"
+  },
+  {
+   "id": "n3-v-0772",
+   "expression": "金銭",
+   "reading": "きんせん",
+   "romaji": "kinsen",
+   "en": "money, cash"
+  },
+  {
+   "id": "n3-v-0777",
+   "expression": "金融",
+   "reading": "きんゆう",
+   "romaji": "kin'yuu",
+   "en": "finance, money and banking"
+  },
+  {
+   "id": "n3-v-0813",
+   "expression": "加える",
+   "reading": "くわえる",
+   "romaji": "kuwaeru",
+   "en": "to append, to sum up, to add (up)"
+  },
+  {
+   "id": "n3-v-0829",
+   "expression": "計算",
+   "reading": "けいさん",
+   "romaji": "keisan",
+   "en": "calculation, reckoning"
+  },
+  {
+   "id": "n3-v-0856",
+   "expression": "現金",
+   "reading": "げんきん",
+   "romaji": "genkin",
+   "en": "cash"
+  },
+  {
+   "id": "n3-v-0880",
+   "expression": "硬貨",
+   "reading": "こうか",
+   "romaji": "kouka",
+   "en": "coin"
+  },
+  {
+   "id": "n3-v-0882",
+   "expression": "豪華",
+   "reading": "ごうか",
+   "romaji": "gouka",
+   "en": "luxurious, gorgeous, extravagance"
+  },
+  {
+   "id": "n3-v-0887",
+   "expression": "合計",
+   "reading": "ごうけい",
+   "romaji": "goukei",
+   "en": "sum total, total amount"
+  },
+  {
+   "id": "n3-v-0962",
+   "expression": "財産",
+   "reading": "ざいさん",
+   "romaji": "zaisan",
+   "en": "property, fortune, assets"
+  },
+  {
+   "id": "n3-v-0992",
+   "expression": "札",
+   "reading": "さつ",
+   "romaji": "satsu",
+   "en": "bill, note"
+  },
+  {
+   "id": "n3-v-1007",
+   "expression": "万一",
+   "reading": "まんいち",
+   "romaji": "man'ichi",
+   "en": "by some chance, if by any chance"
+  },
+  {
+   "id": "n3-v-1073",
+   "expression": "もったいない",
+   "reading": "もったいない",
+   "romaji": "mottainai",
+   "en": "wasteful; more than one deserves, unworthy of"
+  },
+  {
+   "id": "n3-v-1145",
+   "expression": "余分",
+   "reading": "よぶん",
+   "romaji": "yobun",
+   "en": "extra, excess, surplus"
+  },
+  {
+   "id": "n3-v-1160",
+   "expression": "利益",
+   "reading": "りえき",
+   "romaji": "rieki",
+   "en": "profits, gains"
+  },
+  {
+   "id": "n3-v-1171",
+   "expression": "両替",
+   "reading": "りょうがえ",
+   "romaji": "ryougae",
+   "en": "change, money exchange"
+  },
+  {
+   "id": "n3-v-1172",
+   "expression": "料金",
+   "reading": "りょうきん",
+   "romaji": "ryoukin",
+   "en": "fee, charge, fare"
+  },
+  {
+   "id": "n3-v-1241",
+   "expression": "賭ける",
+   "reading": "かける",
+   "romaji": "kakeru",
+   "en": "to bet, to risk, to gamble"
+  },
+  {
+   "id": "n3-v-1245",
+   "expression": "借り",
+   "reading": "かり",
+   "romaji": "kari",
+   "en": "borrowing, debt, loan"
+  },
+  {
+   "id": "n3-v-1289",
+   "expression": "小銭",
+   "reading": "こぜに",
+   "romaji": "kozeni",
+   "en": "coins, small change"
+  },
+  {
+   "id": "n3-v-1297",
+   "expression": "節約",
+   "reading": "せつやく",
+   "romaji": "setsuyaku",
+   "en": "economizing, saving"
+  },
+  {
+   "id": "n3-v-1320",
+   "expression": "相続",
+   "reading": "そうぞく",
+   "romaji": "souzoku",
+   "en": "succession, inheritance"
+  },
+  {
+   "id": "n3-v-1361",
+   "expression": "代金",
+   "reading": "だいきん",
+   "romaji": "daikin",
+   "en": "price, cost"
+  },
+  {
+   "id": "n3-v-1496",
+   "expression": "通貨",
+   "reading": "つうか",
+   "romaji": "tsuuka",
+   "en": "currency"
+  },
+  {
+   "id": "n3-v-1576",
+   "expression": "銅貨",
+   "reading": "どうか",
+   "romaji": "douka",
+   "en": "copper coin"
+  },
+  {
+   "id": "n3-v-1761",
+   "expression": "破産",
+   "reading": "はさん",
+   "romaji": "hasan",
+   "en": "(personal) bankruptcy"
+  },
+  {
+   "id": "n3-v-1838",
+   "expression": "費用",
+   "reading": "ひよう",
+   "romaji": "hiyou",
+   "en": "cost, expense"
+  },
+  {
+   "id": "n3-v-1879",
+   "expression": "不足",
+   "reading": "ふそく",
+   "romaji": "fusoku",
+   "en": "insufficiency, shortage"
+  },
+  {
+   "id": "n3-v-1982",
+   "expression": "貧しい",
+   "reading": "まずしい",
+   "romaji": "mazushii",
+   "en": "poor, needy"
+  },
+  {
+   "id": "n3-v-2038",
+   "expression": "精算",
+   "reading": "せいさん",
+   "romaji": "seisan",
+   "en": "exact calculation, adjustment"
+  },
+  {
+   "id": "n3-v-2083",
+   "expression": "倒産",
+   "reading": "とうさん",
+   "romaji": "tousan",
+   "en": "(corporate) bankruptcy, insolvency"
+  }
+ ]
+}

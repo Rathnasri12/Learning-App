@@ -1,0 +1,191 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 26,
+  "slug": "sonkeigo",
+  "title": {
+   "ja": "社長はもうお帰りになりました",
+   "ta": "தலைவர் ஏற்கனவே வீடு திரும்பிவிட்டார்",
+   "en": "The president has already gone home"
+  },
+  "theme": {
+   "en": "At the company: bosses, customers, meetings, honorific speech about others.",
+   "ta": "நிறுவனத்தில்: மேலதிகாரிகள், வாடிக்கையாளர்கள், கூட்டங்கள், பிறரைப் பற்றி மரியாதைப் பேச்சு."
+  },
+  "grammar": [
+   {
+    "id": "g26-1",
+    "pattern": "Special honorific verbs (いらっしゃる / おっしゃる / なさる / 召し上がる / ご覧になる)",
+    "en": "Respectful verbs used for superiors' actions"
+   },
+   {
+    "id": "g26-2",
+    "pattern": "お V-ます stem に なります",
+    "en": "Regular honorific pattern: 社長はお帰りになりました"
+   },
+   {
+    "id": "g26-3",
+    "pattern": "V-られる (honorific)",
+    "en": "Passive-shaped honorific form: 部長は何時に来られますか"
+   },
+   {
+    "id": "g26-4",
+    "pattern": "お V-ます stem ください / ご N ください",
+    "en": "Please … (respectful request to customers)"
+   },
+   {
+    "id": "g26-5",
+    "pattern": "お N / ご N (honorific prefix)",
+    "en": "Polite prefixes on nouns and adjectives: お名前, ご家族, お忙しい"
+   }
+  ],
+  "vocabHints": [
+   "company ranks: president, department manager, section manager",
+   "office: meeting room, meeting, seat, office",
+   "customers, introductions, attendance",
+   "rude, polite"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-057",
+   "expression": "失礼",
+   "reading": "しつれい",
+   "romaji": "shitsurei",
+   "en": "discourtesy, impoliteness; Excuse me"
+  },
+  {
+   "id": "n4-v-067",
+   "expression": "いらっしゃる",
+   "reading": "いらっしゃる",
+   "romaji": "irassharu",
+   "en": "-- honorific expression for いく, くる, and いる --"
+  },
+  {
+   "id": "n4-v-083",
+   "expression": "課長",
+   "reading": "かちょう",
+   "romaji": "kachou",
+   "en": "section manager"
+  },
+  {
+   "id": "n4-v-121",
+   "expression": "出席",
+   "reading": "しゅっせきする",
+   "romaji": "shussekisuru",
+   "en": "attendance"
+  },
+  {
+   "id": "n4-v-126",
+   "expression": "社長",
+   "reading": "しゃちょう",
+   "romaji": "shachou",
+   "en": "president of a company"
+  },
+  {
+   "id": "n4-v-137",
+   "expression": "丁寧",
+   "reading": "ていねい",
+   "romaji": "teinei",
+   "en": "polite, courteous, careful"
+  },
+  {
+   "id": "n4-v-145",
+   "expression": "会議室",
+   "reading": "かいぎしつ",
+   "romaji": "kaigishitsu",
+   "en": "conference room"
+  },
+  {
+   "id": "n4-v-192",
+   "expression": "事務所",
+   "reading": "じむしょ",
+   "romaji": "jimusho",
+   "en": "office"
+  },
+  {
+   "id": "n4-v-195",
+   "expression": "客",
+   "reading": "きゃく",
+   "romaji": "kyaku",
+   "en": "guest, customer"
+  },
+  {
+   "id": "n4-v-199",
+   "expression": "なさる",
+   "reading": "なさる",
+   "romaji": "nasaru",
+   "en": "-- honorific expression for する --"
+  },
+  {
+   "id": "n4-v-232",
+   "expression": "～員",
+   "reading": "～いん",
+   "romaji": "～in",
+   "en": "member of ~"
+  },
+  {
+   "id": "n4-v-309",
+   "expression": "ごらんになる",
+   "reading": "",
+   "romaji": "",
+   "en": "-- honorific expression for みる --"
+  },
+  {
+   "id": "n4-v-347",
+   "expression": "部長",
+   "reading": "ぶちょう",
+   "romaji": "buchou",
+   "en": "department (division) manager"
+  },
+  {
+   "id": "n4-v-410",
+   "expression": "おいでになる",
+   "reading": "おいでになる",
+   "romaji": "oideninaru",
+   "en": "(hon.) to be"
+  },
+  {
+   "id": "n4-v-503",
+   "expression": "席",
+   "reading": "せき",
+   "romaji": "seki",
+   "en": "a seat"
+  },
+  {
+   "id": "n4-v-524",
+   "expression": "召し上がる",
+   "reading": "めしあがる",
+   "romaji": "meshiagaru",
+   "en": "-- honorific form of 食べる (たべる) and 飲む (のむ) --"
+  },
+  {
+   "id": "n4-v-530",
+   "expression": "御～",
+   "reading": "ご～",
+   "romaji": "go～",
+   "en": "honorable ~"
+  },
+  {
+   "id": "n4-v-564",
+   "expression": "おっしゃる",
+   "reading": "おっしゃる",
+   "romaji": "ossharu",
+   "en": "-- honorific expression for いう --"
+  },
+  {
+   "id": "n4-v-584",
+   "expression": "紹介",
+   "reading": "しょうかい",
+   "romaji": "shoukai",
+   "en": "an introduction"
+  },
+  {
+   "id": "n4-v-640",
+   "expression": "会議",
+   "reading": "かいぎ",
+   "romaji": "kaigi",
+   "en": "business meeting; conference"
+  }
+ ]
+}

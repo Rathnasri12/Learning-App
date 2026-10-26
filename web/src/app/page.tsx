@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAvailability, getSyllabus } from "@/lib/content";
+import { LEVELS, availableLevels, getAvailability, getSyllabus } from "@/lib/content";
 import HomeHero from "@/components/HomeHero";
 import { Lock } from "lucide-react";
 
@@ -7,6 +7,11 @@ export default function Home() {
   const syllabus = getSyllabus("n5");
   const avail = getAvailability("n5");
   const ready = avail.filter((a) => a.hasLesson).length;
+  const levels = availableLevels().map((level) => ({
+    level,
+    count: getSyllabus(level).lessonCount,
+    ready: getAvailability(level).filter((a) => a.hasLesson).length,
+  }));
 
   return (
     <div className="space-y-6">
@@ -24,36 +29,29 @@ export default function Home() {
       </Link>
 
       <section className="grid gap-4 sm:grid-cols-3">
-        <Link href="/n5" className="card p-5 hover:-translate-y-0.5 transition">
-          <div className="text-xs font-extrabold text-sakura tracking-wider">LEVEL</div>
-          <div className="text-4xl font-black mt-1">N5</div>
-          <div className="text-fg-2 mt-2 text-sm">
-            25 lessons · vocabulary + grammar + JLPT tests
-          </div>
-          <div className="mt-3 text-xs font-bold text-muted">
-            {ready}/{syllabus.lessonCount} lessons ready
-          </div>
-        </Link>
-        <div className="card p-5 opacity-60">
-          <div className="flex items-center justify-between">
-            <div className="text-xs font-extrabold text-indigo tracking-wider">LEVEL</div>
-            <Lock size={16} className="text-muted" />
-          </div>
-          <div className="text-4xl font-black mt-1">N4</div>
-          <div className="text-fg-2 mt-2 text-sm">
-            Unlocks after N5
-          </div>
-        </div>
-        <div className="card p-5 opacity-60">
-          <div className="flex items-center justify-between">
-            <div className="text-xs font-extrabold text-gold tracking-wider">LEVEL</div>
-            <Lock size={16} className="text-muted" />
-          </div>
-          <div className="text-4xl font-black mt-1">N3</div>
-          <div className="text-fg-2 mt-2 text-sm">
-            Unlocks after N4
-          </div>
-        </div>
+        {LEVELS.map((lv, i) => {
+          const info = levels.find((x) => x.level === lv);
+          const color = ["text-sakura", "text-indigo", "text-gold"][i];
+          return info ? (
+            <Link key={lv} href={`/${lv}`} className="card p-5 hover:-translate-y-0.5 transition">
+              <div className={`text-xs font-extrabold tracking-wider ${color}`}>LEVEL</div>
+              <div className="text-4xl font-black mt-1">{lv.toUpperCase()}</div>
+              <div className="text-fg-2 mt-2 text-sm">{info.count} lessons · vocabulary + grammar + JLPT tests</div>
+              <div className="mt-3 text-xs font-bold text-muted">
+                {info.ready}/{info.count} lessons ready
+              </div>
+            </Link>
+          ) : (
+            <div key={lv} className="card p-5 opacity-60">
+              <div className="flex items-center justify-between">
+                <div className={`text-xs font-extrabold tracking-wider ${color}`}>LEVEL</div>
+                <Lock size={16} className="text-muted" />
+              </div>
+              <div className="text-4xl font-black mt-1">{lv.toUpperCase()}</div>
+              <div className="text-fg-2 mt-2 text-sm">Coming soon</div>
+            </div>
+          );
+        })}
       </section>
 
       <section className="grid gap-4 sm:grid-cols-3">
@@ -63,7 +61,7 @@ export default function Home() {
           </div>
           <div>
             <div className="font-extrabold">Kanji track</div>
-            <div className="text-sm text-fg-2">N5 · 79 kanji · stroke order + memory stories</div>
+            <div className="text-sm text-fg-2">Stroke order, memory stories and JLPT kanji tests</div>
           </div>
         </Link>
         {[

@@ -1,0 +1,389 @@
+{
+  "unit": 10,
+  "title": { "en": "Things, starts and ends", "ta": "பொருள்கள், தொடக்கம், முடிவு" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for things and goods, for using and carrying, and for starting and ending: 物, 品, 使, 運, 始, 終 and more. Many pairs go together, like 始 (begin) and 終 (end). Learn them as pairs and you will remember both.",
+    "ta": "இந்தப் பாடத்தில் பொருள்கள், பயன்படுத்துதல், எடுத்துச் செல்லுதல், தொடங்குதல், முடித்தல் பற்றிய 12 கான்ஜிகளைக் கற்கிறீர்கள்: 物, 品, 使, 運, 始, 終 போன்றவை. பல கான்ஜிகள் ஜோடியாக வரும், உதாரணமாக 始 (தொடக்கம்), 終 (முடிவு). ஜோடியாகக் கற்றால் இரண்டும் நினைவில் நிற்கும்."
+  },
+  "kanji": [
+    {
+      "kanji": "安",
+      "meaning": { "en": "cheap; calm, safe", "ta": "மலிவு; அமைதி, பாதுகாப்பு" },
+      "on": ["あん"],
+      "kun": ["やす.い"],
+      "mnemonic": {
+        "en": "A woman (女) sits under the roof (宀) of her house. She is safe and calm. Peace at home costs nothing, so 安い also means cheap.",
+        "ta": "ஒரு பெண் (女) தன் வீட்டுக் கூரையின் (宀) கீழ் அமர்ந்திருக்கிறாள். அவள் பாதுகாப்பாக, நிம்மதியாக இருக்கிறாள். வீட்டில் உள்ள நிம்மதிக்கு விலை இல்லை; அதனால் 安い என்றால் மலிவு என்றும் பொருள்."
+      },
+      "note": {
+        "en": "安い (やすい, cheap) and 休み (やすみ, rest) sound alike but are different kanji. The opposite of 安い is 高い (expensive).",
+        "ta": "安い (やすい, மலிவு), 休み (やすみ, ஓய்வு) ஒலியில் ஒத்தவை, ஆனால் வேறு வேறு கான்ஜிகள். 安い என்பதன் எதிர்ச்சொல் 高い (விலை அதிகம்)."
+      },
+      "examples": [
+        { "word": "安い", "reading": "やすい", "en": "cheap", "ta": "மலிவான", "vocabId": "n5-v-670" },
+        { "word": "安心", "reading": "あんしん", "en": "peace of mind, relief", "ta": "நிம்மதி, மன அமைதி", "vocabId": "n4-v-531" },
+        { "word": "不安", "reading": "ふあん", "en": "worry, anxiety", "ta": "கவலை, பதற்றம்", "vocabId": "n3-v-1858" }
+      ]
+    },
+    {
+      "kanji": "院",
+      "meaning": { "en": "institution (hospital, school)", "ta": "நிறுவனம் (மருத்துவமனை, கல்லூரி)" },
+      "on": ["いん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a hill (阝). On the right is a building with a roof (宀), and under it 元 (as in 元気, healthy). A big building on the hill where sick people become healthy again: a hospital.",
+        "ta": "இடப்பக்கம் ஒரு குன்று (阝). வலப்பக்கம் கூரையுள்ள (宀) ஒரு கட்டடம், அதன் கீழே 元 (元気 = ஆரோக்கியம்). நோயாளிகள் மீண்டும் ஆரோக்கியம் பெறும், குன்றின் மேல் உள்ள பெரிய கட்டடம்: மருத்துவமனை."
+      },
+      "note": {
+        "en": "院 and 員 are both いん. 院 is a place (病院, hospital); 員 is a person (店員, clerk).",
+        "ta": "院, 員 இரண்டும் いん. 院 ஒரு இடம் (病院, மருத்துவமனை); 員 ஒரு நபர் (店員, கடை ஊழியர்)."
+      },
+      "examples": [
+        { "word": "病院", "reading": "びょういん", "en": "hospital", "ta": "மருத்துவமனை", "vocabId": "n5-v-570" },
+        { "word": "入院", "reading": "にゅういん", "en": "going into hospital", "ta": "மருத்துவமனையில் சேர்தல்", "vocabId": "n4-v-622" },
+        { "word": "大学院", "reading": "だいがくいん", "en": "graduate school", "ta": "முதுநிலைப் பட்டப் படிப்புப் பள்ளி" }
+      ]
+    },
+    {
+      "kanji": "界",
+      "meaning": { "en": "world; boundary", "ta": "உலகம்; எல்லை" },
+      "on": ["かい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a rice field (田). Below, a person (人) stands between two posts, marking where one field ends and the next begins. Past the boundary of your field is the whole wide world.",
+        "ta": "மேலே ஒரு வயல் (田). கீழே ஒரு மனிதர் (人) இரண்டு கம்பங்களுக்கு நடுவே நின்று, ஒரு வயல் எங்கே முடிகிறது, அடுத்தது எங்கே தொடங்குகிறது என்று வரப்பைக் காட்டுகிறார். உங்கள் வயலின் எல்லைக்கு அப்பால் இருப்பது முழு உலகம்."
+      },
+      "examples": [
+        { "word": "世界", "reading": "せかい", "en": "world", "ta": "உலகம்", "vocabId": "n4-v-172" },
+        { "word": "世界中", "reading": "せかいじゅう", "en": "all over the world", "ta": "உலகம் முழுவதும்" },
+        { "word": "業界", "reading": "ぎょうかい", "en": "the industry, business world", "ta": "தொழில் துறை (வணிக உலகம்)" }
+      ]
+    },
+    {
+      "kanji": "重",
+      "meaning": { "en": "heavy; important", "ta": "கனமான; முக்கியமான" },
+      "on": ["じゅう"],
+      "kun": ["おも.い"],
+      "mnemonic": {
+        "en": "A thousand (千) sacks of rice from the field (田) are piled on the ground (土). That is heavy!",
+        "ta": "வயலிலிருந்து (田) வந்த ஆயிரம் (千) நெல் மூட்டைகள் தரையின் (土) மேல் அடுக்கி வைக்கப்பட்டுள்ளன. எவ்வளவு கனம்!"
+      },
+      "note": {
+        "en": "重 + 力 (power) = 動 (move): you need power to move something heavy. The opposite of 重い is 軽い (かるい, light).",
+        "ta": "重 + 力 (சக்தி) = 動 (நகர்): கனமானதை நகர்த்தச் சக்தி வேண்டும். 重い என்பதன் எதிர்ச்சொல் 軽い (かるい, லேசான)."
+      },
+      "examples": [
+        { "word": "重い", "reading": "おもい", "en": "heavy; serious", "ta": "கனமான", "vocabId": "n5-v-134" },
+        { "word": "重さ", "reading": "おもさ", "en": "weight", "ta": "எடை, கனம்" },
+        { "word": "体重", "reading": "たいじゅう", "en": "body weight", "ta": "உடல் எடை", "vocabId": "n3-v-1366" }
+      ]
+    },
+    {
+      "kanji": "集",
+      "meaning": { "en": "gather, collect", "ta": "கூடு, சேகரி" },
+      "on": ["しゅう"],
+      "kun": ["あつ.まる", "あつ.める"],
+      "mnemonic": {
+        "en": "On top is a bird (隹), the same bird you saw in 曜. Below is a tree (木). In the evening, many birds gather on one big tree.",
+        "ta": "மேலே ஒரு பறவை (隹); 曜-இல் பார்த்த அதே பறவை. கீழே ஒரு மரம் (木). மாலையில் பல பறவைகள் ஒரு பெரிய ஆலமரத்தில் வந்து கூடுகின்றன."
+      },
+      "note": {
+        "en": "集まる (あつまる): people or things gather by themselves. 集める (あつめる): you collect something.",
+        "ta": "集まる (あつまる): மக்கள் அல்லது பொருள்கள் தானாகக் கூடுவது. 集める (あつめる): நீங்கள் ஒன்றைச் சேகரிப்பது."
+      },
+      "examples": [
+        { "word": "集まる", "reading": "あつまる", "en": "to gather (by themselves)", "ta": "கூட (ஒன்றுசேர)", "vocabId": "n4-v-642" },
+        { "word": "集める", "reading": "あつめる", "en": "to collect, to gather", "ta": "சேகரிக்க", "vocabId": "n4-v-533" },
+        { "word": "集中", "reading": "しゅうちゅう", "en": "concentration, focus", "ta": "கவனக் குவிப்பு", "vocabId": "n3-v-0103" }
+      ]
+    },
+    {
+      "kanji": "物",
+      "meaning": { "en": "thing", "ta": "பொருள்" },
+      "on": ["ぶつ"],
+      "kun": ["もの"],
+      "mnemonic": {
+        "en": "On the left is a cow (牛). On the right are cloths flapping in the wind. In a village, the cow is the most precious thing a family has.",
+        "ta": "இடப்பக்கம் ஒரு பசு (牛). வலப்பக்கம் காற்றில் ஆடும் துணிகள். கிராமத்தில் ஒரு குடும்பத்திடம் இருக்கும் மிக மதிப்புள்ள பொருள் பசுதான்."
+      },
+      "note": {
+        "en": "物 is もの in many everyday words (買い物, 着物). In 荷物 (にもつ, luggage) it is read もつ.",
+        "ta": "பல அன்றாடச் சொற்களில் 物 என்பது もの (買い物, 着物). 荷物 (にもつ, பயணப் பை/சுமை) என்பதில் இது もつ என்று படிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "買い物", "reading": "かいもの", "en": "shopping", "ta": "ஷாப்பிங் (பொருள் வாங்குதல்)", "vocabId": "n5-v-148" },
+        { "word": "動物", "reading": "どうぶつ", "en": "animal", "ta": "விலங்கு", "vocabId": "n5-v-449" },
+        { "word": "着物", "reading": "きもの", "en": "kimono (Japanese dress)", "ta": "கிமோனோ (ஜப்பானிய பாரம்பரிய உடை)", "vocabId": "n4-v-357" },
+        { "word": "品物", "reading": "しなもの", "en": "goods", "ta": "சரக்குகள், பொருள்கள்", "vocabId": "n4-v-146" }
+      ]
+    },
+    {
+      "kanji": "使",
+      "meaning": { "en": "use", "ta": "பயன்படுத்து" },
+      "on": ["し"],
+      "kun": ["つか.う"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a boss with a pen in his hand (吏). The boss uses this person: “Take my letter to the king!”",
+        "ta": "ஒரு மனிதர் (亻) கையில் எழுதுகோல் வைத்திருக்கும் அதிகாரியின் (吏) அருகே நிற்கிறார். அதிகாரி அவரைப் பயன்படுத்துகிறார்: “என் கடிதத்தை அரசரிடம் கொண்டு போ!”"
+      },
+      "examples": [
+        { "word": "使う", "reading": "つかう", "en": "to use", "ta": "பயன்படுத்த", "vocabId": "n5-v-413" },
+        { "word": "使い方", "reading": "つかいかた", "en": "how to use", "ta": "பயன்படுத்தும் முறை" },
+        { "word": "大使館", "reading": "たいしかん", "en": "embassy", "ta": "தூதரகம்", "vocabId": "n5-v-373" }
+      ]
+    },
+    {
+      "kanji": "品",
+      "meaning": { "en": "goods, article", "ta": "சரக்கு, பொருள்" },
+      "on": ["ひん"],
+      "kun": ["しな"],
+      "mnemonic": {
+        "en": "Three boxes (口 口 口) are stacked on a shop shelf. Boxes of goods, ready to sell.",
+        "ta": "கடை அலமாரியில் மூன்று பெட்டிகள் (口 口 口) அடுக்கி வைக்கப்பட்டுள்ளன. விற்கத் தயாரான சரக்குப் பெட்டிகள்."
+      },
+      "examples": [
+        { "word": "品物", "reading": "しなもの", "en": "goods", "ta": "சரக்குகள், பொருள்கள்", "vocabId": "n4-v-146" },
+        { "word": "食料品", "reading": "しょくりょうひん", "en": "groceries, food", "ta": "மளிகை / உணவுப் பொருள்கள்", "vocabId": "n4-v-258" },
+        { "word": "作品", "reading": "さくひん", "en": "a work (of art)", "ta": "படைப்பு (கலை)", "vocabId": "n3-v-0977" }
+      ]
+    },
+    {
+      "kanji": "死",
+      "meaning": { "en": "death, die", "ta": "மரணம், இற" },
+      "on": ["し"],
+      "kun": ["し.ぬ"],
+      "mnemonic": {
+        "en": "On the left are bare bones (歹). On the right, a person has fallen and lies bent (匕). Only bones are left: the person has died.",
+        "ta": "இடப்பக்கம் வெறும் எலும்புகள் (歹). வலப்பக்கம் ஒரு மனிதர் விழுந்து வளைந்து கிடக்கிறார் (匕). எலும்புகள் மட்டுமே மிஞ்சின: அவர் இறந்துவிட்டார்."
+      },
+      "note": {
+        "en": "死ぬ is the only common Japanese verb that ends in ぬ: 死にます, 死んで, 死んだ.",
+        "ta": "ぬ இல் முடியும் ஒரே பொதுவான ஜப்பானிய வினைச்சொல் 死ぬ: 死にます, 死んで, 死んだ."
+      },
+      "examples": [
+        { "word": "死ぬ", "reading": "しぬ", "en": "to die", "ta": "இறக்க", "vocabId": "n5-v-304" },
+        { "word": "死", "reading": "し", "en": "death", "ta": "மரணம்" },
+        { "word": "死者", "reading": "ししゃ", "en": "the dead, dead person", "ta": "இறந்தவர்" }
+      ]
+    },
+    {
+      "kanji": "始",
+      "meaning": { "en": "begin, start", "ta": "தொடங்கு" },
+      "on": ["し"],
+      "kun": ["はじ.める", "はじ.まる"],
+      "mnemonic": {
+        "en": "A woman (女) steps up onto the stage (台). The dance begins! The music starts.",
+        "ta": "ஒரு பெண் (女) மேடையில் (台) ஏறுகிறாள். நடனம் தொடங்குகிறது! இசை ஆரம்பமாகிறது."
+      },
+      "note": {
+        "en": "始まる: something begins by itself (じゅぎょうが始まる). 始める: you start something (しごとを始める). Don’t mix it up with 初めて (はじめて, for the first time).",
+        "ta": "始まる: ஒன்று தானாகத் தொடங்கும் (じゅぎょうが始まる). 始める: நீங்கள் ஒன்றைத் தொடங்குவது (しごとを始める). 初めて (はじめて, முதல் முறையாக) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "始める", "reading": "はじめる", "en": "to start, to begin (something)", "ta": "தொடங்க (ஒன்றை)", "vocabId": "n4-v-215" },
+        { "word": "始まる", "reading": "はじまる", "en": "to begin", "ta": "தொடங்க (ஆரம்பமாக)", "vocabId": "n5-v-528" },
+        { "word": "開始", "reading": "かいし", "en": "start, beginning", "ta": "தொடக்கம், ஆரம்பம்", "vocabId": "n3-v-0558" }
+      ]
+    },
+    {
+      "kanji": "運",
+      "meaning": { "en": "carry; luck", "ta": "எடுத்துச் செல்; அதிர்ஷ்டம்" },
+      "on": ["うん"],
+      "kun": ["はこ.ぶ"],
+      "mnemonic": {
+        "en": "A cart (車) with a cover (冖) on top moves along the road (辶). It carries goods from town to town, like a bullock cart. If it arrives safely, that is good luck!",
+        "ta": "மூடி (冖) போட்ட ஒரு வண்டி (車) சாலையில் (辶) செல்கிறது. மாட்டு வண்டி போல, ஊர் ஊராகப் பொருள்களை எடுத்துச் செல்கிறது. பத்திரமாகப் போய்ச் சேர்ந்தால், அது நல்ல அதிர்ஷ்டம்!"
+      },
+      "note": {
+        "en": "運 has a cover (冖) over 車. 連 (connect) has no cover.",
+        "ta": "運-இல் 車-க்கு மேல் ஒரு மூடி (冖) உள்ளது. 連 (இணை) என்பதில் மூடி இல்லை."
+      },
+      "examples": [
+        { "word": "運ぶ", "reading": "はこぶ", "en": "to carry, to transport", "ta": "எடுத்துச் செல்ல", "vocabId": "n4-v-499" },
+        { "word": "運転", "reading": "うんてん", "en": "driving", "ta": "வாகனம் ஓட்டுதல்", "vocabId": "n4-v-277" },
+        { "word": "運動", "reading": "うんどう", "en": "exercise", "ta": "உடற்பயிற்சி", "vocabId": "n4-v-030" },
+        { "word": "運転手", "reading": "うんてんしゅ", "en": "driver", "ta": "ஓட்டுநர்", "vocabId": "n4-v-035" }
+      ]
+    },
+    {
+      "kanji": "終",
+      "meaning": { "en": "end, finish", "ta": "முடிவு, முடி" },
+      "on": ["しゅう"],
+      "kun": ["お.わる"],
+      "mnemonic": {
+        "en": "On the left is thread (糸), the same part as in 紙. On the right is winter (冬). The thread of the year runs out in winter: the end of the year.",
+        "ta": "இடப்பக்கம் நூல் (糸); 紙-இல் உள்ள அதே பகுதி. வலப்பக்கம் குளிர்காலம் (冬). ஆண்டின் நூல் குளிர்காலத்தில் தீர்ந்துவிடுகிறது: ஆண்டின் முடிவு."
+      },
+      "examples": [
+        { "word": "終わる", "reading": "おわる", "en": "to end, to finish", "ta": "முடிய", "vocabId": "n5-v-138" },
+        { "word": "終わり", "reading": "おわり", "en": "the end", "ta": "முடிவு", "vocabId": "n4-v-207" },
+        { "word": "終電", "reading": "しゅうでん", "en": "last train (of the day)", "ta": "கடைசி ரயில் (அன்றைய)" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU10-q01",
+        "type": "kanji_reading",
+        "sentence": "それを 聞いて ＿安心＿しました。",
+        "target": "安心",
+        "options": ["やすしん", "あんしん", "あんじん", "あんせん"],
+        "answer": 1,
+        "explanation_en": "安心 is read あんしん (நிம்மதி, relief). やすしん wrongly uses the kun reading of 安 (やす).",
+        "explanation_ta": "安心 = あんしん (நிம்மதி, relief). やすしん என்பது 安-இன் kun வாசிப்பை (やす) தவறாகப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU10-q02",
+        "type": "kanji_reading",
+        "sentence": "父は 先週 ＿入院＿しました。",
+        "target": "入院",
+        "options": ["にゅいん", "いりいん", "にゅうえん", "にゅういん"],
+        "answer": 3,
+        "explanation_en": "入院 is read にゅういん (மருத்துவமனையில் சேர்தல், going into hospital). にゅいん is too short: 入 is にゅう with a long vowel.",
+        "explanation_ta": "入院 = にゅういん (மருத்துவமனையில் சேர்தல், going into hospital). にゅいん மிகக் குறுகியது: 入 என்பது நீண்ட உயிருடன் にゅう."
+      },
+      {
+        "id": "KU10-q03",
+        "type": "kanji_reading",
+        "sentence": "＿世界中＿から 人が 来ます。",
+        "target": "世界中",
+        "options": ["せかいじゅう", "せかいちゅう", "せいかいじゅう", "よかいじゅう"],
+        "answer": 0,
+        "explanation_en": "世界中 is read せかいじゅう (உலகம் முழுவதும், all over the world). After a place, 中 is じゅう (“all over”), not ちゅう.",
+        "explanation_ta": "世界中 = せかいじゅう (உலகம் முழுவதும், all over the world). ஒரு இடத்தின் பின் “முழுவதும்” என்ற பொருளில் 中 என்பது じゅう, ちゅう அல்ல."
+      },
+      {
+        "id": "KU10-q04",
+        "type": "kanji_reading",
+        "sentence": "この かばんは とても ＿重い＿です。",
+        "target": "重い",
+        "options": ["かるい", "じゅうい", "おもい", "おおい"],
+        "answer": 2,
+        "explanation_en": "重い is read おもい (கனமான, heavy). かるい is the opposite (light). じゅうい uses the on reading, which is wrong here.",
+        "explanation_ta": "重い = おもい (கனமான, heavy). かるい அதன் எதிர்ச்சொல் (லேசான). じゅうい on வாசிப்பைப் பயன்படுத்துகிறது; இங்கே அது தவறு."
+      },
+      {
+        "id": "KU10-q05",
+        "type": "kanji_reading",
+        "sentence": "九時に えきの 前に ＿集まって＿ ください。",
+        "target": "集まって",
+        "options": ["あつめって", "しゅうまって", "あつまって", "あづまって"],
+        "answer": 2,
+        "explanation_en": "集まって is read あつまって (கூடுங்கள், gather). あづまって has a wrong voiced sound; しゅうまって mixes in the on reading.",
+        "explanation_ta": "集まって = あつまって (கூடுங்கள், gather). あづまって-இல் தவறான ஒலிப்பு உள்ளது; しゅうまって on வாசிப்பைக் கலக்கிறது."
+      },
+      {
+        "id": "KU10-q06",
+        "type": "kanji_reading",
+        "sentence": "この 店の ＿品物＿は とても いいです。",
+        "target": "品物",
+        "options": ["しなもの", "ひんもの", "しなぶつ", "ひんぶつ"],
+        "answer": 0,
+        "explanation_en": "品物 is read しなもの (சரக்குகள், goods). Both kanji use the kun reading here; ひんもの and しなぶつ mix on and kun.",
+        "explanation_ta": "品物 = しなもの (சரக்குகள், goods). இங்கே இரண்டு கான்ஜிகளும் kun வாசிப்பில் உள்ளன; ひんもの, しなぶつ on, kun-ஐக் கலக்கின்றன."
+      },
+      {
+        "id": "KU10-q07",
+        "type": "kanji_reading",
+        "sentence": "この カメラの ＿使い方＿を 教えて ください。",
+        "target": "使い方",
+        "options": ["しいかた", "つかいほう", "つがいかた", "つかいかた"],
+        "answer": 3,
+        "explanation_en": "使い方 is read つかいかた (பயன்படுத்தும் முறை, how to use). After a verb, 方 is かた, not ほう.",
+        "explanation_ta": "使い方 = つかいかた (பயன்படுத்தும் முறை, how to use). வினைச்சொல்லுக்குப் பின் 方 என்பது かた, ほう அல்ல."
+      },
+      {
+        "id": "KU10-q08",
+        "type": "kanji_reading",
+        "sentence": "じゅぎょうは 九時に ＿始まります＿。",
+        "target": "始まります",
+        "options": ["はしまります", "はじまります", "しまります", "はじめります"],
+        "answer": 1,
+        "explanation_en": "始まります is read はじまります (தொடங்கும், begins). はしまります is missing the voiced じ.",
+        "explanation_ta": "始まります = はじまります (தொடங்கும், begins). はしまります-இல் ஒலிப்புள்ள じ இல்லை."
+      },
+      {
+        "id": "KU10-q09",
+        "type": "kanji_reading",
+        "sentence": "兄は 車の ＿運転＿が 上手です。",
+        "target": "運転",
+        "options": ["うんてん", "うんでん", "うてん", "うんどう"],
+        "answer": 0,
+        "explanation_en": "運転 is read うんてん (வாகனம் ஓட்டுதல், driving). うんでん wrongly voices て; うんどう is 運動 (exercise).",
+        "explanation_ta": "運転 = うんてん (வாகனம் ஓட்டுதல், driving). うんでん-இல் て தவறாக で ஆகிறது; うんどう என்பது 運動 (உடற்பயிற்சி)."
+      },
+      {
+        "id": "KU10-q10",
+        "type": "kanji_reading",
+        "sentence": "今日の じゅぎょうは これで ＿終わり＿です。",
+        "target": "終わり",
+        "options": ["おうわり", "しゅうわり", "おわり", "おわいり"],
+        "answer": 2,
+        "explanation_en": "終わり is read おわり (முடிவு, the end). おうわり adds a long vowel that is not there.",
+        "explanation_ta": "終わり = おわり (முடிவு, the end). おうわり-இல் இல்லாத நீண்ட உயிர் சேர்க்கப்பட்டுள்ளது."
+      },
+      {
+        "id": "KU10-q11",
+        "type": "orthography",
+        "sentence": "この シャツは ＿やすい＿です。",
+        "target": "やすい",
+        "options": ["案い", "安い", "休い", "字い"],
+        "answer": 1,
+        "explanation_en": "やすい is 安い (மலிவான, cheap): a woman (女) under a roof. 休 is やす in 休み (rest), not in やすい. 字 has 子, not 女.",
+        "explanation_ta": "やすい = 安い (மலிவான, cheap): கூரையின் கீழ் ஒரு பெண் (女). 休 என்பது 休み (ஓய்வு) என்பதில் வரும் やす, やすい-இல் அல்ல. 字-இல் 女 இல்லை, 子 உள்ளது."
+      },
+      {
+        "id": "KU10-q12",
+        "type": "orthography",
+        "sentence": "母が きのう ＿にゅういん＿しました。",
+        "target": "にゅういん",
+        "options": ["入員", "人院", "入完", "入院"],
+        "answer": 3,
+        "explanation_en": "にゅういん is 入院 (மருத்துவமனையில் சேர்தல், going into hospital). 員 is also いん, but it means a staff member. 人 is not 入.",
+        "explanation_ta": "にゅういん = 入院 (மருத்துவமனையில் சேர்தல், going into hospital). 員-உம் いん தான், ஆனால் அது ஊழியரைக் குறிக்கும். 人 என்பது 入 அல்ல."
+      },
+      {
+        "id": "KU10-q13",
+        "type": "orthography",
+        "sentence": "子どもは ＿どうぶつ＿が 大すきです。",
+        "target": "どうぶつ",
+        "options": ["重物", "動場", "働物", "動物"],
+        "answer": 3,
+        "explanation_en": "どうぶつ is 動物 (விலங்கு, animal). 重 is only the left part of 動; 働 has an extra person (亻).",
+        "explanation_ta": "どうぶつ = 動物 (விலங்கு, animal). 重 என்பது 動-இன் இடப்பகுதி மட்டுமே; 働-இல் கூடுதலாக ஒரு மனிதர் (亻) உள்ளார்."
+      },
+      {
+        "id": "KU10-q14",
+        "type": "orthography",
+        "sentence": "花に 水を やらないと、＿しにます＿よ。",
+        "target": "しにます",
+        "options": ["死にます", "列にます", "化にます", "残にます"],
+        "answer": 0,
+        "explanation_en": "しにます is 死にます (இறந்துவிடும், will die). 列 and 残 also have the bones part (歹), but they are different kanji.",
+        "explanation_ta": "しにます = 死にます (இறந்துவிடும், will die). 列, 残 இரண்டிலும் எலும்புப் பகுதி (歹) உள்ளது, ஆனால் அவை வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU10-q15",
+        "type": "orthography",
+        "sentence": "では、テストを ＿はじめましょう＿。",
+        "target": "はじめましょう",
+        "options": ["姉めましょう", "治めましょう", "始めましょう", "初めましょう"],
+        "answer": 2,
+        "explanation_en": "はじめましょう is 始めましょう (தொடங்குவோம், let’s begin). 初 is also はじ, but it means “first” (初めて).",
+        "explanation_ta": "はじめましょう = 始めましょう (தொடங்குவோம், let’s begin). 初-உம் はじ தான், ஆனால் அதன் பொருள் “முதல்” (初めて)."
+      },
+      {
+        "id": "KU10-q16",
+        "type": "orthography",
+        "sentence": "この つくえを 二かいへ ＿はこびます＿。",
+        "target": "はこびます",
+        "options": ["連びます", "運びます", "軍びます", "遠びます"],
+        "answer": 1,
+        "explanation_en": "はこびます is 運びます (எடுத்துச் செல்கிறேன், carry). 連 has no cover (冖) over 車; 軍 has no road (辶).",
+        "explanation_ta": "はこびます = 運びます (எடுத்துச் செல்கிறேன், carry). 連-இல் 車-க்கு மேல் மூடி (冖) இல்லை; 軍-இல் சாலை (辶) இல்லை."
+      }
+    ]
+  }
+}

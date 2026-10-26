@@ -1,0 +1,224 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 10,
+  "slug": "ba-jouken",
+  "title": {
+   "ja": "安ければ買います",
+   "ta": "மலிவாக இருந்தால் வாங்குவேன்",
+   "en": "If it's cheap, I'll buy it"
+  },
+  "theme": {
+   "en": "Shopping for electronics and groceries: prices, sales floors, broken goods, paying.",
+   "ta": "மின்னணுப் பொருட்களும் மளிகையும் வாங்குவது: விலை, விற்பனைப் பகுதி, பழுதான பொருள், பணம் செலுத்துவது."
+  },
+  "grammar": [
+   {
+    "id": "g10-1",
+    "pattern": "ば-form conditional (V-ば / い-adj-ければ / な-adj・N なら)",
+    "en": "If … (condition for a result); also V-ばいいですか 'what should I do'"
+   },
+   {
+    "id": "g10-2",
+    "pattern": "N なら、〜",
+    "en": "If it's about N / speaking of N (advice on a topic someone raised)"
+   },
+   {
+    "id": "g10-3",
+    "pattern": "V-ば V-dict ほど",
+    "en": "The more …, the more …"
+   },
+   {
+    "id": "g10-4",
+    "pattern": "N も 〜ば、N も 〜",
+    "en": "Both … and … (listing good points)"
+   },
+   {
+    "id": "g10-5",
+    "pattern": "V-ばよかった",
+    "en": "I should have … (regret)"
+   },
+   {
+    "id": "g10-6",
+    "pattern": "V-たらどうですか",
+    "en": "Why don't you …? (suggestion)"
+   }
+  ],
+  "vocabHints": [
+   "shops: supermarket, sales floor, register, clerk, change",
+   "electronics: computer, software, stereo, made in ~",
+   "numbers: double, more than, less than, within",
+   "price, paying, breakdown"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-016",
+   "expression": "ステレオ",
+   "reading": "ステレオ",
+   "romaji": "sutereo",
+   "en": "stereo"
+  },
+  {
+   "id": "n4-v-032",
+   "expression": "もし",
+   "reading": "もし",
+   "romaji": "moshi",
+   "en": "if"
+  },
+  {
+   "id": "n4-v-050",
+   "expression": "売り場",
+   "reading": "うりば",
+   "romaji": "uriba",
+   "en": "place where things are sold"
+  },
+  {
+   "id": "n4-v-072",
+   "expression": "～製",
+   "reading": "～せい",
+   "romaji": "～sei",
+   "en": "made in ~"
+  },
+  {
+   "id": "n4-v-090",
+   "expression": "エスカレーター",
+   "reading": "エスカレーター",
+   "romaji": "esukareetaa",
+   "en": "escalator"
+  },
+  {
+   "id": "n4-v-146",
+   "expression": "品物",
+   "reading": "しなもの",
+   "romaji": "shinamono",
+   "en": "goods"
+  },
+  {
+   "id": "n4-v-148",
+   "expression": "利用",
+   "reading": "りよう",
+   "romaji": "riyou",
+   "en": "use, utilization"
+  },
+  {
+   "id": "n4-v-152",
+   "expression": "いくら～ても",
+   "reading": "いくら～ても",
+   "romaji": "ikura～temo",
+   "en": "however much one may ~"
+  },
+  {
+   "id": "n4-v-158",
+   "expression": "故障",
+   "reading": "こしょうする",
+   "romaji": "koshousuru",
+   "en": "breakdown"
+  },
+  {
+   "id": "n4-v-176",
+   "expression": "倍",
+   "reading": "ばい",
+   "romaji": "bai",
+   "en": "double"
+  },
+  {
+   "id": "n4-v-247",
+   "expression": "以下",
+   "reading": "いか",
+   "romaji": "ika",
+   "en": "less than, below"
+  },
+  {
+   "id": "n4-v-258",
+   "expression": "食料品",
+   "reading": "しょくりょうひん",
+   "romaji": "shokuryouhin",
+   "en": "foodstuff, groceries"
+  },
+  {
+   "id": "n4-v-260",
+   "expression": "以内",
+   "reading": "いない",
+   "romaji": "inai",
+   "en": "within, less (no more) than"
+  },
+  {
+   "id": "n4-v-310",
+   "expression": "店員",
+   "reading": "てんいん",
+   "romaji": "ten'in",
+   "en": "clerk; shop-employee"
+  },
+  {
+   "id": "n4-v-314",
+   "expression": "おつり",
+   "reading": "おつり",
+   "romaji": "otsuri",
+   "en": "change; balance of money returned to the purchaser"
+  },
+  {
+   "id": "n4-v-346",
+   "expression": "パソコン",
+   "reading": "パソコン",
+   "romaji": "pasokon",
+   "en": "(personal) computer"
+  },
+  {
+   "id": "n4-v-398",
+   "expression": "レジ",
+   "reading": "レジ",
+   "romaji": "reji",
+   "en": "register"
+  },
+  {
+   "id": "n4-v-412",
+   "expression": "以外",
+   "reading": "いがい",
+   "romaji": "igai",
+   "en": "other than, with the exception of, excepting"
+  },
+  {
+   "id": "n4-v-440",
+   "expression": "以上",
+   "reading": "いじょう",
+   "romaji": "ijou",
+   "en": "more than; this is all"
+  },
+  {
+   "id": "n4-v-516",
+   "expression": "値段",
+   "reading": "ねだん",
+   "romaji": "nedan",
+   "en": "price"
+  },
+  {
+   "id": "n4-v-544",
+   "expression": "払う",
+   "reading": "はらう",
+   "romaji": "harau",
+   "en": "to pay"
+  },
+  {
+   "id": "n4-v-568",
+   "expression": "スーパー (マーケット)",
+   "reading": "スーパー (マーケット)",
+   "romaji": "suupaa(maaketto)",
+   "en": "supermarket"
+  },
+  {
+   "id": "n4-v-592",
+   "expression": "コンピュータ; コンピューター",
+   "reading": "コンピュータ; コンピューター",
+   "romaji": "konpyuuta;konpyuutaa",
+   "en": "computer"
+  },
+  {
+   "id": "n4-v-658",
+   "expression": "ソフト",
+   "reading": "ソフト",
+   "romaji": "sofuto",
+   "en": "soft; soft hat; software"
+  }
+ ]
+}

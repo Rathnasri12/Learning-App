@@ -1,10 +1,13 @@
-// Usage: node validate.mjs <lessonNumber>
+// Usage: node validate.mjs <lessonNumber> [level]   (level defaults to n5)
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..", "..");
 const n = Number(process.argv[2]);
+const level = process.argv[3] ?? "n5";
+// n4/n3 lessons are written with simple-English explanations alongside the Tamil from the start.
+const needEn = level !== "n5";
 const pad = String(n).padStart(2, "0");
 const errs = [];
 const warn = [];
@@ -16,9 +19,9 @@ const read = (p) => {
     return null;
   }
 };
-const input = read(path.join(root, "_sources/lesson-inputs", `lesson-${pad}.json`));
-const vocab = read(path.join(root, "content/n5/vocab", `lesson-${pad}.json`));
-const lesson = read(path.join(root, "content/n5/lessons", `lesson-${pad}.json`));
+const input = read(path.join(root, "_sources/lesson-inputs", level === "n5" ? "" : level, `lesson-${pad}.json`));
+const vocab = read(path.join(root, "content", level, "vocab", `lesson-${pad}.json`));
+const lesson = read(path.join(root, "content", level, "lessons", `lesson-${pad}.json`));
 const POS = new Set([
   "noun", "verb-u", "verb-ru", "verb-irregular", "i-adj", "na-adj", "adverb", "particle", "expression",
   "counter", "pronoun", "conjunction", "prefix", "suffix", "interjection", "number",
@@ -50,6 +53,7 @@ if (input && lesson) {
   if (lesson.lesson !== n) errs.push(`lesson.lesson should be ${n}`);
   if (!lesson.title?.ja || !lesson.title?.ta || !lesson.title?.en) errs.push("title incomplete");
   if (!nonEmpty(lesson.intro_ta) || !hasTamil(lesson.intro_ta)) errs.push("intro_ta missing/not Tamil");
+  if (needEn && !nonEmpty(lesson.intro_en)) errs.push("intro_en missing");
   const wantG = input.meta.grammar.map((g) => g.id);
   const gotG = (lesson.grammar || []).map((g) => g.id);
   for (const id of wantG) if (!gotG.includes(id)) errs.push(`grammar: missing ${id}`);
@@ -57,6 +61,8 @@ if (input && lesson) {
   for (const g of lesson.grammar || []) {
     for (const k of ["pattern", "explanation_ta", "tamil_parallel", "formation"]) if (!nonEmpty(g[k])) errs.push(`grammar ${g.id}: ${k} empty`);
     if (!hasTamil(g.explanation_ta)) errs.push(`grammar ${g.id}: explanation_ta not Tamil`);
+    if (needEn) for (const k of ["explanation_en", "tamil_parallel_en", "formation_en"]) if (!nonEmpty(g[k])) errs.push(`grammar ${g.id}: ${k} empty`);
+    if (needEn && g.pitfalls_ta && !nonEmpty(g.pitfalls_en)) errs.push(`grammar ${g.id}: pitfalls_en empty`);
     if (!g.name?.en || !g.name?.ta) errs.push(`grammar ${g.id}: name incomplete`);
     if (!Array.isArray(g.examples) || g.examples.length < 4) errs.push(`grammar ${g.id}: need >= 4 examples`);
     (g.examples || []).forEach((ex, i) => checkExample(ex, `grammar ${g.id} ex${i}`));
@@ -78,7 +84,8 @@ if (input && lesson) {
     ids.add(it.id);
     types[it.type] = (types[it.type] || 0) + 1;
     if (!nonEmpty(it.explanation_ta) || !hasTamil(it.explanation_ta)) errs.push(`${it.id}: explanation_ta missing/not Tamil`);
-    if (["kanji_reading", "orthography", "vocab_context", "paraphrase", "grammar_form"].includes(it.type)) {
+    if (needEn && !nonEmpty(it.explanation_en)) errs.push(`${it.id}: explanation_en missing`);
+    if (["kanji_reading", "orthography", "vocab_context", "paraphrase", "grammar_form", "usage"].includes(it.type)) {
       mcq++;
       if (!nonEmpty(it.sentence)) errs.push(`${it.id}: sentence empty`);
       if (!Array.isArray(it.options) || it.options.length !== 4) errs.push(`${it.id}: need 4 options`);

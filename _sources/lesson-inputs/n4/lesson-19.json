@@ -1,0 +1,228 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 19,
+  "slug": "sugiru-yasui",
+  "title": {
+   "ja": "このスーツは大きすぎます",
+   "ta": "இந்த உடை மிகவும் பெரியது",
+   "en": "This suit is too big"
+  },
+  "theme": {
+   "en": "Clothes and fashion: suits, kimono, accessories, sizes, choosing and exchanging.",
+   "ta": "உடைகளும் நாகரிகமும்: சூட், கிமோனோ, அணிகலன்கள், அளவுகள், தேர்ந்தெடுப்பதும் மாற்றுவதும்."
+  },
+  "grammar": [
+   {
+    "id": "g19-1",
+    "pattern": "V-ます stem / adj-stem すぎます",
+    "en": "Too much / too … (overdoing it)"
+   },
+   {
+    "id": "g19-2",
+    "pattern": "V-ます stem やすいです / にくいです",
+    "en": "Easy to … / hard to …"
+   },
+   {
+    "id": "g19-3",
+    "pattern": "い-adj-く / な-adj に / N に します",
+    "en": "Make something … (change it on purpose): 短くします"
+   },
+   {
+    "id": "g19-4",
+    "pattern": "N に します (choose)",
+    "en": "I'll take / choose N"
+   }
+  ],
+  "vocabHints": [
+   "clothes: suit, kimono, underwear, gloves, sandals",
+   "materials: silk, cotton, thread",
+   "accessories: ring, mirror, hair, beard",
+   "fit, choose, exchange, style"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-079",
+   "expression": "過ぎる",
+   "reading": "すぎる",
+   "romaji": "sugiru",
+   "en": "to exceed, to go beyond"
+  },
+  {
+   "id": "n4-v-093",
+   "expression": "絹",
+   "reading": "きぬ",
+   "romaji": "kinu",
+   "en": "silk"
+  },
+  {
+   "id": "n4-v-143",
+   "expression": "無理",
+   "reading": "むり",
+   "romaji": "muri",
+   "en": "unreasonable, impossible"
+  },
+  {
+   "id": "n4-v-248",
+   "expression": "選ぶ",
+   "reading": "えらぶ",
+   "romaji": "erabu",
+   "en": "to choose; to select"
+  },
+  {
+   "id": "n4-v-262",
+   "expression": "オーバー",
+   "reading": "オーバー",
+   "romaji": "oobaa",
+   "en": "overcoat; over, exceeding, exaggeration"
+  },
+  {
+   "id": "n4-v-298",
+   "expression": "鏡",
+   "reading": "かがみ",
+   "romaji": "kagami",
+   "en": "mirror"
+  },
+  {
+   "id": "n4-v-325",
+   "expression": "手袋",
+   "reading": "てぶくろ",
+   "romaji": "tebukuro",
+   "en": "glove(s)"
+  },
+  {
+   "id": "n4-v-357",
+   "expression": "着物",
+   "reading": "きもの",
+   "romaji": "kimono",
+   "en": "kimono; Japanese traditional dress"
+  },
+  {
+   "id": "n4-v-387",
+   "expression": "～やすい",
+   "reading": "～やすい",
+   "romaji": "～yasui",
+   "en": "easy to do ~"
+  },
+  {
+   "id": "n4-v-391",
+   "expression": "サンダル",
+   "reading": "サンダル",
+   "romaji": "sandaru",
+   "en": "sandal"
+  },
+  {
+   "id": "n4-v-394",
+   "expression": "変える",
+   "reading": "かえる",
+   "romaji": "kaeru",
+   "en": "to change, to alter, to vary"
+  },
+  {
+   "id": "n4-v-400",
+   "expression": "特に",
+   "reading": "とくに",
+   "romaji": "tokuni",
+   "en": "particularly"
+  },
+  {
+   "id": "n4-v-404",
+   "expression": "下着",
+   "reading": "したぎ",
+   "romaji": "shitagi",
+   "en": "underwear"
+  },
+  {
+   "id": "n4-v-450",
+   "expression": "スーツ",
+   "reading": "スーツ",
+   "romaji": "suutsu",
+   "en": "suit"
+  },
+  {
+   "id": "n4-v-452",
+   "expression": "髪",
+   "reading": "かみ",
+   "romaji": "kami",
+   "en": "hair"
+  },
+  {
+   "id": "n4-v-470",
+   "expression": "指輪",
+   "reading": "ゆびわ",
+   "romaji": "yubiwa",
+   "en": "(finger) ring"
+  },
+  {
+   "id": "n4-v-513",
+   "expression": "合う",
+   "reading": "あう",
+   "romaji": "au",
+   "en": "to fit, to match"
+  },
+  {
+   "id": "n4-v-551",
+   "expression": "かっこう",
+   "reading": "格好",
+   "romaji": "格好",
+   "en": "appearance, manner, shape, form, posture"
+  },
+  {
+   "id": "n4-v-569",
+   "expression": "アクセサリー",
+   "reading": "アクセサリー",
+   "romaji": "akusesarii",
+   "en": "accessory"
+  },
+  {
+   "id": "n4-v-581",
+   "expression": "ひげ",
+   "reading": "ひげ",
+   "romaji": "hige",
+   "en": "beard"
+  },
+  {
+   "id": "n4-v-594",
+   "expression": "両方",
+   "reading": "りょうほう",
+   "romaji": "ryouhou",
+   "en": "both sides, both parties"
+  },
+  {
+   "id": "n4-v-601",
+   "expression": "取り替える",
+   "reading": "とりかえる",
+   "romaji": "torikaeru",
+   "en": "to exchange, to replace"
+  },
+  {
+   "id": "n4-v-643",
+   "expression": "～にくい",
+   "reading": "～にくい",
+   "romaji": "～nikui",
+   "en": "difficult to do ~"
+  },
+  {
+   "id": "n4-v-645",
+   "expression": "糸",
+   "reading": "いと",
+   "romaji": "ito",
+   "en": "thread"
+  },
+  {
+   "id": "n4-v-652",
+   "expression": "木綿",
+   "reading": "もめん",
+   "romaji": "momen",
+   "en": "cotton"
+  },
+  {
+   "id": "n4-v-654",
+   "expression": "タイプ",
+   "reading": "タイプ",
+   "romaji": "taipu",
+   "en": "type, style"
+  }
+ ]
+}

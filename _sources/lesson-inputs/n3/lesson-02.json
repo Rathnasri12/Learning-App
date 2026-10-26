@@ -1,0 +1,417 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 2,
+  "slug": "shuumatsu-no-yotei",
+  "title": {
+   "ja": "ゲームなんか",
+   "ta": "வார இறுதித் திட்டங்கள்",
+   "en": "Plans for the weekend"
+  },
+  "theme": {
+   "en": "Inviting friends and making plans: outings, games, drinks and leisure.",
+   "ta": "நண்பர்களை அழைப்பதும் திட்டமிடுவதும்: வெளியே செல்வது, விளையாட்டுகள், பானங்கள், ஓய்வு."
+  },
+  "grammar": [
+   {
+    "id": "g02-1",
+    "pattern": "N なんか",
+    "en": "Things like N (example; modest or dismissive)"
+   },
+   {
+    "id": "g02-2",
+    "pattern": "〜なんて",
+    "en": "Something like ~ (surprise, disbelief or contempt)"
+   },
+   {
+    "id": "g02-3",
+    "pattern": "N か 何か / N か どこか",
+    "en": "N or something / somewhere like that (vague)"
+   },
+   {
+    "id": "g02-4",
+    "pattern": "V-たって / Adj-くたって",
+    "en": "Even if (casual ても)"
+   }
+  ],
+  "vocabHints": [
+   "outings: picnic, hiking, camping, drive",
+   "drinks and snacks",
+   "games and hobbies",
+   "invitations"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0096",
+   "expression": "ジュース",
+   "reading": "ジュース",
+   "romaji": "juusu",
+   "en": "juice, soft drink; deuce"
+  },
+  {
+   "id": "n3-v-0221",
+   "expression": "スキー",
+   "reading": "スキー",
+   "romaji": "sukii",
+   "en": "ski"
+  },
+  {
+   "id": "n3-v-0225",
+   "expression": "スケート",
+   "reading": "スケート",
+   "romaji": "sukeeto",
+   "en": "skate(s), skating"
+  },
+  {
+   "id": "n3-v-0300",
+   "expression": "アイスクリーム",
+   "reading": "アイスクリーム",
+   "romaji": "aisukuriimu",
+   "en": "ice cream"
+  },
+  {
+   "id": "n3-v-0351",
+   "expression": "アルバム",
+   "reading": "アルバム",
+   "romaji": "arubamu",
+   "en": "album"
+  },
+  {
+   "id": "n3-v-0435",
+   "expression": "ウイスキー",
+   "reading": "ウイスキー",
+   "romaji": "uisukii",
+   "en": "whiskey"
+  },
+  {
+   "id": "n3-v-0475",
+   "expression": "餌",
+   "reading": "えさ",
+   "romaji": "esa",
+   "en": "feed, bait"
+  },
+  {
+   "id": "n3-v-0548",
+   "expression": "カード",
+   "reading": "カード",
+   "romaji": "kaado",
+   "en": "card, curd"
+  },
+  {
+   "id": "n3-v-0560",
+   "expression": "外出",
+   "reading": "がいしゅつ",
+   "romaji": "gaishutsu",
+   "en": "outing, going out"
+  },
+  {
+   "id": "n3-v-0606",
+   "expression": "菓子",
+   "reading": "かし",
+   "romaji": "kashi",
+   "en": "confectionery, sweet"
+  },
+  {
+   "id": "n3-v-0732",
+   "expression": "キャンプ",
+   "reading": "キャンプ",
+   "romaji": "kyanpu",
+   "en": "camp"
+  },
+  {
+   "id": "n3-v-0796",
+   "expression": "酌む",
+   "reading": "くむ",
+   "romaji": "kumu",
+   "en": "to serve sake"
+  },
+  {
+   "id": "n3-v-0836",
+   "expression": "ゲーム",
+   "reading": "ゲーム",
+   "romaji": "geemu",
+   "en": "game"
+  },
+  {
+   "id": "n3-v-0873",
+   "expression": "碁",
+   "reading": "ご",
+   "romaji": "go",
+   "en": "Go (board game of capturing territory)"
+  },
+  {
+   "id": "n3-v-0980",
+   "expression": "酒",
+   "reading": "さけ",
+   "romaji": "sake",
+   "en": "alcohol, sake"
+  },
+  {
+   "id": "n3-v-0988",
+   "expression": "注す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to pour (drink), to serve (drinks)"
+  },
+  {
+   "id": "n3-v-0991",
+   "expression": "誘う",
+   "reading": "さそう",
+   "romaji": "sasou",
+   "en": "to invite (someone to do something with you); to tempt, to lure"
+  },
+  {
+   "id": "n3-v-1123",
+   "expression": "酔う",
+   "reading": "よう",
+   "romaji": "you",
+   "en": "to get drunk"
+  },
+  {
+   "id": "n3-v-1142",
+   "expression": "ヨット",
+   "reading": "ヨット",
+   "romaji": "yotto",
+   "en": "yacht"
+  },
+  {
+   "id": "n3-v-1190",
+   "expression": "ワイン",
+   "reading": "ワイン",
+   "romaji": "wain",
+   "en": "wine"
+  },
+  {
+   "id": "n3-v-1235",
+   "expression": "欠く",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "to lack, to crack"
+  },
+  {
+   "id": "n3-v-1246",
+   "expression": "狩り",
+   "reading": "かり",
+   "romaji": "kari",
+   "en": "hunting"
+  },
+  {
+   "id": "n3-v-1344",
+   "expression": "それとも",
+   "reading": "それとも",
+   "romaji": "soretomo",
+   "en": "or, or else"
+  },
+  {
+   "id": "n3-v-1415",
+   "expression": "だって",
+   "reading": "だって",
+   "romaji": "datte",
+   "en": "but, because, even"
+  },
+  {
+   "id": "n3-v-1492",
+   "expression": "散らす",
+   "reading": "ちらす",
+   "romaji": "chirasu",
+   "en": "to scatter, to disperse, to distribute"
+  },
+  {
+   "id": "n3-v-1529",
+   "expression": "積む",
+   "reading": "つむ",
+   "romaji": "tsumu",
+   "en": "to pile up, to stack"
+  },
+  {
+   "id": "n3-v-1534",
+   "expression": "釣",
+   "reading": "つり",
+   "romaji": "tsuri",
+   "en": "fishing"
+  },
+  {
+   "id": "n3-v-1547",
+   "expression": "デート",
+   "reading": "デート",
+   "romaji": "deeto",
+   "en": "date (in the sense of 'social engagement' only)"
+  },
+  {
+   "id": "n3-v-1568",
+   "expression": "テント",
+   "reading": "テント",
+   "romaji": "tento",
+   "en": "tent"
+  },
+  {
+   "id": "n3-v-1590",
+   "expression": "通す",
+   "reading": "とおす",
+   "romaji": "toosu",
+   "en": "to let pass, to overlook, to continue"
+  },
+  {
+   "id": "n3-v-1595",
+   "expression": "退く",
+   "reading": "どく",
+   "romaji": "doku",
+   "en": "to retreat, to recede, to withdraw"
+  },
+  {
+   "id": "n3-v-1605",
+   "expression": "解ける",
+   "reading": "とける",
+   "romaji": "tokeru",
+   "en": "to come untied, to come apart"
+  },
+  {
+   "id": "n3-v-1621",
+   "expression": "飛ばす",
+   "reading": "とばす",
+   "romaji": "tobasu",
+   "en": "to skip over, to omit"
+  },
+  {
+   "id": "n3-v-1628",
+   "expression": "ドライブ",
+   "reading": "ドライブ",
+   "romaji": "doraibu",
+   "en": "drive, driving"
+  },
+  {
+   "id": "n3-v-1631",
+   "expression": "トランプ",
+   "reading": "トランプ",
+   "romaji": "toranpu",
+   "en": "playing cards (lit: trump)"
+  },
+  {
+   "id": "n3-v-1632",
+   "expression": "取り上げる",
+   "reading": "とりあげる",
+   "romaji": "toriageru",
+   "en": "to take up, to pick up; to confiscate"
+  },
+  {
+   "id": "n3-v-1636",
+   "expression": "取れる",
+   "reading": "とれる",
+   "romaji": "toreru",
+   "en": "to come off, to be taken off"
+  },
+  {
+   "id": "n3-v-1654",
+   "expression": "流れる",
+   "reading": "ながれる",
+   "romaji": "nagareru",
+   "en": "to flow, to be washed away"
+  },
+  {
+   "id": "n3-v-1692",
+   "expression": "抜く",
+   "reading": "ぬく",
+   "romaji": "nuku",
+   "en": "to extract, to omit, to unplug"
+  },
+  {
+   "id": "n3-v-1721",
+   "expression": "除く",
+   "reading": "のぞく",
+   "romaji": "nozoku",
+   "en": "to remove, to exclude, to except"
+  },
+  {
+   "id": "n3-v-1729",
+   "expression": "延びる",
+   "reading": "のびる",
+   "romaji": "nobiru",
+   "en": "to be prolonged"
+  },
+  {
+   "id": "n3-v-1731",
+   "expression": "上る",
+   "reading": "のぼる",
+   "romaji": "noboru",
+   "en": "to ascend, to go up, to climb"
+  },
+  {
+   "id": "n3-v-1734",
+   "expression": "のんびり",
+   "reading": "のんびり",
+   "romaji": "nonbiri",
+   "en": "carefree, at leisure"
+  },
+  {
+   "id": "n3-v-1741",
+   "expression": "ハイキング",
+   "reading": "ハイキング",
+   "romaji": "haikingu",
+   "en": "hiking"
+  },
+  {
+   "id": "n3-v-1765",
+   "expression": "外す",
+   "reading": "はずす",
+   "romaji": "hazusu",
+   "en": "to unfasten, to remove"
+  },
+  {
+   "id": "n3-v-1794",
+   "expression": "省く",
+   "reading": "はぶく",
+   "romaji": "habuku",
+   "en": "to omit, to eliminate"
+  },
+  {
+   "id": "n3-v-1810",
+   "expression": "ビール",
+   "reading": "ビール",
+   "romaji": "biiru",
+   "en": "beer"
+  },
+  {
+   "id": "n3-v-1813",
+   "expression": "ピクニック",
+   "reading": "ピクニック",
+   "romaji": "pikunikku",
+   "en": "picnic"
+  },
+  {
+   "id": "n3-v-1906",
+   "expression": "触れる",
+   "reading": "ふれる",
+   "romaji": "fureru",
+   "en": "to touch, to feel, to violate"
+  },
+  {
+   "id": "n3-v-1940",
+   "expression": "ボート",
+   "reading": "ボート",
+   "romaji": "booto",
+   "en": "rowing boat"
+  },
+  {
+   "id": "n3-v-2035",
+   "expression": "擦る",
+   "reading": "する",
+   "romaji": "suru",
+   "en": "to rub, to chafe"
+  },
+  {
+   "id": "n3-v-2062",
+   "expression": "断つ",
+   "reading": "たつ",
+   "romaji": "tatsu",
+   "en": "to sever, to cut off"
+  },
+  {
+   "id": "n3-v-2077",
+   "expression": "デザート",
+   "reading": "デザート",
+   "romaji": "dezaato",
+   "en": "dessert"
+  }
+ ]
+}

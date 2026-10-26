@@ -1,0 +1,392 @@
+{
+  "unit": 14,
+  "title": { "en": "School days: exams, meals and lending", "ta": "பள்ளி நாட்கள்: தேர்வு, உணவு, கடன்" },
+  "intro": {
+    "en": "In this unit you learn the last 12 N4 kanji: exam words (試, 験, 質, 英), meal words (料, 飯, 堂), borrow and lend (借, 貸), and build, I and movie (建, 私, 映). Tip: 借 (borrow) and 貸 (lend) are easy to mix up. 貸 has money 貝 at the bottom, because you give your money away.",
+    "ta": "இந்தப் பாடத்தில் N4-இன் கடைசி 12 கான்ஜிகளைக் கற்கிறீர்கள்: தேர்வுச் சொற்கள் (試, 験, 質, 英), உணவுச் சொற்கள் (料, 飯, 堂), கடன் வாங்கு, கடன் கொடு (借, 貸), மேலும் கட்டு, நான், திரைப்படம் (建, 私, 映). குறிப்பு: 借 (கடன் வாங்கு), 貸 (கடன் கொடு) இரண்டையும் எளிதில் குழப்பலாம். 貸-இன் கீழே பணம் 貝 இருக்கிறது, ஏனெனில் உங்கள் பணத்தைக் கொடுக்கிறீர்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "料",
+      "meaning": { "en": "fee, ingredients", "ta": "கட்டணம், பொருட்கள்" },
+      "on": ["りょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is rice (米). On the right is a measuring ladle (斗). You measure the rice for cooking, and you pay a fee for each measure.",
+        "ta": "இடப்பக்கம் அரிசி (米). வலப்பக்கம் அளக்கும் கரண்டி / படி (斗). சமைக்க அரிசியை அளக்கிறீர்கள்; ஒவ்வொரு படிக்கும் கட்டணம் கொடுக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "料 is a long りょう. 旅 (trip) is a short りょ.",
+        "ta": "料 = りょう (நீண்ட ஒலி). 旅 (பயணம்) = りょ (குட்டை ஒலி)."
+      },
+      "examples": [
+        { "word": "料理", "reading": "りょうり", "en": "cooking, cuisine", "ta": "சமையல்; உணவு வகை", "vocabId": "n5-v-701" },
+        { "word": "料金", "reading": "りょうきん", "en": "fee, charge", "ta": "கட்டணம்" },
+        { "word": "食料品", "reading": "しょくりょうひん", "en": "groceries, food items", "ta": "மளிகைப் பொருட்கள்", "vocabId": "n4-v-258" }
+      ]
+    },
+    {
+      "kanji": "建",
+      "meaning": { "en": "build", "ta": "கட்டு" },
+      "on": ["けん"],
+      "kun": ["た.てる"],
+      "mnemonic": {
+        "en": "A hand holds a brush (聿) and draws a plan. Under it, a long road (廴) stretches out. Along this road, they build a building from the plan.",
+        "ta": "ஒரு கை தூரிகையை (聿) பிடித்து ஒரு வரைபடம் வரைகிறது. அதன் கீழ் நீண்ட ஒரு சாலை (廴) நீள்கிறது. அந்தச் சாலையோரம், அந்த வரைபடப்படி ஒரு கட்டிடம் கட்டுகிறார்கள்."
+      },
+      "note": {
+        "en": "Use 建てる for buildings (家を 建てる) and 立てる for standing something up (はたを 立てる). Both are read たてる.",
+        "ta": "கட்டிடத்துக்கு 建てる (家を 建てる); ஒன்றை நிமிர்த்தி நிறுத்துவதற்கு 立てる (はたを 立てる). இரண்டும் たてる என்றே படிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "建てる", "reading": "たてる", "en": "to build", "ta": "கட்ட", "vocabId": "n4-v-064" },
+        { "word": "建物", "reading": "たてもの", "en": "building", "ta": "கட்டிடம்", "vocabId": "n5-v-387" },
+        { "word": "建国", "reading": "けんこく", "en": "founding of a country", "ta": "நாடு நிறுவுதல்" }
+      ]
+    },
+    {
+      "kanji": "試",
+      "meaning": { "en": "try, test", "ta": "முயன்று பார், சோதனை" },
+      "on": ["し"],
+      "kun": ["ため.す"],
+      "mnemonic": {
+        "en": "On the left is 言 (words). On the right is 式 (a set way, a ceremony): a tool (工) and a stick with a hook. The teacher asks questions in a set way: it is a test.",
+        "ta": "இடப்பக்கம் 言 (சொல்). வலப்பக்கம் 式 (ஒரு முறை, விழா): ஒரு கருவி (工), கொக்கியுள்ள ஒரு குச்சி. ஆசிரியர் ஒரு குறிப்பிட்ட முறையில் கேள்விகள் கேட்கிறார்: அதுதான் சோதனை."
+      },
+      "examples": [
+        { "word": "試験", "reading": "しけん", "en": "exam", "ta": "தேர்வு", "vocabId": "n4-v-307" },
+        { "word": "試す", "reading": "ためす", "en": "to try, to test", "ta": "முயன்று பார்க்க" },
+        { "word": "入試", "reading": "にゅうし", "en": "entrance exam", "ta": "நுழைவுத் தேர்வு" }
+      ]
+    },
+    {
+      "kanji": "験",
+      "meaning": { "en": "test, experience", "ta": "சோதனை, அனுபவம்" },
+      "on": ["けん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A horse (馬) on the left. On the right, many people stand under one roof and check it. Before a race, everyone tests the horse.",
+        "ta": "இடப்பக்கம் ஒரு குதிரை (馬). வலப்பக்கம் ஒரே கூரையின் கீழ் பலர் நின்று அதைச் சோதிக்கிறார்கள். பந்தயத்துக்கு முன் எல்லோரும் குதிரையைச் சோதித்துப் பார்க்கிறார்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 験 (test, with a horse 馬), 検 (check, with a tree 木) and 険 (danger, with a hill 阝). For 試験 always use 験.",
+        "ta": "験 (சோதனை, குதிரை 馬), 検 (சரிபார், மரம் 木), 険 (ஆபத்து, மலை 阝) மூன்றையும் குழப்பாதீர்கள். 試験-க்கு எப்போதும் 験."
+      },
+      "examples": [
+        { "word": "試験", "reading": "しけん", "en": "exam", "ta": "தேர்வு", "vocabId": "n4-v-307" },
+        { "word": "体験", "reading": "たいけん", "en": "experience (something yourself)", "ta": "நேரடி அனுபவம்" },
+        { "word": "試験中", "reading": "しけんちゅう", "en": "during the exam", "ta": "தேர்வு நடக்கும்போது" }
+      ]
+    },
+    {
+      "kanji": "英",
+      "meaning": { "en": "England, English; excellent", "ta": "இங்கிலாந்து, ஆங்கிலம்; சிறந்த" },
+      "on": ["えい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Grass and flowers (艹) on top, and 央 (center) under them. The flower right in the center of the garden is the best one. 英 means excellent, and it is also used for England.",
+        "ta": "மேலே புல்லும் பூக்களும் (艹), கீழே 央 (நடு). தோட்டத்தின் நடுவில் இருக்கும் பூதான் மிகச் சிறந்தது. 英 = சிறந்த; இங்கிலாந்துக்கும் இதையே பயன்படுத்துவார்கள்."
+      },
+      "note": {
+        "en": "英 and 映 (reflect) are both えい and both have 央. 英 has grass 艹 on top; 映 has a sun 日 on the left.",
+        "ta": "英, 映 (பிரதிபலி) இரண்டும் えい; இரண்டிலும் 央 உண்டு. 英-இன் மேலே புல் 艹; 映-இன் இடப்பக்கம் சூரியன் 日."
+      },
+      "examples": [
+        { "word": "英語", "reading": "えいご", "en": "English (language)", "ta": "ஆங்கிலம் (மொழி)", "vocabId": "n5-v-090" },
+        { "word": "英国", "reading": "えいこく", "en": "Britain, the UK", "ta": "பிரிட்டன்" },
+        { "word": "英会話", "reading": "えいかいわ", "en": "English conversation", "ta": "ஆங்கில உரையாடல்" }
+      ]
+    },
+    {
+      "kanji": "借",
+      "meaning": { "en": "borrow", "ta": "கடன் வாங்கு" },
+      "on": ["しゃく"],
+      "kun": ["か.りる"],
+      "mnemonic": {
+        "en": "A person (亻) next to 昔 (long ago), which has many days (日) under it. This person borrowed something long ago, many days ago, and still has not given it back.",
+        "ta": "ஒரு மனிதர் (亻), அவர் பக்கத்தில் 昔 (முன்பொரு காலம்); அதன் கீழே பல நாட்கள் (日). இவர் பல நாட்களுக்கு முன் ஒன்றைக் கடன் வாங்கினார்; இன்னும் திருப்பித் தரவில்லை."
+      },
+      "note": {
+        "en": "借りる (かりる) = to borrow (you take). 貸す (かす) = to lend (you give). With 借りる, the person you borrow from takes に or から.",
+        "ta": "借りる (かりる) = கடன் வாங்க (நீங்கள் பெறுகிறீர்கள்). 貸す (かす) = கடன் கொடுக்க (நீங்கள் கொடுக்கிறீர்கள்). 借りる-உடன், யாரிடம் வாங்குகிறீர்களோ அவருக்கு に அல்லது から வரும்."
+      },
+      "examples": [
+        { "word": "借りる", "reading": "かりる", "en": "to borrow", "ta": "கடன் வாங்க", "vocabId": "n5-v-180" },
+        { "word": "借り物", "reading": "かりもの", "en": "borrowed thing", "ta": "கடனாக வாங்கிய பொருள்" },
+        { "word": "借金", "reading": "しゃっきん", "en": "debt, borrowed money", "ta": "கடன் (பணம்)" }
+      ]
+    },
+    {
+      "kanji": "堂",
+      "meaning": { "en": "hall", "ta": "கூடம், அரங்கம்" },
+      "on": ["どう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Light shines from the top (⺌). Under it is a roof (冖) with a door (口), built on solid earth (土). It is a big, bright hall where many people come to eat or meet.",
+        "ta": "மேலிருந்து ஒளி வீசுகிறது (⺌). அதன் கீழ் ஒரு கூரை (冖), ஒரு வாசல் (口); அது உறுதியான மண்ணின் (土) மேல் கட்டப்பட்டுள்ளது. பலர் சாப்பிடவும் கூடவும் வரும் பெரிய, வெளிச்சமான கூடம்."
+      },
+      "examples": [
+        { "word": "食堂", "reading": "しょくどう", "en": "dining hall, canteen", "ta": "உணவகம் (கேன்டீன்)", "vocabId": "n5-v-322" },
+        { "word": "本堂", "reading": "ほんどう", "en": "main hall of a temple", "ta": "கோயிலின் முதன்மை மண்டபம்" },
+        { "word": "公会堂", "reading": "こうかいどう", "en": "public hall", "ta": "பொது அரங்கம்" }
+      ]
+    },
+    {
+      "kanji": "飯",
+      "meaning": { "en": "cooked rice, meal", "ta": "சோறு, உணவு" },
+      "on": ["はん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 食 (eat). On the right a hand turns something over (反). Mother turns the rice over in the pot. The cooked rice is ready: it is meal time!",
+        "ta": "இடப்பக்கம் 食 (சாப்பிடு). வலப்பக்கம் ஒரு கை எதையோ புரட்டுகிறது (反). அம்மா பானையில் சோற்றைக் கிளறிப் புரட்டுகிறார். சோறு தயார்: சாப்பாட்டு நேரம்!"
+      },
+      "note": {
+        "en": "ご飯 (ごはん) means both “cooked rice” and “a meal”. 朝ご飯, 昼ご飯 and 晩ご飯 are breakfast, lunch and dinner.",
+        "ta": "ご飯 (ごはん) = சோறு, உணவு இரண்டும். 朝ご飯, 昼ご飯, 晩ご飯 = காலை, மதிய, இரவு உணவு."
+      },
+      "examples": [
+        { "word": "ご飯", "reading": "ごはん", "en": "cooked rice, meal", "ta": "சோறு; உணவு", "vocabId": "n5-v-265" },
+        { "word": "朝ご飯", "reading": "あさごはん", "en": "breakfast", "ta": "காலை உணவு", "vocabId": "n5-v-013" },
+        { "word": "昼ご飯", "reading": "ひるごはん", "en": "lunch", "ta": "மதிய உணவு", "vocabId": "n5-v-574" },
+        { "word": "夕飯", "reading": "ゆうはん", "en": "dinner, supper", "ta": "இரவு உணவு (மாலை உணவு)", "vocabId": "n5-v-677" }
+      ]
+    },
+    {
+      "kanji": "質",
+      "meaning": { "en": "quality, nature; question", "ta": "தரம், இயல்பு; கேள்வி" },
+      "on": ["しつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Two axes (斤斤) stand on top of a shell (貝). Long ago, shells were money. You hit the money with axes to test its quality: is it real?",
+        "ta": "ஒரு சிப்பியின் (貝) மேல் இரண்டு கோடரிகள் (斤斤). முன்பு சிப்பிகள்தான் பணம். அந்தப் பணம் உண்மையானதா என்று அதன் தரத்தைக் கோடரியால் அடித்துச் சோதிக்கிறீர்கள்."
+      },
+      "examples": [
+        { "word": "質問", "reading": "しつもん", "en": "question", "ta": "கேள்வி", "vocabId": "n5-v-301" },
+        { "word": "品質", "reading": "ひんしつ", "en": "quality (of goods)", "ta": "பொருளின் தரம்" },
+        { "word": "体質", "reading": "たいしつ", "en": "body type, constitution", "ta": "உடல் இயல்பு" }
+      ]
+    },
+    {
+      "kanji": "貸",
+      "meaning": { "en": "lend", "ta": "கடன் கொடு" },
+      "on": [],
+      "kun": ["か.す"],
+      "mnemonic": {
+        "en": "On top is 代 (in place of): a person (亻) and a stick. At the bottom is a shell (貝), which is money. You give your money to someone in place of you for a while: you lend it.",
+        "ta": "மேலே 代 (பதிலாக): ஒரு மனிதர் (亻), ஒரு குச்சி. கீழே ஒரு சிப்பி (貝), அதாவது பணம். கொஞ்ச காலத்துக்கு உங்கள் பணத்தை வேறொருவரிடம் கொடுக்கிறீர்கள்: கடன் கொடுக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "貸す (かす) = to lend, 借りる (かりる) = to borrow, かえす = to give back. All three start with か.",
+        "ta": "貸す (かす) = கடன் கொடுக்க, 借りる (かりる) = கடன் வாங்க, かえす = திருப்பிக் கொடுக்க. மூன்றும் か உடன் தொடங்கும்."
+      },
+      "examples": [
+        { "word": "貸す", "reading": "かす", "en": "to lend", "ta": "கடனாகக் கொடுக்க", "vocabId": "n5-v-161" },
+        { "word": "貸し出し", "reading": "かしだし", "en": "lending (out), e.g. library books", "ta": "இரவல் கொடுத்தல் (நூலகப் புத்தகம் போல)" },
+        { "word": "貸し切り", "reading": "かしきり", "en": "reserved for one group, chartered", "ta": "ஒரு குழுவுக்கு மட்டும் முழுதாக ஒதுக்கியது" }
+      ]
+    },
+    {
+      "kanji": "私",
+      "meaning": { "en": "I, private", "ta": "நான், தனிப்பட்ட" },
+      "on": ["し"],
+      "kun": ["わたし", "わたくし"],
+      "mnemonic": {
+        "en": "On the left is a rice plant (禾) with a heavy head. On the right, a small arm curls around something (ム). “This rice is mine!” says the farmer. Mine, private, I.",
+        "ta": "இடப்பக்கம் கதிர் தொங்கும் ஒரு நெற்பயிர் (禾). வலப்பக்கம் ஒரு சின்னக் கை எதையோ அணைத்துக்கொள்கிறது (ム). “இந்த நெல் என்னுடையது!” என்கிறார் விவசாயி. என்னுடையது, தனிப்பட்டது, நான்."
+      },
+      "note": {
+        "en": "私 is usually わたし. わたくし is very polite. In words, 私 is し: 私立 (しりつ, private, like a private school).",
+        "ta": "私 பொதுவாக わたし. わたくし மிக மரியாதையானது. சொற்களில் 私 = し: 私立 (しりつ, தனியார், தனியார் பள்ளி போல)."
+      },
+      "examples": [
+        { "word": "私", "reading": "わたし", "en": "I", "ta": "நான்", "vocabId": "n5-v-714" },
+        { "word": "私", "reading": "わたくし", "en": "I (very polite)", "ta": "நான் (மிக மரியாதையாக)", "vocabId": "n5-v-715" },
+        { "word": "私立", "reading": "しりつ", "en": "private (school, university)", "ta": "தனியார் (பள்ளி, பல்கலைக்கழகம்)" }
+      ]
+    },
+    {
+      "kanji": "映",
+      "meaning": { "en": "reflect, project (a film)", "ta": "பிரதிபலி, திரையிடு" },
+      "on": ["えい"],
+      "kun": ["うつ.る"],
+      "mnemonic": {
+        "en": "The sun (日) on the left shines on the center (央) of a white screen. A bright picture appears on it. A projected picture: a movie!",
+        "ta": "இடப்பக்கச் சூரியன் (日) ஒரு வெள்ளைத் திரையின் நடுவில் (央) ஒளி வீசுகிறது. அதில் ஒரு பிரகாசமான படம் தோன்றுகிறது. திரையிட்ட படம்: திரைப்படம்!"
+      },
+      "note": {
+        "en": "Don’t write 英画 for えいが. Movie is 映画, with the sun 日.",
+        "ta": "えいが-வுக்கு 英画 என்று எழுதாதீர்கள். திரைப்படம் = 映画 (சூரியன் 日 உடன்)."
+      },
+      "examples": [
+        { "word": "映画", "reading": "えいが", "en": "movie", "ta": "திரைப்படம்", "vocabId": "n5-v-088" },
+        { "word": "映画館", "reading": "えいがかん", "en": "cinema", "ta": "திரையரங்கு", "vocabId": "n5-v-089" },
+        { "word": "映る", "reading": "うつる", "en": "to be reflected, to show (on a screen)", "ta": "பிரதிபலிக்க, திரையில் தெரிய" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU14-q01",
+        "type": "kanji_reading",
+        "sentence": "母の ＿料理＿は とても おいしいです。",
+        "target": "料理",
+        "options": ["りょうり", "りょり", "りょうりい", "りゅうり"],
+        "answer": 0,
+        "explanation_en": "料理 is read りょうり (சமையல், cooking). 料 is a long りょう, so りょり is wrong.",
+        "explanation_ta": "料理 = りょうり (சமையல், cooking). 料 = りょう (நீண்ட ஒலி); அதனால் りょり தவறு."
+      },
+      {
+        "id": "KU14-q02",
+        "type": "kanji_reading",
+        "sentence": "あたらしい ＿建物＿が できました。",
+        "target": "建物",
+        "options": ["けんもの", "たてもの", "だてもの", "たてぶつ"],
+        "answer": 1,
+        "explanation_en": "建物 is read たてもの (கட்டிடம், building), with kun readings. けんもの mixes the on reading けん with もの.",
+        "explanation_ta": "建物 = たてもの (கட்டிடம், building); இரண்டும் kun வாசிப்புகள். けんもの என்பது on வாசிப்பு けん-ஐ もの உடன் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU14-q03",
+        "type": "kanji_reading",
+        "sentence": "あしたは 日本語の ＿試験＿が あります。",
+        "target": "試験",
+        "options": ["じけん", "しげん", "しけん", "しっけん"],
+        "answer": 2,
+        "explanation_en": "試験 is read しけん (தேர்வு, exam). じけん, with a voiced じ, is a different word (incident).",
+        "explanation_ta": "試験 = しけん (தேர்வு, exam). じけん (じ ஒலியுடன்) வேறு சொல் (சம்பவம்)."
+      },
+      {
+        "id": "KU14-q04",
+        "type": "kanji_reading",
+        "sentence": "＿英語＿で 話して ください。",
+        "target": "英語",
+        "options": ["えご", "えいこ", "ええご", "えいご"],
+        "answer": 3,
+        "explanation_en": "英語 is read えいご (ஆங்கிலம், English). 英 is えい, so えご is too short; 語 is ご, not こ.",
+        "explanation_ta": "英語 = えいご (ஆங்கிலம், English). 英 = えい; அதனால் えご மிகக் குட்டை. 語 = ご, こ அல்ல."
+      },
+      {
+        "id": "KU14-q05",
+        "type": "kanji_reading",
+        "sentence": "図書館で 本を ＿借りました＿。",
+        "target": "借りました",
+        "options": ["かしました", "かりました", "かえりました", "かいました"],
+        "answer": 1,
+        "explanation_en": "借りました is read かりました (கடன் வாங்கினேன், I borrowed). かしました is 貸しました (I lent): the opposite.",
+        "explanation_ta": "借りました = かりました (கடன் வாங்கினேன், I borrowed). かしました என்பது 貸しました (கடன் கொடுத்தேன்): எதிர்ப் பொருள்."
+      },
+      {
+        "id": "KU14-q06",
+        "type": "kanji_reading",
+        "sentence": "大学の ＿食堂＿で ひるごはんを 食べます。",
+        "target": "食堂",
+        "options": ["しょくどう", "しょくど", "しょくとう", "しょうどう"],
+        "answer": 0,
+        "explanation_en": "食堂 is read しょくどう (உணவகம், canteen). 堂 is a long, voiced どう: しょくど is too short and しょくとう is not voiced.",
+        "explanation_ta": "食堂 = しょくどう (உணவகம், canteen). 堂 = どう (நீண்ட ஒலி, ど கனமானது); しょくど மிகக் குட்டை, しょくとう-இல் と; இரண்டும் தவறு."
+      },
+      {
+        "id": "KU14-q07",
+        "type": "kanji_reading",
+        "sentence": "＿夕飯＿は 何を 食べましたか。",
+        "target": "夕飯",
+        "options": ["ゆうばん", "ゆはん", "ゆうはん", "ゆうめし"],
+        "answer": 2,
+        "explanation_en": "夕飯 is read ゆうはん (இரவு உணவு, dinner). 飯 stays はん here, not ばん; 夕 is a long ゆう.",
+        "explanation_ta": "夕飯 = ゆうはん (இரவு உணவு, dinner). இங்கே 飯 = はん, ばん அல்ல. 夕 = ゆう (நீண்ட ஒலி)."
+      },
+      {
+        "id": "KU14-q08",
+        "type": "kanji_reading",
+        "sentence": "先生に ＿質問＿しても いいですか。",
+        "target": "質問",
+        "options": ["しちもん", "しっもん", "しつもう", "しつもん"],
+        "answer": 3,
+        "explanation_en": "質問 is read しつもん (கேள்வி, question). 質 is しつ here, not しち, and 問 is もん.",
+        "explanation_ta": "質問 = しつもん (கேள்வி, question). இங்கே 質 = しつ, しち அல்ல; 問 = もん."
+      },
+      {
+        "id": "KU14-q09",
+        "type": "kanji_reading",
+        "sentence": "友だちに かさを ＿貸しました＿。",
+        "target": "貸しました",
+        "options": ["かしました", "かりました", "たいしました", "かえしました"],
+        "answer": 0,
+        "explanation_en": "貸しました is read かしました (கடன் கொடுத்தேன், I lent). かりました is 借りました (I borrowed): the opposite.",
+        "explanation_ta": "貸しました = かしました (கடன் கொடுத்தேன், I lent). かりました என்பது 借りました (கடன் வாங்கினேன்): எதிர்ப் பொருள்."
+      },
+      {
+        "id": "KU14-q10",
+        "type": "kanji_reading",
+        "sentence": "＿映画＿を 見に 行きませんか。",
+        "target": "映画",
+        "options": ["えが", "えいが", "えいか", "ええが"],
+        "answer": 1,
+        "explanation_en": "映画 is read えいが (திரைப்படம், movie). 映 is えい, so えが is too short; 画 is が, not か.",
+        "explanation_ta": "映画 = えいが (திரைப்படம், movie). 映 = えい; அதனால் えが மிகக் குட்டை. 画 = が, か அல்ல."
+      },
+      {
+        "id": "KU14-q11",
+        "type": "orthography",
+        "sentence": "＿わたし＿は インドから 来ました。",
+        "target": "わたし",
+        "options": ["和", "秋", "私", "利"],
+        "answer": 2,
+        "explanation_en": "わたし (நான், I) is 私: a rice plant 禾 and ム. 秋 (autumn), 和 and 利 also start with 禾, but the right side is different.",
+        "explanation_ta": "わたし (நான், I) = 私: நெற்பயிர் 禾 + ム. 秋 (இலையுதிர் காலம்), 和, 利 ஆகியவையும் 禾 உடன் தொடங்கும்; ஆனால் வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU14-q12",
+        "type": "orthography",
+        "sentence": "ここに 大きな 家を ＿たてます＿。",
+        "target": "たてます",
+        "options": ["健てます", "立てます", "律てます", "建てます"],
+        "answer": 3,
+        "explanation_en": "たてます (கட்டுகிறேன், I build) is 建てます for a house. 立てます is also たてます, but it means to stand something up. 健 has an extra person 亻.",
+        "explanation_ta": "வீட்டுக்கு たてます (கட்டுகிறேன், I build) = 建てます. 立てます-உம் たてます தான்; ஆனால் ஒன்றை நிமிர்த்தி நிறுத்துவது என்று பொருள். 健-இல் கூடுதலாக மனிதர் 亻 உண்டு."
+      },
+      {
+        "id": "KU14-q13",
+        "type": "orthography",
+        "sentence": "えきの 前に ＿えいがかん＿が あります。",
+        "target": "えいがかん",
+        "options": ["英画館", "映画館", "映画官", "央画館"],
+        "answer": 1,
+        "explanation_en": "えいがかん (திரையரங்கு, cinema) is 映画館: 映 with the sun 日. 英 (English) is also えい, but it has grass 艹 on top.",
+        "explanation_ta": "えいがかん (திரையரங்கு, cinema) = 映画館: சூரியன் 日 உள்ள 映. 英 (ஆங்கிலம்)-உம் えい தான்; ஆனால் மேலே புல் 艹."
+      },
+      {
+        "id": "KU14-q14",
+        "type": "orthography",
+        "sentence": "バスの ＿りょうきん＿は 二百円です。",
+        "target": "りょうきん",
+        "options": ["料金", "科金", "斜金", "粉金"],
+        "answer": 0,
+        "explanation_en": "りょうきん (கட்டணம், fee) is 料金: rice 米 and a ladle 斗. 科 has a plant 禾, not rice 米; 粉 has 米 but no ladle.",
+        "explanation_ta": "りょうきん (கட்டணம், fee) = 料金: அரிசி 米 + கரண்டி 斗. 科-இல் 米 இல்லை, பயிர் 禾; 粉-இல் 米 உண்டு, கரண்டி இல்லை."
+      },
+      {
+        "id": "KU14-q15",
+        "type": "orthography",
+        "sentence": "＿しけん＿の 前に よく 勉強しました。",
+        "target": "しけん",
+        "options": ["試検", "試険", "試験", "誠験"],
+        "answer": 2,
+        "explanation_en": "しけん (தேர்வு, exam) is 試験, with the horse 馬. 検 (tree 木) and 険 (hill 阝) have the same right side and reading, but not in this word.",
+        "explanation_ta": "しけん (தேர்வு, exam) = 試験 (குதிரை 馬 உடன்). 検 (மரம் 木), 険 (மலை 阝) இரண்டும் அதே வலப்பக்கமும் அதே வாசிப்பும் கொண்டவை; ஆனால் இந்தச் சொல்லில் வராது."
+      },
+      {
+        "id": "KU14-q16",
+        "type": "orthography",
+        "sentence": "この 本を ＿かして＿ ください。",
+        "target": "かして",
+        "options": ["借して", "賃して", "資して", "貸して"],
+        "answer": 3,
+        "explanation_en": "かして (கடன் கொடுங்கள், please lend) is 貸して: 代 over money 貝. 借 is かりる (borrow), and 賃 and 資 have 貝 but a different top.",
+        "explanation_ta": "かして (கடன் கொடுங்கள், please lend) = 貸して: 代 + கீழே பணம் 貝. 借 = かりる (கடன் வாங்கு); 賃, 資 இரண்டிலும் 貝 உண்டு, ஆனால் மேல் பகுதி வேறு."
+      }
+    ]
+  }
+}

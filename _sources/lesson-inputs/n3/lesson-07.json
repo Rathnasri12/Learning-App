@@ -1,0 +1,423 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 7,
+  "slug": "nihon-ni-kite-irai",
+  "title": {
+   "ja": "日本に来て以来",
+   "ta": "ஜப்பானுக்கு வந்ததிலிருந்து",
+   "en": "Since I came to Japan"
+  },
+  "theme": {
+   "en": "Life milestones: moving, starting a job, first experiences, meeting again after years.",
+   "ta": "வாழ்க்கையின் முக்கியக் கட்டங்கள்: இடம் மாறுவது, வேலையில் சேருவது, முதல் அனுபவங்கள், பல ஆண்டுகளுக்குப் பின் சந்திப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g07-1",
+    "pattern": "V-て 以来",
+    "en": "Ever since ~"
+   },
+   {
+    "id": "g07-2",
+    "pattern": "V-て はじめて",
+    "en": "Only after ~ (did I realise / could I)"
+   },
+   {
+    "id": "g07-3",
+    "pattern": "V-た 上で / N の 上で",
+    "en": "After doing ~ (and based on it)"
+   },
+   {
+    "id": "g07-4",
+    "pattern": "Time + ぶり / N ぶり",
+    "en": "For the first time in (time) / manner of (話しぶり)"
+   }
+  ],
+  "vocabHints": [
+   "life events: birth, graduation, employment, moving",
+   "age and generations",
+   "memories and hometown"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0010",
+   "expression": "去る",
+   "reading": "さる",
+   "romaji": "saru",
+   "en": "to leave, to go away"
+  },
+  {
+   "id": "n3-v-0075",
+   "expression": "死亡",
+   "reading": "しぼう",
+   "romaji": "shibou",
+   "en": "death"
+  },
+  {
+   "id": "n3-v-0115",
+   "expression": "出身",
+   "reading": "しゅっしん",
+   "romaji": "shusshin",
+   "en": "come from"
+  },
+  {
+   "id": "n3-v-0184",
+   "expression": "進学",
+   "reading": "しんがく",
+   "romaji": "shingaku",
+   "en": "going on to university"
+  },
+  {
+   "id": "n3-v-0255",
+   "expression": "生",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "birth"
+  },
+  {
+   "id": "n3-v-0262",
+   "expression": "世紀",
+   "reading": "せいき",
+   "romaji": "seiki",
+   "en": "century"
+  },
+  {
+   "id": "n3-v-0271",
+   "expression": "成人",
+   "reading": "せいじん",
+   "romaji": "seijin",
+   "en": "adult"
+  },
+  {
+   "id": "n3-v-0277",
+   "expression": "生長",
+   "reading": "せいちょう",
+   "romaji": "seichou",
+   "en": "growth"
+  },
+  {
+   "id": "n3-v-0279",
+   "expression": "青年",
+   "reading": "せいねん",
+   "romaji": "seinen",
+   "en": "youth, young man"
+  },
+  {
+   "id": "n3-v-0280",
+   "expression": "生年月日",
+   "reading": "せいねんがっぴ",
+   "romaji": "seinengappi",
+   "en": "birth date"
+  },
+  {
+   "id": "n3-v-0284",
+   "expression": "生命",
+   "reading": "せいめい",
+   "romaji": "seimei",
+   "en": "life"
+  },
+  {
+   "id": "n3-v-0380",
+   "expression": "以前",
+   "reading": "いぜん",
+   "romaji": "izen",
+   "en": "in the past; before"
+  },
+  {
+   "id": "n3-v-0397",
+   "expression": "一生",
+   "reading": "いっしょう",
+   "romaji": "isshou",
+   "en": "throughout (one's) life"
+  },
+  {
+   "id": "n3-v-0411",
+   "expression": "命",
+   "reading": "いのち",
+   "romaji": "inochi",
+   "en": "life"
+  },
+  {
+   "id": "n3-v-0419",
+   "expression": "以来",
+   "reading": "いらい",
+   "romaji": "irai",
+   "en": "since, henceforth"
+  },
+  {
+   "id": "n3-v-0456",
+   "expression": "生まれ",
+   "reading": "うまれ",
+   "romaji": "umare",
+   "en": "birth, birth-place"
+  },
+  {
+   "id": "n3-v-0486",
+   "expression": "老い",
+   "reading": "おい",
+   "romaji": "oi",
+   "en": "old age, the aged"
+  },
+  {
+   "id": "n3-v-0531",
+   "expression": "思い出",
+   "reading": "おもいで",
+   "romaji": "omoide",
+   "en": "memories, recollections, reminiscence"
+  },
+  {
+   "id": "n3-v-0598",
+   "expression": "過去",
+   "reading": "かこ",
+   "romaji": "kako",
+   "en": "past"
+  },
+  {
+   "id": "n3-v-0691",
+   "expression": "記憶",
+   "reading": "きおく",
+   "romaji": "kioku",
+   "en": "memory, recollection, remembrance"
+  },
+  {
+   "id": "n3-v-0733",
+   "expression": "旧",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "ex-"
+  },
+  {
+   "id": "n3-v-0799",
+   "expression": "暮らし",
+   "reading": "くらし",
+   "romaji": "kurashi",
+   "en": "living; life style"
+  },
+  {
+   "id": "n3-v-0860",
+   "expression": "現在",
+   "reading": "げんざい",
+   "romaji": "genzai",
+   "en": "now (same as 今 (いま)), present, current"
+  },
+  {
+   "id": "n3-v-0872",
+   "expression": "後",
+   "reading": "ご",
+   "romaji": "go",
+   "en": "afterwards, since then"
+  },
+  {
+   "id": "n3-v-0915",
+   "expression": "故郷",
+   "reading": "こきょう",
+   "romaji": "kokyou",
+   "en": "hometown"
+  },
+  {
+   "id": "n3-v-0950",
+   "expression": "今後",
+   "reading": "こんご",
+   "romaji": "kongo",
+   "en": "from now on, hereafter"
+  },
+  {
+   "id": "n3-v-1023",
+   "expression": "未来",
+   "reading": "みらい",
+   "romaji": "mirai",
+   "en": "future (life tense)"
+  },
+  {
+   "id": "n3-v-1167",
+   "expression": "留学",
+   "reading": "りゅうがく",
+   "romaji": "ryuugaku",
+   "en": "studying abroad"
+  },
+  {
+   "id": "n3-v-1183",
+   "expression": "老人",
+   "reading": "ろうじん",
+   "romaji": "roujin",
+   "en": "the aged, old person"
+  },
+  {
+   "id": "n3-v-1227",
+   "expression": "産む",
+   "reading": "うむ",
+   "romaji": "umu",
+   "en": "to give birth (v.t.), to deliver, to produce"
+  },
+  {
+   "id": "n3-v-1288",
+   "expression": "故人",
+   "reading": "こじん",
+   "romaji": "kojin",
+   "en": "the deceased"
+  },
+  {
+   "id": "n3-v-1329",
+   "expression": "育つ",
+   "reading": "そだつ",
+   "romaji": "sodatsu",
+   "en": "to be brought up, to grow (up)"
+  },
+  {
+   "id": "n3-v-1412",
+   "expression": "経つ",
+   "reading": "たつ",
+   "romaji": "tatsu",
+   "en": "(time) passes"
+  },
+  {
+   "id": "n3-v-1445",
+   "expression": "誕生",
+   "reading": "たんじょう",
+   "romaji": "tanjou",
+   "en": "birth"
+  },
+  {
+   "id": "n3-v-1537",
+   "expression": "出会い",
+   "reading": "であい",
+   "romaji": "deai",
+   "en": "meeting, rendezvous, encounter"
+  },
+  {
+   "id": "n3-v-1538",
+   "expression": "出合い",
+   "reading": "であい",
+   "romaji": "deai",
+   "en": "an encounter"
+  },
+  {
+   "id": "n3-v-1577",
+   "expression": "当時",
+   "reading": "とうじ",
+   "romaji": "touji",
+   "en": "at that time, in those days (same as そのころ)"
+  },
+  {
+   "id": "n3-v-1611",
+   "expression": "年月",
+   "reading": "としつき",
+   "romaji": "toshitsuki",
+   "en": "months and years"
+  },
+  {
+   "id": "n3-v-1613",
+   "expression": "年寄",
+   "reading": "としより",
+   "romaji": "toshiyori",
+   "en": "old people, the aged"
+  },
+  {
+   "id": "n3-v-1704",
+   "expression": "年月",
+   "reading": "ねんげつ",
+   "romaji": "nengetsu",
+   "en": "months and years"
+  },
+  {
+   "id": "n3-v-1706",
+   "expression": "年代",
+   "reading": "ねんだい",
+   "romaji": "nendai",
+   "en": "age, era, period"
+  },
+  {
+   "id": "n3-v-1707",
+   "expression": "年齢",
+   "reading": "ねんれい",
+   "romaji": "nenrei",
+   "en": "age, years"
+  },
+  {
+   "id": "n3-v-1716",
+   "expression": "残す",
+   "reading": "のこす",
+   "romaji": "nokosu",
+   "en": "to leave (behind, over), to save, to reserve"
+  },
+  {
+   "id": "n3-v-1724",
+   "expression": "後",
+   "reading": "のち",
+   "romaji": "nochi",
+   "en": "afterwards, since then"
+  },
+  {
+   "id": "n3-v-1747",
+   "expression": "墓",
+   "reading": "はか",
+   "romaji": "haka",
+   "en": "grave, tomb"
+  },
+  {
+   "id": "n3-v-1789",
+   "expression": "放れる",
+   "reading": "はなれる",
+   "romaji": "hanareru",
+   "en": "to leave, to get free, to cut oneself off"
+  },
+  {
+   "id": "n3-v-1821",
+   "expression": "引越し",
+   "reading": "ひっこし",
+   "romaji": "hikkoshi",
+   "en": "moving, changing residence"
+  },
+  {
+   "id": "n3-v-2003",
+   "expression": "死",
+   "reading": "し",
+   "romaji": "shi",
+   "en": "death, decease"
+  },
+  {
+   "id": "n3-v-2021",
+   "expression": "生涯",
+   "reading": "しょうがい",
+   "romaji": "shougai",
+   "en": "one's lifetime"
+  },
+  {
+   "id": "n3-v-2039",
+   "expression": "成年",
+   "reading": "せいねん",
+   "romaji": "seinen",
+   "en": "majority, adult age"
+  },
+  {
+   "id": "n3-v-2058",
+   "expression": "退学",
+   "reading": "たいがく",
+   "romaji": "taigaku",
+   "en": "dropping out of school"
+  },
+  {
+   "id": "n3-v-2078",
+   "expression": "転校",
+   "reading": "てんこう",
+   "romaji": "tenkou",
+   "en": "change schools"
+  },
+  {
+   "id": "n3-v-2092",
+   "expression": "慣らす",
+   "reading": "ならす",
+   "romaji": "narasu",
+   "en": "to accustom"
+  },
+  {
+   "id": "n3-v-2115",
+   "expression": "経る",
+   "reading": "へる",
+   "romaji": "heru",
+   "en": "to pass, to elapse, to experience"
+  }
+ ]
+}

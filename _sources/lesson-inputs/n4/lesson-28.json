@@ -1,0 +1,240 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 28,
+  "slug": "aida-uchi",
+  "title": {
+   "ja": "日本にいる間に、いろいろな所へ行きたいです",
+   "ta": "ஜப்பானில் இருக்கும்போதே பல இடங்களுக்குப் போக வேண்டும்",
+   "en": "While I'm in Japan I want to see many places"
+  },
+  "theme": {
+   "en": "Life and sightseeing in Japan: temples, shrines, festivals, scenery, getting used to change.",
+   "ta": "ஜப்பானில் வாழ்க்கையும் சுற்றுலாவும்: கோவில்கள், ஷிந்தோ ஆலயங்கள், திருவிழாக்கள், இயற்கைக் காட்சிகள், மாற்றத்துக்குப் பழகுவது."
+  },
+  "grammar": [
+   {
+    "id": "g28-1",
+    "pattern": "V-ている / N の 間、〜",
+    "en": "While, during (the whole time)"
+   },
+   {
+    "id": "g28-2",
+    "pattern": "V-ている / N の 間に、〜",
+    "en": "While, during (at some point within that time)"
+   },
+   {
+    "id": "g28-3",
+    "pattern": "V-dict / V-ない / adj うちに、〜",
+    "en": "While still … (before it changes)"
+   },
+   {
+    "id": "g28-4",
+    "pattern": "V-た / N の まま",
+    "en": "Leaving things as they are: 靴をはいたまま"
+   },
+   {
+    "id": "g28-5",
+    "pattern": "V-ていきます / V-てきます (change)",
+    "en": "Change going forward / change up to now: 寒くなってきました"
+   }
+  ],
+  "vocabHints": [
+   "sightseeing: temple, shrine, church, art museum, exhibition",
+   "festivals and cherry-blossom viewing",
+   "scenery: lake, island, port, sand, stones",
+   "change, getting used to, these days"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-095",
+   "expression": "深い",
+   "reading": "ふかい",
+   "romaji": "fukai",
+   "en": "deep, profound"
+  },
+  {
+   "id": "n4-v-110",
+   "expression": "浅い",
+   "reading": "あさい",
+   "romaji": "asai",
+   "en": "shallow, superficial"
+  },
+  {
+   "id": "n4-v-127",
+   "expression": "動物園",
+   "reading": "どうぶつえん",
+   "romaji": "doubutsuen",
+   "en": "zoo"
+  },
+  {
+   "id": "n4-v-197",
+   "expression": "美しい",
+   "reading": "うつくしい",
+   "romaji": "utsukushii",
+   "en": "beautiful, lovely"
+  },
+  {
+   "id": "n4-v-201",
+   "expression": "どんどん",
+   "reading": "どんどん",
+   "romaji": "dondon",
+   "en": "quickly and steadily; at a rapid pace"
+  },
+  {
+   "id": "n4-v-204",
+   "expression": "素晴らしい",
+   "reading": "すばらしい",
+   "romaji": "subarashii",
+   "en": "wonderful; terrific"
+  },
+  {
+   "id": "n4-v-205",
+   "expression": "美術館",
+   "reading": "びじゅつかん",
+   "romaji": "bijutsukan",
+   "en": "art gallery, art museum"
+  },
+  {
+   "id": "n4-v-220",
+   "expression": "お祭り",
+   "reading": "おまつり",
+   "romaji": "omatsuri",
+   "en": "festival"
+  },
+  {
+   "id": "n4-v-242",
+   "expression": "内",
+   "reading": "うち",
+   "romaji": "uchi",
+   "en": "within, inside"
+  },
+  {
+   "id": "n4-v-255",
+   "expression": "景色",
+   "reading": "けしき",
+   "romaji": "keshiki",
+   "en": "scenery, landscape"
+  },
+  {
+   "id": "n4-v-264",
+   "expression": "石",
+   "reading": "いし",
+   "romaji": "ishi",
+   "en": "stone"
+  },
+  {
+   "id": "n4-v-270",
+   "expression": "珍しい",
+   "reading": "めずらしい",
+   "romaji": "mezurashii",
+   "en": "unusual, rare"
+  },
+  {
+   "id": "n4-v-340",
+   "expression": "港",
+   "reading": "みなと",
+   "romaji": "minato",
+   "en": "harbor, port"
+  },
+  {
+   "id": "n4-v-350",
+   "expression": "教会",
+   "reading": "きょうかい",
+   "romaji": "kyoukai",
+   "en": "church"
+  },
+  {
+   "id": "n4-v-411",
+   "expression": "変わる",
+   "reading": "かわる",
+   "romaji": "kawaru",
+   "en": "to change (v.i.), to be transformed, to vary"
+  },
+  {
+   "id": "n4-v-436",
+   "expression": "島",
+   "reading": "しま",
+   "romaji": "shima",
+   "en": "island"
+  },
+  {
+   "id": "n4-v-441",
+   "expression": "～まま",
+   "reading": "～まま",
+   "romaji": "～mama",
+   "en": "as it is"
+  },
+  {
+   "id": "n4-v-455",
+   "expression": "間",
+   "reading": "あいだ",
+   "romaji": "aida",
+   "en": "space, interval"
+  },
+  {
+   "id": "n4-v-489",
+   "expression": "寺",
+   "reading": "てら",
+   "romaji": "tera",
+   "en": "Buddhist temple"
+  },
+  {
+   "id": "n4-v-490",
+   "expression": "慣れる",
+   "reading": "なれる",
+   "romaji": "nareru",
+   "en": "to grow accustomed to"
+  },
+  {
+   "id": "n4-v-518",
+   "expression": "展覧会",
+   "reading": "てんらんかい",
+   "romaji": "tenrankai",
+   "en": "exhibition"
+  },
+  {
+   "id": "n4-v-586",
+   "expression": "舟",
+   "reading": "ふね",
+   "romaji": "fune",
+   "en": "ship, boat"
+  },
+  {
+   "id": "n4-v-599",
+   "expression": "砂",
+   "reading": "すな",
+   "romaji": "suna",
+   "en": "sand"
+  },
+  {
+   "id": "n4-v-620",
+   "expression": "花見",
+   "reading": "はなみ",
+   "romaji": "hanami",
+   "en": "cherry-blossom viewing"
+  },
+  {
+   "id": "n4-v-628",
+   "expression": "見物",
+   "reading": "けんぶつ",
+   "romaji": "kenbutsu",
+   "en": "sightseeing"
+  },
+  {
+   "id": "n4-v-641",
+   "expression": "湖",
+   "reading": "みずうみ",
+   "romaji": "mizuumi",
+   "en": "lake"
+  },
+  {
+   "id": "n4-v-659",
+   "expression": "神社",
+   "reading": "じんじゃ",
+   "romaji": "jinja",
+   "en": "Shinto shrine"
+  }
+ ]
+}

@@ -1,0 +1,456 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 4,
+  "slug": "ie-wo-deta-totan",
+  "title": {
+   "ja": "家を出たとたん",
+   "ta": "வீட்டை விட்டு வெளியே வந்த உடனே",
+   "en": "The moment I left home"
+  },
+  "theme": {
+   "en": "Commuting and unexpected moments: trains, traffic, near misses and timing.",
+   "ta": "பயணமும் எதிர்பாராத நிமிடங்களும்: ரயில், போக்குவரத்து, நூலிழையில் தப்பியது, நேரம்."
+  },
+  "grammar": [
+   {
+    "id": "g04-1",
+    "pattern": "V-た とたん(に)",
+    "en": "The moment ~, (something unexpected happened)"
+   },
+   {
+    "id": "g04-2",
+    "pattern": "V-た ところ",
+    "en": "When I did ~, (I found that)"
+   },
+   {
+    "id": "g04-3",
+    "pattern": "V-る / V-ている / V-た ところに・ところへ",
+    "en": "Just when ~ (someone or something arrives)"
+   },
+   {
+    "id": "g04-4",
+    "pattern": "V-ている ところを",
+    "en": "(Caught or seen) in the act of ~"
+   },
+   {
+    "id": "g04-5",
+    "pattern": "V-る ところだった",
+    "en": "Almost ~ (nearly happened)"
+   }
+  ],
+  "vocabHints": [
+   "trains, stations, buses, traffic",
+   "roads and driving",
+   "sudden events and timing"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0022",
+   "expression": "ジェット機",
+   "reading": "ジェットき",
+   "romaji": "jettoki",
+   "en": "jet plane"
+  },
+  {
+   "id": "n3-v-0099",
+   "expression": "渋滞",
+   "reading": "じゅうたい",
+   "romaji": "juutai",
+   "en": "congestion (e.g., traffic), delay"
+  },
+  {
+   "id": "n3-v-0123",
+   "expression": "瞬間",
+   "reading": "しゅんかん",
+   "romaji": "shunkan",
+   "en": "moment, second"
+  },
+  {
+   "id": "n3-v-0133",
+   "expression": "乗客",
+   "reading": "じょうきゃく",
+   "romaji": "joukyaku",
+   "en": "passenger"
+  },
+  {
+   "id": "n3-v-0148",
+   "expression": "衝突",
+   "reading": "しょうとつ",
+   "romaji": "shoutotsu",
+   "en": "collision, conflict"
+  },
+  {
+   "id": "n3-v-0188",
+   "expression": "信号",
+   "reading": "しんごう",
+   "romaji": "shingou",
+   "en": "traffic lights, signal, semaphore"
+  },
+  {
+   "id": "n3-v-0252",
+   "expression": "すれ違う",
+   "reading": "すれちがう",
+   "romaji": "surechigau",
+   "en": "to pass by one another"
+  },
+  {
+   "id": "n3-v-0365",
+   "expression": "行き",
+   "reading": "いき",
+   "romaji": "iki",
+   "en": "going"
+  },
+  {
+   "id": "n3-v-0366",
+   "expression": "行き",
+   "reading": "ゆき",
+   "romaji": "yuki",
+   "en": "going"
+  },
+  {
+   "id": "n3-v-0396",
+   "expression": "一瞬",
+   "reading": "いっしゅん",
+   "romaji": "isshun",
+   "en": "a moment, an instant"
+  },
+  {
+   "id": "n3-v-0406",
+   "expression": "移動",
+   "reading": "いどう",
+   "romaji": "idou",
+   "en": "migration, movement"
+  },
+  {
+   "id": "n3-v-0465",
+   "expression": "運転",
+   "reading": "うんてん",
+   "romaji": "unten",
+   "en": "operation, driving"
+  },
+  {
+   "id": "n3-v-0483",
+   "expression": "エンジン",
+   "reading": "エンジン",
+   "romaji": "enjin",
+   "en": "engine"
+  },
+  {
+   "id": "n3-v-0494",
+   "expression": "横断",
+   "reading": "おうだん",
+   "romaji": "oudan",
+   "en": "crossing"
+  },
+  {
+   "id": "n3-v-0504",
+   "expression": "押える",
+   "reading": "おさえる",
+   "romaji": "osaeru",
+   "en": "to stop, to restrain, to press down"
+  },
+  {
+   "id": "n3-v-0547",
+   "expression": "カー",
+   "reading": "カー",
+   "romaji": "kaa",
+   "en": "car"
+  },
+  {
+   "id": "n3-v-0738",
+   "expression": "急激",
+   "reading": "きゅうげき",
+   "romaji": "kyuugeki",
+   "en": "sudden, precipitous, radical"
+  },
+  {
+   "id": "n3-v-0743",
+   "expression": "急に",
+   "reading": "きゅうに",
+   "romaji": "kyuuni",
+   "en": "suddenly"
+  },
+  {
+   "id": "n3-v-0787",
+   "expression": "下り",
+   "reading": "くだり",
+   "romaji": "kudari",
+   "en": "down-train (going away from Tokyo)"
+  },
+  {
+   "id": "n3-v-0834",
+   "expression": "経由",
+   "reading": "けいゆ",
+   "romaji": "keiyu",
+   "en": "go by the way, via"
+  },
+  {
+   "id": "n3-v-0852",
+   "expression": "券",
+   "reading": "けん",
+   "romaji": "ken",
+   "en": "ticket, certificate"
+  },
+  {
+   "id": "n3-v-0885",
+   "expression": "航空",
+   "reading": "こうくう",
+   "romaji": "koukuu",
+   "en": "aviation, flying"
+  },
+  {
+   "id": "n3-v-0897",
+   "expression": "高速",
+   "reading": "こうそく",
+   "romaji": "kousoku",
+   "en": "high speed, high gear"
+  },
+  {
+   "id": "n3-v-0948",
+   "expression": "転ぶ",
+   "reading": "ころぶ",
+   "romaji": "korobu",
+   "en": "to fall down, to fall over"
+  },
+  {
+   "id": "n3-v-0951",
+   "expression": "混雑",
+   "reading": "こんざつ",
+   "romaji": "konzatsu",
+   "en": "confusion, congestion"
+  },
+  {
+   "id": "n3-v-0990",
+   "expression": "座席",
+   "reading": "ざせき",
+   "romaji": "zaseki",
+   "en": "seat"
+  },
+  {
+   "id": "n3-v-1117",
+   "expression": "譲る",
+   "reading": "ゆずる",
+   "romaji": "yuzuru",
+   "en": "to turn over, to assign, to hand over"
+  },
+  {
+   "id": "n3-v-1136",
+   "expression": "横切る",
+   "reading": "よこぎる",
+   "romaji": "yokogiru",
+   "en": "to cross (e.g., arms), to traverse"
+  },
+  {
+   "id": "n3-v-1179",
+   "expression": "列車",
+   "reading": "れっしゃ",
+   "romaji": "ressha",
+   "en": "train (ordinary)"
+  },
+  {
+   "id": "n3-v-1231",
+   "expression": "遅れ",
+   "reading": "おくれ",
+   "romaji": "okure",
+   "en": "delay, lag"
+  },
+  {
+   "id": "n3-v-1323",
+   "expression": "速度",
+   "reading": "そくど",
+   "romaji": "sokudo",
+   "en": "speed, velocity, rate"
+  },
+  {
+   "id": "n3-v-1380",
+   "expression": "ダイヤ",
+   "reading": "ダイヤ",
+   "romaji": "daiya",
+   "en": "(railway) schedule; diamond"
+  },
+  {
+   "id": "n3-v-1463",
+   "expression": "遅刻",
+   "reading": "ちこく",
+   "romaji": "chikoku",
+   "en": "lateness, late coming"
+  },
+  {
+   "id": "n3-v-1495",
+   "expression": "通過",
+   "reading": "つうか",
+   "romaji": "tsuuka",
+   "en": "passage through, passing"
+  },
+  {
+   "id": "n3-v-1497",
+   "expression": "通学",
+   "reading": "つうがく",
+   "romaji": "tsuugaku",
+   "en": "commuting to school"
+  },
+  {
+   "id": "n3-v-1498",
+   "expression": "通勤",
+   "reading": "つうきん",
+   "romaji": "tsuukin",
+   "en": "commuting to work"
+  },
+  {
+   "id": "n3-v-1499",
+   "expression": "通行",
+   "reading": "つうこう",
+   "romaji": "tsuukou",
+   "en": "passage, passing"
+  },
+  {
+   "id": "n3-v-1508",
+   "expression": "次々",
+   "reading": "つぎつぎ",
+   "romaji": "tsugitsugi",
+   "en": "in succession, one by one"
+  },
+  {
+   "id": "n3-v-1546",
+   "expression": "停留所",
+   "reading": "ていりゅうじょ",
+   "romaji": "teiryuujo",
+   "en": "bus or tram stop"
+  },
+  {
+   "id": "n3-v-1561",
+   "expression": "鉄道",
+   "reading": "てつどう",
+   "romaji": "tetsudou",
+   "en": "railway; railroad"
+  },
+  {
+   "id": "n3-v-1582",
+   "expression": "到着",
+   "reading": "とうちゃく",
+   "romaji": "touchaku",
+   "en": "arrival"
+  },
+  {
+   "id": "n3-v-1589",
+   "expression": "道路",
+   "reading": "どうろ",
+   "romaji": "douro",
+   "en": "road"
+  },
+  {
+   "id": "n3-v-1591",
+   "expression": "通り過ぎる",
+   "reading": "とおりすぎる",
+   "romaji": "toorisugiru",
+   "en": "to pass, to pass through"
+  },
+  {
+   "id": "n3-v-1615",
+   "expression": "途端",
+   "reading": "とたん",
+   "romaji": "totan",
+   "en": "just (now, at the moment, etc.)"
+  },
+  {
+   "id": "n3-v-1617",
+   "expression": "突然",
+   "reading": "とつぜん",
+   "romaji": "totsuzen",
+   "en": "abruptly, suddenly, unexpectedly"
+  },
+  {
+   "id": "n3-v-1629",
+   "expression": "トラック",
+   "reading": "トラック",
+   "romaji": "torakku",
+   "en": "truck; (running) track"
+  },
+  {
+   "id": "n3-v-1641",
+   "expression": "トンネル",
+   "reading": "トンネル",
+   "romaji": "tonneru",
+   "en": "tunnel"
+  },
+  {
+   "id": "n3-v-1745",
+   "expression": "パイロット",
+   "reading": "パイロット",
+   "romaji": "pairotto",
+   "en": "pilot"
+  },
+  {
+   "id": "n3-v-1776",
+   "expression": "発車",
+   "reading": "はっしゃ",
+   "romaji": "hassha",
+   "en": "departure of a vehicle"
+  },
+  {
+   "id": "n3-v-1780",
+   "expression": "ばったり",
+   "reading": "ばったり",
+   "romaji": "battari",
+   "en": "(to meet) by chance"
+  },
+  {
+   "id": "n3-v-1815",
+   "expression": "飛行",
+   "reading": "ひこう",
+   "romaji": "hikou",
+   "en": "aviation, flight"
+  },
+  {
+   "id": "n3-v-1828",
+   "expression": "人込み",
+   "reading": "ひとごみ",
+   "romaji": "hitogomi",
+   "en": "crowd of people"
+  },
+  {
+   "id": "n3-v-1852",
+   "expression": "便",
+   "reading": "びん",
+   "romaji": "bin",
+   "en": "way, means; flight"
+  },
+  {
+   "id": "n3-v-1905",
+   "expression": "ブレーキ",
+   "reading": "ブレーキ",
+   "romaji": "bureeki",
+   "en": "a brake"
+  },
+  {
+   "id": "n3-v-1930",
+   "expression": "方向",
+   "reading": "ほうこう",
+   "romaji": "houkou",
+   "en": "direction, course, way"
+  },
+  {
+   "id": "n3-v-1941",
+   "expression": "ホーム",
+   "reading": "ホーム",
+   "romaji": "hoomu",
+   "en": "platform; home"
+  },
+  {
+   "id": "n3-v-1948",
+   "expression": "歩道",
+   "reading": "ほどう",
+   "romaji": "hodou",
+   "en": "walkway"
+  },
+  {
+   "id": "n3-v-2055",
+   "expression": "操縦",
+   "reading": "そうじゅう",
+   "romaji": "soujuu",
+   "en": "management, control, manipulation"
+  }
+ ]
+}

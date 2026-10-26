@@ -1,0 +1,422 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 31,
+  "slug": "tanoshii-dokoroka",
+  "title": {
+   "ja": "楽しいどころか",
+   "ta": "மகிழ்ச்சி என்பதற்கு மாறாக",
+   "en": "Far from fun"
+  },
+  "theme": {
+   "en": "Arts and entertainment: opinions on books, films, paintings and music.",
+   "ta": "கலையும் பொழுதுபோக்கும்: புத்தகங்கள், திரைப்படங்கள், ஓவியங்கள், இசை பற்றிய கருத்துகள்."
+  },
+  "grammar": [
+   {
+    "id": "g31-1",
+    "pattern": "〜どころか",
+    "en": "Far from ~ / let alone ~"
+   },
+   {
+    "id": "g31-2",
+    "pattern": "〜ても しかたがない",
+    "en": "It's no use ~ (pointless)"
+   },
+   {
+    "id": "g31-3",
+    "pattern": "別に 〜ない / 少しも 〜ない",
+    "en": "Not particularly / not at all"
+   },
+   {
+    "id": "g31-4",
+    "pattern": "どうやら 〜らしい / 〜ようだ",
+    "en": "It seems that ~ (judging from signs)"
+   },
+   {
+    "id": "g31-5",
+    "pattern": "おそらく 〜だろう",
+    "en": "Probably ~ (formal guess)"
+   }
+  ],
+  "vocabHints": [
+   "art and painting",
+   "music and songs",
+   "books, poems and stories",
+   "reviews and opinions"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0019",
+   "expression": "詩",
+   "reading": "し",
+   "romaji": "shi",
+   "en": "poem; poetry"
+  },
+  {
+   "id": "n3-v-0040",
+   "expression": "詩人",
+   "reading": "しじん",
+   "romaji": "shijin",
+   "en": "poet"
+  },
+  {
+   "id": "n3-v-0130",
+   "expression": "上",
+   "reading": "じょう",
+   "romaji": "jou",
+   "en": "first volume; superior quality; governmental"
+  },
+  {
+   "id": "n3-v-0175",
+   "expression": "書物",
+   "reading": "しょもつ",
+   "romaji": "shomotsu",
+   "en": "books"
+  },
+  {
+   "id": "n3-v-0227",
+   "expression": "少しも",
+   "reading": "すこしも",
+   "romaji": "sukoshimo",
+   "en": "anything of, not one bit"
+  },
+  {
+   "id": "n3-v-0249",
+   "expression": "刷る",
+   "reading": "する",
+   "romaji": "suru",
+   "en": "to print"
+  },
+  {
+   "id": "n3-v-0430",
+   "expression": "印刷",
+   "reading": "いんさつ",
+   "romaji": "insatsu",
+   "en": "printing"
+  },
+  {
+   "id": "n3-v-0474",
+   "expression": "描く",
+   "reading": "えがく",
+   "romaji": "egaku",
+   "en": "to draw, to depict, to describe"
+  },
+  {
+   "id": "n3-v-0485",
+   "expression": "演奏",
+   "reading": "えんそう",
+   "romaji": "ensou",
+   "en": "musical performance"
+  },
+  {
+   "id": "n3-v-0513",
+   "expression": "恐らく",
+   "reading": "おそらく",
+   "romaji": "osoraku",
+   "en": "perhaps"
+  },
+  {
+   "id": "n3-v-0540",
+   "expression": "音",
+   "reading": "おん",
+   "romaji": "on",
+   "en": "sound, note"
+  },
+  {
+   "id": "n3-v-0552",
+   "expression": "絵画",
+   "reading": "かいが",
+   "romaji": "kaiga",
+   "en": "picture, painting"
+  },
+  {
+   "id": "n3-v-0571",
+   "expression": "画家",
+   "reading": "がか",
+   "romaji": "gaka",
+   "en": "painter"
+  },
+  {
+   "id": "n3-v-0580",
+   "expression": "描く",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "to draw, to depict, to describe"
+  },
+  {
+   "id": "n3-v-0609",
+   "expression": "歌手",
+   "reading": "かしゅ",
+   "romaji": "kashu",
+   "en": "singer"
+  },
+  {
+   "id": "n3-v-0625",
+   "expression": "楽器",
+   "reading": "がっき",
+   "romaji": "gakki",
+   "en": "musical instrument"
+  },
+  {
+   "id": "n3-v-0642",
+   "expression": "上",
+   "reading": "かみ",
+   "romaji": "kami",
+   "en": "first volume; superior quality; governmental"
+  },
+  {
+   "id": "n3-v-0647",
+   "expression": "かもしれない",
+   "reading": "かもしれない",
+   "romaji": "kamoshirenai",
+   "en": "maybe, perhaps"
+  },
+  {
+   "id": "n3-v-0649",
+   "expression": "歌謡",
+   "reading": "かよう",
+   "romaji": "kayou",
+   "en": "song, ballad"
+  },
+  {
+   "id": "n3-v-0684",
+   "expression": "感想",
+   "reading": "かんそう",
+   "romaji": "kansou",
+   "en": "(one's) impressions, (one's) thoughts"
+  },
+  {
+   "id": "n3-v-0795",
+   "expression": "汲む",
+   "reading": "くむ",
+   "romaji": "kumu",
+   "en": "to draw, to scoop, to pump"
+  },
+  {
+   "id": "n3-v-0800",
+   "expression": "クラシック",
+   "reading": "クラシック",
+   "romaji": "kurashikku",
+   "en": "classic(s)"
+  },
+  {
+   "id": "n3-v-0832",
+   "expression": "芸術",
+   "reading": "げいじゅつ",
+   "romaji": "geijutsu",
+   "en": "(fine) art, the arts"
+  },
+  {
+   "id": "n3-v-0977",
+   "expression": "作品",
+   "reading": "さくひん",
+   "romaji": "sakuhin",
+   "en": "work, opus, production"
+  },
+  {
+   "id": "n3-v-0993",
+   "expression": "作家",
+   "reading": "さっか",
+   "romaji": "sakka",
+   "en": "author, writer, novelist"
+  },
+  {
+   "id": "n3-v-0994",
+   "expression": "作曲",
+   "reading": "さっきょく",
+   "romaji": "sakkyoku",
+   "en": "composition (of music)"
+  },
+  {
+   "id": "n3-v-1069",
+   "expression": "もしかすると",
+   "reading": "もしかすると",
+   "romaji": "moshikasuruto",
+   "en": "perhaps, maybe, by some chance"
+  },
+  {
+   "id": "n3-v-1083",
+   "expression": "物語",
+   "reading": "ものがたり",
+   "romaji": "monogatari",
+   "en": "tale, story, legend"
+  },
+  {
+   "id": "n3-v-1157",
+   "expression": "ライター",
+   "reading": "ライター",
+   "romaji": "raitaa",
+   "en": "lighter; writer"
+  },
+  {
+   "id": "n3-v-1255",
+   "expression": "季刊",
+   "reading": "きかん",
+   "romaji": "kikan",
+   "en": "quarterly (e.g., magazine)"
+  },
+  {
+   "id": "n3-v-1290",
+   "expression": "ことによると",
+   "reading": "ことによると",
+   "romaji": "kotoniyoruto",
+   "en": "(depending on the circumstances)"
+  },
+  {
+   "id": "n3-v-1319",
+   "expression": "想像",
+   "reading": "そうぞう",
+   "romaji": "souzou",
+   "en": "imagination, guess"
+  },
+  {
+   "id": "n3-v-1356",
+   "expression": "題",
+   "reading": "だい",
+   "romaji": "dai",
+   "en": "title, subject, theme"
+  },
+  {
+   "id": "n3-v-1379",
+   "expression": "題名",
+   "reading": "だいめい",
+   "romaji": "daimei",
+   "en": "title"
+  },
+  {
+   "id": "n3-v-1491",
+   "expression": "著者",
+   "reading": "ちょしゃ",
+   "romaji": "chosha",
+   "en": "author, writer"
+  },
+  {
+   "id": "n3-v-1518",
+   "expression": "続き",
+   "reading": "つづき",
+   "romaji": "tsuzuki",
+   "en": "sequel, continuation"
+  },
+  {
+   "id": "n3-v-1587",
+   "expression": "童謡",
+   "reading": "どうよう",
+   "romaji": "douyou",
+   "en": "children's song, nursery rhyme"
+  },
+  {
+   "id": "n3-v-1612",
+   "expression": "図書",
+   "reading": "としょ",
+   "romaji": "tosho",
+   "en": "books"
+  },
+  {
+   "id": "n3-v-1614",
+   "expression": "閉じる",
+   "reading": "とじる",
+   "romaji": "tojiru",
+   "en": "to close (e.g., book, eyes), to shut"
+  },
+  {
+   "id": "n3-v-1740",
+   "expression": "バイオリン",
+   "reading": "バイオリン",
+   "romaji": "baiorin",
+   "en": "violin"
+  },
+  {
+   "id": "n3-v-1832",
+   "expression": "批判",
+   "reading": "ひはん",
+   "romaji": "hihan",
+   "en": "criticism"
+  },
+  {
+   "id": "n3-v-1861",
+   "expression": "笛",
+   "reading": "ふえ",
+   "romaji": "fue",
+   "en": "flute, whistle"
+  },
+  {
+   "id": "n3-v-1871",
+   "expression": "節",
+   "reading": "ふし",
+   "romaji": "fushi",
+   "en": "tune, tone, knob"
+  },
+  {
+   "id": "n3-v-1917",
+   "expression": "別に",
+   "reading": "べつに",
+   "romaji": "betsuni",
+   "en": "(not) particularly, nothing"
+  },
+  {
+   "id": "n3-v-1922",
+   "expression": "ペンキ",
+   "reading": "ペンキ",
+   "romaji": "penki",
+   "en": "paint"
+  },
+  {
+   "id": "n3-v-2006",
+   "expression": "指揮",
+   "reading": "しき",
+   "romaji": "shiki",
+   "en": "command, direction"
+  },
+  {
+   "id": "n3-v-2056",
+   "expression": "創造",
+   "reading": "そうぞう",
+   "romaji": "souzou",
+   "en": "creation"
+  },
+  {
+   "id": "n3-v-2059",
+   "expression": "タイトル",
+   "reading": "タイトル",
+   "romaji": "taitoru",
+   "en": "title"
+  },
+  {
+   "id": "n3-v-2095",
+   "expression": "音",
+   "reading": "ね",
+   "romaji": "ne",
+   "en": "sound, note"
+  },
+  {
+   "id": "n3-v-2096",
+   "expression": "年鑑",
+   "reading": "ねんかん",
+   "romaji": "nenkan",
+   "en": "yearbook"
+  },
+  {
+   "id": "n3-v-2106",
+   "expression": "判",
+   "reading": "はん",
+   "romaji": "han",
+   "en": "size (of paper or books)"
+  },
+  {
+   "id": "n3-v-2121",
+   "expression": "膜",
+   "reading": "まく",
+   "romaji": "maku",
+   "en": "membrane, film"
+  },
+  {
+   "id": "n3-v-2127",
+   "expression": "捲る",
+   "reading": "めくる",
+   "romaji": "mekuru",
+   "en": "to turn over, to turn pages of a book"
+  }
+ ]
+}

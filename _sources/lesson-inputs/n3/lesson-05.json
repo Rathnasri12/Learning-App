@@ -1,0 +1,464 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 5,
+  "slug": "yarikake-no-kaji",
+  "title": {
+   "ja": "やりかけの家事",
+   "ta": "முடிக்காத வீட்டு வேலைகள்",
+   "en": "Unfinished housework"
+  },
+  "theme": {
+   "en": "Housework and cooking: half-done jobs, freshly made food, things left on, doing it again properly.",
+   "ta": "வீட்டு வேலையும் சமையலும்: பாதியில் நின்ற வேலைகள், புதிதாகச் செய்த உணவு, அணைக்காமல் விட்டவை, மீண்டும் சரியாகச் செய்வது."
+  },
+  "grammar": [
+   {
+    "id": "g05-1",
+    "pattern": "V-ます かける / V-ます かけの N",
+    "en": "Half-done, started but not finished"
+   },
+   {
+    "id": "g05-2",
+    "pattern": "V-ます きる / V-ます きれない",
+    "en": "Do completely / cannot finish"
+   },
+   {
+    "id": "g05-3",
+    "pattern": "V-ます たて",
+    "en": "Freshly done (焼きたて, 作りたて)"
+   },
+   {
+    "id": "g05-4",
+    "pattern": "V-ます っぱなし",
+    "en": "Left on / left undone (careless state)"
+   },
+   {
+    "id": "g05-5",
+    "pattern": "V-ます 直す",
+    "en": "Redo, do again properly"
+   }
+  ],
+  "vocabHints": [
+   "cooking and the kitchen",
+   "cleaning, laundry, tidying",
+   "food and ingredients",
+   "household items"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0003",
+   "expression": "冷ます",
+   "reading": "さます",
+   "romaji": "samasu",
+   "en": "to cool, to let cool"
+  },
+  {
+   "id": "n3-v-0005",
+   "expression": "冷める",
+   "reading": "さめる",
+   "romaji": "sameru",
+   "en": "to become cool, to wear off"
+  },
+  {
+   "id": "n3-v-0008",
+   "expression": "皿",
+   "reading": "さら",
+   "romaji": "sara",
+   "en": "plate, dish"
+  },
+  {
+   "id": "n3-v-0163",
+   "expression": "食卓",
+   "reading": "しょくたく",
+   "romaji": "shokutaku",
+   "en": "dining table"
+  },
+  {
+   "id": "n3-v-0166",
+   "expression": "食物",
+   "reading": "しょくもつ",
+   "romaji": "shokumotsu",
+   "en": "food, foodstuff"
+  },
+  {
+   "id": "n3-v-0167",
+   "expression": "食欲",
+   "reading": "しょくよく",
+   "romaji": "shokuyoku",
+   "en": "appetite (for food)"
+  },
+  {
+   "id": "n3-v-0168",
+   "expression": "食料",
+   "reading": "しょくりょう",
+   "romaji": "shokuryou",
+   "en": "food"
+  },
+  {
+   "id": "n3-v-0196",
+   "expression": "新鮮",
+   "reading": "しんせん",
+   "romaji": "shinsen",
+   "en": "fresh"
+  },
+  {
+   "id": "n3-v-0210",
+   "expression": "酢",
+   "reading": "す",
+   "romaji": "su",
+   "en": "vinegar"
+  },
+  {
+   "id": "n3-v-0218",
+   "expression": "スープ",
+   "reading": "スープ",
+   "romaji": "suupu",
+   "en": "(Western) soup"
+  },
+  {
+   "id": "n3-v-0265",
+   "expression": "清潔",
+   "reading": "せいけつ",
+   "romaji": "seiketsu",
+   "en": "clean"
+  },
+  {
+   "id": "n3-v-0314",
+   "expression": "揚げる",
+   "reading": "あげる",
+   "romaji": "ageru",
+   "en": "to lift, to fry"
+  },
+  {
+   "id": "n3-v-0320",
+   "expression": "温かい",
+   "reading": "あたたかい",
+   "romaji": "atatakai",
+   "en": "warm"
+  },
+  {
+   "id": "n3-v-0321",
+   "expression": "暖まる",
+   "reading": "あたたまる",
+   "romaji": "atatamaru",
+   "en": "to warm up"
+  },
+  {
+   "id": "n3-v-0324",
+   "expression": "温める",
+   "reading": "あたためる",
+   "romaji": "atatameru",
+   "en": "to warm, to heat"
+  },
+  {
+   "id": "n3-v-0599",
+   "expression": "籠",
+   "reading": "かご",
+   "romaji": "kago",
+   "en": "basket, cage"
+  },
+  {
+   "id": "n3-v-0659",
+   "expression": "乾かす",
+   "reading": "かわかす",
+   "romaji": "kawakasu",
+   "en": "to dry"
+  },
+  {
+   "id": "n3-v-0662",
+   "expression": "缶",
+   "reading": "かん",
+   "romaji": "kan",
+   "en": "can, tin"
+  },
+  {
+   "id": "n3-v-0804",
+   "expression": "クリーム",
+   "reading": "クリーム",
+   "romaji": "kuriimu",
+   "en": "cream"
+  },
+  {
+   "id": "n3-v-0910",
+   "expression": "凍る",
+   "reading": "こおる",
+   "romaji": "kooru",
+   "en": "to freeze, to be frozen over, to congeal"
+  },
+  {
+   "id": "n3-v-0922",
+   "expression": "穀物",
+   "reading": "こくもつ",
+   "romaji": "kokumotsu",
+   "en": "grain, cereal, corn"
+  },
+  {
+   "id": "n3-v-0924",
+   "expression": "胡椒",
+   "reading": "こしょう",
+   "romaji": "koshou",
+   "en": "pepper"
+  },
+  {
+   "id": "n3-v-0937",
+   "expression": "粉",
+   "reading": "こな",
+   "romaji": "kona",
+   "en": "flour, powder"
+  },
+  {
+   "id": "n3-v-0940",
+   "expression": "こぼす",
+   "reading": "こぼす",
+   "romaji": "kobosu",
+   "en": "to spill"
+  },
+  {
+   "id": "n3-v-0941",
+   "expression": "こぼれる",
+   "reading": "こぼれる",
+   "romaji": "koboreru",
+   "en": "to overflow, to spill"
+  },
+  {
+   "id": "n3-v-0943",
+   "expression": "小麦",
+   "reading": "こむぎ",
+   "romaji": "komugi",
+   "en": "wheat"
+  },
+  {
+   "id": "n3-v-0968",
+   "expression": "材料",
+   "reading": "ざいりょう",
+   "romaji": "zairyou",
+   "en": "ingredients, material"
+  },
+  {
+   "id": "n3-v-0973",
+   "expression": "盛り",
+   "reading": "さかり",
+   "romaji": "sakari",
+   "en": "helping, serving"
+  },
+  {
+   "id": "n3-v-1001",
+   "expression": "豆",
+   "reading": "まめ",
+   "romaji": "mame",
+   "en": "beans, peas"
+  },
+  {
+   "id": "n3-v-1026",
+   "expression": "ミルク",
+   "reading": "ミルク",
+   "romaji": "miruku",
+   "en": "milk"
+  },
+  {
+   "id": "n3-v-1031",
+   "expression": "剥く",
+   "reading": "むく",
+   "romaji": "muku",
+   "en": "to peel, to skin"
+  },
+  {
+   "id": "n3-v-1037",
+   "expression": "蒸す",
+   "reading": "むす",
+   "romaji": "musu",
+   "en": "to steam, to poultice, to be sultry"
+  },
+  {
+   "id": "n3-v-1052",
+   "expression": "飯",
+   "reading": "めし",
+   "romaji": "meshi",
+   "en": "meals, food"
+  },
+  {
+   "id": "n3-v-1119",
+   "expression": "茹でる",
+   "reading": "ゆでる",
+   "romaji": "yuderu",
+   "en": "to boil"
+  },
+  {
+   "id": "n3-v-1125",
+   "expression": "容器",
+   "reading": "ようき",
+   "romaji": "youki",
+   "en": "container, vessel"
+  },
+  {
+   "id": "n3-v-1137",
+   "expression": "汚す",
+   "reading": "よごす",
+   "romaji": "yogosu",
+   "en": "to pollute, to make dirty"
+  },
+  {
+   "id": "n3-v-1195",
+   "expression": "湧く",
+   "reading": "わく",
+   "romaji": "waku",
+   "en": "to boil, to grow hot"
+  },
+  {
+   "id": "n3-v-1221",
+   "expression": "炒める",
+   "reading": "いためる",
+   "romaji": "itameru",
+   "en": "to stir-fry"
+  },
+  {
+   "id": "n3-v-1244",
+   "expression": "加味",
+   "reading": "かみ",
+   "romaji": "kami",
+   "en": "seasoning, flavoring"
+  },
+  {
+   "id": "n3-v-1305",
+   "expression": "洗剤",
+   "reading": "せんざい",
+   "romaji": "senzai",
+   "en": "detergent"
+  },
+  {
+   "id": "n3-v-1328",
+   "expression": "注ぐ",
+   "reading": "そそぐ",
+   "romaji": "sosogu",
+   "en": "to pour (into)"
+  },
+  {
+   "id": "n3-v-1337",
+   "expression": "そのまま",
+   "reading": "そのまま",
+   "romaji": "sonomama",
+   "en": "without change, as it is (e.g., now)"
+  },
+  {
+   "id": "n3-v-1338",
+   "expression": "蕎麦",
+   "reading": "そば",
+   "romaji": "soba",
+   "en": "soba (buckwheat noodles)"
+  },
+  {
+   "id": "n3-v-1386",
+   "expression": "タオル",
+   "reading": "タオル",
+   "romaji": "taoru",
+   "en": "(hand) towel"
+  },
+  {
+   "id": "n3-v-1392",
+   "expression": "炊く",
+   "reading": "たく",
+   "romaji": "taku",
+   "en": "to boil, to cook"
+  },
+  {
+   "id": "n3-v-1408",
+   "expression": "畳む",
+   "reading": "たたむ",
+   "romaji": "tatamu",
+   "en": "to fold (clothes)"
+  },
+  {
+   "id": "n3-v-1454",
+   "expression": "チーズ",
+   "reading": "チーズ",
+   "romaji": "chiizu",
+   "en": "cheese"
+  },
+  {
+   "id": "n3-v-1664",
+   "expression": "生",
+   "reading": "なま",
+   "romaji": "nama",
+   "en": "raw, unprocessed"
+  },
+  {
+   "id": "n3-v-1678",
+   "expression": "煮える",
+   "reading": "にえる",
+   "romaji": "nieru",
+   "en": "to boil, to cook, to be cooked"
+  },
+  {
+   "id": "n3-v-1689",
+   "expression": "煮る",
+   "reading": "にる",
+   "romaji": "niru",
+   "en": "to boil, to cook"
+  },
+  {
+   "id": "n3-v-1760",
+   "expression": "はさみ",
+   "reading": "はさみ",
+   "romaji": "hasami",
+   "en": "scissors"
+  },
+  {
+   "id": "n3-v-1837",
+   "expression": "冷やす",
+   "reading": "ひやす",
+   "romaji": "hiyasu",
+   "en": "to cool, to refrigerate"
+  },
+  {
+   "id": "n3-v-1865",
+   "expression": "拭く",
+   "reading": "ふく",
+   "romaji": "fuku",
+   "en": "to wipe, to dry"
+  },
+  {
+   "id": "n3-v-1977",
+   "expression": "混ざる",
+   "reading": "まざる",
+   "romaji": "mazaru",
+   "en": "to be mixed, to mingle with"
+  },
+  {
+   "id": "n3-v-1978",
+   "expression": "交ざる",
+   "reading": "まざる",
+   "romaji": "mazaru",
+   "en": "to be mixed, to mingle with"
+  },
+  {
+   "id": "n3-v-1979",
+   "expression": "混じる",
+   "reading": "まじる",
+   "romaji": "majiru",
+   "en": "to be mixed, to mingle with"
+  },
+  {
+   "id": "n3-v-1980",
+   "expression": "交じる",
+   "reading": "まじる",
+   "romaji": "majiru",
+   "en": "to be mixed, to mingle with"
+  },
+  {
+   "id": "n3-v-1985",
+   "expression": "混ぜる",
+   "reading": "まぜる",
+   "romaji": "mazeru",
+   "en": "to mix, to stir"
+  },
+  {
+   "id": "n3-v-1986",
+   "expression": "交ぜる",
+   "reading": "まぜる",
+   "romaji": "mazeru",
+   "en": "to be mixed, to be blended with"
+  }
+ ]
+}

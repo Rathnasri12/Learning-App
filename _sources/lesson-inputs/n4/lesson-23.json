@@ -1,0 +1,191 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 23,
+  "slug": "you-na",
+  "title": {
+   "ja": "日本は私の国ほど暑くないです",
+   "ta": "ஜப்பான் என் நாட்டைப் போல் சூடாக இல்லை",
+   "en": "Japan isn't as hot as my country"
+  },
+  "theme": {
+   "en": "Comparing countries and cultures: customs, the West and Asia, men and women.",
+   "ta": "நாடுகளையும் கலாச்சாரங்களையும் ஒப்பிடுவது: பழக்கவழக்கங்கள், மேற்கும் ஆசியாவும், ஆண்களும் பெண்களும்."
+  },
+  "grammar": [
+   {
+    "id": "g23-1",
+    "pattern": "N のような N / N のように V",
+    "en": "Like N, such as N (comparison and example)"
+   },
+   {
+    "id": "g23-2",
+    "pattern": "N1 は N2 ほど 〜ない",
+    "en": "N1 is not as … as N2"
+   },
+   {
+    "id": "g23-3",
+    "pattern": "N1 と 同じ / N1 と 違います",
+    "en": "The same as / different from N1"
+   },
+   {
+    "id": "g23-4",
+    "pattern": "〜とか、〜とか",
+    "en": "Things like … and … (casual listing)"
+   },
+   {
+    "id": "g23-5",
+    "pattern": "N が します (音・におい・味・声)",
+    "en": "There is a sound / smell / taste / voice; I sense …"
+   }
+  ],
+  "vocabHints": [
+   "world: Asia, Africa, America, the West, international",
+   "culture and customs",
+   "comparing: compare, resemble, ordinary, most",
+   "for example, to that degree"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-038",
+   "expression": "別",
+   "reading": "べつ",
+   "romaji": "betsu",
+   "en": "distinction, different"
+  },
+  {
+   "id": "n4-v-045",
+   "expression": "比べる",
+   "reading": "くらべる",
+   "romaji": "kuraberu",
+   "en": "to compare"
+  },
+  {
+   "id": "n4-v-059",
+   "expression": "アフリカ",
+   "reading": "アフリカ",
+   "romaji": "afurika",
+   "en": "Africa"
+  },
+  {
+   "id": "n4-v-115",
+   "expression": "西洋",
+   "reading": "せいよう",
+   "romaji": "seiyou",
+   "en": "the West, Western countries"
+  },
+  {
+   "id": "n4-v-172",
+   "expression": "世界",
+   "reading": "せかい",
+   "romaji": "sekai",
+   "en": "world"
+  },
+  {
+   "id": "n4-v-353",
+   "expression": "アメリカ",
+   "reading": "アメリカ",
+   "romaji": "amerika",
+   "en": "America, U.S.A."
+  },
+  {
+   "id": "n4-v-354",
+   "expression": "男性",
+   "reading": "だんせい",
+   "romaji": "dansei",
+   "en": "man; male"
+  },
+  {
+   "id": "n4-v-367",
+   "expression": "女性",
+   "reading": "じょせい",
+   "romaji": "josei",
+   "en": "woman"
+  },
+  {
+   "id": "n4-v-370",
+   "expression": "国際",
+   "reading": "こくさい",
+   "romaji": "kokusai",
+   "en": "international"
+  },
+  {
+   "id": "n4-v-384",
+   "expression": "例えば",
+   "reading": "たとえば",
+   "romaji": "tatoeba",
+   "en": "for example, e.g."
+  },
+  {
+   "id": "n4-v-386",
+   "expression": "随分",
+   "reading": "ずいぶん",
+   "romaji": "zuibun",
+   "en": "extremely"
+  },
+  {
+   "id": "n4-v-439",
+   "expression": "それほど",
+   "reading": "それほど",
+   "romaji": "sorehodo",
+   "en": "to that degree; extent"
+  },
+  {
+   "id": "n4-v-484",
+   "expression": "似る",
+   "reading": "にる",
+   "romaji": "niru",
+   "en": "to resemble, to be similar"
+  },
+  {
+   "id": "n4-v-491",
+   "expression": "普通",
+   "reading": "ふつう",
+   "romaji": "futsuu",
+   "en": "common; usual"
+  },
+  {
+   "id": "n4-v-508",
+   "expression": "アジア",
+   "reading": "アジア",
+   "romaji": "ajia",
+   "en": "Asia"
+  },
+  {
+   "id": "n4-v-512",
+   "expression": "最も",
+   "reading": "もっとも",
+   "romaji": "mottomo",
+   "en": "most"
+  },
+  {
+   "id": "n4-v-527",
+   "expression": "様",
+   "reading": "よう",
+   "romaji": "you",
+   "en": "way, manner, kind"
+  },
+  {
+   "id": "n4-v-543",
+   "expression": "文化",
+   "reading": "ぶんか",
+   "romaji": "bunka",
+   "en": "culture"
+  },
+  {
+   "id": "n4-v-545",
+   "expression": "習慣",
+   "reading": "しゅうかん",
+   "romaji": "shuukan",
+   "en": "custom (in reference to culture)"
+  },
+  {
+   "id": "n4-v-575",
+   "expression": "程",
+   "reading": "ほど",
+   "romaji": "hodo",
+   "en": "degree, extent"
+  }
+ ]
+}

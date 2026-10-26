@@ -1,0 +1,456 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 8,
+  "slug": "fueru-ippou",
+  "title": {
+   "ja": "増える一方だ",
+   "ta": "தொடர்ந்து அதிகரித்துக்கொண்டே இருக்கிறது",
+   "en": "It just keeps rising"
+  },
+  "theme": {
+   "en": "A changing society: technology, population and prices over time.",
+   "ta": "மாறிவரும் சமூகம்: தொழில்நுட்பம், மக்கள்தொகை, விலைகள் காலப்போக்கில்."
+  },
+  "grammar": [
+   {
+    "id": "g08-1",
+    "pattern": "V-る 一方だ",
+    "en": "Keeps on ~ (one-way change, often bad)"
+   },
+   {
+    "id": "g08-2",
+    "pattern": "N / V-る と 共に",
+    "en": "Together with / as ~ changes"
+   },
+   {
+    "id": "g08-3",
+    "pattern": "V-る / N に つれて",
+    "en": "As ~, (gradually) ~"
+   },
+   {
+    "id": "g08-4",
+    "pattern": "V-る / N に したがって",
+    "en": "As ~ / in accordance with ~"
+   },
+   {
+    "id": "g08-5",
+    "pattern": "V-る / N に 伴って",
+    "en": "Along with ~ (formal)"
+   }
+  ],
+  "vocabHints": [
+   "change verbs: increase, decrease, spread, rise",
+   "technology and machines",
+   "development and progress"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0066",
+   "expression": "自動",
+   "reading": "じどう",
+   "romaji": "jidou",
+   "en": "automatic, self-motion"
+  },
+  {
+   "id": "n3-v-0145",
+   "expression": "上達",
+   "reading": "じょうたつ",
+   "romaji": "joutatsu",
+   "en": "improvement, advance"
+  },
+  {
+   "id": "n3-v-0173",
+   "expression": "徐々に",
+   "reading": "じょじょに",
+   "romaji": "jojoni",
+   "en": "slowly, little by little"
+  },
+  {
+   "id": "n3-v-0203",
+   "expression": "進歩",
+   "reading": "しんぽ",
+   "romaji": "shinpo",
+   "en": "improvement, progress, development"
+  },
+  {
+   "id": "n3-v-0214",
+   "expression": "スイッチ",
+   "reading": "スイッチ",
+   "romaji": "suitchi",
+   "en": "switch"
+  },
+  {
+   "id": "n3-v-0230",
+   "expression": "進める",
+   "reading": "すすめる",
+   "romaji": "susumeru",
+   "en": "to advance, to promote, to hasten"
+  },
+  {
+   "id": "n3-v-0276",
+   "expression": "成長",
+   "reading": "せいちょう",
+   "romaji": "seichou",
+   "en": "growth"
+  },
+  {
+   "id": "n3-v-0340",
+   "expression": "新た",
+   "reading": "あらた",
+   "romaji": "arata",
+   "en": "new, fresh"
+  },
+  {
+   "id": "n3-v-0471",
+   "expression": "衛星",
+   "reading": "えいせい",
+   "romaji": "eisei",
+   "en": "satellite"
+  },
+  {
+   "id": "n3-v-0477",
+   "expression": "得る",
+   "reading": "える",
+   "romaji": "eru",
+   "en": "to get, to gain, to win, to learn"
+  },
+  {
+   "id": "n3-v-0478",
+   "expression": "得る",
+   "reading": "うる",
+   "romaji": "uru",
+   "en": "to get, to gain, to win"
+  },
+  {
+   "id": "n3-v-0537",
+   "expression": "下す",
+   "reading": "おろす",
+   "romaji": "orosu",
+   "en": "to lower, to let go down"
+  },
+  {
+   "id": "n3-v-0561",
+   "expression": "改善",
+   "reading": "かいぜん",
+   "romaji": "kaizen",
+   "en": "betterment, improvement"
+  },
+  {
+   "id": "n3-v-0590",
+   "expression": "拡大",
+   "reading": "かくだい",
+   "romaji": "kakudai",
+   "en": "magnification, enlargement"
+  },
+  {
+   "id": "n3-v-0693",
+   "expression": "機械",
+   "reading": "きかい",
+   "romaji": "kikai",
+   "en": "machine, machinery"
+  },
+  {
+   "id": "n3-v-0697",
+   "expression": "機関",
+   "reading": "きかん",
+   "romaji": "kikan",
+   "en": "engine; institution, organization"
+  },
+  {
+   "id": "n3-v-0774",
+   "expression": "近代",
+   "reading": "きんだい",
+   "romaji": "kindai",
+   "en": "modern times"
+  },
+  {
+   "id": "n3-v-0827",
+   "expression": "傾向",
+   "reading": "けいこう",
+   "romaji": "keikou",
+   "en": "tendency, trend, inclination"
+  },
+  {
+   "id": "n3-v-0865",
+   "expression": "現代",
+   "reading": "げんだい",
+   "romaji": "gendai",
+   "en": "today, present-day"
+  },
+  {
+   "id": "n3-v-1071",
+   "expression": "持ち上げる",
+   "reading": "もちあげる",
+   "romaji": "mochiageru",
+   "en": "to raise, to lift up, to flatter"
+  },
+  {
+   "id": "n3-v-1185",
+   "expression": "ロケット",
+   "reading": "ロケット",
+   "romaji": "roketto",
+   "en": "locket, rocket"
+  },
+  {
+   "id": "n3-v-1223",
+   "expression": "異動",
+   "reading": "いどう",
+   "romaji": "idou",
+   "en": "a change, transfer"
+  },
+  {
+   "id": "n3-v-1273",
+   "expression": "携帯",
+   "reading": "けいたい",
+   "romaji": "keitai",
+   "en": "carrying something; mobile telephone"
+  },
+  {
+   "id": "n3-v-1278",
+   "expression": "減少",
+   "reading": "げんしょう",
+   "romaji": "genshou",
+   "en": "decrease, reduction, decline"
+  },
+  {
+   "id": "n3-v-1310",
+   "expression": "前進",
+   "reading": "ぜんしん",
+   "romaji": "zenshin",
+   "en": "advance, drive, progress"
+  },
+  {
+   "id": "n3-v-1317",
+   "expression": "増加",
+   "reading": "ぞうか",
+   "romaji": "zouka",
+   "en": "increase, addition"
+  },
+  {
+   "id": "n3-v-1377",
+   "expression": "タイプライター",
+   "reading": "タイプライター",
+   "romaji": "taipuraitaa",
+   "en": "typewriter"
+  },
+  {
+   "id": "n3-v-1389",
+   "expression": "高める",
+   "reading": "たかめる",
+   "romaji": "takameru",
+   "en": "to raise, to lift, to boost"
+  },
+  {
+   "id": "n3-v-1460",
+   "expression": "近頃",
+   "reading": "ちかごろ",
+   "romaji": "chikagoro",
+   "en": "lately, recently, nowadays"
+  },
+  {
+   "id": "n3-v-1567",
+   "expression": "電子",
+   "reading": "でんし",
+   "romaji": "denshi",
+   "en": "electron; electronic"
+  },
+  {
+   "id": "n3-v-1626",
+   "expression": "共に",
+   "reading": "ともに",
+   "romaji": "tomoni",
+   "en": "sharing with, participate in"
+  },
+  {
+   "id": "n3-v-1670",
+   "expression": "為る",
+   "reading": "なる",
+   "romaji": "naru",
+   "en": "to change, to be of use, to reach to"
+  },
+  {
+   "id": "n3-v-1728",
+   "expression": "伸びる",
+   "reading": "のびる",
+   "romaji": "nobiru",
+   "en": "to extend, to make progress, to grow"
+  },
+  {
+   "id": "n3-v-1779",
+   "expression": "発達",
+   "reading": "はったつ",
+   "romaji": "hattatsu",
+   "en": "development, growth"
+  },
+  {
+   "id": "n3-v-1781",
+   "expression": "発展",
+   "reading": "はってん",
+   "romaji": "hatten",
+   "en": "development, growth, progress"
+  },
+  {
+   "id": "n3-v-1783",
+   "expression": "発明",
+   "reading": "はつめい",
+   "romaji": "hatsumei",
+   "en": "invention"
+  },
+  {
+   "id": "n3-v-1826",
+   "expression": "ビデオ",
+   "reading": "ビデオ",
+   "romaji": "bideo",
+   "en": "video tape; VCR"
+  },
+  {
+   "id": "n3-v-1847",
+   "expression": "広がる",
+   "reading": "ひろがる",
+   "romaji": "hirogaru",
+   "en": "to spread (out), to extend, to stretch, to reach to, to get around"
+  },
+  {
+   "id": "n3-v-1848",
+   "expression": "広げる",
+   "reading": "ひろげる",
+   "romaji": "hirogeru",
+   "en": "to spread, to extend, to expand, to enlarge"
+  },
+  {
+   "id": "n3-v-1849",
+   "expression": "広める",
+   "reading": "ひろめる",
+   "romaji": "hiromeru",
+   "en": "to broaden, to propagate"
+  },
+  {
+   "id": "n3-v-1863",
+   "expression": "深まる",
+   "reading": "ふかまる",
+   "romaji": "fukamaru",
+   "en": "to deepen"
+  },
+  {
+   "id": "n3-v-1897",
+   "expression": "増やす",
+   "reading": "ふやす",
+   "romaji": "fuyasu",
+   "en": "to increase (v.t.), to add to"
+  },
+  {
+   "id": "n3-v-1898",
+   "expression": "殖やす",
+   "reading": "ふやす",
+   "romaji": "fuyasu",
+   "en": "to increase, to add to"
+  },
+  {
+   "id": "n3-v-1918",
+   "expression": "減らす",
+   "reading": "へらす",
+   "romaji": "herasu",
+   "en": "to decrease, to diminish"
+  },
+  {
+   "id": "n3-v-1919",
+   "expression": "減る",
+   "reading": "へる",
+   "romaji": "heru",
+   "en": "to decrease (in size or number), to diminish"
+  },
+  {
+   "id": "n3-v-1921",
+   "expression": "変化",
+   "reading": "へんか",
+   "romaji": "henka",
+   "en": "change, variation, shift"
+  },
+  {
+   "id": "n3-v-1981",
+   "expression": "増す",
+   "reading": "ます",
+   "romaji": "masu",
+   "en": "to increase, to gain"
+  },
+  {
+   "id": "n3-v-1984",
+   "expression": "ますます",
+   "reading": "ますます",
+   "romaji": "masumasu",
+   "en": "increasingly (same as もっと), more and more"
+  },
+  {
+   "id": "n3-v-2028",
+   "expression": "進行",
+   "reading": "しんこう",
+   "romaji": "shinkou",
+   "en": "advance"
+  },
+  {
+   "id": "n3-v-2029",
+   "expression": "新興",
+   "reading": "しんこう",
+   "romaji": "shinkou",
+   "en": "rising, developing, emergent"
+  },
+  {
+   "id": "n3-v-2061",
+   "expression": "高まる",
+   "reading": "たかまる",
+   "romaji": "takamaru",
+   "en": "to rise; to grow; to mount (v.i.)"
+  },
+  {
+   "id": "n3-v-2073",
+   "expression": "強まる",
+   "reading": "つよまる",
+   "romaji": "tsuyomaru",
+   "en": "to get strong, to gain strength"
+  },
+  {
+   "id": "n3-v-2074",
+   "expression": "強める",
+   "reading": "つよめる",
+   "romaji": "tsuyomeru",
+   "en": "to strengthen, to emphasize"
+  },
+  {
+   "id": "n3-v-2075",
+   "expression": "データ",
+   "reading": "データ",
+   "romaji": "deeta",
+   "en": "data"
+  },
+  {
+   "id": "n3-v-2111",
+   "expression": "広まる",
+   "reading": "ひろまる",
+   "romaji": "hiromaru",
+   "en": "to spread, to be propagated"
+  },
+  {
+   "id": "n3-v-2112",
+   "expression": "深める",
+   "reading": "ふかめる",
+   "romaji": "fukameru",
+   "en": "to deepen, to heighten, to intensify"
+  },
+  {
+   "id": "n3-v-2135",
+   "expression": "弱まる",
+   "reading": "よわまる",
+   "romaji": "yowamaru",
+   "en": "to weaken, to be emaciated, to be dejected"
+  },
+  {
+   "id": "n3-v-2136",
+   "expression": "弱める",
+   "reading": "よわめる",
+   "romaji": "yowameru",
+   "en": "to weaken"
+  }
+ ]
+}

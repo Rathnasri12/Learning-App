@@ -1,0 +1,378 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 38,
+  "slug": "kansha-wo-komete",
+  "title": {
+   "ja": "感謝をこめて",
+   "ta": "நன்றியுடன்",
+   "en": "With gratitude"
+  },
+  "theme": {
+   "en": "Ceremonies and events: celebrations, speeches, gifts and opportunities.",
+   "ta": "விழாக்களும் நிகழ்வுகளும்: கொண்டாட்டங்கள், உரைகள், பரிசுகள், வாய்ப்புகள்."
+  },
+  "grammar": [
+   {
+    "id": "g38-1",
+    "pattern": "N を はじめ(として)",
+    "en": "Starting with N / including N"
+   },
+   {
+    "id": "g38-2",
+    "pattern": "N を きっかけに",
+    "en": "Taking N as a chance / triggered by N"
+   },
+   {
+    "id": "g38-3",
+    "pattern": "N を こめて",
+    "en": "With (a feeling) put into it"
+   },
+   {
+    "id": "g38-4",
+    "pattern": "N に 代わって / N に 代わり",
+    "en": "In place of N / on behalf of N"
+   },
+   {
+    "id": "g38-5",
+    "pattern": "N に おいて / N に おける N",
+    "en": "In / at N (formal place or field)"
+   },
+   {
+    "id": "g38-6",
+    "pattern": "V-よう では ないか / V-よう じゃ ないか",
+    "en": "Let's ~ (rallying call in speeches)"
+   }
+  ],
+  "vocabHints": [
+   "ceremonies and celebrations",
+   "speeches and representatives",
+   "gifts and thanks",
+   "opportunities and turning points"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0119",
+   "expression": "主要",
+   "reading": "しゅよう",
+   "romaji": "shuyou",
+   "en": "chief, main"
+  },
+  {
+   "id": "n3-v-0241",
+   "expression": "スピーチ",
+   "reading": "スピーチ",
+   "romaji": "supiichi",
+   "en": "speech"
+  },
+  {
+   "id": "n3-v-0302",
+   "expression": "相手",
+   "reading": "あいて",
+   "romaji": "aite",
+   "en": "partner; addressee; the person you are talking to"
+  },
+  {
+   "id": "n3-v-0311",
+   "expression": "握手",
+   "reading": "あくしゅ",
+   "romaji": "akushu",
+   "en": "handshake"
+  },
+  {
+   "id": "n3-v-0317",
+   "expression": "預ける",
+   "reading": "あずける",
+   "romaji": "azukeru",
+   "en": "to give into custody, to deposit"
+  },
+  {
+   "id": "n3-v-0319",
+   "expression": "与える",
+   "reading": "あたえる",
+   "romaji": "ataeru",
+   "en": "to give"
+  },
+  {
+   "id": "n3-v-0439",
+   "expression": "受け取る",
+   "reading": "うけとる",
+   "romaji": "uketoru",
+   "en": "to receive, to get, to accept"
+  },
+  {
+   "id": "n3-v-0468",
+   "expression": "永久",
+   "reading": "えいきゅう",
+   "romaji": "eikyuu",
+   "en": "eternity, perpetuity, immortality"
+  },
+  {
+   "id": "n3-v-0482",
+   "expression": "援助",
+   "reading": "えんじょ",
+   "romaji": "enjo",
+   "en": "assistance, aid, support"
+  },
+  {
+   "id": "n3-v-0484",
+   "expression": "演説",
+   "reading": "えんぜつ",
+   "romaji": "enzetsu",
+   "en": "speech, address"
+  },
+  {
+   "id": "n3-v-0490",
+   "expression": "応援",
+   "reading": "おうえん",
+   "romaji": "ouen",
+   "en": "aid, assistance, help"
+  },
+  {
+   "id": "n3-v-0502",
+   "expression": "贈る",
+   "reading": "おくる",
+   "romaji": "okuru",
+   "en": "to present, to give to, to award to"
+  },
+  {
+   "id": "n3-v-0558",
+   "expression": "開始",
+   "reading": "かいし",
+   "romaji": "kaishi",
+   "en": "start, commencement, beginning"
+  },
+  {
+   "id": "n3-v-0604",
+   "expression": "飾り",
+   "reading": "かざり",
+   "romaji": "kazari",
+   "en": "decoration"
+  },
+  {
+   "id": "n3-v-0661",
+   "expression": "代る",
+   "reading": "かわる",
+   "romaji": "kawaru",
+   "en": "to take the place of, to relieve, to be substituted for"
+  },
+  {
+   "id": "n3-v-0669",
+   "expression": "歓迎",
+   "reading": "かんげい",
+   "romaji": "kangei",
+   "en": "welcome, reception"
+  },
+  {
+   "id": "n3-v-0673",
+   "expression": "感謝",
+   "reading": "かんしゃ",
+   "romaji": "kansha",
+   "en": "thanks, gratitude"
+  },
+  {
+   "id": "n3-v-0719",
+   "expression": "記念",
+   "reading": "きねん",
+   "romaji": "kinen",
+   "en": "commemoration, memory"
+  },
+  {
+   "id": "n3-v-0722",
+   "expression": "寄付",
+   "reading": "きふ",
+   "romaji": "kifu",
+   "en": "contribution, donation"
+  },
+  {
+   "id": "n3-v-0780",
+   "expression": "偶然",
+   "reading": "ぐうぜん",
+   "romaji": "guuzen",
+   "en": "(by) chance, unexpectedly"
+  },
+  {
+   "id": "n3-v-0803",
+   "expression": "グランド",
+   "reading": "グランド",
+   "romaji": "gurando",
+   "en": "gland, grand, (electrical) ground"
+  },
+  {
+   "id": "n3-v-0878",
+   "expression": "講演",
+   "reading": "こうえん",
+   "romaji": "kouen",
+   "en": "lecture, talk"
+  },
+  {
+   "id": "n3-v-0889",
+   "expression": "貢献",
+   "reading": "こうけん",
+   "romaji": "kouken",
+   "en": "contribution, services"
+  },
+  {
+   "id": "n3-v-0963",
+   "expression": "最終",
+   "reading": "さいしゅう",
+   "romaji": "saishuu",
+   "en": "last, closing"
+  },
+  {
+   "id": "n3-v-0983",
+   "expression": "支える",
+   "reading": "ささえる",
+   "romaji": "sasaeru",
+   "en": "support, hold, sustain"
+  },
+  {
+   "id": "n3-v-1012",
+   "expression": "味方",
+   "reading": "みかた",
+   "romaji": "mikata",
+   "en": "ally, supporter"
+  },
+  {
+   "id": "n3-v-1182",
+   "expression": "連続",
+   "reading": "れんぞく",
+   "romaji": "renzoku",
+   "en": "consecutive, continuity, continuing"
+  },
+  {
+   "id": "n3-v-1189",
+   "expression": "輪",
+   "reading": "わ",
+   "romaji": "wa",
+   "en": "ring, hoop, circle"
+  },
+  {
+   "id": "n3-v-1211",
+   "expression": "宛てる",
+   "reading": "あてる",
+   "romaji": "ateru",
+   "en": "to address, to put"
+  },
+  {
+   "id": "n3-v-1225",
+   "expression": "渦",
+   "reading": "うず",
+   "romaji": "uzu",
+   "en": "swirl"
+  },
+  {
+   "id": "n3-v-1228",
+   "expression": "縁",
+   "reading": "えん",
+   "romaji": "en",
+   "en": "chance, tie, relationship"
+  },
+  {
+   "id": "n3-v-1272",
+   "expression": "契機",
+   "reading": "けいき",
+   "romaji": "keiki",
+   "en": "opportunity, chance"
+  },
+  {
+   "id": "n3-v-1311",
+   "expression": "センター",
+   "reading": "センター",
+   "romaji": "sentaa",
+   "en": "center"
+  },
+  {
+   "id": "n3-v-1359",
+   "expression": "大会",
+   "reading": "たいかい",
+   "romaji": "taikai",
+   "en": "convention, (big) tournament, mass meeting"
+  },
+  {
+   "id": "n3-v-1375",
+   "expression": "代表",
+   "reading": "だいひょう",
+   "romaji": "daihyou",
+   "en": "representative, delegation"
+  },
+  {
+   "id": "n3-v-1421",
+   "expression": "束",
+   "reading": "たば",
+   "romaji": "taba",
+   "en": "bunch, bundle"
+  },
+  {
+   "id": "n3-v-1471",
+   "expression": "チャンス",
+   "reading": "チャンス",
+   "romaji": "chansu",
+   "en": "chance, opportunity"
+  },
+  {
+   "id": "n3-v-1519",
+   "expression": "包み",
+   "reading": "つつみ",
+   "romaji": "tsutsumi",
+   "en": "bundle, package"
+  },
+  {
+   "id": "n3-v-1539",
+   "expression": "出会う",
+   "reading": "であう",
+   "romaji": "deau",
+   "en": "to meet by chance, to come across, to happen to encounter"
+  },
+  {
+   "id": "n3-v-1543",
+   "expression": "提出",
+   "reading": "ていしゅつ",
+   "romaji": "teishutsu",
+   "en": "presentation, submission, filing"
+  },
+  {
+   "id": "n3-v-1717",
+   "expression": "残り",
+   "reading": "のこり",
+   "romaji": "nokori",
+   "en": "remaining, left-over"
+  },
+  {
+   "id": "n3-v-1910",
+   "expression": "雰囲気",
+   "reading": "ふんいき",
+   "romaji": "fun'iki",
+   "en": "atmosphere (e.g., musical), mood, ambiance"
+  },
+  {
+   "id": "n3-v-1937",
+   "expression": "訪問",
+   "reading": "ほうもん",
+   "romaji": "houmon",
+   "en": "call, visit"
+  },
+  {
+   "id": "n3-v-1997",
+   "expression": "招く",
+   "reading": "まねく",
+   "romaji": "maneku",
+   "en": "to invite"
+  },
+  {
+   "id": "n3-v-2098",
+   "expression": "臨む",
+   "reading": "のぞむ",
+   "romaji": "nozomu",
+   "en": "to look out on, to face, to attend (function)"
+  },
+  {
+   "id": "n3-v-2105",
+   "expression": "班",
+   "reading": "はん",
+   "romaji": "han",
+   "en": "group, party, section (mil)"
+  }
+ ]
+}

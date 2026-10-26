@@ -1,0 +1,368 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 27,
+  "slug": "ki-ni-suru-koto-wa-nai",
+  "title": {
+   "ja": "気にすることはない",
+   "ta": "கவலைப்படத் தேவையில்லை",
+   "en": "No need to worry"
+  },
+  "theme": {
+   "en": "Manners and advice: etiquette, opinions and what you need (or don't need) to do.",
+   "ta": "நன்னடத்தையும் அறிவுரையும்: ஒழுக்கம், கருத்துகள், செய்ய வேண்டியவை, தேவையில்லாதவை."
+  },
+  "grammar": [
+   {
+    "id": "g27-1",
+    "pattern": "〜ものだ",
+    "en": "It's natural / one should (general truth)"
+   },
+   {
+    "id": "g27-2",
+    "pattern": "V-る / V-ない ことだ",
+    "en": "You should ~ (advice)"
+   },
+   {
+    "id": "g27-3",
+    "pattern": "V-る ことは ない",
+    "en": "There's no need to ~"
+   },
+   {
+    "id": "g27-4",
+    "pattern": "〜ないことは ない / 〜ないことも ない",
+    "en": "It's not that ~ can't / not impossible"
+   }
+  ],
+  "vocabHints": [
+   "manners and etiquette",
+   "respect and politeness",
+   "advice and opinions",
+   "good and bad behaviour"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0001",
+   "expression": "作法",
+   "reading": "さほう",
+   "romaji": "sahou",
+   "en": "manners, etiquette, propriety"
+  },
+  {
+   "id": "n3-v-0015",
+   "expression": "賛成",
+   "reading": "さんせい",
+   "romaji": "sansei",
+   "en": "approval, agreement"
+  },
+  {
+   "id": "n3-v-0139",
+   "expression": "常識",
+   "reading": "じょうしき",
+   "romaji": "joushiki",
+   "en": "common sense"
+  },
+  {
+   "id": "n3-v-0200",
+   "expression": "慎重",
+   "reading": "しんちょう",
+   "romaji": "shinchou",
+   "en": "careful, prudent, cautious"
+  },
+  {
+   "id": "n3-v-0261",
+   "expression": "正確",
+   "reading": "せいかく",
+   "romaji": "seikaku",
+   "en": "accurate, punctuality, exact"
+  },
+  {
+   "id": "n3-v-0269",
+   "expression": "性質",
+   "reading": "せいしつ",
+   "romaji": "seishitsu",
+   "en": "nature, property, disposition"
+  },
+  {
+   "id": "n3-v-0326",
+   "expression": "当たり前",
+   "reading": "あたりまえ",
+   "romaji": "atarimae",
+   "en": "usual, common, obvious"
+  },
+  {
+   "id": "n3-v-0400",
+   "expression": "一致",
+   "reading": "いっち",
+   "romaji": "itchi",
+   "en": "agreement; conformity"
+  },
+  {
+   "id": "n3-v-0509",
+   "expression": "お辞儀",
+   "reading": "おじぎ",
+   "romaji": "ojigi",
+   "en": "bow"
+  },
+  {
+   "id": "n3-v-0541",
+   "expression": "恩",
+   "reading": "おん",
+   "romaji": "on",
+   "en": "favor, obligation, debt of gratitude"
+  },
+  {
+   "id": "n3-v-0714",
+   "expression": "きちんと",
+   "reading": "きちんと",
+   "romaji": "kichinto",
+   "en": "precisely, accurately"
+  },
+  {
+   "id": "n3-v-0748",
+   "expression": "行儀",
+   "reading": "ぎょうぎ",
+   "romaji": "gyougi",
+   "en": "manners"
+  },
+  {
+   "id": "n3-v-0824",
+   "expression": "敬意",
+   "reading": "けいい",
+   "romaji": "keii",
+   "en": "respect, honor"
+  },
+  {
+   "id": "n3-v-0854",
+   "expression": "見解",
+   "reading": "けんかい",
+   "romaji": "kenkai",
+   "en": "opinion, point of view"
+  },
+  {
+   "id": "n3-v-0895",
+   "expression": "公正",
+   "reading": "こうせい",
+   "romaji": "kousei",
+   "en": "justice, fairness, impartiality"
+  },
+  {
+   "id": "n3-v-0898",
+   "expression": "行動",
+   "reading": "こうどう",
+   "romaji": "koudou",
+   "en": "action, conduct, behavior"
+  },
+  {
+   "id": "n3-v-0902",
+   "expression": "公平",
+   "reading": "こうへい",
+   "romaji": "kouhei",
+   "en": "fairness, impartial, justice"
+  },
+  {
+   "id": "n3-v-0996",
+   "expression": "さっぱり",
+   "reading": "さっぱり",
+   "romaji": "sappari",
+   "en": "feeling refreshed, neat"
+  },
+  {
+   "id": "n3-v-1033",
+   "expression": "無視",
+   "reading": "むし",
+   "romaji": "mushi",
+   "en": "disregard, ignore"
+  },
+  {
+   "id": "n3-v-1039",
+   "expression": "無駄",
+   "reading": "むだ",
+   "romaji": "muda",
+   "en": "futility, uselessness"
+  },
+  {
+   "id": "n3-v-1050",
+   "expression": "迷惑",
+   "reading": "めいわく",
+   "romaji": "meiwaku",
+   "en": "trouble, bother, annoyance"
+  },
+  {
+   "id": "n3-v-1059",
+   "expression": "面倒",
+   "reading": "めんどう",
+   "romaji": "mendou",
+   "en": "trouble, attention"
+  },
+  {
+   "id": "n3-v-1074",
+   "expression": "尤も",
+   "reading": "もっとも",
+   "romaji": "mottomo",
+   "en": "quite right, plausible, natural"
+  },
+  {
+   "id": "n3-v-1087",
+   "expression": "文句",
+   "reading": "もんく",
+   "romaji": "monku",
+   "en": "a complaint"
+  },
+  {
+   "id": "n3-v-1095",
+   "expression": "厄介",
+   "reading": "やっかい",
+   "romaji": "yakkai",
+   "en": "trouble, burden, care"
+  },
+  {
+   "id": "n3-v-1128",
+   "expression": "用心",
+   "reading": "ようじん",
+   "romaji": "youjin",
+   "en": "care, precaution, caution"
+  },
+  {
+   "id": "n3-v-1174",
+   "expression": "礼",
+   "reading": "れい",
+   "romaji": "rei",
+   "en": "expression of gratitude; bow"
+  },
+  {
+   "id": "n3-v-1176",
+   "expression": "礼儀",
+   "reading": "れいぎ",
+   "romaji": "reigi",
+   "en": "manners, courtesy, etiquette"
+  },
+  {
+   "id": "n3-v-1203",
+   "expression": "悪口",
+   "reading": "わるくち",
+   "romaji": "warukuchi",
+   "en": "abuse, insult"
+  },
+  {
+   "id": "n3-v-1213",
+   "expression": "異",
+   "reading": "い",
+   "romaji": "i",
+   "en": "objection"
+  },
+  {
+   "id": "n3-v-1267",
+   "expression": "苦",
+   "reading": "く",
+   "romaji": "ku",
+   "en": "trouble, worry, difficulty"
+  },
+  {
+   "id": "n3-v-1299",
+   "expression": "責める",
+   "reading": "せめる",
+   "romaji": "semeru",
+   "en": "to condemn, to blame, to criticize"
+  },
+  {
+   "id": "n3-v-1300",
+   "expression": "善",
+   "reading": "ぜん",
+   "romaji": "zen",
+   "en": "good, virtue"
+  },
+  {
+   "id": "n3-v-1349",
+   "expression": "尊敬",
+   "reading": "そんけい",
+   "romaji": "sonkei",
+   "en": "respect, reverence, honor"
+  },
+  {
+   "id": "n3-v-1351",
+   "expression": "尊重",
+   "reading": "そんちょう",
+   "romaji": "sonchou",
+   "en": "respect, esteem, regard"
+  },
+  {
+   "id": "n3-v-1372",
+   "expression": "態度",
+   "reading": "たいど",
+   "romaji": "taido",
+   "en": "attitude, manner"
+  },
+  {
+   "id": "n3-v-1472",
+   "expression": "ちゃんと",
+   "reading": "ちゃんと",
+   "romaji": "chanto",
+   "en": "perfectly, properly, exactly"
+  },
+  {
+   "id": "n3-v-1551",
+   "expression": "適切",
+   "reading": "てきせつ",
+   "romaji": "tekisetsu",
+   "en": "appropriate, adequate, relevance"
+  },
+  {
+   "id": "n3-v-1583",
+   "expression": "道徳",
+   "reading": "どうとく",
+   "romaji": "doutoku",
+   "en": "morals"
+  },
+  {
+   "id": "n3-v-1799",
+   "expression": "バランス",
+   "reading": "バランス",
+   "romaji": "baransu",
+   "en": "balance"
+  },
+  {
+   "id": "n3-v-1833",
+   "expression": "批評",
+   "reading": "ひひょう",
+   "romaji": "hihyou",
+   "en": "criticism, review, commentary"
+  },
+  {
+   "id": "n3-v-1895",
+   "expression": "不平",
+   "reading": "ふへい",
+   "romaji": "fuhei",
+   "en": "complaint, discontent, dissatisfaction"
+  },
+  {
+   "id": "n3-v-1896",
+   "expression": "不満",
+   "reading": "ふまん",
+   "romaji": "fuman",
+   "en": "dissatisfaction, discontent, complaints"
+  },
+  {
+   "id": "n3-v-2012",
+   "expression": "視点",
+   "reading": "してん",
+   "romaji": "shiten",
+   "en": "opinion, point of view, visual point"
+  },
+  {
+   "id": "n3-v-2116",
+   "expression": "保護",
+   "reading": "ほご",
+   "romaji": "hogo",
+   "en": "care, protection, shelter"
+  },
+  {
+   "id": "n3-v-2133",
+   "expression": "良い",
+   "reading": "よい",
+   "romaji": "yoi",
+   "en": "good, nice"
+  }
+ ]
+}

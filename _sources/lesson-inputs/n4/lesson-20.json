@@ -1,0 +1,177 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 20,
+  "slug": "baai-noni",
+  "title": {
+   "ja": "火事の場合は、119番に電話してください",
+   "ta": "தீ விபத்து ஏற்பட்டால் 119-க்கு அழையுங்கள்",
+   "en": "In case of fire, call 119"
+  },
+  "theme": {
+   "en": "Emergencies and safety at home: fire, gas, water, heating, danger and complaints.",
+   "ta": "அவசரநிலைகளும் வீட்டுப் பாதுகாப்பும்: தீ, எரிவாயு, தண்ணீர், வெப்பமூட்டி, ஆபத்து, புகார்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g20-1",
+    "pattern": "plain form / N の 場合は、〜",
+    "en": "In case of …, if … happens"
+   },
+   {
+    "id": "g20-2",
+    "pattern": "plain form のに、〜",
+    "en": "Even though … (surprise, complaint, disappointment)"
+   },
+   {
+    "id": "g20-3",
+    "pattern": "V-ても / adj-くても かまいません",
+    "en": "It's all right even if …; I don't mind if …"
+   },
+   {
+    "id": "g20-4",
+    "pattern": "V-ないといけません",
+    "en": "Must … (spoken)"
+   },
+   {
+    "id": "g20-5",
+    "pattern": "V-なくちゃ / V-なきゃ",
+    "en": "Gotta … (casual short forms of 'must')"
+   }
+  ],
+  "vocabHints": [
+   "home utilities: gas, water, electric light, heating, air conditioning",
+   "danger: fire, cause, collapse",
+   "safety and relief",
+   "bells and alarms"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-102",
+   "expression": "ガス",
+   "reading": "ガス",
+   "romaji": "gasu",
+   "en": "gas"
+  },
+  {
+   "id": "n4-v-165",
+   "expression": "場合",
+   "reading": "ばあい",
+   "romaji": "baai",
+   "en": "case, situation"
+  },
+  {
+   "id": "n4-v-178",
+   "expression": "線",
+   "reading": "せん",
+   "romaji": "sen",
+   "en": "line, wire"
+  },
+  {
+   "id": "n4-v-221",
+   "expression": "水道",
+   "reading": "すいどう",
+   "romaji": "suidou",
+   "en": "water service, water line"
+  },
+  {
+   "id": "n4-v-223",
+   "expression": "ベル",
+   "reading": "ベル",
+   "romaji": "beru",
+   "en": "bell"
+  },
+  {
+   "id": "n4-v-233",
+   "expression": "原因",
+   "reading": "げんいん",
+   "romaji": "gen'in",
+   "en": "cause, origin, source"
+  },
+  {
+   "id": "n4-v-285",
+   "expression": "火",
+   "reading": "ひ",
+   "romaji": "hi",
+   "en": "fire"
+  },
+  {
+   "id": "n4-v-331",
+   "expression": "冷房",
+   "reading": "れいぼう",
+   "romaji": "reibou",
+   "en": "cooling, air conditioning"
+  },
+  {
+   "id": "n4-v-348",
+   "expression": "火事",
+   "reading": "かじ",
+   "romaji": "kaji",
+   "en": "fire"
+  },
+  {
+   "id": "n4-v-389",
+   "expression": "電灯",
+   "reading": "でんとう",
+   "romaji": "dentou",
+   "en": "electric light"
+  },
+  {
+   "id": "n4-v-451",
+   "expression": "危険",
+   "reading": "きけん",
+   "romaji": "kiken",
+   "en": "danger, risk, hazard"
+  },
+  {
+   "id": "n4-v-486",
+   "expression": "暖房",
+   "reading": "だんぼう",
+   "romaji": "danbou",
+   "en": "heating"
+  },
+  {
+   "id": "n4-v-531",
+   "expression": "安心",
+   "reading": "あんしん",
+   "romaji": "anshin",
+   "en": "peace of mind, relief"
+  },
+  {
+   "id": "n4-v-552",
+   "expression": "かまう",
+   "reading": "",
+   "romaji": "",
+   "en": "to mind, to care about, to be concerned about"
+  },
+  {
+   "id": "n4-v-567",
+   "expression": "倒れる",
+   "reading": "たおれる",
+   "romaji": "taoreru",
+   "en": "to collapse, to break down"
+  },
+  {
+   "id": "n4-v-587",
+   "expression": "動く",
+   "reading": "うごく",
+   "romaji": "ugoku",
+   "en": "to move"
+  },
+  {
+   "id": "n4-v-626",
+   "expression": "安全",
+   "reading": "あんぜん",
+   "romaji": "anzen",
+   "en": "safety, security"
+  },
+  {
+   "id": "n4-v-650",
+   "expression": "急",
+   "reading": "きゅう",
+   "romaji": "kyuu",
+   "en": "urgent, sudden; steep"
+  }
+ ]
+}

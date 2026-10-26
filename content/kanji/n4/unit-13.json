@@ -1,0 +1,394 @@
+{
+  "unit": 13,
+  "title": { "en": "Study and travel", "ta": "படிப்பும் பயணமும்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for studying and travelling: learn, study, kanji, station, trip, clothes and drink. You also meet small but useful kanji like 不 (not), 以 (from, than), 別 (different) and 特 (special). Tip: 不 at the front of a word makes it negative, like “un-” in English.",
+    "ta": "இந்தப் பாடத்தில் படிப்பு, பயணம் தொடர்பான 12 கான்ஜிகளைக் கற்கிறீர்கள்: கற்றுக்கொள், படி, கான்ஜி, ரயில் நிலையம், பயணம், உடை, குடி. மேலும் 不 (இல்லை), 以 (முதல், விட), 別 (வேறு), 特 (சிறப்பு) போன்ற சிறிய, பயனுள்ள கான்ஜிகளும் வரும். குறிப்பு: ஒரு சொல்லின் முன் 不 வந்தால் அது எதிர்மறையாகும், ஆங்கிலத்தில் “un-” போல."
+  },
+  "kanji": [
+    {
+      "kanji": "習",
+      "meaning": { "en": "learn", "ta": "கற்றுக்கொள்" },
+      "on": ["しゅう"],
+      "kun": ["なら.う"],
+      "mnemonic": {
+        "en": "On top are two wings (羽). Under them is 白 (white). A little white bird flaps its wings again and again. It is learning to fly.",
+        "ta": "மேலே இரண்டு இறக்கைகள் (羽). அவற்றின் கீழ் 白 (வெள்ளை). ஒரு சின்ன வெள்ளைப் பறவை தன் இறக்கைகளைத் திரும்பத் திரும்ப அடிக்கிறது. அது பறக்கக் கற்றுக்கொள்கிறது."
+      },
+      "note": {
+        "en": "習う (ならう) is learning from a teacher. 学ぶ (まなぶ) is a more general “to learn”.",
+        "ta": "習う (ならう) = ஓர் ஆசிரியரிடம் கற்றுக்கொள்ளுதல். 学ぶ (まなぶ) = பொதுவாகக் கற்றல்."
+      },
+      "examples": [
+        { "word": "習う", "reading": "ならう", "en": "to learn", "ta": "கற்றுக்கொள்ள", "vocabId": "n5-v-491" },
+        { "word": "学習", "reading": "がくしゅう", "en": "learning, study", "ta": "கல்வி, கற்றல்" },
+        { "word": "見習う", "reading": "みならう", "en": "to learn by watching, to follow an example", "ta": "பார்த்துக் கற்றுக்கொள்ள" }
+      ]
+    },
+    {
+      "kanji": "駅",
+      "meaning": { "en": "station", "ta": "ரயில் நிலையம்" },
+      "on": ["えき"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a horse (馬) with four legs at the bottom. On the right is a post with a mark (尺). Long ago, travellers stopped their horses at this post to change them: the first stations.",
+        "ta": "இடப்பக்கம் கீழே நான்கு கால்களுடன் ஒரு குதிரை (馬). வலப்பக்கம் ஒரு குறியுடன் கம்பம் (尺). முன்பு பயணிகள் இந்தக் கம்பத்தில் குதிரையை நிறுத்தி மாற்றுவார்கள்: அதுவே முதல் நிலையம்."
+      },
+      "note": {
+        "en": "駅 and 験 (test) both have the horse 馬 on the left. 駅 has a short right side (尺).",
+        "ta": "駅, 験 (தேர்வு) இரண்டிலும் இடப்பக்கம் குதிரை 馬. 駅-இன் வலப்பக்கம் சிறியது (尺)."
+      },
+      "examples": [
+        { "word": "駅", "reading": "えき", "en": "station", "ta": "ரயில் நிலையம்", "vocabId": "n5-v-092" },
+        { "word": "駅前", "reading": "えきまえ", "en": "in front of the station", "ta": "நிலையத்தின் முன்" },
+        { "word": "駅員", "reading": "えきいん", "en": "station worker", "ta": "நிலைய ஊழியர்" },
+        { "word": "東京駅", "reading": "とうきょうえき", "en": "Tokyo Station", "ta": "டோக்கியோ நிலையம்" }
+      ]
+    },
+    {
+      "kanji": "洋",
+      "meaning": { "en": "ocean, Western", "ta": "கடல், மேற்கத்திய" },
+      "on": ["よう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Water (氵) next to a sheep (羊). The ocean is so big that its white waves look like thousands of sheep running. Far across the ocean is the West.",
+        "ta": "தண்ணீர் (氵), அதன் பக்கத்தில் ஒரு ஆடு (羊). கடல் மிகப் பெரியது; அதன் வெள்ளை அலைகள் ஆயிரக்கணக்கான ஆடுகள் ஓடுவது போலத் தெரியும். அந்தக் கடலைத் தாண்டி மேலை நாடுகள் இருக்கின்றன."
+      },
+      "examples": [
+        { "word": "洋服", "reading": "ようふく", "en": "Western clothes", "ta": "மேற்கத்திய உடை", "vocabId": "n5-v-684" },
+        { "word": "西洋", "reading": "せいよう", "en": "the West, Western countries", "ta": "மேலை நாடுகள்", "vocabId": "n4-v-115" },
+        { "word": "洋食", "reading": "ようしょく", "en": "Western food", "ta": "மேற்கத்திய உணவு" },
+        { "word": "大西洋", "reading": "たいせいよう", "en": "the Atlantic Ocean", "ta": "அட்லாண்டிக் பெருங்கடல்" }
+      ]
+    },
+    {
+      "kanji": "旅",
+      "meaning": { "en": "trip, travel", "ta": "பயணம்" },
+      "on": ["りょ"],
+      "kun": ["たび"],
+      "mnemonic": {
+        "en": "On the left is 方 with a flag on top, like a tour guide’s flag. On the right, a group of people walk behind it with their bags. They are on a trip.",
+        "ta": "இடப்பக்கம் 方, மேலே ஒரு கொடி: சுற்றுலா வழிகாட்டி பிடிக்கும் கொடி போல. வலப்பக்கம் பைகளுடன் ஒரு கூட்டம் அதன் பின்னால் நடக்கிறது. அவர்கள் பயணம் போகிறார்கள்."
+      },
+      "note": {
+        "en": "旅 is りょ, short. Don’t write りょう: 旅行 is りょこう.",
+        "ta": "旅 = りょ (குட்டை ஒலி). りょう அல்ல: 旅行 = りょこう."
+      },
+      "examples": [
+        { "word": "旅行", "reading": "りょこう", "en": "trip, travel", "ta": "பயணம் (சுற்றுலா)", "vocabId": "n5-v-702" },
+        { "word": "旅館", "reading": "りょかん", "en": "Japanese-style inn", "ta": "ஜப்பானிய பாணி விடுதி", "vocabId": "n4-v-282" },
+        { "word": "旅", "reading": "たび", "en": "journey", "ta": "பயணம் (நீண்ட பயணம்)" }
+      ]
+    },
+    {
+      "kanji": "服",
+      "meaning": { "en": "clothes", "ta": "உடை" },
+      "on": ["ふく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 月, which here means the body. On the right, a hand (又) helps a kneeling person put something on. Putting things on the body: clothes.",
+        "ta": "இடப்பக்கம் 月; இங்கே அது உடலைக் குறிக்கிறது. வலப்பக்கம் ஒரு கை (又) மண்டியிட்டிருக்கும் ஒருவருக்கு எதையோ அணிவிக்கிறது. உடலில் அணிவது: உடை."
+      },
+      "examples": [
+        { "word": "服", "reading": "ふく", "en": "clothes", "ta": "உடை (துணி)", "vocabId": "n5-v-581" },
+        { "word": "洋服", "reading": "ようふく", "en": "Western clothes", "ta": "மேற்கத்திய உடை", "vocabId": "n5-v-684" },
+        { "word": "夏服", "reading": "なつふく", "en": "summer clothes", "ta": "கோடைக்கால உடை" }
+      ]
+    },
+    {
+      "kanji": "飲",
+      "meaning": { "en": "drink", "ta": "குடி" },
+      "on": ["いん"],
+      "kun": ["の.む"],
+      "mnemonic": {
+        "en": "On the left is 食 (eat, food). On the right is a person with a wide-open mouth (欠). They open their mouth wide and gulp down a drink.",
+        "ta": "இடப்பக்கம் 食 (சாப்பிடு, உணவு). வலப்பக்கம் வாயை அகலமாகத் திறந்த ஒருவர் (欠). வாயை அகலத் திறந்து, பானத்தை மடமடவென்று குடிக்கிறார்."
+      },
+      "note": {
+        "en": "In Japanese you also 飲む (のむ) medicine: くすりを 飲む. Don’t mix up 飲 (drink) and 飯 (rice, meal); both start with 食.",
+        "ta": "ஜப்பானிய மொழியில் மருந்தையும் 飲む (のむ) என்றே சொல்வார்கள்: くすりを 飲む. 飲 (குடி), 飯 (சோறு, உணவு) இரண்டும் 食 உடன் தொடங்கும்; குழப்பாதீர்கள்."
+      },
+      "examples": [
+        { "word": "飲む", "reading": "のむ", "en": "to drink", "ta": "குடிக்க", "vocabId": "n5-v-515" },
+        { "word": "飲み物", "reading": "のみもの", "en": "drink, beverage", "ta": "பானம்", "vocabId": "n5-v-514" },
+        { "word": "飲食店", "reading": "いんしょくてん", "en": "restaurant, place to eat and drink", "ta": "உணவகம்" }
+      ]
+    },
+    {
+      "kanji": "勉",
+      "meaning": { "en": "effort, study hard", "ta": "முயற்சி" },
+      "on": ["べん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left, a person bends low over a desk (免). On the right is 力 (power). They study using all their power. That is real effort.",
+        "ta": "இடப்பக்கம் மேசை மேல் குனிந்திருக்கும் ஒருவர் (免). வலப்பக்கம் 力 (சக்தி). முழுச் சக்தியோடும் படிக்கிறார். அதுதான் உண்மையான முயற்சி."
+      },
+      "note": {
+        "en": "At this level 勉 is almost always in 勉強 (べんきょう, study).",
+        "ta": "இந்த நிலையில் 勉 பெரும்பாலும் 勉強 (べんきょう, படிப்பு) என்ற சொல்லில் மட்டுமே வரும்."
+      },
+      "examples": [
+        { "word": "勉強", "reading": "べんきょう", "en": "study", "ta": "படிப்பு (படிக்க)", "vocabId": "n5-v-599" },
+        { "word": "勉強会", "reading": "べんきょうかい", "en": "study meeting", "ta": "கூடிப் படிக்கும் கூட்டம்" },
+        { "word": "勉強中", "reading": "べんきょうちゅう", "en": "studying now", "ta": "படித்துக்கொண்டிருக்கும் நேரம்" }
+      ]
+    },
+    {
+      "kanji": "漢",
+      "meaning": { "en": "China, Chinese", "ta": "சீனா, சீன" },
+      "on": ["かん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Water (氵) on the left: a great river. On the right, grass (艹) over a field, and a big man (大-like legs) at the bottom. The Han people lived by the great river in China, and kanji came from them.",
+        "ta": "இடப்பக்கம் தண்ணீர் (氵): ஒரு பெரிய ஆறு. வலப்பக்கம் வயலின் மேல் புல் (艹), கீழே ஒரு பெரிய மனிதன் (大 போன்ற கால்கள்). சீனாவில் பெரிய ஆற்றங்கரையில் வாழ்ந்த ஹான் மக்களிடம் இருந்துதான் கான்ஜி வந்தது."
+      },
+      "examples": [
+        { "word": "漢字", "reading": "かんじ", "en": "kanji, Chinese characters", "ta": "கான்ஜி (சீன எழுத்து)", "vocabId": "n5-v-188" },
+        { "word": "漢語", "reading": "かんご", "en": "words of Chinese origin", "ta": "சீன மூலச் சொற்கள்" },
+        { "word": "漢文", "reading": "かんぶん", "en": "classical Chinese writing", "ta": "பழைய சீன எழுத்து நடை" }
+      ]
+    },
+    {
+      "kanji": "不",
+      "meaning": { "en": "not, un-", "ta": "இல்லை, அ-" },
+      "on": ["ふ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The top line (一) is the sky, like a ceiling. Under it, a bird with spread wings flies up but hits the line. It can not go through: “not”.",
+        "ta": "மேல் கோடு (一) வானம், ஒரு கூரை போல. அதன் கீழ் சிறகு விரித்த ஒரு பறவை மேலே பறந்து அந்தக் கோட்டில் மோதுகிறது. அதனால் கடந்து போக முடியாது: “இல்லை”."
+      },
+      "note": {
+        "en": "不 goes in front of a word and makes it negative: 安 (calm) → 不安 (worried), 親切 (kind) → 不親切 (unkind).",
+        "ta": "不 ஒரு சொல்லின் முன் வந்து அதை எதிர்மறையாக்கும்: 安 (அமைதி) → 不安 (கவலை), 親切 (அன்பான) → 不親切 (அன்பில்லாத)."
+      },
+      "examples": [
+        { "word": "不安", "reading": "ふあん", "en": "worry, anxiety", "ta": "கவலை, பதற்றம்" },
+        { "word": "不足", "reading": "ふそく", "en": "shortage, not enough", "ta": "பற்றாக்குறை" },
+        { "word": "不親切", "reading": "ふしんせつ", "en": "unkind", "ta": "அன்பில்லாத" }
+      ]
+    },
+    {
+      "kanji": "以",
+      "meaning": { "en": "from (a point), than", "ta": "முதல், விட" },
+      "on": ["い"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a marker stick with a hook and a dot. On the right a person (人) stands next to it. The stick marks a point: 以上 is “from here up”, 以下 is “from here down”.",
+        "ta": "இடப்பக்கம் கொக்கியும் புள்ளியும் உள்ள ஒரு குறிக்கம்பு. வலப்பக்கம் ஒரு மனிதர் (人) அதன் அருகில் நிற்கிறார். அந்தக் கம்பு ஒரு எல்லையைக் குறிக்கிறது: 以上 = “இங்கிருந்து மேலே”, 以下 = “இங்கிருந்து கீழே”."
+      },
+      "note": {
+        "en": "以上 and 以下 include the number: 二十さい以上 means 20 or older. At the end of a talk, 以上です means “That is all.”",
+        "ta": "以上, 以下 ஆகியவை அந்த எண்ணையும் சேர்த்துக்கொள்ளும்: 二十さい以上 = 20 அல்லது அதற்கு மேல். பேச்சின் முடிவில் 以上です = “இவ்வளவுதான்.”"
+      },
+      "examples": [
+        { "word": "以上", "reading": "いじょう", "en": "more than, or above; that is all", "ta": "அதற்கு மேல்; இவ்வளவுதான்", "vocabId": "n4-v-440" },
+        { "word": "以下", "reading": "いか", "en": "less than, or below", "ta": "அதற்குக் கீழ்", "vocabId": "n4-v-247" },
+        { "word": "以外", "reading": "いがい", "en": "other than, except", "ta": "தவிர", "vocabId": "n4-v-412" }
+      ]
+    },
+    {
+      "kanji": "別",
+      "meaning": { "en": "separate, different", "ta": "பிரி, வேறு" },
+      "on": ["べつ"],
+      "kun": ["わか.れる"],
+      "mnemonic": {
+        "en": "On the left is a bone: a mouth (口) on top of a bent part like 力. On the right is a knife (刂). The knife cuts the bone into two separate pieces.",
+        "ta": "இடப்பக்கம் ஒரு எலும்பு: மேலே வாய் (口), கீழே 力 போன்ற வளைந்த பகுதி. வலப்பக்கம் ஒரு கத்தி (刂). கத்தி எலும்பை இரண்டு தனித்தனித் துண்டுகளாகப் பிரிக்கிறது."
+      },
+      "note": {
+        "en": "別れる (わかれる) is to part from a person. It is different from 分かる (わかる, to understand).",
+        "ta": "別れる (わかれる) = ஒருவரை விட்டுப் பிரிதல். 分かる (わかる, புரிதல்) என்பதிலிருந்து இது வேறு."
+      },
+      "examples": [
+        { "word": "別", "reading": "べつ", "en": "different, another", "ta": "வேறு", "vocabId": "n4-v-038" },
+        { "word": "特別", "reading": "とくべつ", "en": "special", "ta": "சிறப்பான", "vocabId": "n4-v-606" },
+        { "word": "別れる", "reading": "わかれる", "en": "to part from, to say goodbye", "ta": "பிரிய, விடைபெற", "vocabId": "n4-v-624" },
+        { "word": "別々", "reading": "べつべつ", "en": "separately", "ta": "தனித்தனியாக" }
+      ]
+    },
+    {
+      "kanji": "特",
+      "meaning": { "en": "special", "ta": "சிறப்பு" },
+      "on": ["とく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A cow (牛) on the left and a temple (寺) on the right. A cow that lives at the temple, like a temple cow in Tamil Nadu, is a very special cow.",
+        "ta": "இடப்பக்கம் ஒரு மாடு (牛), வலப்பக்கம் ஒரு கோயில் (寺). நம் ஊர்க் கோயில் மாடு போல, கோயிலில் வாழும் மாடு மிகச் சிறப்பான மாடு."
+      },
+      "note": {
+        "en": "Before き, とく becomes とっ: 特急 is とっきゅう (limited express train).",
+        "ta": "き முன்னால் வரும்போது とく → とっ: 特急 = とっきゅう (விரைவு ரயில்)."
+      },
+      "examples": [
+        { "word": "特に", "reading": "とくに", "en": "especially", "ta": "குறிப்பாக", "vocabId": "n4-v-400" },
+        { "word": "特別", "reading": "とくべつ", "en": "special", "ta": "சிறப்பான", "vocabId": "n4-v-606" },
+        { "word": "特急", "reading": "とっきゅう", "en": "limited express (train)", "ta": "அதிவிரைவு ரயில்", "vocabId": "n4-v-442" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU13-q01",
+        "type": "kanji_reading",
+        "sentence": "日本語を 先生に ＿習って＿ います。",
+        "target": "習って",
+        "options": ["ならて", "ならって", "なれって", "まなって"],
+        "answer": 1,
+        "explanation_en": "習って is read ならって (கற்றுக்கொண்டு, learning), with a small っ. ならて has no っ, so it is wrong. まな is for 学ぶ.",
+        "explanation_ta": "習って = ならって (கற்றுக்கொண்டு, learning); சிறிய っ உண்டு. ならて-இல் っ இல்லை; தவறு. まな என்பது 学ぶ-க்கு."
+      },
+      {
+        "id": "KU13-q02",
+        "type": "kanji_reading",
+        "sentence": "＿駅＿の 前に 銀行が あります。",
+        "target": "駅",
+        "options": ["えき", "えぎ", "いき", "えっき"],
+        "answer": 0,
+        "explanation_en": "駅 is read えき (ரயில் நிலையம், station). えぎ has a voiced ぎ, and いき starts with い: both are wrong.",
+        "explanation_ta": "駅 = えき (ரயில் நிலையம், station). えぎ-இல் ぎ, いき-இல் い: இரண்டும் தவறு."
+      },
+      {
+        "id": "KU13-q03",
+        "type": "kanji_reading",
+        "sentence": "あした、＿洋服＿を 買いに 行きます。",
+        "target": "洋服",
+        "options": ["よふく", "ようぶく", "ようふく", "ようふっく"],
+        "answer": 2,
+        "explanation_en": "洋服 is read ようふく (மேற்கத்திய உடை, Western clothes). 洋 is a long よう, so よふく is wrong, and 服 stays ふく, not ぶく.",
+        "explanation_ta": "洋服 = ようふく (மேற்கத்திய உடை, Western clothes). 洋 = よう (நீண்ட ஒலி); அதனால் よふく தவறு. 服 = ふく, ぶく அல்ல."
+      },
+      {
+        "id": "KU13-q04",
+        "type": "kanji_reading",
+        "sentence": "なつやすみに 家族で ＿旅行＿します。",
+        "target": "旅行",
+        "options": ["りょうこう", "りょこ", "りょごう", "りょこう"],
+        "answer": 3,
+        "explanation_en": "旅行 is read りょこう (பயணம், trip). 旅 is a short りょ, so りょうこう is wrong; 行 is a long こう.",
+        "explanation_ta": "旅行 = りょこう (பயணம், trip). 旅 = りょ (குட்டை ஒலி); அதனால் りょうこう தவறு. 行 = こう (நீண்ட ஒலி)."
+      },
+      {
+        "id": "KU13-q05",
+        "type": "kanji_reading",
+        "sentence": "毎朝 コーヒーを ＿飲みます＿。",
+        "target": "飲みます",
+        "options": ["よみます", "のみます", "やすみます", "かみます"],
+        "answer": 1,
+        "explanation_en": "飲みます is read のみます (குடிக்கிறேன், I drink). よみます is 読みます (I read): a different kanji with the same ending.",
+        "explanation_ta": "飲みます = のみます (குடிக்கிறேன், I drink). よみます என்பது 読みます (படிக்கிறேன்): முடிவு ஒன்றே, கான்ஜி வேறு."
+      },
+      {
+        "id": "KU13-q06",
+        "type": "kanji_reading",
+        "sentence": "まいばん 二時間 ＿勉強＿します。",
+        "target": "勉強",
+        "options": ["べんきょう", "べんきょ", "べんきょお", "めんきょう"],
+        "answer": 0,
+        "explanation_en": "勉強 is read べんきょう (படிப்பு, study). 強 is a long きょう, so べんきょ is too short.",
+        "explanation_ta": "勉強 = べんきょう (படிப்பு, study). 強 = きょう (நீண்ட ஒலி); べんきょ மிகக் குட்டை, தவறு."
+      },
+      {
+        "id": "KU13-q07",
+        "type": "kanji_reading",
+        "sentence": "＿漢字＿を 書くのは むずかしいです。",
+        "target": "漢字",
+        "options": ["かんし", "がんじ", "かんじ", "かじ"],
+        "answer": 2,
+        "explanation_en": "漢字 is read かんじ (கான்ஜி, kanji). 字 is じ here, so かんし is wrong; 漢 is かん, not がん.",
+        "explanation_ta": "漢字 = かんじ (கான்ஜி, kanji). இங்கே 字 = じ; அதனால் かんし தவறு. 漢 = かん, がん அல்ல."
+      },
+      {
+        "id": "KU13-q08",
+        "type": "kanji_reading",
+        "sentence": "ひとりで 外国に 行くのは ＿不安＿です。",
+        "target": "不安",
+        "options": ["ぶあん", "ふうあん", "ふやす", "ふあん"],
+        "answer": 3,
+        "explanation_en": "不安 is read ふあん (கவலை, worry). 不 is a short ふ here: ぶあん and ふうあん are wrong.",
+        "explanation_ta": "不安 = ふあん (கவலை, worry). இங்கே 不 = ふ (குட்டை ஒலி); ぶあん, ふうあん தவறு."
+      },
+      {
+        "id": "KU13-q09",
+        "type": "kanji_reading",
+        "sentence": "この 店は 二十さい ＿以上＿の 人しか 入れません。",
+        "target": "以上",
+        "options": ["いじょ", "いじょう", "いしょう", "いうえ"],
+        "answer": 1,
+        "explanation_en": "以上 is read いじょう (அதற்கு மேல், or more). 上 is a long, voiced じょう here: いじょ is too short and いしょう is not voiced.",
+        "explanation_ta": "以上 = いじょう (அதற்கு மேல், or more). இங்கே 上 = じょう (நீண்ட ஒலி); いじょ மிகக் குட்டை, いしょう-இல் じ இல்லை."
+      },
+      {
+        "id": "KU13-q10",
+        "type": "kanji_reading",
+        "sentence": "きょうは ＿特別＿な 日です。",
+        "target": "特別",
+        "options": ["とくべつ", "とっべつ", "どくべつ", "とくへつ"],
+        "answer": 0,
+        "explanation_en": "特別 is read とくべつ (சிறப்பான, special). とく becomes とっ only before sounds like き (特急), not before べ.",
+        "explanation_ta": "特別 = とくべつ (சிறப்பான, special). き போன்ற ஒலிக்கு முன் மட்டுமே とく → とっ (特急); べ முன் மாறாது."
+      },
+      {
+        "id": "KU13-q11",
+        "type": "orthography",
+        "sentence": "友だちと ＿わかれて＿ 家に 帰りました。",
+        "target": "わかれて",
+        "options": ["列れて", "別れて", "則れて", "引れて"],
+        "answer": 1,
+        "explanation_en": "わかれて (பிரிந்து, parting) is 別れて: a bone and a knife 刂. 列 and 則 also have the knife 刂, but the left side is different.",
+        "explanation_ta": "わかれて (பிரிந்து, parting) = 別れて: எலும்பு + கத்தி 刂. 列, 則 இரண்டிலும் கத்தி 刂 உண்டு; ஆனால் இடப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU13-q12",
+        "type": "orthography",
+        "sentence": "あの 人は いつも 白い ＿ふく＿を きて います。",
+        "target": "ふく",
+        "options": ["腹", "報", "服", "般"],
+        "answer": 2,
+        "explanation_en": "ふく (உடை, clothes) is 服: body 月 and a hand 又. 腹 (stomach) also starts with 月, and 報 has the same right side, but they are different words.",
+        "explanation_ta": "ふく (உடை, clothes) = 服: உடல் 月 + கை 又. 腹 (வயிறு)-உம் 月 உடன் தொடங்கும்; 報-இன் வலப்பக்கம் ஒன்றே; ஆனால் அவை வேறு சொற்கள்."
+      },
+      {
+        "id": "KU13-q13",
+        "type": "orthography",
+        "sentence": "＿えきいん＿に 道を ききました。",
+        "target": "えきいん",
+        "options": ["駅員", "験員", "訳員", "駐員"],
+        "answer": 0,
+        "explanation_en": "えきいん (நிலைய ஊழியர், station worker) is 駅員. 験 and 駐 also have the horse 馬, and 訳 has the same right side 尺, but only 駅 means station.",
+        "explanation_ta": "えきいん (நிலைய ஊழியர், station worker) = 駅員. 験, 駐 இரண்டிலும் குதிரை 馬; 訳-இல் அதே வலப்பக்கம் 尺. ஆனால் 駅 மட்டுமே நிலையம்."
+      },
+      {
+        "id": "KU13-q14",
+        "type": "orthography",
+        "sentence": "これは 子どもの ＿のみもの＿です。",
+        "target": "のみもの",
+        "options": ["飯み物", "欲み物", "館み物", "飲み物"],
+        "answer": 3,
+        "explanation_en": "のみもの (பானம், drink) is 飲み物: food 食 and an open mouth 欠. 飯 (rice) and 館 (hall) have 食 too; 欲 has 欠 but no 食.",
+        "explanation_ta": "のみもの (பானம், drink) = 飲み物: உணவு 食 + திறந்த வாய் 欠. 飯 (சோறு), 館 (மண்டபம்) இரண்டிலும் 食 உண்டு; 欲-இல் 欠 உண்டு, 食 இல்லை."
+      },
+      {
+        "id": "KU13-q15",
+        "type": "orthography",
+        "sentence": "なつに 東京を ＿りょこう＿したいです。",
+        "target": "りょこう",
+        "options": ["族行", "放行", "旅行", "旋行"],
+        "answer": 2,
+        "explanation_en": "りょこう (பயணம், trip) is 旅行: a flag and walking people. 族 (family) has the same flag but an arrow 矢 under it.",
+        "explanation_ta": "りょこう (பயணம், trip) = 旅行: கொடி + நடக்கும் மனிதர்கள். 族 (குடும்பம்)-இல் அதே கொடி, ஆனால் கீழே அம்பு 矢."
+      },
+      {
+        "id": "KU13-q16",
+        "type": "orthography",
+        "sentence": "これ ＿いがい＿に しつもんは ありますか。",
+        "target": "いがい",
+        "options": ["似外", "込外", "収外", "以外"],
+        "answer": 3,
+        "explanation_en": "いがい (தவிர, other than) is 以外. 似 looks similar but has a person 亻 on the left; it is not this word.",
+        "explanation_ta": "いがい (தவிர, other than) = 以外. 似 பார்க்க ஒத்திருக்கும்; ஆனால் இடப்பக்கம் மனிதர் 亻 உண்டு; இந்தச் சொல் அல்ல."
+      }
+    ]
+  }
+}

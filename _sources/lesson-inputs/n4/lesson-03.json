@@ -1,0 +1,233 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 3,
+  "slug": "shi-shi",
+  "title": {
+   "ja": "静かだし、便利だし",
+   "ta": "அமைதியாகவும் இருக்கு, வசதியாகவும் இருக்கு",
+   "en": "It's quiet, and convenient too"
+  },
+  "theme": {
+   "en": "Choosing where to live: neighbourhood, town or countryside, boarding houses, moving house.",
+   "ta": "எங்கே வசிப்பது: சுற்றுப்புறம், நகரம் அல்லது கிராமம், தங்கும் விடுதி, வீடு மாற்றுவது."
+  },
+  "grammar": [
+   {
+    "id": "g03-1",
+    "pattern": "plain form し、plain form し、〜",
+    "en": "Listing several reasons: 'and also …, and …'"
+   },
+   {
+    "id": "g03-2",
+    "pattern": "それに",
+    "en": "Besides, moreover (adding another point)"
+   },
+   {
+    "id": "g03-3",
+    "pattern": "それで",
+    "en": "So, that's why (result of what was just said)"
+   },
+   {
+    "id": "g03-4",
+    "pattern": "quantity + も",
+    "en": "As many / as much as (emphasising a large amount): 1時間も"
+   },
+   {
+    "id": "g03-5",
+    "pattern": "N でも V-ませんか",
+    "en": "Shall we … or something? (soft suggestion with でも)"
+   }
+  ],
+  "vocabHints": [
+   "housing: tatami, building, rooftop, storeys",
+   "town, ward, suburbs, countryside",
+   "neighbourhood and surroundings",
+   "moving house, commuting"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-002",
+   "expression": "～区",
+   "reading": "～く",
+   "romaji": "～ku",
+   "en": "~ district, ~ ward, ~ borough"
+  },
+  {
+   "id": "n4-v-028",
+   "expression": "床屋",
+   "reading": "とこや",
+   "romaji": "tokoya",
+   "en": "barber's (shop)"
+  },
+  {
+   "id": "n4-v-048",
+   "expression": "郊外",
+   "reading": "こうがい",
+   "romaji": "kougai",
+   "en": "suburb, outskirts"
+  },
+  {
+   "id": "n4-v-056",
+   "expression": "屋上",
+   "reading": "おくじょう",
+   "romaji": "okujou",
+   "en": "rooftop"
+  },
+  {
+   "id": "n4-v-064",
+   "expression": "建てる",
+   "reading": "たてる",
+   "romaji": "tateru",
+   "en": "to build"
+  },
+  {
+   "id": "n4-v-076",
+   "expression": "～軒",
+   "reading": "～けん",
+   "romaji": "～ken",
+   "en": "counter for houses"
+  },
+  {
+   "id": "n4-v-114",
+   "expression": "それに",
+   "reading": "それに",
+   "romaji": "soreni",
+   "en": "moreover; besides"
+  },
+  {
+   "id": "n4-v-125",
+   "expression": "建て",
+   "reading": "～だて",
+   "romaji": "～date",
+   "en": "~ storied, separate housing"
+  },
+  {
+   "id": "n4-v-136",
+   "expression": "畳",
+   "reading": "たたみ",
+   "romaji": "tatami",
+   "en": "tatami mat (Japanese straw mat)"
+  },
+  {
+   "id": "n4-v-154",
+   "expression": "ビル",
+   "reading": "ビル",
+   "romaji": "biru",
+   "en": "(abbr.) building"
+  },
+  {
+   "id": "n4-v-187",
+   "expression": "坂",
+   "reading": "さか",
+   "romaji": "saka",
+   "en": "slope, hill"
+  },
+  {
+   "id": "n4-v-237",
+   "expression": "場所",
+   "reading": "ばしょ",
+   "romaji": "basho",
+   "en": "place, location"
+  },
+  {
+   "id": "n4-v-291",
+   "expression": "通う",
+   "reading": "かよう",
+   "romaji": "kayou",
+   "en": "to go back and forth; to commute"
+  },
+  {
+   "id": "n4-v-295",
+   "expression": "下宿",
+   "reading": "げしゅく",
+   "romaji": "geshuku",
+   "en": "lodging, boarding house"
+  },
+  {
+   "id": "n4-v-330",
+   "expression": "引っ越す",
+   "reading": "ひっこす",
+   "romaji": "hikkosu",
+   "en": "to move to a new place of residence"
+  },
+  {
+   "id": "n4-v-377",
+   "expression": "周り",
+   "reading": "まわり",
+   "romaji": "mawari",
+   "en": "surroundings"
+  },
+  {
+   "id": "n4-v-379",
+   "expression": "不便",
+   "reading": "ふべん",
+   "romaji": "fuben",
+   "en": "inconvenience"
+  },
+  {
+   "id": "n4-v-415",
+   "expression": "市",
+   "reading": "し",
+   "romaji": "shi",
+   "en": "city"
+  },
+  {
+   "id": "n4-v-425",
+   "expression": "遠く",
+   "reading": "とおく",
+   "romaji": "tooku",
+   "en": "far away, distant"
+  },
+  {
+   "id": "n4-v-431",
+   "expression": "都",
+   "reading": "と",
+   "romaji": "to",
+   "en": "metropolitan"
+  },
+  {
+   "id": "n4-v-457",
+   "expression": "それで",
+   "reading": "それで",
+   "romaji": "sorede",
+   "en": "and (conj.), thereupon, because of that"
+  },
+  {
+   "id": "n4-v-471",
+   "expression": "田舎",
+   "reading": "いなか",
+   "romaji": "inaka",
+   "en": "rural, countryside"
+  },
+  {
+   "id": "n4-v-539",
+   "expression": "近所",
+   "reading": "きんじょ",
+   "romaji": "kinjo",
+   "en": "neighborhood"
+  },
+  {
+   "id": "n4-v-579",
+   "expression": "移る",
+   "reading": "うつる",
+   "romaji": "utsuru",
+   "en": "to move (from a house); to transfer (from a department); to shift"
+  },
+  {
+   "id": "n4-v-625",
+   "expression": "～町",
+   "reading": "～ちょう",
+   "romaji": "～chou",
+   "en": "the town of ~"
+  },
+  {
+   "id": "n4-v-644",
+   "expression": "生活",
+   "reading": "せいかつする",
+   "romaji": "seikatsusuru",
+   "en": "living, life; to live"
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 21,
+  "slug": "tokoro",
+  "title": {
+   "ja": "今、宿題をしているところです",
+   "ta": "இப்போது வீட்டுப்பாடம் செய்துகொண்டிருக்கிறேன்",
+   "en": "I'm doing my homework right now"
+  },
+  "theme": {
+   "en": "Study and daily schedule: classes, homework, preview and review, being on time.",
+   "ta": "படிப்பும் தினசரி அட்டவணையும்: வகுப்புகள், வீட்டுப்பாடம், முன்தயாரிப்பு, மீள்பார்வை, நேரத்துக்கு வருவது."
+  },
+  "grammar": [
+   {
+    "id": "g21-1",
+    "pattern": "V-dict ところです",
+    "en": "About to …"
+   },
+   {
+    "id": "g21-2",
+    "pattern": "V-ている ところです",
+    "en": "In the middle of …ing"
+   },
+   {
+    "id": "g21-3",
+    "pattern": "V-た ところです",
+    "en": "Have just … (a moment ago)"
+   },
+   {
+    "id": "g21-4",
+    "pattern": "V-た ばかりです",
+    "en": "Only just … (feels recent to the speaker)"
+   },
+   {
+    "id": "g21-5",
+    "pattern": "V-ます stem 始めます / 出します",
+    "en": "Start …ing / suddenly start …ing"
+   },
+   {
+    "id": "g21-6",
+    "pattern": "V-ます stem 終わります / 続けます",
+    "en": "Finish …ing / keep on …ing"
+   }
+  ],
+  "vocabHints": [
+   "study: preview, review, textbook, eraser",
+   "time: a moment ago, at last, soon, daytime, lunch break",
+   "start, continue, finish, end",
+   "hurry, be in time"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-006",
+   "expression": "とうとう",
+   "reading": "とうとう",
+   "romaji": "toutou",
+   "en": "finally, at last"
+  },
+  {
+   "id": "n4-v-018",
+   "expression": "テキスト",
+   "reading": "テキスト",
+   "romaji": "tekisuto",
+   "en": "text; text book"
+  },
+  {
+   "id": "n4-v-036",
+   "expression": "予習",
+   "reading": "よしゅう",
+   "romaji": "yoshuu",
+   "en": "preparation of lessons (for class)"
+  },
+  {
+   "id": "n4-v-139",
+   "expression": "さっき",
+   "reading": "さっき",
+   "romaji": "sakki",
+   "en": "a little while ago"
+  },
+  {
+   "id": "n4-v-166",
+   "expression": "やっと",
+   "reading": "やっと",
+   "romaji": "yatto",
+   "en": "at last, finally"
+  },
+  {
+   "id": "n4-v-207",
+   "expression": "終わり",
+   "reading": "おわり",
+   "romaji": "owari",
+   "en": "end"
+  },
+  {
+   "id": "n4-v-215",
+   "expression": "始める",
+   "reading": "はじめる",
+   "romaji": "hajimeru",
+   "en": "to start, to begin"
+  },
+  {
+   "id": "n4-v-249",
+   "expression": "～ばかり",
+   "reading": "～ばかり",
+   "romaji": "～bakari",
+   "en": "just did ~, only"
+  },
+  {
+   "id": "n4-v-251",
+   "expression": "～だす",
+   "reading": "～だす",
+   "romaji": "～dasu",
+   "en": "to start doing ~"
+  },
+  {
+   "id": "n4-v-278",
+   "expression": "すっかり",
+   "reading": "すっかり",
+   "romaji": "sukkari",
+   "en": "all, completely"
+  },
+  {
+   "id": "n4-v-281",
+   "expression": "消しゴム",
+   "reading": "けしゴム",
+   "romaji": "keshigomu",
+   "en": "eraser"
+  },
+  {
+   "id": "n4-v-301",
+   "expression": "進む",
+   "reading": "すすむ",
+   "romaji": "susumu",
+   "en": "to advance, to proceed"
+  },
+  {
+   "id": "n4-v-365",
+   "expression": "昼間",
+   "reading": "ひるま",
+   "romaji": "hiruma",
+   "en": "daytime, during the day"
+  },
+  {
+   "id": "n4-v-381",
+   "expression": "～続ける",
+   "reading": "～つづける",
+   "romaji": "～tsuzukeru",
+   "en": "to continue doing ~"
+  },
+  {
+   "id": "n4-v-413",
+   "expression": "済む",
+   "reading": "すむ",
+   "romaji": "sumu",
+   "en": "to finish, to end"
+  },
+  {
+   "id": "n4-v-419",
+   "expression": "～始める",
+   "reading": "～はじめる",
+   "romaji": "～hajimeru",
+   "en": "to start doing ~"
+  },
+  {
+   "id": "n4-v-460",
+   "expression": "そろそろ",
+   "reading": "そろそろ",
+   "romaji": "sorosoro",
+   "en": "gradually, soon"
+  },
+  {
+   "id": "n4-v-476",
+   "expression": "昼休み",
+   "reading": "ひるやすみ",
+   "romaji": "hiruyasumi",
+   "en": "lunch break, noon recess"
+  },
+  {
+   "id": "n4-v-485",
+   "expression": "～おわる",
+   "reading": "～おわる",
+   "romaji": "～owaru",
+   "en": "to finish doing ~"
+  },
+  {
+   "id": "n4-v-515",
+   "expression": "最後",
+   "reading": "さいご",
+   "romaji": "saigo",
+   "en": "last, end"
+  },
+  {
+   "id": "n4-v-529",
+   "expression": "最初",
+   "reading": "さいしょ",
+   "romaji": "saisho",
+   "en": "beginning, first"
+  },
+  {
+   "id": "n4-v-535",
+   "expression": "続く",
+   "reading": "つづく",
+   "romaji": "tsuzuku",
+   "en": "to be continued"
+  },
+  {
+   "id": "n4-v-553",
+   "expression": "続ける",
+   "reading": "つづける",
+   "romaji": "tsuzukeru",
+   "en": "to continue, to keep up"
+  },
+  {
+   "id": "n4-v-602",
+   "expression": "急ぐ",
+   "reading": "いそぐ",
+   "romaji": "isogu",
+   "en": "to hurry, to be in a hurry, to rush"
+  },
+  {
+   "id": "n4-v-607",
+   "expression": "復習",
+   "reading": "ふくしゅう",
+   "romaji": "fukushuu",
+   "en": "review (of lessons), revision"
+  },
+  {
+   "id": "n4-v-608",
+   "expression": "間に合う",
+   "reading": "まにあう",
+   "romaji": "maniau",
+   "en": "to be in time for"
+  },
+  {
+   "id": "n4-v-610",
+   "expression": "もうすぐ",
+   "reading": "もうすぐ",
+   "romaji": "mousugu",
+   "en": "very soon; in a few moments; days"
+  }
+ ]
+}

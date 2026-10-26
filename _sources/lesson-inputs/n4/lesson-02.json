@@ -1,0 +1,210 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 2,
+  "slug": "kanoukei",
+  "title": {
+   "ja": "日本語が話せます",
+   "ta": "ஜப்பானிய மொழி பேச முடியும்",
+   "en": "I can speak Japanese"
+  },
+  "theme": {
+   "en": "Hobbies and abilities: music, reading, dancing, languages; what you can see and hear.",
+   "ta": "பொழுதுபோக்கும் திறமைகளும்: இசை, வாசிப்பு, நடனம், மொழிகள்; என்ன பார்க்க, கேட்க முடிகிறது."
+  },
+  "grammar": [
+   {
+    "id": "g02-1",
+    "pattern": "Potential form (V-える / V-られる / 来られる / できる)",
+    "en": "Can do: how to make the potential form of all verb groups"
+   },
+   {
+    "id": "g02-2",
+    "pattern": "N が V-potential",
+    "en": "The object of a potential verb usually takes が: 漢字が読めます"
+   },
+   {
+    "id": "g02-3",
+    "pattern": "見えます / 聞こえます",
+    "en": "Something is visible / audible (happens by itself)"
+   },
+   {
+    "id": "g02-4",
+    "pattern": "N が できます (be built / be ready)",
+    "en": "できる meaning 'be made, be completed, open up'"
+   },
+   {
+    "id": "g02-5",
+    "pattern": "N しか V-ない",
+    "en": "Only / nothing but (always with a negative verb)"
+   },
+   {
+    "id": "g02-6",
+    "pattern": "N は (contrast)",
+    "en": "は to contrast one thing with another: ひらがなは書けますが、漢字は書けません"
+   }
+  ],
+  "vocabHints": [
+   "hobbies: comics, novels, piano, concerts, dance",
+   "language study: pronunciation, grammar, dictionary",
+   "sound and sight",
+   "fishing and leisure"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-015",
+   "expression": "漫画",
+   "reading": "まんが",
+   "romaji": "manga",
+   "en": "comic (book), cartoon"
+  },
+  {
+   "id": "n4-v-023",
+   "expression": "聞こえる",
+   "reading": "きこえる",
+   "romaji": "kikoeru",
+   "en": "to be heard, to be audible"
+  },
+  {
+   "id": "n4-v-054",
+   "expression": "発音",
+   "reading": "はつおん",
+   "romaji": "hatsuon",
+   "en": "pronunciation"
+  },
+  {
+   "id": "n4-v-112",
+   "expression": "小説",
+   "reading": "しょうせつ",
+   "romaji": "shousetsu",
+   "en": "novel"
+  },
+  {
+   "id": "n4-v-206",
+   "expression": "文法",
+   "reading": "ぶんぽう",
+   "romaji": "bunpou",
+   "en": "grammar"
+  },
+  {
+   "id": "n4-v-228",
+   "expression": "辞典",
+   "reading": "じてん",
+   "romaji": "jiten",
+   "en": "encyclopedia, reference book"
+  },
+  {
+   "id": "n4-v-239",
+   "expression": "もちろん",
+   "reading": "もちろん",
+   "romaji": "mochiron",
+   "en": "certainly, of course"
+  },
+  {
+   "id": "n4-v-243",
+   "expression": "スクリーン",
+   "reading": "スクリーン",
+   "romaji": "sukuriin",
+   "en": "screen"
+  },
+  {
+   "id": "n4-v-266",
+   "expression": "踊る",
+   "reading": "おどる",
+   "romaji": "odoru",
+   "en": "to dance"
+  },
+  {
+   "id": "n4-v-302",
+   "expression": "楽む",
+   "reading": "たのしむ",
+   "romaji": "tanoshimu",
+   "en": "to enjoy"
+  },
+  {
+   "id": "n4-v-316",
+   "expression": "会話",
+   "reading": "かいわ",
+   "romaji": "kaiwa",
+   "en": "conversation"
+  },
+  {
+   "id": "n4-v-328",
+   "expression": "踊り",
+   "reading": "おどり",
+   "romaji": "odori",
+   "en": "dance"
+  },
+  {
+   "id": "n4-v-329",
+   "expression": "興味",
+   "reading": "きょうみ",
+   "romaji": "kyoumi",
+   "en": "interest (in something)"
+  },
+  {
+   "id": "n4-v-360",
+   "expression": "釣る",
+   "reading": "つる",
+   "romaji": "tsuru",
+   "en": "to fish"
+  },
+  {
+   "id": "n4-v-385",
+   "expression": "中々",
+   "reading": "なかなか",
+   "romaji": "nakanaka",
+   "en": "very, considerably, quite"
+  },
+  {
+   "id": "n4-v-420",
+   "expression": "見える",
+   "reading": "みえる",
+   "romaji": "mieru",
+   "en": "to be visible; -- polite verb meaning 来る (くる) --"
+  },
+  {
+   "id": "n4-v-422",
+   "expression": "音",
+   "reading": "おと",
+   "romaji": "oto",
+   "en": "sound, note"
+  },
+  {
+   "id": "n4-v-507",
+   "expression": "字",
+   "reading": "じ",
+   "romaji": "ji",
+   "en": "letter; character"
+  },
+  {
+   "id": "n4-v-589",
+   "expression": "コンサート",
+   "reading": "コンサート",
+   "romaji": "konsaato",
+   "en": "concert"
+  },
+  {
+   "id": "n4-v-647",
+   "expression": "ピアノ",
+   "reading": "ピアノ",
+   "romaji": "piano",
+   "en": "piano"
+  },
+  {
+   "id": "n4-v-662",
+   "expression": "趣味",
+   "reading": "しゅみ",
+   "romaji": "shumi",
+   "en": "hobby; pastime"
+  },
+  {
+   "id": "n4-v-667",
+   "expression": "たまに",
+   "reading": "たまに",
+   "romaji": "tamani",
+   "en": "occasionally"
+  }
+ ]
+}

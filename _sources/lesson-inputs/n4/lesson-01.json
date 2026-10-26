@@ -1,0 +1,205 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 1,
+  "slug": "n-desu",
+  "title": {
+   "ja": "どうしたんですか",
+   "ta": "என்ன ஆச்சு?",
+   "en": "What happened?"
+  },
+  "theme": {
+   "en": "Everyday situations: explaining why you are late, sleepy or worried; asking politely for help and advice.",
+   "ta": "அன்றாடச் சூழல்கள்: தாமதம், தூக்கம், கவலைக்குக் காரணம் சொல்வது; பணிவாக உதவியும் ஆலோசனையும் கேட்பது."
+  },
+  "grammar": [
+   {
+    "id": "g01-1",
+    "pattern": "plain form + んです",
+    "en": "Explaining a reason or situation; asking for an explanation (〜んですか)"
+   },
+   {
+    "id": "g01-2",
+    "pattern": "〜んですが、〜",
+    "en": "Opening a topic or request softly: 'The thing is …, (could you …)'"
+   },
+   {
+    "id": "g01-3",
+    "pattern": "V-ていただけませんか",
+    "en": "Could you please … (very polite request)"
+   },
+   {
+    "id": "g01-4",
+    "pattern": "question word + V-たらいいですか",
+    "en": "What / where / how should I …? (asking for advice)"
+   },
+   {
+    "id": "g01-5",
+    "pattern": "V-てもらえませんか / V-てくれませんか",
+    "en": "Could you … for me? (polite and friendly requests)"
+   }
+  ],
+  "vocabHints": [
+   "reasons and excuses",
+   "feelings: worried, sleepy, sorry",
+   "appointments and errands",
+   "time words: a while, long time no see"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-014",
+   "expression": "やはり; やっぱり",
+   "reading": "やはり; やっぱり",
+   "romaji": "yahari;yappari",
+   "en": "as I thought, absolutely"
+  },
+  {
+   "id": "n4-v-037",
+   "expression": "心配",
+   "reading": "しんぱいする",
+   "romaji": "shinpaisuru",
+   "en": "worry, concern"
+  },
+  {
+   "id": "n4-v-049",
+   "expression": "だめ",
+   "reading": "だめ",
+   "romaji": "dame",
+   "en": "useless, no good, hopeless"
+  },
+  {
+   "id": "n4-v-069",
+   "expression": "大事",
+   "reading": "だいじ",
+   "romaji": "daiji",
+   "en": "important, valuable, serious matter"
+  },
+  {
+   "id": "n4-v-077",
+   "expression": "そう",
+   "reading": "そう",
+   "romaji": "sou",
+   "en": "really, (is that) so; yes, right"
+  },
+  {
+   "id": "n4-v-134",
+   "expression": "だから",
+   "reading": "だから",
+   "romaji": "dakara",
+   "en": "so; therefore"
+  },
+  {
+   "id": "n4-v-135",
+   "expression": "残念",
+   "reading": "ざんねん",
+   "romaji": "zannen",
+   "en": "regret; regrettable"
+  },
+  {
+   "id": "n4-v-153",
+   "expression": "用事",
+   "reading": "ようじ",
+   "romaji": "youji",
+   "en": "business to take care of; tasks; errands"
+  },
+  {
+   "id": "n4-v-161",
+   "expression": "気分",
+   "reading": "きぶん",
+   "romaji": "kibun",
+   "en": "feeling, mood"
+  },
+  {
+   "id": "n4-v-182",
+   "expression": "寝坊",
+   "reading": "ねぼう",
+   "romaji": "nebou",
+   "en": "sleeping in late"
+  },
+  {
+   "id": "n4-v-271",
+   "expression": "用",
+   "reading": "よう",
+   "romaji": "you",
+   "en": "errand, task, business (to take care of)"
+  },
+  {
+   "id": "n4-v-332",
+   "expression": "都合",
+   "reading": "つごう",
+   "romaji": "tsugou",
+   "en": "circumstances, convenience"
+  },
+  {
+   "id": "n4-v-355",
+   "expression": "理由",
+   "reading": "りゆう",
+   "romaji": "riyuu",
+   "en": "reason"
+  },
+  {
+   "id": "n4-v-399",
+   "expression": "しばらく",
+   "reading": "しばらく",
+   "romaji": "shibaraku",
+   "en": "little while"
+  },
+  {
+   "id": "n4-v-446",
+   "expression": "帰り",
+   "reading": "かえり",
+   "romaji": "kaeri",
+   "en": "return, coming back"
+  },
+  {
+   "id": "n4-v-480",
+   "expression": "訳",
+   "reading": "わけ",
+   "romaji": "wake",
+   "en": "reason; explanation"
+  },
+  {
+   "id": "n4-v-493",
+   "expression": "なるほど",
+   "reading": "なるほど",
+   "romaji": "naruhodo",
+   "en": "I see; I now understand"
+  },
+  {
+   "id": "n4-v-519",
+   "expression": "久しぶり",
+   "reading": "ひさしぶり",
+   "romaji": "hisashiburi",
+   "en": "it has been a long time; for the first time in a long time"
+  },
+  {
+   "id": "n4-v-522",
+   "expression": "遅れる",
+   "reading": "おくれる",
+   "romaji": "okureru",
+   "en": "to (be) become late"
+  },
+  {
+   "id": "n4-v-537",
+   "expression": "約束",
+   "reading": "やくそく",
+   "romaji": "yakusoku",
+   "en": "arrangement, appointment, promise"
+  },
+  {
+   "id": "n4-v-565",
+   "expression": "眠い",
+   "reading": "ねむい",
+   "romaji": "nemui",
+   "en": "sleepy, drowsy"
+  },
+  {
+   "id": "n4-v-632",
+   "expression": "眠る",
+   "reading": "ねむる",
+   "romaji": "nemuru",
+   "en": "to sleep"
+  }
+ ]
+}

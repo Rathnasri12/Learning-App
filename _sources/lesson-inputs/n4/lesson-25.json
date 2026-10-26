@@ -1,0 +1,177 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 25,
+  "slug": "shieki-ukemi",
+  "title": {
+   "ja": "先輩に走らされました",
+   "ta": "சீனியர் என்னை ஓட வைத்தார்",
+   "en": "My senior made me run"
+  },
+  "theme": {
+   "en": "Sports and club activities: seniors and juniors, practice, matches, winning and losing.",
+   "ta": "விளையாட்டும் கிளப் செயல்பாடுகளும்: சீனியர்-ஜூனியர், பயிற்சி, போட்டிகள், வெற்றியும் தோல்வியும்."
+  },
+  "grammar": [
+   {
+    "id": "g25-1",
+    "pattern": "Causative-passive form (V-させられる / V-される)",
+    "en": "How to make the causative-passive (be made to do) form"
+   },
+   {
+    "id": "g25-2",
+    "pattern": "N1 は N2 に V-causative-passive",
+    "en": "Be made (forced) to do something by someone"
+   },
+   {
+    "id": "g25-3",
+    "pattern": "N / V-て ばかり います",
+    "en": "Nothing but …, always …ing (criticism)"
+   },
+   {
+    "id": "g25-4",
+    "pattern": "quantity + ずつ",
+    "en": "… each / … at a time"
+   },
+   {
+    "id": "g25-5",
+    "pattern": "number + おきに / ごとに",
+    "en": "Every other … / every …"
+   }
+  ],
+  "vocabHints": [
+   "sports: judo, tennis, swimming, match, competition",
+   "throw, hit, win, lose, arm, strength",
+   "club life: seniors, ～君, hard work",
+   "exercise and effort"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-030",
+   "expression": "運動",
+   "reading": "うんどうする",
+   "romaji": "undousuru",
+   "en": "exercise"
+  },
+  {
+   "id": "n4-v-061",
+   "expression": "一生懸命",
+   "reading": "いっしょうけんめい",
+   "romaji": "isshoukenmei",
+   "en": "very hard (as in \"to work hard\"), with utmost effort"
+  },
+  {
+   "id": "n4-v-156",
+   "expression": "頑張る",
+   "reading": "がんばる",
+   "romaji": "ganbaru",
+   "en": "to try one's best, to try hard, to persist"
+  },
+  {
+   "id": "n4-v-157",
+   "expression": "投げる",
+   "reading": "なげる",
+   "romaji": "nageru",
+   "en": "to pitch, to cast away"
+  },
+  {
+   "id": "n4-v-159",
+   "expression": "力",
+   "reading": "ちから",
+   "romaji": "chikara",
+   "en": "strength, power"
+  },
+  {
+   "id": "n4-v-190",
+   "expression": "柔道",
+   "reading": "じゅうどう",
+   "romaji": "juudou",
+   "en": "judo"
+  },
+  {
+   "id": "n4-v-202",
+   "expression": "試合",
+   "reading": "しあい",
+   "romaji": "shiai",
+   "en": "match, game, competition"
+  },
+  {
+   "id": "n4-v-214",
+   "expression": "熱心",
+   "reading": "ねっしん",
+   "romaji": "nesshin",
+   "en": "enthusiasm"
+  },
+  {
+   "id": "n4-v-362",
+   "expression": "打つ",
+   "reading": "うつ",
+   "romaji": "utsu",
+   "en": "to hit, to strike"
+  },
+  {
+   "id": "n4-v-469",
+   "expression": "負ける",
+   "reading": "まける",
+   "romaji": "makeru",
+   "en": "to lose (a game) (v.i.), to be defeated"
+  },
+  {
+   "id": "n4-v-479",
+   "expression": "腕",
+   "reading": "うで",
+   "romaji": "ude",
+   "en": "arm (in reference to body)"
+  },
+  {
+   "id": "n4-v-528",
+   "expression": "～おき",
+   "reading": "～おき",
+   "romaji": "～oki",
+   "en": "after every ~"
+  },
+  {
+   "id": "n4-v-536",
+   "expression": "先輩",
+   "reading": "せんぱい",
+   "romaji": "senpai",
+   "en": "senior members of a group"
+  },
+  {
+   "id": "n4-v-563",
+   "expression": "～君",
+   "reading": "～くん",
+   "romaji": "～kun",
+   "en": "Mr. (junior) ~, master ~"
+  },
+  {
+   "id": "n4-v-596",
+   "expression": "水泳",
+   "reading": "すいえい",
+   "romaji": "suiei",
+   "en": "swimming"
+  },
+  {
+   "id": "n4-v-598",
+   "expression": "勝つ",
+   "reading": "かつ",
+   "romaji": "katsu",
+   "en": "to win"
+  },
+  {
+   "id": "n4-v-631",
+   "expression": "テニス",
+   "reading": "テニス",
+   "romaji": "tenisu",
+   "en": "tennis"
+  },
+  {
+   "id": "n4-v-639",
+   "expression": "競争",
+   "reading": "きょうそう",
+   "romaji": "kyousou",
+   "en": "competition, contest"
+  }
+ ]
+}

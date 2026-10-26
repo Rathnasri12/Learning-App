@@ -1,0 +1,393 @@
+{
+  "unit": 12,
+  "title": { "en": "Around town: places and people", "ta": "ஊருக்குள்: இடங்களும் மனிதர்களும்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji you see around town: the bank, the doctor, the library, the shop, and words like wait, taste, photo and bad. Many of them are built from kanji you already know. Tip: 館 starts with 食 (eat), and 注 starts with the water part 氵.",
+    "ta": "இந்தப் பாடத்தில் ஊரில் அடிக்கடி பார்க்கும் 12 கான்ஜிகளைக் கற்கிறீர்கள்: வங்கி, மருத்துவர், நூலகம், கடை; மேலும் காத்திரு, சுவை, புகைப்படம், கெட்ட போன்ற சொற்கள். இவற்றில் பல, நீங்கள் ஏற்கனவே அறிந்த கான்ஜிகளால் ஆனவை. குறிப்பு: 館 என்பது 食 (சாப்பிடு) உடன் தொடங்குகிறது; 注 என்பது தண்ணீர்ப் பகுதி 氵 உடன் தொடங்குகிறது."
+  },
+  "kanji": [
+    {
+      "kanji": "待",
+      "meaning": { "en": "wait", "ta": "காத்திரு" },
+      "on": ["たい"],
+      "kun": ["ま.つ"],
+      "mnemonic": {
+        "en": "On the left, a line of people walking on a street (彳). On the right, a temple (寺) built on earth (土). The people stand outside the temple and wait for the doors to open.",
+        "ta": "இடப்பக்கம் தெருவில் வரிசையாக நடக்கும் மக்கள் (彳). வலப்பக்கம் மண்ணின் (土) மேல் கட்டிய ஒரு கோயில் (寺). கோயில் கதவு திறக்கும் வரை மக்கள் வாசலில் காத்திருக்கிறார்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 待 (wait) and 持 (hold, もつ). 待 has the street part 彳; 持 has a hand 扌. The on reading たい is used in 招待 (しょうたい, invitation).",
+        "ta": "待 (காத்திரு), 持 (பிடி, もつ) இரண்டையும் குழப்பாதீர்கள். 待-இல் தெருப் பகுதி 彳; 持-இல் கை 扌. たい என்ற on வாசிப்பு 招待 (しょうたい, அழைப்பு) என்ற சொல்லில் வரும்."
+      },
+      "examples": [
+        { "word": "待つ", "reading": "まつ", "en": "to wait", "ta": "காத்திருக்க", "vocabId": "n5-v-628" },
+        { "word": "待ち時間", "reading": "まちじかん", "en": "waiting time", "ta": "காத்திருக்கும் நேரம்" },
+        { "word": "お待ちください", "reading": "おまちください", "en": "please wait (polite)", "ta": "தயவுசெய்து காத்திருங்கள் (மரியாதையாக)" }
+      ]
+    },
+    {
+      "kanji": "族",
+      "meaning": { "en": "family, tribe", "ta": "குடும்பம், இனம்" },
+      "on": ["ぞく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The left side is 方 with a flag on top: a flag pole. Under the flag stands an arrow (矢). All the people who carry arrows under the same flag are one tribe, one family.",
+        "ta": "இடப்பக்கம் 方, அதன் மேல் ஒரு கொடி: இது ஒரு கொடிக்கம்பம். கொடியின் கீழ் ஒரு அம்பு (矢). ஒரே கொடியின் கீழ் அம்பு ஏந்தி நிற்கும் அனைவரும் ஒரே இனம், ஒரே குடும்பம்."
+      },
+      "note": {
+        "en": "族 and 旅 (trip) both have the same flag on the left. 族 has an arrow 矢 under the flag; 旅 has walking people.",
+        "ta": "族, 旅 (பயணம்) இரண்டிலும் இடப்பக்கம் அதே கொடி உண்டு. 族-இல் கொடியின் கீழ் அம்பு 矢; 旅-இல் நடக்கும் மனிதர்கள்."
+      },
+      "examples": [
+        { "word": "家族", "reading": "かぞく", "en": "family", "ta": "குடும்பம்", "vocabId": "n5-v-165" },
+        { "word": "水族館", "reading": "すいぞくかん", "en": "aquarium", "ta": "மீன் காட்சியகம்" },
+        { "word": "家族旅行", "reading": "かぞくりょこう", "en": "family trip", "ta": "குடும்பச் சுற்றுலா" }
+      ]
+    },
+    {
+      "kanji": "銀",
+      "meaning": { "en": "silver", "ta": "வெள்ளி" },
+      "on": ["ぎん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 金 (gold, metal). On the right is an eye that stares back (艮). It is a metal so shiny that you see your own eye in it: silver.",
+        "ta": "இடப்பக்கம் 金 (தங்கம், உலோகம்). வலப்பக்கம் திரும்பிப் பார்க்கும் ஒரு கண் (艮). அதில் உங்கள் கண்ணே தெரியும் அளவுக்குப் பளபளக்கும் உலோகம்: வெள்ளி."
+      },
+      "note": {
+        "en": "In 銀行 (bank), 銀 is ぎん with a voiced ぎ, not きん. 金 (money, gold) is きん.",
+        "ta": "銀行 (வங்கி) என்பதில் 銀 = ぎん (ぎ ஒலி கனமானது), きん அல்ல. 金 (பணம், தங்கம்) தான் きん."
+      },
+      "examples": [
+        { "word": "銀行", "reading": "ぎんこう", "en": "bank", "ta": "வங்கி", "vocabId": "n5-v-214" },
+        { "word": "銀", "reading": "ぎん", "en": "silver", "ta": "வெள்ளி" },
+        { "word": "銀色", "reading": "ぎんいろ", "en": "silver colour", "ta": "வெள்ளி நிறம்" },
+        { "word": "銀行員", "reading": "ぎんこういん", "en": "bank clerk", "ta": "வங்கி ஊழியர்" }
+      ]
+    },
+    {
+      "kanji": "医",
+      "meaning": { "en": "doctor, medicine", "ta": "மருத்துவம்" },
+      "on": ["い"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A box open on the right side (匚). Inside the box is an arrow (矢). The doctor keeps sharp tools in this box and pulls the arrow out of a hurt soldier.",
+        "ta": "வலப்பக்கம் திறந்த ஒரு பெட்டி (匚). பெட்டிக்குள் ஒரு அம்பு (矢). மருத்துவர் கூர்மையான கருவிகளை இந்தப் பெட்டியில் வைத்திருக்கிறார்; காயமடைந்த வீரனின் உடலில் இருந்து அம்பை வெளியே எடுக்கிறார்."
+      },
+      "examples": [
+        { "word": "医者", "reading": "いしゃ", "en": "doctor", "ta": "மருத்துவர்", "vocabId": "n5-v-053" },
+        { "word": "医学", "reading": "いがく", "en": "medical science", "ta": "மருத்துவ அறிவியல்", "vocabId": "n4-v-017" },
+        { "word": "医院", "reading": "いいん", "en": "clinic", "ta": "மருத்துவமனை (சிறிய கிளினிக்)" }
+      ]
+    },
+    {
+      "kanji": "仕",
+      "meaning": { "en": "serve, do (work)", "ta": "பணி செய், சேவை" },
+      "on": ["し"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a warrior (士). The person serves the warrior and does all his work.",
+        "ta": "ஒரு மனிதர் (亻) ஒரு வீரனின் (士) பக்கத்தில் நிற்கிறார். அந்த வீரனுக்குப் பணிவிடை செய்து, அவனுடைய எல்லா வேலைகளையும் செய்கிறார்."
+      },
+      "note": {
+        "en": "士 (warrior) has a long top line and a short bottom line. 土 (earth) is the other way round: short top, long bottom.",
+        "ta": "士 (வீரன்): மேல் கோடு நீளம், கீழ் கோடு குட்டை. 土 (மண்) அதற்கு நேர்மாறு: மேல் கோடு குட்டை, கீழ் கோடு நீளம்."
+      },
+      "examples": [
+        { "word": "仕事", "reading": "しごと", "en": "work, job", "ta": "வேலை", "vocabId": "n5-v-296" },
+        { "word": "仕方", "reading": "しかた", "en": "way of doing something", "ta": "செய்யும் முறை", "vocabId": "n4-v-573" },
+        { "word": "仕事場", "reading": "しごとば", "en": "workplace", "ta": "வேலை செய்யும் இடம்" }
+      ]
+    },
+    {
+      "kanji": "去",
+      "meaning": { "en": "leave, past", "ta": "விட்டுச் செல், கடந்த" },
+      "on": ["きょ"],
+      "kun": ["さ.る"],
+      "mnemonic": {
+        "en": "On top is earth (土), the land. Under it, a small person curls up (ム) and walks away. They leave the land, and that time becomes the past.",
+        "ta": "மேலே மண் (土), அதாவது நிலம். அதன் கீழ் ஒரு சிறிய மனிதர் சுருண்டுகொண்டு (ム) நடந்து போகிறார். அவர் அந்த நிலத்தை விட்டுப் போகிறார்; அந்த நேரம் கடந்த காலமாகிறது."
+      },
+      "examples": [
+        { "word": "去年", "reading": "きょねん", "en": "last year", "ta": "போன வருடம்", "vocabId": "n5-v-207" },
+        { "word": "去る", "reading": "さる", "en": "to leave, to go away", "ta": "விட்டுச் செல்ல" },
+        { "word": "立ち去る", "reading": "たちさる", "en": "to walk away", "ta": "எழுந்து போய்விட" }
+      ]
+    },
+    {
+      "kanji": "味",
+      "meaning": { "en": "taste, flavour", "ta": "சுவை" },
+      "on": ["み"],
+      "kun": ["あじ"],
+      "mnemonic": {
+        "en": "A mouth (口) next to a tree (木) with one extra short branch (未, “not yet”). The fruit is not ripe yet, so you put it in your mouth to taste it.",
+        "ta": "ஒரு வாய் (口), அதன் பக்கத்தில் கூடுதலாக ஒரு குட்டைக் கிளையுடன் ஒரு மரம் (未, “இன்னும் இல்லை”). பழம் இன்னும் பழுக்கவில்லையா என்று பார்க்க, வாயில் வைத்துச் சுவைக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "Alone, 味 is あじ (taste). In words with another kanji it is usually み: 意味 (いみ).",
+        "ta": "தனியாக 味 = あじ (சுவை). வேறு கான்ஜியுடன் சேரும்போது பொதுவாக み: 意味 (いみ)."
+      },
+      "examples": [
+        { "word": "味", "reading": "あじ", "en": "taste, flavour", "ta": "சுவை", "vocabId": "n4-v-323" },
+        { "word": "意味", "reading": "いみ", "en": "meaning", "ta": "பொருள் (அர்த்தம்)", "vocabId": "n5-v-067" },
+        { "word": "味見", "reading": "あじみ", "en": "tasting (food while cooking)", "ta": "சமைக்கும்போது சுவை பார்த்தல்" }
+      ]
+    },
+    {
+      "kanji": "写",
+      "meaning": { "en": "copy, take a photo", "ta": "நகலெடு, படம் எடு" },
+      "on": ["しゃ"],
+      "kun": ["うつ.す", "うつ.る"],
+      "mnemonic": {
+        "en": "A cloth cover (冖) on top, like the black cloth over an old camera. Under the cloth, the picture of what is in front is copied onto the film.",
+        "ta": "மேலே ஒரு துணி மூடி (冖), பழைய கேமராவின் மேல் போடும் கருப்புத் துணி போல. அந்தத் துணியின் கீழ், முன்னால் இருப்பதன் படம் அப்படியே நகலாகப் பதிகிறது."
+      },
+      "note": {
+        "en": "写す (うつす) means “to copy” or “to take (a photo)”. 写る (うつる) means “to come out in a photo”.",
+        "ta": "写す (うつす) = நகலெடுக்க / படம் எடுக்க. 写る (うつる) = படத்தில் தெரிய / பதிய."
+      },
+      "examples": [
+        { "word": "写真", "reading": "しゃしん", "en": "photograph", "ta": "புகைப்படம்", "vocabId": "n5-v-311" },
+        { "word": "写す", "reading": "うつす", "en": "to copy; to take a photo", "ta": "நகலெடுக்க; படம் எடுக்க", "vocabId": "n4-v-345" },
+        { "word": "写る", "reading": "うつる", "en": "to come out (in a photo)", "ta": "படத்தில் பதிய" }
+      ]
+    },
+    {
+      "kanji": "注",
+      "meaning": { "en": "pour, attention", "ta": "ஊற்று, கவனம்" },
+      "on": ["ちゅう"],
+      "kun": ["そそ.ぐ"],
+      "mnemonic": {
+        "en": "Drops of water (氵) next to the master (主), who stands like an oil lamp with a flame on top. You pour oil into the master’s lamp very carefully. Pay attention, or it spills!",
+        "ta": "தண்ணீர்த் துளிகள் (氵), அதன் பக்கத்தில் எஜமான் (主); அவர் மேலே சுடருடன் நிற்கும் ஒரு குத்துவிளக்கு போல. எஜமானின் விளக்கில் எண்ணெயை மிகக் கவனமாக ஊற்றுகிறீர்கள். கவனம் இல்லையென்றால் சிந்திவிடும்!"
+      },
+      "examples": [
+        { "word": "注意", "reading": "ちゅうい", "en": "caution, attention", "ta": "கவனம், எச்சரிக்கை", "vocabId": "n4-v-073" },
+        { "word": "注文", "reading": "ちゅうもん", "en": "order (in a shop)", "ta": "ஆர்டர் (கடையில் கேட்டு வாங்குதல்)" },
+        { "word": "注ぐ", "reading": "そそぐ", "en": "to pour", "ta": "ஊற்ற" }
+      ]
+    },
+    {
+      "kanji": "悪",
+      "meaning": { "en": "bad", "ta": "கெட்ட" },
+      "on": ["あく"],
+      "kun": ["わる.い"],
+      "mnemonic": {
+        "en": "At the bottom is a heart (心). On top sits a heavy, ugly block (亜). The heart is crushed under it, and you feel bad.",
+        "ta": "கீழே ஒரு இதயம் (心). அதன் மேல் கனமான, அசிங்கமான ஒரு கட்டை (亜). இதயம் அதன் கீழ் நசுங்குகிறது; மனம் கெட்டதாக உணர்கிறது."
+      },
+      "note": {
+        "en": "Watch the reading in 悪口 (わるぐち, saying bad things about someone): 口 becomes ぐち.",
+        "ta": "悪口 (わるぐち, ஒருவரைப் பற்றிக் கெட்டதாகப் பேசுதல்) என்பதில் 口 = ぐち என்று மாறும்."
+      },
+      "examples": [
+        { "word": "悪い", "reading": "わるい", "en": "bad", "ta": "கெட்ட (மோசமான)", "vocabId": "n5-v-718" },
+        { "word": "悪口", "reading": "わるぐち", "en": "bad talk about someone", "ta": "பிறரைப் பற்றிக் கெட்ட பேச்சு" },
+        { "word": "悪人", "reading": "あくにん", "en": "bad person, villain", "ta": "கெட்டவன், வில்லன்" }
+      ]
+    },
+    {
+      "kanji": "館",
+      "meaning": { "en": "hall, large building", "ta": "மண்டபம், பெரிய கட்டிடம்" },
+      "on": ["かん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 食 (eat). On the right is a big roof (宀) over many rooms. A big building where guests eat and stay, like a wedding hall.",
+        "ta": "இடப்பக்கம் 食 (சாப்பிடு). வலப்பக்கம் பல அறைகளின் மேல் ஒரு பெரிய கூரை (宀). விருந்தினர் சாப்பிட்டு, தங்கும் பெரிய கட்டிடம், கல்யாண மண்டபம் போல."
+      },
+      "note": {
+        "en": "館 is at the end of many place words: 図書館 (library), 映画館 (cinema), 大使館 (embassy).",
+        "ta": "பல இடப் பெயர்களின் முடிவில் 館 வரும்: 図書館 (நூலகம்), 映画館 (திரையரங்கு), 大使館 (தூதரகம்)."
+      },
+      "examples": [
+        { "word": "図書館", "reading": "としょかん", "en": "library", "ta": "நூலகம்", "vocabId": "n5-v-460" },
+        { "word": "映画館", "reading": "えいがかん", "en": "cinema", "ta": "திரையரங்கு", "vocabId": "n5-v-089" },
+        { "word": "大使館", "reading": "たいしかん", "en": "embassy", "ta": "தூதரகம்", "vocabId": "n5-v-373" },
+        { "word": "旅館", "reading": "りょかん", "en": "Japanese-style inn", "ta": "ஜப்பானிய பாணி விடுதி", "vocabId": "n4-v-282" }
+      ]
+    },
+    {
+      "kanji": "屋",
+      "meaning": { "en": "shop, roof, house", "ta": "கடை, கூரை, வீடு" },
+      "on": ["おく"],
+      "kun": ["や"],
+      "mnemonic": {
+        "en": "A roof hangs down on the top and left (尸). Under the roof, someone arrives (至) and comes in. A place with a roof that people come to: a house or a shop.",
+        "ta": "மேலும் இடப்பக்கமும் தொங்கும் ஒரு கூரை (尸). அந்தக் கூரையின் கீழ் ஒருவர் வந்து சேர்கிறார் (至). மக்கள் வந்து சேரும் கூரையுள்ள இடம்: வீடு அல்லது கடை."
+      },
+      "note": {
+        "en": "After a thing, 屋 (や) means “shop”: 本屋 (bookshop), 花屋 (flower shop). Special word: 部屋 (へや, room).",
+        "ta": "ஒரு பொருளின் பெயருக்குப் பின் 屋 (や) = கடை: 本屋 (புத்தகக் கடை), 花屋 (பூக்கடை). சிறப்புச் சொல்: 部屋 (へや, அறை)."
+      },
+      "examples": [
+        { "word": "本屋", "reading": "ほんや", "en": "bookshop", "ta": "புத்தகக் கடை" },
+        { "word": "八百屋", "reading": "やおや", "en": "greengrocer", "ta": "காய்கறிக் கடை", "vocabId": "n5-v-667" },
+        { "word": "屋上", "reading": "おくじょう", "en": "rooftop", "ta": "மொட்டை மாடி", "vocabId": "n4-v-056" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU12-q01",
+        "type": "kanji_reading",
+        "sentence": "えきの 前で 友だちを ＿待って＿ います。",
+        "target": "待って",
+        "options": ["まって", "もって", "たって", "かって"],
+        "answer": 0,
+        "explanation_en": "待って is read まって (காத்திருந்து, waiting). もって is 持って (holding): 持 has a hand 扌, but 待 has the street part 彳.",
+        "explanation_ta": "待って = まって (காத்திருந்து, waiting). もって என்பது 持って (பிடித்து); 持-இல் கை 扌 இருக்கும், 待-இல் தெருப் பகுதி 彳."
+      },
+      {
+        "id": "KU12-q02",
+        "type": "kanji_reading",
+        "sentence": "わたしの ＿家族＿は 五人です。",
+        "target": "家族",
+        "options": ["かぞ", "かそく", "かぞく", "けぞく"],
+        "answer": 2,
+        "explanation_en": "家族 is read かぞく (குடும்பம், family). 族 is ぞく with a voiced ぞ, so かそく is wrong.",
+        "explanation_ta": "家族 = かぞく (குடும்பம், family). 族 = ぞく (ぞ ஒலி கனமானது); அதனால் かそく தவறு."
+      },
+      {
+        "id": "KU12-q03",
+        "type": "kanji_reading",
+        "sentence": "＿銀行＿で お金を 下ろします。",
+        "target": "銀行",
+        "options": ["ぎんこ", "ぎんこう", "きんこう", "ぎんごう"],
+        "answer": 1,
+        "explanation_en": "銀行 is read ぎんこう (வங்கி, bank), with a long こう. きんこう is wrong: 銀 is ぎん; きん is 金.",
+        "explanation_ta": "銀行 = ぎんこう (வங்கி, bank); こう நீண்ட ஒலி. きんこう தவறு: 銀 = ぎん; きん என்பது 金."
+      },
+      {
+        "id": "KU12-q04",
+        "type": "kanji_reading",
+        "sentence": "あたまが いたいので、＿医者＿に 行きました。",
+        "target": "医者",
+        "options": ["いじゃ", "いっしゃ", "いしゃく", "いしゃ"],
+        "answer": 3,
+        "explanation_en": "医者 is read いしゃ (மருத்துவர், doctor). There is no small っ: いっしゃ is wrong.",
+        "explanation_ta": "医者 = いしゃ (மருத்துவர், doctor). இதில் சிறிய っ இல்லை; いっしゃ தவறு."
+      },
+      {
+        "id": "KU12-q05",
+        "type": "kanji_reading",
+        "sentence": "父は ＿仕事＿で 東京に 行きました。",
+        "target": "仕事",
+        "options": ["しこと", "しごと", "じごと", "しごど"],
+        "answer": 1,
+        "explanation_en": "仕事 is read しごと (வேலை, work). 事 becomes ごと here, so しこと is wrong.",
+        "explanation_ta": "仕事 = しごと (வேலை, work). இங்கே 事 = ごと என்று மாறும்; அதனால் しこと தவறு."
+      },
+      {
+        "id": "KU12-q06",
+        "type": "kanji_reading",
+        "sentence": "＿去年＿ 日本へ 行きました。",
+        "target": "去年",
+        "options": ["きょねん", "こねん", "きょうねん", "さるとし"],
+        "answer": 0,
+        "explanation_en": "去年 is read きょねん (போன வருடம், last year). きょ is short: きょうねん is wrong.",
+        "explanation_ta": "去年 = きょねん (போன வருடம், last year). きょ குட்டை ஒலி; きょうねん தவறு."
+      },
+      {
+        "id": "KU12-q07",
+        "type": "kanji_reading",
+        "sentence": "この ことばの ＿意味＿が わかりません。",
+        "target": "意味",
+        "options": ["いあじ", "いし", "おみ", "いみ"],
+        "answer": 3,
+        "explanation_en": "意味 is read いみ (பொருள், meaning). 味 is あじ when alone, but み in 意味, so いあじ is wrong.",
+        "explanation_ta": "意味 = いみ (பொருள், meaning). தனியாக 味 = あじ; ஆனால் 意味-இல் み. அதனால் いあじ தவறு."
+      },
+      {
+        "id": "KU12-q08",
+        "type": "kanji_reading",
+        "sentence": "ここで ＿写真＿を とっても いいですか。",
+        "target": "写真",
+        "options": ["しゃじん", "しやしん", "しゃしん", "しゅしん"],
+        "answer": 2,
+        "explanation_en": "写真 is read しゃしん (புகைப்படம், photo), with a small ゃ. しやしん has a big や, and しゃじん has a voiced じ: both are wrong.",
+        "explanation_ta": "写真 = しゃしん (புகைப்படம், photo); சிறிய ゃ. しやしん-இல் பெரிய や, しゃじん-இல் じ: இரண்டும் தவறு."
+      },
+      {
+        "id": "KU12-q09",
+        "type": "kanji_reading",
+        "sentence": "車に ＿注意＿して ください。",
+        "target": "注意",
+        "options": ["ちゅい", "ちゅうい", "ちょうい", "しゅうい"],
+        "answer": 1,
+        "explanation_en": "注意 is read ちゅうい (கவனம், attention), with a long ちゅう. ちゅい is too short.",
+        "explanation_ta": "注意 = ちゅうい (கவனம், attention); ちゅう நீண்ட ஒலி. ちゅい மிகக் குட்டை; தவறு."
+      },
+      {
+        "id": "KU12-q10",
+        "type": "kanji_reading",
+        "sentence": "きょうは 天気が ＿悪い＿です。",
+        "target": "悪い",
+        "options": ["わるい", "あくい", "よわい", "ふるい"],
+        "answer": 0,
+        "explanation_en": "悪い is read わるい (மோசமான, bad). あく is the on reading (悪人 あくにん); with い after it, use わるい.",
+        "explanation_ta": "悪い = わるい (மோசமான, bad). あく என்பது on வாசிப்பு (悪人 あくにん); பின்னால் い வந்தால் わるい."
+      },
+      {
+        "id": "KU12-q11",
+        "type": "orthography",
+        "sentence": "しゅうまつは ＿としょかん＿で 本を 読みます。",
+        "target": "としょかん",
+        "options": ["図書飯", "図書館", "図書官", "図書飲"],
+        "answer": 1,
+        "explanation_en": "としょかん (நூலகம், library) is 図書館: eat 食 plus a big roof. 官 has no 食 on the left; 飯 and 飲 have 食 but mean rice and drink.",
+        "explanation_ta": "としょかん (நூலகம், library) = 図書館: சாப்பிடு 食 + பெரிய கூரை. 官-இல் இடப்பக்கம் 食 இல்லை; 飯, 飲 இரண்டிலும் 食 உண்டு, ஆனால் அவை சோறு, குடி என்று பொருள்."
+      },
+      {
+        "id": "KU12-q12",
+        "type": "orthography",
+        "sentence": "あの ＿ほんや＿で じしょを 買いました。",
+        "target": "ほんや",
+        "options": ["本局", "本尾", "本屋", "本昼"],
+        "answer": 2,
+        "explanation_en": "ほんや (புத்தகக் கடை, bookshop) is 本屋: roof 尸 with 至 under it. 局 and 尾 also start with 尸, but they are different kanji.",
+        "explanation_ta": "ほんや (புத்தகக் கடை, bookshop) = 本屋: கூரை 尸, கீழே 至. 局, 尾 இரண்டும் 尸 உடன் தொடங்கினாலும் வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU12-q13",
+        "type": "orthography",
+        "sentence": "この りんごは ＿あじ＿が いいです。",
+        "target": "あじ",
+        "options": ["妹", "未", "昧", "味"],
+        "answer": 3,
+        "explanation_en": "あじ (சுவை, taste) is 味: a mouth 口 next to 未. 妹 (younger sister) has a woman 女, and 昧 has a sun 日, not a mouth.",
+        "explanation_ta": "あじ (சுவை, taste) = 味: வாய் 口 + 未. 妹 (தங்கை)-இல் பெண் 女; 昧-இல் சூரியன் 日; வாய் இல்லை."
+      },
+      {
+        "id": "KU12-q14",
+        "type": "orthography",
+        "sentence": "お父さんの ＿しごと＿は 何ですか。",
+        "target": "しごと",
+        "options": ["仕事", "任事", "社事", "使事"],
+        "answer": 0,
+        "explanation_en": "しごと (வேலை, work) is 仕事: a person 亻 next to a warrior 士. 任 looks similar but is a different kanji; 使 is つかう (use).",
+        "explanation_ta": "しごと (வேலை, work) = 仕事: மனிதர் 亻 + வீரன் 士. 任 பார்க்க ஒத்திருந்தாலும் வேறு கான்ஜி; 使 = つかう (பயன்படுத்து)."
+      },
+      {
+        "id": "KU12-q15",
+        "type": "orthography",
+        "sentence": "これは きれいな ＿しゃしん＿ですね。",
+        "target": "しゃしん",
+        "options": ["字真", "与真", "写真", "宇真"],
+        "answer": 2,
+        "explanation_en": "しゃしん (புகைப்படம், photo) is 写真: a flat cover 冖 on top. 字 (letter) and 宇 have a roof 宀 with a dot, and 与 has no cover.",
+        "explanation_ta": "しゃしん (புகைப்படம், photo) = 写真: மேலே தட்டையான மூடி 冖. 字 (எழுத்து), 宇 இரண்டிலும் புள்ளியுடன் கூரை 宀; 与-இல் மூடியே இல்லை."
+      },
+      {
+        "id": "KU12-q16",
+        "type": "orthography",
+        "sentence": "テストの てんが ＿わるかった＿です。",
+        "target": "わるかった",
+        "options": ["思かった", "恵かった", "意かった", "悪かった"],
+        "answer": 3,
+        "explanation_en": "わるかった (மோசமாக இருந்தது, was bad) is 悪かった. 思, 恵 and 意 also have a heart 心 at the bottom, but the top is different.",
+        "explanation_ta": "わるかった (மோசமாக இருந்தது, was bad) = 悪かった. 思, 恵, 意 ஆகியவற்றிலும் கீழே இதயம் 心 உண்டு; ஆனால் மேல் பகுதி வேறு."
+      }
+    ]
+  }
+}

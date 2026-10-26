@@ -1,0 +1,367 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 12,
+  "slug": "sou-iu-wake-dewa-nai",
+  "title": {
+   "ja": "そういうわけではない",
+   "ta": "நான் அப்படிச் சொல்லவில்லை",
+   "en": "That's not what I mean"
+  },
+  "theme": {
+   "en": "Clearing up misunderstandings: explaining reasons and facts.",
+   "ta": "தவறான புரிதல்களைத் தீர்ப்பது: காரணங்களையும் உண்மைகளையும் விளக்குவது."
+  },
+  "grammar": [
+   {
+    "id": "g12-1",
+    "pattern": "〜わけだ",
+    "en": "That's why / no wonder (logical conclusion)"
+   },
+   {
+    "id": "g12-2",
+    "pattern": "〜わけではない",
+    "en": "It doesn't mean that ~ / not necessarily"
+   },
+   {
+    "id": "g12-3",
+    "pattern": "V-る わけには いかない",
+    "en": "Can't (for social or moral reasons)"
+   },
+   {
+    "id": "g12-4",
+    "pattern": "〜ことから",
+    "en": "From the fact that ~ (reason, origin)"
+   }
+  ],
+  "vocabHints": [
+   "misunderstanding and explanation",
+   "facts, truth and reality",
+   "mistakes and apologies"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0037",
+   "expression": "事実",
+   "reading": "じじつ",
+   "romaji": "jijitsu",
+   "en": "fact, truth, reality"
+  },
+  {
+   "id": "n3-v-0039",
+   "expression": "事情",
+   "reading": "じじょう",
+   "romaji": "jijou",
+   "en": "circumstances, situation, reasons"
+  },
+  {
+   "id": "n3-v-0056",
+   "expression": "実際",
+   "reading": "じっさい",
+   "romaji": "jissai",
+   "en": "in fact; in actuality"
+  },
+  {
+   "id": "n3-v-0060",
+   "expression": "実に",
+   "reading": "じつに",
+   "romaji": "jitsuni",
+   "en": "indeed, truly, surely"
+  },
+  {
+   "id": "n3-v-0061",
+   "expression": "実は",
+   "reading": "じつは",
+   "romaji": "jitsuha",
+   "en": "actually; in fact"
+  },
+  {
+   "id": "n3-v-0097",
+   "expression": "修正",
+   "reading": "しゅうせい",
+   "romaji": "shuusei",
+   "en": "amendment, correction"
+  },
+  {
+   "id": "n3-v-0107",
+   "expression": "修理",
+   "reading": "しゅうり",
+   "romaji": "shuuri",
+   "en": "repairing, mending"
+  },
+  {
+   "id": "n3-v-0254",
+   "expression": "正",
+   "reading": "せい",
+   "romaji": "sei",
+   "en": "(logical) true, regular"
+  },
+  {
+   "id": "n3-v-0308",
+   "expression": "明らか",
+   "reading": "あきらか",
+   "romaji": "akiraka",
+   "en": "obvious, clear"
+  },
+  {
+   "id": "n3-v-0336",
+   "expression": "誤り",
+   "reading": "あやまり",
+   "romaji": "ayamari",
+   "en": "error"
+  },
+  {
+   "id": "n3-v-0427",
+   "expression": "言わば",
+   "reading": "いわば",
+   "romaji": "iwaba",
+   "en": "so to speak"
+  },
+  {
+   "id": "n3-v-0428",
+   "expression": "いわゆる",
+   "reading": "いわゆる",
+   "romaji": "iwayuru",
+   "en": "the so-called, so-to-speak"
+  },
+  {
+   "id": "n3-v-0444",
+   "expression": "疑う",
+   "reading": "うたがう",
+   "romaji": "utagau",
+   "en": "to doubt, to distrust"
+  },
+  {
+   "id": "n3-v-0555",
+   "expression": "解決",
+   "reading": "かいけつ",
+   "romaji": "kaiketsu",
+   "en": "settlement, solution, resolution"
+  },
+  {
+   "id": "n3-v-0559",
+   "expression": "解釈",
+   "reading": "かいしゃく",
+   "romaji": "kaishaku",
+   "en": "explanation, interpretation"
+  },
+  {
+   "id": "n3-v-0591",
+   "expression": "確認",
+   "reading": "かくにん",
+   "romaji": "kakunin",
+   "en": "affirmation, confirmation"
+  },
+  {
+   "id": "n3-v-0635",
+   "expression": "かなり",
+   "reading": "かなり",
+   "romaji": "kanari",
+   "en": "considerably, fairly, quite"
+  },
+  {
+   "id": "n3-v-0716",
+   "expression": "気付く",
+   "reading": "きづく",
+   "romaji": "kizuku",
+   "en": "to notice, to recognize, to become aware of"
+  },
+  {
+   "id": "n3-v-0729",
+   "expression": "疑問",
+   "reading": "ぎもん",
+   "romaji": "gimon",
+   "en": "question, problem, doubt"
+  },
+  {
+   "id": "n3-v-0822",
+   "expression": "下",
+   "reading": "げ",
+   "romaji": "ge",
+   "en": "under, below, beneath"
+  },
+  {
+   "id": "n3-v-0861",
+   "expression": "現実",
+   "reading": "げんじつ",
+   "romaji": "genjitsu",
+   "en": "reality"
+  },
+  {
+   "id": "n3-v-0912",
+   "expression": "誤解",
+   "reading": "ごかい",
+   "romaji": "gokai",
+   "en": "misunderstanding"
+  },
+  {
+   "id": "n3-v-0944",
+   "expression": "ごめんなさい",
+   "reading": "ごめんなさい",
+   "romaji": "gomennasai",
+   "en": "I beg your pardon, excuse me, I'm sorry"
+  },
+  {
+   "id": "n3-v-1014",
+   "expression": "ミス",
+   "reading": "ミス",
+   "romaji": "misu",
+   "en": "miss (mistake, error, failure), Miss"
+  },
+  {
+   "id": "n3-v-1016",
+   "expression": "密",
+   "reading": "みつ",
+   "romaji": "mitsu",
+   "en": "thick, close"
+  },
+  {
+   "id": "n3-v-1017",
+   "expression": "認める",
+   "reading": "みとめる",
+   "romaji": "mitomeru",
+   "en": "to recognize, to notice; to approve"
+  },
+  {
+   "id": "n3-v-1044",
+   "expression": "明確",
+   "reading": "めいかく",
+   "romaji": "meikaku",
+   "en": "clear, definite"
+  },
+  {
+   "id": "n3-v-1062",
+   "expression": "申し訳",
+   "reading": "もうしわけ",
+   "romaji": "moushiwake",
+   "en": "apology, excuse"
+  },
+  {
+   "id": "n3-v-1161",
+   "expression": "理解",
+   "reading": "りかい",
+   "romaji": "rikai",
+   "en": "understanding, comprehension"
+  },
+  {
+   "id": "n3-v-1194",
+   "expression": "脇",
+   "reading": "わき",
+   "romaji": "waki",
+   "en": "side"
+  },
+  {
+   "id": "n3-v-1397",
+   "expression": "確かめる",
+   "reading": "たしかめる",
+   "romaji": "tashikameru",
+   "en": "to ascertain, to make sure"
+  },
+  {
+   "id": "n3-v-1502",
+   "expression": "通訳",
+   "reading": "つうやく",
+   "romaji": "tsuuyaku",
+   "en": "interpretation; interpreter"
+  },
+  {
+   "id": "n3-v-1513",
+   "expression": "注ぐ",
+   "reading": "つぐ",
+   "romaji": "tsugu",
+   "en": "to pour (into)"
+  },
+  {
+   "id": "n3-v-1556",
+   "expression": "ですから",
+   "reading": "ですから",
+   "romaji": "desukara",
+   "en": "therefore"
+  },
+  {
+   "id": "n3-v-1660",
+   "expression": "納得",
+   "reading": "なっとく",
+   "romaji": "nattoku",
+   "en": "consent, assent, understanding"
+  },
+  {
+   "id": "n3-v-1825",
+   "expression": "否定",
+   "reading": "ひてい",
+   "romaji": "hitei",
+   "en": "negation, denial"
+  },
+  {
+   "id": "n3-v-1862",
+   "expression": "不可",
+   "reading": "ふか",
+   "romaji": "fuka",
+   "en": "wrong, bad, impossible"
+  },
+  {
+   "id": "n3-v-1958",
+   "expression": "本当",
+   "reading": "ほんと",
+   "romaji": "honto",
+   "en": "truth, reality"
+  },
+  {
+   "id": "n3-v-1976",
+   "expression": "まさに",
+   "reading": "まさに",
+   "romaji": "masani",
+   "en": "correctly, surely"
+  },
+  {
+   "id": "n3-v-1988",
+   "expression": "間違い",
+   "reading": "まちがい",
+   "romaji": "machigai",
+   "en": "mistake"
+  },
+  {
+   "id": "n3-v-2023",
+   "expression": "正体",
+   "reading": "しょうたい",
+   "romaji": "shoutai",
+   "en": "natural shape, one's true colors, true character"
+  },
+  {
+   "id": "n3-v-2032",
+   "expression": "真理",
+   "reading": "しんり",
+   "romaji": "shinri",
+   "en": "truth"
+  },
+  {
+   "id": "n3-v-2047",
+   "expression": "先行",
+   "reading": "せんこう",
+   "romaji": "senkou",
+   "en": "preceding, going first"
+  },
+  {
+   "id": "n3-v-2050",
+   "expression": "沿う",
+   "reading": "そう",
+   "romaji": "sou",
+   "en": "to run along, to follow"
+  },
+  {
+   "id": "n3-v-2071",
+   "expression": "摘む",
+   "reading": "つむ",
+   "romaji": "tsumu",
+   "en": "to pluck, to pick, to trim"
+  },
+  {
+   "id": "n3-v-2086",
+   "expression": "当然",
+   "reading": "とうぜん",
+   "romaji": "touzen",
+   "en": "obvious; natural"
+  }
+ ]
+}

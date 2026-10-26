@@ -1,0 +1,240 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 9,
+  "slug": "toori-ni",
+  "title": {
+   "ja": "説明書のとおりに作ります",
+   "ta": "குறிப்பின்படி செய்கிறேன்",
+   "en": "Make it as the instructions say"
+  },
+  "theme": {
+   "en": "Cooking and following instructions: recipes, tools, steps, mistakes in the kitchen.",
+   "ta": "சமையலும் வழிமுறைகளைப் பின்பற்றுவதும்: சமையல் குறிப்பு, கருவிகள், படிகள், சமையலறைத் தவறுகள்."
+  },
+  "grammar": [
+   {
+    "id": "g09-1",
+    "pattern": "V-た / N の とおりに",
+    "en": "Exactly as …, following …"
+   },
+   {
+    "id": "g09-2",
+    "pattern": "V-て / V-ないで V (manner)",
+    "en": "Doing V in a certain way: with / without (砂糖を入れないで飲む)"
+   },
+   {
+    "id": "g09-3",
+    "pattern": "V1-ないで、V2 (instead)",
+    "en": "Do V2 instead of V1"
+   },
+   {
+    "id": "g09-4",
+    "pattern": "V-ずに",
+    "en": "Without doing (more formal ないで); せずに for する"
+   },
+   {
+    "id": "g09-5",
+    "pattern": "V-ます stem + 方",
+    "en": "How to …, the way of …ing: 作り方"
+   }
+  ],
+  "vocabHints": [
+   "cooking: grill, boil, pickle, miso, jam, rice",
+   "steps: first, add, lower, middle",
+   "tools and shapes",
+   "easy, complicated, mistake"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-033",
+   "expression": "表",
+   "reading": "おもて",
+   "romaji": "omote",
+   "en": "surface; front; outside"
+  },
+  {
+   "id": "n4-v-055",
+   "expression": "焼く",
+   "reading": "やく",
+   "romaji": "yaku",
+   "en": "to bake, to grill"
+  },
+  {
+   "id": "n4-v-065",
+   "expression": "複雑",
+   "reading": "ふくざつ",
+   "romaji": "fukuzatsu",
+   "en": "complexity, complication"
+  },
+  {
+   "id": "n4-v-203",
+   "expression": "適当",
+   "reading": "てきとう",
+   "romaji": "tekitou",
+   "en": "fitness, suitability"
+  },
+  {
+   "id": "n4-v-209",
+   "expression": "一度",
+   "reading": "いちど",
+   "romaji": "ichido",
+   "en": "once, one time"
+  },
+  {
+   "id": "n4-v-240",
+   "expression": "漬ける",
+   "reading": "つける",
+   "romaji": "tsukeru",
+   "en": "to soak, to moisten, to pickle"
+  },
+  {
+   "id": "n4-v-267",
+   "expression": "細かい",
+   "reading": "こまかい",
+   "romaji": "komakai",
+   "en": "small; fine, minute"
+  },
+  {
+   "id": "n4-v-268",
+   "expression": "塗る",
+   "reading": "ぬる",
+   "romaji": "nuru",
+   "en": "to paint, to plaster"
+  },
+  {
+   "id": "n4-v-276",
+   "expression": "形",
+   "reading": "かたち",
+   "romaji": "katachi",
+   "en": "shape"
+  },
+  {
+   "id": "n4-v-287",
+   "expression": "味噌",
+   "reading": "みそ",
+   "romaji": "miso",
+   "en": "miso, bean paste"
+  },
+  {
+   "id": "n4-v-296",
+   "expression": "ジャム",
+   "reading": "ジャム",
+   "romaji": "jamu",
+   "en": "jam"
+  },
+  {
+   "id": "n4-v-349",
+   "expression": "足す",
+   "reading": "たす",
+   "romaji": "tasu",
+   "en": "to add (numbers)"
+  },
+  {
+   "id": "n4-v-368",
+   "expression": "米",
+   "reading": "こめ",
+   "romaji": "kome",
+   "en": "uncooked rice"
+  },
+  {
+   "id": "n4-v-397",
+   "expression": "沸かす",
+   "reading": "わかす",
+   "romaji": "wakasu",
+   "en": "to boil"
+  },
+  {
+   "id": "n4-v-406",
+   "expression": "こう",
+   "reading": "こう",
+   "romaji": "kou",
+   "en": "like this, this way"
+  },
+  {
+   "id": "n4-v-408",
+   "expression": "裏",
+   "reading": "うら",
+   "romaji": "ura",
+   "en": "reverse side, back"
+  },
+  {
+   "id": "n4-v-424",
+   "expression": "まず",
+   "reading": "まず",
+   "romaji": "mazu",
+   "en": "first (of all), to start with"
+  },
+  {
+   "id": "n4-v-437",
+   "expression": "道具",
+   "reading": "どうぐ",
+   "romaji": "dougu",
+   "en": "tool"
+  },
+  {
+   "id": "n4-v-546",
+   "expression": "焼ける",
+   "reading": "やける",
+   "romaji": "yakeru",
+   "en": "to burn, to be roasted"
+  },
+  {
+   "id": "n4-v-573",
+   "expression": "仕方",
+   "reading": "しかた",
+   "romaji": "shikata",
+   "en": "way (of doing something)"
+  },
+  {
+   "id": "n4-v-577",
+   "expression": "失敗",
+   "reading": "しっぱい",
+   "romaji": "shippai",
+   "en": "failure, mistake"
+  },
+  {
+   "id": "n4-v-603",
+   "expression": "簡単",
+   "reading": "かんたん",
+   "romaji": "kantan",
+   "en": "simple"
+  },
+  {
+   "id": "n4-v-611",
+   "expression": "真中",
+   "reading": "まんなか",
+   "romaji": "mannaka",
+   "en": "middle, center"
+  },
+  {
+   "id": "n4-v-614",
+   "expression": "ケーキ",
+   "reading": "ケーキ",
+   "romaji": "keeki",
+   "en": "cake"
+  },
+  {
+   "id": "n4-v-619",
+   "expression": "下げる",
+   "reading": "さげる",
+   "romaji": "sageru",
+   "en": "to lower (v.t.); to hang"
+  },
+  {
+   "id": "n4-v-638",
+   "expression": "湯",
+   "reading": "ゆ",
+   "romaji": "yu",
+   "en": "hot water"
+  },
+  {
+   "id": "n4-v-648",
+   "expression": "～目",
+   "reading": "～め",
+   "romaji": "～me",
+   "en": "number ~ sequence, ~nd; ~th"
+  }
+ ]
+}

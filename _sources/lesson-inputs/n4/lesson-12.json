@@ -1,0 +1,172 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 12,
+  "slug": "ukemi",
+  "title": {
+   "ja": "財布を盗まれました",
+   "ta": "என் பணப்பை திருடப்பட்டது",
+   "en": "My wallet was stolen"
+  },
+  "theme": {
+   "en": "Troubles and accidents: thieves, pickpockets, injuries, the police.",
+   "ta": "பிரச்சினைகளும் விபத்துகளும்: திருடர்கள், பிக்பாக்கெட், காயம், காவல்துறை."
+  },
+  "grammar": [
+   {
+    "id": "g12-1",
+    "pattern": "Passive form (V-られる / V-れる)",
+    "en": "How to make the passive form of all verb groups"
+   },
+   {
+    "id": "g12-2",
+    "pattern": "N1 は N2 に V-passive",
+    "en": "Direct passive: X is (done to) by Y — 先生に褒められました"
+   },
+   {
+    "id": "g12-3",
+    "pattern": "N1 は N2 に N3 を V-passive",
+    "en": "Someone's belonging or body part is affected: 足を踏まれました"
+   },
+   {
+    "id": "g12-4",
+    "pattern": "N1 に V-passive (suffering passive)",
+    "en": "Being troubled by something: 雨に降られました"
+   }
+  ],
+  "vocabHints": [
+   "crime: thief, pickpocket, steal, catch, police",
+   "accidents: injury, slip, break a bone",
+   "trouble: bully, make noise, step on",
+   "apologising"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-001",
+   "expression": "踏む",
+   "reading": "ふむ",
+   "romaji": "fumu",
+   "en": "to step on, to tread on"
+  },
+  {
+   "id": "n4-v-004",
+   "expression": "盗む",
+   "reading": "ぬすむ",
+   "romaji": "nusumu",
+   "en": "to steal; to rob"
+  },
+  {
+   "id": "n4-v-071",
+   "expression": "泥棒",
+   "reading": "どろぼう",
+   "romaji": "dorobou",
+   "en": "thief; burglar"
+  },
+  {
+   "id": "n4-v-128",
+   "expression": "捕まえる",
+   "reading": "つかまえる",
+   "romaji": "tsukamaeru",
+   "en": "to catch, to arrest"
+  },
+  {
+   "id": "n4-v-133",
+   "expression": "逃げる",
+   "reading": "にげる",
+   "romaji": "nigeru",
+   "en": "to escape, to run away"
+  },
+  {
+   "id": "n4-v-162",
+   "expression": "間違える",
+   "reading": "まちがえる",
+   "romaji": "machigaeru",
+   "en": "to make a mistake"
+  },
+  {
+   "id": "n4-v-226",
+   "expression": "事故",
+   "reading": "じこ",
+   "romaji": "jiko",
+   "en": "accident"
+  },
+  {
+   "id": "n4-v-246",
+   "expression": "けがする",
+   "reading": "けがする",
+   "romaji": "kegasuru",
+   "en": "injury (to animate object), hurt"
+  },
+  {
+   "id": "n4-v-364",
+   "expression": "謝る",
+   "reading": "あやまる",
+   "romaji": "ayamaru",
+   "en": "to apologize"
+  },
+  {
+   "id": "n4-v-383",
+   "expression": "ひどい",
+   "reading": "ひどい",
+   "romaji": "hidoi",
+   "en": "terrible, awful, unfair, cruel"
+  },
+  {
+   "id": "n4-v-427",
+   "expression": "折れる",
+   "reading": "おれる",
+   "romaji": "oreru",
+   "en": "to break, to be folded, to give in; to turn (a corner)"
+  },
+  {
+   "id": "n4-v-438",
+   "expression": "滑る",
+   "reading": "すべる",
+   "romaji": "suberu",
+   "en": "to slide, to slip"
+  },
+  {
+   "id": "n4-v-463",
+   "expression": "騒ぐ",
+   "reading": "さわぐ",
+   "romaji": "sawagu",
+   "en": "to make noise, to clamor"
+  },
+  {
+   "id": "n4-v-554",
+   "expression": "落す",
+   "reading": "おとす",
+   "romaji": "otosu",
+   "en": "to drop, to lose"
+  },
+  {
+   "id": "n4-v-561",
+   "expression": "いじめる",
+   "reading": "いじめる",
+   "romaji": "ijimeru",
+   "en": "to bully, to torment"
+  },
+  {
+   "id": "n4-v-566",
+   "expression": "濡れる",
+   "reading": "ぬれる",
+   "romaji": "nureru",
+   "en": "to get wet"
+  },
+  {
+   "id": "n4-v-600",
+   "expression": "警察",
+   "reading": "けいさつ",
+   "romaji": "keisatsu",
+   "en": "police; police station"
+  },
+  {
+   "id": "n4-v-655",
+   "expression": "すり",
+   "reading": "すり",
+   "romaji": "suri",
+   "en": "pickpocket"
+  }
+ ]
+}

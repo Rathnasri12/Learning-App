@@ -1,0 +1,471 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 40,
+  "slug": "tsumari-yousuru-ni",
+  "title": {
+   "ja": "つまり、要するに",
+   "ta": "வேறு வார்த்தைகளில் சொன்னால்",
+   "en": "In other words"
+  },
+  "theme": {
+   "en": "Writing opinions and essays: the environment, the future and logical connectors.",
+   "ta": "கருத்துகளையும் கட்டுரைகளையும் எழுதுவது: சுற்றுச்சூழல், எதிர்காலம், தர்க்க இணைப்புச் சொற்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g40-1",
+    "pattern": "すると / そこで",
+    "en": "Then (result) / so (action taken)"
+   },
+   {
+    "id": "g40-2",
+    "pattern": "そのうえ / しかも / さらに",
+    "en": "Moreover, besides"
+   },
+   {
+    "id": "g40-3",
+    "pattern": "つまり / 要するに / すなわち",
+    "en": "In other words, in short, namely"
+   },
+   {
+    "id": "g40-4",
+    "pattern": "ただし / なお",
+    "en": "However (exception) / note that (extra information)"
+   },
+   {
+    "id": "g40-5",
+    "pattern": "なぜなら 〜からだ",
+    "en": "The reason is that ~"
+   }
+  ],
+  "vocabHints": [
+   "conjunctions and essay words",
+   "the environment and resources",
+   "arguments and conclusions",
+   "the future"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0007",
+   "expression": "左右",
+   "reading": "さゆう",
+   "romaji": "sayuu",
+   "en": "left and right; influence"
+  },
+  {
+   "id": "n3-v-0009",
+   "expression": "更に",
+   "reading": "さらに",
+   "romaji": "sarani",
+   "en": "furthermore, moreover"
+  },
+  {
+   "id": "n3-v-0025",
+   "expression": "しかも",
+   "reading": "しかも",
+   "romaji": "shikamo",
+   "en": "moreover, furthermore, besides, plus"
+  },
+  {
+   "id": "n3-v-0033",
+   "expression": "資源",
+   "reading": "しげん",
+   "romaji": "shigen",
+   "en": "resources"
+  },
+  {
+   "id": "n3-v-0048",
+   "expression": "したがって",
+   "reading": "したがって",
+   "romaji": "shitagatte",
+   "en": "therefore, consequently"
+  },
+  {
+   "id": "n3-v-0106",
+   "expression": "重要",
+   "reading": "じゅうよう",
+   "romaji": "juuyou",
+   "en": "important, essential"
+  },
+  {
+   "id": "n3-v-0113",
+   "expression": "主張",
+   "reading": "しゅちょう",
+   "romaji": "shuchou",
+   "en": "claim, insistence, assertion"
+  },
+  {
+   "id": "n3-v-0240",
+   "expression": "すなわち",
+   "reading": "すなわち",
+   "romaji": "sunawachi",
+   "en": "that is, namely, e.g."
+  },
+  {
+   "id": "n3-v-0253",
+   "expression": "ずれる",
+   "reading": "ずれる",
+   "romaji": "zureru",
+   "en": "move, off the point"
+  },
+  {
+   "id": "n3-v-0287",
+   "expression": "石炭",
+   "reading": "せきたん",
+   "romaji": "sekitan",
+   "en": "coal"
+  },
+  {
+   "id": "n3-v-0289",
+   "expression": "石油",
+   "reading": "せきゆ",
+   "romaji": "sekiyu",
+   "en": "oil, petroleum, kerosene"
+  },
+  {
+   "id": "n3-v-0315",
+   "expression": "挙げる",
+   "reading": "あげる",
+   "romaji": "ageru",
+   "en": "to raise; to list, to cite"
+  },
+  {
+   "id": "n3-v-0334",
+   "expression": "油",
+   "reading": "あぶら",
+   "romaji": "abura",
+   "en": "oil"
+  },
+  {
+   "id": "n3-v-0341",
+   "expression": "あらゆる",
+   "reading": "あらゆる",
+   "romaji": "arayuru",
+   "en": "all, every"
+  },
+  {
+   "id": "n3-v-0349",
+   "expression": "或",
+   "reading": "ある",
+   "romaji": "aru",
+   "en": "a certain..., some..."
+  },
+  {
+   "id": "n3-v-0350",
+   "expression": "あるいは",
+   "reading": "あるいは",
+   "romaji": "aruiha",
+   "en": "or, perhaps"
+  },
+  {
+   "id": "n3-v-0379",
+   "expression": "いずれ",
+   "reading": "いずれ",
+   "romaji": "izure",
+   "en": "where, which, who"
+  },
+  {
+   "id": "n3-v-0398",
+   "expression": "一層",
+   "reading": "いっそう",
+   "romaji": "issou",
+   "en": "much more, still more"
+  },
+  {
+   "id": "n3-v-0476",
+   "expression": "エネルギー",
+   "reading": "エネルギー",
+   "romaji": "enerugii",
+   "en": "energy (GER: energie)"
+  },
+  {
+   "id": "n3-v-0512",
+   "expression": "汚染",
+   "reading": "おせん",
+   "romaji": "osen",
+   "en": "pollution, contamination"
+  },
+  {
+   "id": "n3-v-0597",
+   "expression": "加減",
+   "reading": "かげん",
+   "romaji": "kagen",
+   "en": "adjustment; addition and subtraction"
+  },
+  {
+   "id": "n3-v-0624",
+   "expression": "活気",
+   "reading": "かっき",
+   "romaji": "kakki",
+   "en": "vigor; liveliness; vitality; energy"
+  },
+  {
+   "id": "n3-v-0630",
+   "expression": "仮定",
+   "reading": "かてい",
+   "romaji": "katei",
+   "en": "assumption, supposition, hypothesis"
+  },
+  {
+   "id": "n3-v-0668",
+   "expression": "環境",
+   "reading": "かんきょう",
+   "romaji": "kankyou",
+   "en": "environment, circumstance"
+  },
+  {
+   "id": "n3-v-0741",
+   "expression": "急速",
+   "reading": "きゅうそく",
+   "romaji": "kyuusoku",
+   "en": "rapid (e.g., progress)"
+  },
+  {
+   "id": "n3-v-0751",
+   "expression": "強調",
+   "reading": "きょうちょう",
+   "romaji": "kyouchou",
+   "en": "emphasis, stress, stressed point"
+  },
+  {
+   "id": "n3-v-0765",
+   "expression": "議論",
+   "reading": "ぎろん",
+   "romaji": "giron",
+   "en": "argument, discussion, dispute"
+  },
+  {
+   "id": "n3-v-0786",
+   "expression": "具体",
+   "reading": "ぐたい",
+   "romaji": "gutai",
+   "en": "concrete, tangible, material"
+  },
+  {
+   "id": "n3-v-0835",
+   "expression": "ケース",
+   "reading": "ケース",
+   "romaji": "keesu",
+   "en": "case"
+  },
+  {
+   "id": "n3-v-0893",
+   "expression": "後者",
+   "reading": "こうしゃ",
+   "romaji": "kousha",
+   "en": "the latter"
+  },
+  {
+   "id": "n3-v-0946",
+   "expression": "これら",
+   "reading": "これら",
+   "romaji": "korera",
+   "en": "these"
+  },
+  {
+   "id": "n3-v-0986",
+   "expression": "指す",
+   "reading": "さす",
+   "romaji": "sasu",
+   "en": "to point,"
+  },
+  {
+   "id": "n3-v-1032",
+   "expression": "向ける",
+   "reading": "むける",
+   "romaji": "mukeru",
+   "en": "to turn towards, to point"
+  },
+  {
+   "id": "n3-v-1036",
+   "expression": "寧ろ",
+   "reading": "むしろ",
+   "romaji": "mushiro",
+   "en": "rather, better, instead"
+  },
+  {
+   "id": "n3-v-1070",
+   "expression": "もしも",
+   "reading": "もしも",
+   "romaji": "moshimo",
+   "en": "if"
+  },
+  {
+   "id": "n3-v-1130",
+   "expression": "要するに",
+   "reading": "ようするに",
+   "romaji": "yousuruni",
+   "en": "in a word, after all, in short …"
+  },
+  {
+   "id": "n3-v-1132",
+   "expression": "要点",
+   "reading": "ようてん",
+   "romaji": "youten",
+   "en": "gist, main point"
+  },
+  {
+   "id": "n3-v-1173",
+   "expression": "例",
+   "reading": "れい",
+   "romaji": "rei",
+   "en": "instance, example, case"
+  },
+  {
+   "id": "n3-v-1186",
+   "expression": "論じる",
+   "reading": "ろんじる",
+   "romaji": "ronjiru",
+   "en": "to argue, to discuss"
+  },
+  {
+   "id": "n3-v-1187",
+   "expression": "論争",
+   "reading": "ろんそう",
+   "romaji": "ronsou",
+   "en": "controversy, dispute"
+  },
+  {
+   "id": "n3-v-1200",
+   "expression": "話題",
+   "reading": "わだい",
+   "romaji": "wadai",
+   "en": "topic, subject"
+  },
+  {
+   "id": "n3-v-1219",
+   "expression": "依然",
+   "reading": "いぜん",
+   "romaji": "izen",
+   "en": "still, as yet"
+  },
+  {
+   "id": "n3-v-1261",
+   "expression": "協議",
+   "reading": "きょうぎ",
+   "romaji": "kyougi",
+   "en": "conference, discussion, negotiation"
+  },
+  {
+   "id": "n3-v-1296",
+   "expression": "絶滅",
+   "reading": "ぜつめつ",
+   "romaji": "zetsumetsu",
+   "en": "destruction, extinction"
+  },
+  {
+   "id": "n3-v-1307",
+   "expression": "前者",
+   "reading": "ぜんしゃ",
+   "romaji": "zensha",
+   "en": "the former"
+  },
+  {
+   "id": "n3-v-1325",
+   "expression": "そこで",
+   "reading": "そこで",
+   "romaji": "sokode",
+   "en": "so (conj.), accordingly"
+  },
+  {
+   "id": "n3-v-1327",
+   "expression": "そして",
+   "reading": "そして",
+   "romaji": "soshite",
+   "en": "and then"
+  },
+  {
+   "id": "n3-v-1335",
+   "expression": "そのうえ",
+   "reading": "そのうえ",
+   "romaji": "sonoue",
+   "en": "in addition, furthermore"
+  },
+  {
+   "id": "n3-v-1360",
+   "expression": "大気",
+   "reading": "たいき",
+   "romaji": "taiki",
+   "en": "atmosphere"
+  },
+  {
+   "id": "n3-v-1449",
+   "expression": "単なる",
+   "reading": "たんなる",
+   "romaji": "tannaru",
+   "en": "mere, simple, sheer"
+  },
+  {
+   "id": "n3-v-1450",
+   "expression": "単に",
+   "reading": "たんに",
+   "romaji": "tanni",
+   "en": "simply, merely"
+  },
+  {
+   "id": "n3-v-1461",
+   "expression": "地球",
+   "reading": "ちきゅう",
+   "romaji": "chikyuu",
+   "en": "the earth"
+  },
+  {
+   "id": "n3-v-1527",
+   "expression": "つまり",
+   "reading": "つまり",
+   "romaji": "tsumari",
+   "en": "namely; in other words; in short"
+  },
+  {
+   "id": "n3-v-1554",
+   "expression": "できれば",
+   "reading": "できれば",
+   "romaji": "dekireba",
+   "en": "if possible…"
+  },
+  {
+   "id": "n3-v-1607",
+   "expression": "ところが",
+   "reading": "ところが",
+   "romaji": "tokoroga",
+   "en": "however, while, even if"
+  },
+  {
+   "id": "n3-v-1644",
+   "expression": "なお",
+   "reading": "なお",
+   "romaji": "nao",
+   "en": "still, yet"
+  },
+  {
+   "id": "n3-v-1658",
+   "expression": "なぜなら",
+   "reading": "なぜなら",
+   "romaji": "nazenara",
+   "en": "because"
+  },
+  {
+   "id": "n3-v-2064",
+   "expression": "例え",
+   "reading": "たとえ",
+   "romaji": "tatoe",
+   "en": "example; even though"
+  },
+  {
+   "id": "n3-v-2080",
+   "expression": "と",
+   "reading": "と",
+   "romaji": "to",
+   "en": "and"
+  },
+  {
+   "id": "n3-v-2088",
+   "expression": "説く",
+   "reading": "とく",
+   "romaji": "toku",
+   "en": "to explain, to advocate"
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "level": "n3",
+ "meta": {
+  "n": 13,
+  "slug": "kodomo-no-kuse-ni",
+  "title": {
+   "ja": "子どものくせに",
+   "ta": "சின்னப் பையனாக இருந்தும்",
+   "en": "Even though he's just a kid"
+  },
+  "theme": {
+   "en": "Impressions of people: character, complaints and pleasant surprises.",
+   "ta": "மனிதர்களைப் பற்றிய எண்ணங்கள்: குணம், குறைகள், இனிய ஆச்சரியங்கள்."
+  },
+  "grammar": [
+   {
+    "id": "g13-1",
+    "pattern": "〜くせに",
+    "en": "Even though ~ (criticism)"
+   },
+   {
+    "id": "g13-2",
+    "pattern": "〜わりに(は)",
+    "en": "Considering ~ / for ~"
+   },
+   {
+    "id": "g13-3",
+    "pattern": "〜にしては",
+    "en": "For ~ (unexpected compared with the standard)"
+   },
+   {
+    "id": "g13-4",
+    "pattern": "〜ながら(も)",
+    "en": "Although ~ (concession)"
+   },
+   {
+    "id": "g13-5",
+    "pattern": "〜ばいいのに / 〜たらいいのに",
+    "en": "I wish ~ / why don't they ~ (regret, criticism)"
+   }
+  ],
+  "vocabHints": [
+   "character and personality",
+   "praise and complaints",
+   "abilities and habits"
+  ]
+ },
+ "words": [
+  {
+   "id": "n3-v-0050",
+   "expression": "質",
+   "reading": "しつ",
+   "romaji": "shitsu",
+   "en": "quality, nature (of person)"
+  },
+  {
+   "id": "n3-v-0079",
+   "expression": "自慢",
+   "reading": "じまん",
+   "romaji": "jiman",
+   "en": "pride, boast"
+  },
+  {
+   "id": "n3-v-0080",
+   "expression": "地味",
+   "reading": "じみ",
+   "romaji": "jimi",
+   "en": "quiet, plain, conservative"
+  },
+  {
+   "id": "n3-v-0127",
+   "expression": "小",
+   "reading": "しょう",
+   "romaji": "shou",
+   "en": "small"
+  },
+  {
+   "id": "n3-v-0138",
+   "expression": "正直",
+   "reading": "しょうじき",
+   "romaji": "shoujiki",
+   "en": "honesty, integrity, frankness"
+  },
+  {
+   "id": "n3-v-0177",
+   "expression": "処理",
+   "reading": "しょり",
+   "romaji": "shori",
+   "en": "processing, treatment, disposition"
+  },
+  {
+   "id": "n3-v-0186",
+   "expression": "真剣",
+   "reading": "しんけん",
+   "romaji": "shinken",
+   "en": "seriousness, earnestness"
+  },
+  {
+   "id": "n3-v-0190",
+   "expression": "深刻",
+   "reading": "しんこく",
+   "romaji": "shinkoku",
+   "en": "serious"
+  },
+  {
+   "id": "n3-v-0202",
+   "expression": "人物",
+   "reading": "じんぶつ",
+   "romaji": "jinbutsu",
+   "en": "character, personality, talented man"
+  },
+  {
+   "id": "n3-v-0260",
+   "expression": "性格",
+   "reading": "せいかく",
+   "romaji": "seikaku",
+   "en": "character, personality"
+  },
+  {
+   "id": "n3-v-0377",
+   "expression": "意地悪",
+   "reading": "いじわる",
+   "romaji": "ijiwaru",
+   "en": "malicious, mean, unkind"
+  },
+  {
+   "id": "n3-v-0448",
+   "expression": "うっかり",
+   "reading": "うっかり",
+   "romaji": "ukkari",
+   "en": "carelessly; inadvertently"
+  },
+  {
+   "id": "n3-v-0461",
+   "expression": "羨ましい",
+   "reading": "うらやましい",
+   "romaji": "urayamashii",
+   "en": "envious, enviable"
+  },
+  {
+   "id": "n3-v-0505",
+   "expression": "幼い",
+   "reading": "おさない",
+   "romaji": "osanai",
+   "en": "very young, childish"
+  },
+  {
+   "id": "n3-v-0518",
+   "expression": "穏やか",
+   "reading": "おだやか",
+   "romaji": "odayaka",
+   "en": "calm, gentle, quiet"
+  },
+  {
+   "id": "n3-v-0520",
+   "expression": "大人しい",
+   "reading": "おとなしい",
+   "romaji": "otonashii",
+   "en": "obedient, docile, quiet"
+  },
+  {
+   "id": "n3-v-0608",
+   "expression": "賢い",
+   "reading": "かしこい",
+   "romaji": "kashikoi",
+   "en": "wise, clever, smart"
+  },
+  {
+   "id": "n3-v-0638",
+   "expression": "可能",
+   "reading": "かのう",
+   "romaji": "kanou",
+   "en": "possible, practicable, feasible"
+  },
+  {
+   "id": "n3-v-0701",
+   "expression": "機嫌",
+   "reading": "きげん",
+   "romaji": "kigen",
+   "en": "humor, temper, mood"
+  },
+  {
+   "id": "n3-v-0745",
+   "expression": "器用",
+   "reading": "きよう",
+   "romaji": "kiyou",
+   "en": "skillful, handy"
+  },
+  {
+   "id": "n3-v-0784",
+   "expression": "癖",
+   "reading": "くせ",
+   "romaji": "kuse",
+   "en": "a habit (often a bad habit), peculiarity"
+  },
+  {
+   "id": "n3-v-0840",
+   "expression": "けち",
+   "reading": "けち",
+   "romaji": "kechi",
+   "en": "stinginess, miser"
+  },
+  {
+   "id": "n3-v-0966",
+   "expression": "才能",
+   "reading": "さいのう",
+   "romaji": "sainou",
+   "en": "talent, ability"
+  },
+  {
+   "id": "n3-v-1077",
+   "expression": "素",
+   "reading": "もと",
+   "romaji": "moto",
+   "en": "prime"
+  },
+  {
+   "id": "n3-v-1111",
+   "expression": "有能",
+   "reading": "ゆうのう",
+   "romaji": "yuunou",
+   "en": "able, capable, efficient"
+  },
+  {
+   "id": "n3-v-1126",
+   "expression": "陽気",
+   "reading": "ようき",
+   "romaji": "youki",
+   "en": "season, weather, cheerfulness"
+  },
+  {
+   "id": "n3-v-1163",
+   "expression": "利口",
+   "reading": "りこう",
+   "romaji": "rikou",
+   "en": "clever, shrewd, bright"
+  },
+  {
+   "id": "n3-v-1177",
+   "expression": "冷静",
+   "reading": "れいせい",
+   "romaji": "reisei",
+   "en": "calm, coolness"
+  },
+  {
+   "id": "n3-v-1191",
+   "expression": "わがまま",
+   "reading": "わがまま",
+   "romaji": "wagamama",
+   "en": "selfishness, egoism, willfulness"
+  },
+  {
+   "id": "n3-v-1218",
+   "expression": "意地",
+   "reading": "いじ",
+   "romaji": "iji",
+   "en": "disposition, spirit, obstinacy, appetite"
+  },
+  {
+   "id": "n3-v-1238",
+   "expression": "格",
+   "reading": "かく",
+   "romaji": "kaku",
+   "en": "status, character, case"
+  },
+  {
+   "id": "n3-v-1266",
+   "expression": "近視",
+   "reading": "きんし",
+   "romaji": "kinshi",
+   "en": "nearsightedness"
+  },
+  {
+   "id": "n3-v-1340",
+   "expression": "粗末",
+   "reading": "そまつ",
+   "romaji": "somatsu",
+   "en": "humble, miserable, crude"
+  },
+  {
+   "id": "n3-v-1414",
+   "expression": "唯",
+   "reading": "たった",
+   "romaji": "tatta",
+   "en": "only, just"
+  },
+  {
+   "id": "n3-v-1443",
+   "expression": "男子",
+   "reading": "だんし",
+   "romaji": "danshi",
+   "en": "young man"
+  },
+  {
+   "id": "n3-v-1444",
+   "expression": "単純",
+   "reading": "たんじゅん",
+   "romaji": "tanjun",
+   "en": "simplicity"
+  },
+  {
+   "id": "n3-v-1586",
+   "expression": "同様",
+   "reading": "どうよう",
+   "romaji": "douyou",
+   "en": "identical, same (kind), like"
+  },
+  {
+   "id": "n3-v-1597",
+   "expression": "得意",
+   "reading": "とくい",
+   "romaji": "tokui",
+   "en": "pride, triumph, prosperity"
+  },
+  {
+   "id": "n3-v-1600",
+   "expression": "特徴",
+   "reading": "とくちょう",
+   "romaji": "tokuchou",
+   "en": "characteristic(s); feature(s); trait(s)"
+  },
+  {
+   "id": "n3-v-1602",
+   "expression": "独特",
+   "reading": "どくとく",
+   "romaji": "dokutoku",
+   "en": "peculiarity, uniqueness, characteristic"
+  },
+  {
+   "id": "n3-v-1643",
+   "expression": "内容",
+   "reading": "ないよう",
+   "romaji": "naiyou",
+   "en": "subject, contents, detail"
+  },
+  {
+   "id": "n3-v-1665",
+   "expression": "怠ける",
+   "reading": "なまける",
+   "romaji": "namakeru",
+   "en": "to be idle, to neglect"
+  },
+  {
+   "id": "n3-v-1679",
+   "expression": "苦手",
+   "reading": "にがて",
+   "romaji": "nigate",
+   "en": "poor (at), weak (in), dislike (of)"
+  },
+  {
+   "id": "n3-v-1748",
+   "expression": "馬鹿",
+   "reading": "ばか",
+   "romaji": "baka",
+   "en": "fool, idiot"
+  },
+  {
+   "id": "n3-v-1944",
+   "expression": "誇り",
+   "reading": "ほこり",
+   "romaji": "hokori",
+   "en": "pride"
+  },
+  {
+   "id": "n3-v-2049",
+   "expression": "相",
+   "reading": "そう",
+   "romaji": "sou",
+   "en": "aspect, phase, countenance"
+  }
+ ]
+}

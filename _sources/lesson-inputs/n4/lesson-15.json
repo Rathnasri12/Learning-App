@@ -1,0 +1,177 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 15,
+  "slug": "ka-dou-ka",
+  "title": {
+   "ja": "届いたかどうか調べます",
+   "ta": "வந்துசேர்ந்ததா என்று பார்க்கிறேன்",
+   "en": "I'll check whether it arrived"
+  },
+  "theme": {
+   "en": "Lost and found, deliveries and enquiries: looking for things, contacting people, checking facts.",
+   "ta": "தொலைந்ததும் கிடைத்ததும், அனுப்புதல், விசாரணை: பொருட்களைத் தேடுவது, தொடர்புகொள்வது, உண்மையைச் சரிபார்ப்பது."
+  },
+  "grammar": [
+   {
+    "id": "g15-1",
+    "pattern": "question word + plain form か、〜",
+    "en": "Embedded question: 何時に来るか、わかりません"
+   },
+   {
+    "id": "g15-2",
+    "pattern": "plain form か どうか、〜",
+    "en": "Whether or not …"
+   },
+   {
+    "id": "g15-3",
+    "pattern": "V-てみます",
+    "en": "Try doing … (to see what happens)"
+   },
+   {
+    "id": "g15-4",
+    "pattern": "〜かな / 〜かしら",
+    "en": "I wonder … (talking to yourself)"
+   },
+   {
+    "id": "g15-5",
+    "pattern": "plain form の？ (casual question)",
+    "en": "Casual question asking for an explanation: どこ行くの？"
+   }
+  ],
+  "vocabHints": [
+   "lost property: lose, look for, find, be found",
+   "contact: notify, reply, send, deliver",
+   "address, explanation, enquiry",
+   "certain, clearly"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-042",
+   "expression": "拾う",
+   "reading": "ひろう",
+   "romaji": "hirou",
+   "en": "to pick up (something), to find"
+  },
+  {
+   "id": "n4-v-170",
+   "expression": "無くなる",
+   "reading": "なくなる",
+   "romaji": "nakunaru",
+   "en": "to disappear, to get lost"
+  },
+  {
+   "id": "n4-v-173",
+   "expression": "住所",
+   "reading": "じゅうしょ",
+   "romaji": "juusho",
+   "en": "address; place of residence"
+  },
+  {
+   "id": "n4-v-181",
+   "expression": "調べる",
+   "reading": "しらべる",
+   "romaji": "shiraberu",
+   "en": "to check; to look up; to inquire; to search"
+  },
+  {
+   "id": "n4-v-193",
+   "expression": "連絡",
+   "reading": "れんらく",
+   "romaji": "renraku",
+   "en": "communication, contact, connection"
+  },
+  {
+   "id": "n4-v-212",
+   "expression": "知らせる",
+   "reading": "しらせる",
+   "romaji": "shiraseru",
+   "en": "to notify"
+  },
+  {
+   "id": "n4-v-253",
+   "expression": "届ける",
+   "reading": "とどける",
+   "romaji": "todokeru",
+   "en": "to deliver (v.t.)"
+  },
+  {
+   "id": "n4-v-256",
+   "expression": "確か",
+   "reading": "たしか",
+   "romaji": "tashika",
+   "en": "if I remember correctly; certain, definite"
+  },
+  {
+   "id": "n4-v-275",
+   "expression": "探す",
+   "reading": "さがす",
+   "romaji": "sagasu",
+   "en": "to search, to seek, to look for"
+  },
+  {
+   "id": "n4-v-336",
+   "expression": "はっきり",
+   "reading": "はっきり",
+   "romaji": "hakkiri",
+   "en": "clearly, distinctly"
+  },
+  {
+   "id": "n4-v-430",
+   "expression": "返事",
+   "reading": "へんじ",
+   "romaji": "henji",
+   "en": "reply, answer"
+  },
+  {
+   "id": "n4-v-435",
+   "expression": "説明",
+   "reading": "せつめい",
+   "romaji": "setsumei",
+   "en": "explanation"
+  },
+  {
+   "id": "n4-v-461",
+   "expression": "送る",
+   "reading": "おくる",
+   "romaji": "okuru",
+   "en": "to send, to dispatch"
+  },
+  {
+   "id": "n4-v-464",
+   "expression": "尋ねる",
+   "reading": "たずねる",
+   "romaji": "tazuneru",
+   "en": "to inquire (same as 質問する)"
+  },
+  {
+   "id": "n4-v-472",
+   "expression": "見つける",
+   "reading": "みつける",
+   "romaji": "mitsukeru",
+   "en": "to discover, to find (v.t.)"
+  },
+  {
+   "id": "n4-v-477",
+   "expression": "忘れ物",
+   "reading": "わすれもの",
+   "romaji": "wasuremono",
+   "en": "lost article, something forgotten"
+  },
+  {
+   "id": "n4-v-523",
+   "expression": "見つかる",
+   "reading": "みつかる",
+   "romaji": "mitsukaru",
+   "en": "to be found (v.i.), to be discovered"
+  },
+  {
+   "id": "n4-v-612",
+   "expression": "戻る",
+   "reading": "もどる",
+   "romaji": "modoru",
+   "en": "to return (v.i.); to come back"
+  }
+ ]
+}

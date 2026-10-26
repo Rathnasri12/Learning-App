@@ -54,3 +54,12 @@ Use the existing item schema (see `content/SCHEMA.md`):
 - Use the typographic apostrophe ’ in English.
 - Validate: `node _sources/tools/check_kanji.mjs <unit numbers>` from the project root must print OK for each of your units.
 - Don't edit anything outside your own `unit-XX.json` files.
+
+## N4 and N3 kanji (additions; everything above still applies)
+- Paths use the level: `content/kanji/<level>/units.json`, `skeleton.json`, `unit-XX.json`, `exam.json`. Validate with `node _sources/tools/check_kanji.mjs <level> <unit numbers>` (or `<level> exam`).
+- The units were split automatically in difficulty order, so they have no theme yet. Give each unit file a **`title`** `{ "en": "...", "ta": "..." }`: a short name that fits its kanji (e.g. "Work and society", "Body and health"), not "Unit 3".
+- `vocabExamples` in the skeleton come from the word lists and carry English but **no Tamil**. Write the `ta` (and a clean `en`) yourself. Prefer words from this level's list (`level` field), then lower levels. Keep `vocabId` when you use one.
+- Example words may use kanji from this level and lower levels; avoid kanji from higher levels.
+- Mnemonics: where the kanji contains a part already taught at a lower level (most do), build the story from those parts and name them, e.g. 働 = 人 + 動 ("a person who moves = works").
+- Test items: same mix and rules (10 kanji_reading + 6 orthography per unit). Sentences may use the grammar and vocabulary of the level.
+- Final exam: N4 = 30 items (18 reading + 12 writing); N3 = 40 items (24 reading + 16 writing).

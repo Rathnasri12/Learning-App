@@ -1,0 +1,198 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 29,
+  "slug": "kudaketa-hanashikata",
+  "title": {
+   "ja": "それって本当？",
+   "ta": "அது நிஜமா?",
+   "en": "Is that true?"
+  },
+  "theme": {
+   "en": "Casual talk with friends: boyfriends and girlfriends, rumours, quarrels, gossip.",
+   "ta": "நண்பர்களுடன் சாதாரணப் பேச்சு: காதலன், காதலி, வதந்திகள், சண்டைகள், அரட்டை."
+  },
+  "grammar": [
+   {
+    "id": "g29-1",
+    "pattern": "〜って (quotation / topic)",
+    "en": "Casual と言う or は: 彼、来ないって。 / 漢字って難しい"
+   },
+   {
+    "id": "g29-2",
+    "pattern": "〜っていう N",
+    "en": "Casual という: 『山田』っていう人"
+   },
+   {
+    "id": "g29-3",
+    "pattern": "〜かい / 〜だい",
+    "en": "Casual (mostly male) question endings"
+   },
+   {
+    "id": "g29-4",
+    "pattern": "V-ちゃ / V-じゃ だめ",
+    "en": "Casual 'you mustn't': 見ちゃだめ"
+   },
+   {
+    "id": "g29-5",
+    "pattern": "V-てる / V-とく",
+    "en": "Casual contractions of ている / ておく"
+   }
+  ],
+  "vocabHints": [
+   "people: I (boku), you (kimi), he, she, they, everyone",
+   "casual words: yeah, such, that kind of, not at all",
+   "lies, quarrels, breaking up",
+   "strange, amazing"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-003",
+   "expression": "すっと",
+   "reading": "すっと",
+   "romaji": "sutto",
+   "en": "straight, quickly"
+  },
+  {
+   "id": "n4-v-024",
+   "expression": "僕",
+   "reading": "ぼく",
+   "romaji": "boku",
+   "en": "I (used by men towards those of equal or lower status)"
+  },
+  {
+   "id": "n4-v-053",
+   "expression": "うん",
+   "reading": "うん",
+   "romaji": "un",
+   "en": "yes (informal), all right (ok)"
+  },
+  {
+   "id": "n4-v-066",
+   "expression": "彼",
+   "reading": "かれ",
+   "romaji": "kare",
+   "en": "he, boyfriend"
+  },
+  {
+   "id": "n4-v-094",
+   "expression": "ちっとも",
+   "reading": "ちっとも",
+   "romaji": "chittomo",
+   "en": "not at all (neg. verb)"
+  },
+  {
+   "id": "n4-v-111",
+   "expression": "うそ",
+   "reading": "嘘",
+   "romaji": "嘘",
+   "en": "lie"
+  },
+  {
+   "id": "n4-v-155",
+   "expression": "けんかする",
+   "reading": "けんかする",
+   "romaji": "kenkasuru",
+   "en": "quarrel"
+  },
+  {
+   "id": "n4-v-163",
+   "expression": "そんな",
+   "reading": "そんな",
+   "romaji": "sonna",
+   "en": "such, like that, that sort of"
+  },
+  {
+   "id": "n4-v-225",
+   "expression": "おかしい",
+   "reading": "おかしい",
+   "romaji": "okashii",
+   "en": "strange; odd; funny"
+  },
+  {
+   "id": "n4-v-227",
+   "expression": "変",
+   "reading": "へん",
+   "romaji": "hen",
+   "en": "strange, odd"
+  },
+  {
+   "id": "n4-v-322",
+   "expression": "皆",
+   "reading": "みな",
+   "romaji": "mina",
+   "en": "everyone"
+  },
+  {
+   "id": "n4-v-342",
+   "expression": "凄い",
+   "reading": "すごい",
+   "romaji": "sugoi",
+   "en": "terrific, great"
+  },
+  {
+   "id": "n4-v-351",
+   "expression": "彼ら",
+   "reading": "かれら",
+   "romaji": "karera",
+   "en": "they (usually male)"
+  },
+  {
+   "id": "n4-v-361",
+   "expression": "～ちゃん",
+   "reading": "～ちゃん",
+   "romaji": "～chan",
+   "en": "suffix for familiar (female) person"
+  },
+  {
+   "id": "n4-v-363",
+   "expression": "あんな",
+   "reading": "あんな",
+   "romaji": "anna",
+   "en": "such, like that"
+  },
+  {
+   "id": "n4-v-454",
+   "expression": "彼女",
+   "reading": "かのじょ",
+   "romaji": "kanojo",
+   "en": "girlfriend; she"
+  },
+  {
+   "id": "n4-v-475",
+   "expression": "そんなに",
+   "reading": "そんなに",
+   "romaji": "sonnani",
+   "en": "so much, like that"
+  },
+  {
+   "id": "n4-v-511",
+   "expression": "あ",
+   "reading": "あ",
+   "romaji": "a",
+   "en": "Ah"
+  },
+  {
+   "id": "n4-v-547",
+   "expression": "君",
+   "reading": "きみ",
+   "romaji": "kimi",
+   "en": "you (informal for men)"
+  },
+  {
+   "id": "n4-v-605",
+   "expression": "全然",
+   "reading": "ぜんぜん",
+   "romaji": "zenzen",
+   "en": "not at all; wholly, entirely"
+  },
+  {
+   "id": "n4-v-624",
+   "expression": "別れる",
+   "reading": "わかれる",
+   "romaji": "wakareru",
+   "en": "to part from, to separate"
+  }
+ ]
+}

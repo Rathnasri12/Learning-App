@@ -1,0 +1,382 @@
+{
+  "unit": 6,
+  "title": { "en": "Home, shops and free time", "ta": "வீடு, கடை, ஓய்வு நேரம்" },
+  "intro": {
+    "en": "In this unit you learn 12 kanji for life at home and in town: shop, buy, song, music, parents, night, going home and more. Many of them reuse parts you know, like 广 from 広, 辶 from 道, and 宀 from 家. Tip: 売 (sell, Unit 5) and 買 (buy) look different at the top, so learn them as a pair.",
+    "ta": "இந்தப் பாடத்தில் வீட்டிலும் ஊரிலும் உள்ள வாழ்க்கைக்கான 12 கான்ஜிகளைக் கற்கிறீர்கள்: கடை, வாங்கு, பாட்டு, இசை, பெற்றோர், இரவு, வீடு திரும்புதல் போன்றவை. இவற்றில் பல நீங்கள் அறிந்த பகுதிகளைப் பயன்படுத்துகின்றன: 広-இலிருந்து 广, 道-இலிருந்து 辶, 家-இலிருந்து 宀. குறிப்பு: 売 (விற்பது, பாடம் 5), 買 (வாங்குவது) இரண்டையும் ஒரு ஜோடியாகக் கற்றுக்கொள்ளுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "楽",
+      "meaning": { "en": "fun; music; easy", "ta": "மகிழ்ச்சி; இசை; எளிது" },
+      "on": ["がく", "らく"],
+      "kun": ["たの.しい", "たの.しむ"],
+      "mnemonic": {
+        "en": "In the middle is a white drum (白). Small bells hang on both sides. It all stands on a wooden stand (木). Drum and bells playing at a festival: music, and lots of fun.",
+        "ta": "நடுவில் ஒரு வெள்ளை மேளம் (白). இரண்டு பக்கமும் சிறிய மணிகள் தொங்குகின்றன. எல்லாம் ஒரு மரத்தாங்கியின் (木) மேல் நிற்கின்றன. திருவிழாவில் மேளமும் மணியும் ஒலிக்கின்றன: இசை, நிறைய மகிழ்ச்சி."
+      },
+      "note": {
+        "en": "Three meanings, three readings: 音楽 (おんがく, music), 楽しい (たのしい, fun), 楽 (らく, easy, comfortable).",
+        "ta": "மூன்று பொருள், மூன்று வாசிப்பு: 音楽 (おんがく, இசை), 楽しい (たのしい, மகிழ்ச்சியான), 楽 (らく, எளிதான, சௌகரியமான)."
+      },
+      "examples": [
+        { "word": "音楽", "reading": "おんがく", "en": "music", "ta": "இசை", "vocabId": "n5-v-139" },
+        { "word": "楽しい", "reading": "たのしい", "en": "fun, enjoyable", "ta": "மகிழ்ச்சியான (ஜாலியான)", "vocabId": "n5-v-388" },
+        { "word": "楽しみ", "reading": "たのしみ", "en": "something to look forward to; pleasure", "ta": "ஆவலோடு எதிர்பார்க்கும் விஷயம்; மகிழ்ச்சி", "vocabId": "n4-v-661" },
+        { "word": "楽", "reading": "らく", "en": "easy, comfortable", "ta": "எளிதான, சௌகரியமான" }
+      ]
+    },
+    {
+      "kanji": "店",
+      "meaning": { "en": "shop", "ta": "கடை" },
+      "on": ["てん"],
+      "kun": ["みせ"],
+      "mnemonic": {
+        "en": "广 is the wide open shed you met in 広. Under it is a counter (口) with a little signpost (卜) on top. A shed with a counter and a sign: a shop.",
+        "ta": "广 என்பது 広-இல் பார்த்த திறந்த கொட்டகை. அதன் கீழ் ஒரு கவுண்டர் (口), அதன் மேல் ஒரு சிறிய அறிவிப்புக் குச்சி (卜). கூரை, கவுண்டர், பெயர்ப்பலகை — நம் ஊர்ப் பெட்டிக்கடை!"
+      },
+      "examples": [
+        { "word": "店", "reading": "みせ", "en": "shop", "ta": "கடை", "vocabId": "n5-v-639" },
+        { "word": "店員", "reading": "てんいん", "en": "shop clerk", "ta": "கடை ஊழியர்", "vocabId": "n4-v-310" },
+        { "word": "売店", "reading": "ばいてん", "en": "kiosk, small shop", "ta": "சிறு கடை (கியோஸ்க்)" }
+      ]
+    },
+    {
+      "kanji": "親",
+      "meaning": { "en": "parent", "ta": "பெற்றோர்" },
+      "on": ["しん"],
+      "kun": ["おや"],
+      "mnemonic": {
+        "en": "On the left: 立 (stand) on top of 木 (tree). On the right: 見 (see). A parent stands on a tree to see far down the road: “Is my child home yet?”",
+        "ta": "இடப்பக்கம்: 木 (மரம்) மேல் 立 (நில்). வலப்பக்கம்: 見 (பார்). “என் பிள்ளை இன்னும் வரவில்லையா?” என்று அம்மா மரத்தின் மேல் நின்று தெருவை எட்டிப் பார்க்கிறாள். அவள்தான் பெற்றோர்."
+      },
+      "note": {
+        "en": "親 also means “close, friendly”: 親切 (しんせつ) = kind. 父親 / 母親 = father / mother (neutral words).",
+        "ta": "親 என்பதற்கு “நெருக்கமான” என்ற பொருளும் உண்டு: 親切 (しんせつ) = அன்பான. 父親 / 母親 = தந்தை / தாய் (பொதுவான சொற்கள்)."
+      },
+      "examples": [
+        { "word": "親", "reading": "おや", "en": "parent", "ta": "பெற்றோர் (அப்பா அல்லது அம்மா)", "vocabId": "n4-v-113" },
+        { "word": "親切", "reading": "しんせつ", "en": "kind", "ta": "அன்பான (உதவும் குணமுள்ள)", "vocabId": "n4-v-211" },
+        { "word": "父親", "reading": "ちちおや", "en": "father", "ta": "தந்தை" },
+        { "word": "親子", "reading": "おやこ", "en": "parent and child", "ta": "பெற்றோரும் பிள்ளையும்" }
+      ]
+    },
+    {
+      "kanji": "答",
+      "meaning": { "en": "answer", "ta": "பதில்" },
+      "on": [],
+      "kun": ["こた.える", "こた.え"],
+      "mnemonic": {
+        "en": "On top is bamboo (⺮). Below, a lid (the 人 roof and 一) fits neatly on a box (口). In old times you wrote on bamboo, and a good answer fits the question like a lid fits a box.",
+        "ta": "மேலே மூங்கில் (⺮). கீழே ஒரு மூடி (人 கூரையும் 一-உம்) ஒரு பெட்டியின் (口) மேல் சரியாகப் பொருந்துகிறது. பழங்காலத்தில் மூங்கிலில் எழுதினார்கள்; நல்ல பதில், பெட்டிக்கு மூடி பொருந்துவது போலக் கேள்விக்குப் பொருந்தும்."
+      },
+      "examples": [
+        { "word": "答える", "reading": "こたえる", "en": "to answer", "ta": "பதில் சொல்ல", "vocabId": "n5-v-257" },
+        { "word": "答え", "reading": "こたえ", "en": "answer, reply", "ta": "பதில்", "vocabId": "n4-v-238" },
+        { "word": "口答え", "reading": "くちごたえ", "en": "talking back (to a parent)", "ta": "எதிர்த்துப் பேசுதல் (பெரியவர்களிடம்)" }
+      ]
+    },
+    {
+      "kanji": "夜",
+      "meaning": { "en": "night", "ta": "இரவு" },
+      "on": ["や"],
+      "kun": ["よる", "よ"],
+      "mnemonic": {
+        "en": "A hat or roof (亠) on top, a person (亻) on the left, and on the right the evening moon (夕) with one extra stroke. The person stays under the roof while the evening moon goes deep: night.",
+        "ta": "மேலே ஒரு தொப்பி/கூரை (亠), இடப்பக்கம் ஒரு மனிதர் (亻), வலப்பக்கம் மாலை நிலா (夕) ஒரு கூடுதல் கோட்டுடன். மாலை நிலா ஆழமாக இறங்க, மனிதர் கூரைக்கு அடியில் தங்குகிறார்: இரவு."
+      },
+      "note": {
+        "en": "Alone it is よる. In 今夜 (tonight) it is や, and in 夜中 (middle of the night) it is よ.",
+        "ta": "தனியாக よる. 今夜 (இன்று இரவு)-இல் や, 夜中 (நள்ளிரவு)-இல் よ."
+      },
+      "examples": [
+        { "word": "夜", "reading": "よる", "en": "night", "ta": "இரவு", "vocabId": "n5-v-691" },
+        { "word": "今夜", "reading": "こんや", "en": "tonight", "ta": "இன்று இரவு", "vocabId": "n4-v-313" },
+        { "word": "夜中", "reading": "よなか", "en": "middle of the night", "ta": "நள்ளிரவு" }
+      ]
+    },
+    {
+      "kanji": "帰",
+      "meaning": { "en": "return home", "ta": "வீடு திரும்புதல்" },
+      "on": ["き"],
+      "kun": ["かえ.る"],
+      "mnemonic": {
+        "en": "On the right is a hand (ヨ) holding a broom with a cloth (冖 and 巾). On the left, two short lines are someone walking. They are going back home to sweep their own house: return home.",
+        "ta": "வலப்பக்கம் ஒரு கை (ヨ) துணி கட்டிய துடைப்பத்தைப் (冖, 巾) பிடித்திருக்கிறது. இடப்பக்கம் உள்ள இரண்டு சின்னக் கோடுகள் நடந்து வரும் ஒருவர். தன் வீட்டைப் பெருக்கத் திரும்பி வருகிறார்: வீடு திரும்புதல்."
+      },
+      "examples": [
+        { "word": "帰る", "reading": "かえる", "en": "to go home, to return", "ta": "வீட்டுக்குத் திரும்ப", "vocabId": "n5-v-151" },
+        { "word": "帰り", "reading": "かえり", "en": "the way back, return", "ta": "திரும்பும் வழி (திரும்புதல்)", "vocabId": "n4-v-446" },
+        { "word": "帰国", "reading": "きこく", "en": "going back to your country", "ta": "சொந்த நாட்டுக்குத் திரும்புதல்" }
+      ]
+    },
+    {
+      "kanji": "古",
+      "meaning": { "en": "old", "ta": "பழைய" },
+      "on": ["こ"],
+      "kun": ["ふる.い"],
+      "mnemonic": {
+        "en": "十 (ten) sits on top of 口 (mouth). A story that has passed through ten mouths, from grandmother to grandchild, is a very old story.",
+        "ta": "口 (வாய்) மேல் 十 (பத்து). பாட்டியிடமிருந்து பேரக்குழந்தை வரை பத்து வாய்களைக் கடந்து வந்த கதை — அது மிகப் பழைய கதை."
+      },
+      "note": {
+        "en": "古い is for things, not people. For an old person, say 年を取った人.",
+        "ta": "古い என்பது பொருட்களுக்கு மட்டும், மனிதர்களுக்கு அல்ல. வயதானவரைச் சொல்ல 年を取った人 என்று சொல்லுங்கள்."
+      },
+      "examples": [
+        { "word": "古い", "reading": "ふるい", "en": "old (things)", "ta": "பழைய", "vocabId": "n5-v-589" },
+        { "word": "古本", "reading": "ふるほん", "en": "second-hand book", "ta": "பழைய புத்தகம்" },
+        { "word": "中古", "reading": "ちゅうこ", "en": "used, second-hand", "ta": "பயன்படுத்தப்பட்ட (செகண்ட் ஹேண்ட்)" }
+      ]
+    },
+    {
+      "kanji": "歌",
+      "meaning": { "en": "song, sing", "ta": "பாட்டு / பாடு" },
+      "on": ["か"],
+      "kun": ["うた", "うた.う"],
+      "mnemonic": {
+        "en": "On the left, two mouths (口) are stacked, each with a hook: two singers. On the right is 欠, a person with the mouth wide open. Everyone opens their mouth and sings.",
+        "ta": "இடப்பக்கம் கொக்கியுடன் கூடிய இரண்டு வாய்கள் (口) ஒன்றின் மேல் ஒன்று: இரண்டு பாடகர்கள். வலப்பக்கம் 欠, வாயை அகலமாகத் திறந்த ஒருவர். எல்லோரும் வாய் திறந்து பாடுகிறார்கள் — கச்சேரி போல!"
+      },
+      "examples": [
+        { "word": "歌", "reading": "うた", "en": "song", "ta": "பாட்டு", "vocabId": "n5-v-079" },
+        { "word": "歌う", "reading": "うたう", "en": "to sing", "ta": "பாட", "vocabId": "n5-v-080" },
+        { "word": "歌手", "reading": "かしゅ", "en": "singer", "ta": "பாடகர்" }
+      ]
+    },
+    {
+      "kanji": "買",
+      "meaning": { "en": "buy", "ta": "வாங்குவது" },
+      "on": ["ばい"],
+      "kun": ["か.う"],
+      "mnemonic": {
+        "en": "On top is a net (罒). Below it is 貝, a shell. Long ago shells were money. You put shells in your net bag and go to buy things.",
+        "ta": "மேலே ஒரு வலை (罒). கீழே 貝, ஒரு சிப்பி. பழங்காலத்தில் சிப்பிகள்தான் பணம். சிப்பிகளை வலைப் பையில் போட்டுக்கொண்டு பொருள் வாங்கப் போகிறீர்கள்."
+      },
+      "note": {
+        "en": "買 (buy) has a net on top; 売 (sell) has 士 on top. Pair: 売買 (ばいばい) = buying and selling.",
+        "ta": "買 (வாங்கு) மேலே வலை; 売 (விற்பது) மேலே 士. ஜோடி: 売買 (ばいばい) = வாங்கல் விற்றல்."
+      },
+      "examples": [
+        { "word": "買う", "reading": "かう", "en": "to buy", "ta": "வாங்க", "vocabId": "n5-v-149" },
+        { "word": "買い物", "reading": "かいもの", "en": "shopping", "ta": "ஷாப்பிங் (பொருள் வாங்குதல்)", "vocabId": "n5-v-148" },
+        { "word": "売買", "reading": "ばいばい", "en": "buying and selling, trade", "ta": "வாங்கல் விற்றல் (வியாபாரம்)" }
+      ]
+    },
+    {
+      "kanji": "図",
+      "meaning": { "en": "drawing, map", "ta": "படம் / வரைபடம்" },
+      "on": ["ず", "と"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A big frame (囗), like a sheet of paper. Inside, someone has drawn little marks (ツ) and a cross (メ): “We are here, X marks the spot!” It is a drawing, a map.",
+        "ta": "ஒரு பெரிய சட்டம் (囗), ஒரு தாள் போல. உள்ளே யாரோ சின்னக் குறிகள் (ツ), ஒரு பெருக்கல் குறி (メ) வரைந்திருக்கிறார்கள்: “நாம் இங்கே இருக்கிறோம், X இடத்தில் புதையல்!” இது படம், வரைபடம்."
+      },
+      "note": {
+        "en": "Usually ず (地図, map), but と in 図書館 (としょかん, library).",
+        "ta": "பொதுவாக ず (地図, வரைபடம்), ஆனால் 図書館-இல் と (としょかん, நூலகம்)."
+      },
+      "examples": [
+        { "word": "地図", "reading": "ちず", "en": "map", "ta": "வரைபடம் (மேப்)", "vocabId": "n5-v-405" },
+        { "word": "図書館", "reading": "としょかん", "en": "library", "ta": "நூலகம்", "vocabId": "n5-v-460" },
+        { "word": "図", "reading": "ず", "en": "drawing, diagram", "ta": "படம் (வரைபடம்)" }
+      ]
+    },
+    {
+      "kanji": "週",
+      "meaning": { "en": "week", "ta": "வாரம்" },
+      "on": ["しゅう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The moving road (辶, as in 道) carries 周, a fence (冂) around a field (土) and a mouth (口): “going around”. You go around and around the seven days: a week.",
+        "ta": "நகரும் சாலை (辶, 道-இல் போல) 周-ஐச் சுமக்கிறது: ஒரு வயலையும் (土) வாயையும் (口) சுற்றிய வேலி (冂) — “சுற்றி வருதல்”. ஏழு நாட்களைச் சுற்றிச் சுற்றி வருகிறீர்கள்: ஒரு வாரம்."
+      },
+      "examples": [
+        { "word": "今週", "reading": "こんしゅう", "en": "this week", "ta": "இந்த வாரம்", "vocabId": "n5-v-271" },
+        { "word": "来週", "reading": "らいしゅう", "en": "next week", "ta": "அடுத்த வாரம்", "vocabId": "n5-v-694" },
+        { "word": "先週", "reading": "せんしゅう", "en": "last week", "ta": "போன வாரம்", "vocabId": "n5-v-354" },
+        { "word": "毎週", "reading": "まいしゅう", "en": "every week", "ta": "ஒவ்வொரு வாரமும்", "vocabId": "n5-v-617" }
+      ]
+    },
+    {
+      "kanji": "室",
+      "meaning": { "en": "room", "ta": "அறை" },
+      "on": ["しつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a roof (宀), as in 家 (house). Under it is 至, “arrive”: a bird landing on the ground (土). You walk under the roof and arrive in a room.",
+        "ta": "மேலே ஒரு கூரை (宀), 家 (வீடு)-இல் போல. அதன் கீழ் 至, “வந்து சேர்”: தரையில் (土) வந்து இறங்கும் ஒரு பறவை. கூரைக்குள் நடந்து ஓர் அறைக்கு வந்து சேர்கிறீர்கள்."
+      },
+      "examples": [
+        { "word": "教室", "reading": "きょうしつ", "en": "classroom", "ta": "வகுப்பறை", "vocabId": "n5-v-205" },
+        { "word": "研究室", "reading": "けんきゅうしつ", "en": "laboratory; professor’s office", "ta": "ஆய்வகம்; பேராசிரியர் அறை", "vocabId": "n4-v-582" },
+        { "word": "室内", "reading": "しつない", "en": "indoors, inside a room", "ta": "அறைக்குள் (உள்ளே)" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU6-q01",
+        "type": "kanji_reading",
+        "sentence": "ねる まえに ＿音楽＿を ききます。",
+        "target": "音楽",
+        "options": ["おんらく", "おんがく", "おんかく", "いんがく"],
+        "answer": 1,
+        "explanation_en": "音楽 is おんがく (இசை, music). 楽 is がく here; らく is the reading for “easy” (楽). おんかく is not voiced, so it is wrong.",
+        "explanation_ta": "音楽 = おんがく (இசை, music). இங்கே 楽 = がく. らく என்பது “எளிது” (楽) என்ற பொருளுக்கான வாசிப்பு. おんかく-வில் ஒலி மாற்றம் இல்லை, அதனால் தவறு."
+      },
+      {
+        "id": "KU6-q02",
+        "type": "kanji_reading",
+        "sentence": "あの 店の 人は とても ＿親切＿です。",
+        "target": "親切",
+        "options": ["しんぜつ", "おやせつ", "しんきり", "しんせつ"],
+        "answer": 3,
+        "explanation_en": "親切 is しんせつ (அன்பான, kind). Both parts use on readings. おや is the kun reading of 親 (parent), and せつ is not voiced.",
+        "explanation_ta": "親切 = しんせつ (அன்பான, kind). இரண்டும் on வாசிப்புகள். おや என்பது 親-இன் kun வாசிப்பு (பெற்றோர்). せつ-வில் ஒலி மாற்றம் இல்லை."
+      },
+      {
+        "id": "KU6-q03",
+        "type": "kanji_reading",
+        "sentence": "＿今夜＿は とても さむいです。",
+        "target": "今夜",
+        "options": ["こんや", "こんよ", "いまよる", "こんばん"],
+        "answer": 0,
+        "explanation_en": "今夜 is こんや (இன்று இரவு, tonight). こんばん means almost the same but is written 今晩. よ is used in 夜中, not here.",
+        "explanation_ta": "今夜 = こんや (இன்று இரவு, tonight). こんばん கிட்டத்தட்ட அதே பொருள், ஆனால் அது 今晩 என்று எழுதப்படும். よ என்பது 夜中-இல் வரும்; இங்கே அல்ல."
+      },
+      {
+        "id": "KU6-q04",
+        "type": "kanji_reading",
+        "sentence": "六時に うちへ ＿帰ります＿。",
+        "target": "帰ります",
+        "options": ["きります", "かいります", "かえります", "がえります"],
+        "answer": 2,
+        "explanation_en": "帰る is かえる (வீட்டுக்குத் திரும்ப, to go home), so 帰ります is かえります. き is the on reading (帰国), and がえ is wrongly voiced.",
+        "explanation_ta": "帰る = かえる (வீட்டுக்குத் திரும்ப, to go home); ஆகவே 帰ります = かえります. き என்பது on வாசிப்பு (帰国). がえ என்பது தவறான ஒலி மாற்றம்."
+      },
+      {
+        "id": "KU6-q05",
+        "type": "kanji_reading",
+        "sentence": "これは ＿古い＿ じてんしゃです。",
+        "target": "古い",
+        "options": ["ふるうい", "こい", "ふるい", "ふろい"],
+        "answer": 2,
+        "explanation_en": "古い is ふるい (பழைய, old). こ is the on reading (中古), and ふろい / ふるうい change the sound.",
+        "explanation_ta": "古い = ふるい (பழைய, old). こ என்பது on வாசிப்பு (中古). ふろい, ふるうい ஒலியை மாற்றியவை."
+      },
+      {
+        "id": "KU6-q06",
+        "type": "kanji_reading",
+        "sentence": "いもうとは ＿歌＿が じょうずです。",
+        "target": "歌",
+        "options": ["うた", "うだ", "か", "おと"],
+        "answer": 0,
+        "explanation_en": "Alone, 歌 is うた (பாட்டு, song). か is the on reading (歌手). おと is the reading of 音 (sound).",
+        "explanation_ta": "தனியாக 歌 = うた (பாட்டு, song). か என்பது on வாசிப்பு (歌手). おと என்பது 音 (ஒலி)-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU6-q07",
+        "type": "kanji_reading",
+        "sentence": "スーパーで ＿買い物＿を します。",
+        "target": "買い物",
+        "options": ["ばいもの", "うりもの", "かいもん", "かいもの"],
+        "answer": 3,
+        "explanation_en": "買い物 is かいもの (ஷாப்பிங், shopping). ばい is the on reading of 買, and うり comes from 売る (sell), the opposite.",
+        "explanation_ta": "買い物 = かいもの (ஷாப்பிங், shopping). ばい என்பது 買-இன் on வாசிப்பு. うり என்பது 売る (விற்பது)-இலிருந்து; எதிர்ப் பொருள்."
+      },
+      {
+        "id": "KU6-q08",
+        "type": "kanji_reading",
+        "sentence": "えきまでの ＿地図＿を かきました。",
+        "target": "地図",
+        "options": ["ちと", "ちず", "じず", "ちずう"],
+        "answer": 1,
+        "explanation_en": "地図 is ちず (வரைபடம், map). と is the reading only in 図書館. ちずう adds a long vowel that is not there.",
+        "explanation_ta": "地図 = ちず (வரைபடம், map). と என்பது 図書館-இல் மட்டும். ちずう-வில் இல்லாத நீண்ட உயிர் சேர்க்கப்பட்டுள்ளது."
+      },
+      {
+        "id": "KU6-q09",
+        "type": "kanji_reading",
+        "sentence": "＿来週＿ テストが あります。",
+        "target": "来週",
+        "options": ["らいしゅう", "らいしゅ", "らいしょう", "きしゅう"],
+        "answer": 0,
+        "explanation_en": "来週 is らいしゅう (அடுத்த வாரம், next week). しゅう is long; らいしゅ is too short. しょう is a different sound.",
+        "explanation_ta": "来週 = らいしゅう (அடுத்த வாரம், next week). しゅう நீண்டது; らいしゅ சுருக்கம். しょう வேறு ஒலி."
+      },
+      {
+        "id": "KU6-q10",
+        "type": "kanji_reading",
+        "sentence": "＿教室＿に だれも いません。",
+        "target": "教室",
+        "options": ["きょしつ", "きょうしち", "きょうしつ", "きょうじつ"],
+        "answer": 2,
+        "explanation_en": "教室 is きょうしつ (வகுப்பறை, classroom). きょう is long, and しつ is not voiced (じつ is wrong).",
+        "explanation_ta": "教室 = きょうしつ (வகுப்பறை, classroom). きょう நீண்டது. しつ-வில் ஒலி மாற்றம் இல்லை (じつ தவறு)."
+      },
+      {
+        "id": "KU6-q11",
+        "type": "orthography",
+        "sentence": "えきの まえに あたらしい ＿みせ＿が できました。",
+        "target": "みせ",
+        "options": ["広", "店", "庄", "席"],
+        "answer": 1,
+        "explanation_en": "みせ is 店 (கடை, shop): the shed 广 with a counter 口 and a sign 卜. 広 (wide) has ム inside, and 庄 / 席 have other parts.",
+        "explanation_ta": "みせ = 店 (கடை, shop): கொட்டகை 广, கவுண்டர் 口, பலகை 卜. 広 (விசாலமான)-க்குள் ム இருக்கிறது. 庄, 席-இல் வேறு பகுதிகள்."
+      },
+      {
+        "id": "KU6-q12",
+        "type": "orthography",
+        "sentence": "先生の しつもんに ＿こたえて＿ ください。",
+        "target": "こたえて",
+        "options": ["合えて", "筈えて", "笑えて", "答えて"],
+        "answer": 3,
+        "explanation_en": "こたえる is 答える (பதில் சொல்ல, to answer): bamboo ⺮ on top of 合. 合 alone has no bamboo, and 笑 / 筈 have bamboo with other parts.",
+        "explanation_ta": "こたえる = 答える (பதில் சொல்ல, to answer): 合-இன் மேல் மூங்கில் ⺮. 合 மட்டும் என்றால் மூங்கில் இல்லை. 笑, 筈-இல் மூங்கில் உண்டு, ஆனால் கீழே வேறு பகுதி."
+      },
+      {
+        "id": "KU6-q13",
+        "type": "orthography",
+        "sentence": "まいにち ＿よる＿ 十時に ねます。",
+        "target": "よる",
+        "options": ["液", "依", "衣", "夜"],
+        "answer": 3,
+        "explanation_en": "よる is 夜 (இரவு, night). 液 has water 氵 on the left, and 依 / 衣 look similar on top but have no evening moon 夕.",
+        "explanation_ta": "よる = 夜 (இரவு, night). 液-க்கு இடப்பக்கம் நீர் 氵. 依, 衣 மேலே ஒத்திருக்கும், ஆனால் மாலை நிலா 夕 இல்லை."
+      },
+      {
+        "id": "KU6-q14",
+        "type": "orthography",
+        "sentence": "きのうの パーティーは ＿たのしかった＿です。",
+        "target": "たのしかった",
+        "options": ["薬しかった", "楽しかった", "終しかった", "栄しかった"],
+        "answer": 1,
+        "explanation_en": "たのしい is 楽しい (மகிழ்ச்சியான, fun). 薬 (medicine) is 楽 with grass 艹 on top. 栄 and 終 are other kanji.",
+        "explanation_ta": "たのしい = 楽しい (மகிழ்ச்சியான, fun). 薬 (மருந்து) என்பது மேலே புல் 艹 சேர்ந்த 楽. 栄, 終 வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU6-q15",
+        "type": "orthography",
+        "sentence": "＿としょかん＿で 本を かります。",
+        "target": "としょかん",
+        "options": ["図書官", "国書館", "図書館", "図書飲"],
+        "answer": 2,
+        "explanation_en": "としょかん is 図書館 (நூலகம், library). 国 has 玉 inside the frame, not a drawing. 官 is missing the food part 食, and 飲 means drink.",
+        "explanation_ta": "としょかん = 図書館 (நூலகம், library). 国-இன் சட்டத்துக்குள் 玉 இருக்கிறது, படம் அல்ல. 官-இல் 食 பகுதி இல்லை; 飲 என்றால் குடி."
+      },
+      {
+        "id": "KU6-q16",
+        "type": "orthography",
+        "sentence": "ほんやで ざっしを ＿かいました＿。",
+        "target": "かいました",
+        "options": ["買いました", "売いました", "員いました", "貝いました"],
+        "answer": 0,
+        "explanation_en": "かう is 買う (வாங்க, to buy): a net 罒 over a shell 貝. 売 means sell, 員 has 口 on top, and 貝 alone is just a shell.",
+        "explanation_ta": "かう = 買う (வாங்க, to buy): சிப்பி 貝-இன் மேல் வலை 罒. 売 என்றால் விற்பது. 員-க்கு மேலே 口. 貝 மட்டும் என்றால் சிப்பி தான்."
+      }
+    ]
+  }
+}

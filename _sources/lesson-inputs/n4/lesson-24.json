@@ -1,0 +1,205 @@
+{
+ "level": "n4",
+ "meta": {
+  "n": 24,
+  "slug": "shieki",
+  "title": {
+   "ja": "子どもに野菜を食べさせます",
+   "ta": "குழந்தையைக் காய்கறி சாப்பிட வைக்கிறேன்",
+   "en": "I make my child eat vegetables"
+  },
+  "theme": {
+   "en": "Parents, children and school: education, strict teachers, exams and praise.",
+   "ta": "பெற்றோர், குழந்தைகள், பள்ளி: கல்வி, கண்டிப்பான ஆசிரியர்கள், தேர்வுகள், பாராட்டு."
+  },
+  "grammar": [
+   {
+    "id": "g24-1",
+    "pattern": "Causative form (V-させる / V-せる)",
+    "en": "How to make the causative (make / let someone do) form"
+   },
+   {
+    "id": "g24-2",
+    "pattern": "N(person) を V-causative (intransitive)",
+    "en": "Make / let someone go, wait, cry …"
+   },
+   {
+    "id": "g24-3",
+    "pattern": "N(person) に N を V-causative (transitive)",
+    "en": "Make / let someone do something: 子どもに本を読ませます"
+   },
+   {
+    "id": "g24-4",
+    "pattern": "V-causative-ていただけませんか",
+    "en": "Would you please let me …?"
+   },
+   {
+    "id": "g24-5",
+    "pattern": "V-causative-てください / V-causative-てもらいます",
+    "en": "Please let me … / I was allowed to …"
+   }
+  ],
+  "vocabHints": [
+   "school: elementary, junior high, high school, principal, auditorium",
+   "exams, answers, points, maths",
+   "parents: raise, scold, praise, look after",
+   "strict, serious, correct"
+  ]
+ },
+ "words": [
+  {
+   "id": "n4-v-034",
+   "expression": "大学生",
+   "reading": "だいがくせい",
+   "romaji": "daigakusei",
+   "en": "college student, university student"
+  },
+  {
+   "id": "n4-v-060",
+   "expression": "点",
+   "reading": "てん",
+   "romaji": "ten",
+   "en": "mark, score, grade; point, dot"
+  },
+  {
+   "id": "n4-v-089",
+   "expression": "厳しい",
+   "reading": "きびしい",
+   "romaji": "kibishii",
+   "en": "hard; rigorous; strict"
+  },
+  {
+   "id": "n4-v-101",
+   "expression": "中学校",
+   "reading": "ちゅうがっこう",
+   "romaji": "chuugakkou",
+   "en": "junior high school pupil"
+  },
+  {
+   "id": "n4-v-113",
+   "expression": "親",
+   "reading": "おや",
+   "romaji": "oya",
+   "en": "a parent"
+  },
+  {
+   "id": "n4-v-194",
+   "expression": "小学校",
+   "reading": "しょうがっこう",
+   "romaji": "shougakkou",
+   "en": "elementary school"
+  },
+  {
+   "id": "n4-v-238",
+   "expression": "答",
+   "reading": "こたえ",
+   "romaji": "kotae",
+   "en": "answer, response"
+  },
+  {
+   "id": "n4-v-286",
+   "expression": "育てる",
+   "reading": "そだてる",
+   "romaji": "sodateru",
+   "en": "to raise (v.t.); to bring up"
+  },
+  {
+   "id": "n4-v-292",
+   "expression": "連れる",
+   "reading": "つれる",
+   "romaji": "tsureru",
+   "en": "to lead, to take (a person)"
+  },
+  {
+   "id": "n4-v-307",
+   "expression": "試験",
+   "reading": "しけん",
+   "romaji": "shiken",
+   "en": "an exam"
+  },
+  {
+   "id": "n4-v-308",
+   "expression": "真面目",
+   "reading": "まじめ",
+   "romaji": "majime",
+   "en": "diligent, serious"
+  },
+  {
+   "id": "n4-v-326",
+   "expression": "校長",
+   "reading": "こうちょう",
+   "romaji": "kouchou",
+   "en": "principal, headmaster"
+  },
+  {
+   "id": "n4-v-366",
+   "expression": "教育",
+   "reading": "きょういく",
+   "romaji": "kyouiku",
+   "en": "education"
+  },
+  {
+   "id": "n4-v-390",
+   "expression": "叱る",
+   "reading": "しかる",
+   "romaji": "shikaru",
+   "en": "to scold"
+  },
+  {
+   "id": "n4-v-395",
+   "expression": "講堂",
+   "reading": "こうどう",
+   "romaji": "koudou",
+   "en": "auditorium"
+  },
+  {
+   "id": "n4-v-396",
+   "expression": "子",
+   "reading": "こ",
+   "romaji": "ko",
+   "en": "child"
+  },
+  {
+   "id": "n4-v-428",
+   "expression": "正しい",
+   "reading": "ただしい",
+   "romaji": "tadashii",
+   "en": "correct"
+  },
+  {
+   "id": "n4-v-473",
+   "expression": "高校生",
+   "reading": "こうこうせい",
+   "romaji": "koukousei",
+   "en": "high school student"
+  },
+  {
+   "id": "n4-v-483",
+   "expression": "高校; 高等学校",
+   "reading": "こうこう; こうとうがっこう",
+   "romaji": "koukou;koutougakkou",
+   "en": "high school; senior high school"
+  },
+  {
+   "id": "n4-v-509",
+   "expression": "褒める",
+   "reading": "ほめる",
+   "romaji": "homeru",
+   "en": "to praise; to say nice things"
+  },
+  {
+   "id": "n4-v-538",
+   "expression": "世話",
+   "reading": "せわする",
+   "romaji": "sewasuru",
+   "en": "looking after; to look after"
+  },
+  {
+   "id": "n4-v-542",
+   "expression": "数学",
+   "reading": "すうがく",
+   "romaji": "suugaku",
+   "en": "mathematics"
+  }
+ ]
+}
