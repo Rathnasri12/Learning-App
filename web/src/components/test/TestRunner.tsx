@@ -18,20 +18,40 @@ type Phase = "intro" | "run" | "results";
 
 export type Perms = Record<string, number[] | number[][]>;
 
+/** Where a test lives: progress key, back/next links and header labels. Defaults to a course lesson. */
+export type TestNav = {
+  key: string;
+  back: { href: string; label: string };
+  next?: { href: string; label: string };
+  kicker: string;
+  subtitle: string;
+  passText: string;
+};
+
 export default function TestRunner({
   level,
   n,
   total,
   title,
   test,
+  nav: navProp,
 }: {
   level: string;
   n: number;
   total: number;
   title: Lang3;
   test: LessonTest;
+  nav?: TestNav;
 }) {
-  const key = lessonKey(level, n);
+  const nav: TestNav = navProp ?? {
+    key: lessonKey(level, n),
+    back: { href: `/${level}/lesson/${n}`, label: `Lesson ${n}` },
+    next: n < total ? { href: `/${level}/lesson/${n + 1}`, label: `Lesson ${n + 1}` } : undefined,
+    kicker: "LESSON TEST · JLPT FORMAT",
+    subtitle: `${title.en} · Lesson test`,
+    passText: "Great work! You passed this lesson and the next one is unlocked.",
+  };
+  const key = nav.key;
   const settings = useProgress((s) => s.settings);
   const setSetting = useProgress((s) => s.setSetting);
   const recordTest = useProgress((s) => s.recordTest);
@@ -126,16 +146,16 @@ export default function TestRunner({
     const mix = items.reduce<Record<string, number>>((acc, it) => ((acc[it.type] = (acc[it.type] ?? 0) + 1), acc), {});
     return (
       <div className="space-y-4">
-        <Link href={`/${level}/lesson/${n}`} className="btn btn-ghost !px-3 !py-2 text-sm">
-          <ArrowLeft size={16} /> Lesson {n}
+        <Link href={nav.back.href} className="btn btn-ghost !px-3 !py-2 text-sm">
+          <ArrowLeft size={16} /> {nav.back.label}
         </Link>
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="card p-6 space-y-5">
           <div>
-            <div className="text-xs font-extrabold text-gold tracking-wider">LESSON TEST · JLPT FORMAT</div>
+            <div className="text-xs font-extrabold text-gold tracking-wider">{nav.kicker}</div>
             <h1 className="text-3xl font-black mt-1" lang="ja">
               {title.ja}
             </h1>
-            <div className="text-fg-2">{title.en} · Lesson test</div>
+            <div className="text-fg-2">{nav.subtitle}</div>
           </div>
           <div className="grid grid-cols-3 gap-3 text-center">
             <Stat label="items" value={String(items.length)} />
@@ -166,7 +186,7 @@ export default function TestRunner({
                 active={practice}
                 onClick={() => setSetting("testMode", "practice")}
                 title="Practice"
-                desc="See the answer and Tamil explanation after each item."
+                desc="See the answer and explanation after each item."
               />
             </div>
           </div>
@@ -181,9 +201,7 @@ export default function TestRunner({
   if (phase === "results") {
     return (
       <Results
-        level={level}
-        n={n}
-        total={total}
+        nav={nav}
         items={items}
         answers={answers}
         passMark={test.passMark}

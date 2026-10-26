@@ -1,7 +1,21 @@
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
-import type { Lesson, LessonBundle, Syllabus, Vocab } from "./types";
+import type {
+  Bi,
+  Kanji,
+  KanjiExam,
+  KanjiExample,
+  KanjiReading,
+  KanjiUnit,
+  KanjiUnitMeta,
+  Lesson,
+  LessonBundle,
+  LessonTest,
+  Syllabus,
+  Vocab,
+} from "./types";
+import { kanaToRomaji } from "./romaji";
 
 const CONTENT_ROOT = path.resolve(process.cwd(), "..", "content");
 
@@ -55,4 +69,44 @@ export function getAvailability(level = "n5"): LessonAvailability[] {
       itemCount: lesson?.test?.items?.length ?? 0,
     };
   });
+}
+
+// ---- Kanji track ----
+
+type KanjiSkeleton = { kanji: string; strokeCount: number; strokes: string[] };
+type RawKanji = Omit<Kanji, "on" | "kun" | "examples" | "strokeCount" | "strokes"> & {
+  on: string[];
+  kun: string[];
+  examples: Omit<KanjiExample, "romaji">[];
+};
+type RawUnit = { unit: number; intro: Bi; kanji: RawKanji[]; test: LessonTest };
+
+export function getKanjiUnits(level = "n5"): KanjiUnitMeta[] {
+  return readJson<{ units: KanjiUnitMeta[] }>(`kanji/${level}/units.json`)?.units ?? [];
+}
+
+export function getKanjiUnit(level: string, n: number): KanjiUnit | null {
+  const meta = getKanjiUnits(level).find((u) => u.n === n);
+  const raw = readJson<RawUnit>(`kanji/${level}/unit-${pad(n)}.json`);
+  if (!meta || !raw) return null;
+  const skel = new Map((readJson<KanjiSkeleton[]>(`kanji/${level}/skeleton.json`) ?? []).map((k) => [k.kanji, k]));
+  const reading = (r: string): KanjiReading => ({ kana: r, romaji: kanaToRomaji(r.replace(/[.\-]/g, "")) });
+  return {
+    unit: n,
+    title: meta.title,
+    intro: raw.intro,
+    test: raw.test,
+    kanji: raw.kanji.map((k) => ({
+      ...k,
+      on: k.on.map(reading),
+      kun: k.kun.map(reading),
+      examples: k.examples.map((e) => ({ ...e, romaji: kanaToRomaji(e.reading) })),
+      strokeCount: skel.get(k.kanji)?.strokeCount ?? 0,
+      strokes: skel.get(k.kanji)?.strokes ?? [],
+    })),
+  };
+}
+
+export function getKanjiExam(level = "n5"): KanjiExam | null {
+  return readJson<KanjiExam>(`kanji/${level}/exam.json`);
 }

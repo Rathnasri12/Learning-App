@@ -119,3 +119,40 @@ export const ITEM_TYPE_LABEL: Record<TestItem["type"], { ja: string; en: string 
   sentence_order: { ja: "文の組み立て", en: "Sentence order" },
   passage_cloze: { ja: "文章の文法", en: "Passage grammar" },
 };
+
+export type Bi = { en: string; ta: string };
+
+export type KanjiReading = { kana: string; romaji: string };
+
+export type KanjiExample = {
+  word: string;
+  reading: string;
+  romaji: string;
+  en: string;
+  ta: string;
+  vocabId?: string;
+};
+
+export type Kanji = {
+  kanji: string;
+  meaning: Bi;
+  on: KanjiReading[];
+  kun: KanjiReading[];
+  mnemonic: Bi;
+  note?: Bi;
+  examples: KanjiExample[];
+  strokeCount: number;
+  strokes: string[]; // SVG path data in stroke order (KanjiVG, 109×109 viewBox)
+};
+
+export type KanjiUnitMeta = { n: number; title: Bi; kanji: string[] };
+
+export type KanjiUnit = {
+  unit: number;
+  title: Bi;
+  intro: Bi;
+  kanji: Kanji[];
+  test: LessonTest;
+};
+
+export type KanjiExam = { title: Bi; passMark: number; items: TestItem[] };

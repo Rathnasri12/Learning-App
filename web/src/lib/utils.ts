@@ -44,3 +44,6 @@ export function hashString(s: string) {
   }
   return h >>> 0;
 }
+
+/** Progress key for a kanji unit (unit 0 = the level's final kanji exam). Same shape as lessonKey. */
+export const kanjiKey = (level: string, unit: number) => `kanji-${level}-${unit}`;

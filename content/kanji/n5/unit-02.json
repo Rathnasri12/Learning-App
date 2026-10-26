@@ -1,0 +1,354 @@
+{
+  "unit": 2,
+  "intro": {
+    "en": "In this unit you learn the kanji for the days of the week and for nature: sun, moon, fire, water, tree, gold, earth, mountain, river and sky. The days of the week are named after them: 月曜日 is Monday, 火曜日 is Tuesday, and so on. Learn one picture for each kanji, and the seven days come easily.",
+    "ta": "இந்தப் பாடத்தில் வாரத்தின் நாட்களுக்கும் இயற்கைக்கும் உரிய கான்ஜியைக் கற்போம்: சூரியன், நிலா, நெருப்பு, தண்ணீர், மரம், தங்கம், மண், மலை, ஆறு, வானம். வார நாட்களின் பெயர்கள் இவற்றிலிருந்தே வருகின்றன: 月曜日 திங்கள், 火曜日 செவ்வாய், இப்படியே. ஒவ்வொரு கான்ஜிக்கும் ஒரு படத்தை நினைவில் வைத்தால், ஏழு நாட்களும் எளிதாக வந்துவிடும்."
+  },
+  "kanji": [
+    {
+      "kanji": "日",
+      "meaning": { "en": "sun, day", "ta": "சூரியன், நாள்" },
+      "on": ["にち"],
+      "kun": ["ひ", "-び", "-か"],
+      "mnemonic": {
+        "en": "Long ago this kanji was a circle with a dot: the sun. Now it is a square window, and the sun shines through it with one bar across. When the sun comes up, a new day begins.",
+        "ta": "முன்பு இந்தக் கான்ஜி நடுவில் புள்ளி உள்ள ஒரு வட்டம்: சூரியன். இப்போது அது ஒரு கம்பி உள்ள சதுர ஜன்னல்; அதன் வழியே சூரியன் ஒளிர்கிறது. சூரியன் உதித்தால் புதிய நாள் தொடங்கும்."
+      },
+      "note": {
+        "en": "Special words: 今日 きょう (today), 明日 あした (tomorrow), 昨日 きのう (yesterday). Don’t mix up 日 (day) and 目 (eye): 目 has two lines inside.",
+        "ta": "சிறப்புச் சொற்கள்: 今日 きょう (இன்று), 明日 あした (நாளை), 昨日 きのう (நேற்று). 日 (நாள்), 目 (கண்) இரண்டையும் குழப்பாதீர்கள்: 目 க்குள் இரண்டு கோடுகள் இருக்கும்."
+      },
+      "examples": [
+        { "word": "日曜日", "reading": "にちようび", "en": "Sunday", "ta": "ஞாயிற்றுக்கிழமை", "vocabId": "n5-v-501" },
+        { "word": "毎日", "reading": "まいにち", "en": "every day", "ta": "தினமும்", "vocabId": "n5-v-618" },
+        { "word": "誕生日", "reading": "たんじょうび", "en": "birthday", "ta": "பிறந்தநாள்", "vocabId": "n5-v-397" },
+        { "word": "五日", "reading": "いつか", "en": "fifth day; five days", "ta": "ஐந்தாம் தேதி; ஐந்து நாட்கள்", "vocabId": "n5-v-061" }
+      ]
+    },
+    {
+      "kanji": "月",
+      "meaning": { "en": "moon, month", "ta": "நிலா, மாதம்" },
+      "on": ["げつ", "がつ"],
+      "kun": ["つき"],
+      "mnemonic": {
+        "en": "A tall, thin crescent moon hangs in the night sky. Two thin clouds float across its face (the two lines inside). From one new moon to the next is one month.",
+        "ta": "இரவு வானில் உயரமான, மெல்லிய பிறைநிலா தொங்குகிறது. அதன் முகத்தில் இரண்டு மெல்லிய மேகங்கள் (உள்ளே உள்ள இரண்டு கோடுகள்) மிதக்கின்றன. ஒரு அமாவாசையிலிருந்து அடுத்த அமாவாசை வரை ஒரு மாதம்."
+      },
+      "note": {
+        "en": "Names of months use がつ (四月 しがつ, April). Counting months and words like 来月 use げつ (来月 らいげつ, next month).",
+        "ta": "மாதங்களின் பெயர்களில் がつ வரும் (四月 しがつ, ஏப்ரல்). மாதங்களை எண்ணும்போதும் 来月 போன்ற சொற்களிலும் げつ வரும் (来月 らいげつ, அடுத்த மாதம்)."
+      },
+      "examples": [
+        { "word": "月曜日", "reading": "げつようび", "en": "Monday", "ta": "திங்கட்கிழமை", "vocabId": "n5-v-239" },
+        { "word": "来月", "reading": "らいげつ", "en": "next month", "ta": "அடுத்த மாதம்", "vocabId": "n5-v-693" },
+        { "word": "四月", "reading": "しがつ", "en": "April", "ta": "ஏப்ரல் மாதம்" },
+        { "word": "一月", "reading": "ひとつき", "en": "one month (duration)", "ta": "ஒரு மாதம் (கால அளவு)", "vocabId": "n5-v-566" }
+      ]
+    },
+    {
+      "kanji": "火",
+      "meaning": { "en": "fire", "ta": "நெருப்பு" },
+      "on": ["か"],
+      "kun": ["ひ"],
+      "mnemonic": {
+        "en": "A campfire: the big flame jumps up in the middle like a person with arms and legs out, and two sparks fly off on the left and right.",
+        "ta": "ஒரு தீ மூட்டம்: நடுவில் பெரிய தீச்சுவாலை கை கால் விரித்த மனிதன் போல எழுகிறது; இடது, வலது பக்கம் இரண்டு தீப்பொறிகள் தெறிக்கின்றன."
+      },
+      "examples": [
+        { "word": "火曜日", "reading": "かようび", "en": "Tuesday", "ta": "செவ்வாய்க்கிழமை", "vocabId": "n5-v-177" },
+        { "word": "火", "reading": "ひ", "en": "fire", "ta": "நெருப்பு" },
+        { "word": "火山", "reading": "かざん", "en": "volcano", "ta": "எரிமலை" }
+      ]
+    },
+    {
+      "kanji": "水",
+      "meaning": { "en": "water", "ta": "தண்ணீர்" },
+      "on": ["すい"],
+      "kun": ["みず"],
+      "mnemonic": {
+        "en": "Water is poured from a pot. The long middle line is the stream falling down, and drops splash out to the left and right.",
+        "ta": "குடத்திலிருந்து தண்ணீர் ஊற்றப்படுகிறது. நடுவில் உள்ள நீண்ட கோடு கீழே விழும் நீர்த்தாரை; இடது, வலது பக்கம் துளிகள் தெறிக்கின்றன."
+      },
+      "examples": [
+        { "word": "水", "reading": "みず", "en": "water", "ta": "தண்ணீர்", "vocabId": "n5-v-638" },
+        { "word": "水曜日", "reading": "すいようび", "en": "Wednesday", "ta": "புதன்கிழமை", "vocabId": "n5-v-328" },
+        { "word": "お水", "reading": "おみず", "en": "water (polite)", "ta": "தண்ணீர் (மரியாதையாக)" }
+      ]
+    },
+    {
+      "kanji": "木",
+      "meaning": { "en": "tree, wood", "ta": "மரம்" },
+      "on": ["もく"],
+      "kun": ["き"],
+      "mnemonic": {
+        "en": "A tree: the long line down the middle is the trunk, the flat line is the branches, and the two slanting lines are roots spreading into the ground.",
+        "ta": "ஒரு மரம்: நடுவில் கீழ்நோக்கிச் செல்லும் நீண்ட கோடு அடிமரம், குறுக்குக் கோடு கிளைகள், சாய்ந்த இரண்டு கோடுகள் மண்ணுக்குள் பரவும் வேர்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 木 (tree) and 本 (book): 本 has a short extra line at the bottom.",
+        "ta": "木 (மரம்), 本 (புத்தகம்) இரண்டையும் குழப்பாதீர்கள்: 本 இன் கீழே ஒரு சிறிய கூடுதல் கோடு இருக்கும்."
+      },
+      "examples": [
+        { "word": "木", "reading": "き", "en": "tree", "ta": "மரம்", "vocabId": "n5-v-189" },
+        { "word": "木曜日", "reading": "もくようび", "en": "Thursday", "ta": "வியாழக்கிழமை", "vocabId": "n5-v-659" },
+        { "word": "木の下", "reading": "きのした", "en": "under the tree", "ta": "மரத்தின் கீழே" }
+      ]
+    },
+    {
+      "kanji": "金",
+      "meaning": { "en": "gold, money", "ta": "தங்கம், பணம்" },
+      "on": ["きん"],
+      "kun": ["かね"],
+      "mnemonic": {
+        "en": "A temple roof (the top part) covers the ground (土). Under the roof, two shining gold coins (the two dots) are buried in the earth. Gold and money come from the ground.",
+        "ta": "ஒரு கோயில் கூரை (மேல் பகுதி) மண்ணை (土) மூடியிருக்கிறது. கூரையின் கீழே, மண்ணுக்குள் இரண்டு பளபளக்கும் தங்கக் காசுகள் (இரண்டு புள்ளிகள்) புதைந்திருக்கின்றன. தங்கமும் பணமும் மண்ணிலிருந்தே வருகின்றன."
+      },
+      "examples": [
+        { "word": "金曜日", "reading": "きんようび", "en": "Friday", "ta": "வெள்ளிக்கிழமை", "vocabId": "n5-v-215" },
+        { "word": "お金", "reading": "おかね", "en": "money", "ta": "பணம்", "vocabId": "n5-v-104" },
+        { "word": "金", "reading": "きん", "en": "gold", "ta": "தங்கம்" }
+      ]
+    },
+    {
+      "kanji": "土",
+      "meaning": { "en": "earth, soil", "ta": "மண்" },
+      "on": ["ど"],
+      "kun": ["つち"],
+      "mnemonic": {
+        "en": "A small plant (十) pushes up out of the ground. The long bottom line is the soil it grows from.",
+        "ta": "ஒரு சிறிய செடி (十) தரையைப் பிளந்து மேலே வருகிறது. கீழே உள்ள நீண்ட கோடு அது வளரும் மண்."
+      },
+      "note": {
+        "en": "Don’t mix up 土 (earth: long bottom line) and 士 (samurai: short bottom line). 上 (up) also looks a little like 土.",
+        "ta": "土 (மண்: கீழ்க் கோடு நீளம்), 士 (வீரன்: கீழ்க் கோடு குட்டை) இரண்டையும் குழப்பாதீர்கள். 上 (மேலே) கூட 土 போலக் கொஞ்சம் தெரியும்."
+      },
+      "examples": [
+        { "word": "土曜日", "reading": "どようび", "en": "Saturday", "ta": "சனிக்கிழமை", "vocabId": "n5-v-470" },
+        { "word": "土", "reading": "つち", "en": "earth, soil", "ta": "மண்" },
+        { "word": "土日", "reading": "どにち", "en": "Saturday and Sunday; the weekend", "ta": "சனி, ஞாயிறு; வார இறுதி" }
+      ]
+    },
+    {
+      "kanji": "山",
+      "meaning": { "en": "mountain", "ta": "மலை" },
+      "on": ["さん"],
+      "kun": ["やま"],
+      "mnemonic": {
+        "en": "Three mountain peaks stand side by side, and the middle one is the tallest, like the hills of the Western Ghats.",
+        "ta": "மூன்று மலை உச்சிகள் அருகருகே நிற்கின்றன; நடுவில் உள்ளது தான் மிக உயரம், மேற்குத் தொடர்ச்சி மலையைப் போல."
+      },
+      "note": {
+        "en": "After a mountain’s name, 山 is さん: 富士山 ふじさん (Mt. Fuji).",
+        "ta": "மலையின் பெயருக்குப் பின் 山 என்பது さん: 富士山 ふじさん (ஃபூஜி மலை)."
+      },
+      "examples": [
+        { "word": "山", "reading": "やま", "en": "mountain", "ta": "மலை", "vocabId": "n5-v-674" },
+        { "word": "火山", "reading": "かざん", "en": "volcano", "ta": "எரிமலை" },
+        { "word": "沢山", "reading": "たくさん", "en": "a lot, many", "ta": "நிறைய", "vocabId": "n5-v-381" }
+      ]
+    },
+    {
+      "kanji": "川",
+      "meaning": { "en": "river", "ta": "ஆறு" },
+      "on": [],
+      "kun": ["かわ"],
+      "mnemonic": {
+        "en": "Three lines of water flow down side by side, like the Kaveri running down to the sea. Flowing water: a river.",
+        "ta": "மூன்று நீர்க்கோடுகள் அருகருகே கீழ்நோக்கி ஓடுகின்றன, கடலை நோக்கி ஓடும் காவிரி போல. ஓடும் நீர்: ஆறு."
+      },
+      "note": {
+        "en": "After another word, かわ often becomes がわ: 小川 おがわ (stream), 天の川 あまのがわ (the Milky Way). Don’t mix up 川 (river) and 三 (three): 川 stands up, 三 lies down.",
+        "ta": "இன்னொரு சொல்லுக்குப் பின் かわ பெரும்பாலும் がわ ஆகும்: 小川 おがわ (சிற்றோடை), 天の川 あまのがわ (பால்வீதி). 川 (ஆறு), 三 (மூன்று) இரண்டையும் குழப்பாதீர்கள்: 川 நிமிர்ந்து நிற்கும், 三 படுத்திருக்கும்."
+      },
+      "examples": [
+        { "word": "川", "reading": "かわ", "en": "river", "ta": "ஆறு", "vocabId": "n5-v-185" },
+        { "word": "小川", "reading": "おがわ", "en": "stream, brook", "ta": "சிற்றோடை" },
+        { "word": "天の川", "reading": "あまのがわ", "en": "the Milky Way", "ta": "பால்வீதி" }
+      ]
+    },
+    {
+      "kanji": "天",
+      "meaning": { "en": "sky, heaven", "ta": "வானம், சொர்க்கம்" },
+      "on": ["てん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A man stands with his arms and legs spread wide. The extra line high above his head is the sky. Look up: the sky is over everyone.",
+        "ta": "ஒரு மனிதன் கை கால்களை அகல விரித்து நிற்கிறான். அவன் தலைக்கு மேலே உள்ள கூடுதல் கோடு தான் வானம். மேலே பாருங்கள்: வானம் எல்லோருக்கும் மேலே இருக்கிறது."
+      },
+      "note": {
+        "en": "天気 is てんき (weather). Be careful: でんき (電気) means electricity.",
+        "ta": "天気 = てんき (வானிலை). கவனம்: でんき (電気) என்றால் மின்சாரம்."
+      },
+      "examples": [
+        { "word": "天気", "reading": "てんき", "en": "weather", "ta": "வானிலை", "vocabId": "n5-v-438" },
+        { "word": "天ぷら", "reading": "てんぷら", "en": "tempura (fried food)", "ta": "டெம்புரா (பொரித்த உணவு)" },
+        { "word": "天国", "reading": "てんごく", "en": "heaven", "ta": "சொர்க்கம்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU2-q01",
+        "type": "kanji_reading",
+        "sentence": "＿日曜日＿は うちで やすみます。",
+        "target": "日曜日",
+        "options": ["にちようび", "にちよおび", "ひようび", "にっようび"],
+        "answer": 0,
+        "explanation_en": "日曜日 is read にちようび (ஞாயிற்றுக்கிழமை, Sunday). The long vowel is written よう, so にちよおび is wrong.",
+        "explanation_ta": "日曜日 என்பதை にちようび என்று படிக்க வேண்டும் (ஞாயிற்றுக்கிழமை, Sunday). நீண்ட ஒலியை よう என்று எழுத வேண்டும்; அதனால் にちよおび தவறு."
+      },
+      {
+        "id": "KU2-q02",
+        "type": "kanji_reading",
+        "sentence": "＿月曜日＿に かいしゃへ いきます。",
+        "target": "月曜日",
+        "options": ["がつようび", "つきようび", "げつようび", "げっようび"],
+        "answer": 2,
+        "explanation_en": "月曜日 is read げつようび (திங்கட்கிழமை, Monday). がつ is for month names like 四月, so がつようび is wrong.",
+        "explanation_ta": "月曜日 என்பதை げつようび என்று படிக்க வேண்டும் (திங்கட்கிழமை, Monday). がつ என்பது 四月 போன்ற மாதப் பெயர்களுக்கு மட்டும்; அதனால் がつようび தவறு."
+      },
+      {
+        "id": "KU2-q03",
+        "type": "kanji_reading",
+        "sentence": "＿火曜日＿は いそがしいです。",
+        "target": "火曜日",
+        "options": ["ひようび", "かようび", "がようび", "かよおび"],
+        "answer": 1,
+        "explanation_en": "火曜日 is read かようび (செவ்வாய்க்கிழமை, Tuesday). ひ is the reading of 火 alone (fire), not in the day name.",
+        "explanation_ta": "火曜日 என்பதை かようび என்று படிக்க வேண்டும் (செவ்வாய்க்கிழமை, Tuesday). ひ என்பது 火 தனியாக வரும்போது (நெருப்பு) மட்டும்; நாளின் பெயரில் வராது."
+      },
+      {
+        "id": "KU2-q04",
+        "type": "kanji_reading",
+        "sentence": "つめたい ＿水＿を のみます。",
+        "target": "水",
+        "options": ["すい", "みつ", "みづ", "みず"],
+        "answer": 3,
+        "explanation_en": "水 alone is read みず (தண்ணீர், water). すい is used in words like 水曜日. Write ず, not づ or つ.",
+        "explanation_ta": "水 தனியாக வந்தால் みず என்று படிக்க வேண்டும் (தண்ணீர், water). すい என்பது 水曜日 போன்ற சொற்களில் மட்டும். ず என்று எழுத வேண்டும், づ அல்லது つ அல்ல."
+      },
+      {
+        "id": "KU2-q05",
+        "type": "kanji_reading",
+        "sentence": "＿木＿の したで ねます。",
+        "target": "木",
+        "options": ["き", "もく", "ぎ", "こ"],
+        "answer": 0,
+        "explanation_en": "木 alone is read き (மரம், tree). もく is used in 木曜日 (Thursday), not for a tree.",
+        "explanation_ta": "木 தனியாக வந்தால் き என்று படிக்க வேண்டும் (மரம், tree). もく என்பது 木曜日 (வியாழன்) இல் மட்டும்; மரத்துக்கு அல்ல."
+      },
+      {
+        "id": "KU2-q06",
+        "type": "kanji_reading",
+        "sentence": "いまは ＿お金＿が ありません。",
+        "target": "お金",
+        "options": ["おきん", "おがね", "おかね", "おかな"],
+        "answer": 2,
+        "explanation_en": "お金 is read おかね (பணம், money). It is not voiced, so おがね is wrong. きん is used in 金曜日.",
+        "explanation_ta": "お金 என்பதை おかね என்று படிக்க வேண்டும் (பணம், money). இது か தான், が அல்ல; அதனால் おがね தவறு. きん என்பது 金曜日 இல் வரும்."
+      },
+      {
+        "id": "KU2-q07",
+        "type": "kanji_reading",
+        "sentence": "＿土曜日＿に かいものを します。",
+        "target": "土曜日",
+        "options": ["とようび", "どようび", "つちようび", "どよおび"],
+        "answer": 1,
+        "explanation_en": "土曜日 is read どようび (சனிக்கிழமை, Saturday). It starts with a voiced ど, so とようび is wrong.",
+        "explanation_ta": "土曜日 என்பதை どようび என்று படிக்க வேண்டும் (சனிக்கிழமை, Saturday). இது ど என்று தொடங்கும்; அதனால் とようび தவறு."
+      },
+      {
+        "id": "KU2-q08",
+        "type": "kanji_reading",
+        "sentence": "なつやすみに ＿山＿に のぼります。",
+        "target": "山",
+        "options": ["さん", "せん", "やあま", "やま"],
+        "answer": 3,
+        "explanation_en": "山 alone is read やま (மலை, mountain). さん is used after a mountain’s name, like ふじさん.",
+        "explanation_ta": "山 தனியாக வந்தால் やま என்று படிக்க வேண்டும் (மலை, mountain). さん என்பது ふじさん போல மலையின் பெயருக்குப் பின் மட்டும் வரும்."
+      },
+      {
+        "id": "KU2-q09",
+        "type": "kanji_reading",
+        "sentence": "こどもが ＿川＿で あそんで います。",
+        "target": "川",
+        "options": ["せん", "がわ", "かわ", "かあ"],
+        "answer": 2,
+        "explanation_en": "川 alone is read かわ (ஆறு, river). がわ is used only after another word, like 小川 おがわ.",
+        "explanation_ta": "川 தனியாக வந்தால் かわ என்று படிக்க வேண்டும் (ஆறு, river). がわ என்பது 小川 おがわ போல இன்னொரு சொல்லுக்குப் பின் மட்டும் வரும்."
+      },
+      {
+        "id": "KU2-q10",
+        "type": "kanji_reading",
+        "sentence": "きょうは ＿天気＿が いいです。",
+        "target": "天気",
+        "options": ["でんき", "てんき", "てんぎ", "てんけ"],
+        "answer": 1,
+        "explanation_en": "天気 is read てんき (வானிலை, weather). でんき starts with a voiced で and means electricity (電気).",
+        "explanation_ta": "天気 என்பதை てんき என்று படிக்க வேண்டும் (வானிலை, weather). でんき என்பது で என்று தொடங்கும்; அதன் பொருள் மின்சாரம் (電気)."
+      },
+      {
+        "id": "KU2-q11",
+        "type": "orthography",
+        "sentence": "＿きんようび＿に パーティーが あります。",
+        "target": "きんようび",
+        "options": ["全曜日", "今曜日", "会曜日", "金曜日"],
+        "answer": 3,
+        "explanation_en": "きんようび is written 金曜日 (வெள்ளிக்கிழமை, Friday). 全 and 今 have the same roof shape but are different kanji.",
+        "explanation_ta": "きんようび என்பதை 金曜日 என்று எழுத வேண்டும் (வெள்ளிக்கிழமை, Friday). 全, 今 இரண்டிலும் அதே கூரை வடிவம் உண்டு, ஆனால் அவை வேறு கான்ஜி."
+      },
+      {
+        "id": "KU2-q12",
+        "type": "orthography",
+        "sentence": "＿すいようび＿は やすみです。",
+        "target": "すいようび",
+        "options": ["水曜日", "氷曜日", "木曜日", "永曜日"],
+        "answer": 0,
+        "explanation_en": "すいようび is written 水曜日 (புதன்கிழமை, Wednesday). 氷 (ice) and 永 have an extra dot, so they are wrong.",
+        "explanation_ta": "すいようび என்பதை 水曜日 என்று எழுத வேண்டும் (புதன்கிழமை, Wednesday). 氷 (பனிக்கட்டி), 永 இரண்டிலும் கூடுதல் புள்ளி உள்ளது; அதனால் அவை தவறு."
+      },
+      {
+        "id": "KU2-q13",
+        "type": "orthography",
+        "sentence": "＿もくようび＿に テストが あります。",
+        "target": "もくようび",
+        "options": ["本曜日", "木曜日", "未曜日", "林曜日"],
+        "answer": 1,
+        "explanation_en": "もくようび is written 木曜日 (வியாழக்கிழமை, Thursday). 本 (book) has an extra line at the bottom, so it is wrong.",
+        "explanation_ta": "もくようび என்பதை 木曜日 என்று எழுத வேண்டும் (வியாழக்கிழமை, Thursday). 本 (புத்தகம்) இன் கீழே கூடுதல் கோடு உள்ளது; அதனால் அது தவறு."
+      },
+      {
+        "id": "KU2-q14",
+        "type": "orthography",
+        "sentence": "にわの ＿つち＿は くろいです。",
+        "target": "つち",
+        "options": ["士", "工", "土", "上"],
+        "answer": 2,
+        "explanation_en": "つち is written 土 (மண், earth), with a long bottom line. 士 has a short bottom line, so it is wrong.",
+        "explanation_ta": "つち என்பதை 土 என்று எழுத வேண்டும் (மண், earth); இதன் கீழ்க் கோடு நீளம். 士 இன் கீழ்க் கோடு குட்டை; அதனால் அது தவறு."
+      },
+      {
+        "id": "KU2-q15",
+        "type": "orthography",
+        "sentence": "まどから たかい ＿やま＿が みえます。",
+        "target": "やま",
+        "options": ["出", "川", "止", "山"],
+        "answer": 3,
+        "explanation_en": "やま is written 山 (மலை, mountain): three peaks. 出 (go out) looks like two 山 stacked, so it is wrong.",
+        "explanation_ta": "やま என்பதை 山 என்று எழுத வேண்டும் (மலை, mountain): மூன்று உச்சிகள். 出 (வெளியே போ) இரண்டு 山 அடுக்கியது போலத் தெரியும்; அதனால் அது தவறு."
+      },
+      {
+        "id": "KU2-q16",
+        "type": "orthography",
+        "sentence": "あしたの ＿てんき＿は どうですか。",
+        "target": "てんき",
+        "options": ["天気", "夫気", "大気", "天汽"],
+        "answer": 0,
+        "explanation_en": "てんき is written 天気 (வானிலை, weather). 大 and 夫 look like 天 but have no line on top, or the line is in the wrong place.",
+        "explanation_ta": "てんき என்பதை 天気 என்று எழுத வேண்டும் (வானிலை, weather). 大, 夫 இரண்டும் 天 போலத் தெரியும்; ஆனால் 大 க்கு மேல் கோடு இல்லை, 夫 இல் கோடு தவறான இடத்தில் உள்ளது."
+      }
+    ]
+  }
+}

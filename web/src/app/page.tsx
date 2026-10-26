@@ -46,8 +46,16 @@ export default function Home() {
       </section>
 
       <section className="grid gap-4 sm:grid-cols-3">
+        <Link href="/kanji" className="card p-5 flex items-center gap-4 hover:-translate-y-0.5 transition">
+          <div className="text-3xl font-black" lang="ja">
+            漢字
+          </div>
+          <div>
+            <div className="font-extrabold">Kanji track</div>
+            <div className="text-sm text-fg-2">N5 · 79 kanji · stroke order + memory stories</div>
+          </div>
+        </Link>
         {[
-          { ja: "漢字", en: "Kanji track" },
           { ja: "読解", en: "Reading track" },
           { ja: "聴解", en: "Listening track" },
         ].map((t) => (

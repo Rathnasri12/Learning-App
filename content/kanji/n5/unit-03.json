@@ -1,0 +1,372 @@
+{
+  "unit": 3,
+  "intro": {
+    "en": "In this unit you will learn ten kanji about people and family. Many of them are built from small pictures, like a hand, a mouth or a rice field. Look for these parts, and the kanji will be easy to remember.",
+    "ta": "இந்தப் பிரிவில் மனிதர்கள், குடும்பம் பற்றிய பத்து கான்ஜிகளைக் கற்போம். இவற்றில் பல கை, வாய், வயல் போன்ற சிறு படங்களால் ஆனவை. இந்தப் பகுதிகளைக் கவனித்தால் கான்ஜி எளிதாக நினைவில் நிற்கும்."
+  },
+  "kanji": [
+    {
+      "kanji": "人",
+      "meaning": { "en": "person", "ta": "மனிதர்" },
+      "on": ["じん", "にん"],
+      "kun": ["ひと"],
+      "mnemonic": {
+        "en": "Two strokes lean on each other like two legs taking a step. It is a person walking along the road.",
+        "ta": "இரண்டு கோடுகள் ஒன்றின் மேல் ஒன்று சாய்ந்து, அடியெடுத்து வைக்கும் இரண்டு கால்கள் போலத் தெரிகின்றன. சாலையில் நடந்து போகும் ஒரு மனிதர்!"
+      },
+      "note": {
+        "en": "For a country, use じん: インド人 (インドじん). For counting people, use にん: 三人 (さんにん). But 一人 is ひとり, 二人 is ふたり, and 大人 is おとな. Don’t mix up 人 with 入 (enter).",
+        "ta": "நாட்டைச் சொல்ல じん: インド人 (インドじん). ஆட்களை எண்ண にん: 三人 (さんにん). ஆனால் 一人 = ひとり, 二人 = ふたり, 大人 = おとな. 人-ஐ 入 (நுழை) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "人", "reading": "ひと", "en": "person", "ta": "மனிதர், நபர்", "vocabId": "n5-v-564" },
+        { "word": "外国人", "reading": "がいこくじん", "en": "foreigner", "ta": "வெளிநாட்டவர்", "vocabId": "n5-v-145" },
+        { "word": "三人", "reading": "さんにん", "en": "three people", "ta": "மூன்று பேர்" },
+        { "word": "一人", "reading": "ひとり", "en": "one person; alone", "ta": "ஒருவர் (தனியாக)", "vocabId": "n5-v-567" }
+      ]
+    },
+    {
+      "kanji": "男",
+      "meaning": { "en": "man", "ta": "ஆண்" },
+      "on": ["だん"],
+      "kun": ["おとこ"],
+      "mnemonic": {
+        "en": "On top is a rice field cut into four squares (田). Below it is a strong arm (力). The man uses his strength to work in the paddy field.",
+        "ta": "மேலே நான்கு சதுரங்களாகப் பிரிந்த வயல் (田). அதன் கீழே வலிமையான கை (力). வயலில் தன் பலத்தால் உழைக்கும் ஆண் இவர்!"
+      },
+      "note": {
+        "en": "男の子 is a boy, and 男の人 is a polite way to say “a man”. 男 alone can sound a little rough.",
+        "ta": "男の子 = பையன்; 男の人 = ஆண் (மரியாதையாகச் சொல்லும் முறை). 男 என்று மட்டும் சொன்னால் சற்று முரட்டுத்தனமாகக் கேட்கும்."
+      },
+      "examples": [
+        { "word": "男", "reading": "おとこ", "en": "man", "ta": "ஆண்", "vocabId": "n5-v-119" },
+        { "word": "男の子", "reading": "おとこのこ", "en": "boy", "ta": "பையன் (ஆண் குழந்தை)", "vocabId": "n5-v-120" },
+        { "word": "男の人", "reading": "おとこのひと", "en": "man", "ta": "ஆண் (ஒருவர்)" },
+        { "word": "男子", "reading": "だんし", "en": "boy; male", "ta": "ஆண் (பையன்)" }
+      ]
+    },
+    {
+      "kanji": "女",
+      "meaning": { "en": "woman", "ta": "பெண்" },
+      "on": ["じょ"],
+      "kun": ["おんな"],
+      "mnemonic": {
+        "en": "A woman sits with her legs folded under her, like a Bharatanatyam dancer. The long line across is her two arms, open wide.",
+        "ta": "பரதநாட்டியக் கலைஞர் போலக் கால்களை மடக்கி அமர்ந்திருக்கும் ஒரு பெண். குறுக்கே நீளும் கோடு, அகல விரித்த அவளின் இரண்டு கைகள்."
+      },
+      "note": {
+        "en": "女の人 (おんなのひと) is the polite way to say “a woman”.",
+        "ta": "“ஒரு பெண்” என்று மரியாதையாகச் சொல்ல 女の人 (おんなのひと)."
+      },
+      "examples": [
+        { "word": "女", "reading": "おんな", "en": "woman", "ta": "பெண்", "vocabId": "n5-v-140" },
+        { "word": "女の子", "reading": "おんなのこ", "en": "girl", "ta": "பெண் குழந்தை (சிறுமி)", "vocabId": "n5-v-141" },
+        { "word": "女の人", "reading": "おんなのひと", "en": "woman", "ta": "பெண் (ஒருவர்)" },
+        { "word": "女子", "reading": "じょし", "en": "girl; female", "ta": "பெண் (சிறுமி)" }
+      ]
+    },
+    {
+      "kanji": "子",
+      "meaning": { "en": "child", "ta": "குழந்தை" },
+      "on": ["し", "す"],
+      "kun": ["こ"],
+      "mnemonic": {
+        "en": "A baby wrapped tight in a cloth. The hook at the top is its head, the line across is its two arms, and its legs are wrapped into one line.",
+        "ta": "துணியில் இறுக்கமாகச் சுற்றிய ஒரு குழந்தை. மேலே உள்ள கொக்கி அதன் தலை, குறுக்குக் கோடு அதன் இரண்டு கைகள், கால்கள் இரண்டும் துணிக்குள் ஒரே கோடாக."
+      },
+      "note": {
+        "en": "At the end of some words, 子 is read し or す: お菓子 (おかし), 椅子 (いす). In 男の子 and 女の子 it is こ.",
+        "ta": "சில சொற்களின் கடைசியில் 子 என்பது し அல்லது す: お菓子 (おかし), 椅子 (いす). 男の子, 女の子 இவற்றில் こ."
+      },
+      "examples": [
+        { "word": "子供", "reading": "こども", "en": "child", "ta": "குழந்தை", "vocabId": "n5-v-263" },
+        { "word": "男の子", "reading": "おとこのこ", "en": "boy", "ta": "பையன் (ஆண் குழந்தை)", "vocabId": "n5-v-120" },
+        { "word": "お菓子", "reading": "おかし", "en": "sweets, snacks", "ta": "தின்பண்டம் (இனிப்பு)", "vocabId": "n5-v-103" },
+        { "word": "椅子", "reading": "いす", "en": "chair", "ta": "நாற்காலி", "vocabId": "n5-v-054" }
+      ]
+    },
+    {
+      "kanji": "父",
+      "meaning": { "en": "father", "ta": "அப்பா (தந்தை)" },
+      "on": ["ふ"],
+      "kun": ["ちち"],
+      "mnemonic": {
+        "en": "The two short strokes on top are Appa’s thick moustache. Under it is a big X: his arms crossed over his chest. A strict father, waiting for you at the door!",
+        "ta": "மேலே உள்ள இரண்டு சிறு கோடுகள் அப்பாவின் அடர்ந்த மீசை. அதன் கீழே பெரிய X — நெஞ்சின் மேல் கட்டிய அவரின் இரண்டு கைகள். வாசலில் உங்களுக்காகக் காத்திருக்கும் கண்டிப்பான அப்பா!"
+      },
+      "note": {
+        "en": "Say 父 (ちち) for your own father when you talk to others. Say お父さん (おとうさん) for someone else’s father. とう is a special reading.",
+        "ta": "மற்றவர்களிடம் உங்கள் அப்பாவைப் பற்றிப் பேசும்போது 父 (ちち). மற்றவரின் அப்பாவுக்கு お父さん (おとうさん). இதில் とう ஒரு சிறப்பு வாசிப்பு."
+      },
+      "examples": [
+        { "word": "父", "reading": "ちち", "en": "my father", "ta": "(என்) அப்பா", "vocabId": "n5-v-406" },
+        { "word": "お父さん", "reading": "おとうさん", "en": "father (polite)", "ta": "அப்பா (மரியாதையாக; மற்றவரின்)", "vocabId": "n5-v-117" },
+        { "word": "父の日", "reading": "ちちのひ", "en": "Father’s Day", "ta": "தந்தையர் தினம்" },
+        { "word": "父母", "reading": "ふぼ", "en": "parents", "ta": "பெற்றோர்" }
+      ]
+    },
+    {
+      "kanji": "母",
+      "meaning": { "en": "mother", "ta": "அம்மா (தாய்)" },
+      "on": ["ぼ"],
+      "kun": ["はは"],
+      "mnemonic": {
+        "en": "It looks like 女 (woman) inside a frame, with two dots added. The two dots are a mother’s breasts, which give milk to her baby. A woman who feeds her baby is a mother.",
+        "ta": "ஒரு சட்டத்துக்குள் 女 (பெண்) இருப்பது போல, கூடவே இரண்டு புள்ளிகள். அந்த இரண்டு புள்ளிகள் குழந்தைக்குப் பால் தரும் தாயின் மார்பகங்கள். குழந்தைக்குப் பாலூட்டும் பெண் — அம்மா."
+      },
+      "note": {
+        "en": "Say 母 (はは) for your own mother when you talk to others, and お母さん (おかあさん) for someone else’s mother. Later, don’t mix up 母 with 毎 (every), which has extra lines on top.",
+        "ta": "மற்றவர்களிடம் உங்கள் அம்மாவைப் பற்றிப் பேசும்போது 母 (はは); மற்றவரின் அம்மாவுக்கு お母さん (おかあさん). பின்னால் வரும் 毎 (ஒவ்வொரு) உடன் குழப்ப வேண்டாம்; அதில் மேலே கூடுதல் கோடுகள் உண்டு."
+      },
+      "examples": [
+        { "word": "母", "reading": "はは", "en": "my mother", "ta": "(என்) அம்மா", "vocabId": "n5-v-542" },
+        { "word": "お母さん", "reading": "おかあさん", "en": "mother (polite)", "ta": "அம்மா (மரியாதையாக; மற்றவரின்)", "vocabId": "n5-v-102" },
+        { "word": "母の日", "reading": "ははのひ", "en": "Mother’s Day", "ta": "அன்னையர் தினம்" },
+        { "word": "母国", "reading": "ぼこく", "en": "home country", "ta": "தாய்நாடு" }
+      ]
+    },
+    {
+      "kanji": "友",
+      "meaning": { "en": "friend", "ta": "நண்பர்" },
+      "on": ["ゆう"],
+      "kun": ["とも"],
+      "mnemonic": {
+        "en": "Look for two hands. The top part (ナ) is one hand, and the bottom part (又) is another hand. Two hands holding each other: friends!",
+        "ta": "இரண்டு கைகளைப் பாருங்கள். மேலே உள்ள ナ ஒரு கை, கீழே உள்ள 又 இன்னொரு கை. ஒன்றையொன்று பற்றிக்கொண்ட இரண்டு கைகள் — நண்பர்கள்!"
+      },
+      "note": {
+        "en": "In Unit 4 you will meet 右 (right) and 左 (left). They start with the same hand (ナ) as 友, so look at the bottom part: 又 = friend.",
+        "ta": "4-ஆம் பிரிவில் 右 (வலது), 左 (இடது) வரும். அவையும் 友 போலவே ナ என்ற கையுடன் தொடங்கும். அதனால் கீழ்ப் பகுதியைப் பாருங்கள்: 又 இருந்தால் நண்பர்."
+      },
+      "examples": [
+        { "word": "友達", "reading": "ともだち", "en": "friend", "ta": "நண்பர்", "vocabId": "n5-v-469" },
+        { "word": "友人", "reading": "ゆうじん", "en": "friend", "ta": "நண்பர்" },
+        { "word": "男友だち", "reading": "おとこともだち", "en": "male friend", "ta": "ஆண் நண்பர்" }
+      ]
+    },
+    {
+      "kanji": "先",
+      "meaning": { "en": "ahead; before", "ta": "முன்; முந்தைய" },
+      "on": ["せん"],
+      "kun": ["さき"],
+      "mnemonic": {
+        "en": "The top part looks like a bull’s head with a horn. The bottom part (儿) is two walking legs. In a bullock cart, the bull walks ahead of everyone: it goes first!",
+        "ta": "மேல் பகுதி கொம்புடைய காளையின் தலை போல. கீழ்ப் பகுதி (儿) நடக்கும் இரண்டு கால்கள். மாட்டு வண்டியில் எல்லோருக்கும் முன்னால் நடப்பது காளைதான் — அதுதான் முதலில் போகும்!"
+      },
+      "note": {
+        "en": "先生 (せんせい, teacher) is 先 (before) + 生 (born): a person born before you, who knows more. 先週 is last week and 先月 is last month.",
+        "ta": "先生 (せんせい, ஆசிரியர்) = 先 (முன்) + 生 (பிறந்த): உங்களுக்கு முன்பே பிறந்து, அதிகம் தெரிந்தவர். 先週 = போன வாரம், 先月 = போன மாதம்."
+      },
+      "examples": [
+        { "word": "先生", "reading": "せんせい", "en": "teacher", "ta": "ஆசிரியர்", "vocabId": "n5-v-355" },
+        { "word": "先週", "reading": "せんしゅう", "en": "last week", "ta": "போன வாரம்", "vocabId": "n5-v-354" },
+        { "word": "先月", "reading": "せんげつ", "en": "last month", "ta": "போன மாதம்", "vocabId": "n5-v-353" },
+        { "word": "先", "reading": "さき", "en": "ahead; earlier", "ta": "முன்னால் (முதலில்)", "vocabId": "n5-v-278" }
+      ]
+    },
+    {
+      "kanji": "生",
+      "meaning": { "en": "life; birth", "ta": "உயிர்; பிறப்பு" },
+      "on": ["せい", "しょう"],
+      "kun": ["う.まれる"],
+      "mnemonic": {
+        "en": "At the bottom is 土 (earth) from Unit 2. A little sprout pushes up out of the earth, and its first leaf bends to the left. New life is born!",
+        "ta": "கீழே 2-ஆம் பிரிவில் கற்ற 土 (மண்). அந்த மண்ணிலிருந்து ஒரு சிறு முளை மேலே எழுகிறது; அதன் முதல் இலை இடப்பக்கம் சாய்கிறது. புதிய உயிர் பிறந்துவிட்டது!"
+      },
+      "note": {
+        "en": "Most words use せい: 学生, 先生. In 誕生日 (たんじょうび, birthday), 生 is read じょう.",
+        "ta": "பெரும்பாலான சொற்களில் せい: 学生, 先生. 誕生日 (たんじょうび, பிறந்தநாள்) என்பதில் 生 = じょう."
+      },
+      "examples": [
+        { "word": "学生", "reading": "がくせい", "en": "student", "ta": "மாணவர்", "vocabId": "n5-v-156" },
+        { "word": "生徒", "reading": "せいと", "en": "pupil, student", "ta": "(பள்ளி) மாணவர்", "vocabId": "n5-v-346" },
+        { "word": "誕生日", "reading": "たんじょうび", "en": "birthday", "ta": "பிறந்தநாள்", "vocabId": "n5-v-397" },
+        { "word": "生まれる", "reading": "うまれる", "en": "to be born", "ta": "பிறக்க", "vocabId": "n5-v-082" }
+      ]
+    },
+    {
+      "kanji": "名",
+      "meaning": { "en": "name", "ta": "பெயர்" },
+      "on": ["めい"],
+      "kun": ["な"],
+      "mnemonic": {
+        "en": "On top is a half moon (夕): it is evening. Below it is a mouth (口). In the dark nobody can see your face, so you shout your name with your mouth.",
+        "ta": "மேலே அரை நிலா (夕) — மாலை நேரம். கீழே ஒரு வாய் (口). இருட்டில் யாருக்கும் உங்கள் முகம் தெரியாது; அதனால் வாயால் உங்கள் பெயரைச் சத்தமாகச் சொல்கிறீர்கள்."
+      },
+      "note": {
+        "en": "名 is な in 名前 (なまえ) and めい in 有名 (ゆうめい, famous): a famous person has a name everyone knows.",
+        "ta": "名前 (なまえ) என்பதில் 名 = な; 有名 (ゆうめい, புகழ்பெற்ற) என்பதில் めい. புகழ்பெற்றவர் என்றால் எல்லோருக்கும் தெரிந்த பெயர் உடையவர்."
+      },
+      "examples": [
+        { "word": "名前", "reading": "なまえ", "en": "name", "ta": "பெயர்", "vocabId": "n5-v-490" },
+        { "word": "有名", "reading": "ゆうめい", "en": "famous", "ta": "புகழ்பெற்ற", "vocabId": "n5-v-680" },
+        { "word": "平仮名", "reading": "ひらがな", "en": "hiragana", "ta": "ஹிராகானா", "vocabId": "n5-v-572" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU3-q01",
+        "type": "kanji_reading",
+        "sentence": "＿先生＿に ききます。",
+        "target": "先生",
+        "options": ["せんせ", "ぜんせい", "せんせい", "せいせん"],
+        "answer": 2,
+        "explanation_en": "先生 is read せんせい (ஆசிரியர், teacher). It ends with a long い sound. せんせ is too short, and ぜんせい has a wrong ゛.",
+        "explanation_ta": "先生 = せんせい (ஆசிரியர், teacher). கடைசியில் நீண்ட い ஒலி உண்டு. せんせ மிகக் குறுகியது; ぜんせい-இல் தேவையில்லாத ゛ உள்ளது."
+      },
+      {
+        "id": "KU3-q02",
+        "type": "kanji_reading",
+        "sentence": "＿先月＿、山に のぼりました。",
+        "target": "先月",
+        "options": ["せんげつ", "せんがつ", "ぜんげつ", "せんけつ"],
+        "answer": 0,
+        "explanation_en": "先月 is read せんげつ (போன மாதம், last month). Here 月 is げつ. がつ is only for month names like 一月 (いちがつ).",
+        "explanation_ta": "先月 = せんげつ (போன மாதம், last month). இங்கே 月 = げつ. がつ என்பது 一月 (いちがつ) போன்ற மாதப் பெயர்களுக்கு மட்டும்."
+      },
+      {
+        "id": "KU3-q03",
+        "type": "kanji_reading",
+        "sentence": "きのう ＿一人＿で えいがを みました。",
+        "target": "一人",
+        "options": ["いちにん", "ひとにん", "いちじん", "ひとり"],
+        "answer": 3,
+        "explanation_en": "一人 has a special reading: ひとり (ஒருவர் (தனியாக), one person; alone). It is not いちにん, even though 三人 is さんにん.",
+        "explanation_ta": "一人 என்பதற்குச் சிறப்பு வாசிப்பு: ひとり (ஒருவர் (தனியாக), one person; alone). 三人 = さんにん என்றாலும், 一人 என்பது いちにん அல்ல."
+      },
+      {
+        "id": "KU3-q04",
+        "type": "kanji_reading",
+        "sentence": "きょうだいは ＿二人＿ います。",
+        "target": "二人",
+        "options": ["ににん", "ふたり", "ふたにん", "にじん"],
+        "answer": 1,
+        "explanation_en": "二人 has a special reading: ふたり (இரண்டு பேர், two people). ににん looks logical, but it is wrong.",
+        "explanation_ta": "二人 என்பதற்குச் சிறப்பு வாசிப்பு: ふたり (இரண்டு பேர், two people). ににん சரி போலத் தோன்றினாலும் அது தவறு."
+      },
+      {
+        "id": "KU3-q05",
+        "type": "kanji_reading",
+        "sentence": "あそこに ＿女の子＿が います。",
+        "target": "女の子",
+        "options": ["おんなのこ", "おなのこ", "じょのこ", "おんなのご"],
+        "answer": 0,
+        "explanation_en": "女の子 is read おんなのこ (பெண் குழந்தை (சிறுமி), girl). 女 is おんな with ん. じょ is the on reading and is not used here.",
+        "explanation_ta": "女の子 = おんなのこ (பெண் குழந்தை (சிறுமி), girl). 女 = おんな, இதில் ん உண்டு. じょ என்பது ஓன் வாசிப்பு; இங்கே பயன்படாது."
+      },
+      {
+        "id": "KU3-q06",
+        "type": "kanji_reading",
+        "sentence": "＿男の人＿は わたしの あにです。",
+        "target": "男の人",
+        "options": ["おどこのひと", "だんのひと", "おとこのひと", "おとこのじん"],
+        "answer": 2,
+        "explanation_en": "男の人 is read おとこのひと (ஆண், man). It is おとこ with と, not ど. After の, 人 is ひと, not じん.",
+        "explanation_ta": "男の人 = おとこのひと (ஆண், man). おとこ-இல் と, ど அல்ல. の-க்குப் பின் 人 = ひと, じん அல்ல."
+      },
+      {
+        "id": "KU3-q07",
+        "type": "kanji_reading",
+        "sentence": "＿父＿は 五十さいです。",
+        "target": "父",
+        "options": ["はは", "ちち", "ちっち", "ふう"],
+        "answer": 1,
+        "explanation_en": "父 is read ちち ((என்) அப்பா, my father). There is no small っ. はは is 母 (mother).",
+        "explanation_ta": "父 = ちち ((என்) அப்பா, my father). இதில் சிறிய っ இல்லை. はは என்பது 母 (அம்மா)."
+      },
+      {
+        "id": "KU3-q08",
+        "type": "kanji_reading",
+        "sentence": "＿母＿は りょうりが じょうずです。",
+        "target": "母",
+        "options": ["ちち", "ばば", "ぼ", "はは"],
+        "answer": 3,
+        "explanation_en": "母 is read はは ((என்) அம்மா, my mother). ばば has a wrong ゛, and ぼ is the on reading, used in words like 母国.",
+        "explanation_ta": "母 = はは ((என்) அம்மா, my mother). ばば-இல் தேவையில்லாத ゛ உள்ளது. ぼ என்பது ஓன் வாசிப்பு; 母国 போன்ற சொற்களில் மட்டும்."
+      },
+      {
+        "id": "KU3-q09",
+        "type": "kanji_reading",
+        "sentence": "日よう日に ＿友だち＿と あそびます。",
+        "target": "友だち",
+        "options": ["どもだち", "ゆうだち", "ともだち", "ともたち"],
+        "answer": 2,
+        "explanation_en": "友だち is read ともだち (நண்பர், friend). 友 is とも, not ども. ゆう is the on reading, as in 友人 (ゆうじん).",
+        "explanation_ta": "友だち = ともだち (நண்பர், friend). 友 = とも, ども அல்ல. ゆう என்பது ஓன் வாசிப்பு; 友人 (ゆうじん) போன்ற சொல்லில் வரும்."
+      },
+      {
+        "id": "KU3-q10",
+        "type": "kanji_reading",
+        "sentence": "へやに 人が ＿三人＿ います。",
+        "target": "三人",
+        "options": ["さんにん", "さんじん", "みにん", "さにん"],
+        "answer": 0,
+        "explanation_en": "三人 is read さんにん (மூன்று பேர், three people). When you count people, 人 is にん. じん is for countries, like インド人.",
+        "explanation_ta": "三人 = さんにん (மூன்று பேர், three people). ஆட்களை எண்ணும்போது 人 = にん. じん என்பது インド人 போல நாட்டைக் குறிக்க."
+      },
+      {
+        "id": "KU3-q11",
+        "type": "orthography",
+        "sentence": "ここに ＿なまえ＿を かいて ください。",
+        "target": "なまえ",
+        "options": ["各前", "名前", "多前", "夕前"],
+        "answer": 1,
+        "explanation_en": "なまえ (பெயர், name) is written 名前: a half moon (夕) over a mouth (口). 各 and 多 look similar, but they are different kanji.",
+        "explanation_ta": "なまえ (பெயர், name) = 名前: அரை நிலா (夕), அதன் கீழே வாய் (口). 各, 多 பார்க்க ஒத்திருந்தாலும் அவை வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU3-q12",
+        "type": "orthography",
+        "sentence": "＿おんな＿の 人が きました。",
+        "target": "おんな",
+        "options": ["安", "母", "如", "女"],
+        "answer": 3,
+        "explanation_en": "おんな (பெண், woman) is written 女. 母 is はは (mother), and 安 has a roof on top of 女.",
+        "explanation_ta": "おんな (பெண், woman) = 女. 母 = はは (அம்மா). 安-இல் 女-க்கு மேலே ஒரு கூரை உள்ளது."
+      },
+      {
+        "id": "KU3-q13",
+        "type": "orthography",
+        "sentence": "わたしは 五月に ＿うまれました＿。",
+        "target": "うまれました",
+        "options": ["生まれました", "牛まれました", "主まれました", "午まれました"],
+        "answer": 0,
+        "explanation_en": "うまれる (பிறக்க, to be born) is written 生まれる. 牛 (cow) and 午 (noon) look similar but have no line at the bottom like 生.",
+        "explanation_ta": "うまれる (பிறக்க, to be born) = 生まれる. 牛 (மாடு), 午 (மதியம்) பார்க்க ஒத்திருக்கும்; ஆனால் 生 போலக் கீழே தரைக் கோடு இல்லை."
+      },
+      {
+        "id": "KU3-q14",
+        "type": "orthography",
+        "sentence": "＿こども＿が 三人 います。",
+        "target": "こども",
+        "options": ["字ども", "予ども", "子ども", "了ども"],
+        "answer": 2,
+        "explanation_en": "こども (குழந்தை, child) is written 子ども. 了 has no arms (no line across), and 予 has an extra part on top.",
+        "explanation_ta": "こども (குழந்தை, child) = 子ども. 了-இல் கைகள் (குறுக்குக் கோடு) இல்லை; 予-இல் மேலே கூடுதல் பகுதி உள்ளது."
+      },
+      {
+        "id": "KU3-q15",
+        "type": "orthography",
+        "sentence": "＿ちち＿は 木よう日に かえります。",
+        "target": "ちち",
+        "options": ["交", "文", "夫", "父"],
+        "answer": 3,
+        "explanation_en": "ちち ((என்) அப்பா, my father) is written 父: a moustache over crossed arms. 交 and 文 have a lid (亠) on top instead of the moustache.",
+        "explanation_ta": "ちち ((என்) அப்பா, my father) = 父: கட்டிய கைகளுக்கு மேல் மீசை. 交, 文 இரண்டிலும் மீசைக்குப் பதிலாக மேலே ஒரு மூடி (亠) உள்ளது."
+      },
+      {
+        "id": "KU3-q16",
+        "type": "orthography",
+        "sentence": "あした ＿ともだち＿に あいます。",
+        "target": "ともだち",
+        "options": ["反だち", "友だち", "有だち", "支だち"],
+        "answer": 1,
+        "explanation_en": "ともだち (நண்பர், friend) is written 友だち: two hands, ナ and 又. 有 sounds like ゆう too, but it has 月 at the bottom.",
+        "explanation_ta": "ともだち (நண்பர், friend) = 友だち: ナ, 又 என்ற இரண்டு கைகள். 有-ஐயும் ゆう என்று படிக்கலாம்; ஆனால் அதன் கீழே 月 உள்ளது."
+      }
+    ]
+  }
+}

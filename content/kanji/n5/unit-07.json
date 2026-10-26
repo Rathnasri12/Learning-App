@@ -1,0 +1,331 @@
+{
+  "unit": 7,
+  "intro": {
+    "en": "In this unit you learn 8 kanji for school, country, language and weather. Many of them join into words you already use, like 学校 (school), 電車 (train) and 天気 (weather). Tip: 雨 (rain) sits on top of 電 (electricity), so look for the rain cloud.",
+    "ta": "இந்தப் பாடத்தில் பள்ளி, நாடு, மொழி, வானிலை பற்றிய 8 கான்ஜிகளைக் கற்கிறீர்கள். இவற்றில் பல சேர்ந்து நீங்கள் ஏற்கெனவே பயன்படுத்தும் சொற்களாகின்றன: 学校 (பள்ளி), 電車 (ரயில்), 天気 (வானிலை). குறிப்பு: 電 (மின்சாரம்) கான்ஜியின் மேலே 雨 (மழை) இருக்கிறது; அந்த மழை மேகத்தைத் தேடுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "学",
+      "meaning": { "en": "study, learning", "ta": "படிப்பு, கல்வி" },
+      "on": ["がく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A child (子) sits under a roof (冖). Above the roof, three little sparks fly up: new ideas popping out of the child’s head. The child is studying.",
+        "ta": "ஒரு கூரையின் (冖) கீழ் ஒரு குழந்தை (子) உட்கார்ந்திருக்கிறது. கூரைக்கு மேலே மூன்று சிறு பொறிகள் பறக்கின்றன: குழந்தையின் தலையிலிருந்து புதுப் புது யோசனைகள் வெடிக்கின்றன. குழந்தை படித்துக்கொண்டிருக்கிறது."
+      },
+      "note": {
+        "en": "In 学校 the がく changes to がっ: がっこう, with a small っ. In 学生 and 大学 it stays がく.",
+        "ta": "学校 என்ற சொல்லில் がく என்பது がっ ஆக மாறுகிறது: がっこう (சிறிய っ உடன்). 学生, 大学 ஆகியவற்றில் がく அப்படியே இருக்கும்."
+      },
+      "examples": [
+        { "word": "学生", "reading": "がくせい", "en": "student", "ta": "மாணவர்", "vocabId": "n5-v-156" },
+        { "word": "学校", "reading": "がっこう", "en": "school", "ta": "பள்ளி", "vocabId": "n5-v-168" },
+        { "word": "大学", "reading": "だいがく", "en": "university", "ta": "பல்கலைக்கழகம்", "vocabId": "n5-v-372" },
+        { "word": "留学生", "reading": "りゅうがくせい", "en": "international student", "ta": "வெளிநாட்டு மாணவர்", "vocabId": "n5-v-699" }
+      ]
+    },
+    {
+      "kanji": "校",
+      "meaning": { "en": "school", "ta": "பள்ளி" },
+      "on": ["こう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a tree (木). On the right, children sit with legs crossed (交) under a small roof. A class under a big tree: the first village school.",
+        "ta": "இடப்பக்கம் ஒரு மரம் (木). வலப்பக்கம் ஒரு சிறிய கூரையின் கீழ் பிள்ளைகள் கால்களைக் குறுக்காக மடக்கி (交) உட்கார்ந்திருக்கிறார்கள். பெரிய மரத்தடியில் நடக்கும் வகுப்பு: கிராமத்தின் முதல் பள்ளிக்கூடம்."
+      },
+      "note": {
+        "en": "Don’t mix up 校 (school) and 交 (cross). 校 has the tree 木 on the left.",
+        "ta": "校 (பள்ளி), 交 (குறுக்கு) இரண்டையும் குழப்ப வேண்டாம். 校-வின் இடப்பக்கம் மரம் 木 இருக்கும்."
+      },
+      "examples": [
+        { "word": "学校", "reading": "がっこう", "en": "school", "ta": "பள்ளி", "vocabId": "n5-v-168" },
+        { "word": "高校", "reading": "こうこう", "en": "high school", "ta": "மேல்நிலைப் பள்ளி" },
+        { "word": "校長", "reading": "こうちょう", "en": "head teacher, principal", "ta": "தலைமை ஆசிரியர்" }
+      ]
+    },
+    {
+      "kanji": "国",
+      "meaning": { "en": "country", "ta": "நாடு" },
+      "on": ["こく"],
+      "kun": ["くに"],
+      "mnemonic": {
+        "en": "The big box is the border wall around a country. Inside sits a king (王) with one shining jewel (the dot). The wall keeps the king’s country safe.",
+        "ta": "பெரிய பெட்டி போன்ற வடிவம் ஒரு நாட்டைச் சுற்றியுள்ள எல்லைச் சுவர். அதற்குள் ஒரு அரசர் (王) ஒரு மின்னும் மாணிக்கத்துடன் (புள்ளி) இருக்கிறார். அந்தச் சுவர் அரசரின் நாட்டைப் பாதுகாக்கிறது."
+      },
+      "note": {
+        "en": "After ん, こく often becomes ごく: 中国 (ちゅうごく, China). Alone, 国 is くに.",
+        "ta": "ん-க்குப் பிறகு こく பெரும்பாலும் ごく ஆகிவிடும்: 中国 (ちゅうごく, சீனா). தனியாக வந்தால் 国 = くに."
+      },
+      "examples": [
+        { "word": "国", "reading": "くに", "en": "country", "ta": "நாடு", "vocabId": "n5-v-223" },
+        { "word": "外国", "reading": "がいこく", "en": "foreign country", "ta": "வெளிநாடு", "vocabId": "n5-v-144" },
+        { "word": "外国人", "reading": "がいこくじん", "en": "foreigner", "ta": "வெளிநாட்டவர்", "vocabId": "n5-v-145" },
+        { "word": "中国", "reading": "ちゅうごく", "en": "China", "ta": "சீனா" }
+      ]
+    },
+    {
+      "kanji": "語",
+      "meaning": { "en": "language, word", "ta": "மொழி, சொல்" },
+      "on": ["ご"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is “words” (言): a mouth with lines of speech rising above it. On the right, five (五) mouths (口) all talk at once. Many mouths sharing words make a language.",
+        "ta": "இடப்பக்கம் “சொல்” (言): ஒரு வாய், அதற்கு மேலே பேச்சுக் கோடுகள் எழுகின்றன. வலப்பக்கம் ஐந்து (五) வாய்கள் (口) ஒரே நேரத்தில் பேசுகின்றன. பல வாய்கள் பகிர்ந்துகொள்ளும் சொற்களே ஒரு மொழி."
+      },
+      "note": {
+        "en": "Add 語 (ご) after a country name to make its language: 日本語 (Japanese), 中国語 (Chinese).",
+        "ta": "ஒரு நாட்டின் பெயருக்குப் பின் 語 (ご) சேர்த்தால் அந்நாட்டின் மொழி: 日本語 (ஜப்பானிய மொழி), 中国語 (சீன மொழி)."
+      },
+      "examples": [
+        { "word": "日本語", "reading": "にほんご", "en": "Japanese (language)", "ta": "ஜப்பானிய மொழி" },
+        { "word": "英語", "reading": "えいご", "en": "English language", "ta": "ஆங்கிலம் (மொழி)", "vocabId": "n5-v-090" },
+        { "word": "～語", "reading": "ご", "en": "language", "ta": "～ மொழி", "vocabId": "n5-v-244" },
+        { "word": "中国語", "reading": "ちゅうごくご", "en": "Chinese (language)", "ta": "சீன மொழி" }
+      ]
+    },
+    {
+      "kanji": "雨",
+      "meaning": { "en": "rain", "ta": "மழை" },
+      "on": [],
+      "kun": ["あめ"],
+      "mnemonic": {
+        "en": "The top line is the sky. Below it is a window, and through the glass you see four drops of rain falling. It is the monsoon outside.",
+        "ta": "மேலே உள்ள கோடு வானம். அதன் கீழ் ஒரு ஜன்னல்; கண்ணாடி வழியே நான்கு மழைத்துளிகள் விழுவது தெரிகிறது. வெளியே பருவமழை கொட்டுகிறது."
+      },
+      "note": {
+        "en": "In 小雨 (light rain) it is read さめ: こさめ. When 雨 sits on top of another kanji, it is about weather, as in 電 (electricity, from lightning).",
+        "ta": "小雨 (தூறல்) என்பதில் இது さめ: こさめ. 雨 வேறொரு கான்ஜியின் மேல் இருந்தால் அது வானிலையைக் குறிக்கும், எ.கா. 電 (மின்னலிலிருந்து மின்சாரம்)."
+      },
+      "examples": [
+        { "word": "雨", "reading": "あめ", "en": "rain", "ta": "மழை", "vocabId": "n5-v-037" },
+        { "word": "大雨", "reading": "おおあめ", "en": "heavy rain", "ta": "கனமழை" },
+        { "word": "小雨", "reading": "こさめ", "en": "light rain", "ta": "தூறல் (லேசான மழை)" }
+      ]
+    },
+    {
+      "kanji": "気",
+      "meaning": { "en": "spirit, air, feeling", "ta": "உணர்வு, காற்று" },
+      "on": ["き"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Think of a Pongal pot boiling over. The top lines are steam curling up and out to the right. The ✕ below is the rice bubbling in the pot. You cannot hold steam, like air and feelings.",
+        "ta": "பொங்கி வழியும் பொங்கல் பானையை நினையுங்கள். மேலே உள்ள கோடுகள் சுருண்டு வலப்பக்கம் எழும் ஆவி. கீழே உள்ள ✕ பானையில் கொதிக்கும் அரிசி. ஆவியைக் கையில் பிடிக்க முடியாது; காற்றும் உணர்வும் அப்படித்தான்."
+      },
+      "note": {
+        "en": "Don’t mix up 天気 (てんき, weather) and 電気 (でんき, light, electricity). Only the first sound is different: て / で.",
+        "ta": "天気 (てんき, வானிலை), 電気 (でんき, விளக்கு, மின்சாரம்) இரண்டையும் குழப்ப வேண்டாம். முதல் ஒலி மட்டுமே வேறு: て / で."
+      },
+      "examples": [
+        { "word": "天気", "reading": "てんき", "en": "weather", "ta": "வானிலை", "vocabId": "n5-v-438" },
+        { "word": "元気", "reading": "げんき", "en": "healthy; energetic", "ta": "நலமான (சுறுசுறுப்பான)", "vocabId": "n5-v-241" },
+        { "word": "電気", "reading": "でんき", "en": "light; electricity", "ta": "விளக்கு (மின்சாரம்)", "vocabId": "n5-v-439" },
+        { "word": "病気", "reading": "びょうき", "en": "illness", "ta": "நோய்", "vocabId": "n5-v-571" }
+      ]
+    },
+    {
+      "kanji": "電",
+      "meaning": { "en": "electricity", "ta": "மின்சாரம்" },
+      "on": ["でん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a rain cloud (雨). Under it, a bolt of lightning cuts through a field and its tail swings down to the ground. Lightning is electricity from the sky.",
+        "ta": "மேலே ஒரு மழை மேகம் (雨). அதன் கீழ் ஒரு மின்னல் வயலைக் கிழித்துக்கொண்டு, அதன் வால் வளைந்து தரையைத் தொடுகிறது. மின்னல் என்பது வானத்திலிருந்து வரும் மின்சாரம்."
+      },
+      "note": {
+        "en": "電 is always でん at N5, with a voiced で. Don’t read it てん; that is 天 (sky).",
+        "ta": "N5-இல் 電 எப்போதும் でん (ஒலிப்புடைய で). இதை てん என்று படிக்க வேண்டாம்; அது 天 (வானம்)."
+      },
+      "examples": [
+        { "word": "電車", "reading": "でんしゃ", "en": "train", "ta": "ரயில் (மின்சார ரயில்)", "vocabId": "n5-v-440" },
+        { "word": "電話", "reading": "でんわ", "en": "telephone", "ta": "தொலைபேசி", "vocabId": "n5-v-441" },
+        { "word": "電気", "reading": "でんき", "en": "light; electricity", "ta": "விளக்கு (மின்சாரம்)", "vocabId": "n5-v-439" }
+      ]
+    },
+    {
+      "kanji": "車",
+      "meaning": { "en": "car, vehicle", "ta": "வண்டி, கார்" },
+      "on": ["しゃ"],
+      "kun": ["くるま"],
+      "mnemonic": {
+        "en": "Look down on a bullock cart from the sky. The box in the middle is the cart. The long line going down through it is the axle, and the top and bottom lines are the two wheels.",
+        "ta": "வானத்திலிருந்து ஒரு மாட்டு வண்டியைக் கீழே பாருங்கள். நடுவில் உள்ள பெட்டி வண்டி. அதன் வழியே கீழே செல்லும் நீண்ட கோடு அச்சு; மேலும் கீழும் உள்ள கோடுகள் இரண்டு சக்கரங்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 車 (car) and 東 (east). 東 has a tree 木 at the bottom with two legs; 車 ends in a straight line.",
+        "ta": "車 (கார்), 東 (கிழக்கு) இரண்டையும் குழப்ப வேண்டாம். 東-வின் கீழே இரண்டு கால்களுடன் மரம் 木 இருக்கும்; 車 நேர்க்கோட்டில் முடியும்."
+      },
+      "examples": [
+        { "word": "車", "reading": "くるま", "en": "car", "ta": "கார்", "vocabId": "n5-v-231" },
+        { "word": "電車", "reading": "でんしゃ", "en": "train", "ta": "ரயில் (மின்சார ரயில்)", "vocabId": "n5-v-440" },
+        { "word": "自転車", "reading": "じてんしゃ", "en": "bicycle", "ta": "சைக்கிள் (மிதிவண்டி)", "vocabId": "n5-v-302" },
+        { "word": "自動車", "reading": "じどうしゃ", "en": "car; automobile", "ta": "வாகனம் (மோட்டார் கார்)", "vocabId": "n5-v-303" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU7-q01",
+        "type": "kanji_reading",
+        "sentence": "毎日 ＿学校＿へ いきます。",
+        "target": "学校",
+        "options": ["がこう", "がっこう", "がっこ", "かっこう"],
+        "answer": 1,
+        "explanation_en": "学校 is read がっこう (பள்ளி, school). がく + こう joins with a small っ. がこう has no small っ, and がっこ has a short こ.",
+        "explanation_ta": "学校 = がっこう (பள்ளி, school). がく + こう சேரும்போது சிறிய っ வருகிறது. がこう-வில் சிறிய っ இல்லை; がっこ-வில் こ குறுகியது."
+      },
+      {
+        "id": "KU7-q02",
+        "type": "kanji_reading",
+        "sentence": "あには ＿大学＿の 学生です。",
+        "target": "大学",
+        "options": ["だいかく", "たいがく", "だいがく", "だいがっく"],
+        "answer": 2,
+        "explanation_en": "大学 is read だいがく (பல்கலைக்கழகம், university). Both だ and が are voiced. だいかく loses the voicing on が.",
+        "explanation_ta": "大学 = だいがく (பல்கலைக்கழகம், university). だ, が இரண்டும் ஒலிப்புடையவை. だいかく-வில் が ஒலிப்பு இல்லாமல் か ஆகிவிட்டது."
+      },
+      {
+        "id": "KU7-q03",
+        "type": "kanji_reading",
+        "sentence": "なつやすみに ＿外国＿へ いきたいです。",
+        "target": "外国",
+        "options": ["がいこく", "がいごく", "かいこく", "がいこっく"],
+        "answer": 0,
+        "explanation_en": "外国 is read がいこく (வெளிநாடு, foreign country). Here 国 stays こく. がいごく wrongly voices it, as in 中国 (ちゅうごく).",
+        "explanation_ta": "外国 = がいこく (வெளிநாடு, foreign country). இங்கே 国 = こく. がいごく தவறு; ごく என்பது 中国 (ちゅうごく) போன்ற சொற்களில் மட்டும்."
+      },
+      {
+        "id": "KU7-q04",
+        "type": "kanji_reading",
+        "sentence": "わたしの ＿国＿は インドです。",
+        "target": "国",
+        "options": ["こく", "ごく", "ぐに", "くに"],
+        "answer": 3,
+        "explanation_en": "国 alone is read くに (நாடு, country). こく is its on reading, used in words like 外国.",
+        "explanation_ta": "தனியாக வரும் 国 = くに (நாடு, country). こく என்பது on வாசிப்பு; 外国 போன்ற சொற்களில் வரும்."
+      },
+      {
+        "id": "KU7-q05",
+        "type": "kanji_reading",
+        "sentence": "＿日本語＿が すこし わかります。",
+        "target": "日本語",
+        "options": ["にほんこ", "にほんこう", "にほんご", "にほんごう"],
+        "answer": 2,
+        "explanation_en": "日本語 is read にほんご (ஜப்பானிய மொழி, Japanese). 語 is a short ご. にほんごう has a long vowel, and にほんこ is not voiced.",
+        "explanation_ta": "日本語 = にほんご (ஜப்பானிய மொழி, Japanese). 語 = குறுகிய ご. にほんごう-வில் நீண்ட உயிர், にほんこ-வில் ஒலிப்பு இல்லை."
+      },
+      {
+        "id": "KU7-q06",
+        "type": "kanji_reading",
+        "sentence": "あしたは ＿雨＿です。",
+        "target": "雨",
+        "options": ["あめ", "あま", "あみ", "うめ"],
+        "answer": 0,
+        "explanation_en": "雨 alone is read あめ (மழை, rain). あま is used only at the front of some longer words. うめ means plum.",
+        "explanation_ta": "தனியாக வரும் 雨 = あめ (மழை, rain). あま சில நீண்ட சொற்களின் முன்பகுதியில் மட்டும் வரும். うめ என்றால் பிளம் பழம்."
+      },
+      {
+        "id": "KU7-q07",
+        "type": "kanji_reading",
+        "sentence": "きょうは ＿天気＿が いいですね。",
+        "target": "天気",
+        "options": ["てんぎ", "でんき", "てんけ", "てんき"],
+        "answer": 3,
+        "explanation_en": "天気 is read てんき (வானிலை, weather). でんき is 電気 (light, electricity), with a voiced で.",
+        "explanation_ta": "天気 = てんき (வானிலை, weather). でんき என்பது 電気 (விளக்கு, மின்சாரம்); அதில் ஒலிப்புடைய で."
+      },
+      {
+        "id": "KU7-q08",
+        "type": "kanji_reading",
+        "sentence": "＿電車＿で かいしゃへ いきます。",
+        "target": "電車",
+        "options": ["てんしゃ", "でんしゃ", "でんしや", "でんじゃ"],
+        "answer": 1,
+        "explanation_en": "電車 is read でんしゃ (ரயில், train), with a small ゃ. でんしや uses a big や, and てんしゃ is not voiced.",
+        "explanation_ta": "電車 = でんしゃ (ரயில், train); இதில் சிறிய ゃ. でんしや-வில் பெரிய や, てんしゃ-வில் ஒலிப்பு இல்லை."
+      },
+      {
+        "id": "KU7-q09",
+        "type": "kanji_reading",
+        "sentence": "父の ＿車＿は 白いです。",
+        "target": "車",
+        "options": ["くるま", "くろま", "しゃ", "ぐるま"],
+        "answer": 0,
+        "explanation_en": "車 alone is read くるま (கார், car). しゃ is its on reading, used in words like 電車.",
+        "explanation_ta": "தனியாக வரும் 車 = くるま (கார், car). しゃ என்பது on வாசிப்பு; 電車 போன்ற சொற்களில் வரும்."
+      },
+      {
+        "id": "KU7-q10",
+        "type": "kanji_reading",
+        "sentence": "＿電気＿を つけて ください。",
+        "target": "電気",
+        "options": ["てんき", "でんぎ", "でんき", "でんけ"],
+        "answer": 2,
+        "explanation_en": "電気 is read でんき (விளக்கு, light). てんき is 天気 (weather), a different word.",
+        "explanation_ta": "電気 = でんき (விளக்கு, light). てんき என்பது 天気 (வானிலை); அது வேறு சொல்."
+      },
+      {
+        "id": "KU7-q11",
+        "type": "orthography",
+        "sentence": "＿がっこう＿は 九時からです。",
+        "target": "がっこう",
+        "options": ["字校", "学枚", "学交", "学校"],
+        "answer": 3,
+        "explanation_en": "がっこう (பள்ளி, school) is written 学校. 学交 is missing the tree 木 on the left of 校, and 字 has no sparks on top.",
+        "explanation_ta": "がっこう (பள்ளி, school) = 学校. 学交-வில் 校-வின் இடப்பக்க மரம் 木 இல்லை; 字-வின் மேலே பொறிகள் இல்லை."
+      },
+      {
+        "id": "KU7-q12",
+        "type": "orthography",
+        "sentence": "＿でんしゃ＿に のります。",
+        "target": "でんしゃ",
+        "options": ["電単", "電車", "雷車", "雪車"],
+        "answer": 1,
+        "explanation_en": "でんしゃ (ரயில், train) is written 電車. 雷 (thunder) and 雪 (snow) also have 雨 on top, but no lightning tail.",
+        "explanation_ta": "でんしゃ (ரயில், train) = 電車. 雷 (இடி), 雪 (பனி) ஆகியவற்றின் மேலும் 雨 உண்டு; ஆனால் மின்னல் வால் இல்லை."
+      },
+      {
+        "id": "KU7-q13",
+        "type": "orthography",
+        "sentence": "＿あめ＿が ふって います。",
+        "target": "あめ",
+        "options": ["両", "雨", "西", "再"],
+        "answer": 1,
+        "explanation_en": "あめ (மழை, rain) is written 雨: a window with four raindrops inside. 西 (west) and 両 look like a box too, but have no drops.",
+        "explanation_ta": "あめ (மழை, rain) = 雨: ஜன்னலுக்குள் நான்கு மழைத்துளிகள். 西 (மேற்கு), 両 ஆகியவையும் பெட்டி போலத் தெரியும்; ஆனால் துளிகள் இல்லை."
+      },
+      {
+        "id": "KU7-q14",
+        "type": "orthography",
+        "sentence": "あなたの ＿くに＿は どこですか。",
+        "target": "くに",
+        "options": ["困", "図", "固", "国"],
+        "answer": 3,
+        "explanation_en": "くに (நாடு, country) is written 国: a king 王 with a jewel inside the border wall. 困 has a tree inside, 図 and 固 have other parts.",
+        "explanation_ta": "くに (நாடு, country) = 国: எல்லைச் சுவருக்குள் மாணிக்கத்துடன் அரசர் 王. 困-க்குள் மரம்; 図, 固 ஆகியவற்றுக்குள் வேறு பகுதிகள்."
+      },
+      {
+        "id": "KU7-q15",
+        "type": "orthography",
+        "sentence": "あしたの ＿てんき＿は どうですか。",
+        "target": "てんき",
+        "options": ["天気", "電気", "天汽", "大気"],
+        "answer": 0,
+        "explanation_en": "てんき (வானிலை, weather) is written 天気. 電気 is でんき (light). 大気 starts with 大 (big), not 天 (sky).",
+        "explanation_ta": "てんき (வானிலை, weather) = 天気. 電気 = でんき (விளக்கு). 大気-வில் 天 (வானம்) அல்ல, 大 (பெரிய) உள்ளது."
+      },
+      {
+        "id": "KU7-q16",
+        "type": "orthography",
+        "sentence": "母と ＿くるま＿で いきます。",
+        "target": "くるま",
+        "options": ["東", "軍", "車", "庫"],
+        "answer": 2,
+        "explanation_en": "くるま (கார், car) is written 車. 東 (east) looks close, but it has the legs of a tree 木 at the bottom.",
+        "explanation_ta": "くるま (கார், car) = 車. 東 (கிழக்கு) கிட்டத்தட்ட அப்படியே தெரியும்; ஆனால் அதன் கீழே மரம் 木-வின் கால்கள் உள்ளன."
+      }
+    ]
+  }
+}

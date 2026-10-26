@@ -12,13 +12,11 @@ import ProgressRing from "../ProgressRing";
 import McqView from "./McqView";
 import SentenceOrderView from "./SentenceOrderView";
 import PassageClozeView from "./PassageClozeView";
-import type { Perms } from "./TestRunner";
+import type { Perms, TestNav } from "./TestRunner";
 import { type Answer, emptyAnswer, isCloze, isMcq, isOrder, scoreItem } from "./types";
 
 export default function Results({
-  level,
-  n,
-  total,
+  nav,
   items,
   answers,
   passMark,
@@ -29,9 +27,7 @@ export default function Results({
   perms,
   onRetry,
 }: {
-  level: string;
-  n: number;
-  total: number;
+  nav: TestNav;
   items: TestItem[];
   answers: Record<string, Answer>;
   passMark: number;
@@ -91,7 +87,7 @@ export default function Results({
           </h1>
           <p className="text-fg-2 mt-1">
             {passed
-              ? "Great work! You passed this lesson and the next one is unlocked."
+              ? nav.passText
               : `You need ${Math.round(passMark * 100)}% to pass. Read the explanations for your mistakes below and try again.`}
           </p>
           <div className="text-xs text-muted font-bold mt-2">
@@ -102,13 +98,13 @@ export default function Results({
           <button className="btn btn-ghost" onClick={onRetry}>
             <RotateCcw size={16} /> Retry (new shuffle)
           </button>
-          {passed && n < total ? (
-            <Link href={`/${level}/lesson/${n + 1}`} className="btn btn-primary">
-              Lesson {n + 1} <ArrowRight size={16} />
+          {passed && nav.next ? (
+            <Link href={nav.next.href} className="btn btn-primary">
+              {nav.next.label} <ArrowRight size={16} />
             </Link>
           ) : (
-            <Link href={`/${level}/lesson/${n}`} className="btn btn-indigo">
-              <Home size={16} /> Lesson {n}
+            <Link href={nav.back.href} className="btn btn-indigo">
+              <Home size={16} /> {nav.back.label}
             </Link>
           )}
         </div>

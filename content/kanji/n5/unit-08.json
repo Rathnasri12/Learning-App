@@ -1,0 +1,386 @@
+{
+  "unit": 8,
+  "intro": {
+    "en": "In this unit you learn 11 kanji for everyday actions: see, hear, talk, read, write, eat, go, come, go out, go in and rest. Most of them are verbs, so the kanji is followed by hiragana, like 見る and 食べる. Tip: 話 and 読 both start with the “words” part 言 that you saw in 語.",
+    "ta": "இந்தப் பாடத்தில் அன்றாடச் செயல்களுக்கான 11 கான்ஜிகளைக் கற்கிறீர்கள்: பார், கேள், பேசு, படி, எழுது, சாப்பிடு, போ, வா, வெளியே போ, உள்ளே போ, ஓய்வெடு. இவற்றில் பெரும்பாலானவை வினைச்சொற்கள்; அதனால் கான்ஜிக்குப் பின் ஹிரகானா வரும்: 見る, 食べる. குறிப்பு: 話, 読 இரண்டும் 語-வில் நீங்கள் பார்த்த “சொல்” பகுதி 言 உடன் தொடங்குகின்றன."
+  },
+  "kanji": [
+    {
+      "kanji": "見",
+      "meaning": { "en": "see, look", "ta": "பார்" },
+      "on": ["けん"],
+      "kun": ["み.る", "み.せる"],
+      "mnemonic": {
+        "en": "A big eye (目) on top of two running legs (儿). The eye walks all over town, looking at everything.",
+        "ta": "ஓடும் இரண்டு கால்களின் (儿) மேல் ஒரு பெரிய கண் (目). அந்தக் கண் ஊர் முழுக்க நடந்து எல்லாவற்றையும் பார்க்கிறது."
+      },
+      "note": {
+        "en": "見る (みる) is “to see”; 見せる (みせる) is “to show”, to make someone else see.",
+        "ta": "見る (みる) = பார்க்க; 見せる (みせる) = காட்ட, அதாவது மற்றவரைப் பார்க்க வைப்பது."
+      },
+      "examples": [
+        { "word": "見る", "reading": "みる", "en": "to see, to watch", "ta": "பார்க்க", "vocabId": "n5-v-648" },
+        { "word": "見せる", "reading": "みせる", "en": "to show", "ta": "காட்ட", "vocabId": "n5-v-640" },
+        { "word": "見学", "reading": "けんがく", "en": "study visit, tour", "ta": "பார்வையிட்டுக் கற்றல் (சுற்றிப் பார்த்தல்)" }
+      ]
+    },
+    {
+      "kanji": "聞",
+      "meaning": { "en": "hear, listen, ask", "ta": "கேள்" },
+      "on": ["ぶん"],
+      "kun": ["き.く"],
+      "mnemonic": {
+        "en": "A big temple gate (門) is shut. Someone presses an ear (耳) to the gap in the middle. They listen hard to hear what is said inside.",
+        "ta": "ஒரு பெரிய கோயில் வாசல் கதவு (門) மூடியிருக்கிறது. நடுவில் உள்ள இடைவெளியில் ஒருவர் காதை (耳) வைத்து அழுத்துகிறார். உள்ளே பேசுவதைக் கேட்க உற்றுக் கவனிக்கிறார்."
+      },
+      "note": {
+        "en": "聞く means both “to listen” and “to ask”. Don’t mix up 聞 (ear in the gate) and 間 (sun in the gate, “between”).",
+        "ta": "聞く என்றால் “கேட்க (காதால்)”, “கேட்க (கேள்வி)” இரண்டும். 聞 (வாசலில் காது), 間 (வாசலில் சூரியன், “இடையே”) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "聞く", "reading": "きく", "en": "to listen, to ask", "ta": "கேட்க", "vocabId": "n5-v-193" },
+        { "word": "新聞", "reading": "しんぶん", "en": "newspaper", "ta": "செய்தித்தாள்", "vocabId": "n5-v-327" },
+        { "word": "聞こえる", "reading": "きこえる", "en": "to be heard, can hear", "ta": "காதில் விழ (கேட்க முடிய)" }
+      ]
+    },
+    {
+      "kanji": "話",
+      "meaning": { "en": "talk, story", "ta": "பேச்சு, பேசு" },
+      "on": ["わ"],
+      "kun": ["はな.す", "はなし"],
+      "mnemonic": {
+        "en": "On the left is “words” (言). On the right is a tongue (舌) sticking out of a mouth (口). Words roll off the tongue: you are talking.",
+        "ta": "இடப்பக்கம் “சொல்” (言). வலப்பக்கம் வாயிலிருந்து (口) வெளியே நீட்டிய நாக்கு (舌). நாக்கிலிருந்து சொற்கள் உருண்டு வருகின்றன: நீங்கள் பேசுகிறீர்கள்."
+      },
+      "note": {
+        "en": "The verb is 話す (はなす, to talk) and the noun is 話 (はなし, a talk or story). In 電話 it is わ.",
+        "ta": "வினைச்சொல் 話す (はなす, பேச); பெயர்ச்சொல் 話 (はなし, பேச்சு அல்லது கதை). 電話-வில் இது わ."
+      },
+      "examples": [
+        { "word": "話す", "reading": "はなす", "en": "to speak; to talk", "ta": "பேச", "vocabId": "n5-v-541" },
+        { "word": "話", "reading": "はなし", "en": "talk; story", "ta": "பேச்சு (கதை)", "vocabId": "n5-v-540" },
+        { "word": "電話", "reading": "でんわ", "en": "telephone", "ta": "தொலைபேசி", "vocabId": "n5-v-441" },
+        { "word": "会話", "reading": "かいわ", "en": "conversation", "ta": "உரையாடல்" }
+      ]
+    },
+    {
+      "kanji": "読",
+      "meaning": { "en": "read", "ta": "படி, வாசி" },
+      "on": ["どく"],
+      "kun": ["よ.む"],
+      "mnemonic": {
+        "en": "On the left is “words” (言). On the right is a market seller (売) holding up a price board. You read the words on the board out loud.",
+        "ta": "இடப்பக்கம் “சொல்” (言). வலப்பக்கம் விலைப்பலகையைத் தூக்கிப் பிடித்திருக்கும் சந்தை வியாபாரி (売). பலகையில் உள்ள சொற்களை நீங்கள் சத்தமாகப் படிக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 読 (read) and 話 (talk). Both start with 言; 読 has the seller 売 on the right, 話 has the tongue 舌.",
+        "ta": "読 (படி), 話 (பேசு) இரண்டையும் குழப்ப வேண்டாம். இரண்டும் 言 உடன் தொடங்கும்; 読-வின் வலப்பக்கம் வியாபாரி 売, 話-வின் வலப்பக்கம் நாக்கு 舌."
+      },
+      "examples": [
+        { "word": "読む", "reading": "よむ", "en": "to read", "ta": "படிக்க (வாசிக்க)", "vocabId": "n5-v-690" },
+        { "word": "読書", "reading": "どくしょ", "en": "reading books", "ta": "புத்தக வாசிப்பு" },
+        { "word": "読み", "reading": "よみ", "en": "reading (of a kanji)", "ta": "வாசிப்பு (கான்ஜியின் உச்சரிப்பு)" }
+      ]
+    },
+    {
+      "kanji": "書",
+      "meaning": { "en": "write", "ta": "எழுது" },
+      "on": ["しょ"],
+      "kun": ["か.く"],
+      "mnemonic": {
+        "en": "A hand holds a writing brush straight up; the lines across it are the fingers gripping it. At the bottom is a sheet of paper (日). The brush is writing on the paper.",
+        "ta": "ஒரு கை எழுதும் தூரிகையை நேராகப் பிடித்திருக்கிறது; அதன் குறுக்கே உள்ள கோடுகள் பிடித்திருக்கும் விரல்கள். கீழே ஒரு தாள் (日). தூரிகை தாளில் எழுதுகிறது."
+      },
+      "note": {
+        "en": "In 葉書 (postcard) か becomes が: はがき. The on reading しょ is in book words: 辞書, 図書館.",
+        "ta": "葉書 (அஞ்சல் அட்டை) என்பதில் か என்பது が ஆகிறது: はがき. on வாசிப்பு しょ புத்தகம் சார்ந்த சொற்களில் வரும்: 辞書, 図書館."
+      },
+      "examples": [
+        { "word": "書く", "reading": "かく", "en": "to write", "ta": "எழுத", "vocabId": "n5-v-155" },
+        { "word": "辞書", "reading": "じしょ", "en": "dictionary", "ta": "அகராதி", "vocabId": "n5-v-297" },
+        { "word": "図書館", "reading": "としょかん", "en": "library", "ta": "நூலகம்", "vocabId": "n5-v-460" },
+        { "word": "葉書", "reading": "はがき", "en": "postcard", "ta": "அஞ்சல் அட்டை (போஸ்ட் கார்டு)", "vocabId": "n5-v-523" }
+      ]
+    },
+    {
+      "kanji": "食",
+      "meaning": { "en": "eat, food", "ta": "சாப்பிடு, உணவு" },
+      "on": ["しょく"],
+      "kun": ["た.べる"],
+      "mnemonic": {
+        "en": "On top is a lid, shaped like a roof (𠆢). Under it is a full bowl of rice on a little stand. Lift the lid and eat!",
+        "ta": "மேலே கூரை போன்ற ஒரு மூடி (𠆢). அதன் கீழ் சிறிய தாங்கியின் மேல் நிறைந்த சோற்றுக் கிண்ணம். மூடியைத் திறந்து சாப்பிடுங்கள்!"
+      },
+      "examples": [
+        { "word": "食べる", "reading": "たべる", "en": "to eat", "ta": "சாப்பிட", "vocabId": "n5-v-393" },
+        { "word": "食べ物", "reading": "たべもの", "en": "food", "ta": "உணவுப் பொருள்", "vocabId": "n5-v-392" },
+        { "word": "食堂", "reading": "しょくどう", "en": "cafeteria", "ta": "உணவகம் (கேன்டீன்)", "vocabId": "n5-v-322" }
+      ]
+    },
+    {
+      "kanji": "行",
+      "meaning": { "en": "go", "ta": "போ" },
+      "on": ["こう"],
+      "kun": ["い.く"],
+      "mnemonic": {
+        "en": "Seen from above, this is a crossroads. On the left a person takes small steps (彳); on the right the road runs on ahead (亍). At the crossroads you choose where to go.",
+        "ta": "மேலிருந்து பார்த்தால் இது ஒரு நாற்சந்தி. இடப்பக்கம் ஒருவர் சிறு அடிகள் எடுத்து வைக்கிறார் (彳); வலப்பக்கம் சாலை முன்னே நீள்கிறது (亍). நாற்சந்தியில் எங்கே போவது என்று முடிவு செய்கிறீர்கள்."
+      },
+      "note": {
+        "en": "The て-form of 行く is 行って (いって), not いいて. On reading こう is in 銀行, 旅行, 飛行機.",
+        "ta": "行く-வின் て வடிவம் 行って (いって); いいて அல்ல. on வாசிப்பு こう: 銀行, 旅行, 飛行機."
+      },
+      "examples": [
+        { "word": "行く", "reading": "いく", "en": "to go", "ta": "போக", "vocabId": "n5-v-049" },
+        { "word": "銀行", "reading": "ぎんこう", "en": "bank", "ta": "வங்கி", "vocabId": "n5-v-214" },
+        { "word": "旅行", "reading": "りょこう", "en": "trip; travel", "ta": "பயணம் (சுற்றுலா)", "vocabId": "n5-v-702" },
+        { "word": "飛行機", "reading": "ひこうき", "en": "airplane", "ta": "விமானம்", "vocabId": "n5-v-562" }
+      ]
+    },
+    {
+      "kanji": "来",
+      "meaning": { "en": "come, next", "ta": "வா, அடுத்த" },
+      "on": ["らい"],
+      "kun": ["く.る"],
+      "mnemonic": {
+        "en": "A tree (木) with an extra branch across the top and two grains hanging down. It is a rice plant heavy with grain. Harvest time has come!",
+        "ta": "மேலே கூடுதல் குறுக்குக் கிளையும், கீழே தொங்கும் இரண்டு தானியங்களும் கொண்ட மரம் (木). இது தானியக் கதிர்கள் நிறைந்து தலைசாய்ந்த நெற்பயிர். அறுவடைக் காலம் வந்துவிட்டது!"
+      },
+      "note": {
+        "en": "来る is irregular, and the kanji reading changes: 来る (くる), 来ます (きます), 来ない (こない). Before 年, 月 and 週, 来 (らい) means “next”: 来年 is next year.",
+        "ta": "来る ஒழுங்கற்ற வினை; கான்ஜியின் வாசிப்பும் மாறும்: 来る (くる), 来ます (きます), 来ない (こない). 年, 月, 週 ஆகியவற்றுக்கு முன் 来 (らい) என்றால் “அடுத்த”: 来年 = அடுத்த ஆண்டு."
+      },
+      "examples": [
+        { "word": "来る", "reading": "くる", "en": "to come", "ta": "வர", "vocabId": "n5-v-230" },
+        { "word": "来年", "reading": "らいねん", "en": "next year", "ta": "அடுத்த ஆண்டு", "vocabId": "n5-v-695" },
+        { "word": "来月", "reading": "らいげつ", "en": "next month", "ta": "அடுத்த மாதம்", "vocabId": "n5-v-693" },
+        { "word": "来週", "reading": "らいしゅう", "en": "next week", "ta": "அடுத்த வாரம்", "vocabId": "n5-v-694" }
+      ]
+    },
+    {
+      "kanji": "出",
+      "meaning": { "en": "go out, take out", "ta": "வெளியே போ, வெளியே எடு" },
+      "on": [],
+      "kun": ["で.る", "だ.す"],
+      "mnemonic": {
+        "en": "One mountain (山) stands on top of another mountain. To go out of the valley, you climb over both hills and come out the other side.",
+        "ta": "ஒரு மலையின் (山) மேல் இன்னொரு மலை. பள்ளத்தாக்கிலிருந்து வெளியே போக, இரண்டு மலைகளையும் ஏறிக் கடந்து மறுபக்கம் வெளியே வருகிறீர்கள்."
+      },
+      "note": {
+        "en": "出る (でる) is “I go out”; 出す (だす) is “I take something out”. In 出口 (exit) it is で: でぐち.",
+        "ta": "出る (でる) = நான் வெளியே போகிறேன்; 出す (だす) = ஒரு பொருளை வெளியே எடுக்கிறேன். 出口 (வெளியேறும் வழி) என்பதில் で: でぐち."
+      },
+      "examples": [
+        { "word": "出る", "reading": "でる", "en": "to leave, to go out", "ta": "வெளியே போக, புறப்பட", "vocabId": "n5-v-436" },
+        { "word": "出す", "reading": "だす", "en": "to take out; to hand in", "ta": "வெளியே எடுக்க (சமர்ப்பிக்க)", "vocabId": "n5-v-383" },
+        { "word": "出口", "reading": "でぐち", "en": "exit", "ta": "வெளியேறும் வழி", "vocabId": "n5-v-431" },
+        { "word": "出かける", "reading": "でかける", "en": "to go out", "ta": "வெளியே கிளம்ப", "vocabId": "n5-v-428" }
+      ]
+    },
+    {
+      "kanji": "入",
+      "meaning": { "en": "enter, put in", "ta": "நுழை, உள்ளே போடு" },
+      "on": ["にゅう"],
+      "kun": ["はい.る", "い.れる"],
+      "mnemonic": {
+        "en": "Two flaps lean on each other like the door of a tent. The right flap is on top. Bend your head and go in.",
+        "ta": "கூடாரத்தின் வாசல் போல இரண்டு திரைகள் ஒன்றின் மேல் ஒன்று சாய்ந்திருக்கின்றன. வலப்பக்கத் திரை மேலே இருக்கிறது. தலையைக் குனிந்து உள்ளே நுழையுங்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 入 (enter) and 人 (person). In 人 the left stroke is on top; in 入 the right stroke is on top. 入口 (entrance) is read いりぐち.",
+        "ta": "入 (நுழை), 人 (மனிதர்) இரண்டையும் குழப்ப வேண்டாம். 人-இல் இடப்பக்கக் கோடு மேலே; 入-இல் வலப்பக்கக் கோடு மேலே. 入口 (நுழைவாயில்) = いりぐち."
+      },
+      "examples": [
+        { "word": "入る", "reading": "はいる", "en": "to enter", "ta": "உள்ளே நுழைய", "vocabId": "n5-v-522" },
+        { "word": "入れる", "reading": "いれる", "en": "to put in", "ta": "உள்ளே போட", "vocabId": "n5-v-073" },
+        { "word": "入口", "reading": "いりぐち", "en": "entrance", "ta": "நுழைவாயில்", "vocabId": "n5-v-070" },
+        { "word": "入学", "reading": "にゅうがく", "en": "entering a school", "ta": "பள்ளியில் சேர்தல்" }
+      ]
+    },
+    {
+      "kanji": "休",
+      "meaning": { "en": "rest, day off", "ta": "ஓய்வு, விடுமுறை" },
+      "on": ["きゅう"],
+      "kun": ["やす.む"],
+      "mnemonic": {
+        "en": "A person (亻) leans against a tree (木) in its cool shade, like a farmer under a coconut tree at noon. They are taking a rest.",
+        "ta": "ஒருவர் (亻) ஒரு மரத்தின் (木) குளிர்ந்த நிழலில் சாய்ந்திருக்கிறார்; மதிய வேளையில் தென்னை மரத்தடியில் ஓய்வெடுக்கும் விவசாயி போல. அவர் ஓய்வெடுக்கிறார்."
+      },
+      "note": {
+        "en": "Don’t mix up 休 (rest) and 体 (body). 体 has an extra short line at the bottom of the tree.",
+        "ta": "休 (ஓய்வு), 体 (உடல்) இரண்டையும் குழப்ப வேண்டாம். 体-வில் மரத்தின் அடியில் கூடுதலாக ஒரு சிறிய கோடு இருக்கும்."
+      },
+      "examples": [
+        { "word": "休む", "reading": "やすむ", "en": "to rest; to take a day off", "ta": "ஓய்வெடுக்க (விடுப்பு எடுக்க)", "vocabId": "n5-v-672" },
+        { "word": "休み", "reading": "やすみ", "en": "holiday, day off", "ta": "விடுமுறை", "vocabId": "n5-v-671" },
+        { "word": "夏休み", "reading": "なつやすみ", "en": "summer holidays", "ta": "கோடை விடுமுறை", "vocabId": "n5-v-485" },
+        { "word": "休日", "reading": "きゅうじつ", "en": "holiday, day off", "ta": "விடுமுறை நாள்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU8-q01",
+        "type": "kanji_reading",
+        "sentence": "まいばん テレビを ＿見ます＿。",
+        "target": "見ます",
+        "options": ["けます", "みせます", "みます", "めます"],
+        "answer": 2,
+        "explanation_en": "見ます is read みます (பார்க்கிறேன், I watch). みせます is 見せます (I show), which has せ after the kanji.",
+        "explanation_ta": "見ます = みます (பார்க்கிறேன், I watch). みせます என்பது 見せます (காட்டுகிறேன்); அதில் கான்ஜிக்குப் பின் せ வரும்."
+      },
+      {
+        "id": "KU8-q02",
+        "type": "kanji_reading",
+        "sentence": "父は 毎日 ＿新聞＿を よみます。",
+        "target": "新聞",
+        "options": ["しんぶん", "しんもん", "しんぷん", "しんぶ"],
+        "answer": 0,
+        "explanation_en": "新聞 is read しんぶん (செய்தித்தாள், newspaper). 聞 is ぶん with a voiced ぶ. しんぷん has the wrong mark, and しんぶ is missing ん.",
+        "explanation_ta": "新聞 = しんぶん (செய்தித்தாள், newspaper). 聞 = ぶん (ஒலிப்புடைய ぶ). しんぷん-வில் தவறான குறி, しんぶ-வில் ん இல்லை."
+      },
+      {
+        "id": "KU8-q03",
+        "type": "kanji_reading",
+        "sentence": "日本語で ＿話して＿ ください。",
+        "target": "話して",
+        "options": ["わして", "はなっして", "はなしで", "はなして"],
+        "answer": 3,
+        "explanation_en": "話して is read はなして (பேசுங்கள், please speak). わ is the on reading, used in 電話, not in the verb.",
+        "explanation_ta": "話して = はなして (பேசுங்கள், please speak). わ என்பது on வாசிப்பு; 電話-வில் வரும், வினைச்சொல்லில் அல்ல."
+      },
+      {
+        "id": "KU8-q04",
+        "type": "kanji_reading",
+        "sentence": "としょかんで 本を ＿読みます＿。",
+        "target": "読みます",
+        "options": ["はなします", "よみます", "どくみます", "よびます"],
+        "answer": 1,
+        "explanation_en": "読みます is read よみます (படிக்கிறேன், I read). どく is the on reading, used in 読書, not in the verb. はなします is 話します (talk).",
+        "explanation_ta": "読みます = よみます (படிக்கிறேன், I read). どく என்பது on வாசிப்பு; 読書-வில் வரும், வினைச்சொல்லில் அல்ல. はなします என்பது 話します (பேசுகிறேன்)."
+      },
+      {
+        "id": "KU8-q05",
+        "type": "kanji_reading",
+        "sentence": "名前を ＿書いて＿ ください。",
+        "target": "書いて",
+        "options": ["かきて", "かいて", "がいて", "かって"],
+        "answer": 1,
+        "explanation_en": "書いて is read かいて (எழுதுங்கள், please write). The て-form of かく is かいて, not かきて. がいて is wrongly voiced.",
+        "explanation_ta": "書いて = かいて (எழுதுங்கள், please write). かく-வின் て வடிவம் かいて; かきて அல்ல. がいて-வில் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q06",
+        "type": "kanji_reading",
+        "sentence": "ひるごはんは 大学の ＿食堂＿で たべます。",
+        "target": "食堂",
+        "options": ["しょくど", "しょっどう", "しょくとう", "しょくどう"],
+        "answer": 3,
+        "explanation_en": "食堂 is read しょくどう (உணவகம், cafeteria), with a long どう. しょくど is too short, and しょくとう is not voiced.",
+        "explanation_ta": "食堂 = しょくどう (உணவகம், cafeteria); நீண்ட どう. しょくど குறுகியது; しょくとう-வில் ஒலிப்பு இல்லை."
+      },
+      {
+        "id": "KU8-q07",
+        "type": "kanji_reading",
+        "sentence": "あした ＿銀行＿へ いきます。",
+        "target": "銀行",
+        "options": ["ぎんこう", "ぎんこ", "きんこう", "ぎんぎょう"],
+        "answer": 0,
+        "explanation_en": "銀行 is read ぎんこう (வங்கி, bank), with a long こう. ぎんこ is too short, and ぎんぎょう uses the wrong on reading.",
+        "explanation_ta": "銀行 = ぎんこう (வங்கி, bank); நீண்ட こう. ぎんこ குறுகியது; ぎんぎょう-வில் தவறான on வாசிப்பு."
+      },
+      {
+        "id": "KU8-q08",
+        "type": "kanji_reading",
+        "sentence": "＿来年＿ 日本へ いきます。",
+        "target": "来年",
+        "options": ["らいとし", "くるねん", "らいねん", "らいれん"],
+        "answer": 2,
+        "explanation_en": "来年 is read らいねん (அடுத்த ஆண்டு, next year). くる is for the verb 来る, not for this word. らいとし mixes on and kun.",
+        "explanation_ta": "来年 = らいねん (அடுத்த ஆண்டு, next year). くる என்பது 来る வினைக்கு மட்டும். らいとし on, kun இரண்டையும் கலக்கிறது."
+      },
+      {
+        "id": "KU8-q09",
+        "type": "kanji_reading",
+        "sentence": "へやに ＿入って＿ ください。",
+        "target": "入って",
+        "options": ["はいって", "いって", "はいて", "いれって"],
+        "answer": 0,
+        "explanation_en": "入って is read はいって (உள்ளே வாருங்கள், please come in), with a small っ. いって is 行って (go). はいて has no small っ.",
+        "explanation_ta": "入って = はいって (உள்ளே வாருங்கள், please come in); சிறிய っ உண்டு. いって என்பது 行って (போங்கள்). はいて-வில் சிறிய っ இல்லை."
+      },
+      {
+        "id": "KU8-q10",
+        "type": "kanji_reading",
+        "sentence": "あしたは 学校を ＿休みます＿。",
+        "target": "休みます",
+        "options": ["きゅうみます", "やすみます", "やずみます", "よすみます"],
+        "answer": 1,
+        "explanation_en": "休みます is read やすみます (விடுப்பு எடுக்கிறேன், I take a day off). きゅう is the on reading, used in 休日, not in the verb.",
+        "explanation_ta": "休みます = やすみます (விடுப்பு எடுக்கிறேன், I take a day off). きゅう என்பது on வாசிப்பு; 休日-இல் வரும், வினைச்சொல்லில் அல்ல."
+      },
+      {
+        "id": "KU8-q11",
+        "type": "orthography",
+        "sentence": "七時に いえを ＿でます＿。",
+        "target": "でます",
+        "options": ["山ます", "入ます", "出ます", "土ます"],
+        "answer": 2,
+        "explanation_en": "でます (வெளியே போகிறேன், I leave) is written 出ます: two mountains, one on top of the other. 山 is only one mountain.",
+        "explanation_ta": "でます (வெளியே போகிறேன், I leave) = 出ます: ஒன்றின் மேல் ஒன்றாக இரண்டு மலைகள். 山 ஒரே ஒரு மலை."
+      },
+      {
+        "id": "KU8-q12",
+        "type": "orthography",
+        "sentence": "ここに なまえを ＿かいて＿ ください。",
+        "target": "かいて",
+        "options": ["昼いて", "画いて", "事いて", "書いて"],
+        "answer": 3,
+        "explanation_en": "かいて (எழுதுங்கள், please write) is written 書いて: a hand holding a brush over paper. 昼 (noon) looks similar but has no brush line going up.",
+        "explanation_ta": "かいて (எழுதுங்கள், please write) = 書いて: தாளின் மேல் தூரிகையைப் பிடித்த கை. 昼 (மதியம்) அப்படியே தெரியும்; ஆனால் மேலே நீளும் தூரிகைக் கோடு இல்லை."
+      },
+      {
+        "id": "KU8-q13",
+        "type": "orthography",
+        "sentence": "ともだちと 日本語で ＿はなします＿。",
+        "target": "はなします",
+        "options": ["語します", "読します", "詰します", "話します"],
+        "answer": 3,
+        "explanation_en": "はなします (பேசுகிறேன், I talk) is written 話します: words 言 and a tongue 舌. 読 (read) and 語 (language) also start with 言.",
+        "explanation_ta": "はなします (பேசுகிறேன், I talk) = 話します: சொல் 言, நாக்கு 舌. 読 (படி), 語 (மொழி) ஆகியவையும் 言 உடன் தொடங்கும்."
+      },
+      {
+        "id": "KU8-q14",
+        "type": "orthography",
+        "sentence": "まいあさ ラジオを ＿ききます＿。",
+        "target": "ききます",
+        "options": ["聞きます", "間きます", "開きます", "問きます"],
+        "answer": 0,
+        "explanation_en": "ききます (கேட்கிறேன், I listen) is written 聞きます: an ear 耳 at the gate. 間 has a sun 日 in the gate, 開 means open, and 問 has a mouth.",
+        "explanation_ta": "ききます (கேட்கிறேன், I listen) = 聞きます: வாசலில் காது 耳. 間-இல் வாசலில் சூரியன் 日, 開 = திற, 問-இல் வாய்."
+      },
+      {
+        "id": "KU8-q15",
+        "type": "orthography",
+        "sentence": "あしたも ＿きて＿ ください。",
+        "target": "きて",
+        "options": ["米て", "末て", "来て", "木て"],
+        "answer": 2,
+        "explanation_en": "きて (வாருங்கள், please come) is written 来て, the て-form of 来る. 米 (rice) and 末 (end) look close, and 木 is a tree.",
+        "explanation_ta": "きて (வாருங்கள், please come) = 来て; இது 来る-வின் て வடிவம். 米 (அரிசி), 末 (முடிவு) அப்படியே தெரியும்; 木 என்பது மரம்."
+      },
+      {
+        "id": "KU8-q16",
+        "type": "orthography",
+        "sentence": "えきの ＿いりぐち＿で まって います。",
+        "target": "いりぐち",
+        "options": ["人口", "入口", "八口", "火口"],
+        "answer": 1,
+        "explanation_en": "いりぐち (நுழைவாயில், entrance) is written 入口. 人口 (じんこう) means population: in 人 the left stroke is on top, in 入 the right stroke is on top.",
+        "explanation_ta": "いりぐち (நுழைவாயில், entrance) = 入口. 人口 (じんこう) என்றால் மக்கள்தொகை: 人-இல் இடப்பக்கக் கோடு மேலே, 入-இல் வலப்பக்கக் கோடு மேலே."
+      }
+    ]
+  }
+}

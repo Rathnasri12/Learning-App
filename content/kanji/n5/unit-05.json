@@ -1,0 +1,370 @@
+{
+  "unit": 5,
+  "intro": {
+    "en": "In this unit you learn 10 kanji about time: year, hour, now, noon, before, after and more. You will use them every day to say the time and the date. Tip: many of these kanji are made of parts you already know, like 日 (sun) and 母 (mother).",
+    "ta": "இந்தப் பாடத்தில் நேரம் பற்றிய 10 கான்ஜிகளைக் கற்கிறீர்கள்: ஆண்டு, மணி, இப்போது, நண்பகல், முன், பின் போன்றவை. நேரத்தையும் தேதியையும் சொல்ல இவற்றைத் தினமும் பயன்படுத்துவீர்கள். குறிப்பு: இவற்றில் பல கான்ஜிகள் நீங்கள் ஏற்கனவே அறிந்த பகுதிகளால் ஆனவை, உதாரணமாக 日 (சூரியன்), 母 (அம்மா)."
+  },
+  "kanji": [
+    {
+      "kanji": "年",
+      "meaning": { "en": "year", "ta": "ஆண்டு / வருடம்" },
+      "on": ["ねん"],
+      "kun": ["とし"],
+      "mnemonic": {
+        "en": "A farmer’s hat sits on top (the short slanted stroke). Below it stands one tall rice plant (the long line down) with many flat leaves. The rice is cut only once a year, at harvest time.",
+        "ta": "மேலே உள்ள சிறிய சாய்ந்த கோடு ஒரு விவசாயியின் தொப்பி. அதன் கீழே நீண்ட நெற்பயிர் (நடுவில் கீழிறங்கும் கோடு), அதில் பல தட்டையான இலைகள். இந்த நெல் அறுவடை ஆண்டுக்கு ஒரு முறைதான், தைப் பொங்கல் போல!"
+      },
+      "note": {
+        "en": "今年 (this year) is read ことし, not こんねん. 毎年 can be read まいとし or まいねん.",
+        "ta": "今年 (இந்த ஆண்டு) என்பதை ことし என்று படிக்க வேண்டும், こんねん அல்ல. 毎年 என்பதை まいとし அல்லது まいねん என்று படிக்கலாம்."
+      },
+      "examples": [
+        { "word": "年", "reading": "とし", "en": "year; age", "ta": "வருடம் (வயது)", "vocabId": "n5-v-459" },
+        { "word": "今年", "reading": "ことし", "en": "this year", "ta": "இந்த ஆண்டு", "vocabId": "n5-v-261" },
+        { "word": "来年", "reading": "らいねん", "en": "next year", "ta": "அடுத்த ஆண்டு", "vocabId": "n5-v-695" },
+        { "word": "毎年", "reading": "まいねん", "en": "every year", "ta": "ஒவ்வொரு ஆண்டும்", "vocabId": "n5-v-619" }
+      ]
+    },
+    {
+      "kanji": "時",
+      "meaning": { "en": "time, hour", "ta": "நேரம், மணி" },
+      "on": ["じ"],
+      "kun": ["とき"],
+      "mnemonic": {
+        "en": "On the left is the sun (日). On the right is a temple (寺: earth 土 on top, a hand 寸 below). Long ago, the temple bell rang as the sun moved, to tell everyone the time.",
+        "ta": "இடப்பக்கம் சூரியன் (日). வலப்பக்கம் ஒரு கோயில் (寺: மேலே மண் 土, கீழே கை 寸). முன்பு, சூரியன் நகர நகர கோயில் மணி அடித்து எல்லோருக்கும் நேரத்தைச் சொன்னது."
+      },
+      "note": {
+        "en": "時計 (clock) has a special reading: とけい. Learn the hours well: 四時 is よじ (not よんじ), 七時 is しちじ, 九時 is くじ.",
+        "ta": "時計 (கடிகாரம்) என்பதற்குச் சிறப்பு வாசிப்பு: とけい. மணிகளை நன்றாகக் கற்றுக்கொள்ளுங்கள்: 四時 = よじ (よんじ அல்ல), 七時 = しちじ, 九時 = くじ."
+      },
+      "examples": [
+        { "word": "三時", "reading": "さんじ", "en": "3 o’clock", "ta": "மூன்று மணி", "vocabId": "n5-v-291" },
+        { "word": "時間", "reading": "じかん", "en": "time", "ta": "நேரம்", "vocabId": "n5-v-294" },
+        { "word": "時々", "reading": "ときどき", "en": "sometimes", "ta": "சில நேரங்களில்", "vocabId": "n5-v-455" },
+        { "word": "時計", "reading": "とけい", "en": "watch, clock", "ta": "கடிகாரம்", "vocabId": "n5-v-456" }
+      ]
+    },
+    {
+      "kanji": "間",
+      "meaning": { "en": "between, interval", "ta": "இடையே, இடைவெளி" },
+      "on": ["かん"],
+      "kun": ["あいだ"],
+      "mnemonic": {
+        "en": "A big gate (門) with two doors. The sun (日) shines in through the gap between the doors. 間 is the space between two things, or the time between.",
+        "ta": "இரண்டு கதவுகள் உள்ள ஒரு பெரிய வாசல் (門), கோயில் கோபுர வாசல் போல. இரண்டு கதவுகளுக்கும் இடையே உள்ள இடைவெளி வழியாகச் சூரியன் (日) உள்ளே ஒளி வீசுகிறது. 間 என்றால் இரண்டு பொருட்களுக்கு இடையே உள்ள இடம், அல்லது இடைப்பட்ட நேரம்."
+      },
+      "note": {
+        "en": "Don’t mix up 間 (sun 日 inside the gate) and 聞 (hear, an ear 耳 inside the gate). 〜時間 means ‘hours’ (how long): 二時間 = two hours.",
+        "ta": "間 (வாசலுக்குள் சூரியன் 日), 聞 (கேள், வாசலுக்குள் காது 耳) இரண்டையும் குழப்பிக்கொள்ள வேண்டாம். 〜時間 என்றால் ‘மணி நேரம்’ (எவ்வளவு நேரம்): 二時間 = இரண்டு மணி நேரம்."
+      },
+      "examples": [
+        { "word": "時間", "reading": "じかん", "en": "time", "ta": "நேரம்", "vocabId": "n5-v-294" },
+        { "word": "二時間", "reading": "にじかん", "en": "two hours", "ta": "இரண்டு மணி நேரம்", "vocabId": "n5-v-295" },
+        { "word": "一週間", "reading": "いっしゅうかん", "en": "one week (duration)", "ta": "ஒரு வாரம் (காலம்)", "vocabId": "n5-v-316" },
+        { "word": "間", "reading": "あいだ", "en": "between", "ta": "இடையில்" }
+      ]
+    },
+    {
+      "kanji": "半",
+      "meaning": { "en": "half", "ta": "பாதி, அரை" },
+      "on": ["はん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Two little steam lines (丷) rise from a hot dosa on the plate (the two flat lines). One long knife line cuts straight down the middle. Now you have two halves!",
+        "ta": "தட்டில் உள்ள சூடான தோசையிலிருந்து (இரண்டு தட்டையான கோடுகள்) இரண்டு சிறிய ஆவிக் கோடுகள் (丷) எழுகின்றன. நடுவில் ஒரு நீண்ட கத்திக் கோடு நேராகக் கீழே வெட்டுகிறது. இப்போது இரண்டு பாதிகள்!"
+      },
+      "note": {
+        "en": "For time, 半 means ‘half past’: 三時半 = 3:30. In 半分 (half), the ふん sound changes to ぶん: はんぶん.",
+        "ta": "நேரத்தில் 半 என்றால் ‘அரை’: 三時半 = மூன்றரை மணி. 半分 (பாதி) என்பதில் ふん ஒலி ぶん ஆக மாறுகிறது: はんぶん."
+      },
+      "examples": [
+        { "word": "半", "reading": "はん", "en": "half (past)", "ta": "அரை (மணி)", "vocabId": "n5-v-549" },
+        { "word": "半分", "reading": "はんぶん", "en": "half", "ta": "பாதி", "vocabId": "n5-v-556" },
+        { "word": "三時半", "reading": "さんじはん", "en": "half past three", "ta": "மூன்றரை மணி" }
+      ]
+    },
+    {
+      "kanji": "今",
+      "meaning": { "en": "now", "ta": "இப்போது" },
+      "on": ["こん"],
+      "kun": ["いま"],
+      "mnemonic": {
+        "en": "A roof (the 人 shape on top) covers a clock. Under the roof, one short line is the clock face, and the hook below is the clock hand. It points right at this moment: now!",
+        "ta": "மேலே உள்ள 人 வடிவம் ஒரு கூரை; அதன் கீழ் ஒரு கடிகாரம். சிறிய ஒற்றைக் கோடு கடிகார முகம், கீழே உள்ள கொக்கி கடிகார முள். அது இந்தக் கணத்தையே காட்டுகிறது: இப்போது!"
+      },
+      "note": {
+        "en": "Special readings: 今日 きょう (today), 今年 ことし (this year), 今朝 けさ (this morning). But 今月 is こんげつ and 今週 is こんしゅう.",
+        "ta": "சிறப்பு வாசிப்புகள்: 今日 きょう (இன்று), 今年 ことし (இந்த ஆண்டு), 今朝 けさ (இன்று காலை). ஆனால் 今月 = こんげつ, 今週 = こんしゅう."
+      },
+      "examples": [
+        { "word": "今", "reading": "いま", "en": "now", "ta": "இப்போது", "vocabId": "n5-v-066" },
+        { "word": "今日", "reading": "きょう", "en": "today", "ta": "இன்று", "vocabId": "n5-v-204" },
+        { "word": "今月", "reading": "こんげつ", "en": "this month", "ta": "இந்த மாதம்", "vocabId": "n5-v-270" },
+        { "word": "今晩", "reading": "こんばん", "en": "tonight", "ta": "இன்று இரவு", "vocabId": "n5-v-273" }
+      ]
+    },
+    {
+      "kanji": "午",
+      "meaning": { "en": "noon", "ta": "நண்பகல்" },
+      "on": ["ご"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A tall stick stands in the ground, like a sundial. The sun (the slanted stroke) sits right on top of it. At 12 noon, the sun is straight above the stick and there is almost no shadow.",
+        "ta": "தரையில் ஒரு நீண்ட குச்சி நிற்கிறது, சூரியக் கடிகாரம் போல. மேலே உள்ள சாய்ந்த கோடுதான் சூரியன், குச்சியின் உச்சியில் இருக்கிறது. நண்பகல் 12 மணிக்குச் சூரியன் நேராகத் தலைக்கு மேல், நிழலே கிட்டத்தட்ட இல்லை."
+      },
+      "note": {
+        "en": "Don’t mix up 午 (noon) and 牛 (cow). The cow’s middle line pokes out at the top like a horn; 午 has no horn.",
+        "ta": "午 (நண்பகல்), 牛 (பசு) இரண்டையும் குழப்ப வேண்டாம். பசுவின் நடுக்கோடு கொம்பு போல மேலே நீண்டு வெளியே வரும்; 午-க்குக் கொம்பு இல்லை."
+      },
+      "examples": [
+        { "word": "午前", "reading": "ごぜん", "en": "morning, a.m.", "ta": "முற்பகல் (a.m.)", "vocabId": "n5-v-256" },
+        { "word": "午後", "reading": "ごご", "en": "afternoon, p.m.", "ta": "மதியம் / பிற்பகல் (p.m.)", "vocabId": "n5-v-253" },
+        { "word": "午前中", "reading": "ごぜんちゅう", "en": "during the morning", "ta": "முற்பகல் முழுவதும்" }
+      ]
+    },
+    {
+      "kanji": "前",
+      "meaning": { "en": "front, before", "ta": "முன், முன்னால்" },
+      "on": ["ぜん"],
+      "kun": ["まえ"],
+      "mnemonic": {
+        "en": "On top are two horns (丷) on a line: the pointed front of a boat. Below, the boat’s body (月) and a sharp knife (刂). The boat cuts through the water and moves to the front.",
+        "ta": "மேலே ஒரு கோட்டின் மீது இரண்டு கொம்புகள் (丷): படகின் கூர்மையான முன்பகுதி. கீழே படகின் உடல் (月), அருகில் கூர்மையான கத்தி (刂). படகு தண்ணீரைக் கிழித்துக்கொண்டு முன்னோக்கிச் செல்கிறது."
+      },
+      "note": {
+        "en": "前 is the opposite of 後. 午前 = a.m. (before noon), 午後 = p.m. (after noon).",
+        "ta": "前 என்பதன் எதிர்ச்சொல் 後. 午前 = a.m. (நண்பகலுக்கு முன்), 午後 = p.m. (நண்பகலுக்குப் பின்)."
+      },
+      "examples": [
+        { "word": "前", "reading": "まえ", "en": "in front of", "ta": "முன்னால்", "vocabId": "n5-v-621" },
+        { "word": "名前", "reading": "なまえ", "en": "name", "ta": "பெயர்", "vocabId": "n5-v-490" },
+        { "word": "午前", "reading": "ごぜん", "en": "morning, a.m.", "ta": "முற்பகல் (a.m.)", "vocabId": "n5-v-256" },
+        { "word": "三年前", "reading": "さんねんまえ", "en": "three years ago", "ta": "மூன்று ஆண்டுகளுக்கு முன்", "vocabId": "n5-v-622" }
+      ]
+    },
+    {
+      "kanji": "後",
+      "meaning": { "en": "behind, after", "ta": "பின்னால், பிறகு" },
+      "on": ["ご"],
+      "kun": ["うし.ろ", "あと"],
+      "mnemonic": {
+        "en": "On the left, a person walks on a road (彳). On the right, a thin thread (幺) is tied to their slow, dragging feet (夂). With tied feet, they always walk behind the others and arrive after them.",
+        "ta": "இடப்பக்கம் ஒருவர் சாலையில் நடக்கிறார் (彳). வலப்பக்கம் மெல்லிய நூல் (幺) அவருடைய மெதுவாக இழுபடும் கால்களில் (夂) கட்டப்பட்டிருக்கிறது. கால் கட்டப்பட்டதால் அவர் எப்போதும் மற்றவர்களுக்குப் பின்னால் நடந்து, அவர்களுக்குப் பிறகே வந்து சேர்கிறார்."
+      },
+      "note": {
+        "en": "Three readings: 後ろ うしろ is ‘behind’ (a place). 後 あと is ‘after, later’ (time). In 午後 it is ご.",
+        "ta": "மூன்று வாசிப்புகள்: 後ろ うしろ = ‘பின்னால்’ (இடம்). 後 あと = ‘பிறகு’ (நேரம்). 午後 என்பதில் ご."
+      },
+      "examples": [
+        { "word": "後ろ", "reading": "うしろ", "en": "behind", "ta": "பின்னால்", "vocabId": "n5-v-077" },
+        { "word": "後", "reading": "あと", "en": "after; later", "ta": "பிறகு (பின்னர்)", "vocabId": "n5-v-027" },
+        { "word": "午後", "reading": "ごご", "en": "afternoon, p.m.", "ta": "மதியம் / பிற்பகல் (p.m.)", "vocabId": "n5-v-253" }
+      ]
+    },
+    {
+      "kanji": "毎",
+      "meaning": { "en": "every", "ta": "ஒவ்வொரு" },
+      "on": ["まい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Look: it is mother (母) with a small hat on her head. Every day, every morning, mother puts on her hat and goes to the market for us.",
+        "ta": "பாருங்கள்: இது தலையில் சிறிய தொப்பி அணிந்த அம்மா (母). ஒவ்வொரு நாளும், ஒவ்வொரு காலையும், அம்மா தொப்பி அணிந்து நமக்காகச் சந்தைக்குப் போகிறாள்."
+      },
+      "note": {
+        "en": "Inside 毎, the two dots of 母 join into one line. 毎 always reads まい: 毎日 まいにち, 毎朝 まいあさ, 毎週 まいしゅう.",
+        "ta": "毎-க்குள், 母-வின் இரண்டு புள்ளிகள் ஒரே கோடாக இணைகின்றன. 毎 எப்போதும் まい: 毎日 まいにち, 毎朝 まいあさ, 毎週 まいしゅう."
+      },
+      "examples": [
+        { "word": "毎日", "reading": "まいにち", "en": "every day", "ta": "தினமும்", "vocabId": "n5-v-618" },
+        { "word": "毎朝", "reading": "まいあさ", "en": "every morning", "ta": "தினமும் காலை", "vocabId": "n5-v-615" },
+        { "word": "毎週", "reading": "まいしゅう", "en": "every week", "ta": "ஒவ்வொரு வாரமும்", "vocabId": "n5-v-617" },
+        { "word": "毎年", "reading": "まいとし", "en": "every year", "ta": "ஒவ்வொரு ஆண்டும்", "vocabId": "n5-v-619" }
+      ]
+    },
+    {
+      "kanji": "何",
+      "meaning": { "en": "what", "ta": "என்ன" },
+      "on": [],
+      "kun": ["なに", "なん"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a box with a big open mouth (口) inside it. The person shouts into the box: ‘What? What is in there?’",
+        "ta": "ஒருவர் (亻) ஒரு பெட்டியின் அருகில் நிற்கிறார்; பெட்டிக்குள் பெரிய திறந்த வாய் (口). அவர் பெட்டிக்குள் கத்துகிறார்: ‘என்ன? உள்ளே என்ன இருக்கு?’"
+      },
+      "note": {
+        "en": "Use なん before です, before t/d/n sounds, and before counters: 何ですか, 何時, 何人. Use なに in most other places: 何を たべますか.",
+        "ta": "です-க்கு முன், t/d/n ஒலிகளுக்கு முன், எண்ணும் சொற்களுக்கு முன் なん: 何ですか, 何時, 何人. மற்ற பெரும்பாலான இடங்களில் なに: 何を たべますか."
+      },
+      "examples": [
+        { "word": "何", "reading": "なに", "en": "what", "ta": "என்ன", "vocabId": "n5-v-488" },
+        { "word": "何時", "reading": "なんじ", "en": "what time", "ta": "எத்தனை மணி", "vocabId": "n5-v-495" },
+        { "word": "何人", "reading": "なんにん", "en": "how many people", "ta": "எத்தனை பேர்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU5-q01",
+        "type": "kanji_reading",
+        "sentence": "＿今年＿ にほんへ いきます。",
+        "target": "今年",
+        "options": ["こんねん", "ことし", "いまとし", "きょねん"],
+        "answer": 1,
+        "explanation_en": "今年 has a special reading: ことし (இந்த ஆண்டு, this year). こんねん uses the normal readings of each kanji, but it is wrong. きょねん is a different word: last year.",
+        "explanation_ta": "今年 என்பதற்குச் சிறப்பு வாசிப்பு: ことし (இந்த ஆண்டு, this year). こんねん என்பது ஒவ்வொரு கான்ஜியின் சாதாரண வாசிப்பு, ஆனால் தவறு. きょねん வேறு சொல்: போன வருடம்."
+      },
+      {
+        "id": "KU5-q02",
+        "type": "kanji_reading",
+        "sentence": "まいあさ ＿四時＿に おきます。",
+        "target": "四時",
+        "options": ["よんじ", "しじ", "よっじ", "よじ"],
+        "answer": 3,
+        "explanation_en": "四時 is read よじ (நான்கு மணி, 4 o’clock). Many learners say よんじ, but with 時 the 4 is only よ.",
+        "explanation_ta": "四時 என்பது よじ (நான்கு மணி, 4 o’clock). பலர் よんじ என்று சொல்வார்கள், ஆனால் 時 உடன் 4 என்பது よ மட்டுமே."
+      },
+      {
+        "id": "KU5-q03",
+        "type": "kanji_reading",
+        "sentence": "えきまで ＿二時間＿ かかります。",
+        "target": "二時間",
+        "options": ["にじかん", "にじっかん", "にしかん", "にちかん"],
+        "answer": 0,
+        "explanation_en": "二時間 is にじかん (இரண்டு மணி நேரம், two hours). There is no small っ: にじっかん is wrong. 時 is じ, not し or ち.",
+        "explanation_ta": "二時間 = にじかん (இரண்டு மணி நேரம், two hours). சிறிய っ இல்லை: にじっかん தவறு. 時 என்பது じ, し அல்லது ち அல்ல."
+      },
+      {
+        "id": "KU5-q04",
+        "type": "kanji_reading",
+        "sentence": "いま ＿十時半＿です。",
+        "target": "十時半",
+        "options": ["じゅうじぱん", "じゅうじばん", "じゅうじはん", "じゅっじはん"],
+        "answer": 2,
+        "explanation_en": "十時半 is じゅうじはん (பத்தரை மணி, half past ten). 半 stays はん after 時: not ばん or ぱん.",
+        "explanation_ta": "十時半 = じゅうじはん (பத்தரை மணி, half past ten). 時-க்குப் பிறகு 半 はん ஆகவே இருக்கும்: ばん அல்லது ぱん அல்ல."
+      },
+      {
+        "id": "KU5-q05",
+        "type": "kanji_reading",
+        "sentence": "＿午後＿ 三時に 友だちに あいます。",
+        "target": "午後",
+        "options": ["ごこ", "ごごう", "ごご", "ごうご"],
+        "answer": 2,
+        "explanation_en": "午後 is ごご (பிற்பகல், afternoon, p.m.). Both sounds are short and voiced. ごこ is unvoiced; ごごう and ごうご add a long vowel.",
+        "explanation_ta": "午後 = ごご (பிற்பகல், afternoon, p.m.). இரண்டு ஒலிகளும் குறுகியவை, இரண்டிலும் ゛ உண்டு. ごこ-வில் ゛ இல்லை; ごごう, ごうご நீண்ட உயிரைச் சேர்க்கின்றன."
+      },
+      {
+        "id": "KU5-q06",
+        "type": "kanji_reading",
+        "sentence": "＿毎日＿ にほんごを べんきょうします。",
+        "target": "毎日",
+        "options": ["まいにち", "まいひ", "まいにっち", "まえにち"],
+        "answer": 0,
+        "explanation_en": "毎日 is まいにち (தினமும், every day). まえにち mixes up 毎 (まい) with 前 (まえ).",
+        "explanation_ta": "毎日 = まいにち (தினமும், every day). まえにち என்பது 毎 (まい) ஐ 前 (まえ) உடன் குழப்புகிறது."
+      },
+      {
+        "id": "KU5-q07",
+        "type": "kanji_reading",
+        "sentence": "これは ＿何＿ですか。",
+        "target": "何",
+        "options": ["なに", "か", "なんに", "なん"],
+        "answer": 3,
+        "explanation_en": "Before です, 何 is read なん (என்ன, what): なんですか. なに is used in other places, like なにを. か is a dictionary reading that N5 does not use here.",
+        "explanation_ta": "です-க்கு முன் 何 = なん (என்ன, what): なんですか. なに மற்ற இடங்களில் வரும், உதாரணம் なにを. か என்பது இங்கே N5-இல் பயன்படாத அகராதி வாசிப்பு."
+      },
+      {
+        "id": "KU5-q08",
+        "type": "kanji_reading",
+        "sentence": "ぎんこうは えきの ＿前＿です。",
+        "target": "前",
+        "options": ["ぜん", "まえ", "まい", "うしろ"],
+        "answer": 1,
+        "explanation_en": "Alone, 前 is read まえ (முன்னால், in front of). ぜん is its on reading, used in words like 午前. うしろ is 後ろ, the opposite.",
+        "explanation_ta": "தனியாக வரும்போது 前 = まえ (முன்னால், in front of). ぜん அதன் on வாசிப்பு, 午前 போன்ற சொற்களில் வரும். うしろ என்பது 後ろ, எதிர்ச்சொல்."
+      },
+      {
+        "id": "KU5-q09",
+        "type": "kanji_reading",
+        "sentence": "＿午前＿ 九時に おきました。",
+        "target": "午前",
+        "options": ["ごぜん", "ごせん", "ごうぜん", "ごまえ"],
+        "answer": 0,
+        "explanation_en": "午前 is ごぜん (முற்பகல், morning, a.m.). ごせん is unvoiced, ごうぜん has a long vowel, and ごまえ mixes on and kun readings.",
+        "explanation_ta": "午前 = ごぜん (முற்பகல், morning, a.m.). ごせん-இல் ゛ இல்லை, ごうぜん-இல் நீண்ட உயிர், ごまえ on மற்றும் kun வாசிப்புகளைக் கலக்கிறது."
+      },
+      {
+        "id": "KU5-q10",
+        "type": "kanji_reading",
+        "sentence": "いすの ＿後ろ＿に ねこが います。",
+        "target": "後ろ",
+        "options": ["あとろ", "ごろ", "うしろ", "うしろう"],
+        "answer": 2,
+        "explanation_en": "後ろ is うしろ (பின்னால், behind). あと is another reading of 後, but with ろ the word is うしろ.",
+        "explanation_ta": "後ろ = うしろ (பின்னால், behind). あと என்பது 後-இன் இன்னொரு வாசிப்பு, ஆனால் ろ சேர்ந்தால் சொல் うしろ."
+      },
+      {
+        "id": "KU5-q11",
+        "type": "orthography",
+        "sentence": "きょうは ＿じかん＿が ありません。",
+        "target": "じかん",
+        "options": ["時門", "時間", "持間", "時聞"],
+        "answer": 1,
+        "explanation_en": "じかん is 時間 (நேரம், time). 時聞 has an ear (耳) inside the gate, not the sun (日). 持 has a hand (扌), not the sun.",
+        "explanation_ta": "じかん = 時間 (நேரம், time). 時聞-இல் வாசலுக்குள் காது (耳) உள்ளது, சூரியன் (日) அல்ல. 持-இல் கை (扌), சூரியன் அல்ல."
+      },
+      {
+        "id": "KU5-q12",
+        "type": "orthography",
+        "sentence": "＿まいとし＿ インドへ かえります。",
+        "target": "まいとし",
+        "options": ["母年", "毎干", "海年", "毎年"],
+        "answer": 3,
+        "explanation_en": "まいとし is 毎年 (ஒவ்வொரு ஆண்டும், every year). 母 has no hat on top, so it is ‘mother’, not ‘every’. 海 (sea) has water on the left.",
+        "explanation_ta": "まいとし = 毎年 (ஒவ்வொரு ஆண்டும், every year). 母-க்கு மேலே தொப்பி இல்லை, அது ‘அம்மா’, ‘ஒவ்வொரு’ அல்ல. 海 (கடல்)-இல் இடப்பக்கம் தண்ணீர் உள்ளது."
+      },
+      {
+        "id": "KU5-q13",
+        "type": "orthography",
+        "sentence": "ケーキを ＿はんぶん＿ たべました。",
+        "target": "はんぶん",
+        "options": ["羊分", "半今", "平分", "半分"],
+        "answer": 3,
+        "explanation_en": "はんぶん is 半分 (பாதி, half). 平 and 羊 look like 半, but their middle line does not go straight through the bottom.",
+        "explanation_ta": "はんぶん = 半分 (பாதி, half). 平, 羊 இரண்டும் 半 போலத் தெரியும், ஆனால் 半-இல் நடுக்கோடு நேராகக் கீழே வரை செல்கிறது."
+      },
+      {
+        "id": "KU5-q14",
+        "type": "orthography",
+        "sentence": "＿いま＿ なんじですか。",
+        "target": "いま",
+        "options": ["今", "令", "会", "合"],
+        "answer": 0,
+        "explanation_en": "いま is 今 (இப்போது, now). 令, 会 and 合 have the same roof on top, but the parts below are different.",
+        "explanation_ta": "いま = 今 (இப்போது, now). 令, 会, 合 மூன்றுக்கும் மேலே அதே கூரை உண்டு, ஆனால் கீழே உள்ள பகுதிகள் வேறு."
+      },
+      {
+        "id": "KU5-q15",
+        "type": "orthography",
+        "sentence": "あした ＿ごご＿ 六時に きて ください。",
+        "target": "ごご",
+        "options": ["牛後", "午役", "午後", "牛役"],
+        "answer": 2,
+        "explanation_en": "ごご is 午後 (பிற்பகல், afternoon, p.m.). 牛 is ‘cow’: its middle line pokes out at the top. 役 looks like 後 but has a different right side.",
+        "explanation_ta": "ごご = 午後 (பிற்பகல், afternoon, p.m.). 牛 என்றால் ‘பசு’: அதன் நடுக்கோடு மேலே நீண்டு வெளியே வரும். 役 பார்க்க 後 போல இருக்கும், ஆனால் வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU5-q16",
+        "type": "orthography",
+        "sentence": "ここに ＿なまえ＿を かいて ください。",
+        "target": "なまえ",
+        "options": ["名煎", "名前", "各前", "名削"],
+        "answer": 1,
+        "explanation_en": "なまえ is 名前 (பெயர், name). 煎 has fire dots at the bottom, and 削 has a different left side. 各 looks like 名 but has no ‘evening’ (夕) on top.",
+        "explanation_ta": "なまえ = 名前 (பெயர், name). 煎-க்குக் கீழே நெருப்புப் புள்ளிகள் உள்ளன, 削-இன் இடப்பக்கம் வேறு. 各 பார்க்க 名 போல இருக்கும், ஆனால் மேலே ‘மாலை’ (夕) இல்லை."
+      }
+    ]
+  }
+}

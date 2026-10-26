@@ -1,0 +1,367 @@
+{
+  "unit": 1,
+  "intro": {
+    "en": "In this unit you learn the kanji for the numbers one to ten. They are short and easy to write. Watch out: many numbers change their reading in words like 三つ (みっつ) and 八日 (ようか).",
+    "ta": "இந்தப் பாடத்தில் ஒன்று முதல் பத்து வரையிலான எண்களுக்கான கான்ஜியைக் கற்போம். இவை சிறியவை, எழுதவும் எளிது. கவனம்: 三つ (みっつ), 八日 (ようか) போன்ற சொற்களில் பல எண்களின் உச்சரிப்பு மாறும்."
+  },
+  "kanji": [
+    {
+      "kanji": "一",
+      "meaning": { "en": "one", "ta": "ஒன்று" },
+      "on": ["いち"],
+      "kun": ["ひと.つ", "ひと-"],
+      "mnemonic": {
+        "en": "One matchstick lies flat on the floor. One stick, one line: one.",
+        "ta": "தரையில் ஒரே ஒரு தீக்குச்சி படுத்துக் கிடக்கிறது. ஒரு குச்சி, ஒரு கோடு: ஒன்று."
+      },
+      "note": {
+        "en": "Special readings: 一人 is ひとり (one person) and 一日 is ついたち when it means the 1st day of the month. When it means ‘one day / all day’, 一日 is いちにち.",
+        "ta": "சிறப்பு உச்சரிப்புகள்: 一人 = ひとり (ஒருவர்). மாதத்தின் முதல் தேதி என்றால் 一日 = ついたち. ‘ஒரு நாள் / நாள் முழுவதும்’ என்றால் 一日 = いちにち."
+      },
+      "examples": [
+        { "word": "一つ", "reading": "ひとつ", "en": "one (thing)", "ta": "ஒன்று (பொருள்)", "vocabId": "n5-v-565" },
+        { "word": "一人", "reading": "ひとり", "en": "one person; alone", "ta": "ஒருவர் (தனியாக)", "vocabId": "n5-v-567" },
+        { "word": "一日", "reading": "ついたち", "en": "first day of the month", "ta": "மாதத்தின் முதல் தேதி", "vocabId": "n5-v-412" },
+        { "word": "一番", "reading": "いちばん", "en": "most, number one", "ta": "மிகவும், முதல் (எல்லாவற்றிலும்)", "vocabId": "n5-v-059" }
+      ]
+    },
+    {
+      "kanji": "二",
+      "meaning": { "en": "two", "ta": "இரண்டு" },
+      "on": ["に"],
+      "kun": ["ふた.つ", "ふた"],
+      "mnemonic": {
+        "en": "Two sticks, one above the other. The short top one is the little brother on the top bunk; the long one is the big brother below. Two brothers: two.",
+        "ta": "ஒன்றின் மேல் ஒன்றாக இரண்டு குச்சிகள். மேலே உள்ள சின்னக் குச்சி தம்பி, கீழே உள்ள நீளமான குச்சி அண்ணன். இரண்டு சகோதரர்கள்: இரண்டு."
+      },
+      "note": {
+        "en": "Special readings: 二日 is ふつか (2nd day / two days), 二十日 is はつか (20th day) and 二十歳 is はたち (20 years old).",
+        "ta": "சிறப்பு உச்சரிப்புகள்: 二日 = ふつか (இரண்டாம் தேதி / இரண்டு நாட்கள்), 二十日 = はつか (இருபதாம் தேதி), 二十歳 = はたち (இருபது வயது)."
+      },
+      "examples": [
+        { "word": "二つ", "reading": "ふたつ", "en": "two (things)", "ta": "இரண்டு (பொருட்கள்)", "vocabId": "n5-v-582" },
+        { "word": "二人", "reading": "ふたり", "en": "two people", "ta": "இரண்டு பேர்", "vocabId": "n5-v-584" },
+        { "word": "二日", "reading": "ふつか", "en": "second day; two days", "ta": "இரண்டாம் தேதி; இரண்டு நாட்கள்", "vocabId": "n5-v-585" },
+        { "word": "二十歳", "reading": "はたち", "en": "twenty years old", "ta": "இருபது வயது", "vocabId": "n5-v-534" }
+      ]
+    },
+    {
+      "kanji": "三",
+      "meaning": { "en": "three", "ta": "மூன்று" },
+      "on": ["さん"],
+      "kun": ["み", "みっ.つ"],
+      "mnemonic": {
+        "en": "Three steps lead down into a temple pond. The bottom step is the widest. Three steps: three. And さん sounds like ‘sun’.",
+        "ta": "கோயில் குளத்தில் இறங்க மூன்று படிகள். கீழ்ப்படி தான் மிக அகலமானது. மூன்று படிகள்: மூன்று. さん என்பது ஆங்கில ‘sun’ போல ஒலிக்கும்."
+      },
+      "note": {
+        "en": "The middle line is the shortest and the bottom line is the longest. In 三日 (みっか) and 三つ (みっつ) there is a small っ.",
+        "ta": "நடுக் கோடு மிகச் சிறியது, கீழ்க் கோடு மிக நீளமானது. 三日 (みっか), 三つ (みっつ) இரண்டிலும் சிறிய っ வரும்."
+      },
+      "examples": [
+        { "word": "三", "reading": "さん", "en": "three", "ta": "மூன்று", "vocabId": "n5-v-288" },
+        { "word": "三つ", "reading": "みっつ", "en": "three (things)", "ta": "மூன்று (பொருட்கள்)", "vocabId": "n5-v-643" },
+        { "word": "三日", "reading": "みっか", "en": "third day; three days", "ta": "மூன்றாம் தேதி; மூன்று நாட்கள்", "vocabId": "n5-v-642" },
+        { "word": "三月", "reading": "さんがつ", "en": "March", "ta": "மார்ச் மாதம்" }
+      ]
+    },
+    {
+      "kanji": "四",
+      "meaning": { "en": "four", "ta": "நான்கு" },
+      "on": ["し"],
+      "kun": ["よん", "よ", "よっ.つ"],
+      "mnemonic": {
+        "en": "A room with four walls. Inside, a child stands with two legs apart, looking at the four walls around him. Four walls: four.",
+        "ta": "நான்கு சுவர்கள் உள்ள ஒரு அறை. உள்ளே ஒரு குழந்தை கால்களை விரித்து நின்று, சுற்றியுள்ள நான்கு சுவர்களையும் பார்க்கிறது. நான்கு சுவர்கள்: நான்கு."
+      },
+      "note": {
+        "en": "When counting, people often say よん, not し, because し sounds like ‘death’. 四月 is しがつ, but 四人 is よにん and 四日 is よっか.",
+        "ta": "எண்ணும்போது பலர் し என்று சொல்லாமல் よん என்று சொல்வார்கள்; ஏனெனில் し என்பது ‘மரணம்’ போல ஒலிக்கும். 四月 = しがつ, ஆனால் 四人 = よにん, 四日 = よっか."
+      },
+      "examples": [
+        { "word": "四つ", "reading": "よっつ", "en": "four (things)", "ta": "நான்கு (பொருட்கள்)", "vocabId": "n5-v-688" },
+        { "word": "四日", "reading": "よっか", "en": "fourth day; four days", "ta": "நான்காம் தேதி; நான்கு நாட்கள்", "vocabId": "n5-v-687" },
+        { "word": "四月", "reading": "しがつ", "en": "April", "ta": "ஏப்ரல் மாதம்" },
+        { "word": "四人", "reading": "よにん", "en": "four people", "ta": "நான்கு பேர்" }
+      ]
+    },
+    {
+      "kanji": "五",
+      "meaning": { "en": "five", "ta": "ஐந்து" },
+      "on": ["ご"],
+      "kun": ["いつ.つ", "いつ"],
+      "mnemonic": {
+        "en": "A roof on top and a floor at the bottom. In between, a bent line twists like the number 5 squeezed into a box. Five.",
+        "ta": "மேலே ஒரு கூரை, கீழே ஒரு தரை. இடையில் ஒரு வளைந்த கோடு, பெட்டிக்குள் அடைக்கப்பட்ட 5 என்ற எண் போல முறுக்கிக் கிடக்கிறது. ஐந்து."
+      },
+      "examples": [
+        { "word": "五", "reading": "ご", "en": "five", "ta": "ஐந்து", "vocabId": "n5-v-243" },
+        { "word": "五つ", "reading": "いつつ", "en": "five (things)", "ta": "ஐந்து (பொருட்கள்)", "vocabId": "n5-v-063" },
+        { "word": "五日", "reading": "いつか", "en": "fifth day; five days", "ta": "ஐந்தாம் தேதி; ஐந்து நாட்கள்", "vocabId": "n5-v-061" }
+      ]
+    },
+    {
+      "kanji": "六",
+      "meaning": { "en": "six", "ta": "ஆறு" },
+      "on": ["ろく"],
+      "kun": ["むっ.つ", "むい"],
+      "mnemonic": {
+        "en": "A raindrop (the dot) falls on a flat hilltop (the long line). The water runs down both sides in two streams. In Tamil, ஆறு means ‘river’ and also ‘six’: this little river is six.",
+        "ta": "ஒரு மழைத்துளி (புள்ளி) தட்டையான மலை உச்சியில் (நீண்ட கோடு) விழுகிறது. தண்ணீர் இரண்டு பக்கமும் இரண்டு ஓடைகளாக ஓடுகிறது. ஓடும் நீர் ஆறு; எண்ணிலும் ஆறு!"
+      },
+      "note": {
+        "en": "六日 is むいか (6th day / six days). With some counters 六 becomes ろっ, e.g. 六本 ろっぽん.",
+        "ta": "六日 = むいか (ஆறாம் தேதி / ஆறு நாட்கள்). சில எண்ணும் சொற்களுடன் 六 என்பது ろっ ஆகும்; எ.கா. 六本 ろっぽん."
+      },
+      "examples": [
+        { "word": "六", "reading": "ろく", "en": "six", "ta": "ஆறு", "vocabId": "n5-v-709" },
+        { "word": "六つ", "reading": "むっつ", "en": "six (things)", "ta": "ஆறு (பொருட்கள்)", "vocabId": "n5-v-653" },
+        { "word": "六日", "reading": "むいか", "en": "sixth day; six days", "ta": "ஆறாம் தேதி; ஆறு நாட்கள்", "vocabId": "n5-v-650" }
+      ]
+    },
+    {
+      "kanji": "七",
+      "meaning": { "en": "seven", "ta": "ஏழு" },
+      "on": ["しち"],
+      "kun": ["なな", "なな.つ", "なの"],
+      "mnemonic": {
+        "en": "Turn 七 upside down and it looks like the number 7 with a line across it. A flipped 7: seven.",
+        "ta": "七 ஐத் தலைகீழாகத் திருப்பிப் பாருங்கள்: குறுக்குக் கோடு போட்ட 7 என்ற எண் போலத் தெரியும். தலைகீழ் 7: ஏழு."
+      },
+      "note": {
+        "en": "Both しち and なな mean seven. なな is often used to avoid mixing up しち and いち. 七日 is なのか.",
+        "ta": "しち, なな இரண்டும் ‘ஏழு’ தான். しち, いち இரண்டும் குழம்பாமல் இருக்க பெரும்பாலும் なな என்று சொல்வார்கள். 七日 = なのか."
+      },
+      "examples": [
+        { "word": "七", "reading": "しち", "en": "seven", "ta": "ஏழு", "vocabId": "n5-v-300" },
+        { "word": "七つ", "reading": "ななつ", "en": "seven (things)", "ta": "ஏழு (பொருட்கள்)", "vocabId": "n5-v-487" },
+        { "word": "七日", "reading": "なのか", "en": "seventh day; seven days", "ta": "ஏழாம் தேதி; ஏழு நாட்கள்", "vocabId": "n5-v-489" }
+      ]
+    },
+    {
+      "kanji": "八",
+      "meaning": { "en": "eight", "ta": "எட்டு" },
+      "on": ["はち"],
+      "kun": ["や", "やっ.つ", "よう"],
+      "mnemonic": {
+        "en": "Two lines spread apart like the legs of a spider: four legs on the left, four legs on the right. A spider has eight legs: eight.",
+        "ta": "சிலந்தியின் கால்கள் போல இரண்டு கோடுகள் விரிந்து நிற்கின்றன: இடப்பக்கம் நான்கு கால்கள், வலப்பக்கம் நான்கு கால்கள். சிலந்திக்கு எட்டுக் கால்கள்: எட்டு."
+      },
+      "note": {
+        "en": "八日 is ようか, with a long よう. Don’t write よおか. 八 looks like katakana ハ.",
+        "ta": "八日 = ようか; இதில் நீண்ட よう வரும், よおか என்று எழுதக்கூடாது. 八 பார்ப்பதற்கு கதகனா ハ போல இருக்கும்."
+      },
+      "examples": [
+        { "word": "八", "reading": "はち", "en": "eight", "ta": "எட்டு", "vocabId": "n5-v-536" },
+        { "word": "八つ", "reading": "やっつ", "en": "eight (things)", "ta": "எட்டு (பொருட்கள்)", "vocabId": "n5-v-673" },
+        { "word": "八日", "reading": "ようか", "en": "eighth day; eight days", "ta": "எட்டாம் தேதி; எட்டு நாட்கள்", "vocabId": "n5-v-683" },
+        { "word": "八百屋", "reading": "やおや", "en": "greengrocer", "ta": "காய்கறிக் கடை", "vocabId": "n5-v-667" }
+      ]
+    },
+    {
+      "kanji": "九",
+      "meaning": { "en": "nine", "ta": "ஒன்பது" },
+      "on": ["きゅう", "く"],
+      "kun": ["ここの.つ", "ここの"],
+      "mnemonic": {
+        "en": "A cat sits with its long tail curling up at the end: the left stroke is its body, the hooked stroke is its tail. People say a cat has nine lives. When you step on its tail, it cries ‘kyuu!’ (きゅう).",
+        "ta": "ஒரு பூனை உட்கார்ந்திருக்கிறது: இடது கோடு அதன் உடல், கொக்கி போல வளைந்த கோடு அதன் நீண்ட வால். ‘பூனைக்கு ஒன்பது உயிர்கள்’ என்று சொல்வார்கள். வாலை மிதித்தால் அது ‘க்யூ!’ (きゅう) என்று கத்தும்."
+      },
+      "note": {
+        "en": "九 is usually きゅう, but 九月 (September) is くがつ and 九時 (9 o’clock) is くじ.",
+        "ta": "九 பொதுவாக きゅう, ஆனால் 九月 (செப்டம்பர்) = くがつ, 九時 (ஒன்பது மணி) = くじ."
+      },
+      "examples": [
+        { "word": "九", "reading": "きゅう", "en": "nine", "ta": "ஒன்பது", "vocabId": "n5-v-201" },
+        { "word": "九つ", "reading": "ここのつ", "en": "nine (things)", "ta": "ஒன்பது (பொருட்கள்)", "vocabId": "n5-v-255" },
+        { "word": "九日", "reading": "ここのか", "en": "ninth day; nine days", "ta": "ஒன்பதாம் தேதி; ஒன்பது நாட்கள்", "vocabId": "n5-v-254" },
+        { "word": "九月", "reading": "くがつ", "en": "September", "ta": "செப்டம்பர் மாதம்" }
+      ]
+    },
+    {
+      "kanji": "十",
+      "meaning": { "en": "ten", "ta": "பத்து" },
+      "on": ["じゅう", "じゅっ"],
+      "kun": ["とお"],
+      "mnemonic": {
+        "en": "Cross your two hands, one flat and one standing up: five fingers plus five fingers. Turn 十 a little and it becomes X, the Roman number ten.",
+        "ta": "இரண்டு கைகளையும் குறுக்காக வையுங்கள், ஒன்று படுக்கையாக, ஒன்று நேராக: ஐந்து விரல் + ஐந்து விரல். 十 ஐக் கொஞ்சம் சாய்த்தால் X ஆகிவிடும்; ரோமன் எண்ணில் X என்றால் பத்து."
+      },
+      "note": {
+        "en": "Don’t mix up 十 (ten) and 七 (seven): 七 has a bent bottom. 十日 is とおか with a long とお, and 十分 (ten minutes) is じゅっぷん.",
+        "ta": "十 (பத்து), 七 (ஏழு) இரண்டையும் குழப்பாதீர்கள்: 七 இன் கீழ்ப்பகுதி வளைந்திருக்கும். 十日 = とおか (நீண்ட とお), 十分 (பத்து நிமிடம்) = じゅっぷん."
+      },
+      "examples": [
+        { "word": "十", "reading": "じゅう", "en": "ten", "ta": "பத்து", "vocabId": "n5-v-314" },
+        { "word": "十日", "reading": "とおか", "en": "tenth day; ten days", "ta": "பத்தாம் தேதி; பத்து நாட்கள்", "vocabId": "n5-v-453" },
+        { "word": "十分", "reading": "じゅっぷん", "en": "ten minutes", "ta": "பத்து நிமிடம்" },
+        { "word": "二十日", "reading": "はつか", "en": "twentieth day; twenty days", "ta": "இருபதாம் தேதி; இருபது நாட்கள்", "vocabId": "n5-v-537" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU1-q01",
+        "type": "kanji_reading",
+        "sentence": "りんごを ＿一つ＿ ください。",
+        "target": "一つ",
+        "options": ["いちつ", "ひとつ", "ひとっつ", "ひどつ"],
+        "answer": 1,
+        "explanation_en": "一つ is read ひとつ (ஒன்று, one thing). いちつ is wrong: いち is for counting ‘one’ by itself, not with つ.",
+        "explanation_ta": "一つ என்பதை ひとつ என்று படிக்க வேண்டும் (ஒன்று, one thing). いちつ தவறு: いち என்பது தனியாக ‘ஒன்று’ என்று எண்ணும்போது மட்டும்; つ உடன் வராது."
+      },
+      {
+        "id": "KU1-q02",
+        "type": "kanji_reading",
+        "sentence": "たまごを ＿三つ＿ かいました。",
+        "target": "三つ",
+        "options": ["さんつ", "みつ", "みっつ", "みいつ"],
+        "answer": 2,
+        "explanation_en": "三つ is read みっつ (மூன்று பொருட்கள், three things). It has a small っ, so みつ is wrong.",
+        "explanation_ta": "三つ என்பதை みっつ என்று படிக்க வேண்டும் (மூன்று பொருட்கள், three things). இதில் சிறிய っ உள்ளது; அதனால் みつ தவறு."
+      },
+      {
+        "id": "KU1-q03",
+        "type": "kanji_reading",
+        "sentence": "＿四日＿に にほんへ いきます。",
+        "target": "四日",
+        "options": ["よっか", "よんにち", "よか", "しにち"],
+        "answer": 0,
+        "explanation_en": "四日 is read よっか (நான்காம் தேதி, the 4th). It has a small っ, so よか is wrong. よんにち is not used.",
+        "explanation_ta": "四日 என்பதை よっか என்று படிக்க வேண்டும் (நான்காம் தேதி, the 4th). இதில் சிறிய っ உள்ளது; அதனால் よか தவறு. よんにち என்று சொல்வதில்லை."
+      },
+      {
+        "id": "KU1-q04",
+        "type": "kanji_reading",
+        "sentence": "がっこうは ＿六日＿から です。",
+        "target": "六日",
+        "options": ["ろくにち", "むっか", "むいっか", "むいか"],
+        "answer": 3,
+        "explanation_en": "六日 is read むいか (ஆறாம் தேதி, the 6th). There is no small っ, so むっか is wrong. ろくにち is not used for dates.",
+        "explanation_ta": "六日 என்பதை むいか என்று படிக்க வேண்டும் (ஆறாம் தேதி, the 6th). இதில் சிறிய っ இல்லை; அதனால் むっか தவறு. தேதிக்கு ろくにち என்று சொல்வதில்லை."
+      },
+      {
+        "id": "KU1-q05",
+        "type": "kanji_reading",
+        "sentence": "たんじょうびは ＿八日＿です。",
+        "target": "八日",
+        "options": ["はちにち", "よおか", "ようか", "やっか"],
+        "answer": 2,
+        "explanation_en": "八日 is read ようか (எட்டாம் தேதி, the 8th). The long vowel is written よう, so よおか is wrong.",
+        "explanation_ta": "八日 என்பதை ようか என்று படிக்க வேண்டும் (எட்டாம் தேதி, the 8th). நீண்ட ஒலியை よう என்று எழுத வேண்டும்; அதனால் よおか தவறு."
+      },
+      {
+        "id": "KU1-q06",
+        "type": "kanji_reading",
+        "sentence": "＿九月＿に けっこんします。",
+        "target": "九月",
+        "options": ["きゅうがつ", "くがつ", "くげつ", "きゅうげつ"],
+        "answer": 1,
+        "explanation_en": "九月 is read くがつ (செப்டம்பர், September). For the month, 九 is く, so きゅうがつ is wrong.",
+        "explanation_ta": "九月 என்பதை くがつ என்று படிக்க வேண்டும் (செப்டம்பர், September). மாதப் பெயரில் 九 என்பது く; அதனால் きゅうがつ தவறு."
+      },
+      {
+        "id": "KU1-q07",
+        "type": "kanji_reading",
+        "sentence": "＿十日＿の あさ、でんわします。",
+        "target": "十日",
+        "options": ["とおか", "とうか", "じゅうにち", "とか"],
+        "answer": 0,
+        "explanation_en": "十日 is read とおか (பத்தாம் தேதி, the 10th). The long vowel is written とお, so とうか is wrong.",
+        "explanation_ta": "十日 என்பதை とおか என்று படிக்க வேண்டும் (பத்தாம் தேதி, the 10th). நீண்ட ஒலியை とお என்று எழுத வேண்டும்; அதனால் とうか தவறு."
+      },
+      {
+        "id": "KU1-q08",
+        "type": "kanji_reading",
+        "sentence": "きのう ＿二人＿で えいがを みました。",
+        "target": "二人",
+        "options": ["ににん", "ふたにん", "ふだり", "ふたり"],
+        "answer": 3,
+        "explanation_en": "二人 is read ふたり (இரண்டு பேர், two people). ふだり has a wrong voiced だ, and ににん is not used.",
+        "explanation_ta": "二人 என்பதை ふたり என்று படிக்க வேண்டும் (இரண்டு பேர், two people). ふだり வில் だ தவறு; ににん என்று சொல்வதில்லை."
+      },
+      {
+        "id": "KU1-q09",
+        "type": "kanji_reading",
+        "sentence": "みかんを ＿五つ＿ たべました。",
+        "target": "五つ",
+        "options": ["ごつ", "いっつ", "いつつ", "いつか"],
+        "answer": 2,
+        "explanation_en": "五つ is read いつつ (ஐந்து பொருட்கள், five things). いつか is 五日 (the 5th day), not 五つ.",
+        "explanation_ta": "五つ என்பதை いつつ என்று படிக்க வேண்டும் (ஐந்து பொருட்கள், five things). いつか என்பது 五日 (ஐந்தாம் தேதி), 五つ அல்ல."
+      },
+      {
+        "id": "KU1-q10",
+        "type": "kanji_reading",
+        "sentence": "しがつ ＿一日＿は にちようびです。",
+        "target": "一日",
+        "options": ["ついたち", "いちにち", "ひとひ", "いっか"],
+        "answer": 0,
+        "explanation_en": "Here 一日 is a date, so it is read ついたち (மாதத்தின் முதல் தேதி, the 1st). いちにち means ‘one day / all day’, not a date.",
+        "explanation_ta": "இங்கே 一日 ஒரு தேதி; அதனால் ついたち என்று படிக்க வேண்டும் (மாதத்தின் முதல் தேதி, the 1st). いちにち என்றால் ‘ஒரு நாள் / நாள் முழுவதும்’; அது தேதி அல்ல."
+      },
+      {
+        "id": "KU1-q11",
+        "type": "orthography",
+        "sentence": "こどもは ＿ななつ＿です。",
+        "target": "ななつ",
+        "options": ["九つ", "七つ", "十つ", "八つ"],
+        "answer": 1,
+        "explanation_en": "ななつ is written 七つ (ஏழு, seven years / things). 九つ looks similar but is ここのつ (nine).",
+        "explanation_ta": "ななつ என்பதை 七つ என்று எழுத வேண்டும் (ஏழு, seven). 九つ பார்க்க ஒத்திருக்கும், ஆனால் அது ここのつ (ஒன்பது)."
+      },
+      {
+        "id": "KU1-q12",
+        "type": "orthography",
+        "sentence": "いすが ＿よっつ＿ あります。",
+        "target": "よっつ",
+        "options": ["西つ", "匹つ", "四つ", "日つ"],
+        "answer": 2,
+        "explanation_en": "よっつ is written 四つ (நான்கு பொருட்கள், four things). 西 and 匹 look like 四 but they are different kanji.",
+        "explanation_ta": "よっつ என்பதை 四つ என்று எழுத வேண்டும் (நான்கு பொருட்கள், four things). 西, 匹 இரண்டும் 四 போலத் தெரியும், ஆனால் அவை வேறு கான்ஜி."
+      },
+      {
+        "id": "KU1-q13",
+        "type": "orthography",
+        "sentence": "＿いつか＿に テストが あります。",
+        "target": "いつか",
+        "options": ["互日", "五目", "伍日", "五日"],
+        "answer": 3,
+        "explanation_en": "いつか is written 五日 (ஐந்தாம் தேதி, the 5th). 五目 uses 目 (eye), not 日 (day). 互 only looks like 五.",
+        "explanation_ta": "いつか என்பதை 五日 என்று எழுத வேண்டும் (ஐந்தாம் தேதி, the 5th). 五目 இல் 日 (நாள்) இல்லை, 目 (கண்) உள்ளது. 互 பார்ப்பதற்கு மட்டும் 五 போல இருக்கும்."
+      },
+      {
+        "id": "KU1-q14",
+        "type": "orthography",
+        "sentence": "まいあさ ＿ろく＿じに おきます。",
+        "target": "ろく",
+        "options": ["六", "大", "穴", "文"],
+        "answer": 0,
+        "explanation_en": "ろく is written 六 (ஆறு, six). 穴 and 文 look a little like 六 but are different kanji.",
+        "explanation_ta": "ろく என்பதை 六 என்று எழுத வேண்டும் (ஆறு, six). 穴, 文 இரண்டும் 六 போலக் கொஞ்சம் தெரியும், ஆனால் அவை வேறு கான்ஜி."
+      },
+      {
+        "id": "KU1-q15",
+        "type": "orthography",
+        "sentence": "がくせいが ＿にじゅう＿にん います。",
+        "target": "にじゅう",
+        "options": ["十二", "二十", "三十", "二千"],
+        "answer": 1,
+        "explanation_en": "にじゅう is written 二十 (இருபது, twenty): two tens. 十二 is じゅうに (twelve). The order matters.",
+        "explanation_ta": "にじゅう என்பதை 二十 என்று எழுத வேண்டும் (இருபது, twenty): இரண்டு பத்துகள். 十二 என்பது じゅうに (பன்னிரண்டு). வரிசை முக்கியம்."
+      },
+      {
+        "id": "KU1-q16",
+        "type": "orthography",
+        "sentence": "＿みっか＿ やすみます。",
+        "target": "みっか",
+        "options": ["三目", "二日", "三月", "三日"],
+        "answer": 3,
+        "explanation_en": "みっか is written 三日 (மூன்று நாட்கள், three days). 三月 is さんがつ (March), and 三目 uses 目 (eye), not 日.",
+        "explanation_ta": "みっか என்பதை 三日 என்று எழுத வேண்டும் (மூன்று நாட்கள், three days). 三月 என்பது さんがつ (மார்ச்); 三目 இல் 日 இல்லை, 目 (கண்) உள்ளது."
+      }
+    ]
+  }
+}

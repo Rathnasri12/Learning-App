@@ -1,0 +1,367 @@
+{
+  "unit": 6,
+  "intro": {
+    "en": "In this unit you learn 10 kanji for size, money and counting: big, small, long, tall, white, 100, 1,000, 10,000, yen and book. With them you can read prices in a Japanese shop. Tip: some kanji are built from others, like 百 = 一 + 白 and 本 = 木 + one line.",
+    "ta": "இந்தப் பாடத்தில் அளவு, பணம், எண்ணுதல் பற்றிய 10 கான்ஜிகளைக் கற்கிறீர்கள்: பெரிய, சிறிய, நீளமான, உயரமான, வெள்ளை, 100, 1,000, 10,000, யென், புத்தகம். இவற்றைக் கொண்டு ஜப்பானியக் கடையில் விலைகளைப் படிக்கலாம். குறிப்பு: சில கான்ஜிகள் மற்றவற்றால் ஆனவை, உதாரணமாக 百 = 一 + 白, 本 = 木 + ஒரு கோடு."
+  },
+  "kanji": [
+    {
+      "kanji": "大",
+      "meaning": { "en": "big", "ta": "பெரிய" },
+      "on": ["だい", "たい"],
+      "kun": ["おお.きい"],
+      "mnemonic": {
+        "en": "A person (人) stretches both arms out wide (一). ‘The fish I caught was THIS big!’",
+        "ta": "ஒருவர் (人) இரண்டு கைகளையும் அகலமாக நீட்டுகிறார் (一). ‘நான் பிடிச்ச மீன் இவ்வளவு பெரிசு!’"
+      },
+      "note": {
+        "en": "大人 (adult) has a special reading: おとな. Don’t mix up 大 (big), 犬 (dog, with a dot) and 天 (sky, with a line on top).",
+        "ta": "大人 (பெரியவர்) என்பதற்குச் சிறப்பு வாசிப்பு: おとな. 大 (பெரிய), 犬 (நாய், ஒரு புள்ளியுடன்), 天 (வானம், மேலே ஒரு கோட்டுடன்) மூன்றையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "大きい", "reading": "おおきい", "en": "big", "ta": "பெரிய", "vocabId": "n5-v-099" },
+        { "word": "大学", "reading": "だいがく", "en": "university", "ta": "பல்கலைக்கழகம்", "vocabId": "n5-v-372" },
+        { "word": "大切", "reading": "たいせつ", "en": "important; precious", "ta": "முக்கியமான", "vocabId": "n5-v-376" },
+        { "word": "大人", "reading": "おとな", "en": "adult", "ta": "பெரியவர் (வயது வந்தவர்)", "vocabId": "n5-v-123" }
+      ]
+    },
+    {
+      "kanji": "小",
+      "meaning": { "en": "small", "ta": "சிறிய" },
+      "on": ["しょう"],
+      "kun": ["ちい.さい"],
+      "mnemonic": {
+        "en": "A thin stick stands in the middle, with a tiny drop falling on each side. Small stick, small drops: everything here is small.",
+        "ta": "நடுவில் ஒரு மெல்லிய குச்சி நிற்கிறது; அதன் இரண்டு பக்கமும் ஒவ்வொரு சின்னத் துளி விழுகிறது. சின்னக் குச்சி, சின்னத் துளிகள்: இங்கே எல்லாமே சிறியது."
+      },
+      "note": {
+        "en": "Don’t mix up 小 (small) and 少 (a little, few), which has one more slanted stroke at the bottom.",
+        "ta": "小 (சிறிய), 少 (கொஞ்சம்) இரண்டையும் குழப்ப வேண்டாம்; 少-க்குக் கீழே ஒரு கூடுதல் சாய்ந்த கோடு உண்டு."
+      },
+      "examples": [
+        { "word": "小さい", "reading": "ちいさい", "en": "small", "ta": "சிறிய", "vocabId": "n5-v-399" },
+        { "word": "小さな", "reading": "ちいさな", "en": "small", "ta": "சிறிய", "vocabId": "n5-v-400" },
+        { "word": "小学校", "reading": "しょうがっこう", "en": "primary school", "ta": "தொடக்கப் பள்ளி" }
+      ]
+    },
+    {
+      "kanji": "長",
+      "meaning": { "en": "long; chief", "ta": "நீளமான; தலைவர்" },
+      "on": ["ちょう"],
+      "kun": ["なが.い"],
+      "mnemonic": {
+        "en": "An old sage with very long hair. The lines on top are his long hair, and the long flat line is his shoulders. Below, his long robe blows in the wind. Long hair, long life: he is the village chief.",
+        "ta": "மிக நீண்ட முடியுடன் ஒரு வயதான முனிவர். மேலே உள்ள கோடுகள் அவருடைய நீண்ட முடி, நீண்ட தட்டையான கோடு அவருடைய தோள்கள். கீழே அவருடைய நீண்ட அங்கி காற்றில் பறக்கிறது. நீண்ட முடி, நீண்ட ஆயுள்: அவர்தான் ஊர்த் தலைவர்."
+      },
+      "note": {
+        "en": "As an adjective, 長い is ながい (long). In words for a leader, it is ちょう: 社長 (company president).",
+        "ta": "பெயரடையாக 長い = ながい (நீளமான). தலைவரைக் குறிக்கும் சொற்களில் ちょう: 社長 (நிறுவனத் தலைவர்)."
+      },
+      "examples": [
+        { "word": "長い", "reading": "ながい", "en": "long", "ta": "நீளமான", "vocabId": "n5-v-480" },
+        { "word": "社長", "reading": "しゃちょう", "en": "company president", "ta": "நிறுவனத் தலைவர்" },
+        { "word": "校長", "reading": "こうちょう", "en": "school principal", "ta": "தலைமை ஆசிரியர்" }
+      ]
+    },
+    {
+      "kanji": "高",
+      "meaning": { "en": "tall, high; expensive", "ta": "உயரமான; விலை உயர்ந்த" },
+      "on": ["こう"],
+      "kun": ["たか.い"],
+      "mnemonic": {
+        "en": "A tall temple tower (gopuram), floor on floor. On top is a small roof with a point (亠), then a window (口), then a wide hall (冂) with a door (口). It is very high, and it was very expensive to build!",
+        "ta": "அடுக்கு அடுக்காக உயர்ந்த கோயில் கோபுரம். உச்சியில் கூர்மையான சிறிய கூரை (亠), அதன் கீழ் ஒரு சன்னல் (口), அதன் கீழ் அகலமான மண்டபம் (冂), அதற்குள் ஒரு வாசல் (口). மிக உயரமானது, கட்டவும் மிகச் செலவானது!"
+      },
+      "note": {
+        "en": "高い means both ‘tall, high’ and ‘expensive’. 高校 (high school) is こうこう: both こう are long.",
+        "ta": "高い என்றால் ‘உயரமான’, ‘விலை உயர்ந்த’ இரண்டும். 高校 (உயர்நிலைப் பள்ளி) = こうこう: இரண்டு こう-வும் நீண்டவை."
+      },
+      "examples": [
+        { "word": "高い", "reading": "たかい", "en": "expensive; tall, high", "ta": "விலை உயர்ந்த; உயரமான", "vocabId": "n5-v-379" },
+        { "word": "高校", "reading": "こうこう", "en": "high school", "ta": "உயர்நிலைப் பள்ளி" },
+        { "word": "高校生", "reading": "こうこうせい", "en": "high school student", "ta": "உயர்நிலைப் பள்ளி மாணவர்" }
+      ]
+    },
+    {
+      "kanji": "白",
+      "meaning": { "en": "white", "ta": "வெள்ளை" },
+      "on": ["はく"],
+      "kun": ["しろ", "しろ.い"],
+      "mnemonic": {
+        "en": "The sun (日) with one bright ray shooting out of its top. Sunlight is so bright that it looks white, like a white jasmine flower.",
+        "ta": "சூரியன் (日), அதன் உச்சியிலிருந்து ஒரு பிரகாசமான கதிர் மேலே பாய்கிறது. சூரிய ஒளி மிகப் பிரகாசமாக, மல்லிகைப் பூ போல வெள்ளையாகத் தெரிகிறது."
+      },
+      "note": {
+        "en": "白 = 日 + one small stroke on top. Add 一 above it and you get 百 (hundred). 面白い (interesting) is read おもしろい.",
+        "ta": "白 = 日 + மேலே ஒரு சிறிய கோடு. அதன் மேல் 一 சேர்த்தால் 百 (நூறு). 面白い (சுவாரஸ்யமான) என்பதை おもしろい என்று படிக்க வேண்டும்."
+      },
+      "examples": [
+        { "word": "白", "reading": "しろ", "en": "white", "ta": "வெள்ளை", "vocabId": "n5-v-324" },
+        { "word": "白い", "reading": "しろい", "en": "white", "ta": "வெள்ளையான", "vocabId": "n5-v-325" },
+        { "word": "面白い", "reading": "おもしろい", "en": "interesting, funny", "ta": "சுவாரஸ்யமான", "vocabId": "n5-v-135" }
+      ]
+    },
+    {
+      "kanji": "百",
+      "meaning": { "en": "hundred", "ta": "நூறு" },
+      "on": ["ひゃく", "びゃく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "One (一) line on top of white (白). When grandpa turns one hundred, every hair on his head is white.",
+        "ta": "வெள்ளை (白)-க்கு மேலே ஒரு (一) கோடு. தாத்தாவுக்கு நூறு வயது ஆனதும், தலையில் உள்ள ஒவ்வொரு முடியும் வெள்ளை."
+      },
+      "note": {
+        "en": "The sound changes: 三百 さんびゃく, 六百 ろっぴゃく, 八百 はっぴゃく. 八百屋 (greengrocer) is a special reading: やおや.",
+        "ta": "ஒலி மாறுகிறது: 三百 さんびゃく, 六百 ろっぴゃく, 八百 はっぴゃく. 八百屋 (காய்கறிக் கடை) சிறப்பு வாசிப்பு: やおや."
+      },
+      "examples": [
+        { "word": "百", "reading": "ひゃく", "en": "hundred", "ta": "நூறு", "vocabId": "n5-v-569" },
+        { "word": "三百", "reading": "さんびゃく", "en": "three hundred", "ta": "முந்நூறு" },
+        { "word": "六百", "reading": "ろっぴゃく", "en": "six hundred", "ta": "அறுநூறு" },
+        { "word": "八百屋", "reading": "やおや", "en": "greengrocer", "ta": "காய்கறிக் கடை", "vocabId": "n5-v-667" }
+      ]
+    },
+    {
+      "kanji": "千",
+      "meaning": { "en": "thousand", "ta": "ஆயிரம்" },
+      "on": ["せん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A crow (the slanted stroke on top) lands on a scarecrow post (十) in a big paddy field. Look around: a thousand crows, one on every post!",
+        "ta": "பெரிய வயலில் உள்ள சோளக்காட்டுப் பொம்மைக் கம்பத்தின் (十) மேல் ஒரு காகம் (மேலே உள்ள சாய்ந்த கோடு) வந்து அமர்கிறது. சுற்றிப் பாருங்கள்: ஒவ்வொரு கம்பத்திலும் ஒரு காகம், மொத்தம் ஆயிரம் காகங்கள்!"
+      },
+      "note": {
+        "en": "Don’t mix up 千 (thousand, slanted top) with 十 (ten) and 午 (noon). Sound changes: 三千 さんぜん, 八千 はっせん.",
+        "ta": "千 (ஆயிரம், மேலே சாய்ந்த கோடு), 十 (பத்து), 午 (நண்பகல்) மூன்றையும் குழப்ப வேண்டாம். ஒலி மாற்றம்: 三千 さんぜん, 八千 はっせん."
+      },
+      "examples": [
+        { "word": "千", "reading": "せん", "en": "thousand", "ta": "ஆயிரம்", "vocabId": "n5-v-352" },
+        { "word": "千円", "reading": "せんえん", "en": "1,000 yen", "ta": "ஆயிரம் யென்" },
+        { "word": "三千", "reading": "さんぜん", "en": "three thousand", "ta": "மூவாயிரம்" }
+      ]
+    },
+    {
+      "kanji": "万",
+      "meaning": { "en": "ten thousand", "ta": "பத்தாயிரம்" },
+      "on": ["まん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A long roof (一). Under it, a thief (the long slanted stroke) runs away, holding a heavy bag on his bent arm (フ). The bag holds ten thousand yen!",
+        "ta": "ஒரு நீண்ட கூரை (一). அதன் கீழ் ஒரு திருடன் (நீண்ட சாய்ந்த கோடு) ஓடுகிறான்; வளைந்த கையில் (フ) கனமான பை. அந்தப் பையில் பத்தாயிரம் யென்!"
+      },
+      "note": {
+        "en": "Always say いち before 万: 一万 is いちまん, not まん. Don’t mix up 万 with 方 (direction), which has a dot on top.",
+        "ta": "万-க்கு முன் எப்போதும் いち சொல்ல வேண்டும்: 一万 = いちまん, வெறும் まん அல்ல. 万, 方 (திசை) இரண்டையும் குழப்ப வேண்டாம்; 方-க்கு மேலே ஒரு புள்ளி உண்டு."
+      },
+      "examples": [
+        { "word": "万", "reading": "まん", "en": "ten thousand", "ta": "பத்தாயிரம்", "vocabId": "n5-v-633" },
+        { "word": "一万円", "reading": "いちまんえん", "en": "10,000 yen", "ta": "பத்தாயிரம் யென்" },
+        { "word": "万年筆", "reading": "まんねんひつ", "en": "fountain pen", "ta": "ஃபவுண்டன் பேனா", "vocabId": "n5-v-634" }
+      ]
+    },
+    {
+      "kanji": "円",
+      "meaning": { "en": "yen; circle", "ta": "யென்; வட்டம்" },
+      "on": ["えん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A shop’s cash box (冂) seen from the front. A short line down the middle and one line across split it into parts: notes on one side, round yen coins on the other.",
+        "ta": "முன்பக்கத்திலிருந்து பார்க்கும் கடையின் பணப்பெட்டி (冂). நடுவில் ஒரு சிறிய கோடு கீழே, ஒரு கோடு குறுக்கே: பெட்டியைப் பகுதிகளாகப் பிரிக்கின்றன. ஒரு பக்கம் நோட்டுகள், மறுபக்கம் வட்டமான யென் நாணயங்கள்."
+      },
+      "note": {
+        "en": "円 is the Japanese money, yen. Watch the number: 四円 is よえん, 九円 is きゅうえん.",
+        "ta": "円 என்பது ஜப்பானியப் பணம், யென். எண்ணைக் கவனியுங்கள்: 四円 = よえん, 九円 = きゅうえん."
+      },
+      "examples": [
+        { "word": "百円", "reading": "ひゃくえん", "en": "100 yen", "ta": "நூறு யென்", "vocabId": "n5-v-094" },
+        { "word": "千円", "reading": "せんえん", "en": "1,000 yen", "ta": "ஆயிரம் யென்" },
+        { "word": "一万円", "reading": "いちまんえん", "en": "10,000 yen", "ta": "பத்தாயிரம் யென்" }
+      ]
+    },
+    {
+      "kanji": "本",
+      "meaning": { "en": "book; origin", "ta": "புத்தகம்; மூலம்" },
+      "on": ["ほん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A tree (木) with one extra line at its root. The root is where the tree begins: its origin. And long ago in Tamil Nadu, books were made from palm-tree leaves.",
+        "ta": "ஒரு மரம் (木), அதன் வேரில் ஒரு கூடுதல் கோடு. வேர்தான் மரம் தொடங்கும் இடம்: அதன் மூலம். பழங்காலத் தமிழ்நாட்டில் புத்தகங்கள் பனை ஓலையில் எழுதப்பட்டன, ஓலைச் சுவடி!"
+      },
+      "note": {
+        "en": "日本 (Japan) is にほん: ‘the origin of the sun’. 本 also counts long, thin things (pens, bottles): 一本 いっぽん, 二本 にほん, 三本 さんぼん.",
+        "ta": "日本 (ஜப்பான்) = にほん: ‘சூரியன் தோன்றும் இடம்’. நீண்ட, மெல்லிய பொருட்களை (பேனா, பாட்டில்) எண்ணவும் 本: 一本 いっぽん, 二本 にほん, 三本 さんぼん."
+      },
+      "examples": [
+        { "word": "本", "reading": "ほん", "en": "book", "ta": "புத்தகம்", "vocabId": "n5-v-610" },
+        { "word": "日本", "reading": "にほん", "en": "Japan", "ta": "ஜப்பான்" },
+        { "word": "一本", "reading": "いっぽん", "en": "one (long thing)", "ta": "ஒன்று (நீண்ட பொருள்)", "vocabId": "n5-v-611" },
+        { "word": "本当", "reading": "ほんとう", "en": "true; real", "ta": "உண்மை", "vocabId": "n5-v-613" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU6-q01",
+        "type": "kanji_reading",
+        "sentence": "あの ＿大きい＿ いえは だれのですか。",
+        "target": "大きい",
+        "options": ["だいきい", "おきい", "おおきい", "おうきい"],
+        "answer": 2,
+        "explanation_en": "大きい is おおきい (பெரிய, big), with a long おお. おきい is too short, and おうきい spells the long vowel the wrong way. だい is the on reading, not used here.",
+        "explanation_ta": "大きい = おおきい (பெரிய, big), நீண்ட おお உடன். おきい மிகக் குறுகியது, おうきい நீண்ட உயிரைத் தவறாக எழுதுகிறது. だい on வாசிப்பு, இங்கே வராது."
+      },
+      {
+        "id": "KU6-q02",
+        "type": "kanji_reading",
+        "sentence": "あには ＿大学＿の 先生です。",
+        "target": "大学",
+        "options": ["だいがく", "たいがく", "だいかく", "おおがく"],
+        "answer": 0,
+        "explanation_en": "大学 is だいがく (பல்கலைக்கழகம், university). Both だ and が are voiced. おおがく wrongly uses the kun reading of 大.",
+        "explanation_ta": "大学 = だいがく (பல்கலைக்கழகம், university). だ, が இரண்டிலும் ゛ உண்டு. おおがく என்பது 大-இன் kun வாசிப்பைத் தவறாகப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU6-q03",
+        "type": "kanji_reading",
+        "sentence": "この かばんは ＿小さい＿です。",
+        "target": "小さい",
+        "options": ["しょうさい", "ちさい", "こさい", "ちいさい"],
+        "answer": 3,
+        "explanation_en": "小さい is ちいさい (சிறிய, small). Don’t forget the い after ち: ちさい is wrong. しょう is the on reading, not used in this word.",
+        "explanation_ta": "小さい = ちいさい (சிறிய, small). ち-க்குப் பின் வரும் い ஐ மறக்காதீர்கள்: ちさい தவறு. しょう on வாசிப்பு, இந்தச் சொல்லில் வராது."
+      },
+      {
+        "id": "KU6-q04",
+        "type": "kanji_reading",
+        "sentence": "この 川は とても ＿長い＿です。",
+        "target": "長い",
+        "options": ["ちょうい", "ながい", "なかい", "たかい"],
+        "answer": 1,
+        "explanation_en": "長い is ながい (நீளமான, long). なかい has no voicing mark. たかい is 高い (tall, expensive), a different kanji.",
+        "explanation_ta": "長い = ながい (நீளமான, long). なかい-இல் ゛ இல்லை. たかい என்பது 高い (உயரமான, விலை உயர்ந்த), வேறு கான்ஜி."
+      },
+      {
+        "id": "KU6-q05",
+        "type": "kanji_reading",
+        "sentence": "あの 山は ＿高い＿です。",
+        "target": "高い",
+        "options": ["たかい", "だかい", "こうい", "たこい"],
+        "answer": 0,
+        "explanation_en": "高い is たかい (உயரமான, tall, high). だかい wrongly adds voicing. こう is the on reading, used in 高校, not here.",
+        "explanation_ta": "高い = たかい (உயரமான, tall, high). だかい தவறாக ゛ சேர்க்கிறது. こう on வாசிப்பு, 高校-இல் வரும், இங்கே அல்ல."
+      },
+      {
+        "id": "KU6-q06",
+        "type": "kanji_reading",
+        "sentence": "＿白い＿ シャツを かいました。",
+        "target": "白い",
+        "options": ["はくい", "しらい", "ひろい", "しろい"],
+        "answer": 3,
+        "explanation_en": "白い is しろい (வெள்ளையான, white). はく is the on reading. ひろい sounds close, but it means ‘wide’.",
+        "explanation_ta": "白い = しろい (வெள்ளையான, white). はく on வாசிப்பு. ひろい ஒலியில் நெருக்கமாக இருக்கும், ஆனால் அதன் பொருள் ‘அகலமான’."
+      },
+      {
+        "id": "KU6-q07",
+        "type": "kanji_reading",
+        "sentence": "この ペンは ＿三百＿円です。",
+        "target": "三百",
+        "options": ["さんひゃく", "さんびゃく", "さんぴゃく", "さんばく"],
+        "answer": 1,
+        "explanation_en": "三百 is さんびゃく (முந்நூறு, three hundred). After さん, ひゃく becomes びゃく. ぴゃく is for 六百 and 八百.",
+        "explanation_ta": "三百 = さんびゃく (முந்நூறு, three hundred). さん-க்குப் பிறகு ひゃく, びゃく ஆக மாறும். ぴゃく என்பது 六百, 八百-க்கு."
+      },
+      {
+        "id": "KU6-q08",
+        "type": "kanji_reading",
+        "sentence": "この シャツは ＿三千＿円です。",
+        "target": "三千",
+        "options": ["さんせん", "さんぜい", "さんぜん", "さっせん"],
+        "answer": 2,
+        "explanation_en": "三千 is さんぜん (மூவாயிரம், three thousand). After さん, せん becomes ぜん. さんせん forgets the voicing; さっせん adds a wrong small っ.",
+        "explanation_ta": "三千 = さんぜん (மூவாயிரம், three thousand). さん-க்குப் பிறகு せん, ぜん ஆக மாறும். さんせん-இல் ゛ விடுபட்டது; さっせん தவறான சிறிய っ சேர்க்கிறது."
+      },
+      {
+        "id": "KU6-q09",
+        "type": "kanji_reading",
+        "sentence": "この とけいは ＿一万＿円でした。",
+        "target": "一万",
+        "options": ["ひとまん", "いちばん", "いちまん", "いっまん"],
+        "answer": 2,
+        "explanation_en": "一万 is いちまん (பத்தாயிரம், ten thousand). いちばん is a different word (‘number one, most’). ひとまん wrongly uses the kun reading of 一.",
+        "explanation_ta": "一万 = いちまん (பத்தாயிரம், ten thousand). いちばん வேறு சொல் (‘முதலாவது, மிக’). ひとまん என்பது 一-இன் kun வாசிப்பைத் தவறாகப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU6-q10",
+        "type": "kanji_reading",
+        "sentence": "つくえの 上に ＿本＿が あります。",
+        "target": "本",
+        "options": ["ぼん", "ほん", "ぽん", "もと"],
+        "answer": 1,
+        "explanation_en": "Alone, 本 is ほん (புத்தகம், book). ぼん and ぽん only appear after numbers, like 三本 and 一本.",
+        "explanation_ta": "தனியாக வரும்போது 本 = ほん (புத்தகம், book). ぼん, ぽん எண்களுக்குப் பிறகு மட்டுமே வரும், உதாரணம் 三本, 一本."
+      },
+      {
+        "id": "KU6-q11",
+        "type": "orthography",
+        "sentence": "これは ＿ひゃく＿円です。",
+        "target": "ひゃく",
+        "options": ["百", "白", "日", "目"],
+        "answer": 0,
+        "explanation_en": "ひゃく is 百 (நூறு, hundred). 白 (white) has no 一 on top. 日 and 目 have no top stroke at all.",
+        "explanation_ta": "ひゃく = 百 (நூறு, hundred). 白 (வெள்ளை)-க்கு மேலே 一 இல்லை. 日, 目 இரண்டுக்கும் மேலே எந்தக் கோடும் இல்லை."
+      },
+      {
+        "id": "KU6-q12",
+        "type": "orthography",
+        "sentence": "わたしの へやは ＿ちいさい＿です。",
+        "target": "ちいさい",
+        "options": ["少さい", "水さい", "木さい", "小さい"],
+        "answer": 3,
+        "explanation_en": "ちいさい is 小さい (சிறிய, small). 少 (a little) has one extra slanted stroke. 水 and 木 only look a bit like 小.",
+        "explanation_ta": "ちいさい = 小さい (சிறிய, small). 少 (கொஞ்சம்)-க்கு ஒரு கூடுதல் சாய்ந்த கோடு உண்டு. 水, 木 பார்க்க 小 போலக் கொஞ்சம் மட்டுமே இருக்கும்."
+      },
+      {
+        "id": "KU6-q13",
+        "type": "orthography",
+        "sentence": "まいばん ＿ほん＿を よみます。",
+        "target": "ほん",
+        "options": ["木", "本", "休", "末"],
+        "answer": 1,
+        "explanation_en": "ほん is 本 (புத்தகம், book): a tree with a short line at the bottom. 木 has no extra line, and 末 has the extra line at the top.",
+        "explanation_ta": "ほん = 本 (புத்தகம், book): கீழே சிறிய கோட்டுடன் ஒரு மரம். 木-க்குக் கூடுதல் கோடு இல்லை, 末-க்குக் கூடுதல் கோடு மேலே உள்ளது."
+      },
+      {
+        "id": "KU6-q14",
+        "type": "orthography",
+        "sentence": "あの 人は せが ＿たかい＿です。",
+        "target": "たかい",
+        "options": ["高い", "京い", "商い", "南い"],
+        "answer": 0,
+        "explanation_en": "たかい is 高い (உயரமான, tall). 京 and 商 have the same roof, but they are different kanji. 南 is ‘south’.",
+        "explanation_ta": "たかい = 高い (உயரமான, tall). 京, 商 இரண்டுக்கும் அதே கூரை உண்டு, ஆனால் அவை வேறு கான்ஜிகள். 南 என்றால் ‘தெற்கு’."
+      },
+      {
+        "id": "KU6-q15",
+        "type": "orthography",
+        "sentence": "とても ＿ながい＿ はしです。",
+        "target": "ながい",
+        "options": ["辰い", "表い", "帳い", "長い"],
+        "answer": 3,
+        "explanation_en": "ながい is 長い (நீளமான, long). 帳 has an extra part (巾) on the left. 表 and 辰 look a little like 長, but they are different kanji.",
+        "explanation_ta": "ながい = 長い (நீளமான, long). 帳-இன் இடப்பக்கம் கூடுதல் பகுதி (巾) உண்டு. 表, 辰 பார்க்க 長 போலக் கொஞ்சம் இருக்கும், ஆனால் அவை வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU6-q16",
+        "type": "orthography",
+        "sentence": "＿しろい＿ ねこが います。",
+        "target": "しろい",
+        "options": ["百い", "日い", "白い", "自い"],
+        "answer": 2,
+        "explanation_en": "しろい is 白い (வெள்ளையான, white): the sun 日 with one ray on top. 百 (hundred) has an extra 一 on top, and 自 has an extra line inside.",
+        "explanation_ta": "しろい = 白い (வெள்ளையான, white): மேலே ஒரு கதிருடன் சூரியன் 日. 百 (நூறு)-க்கு மேலே கூடுதல் 一 உண்டு, 自-க்கு உள்ளே கூடுதல் கோடு உண்டு."
+      }
+    ]
+  }
+}

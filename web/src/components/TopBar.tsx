@@ -22,6 +22,14 @@ export default function TopBar() {
           </span>
         </Link>
         <div className="flex items-center gap-2">
+          <nav className="hidden sm:flex items-center gap-1 mr-1 text-sm font-extrabold">
+            <Link href="/n5" className="px-3 py-1 rounded-full hover:bg-bg-2">
+              Lessons
+            </Link>
+            <Link href="/kanji" className="px-3 py-1 rounded-full hover:bg-bg-2">
+              <span lang="ja">漢字</span>
+            </Link>
+          </nav>
           <div className="flex items-center gap-1 px-3 py-1 rounded-full bg-gold-2 text-sm font-extrabold">
             <Flame size={16} className="text-gold" />
             <span suppressHydrationWarning>{mounted ? streak : 0}</span>

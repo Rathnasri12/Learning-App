@@ -1,0 +1,372 @@
+{
+  "unit": 4,
+  "intro": {
+    "en": "In this unit you will learn kanji for places and directions: up, down, inside, right, left, outside and the four directions. Learn them in pairs: 上 and 下, 右 and 左, 東 and 西, 南 and 北.",
+    "ta": "இந்தப் பிரிவில் இடங்கள், திசைகள் பற்றிய கான்ஜிகளைக் கற்போம்: மேல், கீழ், உள்ளே, வலது, இடது, வெளியே, நான்கு திசைகள். இவற்றை ஜோடியாகக் கற்றுக்கொள்ளுங்கள்: 上-下, 右-左, 東-西, 南-北."
+  },
+  "kanji": [
+    {
+      "kanji": "上",
+      "meaning": { "en": "up; above", "ta": "மேல்" },
+      "on": ["じょう"],
+      "kun": ["うえ", "あ.げる"],
+      "mnemonic": {
+        "en": "The long bottom line is the ground. A stick stands up on it, with a small flag pointing to the right. Everything is above the ground: up!",
+        "ta": "கீழே உள்ள நீளக் கோடு தரை. அதன் மேல் ஒரு கம்பு நிமிர்ந்து நிற்கிறது; அதிலிருந்து ஒரு சிறு கொடி வலப்பக்கம் நீள்கிறது. எல்லாம் தரைக்கு மேலே — மேல்!"
+      },
+      "note": {
+        "en": "上 and 下 are mirror pictures: in 上 the stick stands up from the bottom line, in 下 it hangs down from the top line. 上手 (じょうず, good at) is a word to learn by heart. In 上着 (うわぎ, jacket), 上 is read うわ.",
+        "ta": "上, 下 இரண்டும் கண்ணாடிப் பிம்பங்கள்: 上-இல் கம்பு கீழ்க் கோட்டிலிருந்து மேலே எழுகிறது; 下-இல் மேல் கோட்டிலிருந்து கீழே தொங்குகிறது. 上手 (じょうず, திறமையான) என்பதை மனப்பாடம் செய்யுங்கள். 上着 (うわぎ, ஜாக்கெட்) என்பதில் 上 = うわ."
+      },
+      "examples": [
+        { "word": "上", "reading": "うえ", "en": "on, above", "ta": "மேல்", "vocabId": "n5-v-076" },
+        { "word": "上手", "reading": "じょうず", "en": "good at, skilful", "ta": "திறமையான (நன்றாகச் செய்யும்)", "vocabId": "n5-v-319" },
+        { "word": "上げる", "reading": "あげる", "en": "to raise; to lift", "ta": "உயர்த்த (தூக்க)", "vocabId": "n5-v-011" },
+        { "word": "上着", "reading": "うわぎ", "en": "jacket", "ta": "மேலங்கி (ஜாக்கெட்)", "vocabId": "n5-v-086" }
+      ]
+    },
+    {
+      "kanji": "下",
+      "meaning": { "en": "down; below", "ta": "கீழ்" },
+      "on": ["か"],
+      "kun": ["した", "くだ.さる"],
+      "mnemonic": {
+        "en": "The top line is the ceiling. A stick hangs down from it, and a small drop falls off its side. Everything is below the line: down!",
+        "ta": "மேலே உள்ள கோடு கூரை. அதிலிருந்து ஒரு கம்பு கீழே தொங்குகிறது; அதன் பக்கத்திலிருந்து ஒரு சிறு துளி சொட்டுகிறது. எல்லாம் கோட்டுக்குக் கீழே — கீழ்!"
+      },
+      "note": {
+        "en": "下手 (へた, bad at) is a special reading. ください (please give) can be written 下さい, but kana is more common.",
+        "ta": "下手 (へた, திறமையில்லாத) ஒரு சிறப்பு வாசிப்பு. ください (தயவுசெய்து கொடுங்கள்) என்பதை 下さい என்றும் எழுதலாம்; ஆனால் கானாவில் எழுதுவதே அதிகம்."
+      },
+      "examples": [
+        { "word": "下", "reading": "した", "en": "under, below", "ta": "கீழ்", "vocabId": "n5-v-299" },
+        { "word": "地下鉄", "reading": "ちかてつ", "en": "subway", "ta": "சுரங்க ரயில் (மெட்ரோ)", "vocabId": "n5-v-404" },
+        { "word": "下さい", "reading": "ください", "en": "please give me", "ta": "தயவுசெய்து கொடுங்கள்", "vocabId": "n5-v-218" },
+        { "word": "靴下", "reading": "くつした", "en": "socks", "ta": "காலுறை (சாக்ஸ்)", "vocabId": "n5-v-222" }
+      ]
+    },
+    {
+      "kanji": "中",
+      "meaning": { "en": "inside; middle", "ta": "உள்ளே; நடு" },
+      "on": ["ちゅう"],
+      "kun": ["なか"],
+      "mnemonic": {
+        "en": "A box with one line shot straight through its middle. It is an arrow that hits the centre of the target. Bullseye!",
+        "ta": "ஒரு பெட்டியின் நடுவே நேராகப் பாயும் ஒரு கோடு. இலக்கின் சரியான நடுவில் தைக்கும் அம்பு அது!"
+      },
+      "note": {
+        "en": "After a time word, 中 is read じゅう and means “all through”: 一日中 (いちにちじゅう, all day long). When it means “busy doing now”, it is ちゅう: 電話中 (でんわちゅう, on the phone).",
+        "ta": "நேரத்தைக் குறிக்கும் சொல்லுக்குப் பின் 中 = じゅう, பொருள் “முழுவதும்”: 一日中 (いちにちじゅう, நாள் முழுவதும்). “இப்போது செய்துகொண்டிருக்கிறார்” என்ற பொருளில் ちゅう: 電話中 (でんわちゅう, தொலைபேசியில் பேசிக்கொண்டிருக்கிறார்)."
+      },
+      "examples": [
+        { "word": "中", "reading": "なか", "en": "inside", "ta": "உள்ளே", "vocabId": "n5-v-479" },
+        { "word": "中国", "reading": "ちゅうごく", "en": "China", "ta": "சீனா" },
+        { "word": "一日中", "reading": "いちにちじゅう", "en": "all day long", "ta": "நாள் முழுவதும்" },
+        { "word": "電話中", "reading": "でんわちゅう", "en": "on the phone", "ta": "தொலைபேசியில் பேசிக்கொண்டிருக்கும்போது" }
+      ]
+    },
+    {
+      "kanji": "右",
+      "meaning": { "en": "right", "ta": "வலது" },
+      "on": ["う"],
+      "kun": ["みぎ"],
+      "mnemonic": {
+        "en": "A hand (ナ) reaches down to a mouth (口). We eat with the right hand, so the hand that goes to your mouth is your right hand!",
+        "ta": "ஒரு கை (ナ) வாயை (口) நோக்கி வருகிறது. நாம் வலது கையால்தான் சாப்பிடுகிறோம்; வாய்க்குப் போகும் கை வலது கை!"
+      },
+      "note": {
+        "en": "右 and 左 differ at the bottom: 右 has a mouth (口), 左 has a tool (工). The first stroke is different too: 右 starts with the slanted stroke (ノ), 左 starts with the flat line (一).",
+        "ta": "右, 左 இரண்டும் கீழ்ப் பகுதியில் வேறுபடும்: 右-இல் வாய் (口), 左-இல் கருவி (工). முதல் கோடும் வேறு: 右 சாய்ந்த கோட்டுடன் (ノ) தொடங்கும்; 左 படுக்கைக் கோட்டுடன் (一) தொடங்கும்."
+      },
+      "examples": [
+        { "word": "右", "reading": "みぎ", "en": "right", "ta": "வலது", "vocabId": "n5-v-636" },
+        { "word": "右手", "reading": "みぎて", "en": "right hand", "ta": "வலது கை" },
+        { "word": "右上", "reading": "みぎうえ", "en": "upper right", "ta": "மேல் வலது பக்கம்" },
+        { "word": "左右", "reading": "さゆう", "en": "left and right", "ta": "இடமும் வலமும்" }
+      ]
+    },
+    {
+      "kanji": "左",
+      "meaning": { "en": "left", "ta": "இடது" },
+      "on": ["さ"],
+      "kun": ["ひだり"],
+      "mnemonic": {
+        "en": "A hand (ナ) holds a tool (工), like a carpenter’s ruler. While the right hand hammers, the left hand holds the ruler still. There is no mouth (口) here, because we don’t eat with the left hand.",
+        "ta": "ஒரு கை (ナ) ஒரு கருவியைப் (工) பிடித்திருக்கிறது — தச்சரின் அளவுகோல் போல. வலது கை சுத்தியால் அடிக்கும்போது இடது கை அளவுகோலை அசையாமல் பிடிக்கிறது. இதில் வாய் (口) இல்லை; ஏனெனில் இடது கையால் நாம் சாப்பிடுவதில்லை."
+      },
+      "note": {
+        "en": "Three kanji start with the same hand (ナ). Look at the bottom: 工 = left (左), 口 = right (右), 又 = friend (友).",
+        "ta": "மூன்று கான்ஜிகள் ஒரே கையுடன் (ナ) தொடங்கும். கீழ்ப் பகுதியைப் பாருங்கள்: 工 = இடது (左), 口 = வலது (右), 又 = நண்பர் (友)."
+      },
+      "examples": [
+        { "word": "左", "reading": "ひだり", "en": "left", "ta": "இடது", "vocabId": "n5-v-563" },
+        { "word": "左手", "reading": "ひだりて", "en": "left hand", "ta": "இடது கை" },
+        { "word": "左右", "reading": "さゆう", "en": "left and right", "ta": "இடமும் வலமும்" }
+      ]
+    },
+    {
+      "kanji": "東",
+      "meaning": { "en": "east", "ta": "கிழக்கு" },
+      "on": ["とう"],
+      "kun": ["ひがし"],
+      "mnemonic": {
+        "en": "A tree (木) with the sun (日) caught in its branches. In the morning, the sun comes up behind the coconut trees in the east.",
+        "ta": "மரத்தின் (木) கிளைகளுக்கு நடுவே சூரியன் (日) சிக்கியிருக்கிறது. காலையில் கிழக்கே தென்னை மரங்களுக்குப் பின்னால் சூரியன் உதிக்கிறது."
+      },
+      "note": {
+        "en": "Tokyo, 東京 (とうきょう), means “eastern capital”. 東 is とう there. Don’t mix up 東 with 車 (car): 東 has a 木 shape at the bottom.",
+        "ta": "டோக்கியோ, 東京 (とうきょう) என்றால் “கிழக்குத் தலைநகர்”. அங்கே 東 = とう. 東-ஐ 車 (வண்டி) உடன் குழப்ப வேண்டாம்: 東-இன் கீழே 木 வடிவம் உண்டு."
+      },
+      "examples": [
+        { "word": "東", "reading": "ひがし", "en": "east", "ta": "கிழக்கு", "vocabId": "n5-v-557" },
+        { "word": "東口", "reading": "ひがしぐち", "en": "east exit", "ta": "கிழக்கு வாசல்" },
+        { "word": "東西", "reading": "とうざい", "en": "east and west", "ta": "கிழக்கும் மேற்கும்" }
+      ]
+    },
+    {
+      "kanji": "西",
+      "meaning": { "en": "west", "ta": "மேற்கு" },
+      "on": ["せい", "さい"],
+      "kun": ["にし"],
+      "mnemonic": {
+        "en": "A box with a lid on top, and inside it a little bird with two legs, sitting in its nest. When the sun goes down in the west, the birds fly home to their nests.",
+        "ta": "மேலே மூடியுடன் ஒரு பெட்டி; அதற்குள் இரண்டு கால்களுடன் ஒரு சிறு பறவை தன் கூட்டில் அமர்ந்திருக்கிறது. மேற்கே சூரியன் மறையும்போது பறவைகள் கூட்டுக்குத் திரும்புகின்றன."
+      },
+      "note": {
+        "en": "On its own, 西 is にし. In 東西 (とうざい), さい gets a ゛ and becomes ざい.",
+        "ta": "தனியாக 西 = にし. 東西 (とうざい) என்பதில் さい-க்கு ゛ சேர்ந்து ざい ஆகிறது."
+      },
+      "examples": [
+        { "word": "西", "reading": "にし", "en": "west", "ta": "மேற்கு", "vocabId": "n5-v-499" },
+        { "word": "西口", "reading": "にしぐち", "en": "west exit", "ta": "மேற்கு வாசல்" },
+        { "word": "東西", "reading": "とうざい", "en": "east and west", "ta": "கிழக்கும் மேற்கும்" },
+        { "word": "北西", "reading": "ほくせい", "en": "north-west", "ta": "வடமேற்கு" }
+      ]
+    },
+    {
+      "kanji": "南",
+      "meaning": { "en": "south", "ta": "தெற்கு" },
+      "on": ["なん"],
+      "kun": ["みなみ"],
+      "mnemonic": {
+        "en": "The 十 on top is the flag pole of a temple tower. Below it is the temple, a big box with a lamp shining inside. Big temples like Madurai’s are in the south: Tamil Nadu!",
+        "ta": "மேலே உள்ள 十 கோபுரத்தின் கொடிமரம். அதன் கீழே கோயில் — உள்ளே விளக்கு ஒளிரும் பெரிய பெட்டி. மதுரை போன்ற பெரிய கோயில்கள் இருப்பது தெற்கில் — நம் தமிழ்நாட்டில்!"
+      },
+      "note": {
+        "en": "Don’t mix up 南 (south) and 西 (west). 南 has a 十 on top; 西 has a flat lid.",
+        "ta": "南 (தெற்கு), 西 (மேற்கு) இரண்டையும் குழப்ப வேண்டாம். 南-இன் மேலே 十 உண்டு; 西-இன் மேலே தட்டையான மூடி."
+      },
+      "examples": [
+        { "word": "南", "reading": "みなみ", "en": "south", "ta": "தெற்கு", "vocabId": "n5-v-646" },
+        { "word": "南口", "reading": "みなみぐち", "en": "south exit", "ta": "தெற்கு வாசல்" },
+        { "word": "南北", "reading": "なんぼく", "en": "north and south", "ta": "வடக்கும் தெற்கும்" },
+        { "word": "東南アジア", "reading": "とうなんアジア", "en": "Southeast Asia", "ta": "தென்கிழக்கு ஆசியா" }
+      ]
+    },
+    {
+      "kanji": "北",
+      "meaning": { "en": "north", "ta": "வடக்கு" },
+      "on": ["ほく"],
+      "kun": ["きた"],
+      "mnemonic": {
+        "en": "Two people sit back to back. They turn their backs on the cold wind that blows from the north.",
+        "ta": "இரண்டு பேர் முதுகோடு முதுகாக அமர்ந்திருக்கிறார்கள். வடக்கிலிருந்து வீசும் குளிர்க் காற்றுக்கு அவர்கள் முதுகைக் காட்டுகிறார்கள்."
+      },
+      "note": {
+        "en": "On its own, 北 is きた. In 東北 (とうほく) it is ほく, and in 南北 (なんぼく) it becomes ぼく.",
+        "ta": "தனியாக 北 = きた. 東北 (とうほく) என்பதில் ほく; 南北 (なんぼく) என்பதில் ぼく."
+      },
+      "examples": [
+        { "word": "北", "reading": "きた", "en": "north", "ta": "வடக்கு", "vocabId": "n5-v-194" },
+        { "word": "北口", "reading": "きたぐち", "en": "north exit", "ta": "வடக்கு வாசல்" },
+        { "word": "東北", "reading": "とうほく", "en": "north-east", "ta": "வடகிழக்கு" },
+        { "word": "南北", "reading": "なんぼく", "en": "north and south", "ta": "வடக்கும் தெற்கும்" }
+      ]
+    },
+    {
+      "kanji": "外",
+      "meaning": { "en": "outside", "ta": "வெளியே" },
+      "on": ["がい"],
+      "kun": ["そと", "ほか"],
+      "mnemonic": {
+        "en": "On the left is the evening moon (夕), the same one you saw in 名. On the right is a street lamp with its light sticking out (卜). In the evening you go outside, under the moon and the lamp.",
+        "ta": "இடப்பக்கம் மாலை நிலா (夕) — 名-இல் பார்த்த அதே நிலா. வலப்பக்கம் ஒளியை நீட்டும் தெருவிளக்கு (卜). மாலையில் நிலாவுக்கும் விளக்குக்கும் கீழே வெளியே போகிறீர்கள்."
+      },
+      "note": {
+        "en": "外 (そと) means “outside”. Read ほか, the same kanji means “other”, but ほか is often written in kana.",
+        "ta": "外 (そと) = வெளியே. இதையே ほか என்று படித்தால் “வேறு” என்று பொருள்; ஆனால் ほか பெரும்பாலும் கானாவில் எழுதப்படும்."
+      },
+      "examples": [
+        { "word": "外", "reading": "そと", "en": "outside", "ta": "வெளியே", "vocabId": "n5-v-364" },
+        { "word": "外国", "reading": "がいこく", "en": "foreign country", "ta": "வெளிநாடு", "vocabId": "n5-v-144" },
+        { "word": "外国人", "reading": "がいこくじん", "en": "foreigner", "ta": "வெளிநாட்டவர்", "vocabId": "n5-v-145" },
+        { "word": "外", "reading": "ほか", "en": "other", "ta": "வேறு (மற்ற)", "vocabId": "n5-v-603" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU4-q01",
+        "type": "kanji_reading",
+        "sentence": "つくえの ＿上＿に ねこが います。",
+        "target": "上",
+        "options": ["した", "うわ", "うえ", "じょう"],
+        "answer": 2,
+        "explanation_en": "上 here is うえ (மேல், on, above). うわ is only used in words like 上着 (うわぎ), and じょう is the on reading. した is 下 (below).",
+        "explanation_ta": "இங்கே 上 = うえ (மேல், on, above). うわ என்பது 上着 (うわぎ) போன்ற சொற்களில் மட்டும்; じょう ஓன் வாசிப்பு. した என்பது 下 (கீழ்)."
+      },
+      {
+        "id": "KU4-q02",
+        "type": "kanji_reading",
+        "sentence": "いすの ＿下＿に かばんが あります。",
+        "target": "下",
+        "options": ["した", "しだ", "うえ", "か"],
+        "answer": 0,
+        "explanation_en": "下 is read した (கீழ், under, below). しだ has a wrong ゛. か is the on reading, as in 地下鉄 (ちかてつ).",
+        "explanation_ta": "下 = した (கீழ், under, below). しだ-இல் தேவையில்லாத ゛ உள்ளது. か என்பது ஓன் வாசிப்பு; 地下鉄 (ちかてつ) போன்ற சொல்லில் வரும்."
+      },
+      {
+        "id": "KU4-q03",
+        "type": "kanji_reading",
+        "sentence": "はこの ＿中＿に なにが ありますか。",
+        "target": "中",
+        "options": ["なが", "ちゅう", "じゅう", "なか"],
+        "answer": 3,
+        "explanation_en": "中 on its own is なか (உள்ளே, inside). It is か, not が. ちゅう and じゅう are used only inside longer words.",
+        "explanation_ta": "தனியாக 中 = なか (உள்ளே, inside). இதில் か, が அல்ல. ちゅう, じゅう இரண்டும் நீண்ட சொற்களுக்குள் மட்டும் வரும்."
+      },
+      {
+        "id": "KU4-q04",
+        "type": "kanji_reading",
+        "sentence": "きのうは ＿一日中＿ いえに いました。",
+        "target": "一日中",
+        "options": ["いちにちちゅう", "いちにちじゅう", "ついたちじゅう", "いちにちぢゅう"],
+        "answer": 1,
+        "explanation_en": "一日中 is read いちにちじゅう (நாள் முழுவதும், all day long). After a time word, 中 is じゅう, not ちゅう. ついたち means the 1st day of the month.",
+        "explanation_ta": "一日中 = いちにちじゅう (நாள் முழுவதும், all day long). நேரச் சொல்லுக்குப் பின் 中 = じゅう, ちゅう அல்ல. ついたち என்றால் மாதத்தின் முதல் நாள்."
+      },
+      {
+        "id": "KU4-q05",
+        "type": "kanji_reading",
+        "sentence": "つぎの かどを ＿右＿に まがって ください。",
+        "target": "右",
+        "options": ["みぎ", "ひだり", "みき", "う"],
+        "answer": 0,
+        "explanation_en": "右 is read みぎ (வலது, right). It ends with ぎ, not き. ひだり is 左 (left).",
+        "explanation_ta": "右 = みぎ (வலது, right). கடைசியில் ぎ, き அல்ல. ひだり என்பது 左 (இடது)."
+      },
+      {
+        "id": "KU4-q06",
+        "type": "kanji_reading",
+        "sentence": "わたしは ＿左手＿で かきます。",
+        "target": "左手",
+        "options": ["ひだりで", "みぎて", "ひだりて", "ひたりて"],
+        "answer": 2,
+        "explanation_en": "左手 is read ひだりて (இடது கை, left hand). 手 is て, not で. ひだり has だ with ゛, so ひたり is wrong.",
+        "explanation_ta": "左手 = ひだりて (இடது கை, left hand). 手 = て, で அல்ல. ひだり-இல் ゛ உள்ள だ வரும்; அதனால் ひたり தவறு."
+      },
+      {
+        "id": "KU4-q07",
+        "type": "kanji_reading",
+        "sentence": "日は ＿東＿から のぼります。",
+        "target": "東",
+        "options": ["にし", "ひがし", "ひかし", "とう"],
+        "answer": 1,
+        "explanation_en": "東 is read ひがし (கிழக்கு, east). The middle sound is が with ゛. にし is 西 (west). とう is the on reading, as in 東京.",
+        "explanation_ta": "東 = ひがし (கிழக்கு, east). நடுவில் ゛ உள்ள が. にし என்பது 西 (மேற்கு). とう ஓன் வாசிப்பு; 東京 போன்ற சொல்லில் வரும்."
+      },
+      {
+        "id": "KU4-q08",
+        "type": "kanji_reading",
+        "sentence": "日は ＿西＿に しずみます。",
+        "target": "西",
+        "options": ["ひがし", "せい", "にじ", "にし"],
+        "answer": 3,
+        "explanation_en": "西 is read にし (மேற்கு, west). にじ has a wrong ゛ (にじ means rainbow). せい is the on reading.",
+        "explanation_ta": "西 = にし (மேற்கு, west). にじ-இல் தேவையில்லாத ゛ உள்ளது (にじ என்றால் வானவில்). せい ஓன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q09",
+        "type": "kanji_reading",
+        "sentence": "ふゆは ＿南＿の くにへ いきたいです。",
+        "target": "南",
+        "options": ["きた", "なん", "みなみ", "なみ"],
+        "answer": 2,
+        "explanation_en": "南 is read みなみ (தெற்கு, south). なん is the on reading, used in words like 南北. きた is 北 (north).",
+        "explanation_ta": "南 = みなみ (தெற்கு, south). なん என்பது ஓன் வாசிப்பு; 南北 போன்ற சொற்களில் வரும். きた என்பது 北 (வடக்கு)."
+      },
+      {
+        "id": "KU4-q10",
+        "type": "kanji_reading",
+        "sentence": "こどもが ＿外＿で あそんで います。",
+        "target": "外",
+        "options": ["そと", "ぞと", "がい", "なか"],
+        "answer": 0,
+        "explanation_en": "外 here is そと (வெளியே, outside). ぞと has a wrong ゛. がい is the on reading, as in 外国 (がいこく).",
+        "explanation_ta": "இங்கே 外 = そと (வெளியே, outside). ぞと-இல் தேவையில்லாத ゛ உள்ளது. がい ஓன் வாசிப்பு; 外国 (がいこく) போன்ற சொல்லில் வரும்."
+      },
+      {
+        "id": "KU4-q11",
+        "type": "orthography",
+        "sentence": "＿きた＿の まどを あけて ください。",
+        "target": "きた",
+        "options": ["比", "北", "化", "此"],
+        "answer": 1,
+        "explanation_en": "きた (வடக்கு, north) is written 北: two people sitting back to back. In 比 both halves face the same way.",
+        "explanation_ta": "きた (வடக்கு, north) = 北: முதுகோடு முதுகாக அமர்ந்த இருவர். 比-இல் இரண்டு பாதிகளும் ஒரே பக்கம் பார்க்கின்றன."
+      },
+      {
+        "id": "KU4-q12",
+        "type": "orthography",
+        "sentence": "＿うえ＿を みて ください。",
+        "target": "うえ",
+        "options": ["止", "土", "下", "上"],
+        "answer": 3,
+        "explanation_en": "うえ (மேல், above) is written 上: a stick standing up on the ground line. 下 is した (below). 止 has an extra short line on the left.",
+        "explanation_ta": "うえ (மேல், above) = 上: தரைக் கோட்டின் மேல் நிமிர்ந்து நிற்கும் கம்பு. 下 = した (கீழ்). 止-இல் இடப்பக்கம் கூடுதல் சிறு கோடு உண்டு."
+      },
+      {
+        "id": "KU4-q13",
+        "type": "orthography",
+        "sentence": "かばんは つくえの ＿した＿に あります。",
+        "target": "した",
+        "options": ["下", "不", "丁", "上"],
+        "answer": 0,
+        "explanation_en": "した (கீழ், below) is written 下: a stick hanging down from the top line, with a small drop. 不 has two strokes at the side, and 上 is うえ (above).",
+        "explanation_ta": "した (கீழ், below) = 下: மேல் கோட்டிலிருந்து தொங்கும் கம்பு, ஒரு சிறு துளியுடன். 不-இல் பக்கத்தில் இரண்டு கோடுகள் உண்டு; 上 = うえ (மேல்)."
+      },
+      {
+        "id": "KU4-q14",
+        "type": "orthography",
+        "sentence": "＿みぎ＿の ドアを あけて ください。",
+        "target": "みぎ",
+        "options": ["石", "左", "右", "古"],
+        "answer": 2,
+        "explanation_en": "みぎ (வலது, right) is written 右: a hand (ナ) going to the mouth (口). 石 (stone) looks very close, but its top is a flat line, not a hand. 左 is ひだり (left).",
+        "explanation_ta": "みぎ (வலது, right) = 右: வாயை (口) நோக்கி வரும் கை (ナ). 石 (கல்) மிக ஒத்திருக்கும்; ஆனால் அதன் மேலே கை இல்லை, தட்டையான கோடு. 左 = ひだり (இடது)."
+      },
+      {
+        "id": "KU4-q15",
+        "type": "orthography",
+        "sentence": "＿ひだり＿に ぎんこうが あります。",
+        "target": "ひだり",
+        "options": ["右", "友", "在", "左"],
+        "answer": 3,
+        "explanation_en": "ひだり (இடது, left) is written 左: a hand (ナ) with a tool (工). 右 has a mouth (口) and means right. 友 has 又 and means friend.",
+        "explanation_ta": "ひだり (இடது, left) = 左: கருவியுடன் (工) ஒரு கை (ナ). 右-இல் வாய் (口); அது வலது. 友-இல் 又; அது நண்பர்."
+      },
+      {
+        "id": "KU4-q16",
+        "type": "orthography",
+        "sentence": "＿そと＿は さむいです。",
+        "target": "そと",
+        "options": ["名", "外", "多", "夕"],
+        "answer": 1,
+        "explanation_en": "そと (வெளியே, outside) is written 外: the evening moon (夕) with a lamp (卜) on the right. 名 has a mouth (口) under the moon and means name.",
+        "explanation_ta": "そと (வெளியே, outside) = 外: மாலை நிலா (夕), வலப்பக்கம் விளக்கு (卜). 名-இல் நிலாவுக்குக் கீழே வாய் (口); அது பெயர்."
+      }
+    ]
+  }
+}

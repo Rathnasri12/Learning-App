@@ -1,0 +1,306 @@
+{
+  "title": { "en": "N5 kanji exam", "ta": "N5 கான்ஜி தேர்வு" },
+  "passMark": 0.7,
+  "items": [
+    {
+      "id": "KX-q01",
+      "type": "kanji_reading",
+      "sentence": "わたしは ＿毎日＿ 日本語を べんきょうします。",
+      "target": "毎日",
+      "options": ["まいにち", "まいび", "めいにち", "まいにつ"],
+      "answer": 0,
+      "explanation_en": "毎日 is read まいにち (தினமும், every day). 毎 is まい and 日 is にち here. まいび is wrong: 日 is not read び in this word.",
+      "explanation_ta": "毎日 என்பதை まいにち என்று படிக்க வேண்டும் (தினமும், every day). 毎 = まい, 日 = にち. まいび தவறு; இந்தச் சொல்லில் 日 என்பது び என்று வராது."
+    },
+    {
+      "id": "KX-q02",
+      "type": "kanji_reading",
+      "sentence": "わからない ことを ＿先生＿に ききました。",
+      "target": "先生",
+      "options": ["せんせ", "せんせい", "せいせん", "ぜんせい"],
+      "answer": 1,
+      "explanation_en": "先生 is read せんせい (ஆசிரியர், teacher). The end is a long せい. せんせ is too short, so it is wrong.",
+      "explanation_ta": "先生 என்பதை せんせい என்று படிக்க வேண்டும் (ஆசிரியர், teacher). கடைசியில் நீண்ட ஒலி せい வரும். せんせ மிகவும் குறுகியது, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q03",
+      "type": "kanji_reading",
+      "sentence": "いもうとは ちかくの ＿小学校＿に かよって います。",
+      "target": "小学校",
+      "options": ["しょがっこう", "しょうがこう", "しょうがっこう", "こがっこう"],
+      "answer": 2,
+      "explanation_en": "小学校 is read しょうがっこう (தொடக்கப் பள்ளி, elementary school). しょう has a long vowel, and がっこう has a small っ. しょがっこう is missing the long vowel.",
+      "explanation_ta": "小学校 என்பதை しょうがっこう என்று படிக்க வேண்டும் (தொடக்கப் பள்ளி, elementary school). しょう நீண்ட ஒலி; がっこう-வில் சிறிய っ உண்டு. しょがっこう-வில் நீண்ட ஒலி இல்லை, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q04",
+      "type": "kanji_reading",
+      "sentence": "あしたの ＿午後＿は ひまです。",
+      "target": "午後",
+      "options": ["ごうご", "ここ", "ごこ", "ごご"],
+      "answer": 3,
+      "explanation_en": "午後 is read ごご (மதியத்திற்குப் பின், afternoon). Both sounds are ご with dakuten. ごこ has a plain こ, so it is wrong.",
+      "explanation_ta": "午後 என்பதை ごご என்று படிக்க வேண்டும் (மதியத்திற்குப் பின், afternoon). இரண்டு ஒலிகளும் ご (புள்ளிகளுடன்). ごこ-வில் கடைசி こ புள்ளி இல்லாதது, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q05",
+      "type": "kanji_reading",
+      "sentence": "なつやすみに ＿外国＿へ 行きたいです。",
+      "target": "外国",
+      "options": ["がいこく", "かいこく", "がいごく", "そとこく"],
+      "answer": 0,
+      "explanation_en": "外国 is read がいこく (வெளிநாடு, foreign country). がい has dakuten, but こく does not. がいごく adds a wrong ご.",
+      "explanation_ta": "外国 என்பதை がいこく என்று படிக்க வேண்டும் (வெளிநாடு, foreign country). がい-க்குப் புள்ளிகள் உண்டு, こく-க்கு இல்லை. がいごく-வில் தவறான ご உள்ளது."
+    },
+    {
+      "id": "KX-q06",
+      "type": "kanji_reading",
+      "sentence": "きょうは ＿天気＿が いいですね。",
+      "target": "天気",
+      "options": ["でんき", "てんき", "てんぎ", "てんけ"],
+      "answer": 1,
+      "explanation_en": "天気 is read てんき (வானிலை, weather). でんき starts with で. That is 電気 (electricity), a different word.",
+      "explanation_ta": "天気 என்பதை てんき என்று படிக்க வேண்டும் (வானிலை, weather). でんき என்பது で-வில் தொடங்கும் 電気 (மின்சாரம்) என்ற வேறு சொல்."
+    },
+    {
+      "id": "KX-q07",
+      "type": "kanji_reading",
+      "sentence": "まいあさ ＿電車＿で かいしゃへ 行きます。",
+      "target": "電車",
+      "options": ["てんしゃ", "でんじゃ", "でんしゃ", "でんしや"],
+      "answer": 2,
+      "explanation_en": "電車 is read でんしゃ (ரயில், train). It has a small ゃ: しゃ. でんしや has a big や, so it is wrong.",
+      "explanation_ta": "電車 என்பதை でんしゃ என்று படிக்க வேண்டும் (ரயில், train). இதில் சிறிய ゃ உண்டு: しゃ. でんしや-வில் பெரிய や உள்ளது, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q08",
+      "type": "kanji_reading",
+      "sentence": "この かみに ＿名前＿を 書いて ください。",
+      "target": "名前",
+      "options": ["なまい", "めいまえ", "なめえ", "なまえ"],
+      "answer": 3,
+      "explanation_en": "名前 is read なまえ (பெயர், name). Both kanji use the Japanese (kun) reading: な + まえ. めいまえ uses the on reading めい, so it is wrong.",
+      "explanation_ta": "名前 என்பதை なまえ என்று படிக்க வேண்டும் (பெயர், name). இரண்டு கான்ஜிகளும் kun வாசிப்பு: な + まえ. めいまえ-வில் on வாசிப்பு めい வந்துள்ளது, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q09",
+      "type": "kanji_reading",
+      "sentence": "この ノートは ＿八百円＿です。",
+      "target": "八百円",
+      "options": ["はっぴゃくえん", "はちひゃくえん", "はっひゃくえん", "はちびゃくえん"],
+      "answer": 0,
+      "explanation_en": "八百円 is read はっぴゃくえん (எண்ணூறு யென், 800 yen). 八 becomes はっ with a small っ, and 百 becomes ぴゃく. はちひゃくえん does not change the sounds, so it is wrong.",
+      "explanation_ta": "八百円 என்பதை はっぴゃくえん என்று படிக்க வேண்டும் (எண்ணூறு யென், 800 yen). 八 என்பது சிறிய っ உடன் はっ ஆகிறது; 百 என்பது ぴゃく ஆகிறது. はちひゃくえん-வில் ஒலி மாற்றம் இல்லை, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q10",
+      "type": "kanji_reading",
+      "sentence": "この じてんしゃは ＿一万円＿でした。",
+      "target": "一万円",
+      "options": ["いちばんえん", "いちまんえん", "ひとまんえん", "いっまんえん"],
+      "answer": 1,
+      "explanation_en": "一万円 is read いちまんえん (பத்தாயிரம் யென், 10,000 yen). 万 is まん. いちばん is a different word (number one), so いちばんえん is wrong.",
+      "explanation_ta": "一万円 என்பதை いちまんえん என்று படிக்க வேண்டும் (பத்தாயிரம் யென், 10,000 yen). 万 = まん. いちばん என்பது வேறு சொல் (முதலாவது), அதனால் いちばんえん தவறு."
+    },
+    {
+      "id": "KX-q11",
+      "type": "kanji_reading",
+      "sentence": "あさ ＿九時半＿に えきで あいましょう。",
+      "target": "九時半",
+      "options": ["きゅうじはん", "くじばん", "くじはん", "きゅうじばん"],
+      "answer": 2,
+      "explanation_en": "九時半 is read くじはん (ஒன்பதரை மணி, half past nine). For the time, 九 is く, not きゅう. 半 is はん, not ばん.",
+      "explanation_ta": "九時半 என்பதை くじはん என்று படிக்க வேண்டும் (ஒன்பதரை மணி, half past nine). நேரம் சொல்லும்போது 九 என்பது く, きゅう அல்ல. 半 என்பது はん, ばん அல்ல."
+    },
+    {
+      "id": "KX-q12",
+      "type": "kanji_reading",
+      "sentence": "ともだちの たんじょうびは 四月＿二十日＿です。",
+      "target": "二十日",
+      "options": ["にじゅうにち", "ふつか", "はっか", "はつか"],
+      "answer": 3,
+      "explanation_en": "二十日 has a special reading: はつか (இருபதாம் தேதி, the 20th of the month). ふつか is 二日 (the 2nd). はっか has a small っ, so it is wrong.",
+      "explanation_ta": "二十日 என்பதற்குச் சிறப்பு வாசிப்பு உண்டு: はつか (இருபதாம் தேதி, the 20th). ふつか என்பது 二日 (இரண்டாம் தேதி). はっか-வில் சிறிய っ உள்ளது, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q13",
+      "type": "kanji_reading",
+      "sentence": "あそこに いる ＿男の人＿は だれですか。",
+      "target": "男の人",
+      "options": ["おとこのひと", "おんなのひと", "おどこのひと", "だんのひと"],
+      "answer": 0,
+      "explanation_en": "男の人 is read おとこのひと (ஆண், man). おんなのひと is 女の人 (woman). おどこ has a wrong ど, so it is also wrong.",
+      "explanation_ta": "男の人 என்பதை おとこのひと என்று படிக்க வேண்டும் (ஆண், man). おんなのひと என்பது 女の人 (பெண்). おどこ-வில் தவறான ど உள்ளது."
+    },
+    {
+      "id": "KX-q14",
+      "type": "kanji_reading",
+      "sentence": "こうえんで ＿女の子＿が あそんで います。",
+      "target": "女の子",
+      "options": ["おなのこ", "おんなのこ", "おんなのご", "じょのこ"],
+      "answer": 1,
+      "explanation_en": "女の子 is read おんなのこ (சிறுமி, girl). Don’t forget the ん in おんな. おなのこ is missing it.",
+      "explanation_ta": "女の子 என்பதை おんなのこ என்று படிக்க வேண்டும் (சிறுமி, girl). おんな-வில் உள்ள ん-ஐ மறக்காதீர்கள். おなのこ-வில் ん இல்லை, அதனால் தவறு."
+    },
+    {
+      "id": "KX-q15",
+      "type": "kanji_reading",
+      "sentence": "＿今年＿の なつは とても あついです。",
+      "target": "今年",
+      "options": ["こんねん", "いまとし", "ことし", "ことじ"],
+      "answer": 2,
+      "explanation_en": "今年 has a special reading: ことし (இந்த ஆண்டு, this year). こんねん and いまとし just join the normal readings. They are not real words.",
+      "explanation_ta": "今年 என்பதற்குச் சிறப்பு வாசிப்பு உண்டு: ことし (இந்த ஆண்டு, this year). こんねん, いまとし இரண்டும் சாதாரண வாசிப்புகளை இணைத்தவை; அவை உண்மையான சொற்கள் அல்ல."
+    },
+    {
+      "id": "KX-q16",
+      "type": "kanji_reading",
+      "sentence": "きっぷは ＿大人＿ 五百円、子ども 二百円です。",
+      "target": "大人",
+      "options": ["だいにん", "おおひと", "おとうな", "おとな"],
+      "answer": 3,
+      "explanation_en": "大人 has a special reading: おとな (பெரியவர், adult). だいにん and おおひと join the normal readings, but they are wrong.",
+      "explanation_ta": "大人 என்பதற்குச் சிறப்பு வாசிப்பு உண்டு: おとな (பெரியவர், adult). だいにん, おおひと சாதாரண வாசிப்புகளை இணைத்தவை; அவை தவறு."
+    },
+    {
+      "id": "KX-q17",
+      "type": "kanji_reading",
+      "sentence": "＿来月＿ かぞくと 日本へ 行きます。",
+      "target": "来月",
+      "options": ["らいげつ", "らいがつ", "くるげつ", "らいつき"],
+      "answer": 0,
+      "explanation_en": "来月 is read らいげつ (அடுத்த மாதம், next month). Here 月 is げつ. がつ is for month names like 四月 (しがつ), so らいがつ is wrong.",
+      "explanation_ta": "来月 என்பதை らいげつ என்று படிக்க வேண்டும் (அடுத்த மாதம், next month). இங்கே 月 = げつ. がつ என்பது 四月 (しがつ) போன்ற மாதப் பெயர்களுக்கு மட்டும்; அதனால் らいがつ தவறு."
+    },
+    {
+      "id": "KX-q18",
+      "type": "kanji_reading",
+      "sentence": "よる へやで おんがくを ＿聞きます＿。",
+      "target": "聞きます",
+      "options": ["きぎます", "ききます", "ぎきます", "みます"],
+      "answer": 1,
+      "explanation_en": "聞きます is read ききます (கேட்கிறேன், listen). Both き sounds are plain, with no dakuten. きぎます has a wrong ぎ. みます is 見ます (see).",
+      "explanation_ta": "聞きます என்பதை ききます என்று படிக்க வேண்டும் (கேட்கிறேன், listen). இரண்டு き-வும் புள்ளி இல்லாதவை. きぎます-வில் தவறான ぎ உள்ளது. みます என்பது 見ます (பார்க்கிறேன்)."
+    },
+    {
+      "id": "KX-q19",
+      "type": "orthography",
+      "sentence": "わたしは 大学で ＿にほんご＿を べんきょうして います。",
+      "target": "にほんご",
+      "options": ["日木語", "日本話", "日本語", "目本語"],
+      "answer": 2,
+      "explanation_en": "にほんご is written 日本語 (ஜப்பானிய மொழி, Japanese language). 本 has a short line at the bottom; 木 (tree) does not. 話 means talk, not language.",
+      "explanation_ta": "にほんご என்பதை 日本語 என்று எழுத வேண்டும் (ஜப்பானிய மொழி, Japanese language). 本-க்குக் கீழே ஒரு சிறு கோடு உண்டு; 木 (மரம்)-க்கு இல்லை. 話 என்றால் பேசுதல், மொழி அல்ல."
+    },
+    {
+      "id": "KX-q20",
+      "type": "orthography",
+      "sentence": "この かばんは ＿さんぜんえん＿です。",
+      "target": "さんぜんえん",
+      "options": ["三干円", "三午円", "三十円", "三千円"],
+      "answer": 3,
+      "explanation_en": "さんぜんえん is written 三千円 (மூவாயிரம் யென், 3,000 yen). 千 (thousand) has a short slanted line on top. 干 and 午 look like it, but they are different kanji. 三十円 is さんじゅうえん.",
+      "explanation_ta": "さんぜんえん என்பதை 三千円 என்று எழுத வேண்டும் (மூவாயிரம் யென், 3,000 yen). 千 (ஆயிரம்)-க்கு மேலே ஒரு சிறு சாய்ந்த கோடு உண்டு. 干, 午 பார்க்க ஒன்றுபோல் இருந்தாலும் வேறு கான்ஜிகள். 三十円 என்பது さんじゅうえん."
+    },
+    {
+      "id": "KX-q21",
+      "type": "orthography",
+      "sentence": "あとで また ＿でんわ＿します。",
+      "target": "でんわ",
+      "options": ["電話", "雷話", "電語", "電読"],
+      "answer": 0,
+      "explanation_en": "でんわ is written 電話 (தொலைபேசி, telephone). 話 means talk. 語 (language) and 読 (read) also have the 言 part, but they are wrong here. 雷 means thunder.",
+      "explanation_ta": "でんわ என்பதை 電話 என்று எழுத வேண்டும் (தொலைபேசி, telephone). 話 என்றால் பேசுதல். 語 (மொழி), 読 (படித்தல்) இரண்டிலும் 言 பகுதி உண்டு, ஆனால் இங்கே தவறு. 雷 என்றால் இடி."
+    },
+    {
+      "id": "KX-q22",
+      "type": "orthography",
+      "sentence": "＿はは＿は びょういんで はたらいて います。",
+      "target": "はは",
+      "options": ["毎", "母", "苺", "海"],
+      "answer": 1,
+      "explanation_en": "はは is written 母 (அம்மா, my mother). 毎 (every) is 母 with a hat on top. Look carefully at the top.",
+      "explanation_ta": "はは என்பதை 母 என்று எழுத வேண்டும் (அம்மா, my mother). 毎 (ஒவ்வொரு) என்பது 母-வின் மேல் ஒரு தொப்பி உள்ளது. மேல் பகுதியைக் கவனமாகப் பாருங்கள்."
+    },
+    {
+      "id": "KX-q23",
+      "type": "orthography",
+      "sentence": "あしたは 学校が ＿やすみ＿です。",
+      "target": "やすみ",
+      "options": ["体み", "木み", "休み", "林み"],
+      "answer": 2,
+      "explanation_en": "やすみ is written 休み (விடுமுறை, holiday / rest). It is a person (亻) next to a tree (木). 体 (body) has 本 on the right, not 木.",
+      "explanation_ta": "やすみ என்பதை 休み என்று எழுத வேண்டும் (விடுமுறை, holiday / rest). ஒரு மனிதர் (亻) மரத்தின் (木) அருகில் ஓய்வெடுக்கிறார். 体 (உடல்)-வின் வலப்பக்கம் 本, 木 அல்ல."
+    },
+    {
+      "id": "KX-q24",
+      "type": "orthography",
+      "sentence": "＿もくようび＿に テストが あります。",
+      "target": "もくようび",
+      "options": ["本曜日", "未曜日", "休曜日", "木曜日"],
+      "answer": 3,
+      "explanation_en": "もくようび is written 木曜日 (வியாழக்கிழமை, Thursday). 木 means tree. 本 and 未 look like 木, but they have one more line.",
+      "explanation_ta": "もくようび என்பதை 木曜日 என்று எழுத வேண்டும் (வியாழக்கிழமை, Thursday). 木 என்றால் மரம். 本, 未 இரண்டும் 木 போல் இருந்தாலும் ஒரு கோடு கூடுதலாக உள்ளது."
+    },
+    {
+      "id": "KX-q25",
+      "type": "orthography",
+      "sentence": "きのう ＿ともだち＿と えいがを 見ました。",
+      "target": "ともだち",
+      "options": ["友だち", "右だち", "有だち", "左だち"],
+      "answer": 0,
+      "explanation_en": "ともだち is written 友だち (நண்பர், friend). 右 (right) and 左 (left) have the same top part, but they are different kanji.",
+      "explanation_ta": "ともだち என்பதை 友だち என்று எழுத வேண்டும் (நண்பர், friend). 右 (வலது), 左 (இடது) இரண்டிலும் மேல் பகுதி ஒன்றுதான், ஆனால் அவை வேறு கான்ஜிகள்."
+    },
+    {
+      "id": "KX-q26",
+      "type": "orthography",
+      "sentence": "この カメラは とても ＿たかい＿です。",
+      "target": "たかい",
+      "options": ["京い", "高い", "亭い", "商い"],
+      "answer": 1,
+      "explanation_en": "たかい is written 高い (விலை அதிகம், expensive / high). 京 and 亭 have the same top part, but they are different kanji.",
+      "explanation_ta": "たかい என்பதை 高い என்று எழுத வேண்டும் (விலை அதிகம், expensive / high). 京, 亭 இரண்டின் மேல் பகுதியும் ஒன்றுதான், ஆனால் அவை வேறு கான்ஜிகள்."
+    },
+    {
+      "id": "KX-q27",
+      "type": "orthography",
+      "sentence": "そとは ＿あめ＿が ふって います。",
+      "target": "あめ",
+      "options": ["両", "雪", "雨", "電"],
+      "answer": 2,
+      "explanation_en": "あめ is written 雨 (மழை, rain). The four dots are drops of rain. 雪 (snow) and 電 (electricity) have 雨 on top, but they are not あめ.",
+      "explanation_ta": "あめ என்பதை 雨 என்று எழுத வேண்டும் (மழை, rain). நான்கு புள்ளிகளும் மழைத் துளிகள். 雪 (பனி), 電 (மின்சாரம்) இரண்டின் மேலும் 雨 உண்டு, ஆனால் அவை あめ அல்ல."
+    },
+    {
+      "id": "KX-q28",
+      "type": "orthography",
+      "sentence": "ぎんこうは えきの ＿ひがし＿に あります。",
+      "target": "ひがし",
+      "options": ["車", "束", "西", "東"],
+      "answer": 3,
+      "explanation_en": "ひがし is written 東 (கிழக்கு, east). 西 is にし (west). 車 (car) and 束 look like 東, but they are different kanji.",
+      "explanation_ta": "ひがし என்பதை 東 என்று எழுத வேண்டும் (கிழக்கு, east). 西 என்பது にし (மேற்கு). 車 (வண்டி), 束 இரண்டும் 東 போல் இருந்தாலும் வேறு கான்ஜிகள்."
+    },
+    {
+      "id": "KX-q29",
+      "type": "orthography",
+      "sentence": "もう ねる ＿じかん＿ですよ。",
+      "target": "じかん",
+      "options": ["時間", "時問", "時聞", "持間"],
+      "answer": 0,
+      "explanation_en": "じかん is written 時間 (நேரம், time). 間 has 日 inside the gate (門). 問 has 口 inside, and 聞 has 耳. 持 (hold) has a hand on the left, not 日.",
+      "explanation_ta": "じかん என்பதை 時間 என்று எழுத வேண்டும் (நேரம், time). 間-ல் வாசலுக்குள் (門) 日 உள்ளது. 問-ல் 口, 聞-ல் 耳 உள்ளன. 持 (பிடித்தல்)-ன் இடப்பக்கம் கை உள்ளது, 日 அல்ல."
+    },
+    {
+      "id": "KX-q30",
+      "type": "orthography",
+      "sentence": "きのう 父に てがみを ＿かきました＿。",
+      "target": "かきました",
+      "options": ["昼きました", "書きました", "画きました", "暑きました"],
+      "answer": 1,
+      "explanation_en": "かきました is written 書きました (எழுதினேன், wrote). 書 has a brush (聿) on top. 昼 (noon) and 暑 (hot) look a little like it, but their meanings are different.",
+      "explanation_ta": "かきました என்பதை 書きました என்று எழுத வேண்டும் (எழுதினேன், wrote). 書-வின் மேலே ஒரு தூரிகை (聿) உள்ளது. 昼 (மதியம்), 暑 (வெப்பம்) சற்று ஒன்றுபோல் இருந்தாலும் அர்த்தம் வேறு."
+    }
+  ]
+}
