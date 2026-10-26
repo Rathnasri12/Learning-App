@@ -1,69 +1,69 @@
 {
   "lesson": 14,
-  "intro_en": "This is the most important lesson in the N5 course. First you will learn to sort Japanese verbs into three groups; then you will study the rules for making the て-form from each group. The て-form is like Tamil verbal participles such as \"having done\" (செய்து) and \"having seen\" (பார்த்து). With it you will learn to say \"please do ~\" and \"I am doing ~ now\". You will also practise giving directions in a taxi, asking for help, and offering help with \"shall I do it?\".",
+  "intro_en": "This is the most important lesson in the N5 course. First you will learn to sort Japanese verbs into three groups. Then you will learn the rules for making the て-form for each group. The て-form is like Tamil verb forms such as \"having done\" (செய்து) and \"having seen\" (பார்த்து). With it you will learn to say \"please do ~\" and \"I am doing ~ now\". You will also practise giving directions in a taxi. You will ask for help, and offer help with \"shall I do it?\".",
   "grammar": {
     "g14-1": {
-      "explanation_en": "Just as Tamil verbs change in different ways by type, such as \"do\" (செய், செய்தேன், I did), \"read\" (படி, படித்தேன், I read) and \"go\" (போ, போனேன், I went), Japanese verbs are divided into three groups based on how they change. So far you have only learned the ます-form; you can find the group just by looking at the kana before ます. Group I: an い-row kana before ます (い、き、し、ち、に、び、み、り): 買います、書きます、消します、待ちます、呼びます、飲みます、曲がります. Group II: an え-row kana before ます (え、け、せ、て、べ、め、れ…): 食べます、開けます、閉めます、見せます、つけます; plus some verbs with an い-row kana: 見ます、起きます、借ります、います. Group III: only two irregular verbs: します (including every 〜します, such as コピーします and 勉強します) and 来ます. The い-row verbs in Group II are exceptions, so memorise them separately; otherwise this rule works almost every time.",
-      "tamil_parallel_en": "Just as Tamil verbal participles change by verb type (செய் → செய்து \"having done\", படி → படித்து \"having read\", போ → போய் \"having gone\"), the Japanese て-form changes by verb group.",
+      "explanation_en": "Tamil verbs change in different ways, by type. For example: \"do\" (செய், செய்தேன், I did), \"read\" (படி, படித்தேன், I read) and \"go\" (போ, போனேன், I went). Japanese verbs are also put into three groups, by how they change. So far you only know the ます-form. You can find the group by looking at the kana just before ます. Group I has an い-row kana before ます (い、き、し、ち、に、び、み、り). For example: 買います、書きます、消します、待ちます、呼びます、飲みます、曲がります. Group II has an え-row kana before ます (え、け、せ、て、べ、め、れ…). For example: 食べます、開けます、閉めます、見せます、つけます. Group II also has some verbs with an い-row kana: 見ます、起きます、借ります、います. Group III has only two special verbs. One is します. This includes every 〜します, like コピーします and 勉強します. The other is 来ます. The い-row verbs in Group II break the rule. Learn them by heart. Apart from them, this rule works almost every time.",
+      "tamil_parallel_en": "Tamil verb forms change by verb type (செய் → செய்து \"having done\", படி → படித்து \"having read\", போ → போய் \"having gone\"). In the same way, the Japanese て-form changes by verb group.",
       "formation_en": "Group I (い-row before ます): かいます、かきます、けします、まちます、よびます、のみます、まがります、とまります、ふります、きります\nGroup II (え-row before ます): たべます、あけます、しめます、みせます、つけます、かけます\n   + exceptions (い-row but Group II): みます、おきます、かります、います\nGroup III (irregular): します (コピーします、べんきょうします …)、きます (来ます)\nNote: きります (to cut) and かえります (to return) are Group I; かります (to borrow) is Group II.",
-      "pitfalls_en": "Don't decide a verb is Group I just because there is an い-row kana before ます: 見ます, 起きます, 借ります and います are Group II. Likewise, 切ります and 帰ります look like they end in いる, but they are Group I."
+      "pitfalls_en": "An い-row kana before ます does not always mean Group I. 見ます, 起きます, 借ります and います are Group II. Also, 切ります and 帰ります look like they end in いる. But they are Group I."
     },
     "g14-2": {
-      "explanation_en": "The て-form is like a Tamil verbal participle (செய்து \"having done\", வாங்கி \"having bought\", குடித்து \"having drunk\"). It doesn't end a sentence by itself; it gets its meaning when ください, います and so on are added after it. Group II is very easy: remove ます and add て: 食べます → 食べて, 開けます → 開けて, 見ます → 見て. Group III: します → して, 来ます → 来て (きて). In Group I, the sound changes depending on the kana before ます: い・ち・り → って (買って、待って、曲がって); み・び・に → んで (飲んで、呼んで); き → いて (書いて); ぎ → いで (泳いで); し → して (消して). There is only one exception: 行きます → 行って (not いいて). These changes exist to make pronunciation easier, just like the sound change in Tamil (படி + து → படித்து). Memorise them as a little song: \"いちり って、みびに んで、き いて、ぎ いで、し して\".",
-      "tamil_parallel_en": "வாங்கு → வாங்கி \"having bought\" (買う → 買って), குடி → குடித்து \"having drunk\" (飲む → 飲んで), சாப்பிடு → சாப்பிட்டு \"having eaten\" (食べる → 食べて). The Tamil verbal participle corresponds to the Japanese て-form.",
+      "explanation_en": "The て-form is like a Tamil verb form (செய்து \"having done\", வாங்கி \"having bought\", குடித்து \"having drunk\"). It doesn’t end a sentence by itself. It gets its meaning from words added after it, like ください or います. Group II is very easy. Remove ます and add て: 食べます → 食べて, 開けます → 開けて, 見ます → 見て. Group III: します → して, 来ます → 来て (きて). In Group I, the sound changes. It depends on the kana before ます. い・ち・り → って (買って、待って、曲がって). み・び・に → んで (飲んで、呼んで). き → いて (書いて). ぎ → いで (泳いで). し → して (消して). There is only one exception: 行きます → 行って (not いいて). These changes make the words easier to say. Tamil has sound changes like this too (படி + து → படித்து). Learn them as a little song: \"いちり って、みびに んで、き いて、ぎ いで、し して\".",
+      "tamil_parallel_en": "வாங்கு → வாங்கி \"having bought\" (買う → 買って), குடி → குடித்து \"having drunk\" (飲む → 飲んで), சாப்பிடு → சாப்பிட்டு \"having eaten\" (食べる → 食べて). The Tamil verb form matches the Japanese て-form.",
       "formation_en": "Group I (look at the kana before ます):\n  い・ち・り → って : かいます → かって、まちます → まって、まがります → まがって、とまります → とまって、ふります → ふって、きります → きって\n  み・び・に → んで : のみます → のんで、よびます → よんで、よみます → よんで、あそびます → あそんで\n  き → いて : かきます → かいて、ききます → きいて、あるきます → あるいて\n  ぎ → いで : およぎます → およいで\n  し → して : けします → けして、かします → かして\n  Exception : いきます → いって\nGroup II (ます → て): たべます → たべて、あけます → あけて、しめます → しめて、みせます → みせて、つけます → つけて、かけます → かけて、みます → みて、おきます → おきて\nGroup III: します → して (コピーします → コピーして)、きます → きて",
-      "pitfalls_en": "In Group I, removing ます and adding て directly (のみて、まちて) is the mistake Tamil speakers make most often. Be careful with \"listen\" (聞きます → 聞いて) and \"come\" (来ます → 来て), because きいて and きて sound alike."
+      "pitfalls_en": "Tamil speakers most often make this mistake in Group I. They remove ます and just add て (のみて、まちて). That is wrong. Be careful with \"listen\" (聞きます → 聞いて) and \"come\" (来ます → 来て). きいて and きて sound alike."
     },
     "g14-3": {
-      "explanation_en": "Adding ください after the て-form makes a polite request, \"please do ~\": 待ってください = \"please wait\". It is the exact equivalent of the polite Tamil ending (-ங்கள், as in காத்திருங்கள், please wait, or திறங்கள், please open). In Lesson 13 you learned \"N を ください\" (please give me a thing); here it is \"V て ください\" (please do an action). It is very useful for giving directions in a taxi: まっすぐ行ってください、次の角を右へ曲がってください、ここで止まってください. To soften it, you can add すみません or ちょっと in front. A teacher can say it to a student, or a customer to a driver, but said to a superior it can sound a little like an order.",
-      "tamil_parallel_en": "ஜன்னலைத் திறங்கள் (\"Please open the window\") = 窓を開けてください. 開けて matches Tamil திறந்து (\"having opened\"), and ください means தாருங்கள் (\"give\"), so together they mean \"please do it\", like Tamil -ங்கள்.",
+      "explanation_en": "Add ください after the て-form to ask politely: \"please do ~\". 待ってください = \"please wait\". It is the same as the polite Tamil ending (-ங்கள், as in காத்திருங்கள், please wait, or திறங்கள், please open). In Lesson 13 you learned N を ください (please give me a thing). Here it is V て ください (please do something). It is very useful for giving directions in a taxi: まっすぐ行ってください、次の角を右へ曲がってください、ここで止まってください. To make it softer, you can add すみません or ちょっと in front. A teacher can say it to a student. A customer can say it to a driver. But if you say it to your boss or someone above you, it can sound a little like an order.",
+      "tamil_parallel_en": "ஜன்னலைத் திறங்கள் (\"Please open the window\") = 窓を開けてください. 開けて matches Tamil திறந்து (\"having opened\"). ください means தாருங்கள் (\"give\"). Together they mean \"please do it\", like Tamil -ங்கள்.",
       "formation_en": "V て-form + ください\n待ちます → 待って + ください; 開けます → 開けて + ください; コピーします → コピーして + ください; 来ます → 来て + ください",
-      "pitfalls_en": "Adding ください to the ます-form, as in 待ちますください, is wrong; always use the て-form. Don't mix up \"N を ください\" (for a thing) and \"V て ください\" (for an action)."
+      "pitfalls_en": "Don’t add ください to the ます-form. 待ちますください is wrong. Always use the て-form. Don’t mix up N を ください (for a thing) and V て ください (for an action)."
     },
     "g14-4": {
-      "explanation_en": "Adding います after the て-form gives the meaning \"an action happening right now\": 今テープを聞いています = \"I am listening to a tape now\". This is an exact match for the Tamil structure (கேட்டு + கொண்டு + இருக்கிறேன், I am listening); Tamil also uses a verbal participle (கேட்டு) + \"am\" (இருக்கிறேன்). います is the same word for \"to be / exist\" you learned in Lesson 10. It changes just like the ます-form: past ていました (\"was doing\"), negative ていません, question ていますか. It often appears with 今 (now). (ています for a state, as in 知っています and 住んでいます, comes in the next lesson.)",
-      "tamil_parallel_en": "இப்போது டேப் கேட்டுக்கொண்டிருக்கிறேன் (\"I am listening to a tape now\") = 今テープを聞いています. 聞いて matches Tamil கேட்டு (\"having listened\") and います matches இருக்கிறேன் (\"am\").",
+      "explanation_en": "Add います after the て-form for an action happening right now. 今テープを聞いています = \"I am listening to a tape now\". Tamil has the same pattern (கேட்டு + கொண்டு + இருக்கிறேன், I am listening). Tamil also uses a verb form (கேட்டு) + \"am\" (இருக்கிறேன்). います is the same word for \"to be / to exist\" from Lesson 10. It changes like the ます-form. \"Was doing\" is ていました. \"Not doing\" is ていません. The question is ていますか. You will often see it with 今 (now). ています can also show a state, as in 知っています and 住んでいます. You will learn that in the next lesson.",
+      "tamil_parallel_en": "இப்போது டேப் கேட்டுக்கொண்டிருக்கிறேன் (\"I am listening to a tape now\") = 今テープを聞いています. 聞いて matches Tamil கேட்டு (\"having listened\"). います matches இருக்கிறேன் (\"am\").",
       "formation_en": "V て-form + います (present)\nV て + いません (negative) / V て + いました (past) / V て + いますか (question)\n今 何を していますか: 今 〜て います",
-      "pitfalls_en": "Adding います to the ます-stem, as in 聞きています, is wrong; use the て-form (聞いています). In speech you may hear い dropped, as in 聞いてます, but in writing use the full form."
+      "pitfalls_en": "Don’t add います to the ます-stem. 聞きています is wrong. Use the て-form: 聞いています. When people talk, they sometimes drop い, as in 聞いてます. But when you write, use the full form."
     },
     "g14-5": {
-      "explanation_en": "In Lesson 6 you learned ましょう (\"let's do ~\"). Adding か after it makes an offer of help, \"shall I do ~ for you?\": 窓を開けましょうか = \"Shall I open the window?\". It is equivalent to the Tamil ending \"shall I\" (-அட்டுமா, as in திறக்கட்டுமா?, shall I open?, and கூப்பிடட்டுமா?, shall I call?). Because it comes from the ます-form, you don't need the て-form: 呼びます → 呼びましょうか. To accept, say ええ、お願いします (\"yes, please\") or ええ、〜てください; to decline, say いいえ、いいです (\"no, it's fine\"). Since you are offering to do something yourself, it is a polite, kind sentence, just like asking a guest \"Shall I make coffee?\" in Tamil (காபி போடட்டுமா?).",
+      "explanation_en": "In Lesson 6 you learned ましょう (\"let’s do ~\"). Add か after it to offer help: \"shall I do ~ for you?\". 窓を開けましょうか = \"Shall I open the window?\". It is the same as the Tamil ending for \"shall I\" (-அட்டுமா, as in திறக்கட்டுமா?, shall I open?, and கூப்பிடட்டுமா?, shall I call?). It comes from the ます-form, so you don’t need the て-form: 呼びます → 呼びましょうか. To say yes, say ええ、お願いします (\"yes, please\") or ええ、〜てください. To say no, say いいえ、いいです (\"no, it’s fine\"). You are offering to do something yourself. So it is a polite, kind sentence. In Tamil you might ask a guest \"Shall I make coffee?\" (காபி போடட்டுமா?). It is just like that.",
       "tamil_parallel_en": "டாக்ஸியைக் கூப்பிடட்டுமா? (\"Shall I call a taxi?\") = タクシーを呼びましょうか. ましょうか matches Tamil -அட்டுமா (\"shall I?\").",
       "formation_en": "V ます-stem + ましょうか\n開けます → 開けましょうか; 呼びます → 呼びましょうか; コピーします → コピーしましょうか\nAnswer: ええ、お願いします。/ ええ、〜てください。/ いいえ、いいです。",
-      "pitfalls_en": "Don't attach ましょうか to the て-form (開けてましょうか is wrong). \"Shall I do it?\" (ましょうか) and \"let's do it\" (ましょう) have different meanings."
+      "pitfalls_en": "Don’t add ましょうか to the て-form. 開けてましょうか is wrong. \"Shall I do it?\" (ましょうか) and \"let’s do it\" (ましょう) mean different things."
     },
     "g14-6": {
-      "explanation_en": "When you describe a natural event like rain or snow exactly as you see it, the event takes が, not は: 雨が降っています = \"It is raining\". It is like Tamil \"rain falls\" (மழை பெய்கிறது), where \"rain\" is the subject; in Japanese, a subject that is new information takes が. 降る (ふる = to fall) is used for both rain and snow: 雪が降っています. Use ています (g14-4) for what is happening now, ます for general facts or the future, and ました for the past. \"It rained yesterday\" = 昨日は雨が降りました: here 昨日 is the topic (は) and 雨 is the subject (が).",
-      "tamil_parallel_en": "மழை பெய்துகொண்டிருக்கிறது (\"It is raining\") = 雨が降っています. が marks the subject like Tamil மழை, 降って matches பெய்து (\"having fallen\"), and います matches கொண்டிருக்கிறது (\"is ~ing\").",
+      "explanation_en": "Sometimes you describe rain or snow just as you see it. Then the rain or snow takes が, not は. 雨が降っています = \"It is raining\". It is like Tamil \"rain falls\" (மழை பெய்கிறது). There, \"rain\" is the subject (the thing that does the action). In Japanese, a subject that is new information takes が. 降る (ふる = to fall) is used for both rain and snow: 雪が降っています. Use ています (g14-4) for what is happening now. Use ます for general facts or the future. Use ました for the past. \"It rained yesterday\" = 昨日は雨が降りました. Here 昨日 is the topic (は), and 雨 is the subject (が).",
+      "tamil_parallel_en": "மழை பெய்துகொண்டிருக்கிறது (\"It is raining\") = 雨が降っています. が marks the subject like Tamil மழை. 降って matches பெய்து (\"having fallen\"). います matches கொண்டிருக்கிறது (\"is ~ing\").",
       "formation_en": "雨 / 雪 + が + 降ります / 降っています / 降りました\n(time) + は + 雨 + が + 降ります",
-      "pitfalls_en": "When describing something happening in front of you, the natural form is 雨が (not 雨は). To say \"it rains\", don't say 雨をします or 雨です; use the verb 降ります."
+      "pitfalls_en": "When something is happening in front of you, say 雨が, not 雨は. To say \"it rains\", don’t say 雨をします or 雨です. Use the verb 降ります."
     }
   },
   "items": {
-    "L14-q01": "地図 = ちず (வரைபடம், map). ちづ and じず are misspellings; the correct kana is ず.",
-    "L14-q02": "A street corner = かど (முனை, corner). かく is another (Chinese-origin) reading of 角; on its own, meaning \"corner\", it is かど.",
-    "L14-q03": "地下鉄 = ちかてつ (சுரங்க ரயில், subway). ちかでつ is a mistake with て changed to で.",
-    "L14-q04": "Closing a window or door = 閉める (மூடுதல், to close). 締める means to tighten, fasten or lock; the sound is the same but the meaning is different.",
-    "L14-q05": "To wait = 待つ → 待って (காத்திருங்கள், wait). 持って (to hold) uses a look-alike kanji: 待 has 彳, while 持 has 扌.",
-    "L14-q06": "Since the person is going to sleep, the radio must be turned off → 消して (அணைத்து, turn off). つけて (ஆன் செய், turn on) is the opposite.",
-    "L14-q07": "If you don't understand, \"please read slowly\" → ゆっくり (மெதுவாக, slowly). まっすぐ (நேராக, straight) is only for giving directions.",
-    "L14-q08": "\"Turn\" left at the corner → 曲がって (திரும்புங்கள், turn). 止まって (நில்லுங்கள், stop) doesn't fit with 角を 左へ.",
+    "L14-q01": "地図 = ちず (வரைபடம், map). ちづ and じず are spelled wrong. The right kana is ず.",
+    "L14-q02": "A street corner = かど (முனை, corner). かく is another reading of 角, from Chinese. On its own, meaning \"corner\", it is かど.",
+    "L14-q03": "地下鉄 = ちかてつ (சுரங்க ரயில், subway). ちかでつ is wrong because て is changed to で.",
+    "L14-q04": "Closing a window or door = 閉める (மூடுதல், to close). 締める means to tighten, fasten or lock. It sounds the same, but the meaning is different.",
+    "L14-q05": "To wait = 待つ → 待って (காத்திருங்கள், wait). 持って (to hold) has a kanji that looks similar. 待 has 彳, but 持 has 扌.",
+    "L14-q06": "The person is going to sleep, so the radio must be turned off → 消して (அணைத்து, turn off). つけて (ஆன் செய், turn on) is the opposite.",
+    "L14-q07": "If you don’t understand, you say \"please read slowly\" → ゆっくり (மெதுவாக, slowly). まっすぐ (நேராக, straight) is only for directions.",
+    "L14-q08": "\"Turn\" left at the corner → 曲がって (திரும்புங்கள், turn). 止まって (நில்லுங்கள், stop) doesn’t fit with 角を 左へ.",
     "L14-q09": "Making a phone call = 電話をかける (போன் செய்தல், to phone). 切る means to hang up the phone.",
     "L14-q10": "When giving directions, \"go straight\" = まっすぐ行ってください (நேராகப் போங்கள்). すぐに (உடனே, right away) is about time, not direction.",
-    "L14-q11": "\"A bigger one\" = もっと大きいの (இன்னும் பெரியது). ゆっくり (மெதுவாக, slowly) doesn't go with adjectives.",
-    "L14-q12": "\"It is raining now\" (இப்போது மழை பெய்துகொண்டிருக்கிறது) = 今雨です. 昨日雨でした is past; 雪 is snow (பனி).",
-    "L14-q13": "開けましょうか = \"Shall I open it?\" (நான் திறக்கட்டுமா?) → 私が開けますよ。いいですか. 開けてください would mean asking the other person to open it, so the doer is different.",
+    "L14-q11": "\"A bigger one\" = もっと大きいの (இன்னும் பெரியது). ゆっくり (மெதுவாக, slowly) doesn’t go with adjectives.",
+    "L14-q12": "\"It is raining now\" (இப்போது மழை பெய்துகொண்டிருக்கிறது) = 今雨です. 昨日雨でした is past. 雪 is snow (பனி).",
+    "L14-q13": "開けましょうか = \"Shall I open it?\" (நான் திறக்கட்டுமா?) → 私が開けますよ。いいですか. 開けてください asks the other person to open it. So the person who does it is different.",
     "L14-q14": "すぐに (உடனே, right away) ≈ 今 (இப்போதே, right now). ゆっくり (மெதுவாக, slowly) is the opposite.",
-    "L14-q15": "待ちます: ち → って → 待って (காத்திருந்து, wait). 待ちて is the mistake of removing ます and adding て directly.",
-    "L14-q16": "飲みます: み → んで → 飲んで (குடித்து, drink). 飲って wrongly applies the い・ち・り rule.",
+    "L14-q15": "待ちます: ち → って → 待って (காத்திருந்து, wait). 待ちて is wrong. It just removes ます and adds て.",
+    "L14-q16": "飲みます: み → んで → 飲んで (குடித்து, drink). 飲って is wrong. It uses the い・ち・り rule by mistake.",
     "L14-q17": "書きます: き → いて → 書いて (எழுதி, write). The only exception is 行きます (行って).",
-    "L14-q18": "\"What are you doing now?\": the answer uses ています: 聞いています (கேட்டுக்கொண்டிருக்கிறேன், I'm listening). Adding います to the ます-stem, as in 聞きています, is wrong.",
-    "L14-q19": "The reply is \"yes, please\", so the question is an offer of help: 開けましょうか (திறக்கட்டுமா?, shall I open it?). After 開けてください, the reply お願いします wouldn't fit.",
-    "L14-q20": "When describing a natural event, the subject takes が: 雪が降っています (பனி பெய்துகொண்டிருக்கிறது, it is snowing). を is the object particle, and 降る has no object.",
-    "L14-q21": "行きます is the exception: its て-form is 行って (போய், go). Following the き → いて rule to say 行いて is wrong.",
+    "L14-q18": "\"What are you doing now?\" The answer uses ています: 聞いています (கேட்டுக்கொண்டிருக்கிறேன், I’m listening). 聞きています is wrong. It adds います to the ます-stem.",
+    "L14-q19": "The reply is \"yes, please\". So the question offers help: 開けましょうか (திறக்கட்டுமா?, shall I open it?). After 開けてください, the reply お願いします wouldn’t fit.",
+    "L14-q20": "When you describe rain or snow, the subject takes が: 雪が降っています (பனி பெய்துகொண்டிருக்கிறது, it is snowing). を marks the thing you act on. 降る doesn’t act on anything, so を is wrong.",
+    "L14-q21": "行きます is the exception. Its て-form is 行って (போய், go). 行いて is wrong. It follows the き → いて rule by mistake.",
     "L14-q22": "次の角を (அடுத்த முனையில், at the next corner) → 右へ (வலது பக்கம், to the right) → 曲がって → ください.",
     "L14-q23": "駅の前で (ஸ்டேஷன் முன்னால், in front of the station) → 友達を → 待って → います. て-form + います = is doing (செய்துகொண்டிருக்கிறேன்).",
     "L14-q24": "雨が降っていますから (மழை பெய்வதால், because it is raining) → タクシーを呼びましょうか (டாக்ஸியைக் கூப்பிடட்டுமா?, shall I call a taxi?).",
-    "L14-q25": "[1] The て-form of 行きます is 行って (போய், go), an exception. [2] Something happening now → 降っています (பெய்துகொண்டிருக்கிறது, is falling). [3] 止まります: り → って → 止まって (நில்லுங்கள், stop)."
+    "L14-q25": "[1] The て-form of 行きます is 行って (போய், go). It is an exception. [2] It is happening now → 降っています (பெய்துகொண்டிருக்கிறது, is falling). [3] 止まります: り → って → 止まって (நில்லுங்கள், stop)."
   }
 }

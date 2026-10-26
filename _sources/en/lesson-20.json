@@ -1,75 +1,75 @@
 {
   "lesson": 20,
-  "intro_en": "So far you have spoken only in the polite です / ます style. In this lesson you will learn the plain style (普通形) used with friends, family and people younger than you. It is like the difference in Tamil between \"நீங்கள் வருகிறீர்களா?\" (are you coming? polite) and \"நீ வர்றியா?\" (you coming? casual). You will learn the four plain forms (present/past × positive/negative) of verbs, い-adjectives, な-adjectives and nouns, how to ask questions, けど (but), and dropping particles in speech, always comparing them side by side with the polite forms.",
+  "intro_en": "Until now you have spoken only in the polite です / ます style. In this lesson you will learn the plain style (普通形). You use it with friends, family and people younger than you. Tamil has the same kind of difference. Compare \"நீங்கள் வருகிறீர்களா?\" (are you coming? polite) and \"நீ வர்றியா?\" (you coming? casual). You will learn the four plain forms of verbs, い-adjectives, な-adjectives and nouns. The four forms are: present yes, present not, past yes, past not. You will also learn how to ask questions, けど (but), and dropping small words like を in speech. You will always see the plain forms next to the polite forms.",
   "grammar": {
     "g20-1": {
-      "explanation_en": "Japanese has two speech styles: (1) 丁寧形, the polite です / ます style, used with teachers, superiors, people you meet for the first time, shopkeepers and so on. (2) 普通形, the plain style, used with close friends, family and people younger than you, and also in diaries and some writing. It is just like the difference between \"நீங்கள்\" and \"நீ\" in Tamil, as in \"நீங்கள் சாப்பிட்டீர்களா?\" vs \"நீ சாப்பிட்டியா?\" (have you eaten? polite vs casual), so the idea is already familiar to Tamil speakers. The meaning doesn't change; only the closeness of the relationship changes. If in doubt, use the polite style; speaking plainly to a stranger sounds rude. Also, from Lesson 21 on, the plain form is required inside patterns such as 〜と思います and 〜時, so this lesson is very important.",
+      "explanation_en": "Japanese has two ways of speaking. (1) 丁寧形 is the polite です / ます style. You use it with teachers, your boss, people you meet for the first time, shop staff and so on. (2) 普通形 is the plain style. You use it with close friends, family and people younger than you. It is also used in diaries and some writing. It is just like \"நீங்கள்\" and \"நீ\" in Tamil. Compare \"நீங்கள் சாப்பிட்டீர்களா?\" and \"நீ சாப்பிட்டியா?\" (have you eaten? polite and casual). So Tamil speakers already know this idea. The meaning stays the same. Only how close you are to the person changes. If you are not sure, use the polite style. Plain speech to a stranger sounds rude. Also, from Lesson 21, you need the plain form inside patterns like 〜と思います and 〜時. So this lesson is very important.",
       "tamil_parallel_en": "Like the Tamil நீங்கள் / நீ split: நீங்கள் நாளை வருகிறீர்களா? (\"will you come tomorrow?\", polite) / நீ நாளைக்கு வர்றியா? (\"you coming tomorrow?\", casual) = 明日来ますか。／明日来る？",
       "formation_en": "Polite style (丁寧形): 〜ます / 〜です: teachers, superiors, strangers ; Plain style (普通形): dictionary form / ない / た / なかった, adjective + (だ): friends, family, younger people",
-      "pitfalls_en": "It is better not to mix polite and plain styles in the same conversation. Asking a teacher わかった？ is like calling your teacher \"நீ\" (casual \"you\") in Tamil."
+      "pitfalls_en": "Try not to mix the polite and plain styles in one talk. Asking a teacher わかった？ is like calling your teacher \"நீ\" (casual \"you\") in Tamil."
     },
     "g20-2": {
-      "explanation_en": "A verb has four polite forms: ます / ません / ました / ませんでした. Each has a plain partner, and you have already learned three of them: ます → dictionary form (Lesson 18), ません → ない-form (Lesson 17), ました → た-form (Lesson 19). Only one is new: ませんでした → なかった. Because ない behaves like an い-adjective, ない → なかった, just like 寒い → 寒かった (行かない → 行かなかった). These are like the shortened spoken Tamil forms \"போகிறேன் → போறேன்\" (I go), \"போனேன் → போனேன்\" (I went), \"போகவில்லை → போகல\" (didn't go). The plain forms of あります are ある / ない / あった / なかった.",
-      "tamil_parallel_en": "Like the four basic Tamil verb forms: போகிறேன் / போகவில்லை / போனேன் / போகவில்லை (past) (\"go / don't go / went / didn't go\") = 行く / 行かない / 行った / 行かなかった.",
+      "explanation_en": "A verb has four polite forms: ます / ません / ました / ませんでした. Each one has a plain partner. You already know three of them. ます → dictionary form (Lesson 18). ません → ない-form (Lesson 17). ました → た-form (Lesson 19). Only one is new: ませんでした → なかった. ない works like an い-adjective. So ない → なかった, just like 寒い → 寒かった (行かない → 行かなかった). These are like the short spoken Tamil forms. For example, \"போகிறேன் → போறேன்\" (I go), \"போனேன் → போனேன்\" (I went), \"போகவில்லை → போகல\" (didn’t go). The plain forms of あります are ある / ない / あった / なかった.",
+      "tamil_parallel_en": "Like the four basic Tamil verb forms: போகிறேன் / போகவில்லை / போனேன் / போகவில்லை (past) (\"go / don’t go / went / didn’t go\") = 行く / 行かない / 行った / 行かなかった.",
       "formation_en": "Polite → plain: ます→dictionary (行きます→行く) ; ません→ない (行きません→行かない) ; ました→た (行きました→行った) ; ませんでした→なかった (行きませんでした→行かなかった). Group I 書く: 書く・書かない・書いた・書かなかった / Group II 食べる: 食べる・食べない・食べた・食べなかった / Group III する: する・しない・した・しなかった ; 来る: 来る(くる)・来ない(こない)・来た(きた)・来なかった(こなかった) / ある: ある・ない・あった・なかった",
-      "pitfalls_en": "The plain form of ありません is not ×あらない but ○ない. 来なかった = こなかった (not きなかった). Don't combine ない + でした as in ×行かないでした; it is ○行かなかった."
+      "pitfalls_en": "The plain form of ありません is not ×あらない. It is ○ない. 来なかった is read こなかった (not きなかった). Don’t put ない and でした together, like ×行かないでした. It is ○行かなかった."
     },
     "g20-3": {
-      "explanation_en": "The plain style for い-adjectives is very easy: just drop です from the polite form. 大きいです → 大きい、大きくないです → 大きくない、大きかったです → 大きかった、大きくなかったです → 大きくなかった. You already learned these forms in Lessons 8 and 12, so there is nothing new to memorise; です is only a polite decoration. It is like shortening \"பெரியதாக இருக்கிறது\" (it is big) to \"பெருசு\" (big) in spoken Tamil. For いい: いい / よくない / よかった / よくなかった. Don't add だ after an い-adjective (×大きいだ).",
-      "tamil_parallel_en": "Like the four Tamil forms of an adjective: பெரிது / பெரிதில்லை / பெரிதாக இருந்தது / பெரிதாக இல்லை (\"big / not big / was big / wasn't big\") = 大きい / 大きくない / 大きかった / 大きくなかった.",
+      "explanation_en": "The plain style for い-adjectives is very easy. Just drop です from the polite form. 大きいです → 大きい、大きくないです → 大きくない、大きかったです → 大きかった、大きくなかったです → 大きくなかった. You learned these forms in Lessons 8 and 12. So there is nothing new to learn. です only makes it polite. It is like making \"பெரியதாக இருக்கிறது\" (it is big) short, as \"பெருசு\" (big), in spoken Tamil. For いい: いい / よくない / よかった / よくなかった. Don’t add だ after an い-adjective (×大きいだ).",
+      "tamil_parallel_en": "Like the four Tamil forms of an adjective: பெரிது / பெரிதில்லை / பெரிதாக இருந்தது / பெரிதாக இல்லை (\"big / not big / was big / wasn’t big\") = 大きい / 大きくない / 大きかった / 大きくなかった.",
       "formation_en": "Drop です: 大きいです→大きい ; 大きくないです→大きくない ; 大きかったです→大きかった ; 大きくなかったです→大きくなかった. いい: いい・よくない・よかった・よくなかった. つまらない: つまらない・つまらなくない・つまらなかった・つまらなくなかった",
-      "pitfalls_en": "Don't put だ after an い-adjective, as in ×可愛いだ or ×寒いだ. The past of いい is not ×いかった but ○よかった."
+      "pitfalls_en": "Don’t put だ after an い-adjective, like ×可愛いだ or ×寒いだ. The past of いい is not ×いかった. It is ○よかった."
     },
     "g20-4": {
-      "explanation_en": "な-adjectives and nouns change in the same way: です → だ、じゃありません → じゃない、でした → だった、じゃありませんでした → じゃなかった. The plain partner of です is だ. But in speech, especially in questions or before ね / よ, and when women or anyone is speaking softly, だ is often dropped: 元気？ (how are you?), きれいね. Don't put だ in a question (×元気だ？). Because じゃない changes like an い-adjective, its past is じゃなかった. These match the four Tamil forms \"மாணவன் தான்\" (is a student) / \"மாணவன் இல்லை\" (is not a student) / \"மாணவனாக இருந்தான்\" (was a student) / \"மாணவனாக இல்லை\" (was not a student).",
-      "tamil_parallel_en": "Like the four Tamil forms: ஓய்வு தான் / ஓய்வு இல்லை / ஓய்வாக இருந்தது / ஓய்வாக இல்லை (\"free / not free / was free / wasn't free\") = 暇だ / 暇じゃない / 暇だった / 暇じゃなかった.",
+      "explanation_en": "な-adjectives and nouns change in the same way: です → だ、じゃありません → じゃない、でした → だった、じゃありませんでした → じゃなかった. The plain partner of です is だ. But in speech, だ is often dropped. This happens in questions and before ね / よ. It also happens when women speak, or when anyone speaks softly. For example, 元気？ (how are you?) and きれいね. Don’t put だ in a question (×元気だ？). じゃない changes like an い-adjective. So its past is じゃなかった. These match the four Tamil forms. \"மாணவன் தான்\" (is a student) / \"மாணவன் இல்லை\" (is not a student) / \"மாணவனாக இருந்தான்\" (was a student) / \"மாணவனாக இல்லை\" (was not a student).",
+      "tamil_parallel_en": "Like the four Tamil forms: ஓய்வு தான் / ஓய்வு இல்லை / ஓய்வாக இருந்தது / ஓய்வாக இல்லை (\"free / not free / was free / wasn’t free\") = 暇だ / 暇じゃない / 暇だった / 暇じゃなかった.",
       "formation_en": "です→だ (暇です→暇だ、学生です→学生だ) ; じゃありません→じゃない ; でした→だった ; じゃありませんでした→じゃなかった. In questions and before ね/よ, だ is usually dropped (元気？、本当？)",
-      "pitfalls_en": "Don't add だ in a question as in ×暇だ？; say ○暇？. For a な-adjective, it is not ×静かくない but ○静かじゃない."
+      "pitfalls_en": "Don’t add だ in a question, like ×暇だ？. Say ○暇？. For a な-adjective, it is not ×静かくない. It is ○静かじゃない."
     },
     "g20-5": {
-      "explanation_en": "To ask a question in the plain style, drop か and raise your voice at the end of the sentence (written with ？): 行きますか → 行く？. Adding か in the plain style (行くか？) sounds harsh and masculine, so avoid it. Answers: はい → うん (yeah), いいえ → ううん (nope). It is just like raising your voice with the \"-ஆ\" ending in Tamil \"வர்றியா?\" (you coming?); in plain Japanese there is not even an ending, only your voice shows it is a question. For an invitation, 〜ませんか → ない-form + ？ (見ない？ = shall we watch it?). Questions with question words work the same way: どこへ行く？、何を食べた？",
-      "tamil_parallel_en": "Like Tamil casual questions with a rising \"-ஆ\" (Japanese uses only the rising voice): நாளைக்கு வர்றியா? — ஆமா, வர்றேன் (\"you coming tomorrow? Yeah, I'm coming\") = 明日来る？— うん、来る.",
+      "explanation_en": "To ask a question in the plain style, drop か. Make your voice go up at the end (you write ？): 行きますか → 行く？. Adding か in the plain style (行くか？) sounds rough, like a man talking hard. So don’t use it. For answers: はい → うん (yeah), いいえ → ううん (nope). It is like the voice going up with the \"-ஆ\" ending in Tamil \"வர்றியா?\" (you coming?). Plain Japanese doesn’t even have an ending. Only your voice shows it is a question. For an invitation, 〜ませんか → ない-form + ？ (見ない？ = shall we watch it?). Questions with question words work the same way: どこへ行く？、何を食べた？",
+      "tamil_parallel_en": "Like Tamil casual questions with the voice going up on \"-ஆ\" (Japanese uses only the voice going up): நாளைக்கு வர்றியா? — ஆமா, வர்றேன் (\"you coming tomorrow? Yeah, I’m coming\") = 明日来る？— うん、来る.",
       "formation_en": "Polite: 〜ますか / 〜ですか → Plain: dictionary/ない/た form + ？ (rising voice), な-adj/N + ？ (without だ) ; はい → うん、いいえ → ううん ; 〜ませんか (invitation) → 〜ない？",
-      "pitfalls_en": "In the plain style, use うん / ううん instead of はい / いいえ. Watch the length: ううん (no) vs うん (yes), like Tamil \"உம்\" (yes) / \"ஊஹூம்\" (no)."
+      "pitfalls_en": "In the plain style, use うん / ううん, not はい / いいえ. Listen for the length: ううん (no) and うん (yes). It is like Tamil \"உம்\" (yes) / \"ஊஹூம்\" (no)."
     },
     "g20-6": {
-      "explanation_en": "けど = \"but\". Like が (〜ですが) from Lesson 8, it joins two contrasting ideas, but it is used more in spoken language. It can come after a plain form (高いけど) or after a polite form (高いですけど). With a な-adjective or noun in the plain style, it is だけど (暇だけど). It matches the spoken Tamil \"ஆனா\" (but) in \"விலை அதிகம், ஆனா ரொம்ப நல்லா இருக்கு\" (it's expensive, but it's really good). It is also used to start something softly: ちょっと聞きたいけど… (I wanted to ask you something…).",
-      "tamil_parallel_en": "A direct match for spoken Tamil \"ஆனா\" (but): விலை அதிகம், ஆனா ரொம்ப ருசி (\"it's expensive, but really tasty\") = 高いけど、とてもおいしい.",
+      "explanation_en": "けど = \"but\". It is like が (〜ですが) from Lesson 8. It joins two ideas that go opposite ways. But people use it more when they speak. It can come after a plain form (高いけど). It can also come after a polite form (高いですけど). With a な-adjective or noun in the plain style, it is だけど (暇だけど). It is like spoken Tamil \"ஆனா\" (but). For example, \"விலை அதிகம், ஆனா ரொம்ப நல்லா இருக்கு\" (it’s expensive, but it’s really good). You also use it to start something softly: ちょっと聞きたいけど… (I wanted to ask you something…).",
+      "tamil_parallel_en": "Just like spoken Tamil \"ஆனா\" (but): விலை அதிகம், ஆனா ரொம்ப ருசி (\"it’s expensive, but really tasty\") = 高いけど、とてもおいしい.",
       "formation_en": "Plain form + けど (行くけど、高いけど、暇だけど、学生だけど) ; Polite: 〜ですが / 〜ますが ≈ 〜ですけど / 〜ますけど",
-      "pitfalls_en": "With a な-adjective or noun, it is not ×暇けど but ○暇だけど. けど does not give a reason; for a reason, use から."
+      "pitfalls_en": "With a な-adjective or noun, it is not ×暇けど. It is ○暇だけど. けど does not give a reason. For a reason, use から."
     },
     "g20-7": {
-      "explanation_en": "When talking with friends, particles such as は、を、へ and が are often dropped if the meaning is clear: ご飯を食べる？ → ご飯、食べる？; 私は行かない → 私、行かない; 学校へ行く → 学校、行く. Spoken Tamil does the same, dropping \"-ஐ\" in \"சாப்பாடு சாப்பிட்டியா?\" (did you eat food?) or shortening to \"நான் வரல\" (I'm not coming), so this feels natural to Tamil speakers. But で (place / tool)、に (time / destination)、から、まで and と are usually not dropped, because the meaning would change. In writing, in the polite style and in test answers, always write the particles correctly.",
-      "tamil_parallel_en": "Like dropping case endings in spoken Tamil: சாப்பாடு(ஐ) சாப்பிட்டியா? (\"did you eat (your) food?\") = ご飯(を)食べた？ ; நான் போகல (\"I'm not going\") = 私(は)行かない.",
+      "explanation_en": "Particles are small words like は、を、へ and が. When you talk with friends, people often drop them if the meaning is clear. ご飯を食べる？ → ご飯、食べる？. 私は行かない → 私、行かない. 学校へ行く → 学校、行く. Spoken Tamil does the same. It drops \"-ஐ\" in \"சாப்பாடு சாப்பிட்டியா?\" (did you eat food?). It also makes things short, like \"நான் வரல\" (I’m not coming). So this feels natural to Tamil speakers. But usually you don’t drop で (place / tool)、に (time / where you go)、から、まで and と. If you drop them, the meaning changes. In writing, in the polite style and in test answers, always write the particles correctly.",
+      "tamil_parallel_en": "Like dropping endings in spoken Tamil: சாப்பாடு(ஐ) சாப்பிட்டியா? (\"did you eat (your) food?\") = ご飯(を)食べた？ ; நான் போகல (\"I’m not going\") = 私(は)行かない.",
       "formation_en": "Can be dropped: は・を・へ・が (when the meaning is clear) ; Should not be dropped: で・に・から・まで・と ; Polite: ご飯を 食べましたか → Plain: ご飯、食べた？",
-      "pitfalls_en": "Dropping particles like で or に makes the meaning unclear: in バスで行く (I'll go by bus), で is required. When you see a sentence with a dropped particle in the test, fill in the missing particle in your head as you read."
+      "pitfalls_en": "If you drop particles like で or に, the meaning is not clear. In バスで行く (I’ll go by bus), you need で. In the test, you will see sentences with a dropped particle. As you read, add the missing particle in your head."
     }
   },
   "items": {
-    "L20-q01": "今朝 = けさ (இன்று காலை, this morning); this is a special reading. If you read 今 = いま and 朝 = あさ separately, you get the wrong answer いまあさ.",
-    "L20-q02": "天気 = てんき (வானிலை, weather). でんき is 電気 (மின்சாரம், electricity); watch the voicing mark.",
-    "L20-q03": "疲れる = つかれる (களைப்படைய, to get tired); its た-form is つかれた. Don't add voicing marks as in つがれた / づかれた.",
-    "L20-q04": "げんき = 元気 (நலம், well / healthy). 完 (かん) is a look-alike with 宀 on top; 汽 and 木 are sound / shape traps.",
-    "L20-q05": "ひま = 暇 (ஓய்வு, free time). 暖 (あたたかい) and 曜 (ようび) are look-alike kanji with 日 on the left; 眼 has 目 on the left.",
-    "L20-q06": "The reason you can't sleep is the noise (うるさい, சத்தமான). つまらない (சலிப்பான, boring) doesn't stop you sleeping.",
-    "L20-q07": "\"Not interesting at all\" (கொஞ்சம் கூட சுவாரசியமில்லை) = つまらない (சலிப்பான, boring). うるさい (சத்தமான, noisy) doesn't fit the meaning.",
-    "L20-q08": "\"I'll go out with my family\" (குடும்பத்துடன் வெளியே கிளம்புவேன்) = 出かける. 要る (தேவைப்பட, to need) doesn't fit with a place.",
-    "L20-q09": "\"What do you need?\" (என்ன தேவை?) = 何が要る？ (要る = いる, தேவைப்பட, to need). Don't confuse 要る with 居る (இருக்க, to exist, for living things); both are read いる, but 要る is Group I (要らない).",
-    "L20-q10": "Which of two: in the plain style, どっち (எது, which one; polite: どちら). どれ is for choosing among three or more.",
+    "L20-q01": "今朝 = けさ (இன்று காலை, this morning). This is a special reading. Don’t read each kanji alone, 今 = いま and 朝 = あさ. Then you get the wrong answer いまあさ.",
+    "L20-q02": "天気 = てんき (வானிலை, weather). でんき is 電気 (மின்சாரம், electricity). Look at the two dots.",
+    "L20-q03": "疲れる = つかれる (களைப்படைய, to get tired). Its た-form is つかれた. Don’t add two dots, like つがれた / づかれた.",
+    "L20-q04": "げんき = 元気 (நலம், well / healthy). 完 (かん) looks alike. It has 宀 on top. 汽 and 木 are traps. They sound or look alike.",
+    "L20-q05": "ひま = 暇 (ஓய்வு, free time). 暖 (あたたかい) and 曜 (ようび) look alike. They have 日 on the left. 眼 has 目 on the left.",
+    "L20-q06": "You can’t sleep because of the noise (うるさい, சத்தமான). つまらない (சலிப்பான, boring) doesn’t stop you sleeping.",
+    "L20-q07": "\"Not interesting at all\" (கொஞ்சம் கூட சுவாரசியமில்லை) = つまらない (சலிப்பான, boring). うるさい (சத்தமான, noisy) doesn’t fit the meaning.",
+    "L20-q08": "\"I’ll go out with my family\" (குடும்பத்துடன் வெளியே கிளம்புவேன்) = 出かける. 要る (தேவைப்பட, to need) doesn’t fit with a place.",
+    "L20-q09": "\"What do you need?\" (என்ன தேவை?) = 何が要る？ (要る = いる, தேவைப்பட, to need). Don’t mix up 要る with 居る (இருக்க, to exist, for living things). Both are read いる. But 要る is Group I (要らない).",
+    "L20-q10": "Which of two: in the plain style, say どっち (எது, which one; polite: どちら). どれ is for choosing from three or more.",
     "L20-q11": "I asked my elder brother for help = 頼んだ (கேட்டேன், the た-form of 頼む). 会った (சந்தித்தேன், met) does not take を.",
-    "L20-q12": "暇 (ஓய்வு, free) = 忙しくない (வேலை அதிகம் இல்லை, not busy). 休みじゃない (it's not a holiday) leans towards the opposite meaning.",
-    "L20-q13": "会わなかった = 会いませんでした (சந்திக்கவில்லை, didn't meet): plain → polite. 会いました is the opposite meaning.",
-    "L20-q14": "The plain question 本当？ = the polite 本当ですか (உண்மையா?, really?). 本当です without ？ is not a question but a statement.",
-    "L20-q15": "ううん (இல்லை, no) + tomorrow (future) = 行かない (போக மாட்டேன், won't go). 行かなかった is past and doesn't fit with \"tomorrow\".",
-    "L20-q16": "The plain past of an い-adjective: 寒い → 寒かった (குளிராக இருந்தது, was cold). 寒いだった / 寒いだ are wrong; don't add だ to an い-adjective.",
-    "L20-q17": "\"Yesterday\" calls for the past negative: 楽しく + なかった (மகிழ்ச்சியாக இல்லை, wasn't fun). じゃなかった is only for な-adjectives and nouns.",
-    "L20-q18": "The plain past of a な-adjective: 静か + だった (அமைதியாக இருந்தது, was quiet). 静かかった wrongly applies the い-adjective rule.",
-    "L20-q19": "The plain negative of a noun: 学生 + じゃない (மாணவன் இல்லை, not a student). 学生くない / 学生ない are wrong forms.",
-    "L20-q20": "Expensive ↔ tasty: the contrasting link \"but\" (ஆனால்) = けど. から (ஏனென்றால், because) gives a reason and doesn't fit.",
-    "L20-q21": "な-adjective + けど needs だ in the middle: 暇だけど (ஓய்வு தான், ஆனால், I'm free, but). 暇けど / 暇なけど are wrong.",
-    "L20-q22": "今晩 みんなで 映画 見ない？ A plain invitation: ない-form + ？ (polite: 見ませんか); を has been dropped (映画[を]).",
-    "L20-q23": "疲れたけど、旅行は とても 楽しかった。 けど attaches to the first clause; then the topic + は, the adverb, and the past form of the い-adjective.",
-    "L20-q24": "昨日は どこへも 行かなかったよ。 \"どこへも + negative\" (Lesson 5) in the plain form: 行きませんでした → 行かなかった.",
-    "L20-q25": "[1] In a plain question, no だ: 暇？. [2] \"I'd like to see the film, but I'm a bit tired…\" (படம் பார்க்கலாம், ஆனால் கொஞ்சம் களைப்பு…): a soft refusal with けど. [3] \"Last week\" calls for the past negative of an い-adjective: 面白く + なかった; じゃなかった is only for な-adjectives."
+    "L20-q12": "暇 (ஓய்வு, free) = 忙しくない (வேலை அதிகம் இல்லை, not busy). 休みじゃない (it’s not a holiday) is closer to the opposite meaning.",
+    "L20-q13": "会わなかった = 会いませんでした (சந்திக்கவில்லை, didn’t meet). This is plain → polite. 会いました means the opposite.",
+    "L20-q14": "The plain question 本当？ = the polite 本当ですか (உண்மையா?, really?). 本当です has no ？. It is not a question. It just says something.",
+    "L20-q15": "ううん (இல்லை, no) + tomorrow (future) = 行かない (போக மாட்டேன், won’t go). 行かなかった is past. It doesn’t fit with \"tomorrow\".",
+    "L20-q16": "The plain past of an い-adjective: 寒い → 寒かった (குளிராக இருந்தது, was cold). 寒いだった / 寒いだ are wrong. Don’t add だ to an い-adjective.",
+    "L20-q17": "\"Yesterday\" needs the past \"not\" form: 楽しく + なかった (மகிழ்ச்சியாக இல்லை, wasn’t fun). じゃなかった is only for な-adjectives and nouns.",
+    "L20-q18": "The plain past of a な-adjective: 静か + だった (அமைதியாக இருந்தது, was quiet). 静かかった is wrong. It uses the い-adjective rule.",
+    "L20-q19": "The plain \"not\" form of a noun: 学生 + じゃない (மாணவன் இல்லை, not a student). 学生くない / 学生ない are wrong forms.",
+    "L20-q20": "Expensive and tasty go opposite ways. So the link is \"but\" (ஆனால்) = けど. から (ஏனென்றால், because) gives a reason, so it doesn’t fit.",
+    "L20-q21": "な-adjective + けど needs だ in the middle: 暇だけど (ஓய்வு தான், ஆனால், I’m free, but). 暇けど / 暇なけど are wrong.",
+    "L20-q22": "今晩 みんなで 映画 見ない？ This is a plain invitation: ない-form + ？ (polite: 見ませんか). を is dropped (映画[を]).",
+    "L20-q23": "疲れたけど、旅行は とても 楽しかった。 けど goes after the first part. Then come the topic + は, とても, and the past form of the い-adjective.",
+    "L20-q24": "昨日は どこへも 行かなかったよ。 This is \"どこへも + a not form\" (Lesson 5) in the plain style: 行きませんでした → 行かなかった.",
+    "L20-q25": "[1] In a plain question, there is no だ: 暇？. [2] \"I’d like to see the film, but I’m a bit tired…\" (படம் பார்க்கலாம், ஆனால் கொஞ்சம் களைப்பு…). This is a soft \"no\" with けど. [3] \"Last week\" needs the past \"not\" form of an い-adjective: 面白く + なかった. じゃなかった is only for な-adjectives."
   }
 }

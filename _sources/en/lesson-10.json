@@ -1,69 +1,69 @@
 {
   "lesson": 10,
-  "intro_en": "In this lesson you learn to say where things and people are: \"There is a bed in the room\", \"There is a dog in the garden\", \"Mother is in the kitchen\". The key difference is あります for non-living things and います for living things. You will also learn position words such as on top, under, in front, behind, inside and next to, and や〜など for listing examples (\"a desk, a chair and so on\"). The vocabulary for this lesson covers the house, rooms, furniture and pets.",
+  "intro_en": "In this lesson you learn to say where things and people are. For example: \"There is a bed in the room\", \"There is a dog in the garden\", \"Mother is in the kitchen\". The key point is this. Use あります for things that are not alive. Use います for living things. You also learn place words like on top, under, in front, behind, inside and next to. And you learn や〜など to give a few examples (\"a desk, a chair and so on\"). The new words in this lesson are about the house, rooms, furniture and pets.",
   "grammar": {
     "g10-1": {
-      "explanation_en": "Japanese has two verbs for \"there is / is (somewhere)\": あります (ある) for non-living things, plants and events; います (いる) for living things that move by themselves, such as people, animals and birds. Tamil shows the difference with a respect ending, as in \"புத்தகம் இருக்கிறது\" (the book is there) / \"அம்மா இருக்கிறார்\" (Mother is there), but in Japanese the verb itself changes. が marks who or what is there; it is the が that introduces new information (like 時間があります in Lesson 9). Negative: ありません / いません. Careful: flowers and trees are alive, but they don't move, so they take あります.",
-      "tamil_parallel_en": "Tamil uses one verb இருக்கிறது (\"is there\") for both, while Japanese splits it by living vs non-living: நாய் இருக்கிறது (\"there is a dog\") = 犬がいます; மேசை இருக்கிறது (\"there is a desk\") = 机があります.",
+      "explanation_en": "Japanese has two verbs for \"there is / is (somewhere)\". あります (ある) is for things that are not alive, for plants and for events. います (いる) is for living things that move by themselves, like people, animals and birds. Tamil shows the difference with a respect ending: \"புத்தகம் இருக்கிறது\" (the book is there) / \"அம்மா இருக்கிறார்\" (Mother is there). But in Japanese the verb itself changes. が marks who or what is there. It is the が for new information (like 時間があります in Lesson 9). To say \"not\": ありません / いません. Be careful. Flowers and trees are alive, but they don’t move. So they take あります.",
+      "tamil_parallel_en": "Tamil uses one verb, \"இருக்கிறது\" (\"is there\"), for both. Japanese uses two: one for living things, one for things that are not alive. \"நாய் இருக்கிறது\" (\"there is a dog\") = 犬がいます. \"மேசை இருக்கிறது\" (\"there is a desk\") = 机があります.",
       "formation_en": "N(non-living) + が + あります / ありません ／ N(living) + が + います / いません",
-      "pitfalls_en": "犬があります ✗. Animals take います. 花がいます ✗. Flowers don't move, so あります. Because Tamil uses \"இருக்கிறது\" (is there) for both, this mistake happens often."
+      "pitfalls_en": "犬があります ✗. Animals take います. 花がいます ✗. Flowers don’t move, so use あります. Tamil uses \"இருக்கிறது\" (is there) for both, so this mistake happens often."
     },
     "g10-2": {
-      "explanation_en": "To show where something is, add に after the place: 部屋にベッドがあります = \"There is a bed in the room\". This is the job of the Tamil \"-இல்\" (the seventh case ending). This pattern introduces something new to the listener: \"What is in the room? There is a bed.\" The order is the same as Tamil: place → thing → is there. Careful: in Lesson 6 you saw で for the place where an action happens (喫茶店で飲みます), but for existence (あります/います) it is always に. In Tamil both are \"-இல்\", so be careful. Questions: 何がありますか (What is there?), 誰がいますか (Who is there?).",
-      "tamil_parallel_en": "に for where something exists matches the Tamil locative -இல், in the same order: அறையில்(-இல்) கட்டில் இருக்கிறது (\"there is a bed in the room\") = 部屋にベッドがあります.",
+      "explanation_en": "To show where something is, put に after the place. 部屋にベッドがあります = \"There is a bed in the room\". This does the job of the Tamil \"-இல்\" ending. This pattern tells the listener about something new. \"What is in the room? There is a bed.\" The order is the same as Tamil: place, then thing, then \"is there\". Be careful. In Lesson 6, で showed the place where an action happens (喫茶店で飲みます). But for \"is there\" (あります/います), always use に. In Tamil both are \"-இல்\", so take care. Questions: 何がありますか (What is there?), 誰がいますか (Who is there?).",
+      "tamil_parallel_en": "に for where something is matches the Tamil \"-இல்\" ending. The order is the same. \"அறையில்(-இல்) கட்டில் இருக்கிறது\" (\"there is a bed in the room\") = 部屋にベッドがあります.",
       "formation_en": "N(place) + に + N + が + あります / います",
-      "pitfalls_en": "部屋でベッドがあります ✗. Existence takes に. 何はありますか ✗. After a question word, use が (何が / 誰が)."
+      "pitfalls_en": "部屋でベッドがあります ✗. For \"is there\", use に. 何はありますか ✗. After a question word, use が (何が / 誰が)."
     },
     "g10-3": {
-      "explanation_en": "To say where something already known (already being talked about) is, make it the topic with は and give the place with に: 母は台所にいます = \"(As for) Mother, she is in the kitchen\". In g10-2, the pattern was \"place → what is there\", introducing new information; here it is \"thing → where it is\", so the place is the new information. It is like the Tamil difference between \"சமையலறையில் ஒரு ஃப்ரிட்ஜ் இருக்கிறது\" (there is a fridge in the kitchen) and \"ஃப்ரிட்ஜ் சமையலறையில் இருக்கிறது\" (the fridge is in the kitchen). Question: トイレはどこにありますか (Where is the toilet?). The simple form トイレはあそこです from Lesson 3 gives the same meaning.",
-      "tamil_parallel_en": "Putting the known thing first, as in Tamil, makes the place the new information: அம்மா சமையலறையில் இருக்கிறார் (\"Mother is in the kitchen\") = 母は台所にいます; கழிவறை எங்கே இருக்கிறது? (\"Where is the toilet?\") = トイレはどこにありますか.",
+      "explanation_en": "Sometimes you already know the thing, because you are talking about it. To say where it is, make it the topic with は (what you are talking about). Then give the place with に. 母は台所にいます = \"(As for) Mother, she is in the kitchen\". In g10-2 the order was \"place, then what is there\". That gives new information about the thing. Here the order is \"thing, then where it is\". So the place is the new information. Tamil has the same difference: \"சமையலறையில் ஒரு ஃப்ரிட்ஜ் இருக்கிறது\" (there is a fridge in the kitchen) and \"ஃப்ரிட்ஜ் சமையலறையில் இருக்கிறது\" (the fridge is in the kitchen). Question: トイレはどこにありますか (Where is the toilet?). The simple form トイレはあそこです from Lesson 3 means the same.",
+      "tamil_parallel_en": "Like in Tamil, put the known thing first. Then the place is the new information. \"அம்மா சமையலறையில் இருக்கிறார்\" (\"Mother is in the kitchen\") = 母は台所にいます. \"கழிவறை எங்கே இருக்கிறது?\" (\"Where is the toilet?\") = トイレはどこにありますか.",
       "formation_en": "N + は + N(place) + に + あります / います  (= N は 場所 です)",
-      "pitfalls_en": "You can also say 母が台所にいます, but only as an answer to \"Who is there?\". If someone asks \"Where is Mother?\", answer with は: 母は〜."
+      "pitfalls_en": "You can also say 母が台所にいます. But use it only to answer \"Who is there?\". If someone asks \"Where is Mother?\", answer with は: 母は〜."
     },
     "g10-4": {
-      "explanation_en": "To say \"on the desk\" or \"under the bed\": base noun + の + position word + に. 机の上に = \"on (top of) the desk\". This matches the Tamil \"மேசையின் மேல்\" (on the desk), built with \"-இன்\" (the sixth case ending, \"of\") + \"மேல்\" (top), perfectly: の = \"-இன்\", 上 = \"மேல்\", に = \"-இல்\". Words: 上 (on / above), 下 (under / below), 前 (in front), 後ろ (behind), 中 (inside), 右 (right), 左 (left), 隣 (next to, for things of the same kind side by side), 近く (near), 間 (between: AとBの間 = \"between A and B\"). These are nouns, so の before them is required.",
-      "tamil_parallel_en": "The Japanese order matches the Tamil genitive -இன் + position word: மேசையின் மேல் (\"on the desk\") = 机の上に; வங்கியின் பக்கத்தில் (\"next to the bank\") = 銀行の隣に; வங்கிக்கும் தபால் நிலையத்துக்கும் இடையில் (\"between the bank and the post office\") = 銀行と郵便局の間に.",
+      "explanation_en": "To say \"on the desk\" or \"under the bed\", use: the thing + の + a place word + に. 机の上に = \"on (top of) the desk\". This matches the Tamil \"மேசையின் மேல்\" (on the desk) perfectly. Tamil uses \"-இன்\" (\"of\") + \"மேல்\" (top). So の = \"-இன்\", 上 = \"மேல்\", and に = \"-இல்\". The words are: 上 (on / above), 下 (under / below), 前 (in front), 後ろ (behind), 中 (inside), 右 (right), 左 (left), 隣 (next to, for two things of the same kind side by side), 近く (near), 間 (between: AとBの間 = \"between A and B\"). These words are nouns, so you need の before them.",
+      "tamil_parallel_en": "The Japanese order matches the Tamil \"-இன்\" (\"of\") + a place word. \"மேசையின் மேல்\" (\"on the desk\") = 机の上に. \"வங்கியின் பக்கத்தில்\" (\"next to the bank\") = 銀行の隣に. \"வங்கிக்கும் தபால் நிலையத்துக்கும் இடையில்\" (\"between the bank and the post office\") = 銀行と郵便局の間に.",
       "formation_en": "N1 + の + 上 / 下 / 前 / 後ろ / 中 / 右 / 左 / 隣 / 近く + に ／ N1 と N2 の 間 に",
-      "pitfalls_en": "机上に ✗ / 机に上 ✗. The order is 机 + の + 上 + に. Remember the Tamil order \"மேசை-இன் மேல்-இல்\" (desk-of top-at). 隣 is for things of the same kind (shop next to shop, house next to house); for the general meaning \"near\", use 近く."
+      "pitfalls_en": "机上に ✗ / 机に上 ✗. The order is 机 + の + 上 + に. Remember the Tamil order \"மேசை-இன் மேல்-இல்\" (desk-of top-at). 隣 is for two things of the same kind (shop next to shop, house next to house). For the general meaning \"near\", use 近く."
     },
     "g10-5": {
-      "explanation_en": "と from Lesson 4 (\"A and B\") gives a complete list; that's all there is. や means \"A, B and so on\": there are more, and these are only examples. Adding など (etc. / and so on) after the last item makes this feeling even clearer: 机や椅子などがあります = \"There are a desk, chairs and so on\". It is like the Tamil \"மேசை, நாற்காலி முதலியன\" (desk, chair, etc.). や joins only nouns, not sentences.",
-      "tamil_parallel_en": "や〜など works like the Tamil போன்றவை / முதலியன (\"and so on\") after a list of examples: மேசை, நாற்காலி போன்றவை இருக்கின்றன (\"there are desks, chairs and so on\") = 机や椅子などがあります.",
+      "explanation_en": "と from Lesson 4 (\"A and B\") gives the full list. That’s all there is. や means \"A, B and so on\". There are more things, and these are just examples. Add など (etc. / and so on) after the last one to make this even clearer. 机や椅子などがあります = \"There are a desk, chairs and so on\". It is like the Tamil \"மேசை, நாற்காலி முதலியன\" (desk, chair, etc.). や joins only nouns, not sentences.",
+      "tamil_parallel_en": "や〜など works like the Tamil \"போன்றவை / முதலியன\" (\"and so on\") after a few examples. \"மேசை, நாற்காலி போன்றவை இருக்கின்றன\" (\"there are desks, chairs and so on\") = 机や椅子などがあります.",
       "formation_en": "N1 + や + N2 (+ など) + が / を ...",
-      "pitfalls_en": "If the room has only a desk and a chair, use と; if there are other things too, use や. Don't use や with verbs or adjectives."
+      "pitfalls_en": "If the room has only a desk and a chair, use と. If there are other things too, use や. Don’t use や with verbs or adjectives."
     },
     "g10-6": {
-      "explanation_en": "In Lesson 4 you saw ね used to ask for the agreement of the listener, like \"isn't it?\". Here is another job it does in conversation: repeating information you just heard to confirm it. If someone says 冷蔵庫は台所にあります, the listener checks with 台所ですね (\"The kitchen, right?\"). It is like saying \"சமையலறையில் தானே?\" (in the kitchen, right?) or \"இரண்டாம் மாடி இல்லையா?\" (the second floor, isn't it?) in Tamil. It is very useful when asking for directions or looking for something in a shop. Notice the difference between ですか (a question: you don't know) and ですね (confirming: you more or less know). よ from Lesson 5 (giving new information) is the opposite of this.",
-      "tamil_parallel_en": "Confirming ね matches the Tamil tag தானே / இல்லையா (\"right? / isn't it?\"): சமையலறையில் தானே? (\"in the kitchen, right?\") = 台所ですね; இரண்டாம் மாடி இல்லையா? (\"the second floor, isn't it?\") = 二階ですね.",
+      "explanation_en": "In Lesson 4 you saw ね used to ask the listener to agree, like \"isn’t it?\". Here is another use in talking. You repeat what you just heard, to check it. Someone says 冷蔵庫は台所にあります. The listener checks: 台所ですね (\"The kitchen, right?\"). In Tamil it is like \"சமையலறையில் தானே?\" (in the kitchen, right?) or \"இரண்டாம் மாடி இல்லையா?\" (the second floor, isn’t it?). It is very useful when you ask the way, or look for something in a shop. See the difference. ですか is a question: you don’t know. ですね checks: you more or less know. よ from Lesson 5 is the opposite. It gives new information.",
+      "tamil_parallel_en": "ね for checking matches the Tamil \"தானே / இல்லையா\" (\"right? / isn’t it?\"). \"சமையலறையில் தானே?\" (\"in the kitchen, right?\") = 台所ですね. \"இரண்டாம் மாடி இல்லையா?\" (\"the second floor, isn’t it?\") = 二階ですね.",
       "formation_en": "A: 〜は どこに ありますか。 B: 〜に あります。 A: 〜ですね。",
-      "pitfalls_en": "If you say よ instead of ね when confirming (二階ですよ), it sounds like you are giving the other person information: \"It's the second floor, you know!\""
+      "pitfalls_en": "Don’t say よ instead of ね when you check (二階ですよ). Then it sounds like you are telling the other person: \"It’s the second floor, you know!\""
     }
   },
   "items": {
-    "L10-q01": "冷蔵庫 = れいぞうこ (ஃப்ரிட்ஜ், refrigerator). Both れい and ぞう are long sounds; 蔵 = ぞう (voiced). Dropping either one is wrong.",
-    "L10-q02": "台所 = だいどころ (சமையலறை, kitchen). 所 alone is ところ, but here it becomes voiced as どころ. Reading たい without the voiced mark is wrong.",
-    "L10-q03": "玄関 = げんかん (வாசல், entrance). げ is voiced, かん is not voiced.",
-    "L10-q04": "いぬ = 犬 (நாய், dog): 大 + a dot at the top right. 太 (ふとい) = 大 + a dot below; 天 (てん) has a line on top. These kanji look similar.",
-    "L10-q05": "みぎ = 右 (வலது, right). 左 (ひだり = இடது, left) has 工 at the bottom; 右 has 口 at the bottom. 石 (いし) and 有 (ある) look similar.",
-    "L10-q06": "The place with lots of books = 本棚 (புத்தக அலமாரி, bookshelf). 冷蔵庫 is for food; 玄関 and 門 are entrances.",
-    "L10-q07": "The place where you keep milk = 冷蔵庫 (ஃப்ரிட்ஜ், refrigerator), with 〜の中に (inside). Milk wouldn't be \"inside\" the others.",
-    "L10-q08": "Dogs, cats and similar animals = pets (ペット, செல்லப்பிராணி). 鳥 is only one example; 家族 and 子供 are people.",
-    "L10-q09": "Two houses side by side = 隣 (பக்கத்து வீடு, next door). Another house can't be 中, 上 or 下 of a house.",
-    "L10-q10": "The place where the cat sleeps = on the ベッド (கட்டில், bed): の上. 冷蔵庫, 門 and トイレ are not places to sleep. Here the action is 寝ます, so it takes で; for existence (います) it would be に.",
-    "L10-q11": "It says \"not on the desk\", so it is under = 下 (கீழ், under). 中 (inside) doesn't fit a desk.",
-    "L10-q12": "The desk is in front of the chair = the chair is behind the desk (机の後ろに椅子, மேசையின் பின்னால் நாற்காலி). 机の前に椅子 is a common mistake that swaps the positions.",
-    "L10-q13": "N は 場所に います = 場所に N が います: the same information, only the emphasis differs. 寝ます is a different action; いません is negative.",
-    "L10-q14": "Nobody is there = there are no people (人はいません, ஆட்கள் இல்லை). 誰かいます (யாரோ இருக்கிறார், someone is there) is the opposite; 静か is only a guess, not the same meaning.",
-    "L10-q15": "A dog is a living thing → います (இருக்கிறது, is there). あります is only for non-living things; the trap is that Tamil uses \"இருக்கிறது\" for both.",
-    "L10-q16": "A flower is alive but doesn't move → あります (இருக்கிறது, is there). います is for animals and people. ありますか is a question, but this is a statement.",
-    "L10-q17": "The place of existence (あります) → に. で is for the place where an action happens (部屋で寝ます), not for existence.",
-    "L10-q18": "机の上 = \"மேசையின் மேல்\" (on the desk); の = the Tamil \"-இன்\". 机に上 is a word-order mistake.",
-    "L10-q19": "A question about あります (things) → 何 (என்ன, what). 誰 goes with います, for people; どこ asks about a place, but the place has already been given.",
-    "L10-q20": "An incomplete list with など (போன்றவை, and so on) → や. と is for a complete list; や is the natural partner of など.",
-    "L10-q21": "Repeating information you heard to confirm it → ですね (\"இரண்டாம் மாடி தானே\", the second floor, right?). ですよ gives information; it is not natural for the person receiving the information to say it.",
-    "L10-q22": "かばんは (topic) → 椅子の下に (நாற்காலியின் கீழ், under the chair) → あります. ★ = 下に.",
-    "L10-q23": "Place (駅の近くに) → list (銀行や喫茶店などが) → あります. ★ = 銀行や; や comes after the first item and など after the last item.",
-    "L10-q24": "ドアの後ろに (கதவின் பின்னால், behind the door) → 誰か (யாரோ, someone) → います → よ. ★ = 誰か. 誰か is a living person, so it takes います.",
-    "L10-q25": "［1］With や, the list ends with など (போன்றவை, and so on). ［2］猫 is a living thing → います. ［3］The place of existence (います) → に; で is only for the place where an action happens."
+    "L10-q01": "冷蔵庫 = れいぞうこ (ஃப்ரிட்ஜ், refrigerator). れい and ぞう are both long sounds. 蔵 = ぞう, with the two dots. Dropping either long sound is wrong.",
+    "L10-q02": "台所 = だいどころ (சமையலறை, kitchen). 所 alone is ところ. But here it gets the two dots: どころ. たい, without the two dots, is wrong.",
+    "L10-q03": "玄関 = げんかん (வாசல், entrance). げ has the two dots. かん does not.",
+    "L10-q04": "いぬ = 犬 (நாய், dog). It is 大 + a dot at the top right. 太 (ふとい) is 大 + a dot below. 天 (てん) has a line on top. These kanji look alike.",
+    "L10-q05": "みぎ = 右 (வலது, right). 左 (ひだり = இடது, left) has 工 at the bottom. 右 has 口 at the bottom. 石 (いし) and 有 (ある) look like it.",
+    "L10-q06": "The place with lots of books is 本棚 (புத்தக அலமாரி, bookshelf). 冷蔵庫 is for food. 玄関 and 門 are ways in.",
+    "L10-q07": "You keep milk in the 冷蔵庫 (ஃப்ரிட்ஜ், refrigerator), with 〜の中に (inside). Milk would not be \"inside\" the others.",
+    "L10-q08": "Dogs, cats and animals like them = pets (ペット, செல்லப்பிராணி). 鳥 is only one example. 家族 and 子供 are people.",
+    "L10-q09": "Two houses side by side = 隣 (பக்கத்து வீடு, next door). One house can’t be 中, 上 or 下 another house.",
+    "L10-q10": "The cat sleeps on the ベッド (கட்டில், bed): の上. 冷蔵庫, 門 and トイレ are not places to sleep. Note: here the action is 寝ます, so it takes で. For \"is there\" (います), it would be に.",
+    "L10-q11": "It says \"not on the desk\", so it is under = 下 (கீழ், under). 中 (inside) does not fit a desk.",
+    "L10-q12": "The desk is in front of the chair. So the chair is behind the desk (机の後ろに椅子, மேசையின் பின்னால் நாற்காலி). A common mistake is 机の前に椅子. It swaps the places.",
+    "L10-q13": "N は 場所に います = 場所に N が います. The information is the same. Only the focus is different. 寝ます is a different action. いません means \"is not there\".",
+    "L10-q14": "Nobody is there = there are no people (人はいません, ஆட்கள் இல்லை). 誰かいます (யாரோ இருக்கிறார், someone is there) is the opposite. 静か is only a guess. It does not mean the same.",
+    "L10-q15": "A dog is a living thing, so use います (இருக்கிறது, is there). あります is only for things that are not alive. The trap: Tamil uses \"இருக்கிறது\" for both.",
+    "L10-q16": "A flower is alive but doesn’t move, so use あります (இருக்கிறது, is there). います is for animals and people. ありますか is a question, but this sentence is not a question.",
+    "L10-q17": "This is the place where something is (あります), so use に. で is for the place where an action happens (部屋で寝ます). It is not for \"is there\".",
+    "L10-q18": "机の上 = \"மேசையின் மேல்\" (on the desk). の = the Tamil \"-இன்\". 机に上 has the words in the wrong order.",
+    "L10-q19": "The verb is あります (for things). So ask with 何 (என்ன, what). 誰 goes with います, for people. どこ asks about a place, but the place is already given.",
+    "L10-q20": "The list is not full, and it ends with など (போன்றவை, and so on). So use や. と is for a full list. や goes naturally with など.",
+    "L10-q21": "You repeat what you heard to check it, so use ですね (\"இரண்டாம் மாடி தானே\", the second floor, right?). ですよ gives information. The person who is getting the information would not say it.",
+    "L10-q22": "Order: かばんは (the topic), then 椅子の下に (நாற்காலியின் கீழ், under the chair), then あります. ★ = 下に.",
+    "L10-q23": "Order: the place (駅の近くに), then the list (銀行や喫茶店などが), then あります. ★ = 銀行や. や comes after the first example. など comes after the last one.",
+    "L10-q24": "Order: ドアの後ろに (கதவின் பின்னால், behind the door), then 誰か (யாரோ, someone), then います, then よ. ★ = 誰か. 誰か is a living person, so it takes います.",
+    "L10-q25": "［1］With や, the list ends with など (போன்றவை, and so on). ［2］猫 is a living thing, so use います. ［3］This is the place where something is (います), so use に. で is only for the place where an action happens."
   }
 }

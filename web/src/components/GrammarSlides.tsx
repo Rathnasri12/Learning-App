@@ -7,6 +7,7 @@ import type { Example, GrammarPoint, Lang3 } from "@/lib/types";
 import { lessonKey, useProgress } from "@/lib/progress";
 import { cx, shuffle } from "@/lib/utils";
 import Speaker from "./Speaker";
+import Explain, { LangSwitch } from "./Explain";
 import confetti from "canvas-confetti";
 
 export default function GrammarSlides({
@@ -103,8 +104,11 @@ export default function GrammarSlides({
               <header className="card p-6 relative overflow-hidden">
                 <div aria-hidden className="absolute -left-10 -bottom-10 w-40 h-40 rounded-full bg-sakura-2" />
                 <div className="relative">
-                  <div className="text-xs font-extrabold text-muted">
-                    GRAMMAR {i + 1} / {total}
+                  <div className="flex items-center justify-between gap-2">
+                    <div className="text-xs font-extrabold text-muted">
+                      GRAMMAR {i + 1} / {total}
+                    </div>
+                    <LangSwitch />
                   </div>
                   <h1 className="text-3xl sm:text-4xl font-black mt-1 leading-tight" lang="ja">
                     {g.pattern}
@@ -117,19 +121,16 @@ export default function GrammarSlides({
                 <div className="flex items-center gap-2 text-xs font-extrabold text-gold mb-1">
                   <Lightbulb size={14} /> COMPARED WITH TAMIL
                 </div>
-                <p className="text-lg font-bold leading-relaxed">
-                  {g.tamil_parallel_en ?? g.tamil_parallel}
-                </p>
+                <Explain en={g.tamil_parallel_en} ta={g.tamil_parallel} className="text-lg font-bold leading-relaxed" />
               </section>
 
               <section className="card p-5">
-                <div className="text-xs font-extrabold text-muted mb-2">FORMATION</div>
-                <pre className="whitespace-pre-wrap font-sans text-lg font-bold bg-bg-2 rounded-xl p-3" lang="ja">
-                  {g.formation_en ?? g.formation}
-                </pre>
-                <p className="mt-4 leading-relaxed text-[17px]">
-                  {g.explanation_en ?? g.explanation_ta}
-                </p>
+                <div className="flex items-center justify-between gap-2 mb-2">
+                  <div className="text-xs font-extrabold text-muted">HOW TO MAKE IT</div>
+                  <LangSwitch />
+                </div>
+                <Explain as="pre" en={g.formation_en} ta={g.formation} className="text-lg font-bold bg-bg-2 rounded-xl p-3" />
+                <Explain en={g.explanation_en} ta={g.explanation_ta} className="mt-4 leading-relaxed text-[17px]" />
               </section>
 
               <section className="card p-5">
@@ -146,9 +147,7 @@ export default function GrammarSlides({
                   <div className="flex items-center gap-2 text-xs font-extrabold text-red mb-1">
                     <AlertTriangle size={14} /> WATCH OUT
                   </div>
-                  <p className="leading-relaxed">
-                    {g.pitfalls_en ?? g.pitfalls_ta}
-                  </p>
+                  <Explain en={g.pitfalls_en} ta={g.pitfalls_ta} className="leading-relaxed" />
                 </section>
               )}
 

@@ -6,7 +6,7 @@
     "en": "Giving and receiving"
   },
   "intro_ta": "இந்தப் பாடத்தில் \"யாருக்குக் கொடுத்தேன், யாரிடம் பெற்றேன், யாரிடம் கற்றுக்கொண்டேன்\" என்று சொல்லக் கற்றுக்கொள்வோம். தமிழின் \"-க்கு\" மற்றும் \"-இடம்\" உருபுகள் போலச் செயல்படும் に・から பயன்பாடு இங்கே முக்கியம். கூடவே \"சாப்ஸ்டிக்ஸால் சாப்பிடுகிறேன்\" போன்ற கருவி で, \"இது ஜப்பானிய மொழியில் என்ன?\" என்று கேட்பது, \"ஏற்கனவே / இன்னும் இல்லை\" என்ற もう・まだ ஆகியவற்றையும் பார்ப்போம். குடும்ப உறவுச் சொற்கள் — என் குடும்பத்தினருக்கு ஒரு சொல், மற்றவர் குடும்பத்தினருக்கு மரியாதைச் சொல் — இந்தப் பாடத்தின் சொற்களஞ்சியம்.",
-  "intro_en": "In this lesson you learn to say who you gave something to, who you received something from, and who you learned from. The key point is how に and から are used; they work like the Tamil \"-க்கு\" (to) and \"-இடம்\" (from/with a person) endings. We will also look at で for tools (\"I eat with chopsticks\"), how to ask \"What is this in Japanese?\", and もう / まだ (\"already / not yet\"). The vocabulary for this lesson is family words: one word for your own family members, and a polite word for other people's family members.",
+  "intro_en": "In this lesson you learn to say who you gave something to. You also learn to say who you got something from, and who you learned from. The key point is how to use に and から. They work like the Tamil \"-க்கு\" (to) and \"-இடம்\" (from/with a person) endings. We also look at で for tools (\"I eat with chopsticks\"). You learn to ask \"What is this in Japanese?\". And you learn もう / まだ (\"already / not yet\"). The new words in this lesson are family words. There is one word for your own family members. There is a polite word for other people’s family members.",
   "grammar": [
     {
       "id": "g07-1",
@@ -16,9 +16,9 @@
         "ta": "கருவி / வழிமுறை で (-ஆல்)"
       },
       "explanation_ta": "6-ஆம் பாடத்தில் で \"செயல் நடக்கும் இடம்\" என்று பார்த்தோம்; அதே で \"எதனால் / எதைக் கொண்டு\" என்ற கருவி அல்லது வழிமுறையையும் காட்டும்: 箸で食べます = \"சாப்ஸ்டிக்ஸால் சாப்பிடுகிறேன்\", 日本語で書きます = \"ஜப்பானிய மொழியில் எழுதுகிறேன்\". தமிழின் மூன்றாம் வேற்றுமை \"-ஆல் / -ஐக் கொண்டு\" அதுதான். 5-ஆம் பாடத்தின் バスで行きます (பஸ்ஸில் போகிறேன்) கூட இதே \"வழிமுறை\" で தான். மொழியைக் குறிக்கும்போது தமிழில் \"ஜப்பானிய மொழியில்\" என்று \"-இல்\" வந்தாலும் ஜப்பானிய மொழியில் で மட்டுமே; に பயன்படுத்தக் கூடாது.",
-      "explanation_en": "In Lesson 6 you saw で as \"the place where an action happens\". The same で also shows the tool or means, \"with what / using what\": 箸で食べます = \"I eat with chopsticks\", 日本語で書きます = \"I write in Japanese\". This is the Tamil third case ending \"-ஆல் / -ஐக் கொண்டு\" (by / using). バスで行きます (I go by bus) from Lesson 5 is also this same \"means\" で. For languages, Tamil says \"ஜப்பானிய மொழியில்\" (in Japanese) with \"-இல்\", but Japanese uses only で; don't use に.",
+      "explanation_en": "In Lesson 6, で showed the place where an action happens. The same で can also show the tool, \"with what / using what\". 箸で食べます = \"I eat with chopsticks\". 日本語で書きます = \"I write in Japanese\". This is the Tamil \"-ஆல் / -ஐக் கொண்டு\" ending (by / using). バスで行きます (I go by bus) from Lesson 5 is this same で. For languages, Tamil uses \"-இல்\": \"ஜப்பானிய மொழியில்\" (in Japanese). But Japanese uses only で. Don’t use に.",
       "tamil_parallel": "சாப்ஸ்டிக்ஸால்(-ஆல்) சாப்பிடுகிறேன் = 箸で食べます ; தமிழில் எழுதுகிறேன் = タミル語で書きます",
-      "tamil_parallel_en": "で for a tool or means matches the Tamil instrumental -ஆல் (\"by / with\"): சாப்ஸ்டிக்ஸால்(-ஆல்) சாப்பிடுகிறேன் (\"I eat with chopsticks\") = 箸で食べます; தமிழில் எழுதுகிறேன் (\"I write in Tamil\") = タミル語で書きます.",
+      "tamil_parallel_en": "で for a tool matches the Tamil \"-ஆல்\" ending (\"by / with\"). \"சாப்ஸ்டிக்ஸால்(-ஆல்) சாப்பிடுகிறேன்\" (\"I eat with chopsticks\") = 箸で食べます. \"தமிழில் எழுதுகிறேன்\" (\"I write in Tamil\") = タミル語で書きます.",
       "formation": "N(கருவி / மொழி / வாகனம்) + で + V",
       "formation_en": "N(tool / language / vehicle) + で + V",
       "examples": [
@@ -66,7 +66,7 @@
         }
       ],
       "pitfalls_ta": "日本語に書きます ✗ — மொழிக்கு に அல்ல, で. மேலும் ஒரே で \"இடம்\" (喫茶店で) மற்றும் \"கருவி\" (箸で) இரண்டையும் குறிக்கும் என்பதால் குழம்ப வேண்டாம்; சூழல் தெளிவாக்கும்.",
-      "pitfalls_en": "日本語に書きます ✗. For a language, use で, not に. Also, don't get confused because the same で marks both a place (喫茶店で) and a tool (箸で); the context makes it clear."
+      "pitfalls_en": "日本語に書きます ✗. For a language, use で, not に. Also, the same で shows a place (喫茶店で) and a tool (箸で). Don’t let that confuse you. The rest of the sentence makes it clear."
     },
     {
       "id": "g07-2",
@@ -76,9 +76,9 @@
         "ta": "〜 என்பது ... மொழியில் என்ன?"
       },
       "explanation_ta": "ஒரு சொல்லை இன்னொரு மொழியில் எப்படிச் சொல்வது என்று கேட்க: 「ありがとう」はタミル語で何ですか = \"'ありがとう' தமிழில் என்ன?\". இங்கே 〜語で என்பது மேலே பார்த்த \"வழிமுறை で\" தான் — \"தமிழ் மொழியைக் கொண்டு\". பதில்: 「நன்றி」です. தமிழில் \"'தண்ணீர்' ஜப்பானிய மொழியில் என்ன?\" என்று கேட்பது போலவே வாக்கிய அமைப்பு: சொல் + தலைப்பு は + மொழியில் で + என்ன 何 + ですか. 何 இங்கே なん என்று படிக்கப்படும் (です-க்கு முன்). வகுப்பறையில் ஆசிரியரிடம் கேட்க மிக உதவும் வாக்கியம்.",
-      "explanation_en": "To ask how to say a word in another language: 「ありがとう」はタミル語で何ですか = \"What is 'ありがとう' in Tamil?\". Here 〜語で is the \"means\" で you just saw: \"using the Tamil language\". The answer: \"「நன்றி」です\". The sentence structure is the same as asking in Tamil \"'தண்ணீர்' ஜப்பானிய மொழியில் என்ன?\" (What is 'water' in Japanese?): word + topic は + in the language で + what 何 + ですか. Here 何 is read なん (because it comes before です). This is a very useful sentence for asking your teacher in class.",
+      "explanation_en": "Here is how to ask how to say a word in another language. 「ありがとう」はタミル語で何ですか = \"What is “ありがとう” in Tamil?\". Here 〜語で is the tool で you just saw. It means \"using the Tamil language\". The answer is \"「நன்றி」です\". The sentence order is the same as in Tamil: \"‘தண்ணீர்’ ஜப்பானிய மொழியில் என்ன?\" (What is “water” in Japanese?). The order is: the word, then は (the topic, what you are asking about), then the language + で, then 何, then ですか. Here 何 is read なん, because it comes before です. This sentence is very useful for asking your teacher in class.",
       "tamil_parallel": "'நன்றி' ஜப்பானிய மொழியில் என்ன? = 「ナンドリ」は日本語で何ですか",
-      "tamil_parallel_en": "The question follows the same order as the Tamil one: 'நன்றி' ஜப்பானிய மொழியில் என்ன? (\"What is 'thank you' in Japanese?\") = 「ナンドリ」は日本語で何ですか.",
+      "tamil_parallel_en": "The question uses the same order as in Tamil. \"‘நன்றி’ ஜப்பானிய மொழியில் என்ன?\" (\"What is “thank you” in Japanese?\") = 「ナンドリ」は日本語で何ですか.",
       "formation": "「சொல்」 + は + 〜語 + で + 何ですか  → 「சொல்」です",
       "formation_en": "「word」 + は + 〜語 + で + 何ですか  → 「word」です",
       "examples": [
@@ -119,7 +119,7 @@
         }
       ],
       "pitfalls_ta": "タミル語に何ですか ✗ — மொழிக்கு で. 何 இங்கே なん; なに என்று படிக்காதீர்கள்.",
-      "pitfalls_en": "タミル語に何ですか ✗. For a language, use で. Here 何 is なん; don't read it as なに."
+      "pitfalls_en": "タミル語に何ですか ✗. For a language, use で. Here 何 is なん. Don’t read it as なに."
     },
     {
       "id": "g07-3",
@@ -129,9 +129,9 @@
         "ta": "பெறுபவர் に (-க்கு)"
       },
       "explanation_ta": "கொடுப்பது, கடன் கொடுப்பது, கற்பிப்பது, எழுதுவது, தொலைபேசி செய்வது — இவை யாரை நோக்கிச் செய்யப்படுகின்றனவோ அந்த நபருக்குப் பின் に வரும்: 妹に飴をあげます = \"தங்கைக்கு மிட்டாய் கொடுக்கிறேன்\". தமிழின் நான்காம் வேற்றுமை \"-க்கு\" அதுதான். வாக்கிய வரிசை தமிழைப் போலவே: யாருக்கு に → எதை を → வினை. 兄は私に英語を教えます = \"அண்ணன் எனக்கு ஆங்கிலம் கற்பிக்கிறார்\". 電話をかけます (தொலைபேசி செய்கிறேன்) என்பதும் இந்தக் குழுவில்: 母に電話をかけます. கவனம்: あげます என்பது \"நான் / மற்றவர் யாருக்கோ கொடுப்பது\"; \"மற்றவர் எனக்குக் கொடுத்தார்\" என்பதை くれます என்று வேறு சொல்லால் சொல்வோம் — அது 24-ஆம் பாடத்தில்.",
-      "explanation_en": "With verbs such as give, lend, teach, write (to someone) and phone, に comes after the person the action is directed at: 妹に飴をあげます = \"I give candy to my younger sister\". This is the Tamil fourth case ending \"-க்கு\" (to). The word order is the same as Tamil: to whom に → what を → verb. 兄は私に英語を教えます = \"My older brother teaches me English\". 電話をかけます (make a phone call) is also in this group: 母に電話をかけます. Note: あげます is for when I or someone else gives to another person; \"someone gave to me\" uses a different word, くれます, which comes in Lesson 24.",
+      "explanation_en": "Some verbs go to a person: give, lend, teach, write (to someone) and phone. With these, put に after the person. 妹に飴をあげます = \"I give candy to my younger sister\". This is the Tamil \"-க்கு\" ending (to). The word order is the same as Tamil: to whom に, then what を, then the verb. 兄は私に英語を教えます = \"My older brother teaches me English\". 電話をかけます (make a phone call) is in this group too: 母に電話をかけます. Note: use あげます when I give, or when someone gives to another person. When someone gives to me, Japanese uses a different word, くれます. You learn it in Lesson 24.",
       "tamil_parallel": "தம்பிக்கு(-க்கு) புத்தகம் கொடுத்தேன் = 弟に本をあげました",
-      "tamil_parallel_en": "に for the receiver is the Tamil dative -க்கு (\"to\"), with the same word order: தம்பிக்கு(-க்கு) புத்தகம் கொடுத்தேன் (\"I gave my younger brother a book\") = 弟に本をあげました.",
+      "tamil_parallel_en": "に for the person who gets something is the Tamil \"-க்கு\" ending (\"to\"). The word order is the same. \"தம்பிக்கு(-க்கு) புத்தகம் கொடுத்தேன்\" (\"I gave my younger brother a book\") = 弟に本をあげました.",
       "formation": "N(நபர்) + に + N(பொருள்) + を + あげます / 貸します / 教えます / 書きます / かけます",
       "formation_en": "N(person) + に + N(thing) + を + あげます / 貸します / 教えます / 書きます / かけます",
       "examples": [
@@ -179,7 +179,7 @@
         }
       ],
       "pitfalls_ta": "妹を飴をあげます ✗ — பெறுபவருக்கு に, பொருளுக்கு を; இரண்டு を வரக்கூடாது. தமிழ் \"தங்கைக்கு\" என்ற -க்கு-ஐ நினைத்தால் に சரியாக வரும்.",
-      "pitfalls_en": "妹を飴をあげます ✗. The receiver takes に and the thing takes を; you can't have two を. If you think of the Tamil \"-க்கு\" in \"தங்கைக்கு\" (to my younger sister), you will get に right."
+      "pitfalls_en": "妹を飴をあげます ✗. The person who gets it takes に. The thing takes を. You can’t have two を. Think of the Tamil \"-க்கு\" in \"தங்கைக்கு\" (to my younger sister). Then you will get に right."
     },
     {
       "id": "g07-4",
@@ -189,9 +189,9 @@
         "ta": "கொடுப்பவர் / மூலம் に・から (-இடம் / -இடமிருந்து)"
       },
       "explanation_ta": "பெறுவது (もらいます), கடன் வாங்குவது (借ります), கற்றுக்கொள்வது (習います) — இவற்றில் யாரிடமிருந்து என்பதை に அல்லது から காட்டும்: 母に花瓶をもらいました = \"அம்மாவிடம் பூஜாடி பெற்றேன்\". தமிழில் \"-இடம் / -இடமிருந்து\" அதுதான். கவனம்: மேலே பார்த்த あげます-இல் に \"பெறுபவரை\" (-க்கு) காட்டியது; இங்கே அதே に \"கொடுப்பவரை\" (-இடம்) காட்டுகிறது — வினைச்சொல்லே திசையைத் தீர்மானிக்கிறது. தமிழில் -க்கு / -இடம் என்று தெளிவாகப் பிரிந்திருப்பதால் வினைச்சொல்லைப் பார்த்துத் தேர்வு செய்யுங்கள். から (இலிருந்து) நபருக்கும் வரும், நிறுவனம் / இடத்துக்கும் (銀行から) வரும்; に நபருக்கு மட்டுமே.",
-      "explanation_en": "With receive (もらいます), borrow (借ります) and learn (習います), に or から shows who you get it from: 母に花瓶をもらいました = \"I received a vase from my mother\". This is the Tamil \"-இடம் / -இடமிருந்து\" (from a person). Careful: with あげます above, に showed the receiver (\"-க்கு\", to); here the same に shows the giver (\"-இடம்\", from). The verb decides the direction. Tamil keeps \"-க்கு\" and \"-இடம்\" clearly separate, so look at the verb when you choose. から (from) can be used for a person and also for an organisation or place (銀行から); に is only for a person.",
+      "explanation_en": "Some verbs get something from a person: receive (もらいます), borrow (借ります) and learn (習います). With these, に or から shows who you get it from. 母に花瓶をもらいました = \"I received a vase from my mother\". This is the Tamil \"-இடம் / -இடமிருந்து\" (from a person). Be careful. With あげます above, に showed the person who gets it (\"-க்கு\", to). Here the same に shows the person who gives it (\"-இடம்\", from). The verb decides the direction. Tamil keeps \"-க்கு\" and \"-இடம்\" clearly apart. So look at the verb when you choose. から (from) works for a person. It also works for a group or a place (銀行から). に is only for a person.",
       "tamil_parallel": "அம்மாவிடம்(-இடம்) பூ பெற்றேன் = 母に花をもらいました ; நண்பரிடமிருந்து புத்தகம் கடன் வாங்கினேன் = 友達から本を借りました",
-      "tamil_parallel_en": "With receiving verbs, に / から match the Tamil -இடம் / -இடமிருந்து (\"from\"): அம்மாவிடம்(-இடம்) பூ பெற்றேன் (\"I received flowers from my mother\") = 母に花をもらいました; நண்பரிடமிருந்து புத்தகம் கடன் வாங்கினேன் (\"I borrowed a book from a friend\") = 友達から本を借りました.",
+      "tamil_parallel_en": "With \"get\" verbs, に / から match the Tamil \"-இடம் / -இடமிருந்து\" (\"from\"). \"அம்மாவிடம்(-இடம்) பூ பெற்றேன்\" (\"I received flowers from my mother\") = 母に花をもらいました. \"நண்பரிடமிருந்து புத்தகம் கடன் வாங்கினேன்\" (\"I borrowed a book from a friend\") = 友達から本を借りました.",
       "formation": "N(நபர்) + に / から + N(பொருள்) + を + もらいます / 借ります / 習います",
       "formation_en": "N(person) + に / から + N(thing) + を + もらいます / 借ります / 習います",
       "examples": [
@@ -239,7 +239,7 @@
         }
       ],
       "pitfalls_ta": "もらいます-உடன் に வந்தால் அது \"கொடுப்பவர்\"; あげます-உடன் に வந்தால் \"பெறுபவர்\". 私は母にあげました (அம்மாவுக்குக் கொடுத்தேன்) ≠ 私は母にもらいました (அம்மாவிடம் பெற்றேன்). சந்தேகம் இருந்தால் もらいます-உடன் から பயன்படுத்தலாம்.",
-      "pitfalls_en": "With もらいます, に marks the giver; with あげます, に marks the receiver. 私は母にあげました (I gave it to my mother) ≠ 私は母にもらいました (I received it from my mother). If you are unsure, you can use から with もらいます."
+      "pitfalls_en": "With もらいます, に shows the giver. With あげます, に shows the person who gets it. 私は母にあげました (I gave it to my mother) ≠ 私は母にもらいました (I received it from my mother). If you are not sure, you can use から with もらいます."
     },
     {
       "id": "g07-5",
@@ -249,9 +249,9 @@
         "ta": "ஏற்கனவே (もう) / இன்னும் இல்லை (まだ)"
       },
       "explanation_ta": "もう + கடந்த காலம் = \"ஏற்கனவே செய்துவிட்டேன்\": もう食べました = \"ஏற்கனவே சாப்பிட்டுவிட்டேன்\". கேள்வி: もう食べましたか = \"சாப்பிட்டுவிட்டீர்களா?\". ஆம் என்றால் はい、もう食べました; இல்லை என்றால் いいえ、まだです (\"இல்லை, இன்னும் இல்லை\"). தமிழில் \"சாப்பிட்டாச்சா? — ஆச்சு / இன்னும் இல்லை\" என்ற பேச்சே இது. கவனம்: \"இன்னும் சாப்பிடவில்லை\" என்பதை まだ食べませんでした என்று சொல்லக்கூடாது — அது \"அப்போது சாப்பிடவில்லை\" என்ற கடந்த காலக் கூற்றாகிவிடும்; N5 நிலையில் まだです என்றே பதில் சொல்லுங்கள். (முழு வடிவம் まだ食べていません 14-ஆம் பாடத்துக்குப் பிறகு வரும்.)",
-      "explanation_en": "もう + past tense = \"I have already done it\": もう食べました = \"I have already eaten\". As a question: もう食べましたか = \"Have you eaten (yet)?\". If yes, はい、もう食べました; if no, いいえ、まだです (\"No, not yet\"). This is just like the Tamil conversation \"சாப்பிட்டாச்சா? — ஆச்சு / இன்னும் இல்லை\" (Have you eaten? Done / Not yet). Careful: don't say \"I haven't eaten yet\" as まだ食べませんでした; that becomes a past statement, \"I didn't eat (at that time)\". At N5 level, just answer まだです. (The full form まだ食べていません comes after Lesson 14.)",
+      "explanation_en": "もう + past form = \"I have already done it\". もう食べました = \"I have already eaten\". As a question: もう食べましたか = \"Have you eaten (yet)?\". If yes, say はい、もう食べました. If no, say いいえ、まだです (\"No, not yet\"). This is just like the Tamil talk \"சாப்பிட்டாச்சா? — ஆச்சு / இன்னும் இல்லை\" (Have you eaten? Done / Not yet). Be careful. To say \"I haven’t eaten yet\", don’t say まだ食べませんでした. That means \"I didn’t eat (at that time)\", a statement about the past. At N5 level, just answer まだです. (The full form まだ食べていません comes after Lesson 14.)",
       "tamil_parallel": "ஏற்கனவே சாப்பிட்டாச்சு = もう食べました ; இன்னும் இல்லை = まだです",
-      "tamil_parallel_en": "This is the everyday Tamil exchange with ஆச்சு / இன்னும் இல்லை: ஏற்கனவே சாப்பிட்டாச்சு (\"I've already eaten\") = もう食べました; இன்னும் இல்லை (\"not yet\") = まだです.",
+      "tamil_parallel_en": "This is the everyday Tamil talk with \"ஆச்சு / இன்னும் இல்லை\". \"ஏற்கனவே சாப்பிட்டாச்சு\" (\"I’ve already eaten\") = もう食べました. \"இன்னும் இல்லை\" (\"not yet\") = まだです.",
       "formation": "もう + V ました (か) ／ いいえ、まだです",
       "formation_en": "もう + V ました (か) ／ いいえ、まだです",
       "examples": [
@@ -292,7 +292,7 @@
         }
       ],
       "pitfalls_ta": "まだ食べませんでした ✗ (இன்னும் சாப்பிடவில்லை என்ற பொருளில்) — まだです என்று சொல்லுங்கள். もう என்ற சொல்லுக்கு \"இன்னொன்று / மேலும்\" என்ற பொருளும் உண்டு (もう一つ); இங்கே \"ஏற்கனவே\" மட்டும்.",
-      "pitfalls_en": "まだ食べませんでした ✗ (when you mean \"I haven't eaten yet\"); say まだです. The word もう can also mean \"one more / more\" (もう一つ); here it only means \"already\"."
+      "pitfalls_en": "まだ食べませんでした ✗ (when you mean \"I haven’t eaten yet\"). Say まだです. The word もう can also mean \"one more / more\" (もう一つ). Here it only means \"already\"."
     },
     {
       "id": "g07-6",
@@ -302,11 +302,11 @@
         "ta": "குடும்பச் சொற்கள்: என்னுடையவர் vs மற்றவருடையவர்"
       },
       "explanation_ta": "ஜப்பானிய மொழியில் குடும்ப உறவுகளுக்கு இரண்டு சொற்கள்: என் குடும்பத்தினரை மற்றவரிடம் சொல்லும்போது தாழ்மையான சொல் (父 அப்பா, 母 அம்மா, 兄 அண்ணன், 姉 அக்கா, 弟 தம்பி, 妹 தங்கை, 両親 பெற்றோர்); மற்றவர் குடும்பத்தினரைச் சொல்லும்போது மரியாதைச் சொல் (お父さん, お母さん, お兄さん, お姉さん, 弟さん, 妹さん, 奥さん). தமிழில் \"என் அப்பா\" / \"உங்கள் அப்பா\" என்று ஒரே சொல்தான்; ஆனால் \"அப்பா அவர்கள்\", \"உங்க அம்மாவுங்க\" என்று மற்றவர் குடும்பத்தினருக்கு மரியாதை சேர்ப்பது போலவே இதைப் புரிந்துகொள்ளலாம். ஒரு விதிவிலக்கு: வீட்டில் என் அப்பா அம்மாவை நேரடியாக அழைக்கும்போது お父さん・お母さん என்றே அழைப்போம் (தமிழின் \"அப்பா! அம்மா!\" போல). 2-ஆம் பாடத்தில் பார்த்த お〜 மரியாதை முன்னொட்டும், 1-ஆம் பாடத்தின் 〜さん-உம் இணைந்ததே இந்த மரியாதைச் சொற்கள்.",
-      "explanation_en": "Japanese has two words for each family relation. When you talk about your own family to others, use the humble word (父 father, 母 mother, 兄 older brother, 姉 older sister, 弟 younger brother, 妹 younger sister, 両親 parents). When you talk about someone else's family, use the polite word (お父さん, お母さん, お兄さん, お姉さん, 弟さん, 妹さん, 奥さん). In Tamil, \"என் அப்பா\" (my father) and \"உங்கள் அப்பா\" (your father) use the same word, but you can understand this through the way Tamil adds respect for other people's family, as in \"அப்பா அவர்கள்\" or \"உங்க அம்மாவுங்க\". One exception: at home, when you call your own father and mother directly, you say お父さん and お母さん (like calling \"அப்பா! அம்மா!\" in Tamil). These polite words combine the お〜 honorific prefix from Lesson 2 and 〜さん from Lesson 1.",
+      "explanation_en": "Japanese has two words for each family member. When you talk to others about your own family, use the humble word. Humble means you lower your own side to be polite. The humble words are: 父 father, 母 mother, 兄 older brother, 姉 older sister, 弟 younger brother, 妹 younger sister, 両親 parents. When you talk about someone else’s family, use the polite word. The polite words are: お父さん, お母さん, お兄さん, お姉さん, 弟さん, 妹さん, 奥さん. In Tamil, \"என் அப்பா\" (my father) and \"உங்கள் அப்பா\" (your father) use the same word. But Tamil also adds respect for other people’s family, as in \"அப்பா அவர்கள்\" or \"உங்க அம்மாவுங்க\". That helps you understand this. One exception: at home, when you call your own father and mother, you say お父さん and お母さん. It is like calling \"அப்பா! அம்மா!\" in Tamil. These polite words use the polite お〜 from Lesson 2 and 〜さん from Lesson 1.",
       "tamil_parallel": "என் அப்பா = 父 ; உங்கள் அப்பா (அவர்கள்) = お父さん",
-      "tamil_parallel_en": "Tamil uses one word but adds respect for someone else's family, while Japanese switches words: என் அப்பா (\"my father\") = 父; உங்கள் அப்பா (அவர்கள்) (\"your (respected) father\") = お父さん.",
+      "tamil_parallel_en": "Tamil uses one word but adds respect for someone else’s family. Japanese changes the word. \"என் அப்பா\" (\"my father\") = 父. \"உங்கள் அப்பா (அவர்கள்)\" (\"your (respected) father\") = お父さん.",
       "formation": "என்னுடையவர்: 父・母・兄・姉・弟・妹・両親 ／ மற்றவருடையவர்: お父さん・お母さん・お兄さん・お姉さん・弟さん・妹さん・奥さん",
-      "formation_en": "Your own family: 父・母・兄・姉・弟・妹・両親 ／ Someone else's family: お父さん・お母さん・お兄さん・お姉さん・弟さん・妹さん・奥さん",
+      "formation_en": "Your own family: 父・母・兄・姉・弟・妹・両親 ／ Someone else’s family: お父さん・お母さん・お兄さん・お姉さん・弟さん・妹さん・奥さん",
       "examples": [
         {
           "ja": "私の 父は 医者です。",
@@ -352,7 +352,7 @@
         }
       ],
       "pitfalls_ta": "私のお父さんは医者です — மற்றவரிடம் என் அப்பாவைப் பற்றிச் சொல்லும்போது இது தவறு; 私の父. மாறாக 田中さんの父 ✗ → 田中さんのお父さん. உச்சரிப்பு: おとうさん (அப்பா) / おとうと (தம்பி) குழப்பம் பொதுவானது.",
-      "pitfalls_en": "私のお父さんは医者です is wrong when talking about your own father to others; say 私の父. The other way round, 田中さんの父 ✗ → 田中さんのお父さん. Pronunciation: mixing up おとうさん (father) and おとうと (younger brother) is common."
+      "pitfalls_en": "When you talk to others about your own father, 私のお父さんは医者です is wrong. Say 私の父. It also works the other way: 田中さんの父 ✗ → 田中さんのお父さん. Sound: people often mix up おとうさん (father) and おとうと (younger brother)."
     }
   ],
   "vocab_ids": [
@@ -404,7 +404,7 @@
         ],
         "answer": 0,
         "explanation_ta": "両親 = りょうしん (பெற்றோர்). 両 = りょう என்ற நீண்ட ஒலி; 親 = しん (じん அல்ல — 〜人 என்ற じん-உடன் குழப்பாதீர்கள்).",
-        "explanation_en": "両親 = りょうしん (பெற்றோர், parents). 両 is the long sound りょう; 親 is しん (not じん; don't confuse it with じん in 〜人)."
+        "explanation_en": "両親 = りょうしん (பெற்றோர், parents). 両 is the long sound りょう. 親 is しん, not じん. Don’t mix it up with じん in 〜人."
       },
       {
         "id": "L07-q02",
@@ -419,7 +419,7 @@
         ],
         "answer": 3,
         "explanation_ta": "弟 = おとうと (தம்பி). おとうさん என்பது お父さん (அப்பா) — ஒலி ஒத்திருப்பதால் பொதுவான குழப்பம். நடுவில் う இருக்க வேண்டும்; ど அல்ல.",
-        "explanation_en": "弟 = おとうと (தம்பி, younger brother). おとうさん is お父さん (அப்பா, father); they sound similar, so this is a common confusion. There must be an う in the middle, and it is と, not ど."
+        "explanation_en": "弟 = おとうと (தம்பி, younger brother). おとうさん is お父さん (அப்பா, father). They sound alike, so people often mix them up. There must be an う in the middle. And it is と, not ど."
       },
       {
         "id": "L07-q03",
@@ -434,7 +434,7 @@
         ],
         "answer": 1,
         "explanation_ta": "兄弟 = きょうだい (உடன்பிறந்தோர்). きょう நீண்ட ஒலி; 弟 இங்கே だい (ஒலியழுத்தத்துடன்). きょだい என்று குறுக்கினால் தவறு.",
-        "explanation_en": "兄弟 = きょうだい (உடன்பிறந்தோர், siblings). きょう is a long sound; here 弟 is だい (voiced). Shortening it to きょだい is wrong."
+        "explanation_en": "兄弟 = きょうだい (உடன்பிறந்தோர், siblings). きょう is a long sound. Here 弟 is だい, with the two dots. The short form きょだい is wrong."
       },
       {
         "id": "L07-q04",
@@ -449,7 +449,7 @@
         ],
         "answer": 1,
         "explanation_ta": "はな = 花 (பூ). 化 என்பது 花-இன் கீழ்ப் பகுதி மட்டும்; மேலே புல் (艹) சேர்ந்தால்தான் 花. 茶 (ちゃ) கூட அதே 艹 கொண்டது, ஆனால் வேறு சொல்.",
-        "explanation_en": "はな = 花 (பூ, flower). 化 is only the bottom part of 花; it becomes 花 only with the grass radical (艹) on top. 茶 (ちゃ) also has 艹, but it is a different word."
+        "explanation_en": "はな = 花 (பூ, flower). 化 is only the bottom part of 花. It becomes 花 only with the grass part (艹) on top. 茶 (ちゃ) also has 艹, but it is a different word."
       },
       {
         "id": "L07-q05",
@@ -464,7 +464,7 @@
         ],
         "answer": 2,
         "explanation_ta": "はは = 母 (என் அம்மா). 毎 (まい) மற்றும் 海 (うみ) உள்ளே 母 போன்ற வடிவம் இருப்பதால் தோற்ற ஒற்றுமை; 父 (ちち) அப்பா.",
-        "explanation_en": "はは = 母 (என் அம்மா, my mother). 毎 (まい) and 海 (うみ) look similar because they contain a shape like 母; 父 (ちち) is father."
+        "explanation_en": "はは = 母 (என் அம்மா, my mother). 毎 (まい) and 海 (うみ) look like it, because they have a shape like 母. 父 (ちち) is father."
       },
       {
         "id": "L07-q06",
@@ -478,7 +478,7 @@
         ],
         "answer": 2,
         "explanation_ta": "ஆசிரியரிடம் மொழி கற்றுக்கொள்வது = 習います. 教えます என்றால் \"நான் ஆசிரியருக்குக் கற்பிக்கிறேன்\" என்று திசை மாறிவிடும்.",
-        "explanation_en": "Learning a language from a teacher = 習います (கற்றுக்கொள்கிறேன், learn). With 教えます the direction flips: \"I teach the teacher\"."
+        "explanation_en": "You learn a language from a teacher: 習います (கற்றுக்கொள்கிறேன், learn). 教えます turns it around: \"I teach the teacher\"."
       },
       {
         "id": "L07-q07",
@@ -492,7 +492,7 @@
         ],
         "answer": 1,
         "explanation_ta": "தொலைபேசியில் முதல் சொல் = もしもし (ஹலோ). はじめまして நேரில் முதன்முறை சந்திக்கும்போது; さようなら பிரியும்போது.",
-        "explanation_en": "The first word on the phone = もしもし (ஹலோ, hello). はじめまして is for meeting someone in person for the first time; さようなら is for parting."
+        "explanation_en": "The first word on the phone is もしもし (ஹலோ, hello). はじめまして is for meeting someone face to face for the first time. さようなら is for saying goodbye."
       },
       {
         "id": "L07-q08",
@@ -520,7 +520,7 @@
         ],
         "answer": 3,
         "explanation_ta": "ஜப்பானியர்கள் சாப்பிடுவது சாப்ஸ்டிக்ஸால் = 箸. コップ குடிக்க; 花瓶 (பூஜாடி), 電話 (தொலைபேசி) சாப்பிடும் கருவிகள் அல்ல.",
-        "explanation_en": "Japanese people eat with chopsticks = 箸 (சாப்ஸ்டிக்ஸ், chopsticks). コップ is for drinking; 花瓶 (vase) and 電話 (phone) are not eating tools."
+        "explanation_en": "Japanese people eat with chopsticks = 箸 (சாப்ஸ்டிக்ஸ், chopsticks). コップ is for drinking. 花瓶 (vase) and 電話 (phone) are not for eating."
       },
       {
         "id": "L07-q10",
@@ -534,7 +534,7 @@
         ],
         "answer": 0,
         "explanation_ta": "\"இல்லை, இன்னும் இல்லை\" = いいえ、まだです. もう (ஏற்கனவே) いいえ-உடன் வராது.",
-        "explanation_en": "\"No, not yet\" = いいえ、まだです (இன்னும் இல்லை, not yet). もう (already) doesn't go with いいえ."
+        "explanation_en": "\"No, not yet\" = いいえ、まだです (இன்னும் இல்லை, not yet). もう (already) does not go with いいえ."
       },
       {
         "id": "L07-q11",
@@ -548,7 +548,7 @@
         ],
         "answer": 1,
         "explanation_ta": "மற்றவரின் (田中さんの) அப்பா → மரியாதைச் சொல் お父さん. 父 என் அப்பாவுக்கு மட்டும்; 兄・母 கூட தாழ்மைச் சொற்கள், மற்றவர் குடும்பத்துக்குப் பொருந்தாது.",
-        "explanation_en": "Someone else's (田中さんの) father → the polite word お父さん (அப்பா, father). 父 is only for your own father; 兄 and 母 are also humble words and don't fit someone else's family."
+        "explanation_en": "This is someone else’s (田中さんの) father. So use the polite word お父さん (அப்பா, father). 父 is only for your own father. 兄 and 母 are also humble words, so they don’t fit someone else’s family."
       },
       {
         "id": "L07-q12",
@@ -562,7 +562,7 @@
         ],
         "answer": 3,
         "explanation_ta": "\"அண்ணன் எனக்குக் கற்பிக்கிறார்\" = \"நான் அண்ணனிடம் கற்றுக்கொள்கிறேன்\" (習います). 教えます-ஐ அப்படியே வைத்து ஆள்களை மாற்றினால் திசை தலைகீழாகிவிடும்.",
-        "explanation_en": "\"My older brother teaches me\" = \"I learn from my older brother\" (習います, கற்றுக்கொள்கிறேன், learn). If you keep 教えます and just swap the people, the direction is reversed."
+        "explanation_en": "\"My older brother teaches me\" = \"I learn from my older brother\" (習います, கற்றுக்கொள்கிறேன், learn). If you keep 教えます and just swap the people, the meaning turns around."
       },
       {
         "id": "L07-q13",
@@ -576,7 +576,7 @@
         ],
         "answer": 0,
         "explanation_ta": "\"தனகா, யமதாவிடமிருந்து கடிகாரம் பெற்றார்\" = \"யமதா, தனகாவுக்குக் கடிகாரம் கொடுத்தார்\" (山田さんは田中さんにあげました). もらう/あげる இரண்டிலும் に வந்தாலும் பொருள் எதிர்த் திசை. கவனம்: \"எனக்குக் கொடுத்தார்\" என்பதற்கு あげました சொல்லக்கூடாது; அதற்கு くれました (பாடம் 24).",
-        "explanation_en": "\"Tanaka received a watch from Yamada\" = \"Yamada gave Tanaka a watch\" (山田さんは田中さんにあげました; கொடுத்தார், gave). もらう and あげる both use に, but the direction is opposite. Note: you cannot use あげました when someone gives something to you; that needs くれました (Lesson 24)."
+        "explanation_en": "\"Tanaka received a watch from Yamada\" = \"Yamada gave Tanaka a watch\" (山田さんは田中さんにあげました; கொடுத்தார், gave). もらう and あげる both use に, but they go in opposite directions. Note: when someone gives something to you, you can’t use あげました. You need くれました (Lesson 24)."
       },
       {
         "id": "L07-q14",
@@ -590,7 +590,7 @@
         ],
         "answer": 2,
         "explanation_ta": "\"நான் நண்பரிடம் கடன் வாங்கினேன்\" = \"நண்பர் எனக்குக் கடனாகக் கொடுத்தார்\" (貸しました). 借りる (கடன் வாங்க) / 貸す (கடன் கொடுக்க) ஒலி ஒத்திருப்பதால் குழப்பம்.",
-        "explanation_en": "\"I borrowed it from a friend\" = \"My friend lent it to me\" (貸しました, கடனாகக் கொடுத்தார், lent). 借りる (கடன் வாங்க, borrow) and 貸す (கடன் கொடுக்க, lend) sound similar, which causes confusion."
+        "explanation_en": "\"I borrowed it from a friend\" = \"My friend lent it to me\" (貸しました, கடனாகக் கொடுத்தார், lent). 借りる (கடன் வாங்க, borrow) and 貸す (கடன் கொடுக்க, lend) sound alike, so people mix them up."
       },
       {
         "id": "L07-q15",
@@ -604,7 +604,7 @@
         ],
         "answer": 0,
         "explanation_ta": "あげます-இன் பெறுபவர் → に (தமிழ் \"தங்கைக்கு\"). を பொருளுக்கு மட்டும்; ஒரே வாக்கியத்தில் இரண்டு を வராது.",
-        "explanation_en": "The receiver with あげます → に (the Tamil \"தங்கைக்கு\", to my younger sister). を is only for the thing; one sentence can't have two を."
+        "explanation_en": "With あげます, the person who gets it takes に (like the Tamil \"தங்கைக்கு\", to my younger sister). を is only for the thing. One sentence can’t have two を."
       },
       {
         "id": "L07-q16",
@@ -618,7 +618,7 @@
         ],
         "answer": 2,
         "explanation_ta": "もらいます-இன் கொடுப்பவர் → から (அல்லது に). で கருவி/இடம்; が இங்கே பொருந்தாது.",
-        "explanation_en": "The giver with もらいます → から (or に). で is for a tool or place; が doesn't fit here."
+        "explanation_en": "With もらいます, the giver takes から (or に). で is for a tool or a place. が does not fit here."
       },
       {
         "id": "L07-q17",
@@ -632,7 +632,7 @@
         ],
         "answer": 1,
         "explanation_ta": "கருவி (சாப்ஸ்டிக்ஸால்) → で. に என்று போட்டால் \"சாப்ஸ்டிக்ஸுக்கு\" என்ற பொருளாகிவிடும்.",
-        "explanation_en": "A tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks) → で. With に it would mean \"to the chopsticks\"."
+        "explanation_en": "Chopsticks are a tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks), so use で. With に it would mean \"to the chopsticks\"."
       },
       {
         "id": "L07-q18",
@@ -646,7 +646,7 @@
         ],
         "answer": 0,
         "explanation_ta": "மொழியைக் குறிக்க で (ஆங்கிலத்தில் = ஆங்கிலம் என்ற வழிமுறையால்). 英語に ✗.",
-        "explanation_en": "Use で for a language (in English = by means of English). 英語に ✗."
+        "explanation_en": "Use で for a language (in English = using English). 英語に ✗."
       },
       {
         "id": "L07-q19",
@@ -660,7 +660,7 @@
         ],
         "answer": 3,
         "explanation_ta": "もう (ஏற்கனவே) + கடந்த காலம் ました → 撮りましたか (எடுத்துவிட்டீர்களா?). もう撮りますか என்றால் பொருள் பொருந்தாது.",
-        "explanation_en": "もう (ஏற்கனவே, already) + past ました → 撮りましたか (எடுத்துவிட்டீர்களா?, have you taken it?). もう撮りますか doesn't make sense."
+        "explanation_en": "もう (ஏற்கனவே, already) goes with the past ました. So the answer is 撮りましたか (எடுத்துவிட்டீர்களா?, have you taken it?). もう撮りますか makes no sense."
       },
       {
         "id": "L07-q20",
@@ -674,7 +674,7 @@
         ],
         "answer": 3,
         "explanation_ta": "\"இன்னும் இல்லை\" = まだです. まだ読みませんでした என்பது பொதுவான தவறு — அது \"அப்போது படிக்கவில்லை\" என்ற கடந்த காலக் கூற்று; \"இன்னும் படிக்கவில்லை\" அல்ல.",
-        "explanation_en": "\"Not yet\" = まだです (இன்னும் இல்லை). まだ読みませんでした is a common mistake; it is a past statement, \"I didn't read it (then)\", not \"I haven't read it yet\"."
+        "explanation_en": "\"Not yet\" = まだです (இன்னும் இல்லை). A common mistake is まだ読みませんでした. That means \"I didn’t read it (then)\", not \"I haven’t read it yet\"."
       },
       {
         "id": "L07-q21",
@@ -688,7 +688,7 @@
         ],
         "answer": 2,
         "explanation_ta": "電話をかけます — தொலைபேசி செய்வது; 電話 செயப்படுபொருள் → を. நபருக்கு ஏற்கனவே に (母に) வந்துவிட்டது.",
-        "explanation_en": "電話をかけます means make a phone call; 電話 is the object → を. The person already has に (母に)."
+        "explanation_en": "電話をかけます means make a phone call. 電話 is the object (the thing), so use を. The person already has に (母に)."
       },
       {
         "id": "L07-q22",
@@ -703,7 +703,7 @@
         "star": 2,
         "after": "。",
         "explanation_ta": "யாருக்கு (友達に) → எதை (日本語の本を) → வினை (貸しました). ★ இடத்தில் 本を; 日本語の என்பது 本-ஐ விவரிப்பதால் அதற்கு நேர் முன்னால்.",
-        "explanation_en": "To whom (友達に) → what (日本語の本を) → verb (貸しました). The ★ slot is 本を; 日本語の describes 本, so it comes right before it."
+        "explanation_en": "Order: to whom (友達に), then what (日本語の本を), then the verb (貸しました). The ★ slot is 本を. 日本語の tells you about 本, so it comes right before it."
       },
       {
         "id": "L07-q23",
@@ -718,7 +718,7 @@
         "star": 1,
         "after": "。",
         "explanation_ta": "インドの母に (இந்தியாவில் உள்ள அம்மாவுக்கு) → 電話を → かけます. ★ இடத்தில் 母に; の கொண்ட インドの அதற்கு முன்.",
-        "explanation_en": "インドの母に (இந்தியாவில் உள்ள அம்மாவுக்கு, to my mother in India) → 電話を → かけます. The ★ slot is 母に; インドの, with の, comes before it."
+        "explanation_en": "Order: インドの母に (இந்தியாவில் உள்ள அம்மாவுக்கு, to my mother in India), then 電話を, then かけます. The ★ slot is 母に. インドの, with の, comes before it."
       },
       {
         "id": "L07-q24",
@@ -733,7 +733,7 @@
         "star": 2,
         "after": "。",
         "explanation_ta": "நேரம் (誕生日に) → யாரிடம் (友達に) → எதை (花を) → வினை. ★ இடத்தில் 花を. もらいました என்பதால் 友達に = கொடுத்த நண்பர்.",
-        "explanation_en": "Time (誕生日に) → from whom (友達に) → what (花を) → verb. The ★ slot is 花を. Because the verb is もらいました, 友達に = the friend who gave it."
+        "explanation_en": "Order: time (誕生日に), then from whom (友達に), then what (花を), then the verb. The ★ slot is 花を. The verb is もらいました, so 友達に is the friend who gave it."
       },
       {
         "id": "L07-q25",
@@ -769,7 +769,7 @@
           }
         ],
         "explanation_ta": "［1］கருவி (சாப்ஸ்டிக்ஸால்) → で. ［2］教えます-இன் பெறுபவர் (எனக்கு) → に; から பெறும் வினைகளுக்கு மட்டும். ［3］借りました-இன் மூலம் (அண்ணனிடமிருந்து) → から (に-உம் சரி, ஆனால் தேர்வுகளில் இல்லை).",
-        "explanation_en": "［1］A tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks) → で. ［2］The receiver of 教えます (\"எனக்கு\", to me) → に; から is only for receiving verbs. ［3］The source of 借りました (\"அண்ணனிடமிருந்து\", from my older brother) → から (に is also correct, but it is not among the choices)."
+        "explanation_en": "［1］Chopsticks are a tool (\"சாப்ஸ்டிக்ஸால்\", with chopsticks), so use で. ［2］The person 教えます goes to (\"எனக்கு\", to me) takes に. から is only for \"get\" verbs. ［3］借りました needs the person you got it from (\"அண்ணனிடமிருந்து\", from my older brother). So use から. に is also correct, but it is not one of the choices."
       }
     ]
   }

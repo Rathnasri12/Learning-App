@@ -6,7 +6,7 @@
     "en": "Please don't …"
   },
   "intro_ta": "இந்தப் பாடத்தில் வினைச்சொல்லின் ない-வடிவத்தை (சாதாரண எதிர்மறை வடிவம்) உருவாக்கக் கற்றுக்கொள்வோம். அதைக் கொண்டு 'செய்யாதீர்கள்' (〜ないでください), 'செய்தே ஆக வேண்டும்' (〜なければなりません), 'செய்ய வேண்டிய அவசியம் இல்லை' (〜なくてもいいです) என்று மூன்று முக்கியமான வாக்கிய அமைப்புகளைப் பேச முடியும். மருத்துவமனை, உடல்நலம், கெடு (までに) போன்ற அன்றாட சூழல்களில் இவற்றைப் பயன்படுத்துவோம்.",
-  "intro_en": "In this lesson you will learn to make the ない-form of verbs (the plain negative form). With it you can use three important sentence patterns: \"please don't do\" (〜ないでください), \"must do\" (〜なければなりません) and \"don't have to do\" (〜なくてもいいです). You will use them in everyday situations such as the hospital, health, and deadlines (までに).",
+  "intro_en": "In this lesson you will make the ない-form of verbs. This is the plain \"not\" form. With it you can use three important patterns. They are \"please don’t do\" (〜ないでください), \"must do\" (〜なければなりません) and \"don’t have to do\" (〜なくてもいいです). You will use them in everyday places, like the hospital. You will also talk about health and deadlines (までに).",
   "grammar": [
     {
       "id": "g17-1",
@@ -16,9 +16,9 @@
         "ta": "ない-வடிவம் (சாதாரண எதிர்மறை) உருவாக்குவது"
       },
       "explanation_ta": "ない-வடிவம் என்பது வினைச்சொல்லின் சாதாரண (நட்பு நடை) எதிர்மறை வடிவம்; பொருளில் ません-க்குச் சமம் (書きません = 書かない = எழுதவில்லை / எழுத மாட்டேன்). இதை இந்தப் பாடத்தின் மூன்று அமைப்புகளுக்கும் (〜ないでください、〜なければなりません、〜なくてもいいです) அடிப்படையாகப் பயன்படுத்துகிறோம். குழு I (う-வினைச்சொற்கள்): ます-தண்டின் கடைசி い-வரிசை ஒலியை あ-வரிசைக்கு மாற்றி ない சேர்க்கவும் (書きます → 書か → 書かない、飲みます → 飲まない). ஆனால் தண்டு い-ஆக முடிந்து அகராதி வடிவம் う-ஆக இருந்தால் (買います、吸います) あ அல்ல, わ: 買わない、吸わない. குழு II (る-வினைச்சொற்கள்): ます நீக்கி ない சேர்க்கவும் (食べます → 食べない、起きます → 起きない). குழு III: します → しない、来ます → 来ない (こない). あります-க்கு மட்டும் ない (×あらない). தமிழில் 'சாப்பிடாத / போகாத' என்ற எதிர்மறை வினையெச்சம் '-ஆத' போல, ஜப்பானிய ない-வடிவமும் ஒரு い-பெயரடை போலச் செயல்படும்.",
-      "explanation_en": "The ない-form is the plain (casual) negative form of a verb; in meaning it equals ません (書きません = 書かない = எழுதவில்லை / எழுத மாட்டேன், don't write / won't write). You use it as the base for all three patterns in this lesson (〜ないでください、〜なければなりません、〜なくてもいいです). Group I (う-verbs): change the last い-row sound of the ます-stem to the あ-row and add ない (書きます → 書か → 書かない、飲みます → 飲まない). But if the stem ends in い and the dictionary form ends in う (買います、吸います), it becomes わ, not あ: 買わない、吸わない. Group II (る-verbs): drop ます and add ない (食べます → 食べない、起きます → 起きない). Group III: します → しない、来ます → 来ない (こない). Only あります becomes just ない (×あらない). Just as the Tamil negative participle ending \"-ஆத\" in \"சாப்பிடாத / போகாத\" (not eating / not going) can describe things, the Japanese ない-form behaves like an い-adjective.",
+      "explanation_en": "The ない-form is the plain (casual) \"not\" form of a verb. It means the same as ません (書きません = 書かない = எழுதவில்லை / எழுத மாட்டேன், don’t write / won’t write). All three patterns in this lesson are built on it (〜ないでください、〜なければなりません、〜なくてもいいです). Group I (う-verbs): look at the last sound before ます. It is in the い-row. Change it to the あ-row and add ない (書きます → 書か → 書かない、飲みます → 飲まない). But watch this case. Sometimes the sound before ます is い and the dictionary form ends in う (買います、吸います). Then it becomes わ, not あ: 買わない、吸わない. Group II (る-verbs): drop ます and add ない (食べます → 食べない、起きます → 起きない). Group III: します → しない、来ます → 来ない (こない). あります is special. It becomes just ない (×あらない). Tamil has the \"not\" ending \"-ஆத\", as in \"சாப்பிடாத / போகாத\" (not eating / not going). It can describe things. In the same way, the Japanese ない-form works like an い-adjective.",
       "tamil_parallel": "எழுதுகிறேன் → எழுதவில்லை / எழுதாத = 書きます → 書かない ; சாப்பிடுகிறேன் → சாப்பிடாத = 食べます → 食べない",
-      "tamil_parallel_en": "Like the Tamil negative forms \"-வில்லை\" / \"-ஆத\": எழுதுகிறேன் → எழுதவில்லை / எழுதாத (\"I write\" → \"didn't write / not writing\") = 書きます → 書かない ; சாப்பிடுகிறேன் → சாப்பிடாத (\"I eat\" → \"not eating\") = 食べます → 食べない.",
+      "tamil_parallel_en": "Like the Tamil \"not\" forms \"-வில்லை\" / \"-ஆத\": எழுதுகிறேன் → எழுதவில்லை / எழுதாத (\"I write\" → \"didn’t write / not writing\") = 書きます → 書かない ; சாப்பிடுகிறேன் → சாப்பிடாத (\"I eat\" → \"not eating\") = 食べます → 食べない.",
       "formation": "குழு I: い-வரிசை → あ-வரிசை + ない — 書きます→書かない、聞きます→聞かない、飲みます→飲まない、読みます→読まない、休みます→休まない、返します→返さない、出します→出さない、待ちます→待たない、持ちます→持たない、帰ります→帰らない、入ります→入らない、乗ります→乗らない、脱ぎます→脱がない ; い-தண்டு + う: 買います→買わない、吸います→吸わない、習います→習わない、使います→使わない / குழு II: ます → ない — 食べます→食べない、見ます→見ない、起きます→起きない、寝ます→寝ない、忘れます→忘れない、覚えます→覚えない、入れます→入れない、浴びます→浴びない、降ります→降りない / குழு III: します→しない、勉強します→勉強しない、来ます→来ない(こない) / சிறப்பு: あります→ない",
       "formation_en": "Group I: い-row → あ-row + ない: 書きます→書かない、聞きます→聞かない、飲みます→飲まない、読みます→読まない、休みます→休まない、返します→返さない、出します→出さない、待ちます→待たない、持ちます→持たない、帰ります→帰らない、入ります→入らない、乗ります→乗らない、脱ぎます→脱がない ; い-stem + う: 買います→買わない、吸います→吸わない、習います→習わない、使います→使わない / Group II: ます → ない: 食べます→食べない、見ます→見ない、起きます→起きない、寝ます→寝ない、忘れます→忘れない、覚えます→覚えない、入れます→入れない、浴びます→浴びない、降ります→降りない / Group III: します→しない、勉強します→勉強しない、来ます→来ない(こない) / Special: あります→ない",
       "examples": [
@@ -73,7 +73,7 @@
         }
       ],
       "pitfalls_ta": "買います-ஐ ×買あない என்று சொல்லக் கூடாது — ○買わない. 来ます-இன் ない-வடிவம் ×きない அல்ல, ○こない (ஒலி மாறுகிறது). あります → ×あらない அல்ல, ○ない.",
-      "pitfalls_en": "Don't say ×買あない for 買います; it is ○買わない. The ない-form of 来ます is not ×きない but ○こない (the sound changes). あります → not ×あらない but ○ない."
+      "pitfalls_en": "For 買います, don’t say ×買あない. It is ○買わない. For 来ます, it is not ×きない. It is ○こない (the sound changes). For あります, it is not ×あらない. It is just ○ない."
     },
     {
       "id": "g17-2",
@@ -83,9 +83,9 @@
         "ta": "தயவுசெய்து 〜 செய்யாதீர்கள்"
       },
       "explanation_ta": "'〜 செய்யாதீர்கள்' என்று மரியாதையாகத் தடுக்க ない-வடிவத்துடன் でください சேர்க்கிறோம். பாடம் 14-இல் படித்த 〜てください (செய்யுங்கள்)-இன் எதிர்மறை இது. தமிழில் 'புகை பிடிக்காதீர்கள்', 'மறக்காதீர்கள்' என்று '-ஆதீர்கள்' சேர்ப்பது போலவே. காரணம் சொல்ல முன்னால் 〜ですから / 〜ますから போடலாம் (危ないですから、入らないでください). நெருங்கிய நபரிடம் ください-ஐ விட்டு 〜ないで என்று மட்டும் சொல்லலாம், ஆனால் N5-இல் முழு வடிவத்தையே பயன்படுத்துவோம்.",
-      "explanation_en": "To politely tell someone not to do something (\"please don't ...\"), add でください to the ない-form. It is the negative of 〜てください (please do), which you learned in Lesson 14. It is just like adding \"-ஆதீர்கள்\" in Tamil: \"புகை பிடிக்காதீர்கள்\" (don't smoke), \"மறக்காதீர்கள்\" (don't forget). To give a reason, you can put 〜ですから / 〜ますから in front (危ないですから、入らないでください). With close friends you can drop ください and just say 〜ないで, but at N5 we use the full form.",
+      "explanation_en": "Sometimes you want to tell someone politely not to do something (\"please don’t ...\"). Add でください to the ない-form. It is the opposite of 〜てください (please do), from Lesson 14. It is like adding \"-ஆதீர்கள்\" in Tamil. For example, \"புகை பிடிக்காதீர்கள்\" (don’t smoke) and \"மறக்காதீர்கள்\" (don’t forget). You can give a reason first with 〜ですから / 〜ますから (危ないですから、入らないでください). With close friends, you can drop ください and just say 〜ないで. But at N5 we use the full form.",
       "tamil_parallel": "புகை பிடிக்காதீர்கள் = たばこを吸わないでください ; மறக்காதீர்கள் = 忘れないでください",
-      "tamil_parallel_en": "Like the Tamil polite negative command \"-ஆதீர்கள்\": புகை பிடிக்காதீர்கள் (\"please don't smoke\") = たばこを吸わないでください ; மறக்காதீர்கள் (\"please don't forget\") = 忘れないでください.",
+      "tamil_parallel_en": "Like the Tamil polite \"don’t\" form \"-ஆதீர்கள்\": புகை பிடிக்காதீர்கள் (\"please don’t smoke\") = たばこを吸わないでください ; மறக்காதீர்கள் (\"please don’t forget\") = 忘れないでください.",
       "formation": "V ない-வடிவம் + でください (吸わない + でください → 吸わないでください ; 忘れない + でください → 忘れないでください)",
       "formation_en": "V ない-form + でください (吸わない + でください → 吸わないでください ; 忘れない + でください → 忘れないでください)",
       "examples": [
@@ -133,7 +133,7 @@
         }
       ],
       "pitfalls_ta": "×吸わなくてください அல்ல — ○吸わないでください (ないで + ください). て-வடிவத்துக்கு ない சேர்த்து ×吸ってない என்றும் சொல்லக் கூடாது.",
-      "pitfalls_en": "It is not ×吸わなくてください but ○吸わないでください (ないで + ください). Also don't add ない to the て-form as in ×吸ってない."
+      "pitfalls_en": "It is not ×吸わなくてください. It is ○吸わないでください (ないで + ください). Also, don’t add ない to the て-form, like ×吸ってない."
     },
     {
       "id": "g17-3",
@@ -143,9 +143,9 @@
         "ta": "〜 செய்தே ஆக வேண்டும்"
       },
       "explanation_ta": "'கட்டாயம் செய்ய வேண்டும்' என்ற கடமையைச் சொல்ல ない-வடிவத்தின் கடைசி い-ஐ நீக்கி ければなりません சேர்க்கிறோம் (飲まない → 飲まなければなりません). நேரடிப் பொருள் 'செய்யாவிட்டால் ஆகாது' — தமிழில் 'சாப்பிடாவிட்டால் முடியாது' = 'சாப்பிட்டே ஆக வேண்டும்' என்பது போல. நீண்ட வடிவம் என்றாலும் ஒரே துண்டாக மனப்பாடம் செய்யுங்கள். கேள்வி: 〜なければなりませんか; பதிலில் 'ஆம்' என்றால் はい、〜なければなりません, 'தேவையில்லை' என்றால் いいえ、〜なくてもいいです (அடுத்த இலக்கணம்). கெடு சொல்ல 〜までに (g17-6) உடன் அடிக்கடி வரும்.",
-      "explanation_en": "To express a duty, \"must do\", drop the final い of the ない-form and add ければなりません (飲まない → 飲まなければなりません). The literal meaning is \"if you don't do it, it won't do\", just like Tamil \"சாப்பிடாவிட்டால் முடியாது\" (it won't do if you don't eat) = \"சாப்பிட்டே ஆக வேண்டும்\" (you must eat). It is a long form, but memorise it as one chunk. Question: 〜なければなりませんか. If the answer is \"yes\", say はい、〜なければなりません; if \"no need\", say いいえ、〜なくてもいいです (the next grammar point). It often comes with 〜までに (g17-6) to give a deadline.",
+      "explanation_en": "To say \"must do\", take the ない-form. Drop the last い and add ければなりません (飲まない → 飲まなければなりません). Word for word, it means \"if you don’t do it, it won’t do\". Tamil says it the same way: \"சாப்பிடாவிட்டால் முடியாது\" (it won’t do if you don’t eat) = \"சாப்பிட்டே ஆக வேண்டும்\" (you must eat). It is a long form. Learn it as one block. To ask, say 〜なければなりませんか. If the answer is \"yes\", say はい、〜なければなりません. If the answer is \"no need\", say いいえ、〜なくてもいいです (the next grammar point). It often comes with 〜までに (g17-6) to give a deadline.",
       "tamil_parallel": "மருந்து சாப்பிட்டே ஆக வேண்டும் (சாப்பிடாவிட்டால் ஆகாது) = 薬を飲まなければなりません",
-      "tamil_parallel_en": "Like Tamil \"-ஏ ஆக வேண்டும்\" (literally \"it won't do if you don't\"): மருந்து சாப்பிட்டே ஆக வேண்டும் (\"you must take the medicine\") = 薬を飲まなければなりません.",
+      "tamil_parallel_en": "Like Tamil \"-ஏ ஆக வேண்டும்\" (word for word \"it won’t do if you don’t\"): மருந்து சாப்பிட்டே ஆக வேண்டும் (\"you must take the medicine\") = 薬を飲まなければなりません.",
       "formation": "V ない-வடிவம் (い நீக்கி) + ければなりません — 飲まない→飲まなければなりません、出さない→出さなければなりません、食べない→食べなければなりません、しない→しなければなりません、来ない→来なければなりません",
       "formation_en": "V ない-form (drop い) + ければなりません: 飲まない→飲まなければなりません、出さない→出さなければなりません、食べない→食べなければなりません、しない→しなければなりません、来ない→来なければなりません",
       "examples": [
@@ -193,7 +193,7 @@
         }
       ],
       "pitfalls_ta": "இது எதிர்மறை வடிவம் போலத் தெரிந்தாலும் பொருள் 'கட்டாயம் செய்ய வேண்டும்' — 'செய்யக் கூடாது' அல்ல. ×飲まないければ அல்ல — ない-இன் い-ஐ நீக்கி ○飲まなければ.",
-      "pitfalls_en": "Although it looks like a negative, it means \"must do\", not \"must not do\". It is not ×飲まないければ; drop the い of ない to get ○飲まなければ."
+      "pitfalls_en": "It looks like a \"not\" form. But it means \"must do\", not \"must not do\". It is not ×飲まないければ. Drop the い of ない to get ○飲まなければ."
     },
     {
       "id": "g17-4",
@@ -203,9 +203,9 @@
         "ta": "〜 செய்ய வேண்டிய அவசியம் இல்லை"
       },
       "explanation_ta": "'செய்யாவிட்டாலும் பரவாயில்லை' = 'செய்ய வேண்டிய அவசியம் இல்லை' என்று சொல்ல ない-வடிவத்தின் い-ஐ நீக்கி くてもいいです சேர்க்கிறோம் (行かない → 行かなくてもいいです). பாடம் 15-இல் படித்த 〜てもいいです (செய்யலாம்)-இன் எதிர்மறை இணை: て-வடிவத்துக்குப் பதில் ない-வடிவத்தின் なくて. ない ஒரு い-பெயரடை போலச் செயல்படுவதால் 寒い → 寒くて போலவே ない → なくて. தமிழில் 'போகாவிட்டாலும் பரவாயில்லை' / 'போக வேண்டாம்' என்பதற்கு இணை. 〜なければなりませんか என்ற கேள்விக்கு 'இல்லை' என்று பதில் சொல்ல இதைப் பயன்படுத்துவோம்.",
-      "explanation_en": "To say \"it's fine even if you don't\" = \"you don't have to\", drop the い of the ない-form and add くてもいいです (行かない → 行かなくてもいいです). It is the negative partner of 〜てもいいです (you may), from Lesson 15: instead of the て-form, you use なくて from the ない-form. Because ない behaves like an い-adjective, ない → なくて, just like 寒い → 寒くて. It matches Tamil \"போகாவிட்டாலும் பரவாயில்லை\" (it's fine even if you don't go) / \"போக வேண்டாம்\" (no need to go). Use it to answer \"no\" to a 〜なければなりませんか question.",
+      "explanation_en": "To say \"it’s fine if you don’t\" = \"you don’t have to\", take the ない-form. Drop the い and add くてもいいです (行かない → 行かなくてもいいです). It is the partner of 〜てもいいです (you may), from Lesson 15. Instead of the て-form, you use なくて from the ない-form. ない works like an い-adjective. So ない → なくて, just like 寒い → 寒くて. It is like Tamil \"போகாவிட்டாலும் பரவாயில்லை\" (it’s fine even if you don’t go) / \"போக வேண்டாம்\" (no need to go). Use it to answer \"no\" to a 〜なければなりませんか question.",
       "tamil_parallel": "போகாவிட்டாலும் பரவாயில்லை (போக வேண்டிய அவசியம் இல்லை) = 行かなくてもいいです",
-      "tamil_parallel_en": "Like Tamil \"-ஆவிட்டாலும் பரவாயில்லை\": போகாவிட்டாலும் பரவாயில்லை (\"it's fine even if you don't go\" = \"you don't have to go\") = 行かなくてもいいです.",
+      "tamil_parallel_en": "Like Tamil \"-ஆவிட்டாலும் பரவாயில்லை\": போகாவிட்டாலும் பரவாயில்லை (\"it’s fine even if you don’t go\" = \"you don’t have to go\") = 行かなくてもいいです.",
       "formation": "V ない-வடிவம் (い நீக்கி) + くてもいいです — 行かない→行かなくてもいいです、飲まない→飲まなくてもいいです、来ない→来なくてもいいです、しない→しなくてもいいです",
       "formation_en": "V ない-form (drop い) + くてもいいです: 行かない→行かなくてもいいです、飲まない→飲まなくてもいいです、来ない→来なくてもいいです、しない→しなくてもいいです",
       "examples": [
@@ -253,7 +253,7 @@
         }
       ],
       "pitfalls_ta": "×行かないでもいいです அல்ல — ○行かなくてもいいです. 〜てもいいです (செய்யலாம்) vs 〜なくてもいいです (செய்யாமல் இருக்கலாம்) — எது அனுமதி, எது விலக்கு என்று கவனம்.",
-      "pitfalls_en": "It is not ×行かないでもいいです but ○行かなくてもいいです. Watch the difference: 〜てもいいです (you may do it) gives permission, while 〜なくてもいいです (you may skip it) gives an exemption."
+      "pitfalls_en": "It is not ×行かないでもいいです. It is ○行かなくてもいいです. Watch the difference. 〜てもいいです (you may do it) gives permission. 〜なくてもいいです (you may skip it) says you don’t need to do it."
     },
     {
       "id": "g17-5",
@@ -263,9 +263,9 @@
         "ta": "செயப்படுபொருளைத் தலைப்பாக்குவது"
       },
       "explanation_ta": "வழக்கமாக を-ஆல் குறிக்கும் செயப்படுபொருளை வாக்கியத்தின் தொடக்கத்துக்குக் கொண்டு வந்து は போட்டுத் தலைப்பாக்கலாம்: 薬を飲んでください → 薬は飲んでください. அப்போது 'மருந்தைப் பற்றிச் சொன்னால்…' என்ற பொருள் — தமிழில் 'மருந்து, சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள்' என்று பொருளை முன்னே வைத்துப் பேசுவது போலவே. இரண்டு பயன்கள்: (1) ஏற்கனவே பேசிக்கொண்டிருக்கும் பொருளைப் பற்றித் தொடர்வது, (2) வேறுபடுத்திக் காட்டுவது — 'お酒は飲みますが、たばこは吸いません' (மது குடிப்பேன், ஆனால் புகை பிடிக்க மாட்டேன்). は வந்ததும் を மறைந்துவிடும்; ×薬をは என்று இரண்டும் சேர்ந்து வராது.",
-      "explanation_en": "You can take an object that is normally marked with を, move it to the start of the sentence, and make it the topic with は: 薬を飲んでください → 薬は飲んでください. Then it means \"as for the medicine, ...\", just as in Tamil you can put the object first: \"மருந்து, சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள்\" (the medicine, take it after meals). There are two uses: (1) continuing to talk about something already being discussed, and (2) contrasting: お酒は飲みますが、たばこは吸いません (I drink alcohol, but I don't smoke). When は comes in, を disappears; the two never appear together as ×薬をは.",
+      "explanation_en": "Usually the object (the thing the action is done to) takes を. You can move it to the start of the sentence and use は instead. は marks the topic (what you are talking about). 薬を飲んでください → 薬は飲んでください. Then it means \"about the medicine, ...\". Tamil can also put the object first: \"மருந்து, சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள்\" (the medicine, take it after meals). There are two uses. (1) You keep talking about something you were already talking about. (2) You compare two things: お酒は飲みますが、たばこは吸いません (I drink alcohol, but I don’t smoke). When は comes in, を goes away. They never come together, like ×薬をは.",
       "tamil_parallel": "மருந்து(ஐப் பற்றிச் சொன்னால்), சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள் = 薬はご飯のあとで飲んでください",
-      "tamil_parallel_en": "Like putting the object first as a topic in Tamil: மருந்து(ஐப் பற்றிச் சொன்னால்), சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள் (\"as for the medicine, take it after meals\") = 薬はご飯のあとで飲んでください.",
+      "tamil_parallel_en": "Like putting the object first as the topic in Tamil: மருந்து(ஐப் பற்றிச் சொன்னால்), சாப்பாட்டுக்குப் பிறகு சாப்பிடுங்கள் (\"about the medicine, take it after meals\") = 薬はご飯のあとで飲んでください.",
       "formation": "N(செயப்படுபொருள்) + は + … + V (を-க்குப் பதில் は ; を மறைந்துவிடும்)",
       "formation_en": "N(object) + は + … + V (は instead of を ; を disappears)",
       "examples": [
@@ -313,7 +313,7 @@
         }
       ],
       "pitfalls_ta": "×薬をは → ○薬は. 'X は… が、Y は…' என்ற வேறுபடுத்தும் வாக்கியத்தில் இரண்டு பொருளுக்கும் は வரும்; இது 'ஒரு வாக்கியத்தில் ஒரு は' விதிக்கு விலக்கு.",
-      "pitfalls_en": "×薬をは → ○薬は. In a contrast sentence \"X は… が、Y は…\", both objects take は; this is an exception to the \"one は per sentence\" rule."
+      "pitfalls_en": "×薬をは → ○薬は. Look at the compare pattern \"X は… が、Y は…\". Here both objects take は. This breaks the \"one は per sentence\" rule, and that is OK."
     },
     {
       "id": "g17-6",
@@ -323,9 +323,9 @@
         "ta": "〜க்குள் (கெடு) vs 〜வரை"
       },
       "explanation_ta": "までに = '〜க்குள்' — ஒரு செயல் அந்த நேரத்துக்கு முன் (அல்லது அந்த நேரத்தில்) ஒரு முறை நடந்து முடிய வேண்டும் என்ற கெடு. まで = '〜வரை' (பாடம் 4) — ஒரு செயல் அல்லது நிலை அந்த நேரம் வரை தொடர்ந்து நடக்கும். 五時まで働きます (ஐந்து மணி வரை தொடர்ந்து வேலை) vs 五時までに帰ります (ஐந்து மணிக்குள் ஒரு முறை திரும்புதல்). தமிழில் '-வரை' மற்றும் '-க்குள்' என்ற வேறுபாடு அப்படியே இருப்பதால் இது எளிது. கேள்வி: いつまでに / 何時までに. பொதுவாக 〜なければなりません、〜てください உடன் வரும்.",
-      "explanation_en": "までに = \"by ...\": a deadline meaning an action must happen once and be finished before (or at) that time. まで = \"until ...\" (Lesson 4): an action or state continues up to that time. 五時まで働きます (I work continuously until five) vs 五時までに帰ります (I go home once, by five). This is easy for you because Tamil has exactly the same difference between \"-வரை\" (until) and \"-க்குள்\" (by / within). Questions: いつまでに / 何時までに. It usually comes with 〜なければなりません or 〜てください.",
+      "explanation_en": "までに = \"by ...\". It gives a deadline. The action happens once and is finished before (or at) that time. まで = \"until ...\" (Lesson 4). The action or state goes on up to that time. 五時まで働きます = I work all the time until five. 五時までに帰ります = I go home once, by five. This is easy for you. Tamil has the very same difference. \"-வரை\" means until. \"-க்குள்\" means by / within. To ask, say いつまでに / 何時までに. It often comes with 〜なければなりません or 〜てください.",
       "tamil_parallel": "ஐந்து மணிக்குள் திரும்புவேன் = 五時までに帰ります ; ஐந்து மணி வரை வேலை செய்வேன் = 五時まで働きます",
-      "tamil_parallel_en": "Tamil has the same split: \"-க்குள்\" = までに and \"-வரை\" = まで. ஐந்து மணிக்குள் திரும்புவேன் (\"I'll be back by five\") = 五時までに帰ります ; ஐந்து மணி வரை வேலை செய்வேன் (\"I'll work until five\") = 五時まで働きます.",
+      "tamil_parallel_en": "Tamil has the same split: \"-க்குள்\" = までに and \"-வரை\" = まで. ஐந்து மணிக்குள் திரும்புவேன் (\"I’ll be back by five\") = 五時までに帰ります ; ஐந்து மணி வரை வேலை செய்வேன் (\"I’ll work until five\") = 五時まで働きます.",
       "formation": "N(நேரம் / நாள்) + までに + V (ஒரு முறை நடக்கும் செயல்) ; ஒப்பீடு: N + まで + V (தொடரும் செயல்)",
       "formation_en": "N(time / day) + までに + V (an action that happens once) ; compare: N + まで + V (a continuing action)",
       "examples": [
@@ -366,7 +366,7 @@
         }
       ],
       "pitfalls_ta": "'ஐந்து மணிக்குள் திரும்புங்கள்' என்பதற்கு ×五時まで帰ってください அல்ல — ○五時までに. தொடரும் செயல்களுக்கு (働きます、待ちます、います) まで; ஒரு முறை முடியும் செயல்களுக்கு (帰ります、出します、返します) までに.",
-      "pitfalls_en": "For \"please come back by five\", it is not ×五時まで帰ってください but ○五時までに. Use まで for continuing actions (働きます、待ちます、います) and までに for actions that finish once (帰ります、出します、返します)."
+      "pitfalls_en": "For \"please come back by five\", don’t say ×五時まで帰ってください. Say ○五時までに. Use まで for actions that go on (働きます、待ちます、います). Use までに for actions that happen once and finish (帰ります、出します、返します)."
     }
   ],
   "vocab_ids": [
@@ -413,7 +413,7 @@
         ],
         "answer": 0,
         "explanation_ta": "薬 = くすり (மருந்து). ぐすり என்று ஒலிக்குறியிட்டுப் படிக்கக் கூடாது; くつり என்ற சொல் இல்லை.",
-        "explanation_en": "薬 = くすり (மருந்து, medicine). Don't voice it and read ぐすり; there is no word くつり."
+        "explanation_en": "薬 = くすり (மருந்து, medicine). Don’t read く as ぐ, like ぐすり. There is no word くつり."
       },
       {
         "id": "L17-q02",
@@ -428,7 +428,7 @@
         ],
         "answer": 2,
         "explanation_ta": "病気 = びょうき (நோய்). びょう நீண்ட ஒலி — びよき என்று குறுக்கக் கூடாது; び-இன் ஒலிக்குறியும் மறக்கக் கூடாது (ひょうき அல்ல).",
-        "explanation_en": "病気 = びょうき (நோய், illness). びょう is a long sound, so don't shorten it to びよき; and don't forget the voicing mark on び (it is not ひょうき)."
+        "explanation_en": "病気 = びょうき (நோய், illness). びょう has a long sound, so don’t make it short, like びよき. Also don’t forget the two dots on び. It is not ひょうき."
       },
       {
         "id": "L17-q03",
@@ -443,7 +443,7 @@
         ],
         "answer": 1,
         "explanation_ta": "忘れる = わすれる; குழு II வினைச்சொல் என்பதால் ない-வடிவம் 忘れない (わすれない). わすらない என்பது குழு I போலத் தவறாக மாற்றிய வடிவம்.",
-        "explanation_en": "忘れる = わすれる (மறக்க, to forget); it is a Group II verb, so its ない-form is 忘れない (わすれない). わすらない is a wrong form made as if it were Group I."
+        "explanation_en": "忘れる = わすれる (மறக்க, to forget). It is a Group II verb. So its ない-form is 忘れない (わすれない). わすらない is wrong. It is made like a Group I verb."
       },
       {
         "id": "L17-q04",
@@ -458,7 +458,7 @@
         ],
         "answer": 3,
         "explanation_ta": "からだ = 体 (உடல்). 休 (やすみ) மற்றும் 本 (ほん) ஒத்த வடிவ எழுத்துகள்; 体 என்பது 人 + 本.",
-        "explanation_en": "からだ = 体 (உடல், body). 休 (やすみ) and 本 (ほん) are look-alike kanji; 体 is 人 + 本."
+        "explanation_en": "からだ = 体 (உடல், body). 休 (やすみ) and 本 (ほん) look alike, but they are wrong. 体 is 人 + 本."
       },
       {
         "id": "L17-q05",
@@ -473,7 +473,7 @@
         ],
         "answer": 1,
         "explanation_ta": "'திருப்பிக் கொடுக்க' = 返す. 帰る (かえる = வீடு திரும்ப) ஒலி ஒத்த வேறு வினைச்சொல் — புத்தகத்துக்கு 返す தான்; 反 என்பது 返-இன் ஒரு பகுதி மட்டும்.",
-        "explanation_en": "\"To give back\" (திருப்பிக் கொடுக்க) = 返す. 帰る (かえる = to go home, வீடு திரும்ப) is a different verb with the same sound; for a book it is 返す. 反 is only one part of 返."
+        "explanation_en": "\"To give back\" (திருப்பிக் கொடுக்க) = 返す. 帰る (かえる = to go home, வீடு திரும்ப) sounds the same, but it is a different verb. For a book, use 返す. 反 is only one part of 返."
       },
       {
         "id": "L17-q06",
@@ -487,7 +487,7 @@
         ],
         "answer": 0,
         "explanation_ta": "'தலை வலிக்கிறது' = 頭が痛い. 危ない (ஆபத்தான) உடல் வலிக்குப் பயன்படாது.",
-        "explanation_en": "\"I have a headache\" (தலை வலிக்கிறது) = 頭が痛い. 危ない (ஆபத்தான, dangerous) is not used for body pain."
+        "explanation_en": "\"I have a headache\" (தலை வலிக்கிறது) = 頭が痛い. 危ない (ஆபத்தான, dangerous) is not used for pain in the body."
       },
       {
         "id": "L17-q07",
@@ -501,7 +501,7 @@
         ],
         "answer": 2,
         "explanation_ta": "வீட்டுப்பாடத்தைச் சமர்ப்பிக்க = 宿題を出す. 脱ぐ (கழற்ற), 浴びる (குளிக்க) பொருந்தாது.",
-        "explanation_en": "To hand in homework (வீட்டுப்பாடத்தைச் சமர்ப்பிக்க) = 宿題を出す. 脱ぐ (கழற்ற, to take off) and 浴びる (குளிக்க, to shower) don't fit."
+        "explanation_en": "To hand in homework (வீட்டுப்பாடத்தைச் சமர்ப்பிக்க) = 宿題を出す. 脱ぐ (கழற்ற, to take off) and 浴びる (குளிக்க, to shower) don’t fit."
       },
       {
         "id": "L17-q08",
@@ -515,7 +515,7 @@
         ],
         "answer": 1,
         "explanation_ta": "பணம் இல்லாததால் 'சிரமப்படுகிறேன்' = 困っています. 忘れています (மறந்துவிட்டேன்) காரணத்துக்குப் பொருந்தாது.",
-        "explanation_en": "Having no money, \"I'm in trouble\" (சிரமப்படுகிறேன்) = 困っています. 忘れています (I've forgotten) doesn't fit the reason."
+        "explanation_en": "I have no money, so \"I’m in trouble\" (சிரமப்படுகிறேன்) = 困っています. 忘れています (I’ve forgotten) doesn’t fit the reason."
       },
       {
         "id": "L17-q09",
@@ -529,7 +529,7 @@
         ],
         "answer": 3,
         "explanation_ta": "'அலுவலகத்துக்கு விடுப்பு எடுக்க' = 会社を休みます. 出します என்றால் 'வெளியே எடுக்க / சமர்ப்பிக்க' — இடத்துடன் பொருந்தாது.",
-        "explanation_en": "\"To take a day off work\" (அலுவலகத்துக்கு விடுப்பு எடுக்க) = 会社を休みます. 出します means \"to take out / hand in\", which doesn't fit with a place."
+        "explanation_en": "\"To take a day off work\" (அலுவலகத்துக்கு விடுப்பு எடுக்க) = 会社を休みます. 出します means \"to take out / hand in\". It doesn’t fit with a place."
       },
       {
         "id": "L17-q10",
@@ -543,7 +543,7 @@
         ],
         "answer": 0,
         "explanation_ta": "ஒன்றை மரியாதையாக அளிக்கும்போது 'N は いかがですか'. いくら (எவ்வளவு விலை), いくつ (எத்தனை) என்பவை வேறு கேள்விகள்.",
-        "explanation_en": "When politely offering something, say \"N は いかがですか\" (how about ...?). いくら (how much does it cost) and いくつ (how many) are different questions."
+        "explanation_en": "When you offer something politely, say \"N は いかがですか\" (how about ...?). いくら (how much money) and いくつ (how many) are different questions."
       },
       {
         "id": "L17-q11",
@@ -557,7 +557,7 @@
         ],
         "answer": 2,
         "explanation_ta": "シャワーを浴びる = ஷவரில் குளிக்க. 入る என்பது お風呂に入る (に-உடன்) — シャワーを-உடன் 浴びる தான்.",
-        "explanation_en": "シャワーを浴びる = to take a shower (ஷவரில் குளிக்க). 入る is used as お風呂に入る (with に); with シャワーを, the verb is 浴びる."
+        "explanation_en": "シャワーを浴びる = to take a shower (ஷவரில் குளிக்க). 入る is used with に, as in お風呂に入る. With シャワーを, the verb is 浴びる."
       },
       {
         "id": "L17-q12",
@@ -571,7 +571,7 @@
         ],
         "answer": 2,
         "explanation_ta": "'போக வேண்டிய அவசியம் இல்லை' = பள்ளிக்கு விடுமுறை. 行かなければなりません (போயே ஆக வேண்டும்) எதிர்ப் பொருள்; 行かないでください தடை.",
-        "explanation_en": "\"You don't have to go\" = school is closed (பள்ளிக்கு விடுமுறை). 行かなければなりません (you must go) is the opposite meaning; 行かないでください is a prohibition."
+        "explanation_en": "\"You don’t have to go\" fits, because school is closed (பள்ளிக்கு விடுமுறை). 行かなければなりません (you must go) means the opposite. 行かないでください tells you not to go."
       },
       {
         "id": "L17-q13",
@@ -585,7 +585,7 @@
         ],
         "answer": 0,
         "explanation_ta": "病気 (நோய்) = 体が悪い (உடல்நிலை சரியில்லை). 体が強い என்றால் உடல் வலிமை — எதிர்ப் பொருள்.",
-        "explanation_en": "病気 (நோய், ill) = 体が悪い (உடல்நிலை சரியில்லை, in poor health). 体が強い means a strong body, the opposite meaning."
+        "explanation_en": "病気 (நோய், ill) = 体が悪い (உடல்நிலை சரியில்லை, in poor health). 体が強い means a strong body. That is the opposite."
       },
       {
         "id": "L17-q14",
@@ -599,7 +599,7 @@
         ],
         "answer": 2,
         "explanation_ta": "なければなりません = கட்டாயம் செய்ய வேண்டும்; அதற்கு நெருக்கமானது 飲んでください. 飲まないでください (சாப்பிடாதீர்கள்) எதிர்ப் பொருள் — ない தெரிந்ததும் குழம்ப வேண்டாம்.",
-        "explanation_en": "なければなりません = you must do it; the closest is 飲んでください. 飲まないでください (don't take it) is the opposite meaning; don't get confused just because you see ない."
+        "explanation_en": "なければなりません = you must do it. The closest is 飲んでください. 飲まないでください (don’t take it) means the opposite. Don’t get confused just because you see ない."
       },
       {
         "id": "L17-q15",
@@ -613,7 +613,7 @@
         ],
         "answer": 0,
         "explanation_ta": "吸います → い-தண்டு, அதனால் ない-வடிவம் 吸わない; + でください. 吸いないで தவறான தண்டு; 吸わなくて என்பது 〜なくてもいいです-க்கு மட்டும்.",
-        "explanation_en": "吸います has an い-stem, so its ない-form is 吸わない; then add でください. 吸いないで has the wrong stem; 吸わなくて is only for 〜なくてもいいです."
+        "explanation_en": "Before ます, 吸います has い. So its ない-form is 吸わない. Then add でください. 吸いないで has the wrong first part. 吸わなくて is only for 〜なくてもいいです."
       },
       {
         "id": "L17-q16",
@@ -627,7 +627,7 @@
         ],
         "answer": 1,
         "explanation_ta": "'கட்டாயம்' = ない-வடிவம் い நீக்கி + ければなりません: 出さなければなりません. なりません தான், ありません அல்ல.",
-        "explanation_en": "\"Must\" = ない-form minus い + ければなりません: 出さなければなりません. It is なりません, not ありません."
+        "explanation_en": "\"Must\" = ない-form, drop い, add ければなりません: 出さなければなりません. It is なりません, not ありません."
       },
       {
         "id": "L17-q17",
@@ -641,7 +641,7 @@
         ],
         "answer": 2,
         "explanation_ta": "'சாப்பிடாமல் இருக்கலாம்' = ない → なくて + もいいです: 飲まなくてもいいです. 飲まないでもいい தவறு; 飲みなくて தவறான தண்டு.",
-        "explanation_en": "\"You don't have to take it\" (சாப்பிடாமல் இருக்கலாம்) = ない → なくて + もいいです: 飲まなくてもいいです. 飲まないでもいい is wrong; 飲みなくて has the wrong stem."
+        "explanation_en": "\"You don’t have to take it\" (சாப்பிடாமல் இருக்கலாம்) = ない → なくて + もいいです: 飲まなくてもいいです. 飲まないでもいい is wrong. 飲みなくて has the wrong first part."
       },
       {
         "id": "L17-q18",
@@ -655,7 +655,7 @@
         ],
         "answer": 1,
         "explanation_ta": "'ஐந்து மணிக்குள்' என்ற கெடு = までに. まで என்றால் 'ஐந்து மணி வரை' — தொடரும் செயலுக்கு; 帰る ஒரு முறை நடக்கும் செயல்.",
-        "explanation_en": "The deadline \"by five o'clock\" (ஐந்து மணிக்குள்) = までに. まで means \"until five\" (ஐந்து மணி வரை) and is for continuing actions; 帰る is an action that happens once."
+        "explanation_en": "The deadline \"by five o’clock\" (ஐந்து மணிக்குள்) = までに. まで means \"until five\" (ஐந்து மணி வரை). It is for actions that go on. 帰る is an action that happens once."
       },
       {
         "id": "L17-q19",
@@ -669,7 +669,7 @@
         ],
         "answer": 0,
         "explanation_ta": "'X は 〜が、Y は 〜' என்று வேறுபடுத்திக் காட்டும் வாக்கியத்தில் இரண்டாவது பொருளுக்கும் は. を-வும் இலக்கணப்படி சரி, ஆனால் が-உடன் வேறுபடுத்தும்போது は தான் இயல்பு.",
-        "explanation_en": "In a contrast sentence \"X は 〜が、Y は 〜\", the second object also takes は. を is grammatically possible too, but when contrasting with が, は is the natural choice."
+        "explanation_en": "Look at the compare pattern \"X は 〜が、Y は 〜\". The second object also takes は. を is also correct grammar. But when you compare with が, は sounds natural."
       },
       {
         "id": "L17-q20",
@@ -683,7 +683,7 @@
         ],
         "answer": 1,
         "explanation_ta": "来ます → 来ない (こない) → 来なくてもいいです. 来ないでもいい தவறு; 来なければ என்பது なりません-உடன் மட்டும்.",
-        "explanation_en": "来ます → 来ない (こない) → 来なくてもいいです. 来ないでもいい is wrong; 来なければ goes only with なりません."
+        "explanation_en": "来ます → 来ない (こない) → 来なくてもいいです. 来ないでもいい is wrong. 来なければ goes only with なりません."
       },
       {
         "id": "L17-q21",
@@ -697,7 +697,7 @@
         ],
         "answer": 3,
         "explanation_ta": "பதில் 'いいえ、働かなくてもいいです' (தேவையில்லை) என்பதால் கேள்வி 'வேலை செய்தே ஆக வேண்டுமா?' = 働かなければなりませんか. 働かません என்பது தவறான வடிவம் (働きません தான்).",
-        "explanation_en": "The answer is いいえ、働かなくてもいいです (no need), so the question is \"do I have to work?\" (வேலை செய்தே ஆக வேண்டுமா?) = 働かなければなりませんか. 働かません is a wrong form (it should be 働きません)."
+        "explanation_en": "The answer is いいえ、働かなくてもいいです (no need). So the question is \"do I have to work?\" (வேலை செய்தே ஆக வேண்டுமா?) = 働かなければなりませんか. 働かません is a wrong form. It should be 働きません."
       },
       {
         "id": "L17-q22",
@@ -712,7 +712,7 @@
         "star": 2,
         "after": "。",
         "explanation_ta": "金曜日までに 本を 返さなければなりません。 — கெடு (までに) முதலில், பிறகு பொருள் + を, கடைசியில் なければなりません.",
-        "explanation_en": "金曜日までに 本を 返さなければなりません。 The deadline (までに) comes first, then the object + を, and なければなりません at the end."
+        "explanation_en": "金曜日までに 本を 返さなければなりません。 The deadline (までに) comes first. Then the object + を. なければなりません comes at the end."
       },
       {
         "id": "L17-q23",
@@ -727,7 +727,7 @@
         "star": 2,
         "after": "。",
         "explanation_ta": "危ないですから、ここに 入らないでください。 — 入る உள்ளே போகும் இடத்தை に-ஆல் குறிக்கும்; ない-வடிவம் + でください.",
-        "explanation_en": "危ないですから、ここに 入らないでください。 入る marks the place you go into with に; then the ない-form + でください."
+        "explanation_en": "危ないですから、ここに 入らないでください。 With 入る, the place you go into takes に. Then comes the ない-form + でください."
       },
       {
         "id": "L17-q24",
@@ -742,7 +742,7 @@
         "star": 1,
         "after": "。",
         "explanation_ta": "薬は ご飯の あとで 飲まなければなりません。 — செயப்படுபொருள் 薬 は-ஆல் தலைப்பாகி முன்னே; 'N の あとで' பிறகு வினைச்சொல்.",
-        "explanation_en": "薬は ご飯の あとで 飲まなければなりません。 The object 薬 becomes the topic with は and goes first; \"N の あとで\" comes before the verb."
+        "explanation_en": "薬は ご飯の あとで 飲まなければなりません。 The object 薬 becomes the topic with は. It goes first. \"N の あとで\" comes before the verb."
       },
       {
         "id": "L17-q25",
@@ -778,7 +778,7 @@
           }
         ],
         "explanation_ta": "［1］ மருத்துவர் மருந்தை 'சாப்பிடுங்கள்' என்று அறிவுறுத்துகிறார் — 飲んでください. ［2］ சளி இருக்கும்போது 'குளிக்காதீர்கள்' = 入らないでください. ［3］ நாளை விடுப்பு என்பதால் வெள்ளிக்கிழமைக்குள் வேலையைச் 'செய்தே ஆக வேண்டும்' = しなければなりません.",
-        "explanation_en": "[1] The doctor advises you to take the medicine: 飲んでください. [2] When you have a cold, \"don't take a bath\" (குளிக்காதீர்கள்) = 入らないでください. [3] Since tomorrow is a day off, you must do the work by Friday: しなければなりません."
+        "explanation_en": "[1] The doctor tells you to take the medicine: 飲んでください. [2] When you have a cold, \"don’t take a bath\" (குளிக்காதீர்கள்) = 入らないでください. [3] Tomorrow is a day off. So you must do the work by Friday: しなければなりません."
       }
     ]
   }

@@ -17,6 +17,7 @@ export type Settings = {
   showRomaji: boolean;
   showReading: boolean;
   autoSpeak: boolean;
+  explainTamil: boolean; // show grammar/test explanations in Tamil instead of English
   testMode: "exam" | "practice";
 };
 
@@ -58,6 +59,7 @@ export const useProgress = create<State>()(
         showRomaji: true,
         showReading: true,
         autoSpeak: true,
+        explainTamil: false,
         testMode: "exam",
       },
       addXp: (n) => set((s) => ({ xp: s.xp + n })),

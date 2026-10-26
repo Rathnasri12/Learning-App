@@ -1,69 +1,69 @@
 {
   "lesson": 18,
-  "intro_en": "In this lesson you will learn the dictionary form of verbs (辞書形, the plain present form). With it you can talk about skills, hobbies and daily routines: \"I can swim\" (泳ぐことができます), \"my hobby is listening to music\" (趣味は 〜ことです), \"I like running\" (走るのが好きです) and \"before going to bed\" (寝る前に). You will also meet two useful adverbs, なかなか and ぜひ.",
+  "intro_en": "In this lesson you will learn the dictionary form of verbs (辞書形). It is the plain present form. With it you can talk about skills, hobbies and your daily life. For example: \"I can swim\" (泳ぐことができます), \"my hobby is listening to music\" (趣味は 〜ことです), \"I like running\" (走るのが好きです) and \"before going to bed\" (寝る前に). You will also learn two useful words, なかなか and ぜひ.",
   "grammar": {
     "g18-1": {
-      "explanation_en": "The dictionary form (辞書形) is the basic, plain present form of a verb; it is the form you find in a dictionary (食べる、行く). In meaning it equals ます, but without the polite style. Just as Tamil turns a root like \"போ\" (go) or \"சாப்பிடு\" (eat) into a noun such as \"போவது\" (going) or \"சாப்பிடுவது\" (eating), Japanese needs this form before words like こと / の / 前に. Group I: change the last い-row sound of the ます-stem to the う-row (書きます → 書く、泳ぎます → 泳ぐ、話します → 話す、待ちます → 待つ、飛びます → 飛ぶ、読みます → 読む、走ります → 走る、買います → 買う). Group II: replace ます with る (食べます → 食べる、見ます → 見る). Group III: します → する、来ます → 来る (くる). For the ない-form you moved to the あ-row; for the dictionary form you move to the う-row, one line down in the same kana chart.",
+      "explanation_en": "The dictionary form (辞書形) is the basic, plain present form of a verb. It is the form you find in a dictionary (食べる、行く). It means the same as ます, but it is not polite. Tamil can turn a verb like \"போ\" (go) or \"சாப்பிடு\" (eat) into a noun. For example, \"போவது\" (going) or \"சாப்பிடுவது\" (eating). In the same way, Japanese needs this form before words like こと / の / 前に. Group I: look at the last sound before ます. It is in the い-row. Change it to the う-row (書きます → 書く、泳ぎます → 泳ぐ、話します → 話す、待ちます → 待つ、飛びます → 飛ぶ、読みます → 読む、走ります → 走る、買います → 買う). Group II: change ます to る (食べます → 食べる、見ます → 見る). Group III: します → する、来ます → 来る (くる). For the ない-form, you moved to the あ-row. For the dictionary form, you move to the う-row. That is one line down in the same kana chart.",
       "tamil_parallel_en": "Like Tamil turning a verb into a \"-வது\" noun: நீந்துகிறேன் → நீந்துவது (\"I swim\" → \"swimming\") = 泳ぎます → 泳ぐ(こと) ; சாப்பிடுகிறேன் → சாப்பிடுவது (\"I eat\" → \"eating\") = 食べます → 食べる(こと).",
       "formation_en": "Group I (い-row → う-row): 書きます→書く、弾きます→弾く、泳ぎます→泳ぐ、話します→話す、出します→出す、待ちます→待つ、飛びます→飛ぶ、遊びます→遊ぶ、読みます→読む、飲みます→飲む、走ります→走る、登ります→登る、終わります→終わる、買います→買う、使います→使う / Group II (ます → る): 食べます→食べる、見ます→見る、起きます→起きる、寝ます→寝る、できます→できる、覚えます→覚える / Group III: します→する、練習します→練習する、散歩します→散歩する、来ます→来る(くる) / Compare (the 書く row): か(ない)・き(ます)・く(dictionary)",
-      "pitfalls_en": "走ります、登ります、帰ります、入ります end in る but are Group I. Dropping ます and adding る happens to give the right dictionary form (走り → 走る), but in the ない-form they follow the Group I rule: 走らない. 来ます → not ×きる but ○くる."
+      "pitfalls_en": "走ります、登ります、帰ります、入ります end in る, but they are Group I. If you drop ます and add る, you get the right dictionary form by luck (走り → 走る). But in the ない-form they follow the Group I rule: 走らない. For 来ます, it is not ×きる. It is ○くる."
     },
     "g18-2": {
-      "explanation_en": "To say \"can / know how to\", talking about a skill or about the chance to do something at a place, use dictionary form + ことが できます. こと turns the verb into a noun, \"doing\"; できます = \"is possible\". It is a direct match for Tamil \"நீந்துவது முடியும்\" (swimming is possible) = \"நீந்த முடியும்\" (I can swim). With a noun, say N が できます directly (日本語ができます = I know Japanese, ஜப்பானிய மொழி தெரியும்). Note that it is が, not を. Negative: ことが できません. For something possible at a place: この公園で泳ぐことができます (you can swim in this park / there is a place to swim here).",
-      "tamil_parallel_en": "A direct match for Tamil \"-வது முடியும்\" / \"-அ முடியும்\": எனக்கு நீந்த முடியும் (\"I can swim\", literally \"swimming is possible for me\") = 私は泳ぐことができます ; ஜப்பானிய மொழி தெரியும் (\"I know Japanese\") = 日本語ができます.",
+      "explanation_en": "To say \"can / know how to\", use the dictionary form + ことが できます. Use it for a skill. Also use it when you can do something at a place. こと turns the verb into a noun, \"doing\". できます = \"is possible\". It is just like Tamil \"நீந்துவது முடியும்\" (swimming is possible) = \"நீந்த முடியும்\" (I can swim). With a noun, just say N が できます (日本語ができます = I know Japanese, ஜப்பானிய மொழி தெரியும்). It is が, not を. For \"can’t\", say ことが できません. For a place: この公園で泳ぐことができます (you can swim in this park / there is a place to swim here).",
+      "tamil_parallel_en": "Just like Tamil \"-வது முடியும்\" / \"-அ முடியும்\": எனக்கு நீந்த முடியும் (\"I can swim\", word for word \"swimming is possible for me\") = 私は泳ぐことができます ; ஜப்பானிய மொழி தெரியும் (\"I know Japanese\") = 日本語ができます.",
       "formation_en": "V dictionary form + ことが + できます / できません ; N + が + できます",
-      "pitfalls_en": "×日本語をできます → ○日本語ができます. Before こと it is not ×泳ぎますこと; use the dictionary form ○泳ぐこと."
+      "pitfalls_en": "×日本語をできます → ○日本語ができます. Before こと, don’t say ×泳ぎますこと. Use the dictionary form: ○泳ぐこと."
     },
     "g18-3": {
-      "explanation_en": "趣味 (しゅみ) = hobby (பொழுதுபோக்கு). To say \"my hobby is X\", use 私の趣味は N です or 私の趣味は V(dictionary form) ことです. Because こと turns the verb into a noun meaning \"doing\", the sentence becomes the same \"N1 は N2 です\" pattern from Lesson 1. In Tamil you say \"என் பொழுதுபோக்கு இசை கேட்பது\" (my hobby is listening to music); こと is a direct match for the verbal-noun ending \"-வது\". To say exactly what kind of hobby, a verb + こと is more natural than a noun: 趣味はギターを弾くことです is clearer than 趣味は音楽です.",
-      "tamil_parallel_en": "こと works like the Tamil verbal-noun ending \"-வது\": என் பொழுதுபோக்கு கிட்டார் வாசிப்பது (\"my hobby is playing the guitar\") = 私の趣味はギターを弾くことです (こと = -வது).",
+      "explanation_en": "趣味 (しゅみ) = hobby (பொழுதுபோக்கு). To say \"my hobby is X\", use 私の趣味は N です. Or use 私の趣味は V(dictionary form) ことです. こと turns the verb into a noun, \"doing\". So the sentence has the same \"N1 は N2 です\" pattern from Lesson 1. In Tamil you say \"என் பொழுதுபோக்கு இசை கேட்பது\" (my hobby is listening to music). こと is just like the Tamil ending \"-வது\". A verb + こと says more clearly what you do. So it sounds more natural than a noun. 趣味はギターを弾くことです is clearer than 趣味は音楽です.",
+      "tamil_parallel_en": "こと works like the Tamil ending \"-வது\": என் பொழுதுபோக்கு கிட்டார் வாசிப்பது (\"my hobby is playing the guitar\") = 私の趣味はギターを弾くことです (こと = -வது).",
       "formation_en": "私の 趣味は + N + です / 私の 趣味は + V dictionary form + ことです",
-      "pitfalls_en": "Don't put ます + です together as in ×趣味はギターを弾きますです; こと is required: ○弾くことです."
+      "pitfalls_en": "Don’t put ます and です together, like ×趣味はギターを弾きますです. You need こと: ○弾くことです."
     },
     "g18-4": {
-      "explanation_en": "In Lesson 9 you learned \"N が好きです / 上手です\". To talk about an activity, add の to the dictionary form to turn the action into a noun: 走るのが好きです (I like running). Here の means \"doing\", like こと. It matches Tamil \"எனக்கு ஓடுவது பிடிக்கும்\" (I like running) and \"அவருக்குப் பாடுவது நன்றாக வரும்\" (he is good at singing). の is natural with feeling and skill words such as 好き / 嫌い / 上手 / 下手 / 早い; but with ことができます and 趣味は〜ことです you use こと (not の). After の comes が, not を.",
+      "explanation_en": "In Lesson 9 you learned \"N が好きです / 上手です\". To talk about an action, add の to the dictionary form. This turns the action into a noun: 走るのが好きです (I like running). Here の means \"doing\", like こと. It is like Tamil \"எனக்கு ஓடுவது பிடிக்கும்\" (I like running). It is also like \"அவருக்குப் பாடுவது நன்றாக வரும்\" (he is good at singing). の sounds natural with words for feelings and skills, like 好き / 嫌い / 上手 / 下手 / 早い. But with ことができます and 趣味は〜ことです, use こと (not の). After の comes が, not を.",
       "tamil_parallel_en": "の works like the Tamil \"-வது\" ending before பிடிக்கும் (like): எனக்கு ஓடுவது பிடிக்கும் (\"I like running\") = 私は走るのが好きです (の = -வது).",
       "formation_en": "V dictionary form + のが + 好きです / 嫌いです / 上手です / 下手です",
-      "pitfalls_en": "Don't drop の as in ×走るが好きです. It is not ×走るのを好きです but ○走るのが. For \"can\", it is not ×泳ぐのができます but ○泳ぐことができます."
+      "pitfalls_en": "Don’t drop の, like ×走るが好きです. It is not ×走るのを好きです. It is ○走るのが. For \"can\", it is not ×泳ぐのができます. It is ○泳ぐことができます."
     },
     "g18-5": {
-      "explanation_en": "To say \"before ...\", use 前に. There are three types: (1) Verb: dictionary form + 前に (寝る前に = before sleeping). Important: even if the following action is in the past, the verb before 前に is always in the dictionary form. (2) Noun: N + の + 前に (食事の前に、授業の前に). (3) Length of time: number + time unit + 前に, without の (三年前に = three years ago). These match Tamil \"தூங்குவதற்கு முன்\" (before sleeping), \"வகுப்புக்கு முன்\" (before class) and \"மூன்று வருடங்களுக்கு முன்\" (three years ago) directly. It is the opposite of あとで (after) from Lesson 16.",
-      "tamil_parallel_en": "A direct match for Tamil \"-க்கு முன்\": தூங்குவதற்கு முன் பல் துலக்குகிறேன் (\"I brush my teeth before sleeping\") = 寝る前に歯を磨きます ; மூன்று வருடங்களுக்கு முன் (\"three years ago\") = 三年前に.",
+      "explanation_en": "To say \"before ...\", use 前に. There are three types. (1) After a verb: dictionary form + 前に (寝る前に = before sleeping). This is important. The next action may be in the past. Even then, the verb before 前に is always in the dictionary form. (2) After a noun: N + の + 前に (食事の前に、授業の前に). (3) After an amount of time: number + time word + 前に, with no の (三年前に = three years ago). These are just like Tamil. \"தூங்குவதற்கு முன்\" (before sleeping), \"வகுப்புக்கு முன்\" (before class) and \"மூன்று வருடங்களுக்கு முன்\" (three years ago). It is the opposite of あとで (after) from Lesson 16.",
+      "tamil_parallel_en": "Just like Tamil \"-க்கு முன்\": தூங்குவதற்கு முன் பல் துலக்குகிறேன் (\"I brush my teeth before sleeping\") = 寝る前に歯を磨きます ; மூன்று வருடங்களுக்கு முன் (\"three years ago\") = 三年前に.",
       "formation_en": "V dictionary form + 前に / N + の + 前に / number + time unit (時間・日・年) + 前に",
-      "pitfalls_en": "It is not ×来ました前に or ×来ます前に; it is always ○来る前に. Don't use の with a length of time: ×三年の前に → ○三年前に."
+      "pitfalls_en": "It is not ×来ました前に or ×来ます前に. It is always ○来る前に. Don’t use の with an amount of time: ×三年の前に → ○三年前に."
     },
     "g18-6": {
-      "explanation_en": "なかなか + negative = \"not easily / not quickly\"; it says that something doesn't happen as expected even though you try. (Forms like 漢字がなかなか覚えられません come later; for now use なかなか 〜ません / できません.) It has the feeling of Tamil \"காஞ்சி சுலபத்தில் நினைவில் நிற்கவில்லை\" (kanji just won't stick in my memory) or \"பஸ் வரவே இல்லை\" (the bus just isn't coming). ぜひ = \"by all means / definitely\"; it comes only with your own wish (〜たいです) or with a request or invitation to someone (〜てください). It is like Tamil \"கண்டிப்பாக வாருங்கள்\" (please do come) or \"நிச்சயம் போக ஆசை\" (I really want to go). Don't use ぜひ with a plain statement of fact (ぜひ雨が降ります).",
-      "tamil_parallel_en": "なかなか + negative is like Tamil \"-வே இல்லை\" (just not), and ぜひ is like \"கண்டிப்பாக\" (definitely): பஸ் வரவே இல்லை (\"the bus just isn't coming\") = バスがなかなか来ません ; கண்டிப்பாக வாருங்கள் (\"please be sure to come\") = ぜひ来てください.",
+      "explanation_en": "なかなか + a \"not\" verb = \"not easily / not quickly\". It says that something doesn’t happen the way you hoped, even when you try. (Forms like 漢字がなかなか覚えられません come later. For now, use なかなか 〜ません / できません.) It feels like Tamil \"காஞ்சி சுலபத்தில் நினைவில் நிற்கவில்லை\" (kanji just won’t stick in my memory). Or like \"பஸ் வரவே இல்லை\" (the bus just isn’t coming). ぜひ = \"by all means / for sure\". Use it only in two cases. (1) Your own wish (〜たいです). (2) Asking or inviting someone (〜てください). It is like Tamil \"கண்டிப்பாக வாருங்கள்\" (please do come) or \"நிச்சயம் போக ஆசை\" (I really want to go). Don’t use ぜひ when you just say a fact (ぜひ雨が降ります).",
+      "tamil_parallel_en": "なかなか + a \"not\" verb is like Tamil \"-வே இல்லை\" (just not). ぜひ is like \"கண்டிப்பாக\" (for sure): பஸ் வரவே இல்லை (\"the bus just isn’t coming\") = バスがなかなか来ません ; கண்டிப்பாக வாருங்கள் (\"please be sure to come\") = ぜひ来てください.",
       "formation_en": "なかなか + V ません / できません (negative) ; ぜひ + V たいです / V てください",
-      "pitfalls_en": "Don't use なかなか with a positive verb (なかなか来ます) in this meaning. After ぜひ, 〜たい or 〜てください must follow."
+      "pitfalls_en": "With this meaning, don’t use なかなか with a positive verb (なかなか来ます). After ぜひ, you must use 〜たい or 〜てください."
     }
   },
   "items": {
-    "L18-q01": "図書館 = としょかん (நூலகம், library). しょ is a short sound, so don't lengthen it to としょうかん; と has no voicing mark.",
-    "L18-q02": "走る = はしる (ஓட, to run). はいります is 入ります (உள்ளே போக, to enter); あるきます is 歩きます (நடக்க, to walk).",
-    "L18-q03": "自転車 = じてんしゃ (சைக்கிள், bicycle). じどうしゃ is 自動車 (கார், car): similar kanji, different word. てん has no voicing mark.",
-    "L18-q04": "じしょ = 辞書 (அகராதி, dictionary). 字 (じ = letter, எழுத்து) sounds the same, but for \"dictionary\" it is 辞.",
-    "L18-q05": "かみ (காகிதம், paper) = 紙. 級 and 絵, which share the 糸 part, look similar; 低 (ひくい) has a similar right-hand part.",
+    "L18-q01": "図書館 = としょかん (நூலகம், library). しょ is a short sound, so don’t make it long, like としょうかん. と has no two dots.",
+    "L18-q02": "走る = はしる (ஓட, to run). はいります is 入ります (உள்ளே போக, to enter). あるきます is 歩きます (நடக்க, to walk).",
+    "L18-q03": "自転車 = じてんしゃ (சைக்கிள், bicycle). じどうしゃ is 自動車 (கார், car). The kanji look alike, but it is a different word. てん has no two dots.",
+    "L18-q04": "じしょ = 辞書 (அகராதி, dictionary). 字 (じ = letter, எழுத்து) sounds the same. But for \"dictionary\", it is 辞.",
+    "L18-q05": "かみ (காகிதம், paper) = 紙. 級 and 絵 look alike. They have the same 糸 part. 低 (ひくい) has a right side that looks alike.",
     "L18-q06": "To play a musical instrument (இசைக்கருவியை வாசிக்க) = 弾く (ひく). 話す (பேச, to speak) does not fit an instrument.",
-    "L18-q07": "To climb a mountain (மலை ஏற) = 山に登る. 走る (ஓட, to run) takes the place with を; with に and a mountain, the verb is 登る.",
-    "L18-q08": "The class finishes at three = 終わります (முடிகிறது). できます (முடியும் = இயலும், can) can look like the same word in Tamil, but it is about ability, not finishing.",
-    "L18-q09": "Before the exam, I practise kanji a lot (பயிற்சி செய்கிறேன்) = 練習します. 散歩 (உலா, a walk) doesn't fit the meaning.",
-    "L18-q10": "The bird is flying in the sky (பறக்கிறது) = 飛んでいます. 泳ぐ (நீந்த, to swim) is for fish; 走る (ஓட, to run) is done with legs.",
+    "L18-q07": "To climb a mountain (மலை ஏற) = 山に登る. 走る (ஓட, to run) takes the place with を. With に and a mountain, the verb is 登る.",
+    "L18-q08": "The class finishes at three = 終わります (முடிகிறது). できます (முடியும் = இயலும், can) may look like the same word in Tamil. But it is about being able to, not finishing.",
+    "L18-q09": "Before the exam, I practise kanji a lot (பயிற்சி செய்கிறேன்) = 練習します. 散歩 (உலா, a walk) doesn’t fit the meaning.",
+    "L18-q10": "The bird is flying in the sky (பறக்கிறது) = 飛んでいます. 泳ぐ (நீந்த, to swim) is for fish. 走る (ஓட, to run) is done with legs.",
     "L18-q11": "The thing you can read is a magazine (雑誌, இதழ்). レコード (இசைத்தட்டு, a record) is for listening, not reading.",
-    "L18-q12": "上手 = good at doing something (நன்றாகச் செய்யத் தெரியும்); とても よく 泳ぐことが できます has the same meaning. 好き (பிடிக்கும், like) doesn't say anything about skill; this is the key trap.",
-    "L18-q13": "A hobby of reading = liking to read (படிப்பது பிடிக்கும், 読むのが好き). 読むことができます only states an ability, not a hobby.",
-    "L18-q14": "Showering before sleeping = sleeping after showering (浴びてから寝ます, குளித்த பிறகு தூங்குதல்). 寝てから浴びます reverses the order.",
-    "L18-q15": "Before ことができます use the dictionary form: 書く. Don't use the ます-form as in 書きますこと.",
-    "L18-q16": "Before 前に always use the dictionary form, even if the last verb is in the past: 来る前に. 来ました前に is wrong.",
-    "L18-q17": "の turns the verb into a noun, and が comes before 好き: 走るのが好きです. のを is wrong, because 好き is an adjective, not a verb.",
-    "L18-q18": "Noun + の + 前に: 授業の前に. At N5, don't say 授業前に without の.",
-    "L18-q19": "N + が + できます. Because Tamil says \"ஆங்கிலத்தை\" (English, object form), you may want to use を, but できる takes が.",
-    "L18-q20": "With a negative, \"not quickly / not easily\" (சீக்கிரம் / எளிதில் 〜 இல்லை) = なかなか. ぜひ goes only with 〜たい / 〜てください; とても is not used with a negative.",
-    "L18-q21": "With an invitation (〜てください), \"by all means\" (கண்டிப்பாக) = ぜひ. あまり、全然 and なかなか are used with negatives.",
-    "L18-q22": "私の 趣味は 山に 登ることです。 This is the \"N は 〜ことです\" pattern; the dictionary form 登る comes right before こと.",
-    "L18-q23": "この公園で 自転車に 乗ることが できません。 乗る takes に; dictionary form + ことが + できません.",
-    "L18-q24": "寝る前に 歯を 磨きます。 \"Dictionary form + 前に\" comes first, then the action.",
-    "L18-q25": "[1] Before こと use the dictionary form 弾く. [2] 寝る (dictionary form) + 前に = before sleeping (தூங்குவதற்கு முன்); before あとで you would need the た-form. [3] With the negative できません, \"just can't manage it easily\" (எளிதில் முடியவில்லை) = なかなか."
+    "L18-q12": "上手 = good at doing something (நன்றாகச் செய்யத் தெரியும்). とても よく 泳ぐことが できます means the same. 好き (பிடிக்கும், like) says nothing about skill. This is the main trap.",
+    "L18-q13": "A hobby of reading = liking to read (படிப்பது பிடிக்கும், 読むのが好き). 読むことができます only says you can read. It is not a hobby.",
+    "L18-q14": "Showering before sleeping = sleeping after showering (浴びてから寝ます, குளித்த பிறகு தூங்குதல்). 寝てから浴びます turns the order around.",
+    "L18-q15": "Before ことができます, use the dictionary form: 書く. Don’t use the ます-form, like 書きますこと.",
+    "L18-q16": "Before 前に, always use the dictionary form. This is true even if the last verb is in the past: 来る前に. 来ました前に is wrong.",
+    "L18-q17": "の turns the verb into a noun. が comes before 好き: 走るのが好きです. のを is wrong, because 好き is an adjective, not a verb.",
+    "L18-q18": "Noun + の + 前に: 授業の前に. At N5, don’t say 授業前に without の.",
+    "L18-q19": "N + が + できます. Tamil says \"ஆங்கிலத்தை\" (English, as the object). So you may want to use を. But できる takes が.",
+    "L18-q20": "With a \"not\" verb, \"not quickly / not easily\" (சீக்கிரம் / எளிதில் 〜 இல்லை) = なかなか. ぜひ goes only with 〜たい / 〜てください. とても is not used with a \"not\" verb.",
+    "L18-q21": "With an invitation (〜てください), \"by all means\" (கண்டிப்பாக) = ぜひ. あまり、全然 and なかなか are used with \"not\" verbs.",
+    "L18-q22": "私の 趣味は 山に 登ることです。 This is the \"N は 〜ことです\" pattern. The dictionary form 登る comes right before こと.",
+    "L18-q23": "この公園で 自転車に 乗ることが できません。 乗る takes に. Then dictionary form + ことが + できません.",
+    "L18-q24": "寝る前に 歯を 磨きます。 \"Dictionary form + 前に\" comes first. Then comes the action.",
+    "L18-q25": "[1] Before こと, use the dictionary form 弾く. [2] 寝る (dictionary form) + 前に = before sleeping (தூங்குவதற்கு முன்). Before あとで you would need the た-form. [3] With the \"not\" verb できません, \"just can’t do it easily\" (எளிதில் முடியவில்லை) = なかなか."
   }
 }

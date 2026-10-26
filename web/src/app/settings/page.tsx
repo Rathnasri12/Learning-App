@@ -9,7 +9,7 @@ export default function SettingsPage() {
   const setSetting = useProgress((s) => s.setSetting);
   const xp = useProgress((s) => s.xp);
 
-  const Toggle = ({ k, label, desc }: { k: "freeNavigation" | "showRomaji" | "showReading" | "autoSpeak"; label: string; desc: string }) => (
+  const Toggle = ({ k, label, desc }: { k: "freeNavigation" | "showRomaji" | "showReading" | "autoSpeak" | "explainTamil"; label: string; desc: string }) => (
     <button
       onClick={() => setSetting(k, !settings[k])}
       className="card p-4 w-full flex items-center justify-between gap-4 text-left"
@@ -35,6 +35,7 @@ export default function SettingsPage() {
       <Toggle k="freeNavigation" label="Open all lessons" desc="Review mode. Off = lessons unlock only after passing the previous test." />
       <Toggle k="showReading" label="Show kana reading" desc="Reading line under kanji words and sentences." />
       <Toggle k="showRomaji" label="Show romaji" desc="Latin transcription on cards and examples." />
+      <Toggle k="explainTamil" label="Explanations in Tamil" desc="Show grammar and test explanations in Tamil instead of English. You can also switch with the English / தமிழ் button on each lesson page." />
       <Toggle k="autoSpeak" label="Auto-play audio" desc="Speak each vocabulary card when it appears." />
       <div className="card p-4 flex items-center justify-between">
         <div>

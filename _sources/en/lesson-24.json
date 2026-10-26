@@ -1,69 +1,69 @@
 {
   "lesson": 24,
-  "intro_en": "In Lesson 7 you learned あげます (I give) and もらいます (I receive). In this lesson you will learn くれます, 'someone gives to me', and how to give and receive help instead of things (〜てあげます、〜てもらいます、〜てくれます). Just as Tamil adds 'கொடு' (give) in phrases like 'செய்து கொடுத்தார்' (did it for me) and 'சொல்லிக் கொடுத்தார்' (taught me), Japanese adds a giving verb to the て-form. You will also meet words for moving house, cleaning and saying thank you.",
+  "intro_en": "In Lesson 7 you learned あげます (I give) and もらいます (I receive). In this lesson you learn くれます. It means \"someone gives to me\". You also learn to give and receive help, not just things: 〜てあげます、〜てもらいます、〜てくれます. Tamil adds \"கொடு\" (give) to a verb. For example: \"செய்து கொடுத்தார்\" (did it for me) and \"சொல்லிக் கொடுத்தார்\" (taught me). In the same way, Japanese adds a giving verb to the て-form. You will also meet words for moving house, cleaning and saying thank you.",
   "grammar": {
     "g24-1": {
-      "explanation_en": "Japanese has two verbs for 'give'. If I (or someone) give to another person, it is あげます; if another person gives to me (or to my family), it is くれます. 田中さんは私に本をくれました (Tanaka gave me a book). Here 私に is usually left out, because くれます itself shows 'to me'. In Tamil 'கொடுத்தார்' (gave) is enough, but in Japanese you have to notice which direction the thing moves: if it comes toward me, use くれる. Saying ×田中さんは私に本をあげました is wrong. Plain forms: くれる、くれない、くれた.",
-      "tamil_parallel_en": "தனாகா எனக்குப் புத்தகம் கொடுத்தார் (Tanaka gave me a book) = 田中さんは(私に)本をくれました. Tamil uses the same கொடு (give) in every direction; Japanese uses くれる when it comes toward me.",
-      "formation_en": "N(giver) は / が + (私に) + N(thing) を くれます",
-      "pitfalls_en": "Don’t use くれます when you are the giver: ×私は友達に本をくれました → ○あげました. Even when someone gives to 'my group', such as my younger sister or my mother, it is くれます."
+      "explanation_en": "Japanese has two verbs for \"give\". When I (or someone) give to another person, use あげます. When another person gives to me (or to my family), use くれます. 田中さんは私に本をくれました (Tanaka gave me a book). People usually leave out 私に here. くれます itself already shows \"to me\". In Tamil, \"கொடுத்தார்\" (gave) is enough. But in Japanese, you must look at which way the thing moves. If it comes toward me, use くれる. ×田中さんは私に本をあげました is wrong. Short (plain) forms: くれる、くれない、くれた.",
+      "tamil_parallel_en": "\"தனாகா எனக்குப் புத்தகம் கொடுத்தார்\" (Tanaka gave me a book) = 田中さんは(私に)本をくれました. Tamil uses the same \"கொடு\" (give) for every direction. Japanese uses くれる when the thing comes toward me.",
+      "formation_en": "Giver は / が + (私に) + thing を くれます",
+      "pitfalls_en": "Don’t use くれます when you are the giver: ×私は友達に本をくれました → ○あげました. Someone may give to \"my group\", like my younger sister or my mother. That is also くれます."
     },
     "g24-2": {
-      "explanation_en": "Giving a thing is あげます; doing an action (a favour) for someone else is て-form + あげます. 妹に本を読んであげました (I read a book to my younger sister). It is a direct match for Tamil 'படித்துக் காட்டினேன்' (read it out for her) and 'செய்து கொடுத்தேன்' (did it for them). The person who receives the help is marked with に; but with actions like 洗う and 掃除する, when the object belongs to that person, use の: 弟の自転車を洗ってあげました. Careful: if you say 〜てあげましょうか directly to a boss, teacher or older person, it sounds proud, like 'I will do you a favour'; in that case 〜ましょうか from Lesson 22 (持ちましょうか) is enough. With friends, younger people and family, 〜てあげます is natural.",
-      "tamil_parallel_en": "தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன் (I read a book to my younger sister) = 妹に本を読んであげました. て-form + あげる works like Tamil verb + கொடு (செய்து கொடு, 'do for someone').",
-      "formation_en": "N(receiver) に + V て-form + あげます ； N(receiver) の + N を + V て + あげます",
-      "pitfalls_en": "Don’t say ×先生、持ってあげましょうか to a teacher; say ○持ちましょうか. With 〜てあげます, the receiver cannot be 'me'."
+      "explanation_en": "Giving a thing is あげます. Doing something kind (a favour) for another person is て-form + あげます. 妹に本を読んであげました (I read a book to my younger sister). It matches Tamil exactly: \"படித்துக் காட்டினேன்\" (read it out for her) and \"செய்து கொடுத்தேன்\" (did it for them). Mark the person who gets the help with に. But look at actions like 洗う and 掃除する. When the thing belongs to that person, use の: 弟の自転車を洗ってあげました. Be careful with a boss, a teacher or an older person. Don’t say 〜てあげましょうか to them. It sounds proud, like \"I will do you a favour\". With them, 〜ましょうか from Lesson 22 is enough (持ちましょうか). With friends, younger people and family, 〜てあげます is natural.",
+      "tamil_parallel_en": "\"தங்கைக்குப் புத்தகம் படித்துக் காட்டினேன்\" (I read a book to my younger sister) = 妹に本を読んであげました. て-form + あげる works like Tamil verb + \"கொடு\" (\"செய்து கொடு\", do for someone).",
+      "formation_en": "Receiver に + verb て-form + あげます ； receiver の + thing を + verb て + あげます",
+      "pitfalls_en": "Don’t say ×先生、持ってあげましょうか to a teacher. Say ○持ちましょうか. With 〜てあげます, the person who gets the help cannot be \"me\"."
     },
     "g24-3": {
-      "explanation_en": "In Lesson 7 you learned 友達に本をもらいました (I received a book from my friend). When you receive an action, use て-form + もらいます: 友達に写真を撮ってもらいました — literally 'I received from my friend the favour of taking a photo', meaning 'I had my friend take a photo / my friend took a photo for me'. Here the subject (は) is the person who receives the help (me), and the person who does the favour is marked with に. Tamil has no exact equivalent for this; you can translate it as 'I asked X to do it and got it done' or 'X did it for me'. It carries the feeling that I asked for the help and am grateful for it.",
-      "tamil_parallel_en": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் (my friend took a photo for me; I received that favour) = 私は友達に写真を撮ってもらいました. Tamil has no direct form for this; the closest is X + செய்து கொடுத்தான் (did it for me), but Japanese makes the receiver the subject.",
-      "formation_en": "N(receiver) は + N(doer) に + V て-form + もらいます",
-      "pitfalls_en": "Don’t mark the doer with が or は: ×友達が写真を撮ってもらいました → ○(私は)友達に写真を撮ってもらいました. The subject of a てもらう sentence is always the receiver."
+      "explanation_en": "In Lesson 7 you learned 友達に本をもらいました (I received a book from my friend). When you receive an action, use て-form + もらいます: 友達に写真を撮ってもらいました. Word for word, it is \"I received from my friend the favour of taking a photo\". It means \"I had my friend take a photo\" or \"my friend took a photo for me\". Here the topic (は) is the person who gets the help (me). The person who does the favour is marked with に. Tamil has no exact match for this. You can say \"I asked X to do it and got it done\". Or you can say \"X did it for me\". It has the feeling that I asked for the help and I am thankful.",
+      "tamil_parallel_en": "\"நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்\" (my friend took a photo for me; I received that favour) = 私は友達に写真を撮ってもらいました. Tamil has no direct form for this. The closest is X + \"செய்து கொடுத்தான்\" (did it for me). But in Japanese, the person who gets the help is the topic.",
+      "formation_en": "Receiver は + doer に + verb て-form + もらいます",
+      "pitfalls_en": "Don’t mark the doer with が or は: ×友達が写真を撮ってもらいました → ○(私は)友達に写真を撮ってもらいました. In a てもらう sentence, the topic is always the person who gets the help."
     },
     "g24-4": {
-      "explanation_en": "We described てもらいます from the receiver’s point of view; to describe the same event with the doer as the subject, use て-form + くれます: 友達が写真を撮ってくれました (my friend took a photo for me). This is the form closest to Tamil 'செய்து கொடுத்தார்' (did it for me). The doer takes は/が, and the receiver is me (not mentioned). It carries a feeling of gratitude that the person did it kindly, on their own initiative. To say thank you, use the て-form: 〜てくれて、ありがとう. If 'I didn’t ask, they did it themselves', てくれました fits; if 'I asked and received it', use てもらいました.",
-      "tamil_parallel_en": "நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான் (my friend took a photo for me) = 友達が(私に)写真を撮ってくれました. Tamil verb + கொடுத்தான் with the doer as subject matches て-form + くれました.",
-      "formation_en": "N(doer) は / が + V て-form + くれます",
+      "explanation_en": "てもらいます tells the story from the side of the person who gets the help. To tell the same story with the doer first, use て-form + くれます: 友達が写真を撮ってくれました (my friend took a photo for me). This form is the closest to Tamil \"செய்து கொடுத்தார்\" (did it for me). The doer takes は/が. The person who gets the help is me, and you don’t say it. It has a thankful feeling. The person did it kindly, without being asked. To say thank you, use the て-form: 〜てくれて、ありがとう. \"I didn’t ask, they did it on their own\": use てくれました. \"I asked and got it\": use てもらいました.",
+      "tamil_parallel_en": "\"நண்பன் எனக்குப் போட்டோ எடுத்துக் கொடுத்தான்\" (my friend took a photo for me) = 友達が(私に)写真を撮ってくれました. In Tamil, verb + \"கொடுத்தான்\" has the doer first. It matches て-form + くれました.",
+      "formation_en": "Doer は / が + verb て-form + くれます",
       "pitfalls_en": "Don’t use てくれます when you do something for someone else: ×私は友達に写真を撮ってくれました → ○撮ってあげました. In てくれます, the doer takes は/が, not に."
     },
     "g24-5": {
-      "explanation_en": "When you ask 'who?' and when you answer it, the person is marked with が, not は. 誰が教えてくれましたか (who taught you?) — 田中さんが教えてくれました (it was Tanaka who taught me). When question words like 誰, 何 or どこ are the subject, they always take が; は is never used (×誰は). The answer also uses が, because it is 'new information'. It is like emphasising with '-தான்' in Tamil, as in 'தனாகாதான்' (it was Tanaka). Use は only when you say more about a person who is already known: 田中さんは親切です.",
-      "tamil_parallel_en": "யார் சொல்லிக் கொடுத்தார்? — தனாகாதான் சொல்லிக் கொடுத்தார் (Who taught you? — It was Tanaka who taught me.) = 誰が教えてくれましたか。— 田中さんが教えてくれました。 The emphasis of Tamil -தான் matches が here.",
-      "formation_en": "誰 + が + V てくれましたか ； N(person) + が + V てくれました",
-      "pitfalls_en": "×誰は来ましたか is wrong; when the question word is the subject, use ○誰が来ましたか. In the answer too, not ×田中さんは来ました but ○田中さんが来ました."
+      "explanation_en": "When you ask \"who?\" and when you answer, mark the person with が, not は. 誰が教えてくれましたか (who taught you?) — 田中さんが教えてくれました (it was Tanaka who taught me). Question words like 誰, 何 or どこ can be the doer. Then they always take が. Never use は (×誰は). The answer also uses が, because it is new news. It is like the Tamil \"-தான்\" that adds stress, as in \"தனாகாதான்\" (it was Tanaka). Use は only when you say more about a person you already know about: 田中さんは親切です.",
+      "tamil_parallel_en": "\"யார் சொல்லிக் கொடுத்தார்? — தனாகாதான் சொல்லிக் கொடுத்தார்\" (Who taught you? — It was Tanaka who taught me.) = 誰が教えてくれましたか。— 田中さんが教えてくれました。 The stress of Tamil \"-தான்\" matches が here.",
+      "formation_en": "誰 + が + verb てくれましたか ； person + が + verb てくれました",
+      "pitfalls_en": "×誰は来ましたか is wrong. When the question word is the doer, use ○誰が来ましたか. The answer is the same. Not ×田中さんは来ました, but ○田中さんが来ました."
     },
     "g24-6": {
-      "explanation_en": "Let’s look at all three verbs together. (1) あげる: the giver is me / my group or a third person → to someone else. 私は友達に花をあげました. (2) くれる: someone else → to me / my group. 友達は私に花をくれました. (3) もらう: from the receiver’s point of view; the giver takes に/から. 私は友達に花をもらいました. The second and third describe the same event; only the subject is different. When it is help instead of a thing, put the て-form before all three: 〜てあげる、〜てくれる、〜てもらう. Tamil 'கொடு' (give) alone doesn’t show direction; in Japanese the key rule is whether it 'comes toward me (くれる)' or 'goes away from me (あげる)'. When giving to animals or plants, people say やる (犬に水をやる); it is a plain, casual version of あげる.",
-      "tamil_parallel_en": "நான் கொடுத்தேன் (I gave) = あげました ； அவர் எனக்குக் கொடுத்தார் (he gave to me) = くれました ； நான் அவரிடமிருந்து பெற்றேன் (I received from him) = もらいました. Tamil uses கொடு for both directions, while Japanese splits it into あげる and くれる.",
+      "explanation_en": "Let’s look at all three verbs together. (1) あげる: the giver is me, my group, or another person. The thing goes to someone else. 私は友達に花をあげました. (2) くれる: someone else gives to me or my group. 友達は私に花をくれました. (3) もらう: this is told from the side of the person who gets the thing. The giver takes に/から. 私は友達に花をもらいました. Sentences (2) and (3) tell the same story. Only the topic is different. When it is help and not a thing, put the て-form before all three: 〜てあげる、〜てくれる、〜てもらう. Tamil \"கொடு\" (give) alone doesn’t show the direction. In Japanese, the key rule is the direction. Does it come toward me (くれる)? Or does it go away from me (あげる)? When giving to animals or plants, people say やる (犬に水をやる). It is a plain, casual form of あげる.",
+      "tamil_parallel_en": "\"நான் கொடுத்தேன்\" (I gave) = あげました ； \"அவர் எனக்குக் கொடுத்தார்\" (he gave to me) = くれました ； \"நான் அவரிடமிருந்து பெற்றேன்\" (I received from him) = もらいました. Tamil uses \"கொடு\" for both directions. Japanese splits it into あげる and くれる.",
       "formation_en": "私 → 他人: あげる ； 他人 → 私: くれる ； 私 ← 他人 (私が主語): もらう ； + て-form = 〜てあげる / 〜てくれる / 〜てもらう",
-      "pitfalls_en": "Saying 'he gave to me' as ×あげました is the first mistake Tamil learners make; it should be ○くれました. In もらう the giver takes に or から; in くれる the giver takes は/が."
+      "pitfalls_en": "Tamil learners often make this mistake first. They say \"he gave to me\" as ×あげました. It should be ○くれました. In もらう, the giver takes に or から. In くれる, the giver takes は/が."
     }
   },
   "items": {
-    "L24-q01": "荷物 = にもつ (சாமான், luggage). Here 物 is read もつ, not もの as in 食べ物. かもつ is 貨物 (freight), which is not in N5.",
-    "L24-q02": "手紙 = てがみ (கடிதம், letter). 紙 (かみ) becomes voiced as がみ in a compound. てかみ is the trap with the voicing missing.",
-    "L24-q03": "廊下 = ろうか (நடைபாதை, corridor). Here 下 is read か, not した (below). Dropping the long vowel to make ろか is the trap.",
-    "L24-q04": "ならべて = 並べて (வரிசையாக வைக்க, to line things up; transitive). 並んで is from 並ぶ (to line up oneself) — a different verb with a different sound. 立 is a fake that looks similar.",
-    "L24-q05": "そうじ = 掃除 (சுத்தம், cleaning). 帰 (かえる) and 婦 are fakes with a changed left side; 事 (こと) sounds similar but is the wrong kanji.",
-    "L24-q06": "'Sticking' a stamp on an envelope = 貼ります (ஒட்டு, stick). 置いて (put) is for placing something on a table or similar, not for sticking.",
-    "L24-q07": "Handing something into a person’s hand = 渡します (ஒப்படை, hand over); the receiver takes に. 貼って (stick) doesn’t fit.",
-    "L24-q08": "The shirt is dirty, so 'doing laundry' = 洗濯 (துணி துவைத்தல், washing clothes). 掃除 is cleaning a room or house, not clothes.",
-    "L24-q09": "To wash your hands 'with soap' = 石鹸で (சோப்பால், with soap) (で = tool, Tamil -ஆல்). The others are not things you wash with.",
+    "L24-q01": "荷物 = にもつ (சாமான், luggage). Here 物 is read もつ. It is not もの, as in 食べ物. かもつ is 貨物 (goods sent by truck or ship). It is not in N5.",
+    "L24-q02": "手紙 = てがみ (கடிதம், letter). 紙 (かみ) gets the two dots and becomes がみ inside a longer word. てかみ, without the dots, is the trap.",
+    "L24-q03": "廊下 = ろうか (நடைபாதை, corridor). Here 下 is read か, not した (below). ろか, with the long sound cut short, is the trap.",
+    "L24-q04": "ならべて = 並べて (வரிசையாக வைக்க, to line things up; you do it to things). 並んで comes from 並ぶ (to stand in a line yourself). It is a different verb with a different sound. 立 looks similar, but it is a fake.",
+    "L24-q05": "そうじ = 掃除 (சுத்தம், cleaning). 帰 (かえる) and 婦 are fakes with a changed left side. 事 (こと) sounds similar, but it is the wrong kanji.",
+    "L24-q06": "\"Sticking\" a stamp on an envelope = 貼ります (ஒட்டு, stick). 置いて (put) is for putting something on a table and so on. It is not for sticking.",
+    "L24-q07": "Putting something into a person’s hand = 渡します (ஒப்படை, hand over). The person who gets it takes に. 貼って (stick) doesn’t fit.",
+    "L24-q08": "The shirt is dirty, so the answer is \"doing laundry\" = 洗濯 (துணி துவைத்தல், washing clothes). 掃除 is cleaning a room or a house, not clothes.",
+    "L24-q09": "To wash your hands \"with soap\" = 石鹸で (சோப்பால், with soap) (で = tool, Tamil -ஆல்). The other choices are not things you wash with.",
     "L24-q10": "Raising your hand = 手を上げる (கையை உயர்த்து, raise your hand). 取って (take) is for picking up a thing, not your hand.",
-    "L24-q11": "Giving to animals and plants is やります (கொடு, give to animals/plants). くれます is giving to 'me'; the dog doesn’t give me water.",
-    "L24-q12": "AはBにXをくれました = BはAにXをもらいました. (தனாகா எனக்குக் கொடுத்தார், Tanaka gave it to me) = (நான் தனாகாவிடம் பெற்றேன், I received it from Tanaka). The first option reverses the direction.",
-    "L24-q13": "〜に〜てもらいました = 〜が〜てくれました; in both, Mother did the cleaning (அம்மா சுத்தம் செய்தார்). In the first option, I did it for Mother — the wrong direction.",
-    "L24-q14": "持ってあげました = I carried it (for him) (நான் தூக்கினேன்): 私が持ちました. In the first option, the grandfather carried it for me — the opposite direction.",
-    "L24-q15": "Friend → to me, so くれました (கொடுத்தான், gave me). あげました is me giving to someone else; with もらいました the subject must be me (友達に もらいました).",
-    "L24-q16": "In てもらう the person doing the favour takes に: 友達に撮ってもらいました (நண்பன் எனக்கு எடுத்துக் கொடுத்தான், my friend took it for me). With が the meaning gets confused, as if 'my friend received it'.",
-    "L24-q17": "When saying thank you for 'what you did for me' = 〜てくれて、ありがとう (எனக்குச் செய்ததற்கு நன்றி, thank you for doing it for me). 持ってあげて would mean what I did for you — the wrong direction.",
-    "L24-q18": "I read it to (に) my younger sister → 〜てあげました (படித்துக் காட்டினேன், I read it for her). くれました would mean 'someone did it for me', and then 妹に wouldn’t fit.",
-    "L24-q19": "When 誰 is the subject, it always takes が: 誰が作ってくれましたか (யார் செய்து கொடுத்தார்?, who made it for you?). You cannot say 誰は.",
-    "L24-q20": "The doer おじさんが (が) is the subject and the receiver is me → 〜てくれました (செய்து கொடுத்தார், did it for me). もらいました would need に: おじさんに.",
-    "L24-q21": "In もらう the giver takes に or から (= Tamil -இடமிருந்து, from). Using が changes the meaning to 'my uncle received it'.",
-    "L24-q22": "私は 田中さんに 漢字の 意味を 教えて もらいました。 — Receiver は, doer に, object を, then て-form + もらいました. 教えて goes in the star position.",
-    "L24-q23": "隣の 人が 重い 荷物を 持って くれました。 — The adjective 重い comes before the noun, then を, then 持って くれました. 荷物を goes in the star position.",
-    "L24-q24": "姉が 手紙を ポストに 入れて くれました。 — (அக்கா எனக்காகக் கடிதத்தைத் தபால் பெட்டியில் போட்டார், my older sister posted the letter for me). Object を, place に, then て-form + くれました. ポストに goes in the star position.",
-    "L24-q25": "［1］ My uncle (が) did it for me → くれました. ［2］ In 〜てあげる the receiver takes に: 山田さんに作ってあげました. ［3］ I will help Yamada → あげる; the plain form comes before と思います. くれる would mean Yamada does it for me — the wrong direction."
+    "L24-q11": "For giving to animals and plants, use やります (கொடு, give to animals/plants). くれます is giving to \"me\". The dog doesn’t give me water.",
+    "L24-q12": "AはBにXをくれました = BはAにXをもらいました. (தனாகா எனக்குக் கொடுத்தார், Tanaka gave it to me) = (நான் தனாகாவிடம் பெற்றேன், I received it from Tanaka). The first choice turns the direction around.",
+    "L24-q13": "〜に〜てもらいました = 〜が〜てくれました. In both, Mother did the cleaning (அம்மா சுத்தம் செய்தார்). In the first choice, I did it for Mother. That is the wrong direction.",
+    "L24-q14": "持ってあげました = I carried it (for him) (நான் தூக்கினேன்): 私が持ちました. In the first choice, the grandfather carried it for me. That is the opposite direction.",
+    "L24-q15": "It goes from my friend to me, so use くれました (கொடுத்தான், gave me). あげました is me giving to someone else. With もらいました, the topic must be me (友達に もらいました).",
+    "L24-q16": "In てもらう, the person who does the favour takes に: 友達に撮ってもらいました (நண்பன் எனக்கு எடுத்துக் கொடுத்தான், my friend took it for me). With が, the meaning gets mixed up. It sounds like \"my friend received it\".",
+    "L24-q17": "To say thank you for \"what you did for me\", use 〜てくれて、ありがとう (எனக்குச் செய்ததற்கு நன்றி, thank you for doing it for me). 持ってあげて would mean what I did for you. That is the wrong direction.",
+    "L24-q18": "I read it to (に) my younger sister, so use 〜てあげました (படித்துக் காட்டினேன், I read it for her). くれました would mean \"someone did it for me\". Then 妹に wouldn’t fit.",
+    "L24-q19": "When 誰 is the doer, it always takes が: 誰が作ってくれましたか (யார் செய்து கொடுத்தார்?, who made it for you?). You cannot say 誰は.",
+    "L24-q20": "The doer おじさんが (with が) comes first, and the person who gets the help is me. So use 〜てくれました (செய்து கொடுத்தார், did it for me). もらいました would need に: おじさんに.",
+    "L24-q21": "In もらう, the giver takes に or から (= Tamil -இடமிருந்து, from). Using が changes the meaning to \"my uncle received it\".",
+    "L24-q22": "私は 田中さんに 漢字の 意味を 教えて もらいました。 — The person who gets the help takes は. The doer takes に. The thing takes を. Then comes て-form + もらいました. 教えて goes in the star position.",
+    "L24-q23": "隣の 人が 重い 荷物を 持って くれました。 — The adjective 重い comes before the noun. Then comes を, then 持って くれました. 荷物を goes in the star position.",
+    "L24-q24": "姉が 手紙を ポストに 入れて くれました。 — (அக்கா எனக்காகக் கடிதத்தைத் தபால் பெட்டியில் போட்டார், my older sister posted the letter for me). First the thing with を, then the place with に. Then comes て-form + くれました. ポストに goes in the star position.",
+    "L24-q25": "［1］ My uncle (が) did it for me, so use くれました. ［2］ In 〜てあげる, the person who gets the help takes に: 山田さんに作ってあげました. ［3］ I will help Yamada, so use あげる. The short (plain) form comes before と思います. くれる would mean Yamada does it for me. That is the wrong direction."
   }
 }

@@ -1,75 +1,75 @@
 {
   "lesson": 6,
-  "intro_en": "In this lesson you learn to talk about everyday actions: what you eat, what you watch, and where you do things. Two particles are key: を, which works like the Tamil \"-ஐ\" ending, and で, which works like the Tamil \"-இல்\" ending. You will also learn how to invite someone (\"Shall we watch a movie?\") and how to accept (\"OK, let's go!\"). The vocabulary for this lesson covers food, drinks and free-time activities.",
+  "intro_en": "In this lesson you learn to talk about everyday actions. You say what you eat, what you watch, and where you do things. Two small marker words are key. を works like the Tamil \"-ஐ\" ending. で works like the Tamil \"-இல்\" ending. You also learn how to invite someone (\"Shall we watch a movie?\"). And you learn how to say yes (\"OK, let’s go!\"). The new words in this lesson are about food, drinks and free time.",
   "grammar": {
     "g06-1": {
-      "explanation_en": "を is the particle that marks the object of a verb. It does the same job as the Tamil \"-ஐ\" (the second case ending) in \"புத்தகத்தைப் படிக்கிறேன்\" (I read the book). Like Tamil, Japanese follows the order \"object → verb\", so 御飯を食べます matches \"சோற்றைச் சாப்பிடுகிறேன்\" (I eat rice) word for word. Although を sits in the \"wo\" row of the kana chart, it is always pronounced just \"o\". In Tamil you can drop \"-ஐ\" and say \"தண்ணீர் குடிக்கிறேன்\" (I drink water), but in polite Japanese you must not drop を; always say it.",
-      "tamil_parallel_en": "The Japanese object marker を matches the Tamil accusative ending -ஐ, and the word order is the same: சோற்றை(-ஐ) சாப்பிடுகிறேன் (\"I eat rice\") = 御飯を食べます; படத்தை(-ஐ) பார்க்கிறேன் (\"I watch a film\") = 映画を見ます.",
+      "explanation_en": "を marks the object. The object is the thing the action is done to. It does the same job as the Tamil \"-ஐ\" ending. For example: \"புத்தகத்தைப் படிக்கிறேன்\" (I read the book). Japanese and Tamil use the same order: object first, then the verb (action word). So 御飯を食べます matches \"சோற்றைச் சாப்பிடுகிறேன்\" (I eat rice) word for word. を is in the \"wo\" row of the kana chart. But you always say it as just \"o\". In Tamil you can drop \"-ஐ\" and say \"தண்ணீர் குடிக்கிறேன்\" (I drink water). In polite Japanese you must not drop を. Always say it.",
+      "tamil_parallel_en": "The Japanese object marker を matches the Tamil \"-ஐ\" ending. The word order is also the same. \"சோற்றை(-ஐ) சாப்பிடுகிறேன்\" (\"I eat rice\") = 御飯を食べます. \"படத்தை(-ஐ) பார்க்கிறேன்\" (\"I watch a film\") = 映画を見ます.",
       "formation_en": "N + を + V ます / ません / ました / ませんでした",
-      "pitfalls_en": "Because Tamil speakers often say \"டீ குடிக்கிறேன்\" (I drink tea) with no case ending, a common mistake is leaving out を. In polite Japanese, を is required. Also, don't pronounce を as \"wo\"; it is \"o\"."
+      "pitfalls_en": "Tamil speakers often say \"டீ குடிக்கிறேன்\" (I drink tea) with no ending. So a common mistake is to leave out を. In polite Japanese, you need を. Also, don’t say を as \"wo\". Say \"o\"."
     },
     "g06-2": {
-      "explanation_en": "If you add a noun that names an activity to the verb します (\"do\"), you get a new verb meaning \"do X\": 勉強をします (do study = study), サッカーをします (play soccer). This is just like adding \"செய்/பண்ணு\" (do) in Tamil: \"வேலை செய்கிறேன்\" (I do work), \"படிப்பு பண்ணுகிறேன்\" (I do studies), \"ஷாப்பிங் பண்ணுகிறேன்\" (I do shopping). You can also drop を and say noun + します as one verb (勉強します); both are correct. The polite forms of する are します, しません, しました, しませんでした.",
-      "tamil_parallel_en": "Tamil makes verbs from activity nouns with செய்/பண்ணு (\"do\"), and Japanese does the same with します: படிப்புப் பண்ணுகிறேன் / படிக்கிறேன் (\"I study\") = 勉強をします; கால்பந்து விளையாடுகிறேன் (\"I play football\") = サッカーをします.",
+      "explanation_en": "Some nouns name an activity. Add します (\"do\") to one, and you get a new verb meaning \"do X\". 勉強をします means \"do study\", so \"study\". サッカーをします means \"play soccer\". Tamil does the same with \"செய்/பண்ணு\" (do). For example: \"வேலை செய்கிறேன்\" (I do work), \"படிப்பு பண்ணுகிறேன்\" (I do studies), \"ஷாப்பிங் பண்ணுகிறேன்\" (I do shopping). You can also drop を and say the noun + します as one verb (勉強します). Both are correct. The polite forms of する are します, しません, しました and しませんでした.",
+      "tamil_parallel_en": "Tamil makes verbs from activity nouns with \"செய்/பண்ணு\" (\"do\"). Japanese does the same with します. \"படிப்புப் பண்ணுகிறேன் / படிக்கிறேன்\" (\"I study\") = 勉強をします. \"கால்பந்து விளையாடுகிறேன்\" (\"I play football\") = サッカーをします.",
       "formation_en": "Activity noun + を + します  (= N + します)",
-      "pitfalls_en": "Don't double it as 勉強を 勉強します; use either 勉強をします or 勉強します, one is enough. Also, ordinary verbs such as 食べます don't need します added."
+      "pitfalls_en": "Don’t say it twice, like 勉強を 勉強します. Use 勉強をします or 勉強します. One is enough. Also, normal verbs like 食べます don’t need します added."
     },
     "g06-3": {
-      "explanation_en": "何 means \"what\". With a verb and を you can ask 何をしますか (\"What do you do?\"). 何 is read in two ways: なん before words starting with a d, t or n sound such as です, の and で, and in counting questions such as 何時, 何歳 and 何人; なに before other particles such as を, が and も. Tamil has just one word, \"என்ன\" (what). As in Tamil, the Japanese question word stays in the middle of the sentence, right before the verb (\"ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?\", What do you do on Sunday? = 日曜日に何をしますか). You don't need to move it to the front like in English. Don't forget か at the end of the question.",
-      "tamil_parallel_en": "Like Tamil என்ன (\"what\"), 何 stays in its normal place before the verb: என்ன(-ஐ) செய்கிறீர்கள்? (\"What do you do?\") = 何をしますか; அது என்ன? (\"What is that?\") = それは何ですか.",
+      "explanation_en": "何 means \"what\". With を and a verb you can ask 何をしますか (\"What do you do?\"). 何 has two readings. Say なん before words that start with a d, t or n sound, like です, の and で. Also say なん in counting questions, like 何時, 何歳 and 何人. Say なに before other marker words, like を, が and も. Tamil has just one word, \"என்ன\" (what). Like in Tamil, the question word stays in the middle of the sentence. It comes right before the verb. Example: \"ஞாயிற்றுக்கிழமை என்ன செய்கிறீர்கள்?\" (What do you do on Sunday?) = 日曜日に何をしますか. You don’t move it to the front like in English. Don’t forget か at the end of the question.",
+      "tamil_parallel_en": "Like Tamil \"என்ன\" (\"what\"), 何 stays in its normal place before the verb. \"என்ன(-ஐ) செய்கிறீர்கள்?\" (\"What do you do?\") = 何をしますか. \"அது என்ன?\" (\"What is that?\") = それは何ですか.",
       "formation_en": "何(なに) + を + V ますか ／ 何(なん) + ですか ／ 何(なん) + 時・歳・人",
-      "pitfalls_en": "Reading 何を as なんを is a common mistake; before を it is always なに. The other way round, don't say 何ですか as なにですか; it is なんですか."
+      "pitfalls_en": "A common mistake is reading 何を as なんを. Before を it is always なに. It also works the other way. Don’t read 何ですか as なにですか. It is なんですか."
     },
     "g06-4": {
-      "explanation_en": "To show where an action takes place, add で after the place noun: 喫茶店でコーヒーを飲みます = \"I drink coffee at a cafe\". This is the Tamil \"-இல்\" (the seventh case ending). Be careful: へ shows the direction you go (\"where to\"), while で shows the place where you do something. 駅へ行きます (I go to the station), but 駅で写真を撮ります (I take photos at the station). The で for vehicles from Lesson 5 (バスで = by bus) is the same word; in Tamil both come out as \"-இல்\", which helps you remember. Word order: place で → object を → verb.",
-      "tamil_parallel_en": "で marking the place of an action is the Tamil locative -இல்: கடையில்(-இல்) மிட்டாய் வாங்குகிறேன் (\"I buy sweets at the shop\") = 店で飴を買います.",
+      "explanation_en": "To show where an action happens, put で after the place. 喫茶店でコーヒーを飲みます = \"I drink coffee at a cafe\". This is the Tamil \"-இல்\" ending. Be careful. へ shows the direction you go (\"where to\"). で shows the place where you do something. 駅へ行きます means \"I go to the station\". But 駅で写真を撮ります means \"I take photos at the station\". In Lesson 5, で was used for vehicles (バスで = by bus). It is the same word. In Tamil both are \"-இல்\" too, so that helps you remember. Word order: place で, then object を, then verb.",
+      "tamil_parallel_en": "で for the place of an action is the Tamil \"-இல்\" ending. \"கடையில்(-இல்) மிட்டாய் வாங்குகிறேன்\" (\"I buy sweets at the shop\") = 店で飴を買います.",
       "formation_en": "N(place) + で + [N を] + V",
-      "pitfalls_en": "喫茶店へコーヒーを飲みます ✗. へ is only for the direction you go; for the place where an action happens, use で. Remember that Tamil also keeps these apart as \"-க்கு\" (to) and \"-இல்\" (at/in)."
+      "pitfalls_en": "喫茶店へコーヒーを飲みます ✗. へ is only for the direction you go. For the place where an action happens, use で. Tamil also keeps these apart: \"-க்கு\" (to) and \"-இல்\" (at/in)."
     },
     "g06-5": {
-      "explanation_en": "Using a negative verb + か to invite someone is the polite Japanese way: 映画を見ませんか = \"Shall we watch a movie? / Won't you watch a movie?\". In Tamil too, we invite gently with a negative or with \"-லாமா\": \"வர மாட்டீர்களா?\" (won't you come?), \"ஒரு டீ சாப்பிடலாமா?\" (shall we have a tea?). It is the same feeling. This is not a real negative question, and it is not asking for information about whether you do it or not; it is an invitation. To accept, say ええ、〜ましょう (yes, let's do it) or ええ、いいですね (yes, that sounds good). When you decline, a direct いいえ sounds harsh; it is usual to say softly すみません、ちょっと… (sorry, it's a bit…).",
-      "tamil_parallel_en": "Tamil also invites with a negative question or -லாமா: படம் பார்க்கலாமா? (\"shall we watch a film?\") / பார்க்க மாட்டீர்களா? (\"won't you watch?\") = 映画を見ませんか.",
+      "explanation_en": "In Japanese, a polite way to invite someone is a \"not\" verb + か. 映画を見ませんか = \"Shall we watch a movie? / Won’t you watch a movie?\". Tamil also invites gently with a \"not\" question or with \"-லாமா\". For example: \"வர மாட்டீர்களா?\" (won’t you come?), \"ஒரு டீ சாப்பிடலாமா?\" (shall we have a tea?). The feeling is the same. This is not a real \"not\" question. It does not ask if you do it or not. It is an invitation. To say yes, say ええ、〜ましょう (yes, let’s do it). Or say ええ、いいですね (yes, that sounds good). To say no, a direct いいえ sounds harsh. People usually say softly すみません、ちょっと… (sorry, it’s a bit…).",
+      "tamil_parallel_en": "Tamil also invites with a \"not\" question or with \"-லாமா\". \"படம் பார்க்கலாமா?\" (\"shall we watch a film?\") / \"பார்க்க மாட்டீர்களா?\" (\"won’t you watch?\") = 映画を見ませんか.",
       "formation_en": "V ます-stem + ませんか  (食べます → 食べませんか)",
-      "pitfalls_en": "食べますか (Do you eat? asks about a habit or fact) vs 食べませんか (Shall we eat? an invitation). If you use ますか when inviting, it sounds like a plain inquiry: \"Do you eat or not?\""
+      "pitfalls_en": "食べますか means \"Do you eat?\". It asks about a habit or a fact. 食べませんか means \"Shall we eat?\". It is an invitation. If you use ますか to invite, it sounds like a plain question: \"Do you eat or not?\""
     },
     "g06-6": {
-      "explanation_en": "ましょう means \"let's do ~\". You use it to propose something the speaker and listener do together, and to answer a ませんか invitation with \"OK, let's do it\". It matches exactly the Tamil \"we\" form such as \"போவோம்\" (let's go) and \"சாப்பிடுவோம்\" (let's eat). Just remove ます and add ましょう: 行きます → 行きましょう, 食べます → 食べましょう. ませんか is a gentle invitation that respects the listener's wishes; ましょう is a firmer proposal, used when the other person has already agreed or will naturally agree.",
-      "tamil_parallel_en": "ましょう is the Tamil inclusive \"let's\" form ending in -ஓம்: வாருங்கள், போவோம் (\"come on, let's go\") = 行きましょう; சாப்பிடுவோம் (\"let's eat\") = 食べましょう.",
+      "explanation_en": "ましょう means \"let’s do ~\". Use it to suggest something you and the listener do together. Also use it to answer a ませんか invitation: \"OK, let’s do it\". It matches the Tamil \"we\" form, like \"போவோம்\" (let’s go) and \"சாப்பிடுவோம்\" (let’s eat). Just take off ます and add ましょう. 行きます → 行きましょう. 食べます → 食べましょう. ませんか is a gentle invitation. It leaves the choice to the listener. ましょう is a stronger suggestion. Use it when the other person has already agreed, or will surely agree.",
+      "tamil_parallel_en": "ましょう is the Tamil \"let’s\" form that ends in \"-ஓம்\". \"வாருங்கள், போவோம்\" (\"come on, let’s go\") = 行きましょう. \"சாப்பிடுவோம்\" (\"let’s eat\") = 食べましょう.",
       "formation_en": "V ます-stem + ましょう  (行きます → 行きましょう)",
-      "pitfalls_en": "Don't use ましょう for something one person does alone (私は食べましょう ✗). It is only for things \"we\" do together."
+      "pitfalls_en": "Don’t use ましょう for something one person does alone (私は食べましょう ✗). Use it only for things \"we\" do together."
     },
     "g06-7": {
-      "explanation_en": "Question word + か = \"some unspecified thing\": 何か = \"something / anything\", 誰か = \"someone / anyone\". This is like Tamil adding \"-ஓ / -ஆவது\": \"என்ன\" (what) → \"ஏதோ / ஏதாவது\" (something / anything), \"யார்\" (who) → \"யாரோ / யாராவது\" (someone / anyone). In a question, \"Will you eat something?\" = 何か食べますか. After 何か, を is usually not said: 何か飲みませんか (not 何かを). To answer \"no, nothing\", use 何も + negative (\"nothing at all\"), just like どこも行きません in Lesson 5.",
-      "tamil_parallel_en": "Tamil adds -ஓ / -ஆவது to question words, and Japanese adds か: ஏதாவது குடிக்கலாமா? (\"shall we drink something?\") = 何か飲みませんか; யாரோ வந்தார்கள் (\"someone came\") = 誰か来ました.",
+      "explanation_en": "A question word + か means \"some thing, but we don’t say which\". 何か = \"something / anything\". 誰か = \"someone / anyone\". Tamil does this by adding \"-ஓ / -ஆவது\". \"என்ன\" (what) → \"ஏதோ / ஏதாவது\" (something / anything). \"யார்\" (who) → \"யாரோ / யாராவது\" (someone / anyone). In a question: \"Will you eat something?\" = 何か食べますか. After 何か, people usually don’t say を. Say 何か飲みませんか, not 何かを. To answer \"no, nothing\", use 何も + a \"not\" verb (\"nothing at all\"). It is just like どこも行きません in Lesson 5.",
+      "tamil_parallel_en": "Tamil adds \"-ஓ / -ஆவது\" to question words. Japanese adds か. \"ஏதாவது குடிக்கலாமா?\" (\"shall we drink something?\") = 何か飲みませんか. \"யாரோ வந்தார்கள்\" (\"someone came\") = 誰か来ました.",
       "formation_en": "何 / 誰 + か (+ V)  (を is usually dropped)",
-      "pitfalls_en": "Mixing up 何か (something, in positive sentences and questions) and 何も (nothing, only with a negative) is common. 何も食べます ✗; 何も食べません ✓."
+      "pitfalls_en": "People often mix up 何か and 何も. 何か means \"something\". Use it in normal sentences and questions. 何も means \"nothing\". Use it only with a \"not\" verb. 何も食べます ✗; 何も食べません ✓."
     }
   },
   "items": {
-    "L06-q01": "牛乳 = ぎゅうにゅう (பால், milk). There are two long vowels (ぎゅう and にゅう); dropping either one is wrong. Reading it as きゅう without the voiced mark is also wrong.",
-    "L06-q02": "映画 = えいが (திரைப்படம், movie). 映 is the long sound えい; 画 is が (not か).",
-    "L06-q03": "喫茶店 = きっさてん (கபே, cafe). The small っ in 喫 = きっ is important; here 茶 is read さ (the ちゃ in お茶 is a different reading); 店 = てん.",
-    "L06-q04": "みず = 水 (தண்ணீர், water). 氷 (こおり = பனிக்கட்டி, ice) and 永 are kanji that look similar; 水 is the one written without the extra dot or stroke on top.",
-    "L06-q05": "しゃしん = 写真 (புகைப்படம், photo). Writing the second kanji 真 as 直 or 具 is a common mistake.",
-    "L06-q06": "Because of 毎朝 (தினமும் காலை, every morning), the answer is breakfast = 朝御飯 (காலை உணவு). 晩御飯 is dinner; 飲み物 and お茶 are things you drink, so they don't go with 食べます.",
-    "L06-q07": "Drinking coffee = 飲みます (குடிக்கிறேன், drink). In Tamil we say \"டீ சாப்பிடலாம்\" (let's \"eat\" tea), so don't wrongly pick 食べます; in Japanese, drinks only take 飲む.",
-    "L06-q08": "Watching a movie = 映画を見ます (பார்க்கிறேன், watch). 聞きます is listen (音楽, ラジオ); 読みます is read (本).",
-    "L06-q09": "Taking a photo = 写真を撮ります (எடுக்கிறேன், take). Don't look for another verb just because Tamil says \"எடுக்க\" (take); 写真 always goes with 撮る.",
-    "L06-q10": "Something you buy at a shop along with candy is a snack = お菓子 (தின்பண்டம், snack). The others (電車, 教室, 映画館) are not things you buy at a shop.",
-    "L06-q11": "Reading a book = 本を読みます (படிக்கிறேன், read). 書きます is write. The Tamil word \"படிக்க\" means both study and read, which can cause confusion; with 本, use 読む.",
-    "L06-q12": "晩御飯 = 夕飯; both mean the evening or night meal (இரவு உணவு, dinner). 朝御飯 is breakfast, 昼御飯 is lunch.",
-    "L06-q13": "見ませんか is an invitation (பார்க்கலாமா?, shall we watch?); the closest meaning is 見ましょう (பார்ப்போம், let's watch). 見ますか is just an inquiry; 見ません is a negative statement.",
-    "L06-q14": "コーヒー and お茶 are both drinks = 飲み物 (பானம், drink). Choosing 食べ物 (உணவுப் பொருள், food) is a common mistake.",
-    "L06-q15": "The object of 食べます is 御飯 → を (the Tamil \"-ஐ\"). に is for time or destination and で is for place; they don't fit here.",
-    "L06-q16": "The place where the drinking happens → で (\"கபேயில்\", at the cafe). へ is only for the direction you go; 喫茶店へ飲みます ✗.",
-    "L06-q17": "A specific time (七時) → に (Lesson 4; Tamil \"ஏழு மணிக்கு\", at seven o'clock). で is for place, を is for the object.",
-    "L06-q18": "The answer is 見ましょう (பார்ப்போம், let's watch), so the question is the invitation 見ませんか. 見ますか would be the inquiry \"Do you watch?\", and its answer would be はい、見ます.",
-    "L06-q19": "To accept a ませんか invitation, use ましょう (சாப்பிடுவோம், let's eat). ええ、食べます is not a natural reply; it sounds like giving information: \"I eat.\"",
-    "L06-q20": "Before を, 何 is read なに. なん is only used before words such as です, 時 and 人. With なにか (ஏதாவது, something) we don't add を, and it also doesn't have the question meaning \"what?\".",
-    "L06-q21": "After agreeing with ええ, \"let's drink tea\" = 飲みましょう (குடிப்போம், let's drink). Asking 飲みませんか again is not an answer.",
-    "L06-q22": "Order: place (駅の喫茶店で) → object (コーヒーを) → verb (飲みます). The ★ slot is コーヒーを. 駅の, joined by の, must come first.",
-    "L06-q23": "Time → with whom (友達と) → place (映画館で) → object (映画を) → verb. The ★ slot is 映画を; the invitation 見ませんか comes last.",
-    "L06-q24": "店で (place) → 何も (எதுவும், nothing) → 買いませんでした (negative past). The ★ slot is 何も; 何も always comes with a negative verb.",
-    "L06-q25": "［1］The object of 食べます → を. ［2］After 銀行へ行きます (direction へ), the place where you work → で. ［3］A statement about a daily routine → 見ます; 見ましょう and 見ませんか are invitation forms and don't fit here."
+    "L06-q01": "牛乳 = ぎゅうにゅう (பால், milk). It has two long sounds: ぎゅう and にゅう. Dropping either one is wrong. きゅう, without the two dots, is also wrong.",
+    "L06-q02": "映画 = えいが (திரைப்படம், movie). 映 is the long sound えい. 画 is が, not か.",
+    "L06-q03": "喫茶店 = きっさてん (கபே, cafe). The small っ in 喫 = きっ is important. Here 茶 is read さ. The ちゃ in お茶 is a different reading. 店 = てん.",
+    "L06-q04": "みず = 水 (தண்ணீர், water). 氷 (こおり = பனிக்கட்டி, ice) and 永 look like it. 水 is the one with no extra dot or stroke on top.",
+    "L06-q05": "しゃしん = 写真 (புகைப்படம், photo). A common mistake is writing the second kanji 真 as 直 or 具.",
+    "L06-q06": "The clue is 毎朝 (தினமும் காலை, every morning). So the answer is breakfast = 朝御飯 (காலை உணவு). 晩御飯 is dinner. 飲み物 and お茶 are things you drink, so they don’t go with 食べます.",
+    "L06-q07": "You drink coffee, so the answer is 飲みます (குடிக்கிறேன், drink). In Tamil we say \"டீ சாப்பிடலாம்\" (let’s \"eat\" tea). Don’t pick 食べます because of that. In Japanese, drinks only go with 飲む.",
+    "L06-q08": "You watch a movie: 映画を見ます (பார்க்கிறேன், watch). 聞きます means listen (音楽, ラジオ). 読みます means read (本).",
+    "L06-q09": "You take a photo: 写真を撮ります (எடுக்கிறேன், take). Tamil says \"எடுக்க\" (take), but don’t look for another verb. 写真 always goes with 撮る.",
+    "L06-q10": "You buy it at a shop with candy, so it is a snack = お菓子 (தின்பண்டம், snack). The others (電車, 教室, 映画館) are not things you buy at a shop.",
+    "L06-q11": "You read a book: 本を読みます (படிக்கிறேன், read). 書きます means write. The Tamil word \"படிக்க\" means both study and read, so it can be confusing. With 本, use 読む.",
+    "L06-q12": "晩御飯 = 夕飯. Both mean the evening or night meal (இரவு உணவு, dinner). 朝御飯 is breakfast. 昼御飯 is lunch.",
+    "L06-q13": "見ませんか is an invitation (பார்க்கலாமா?, shall we watch?). The closest meaning is 見ましょう (பார்ப்போம், let’s watch). 見ますか is just a question. 見ません says \"I don’t watch\".",
+    "L06-q14": "コーヒー and お茶 are both drinks = 飲み物 (பானம், drink). A common mistake is picking 食べ物 (உணவுப் பொருள், food).",
+    "L06-q15": "御飯 is the thing you eat, the object of 食べます. So use を (the Tamil \"-ஐ\"). に is for time or where you go. で is for place. They don’t fit here.",
+    "L06-q16": "This is the place where the drinking happens, so use で (\"கபேயில்\", at the cafe). へ is only for the direction you go. 喫茶店へ飲みます ✗.",
+    "L06-q17": "七時 is an exact time, so use に (Lesson 4; Tamil \"ஏழு மணிக்கு\", at seven o’clock). で is for place. を is for the object.",
+    "L06-q18": "The answer is 見ましょう (பார்ப்போம், let’s watch). So the question is the invitation 見ませんか. 見ますか would just ask \"Do you watch?\". Its answer would be はい、見ます.",
+    "L06-q19": "To say yes to a ませんか invitation, use ましょう (சாப்பிடுவோம், let’s eat). ええ、食べます is not a natural reply. It sounds like giving a fact: \"I eat.\"",
+    "L06-q20": "Before を, 何 is read なに. なん is only used before words like です, 時 and 人. With なにか (ஏதாவது, something) we don’t add を. なにか also does not ask \"what?\".",
+    "L06-q21": "The person agreed with ええ. So \"let’s drink tea\" = 飲みましょう (குடிப்போம், let’s drink). Asking 飲みませんか again is not an answer.",
+    "L06-q22": "Order: place (駅の喫茶店で), then object (コーヒーを), then verb (飲みます). The ★ slot is コーヒーを. 駅の is joined with の, so it must come first.",
+    "L06-q23": "Order: time, then who with (友達と), then place (映画館で), then object (映画を), then verb. The ★ slot is 映画を. The invitation 見ませんか comes last.",
+    "L06-q24": "Order: 店で (place), then 何も (எதுவும், nothing), then 買いませんでした (did not buy). The ★ slot is 何も. 何も always comes with a \"not\" verb.",
+    "L06-q25": "［1］御飯 is the object of 食べます, so use を. ［2］First 銀行へ行きます (へ shows direction). Then the place where you work takes で. ［3］This is about a daily habit, so use 見ます. 見ましょう and 見ませんか are for inviting, so they don’t fit here."
   }
 }

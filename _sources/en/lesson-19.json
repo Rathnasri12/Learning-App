@@ -1,69 +1,69 @@
 {
   "lesson": 19,
-  "intro_en": "In this lesson you will properly learn the た-form of verbs (the plain past form). It uses exactly the same changes as the て-form, so it is easy. With it you can share travel memories and give advice: \"I have been to Japan\" (〜たことがあります), \"we did things like singing and dancing\" (〜たり〜たりします) and \"it's better to do this\" (〜たほうがいいです). You will also meet なります, which describes change, as in \"it has got cold\" or \"he became a doctor\".",
+  "intro_en": "In this lesson you will learn the た-form of verbs well. It is the plain past form. It uses the very same changes as the て-form, so it is easy. With it you can talk about trips and give advice. For example: \"I have been to Japan\" (〜たことがあります), \"we did things like singing and dancing\" (〜たり〜たりします) and \"it’s better to do this\" (〜たほうがいいです). You will also learn なります. It talks about change, like \"it has got cold\" or \"he became a doctor\".",
   "grammar": {
     "g19-1": {
-      "explanation_en": "The た-form is the plain (casual) past form of a verb; in meaning it equals ました (食べました = 食べた = சாப்பிட்டேன், I ate). Making it is very easy: just take the て-form from Lesson 14 and change て → た and で → だ. So all the て-form rules (いて/いで、って、んで、して) apply here exactly as they are. Just as Tamil changes \"போய்\" (verbal participle, having gone) → \"போனேன்\" / \"போன\" (past forms, went / that went), Japanese changes 行って → 行った. You use this form on its own when talking with friends (Lesson 20), and before patterns such as ことがあります、たり、ほうがいい and あとで.",
-      "tamil_parallel_en": "Like Tamil moving from the verbal participle to a past form: போய் → போன(து) (\"having gone\" → \"went / the going\") = 行って → 行った ; சாப்பிட்டு → சாப்பிட்ட(து) (\"having eaten\" → \"ate\") = 食べて → 食べた.",
+      "explanation_en": "The た-form is the plain (casual) past form of a verb. It means the same as ました (食べました = 食べた = சாப்பிட்டேன், I ate). It is very easy to make. Take the て-form from Lesson 14. Change て → た and で → だ. So all the て-form rules (いて/いで、って、んで、して) work here in the same way. Tamil changes \"போய்\" (having gone) → \"போனேன்\" / \"போன\" (past forms: went / that went). In the same way, Japanese changes 行って → 行った. You use this form alone when you talk with friends (Lesson 20). You also use it before patterns like ことがあります、たり、ほうがいい and あとで.",
+      "tamil_parallel_en": "Like Tamil moving from the \"having done\" form to a past form: போய் → போன(து) (\"having gone\" → \"went / the going\") = 行って → 行った ; சாப்பிட்டு → சாப்பிட்ட(து) (\"having eaten\" → \"ate\") = 食べて → 食べた.",
       "formation_en": "て → た / で → だ. Group I: 書いて→書いた、行って→行った(exception)、泳いで→泳いだ、話して→話した、無くして→無くした、待って→待った、買って→買った、歌って→歌った、登って→登った、なって→なった、飲んで→飲んだ、遊んで→遊んだ、死んで→死んだ、咲いて→咲いた / Group II: 食べて→食べた、見て→見た、生まれて→生まれた、浴びて→浴びた / Group III: して→した、旅行して→旅行した、来て→来た(きた). Compare: 書かない(ない)・書きます(ます)・書く(dictionary)・書いて(て)・書いた(た)",
-      "pitfalls_en": "Don't try to build the た-form directly from the dictionary form; think of the て-form and change て → た. 行く → not ×行いた but ○行った. 来た = きた (not こた)."
+      "pitfalls_en": "Don’t try to make the た-form from the dictionary form. Think of the て-form, then change て → た. For 行く, it is not ×行いた. It is ○行った. 来た is read きた (not こた)."
     },
     "g19-2": {
-      "explanation_en": "To say whether you have ever done something at least once in your life, use the た-form + ことが あります. こと = \"experience, thing\"; あります = \"there is\". The literal meaning is \"there is the experience of having eaten\", matching Tamil \"நான் சுஷி சாப்பிட்டிருக்கிறேன்\" (I have eaten sushi) or \"ஜப்பானுக்குப் போனதுண்டு\" (I have been to Japan). If not, say ことが ありません (\"I have never gone\"). Don't use it with a specific time such as yesterday or last week; for that, plain ました is enough (昨日京都へ行きました). To ask about experience, say 〜たことがありますか; you can add 一回 (once) or 何回も (many times).",
-      "tamil_parallel_en": "Like Tamil \"-அதுண்டு\" (there has been the doing of): ஜப்பானுக்குப் போனதுண்டு (\"I have been to Japan\", literally \"the experience of going exists\") = 日本へ行ったことがあります.",
+      "explanation_en": "Use the た-form + ことが あります to say you have done something at least once in your life. こと = \"experience, thing\". あります = \"there is\". Word for word, it means \"there is the experience of having eaten\". It is like Tamil \"நான் சுஷி சாப்பிட்டிருக்கிறேன்\" (I have eaten sushi). Or like \"ஜப்பானுக்குப் போனதுண்டு\" (I have been to Japan). If you never did it, say ことが ありません (\"I have never gone\"). Don’t use it with a set time, like yesterday or last week. For that, plain ました is enough (昨日京都へ行きました). To ask, say 〜たことがありますか. You can add 一回 (once) or 何回も (many times).",
+      "tamil_parallel_en": "Like Tamil \"-அதுண்டு\" (there has been the doing of): ஜப்பானுக்குப் போனதுண்டு (\"I have been to Japan\", word for word \"the experience of going exists\") = 日本へ行ったことがあります.",
       "formation_en": "V た-form + ことが + あります / ありません (行った → 行ったことがあります ; 見た → 見たことがありません)",
-      "pitfalls_en": "×昨日 京都へ 行ったことが あります: don't use it with a specific time; say ○昨日 京都へ 行きました. If you use the dictionary form, as in ×行くことがあります, it takes a different meaning: \"I sometimes go\"."
+      "pitfalls_en": "×昨日 京都へ 行ったことが あります is wrong. Don’t use it with a set time. Say ○昨日 京都へ 行きました. With the dictionary form, like ×行くことがあります, the meaning changes. It means \"I sometimes go\"."
     },
     "g19-3": {
-      "explanation_en": "To mention just a few examples out of several actions, use V1 た-form + り、V2 た-form + り + します. It is the verb version of や〜など, which you learned for nouns in Lesson 10. 〜て、〜て gives an order; 〜たり〜たり gives no order and means \"things like this\". It matches Tamil \"பாடுவது, ஆடுவது என்று பொழுதைக் கழித்தோம்\" (we spent the time singing, dancing and so on) or \"படிப்பது, இசை கேட்பது என்று இருப்பேன்\" (I spend my time reading, listening to music and so on). Tense shows only on the final します: 〜たりしました (past), 〜たりしたいです (wish). With just one action, 〜たりします can also mean \"I sometimes do this\".",
-      "tamil_parallel_en": "Like the Tamil \"-வது, -வது என்று\" listing pattern: பாட்டுப் பாடுவது, புகைப்படம் எடுப்பது என்று செய்தோம் (\"we did things like singing songs and taking photos\") = 歌ったり、写真を撮ったりしました.",
+      "explanation_en": "Sometimes you want to give just a few examples of what you did. Use V1 た-form + り、V2 た-form + り + します. It is the verb version of や〜など, which you learned for nouns in Lesson 10. 〜て、〜て gives an order. 〜たり〜たり gives no order. It means \"things like this\". It is like Tamil \"பாடுவது, ஆடுவது என்று பொழுதைக் கழித்தோம்\" (we spent the time singing, dancing and so on). Or like \"படிப்பது, இசை கேட்பது என்று இருப்பேன்\" (I spend my time reading, listening to music and so on). Only the last します shows the time. 〜たりしました is past. 〜たりしたいです is a wish. With only one action, 〜たりします can also mean \"I sometimes do this\".",
+      "tamil_parallel_en": "Like the Tamil \"-வது, -வது என்று\" list pattern: பாட்டுப் பாடுவது, புகைப்படம் எடுப்பது என்று செய்தோம் (\"we did things like singing songs and taking photos\") = 歌ったり、写真を撮ったりしました.",
       "formation_en": "V1 た-form + り、V2 た-form + り + します / しました / したいです (泳いだり、遊んだりしました)",
-      "pitfalls_en": "Don't forget します at the end: ×泳いだり、登ったり。 → ○泳いだり、登ったりしました. For an order (\"first this, then that\"), use 〜て、〜て, not たり."
+      "pitfalls_en": "Don’t forget します at the end: ×泳いだり、登ったり。 → ○泳いだり、登ったりしました. For an order (\"first this, then that\"), use 〜て、〜て, not たり."
     },
     "g19-4": {
-      "explanation_en": "なります = \"become / change into\". To describe a change of state: for an い-adjective, い → く + なります (寒い → 寒くなります = it gets cold); for a な-adjective or a noun, + に + なります (元気 → 元気になります、医者 → 医者になります). It is just like adding \"-ஆக / ஆனான்\" in Tamil, as in \"குளிர் ஆகிவிட்டது\" (it has got cold) or \"மருத்துவர் ஆனான்\" (he became a doctor); both く and に correspond to the Tamil ending \"-ஆக\". いい → よくなります. It often comes with 段々 (little by little). The past なりました = \"has become\".",
-      "tamil_parallel_en": "く and に both work like the Tamil \"-ஆக\" ending before ஆகு (become): கொஞ்சம் கொஞ்சமாகக் குளிராகிவிட்டது (\"it has gradually got cold\") = 段々寒くなりました ; தம்பி மருத்துவர் ஆனான் (\"my younger brother became a doctor\") = 弟は医者になりました.",
+      "explanation_en": "なります = \"become / change into\". Use it to say something changes. For an い-adjective, change い → く and add なります (寒い → 寒くなります = it gets cold). For a な-adjective or a noun, add に + なります (元気 → 元気になります、医者 → 医者になります). It is like adding \"-ஆக / ஆனான்\" in Tamil. For example, \"குளிர் ஆகிவிட்டது\" (it has got cold) or \"மருத்துவர் ஆனான்\" (he became a doctor). Both く and に match the Tamil ending \"-ஆக\". いい becomes よくなります. It often comes with 段々 (little by little). The past なりました = \"has become\".",
+      "tamil_parallel_en": "く and に both work like the Tamil \"-ஆக\" ending before ஆகு (become): கொஞ்சம் கொஞ்சமாகக் குளிராகிவிட்டது (\"it has slowly got cold\") = 段々寒くなりました ; தம்பி மருத்துவர் ஆனான் (\"my younger brother became a doctor\") = 弟は医者になりました.",
       "formation_en": "い-adj: 〜い → 〜く + なります (寒い→寒くなります、いい→よくなります) / な-adj: 〜 + に + なります (元気→元気になります、上手→上手になります) / N: N + に + なります (大人→大人になります、春→春になります)",
-      "pitfalls_en": "Don't put に after an い-adjective: ×寒いになります → ○寒くなります. いい → not ×いくなります but ○よくなります. For a な-adjective, not ×静かくなります but ○静かになります."
+      "pitfalls_en": "Don’t put に after an い-adjective: ×寒いになります → ○寒くなります. For いい, it is not ×いくなります. It is ○よくなります. For a な-adjective, it is not ×静かくなります. It is ○静かになります."
     },
     "g19-5": {
-      "explanation_en": "To give someone advice, use the た-form + ほうが いいです. ほう = \"side, way\" (you learned のほうが in Lesson 12), so \"the side of having done it is good\" = \"it's better to do it\". It matches Tamil \"மருந்து சாப்பிடுவது நல்லது\" (it's better to take medicine) or \"சீக்கிரம் தூங்கினால் நல்லது\" (it would be good to sleep early). Although the verb is in the past form, the meaning is future or general advice. For negative advice, \"it's better not to\", use the ない-form + ほうがいいです (飲まないほうがいいです); here it is ない, not た. Because this is fairly strong advice, use it carefully with superiors.",
-      "tamil_parallel_en": "Like Tamil \"-வது நல்லது\" (doing ... is good): மருந்து சாப்பிடுவது நல்லது (\"you'd better take medicine\") = 薬を飲んだほうがいいです ; புகை பிடிக்காமல் இருப்பது நல்லது (\"you'd better not smoke\") = たばこを吸わないほうがいいです.",
+      "explanation_en": "To give someone advice, use the た-form + ほうが いいです. ほう = \"side, way\" (you learned のほうが in Lesson 12). So it means \"the side of having done it is good\" = \"it’s better to do it\". It is like Tamil \"மருந்து சாப்பிடுவது நல்லது\" (it’s better to take medicine). Or like \"சீக்கிரம் தூங்கினால் நல்லது\" (it would be good to sleep early). The verb is in the past form. But the meaning is about the future, or general advice. To say \"it’s better not to\", use the ない-form + ほうがいいです (飲まないほうがいいです). Here it is ない, not た. This advice is quite strong. So be careful when you use it with your boss or teacher.",
+      "tamil_parallel_en": "Like Tamil \"-வது நல்லது\" (doing ... is good): மருந்து சாப்பிடுவது நல்லது (\"you’d better take medicine\") = 薬を飲んだほうがいいです ; புகை பிடிக்காமல் இருப்பது நல்லது (\"you’d better not smoke\") = たばこを吸わないほうがいいです.",
       "formation_en": "V た-form + ほうが いいです (休んだほうがいいです) / V ない-form + ほうが いいです (行かないほうがいいです)",
-      "pitfalls_en": "Use the た-form for positive advice and the ない-form for negative advice: not ×行かなかったほうがいい but ○行かないほうがいい. At N5, also avoid the dictionary form, as in ×休むほうがいい."
+      "pitfalls_en": "For \"do it\" advice, use the た-form. For \"don’t do it\" advice, use the ない-form. It is not ×行かなかったほうがいい. It is ○行かないほうがいい. At N5, also don’t use the dictionary form, like ×休むほうがいい."
     },
     "g19-6": {
-      "explanation_en": "In Lesson 7 you learned もう V ました / まだです for actions. Here they are used for states and changes: もう + 〜になりました / 〜くなりました = \"has already become\" (もう大人になりました = he has grown up now). まだ + state = \"is still the same\" (まだ子供です = he is still a child; まだ寒いです = it is still cold). まだ + negative = \"not yet\" (まだ上手じゃありません). These match adding \"already / still\" in Tamil directly: \"அவன் இப்போது பெரியவன் ஆகிவிட்டான்\" (he has grown up now), \"இன்னும் சின்னப் பையன் தான்\" (he is still a little boy). もう = the change has happened; まだ = the change has not happened yet.",
-      "tamil_parallel_en": "もう works like Tamil \"ஆகிவிட்டான்\" (has already become) and まだ like \"இன்னும்\" (still): தம்பி இப்போது பெரியவன் ஆகிவிட்டான் (\"my younger brother has grown up now\") = 弟はもう大人になりました ; இன்னும் குழந்தை தான் (\"he is still a child\") = まだ子供です.",
+      "explanation_en": "In Lesson 7 you learned もう V ました / まだです for actions. Here you use them for how things are and how they change. もう + 〜になりました / 〜くなりました = \"has already become\" (もう大人になりました = he has grown up now). まだ + how things are = \"is still the same\" (まだ子供です = he is still a child; まだ寒いです = it is still cold). まだ + a \"not\" form = \"not yet\" (まだ上手じゃありません). These are just like adding \"already / still\" in Tamil. For example, \"அவன் இப்போது பெரியவன் ஆகிவிட்டான்\" (he has grown up now) and \"இன்னும் சின்னப் பையன் தான்\" (he is still a little boy). もう = the change has happened. まだ = the change has not happened yet.",
+      "tamil_parallel_en": "もう works like Tamil \"ஆகிவிட்டான்\" (has already become). まだ works like \"இன்னும்\" (still): தம்பி இப்போது பெரியவன் ஆகிவிட்டான் (\"my younger brother has grown up now\") = 弟はもう大人になりました ; இன்னும் குழந்தை தான் (\"he is still a child\") = まだ子供です.",
       "formation_en": "もう + N/な-adj に なりました / い-adj く なりました ; まだ + N/adj です ; まだ + adj/N じゃありません・くないです",
-      "pitfalls_en": "For \"still a child\", it is not ×もう子供です but ○まだ子供です. After もう, use なりました to show the change."
+      "pitfalls_en": "For \"still a child\", it is not ×もう子供です. It is ○まだ子供です. After もう, use なりました to show the change."
     }
   },
   "items": {
-    "L19-q01": "去年 = きょねん (போன வருடம், last year). きょ is a short sound, so don't lengthen it to きょうねん.",
-    "L19-q02": "大人 = おとな (பெரியவர், adult); this is a special reading. If you read 大 = だい and 人 = じん separately, you get the wrong answer だいじん.",
-    "L19-q03": "咲く = さく (பூக்க, to bloom); its て-form is 咲いて (さいて). かいて is 書いて; さきて is a wrong て-form.",
-    "L19-q04": "To lose an object (பொருளைத் தொலைக்க) = 無くす. 鳴く / 泣く are different verbs with a similar sound (கத்த, to cry out / அழ, to cry); 亡くす means \"to lose a person\" (to death). For an object, use 無くす.",
-    "L19-q05": "そら (வானம், sky) = 空. 穴・究・室 are look-alike kanji with the 宀/穴 part on top; the bottom part of 空 is 工.",
-    "L19-q06": "Year + place = I was born (生まれました, பிறந்தேன்). なりました needs \"N に\" before it.",
-    "L19-q07": "\"I climbed a mountain for the first time\" (முதல் முறையாக) = 初めて. まだ and なかなか don't fit here (なかなか goes with a negative).",
-    "L19-q08": "\"It has gradually got cold\" (கொஞ்சம் கொஞ்சமாக) is a step-by-step change = 段々. ぜひ is only for wishes and requests.",
-    "L19-q09": "The reason you can use it for ten years: it is sturdy (丈夫, உறுதியானது). 弱い (பலவீனமான, weak) is the opposite meaning.",
-    "L19-q10": "I have a headache today; the reason is that I stayed up late \"last night\" (昨夜 = ゆうべ, நேற்று இரவு). おととし (இரண்டு வருடம் முன், the year before last) doesn't fit.",
-    "L19-q11": "A magnificent building (பிரமாண்டமான கட்டிடம்) = りっぱな建物. 大変な建物 would mean \"a troublesome building\", which is unnatural.",
-    "L19-q12": "\"I have never gone\" (போனதே இல்லை) = 一回も行きませんでした. 行きたいです (I want to go) says nothing about experience; 初めて行きました says that you did go.",
-    "L19-q13": "\"He has grown up now\" = he is no longer a child (இனி குழந்தை அல்ல, 子供じゃありません). まだ子供です is the opposite meaning.",
-    "L19-q14": "一昨日 (おととい) = two days ago (இரண்டு நாட்களுக்கு முன், 二日前). Don't confuse it with おととし (the year before last); that is 二年前.",
-    "L19-q15": "Experience = た-form + ことがあります: 登ったことがあります. 登ることがあります would mean \"I sometimes climb\", a different meaning.",
-    "L19-q16": "たり + たり + します: 聞く → 聞いた → 聞いたり. Don't add たり to the ます-stem, as in 聞きたり.",
+    "L19-q01": "去年 = きょねん (போன வருடம், last year). きょ is a short sound, so don’t make it long, like きょうねん.",
+    "L19-q02": "大人 = おとな (பெரியவர், adult). This is a special reading. Don’t read each kanji alone, 大 = だい and 人 = じん. Then you get the wrong answer だいじん.",
+    "L19-q03": "咲く = さく (பூக்க, to bloom). Its て-form is 咲いて (さいて). かいて is 書いて. さきて is a wrong て-form.",
+    "L19-q04": "To lose a thing (பொருளைத் தொலைக்க) = 無くす. 鳴く / 泣く sound alike, but they are different verbs (கத்த, to cry out / அழ, to cry). 亡くす means \"to lose a person\" (when someone dies). For a thing, use 無くす.",
+    "L19-q05": "そら (வானம், sky) = 空. 穴・究・室 look alike. They have the 宀/穴 part on top. The bottom part of 空 is 工.",
+    "L19-q06": "Year + place = I was born (生まれました, பிறந்தேன்). なりました needs \"N に\" before it, so it does not fit.",
+    "L19-q07": "\"I climbed a mountain for the first time\" (முதல் முறையாக) = 初めて. まだ and なかなか don’t fit here (なかなか goes with a \"not\" verb).",
+    "L19-q08": "\"It has slowly got cold\" (கொஞ்சம் கொஞ்சமாக) is a step-by-step change = 段々. ぜひ is only for wishes and requests.",
+    "L19-q09": "Why can you use it for ten years? Because it is strong and lasts (丈夫, உறுதியானது). 弱い (பலவீனமான, weak) means the opposite.",
+    "L19-q10": "I have a headache today. The reason: I went to bed late \"last night\" (昨夜 = ゆうべ, நேற்று இரவு). おととし (இரண்டு வருடம் முன், the year before last) doesn’t fit.",
+    "L19-q11": "A great, grand building (பிரமாண்டமான கட்டிடம்) = りっぱな建物. 大変な建物 would mean \"a building that is a lot of trouble\". That sounds strange.",
+    "L19-q12": "\"I have never gone\" (போனதே இல்லை) = 一回も行きませんでした. 行きたいです (I want to go) says nothing about experience. 初めて行きました says that you did go.",
+    "L19-q13": "\"He has grown up now\" = he is not a child any more (இனி குழந்தை அல்ல, 子供じゃありません). まだ子供です means the opposite.",
+    "L19-q14": "一昨日 (おととい) = two days ago (இரண்டு நாட்களுக்கு முன், 二日前). Don’t mix it up with おととし (the year before last). That is 二年前.",
+    "L19-q15": "Experience = た-form + ことがあります: 登ったことがあります. 登ることがあります would mean \"I sometimes climb\". That is a different meaning.",
+    "L19-q16": "たり + たり + します: 聞く → 聞いた → 聞いたり. Don’t add たり to the ます-form without ます, like 聞きたり.",
     "L19-q17": "い-adjective + なります: 寒い → 寒くなります. に is only for な-adjectives and nouns (静かになります).",
-    "L19-q18": "Noun + に + なります: 医者になりました. Because Tamil \"மருத்துவர் ஆனான்\" (became a doctor) has no case ending on the noun, you may want to use が, but it is に.",
-    "L19-q19": "Positive advice = た-form + ほうがいいです: 寝たほうがいい. 寝ないほうがいい would mean \"it's better not to sleep\" (தூங்காமல் இருப்பது நல்லது), which doesn't fit a cold.",
-    "L19-q20": "Negative advice = ない-form + ほうがいいです: 泳がないほうがいい. 泳がなかった (past negative) is not used here.",
-    "L19-q21": "Ten years old: \"still a child\" (இன்னும் குழந்தை தான்) = まだ子供です. もう means \"already\" and shows that the state has changed, so it doesn't fit here.",
-    "L19-q22": "私は 日本の 歌を 歌ったことが あります。 Object + を, then the た-form + ことが + あります.",
-    "L19-q23": "夏休みに 海で 泳いだり、山に 登ったりしました。 \"Place + V たり\" twice, and しました at the end.",
-    "L19-q24": "空が 段々 暗く なりましたから、家へ 帰りましょう。 段々 + い-adj く + なりました, with から for the reason.",
-    "L19-q25": "[1] したりしました comes after it, so it is 見たり. [2] There is a specific time, \"last year\" (போன வருடம்), so it is not the experience form but 登りました. [3] Advice = た-form + ほうが いいです."
+    "L19-q18": "Noun + に + なります: 医者になりました. Tamil \"மருத்துவர் ஆனான்\" (became a doctor) adds no ending to the noun. So you may want to use が. But it is に.",
+    "L19-q19": "\"Do it\" advice = た-form + ほうがいいです: 寝たほうがいい. 寝ないほうがいい would mean \"it’s better not to sleep\" (தூங்காமல் இருப்பது நல்லது). That doesn’t fit a cold.",
+    "L19-q20": "\"Don’t do it\" advice = ない-form + ほうがいいです: 泳がないほうがいい. 泳がなかった (past \"not\" form) is not used here.",
+    "L19-q21": "Ten years old: \"still a child\" (இன்னும் குழந்தை தான்) = まだ子供です. もう means \"already\". It shows that things have changed, so it doesn’t fit here.",
+    "L19-q22": "私は 日本の 歌を 歌ったことが あります。 First the object + を. Then the た-form + ことが + あります.",
+    "L19-q23": "夏休みに 海で 泳いだり、山に 登ったりしました。 \"Place + V たり\" comes two times. しました comes at the end.",
+    "L19-q24": "空が 段々 暗く なりましたから、家へ 帰りましょう。 段々 + い-adj く + なりました. から gives the reason.",
+    "L19-q25": "[1] したりしました comes after it, so it is 見たり. [2] There is a set time, \"last year\" (போன வருடம்). So don’t use the experience form. Use 登りました. [3] Advice = た-form + ほうが いいです."
   }
 }

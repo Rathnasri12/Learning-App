@@ -1,69 +1,69 @@
 {
   "lesson": 23,
-  "intro_en": "In this lesson you will learn 〜時 for saying when something happens, as in 'when I was a child' or 'when you cross the road'; 〜と for natural results, as in 'if you press this button, the door opens'; the を of movement, as in 'cross the bridge' or 'turn at the intersection'; and 〜ながら, as in 'study while listening to music'. You will also meet words for giving directions, compass directions, machines and the weather.",
+  "intro_en": "In this lesson you learn 〜時 to say when something happens. For example: \"when I was a child\" or \"when you cross the road\". You learn 〜と for things that always follow. For example: \"if you press this button, the door opens\". You learn the を used with moving verbs. For example: \"cross the bridge\" or \"turn at the crossing\". You also learn 〜ながら, as in \"study while listening to music\". There are also words for giving directions, north, south, east and west, machines and the weather.",
   "grammar": {
     "g23-1": {
-      "explanation_en": "時 (とき) is a noun meaning 'time'. As you learned in Lesson 22, a sentence can describe a noun, so plain form + 時 = 'at the time when ...', which is Tamil '〜 போது' (when). Verb: 道を渡る時 (when you cross the road). い-adjective: 寒い時 (when it is cold). な-adjective: 暇な時 (when you are free) — you must add な. Noun: 子供の時 (when I was a child) — you must add の. Inside a 時 clause, the subject takes が: 私が子供の時. After 時 you can put 、 or は / に.",
-      "tamil_parallel_en": "சாலையைக் கடக்கும்போது கவனமாக இருங்கள் (be careful when you cross the road) = 道を渡る時、気をつけてください ； சிறுவனாக இருந்தபோது (when I was a boy) = 子供の時. Tamil -போது (when) attached to a verb matches plain form + 時.",
-      "formation_en": "V plain + 時 ； い-adj + 時 ； な-adj + な + 時 ； N + の + 時",
-      "pitfalls_en": "Don’t forget の after a noun and な after a な-adjective: ×子供時 → ○子供の時、×暇時 → ○暇な時. The ます-form does not come before 時."
+      "explanation_en": "時 (とき) is a noun. It means \"time\". In Lesson 22 you learned that a sentence can describe a noun. So plain form (the short form) + 時 = \"at the time when ...\". It is the same as Tamil \"〜 போது\" (when). With a verb: 道を渡る時 (when you cross the road). With an い-adjective: 寒い時 (when it is cold). With a な-adjective: 暇な時 (when you are free). Here you must add な. With a noun: 子供の時 (when I was a child). Here you must add の. Inside a 時 part, the doer (the person or thing that does it) takes が: 私が子供の時. After 時 you can put 、 or は / に.",
+      "tamil_parallel_en": "\"சாலையைக் கடக்கும்போது கவனமாக இருங்கள்\" (be careful when you cross the road) = 道を渡る時、気をつけてください ； \"சிறுவனாக இருந்தபோது\" (when I was a boy) = 子供の時. Tamil \"-போது\" (when) joins onto a verb. It matches plain form + 時.",
+      "formation_en": "Verb (plain form) + 時 ； い-adjective + 時 ； な-adjective + な + 時 ； noun + の + 時",
+      "pitfalls_en": "Don’t forget の after a noun. Don’t forget な after a な-adjective: ×子供時 → ○子供の時、×暇時 → ○暇な時. The ます-form does not come before 時."
     },
     "g23-2": {
-      "explanation_en": "'If you press this button, the door opens', 'if you cross this bridge, you come to the station': to say that when one thing happens, another follows naturally and always, use dictionary form + と. It fits very well for how machines work, giving directions, laws of nature and habits. It matches the Tamil conditional '-ஆல்', '-ஆனால்' (அழுத்தினால் 'if you press', கடந்தால் 'if you cross'). The negative is also possible: 押さないと (if you don’t press). Key rule: the part after と cannot contain a wish, command or invitation (〜たい、〜てください、〜ましょう); it only describes what happens by itself. Don’t confuse it with the と meaning 'என்று' (that / saying) from Lesson 21.",
-      "tamil_parallel_en": "இந்தப் பொத்தானை அழுத்தினால் கதவு திறக்கும் (if you press this button, the door opens) = このボタンを押すと、ドアが開きます. The Tamil conditional ending -ஆல் (அழுத்தினால்) does the job of と here.",
-      "formation_en": "V dictionary form / ない-form + と、+ natural result",
-      "pitfalls_en": "Putting a request after と is wrong: ×駅に着くと、電話してください. To say this you need たら from Lesson 25. The past form (押したと) does not come before と."
+      "explanation_en": "Look at these: \"if you press this button, the door opens\". \"If you cross this bridge, you come to the station\". Here one thing happens, and another thing always follows. For this, use dictionary form + と. It fits very well for how machines work and for giving directions. It also fits rules of nature and habits. It matches the Tamil \"if\" ending \"-ஆல்\", \"-ஆனால்\" (\"அழுத்தினால்\" if you press, \"கடந்தால்\" if you cross). You can also use \"not\": 押さないと (if you don’t press). Important rule: the part after と cannot be a wish, an order or an invitation (〜たい、〜てください、〜ましょう). It only tells what happens by itself. Don’t mix it up with the と from Lesson 21. That と means \"என்று\" (that / saying).",
+      "tamil_parallel_en": "\"இந்தப் பொத்தானை அழுத்தினால் கதவு திறக்கும்\" (if you press this button, the door opens) = このボタンを押すと、ドアが開きます. The Tamil \"if\" ending \"-ஆல்\" (\"அழுத்தினால்\") does the job of と here.",
+      "formation_en": "Verb dictionary form / ない-form + と、+ result that always follows",
+      "pitfalls_en": "Putting a request after と is wrong: ×駅に着くと、電話してください. To say this, you need たら from Lesson 25. The past form (押したと) does not come before と."
     },
     "g23-3": {
-      "explanation_en": "When you simply describe something you are noticing or feeling right now, the subject is marked with が: 電気が消えています (the light is off), 風が強いです (the wind is strong), 戸が開きました (the door opened). In Lesson 14 you learned が for natural events, as in 雨が降っています; the same rule applies here to machines, doors, sounds, weather and so on. There is no 'topic' (は) here, only 'new information'. This lesson has paired verbs such as 開く/開ける, 閉まる/閉める, 消える/消す: the ones that take が describe things that happen by themselves (the door opened), and the ones that take を describe someone doing something (I opened the door). It is just like the Tamil difference between 'திறந்தது' (it opened) and 'திறந்தேன்' (I opened it).",
-      "tamil_parallel_en": "கதவு திறந்தது (the door opened) = 戸が開きました ； (நான்) கதவைத் திறந்தேன் ((I) opened the door) = 戸を開けました. Tamil also has separate forms for 'it opened' and 'I opened it', and the object takes -ஐ just as Japanese takes を.",
-      "formation_en": "N + が + adj / V (intransitive: 開く・閉まる・消える・鳴く・吹く)",
-      "pitfalls_en": "Don’t confuse 開く (happens by itself, が) with 開ける (someone does it, を): ×ドアを開きました → ○ドアを開けました / ○ドアが開きました."
+      "explanation_en": "Sometimes you just tell what you see or feel right now. Then mark the doer (the thing that does it) with が: 電気が消えています (the light is off), 風が強いです (the wind is strong), 戸が開きました (the door opened). In Lesson 14 you learned が for nature, as in 雨が降っています. The same rule works here for machines, doors, sounds, weather and so on. There is no topic (は) here. It is only new news. This lesson has verb pairs like 開く/開ける, 閉まる/閉める, 消える/消す. The verbs with が tell what happens by itself (the door opened). The verbs with を tell what someone does (I opened the door). It is just like Tamil \"திறந்தது\" (it opened) and \"திறந்தேன்\" (I opened it).",
+      "tamil_parallel_en": "\"கதவு திறந்தது\" (the door opened) = 戸が開きました ； \"(நான்) கதவைத் திறந்தேன்\" ((I) opened the door) = 戸を開けました. Tamil also has different forms for \"it opened\" and \"I opened it\". The thing you act on takes \"-ஐ\", just as Japanese takes を.",
+      "formation_en": "Noun + が + adjective / verb that happens by itself (開く・閉まる・消える・鳴く・吹く)",
+      "pitfalls_en": "Don’t mix up 開く and 開ける. 開く happens by itself and takes が. 開ける is done by someone and takes を: ×ドアを開きました → ○ドアを開けました / ○ドアが開きました."
     },
     "g23-4": {
-      "explanation_en": "を usually marks the object (Lesson 6). But with movement verbs such as 渡る (cross), 曲がる (turn), 歩く (walk), 走る (run) and 散歩する (take a walk), を marks the place you move 'through / along / over': 橋を渡ります (I cross the bridge), 角を曲がります (I turn at the corner), 公園を散歩します (I take a walk in the park). It is like Tamil 'பாலத்தைக் கடக்கிறேன்' (I cross the bridge) with '-ஐ'; but notice that even though Tamil says '-இல்' in 'மூலையில் திரும்பு' (turn at the corner) and 'பூங்காவில் நட' (walk in the park), Japanese still uses を. Only the direction you turn takes へ / に: 交差点を右へ曲がります.",
-      "tamil_parallel_en": "பாலத்தைக் கடக்கிறேன் (I cross the bridge) = 橋を渡ります ； சந்திப்பில் வலது பக்கம் திரும்புகிறேன் (I turn right at the intersection) = 交差点を右へ曲がります. Tamil -ஐ in பாலத்தை matches を, but Tamil -இல் in சந்திப்பில் still becomes を in Japanese.",
-      "formation_en": "N(place) + を + 渡る / 曲がる / 歩く / 走る / 散歩する / 飛ぶ",
-      "pitfalls_en": "Because Tamil says '-இல்' (at/in), using で or に is a common mistake: ×角で曲がります → ○角を曲がります、×橋に渡ります → ○橋を渡ります."
+      "explanation_en": "を usually marks the thing you act on (Lesson 6). But some verbs are about moving: 渡る (cross), 曲がる (turn), 歩く (walk), 走る (run), 散歩する (take a walk). With them, を marks the place you move through, along or over. For example: 橋を渡ります (I cross the bridge), 角を曲がります (I turn at the corner), 公園を散歩します (I take a walk in the park). It is like Tamil \"பாலத்தைக் கடக்கிறேன்\" (I cross the bridge) with \"-ஐ\". But look carefully. Tamil says \"-இல்\" in \"மூலையில் திரும்பு\" (turn at the corner). Tamil also says \"பூங்காவில் நட\" (walk in the park). Japanese still uses を for both. Only the direction you turn takes へ / に: 交差点を右へ曲がります.",
+      "tamil_parallel_en": "\"பாலத்தைக் கடக்கிறேன்\" (I cross the bridge) = 橋を渡ります ； \"சந்திப்பில் வலது பக்கம் திரும்புகிறேன்\" (I turn right at the crossing) = 交差点を右へ曲がります. Tamil \"-ஐ\" in \"பாலத்தை\" matches を. But Tamil \"-இல்\" in \"சந்திப்பில்\" also becomes を in Japanese.",
+      "formation_en": "Place + を + 渡る / 曲がる / 歩く / 走る / 散歩する / 飛ぶ",
+      "pitfalls_en": "Tamil says \"-இல்\" (at/in), so people often use で or に by mistake: ×角で曲がります → ○角を曲がります、×橋に渡ります → ○橋を渡ります."
     },
     "g23-5": {
-      "explanation_en": "To say that one person does two actions at the same time, use ます-stem + ながら: 音楽を聞きながら勉強します (I study while listening to music). It is a direct match for Tamil '-கொண்டே' (கேட்டுக்கொண்டே 'while listening', நடந்துகொண்டே 'while walking'). The action with ながら is the side action; the last verb of the sentence is the main action. To get the ます-stem, just remove ます: 聞きます→聞き、食べます→食べ、します→し. The tense and politeness are shown only by the last verb. Both actions must be done by the same person.",
-      "tamil_parallel_en": "இசை கேட்டுக்கொண்டே படிக்கிறேன் (I study while listening to music) = 音楽を聞きながら勉強します. ます-stem + ながら = Tamil -கொண்டே.",
-      "formation_en": "V ます-stem + ながら + V2 (main action)",
-      "pitfalls_en": "Putting the dictionary form before ながら is wrong: ×聞くながら → ○聞きながら. ながら is not used for actions by two different people; use 時 for that."
+      "explanation_en": "Sometimes one person does two actions at the same time. For this, use ます-stem + ながら: 音楽を聞きながら勉強します (I study while listening to music). It matches Tamil \"-கொண்டே\" exactly (\"கேட்டுக்கொண்டே\" while listening, \"நடந்துகொண்டே\" while walking). The action with ながら is the side action. The last verb in the sentence is the main action. To get the ます-stem, just take away ます: 聞きます→聞き、食べます→食べ、します→し. Only the last verb shows the time (past or not) and how polite it is. The same person must do both actions.",
+      "tamil_parallel_en": "\"இசை கேட்டுக்கொண்டே படிக்கிறேன்\" (I study while listening to music) = 音楽を聞きながら勉強します. ます-stem + ながら = Tamil \"-கொண்டே\".",
+      "formation_en": "Verb ます-stem + ながら + second verb (main action)",
+      "pitfalls_en": "Putting the dictionary form before ながら is wrong: ×聞くながら → ○聞きながら. Don’t use ながら for actions by two different people. Use 時 for that."
     },
     "g23-6": {
-      "explanation_en": "The tense of the verb before 時 does not depend on the tense of the whole sentence; it depends on which of the two actions happens first. 〜る時 = that action is not finished yet, 'when about to do / before doing': 日本へ行く時、カメラを買いました (I bought a camera before going to Japan — still in India). 〜た時 = after that action is finished: 日本へ行った時、カメラを買いました (I bought a camera after going to Japan — there). It is just like the Tamil difference between 'போகும்போது' (when going) and 'போனபோது' (when I went / had gone). 家を出る時 'when leaving the house (still inside)', 家に着いた時 'when I arrived home'. 寝る時 'when going to bed', 起きた時 'when I woke up'.",
-      "tamil_parallel_en": "ஜப்பானுக்குப் போகும்போது (when going to Japan, before) = 日本へ行く時 ； ஜப்பானுக்குப் போனபோது (when I went to Japan, after arriving there) = 日本へ行った時. Tamil போகும்போது / போனபோது show the same before / after difference.",
-      "formation_en": "V dictionary form + 時 (before the action is finished) ； V た-form + 時 (after the action is finished)",
-      "pitfalls_en": "Don’t always use た時 just because the whole sentence is past; look at whether it is 'before or after'. If you put 着く時 where 着いた時 (after arriving) is needed, the meaning changes to 'when about to arrive'."
+      "explanation_en": "Look at the verb before 時. Its tense (past or not) does not follow the whole sentence. It shows which of the two actions happens first. 〜る時 means that action is not finished yet. It means \"when about to do\" or \"before doing\": 日本へ行く時、カメラを買いました. This means I bought a camera before going to Japan, still in India. 〜た時 means after that action is finished: 日本へ行った時、カメラを買いました. This means I bought a camera after going to Japan, there. It is just like Tamil \"போகும்போது\" (when going) and \"போனபோது\" (when I went / had gone). 家を出る時 means \"when leaving the house\" (still inside). 家に着いた時 means \"when I arrived home\". 寝る時 means \"when going to bed\". 起きた時 means \"when I woke up\".",
+      "tamil_parallel_en": "\"ஜப்பானுக்குப் போகும்போது\" (when going to Japan, before) = 日本へ行く時 ； \"ஜப்பானுக்குப் போனபோது\" (when I went to Japan, after arriving there) = 日本へ行った時. Tamil \"போகும்போது\" / \"போனபோது\" show the same \"before / after\" difference.",
+      "formation_en": "Verb dictionary form + 時 (before the action is finished) ； verb た-form + 時 (after the action is finished)",
+      "pitfalls_en": "Don’t always use た時 just because the whole sentence is past. Check if it is \"before\" or \"after\". 着いた時 means \"after arriving\". If you use 着く時 there, the meaning changes to \"when about to arrive\"."
     }
   },
   "items": {
-    "L23-q01": "交差点 = こうさてん (சந்திப்பு, intersection). 交 has a long vowel, こう; shortening it to こさてん is the trap. 点 is unvoiced, てん.",
-    "L23-q02": "橋 = はし (பாலம், bridge). It sounds the same as 箸 (chopsticks). ばし only appears inside compounds meaning 'X bridge' (日本橋); on its own it is はし.",
-    "L23-q03": "南 = みなみ (தெற்கு, south). にし (西, west) and ひがし (東, east) are other directions; みなと means 'harbour'.",
-    "L23-q04": "Light / electricity = 電気 (விளக்கு/மின்சாரம்). 雷 (thunder) is a fake that looks similar in its top part; 電機 means 'electrical machine' and is not in N5.",
-    "L23-q05": "にし = 西 (மேற்கு, west). 四 (よん, four) and 酉 are traps that look similar.",
-    "L23-q06": "For holding up an umbrella, use 傘を差します (குடை பிடி, put up an umbrella). かぶります is for hats; Tamil 'குடை பிடி' (hold an umbrella) could also be said with 持ちます, but 'open it and hold it up' = 差します.",
-    "L23-q07": "Many people are 'standing in a line' in front of the shop = 並んでいます (வரிசையில் நிற்கிறார்கள், are lined up). 開いて (open) is for doors and shops, not people.",
-    "L23-q08": "Place + に + 着きます = (போய்ச் சேரும், arrive). 渡ります is for crossing a bridge or road, and it needs を.",
-    "L23-q09": "The wind 'is blowing' = 風が吹いています (காற்று வீசுகிறது). 降って is only for rain and snow; 鳴いて is for animal and bird sounds.",
-    "L23-q10": "この辺 = (இந்தப் பகுதி/சுற்றுவட்டாரம், this area / around here). この先 (ahead from here) might make sense, but to ask 'somewhere around here', この辺 is the natural choice.",
-    "L23-q11": "川の向こう = (ஆற்றின் அந்தப் பக்கம், the other side of the river, the opposite bank). A village can’t be 川の中 (inside the river) or 川の上 (on top of the river).",
-    "L23-q12": "If the light is off, the room is dark (暗い, இருட்டு). 明るい is the exact opposite.",
-    "L23-q13": "子供の時 = 小さい時 (சிறியவனாக இருந்தபோது, when I was little). 子供と means 'with a child', a different meaning; 今 (now) is the wrong time.",
-    "L23-q14": "Closes at nine = is open until nine (九時まで開いています, ஒன்பது மணி வரை திறந்திருக்கும்). 九時に開きます (opens at nine) is the opposite meaning.",
-    "L23-q15": "For a natural result, use the dictionary form before と: 押すと (அழுத்தினால், if you press). 押したと and 押しますと are not used in this pattern.",
-    "L23-q16": "暇 is a な-adjective; before 時 it takes な: 暇な時 (ஓய்வாக இருக்கும்போது, when you are free). の is only for nouns (子供の時).",
-    "L23-q17": "With 曲がる, 'through which place' = を: 角を曲がります (மூலையில் திரும்புகிறேன், I turn at the corner). Using で because Tamil says 'மூலையில்' (at the corner) is a common trap.",
-    "L23-q18": "Before ながら use the ます-stem: 聞きます → 聞き → 聞きながら (கேட்டுக்கொண்டே, while listening). 聞くながら is a common mistake.",
-    "L23-q19": "Mount Fuji is in Japan, so I climbed it after arriving in Japan: 行った時 (போனபோது, when I went). 行く時 would mean 'before leaving', and you can’t climb Mount Fuji then.",
-    "L23-q20": "開く is intransitive (it happens by itself); the subject takes が: 窓が開いています (ஜன்னல் திறந்திருக்கிறது, the window is open). を is for the transitive 開ける (窓を開けます).",
-    "L23-q21": "You turn off the light before leaving the house, so use the dictionary form 出る時 (கிளம்பும்போது, when leaving). 出た時 would mean after going out, and then you can’t turn off the light inside.",
+    "L23-q01": "交差点 = こうさてん (சந்திப்பு, intersection). 交 has a long sound, こう. Making it short, こさてん, is the trap. 点 has no dots: てん.",
+    "L23-q02": "橋 = はし (பாலம், bridge). It sounds the same as 箸 (chopsticks). ばし is only used inside longer names like \"X bridge\" (日本橋). On its own, it is はし.",
+    "L23-q03": "南 = みなみ (தெற்கு, south). にし (西, west) and ひがし (東, east) are other directions. みなと means \"harbour\".",
+    "L23-q04": "Light / electricity = 電気 (விளக்கு/மின்சாரம்). 雷 (thunder) is a fake. Its top part looks similar. 電機 means \"electric machine\". It is not in N5.",
+    "L23-q05": "にし = 西 (மேற்கு, west). 四 (よん, four) and 酉 look similar. They are traps.",
+    "L23-q06": "To hold up an umbrella, use 傘を差します (குடை பிடி, put up an umbrella). かぶります is for hats. Tamil \"குடை பிடி\" (hold an umbrella) could also be 持ちます. But \"open it and hold it up\" = 差します.",
+    "L23-q07": "Many people are \"standing in a line\" in front of the shop = 並んでいます (வரிசையில் நிற்கிறார்கள், are lined up). 開いて (open) is for doors and shops, not people.",
+    "L23-q08": "Place + に + 着きます = (போய்ச் சேரும், arrive). 渡ります is for crossing a bridge or road. It needs を.",
+    "L23-q09": "The wind \"is blowing\" = 風が吹いています (காற்று வீசுகிறது). 降って is only for rain and snow. 鳴いて is for animal and bird sounds.",
+    "L23-q10": "この辺 = (இந்தப் பகுதி/சுற்றுவட்டாரம், this area / around here). この先 (ahead from here) might make sense. But to ask about \"somewhere around here\", この辺 is the natural choice.",
+    "L23-q11": "川の向こう = (ஆற்றின் அந்தப் பக்கம், the other side of the river, the opposite bank). A village can’t be 川の中 (inside the river). It can’t be 川の上 (on top of the river) either.",
+    "L23-q12": "If the light is off, the room is dark (暗い, இருட்டு). 明るい means the exact opposite.",
+    "L23-q13": "子供の時 = 小さい時 (சிறியவனாக இருந்தபோது, when I was little). 子供と means \"with a child\". That is a different meaning. 今 (now) is the wrong time.",
+    "L23-q14": "Closes at nine = is open until nine (九時まで開いています, ஒன்பது மணி வரை திறந்திருக்கும்). 九時に開きます (opens at nine) means the opposite.",
+    "L23-q15": "For a result that always follows, use the dictionary form before と: 押すと (அழுத்தினால், if you press). 押したと and 押しますと are not used in this pattern.",
+    "L23-q16": "暇 is a な-adjective. Before 時 it takes な: 暇な時 (ஓய்வாக இருக்கும்போது, when you are free). の is only for nouns (子供の時).",
+    "L23-q17": "With 曲がる, the place you go through takes を: 角を曲がります (மூலையில் திரும்புகிறேன், I turn at the corner). Tamil says \"மூலையில்\" (at the corner). So using で is a common trap.",
+    "L23-q18": "Before ながら, use the ます-stem (the part before ます): 聞きます → 聞き → 聞きながら (கேட்டுக்கொண்டே, while listening). 聞くながら is a common mistake.",
+    "L23-q19": "Mount Fuji is in Japan. So I climbed it after arriving in Japan: 行った時 (போனபோது, when I went). 行く時 would mean \"before leaving\". You can’t climb Mount Fuji then.",
+    "L23-q20": "開く is a verb for something that happens by itself. So the thing takes が: 窓が開いています (ஜன்னல் திறந்திருக்கிறது, the window is open). を is for 開ける, when someone opens it (窓を開けます).",
+    "L23-q21": "You turn off the light before you leave the house. So use the dictionary form 出る時 (கிளம்பும்போது, when leaving). 出た時 would mean after going out. Then you can’t turn off the light inside.",
     "L23-q22": "この 橋を 渡ると、右側に 駅が あります。 — (இந்தப் பாலத்தைக் கடந்தால் வலது பக்கம் ஸ்டேஷன் இருக்கிறது, if you cross this bridge, the station is on the right). 渡ると goes in the star position.",
-    "L23-q23": "母は ラジオを 聞きながら 料理を 作ります。 — The side action (ラジオを 聞きながら) comes first and the main action (料理を 作ります) comes last. 聞きながら goes in the star position.",
+    "L23-q23": "母は ラジオを 聞きながら 料理を 作ります。 — The side action (ラジオを 聞きながら) comes first. The main action (料理を 作ります) comes last. 聞きながら goes in the star position.",
     "L23-q24": "道を 渡る 時は 右と 左を 見てください。 — (சாலையைக் கடக்கும்போது வலதும் இடதும் பாருங்கள், when you cross the road, please look right and left). 右と 左を goes in the star position.",
-    "L23-q25": "［1］ With 曲がる the place takes を: 交差点を右へ曲がる. ［2］ For a natural result, use the dictionary form before と: 渡ると. ［3］ 'When I arrived home' = 着いた時 (அடைந்தபோது); 着いた前 does not exist (前 only goes with the dictionary form)."
+    "L23-q25": "［1］ With 曲がる, the place takes を: 交差点を右へ曲がる. ［2］ For a result that always follows, use the dictionary form before と: 渡ると. ［3］ \"When I arrived home\" = 着いた時 (அடைந்தபோது). 着いた前 does not exist. 前 only comes after the dictionary form."
   }
 }

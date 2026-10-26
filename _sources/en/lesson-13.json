@@ -1,69 +1,69 @@
 {
   "lesson": 13,
-  "intro_en": "In this lesson you will learn to talk about your wishes, such as \"I want this\" and \"I want to do this\". You will also learn to say that you are going somewhere with a purpose, such as \"I'm going to eat\" or \"I'm going to buy\". You will also practise restaurant phrases: ordering, \"please give me this\", and \"we'll pay separately\".",
+  "intro_en": "In this lesson you will learn to talk about what you want. For example: \"I want this\" and \"I want to do this\". You will also learn to say why you are going somewhere. For example: \"I’m going to eat\" or \"I’m going to buy\". You will also practise phrases for a restaurant. You will order food, say \"please give me this\", and say \"we’ll pay separately\".",
   "grammar": {
     "g13-1": {
-      "explanation_en": "To say you want a thing, as in \"I want a car\" (எனக்குக் கார் வேண்டும்), use 欲しい (ほしい). 欲しい is an い-adjective, not a verb, so the thing you want takes が, not を: 車が欲しいです. This is the same structure as 好きです / 上手です from Lesson 9. In Tamil too, when you say \"I want a car\" (எனக்குக் கார் வேண்டும்), you don't add the object marker (-ஐ, காரை); in the same way, Japanese uses が. Because it is an い-adjective, the negative is 欲しくないです and the past is 欲しかったです (Lesson 12). Note: 欲しい is only for the speaker's own wish, or for the listener's wish in a question. It does not work for a third person (\"he wants\").",
-      "tamil_parallel_en": "எனக்குப் புதிய கார் வேண்டும் (\"I want a new car\") = (私は) 新しい車が欲しいです. Just as Tamil வேண்டும் takes கார், not காரை (no -ஐ), 欲しい takes が, not を.",
+      "explanation_en": "To say you want a thing, use 欲しい (ほしい). For example: \"I want a car\" (எனக்குக் கார் வேண்டும்). 欲しい is an い-adjective (a describing word), not a verb. So the thing you want takes が, not を: 車が欲しいです. This is the same pattern as 好きです / 上手です from Lesson 9. Tamil is similar. When you say \"I want a car\" (எனக்குக் கார் வேண்டும்), you don’t add the object ending (-ஐ, காரை). In the same way, Japanese uses が. Because it is an い-adjective, \"don’t want\" is 欲しくないです. \"Wanted\" is 欲しかったです (Lesson 12). Note: use 欲しい only for your own wish. In a question, you can use it for the listener’s wish. Don’t use it for another person, like \"he wants\".",
+      "tamil_parallel_en": "எனக்குப் புதிய கார் வேண்டும் (\"I want a new car\") = (私は) 新しい車が欲しいです. Tamil வேண்டும் takes கார், not காரை (no -ஐ). In the same way, 欲しい takes が, not を.",
       "formation_en": "(私は) N + が + 欲しいです\nNegative: N + は / が + 欲しくないです\nPast: 欲しかったです / 欲しくなかったです\nQuestion: 何が欲しいですか",
-      "pitfalls_en": "Using を, as in 車を欲しいです, is wrong; 欲しい is an adjective, so it takes が. 欲しいでした is also wrong; say 欲しかったです."
+      "pitfalls_en": "Don’t use を, as in 車を欲しいです. 欲しい is an adjective, so it takes が. 欲しいでした is also wrong. Say 欲しかったです."
     },
     "g13-2": {
-      "explanation_en": "To say you want to do an action, as in \"I want to eat\", take the ます-form of the verb, remove ます (this is called the ます-stem), and add たい: 食べます → 食べ → 食べたいです. It is like Tamil \"to eat\" (சாப்பிட) + \"I want\" (விரும்புகிறேன்): 食べ = to eat (சாப்பிட), たい = want (விரும்பு). たい behaves like an い-adjective: negative たくないです, past たかったです, negative past たくなかったです. The object can take either を or が: カレーを食べたいです / カレーが食べたいです (が gives the emphasis \"curry is what I want\"). Other particles such as へ, に and で do not change. Like 欲しい, this is only for my own wish, or for your wish in a question.",
-      "tamil_parallel_en": "கறி சாப்பிட விரும்புகிறேன் (\"I want to eat curry\") = カレーを(が)食べたいです. 食べ matches Tamil சாப்பிட (\"to eat\") and たい matches விரும்பு (\"want\").",
+      "explanation_en": "To say you want to do something, like \"I want to eat\", use たい. Take the ます-form of the verb. Remove ます. What is left is called the ます-stem. Then add たい: 食べます → 食べ → 食べたいです. It is like Tamil \"to eat\" (சாப்பிட) + \"I want\" (விரும்புகிறேன்). 食べ = to eat (சாப்பிட). たい = want (விரும்பு). たい changes like an い-adjective. \"Don’t want to\" is たくないです. \"Wanted to\" is たかったです. \"Didn’t want to\" is たくなかったです. The thing you want to eat can take を or が: カレーを食べたいです / カレーが食べたいです. が puts the stress on \"curry is what I want\". Other particles like へ, に and で stay the same. Like 欲しい, use it only for your own wish, or for the listener’s wish in a question.",
+      "tamil_parallel_en": "கறி சாப்பிட விரும்புகிறேன் (\"I want to eat curry\") = カレーを(が)食べたいです. 食べ matches Tamil சாப்பிட (\"to eat\"). たい matches விரும்பு (\"want\").",
       "formation_en": "V ます → drop ます + たいです\n食べます → 食べたいです; 行きます → 行きたいです; 買います → 買いたいです; 見ます → 見たいです; します → したいです\nNegative: 〜たくないです; past: 〜たかったです; 〜たくなかったです\nN を / が + V-stem たいです",
-      "pitfalls_en": "Adding たい without dropping ます, as in 食べますたい, is wrong; たい comes only after ます is removed. Don't use 〜たいです directly for a third person, as in \"he wants to go\"."
+      "pitfalls_en": "You must drop ます before たい. 食べますたい is wrong. Don’t use 〜たいです for another person, as in \"he wants to go\"."
     },
     "g13-3": {
-      "explanation_en": "To say the purpose of going somewhere, as in \"I'm going to eat\" or \"I'm coming to buy\", use ます-stem + に + 行きます / 来ます / 帰ります: レストランへ食べに行きます. Here に has the purpose meaning \"in order to\" (Tamil -க்கு / செய்ய, as in சாப்பிடப் போகிறேன், I am going to eat). The place comes first with へ (or に), then the purpose, and the movement verb comes last. With する nouns like 勉強します or 買い物, you can drop します and say noun + に: 日本へ勉強に来ました. The object of the action (を) stays as it is: デパートへかばんを買いに行きます.",
-      "tamil_parallel_en": "டிபார்ட்மென்ட் ஸ்டோருக்குப் பை வாங்கப் போகிறேன் (\"I'm going to the department store to buy a bag\") = デパートへかばんを買いに行きます. 買い + に matches Tamil வாங்க (\"to buy\").",
+      "explanation_en": "You can say why you go somewhere. For example: \"I’m going to eat\" or \"I’m coming to buy\". Use ます-stem + に + 行きます / 来ます / 帰ります: レストランへ食べに行きます. Here に means \"in order to\". It is like the Tamil ending (-க்கு / செய்ய, as in சாப்பிடப் போகிறேன், I am going to eat). First comes the place with へ (or に). Then comes the reason. The moving verb (go, come, return) comes last. Some nouns go with します, like 勉強します or 買い物. With these, you can drop します and say noun + に: 日本へ勉強に来ました. The thing you act on keeps を: デパートへかばんを買いに行きます.",
+      "tamil_parallel_en": "டிபார்ட்மென்ட் ஸ்டோருக்குப் பை வாங்கப் போகிறேன் (\"I’m going to the department store to buy a bag\") = デパートへかばんを買いに行きます. 買い + に matches Tamil வாங்க (\"to buy\").",
       "formation_en": "N (place) + へ / に + (N を) + V ます-stem + に + 行きます / 来ます / 帰ります\nN (action noun: 勉強 …) + に + 行きます\n食べます → 食べに; 買います → 買いに; 見ます → 見に; 遊びます → 遊びに",
-      "pitfalls_en": "Adding に without dropping ます, as in 食べますに行きます, is wrong. Leaving out this に, as in 食べ行きます, is also wrong. This pattern is only used with movement verbs like 行く / 来る / 帰る."
+      "pitfalls_en": "You must drop ます before に. 食べますに行きます is wrong. Leaving out に is also wrong, as in 食べ行きます. Use this pattern only with moving verbs like 行く / 来る / 帰る."
     },
     "g13-4": {
-      "explanation_en": "Adding か after a question word gives the meaning \"some-\": 何か = something, どこか = somewhere, 誰か = someone (Lesson 6). Just as Tamil adds an ending (-ஆவது) to turn \"what\" (என்ன) into \"something\" (ஏதாவது) and \"where\" (எங்கே) into \"somewhere\" (எங்காவது), Japanese adds か. The を or へ after these words is usually dropped: 何か食べたいです (not 何かを), どこか行きたいです (you can also say どこかへ). They are also used in questions like \"will you do something?\", and the answer is はい / いいえ. To deny with \"nothing\", use 何も + negative; for \"nowhere\", use どこへも + negative (Lesson 5).",
-      "tamil_parallel_en": "ஏதாவது சாப்பிட விரும்புகிறேன் (\"I want to eat something\") = 何か食べたいです; எங்காவது போகிறீர்களா? (\"Are you going somewhere?\") = どこか行きますか. か does the job of Tamil -ஆவது.",
+      "explanation_en": "Add か after a question word to mean \"some-\". 何か = something. どこか = somewhere. 誰か = someone (Lesson 6). Tamil adds an ending (-ஆவது). \"What\" (என்ன) becomes \"something\" (ஏதாவது). \"Where\" (எங்கே) becomes \"somewhere\" (எங்காவது). Japanese adds か in the same way. The を or へ after these words is usually dropped. Say 何か食べたいです, not 何かを. Say どこか行きたいです. You can also say どこかへ. These words are also used in questions like \"will you do something?\". The answer is はい / いいえ. For \"nothing\", use 何も + a negative. For \"nowhere\", use どこへも + a negative (Lesson 5).",
+      "tamil_parallel_en": "ஏதாவது சாப்பிட விரும்புகிறேன் (\"I want to eat something\") = 何か食べたいです. எங்காவது போகிறீர்களா? (\"Are you going somewhere?\") = どこか行きますか. か does the job of Tamil -ஆவது.",
       "formation_en": "何か + (を is dropped) + V\nどこか + (へ) + 行きます\n誰か + が + V\nNegative: 何も + V ません; どこへも + 行きません",
-      "pitfalls_en": "Know the difference between 何か (something) and 何 (what): to 何か食べますか the answer is はい / いいえ; to 何を食べますか the answer is the name of a food. The negative of 何か is not 何かません but 何も 〜ません."
+      "pitfalls_en": "Know the difference between 何か (something) and 何 (what). The answer to 何か食べますか is はい / いいえ. The answer to 何を食べますか is the name of a food. The negative of 何か is not 何かません. Use 何も 〜ません."
     },
     "g13-5": {
-      "explanation_en": "To ask for something in a shop or restaurant, say \"N を ください\" (\"please give me N\"): コーヒーをください. If you need to say a quantity, put it directly before ください, as you learned in Lesson 11: コーヒーを二つください. お願いします (\"please\") is a softer, more polite way: カレーをお願いします. It is used not only for things but also for services (for example, \"the bill, please\" = お会計をお願いします, which comes later). It is the direct equivalent of Tamil \"one coffee, please\" (ஒரு காபி கொடுங்க / ஒரு காபி ப்ளீஸ்). When you hand something to someone, say どうぞ (\"here you are\").",
-      "tamil_parallel_en": "இரண்டு காபி கொடுங்கள் (\"Please give me two coffees\") = コーヒーを二つください (ください = கொடுங்கள், \"give me\"); கறி ப்ளீஸ் (\"Curry, please\") = カレーをお願いします",
+      "explanation_en": "To ask for something in a shop or restaurant, say N を ください (\"please give me N\"): コーヒーをください. To say how many, put the amount right before ください, as in Lesson 11: コーヒーを二つください. お願いします (\"please\") is softer and more polite: カレーをお願いします. You can use it for things and also for services. For example, \"the bill, please\" = お会計をお願いします. You will learn this later. It is the same as Tamil \"one coffee, please\" (ஒரு காபி கொடுங்க / ஒரு காபி ப்ளீஸ்). When you give something to someone, say どうぞ (\"here you are\").",
+      "tamil_parallel_en": "இரண்டு காபி கொடுங்கள் (\"Please give me two coffees\") = コーヒーを二つください (ください = கொடுங்கள், \"give me\"). கறி ப்ளீஸ் (\"Curry, please\") = カレーをお願いします",
       "formation_en": "N + を + (quantity) + ください\nN + を + (quantity) + お願いします\nWhen handing something over: (N を) どうぞ",
-      "pitfalls_en": "When a quantity comes before ください, don't put を after the number (二つをください is wrong). \"て-form + ください\" (please do ~) comes in the next lesson; here it is only for asking for things."
+      "pitfalls_en": "When an amount comes before ください, don’t put を after the number. 二つをください is wrong. You will learn \"て-form + ください\" (please do ~) in the next lesson. Here it is only for asking for things."
     },
     "g13-6": {
-      "explanation_en": "When you enter a Japanese restaurant, the staff will ask 何名様ですか or 何人ですか (\"how many people?\"). Answer 一人です / 二人です / 三人です (the counter from Lesson 11). When paying at the end, if each person wants to pay separately, say 別々に (べつべつに) お願いします (\"separately, please\"). 別々に is an adverb, the direct equivalent of Tamil \"separately\" (தனித்தனியாக). When ordering, use \"N を ください / お願いします\" (g13-5); to state your choice, you can also say \"N が いいです\" (\"this would be good\" → \"I'd like this\").",
-      "tamil_parallel_en": "தனித்தனியாக (பில்) ப்ளீஸ் (\"Separate bills, please\") = 別々にお願いします; இரண்டு பேர் (\"two people\") = 二人です. 別々に matches Tamil தனித்தனியாக (\"separately\").",
+      "explanation_en": "When you go into a Japanese restaurant, the staff will ask 何名様ですか or 何人ですか (\"how many people?\"). Answer 一人です / 二人です / 三人です. This is the counter from Lesson 11. At the end, each person may want to pay alone. Then say 別々に (べつべつに) お願いします (\"separately, please\"). 別々に tells how you do something. It is the same as Tamil \"separately\" (தனித்தனியாக). To order, use N を ください / お願いします (g13-5). To say your choice, you can also say N が いいです (\"this would be good\" → \"I’d like this\").",
+      "tamil_parallel_en": "தனித்தனியாக (பில்) ப்ளீஸ் (\"Separate bills, please\") = 別々にお願いします. இரண்டு பேர் (\"two people\") = 二人です. 別々に matches Tamil தனித்தனியாக (\"separately\").",
       "formation_en": "何人ですか: 〜人です (一人 / 二人 / 三人 …)\n別々に + お願いします\nN + が + いいです (choice)",
-      "pitfalls_en": "Saying ください after 別々に is not natural; お願いします is correct. When counting, 二人 = ふたり, not ににん."
+      "pitfalls_en": "ください after 別々に doesn’t sound natural. Say お願いします. When you count, 二人 = ふたり, not ににん."
     }
   },
   "items": {
-    "L13-q01": "野菜 = やさい (காய்கறி, vegetables). やざい is a mistake with a changed sound (さ → ざ).",
-    "L13-q02": "卵 = たまご (முட்டை, egg). たまこ is a mistake with ご changed to こ.",
-    "L13-q03": "食堂 = しょくどう (கேன்டீன், canteen). しょくど is missing the long sound; しょくとう changes ど to と.",
-    "L13-q04": "さかな = 魚 (மீன், fish). 鳥 (とり, பறவை, bird) and 黒 (கருப்பு, black) are look-alike characters.",
-    "L13-q05": "ほしい = 欲しい (வேண்டும், want). 飲 (のむ) looks similar; 欲い is an okurigana mistake (it needs しい).",
-    "L13-q06": "The reason for \"very sweet\" is sugar = 砂糖 (சர்க்கரை, sugar). 塩 (உப்பு, salt) doesn't make things sweet.",
+    "L13-q01": "野菜 = やさい (காய்கறி, vegetables). やざい is wrong because one sound is changed (さ → ざ).",
+    "L13-q02": "卵 = たまご (முட்டை, egg). たまこ is wrong because ご is changed to こ.",
+    "L13-q03": "食堂 = しょくどう (கேன்டீன், canteen). しょくど is missing the long sound. しょくとう changes ど to と.",
+    "L13-q04": "さかな = 魚 (மீன், fish). 鳥 (とり, பறவை, bird) and 黒 (கருப்பு, black) only look similar.",
+    "L13-q05": "ほしい = 欲しい (வேண்டும், want). 飲 (のむ) looks similar. 欲い is wrong because the kana after the kanji must be しい.",
+    "L13-q06": "It is \"very sweet\" because of sugar = 砂糖 (சர்க்கரை, sugar). 塩 (உப்பு, salt) doesn’t make things sweet.",
     "L13-q07": "A place at a hotel to play with children = プール (நீச்சல் குளம், swimming pool). 動物 (விலங்கு, animal) is not a place.",
-    "L13-q08": "\"Sweet ... I eat it every day\" → fruit = 果物 (பழம், fruit). 醤油 and 塩 are not sweet; カップ is not something you eat.",
-    "L13-q09": "We buy meat by weight → グラム (கிராம், grams). 枚 / 本 are counters for the shape of an object.",
-    "L13-q10": "\"I walk twenty minutes to the station\" → 歩きます (நடக்கிறேன், walk). 遊びます (விளையாடுகிறேன், play) doesn't fit.",
-    "L13-q11": "When you give someone tea, \"here you are\" = どうぞ (எடுத்துக்கொள்ளுங்கள்). ください / お願いします are said by the person asking; since the reply is \"thank you\", the speaker is the one giving.",
-    "L13-q12": "\"I want a new car\" ≈ \"I want to buy a new car\" (買いたいです, வாங்க விரும்புகிறேன்). 買いました would mean the person has already bought it, which is a different meaning.",
-    "L13-q13": "\"I'm going to the department store to buy a bag\" = they will buy a bag there → デパートでかばんを買います (பை வாங்குவார், will buy a bag). 見に行きます would mean only going to look.",
-    "L13-q14": "\"I don't want to go anywhere\" = \"I want to stay at home\" (うちにいたいです, வீட்டிலேயே இருக்க விரும்புகிறேன்). どこか行きたいです is the exact opposite.",
-    "L13-q15": "欲しい is an adjective, so the thing you want takes が. を is a mistake Tamil speakers often make.",
-    "L13-q16": "ます-stem (行き) + たい = 行きたいです (போக விரும்புகிறேன், want to go). Adding たい without dropping ます, as in 行きますたい, is wrong. 行きたかった is past and doesn't fit a future wish like \"going during the holiday\".",
-    "L13-q17": "Since the speaker wants to eat vegetables, they don't want meat → 食べたくないです (சாப்பிட விருப்பமில்லை, don't want to eat; \"today\" = present). 食べたくなかった is past.",
-    "L13-q18": "To show purpose, use ます-stem + に + 行きます: 食べに行きます (சாப்பிடப் போகிறேன், I'm going to eat). へ is only for places.",
-    "L13-q19": "\"I didn't buy anything\" = 何も + negative (எதுவும் இல்லை, nothing). 何か (ஏதாவது, something) appears in questions; in denials, use 何も.",
-    "L13-q20": "The quantity comes directly before ください, with no particle: コーヒーを二つください (இரண்டு காபி கொடுங்கள், two coffees, please). 二人 is only for people.",
-    "L13-q21": "\"Separately, please\" = 別々にお願いします (தனித்தனியாக ப்ளீஸ்). It is an adverb, and に is the correct form.",
-    "L13-q22": "友達が (நண்பர், a friend) → うちへ (வீட்டுக்கு, to my house) → 遊びに (விளையாட, to have fun) → 来ます. The purpose (〜に) comes directly before the movement verb.",
-    "L13-q23": "夏に (கோடையில், in summer) → どこか (எங்காவது, somewhere) → 遊びに (பொழுது போக்க, to have fun) → 行きたいです. The へ after どこか has been dropped.",
-    "L13-q24": "カレーを二つと、そばを一つお願いします (இரண்டு கறி, ஒரு சோபா ப்ளீஸ், two curries and one soba, please): item + を + quantity, then お願いします.",
-    "L13-q25": "[1] Purpose: 食べに行きました (சாப்பிடப் போனோம், went to eat). [2] Past wish: 食べたかったです (சாப்பிட விரும்பினேன், wanted to eat); 食べたいでした is wrong. [3] Each person had a different dish and pays alone: 別々にお願いします (தனித்தனியாக ப்ளீஸ், separately, please)."
+    "L13-q08": "\"Sweet ... I eat it every day\" → fruit = 果物 (பழம், fruit). 醤油 and 塩 are not sweet. カップ is not something you eat.",
+    "L13-q09": "We buy meat by weight → グラム (கிராம், grams). 枚 / 本 are counters for the shape of a thing.",
+    "L13-q10": "\"I walk twenty minutes to the station\" → 歩きます (நடக்கிறேன், walk). 遊びます (விளையாடுகிறேன், play) doesn’t fit.",
+    "L13-q11": "When you give someone tea, you say \"here you are\" = どうぞ (எடுத்துக்கொள்ளுங்கள்). The reply is \"thank you\", so the speaker is the one giving. ください / お願いします are said by the person who asks.",
+    "L13-q12": "\"I want a new car\" ≈ \"I want to buy a new car\" (買いたいです, வாங்க விரும்புகிறேன்). 買いました would mean the person already bought it. That is a different meaning.",
+    "L13-q13": "\"I’m going to the department store to buy a bag\" means they will buy a bag there → デパートでかばんを買います (பை வாங்குவார், will buy a bag). 見に行きます would mean only going to look.",
+    "L13-q14": "\"I don’t want to go anywhere\" = \"I want to stay at home\" (うちにいたいです, வீட்டிலேயே இருக்க விரும்புகிறேன்). どこか行きたいです means the opposite.",
+    "L13-q15": "欲しい is an adjective, so the thing you want takes が. Tamil speakers often use を here. That is wrong.",
+    "L13-q16": "ます-stem (行き) + たい = 行きたいです (போக விரும்புகிறேன், want to go). 行きますたい is wrong because ます is not dropped. 行きたかった is past. It doesn’t fit a wish about the coming holiday.",
+    "L13-q17": "The speaker wants to eat vegetables, so they don’t want meat → 食べたくないです (சாப்பிட விருப்பமில்லை, don’t want to eat). \"Today\" needs the present form. 食べたくなかった is past.",
+    "L13-q18": "To say why you go, use ます-stem + に + 行きます: 食べに行きます (சாப்பிடப் போகிறேன், I’m going to eat). へ is only for places.",
+    "L13-q19": "\"I didn’t buy anything\" = 何も + a negative (எதுவும் இல்லை, nothing). 何か (ஏதாவது, something) is used in questions. In a \"no\" sentence, use 何も.",
+    "L13-q20": "The amount comes right before ください, with no particle: コーヒーを二つください (இரண்டு காபி கொடுங்கள், two coffees, please). 二人 is only for people.",
+    "L13-q21": "\"Separately, please\" = 別々にお願いします (தனித்தனியாக ப்ளீஸ்). It tells how you pay, and に is the right form.",
+    "L13-q22": "友達が (நண்பர், a friend) → うちへ (வீட்டுக்கு, to my house) → 遊びに (விளையாட, to have fun) → 来ます. The reason (〜に) comes right before the moving verb.",
+    "L13-q23": "夏に (கோடையில், in summer) → どこか (எங்காவது, somewhere) → 遊びに (பொழுது போக்க, to have fun) → 行きたいです. The へ after どこか is dropped.",
+    "L13-q24": "カレーを二つと、そばを一つお願いします (இரண்டு கறி, ஒரு சோபா ப்ளீஸ், two curries and one soba, please). The order is: item + を + amount, then お願いします.",
+    "L13-q25": "[1] The reason for going: 食べに行きました (சாப்பிடப் போனோம், went to eat). [2] A wish in the past: 食べたかったです (சாப்பிட விரும்பினேன், wanted to eat). 食べたいでした is wrong. [3] Each person had a different dish and pays alone: 別々にお願いします (தனித்தனியாக ப்ளீஸ், separately, please)."
   }
 }

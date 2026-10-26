@@ -16,6 +16,7 @@ for (const n of ns) {
   // Rebuild key order so the English field sits next to its Tamil source.
   const out = {};
   for (const [k, v] of Object.entries(L)) {
+    if (k.endsWith("_en")) continue; // re-merge: replaced below
     out[k] = v;
     if (k === "intro_ta") out.intro_en = E.intro_en;
   }
@@ -23,6 +24,7 @@ for (const n of ns) {
     const e = E.grammar[g.id];
     const o = {};
     for (const [k, v] of Object.entries(g)) {
+      if (k.endsWith("_en")) continue; // re-merge: replaced below
       o[k] = v;
       if (k === "explanation_ta") o.explanation_en = e.explanation_en;
       if (k === "tamil_parallel") o.tamil_parallel_en = e.tamil_parallel_en;
@@ -36,6 +38,7 @@ for (const n of ns) {
     items: L.test.items.map((it) => {
       const o = {};
       for (const [k, v] of Object.entries(it)) {
+        if (k.endsWith("_en")) continue; // re-merge: replaced below
         o[k] = v;
         if (k === "explanation_ta") o.explanation_en = E.items[it.id];
       }

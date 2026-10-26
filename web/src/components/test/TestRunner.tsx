@@ -6,6 +6,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Lang3, LessonTest, TestItem } from "@/lib/types";
 import { ITEM_TYPE_LABEL } from "@/lib/types";
 import { lessonKey, useProgress } from "@/lib/progress";
+import Explain, { LangSwitch } from "../Explain";
 import { cx, hashString, seededRandom, shuffleWith } from "@/lib/utils";
 import McqView from "./McqView";
 import SentenceOrderView from "./SentenceOrderView";
@@ -251,12 +252,13 @@ export default function TestRunner({
                   scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "!border-l-green" : "!border-l-red",
                 )}
               >
-                <div className="text-xs font-extrabold text-muted mb-1">
-                  {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "Correct ✓" : "Wrong ✕"} · Explanation
+                <div className="flex items-center justify-between gap-2 mb-1">
+                  <div className="text-xs font-extrabold text-muted">
+                    {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "Correct ✓" : "Wrong ✕"} · Explanation
+                  </div>
+                  <LangSwitch />
                 </div>
-                <p className="leading-relaxed">
-                  {item.explanation_en ?? item.explanation_ta}
-                </p>
+                <Explain en={item.explanation_en} ta={item.explanation_ta} className="leading-relaxed" />
               </motion.div>
             )}
           </AnimatePresence>

@@ -1,75 +1,75 @@
 {
   "lesson": 9,
-  "intro_en": "In this lesson you learn to say \"I like / don't like this\", \"She cooks well\", \"I understand a little Japanese\" and \"I don't have time\". In all of these, the thing is marked with the particle が, which matches the Tamil pattern \"எனக்கு X பிடிக்கும்\" (I like X) very well. You will also learn to ask \"Why?\", to give a reason with \"because\" (the Tamil \"-ஆல் / -ஆனதால்\"), and adverbs that show amount and degree.",
+  "intro_en": "In this lesson you learn to say things like \"I like / don’t like this\", \"She cooks well\", \"I understand a little Japanese\" and \"I don’t have time\". In all of these, the thing takes the marker word が. This matches the Tamil pattern \"எனக்கு X பிடிக்கும்\" (I like X) very well. You also learn to ask \"Why?\". You learn to give a reason with \"because\" (the Tamil \"-ஆல் / -ஆனதால்\"). And you learn words that show how much.",
   "grammar": {
     "g09-1": {
-      "explanation_en": "好き (liked) and 嫌い (disliked) are both な-adjectives. The thing you like is marked with が: 私は音楽が好きです = \"I like music\". Here Japanese works just like Tamil: in \"எனக்கு இசை பிடிக்கும்\" (I like music), \"இசை\" (music) stands like a subject, and there is no \"-ஐ\" (\"இசையை\"). In the same way, Japanese uses が, not を. The person who likes it is marked as the topic with は (私は = \"as for me\"). Negative: 好きじゃありません (the な-adjective rule from Lesson 8). \"Like very much\" = 大好きです. 嫌いです sounds strong; to say it gently, use あまり好きじゃありません.",
-      "tamil_parallel_en": "Tamil பிடிக்கும் (\"is liked\") takes the liked thing without -ஐ, just as Japanese uses が: எனக்கு இசை பிடிக்கும் (\"I like music\") = 私は音楽が好きです; தங்கைக்குப் பால் பிடிக்காது (\"my younger sister doesn't like milk\") = 妹は牛乳が嫌いです.",
+      "explanation_en": "好き (liked) and 嫌い (disliked) are both な-adjectives. The thing you like takes が. 私は音楽が好きです = \"I like music\". Here Japanese works just like Tamil. Look at \"எனக்கு இசை பிடிக்கும்\" (I like music). \"இசை\" (music) is like the subject, the main thing in the sentence. There is no \"-ஐ\" (\"இசையை\"). In the same way, Japanese uses が, not を. The person who likes it is the topic, with は (私は = \"as for me\"). To say \"not\": 好きじゃありません (the な-adjective rule from Lesson 8). \"Like very much\" = 大好きです. 嫌いです sounds strong. To say it gently, use あまり好きじゃありません.",
+      "tamil_parallel_en": "Tamil \"பிடிக்கும்\" (\"is liked\") takes the liked thing without \"-ஐ\". Japanese uses が in the same way. \"எனக்கு இசை பிடிக்கும்\" (\"I like music\") = 私は音楽が好きです. \"தங்கைக்குப் பால் பிடிக்காது\" (\"my younger sister doesn’t like milk\") = 妹は牛乳が嫌いです.",
       "formation_en": "N(person) + は + N(thing) + が + 好きです / 嫌いです / 大好きです / 好きじゃありません",
-      "pitfalls_en": "音楽を好きです ✗. 好き and 嫌い are not verbs but adjectives, so they take が, not を. If you remember the Tamil \"எனக்கு இசை பிடிக்கும்\" (not \"இசையை\"), が will come naturally."
+      "pitfalls_en": "音楽を好きです ✗. 好き and 嫌い are not verbs (action words). They are adjectives. So they take が, not を. Remember the Tamil \"எனக்கு இசை பிடிக்கும்\" (not \"இசையை\"). Then が will come naturally."
     },
     "g09-2": {
-      "explanation_en": "上手 (skilled) and 下手 (unskilled) are both な-adjectives; the skill is marked with が: 母は料理が上手です = \"My mother is good at cooking / cooks well\". It matches the Tamil pattern \"அம்மாவுக்குச் சமையல் நன்றாக வரும்\" (cooking comes well to Mother), where \"சமையல்\" (cooking) is also in subject form. Careful: 上手 is a word for praising others; saying \"I am good at it\" about yourself sounds like boasting in Japan. If someone praises you with 日本語が上手ですね, it is usual to reply humbly with いいえ、まだまだです / いいえ、下手です, like saying \"அப்படியொன்றும் இல்லை\" (not at all) in Tamil.",
-      "tamil_parallel_en": "Tamil says a skill \"comes\" to someone (வரும் / வராது), with the skill in subject form, just like が here: அம்மாவுக்குச் சமையல் நன்றாக வரும் (\"Mother is good at cooking\") = 母は料理が上手です; எனக்குப் பாட்டு வராது (\"I'm bad at singing\") = 私は歌が下手です.",
+      "explanation_en": "上手 (good at) and 下手 (bad at) are both な-adjectives. The skill takes が. 母は料理が上手です = \"My mother is good at cooking / cooks well\". It matches the Tamil \"அம்மாவுக்குச் சமையல் நன்றாக வரும்\" (cooking comes well to Mother). There, \"சமையல்\" (cooking) is also the subject. Be careful. 上手 is a word for praising other people. In Japan, if you say it about yourself, it sounds like boasting. Someone may praise you with 日本語が上手ですね. Then people usually answer humbly: いいえ、まだまだです / いいえ、下手です. It is like saying \"அப்படியொன்றும் இல்லை\" (not at all) in Tamil.",
+      "tamil_parallel_en": "Tamil says a skill \"comes\" to someone (\"வரும் / வராது\"). The skill is the subject, just like with が here. \"அம்மாவுக்குச் சமையல் நன்றாக வரும்\" (\"Mother is good at cooking\") = 母は料理が上手です. \"எனக்குப் பாட்டு வராது\" (\"I’m bad at singing\") = 私は歌が下手です.",
       "formation_en": "N(person) + は + N(skill) + が + 上手です / 下手です",
-      "pitfalls_en": "料理を上手です ✗ → 料理が上手です. Also, saying 私は日本語が上手です about yourself is boasting; say 少しわかります instead."
+      "pitfalls_en": "料理を上手です ✗ → 料理が上手です. Also, 私は日本語が上手です about yourself is boasting. Say 少しわかります instead."
     },
     "g09-3": {
-      "explanation_en": "The verbs わかります (understand) and あります (have / there is) also mark the thing with が: 日本語がわかります = \"I understand Japanese\"; 時間があります = \"I have time\". Tamil also says \"எனக்கு ஜப்பானிய மொழி புரியும்\" (I understand Japanese) and \"எனக்கு நேரம் இருக்கிறது\" (I have time) in subject form, without \"-ஐ\"; it is a perfect match. The person comes as the topic with は, or is dropped if clear from context (like dropping \"எனக்கு\", to me, in Tamil). Negative: わかりません (don't understand), ありません (don't have). The use of あります for \"something is in a place\" comes in Lesson 10; here it only has the possession meaning \"I have\".",
-      "tamil_parallel_en": "Like Tamil புரியும் and இருக்கிறது with எனக்கு, the thing is in subject form: எனக்கு ஜப்பானிய மொழி புரியும் (\"I understand Japanese\") = 日本語がわかります; எனக்கு நேரம் இல்லை (\"I have no time\") = 時間がありません.",
+      "explanation_en": "The verbs わかります (understand) and あります (have / there is) also take が for the thing. 日本語がわかります = \"I understand Japanese\". 時間があります = \"I have time\". Tamil also says \"எனக்கு ஜப்பானிய மொழி புரியும்\" (I understand Japanese) and \"எனக்கு நேரம் இருக்கிறது\" (I have time). The thing is the subject, with no \"-ஐ\". It is a perfect match. The person is the topic, with は. Or you can drop the person if it is clear. Tamil also drops \"எனக்கு\" (to me). To say \"not\": わかりません (don’t understand), ありません (don’t have). In Lesson 10, あります also means \"something is in a place\". Here it only means \"I have\".",
+      "tamil_parallel_en": "It is like Tamil \"புரியும்\" and \"இருக்கிறது\" with \"எனக்கு\". The thing is the subject. \"எனக்கு ஜப்பானிய மொழி புரியும்\" (\"I understand Japanese\") = 日本語がわかります. \"எனக்கு நேரம் இல்லை\" (\"I have no time\") = 時間がありません.",
       "formation_en": "N(person) + は + N + が + わかります / わかりません / あります / ありません",
-      "pitfalls_en": "日本語をわかります ✗ → 日本語がわかります. わかる means \"be understood / be clear\", like Tamil \"புரிகிறது\" (it is understood), not an action verb like \"புரிந்துகொள்கிறேன்\" (I make an effort to understand)."
+      "pitfalls_en": "日本語をわかります ✗ → 日本語がわかります. わかる means \"is understood / is clear\", like Tamil \"புரிகிறது\" (it is understood). It is not a \"doing\" verb like \"புரிந்துகொள்கிறேன்\" (I try hard to understand)."
     },
     "g09-4": {
-      "explanation_en": "To say how much you understand or how much there is, these adverbs come before the verb (just like in Tamil). For understanding or skill: よく (well) > だいたい (mostly) > 少し (a little) > あまり〜ません (not very much) > 全然〜ません (not at all). For amount: たくさん (a lot) > 少し (a little) > あまり〜ません > 全然〜ません. Careful: あまり and 全然 always come only with a negative, just like the Tamil \"அவ்வளவாக இல்லை\" (not very) and \"சுத்தமாக இல்லை\" (not at all). よく also means \"often\": よく映画を見ます (I often watch movies); similarly, いつも (always) and 時々 (sometimes) show how often.",
-      "tamil_parallel_en": "The adverbs sit before the verb as in Tamil, and the \"not\" words pair with a negative the same way: நன்றாகப் புரியும் (\"I understand well\") = よくわかります; சுத்தமாகப் புரியாது (\"I don't understand at all\") = 全然わかりません; நிறைய இருக்கிறது (\"there is a lot\") = たくさんあります.",
+      "explanation_en": "Some words show how much you understand, or how much there is. They come before the verb, just like in Tamil. For understanding or skill, from most to least: よく (well) > だいたい (mostly) > 少し (a little) > あまり〜ません (not very much) > 全然〜ません (not at all). For amount: たくさん (a lot) > 少し (a little) > あまり〜ません > 全然〜ません. Be careful. あまり and 全然 always come with a \"not\" verb. It is just like the Tamil \"அவ்வளவாக இல்லை\" (not very) and \"சுத்தமாக இல்லை\" (not at all). よく also means \"often\": よく映画を見ます (I often watch movies). いつも (always) and 時々 (sometimes) also show how often.",
+      "tamil_parallel_en": "These words sit before the verb, like in Tamil. And the \"not\" words go with a \"not\" verb in the same way. \"நன்றாகப் புரியும்\" (\"I understand well\") = よくわかります. \"சுத்தமாகப் புரியாது\" (\"I don’t understand at all\") = 全然わかりません. \"நிறைய இருக்கிறது\" (\"there is a lot\") = たくさんあります.",
       "formation_en": "よく / だいたい / たくさん / 少し + V(positive) ／ あまり / 全然 + V(negative)",
-      "pitfalls_en": "全然わかります ✗ / あまりあります ✗. These are only used with a negative. Instead of saying 少しわかりません for \"I don't understand a bit\", あまりわかりません is more natural."
+      "pitfalls_en": "全然わかります ✗ / あまりあります ✗. Use these only with a \"not\" verb. For \"I don’t understand very much\", don’t say 少しわかりません. あまりわかりません is more natural."
     },
     "g09-5": {
-      "explanation_en": "Add から at the end of the sentence that gives the reason, then state the result: 時間がありませんから、行きません = \"Because I don't have time, I won't go\". Just like Tamil \"-ஆல் / -ஆனதால் / -என்பதால்\" (because), the reason comes first and the result after; the order matches completely (\"because\" doesn't come at the front as in English). Before から, the です/ます form stays as it is: 高いですから, 好きですから. It is the same word as から (\"from\") in Lesson 4, but here it comes after a sentence, so it means \"because\".",
-      "tamil_parallel_en": "から is the Tamil reason ending -ஆல் / -ஆனதால் placed after the reason clause, with the same reason-then-result order: நேரம் இல்லாததால் போகமாட்டேன் (\"Because I have no time, I won't go\") = 時間がありませんから、行きません.",
+      "explanation_en": "Put から at the end of the sentence that gives the reason. Then say the result. 時間がありませんから、行きません = \"Because I don’t have time, I won’t go\". It is just like Tamil \"-ஆல் / -ஆனதால் / -என்பதால்\" (because). The reason comes first and the result comes after. The order is exactly the same. (\"Because\" does not come at the front like in English.) Before から, keep the です/ます form as it is: 高いですから, 好きですから. It is the same word as から (\"from\") in Lesson 4. But here it comes after a sentence, so it means \"because\".",
+      "tamil_parallel_en": "から is the Tamil reason ending \"-ஆல் / -ஆனதால்\". It comes after the reason. The order is the same: reason, then result. \"நேரம் இல்லாததால் போகமாட்டேன்\" (\"Because I have no time, I won’t go\") = 時間がありませんから、行きません.",
       "formation_en": "Reason sentence (〜です / 〜ます) + から、+ result sentence",
-      "pitfalls_en": "Putting the から clause after the result (English order) is a mistake for now: 行きません、時間がありませんから is possible in speech, but as a beginner follow the Tamil order (reason → から → result)."
+      "pitfalls_en": "For now, don’t put the から part after the result (English order). People do say 行きません、時間がありませんから when talking. But as a beginner, use the Tamil order: reason, then から, then result."
     },
     "g09-6": {
-      "explanation_en": "どうして = \"why\". As in Tamil, the question word can come at the start or in the middle of the sentence: どうして来ませんでしたか = \"Why didn't you come?\". When you answer, end the reason sentence with から: 時間がありませんでしたから。 = \"Because I didn't have time\". It is like Tamil, where you answer \"ஏன்?\" (why?) with just the reason, \"நேரம் இல்லை, அதனால்தான்\" (no time, that's why), without repeating the result. The full form 〜からです goes with the plain form: 時間がないからです; we will use it in Lesson 20 after learning plain forms. For now, answer with polite form + から。.",
-      "tamil_parallel_en": "As in Tamil, you answer ஏன் (\"why\") with just the reason: ஏன் சாப்பிடவில்லை? — பிடிக்காததால்தான் (\"Why aren't you eating? Because I don't like it\") = どうして食べませんか。— 嫌いですから。",
+      "explanation_en": "どうして means \"why\". Like in Tamil, the question word can come at the start or in the middle. どうして来ませんでしたか = \"Why didn’t you come?\". To answer, end the reason with から. 時間がありませんでしたから。 = \"Because I didn’t have time\". In Tamil you answer \"ஏன்?\" (why?) with just the reason, too: \"நேரம் இல்லை, அதனால்தான்\" (no time, that’s why). You don’t say the result again. The full form 〜からです goes with the plain form: 時間がないからです. The plain form is the short, casual verb form. We use it in Lesson 20, after you learn plain forms. For now, answer with the polite form + から。.",
+      "tamil_parallel_en": "Like in Tamil, you answer \"ஏன்\" (\"why\") with just the reason. \"ஏன் சாப்பிடவில்லை? — பிடிக்காததால்தான்\" (\"Why aren’t you eating? Because I don’t like it\") = どうして食べませんか。— 嫌いですから。",
       "formation_en": "どうして + 〜か ／ Answer: reason (〜です / 〜ます) + から。 (plain + からです: Lesson 20)",
-      "pitfalls_en": "Doubling です as 〜ですからです is unnatural; with the polite form, 〜ですから。 is enough. If you answer a どうして question with just the reason and no から, the \"because\" link is not clear."
+      "pitfalls_en": "〜ですからです says です twice, and it sounds strange. With the polite form, 〜ですから。 is enough. If you answer a どうして question with just the reason and no から, the \"because\" is not clear."
     },
     "g09-7": {
-      "explanation_en": "どんな N = \"what kind of N\" (asking about type or quality; Lesson 8): どんな音楽が好きですか = \"What kind of music do you like?\". Answer: 日本の音楽です. どの N = \"which N\" (choosing one out of three or more in front of you): どの人ですか = \"Which person?\". Answer: あの人です. どの is the question form of the この/その/あの set (Lesson 2); どれ is the question form of これ/それ/あれ (Lesson 8). どれ stands alone; どの always goes with a noun. The Tamil difference between \"எது\" (which one, = どれ) and \"எந்த\" (which + noun, = どの) fits exactly.",
-      "tamil_parallel_en": "Tamil makes the same three-way split: எப்படிப்பட்ட படம்? (\"what kind of film?\") = どんな映画; எந்தப் படம்? (\"which film?\") = どの映画; எது? (\"which one?\") = どれ.",
+      "explanation_en": "どんな N = \"what kind of N\". It asks about the type or how something is (Lesson 8). どんな音楽が好きですか = \"What kind of music do you like?\". Answer: 日本の音楽です. どの N = \"which N\". It asks you to choose one out of three or more that you can see. どの人ですか = \"Which person?\". Answer: あの人です. どの is the question word for この/その/あの (Lesson 2). どれ is the question word for これ/それ/あれ (Lesson 8). どれ stands alone. どの always goes with a noun. Tamil has the same difference: \"எது\" (which one, = どれ) and \"எந்த\" (which + noun, = どの).",
+      "tamil_parallel_en": "Tamil has the same three kinds. \"எப்படிப்பட்ட படம்?\" (\"what kind of film?\") = どんな映画. \"எந்தப் படம்?\" (\"which film?\") = どの映画. \"எது?\" (\"which one?\") = どれ.",
       "formation_en": "どんな + N (type) ／ どの + N (choice) ／ どれ (alone)",
-      "pitfalls_en": "どれかばん ✗ → どのかばん. The answer to どの かばんですか is a choice, like \"the blue bag\"; the answer to どんな かばんですか is a description, like \"a big, handy bag\"."
+      "pitfalls_en": "どれかばん ✗ → どのかばん. The answer to どの かばんですか is a choice, like \"the blue bag\". The answer to どんな かばんですか describes it, like \"a big, handy bag\"."
     }
   },
   "items": {
-    "L09-q01": "上手 = じょうず (திறமையான, skilled; a special reading). Reading it piece by piece as うえ + て is wrong; じょう is a long sound and ず has the voiced mark.",
-    "L09-q02": "宿題 = しゅくだい (வீட்டுப்பாடம், homework). 題 = だい (voiced); don't stretch it to しゅう.",
-    "L09-q03": "音楽 = おんがく (இசை, music). Here 楽 is がく, not the たの reading in 楽しい. らく is a reading used in other words.",
-    "L09-q04": "じかん = 時間 (நேரம், time). 間 = 門 + 日, while 聞 (きく) = 門 + 耳, so they look alike. 持 (もつ) is a different kanji that looks like 時.",
-    "L09-q05": "おかね = お金 (பணம், money). 全 (ぜん), 会 (あう) and 今 (いま) are kanji with a similar top part.",
-    "L09-q06": "With the negative わかりません, \"not at all\" = 全然 (சுத்தமாக, at all). よく and たくさん are used only with positives.",
-    "L09-q07": "The answer is 〜から (a reason), so the question is \"why\" = どうして (ஏன், why). どう (how) doesn't ask for a reason.",
-    "L09-q08": "\"I'm not good at singing, so I don't like it much\": the reason is negative, so 下手 (திறமையில்லாத, bad at). 上手, 好き or 大好き don't fit the result \"I don't like it\".",
-    "L09-q09": "With the positive verb 読みます, \"sometimes\" = 時々 (சில நேரங்களில், sometimes). 全然 and あまり are only for negatives.",
-    "L09-q10": "He plays soccer every day → \"likes it very much\" = 大好き (மிகவும் பிடிக்கும், love). 嫌い and 嫌 mean the opposite, \"dislike\".",
-    "L09-q11": "With a positive past verb, \"a lot\" = たくさん (நிறைய, a lot). あまり and 全然 are for negatives; いつも (always) doesn't fit a single day's event.",
-    "L09-q12": "Doesn't like = 嫌いです (பிடிக்காது, dislike). 大好き has the opposite meaning; よく飲みます (I often drink it) is closer to \"likes it\".",
-    "L09-q13": "上手 (திறமையானவர், skilled) ≈ よくわかります (நன்றாகப் புரியும், understands well). 好き (likes) doesn't show skill; 少し (a little) means less skill.",
-    "L09-q14": "Having no time ≈ busy (忙しい, பிஸி). 時間がたくさんあります means the opposite; 宿題がありません is different information.",
-    "L09-q15": "好き is an adjective; the thing you like → が (Tamil \"எனக்கு இசை பிடிக்கும்\", I like music; not \"இசையை\"). を is a common mistake.",
-    "L09-q16": "The thing with わかります → が. It is like Tamil \"ஆங்கிலம் புரியுமா?\" (do you understand English?), with no \"-ஐ\". 英語で would mean \"in English\" (language as a means), which changes the meaning.",
-    "L09-q17": "\"Because I have no money, I won't buy it\": a reason → から (ஆல், because). が (but) would make the meaning contradict.",
-    "L09-q18": "The answer to a どうして question: reason + から (\"நேரம் இல்லாததால்தான்\", because I have no time). が (but) doesn't fit; doubling です as ありませんですから is wrong.",
-    "L09-q19": "あまり goes with a negative; 上手 is a な-adjective → じゃありません. くないです is only for い-adjectives.",
-    "L09-q20": "\"Which\" before the noun かばん = どの (எந்த, which). どれ stands alone (どれを買いますか); it doesn't come before a noun.",
-    "L09-q21": "With ありません (negative), \"not much\" = あまり (அவ்வளவாக, not very). たくさん and 少し naturally go with positives.",
-    "L09-q22": "日本の (ஜப்பானிய, Japanese) → 音楽が (இசை, music) → 大好きです. ★ = 音楽が; the thing you like takes が.",
-    "L09-q23": "Reason (宿題がたくさんありますから) → result (映画を見ません). It is the same order as Tamil: \"நிறைய வீட்டுப்பாடம் இருப்பதால் படம் பார்க்க மாட்டேன்\" (because I have a lot of homework, I won't watch a movie). ★ = ありますから.",
-    "L09-q24": "英語が → よく → わかります → が (ஆனால், but). ★ = よく; the adverb comes right before the verb.",
-    "L09-q25": "［1］The thing with 大好き → が. ［2］After が (but) comes a contrast: I like music, but I am 下手 (சரியாக வராது, bad) at singing. ［3］\"Because I have time, I watch a movie\" → あります."
+    "L09-q01": "上手 = じょうず (திறமையான, skilled). It is a special reading. Reading each kanji alone as うえ + て is wrong. じょう is a long sound, and ず has the two dots.",
+    "L09-q02": "宿題 = しゅくだい (வீட்டுப்பாடம், homework). 題 = だい, with the two dots. Don’t make it long like しゅう.",
+    "L09-q03": "音楽 = おんがく (இசை, music). Here 楽 is がく. It is not the たの reading in 楽しい. らく is a reading used in other words.",
+    "L09-q04": "じかん = 時間 (நேரம், time). 間 = 門 + 日. 聞 (きく) = 門 + 耳. So they look alike. 持 (もつ) is a different kanji that looks like 時.",
+    "L09-q05": "おかね = お金 (பணம், money). 全 (ぜん), 会 (あう) and 今 (いま) have a top part that looks like it.",
+    "L09-q06": "The verb is わかりません, a \"not\" verb. So \"not at all\" = 全然 (சுத்தமாக, at all). よく and たくさん are used only without \"not\".",
+    "L09-q07": "The answer gives a reason with 〜から. So the question is \"why\" = どうして (ஏன், why). どう (how) does not ask for a reason.",
+    "L09-q08": "\"I’m not good at singing, so I don’t like it much.\" The reason is a bad point, so use 下手 (திறமையில்லாத, bad at). 上手, 好き and 大好き don’t fit the result \"I don’t like it\".",
+    "L09-q09": "読みます has no \"not\". So \"sometimes\" = 時々 (சில நேரங்களில், sometimes). 全然 and あまり are only for \"not\" verbs.",
+    "L09-q10": "He plays soccer every day, so he \"likes it very much\" = 大好き (மிகவும் பிடிக்கும், love). 嫌い and 嫌 mean the opposite, \"dislike\".",
+    "L09-q11": "The verb is past, with no \"not\". So \"a lot\" = たくさん (நிறைய, a lot). あまり and 全然 are for \"not\" verbs. いつも (always) does not fit something on one day.",
+    "L09-q12": "Doesn’t like = 嫌いです (பிடிக்காது, dislike). 大好き means the opposite. よく飲みます (I often drink it) is closer to \"likes it\".",
+    "L09-q13": "上手 (திறமையானவர், skilled) is close to よくわかります (நன்றாகப் புரியும், understands well). 好き (likes) doesn’t show skill. 少し (a little) means less skill.",
+    "L09-q14": "Having no time is close to busy (忙しい, பிஸி). 時間がたくさんあります means the opposite. 宿題がありません is about something else.",
+    "L09-q15": "好き is an adjective. So the thing you like takes が (Tamil \"எனக்கு இசை பிடிக்கும்\", I like music; not \"இசையை\"). を is a common mistake.",
+    "L09-q16": "With わかります, the thing takes が. It is like Tamil \"ஆங்கிலம் புரியுமா?\" (do you understand English?), with no \"-ஐ\". 英語で would mean \"in English\" (using English). That changes the meaning.",
+    "L09-q17": "\"Because I have no money, I won’t buy it.\" This is a reason, so use から (ஆல், because). が (but) would make the two parts fight each other.",
+    "L09-q18": "To answer a どうして question, give the reason + から (\"நேரம் இல்லாததால்தான்\", because I have no time). が (but) doesn’t fit. ありませんですから says です twice, so it is wrong.",
+    "L09-q19": "あまり goes with a \"not\" form. 上手 is a な-adjective, so use じゃありません. くないです is only for い-adjectives.",
+    "L09-q20": "\"Which\" before the noun かばん = どの (எந்த, which). どれ stands alone (どれを買いますか). It does not come before a noun.",
+    "L09-q21": "ありません is a \"not\" verb. So \"not much\" = あまり (அவ்வளவாக, not very). たくさん and 少し go with verbs without \"not\".",
+    "L09-q22": "Order: 日本の (ஜப்பானிய, Japanese), then 音楽が (இசை, music), then 大好きです. ★ = 音楽が. The thing you like takes が.",
+    "L09-q23": "Order: the reason (宿題がたくさんありますから), then the result (映画を見ません). It is the same order as Tamil: \"நிறைய வீட்டுப்பாடம் இருப்பதால் படம் பார்க்க மாட்டேன்\" (because I have a lot of homework, I won’t watch a movie). ★ = ありますから.",
+    "L09-q24": "Order: 英語が, then よく, then わかります, then が (ஆனால், but). ★ = よく. The \"how much\" word comes right before the verb.",
+    "L09-q25": "［1］With 大好き, the thing takes が. ［2］After が (but) comes the opposite idea: I like music, but I am 下手 (சரியாக வராது, bad) at singing. ［3］\"Because I have time, I watch a movie\", so use あります."
   }
 }

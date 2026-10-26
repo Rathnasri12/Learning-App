@@ -7,6 +7,7 @@ import type { LessonBundle } from "@/lib/types";
 import { useLessonProgress } from "@/lib/progress";
 import { cx, pct } from "@/lib/utils";
 import ProgressRing from "./ProgressRing";
+import Explain, { LangSwitch } from "./Explain";
 
 export default function LessonHub({
   level,
@@ -90,9 +91,10 @@ export default function LessonHub({
             {meta.title.ja}
           </h1>
           <div className="text-xl font-extrabold text-sakura mt-1">{meta.title.en}</div>
-          <p className="mt-4 text-fg-2 leading-relaxed">
-            {lesson?.intro_en ?? meta.theme.en}
-          </p>
+          <div className="mt-4 flex justify-end">
+            <LangSwitch />
+          </div>
+          <Explain en={lesson?.intro_en ?? meta.theme.en} ta={lesson?.intro_ta ?? meta.theme.ta} className="mt-2 text-fg-2 leading-relaxed" />
           {mounted && lp.passed && (
             <div className="mt-4 inline-flex items-center gap-2 px-3 py-1 rounded-full bg-green-2 text-green font-extrabold text-sm">
               <Trophy size={16} /> Passed · best {pct(lp.bestScore)}

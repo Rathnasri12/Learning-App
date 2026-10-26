@@ -6,6 +6,7 @@ import { ArrowRight, RotateCcw, Home } from "lucide-react";
 import { useEffect, useState } from "react";
 import type { TestItem } from "@/lib/types";
 import { ITEM_TYPE_LABEL } from "@/lib/types";
+import Explain, { LangSwitch } from "../Explain";
 import { cx } from "@/lib/utils";
 import ProgressRing from "../ProgressRing";
 import McqView from "./McqView";
@@ -193,10 +194,11 @@ export default function Results({
                     <PassageClozeView item={it} perms={perms[it.id] as number[][]} value={a} onChange={() => {}} reveal />
                   )}
                   <div className="rounded-xl bg-bg-2 p-3">
-                    <div className="text-xs font-extrabold text-muted mb-1">Explanation</div>
-                    <p className="leading-relaxed">
-                      {it.explanation_en ?? it.explanation_ta}
-                    </p>
+                    <div className="flex items-center justify-between gap-2 mb-1">
+                      <div className="text-xs font-extrabold text-muted">Explanation</div>
+                      <LangSwitch />
+                    </div>
+                    <Explain en={it.explanation_en} ta={it.explanation_ta} className="leading-relaxed" />
                   </div>
                 </div>
               )}
