@@ -1,0 +1,302 @@
+[
+  {
+    "id": "n5-v-027",
+    "expression": "後",
+    "reading": "あと",
+    "romaji": "ato",
+    "en": "after; later",
+    "ta": "பிறகு (பின்னர்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "授業の 後で、図書館へ 行きます。", "reading": "じゅぎょうの あとで、としょかんへ いきます。", "romaji": "jugyou no ato de, toshokan e ikimasu.", "ta": "வகுப்புக்குப் பிறகு நூலகத்துக்குப் போகிறேன்.", "en": "After class, I go to the library." }
+    ]
+  },
+  {
+    "id": "n5-v-136",
+    "expression": "泳ぐ",
+    "reading": "およぐ",
+    "romaji": "oyogu",
+    "en": "to swim",
+    "ta": "நீந்த",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "私は 泳ぐことが できます。", "reading": "わたしは およぐことが できます。", "romaji": "watashi wa oyogu koto ga dekimasu.", "ta": "எனக்கு நீந்தத் தெரியும்.", "en": "I can swim." }
+    ]
+  },
+  {
+    "id": "n5-v-138",
+    "expression": "終る",
+    "reading": "おわる",
+    "romaji": "owaru",
+    "en": "to end; to finish",
+    "ta": "முடிய",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "授業は 三時に 終わります。", "reading": "じゅぎょうは さんじに おわります。", "romaji": "jugyou wa sanji ni owarimasu.", "ta": "வகுப்பு மூன்று மணிக்கு முடிகிறது.", "en": "Class ends at three." }
+    ]
+  },
+  {
+    "id": "n5-v-148",
+    "expression": "買い物",
+    "reading": "かいもの",
+    "romaji": "kaimono",
+    "en": "shopping",
+    "ta": "ஷாப்பிங் (பொருள் வாங்குதல்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日曜日に デパートで 買い物を します。", "reading": "にちようびに デパートで かいものを します。", "romaji": "nichiyoubi ni depaato de kaimono o shimasu.", "ta": "ஞாயிற்றுக்கிழமை டிபார்ட்மென்ட் ஸ்டோரில் ஷாப்பிங் செய்கிறேன்.", "en": "I go shopping at the department store on Sunday." }
+    ]
+  },
+  {
+    "id": "n5-v-175",
+    "expression": "紙",
+    "reading": "かみ",
+    "romaji": "kami",
+    "en": "paper",
+    "ta": "காகிதம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この紙に 名前を 書いてください。", "reading": "この かみに なまえを かいてください。", "romaji": "kono kami ni namae o kaite kudasai.", "ta": "இந்தக் காகிதத்தில் பெயரை எழுதுங்கள்.", "en": "Please write your name on this paper." }
+    ]
+  },
+  {
+    "id": "n5-v-188",
+    "expression": "漢字",
+    "reading": "かんじ",
+    "romaji": "kanji",
+    "en": "kanji",
+    "ta": "காஞ்சி (ஜப்பானிய சித்திர எழுத்து)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "漢字を 百 覚えました。", "reading": "かんじを ひゃく おぼえました。", "romaji": "kanji o hyaku oboemashita.", "ta": "நூறு காஞ்சி எழுத்துகளை மனப்பாடம் செய்தேன்.", "en": "I memorised a hundred kanji." }
+    ]
+  },
+  {
+    "id": "n5-v-195",
+    "expression": "ギター",
+    "reading": "ギター",
+    "romaji": "gitaa",
+    "en": "guitar",
+    "ta": "கிட்டார்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄は ギターが 上手です。", "reading": "あには ギターが じょうずです。", "romaji": "ani wa gitaa ga jouzu desu.", "ta": "அண்ணன் கிட்டார் நன்றாக வாசிப்பார்.", "en": "My older brother is good at the guitar." }
+    ]
+  },
+  {
+    "id": "n5-v-245",
+    "expression": "公園",
+    "reading": "こうえん",
+    "romaji": "kouen",
+    "en": "park",
+    "ta": "பூங்கா",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎朝 公園を 散歩します。", "reading": "まいあさ こうえんを さんぽします。", "romaji": "maiasa kouen o sanpo shimasu.", "ta": "ஒவ்வொரு காலையும் பூங்காவில் நடைப்பயிற்சி செய்கிறேன்.", "en": "I take a walk in the park every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-280",
+    "expression": "作文",
+    "reading": "さくぶん",
+    "romaji": "sakubun",
+    "en": "essay; composition",
+    "ta": "கட்டுரை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本語で 作文を 書きました。", "reading": "にほんごで さくぶんを かきました。", "romaji": "nihongo de sakubun o kakimashita.", "ta": "ஜப்பானிய மொழியில் கட்டுரை எழுதினேன்.", "en": "I wrote an essay in Japanese." }
+    ]
+  },
+  {
+    "id": "n5-v-283",
+    "expression": "雑誌",
+    "reading": "ざっし",
+    "romaji": "zasshi",
+    "en": "magazine",
+    "ta": "இதழ் (பத்திரிகை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "電車の 中で 雑誌を 読みます。", "reading": "でんしゃの なかで ざっしを よみます。", "romaji": "densha no naka de zasshi o yomimasu.", "ta": "ரயிலில் இதழ் படிக்கிறேன்.", "en": "I read magazines on the train." }
+    ]
+  },
+  {
+    "id": "n5-v-289",
+    "expression": "散歩",
+    "reading": "さんぽ (する)",
+    "romaji": "sanpo(suru)",
+    "en": "walk; stroll",
+    "ta": "நடைப்பயிற்சி (உலா)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "晩ご飯の 後で、犬と 散歩します。", "reading": "ばんごはんの あとで、いぬと さんぽします。", "romaji": "bangohan no ato de, inu to sanpo shimasu.", "ta": "இரவு உணவுக்குப் பிறகு நாயுடன் உலா போகிறேன்.", "en": "After dinner I go for a walk with the dog." }
+    ]
+  },
+  {
+    "id": "n5-v-297",
+    "expression": "辞書",
+    "reading": "じしょ",
+    "romaji": "jisho",
+    "en": "dictionary",
+    "ta": "அகராதி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "辞書を 使っても いいですか。", "reading": "じしょを つかっても いいですか。", "romaji": "jisho o tsukatte mo ii desu ka.", "ta": "அகராதியைப் பயன்படுத்தலாமா?", "en": "May I use a dictionary?" }
+    ]
+  },
+  {
+    "id": "n5-v-302",
+    "expression": "自転車",
+    "reading": "じてんしゃ",
+    "romaji": "jitensha",
+    "en": "bicycle",
+    "ta": "சைக்கிள் (மிதிவண்டி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "自転車で 学校へ 行きます。", "reading": "じてんしゃで がっこうへ いきます。", "romaji": "jitensha de gakkou e ikimasu.", "ta": "சைக்கிளில் பள்ளிக்குப் போகிறேன்.", "en": "I go to school by bicycle." }
+    ]
+  },
+  {
+    "id": "n5-v-430",
+    "expression": "できる",
+    "reading": "できる",
+    "romaji": "dekiru",
+    "en": "to be able to; can",
+    "ta": "முடிய (இயல)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "妹は 英語が できます。", "reading": "いもうとは えいごが できます。", "romaji": "imouto wa eigo ga dekimasu.", "ta": "தங்கைக்கு ஆங்கிலம் தெரியும்.", "en": "My younger sister can speak English." }
+    ]
+  },
+  {
+    "id": "n5-v-460",
+    "expression": "図書館",
+    "reading": "としょかん",
+    "romaji": "toshokan",
+    "en": "library",
+    "ta": "நூலகம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "図書館で 本を 借ります。", "reading": "としょかんで ほんを かります。", "romaji": "toshokan de hon o karimasu.", "ta": "நூலகத்தில் புத்தகம் இரவல் வாங்குகிறேன்.", "en": "I borrow books at the library." }
+    ]
+  },
+  {
+    "id": "n5-v-467",
+    "expression": "飛ぶ",
+    "reading": "とぶ",
+    "romaji": "tobu",
+    "en": "to fly",
+    "ta": "பறக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "鳥が 飛んでいます。", "reading": "とりが とんでいます。", "romaji": "tori ga tonde imasu.", "ta": "பறவை பறந்துகொண்டிருக்கிறது.", "en": "A bird is flying." }
+    ]
+  },
+  {
+    "id": "n5-v-513",
+    "expression": "登る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "en": "to climb",
+    "ta": "ஏற (மலை ஏற)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "日曜日に 友達と 山に 登ります。", "reading": "にちようびに ともだちと やまに のぼります。", "romaji": "nichiyoubi ni tomodachi to yama ni noborimasu.", "ta": "ஞாயிற்றுக்கிழமை நண்பர்களுடன் மலை ஏறுகிறேன்.", "en": "I climb a mountain with friends on Sunday." }
+    ]
+  },
+  {
+    "id": "n5-v-531",
+    "expression": "走る",
+    "reading": "はしる",
+    "romaji": "hashiru",
+    "en": "to run",
+    "ta": "ஓட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "毎朝 公園を 走ります。", "reading": "まいあさ こうえんを はしります。", "romaji": "maiasa kouen o hashirimasu.", "ta": "ஒவ்வொரு காலையும் பூங்காவில் ஓடுகிறேன்.", "en": "I run in the park every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-541",
+    "expression": "話す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "en": "to speak; to talk",
+    "ta": "பேச",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "母と 電話で 話します。", "reading": "ははと でんわで はなします。", "romaji": "haha to denwa de hanashimasu.", "ta": "அம்மாவுடன் தொலைபேசியில் பேசுகிறேன்.", "en": "I talk with my mother on the phone." }
+    ]
+  },
+  {
+    "id": "n5-v-560",
+    "expression": "弾く",
+    "reading": "ひく",
+    "romaji": "hiku",
+    "en": "to play (an instrument)",
+    "ta": "வாசிக்க (இசைக்கருவி)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "毎晩 ギターを 弾きます。", "reading": "まいばん ギターを ひきます。", "romaji": "maiban gitaa o hikimasu.", "ta": "ஒவ்வொரு இரவும் கிட்டார் வாசிக்கிறேன்.", "en": "I play the guitar every night." }
+    ]
+  },
+  {
+    "id": "n5-v-591",
+    "expression": "文章",
+    "reading": "ぶんしょう",
+    "romaji": "bunshou",
+    "en": "text; writing",
+    "ta": "உரைப்பகுதி (எழுத்து)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この文章は 短くて、易しいです。", "reading": "この ぶんしょうは みじかくて、やさしいです。", "romaji": "kono bunshou wa mijikakute, yasashii desu.", "ta": "இந்த உரைப்பகுதி சிறியதாகவும் எளிதாகவும் இருக்கிறது.", "en": "This text is short and easy." }
+    ]
+  },
+  {
+    "id": "n5-v-592",
+    "expression": "ページ",
+    "reading": "ページ",
+    "romaji": "peeji",
+    "en": "page",
+    "ta": "பக்கம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "十ページを 開けてください。", "reading": "じゅうページを あけてください。", "romaji": "juu peeji o akete kudasai.", "ta": "பத்தாம் பக்கத்தைத் திறங்கள்.", "en": "Please open to page ten." }
+    ]
+  },
+  {
+    "id": "n5-v-622",
+    "expression": "～前",
+    "reading": "～まえ",
+    "romaji": "～mae",
+    "en": "before ~; ~ ago",
+    "ta": "～க்கு முன்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "三年前に 日本へ 来ました。", "reading": "さんねんまえに にほんへ きました。", "romaji": "sannen mae ni nihon e kimashita.", "ta": "மூன்று வருடங்களுக்கு முன் ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan three years ago." }
+    ]
+  },
+  {
+    "id": "n5-v-705",
+    "expression": "レコード",
+    "reading": "レコード",
+    "romaji": "rekoodo",
+    "en": "record (music)",
+    "ta": "இசைத்தட்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 古い レコードを 聞くのが 好きです。", "reading": "ちちは ふるい レコードを きくのが すきです。", "romaji": "chichi wa furui rekoodo o kiku no ga suki desu.", "ta": "அப்பாவுக்குப் பழைய இசைத்தட்டுகளைக் கேட்பது பிடிக்கும்.", "en": "My father likes listening to old records." }
+    ]
+  },
+  {
+    "id": "n5-v-707",
+    "expression": "練習",
+    "reading": "れんしゅう (する)",
+    "romaji": "renshuu(suru)",
+    "en": "practice",
+    "ta": "பயிற்சி (பழக்கம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎日 漢字を 練習します。", "reading": "まいにち かんじを れんしゅうします。", "romaji": "mainichi kanji o renshuu shimasu.", "ta": "தினமும் காஞ்சி எழுதிப் பயிற்சி செய்கிறேன்.", "en": "I practise kanji every day." }
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "n5-v-014",
+    "expression": "明後日",
+    "reading": "あさって",
+    "romaji": "asatte",
+    "en": "day after tomorrow",
+    "ta": "நாளை மறுநாள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明後日 友達と 海へ 行く 予定です。", "reading": "あさって ともだちと うみへ いく よていです。", "romaji": "asatte tomodachi to umi e iku yotei desu.", "ta": "நாளை மறுநாள் நண்பனுடன் கடலுக்குப் போகத் திட்டம்.", "en": "I plan to go to the sea with a friend the day after tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-075",
+    "expression": "色々",
+    "reading": "いろいろ",
+    "romaji": "iroiro",
+    "en": "various",
+    "ta": "பலவிதமான",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "日本で 色々な 所へ 行きたいです。", "reading": "にほんで いろいろな ところへ いきたいです。", "romaji": "nihon de iroiro na tokoro e ikitai desu.", "ta": "ஜப்பானில் பல இடங்களுக்குப் போக விரும்புகிறேன்.", "en": "I want to go to various places in Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-153",
+    "expression": "かかる",
+    "reading": "かかる",
+    "romaji": "kakaru",
+    "en": "to take (time, money)",
+    "ta": "(நேரம், பணம்) ஆக",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "家から 大学まで バスで 一時間 かかります。", "reading": "いえから だいがくまで バスで いちじかん かかります。", "romaji": "ie kara daigaku made basu de ichijikan kakarimasu.", "ta": "வீட்டிலிருந்து பல்கலைக்கழகம் வரை பஸ்ஸில் ஒரு மணி நேரம் ஆகும்.", "en": "It takes an hour by bus from home to the university." }
+    ]
+  },
+  {
+    "id": "n5-v-170",
+    "expression": "家庭",
+    "reading": "かてい",
+    "romaji": "katei",
+    "en": "home; household",
+    "ta": "குடும்பம் (இல்லம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "インドの 家庭では よく カレーを 作ります。", "reading": "インドの かていでは よく カレーを つくります。", "romaji": "indo no katei de wa yoku karee o tsukurimasu.", "ta": "இந்தியக் குடும்பங்களில் அடிக்கடி கறி சமைப்பார்கள்.", "en": "Indian households often make curry." }
+    ]
+  },
+  {
+    "id": "n5-v-184",
+    "expression": "カレンダー",
+    "reading": "カレンダー",
+    "romaji": "karendaa",
+    "en": "calendar",
+    "ta": "நாள்காட்டி (காலண்டர்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "台所に 新しい カレンダーを 掛けました。", "reading": "だいどころに あたらしい カレンダーを かけました。", "romaji": "daidokoro ni atarashii karendaa o kakemashita.", "ta": "சமையலறையில் புதிய காலண்டரைத் தொங்கவிட்டேன்.", "en": "I hung a new calendar in the kitchen." }
+    ]
+  },
+  {
+    "id": "n5-v-238",
+    "expression": "結婚",
+    "reading": "けっこん (する)",
+    "romaji": "kekkon(suru)",
+    "en": "marriage",
+    "ta": "திருமணம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "姉は 来年 結婚する 予定です。", "reading": "あねは らいねん けっこんする よていです。", "romaji": "ane wa rainen kekkon suru yotei desu.", "ta": "அக்காவுக்கு அடுத்த ஆண்டு திருமணம் நடக்கத் திட்டம்.", "en": "My older sister is going to get married next year." }
+    ]
+  },
+  {
+    "id": "n5-v-286",
+    "expression": "さ来年",
+    "reading": "さらいねん",
+    "romaji": "sarainen",
+    "en": "year after next",
+    "ta": "அடுத்த ஆண்டுக்கு அடுத்த ஆண்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "さ来年 日本の 大学に 入る つもりです。", "reading": "さらいねん にほんの だいがくに はいる つもりです。", "romaji": "sarainen nihon no daigaku ni hairu tsumori desu.", "ta": "அடுத்த ஆண்டுக்கு அடுத்த ஆண்டு ஜப்பானியப் பல்கலைக்கழகத்தில் சேர எண்ணியிருக்கிறேன்.", "en": "I intend to enter a Japanese university the year after next." }
+    ]
+  },
+  {
+    "id": "n5-v-306",
+    "expression": "自分",
+    "reading": "じぶん",
+    "romaji": "jibun",
+    "en": "oneself",
+    "ta": "தான் (சொந்தமாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "自分の 部屋は 自分で 掃除してください。", "reading": "じぶんの へやは じぶんで そうじして ください。", "romaji": "jibun no heya wa jibun de souji shite kudasai.", "ta": "உங்கள் அறையை நீங்களே சுத்தம் செய்யுங்கள்.", "en": "Please clean your own room yourself." }
+    ]
+  },
+  {
+    "id": "n5-v-332",
+    "expression": "～すぎ",
+    "reading": "～すぎ",
+    "romaji": "～sugi",
+    "en": "past (time)",
+    "ta": "〜 தாண்டி (நேரம்)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "昨日は 十一時すぎに 寝ました。", "reading": "きのうは じゅういちじすぎに ねました。", "romaji": "kinou wa juuichijisugi ni nemashita.", "ta": "நேற்று பதினொரு மணி தாண்டித் தூங்கினேன்.", "en": "Yesterday I went to bed after eleven." }
+    ]
+  },
+  {
+    "id": "n5-v-357",
+    "expression": "全部",
+    "reading": "ぜんぶ",
+    "romaji": "zenbu",
+    "en": "all",
+    "ta": "எல்லாம் (முழுவதும்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "宿題は 全部 終わりました。", "reading": "しゅくだいは ぜんぶ おわりました。", "romaji": "shukudai wa zenbu owarimashita.", "ta": "வீட்டுப்பாடம் எல்லாம் முடிந்துவிட்டது.", "en": "I have finished all my homework." }
+    ]
+  },
+  {
+    "id": "n5-v-372",
+    "expression": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "en": "university",
+    "ta": "பல்கலைக்கழகம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄は 東京の 大学で 勉強しています。", "reading": "あには とうきょうの だいがくで べんきょうしています。", "romaji": "ani wa toukyou no daigaku de benkyou shite imasu.", "ta": "அண்ணன் டோக்கியோ பல்கலைக்கழகத்தில் படிக்கிறான்.", "en": "My older brother studies at a university in Tokyo." }
+    ]
+  },
+  {
+    "id": "n5-v-407",
+    "expression": "茶色",
+    "reading": "ちゃいろ",
+    "romaji": "chairo",
+    "en": "brown",
+    "ta": "பழுப்பு நிறம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "茶色の 靴を はいている 人が 田中さんです。", "reading": "ちゃいろの くつを はいている ひとが たなかさんです。", "romaji": "chairo no kutsu o haite iru hito ga tanaka san desu.", "ta": "பழுப்பு நிறக் காலணி அணிந்திருப்பவர் தனாகா.", "en": "The person wearing brown shoes is Mr. Tanaka." }
+    ]
+  },
+  {
+    "id": "n5-v-410",
+    "expression": "丁度",
+    "reading": "ちょうど",
+    "romaji": "choudo",
+    "en": "exactly; just",
+    "ta": "சரியாக",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "今 丁度 十二時です。", "reading": "いま ちょうど じゅうにじです。", "romaji": "ima choudo juuniji desu.", "ta": "இப்போது சரியாகப் பன்னிரண்டு மணி.", "en": "It is exactly twelve o'clock now." }
+    ]
+  },
+  {
+    "id": "n5-v-511",
+    "expression": "～年",
+    "reading": "～ねん",
+    "romaji": "～nen",
+    "en": "~ years; year ~",
+    "ta": "〜 ஆண்டு",
+    "pos": "counter",
+    "examples": [
+      { "ja": "日本語を 二年 勉強しました。", "reading": "にほんごを にねん べんきょうしました。", "romaji": "nihongo o ninen benkyou shimashita.", "ta": "இரண்டு ஆண்டுகள் ஜப்பானிய மொழி படித்தேன்.", "en": "I studied Japanese for two years." }
+    ]
+  },
+  {
+    "id": "n5-v-529",
+    "expression": "初め; 始め",
+    "reading": "はじめ",
+    "romaji": "hajime",
+    "en": "beginning",
+    "ta": "தொடக்கம் (ஆரம்பம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "来月の 初めに 日本へ 行きます。", "reading": "らいげつの はじめに にほんへ いきます。", "romaji": "raigetsu no hajime ni nihon e ikimasu.", "ta": "அடுத்த மாதத் தொடக்கத்தில் ஜப்பானுக்குப் போகிறேன்.", "en": "I am going to Japan at the beginning of next month." }
+    ]
+  },
+  {
+    "id": "n5-v-548",
+    "expression": "晴れる",
+    "reading": "はれる",
+    "romaji": "hareru",
+    "en": "to clear up",
+    "ta": "வானம் தெளிய (வெயில் வர)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "明日 晴れたら、山に 登ります。", "reading": "あした はれたら、やまに のぼります。", "romaji": "ashita haretara, yama ni noborimasu.", "ta": "நாளை வானம் தெளிவாக இருந்தால் மலை ஏறுவேன்.", "en": "If it is sunny tomorrow, I will climb the mountain." }
+    ]
+  },
+  {
+    "id": "n5-v-556",
+    "expression": "半分",
+    "reading": "はんぶん",
+    "romaji": "hanbun",
+    "en": "half",
+    "ta": "பாதி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この パンを 半分 食べませんか。", "reading": "この パンを はんぶん たべませんか。", "romaji": "kono pan o hanbun tabemasen ka.", "ta": "இந்த ரொட்டியில் பாதி சாப்பிடுகிறீர்களா?", "en": "Won't you eat half of this bread?" }
+    ]
+  },
+  {
+    "id": "n5-v-603",
+    "expression": "外",
+    "reading": "ほか",
+    "romaji": "hoka",
+    "en": "other",
+    "ta": "வேறு (மற்ற)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "外に 質問が ありますか。", "reading": "ほかに しつもんが ありますか。", "romaji": "hoka ni shitsumon ga arimasu ka.", "ta": "வேறு கேள்விகள் இருக்கின்றனவா?", "en": "Are there any other questions?" }
+    ]
+  },
+  {
+    "id": "n5-v-616",
+    "expression": "毎月",
+    "reading": "まいげつ; まいつき",
+    "romaji": "maigetsu;maitsuki",
+    "en": "every month",
+    "ta": "ஒவ்வொரு மாதமும்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎月 両親に 手紙を 書きます。", "reading": "まいつき りょうしんに てがみを かきます。", "romaji": "maitsuki ryoushin ni tegami o kakimasu.", "ta": "ஒவ்வொரு மாதமும் பெற்றோருக்குக் கடிதம் எழுதுகிறேன்.", "en": "I write a letter to my parents every month." }
+    ]
+  },
+  {
+    "id": "n5-v-617",
+    "expression": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishuu",
+    "en": "every week",
+    "ta": "ஒவ்வொரு வாரமும்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎週 日曜日に 洗濯を します。", "reading": "まいしゅう にちようびに せんたくを します。", "romaji": "maishuu nichiyoubi ni sentaku o shimasu.", "ta": "ஒவ்வொரு ஞாயிற்றுக்கிழமையும் துணி துவைக்கிறேன்.", "en": "I do the laundry every Sunday." }
+    ]
+  },
+  {
+    "id": "n5-v-619",
+    "expression": "毎年",
+    "reading": "まいねん; まいとし",
+    "romaji": "mainen;maitoshi",
+    "en": "every year",
+    "ta": "ஒவ்வொரு ஆண்டும்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎年 夏休みに おばあさんの 村へ 行きます。", "reading": "まいとし なつやすみに おばあさんの むらへ いきます。", "romaji": "maitoshi natsuyasumi ni obaasan no mura e ikimasu.", "ta": "ஒவ்வொரு ஆண்டும் கோடை விடுமுறையில் பாட்டியின் கிராமத்துக்குப் போகிறேன்.", "en": "Every year I go to my grandmother's village in the summer holidays." }
+    ]
+  },
+  {
+    "id": "n5-v-644",
+    "expression": "緑",
+    "reading": "みどり",
+    "romaji": "midori",
+    "en": "green",
+    "ta": "பச்சை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "春に なると、山が 緑に なります。", "reading": "はるに なると、やまが みどりに なります。", "romaji": "haru ni naru to, yama ga midori ni narimasu.", "ta": "வசந்த காலம் வந்தால் மலைகள் பச்சையாக மாறும்.", "en": "When spring comes, the mountains turn green." }
+    ]
+  },
+  {
+    "id": "n5-v-663",
+    "expression": "物",
+    "reading": "もの",
+    "romaji": "mono",
+    "en": "thing",
+    "ta": "பொருள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日本で 買った 物を 全部 見せてください。", "reading": "にほんで かった ものを ぜんぶ みせて ください。", "romaji": "nihon de katta mono o zenbu misete kudasai.", "ta": "ஜப்பானில் வாங்கிய பொருட்களை எல்லாம் காட்டுங்கள்.", "en": "Please show me everything you bought in Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-693",
+    "expression": "来月",
+    "reading": "らいげつ",
+    "romaji": "raigetsu",
+    "en": "next month",
+    "ta": "அடுத்த மாதம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "来月 新しい 会社で 働きます。", "reading": "らいげつ あたらしい かいしゃで はたらきます。", "romaji": "raigetsu atarashii kaisha de hatarakimasu.", "ta": "அடுத்த மாதம் புதிய நிறுவனத்தில் வேலை செய்வேன்.", "en": "Next month I will work at a new company." }
+    ]
+  },
+  {
+    "id": "n5-v-694",
+    "expression": "来週",
+    "reading": "らいしゅう",
+    "romaji": "raishuu",
+    "en": "next week",
+    "ta": "அடுத்த வாரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "来週の 月曜日に テストが あります。", "reading": "らいしゅうの げつようびに テストが あります。", "romaji": "raishuu no getsuyoubi ni tesuto ga arimasu.", "ta": "அடுத்த வாரத் திங்கள்கிழமை தேர்வு இருக்கிறது.", "en": "There is a test next Monday." }
+    ]
+  },
+  {
+    "id": "n5-v-695",
+    "expression": "来年",
+    "reading": "らいねん",
+    "romaji": "rainen",
+    "en": "next year",
+    "ta": "அடுத்த ஆண்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "来年 日本へ 旅行に 行く つもりです。", "reading": "らいねん にほんへ りょこうに いく つもりです。", "romaji": "rainen nihon e ryokou ni iku tsumori desu.", "ta": "அடுத்த ஆண்டு ஜப்பானுக்குச் சுற்றுலா போக எண்ணியிருக்கிறேன்.", "en": "I intend to go on a trip to Japan next year." }
+    ]
+  }
+]

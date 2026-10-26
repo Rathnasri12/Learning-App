@@ -1,0 +1,386 @@
+[
+  {
+    "id": "n5-v-009",
+    "expression": "開く",
+    "reading": "あく",
+    "romaji": "aku",
+    "en": "to open (itself)",
+    "ta": "திறக்க (தானாக)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "この ボタンを 押すと、ドアが 開きます。", "reading": "この ボタンを おすと、ドアが あきます。", "romaji": "kono botan o osu to, doa ga akimasu.", "ta": "இந்தப் பொத்தானை அழுத்தினால் கதவு திறக்கும்.", "en": "When you press this button, the door opens." }
+    ]
+  },
+  {
+    "id": "n5-v-186",
+    "expression": "～側",
+    "reading": "～がわ",
+    "romaji": "～gawa",
+    "en": "~ side",
+    "ta": "〜 பக்கம்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "銀行は 道の 右側に あります。", "reading": "ぎんこうは みちの みぎがわに あります。", "romaji": "ginkou wa michi no migigawa ni arimasu.", "ta": "வங்கி சாலையின் வலது பக்கத்தில் இருக்கிறது.", "en": "The bank is on the right side of the road." }
+    ]
+  },
+  {
+    "id": "n5-v-192",
+    "expression": "消える",
+    "reading": "きえる",
+    "romaji": "kieru",
+    "en": "to go out; to disappear",
+    "ta": "அணைய (மறைய)",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "部屋の 電気が 消えています。", "reading": "へやの でんきが きえています。", "romaji": "heya no denki ga kiete imasu.", "ta": "அறையின் விளக்கு அணைந்திருக்கிறது.", "en": "The light in the room is off." }
+    ]
+  },
+  {
+    "id": "n5-v-194",
+    "expression": "北",
+    "reading": "きた",
+    "romaji": "kita",
+    "en": "north",
+    "ta": "வடக்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "北海道は 日本の 北に あります。", "reading": "ほっかいどうは にほんの きたに あります。", "romaji": "hokkaidou wa nihon no kita ni arimasu.", "ta": "ஹொக்கைடோ ஜப்பானின் வடக்கில் இருக்கிறது.", "en": "Hokkaido is in the north of Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-213",
+    "expression": "キロ; キロメートル",
+    "reading": "キロ; キロメートル",
+    "romaji": "kiro;kiromeetoru",
+    "en": "kilometre",
+    "ta": "கிலோமீட்டர்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "駅から 学校まで 二キロ ぐらいです。", "reading": "えきから がっこうまで にキロ ぐらいです。", "romaji": "eki kara gakkou made nikiro gurai desu.", "ta": "ஸ்டேஷனிலிருந்து பள்ளி வரை சுமார் இரண்டு கிலோமீட்டர்.", "en": "It is about two kilometres from the station to the school." }
+    ]
+  },
+  {
+    "id": "n5-v-225",
+    "expression": "曇る",
+    "reading": "くもる",
+    "romaji": "kumoru",
+    "en": "to become cloudy",
+    "ta": "மேகமூட்டமாக",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "朝は 晴れでしたが、午後は 曇りました。", "reading": "あさは はれでしたが、ごごは くもりました。", "romaji": "asa wa hare deshita ga, gogo wa kumorimashita.", "ta": "காலையில் வெயில் இருந்தது, ஆனால் மதியம் மேகமூட்டமானது.", "en": "It was sunny in the morning, but it clouded over in the afternoon." }
+    ]
+  },
+  {
+    "id": "n5-v-246",
+    "expression": "交差点",
+    "reading": "こうさてん",
+    "romaji": "kousaten",
+    "en": "intersection",
+    "ta": "சந்திப்பு (நாற்சந்தி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "次の 交差点を 右へ 曲がってください。", "reading": "つぎの こうさてんを みぎへ まがって ください。", "romaji": "tsugi no kousaten o migi e magatte kudasai.", "ta": "அடுத்த சந்திப்பில் வலது பக்கம் திரும்புங்கள்.", "en": "Please turn right at the next intersection." }
+    ]
+  },
+  {
+    "id": "n5-v-278",
+    "expression": "先",
+    "reading": "さき",
+    "romaji": "saki",
+    "en": "ahead; earlier",
+    "ta": "முன்னால் (முதலில்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "郵便局は この 道の 少し 先に あります。", "reading": "ゆうびんきょくは この みちの すこし さきに あります。", "romaji": "yuubinkyoku wa kono michi no sukoshi saki ni arimasu.", "ta": "தபால் நிலையம் இந்தச் சாலையில் கொஞ்சம் முன்னால் இருக்கிறது.", "en": "The post office is a little further along this road." }
+    ]
+  },
+  {
+    "id": "n5-v-281",
+    "expression": "差す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "en": "to put up (umbrella)",
+    "ta": "(குடை) பிடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "雨が 降っているので、傘を 差します。", "reading": "あめが ふっているので、かさを さします。", "romaji": "ame ga futte iru node, kasa o sashimasu.", "ta": "மழை பெய்வதால் குடை பிடிக்கிறேன்.", "en": "Since it is raining, I put up my umbrella." }
+    ]
+  },
+  {
+    "id": "n5-v-307",
+    "expression": "閉まる",
+    "reading": "しまる",
+    "romaji": "shimaru",
+    "en": "to close (itself)",
+    "ta": "மூட (தானாக)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "あの 店は 夜 八時に 閉まります。", "reading": "あの みせは よる はちじに しまります。", "romaji": "ano mise wa yoru hachiji ni shimarimasu.", "ta": "அந்தக் கடை இரவு எட்டு மணிக்கு மூடும்.", "en": "That shop closes at eight at night." }
+    ]
+  },
+  {
+    "id": "n5-v-315",
+    "expression": "～中",
+    "reading": "～じゅう",
+    "romaji": "～juu",
+    "en": "throughout ~",
+    "ta": "〜 முழுவதும்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "昨日は 一日中 雨が 降りました。", "reading": "きのうは いちにちじゅう あめが ふりました。", "romaji": "kinou wa ichinichijuu ame ga furimashita.", "ta": "நேற்று நாள் முழுவதும் மழை பெய்தது.", "en": "It rained all day yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-338",
+    "expression": "ストーブ",
+    "reading": "ストーブ",
+    "romaji": "sutoobu",
+    "en": "heater",
+    "ta": "ஹீட்டர் (கணப்பு அடுப்பு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "寒いので、ストーブを つけましょうか。", "reading": "さむいので、ストーブを つけましょうか。", "romaji": "samui node, sutoobu o tsukemashou ka.", "ta": "குளிராக இருப்பதால் ஹீட்டரைப் போடட்டுமா?", "en": "Since it is cold, shall I turn on the heater?" }
+    ]
+  },
+  {
+    "id": "n5-v-364",
+    "expression": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "en": "outside",
+    "ta": "வெளியே",
+    "pos": "noun",
+    "examples": [
+      { "ja": "外は 風が 強いです。", "reading": "そとは かぜが つよいです。", "romaji": "soto wa kaze ga tsuyoi desu.", "ta": "வெளியே காற்று பலமாக வீசுகிறது.", "en": "The wind is strong outside." }
+    ]
+  },
+  {
+    "id": "n5-v-409",
+    "expression": "～中",
+    "reading": "～ちゅう",
+    "romaji": "～chuu",
+    "en": "in the middle of ~",
+    "ta": "〜 நடந்துகொண்டிருக்கும்போது",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "授業中は 話さないでください。", "reading": "じゅぎょうちゅうは はなさないで ください。", "romaji": "jugyouchuu wa hanasanaide kudasai.", "ta": "வகுப்பு நடக்கும்போது பேசாதீர்கள்.", "en": "Please don't talk during class." }
+    ]
+  },
+  {
+    "id": "n5-v-416",
+    "expression": "着く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "en": "to arrive",
+    "ta": "போய்ச் சேர",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "電車は 十時に 東京駅に 着きます。", "reading": "でんしゃは じゅうじに とうきょうえきに つきます。", "romaji": "densha wa juuji ni toukyoueki ni tsukimasu.", "ta": "ரயில் பத்து மணிக்கு டோக்கியோ ஸ்டேஷனை அடையும்.", "en": "The train arrives at Tokyo Station at ten." }
+    ]
+  },
+  {
+    "id": "n5-v-439",
+    "expression": "電気",
+    "reading": "でんき",
+    "romaji": "denki",
+    "en": "light; electricity",
+    "ta": "விளக்கு (மின்சாரம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "部屋を 出る 時、電気を 消してください。", "reading": "へやを でる とき、でんきを けして ください。", "romaji": "heya o deru toki, denki o keshite kudasai.", "ta": "அறையிலிருந்து வெளியே போகும்போது விளக்கை அணையுங்கள்.", "en": "Please turn off the light when you leave the room." }
+    ]
+  },
+  {
+    "id": "n5-v-442",
+    "expression": "戸",
+    "reading": "と",
+    "romaji": "to",
+    "en": "door (Japanese style)",
+    "ta": "கதவு (ஜப்பானிய பாணி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "風で 戸が 開きました。", "reading": "かぜで とが あきました。", "romaji": "kaze de to ga akimashita.", "ta": "காற்றால் கதவு திறந்துகொண்டது.", "en": "The door opened because of the wind." }
+    ]
+  },
+  {
+    "id": "n5-v-454",
+    "expression": "～時",
+    "reading": "～とき",
+    "romaji": "～toki",
+    "en": "when ~",
+    "ta": "〜 போது",
+    "pos": "noun",
+    "examples": [
+      { "ja": "子供の 時、よく 川で 泳ぎました。", "reading": "こどもの とき、よく かわで およぎました。", "romaji": "kodomo no toki, yoku kawa de oyogimashita.", "ta": "சிறுவனாக இருந்தபோது அடிக்கடி ஆற்றில் நீந்தினேன்.", "en": "When I was a child, I often swam in the river." }
+    ]
+  },
+  {
+    "id": "n5-v-481",
+    "expression": "鳴く",
+    "reading": "なく",
+    "romaji": "naku",
+    "en": "to cry (animal); to sing (bird)",
+    "ta": "(விலங்கு) கத்த / (பறவை) பாட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "朝 庭で 鳥が 鳴いています。", "reading": "あさ にわで とりが ないています。", "romaji": "asa niwa de tori ga naite imasu.", "ta": "காலையில் தோட்டத்தில் பறவைகள் பாடிக்கொண்டிருக்கின்றன.", "en": "Birds are singing in the garden in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-492",
+    "expression": "並ぶ",
+    "reading": "ならぶ",
+    "romaji": "narabu",
+    "en": "to line up",
+    "ta": "வரிசையில் நிற்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "店の 前に 大勢の 人が 並んでいます。", "reading": "みせの まえに おおぜいの ひとが ならんでいます。", "romaji": "mise no mae ni oozei no hito ga narande imasu.", "ta": "கடையின் முன் நிறையப் பேர் வரிசையில் நிற்கிறார்கள்.", "en": "Many people are lining up in front of the shop." }
+    ]
+  },
+  {
+    "id": "n5-v-499",
+    "expression": "西",
+    "reading": "にし",
+    "romaji": "nishi",
+    "en": "west",
+    "ta": "மேற்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "駅の 西側に 大きな 公園が あります。", "reading": "えきの にしがわに おおきな こうえんが あります。", "romaji": "eki no nishigawa ni ookina kouen ga arimasu.", "ta": "ஸ்டேஷனின் மேற்குப் பக்கத்தில் ஒரு பெரிய பூங்கா இருக்கிறது.", "en": "There is a big park on the west side of the station." }
+    ]
+  },
+  {
+    "id": "n5-v-526",
+    "expression": "橋",
+    "reading": "はし",
+    "romaji": "hashi",
+    "en": "bridge",
+    "ta": "பாலம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 橋を 渡ると、駅が あります。", "reading": "あの はしを わたると、えきが あります。", "romaji": "ano hashi o wataru to, eki ga arimasu.", "ta": "அந்தப் பாலத்தைக் கடந்தால் ஸ்டேஷன் இருக்கிறது.", "en": "When you cross that bridge, there is the station." }
+    ]
+  },
+  {
+    "id": "n5-v-557",
+    "expression": "東",
+    "reading": "ひがし",
+    "romaji": "higashi",
+    "en": "east",
+    "ta": "கிழக்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "東の 空が 明るく なりました。", "reading": "ひがしの そらが あかるく なりました。", "romaji": "higashi no sora ga akaruku narimashita.", "ta": "கிழக்கு வானம் வெளிச்சமானது.", "en": "The eastern sky became bright." }
+    ]
+  },
+  {
+    "id": "n5-v-580",
+    "expression": "吹く",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "en": "to blow (wind)",
+    "ta": "(காற்று) வீச",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "今日は 冷たい 風が 吹いています。", "reading": "きょうは つめたい かぜが ふいています。", "romaji": "kyou wa tsumetai kaze ga fuite imasu.", "ta": "இன்று குளிர்ந்த காற்று வீசுகிறது.", "en": "A cold wind is blowing today." }
+    ]
+  },
+  {
+    "id": "n5-v-597",
+    "expression": "辺",
+    "reading": "へん",
+    "romaji": "hen",
+    "en": "area; around here",
+    "ta": "பகுதி (சுற்றுவட்டாரம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 辺に 銀行は ありますか。", "reading": "この へんに ぎんこうは ありますか。", "romaji": "kono hen ni ginkou wa arimasu ka.", "ta": "இந்தப் பகுதியில் வங்கி இருக்கிறதா?", "en": "Is there a bank around here?" }
+    ]
+  },
+  {
+    "id": "n5-v-608",
+    "expression": "ボタン",
+    "reading": "ボタン",
+    "romaji": "botan",
+    "en": "button",
+    "ta": "பொத்தான் (பட்டன்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 赤い ボタンを 押してください。", "reading": "この あかい ボタンを おして ください。", "romaji": "kono akai botan o oshite kudasai.", "ta": "இந்தச் சிவப்புப் பொத்தானை அழுத்துங்கள்.", "en": "Please press this red button." }
+    ]
+  },
+  {
+    "id": "n5-v-641",
+    "expression": "道",
+    "reading": "みち",
+    "romaji": "michi",
+    "en": "road; way",
+    "ta": "சாலை (வழி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この 道を まっすぐ 行ってください。", "reading": "この みちを まっすぐ いって ください。", "romaji": "kono michi o massugu itte kudasai.", "ta": "இந்தச் சாலையில் நேராகப் போங்கள்.", "en": "Please go straight along this road." }
+    ]
+  },
+  {
+    "id": "n5-v-646",
+    "expression": "南",
+    "reading": "みなみ",
+    "romaji": "minami",
+    "en": "south",
+    "ta": "தெற்கு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "タミルナードゥは インドの 南に あります。", "reading": "タミルナードゥは インドの みなみに あります。", "romaji": "tamirunaadu wa indo no minami ni arimasu.", "ta": "தமிழ்நாடு இந்தியாவின் தெற்கில் இருக்கிறது.", "en": "Tamil Nadu is in the south of India." }
+    ]
+  },
+  {
+    "id": "n5-v-651",
+    "expression": "向こう",
+    "reading": "むこう",
+    "romaji": "mukou",
+    "en": "over there; the other side",
+    "ta": "அந்தப் பக்கம் (எதிர்ப்புறம்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "川の 向こうに 小さな 村が あります。", "reading": "かわの むこうに ちいさな むらが あります。", "romaji": "kawa no mukou ni chiisana mura ga arimasu.", "ta": "ஆற்றின் அந்தப் பக்கம் ஒரு சிறிய கிராமம் இருக்கிறது.", "en": "There is a small village on the other side of the river." }
+    ]
+  },
+  {
+    "id": "n5-v-656",
+    "expression": "メートル",
+    "reading": "メートル",
+    "romaji": "meetoru",
+    "en": "metre",
+    "ta": "மீட்டர்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "百メートル 歩くと、交差点が あります。", "reading": "ひゃくメートル あるくと、こうさてんが あります。", "romaji": "hyakumeetoru aruku to, kousaten ga arimasu.", "ta": "நூறு மீட்டர் நடந்தால் ஒரு சந்திப்பு வரும்.", "en": "If you walk a hundred metres, there is an intersection." }
+    ]
+  },
+  {
+    "id": "n5-v-686",
+    "expression": "横",
+    "reading": "よこ",
+    "romaji": "yoko",
+    "en": "side; beside",
+    "ta": "பக்கத்தில் (அருகில்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "銀行の 横に 郵便局が あります。", "reading": "ぎんこうの よこに ゆうびんきょくが あります。", "romaji": "ginkou no yoko ni yuubinkyoku ga arimasu.", "ta": "வங்கியின் பக்கத்தில் தபால் நிலையம் இருக்கிறது.", "en": "There is a post office beside the bank." }
+    ]
+  },
+  {
+    "id": "n5-v-717",
+    "expression": "渡る",
+    "reading": "わたる",
+    "romaji": "wataru",
+    "en": "to cross",
+    "ta": "கடக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "道を 渡る 時は 右と 左を 見てください。", "reading": "みちを わたる ときは みぎと ひだりを みて ください。", "romaji": "michi o wataru toki wa migi to hidari o mite kudasai.", "ta": "சாலையைக் கடக்கும்போது வலது இடது பாருங்கள்.", "en": "When crossing the road, please look right and left." }
+    ]
+  }
+]

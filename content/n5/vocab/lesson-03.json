@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n5-v-017",
+    "expression": "あそこ",
+    "reading": "あそこ",
+    "romaji": "asoko",
+    "en": "over there",
+    "ta": "அங்கே (தூரத்தில்)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "あそこは 銀行です。", "reading": "あそこは ぎんこうです。", "romaji": "asoko wa ginkou desu.", "ta": "அங்கே இருப்பது வங்கி.", "en": "Over there is a bank." }
+    ]
+  },
+  {
+    "id": "n5-v-022",
+    "expression": "あちら",
+    "reading": "あちら",
+    "romaji": "achira",
+    "en": "that way (polite)",
+    "ta": "அந்தப் பக்கம் (மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "お手洗いは あちらです。", "reading": "おてあらいは あちらです。", "romaji": "otearai wa achira desu.", "ta": "கழிப்பறை அந்தப் பக்கம் இருக்கிறது.", "en": "The restroom is that way." }
+    ]
+  },
+  {
+    "id": "n5-v-051",
+    "expression": "いくら",
+    "reading": "いくら",
+    "romaji": "ikura",
+    "en": "how much",
+    "ta": "எவ்வளவு (விலை)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "この傘は いくらですか。", "reading": "このかさは いくらですか。", "romaji": "kono kasa wa ikura desu ka.", "ta": "இந்தக் குடை என்ன விலை?", "en": "How much is this umbrella?" }
+    ]
+  },
+  {
+    "id": "n5-v-092",
+    "expression": "駅",
+    "reading": "えき",
+    "romaji": "eki",
+    "en": "station",
+    "ta": "ரயில் நிலையம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "駅は どこですか。", "reading": "えきは どこですか。", "romaji": "eki wa doko desu ka.", "ta": "ரயில் நிலையம் எங்கே?", "en": "Where is the station?" }
+    ]
+  },
+  {
+    "id": "n5-v-094",
+    "expression": "～円",
+    "reading": "～えん",
+    "romaji": "～en",
+    "en": "yen",
+    "ta": "～ யென் (ஜப்பானிய நாணயம்)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "このノートは 百円です。", "reading": "このノートは ひゃくえんです。", "romaji": "kono nooto wa hyakuen desu.", "ta": "இந்த நோட்டு நூறு யென்.", "en": "This notebook is 100 yen." }
+    ]
+  },
+  {
+    "id": "n5-v-116",
+    "expression": "お手洗い",
+    "reading": "おてあらい",
+    "romaji": "otearai",
+    "en": "restroom",
+    "ta": "கழிப்பறை (மரியாதையாக)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "すみません、お手洗いは どこですか。", "reading": "すみません、おてあらいは どこですか。", "romaji": "sumimasen, otearai wa doko desu ka.", "ta": "மன்னிக்கவும், கழிப்பறை எங்கே?", "en": "Excuse me, where is the restroom?" }
+    ]
+  },
+  {
+    "id": "n5-v-143",
+    "expression": "～階",
+    "reading": "～かい",
+    "romaji": "～kai",
+    "en": "floor (counter)",
+    "ta": "～ மாடி / தளம்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "デパートの カメラは 五階です。", "reading": "デパートの カメラは ごかいです。", "romaji": "depaato no kamera wa gokai desu.", "ta": "பல்பொருள் அங்காடியில் கேமராக்கள் ஐந்தாவது மாடியில்.", "en": "Cameras in the department store are on the fifth floor." }
+    ]
+  },
+  {
+    "id": "n5-v-144",
+    "expression": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku",
+    "en": "foreign country",
+    "ta": "வெளிநாடு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "この時計は 外国の 時計です。", "reading": "このとけいは がいこくの とけいです。", "romaji": "kono tokei wa gaikoku no tokei desu.", "ta": "இந்தக் கடிகாரம் வெளிநாட்டுக் கடிகாரம்.", "en": "This watch is a foreign-made watch." }
+    ]
+  },
+  {
+    "id": "n5-v-147",
+    "expression": "階段",
+    "reading": "かいだん",
+    "romaji": "kaidan",
+    "en": "stairs",
+    "ta": "படிக்கட்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "階段は あそこです。", "reading": "かいだんは あそこです。", "romaji": "kaidan wa asoko desu.", "ta": "படிக்கட்டு அங்கே இருக்கிறது.", "en": "The stairs are over there." }
+    ]
+  },
+  {
+    "id": "n5-v-214",
+    "expression": "銀行",
+    "reading": "ぎんこう",
+    "romaji": "ginkou",
+    "en": "bank",
+    "ta": "வங்கி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "銀行は ここじゃありません。あそこです。", "reading": "ぎんこうは ここじゃありません。あそこです。", "romaji": "ginkou wa koko ja arimasen. asoko desu.", "ta": "வங்கி இங்கே இல்லை. அங்கே இருக்கிறது.", "en": "The bank is not here. It is over there." }
+    ]
+  },
+  {
+    "id": "n5-v-248",
+    "expression": "交番",
+    "reading": "こうばん",
+    "romaji": "kouban",
+    "en": "police box",
+    "ta": "சிறு காவல் நிலையம் (போலீஸ் பூத்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "交番は そこです。", "reading": "こうばんは そこです。", "romaji": "kouban wa soko desu.", "ta": "போலீஸ் பூத் அங்கே (உங்கள் அருகில்) இருக்கிறது.", "en": "The police box is there." }
+    ]
+  },
+  {
+    "id": "n5-v-252",
+    "expression": "ここ",
+    "reading": "ここ",
+    "romaji": "koko",
+    "en": "here",
+    "ta": "இங்கே",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "ここは 教室です。", "reading": "ここは きょうしつです。", "romaji": "koko wa kyoushitsu desu.", "ta": "இது வகுப்பறை (இந்த இடம் வகுப்பறை).", "en": "This is the classroom." }
+    ]
+  },
+  {
+    "id": "n5-v-258",
+    "expression": "こちら",
+    "reading": "こちら",
+    "romaji": "kochira",
+    "en": "this way; this person (polite)",
+    "ta": "இந்தப் பக்கம்; இவர் (மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "こちらは 山田先生です。", "reading": "こちらは やまだせんせいです。", "romaji": "kochira wa yamada-sensei desu.", "ta": "இவர் யமாடா ஆசிரியர்.", "en": "This is Yamada-sensei." }
+    ]
+  },
+  {
+    "id": "n5-v-352",
+    "expression": "千",
+    "reading": "せん",
+    "romaji": "sen",
+    "en": "thousand",
+    "ta": "ஆயிரம்",
+    "pos": "number",
+    "examples": [
+      { "ja": "この本は 千円です。", "reading": "このほんは せんえんです。", "romaji": "kono hon wa sen'en desu.", "ta": "இந்தப் புத்தகம் ஆயிரம் யென்.", "en": "This book is 1,000 yen." }
+    ]
+  },
+  {
+    "id": "n5-v-361",
+    "expression": "そこ",
+    "reading": "そこ",
+    "romaji": "soko",
+    "en": "there (near you)",
+    "ta": "அங்கே (உங்கள் அருகில்)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "そこは 郵便局ですか。", "reading": "そこは ゆうびんきょくですか。", "romaji": "soko wa yuubinkyoku desu ka.", "ta": "அந்த இடம் தபால் நிலையமா?", "en": "Is that place the post office?" }
+    ]
+  },
+  {
+    "id": "n5-v-362",
+    "expression": "そちら",
+    "reading": "そちら",
+    "romaji": "sochira",
+    "en": "that way (polite)",
+    "ta": "அந்தப் பக்கம் (உங்கள் பக்கம், மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "階段は そちらです。", "reading": "かいだんは そちらです。", "romaji": "kaidan wa sochira desu.", "ta": "படிக்கட்டு உங்கள் பக்கம் இருக்கிறது.", "en": "The stairs are that way (on your side)." }
+    ]
+  },
+  {
+    "id": "n5-v-387",
+    "expression": "建物",
+    "reading": "たてもの",
+    "romaji": "tatemono",
+    "en": "building",
+    "ta": "கட்டிடம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの建物は 何ですか。", "reading": "あのたてものは なんですか。", "romaji": "ano tatemono wa nan desu ka.", "ta": "அதோ அந்தக் கட்டிடம் என்ன?", "en": "What is that building over there?" }
+    ]
+  },
+  {
+    "id": "n5-v-434",
+    "expression": "デパート",
+    "reading": "デパート",
+    "romaji": "depaato",
+    "en": "department store",
+    "ta": "பல்பொருள் அங்காடி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの建物は デパートです。", "reading": "あのたてものは デパートです。", "romaji": "ano tatemono wa depaato desu.", "ta": "அதோ அந்தக் கட்டிடம் பல்பொருள் அங்காடி.", "en": "That building over there is a department store." }
+    ]
+  },
+  {
+    "id": "n5-v-457",
+    "expression": "どこ",
+    "reading": "どこ",
+    "romaji": "doko",
+    "en": "where",
+    "ta": "எங்கே",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "私の かばんは どこですか。", "reading": "わたしの かばんは どこですか。", "romaji": "watashi no kaban wa doko desu ka.", "ta": "என் பை எங்கே?", "en": "Where is my bag?" }
+    ]
+  },
+  {
+    "id": "n5-v-461",
+    "expression": "どちら",
+    "reading": "どちら",
+    "romaji": "dochira",
+    "en": "where; which way (polite)",
+    "ta": "எங்கே / எந்தப் பக்கம் (மரியாதையாக)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "お国は どちらですか。", "reading": "おくには どちらですか。", "romaji": "okuni wa dochira desu ka.", "ta": "உங்கள் நாடு எது?", "en": "Which country are you from?" }
+    ]
+  },
+  {
+    "id": "n5-v-495",
+    "expression": "何～",
+    "reading": "なん～",
+    "romaji": "nan～",
+    "en": "what / how many ~",
+    "ta": "எத்தனை ～ / என்ன ～ (கேள்வி முன்னொட்டு)",
+    "pos": "prefix",
+    "examples": [
+      { "ja": "郵便局は 何階ですか。", "reading": "ゆうびんきょくは なんがいですか。", "romaji": "yuubinkyoku wa nangai desu ka.", "ta": "தபால் நிலையம் எத்தனையாவது மாடி?", "en": "What floor is the post office on?" }
+    ]
+  },
+  {
+    "id": "n5-v-551",
+    "expression": "～番",
+    "reading": "～ばん",
+    "romaji": "～ban",
+    "en": "number ~",
+    "ta": "～ ஆம் எண்",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "私の 教室は 三番です。", "reading": "わたしの きょうしつは さんばんです。", "romaji": "watashi no kyoushitsu wa sanban desu.", "ta": "என் வகுப்பறை மூன்றாம் எண்.", "en": "My classroom is number three." }
+    ]
+  },
+  {
+    "id": "n5-v-554",
+    "expression": "番号",
+    "reading": "ばんごう",
+    "romaji": "bangou",
+    "en": "number",
+    "ta": "எண் (வரிசை எண்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "これは 銀行の 番号です。", "reading": "これは ぎんこうの ばんごうです。", "romaji": "kore wa ginkou no bangou desu.", "ta": "இது வங்கியின் எண்.", "en": "This is the bank's number." }
+    ]
+  },
+  {
+    "id": "n5-v-569",
+    "expression": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku",
+    "en": "hundred",
+    "ta": "நூறு",
+    "pos": "number",
+    "examples": [
+      { "ja": "この鉛筆は 百円です。", "reading": "このえんぴつは ひゃくえんです。", "romaji": "kono enpitsu wa hyakuen desu.", "ta": "இந்தப் பென்சில் நூறு யென்.", "en": "This pencil is 100 yen." }
+    ]
+  },
+  {
+    "id": "n5-v-570",
+    "expression": "病院",
+    "reading": "びょういん",
+    "romaji": "byouin",
+    "en": "hospital",
+    "ta": "மருத்துவமனை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "病院は あちらです。", "reading": "びょういんは あちらです。", "romaji": "byouin wa achira desu.", "ta": "மருத்துவமனை அந்தப் பக்கம் இருக்கிறது.", "en": "The hospital is that way." }
+    ]
+  },
+  {
+    "id": "n5-v-633",
+    "expression": "万",
+    "reading": "まん",
+    "romaji": "man",
+    "en": "ten thousand",
+    "ta": "பத்தாயிரம்",
+    "pos": "number",
+    "examples": [
+      { "ja": "このカメラは 三万円です。", "reading": "このカメラは さんまんえんです。", "romaji": "kono kamera wa sanman'en desu.", "ta": "இந்தக் கேமரா முப்பதாயிரம் யென்.", "en": "This camera is 30,000 yen." }
+    ]
+  },
+  {
+    "id": "n5-v-666",
+    "expression": "～屋",
+    "reading": "～や",
+    "romaji": "～ya",
+    "en": "~ shop",
+    "ta": "～ கடை",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "あそこは 本屋です。", "reading": "あそこは ほんやです。", "romaji": "asoko wa hon'ya desu.", "ta": "அங்கே இருப்பது புத்தகக் கடை.", "en": "Over there is a bookshop." }
+    ]
+  },
+  {
+    "id": "n5-v-667",
+    "expression": "八百屋",
+    "reading": "やおや",
+    "romaji": "yaoya",
+    "en": "greengrocer",
+    "ta": "காய்கறிக் கடை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "すみません、八百屋は どちらですか。", "reading": "すみません、やおやは どちらですか。", "romaji": "sumimasen, yaoya wa dochira desu ka.", "ta": "மன்னிக்கவும், காய்கறிக் கடை எந்தப் பக்கம்?", "en": "Excuse me, which way is the greengrocer?" }
+    ]
+  },
+  {
+    "id": "n5-v-678",
+    "expression": "郵便局",
+    "reading": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "en": "post office",
+    "ta": "தபால் நிலையம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "郵便局は どこですか。", "reading": "ゆうびんきょくは どこですか。", "romaji": "yuubinkyoku wa doko desu ka.", "ta": "தபால் நிலையம் எங்கே?", "en": "Where is the post office?" }
+    ]
+  },
+  {
+    "id": "n5-v-703",
+    "expression": "零",
+    "reading": "れい",
+    "romaji": "rei",
+    "en": "zero",
+    "ta": "பூஜ்ஜியம் (எழுத்து வழக்கு)",
+    "pos": "number",
+    "examples": [
+      { "ja": "零は ゼロです。", "reading": "れいは ゼロです。", "romaji": "rei wa zero desu.", "ta": "「れい」 என்றால் பூஜ்ஜியம்.", "en": "\"Rei\" means zero." }
+    ]
+  }
+]

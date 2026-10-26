@@ -1,0 +1,452 @@
+[
+  {
+    "id": "n5-v-036",
+    "expression": "余り",
+    "reading": "あまり",
+    "romaji": "amari",
+    "en": "not very (with negative)",
+    "ta": "அவ்வளவாக (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "私は お酒を あまり 飲みません。",
+        "reading": "わたしは おさけを あまり のみません。",
+        "romaji": "watashi wa osake o amari nomimasen.",
+        "ta": "நான் மது அவ்வளவாகக் குடிப்பதில்லை.",
+        "en": "I don't drink alcohol much."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-041",
+    "expression": "有る",
+    "reading": "ある",
+    "romaji": "aru",
+    "en": "to have",
+    "ta": "இருக்க (உடைமை)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "今日は 時間が ありません。",
+        "reading": "きょうは じかんが ありません。",
+        "romaji": "kyou wa jikan ga arimasen.",
+        "ta": "இன்று எனக்கு நேரம் இல்லை.",
+        "en": "I don't have time today."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-064",
+    "expression": "いつも",
+    "reading": "いつも",
+    "romaji": "itsumo",
+    "en": "always",
+    "ta": "எப்போதும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "父は いつも 七時に 起きます。",
+        "reading": "ちちは いつも しちじに おきます。",
+        "romaji": "chichi wa itsumo shichiji ni okimasu.",
+        "ta": "அப்பா எப்போதும் ஏழு மணிக்கு எழுகிறார்.",
+        "en": "My father always gets up at seven."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-069",
+    "expression": "嫌",
+    "reading": "いや",
+    "romaji": "iya",
+    "en": "unpleasant, disliked",
+    "ta": "வெறுப்பான (பிடிக்காத)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "毎日 宿題は 嫌です。",
+        "reading": "まいにち しゅくだいは いやです。",
+        "romaji": "mainichi shukudai wa iya desu.",
+        "ta": "தினமும் வீட்டுப்பாடம் என்றால் வெறுப்பு.",
+        "en": "Homework every day is unpleasant."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-079",
+    "expression": "歌",
+    "reading": "うた",
+    "romaji": "uta",
+    "en": "song",
+    "ta": "பாட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は 歌が 上手です。",
+        "reading": "あねは うたが じょうずです。",
+        "romaji": "ane wa uta ga jouzu desu.",
+        "ta": "அக்கா நன்றாகப் பாடுவார்.",
+        "en": "My older sister is good at singing."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-087",
+    "expression": "絵",
+    "reading": "え",
+    "romaji": "e",
+    "en": "picture, painting",
+    "ta": "ஓவியம் (படம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弟は 絵が 好きです。",
+        "reading": "おとうとは えが すきです。",
+        "romaji": "otouto wa e ga suki desu.",
+        "ta": "தம்பிக்கு ஓவியம் பிடிக்கும்.",
+        "en": "My younger brother likes drawing."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-098",
+    "expression": "多い",
+    "reading": "おおい",
+    "romaji": "ooi",
+    "en": "many, a lot",
+    "ta": "அதிகமான (நிறைய)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この クラスの 宿題は 多いです。",
+        "reading": "この クラスの しゅくだいは おおいです。",
+        "romaji": "kono kurasu no shukudai wa ooi desu.",
+        "ta": "இந்த வகுப்பின் வீட்டுப்பாடம் அதிகம்.",
+        "en": "This class has a lot of homework."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-104",
+    "expression": "お金",
+    "reading": "おかね",
+    "romaji": "okane",
+    "en": "money",
+    "ta": "பணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お金が ありませんから、買いません。",
+        "reading": "おかねが ありませんから、かいません。",
+        "romaji": "okane ga arimasen kara, kaimasen.",
+        "ta": "பணம் இல்லாததால் வாங்க மாட்டேன்.",
+        "en": "I won't buy it because I have no money."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-139",
+    "expression": "音楽",
+    "reading": "おんがく",
+    "romaji": "ongaku",
+    "en": "music",
+    "ta": "இசை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎晩 音楽を 聞きます。",
+        "reading": "まいばん おんがくを ききます。",
+        "romaji": "maiban ongaku o kikimasu.",
+        "ta": "தினமும் இரவு இசை கேட்கிறேன்.",
+        "en": "I listen to music every night."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-208",
+    "expression": "嫌い",
+    "reading": "きらい",
+    "romaji": "kirai",
+    "en": "disliked",
+    "ta": "பிடிக்காத",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "妹は 牛乳が 嫌いです。",
+        "reading": "いもうとは ぎゅうにゅうが きらいです。",
+        "romaji": "imouto wa gyuunyuu ga kirai desu.",
+        "ta": "தங்கைக்குப் பால் பிடிக்காது.",
+        "en": "My younger sister dislikes milk."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-294",
+    "expression": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "en": "time",
+    "ta": "நேரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日 時間が ありますか。",
+        "reading": "あした じかんが ありますか。",
+        "romaji": "ashita jikan ga arimasu ka.",
+        "ta": "நாளை உங்களுக்கு நேரம் இருக்கிறதா?",
+        "en": "Do you have time tomorrow?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-318",
+    "expression": "宿題",
+    "reading": "しゅくだい",
+    "romaji": "shukudai",
+    "en": "homework",
+    "ta": "வீட்டுப்பாடம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎晩 九時に 宿題を します。",
+        "reading": "まいばん くじに しゅくだいを します。",
+        "romaji": "maiban kuji ni shukudai o shimasu.",
+        "ta": "தினமும் இரவு ஒன்பது மணிக்கு வீட்டுப்பாடம் செய்கிறேன்.",
+        "en": "I do my homework at nine every night."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-319",
+    "expression": "上手",
+    "reading": "じょうず",
+    "romaji": "jouzu",
+    "en": "good at, skilful",
+    "ta": "திறமையான (நன்றாகச் செய்யும்)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "母は 料理が 上手です。",
+        "reading": "ははは りょうりが じょうずです。",
+        "romaji": "haha wa ryouri ga jouzu desu.",
+        "ta": "அம்மா நன்றாகச் சமைப்பார்.",
+        "en": "My mother is good at cooking."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-331",
+    "expression": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "en": "liked, fond of",
+    "ta": "பிடித்த",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は 日本の 音楽が 好きです。",
+        "reading": "わたしは にほんの おんがくが すきです。",
+        "romaji": "watashi wa nihon no ongaku ga suki desu.",
+        "ta": "எனக்கு ஜப்பானிய இசை பிடிக்கும்.",
+        "en": "I like Japanese music."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-335",
+    "expression": "少し",
+    "reading": "すこし",
+    "romaji": "sukoshi",
+    "en": "a little",
+    "ta": "கொஞ்சம்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "日本語が 少し わかります。",
+        "reading": "にほんごが すこし わかります。",
+        "romaji": "nihongo ga sukoshi wakarimasu.",
+        "ta": "எனக்கு ஜப்பானிய மொழி கொஞ்சம் புரியும்.",
+        "en": "I understand a little Japanese."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-340",
+    "expression": "スポーツ",
+    "reading": "スポーツ",
+    "romaji": "supootsu",
+    "en": "sports",
+    "ta": "விளையாட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は スポーツが 大好きです。",
+        "reading": "あには スポーツが だいすきです。",
+        "romaji": "ani wa supootsu ga daisuki desu.",
+        "ta": "அண்ணனுக்கு விளையாட்டு ரொம்பப் பிடிக்கும்.",
+        "en": "My older brother loves sports."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-375",
+    "expression": "大好き",
+    "reading": "だいすき",
+    "romaji": "daisuki",
+    "en": "really like, love",
+    "ta": "மிகவும் பிடித்த",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は お菓子が 大好きです。",
+        "reading": "わたしは おかしが だいすきです。",
+        "romaji": "watashi wa okashi ga daisuki desu.",
+        "ta": "எனக்கு இனிப்புகள் ரொம்பப் பிடிக்கும்.",
+        "en": "I love sweets."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-381",
+    "expression": "沢山",
+    "reading": "たくさん",
+    "romaji": "takusan",
+    "en": "a lot, many",
+    "ta": "நிறைய",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "昨日 写真を たくさん 撮りました。",
+        "reading": "きのう しゃしんを たくさん とりました。",
+        "romaji": "kinou shashin o takusan torimashita.",
+        "ta": "நேற்று நிறைய புகைப்படங்கள் எடுத்தேன்.",
+        "en": "I took a lot of photos yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-447",
+    "expression": "どうして",
+    "reading": "どうして",
+    "romaji": "doushite",
+    "en": "why",
+    "ta": "ஏன்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "どうして 昨日 来ませんでしたか。",
+        "reading": "どうして きのう きませんでしたか。",
+        "romaji": "doushite kinou kimasen deshita ka.",
+        "ta": "நேற்று ஏன் வரவில்லை?",
+        "en": "Why didn't you come yesterday?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-455",
+    "expression": "時々",
+    "reading": "ときどき",
+    "romaji": "tokidoki",
+    "en": "sometimes",
+    "ta": "சில நேரங்களில்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "時々 喫茶店で 本を 読みます。",
+        "reading": "ときどき きっさてんで ほんを よみます。",
+        "romaji": "tokidoki kissaten de hon o yomimasu.",
+        "ta": "சில நேரங்களில் கபேயில் புத்தகம் படிக்கிறேன்.",
+        "en": "I sometimes read at a café."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-466",
+    "expression": "どの",
+    "reading": "どの",
+    "romaji": "dono",
+    "en": "which (+ noun)",
+    "ta": "எந்த",
+    "pos": "pronoun",
+    "examples": [
+      {
+        "ja": "田中さんは どの 人ですか。",
+        "reading": "たなかさんは どの ひとですか。",
+        "romaji": "tanaka san wa dono hito desu ka.",
+        "ta": "தனாகா அவர்கள் எந்த நபர்?",
+        "en": "Which person is Mr. Tanaka?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-593",
+    "expression": "下手",
+    "reading": "へた",
+    "romaji": "heta",
+    "en": "bad at, unskilful",
+    "ta": "திறமையில்லாத (சரியாக வராத)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は 歌が 下手です。",
+        "reading": "わたしは うたが へたです。",
+        "romaji": "watashi wa uta ga heta desu.",
+        "ta": "எனக்குப் பாட்டு சரியாக வராது.",
+        "en": "I am bad at singing."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-685",
+    "expression": "よく",
+    "reading": "よく",
+    "romaji": "yoku",
+    "en": "often; well",
+    "ta": "அடிக்கடி; நன்றாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "兄は 英語が よく わかります。",
+        "reading": "あには えいごが よく わかります。",
+        "romaji": "ani wa eigo ga yoku wakarimasu.",
+        "ta": "அண்ணனுக்கு ஆங்கிலம் நன்றாகப் புரியும்.",
+        "en": "My older brother understands English well."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-701",
+    "expression": "料理",
+    "reading": "りょうり",
+    "romaji": "ryouri",
+    "en": "cooking; cuisine",
+    "ta": "சமையல்; உணவு வகை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "インド料理が 好きですか。",
+        "reading": "インドりょうりが すきですか。",
+        "romaji": "indo ryouri ga suki desu ka.",
+        "ta": "இந்திய உணவு பிடிக்குமா?",
+        "en": "Do you like Indian food?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-712",
+    "expression": "分かる",
+    "reading": "わかる",
+    "romaji": "wakaru",
+    "en": "to understand",
+    "ta": "புரிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生、この 片仮名が わかりません。",
+        "reading": "せんせい、この かたかなが わかりません。",
+        "romaji": "sensei, kono katakana ga wakarimasen.",
+        "ta": "ஆசிரியரே, இந்த கதகானா எனக்குப் புரியவில்லை.",
+        "en": "Teacher, I don't understand this katakana."
+      }
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "id": "n5-v-010",
+    "expression": "開ける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "en": "to open",
+    "ta": "திறக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "暑いですから、窓を開けてください。",
+        "reading": "あついですから、まどを あけて ください。",
+        "romaji": "atsui desu kara, mado o akete kudasai.",
+        "ta": "வெப்பமாக இருக்கிறது, ஜன்னலைத் திறங்கள்.",
+        "en": "It's hot, so please open the window."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-159",
+    "expression": "かける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "en": "to make (a phone call)",
+    "ta": "(தொலைபேசி) அழைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "毎晩母に電話をかけます。",
+        "reading": "まいばん ははに でんわを かけます。",
+        "romaji": "maiban haha ni denwa o kakemasu.",
+        "ta": "தினமும் இரவு அம்மாவுக்குப் போன் செய்கிறேன்.",
+        "en": "I call my mother every night."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-171",
+    "expression": "角",
+    "reading": "かど",
+    "romaji": "kado",
+    "en": "corner",
+    "ta": "மூலை (தெரு முனை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの角に銀行があります。",
+        "reading": "あの かどに ぎんこうが あります。",
+        "romaji": "ano kado ni ginkou ga arimasu.",
+        "ta": "அந்த முனையில் ஒரு வங்கி இருக்கிறது.",
+        "en": "There is a bank on that corner."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-209",
+    "expression": "切る",
+    "reading": "きる",
+    "romaji": "kiru",
+    "en": "to cut; to hang up",
+    "ta": "வெட்ட; (போனை) துண்டிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "ナイフで肉を切ります。",
+        "reading": "ナイフで にくを きります。",
+        "romaji": "naifu de niku o kirimasu.",
+        "ta": "கத்தியால் இறைச்சியை வெட்டுகிறேன்.",
+        "en": "I cut the meat with a knife."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-236",
+    "expression": "消す",
+    "reading": "けす",
+    "romaji": "kesu",
+    "en": "to turn off; to erase",
+    "ta": "அணைக்க; அழிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "寝ますから、ラジオカセを消してください。",
+        "reading": "ねますから、ラジオカセを けして ください。",
+        "romaji": "nemasu kara, rajiokase o keshite kudasai.",
+        "ta": "தூங்கப் போகிறேன், ரேடியோவை அணையுங்கள்.",
+        "en": "I'm going to sleep, so please turn off the radio."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-266",
+    "expression": "コピーする",
+    "reading": "コピーする",
+    "romaji": "kopiisuru",
+    "en": "to copy",
+    "ta": "நகல் எடுக்க (காப்பி எடுக்க)",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "この地図をコピーしてください。",
+        "reading": "この ちずを コピーして ください。",
+        "romaji": "kono chizu o kopii shite kudasai.",
+        "ta": "இந்த வரைபடத்தை காப்பி எடுங்கள்.",
+        "en": "Please copy this map."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-308",
+    "expression": "閉める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "en": "to close",
+    "ta": "மூட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "寒いですから、ドアを閉めてください。",
+        "reading": "さむいですから、ドアを しめて ください。",
+        "romaji": "samui desu kara, doa o shimete kudasai.",
+        "ta": "குளிராக இருக்கிறது, கதவை மூடுங்கள்.",
+        "en": "It's cold, so please close the door."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-309",
+    "expression": "締める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "en": "to fasten, to lock",
+    "ta": "இறுக்கிக் கட்ட, பூட்ட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夜はドアの鍵を締めます。",
+        "reading": "よるは ドアの かぎを しめます。",
+        "romaji": "yoru wa doa no kagi o shimemasu.",
+        "ta": "இரவில் கதவைப் பூட்டுகிறேன்.",
+        "en": "At night I lock the door."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-334",
+    "expression": "すぐに",
+    "reading": "すぐに",
+    "romaji": "suguni",
+    "en": "immediately",
+    "ta": "உடனே",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "すぐに来てください。",
+        "reading": "すぐに きて ください。",
+        "romaji": "suguni kite kudasai.",
+        "ta": "உடனே வாருங்கள்.",
+        "en": "Please come right away."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-373",
+    "expression": "大使館",
+    "reading": "たいしかん",
+    "romaji": "taishikan",
+    "en": "embassy",
+    "ta": "தூதரகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "インド大使館はどこですか。",
+        "reading": "インドたいしかんは どこですか。",
+        "romaji": "indo taishikan wa doko desu ka.",
+        "ta": "இந்தியத் தூதரகம் எங்கே இருக்கிறது?",
+        "en": "Where is the Indian embassy?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-404",
+    "expression": "地下鉄",
+    "reading": "ちかてつ",
+    "romaji": "chikatetsu",
+    "en": "subway",
+    "ta": "சுரங்க ரயில் (மெட்ரோ)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "地下鉄でデパートへ行きます。",
+        "reading": "ちかてつで デパートへ いきます。",
+        "romaji": "chikatetsu de depaato e ikimasu.",
+        "ta": "மெட்ரோவில் டிபார்ட்மென்ட் ஸ்டோர் போகிறேன்.",
+        "en": "I go to the department store by subway."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-405",
+    "expression": "地図",
+    "reading": "ちず",
+    "romaji": "chizu",
+    "en": "map",
+    "ta": "வரைபடம் (மேப்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "地図を見せてください。",
+        "reading": "ちずを みせて ください。",
+        "romaji": "chizu o misete kudasai.",
+        "ta": "வரைபடத்தைக் காட்டுங்கள்.",
+        "en": "Please show me the map."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-411",
+    "expression": "ちょっと",
+    "reading": "ちょっと",
+    "romaji": "chotto",
+    "en": "a little, a moment",
+    "ta": "கொஞ்சம், சற்று",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "ちょっと待ってください。",
+        "reading": "ちょっと まって ください。",
+        "romaji": "chotto matte kudasai.",
+        "ta": "கொஞ்சம் காத்திருங்கள்.",
+        "en": "Please wait a moment."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-415",
+    "expression": "次",
+    "reading": "つぎ",
+    "romaji": "tsugi",
+    "en": "next",
+    "ta": "அடுத்த",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "次の角を右へ曲がってください。",
+        "reading": "つぎの かどを みぎへ まがって ください。",
+        "romaji": "tsugi no kado o migi e magatte kudasai.",
+        "ta": "அடுத்த முனையில் வலது பக்கம் திரும்புங்கள்.",
+        "en": "Please turn right at the next corner."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-419",
+    "expression": "つける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "en": "to turn on",
+    "ta": "(விளக்கு, கருவி) போட, ஆன் செய்ய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "テープレコーダーをつけてください。",
+        "reading": "テープレコーダーを つけて ください。",
+        "romaji": "teepurekoodaa o tsukete kudasai.",
+        "ta": "டேப் ரெக்கார்டரை ஆன் செய்யுங்கள்.",
+        "en": "Please turn on the tape recorder."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-425",
+    "expression": "テープ",
+    "reading": "テープ",
+    "romaji": "teepu",
+    "en": "tape",
+    "ta": "டேப் (ஒலிநாடா)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本語のテープを聞いています。",
+        "reading": "にほんごの テープを きいて います。",
+        "romaji": "nihongo no teepu o kiite imasu.",
+        "ta": "ஜப்பானிய மொழி டேப்பைக் கேட்டுக்கொண்டிருக்கிறேன்.",
+        "en": "I am listening to a Japanese tape."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-426",
+    "expression": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "romaji": "teepurekoodaa",
+    "en": "tape recorder",
+    "ta": "டேப் ரெக்கார்டர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "教室にテープレコーダーが一台あります。",
+        "reading": "きょうしつに テープレコーダーが いちだい あります。",
+        "romaji": "kyoushitsu ni teepurekoodaa ga ichidai arimasu.",
+        "ta": "வகுப்பறையில் ஒரு டேப் ரெக்கார்டர் இருக்கிறது.",
+        "en": "There is one tape recorder in the classroom."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-468",
+    "expression": "止まる",
+    "reading": "とまる",
+    "romaji": "tomaru",
+    "en": "to stop",
+    "ta": "நிற்க (வாகனம்)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "このバスは駅の前に止まります。",
+        "reading": "この バスは えきの まえに とまります。",
+        "romaji": "kono basu wa eki no mae ni tomarimasu.",
+        "ta": "இந்த பஸ் ஸ்டேஷன் முன்னால் நிற்கும்.",
+        "en": "This bus stops in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-588",
+    "expression": "降る",
+    "reading": "ふる",
+    "romaji": "furu",
+    "en": "to fall (rain, snow)",
+    "ta": "(மழை, பனி) பெய்ய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "今、雨が降っています。",
+        "reading": "いま、あめが ふって います。",
+        "romaji": "ima, ame ga futte imasu.",
+        "ta": "இப்போது மழை பெய்துகொண்டிருக்கிறது.",
+        "en": "It is raining now."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-623",
+    "expression": "曲る",
+    "reading": "まがる",
+    "romaji": "magaru",
+    "en": "to turn",
+    "ta": "திரும்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "あの角を左へ曲がってください。",
+        "reading": "あの かどを ひだりへ まがって ください。",
+        "romaji": "ano kado o hidari e magatte kudasai.",
+        "ta": "அந்த முனையில் இடது பக்கம் திரும்புங்கள்.",
+        "en": "Please turn left at that corner."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-628",
+    "expression": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "en": "to wait",
+    "ta": "காத்திருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "駅で友達を待っています。",
+        "reading": "えきで ともだちを まって います。",
+        "romaji": "eki de tomodachi o matte imasu.",
+        "ta": "ஸ்டேஷனில் நண்பருக்காகக் காத்திருக்கிறேன்.",
+        "en": "I am waiting for a friend at the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-629",
+    "expression": "まっすぐ",
+    "reading": "まっすぐ",
+    "romaji": "massugu",
+    "en": "straight ahead",
+    "ta": "நேராக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "まっすぐ行ってください。",
+        "reading": "まっすぐ いって ください。",
+        "romaji": "massugu itte kudasai.",
+        "ta": "நேராகப் போங்கள்.",
+        "en": "Please go straight ahead."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-640",
+    "expression": "見せる",
+    "reading": "みせる",
+    "romaji": "miseru",
+    "en": "to show",
+    "ta": "காட்ட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "写真を見せてください。",
+        "reading": "しゃしんを みせて ください。",
+        "romaji": "shashin o misete kudasai.",
+        "ta": "புகைப்படத்தைக் காட்டுங்கள்.",
+        "en": "Please show me the photo."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-662",
+    "expression": "もっと",
+    "reading": "もっと",
+    "romaji": "motto",
+    "en": "more",
+    "ta": "இன்னும், மேலும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "もっと大きいのを見せてください。",
+        "reading": "もっと おおきいのを みせて ください。",
+        "romaji": "motto ookii no o misete kudasai.",
+        "ta": "இன்னும் பெரியதைக் காட்டுங்கள்.",
+        "en": "Please show me a bigger one."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-682",
+    "expression": "ゆっくりと",
+    "reading": "ゆっくりと",
+    "romaji": "yukkurito",
+    "en": "slowly",
+    "ta": "மெதுவாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "ゆっくりと歩いてください。",
+        "reading": "ゆっくりと あるいて ください。",
+        "romaji": "yukkurito aruite kudasai.",
+        "ta": "மெதுவாக நடங்கள்.",
+        "en": "Please walk slowly."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-689",
+    "expression": "呼ぶ",
+    "reading": "よぶ",
+    "romaji": "yobu",
+    "en": "to call (someone)",
+    "ta": "அழைக்க, கூப்பிட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "タクシーを呼びましょうか。",
+        "reading": "タクシーを よびましょうか。",
+        "romaji": "takushii o yobimashou ka.",
+        "ta": "டாக்ஸியைக் கூப்பிடட்டுமா?",
+        "en": "Shall I call a taxi?"
+      }
+    ]
+  }
+]

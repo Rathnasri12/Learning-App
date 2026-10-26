@@ -1,0 +1,302 @@
+[
+  {
+    "id": "n5-v-052",
+    "expression": "池",
+    "reading": "いけ",
+    "romaji": "ike",
+    "en": "pond",
+    "ta": "குளம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "公園の 池に 魚が います。", "reading": "こうえんの いけに さかなが います。", "romaji": "kouen no ike ni sakana ga imasu.", "ta": "பூங்காவின் குளத்தில் மீன்கள் இருக்கின்றன.", "en": "There are fish in the park pond." }
+    ]
+  },
+  {
+    "id": "n5-v-080",
+    "expression": "歌う",
+    "reading": "うたう",
+    "romaji": "utau",
+    "en": "to sing",
+    "ta": "பாட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "友達と 日本の 歌を 歌いました。", "reading": "ともだちと にほんの うたを うたいました。", "romaji": "tomodachi to nihon no uta o utaimashita.", "ta": "நண்பர்களுடன் ஜப்பானியப் பாடல் பாடினேன்.", "en": "I sang Japanese songs with friends." }
+    ]
+  },
+  {
+    "id": "n5-v-082",
+    "expression": "生まれる",
+    "reading": "うまれる",
+    "romaji": "umareru",
+    "en": "to be born",
+    "ta": "பிறக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "私は マドゥライで 生まれました。", "reading": "わたしは マドゥライで うまれました。", "romaji": "watashi wa madurai de umaremashita.", "ta": "நான் மதுரையில் பிறந்தேன்.", "en": "I was born in Madurai." }
+    ]
+  },
+  {
+    "id": "n5-v-083",
+    "expression": "海",
+    "reading": "うみ",
+    "romaji": "umi",
+    "en": "sea; beach",
+    "ta": "கடல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夏休みに 海で 泳ぎました。", "reading": "なつやすみに うみで およぎました。", "romaji": "natsuyasumi ni umi de oyogimashita.", "ta": "கோடை விடுமுறையில் கடலில் நீந்தினேன்.", "en": "I swam in the sea during the summer holidays." }
+    ]
+  },
+  {
+    "id": "n5-v-121",
+    "expression": "一昨日",
+    "reading": "おととい",
+    "romaji": "ototoi",
+    "en": "day before yesterday",
+    "ta": "நேற்று முன்தினம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "一昨日 図書館へ 行きました。", "reading": "おととい としょかんへ いきました。", "romaji": "ototoi toshokan e ikimashita.", "ta": "நேற்று முன்தினம் நூலகத்துக்குப் போனேன்.", "en": "I went to the library the day before yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-122",
+    "expression": "おととし",
+    "reading": "おととし",
+    "romaji": "ototoshi",
+    "en": "year before last",
+    "ta": "முந்தைய வருடத்துக்கு முந்தைய வருடம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "おととし 日本へ 来ました。", "reading": "おととし にほんへ きました。", "romaji": "ototoshi nihon e kimashita.", "ta": "இரண்டு வருடங்களுக்கு முன் ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan the year before last." }
+    ]
+  },
+  {
+    "id": "n5-v-123",
+    "expression": "大人",
+    "reading": "おとな",
+    "romaji": "otona",
+    "en": "adult",
+    "ta": "பெரியவர் (வயது வந்தவர்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "大人の 切符は 二百円です。", "reading": "おとなの きっぷは にひゃくえんです。", "romaji": "otona no kippu wa nihyaku en desu.", "ta": "பெரியவர்களுக்கான டிக்கெட் இருநூறு யென்.", "en": "An adult ticket is 200 yen." }
+    ]
+  },
+  {
+    "id": "n5-v-189",
+    "expression": "木",
+    "reading": "き",
+    "romaji": "ki",
+    "en": "tree",
+    "ta": "மரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "庭に 大きい 木が あります。", "reading": "にわに おおきい きが あります。", "romaji": "niwa ni ookii ki ga arimasu.", "ta": "தோட்டத்தில் ஒரு பெரிய மரம் இருக்கிறது.", "en": "There is a big tree in the garden." }
+    ]
+  },
+  {
+    "id": "n5-v-207",
+    "expression": "去年",
+    "reading": "きょねん",
+    "romaji": "kyonen",
+    "en": "last year",
+    "ta": "போன வருடம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "去年 京都を 旅行しました。", "reading": "きょねん きょうとを りょこうしました。", "romaji": "kyonen kyouto o ryokou shimashita.", "ta": "போன வருடம் கியோட்டோவுக்குப் பயணம் செய்தேன்.", "en": "I travelled around Kyoto last year." }
+    ]
+  },
+  {
+    "id": "n5-v-279",
+    "expression": "咲く",
+    "reading": "さく",
+    "romaji": "saku",
+    "en": "to bloom",
+    "ta": "பூக்க (மலர)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "公園で 花が たくさん 咲いています。", "reading": "こうえんで はなが たくさん さいています。", "romaji": "kouen de hana ga takusan saite imasu.", "ta": "பூங்காவில் நிறையப் பூக்கள் பூத்திருக்கின்றன.", "en": "Lots of flowers are blooming in the park." }
+    ]
+  },
+  {
+    "id": "n5-v-304",
+    "expression": "死ぬ",
+    "reading": "しぬ",
+    "romaji": "shinu",
+    "en": "to die",
+    "ta": "இறக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "うちの 犬は 去年 死にました。", "reading": "うちの いぬは きょねん しにました。", "romaji": "uchi no inu wa kyonen shinimashita.", "ta": "எங்கள் வீட்டு நாய் போன வருடம் இறந்துவிட்டது.", "en": "Our dog died last year." }
+    ]
+  },
+  {
+    "id": "n5-v-320",
+    "expression": "丈夫",
+    "reading": "じょうぶ",
+    "romaji": "joubu",
+    "en": "strong; sturdy",
+    "ta": "உறுதியான (திடமான)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "この かばんは 丈夫です。", "reading": "この かばんは じょうぶです。", "romaji": "kono kaban wa joubu desu.", "ta": "இந்தப் பை உறுதியானது.", "en": "This bag is sturdy." }
+    ]
+  },
+  {
+    "id": "n5-v-367",
+    "expression": "空",
+    "reading": "そら",
+    "romaji": "sora",
+    "en": "sky",
+    "ta": "வானம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日は 空が 青くて、きれいです。", "reading": "きょうは そらが あおくて、きれいです。", "romaji": "kyou wa sora ga aokute, kirei desu.", "ta": "இன்று வானம் நீலமாகவும் அழகாகவும் இருக்கிறது.", "en": "The sky is blue and beautiful today." }
+    ]
+  },
+  {
+    "id": "n5-v-398",
+    "expression": "段々",
+    "reading": "だんだん",
+    "romaji": "dandan",
+    "en": "gradually",
+    "ta": "கொஞ்சம் கொஞ்சமாக (படிப்படியாக)",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "段々 寒く なりました。", "reading": "だんだん さむく なりました。", "romaji": "dandan samuku narimashita.", "ta": "கொஞ்சம் கொஞ்சமாகக் குளிராகிவிட்டது.", "en": "It has gradually got colder." }
+    ]
+  },
+  {
+    "id": "n5-v-458",
+    "expression": "所",
+    "reading": "ところ",
+    "romaji": "tokoro",
+    "en": "place",
+    "ta": "இடம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "ここは 静かで、いい 所ですね。", "reading": "ここは しずかで、いい ところですね。", "romaji": "koko wa shizuka de, ii tokoro desu ne.", "ta": "இது அமைதியான, நல்ல இடமே.", "en": "This is a quiet, nice place, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-459",
+    "expression": "年",
+    "reading": "とし",
+    "romaji": "toshi",
+    "en": "year; age",
+    "ta": "வருடம் (வயது)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "兄は 私より 年が 三つ 上です。", "reading": "あには わたしより としが みっつ うえです。", "romaji": "ani wa watashi yori toshi ga mittsu ue desu.", "ta": "அண்ணன் என்னைவிட மூன்று வயது மூத்தவர்.", "en": "My older brother is three years older than me." }
+    ]
+  },
+  {
+    "id": "n5-v-482",
+    "expression": "無くす",
+    "reading": "なくす",
+    "romaji": "nakusu",
+    "en": "to lose (something)",
+    "ta": "தொலைக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "昨日 財布を 無くしました。", "reading": "きのう さいふを なくしました。", "romaji": "kinou saifu o nakushimashita.", "ta": "நேற்று பர்ஸைத் தொலைத்துவிட்டேன்.", "en": "I lost my wallet yesterday." }
+    ]
+  },
+  {
+    "id": "n5-v-485",
+    "expression": "夏休み",
+    "reading": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "en": "summer holidays",
+    "ta": "கோடை விடுமுறை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夏休みは 七月から 八月までです。", "reading": "なつやすみは しちがつから はちがつまでです。", "romaji": "natsuyasumi wa shichigatsu kara hachigatsu made desu.", "ta": "கோடை விடுமுறை ஜூலை முதல் ஆகஸ்ட் வரை.", "en": "The summer holidays are from July to August." }
+    ]
+  },
+  {
+    "id": "n5-v-494",
+    "expression": "なる",
+    "reading": "なる",
+    "romaji": "naru",
+    "en": "to become",
+    "ta": "ஆக (மாற)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "弟は 医者に なりました。", "reading": "おとうとは いしゃに なりました。", "romaji": "otouto wa isha ni narimashita.", "ta": "தம்பி மருத்துவர் ஆனான்.", "en": "My younger brother became a doctor." }
+    ]
+  },
+  {
+    "id": "n5-v-530",
+    "expression": "初めて",
+    "reading": "はじめて",
+    "romaji": "hajimete",
+    "en": "for the first time",
+    "ta": "முதல் முறையாக",
+    "pos": "adverb",
+    "examples": [
+      { "ja": "去年 初めて 雪を 見ました。", "reading": "きょねん はじめて ゆきを みました。", "romaji": "kyonen hajimete yuki o mimashita.", "ta": "போன வருடம் முதல் முறையாகப் பனியைப் பார்த்தேன்.", "en": "Last year I saw snow for the first time." }
+    ]
+  },
+  {
+    "id": "n5-v-654",
+    "expression": "村",
+    "reading": "むら",
+    "romaji": "mura",
+    "en": "village",
+    "ta": "கிராமம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "父は 小さい 村に 住んでいます。", "reading": "ちちは ちいさい むらに すんでいます。", "romaji": "chichi wa chiisai mura ni sunde imasu.", "ta": "அப்பா ஒரு சிறிய கிராமத்தில் வசிக்கிறார்.", "en": "My father lives in a small village." }
+    ]
+  },
+  {
+    "id": "n5-v-674",
+    "expression": "山",
+    "reading": "やま",
+    "romaji": "yama",
+    "en": "mountain",
+    "ta": "மலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "富士山は 日本で 一番 高い 山です。", "reading": "ふじさんは にほんで いちばん たかい やまです。", "romaji": "fujisan wa nihon de ichiban takai yama desu.", "ta": "புஜி மலை ஜப்பானிலேயே மிக உயரமான மலை.", "en": "Mt Fuji is the highest mountain in Japan." }
+    ]
+  },
+  {
+    "id": "n5-v-679",
+    "expression": "昨夜",
+    "reading": "ゆうべ",
+    "romaji": "yuube",
+    "en": "last night",
+    "ta": "நேற்று இரவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨夜 遅くまで 勉強しました。", "reading": "ゆうべ おそくまで べんきょうしました。", "romaji": "yuube osoku made benkyou shimashita.", "ta": "நேற்று இரவு தாமதம் வரை படித்தேன்.", "en": "I studied until late last night." }
+    ]
+  },
+  {
+    "id": "n5-v-698",
+    "expression": "りっぱ",
+    "reading": "りっぱ",
+    "romaji": "rippa",
+    "en": "splendid; fine",
+    "ta": "சிறப்பான (பிரமாண்டமான)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "これは りっぱな 建物ですね。", "reading": "これは りっぱな たてものですね。", "romaji": "kore wa rippa na tatemono desu ne.", "ta": "இது பிரமாண்டமான கட்டிடமே.", "en": "This is a splendid building, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-702",
+    "expression": "旅行",
+    "reading": "りょこう",
+    "romaji": "ryokou",
+    "en": "trip; travel",
+    "ta": "பயணம் (சுற்றுலா)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夏休みに 家族と 旅行します。", "reading": "なつやすみに かぞくと りょこうします。", "romaji": "natsuyasumi ni kazoku to ryokou shimasu.", "ta": "கோடை விடுமுறையில் குடும்பத்துடன் பயணம் போகிறேன்.", "en": "I am going on a trip with my family in the summer holidays." }
+    ]
+  }
+]

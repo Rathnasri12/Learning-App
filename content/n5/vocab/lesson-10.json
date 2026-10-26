@@ -1,0 +1,578 @@
+[
+  {
+    "id": "n5-v-040",
+    "expression": "在る",
+    "reading": "ある",
+    "romaji": "aru",
+    "en": "to be, to exist (things)",
+    "ta": "இருக்க (உயிரற்ற பொருள்)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "机の 上に 本が あります。",
+        "reading": "つくえの うえに ほんが あります。",
+        "romaji": "tsukue no ue ni hon ga arimasu.",
+        "ta": "மேசையின் மேல் புத்தகம் இருக்கிறது.",
+        "en": "There is a book on the desk."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-047",
+    "expression": "家",
+    "reading": "いえ",
+    "romaji": "ie",
+    "en": "house",
+    "ta": "வீடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの 白い 家は 田中さんの 家です。",
+        "reading": "あの しろい いえは たなかさんの いえです。",
+        "romaji": "ano shiroi ie wa tanaka san no ie desu.",
+        "ta": "அந்த வெள்ளை வீடு தனாகா அவர்களின் வீடு.",
+        "en": "That white house is Mr. Tanaka's house."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-054",
+    "expression": "椅子",
+    "reading": "いす",
+    "romaji": "isu",
+    "en": "chair",
+    "ta": "நாற்காலி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "椅子の 下に 猫が います。",
+        "reading": "いすの したに ねこが います。",
+        "romaji": "isu no shita ni neko ga imasu.",
+        "ta": "நாற்காலியின் கீழ் பூனை இருக்கிறது.",
+        "en": "There is a cat under the chair."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-065",
+    "expression": "犬",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "en": "dog",
+    "ta": "நாய்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "庭に 犬が います。",
+        "reading": "にわに いぬが います。",
+        "romaji": "niwa ni inu ga imasu.",
+        "ta": "தோட்டத்தில் நாய் இருக்கிறது.",
+        "en": "There is a dog in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-071",
+    "expression": "居る",
+    "reading": "いる",
+    "romaji": "iru",
+    "en": "to be, to exist (living things)",
+    "ta": "இருக்க (உயிருள்ளவை)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "教室に 先生が います。",
+        "reading": "きょうしつに せんせいが います。",
+        "romaji": "kyoushitsu ni sensei ga imasu.",
+        "ta": "வகுப்பறையில் ஆசிரியர் இருக்கிறார்.",
+        "en": "The teacher is in the classroom."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-076",
+    "expression": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "en": "on, above",
+    "ta": "மேல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "テーブルの 上に コップが あります。",
+        "reading": "テーブルの うえに コップが あります。",
+        "romaji": "teeburu no ue ni koppu ga arimasu.",
+        "ta": "மேசையின் மேல் டம்ளர் இருக்கிறது.",
+        "en": "There is a glass on the table."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-077",
+    "expression": "後ろ",
+    "reading": "うしろ",
+    "romaji": "ushiro",
+    "en": "behind",
+    "ta": "பின்னால்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ドアの 後ろに 傘が あります。",
+        "reading": "ドアの うしろに かさが あります。",
+        "romaji": "doa no ushiro ni kasa ga arimasu.",
+        "ta": "கதவின் பின்னால் குடை இருக்கிறது.",
+        "en": "There is an umbrella behind the door."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-081",
+    "expression": "うち",
+    "reading": "うち",
+    "romaji": "uchi",
+    "en": "home, my house",
+    "ta": "வீடு (என் வீடு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "うちに 犬と 猫が います。",
+        "reading": "うちに いぬと ねこが います。",
+        "romaji": "uchi ni inu to neko ga imasu.",
+        "ta": "எங்கள் வீட்டில் நாயும் பூனையும் இருக்கின்றன.",
+        "en": "We have a dog and a cat at home."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-240",
+    "expression": "玄関",
+    "reading": "げんかん",
+    "romaji": "genkan",
+    "en": "entrance (of a house)",
+    "ta": "வாசல் (நுழைவிடம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "玄関に 父の 傘が あります。",
+        "reading": "げんかんに ちちの かさが あります。",
+        "romaji": "genkan ni chichi no kasa ga arimasu.",
+        "ta": "வாசலில் அப்பாவின் குடை இருக்கிறது.",
+        "en": "My father's umbrella is in the entrance."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-299",
+    "expression": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "en": "under, below",
+    "ta": "கீழ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ベッドの 下に かばんが あります。",
+        "reading": "ベッドの したに かばんが あります。",
+        "romaji": "beddo no shita ni kaban ga arimasu.",
+        "ta": "கட்டிலின் கீழ் பை இருக்கிறது.",
+        "en": "There is a bag under the bed."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-377",
+    "expression": "台所",
+    "reading": "だいどころ",
+    "romaji": "daidokoro",
+    "en": "kitchen",
+    "ta": "சமையலறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は 台所に います。",
+        "reading": "ははは だいどころに います。",
+        "romaji": "haha wa daidokoro ni imasu.",
+        "ta": "அம்மா சமையலறையில் இருக்கிறார்.",
+        "en": "My mother is in the kitchen."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-403",
+    "expression": "近く",
+    "reading": "ちかく",
+    "romaji": "chikaku",
+    "en": "nearby, near",
+    "ta": "அருகில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の 近くに 銀行が あります。",
+        "reading": "えきの ちかくに ぎんこうが あります。",
+        "romaji": "eki no chikaku ni ginkou ga arimasu.",
+        "ta": "ஸ்டேஷன் அருகில் வங்கி இருக்கிறது.",
+        "en": "There is a bank near the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-417",
+    "expression": "机",
+    "reading": "つくえ",
+    "romaji": "tsukue",
+    "en": "desk",
+    "ta": "மேசை (எழுதும்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "机の 中に 鉛筆が あります。",
+        "reading": "つくえの なかに えんぴつが あります。",
+        "romaji": "tsukue no naka ni enpitsu ga arimasu.",
+        "ta": "மேசைக்குள் பென்சில் இருக்கிறது.",
+        "en": "There is a pencil in the desk."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-427",
+    "expression": "テーブル",
+    "reading": "テーブル",
+    "romaji": "teeburu",
+    "en": "table",
+    "ta": "மேசை (சாப்பாட்டு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "テーブルの 上に お皿が あります。",
+        "reading": "テーブルの うえに おさらが あります。",
+        "romaji": "teeburu no ue ni osara ga arimasu.",
+        "ta": "மேசையின் மேல் தட்டு இருக்கிறது.",
+        "en": "There is a plate on the table."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-444",
+    "expression": "ドア",
+    "reading": "ドア",
+    "romaji": "doa",
+    "en": "door",
+    "ta": "கதவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ドアの 前に 誰か いますよ。",
+        "reading": "ドアの まえに だれか いますよ。",
+        "romaji": "doa no mae ni dareka imasu yo.",
+        "ta": "கதவுக்கு முன்னால் யாரோ இருக்கிறார்கள்!",
+        "en": "There's someone in front of the door."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-445",
+    "expression": "トイレ",
+    "reading": "トイレ",
+    "romaji": "toire",
+    "en": "toilet",
+    "ta": "கழிவறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、トイレは どこに ありますか。",
+        "reading": "すみません、トイレは どこに ありますか。",
+        "romaji": "sumimasen, toire wa doko ni arimasu ka.",
+        "ta": "மன்னிக்கவும், கழிவறை எங்கே இருக்கிறது?",
+        "en": "Excuse me, where is the toilet?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-465",
+    "expression": "隣",
+    "reading": "となり",
+    "romaji": "tonari",
+    "en": "next to, next door",
+    "ta": "பக்கத்தில் (அடுத்து)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "銀行の 隣に 郵便局が あります。",
+        "reading": "ぎんこうの となりに ゆうびんきょくが あります。",
+        "romaji": "ginkou no tonari ni yuubinkyoku ga arimasu.",
+        "ta": "வங்கியின் பக்கத்தில் தபால் நிலையம் இருக்கிறது.",
+        "en": "There is a post office next to the bank."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-471",
+    "expression": "鳥",
+    "reading": "とり",
+    "romaji": "tori",
+    "en": "bird",
+    "ta": "பறவை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "窓の 近くに 鳥が います。",
+        "reading": "まどの ちかくに とりが います。",
+        "romaji": "mado no chikaku ni tori ga imasu.",
+        "ta": "ஜன்னல் அருகில் பறவை இருக்கிறது.",
+        "en": "There is a bird near the window."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-479",
+    "expression": "中",
+    "reading": "なか",
+    "romaji": "naka",
+    "en": "inside",
+    "ta": "உள்ளே",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冷蔵庫の 中に 牛乳が あります。",
+        "reading": "れいぞうこの なかに ぎゅうにゅうが あります。",
+        "romaji": "reizouko no naka ni gyuunyuu ga arimasu.",
+        "ta": "குளிர்சாதனப் பெட்டிக்குள் பால் இருக்கிறது.",
+        "en": "There is milk in the refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-486",
+    "expression": "～など",
+    "reading": "～など",
+    "romaji": "～nado",
+    "en": "and so on, etc.",
+    "ta": "போன்றவை (முதலியன)",
+    "pos": "particle",
+    "examples": [
+      {
+        "ja": "部屋に 机や 椅子などが あります。",
+        "reading": "へやに つくえや いすなどが あります。",
+        "romaji": "heya ni tsukue ya isu nado ga arimasu.",
+        "ta": "அறையில் மேசை, நாற்காலி போன்றவை இருக்கின்றன.",
+        "en": "There are desks, chairs and so on in the room."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-504",
+    "expression": "庭",
+    "reading": "にわ",
+    "romaji": "niwa",
+    "en": "garden",
+    "ta": "தோட்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "庭に きれいな 花が あります。",
+        "reading": "にわに きれいな はなが あります。",
+        "romaji": "niwa ni kirei na hana ga arimasu.",
+        "ta": "தோட்டத்தில் அழகான பூக்கள் இருக்கின்றன.",
+        "en": "There are pretty flowers in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-509",
+    "expression": "猫",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "en": "cat",
+    "ta": "பூனை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "猫は ベッドの 上に います。",
+        "reading": "ねこは ベッドの うえに います。",
+        "romaji": "neko wa beddo no ue ni imasu.",
+        "ta": "பூனை கட்டிலின் மேல் இருக்கிறது.",
+        "en": "The cat is on the bed."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-563",
+    "expression": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "en": "left",
+    "ta": "இடது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "トイレは 階段の 左に あります。",
+        "reading": "トイレは かいだんの ひだりに あります。",
+        "romaji": "toire wa kaidan no hidari ni arimasu.",
+        "ta": "கழிவறை படிக்கட்டின் இடது பக்கம் இருக்கிறது.",
+        "en": "The toilet is to the left of the stairs."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-594",
+    "expression": "ベッド",
+    "reading": "ベッド",
+    "romaji": "beddo",
+    "en": "bed",
+    "ta": "கட்டில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の 部屋に 大きい ベッドが あります。",
+        "reading": "わたしの へやに おおきい ベッドが あります。",
+        "romaji": "watashi no heya ni ookii beddo ga arimasu.",
+        "ta": "என் அறையில் பெரிய கட்டில் இருக்கிறது.",
+        "en": "There is a big bed in my room."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-595",
+    "expression": "ペット",
+    "reading": "ペット",
+    "romaji": "petto",
+    "en": "pet",
+    "ta": "செல்லப்பிராணி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "うちに ペットが いますか。",
+        "reading": "うちに ペットが いますか。",
+        "romaji": "uchi ni petto ga imasu ka.",
+        "ta": "உங்கள் வீட்டில் செல்லப்பிராணி இருக்கிறதா?",
+        "en": "Do you have a pet at home?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-596",
+    "expression": "部屋",
+    "reading": "へや",
+    "romaji": "heya",
+    "en": "room",
+    "ta": "அறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は 部屋に いません。",
+        "reading": "あには へやに いません。",
+        "romaji": "ani wa heya ni imasen.",
+        "ta": "அண்ணன் அறையில் இல்லை.",
+        "en": "My older brother isn't in his room."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-612",
+    "expression": "本棚",
+    "reading": "ほんだな",
+    "romaji": "hondana",
+    "en": "bookshelf",
+    "ta": "புத்தக அலமாரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "本棚に 日本語の 本が たくさん あります。",
+        "reading": "ほんだなに にほんごの ほんが たくさん あります。",
+        "romaji": "hondana ni nihongo no hon ga takusan arimasu.",
+        "ta": "புத்தக அலமாரியில் நிறைய ஜப்பானிய மொழிப் புத்தகங்கள் இருக்கின்றன.",
+        "en": "There are lots of Japanese books on the bookshelf."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-621",
+    "expression": "前",
+    "reading": "まえ",
+    "romaji": "mae",
+    "en": "in front of",
+    "ta": "முன்னால்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の 前に 喫茶店が あります。",
+        "reading": "えきの まえに きっさてんが あります。",
+        "romaji": "eki no mae ni kissaten ga arimasu.",
+        "ta": "ஸ்டேஷன் முன்னால் கபே இருக்கிறது.",
+        "en": "There is a café in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-631",
+    "expression": "窓",
+    "reading": "まど",
+    "romaji": "mado",
+    "en": "window",
+    "ta": "ஜன்னல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "窓の 近くに 机が あります。",
+        "reading": "まどの ちかくに つくえが あります。",
+        "romaji": "mado no chikaku ni tsukue ga arimasu.",
+        "ta": "ஜன்னல் அருகில் மேசை இருக்கிறது.",
+        "en": "There is a desk near the window."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-636",
+    "expression": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "en": "right",
+    "ta": "வலது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "郵便局は 銀行の 右に あります。",
+        "reading": "ゆうびんきょくは ぎんこうの みぎに あります。",
+        "romaji": "yuubinkyoku wa ginkou no migi ni arimasu.",
+        "ta": "தபால் நிலையம் வங்கியின் வலது பக்கம் இருக்கிறது.",
+        "en": "The post office is to the right of the bank."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-664",
+    "expression": "門",
+    "reading": "もん",
+    "romaji": "mon",
+    "en": "gate",
+    "ta": "வாயில் (கேட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "門の 前に 車が あります。",
+        "reading": "もんの まえに くるまが あります。",
+        "romaji": "mon no mae ni kuruma ga arimasu.",
+        "ta": "கேட்டின் முன்னால் கார் இருக்கிறது.",
+        "en": "There is a car in front of the gate."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-704",
+    "expression": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "romaji": "reizouko",
+    "en": "refrigerator",
+    "ta": "குளிர்சாதனப் பெட்டி (ஃப்ரிட்ஜ்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冷蔵庫は 台所に あります。",
+        "reading": "れいぞうこは だいどころに あります。",
+        "romaji": "reizouko wa daidokoro ni arimasu.",
+        "ta": "ஃப்ரிட்ஜ் சமையலறையில் இருக்கிறது.",
+        "en": "The refrigerator is in the kitchen."
+      }
+    ]
+  }
+]

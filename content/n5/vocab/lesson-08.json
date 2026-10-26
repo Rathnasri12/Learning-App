@@ -1,0 +1,542 @@
+[
+  {
+    "id": "n5-v-004",
+    "expression": "青い",
+    "reading": "あおい",
+    "romaji": "aoi",
+    "en": "blue",
+    "ta": "நீலமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 青い かばんは 私のです。",
+        "reading": "この あおい かばんは わたしのです。",
+        "romaji": "kono aoi kaban wa watashi no desu.",
+        "ta": "இந்த நீலப் பை என்னுடையது.",
+        "en": "This blue bag is mine."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-006",
+    "expression": "赤い",
+    "reading": "あかい",
+    "romaji": "akai",
+    "en": "red",
+    "ta": "சிவப்பான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "母に 赤い 花を あげました。",
+        "reading": "ははに あかい はなを あげました。",
+        "romaji": "haha ni akai hana o agemashita.",
+        "ta": "அம்மாவுக்குச் சிவப்புப் பூ கொடுத்தேன்.",
+        "en": "I gave my mother red flowers."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-021",
+    "expression": "新しい",
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "en": "new",
+    "ta": "புதிய",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "これは 新しい カメラです。",
+        "reading": "これは あたらしい カメラです。",
+        "romaji": "kore wa atarashii kamera desu.",
+        "ta": "இது புதிய கேமரா.",
+        "en": "This is a new camera."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-023",
+    "expression": "暑い",
+    "reading": "あつい",
+    "romaji": "atsui",
+    "en": "hot (weather)",
+    "ta": "வெப்பமான (வானிலை)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "チェンナイは とても 暑いです。",
+        "reading": "チェンナイは とても あついです。",
+        "romaji": "chennai wa totemo atsui desu.",
+        "ta": "சென்னை மிகவும் வெப்பமாக இருக்கிறது.",
+        "en": "Chennai is very hot."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-024",
+    "expression": "熱い",
+    "reading": "あつい",
+    "romaji": "atsui",
+    "en": "hot (to the touch)",
+    "ta": "சூடான (பொருள்)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この お茶は 熱いです。",
+        "reading": "この おちゃは あついです。",
+        "romaji": "kono ocha wa atsui desu.",
+        "ta": "இந்தத் தேநீர் சூடாக இருக்கிறது.",
+        "en": "This tea is hot."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-044",
+    "expression": "いい; よい",
+    "reading": "いい; よい",
+    "romaji": "ii;yoi",
+    "en": "good",
+    "ta": "நல்ல",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この カメラは いいですね。",
+        "reading": "この カメラは いいですね。",
+        "romaji": "kono kamera wa ii desu ne.",
+        "ta": "இந்தக் கேமரா நன்றாக இருக்கிறது, இல்லையா?",
+        "en": "This camera is good, isn't it?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-055",
+    "expression": "忙しい",
+    "reading": "いそがしい",
+    "romaji": "isogashii",
+    "en": "busy",
+    "ta": "வேலை மிகுந்த (பிஸியான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "父は 毎日 忙しいです。",
+        "reading": "ちちは まいにち いそがしいです。",
+        "romaji": "chichi wa mainichi isogashii desu.",
+        "ta": "அப்பா தினமும் பிஸியாக இருக்கிறார்.",
+        "en": "My father is busy every day."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-097",
+    "expression": "美味しい",
+    "reading": "おいしい",
+    "romaji": "oishii",
+    "en": "delicious",
+    "ta": "சுவையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 店の コーヒーは 美味しいです。",
+        "reading": "この みせの コーヒーは おいしいです。",
+        "romaji": "kono mise no koohii wa oishii desu.",
+        "ta": "இந்தக் கடையின் காபி சுவையாக இருக்கிறது.",
+        "en": "This shop's coffee is delicious."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-099",
+    "expression": "大きい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "en": "big",
+    "ta": "பெரிய",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "あれは 大きい 病院です。",
+        "reading": "あれは おおきい びょういんです。",
+        "romaji": "are wa ookii byouin desu.",
+        "ta": "அது பெரிய மருத்துவமனை.",
+        "en": "That is a big hospital."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-135",
+    "expression": "面白い",
+    "reading": "おもしろい",
+    "romaji": "omoshiroi",
+    "en": "interesting, funny",
+    "ta": "சுவாரஸ்யமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 映画は 面白いです。",
+        "reading": "この えいがは おもしろいです。",
+        "romaji": "kono eiga wa omoshiroi desu.",
+        "ta": "இந்தப் படம் சுவாரஸ்யமாக இருக்கிறது.",
+        "en": "This movie is interesting."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-185",
+    "expression": "川; 河",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "en": "river",
+    "ta": "ஆறு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの 川は とても きれいです。",
+        "reading": "あの かわは とても きれいです。",
+        "romaji": "ano kawa wa totemo kirei desu.",
+        "ta": "அந்த ஆறு மிகவும் அழகாக இருக்கிறது.",
+        "en": "That river is very beautiful."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-211",
+    "expression": "綺麗",
+    "reading": "きれい",
+    "romaji": "kirei",
+    "en": "pretty, clean",
+    "ta": "அழகான; சுத்தமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "姉の 時計は きれいです。",
+        "reading": "あねの とけいは きれいです。",
+        "romaji": "ane no tokei wa kirei desu.",
+        "ta": "அக்காவின் கைக்கடிகாரம் அழகாக இருக்கிறது.",
+        "en": "My older sister's watch is pretty."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-233",
+    "expression": "黒い",
+    "reading": "くろい",
+    "romaji": "kuroi",
+    "en": "black",
+    "ta": "கருப்பான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "兄の 車は 黒いです。",
+        "reading": "あにの くるまは くろいです。",
+        "romaji": "ani no kuruma wa kuroi desu.",
+        "ta": "அண்ணனின் கார் கருப்பு.",
+        "en": "My older brother's car is black."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-285",
+    "expression": "寒い",
+    "reading": "さむい",
+    "romaji": "samui",
+    "en": "cold (weather)",
+    "ta": "குளிரான (வானிலை)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "日本の 一月は 寒いです。",
+        "reading": "にほんの いちがつは さむいです。",
+        "romaji": "nihon no ichigatsu wa samui desu.",
+        "ta": "ஜப்பானின் ஜனவரி குளிராக இருக்கும்.",
+        "en": "January in Japan is cold."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-298",
+    "expression": "静か",
+    "reading": "しずか",
+    "romaji": "shizuka",
+    "en": "quiet",
+    "ta": "அமைதியான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この 町は 静かです。",
+        "reading": "この まちは しずかです。",
+        "romaji": "kono machi wa shizuka desu.",
+        "ta": "இந்த ஊர் அமைதியாக இருக்கிறது.",
+        "en": "This town is quiet."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-325",
+    "expression": "白い",
+    "reading": "しろい",
+    "romaji": "shiroi",
+    "en": "white",
+    "ta": "வெள்ளையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "白い 花瓶を 買いました。",
+        "reading": "しろい かびんを かいました。",
+        "romaji": "shiroi kabin o kaimashita.",
+        "ta": "வெள்ளைப் பூஜாடி வாங்கினேன்.",
+        "en": "I bought a white vase."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-379",
+    "expression": "高い",
+    "reading": "たかい",
+    "romaji": "takai",
+    "en": "expensive; tall, high",
+    "ta": "விலை உயர்ந்த; உயரமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 時計は とても 高いです。",
+        "reading": "この とけいは とても たかいです。",
+        "romaji": "kono tokei wa totemo takai desu.",
+        "ta": "இந்தக் கைக்கடிகாரம் மிகவும் விலை உயர்ந்தது.",
+        "en": "This watch is very expensive."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-388",
+    "expression": "楽しい",
+    "reading": "たのしい",
+    "romaji": "tanoshii",
+    "en": "fun, enjoyable",
+    "ta": "மகிழ்ச்சியான (ஜாலியான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "日本語の クラスは 楽しいです。",
+        "reading": "にほんごの クラスは たのしいです。",
+        "romaji": "nihongo no kurasu wa tanoshii desu.",
+        "ta": "ஜப்பானிய மொழி வகுப்பு மகிழ்ச்சியாக இருக்கிறது.",
+        "en": "Japanese class is fun."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-399",
+    "expression": "小さい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "en": "small",
+    "ta": "சிறிய",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "妹は 小さい かばんを 買いました。",
+        "reading": "いもうとは ちいさい かばんを かいました。",
+        "romaji": "imouto wa chiisai kaban o kaimashita.",
+        "ta": "தங்கை சிறிய பை வாங்கினாள்.",
+        "en": "My younger sister bought a small bag."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-446",
+    "expression": "どう",
+    "reading": "どう",
+    "romaji": "dou",
+    "en": "how",
+    "ta": "எப்படி",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "日本の 食べ物は どうですか。",
+        "reading": "にほんの たべものは どうですか。",
+        "romaji": "nihon no tabemono wa dou desu ka.",
+        "ta": "ஜப்பானிய உணவு எப்படி இருக்கிறது?",
+        "en": "How is Japanese food?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-463",
+    "expression": "とても",
+    "reading": "とても",
+    "romaji": "totemo",
+    "en": "very",
+    "ta": "மிகவும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "この お菓子は とても 美味しいです。",
+        "reading": "この おかしは とても おいしいです。",
+        "romaji": "kono okashi wa totemo oishii desu.",
+        "ta": "இந்த இனிப்பு மிகவும் சுவையாக இருக்கிறது.",
+        "en": "This sweet is very delicious."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-475",
+    "expression": "どれ",
+    "reading": "どれ",
+    "romaji": "dore",
+    "en": "which one",
+    "ta": "எது (பலவற்றில்)",
+    "pos": "pronoun",
+    "examples": [
+      {
+        "ja": "あなたの かさは どれですか。",
+        "reading": "あなたの かさは どれですか。",
+        "romaji": "anata no kasa wa dore desu ka.",
+        "ta": "உங்கள் குடை எது?",
+        "en": "Which one is your umbrella?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-476",
+    "expression": "どんな",
+    "reading": "どんな",
+    "romaji": "donna",
+    "en": "what kind of",
+    "ta": "எப்படிப்பட்ட",
+    "pos": "pronoun",
+    "examples": [
+      {
+        "ja": "田中さんは どんな 人ですか。",
+        "reading": "たなかさんは どんな ひとですか。",
+        "romaji": "tanaka san wa donna hito desu ka.",
+        "ta": "தனாகா அவர்கள் எப்படிப்பட்டவர்?",
+        "en": "What kind of person is Mr. Tanaka?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-497",
+    "expression": "にぎやか",
+    "reading": "にぎやか",
+    "romaji": "nigiyaka",
+    "en": "lively, bustling",
+    "ta": "கலகலப்பான (ஜனநெரிசலான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "東京は にぎやかです。",
+        "reading": "とうきょうは にぎやかです。",
+        "romaji": "toukyou wa nigiyaka desu.",
+        "ta": "டோக்கியோ கலகலப்பாக இருக்கிறது.",
+        "en": "Tokyo is lively."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-589",
+    "expression": "古い",
+    "reading": "ふるい",
+    "romaji": "furui",
+    "en": "old (things)",
+    "ta": "பழைய",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 建物は とても 古いです。",
+        "reading": "この たてものは とても ふるいです。",
+        "romaji": "kono tatemono wa totemo furui desu.",
+        "ta": "இந்தக் கட்டிடம் மிகவும் பழையது.",
+        "en": "This building is very old."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-600",
+    "expression": "便利",
+    "reading": "べんり",
+    "romaji": "benri",
+    "en": "convenient",
+    "ta": "வசதியான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "電車は とても 便利です。",
+        "reading": "でんしゃは とても べんりです。",
+        "romaji": "densha wa totemo benri desu.",
+        "ta": "ரயில் மிகவும் வசதியானது.",
+        "en": "Trains are very convenient."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-627",
+    "expression": "町",
+    "reading": "まち",
+    "romaji": "machi",
+    "en": "town",
+    "ta": "ஊர் (நகரம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "マドゥライは 古い 町です。",
+        "reading": "マドゥライは ふるい まちです。",
+        "romaji": "madurai wa furui machi desu.",
+        "ta": "மதுரை ஒரு பழைய நகரம்.",
+        "en": "Madurai is an old town."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-670",
+    "expression": "安い",
+    "reading": "やすい",
+    "romaji": "yasui",
+    "en": "cheap",
+    "ta": "மலிவான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 店の お菓子は 安いです。",
+        "reading": "この みせの おかしは やすいです。",
+        "romaji": "kono mise no okashi wa yasui desu.",
+        "ta": "இந்தக் கடையின் தின்பண்டம் மலிவு.",
+        "en": "The sweets at this shop are cheap."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-680",
+    "expression": "有名",
+    "reading": "ゆうめい",
+    "romaji": "yuumei",
+    "en": "famous",
+    "ta": "புகழ்பெற்ற",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "ここは 有名な 喫茶店です。",
+        "reading": "ここは ゆうめいな きっさてんです。",
+        "romaji": "koko wa yuumei na kissaten desu.",
+        "ta": "இது ஒரு புகழ்பெற்ற கபே.",
+        "en": "This is a famous café."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-718",
+    "expression": "悪い",
+    "reading": "わるい",
+    "romaji": "warui",
+    "en": "bad",
+    "ta": "கெட்ட (மோசமான)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この 映画は 悪くないですよ。",
+        "reading": "この えいがは わるくないですよ。",
+        "romaji": "kono eiga wa warukunai desu yo.",
+        "ta": "இந்தப் படம் மோசமில்லை, தெரியுமா.",
+        "en": "This movie isn't bad, you know."
+      }
+    ]
+  }
+]

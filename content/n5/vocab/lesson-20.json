@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n5-v-001",
+    "expression": "ああ",
+    "reading": "ああ",
+    "romaji": "aa",
+    "en": "ah; oh",
+    "ta": "ஆ! (ஓ!)",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "ああ、そうか。わかった。", "reading": "ああ、そうか。わかった。", "romaji": "aa, sou ka. wakatta.", "ta": "ஓ, அப்படியா. புரிந்தது.", "en": "Oh, I see. Got it." }
+    ]
+  },
+  {
+    "id": "n5-v-002",
+    "expression": "会う",
+    "reading": "あう",
+    "romaji": "au",
+    "en": "to meet",
+    "ta": "சந்திக்க",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "明日、友達に 会います。", "reading": "あした、ともだちに あいます。", "romaji": "ashita, tomodachi ni aimasu.", "ta": "நாளை நண்பரைச் சந்திக்கிறேன்.", "en": "I will meet a friend tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-026",
+    "expression": "あっち",
+    "reading": "あっち",
+    "romaji": "atchi",
+    "en": "over there (casual)",
+    "ta": "அங்கே (அந்தப் பக்கம் — பேச்சுவழக்கு)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "駅は あっちだよ。", "reading": "えきは あっちだよ。", "romaji": "eki wa atchi da yo.", "ta": "ஸ்டேஷன் அந்தப் பக்கம்.", "en": "The station is over there." }
+    ]
+  },
+  {
+    "id": "n5-v-072",
+    "expression": "要る",
+    "reading": "いる",
+    "romaji": "iru",
+    "en": "to need",
+    "ta": "தேவைப்பட",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "日本へ 行く前に、何が 要りますか。", "reading": "にほんへ いく まえに、なにが いりますか。", "romaji": "nihon e iku mae ni, nani ga irimasu ka.", "ta": "ஜப்பானுக்குப் போகும் முன் என்ன தேவை?", "en": "What do I need before going to Japan?" }
+    ]
+  },
+  {
+    "id": "n5-v-085",
+    "expression": "うるさい",
+    "reading": "うるさい",
+    "romaji": "urusai",
+    "en": "noisy; annoying",
+    "ta": "சத்தமான (தொந்தரவான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "隣の 部屋は いつも うるさいです。", "reading": "となりの へやは いつも うるさいです。", "romaji": "tonari no heya wa itsumo urusai desu.", "ta": "பக்கத்து அறை எப்போதும் சத்தமாக இருக்கிறது.", "en": "The room next door is always noisy." }
+    ]
+  },
+  {
+    "id": "n5-v-120",
+    "expression": "男の子",
+    "reading": "おとこのこ",
+    "romaji": "otokonoko",
+    "en": "boy",
+    "ta": "பையன் (ஆண் குழந்தை)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "公園で 男の子が 二人 遊んでいます。", "reading": "こうえんで おとこのこが ふたり あそんでいます。", "romaji": "kouen de otokonoko ga futari asonde imasu.", "ta": "பூங்காவில் இரண்டு பையன்கள் விளையாடுகிறார்கள்.", "en": "Two boys are playing in the park." }
+    ]
+  },
+  {
+    "id": "n5-v-141",
+    "expression": "女の子",
+    "reading": "おんなのこ",
+    "romaji": "onnanoko",
+    "en": "girl",
+    "ta": "பெண் குழந்தை (சிறுமி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "あの 女の子は 目が 大きくて、可愛いです。", "reading": "あの おんなのこは めが おおきくて、かわいいです。", "romaji": "ano onnanoko wa me ga ookikute, kawaii desu.", "ta": "அந்தச் சிறுமிக்குக் கண்கள் பெரிது, அழகாக இருக்கிறாள்.", "en": "That girl has big eyes and is cute." }
+    ]
+  },
+  {
+    "id": "n5-v-181",
+    "expression": "～がる",
+    "reading": "～がる",
+    "romaji": "～garu",
+    "en": "to show signs of feeling",
+    "ta": "～ப்படுவது போலக் காட்ட (மற்றவர் உணர்வு)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "弟は 新しい カメラを 欲しがっています。", "reading": "おとうとは あたらしい カメラを ほしがっています。", "romaji": "otouto wa atarashii kamera o hoshigatte imasu.", "ta": "தம்பி புதிய கேமரா வேண்டும் என்று ஆசைப்படுகிறான்.", "en": "My younger brother wants a new camera." }
+    ]
+  },
+  {
+    "id": "n5-v-187",
+    "expression": "可愛い",
+    "reading": "かわいい",
+    "romaji": "kawaii",
+    "en": "cute",
+    "ta": "அழகான (செல்லமான)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "この 猫、可愛いね。", "reading": "この ねこ、かわいいね。", "romaji": "kono neko, kawaii ne.", "ta": "இந்தப் பூனை செல்லமாக இருக்கிறதே.", "en": "This cat is cute, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-235",
+    "expression": "今朝",
+    "reading": "けさ",
+    "romaji": "kesa",
+    "en": "this morning",
+    "ta": "இன்று காலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今朝は 六時に 起きました。", "reading": "けさは ろくじに おきました。", "romaji": "kesa wa rokuji ni okimashita.", "ta": "இன்று காலை ஆறு மணிக்கு எழுந்தேன்.", "en": "I got up at six this morning." }
+    ]
+  },
+  {
+    "id": "n5-v-241",
+    "expression": "元気",
+    "reading": "げんき",
+    "romaji": "genki",
+    "en": "healthy; energetic",
+    "ta": "நலமான (சுறுசுறுப்பான)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "田中さん、元気？ — うん、元気だよ。", "reading": "たなかさん、げんき？ — うん、げんきだよ。", "romaji": "tanaka san, genki? — un, genki da yo.", "ta": "தனாகா, நலமா? — ஆமாம், நலம் தான்.", "en": "Tanaka, how are you? — Yeah, I'm fine." }
+    ]
+  },
+  {
+    "id": "n5-v-259",
+    "expression": "こっち",
+    "reading": "こっち",
+    "romaji": "kotchi",
+    "en": "this way; here (casual)",
+    "ta": "இங்கே (இந்தப் பக்கம் — பேச்சுவழக்கு)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "こっちへ 来て。", "reading": "こっちへ きて。", "romaji": "kotchi e kite.", "ta": "இங்கே வா.", "en": "Come over here." }
+    ]
+  },
+  {
+    "id": "n5-v-272",
+    "expression": "こんな",
+    "reading": "こんな",
+    "romaji": "konna",
+    "en": "this kind of",
+    "ta": "இப்படிப்பட்ட",
+    "pos": "expression",
+    "examples": [
+      { "ja": "こんな かばんが 欲しいです。", "reading": "こんな かばんが ほしいです。", "romaji": "konna kaban ga hoshii desu.", "ta": "இப்படிப்பட்ட பை வேண்டும்.", "en": "I want a bag like this." }
+    ]
+  },
+  {
+    "id": "n5-v-273",
+    "expression": "今晩",
+    "reading": "こんばん",
+    "romaji": "konban",
+    "en": "tonight",
+    "ta": "இன்று இரவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今晩 暇？ 映画を 見ない？", "reading": "こんばん ひま？ えいがを みない？", "romaji": "konban hima? eiga o minai?", "ta": "இன்று இரவு ஓய்வா? படம் பார்க்கலாமா?", "en": "Are you free tonight? Want to watch a film?" }
+    ]
+  },
+  {
+    "id": "n5-v-274",
+    "expression": "さあ",
+    "reading": "さあ",
+    "romaji": "saa",
+    "en": "well; come on",
+    "ta": "சரி (வா! / தெரியலையே)",
+    "pos": "interjection",
+    "examples": [
+      { "ja": "さあ、行きましょう。", "reading": "さあ、いきましょう。", "romaji": "saa, ikimashou.", "ta": "சரி, போவோம்.", "en": "Come on, let's go." }
+    ]
+  },
+  {
+    "id": "n5-v-310",
+    "expression": "じゃ; じゃあ",
+    "reading": "じゃ; じゃあ",
+    "romaji": "ja;jaa",
+    "en": "well then",
+    "ta": "அப்போ (சரி அப்படியென்றால்)",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "じゃあ、また 明日。", "reading": "じゃあ、また あした。", "romaji": "jaa, mata ashita.", "ta": "சரி, நாளை சந்திப்போம்.", "en": "Well then, see you tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-363",
+    "expression": "そっち",
+    "reading": "そっち",
+    "romaji": "sotchi",
+    "en": "there; that way (casual)",
+    "ta": "அங்கே (உன் பக்கம் — பேச்சுவழக்கு)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "そっちは 寒い？", "reading": "そっちは さむい？", "romaji": "sotchi wa samui?", "ta": "அங்கே (உன் பக்கம்) குளிரா?", "en": "Is it cold where you are?" }
+    ]
+  },
+  {
+    "id": "n5-v-370",
+    "expression": "それでは",
+    "reading": "それでは",
+    "romaji": "soredeha",
+    "en": "well then (formal)",
+    "ta": "அப்படியென்றால் (சரி — முறையாக)",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "それでは、テストを します。", "reading": "それでは、テストを します。", "romaji": "sore de wa, tesuto o shimasu.", "ta": "சரி, இப்போது தேர்வு நடத்துகிறேன்.", "en": "Well then, we will have the test." }
+    ]
+  },
+  {
+    "id": "n5-v-389",
+    "expression": "頼む",
+    "reading": "たのむ",
+    "romaji": "tanomu",
+    "en": "to ask (a favour)",
+    "ta": "கேட்டுக்கொள்ள (வேண்டுகோள் விட)",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "兄に 仕事を 頼みました。", "reading": "あにに しごとを たのみました。", "romaji": "ani ni shigoto o tanomimashita.", "ta": "அண்ணனிடம் ஒரு வேலையைச் செய்யச் சொல்லிக் கேட்டேன்.", "en": "I asked my older brother to do a job." }
+    ]
+  },
+  {
+    "id": "n5-v-414",
+    "expression": "疲れる",
+    "reading": "つかれる",
+    "romaji": "tsukareru",
+    "en": "to get tired",
+    "ta": "களைப்படைய",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "今日は たくさん 歩いたから、疲れた。", "reading": "きょうは たくさん あるいたから、つかれた。", "romaji": "kyou wa takusan aruita kara, tsukareta.", "ta": "இன்று நிறைய நடந்ததால் களைப்பாக இருக்கிறது.", "en": "I walked a lot today, so I'm tired." }
+    ]
+  },
+  {
+    "id": "n5-v-421",
+    "expression": "つまらない",
+    "reading": "つまらない",
+    "romaji": "tsumaranai",
+    "en": "boring",
+    "ta": "சலிப்பான (சுவாரசியமில்லாத)",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "その 映画は つまらなかったです。", "reading": "その えいがは つまらなかったです。", "romaji": "sono eiga wa tsumaranakatta desu.", "ta": "அந்தப் படம் சலிப்பாக இருந்தது.", "en": "That film was boring." }
+    ]
+  },
+  {
+    "id": "n5-v-428",
+    "expression": "出かける",
+    "reading": "でかける",
+    "romaji": "dekakeru",
+    "en": "to go out",
+    "ta": "வெளியே கிளம்ப",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "日曜日は 家族と 出かけます。", "reading": "にちようびは かぞくと でかけます。", "romaji": "nichiyoubi wa kazoku to dekakemasu.", "ta": "ஞாயிற்றுக்கிழமை குடும்பத்துடன் வெளியே போகிறேன்.", "en": "I go out with my family on Sundays." }
+    ]
+  },
+  {
+    "id": "n5-v-433",
+    "expression": "では",
+    "reading": "では",
+    "romaji": "deha",
+    "en": "well then",
+    "ta": "அப்படியென்றால் (சரி)",
+    "pos": "conjunction",
+    "examples": [
+      { "ja": "では、また 来週。", "reading": "では、また らいしゅう。", "romaji": "de wa, mata raishuu.", "ta": "சரி, அடுத்த வாரம் சந்திப்போம்.", "en": "Well then, see you next week." }
+    ]
+  },
+  {
+    "id": "n5-v-438",
+    "expression": "天気",
+    "reading": "てんき",
+    "romaji": "tenki",
+    "en": "weather",
+    "ta": "வானிலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日は いい 天気ですね。", "reading": "きょうは いい てんきですね。", "romaji": "kyou wa ii tenki desu ne.", "ta": "இன்று நல்ல வானிலையே.", "en": "Nice weather today, isn't it?" }
+    ]
+  },
+  {
+    "id": "n5-v-462",
+    "expression": "どっち",
+    "reading": "どっち",
+    "romaji": "dotchi",
+    "en": "which one; which way (casual)",
+    "ta": "எது (எந்தப் பக்கம் — பேச்சுவழக்கு)",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "コーヒーと 紅茶、どっちが いい？", "reading": "コーヒーと こうちゃ、どっちが いい？", "romaji": "koohii to koucha, dotchi ga ii?", "ta": "காபியா, டீயா — எது வேண்டும்?", "en": "Coffee or tea, which would you like?" }
+    ]
+  },
+  {
+    "id": "n5-v-477",
+    "expression": "ない",
+    "reading": "ない",
+    "romaji": "nai",
+    "en": "there isn't; don't have",
+    "ta": "இல்லை",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "今日は 時間が ない。", "reading": "きょうは じかんが ない。", "romaji": "kyou wa jikan ga nai.", "ta": "இன்று நேரம் இல்லை.", "en": "I don't have time today." }
+    ]
+  },
+  {
+    "id": "n5-v-567",
+    "expression": "一人",
+    "reading": "ひとり",
+    "romaji": "hitori",
+    "en": "one person; alone",
+    "ta": "ஒருவர் (தனியாக)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日は 一人で 映画を 見ました。", "reading": "きのうは ひとりで えいがを みました。", "romaji": "kinou wa hitori de eiga o mimashita.", "ta": "நேற்று தனியாகப் படம் பார்த்தேன்.", "en": "Yesterday I watched a film alone." }
+    ]
+  },
+  {
+    "id": "n5-v-568",
+    "expression": "暇",
+    "reading": "ひま",
+    "romaji": "hima",
+    "en": "free (time)",
+    "ta": "ஓய்வான (வேலையில்லாத)",
+    "pos": "na-adj",
+    "examples": [
+      { "ja": "土曜日は 暇ですか。", "reading": "どようびは ひまですか。", "romaji": "doyoubi wa hima desu ka.", "ta": "சனிக்கிழமை ஓய்வாக இருக்கிறீர்களா?", "en": "Are you free on Saturday?" }
+    ]
+  },
+  {
+    "id": "n5-v-613",
+    "expression": "本当",
+    "reading": "ほんとう",
+    "romaji": "hontou",
+    "en": "true; real",
+    "ta": "உண்மை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "それ、本当？", "reading": "それ、ほんとう？", "romaji": "sore, hontou?", "ta": "அது உண்மையா?", "en": "Is that true?" }
+    ]
+  },
+  {
+    "id": "n5-v-649",
+    "expression": "みんな",
+    "reading": "みんな",
+    "romaji": "minna",
+    "en": "everyone",
+    "ta": "எல்லோரும்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "みんなで 写真を 撮りましょう。", "reading": "みんなで しゃしんを とりましょう。", "romaji": "minna de shashin o torimashou.", "ta": "எல்லோரும் சேர்ந்து புகைப்படம் எடுப்போம்.", "en": "Let's all take a photo together." }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "n5-v-049",
+    "expression": "行く",
+    "reading": "いく; ゆく",
+    "romaji": "iku;yuku",
+    "en": "to go",
+    "ta": "போக",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "明日 銀行へ 行きます。", "reading": "あした ぎんこうへ いきます。", "romaji": "ashita ginkou e ikimasu.", "ta": "நாளை வங்கிக்குப் போகிறேன்.", "en": "I will go to the bank tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-060",
+    "expression": "いつ",
+    "reading": "いつ",
+    "romaji": "itsu",
+    "en": "when",
+    "ta": "எப்போது",
+    "pos": "pronoun",
+    "examples": [
+      { "ja": "いつ 日本へ 来ましたか。", "reading": "いつ にほんへ きましたか。", "romaji": "itsu nihon e kimashita ka.", "ta": "எப்போது ஜப்பானுக்கு வந்தீர்கள்?", "en": "When did you come to Japan?" }
+    ]
+  },
+  {
+    "id": "n5-v-061",
+    "expression": "五日",
+    "reading": "いつか",
+    "romaji": "itsuka",
+    "en": "fifth day; five days",
+    "ta": "ஐந்தாம் தேதி; ஐந்து நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "五月五日に 国へ 帰ります。", "reading": "ごがつ いつかに くにへ かえります。", "romaji": "gogatsu itsuka ni kuni e kaerimasu.", "ta": "மே ஐந்தாம் தேதி சொந்த நாட்டுக்குத் திரும்புகிறேன்.", "en": "I will go back to my country on May 5th." }
+    ]
+  },
+  {
+    "id": "n5-v-151",
+    "expression": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "en": "to return, go home",
+    "ta": "திரும்பிப் போக / வீட்டுக்குத் திரும்ப",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "毎晩 七時に 帰ります。", "reading": "まいばん しちじに かえります。", "romaji": "maiban shichiji ni kaerimasu.", "ta": "தினமும் இரவு ஏழு மணிக்கு வீட்டுக்குத் திரும்புகிறேன்.", "en": "I go home at seven every evening." }
+    ]
+  },
+  {
+    "id": "n5-v-157",
+    "expression": "～か月",
+    "reading": "～かげつ",
+    "romaji": "～kagetsu",
+    "en": "~ months (duration)",
+    "ta": "～ மாதங்கள் (கால அளவு)",
+    "pos": "counter",
+    "examples": [
+      { "ja": "三か月 日本へ 行きます。", "reading": "さんかげつ にほんへ いきます。", "romaji": "sankagetsu nihon e ikimasu.", "ta": "மூன்று மாதங்களுக்கு ஜப்பான் போகிறேன்.", "en": "I am going to Japan for three months." }
+    ]
+  },
+  {
+    "id": "n5-v-165",
+    "expression": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "en": "family",
+    "ta": "குடும்பம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "家族と チェンナイへ 帰ります。", "reading": "かぞくと チェンナイへ かえります。", "romaji": "kazoku to chennai e kaerimasu.", "ta": "குடும்பத்தோடு சென்னைக்குத் திரும்புகிறேன்.", "en": "I am going back to Chennai with my family." }
+    ]
+  },
+  {
+    "id": "n5-v-167",
+    "expression": "～月",
+    "reading": "～がつ",
+    "romaji": "～gatsu",
+    "en": "month (of the year)",
+    "ta": "～ ஆம் மாதம் (ஜனவரி, பிப்ரவரி…)",
+    "pos": "suffix",
+    "examples": [
+      { "ja": "四月に 日本へ 来ました。", "reading": "しがつに にほんへ きました。", "romaji": "shigatsu ni nihon e kimashita.", "ta": "ஏப்ரல் மாதம் ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan in April." }
+    ]
+  },
+  {
+    "id": "n5-v-230",
+    "expression": "来る",
+    "reading": "くる",
+    "romaji": "kuru",
+    "en": "to come",
+    "ta": "வர",
+    "pos": "verb-irregular",
+    "examples": [
+      { "ja": "友達は 明日 来ます。", "reading": "ともだちは あした きます。", "romaji": "tomodachi wa ashita kimasu.", "ta": "நண்பர் நாளை வருகிறார்.", "en": "My friend is coming tomorrow." }
+    ]
+  },
+  {
+    "id": "n5-v-231",
+    "expression": "車",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "en": "car",
+    "ta": "கார்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "田中さんは 車で 病院へ 行きます。", "reading": "たなかさんは くるまで びょういんへ いきます。", "romaji": "tanaka-san wa kuruma de byouin e ikimasu.", "ta": "தனாகா-சான் காரில் மருத்துவமனைக்குப் போகிறார்.", "en": "Mr Tanaka goes to the hospital by car." }
+    ]
+  },
+  {
+    "id": "n5-v-254",
+    "expression": "九日",
+    "reading": "ここのか",
+    "romaji": "kokonoka",
+    "en": "ninth day; nine days",
+    "ta": "ஒன்பதாம் தேதி; ஒன்பது நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "九日に 京都へ 行きます。", "reading": "ここのかに きょうとへ いきます。", "romaji": "kokonoka ni kyouto e ikimasu.", "ta": "ஒன்பதாம் தேதி க்யோத்தோவுக்குப் போகிறேன்.", "en": "I will go to Kyoto on the 9th." }
+    ]
+  },
+  {
+    "id": "n5-v-261",
+    "expression": "今年",
+    "reading": "ことし",
+    "romaji": "kotoshi",
+    "en": "this year",
+    "ta": "இந்த ஆண்டு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今年 日本へ 来ました。", "reading": "ことし にほんへ きました。", "romaji": "kotoshi nihon e kimashita.", "ta": "இந்த ஆண்டு ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan this year." }
+    ]
+  },
+  {
+    "id": "n5-v-270",
+    "expression": "今月",
+    "reading": "こんげつ",
+    "romaji": "kongetsu",
+    "en": "this month",
+    "ta": "இந்த மாதம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今月 インドへ 帰ります。", "reading": "こんげつ インドへ かえります。", "romaji": "kongetsu indo e kaerimasu.", "ta": "இந்த மாதம் இந்தியாவுக்குத் திரும்புகிறேன்.", "en": "I am going back to India this month." }
+    ]
+  },
+  {
+    "id": "n5-v-271",
+    "expression": "今週",
+    "reading": "こんしゅう",
+    "romaji": "konshuu",
+    "en": "this week",
+    "ta": "இந்த வாரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今週は どこへも 行きません。", "reading": "こんしゅうは どこへも いきません。", "romaji": "konshuu wa doko e mo ikimasen.", "ta": "இந்த வாரம் எங்கும் போகவில்லை.", "en": "I am not going anywhere this week." }
+    ]
+  },
+  {
+    "id": "n5-v-353",
+    "expression": "先月",
+    "reading": "せんげつ",
+    "romaji": "sengetsu",
+    "en": "last month",
+    "ta": "போன மாதம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先月 友達と 東京へ 行きました。", "reading": "せんげつ ともだちと とうきょうへ いきました。", "romaji": "sengetsu tomodachi to toukyou e ikimashita.", "ta": "போன மாதம் நண்பருடன் டோக்கியோவுக்குப் போனேன்.", "en": "Last month I went to Tokyo with a friend." }
+    ]
+  },
+  {
+    "id": "n5-v-354",
+    "expression": "先週",
+    "reading": "せんしゅう",
+    "romaji": "senshuu",
+    "en": "last week",
+    "ta": "போன வாரம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "先週の 土曜日に 病院へ 行きました。", "reading": "せんしゅうの どようびに びょういんへ いきました。", "romaji": "senshuu no doyoubi ni byouin e ikimashita.", "ta": "போன வாரம் சனிக்கிழமை மருத்துவமனைக்குப் போனேன்.", "en": "I went to the hospital last Saturday." }
+    ]
+  },
+  {
+    "id": "n5-v-382",
+    "expression": "タクシー",
+    "reading": "タクシー",
+    "romaji": "takushii",
+    "en": "taxi",
+    "ta": "டாக்ஸி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "夜は タクシーで 帰ります。", "reading": "よるは タクシーで かえります。", "romaji": "yoru wa takushii de kaerimasu.", "ta": "இரவில் டாக்ஸியில் வீடு திரும்புகிறேன்.", "en": "At night I go home by taxi." }
+    ]
+  },
+  {
+    "id": "n5-v-397",
+    "expression": "誕生日",
+    "reading": "たんじょうび",
+    "romaji": "tanjoubi",
+    "en": "birthday",
+    "ta": "பிறந்தநாள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "誕生日は いつですか。", "reading": "たんじょうびは いつですか。", "romaji": "tanjoubi wa itsu desu ka.", "ta": "உங்கள் பிறந்தநாள் எப்போது?", "en": "When is your birthday?" }
+    ]
+  },
+  {
+    "id": "n5-v-412",
+    "expression": "一日",
+    "reading": "ついたち",
+    "romaji": "tsuitachi",
+    "en": "first day of the month",
+    "ta": "மாதத்தின் முதல் தேதி",
+    "pos": "noun",
+    "examples": [
+      { "ja": "四月一日に 日本へ 来ました。", "reading": "しがつ ついたちに にほんへ きました。", "romaji": "shigatsu tsuitachi ni nihon e kimashita.", "ta": "ஏப்ரல் ஒன்றாம் தேதி ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan on April 1st." }
+    ]
+  },
+  {
+    "id": "n5-v-440",
+    "expression": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "en": "train",
+    "ta": "ரயில் (மின்சார ரயில்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎朝 電車で 教室へ 来ます。", "reading": "まいあさ でんしゃで きょうしつへ きます。", "romaji": "maiasa densha de kyoushitsu e kimasu.", "ta": "தினமும் காலை ரயிலில் வகுப்புக்கு வருகிறேன்.", "en": "Every morning I come to class by train." }
+    ]
+  },
+  {
+    "id": "n5-v-453",
+    "expression": "十日",
+    "reading": "とおか",
+    "romaji": "tooka",
+    "en": "tenth day; ten days",
+    "ta": "பத்தாம் தேதி; பத்து நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達は 十日に 来ます。", "reading": "ともだちは とおかに きます。", "romaji": "tomodachi wa tooka ni kimasu.", "ta": "பத்தாம் தேதி நண்பர் வருகிறார்.", "en": "A friend is coming on the 10th." }
+    ]
+  },
+  {
+    "id": "n5-v-469",
+    "expression": "友達",
+    "reading": "ともだち",
+    "romaji": "tomodachi",
+    "en": "friend",
+    "ta": "நண்பர்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達と デパートへ 行きます。", "reading": "ともだちと デパートへ いきます。", "romaji": "tomodachi to depaato e ikimasu.", "ta": "நண்பருடன் பல்பொருள் அங்காடிக்குப் போகிறேன்.", "en": "I'm going to the department store with a friend." }
+    ]
+  },
+  {
+    "id": "n5-v-489",
+    "expression": "七日",
+    "reading": "なのか",
+    "romaji": "nanoka",
+    "en": "seventh day; seven days",
+    "ta": "ஏழாம் தேதி; ஏழு நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "七月七日は 私の 誕生日です。", "reading": "しちがつ なのかは わたしの たんじょうびです。", "romaji": "shichigatsu nanoka wa watashi no tanjoubi desu.", "ta": "ஜூலை ஏழாம் தேதி என் பிறந்தநாள்.", "en": "July 7th is my birthday." }
+    ]
+  },
+  {
+    "id": "n5-v-500",
+    "expression": "～日",
+    "reading": "～にち",
+    "romaji": "～nichi",
+    "en": "~th (day of the month)",
+    "ta": "～ ஆம் தேதி",
+    "pos": "counter",
+    "examples": [
+      { "ja": "十五日に 大阪へ 行きます。", "reading": "じゅうごにちに おおさかへ いきます。", "romaji": "juugonichi ni oosaka e ikimasu.", "ta": "பதினைந்தாம் தேதி ஒசாகாவுக்குப் போகிறேன்.", "en": "I'm going to Osaka on the 15th." }
+    ]
+  },
+  {
+    "id": "n5-v-532",
+    "expression": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "en": "bus",
+    "ta": "பஸ்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "バスで 駅へ 行きます。", "reading": "バスで えきへ いきます。", "romaji": "basu de eki e ikimasu.", "ta": "பஸ்ஸில் ரயில் நிலையத்துக்குப் போகிறேன்.", "en": "I go to the station by bus." }
+    ]
+  },
+  {
+    "id": "n5-v-537",
+    "expression": "二十日",
+    "reading": "はつか",
+    "romaji": "hatsuka",
+    "en": "twentieth day; twenty days",
+    "ta": "இருபதாம் தேதி; இருபது நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "八月二十日に インドへ 帰ります。", "reading": "はちがつ はつかに インドへ かえります。", "romaji": "hachigatsu hatsuka ni indo e kaerimasu.", "ta": "ஆகஸ்ட் இருபதாம் தேதி இந்தியாவுக்குத் திரும்புகிறேன்.", "en": "I will return to India on August 20th." }
+    ]
+  },
+  {
+    "id": "n5-v-562",
+    "expression": "飛行機",
+    "reading": "ひこうき",
+    "romaji": "hikouki",
+    "en": "airplane",
+    "ta": "விமானம்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "飛行機で 日本へ 来ました。", "reading": "ひこうきで にほんへ きました。", "romaji": "hikouki de nihon e kimashita.", "ta": "விமானத்தில் ஜப்பானுக்கு வந்தேன்.", "en": "I came to Japan by plane." }
+    ]
+  },
+  {
+    "id": "n5-v-566",
+    "expression": "一月",
+    "reading": "ひとつき",
+    "romaji": "hitotsuki",
+    "en": "one month (duration)",
+    "ta": "ஒரு மாதம் (கால அளவு)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "一月 国へ 帰ります。", "reading": "ひとつき くにへ かえります。", "romaji": "hitotsuki kuni e kaerimasu.", "ta": "ஒரு மாதத்துக்குச் சொந்த நாட்டுக்குத் திரும்புகிறேன்.", "en": "I'm going back to my country for a month." }
+    ]
+  },
+  {
+    "id": "n5-v-585",
+    "expression": "二日",
+    "reading": "ふつか",
+    "romaji": "futsuka",
+    "en": "second day; two days",
+    "ta": "இரண்டாம் தேதி; இரண்டு நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "二日の 朝 東京へ 行きます。", "reading": "ふつかの あさ とうきょうへ いきます。", "romaji": "futsuka no asa toukyou e ikimasu.", "ta": "இரண்டாம் தேதி காலை டோக்கியோவுக்குப் போகிறேன்.", "en": "I'm going to Tokyo on the morning of the 2nd." }
+    ]
+  },
+  {
+    "id": "n5-v-642",
+    "expression": "三日",
+    "reading": "みっか",
+    "romaji": "mikka",
+    "en": "third day; three days",
+    "ta": "மூன்றாம் தேதி; மூன்று நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "友達は 三月三日に 来ました。", "reading": "ともだちは さんがつ みっかに きました。", "romaji": "tomodachi wa sangatsu mikka ni kimashita.", "ta": "மார்ச் மூன்றாம் தேதி நண்பர் வந்தார்.", "en": "A friend came on March 3rd." }
+    ]
+  },
+  {
+    "id": "n5-v-650",
+    "expression": "六日",
+    "reading": "むいか",
+    "romaji": "muika",
+    "en": "sixth day; six days",
+    "ta": "ஆறாம் தேதி; ஆறு நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "六日は 何曜日ですか。", "reading": "むいかは なんようびですか。", "romaji": "muika wa nan'youbi desu ka.", "ta": "ஆறாம் தேதி என்ன கிழமை?", "en": "What day of the week is the 6th?" }
+    ]
+  },
+  {
+    "id": "n5-v-683",
+    "expression": "八日",
+    "reading": "ようか",
+    "romaji": "youka",
+    "en": "eighth day; eight days",
+    "ta": "எட்டாம் தேதி; எட்டு நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "家族は 八日に 日本へ 来ます。", "reading": "かぞくは ようかに にほんへ きます。", "romaji": "kazoku wa youka ni nihon e kimasu.", "ta": "எட்டாம் தேதி என் குடும்பம் ஜப்பானுக்கு வருகிறது.", "en": "My family is coming to Japan on the 8th." }
+    ]
+  },
+  {
+    "id": "n5-v-687",
+    "expression": "四日",
+    "reading": "よっか",
+    "romaji": "yokka",
+    "en": "fourth day; four days",
+    "ta": "நான்காம் தேதி; நான்கு நாட்கள்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "四日の 午後 駅へ 行きます。", "reading": "よっかの ごご えきへ いきます。", "romaji": "yokka no gogo eki e ikimasu.", "ta": "நான்காம் தேதி பிற்பகல் ரயில் நிலையத்துக்குப் போகிறேன்.", "en": "I'll go to the station on the afternoon of the 4th." }
+    ]
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "n5-v-018",
+    "expression": "遊ぶ",
+    "reading": "あそぶ",
+    "romaji": "asobu",
+    "en": "to play, to hang out",
+    "ta": "விளையாட, பொழுது போக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "日曜日に友達と遊びました。",
+        "reading": "にちようびに ともだちと あそびました。",
+        "romaji": "nichiyoubi ni tomodachi to asobimashita.",
+        "ta": "ஞாயிற்றுக்கிழமை நண்பர்களுடன் விளையாடினேன்.",
+        "en": "I hung out with friends on Sunday."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-042",
+    "expression": "歩く",
+    "reading": "あるく",
+    "romaji": "aruku",
+    "en": "to walk",
+    "ta": "நடக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "毎朝三十分ぐらい歩きます。",
+        "reading": "まいあさ さんじゅっぷんぐらい あるきます。",
+        "romaji": "maiasa sanjuppun gurai arukimasu.",
+        "ta": "தினமும் காலையில் சுமார் முப்பது நிமிடம் நடக்கிறேன்.",
+        "en": "I walk for about thirty minutes every morning."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-131",
+    "expression": "お弁当",
+    "reading": "おべんとう",
+    "romaji": "obentou",
+    "en": "boxed lunch",
+    "ta": "டிபன் பாக்ஸ் சாப்பாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼ご飯にお弁当を食べます。",
+        "reading": "ひるごはんに おべんとうを たべます。",
+        "romaji": "hirugohan ni obentou o tabemasu.",
+        "ta": "மதிய உணவுக்கு டிபன் பாக்ஸ் சாப்பாடு சாப்பிடுகிறேன்.",
+        "en": "I eat a boxed lunch for lunch."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-169",
+    "expression": "カップ",
+    "reading": "カップ",
+    "romaji": "kappu",
+    "en": "cup",
+    "ta": "கப் (கோப்பை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "新しいカップが欲しいです。",
+        "reading": "あたらしい カップが ほしいです。",
+        "romaji": "atarashii kappu ga hoshii desu.",
+        "ta": "புதிய கப் வேண்டும்.",
+        "en": "I want a new cup."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-183",
+    "expression": "カレー",
+    "reading": "カレー",
+    "romaji": "karee",
+    "en": "curry",
+    "ta": "கறி (குழம்பு சாதம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私はカレーが大好きです。",
+        "reading": "わたしは カレーが だいすきです。",
+        "romaji": "watashi wa karee ga daisuki desu.",
+        "ta": "எனக்குக் கறி சாதம் ரொம்பப் பிடிக்கும்.",
+        "en": "I love curry."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-202",
+    "expression": "牛肉",
+    "reading": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "en": "beef",
+    "ta": "மாட்டிறைச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は牛肉を食べません。",
+        "reading": "わたしは ぎゅうにくを たべません。",
+        "romaji": "watashi wa gyuuniku o tabemasen.",
+        "ta": "நான் மாட்டிறைச்சி சாப்பிடுவதில்லை.",
+        "en": "I don't eat beef."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-218",
+    "expression": "下さい",
+    "reading": "ください",
+    "romaji": "kudasai",
+    "en": "please give me",
+    "ta": "தயவுசெய்து கொடுங்கள்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "コーヒーを一杯ください。",
+        "reading": "コーヒーを いっぱい ください。",
+        "romaji": "koohii o ippai kudasai.",
+        "ta": "ஒரு கப் காபி கொடுங்கள்.",
+        "en": "One coffee, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-219",
+    "expression": "果物",
+    "reading": "くだもの",
+    "romaji": "kudamono",
+    "en": "fruit",
+    "ta": "பழம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "八百屋で果物を買いました。",
+        "reading": "やおやで くだものを かいました。",
+        "romaji": "yaoya de kudamono o kaimashita.",
+        "ta": "காய்கறிக் கடையில் பழங்கள் வாங்கினேன்.",
+        "en": "I bought fruit at the greengrocer."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-229",
+    "expression": "グラム",
+    "reading": "グラム",
+    "romaji": "guramu",
+    "en": "gram",
+    "ta": "கிராம்",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "鶏肉を三百グラムください。",
+        "reading": "とりにくを さんびゃくグラム ください。",
+        "romaji": "toriniku o sanbyaku guramu kudasai.",
+        "ta": "முந்நூறு கிராம் கோழிக்கறி கொடுங்கள்.",
+        "en": "Three hundred grams of chicken, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-277",
+    "expression": "魚",
+    "reading": "さかな",
+    "romaji": "sakana",
+    "en": "fish",
+    "ta": "மீன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "肉より魚のほうが好きです。",
+        "reading": "にくより さかなのほうが すきです。",
+        "romaji": "niku yori sakana no hou ga suki desu.",
+        "ta": "இறைச்சியை விட மீன் தான் பிடிக்கும்.",
+        "en": "I prefer fish to meat."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-284",
+    "expression": "砂糖",
+    "reading": "さとう",
+    "romaji": "satou",
+    "en": "sugar",
+    "ta": "சர்க்கரை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このお菓子は砂糖が多いです。",
+        "reading": "この おかしは さとうが おおいです。",
+        "romaji": "kono okashi wa satou ga ooi desu.",
+        "ta": "இந்த இனிப்பில் சர்க்கரை அதிகம்.",
+        "en": "This sweet has a lot of sugar."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-292",
+    "expression": "塩",
+    "reading": "しお",
+    "romaji": "shio",
+    "en": "salt",
+    "ta": "உப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "すみません、塩をください。",
+        "reading": "すみません、しおを ください。",
+        "romaji": "sumimasen, shio o kudasai.",
+        "ta": "மன்னிக்கவும், உப்பு கொடுங்கள்.",
+        "en": "Excuse me, could I have the salt?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-321",
+    "expression": "醤油",
+    "reading": "しょうゆ",
+    "romaji": "shouyu",
+    "en": "soy sauce",
+    "ta": "சோயா சாஸ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "醤油を少しください。",
+        "reading": "しょうゆを すこし ください。",
+        "romaji": "shouyu o sukoshi kudasai.",
+        "ta": "கொஞ்சம் சோயா சாஸ் கொடுங்கள்.",
+        "en": "A little soy sauce, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-322",
+    "expression": "食堂",
+    "reading": "しょくどう",
+    "romaji": "shokudou",
+    "en": "cafeteria",
+    "ta": "உணவகம் (கேன்டீன்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎日食堂で昼ご飯を食べます。",
+        "reading": "まいにち しょくどうで ひるごはんを たべます。",
+        "romaji": "mainichi shokudou de hirugohan o tabemasu.",
+        "ta": "தினமும் கேன்டீனில் மதிய உணவு சாப்பிடுகிறேன்.",
+        "en": "I eat lunch in the cafeteria every day."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-366",
+    "expression": "そば",
+    "reading": "そば",
+    "romaji": "soba",
+    "en": "soba noodles; beside",
+    "ta": "சோபா நூடுல்ஸ்; அருகில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅のそばの店でそばを食べました。",
+        "reading": "えきの そばの みせで そばを たべました。",
+        "romaji": "eki no soba no mise de soba o tabemashita.",
+        "ta": "ஸ்டேஷன் அருகிலுள்ள கடையில் சோபா நூடுல்ஸ் சாப்பிட்டேன்.",
+        "en": "I ate soba at a shop near the station."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-394",
+    "expression": "卵",
+    "reading": "たまご",
+    "romaji": "tamago",
+    "en": "egg",
+    "ta": "முட்டை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎朝卵を二つ食べます。",
+        "reading": "まいあさ たまごを ふたつ たべます。",
+        "romaji": "maiasa tamago o futatsu tabemasu.",
+        "ta": "தினமும் காலையில் இரண்டு முட்டை சாப்பிடுகிறேன்.",
+        "en": "I eat two eggs every morning."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-448",
+    "expression": "どうぞ",
+    "reading": "どうぞ",
+    "romaji": "douzo",
+    "en": "please, here you are",
+    "ta": "தயவுசெய்து (எடுத்துக்கொள்ளுங்கள்)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "お茶をどうぞ。",
+        "reading": "おちゃを どうぞ。",
+        "romaji": "ocha o douzo.",
+        "ta": "டீ எடுத்துக்கொள்ளுங்கள்.",
+        "en": "Please have some tea."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-449",
+    "expression": "動物",
+    "reading": "どうぶつ",
+    "romaji": "doubutsu",
+    "en": "animal",
+    "ta": "விலங்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "どんな動物が好きですか。",
+        "reading": "どんな どうぶつが すきですか。",
+        "romaji": "donna doubutsu ga suki desu ka.",
+        "ta": "எந்த மாதிரி விலங்குகள் பிடிக்கும்?",
+        "en": "What kind of animals do you like?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-472",
+    "expression": "鶏肉",
+    "reading": "とりにく",
+    "romaji": "toriniku",
+    "en": "chicken (meat)",
+    "ta": "கோழிக்கறி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼ご飯に鶏肉のカレーを食べました。",
+        "reading": "ひるごはんに とりにくの カレーを たべました。",
+        "romaji": "hirugohan ni toriniku no karee o tabemashita.",
+        "ta": "மதிய உணவுக்குக் கோழிக்கறி குழம்பு சாப்பிட்டேன்.",
+        "en": "I had chicken curry for lunch."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-498",
+    "expression": "肉",
+    "reading": "にく",
+    "romaji": "niku",
+    "en": "meat",
+    "ta": "இறைச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は肉を食べません。",
+        "reading": "わたしは にくを たべません。",
+        "romaji": "watashi wa niku o tabemasen.",
+        "ta": "நான் இறைச்சி சாப்பிடுவதில்லை.",
+        "en": "I don't eat meat."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-533",
+    "expression": "バター",
+    "reading": "バター",
+    "romaji": "bataa",
+    "en": "butter",
+    "ta": "வெண்ணெய்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝はパンとバターを食べます。",
+        "reading": "あさは パンと バターを たべます。",
+        "romaji": "asa wa pan to bataa o tabemasu.",
+        "ta": "காலையில் ரொட்டியும் வெண்ணெயும் சாப்பிடுகிறேன்.",
+        "en": "In the morning I eat bread and butter."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-552",
+    "expression": "パン",
+    "reading": "パン",
+    "romaji": "pan",
+    "en": "bread",
+    "ta": "ரொட்டி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "パンを二つください。",
+        "reading": "パンを ふたつ ください。",
+        "romaji": "pan o futatsu kudasai.",
+        "ta": "இரண்டு ரொட்டி கொடுங்கள்.",
+        "en": "Two pieces of bread, please."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-578",
+    "expression": "プール",
+    "reading": "プール",
+    "romaji": "puuru",
+    "en": "swimming pool",
+    "ta": "நீச்சல் குளம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ホテルにプールがあります。",
+        "reading": "ホテルに プールが あります。",
+        "romaji": "hoteru ni puuru ga arimasu.",
+        "ta": "ஹோட்டலில் நீச்சல் குளம் இருக்கிறது.",
+        "en": "There is a pool at the hotel."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-583",
+    "expression": "豚肉",
+    "reading": "ぶたにく",
+    "romaji": "butaniku",
+    "en": "pork",
+    "ta": "பன்றி இறைச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "豚肉と鶏肉とどちらが好きですか。",
+        "reading": "ぶたにくと とりにくと どちらが すきですか。",
+        "romaji": "butaniku to toriniku to dochira ga suki desu ka.",
+        "ta": "பன்றி இறைச்சியும் கோழிக்கறியும், எது பிடிக்கும்?",
+        "en": "Which do you like, pork or chicken?"
+      }
+    ]
+  },
+  {
+    "id": "n5-v-605",
+    "expression": "欲しい",
+    "reading": "ほしい",
+    "romaji": "hoshii",
+    "en": "wanted, desired",
+    "ta": "வேண்டும் (ஆசைப்படும்)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "新しい車が欲しいです。",
+        "reading": "あたらしい くるまが ほしいです。",
+        "romaji": "atarashii kuruma ga hoshii desu.",
+        "ta": "எனக்குப் புதிய கார் வேண்டும்.",
+        "en": "I want a new car."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-609",
+    "expression": "ホテル",
+    "reading": "ホテル",
+    "romaji": "hoteru",
+    "en": "hotel",
+    "ta": "ஹோட்டல் (தங்கும் விடுதி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このホテルはとても静かです。",
+        "reading": "この ホテルは とても しずかです。",
+        "romaji": "kono hoteru wa totemo shizuka desu.",
+        "ta": "இந்த ஹோட்டல் மிகவும் அமைதியானது.",
+        "en": "This hotel is very quiet."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-668",
+    "expression": "野菜",
+    "reading": "やさい",
+    "romaji": "yasai",
+    "en": "vegetable",
+    "ta": "காய்கறி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "八百屋で野菜を買います。",
+        "reading": "やおやで やさいを かいます。",
+        "romaji": "yaoya de yasai o kaimasu.",
+        "ta": "காய்கறிக் கடையில் காய்கறி வாங்குகிறேன்.",
+        "en": "I buy vegetables at the greengrocer."
+      }
+    ]
+  },
+  {
+    "id": "n5-v-706",
+    "expression": "レストラン",
+    "reading": "レストラン",
+    "romaji": "resutoran",
+    "en": "restaurant",
+    "ta": "உணவகம் (ரெஸ்டாரன்ட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の前にレストランがあります。",
+        "reading": "えきの まえに レストランが あります。",
+        "romaji": "eki no mae ni resutoran ga arimasu.",
+        "ta": "ஸ்டேஷன் முன்னால் ஒரு ரெஸ்டாரன்ட் இருக்கிறது.",
+        "en": "There is a restaurant in front of the station."
+      }
+    ]
+  }
+]

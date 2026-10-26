@@ -1,0 +1,350 @@
+[
+  {
+    "id": "n5-v-012",
+    "expression": "朝",
+    "reading": "あさ",
+    "romaji": "asa",
+    "en": "morning",
+    "ta": "காலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "朝 六時に 起きます。", "reading": "あさ ろくじに おきます。", "romaji": "asa rokuji ni okimasu.", "ta": "காலை ஆறு மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at six in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-016",
+    "expression": "明日",
+    "reading": "あした",
+    "romaji": "ashita",
+    "en": "tomorrow",
+    "ta": "நாளை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "明日 働きますか。", "reading": "あした はたらきますか。", "romaji": "ashita hatarakimasu ka.", "ta": "நாளை வேலை செய்கிறீர்களா?", "en": "Will you work tomorrow?" }
+    ]
+  },
+  {
+    "id": "n5-v-058",
+    "expression": "一日",
+    "reading": "いちにち",
+    "romaji": "ichinichi",
+    "en": "one day; all day",
+    "ta": "ஒரு நாள் (முழுவதும்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日は 一日 働きました。", "reading": "きのうは いちにち はたらきました。", "romaji": "kinou wa ichinichi hatarakimashita.", "ta": "நேற்று நாள் முழுவதும் வேலை செய்தேன்.", "en": "Yesterday I worked all day." }
+    ]
+  },
+  {
+    "id": "n5-v-066",
+    "expression": "今",
+    "reading": "いま",
+    "romaji": "ima",
+    "en": "now",
+    "ta": "இப்போது",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今 何時ですか。", "reading": "いま なんじですか。", "romaji": "ima nanji desu ka.", "ta": "இப்போது மணி என்ன?", "en": "What time is it now?" }
+    ]
+  },
+  {
+    "id": "n5-v-105",
+    "expression": "起きる",
+    "reading": "おきる",
+    "romaji": "okiru",
+    "en": "to get up",
+    "ta": "எழுந்திருக்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "毎朝 七時に 起きます。", "reading": "まいあさ しちじに おきます。", "romaji": "maiasa shichiji ni okimasu.", "ta": "தினமும் காலை ஏழு மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at seven every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-177",
+    "expression": "火曜日",
+    "reading": "かようび",
+    "romaji": "kayoubi",
+    "en": "Tuesday",
+    "ta": "செவ்வாய்க்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "火曜日の 朝 八時から 働きます。", "reading": "かようびの あさ はちじから はたらきます。", "romaji": "kayoubi no asa hachiji kara hatarakimasu.", "ta": "செவ்வாய்க்கிழமை காலை எட்டு மணியிலிருந்து வேலை செய்கிறேன்.", "en": "On Tuesday I work from eight in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-200",
+    "expression": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "en": "yesterday",
+    "ta": "நேற்று",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日 十一時に 寝ました。", "reading": "きのう じゅういちじに ねました。", "romaji": "kinou juuichiji ni nemashita.", "ta": "நேற்று பதினொரு மணிக்குத் தூங்கினேன்.", "en": "Yesterday I went to bed at eleven." }
+    ]
+  },
+  {
+    "id": "n5-v-204",
+    "expression": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "en": "today",
+    "ta": "இன்று",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今日は 水曜日です。", "reading": "きょうは すいようびです。", "romaji": "kyou wa suiyoubi desu.", "ta": "இன்று புதன்கிழமை.", "en": "Today is Wednesday." }
+    ]
+  },
+  {
+    "id": "n5-v-215",
+    "expression": "金曜日",
+    "reading": "きんようび",
+    "romaji": "kin'youbi",
+    "en": "Friday",
+    "ta": "வெள்ளிக்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "金曜日の 夜は 十二時に 寝ます。", "reading": "きんようびの よるは じゅうにじに ねます。", "romaji": "kin'youbi no yoru wa juuniji ni nemasu.", "ta": "வெள்ளிக்கிழமை இரவு பன்னிரண்டு மணிக்குத் தூங்குகிறேன்.", "en": "On Friday nights I go to bed at twelve." }
+    ]
+  },
+  {
+    "id": "n5-v-239",
+    "expression": "月曜日",
+    "reading": "げつようび",
+    "romaji": "getsuyoubi",
+    "en": "Monday",
+    "ta": "திங்கட்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "月曜日から 金曜日まで 働きます。", "reading": "げつようびから きんようびまで はたらきます。", "romaji": "getsuyoubi kara kin'youbi made hatarakimasu.", "ta": "திங்கள் முதல் வெள்ளி வரை வேலை செய்கிறேன்.", "en": "I work from Monday to Friday." }
+    ]
+  },
+  {
+    "id": "n5-v-253",
+    "expression": "午後",
+    "reading": "ごご",
+    "romaji": "gogo",
+    "en": "afternoon, p.m.",
+    "ta": "மதியம் / பிற்பகல் (p.m.)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "銀行は 午後 三時までです。", "reading": "ぎんこうは ごご さんじまでです。", "romaji": "ginkou wa gogo sanji made desu.", "ta": "வங்கி பிற்பகல் மூன்று மணி வரை.", "en": "The bank is open until 3 p.m." }
+    ]
+  },
+  {
+    "id": "n5-v-256",
+    "expression": "午前",
+    "reading": "ごぜん",
+    "romaji": "gozen",
+    "en": "morning, a.m.",
+    "ta": "முற்பகல் (a.m.)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "郵便局は 午前 九時からです。", "reading": "ゆうびんきょくは ごぜん くじからです。", "romaji": "yuubinkyoku wa gozen kuji kara desu.", "ta": "தபால் நிலையம் காலை ஒன்பது மணியிலிருந்து (திறந்திருக்கும்).", "en": "The post office opens from 9 a.m." }
+    ]
+  },
+  {
+    "id": "n5-v-291",
+    "expression": "～時",
+    "reading": "～じ",
+    "romaji": "～ji",
+    "en": "~ o'clock",
+    "ta": "～ மணி",
+    "pos": "counter",
+    "examples": [
+      { "ja": "今 四時です。", "reading": "いま よじです。", "romaji": "ima yoji desu.", "ta": "இப்போது நான்கு மணி.", "en": "It is four o'clock now." }
+    ]
+  },
+  {
+    "id": "n5-v-328",
+    "expression": "水曜日",
+    "reading": "すいようび",
+    "romaji": "suiyoubi",
+    "en": "Wednesday",
+    "ta": "புதன்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "水曜日は 働きません。", "reading": "すいようびは はたらきません。", "romaji": "suiyoubi wa hatarakimasen.", "ta": "புதன்கிழமை வேலை செய்வதில்லை.", "en": "I don't work on Wednesdays." }
+    ]
+  },
+  {
+    "id": "n5-v-470",
+    "expression": "土曜日",
+    "reading": "どようび",
+    "romaji": "doyoubi",
+    "en": "Saturday",
+    "ta": "சனிக்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "土曜日の 朝 九時に 起きました。", "reading": "どようびの あさ くじに おきました。", "romaji": "doyoubi no asa kuji ni okimashita.", "ta": "சனிக்கிழமை காலை ஒன்பது மணிக்கு எழுந்தேன்.", "en": "On Saturday I got up at nine in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-501",
+    "expression": "日曜日",
+    "reading": "にちようび",
+    "romaji": "nichiyoubi",
+    "en": "Sunday",
+    "ta": "ஞாயிற்றுக்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "日曜日は 九時に 起きます。", "reading": "にちようびは くじに おきます。", "romaji": "nichiyoubi wa kuji ni okimasu.", "ta": "ஞாயிற்றுக்கிழமை ஒன்பது மணிக்கு எழுந்திருக்கிறேன்.", "en": "On Sundays I get up at nine." }
+    ]
+  },
+  {
+    "id": "n5-v-510",
+    "expression": "寝る",
+    "reading": "ねる",
+    "romaji": "neru",
+    "en": "to sleep, go to bed",
+    "ta": "தூங்க",
+    "pos": "verb-ru",
+    "examples": [
+      { "ja": "毎晩 十時半に 寝ます。", "reading": "まいばん じゅうじはんに ねます。", "romaji": "maiban juujihan ni nemasu.", "ta": "தினமும் இரவு பத்தரை மணிக்குத் தூங்குகிறேன்.", "en": "I go to bed at half past ten every night." }
+    ]
+  },
+  {
+    "id": "n5-v-535",
+    "expression": "働く",
+    "reading": "はたらく",
+    "romaji": "hataraku",
+    "en": "to work",
+    "ta": "வேலை செய்ய",
+    "pos": "verb-u",
+    "examples": [
+      { "ja": "田中さんは 毎日 働きます。", "reading": "たなかさんは まいにち はたらきます。", "romaji": "tanaka-san wa mainichi hatarakimasu.", "ta": "தனாகா-சான் தினமும் வேலை செய்கிறார்.", "en": "Mr Tanaka works every day." }
+    ]
+  },
+  {
+    "id": "n5-v-543",
+    "expression": "早い",
+    "reading": "はやい",
+    "romaji": "hayai",
+    "en": "early",
+    "ta": "சீக்கிரமான",
+    "pos": "i-adj",
+    "examples": [
+      { "ja": "明日は 朝 早く 起きます。", "reading": "あしたは あさ はやく おきます。", "romaji": "ashita wa asa hayaku okimasu.", "ta": "நாளை காலை சீக்கிரம் எழுந்திருப்பேன்.", "en": "Tomorrow I will get up early in the morning." }
+    ]
+  },
+  {
+    "id": "n5-v-549",
+    "expression": "半",
+    "reading": "はん",
+    "romaji": "han",
+    "en": "half (past)",
+    "ta": "அரை (மணி)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "今 七時半です。", "reading": "いま しちじはんです。", "romaji": "ima shichijihan desu.", "ta": "இப்போது ஏழரை மணி.", "en": "It is half past seven now." }
+    ]
+  },
+  {
+    "id": "n5-v-550",
+    "expression": "晩",
+    "reading": "ばん",
+    "romaji": "ban",
+    "en": "evening, night",
+    "ta": "இரவு (மாலைக்குப் பின்)",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日の 晩 九時まで 働きました。", "reading": "きのうの ばん くじまで はたらきました。", "romaji": "kinou no ban kuji made hatarakimashita.", "ta": "நேற்றிரவு ஒன்பது மணி வரை வேலை செய்தேன்.", "en": "Last night I worked until nine." }
+    ]
+  },
+  {
+    "id": "n5-v-573",
+    "expression": "昼",
+    "reading": "ひる",
+    "romaji": "hiru",
+    "en": "noon, daytime",
+    "ta": "மதியம் / பகல்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昼 十二時から 一時まで 寝ます。", "reading": "ひる じゅうにじから いちじまで ねます。", "romaji": "hiru juuniji kara ichiji made nemasu.", "ta": "மதியம் பன்னிரண்டு மணி முதல் ஒரு மணி வரை தூங்குகிறேன்.", "en": "I sleep from twelve noon to one." }
+    ]
+  },
+  {
+    "id": "n5-v-590",
+    "expression": "～分",
+    "reading": "～ふん",
+    "romaji": "～fun",
+    "en": "~ minutes",
+    "ta": "～ நிமிடம்",
+    "pos": "counter",
+    "examples": [
+      { "ja": "今 九時五分です。", "reading": "いま くじ ごふんです。", "romaji": "ima kuji gofun desu.", "ta": "இப்போது ஒன்பது மணி ஐந்து நிமிடம்.", "en": "It is 9:05 now." }
+    ]
+  },
+  {
+    "id": "n5-v-615",
+    "expression": "毎朝",
+    "reading": "まいあさ",
+    "romaji": "maiasa",
+    "en": "every morning",
+    "ta": "தினமும் காலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎朝 六時半に 起きます。", "reading": "まいあさ ろくじはんに おきます。", "romaji": "maiasa rokujihan ni okimasu.", "ta": "தினமும் காலை ஆறரை மணிக்கு எழுந்திருக்கிறேன்.", "en": "I get up at 6:30 every morning." }
+    ]
+  },
+  {
+    "id": "n5-v-618",
+    "expression": "毎日",
+    "reading": "まいにち",
+    "romaji": "mainichi",
+    "en": "every day",
+    "ta": "தினமும்",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎日 九時から 五時まで 働きます。", "reading": "まいにち くじから ごじまで はたらきます。", "romaji": "mainichi kuji kara goji made hatarakimasu.", "ta": "தினமும் ஒன்பது மணி முதல் ஐந்து மணி வரை வேலை செய்கிறேன்.", "en": "I work from nine to five every day." }
+    ]
+  },
+  {
+    "id": "n5-v-620",
+    "expression": "毎晩",
+    "reading": "まいばん",
+    "romaji": "maiban",
+    "en": "every night",
+    "ta": "தினமும் இரவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "毎晩 何時に 寝ますか。", "reading": "まいばん なんじに ねますか。", "romaji": "maiban nanji ni nemasu ka.", "ta": "தினமும் இரவு எத்தனை மணிக்குத் தூங்குவீர்கள்?", "en": "What time do you go to bed every night?" }
+    ]
+  },
+  {
+    "id": "n5-v-659",
+    "expression": "木曜日",
+    "reading": "もくようび",
+    "romaji": "mokuyoubi",
+    "en": "Thursday",
+    "ta": "வியாழக்கிழமை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "木曜日は 午後 二時から 働きます。", "reading": "もくようびは ごご にじから はたらきます。", "romaji": "mokuyoubi wa gogo niji kara hatarakimasu.", "ta": "வியாழக்கிழமை பிற்பகல் இரண்டு மணியிலிருந்து வேலை செய்கிறேன்.", "en": "On Thursday I work from 2 p.m." }
+    ]
+  },
+  {
+    "id": "n5-v-676",
+    "expression": "夕方",
+    "reading": "ゆうがた",
+    "romaji": "yuugata",
+    "en": "early evening",
+    "ta": "மாலை",
+    "pos": "noun",
+    "examples": [
+      { "ja": "郵便局は 夕方 五時までです。", "reading": "ゆうびんきょくは ゆうがた ごじまでです。", "romaji": "yuubinkyoku wa yuugata goji made desu.", "ta": "தபால் நிலையம் மாலை ஐந்து மணி வரை.", "en": "The post office is open until five in the evening." }
+    ]
+  },
+  {
+    "id": "n5-v-691",
+    "expression": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "en": "night",
+    "ta": "இரவு",
+    "pos": "noun",
+    "examples": [
+      { "ja": "昨日の 夜は 十二時に 寝ました。", "reading": "きのうの よるは じゅうにじに ねました。", "romaji": "kinou no yoru wa juuniji ni nemashita.", "ta": "நேற்றிரவு பன்னிரண்டு மணிக்குத் தூங்கினேன்.", "en": "Last night I went to bed at twelve." }
+    ]
+  }
+]
