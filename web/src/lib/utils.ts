@@ -50,3 +50,6 @@ export const kanjiKey = (level: string, unit: number) => `kanji-${level}-${unit}
 
 /** Progress key for a kana unit (unit 0 = the final test for that script). */
 export const kanaKey = (script: string, unit: number) => `kana-${script}-${unit}`;
+
+/** Progress key for a reading or listening unit (unit 0 = the level's final exam). */
+export const skillKey = (track: string, level: string, unit: number) => `${track}-${level}-${unit}`;

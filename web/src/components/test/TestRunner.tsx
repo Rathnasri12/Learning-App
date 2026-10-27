@@ -3,16 +3,30 @@ import Link from "next/link";
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowLeft, ArrowRight, Check, Flag, Timer } from "lucide-react";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import type { Lang3, LessonTest, TestItem } from "@/lib/types";
-import { ITEM_TYPE_LABEL } from "@/lib/types";
+import type { Lang3, LessonTest } from "@/lib/types";
+import { itemLabel } from "@/lib/types";
 import { lessonKey, useProgress } from "@/lib/progress";
 import Explain, { LangSwitch } from "../Explain";
 import { cx, hashString, seededRandom, shuffleWith } from "@/lib/utils";
 import McqView from "./McqView";
 import SentenceOrderView from "./SentenceOrderView";
 import PassageClozeView from "./PassageClozeView";
+import ReadingView from "./ReadingView";
+import ListeningView from "./ListeningView";
 import Results from "./Results";
-import { type Answer, emptyAnswer, isAnswered, isCloze, isMcq, isOrder, scoreItem } from "./types";
+import {
+  type Answer,
+  emptyAnswer,
+  isAnswered,
+  isCloze,
+  isListening,
+  isMcq,
+  isOrder,
+  isReading,
+  itemMinutes,
+  makePerm,
+  scoreItem,
+} from "./types";
 
 type Phase = "intro" | "run" | "results";
 
@@ -74,14 +88,7 @@ export default function TestRunner({
   const perms = useMemo<Perms>(() => {
     const rnd = seededRandom(hashString(key) + attempt * 7919 + 1);
     const out: Perms = {};
-    for (const it of items) {
-      if (isMcq(it)) out[it.id] = shuffleWith(it.options.map((_, k) => k), rnd);
-      else if (isOrder(it)) {
-        let p = shuffleWith(it.chunks.map((_, k) => k), rnd);
-        if (p.every((c, k) => c === k)) p = [...p.slice(1), p[0]];
-        out[it.id] = p;
-      } else if (isCloze(it)) out[it.id] = it.blanks.map((b) => shuffleWith(b.options.map((_, k) => k), rnd));
-    }
+    for (const it of items) out[it.id] = makePerm(it, (ks) => shuffleWith(ks, rnd));
     return out;
   }, [items, key, attempt]);
 
@@ -143,7 +150,12 @@ export default function TestRunner({
   const ss = String(elapsed % 60).padStart(2, "0");
 
   if (phase === "intro") {
-    const mix = items.reduce<Record<string, number>>((acc, it) => ((acc[it.type] = (acc[it.type] ?? 0) + 1), acc), {});
+    const mix = items.reduce<Record<string, number>>((acc, it) => {
+      const ja = itemLabel(it).ja;
+      acc[ja] = (acc[ja] ?? 0) + 1;
+      return acc;
+    }, {});
+    const minutes = Math.ceil(items.reduce((a, it) => a + itemMinutes(it), 0));
     return (
       <div className="space-y-4">
         <Link href={nav.back.href} className="btn btn-ghost !px-3 !py-2 text-sm">
@@ -160,14 +172,14 @@ export default function TestRunner({
           <div className="grid grid-cols-3 gap-3 text-center">
             <Stat label="items" value={String(items.length)} />
             <Stat label="pass mark" value={`${Math.round(test.passMark * 100)}%`} />
-            <Stat label="est. time" value={`${Math.ceil(items.length * 0.75)} min`} />
+            <Stat label="est. time" value={`${minutes} min`} />
           </div>
           <div>
             <div className="text-xs font-extrabold text-muted mb-2">QUESTION TYPES</div>
             <div className="flex flex-wrap gap-2">
               {Object.entries(mix).map(([t, c]) => (
                 <span key={t} className="px-3 py-1 rounded-full bg-bg-2 text-sm font-bold">
-                  <span lang="ja">{ITEM_TYPE_LABEL[t as TestItem["type"]].ja}</span>
+                  <span lang="ja">{t}</span>
                   <span className="text-muted"> ×{c}</span>
                 </span>
               ))}
@@ -210,6 +222,7 @@ export default function TestRunner({
         possible={totals.possible}
         elapsed={elapsed}
         perms={perms}
+        level={level}
         onRetry={retry}
       />
     );
@@ -238,7 +251,7 @@ export default function TestRunner({
           Q{idx + 1} / {items.length}
         </div>
         <div className="px-3 py-1 rounded-full bg-indigo-2 text-indigo text-xs font-extrabold">
-          <span lang="ja">{ITEM_TYPE_LABEL[item.type].ja}</span> · {ITEM_TYPE_LABEL[item.type].en}
+          <span lang="ja">{itemLabel(item).ja}</span> · {itemLabel(item).en}
         </div>
       </div>
 
@@ -259,6 +272,12 @@ export default function TestRunner({
           {isCloze(item) && value?.kind === "cloze" && (
             <PassageClozeView item={item} perms={perms[item.id] as number[][]} value={value} onChange={setValue} reveal={revealed} />
           )}
+          {isReading(item) && value?.kind === "cloze" && (
+            <ReadingView item={item} perms={perms[item.id] as number[][]} value={value} onChange={setValue} reveal={revealed} />
+          )}
+          {isListening(item) && value?.kind === "mcq" && (
+            <ListeningView item={item} perm={perms[item.id] as number[]} value={value} onChange={setValue} reveal={revealed} level={level} />
+          )}
 
           <AnimatePresence>
             {revealed && (
@@ -272,9 +291,10 @@ export default function TestRunner({
               >
                 <div className="flex items-center justify-between gap-2 mb-1">
                   <div className="text-xs font-extrabold text-muted">
-                    {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "Correct ✓" : "Wrong ✕"} · Explanation
+                    {scoreItem(item, answers[item.id])[0] === scoreItem(item, answers[item.id])[1] ? "Correct ✓" : "Wrong ✕"}
+                    {isListening(item) ? " · transcript below" : isReading(item) ? " · explanations below" : " · Explanation"}
                   </div>
-                  <LangSwitch />
+                  {(item.explanation_en || item.explanation_ta || isReading(item)) && <LangSwitch />}
                 </div>
                 <Explain en={item.explanation_en} ta={item.explanation_ta} className="leading-relaxed" />
               </motion.div>

@@ -104,3 +104,8 @@ Common fields: `id` (e.g. `"L01-q01"`), `type`, `explanation_ta`.
 Target mix per N5 lesson test (about 25 items): 3 kanji_reading (only when the lesson has kanji words; otherwise 0 and more vocab_context), 2 orthography, 6 vocab_context, 3 paraphrase, 6 grammar_form, 3 sentence_order, 1 passage_cloze with 2–3 blanks.
 
 Distractors must be plausible: same part of speech, same length, a form the learner has actually seen. Never put the correct answer at index 0 for more than about a quarter of the items.
+
+## Reading and listening tracks
+`content/reading/<level>/unit-XX.json` + `exam.json` and `content/listening/<level>/unit-XX.json` + `exam.json`.
+Item types `reading` (passage + several 内容理解 / 情報検索 questions, furigana markup `{漢字|かんじ}`, per-sentence `en`/`ta`) and `listening` (`task` / `point` / `gist` / `utterance` / `response`, Japanese only).
+Full field rules and the JLPT blueprints per level are in `_sources/SKILL_BRIEF.md`; validate with `node _sources/tools/check_skill.mjs <reading|listening> <level> [units…] [exam]`.

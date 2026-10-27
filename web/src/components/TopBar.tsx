@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BookOpen, Flame, House, Languages, PenLine, Sparkles, Settings as SettingsIcon } from "lucide-react";
+import { BookOpen, BookOpenText, Flame, Headphones, House, Languages, PenLine, Sparkles, Settings as SettingsIcon } from "lucide-react";
 import { useProgress } from "@/lib/progress";
 import { useEffect, useState } from "react";
 import { cx } from "@/lib/utils";
@@ -12,6 +12,8 @@ const NAV = [
   { href: "/kana", label: "Kana", ja: "かな", icon: Languages, match: (p: string) => p.startsWith("/kana") },
   { href: "/n5", label: "Lessons", ja: "レッスン", icon: BookOpen, match: (p: string) => /^\/n[345](\/|$)/.test(p) },
   { href: "/kanji", label: "Kanji", ja: "漢字", icon: PenLine, match: (p: string) => p.startsWith("/kanji") },
+  { href: "/reading", label: "Reading", ja: "読解", icon: BookOpenText, match: (p: string) => p.startsWith("/reading") },
+  { href: "/listening", label: "Listening", ja: "聴解", icon: Headphones, match: (p: string) => p.startsWith("/listening") },
 ];
 
 export default function TopBar() {
@@ -29,18 +31,18 @@ export default function TopBar() {
             <span className="inline-grid place-items-center w-8 h-8 rounded-xl bg-sakura text-white" lang="ja">
               日
             </span>
-            <span className="hidden min-[380px]:inline">
+            <span className="hidden min-[380px]:inline md:hidden">
               Nihongo <span className="text-sakura">Tamil</span>
             </span>
           </Link>
-          <nav className="hidden sm:flex items-center gap-1">
+          <nav className="hidden md:flex items-center gap-0.5">
             {NAV.map(({ href, label, ja, icon: Icon, match }) => (
               <Link
                 key={href}
                 href={href}
                 aria-current={match(pathname) ? "page" : undefined}
                 className={cx(
-                  "flex items-center gap-1.5 px-2.5 py-1 rounded-xl hover:bg-bg-2 transition",
+                  "flex items-center gap-1.5 px-2 py-1 rounded-xl hover:bg-bg-2 transition",
                   match(pathname) && "bg-sakura-2 text-sakura",
                 )}
               >
@@ -72,10 +74,10 @@ export default function TopBar() {
 
       {/* Phones: the same links as a bottom tab bar, always visible */}
       <nav
-        className="sm:hidden fixed bottom-0 inset-x-0 z-40 bg-bg/95 backdrop-blur border-t border-line"
+        className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-bg/95 backdrop-blur border-t border-line"
         style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
       >
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-6">
           {NAV.map(({ href, label, ja, icon: Icon, match }) => {
             const active = match(pathname);
             return (
@@ -86,7 +88,7 @@ export default function TopBar() {
                 className={cx("flex flex-col items-center gap-0.5 py-2", active ? "text-sakura" : "text-muted")}
               >
                 <Icon size={22} />
-                <span className="text-xs font-extrabold leading-none">{label}</span>
+                <span className="text-[10.5px] min-[400px]:text-xs font-extrabold leading-none">{label}</span>
                 <span className="text-[9px] font-bold leading-none opacity-80" lang="ja">
                   {ja}
                 </span>

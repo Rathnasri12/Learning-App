@@ -5,15 +5,18 @@ import confetti from "canvas-confetti";
 import { ArrowRight, RotateCcw, Home } from "lucide-react";
 import { useEffect, useState } from "react";
 import type { TestItem } from "@/lib/types";
-import { ITEM_TYPE_LABEL } from "@/lib/types";
+import { itemLabel } from "@/lib/types";
 import Explain, { LangSwitch } from "../Explain";
 import { cx } from "@/lib/utils";
+import { rubyPlain } from "@/lib/ruby";
 import ProgressRing from "../ProgressRing";
 import McqView from "./McqView";
 import SentenceOrderView from "./SentenceOrderView";
 import PassageClozeView from "./PassageClozeView";
+import ReadingView from "./ReadingView";
+import ListeningView from "./ListeningView";
 import type { Perms, TestNav } from "./TestRunner";
-import { type Answer, emptyAnswer, isCloze, isMcq, isOrder, scoreItem } from "./types";
+import { type Answer, emptyAnswer, isCloze, isListening, isMcq, isOrder, isReading, scoreItem } from "./types";
 
 export default function Results({
   nav,
@@ -25,6 +28,7 @@ export default function Results({
   possible,
   elapsed,
   perms,
+  level,
   onRetry,
 }: {
   nav: TestNav;
@@ -36,6 +40,7 @@ export default function Results({
   possible: number;
   elapsed: number;
   perms: Perms;
+  level: string;
   onRetry: () => void;
 }) {
   const passed = score >= passMark;
@@ -52,9 +57,10 @@ export default function Results({
 
   const byType = items.reduce<Record<string, { e: number; p: number }>>((acc, it) => {
     const [e, p] = scoreItem(it, answers[it.id]);
-    acc[it.type] = acc[it.type] ?? { e: 0, p: 0 };
-    acc[it.type].e += e;
-    acc[it.type].p += p;
+    const t = itemLabel(it).ja;
+    acc[t] = acc[t] ?? { e: 0, p: 0 };
+    acc[t].e += e;
+    acc[t].p += p;
     return acc;
   }, {});
 
@@ -116,7 +122,7 @@ export default function Results({
           {Object.entries(byType).map(([t, v]) => (
             <li key={t} className="flex items-center gap-3 text-sm">
               <span className="w-36 shrink-0 font-bold">
-                <span lang="ja">{ITEM_TYPE_LABEL[t as TestItem["type"]].ja}</span>
+                <span lang="ja">{t}</span>
               </span>
               <div className="flex-1 h-2.5 rounded-full bg-line overflow-hidden">
                 <motion.div
@@ -170,10 +176,18 @@ export default function Results({
                 </span>
                 <div className="flex-1 min-w-0">
                   <div className="text-xs font-extrabold text-muted">
-                    <span lang="ja">{ITEM_TYPE_LABEL[it.type].ja}</span>
+                    <span lang="ja">{itemLabel(it).ja}</span>
                   </div>
                   <div className="truncate" lang="ja">
-                    {isMcq(it) ? it.sentence : isOrder(it) ? `${it.before}＿★＿${it.after}` : it.passage}
+                    {isMcq(it)
+                      ? it.sentence
+                      : isOrder(it)
+                        ? `${it.before}＿★＿${it.after}`
+                        : isCloze(it)
+                          ? it.passage
+                          : isReading(it)
+                            ? rubyPlain(it.title ?? it.paragraphs[0]?.[0]?.ja ?? "")
+                            : rubyPlain(it.question ?? it.intro ?? it.lines[0]?.t ?? "")}
                   </div>
                 </div>
                 <span className="text-xs font-extrabold text-muted">{isOpen ? "▲" : "▼"}</span>
@@ -189,13 +203,19 @@ export default function Results({
                   {isCloze(it) && a.kind === "cloze" && (
                     <PassageClozeView item={it} perms={perms[it.id] as number[][]} value={a} onChange={() => {}} reveal />
                   )}
-                  <div className="rounded-xl bg-bg-2 p-3">
+                  {isReading(it) && a.kind === "cloze" && (
+                    <ReadingView item={it} perms={perms[it.id] as number[][]} value={a} onChange={() => {}} reveal />
+                  )}
+                  {isListening(it) && a.kind === "mcq" && (
+                    <ListeningView item={it} perm={perms[it.id] as number[]} value={a} onChange={() => {}} reveal level={level} />
+                  )}
+                  {(it.explanation_en || it.explanation_ta) && <div className="rounded-xl bg-bg-2 p-3">
                     <div className="flex items-center justify-between gap-2 mb-1">
                       <div className="text-xs font-extrabold text-muted">Explanation</div>
                       <LangSwitch />
                     </div>
                     <Explain en={it.explanation_en} ta={it.explanation_ta} className="leading-relaxed" />
-                  </div>
+                  </div>}
                 </div>
               )}
             </motion.div>

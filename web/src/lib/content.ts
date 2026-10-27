@@ -16,6 +16,12 @@ import type {
   Lesson,
   LessonBundle,
   LessonTest,
+  ListeningItem,
+  ReadingItem,
+  SkillExam,
+  SkillTrackName,
+  SkillUnit,
+  SkillUnitMeta,
   Syllabus,
   Vocab,
 } from "./types";
@@ -171,4 +177,39 @@ export const LEVELS = ["n5", "n4", "n3"] as const;
 /** Levels whose syllabus exists (a level appears in the app once its syllabus is written). */
 export function availableLevels(): string[] {
   return LEVELS.filter((l) => fs.existsSync(path.join(CONTENT_ROOT, l, "syllabus.json")));
+}
+
+// ---- Reading and listening tracks ----
+// content/<track>/<level>/unit-XX.json (one file per unit) and exam.json. Units are found by listing the folder.
+
+export function getSkillUnits(track: SkillTrackName, level: string): SkillUnitMeta[] {
+  const dir = path.join(CONTENT_ROOT, track, level);
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .map((f) => f.match(/^unit-(\d+)\.json$/)?.[1])
+    .filter((x): x is string => !!x)
+    .map(Number)
+    .sort((a, b) => a - b)
+    .flatMap((n) => {
+      const u = getSkillUnit(track, level, n);
+      if (!u) return [];
+      return [{ n, title: u.title, count: u.items.length, kinds: [...new Set(u.items.map((i) => i.kind as string))] }];
+    });
+}
+
+export function getSkillUnit(track: "reading", level: string, n: number): SkillUnit<ReadingItem> | null;
+export function getSkillUnit(track: "listening", level: string, n: number): SkillUnit<ListeningItem> | null;
+export function getSkillUnit(track: SkillTrackName, level: string, n: number): SkillUnit<ReadingItem | ListeningItem> | null;
+export function getSkillUnit(track: SkillTrackName, level: string, n: number) {
+  return readJson<SkillUnit<ReadingItem | ListeningItem>>(`${track}/${level}/unit-${pad(n)}.json`);
+}
+
+export function getSkillExam(track: SkillTrackName, level: string): SkillExam<ReadingItem | ListeningItem> | null {
+  return readJson<SkillExam<ReadingItem | ListeningItem>>(`${track}/${level}/exam.json`);
+}
+
+/** Levels that have at least one unit in this track. */
+export function skillLevels(track: SkillTrackName): string[] {
+  return LEVELS.filter((l) => getSkillUnits(track, l).length > 0);
 }

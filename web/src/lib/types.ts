@@ -49,7 +49,7 @@ export type McqItem = {
   target?: string;
   options: string[];
   answer: number;
-  explanation_ta: string;
+  explanation_ta?: string;
   explanation_en?: string;
 };
 
@@ -60,7 +60,7 @@ export type SentenceOrderItem = {
   chunks: string[];
   star: number;
   after: string;
-  explanation_ta: string;
+  explanation_ta?: string;
   explanation_en?: string;
 };
 
@@ -69,11 +69,61 @@ export type PassageClozeItem = {
   type: "passage_cloze";
   passage: string;
   blanks: { options: string[]; answer: number }[];
-  explanation_ta: string;
+  explanation_ta?: string;
   explanation_en?: string;
 };
 
-export type TestItem = McqItem | SentenceOrderItem | PassageClozeItem;
+/** One sentence of a reading passage. `ja` may carry furigana as {漢字|かんじ}. */
+export type ReadingSentence = { ja: string; en: string; ta: string };
+
+export type ReadingQuestion = {
+  q: string;
+  options: string[];
+  answer: number;
+  explanation_en: string;
+  explanation_ta: string;
+};
+
+export type ReadingKind = "short" | "mid" | "long" | "info";
+
+/** JLPT 読解: a passage (prose, or a notice with a table for 情報検索) and its questions. */
+export type ReadingItem = {
+  id: string;
+  type: "reading";
+  kind: ReadingKind;
+  title?: string;
+  paragraphs: ReadingSentence[][];
+  table?: { caption?: string; head: string[]; rows: string[][] };
+  words: { ja: string; reading: string; en: string; ta: string }[];
+  questions: ReadingQuestion[];
+  explanation_ta?: string;
+  explanation_en?: string;
+};
+
+export type ListeningKind = "task" | "point" | "gist" | "utterance" | "response";
+export type Voice = "M" | "F" | "N";
+
+/**
+ * JLPT 聴解. `intro` is the narrator's setup (and question, for task/point/gist), `lines` the dialogue,
+ * `question` is repeated after the dialogue. Options are shown on screen for task/point only; for
+ * gist/utterance/response they are heard, as in the real exam. Japanese only, no translations.
+ */
+export type ListeningItem = {
+  id: string;
+  type: "listening";
+  kind: ListeningKind;
+  intro?: string;
+  scene?: string; // utterance: emoji picture of the situation, with an arrow at the speaker
+  lines: { s: Voice; t: string }[];
+  question?: string;
+  optionVoice?: Voice;
+  options: string[];
+  answer: number;
+  explanation_ta?: string;
+  explanation_en?: string;
+};
+
+export type TestItem = McqItem | SentenceOrderItem | PassageClozeItem | ReadingItem | ListeningItem;
 
 export type LessonTest = { passMark: number; items: TestItem[] };
 
@@ -119,7 +169,37 @@ export const ITEM_TYPE_LABEL: Record<TestItem["type"], { ja: string; en: string 
   usage: { ja: "用法", en: "Usage" },
   sentence_order: { ja: "文の組み立て", en: "Sentence order" },
   passage_cloze: { ja: "文章の文法", en: "Passage grammar" },
+  reading: { ja: "読解", en: "Reading" },
+  listening: { ja: "聴解", en: "Listening" },
 };
+
+export const READING_KIND_LABEL: Record<ReadingKind, { ja: string; en: string }> = {
+  short: { ja: "内容理解（短文）", en: "Short passage" },
+  mid: { ja: "内容理解（中文）", en: "Mid-length passage" },
+  long: { ja: "内容理解（長文）", en: "Long passage" },
+  info: { ja: "情報検索", en: "Information search" },
+};
+
+export const LISTENING_KIND_LABEL: Record<ListeningKind, { ja: string; en: string }> = {
+  task: { ja: "課題理解", en: "Task" },
+  point: { ja: "ポイント理解", en: "Key point" },
+  gist: { ja: "概要理解", en: "Gist" },
+  utterance: { ja: "発話表現", en: "What do you say?" },
+  response: { ja: "即時応答", en: "Quick response" },
+};
+
+/** Label for a test item; reading and listening items are labelled by their JLPT sub-type. */
+export function itemLabel(it: TestItem): { ja: string; en: string } {
+  if (it.type === "reading") return READING_KIND_LABEL[it.kind];
+  if (it.type === "listening") return LISTENING_KIND_LABEL[it.kind];
+  return ITEM_TYPE_LABEL[it.type];
+}
+
+export type SkillTrackName = "reading" | "listening";
+
+export type SkillUnit<T> = { unit: number; title: Bi; intro: Bi; passMark: number; items: T[] };
+export type SkillExam<T> = { title: Bi; passMark: number; items: T[] };
+export type SkillUnitMeta = { n: number; title: Bi; count: number; kinds: string[] };
 
 export type Bi = { en: string; ta: string };
 

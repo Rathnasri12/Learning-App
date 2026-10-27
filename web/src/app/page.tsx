@@ -65,18 +65,18 @@ export default function Home() {
           </div>
         </Link>
         {[
-          { ja: "読解", en: "Reading track" },
-          { ja: "聴解", en: "Listening track" },
+          { href: "/reading", ja: "読解", en: "Reading track", sub: "Notices, emails and essays with furigana and Tamil help" },
+          { href: "/listening", ja: "聴解", en: "Listening track", sub: "Conversations in every JLPT listening question type" },
         ].map((t) => (
-          <div key={t.en} className="card p-5 opacity-60 flex items-center gap-4">
+          <Link key={t.en} href={t.href} className="card p-5 flex items-center gap-4 hover:-translate-y-0.5 transition">
             <div className="text-3xl font-black" lang="ja">
               {t.ja}
             </div>
             <div>
               <div className="font-extrabold">{t.en}</div>
-              <div className="text-sm text-fg-2">Coming soon</div>
+              <div className="text-sm text-fg-2">{t.sub}</div>
             </div>
-          </div>
+          </Link>
         ))}
       </section>
     </div>
