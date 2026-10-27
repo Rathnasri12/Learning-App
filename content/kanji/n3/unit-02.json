@@ -1,0 +1,381 @@
+{
+  "unit": 2,
+  "title": { "en": "Life, voice and light", "ta": "வாழ்க்கை, குரல், ஒளி" },
+  "intro": {
+    "en": "In this unit you will learn thirteen kanji about life, the voice, the head, light and shapes. Many of them use parts you know: water (氵), thread (糸), a bow (弓), big (大). When a kanji looks hard, cut it into the small parts you already know.",
+    "ta": "இந்தப் பிரிவில் வாழ்க்கை, குரல், தலை, ஒளி, வடிவம் பற்றிய பதின்மூன்று கான்ஜிகளைக் கற்போம். இவற்றில் பல நீங்கள் அறிந்த பகுதிகளைக் கொண்டவை: நீர் (氵), நூல் (糸), வில் (弓), பெரிய (大). ஒரு கான்ஜி கடினமாகத் தெரிந்தால், அதை நீங்கள் அறிந்த சிறு பகுதிகளாகப் பிரித்துப் பாருங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "活",
+      "meaning": { "en": "lively, life", "ta": "உயிரோட்டம், வாழ்க்கை" },
+      "on": ["かつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, a thousand (千) mouths (口). Give water to a thousand thirsty mouths, and everyone comes alive and lively again.",
+        "ta": "இடப்புறம் நீர் (氵). வலப்புறம் ஆயிரம் (千) வாய்கள் (口). தாகமாக இருக்கும் ஆயிரம் வாய்களுக்குத் தண்ணீர் கொடுத்தால், எல்லோரும் மீண்டும் உயிரோட்டமாகிவிடுவார்கள்!"
+      },
+      "note": {
+        "en": "Before き, かつ becomes かっ: 活気 (かっき, liveliness).",
+        "ta": "き-க்கு முன் かつ → かっ: 活気 (かっき, உற்சாகம்)."
+      },
+      "examples": [
+        { "word": "生活", "reading": "せいかつ", "en": "life; to live", "ta": "வாழ்க்கை; வாழ", "vocabId": "n4-v-644" },
+        { "word": "活動", "reading": "かつどう", "en": "activity", "ta": "செயல்பாடு", "vocabId": "n3-v-0627" },
+        { "word": "活気", "reading": "かっき", "en": "liveliness, energy", "ta": "உற்சாகம், சுறுசுறுப்பு", "vocabId": "n3-v-0624" },
+        { "word": "活用", "reading": "かつよう", "en": "practical use; (verb) forms", "ta": "பயன்படுத்துதல்; (வினை) வடிவ மாற்றம்", "vocabId": "n3-v-0629" }
+      ]
+    },
+    {
+      "kanji": "原",
+      "meaning": { "en": "field; origin", "ta": "சமவெளி; மூலம்" },
+      "on": ["げん"],
+      "kun": ["はら"],
+      "mnemonic": {
+        "en": "Under a cliff (厂), white (白) water comes out and runs down in a small (小) stream. This spring is the origin of a river. Around it is a wide, open field.",
+        "ta": "ஒரு பாறைச் சரிவின் (厂) கீழ், வெள்ளையான (白) நீர் ஊற்றெடுத்து சிறிய (小) ஓடையாக ஓடுகிறது. இந்த ஊற்றே ஆற்றின் மூலம். அதைச் சுற்றி பரந்த திறந்த சமவெளி!"
+      },
+      "note": {
+        "en": "原因 (げんいん) = cause, the “origin” of something. 原 is the left part of 願 (wish), which you will meet later.",
+        "ta": "原因 (げんいん) = காரணம், ஒன்றின் “மூலம்”. பின்னால் வரும் 願 (வேண்டுதல்)-இன் இடப் பகுதி 原 தான்."
+      },
+      "examples": [
+        { "word": "原因", "reading": "げんいん", "en": "cause", "ta": "காரணம்", "vocabId": "n4-v-233" },
+        { "word": "原", "reading": "はら", "en": "field, plain", "ta": "சமவெளி (திறந்த மைதானம்)", "vocabId": "n3-v-1798" },
+        { "word": "野原", "reading": "のはら", "en": "open field", "ta": "திறந்த புல்வெளி" },
+        { "word": "草原", "reading": "そうげん", "en": "grassland, meadow", "ta": "புல்வெளி" }
+      ]
+    },
+    {
+      "kanji": "交",
+      "meaning": { "en": "cross, mix", "ta": "குறுக்கிடுதல், கலத்தல்" },
+      "on": ["こう"],
+      "kun": ["ま.じる", "ま.ぜる"],
+      "mnemonic": {
+        "en": "A father (父) wears a hat (亠). He sits and crosses his legs, like the X at the bottom. Crossing lines meet and mix: cross, mix, exchange.",
+        "ta": "ஒரு அப்பா (父) தொப்பி (亠) அணிந்திருக்கிறார். அவர் அமர்ந்து, கீழே உள்ள X போலக் கால்களைக் குறுக்காகப் போட்டிருக்கிறார். குறுக்கிடும் கோடுகள் சந்தித்துக் கலக்கின்றன: குறுக்கிடுதல், கலத்தல், பரிமாற்றம்."
+      },
+      "note": {
+        "en": "交番 (police box) is こうばん, with ゛. 校 (school) = tree (木) + 交.",
+        "ta": "交番 (சிறு காவல் நிலையம்) = こうばん; ゛ உண்டு. 校 (பள்ளி) = மரம் (木) + 交."
+      },
+      "examples": [
+        { "word": "交通", "reading": "こうつう", "en": "traffic, transport", "ta": "போக்குவரத்து", "vocabId": "n4-v-318" },
+        { "word": "交番", "reading": "こうばん", "en": "police box", "ta": "சிறு காவல் நிலையம் (போலீஸ் பூத்)", "vocabId": "n5-v-248" },
+        { "word": "交差点", "reading": "こうさてん", "en": "crossroads, intersection", "ta": "சந்திப்பு (நாற்சந்தி)", "vocabId": "n5-v-246" },
+        { "word": "交ぜる", "reading": "まぜる", "en": "to mix in", "ta": "சேர்த்துக் கலக்க", "vocabId": "n3-v-1986" }
+      ]
+    },
+    {
+      "kanji": "組",
+      "meaning": { "en": "group, put together", "ta": "குழு, இணைத்தல்" },
+      "on": ["そ"],
+      "kun": ["く.む", "くみ"],
+      "mnemonic": {
+        "en": "On the left is thread (糸). On the right is a pile of boards stacked on a shelf (且). You twist many threads together and pile them up into one strong rope. Many put together = a group, a team.",
+        "ta": "இடப்புறம் நூல் (糸). வலப்புறம் அலமாரியில் அடுக்கிய பலகைகள் (且). பல நூல்களை முறுக்கி ஒன்றாக அடுக்கினால் ஒரு வலுவான கயிறு. பல ஒன்றாகச் சேர்ந்தால் = குழு, அணி!"
+      },
+      "note": {
+        "en": "After another word, くみ often becomes ぐみ: 番組 (ばんぐみ, TV program).",
+        "ta": "வேறு சொல்லுக்குப் பின் くみ பெரும்பாலும் ぐみ ஆகும்: 番組 (ばんぐみ, டிவி நிகழ்ச்சி)."
+      },
+      "examples": [
+        { "word": "番組", "reading": "ばんぐみ", "en": "TV or radio program", "ta": "(டிவி / வானொலி) நிகழ்ச்சி", "vocabId": "n4-v-649" },
+        { "word": "組", "reading": "くみ", "en": "class (group in a school year)", "ta": "வகுப்புப் பிரிவு", "vocabId": "n3-v-0792" },
+        { "word": "組む", "reading": "くむ", "en": "to put together; to team up", "ta": "இணைக்க; கூட்டுச் சேர", "vocabId": "n3-v-0794" },
+        { "word": "組合", "reading": "くみあい", "en": "union, association", "ta": "சங்கம்", "vocabId": "n3-v-0793" }
+      ]
+    },
+    {
+      "kanji": "引",
+      "meaning": { "en": "pull", "ta": "இழுத்தல்" },
+      "on": ["いん"],
+      "kun": ["ひ.く"],
+      "mnemonic": {
+        "en": "On the left is a bow (弓). On the right is one straight line: the bowstring. You pull the string back hard before you shoot the arrow.",
+        "ta": "இடப்புறம் ஒரு வில் (弓). வலப்புறம் ஒரு நேர் கோடு: அதன் நாண். அம்பு எய்வதற்கு முன் நாணை வலுவாகப் பின்னால் இழுக்கிறோம்!"
+      },
+      "note": {
+        "en": "引く can also mean to catch a cold (かぜを 引く) or to subtract. Before small っ it becomes ひっ: 引っ越す (ひっこす).",
+        "ta": "引く என்பதற்குச் சளி பிடித்தல் (かぜを 引く), கழித்தல் என்ற பொருள்களும் உண்டு. சிறிய っ-க்கு முன் ひっ ஆகும்: 引っ越す (ひっこす)."
+      },
+      "examples": [
+        { "word": "引く", "reading": "ひく", "en": "to pull", "ta": "இழுக்க", "vocabId": "n5-v-559" },
+        { "word": "引き出し", "reading": "ひきだし", "en": "drawer", "ta": "இழுப்பறை", "vocabId": "n4-v-416" },
+        { "word": "引っ越す", "reading": "ひっこす", "en": "to move house", "ta": "வீடு மாற", "vocabId": "n4-v-330" },
+        { "word": "引用", "reading": "いんよう", "en": "quotation", "ta": "மேற்கோள்", "vocabId": "n3-v-0434" }
+      ]
+    },
+    {
+      "kanji": "直",
+      "meaning": { "en": "straight; fix", "ta": "நேரான; சரிசெய்தல்" },
+      "on": ["ちょく", "じき"],
+      "kun": ["なお.す", "なお.る"],
+      "mnemonic": {
+        "en": "Ten (十) eyes (目) look along a ruler (the L-shaped line at the bottom). They check that the line is perfectly straight. If it is not, they fix it.",
+        "ta": "பத்து (十) கண்கள் (目) கீழே உள்ள L வடிவ அளவுகோலை ஒட்டிப் பார்க்கின்றன. கோடு முழுக்க நேராக இருக்கிறதா என்று சோதிக்கின்றன. இல்லையென்றால், சரிசெய்கின்றன!"
+      },
+      "note": {
+        "en": "正直 (honest) is しょうじき, not せいちょく. 直す = fix something (you do it); 直る = something gets fixed.",
+        "ta": "正直 (நேர்மையான) = しょうじき; せいちょく அல்ல. 直す = (நாம்) ஒன்றைச் சரிசெய்வது; 直る = ஒன்று சரியாவது."
+      },
+      "examples": [
+        { "word": "直す", "reading": "なおす", "en": "to fix; to correct", "ta": "சரிசெய்ய; திருத்த", "vocabId": "n4-v-534" },
+        { "word": "直る", "reading": "なおる", "en": "to be fixed", "ta": "சரியாக", "vocabId": "n4-v-532" },
+        { "word": "正直", "reading": "しょうじき", "en": "honest; honesty", "ta": "நேர்மையான", "vocabId": "n3-v-0138" },
+        { "word": "直後", "reading": "ちょくご", "en": "right after", "ta": "உடனே பின்னால்" }
+      ]
+    },
+    {
+      "kanji": "番",
+      "meaning": { "en": "number, turn", "ta": "எண், முறை (வரிசை)" },
+      "on": ["ばん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "At the bottom is a rice field (田). On top, rice (米) with one extra stroke, like a guard’s hat. The farmers take turns guarding the field at night: turn number 1, turn number 2…",
+        "ta": "அடியில் ஒரு நெல் வயல் (田). மேலே, காவலரின் தொப்பி போல ஒரு கூடுதல் கோடுடன் அரிசி (米). விவசாயிகள் இரவில் முறை வைத்து வயலைக் காவல் காக்கிறார்கள்: முதல் முறை, இரண்டாம் முறை…"
+      },
+      "examples": [
+        { "word": "一番", "reading": "いちばん", "en": "most; number one", "ta": "மிகவும்; முதல் (எல்லாவற்றிலும்)", "vocabId": "n5-v-059" },
+        { "word": "番号", "reading": "ばんごう", "en": "number", "ta": "எண் (வரிசை எண்)", "vocabId": "n5-v-554" },
+        { "word": "交番", "reading": "こうばん", "en": "police box", "ta": "சிறு காவல் நிலையம் (போலீஸ் பூத்)", "vocabId": "n5-v-248" },
+        { "word": "番組", "reading": "ばんぐみ", "en": "TV or radio program", "ta": "(டிவி / வானொலி) நிகழ்ச்சி", "vocabId": "n4-v-649" }
+      ]
+    },
+    {
+      "kanji": "声",
+      "meaning": { "en": "voice", "ta": "குரல்" },
+      "on": ["せい"],
+      "kun": ["こえ"],
+      "mnemonic": {
+        "en": "On top is 士, a strong man (like 土, but the bottom line is short). Under him is a half-open door. The man stands at the door and calls his friend with a loud voice.",
+        "ta": "மேலே 士: ஒரு வலிமையான ஆள் (土 போல; ஆனால் அடிக் கோடு குட்டை). அவருக்குக் கீழே பாதி திறந்த கதவு. அவர் வாசலில் நின்று உரத்த குரலில் நண்பனைக் கூப்பிடுகிறார்!"
+      },
+      "note": {
+        "en": "After another word, こえ often becomes ごえ: 大声 (おおごえ), 歌声 (うたごえ).",
+        "ta": "வேறு சொல்லுக்குப் பின் こえ பெரும்பாலும் ごえ ஆகும்: 大声 (おおごえ), 歌声 (うたごえ)."
+      },
+      "examples": [
+        { "word": "声", "reading": "こえ", "en": "voice", "ta": "குரல்", "vocabId": "n5-v-249" },
+        { "word": "大声", "reading": "おおごえ", "en": "loud voice", "ta": "உரத்த குரல்" },
+        { "word": "歌声", "reading": "うたごえ", "en": "singing voice", "ta": "பாடும் குரல்" },
+        { "word": "音声", "reading": "おんせい", "en": "sound (of a voice or video)", "ta": "ஒலி (குரல், வீடியோ)" }
+      ]
+    },
+    {
+      "kanji": "形",
+      "meaning": { "en": "shape", "ta": "வடிவம்" },
+      "on": ["けい", "ぎょう"],
+      "kun": ["かたち", "かた"],
+      "mnemonic": {
+        "en": "On the left is a frame (开), like a window frame. On the right are three brush strokes (彡). An artist uses a brush inside the frame to draw a shape.",
+        "ta": "இடப்புறம் ஒரு சட்டம் (开), ஜன்னல் சட்டம் போல. வலப்புறம் மூன்று தூரிகைக் கோடுகள் (彡). ஓவியர் சட்டத்துக்குள் தூரிகையால் ஒரு வடிவத்தை வரைகிறார்!"
+      },
+      "note": {
+        "en": "人形 (doll, a “person shape”) is にんぎょう, with ぎょう. 开 is also inside 開 (open) and 研 (study, N4).",
+        "ta": "人形 (பொம்மை, “மனித வடிவம்”) = にんぎょう; ぎょう வாசிப்பு. 开 என்பது 開 (திறத்தல்), 研 (ஆய்வு, N4) ஆகியவற்றிலும் உண்டு."
+      },
+      "examples": [
+        { "word": "形", "reading": "かたち", "en": "shape", "ta": "வடிவம்", "vocabId": "n4-v-276" },
+        { "word": "人形", "reading": "にんぎょう", "en": "doll", "ta": "பொம்மை", "vocabId": "n4-v-147" },
+        { "word": "図形", "reading": "ずけい", "en": "figure, diagram", "ta": "வடிவியல் படம்" },
+        { "word": "形見", "reading": "かたみ", "en": "keepsake (from a person who died)", "ta": "நினைவுப் பொருள் (இறந்தவரின்)" }
+      ]
+    },
+    {
+      "kanji": "頭",
+      "meaning": { "en": "head", "ta": "தலை" },
+      "on": ["とう", "ず"],
+      "kun": ["あたま"],
+      "mnemonic": {
+        "en": "On the left is 豆, a bean: a round shape on a stand. On the right is 頁, the “head” part you know from 題 (topic). Put a big round bean on top of a body, and you get a head.",
+        "ta": "இடப்புறம் 豆: ஒரு பருப்பு, தாங்கியின் மேல் வட்ட வடிவம். வலப்புறம் 頁: 題 (தலைப்பு)-இல் பார்த்த “தலை” பகுதி. ஒரு உடலின் மேல் பெரிய வட்டப் பருப்பை வைத்தால், அதுவே தலை!"
+      },
+      "note": {
+        "en": "頭 alone is あたま. In 頭痛 (headache) it is ず: ずつう. In 先頭 (the front of a line) it is とう.",
+        "ta": "தனியாக 頭 = あたま. 頭痛 (தலைவலி)-இல் ず: ずつう. 先頭 (வரிசையின் முன்பகுதி)-இல் とう."
+      },
+      "examples": [
+        { "word": "頭", "reading": "あたま", "en": "head", "ta": "தலை", "vocabId": "n5-v-020" },
+        { "word": "頭痛", "reading": "ずつう", "en": "headache", "ta": "தலைவலி", "vocabId": "n3-v-0235" },
+        { "word": "先頭", "reading": "せんとう", "en": "the front, the lead", "ta": "முன்னணி, முதலிடம்" }
+      ]
+    },
+    {
+      "kanji": "光",
+      "meaning": { "en": "light, shine", "ta": "ஒளி, மின்னுதல்" },
+      "on": ["こう"],
+      "kun": ["ひか.る", "ひかり"],
+      "mnemonic": {
+        "en": "The bottom part (儿) is a person’s two legs. On the person’s head is a fire with sparks flying out (the small strokes on top). He carries a torch on his head, like at a temple festival, and light shines all around.",
+        "ta": "அடிப் பகுதி (儿) ஒரு மனிதரின் இரண்டு கால்கள். அவரது தலையின் மேல் தீப்பொறி பறக்கும் நெருப்பு (மேலே உள்ள சிறு கோடுகள்). கோயில் திருவிழாவில் தீப்பந்தம் சுமப்பவர் போல; சுற்றிலும் ஒளி வீசுகிறது!"
+      },
+      "note": {
+        "en": "日光 (sunlight) has a small っ: にっこう. 光 (ひかり) is a noun; 光る (ひかる) is a verb.",
+        "ta": "日光 (சூரிய ஒளி)-இல் சிறிய っ உண்டு: にっこう. 光 (ひかり) பெயர்ச்சொல்; 光る (ひかる) வினைச்சொல்."
+      },
+      "examples": [
+        { "word": "光", "reading": "ひかり", "en": "light", "ta": "ஒளி, வெளிச்சம்", "vocabId": "n4-v-501" },
+        { "word": "光る", "reading": "ひかる", "en": "to shine", "ta": "ஒளிர, மின்ன", "vocabId": "n4-v-184" },
+        { "word": "日光", "reading": "にっこう", "en": "sunlight", "ta": "சூரிய ஒளி", "vocabId": "n3-v-1683" },
+        { "word": "観光", "reading": "かんこう", "en": "sightseeing", "ta": "சுற்றுலா", "vocabId": "n3-v-0670" }
+      ]
+    },
+    {
+      "kanji": "科",
+      "meaning": { "en": "subject, department", "ta": "பாடம், துறை" },
+      "on": ["か"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 禾, a rice plant with its head hanging down. On the right is 斗, a big measuring spoon. You measure the grain and sort it into kinds. Sorted kinds of knowledge are school subjects.",
+        "ta": "இடப்புறம் 禾: தலை சாய்ந்த நெற்பயிர். வலப்புறம் 斗: பெரிய அளவைக் கரண்டி (படி). தானியத்தை அளந்து வகை வகையாகப் பிரிக்கிறோம். அறிவை இப்படி வகை பிரித்தால் அவை பள்ளிப் பாடங்கள்!"
+      },
+      "note": {
+        "en": "Don’t mix up 科 (禾 + 斗) and 料 (米 + 斗, as in 料理). 外科 (surgery) is read げか.",
+        "ta": "科 (禾 + 斗), 料 (米 + 斗; 料理-இல் உள்ளது) இரண்டையும் குழப்ப வேண்டாம். 外科 (அறுவை மருத்துவம்) = げか."
+      },
+      "examples": [
+        { "word": "科学", "reading": "かがく", "en": "science", "ta": "அறிவியல்", "vocabId": "n4-v-335" },
+        { "word": "教科書", "reading": "きょうかしょ", "en": "textbook", "ta": "பாடப்புத்தகம்", "vocabId": "n3-v-0746" },
+        { "word": "科目", "reading": "かもく", "en": "(school) subject", "ta": "பாடம்", "vocabId": "n3-v-0646" },
+        { "word": "外科", "reading": "げか", "en": "surgery (hospital department)", "ta": "அறுவை சிகிச்சைப் பிரிவு" }
+      ]
+    },
+    {
+      "kanji": "太",
+      "meaning": { "en": "fat, thick", "ta": "பருமனான, தடித்த" },
+      "on": ["たい"],
+      "kun": ["ふと.い", "ふと.る"],
+      "mnemonic": {
+        "en": "大 is a big person with arms and legs open. Add one more dot of food between the legs. The big person ate one more laddu and became fat!",
+        "ta": "大 = கைகால்களை விரித்த பெரிய மனிதர். கால்களுக்கு இடையில் இன்னொரு உணவுப் புள்ளி சேருங்கள். அந்தப் பெரிய மனிதர் இன்னும் ஒரு லட்டு சாப்பிட்டுக் குண்டாகிவிட்டார்!"
+      },
+      "note": {
+        "en": "Three look-alikes: 大 (big, no dot), 太 (fat, dot at the bottom), 犬 (dog, dot at the top right).",
+        "ta": "ஒன்றுபோலத் தெரியும் மூன்று: 大 (பெரிய, புள்ளி இல்லை), 太 (பருமன், கீழே புள்ளி), 犬 (நாய், மேலே வலப்புறம் புள்ளி)."
+      },
+      "examples": [
+        { "word": "太い", "reading": "ふとい", "en": "thick, fat", "ta": "தடித்த, பருமனான", "vocabId": "n5-v-586" },
+        { "word": "太る", "reading": "ふとる", "en": "to gain weight", "ta": "எடை கூட, குண்டாக", "vocabId": "n4-v-525" },
+        { "word": "太陽", "reading": "たいよう", "en": "the sun", "ta": "சூரியன்", "vocabId": "n3-v-1381" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU2-q01", "type": "kanji_reading",
+        "sentence": "東京での ＿生活＿は たのしいです。", "target": "生活",
+        "options": ["せいかつ", "せいかち", "しょうかつ", "せいがつ"], "answer": 0,
+        "explanation_en": "生活 is read せいかつ (வாழ்க்கை, life). せいがつ has a wrong ゛, and しょう is another reading of 生 that is not used here.",
+        "explanation_ta": "生活 = せいかつ (வாழ்க்கை, life). せいがつ-இல் தேவையில்லாத ゛; しょう என்பது 生-இன் வேறு வாசிப்பு, இங்கே பொருந்தாது."
+      },
+      {
+        "id": "KU2-q02", "type": "kanji_reading",
+        "sentence": "じこの ＿原因＿を しらべて います。", "target": "原因",
+        "options": ["げいいん", "げんいん", "げにん", "はらいん"], "answer": 1,
+        "explanation_en": "原因 is read げんいん (காரணம், cause). げにん drops a sound, and はらいん uses the kun reading of 原.",
+        "explanation_ta": "原因 = げんいん (காரணம், cause). げにん-இல் ஒரு ஒலி விடுபட்டுள்ளது; はらいん-இல் 原-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU2-q03", "type": "kanji_reading",
+        "sentence": "この 町は ＿交通＿が べんりです。", "target": "交通",
+        "options": ["こつう", "こうずう", "こうつう", "こうつ"], "answer": 2,
+        "explanation_en": "交通 is read こうつう (போக்குவரத்து, traffic / transport): both こう and つう are long. こつう and こうつ are too short.",
+        "explanation_ta": "交通 = こうつう (போக்குவரத்து, traffic / transport): こう, つう இரண்டும் நெடில். こつう, こうつ குறிலாக உள்ளன."
+      },
+      {
+        "id": "KU2-q04", "type": "kanji_reading",
+        "sentence": "好きな テレビ＿番組＿は 何ですか。", "target": "番組",
+        "options": ["ばんくみ", "ばんそ", "はんぐみ", "ばんぐみ"], "answer": 3,
+        "explanation_en": "番組 is read ばんぐみ ((டிவி) நிகழ்ச்சி, TV program): くみ becomes ぐみ. ばんくみ has no ゛, and はんぐみ is missing the ゛ on ば.",
+        "explanation_ta": "番組 = ばんぐみ ((டிவி) நிகழ்ச்சி, TV program): くみ → ぐみ. ばんくみ-இல் ゛ இல்லை; はんぐみ-இல் ば-வின் ゛ இல்லை."
+      },
+      {
+        "id": "KU2-q05", "type": "kanji_reading",
+        "sentence": "この ドアは ＿引いて＿ ください。", "target": "引いて",
+        "options": ["ひらいて", "ひいて", "ぴいて", "いんいて"], "answer": 1,
+        "explanation_en": "引いて is read ひいて, from 引く (இழுக்க, to pull). ひらいて is 開いて (open), and いん is the on reading.",
+        "explanation_ta": "引いて = ひいて; 引く (இழுக்க, to pull). ひらいて என்பது 開いて (திறந்து); いん ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU2-q06", "type": "kanji_reading",
+        "sentence": "かれは ＿正直＿な 人です。", "target": "正直",
+        "options": ["しょうじき", "せいちょく", "しょうちょく", "しょじき"], "answer": 0,
+        "explanation_en": "正直 is read しょうじき (நேர்மையான, honest). せいちょく uses the common readings of each kanji, but that is not the word. しょじき is too short.",
+        "explanation_ta": "正直 = しょうじき (நேர்மையான, honest). せいちょく ஒவ்வொரு கான்ஜியின் வழக்கமான வாசிப்பு; ஆனால் அப்படி ஒரு சொல் இல்லை. しょじき குறிலாக உள்ளது."
+      },
+      {
+        "id": "KU2-q07", "type": "kanji_reading",
+        "sentence": "かぜで ＿頭痛＿が します。", "target": "頭痛",
+        "options": ["あたまつう", "とうつう", "ずうつう", "ずつう"], "answer": 3,
+        "explanation_en": "頭痛 is read ずつう (தலைவலி, headache): short ず. ずうつう is too long, and あたまつう mixes the kun reading of 頭.",
+        "explanation_ta": "頭痛 = ずつう (தலைவலி, headache): குறில் ず. ずうつう நெடிலாக உள்ளது; あたまつう-இல் 頭-இன் குன் வாசிப்பு கலந்துள்ளது."
+      },
+      {
+        "id": "KU2-q08", "type": "kanji_reading",
+        "sentence": "まどから ＿日光＿が 入ります。", "target": "日光",
+        "options": ["にちこう", "ひこう", "にっこう", "にっこ"], "answer": 2,
+        "explanation_en": "日光 is read にっこう (சூரிய ஒளி, sunlight), with a small っ. にちこう has no っ, and にっこ is too short.",
+        "explanation_ta": "日光 = にっこう (சூரிய ஒளி, sunlight); சிறிய っ உண்டு. にちこう-இல் っ இல்லை; にっこ குறிலாக உள்ளது."
+      },
+      {
+        "id": "KU2-q09", "type": "kanji_reading",
+        "sentence": "わたしは ＿科学＿の 本が 好きです。", "target": "科学",
+        "options": ["かかく", "かがくう", "かがく", "きがく"], "answer": 2,
+        "explanation_en": "科学 is read かがく (அறிவியல், science). かかく has no ゛, and かがくう adds a long vowel that is not there.",
+        "explanation_ta": "科学 = かがく (அறிவியல், science). かかく-இல் ゛ இல்லை; かがくう-இல் இல்லாத நெடில் சேர்க்கப்பட்டுள்ளது."
+      },
+      {
+        "id": "KU2-q10", "type": "kanji_reading",
+        "sentence": "もっと 大きい ＿声＿で 話して ください。", "target": "声",
+        "options": ["こえ", "こい", "ごえ", "せい"], "answer": 0,
+        "explanation_en": "声 alone is read こえ (குரல், voice). ごえ is used only after another word, like 大声 (おおごえ). せい is the on reading.",
+        "explanation_ta": "தனியாக 声 = こえ (குரல், voice). ごえ வேறு சொல்லுக்குப் பின் மட்டுமே வரும்: 大声 (おおごえ). せい ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU2-q11", "type": "orthography",
+        "sentence": "この 石は おもしろい ＿かたち＿を して います。", "target": "かたち",
+        "options": ["研", "形", "開", "列"], "answer": 1,
+        "explanation_en": "かたち (வடிவம், shape) is 形: a frame (开) and three brush strokes (彡). 研 and 開 also have 开 but mean study and open.",
+        "explanation_ta": "かたち (வடிவம், shape) = 形: சட்டம் (开) + மூன்று தூரிகைக் கோடுகள் (彡). 研, 開-க்கும் 开 உண்டு; ஆனால் அவை ஆய்வு, திறத்தல்."
+      },
+      {
+        "id": "KU2-q12", "type": "orthography",
+        "sentence": "空に きれいな ＿ひかり＿が 見えました。", "target": "ひかり",
+        "options": ["元", "先", "当", "光"], "answer": 3,
+        "explanation_en": "ひかり (ஒளி, light) is 光: fire on top of a person’s legs (儿). 元 and 先 also end with 儿, but they mean origin and ahead.",
+        "explanation_ta": "ひかり (ஒளி, light) = 光: மனிதரின் கால்களின் (儿) மேல் நெருப்பு. 元, 先-க்கும் கீழே 儿 உண்டு; ஆனால் அவை தொடக்கம், முன்."
+      },
+      {
+        "id": "KU2-q13", "type": "orthography",
+        "sentence": "この ペンは とても ＿ふとい＿です。", "target": "ふとい",
+        "options": ["犬い", "大い", "天い", "太い"], "answer": 3,
+        "explanation_en": "ふとい (தடித்த, thick) is 太い: 大 with a dot at the bottom. 犬 (dog) has the dot at the top right, and 大 has no dot.",
+        "explanation_ta": "ふとい (தடித்த, thick) = 太い: கீழே புள்ளியுடன் 大. 犬 (நாய்)-க்கு மேலே வலப்புறம் புள்ளி; 大-க்குப் புள்ளியே இல்லை."
+      },
+      {
+        "id": "KU2-q14", "type": "orthography",
+        "sentence": "さとうと しおを ＿まぜて＿ ください。", "target": "まぜて",
+        "options": ["校ぜて", "父ぜて", "交ぜて", "文ぜて"], "answer": 2,
+        "explanation_en": "まぜて (கலந்து, mix) is 交ぜて, from 交ぜる. 校 (school) has a tree (木) on the left. 父 and 文 look like parts of 交 but are different kanji.",
+        "explanation_ta": "まぜて (கலந்து, mix) = 交ぜて; 交ぜる. 校 (பள்ளி)-க்கு இடப்புறம் மரம் (木) உண்டு. 父, 文 ஆகியவை 交-இன் பகுதிகள் போலத் தெரிந்தாலும் வேறு கான்ஜிகள்."
+      },
+      {
+        "id": "KU2-q15", "type": "orthography",
+        "sentence": "こわれた いすを ＿なおして＿ もらいました。", "target": "なおして",
+        "options": ["直して", "真して", "置して", "値して"], "answer": 0,
+        "explanation_en": "なおして (சரிசெய்து, fix) is 直して, from 直す. 真 (true), 置 (put) and 値 (price) all contain a similar 直-like part.",
+        "explanation_ta": "なおして (சரிசெய்து, fix) = 直して; 直す. 真 (உண்மை), 置 (வைத்தல்), 値 (விலை) எல்லாவற்றிலும் 直 போன்ற பகுதி உண்டு."
+      },
+      {
+        "id": "KU2-q16", "type": "orthography",
+        "sentence": "わたしは 一年二＿くみ＿です。", "target": "くみ",
+        "options": ["絵", "組", "祖", "助"], "answer": 1,
+        "explanation_en": "くみ (வகுப்புப் பிரிவு, class) is 組: thread (糸) + 且. 祖 and 助 have the same 且 but a different side. 絵 has 糸 but means picture.",
+        "explanation_ta": "くみ (வகுப்புப் பிரிவு, class) = 組: நூல் (糸) + 且. 祖, 助-க்கும் அதே 且; பக்கப் பகுதி வேறு. 絵-க்கு 糸 உண்டு; ஆனால் அது படம்."
+      }
+    ]
+  }
+}

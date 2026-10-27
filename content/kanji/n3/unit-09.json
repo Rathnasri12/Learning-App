@@ -1,0 +1,811 @@
+{
+  "unit": 9,
+  "title": {
+    "en": "Home, play and feelings",
+    "ta": "வீடு, விளையாட்டு, உணர்வுகள்"
+  },
+  "intro": {
+    "en": "In this unit you learn 13 kanji for life at home and in the heart: garden, play, breath, sad, dark, teeth and long ago. Many of them hide parts you know, like 心 (heart), 日 (sun), 音 (sound) and 米 (rice). Find the old parts first, then read the story.",
+    "ta": "இந்தப் பாடத்தில் வீட்டு வாழ்க்கை, மன உணர்வு பற்றிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: தோட்டம், விளையாட்டு, மூச்சு, துக்கம், இருட்டு, பல், பழைய காலம். இவற்றில் பலவற்றில் நீங்கள் அறிந்த பகுதிகள் ஒளிந்திருக்கின்றன: 心 (இதயம்), 日 (சூரியன்), 音 (ஒலி), 米 (அரிசி). முதலில் பழைய பகுதிகளைக் கண்டுபிடியுங்கள்; பிறகு கதையைப் படியுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "曲",
+      "meaning": {
+        "en": "bend; song",
+        "ta": "வளை; பாடல்"
+      },
+      "on": [
+        "きょく"
+      ],
+      "kun": [
+        "ま.がる",
+        "ま.げる"
+      ],
+      "mnemonic": {
+        "en": "A wide box with two sticks poking up through the top. It looks like the neck of a veena with its frets. Bend the strings and music comes out: a song (曲). A bent stick also gives 曲がる (to bend, to turn).",
+        "ta": "அகலமான ஒரு பெட்டி; அதன் மேல் வழியாக இரண்டு குச்சிகள் நீட்டிக்கொண்டிருக்கின்றன. வீணையின் கழுத்தும் அதன் மெட்டுகளும் போலத் தெரிகிறது. கம்பியை வளைத்து மீட்டினால் இசை வருகிறது: பாடல் (曲). வளைந்த குச்சி என்பதால் 曲がる (வளைவது, திரும்புவது) என்ற பொருளும் உண்டு."
+      },
+      "note": {
+        "en": "曲がる (まがる) = to turn / bend by itself: 右に曲がる (turn right). 曲げる (まげる) = to bend something.",
+        "ta": "曲がる (まがる) = தானே திரும்புவது / வளைவது: 右に曲がる (வலது பக்கம் திரும்பு). 曲げる (まげる) = ஒன்றை வளைப்பது."
+      },
+      "examples": [
+        {
+          "word": "曲",
+          "reading": "きょく",
+          "en": "song, piece of music",
+          "ta": "பாடல், இசைத் துண்டு"
+        },
+        {
+          "word": "曲がる",
+          "reading": "まがる",
+          "en": "to turn, to bend",
+          "ta": "திரும்ப, வளைய",
+          "vocabId": "n5-v-623"
+        },
+        {
+          "word": "曲げる",
+          "reading": "まげる",
+          "en": "to bend (something)",
+          "ta": "(ஒன்றை) வளைக்க"
+        },
+        {
+          "word": "作曲",
+          "reading": "さっきょく",
+          "en": "composing music",
+          "ta": "இசை அமைத்தல்",
+          "vocabId": "n3-v-0994"
+        }
+      ]
+    },
+    {
+      "kanji": "庭",
+      "meaning": {
+        "en": "garden, yard",
+        "ta": "தோட்டம், முற்றம்"
+      },
+      "on": [
+        "てい"
+      ],
+      "kun": [
+        "にわ"
+      ],
+      "mnemonic": {
+        "en": "On the outside is the roof with a wall (广), the same as in 店 (shop) and 広 (wide). Inside, someone walks with long, slow steps (廴, as in 建 build). Under the edge of the roof, there is open space to walk: the garden, the front yard.",
+        "ta": "வெளியே சுவருடன் கூடிய கூரை (广) — 店 (கடை), 広 (அகலம்) இவற்றில் உள்ளது போலவே. உள்ளே ஒருவர் நீண்ட மெதுவான அடிகளுடன் நடக்கிறார் (廴, 建 கட்டு என்பதில் உள்ளது). கூரையின் ஓரத்தில் நடக்க இடம் உள்ள திறந்த பகுதி: வீட்டு முற்றம், தோட்டம்."
+      },
+      "examples": [
+        {
+          "word": "庭",
+          "reading": "にわ",
+          "en": "garden, yard",
+          "ta": "தோட்டம், முற்றம்",
+          "vocabId": "n5-v-504"
+        },
+        {
+          "word": "家庭",
+          "reading": "かてい",
+          "en": "home, family",
+          "ta": "குடும்பம், வீடு",
+          "vocabId": "n5-v-170"
+        },
+        {
+          "word": "校庭",
+          "reading": "こうてい",
+          "en": "school yard",
+          "ta": "பள்ளி மைதானம்"
+        }
+      ]
+    },
+    {
+      "kanji": "息",
+      "meaning": {
+        "en": "breath",
+        "ta": "மூச்சு"
+      },
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "いき"
+      ],
+      "mnemonic": {
+        "en": "On top is 自 (self). Japanese people point at their nose to say “me”, so 自 is the nose. Below is the heart (心). Air goes in through the nose and down to the heart: breath.",
+        "ta": "மேலே 自 (தான்). ஜப்பானியர் “நான்” என்று சொல்லும்போது தங்கள் மூக்கைச் சுட்டிக் காட்டுவார்கள்; எனவே 自 = மூக்கு. கீழே இதயம் (心). மூக்கு வழியாகக் காற்று உள்ளே போய் இதயம் வரை செல்கிறது: மூச்சு."
+      },
+      "note": {
+        "en": "Special reading: 息子 is むすこ (son). The kanji does not show the sound here, so learn it as one word.",
+        "ta": "சிறப்பு வாசிப்பு: 息子 = むすこ (மகன்). இங்கே கான்ஜியின் ஒலி தெரியாது; முழுச் சொல்லாகவே மனப்பாடம் செய்யுங்கள்."
+      },
+      "examples": [
+        {
+          "word": "息",
+          "reading": "いき",
+          "en": "breath",
+          "ta": "மூச்சு",
+          "vocabId": "n3-v-0367"
+        },
+        {
+          "word": "息子",
+          "reading": "むすこ",
+          "en": "(my) son",
+          "ta": "(என்) மகன்",
+          "vocabId": "n4-v-495"
+        },
+        {
+          "word": "休息",
+          "reading": "きゅうそく",
+          "en": "rest, break",
+          "ta": "ஓய்வு",
+          "vocabId": "n3-v-0742"
+        }
+      ]
+    },
+    {
+      "kanji": "列",
+      "meaning": {
+        "en": "row, line",
+        "ta": "வரிசை"
+      },
+      "on": [
+        "れつ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 歹, the bone part from 死 (die). On the right is the knife 刂 from 別. A butcher cuts the meat with his knife and puts the pieces down in a neat row: row, line.",
+        "ta": "இடப்பக்கம் 歹 — 死 (இறப்பு) என்பதில் உள்ள எலும்புப் பகுதி. வலப்பக்கம் 別 என்பதில் உள்ள கத்தி 刂. கசாப்புக்கடைக்காரர் கத்தியால் இறைச்சியை வெட்டி, துண்டுகளை நேர்த்தியாக வரிசையாக அடுக்குகிறார்: வரிசை."
+      },
+      "note": {
+        "en": "列車 is read れっしゃ, with a small っ. Don’t mix up 列 and 例 (example), which has a person 亻 in front.",
+        "ta": "列車 = れっしゃ, சிறிய っ உடன். 列 (வரிசை), 例 (உதாரணம்) இரண்டையும் குழப்ப வேண்டாம்; 例-இல் முன்னால் மனிதன் 亻 இருக்கிறான்."
+      },
+      "examples": [
+        {
+          "word": "列",
+          "reading": "れつ",
+          "en": "line, queue, row",
+          "ta": "வரிசை (க்யூ)",
+          "vocabId": "n3-v-1178"
+        },
+        {
+          "word": "列車",
+          "reading": "れっしゃ",
+          "en": "train",
+          "ta": "ரயில் வண்டி",
+          "vocabId": "n3-v-1179"
+        },
+        {
+          "word": "行列",
+          "reading": "ぎょうれつ",
+          "en": "line of people, procession",
+          "ta": "மக்கள் வரிசை, ஊர்வலம்"
+        }
+      ]
+    },
+    {
+      "kanji": "遊",
+      "meaning": {
+        "en": "play",
+        "ta": "விளையாடு"
+      },
+      "on": [
+        "ゆう"
+      ],
+      "kun": [
+        "あそ.ぶ"
+      ],
+      "mnemonic": {
+        "en": "A child (子) holds a waving flag (方 with a little hat 𠂉 on it) and runs along the road (辶). Children running with flags at a temple festival: they play.",
+        "ta": "ஒரு குழந்தை (子) அசையும் கொடியை (方, அதன் மேல் சிறு தொப்பி 𠂉) பிடித்துக்கொண்டு சாலையில் (辶) ஓடுகிறது. கோயில் திருவிழாவில் கொடியுடன் ஓடும் குழந்தைகள்: அவர்கள் விளையாடுகிறார்கள்."
+      },
+      "examples": [
+        {
+          "word": "遊ぶ",
+          "reading": "あそぶ",
+          "en": "to play; to hang out",
+          "ta": "விளையாட; நண்பர்களுடன் நேரம் செலவிட",
+          "vocabId": "n5-v-018"
+        },
+        {
+          "word": "遊び",
+          "reading": "あそび",
+          "en": "play, game",
+          "ta": "விளையாட்டு",
+          "vocabId": "n4-v-417"
+        },
+        {
+          "word": "遊園地",
+          "reading": "ゆうえんち",
+          "en": "amusement park",
+          "ta": "கேளிக்கைப் பூங்கா"
+        }
+      ]
+    },
+    {
+      "kanji": "君",
+      "meaning": {
+        "en": "you; Mr. (for boys)",
+        "ta": "நீ; (சிறுவர்/இளைஞர் பெயருடன்) -குன்"
+      },
+      "on": [
+        "くん"
+      ],
+      "kun": [
+        "きみ"
+      ],
+      "mnemonic": {
+        "en": "On top, a hand holds a royal stick. Below it is a mouth (口) that gives orders. That is a king. Today the king’s word has become a friendly “you” (きみ) and the name ending “-kun”.",
+        "ta": "மேலே ஒரு கை அரசச் செங்கோலைப் பிடித்திருக்கிறது. கீழே கட்டளையிடும் வாய் (口). அவன்தான் அரசன். இன்று அந்த அரசச் சொல் நண்பர்களிடையே “நீ” (きみ) என்றும், பெயருக்குப் பின் வரும் “-குன்” என்றும் ஆகிவிட்டது."
+      },
+      "note": {
+        "en": "君 (きみ) is casual. Use it only with friends or younger people. 〜君 (くん) goes after a boy’s name: 田中君.",
+        "ta": "君 (きみ) சாதாரணப் பேச்சு. நண்பர்கள், இளையவர்களிடம் மட்டும் பயன்படுத்துங்கள். 〜君 (くん) சிறுவனின் பெயருக்குப் பின் வரும்: 田中君."
+      },
+      "examples": [
+        {
+          "word": "君",
+          "reading": "きみ",
+          "en": "you (casual)",
+          "ta": "நீ (நெருக்கமானவரிடம்)",
+          "vocabId": "n4-v-547"
+        },
+        {
+          "word": "田中君",
+          "reading": "たなかくん",
+          "en": "Tanaka-kun (a boy named Tanaka)",
+          "ta": "தனகா-குன் (தனகா என்ற சிறுவன்)"
+        },
+        {
+          "word": "君たち",
+          "reading": "きみたち",
+          "en": "you all (casual)",
+          "ta": "நீங்கள் எல்லோரும் (நெருக்கமாக)"
+        }
+      ]
+    },
+    {
+      "kanji": "酒",
+      "meaning": {
+        "en": "alcohol, sake",
+        "ta": "மது, சாகே"
+      },
+      "on": [
+        "しゅ"
+      ],
+      "kun": [
+        "さけ",
+        "さか-"
+      ],
+      "mnemonic": {
+        "en": "On the left, water (氵). On the right, 酉: a clay jar with a lid and a line of liquid inside, like a toddy pot. Liquid kept in a jar to ferment: alcohol, sake.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் 酉: மூடியும், உள்ளே திரவக் கோடும் உள்ள ஒரு மண் ஜாடி — கள் பானை போல. பானையில் புளிக்க வைத்த திரவம்: மது, சாகே."
+      },
+      "note": {
+        "en": "In some words さけ becomes さか: 酒屋 (さかや, liquor shop), 居酒屋 (いざかや, Japanese pub).",
+        "ta": "சில சொற்களில் さけ என்பது さか ஆகும்: 酒屋 (さかや, மதுக்கடை), 居酒屋 (いざかや, ஜப்பானிய மது உணவகம்)."
+      },
+      "examples": [
+        {
+          "word": "お酒",
+          "reading": "おさけ",
+          "en": "sake; alcohol",
+          "ta": "சாகே; மது",
+          "vocabId": "n5-v-108"
+        },
+        {
+          "word": "日本酒",
+          "reading": "にほんしゅ",
+          "en": "Japanese sake",
+          "ta": "ஜப்பானிய அரிசி மது (சாகே)"
+        },
+        {
+          "word": "酒屋",
+          "reading": "さかや",
+          "en": "liquor shop",
+          "ta": "மதுக்கடை"
+        },
+        {
+          "word": "居酒屋",
+          "reading": "いざかや",
+          "en": "Japanese pub",
+          "ta": "ஜப்பானிய மது உணவகம்"
+        }
+      ]
+    },
+    {
+      "kanji": "悲",
+      "meaning": {
+        "en": "sad",
+        "ta": "துக்கம், சோகம்"
+      },
+      "on": [
+        "ひ"
+      ],
+      "kun": [
+        "かな.しい",
+        "かな.しむ"
+      ],
+      "mnemonic": {
+        "en": "On top is 非: two rows of short lines that turn their backs to each other, like something torn into two halves. Under it is the heart (心). A heart torn in two: sad.",
+        "ta": "மேலே 非: இரண்டு வரிசைக் குறுங்கோடுகள் ஒன்றுக்கொன்று முதுகைக் காட்டுகின்றன — இரண்டாகக் கிழிந்தது போல. அதன் கீழே இதயம் (心). இரண்டாகக் கிழிந்த இதயம்: சோகம்."
+      },
+      "examples": [
+        {
+          "word": "悲しい",
+          "reading": "かなしい",
+          "en": "sad",
+          "ta": "சோகமான, துக்கமான",
+          "vocabId": "n4-v-100"
+        },
+        {
+          "word": "悲しむ",
+          "reading": "かなしむ",
+          "en": "to be sad, to mourn",
+          "ta": "வருந்த, துக்கப்பட",
+          "vocabId": "n3-v-0633"
+        },
+        {
+          "word": "悲しみ",
+          "reading": "かなしみ",
+          "en": "sadness",
+          "ta": "சோகம், துயரம்"
+        }
+      ]
+    },
+    {
+      "kanji": "暗",
+      "meaning": {
+        "en": "dark",
+        "ta": "இருட்டு"
+      },
+      "on": [
+        "あん"
+      ],
+      "kun": [
+        "くら.い"
+      ],
+      "mnemonic": {
+        "en": "On the left is the sun (日). On the right is 音 (sound). At night the sun is gone and you can’t see anything; you can only hear sounds. It is dark.",
+        "ta": "இடப்பக்கம் சூரியன் (日). வலப்பக்கம் 音 (ஒலி). இரவில் சூரியன் போய்விட்டது; எதுவும் கண்ணுக்குத் தெரியாது, ஒலிகள் மட்டுமே காதில் கேட்கும். இருட்டு."
+      },
+      "note": {
+        "en": "暗い (くらい) = dark. Don’t mix it up with 黒い (くろい) = black. 暗記 (あんき) = learning by heart, studying “in the dark” without looking.",
+        "ta": "暗い (くらい) = இருட்டான. 黒い (くろい) = கருப்பு; இரண்டையும் குழப்ப வேண்டாம். 暗記 (あんき) = மனப்பாடம் — பார்க்காமல் “இருட்டில்” சொல்லுவது போல."
+      },
+      "examples": [
+        {
+          "word": "暗い",
+          "reading": "くらい",
+          "en": "dark, gloomy",
+          "ta": "இருட்டான, மங்கலான",
+          "vocabId": "n5-v-226"
+        },
+        {
+          "word": "暗記",
+          "reading": "あんき",
+          "en": "learning by heart",
+          "ta": "மனப்பாடம்",
+          "vocabId": "n3-v-0358"
+        },
+        {
+          "word": "暗さ",
+          "reading": "くらさ",
+          "en": "darkness",
+          "ta": "இருள்"
+        }
+      ]
+    },
+    {
+      "kanji": "陽",
+      "meaning": {
+        "en": "sunshine",
+        "ta": "சூரிய ஒளி"
+      },
+      "on": [
+        "よう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is the hill (阝), as in 院 and 部. On the right, the sun (日) rises over the line of the earth (一), and its rays (勿) shine down. The sun shining on the hill: sunshine.",
+        "ta": "இடப்பக்கம் குன்று (阝) — 院, 部 இவற்றில் உள்ளது போல. வலப்பக்கம் பூமிக் கோட்டின் (一) மேல் சூரியன் (日) உதிக்கிறது; அதன் கதிர்கள் (勿) கீழே விழுகின்றன. குன்றின் மேல் விழும் வெயில்: சூரிய ஒளி."
+      },
+      "note": {
+        "en": "Don’t mix up 陽 (よう, sunshine) and 場 (ば, place). 場 has earth (土) on the left, 陽 has a hill (阝).",
+        "ta": "陽 (よう, சூரிய ஒளி), 場 (ば, இடம்) இரண்டையும் குழப்ப வேண்டாம். 場-இன் இடப்பக்கம் மண் (土); 陽-இன் இடப்பக்கம் குன்று (阝)."
+      },
+      "examples": [
+        {
+          "word": "太陽",
+          "reading": "たいよう",
+          "en": "the sun",
+          "ta": "சூரியன்",
+          "vocabId": "n3-v-1381"
+        },
+        {
+          "word": "陽気",
+          "reading": "ようき",
+          "en": "cheerful; weather",
+          "ta": "உற்சாகமான; வானிலை",
+          "vocabId": "n3-v-1126"
+        },
+        {
+          "word": "太陽光",
+          "reading": "たいようこう",
+          "en": "sunlight",
+          "ta": "சூரிய ஒளி"
+        }
+      ]
+    },
+    {
+      "kanji": "歯",
+      "meaning": {
+        "en": "tooth",
+        "ta": "பல்"
+      },
+      "on": [
+        "し"
+      ],
+      "kun": [
+        "は"
+      ],
+      "mnemonic": {
+        "en": "On top is 止 (stop). Below is an open mouth with rice (米) inside. The teeth stop the rice grains and chew them: tooth.",
+        "ta": "மேலே 止 (நிறுத்து). கீழே திறந்த வாய்; அதற்குள் அரிசி (米). பற்கள் அரிசியைத் தடுத்து நிறுத்தி மெல்லுகின்றன: பல்."
+      },
+      "note": {
+        "en": "After another word, は often becomes ば: 虫歯 (むしば, bad tooth). 歯医者 is はいしゃ (dentist).",
+        "ta": "இன்னொரு சொல்லுக்குப் பின் は பெரும்பாலும் ば ஆகும்: 虫歯 (むしば, சொத்தைப் பல்). 歯医者 = はいしゃ (பல் மருத்துவர்)."
+      },
+      "examples": [
+        {
+          "word": "歯",
+          "reading": "は",
+          "en": "tooth",
+          "ta": "பல்",
+          "vocabId": "n5-v-517"
+        },
+        {
+          "word": "歯医者",
+          "reading": "はいしゃ",
+          "en": "dentist",
+          "ta": "பல் மருத்துவர்",
+          "vocabId": "n4-v-213"
+        },
+        {
+          "word": "歯科",
+          "reading": "しか",
+          "en": "dentistry, dental clinic",
+          "ta": "பல் மருத்துவம்"
+        }
+      ]
+    },
+    {
+      "kanji": "礼",
+      "meaning": {
+        "en": "bow; thanks; manners",
+        "ta": "வணக்கம்; நன்றி; மரியாதை"
+      },
+      "on": [
+        "れい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "The left side 礻 is an altar, as in 社 (shrine). On the right, a person bends deeply like a hook (乚). Bowing low in front of the altar: bow, thanks, good manners.",
+        "ta": "இடப்பக்கம் 礻 ஒரு பலிபீடம் — 社 (ஆலயம்) என்பதில் உள்ளது போல. வலப்பக்கம் ஒருவர் கொக்கி போல (乚) ஆழமாகக் குனிகிறார். சன்னதிக்கு முன் தலைவணங்குவது: வணக்கம், நன்றி, மரியாதை."
+      },
+      "note": {
+        "en": "Very useful phrases: 失礼します (しつれいします, excuse me) and お礼を言う (おれいをいう, to say thanks).",
+        "ta": "மிகப் பயனுள்ள தொடர்கள்: 失礼します (しつれいします, மன்னிக்கவும் / உள்ளே வரலாமா) மற்றும் お礼を言う (おれいをいう, நன்றி சொல்வது)."
+      },
+      "examples": [
+        {
+          "word": "お礼",
+          "reading": "おれい",
+          "en": "thanks; a thank-you gift",
+          "ta": "நன்றி; நன்றிப் பரிசு",
+          "vocabId": "n4-v-210"
+        },
+        {
+          "word": "失礼",
+          "reading": "しつれい",
+          "en": "rudeness; excuse me",
+          "ta": "மரியாதைக் குறைவு; மன்னிக்கவும்",
+          "vocabId": "n4-v-057"
+        },
+        {
+          "word": "礼",
+          "reading": "れい",
+          "en": "bow; thanks",
+          "ta": "தலைவணக்கம்; நன்றி",
+          "vocabId": "n3-v-1174"
+        }
+      ]
+    },
+    {
+      "kanji": "昔",
+      "meaning": {
+        "en": "long ago",
+        "ta": "பழங்காலம், முன்பு"
+      },
+      "on": [],
+      "kun": [
+        "むかし"
+      ],
+      "mnemonic": {
+        "en": "Below is the sun (日), one day. On top are many lines lying on each other, like many days piled up in a stack. Many, many days ago: long ago. “Once upon a time…” begins with 昔.",
+        "ta": "கீழே சூரியன் (日) — ஒரு நாள். மேலே பல கோடுகள் ஒன்றின் மேல் ஒன்றாக அடுக்கப்பட்டிருக்கின்றன — பல நாட்கள் குவிந்தது போல. பல பல நாட்களுக்கு முன்: பழங்காலம். “முன்னொரு காலத்தில்…” என்ற கதைத் தொடக்கம் 昔-இல் இருந்து வருகிறது."
+      },
+      "note": {
+        "en": "昔 is inside 借 (borrow). Don’t mix up 昔 (むかし, long ago) and 昨 (さく, yesterday / last).",
+        "ta": "借 (கடன் வாங்கு) என்பதற்குள் 昔 இருக்கிறது. 昔 (むかし, பழங்காலம்), 昨 (さく, நேற்று / கடந்த) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "昔",
+          "reading": "むかし",
+          "en": "old days, the past",
+          "ta": "பழைய காலம், முன்பு",
+          "vocabId": "n4-v-196"
+        },
+        {
+          "word": "昔話",
+          "reading": "むかしばなし",
+          "en": "old tale, folk story",
+          "ta": "பழங்கதை, நாட்டுப்புறக் கதை"
+        },
+        {
+          "word": "大昔",
+          "reading": "おおむかし",
+          "en": "ancient times, very long ago",
+          "ta": "மிகப் பழங்காலம்"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU9-q01",
+        "type": "kanji_reading",
+        "sentence": "つぎの かどを 右に ＿曲がって＿ ください。",
+        "target": "曲がって",
+        "options": [
+          "まかって",
+          "まがって",
+          "まわって",
+          "まげって"
+        ],
+        "answer": 1,
+        "explanation_en": "曲がって is read まがって (திரும்பி, turn). まかって has no voiced が, and まわって is 回って (go around), a different kanji.",
+        "explanation_ta": "曲がって = まがって (திரும்பி, turn). まかって-இல் ゛ இல்லை. まわって என்பது 回って (சுற்றி) — வேறு கான்ஜி."
+      },
+      {
+        "id": "KU9-q02",
+        "type": "kanji_reading",
+        "sentence": "＿家庭＿の 料理が いちばん おいしいです。",
+        "target": "家庭",
+        "options": [
+          "かでい",
+          "いえにわ",
+          "かてえ",
+          "かてい"
+        ],
+        "answer": 3,
+        "explanation_en": "家庭 is read かてい (குடும்பம், home / family). かでい wrongly adds a voiced で, and いえにわ uses kun readings that are not used here.",
+        "explanation_ta": "家庭 = かてい (குடும்பம், home / family). かでい-இல் தவறாக ゛ சேர்ந்துள்ளது. いえにわ என்பது kun வாசிப்புகள்; இங்கே பயன்படாது."
+      },
+      {
+        "id": "KU9-q03",
+        "type": "kanji_reading",
+        "sentence": "＿息子＿は 今 大学生です。",
+        "target": "息子",
+        "options": [
+          "むすこ",
+          "むすご",
+          "そくし",
+          "いきこ"
+        ],
+        "answer": 0,
+        "explanation_en": "息子 has a special reading: むすこ (மகன், son). むすご adds a wrong voiced ご, and そくし / いきこ read each kanji separately.",
+        "explanation_ta": "息子-க்குச் சிறப்பு வாசிப்பு: むすこ (மகன், son). むすご-இல் தவறான ゛. そくし, いきこ ஒவ்வொரு கான்ஜியையும் தனியாகப் படிக்கின்றன."
+      },
+      {
+        "id": "KU9-q04",
+        "type": "kanji_reading",
+        "sentence": "＿列車＿で 京都へ 行きます。",
+        "target": "列車",
+        "options": [
+          "れつしゃ",
+          "れしゃ",
+          "れっしゃ",
+          "れいしゃ"
+        ],
+        "answer": 2,
+        "explanation_en": "列車 is read れっしゃ (ரயில், train), with a small っ. れつしゃ keeps the full つ, and れしゃ drops it.",
+        "explanation_ta": "列車 = れっしゃ (ரயில், train), சிறிய っ உடன். れつしゃ-இல் முழு つ உள்ளது; れしゃ-இல் அது விடுபட்டுள்ளது."
+      },
+      {
+        "id": "KU9-q05",
+        "type": "kanji_reading",
+        "sentence": "日曜日に 友だちと 公園で ＿遊びました＿。",
+        "target": "遊びました",
+        "options": [
+          "あぞびました",
+          "ゆうびました",
+          "あそびました",
+          "あそひました"
+        ],
+        "answer": 2,
+        "explanation_en": "遊びました is read あそびました (விளையாடினோம், played). あぞ adds a wrong voiced ぞ, and ゆう is the on reading, not used with okurigana.",
+        "explanation_ta": "遊びました = あそびました (விளையாடினோம், played). あぞ-வில் தவறான ゛. ゆう என்பது on வாசிப்பு; ஒகுரிகானா உடன் வராது."
+      },
+      {
+        "id": "KU9-q06",
+        "type": "kanji_reading",
+        "sentence": "父は 毎ばん お＿酒＿を 飲みます。",
+        "target": "酒",
+        "options": [
+          "さけ",
+          "さか",
+          "しゅ",
+          "さげ"
+        ],
+        "answer": 0,
+        "explanation_en": "お酒 is read おさけ (மது, alcohol). さか is used only inside words like 酒屋, and しゅ is the on reading for words like 日本酒.",
+        "explanation_ta": "お酒 = おさけ (மது, alcohol). さか என்பது 酒屋 போன்ற சொற்களுக்குள் மட்டும். しゅ என்பது 日本酒 போன்ற சொற்களுக்கான on வாசிப்பு."
+      },
+      {
+        "id": "KU9-q07",
+        "type": "kanji_reading",
+        "sentence": "その ニュースを 聞いて、とても ＿悲しく＿ なりました。",
+        "target": "悲しく",
+        "options": [
+          "かなじく",
+          "さびしく",
+          "ひしく",
+          "かなしく"
+        ],
+        "answer": 3,
+        "explanation_en": "悲しく is read かなしく (சோகமாக, sad). かなじく adds a wrong voiced じ, and さびしく (lonely) is a different word.",
+        "explanation_ta": "悲しく = かなしく (சோகமாக, sad). かなじく-இல் தவறான ゛. さびしく (தனிமையாக) வேறு சொல்."
+      },
+      {
+        "id": "KU9-q08",
+        "type": "kanji_reading",
+        "sentence": "へやが ＿暗い＿ので、電気を つけて ください。",
+        "target": "暗い",
+        "options": [
+          "くろい",
+          "くらい",
+          "ぐらい",
+          "あんい"
+        ],
+        "answer": 1,
+        "explanation_en": "暗い is read くらい (இருட்டான, dark). くろい is 黒い (black), and ぐらい is the particle “about”, not this word.",
+        "explanation_ta": "暗い = くらい (இருட்டான, dark). くろい = 黒い (கருப்பு). ぐらい என்பது “சுமார்” என்ற இடைச்சொல்; இந்தச் சொல் அல்ல."
+      },
+      {
+        "id": "KU9-q09",
+        "type": "kanji_reading",
+        "sentence": "＿太陽＿が 東から 出ました。",
+        "target": "太陽",
+        "options": [
+          "たいよ",
+          "だいよう",
+          "たいよう",
+          "たよう"
+        ],
+        "answer": 2,
+        "explanation_en": "太陽 is read たいよう (சூரியன், the sun), with a long よう. たいよ is too short, and だいよう adds a wrong voiced だ.",
+        "explanation_ta": "太陽 = たいよう (சூரியன், the sun), நீண்ட よう உடன். たいよ குறுகியது; だいよう-இல் தவறான ゛."
+      },
+      {
+        "id": "KU9-q10",
+        "type": "kanji_reading",
+        "sentence": "手つだって くれた 人に お＿礼＿を 言いました。",
+        "target": "礼",
+        "options": [
+          "れい",
+          "らい",
+          "れ",
+          "れえ"
+        ],
+        "answer": 0,
+        "explanation_en": "お礼 is read おれい (நன்றி, thanks), with a long れい. らい is a rare reading of 礼 that is not used here, and れ is too short.",
+        "explanation_ta": "お礼 = おれい (நன்றி, thanks), நீண்ட れい உடன். らい என்பது 礼-இன் அரிய வாசிப்பு; இங்கே பயன்படாது. れ குறுகியது."
+      },
+      {
+        "id": "KU9-q11",
+        "type": "orthography",
+        "sentence": "毎日 三回 ＿は＿を みがきます。",
+        "target": "は",
+        "options": [
+          "葉",
+          "歩",
+          "米",
+          "歯"
+        ],
+        "answer": 3,
+        "explanation_en": "は here is 歯 (பல், tooth): stop (止) above rice (米) in the mouth. 葉 is also read は but means leaf, and 歩 only shares the 止 part.",
+        "explanation_ta": "இங்கே は = 歯 (பல், tooth): வாய்க்குள் அரிசி (米), மேலே 止. 葉-வும் は என்று படிக்கப்படும்; ஆனால் பொருள் இலை. 歩-இல் 止 பகுதி மட்டுமே ஒன்று."
+      },
+      {
+        "id": "KU9-q12",
+        "type": "orthography",
+        "sentence": "＿むかし＿、ここに 大きな 木が ありました。",
+        "target": "むかし",
+        "options": [
+          "昔",
+          "昨",
+          "借",
+          "音"
+        ],
+        "answer": 0,
+        "explanation_en": "むかし is 昔 (பழங்காலம், long ago): many days piled on the sun. 昨 means yesterday, and 借 (borrow) has 昔 inside but also a person 亻.",
+        "explanation_ta": "むかし = 昔 (பழங்காலம், long ago): சூரியன் மேல் அடுக்கிய பல நாட்கள். 昨 = நேற்று. 借 (கடன் வாங்கு) உள்ளே 昔 இருந்தாலும் மனிதன் 亻 சேர்ந்துள்ளான்."
+      },
+      {
+        "id": "KU9-q13",
+        "type": "orthography",
+        "sentence": "＿きみ＿の 名前は 何ですか。",
+        "target": "きみ",
+        "options": [
+          "右",
+          "君",
+          "石",
+          "名"
+        ],
+        "answer": 1,
+        "explanation_en": "きみ is 君 (நீ, you): a hand with a royal stick over a mouth. 右 and 石 also end in 口, but they mean right and stone.",
+        "explanation_ta": "きみ = 君 (நீ, you): வாய்க்கு மேல் செங்கோல் பிடித்த கை. 右, 石 இரண்டிலும் 口 உண்டு; ஆனால் பொருள் வலது, கல்."
+      },
+      {
+        "id": "KU9-q14",
+        "type": "orthography",
+        "sentence": "＿にわ＿に きれいな 花が さいて います。",
+        "target": "にわ",
+        "options": [
+          "店",
+          "広",
+          "庭",
+          "度"
+        ],
+        "answer": 2,
+        "explanation_en": "にわ is 庭 (தோட்டம், garden): the roof 广 with a person walking inside. 店 (shop), 広 (wide) and 度 have the same roof but other parts.",
+        "explanation_ta": "にわ = 庭 (தோட்டம், garden): 广 கூரைக்குள் நடக்கும் ஒருவர். 店 (கடை), 広 (அகலம்), 度 இவற்றிலும் அதே கூரை; ஆனால் உள்ளே வேறு பகுதிகள்."
+      },
+      {
+        "id": "KU9-q15",
+        "type": "orthography",
+        "sentence": "ふかく ＿いき＿を すって ください。",
+        "target": "いき",
+        "options": [
+          "思",
+          "急",
+          "自",
+          "息"
+        ],
+        "answer": 3,
+        "explanation_en": "いき is 息 (மூச்சு, breath): the nose (自) over the heart (心). 思 and 急 also have 心 at the bottom, but the top part is different.",
+        "explanation_ta": "いき = 息 (மூச்சு, breath): இதயத்தின் (心) மேல் மூக்கு (自). 思, 急 இவற்றிலும் கீழே 心 உண்டு; ஆனால் மேல் பகுதி வேறு."
+      },
+      {
+        "id": "KU9-q16",
+        "type": "orthography",
+        "sentence": "えきの 前に 長い ＿れつ＿が できて います。",
+        "target": "れつ",
+        "options": [
+          "例",
+          "列",
+          "礼",
+          "別"
+        ],
+        "answer": 1,
+        "explanation_en": "れつ is 列 (வரிசை, line / queue): bones 歹 cut by a knife 刂 and put in a row. 例 (example) has a person 亻 in front, and 別 (separate) has a different left side.",
+        "explanation_ta": "れつ = 列 (வரிசை, line / queue): கத்தியால் (刂) வெட்டி வரிசையாக வைத்த எலும்புகள் (歹). 例 (உதாரணம்) முன்னால் மனிதன் 亻 உண்டு. 別 (தனி)-இன் இடப்பக்கம் வேறு."
+      }
+    ]
+  }
+}

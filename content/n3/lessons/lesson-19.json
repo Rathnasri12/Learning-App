@@ -1,0 +1,309 @@
+{
+  "lesson": 19,
+  "title": { "ja": "雨になるとのことだ", "ta": "மழை பெய்யும் என்று கேள்விப்பட்டேன்", "en": "I hear it'll rain" },
+  "intro_ta": "இந்தப் பாடத்தில் நாம் கேள்விப்பட்ட தகவலை மற்றவர்களுக்குச் சொல்லும் வழிகளைக் கற்போம். தமிழில் 'மழை பெய்யுமாம்', 'அவர் வருவாராம்' என்று '-ஆம்' சேர்த்துச் சொல்வது போல, ஜப்பானிய மொழியில் 〜とのことだ, 〜ということだ, 〜とか, 〜という噂だ போன்றவை உள்ளன. ஒரு சொல்லின் பொருளை விளக்க 〜というのは〜ことだ ('...என்பது ...ஆகும்') என்றும், கேட்ட தகவலிலிருந்து முடிவு எடுக்க 〜ということは ('அப்படியென்றால்...') என்றும் சொல்லக் கற்போம். செய்தி, வதந்தி, தகவல், ஊடகம் தொடர்பான சொற்களும் இந்தப் பாடத்தில் உள்ளன.",
+  "intro_en": "In this lesson you learn how to pass on things you heard. In Tamil you add -ஆம்: மழை பெய்யுமாம் (it will rain, they say). Japanese has 〜とのことだ, 〜ということだ, 〜とか and 〜という噂だ. You also learn to explain what a word means: 〜というのは〜ことだ. And you learn to draw a conclusion from news: 〜ということは (so that means …). The new words are about news, rumours, messages and the media.",
+  "grammar": [
+    {
+      "id": "g19-1",
+      "pattern": "〜ということだ / 〜とのことだ",
+      "name": { "en": "I hear that ~ / I was told that ~", "ta": "...ஆம் / ...என்று சொன்னார்கள்" },
+      "explanation_ta": "வேறொருவரிடம் கேட்ட அல்லது படித்த தகவலை அப்படியே மற்றவருக்குச் சொல்லும்போது 〜ということだ / 〜とのことだ பயன்படும். சாதாரண வடிவத்துக்குப் (plain form) பிறகு சேர்க்க வேண்டும்: 雨になるとのことです, 遅れるということです. பெயர்ச்சொல், な-பெயரடை என்றால் だ சேர்க்கலாம்: 休みだとのことです. 〜によると (...இன்படி) உடன் அடிக்கடி வரும். とのことです மிகவும் முறையானது; அலுவலகத்தில் ஒருவரின் தகவலை (伝言) மேலதிகாரிக்குச் சொல்லும்போதும் கடிதங்களிலும் பயன்படும். N4-இல் கற்ற 〜そうです (கேள்விப்பட்டேன்) போன்ற பொருள்தான்; ஆனால் இவை சற்றுக் கூடுதல் முறையானவை, 'சொன்னதை அப்படியே தெரிவிக்கிறேன்' என்ற உணர்வு அதிகம்.",
+      "explanation_en": "Use this to pass on news you heard or read. Put it after the plain form: 雨になるとのことです, 遅れるということです. After a noun or na-adjective, add だ: 休みだとのことです. It often goes with 〜によると (according to …). とのことです is very polite and formal. You use it at work, to pass a message to your boss, and in letters. The meaning is close to 〜そうです (I hear), which you know. But these sound more formal, like “I am passing on exactly what was said”.",
+      "tamil_parallel": "நாளை மழை பெய்யுமாம் / பெய்யும் என்று சொன்னார்கள் = 明日は雨になるとのことです",
+      "tamil_parallel_en": "நாளை மழை பெய்யுமாம் (it will rain tomorrow, they say) = 明日は雨になるとのことです",
+      "formation": "வினை (சாதாரண வடிவம்) + ということだ / とのことだ\nい-பெயரடை + ということだ / とのことだ\nな-பெயரடை / பெயர்ச்சொல் + だ + ということだ / とのことだ\nமரியாதை: 〜ということです / 〜とのことです",
+      "formation_en": "Verb (plain form) + ということだ / とのことだ\ni-adjective + ということだ / とのことだ\nna-adjective / noun + だ + ということだ / とのことだ\nPolite: 〜ということです / 〜とのことです",
+      "examples": [
+        { "ja": "天気予報によると、明日は雨になるとのことです。", "reading": "てんきよほうに よると、あしたは あめに なる との ことです。", "romaji": "tenki yohou ni yoru to, ashita wa ame ni naru to no koto desu.", "ta": "வானிலை அறிக்கையின்படி நாளை மழை பெய்யுமாம்.", "en": "According to the weather forecast, it will rain tomorrow." },
+        { "ja": "部長から電話があって、会議に少し遅れるとのことです。", "reading": "ぶちょうから でんわが あって、かいぎに すこし おくれる との ことです。", "romaji": "buchou kara denwa ga atte, kaigi ni sukoshi okureru to no koto desu.", "ta": "மேலாளர் போன் செய்தார்; கூட்டத்துக்குக் கொஞ்சம் தாமதமாக வருவாராம்.", "en": "The manager called. He says he’ll be a little late for the meeting." },
+        { "ja": "ニュースによると、駅前で大きな事件があったということだ。", "reading": "ニュースに よると、えきまえで おおきな じけんが あった という ことだ。", "romaji": "nyuusu ni yoru to, ekimae de ookina jiken ga atta to iu koto da.", "ta": "செய்தியின்படி ஸ்டேஷன் முன் ஒரு பெரிய சம்பவம் நடந்ததாம்.", "en": "According to the news, there was a big incident in front of the station." },
+        { "ja": "田中さんは来月結婚するということです。", "reading": "たなかさんは らいげつ けっこん する という ことです。", "romaji": "tanaka-san wa raigetsu kekkon suru to iu koto desu.", "ta": "தனாக்கா அடுத்த மாதம் திருமணம் செய்துகொள்கிறாராம்.", "en": "I hear Mr Tanaka is getting married next month." },
+        { "ja": "先生はご病気で、今日の授業は休みだとのことです。", "reading": "せんせいは ごびょうきで、きょうの じゅぎょうは やすみだ との ことです。", "romaji": "sensei wa gobyouki de, kyou no jugyou wa yasumi da to no koto desu.", "ta": "ஆசிரியருக்கு உடல்நலம் சரியில்லை; இன்று வகுப்பு இல்லையாம்.", "en": "The teacher is ill, so there is no class today, I was told." },
+        { "ja": "山田さんから伝言です。駅で待っているとのことです。", "reading": "やまださんから でんごんです。えきで まって いる との ことです。", "romaji": "yamada-san kara dengon desu. eki de matte iru to no koto desu.", "ta": "யமாதாவிடமிருந்து ஒரு தகவல்: அவர் ஸ்டேஷனில் காத்திருக்கிறாராம்.", "en": "A message from Ms Yamada: she says she’s waiting at the station." }
+      ],
+      "pitfalls_ta": "とのことです-ஐ உங்கள் சொந்தக் கருத்துக்குப் பயன்படுத்தக் கூடாது; அது எப்போதும் வேறொருவர் சொன்ன தகவல். மேலும் ということだ-க்கு 'அதாவது...' (முடிவு) என்ற இன்னொரு பொருளும் உண்டு; சூழலை வைத்துப் புரிந்துகொள்ளுங்கள்.",
+      "pitfalls_en": "Don’t use とのことです for your own opinion. It is always news from someone else. Also, ということだ can mean “so that means …” (a conclusion). Look at the situation to decide."
+    },
+    {
+      "id": "g19-2",
+      "pattern": "〜とか",
+      "name": { "en": "I heard something like ~ (vague hearsay)", "ta": "...ஆமே (தெளிவில்லாமல் கேள்விப்பட்டது)" },
+      "explanation_ta": "வாக்கியத்தின் முடிவில் வரும் 〜とか என்பது 'சரியாகத் தெரியவில்லை, ஆனால் இப்படி ஏதோ கேள்விப்பட்டேன்' என்ற பொருள் தரும். சாதாரண வடிவத்துக்குப் பிறகு சேர்க்க வேண்டும்: やめるとか, おいしいとか, 厳しい人だとか. 〜とか聞いた / 〜とか言っていた என்றும் வரும். இது நண்பர்களிடையே பேசும் இயல்பான, மென்மையான வழி. とのことです அளவுக்கு உறுதியானது அல்ல. N5/N4-இல் கற்ற 'AとかBとか' (A, B போன்றவை) பட்டியல் போடும் とか வேறு; இது வாக்கிய முடிவில் தகவலைச் சொல்லும் とか.",
+      "explanation_en": "〜とか at the end of a sentence means “I heard something like this, but I’m not sure”. Put it after the plain form: やめるとか, おいしいとか, 厳しい人だとか. You also hear 〜とか聞いた or 〜とか言っていた. It is casual and soft, used with friends. It is less sure than とのことです. Don’t mix it up with the listing とか you know (AとかBとか, “things like A and B”).",
+      "tamil_parallel": "யமாதா வேலையை விடுகிறாராமே = 山田さん、会社をやめるとか",
+      "tamil_parallel_en": "யமாதா வேலையை விடுகிறாராமே (Yamada is quitting, I sort of heard) = 山田さん、会社をやめるとか",
+      "formation": "சாதாரண வடிவம் (வினை / い-பெயரடை / な-பெயரடை・பெயர்ச்சொல் + だ) + とか\n〜とか 聞いた / 〜とか 言っていた",
+      "formation_en": "Plain form (verb / i-adj / na-adj or noun + だ) + とか\n〜とか 聞いた / 〜とか 言っていた",
+      "examples": [
+        { "ja": "山田さん、来月会社をやめるとか。", "reading": "やまださん、らいげつ かいしゃを やめる とか。", "romaji": "yamada-san, raigetsu kaisha o yameru toka.", "ta": "யமாதா அடுத்த மாதம் வேலையை விடுகிறாராமே.", "en": "I heard something about Ms Yamada quitting next month." },
+        { "ja": "北海道は今朝、雪が降ったとか。", "reading": "ほっかいどうは けさ、ゆきが ふった とか。", "romaji": "hokkaidou wa kesa, yuki ga futta toka.", "ta": "ஹொக்கைடோவில் இன்று காலை பனி பெய்ததாமே.", "en": "I hear it snowed in Hokkaido this morning." },
+        { "ja": "あの店のカレー、すごくおいしいとか。", "reading": "あの みせの カレー、すごく おいしい とか。", "romaji": "ano mise no karee, sugoku oishii toka.", "ta": "அந்தக் கடையின் கறி ரொம்ப ருசியாமே.", "en": "That shop’s curry is really good, they say." },
+        { "ja": "新しい部長は厳しい人だとか。", "reading": "あたらしい ぶちょうは きびしい ひとだ とか。", "romaji": "atarashii buchou wa kibishii hito da toka.", "ta": "புதிய மேலாளர் கண்டிப்பானவராமே.", "en": "I hear the new manager is a strict person." },
+        { "ja": "田中さんの息子さん、東京の大学に合格したとか聞きましたよ。", "reading": "たなかさんの むすこさん、とうきょうの だいがくに ごうかく した とか ききましたよ。", "romaji": "tanaka-san no musuko-san, toukyou no daigaku ni goukaku shita toka kikimashita yo.", "ta": "தனாக்காவின் மகன் டோக்கியோ பல்கலைக்கழகத்தில் தேர்ச்சி பெற்றான் என்று ஏதோ கேள்விப்பட்டேன்.", "en": "I heard something about Mr Tanaka’s son getting into a Tokyo university." },
+        { "ja": "明日の試合、中止になったとか言っていたよ。", "reading": "あしたの しあい、ちゅうしに なった とか いって いたよ。", "romaji": "ashita no shiai, chuushi ni natta toka itte ita yo.", "ta": "நாளைய போட்டி ரத்தாகிவிட்டது என்று ஏதோ சொன்னார்கள்.", "en": "They were saying something about tomorrow’s match being called off." }
+      ],
+      "pitfalls_ta": "முதலாளி அல்லது வாடிக்கையாளரிடம் முக்கியத் தகவலைச் சொல்ல とか பொருந்தாது; அது தெளிவில்லாமல், பொறுப்பில்லாமல் கேட்கும். அங்கே とのことです பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Don’t use とか to give important news to your boss or a customer. It sounds vague and careless. Use とのことです there."
+    },
+    {
+      "id": "g19-3",
+      "pattern": "〜という 話だ / 〜という 噂だ",
+      "name": { "en": "There’s talk / a rumour that ~", "ta": "...என்று பேச்சு / ...என்று வதந்தி" },
+      "explanation_ta": "பலர் பேசிக்கொள்ளும் தகவலைச் சொல்ல 〜という話だ ('...என்று பேச்சு') பயன்படும். உறுதி செய்யப்படாத, மக்கள் வாயால் பரவும் செய்தி என்றால் 〜という噂だ ('...என்று வதந்தி'). சாதாரண வடிவம் + という + 話 / 噂. 〜という噂がある (வதந்தி இருக்கிறது), 〜という話を聞いた (பேச்சு கேட்டேன்), 〜という噂は本当ですか (அந்த வதந்தி உண்மையா?) என்று பெயர்ச்சொல்லாகவும் பயன்படுத்தலாம். 噂 என்றால் உண்மையா பொய்யா என்று தெரியாது என்ற உணர்வு அதிகம்.",
+      "explanation_en": "〜という話だ means “there’s talk that …”: news many people are passing around. 〜という噂だ means “there’s a rumour that …”: not confirmed, maybe not true. Form: plain form + という + 話 / 噂. You can also use them as nouns: 〜という噂がある (there is a rumour), 〜という話を聞いた (I heard talk), 〜という噂は本当ですか (is the rumour true?). 噂 gives a stronger feeling of “we don’t know if it’s true”.",
+      "tamil_parallel": "அந்த இருவரும் காதலிக்கிறார்கள் என்று வதந்தி = あの二人は付き合っているという噂だ",
+      "tamil_parallel_en": "அந்த இருவரும் காதலிக்கிறார்கள் என்று வதந்தி (rumour says those two are dating) = あの二人は付き合っているという噂だ",
+      "formation": "சாதாரண வடிவம் + という 話だ / という 噂だ\nசாதாரண வடிவம் + という 噂が ある / という 話を 聞いた",
+      "formation_en": "Plain form + という 話だ / という 噂だ\nPlain form + という 噂が ある / という 話を 聞いた",
+      "examples": [
+        { "ja": "駅の前に大きなデパートができるという話です。", "reading": "えきの まえに おおきな デパートが できる という はなしです。", "romaji": "eki no mae ni ookina depaato ga dekiru to iu hanashi desu.", "ta": "ஸ்டேஷன் முன்னால் பெரிய டிபார்ட்மென்ட் ஸ்டோர் வரப்போகிறது என்று பேச்சு.", "en": "There’s talk that a big department store will open in front of the station." },
+        { "ja": "あの二人は付き合っているという噂だ。", "reading": "あの ふたりは つきあって いる という うわさだ。", "romaji": "ano futari wa tsukiatte iru to iu uwasa da.", "ta": "அந்த இருவரும் காதலிக்கிறார்கள் என்று வதந்தி.", "en": "Rumour has it those two are going out." },
+        { "ja": "来年から電車の料金が上がるという話を聞きました。", "reading": "らいねんから でんしゃの りょうきんが あがる という はなしを ききました。", "romaji": "rainen kara densha no ryoukin ga agaru to iu hanashi o kikimashita.", "ta": "அடுத்த ஆண்டிலிருந்து ரயில் கட்டணம் உயரும் என்று பேச்சு கேட்டேன்.", "en": "I heard talk that train fares will go up from next year." },
+        { "ja": "この古い家には幽霊が出るという噂があります。", "reading": "この ふるい いえには ゆうれいが でる という うわさが あります。", "romaji": "kono furui ie ni wa yuurei ga deru to iu uwasa ga arimasu.", "ta": "இந்தப் பழைய வீட்டில் பேய் வருகிறது என்று ஒரு வதந்தி இருக்கிறது.", "en": "There’s a rumour that a ghost appears in this old house." },
+        { "ja": "社長が会社をやめるという噂は本当ですか。", "reading": "しゃちょうが かいしゃを やめる という うわさは ほんとうですか。", "romaji": "shachou ga kaisha o yameru to iu uwasa wa hontou desu ka.", "ta": "நிறுவனத் தலைவர் விலகுகிறார் என்ற வதந்தி உண்மையா?", "en": "Is the rumour that the president is leaving true?" },
+        { "ja": "その歌手は来月チェンナイでコンサートをするという話だ。", "reading": "その かしゅは らいげつ チェンナイで コンサートを する という はなしだ。", "romaji": "sono kashu wa raigetsu chennai de konsaato o suru to iu hanashi da.", "ta": "அந்தப் பாடகர் அடுத்த மாதம் சென்னையில் இசை நிகழ்ச்சி நடத்துவார் என்று பேச்சு.", "en": "There’s talk that the singer will give a concert in Chennai next month." }
+      ],
+      "pitfalls_ta": "という-வை விட்டுவிட்டு 'できる話です' என்று சொன்னால் 'நடக்கக்கூடிய கதை' என்று வேறு பொருள் வரும். தகவலைச் சொல்ல という அவசியம்.",
+      "pitfalls_en": "Don’t drop という. できる話です sounds like “a story that can happen”, a different meaning. To pass on news, you need という."
+    },
+    {
+      "id": "g19-4",
+      "pattern": "〜というのは 〜ことだ",
+      "name": { "en": "~ means ~ (giving a meaning)", "ta": "...என்பது ...ஆகும் (பொருள் விளக்கம்)" },
+      "explanation_ta": "ஒரு சொல் அல்லது தொடரின் பொருளை விளக்க X というのは Y ことだ ('X என்பது Y ஆகும்') பயன்படும். Y பெயர்ச்சொல் என்றால் Yのことだ, Y வாக்கியம் என்றால் Y (という)ことだ அல்லது Y という意味だ. கேள்வியாகக் கேட்க: 'Xというのは何ですか / どういう意味ですか'. பேச்சில் சுருக்கமாக 〜って என்றும் வரும் (マスコミって何?). N5-இல் கற்ற 'Xは何ですか'-ஐ விட, இது 'இந்தச் சொல்லின் பொருள் என்ன' என்று சொல்லையே மையப்படுத்துகிறது.",
+      "explanation_en": "Use X というのは Y ことだ to say what a word means: “X means Y”. If Y is a noun, say Yのことだ. If Y is a sentence, say Y (という)ことだ or Y という意味だ. To ask: Xというのは何ですか / どういう意味ですか. In casual talk it becomes 〜って (マスコミって何?). Unlike Xは何ですか, this asks about the word itself.",
+      "tamil_parallel": "'மாஸ்கொமி' என்பது செய்தித்தாள், தொலைக்காட்சி போன்ற ஊடகங்கள் = 「マスコミ」というのは新聞やテレビなどのことです",
+      "tamil_parallel_en": "'மாஸ்கொமி' என்பது ஊடகங்கள் (\"masukomi\" means the media) = 「マスコミ」というのは新聞やテレビなどのことです",
+      "formation": "X + というのは + பெயர்ச்சொல் + の + ことだ\nX + というのは + வாக்கியம் (சாதாரண வடிவம்) + (という) ことだ / という 意味だ\nகேள்வி: X + というのは + 何ですか / どういう 意味ですか",
+      "formation_en": "X + というのは + noun + の + ことだ\nX + というのは + sentence (plain form) + (という) ことだ / という 意味だ\nQuestion: X + というのは + 何ですか / どういう 意味ですか",
+      "examples": [
+        { "ja": "「マスコミ」というのは、新聞やテレビなどのことです。", "reading": "「マスコミ」と いうのは、しんぶんや テレビなどの ことです。", "romaji": "\"masukomi\" to iu no wa, shinbun ya terebi nado no koto desu.", "ta": "'マスコミ' என்பது செய்தித்தாள், தொலைக்காட்சி போன்ற ஊடகங்களைக் குறிக்கும்.", "en": "“Masukomi” means newspapers, TV and so on." },
+        { "ja": "「国境」というのは、国と国の境のことだ。", "reading": "「こっきょう」と いうのは、くにと くにの さかいの ことだ。", "romaji": "\"kokkyou\" to iu no wa, kuni to kuni no sakai no koto da.", "ta": "'国境' என்பது இரண்டு நாடுகளுக்கு இடையிலான எல்லை.", "en": "“Kokkyou” means the line between two countries." },
+        { "ja": "「ドタキャン」というのは、直前に約束をキャンセルするということです。", "reading": "「ドタキャン」と いうのは、ちょくぜんに やくそくを キャンセル する という ことです。", "romaji": "\"dotakyan\" to iu no wa, chokuzen ni yakusoku o kyanseru suru to iu koto desu.", "ta": "'ドタキャン' என்பது கடைசி நேரத்தில் ஒப்பந்தத்தை ரத்து செய்வது.", "en": "“Dotakyan” means cancelling a plan at the last minute." },
+        { "ja": "「余裕がない」というのは、時間やお金が足りないという意味です。", "reading": "「よゆうが ない」と いうのは、じかんや おかねが たりない という いみです。", "romaji": "\"yoyuu ga nai\" to iu no wa, jikan ya okane ga tarinai to iu imi desu.", "ta": "'余裕がない' என்றால் நேரமோ பணமோ போதவில்லை என்று பொருள்.", "en": "“Yoyuu ga nai” means you don’t have enough time or money." },
+        { "ja": "「記者」というのは、どんな仕事のことですか。", "reading": "「きしゃ」と いうのは、どんな しごとの ことですか。", "romaji": "\"kisha\" to iu no wa, donna shigoto no koto desu ka.", "ta": "'記者' என்பது எந்த மாதிரியான வேலை?", "en": "What kind of job is a “kisha”?" },
+        { "ja": "「積ん読」というのは、本を買っても読まないで置いておくことだ。", "reading": "「つんどく」と いうのは、ほんを かっても よまないで おいて おく ことだ。", "romaji": "\"tsundoku\" to iu no wa, hon o katte mo yomanaide oite oku koto da.", "ta": "'積ん読' என்பது புத்தகம் வாங்கியும் படிக்காமல் வைத்திருப்பது.", "en": "“Tsundoku” means buying books and leaving them unread." }
+      ],
+      "pitfalls_ta": "முடிவில் ことだ / という意味だ சேர்க்க மறக்காதீர்கள். 'マスコミというのは新聞やテレビです' என்பது தவறு அல்ல, ஆனால் விளக்கமாக ஒலிக்காது.",
+      "pitfalls_en": "Don’t forget ことだ or という意味だ at the end. マスコミというのは新聞やテレビです is not wrong, but it doesn’t sound like a definition."
+    },
+    {
+      "id": "g19-5",
+      "pattern": "〜ということは",
+      "name": { "en": "That means ~ (drawing a conclusion)", "ta": "அப்படியென்றால்... (முடிவுக்கு வருதல்)" },
+      "explanation_ta": "கேட்ட அல்லது பார்த்த ஒரு தகவலிலிருந்து 'அப்படியென்றால் இதுதான்' என்று முடிவுக்கு வர 〜ということは பயன்படும். இரண்டு வழிகள்: (1) X ということは Y (ということだ / わけだ / のだろう): 'X என்றால் Y என்று அர்த்தம்'. (2) மற்றவர் சொன்னதற்குப் பதிலாக வாக்கியத்தின் தொடக்கத்தில் 'ということは、〜ね / 〜んですか' ('அப்படியென்றால்...?'). பாடம் 12-இல் கற்ற 〜わけだ உடன் அடிக்கடி சேர்ந்து வரும். g19-4-இன் というのは பொருளை விளக்குகிறது; ということは முடிவைச் சொல்கிறது.",
+      "explanation_en": "Use 〜ということは to draw a conclusion from something you heard or saw: “so that means …”. Two ways: (1) X ということは Y (ということだ / わけだ / のだろう): “X means Y must be true”. (2) At the start of your reply to someone: ということは、〜ね / 〜んですか (“So that means …?”). It often goes with 〜わけだ from Lesson 12. というのは (g19-4) explains a meaning. ということは gives a conclusion.",
+      "tamil_parallel": "நாளை விடுமுறை. அப்படியென்றால் வங்கி மூடியிருக்கும் = 明日は祝日です。ということは、銀行は休みですね",
+      "tamil_parallel_en": "அப்படியென்றால் (so that means) = ということは: 明日は祝日です。ということは、銀行は休みですね",
+      "formation": "சாதாரண வடிவம் + ということは、〜 (ということだ / わけだ / のだろう)\nவாக்கியத் தொடக்கம்: ということは、〜ね / 〜んですか",
+      "formation_en": "Plain form + ということは、〜 (ということだ / わけだ / のだろう)\nStart of a reply: ということは、〜ね / 〜んですか",
+      "examples": [
+        { "ja": "「明日は祝日です。」「ということは、銀行は休みですね。」", "reading": "「あしたは しゅくじつです。」「という ことは、ぎんこうは やすみですね。」", "romaji": "\"ashita wa shukujitsu desu.\" \"to iu koto wa, ginkou wa yasumi desu ne.\"", "ta": "'நாளை விடுமுறை நாள்.' 'அப்படியென்றால் வங்கி மூடியிருக்கும், இல்லையா?'", "en": "“Tomorrow is a national holiday.” “So the bank is closed, right?”" },
+        { "ja": "電気が消えているということは、もう寝たのだろう。", "reading": "でんきが きえて いる という ことは、もう ねたのだろう。", "romaji": "denki ga kiete iru to iu koto wa, mou neta no darou.", "ta": "விளக்கு அணைந்திருக்கிறது என்றால், அவர் ஏற்கெனவே தூங்கியிருப்பார்.", "en": "The light is off, so he has probably gone to bed." },
+        { "ja": "誰も電話に出ないということは、みんな出かけているということだ。", "reading": "だれも でんわに でない という ことは、みんな でかけて いる という ことだ。", "romaji": "daremo denwa ni denai to iu koto wa, minna dekakete iru to iu koto da.", "ta": "யாரும் போனை எடுக்கவில்லை என்றால் எல்லோரும் வெளியே போயிருக்கிறார்கள் என்று அர்த்தம்.", "en": "Nobody answering the phone means everyone is out." },
+        { "ja": "「チケットは全部売れました。」「ということは、もう買えないんですか。」", "reading": "「チケットは ぜんぶ うれました。」「という ことは、もう かえないんですか。」", "romaji": "\"chiketto wa zenbu uremashita.\" \"to iu koto wa, mou kaenain desu ka.\"", "ta": "'எல்லா டிக்கெட்டும் விற்றுவிட்டன.' 'அப்படியென்றால் இனி வாங்க முடியாதா?'", "en": "“All the tickets are sold.” “So we can’t buy any now?”" },
+        { "ja": "合格した人が九割ということは、ほとんどの人が合格するわけですね。", "reading": "ごうかく した ひとが きゅうわり という ことは、ほとんどの ひとが ごうかく する わけですね。", "romaji": "goukaku shita hito ga kyuuwari to iu koto wa, hotondo no hito ga goukaku suru wake desu ne.", "ta": "தேர்ச்சி பெற்றவர்கள் 90% என்றால், பெரும்பாலோர் தேர்ச்சி பெறுகிறார்கள் என்று அர்த்தம்.", "en": "If ninety percent pass, that means almost everyone passes." }
+      ],
+      "pitfalls_ta": "ということは (முடிவு) மற்றும் というのは (பொருள் விளக்கம்) இரண்டையும் குழப்ப வேண்டாம். 'அப்படியென்றால்' என்று தமிழில் சொல்லத் தோன்றினால் ということは.",
+      "pitfalls_en": "Don’t mix up ということは (a conclusion) and というのは (a meaning). If you would say அப்படியென்றால் (so then) in Tamil, use ということは."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0012", "n3-v-0034", "n3-v-0116", "n3-v-0135", "n3-v-0157", "n3-v-0223", "n3-v-0342", "n3-v-0344",
+    "n3-v-0345", "n3-v-0433", "n3-v-0463", "n3-v-0620", "n3-v-0650", "n3-v-0705", "n3-v-0707", "n3-v-0830",
+    "n3-v-0930", "n3-v-1150", "n3-v-1250", "n3-v-1270", "n3-v-1376", "n3-v-1438", "n3-v-1482", "n3-v-1501",
+    "n3-v-1505", "n3-v-1549", "n3-v-1642", "n3-v-1657", "n3-v-1690", "n3-v-1719", "n3-v-1730", "n3-v-1733",
+    "n3-v-1775", "n3-v-1782", "n3-v-1827", "n3-v-1842", "n3-v-1843", "n3-v-1893", "n3-v-1908", "n3-v-1931",
+    "n3-v-2031", "n3-v-2040", "n3-v-2079", "n3-v-2107", "n3-v-2122", "n3-v-2128"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L19-q01", "type": "kanji_reading",
+        "sentence": "新聞に 事件の ＿記事＿が 載って いました。", "target": "記事",
+        "options": ["きし", "きごと", "きじ", "ぎじ"], "answer": 2,
+        "explanation_ta": "記事 = きじ (செய்திக் கட்டுரை). 事 இங்கே じ என்று படிக்கப்படும். きし (騎士) வேறு சொல்.",
+        "explanation_en": "記事 = きじ (news article). Here 事 is read じ. きし is a different word."
+      },
+      {
+        "id": "L19-q02", "type": "kanji_reading",
+        "sentence": "旅行の ＿情報＿を 集めて います。", "target": "情報",
+        "options": ["じょうほ", "じょうほう", "じょほう", "しょうほう"], "answer": 1,
+        "explanation_ta": "情報 = じょうほう (தகவல்). இரண்டு இடத்திலும் நீண்ட ஒலி: じょう + ほう. じょうほ கடைசியில் குறுகியது, தவறு.",
+        "explanation_en": "情報 = じょうほう (information). Both parts are long: じょう + ほう. じょうほ is too short at the end."
+      },
+      {
+        "id": "L19-q03", "type": "kanji_reading",
+        "sentence": "手紙を 読んだ 母の ＿表情＿が 明るく なった。", "target": "表情",
+        "options": ["ひょうじょう", "ひょうじょ", "ひょうせい", "ほうじょう"], "answer": 0,
+        "explanation_ta": "表情 = ひょうじょう (முகபாவம்). 情 = じょう (情報-இல் உள்ளது போல). ほうじょう என்பது தவறான ஒலி.",
+        "explanation_en": "表情 = ひょうじょう (facial expression). 情 is じょう, as in 情報. ほうじょう has the wrong first sound."
+      },
+      {
+        "id": "L19-q04", "type": "orthography",
+        "sentence": "来週、研究の 結果を ＿はっぴょう＿します。", "target": "はっぴょう",
+        "options": ["発票", "初表", "発俵", "発表"], "answer": 3,
+        "explanation_ta": "はっぴょう = 発表 (அறிவிப்பு, விளக்கக்காட்சி). 表 = வெளியே காட்டுதல் (表す, 表情). 票 (வாக்குச்சீட்டு) வேறு எழுத்து.",
+        "explanation_en": "はっぴょう = 発表 (announcement, presentation). 表 means “to show”, as in 表す and 表情. 票 (a vote) is a different kanji."
+      },
+      {
+        "id": "L19-q05", "type": "orthography",
+        "sentence": "会社が なくなると いう ＿うわさ＿を 聞きました。", "target": "うわさ",
+        "options": ["話", "噂", "嘘", "噛"], "answer": 1,
+        "explanation_ta": "うわさ = 噂 (வதந்தி). 話 = はなし, 嘘 = うそ (பொய்); இரண்டும் வேறு சொற்கள்.",
+        "explanation_en": "うわさ = 噂 (rumour). 話 is はなし and 嘘 is うそ (a lie). They are different words."
+      },
+      {
+        "id": "L19-q06", "type": "vocab_context",
+        "sentence": "山田さんが 席に いなかったので、隣の 人に （　　）を お願いしました。",
+        "options": ["伝言", "発行", "声明", "刊行"], "answer": 0,
+        "explanation_ta": "ஒருவர் இல்லாதபோது வேறொருவர் மூலம் சொல்லும் தகவல் = 伝言. 声明 என்பது நிறுவனம் / அரசு வெளியிடும் அதிகாரபூர்வ அறிக்கை; இங்கே பொருந்தாது.",
+        "explanation_en": "A message left with someone else when a person is away = 伝言. 声明 is an official statement by a company or government. It doesn’t fit here."
+      },
+      {
+        "id": "L19-q07", "type": "vocab_context",
+        "sentence": "駅まで （　　） 三十分は かかるから、早く 出た ほうが いいよ。",
+        "options": ["ふと", "すくなくとも", "やっと", "ずっと"], "answer": 1,
+        "explanation_ta": "'குறைந்தபட்சம் 30 நிமிடம் ஆகும்' = すくなくとも. பின்னால் வரும் は (三十分は) இதனுடன் அடிக்கடி சேரும். ふと = திடீரென்று; நேர அளவுடன் பொருந்தாது.",
+        "explanation_en": "“It takes at least 30 minutes” = すくなくとも. The は in 三十分は often goes with it. ふと means “suddenly”, which doesn’t fit an amount of time."
+      },
+      {
+        "id": "L19-q08", "type": "vocab_context",
+        "sentence": "試験の 日は 時間に （　　）を 持って 家を 出ましょう。",
+        "options": ["騒ぎ", "状況", "疲れ", "余裕"], "answer": 3,
+        "explanation_ta": "時間に余裕を持つ = போதுமான நேரம் கையில் வைத்திருத்தல். 状況 (நிலைமை) 'நேரத்தில் நிலைமை வைத்திரு' என்று பொருள் தராது.",
+        "explanation_en": "時間に余裕を持つ = to leave with time to spare. 状況 (situation) makes no sense with 時間に〜を持つ."
+      },
+      {
+        "id": "L19-q09", "type": "vocab_context",
+        "sentence": "公園を 歩いて いたら、（　　） 子どもの ころの ことを 思い出した。",
+        "options": ["必ず", "ぜひ", "ふと", "すくなくとも"], "answer": 2,
+        "explanation_ta": "எதிர்பாராமல், காரணமில்லாமல் நினைவு வருவது = ふと思い出す. 必ず (கட்டாயம்), ぜひ (எப்படியாவது) கடந்த கால நிகழ்வுக்குப் பொருந்தாது.",
+        "explanation_en": "A memory that comes suddenly, for no reason = ふと思い出す. 必ず (always, surely) and ぜひ (by all means) don’t fit a sudden past event."
+      },
+      {
+        "id": "L19-q10", "type": "vocab_context",
+        "sentence": "外国で 買った 高い 物は、空港で 税関に （　　）しなければ なりません。",
+        "options": ["申告", "発表", "出版", "注目"], "answer": 0,
+        "explanation_ta": "சுங்கத்துறை போன்ற அதிகாரிகளிடம் முறையாகத் தெரிவிப்பது = 申告. 発表 என்பது பொதுமக்களுக்கு அறிவிப்பது; அதிகாரிகளிடம் 'தாக்கல்' அல்ல.",
+        "explanation_en": "To declare something to officials like customs = 申告. 発表 is announcing to the public, not reporting to officials."
+      },
+      {
+        "id": "L19-q11", "type": "paraphrase",
+        "sentence": "天気予報に よると、明日は 雨に なるとの ことです。",
+        "options": ["明日は 雨に なって ほしいです。", "天気予報では、明日は 雨に ならないと 言って います。", "天気予報では、明日は 雨に なると 言って います。", "明日は 雨が 降る はずが ありません。"], "answer": 2,
+        "explanation_ta": "とのことです = '...என்று சொல்கிறார்கள்'. ஆகவே 'வானிலை அறிக்கை நாளை மழை என்று சொல்கிறது'. 雨にならない எதிர்ப் பொருள்.",
+        "explanation_en": "とのことです = “they say …”. So the forecast says it will rain tomorrow. 雨にならない is the opposite."
+      },
+      {
+        "id": "L19-q12", "type": "paraphrase",
+        "sentence": "兄の 書いた 記事が 雑誌に 載りました。",
+        "options": ["兄の 書いた 記事が 雑誌から なくなりました。", "兄は 雑誌の 記事を 読みました。", "兄は 雑誌に 記事を 書けませんでした。", "兄の 書いた 記事が 雑誌に 出ました。"], "answer": 3,
+        "explanation_ta": "雑誌に載る = பத்திரிகையில் வெளிவருதல் = 雑誌に出る. 読みました (படித்தார்) வேறு செயல்.",
+        "explanation_en": "雑誌に載る = to appear in a magazine = 雑誌に出る. 読みました (he read it) is a different action."
+      },
+      {
+        "id": "L19-q13", "type": "paraphrase",
+        "sentence": "店の 電気が 消えて いる。ということは、もう 閉まったのだろう。",
+        "options": ["店の 電気が 消えて いるから、もう 閉まったのだろう。", "店の 電気が 消えて いるのに、まだ 開いて いる。", "店の 電気が 消えたら、閉まる はずだ。", "店の 電気が 消えて いても、閉まって いない。"], "answer": 0,
+        "explanation_ta": "ということは = 'அப்படியென்றால்': விளக்கு அணைந்திருப்பதால் கடை மூடியிருக்கும் என்ற முடிவு. ～から (காரணம்) அதே பொருள் தரும். のに எதிர்பார்ப்புக்கு மாறானது.",
+        "explanation_en": "ということは = “so that means”: the light is off, so the shop must be closed. 〜から (because) gives the same idea. のに shows the opposite of what you expect."
+      },
+      {
+        "id": "L19-q14", "type": "usage",
+        "sentence": "載る",
+        "options": ["毎朝 七時の 電車に 載ります。", "私が 書いた 作文が 学校の 新聞に 載りました。", "友達に メッセージを 載りました。", "大事な ことを 頭に 載りました。"], "answer": 1,
+        "explanation_ta": "載る = (பத்திரிகை, செய்தித்தாளில்) வெளிவருதல். ரயிலில் ஏறுவது 乗る (அதே ஒலி, வேறு எழுத்து). 載る ஒரு செயப்படுபொருள் (を) எடுக்காது.",
+        "explanation_en": "載る = to appear in print. Getting on a train is 乗る (same sound, different kanji). 載る doesn’t take an object with を."
+      },
+      {
+        "id": "L19-q15", "type": "usage",
+        "sentence": "余裕",
+        "options": ["余裕な 人と 結婚したいです。", "部屋を 余裕に 掃除しました。", "昨日は 余裕に 雨が 降りました。", "時間に 余裕が あるから、コーヒーでも 飲もう。"], "answer": 3,
+        "explanation_ta": "余裕 பெயர்ச்சொல்: 時間に余裕がある = நேரம் மிச்சம் இருக்கிறது. 余裕な என்று な-பெயரடையாகப் பயன்படுத்துவது தவறு.",
+        "explanation_en": "余裕 is a noun: 時間に余裕がある = there is time to spare. 余裕な, as if it were a na-adjective, is wrong."
+      },
+      {
+        "id": "L19-q16", "type": "grammar_form",
+        "sentence": "部長から 電話が ありました。会議に 少し 遅れる（　　）。",
+        "options": ["ことに します", "ように します", "との ことです", "ところです"], "answer": 2,
+        "explanation_ta": "மேலாளர் சொன்ன தகவலை மற்றவருக்குத் தெரிவிப்பது = 遅れるとのことです (தாமதமாக வருவாராம்). ことにします என்பது பேசுபவரின் சொந்த முடிவு.",
+        "explanation_en": "You pass on the manager’s message: 遅れるとのことです (he says he’ll be late). ことにします is the speaker’s own decision."
+      },
+      {
+        "id": "L19-q17", "type": "grammar_form",
+        "sentence": "「明日は 台風が 来る そうですよ。」「（　　）、学校は 休みかな。」",
+        "options": ["ということは", "というのは", "というより", "といっても"], "answer": 0,
+        "explanation_ta": "புயல் வருகிறது என்ற தகவலிலிருந்து 'அப்படியென்றால் பள்ளி விடுமுறையோ?' என்ற முடிவு = ということは. というのは ஒரு சொல்லின் பொருளை விளக்கப் பயன்படும்.",
+        "explanation_en": "From the news of a typhoon you guess “so school will be off?” = ということは. というのは explains the meaning of a word."
+      },
+      {
+        "id": "L19-q18", "type": "grammar_form",
+        "sentence": "「積ん読」（　　）、本を 買っても 読まないで 置いて おく ことです。",
+        "options": ["ということは", "とか", "というのは", "という 噂は"], "answer": 2,
+        "explanation_ta": "ஒரு சொல்லின் பொருள் விளக்கம்: X というのは 〜ことです. ということは முடிவைச் சொல்லும்; இங்கே பொருள் விளக்கம் தேவை.",
+        "explanation_en": "This explains a word: X というのは 〜ことです. ということは gives a conclusion, but here we need a meaning."
+      },
+      {
+        "id": "L19-q19", "type": "grammar_form",
+        "sentence": "駅前に 新しい 映画館が できる（　　）。本当かな。",
+        "options": ["というのは", "という 噂だ", "という ことは", "という つもりだ"], "answer": 1,
+        "explanation_ta": "'本当かな' (உண்மையா?) என்று சந்தேகம் இருப்பதால் உறுதியில்லாத தகவல் = という噂だ (என்று வதந்தி). というのは, ということは வாக்கிய முடிவில் தனியாக வராது.",
+        "explanation_en": "本当かな (I wonder if it’s true) shows doubt, so: という噂だ (there’s a rumour). というのは and ということは can’t end a sentence alone."
+      },
+      {
+        "id": "L19-q20", "type": "grammar_form",
+        "sentence": "「山田さん、来月 会社を やめる（　　）。」「えっ、本当？」",
+        "options": ["ように", "とか", "ことに", "ために"], "answer": 1,
+        "explanation_ta": "நண்பர்களிடம் தெளிவில்லாமல் கேட்ட தகவல் = やめるとか (விடுகிறாராமே). ように, ために வாக்கிய முடிவில் இந்தப் பொருள் தராது.",
+        "explanation_en": "Vague news shared with a friend = やめるとか (I heard she’s quitting). ように and ために can’t end the sentence with this meaning."
+      },
+      {
+        "id": "L19-q21", "type": "grammar_form",
+        "sentence": "先生は 病気で、今日の 授業は 休み（　　）との ことです。",
+        "options": ["な", "の", "だ", "で"], "answer": 2,
+        "explanation_ta": "பெயர்ச்சொல்லுக்குப் பிறகு とのことです சேர்க்கும்போது だ வேண்டும்: 休みだとのことです. な, の இங்கே தவறு.",
+        "explanation_en": "After a noun, put だ before とのことです: 休みだとのことです. な and の are wrong here."
+      },
+      {
+        "id": "L19-q22", "type": "grammar_form",
+        "sentence": "「マスコミ」と いうのは、新聞や テレビなどの （　　）。",
+        "options": ["ものです", "はずです", "わけです", "ことです"], "answer": 3,
+        "explanation_ta": "X というのは Y のことです என்பது பொருள் விளக்கத்தின் நிலையான வடிவம். はずです (இருக்க வேண்டும்), わけです (அதனால்தான்) பொருள் விளக்கம் அல்ல.",
+        "explanation_en": "X というのは Y のことです is the set way to give a meaning. はずです (should be) and わけです (that’s why) don’t give a meaning."
+      },
+      {
+        "id": "L19-q23", "type": "sentence_order",
+        "before": "天気予報に よると、明日は", "chunks": ["午後から", "雨に", "なる", "との"], "star": 2, "after": "ことです。",
+        "explanation_ta": "明日は 午後から (மதியத்திலிருந்து) → 雨に なる (மழை ஆகும்) → との ことです (என்று சொல்கிறார்கள்). ★ = なる.",
+        "explanation_en": "明日は 午後から (from the afternoon) → 雨に なる (it will rain) → との ことです (they say). ★ = なる."
+      },
+      {
+        "id": "L19-q24", "type": "sentence_order",
+        "before": "あの 二人が", "chunks": ["付き合って", "いる", "という", "噂"], "star": 2, "after": "は 本当ですか。",
+        "explanation_ta": "付き合っている (காதலிக்கிறார்கள்) → という (என்ற) → 噂は 本当ですか (வதந்தி உண்மையா?). ★ = という.",
+        "explanation_en": "付き合っている (are going out) → という (that) → 噂は 本当ですか (is the rumour true?). ★ = という."
+      },
+      {
+        "id": "L19-q25", "type": "sentence_order",
+        "before": "「伝言」", "chunks": ["というのは", "人に", "頼んで 伝える", "言葉の"], "star": 2, "after": "ことです。",
+        "explanation_ta": "「伝言」というのは (என்பது) → 人に 頼んで 伝える (ஒருவரிடம் சொல்லி அனுப்பும்) → 言葉の ことです (வார்த்தைகள்). ★ = 頼んで 伝える.",
+        "explanation_en": "「伝言」というのは (means) → 人に 頼んで 伝える (passed on through another person) → 言葉の ことです (words). ★ = 頼んで 伝える."
+      },
+      {
+        "id": "L19-q26", "type": "passage_cloze",
+        "passage": "今朝、会社に 着くと、みんなが 何か 話して いました。同僚の 話では、駅の 近くで 大きな 事件が ［1］ との ことです。昼休みに ネットの 記事を 読みましたが、「詳しい 状況は まだ 分からない」と 書いて ありました。［2］、警察も まだ 調べて いる ところなのでしょう。夕方、部長から 「今日は 早く 帰るように」と いう ［3］が ありました。帰りに 近所の 人に 会うと、「駅の 近くは 今 通れない［4］。」と 言って いました。本当の ことが 早く 知りたいです。",
+        "blanks": [
+          { "options": ["あって", "あった", "あったら", "ある ように"], "answer": 1 },
+          { "options": ["ということは", "というのは", "とか", "という 噂は"], "answer": 0 },
+          { "options": ["インタビュー", "出版", "メッセージ", "記者"], "answer": 2 },
+          { "options": ["ことは", "とか", "というのは", "ように"], "answer": 1 }
+        ],
+        "explanation_ta": "［1］ とのことです-க்கு முன் சாதாரண வடிவம்: 事件があったとのことです (நடந்ததாம்). ［2］ 'நிலைமை இன்னும் தெரியவில்லை' என்பதிலிருந்து முடிவு: ということは (அப்படியென்றால்). ［3］ மேலாளரிடமிருந்து வந்த தகவல் = メッセージ; インタビュー (நேர்காணல்) பொருந்தாது. ［4］ அண்டை வீட்டார் தெளிவில்லாமல் கேட்டதைச் சொல்கிறார்: 通れないとか (போக முடியாதாமே).",
+        "explanation_en": "［1］ Before とのことです, use the plain form: 事件があったとのことです (there was an incident, they say). ［2］ A conclusion from “we don’t know the details yet”: ということは (so that means). ［3］ Something from the manager = メッセージ (message). インタビュー (interview) doesn’t fit. ［4］ The neighbour passes on vague news: 通れないとか (I hear you can’t get through)."
+      }
+    ]
+  }
+}

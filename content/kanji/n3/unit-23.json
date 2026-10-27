@@ -1,0 +1,394 @@
+{
+  "unit": 23,
+  "title": { "en": "Trouble, pain and daily life", "ta": "சிக்கல், வலி, அன்றாட வாழ்க்கை" },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for hard moments and daily actions: danger, trouble, pain, forget, mistake, search and close. Many are easy pairs: 亡 (gone) + 心 (heart) = 忘 (forget). Find the parts you know and the meaning comes by itself.",
+    "ta": "இந்தப் பாடத்தில் கடினமான தருணங்களுக்கும் அன்றாடச் செயல்களுக்குமான 14 கான்ஜிகளைக் கற்கிறீர்கள்: ஆபத்து, சிக்கல், வலி, மறத்தல், தவறு, தேடுதல், மூடுதல். பல எளிய ஜோடிகள்: 亡 (போய்விட்டது) + 心 (இதயம்) = 忘 (மறத்தல்). தெரிந்த பகுதிகளைக் கண்டுபிடித்தால் பொருள் தானாக வரும்."
+  },
+  "kanji": [
+    {
+      "kanji": "危",
+      "meaning": { "en": "dangerous", "ta": "ஆபத்தான" },
+      "on": ["き"],
+      "kun": ["あぶ.ない"],
+      "mnemonic": {
+        "en": "A person (⺈) stands on top of a cliff (厂). Under the cliff, another person (㔾) kneels and looks up. One more step and the first person falls on him. Dangerous!",
+        "ta": "ஒரு மனிதன் (⺈) பாறை விளிம்பின் (厂) உச்சியில் நிற்கிறான். பாறையின் கீழ் இன்னொருவன் (㔾) மண்டியிட்டு மேலே பார்க்கிறான். இன்னும் ஒரு அடி வைத்தால் மேலே உள்ளவன் அவன் மேல் விழுவான். ஆபத்து!"
+      },
+      "examples": [
+        { "word": "危ない", "reading": "あぶない", "en": "dangerous", "ta": "ஆபத்தான", "vocabId": "n5-v-034" },
+        { "word": "危険", "reading": "きけん", "en": "danger, risk", "ta": "அபாயம்", "vocabId": "n4-v-451" },
+        { "word": "危機", "reading": "きき", "en": "crisis", "ta": "நெருக்கடி" }
+      ]
+    },
+    {
+      "kanji": "亡",
+      "meaning": { "en": "die, be gone", "ta": "இறத்தல், மறைதல்" },
+      "on": ["ぼう"],
+      "kun": ["な.い"],
+      "mnemonic": {
+        "en": "On top is a lid (亠). Under it, a person goes around a corner (𠃊) and hides. You cannot see them any more. They are gone; they have died.",
+        "ta": "மேலே ஒரு மூடி (亠). அதன் கீழ் ஒருவர் சுவர் மூலையைச் (𠃊) சுற்றி மறைந்துவிடுகிறார். இனி அவரைப் பார்க்க முடியாது. அவர் போய்விட்டார்; இறந்துவிட்டார்."
+      },
+      "note": {
+        "en": "亡くなる (なくなる) is the polite way to say “to die”. 無くなる, with the same sound, means “to be lost, to run out”.",
+        "ta": "亡くなる (なくなる) = “இறத்தல்” என்பதன் மரியாதையான சொல். அதே ஒலி உள்ள 無くなる = “தொலைதல், தீர்ந்துபோதல்”."
+      },
+      "examples": [
+        { "word": "亡くなる", "reading": "なくなる", "en": "to pass away", "ta": "காலமாதல்", "vocabId": "n4-v-334" },
+        { "word": "死亡", "reading": "しぼう", "en": "death", "ta": "மரணம்", "vocabId": "n3-v-0075" },
+        { "word": "亡くす", "reading": "なくす", "en": "to lose (a loved one)", "ta": "(அன்புக்குரியவரை) இழத்தல்", "vocabId": "n3-v-1655" }
+      ]
+    },
+    {
+      "kanji": "背",
+      "meaning": { "en": "back, height", "ta": "முதுகு, உயரம்" },
+      "on": ["はい"],
+      "kun": ["せ", "せい"],
+      "mnemonic": {
+        "en": "On top is 北 (north): two people sitting back to back. Under them is 月, the body sign. The part of your body that the other person cannot see: your back.",
+        "ta": "மேலே 北 (வடக்கு): முதுகோடு முதுகு வைத்து உட்கார்ந்த இரண்டு பேர். அதன் கீழ் 月 — உடல் அடையாளம். மற்றவருக்குத் தெரியாத உடல் பகுதி: உங்கள் முதுகு."
+      },
+      "note": {
+        "en": "背が高い (せがたかい / せいがたかい) means “tall”. Both せ and せい are used.",
+        "ta": "背が高い (せがたかい / せいがたかい) = “உயரமான”. せ, せい இரண்டும் பயன்படும்."
+      },
+      "examples": [
+        { "word": "背中", "reading": "せなか", "en": "back (of the body)", "ta": "முதுகு", "vocabId": "n4-v-559" },
+        { "word": "背", "reading": "せい", "en": "height", "ta": "உயரம்", "vocabId": "n5-v-345" },
+        { "word": "背広", "reading": "せびろ", "en": "men’s suit", "ta": "ஆண்களின் கோட்-சூட்", "vocabId": "n5-v-349" },
+        { "word": "背景", "reading": "はいけい", "en": "background", "ta": "பின்னணி" }
+      ]
+    },
+    {
+      "kanji": "勤",
+      "meaning": { "en": "work (for)", "ta": "பணிபுரிதல்" },
+      "on": ["きん"],
+      "kun": ["つと.める"],
+      "mnemonic": {
+        "en": "On the left is heavy, wet clay (you met it in 難 and 漢). On the right is 力 (power). Every day you use all your power to carry heavy clay, like a brick-kiln worker. You work hard for someone.",
+        "ta": "இடப்பக்கம் கனமான ஈரக் களிமண் (難, 漢 இல் பார்த்தது). வலப்பக்கம் 力 (சக்தி). செங்கல் சூளைத் தொழிலாளி போல, தினமும் முழுச் சக்தியோடு கனமான களிமண்ணைச் சுமக்கிறீர்கள். ஒருவருக்காகக் கடினமாக உழைக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "つとめる has three kanji: 勤める = work for a company; 努める = try hard; 務める = play a role.",
+        "ta": "つとめる க்கு மூன்று கான்ஜிகள்: 勤める = நிறுவனத்தில் பணிபுரிதல்; 努める = கடுமையாக முயலுதல்; 務める = ஒரு பொறுப்பை வகித்தல்."
+      },
+      "examples": [
+        { "word": "勤める", "reading": "つとめる", "en": "to work (for a company)", "ta": "(நிறுவனத்தில்) பணிபுரிதல்", "vocabId": "n5-v-420" },
+        { "word": "通勤", "reading": "つうきん", "en": "going to work, commuting", "ta": "வேலைக்குச் செல்லும் பயணம்", "vocabId": "n3-v-1498" },
+        { "word": "出勤", "reading": "しゅっきん", "en": "going to the office", "ta": "பணிக்கு வருதல்" }
+      ]
+    },
+    {
+      "kanji": "困",
+      "meaning": { "en": "be in trouble", "ta": "சிக்கலில் இருத்தல்" },
+      "on": ["こん"],
+      "kun": ["こま.る"],
+      "mnemonic": {
+        "en": "A tree (木) is shut inside a box (囗). It wants to grow, but it cannot get out. The poor tree is in trouble!",
+        "ta": "ஒரு மரம் (木) பெட்டிக்குள் (囗) அடைக்கப்பட்டிருக்கிறது. வளர விரும்புகிறது, ஆனால் வெளியே வர முடியவில்லை. பாவம் அந்த மரம் — பெரிய சிக்கல்!"
+      },
+      "note": {
+        "en": "Don’t mix up 困 (木 inside, trouble), 因 (大 inside, cause) and 国 (玉 inside, country).",
+        "ta": "困 (உள்ளே 木, சிக்கல்), 因 (உள்ளே 大, காரணம்), 国 (உள்ளே 玉, நாடு) மூன்றையும் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        { "word": "困る", "reading": "こまる", "en": "to be in trouble, to have a hard time", "ta": "சிரமப்படுதல், தவித்தல்", "vocabId": "n5-v-267" },
+        { "word": "困難", "reading": "こんなん", "en": "difficulty, hardship", "ta": "சிரமம்", "vocabId": "n3-v-0953" },
+        { "word": "貧困", "reading": "ひんこん", "en": "poverty", "ta": "வறுமை" }
+      ]
+    },
+    {
+      "kanji": "刻",
+      "meaning": { "en": "carve; time", "ta": "செதுக்குதல்; நேரம்" },
+      "on": ["こく"],
+      "kun": ["きざ.む"],
+      "mnemonic": {
+        "en": "On the left is 亥, the old sign for a pig. On the right is a knife (刂). With the knife you carve the 12 animal marks around an old clock, one for each hour. To carve, and a point in time.",
+        "ta": "இடப்பக்கம் 亥 — பன்றியின் பழைய அடையாளம். வலப்பக்கம் கத்தி (刂). பழைய கடிகாரத்தைச் சுற்றி ஒவ்வொரு மணிக்கும் ஒரு விலங்கின் குறியைக் கத்தியால் செதுக்குகிறீர்கள். செதுக்குதல், குறித்த நேரம்."
+      },
+      "note": {
+        "en": "遅刻 (ちこく) = late (遅) for the marked time (刻). 時刻 (じこく) is “the time” on a timetable.",
+        "ta": "遅刻 (ちこく) = குறித்த நேரத்துக்கு (刻) தாமதம் (遅). 時刻 (じこく) = அட்டவணையில் உள்ள “நேரம்”."
+      },
+      "examples": [
+        { "word": "遅刻", "reading": "ちこく", "en": "being late", "ta": "தாமதமாக வருதல்", "vocabId": "n3-v-1463" },
+        { "word": "時刻", "reading": "じこく", "en": "time (on a clock or timetable)", "ta": "நேரம் (கடிகாரம், அட்டவணை)", "vocabId": "n3-v-0035" },
+        { "word": "深刻", "reading": "しんこく", "en": "serious", "ta": "கடுமையான, தீவிரமான", "vocabId": "n3-v-0190" },
+        { "word": "刻む", "reading": "きざむ", "en": "to chop fine; to carve", "ta": "பொடியாக நறுக்குதல்; செதுக்குதல்" }
+      ]
+    },
+    {
+      "kanji": "欲",
+      "meaning": { "en": "want, desire", "ta": "ஆசை, விருப்பம்" },
+      "on": ["よく"],
+      "kun": ["ほ.しい"],
+      "mnemonic": {
+        "en": "On the left is 谷 (valley), a big empty valley. On the right is 欠, a man with his mouth wide open. His mouth is open as wide as an empty valley. He wants something so much!",
+        "ta": "இடப்பக்கம் 谷 (பள்ளத்தாக்கு) — பெரிய வெற்றுப் பள்ளத்தாக்கு. வலப்பக்கம் 欠 — வாயை அகலத் திறந்த மனிதன். அவன் வாய் வெற்றுப் பள்ளத்தாக்கு அளவு திறந்திருக்கிறது. அவனுக்கு ஏதோ ஒன்று ரொம்ப வேண்டும்!"
+      },
+      "note": {
+        "en": "After a て-form, ほしい is usually written in kana: 来てほしい (I want you to come).",
+        "ta": "て-வடிவத்துக்குப் பிறகு ほしい பொதுவாகக் கானாவில் எழுதப்படும்: 来てほしい (நீங்கள் வர வேண்டும்)."
+      },
+      "examples": [
+        { "word": "欲しい", "reading": "ほしい", "en": "to want (a thing)", "ta": "(ஒரு பொருள்) வேண்டும்", "vocabId": "n5-v-605" },
+        { "word": "食欲", "reading": "しょくよく", "en": "appetite", "ta": "பசி, உணவு ஆர்வம்", "vocabId": "n3-v-0167" },
+        { "word": "意欲", "reading": "いよく", "en": "will, eagerness", "ta": "ஆர்வம், ஊக்கம்" }
+      ]
+    },
+    {
+      "kanji": "痛",
+      "meaning": { "en": "pain, hurt", "ta": "வலி" },
+      "on": ["つう"],
+      "kun": ["いた.い", "いた.む"],
+      "mnemonic": {
+        "en": "疒 is the sick-bed sign. Inside is the right side of 通 (pass through). You lie in bed and a pain passes through your whole body. It hurts! Hook: 通 is つう and 痛 is also つう.",
+        "ta": "疒 என்பது நோய்ப் படுக்கை அடையாளம். உள்ளே 通 (கடந்து செல்லுதல்) இன் வலப்பகுதி. படுக்கையில் படுத்திருக்கிறீர்கள்; வலி உடல் முழுக்கக் கடந்து செல்கிறது. வலிக்கிறது! நினைவுக் குறிப்பு: 通 = つう, 痛 வும் つう."
+      },
+      "note": {
+        "en": "頭痛 (headache) is ずつう, not とうつう.",
+        "ta": "頭痛 (தலைவலி) = ずつう; とうつう அல்ல."
+      },
+      "examples": [
+        { "word": "痛い", "reading": "いたい", "en": "painful, it hurts", "ta": "வலிக்கும்", "vocabId": "n5-v-056" },
+        { "word": "頭痛", "reading": "ずつう", "en": "headache", "ta": "தலைவலி", "vocabId": "n3-v-0235" },
+        { "word": "痛み", "reading": "いたみ", "en": "pain, ache", "ta": "வலி", "vocabId": "n3-v-0386" },
+        { "word": "苦痛", "reading": "くつう", "en": "pain, suffering", "ta": "வேதனை", "vocabId": "n3-v-0789" }
+      ]
+    },
+    {
+      "kanji": "探",
+      "meaning": { "en": "search, look for", "ta": "தேடுதல்" },
+      "on": [],
+      "kun": ["さが.す", "さぐ.る"],
+      "mnemonic": {
+        "en": "On the left is a hand (扌). On the right is the right side of 深 (deep). You push your hand deep into a dark hole and feel around for your lost key. To search, to look for.",
+        "ta": "இடப்பக்கம் கை (扌). வலப்பக்கம் 深 (ஆழம்) இன் வலப்பகுதி. இருட்டான ஓட்டைக்குள் கையை ஆழமாக நுழைத்து, தொலைந்த சாவியைத் தடவித் தேடுகிறீர்கள். தேடுதல்."
+      },
+      "note": {
+        "en": "Don’t mix up 探 (search, hand 扌) and 深 (deep, water 氵). They have the same right side.",
+        "ta": "探 (தேடுதல், கை 扌), 深 (ஆழம், நீர் 氵) இரண்டையும் குழப்பாதீர்கள். இரண்டுக்கும் வலப்பக்கம் ஒன்றே."
+      },
+      "examples": [
+        { "word": "探す", "reading": "さがす", "en": "to look for, to search", "ta": "தேடுதல்", "vocabId": "n4-v-275" },
+        { "word": "探し物", "reading": "さがしもの", "en": "something you are looking for", "ta": "தேடும் பொருள்" },
+        { "word": "探る", "reading": "さぐる", "en": "to feel around for; to look into", "ta": "தடவித் தேடுதல்; ஆராய்தல்" }
+      ]
+    },
+    {
+      "kanji": "閉",
+      "meaning": { "en": "close, shut", "ta": "மூடுதல்" },
+      "on": ["へい"],
+      "kun": ["し.める", "し.まる", "と.じる"],
+      "mnemonic": {
+        "en": "A gate (門) has a wooden bar (才) across the middle. The bar locks the gate. Closed!",
+        "ta": "ஒரு வாசல் கதவின் (門) நடுவில் குறுக்கே ஒரு மரத் தாழ்ப்பாள் (才). தாழ்ப்பாள் கதவைப் பூட்டுகிறது. மூடியாச்சு!"
+      },
+      "note": {
+        "en": "Opposite: 開 (open). In 開 two hands lift the bar away; in 閉 the bar is in place. 閉める = shut it (you do it); 閉まる = it shuts.",
+        "ta": "எதிர்ச்சொல்: 開 (திறத்தல்). 開 இல் இரண்டு கைகள் தாழ்ப்பாளைத் தூக்குகின்றன; 閉 இல் தாழ்ப்பாள் போட்டிருக்கிறது. 閉める = (நீங்கள்) மூடுதல்; 閉まる = (தானாக) மூடிக்கொள்ளுதல்."
+      },
+      "examples": [
+        { "word": "閉める", "reading": "しめる", "en": "to close, to shut", "ta": "மூடுதல்", "vocabId": "n5-v-308" },
+        { "word": "閉まる", "reading": "しまる", "en": "to be closed", "ta": "மூடிக்கொள்ளுதல்", "vocabId": "n5-v-307" },
+        { "word": "閉じる", "reading": "とじる", "en": "to close (a book, eyes)", "ta": "(புத்தகம், கண்) மூடுதல்", "vocabId": "n3-v-1614" },
+        { "word": "閉店", "reading": "へいてん", "en": "closing of a shop", "ta": "கடை மூடுதல்" }
+      ]
+    },
+    {
+      "kanji": "暮",
+      "meaning": { "en": "evening; live", "ta": "அந்தி; வாழ்தல்" },
+      "on": ["ぼ"],
+      "kun": ["く.れる", "く.らす"],
+      "mnemonic": {
+        "en": "At the top, the sun (日) sinks into the grass (艹 above, 大 below). At the bottom is one more sun (日). The sun goes down into the paddy field: evening. Sunrise, sunset, day after day: that is how you live.",
+        "ta": "மேலே சூரியன் (日) புல்லுக்குள் (மேலே 艹, கீழே 大) மூழ்குகிறது. அடியில் இன்னொரு சூரியன் (日). சூரியன் வயலுக்குள் இறங்குகிறது: அந்தி நேரம். உதயம், அஸ்தமனம், நாள் தோறும் — இப்படித்தான் வாழ்க்கை நடக்கிறது."
+      },
+      "note": {
+        "en": "暮れる = (the day) gets dark; 暮らす = to live, to spend your days.",
+        "ta": "暮れる = (பொழுது) இருட்டுதல்; 暮らす = வாழ்தல், நாட்களைக் கழித்தல்."
+      },
+      "examples": [
+        { "word": "暮らす", "reading": "くらす", "en": "to live", "ta": "வாழ்தல்", "vocabId": "n3-v-0801" },
+        { "word": "暮らし", "reading": "くらし", "en": "life, way of living", "ta": "வாழ்க்கை முறை", "vocabId": "n3-v-0799" },
+        { "word": "暮れる", "reading": "くれる", "en": "to get dark; to come to an end", "ta": "இருட்டுதல்; முடிவுக்கு வருதல்", "vocabId": "n4-v-359" },
+        { "word": "夕暮れ", "reading": "ゆうぐれ", "en": "evening, dusk", "ta": "அந்தி மாலை" }
+      ]
+    },
+    {
+      "kanji": "吸",
+      "meaning": { "en": "breathe in, suck", "ta": "உள்ளிழுத்தல், உறிஞ்சுதல்" },
+      "on": ["きゅう"],
+      "kun": ["す.う"],
+      "mnemonic": {
+        "en": "On the left is a mouth (口). On the right is 及: a hand that reaches out and pulls something back. The mouth pulls the air in, like sipping tender-coconut water through a straw. To breathe in, to suck.",
+        "ta": "இடப்பக்கம் வாய் (口). வலப்பக்கம் 及: நீண்டு எதையோ இழுக்கும் கை. இளநீரை ஸ்ட்ரா வழியாக உறிஞ்சுவது போல, வாய் காற்றை உள்ளே இழுக்கிறது. உள்ளிழுத்தல், உறிஞ்சுதல்."
+      },
+      "note": {
+        "en": "たばこを吸う means “to smoke”.",
+        "ta": "たばこを吸う = “புகைபிடித்தல்”."
+      },
+      "examples": [
+        { "word": "吸う", "reading": "すう", "en": "to breathe in; to smoke; to suck", "ta": "உள்ளிழுத்தல்; புகைத்தல்; உறிஞ்சுதல்", "vocabId": "n5-v-329" },
+        { "word": "呼吸", "reading": "こきゅう", "en": "breathing", "ta": "சுவாசம்", "vocabId": "n3-v-0914" },
+        { "word": "吸収", "reading": "きゅうしゅう", "en": "absorption", "ta": "உறிஞ்சுதல்", "vocabId": "n3-v-0739" }
+      ]
+    },
+    {
+      "kanji": "忘",
+      "meaning": { "en": "forget", "ta": "மறத்தல்" },
+      "on": ["ぼう"],
+      "kun": ["わす.れる"],
+      "mnemonic": {
+        "en": "On top is 亡 (gone). Under it is 心 (heart). The thing has gone out of your heart. You forget it.",
+        "ta": "மேலே 亡 (போய்விட்டது). அதன் கீழ் 心 (இதயம்). அந்த விஷயம் உங்கள் மனதிலிருந்து போய்விட்டது. மறந்துவிட்டீர்கள்."
+      },
+      "note": {
+        "en": "Don’t mix up 忘 (forget: 亡 on top of 心) and 忙 (busy: 忄 next to 亡). Too busy, so you forget!",
+        "ta": "忘 (மறத்தல்: 心 இன் மேல் 亡), 忙 (வேலைப்பளு: 亡 அருகில் 忄) இரண்டையும் குழப்பாதீர்கள். ரொம்ப பிஸி, அதனால் மறந்துவிடுகிறோம்!"
+      },
+      "examples": [
+        { "word": "忘れる", "reading": "わすれる", "en": "to forget; to leave behind", "ta": "மறத்தல்; விட்டுவிடுதல்", "vocabId": "n5-v-713" },
+        { "word": "忘れ物", "reading": "わすれもの", "en": "something left behind", "ta": "மறந்து விட்ட பொருள்", "vocabId": "n4-v-477" },
+        { "word": "忘年会", "reading": "ぼうねんかい", "en": "year-end party", "ta": "ஆண்டு இறுதி விருந்து" }
+      ]
+    },
+    {
+      "kanji": "誤",
+      "meaning": { "en": "mistake", "ta": "தவறு" },
+      "on": ["ご"],
+      "kun": ["あやま.る"],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is 呉: a mouth (口) on top of a person who bends over sideways. The words come out bent and twisted. A mistake.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் 呉: பக்கவாட்டில் வளைந்த ஒரு மனிதனின் மேல் வாய் (口). சொற்கள் வளைந்து கோணலாக வருகின்றன. அதுதான் தவறு."
+      },
+      "note": {
+        "en": "あやまる has two kanji: 誤る = make a mistake; 謝る = say sorry.",
+        "ta": "あやまる க்கு இரண்டு கான்ஜிகள்: 誤る = தவறு செய்தல்; 謝る = மன்னிப்புக் கேட்டல்."
+      },
+      "examples": [
+        { "word": "誤解", "reading": "ごかい", "en": "misunderstanding", "ta": "தவறான புரிதல்", "vocabId": "n3-v-0912" },
+        { "word": "誤り", "reading": "あやまり", "en": "error, mistake", "ta": "பிழை", "vocabId": "n3-v-0336" },
+        { "word": "誤る", "reading": "あやまる", "en": "to make a mistake", "ta": "தவறு செய்தல்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU23-q01", "type": "kanji_reading",
+        "sentence": "この 道は 車が 多くて ＿危ない＿です。", "target": "危ない",
+        "options": ["あぶない", "あむない", "きない", "あやない"], "answer": 0,
+        "explanation_en": "危ない is あぶない (ஆபத்தான, dangerous). き is the on reading, as in 危険.",
+        "explanation_ta": "危ない = あぶない (ஆபத்தான, dangerous). き என்பது on வாசிப்பு — 危険 போல."
+      },
+      {
+        "id": "KU23-q02", "type": "kanji_reading",
+        "sentence": "去年、祖父が ＿亡くなりました＿。", "target": "亡くなりました",
+        "options": ["ぼうくなりました", "なくなりました", "なきなりました", "もうくなりました"], "answer": 1,
+        "explanation_en": "亡くなる is なくなる (காலமாதல், to pass away). ぼう is the on reading, as in 死亡.",
+        "explanation_ta": "亡くなる = なくなる (காலமாதல், to pass away). ぼう என்பது on வாசிப்பு — 死亡 போல."
+      },
+      {
+        "id": "KU23-q03", "type": "kanji_reading",
+        "sentence": "＿背中＿が かゆいです。", "target": "背中",
+        "options": ["せちゅう", "はいなか", "せなか", "せいなか"], "answer": 2,
+        "explanation_en": "背中 is せなか (முதுகு, back): kun せ + kun なか. Don’t mix on and kun: せちゅう is wrong.",
+        "explanation_ta": "背中 = せなか (முதுகு, back): kun せ + kun なか. on, kun கலக்காதீர்கள்: せちゅう தவறு."
+      },
+      {
+        "id": "KU23-q04", "type": "kanji_reading",
+        "sentence": "父は 銀行に ＿勤めて＿ います。", "target": "勤めて",
+        "options": ["つどめて", "きんめて", "はじめて", "つとめて"], "answer": 3,
+        "explanation_en": "勤める is つとめる (பணிபுரிதல், to work for), with unvoiced と. きん is the on reading, as in 通勤.",
+        "explanation_ta": "勤める = つとめる (பணிபுரிதல், to work for) — と, ど அல்ல. きん என்பது on வாசிப்பு — 通勤 போல."
+      },
+      {
+        "id": "KU23-q05", "type": "kanji_reading",
+        "sentence": "お金が なくて ＿困って＿ います。", "target": "困って",
+        "options": ["こまって", "こんって", "くまって", "かまって"], "answer": 0,
+        "explanation_en": "困る is こまる (சிரமப்படுதல், to be in trouble), so 困って is こまって. こん is the on reading, as in 困難.",
+        "explanation_ta": "困る = こまる (சிரமப்படுதல், to be in trouble); ஆகவே 困って = こまって. こん என்பது on வாசிப்பு — 困難 போல."
+      },
+      {
+        "id": "KU23-q06", "type": "kanji_reading",
+        "sentence": "それは とても ＿深刻＿な 問題です。", "target": "深刻",
+        "options": ["しんこう", "しんこく", "じんこく", "ふかこく"], "answer": 1,
+        "explanation_en": "深刻 is しんこく (தீவிரமான, serious): on しん + on こく, short こく. しんこう is a different word, and ふか is the kun reading of 深.",
+        "explanation_ta": "深刻 = しんこく (தீவிரமான, serious): on しん + on こく (நீட்டல் இல்லை). しんこう வேறு சொல்; ふか என்பது 深 இன் kun வாசிப்பு."
+      },
+      {
+        "id": "KU23-q07", "type": "kanji_reading",
+        "sentence": "きのうから 頭が ＿痛い＿です。", "target": "痛い",
+        "options": ["つうい", "いだい", "いたい", "かたい"], "answer": 2,
+        "explanation_en": "痛い is いたい (வலிக்கும், painful), with unvoiced た. つう is the on reading, as in 頭痛.",
+        "explanation_ta": "痛い = いたい (வலிக்கும், painful) — た, だ அல்ல. つう என்பது on வாசிப்பு — 頭痛 போல."
+      },
+      {
+        "id": "KU23-q08", "type": "kanji_reading",
+        "sentence": "なくした かぎを ＿探して＿ います。", "target": "探して",
+        "options": ["たんして", "さかして", "さわして", "さがして"], "answer": 3,
+        "explanation_en": "探す is さがす (தேடுதல், to look for), with voiced が.",
+        "explanation_ta": "探す = さがす (தேடுதல், to look for) — が (ஒலிமாற்றம்), か அல்ல."
+      },
+      {
+        "id": "KU23-q09", "type": "kanji_reading",
+        "sentence": "寒いので まどを ＿閉めて＿ ください。", "target": "閉めて",
+        "options": ["しめて", "とじめて", "へいめて", "あけて"], "answer": 0,
+        "explanation_en": "閉める is しめる (மூடுதல், to shut). あける is 開ける, the opposite (open).",
+        "explanation_ta": "閉める = しめる (மூடுதல், to shut). あける என்பது 開ける — எதிர்ச்சொல் (திறத்தல்)."
+      },
+      {
+        "id": "KU23-q10", "type": "kanji_reading",
+        "sentence": "ここで たばこを ＿吸わないで＿ ください。", "target": "吸わないで",
+        "options": ["すうわないで", "すわないで", "きゅうわないで", "すいわないで"], "answer": 1,
+        "explanation_en": "吸う is すう (புகைத்தல், to smoke / breathe in). Its ない-form is すわない.",
+        "explanation_ta": "吸う = すう (புகைத்தல், to smoke / breathe in). அதன் ない-வடிவம் すわない."
+      },
+      {
+        "id": "KU23-q11", "type": "orthography",
+        "sentence": "かさを 電車に ＿わすれて＿ しまいました。", "target": "わすれて",
+        "options": ["忙れて", "応れて", "忘れて", "忍れて"], "answer": 2,
+        "explanation_en": "わすれる is 忘れる (மறத்தல், to forget): 亡 (gone) on top of 心 (heart). 忙 is “busy”, with 忄 on the side.",
+        "explanation_ta": "わすれる = 忘れる (மறத்தல், to forget): 心 (இதயம்) இன் மேல் 亡 (போய்விட்டது). 忙 = “பிஸி”, பக்கத்தில் 忄."
+      },
+      {
+        "id": "KU23-q12", "type": "orthography",
+        "sentence": "それは ＿ごかい＿です。わたしは そう 言って いません。", "target": "ごかい",
+        "options": ["誤会", "語解", "呉解", "誤解"], "answer": 3,
+        "explanation_en": "ごかい is 誤解 (தவறான புரிதல், misunderstanding): mistake + understand. 語 is also ご, but means “language”.",
+        "explanation_ta": "ごかい = 誤解 (தவறான புரிதல், misunderstanding): தவறு + புரிதல். 語 வும் ご தான், ஆனால் பொருள் “மொழி”."
+      },
+      {
+        "id": "KU23-q13", "type": "orthography",
+        "sentence": "いなかで しずかに ＿くらしたい＿です。", "target": "くらしたい",
+        "options": ["墓らしたい", "幕らしたい", "暮らしたい", "募らしたい"], "answer": 2,
+        "explanation_en": "くらす is 暮らす (வாழ்தல், to live), with the sun 日 at the bottom. 墓 (grave) has 土, 幕 has 巾 and 募 has 力.",
+        "explanation_ta": "くらす = 暮らす (வாழ்தல், to live) — அடியில் சூரியன் 日. 墓 (கல்லறை) அடியில் 土, 幕 அடியில் 巾, 募 அடியில் 力."
+      },
+      {
+        "id": "KU23-q14", "type": "orthography",
+        "sentence": "新しい くつが ＿ほしい＿です。", "target": "ほしい",
+        "options": ["浴しい", "谷しい", "次しい", "欲しい"], "answer": 3,
+        "explanation_en": "ほしい is 欲しい (வேண்டும், want): 谷 + the open mouth 欠. 浴 has water 氵 instead of 欠.",
+        "explanation_ta": "ほしい = 欲しい (வேண்டும், want): 谷 + திறந்த வாய் 欠. 浴 இல் 欠 பதிலாக நீர் 氵."
+      },
+      {
+        "id": "KU23-q15", "type": "orthography",
+        "sentence": "電車が 出る ＿じこく＿を 調べます。", "target": "じこく",
+        "options": ["時刻", "時核", "寺刻", "時効"], "answer": 0,
+        "explanation_en": "じこく is 時刻 (நேரம், time): 時 (time) + 刻 (carve, a point in time). 寺 has no sun 日.",
+        "explanation_ta": "じこく = 時刻 (நேரம், time): 時 (நேரம்) + 刻 (குறித்த நேரம்). 寺 இல் சூரியன் 日 இல்லை."
+      },
+      {
+        "id": "KU23-q16", "type": "orthography",
+        "sentence": "この 問題を 一人で 解決するのは ＿こんなん＿です。", "target": "こんなん",
+        "options": ["因難", "困難", "困漢", "国難"], "answer": 1,
+        "explanation_en": "こんなん is 困難 (சிரமம், difficulty): a tree stuck in a box + a bird stuck in clay. 因 has 大 inside; 漢 has no bird.",
+        "explanation_ta": "こんなん = 困難 (சிரமம், difficulty): பெட்டிக்குள் மாட்டிய மரம் + களிமண்ணில் மாட்டிய பறவை. 因 உள்ளே 大; 漢 இல் பறவை இல்லை."
+      }
+    ]
+  }
+}

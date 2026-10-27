@@ -1,0 +1,956 @@
+[
+  {
+    "id": "n3-v-0096",
+    "expression": "ジュース",
+    "reading": "ジュース",
+    "romaji": "juusu",
+    "en": "juice; soft drink",
+    "ta": "ஜூஸ்; பழச்சாறு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暑いから、冷たい ジュースでも 飲もうか。",
+        "reading": "あついから、つめたい ジュースでも のもうか。",
+        "romaji": "atsui kara, tsumetai juusu demo nomou ka.",
+        "ta": "வெயிலாக இருக்கிறது, குளிர்ந்த ஜூஸ் ஏதாவது குடிக்கலாமா?",
+        "en": "It's hot. Shall we have a cold juice or something?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0221",
+    "expression": "スキー",
+    "reading": "スキー",
+    "romaji": "sukii",
+    "en": "skiing",
+    "ta": "பனிச்சறுக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冬休みに 北海道へ スキーに 行きました。",
+        "reading": "ふゆやすみに ほっかいどうへ スキーに いきました。",
+        "romaji": "fuyuyasumi ni hokkaidou e sukii ni ikimashita.",
+        "ta": "குளிர்கால விடுமுறையில் ஹொக்கைடோவுக்குப் பனிச்சறுக்கச் சென்றேன்.",
+        "en": "I went skiing in Hokkaido in the winter holidays."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0225",
+    "expression": "スケート",
+    "reading": "スケート",
+    "romaji": "sukeeto",
+    "en": "skating",
+    "ta": "ஸ்கேட்டிங்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冬に なると、友だちと スケートを しに 行きます。",
+        "reading": "ふゆに なると、ともだちと スケートを しに いきます。",
+        "romaji": "fuyu ni naru to, tomodachi to sukeeto o shi ni ikimasu.",
+        "ta": "குளிர்காலம் வந்தால் நண்பர்களுடன் ஸ்கேட்டிங் செய்யப் போவேன்.",
+        "en": "When winter comes, I go skating with friends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0300",
+    "expression": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "en": "ice cream",
+    "ta": "ஐஸ்கிரீம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "マリーナビーチで みんなで アイスクリームを 食べました。",
+        "reading": "マリーナビーチで みんなで アイスクリームを たべました。",
+        "romaji": "mariina biichi de minna de aisukuriimu o tabemashita.",
+        "ta": "மெரினா கடற்கரையில் எல்லோரும் சேர்ந்து ஐஸ்கிரீம் சாப்பிட்டோம்.",
+        "en": "We all ate ice cream at Marina Beach."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0351",
+    "expression": "アルバム",
+    "reading": "アルバム",
+    "romaji": "arubamu",
+    "en": "album",
+    "ta": "ஆல்பம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行の 写真を アルバムに 入れました。",
+        "reading": "りょこうの しゃしんを アルバムに いれました。",
+        "romaji": "ryokou no shashin o arubamu ni iremashita.",
+        "ta": "சுற்றுலாப் புகைப்படங்களை ஆல்பத்தில் வைத்தேன்.",
+        "en": "I put the photos from the trip in an album."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0435",
+    "expression": "ウイスキー",
+    "reading": "ウイスキー",
+    "romaji": "uisukii",
+    "en": "whisky",
+    "ta": "விஸ்கி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は 週末に 少しだけ ウイスキーを 飲みます。",
+        "reading": "ちちは しゅうまつに すこしだけ ウイスキーを のみます。",
+        "romaji": "chichi wa shuumatsu ni sukoshi dake uisukii o nomimasu.",
+        "ta": "அப்பா வார இறுதியில் கொஞ்சம் மட்டும் விஸ்கி குடிப்பார்.",
+        "en": "My father drinks just a little whisky at weekends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0475",
+    "expression": "餌",
+    "reading": "えさ",
+    "romaji": "esa",
+    "en": "animal food; bait",
+    "ta": "தீனி; இரை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎朝 金魚に 餌を やるのは 私の 仕事です。",
+        "reading": "まいあさ きんぎょに えさを やるのは わたしの しごとです。",
+        "romaji": "maiasa kingyo ni esa o yaru no wa watashi no shigoto desu.",
+        "ta": "தினமும் காலையில் தங்கமீனுக்குத் தீனி போடுவது என் வேலை.",
+        "en": "Feeding the goldfish every morning is my job."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0548",
+    "expression": "カード",
+    "reading": "カード",
+    "romaji": "kaado",
+    "en": "card",
+    "ta": "அட்டை; கார்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "友だちの 誕生日に カードを 送りました。",
+        "reading": "ともだちの たんじょうびに カードを おくりました。",
+        "romaji": "tomodachi no tanjoubi ni kaado o okurimashita.",
+        "ta": "நண்பரின் பிறந்தநாளுக்கு வாழ்த்து அட்டை அனுப்பினேன்.",
+        "en": "I sent a card for my friend's birthday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0560",
+    "expression": "外出",
+    "reading": "がいしゅつ",
+    "romaji": "gaishutsu",
+    "en": "going out",
+    "ta": "வெளியே செல்லுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "雨の 日は 外出しないで、家で 映画を 見ます。",
+        "reading": "あめの ひは がいしゅつしないで、いえで えいがを みます。",
+        "romaji": "ame no hi wa gaishutsu shinaide, ie de eiga o mimasu.",
+        "ta": "மழை நாளில் வெளியே போகாமல் வீட்டில் படம் பார்ப்பேன்.",
+        "en": "On rainy days I don't go out. I watch films at home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0606",
+    "expression": "菓子",
+    "reading": "かし",
+    "romaji": "kashi",
+    "en": "sweets; snacks",
+    "ta": "தின்பண்டம்; இனிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ピクニックに お菓子と 飲み物を 持って 行こう。",
+        "reading": "ピクニックに おかしと のみものを もって いこう。",
+        "romaji": "pikunikku ni okashi to nomimono o motte ikou.",
+        "ta": "பிக்னிக்கிற்குத் தின்பண்டங்களும் பானங்களும் எடுத்துச் செல்வோம்.",
+        "en": "Let's take snacks and drinks to the picnic."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0732",
+    "expression": "キャンプ",
+    "reading": "キャンプ",
+    "romaji": "kyanpu",
+    "en": "camping",
+    "ta": "முகாம் (கேம்ப்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏休みに 友だちと 山で キャンプを しました。",
+        "reading": "なつやすみに ともだちと やまで キャンプを しました。",
+        "romaji": "natsuyasumi ni tomodachi to yama de kyanpu o shimashita.",
+        "ta": "கோடை விடுமுறையில் நண்பர்களுடன் மலையில் முகாமிட்டோம்.",
+        "en": "In the summer holidays I went camping in the mountains with friends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0796",
+    "expression": "酌む",
+    "reading": "くむ",
+    "romaji": "kumu",
+    "en": "to drink (sake) together",
+    "ta": "(மது) ஊற்றி அருந்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "久しぶりに 友人と 酒を 酌みながら 話しました。",
+        "reading": "ひさしぶりに ゆうじんと さけを くみながら はなしました。",
+        "romaji": "hisashiburi ni yuujin to sake o kuminagara hanashimashita.",
+        "ta": "நீண்ட நாளுக்குப் பிறகு நண்பருடன் மது அருந்திக்கொண்டே பேசினேன்.",
+        "en": "For the first time in ages, I talked with a friend over sake."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0836",
+    "expression": "ゲーム",
+    "reading": "ゲーム",
+    "romaji": "geemu",
+    "en": "game",
+    "ta": "விளையாட்டு; கேம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弟は 毎晩 ゲームばかり して います。",
+        "reading": "おとうとは まいばん ゲームばかり して います。",
+        "romaji": "otouto wa maiban geemu bakari shite imasu.",
+        "ta": "தம்பி தினமும் இரவு கேம் மட்டுமே விளையாடுகிறான்.",
+        "en": "My little brother plays nothing but games every night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0873",
+    "expression": "碁",
+    "reading": "ご",
+    "romaji": "go",
+    "en": "Go (board game)",
+    "ta": "'கோ' (பலகை விளையாட்டு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖父は 近所の 人と 碁を 打つのが 好きです。",
+        "reading": "そふは きんじょの ひとと ごを うつのが すきです。",
+        "romaji": "sofu wa kinjo no hito to go o utsu no ga suki desu.",
+        "ta": "தாத்தாவுக்கு அக்கம்பக்கத்தாருடன் 'கோ' விளையாடப் பிடிக்கும்.",
+        "en": "My grandfather likes playing Go with the neighbours."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0980",
+    "expression": "酒",
+    "reading": "さけ",
+    "romaji": "sake",
+    "en": "alcohol; sake",
+    "ta": "மது; சாகே",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私は お酒が あまり 飲めません。",
+        "reading": "わたしは おさけが あまり のめません。",
+        "romaji": "watashi wa osake ga amari nomemasen.",
+        "ta": "என்னால் அதிகம் மது குடிக்க முடியாது.",
+        "en": "I can't drink much alcohol."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0988",
+    "expression": "注す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "en": "to pour (a drink)",
+    "ta": "(பானம்) ஊற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "飲み会で 先輩の グラスに ビールを 注しました。",
+        "reading": "のみかいで せんぱいの グラスに ビールを さしました。",
+        "romaji": "nomikai de senpai no gurasu ni biiru o sashimashita.",
+        "ta": "விருந்தில் மூத்தவரின் கிளாஸில் பீர் ஊற்றினேன்.",
+        "en": "At the drinking party, I poured beer into my senior's glass."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0991",
+    "expression": "誘う",
+    "reading": "さそう",
+    "romaji": "sasou",
+    "en": "to invite",
+    "ta": "அழைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "週末、クラスの 友だちを 映画に 誘いました。",
+        "reading": "しゅうまつ、クラスの ともだちを えいがに さそいました。",
+        "romaji": "shuumatsu, kurasu no tomodachi o eiga ni sasoimashita.",
+        "ta": "வார இறுதியில் வகுப்பு நண்பரைப் படம் பார்க்க அழைத்தேன்.",
+        "en": "I invited a classmate to a film at the weekend."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1123",
+    "expression": "酔う",
+    "reading": "よう",
+    "romaji": "you",
+    "en": "to get drunk; to feel sick (in a vehicle)",
+    "ta": "போதை ஏற; (பயணத்தில்) குமட்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "父は ビール 一杯で すぐ 酔って しまいます。",
+        "reading": "ちちは ビール いっぱいで すぐ よって しまいます。",
+        "romaji": "chichi wa biiru ippai de sugu yotte shimaimasu.",
+        "ta": "அப்பாவுக்கு ஒரு கிளாஸ் பீரிலேயே போதை ஏறிவிடும்.",
+        "en": "My father gets drunk on just one glass of beer."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1142",
+    "expression": "ヨット",
+    "reading": "ヨット",
+    "romaji": "yotto",
+    "en": "yacht; sailing boat",
+    "ta": "பாய்மரப் படகு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "いつか 海で ヨットに 乗るのが 夢です。",
+        "reading": "いつか うみで ヨットに のるのが ゆめです。",
+        "romaji": "itsuka umi de yotto ni noru no ga yume desu.",
+        "ta": "ஒருநாள் கடலில் பாய்மரப் படகில் பயணம் செய்வது என் கனவு.",
+        "en": "My dream is to sail a yacht on the sea one day."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1190",
+    "expression": "ワイン",
+    "reading": "ワイン",
+    "romaji": "wain",
+    "en": "wine",
+    "ta": "ஒயின்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "誕生日に 赤ワインを 一本 もらいました。",
+        "reading": "たんじょうびに あかワインを いっぽん もらいました。",
+        "romaji": "tanjoubi ni aka wain o ippon moraimashita.",
+        "ta": "பிறந்தநாளுக்கு ஒரு பாட்டில் சிவப்பு ஒயின் கிடைத்தது.",
+        "en": "I got a bottle of red wine for my birthday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1235",
+    "expression": "欠く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "en": "to lack",
+    "ta": "இல்லாமல் இருக்க; குறைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "水は 生活に 欠く ことが できない ものです。",
+        "reading": "みずは せいかつに かく ことが できない ものです。",
+        "romaji": "mizu wa seikatsu ni kaku koto ga dekinai mono desu.",
+        "ta": "தண்ணீர் வாழ்க்கைக்கு இன்றியமையாதது.",
+        "en": "Water is something we can't live without."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1246",
+    "expression": "狩り",
+    "reading": "かり",
+    "romaji": "kari",
+    "en": "hunting; (fruit) picking",
+    "ta": "வேட்டை; (பழம்) பறித்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日曜日に 家族で いちご狩りに 行きます。",
+        "reading": "にちようびに かぞくで いちごがりに いきます。",
+        "romaji": "nichiyoubi ni kazoku de ichigogari ni ikimasu.",
+        "ta": "ஞாயிற்றுக்கிழமை குடும்பத்துடன் ஸ்ட்ராபெர்ரி பறிக்கப் போகிறோம்.",
+        "en": "On Sunday our family is going strawberry picking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1344",
+    "expression": "それとも",
+    "reading": "それとも",
+    "romaji": "soretomo",
+    "en": "or (in questions)",
+    "ta": "அல்லது",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "コーヒーに する？ それとも、紅茶に する？",
+        "reading": "コーヒーに する？ それとも、こうちゃに する？",
+        "romaji": "koohii ni suru? soretomo, koucha ni suru?",
+        "ta": "காபி வேண்டுமா? அல்லது தேநீர் வேண்டுமா?",
+        "en": "Will you have coffee? Or tea?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1415",
+    "expression": "だって",
+    "reading": "だって",
+    "romaji": "datte",
+    "en": "but; because (casual)",
+    "ta": "ஏனென்றால்; ஆனால்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "「なんで 行かないの？」「だって、雨が 降ってるんだもん。」",
+        "reading": "「なんで いかないの？」「だって、あめが ふってるんだもん。」",
+        "romaji": "\"nande ikanai no?\" \"datte, ame ga futteru n da mon.\"",
+        "ta": "\"ஏன் போகவில்லை?\" \"மழை பெய்கிறதே, அதான்!\"",
+        "en": "\"Why aren't you going?\" \"Because it's raining!\""
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1492",
+    "expression": "散らす",
+    "reading": "ちらす",
+    "romaji": "chirasu",
+    "en": "to scatter",
+    "ta": "சிதறடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "強い 風が 庭の 葉を 散らしました。",
+        "reading": "つよい かぜが にわの はを ちらしました。",
+        "romaji": "tsuyoi kaze ga niwa no ha o chirashimashita.",
+        "ta": "பலத்த காற்று தோட்டத்து இலைகளைச் சிதறடித்தது.",
+        "en": "A strong wind scattered the leaves in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1529",
+    "expression": "積む",
+    "reading": "つむ",
+    "romaji": "tsumu",
+    "en": "to load; to pile up",
+    "ta": "ஏற்ற; அடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "キャンプの 荷物を 車に 積みました。",
+        "reading": "キャンプの にもつを くるまに つみました。",
+        "romaji": "kyanpu no nimotsu o kuruma ni tsumimashita.",
+        "ta": "முகாம் சாமான்களைக் காரில் ஏற்றினோம்.",
+        "en": "We loaded the camping gear into the car."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1534",
+    "expression": "釣",
+    "reading": "つり",
+    "romaji": "tsuri",
+    "en": "fishing",
+    "ta": "மீன் பிடித்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末、父と 川へ 釣りに 行きました。",
+        "reading": "しゅうまつ、ちちと かわへ つりに いきました。",
+        "romaji": "shuumatsu, chichi to kawa e tsuri ni ikimashita.",
+        "ta": "வார இறுதியில் அப்பாவுடன் ஆற்றுக்கு மீன் பிடிக்கச் சென்றேன்.",
+        "en": "At the weekend I went fishing in the river with my father."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1547",
+    "expression": "デート",
+    "reading": "デート",
+    "romaji": "deeto",
+    "en": "a date (romantic)",
+    "ta": "காதல் சந்திப்பு (டேட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日は 彼女と 水族館で デートです。",
+        "reading": "あしたは かのじょと すいぞくかんで デートです。",
+        "romaji": "ashita wa kanojo to suizokukan de deeto desu.",
+        "ta": "நாளை காதலியுடன் மீன் காட்சியகத்தில் டேட்.",
+        "en": "Tomorrow I have a date with my girlfriend at the aquarium."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1568",
+    "expression": "テント",
+    "reading": "テント",
+    "romaji": "tento",
+    "en": "tent",
+    "ta": "கூடாரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暗く なる 前に テントを 立てましょう。",
+        "reading": "くらく なる まえに テントを たてましょう。",
+        "romaji": "kuraku naru mae ni tento o tatemashou.",
+        "ta": "இருட்டுவதற்கு முன் கூடாரம் அமைப்போம்.",
+        "en": "Let's put up the tent before it gets dark."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1590",
+    "expression": "通す",
+    "reading": "とおす",
+    "romaji": "toosu",
+    "en": "to let through",
+    "ta": "(வழி) விட; நுழைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "すみません、ちょっと 通して ください。",
+        "reading": "すみません、ちょっと とおして ください。",
+        "romaji": "sumimasen, chotto tooshite kudasai.",
+        "ta": "மன்னிக்கவும், கொஞ்சம் வழி விடுங்கள்.",
+        "en": "Excuse me, could you let me through?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1595",
+    "expression": "退く",
+    "reading": "どく",
+    "romaji": "doku",
+    "en": "to get out of the way",
+    "ta": "(வழியிலிருந்து) விலக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "危ないから、早く そこを どいて！",
+        "reading": "あぶないから、はやく そこを どいて！",
+        "romaji": "abunai kara, hayaku soko o doite!",
+        "ta": "ஆபத்து, சீக்கிரம் அங்கிருந்து விலகு!",
+        "en": "It's dangerous, get out of the way, quick!"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1605",
+    "expression": "解ける",
+    "reading": "とける",
+    "romaji": "tokeru",
+    "en": "to come undone; to be solved",
+    "ta": "அவிழ; (கணக்கு) தீர",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "歩いて いたら、靴の ひもが 解けました。",
+        "reading": "あるいて いたら、くつの ひもが とけました。",
+        "romaji": "aruite itara, kutsu no himo ga tokemashita.",
+        "ta": "நடந்துகொண்டிருக்கும்போது ஷூ லேஸ் அவிழ்ந்தது.",
+        "en": "My shoelace came undone while I was walking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1621",
+    "expression": "飛ばす",
+    "reading": "とばす",
+    "romaji": "tobasu",
+    "en": "to fly (something); to skip",
+    "ta": "பறக்கவிட; தவிர்த்துவிட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "公園で 子どもと 紙飛行機を 飛ばしました。",
+        "reading": "こうえんで こどもと かみひこうきを とばしました。",
+        "romaji": "kouen de kodomo to kamihikouki o tobashimashita.",
+        "ta": "பூங்காவில் குழந்தையுடன் காகித விமானம் பறக்கவிட்டேன்.",
+        "en": "I flew paper planes with my child in the park."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1628",
+    "expression": "ドライブ",
+    "reading": "ドライブ",
+    "romaji": "doraibu",
+    "en": "a drive (for fun)",
+    "ta": "காரில் உலா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週末、海まで ドライブに 行かない？",
+        "reading": "しゅうまつ、うみまで ドライブに いかない？",
+        "romaji": "shuumatsu, umi made doraibu ni ikanai?",
+        "ta": "வார இறுதியில் கடற்கரை வரை காரில் உலா போகலாமா?",
+        "en": "Do you want to go for a drive to the sea this weekend?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1631",
+    "expression": "トランプ",
+    "reading": "トランプ",
+    "romaji": "toranpu",
+    "en": "playing cards",
+    "ta": "சீட்டுக்கட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "雨の 日は 家族で トランプを して 遊びます。",
+        "reading": "あめの ひは かぞくで トランプを して あそびます。",
+        "romaji": "ame no hi wa kazoku de toranpu o shite asobimasu.",
+        "ta": "மழை நாளில் குடும்பமாகச் சீட்டு விளையாடுவோம்.",
+        "en": "On rainy days our family plays cards."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1632",
+    "expression": "取り上げる",
+    "reading": "とりあげる",
+    "romaji": "toriageru",
+    "en": "to take away; to pick up",
+    "ta": "பறிக்க; எடுத்துக்கொள்ள",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "授業中に ゲームを して いたら、先生に 取り上げられた。",
+        "reading": "じゅぎょうちゅうに ゲームを して いたら、せんせいに とりあげられた。",
+        "romaji": "jugyouchuu ni geemu o shite itara, sensei ni toriagerareta.",
+        "ta": "வகுப்பில் கேம் விளையாடிக்கொண்டிருந்தபோது ஆசிரியர் அதைப் பறித்துக்கொண்டார்.",
+        "en": "I was playing a game in class, and the teacher took it away."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1636",
+    "expression": "取れる",
+    "reading": "とれる",
+    "romaji": "toreru",
+    "en": "to come off",
+    "ta": "கழன்று விழ",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "シャツの ボタンが 取れて しまいました。",
+        "reading": "シャツの ボタンが とれて しまいました。",
+        "romaji": "shatsu no botan ga torete shimaimashita.",
+        "ta": "சட்டையின் பொத்தான் கழன்றுவிட்டது.",
+        "en": "A button came off my shirt."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1654",
+    "expression": "流れる",
+    "reading": "ながれる",
+    "romaji": "nagareru",
+    "en": "to flow",
+    "ta": "ஓட; பாய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "村の 真ん中を きれいな 川が 流れて います。",
+        "reading": "むらの まんなかを きれいな かわが ながれて います。",
+        "romaji": "mura no mannaka o kirei na kawa ga nagarete imasu.",
+        "ta": "கிராமத்தின் நடுவே ஒரு தெளிவான ஆறு ஓடுகிறது.",
+        "en": "A clean river flows through the middle of the village."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1692",
+    "expression": "抜く",
+    "reading": "ぬく",
+    "romaji": "nuku",
+    "en": "to pull out; to skip (a meal)",
+    "ta": "பிடுங்க; (உணவைத்) தவிர்க்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "忙しくて、朝ご飯を 抜く ことが 多いです。",
+        "reading": "いそがしくて、あさごはんを ぬく ことが おおいです。",
+        "romaji": "isogashikute, asagohan o nuku koto ga ooi desu.",
+        "ta": "வேலை அதிகம் என்பதால் அடிக்கடி காலை உணவைத் தவிர்த்துவிடுகிறேன்.",
+        "en": "I'm busy, so I often skip breakfast."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1721",
+    "expression": "除く",
+    "reading": "のぞく",
+    "romaji": "nozoku",
+    "en": "to remove; to exclude",
+    "ta": "நீக்க; தவிர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "日曜日を 除いて、毎日 店を 開けて います。",
+        "reading": "にちようびを のぞいて、まいにち みせを あけて います。",
+        "romaji": "nichiyoubi o nozoite, mainichi mise o akete imasu.",
+        "ta": "ஞாயிறு தவிர, தினமும் கடையைத் திறந்து வைக்கிறோம்.",
+        "en": "We open the shop every day except Sunday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1729",
+    "expression": "延びる",
+    "reading": "のびる",
+    "romaji": "nobiru",
+    "en": "to be extended; to be put off",
+    "ta": "நீள; தள்ளிப்போக",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "雨で 運動会が 来週に 延びました。",
+        "reading": "あめで うんどうかいが らいしゅうに のびました。",
+        "romaji": "ame de undoukai ga raishuu ni nobimashita.",
+        "ta": "மழையால் விளையாட்டு விழா அடுத்த வாரத்துக்குத் தள்ளிப்போனது.",
+        "en": "Because of the rain, sports day was put off until next week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1731",
+    "expression": "上る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "en": "to go up; to climb",
+    "ta": "ஏற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "自転車で 長い 坂を 上りました。",
+        "reading": "じてんしゃで ながい さかを のぼりました。",
+        "romaji": "jitensha de nagai saka o noborimashita.",
+        "ta": "சைக்கிளில் நீண்ட மேட்டில் ஏறினேன்.",
+        "en": "I rode my bike up a long hill."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1734",
+    "expression": "のんびり",
+    "reading": "のんびり",
+    "romaji": "nonbiri",
+    "en": "relaxed; at leisure",
+    "ta": "நிதானமாக; ஓய்வாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "休みの 日は 家で のんびり 過ごしたい。",
+        "reading": "やすみの ひは いえで のんびり すごしたい。",
+        "romaji": "yasumi no hi wa ie de nonbiri sugoshitai.",
+        "ta": "விடுமுறை நாளில் வீட்டில் ஓய்வாகக் கழிக்க ஆசை.",
+        "en": "On my day off I want to relax at home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1741",
+    "expression": "ハイキング",
+    "reading": "ハイキング",
+    "romaji": "haikingu",
+    "en": "hiking",
+    "ta": "மலை நடை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "秋は ハイキングに ちょうど いい 季節です。",
+        "reading": "あきは ハイキングに ちょうど いい きせつです。",
+        "romaji": "aki wa haikingu ni choudo ii kisetsu desu.",
+        "ta": "இலையுதிர் காலம் மலை நடைக்கு ஏற்ற பருவம்.",
+        "en": "Autumn is just the right season for hiking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1765",
+    "expression": "外す",
+    "reading": "はずす",
+    "romaji": "hazusu",
+    "en": "to take off; to remove",
+    "ta": "கழற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "眼鏡を 外すと、何も 見えません。",
+        "reading": "めがねを はずすと、なにも みえません。",
+        "romaji": "megane o hazusu to, nanimo miemasen.",
+        "ta": "கண்ணாடியைக் கழற்றினால் எதுவுமே தெரியாது.",
+        "en": "When I take off my glasses, I can't see anything."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1794",
+    "expression": "省く",
+    "reading": "はぶく",
+    "romaji": "habuku",
+    "en": "to leave out; to save (effort)",
+    "ta": "விட்டுவிட; குறைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "時間が ないので、細かい 説明は 省きます。",
+        "reading": "じかんが ないので、こまかい せつめいは はぶきます。",
+        "romaji": "jikan ga nai node, komakai setsumei wa habukimasu.",
+        "ta": "நேரம் இல்லாததால் விரிவான விளக்கத்தை விட்டுவிடுகிறேன்.",
+        "en": "There's no time, so I'll leave out the details."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1810",
+    "expression": "ビール",
+    "reading": "ビール",
+    "romaji": "biiru",
+    "en": "beer",
+    "ta": "பீர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "仕事の 後の 冷たい ビールは 最高だ。",
+        "reading": "しごとの あとの つめたい ビールは さいこうだ。",
+        "romaji": "shigoto no ato no tsumetai biiru wa saikou da.",
+        "ta": "வேலை முடிந்த பின் குளிர்ந்த பீர் அருமையானது.",
+        "en": "A cold beer after work is the best."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1813",
+    "expression": "ピクニック",
+    "reading": "ピクニック",
+    "romaji": "pikunikku",
+    "en": "picnic",
+    "ta": "பிக்னிக் (சிற்றுலா)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "天気が いいから、公園で ピクニックを しよう。",
+        "reading": "てんきが いいから、こうえんで ピクニックを しよう。",
+        "romaji": "tenki ga ii kara, kouen de pikunikku o shiyou.",
+        "ta": "வானிலை நன்றாக இருக்கிறது, பூங்காவில் பிக்னிக் போகலாம்.",
+        "en": "The weather's nice, so let's have a picnic in the park."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1906",
+    "expression": "触れる",
+    "reading": "ふれる",
+    "romaji": "fureru",
+    "en": "to touch; to mention",
+    "ta": "தொட; குறிப்பிட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "美術館では 絵に 触れないで ください。",
+        "reading": "びじゅつかんでは えに ふれないで ください。",
+        "romaji": "bijutsukan de wa e ni furenaide kudasai.",
+        "ta": "கலைக்கூடத்தில் ஓவியங்களைத் தொடாதீர்கள்.",
+        "en": "Please don't touch the paintings in the museum."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1940",
+    "expression": "ボート",
+    "reading": "ボート",
+    "romaji": "booto",
+    "en": "rowing boat",
+    "ta": "படகு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "公園の 池で 友だちと ボートに 乗りました。",
+        "reading": "こうえんの いけで ともだちと ボートに のりました。",
+        "romaji": "kouen no ike de tomodachi to booto ni norimashita.",
+        "ta": "பூங்காக் குளத்தில் நண்பருடன் படகுச் சவாரி செய்தேன்.",
+        "en": "I went out in a rowing boat with a friend on the park pond."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2035",
+    "expression": "擦る",
+    "reading": "",
+    "romaji": "",
+    "en": "to rub; to strike (a match)",
+    "ta": "உரச; தேய்க்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "キャンプで マッチを 擦って 火を つけました。",
+        "reading": "キャンプで マッチを すって ひを つけました。",
+        "romaji": "kyanpu de macchi o sutte hi o tsukemashita.",
+        "ta": "முகாமில் தீக்குச்சியை உரசித் தீ மூட்டினோம்.",
+        "en": "At the camp, we struck a match and lit a fire."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2062",
+    "expression": "断つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "en": "to cut off; to give up",
+    "ta": "துண்டிக்க; (பழக்கத்தை) விட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "健康の ために、お酒を 断つ ことに しました。",
+        "reading": "けんこうの ために、おさけを たつ ことに しました。",
+        "romaji": "kenkou no tame ni, osake o tatsu koto ni shimashita.",
+        "ta": "உடல்நலத்துக்காக மதுவை முழுமையாக விட்டுவிட முடிவு செய்தேன்.",
+        "en": "For my health, I decided to give up alcohol."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2077",
+    "expression": "デザート",
+    "reading": "デザート",
+    "romaji": "dezaato",
+    "en": "dessert",
+    "ta": "இனிப்பு (உணவுக்குப் பின்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "食事の 後に デザートは いかがですか。",
+        "reading": "しょくじの あとに デザートは いかがですか。",
+        "romaji": "shokuji no ato ni dezaato wa ikaga desu ka.",
+        "ta": "உணவுக்குப் பிறகு இனிப்பு ஏதாவது வேண்டுமா?",
+        "en": "Would you like dessert after your meal?"
+      }
+    ]
+  }
+]

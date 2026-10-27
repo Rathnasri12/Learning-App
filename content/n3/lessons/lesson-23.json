@@ -1,0 +1,292 @@
+{
+ "lesson": 23,
+ "title": { "ja": "会いたくてたまらない", "ta": "உன்னைப் பார்க்க ஏங்குகிறேன்", "en": "I'm dying to see you" },
+ "intro_en": "This lesson is about strong feelings. You learn ways to say \"so … I can’t stand it\": 〜てたまらない, 〜てしょうがない / 〜てしかたがない, and the more written 〜てならない. You learn to say \"I can’t help doing …\" (〜ずにはいられない). You also learn the exclamation \"How … it was!\" (どんなに〜ことか). With these you can talk about longing, worry, joy and relief, and words like 感動, 不安 and ほっとする.",
+ "intro_ta": "இந்தப் பாடம் ஆழ்ந்த உணர்வுகளைப் பற்றியது. 'தாங்க முடியாத அளவுக்கு ~' என்று சொல்லும் 〜てたまらない, 〜てしょうがない / 〜てしかたがない, எழுத்து நடைக்குரிய 〜てならない ஆகியவற்றைக் கற்போம். 'செய்யாமல் இருக்க முடியவில்லை' (〜ずにはいられない) என்றும், 'எவ்வளவு ~ தெரியுமா!' (どんなに〜ことか) என்ற வியப்பு வடிவத்தையும் கற்போம். இவற்றைக் கொண்டு ஏக்கம், கவலை, மகிழ்ச்சி, நிம்மதி போன்ற உணர்வுகளை 感動, 不安, ほっとする போன்ற சொற்களுடன் வெளிப்படுத்தலாம்.",
+ "grammar": [
+  {
+   "id": "g23-1",
+   "pattern": "〜て たまらない",
+   "name": { "en": "Unbearably ~ / dying to ~", "ta": "தாங்க முடியாத அளவுக்கு ~" },
+   "explanation_en": "たまらない means \"I can’t bear it\". After the て-form of a feeling word, it means \"so … I can’t stand it\". Use it with feelings and body sensations: 暑くて, 痛くて, うれしくて, 心配で. With たい it means \"dying to\": 会いたくてたまらない. It is for your own feelings. For other people, add らしい or ようだ. Polite form: 〜てたまりません. It is a little stronger than とても.",
+   "explanation_ta": "たまらない என்றால் 'தாங்க முடியவில்லை'. உணர்வு அல்லது உடல் உணர்ச்சியைக் காட்டும் சொல்லின் て-வடிவத்துடன் சேர்ந்தால் 'தாங்க முடியாத அளவுக்கு ~' என்று பொருள்: 暑くて, 痛くて, うれしくて, 心配で. たい-உடன் சேர்ந்தால் 'ஏங்குகிறேன்': 会いたくてたまらない (பார்க்கத் தவிக்கிறேன்). இது பேசுபவரின் சொந்த உணர்வுக்கே; மற்றவர்களைப் பற்றிச் சொல்லும்போது らしい அல்லது ようだ சேர்க்க வேண்டும். மரியாதை வடிவம் 〜てたまりません. とても-வை விட வலுவானது.",
+   "tamil_parallel": "வெயில் தாங்க முடியவில்லை = 暑くてたまらない; உன்னைப் பார்க்கத் தவிக்கிறேன் = 会いたくてたまらない",
+   "tamil_parallel_en": "வெயில் தாங்க முடியவில்லை (it’s unbearably hot) = 暑くてたまらない; உன்னைப் பார்க்கத் தவிக்கிறேன் (I’m dying to see you) = 会いたくてたまらない",
+   "formation": "い-பெயரடை: 〜くて + たまらない (暑い → 暑くてたまらない)\nな-பெயரடை: 〜で + たまらない (心配 → 心配でたまらない)\nவினை-たい: 〜たくて + たまらない (会いたい → 会いたくてたまらない)",
+   "formation_en": "い-adjective: 〜くて + たまらない (暑い → 暑くてたまらない)\nな-adjective: 〜で + たまらない (心配 → 心配でたまらない)\nverb-たい: 〜たくて + たまらない (会いたい → 会いたくてたまらない)",
+   "examples": [
+    { "ja": "国の家族に会いたくてたまらない。", "reading": "くにの かぞくに あいたくて たまらない。", "romaji": "kuni no kazoku ni aitakute tamaranai.", "ta": "ஊரிலுள்ள குடும்பத்தைப் பார்க்கத் தவிக்கிறேன்.", "en": "I’m dying to see my family back home." },
+    { "ja": "今日は暑くてたまりません。", "reading": "きょうは あつくて たまりません。", "romaji": "kyou wa atsukute tamarimasen.", "ta": "இன்று வெயில் தாங்க முடியவில்லை.", "en": "It’s unbearably hot today." },
+    { "ja": "試験の結果が心配でたまらない。", "reading": "しけんの けっかが しんぱいで たまらない。", "romaji": "shiken no kekka ga shinpai de tamaranai.", "ta": "தேர்வு முடிவை நினைத்துக் கவலை தாங்க முடியவில்லை.", "en": "I’m terribly worried about my exam results." },
+    { "ja": "歯が痛くてたまらないので、歯医者に行きます。", "reading": "はが いたくて たまらないので、はいしゃに いきます。", "romaji": "ha ga itakute tamaranai node, haisha ni ikimasu.", "ta": "பல் வலி தாங்க முடியாததால் பல் டாக்டரிடம் போகிறேன்.", "en": "My tooth hurts terribly, so I’m going to the dentist." },
+    { "ja": "合格の知らせを聞いて、うれしくてたまらなかった。", "reading": "ごうかくの しらせを きいて、うれしくて たまらなかった。", "romaji": "goukaku no shirase o kiite, ureshikute tamaranakatta.", "ta": "தேர்ச்சி பெற்ற செய்தி கேட்டு அளவில்லாத மகிழ்ச்சி அடைந்தேன்.", "en": "When I heard I’d passed, I was overjoyed." },
+    { "ja": "一人暮らしは、寂しくてたまらないですか。", "reading": "ひとりぐらしは、さびしくて たまらないですか。", "romaji": "hitorigurashi wa, sabishikute tamaranai desu ka.", "ta": "தனியாக வாழ்வது தாங்க முடியாத அளவுக்குத் தனிமையாக இருக்கிறதா?", "en": "Is living alone unbearably lonely?" }
+   ],
+   "pitfalls_en": "Don’t use it for someone else’s feelings directly. 母は寂しくてたまらない sounds odd; say 母は寂しくてたまらないようだ. Also it doesn’t go with plain facts: 部屋が広くてたまらない is wrong.",
+   "pitfalls_ta": "மற்றவர்களின் உணர்வை நேரடியாக இப்படிச் சொல்வது இயல்பற்றது: 母は寂しくてたまらない என்பதற்குப் பதில் 母は寂しくてたまらないようだ என்று சொல்ல வேண்டும். உணர்வு இல்லாத சாதாரண உண்மைகளுடன் வராது: 部屋が広くてたまらない தவறு."
+  },
+  {
+   "id": "g23-2",
+   "pattern": "〜て しょうがない / 〜て しかたがない",
+   "name": { "en": "Extremely ~ / can’t help feeling ~", "ta": "~ என்பதை அடக்க முடியவில்லை" },
+   "explanation_en": "These mean almost the same as てたまらない: \"extremely\", \"I can’t help feeling …\". しょうがない is casual speech. しかたがない is a bit more careful. Polite: 〜てしかたがありません. They are made the same way: 眠くて, 退屈で, 会いたくて. They also go with verbs that happen by themselves, like 気になる (to bother you) and 笑える (to make you laugh): 気になってしょうがない. てたまらない is more about strong, almost physical feeling.",
+   "explanation_ta": "இவை てたまらない-க்கு மிக நெருக்கமான பொருள்: 'மிகவும் ~', 'அந்த உணர்வை அடக்க முடியவில்லை'. しょうがない பேச்சு வழக்கு; しかたがない சற்று முறையானது. மரியாதை வடிவம் 〜てしかたがありません. உருவாக்கும் முறை ஒன்றே: 眠くて, 退屈で, 会いたくて. தானாக நிகழும் வினைகளுடனும் வரும்: 気になる (மனதை உறுத்துவது), 笑える (சிரிப்பு வருவது) — 気になってしょうがない. てたまらない கிட்டத்தட்ட உடல் அளவில் உணரும் வலுவான உணர்வுக்கு அதிகம் வரும்.",
+   "tamil_parallel": "தூக்கம் தாங்க முடியவில்லை = 眠くてしかたがない; அவளைப் பற்றியே நினைவு = 彼女のことが気になってしょうがない",
+   "tamil_parallel_en": "தூக்கம் தாங்க முடியவில்லை (I’m terribly sleepy) = 眠くてしかたがない; அவளைப் பற்றியே நினைவு (I can’t stop thinking about her) = 彼女のことが気になってしょうがない",
+   "formation": "い-பெயரடை: 〜くて + しょうがない / しかたがない\nな-பெயரடை: 〜で + しょうがない / しかたがない\nவினை (て-வடிவம்): 気になって / 笑えて + しょうがない\nமரியாதை: 〜てしかたがありません",
+   "formation_en": "い-adjective: 〜くて + しょうがない / しかたがない\nな-adjective: 〜で + しょうがない / しかたがない\nverb (て-form): 気になって / 笑えて + しょうがない\npolite: 〜てしかたがありません",
+   "examples": [
+    { "ja": "彼女のことが気になってしょうがない。", "reading": "かのじょの ことが きに なって しょうがない。", "romaji": "kanojo no koto ga ki ni natte shouganai.", "ta": "அவளைப் பற்றியே நினைத்துக்கொண்டிருக்கிறேன்.", "en": "I can’t stop thinking about her." },
+    { "ja": "昨日あまり寝ていないので、眠くてしかたがありません。", "reading": "きのう あまり ねて いないので、ねむくて しかたが ありません。", "romaji": "kinou amari nete inai node, nemukute shikata ga arimasen.", "ta": "நேற்று சரியாகத் தூங்காததால் தூக்கம் தாங்க முடியவில்லை.", "en": "I barely slept last night, so I’m terribly sleepy." },
+    { "ja": "毎日同じ仕事で、退屈でしょうがない。", "reading": "まいにち おなじ しごとで、たいくつで しょうがない。", "romaji": "mainichi onaji shigoto de, taikutsu de shouganai.", "ta": "தினமும் ஒரே வேலை; சலிப்பு தாங்க முடியவில்லை.", "en": "It’s the same work every day, and I’m bored to death." },
+    { "ja": "試合に負けて、悔しくてしかたがなかった。", "reading": "しあいに まけて、くやしくて しかたが なかった。", "romaji": "shiai ni makete, kuyashikute shikata ga nakatta.", "ta": "போட்டியில் தோற்றதில் ஆதங்கம் தாங்க முடியவில்லை.", "en": "We lost the match, and I was so frustrated." },
+    { "ja": "うちの子猫がかわいくてしょうがないんです。", "reading": "うちの こねこが かわいくて しょうがないんです。", "romaji": "uchi no koneko ga kawaikute shouganai n desu.", "ta": "எங்கள் வீட்டுப் பூனைக்குட்டி அவ்வளவு அழகு!", "en": "Our kitten is just too cute." },
+    { "ja": "彼の話がおかしくて、笑えてしかたがなかった。", "reading": "かれの はなしが おかしくて、わらえて しかたが なかった。", "romaji": "kare no hanashi ga okashikute, waraete shikata ga nakatta.", "ta": "அவன் கதை வேடிக்கையாக இருந்ததால் சிரிப்பை அடக்க முடியவில்லை.", "en": "His story was so funny that I couldn’t stop laughing." },
+    { "ja": "日本の生活は、楽しくてしかたがないでしょう？", "reading": "にほんの せいかつは、たのしくて しかたが ないでしょう？", "romaji": "nihon no seikatsu wa, tanoshikute shikata ga nai deshou?", "ta": "ஜப்பான் வாழ்க்கை ரொம்ப சந்தோஷமாக இருக்கும், இல்லையா?", "en": "You must be loving life in Japan, right?" }
+   ],
+   "pitfalls_en": "Alone, しょうがない means \"it can’t be helped\" (N4 meaning). Only after the て-form does it mean \"extremely\". 雨だから、しょうがない = \"It’s raining, so oh well.\"",
+   "pitfalls_ta": "தனியாக வரும் しょうがない என்பதற்கு 'வேறு வழியில்லை' என்று பொருள். て-வடிவத்துக்குப் பின் வந்தால் மட்டுமே 'மிகவும்' என்று பொருள். 雨だから、しょうがない = 'மழை பெய்கிறது, என்ன செய்வது.'"
+  },
+  {
+   "id": "g23-3",
+   "pattern": "〜て ならない",
+   "name": { "en": "Can’t help feeling ~ (written)", "ta": "~ என்ற உணர்வு தானாக எழுகிறது" },
+   "explanation_en": "てならない means a feeling comes up by itself, and you can’t stop it. It is more formal and written than てたまらない. You see it in essays, letters and speeches. It goes best with feeling words and \"thinking\" verbs: 心配で, 悲しくて, 気がして, 思えて, 思い出されて. Polite: 〜てなりません. It is not used much for body feelings like 暑い or 痛い.",
+   "explanation_ta": "てならない என்றால் ஒரு உணர்வு தானாகவே மனதில் எழுகிறது, அதைத் தடுக்க முடியவில்லை என்று பொருள். てたまらない-வை விட முறையானது, எழுத்து நடைக்குரியது; கட்டுரை, கடிதம், உரைகளில் வரும். உணர்வுச் சொற்களுடனும் 'நினைப்பு' வினைகளுடனும் பொருத்தமாக வரும்: 心配で, 悲しくて, 気がして, 思えて, 思い出されて. மரியாதை வடிவம் 〜てなりません. 暑い, 痛い போன்ற உடல் உணர்வுகளுக்கு அதிகம் பயன்படுவதில்லை.",
+   "tamil_parallel": "அவன் எதையோ மறைக்கிறான் என்ற எண்ணம் என்னை விடவில்லை = 彼が何か隠しているような気がしてならない",
+   "tamil_parallel_en": "அவன் எதையோ மறைக்கிறான் என்ற எண்ணம் என்னை விடவில்லை (I can’t shake the feeling he’s hiding something) = 彼が何か隠しているような気がしてならない",
+   "formation": "い-பெயரடை: 〜くて + ならない (悲しくてならない)\nな-பெயரடை: 〜で + ならない (心配でならない)\nவினை (て-வடிவம்): 気がして / 思えて / 思い出されて + ならない\nமரியாதை: 〜てなりません",
+   "formation_en": "い-adjective: 〜くて + ならない (悲しくてならない)\nな-adjective: 〜で + ならない (心配でならない)\nverb (て-form): 気がして / 思えて / 思い出されて + ならない\npolite: 〜てなりません",
+   "examples": [
+    { "ja": "彼が何か隠しているような気がしてならない。", "reading": "かれが なにか かくして いる ような きが して ならない。", "romaji": "kare ga nanika kakushite iru you na ki ga shite naranai.", "ta": "அவன் எதையோ மறைக்கிறான் என்ற எண்ணம் என்னை விடவில்லை.", "en": "I can’t shake the feeling that he is hiding something." },
+    { "ja": "祖父にもう会えないと思うと、悲しくてなりません。", "reading": "そふに もう あえないと おもうと、かなしくて なりません。", "romaji": "sofu ni mou aenai to omou to, kanashikute narimasen.", "ta": "தாத்தாவை இனி பார்க்க முடியாது என்று நினைத்தால் துக்கம் பொங்குகிறது.", "en": "When I think I can’t see my grandfather again, I’m overcome with sadness." },
+    { "ja": "一人で旅行している娘のことが、心配でならない。", "reading": "ひとりで りょこう して いる むすめの ことが、しんぱいで ならない。", "romaji": "hitori de ryokou shite iru musume no koto ga, shinpai de naranai.", "ta": "தனியாகப் பயணம் செய்யும் மகளைப் பற்றிய கவலை என்னை விடவில்லை.", "en": "I can’t help worrying about my daughter traveling alone." },
+    { "ja": "この写真を見ると、昔のことが思い出されてならない。", "reading": "この しゃしんを みると、むかしの ことが おもいだされて ならない。", "romaji": "kono shashin o miru to, mukashi no koto ga omoidasarete naranai.", "ta": "இந்தப் புகைப்படத்தைப் பார்க்கும்போது பழைய நினைவுகள் தானாகவே வருகின்றன.", "en": "Whenever I look at this photo, old memories come flooding back." },
+    { "ja": "試合に負けたのは、自分のせいだと思えてならない。", "reading": "しあいに まけたのは、じぶんの せいだと おもえて ならない。", "romaji": "shiai ni maketa no wa, jibun no sei da to omoete naranai.", "ta": "போட்டியில் தோற்றது என்னால்தான் என்று தோன்றிக்கொண்டே இருக்கிறது.", "en": "I can’t help feeling that we lost because of me." },
+    { "ja": "彼の成功が、うらやましくてなりません。", "reading": "かれの せいこうが、うらやましくて なりません。", "romaji": "kare no seikou ga, urayamashikute narimasen.", "ta": "அவனுடைய வெற்றியைப் பார்த்துப் பொறாமையை அடக்க முடியவில்லை.", "en": "I can’t help envying his success." }
+   ],
+   "pitfalls_en": "Don’t mix it up with なければならない (must). 心配でならない = \"I can’t help worrying\", not \"I must worry\". Also, てならない is not for things you do on purpose: 食べてならない is wrong.",
+   "pitfalls_ta": "なければならない (செய்ய வேண்டும்) உடன் குழப்பக் கூடாது. 心配でならない = 'கவலையை அடக்க முடியவில்லை'; 'கவலைப்பட வேண்டும்' அல்ல. வேண்டுமென்றே செய்யும் செயல்களுக்கு வராது: 食べてならない தவறு."
+  },
+  {
+   "id": "g23-4",
+   "pattern": "V-ず に いられない / V-ない では いられない",
+   "name": { "en": "Can’t help doing ~", "ta": "~ செய்யாமல் இருக்க முடியவில்லை" },
+   "explanation_en": "This means \"I can’t stop myself from doing it\". It is about an action, not a feeling. Use the ず-form (N4: V-ずに): 泣く → 泣かず, 食べる → 食べず, する → せず, 来る → 来ず (こず). Then add にいられない. People often add は: 泣かずにはいられない. The other form is ないではいられない: 泣かないではいられない. The ず form sounds a bit more written. Compare: 悲しくてたまらない is a feeling. 泣かずにはいられない is what you end up doing.",
+   "explanation_ta": "இதன் பொருள் 'அந்தச் செயலைச் செய்யாமல் என்னைக் கட்டுப்படுத்த முடியவில்லை'. இது உணர்வைப் பற்றியதல்ல, செயலைப் பற்றியது. N4-இல் கற்ற ず-வடிவம்: 泣く → 泣かず, 食べる → 食べず, する → せず, 来る → 来ず (こず). அதன்பின் にいられない சேர்க்க வேண்டும்; பெரும்பாலும் は சேர்த்து 泣かずにはいられない என்று சொல்வார்கள். மற்றொரு வடிவம் ないではいられない: 泣かないではいられない. ず-வடிவம் சற்று எழுத்து நடை. ஒப்பிடுங்கள்: 悲しくてたまらない = உணர்வு; 泣かずにはいられない = அதனால் செய்துவிடும் செயல்.",
+   "tamil_parallel": "அழாமல் இருக்க முடியவில்லை = 泣かずにはいられなかった; உதவாமல் இருக்க முடியாது = 助けないではいられない",
+   "tamil_parallel_en": "அழாமல் இருக்க முடியவில்லை (I couldn’t help crying) = 泣かずにはいられなかった; உதவாமல் இருக்க முடியாது (I can’t help helping) = 助けないではいられない",
+   "formation": "வினை ない-வடிவம் (ない நீக்கி) + ず + (に / には) いられない (泣かない → 泣かずにはいられない)\nする → せずにはいられない; 来る → 来ず (こず) にはいられない\nவினை ない-வடிவம் + ではいられない (泣かないではいられない)",
+   "formation_en": "verb ない-form (drop ない) + ず + (に / には) いられない (泣かない → 泣かずにはいられない)\nする → せずにはいられない; 来る → 来ず (こず) にはいられない\nverb ない-form + ではいられない (泣かないではいられない)",
+   "examples": [
+    { "ja": "その映画は悲しくて、泣かずにはいられなかった。", "reading": "その えいがは かなしくて、なかずには いられなかった。", "romaji": "sono eiga wa kanashikute, nakazu ni wa irarenakatta.", "ta": "அந்தப் படம் சோகமாக இருந்ததால் அழாமல் இருக்க முடியவில்லை.", "en": "That movie was so sad that I couldn’t help crying." },
+    { "ja": "困っている人を見ると、助けないではいられない。", "reading": "こまって いる ひとを みると、たすけないでは いられない。", "romaji": "komatte iru hito o miru to, tasukenai de wa irarenai.", "ta": "கஷ்டப்படுபவர்களைப் பார்த்தால் உதவாமல் இருக்க முடியாது.", "en": "When I see someone in trouble, I can’t help helping." },
+    { "ja": "甘い物が目の前にあると、食べずにいられません。", "reading": "あまい ものが めの まえに あると、たべずに いられません。", "romaji": "amai mono ga me no mae ni aru to, tabezu ni iraremasen.", "ta": "இனிப்பு கண் முன்னால் இருந்தால் சாப்பிடாமல் இருக்க முடியாது.", "en": "When there are sweets in front of me, I can’t resist eating them." },
+    { "ja": "あまりにひどい話なので、一言言わずにはいられなかった。", "reading": "あまりに ひどい はなしなので、ひとこと いわずには いられなかった。", "romaji": "amari ni hidoi hanashi na node, hitokoto iwazu ni wa irarenakatta.", "ta": "மிகவும் மோசமான விஷயம் என்பதால் ஒரு வார்த்தை சொல்லாமல் இருக்க முடியவில்லை.", "en": "It was so outrageous that I had to say something." },
+    { "ja": "心配で、毎晩母に電話せずにはいられない。", "reading": "しんぱいで、まいばん ははに でんわ せずには いられない。", "romaji": "shinpai de, maiban haha ni denwa sezu ni wa irarenai.", "ta": "கவலையால் தினமும் இரவு அம்மாவுக்கு ஃபோன் செய்யாமல் இருக்க முடியவில்லை.", "en": "I’m so worried that I can’t help calling my mother every night." },
+    { "ja": "そんなにかわいい犬を見たら、触らないではいられないでしょう？", "reading": "そんなに かわいい いぬを みたら、さわらないでは いられないでしょう？", "romaji": "sonna ni kawaii inu o mitara, sawaranai de wa irarenai deshou?", "ta": "அவ்வளவு அழகான நாயைப் பார்த்தால் தொடாமல் இருக்க முடியாதல்லவா?", "en": "If you saw such a cute dog, you’d have to pet it, right?" }
+   ],
+   "pitfalls_en": "する becomes せず, not しず. Also don’t use the ない-form with ずに: 食べないずに is wrong. Say 食べずに or 食べないで.",
+   "pitfalls_ta": "する → せず; しず என்று சொல்லக் கூடாது. ない-வடிவத்தையும் ずに-ஐயும் சேர்க்கக் கூடாது: 食べないずに தவறு; 食べずに அல்லது 食べないで சரி."
+  },
+  {
+   "id": "g23-5",
+   "pattern": "〜ことか",
+   "name": { "en": "How (very) ~! (exclamation)", "ta": "எவ்வளவு ~ தெரியுமா!" },
+   "explanation_en": "〜ことか is not a question. It is a strong cry of feeling: \"How …!\" Use it with a question word like どんなに (how much), どれほど / どれだけ (how much) or 何度 (how many times). Put the plain form before ことか. With な-words, use な: どんなに大変なことか. It is a little formal and emotional. You see it in letters, speeches and stories. Your voice goes down at the end, not up.",
+   "explanation_ta": "〜ことか என்பது கேள்வி அல்ல; 'எவ்வளவு ~!' என்ற வலுவான உணர்ச்சி வெளிப்பாடு. どんなに (எவ்வளவு), どれほど / どれだけ (எவ்வளவு), 何度 (எத்தனை முறை) போன்ற கேள்விச் சொற்களுடன் வரும். ことか-க்கு முன் சாதாரண வடிவம்; な-பெயரடைக்கு な: どんなに大変なことか. சற்று முறையான, உணர்ச்சி மிகுந்த வடிவம்; கடிதங்கள், உரைகள், கதைகளில் வரும். வாக்கியத்தின் முடிவில் குரல் இறங்கும், கேள்வி போல் உயராது.",
+   "tamil_parallel": "எவ்வளவு மகிழ்ந்தேன் தெரியுமா! = どんなにうれしかったことか; எத்தனை முறை நினைத்தேன்! = 何度思ったことか",
+   "tamil_parallel_en": "எவ்வளவு மகிழ்ந்தேன் தெரியுமா! (how happy I was!) = どんなにうれしかったことか; எத்தனை முறை நினைத்தேன்! (how many times I thought it!) = 何度思ったことか",
+   "formation": "どんなに / どれほど / どれだけ / 何度 + வினை / い-பெயரடை (சாதாரண வடிவம்) + ことか\nな-பெயரடை + な + ことか (どんなに大変なことか)",
+   "formation_en": "どんなに / どれほど / どれだけ / 何度 + verb / い-adjective (plain form) + ことか\nな-adjective + な + ことか (どんなに大変なことか)",
+   "examples": [
+    { "ja": "合格の知らせを聞いて、どんなにうれしかったことか。", "reading": "ごうかくの しらせを きいて、どんなに うれしかった ことか。", "romaji": "goukaku no shirase o kiite, donna ni ureshikatta koto ka.", "ta": "தேர்ச்சி பெற்ற செய்தி கேட்டு எவ்வளவு மகிழ்ந்தேன் தெரியுமா!", "en": "How happy I was to hear I had passed!" },
+    { "ja": "留学中、何度国に帰りたいと思ったことか。", "reading": "りゅうがくちゅう、なんど くにに かえりたいと おもった ことか。", "romaji": "ryuugakuchuu, nando kuni ni kaeritai to omotta koto ka.", "ta": "வெளிநாட்டில் படிக்கும்போது எத்தனை முறை ஊருக்குத் திரும்ப நினைத்தேன்!", "en": "How many times I wanted to go home while studying abroad!" },
+    { "ja": "子どもが無事だと聞いて、どれほど安心したことか。", "reading": "こどもが ぶじだと きいて、どれほど あんしん した ことか。", "romaji": "kodomo ga buji da to kiite, dore hodo anshin shita koto ka.", "ta": "குழந்தை பத்திரமாக இருக்கிறது என்று கேட்டு எவ்வளவு நிம்மதி அடைந்தேன்!", "en": "What a relief it was to hear my child was safe!" },
+    { "ja": "家族と離れて暮らすのは、どんなに寂しいことか。", "reading": "かぞくと はなれて くらすのは、どんなに さびしい ことか。", "romaji": "kazoku to hanarete kurasu no wa, donna ni sabishii koto ka.", "ta": "குடும்பத்தைப் பிரிந்து வாழ்வது எவ்வளவு தனிமை!", "en": "How lonely it is to live away from your family!" },
+    { "ja": "毎日一時間歩いて学校に通うのは、どんなに大変なことか。", "reading": "まいにち いちじかん あるいて がっこうに かようのは、どんなに たいへんな ことか。", "romaji": "mainichi ichijikan aruite gakkou ni kayou no wa, donna ni taihen na koto ka.", "ta": "தினமும் ஒரு மணி நேரம் நடந்து பள்ளிக்குப் போவது எவ்வளவு கஷ்டம்!", "en": "How hard it is to walk an hour to school every day!" },
+    { "ja": "あの時、友達の一言にどれだけ救われたことか。", "reading": "あの とき、ともだちの ひとことに どれだけ すくわれた ことか。", "romaji": "ano toki, tomodachi no hitokoto ni dore dake sukuwareta koto ka.", "ta": "அந்த நேரத்தில் நண்பனின் ஒரு வார்த்தை எனக்கு எவ்வளவு ஆறுதலாக இருந்தது!", "en": "How much my friend’s words helped me back then!" }
+   ],
+   "pitfalls_en": "Don’t answer a ことか sentence as if it were a question. Also, don’t forget な with な-words: どんなに大変ことか is wrong.",
+   "pitfalls_ta": "ことか வாக்கியம் கேள்வி அல்ல; அதற்குப் பதில் சொல்ல வேண்டியதில்லை. な-பெயரடைக்குப் பின் な மறக்கக் கூடாது: どんなに大変ことか தவறு; どんなに大変なことか சரி."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0032", "n3-v-0062", "n3-v-0207", "n3-v-0310", "n3-v-0354", "n3-v-0355", "n3-v-0383", "n3-v-0421", "n3-v-0453", "n3-v-0514",
+  "n3-v-0533", "n3-v-0562", "n3-v-0623", "n3-v-0633", "n3-v-0657", "n3-v-0663", "n3-v-0665", "n3-v-0672", "n3-v-0676", "n3-v-0678",
+  "n3-v-0679", "n3-v-0685", "n3-v-0721", "n3-v-0760", "n3-v-0775", "n3-v-0797", "n3-v-0807", "n3-v-0809", "n3-v-0810", "n3-v-0812",
+  "n3-v-0957", "n3-v-0975", "n3-v-0981", "n3-v-1040", "n3-v-1099", "n3-v-1116", "n3-v-1153", "n3-v-1158", "n3-v-1201", "n3-v-1216",
+  "n3-v-1233", "n3-v-1280", "n3-v-1285", "n3-v-1362", "n3-v-1432", "n3-v-1533", "n3-v-1667", "n3-v-1668", "n3-v-1702", "n3-v-1797",
+  "n3-v-1805", "n3-v-1835", "n3-v-1858", "n3-v-2000", "n3-v-2020", "n3-v-2027", "n3-v-2087", "n3-v-2119"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L23-q01", "type": "kanji_reading",
+    "sentence": "一点差で 負けて、本当に ＿悔しい＿です。", "target": "悔しい",
+    "options": ["くわしい", "くやしい", "くるしい", "こやしい"], "answer": 1,
+    "explanation_ta": "悔しい = くやしい (ஆதங்கமான). くるしい = 苦しい (கஷ்டமான), くわしい = 詳しい (விரிவான) — ஒலியில் ஒத்தாலும் வேறு சொற்கள்.",
+    "explanation_en": "悔しい is read くやしい (frustrating). くるしい is 苦しい (painful) and くわしい is 詳しい (detailed). They sound alike but are different words."
+   },
+   {
+    "id": "L23-q02", "type": "kanji_reading",
+    "sentence": "その 映画を 見て、とても ＿感動＿しました。", "target": "感動",
+    "options": ["かんど", "かんとう", "かんどう", "かんどお"], "answer": 2,
+    "explanation_ta": "感動 = かんどう (மனம் நெகிழ்தல்). 動 = どう (நீண்ட ஒலி, 'う' உடன்). かんど-வில் நீண்ட ஒலி இல்லை.",
+    "explanation_en": "感動 is read かんどう (being moved). 動 is どう, a long sound written with う. かんど is missing the long sound."
+   },
+   {
+    "id": "L23-q03", "type": "kanji_reading",
+    "sentence": "卒業式で、母の 目に ＿涙＿が 光って いた。", "target": "涙",
+    "options": ["なみだ", "なみ", "あせ", "なだみ"], "answer": 0,
+    "explanation_ta": "涙 = なみだ (கண்ணீர்). あせ = 汗 (வியர்வை); கண்களில் மின்னுவது கண்ணீர்.",
+    "explanation_en": "涙 is read なみだ (tears). あせ is 汗 (sweat). What shines in the eyes is tears."
+   },
+   {
+    "id": "L23-q04", "type": "orthography",
+    "sentence": "面接の 前は、いつも ＿きんちょう＿します。", "target": "きんちょう",
+    "options": ["緊帳", "緊長", "堅張", "緊張"], "answer": 3,
+    "explanation_ta": "きんちょう = 緊張 (பதட்டம்). 張 = இழுத்துக் கட்டுதல் (இறுக்கம்). 帳 (நோட்டுப் புத்தகம்), 長 (நீளம்) ஒலியில் ஒத்தாலும் தவறு.",
+    "explanation_en": "きんちょう is 緊張 (nervousness). 張 means \"stretched tight\". 帳 (notebook) and 長 (long) sound similar but are wrong."
+   },
+   {
+    "id": "L23-q05", "type": "orthography",
+    "sentence": "毎日 同じ 料理だと、すぐ ＿あきて＿ しまう。", "target": "あきて",
+    "options": ["空きて", "飽きて", "明きて", "開きて"], "answer": 1,
+    "explanation_ta": "சலிப்படைதல் = 飽きる (飽きて). 空く = காலியாவது, 開く = திறப்பது; ஒலி ஒன்றே, பொருள் வேறு.",
+    "explanation_en": "To get tired of something is 飽きる (飽きて). 空く = to become empty, 開く = to open. Same sound, different meaning."
+   },
+   {
+    "id": "L23-q06", "type": "vocab_context",
+    "sentence": "子どもが 無事に 帰って きて、（　　）しました。", "options": ["ほっと", "いらいら", "がっかり", "どきどき"], "answer": 0,
+    "explanation_ta": "பத்திரமாகத் திரும்பியதும் வருவது நிம்மதி = ほっとする. がっかり = ஏமாற்றம், いらいら = எரிச்சல் — சூழலுக்குப் பொருந்தாது.",
+    "explanation_en": "When a child comes home safe, you feel relieved: ほっとする. がっかり = disappointed, いらいら = irritated. They don’t fit."
+   },
+   {
+    "id": "L23-q07", "type": "vocab_context",
+    "sentence": "地震の ときは、（　　）ないで、まず 机の 下に 入りましょう。", "options": ["あき", "うなら", "あわて", "かなしま"], "answer": 2,
+    "explanation_ta": "நிலநடுக்கத்தின்போது 'பதறாமல்' = 慌てないで. あきないで = சலிக்காமல், かなしまないで = வருந்தாமல் — இங்குப் பொருந்தாது.",
+    "explanation_en": "In an earthquake, \"don’t panic\" = 慌てないで. あきないで = don’t get bored, かなしまないで = don’t be sad. They don’t fit."
+   },
+   {
+    "id": "L23-q08", "type": "vocab_context",
+    "sentence": "弟は ゲームに （　　）で、名前を 呼んでも 聞こえない ようだ。", "options": ["退屈", "快適", "微妙", "夢中"], "answer": 3,
+    "explanation_ta": "பெயர் சொல்லிக் கூப்பிட்டாலும் கேட்காத அளவுக்கு மூழ்கியிருப்பது = 夢中. 退屈 (சலிப்பு) என்றால் விளையாட்டில் ஆர்வமில்லை என்று பொருள் — எதிர்மாறானது.",
+    "explanation_en": "So absorbed that he can’t hear his name: 夢中. 退屈 (bored) would mean the opposite."
+   },
+   {
+    "id": "L23-q09", "type": "vocab_context",
+    "sentence": "友達が 約束を （　　）ので、腹が 立った。", "options": ["裂いた", "破った", "狂った", "嫌った"], "answer": 1,
+    "explanation_ta": "வாக்குறுதியை மீறுவது = 約束を破る. 裂く கூடக் 'கிழிப்பது' தான், ஆனால் காகிதம், துணி போன்ற பொருட்களுக்கு மட்டுமே.",
+    "explanation_en": "To break a promise is 約束を破る. 裂く also means \"to tear\", but only for things like paper or cloth."
+   },
+   {
+    "id": "L23-q10", "type": "vocab_context",
+    "sentence": "合格の 知らせに、母は （　　）の 涙を 流した。", "options": ["喜び", "怒り", "驚き", "笑い"], "answer": 0,
+    "explanation_ta": "தேர்ச்சிச் செய்திக்கு வரும் கண்ணீர் = ஆனந்தக் கண்ணீர் (喜びの涙). 怒り = கோபம்; சூழலுக்குப் பொருந்தாது.",
+    "explanation_en": "Tears at news of passing are tears of joy (喜びの涙). 怒り = anger, which doesn’t fit."
+   },
+   {
+    "id": "L23-q11", "type": "paraphrase",
+    "sentence": "毎日 同じ ことの 繰り返しで、退屈だ。",
+    "options": ["毎日 とても 忙しい。", "毎日 とても 楽しい。", "毎日 とても 疲れる。", "毎日 つまらない。"], "answer": 3,
+    "explanation_ta": "退屈 = சலிப்பு = つまらない. 疲れる (களைப்பு) வேறு பொருள்; அதிக வேலையால் வருவது, ஒரே மாதிரியால் அல்ல.",
+    "explanation_en": "退屈 = boring = つまらない. 疲れる (tired) is different; it comes from hard work, not from sameness."
+   },
+   {
+    "id": "L23-q12", "type": "paraphrase",
+    "sentence": "試験に 合格して、ほっと した。",
+    "options": ["試験に 合格して、悔しかった。", "試験に 合格して、驚いた。", "試験に 合格して、安心した。", "試験に 合格して、緊張した。"], "answer": 2,
+    "explanation_ta": "ほっとする = நிம்மதி அடைதல் = 安心する. 驚く (ஆச்சரியப்படுதல்) வேறு உணர்வு.",
+    "explanation_en": "ほっとする = to feel relieved = 安心する. 驚く (to be surprised) is a different feeling."
+   },
+   {
+    "id": "L23-q13", "type": "usage",
+    "sentence": "夢中",
+    "options": ["夢中で、昨日 こわい 夢を 見ました。", "兄は 最近 釣りに 夢中に なって います。", "夜 夢中に 起きて、水を 飲みました。", "この 部屋は 夢中で 静かです。"], "answer": 1,
+    "explanation_ta": "夢中 = ஒன்றில் முழுமையாக மூழ்கியிருத்தல்: 釣りに夢中 (மீன் பிடிப்பில் மூழ்கியிருக்கிறான்). 夢 (கனவு) கான்ஜி இருந்தாலும் 'கனவு காண்பது' பொருள் அல்ல. நள்ளிரவு = 夜中.",
+    "explanation_en": "夢中 = completely absorbed in something: 釣りに夢中. It has the kanji 夢 (dream), but it doesn’t mean dreaming. \"Middle of the night\" is 夜中."
+   },
+   {
+    "id": "L23-q14", "type": "usage",
+    "sentence": "感心",
+    "options": ["日本の 政治に 感心が あります。", "感心なので、病院へ 行きました。", "テストの 前は いつも 感心します。", "毎日 休まず 練習する 彼女に 感心しました。"], "answer": 3,
+    "explanation_ta": "感心 = ஒருவரின் நல்ல செயலைப் பார்த்து வியத்தல்/பாராட்டுதல். 'அரசியலில் ஆர்வம்' என்பது 関心 (அதே ஒலி, வேறு கான்ஜி). தேர்வுக்கு முன் பதட்டம் = 緊張.",
+    "explanation_en": "感心 = being impressed by someone’s good effort. \"Interest in politics\" is 関心 (same sound, other kanji). Nervous before a test is 緊張."
+   },
+   {
+    "id": "L23-q15", "type": "grammar_form",
+    "sentence": "国の 家族に 会いたくて （　　）。", "options": ["たまらない", "ほしい", "ことか", "しまう"], "answer": 0,
+    "explanation_ta": "たい-வின் て-வடிவம் 会いたくて + たまらない = 'பார்க்கத் தவிக்கிறேன்'. ことか-க்கு どんなに போன்ற கேள்விச் சொல் தேவை; て-வடிவத்துடன் சேராது.",
+    "explanation_en": "会いたくて + たまらない = \"I’m dying to see them\". ことか needs a word like どんなに and doesn’t follow the て-form."
+   },
+   {
+    "id": "L23-q16", "type": "grammar_form",
+    "sentence": "あまりに 悲しい 話で、泣かず（　　）いられなかった。", "options": ["では", "にも", "には", "とは"], "answer": 2,
+    "explanation_ta": "ず-வடிவத்துக்குப் பின் (に)は いられない: 泣かずにはいられない. では என்பது ない-வடிவத்துடன் மட்டும்: 泣かないではいられない.",
+    "explanation_en": "After the ず-form, use にはいられない: 泣かずにはいられない. では goes only with the ない-form: 泣かないではいられない."
+   },
+   {
+    "id": "L23-q17", "type": "grammar_form",
+    "sentence": "甘い 物を 見ると、食べ（　　）では いられない。", "options": ["ず", "ない", "なく", "ずに"], "answer": 1,
+    "explanation_ta": "では いられない-க்கு முன் ない-வடிவம்: 食べないではいられない. ず-வடிவம் என்றால் 食べずにはいられない என்று に வர வேண்டும்.",
+    "explanation_en": "Before ではいられない, use the ない-form: 食べないではいられない. With ず you need に: 食べずにはいられない."
+   },
+   {
+    "id": "L23-q18", "type": "grammar_form",
+    "sentence": "合格したと 聞いて、母は どんなに うれしかった （　　）。", "options": ["ものか", "わけか", "のか", "ことか"], "answer": 3,
+    "explanation_ta": "どんなに + சாதாரண வடிவம் + ことか = 'எவ்வளவு மகிழ்ந்தாள் தெரியுமா!' (வியப்பு). のか என்றால் 'எவ்வளவு மகிழ்ந்தாள்?' என்ற சாதாரணக் கேள்வியாகிவிடும்.",
+    "explanation_en": "どんなに + plain form + ことか = \"How happy she was!\" (a cry of feeling). のか would turn it into a plain question."
+   },
+   {
+    "id": "L23-q19", "type": "grammar_form",
+    "sentence": "一人で 旅行して いる 娘の ことが 心配で （　　）。", "options": ["ならない", "すぎない", "いけない", "かまわない"], "answer": 0,
+    "explanation_ta": "心配で + ならない = 'கவலையை அடக்க முடியவில்லை'. 心配でかまわない = 'கவலைப்பட்டாலும் பரவாயில்லை' — பொருள் முற்றிலும் வேறு.",
+    "explanation_en": "心配で + ならない = \"I can’t help worrying\". 心配でかまわない would mean \"it’s fine to worry\", a different meaning."
+   },
+   {
+    "id": "L23-q20", "type": "grammar_form",
+    "sentence": "最近 毎日 残業で、疲れて （　　）よ。", "options": ["ほしい", "ことか", "しょうがない", "みる"], "answer": 2,
+    "explanation_ta": "நண்பரிடம் பேச்சு வழக்கில் 'மிகவும் களைப்பு' = 疲れてしょうがない. 疲れてみる = 'களைத்துப் பார்க்கிறேன்' — பொருளற்றது.",
+    "explanation_en": "Casually, \"I’m so tired\" = 疲れてしょうがない. 疲れてみる would mean \"try being tired\", which makes no sense."
+   },
+   {
+    "id": "L23-q21", "type": "grammar_form",
+    "sentence": "彼が 何か うそを ついて いる ような 気が して （　　）。", "options": ["いられない", "ほしい", "みせる", "ならない"], "answer": 3,
+    "explanation_ta": "தானாக எழும் எண்ணம்: 気がしてならない = 'அப்படித் தோன்றிக்கொண்டே இருக்கிறது'. いられない-க்கு ず / ない வடிவம் தேவை; て-வடிவத்துடன் இந்தப் பொருளில் வராது.",
+    "explanation_en": "A thought that keeps coming: 気がしてならない = \"I can’t shake the feeling\". いられない needs the ず / ない form, not the て-form, for this meaning."
+   },
+   {
+    "id": "L23-q22", "type": "sentence_order",
+    "before": "国の", "chunks": ["家族に", "会いたくて", "たまらない", "ので"], "star": 1, "after": "、来月 帰ります。",
+    "explanation_ta": "家族に (குடும்பத்தை) → 会いたくて (பார்க்க விரும்பி) → たまらない (தாங்க முடியவில்லை) → ので (என்பதால்). ★ = 会いたくて.",
+    "explanation_en": "家族に (my family) → 会いたくて (wanting to see) → たまらない (unbearably) → ので (so). ★ = 会いたくて."
+   },
+   {
+    "id": "L23-q23", "type": "sentence_order",
+    "before": "その 話を 聞いて、", "chunks": ["彼に", "一言", "言わずには", "いられなかった"], "star": 2, "after": "。",
+    "explanation_ta": "彼に (அவனிடம்) → 一言 (ஒரு வார்த்தை) → 言わずには (சொல்லாமல்) → いられなかった (இருக்க முடியவில்லை). ★ = 言わずには.",
+    "explanation_en": "彼に (to him) → 一言 (a word) → 言わずには (without saying) → いられなかった (couldn’t stay). ★ = 言わずには."
+   },
+   {
+    "id": "L23-q24", "type": "sentence_order",
+    "before": "留学中、", "chunks": ["何度", "国に", "帰りたいと", "思った"], "star": 1, "after": "ことか。",
+    "explanation_ta": "何度 (எத்தனை முறை) → 国に (ஊருக்கு) → 帰りたいと (திரும்ப வேண்டும் என்று) → 思った ことか (நினைத்தேன் தெரியுமா!). ★ = 国に.",
+    "explanation_en": "何度 (how many times) → 国に (to my country) → 帰りたいと (that I want to go back) → 思った ことか (I thought!). ★ = 国に."
+   },
+   {
+    "id": "L23-q25", "type": "passage_cloze",
+    "passage": "日本に 来て、もうすぐ 一年に なります。最初の ころは、言葉が わからなくて、毎日 不安で［1］。夜に なると、国の 家族に 会いたくて、泣かず［2］いられませんでした。そんな とき、同じ クラスの 友達が「大丈夫？」と 声を かけて くれました。その 一言に、どんなに 助けられた［3］。今は 日本の 生活にも 慣れて、毎日が 楽しくて［4］。",
+    "blanks": [
+     { "options": ["たまりませんでした", "いられませんでした", "ほしかったです", "みました"], "answer": 0 },
+     { "options": ["では", "にも", "には", "とは"], "answer": 2 },
+     { "options": ["ものか", "ことか", "のか", "わけか"], "answer": 1 },
+     { "options": ["いられません", "ならないか", "ほしいです", "しかたがありません"], "answer": 3 }
+    ],
+    "explanation_ta": "［1］ 不安で + たまりませんでした = கவலை தாங்க முடியவில்லை. ［2］ 泣かず + には + いられませんでした = அழாமல் இருக்க முடியவில்லை (では ない-வடிவத்துடன் மட்டும்). ［3］ どんなに 〜 ことか = எவ்வளவு உதவியாக இருந்தது தெரியுமா! ［4］ 楽しくて + しかたがありません = மிகவும் சந்தோஷம். いられません-க்கு ず/ない வடிவம் தேவை.",
+    "explanation_en": "[1] 不安で + たまりませんでした = I was unbearably anxious. [2] 泣かず + には + いられませんでした = I couldn’t help crying (では goes only with the ない-form). [3] どんなに 〜 ことか = how much it helped me! [4] 楽しくて + しかたがありません = I’m having so much fun. いられません needs the ず / ない form."
+   }
+  ]
+ }
+}

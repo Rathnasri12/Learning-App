@@ -1,0 +1,283 @@
+{
+  "lesson": 10,
+  "title": { "ja": "君のおかげで", "ta": "உங்கள் உதவியால்", "en": "Thanks to you" },
+  "intro_ta": "இந்தப் பாடத்தில் ஒரு விளைவுக்குக் காரணம் சொல்லும் நான்கு வழிகளைக் கற்போம். நல்ல விளைவுக்கு நன்றியுடன் 〜おかげで, கெட்ட விளைவுக்குப் பழி சுமத்தும் 〜せいで, உறுதியில்லாத காரணத்துக்கு 〜せいか, தாமதம் போன்றவற்றுக்குச் சாக்குச் சொல்லும்போது 〜ものだから / 〜もので. கூடவே விபத்து, தீ, மீட்பு, அதிர்ஷ்டம் தொடர்பான சொற்களையும் கற்போம்.",
+  "intro_en": "In this lesson you learn four ways to give a reason. 〜おかげで is for a good result. You say thanks. 〜せいで is for a bad result. You put the blame on something. 〜せいか means \"maybe because\". 〜ものだから / 〜もので is for excuses, like when you are late. You also learn words about accidents, fire, rescue and luck.",
+  "grammar": [
+    {
+      "id": "g10-1",
+      "pattern": "〜おかげで / 〜おかげだ",
+      "name": { "en": "Thanks to ~ (good result)", "ta": "〜இன் உதவியால் / 〜ஆல்தான் (நல்ல விளைவு)" },
+      "explanation_ta": "〜おかげで என்பது 'ஒருவரின் உதவியால் / ஒரு காரணத்தால் நல்ல விளைவு கிடைத்தது' என்று நன்றியுணர்வோடு சொல்லும் வடிவம். N4-இல் கற்ற おかげさまで என்ற வாழ்த்துச் சொல்லின் அதே おかげ தான் இது. பெயர்ச்சொல்லுக்கு の சேர்த்து 先生のおかげで என்றும், வினைக்கு சாதாரண வடிவம் சேர்த்து 薬を飲んだおかげで என்றும் சொல்லலாம். வாக்கியத்தின் இறுதியில் 〜おかげだ / 〜おかげです என்று 'அது 〜ஆல்தான்' என்று முடிக்கலாம். から, ので போன்றவை எல்லாக் காரணங்களுக்கும் பொருந்தும்; おかげで நல்ல விளைவுக்கு மட்டும், நன்றி கலந்த உணர்வுடன். சில சமயம் கெட்ட விளைவுக்கும் கிண்டலாக (sarcasm) பயன்படுத்துவார்கள்.",
+      "explanation_en": "Use 〜おかげで when something good happened because of someone or something. It carries a feeling of thanks. It is the same おかげ as in おかげさまで. After a noun, add の: 先生のおかげで. After a verb, use the plain form: 薬を飲んだおかげで. At the end of a sentence, say 〜おかげだ or 〜おかげです: \"it's thanks to ~\". から and ので work for any reason. おかげで is only for good results. Sometimes people use it for a bad result as a joke or with sarcasm.",
+      "tamil_parallel": "ஆசிரியரின் உதவியால் தேர்ச்சி பெற்றேன் = 先生のおかげで合格できました; இது உன்னால்தான் (நன்றி) = 君のおかげだよ",
+      "tamil_parallel_en": "\"Thanks to my teacher, I passed\" (ஆசிரியரின் உதவியால் தேர்ச்சி பெற்றேன்) = 先生のおかげで合格できました. \"It's thanks to you\" (இது உன்னால்தான்) = 君のおかげだよ.",
+      "formation": "பெயர்ச்சொல் + の + おかげで: 先生のおかげで\nவினை (சாதாரண வடிவம்) + おかげで: 飲んだおかげで・近いおかげで\nな-பெயரடை + な + おかげで: 静かなおかげで\nவாக்கிய இறுதி: 〜おかげだ / 〜おかげです",
+      "formation_en": "Noun + の + おかげで: 先生のおかげで\nVerb / い-adjective (plain form) + おかげで: 飲んだおかげで・近いおかげで\nな-adjective + な + おかげで: 静かなおかげで\nEnd of sentence: 〜おかげだ / 〜おかげです",
+      "examples": [
+        { "ja": "先生の おかげで、試験に 合格できました。", "reading": "せんせいの おかげで、しけんに ごうかくできました。", "romaji": "sensei no okage de, shiken ni goukaku dekimashita.", "ta": "ஆசிரியரின் உதவியால் தேர்வில் தேர்ச்சி பெற முடிந்தது.", "en": "Thanks to my teacher, I passed the exam." },
+        { "ja": "薬を 飲んだ おかげで、熱が 下がりました。", "reading": "くすりを のんだ おかげで、ねつが さがりました。", "romaji": "kusuri o nonda okage de, netsu ga sagarimashita.", "ta": "மருந்து சாப்பிட்டதால் காய்ச்சல் குறைந்தது.", "en": "Thanks to the medicine, my fever went down." },
+        { "ja": "駅が 近い おかげで、毎朝 ゆっくり できます。", "reading": "えきが ちかい おかげで、まいあさ ゆっくり できます。", "romaji": "eki ga chikai okage de, maiasa yukkuri dekimasu.", "ta": "ரயில் நிலையம் அருகில் இருப்பதால் தினமும் காலையில் நிதானமாக இருக்க முடிகிறது.", "en": "Thanks to the station being close, I can take it easy every morning." },
+        { "ja": "この あたりは 静かな おかげで、よく 眠れます。", "reading": "この あたりは しずかな おかげで、よく ねむれます。", "romaji": "kono atari wa shizuka na okage de, yoku nemuremasu.", "ta": "இந்தப் பகுதி அமைதியாக இருப்பதால் நன்றாகத் தூங்க முடிகிறது.", "en": "This area is quiet, so I can sleep well." },
+        { "ja": "「合格 おめでとう。」「ありがとう。君が 毎日 手伝って くれた おかげだよ。」", "reading": "「ごうかく おめでとう。」「ありがとう。きみが まいにち てつだって くれた おかげだよ。」", "romaji": "\"goukaku omedetou.\" \"arigatou. kimi ga mainichi tetsudatte kureta okage da yo.\"", "ta": "\"தேர்ச்சிக்கு வாழ்த்துகள்.\" \"நன்றி. நீ தினமும் உதவியதால்தான் இது முடிந்தது.\"", "en": "\"Congratulations on passing.\" \"Thanks. It's because you helped me every day.\"" },
+        { "ja": "幸い、近所の 人が すぐ 消防に 電話して くれた おかげで、火事は 大きく なりませんでした。", "reading": "さいわい、きんじょの ひとが すぐ しょうぼうに でんわして くれた おかげで、かじは おおきく なりませんでした。", "romaji": "saiwai, kinjo no hito ga sugu shoubou ni denwa shite kureta okage de, kaji wa ookiku narimasen deshita.", "ta": "நல்லவேளையாக, பக்கத்து வீட்டுக்காரர் உடனே தீயணைப்புத் துறைக்குப் போன் செய்ததால் தீ பெரிதாகவில்லை.", "en": "Luckily a neighbour called the fire service at once, so the fire did not spread." },
+        { "ja": "君が 大きな 声で 話した おかげで、赤ちゃんが 起きちゃったよ。", "reading": "きみが おおきな こえで はなした おかげで、あかちゃんが おきちゃったよ。", "romaji": "kimi ga ookina koe de hanashita okage de, akachan ga okichatta yo.", "ta": "நீ சத்தமாகப் பேசிய 'புண்ணியத்தில்' குழந்தை எழுந்துவிட்டது. (கிண்டல்)", "en": "Thanks to you talking so loudly, the baby woke up. (sarcastic)" }
+      ],
+      "pitfalls_ta": "おかげで என்பது பொதுவாக நல்ல விளைவுக்கு மட்டுமே. 'மழையால் போட்டி ரத்தானது' போன்ற கெட்ட விளைவுக்கு 雨のおかげで என்று சொன்னால் கிண்டலாகக் கேட்கும்; அங்கே 雨のせいで. பெயர்ச்சொல்லுக்குப் பின் の மறக்க வேண்டாம் (先生おかげで ✗).",
+      "pitfalls_en": "おかげで is normally for good results only. For a bad result, like a game cancelled by rain, say 雨のせいで. 雨のおかげで sounds sarcastic. After a noun, do not forget の: 先生のおかげで, not 先生おかげで."
+    },
+    {
+      "id": "g10-2",
+      "pattern": "〜せいで / 〜せいだ",
+      "name": { "en": "Because of ~ (blame, bad result)", "ta": "〜ஆல் (கெட்ட விளைவு, பழி)" },
+      "explanation_ta": "〜せいで என்பது おかげで-இன் எதிர்ப்பதம். ஒரு கெட்ட விளைவுக்கு 'இதுதான் காரணம், இதுதான் குற்றவாளி' என்று பழி சுமத்தும் உணர்வுடன் சொல்லப்படுகிறது. இணைக்கும் விதம் おかげで போலவே: 雨のせいで, 寝坊したせいで, 不便なせいで. வாக்கிய இறுதியில் 〜せいだ / 〜せいです (அது 〜இன் தவறு) என்று முடிக்கலாம். 人のせいにする என்றால் 'மற்றவர் மேல் பழி போடுவது'. தமிழில் 'உன்னால்தான் இப்படி ஆச்சு' என்று சொல்வது போல. から, ので நடுநிலையானவை; せいで-இல் வருத்தம், குறை சொல்லும் தொனி உண்டு.",
+      "explanation_en": "〜せいで is the opposite of おかげで. Use it for a bad result. It points to the cause, like blaming it. You join it the same way as おかげで: 雨のせいで, 寝坊したせいで, 不便なせいで. At the end of a sentence, say 〜せいだ / 〜せいです: \"it's the fault of ~\". 人のせいにする means \"to blame other people\". から and ので are neutral. せいで has a feeling of complaint or regret.",
+      "tamil_parallel": "மழையால்தான் போட்டி ரத்தானது = 雨のせいで試合が中止になった; இது உன் தவறு = 君のせいだ",
+      "tamil_parallel_en": "\"The game was cancelled because of the rain\" (மழையால்தான் போட்டி ரத்தானது) = 雨のせいで試合が中止になった. \"It's your fault\" (இது உன் தவறு) = 君のせいだ.",
+      "formation": "பெயர்ச்சொல் + の + せいで: 雨のせいで\nவினை / い-பெயரடை (சாதாரண வடிவம்) + せいで: 寝坊したせいで・暑いせいで\nな-பெயரடை + な + せいで: 不便なせいで\nவாக்கிய இறுதி: 〜せいだ / 〜せいです\n〜のせいにする = 〜மேல் பழி போட",
+      "formation_en": "Noun + の + せいで: 雨のせいで\nVerb / い-adjective (plain form) + せいで: 寝坊したせいで・暑いせいで\nな-adjective + な + せいで: 不便なせいで\nEnd of sentence: 〜せいだ / 〜せいです\n〜のせいにする = to blame ~",
+      "examples": [
+        { "ja": "雨の せいで、試合が 中止に なりました。", "reading": "あめの せいで、しあいが ちゅうしに なりました。", "romaji": "ame no sei de, shiai ga chuushi ni narimashita.", "ta": "மழையால் போட்டி ரத்தானது.", "en": "The game was cancelled because of the rain." },
+        { "ja": "寝坊した せいで、バスに 乗り遅れました。", "reading": "ねぼうした せいで、バスに のりおくれました。", "romaji": "nebou shita sei de, basu ni noriokuremashita.", "ta": "அதிக நேரம் தூங்கிவிட்டதால் பஸ்ஸைத் தவறவிட்டேன்.", "en": "I overslept, so I missed the bus." },
+        { "ja": "部屋が 暑い せいで、ゆうべは よく 眠れなかった。", "reading": "へやが あつい せいで、ゆうべは よく ねむれなかった。", "romaji": "heya ga atsui sei de, yuube wa yoku nemurenakatta.", "ta": "அறை சூடாக இருந்ததால் நேற்று இரவு சரியாகத் தூங்க முடியவில்லை.", "en": "My room was hot, so I couldn't sleep well last night." },
+        { "ja": "交通が 不便な せいで、この 村には なかなか 人が 来ません。", "reading": "こうつうが ふべんな せいで、この むらには なかなか ひとが きません。", "romaji": "koutsuu ga fuben na sei de, kono mura ni wa nakanaka hito ga kimasen.", "ta": "போக்குவரத்து வசதி இல்லாததால் இந்தக் கிராமத்துக்கு அதிகம் யாரும் வருவதில்லை.", "en": "Because transport is poor, few people come to this village." },
+        { "ja": "「試合に 負けたのは 君の せいだ。」「いや、僕の せいじゃないよ。」", "reading": "「しあいに まけたのは きみの せいだ。」「いや、ぼくの せいじゃないよ。」", "romaji": "\"shiai ni maketa no wa kimi no sei da.\" \"iya, boku no sei ja nai yo.\"", "ta": "\"போட்டியில் தோற்றது உன்னால்தான்.\" \"இல்லை, அது என் தவறு இல்லை.\"", "en": "\"We lost the game because of you.\" \"No, it's not my fault.\"" },
+        { "ja": "自分の ミスを 人の せいに しないで ください。", "reading": "じぶんの ミスを ひとの せいに しないで ください。", "romaji": "jibun no misu o hito no sei ni shinaide kudasai.", "ta": "உங்கள் தவறுக்கு மற்றவர்கள் மேல் பழி போடாதீர்கள்.", "en": "Don't blame other people for your own mistakes." }
+      ],
+      "pitfalls_ta": "நல்ல விளைவுக்கு せいで பயன்படுத்தக் கூடாது (先生のせいで合格した ✗). மேலும், மேலதிகாரி அல்லது வாடிக்கையாளர் முன் 〜のせいです என்று மற்றவரைக் குற்றம் சாட்டினால் மரியாதைக் குறைவாகத் தோன்றலாம்.",
+      "pitfalls_en": "Do not use せいで for a good result (先生のせいで合格した ✗). Also, saying 〜のせいです about someone in front of your boss or a customer can sound rude."
+    },
+    {
+      "id": "g10-3",
+      "pattern": "〜せいか",
+      "name": { "en": "Perhaps because ~", "ta": "〜ஆலோ என்னவோ" },
+      "explanation_ta": "〜せいか என்பது せい + か (கேள்வி / ஐயம்). 'உறுதியாகத் தெரியாது, ஆனால் இதுதான் காரணமாக இருக்கலாம்' என்று ஊகிக்கும்போது பயன்படுகிறது. தமிழில் 'வயதாலோ என்னவோ', 'மழை பெய்ததாலோ என்னவோ' என்று சொல்வது போல. இணைப்பு せいで போலவே: 年のせいか, 寝不足のせいか, 雨が降ったせいか. பெரும்பாலும் கெட்ட விளைவுக்கு வரும், ஆனால் 'மழை பெய்ததாலோ என்னவோ இன்று குளிர்ச்சியாக இருக்கிறது' போன்ற நடுநிலை விளைவுக்கும் வரலாம். 気のせいか என்றால் 'என் பிரமையோ என்னவோ' (it may be just my imagination).",
+      "explanation_en": "〜せいか is せい + か (a question or doubt). Use it when you guess the reason. You are not sure: \"maybe because ~\". Join it like せいで: 年のせいか, 寝不足のせいか, 雨が降ったせいか. It is often about bad results. But it can also be neutral: \"Maybe because it rained, it is cool today.\" 気のせいか means \"maybe it's just me, but...\".",
+      "tamil_parallel": "வயதாலோ என்னவோ, சீக்கிரம் களைப்பாகிறது = 年のせいか、疲れやすくなった",
+      "tamil_parallel_en": "\"Maybe because of my age, I get tired easily\" (வயதாலோ என்னவோ, சீக்கிரம் களைப்பாகிறது) = 年のせいか、疲れやすくなった.",
+      "formation": "பெயர்ச்சொல் + の + せいか: 年のせいか\nவினை / い-பெயரடை (சாதாரண வடிவம்) + せいか: 降ったせいか・忙しいせいか\nな-பெயரடை + な + せいか: 静かなせいか\n気のせいか = என் பிரமையோ என்னவோ",
+      "formation_en": "Noun + の + せいか: 年のせいか\nVerb / い-adjective (plain form) + せいか: 降ったせいか・忙しいせいか\nな-adjective + な + せいか: 静かなせいか\n気のせいか = maybe it's just me",
+      "examples": [
+        { "ja": "年の せいか、最近 疲れやすく なりました。", "reading": "としの せいか、さいきん つかれやすく なりました。", "romaji": "toshi no sei ka, saikin tsukareyasuku narimashita.", "ta": "வயதாலோ என்னவோ, சமீபத்தில் சீக்கிரம் களைப்பாகிவிடுகிறது.", "en": "Maybe because of my age, I get tired easily these days." },
+        { "ja": "寝不足の せいか、頭が ぼんやりします。", "reading": "ねぶそくの せいか、あたまが ぼんやりします。", "romaji": "nebusoku no sei ka, atama ga bonyari shimasu.", "ta": "தூக்கம் போதாததாலோ என்னவோ, தலை மந்தமாக இருக்கிறது.", "en": "Maybe because I didn't sleep enough, my head feels foggy." },
+        { "ja": "雨が 降った せいか、今日は 涼しいですね。", "reading": "あめが ふった せいか、きょうは すずしいですね。", "romaji": "ame ga futta sei ka, kyou wa suzushii desu ne.", "ta": "மழை பெய்ததாலோ என்னவோ, இன்று குளிர்ச்சியாக இருக்கிறதே.", "en": "Maybe because it rained, it's cool today." },
+        { "ja": "日曜日の せいか、駅は とても 混んで いた。", "reading": "にちようびの せいか、えきは とても こんで いた。", "romaji": "nichiyoubi no sei ka, eki wa totemo konde ita.", "ta": "ஞாயிற்றுக்கிழமை என்பதாலோ என்னவோ, ரயில் நிலையம் மிகவும் கூட்டமாக இருந்தது.", "en": "Maybe because it was Sunday, the station was very crowded." },
+        { "ja": "緊張した せいか、面接で うまく 話せませんでした。", "reading": "きんちょうした せいか、めんせつで うまく はなせませんでした。", "romaji": "kinchou shita sei ka, mensetsu de umaku hanasemasen deshita.", "ta": "பதற்றத்தாலோ என்னவோ, நேர்முகத் தேர்வில் சரியாகப் பேச முடியவில்லை.", "en": "Maybe because I was nervous, I couldn't speak well in the interview." },
+        { "ja": "気の せいか、今日の カレーは いつもより 辛いです。", "reading": "きの せいか、きょうの カレーは いつもより からいです。", "romaji": "ki no sei ka, kyou no karee wa itsumo yori karai desu.", "ta": "என் பிரமையோ என்னவோ, இன்றைய கறி வழக்கத்தைவிடக் காரமாக இருக்கிறது.", "en": "Maybe it's just me, but today's curry is spicier than usual." }
+      ],
+      "pitfalls_ta": "காரணம் உறுதியாகத் தெரிந்தால் せいか வேண்டாம்; せいで அல்லது から போதும். せいか பின்னால் வரும் பகுதி ஒரு நிலைமை அல்லது விளைவு; 'செய்யுங்கள்' போன்ற வேண்டுகோள் வராது.",
+      "pitfalls_en": "If you are sure of the reason, do not use せいか. Use せいで or から. After せいか comes a state or a result. A request like 〜てください does not come after it."
+    },
+    {
+      "id": "g10-4",
+      "pattern": "〜ものだから / 〜もので",
+      "name": { "en": "Because ~ (explaining, excusing)", "ta": "〜ஆனதால்தான் (சாக்கு / விளக்கம்)" },
+      "explanation_ta": "〜ものだから என்பது தன் நிலைமையை விளக்கி 'அதனால்தான் இப்படி ஆனது, என்னால் தவிர்க்க முடியவில்லை' என்று சாக்குச் சொல்லும் வடிவம். தாமதம், தவறு போன்றவற்றுக்கு மன்னிப்புக் கேட்கும்போது அதிகம் வரும். 〜もので என்பது சற்று மென்மையான, பணிவான வடிவம்; பேச்சில் 〜もんだから / 〜もんで என்றும் சுருங்கும். から / ので போல இணைக்கவும்: 込んでいたもので, おいしかったものだから; な-பெயரடை, பெயர்ச்சொல்லுடன் 〜なもので. பதிலாக மட்டும் 「〜ものだから。」 என்று வாக்கியத்தை முடிக்கலாம். முக்கியம்: இதன் பின்பகுதியில் கட்டளை (〜しなさい), வேண்டுகோள் (〜てください), விருப்பம் (〜よう) பொதுவாக வராது.",
+      "explanation_en": "Use 〜ものだから to explain your situation. It often sounds like an excuse: \"that's why, I couldn't help it\". You hear it a lot when you say sorry for being late or for a mistake. 〜もので is softer and more polite. In speech it becomes 〜もんだから / 〜もんで. Join it like から or ので: 込んでいたもので, おいしかったものだから. With な-adjectives and nouns, use 〜なもので. You can also end your answer with it: 「〜ものだから。」. Important: after it, do not put an order, a request (〜てください) or \"let's\" (〜よう).",
+      "tamil_parallel": "சாலையில் நெரிசல் இருந்ததால்தான் தாமதமாகிவிட்டது = 道が込んでいたもので、遅くなりました",
+      "tamil_parallel_en": "\"The roads were busy, that's why I'm late\" (சாலையில் நெரிசல் இருந்ததால்தான் தாமதமாகிவிட்டது) = 道が込んでいたもので、遅くなりました.",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + ものだから / もので: 込んでいたもので・おいしかったものだから\nな-பெயரடை / பெயர்ச்சொல் + な + ものだから / もので: 不便なもので・病気なもので\nபணிவு: 〜ものですから\nபேச்சு: 〜もんだから / 〜もんで",
+      "formation_en": "Verb / い-adjective (plain form) + ものだから / もので: 込んでいたもので・おいしかったものだから\nな-adjective / noun + な + ものだから / もので: 不便なもので・病気なもので\nPolite: 〜ものですから\nCasual: 〜もんだから / 〜もんで",
+      "examples": [
+        { "ja": "「どうして 遅れたの？」「ごめん、目覚ましが 鳴らなかったものだから。」", "reading": "「どうして おくれたの？」「ごめん、めざましが ならなかったものだから。」", "romaji": "\"doushite okureta no?\" \"gomen, mezamashi ga naranakatta mono da kara.\"", "ta": "\"ஏன் தாமதம்?\" \"மன்னிச்சுக்கோ, அலாரம் அடிக்கவில்லை, அதனால்தான்.\"", "en": "\"Why were you late?\" \"Sorry, my alarm didn't go off.\"" },
+        { "ja": "すみません、道が 込んで いたもので、遅く なりました。", "reading": "すみません、みちが こんで いたもので、おそく なりました。", "romaji": "sumimasen, michi ga konde ita mono de, osoku narimashita.", "ta": "மன்னிக்கவும், சாலையில் போக்குவரத்து நெரிசல் இருந்ததால் தாமதமாகிவிட்டது.", "en": "I'm sorry, the roads were busy, so I'm late." },
+        { "ja": "とても おいしかったものだから、つい 全部 食べて しまいました。", "reading": "とても おいしかったものだから、つい ぜんぶ たべて しまいました。", "romaji": "totemo oishikatta mono da kara, tsui zenbu tabete shimaimashita.", "ta": "மிகவும் சுவையாக இருந்ததால், தெரியாமலே எல்லாவற்றையும் சாப்பிட்டுவிட்டேன்.", "en": "It was so tasty that I ended up eating it all." },
+        { "ja": "母が 入院して いるもので、毎日 病院に 通って います。", "reading": "ははが にゅういんして いるもので、まいにち びょういんに かよって います。", "romaji": "haha ga nyuuin shite iru mono de, mainichi byouin ni kayotte imasu.", "ta": "அம்மா மருத்துவமனையில் இருப்பதால், தினமும் மருத்துவமனைக்குப் போய் வருகிறேன்.", "en": "My mother is in hospital, so I go there every day." },
+        { "ja": "初めて 日本に 来たものですから、まだ 何も わかりません。", "reading": "はじめて にほんに きたものですから、まだ なにも わかりません。", "romaji": "hajimete nihon ni kita mono desu kara, mada nani mo wakarimasen.", "ta": "முதல் முறையாக ஜப்பானுக்கு வந்திருப்பதால், இன்னும் எதுவும் தெரியவில்லை.", "en": "This is my first time in Japan, so I don't know anything yet." },
+        { "ja": "「宿題は？」「すみません、熱が あったもので…。」", "reading": "「しゅくだいは？」「すみません、ねつが あったもので…。」", "romaji": "\"shukudai wa?\" \"sumimasen, netsu ga atta mono de...\"", "ta": "\"வீட்டுப்பாடம் எங்கே?\" \"மன்னிக்கவும், காய்ச்சல் இருந்ததால்...\"", "en": "\"Where's your homework?\" \"Sorry, I had a fever...\"" }
+      ],
+      "pitfalls_ta": "雨が降るものだから、傘を持って行きなさい ✗ — ものだから பின்னால் கட்டளை வராது; அங்கே から பயன்படுத்துங்கள். மேலும், அடிக்கடி ものだから சொல்லிக்கொண்டே இருந்தால் சாக்குச் சொல்பவர் போலத் தோன்றும்.",
+      "pitfalls_en": "雨が降るものだから、傘を持って行きなさい ✗. No order after ものだから. Use から there. Also, if you use ものだから too often, you may sound like you are always making excuses."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0020", "n3-v-0042", "n3-v-0100", "n3-v-0131", "n3-v-0156", "n3-v-0222", "n3-v-0258", "n3-v-0303",
+    "n3-v-0304", "n3-v-0337", "n3-v-0443", "n3-v-0464", "n3-v-0526", "n3-v-0550", "n3-v-0601", "n3-v-0708",
+    "n3-v-0740", "n3-v-0843", "n3-v-0848", "n3-v-0850", "n3-v-0877", "n3-v-0901", "n3-v-0931", "n3-v-0969",
+    "n3-v-1038", "n3-v-1064", "n3-v-1085", "n3-v-1220", "n3-v-1309", "n3-v-1333", "n3-v-1347", "n3-v-1348",
+    "n3-v-1393", "n3-v-1399", "n3-v-1544", "n3-v-1655", "n3-v-1738", "n3-v-1752", "n3-v-1757", "n3-v-1811",
+    "n3-v-1816", "n3-v-1817", "n3-v-1870", "n3-v-1872", "n3-v-1886", "n3-v-1950", "n3-v-1951", "n3-v-2118"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L10-q01", "type": "kanji_reading",
+        "sentence": "台風で 海の 近くの 村に 大きな ＿被害＿が 出ました。", "target": "被害",
+        "options": ["ひかい", "びがい", "ひがい", "ひがえ"], "answer": 2,
+        "explanation_ta": "被害 = ひがい (பாதிப்பு). 害 என்பது が என்று கலங்கல் ஒலியுடன் படிக்கப்படும்; 被 என்பது ひ, び அல்ல.",
+        "explanation_en": "被害 = ひがい (பாதிப்பு, damage). 害 is read がい with a voiced が. 被 is ひ, not び."
+      },
+      {
+        "id": "L10-q02", "type": "kanji_reading",
+        "sentence": "飛行機は ＿無事＿に 空港に 着きました。", "target": "無事",
+        "options": ["むじ", "ぶじ", "ぶし", "むし"], "answer": 1,
+        "explanation_ta": "無事 = ぶじ (பாதுகாப்பாக). 無 பொதுவாக む என்று படிக்கப்பட்டாலும் இந்தச் சொல்லில் ぶ. むじ என்பது பொதுவான தவறு.",
+        "explanation_en": "無事 = ぶじ (பாதுகாப்பாக, safely). 無 is often む, but in this word it is ぶ. むじ is a common mistake."
+      },
+      {
+        "id": "L10-q03", "type": "kanji_reading",
+        "sentence": "台所から ＿煙＿が 出て います。", "target": "煙",
+        "options": ["けむり", "けぶり", "きむり", "けむい"], "answer": 0,
+        "explanation_ta": "煙 = けむり (புகை). けむい என்பது 'புகை மூட்டமான' (煙い) என்ற பெயரடை; பெயர்ச்சொல் அல்ல.",
+        "explanation_en": "煙 = けむり (புகை, smoke). けむい (煙い) is an adjective, \"smoky\". It is not the noun."
+      },
+      {
+        "id": "L10-q04", "type": "orthography",
+        "sentence": "川で 溺れて いた 子どもを ＿すくう＿ ために、彼は 水に 飛び込みました。", "target": "すくう",
+        "options": ["求う", "球う", "教う", "救う"], "answer": 3,
+        "explanation_ta": "すくう (காப்பாற்ற) = 救う. 求 (தேட / கோர), 球 (பந்து), 教 (கற்பிக்க) தோற்றத்தில் ஒத்தவை, ஆனால் பொருள் வேறு. 救助 (மீட்பு) சொல்லிலும் இதே 救.",
+        "explanation_en": "すくう (காப்பாற்ற, to save) = 救う. 求 (to seek), 球 (ball) and 教 (to teach) look similar but are wrong. The same 救 is in 救助 (rescue)."
+      },
+      {
+        "id": "L10-q05", "type": "orthography",
+        "sentence": "階段で 転んで、足を ＿こっせつ＿しました。", "target": "こっせつ",
+        "options": ["骨析", "骨接", "骨折", "滑折"], "answer": 2,
+        "explanation_ta": "こっせつ (எலும்பு முறிவு) = 骨折. 折 = முறிய / மடிக்க (折る). 析, 接 ஒலியில் ஒத்தாலும் தவறு.",
+        "explanation_en": "こっせつ (எலும்பு முறிவு, broken bone) = 骨折. 折 means \"break\" (折る). 析 and 接 sound or look similar, but they are wrong."
+      },
+      {
+        "id": "L10-q06", "type": "vocab_context",
+        "sentence": "台風に （　　）、水と 電池を 買って おきました。",
+        "options": ["救って", "備えて", "結んで", "測って"], "answer": 1,
+        "explanation_ta": "〜に備えて = 〜க்கு முன்னேற்பாடாக. புயல் வருவதற்கு முன் பொருள்கள் வாங்கி வைப்பது. 救って (காப்பாற்றி) இங்கே பொருந்தாது.",
+        "explanation_en": "〜に備えて means \"to prepare for ~\" (〜க்கு முன்னேற்பாடாக). You buy things before the typhoon comes. 救って (to save) does not fit."
+      },
+      {
+        "id": "L10-q07", "type": "vocab_context",
+        "sentence": "ゆうべは 嵐で （　　）に なったので、ろうそくを つけました。",
+        "options": ["火災", "骨折", "爆発", "停電"], "answer": 3,
+        "explanation_ta": "மின்சாரம் போனதால் மெழுகுவர்த்தி ஏற்றினோம் → 停電 (மின்வெட்டு). 火災 (தீ விபத்து) என்றால் மெழுகுவர்த்தி ஏற்றுவது பொருந்தாது.",
+        "explanation_en": "The power went off, so we lit candles → 停電 (மின்வெட்டு, power cut). With 火災 (a fire), lighting candles makes no sense."
+      },
+      {
+        "id": "L10-q08", "type": "vocab_context",
+        "sentence": "ダイエット中なので、毎朝 体重を （　　）います。",
+        "options": ["測って", "焚いて", "結んで", "傷めて"], "answer": 0,
+        "explanation_ta": "体重を測る = எடையை அளக்க. 焚く (தீ மூட்ட), 結ぶ (கட்ட), 傷める (சேதப்படுத்த) எடையுடன் பொருந்தாது.",
+        "explanation_en": "体重を測る means \"to check your weight\" (எடையை அளக்க). 焚く (make a fire), 結ぶ (tie) and 傷める (damage) do not fit."
+      },
+      {
+        "id": "L10-q09", "type": "vocab_context",
+        "sentence": "道で 財布を 落としましたが、（　　）親切な 人が 交番に 届けて くれました。",
+        "options": ["あいにく", "非常に", "幸い", "不幸に"], "answer": 2,
+        "explanation_ta": "பணப்பை கிடைத்தது நல்ல விஷயம் → 幸い (நல்லவேளையாக). あいにく (துரதிர்ஷ்டவசமாக) கெட்ட செய்திக்கு முன் வரும்.",
+        "explanation_en": "Getting the wallet back is good news → 幸い (நல்லவேளையாக, fortunately). あいにく (unfortunately) comes before bad news."
+      },
+      {
+        "id": "L10-q10", "type": "vocab_context",
+        "sentence": "事故の 後、相手の 会社が 車の 修理代を （　　）して くれました。",
+        "options": ["救助", "補償", "損害", "消防"], "answer": 1,
+        "explanation_ta": "ஏற்பட்ட இழப்புக்குப் பணம் தருவது = 補償 (இழப்பீடு) する. 損害 (சேதம்) என்பது இழப்பே; அதை 'செய்து தருவது' பொருந்தாது.",
+        "explanation_en": "Paying money for a loss = 補償する (இழப்பீடு, compensate). 損害 is the loss itself. You cannot \"do\" a loss for someone."
+      },
+      {
+        "id": "L10-q11", "type": "paraphrase",
+        "sentence": "あいにく 店長は 今 いません。",
+        "options": ["運よく 店長は 今 いません。", "残念ですが、店長は 今 いません。", "幸い 店長は 今 いません。", "急に 店長は 今 いません。"], "answer": 1,
+        "explanation_ta": "あいにく = 'வருத்தமாக / துரதிர்ஷ்டவசமாக' → 残念ですが. 運よく, 幸い இரண்டும் 'நல்லவேளையாக' என்ற எதிர்ப் பொருள்.",
+        "explanation_en": "あいにく means \"I'm sorry, but / unfortunately\" → 残念ですが. 運よく and 幸い mean \"luckily\", the opposite."
+      },
+      {
+        "id": "L10-q12", "type": "paraphrase",
+        "sentence": "彼は 子どもの 時に 母親を 亡くしました。",
+        "options": ["彼は 子どもの 時に 母親を 見つけました。", "彼は 子どもの 時に 母親と 別れて 住みました。", "彼は 子どもの 時に 母親の 物を なくしました。", "彼が 子どもの 時に 母親が 亡くなりました。"], "answer": 3,
+        "explanation_ta": "亡くす = அன்புக்குரியவரை (மரணத்தால்) இழப்பது → 母親が亡くなった. なくす (無くす) என்றால் பொருளைத் தொலைப்பது; அது வேறு.",
+        "explanation_en": "亡くす means to lose a loved one who died → 母親が亡くなった. なくす (無くす) means to lose a thing. That is different."
+      },
+      {
+        "id": "L10-q13", "type": "usage",
+        "sentence": "遭う",
+        "options": ["駅で 偶然 友達に 遭いました。", "来週 先生に 遭う 予定です。", "帰る 途中で 大雨に 遭って、全身 ぬれて しまいました。", "この 服は 私に よく 遭います。"], "answer": 2,
+        "explanation_ta": "遭う = விபத்து, மழை போன்ற விரும்பாத நிகழ்வை எதிர்கொள்வது: 大雨に遭う. நண்பரையோ ஆசிரியரையோ சந்திப்பது 会う; உடை பொருந்துவது 合う.",
+        "explanation_en": "遭う is for meeting something bad, like an accident or heavy rain: 大雨に遭う. Meeting a friend or teacher is 会う. Clothes that suit you is 合う."
+      },
+      {
+        "id": "L10-q14", "type": "usage",
+        "sentence": "燃やす",
+        "options": ["火事で 古い 家が 燃やしました。", "寒いので ストーブで 部屋を 燃やして ください。", "熱が 燃やして、薬を 飲みました。", "集めた 落ち葉を 庭で 燃やしました。"], "answer": 3,
+        "explanation_ta": "燃やす = (ஒன்றை) எரிக்க; 'を' எடுக்கும் செயப்படுபொருள் வினை: 落ち葉を燃やす. 'வீடு எரிந்தது' என்பதற்கு 家が燃えた (燃える) வேண்டும். அறையைச் சூடாக்குவது 暖める.",
+        "explanation_en": "燃やす means to burn something. It takes を: 落ち葉を燃やす. \"The house burned\" needs 燃える: 家が燃えた. Warming a room is 暖める."
+      },
+      {
+        "id": "L10-q15", "type": "grammar_form",
+        "sentence": "先生が 丁寧に 教えて くださった （　　）、日本語が 上手に なりました。",
+        "options": ["せいで", "ものだから", "のに", "おかげで"], "answer": 3,
+        "explanation_ta": "ஆசிரியரின் உதவியால் நல்ல விளைவு → おかげで. せいで கெட்ட விளைவுக்கு மட்டும். のに என்றால் 'இருந்தும்' என்று எதிர்ப் பொருள் வரும்.",
+        "explanation_en": "A good result thanks to the teacher → おかげで. せいで is only for bad results. のに means \"even though\", which is the wrong meaning."
+      },
+      {
+        "id": "L10-q16", "type": "grammar_form",
+        "sentence": "雪の （　　）、電車が 二時間も 遅れた。",
+        "options": ["おかげで", "せいで", "ものだから", "のに"], "answer": 1,
+        "explanation_ta": "பனியால் ரயில் தாமதம் = கெட்ட விளைவு → 雪のせいで. ものだから பெயர்ச்சொல்லுடன் 雪なものだから என்று வர வேண்டும்; 雪のものだから தவறு.",
+        "explanation_en": "The train was late because of snow, a bad result → 雪のせいで. ものだから after a noun needs な: 雪のものだから is wrong."
+      },
+      {
+        "id": "L10-q17", "type": "grammar_form",
+        "sentence": "「どうして 電話に 出なかったの？」「ごめん、お風呂に 入って いた（　　）。」",
+        "options": ["ものだから", "おかげだ", "せいか", "せいだ"], "answer": 0,
+        "explanation_ta": "தன் நிலைமையை விளக்கிச் சாக்குச் சொல்வது → 〜ていたものだから. せいだ என்றால் 'அது குளித்ததன் குற்றம்' என்று விசித்திரமாகக் கேட்கும்; おかげだ நல்ல விளைவுக்கு.",
+        "explanation_en": "You explain your situation as an excuse → 〜ていたものだから. せいだ would sound like \"my bath is to blame\", which is odd. おかげだ is for good results."
+      },
+      {
+        "id": "L10-q18", "type": "grammar_form",
+        "sentence": "年の （　　）、最近 よく 物を 忘れる。",
+        "options": ["おかげで", "ものだから", "せいか", "せいだ"], "answer": 2,
+        "explanation_ta": "'வயதாலோ என்னவோ' என்று உறுதியில்லாத காரணம் → 年のせいか. 年のものだから இலக்கணப்படி தவறு; せいだ வாக்கியத்தின் நடுவில் வராது.",
+        "explanation_en": "\"Maybe because of my age\", an unsure reason → 年のせいか. 年のものだから is wrong grammar. せいだ cannot come in the middle of a sentence."
+      },
+      {
+        "id": "L10-q19", "type": "grammar_form",
+        "sentence": "試合に 負けたのは、私が ミスを した （　　）。",
+        "options": ["おかげだ", "ものだ", "せいか", "せいだ"], "answer": 3,
+        "explanation_ta": "〜のは 〜せいだ = 'அதற்குக் காரணம் (குற்றம்) 〜தான்'. தோல்வி கெட்ட விளைவு என்பதால் おかげだ பொருந்தாது. せいか வாக்கிய இறுதியில் இப்படி முடியாது.",
+        "explanation_en": "〜のは 〜せいだ means \"the cause (the fault) is ~\". Losing is bad, so おかげだ does not fit. せいか cannot end the sentence like this."
+      },
+      {
+        "id": "L10-q20", "type": "grammar_form",
+        "sentence": "道が 込んで いた（　　）、遅く なって しまいました。すみません。",
+        "options": ["もので", "おかげで", "せいか", "のに"], "answer": 0,
+        "explanation_ta": "மன்னிப்புக் கேட்டு, தாமதத்துக்குக் காரணம் சொல்வது → 〜もので. せいか என்றால் 'நெரிசலாலோ என்னவோ' என்று உறுதியின்றிக் கேட்கும்; தன் தாமதத்தின் காரணம் தனக்குத் தெரியும்.",
+        "explanation_en": "You say sorry and give the reason for being late → 〜もので. せいか means \"maybe because\". But you know why you were late."
+      },
+      {
+        "id": "L10-q21", "type": "grammar_form",
+        "sentence": "この 町は 静か（　　）おかげで、夜 よく 眠れます。",
+        "options": ["だ", "の", "な", "で"], "answer": 2,
+        "explanation_ta": "な-பெயரடை + おかげで → 静かなおかげで. の என்பது பெயர்ச்சொல்லுக்கு மட்டும் (先生のおかげで).",
+        "explanation_en": "な-adjective + おかげで → 静かなおかげで. の is only for nouns (先生のおかげで)."
+      },
+      {
+        "id": "L10-q22", "type": "sentence_order",
+        "before": "みなさんの", "chunks": ["応援の", "おかげで", "優勝", "することが"], "star": 1, "after": "できました。",
+        "explanation_ta": "みなさんの 応援の (உங்கள் எல்லோரின் ஆதரவின்) → おかげで (உதவியால்) → 優勝 することが できました (வெற்றி பெற முடிந்தது). ★ = おかげで.",
+        "explanation_en": "みなさんの応援の (your support) → おかげで (thanks to) → 優勝することができました (we could win). ★ = おかげで."
+      },
+      {
+        "id": "L10-q23", "type": "sentence_order",
+        "before": "朝ご飯を", "chunks": ["食べなかった", "せいか", "頭が", "働かない"], "star": 2, "after": "。",
+        "explanation_ta": "朝ご飯を 食べなかった (காலை உணவு சாப்பிடாததால்) → せいか (என்னவோ) → 頭が 働かない (மூளை வேலை செய்யவில்லை). ★ = 頭が.",
+        "explanation_en": "朝ご飯を食べなかった (I didn't eat breakfast) → せいか (maybe because) → 頭が働かない (my brain isn't working). ★ = 頭が."
+      },
+      {
+        "id": "L10-q24", "type": "sentence_order",
+        "before": "すみません、", "chunks": ["事故で", "電車が", "止まって いた", "もので"], "star": 3, "after": "、遅れました。",
+        "explanation_ta": "事故で (விபத்தால்) → 電車が 止まって いた (ரயில் நின்றிருந்தது) → もので (அதனால்தான்) → 遅れました. ★ = もので.",
+        "explanation_en": "事故で (because of an accident) → 電車が止まっていた (the train had stopped) → もので (that's why) → 遅れました. ★ = もので."
+      },
+      {
+        "id": "L10-q25", "type": "passage_cloze",
+        "passage": "先週、チェンナイで 大雨が 降りました。私の 家の 前の 道も 川のように なって、電気も 止まりました。［1］、家族は みんな 無事でした。近所の 人たちが 助けて くれた［2］、私たちは 近くの 学校へ 逃げる ことが できました。でも、雨の［3］、父の 車は 動かなく なって しまいました。次の 日、父は 会社の 人に「すみません、車が 動かなかった［4］、行けなかったんです。」と 電話で 説明しました。",
+        "blanks": [
+          { "options": ["あいにく", "幸い", "不幸に", "残念ながら"], "answer": 1 },
+          { "options": ["せいで", "せいか", "おかげで", "のに"], "answer": 2 },
+          { "options": ["おかげで", "ものだから", "のに", "せいで"], "answer": 3 },
+          { "options": ["おかげで", "せいか", "ものですから", "のに"], "answer": 2 }
+        ],
+        "explanation_ta": "［1］ வெள்ளத்திலும் குடும்பம் பாதுகாப்பாக இருந்தது நல்ல செய்தி → 幸い. ［2］ அண்டை வீட்டாரின் உதவியால் நல்ல விளைவு → おかげで. ［3］ மழையால் கார் பழுது, கெட்ட விளைவு → 雨のせいで. ［4］ வேலைக்குப் போகாததற்குச் சாக்குச் சொல்வது → 〜ものですから.",
+        "explanation_en": "[1] The family was safe in the flood. Good news → 幸い. [2] A good result thanks to the neighbours → おかげで. [3] The rain broke the car, a bad result → 雨のせいで. [4] Father gives an excuse for not coming to work → 〜ものですから."
+      }
+    ]
+  }
+}

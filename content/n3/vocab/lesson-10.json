@@ -1,0 +1,866 @@
+[
+  {
+    "id": "n3-v-0020",
+    "expression": "幸せ",
+    "reading": "しあわせ",
+    "romaji": "shiawase",
+    "en": "happiness; happy",
+    "ta": "மகிழ்ச்சி; மகிழ்ச்சியான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "家族と 一緒に いる 時が 一番 幸せです。",
+        "reading": "かぞくと いっしょに いる ときが いちばん しあわせです。",
+        "romaji": "kazoku to issho ni iru toki ga ichiban shiawase desu.",
+        "ta": "குடும்பத்தோடு இருக்கும் நேரம்தான் எனக்கு மிகவும் மகிழ்ச்சியான நேரம்.",
+        "en": "I am happiest when I am with my family."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0042",
+    "expression": "沈む",
+    "reading": "しずむ",
+    "romaji": "shizumu",
+    "en": "to sink; to set (sun)",
+    "ta": "மூழ்க; (சூரியன்) மறைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "カニャークマリで 海に 沈む 夕日を 見ました。",
+        "reading": "カニャークマリで うみに しずむ ゆうひを みました。",
+        "romaji": "kanyaakumari de umi ni shizumu yuuhi o mimashita.",
+        "ta": "கன்னியாகுமரியில் கடலில் மறையும் சூரியனைப் பார்த்தேன்.",
+        "en": "In Kanyakumari I watched the sun sink into the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0100",
+    "expression": "重大",
+    "reading": "じゅうだい",
+    "romaji": "juudai",
+    "en": "serious; grave",
+    "ta": "கடுமையான; மிக முக்கியமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "小さな ミスが 重大な 事故に つながる ことも あります。",
+        "reading": "ちいさな ミスが じゅうだいな じこに つながる ことも あります。",
+        "romaji": "chiisana misu ga juudai na jiko ni tsunagaru koto mo arimasu.",
+        "ta": "சிறிய தவறுகூட சில நேரம் கடுமையான விபத்துக்குக் காரணமாகலாம்.",
+        "en": "A small mistake can sometimes lead to a serious accident."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0131",
+    "expression": "障害",
+    "reading": "しょうがい",
+    "romaji": "shougai",
+    "en": "obstacle; disability",
+    "ta": "தடை; உடல் குறைபாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大雪の せいで、電車の 運行に 障害が 出ました。",
+        "reading": "おおゆきの せいで、でんしゃの うんこうに しょうがいが でました。",
+        "romaji": "ooyuki no sei de, densha no unkou ni shougai ga demashita.",
+        "ta": "கடும் பனிப்பொழிவால் ரயில் சேவையில் தடை ஏற்பட்டது.",
+        "en": "Because of heavy snow, train services were disrupted."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0156",
+    "expression": "消防",
+    "reading": "しょうぼう",
+    "romaji": "shoubou",
+    "en": "fire fighting; fire service",
+    "ta": "தீயணைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "消防の 車が サイレンを 鳴らして 走って いきました。",
+        "reading": "しょうぼうの くるまが サイレンを ならして はしって いきました。",
+        "romaji": "shoubou no kuruma ga sairen o narashite hashitte ikimashita.",
+        "ta": "தீயணைப்பு வண்டி சைரன் ஒலித்தபடி விரைந்து சென்றது.",
+        "en": "A fire engine raced past with its siren on."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0222",
+    "expression": "救う",
+    "reading": "すくう",
+    "romaji": "sukuu",
+    "en": "to save; to rescue",
+    "ta": "காப்பாற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "その 医者は 多くの 人の 命を 救いました。",
+        "reading": "その いしゃは おおくの ひとの いのちを すくいました。",
+        "romaji": "sono isha wa ooku no hito no inochi o sukuimashita.",
+        "ta": "அந்த மருத்துவர் பலரின் உயிரைக் காப்பாற்றினார்.",
+        "en": "That doctor saved many people's lives."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0258",
+    "expression": "所為",
+    "reading": "せい",
+    "romaji": "sei",
+    "en": "fault; blame",
+    "ta": "காரணம் (குற்றம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "遅れたのは 私の せいです。すみません。",
+        "reading": "おくれたのは わたしの せいです。すみません。",
+        "romaji": "okureta no wa watashi no sei desu. sumimasen.",
+        "ta": "தாமதமானது என் தவறுதான். மன்னிக்கவும்.",
+        "en": "It's my fault we were late. I'm sorry."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0303",
+    "expression": "あいにく",
+    "reading": "あいにく",
+    "romaji": "ainiku",
+    "en": "unfortunately",
+    "ta": "துரதிர்ஷ்டவசமாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "あいにく その 日は 用事が あって、行けません。",
+        "reading": "あいにく その ひは ようじが あって、いけません。",
+        "romaji": "ainiku sono hi wa youji ga atte, ikemasen.",
+        "ta": "துரதிர்ஷ்டவசமாக அன்று எனக்கு வேலை இருக்கிறது, வர முடியாது.",
+        "en": "Unfortunately I have plans that day, so I can't go."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0304",
+    "expression": "遭う",
+    "reading": "あう",
+    "romaji": "au",
+    "en": "to meet with (trouble)",
+    "ta": "(விபத்து, துன்பம்) எதிர்கொள்ள",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "旅行中に 事故に 遭いましたが、けがは ありませんでした。",
+        "reading": "りょこうちゅうに じこに あいましたが、けがは ありませんでした。",
+        "romaji": "ryokouchuu ni jiko ni aimashita ga, kega wa arimasen deshita.",
+        "ta": "பயணத்தின்போது விபத்தில் சிக்கினேன், ஆனால் காயம் எதுவும் இல்லை.",
+        "en": "I had an accident during the trip, but I wasn't hurt."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0337",
+    "expression": "粗",
+    "reading": "あら",
+    "romaji": "ara",
+    "en": "flaw; fault (in others)",
+    "ta": "குறை (மற்றவரிடம் காணும்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は いつも 人の あらばかり 探して います。",
+        "reading": "かれは いつも ひとの あらばかり さがして います。",
+        "romaji": "kare wa itsumo hito no ara bakari sagashite imasu.",
+        "ta": "அவன் எப்போதும் மற்றவர்களின் குறைகளையே தேடிக்கொண்டிருக்கிறான்.",
+        "en": "He is always looking for faults in other people."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0443",
+    "expression": "失う",
+    "reading": "うしなう",
+    "romaji": "ushinau",
+    "en": "to lose",
+    "ta": "இழக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "火事で 家を 失った 人たちを 町の みんなが 助けました。",
+        "reading": "かじで いえを うしなった ひとたちを まちの みんなが たすけました。",
+        "romaji": "kaji de ie o ushinatta hitotachi o machi no minna ga tasukemashita.",
+        "ta": "தீயில் வீட்டை இழந்தவர்களுக்கு ஊர் மக்கள் எல்லோரும் உதவினார்கள்.",
+        "en": "Everyone in town helped the people who lost their homes in the fire."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0464",
+    "expression": "運",
+    "reading": "うん",
+    "romaji": "un",
+    "en": "luck; fortune",
+    "ta": "அதிர்ஷ்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "運が よくて、最後の 一枚の チケットが 買えました。",
+        "reading": "うんが よくて、さいごの いちまいの チケットが かえました。",
+        "romaji": "un ga yokute, saigo no ichimai no chiketto ga kaemashita.",
+        "ta": "அதிர்ஷ்டவசமாக, கடைசி ஒரு டிக்கெட்டை வாங்க முடிந்தது.",
+        "en": "I was lucky and got the very last ticket."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0526",
+    "expression": "溺れる",
+    "reading": "おぼれる",
+    "romaji": "oboreru",
+    "en": "to drown; to be drowning",
+    "ta": "நீரில் மூழ்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "川で 溺れて いた 子どもを 近くの 人が 救いました。",
+        "reading": "かわで おぼれて いた こどもを ちかくの ひとが すくいました。",
+        "romaji": "kawa de oborete ita kodomo o chikaku no hito ga sukuimashita.",
+        "ta": "ஆற்றில் மூழ்கிக்கொண்டிருந்த குழந்தையை அருகில் இருந்தவர் காப்பாற்றினார்.",
+        "en": "Someone nearby saved a child who was drowning in the river."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0550",
+    "expression": "害",
+    "reading": "がい",
+    "romaji": "gai",
+    "en": "harm; damage",
+    "ta": "தீங்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "たばこは 体に 害が あります。",
+        "reading": "たばこは からだに がいが あります。",
+        "romaji": "tabako wa karada ni gai ga arimasu.",
+        "ta": "புகைபிடித்தல் உடலுக்குத் தீங்கு விளைவிக்கும்.",
+        "en": "Smoking is harmful to your body."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0601",
+    "expression": "火災",
+    "reading": "かさい",
+    "romaji": "kasai",
+    "en": "fire (disaster)",
+    "ta": "தீ விபத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨夜、駅の 近くの ビルで 火災が 起きました。",
+        "reading": "さくや、えきの ちかくの ビルで かさいが おきました。",
+        "romaji": "sakuya, eki no chikaku no biru de kasai ga okimashita.",
+        "ta": "நேற்று இரவு ரயில் நிலையம் அருகே உள்ள கட்டடத்தில் தீ விபத்து ஏற்பட்டது.",
+        "en": "Last night a fire broke out in a building near the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0708",
+    "expression": "傷",
+    "reading": "きず",
+    "romaji": "kizu",
+    "en": "wound; scratch",
+    "ta": "காயம்; கீறல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "新しい スマホに もう 傷が ついて しまいました。",
+        "reading": "あたらしい スマホに もう きずが ついて しまいました。",
+        "romaji": "atarashii sumaho ni mou kizu ga tsuite shimaimashita.",
+        "ta": "புதிய ஸ்மார்ட்போனில் ஏற்கனவே கீறல் விழுந்துவிட்டது.",
+        "en": "My new smartphone already has a scratch."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0740",
+    "expression": "救助",
+    "reading": "きゅうじょ",
+    "romaji": "kyuujo",
+    "en": "rescue",
+    "ta": "மீட்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "洪水の 後、たくさんの 人が ヘリコプターで 救助されました。",
+        "reading": "こうずいの あと、たくさんの ひとが ヘリコプターで きゅうじょされました。",
+        "romaji": "kouzui no ato, takusan no hito ga herikoputaa de kyuujo saremashita.",
+        "ta": "வெள்ளத்துக்குப் பிறகு பலர் ஹெலிகாப்டர் மூலம் மீட்கப்பட்டனர்.",
+        "en": "After the flood, many people were rescued by helicopter."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0843",
+    "expression": "欠陥",
+    "reading": "けっかん",
+    "romaji": "kekkan",
+    "en": "defect (in a product)",
+    "ta": "குறைபாடு (பழுது)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 車の ブレーキに 欠陥が 見つかりました。",
+        "reading": "この くるまの ブレーキに けっかんが みつかりました。",
+        "romaji": "kono kuruma no bureeki ni kekkan ga mitsukarimashita.",
+        "ta": "இந்தக் காரின் பிரேக்கில் ஒரு குறைபாடு கண்டுபிடிக்கப்பட்டது.",
+        "en": "A defect was found in this car's brakes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0848",
+    "expression": "欠点",
+    "reading": "けってん",
+    "romaji": "ketten",
+    "en": "weak point; flaw",
+    "ta": "குறை; பலவீனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の 欠点は 朝 早く 起きられない ことです。",
+        "reading": "わたしの けってんは あさ はやく おきられない ことです。",
+        "romaji": "watashi no ketten wa asa hayaku okirarenai koto desu.",
+        "ta": "காலையில் சீக்கிரம் எழுந்திருக்க முடியாததுதான் என் குறை.",
+        "en": "My weak point is that I can't get up early."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0850",
+    "expression": "煙",
+    "reading": "けむり",
+    "romaji": "kemuri",
+    "en": "smoke",
+    "ta": "புகை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台所から 煙が 出て いて、びっくりしました。",
+        "reading": "だいどころから けむりが でて いて、びっくりしました。",
+        "romaji": "daidokoro kara kemuri ga dete ite, bikkuri shimashita.",
+        "ta": "சமையலறையிலிருந்து புகை வந்ததைப் பார்த்து அதிர்ந்துபோனேன்.",
+        "en": "Smoke was coming from the kitchen, and I got a shock."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0877",
+    "expression": "幸運",
+    "reading": "こううん",
+    "romaji": "kouun",
+    "en": "good luck",
+    "ta": "நல்ல அதிர்ஷ்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試験の 前に 先生が「幸運を 祈って います」と 言いました。",
+        "reading": "しけんの まえに せんせいが「こううんを いのって います」と いいました。",
+        "romaji": "shiken no mae ni sensei ga \"kouun o inotte imasu\" to iimashita.",
+        "ta": "தேர்வுக்கு முன் ஆசிரியர் \"உங்களுக்கு நல்ல அதிர்ஷ்டம் கிடைக்கட்டும்\" என்றார்.",
+        "en": "Before the exam, the teacher said, \"I wish you good luck.\""
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0901",
+    "expression": "幸福",
+    "reading": "こうふく",
+    "romaji": "koufuku",
+    "en": "happiness; well-being",
+    "ta": "இன்பம்; நல்வாழ்வு",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "両親は いつも 子どもの 幸福を 願って います。",
+        "reading": "りょうしんは いつも こどもの こうふくを ねがって います。",
+        "romaji": "ryoushin wa itsumo kodomo no koufuku o negatte imasu.",
+        "ta": "பெற்றோர் எப்போதும் பிள்ளைகளின் நல்வாழ்வையே வேண்டுகிறார்கள்.",
+        "en": "Parents always wish for their children's happiness."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0931",
+    "expression": "骨折",
+    "reading": "こっせつ",
+    "romaji": "kossetsu",
+    "en": "broken bone; fracture",
+    "ta": "எலும்பு முறிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "クリケットの 練習中に 指を 骨折しました。",
+        "reading": "クリケットの れんしゅうちゅうに ゆびを こっせつしました。",
+        "romaji": "kuriketto no renshuuchuu ni yubi o kossetsu shimashita.",
+        "ta": "கிரிக்கெட் பயிற்சியின்போது விரல் எலும்பு முறிந்தது.",
+        "en": "I broke my finger during cricket practice."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0969",
+    "expression": "幸い",
+    "reading": "さいわい",
+    "romaji": "saiwai",
+    "en": "fortunately",
+    "ta": "நல்லவேளையாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "幸い、火事で けがを した 人は いませんでした。",
+        "reading": "さいわい、かじで けがを した ひとは いませんでした。",
+        "romaji": "saiwai, kaji de kega o shita hito wa imasen deshita.",
+        "ta": "நல்லவேளையாக, தீ விபத்தில் யாருக்கும் காயம் ஏற்படவில்லை.",
+        "en": "Fortunately, nobody was hurt in the fire."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1038",
+    "expression": "結ぶ",
+    "reading": "むすぶ",
+    "romaji": "musubu",
+    "en": "to tie; to link",
+    "ta": "கட்ட; இணைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "靴の ひもを しっかり 結んで から 走りましょう。",
+        "reading": "くつの ひもを しっかり むすんで から はしりましょう。",
+        "romaji": "kutsu no himo o shikkari musunde kara hashirimashou.",
+        "ta": "ஷூ லேஸை நன்றாகக் கட்டிவிட்டு ஓடுவோம்.",
+        "en": "Let's tie our shoelaces tightly before we run."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1064",
+    "expression": "燃える",
+    "reading": "もえる",
+    "romaji": "moeru",
+    "en": "to burn (by itself)",
+    "ta": "எரிய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "山火事で 森が 三日間 燃え続けました。",
+        "reading": "やまかじで もりが みっかかん もえつづけました。",
+        "romaji": "yamakaji de mori ga mikkakan moetsuzukemashita.",
+        "ta": "காட்டுத் தீயால் காடு மூன்று நாள் தொடர்ந்து எரிந்தது.",
+        "en": "In the wildfire, the forest kept burning for three days."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1085",
+    "expression": "燃やす",
+    "reading": "もやす",
+    "romaji": "moyasu",
+    "en": "to burn (something)",
+    "ta": "எரிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "庭で ごみを 燃やしては いけません。",
+        "reading": "にわで ごみを もやしては いけません。",
+        "romaji": "niwa de gomi o moyashite wa ikemasen.",
+        "ta": "தோட்டத்தில் குப்பையை எரிக்கக் கூடாது.",
+        "en": "You must not burn rubbish in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1220",
+    "expression": "傷める",
+    "reading": "いためる",
+    "romaji": "itameru",
+    "en": "to damage; to harm",
+    "ta": "சேதப்படுத்த",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "強い 日差しは 髪を 傷めます。",
+        "reading": "つよい ひざしは かみを いためます。",
+        "romaji": "tsuyoi hizashi wa kami o itamemasu.",
+        "ta": "கடுமையான வெயில் முடியைச் சேதப்படுத்தும்.",
+        "en": "Strong sunlight damages your hair."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1309",
+    "expression": "全身",
+    "reading": "ぜんしん",
+    "romaji": "zenshin",
+    "en": "the whole body",
+    "ta": "முழு உடல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "急に 雨が 降って、全身 ぬれて しまいました。",
+        "reading": "きゅうに あめが ふって、ぜんしん ぬれて しまいました。",
+        "romaji": "kyuu ni ame ga futte, zenshin nurete shimaimashita.",
+        "ta": "திடீரென்று மழை பெய்ததால் உடல் முழுவதும் நனைந்துவிட்டது.",
+        "en": "It suddenly rained, and I got wet all over."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1333",
+    "expression": "備える",
+    "reading": "そなえる",
+    "romaji": "sonaeru",
+    "en": "to prepare for",
+    "ta": "முன்னேற்பாடு செய்ய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "台風に 備えて、水と 食べ物を 買って おきました。",
+        "reading": "たいふうに そなえて、みずと たべものを かって おきました。",
+        "romaji": "taifuu ni sonaete, mizu to tabemono o katte okimashita.",
+        "ta": "புயலுக்கு முன்னேற்பாடாகத் தண்ணீரும் உணவும் வாங்கி வைத்தேன்.",
+        "en": "I bought water and food to prepare for the typhoon."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1347",
+    "expression": "損",
+    "reading": "そん",
+    "romaji": "son",
+    "en": "loss; disadvantage",
+    "ta": "நஷ்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "安い 物を 買って すぐ 壊れたら、損ですよ。",
+        "reading": "やすい ものを かって すぐ こわれたら、そんですよ。",
+        "romaji": "yasui mono o katte sugu kowaretara, son desu yo.",
+        "ta": "மலிவான பொருள் வாங்கி அது உடனே உடைந்தால், நஷ்டம்தான்.",
+        "en": "If you buy something cheap and it breaks at once, you lose out."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1348",
+    "expression": "損害",
+    "reading": "そんがい",
+    "romaji": "songai",
+    "en": "damage; loss",
+    "ta": "சேதம்; இழப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大雨で 農家は 大きな 損害を 受けました。",
+        "reading": "おおあめで のうかは おおきな そんがいを うけました。",
+        "romaji": "ooame de nouka wa ookina songai o ukemashita.",
+        "ta": "கனமழையால் விவசாயிகள் பெரும் இழப்பைச் சந்தித்தனர்.",
+        "en": "Farmers suffered heavy losses from the heavy rain."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1393",
+    "expression": "焚く",
+    "reading": "たく",
+    "romaji": "taku",
+    "en": "to make (a fire)",
+    "ta": "(தீ) மூட்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "キャンプで 火を 焚いて、みんなで 歌を 歌いました。",
+        "reading": "キャンプで ひを たいて、みんなで うたを うたいました。",
+        "romaji": "kyanpu de hi o taite, minna de uta o utaimashita.",
+        "ta": "முகாமில் தீ மூட்டி எல்லோரும் சேர்ந்து பாடினோம்.",
+        "en": "At the camp we made a fire and sang songs together."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1399",
+    "expression": "助かる",
+    "reading": "たすかる",
+    "romaji": "tasukaru",
+    "en": "to be saved; to be a help",
+    "ta": "உயிர் பிழைக்க; உதவியாக இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "手伝って くれて、本当に 助かりました。",
+        "reading": "てつだって くれて、ほんとうに たすかりました。",
+        "romaji": "tetsudatte kurete, hontou ni tasukarimashita.",
+        "ta": "நீங்கள் உதவியது எனக்கு ரொம்ப உதவியாக இருந்தது.",
+        "en": "Thank you for helping. It was a real help."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1544",
+    "expression": "停電",
+    "reading": "ていでん",
+    "romaji": "teiden",
+    "en": "power cut",
+    "ta": "மின்வெட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "嵐の 夜、町全体が 停電に なりました。",
+        "reading": "あらしの よる、まちぜんたいが ていでんに なりました。",
+        "romaji": "arashi no yoru, machi zentai ga teiden ni narimashita.",
+        "ta": "புயல் வீசிய இரவில் நகரம் முழுவதும் மின்வெட்டு ஏற்பட்டது.",
+        "en": "On the stormy night, the whole town lost power."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1655",
+    "expression": "亡くす",
+    "reading": "なくす",
+    "romaji": "nakusu",
+    "en": "to lose (a loved one)",
+    "ta": "(அன்புக்குரியவரை) இழக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "彼女は 小さい 時に 父親を 亡くしました。",
+        "reading": "かのじょは ちいさい ときに ちちおやを なくしました。",
+        "romaji": "kanojo wa chiisai toki ni chichioya o nakushimashita.",
+        "ta": "அவள் சிறுவயதிலேயே தந்தையை இழந்தாள்.",
+        "en": "She lost her father when she was little."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1738",
+    "expression": "灰",
+    "reading": "はい",
+    "romaji": "hai",
+    "en": "ash",
+    "ta": "சாம்பல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "火山の 灰が 町中に 降りました。",
+        "reading": "かざんの はいが まちじゅうに ふりました。",
+        "romaji": "kazan no hai ga machijuu ni furimashita.",
+        "ta": "எரிமலைச் சாம்பல் நகரம் முழுவதும் விழுந்தது.",
+        "en": "Volcanic ash fell all over the town."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1752",
+    "expression": "測る",
+    "reading": "はかる",
+    "romaji": "hakaru",
+    "en": "to measure",
+    "ta": "அளக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "熱が ありそうなので、体温を 測って みます。",
+        "reading": "ねつが ありそうなので、たいおんを はかって みます。",
+        "romaji": "netsu ga arisou na node, taion o hakatte mimasu.",
+        "ta": "காய்ச்சல் இருப்பது போலத் தெரிகிறது, உடல் வெப்பநிலையை அளந்து பார்க்கிறேன்.",
+        "en": "I think I have a fever, so I'll take my temperature."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1757",
+    "expression": "爆発",
+    "reading": "ばくはつ",
+    "romaji": "bakuhatsu",
+    "en": "explosion",
+    "ta": "வெடிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "工場で ガスが 爆発して、窓ガラスが 割れました。",
+        "reading": "こうじょうで ガスが ばくはつして、まどガラスが われました。",
+        "romaji": "koujou de gasu ga bakuhatsu shite, madogarasu ga waremashita.",
+        "ta": "தொழிற்சாலையில் எரிவாயு வெடித்து ஜன்னல் கண்ணாடிகள் உடைந்தன.",
+        "en": "Gas exploded at the factory and the windows broke."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1811",
+    "expression": "被害",
+    "reading": "ひがい",
+    "romaji": "higai",
+    "en": "damage (from a disaster)",
+    "ta": "பாதிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台風で 海の 近くの 村に 大きな 被害が 出ました。",
+        "reading": "たいふうで うみの ちかくの むらに おおきな ひがいが でました。",
+        "romaji": "taifuu de umi no chikaku no mura ni ookina higai ga demashita.",
+        "ta": "புயலால் கடலோர கிராமங்களுக்குப் பெரும் பாதிப்பு ஏற்பட்டது.",
+        "en": "The typhoon caused heavy damage to villages near the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1816",
+    "expression": "膝",
+    "reading": "ひざ",
+    "romaji": "hiza",
+    "en": "knee; lap",
+    "ta": "முழங்கால்; மடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "階段で 転んで、膝を けがしました。",
+        "reading": "かいだんで ころんで、ひざを けがしました。",
+        "romaji": "kaidan de koronde, hiza o kega shimashita.",
+        "ta": "படிக்கட்டில் விழுந்து முழங்காலில் காயம் பட்டது.",
+        "en": "I fell on the stairs and hurt my knee."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1817",
+    "expression": "非常",
+    "reading": "ひじょう",
+    "romaji": "hijou",
+    "en": "emergency; extraordinary",
+    "ta": "அவசரநிலை; அசாதாரணமான",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "非常の 時は、この 階段を 使って ください。",
+        "reading": "ひじょうの ときは、この かいだんを つかって ください。",
+        "romaji": "hijou no toki wa, kono kaidan o tsukatte kudasai.",
+        "ta": "அவசர நேரத்தில் இந்தப் படிக்கட்டைப் பயன்படுத்துங்கள்.",
+        "en": "In an emergency, please use these stairs."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1870",
+    "expression": "不幸",
+    "reading": "ふこう",
+    "romaji": "fukou",
+    "en": "misfortune; unhappy",
+    "ta": "துரதிர்ஷ்டம்; துக்கம்",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "友達の 家で 不幸が あったので、お葬式に 行きます。",
+        "reading": "ともだちの いえで ふこうが あったので、おそうしきに いきます。",
+        "romaji": "tomodachi no ie de fukou ga atta node, osoushiki ni ikimasu.",
+        "ta": "நண்பரின் வீட்டில் ஒரு துக்கம் (இறப்பு) நடந்ததால், இறுதிச் சடங்குக்குப் போகிறேன்.",
+        "en": "There was a death in my friend's family, so I'm going to the funeral."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1872",
+    "expression": "無事",
+    "reading": "ぶじ",
+    "romaji": "buji",
+    "en": "safe; safely",
+    "ta": "பாதுகாப்பாக; நலமாக",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "飛行機は 無事に 空港に 着きました。",
+        "reading": "ひこうきは ぶじに くうこうに つきました。",
+        "romaji": "hikouki wa buji ni kuukou ni tsukimashita.",
+        "ta": "விமானம் பாதுகாப்பாக விமான நிலையத்தை அடைந்தது.",
+        "en": "The plane arrived safely at the airport."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1886",
+    "expression": "不通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "en": "suspension (of service)",
+    "ta": "(போக்குவரத்து, தொடர்பு) துண்டிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大雨で 線路が 壊れて、電車が 不通に なりました。",
+        "reading": "おおあめで せんろが こわれて、でんしゃが ふつうに なりました。",
+        "romaji": "ooame de senro ga kowarete, densha ga futsuu ni narimashita.",
+        "ta": "கனமழையால் தண்டவாளம் சேதமடைந்து ரயில் சேவை நின்றுபோனது.",
+        "en": "Heavy rain damaged the tracks, and the trains stopped running."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1950",
+    "expression": "骨",
+    "reading": "ほね",
+    "romaji": "hone",
+    "en": "bone",
+    "ta": "எலும்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "魚の 骨が のどに 刺さって しまいました。",
+        "reading": "さかなの ほねが のどに ささって しまいました。",
+        "romaji": "sakana no hone ga nodo ni sasatte shimaimashita.",
+        "ta": "மீன் முள் தொண்டையில் சிக்கிக்கொண்டது.",
+        "en": "A fish bone got stuck in my throat."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1951",
+    "expression": "炎",
+    "reading": "ほのお",
+    "romaji": "honoo",
+    "en": "flame",
+    "ta": "சுடர்; தீச்சுவாலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ろうそくの 炎が 風で 揺れて います。",
+        "reading": "ろうそくの ほのおが かぜで ゆれて います。",
+        "romaji": "rousoku no honoo ga kaze de yurete imasu.",
+        "ta": "மெழுகுவர்த்தியின் சுடர் காற்றில் அசைகிறது.",
+        "en": "The candle flame is flickering in the wind."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2118",
+    "expression": "補償",
+    "reading": "ほしょう",
+    "romaji": "hoshou",
+    "en": "compensation",
+    "ta": "இழப்பீடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "事故の 被害者は 会社から 補償を 受けました。",
+        "reading": "じこの ひがいしゃは かいしゃから ほしょうを うけました。",
+        "romaji": "jiko no higaisha wa kaisha kara hoshou o ukemashita.",
+        "ta": "விபத்தில் பாதிக்கப்பட்டவர்கள் நிறுவனத்திடமிருந்து இழப்பீடு பெற்றனர்.",
+        "en": "The accident victims received compensation from the company."
+      }
+    ]
+  }
+]

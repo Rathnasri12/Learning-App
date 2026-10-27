@@ -1,0 +1,429 @@
+{
+  "unit": 20,
+  "title": { "en": "Home, rules and crime", "ta": "வீடு, அனுமதி, குற்றம்" },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for home life, permission and crime: 妻 (wife), 居 (to be, live), 許 (allow), 罪 (crime), 犯 (commit a crime) and more. Tip: 精 (spirit, rice 米) and 情 (feelings, heart 忄) share 青, so look at the left side.",
+    "ta": "இந்தப் பாடத்தில் வீட்டு வாழ்க்கை, அனுமதி, குற்றம் பற்றிய 14 கான்ஜிகளைக் கற்கிறீர்கள்: 妻 (மனைவி), 居 (இரு, வசி), 許 (அனுமதி), 罪 (குற்றம்), 犯 (குற்றம் செய்) போன்றவை. குறிப்பு: 精 (ஆன்மா, அரிசி 米), 情 (உணர்வு, இதயம் 忄) இரண்டிலும் 青 உண்டு; இடப்பக்கத்தைக் கவனியுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "妻",
+      "meaning": { "en": "wife", "ta": "மனைவி" },
+      "on": ["さい"],
+      "kun": ["つま"],
+      "mnemonic": {
+        "en": "A hand (ヨ) puts a hairpin (十) into the hair of a woman (女). She is getting ready for her wedding. Now she is a wife.",
+        "ta": "ஒரு கை (ヨ) ஒரு பெண்ணின் (女) கூந்தலில் கொண்டை ஊசியை (十) செருகுகிறது. அவள் கல்யாணத்துக்குத் தயாராகிறாள். இனி அவள் மனைவி."
+      },
+      "note": {
+        "en": "妻 (つま) is for your own wife. For someone else’s wife, say 奥さん (おくさん).",
+        "ta": "妻 (つま) = என் மனைவி. மற்றவரின் மனைவியைச் சொல்ல 奥さん (おくさん)."
+      },
+      "examples": [
+        { "word": "妻", "reading": "つま", "en": "(my) wife", "ta": "மனைவி", "vocabId": "n4-v-445" },
+        { "word": "夫妻", "reading": "ふさい", "en": "husband and wife, Mr and Mrs", "ta": "கணவன் மனைவி (தம்பதியர்)" },
+        { "word": "妻子", "reading": "さいし", "en": "wife and children", "ta": "மனைவி மக்கள்" }
+      ]
+    },
+    {
+      "kanji": "険",
+      "meaning": { "en": "steep, dangerous", "ta": "செங்குத்தான, ஆபத்தான" },
+      "on": ["けん"],
+      "kun": ["けわ.しい"],
+      "mnemonic": {
+        "en": "A hill (阝) on the left. On the right, many people (人) crowd together under one roof (人) on the side of the steep hill. One wrong step and they fall. It is dangerous!",
+        "ta": "இடப்பக்கம் குன்று (阝). வலப்பக்கம் செங்குத்தான குன்றின் ஓரத்தில் ஒரே கூரையின் (人) கீழ் பலர் (人) நெருக்கமாக நிற்கிறார்கள். ஒரு தவறான அடி வைத்தால் விழுவார்கள். ஆபத்து!"
+      },
+      "note": {
+        "en": "Don’t mix up 険 (dangerous, hill 阝) with 験 (test, horse 馬) and 検 (check, wood 木). All three are けん.",
+        "ta": "険 (ஆபத்து, குன்று 阝), 験 (சோதனை, குதிரை 馬), 検 (பரிசோதனை, மரம் 木) மூன்றும் けん; குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "危険", "reading": "きけん", "en": "dangerous; danger", "ta": "ஆபத்தான (ஆபத்து)", "vocabId": "n4-v-451" },
+        { "word": "険しい", "reading": "けわしい", "en": "steep; stern", "ta": "செங்குத்தான; கடுமையான" },
+        { "word": "危険性", "reading": "きけんせい", "en": "risk, danger", "ta": "ஆபத்து வாய்ப்பு" }
+      ]
+    },
+    {
+      "kanji": "許",
+      "meaning": { "en": "allow; forgive", "ta": "அனுமதி; மன்னி" },
+      "on": ["きょ"],
+      "kun": ["ゆる.す"],
+      "mnemonic": {
+        "en": "Words (言) at noon (午). At noon the boss says the magic words: ‘OK, you may go for lunch.’ 許す = to allow.",
+        "ta": "மதியம் (午) சொல்லப்படும் சொற்கள் (言). மதியம் முதலாளி மந்திரச் சொல்லைச் சொல்கிறார்: ‘சரி, சாப்பிடப் போகலாம்.’ 許す = அனுமதிக்க."
+      },
+      "note": {
+        "en": "許す also means ‘to forgive’. 免許 (めんきょ) is a driving licence.",
+        "ta": "許す = மன்னிக்க என்றும் பொருள். 免許 (めんきょ) = ஓட்டுநர் உரிமம்."
+      },
+      "examples": [
+        { "word": "許す", "reading": "ゆるす", "en": "to allow; to forgive", "ta": "அனுமதிக்க; மன்னிக்க", "vocabId": "n3-v-1120" },
+        { "word": "許し", "reading": "ゆるし", "en": "permission; forgiveness", "ta": "அனுமதி; மன்னிப்பு" },
+        { "word": "特許", "reading": "とっきょ", "en": "patent", "ta": "காப்புரிமை" }
+      ]
+    },
+    {
+      "kanji": "留",
+      "meaning": { "en": "stay, stop; fasten", "ta": "தங்கு, நிறுத்து; பொருத்து" },
+      "on": ["りゅう", "る"],
+      "kun": ["と.める"],
+      "mnemonic": {
+        "en": "Above the rice field (田) is a gate with two open doors. The farmer locks the gate and stays at the field to guard it. 留 = stay, stop.",
+        "ta": "வயலின் (田) மேல் இரண்டு கதவுகள் திறந்த ஒரு வாசல். விவசாயி வாசலைப் பூட்டிவிட்டு வயலைக் காவல் காக்க அங்கேயே தங்குகிறார். 留 = தங்கு, நிறுத்து."
+      },
+      "note": {
+        "en": "留守 (away from home) uses the rare reading る. 留学 is りゅう (long).",
+        "ta": "留守 (வீட்டில் இல்லாமை)-இல் அரிய வாசிப்பு る. 留学-இல் りゅう (நீண்ட ஒலி)."
+      },
+      "examples": [
+        { "word": "留学", "reading": "りゅうがく", "en": "studying abroad", "ta": "வெளிநாட்டில் படிப்பு", "vocabId": "n3-v-1167" },
+        { "word": "留守", "reading": "るす", "en": "being away from home", "ta": "வீட்டில் இல்லாமை", "vocabId": "n4-v-487" },
+        { "word": "留める", "reading": "とめる", "en": "to fasten, to pin", "ta": "பொருத்த, குத்தி வைக்க", "vocabId": "n3-v-1623" }
+      ]
+    },
+    {
+      "kanji": "罪",
+      "meaning": { "en": "crime, sin", "ta": "குற்றம், பாவம்" },
+      "on": ["ざい"],
+      "kun": ["つみ"],
+      "mnemonic": {
+        "en": "A net (罒) comes down on top of 非 (wrong). The man who did wrong is caught in the net for his crime.",
+        "ta": "非 (தவறு) மேல் ஒரு வலை (罒) விழுகிறது. தவறு செய்தவன் தன் குற்றத்துக்காக வலையில் சிக்குகிறான்."
+      },
+      "examples": [
+        { "word": "罪", "reading": "つみ", "en": "crime, guilt", "ta": "குற்றம், பாவம்", "vocabId": "n3-v-1528" },
+        { "word": "犯罪", "reading": "はんざい", "en": "crime", "ta": "குற்றச்செயல்", "vocabId": "n3-v-1803" },
+        { "word": "罪人", "reading": "ざいにん", "en": "criminal, sinner", "ta": "குற்றவாளி, பாவி" }
+      ]
+    },
+    {
+      "kanji": "精",
+      "meaning": { "en": "spirit, energy; refined", "ta": "ஆன்மா, ஆற்றல்; தூய்மையான" },
+      "on": ["せい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Rice (米) next to 青 (fresh, pure). The rice is polished until it is clean and fresh. Pure rice gives you energy and a strong spirit.",
+        "ta": "அரிசி (米) அருகே 青 (புதிய, தூய்மையான). அரிசி சுத்தமாகும் வரை தீட்டப்படுகிறது. தூய அரிசி ஆற்றலையும் வலிமையான மனதையும் தருகிறது."
+      },
+      "note": {
+        "en": "精 (rice 米, せい), 晴 (sun 日, せい), 情 (heart 忄, じょう). Look at the left side.",
+        "ta": "精 (அரிசி 米, せい), 晴 (சூரியன் 日, せい), 情 (இதயம் 忄, じょう). இடப்பக்கத்தைக் கவனியுங்கள்."
+      },
+      "examples": [
+        { "word": "精神", "reading": "せいしん", "en": "mind, spirit", "ta": "மனம், ஆன்மா", "vocabId": "n3-v-0270" },
+        { "word": "精算", "reading": "せいさん", "en": "settling (a fare or bill)", "ta": "மீதிக் கட்டணம் செலுத்திக் கணக்கை முடித்தல்", "vocabId": "n3-v-2038" },
+        { "word": "精一杯", "reading": "せいいっぱい", "en": "with all your might", "ta": "முழு முயற்சியுடன்" }
+      ]
+    },
+    {
+      "kanji": "絶",
+      "meaning": { "en": "cut off, end; absolutely", "ta": "துண்டி, முடிவு; கண்டிப்பாக" },
+      "on": ["ぜつ"],
+      "kun": ["た.える"],
+      "mnemonic": {
+        "en": "A thread (糸) next to colour (色). The weaver cuts the coloured thread, and that colour ends. 絶 = cut off, end. 絶対 = with no way out: absolutely.",
+        "ta": "நூல் (糸) அருகே நிறம் (色). நெசவாளர் வண்ண நூலைத் துண்டிக்கிறார்; அந்த நிறம் அங்கே முடிகிறது. 絶 = துண்டி, முடிவு. 絶対 = வேறு வழியே இல்லை: கண்டிப்பாக."
+      },
+      "note": {
+        "en": "絶対 is ぜったい, with a small っ.",
+        "ta": "絶対 = ぜったい (சிறிய っ உண்டு)."
+      },
+      "examples": [
+        { "word": "絶対", "reading": "ぜったい", "en": "definitely, absolutely", "ta": "நிச்சயமாக, கண்டிப்பாக", "vocabId": "n3-v-0294" },
+        { "word": "絶える", "reading": "たえる", "en": "to die out, to end", "ta": "அழிந்துபோக, நின்றுபோக" },
+        { "word": "気絶", "reading": "きぜつ", "en": "fainting", "ta": "மயக்கம்" }
+      ]
+    },
+    {
+      "kanji": "居",
+      "meaning": { "en": "be, live (somewhere)", "ta": "இரு, வசி" },
+      "on": ["きょ"],
+      "kun": ["い.る"],
+      "mnemonic": {
+        "en": "Under a roof (尸) sits an old (古) man. He has lived in this house for a very long time. 居 = to be, to live.",
+        "ta": "கூரையின் (尸) கீழ் ஒரு வயதான (古) தாத்தா அமர்ந்திருக்கிறார். இந்த வீட்டில் அவர் ரொம்ப காலமாக வசிக்கிறார். 居 = இரு, வசி."
+      },
+      "note": {
+        "en": "居る (to be) is usually written in kana: いる. 居間 (いま, living room) sounds like 今 (now).",
+        "ta": "居る (இருக்க) பொதுவாக கானாவில் いる என்றே எழுதப்படும். 居間 (いま, வரவேற்பறை) 今 (இப்போது) போலவே ஒலிக்கும்."
+      },
+      "examples": [
+        { "word": "居間", "reading": "いま", "en": "living room", "ta": "வரவேற்பறை (குடும்ப அறை)", "vocabId": "n3-v-0414" },
+        { "word": "居る", "reading": "いる", "en": "to be (living things)", "ta": "இருக்க (உயிருள்ளவை)", "vocabId": "n5-v-071" },
+        { "word": "住居", "reading": "じゅうきょ", "en": "home, residence", "ta": "வசிப்பிடம்" }
+      ]
+    },
+    {
+      "kanji": "雑",
+      "meaning": { "en": "mixed, miscellaneous", "ta": "கலவை, பலவகை" },
+      "on": ["ざつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Nine (九) trees (木) on the left and a bird (隹) on the right. Nine kinds of trees and birds of every colour, all mixed together in one noisy forest. 雑 = mixed.",
+        "ta": "இடப்பக்கம் ஒன்பது (九) மரங்கள் (木), வலப்பக்கம் பறவை (隹). ஒன்பது வகை மரங்களும் பல நிறப் பறவைகளும் ஒரே சத்தமான காட்டில் கலந்திருக்கின்றன. 雑 = கலவை."
+      },
+      "note": {
+        "en": "雑誌 is ざっし: ざつ becomes ざっ (small っ).",
+        "ta": "雑誌 = ざっし: ざつ என்பது ざっ ஆகிறது (சிறிய っ)."
+      },
+      "examples": [
+        { "word": "雑誌", "reading": "ざっし", "en": "magazine", "ta": "இதழ் (பத்திரிகை)", "vocabId": "n5-v-283" },
+        { "word": "複雑", "reading": "ふくざつ", "en": "complicated", "ta": "சிக்கலான", "vocabId": "n4-v-065" },
+        { "word": "雑音", "reading": "ざつおん", "en": "noise", "ta": "இரைச்சல்" }
+      ]
+    },
+    {
+      "kanji": "招",
+      "meaning": { "en": "invite, beckon", "ta": "அழை, வரவழை" },
+      "on": ["しょう"],
+      "kun": ["まね.く"],
+      "mnemonic": {
+        "en": "A hand (扌) waves, and on the right a mouth (口) under a sword-like hook (刀) calls out, ‘Come in!’ The hand and the mouth invite you.",
+        "ta": "ஒரு கை (扌) அசைகிறது; வலப்பக்கம் கொக்கி போன்ற (刀) அடையாளத்தின் கீழ் ஒரு வாய் (口) ‘உள்ளே வாருங்கள்!’ என்று அழைக்கிறது. கையும் வாயும் உங்களை அழைக்கின்றன."
+      },
+      "examples": [
+        { "word": "招待", "reading": "しょうたい", "en": "invitation; to invite", "ta": "அழைப்பு (அழைக்க)", "vocabId": "n4-v-297" },
+        { "word": "招く", "reading": "まねく", "en": "to invite; to beckon", "ta": "அழைக்க; கையசைத்துக் கூப்பிட", "vocabId": "n3-v-1997" },
+        { "word": "招待状", "reading": "しょうたいじょう", "en": "invitation card", "ta": "அழைப்பிதழ்" }
+      ]
+    },
+    {
+      "kanji": "賛",
+      "meaning": { "en": "agree; praise", "ta": "ஒப்புக்கொள்; பாராட்டு" },
+      "on": ["さん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Two men (夫 夫) stand side by side over shell money (貝). They both put their money into the plan. They agree!",
+        "ta": "சிப்பிப் பணத்தின் (貝) மேல் இரண்டு ஆண்கள் (夫 夫) அருகருகே நிற்கிறார்கள். இருவரும் திட்டத்தில் தங்கள் பணத்தைப் போடுகிறார்கள். ஒப்புக்கொண்டார்கள்!"
+      },
+      "note": {
+        "en": "賛成 (agree) is the opposite of 反対 (はんたい, oppose).",
+        "ta": "賛成 (ஆதரவு, ஒப்புதல்) என்பதன் எதிர்ச்சொல் 反対 (はんたい, எதிர்ப்பு)."
+      },
+      "examples": [
+        { "word": "賛成", "reading": "さんせい", "en": "agreement, approval", "ta": "ஒப்புதல், ஆதரவு", "vocabId": "n3-v-0015" },
+        { "word": "賛同", "reading": "さんどう", "en": "agreeing, support", "ta": "ஆதரவு தெரிவித்தல்" },
+        { "word": "自画自賛", "reading": "じがじさん", "en": "praising yourself", "ta": "தன்னைத் தானே புகழ்தல்" }
+      ]
+    },
+    {
+      "kanji": "犯",
+      "meaning": { "en": "commit (a crime)", "ta": "குற்றம் செய்" },
+      "on": ["はん"],
+      "kun": ["おか.す"],
+      "mnemonic": {
+        "en": "A wild dog (犭) jumps on a person who is kneeling (㔾). It is an attack: a crime.",
+        "ta": "ஒரு காட்டு நாய் (犭) மண்டியிட்டிருக்கும் ஒருவர் (㔾) மேல் பாய்கிறது. இது தாக்குதல்: குற்றம்."
+      },
+      "examples": [
+        { "word": "犯人", "reading": "はんにん", "en": "culprit, criminal", "ta": "குற்றவாளி", "vocabId": "n3-v-1807" },
+        { "word": "犯罪", "reading": "はんざい", "en": "crime", "ta": "குற்றச்செயல்", "vocabId": "n3-v-1803" },
+        { "word": "犯す", "reading": "おかす", "en": "to commit (a crime, a mistake)", "ta": "(குற்றம், தவறு) செய்ய" }
+      ]
+    },
+    {
+      "kanji": "似",
+      "meaning": { "en": "look like, resemble", "ta": "ஒத்திரு, போல இரு" },
+      "on": ["じ"],
+      "kun": ["に.る"],
+      "mnemonic": {
+        "en": "A person (亻) next to 以. 以 looks like a person standing with a small copy beside them. Two people who look the same: 似る = to look like.",
+        "ta": "மனிதர் (亻) அருகே 以. 以 என்பது பக்கத்தில் ஒரு சின்ன நகலுடன் நிற்கும் மனிதர் போலத் தெரியும். ஒரே மாதிரி தெரியும் இருவர்: 似る = ஒத்திருக்க."
+      },
+      "note": {
+        "en": "Use 似ている: 母に 似ています (I look like my mother). 真似 is read まね (copying).",
+        "ta": "似ている என்று பயன்படுத்துங்கள்: 母に 似ています (நான் அம்மாவைப் போல இருக்கிறேன்). 真似 = まね (பார்த்துச் செய்தல்)."
+      },
+      "examples": [
+        { "word": "似る", "reading": "にる", "en": "to look like, to resemble", "ta": "ஒத்திருக்க", "vocabId": "n4-v-484" },
+        { "word": "似合う", "reading": "にあう", "en": "to suit, to look good on", "ta": "பொருந்த, எடுப்பாக இருக்க", "vocabId": "n3-v-1677" },
+        { "word": "真似", "reading": "まね", "en": "copying, imitation", "ta": "பார்த்துச் செய்தல், போலி", "vocabId": "n3-v-1996" }
+      ]
+    },
+    {
+      "kanji": "迷",
+      "meaning": { "en": "get lost; be unsure", "ta": "வழி தவறு; தயங்கு" },
+      "on": ["めい"],
+      "kun": ["まよ.う"],
+      "mnemonic": {
+        "en": "Rice (米) has lines that point in many directions. Put it on a road (辶): the road splits in eight directions. Which way? You get lost.",
+        "ta": "அரிசி (米)-இன் கோடுகள் பல திசைகளில் போகின்றன. அதைச் சாலையில் (辶) வையுங்கள்: சாலை எட்டுத் திசைகளில் பிரிகிறது. எந்த வழி? வழி தவறிவிடுவீர்கள்."
+      },
+      "note": {
+        "en": "迷子 (lost child) has a special reading: まいご. 迷惑 (めいわく) means trouble, bother.",
+        "ta": "迷子 (வழி தவறிய குழந்தை) சிறப்பு வாசிப்பு: まいご. 迷惑 (めいわく) = தொந்தரவு."
+      },
+      "examples": [
+        { "word": "迷う", "reading": "まよう", "en": "to get lost; to be unsure", "ta": "வழி தவற; தயங்க, குழம்ப", "vocabId": "n3-v-1003" },
+        { "word": "迷子", "reading": "まいご", "en": "lost child", "ta": "வழி தவறிய குழந்தை", "vocabId": "n3-v-1966" },
+        { "word": "迷路", "reading": "めいろ", "en": "maze", "ta": "புதிர்ப்பாதை" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU20-q01",
+        "type": "kanji_reading",
+        "sentence": "＿妻＿は 銀行で 働いて います。",
+        "target": "妻",
+        "options": ["つま", "さい", "つめ", "づま"],
+        "answer": 0,
+        "explanation_en": "妻 alone is read つま (மனைவி, wife). さい is the on reading, used in words like 夫妻.",
+        "explanation_ta": "妻 தனியாக = つま (மனைவி, wife). さい என்பது on வாசிப்பு; 夫妻 போன்ற சொற்களில் வரும்."
+      },
+      {
+        "id": "KU20-q02",
+        "type": "kanji_reading",
+        "sentence": "この 川で 泳ぐのは ＿危険＿です。",
+        "target": "危険",
+        "options": ["きげん", "きけん", "ぎけん", "きっけん"],
+        "answer": 1,
+        "explanation_en": "危険 is read きけん (ஆபத்தான, dangerous). 険 is an unvoiced けん. きげん is 期限 (deadline).",
+        "explanation_ta": "危険 = きけん (ஆபத்தான, dangerous). 険 = けん (ஒலிப்பு இல்லாதது). きげん என்பது 期限 (கடைசி நாள்)."
+      },
+      {
+        "id": "KU20-q03",
+        "type": "kanji_reading",
+        "sentence": "どうか わたしを ＿許して＿ ください。",
+        "target": "許して",
+        "options": ["ゆすして", "きょして", "ゆるして", "ゆらして"],
+        "answer": 2,
+        "explanation_en": "許して is read ゆるして (மன்னிக்க, to forgive). きょして mixes the on reading きょ with the kana ending.",
+        "explanation_ta": "許して = ゆるして (மன்னிக்க, to forgive). きょして என்பது on வாசிப்பு きょ-ஐ கானா முடிவுடன் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU20-q04",
+        "type": "kanji_reading",
+        "sentence": "来年 アメリカに ＿留学＿します。",
+        "target": "留学",
+        "options": ["りゅがく", "るがく", "りゅうかく", "りゅうがく"],
+        "answer": 3,
+        "explanation_en": "留学 is read りゅうがく (வெளிநாட்டில் படிப்பு, studying abroad). 留 is a long りゅう, so りゅがく is wrong. る is only for 留守.",
+        "explanation_ta": "留学 = りゅうがく (வெளிநாட்டில் படிப்பு, studying abroad). 留 = りゅう (நீண்ட ஒலி); அதனால் りゅがく தவறு. る என்பது 留守-க்கு மட்டும்."
+      },
+      {
+        "id": "KU20-q05",
+        "type": "kanji_reading",
+        "sentence": "警察が ＿犯人＿を つかまえました。",
+        "target": "犯人",
+        "options": ["はんにん", "ばんにん", "はんじん", "はにん"],
+        "answer": 0,
+        "explanation_en": "犯人 is read はんにん (குற்றவாளி, criminal). 犯 is はん, not ばん, and 人 is にん here, not じん.",
+        "explanation_ta": "犯人 = はんにん (குற்றவாளி, criminal). 犯 = はん; ばん அல்ல. இங்கே 人 = にん; じん அல்ல."
+      },
+      {
+        "id": "KU20-q06",
+        "type": "kanji_reading",
+        "sentence": "明日は ＿絶対＿に 行きます。",
+        "target": "絶対",
+        "options": ["ぜつたい", "ぜったい", "ぜいたい", "せったい"],
+        "answer": 1,
+        "explanation_en": "絶対 is read ぜったい (கண்டிப்பாக, definitely). ぜつ becomes ぜっ (small っ), so ぜつたい is wrong.",
+        "explanation_ta": "絶対 = ぜったい (கண்டிப்பாக, definitely). ぜつ என்பது ぜっ ஆகிறது (சிறிய っ); அதனால் ぜつたい தவறு."
+      },
+      {
+        "id": "KU20-q07",
+        "type": "kanji_reading",
+        "sentence": "家族は ＿居間＿で テレビを 見て います。",
+        "target": "居間",
+        "options": ["きょま", "いかん", "いま", "おりま"],
+        "answer": 2,
+        "explanation_en": "居間 is read いま (வரவேற்பறை, living room). きょま mixes in the on reading きょ, and 間 is ま here, not かん.",
+        "explanation_ta": "居間 = いま (வரவேற்பறை, living room). きょま என்பது on வாசிப்பு きょ-ஐக் கலந்தது. இங்கே 間 = ま; かん அல்ல."
+      },
+      {
+        "id": "KU20-q08",
+        "type": "kanji_reading",
+        "sentence": "電車で ＿雑誌＿を 読みます。",
+        "target": "雑誌",
+        "options": ["ざつし", "ざし", "ぞうし", "ざっし"],
+        "answer": 3,
+        "explanation_en": "雑誌 is read ざっし (இதழ், magazine). ざつ becomes ざっ with a small っ, so ざつし is wrong.",
+        "explanation_ta": "雑誌 = ざっし (இதழ், magazine). ざつ என்பது சிறிய っ உடன் ざっ ஆகிறது; அதனால் ざつし தவறு."
+      },
+      {
+        "id": "KU20-q09",
+        "type": "kanji_reading",
+        "sentence": "友だちを パーティーに ＿招待＿しました。",
+        "target": "招待",
+        "options": ["しょうたい", "しょたい", "しょうだい", "じょうたい"],
+        "answer": 0,
+        "explanation_en": "招待 is read しょうたい (அழைப்பு, invitation). 招 is a long しょう, so しょたい is wrong, and 待 is たい, not だい.",
+        "explanation_ta": "招待 = しょうたい (அழைப்பு, invitation). 招 = しょう (நீண்ட ஒலி); அதனால் しょたい தவறு. 待 = たい; だい அல்ல."
+      },
+      {
+        "id": "KU20-q10",
+        "type": "kanji_reading",
+        "sentence": "知らない 町で 道に ＿迷って＿ しまいました。",
+        "target": "迷って",
+        "options": ["まいって", "まよって", "まよいって", "めいって"],
+        "answer": 1,
+        "explanation_en": "迷って is read まよって (வழி தவற, to get lost). めいって mixes in the on reading めい. まいって is a different verb (参る).",
+        "explanation_ta": "迷って = まよって (வழி தவற, to get lost). めいって என்பது on வாசிப்பு めい-ஐக் கலந்தது. まいって வேறு வினை (参る)."
+      },
+      {
+        "id": "KU20-q11",
+        "type": "orthography",
+        "sentence": "この 町では ＿はんざい＿が 増えて います。",
+        "target": "はんざい",
+        "options": ["犯在", "犯財", "犯罪", "範罪"],
+        "answer": 2,
+        "explanation_en": "はんざい is written 犯罪 (குற்றச்செயல், crime). 在 and 財 are also ざい, but crime is the net over wrong: 罪.",
+        "explanation_ta": "はんざい = 犯罪 (குற்றச்செயல், crime). 在, 財 இரண்டும் ざい தான்; ஆனால் குற்றம் = தவறு மேல் வலை: 罪."
+      },
+      {
+        "id": "KU20-q12",
+        "type": "orthography",
+        "sentence": "スポーツは 体と ＿せいしん＿を 強くします。",
+        "target": "せいしん",
+        "options": ["情神", "晴神", "清神", "精神"],
+        "answer": 3,
+        "explanation_en": "せいしん is written 精神 (மனம், spirit). All four have 青, but spirit takes rice 米. 情 is じょう (feelings).",
+        "explanation_ta": "せいしん = 精神 (மனம், spirit). நான்கிலும் 青 உண்டு; ஆனால் ஆன்மாவுக்கு அரிசி 米. 情 = じょう (உணர்வு)."
+      },
+      {
+        "id": "KU20-q13",
+        "type": "orthography",
+        "sentence": "わたしは 母に よく ＿にて＿ います。",
+        "target": "にて",
+        "options": ["似て", "以て", "低て", "仮て"],
+        "answer": 0,
+        "explanation_en": "にて is written 似て (ஒத்திருக்க, to look like). 以 is only the right part of 似. 低 and 仮 also have 亻 but mean low and temporary.",
+        "explanation_ta": "にて = 似て (ஒத்திருக்க, to look like). 以 என்பது 似-இன் வலப்பகுதி மட்டுமே. 低, 仮 இரண்டிலும் 亻 உண்டு; ஆனால் அவை தாழ்வு, தற்காலிகம்."
+      },
+      {
+        "id": "KU20-q14",
+        "type": "orthography",
+        "sentence": "わたしは その 計画に ＿さんせい＿です。",
+        "target": "さんせい",
+        "options": ["賃成", "賛成", "替成", "質成"],
+        "answer": 1,
+        "explanation_en": "さんせい is written 賛成 (ஒப்புதல், agreement). Two men 夫夫 over money 貝 = agree. 替 has 夫夫 over the sun 日, and 賃 and 質 are other money kanji.",
+        "explanation_ta": "さんせい = 賛成 (ஒப்புதல், agreement). பணம் 貝 மேல் இரண்டு ஆண்கள் 夫夫 = ஒப்புதல். 替-இல் 夫夫 கீழே சூரியன் 日; 賃, 質 வேறு பணக் கான்ஜிகள்."
+      },
+      {
+        "id": "KU20-q15",
+        "type": "orthography",
+        "sentence": "母は 今 ＿るす＿です。",
+        "target": "るす",
+        "options": ["留寸", "貿守", "留守", "溜守"],
+        "answer": 2,
+        "explanation_en": "るす is written 留守 (வீட்டில் இல்லாமை, being away from home). 貿 has the same top but money 貝 below. 寸 is only the bottom of 守.",
+        "explanation_ta": "るす = 留守 (வீட்டில் இல்லாமை, being away from home). 貿-இன் மேல்பகுதி ஒன்றே; ஆனால் கீழே பணம் 貝. 寸 என்பது 守-இன் கீழ்ப்பகுதி மட்டுமே."
+      },
+      {
+        "id": "KU20-q16",
+        "type": "orthography",
+        "sentence": "先生を 家に ＿まねきました＿。",
+        "target": "まねきました",
+        "options": ["紹きました", "召きました", "超きました", "招きました"],
+        "answer": 3,
+        "explanation_en": "まねきました is written 招きました (அழைத்தேன், invited). Inviting uses a waving hand 扌. 紹 has thread 糸 and 超 has a running foot.",
+        "explanation_ta": "まねきました = 招きました (அழைத்தேன், invited). அழைப்பதற்குக் கையசைக்கும் கை 扌. 紹-இல் நூல் 糸, 超-இல் ஓடும் பாதம்."
+      }
+    ]
+  }
+}

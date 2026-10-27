@@ -1,0 +1,901 @@
+{
+  "unit": 11,
+  "title": {
+    "en": "Joining, growing and getting",
+    "ta": "சேர்தல், வளர்தல், பெறுதல்"
+  },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for action words: become, add, continue, join, get, ask for and believe. You will also meet machine, side and birth. Look for old parts: 力 (power), 口 (mouth), 糸 (thread), 言 (say) and 亻 (person) help a lot here.",
+    "ta": "இந்தப் பாடத்தில் செயல் சொற்களுக்கான 14 கான்ஜிகளைக் கற்கிறீர்கள்: ஆகு, சேர், தொடர், பங்கேற்பு, பெறு, கேள், நம்பு. இயந்திரம், பக்கம், பிறப்பு ஆகியவற்றையும் சந்திப்பீர்கள். பழைய பகுதிகளைத் தேடுங்கள்: 力 (சக்தி), 口 (வாய்), 糸 (நூல்), 言 (சொல்), 亻 (மனிதன்) இங்கே நிறைய உதவும்."
+  },
+  "kanji": [
+    {
+      "kanji": "成",
+      "meaning": {
+        "en": "become; succeed",
+        "ta": "ஆகு; வெற்றி பெறு"
+      },
+      "on": [
+        "せい"
+      ],
+      "kun": [
+        "な.る"
+      ],
+      "mnemonic": {
+        "en": "成 has a spear (戈, as in 戦) with a small hammer (丁) tucked inside it. A young man trains day and night with spear and hammer, and at last he becomes a great hero: become, succeed, grow up.",
+        "ta": "成-இல் ஒரு ஈட்டி (戈, 戦-இல் உள்ளது போல); அதற்குள் ஒரு சிறு சுத்தியல் (丁) ஒளிந்திருக்கிறது. ஓர் இளைஞன் ஈட்டியுடனும் சுத்தியலுடனும் இரவு பகலாகப் பயிற்சி செய்து, கடைசியில் பெரிய வீரன் ஆகிறான்: ஆகு, வெற்றி பெறு, வளர்."
+      },
+      "examples": [
+        {
+          "word": "成長",
+          "reading": "せいちょう",
+          "en": "growth, growing up",
+          "ta": "வளர்ச்சி",
+          "vocabId": "n3-v-0276"
+        },
+        {
+          "word": "成人",
+          "reading": "せいじん",
+          "en": "adult",
+          "ta": "வயது வந்தவர்",
+          "vocabId": "n3-v-0271"
+        },
+        {
+          "word": "賛成",
+          "reading": "さんせい",
+          "en": "agreement, approval",
+          "ta": "ஒப்புதல், ஆதரவு",
+          "vocabId": "n3-v-0015"
+        },
+        {
+          "word": "完成",
+          "reading": "かんせい",
+          "en": "completion",
+          "ta": "நிறைவு, முழுமை",
+          "vocabId": "n3-v-0681"
+        }
+      ]
+    },
+    {
+      "kanji": "機",
+      "meaning": {
+        "en": "machine; chance",
+        "ta": "இயந்திரம்; வாய்ப்பு"
+      },
+      "on": [
+        "き"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is wood (木). On the right are two small balls of thread (幺幺) above a frame with a spear-like bar (戈). It is an old wooden handloom full of threads, like the silk looms of Kanchipuram. A loom is a machine: machine.",
+        "ta": "இடப்பக்கம் மரம் (木). வலப்பக்கம் இரண்டு சிறு நூல் உருண்டைகள் (幺幺), அதன் கீழ் ஈட்டி போன்ற கம்பியுள்ள சட்டம் (戈). நூல்கள் நிறைந்த பழைய மரக் கைத்தறி — காஞ்சிபுரம் பட்டுத் தறி போல. தறியும் ஒரு இயந்திரம்தான்: இயந்திரம்."
+      },
+      "note": {
+        "en": "Two words sound the same: 機会 (きかい, chance) and 機械 (きかい, machine). 飛行機 (ひこうき) = airplane, a “flying machine”.",
+        "ta": "இரண்டு சொற்கள் ஒரே ஒலி: 機会 (きかい, வாய்ப்பு), 機械 (きかい, இயந்திரம்). 飛行機 (ひこうき) = விமானம், “பறக்கும் இயந்திரம்”."
+      },
+      "examples": [
+        {
+          "word": "機会",
+          "reading": "きかい",
+          "en": "chance, opportunity",
+          "ta": "வாய்ப்பு"
+        },
+        {
+          "word": "飛行機",
+          "reading": "ひこうき",
+          "en": "airplane",
+          "ta": "விமானம்"
+        },
+        {
+          "word": "機能",
+          "reading": "きのう",
+          "en": "function",
+          "ta": "செயல்பாடு",
+          "vocabId": "n3-v-0720"
+        },
+        {
+          "word": "機関",
+          "reading": "きかん",
+          "en": "engine; organization",
+          "ta": "இயந்திரம் (என்ஜின்); அமைப்பு",
+          "vocabId": "n3-v-0697"
+        }
+      ]
+    },
+    {
+      "kanji": "加",
+      "meaning": {
+        "en": "add, join",
+        "ta": "சேர், கூட்டு"
+      },
+      "on": [
+        "か"
+      ],
+      "kun": [
+        "くわ.える",
+        "くわ.わる"
+      ],
+      "mnemonic": {
+        "en": "Power (力) plus a mouth (口) shouting “Come on!” In a tug-of-war, the shouting adds power to the team: add, join.",
+        "ta": "சக்தி (力) + “வா, இழு!” என்று கத்தும் வாய் (口). கயிறு இழுக்கும் போட்டியில் அந்தக் கூச்சல் அணிக்குக் கூடுதல் சக்தி சேர்க்கிறது: சேர், கூட்டு."
+      },
+      "note": {
+        "en": "加える (くわえる) = to add something. 加わる (くわわる) = to join (a group) yourself.",
+        "ta": "加える (くわえる) = ஒன்றைச் சேர்ப்பது. 加わる (くわわる) = தானே (ஒரு குழுவில்) சேர்வது."
+      },
+      "examples": [
+        {
+          "word": "参加",
+          "reading": "さんか",
+          "en": "taking part, joining",
+          "ta": "பங்கேற்பு",
+          "vocabId": "n3-v-0013"
+        },
+        {
+          "word": "加える",
+          "reading": "くわえる",
+          "en": "to add",
+          "ta": "சேர்க்க, கூட்ட",
+          "vocabId": "n3-v-0813"
+        },
+        {
+          "word": "加わる",
+          "reading": "くわわる",
+          "en": "to join in",
+          "ta": "சேர்ந்துகொள்ள",
+          "vocabId": "n3-v-0816"
+        },
+        {
+          "word": "増加",
+          "reading": "ぞうか",
+          "en": "increase",
+          "ta": "அதிகரிப்பு",
+          "vocabId": "n3-v-1317"
+        }
+      ]
+    },
+    {
+      "kanji": "続",
+      "meaning": {
+        "en": "continue",
+        "ta": "தொடர்"
+      },
+      "on": [
+        "ぞく"
+      ],
+      "kun": [
+        "つづ.く",
+        "つづ.ける"
+      ],
+      "mnemonic": {
+        "en": "Thread (糸) next to 売 (sell). At the market a thread seller pulls thread off the roll for his customer, on and on, and it never ends: continue.",
+        "ta": "நூல் (糸) அருகே 売 (விற்பது). சந்தையில் நூல் வியாபாரி வாடிக்கையாளருக்காக உருளையிலிருந்து நூலை இழுத்துக்கொண்டே இருக்கிறான்; அது முடிவதே இல்லை: தொடர்."
+      },
+      "note": {
+        "en": "続く (つづく) = something continues by itself. 続ける (つづける) = you continue something. After a verb: 読み続ける (keep reading).",
+        "ta": "続く (つづく) = ஒன்று தானே தொடர்வது. 続ける (つづける) = நீங்கள் ஒன்றைத் தொடர்வது. வினைக்குப் பின்: 読み続ける (படித்துக்கொண்டே இரு)."
+      },
+      "examples": [
+        {
+          "word": "続く",
+          "reading": "つづく",
+          "en": "to continue (by itself)",
+          "ta": "தொடர (தானாக)",
+          "vocabId": "n4-v-535"
+        },
+        {
+          "word": "続ける",
+          "reading": "つづける",
+          "en": "to continue (something)",
+          "ta": "(ஒன்றைத்) தொடர",
+          "vocabId": "n4-v-553"
+        },
+        {
+          "word": "続き",
+          "reading": "つづき",
+          "en": "continuation, the next part",
+          "ta": "தொடர்ச்சி, அடுத்த பகுதி",
+          "vocabId": "n3-v-1518"
+        },
+        {
+          "word": "連続",
+          "reading": "れんぞく",
+          "en": "in a row, one after another",
+          "ta": "தொடர்ச்சியாக, ஒன்றன்பின் ஒன்றாக",
+          "vocabId": "n3-v-1182"
+        }
+      ]
+    },
+    {
+      "kanji": "初",
+      "meaning": {
+        "en": "first; beginning",
+        "ta": "முதல்; தொடக்கம்"
+      },
+      "on": [
+        "しょ"
+      ],
+      "kun": [
+        "はじ.め",
+        "はじ.めて",
+        "はつ"
+      ],
+      "mnemonic": {
+        "en": "On the left is 衤, the cloth sign (like 礻 with one more dot). On the right is a knife (刀). Making new clothes starts with the tailor’s first cut into the cloth: first, beginning.",
+        "ta": "இடப்பக்கம் 衤 — துணிக் குறி (礻 போல, ஒரு புள்ளி கூடுதல்). வலப்பக்கம் கத்தி (刀). புதுத் துணி தைப்பது தையல்காரரின் முதல் வெட்டில்தான் தொடங்குகிறது: முதல், தொடக்கம்."
+      },
+      "note": {
+        "en": "初めて (はじめて) = for the first time. 初め (はじめ) = the beginning. はつ is used in 初雪 (はつゆき, first snow).",
+        "ta": "初めて (はじめて) = முதல் முறையாக. 初め (はじめ) = தொடக்கம். はつ என்பது 初雪 (はつゆき, முதல் பனி) போன்றவற்றில்."
+      },
+      "examples": [
+        {
+          "word": "初めて",
+          "reading": "はじめて",
+          "en": "for the first time",
+          "ta": "முதல் முறையாக",
+          "vocabId": "n5-v-530"
+        },
+        {
+          "word": "初め",
+          "reading": "はじめ",
+          "en": "beginning, start",
+          "ta": "தொடக்கம்",
+          "vocabId": "n5-v-529"
+        },
+        {
+          "word": "最初",
+          "reading": "さいしょ",
+          "en": "first, the beginning",
+          "ta": "முதலில், ஆரம்பம்",
+          "vocabId": "n4-v-529"
+        },
+        {
+          "word": "初雪",
+          "reading": "はつゆき",
+          "en": "first snow of the year",
+          "ta": "ஆண்டின் முதல் பனி"
+        }
+      ]
+    },
+    {
+      "kanji": "産",
+      "meaning": {
+        "en": "give birth; produce",
+        "ta": "பெற்றெடு; உற்பத்தி"
+      },
+      "on": [
+        "さん"
+      ],
+      "kun": [
+        "う.む"
+      ],
+      "mnemonic": {
+        "en": "Under a cliff (厂) a new life (生) comes out. On top, someone stands (立 shape) and watches with joy. A new baby is born: give birth. A field or factory also gives birth to goods: produce.",
+        "ta": "பாறை ஓரத்தின் (厂) கீழ் ஒரு புதிய உயிர் (生) வெளிவருகிறது. மேலே ஒருவர் நின்று (立 வடிவம்) மகிழ்ச்சியுடன் பார்க்கிறார். புதுக் குழந்தை பிறக்கிறது: பெற்றெடு. வயலும் தொழிற்சாலையும் பொருட்களைப் “பெற்றெடுக்கின்றன”: உற்பத்தி."
+      },
+      "note": {
+        "en": "Special reading: お土産 is おみやげ (souvenir). The kanji do not show the sound, so learn it as one word.",
+        "ta": "சிறப்பு வாசிப்பு: お土産 = おみやげ (ஊர் நினைவுப் பரிசு). கான்ஜியில் ஒலி தெரியாது; முழுச் சொல்லாக மனப்பாடம் செய்யுங்கள்."
+      },
+      "examples": [
+        {
+          "word": "お土産",
+          "reading": "おみやげ",
+          "en": "souvenir, gift from a trip",
+          "ta": "பயணத்திலிருந்து கொண்டு வரும் பரிசு",
+          "vocabId": "n4-v-280"
+        },
+        {
+          "word": "産業",
+          "reading": "さんぎょう",
+          "en": "industry",
+          "ta": "தொழில்துறை",
+          "vocabId": "n4-v-432"
+        },
+        {
+          "word": "生産",
+          "reading": "せいさん",
+          "en": "production",
+          "ta": "உற்பத்தி",
+          "vocabId": "n4-v-356"
+        },
+        {
+          "word": "産む",
+          "reading": "うむ",
+          "en": "to give birth",
+          "ta": "பெற்றெடுக்க",
+          "vocabId": "n3-v-1227"
+        }
+      ]
+    },
+    {
+      "kanji": "共",
+      "meaning": {
+        "en": "together",
+        "ta": "சேர்ந்து, ஒன்றாக"
+      },
+      "on": [
+        "きょう"
+      ],
+      "kun": [
+        "とも"
+      ],
+      "mnemonic": {
+        "en": "A heavy table top (the top lines) is lifted by two hands (the two legs ハ at the bottom). One person can’t lift it alone; we lift it together.",
+        "ta": "கனமான மேசைப் பலகையை (மேல் கோடுகள்) இரண்டு கைகள் (அடியில் ஹ போன்ற இரண்டு கால்கள்) தூக்குகின்றன. ஒருவரால் தனியாகத் தூக்க முடியாது; நாம் ஒன்றாகச் சேர்ந்து தூக்குகிறோம்: சேர்ந்து."
+      },
+      "examples": [
+        {
+          "word": "共に",
+          "reading": "ともに",
+          "en": "together with",
+          "ta": "உடன், சேர்ந்து",
+          "vocabId": "n3-v-1626"
+        },
+        {
+          "word": "共通",
+          "reading": "きょうつう",
+          "en": "common, shared",
+          "ta": "பொதுவான",
+          "vocabId": "n3-v-0752"
+        },
+        {
+          "word": "共同",
+          "reading": "きょうどう",
+          "en": "working together, joint",
+          "ta": "கூட்டு, ஒத்துழைப்பு",
+          "vocabId": "n3-v-0753"
+        }
+      ]
+    },
+    {
+      "kanji": "得",
+      "meaning": {
+        "en": "gain, get",
+        "ta": "பெறு, ஆதாயம்"
+      },
+      "on": [
+        "とく"
+      ],
+      "kun": [
+        "え.る"
+      ],
+      "mnemonic": {
+        "en": "A person walks along (彳, as in 待 and 行). He sees something shining like the sun (日) on the ground (一), and grabs it with his hand (寸). He gains a treasure: gain, get.",
+        "ta": "ஒருவர் நடந்து செல்கிறார் (彳, 待, 行 இவற்றில் உள்ளது போல). தரையில் (一) சூரியன் (日) போல ஏதோ மின்னுவதைப் பார்த்து, கையால் (寸) பிடித்துக்கொள்கிறார். புதையல் கிடைத்தது: பெறு, ஆதாயம்."
+      },
+      "note": {
+        "en": "得意 (とくい) = good at, your strong point: 料理が得意です (I am good at cooking).",
+        "ta": "得意 (とくい) = திறமையானது, கைவந்தது: 料理が得意です (எனக்குச் சமையல் நன்றாக வரும்)."
+      },
+      "examples": [
+        {
+          "word": "得意",
+          "reading": "とくい",
+          "en": "good at, strong point",
+          "ta": "திறமையான, கைவந்த",
+          "vocabId": "n3-v-1597"
+        },
+        {
+          "word": "得る",
+          "reading": "える",
+          "en": "to get, to gain",
+          "ta": "பெற",
+          "vocabId": "n3-v-0477"
+        },
+        {
+          "word": "得",
+          "reading": "とく",
+          "en": "profit, advantage",
+          "ta": "லாபம், ஆதாயம்"
+        }
+      ]
+    },
+    {
+      "kanji": "告",
+      "meaning": {
+        "en": "tell, announce",
+        "ta": "அறிவி, தெரிவி"
+      },
+      "on": [
+        "こく"
+      ],
+      "kun": [
+        "つ.げる"
+      ],
+      "mnemonic": {
+        "en": "A cow (牛, without its tail) stands over a mouth (口). The cow opens its mouth and moos very loudly, “Moo!”, so the whole village hears: tell, announce. 広告 (wide + announce) = advertisement.",
+        "ta": "வாய் (口) மேல் ஒரு மாடு (牛, வால் இல்லாமல்). மாடு வாயைத் திறந்து “ம்மா!” என்று உரக்கக் கத்துகிறது; ஊர் முழுக்கக் கேட்கிறது: அறிவி. 広告 (அகலம் + அறிவி) = விளம்பரம்."
+      },
+      "examples": [
+        {
+          "word": "広告",
+          "reading": "こうこく",
+          "en": "advertisement",
+          "ta": "விளம்பரம்",
+          "vocabId": "n3-v-0890"
+        },
+        {
+          "word": "報告",
+          "reading": "ほうこく",
+          "en": "report",
+          "ta": "அறிக்கை",
+          "vocabId": "n3-v-1931"
+        },
+        {
+          "word": "告げる",
+          "reading": "つげる",
+          "en": "to tell, to announce",
+          "ta": "தெரிவிக்க, அறிவிக்க"
+        }
+      ]
+    },
+    {
+      "kanji": "参",
+      "meaning": {
+        "en": "take part; visit (humble)",
+        "ta": "பங்கேற்பு; வருகை (பணிவு)"
+      },
+      "on": [
+        "さん"
+      ],
+      "kun": [
+        "まい.る"
+      ],
+      "mnemonic": {
+        "en": "A person (大) wears a pointed hat (厶) and has three ribbons (彡) flying behind. Dressed up like this, he goes to join the temple festival: take part, visit.",
+        "ta": "ஒருவர் (大) கூர்மையான தொப்பி (厶) அணிந்திருக்கிறார்; பின்னால் மூன்று ரிப்பன்கள் (彡) பறக்கின்றன. இப்படி அலங்கரித்துக்கொண்டு கோயில் திருவிழாவில் கலந்துகொள்ளப் போகிறார்: பங்கேற்பு, வருகை."
+      },
+      "note": {
+        "en": "参る (まいる) is the humble word for 行く / 来る: 明日まいります (I will come tomorrow).",
+        "ta": "参る (まいる) என்பது 行く / 来る என்பதன் பணிவுச் சொல்: 明日まいります (நாளை வருகிறேன்)."
+      },
+      "examples": [
+        {
+          "word": "参加",
+          "reading": "さんか",
+          "en": "taking part",
+          "ta": "பங்கேற்பு",
+          "vocabId": "n3-v-0013"
+        },
+        {
+          "word": "参考",
+          "reading": "さんこう",
+          "en": "reference",
+          "ta": "மேற்கோள், உதவிக் குறிப்பு",
+          "vocabId": "n3-v-0014"
+        },
+        {
+          "word": "参る",
+          "reading": "まいる",
+          "en": "to go, to come (humble)",
+          "ta": "போக, வர (பணிவுச் சொல்)",
+          "vocabId": "n4-v-604"
+        }
+      ]
+    },
+    {
+      "kanji": "利",
+      "meaning": {
+        "en": "profit; useful",
+        "ta": "லாபம்; பயன்"
+      },
+      "on": [
+        "り"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is ripe grain (禾), as in 秋 and 科. On the right is a sharp knife (刂). A farmer cuts the paddy at harvest with a sharp sickle and earns money: profit. A sharp tool is useful: 便利 (handy).",
+        "ta": "இடப்பக்கம் முற்றிய தானியம் (禾) — 秋, 科 இவற்றில் உள்ளது போல. வலப்பக்கம் கூர்மையான கத்தி (刂). அறுவடையில் விவசாயி கூர்மையான அரிவாளால் நெல்லை அறுத்து வருமானம் பெறுகிறார்: லாபம். கூர்மையான கருவி பயனுள்ளது: 便利 (வசதியான)."
+      },
+      "examples": [
+        {
+          "word": "便利",
+          "reading": "べんり",
+          "en": "convenient, handy",
+          "ta": "வசதியான",
+          "vocabId": "n5-v-600"
+        },
+        {
+          "word": "利用",
+          "reading": "りよう",
+          "en": "use",
+          "ta": "பயன்பாடு",
+          "vocabId": "n4-v-148"
+        },
+        {
+          "word": "有利",
+          "reading": "ゆうり",
+          "en": "advantageous",
+          "ta": "சாதகமான",
+          "vocabId": "n3-v-1114"
+        },
+        {
+          "word": "不利",
+          "reading": "ふり",
+          "en": "disadvantage",
+          "ta": "பாதகமான",
+          "vocabId": "n3-v-1902"
+        }
+      ]
+    },
+    {
+      "kanji": "信",
+      "meaning": {
+        "en": "believe, trust",
+        "ta": "நம்பு, நம்பிக்கை"
+      },
+      "on": [
+        "しん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A person (亻) stands next to his words (言). A person who stands by his word, who does what he says, can be trusted: believe, trust.",
+        "ta": "ஒரு மனிதன் (亻) தன் சொல்லின் (言) அருகே நிற்கிறான். சொன்ன சொல்லைக் காப்பவன், சொன்னதைச் செய்பவன் நம்பத்தக்கவன்: நம்பு, நம்பிக்கை."
+      },
+      "examples": [
+        {
+          "word": "信じる",
+          "reading": "しんじる",
+          "en": "to believe",
+          "ta": "நம்ப",
+          "vocabId": "n3-v-0193"
+        },
+        {
+          "word": "信号",
+          "reading": "しんごう",
+          "en": "traffic light, signal",
+          "ta": "போக்குவரத்து விளக்கு, சமிக்ஞை",
+          "vocabId": "n3-v-0188"
+        },
+        {
+          "word": "信用",
+          "reading": "しんよう",
+          "en": "trust, confidence",
+          "ta": "நம்பிக்கை",
+          "vocabId": "n3-v-0205"
+        },
+        {
+          "word": "自信",
+          "reading": "じしん",
+          "en": "self-confidence",
+          "ta": "தன்னம்பிக்கை"
+        }
+      ]
+    },
+    {
+      "kanji": "側",
+      "meaning": {
+        "en": "side",
+        "ta": "பக்கம்"
+      },
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "がわ",
+        "かわ"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) stands right at the side of a money box (貝, shell money, as in 買) with a knife (刂) in his hand. He is the guard who never leaves its side: side.",
+        "ta": "ஒரு மனிதன் (亻) பணப் பெட்டியின் (貝, சிப்பிப் பணம், 買-இல் உள்ளது போல) பக்கத்திலேயே கத்தியுடன் (刂) நிற்கிறான். அதன் பக்கத்தை விட்டு அகலாத காவலாளி அவன்: பக்கம்."
+      },
+      "note": {
+        "en": "After another word it is usually がわ: 右側 (みぎがわ, right side), 内側 (うちがわ, inside).",
+        "ta": "இன்னொரு சொல்லுக்குப் பின் பெரும்பாலும் がわ: 右側 (みぎがわ, வலப்பக்கம்), 内側 (うちがわ, உட்பக்கம்)."
+      },
+      "examples": [
+        {
+          "word": "右側",
+          "reading": "みぎがわ",
+          "en": "right side",
+          "ta": "வலப்பக்கம்"
+        },
+        {
+          "word": "両側",
+          "reading": "りょうがわ",
+          "en": "both sides",
+          "ta": "இரு பக்கமும்"
+        },
+        {
+          "word": "内側",
+          "reading": "うちがわ",
+          "en": "inside",
+          "ta": "உட்பக்கம்"
+        },
+        {
+          "word": "側面",
+          "reading": "そくめん",
+          "en": "side (of something), aspect",
+          "ta": "பக்கவாட்டு, ஒரு கோணம்"
+        }
+      ]
+    },
+    {
+      "kanji": "求",
+      "meaning": {
+        "en": "ask for, seek",
+        "ta": "கேள், தேடு"
+      },
+      "on": [
+        "きゅう"
+      ],
+      "kun": [
+        "もと.める"
+      ],
+      "mnemonic": {
+        "en": "求 looks like water (水) with a line and a dot on top, like a hand reaching out above the water. A thirsty traveller reaches for water and asks for it: ask for, seek.",
+        "ta": "求 பார்க்க நீர் (水) போல; அதன் மேலே ஒரு கோடும் ஒரு புள்ளியும் — நீருக்கு மேல் நீட்டிய கை போல. தாகமுள்ள பயணி தண்ணீருக்காகக் கையை நீட்டிக் கேட்கிறார்: கேள், தேடு."
+      },
+      "examples": [
+        {
+          "word": "求める",
+          "reading": "もとめる",
+          "en": "to ask for, to seek",
+          "ta": "கேட்க, தேட",
+          "vocabId": "n3-v-1080"
+        },
+        {
+          "word": "要求",
+          "reading": "ようきゅう",
+          "en": "demand, request",
+          "ta": "கோரிக்கை",
+          "vocabId": "n3-v-1127"
+        },
+        {
+          "word": "求人",
+          "reading": "きゅうじん",
+          "en": "job opening, hiring",
+          "ta": "வேலை வாய்ப்பு அறிவிப்பு"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU11-q01",
+        "type": "kanji_reading",
+        "sentence": "来週の パーティーに ＿参加＿します。",
+        "target": "参加",
+        "options": [
+          "さんか",
+          "さんが",
+          "さっか",
+          "まいか"
+        ],
+        "answer": 0,
+        "explanation_en": "参加 is read さんか (பங்கேற்பு, taking part). さんが wrongly voices か, and まい is the kun reading from 参る.",
+        "explanation_ta": "参加 = さんか (பங்கேற்பு, taking part). さんが-இல் தவறான ゛. まい என்பது 参る-இன் kun வாசிப்பு."
+      },
+      {
+        "id": "KU11-q02",
+        "type": "kanji_reading",
+        "sentence": "毎日 日本語の 勉強を ＿続けて＿ います。",
+        "target": "続けて",
+        "options": [
+          "つずけて",
+          "つづけて",
+          "ぞくけて",
+          "つつけて"
+        ],
+        "answer": 1,
+        "explanation_en": "続けて is read つづけて (தொடர்ந்து, continuing), written with づ. つずけて uses the wrong kana ず, and ぞく is the on reading, as in 連続.",
+        "explanation_ta": "続けて = つづけて (தொடர்ந்து, continuing); づ கொண்டு எழுதப்படும். つずけて-இல் தவறான ず. ぞく என்பது on வாசிப்பு; 連続 போன்றவற்றில்."
+      },
+      {
+        "id": "KU11-q03",
+        "type": "kanji_reading",
+        "sentence": "きょねん ＿初めて＿ 日本へ 行きました。",
+        "target": "初めて",
+        "options": [
+          "はしめて",
+          "しょめて",
+          "はじめて",
+          "はつめて"
+        ],
+        "answer": 2,
+        "explanation_en": "初めて is read はじめて (முதல் முறையாக, for the first time). はしめて has no voiced じ, and はつ is used only in words like 初雪.",
+        "explanation_ta": "初めて = はじめて (முதல் முறையாக, for the first time). はしめて-இல் ゛ இல்லை. はつ என்பது 初雪 போன்ற சொற்களில் மட்டும்."
+      },
+      {
+        "id": "KU11-q04",
+        "type": "kanji_reading",
+        "sentence": "京都で 友だちに お＿土産＿を 買いました。",
+        "target": "土産",
+        "options": [
+          "どさん",
+          "みあげ",
+          "みやけ",
+          "みやげ"
+        ],
+        "answer": 3,
+        "explanation_en": "お土産 has a special reading: おみやげ (பயணப் பரிசு, souvenir). みやけ has no voiced げ, and どさん reads each kanji separately.",
+        "explanation_ta": "お土産-க்குச் சிறப்பு வாசிப்பு: おみやげ (பயணப் பரிசு, souvenir). みやけ-இல் ゛ இல்லை. どさん ஒவ்வொரு கான்ஜியையும் தனியாகப் படிக்கிறது."
+      },
+      {
+        "id": "KU11-q05",
+        "type": "kanji_reading",
+        "sentence": "この 図書館は だれでも ＿利用＿できます。",
+        "target": "利用",
+        "options": [
+          "りよう",
+          "りよ",
+          "りいよう",
+          "りゆう"
+        ],
+        "answer": 0,
+        "explanation_en": "利用 is read りよう (பயன்பாடு, use), with a long よう. りよ is too short, and りゆう is 理由 (reason).",
+        "explanation_ta": "利用 = りよう (பயன்பாடு, use), நீண்ட よう உடன். りよ குறுகியது. りゆう என்பது 理由 (காரணம்)."
+      },
+      {
+        "id": "KU11-q06",
+        "type": "kanji_reading",
+        "sentence": "わたしは 君の 話を ＿信じて＿ います。",
+        "target": "信じて",
+        "options": [
+          "しじて",
+          "しんじて",
+          "しんして",
+          "ちんじて"
+        ],
+        "answer": 1,
+        "explanation_en": "信じて is read しんじて (நம்பி, believing). しじて drops the ん, and しんして has no voiced じ.",
+        "explanation_ta": "信じて = しんじて (நம்பி, believing). しじて-இல் ん விடுபட்டுள்ளது. しんして-இல் ゛ இல்லை."
+      },
+      {
+        "id": "KU11-q07",
+        "type": "kanji_reading",
+        "sentence": "日本では 車は 道の ＿左側＿を 走ります。",
+        "target": "左側",
+        "options": [
+          "ひだりかわ",
+          "さそく",
+          "ひだりがわ",
+          "ひだりそく"
+        ],
+        "answer": 2,
+        "explanation_en": "左側 is read ひだりがわ (இடப்பக்கம், left side): after another word, かわ becomes がわ. そく is the on reading, used in 側面.",
+        "explanation_ta": "左側 = ひだりがわ (இடப்பக்கம், left side): இன்னொரு சொல்லுக்குப் பின் かわ என்பது がわ ஆகும். そく என்பது on வாசிப்பு; 側面 போன்றவற்றில்."
+      },
+      {
+        "id": "KU11-q08",
+        "type": "kanji_reading",
+        "sentence": "多くの 会社が 新しい 人を ＿求めて＿ います。",
+        "target": "求めて",
+        "options": [
+          "もどめて",
+          "きゅうめて",
+          "もとむて",
+          "もとめて"
+        ],
+        "answer": 3,
+        "explanation_en": "求めて is read もとめて (தேடி, seeking). もどめて wrongly voices と, and きゅう is the on reading, as in 要求.",
+        "explanation_ta": "求めて = もとめて (தேடி, seeking). もどめて-இல் தவறான ゛. きゅう என்பது on வாசிப்பு; 要求 போன்றவற்றில்."
+      },
+      {
+        "id": "KU11-q09",
+        "type": "kanji_reading",
+        "sentence": "子どもの ＿成長＿は はやいですね。",
+        "target": "成長",
+        "options": [
+          "せいちょう",
+          "せいちょ",
+          "せちょう",
+          "じょうちょう"
+        ],
+        "answer": 0,
+        "explanation_en": "成長 is read せいちょう (வளர்ச்சி, growth), with two long vowels. せいちょ is too short, and せちょう drops the い.",
+        "explanation_ta": "成長 = せいちょう (வளர்ச்சி, growth); இரண்டு நீண்ட உயிர்கள். せいちょ குறுகியது. せちょう-இல் い விடுபட்டுள்ளது."
+      },
+      {
+        "id": "KU11-q10",
+        "type": "kanji_reading",
+        "sentence": "日本人と 話す ＿機会＿が あまり ありません。",
+        "target": "機会",
+        "options": [
+          "ぎかい",
+          "きかい",
+          "きっかい",
+          "きがい"
+        ],
+        "answer": 1,
+        "explanation_en": "機会 is read きかい (வாய்ப்பு, chance). ぎかい is 議会 (parliament), and きっかい adds a wrong small っ.",
+        "explanation_ta": "機会 = きかい (வாய்ப்பு, chance). ぎかい என்பது 議会 (நாடாளுமன்றம்). きっかい-இல் தவறான சிறிய っ."
+      },
+      {
+        "id": "KU11-q11",
+        "type": "orthography",
+        "sentence": "スープに しおを 少し ＿くわえて＿ ください。",
+        "target": "くわえて",
+        "options": [
+          "力えて",
+          "助えて",
+          "加えて",
+          "協えて"
+        ],
+        "answer": 2,
+        "explanation_en": "くわえて is 加えて (சேர்த்து, add): power 力 plus a shouting mouth 口. 力 alone has no mouth, and 助 (help) has 力 with a different part.",
+        "explanation_ta": "くわえて = 加えて (சேர்த்து, add): சக்தி 力 + கத்தும் வாய் 口. தனி 力-இல் வாய் இல்லை. 助 (உதவு)-இல் 力 உண்டு; மற்ற பகுதி வேறு."
+      },
+      {
+        "id": "KU11-q12",
+        "type": "orthography",
+        "sentence": "この 町は 車の ＿さんぎょう＿で 有名です。",
+        "target": "さんぎょう",
+        "options": [
+          "参業",
+          "散業",
+          "算業",
+          "産業"
+        ],
+        "answer": 3,
+        "explanation_en": "さんぎょう is 産業 (தொழில்துறை, industry): 産 = produce. 参 (take part), 散 and 算 have the same sound さん but the wrong meaning.",
+        "explanation_ta": "さんぎょう = 産業 (தொழில்துறை, industry): 産 = உற்பத்தி. 参 (பங்கேற்பு), 散, 算 — இவையும் さん ஒலிதான்; ஆனால் பொருள் பொருந்தாது."
+      },
+      {
+        "id": "KU11-q13",
+        "type": "orthography",
+        "sentence": "二人の ＿きょうつう＿の しゅみは 何ですか。",
+        "target": "きょうつう",
+        "options": [
+          "共通",
+          "供通",
+          "協通",
+          "共道"
+        ],
+        "answer": 0,
+        "explanation_en": "きょうつう is 共通 (பொதுவான, common): two hands lifting together + 通. 供 has an extra person 亻, and 共道 uses 道 (road) instead of 通.",
+        "explanation_ta": "きょうつう = 共通 (பொதுவான, common): சேர்ந்து தூக்கும் இரு கைகள் + 通. 供-இல் கூடுதலாக மனிதன் 亻. 共道-இல் 通-க்குப் பதில் 道 (சாலை)."
+      },
+      {
+        "id": "KU11-q14",
+        "type": "orthography",
+        "sentence": "わたしは 料理が ＿とくい＿です。",
+        "target": "とくい",
+        "options": [
+          "特意",
+          "得意",
+          "待意",
+          "得以"
+        ],
+        "answer": 1,
+        "explanation_en": "とくい is 得意 (கைவந்த, good at). 特 (special) has the same sound とく, and 待 looks similar to 得 but means wait.",
+        "explanation_ta": "とくい = 得意 (கைவந்த, good at). 特 (சிறப்பு) அதே とく ஒலி. 待 பார்க்க 得 போல இருக்கும்; பொருள் காத்திரு."
+      },
+      {
+        "id": "KU11-q15",
+        "type": "orthography",
+        "sentence": "新聞で あたらしい 店の ＿こうこく＿を 見ました。",
+        "target": "こうこく",
+        "options": [
+          "広吉",
+          "公告",
+          "広告",
+          "広舌"
+        ],
+        "answer": 2,
+        "explanation_en": "こうこく is 広告 (விளம்பரம், advertisement): wide 広 + announce 告. 吉 and 舌 look like 告 but have no cow on top, and 公 is a different こう.",
+        "explanation_ta": "こうこく = 広告 (விளம்பரம், advertisement): அகலம் 広 + அறிவி 告. 吉, 舌 பார்க்க 告 போல இருந்தாலும் மேலே மாடு இல்லை. 公 வேறு こう."
+      },
+      {
+        "id": "KU11-q16",
+        "type": "orthography",
+        "sentence": "道の ＿みぎがわ＿を 歩いて ください。",
+        "target": "みぎがわ",
+        "options": [
+          "右則",
+          "右測",
+          "石側",
+          "右側"
+        ],
+        "answer": 3,
+        "explanation_en": "みぎがわ is 右側 (வலப்பக்கம், right side): a person 亻 guarding the side. 則 and 測 have no person 亻, and 石 (stone) is not 右 (right).",
+        "explanation_ta": "みぎがわ = 右側 (வலப்பக்கம், right side): பக்கத்தில் காவல் நிற்கும் மனிதன் 亻. 則, 測-இல் 亻 இல்லை. 石 (கல்) என்பது 右 (வலது) அல்ல."
+      }
+    ]
+  }
+}

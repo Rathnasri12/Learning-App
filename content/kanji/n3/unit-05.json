@@ -1,0 +1,450 @@
+{
+  "unit": 5,
+  "title": { "en": "Hands, actions and feelings", "ta": "கைகள், செயல்கள், உணர்வுகள்" },
+  "intro": {
+    "en": "In this unit you will learn fourteen kanji. Many are about the hand: finger, throw, hit, win. Others are about feelings, places, “next” and “both”. Look for the hand part 扌 on the left side: 指, 投 and 打 all have it.",
+    "ta": "இந்தப் பிரிவில் பதினான்கு கான்ஜிகளைக் கற்போம். பலவும் கையோடு தொடர்புடையவை: விரல், எறிதல், அடித்தல், வெல்லுதல். மற்றவை உணர்வு, இடம், “அடுத்தது”, “இரண்டும்” பற்றியவை. இடப்பக்கத்தில் உள்ள கை பகுதி 扌-ஐக் கவனியுங்கள்: 指, 投, 打 மூன்றிலும் அது இருக்கிறது."
+  },
+  "kanji": [
+    {
+      "kanji": "指",
+      "meaning": { "en": "finger; to point", "ta": "விரல்; சுட்டிக்காட்டு" },
+      "on": ["し"],
+      "kun": ["ゆび", "さ.す"],
+      "mnemonic": {
+        "en": "On the left is a hand (扌, a small 手). On the right, a spoon (匕) sits over the sun (日). Your finger points at the spoon of sweets drying in the sun: “That one, please!”",
+        "ta": "இடப்பக்கம் ஒரு கை (扌, சிறிய 手). வலப்பக்கம் வெயிலில் (日) ஒரு கரண்டி (匕). வெயிலில் காயும் இனிப்புக் கரண்டியை உங்கள் விரல் சுட்டிக்காட்டுகிறது: “அதுதான் வேண்டும்!”"
+      },
+      "note": {
+        "en": "ゆび is the finger itself; さす is “to point”. Don’t mix up 指 with 持 (to hold), which also has 扌 on the left.",
+        "ta": "ゆび = விரல்; さす = சுட்டிக்காட்டுதல். இடப்பக்கம் 扌 உள்ள 持 (பிடி) உடன் 指-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "指", "reading": "ゆび", "en": "finger", "ta": "விரல்", "vocabId": "n4-v-665" },
+        { "word": "指す", "reading": "さす", "en": "to point (at)", "ta": "சுட்டிக்காட்டு", "vocabId": "n3-v-0986" },
+        { "word": "目指す", "reading": "めざす", "en": "to aim for", "ta": "இலக்காகக் கொள்" },
+        { "word": "指定", "reading": "してい", "en": "fixed, reserved (e.g. a seat)", "ta": "குறிப்பிட்ட, ஒதுக்கப்பட்ட (இருக்கை போல)" }
+      ]
+    },
+    {
+      "kanji": "予",
+      "meaning": { "en": "beforehand", "ta": "முன்கூட்டியே" },
+      "on": ["よ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The top (マ) is a hand holding a ticket. The hook below (亅) is a nail on the wall. You hang your ticket on the nail days before the trip: you plan beforehand. “Yo! Plan ahead!” よ.",
+        "ta": "மேலே உள்ள マ ஒரு டிக்கெட்டைப் பிடித்த கை. கீழே உள்ள கொக்கி (亅) சுவரில் உள்ள ஆணி. பயணத்துக்குப் பல நாள் முன்பே டிக்கெட்டை ஆணியில் மாட்டுகிறீர்கள்: முன்கூட்டியே திட்டமிடுதல். “யோ! முன்பே திட்டமிடு!” よ."
+      },
+      "note": {
+        "en": "予 is almost always よ and comes first in a word: 予定, 予約, 予習, 予報. Don’t mix it up with 矛 (spear), which has one more stroke.",
+        "ta": "予 பெரும்பாலும் よ; சொல்லின் முதலில் வரும்: 予定, 予約, 予習, 予報. ஒரு கோடு அதிகமுள்ள 矛 (ஈட்டி) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "予定", "reading": "よてい", "en": "plan, schedule", "ta": "திட்டம், நிகழ்ச்சி நிரல்", "vocabId": "n4-v-261" },
+        { "word": "予約", "reading": "よやく", "en": "reservation, booking", "ta": "முன்பதிவு", "vocabId": "n4-v-341" },
+        { "word": "予習", "reading": "よしゅう", "en": "preparing a lesson before class", "ta": "வகுப்புக்கு முன் பாடத்தைப் படித்தல்", "vocabId": "n4-v-036" },
+        { "word": "予報", "reading": "よほう", "en": "forecast", "ta": "முன்னறிவிப்பு", "vocabId": "n3-v-1146" }
+      ]
+    },
+    {
+      "kanji": "向",
+      "meaning": { "en": "to face; toward", "ta": "நோக்கு; பக்கமாக" },
+      "on": ["こう"],
+      "kun": ["む.く", "む.かう", "む.こう"],
+      "mnemonic": {
+        "en": "A house wall (冂) with a window (口) in the middle. The little stroke on top is the chimney. The window faces the road, so the whole house faces that way.",
+        "ta": "நடுவில் ஒரு ஜன்னல் (口) உள்ள வீட்டுச் சுவர் (冂). மேலே உள்ள சிறு கோடு புகைபோக்கி. ஜன்னல் தெருவை நோக்கி இருக்கிறது; அதனால் வீடு முழுதும் அந்தப் பக்கம் நோக்குகிறது."
+      },
+      "note": {
+        "en": "向く = to face (by itself), 向ける = to turn something toward, 向かう = to head toward. 向こう (むこう) means “over there, the other side”.",
+        "ta": "向く = (தானே) நோக்கு, 向ける = ஒன்றை ஒரு பக்கம் திருப்பு, 向かう = ஓர் இடம் நோக்கிச் செல். 向こう (むこう) = “அங்கே, மறுபக்கம்”."
+      },
+      "examples": [
+        { "word": "向こう", "reading": "むこう", "en": "over there; the other side", "ta": "அங்கே; மறுபக்கம்", "vocabId": "n5-v-651" },
+        { "word": "向かう", "reading": "むかう", "en": "to head toward", "ta": "நோக்கிச் செல்", "vocabId": "n4-v-571" },
+        { "word": "向く", "reading": "むく", "en": "to face, to turn toward", "ta": "நோக்கு, திரும்பு", "vocabId": "n3-v-1030" },
+        { "word": "方向", "reading": "ほうこう", "en": "direction", "ta": "திசை", "vocabId": "n3-v-1930" }
+      ]
+    },
+    {
+      "kanji": "勝",
+      "meaning": { "en": "to win", "ta": "வெல்" },
+      "on": ["しょう"],
+      "kun": ["か.つ"],
+      "mnemonic": {
+        "en": "On the left is 月, which means the body (strong muscles). On the right, two hands are raised high, and power (力) is at the bottom. Strong body + power + arms up in the air = you win!",
+        "ta": "இடப்பக்கம் உள்ள 月 இங்கே உடல் (வலிமையான தசைகள்). வலப்பக்கம் மேலே இரண்டு கைகள் உயர்ந்திருக்கின்றன; கீழே வலிமை (力). வலிமையான உடல் + சக்தி + மேலே உயர்த்திய கைகள் = வெற்றி!"
+      },
+      "note": {
+        "en": "The opposite is 負ける (to lose, Unit 7). 勝負 (しょうぶ) = win or lose, a match.",
+        "ta": "எதிர்ச்சொல் 負ける (தோல், பிரிவு 7). 勝負 (しょうぶ) = வெற்றி அல்லது தோல்வி, போட்டி."
+      },
+      "examples": [
+        { "word": "勝つ", "reading": "かつ", "en": "to win", "ta": "வெல்", "vocabId": "n4-v-598" },
+        { "word": "勝ち", "reading": "かち", "en": "win, victory", "ta": "வெற்றி", "vocabId": "n3-v-0621" },
+        { "word": "優勝", "reading": "ゆうしょう", "en": "winning the championship", "ta": "சாம்பியன் பட்டம் வெல்லுதல்", "vocabId": "n3-v-1108" },
+        { "word": "勝負", "reading": "しょうぶ", "en": "match, contest (win or lose)", "ta": "போட்டி (வெற்றி அல்லது தோல்வி)" }
+      ]
+    },
+    {
+      "kanji": "面",
+      "meaning": { "en": "face; surface; side", "ta": "முகம்; மேற்பரப்பு; பக்கம்" },
+      "on": ["めん"],
+      "kun": ["おも"],
+      "mnemonic": {
+        "en": "The top line is the hairline. Below it is a big square face, and in the middle of the face is an eye (目). It is a face, or a mask you put over your face.",
+        "ta": "மேலே உள்ள கோடு தலைமுடி வரி. அதன் கீழே ஒரு பெரிய சதுர முகம்; முகத்தின் நடுவில் ஒரு கண் (目). இது ஒரு முகம், அல்லது முகத்தில் அணியும் முகமூடி."
+      },
+      "note": {
+        "en": "Learn two special words: 面白い (おもしろい, interesting) and 真面目 (まじめ, serious, hard-working).",
+        "ta": "இரண்டு சிறப்புச் சொற்களை நினைவில் வையுங்கள்: 面白い (おもしろい, சுவாரஸ்யமான), 真面目 (まじめ, கடின உழைப்பாளி, அக்கறையான)."
+      },
+      "examples": [
+        { "word": "面白い", "reading": "おもしろい", "en": "interesting, funny", "ta": "சுவாரஸ்யமான, வேடிக்கையான", "vocabId": "n5-v-135" },
+        { "word": "場面", "reading": "ばめん", "en": "scene", "ta": "காட்சி", "vocabId": "n3-v-1795" },
+        { "word": "表面", "reading": "ひょうめん", "en": "surface", "ta": "மேற்பரப்பு", "vocabId": "n3-v-1846" },
+        { "word": "真面目", "reading": "まじめ", "en": "serious, hard-working", "ta": "அக்கறையான, கடின உழைப்பாளி", "vocabId": "n4-v-308" }
+      ]
+    },
+    {
+      "kanji": "反",
+      "meaning": { "en": "against; opposite", "ta": "எதிர்; எதிரான" },
+      "on": ["はん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A hand (又) pushes hard against a cliff (厂). The cliff does not move. It pushes back the opposite way. That is “against”.",
+        "ta": "ஒரு கை (又) ஒரு பாறைச் சரிவை (厂) பலமாகத் தள்ளுகிறது. பாறை நகரவில்லை; அது எதிர்ப்பக்கமாகத் திரும்பித் தள்ளுகிறது. இதுதான் “எதிர்”."
+      },
+      "note": {
+        "en": "反対 is はんたい, not はんだい. Don’t mix up 反 with 友 (friend). Add the road 辶 and you get 返 (to return, Unit 8).",
+        "ta": "反対 = はんたい; はんだい அல்ல. 反, 友 (நண்பன்) இரண்டையும் குழப்ப வேண்டாம். 辶 (சாலை) சேர்த்தால் 返 (திருப்பிக் கொடு, பிரிவு 8) கிடைக்கும்."
+      },
+      "examples": [
+        { "word": "反対", "reading": "はんたい", "en": "opposition; being against", "ta": "எதிர்ப்பு; எதிராக இருத்தல்", "vocabId": "n4-v-304" },
+        { "word": "反対側", "reading": "はんたいがわ", "en": "the opposite side", "ta": "எதிர்ப்பக்கம்" },
+        { "word": "違反", "reading": "いはん", "en": "breaking a rule", "ta": "விதிமீறல்", "vocabId": "n3-v-0412" }
+      ]
+    },
+    {
+      "kanji": "所",
+      "meaning": { "en": "place", "ta": "இடம்" },
+      "on": ["しょ"],
+      "kun": ["ところ"],
+      "mnemonic": {
+        "en": "On the left is a door (戸). On the right is an axe (斤), the same axe as in 新. The woodcutter always hangs his axe by the door. That is its place.",
+        "ta": "இடப்பக்கம் ஒரு கதவு (戸). வலப்பக்கம் ஒரு கோடரி (斤), 新-இல் உள்ள அதே கோடரி. மரம் வெட்டுபவர் எப்போதும் கதவருகே கோடரியைத் தொங்கவிடுவார். அதுதான் அதன் இடம்."
+      },
+      "note": {
+        "en": "The sound changes in some words: 近所 (きんじょ), 台所 (だいどころ). On its own, 所 is ところ.",
+        "ta": "சில சொற்களில் ஒலி மாறும்: 近所 (きんじょ), 台所 (だいどころ). தனியாக 所 = ところ."
+      },
+      "examples": [
+        { "word": "所", "reading": "ところ", "en": "place", "ta": "இடம்", "vocabId": "n5-v-458" },
+        { "word": "場所", "reading": "ばしょ", "en": "place, location", "ta": "இடம்", "vocabId": "n4-v-237" },
+        { "word": "住所", "reading": "じゅうしょ", "en": "address", "ta": "முகவரி", "vocabId": "n4-v-173" },
+        { "word": "台所", "reading": "だいどころ", "en": "kitchen", "ta": "சமையலறை", "vocabId": "n5-v-377" }
+      ]
+    },
+    {
+      "kanji": "次",
+      "meaning": { "en": "next", "ta": "அடுத்த" },
+      "on": ["じ"],
+      "kun": ["つぎ", "つ.ぐ"],
+      "mnemonic": {
+        "en": "On the right is a person with a wide-open mouth (欠): a big yawn. Two little drops (冫) fly out. He has waited a long time in the queue: “Next, please!”",
+        "ta": "வலப்பக்கம் வாயைப் பெரிதாகத் திறந்த ஒருவர் (欠): பெரிய கொட்டாவி. இரண்டு சிறு துளிகள் (冫) பறக்கின்றன. வரிசையில் நீண்ட நேரம் காத்திருக்கிறார்: “அடுத்தவர், வாருங்கள்!”"
+      },
+      "note": {
+        "en": "Two dots on the left, not three: 次 is not water (氵). つぎ (next) is not つき (moon, 月).",
+        "ta": "இடப்பக்கம் இரண்டு புள்ளிகள், மூன்று அல்ல: 次-இல் தண்ணீர் (氵) இல்லை. つぎ (அடுத்த), つき (நிலா, 月) அல்ல."
+      },
+      "examples": [
+        { "word": "次", "reading": "つぎ", "en": "next", "ta": "அடுத்த", "vocabId": "n5-v-415" },
+        { "word": "次々", "reading": "つぎつぎ", "en": "one after another", "ta": "ஒன்றன் பின் ஒன்றாக", "vocabId": "n3-v-1508" },
+        { "word": "目次", "reading": "もくじ", "en": "table of contents", "ta": "பொருளடக்கம்" },
+        { "word": "次回", "reading": "じかい", "en": "next time", "ta": "அடுத்த முறை" }
+      ]
+    },
+    {
+      "kanji": "係",
+      "meaning": { "en": "person in charge; connection", "ta": "பொறுப்பாளர்; தொடர்பு" },
+      "on": ["けい"],
+      "kun": ["かかり"],
+      "mnemonic": {
+        "en": "A person (亻) holds a long thread (系, like the 糸 in 紙). He ties things together with it. He is the one in charge of the connections.",
+        "ta": "ஒருவர் (亻) நீண்ட நூலைப் (系, 紙-இல் உள்ள 糸 போல) பிடித்திருக்கிறார். அதனால் பொருள்களை ஒன்றாகக் கட்டுகிறார். தொடர்புகளுக்குப் பொறுப்பானவர் அவர்தான்."
+      },
+      "note": {
+        "en": "係 (かかり) is written without okurigana. After another word it often becomes がかり.",
+        "ta": "係 (かかり) ஓகுரிகானா இல்லாமல் எழுதப்படும். வேறு சொல்லுக்குப் பின் அது பெரும்பாலும் がかり ஆகும்."
+      },
+      "examples": [
+        { "word": "関係", "reading": "かんけい", "en": "relationship, connection", "ta": "உறவு, தொடர்பு", "vocabId": "n4-v-646" },
+        { "word": "係", "reading": "かかり", "en": "person in charge", "ta": "பொறுப்பாளர்", "vocabId": "n3-v-0576" },
+        { "word": "係員", "reading": "かかりいん", "en": "staff member in charge, attendant", "ta": "பணியில் உள்ள ஊழியர்" }
+      ]
+    },
+    {
+      "kanji": "感",
+      "meaning": { "en": "feeling", "ta": "உணர்வு" },
+      "on": ["かん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top, a spear (戈) and a shouting mouth (口). Below them is a heart (心). The shout and the spear hit you right in the heart. You feel it!",
+        "ta": "மேலே ஒரு ஈட்டி (戈), கத்தும் ஒரு வாய் (口). அவற்றின் கீழே இதயம் (心). கத்தலும் ஈட்டியும் நேராக இதயத்தைத் தாக்குகின்றன. நீங்கள் அதை உணர்கிறீர்கள்!"
+      },
+      "note": {
+        "en": "感じ (かんじ, a feeling) sounds the same as 漢字 (かんじ, kanji). Look at the heart (心) at the bottom of 感.",
+        "ta": "感じ (かんじ, உணர்வு), 漢字 (かんじ, கான்ஜி) இரண்டும் ஒரே ஒலி. 感-இன் கீழே உள்ள இதயத்தை (心) கவனியுங்கள்."
+      },
+      "examples": [
+        { "word": "感じる", "reading": "かんじる", "en": "to feel", "ta": "உணர்", "vocabId": "n3-v-0677" },
+        { "word": "感動", "reading": "かんどう", "en": "being deeply moved", "ta": "மனம் நெகிழ்தல்", "vocabId": "n3-v-0685" },
+        { "word": "感心", "reading": "かんしん", "en": "admiration, being impressed", "ta": "பாராட்டு, வியப்பு", "vocabId": "n3-v-0678" },
+        { "word": "感想", "reading": "かんそう", "en": "impressions, thoughts", "ta": "கருத்து, எண்ணம்", "vocabId": "n3-v-0684" }
+      ]
+    },
+    {
+      "kanji": "投",
+      "meaning": { "en": "to throw", "ta": "எறி" },
+      "on": ["とう"],
+      "kun": ["な.げる"],
+      "mnemonic": {
+        "en": "A hand (扌) on the left. On the right, another hand (又) swings a stick (几). Both arms swing back, and you throw the ball far!",
+        "ta": "இடப்பக்கம் ஒரு கை (扌). வலப்பக்கம் இன்னொரு கை (又) ஒரு கம்பை (几) சுழற்றுகிறது. இரண்டு கைகளும் பின்னால் சுழல, பந்தைத் தொலைவாக எறிகிறீர்கள்!"
+      },
+      "note": {
+        "en": "The right side 殳 also appears in 役 (role, Unit 6). 投 has a hand 扌; 役 has 彳 (going).",
+        "ta": "வலப்பக்க 殳 பகுதி 役 (பங்கு, பிரிவு 6)-இலும் உண்டு. 投-இல் கை 扌; 役-இல் 彳 (செல்லுதல்)."
+      },
+      "examples": [
+        { "word": "投げる", "reading": "なげる", "en": "to throw", "ta": "எறி", "vocabId": "n4-v-157" },
+        { "word": "投手", "reading": "とうしゅ", "en": "pitcher (baseball)", "ta": "பந்து வீச்சாளர் (பேஸ்பால்)" },
+        { "word": "投書", "reading": "とうしょ", "en": "letter to a newspaper", "ta": "செய்தித்தாளுக்கு எழுதும் கடிதம்" }
+      ]
+    },
+    {
+      "kanji": "打",
+      "meaning": { "en": "to hit", "ta": "அடி" },
+      "on": ["だ"],
+      "kun": ["う.つ"],
+      "mnemonic": {
+        "en": "A hand (扌) and a nail (丁: a flat head and a long body). The hand hits the nail with a hammer: bang, bang!",
+        "ta": "ஒரு கை (扌), ஒரு ஆணி (丁: தட்டையான தலை, நீண்ட உடல்). கை சுத்தியலால் ஆணியை அடிக்கிறது: டக், டக்!"
+      },
+      "note": {
+        "en": "The on reading is だ (voiced), not た. 打ち合わせ (うちあわせ) is a short planning meeting at work.",
+        "ta": "ஆன் வாசிப்பு だ (ஒலிப்புடன்); た அல்ல. 打ち合わせ (うちあわせ) = வேலையில் நடக்கும் சிறு திட்டக் கூட்டம்."
+      },
+      "examples": [
+        { "word": "打つ", "reading": "うつ", "en": "to hit; to type", "ta": "அடி; தட்டச்சு செய்", "vocabId": "n4-v-362" },
+        { "word": "打ち合わせ", "reading": "うちあわせ", "en": "planning meeting", "ta": "முன்னேற்பாட்டுக் கூட்டம்" },
+        { "word": "打者", "reading": "だしゃ", "en": "batter (baseball)", "ta": "மட்டையாளர் (பேஸ்பால்)" }
+      ]
+    },
+    {
+      "kanji": "両",
+      "meaning": { "en": "both", "ta": "இரண்டும்" },
+      "on": ["りょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The line on top is a pole on a seller’s shoulder. Under it hang two baskets, one on each side. Like a vegetable seller with a yoke: both sides carry a load.",
+        "ta": "மேலே உள்ள கோடு ஒரு வியாபாரியின் தோளில் உள்ள கம்பு. அதன் கீழே இரண்டு பக்கமும் ஒவ்வொரு கூடை தொங்குகிறது. காய்கறி விற்பவரின் காவடிக் கம்பு போல: இரண்டு பக்கமும் சுமை."
+      },
+      "note": {
+        "en": "Long vowel: りょう, not りょ. 両親 (りょうしん) = both parents.",
+        "ta": "நீண்ட ஒலி: りょう; りょ அல்ல. 両親 (りょうしん) = பெற்றோர் இருவரும்."
+      },
+      "examples": [
+        { "word": "両親", "reading": "りょうしん", "en": "parents", "ta": "பெற்றோர்", "vocabId": "n5-v-700" },
+        { "word": "両方", "reading": "りょうほう", "en": "both", "ta": "இரண்டும்", "vocabId": "n4-v-594" },
+        { "word": "両手", "reading": "りょうて", "en": "both hands", "ta": "இரண்டு கைகளும்" }
+      ]
+    },
+    {
+      "kanji": "式",
+      "meaning": { "en": "ceremony; style, formula", "ta": "விழா; முறை, சூத்திரம்" },
+      "on": ["しき"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A worker’s tool (工) stands next to a flagpole with a ribbon (弋). Everything is set up in the proper style. Today is a ceremony!",
+        "ta": "ஒரு தொழிலாளியின் கருவி (工) ரிப்பன் கட்டிய கொடிக்கம்பத்தின் (弋) அருகே நிற்கிறது. எல்லாம் முறைப்படி அமைக்கப்பட்டிருக்கிறது. இன்று ஒரு விழா!"
+      },
+      "note": {
+        "en": "Add words (言) on the left and you get 試 (test, as in 試験). Don’t mix up 式 with 武 (warrior).",
+        "ta": "இடப்பக்கம் சொல் (言) சேர்த்தால் 試 (சோதனை, 試験-இல் உள்ளது) ஆகும். 式, 武 (வீரன்) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "式", "reading": "しき", "en": "ceremony", "ta": "விழா", "vocabId": "n4-v-120" },
+        { "word": "入学式", "reading": "にゅうがくしき", "en": "school entrance ceremony", "ta": "பள்ளி சேர்க்கை விழா" },
+        { "word": "正式", "reading": "せいしき", "en": "official, formal", "ta": "அதிகாரப்பூர்வ, முறையான", "vocabId": "n3-v-0268" },
+        { "word": "形式", "reading": "けいしき", "en": "form, format", "ta": "வடிவம், முறை" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU5-q01",
+        "type": "kanji_reading",
+        "sentence": "けがを して、＿指＿が いたいです。",
+        "target": "指",
+        "options": ["ゆび", "ゆみ", "ゆうび", "し"],
+        "answer": 0,
+        "explanation_en": "指 alone is read ゆび (விரல், finger). ゆみ is a bow (弓). ゆうび has a wrong long vowel. し is the on reading, used only in words like 指定.",
+        "explanation_ta": "தனியாக 指 = ゆび (விரல், finger). ゆみ = வில் (弓). ゆうび-இல் தவறான நீண்ட ஒலி. し ஆன் வாசிப்பு; 指定 போன்ற சொற்களில் மட்டும் வரும்."
+      },
+      {
+        "id": "KU5-q02",
+        "type": "kanji_reading",
+        "sentence": "来週の ＿予定＿を 教えて ください。",
+        "target": "予定",
+        "options": ["よでい", "よてい", "ようてい", "ようでい"],
+        "answer": 1,
+        "explanation_en": "予定 is よてい (திட்டம், plan). 予 is a short よ, not よう, and 定 is てい, not でい.",
+        "explanation_ta": "予定 = よてい (திட்டம், plan). 予 குறுகிய よ; よう அல்ல. 定 = てい; でい அல்ல."
+      },
+      {
+        "id": "KU5-q03",
+        "type": "kanji_reading",
+        "sentence": "駅は 川の ＿向こう＿に あります。",
+        "target": "向こう",
+        "options": ["むごう", "むかう", "むこう", "こう"],
+        "answer": 2,
+        "explanation_en": "向こう is むこう (மறுபக்கம், the other side). むかう is 向かう (to head toward). むごう is wrongly voiced.",
+        "explanation_ta": "向こう = むこう (மறுபக்கம், the other side). むかう என்பது 向かう (நோக்கிச் செல்). むごう-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU5-q04",
+        "type": "kanji_reading",
+        "sentence": "きのうの しあいは 日本が ＿勝ちました＿。",
+        "target": "勝ちました",
+        "options": ["まけました", "しょうちました", "がちました", "かちました"],
+        "answer": 3,
+        "explanation_en": "勝ちました is かちました (வென்றது, won), from 勝つ. まけました is 負けました (lost), the opposite. しょう is the on reading, not used with ち.",
+        "explanation_ta": "勝ちました = かちました (வென்றது, won); 勝つ-இலிருந்து. まけました = 負けました (தோற்றது), எதிர்ப்பொருள். しょう ஆன் வாசிப்பு; ち உடன் வராது."
+      },
+      {
+        "id": "KU5-q05",
+        "type": "kanji_reading",
+        "sentence": "この えいがは さいごの ＿場面＿が いいです。",
+        "target": "場面",
+        "options": ["ばめん", "ばめい", "じょうめん", "ばしょ"],
+        "answer": 0,
+        "explanation_en": "場面 is ばめん (காட்சி, scene). ばしょ is 場所 (place). じょう is the on reading of 場, but this word uses ば.",
+        "explanation_ta": "場面 = ばめん (காட்சி, scene). ばしょ = 場所 (இடம்). じょう 場-இன் ஆன் வாசிப்பு; ஆனால் இந்தச் சொல்லில் ば."
+      },
+      {
+        "id": "KU5-q06",
+        "type": "kanji_reading",
+        "sentence": "わたしは その 意見に ＿反対＿です。",
+        "target": "反対",
+        "options": ["はんだい", "はんたい", "ほんたい", "ばんたい"],
+        "answer": 1,
+        "explanation_en": "反対 is はんたい (எதிர்ப்பு, being against). 対 is たい here, not だい, and 反 is はん, not ばん.",
+        "explanation_ta": "反対 = はんたい (எதிர்ப்பு, being against). இங்கே 対 = たい; だい அல்ல. 反 = はん; ばん அல்ல."
+      },
+      {
+        "id": "KU5-q07",
+        "type": "kanji_reading",
+        "sentence": "ここに ＿住所＿と 名前を 書いて ください。",
+        "target": "住所",
+        "options": ["じゅうしょう", "じゅしょ", "じゅうしょ", "じゅうじょ"],
+        "answer": 2,
+        "explanation_en": "住所 is じゅうしょ (முகவரி, address): long じゅう, short しょ. じゅうじょ is wrongly voiced (じょ is for 近所).",
+        "explanation_ta": "住所 = じゅうしょ (முகவரி, address): நீண்ட じゅう, குறுகிய しょ. じゅうじょ-இல் தவறான ஒலிப்பு (じょ 近所-இல் தான்)."
+      },
+      {
+        "id": "KU5-q08",
+        "type": "kanji_reading",
+        "sentence": "＿次＿の 駅で おります。",
+        "target": "次",
+        "options": ["じ", "つき", "つぐ", "つぎ"],
+        "answer": 3,
+        "explanation_en": "次 alone is つぎ (அடுத்த, next). つき is the moon (月). つぐ is the verb 次ぐ. じ is the on reading, used in words like 次回.",
+        "explanation_ta": "தனியாக 次 = つぎ (அடுத்த, next). つき = நிலா (月). つぐ என்பது 次ぐ என்ற வினை. じ ஆன் வாசிப்பு; 次回 போன்ற சொற்களில் வரும்."
+      },
+      {
+        "id": "KU5-q09",
+        "type": "kanji_reading",
+        "sentence": "その 話を 聞いて、うれしく ＿感じました＿。",
+        "target": "感じました",
+        "options": ["かんじました", "がんじました", "かじました", "かんしました"],
+        "answer": 0,
+        "explanation_en": "感じました is かんじました (உணர்ந்தேன், felt), from 感じる. がん is wrongly voiced, and かんし is wrongly unvoiced.",
+        "explanation_ta": "感じました = かんじました (உணர்ந்தேன், felt); 感じる-இலிருந்து. がん-இல் தவறான ஒலிப்பு; かんし-இல் ஒலிப்பு இல்லாதது தவறு."
+      },
+      {
+        "id": "KU5-q10",
+        "type": "kanji_reading",
+        "sentence": "夏休みに ＿両親＿と 旅行します。",
+        "target": "両親",
+        "options": ["りょしん", "りょうしん", "りょうおや", "りょうじん"],
+        "answer": 1,
+        "explanation_en": "両親 is りょうしん (பெற்றோர், parents). りょ is too short. おや is the kun reading of 親, not used here.",
+        "explanation_ta": "両親 = りょうしん (பெற்றோர், parents). りょ மிகக் குறுகியது. おや 親-இன் குன் வாசிப்பு; இங்கே பயன்படாது."
+      },
+      {
+        "id": "KU5-q11",
+        "type": "orthography",
+        "sentence": "ボールを ＿なげて＿ ください。",
+        "target": "なげて",
+        "options": ["打げて", "没げて", "投げて", "役げて"],
+        "answer": 2,
+        "explanation_en": "なげる (எறி, to throw) is written 投げる: a hand (扌) + a hand with a stick (殳). 役 has 彳 instead of 扌, and 打 is “to hit”.",
+        "explanation_ta": "なげる (எறி, to throw) = 投げる: கை (扌) + கம்பு பிடித்த கை (殳). 役-இல் 扌-க்குப் பதில் 彳; 打 = அடி."
+      },
+      {
+        "id": "KU5-q12",
+        "type": "orthography",
+        "sentence": "パソコンで メールを ＿うって＿ ください。",
+        "target": "うって",
+        "options": ["丁って", "持って", "指って", "打って"],
+        "answer": 3,
+        "explanation_en": "うつ (அடி; தட்டச்சு செய், to hit; to type) is written 打つ: a hand (扌) + a nail (丁). 持 and 指 also have 扌 but mean “hold” and “finger”.",
+        "explanation_ta": "うつ (அடி; தட்டச்சு செய், to hit; to type) = 打つ: கை (扌) + ஆணி (丁). 持, 指 இரண்டிலும் 扌 உண்டு; ஆனால் அவை “பிடி”, “விரல்”."
+      },
+      {
+        "id": "KU5-q13",
+        "type": "orthography",
+        "sentence": "あしたは 入学＿しき＿です。",
+        "target": "しき",
+        "options": ["武", "試", "式", "気"],
+        "answer": 2,
+        "explanation_en": "入学しき (பள்ளி சேர்க்கை விழா, entrance ceremony) uses 式. 試 (test) has 言 on the left, and 武 looks similar but means “warrior”.",
+        "explanation_ta": "入学しき (பள்ளி சேர்க்கை விழா, entrance ceremony) = 式. 試 (சோதனை)-இல் இடப்பக்கம் 言; 武 ஒத்துத் தெரியும், ஆனால் “வீரன்”."
+      },
+      {
+        "id": "KU5-q14",
+        "type": "orthography",
+        "sentence": "しずかな ＿ところ＿で 本を 読みたいです。",
+        "target": "ところ",
+        "options": ["場", "戸", "近", "所"],
+        "answer": 3,
+        "explanation_en": "ところ (இடம், place) is written 所: a door (戸) + an axe (斤). 場 also means place, but it is read ば. 戸 alone is a door.",
+        "explanation_ta": "ところ (இடம், place) = 所: கதவு (戸) + கோடரி (斤). 場-க்கும் இடம் என்று பொருள்; ஆனால் அது ば. தனியாக 戸 = கதவு."
+      },
+      {
+        "id": "KU5-q15",
+        "type": "orthography",
+        "sentence": "右手の ＿ゆび＿を けがしました。",
+        "target": "ゆび",
+        "options": ["指", "持", "拾", "旨"],
+        "answer": 0,
+        "explanation_en": "ゆび (விரல், finger) is written 指: a hand (扌) + a spoon over the sun (旨). 旨 alone has no hand, and 持 means “to hold”.",
+        "explanation_ta": "ゆび (விரல், finger) = 指: கை (扌) + வெயிலில் கரண்டி (旨). தனி 旨-இல் கை இல்லை; 持 = பிடி."
+      },
+      {
+        "id": "KU5-q16",
+        "type": "orthography",
+        "sentence": "あたたかい ＿かんじ＿の 部屋ですね。",
+        "target": "かんじ",
+        "options": ["漢字", "感じ", "幹じ", "感字"],
+        "answer": 1,
+        "explanation_en": "かんじ here means a feeling (உணர்வு, feeling), so it is 感じ, with the heart (心). 漢字 sounds the same but means kanji.",
+        "explanation_ta": "இங்கே かんじ = உணர்வு (உணர்வு, feeling); அதனால் இதயம் (心) உள்ள 感じ. 漢字 ஒரே ஒலி; ஆனால் அது கான்ஜி எழுத்து."
+      }
+    ]
+  }
+}

@@ -1,0 +1,956 @@
+[
+  {
+    "id": "n3-v-0019",
+    "expression": "詩",
+    "reading": "し",
+    "romaji": "shi",
+    "en": "poem, poetry",
+    "ta": "கவிதை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖父は毎朝、短い詩を書いています。",
+        "reading": "そふは まいあさ、みじかい しを かいて います。",
+        "romaji": "sofu wa maiasa, mijikai shi o kaite imasu.",
+        "ta": "தாத்தா தினமும் காலையில் ஒரு சிறு கவிதை எழுதுகிறார்.",
+        "en": "My grandfather writes a short poem every morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0040",
+    "expression": "詩人",
+    "reading": "しじん",
+    "romaji": "shijin",
+    "en": "poet",
+    "ta": "கவிஞர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "バーラティヤールは、タミルの有名な詩人です。",
+        "reading": "ばーらてぃやーるは、たみるの ゆうめいな しじんです。",
+        "romaji": "baaratiyaaru wa, tamiru no yuumei na shijin desu.",
+        "ta": "பாரதியார் தமிழின் புகழ்பெற்ற கவிஞர்.",
+        "en": "Bharathiyar is a famous Tamil poet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0130",
+    "expression": "上",
+    "reading": "じょう",
+    "romaji": "jou",
+    "en": "first volume (of a set)",
+    "ta": "முதல் பாகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "図書館で、その小説の上を借りました。",
+        "reading": "としょかんで、その しょうせつの じょうを かりました。",
+        "romaji": "toshokan de, sono shousetsu no jou o karimashita.",
+        "ta": "நூலகத்தில் அந்த நாவலின் முதல் பாகத்தை இரவல் வாங்கினேன்.",
+        "en": "I borrowed the first volume of that novel from the library."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0175",
+    "expression": "書物",
+    "reading": "しょもつ",
+    "romaji": "shomotsu",
+    "en": "books (formal)",
+    "ta": "நூல்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖父の部屋には、古い書物がたくさんあります。",
+        "reading": "そふの へやには、ふるい しょもつが たくさん あります。",
+        "romaji": "sofu no heya ni wa, furui shomotsu ga takusan arimasu.",
+        "ta": "தாத்தாவின் அறையில் பழைய நூல்கள் நிறைய உள்ளன.",
+        "en": "There are many old books in my grandfather’s room."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0227",
+    "expression": "少しも",
+    "reading": "すこしも",
+    "romaji": "sukoshimo",
+    "en": "(not) at all",
+    "ta": "கொஞ்சம்கூட (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "この映画は、少しもおもしろくなかった。",
+        "reading": "この えいがは、すこしも おもしろく なかった。",
+        "romaji": "kono eiga wa, sukoshimo omoshiroku nakatta.",
+        "ta": "இந்தப் படம் கொஞ்சம்கூட சுவாரசியமாக இல்லை.",
+        "en": "This film was not interesting at all."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0249",
+    "expression": "刷る",
+    "reading": "",
+    "romaji": "",
+    "en": "to print",
+    "ta": "அச்சிட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "年賀状を百枚刷りました。",
+        "reading": "ねんがじょうを ひゃくまい すりました。",
+        "romaji": "nengajou o hyakumai surimashita.",
+        "ta": "புத்தாண்டு வாழ்த்து அட்டைகளை நூறு அச்சிட்டேன்.",
+        "en": "I printed a hundred New Year cards."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0430",
+    "expression": "印刷",
+    "reading": "いんさつ",
+    "romaji": "insatsu",
+    "en": "printing",
+    "ta": "அச்சிடுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議の資料を十部印刷してください。",
+        "reading": "かいぎの しりょうを じゅうぶ いんさつ して ください。",
+        "romaji": "kaigi no shiryou o juubu insatsu shite kudasai.",
+        "ta": "கூட்டத்துக்கான ஆவணங்களைப் பத்துப் பிரதிகள் அச்சிடுங்கள்.",
+        "en": "Please print ten copies of the meeting papers."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0474",
+    "expression": "描く",
+    "reading": "えがく",
+    "romaji": "egaku",
+    "en": "to depict, to portray",
+    "ta": "சித்தரிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この小説は、村の人々の生活を美しく描いています。",
+        "reading": "この しょうせつは、むらの ひとびとの せいかつを うつくしく えがいて います。",
+        "romaji": "kono shousetsu wa, mura no hitobito no seikatsu o utsukushiku egaite imasu.",
+        "ta": "இந்த நாவல் கிராம மக்களின் வாழ்க்கையை அழகாகச் சித்தரிக்கிறது.",
+        "en": "This novel beautifully portrays the lives of village people."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0485",
+    "expression": "演奏",
+    "reading": "えんそう",
+    "romaji": "ensou",
+    "en": "musical performance",
+    "ta": "இசை வாசிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日、友達のバイオリンの演奏を聞きに行きました。",
+        "reading": "きのう、ともだちの ばいおりんの えんそうを ききに いきました。",
+        "romaji": "kinou, tomodachi no baiorin no ensou o kiki ni ikimashita.",
+        "ta": "நேற்று நண்பரின் வயலின் வாசிப்பைக் கேட்கப் போனேன்.",
+        "en": "Yesterday I went to hear my friend play the violin."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0513",
+    "expression": "恐らく",
+    "reading": "おそらく",
+    "romaji": "osoraku",
+    "en": "probably",
+    "ta": "பெரும்பாலும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "恐らく明日も雨でしょう。",
+        "reading": "おそらく あしたも あめでしょう。",
+        "romaji": "osoraku ashita mo ame deshou.",
+        "ta": "பெரும்பாலும் நாளையும் மழை பெய்யும்.",
+        "en": "It will probably rain tomorrow too."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0540",
+    "expression": "音",
+    "reading": "おん",
+    "romaji": "on",
+    "en": "sound; Chinese-style reading",
+    "ta": "ஒலி; (கான்ஜியின்) சீன வாசிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "漢字には、音と訓の読み方があります。",
+        "reading": "かんじには、おんと くんの よみかたが あります。",
+        "romaji": "kanji ni wa, on to kun no yomikata ga arimasu.",
+        "ta": "கான்ஜிக்கு 'ஒன்' (சீன), 'குன்' (ஜப்பானிய) என இரண்டு வகை வாசிப்புகள் உண்டு.",
+        "en": "Kanji have on (Chinese-style) and kun (Japanese) readings."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0552",
+    "expression": "絵画",
+    "reading": "かいが",
+    "romaji": "kaiga",
+    "en": "painting, picture",
+    "ta": "ஓவியம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "美術館で、有名な絵画を見ました。",
+        "reading": "びじゅつかんで、ゆうめいな かいがを みました。",
+        "romaji": "bijutsukan de, yuumei na kaiga o mimashita.",
+        "ta": "கலைக்கூடத்தில் புகழ்பெற்ற ஓவியங்களைப் பார்த்தேன்.",
+        "en": "I saw famous paintings at the art museum."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0571",
+    "expression": "画家",
+    "reading": "がか",
+    "romaji": "gaka",
+    "en": "painter, artist",
+    "ta": "ஓவியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼女の夢は、画家になることです。",
+        "reading": "かのじょの ゆめは、がかに なる ことです。",
+        "romaji": "kanojo no yume wa, gaka ni naru koto desu.",
+        "ta": "ஓவியர் ஆவதுதான் அவளுடைய கனவு.",
+        "en": "Her dream is to become a painter."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0580",
+    "expression": "描く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "en": "to draw, to paint",
+    "ta": "வரைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "娘が、母の日に私の顔を描いてくれました。",
+        "reading": "むすめが、ははの ひに わたしの かおを かいて くれました。",
+        "romaji": "musume ga, haha no hi ni watashi no kao o kaite kuremashita.",
+        "ta": "அன்னையர் தினத்தன்று மகள் என் முகத்தை வரைந்து தந்தாள்.",
+        "en": "My daughter drew my face for Mother’s Day."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0609",
+    "expression": "歌手",
+    "reading": "かしゅ",
+    "romaji": "kashu",
+    "en": "singer",
+    "ta": "பாடகர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "好きな歌手のコンサートに行きました。",
+        "reading": "すきな かしゅの こんさーとに いきました。",
+        "romaji": "suki na kashu no konsaato ni ikimashita.",
+        "ta": "எனக்குப் பிடித்த பாடகரின் இசை நிகழ்ச்சிக்குப் போனேன்.",
+        "en": "I went to my favourite singer’s concert."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0625",
+    "expression": "楽器",
+    "reading": "がっき",
+    "romaji": "gakki",
+    "en": "musical instrument",
+    "ta": "இசைக்கருவி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "何か楽器がひけますか。",
+        "reading": "なにか がっきが ひけますか。",
+        "romaji": "nanika gakki ga hikemasu ka.",
+        "ta": "ஏதாவது இசைக்கருவி வாசிக்கத் தெரியுமா?",
+        "en": "Can you play any musical instrument?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0642",
+    "expression": "上",
+    "reading": "かみ",
+    "romaji": "kami",
+    "en": "upper part; first half",
+    "ta": "மேல் பகுதி; முதல் பாதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "短歌の上の句を読むので、下の句を答えてください。",
+        "reading": "たんかの かみの くを よむので、しもの くを こたえて ください。",
+        "romaji": "tanka no kami no ku o yomu node, shimo no ku o kotaete kudasai.",
+        "ta": "தன்கா கவிதையின் முதல் பாதியைப் படிக்கிறேன்; இரண்டாம் பாதியைச் சொல்லுங்கள்.",
+        "en": "I’ll read the first half of the tanka, so give the second half."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0647",
+    "expression": "かもしれない",
+    "reading": "かもしれない",
+    "romaji": "kamoshirenai",
+    "en": "may, might",
+    "ta": "இருக்கலாம்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "あの映画、もう終わっているかもしれないよ。",
+        "reading": "あの えいが、もう おわって いるかも しれないよ。",
+        "romaji": "ano eiga, mou owatte iru ka mo shirenai yo.",
+        "ta": "அந்தப் படம் ஏற்கெனவே முடிந்திருக்கலாம்.",
+        "en": "That film might already be over."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0649",
+    "expression": "歌謡",
+    "reading": "かよう",
+    "romaji": "kayou",
+    "en": "popular song, ballad",
+    "ta": "ஜனரஞ்சகப் பாடல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖母は、昔の歌謡曲を聞くのが好きです。",
+        "reading": "そぼは、むかしの かようきょくを きくのが すきです。",
+        "romaji": "sobo wa, mukashi no kayoukyoku o kiku no ga suki desu.",
+        "ta": "பாட்டிக்குப் பழைய ஜனரஞ்சகப் பாடல்களைக் கேட்கப் பிடிக்கும்.",
+        "en": "My grandmother likes listening to old popular songs."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0684",
+    "expression": "感想",
+    "reading": "かんそう",
+    "romaji": "kansou",
+    "en": "impressions, thoughts",
+    "ta": "கருத்து, அபிப்பிராயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "映画を見たあとで、感想を話し合いました。",
+        "reading": "えいがを みた あとで、かんそうを はなしあいました。",
+        "romaji": "eiga o mita ato de, kansou o hanashiaimashita.",
+        "ta": "படம் பார்த்த பிறகு, அதைப் பற்றிய கருத்துகளைப் பகிர்ந்துகொண்டோம்.",
+        "en": "After the film, we talked about our impressions."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0795",
+    "expression": "汲む",
+    "reading": "くむ",
+    "romaji": "kumu",
+    "en": "to draw (water), to scoop",
+    "ta": "(நீர்) இறைக்க, மொள்ள",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "村の人たちは、毎朝井戸から水を汲みます。",
+        "reading": "むらの ひとたちは、まいあさ いどから みずを くみます。",
+        "romaji": "mura no hitotachi wa, maiasa ido kara mizu o kumimasu.",
+        "ta": "கிராம மக்கள் தினமும் காலையில் கிணற்றிலிருந்து தண்ணீர் இறைக்கிறார்கள்.",
+        "en": "The villagers draw water from the well every morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0800",
+    "expression": "クラシック",
+    "reading": "クラシック",
+    "romaji": "kurashikku",
+    "en": "classical (music)",
+    "ta": "செவ்வியல் இசை (கிளாசிக்கல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "勉強するときは、静かなクラシックを聞きます。",
+        "reading": "べんきょう する ときは、しずかな くらしっくを ききます。",
+        "romaji": "benkyou suru toki wa, shizuka na kurashikku o kikimasu.",
+        "ta": "படிக்கும்போது அமைதியான கிளாசிக்கல் இசையைக் கேட்பேன்.",
+        "en": "I listen to quiet classical music when I study."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0832",
+    "expression": "芸術",
+    "reading": "げいじゅつ",
+    "romaji": "geijutsu",
+    "en": "art, the arts",
+    "ta": "கலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この大学には、芸術を学ぶ学生がたくさんいます。",
+        "reading": "この だいがくには、げいじゅつを まなぶ がくせいが たくさん います。",
+        "romaji": "kono daigaku ni wa, geijutsu o manabu gakusei ga takusan imasu.",
+        "ta": "இந்தப் பல்கலைக்கழகத்தில் கலை பயிலும் மாணவர்கள் நிறைய பேர் இருக்கிறார்கள்.",
+        "en": "Many students study art at this university."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0977",
+    "expression": "作品",
+    "reading": "さくひん",
+    "romaji": "sakuhin",
+    "en": "work (of art)",
+    "ta": "படைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この絵は、有名な画家の若いころの作品です。",
+        "reading": "この えは、ゆうめいな がかの わかい ころの さくひんです。",
+        "romaji": "kono e wa, yuumei na gaka no wakai koro no sakuhin desu.",
+        "ta": "இந்த ஓவியம் ஒரு புகழ்பெற்ற ஓவியரின் இளமைக்காலப் படைப்பு.",
+        "en": "This picture is an early work by a famous painter."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0993",
+    "expression": "作家",
+    "reading": "さっか",
+    "romaji": "sakka",
+    "en": "writer, novelist",
+    "ta": "எழுத்தாளர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "好きな作家の新しい本が、来月出ます。",
+        "reading": "すきな さっかの あたらしい ほんが、らいげつ でます。",
+        "romaji": "suki na sakka no atarashii hon ga, raigetsu demasu.",
+        "ta": "எனக்குப் பிடித்த எழுத்தாளரின் புதிய நூல் அடுத்த மாதம் வெளிவரும்.",
+        "en": "My favourite writer’s new book comes out next month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0994",
+    "expression": "作曲",
+    "reading": "さっきょく",
+    "romaji": "sakkyoku",
+    "en": "composing music",
+    "ta": "இசையமைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この映画の音楽は、A・R・ラフマーンが作曲しました。",
+        "reading": "この えいがの おんがくは、えー・あーる・らふまーんが さっきょく しました。",
+        "romaji": "kono eiga no ongaku wa, ee aaru rafumaan ga sakkyoku shimashita.",
+        "ta": "இந்தப் படத்துக்கு ஏ.ஆர். ரஹ்மான் இசையமைத்தார்.",
+        "en": "A. R. Rahman composed the music for this film."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1069",
+    "expression": "もしかすると",
+    "reading": "もしかすると",
+    "romaji": "moshikasuruto",
+    "en": "perhaps, possibly",
+    "ta": "ஒருவேளை",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "もしかすると、彼は今日来ないかもしれません。",
+        "reading": "もしかすると、かれは きょう こないかも しれません。",
+        "romaji": "moshika suru to, kare wa kyou konai ka mo shiremasen.",
+        "ta": "ஒருவேளை அவர் இன்று வராமல் இருக்கலாம்.",
+        "en": "Perhaps he won’t come today."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1083",
+    "expression": "物語",
+    "reading": "ものがたり",
+    "romaji": "monogatari",
+    "en": "story, tale",
+    "ta": "கதை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖母は寝る前に、昔の物語を話してくれました。",
+        "reading": "そぼは ねる まえに、むかしの ものがたりを はなして くれました。",
+        "romaji": "sobo wa neru mae ni, mukashi no monogatari o hanashite kuremashita.",
+        "ta": "தூங்கும் முன் பாட்டி பழங்காலக் கதைகளைச் சொல்லுவார்.",
+        "en": "Before bed, my grandmother told me old stories."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1157",
+    "expression": "ライター",
+    "reading": "ライター",
+    "romaji": "raitaa",
+    "en": "writer; (cigarette) lighter",
+    "ta": "எழுத்தாளர்; லைட்டர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は、旅行雑誌のライターをしています。",
+        "reading": "あねは、りょこう ざっしの らいたーを して います。",
+        "romaji": "ane wa, ryokou zasshi no raitaa o shite imasu.",
+        "ta": "அக்கா ஒரு பயண இதழில் கட்டுரை எழுத்தாளராக வேலை செய்கிறார்.",
+        "en": "My older sister works as a writer for a travel magazine."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1255",
+    "expression": "季刊",
+    "reading": "きかん",
+    "romaji": "kikan",
+    "en": "quarterly (publication)",
+    "ta": "காலாண்டு இதழ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この雑誌は季刊で、一年に四回出ます。",
+        "reading": "この ざっしは きかんで、いちねんに よんかい でます。",
+        "romaji": "kono zasshi wa kikan de, ichinen ni yonkai demasu.",
+        "ta": "இந்த இதழ் காலாண்டு இதழ்; ஆண்டுக்கு நான்கு முறை வெளிவரும்.",
+        "en": "This magazine is a quarterly; it comes out four times a year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1290",
+    "expression": "ことによると",
+    "reading": "ことによると",
+    "romaji": "kotoniyoruto",
+    "en": "possibly, it may be that",
+    "ta": "ஒருவேளை, சூழ்நிலையைப் பொறுத்து",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "ことによると、明日のコンサートは中止になるかもしれない。",
+        "reading": "ことに よると、あしたの こんさーとは ちゅうしに なるかも しれない。",
+        "romaji": "koto ni yoru to, ashita no konsaato wa chuushi ni naru ka mo shirenai.",
+        "ta": "ஒருவேளை நாளைய இசை நிகழ்ச்சி ரத்து ஆகலாம்.",
+        "en": "Possibly tomorrow’s concert will be cancelled."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1319",
+    "expression": "想像",
+    "reading": "そうぞう",
+    "romaji": "souzou",
+    "en": "imagination",
+    "ta": "கற்பனை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "百年後の町を想像して、絵を描いてみましょう。",
+        "reading": "ひゃくねんごの まちを そうぞう して、えを かいて みましょう。",
+        "romaji": "hyakunengo no machi o souzou shite, e o kaite mimashou.",
+        "ta": "நூறு ஆண்டுகளுக்குப் பிறகு நகரம் எப்படி இருக்கும் என்று கற்பனை செய்து வரைந்து பார்ப்போம்.",
+        "en": "Let’s imagine the town in a hundred years and draw it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1356",
+    "expression": "題",
+    "reading": "だい",
+    "romaji": "dai",
+    "en": "title, theme",
+    "ta": "தலைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "作文の題は「私の夢」です。",
+        "reading": "さくぶんの だいは「わたしの ゆめ」です。",
+        "romaji": "sakubun no dai wa \"watashi no yume\" desu.",
+        "ta": "கட்டுரையின் தலைப்பு 'என் கனவு'.",
+        "en": "The title of the essay is “My Dream”."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1379",
+    "expression": "題名",
+    "reading": "だいめい",
+    "romaji": "daimei",
+    "en": "title (of a work)",
+    "ta": "(படைப்பின்) பெயர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その歌の題名を、どうしても思い出せない。",
+        "reading": "その うたの だいめいを、どうしても おもいだせない。",
+        "romaji": "sono uta no daimei o, doushitemo omoidasenai.",
+        "ta": "அந்தப் பாடலின் பெயர் எவ்வளவு முயன்றும் நினைவுக்கு வரவில்லை.",
+        "en": "I just can’t remember the title of that song."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1491",
+    "expression": "著者",
+    "reading": "ちょしゃ",
+    "romaji": "chosha",
+    "en": "author",
+    "ta": "நூலாசிரியர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この本の著者は、大学の先生です。",
+        "reading": "この ほんの ちょしゃは、だいがくの せんせいです。",
+        "romaji": "kono hon no chosha wa, daigaku no sensei desu.",
+        "ta": "இந்த நூலின் ஆசிரியர் ஒரு பல்கலைக்கழகப் பேராசிரியர்.",
+        "en": "The author of this book is a university teacher."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1518",
+    "expression": "続き",
+    "reading": "つづき",
+    "romaji": "tsuzuki",
+    "en": "continuation, next part",
+    "ta": "தொடர்ச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ドラマの続きが早く見たい。",
+        "reading": "どらまの つづきが はやく みたい。",
+        "romaji": "dorama no tsuzuki ga hayaku mitai.",
+        "ta": "தொடரின் அடுத்த பகுதியைச் சீக்கிரம் பார்க்க ஆசையாக இருக்கிறது.",
+        "en": "I want to see the next part of the drama soon."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1587",
+    "expression": "童謡",
+    "reading": "どうよう",
+    "romaji": "douyou",
+    "en": "children’s song",
+    "ta": "குழந்தைப் பாடல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母は毎晩、童謡を歌ってくれました。",
+        "reading": "ははは まいばん、どうようを うたって くれました。",
+        "romaji": "haha wa maiban, douyou o utatte kuremashita.",
+        "ta": "அம்மா தினமும் இரவு குழந்தைப் பாடல்கள் பாடுவார்.",
+        "en": "My mother sang children’s songs to me every night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1612",
+    "expression": "図書",
+    "reading": "としょ",
+    "romaji": "tosho",
+    "en": "books",
+    "ta": "நூல்கள், புத்தகங்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "学校の図書室は、五時まで開いています。",
+        "reading": "がっこうの としょしつは、ごじまで あいて います。",
+        "romaji": "gakkou no toshoshitsu wa, goji made aite imasu.",
+        "ta": "பள்ளி நூலக அறை ஐந்து மணி வரை திறந்திருக்கும்.",
+        "en": "The school library room is open until five."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1614",
+    "expression": "閉じる",
+    "reading": "とじる",
+    "romaji": "tojiru",
+    "en": "to close, to shut",
+    "ta": "மூட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "本を閉じて、目を閉じてください。",
+        "reading": "ほんを とじて、めを とじて ください。",
+        "romaji": "hon o tojite, me o tojite kudasai.",
+        "ta": "புத்தகத்தை மூடிவிட்டுக் கண்களை மூடுங்கள்.",
+        "en": "Close your book and close your eyes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1740",
+    "expression": "バイオリン",
+    "reading": "バイオリン",
+    "romaji": "baiorin",
+    "en": "violin",
+    "ta": "வயலின்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "妹は五歳からバイオリンを習っています。",
+        "reading": "いもうとは ごさいから ばいおりんを ならって います。",
+        "romaji": "imouto wa gosai kara baiorin o naratte imasu.",
+        "ta": "தங்கை ஐந்து வயதிலிருந்து வயலின் கற்று வருகிறாள்.",
+        "en": "My younger sister has learned the violin since she was five."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1832",
+    "expression": "批判",
+    "reading": "ひはん",
+    "romaji": "hihan",
+    "en": "criticism",
+    "ta": "விமர்சனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その映画は、多くの人に批判されました。",
+        "reading": "その えいがは、おおくの ひとに ひはん されました。",
+        "romaji": "sono eiga wa, ooku no hito ni hihan saremashita.",
+        "ta": "அந்தப் படம் பலரால் விமர்சிக்கப்பட்டது.",
+        "en": "That film was criticized by many people."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1861",
+    "expression": "笛",
+    "reading": "ふえ",
+    "romaji": "fue",
+    "en": "flute; whistle",
+    "ta": "புல்லாங்குழல்; விசில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生が笛を吹くと、子どもたちは集まりました。",
+        "reading": "せんせいが ふえを ふくと、こどもたちは あつまりました。",
+        "romaji": "sensei ga fue o fuku to, kodomotachi wa atsumarimashita.",
+        "ta": "ஆசிரியர் விசில் ஊதியதும் குழந்தைகள் ஒன்றுகூடினார்கள்.",
+        "en": "When the teacher blew the whistle, the children gathered."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1871",
+    "expression": "節",
+    "reading": "ふし",
+    "romaji": "fushi",
+    "en": "tune, melody",
+    "ta": "மெட்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この歌の節は覚えやすいですね。",
+        "reading": "この うたの ふしは おぼえやすいですね。",
+        "romaji": "kono uta no fushi wa oboeyasui desu ne.",
+        "ta": "இந்தப் பாடலின் மெட்டு எளிதில் நினைவில் நிற்கிறது, இல்லையா?",
+        "en": "This song’s tune is easy to remember, isn’t it?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1917",
+    "expression": "別に",
+    "reading": "べつに",
+    "romaji": "betsuni",
+    "en": "(not) particularly",
+    "ta": "பெரிதாக (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "ホラー映画は、別に好きじゃありません。",
+        "reading": "ほらー えいがは、べつに すきじゃ ありません。",
+        "romaji": "horaa eiga wa, betsu ni suki ja arimasen.",
+        "ta": "திகில் படங்கள் எனக்குப் பெரிதாகப் பிடிக்காது.",
+        "en": "I don’t particularly like horror films."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1922",
+    "expression": "ペンキ",
+    "reading": "ペンキ",
+    "romaji": "penki",
+    "en": "paint (for walls)",
+    "ta": "பெயிண்ட், வண்ணப்பூச்சு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ポンガルの前に、家の壁にペンキを塗りました。",
+        "reading": "ぽんがるの まえに、いえの かべに ぺんきを ぬりました。",
+        "romaji": "pongaru no mae ni, ie no kabe ni penki o nurimashita.",
+        "ta": "பொங்கலுக்கு முன் வீட்டுச் சுவருக்குப் பெயிண்ட் அடித்தோம்.",
+        "en": "Before Pongal, we painted the walls of the house."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2006",
+    "expression": "指揮",
+    "reading": "しき",
+    "romaji": "shiki",
+    "en": "conducting; command",
+    "ta": "(இசைக்குழு) நடத்துதல்; தலைமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今夜は、有名な先生がオーケストラを指揮します。",
+        "reading": "こんやは、ゆうめいな せんせいが おーけすとらを しき します。",
+        "romaji": "kon’ya wa, yuumei na sensei ga ookesutora o shiki shimasu.",
+        "ta": "இன்றிரவு ஒரு புகழ்பெற்ற ஆசிரியர் இசைக்குழுவை நடத்துகிறார்.",
+        "en": "Tonight a famous maestro will conduct the orchestra."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2056",
+    "expression": "創造",
+    "reading": "そうぞう",
+    "romaji": "souzou",
+    "en": "creation",
+    "ta": "படைப்பாக்கம், உருவாக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "芸術とは、新しいものを創造することだ。",
+        "reading": "げいじゅつとは、あたらしい ものを そうぞう する ことだ。",
+        "romaji": "geijutsu to wa, atarashii mono o souzou suru koto da.",
+        "ta": "கலை என்பது புதியதைப் படைப்பதுதான்.",
+        "en": "Art means creating something new."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2059",
+    "expression": "タイトル",
+    "reading": "タイトル",
+    "romaji": "taitoru",
+    "en": "title",
+    "ta": "தலைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "新しいアルバムのタイトルは、まだ秘密です。",
+        "reading": "あたらしい あるばむの たいとるは、まだ ひみつです。",
+        "romaji": "atarashii arubamu no taitoru wa, mada himitsu desu.",
+        "ta": "புதிய இசைத்தொகுப்பின் தலைப்பு இன்னும் ரகசியம்.",
+        "en": "The title of the new album is still a secret."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2095",
+    "expression": "音",
+    "reading": "ね",
+    "romaji": "ne",
+    "en": "sound (of an instrument, insects)",
+    "ta": "(இனிய) ஒலி, நாதம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜、どこからか笛の音が聞こえてきた。",
+        "reading": "よる、どこからか ふえの ねが きこえて きた。",
+        "romaji": "yoru, doko kara ka fue no ne ga kikoete kita.",
+        "ta": "இரவில் எங்கிருந்தோ புல்லாங்குழல் நாதம் கேட்டது.",
+        "en": "At night, the sound of a flute came from somewhere."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2096",
+    "expression": "年鑑",
+    "reading": "ねんかん",
+    "romaji": "nenkan",
+    "en": "yearbook, almanac",
+    "ta": "ஆண்டு நூல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "図書館で、去年の年鑑を調べました。",
+        "reading": "としょかんで、きょねんの ねんかんを しらべました。",
+        "romaji": "toshokan de, kyonen no nenkan o shirabemashita.",
+        "ta": "நூலகத்தில் கடந்த ஆண்டின் ஆண்டு நூலைப் பார்த்து விவரம் தேடினேன்.",
+        "en": "I checked last year’s yearbook at the library."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2106",
+    "expression": "判",
+    "reading": "はん",
+    "romaji": "han",
+    "en": "size (of paper or books)",
+    "ta": "(தாள், நூல்) அளவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この写真集は判が大きくて、本棚に入りません。",
+        "reading": "この しゃしんしゅうは はんが おおきくて、ほんだなに はいりません。",
+        "romaji": "kono shashinshuu wa han ga ookikute, hondana ni hairimasen.",
+        "ta": "இந்தப் புகைப்படத் தொகுப்பின் அளவு பெரியதால் புத்தக அலமாரியில் நுழையவில்லை.",
+        "en": "This photo book is too large in size to fit on the bookshelf."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2121",
+    "expression": "膜",
+    "reading": "まく",
+    "romaji": "maku",
+    "en": "thin film, membrane",
+    "ta": "மெல்லிய படலம், சவ்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "牛乳を温めると、上に薄い膜ができます。",
+        "reading": "ぎゅうにゅうを あたためると、うえに うすい まくが できます。",
+        "romaji": "gyuunyuu o atatameru to, ue ni usui maku ga dekimasu.",
+        "ta": "பாலைச் சூடாக்கினால் மேலே மெல்லிய படலம் உருவாகும்.",
+        "en": "When you heat milk, a thin film forms on top."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2127",
+    "expression": "捲る",
+    "reading": "めくる",
+    "romaji": "mekuru",
+    "en": "to turn (pages)",
+    "ta": "(பக்கம்) புரட்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "静かな図書館で、ページをめくる音だけが聞こえた。",
+        "reading": "しずかな としょかんで、ぺーじを めくる おとだけが きこえた。",
+        "romaji": "shizuka na toshokan de, peeji o mekuru oto dake ga kikoeta.",
+        "ta": "அமைதியான நூலகத்தில் பக்கம் புரட்டும் ஒலி மட்டுமே கேட்டது.",
+        "en": "In the quiet library, only the sound of turning pages was heard."
+      }
+    ]
+  }
+]

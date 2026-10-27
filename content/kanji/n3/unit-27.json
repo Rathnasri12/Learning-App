@@ -1,0 +1,852 @@
+{
+  "unit": 27,
+  "title": {
+    "en": "Tired, busy and sleepy: daily life",
+    "ta": "சோர்வு, பிஸி, தூக்கம்: அன்றாட வாழ்க்கை"
+  },
+  "intro": {
+    "en": "In this last unit you learn 14 kanji from everyday life: tired, busy, sleepy, scary, shame, hair, shoes, cat, smoke and cups. You already say most of these words every day. Tip: three kanji here have the heart part 忄 (怖, 忙) or 心 (恥), and they are all about feelings.",
+    "ta": "இந்தக் கடைசிப் பாடத்தில் அன்றாட வாழ்க்கையிலிருந்து 14 கான்ஜிகளைக் கற்கிறீர்கள்: சோர்வு, பிஸி, தூக்கம், பயம், வெட்கம், முடி, காலணி, பூனை, புகை, கோப்பை. இவற்றில் பெரும்பாலான சொற்களை நீங்கள் தினமும் பேசுகிறீர்கள். குறிப்பு: இங்கே மூன்று கான்ஜிகளில் இதயப் பகுதி 忄 (怖, 忙) அல்லது 心 (恥) உள்ளது; அவை எல்லாம் உணர்வுகள் பற்றியவை."
+  },
+  "kanji": [
+    {
+      "kanji": "杯",
+      "meaning": {
+        "en": "cupful; cup",
+        "ta": "கோப்பை (அளவு)"
+      },
+      "on": [
+        "はい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A wooden (木) cup next to 不 (not). You drink and turn the wooden cup upside down: “No (不) more!” The cup is empty. 杯 counts cupfuls.",
+        "ta": "மரத்தால் (木) ஆன கோப்பை, அருகில் 不 (இல்லை). குடித்து முடித்து மரக் கோப்பையைத் தலைகீழாகக் கவிழ்க்கிறீர்கள்: “இனி வேண்டாம் (不)!” கோப்பை காலி. 杯 கோப்பைகளை எண்ணப் பயன்படும்."
+      },
+      "note": {
+        "en": "The sound changes with the number: いっぱい (1), にはい (2), さんばい (3), ろっぱい (6). 一杯 also means “full”: おなかが いっぱい.",
+        "ta": "எண்ணுக்கு ஏற்ப ஒலி மாறும்: いっぱい (1), にはい (2), さんばい (3), ろっぱい (6). 一杯 என்பதற்கு “நிறைய” என்றும் பொருள்: おなかが いっぱい (வயிறு நிறைந்தது)."
+      },
+      "examples": [
+        {
+          "word": "二杯",
+          "reading": "にはい",
+          "en": "two cupfuls (杯 counts cups, glasses, bowls)",
+          "ta": "இரண்டு கோப்பை (杯 கோப்பை, டம்ளர், கிண்ணம் எண்ணும்)",
+          "vocabId": "n5-v-520"
+        },
+        {
+          "word": "一杯",
+          "reading": "いっぱい",
+          "en": "one cupful; full",
+          "ta": "ஒரு கோப்பை; நிறைய"
+        },
+        {
+          "word": "三杯",
+          "reading": "さんばい",
+          "en": "three cupfuls",
+          "ta": "மூன்று கோப்பை"
+        }
+      ]
+    },
+    {
+      "kanji": "疲",
+      "meaning": {
+        "en": "tired",
+        "ta": "சோர்வு"
+      },
+      "on": [
+        "ひ"
+      ],
+      "kun": [
+        "つか.れる"
+      ],
+      "mnemonic": {
+        "en": "疒 is the “sick bed” roof (a roof with a bed and drops of sweat). Under it is 皮 (skin). Your whole body, even your skin, feels heavy and you lie down: you are tired.",
+        "ta": "疒 என்பது “நோய்ப் படுக்கை” கூரை (கூரை, கட்டில், வியர்வைத் துளிகள்). அதன் கீழ் 皮 (தோல்). உடம்பு முழுதும், தோல் கூடக் கனமாக இருக்கிறது; படுத்துவிடுகிறீர்கள்: சோர்வு."
+      },
+      "note": {
+        "en": "お疲れ様です (おつかれさまです) is said to colleagues at work. Don’t read つかれる as つかわれる (使われる, be used).",
+        "ta": "お疲れ様です (おつかれさまです) என்று வேலையில் சக ஊழியர்களிடம் சொல்வார்கள். つかれる ஐ つかわれる (使われる, பயன்படுத்தப்படு) என்று படிக்காதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "疲れる",
+          "reading": "つかれる",
+          "en": "to get tired",
+          "ta": "சோர்வடை",
+          "vocabId": "n5-v-414"
+        },
+        {
+          "word": "疲れ",
+          "reading": "つかれ",
+          "en": "tiredness",
+          "ta": "களைப்பு",
+          "vocabId": "n3-v-1505"
+        },
+        {
+          "word": "疲労",
+          "reading": "ひろう",
+          "en": "fatigue, exhaustion",
+          "ta": "உடல் சோர்வு"
+        }
+      ]
+    },
+    {
+      "kanji": "皆",
+      "meaning": {
+        "en": "everyone, all",
+        "ta": "எல்லாரும்"
+      },
+      "on": [
+        "かい"
+      ],
+      "kun": [
+        "みな",
+        "みんな"
+      ],
+      "mnemonic": {
+        "en": "On top, 比: two people standing side by side, shoulder to shoulder. Under them is white (白). All the people stand together under the white sky: everyone.",
+        "ta": "மேலே 比: தோளோடு தோள் சேர்ந்து நிற்கும் இரண்டு பேர். கீழே வெள்ளை (白). வெள்ளை வானத்தின் கீழ் எல்லாரும் ஒன்றாக நிற்கிறார்கள்: எல்லாரும்."
+      },
+      "note": {
+        "en": "皆 can be read みな or みんな. 皆さん is always みなさん.",
+        "ta": "皆 = みな அல்லது みんな. 皆さん எப்போதும் みなさん."
+      },
+      "examples": [
+        {
+          "word": "皆",
+          "reading": "みな",
+          "en": "everyone, all",
+          "ta": "எல்லாரும்",
+          "vocabId": "n4-v-322"
+        },
+        {
+          "word": "皆さん",
+          "reading": "みなさん",
+          "en": "everyone (polite); ladies and gentlemen",
+          "ta": "அனைவரும் (மரியாதையாக)",
+          "vocabId": "n5-v-645"
+        },
+        {
+          "word": "皆様",
+          "reading": "みなさま",
+          "en": "everyone (very polite)",
+          "ta": "அனைவரும் (மிக மரியாதையாக)"
+        }
+      ]
+    },
+    {
+      "kanji": "煙",
+      "meaning": {
+        "en": "smoke",
+        "ta": "புகை"
+      },
+      "on": [
+        "えん"
+      ],
+      "kun": [
+        "けむり",
+        "けむ.い"
+      ],
+      "mnemonic": {
+        "en": "Fire (火) on the left. On the right is a chimney: a box (西) sitting on the ground (土). The fire burns and smoke comes out of the chimney.",
+        "ta": "இடப்பக்கம் நெருப்பு (火). வலப்பக்கம் ஒரு புகைபோக்கி: தரையின் (土) மேல் வைத்த பெட்டி (西). நெருப்பு எரிகிறது; புகைபோக்கியிலிருந்து புகை வருகிறது."
+      },
+      "note": {
+        "en": "Alone 煙 is けむり; in compound words it is えん: 禁煙 (きんえん).",
+        "ta": "தனியாக 煙 = けむり; கூட்டுச் சொற்களில் えん: 禁煙 (きんえん)."
+      },
+      "examples": [
+        {
+          "word": "煙",
+          "reading": "けむり",
+          "en": "smoke",
+          "ta": "புகை",
+          "vocabId": "n3-v-0850"
+        },
+        {
+          "word": "禁煙",
+          "reading": "きんえん",
+          "en": "no smoking",
+          "ta": "புகைபிடிக்கத் தடை",
+          "vocabId": "n3-v-0768"
+        },
+        {
+          "word": "煙い",
+          "reading": "けむい",
+          "en": "smoky",
+          "ta": "புகையாக இருக்கும்"
+        }
+      ]
+    },
+    {
+      "kanji": "眠",
+      "meaning": {
+        "en": "sleep",
+        "ta": "உறக்கம்"
+      },
+      "on": [
+        "みん"
+      ],
+      "kun": [
+        "ねむ.る",
+        "ねむ.い"
+      ],
+      "mnemonic": {
+        "en": "An eye (目) next to people (民). At night, the eyes of all the people in the town close: they sleep.",
+        "ta": "கண் (目), அருகில் மக்கள் (民). இரவில் ஊர் மக்கள் எல்லாருடைய கண்களும் மூடுகின்றன: உறங்குகிறார்கள்."
+      },
+      "note": {
+        "en": "寝る (ねる): go to bed. 眠る (ねむる): be asleep. 眠い (ねむい): sleepy.",
+        "ta": "寝る (ねる): படுக்கப் போ. 眠る (ねむる): உறங்கு. 眠い (ねむい): தூக்கக் கலக்கம்."
+      },
+      "examples": [
+        {
+          "word": "眠い",
+          "reading": "ねむい",
+          "en": "sleepy",
+          "ta": "தூக்கக் கலக்கமான",
+          "vocabId": "n4-v-565"
+        },
+        {
+          "word": "眠る",
+          "reading": "ねむる",
+          "en": "to sleep, to be asleep",
+          "ta": "உறங்கு",
+          "vocabId": "n4-v-632"
+        },
+        {
+          "word": "居眠り",
+          "reading": "いねむり",
+          "en": "dozing off",
+          "ta": "உட்கார்ந்தபடி தூங்குதல்",
+          "vocabId": "n3-v-0410"
+        }
+      ]
+    },
+    {
+      "kanji": "怖",
+      "meaning": {
+        "en": "scary, afraid",
+        "ta": "பயமான"
+      },
+      "on": [
+        "ふ"
+      ],
+      "kun": [
+        "こわ.い"
+      ],
+      "mnemonic": {
+        "en": "A heart (忄) next to 布 (cloth). A ghost in a white cloth jumps out at night. Your heart jumps: scary!",
+        "ta": "இதயம் (忄), அருகில் 布 (துணி). இரவில் வெள்ளைத் துணி போர்த்திய பேய் திடீரென்று வெளியே குதிக்கிறது. உங்கள் இதயம் துள்ளுகிறது: பயமாக இருக்கிறது!"
+      },
+      "note": {
+        "en": "こわい (怖い, scary) and こわれる (壊れる, break) sound alike but are different words.",
+        "ta": "こわい (怖い, பயம்), こわれる (壊れる, உடை) ஒரே மாதிரி ஒலிக்கும்; ஆனால் வேறு சொற்கள்."
+      },
+      "examples": [
+        {
+          "word": "怖い",
+          "reading": "こわい",
+          "en": "scary, frightening",
+          "ta": "பயமான",
+          "vocabId": "n4-v-140"
+        },
+        {
+          "word": "怖がる",
+          "reading": "こわがる",
+          "en": "to be afraid",
+          "ta": "பயப்படு"
+        },
+        {
+          "word": "恐怖",
+          "reading": "きょうふ",
+          "en": "fear, terror",
+          "ta": "அச்சம், பீதி",
+          "vocabId": "n3-v-0754"
+        }
+      ]
+    },
+    {
+      "kanji": "髪",
+      "meaning": {
+        "en": "hair (on the head)",
+        "ta": "தலைமுடி"
+      },
+      "on": [
+        "はつ"
+      ],
+      "kun": [
+        "かみ"
+      ],
+      "mnemonic": {
+        "en": "On top: long (長, squeezed small) and three flowing lines (彡) = long, flowing hair. Under it is a friend (友). My friend has long hair, like a long Tamil braid.",
+        "ta": "மேலே: நீளம் (長, சுருக்கமாக) மற்றும் மூன்று பாயும் கோடுகள் (彡) = நீண்ட, அலை பாயும் முடி. கீழே ஒரு நண்பர் (友). என் தோழிக்கு நீண்ட சடை போன்ற நீளமான முடி."
+      },
+      "note": {
+        "en": "髪 (かみ, hair), 紙 (かみ, paper) and 神 (かみ, god) all read かみ. 白髪 is a special reading: しらが.",
+        "ta": "髪 (かみ, முடி), 紙 (かみ, காகிதம்), 神 (かみ, கடவுள்) மூன்றும் かみ. 白髪 ஒரு சிறப்பு வாசிப்பு: しらが."
+      },
+      "examples": [
+        {
+          "word": "髪",
+          "reading": "かみ",
+          "en": "hair",
+          "ta": "தலைமுடி",
+          "vocabId": "n4-v-452"
+        },
+        {
+          "word": "髪の毛",
+          "reading": "かみのけ",
+          "en": "hair (on the head)",
+          "ta": "தலைமுடி",
+          "vocabId": "n3-v-0645"
+        },
+        {
+          "word": "白髪",
+          "reading": "しらが",
+          "en": "grey / white hair",
+          "ta": "நரை முடி"
+        }
+      ]
+    },
+    {
+      "kanji": "忙",
+      "meaning": {
+        "en": "busy",
+        "ta": "வேலைப்பளு, பிஸி"
+      },
+      "on": [
+        "ぼう"
+      ],
+      "kun": [
+        "いそが.しい"
+      ],
+      "mnemonic": {
+        "en": "A heart (忄) next to 亡 (lost, gone). You have so much to do that your heart is lost. You are busy.",
+        "ta": "இதயம் (忄), அருகில் 亡 (இழந்த, போய்விட்ட). செய்ய வேண்டியது மிக அதிகம்; இதயமே தொலைந்துவிட்டது. நீங்கள் பிஸியாக இருக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "忙 and 忘 (forget, わすれる) have the same parts: heart + 亡. 忙 has the heart 忄 on the left; 忘 has 心 at the bottom.",
+        "ta": "忙, 忘 (மற, わすれる) இரண்டிலும் ஒரே பகுதிகள்: இதயம் + 亡. 忙-இல் இதயம் 忄 இடப்பக்கம்; 忘-இல் 心 கீழே."
+      },
+      "examples": [
+        {
+          "word": "忙しい",
+          "reading": "いそがしい",
+          "en": "busy",
+          "ta": "வேலைப்பளுவான, பிஸியான",
+          "vocabId": "n5-v-055"
+        },
+        {
+          "word": "お忙しい",
+          "reading": "おいそがしい",
+          "en": "busy (polite, about others)",
+          "ta": "(மற்றவர்) பிஸியான (மரியாதையாக)"
+        },
+        {
+          "word": "多忙",
+          "reading": "たぼう",
+          "en": "very busy",
+          "ta": "மிகுந்த வேலைப்பளு"
+        }
+      ]
+    },
+    {
+      "kanji": "靴",
+      "meaning": {
+        "en": "shoes",
+        "ta": "காலணி"
+      },
+      "on": [
+        "か"
+      ],
+      "kun": [
+        "くつ"
+      ],
+      "mnemonic": {
+        "en": "Leather (革, a stretched animal skin) on the left, change (化) on the right. Leather that changes its shape to fit your foot: shoes.",
+        "ta": "இடப்பக்கம் தோல் (革, விரித்த மிருகத் தோல்), வலப்பக்கம் மாறு (化). உங்கள் காலுக்கு ஏற்ப வடிவம் மாறும் தோல்: காலணி."
+      },
+      "note": {
+        "en": "After another word くつ becomes ぐつ: 長靴 (ながぐつ).",
+        "ta": "வேறு சொல்லுக்குப் பின் くつ என்பது ぐつ ஆகும்: 長靴 (ながぐつ)."
+      },
+      "examples": [
+        {
+          "word": "靴",
+          "reading": "くつ",
+          "en": "shoes",
+          "ta": "காலணி",
+          "vocabId": "n5-v-221"
+        },
+        {
+          "word": "靴下",
+          "reading": "くつした",
+          "en": "socks",
+          "ta": "காலுறை",
+          "vocabId": "n5-v-222"
+        },
+        {
+          "word": "長靴",
+          "reading": "ながぐつ",
+          "en": "rubber boots",
+          "ta": "நீண்ட காலணி (பூட்ஸ்)"
+        }
+      ]
+    },
+    {
+      "kanji": "恥",
+      "meaning": {
+        "en": "shame",
+        "ta": "வெட்கம், அவமானம்"
+      },
+      "on": [
+        "ち"
+      ],
+      "kun": [
+        "はじ",
+        "は.ずかしい"
+      ],
+      "mnemonic": {
+        "en": "An ear (耳) on the left and a heart (心) on the right. When you are ashamed, your ears turn red and your heart beats fast.",
+        "ta": "இடப்பக்கம் காது (耳), வலப்பக்கம் இதயம் (心). வெட்கப்படும்போது காது சிவக்கும், இதயம் வேகமாகத் துடிக்கும்."
+      },
+      "note": {
+        "en": "恥ずかしい is はずかしい, with ず (not す).",
+        "ta": "恥ずかしい = はずかしい: ず, す அல்ல."
+      },
+      "examples": [
+        {
+          "word": "恥ずかしい",
+          "reading": "はずかしい",
+          "en": "embarrassed, shy",
+          "ta": "வெட்கமான, கூச்சமான",
+          "vocabId": "n4-v-151"
+        },
+        {
+          "word": "恥",
+          "reading": "はじ",
+          "en": "shame",
+          "ta": "அவமானம்"
+        },
+        {
+          "word": "恥をかく",
+          "reading": "はじをかく",
+          "en": "to be embarrassed (in public)",
+          "ta": "(பலர் முன்) அவமானப்படு"
+        }
+      ]
+    },
+    {
+      "kanji": "偶",
+      "meaning": {
+        "en": "by chance; even number",
+        "ta": "தற்செயல்; இரட்டை எண்"
+      },
+      "on": [
+        "ぐう"
+      ],
+      "kun": [
+        "たま"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) next to 禺, a monkey with a big face (田) and a long tail. Walking in the forest, the person meets a monkey by chance.",
+        "ta": "ஒரு மனிதர் (亻), அருகில் 禺: பெரிய முகமும் (田) நீண்ட வாலும் உள்ள குரங்கு. காட்டில் நடக்கும்போது மனிதர் தற்செயலாக ஒரு குரங்கைச் சந்திக்கிறார்."
+      },
+      "note": {
+        "en": "偶然 is ぐうぜん: ぐ is voiced and long (ぐう). たまたま is often written in kana.",
+        "ta": "偶然 = ぐうぜん: ぐ கனமானது, நெடில் (ぐう). たまたま பெரும்பாலும் கானாவில் எழுதப்படும்."
+      },
+      "examples": [
+        {
+          "word": "偶然",
+          "reading": "ぐうぜん",
+          "en": "by chance",
+          "ta": "தற்செயலாக",
+          "vocabId": "n3-v-0780"
+        },
+        {
+          "word": "偶々",
+          "reading": "たまたま",
+          "en": "by chance, happen to",
+          "ta": "எதிர்பாராமல்",
+          "vocabId": "n3-v-1431"
+        },
+        {
+          "word": "偶数",
+          "reading": "ぐうすう",
+          "en": "even number",
+          "ta": "இரட்டை எண்"
+        }
+      ]
+    },
+    {
+      "kanji": "偉",
+      "meaning": {
+        "en": "great, important",
+        "ta": "பெரிய, மதிப்புமிக்க"
+      },
+      "on": [
+        "い"
+      ],
+      "kun": [
+        "えら.い"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) next to 韋: guards’ feet marching around a square. An important person always has guards walking around him: a great man.",
+        "ta": "ஒரு மனிதர் (亻), அருகில் 韋: ஒரு சதுரத்தைச் சுற்றிக் காவலர்களின் கால்கள் அணிவகுக்கின்றன. முக்கியமான மனிதரைச் சுற்றி எப்போதும் காவலர்கள்: பெரிய மனிதர்."
+      },
+      "note": {
+        "en": "Don’t mix up 偉 (great, えらい) and 違 (different, ちがう): 違 has the road part ⻌.",
+        "ta": "偉 (பெரிய, えらい), 違 (வேறு, ちがう) இரண்டையும் குழப்பாதீர்கள்: 違-இல் சாலைப் பகுதி ⻌ உண்டு."
+      },
+      "examples": [
+        {
+          "word": "偉い",
+          "reading": "えらい",
+          "en": "great, admirable; important",
+          "ta": "சிறந்த, பாராட்டத்தக்க; பெரிய பதவியில்"
+        },
+        {
+          "word": "偉大",
+          "reading": "いだい",
+          "en": "great (person, work)",
+          "ta": "மகத்தான",
+          "vocabId": "n3-v-0382"
+        },
+        {
+          "word": "偉人",
+          "reading": "いじん",
+          "en": "great person",
+          "ta": "மகான், பெரியவர்"
+        }
+      ]
+    },
+    {
+      "kanji": "猫",
+      "meaning": {
+        "en": "cat",
+        "ta": "பூனை"
+      },
+      "on": [
+        "びょう"
+      ],
+      "kun": [
+        "ねこ"
+      ],
+      "mnemonic": {
+        "en": "犭 is the animal part (a dog-like animal standing up). On the right is grass (艹) over a rice field (田). An animal sleeping in the grass by the rice field: a cat.",
+        "ta": "犭 என்பது மிருகப் பகுதி (எழுந்து நிற்கும் நாய் போன்ற விலங்கு). வலப்பக்கம் வயலின் (田) மேல் புல் (艹). வயல் ஓரப் புல்லில் தூங்கும் மிருகம்: பூனை."
+      },
+      "examples": [
+        {
+          "word": "猫",
+          "reading": "ねこ",
+          "en": "cat",
+          "ta": "பூனை",
+          "vocabId": "n5-v-509"
+        },
+        {
+          "word": "子猫",
+          "reading": "こねこ",
+          "en": "kitten",
+          "ta": "பூனைக்குட்டி"
+        },
+        {
+          "word": "黒猫",
+          "reading": "くろねこ",
+          "en": "black cat",
+          "ta": "கறுப்புப் பூனை"
+        }
+      ]
+    },
+    {
+      "kanji": "幾",
+      "meaning": {
+        "en": "how many, how much",
+        "ta": "எத்தனை, எவ்வளவு"
+      },
+      "on": [
+        "き"
+      ],
+      "kun": [
+        "いく"
+      ],
+      "mnemonic": {
+        "en": "Two small threads (幺幺) on top, and a guard with a spear (戈) and a person (人) below. The guard counts: “How many threads are left?”",
+        "ta": "மேலே இரண்டு சிறு நூல்கள் (幺幺); கீழே ஈட்டியுடன் (戈) ஒரு காவலர், ஒரு மனிதர் (人). காவலர் எண்ணுகிறார்: “இன்னும் எத்தனை நூல் மீதி?”"
+      },
+      "note": {
+        "en": "いくつ and いくら are usually written in kana, but you should be able to read 幾つ and 幾ら. Don’t confuse 幾 with 機 (machine), which has a tree 木 on the left.",
+        "ta": "いくつ, いくら பெரும்பாலும் கானாவில் எழுதப்படும்; ஆனால் 幾つ, 幾ら படிக்கத் தெரிய வேண்டும். 幾, 機 (இயந்திரம்) இரண்டையும் குழப்பாதீர்கள்: 機-இல் இடப்பக்கம் மரம் 木."
+      },
+      "examples": [
+        {
+          "word": "幾つ",
+          "reading": "いくつ",
+          "en": "how many; how old",
+          "ta": "எத்தனை; என்ன வயது"
+        },
+        {
+          "word": "幾ら",
+          "reading": "いくら",
+          "en": "how much (money)",
+          "ta": "எவ்வளவு (விலை)"
+        },
+        {
+          "word": "幾日",
+          "reading": "いくにち",
+          "en": "how many days",
+          "ta": "எத்தனை நாள்"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU27-q01",
+        "type": "kanji_reading",
+        "sentence": "コーヒーを もう ＿一杯＿ ください。",
+        "target": "一杯",
+        "options": [
+          "いっぱい",
+          "いちはい",
+          "いっぱん",
+          "いっばい"
+        ],
+        "answer": 0,
+        "explanation_en": "一杯 is read いっぱい (ஒரு கோப்பை, one cup): small っ and ぱ. いっぱん is 一般 (general).",
+        "explanation_ta": "一杯 = いっぱい (ஒரு கோப்பை, one cup): சிறிய っ, ぱ. いっぱん என்பது 一般 (பொது)."
+      },
+      {
+        "id": "KU27-q02",
+        "type": "kanji_reading",
+        "sentence": "仕事の あとで とても ＿疲れました＿。",
+        "target": "疲れました",
+        "options": [
+          "つがれました",
+          "ひれました",
+          "つかれました",
+          "つかわれました"
+        ],
+        "answer": 2,
+        "explanation_en": "疲れました is read つかれました (சோர்வடைந்தேன், got tired). つかわれました is 使われました (was used).",
+        "explanation_ta": "疲れました = つかれました (சோர்வடைந்தேன், got tired). つかわれました என்பது 使われました (பயன்படுத்தப்பட்டது)."
+      },
+      {
+        "id": "KU27-q03",
+        "type": "kanji_reading",
+        "sentence": "＿皆さん＿、おはようございます。",
+        "target": "皆さん",
+        "options": [
+          "みなざん",
+          "みなさん",
+          "みんさん",
+          "かいさん"
+        ],
+        "answer": 1,
+        "explanation_en": "皆さん is read みなさん (அனைவரும், everyone). かい is the on reading; かいさん is 解散 (breaking up a group).",
+        "explanation_ta": "皆さん = みなさん (அனைவரும், everyone). かい என்பது on வாசிப்பு; かいさん என்பது 解散 (கலைதல்)."
+      },
+      {
+        "id": "KU27-q04",
+        "type": "kanji_reading",
+        "sentence": "台所から 白い ＿煙＿が 出て います。",
+        "target": "煙",
+        "options": [
+          "けむい",
+          "えん",
+          "けぶり",
+          "けむり"
+        ],
+        "answer": 3,
+        "explanation_en": "煙 alone is read けむり (புகை, smoke). えん is used only in compounds like 禁煙 (きんえん).",
+        "explanation_ta": "தனி 煙 = けむり (புகை, smoke). えん என்பது 禁煙 (きんえん) போன்ற கூட்டுச் சொற்களில் மட்டும்."
+      },
+      {
+        "id": "KU27-q05",
+        "type": "kanji_reading",
+        "sentence": "昨日の 夜は よく ＿眠れました＿か。",
+        "target": "眠れました",
+        "options": [
+          "みんれました",
+          "ねぶれました",
+          "ねむれました",
+          "ねられました"
+        ],
+        "answer": 2,
+        "explanation_en": "眠れました is read ねむれました (நன்றாகத் தூங்க முடிந்தது, could sleep). ねられました is 寝られました, a different kanji.",
+        "explanation_ta": "眠れました = ねむれました (தூங்க முடிந்தது, could sleep). ねられました என்பது 寝られました; வேறு கான்ஜி."
+      },
+      {
+        "id": "KU27-q06",
+        "type": "kanji_reading",
+        "sentence": "夜の 森は ＿怖い＿です。",
+        "target": "怖い",
+        "options": [
+          "こわい",
+          "おそい",
+          "ふい",
+          "こはい"
+        ],
+        "answer": 0,
+        "explanation_en": "怖い is read こわい (பயமான, scary). おそい is 遅い (slow, late).",
+        "explanation_ta": "怖い = こわい (பயமான, scary). おそい என்பது 遅い (மெதுவான, தாமதம்)."
+      },
+      {
+        "id": "KU27-q07",
+        "type": "kanji_reading",
+        "sentence": "姉は 長い ＿髪＿を 短く 切りました。",
+        "target": "髪",
+        "options": [
+          "かむ",
+          "はつ",
+          "がみ",
+          "かみ"
+        ],
+        "answer": 3,
+        "explanation_en": "髪 is read かみ (தலைமுடி, hair). はつ is the on reading, used in words like 散髪 (さんぱつ, haircut).",
+        "explanation_ta": "髪 = かみ (தலைமுடி, hair). はつ என்பது on வாசிப்பு; 散髪 (さんぱつ, முடிவெட்டுதல்) போன்ற சொற்களில்."
+      },
+      {
+        "id": "KU27-q08",
+        "type": "kanji_reading",
+        "sentence": "今週は 仕事が とても ＿忙しい＿です。",
+        "target": "忙しい",
+        "options": [
+          "ぼうしい",
+          "いそがしい",
+          "いそかしい",
+          "いぞがしい"
+        ],
+        "answer": 1,
+        "explanation_en": "忙しい is read いそがしい (பிஸியான, busy): そ is unvoiced, が is voiced.",
+        "explanation_ta": "忙しい = いそがしい (பிஸியான, busy): そ கனமில்லை, が கனமானது."
+      },
+      {
+        "id": "KU27-q09",
+        "type": "kanji_reading",
+        "sentence": "げんかんで ＿靴＿を ぬいで ください。",
+        "target": "靴",
+        "options": [
+          "くつ",
+          "ぐつ",
+          "か",
+          "くず"
+        ],
+        "answer": 0,
+        "explanation_en": "靴 alone is read くつ (காலணி, shoes). ぐつ is used only after another word, as in 長靴 (ながぐつ).",
+        "explanation_ta": "தனி 靴 = くつ (காலணி, shoes). ぐつ என்பது 長靴 (ながぐつ) போல வேறு சொல்லுக்குப் பின் மட்டும்."
+      },
+      {
+        "id": "KU27-q10",
+        "type": "kanji_reading",
+        "sentence": "駅で ＿偶然＿ 先生に 会いました。",
+        "target": "偶然",
+        "options": [
+          "ぐうせん",
+          "くうぜん",
+          "ぐうぜん",
+          "ぐぜん"
+        ],
+        "answer": 2,
+        "explanation_en": "偶然 is read ぐうぜん (தற்செயலாக, by chance): a long ぐう and a voiced ぜん.",
+        "explanation_ta": "偶然 = ぐうぜん (தற்செயலாக, by chance): நெடில் ぐう, கனமான ぜん."
+      },
+      {
+        "id": "KU27-q11",
+        "type": "orthography",
+        "sentence": "みんなの 前で ころんで、とても ＿はずかしかった＿です。",
+        "target": "はずかしかった",
+        "options": [
+          "聞ずかしかった",
+          "恥ずかしかった",
+          "取ずかしかった",
+          "耳ずかしかった"
+        ],
+        "answer": 1,
+        "explanation_en": "はずかしかった (வெட்கமாக இருந்தது, was embarrassed) is 恥ずかしかった: ear 耳 + heart 心. 取 has a hand 又, not a heart.",
+        "explanation_ta": "はずかしかった (வெட்கமாக இருந்தது, was embarrassed) = 恥ずかしかった: காது 耳 + இதயம் 心. 取-இல் இதயத்துக்குப் பதில் கை 又."
+      },
+      {
+        "id": "KU27-q12",
+        "type": "orthography",
+        "sentence": "あの 人は とても ＿えらい＿ 学者です。",
+        "target": "えらい",
+        "options": [
+          "違い",
+          "衛い",
+          "緯い",
+          "偉い"
+        ],
+        "answer": 3,
+        "explanation_en": "えらい (பெரிய, great) is 偉い: person 亻 + 韋. 違い (ちがい) has the road part ⻌ and means difference.",
+        "explanation_ta": "えらい (பெரிய, great) = 偉い: மனிதர் 亻 + 韋. 違い (ちがい)-இல் சாலைப் பகுதி ⻌ உண்டு; பொருள் வேறுபாடு."
+      },
+      {
+        "id": "KU27-q13",
+        "type": "orthography",
+        "sentence": "うちの ＿ねこ＿は 黒いです。",
+        "target": "ねこ",
+        "options": [
+          "描",
+          "苗",
+          "狗",
+          "猫"
+        ],
+        "answer": 3,
+        "explanation_en": "ねこ (பூனை, cat) is 猫: animal 犭 + 苗. 描 has a hand 扌 (draw), and 苗 alone is a young plant.",
+        "explanation_ta": "ねこ (பூனை, cat) = 猫: மிருகம் 犭 + 苗. 描-இல் கை 扌 (வரை); தனி 苗 = நாற்று."
+      },
+      {
+        "id": "KU27-q14",
+        "type": "orthography",
+        "sentence": "りんごは ＿いくつ＿ ありますか。",
+        "target": "いくつ",
+        "options": [
+          "幾ら",
+          "幾つ",
+          "機つ",
+          "畿つ"
+        ],
+        "answer": 1,
+        "explanation_en": "いくつ (எத்தனை, how many) is 幾つ. 機 (machine) has a tree 木 on the left; 幾ら is いくら (how much).",
+        "explanation_ta": "いくつ (எத்தனை, how many) = 幾つ. 機 (இயந்திரம்)-இல் இடப்பக்கம் மரம் 木; 幾ら = いくら (எவ்வளவு)."
+      },
+      {
+        "id": "KU27-q15",
+        "type": "orthography",
+        "sentence": "ここは ＿きんえん＿です。たばこは すわないで ください。",
+        "target": "きんえん",
+        "options": [
+          "禁燃",
+          "禁畑",
+          "禁煙",
+          "禁炎"
+        ],
+        "answer": 2,
+        "explanation_en": "きんえん (புகைபிடிக்கத் தடை, no smoking) is 禁煙: fire 火 + a chimney. 炎 and 燃 also have fire but mean flame and burn.",
+        "explanation_ta": "きんえん (புகைபிடிக்கத் தடை, no smoking) = 禁煙: நெருப்பு 火 + புகைபோக்கி. 炎, 燃 இவற்றிலும் நெருப்பு உண்டு; பொருள் தீப்பிழம்பு, எரி."
+      },
+      {
+        "id": "KU27-q16",
+        "type": "orthography",
+        "sentence": "カップに 水を 三＿ばい＿ 入れて ください。",
+        "target": "ばい",
+        "options": [
+          "杯",
+          "林",
+          "枚",
+          "坏"
+        ],
+        "answer": 0,
+        "explanation_en": "ばい here is 杯, the counter for cupfuls: tree 木 + not 不. 枚 counts flat things like paper.",
+        "explanation_ta": "இங்கே ばい = 杯, கோப்பைகளை எண்ணும் சொல்: மரம் 木 + இல்லை 不. 枚 என்பது தாள் போன்ற தட்டையான பொருள்களை எண்ணும்."
+      }
+    ]
+  }
+}

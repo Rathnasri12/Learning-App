@@ -1,0 +1,737 @@
+{
+  "lesson": 7,
+  "title": {
+    "ja": "日本に来て以来",
+    "ta": "ஜப்பானுக்கு வந்ததிலிருந்து",
+    "en": "Since I came to Japan"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் கருப்பொருள் வாழ்க்கையின் முக்கியக் கட்டங்கள்: பிறப்பு, படிப்பு, வேலையில் சேருவது, இடம் மாறுவது, பல ஆண்டுகளுக்குப் பின் பழைய நண்பரைச் சந்திப்பது. 'ஜப்பானுக்கு வந்ததிலிருந்து (以来)', 'தனியாக வாழ்ந்த பிறகுதான் புரிந்தது (てはじめて)', 'குடும்பத்துடன் கலந்து பேசிய பிறகு முடிவு செய்வேன் (上で)', 'பத்து ஆண்டுகளுக்குப் பிறகு சந்தித்தோம் (ぶり)' என்று உங்கள் வாழ்க்கைக் கதையைச் சொல்லக் கற்போம். வயது, தலைமுறை, நினைவுகள், சொந்த ஊர் பற்றிய சொற்களையும் படிப்போம்.",
+  "intro_en": "This lesson is about big moments in life. Think of birth, school, a first job, moving, and meeting old friends again. You will learn to tell your life story. You will say \"ever since I came to Japan\" (以来). You will say \"only after living alone did I understand\" (てはじめて). You will say \"I'll decide after talking with my family\" (上で). You will say \"we met for the first time in ten years\" (ぶり). You will also learn words for age, generations, memories and hometown.",
+  "grammar": [
+    {
+      "id": "g07-1",
+      "pattern": "V-て 以来",
+      "name": {
+        "en": "Ever since ~",
+        "ta": "〜இலிருந்து (அன்றுமுதல்)"
+      },
+      "explanation_ta": "以来 என்றால் 'அந்த நிகழ்விலிருந்து இன்றுவரை தொடர்ந்து' என்று பொருள். வினையின் て-வடிவத்துடன் (来て以来) அல்லது பெயர்ச்சொல்லுடன் நேரடியாக (卒業以来、結婚以来) சேரும். கடந்த காலத்தில் ஒருமுறை நடந்த நிகழ்வு ஒரு தொடக்கப் புள்ளி; அதற்குப் பின் இப்போதுவரை தொடரும் நிலை வாக்கியத்தின் இரண்டாம் பகுதியில் வரும்: 〜ている、〜ていない、ずっと〜. てから 'செய்த பிறகு' என்று ஒரு வரிசையை மட்டும் சொல்லும்; 以来 'அன்றிலிருந்து இன்றுவரை' என்ற நீண்ட காலத்தை வலியுறுத்தும். கொஞ்சம் முறையான சொல்; பேச்சிலும் எழுத்திலும் வரும்.",
+      "explanation_en": "以来 means \"ever since ~, up to now\". Use the て-form of a verb (来て以来). Or put it right after a noun (卒業以来, since graduation). The first part is one past event, a starting point. The second part is a state that goes on until now. It often ends in 〜ている, 〜ていない or uses ずっと (all along). てから only says \"after doing\". 以来 stresses the long time from then until now. It is a little formal. You hear it in speech and see it in writing.",
+      "tamil_parallel": "ஜப்பானுக்கு வந்ததிலிருந்து (வந்த நாள்முதல்) தினமும் டைரி எழுதுகிறேன் = 日本に来て以来、毎日日記を書いています",
+      "tamil_parallel_en": "Tamil -இலிருந்து / நாள்முதல் (\"from the day ~\"): \"Since I came to Japan, I write a diary every day\" = 日本に来て以来、毎日日記を書いています",
+      "formation": "வினை て-வடிவம் + 以来、 + தொடரும் நிலை (〜ている / 〜ていない)\nபெயர்ச்சொல் + 以来 (卒業以来、結婚以来、あの日以来)",
+      "formation_en": "Verb て-form + 以来、 + ongoing state (〜ている / 〜ていない)\nNoun + 以来 (卒業以来, 結婚以来, あの日以来)",
+      "examples": [
+        {
+          "ja": "日本に来て以来、毎日日本語で日記を書いています。",
+          "reading": "にほんに きて いらい、まいにち にほんごで にっきを かいて います。",
+          "romaji": "nihon ni kite irai, mainichi nihongo de nikki o kaite imasu.",
+          "ta": "ஜப்பானுக்கு வந்ததிலிருந்து தினமும் ஜப்பானிய மொழியில் டைரி எழுதுகிறேன்.",
+          "en": "Ever since I came to Japan, I've kept a diary in Japanese every day."
+        },
+        {
+          "ja": "大学を卒業して以来、田中さんとは会っていません。",
+          "reading": "だいがくを そつぎょう して いらい、たなかさんとは あって いません。",
+          "romaji": "daigaku o sotsugyou shite irai, Tanaka-san to wa atte imasen.",
+          "ta": "பல்கலைக்கழகப் படிப்பை முடித்ததிலிருந்து தனகாவைச் சந்திக்கவில்லை.",
+          "en": "I haven't seen Tanaka since we graduated from university."
+        },
+        {
+          "ja": "引越しして以来、毎朝近くの公園を走っています。",
+          "reading": "ひっこし して いらい、まいあさ ちかくの こうえんを はしって います。",
+          "romaji": "hikkoshi shite irai, maiasa chikaku no kouen o hashitte imasu.",
+          "ta": "வீடு மாறியதிலிருந்து தினமும் காலையில் அருகிலுள்ள பூங்காவில் ஓடுகிறேன்.",
+          "en": "Since I moved, I've been running in the nearby park every morning."
+        },
+        {
+          "ja": "結婚以来、妻とは一度もけんかしたことがありません。",
+          "reading": "けっこん いらい、つまとは いちども けんか した ことが ありません。",
+          "romaji": "kekkon irai, tsuma to wa ichido mo kenka shita koto ga arimasen.",
+          "ta": "திருமணமானதிலிருந்து மனைவியுடன் ஒருமுறைகூடச் சண்டை போட்டதில்லை.",
+          "en": "Since our wedding, I have never once argued with my wife."
+        },
+        {
+          "ja": "あの事故以来、兄は車を運転しなくなりました。",
+          "reading": "あの じこ いらい、あには くるまを うんてん しなく なりました。",
+          "romaji": "ano jiko irai, ani wa kuruma o unten shinaku narimashita.",
+          "ta": "அந்த விபத்திலிருந்து அண்ணன் கார் ஓட்டுவதையே நிறுத்திவிட்டார்.",
+          "en": "Since that accident, my brother has stopped driving."
+        },
+        {
+          "ja": "会社に入って以来、まだ一度も休んでいないんですか。",
+          "reading": "かいしゃに はいって いらい、まだ いちども やすんで いないんですか。",
+          "romaji": "kaisha ni haitte irai, mada ichido mo yasunde inai n desu ka.",
+          "ta": "நிறுவனத்தில் சேர்ந்ததிலிருந்து இதுவரை ஒருநாள்கூட விடுப்பு எடுக்கவில்லையா?",
+          "en": "You haven't taken a single day off since you joined the company?"
+        }
+      ],
+      "pitfalls_ta": "以来-க்குப் பின் ஒருமுறை நடந்த நிகழ்வை (〜しました) மட்டும் வைக்காதீர்கள்; 'அன்றுமுதல் தொடர்வது' வர வேண்டும். நேற்று, கடந்த வாரம் போன்ற மிக அண்மைக் காலத்துக்கும் எதிர்காலத்துக்கும் 以来 பொருந்தாது: 昨日来て以来 ✗ → 昨日来てから ✓.",
+      "pitfalls_en": "Do not end with a single finished event (〜しました) after 以来. You need a state that goes on from then. Also do not use 以来 for the very recent past (yesterday, last week) or the future. 昨日来て以来 ✗ → 昨日来てから ✓."
+    },
+    {
+      "id": "g07-2",
+      "pattern": "V-て はじめて",
+      "name": {
+        "en": "Only after ~ (did I realise)",
+        "ta": "〜த பிறகுதான் (புரிந்தது)"
+      },
+      "explanation_ta": "V-て はじめて என்றால் 'இதைச் செய்த பிறகுதான், அப்போதுதான் முதன்முறையாக...' என்று பொருள். ஒரு அனுபவத்துக்குப் பிறகே ஒன்று புரிந்தது, தெரிந்தது, முடிந்தது என்று சொல்லும்போது பயன்படும். பெரும்பாலும் இரண்டாம் பகுதியில் 分かる、気づく、知る、できるようになる போன்ற வினைகள் வரும். தமிழில் 'பிறகுதான்', 'அப்போதுதான்' என்ற '-தான்' வலியுறுத்தலுக்குச் சமம். 初めて〜しました ('முதன்முறையாகச் செய்தேன்') என்பதிலிருந்து வேறுபட்டது: அங்கே ஒரு அனுபவத்தின் முதல் முறை; இங்கே ஒரு செயலுக்குப் பிறகு கிடைத்த புதிய புரிதல்.",
+      "explanation_en": "V-て はじめて means \"only after doing ~ did I (understand, notice, become able)\". It shows that you learned something new through an experience. The second part often uses 分かる (understand), 気づく (notice), 知る (learn) or できるようになる (become able). It is like Tamil \"-தான்\" in \"பிறகுதான்\" (only after). It is different from 初めて〜しました (I did ~ for the first time). That one is about a first experience. This one is about a new understanding after an action.",
+      "tamil_parallel": "தனியாக வாழ்ந்த பிறகுதான் அம்மாவின் அருமை புரிந்தது = 一人で暮らしてはじめて、母のありがたさが分かった",
+      "tamil_parallel_en": "Tamil \"பிறகுதான்\" (only after): \"Only after living alone did I understand my mother's value\" = 一人で暮らしてはじめて、母のありがたさが分かった",
+      "formation": "வினை て-வடிவம் + はじめて、 + 分かる / 気づく / 知る / できる\n(எ.கா.) 住んではじめて、 病気になってはじめて、 言われてはじめて",
+      "formation_en": "Verb て-form + はじめて、 + 分かる / 気づく / 知る / できる\n(e.g.) 住んではじめて、 病気になってはじめて、 言われてはじめて",
+      "examples": [
+        {
+          "ja": "日本に住んではじめて、雪の冷たさを知りました。",
+          "reading": "にほんに すんで はじめて、ゆきの つめたさを しりました。",
+          "romaji": "nihon ni sunde hajimete, yuki no tsumetasa o shirimashita.",
+          "ta": "ஜப்பானில் வசித்த பிறகுதான் பனி எவ்வளவு குளிர் என்று தெரிந்தது.",
+          "en": "Only after living in Japan did I learn how cold snow is."
+        },
+        {
+          "ja": "親元を離れてはじめて、母のありがたさが分かりました。",
+          "reading": "おやもとを はなれて はじめて、ははの ありがたさが わかりました。",
+          "romaji": "oyamoto o hanarete hajimete, haha no arigatasa ga wakarimashita.",
+          "ta": "பெற்றோரை விட்டுப் பிரிந்த பிறகுதான் அம்மாவின் அருமை புரிந்தது.",
+          "en": "Only after leaving home did I see how much my mother did for me."
+        },
+        {
+          "ja": "病気になってはじめて、健康の大切さに気づきました。",
+          "reading": "びょうきに なって はじめて、けんこうの たいせつさに きづきました。",
+          "romaji": "byouki ni natte hajimete, kenkou no taisetsusa ni kizukimashita.",
+          "ta": "நோய்வாய்ப்பட்ட பிறகுதான் உடல்நலத்தின் முக்கியத்துவம் புரிந்தது.",
+          "en": "Only when I got sick did I realise how important health is."
+        },
+        {
+          "ja": "自分で働いてはじめて、お金の大切さが分かりました。",
+          "reading": "じぶんで はたらいて はじめて、おかねの たいせつさが わかりました。",
+          "romaji": "jibun de hataraite hajimete, okane no taisetsusa ga wakarimashita.",
+          "ta": "நானே வேலை செய்த பிறகுதான் பணத்தின் மதிப்பு தெரிந்தது.",
+          "en": "Only after working myself did I understand the value of money."
+        },
+        {
+          "ja": "子どもを産んではじめて、親の気持ちが分かったと姉は言います。",
+          "reading": "こどもを うんで はじめて、おやの きもちが わかったと あねは いいます。",
+          "romaji": "kodomo o unde hajimete, oya no kimochi ga wakatta to ane wa iimasu.",
+          "ta": "குழந்தை பெற்ற பிறகுதான் பெற்றோரின் மனநிலை புரிந்தது என்று அக்கா சொல்கிறார்.",
+          "en": "My sister says she only understood how parents feel after having a baby."
+        },
+        {
+          "ja": "実際に話してみてはじめて、彼がいい人だと分かりました。",
+          "reading": "じっさいに はなして みて はじめて、かれが いい ひとだと わかりました。",
+          "romaji": "jissai ni hanashite mite hajimete, kare ga ii hito da to wakarimashita.",
+          "ta": "நேரில் பேசிப் பார்த்த பிறகுதான் அவர் நல்லவர் என்று தெரிந்தது.",
+          "en": "Only after actually talking with him did I see he was a good person."
+        },
+        {
+          "ja": "言われてはじめて、間違いに気づいたんですか。",
+          "reading": "いわれて はじめて、まちがいに きづいたんですか。",
+          "romaji": "iwarete hajimete, machigai ni kizuita n desu ka.",
+          "ta": "யாராவது சொன்ன பிறகுதான் தவறைக் கவனித்தீர்களா?",
+          "en": "Did you only notice the mistake after someone told you?"
+        }
+      ],
+      "pitfalls_ta": "はじめて-க்குப் பின் விருப்பம் (〜たい), கட்டளை (〜てください), திட்டம் (〜つもり) வராது; ஏற்கெனவே நடந்த புரிதல் அல்லது மாற்றம் மட்டுமே வரும். 'ஜப்பானுக்கு முதன்முறை வந்தேன்' என்பதற்கு 初めて日本に来ました என்று சொல்லுங்கள்; 来てはじめて என்று அல்ல.",
+      "pitfalls_en": "After はじめて, do not use a wish (〜たい), a request (〜てください) or a plan (〜つもり). Use a realisation or a change that happened. For \"I came to Japan for the first time\", say 初めて日本に来ました, not 来てはじめて."
+    },
+    {
+      "id": "g07-3",
+      "pattern": "V-た 上で / N の 上で",
+      "name": {
+        "en": "After doing ~ (and based on it)",
+        "ta": "〜த பிறகு (அதன் அடிப்படையில்)"
+      },
+      "explanation_ta": "V-た上で என்றால் 'முதலில் இதை முறையாகச் செய்து முடித்து, அதன் அடிப்படையில் அடுத்ததைச் செய்வது'. முதல் பகுதி ஒரு தயாரிப்பு (கலந்து பேசுவது, படிப்பது, பார்ப்பது), இரண்டாம் பகுதி ஒரு முடிவு அல்லது செயல் (決める、サインする、始める). பெயர்ச்சொல்லுடன் の上で என்று சேரும்: 面接の上で. அடுத்து பெயர்ச்சொல் வந்தால் 上での N: よく考えた上での決断. てから வெறும் வரிசையைச் சொல்லும்; 上で 'அதைச் செய்த பின் தான், அதை வைத்துத்தான்' என்ற பொறுப்பான, முறையான தொனி கொண்டது. அலுவலகம், ஒப்பந்தம், குடும்ப முடிவுகள் போன்ற இடங்களில் அதிகம் வரும்.",
+      "explanation_en": "V-た上で means \"first do A properly, then do B based on it\". A is a careful first step, like talking it over, reading or checking. B is a decision or action, like 決める (decide), サインする (sign) or 始める (start). With a noun, say の上で: 面接の上で (after an interview). Before a noun, say 上での: よく考えた上での決断 (a decision made after careful thought). てから only gives the order. 上で sounds careful and formal: \"only after A, and because of A\". You hear it at work, in contracts and for family decisions.",
+      "tamil_parallel": "குடும்பத்துடன் கலந்து பேசிய பிறகே (அதன் அடிப்படையில்) முடிவு செய்வேன் = 家族と相談した上で決めます",
+      "tamil_parallel_en": "Tamil \"〜த பிறகே, அதன் அடிப்படையில்\" (only after, based on it): \"I'll decide after talking with my family\" = 家族と相談した上で決めます",
+      "formation": "வினை た-வடிவம் + 上で、 + முடிவு / செயல்\nபெயர்ச்சொல் + の上で、 + முடிவு / செயல்\n〜た上での + பெயர்ச்சொல் (よく考えた上での決断)",
+      "formation_en": "Verb た-form + 上で、 + decision / action\nNoun + の上で、 + decision / action\n〜た上での + noun (よく考えた上での決断)",
+      "examples": [
+        {
+          "ja": "家族と相談した上で、留学するかどうか決めます。",
+          "reading": "かぞくと そうだん した うえで、りゅうがく するか どうか きめます。",
+          "romaji": "kazoku to soudan shita ue de, ryuugaku suru ka dou ka kimemasu.",
+          "ta": "குடும்பத்துடன் கலந்து பேசிய பிறகு, வெளிநாட்டில் படிப்பதா வேண்டாமா என்று முடிவு செய்வேன்.",
+          "en": "I'll decide whether to study abroad after talking it over with my family."
+        },
+        {
+          "ja": "内容をよく読んだ上で、ここにサインしてください。",
+          "reading": "ないようを よく よんだ うえで、ここに サイン して ください。",
+          "romaji": "naiyou o yoku yonda ue de, koko ni sain shite kudasai.",
+          "ta": "உள்ளடக்கத்தை நன்றாகப் படித்த பிறகு இங்கே கையெழுத்திடுங்கள்.",
+          "en": "Please read the contents carefully, and then sign here."
+        },
+        {
+          "ja": "部屋を実際に見た上で、引越しを決めたいです。",
+          "reading": "へやを じっさいに みた うえで、ひっこしを きめたいです。",
+          "romaji": "heya o jissai ni mita ue de, hikkoshi o kimetai desu.",
+          "ta": "அறையை நேரில் பார்த்த பிறகே வீடு மாறுவதை முடிவு செய்ய விரும்புகிறேன்.",
+          "en": "I want to see the room in person before I decide to move."
+        },
+        {
+          "ja": "両親の許可をもらった上で、結婚の準備を始めました。",
+          "reading": "りょうしんの きょかを もらった うえで、けっこんの じゅんびを はじめました。",
+          "romaji": "ryoushin no kyoka o moratta ue de, kekkon no junbi o hajimemashita.",
+          "ta": "பெற்றோரின் அனுமதி பெற்ற பிறகே திருமண ஏற்பாடுகளைத் தொடங்கினோம்.",
+          "en": "We started preparing for the wedding after getting our parents' permission."
+        },
+        {
+          "ja": "面接の上で、採用するかどうかを決めます。",
+          "reading": "めんせつの うえで、さいよう するか どうかを きめます。",
+          "romaji": "mensetsu no ue de, saiyou suru ka dou ka o kimemasu.",
+          "ta": "நேர்காணலுக்குப் பிறகு வேலைக்கு எடுப்பதா என்று முடிவு செய்வோம்.",
+          "en": "We will decide whether to hire you after an interview."
+        },
+        {
+          "ja": "よく考えた上での決断なら、私は反対しません。",
+          "reading": "よく かんがえた うえでの けつだんなら、わたしは はんたい しません。",
+          "romaji": "yoku kangaeta ue de no ketsudan nara, watashi wa hantai shimasen.",
+          "ta": "நன்றாக யோசித்து எடுத்த முடிவு என்றால், நான் எதிர்க்க மாட்டேன்.",
+          "en": "If it's a decision you made after careful thought, I won't oppose it."
+        },
+        {
+          "ja": "先生と話し合った上で、進学先を決めたらどうですか。",
+          "reading": "せんせいと はなしあった うえで、しんがくさきを きめたら どうですか。",
+          "romaji": "sensei to hanashiatta ue de, shingakusaki o kimetara dou desu ka.",
+          "ta": "ஆசிரியருடன் கலந்து பேசிய பிறகு, மேல்படிப்புக்கான இடத்தை முடிவு செய்தால் என்ன?",
+          "en": "Why not talk it over with your teacher before choosing a university?"
+        }
+      ],
+      "pitfalls_ta": "上で-க்கு முன் た-வடிவம்தான் வர வேண்டும்: 相談する上で என்றால் 'கலந்து பேசுவதில் / பேசும்போது' என்று வேறு பொருள் வரும். பெயர்ச்சொல்லுக்குப் பின் の-வை மறக்காதீர்கள்: 面接上で ✗ → 面接の上で ✓.",
+      "pitfalls_en": "Use the た-form before 上で. 相談する上で has a different meaning (\"in the process of talking\"). After a noun, do not forget の: 面接上で ✗ → 面接の上で ✓."
+    },
+    {
+      "id": "g07-4",
+      "pattern": "Time + ぶり / N ぶり",
+      "name": {
+        "en": "First time in (time) / way of doing",
+        "ta": "〜க்குப் பிறகு (முதல் முறையாக) / 〜யும் விதம்"
+      },
+      "explanation_ta": "ぶり-க்கு இரண்டு பயன்பாடுகள். (1) காலம் + ぶり: ஒரு செயல் நீண்ட இடைவெளிக்குப் பிறகு மீண்டும் நடப்பது. 十年ぶりに会いました = 'பத்து ஆண்டுகளுக்குப் பிறகு (மீண்டும்) சந்தித்தோம்'. நீங்கள் அறிந்த 久しぶり இதே வகை. வினைக்கு முன் 〜ぶりに, பெயர்ச்சொல்லுக்கு முன் 〜ぶりの (五年ぶりの再会). (2) பெயர்ச்சொல் / வினையின் ます-அடி + ぶり: ஒருவர் செய்யும் விதம், பாணி. 話しぶり (பேசும் விதம்), 仕事ぶり (வேலை செய்யும் விதம்). இது பெரும்பாலும் பிறரைப் பற்றி மதிப்பிடும்போது வரும். 後 (〜年後) என்பது 'இனிமேல் / அப்போதிலிருந்து எத்தனை ஆண்டு கழித்து' என்று காலத்தை மட்டும் சொல்லும்; ぶり 'இடைவெளிக்குப் பின் மீண்டும்' என்ற உணர்வைச் சேர்க்கும்.",
+      "explanation_en": "ぶり has two uses. (1) Time + ぶり: something happens again after a long gap. 十年ぶりに会いました = \"we met for the first time in ten years\". 久しぶり (long time no see) is the same kind. Use 〜ぶりに before a verb and 〜ぶりの before a noun (五年ぶりの再会, a reunion after five years). (2) Noun or verb stem + ぶり: the way someone does something. 話しぶり is the way someone talks. 仕事ぶり is the way someone works. You often use it to judge other people. 〜年後 only says \"~ years later\". ぶり adds the feeling of \"again, after a gap\".",
+      "tamil_parallel": "பத்து ஆண்டுகளுக்குப் பிறகு (மீண்டும்) சந்தித்தோம் = 十年ぶりに会いました; அவர் வேலை செய்யும் விதம் = 彼の仕事ぶり",
+      "tamil_parallel_en": "Tamil \"〜க்குப் பிறகு மீண்டும்\" (again after a gap): \"We met again after ten years\" = 十年ぶりに会いました. Tamil \"〜யும் விதம்\" (the way of doing): 彼の仕事ぶり (the way he works)",
+      "formation": "காலம் + ぶり + に + வினை (十年ぶりに会う)\nகாலம் + ぶり + の + பெயர்ச்சொல் (五年ぶりの再会)\nபெயர்ச்சொல் / வினை ます-அடி + ぶり (仕事ぶり、話しぶり)",
+      "formation_en": "Time + ぶり + に + verb (十年ぶりに会う)\nTime + ぶり + の + noun (五年ぶりの再会)\nNoun / verb ます-stem + ぶり (仕事ぶり, 話しぶり)",
+      "examples": [
+        {
+          "ja": "高校の友達と、十年ぶりに会いました。",
+          "reading": "こうこうの ともだちと、じゅうねんぶりに あいました。",
+          "romaji": "koukou no tomodachi to, juunenburi ni aimashita.",
+          "ta": "பள்ளி நண்பனைப் பத்து ஆண்டுகளுக்குப் பிறகு சந்தித்தேன்.",
+          "en": "I met a high-school friend for the first time in ten years."
+        },
+        {
+          "ja": "三年ぶりに故郷に帰って、家族とゆっくり過ごしました。",
+          "reading": "さんねんぶりに こきょうに かえって、かぞくと ゆっくり すごしました。",
+          "romaji": "sannenburi ni kokyou ni kaette, kazoku to yukkuri sugoshimashita.",
+          "ta": "மூன்று ஆண்டுகளுக்குப் பிறகு சொந்த ஊருக்குப் போய், குடும்பத்துடன் நிம்மதியாக நேரம் செலவழித்தேன்.",
+          "en": "I went home for the first time in three years and relaxed with my family."
+        },
+        {
+          "ja": "五年ぶりの再会に、二人とも泣いてしまいました。",
+          "reading": "ごねんぶりの さいかいに、ふたりとも ないて しまいました。",
+          "romaji": "gonenburi no saikai ni, futari tomo naite shimaimashita.",
+          "ta": "ஐந்து ஆண்டுகளுக்குப் பிறகான சந்திப்பில் இருவருமே அழுதுவிட்டோம்.",
+          "en": "At our reunion after five years, we both ended up crying."
+        },
+        {
+          "ja": "東京で雪が降るのは、何年ぶりですか。",
+          "reading": "とうきょうで ゆきが ふるのは、なんねんぶりですか。",
+          "romaji": "toukyou de yuki ga furu no wa, nannenburi desu ka.",
+          "ta": "டோக்கியோவில் பனி பெய்வது எத்தனை ஆண்டுகளுக்குப் பிறகு?",
+          "en": "How many years has it been since it last snowed in Tokyo?"
+        },
+        {
+          "ja": "久しぶりに母の料理を食べて、ほっとしました。",
+          "reading": "ひさしぶりに ははの りょうりを たべて、ほっと しました。",
+          "romaji": "hisashiburi ni haha no ryouri o tabete, hotto shimashita.",
+          "ta": "நீண்ட நாட்களுக்குப் பிறகு அம்மாவின் சமையலைச் சாப்பிட்டதும் மனம் நிம்மதியானது.",
+          "en": "Eating my mother's cooking after so long made me feel at ease."
+        },
+        {
+          "ja": "彼の話しぶりから、とても緊張していることが分かりました。",
+          "reading": "かれの はなしぶりから、とても きんちょう して いる ことが わかりました。",
+          "romaji": "kare no hanashiburi kara, totemo kinchou shite iru koto ga wakarimashita.",
+          "ta": "அவர் பேசும் விதத்திலிருந்தே அவர் மிகவும் பதற்றமாக இருப்பது தெரிந்தது.",
+          "en": "From the way he talked, I could tell he was very nervous."
+        },
+        {
+          "ja": "新しい部長の仕事ぶりは、みんなに評価されています。",
+          "reading": "あたらしい ぶちょうの しごとぶりは、みんなに ひょうか されて います。",
+          "romaji": "atarashii buchou no shigotoburi wa, minna ni hyouka sarete imasu.",
+          "ta": "புதிய மேலாளர் வேலை செய்யும் விதத்தை எல்லோரும் பாராட்டுகிறார்கள்.",
+          "en": "Everyone thinks highly of the way the new manager works."
+        }
+      ],
+      "pitfalls_ta": "ぶり 'இடைவெளிக்குப் பின் மீண்டும்' என்பதற்கு மட்டுமே: '3 ஆண்டுகள் கழித்து (முதல் முறையாக) திருமணம் செய்தேன்' என்பதற்கு 三年後に結婚しました; 三年ぶりに ✗. குறுகிய காலத்துக்கும் (二時間ぶり) பொதுவாகப் பயன்படுத்துவதில்லை; 'நீண்ட இடைவெளி' என்ற உணர்வு இருக்க வேண்டும்.",
+      "pitfalls_en": "Use ぶり only for \"again, after a gap\". For \"I got married three years later\", say 三年後に結婚しました, not 三年ぶりに. People don't usually use it for short times like two hours. It needs the feeling of a long gap."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0010",
+    "n3-v-0075",
+    "n3-v-0115",
+    "n3-v-0184",
+    "n3-v-0255",
+    "n3-v-0262",
+    "n3-v-0271",
+    "n3-v-0277",
+    "n3-v-0279",
+    "n3-v-0280",
+    "n3-v-0284",
+    "n3-v-0380",
+    "n3-v-0397",
+    "n3-v-0411",
+    "n3-v-0419",
+    "n3-v-0456",
+    "n3-v-0486",
+    "n3-v-0531",
+    "n3-v-0598",
+    "n3-v-0691",
+    "n3-v-0733",
+    "n3-v-0799",
+    "n3-v-0860",
+    "n3-v-0872",
+    "n3-v-0915",
+    "n3-v-0950",
+    "n3-v-1023",
+    "n3-v-1167",
+    "n3-v-1183",
+    "n3-v-1227",
+    "n3-v-1288",
+    "n3-v-1329",
+    "n3-v-1412",
+    "n3-v-1445",
+    "n3-v-1537",
+    "n3-v-1538",
+    "n3-v-1577",
+    "n3-v-1611",
+    "n3-v-1613",
+    "n3-v-1704",
+    "n3-v-1706",
+    "n3-v-1707",
+    "n3-v-1716",
+    "n3-v-1724",
+    "n3-v-1747",
+    "n3-v-1789",
+    "n3-v-1821",
+    "n3-v-2003",
+    "n3-v-2021",
+    "n3-v-2039",
+    "n3-v-2058",
+    "n3-v-2078",
+    "n3-v-2092",
+    "n3-v-2115"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L07-q01",
+        "type": "kanji_reading",
+        "sentence": "私は 大阪＿出身＿です。",
+        "target": "出身",
+        "options": [
+          "しゅうしん",
+          "しゅっしん",
+          "しゅしん",
+          "でしん"
+        ],
+        "answer": 1,
+        "explanation_ta": "出身 = しゅっしん (சொந்த ஊர்). சிறிய っ முக்கியம்; しゅうしん என்பது 終身 (வாழ்நாள் முழுவதும்) போன்ற வேறு சொல்.",
+        "explanation_en": "出身 = しゅっしん (சொந்த ஊர், where you are from). The small っ matters. しゅうしん is a different word."
+      },
+      {
+        "id": "L07-q02",
+        "type": "kanji_reading",
+        "sentence": "＿故郷＿に 帰るのは 三年ぶりです。",
+        "target": "故郷",
+        "options": [
+          "こっきょう",
+          "こうきょう",
+          "こきょう",
+          "こきょ"
+        ],
+        "answer": 2,
+        "explanation_ta": "故郷 = こきょう (சொந்த ஊர்). こっきょう என்பது 国境 (எல்லை); こうきょう என்பது 公共 (பொது). நீட்டல் இல்லை, っ இல்லை.",
+        "explanation_en": "故郷 = こきょう (சொந்த ஊர், hometown). こっきょう is 国境 (border). こうきょう is 公共 (public). No long vowel and no small っ."
+      },
+      {
+        "id": "L07-q03",
+        "type": "kanji_reading",
+        "sentence": "この 仕事に ＿年齢＿は 関係 ありません。",
+        "target": "年齢",
+        "options": [
+          "ねんりょう",
+          "ねんれ",
+          "としれい",
+          "ねんれい"
+        ],
+        "answer": 3,
+        "explanation_ta": "年齢 = ねんれい (வயது). 齢 = れい; இறுதி い-யை விடக்கூடாது. ねんりょう என்பது 燃料 (எரிபொருள்).",
+        "explanation_en": "年齢 = ねんれい (வயது, age). 齢 is read れい; don't drop the last い. ねんりょう is 燃料 (fuel)."
+      },
+      {
+        "id": "L07-q04",
+        "type": "orthography",
+        "sentence": "来月、横浜に ＿ひっこし＿します。",
+        "target": "ひっこし",
+        "options": [
+          "引越し",
+          "引起し",
+          "弾越し",
+          "引超し"
+        ],
+        "answer": 0,
+        "explanation_ta": "ひっこし = 引越し (இழுத்து + கடந்து செல்லுதல் = வீடு மாற்றம்). 超 (மீறுதல்) 越 போலத் தோன்றினாலும் தவறு.",
+        "explanation_en": "ひっこし = 引越し (வீடு மாற்றம், moving house). 超 looks like 越, but it is wrong here."
+      },
+      {
+        "id": "L07-q05",
+        "type": "orthography",
+        "sentence": "兄は 去年 アメリカの ＿りゅうがく＿から 帰って きました。",
+        "target": "りゅうがく",
+        "options": [
+          "流学",
+          "留学",
+          "留楽",
+          "瑠学"
+        ],
+        "answer": 1,
+        "explanation_ta": "りゅうがく = 留学 (தங்கிப் படித்தல்: 留 = தங்குதல், 学 = கற்றல்). 流 (ஓடுதல்) ஒலி ஒத்தது, பொருள் வேறு.",
+        "explanation_en": "りゅうがく = 留学 (வெளிநாட்டில் படிப்பு, studying abroad). 留 means stay; 学 means study. 流 (flow) sounds the same but is wrong."
+      },
+      {
+        "id": "L07-q06",
+        "type": "vocab_context",
+        "sentence": "日本に 来てから、もう 十年が（　　）。",
+        "options": [
+          "経ちました",
+          "去りました",
+          "育ちました",
+          "残しました"
+        ],
+        "answer": 0,
+        "explanation_ta": "காலம் கடப்பதற்கு 経つ: 十年が経ちました. 去る ஓர் இடத்தை விட்டுப் போவது; காலத்துக்கு இங்கே பொருந்தாது.",
+        "explanation_en": "For time passing, use 経つ (கடக்க): 十年が経ちました. 去る means leaving a place; it doesn't fit here."
+      },
+      {
+        "id": "L07-q07",
+        "type": "vocab_context",
+        "sentence": "私は 海の 近くの 村で（　　）ので、泳ぐのが 得意です。",
+        "options": [
+          "産んだ",
+          "残した",
+          "育った",
+          "去った"
+        ],
+        "answer": 2,
+        "explanation_ta": "'கடலருகே வளர்ந்ததால் நீச்சல் நன்றாகத் தெரியும்' → 育った (வளர்ந்தேன்). 産む 'பெற்றெடுப்பது' — தாய் செய்யும் செயல்.",
+        "explanation_en": "\"I grew up near the sea, so I swim well\" → 育った (வளர்ந்தேன், grew up). 産む means to give birth; a mother does that."
+      },
+      {
+        "id": "L07-q08",
+        "type": "vocab_context",
+        "sentence": "（　　）は 携帯電話が なかったので、手紙を よく 書きました。",
+        "options": [
+          "未来",
+          "今後",
+          "現在",
+          "当時"
+        ],
+        "answer": 3,
+        "explanation_ta": "கடந்த காலம் (なかった、書きました) → 当時 (அந்தக் காலத்தில்). 未来, 今後 எதிர்காலம்; 現在 இப்போது.",
+        "explanation_en": "The verbs are past (なかった, 書きました) → 当時 (அந்தக் காலத்தில், at that time). 未来 and 今後 are future. 現在 is now."
+      },
+      {
+        "id": "L07-q09",
+        "type": "vocab_context",
+        "sentence": "父の 仕事の 都合で、小学校を 二回（　　）しました。",
+        "options": [
+          "転校",
+          "退学",
+          "進学",
+          "留学"
+        ],
+        "answer": 0,
+        "explanation_ta": "அப்பாவின் வேலையால் பள்ளி மாறுவது → 転校. 退学 படிப்பை நிறுத்துவது; இரண்டு முறை என்பதுடன் பொருந்தாது.",
+        "explanation_en": "Changing schools because of a parent's job → 転校 (பள்ளி மாறுதல்). 退学 means leaving school for good. It doesn't fit \"twice\"."
+      },
+      {
+        "id": "L07-q10",
+        "type": "vocab_context",
+        "sentence": "子どもの ころの（　　）は ほとんど ありません。",
+        "options": [
+          "年代",
+          "記憶",
+          "過去",
+          "生涯"
+        ],
+        "answer": 1,
+        "explanation_ta": "'சிறுவயது ஞாபகம் கிட்டத்தட்ட இல்லை' → 記憶. 過去 'கடந்த காலம்' — அது 'இல்லாமல்' போகாது.",
+        "explanation_en": "\"I have almost no memories of childhood\" → 記憶 (ஞாபகம், memory). 過去 means the past; a past can't be \"missing\"."
+      },
+      {
+        "id": "L07-q11",
+        "type": "vocab_context",
+        "sentence": "この 書類に 名前と（　　）を 書いて ください。",
+        "options": [
+          "生まれ",
+          "誕生",
+          "生年月日",
+          "一生"
+        ],
+        "answer": 2,
+        "explanation_ta": "படிவத்தில் எழுதுவது → 生年月日 (பிறந்த தேதி). 誕生 'பிறப்பு' என்ற நிகழ்வு; அதை எழுத முடியாது.",
+        "explanation_en": "On a form you write your 生年月日 (பிறந்த தேதி, date of birth). 誕生 is the event of birth; you can't write it on a form."
+      },
+      {
+        "id": "L07-q12",
+        "type": "paraphrase",
+        "sentence": "彼とは 以前 同じ 会社で 働いて いました。",
+        "options": [
+          "彼とは 今 同じ 会社で 働いて います。",
+          "彼とは 前に 同じ 会社で 働いて いました。",
+          "彼とは これから 同じ 会社で 働きます。",
+          "彼とは 一度も 同じ 会社で 働いた ことが ありません。"
+        ],
+        "answer": 1,
+        "explanation_ta": "以前 = 前に (முன்பு). 'இப்போது' அல்லது 'இனிமேல்' என்ற பொருள் இல்லை.",
+        "explanation_en": "以前 = 前に (முன்பு, before). It does not mean \"now\" or \"from now on\"."
+      },
+      {
+        "id": "L07-q13",
+        "type": "paraphrase",
+        "sentence": "祖父は 生涯 この 村で 暮らしました。",
+        "options": [
+          "祖父は 若い ころだけ この 村で 暮らしました。",
+          "祖父は 年を 取ってから この 村に 来ました。",
+          "祖父は 一生 この 村で 暮らしました。",
+          "祖父は 時々 この 村に 帰りました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "生涯 = 一生 (வாழ்நாள் முழுவதும்). 'இளமையில் மட்டும்' என்பது ஒரு பகுதி மட்டுமே.",
+        "explanation_en": "生涯 = 一生 (வாழ்நாள் முழுவதும், all one's life). \"Only when young\" is just part of a life."
+      },
+      {
+        "id": "L07-q14",
+        "type": "usage",
+        "sentence": "経つ",
+        "options": [
+          "駅の 前に 新しい ビルが 経ちました。",
+          "時間が 経つのは 本当に 早いですね。",
+          "バスが 来るまで、ここで 経って いて ください。",
+          "朝 六時に 経って、会社へ 行きます。"
+        ],
+        "answer": 1,
+        "explanation_ta": "経つ காலம் கடப்பதற்கு மட்டும்: 時間が経つ. கட்டடம் 'நிற்பது' 建つ; நிற்பது / எழுவது 立つ — ஒலி ஒன்று, கான்ஜி வேறு.",
+        "explanation_en": "経つ is only for time passing: 時間が経つ. A building going up is 建つ. Standing or getting up is 立つ. Same sound, different kanji."
+      },
+      {
+        "id": "L07-q15",
+        "type": "usage",
+        "sentence": "育つ",
+        "options": [
+          "毎日 練習して、日本語が 育ちました。",
+          "値段が どんどん 育って います。",
+          "木を 育つ ために、毎日 水を やります。",
+          "この 町で 生まれて、この 町で 育ちました。"
+        ],
+        "answer": 3,
+        "explanation_ta": "育つ = மனிதர், செடி வளர்வது (தானாக). திறமைக்கு 上手になる, விலைக்கு 上がる. 'மரத்தை வளர்க்க' என்றால் பிறவினை 育てる வேண்டும்.",
+        "explanation_en": "育つ means a person or plant grows up by itself. For a skill, use 上手になる. For prices, use 上がる. \"To grow a tree\" needs 育てる, not 育つ."
+      },
+      {
+        "id": "L07-q16",
+        "type": "grammar_form",
+        "sentence": "日本に（　　）以来、ずっと この アパートに 住んで います。",
+        "options": [
+          "来る",
+          "来た",
+          "来て",
+          "来"
+        ],
+        "answer": 2,
+        "explanation_ta": "以来 வினையின் て-வடிவத்துடன் சேரும்: 来て以来. 来た以来 என்பது பொதுவான தவறு.",
+        "explanation_en": "以来 comes after the て-form: 来て以来 (வந்ததிலிருந்து). 来た以来 is a common mistake."
+      },
+      {
+        "id": "L07-q17",
+        "type": "grammar_form",
+        "sentence": "大学を 卒業（　　）、一度も 先生に 会って いません。",
+        "options": [
+          "以来",
+          "上で",
+          "ぶりに",
+          "はじめて"
+        ],
+        "answer": 0,
+        "explanation_ta": "பெயர்ச்சொல் + 以来: 卒業以来 + 会っていません (அன்றுமுதல் இன்றுவரை). 上で பெயர்ச்சொல்லுடன் の தேவை; மேலும் பொருளும் பொருந்தாது.",
+        "explanation_en": "Noun + 以来: 卒業以来 + 会っていません (from then until now). 上で would need の after a noun, and the meaning doesn't fit."
+      },
+      {
+        "id": "L07-q18",
+        "type": "grammar_form",
+        "sentence": "一人で 暮らして（　　）、親の ありがたさが 分かりました。",
+        "options": [
+          "以来",
+          "上で",
+          "はじめて",
+          "ぶりに"
+        ],
+        "answer": 2,
+        "explanation_ta": "'தனியாக வாழ்ந்த பிறகுதான் புரிந்தது' → てはじめて + 分かりました. 以来-க்குப் பின் ஒருமுறைப் புரிதல் (分かりました) வராது; தொடரும் நிலை வேண்டும்.",
+        "explanation_en": "\"Only after living alone did I understand\" → てはじめて + 分かりました. 以来 needs an ongoing state, not a one-time 分かりました."
+      },
+      {
+        "id": "L07-q19",
+        "type": "grammar_form",
+        "sentence": "家族と よく 相談した（　　）、決めて ください。",
+        "options": [
+          "以来",
+          "上で",
+          "はじめて",
+          "ところ"
+        ],
+        "answer": 1,
+        "explanation_ta": "'நன்றாகக் கலந்து பேசிய பிறகு முடிவு செய்யுங்கள்' → た上で. はじめて-க்குப் பின் கட்டளை (〜てください) வராது.",
+        "explanation_en": "\"Talk it over well, then decide\" → た上で. はじめて cannot be followed by a request like 〜てください."
+      },
+      {
+        "id": "L07-q20",
+        "type": "grammar_form",
+        "sentence": "二十年（　　）に 小学校の 友達に 会いました。",
+        "options": [
+          "以来",
+          "ぶり",
+          "上",
+          "間"
+        ],
+        "answer": 1,
+        "explanation_ta": "இருபது ஆண்டு இடைவெளிக்குப் பின் மீண்டும் சந்திப்பது → 二十年ぶりに. 以来に, 上に என்று சொல்ல முடியாது.",
+        "explanation_en": "Meeting again after a 20-year gap → 二十年ぶりに. You can't say 以来に or 上に here."
+      },
+      {
+        "id": "L07-q21",
+        "type": "grammar_form",
+        "sentence": "新しい 部長の 仕事（　　）は、社長にも 高く 評価されて います。",
+        "options": [
+          "ぶり",
+          "以来",
+          "上",
+          "ごと"
+        ],
+        "answer": 0,
+        "explanation_ta": "வேலை செய்யும் விதம் → 仕事ぶり. ごと 'ஒவ்வொரு'; 仕事ごと என்பது இங்கே பொருளற்றது.",
+        "explanation_en": "The way someone works → 仕事ぶり. ごと means \"each\"; 仕事ごと makes no sense here."
+      },
+      {
+        "id": "L07-q22",
+        "type": "grammar_form",
+        "sentence": "両親と 話し合った（　　）結論なので、もう 変えません。",
+        "options": [
+          "上の",
+          "上での",
+          "以来の",
+          "はじめての"
+        ],
+        "answer": 1,
+        "explanation_ta": "பெயர்ச்சொல்லுக்கு (結論) முன் 〜た上での வர வேண்டும்: 話し合った上での結論. 上の என்றால் 'மேலே உள்ள' என்று பொருள் மாறும்.",
+        "explanation_en": "Before a noun (結論, conclusion), use 〜た上での: 話し合った上での結論. 上の would mean \"the one above\"."
+      },
+      {
+        "id": "L07-q23",
+        "type": "sentence_order",
+        "before": "日本に",
+        "chunks": [
+          "来て",
+          "以来",
+          "一度も",
+          "国に"
+        ],
+        "star": 1,
+        "after": "帰って いません。",
+        "explanation_ta": "日本に 来て (வந்து) → 以来 (அன்றுமுதல்) → 一度も (ஒருமுறைகூட) → 国に 帰っていません. ★ = 以来.",
+        "explanation_en": "日本に 来て (came to Japan) → 以来 (ever since) → 一度も (not even once) → 国に 帰っていません. ★ = 以来."
+      },
+      {
+        "id": "L07-q24",
+        "type": "sentence_order",
+        "before": "病気に",
+        "chunks": [
+          "なって",
+          "はじめて",
+          "健康の",
+          "大切さに"
+        ],
+        "star": 2,
+        "after": "気づきました。",
+        "explanation_ta": "病気に なって → はじめて (பிறகுதான்) → 健康の (உடல்நலத்தின்) → 大切さに 気づきました. ★ = 健康の.",
+        "explanation_en": "病気に なって (got sick) → はじめて (only then) → 健康の (of health) → 大切さに 気づきました (noticed the importance). ★ = 健康の."
+      },
+      {
+        "id": "L07-q25",
+        "type": "sentence_order",
+        "before": "昨日、",
+        "chunks": [
+          "高校の",
+          "友達と",
+          "十年",
+          "ぶりに"
+        ],
+        "star": 3,
+        "after": "会いました。",
+        "explanation_ta": "高校の 友達と (பள்ளி நண்பனுடன்) → 十年 ぶりに (பத்து ஆண்டுகளுக்குப் பிறகு) → 会いました. ★ = ぶりに.",
+        "explanation_en": "高校の 友達と (with a high-school friend) → 十年 ぶりに (for the first time in ten years) → 会いました. ★ = ぶりに."
+      },
+      {
+        "id": "L07-q26",
+        "type": "passage_cloze",
+        "passage": "私が 日本に 来たのは 五年前です。日本に 来て［1］、ずっと 東京の 会社で 働いて います。来た ころは 言葉も 分からなくて、本当に 大変でした。でも、一人で 生活して［2］、家族の ありがたさが 分かりました。先月、両親と よく 相談した［3］、日本で 家を 買う ことに 決めました。そして 今年の 夏は、五年［4］に 故郷の マドゥライに 帰る 予定です。",
+        "blanks": [
+          {
+            "options": [
+              "以来",
+              "はじめて",
+              "上で",
+              "ぶりに"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "以来",
+              "ぶりに",
+              "はじめて",
+              "上で"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "以来",
+              "上で",
+              "はじめて",
+              "ところに"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "以来",
+              "後",
+              "上",
+              "ぶり"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ வந்ததிலிருந்து இன்றுவரை வேலை செய்கிறேன் (ずっと〜ています) → 以来. ［2］ தனியாக வாழ்ந்த பிறகுதான் புரிந்தது → はじめて. ［3］ கலந்து பேசிய பின் முடிவு → 上で. ［4］ ஐந்து ஆண்டு இடைவெளிக்குப் பின் மீண்டும் ஊருக்கு → ぶり. 五年後 என்றால் 'இனி ஐந்து ஆண்டு கழித்து' என்று ஆகும்; 'இந்தக் கோடை' உடன் முரண்.",
+        "explanation_en": "[1] I've worked there from then until now (ずっと〜ています) → 以来. [2] Only after living alone did I understand → はじめて. [3] A decision after talking it over → 上で. [4] Going home again after a five-year gap → ぶり. 五年後 would mean \"five years from now\", which clashes with \"this summer\"."
+      }
+    ]
+  }
+}

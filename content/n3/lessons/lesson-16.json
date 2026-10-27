@@ -1,0 +1,708 @@
+{
+  "lesson": 16,
+  "title": {
+    "ja": "お金さえあれば",
+    "ta": "பணம் மட்டும் இருந்தால்",
+    "en": "If only I had money"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் கருப்பொருள் பணம், சேமிப்பு, கனவுகள். 'ஒருவேளை இப்படி நடந்தால்' என்று கற்பனை செய்து பேச 〜としたら / 〜とすれば / 〜とすると கற்போம். 'இது மட்டும் இருந்தால் போதும்' என்பதற்கு N さえ 〜ば, 'இருக்கும் வரை / செய்யாத வரை' என்பதற்கு 〜限り / 〜ない限り, 'முதலில் இதைச் செய்த பிறகுதான் முடியும்' என்பதற்கு V-て からでないと ஆகியவற்றையும் படிப்போம். சம்பளம், வரி, கடன், சிக்கனம் தொடர்பான சொற்களும் இதில் உள்ளன.",
+  "intro_en": "This lesson is about money, saving and dreams. You will learn 〜としたら / 〜とすれば / 〜とすると to talk about \"what if\" ideas. You will learn N さえ 〜ば for \"if only I have this, it’s enough\". You will learn 〜限り / 〜ない限り for \"as long as\" and \"unless\". You will also learn V-て からでないと for \"not until you first do ~\". There are many words about salary, tax, debt and saving money.",
+  "grammar": [
+    {
+      "id": "g16-1",
+      "pattern": "〜としたら / 〜とすれば / 〜とすると",
+      "name": {
+        "en": "Suppose that ~ / if we say ~",
+        "ta": "〜என்று வைத்துக்கொண்டால்"
+      },
+      "explanation_ta": "இந்த மூன்று வடிவங்களும் 'உண்மையில் அப்படி இல்லை, அல்லது இன்னும் உறுதியில்லை; ஆனாலும் அப்படி என்று வைத்துக்கொண்டால்' என்ற கற்பனை நிபந்தனையைக் காட்டும். சாதாரண வடிவத்துடன் (plain form) と சேர்த்து, அதன் பின் したら / すれば / すると வரும். பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ கட்டாயம்: 本当だとすれば. அடிக்கடி もし (ஒருவேளை), 仮に (கற்பனையாக) ஆகிய சொற்களுடன் வரும். としたら பேச்சில் அதிகம்; とすれば, とすると சற்று தர்க்கரீதியானவை — 'அப்படியென்றால் இதுதான் முடிவு' என்று கணக்கிட்டுச் சொல்லும்போது பயன்படும். சாதாரண 〜たら / 〜ば உண்மையில் நடக்கக்கூடியதைச் சொல்லும்; としたら 'கற்பனையாக வைத்துக்கொள்வோம்' என்ற உணர்வைத் தரும்.",
+      "explanation_en": "These three forms mean \"suppose that ~\" or \"if we say that ~\". The idea is not real, or not sure yet. Put the plain form before と, then add したら, すれば or すると. After a noun or a な-adjective, you need だ: 本当だとすれば. They often come with もし (if) or 仮に (just suppose). としたら is common in speech. とすれば and とすると sound more logical. Use them to work out a result: \"if so, then ~\". Normal 〜たら and 〜ば talk about things that can really happen. としたら feels more like \"let’s imagine\".",
+      "tamil_parallel": "ஒருவேளை பத்து கோடி யென் இருக்கிறது என்று வைத்துக்கொண்டால் = もし一億円あるとしたら",
+      "tamil_parallel_en": "\"Suppose I had a hundred million yen\" (ஒருவேளை பத்து கோடி யென் இருக்கிறது என்று வைத்துக்கொண்டால்) = もし一億円あるとしたら",
+      "formation": "வினை (சாதாரண வடிவம்) + としたら / とすれば / とすると\n   買う → 買うとしたら、あった → あったとしたら\nい-பெயரடை + としたら …\n   高い → 高いとすれば\nな-பெயரடை / பெயர்ச்சொல் + だ + としたら …\n   本当 → 本当だとすると",
+      "formation_en": "Verb (plain form) + としたら / とすれば / とすると\n   買う → 買うとしたら、あった → あったとしたら\nい-adjective + としたら …\n   高い → 高いとすれば\nな-adjective / noun + だ + としたら …\n   本当 → 本当だとすると",
+      "examples": [
+        {
+          "ja": "もし一億円あったとしたら、何に使いますか。",
+          "reading": "もし いちおくえん あったと したら、なにに つかいますか。",
+          "romaji": "moshi ichiokuen atta to shitara, nani ni tsukaimasu ka.",
+          "ta": "ஒருவேளை உங்களிடம் பத்து கோடி யென் இருந்தால், எதற்குச் செலவழிப்பீர்கள்?",
+          "en": "Suppose you had 100 million yen. What would you spend it on?"
+        },
+        {
+          "ja": "家を買うとすれば、駅から近い所がいいです。",
+          "reading": "いえを かうと すれば、えきから ちかい ところが いいです。",
+          "romaji": "ie o kau to sureba, eki kara chikai tokoro ga ii desu.",
+          "ta": "வீடு வாங்குவதாக இருந்தால், ஸ்டேஷனுக்கு அருகில் உள்ள இடமே நல்லது.",
+          "en": "If I were to buy a house, I’d want one near the station."
+        },
+        {
+          "ja": "毎月三万円貯金するとすると、一年で三十六万円になります。",
+          "reading": "まいつき さんまんえん ちょきんすると すると、いちねんで さんじゅうろくまんえんに なります。",
+          "romaji": "maitsuki sanman’en chokin suru to suru to, ichinen de sanjuurokuman’en ni narimasu.",
+          "ta": "மாதம் முப்பதாயிரம் யென் சேமிப்பதாக வைத்துக்கொண்டால், ஒரு வருடத்தில் மூன்று லட்சத்து அறுபதாயிரம் யென் ஆகும்.",
+          "en": "If you save 30,000 yen a month, that makes 360,000 yen in a year."
+        },
+        {
+          "ja": "留学するとしたら、どの国に行きたいですか。",
+          "reading": "りゅうがくすると したら、どの くにに いきたいですか。",
+          "romaji": "ryuugaku suru to shitara, dono kuni ni ikitai desu ka.",
+          "ta": "வெளிநாட்டில் படிப்பதாக இருந்தால், எந்த நாட்டுக்குப் போக விரும்புகிறீர்கள்?",
+          "en": "If you were to study abroad, which country would you go to?"
+        },
+        {
+          "ja": "彼の話が本当だとすれば、会社は来年倒産するかもしれません。",
+          "reading": "かれの はなしが ほんとうだと すれば、かいしゃは らいねん とうさんするかも しれません。",
+          "romaji": "kare no hanashi ga hontou da to sureba, kaisha wa rainen tousan suru kamo shiremasen.",
+          "ta": "அவன் சொல்வது உண்மை என்றால், நிறுவனம் அடுத்த ஆண்டு திவாலாகலாம்.",
+          "en": "If what he says is true, the company may go bankrupt next year."
+        },
+        {
+          "ja": "旅行の費用が十万円だとすると、今の貯金では足りません。",
+          "reading": "りょこうの ひようが じゅうまんえんだと すると、いまの ちょきんでは たりません。",
+          "romaji": "ryokou no hiyou ga juuman’en da to suru to, ima no chokin de wa tarimasen.",
+          "ta": "பயணச் செலவு ஒரு லட்சம் யென் என்றால், இப்போதுள்ள சேமிப்பு போதாது.",
+          "en": "If the trip costs 100,000 yen, my savings now are not enough."
+        }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் だ-வை விடாதீர்கள்: 本当とすれば ✗ → 本当だとすれば ✓. மேலும், உறுதியாக நடக்கப்போவதற்கு (春になったら) としたら பயன்படுத்த வேண்டாம்; அது கற்பனை / ஊகத்துக்கு மட்டுமே. 〜としても (L15, 'அப்படியே ஆனாலும்') உடன் குழப்பிக்கொள்ளாதீர்கள்.",
+      "pitfalls_en": "Don’t drop だ after a noun: 本当とすれば ✗ → 本当だとすれば ✓. Don’t use としたら for things that will surely happen (春になったら, when spring comes). It is only for imagined ideas. Don’t mix it up with 〜としても (Lesson 15, \"even if\")."
+    },
+    {
+      "id": "g16-2",
+      "pattern": "N さえ 〜ば",
+      "name": {
+        "en": "If only ~ (that is all you need)",
+        "ta": "〜மட்டும் இருந்தால் போதும்"
+      },
+      "explanation_ta": "N さえ 〜ば என்பது 'இந்த ஒன்று மட்டும் இருந்தால் / நடந்தால் போதும்; வேறு எதுவும் தேவையில்லை' என்ற பொருள் தரும். தமிழில் '〜மட்டும் இருந்தால் போதும்' என்பதற்குச் சரியான இணை. பெயர்ச்சொல்லுக்குப் பின் さえ, அதன் பின் ば-வடிவம் (あれば、よければ、なら) வரும். வினைச்சொல்லையே வலியுறுத்த வேண்டுமானால் ます-அடி + さえ + すれば (貯金さえすれば, 読みさえすれば), அல்லது て-வடிவம் + さえ + いれば (練習してさえいれば). N4-இல் கற்ற さえ ('〜கூட': 子どもさえ知っている) வேறு பொருள்; ば-உடன் சேரும்போது மட்டுமே 'இது போதும்' என்ற பொருள். கனவு, ஆசை, ஆலோசனை ஆகியவற்றைச் சொல்லும்போது அதிகம் வரும்.",
+      "explanation_en": "N さえ 〜ば means \"if only N, that’s enough\". You need nothing else. Put さえ after the noun, then a ば-form (あれば, よければ, なら). To stress a verb, use the ます-stem + さえ + すれば (貯金さえすれば, if you just save). Or use the て-form + さえ + いれば (練習してさえいれば, if you just keep practising). You know さえ from N4 as \"even\" (子どもさえ知っている, even a child knows). With ば, it means \"just this is enough\". It is common for dreams, wishes and advice.",
+      "tamil_parallel": "பணம் மட்டும் இருந்தால் போதும், உலகம் முழுவதும் சுற்றலாம் = お金さえあれば、世界中を旅行できる",
+      "tamil_parallel_en": "\"If only I have money, I can travel the world\" (பணம் மட்டும் இருந்தால் போதும்) = お金さえあれば、世界中を旅行できる",
+      "formation": "பெயர்ச்சொல் + さえ + வினை-ば / い-பெயரடை-ければ / な-பெயரடை・பெயர்ச்சொல் + なら\n   お金さえあれば、天気さえよければ\nவினை ます-அடி + さえ + すれば\n   貯金さえすれば、読みさえすれば\nவினை て-வடிவம் + さえ + いれば\n   元気でさえいれば、練習してさえいれば",
+      "formation_en": "Noun + さえ + verb-ば / い-adj -ければ / な-adj・noun + なら\n   お金さえあれば、天気さえよければ\nVerb ます-stem + さえ + すれば\n   貯金さえすれば、読みさえすれば\nVerb て-form + さえ + いれば\n   元気でさえいれば、練習してさえいれば",
+      "examples": [
+        {
+          "ja": "お金さえあれば、世界中を旅行できるのに。",
+          "reading": "おかねさえ あれば、せかいじゅうを りょこう できるのに。",
+          "romaji": "okane sae areba, sekaijuu o ryokou dekiru noni.",
+          "ta": "பணம் மட்டும் இருந்தால், உலகம் முழுவதும் சுற்றலாமே!",
+          "en": "If only I had money, I could travel all over the world."
+        },
+        {
+          "ja": "この薬さえ飲めば、すぐ治りますよ。",
+          "reading": "この くすりさえ のめば、すぐ なおりますよ。",
+          "romaji": "kono kusuri sae nomeba, sugu naorimasu yo.",
+          "ta": "இந்த மருந்தை மட்டும் சாப்பிட்டால் போதும், சீக்கிரம் குணமாகிவிடும்.",
+          "en": "Just take this medicine and you’ll get better soon."
+        },
+        {
+          "ja": "天気さえよければ、明日は海へ行きます。",
+          "reading": "てんきさえ よければ、あしたは うみへ いきます。",
+          "romaji": "tenki sae yokereba, ashita wa umi e ikimasu.",
+          "ta": "வானிலை மட்டும் நன்றாக இருந்தால், நாளை கடற்கரைக்குப் போவோம்.",
+          "en": "As long as the weather is good, we’ll go to the sea tomorrow."
+        },
+        {
+          "ja": "毎月少しずつ貯金さえすれば、来年は新しいパソコンが買えます。",
+          "reading": "まいつき すこしずつ ちょきんさえ すれば、らいねんは あたらしい パソコンが かえます。",
+          "romaji": "maitsuki sukoshizutsu chokin sae sureba, rainen wa atarashii pasokon ga kaemasu.",
+          "ta": "ஒவ்வொரு மாதமும் கொஞ்சம் கொஞ்சமாகச் சேமித்தால் போதும், அடுத்த ஆண்டு புதிய கணினி வாங்கலாம்.",
+          "en": "If you just save a little each month, you can buy a new computer next year."
+        },
+        {
+          "ja": "子どもが元気でさえいれば、贅沢はいりません。",
+          "reading": "こどもが げんきでさえ いれば、ぜいたくは いりません。",
+          "romaji": "kodomo ga genki de sae ireba, zeitaku wa irimasen.",
+          "ta": "பிள்ளைகள் நலமாக இருந்தால் மட்டும் போதும்; ஆடம்பரம் எதுவும் தேவையில்லை.",
+          "en": "As long as my children are healthy, I don’t need luxuries."
+        },
+        {
+          "ja": "時間さえあれば、もっと日本語を勉強したいんですが…。",
+          "reading": "じかんさえ あれば、もっと にほんごを べんきょうしたいんですが…。",
+          "romaji": "jikan sae areba, motto nihongo o benkyou shitai n desu ga….",
+          "ta": "நேரம் மட்டும் இருந்தால் இன்னும் அதிகமாக ஜப்பானியம் படிக்க ஆசைதான்…",
+          "en": "If only I had time, I’d like to study more Japanese…"
+        },
+        {
+          "ja": "パスポートさえあれば、両替できますか。",
+          "reading": "パスポートさえ あれば、りょうがえ できますか。",
+          "romaji": "pasupooto sae areba, ryougae dekimasu ka.",
+          "ta": "பாஸ்போர்ட் மட்டும் இருந்தால் பணம் மாற்ற முடியுமா?",
+          "en": "Can I change money if I just have my passport?"
+        }
+      ],
+      "pitfalls_ta": "さえ-க்குப் பின் ば-வடிவம் வர வேண்டும்; お金さえあるので ✗. 'பணம் மட்டுமே இருக்கிறது' (お金しかない) என்பதுடன் குழப்பாதீர்கள்: しか எதிர்மறையுடன் வந்து 'வேறு இல்லை' என்று குறை சொல்லும்; さえ〜ば 'இது போதும்' என்று நிபந்தனை சொல்லும்.",
+      "pitfalls_en": "After さえ you need a ば-form. お金さえあるので ✗. Don’t mix it up with お金しかない (I have only money, nothing else). しか comes with a negative and sounds like a complaint. さえ〜ば sets a condition: \"this is enough\"."
+    },
+    {
+      "id": "g16-3",
+      "pattern": "〜限り / 〜ない限り",
+      "name": {
+        "en": "As long as ~ / unless ~",
+        "ta": "〜இருக்கும் வரை / 〜செய்யாத வரை"
+      },
+      "explanation_ta": "〜限り (かぎり) 'ஒரு நிலை தொடரும் வரை, அந்த முடிவும் மாறாது' என்பதைக் காட்டும் — தமிழில் '〜இருக்கும் வரை'. 〜ない限り 'இது நடக்காத வரை (நடந்தால்தான் மாற்றம்)' — தமிழில் '〜செய்யாத வரை / 〜செய்யாவிட்டால்'. வினையின் அகராதி வடிவம், 〜ている வடிவம், ない-வடிவம், い-பெயரடை, な-பெயரடை + な, பெயர்ச்சொல் + である ஆகியவற்றுடன் சேரும். 知っている限り / 見た限り என்பது 'எனக்குத் தெரிந்தவரை / நான் பார்த்தவரை' என்ற நிலையான தொடர். 〜ない限り-க்குப் பின் பெரும்பாலும் எதிர்மறை அல்லது கடினமான முடிவு வரும் (上手にならない、無理だ). இது சற்று உறுதியான, எழுத்திலும் பேச்சிலும் வரும் வடிவம்; சாதாரண 〜なければ-ஐவிட 'இந்த நிபந்தனை இல்லாமல் வழியே இல்லை' என்று வலுவாகச் சொல்லும்.",
+      "explanation_en": "〜限り (かぎり) means \"as long as this stays true, the result stays the same\". 〜ない限り means \"unless this happens\" or \"as long as this does not happen\". It joins the dictionary form, the 〜ている form, the ない-form, い-adjectives, な-adjective + な, and noun + である. 知っている限り and 見た限り are set phrases: \"as far as I know\" and \"as far as I saw\". After 〜ない限り, a negative or hard result usually follows (上手にならない, won’t improve; 無理だ, impossible). It is stronger than 〜なければ. It says there is no other way. You can use it in speech and writing.",
+      "tamil_parallel": "உடல் நலமாக இருக்கும் வரை வேலை செய்வேன் = 体が元気な限り、働きます / பயிற்சி செய்யாத வரை திறமை வராது = 練習しない限り、上手にならない",
+      "tamil_parallel_en": "\"As long as I’m healthy, I’ll work\" (உடல் நலமாக இருக்கும் வரை) = 体が元気な限り、働きます / \"Unless you practise, you won’t improve\" (பயிற்சி செய்யாத வரை) = 練習しない限り、上手にならない",
+      "formation": "வினை அகராதி வடிவம் / 〜ている / 〜た + 限り   ('〜இருக்கும் வரை')\n   ある限り、知っている限り、見た限り\nவினை ない-வடிவம் + 限り   ('〜செய்யாத வரை')\n   練習しない限り、雨が降らない限り\nい-பெயரடை + 限り / な-பெயரடை + な + 限り / பெயர்ச்சொல் + である + 限り\n   元気な限り、学生である限り",
+      "formation_en": "Verb dictionary form / 〜ている / 〜た + 限り   (\"as long as\")\n   ある限り、知っている限り、見た限り\nVerb ない-form + 限り   (\"unless\")\n   練習しない限り、雨が降らない限り\nい-adj + 限り / な-adj + な + 限り / noun + である + 限り\n   元気な限り、学生である限り",
+      "examples": [
+        {
+          "ja": "体が元気な限り、働きたいです。",
+          "reading": "からだが げんきな かぎり、はたらきたいです。",
+          "romaji": "karada ga genki na kagiri, hatarakitai desu.",
+          "ta": "உடல் நலமாக இருக்கும் வரை வேலை செய்ய விரும்புகிறேன்.",
+          "en": "As long as I’m healthy, I want to keep working."
+        },
+        {
+          "ja": "借金がある限り、贅沢はできません。",
+          "reading": "しゃっきんが ある かぎり、ぜいたくは できません。",
+          "romaji": "shakkin ga aru kagiri, zeitaku wa dekimasen.",
+          "ta": "கடன் இருக்கும் வரை ஆடம்பரமாகச் செலவழிக்க முடியாது.",
+          "en": "As long as I have debts, I can’t spend on luxuries."
+        },
+        {
+          "ja": "練習しない限り、上手になりません。",
+          "reading": "れんしゅうしない かぎり、じょうずに なりません。",
+          "romaji": "renshuu shinai kagiri, jouzu ni narimasen.",
+          "ta": "பயிற்சி செய்யாத வரை திறமை வராது.",
+          "en": "Unless you practise, you won’t get better."
+        },
+        {
+          "ja": "雨が降らない限り、試合は行われます。",
+          "reading": "あめが ふらない かぎり、しあいは おこなわれます。",
+          "romaji": "ame ga furanai kagiri, shiai wa okonawaremasu.",
+          "ta": "மழை பெய்யாத வரை போட்டி நடக்கும்.",
+          "en": "Unless it rains, the match will go ahead."
+        },
+        {
+          "ja": "私が知っている限り、彼は一度も遅刻したことがありません。",
+          "reading": "わたしが しって いる かぎり、かれは いちども ちこくした ことが ありません。",
+          "romaji": "watashi ga shitte iru kagiri, kare wa ichido mo chikoku shita koto ga arimasen.",
+          "ta": "எனக்குத் தெரிந்தவரை அவன் ஒருமுறைகூடத் தாமதமாக வந்ததில்லை.",
+          "en": "As far as I know, he has never once been late."
+        },
+        {
+          "ja": "収入が増えない限り、家を買うのは無理ですか。",
+          "reading": "しゅうにゅうが ふえない かぎり、いえを かうのは むりですか。",
+          "romaji": "shuunyuu ga fuenai kagiri, ie o kau no wa muri desu ka.",
+          "ta": "வருமானம் அதிகரிக்காத வரை வீடு வாங்குவது முடியாத காரியமா?",
+          "en": "Is it impossible to buy a house unless my income goes up?"
+        }
+      ],
+      "pitfalls_ta": "な-பெயரடைக்குப் பின் な வேண்டும்: 元気限り ✗ → 元気な限り ✓. 'செய்யாத வரை' என்று சொல்ல ない-வடிவம் தேவை; する限り என்றால் 'செய்யும் வரை' — பொருள் தலைகீழாகும்.",
+      "pitfalls_en": "A な-adjective needs な: 元気限り ✗ → 元気な限り ✓. For \"unless\", you need the ない-form. する限り means \"as long as you do\". The meaning becomes the opposite."
+    },
+    {
+      "id": "g16-4",
+      "pattern": "V-て からでないと / V-て からでなければ",
+      "name": {
+        "en": "Not until you first ~",
+        "ta": "〜செய்த பிறகுதான் (முடியும்)"
+      },
+      "explanation_ta": "V-て から என்பது N5-இல் கற்ற '〜செய்த பிறகு'. அதனுடன் でないと / でなければ ('இல்லாவிட்டால்') சேரும்போது, 'முதலில் 〜 செய்யாவிட்டால் (அடுத்தது) முடியாது' என்று பொருள். அதாவது முன் நிபந்தனை. பின்பகுதியில் எப்போதும் எதிர்மறை அல்லது கடினம் வரும்: できない、わからない、だめだ、〜てはいけない. தமிழில் நாம் இதை நேர்மறையாக 'செய்த பிறகுதான் முடியும்' என்று '-தான்' கொண்டு சொல்கிறோம்; ஜப்பானியம் இரட்டை எதிர்மறையாகச் சொல்கிறது: 'செய்த பிறகு இல்லாவிட்டால், முடியாது'. でないと பேச்சில் அதிகம்; でなければ சற்று முறையானது.",
+      "explanation_en": "V-て から is \"after doing ~\" from N5. Add でないと or でなければ (\"if it is not\"). Now it means \"if you don’t do ~ first, you can’t do the next thing\". So the first action is a must. The second part is always negative or hard: できない (can’t), わからない (won’t know), だめだ (no good), 〜てはいけない (must not). In Tamil we say it in a positive way with \"-தான்\": \"only after doing it, can you\" (செய்த பிறகுதான் முடியும்). Japanese uses two negatives: \"if not after doing, you can’t\". でないと is common in speech. でなければ is a little more formal.",
+      "tamil_parallel": "சம்பளம் வாங்கிய பிறகுதான் புதிய காலணி வாங்க முடியும் = 給料をもらってからでないと、新しい靴は買えません",
+      "tamil_parallel_en": "\"Only after I get paid can I buy new shoes\" (சம்பளம் வாங்கிய பிறகுதான்) = 給料をもらってからでないと、新しい靴は買えません",
+      "formation": "வினை て-வடிவம் + から + でないと / でなければ + எதிர்மறை முடிவு\n   もらって → もらってからでないと 〜できません\n   見て → 見てからでなければ 〜わかりません",
+      "formation_en": "Verb て-form + から + でないと / でなければ + negative result\n   もらって → もらってからでないと 〜できません\n   見て → 見てからでなければ 〜わかりません",
+      "examples": [
+        {
+          "ja": "給料をもらってからでないと、新しい靴は買えません。",
+          "reading": "きゅうりょうを もらってからでないと、あたらしい くつは かえません。",
+          "romaji": "kyuuryou o moratte kara de nai to, atarashii kutsu wa kaemasen.",
+          "ta": "சம்பளம் வாங்கிய பிறகுதான் புதிய காலணி வாங்க முடியும்.",
+          "en": "I can’t buy new shoes until I get paid."
+        },
+        {
+          "ja": "両親に相談してからでなければ、決められません。",
+          "reading": "りょうしんに そうだんしてからでなければ、きめられません。",
+          "romaji": "ryoushin ni soudan shite kara de nakereba, kimeraremasen.",
+          "ta": "பெற்றோரிடம் கலந்து பேசிய பிறகுதான் முடிவு செய்ய முடியும்.",
+          "en": "I can’t decide until I’ve talked to my parents."
+        },
+        {
+          "ja": "実際に見てからでないと、この家を買うかどうかわかりません。",
+          "reading": "じっさいに みてからでないと、この いえを かうか どうか わかりません。",
+          "romaji": "jissai ni mite kara de nai to, kono ie o kau ka dou ka wakarimasen.",
+          "ta": "நேரில் பார்த்த பிறகுதான் இந்த வீட்டை வாங்குவதா வேண்டாமா என்று தெரியும்.",
+          "en": "I won’t know whether to buy this house until I’ve seen it myself."
+        },
+        {
+          "ja": "代金を払ってからでないと、商品は送れません。",
+          "reading": "だいきんを はらってからでないと、しょうひんは おくれません。",
+          "romaji": "daikin o haratte kara de nai to, shouhin wa okuremasen.",
+          "ta": "விலையைச் செலுத்திய பிறகுதான் பொருளை அனுப்ப முடியும்.",
+          "en": "We can’t send the goods until you’ve paid."
+        },
+        {
+          "ja": "手を洗ってからでなければ、ご飯を食べてはいけません。",
+          "reading": "てを あらってからでなければ、ごはんを たべては いけません。",
+          "romaji": "te o aratte kara de nakereba, gohan o tabete wa ikemasen.",
+          "ta": "கை கழுவிய பிறகுதான் சாப்பிட வேண்டும்.",
+          "en": "You mustn’t eat until you’ve washed your hands."
+        },
+        {
+          "ja": "計算してからでないと、いくら必要かわかりませんよ。",
+          "reading": "けいさんしてからでないと、いくら ひつようか わかりませんよ。",
+          "romaji": "keisan shite kara de nai to, ikura hitsuyou ka wakarimasen yo.",
+          "ta": "கணக்கிட்ட பிறகுதான் எவ்வளவு தேவை என்று தெரியும்.",
+          "en": "We won’t know how much we need until we work it out."
+        }
+      ],
+      "pitfalls_ta": "தமிழில் '-தான் முடியும்' என்று நேர்மறையாக நினைப்பதால், பின்பகுதியையும் நேர்மறையாக (買えます) எழுதும் தவறு அடிக்கடி நடக்கிறது. からでないと-க்குப் பின் எதிர்மறை (買えません) வர வேண்டும். からには (L11, 'செய்த பிறகு கட்டாயம்') என்பதுடன் குழப்பாதீர்கள்.",
+      "pitfalls_en": "In Tamil we think \"only after ~ can I\", which is positive. So learners often write a positive end (買えます). After からでないと, the end must be negative (買えません). Don’t mix it up with からには (Lesson 11, \"now that ~, I must\")."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0029",
+    "n3-v-0038",
+    "n3-v-0073",
+    "n3-v-0074",
+    "n3-v-0076",
+    "n3-v-0086",
+    "n3-v-0104",
+    "n3-v-0153",
+    "n3-v-0216",
+    "n3-v-0217",
+    "n3-v-0259",
+    "n3-v-0264",
+    "n3-v-0275",
+    "n3-v-0573",
+    "n3-v-0584",
+    "n3-v-0605",
+    "n3-v-0611",
+    "n3-v-0639",
+    "n3-v-0675",
+    "n3-v-0744",
+    "n3-v-0766",
+    "n3-v-0769",
+    "n3-v-0770",
+    "n3-v-0772",
+    "n3-v-0777",
+    "n3-v-0813",
+    "n3-v-0829",
+    "n3-v-0856",
+    "n3-v-0880",
+    "n3-v-0882",
+    "n3-v-0887",
+    "n3-v-0962",
+    "n3-v-0992",
+    "n3-v-1007",
+    "n3-v-1073",
+    "n3-v-1145",
+    "n3-v-1160",
+    "n3-v-1171",
+    "n3-v-1172",
+    "n3-v-1241",
+    "n3-v-1245",
+    "n3-v-1289",
+    "n3-v-1297",
+    "n3-v-1320",
+    "n3-v-1361",
+    "n3-v-1496",
+    "n3-v-1576",
+    "n3-v-1761",
+    "n3-v-1838",
+    "n3-v-1879",
+    "n3-v-1982",
+    "n3-v-2038",
+    "n3-v-2083"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L16-q01",
+        "type": "kanji_reading",
+        "sentence": "今月は ＿収入＿が 少なかった。",
+        "target": "収入",
+        "options": [
+          "しゅにゅう",
+          "しゅうにゅう",
+          "しゅうにゅ",
+          "じゅうにゅう"
+        ],
+        "answer": 1,
+        "explanation_ta": "収入 = しゅうにゅう (வருமானம்). 収 நீண்ட ஒலி しゅう; 入 = にゅう. しゅにゅう நீட்டலை விட்ட தவறு.",
+        "explanation_en": "収入 = しゅうにゅう (வருமானம், income). 収 has a long sound: しゅう. 入 is にゅう. しゅにゅう misses the long sound."
+      },
+      {
+        "id": "L16-q02",
+        "type": "kanji_reading",
+        "sentence": "店の ＿利益＿は 去年より 増えました。",
+        "target": "利益",
+        "options": [
+          "りえき",
+          "りいき",
+          "りやく",
+          "りえい"
+        ],
+        "answer": 0,
+        "explanation_ta": "利益 = りえき (லாபம்). 益 இங்கே えき. りやく என்பது மத வழக்கில் வரும் பழைய உச்சரிப்பு; இங்கே பொருந்தாது.",
+        "explanation_en": "利益 = りえき (லாபம், profit). 益 is read えき here. りやく is an old reading used in religion. It does not fit here."
+      },
+      {
+        "id": "L16-q03",
+        "type": "kanji_reading",
+        "sentence": "旅行の ＿費用＿を 計算して みました。",
+        "target": "費用",
+        "options": [
+          "ひよ",
+          "ひいよう",
+          "ひよう",
+          "びよう"
+        ],
+        "answer": 2,
+        "explanation_ta": "費用 = ひよう (செலவு). びよう (美容) என்பது அழகுக் கலை; ஒலி ஒத்தாலும் வேறு சொல்.",
+        "explanation_en": "費用 = ひよう (செலவு, cost). びよう (美容) means beauty care. It sounds close but it is a different word."
+      },
+      {
+        "id": "L16-q04",
+        "type": "orthography",
+        "sentence": "毎年 三月に ＿ぜいきん＿を 払います。",
+        "target": "ぜいきん",
+        "options": [
+          "説金",
+          "脱金",
+          "悦金",
+          "税金"
+        ],
+        "answer": 3,
+        "explanation_ta": "வரி = 税金. 税 இடப்பக்கம் 禾 (நெல்) — பழங்காலத்தில் வரி நெல்லாகச் செலுத்தப்பட்டது என்று நினைவில் வையுங்கள். 説 (விளக்கம்), 脱 (கழற்று) வடிவம் ஒத்தாலும் வேறு.",
+        "explanation_en": "Tax = 税金. 税 has 禾 (rice plant) on the left. Long ago, people paid tax in rice. 説 (explain) and 脱 (take off) look similar but are different."
+      },
+      {
+        "id": "L16-q05",
+        "type": "orthography",
+        "sentence": "バスに 乗る 前に ＿こぜに＿を 用意します。",
+        "target": "こぜに",
+        "options": [
+          "小浅",
+          "少銭",
+          "小銭",
+          "少線"
+        ],
+        "answer": 2,
+        "explanation_ta": "சில்லறை = 小銭 (小 = சிறிய, 銭 = காசு). 少 'குறைவு' என்ற பொருள்; இங்கே 小 தான் சரி. 浅、線 வடிவம் ஒத்த வேறு எழுத்துகள்.",
+        "explanation_en": "Small change = 小銭 (小 = small, 銭 = coin). 少 means \"few\". Here 小 is right. 浅 and 線 just look similar."
+      },
+      {
+        "id": "L16-q06",
+        "type": "vocab_context",
+        "sentence": "空港で ルピーを 円に （　　）しました。",
+        "options": [
+          "計算",
+          "両替",
+          "節約",
+          "精算"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஒரு நாட்டுப் பணத்தை வேறு நாட்டுப் பணமாக மாற்றுவது = 両替. 精算 என்பது கட்டண வேறுபாட்டைச் செலுத்திக் கணக்கை முடிப்பது.",
+        "explanation_en": "Changing one country’s money into another’s = 両替 (பணம் மாற்றுதல், money exchange). 精算 means paying a fare difference to settle a bill."
+      },
+      {
+        "id": "L16-q07",
+        "type": "vocab_context",
+        "sentence": "給料日の 前で、財布には （　　）しか 残って いません。",
+        "options": [
+          "小銭",
+          "金庫",
+          "借金",
+          "株"
+        ],
+        "answer": 0,
+        "explanation_ta": "சம்பள நாளுக்கு முன், பர்ஸில் சில்லறை (小銭) மட்டுமே மீதம். 金庫 பணப்பெட்டகம் — பர்ஸில் இருக்காது; 借金 கடன்.",
+        "explanation_en": "Before payday, only small change (小銭, சில்லறை) is left in the wallet. A 金庫 (safe) can’t be in a wallet. 借金 is debt."
+      },
+      {
+        "id": "L16-q08",
+        "type": "vocab_context",
+        "sentence": "まだ 食べられるのに 捨てるなんて、（　　）。",
+        "options": [
+          "貧しい",
+          "豪華だ",
+          "余分だ",
+          "もったいない"
+        ],
+        "answer": 3,
+        "explanation_ta": "இன்னும் சாப்பிடக்கூடியதைத் தூக்கி எறிவது 'வீண்' = もったいない. 余分だ 'கூடுதல்' என்று பொருள்; வருத்த உணர்வைத் தராது.",
+        "explanation_en": "Throwing away food you can still eat is a waste = もったいない (வீண்). 余分だ means \"extra\". It doesn’t show that feeling of regret."
+      },
+      {
+        "id": "L16-q09",
+        "type": "vocab_context",
+        "sentence": "会社が （　　）して、父は 仕事を なくしました。",
+        "options": [
+          "倒産",
+          "相続",
+          "消費",
+          "支給"
+        ],
+        "answer": 0,
+        "explanation_ta": "நிறுவனம் திவாலானதால் வேலை போனது → 倒産. 相続 என்பது சொத்தை வாரிசாகப் பெறுவது.",
+        "explanation_en": "The company went bankrupt, so he lost his job → 倒産 (திவாலாதல்). 相続 means inheriting property."
+      },
+      {
+        "id": "L16-q10",
+        "type": "vocab_context",
+        "sentence": "レストランで 食事の 後、「お（　　）を お願いします」と 言いました。",
+        "options": [
+          "料金",
+          "価格",
+          "勘定",
+          "代金"
+        ],
+        "answer": 2,
+        "explanation_ta": "உணவகத்தில் 'பில் கொடுங்கள்' = お勘定をお願いします. お料金、お価格 என்று சொல்வதில்லை.",
+        "explanation_en": "In a restaurant, \"the bill, please\" = お勘定をお願いします (பில் கொடுங்கள்). People don’t say お料金 or お価格."
+      },
+      {
+        "id": "L16-q11",
+        "type": "paraphrase",
+        "sentence": "今月は 支出が 多かった。",
+        "options": [
+          "今月は お金を たくさん もらった。",
+          "今月は お金を たくさん 使った。",
+          "今月は 収入が 多かった。",
+          "今月は 貯金が 増えた。"
+        ],
+        "answer": 1,
+        "explanation_ta": "支出 = வெளியே போகும் பணம் (செலவு). எனவே 'நிறையப் பணம் செலவழித்தேன்'. 収入 (வருமானம்) எதிர்ப்பொருள்.",
+        "explanation_en": "支出 is money going out (செலவு, spending). So: \"I used a lot of money.\" 収入 (வருமானம், income) is the opposite."
+      },
+      {
+        "id": "L16-q12",
+        "type": "paraphrase",
+        "sentence": "万一 財布を なくしたら、すぐ 警察に 連絡して ください。",
+        "options": [
+          "財布を なくさない ように して ください。",
+          "いつか 必ず 財布を なくします。",
+          "もしも 財布を なくした 場合は、すぐ 警察に 連絡して ください。",
+          "財布を なくしても、連絡は いりません。"
+        ],
+        "answer": 2,
+        "explanation_ta": "万一 = 'ஒருவேளை (அரிதாக) நடந்தால்' = もしも 〜場合は. 'கட்டாயம் தொலைப்பீர்கள்' என்று அது சொல்லவில்லை.",
+        "explanation_en": "万一 = \"if, by any chance\" (ஒருவேளை) = もしも 〜場合は. It does not say you will surely lose it."
+      },
+      {
+        "id": "L16-q13",
+        "type": "usage",
+        "sentence": "節約",
+        "options": [
+          "先生の 話を 節約して、ノートに 書きました。",
+          "時間が ないので、説明を 節約して ください。",
+          "友達に 節約を して、お金を 借りました。",
+          "電気代を 節約する ために、使わない 電気は 消して います。"
+        ],
+        "answer": 3,
+        "explanation_ta": "節約 = பணம், மின்சாரம் போன்றவற்றைச் சிக்கனமாகப் பயன்படுத்துதல். பேச்சைச் சுருக்குவது まとめる; விளக்கத்தை விடுவது 省略.",
+        "explanation_en": "節約 = using money or electricity carefully (சிக்கனம், saving). Making a talk shorter is まとめる. Leaving out an explanation is 省略."
+      },
+      {
+        "id": "L16-q14",
+        "type": "usage",
+        "sentence": "稼ぐ",
+        "options": [
+          "銀行で お金を 稼いで、家を 買いました。",
+          "兄は アルバイトで 月に 十万円 稼いで います。",
+          "財布から お金を 稼いで、払いました。",
+          "友達に 千円 稼いで、ジュースを 買いました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "稼ぐ = உழைத்துப் பணம் சம்பாதிப்பது. வங்கியில் / நண்பரிடம் பணம் பெறுவது 借りる; பர்ஸிலிருந்து எடுப்பது 出す.",
+        "explanation_en": "稼ぐ = to earn money by working (சம்பாதிக்க). Getting money from a bank or a friend is 借りる. Taking it out of a wallet is 出す."
+      },
+      {
+        "id": "L16-q15",
+        "type": "grammar_form",
+        "sentence": "もし 宝くじで 一億円 当たった（　　）、何を 買いますか。",
+        "options": [
+          "としても",
+          "からには",
+          "としたら",
+          "おかげで"
+        ],
+        "answer": 2,
+        "explanation_ta": "'ஒருவேளை பரிசு விழுந்தது என்று வைத்துக்கொண்டால், என்ன வாங்குவீர்கள்?' → としたら. としても 'அப்படியே ஆனாலும்' — கேள்விக்குப் பொருந்தாது.",
+        "explanation_en": "\"Suppose you won the lottery, what would you buy?\" → としたら. としても means \"even if\". It doesn’t fit this question."
+      },
+      {
+        "id": "L16-q16",
+        "type": "grammar_form",
+        "sentence": "お金（　　）あれば、何でも できると 思って いる 人も います。",
+        "options": [
+          "まで",
+          "しか",
+          "こそ",
+          "さえ"
+        ],
+        "answer": 3,
+        "explanation_ta": "'பணம் மட்டும் இருந்தால் போதும்' → さえ〜ば. しか எதிர்மறை வினையுடன் மட்டுமே வரும் (しかない).",
+        "explanation_en": "\"If you just have money, that’s enough\" → さえ〜ば. しか only comes with a negative verb (しかない)."
+      },
+      {
+        "id": "L16-q17",
+        "type": "grammar_form",
+        "sentence": "練習（　　）、試合に 勝つのは 難しいでしょう。",
+        "options": [
+          "する限り",
+          "しない限り",
+          "したおかげで",
+          "するくせに"
+        ],
+        "answer": 1,
+        "explanation_ta": "'பயிற்சி செய்யாத வரை வெல்வது கடினம்' → しない限り. する限り என்றால் 'பயிற்சி செய்யும் வரை கடினம்' — பொருள் தலைகீழ்.",
+        "explanation_en": "\"Unless you practise, it will be hard to win\" → しない限り. する限り would mean \"as long as you practise, it’s hard\". That is the opposite."
+      },
+      {
+        "id": "L16-q18",
+        "type": "grammar_form",
+        "sentence": "代金を 払って（　　）、商品は お送りできません。",
+        "options": [
+          "からには",
+          "からこそ",
+          "からといって",
+          "からでないと"
+        ],
+        "answer": 3,
+        "explanation_ta": "'விலையைச் செலுத்திய பிறகுதான் அனுப்ப முடியும்' → からでないと + எதிர்மறை. からには 'செலுத்தியதால் கட்டாயம்' என்ற வேறு பொருள்.",
+        "explanation_en": "\"We can’t send it until you pay\" → からでないと + negative. からには means \"now that you paid, surely ~\". That is different."
+      },
+      {
+        "id": "L16-q19",
+        "type": "grammar_form",
+        "sentence": "彼の 話が 本当だ（　　）、私たちは だまされて いた ことに なる。",
+        "options": [
+          "とすると",
+          "にしては",
+          "わりに",
+          "くせに"
+        ],
+        "answer": 0,
+        "explanation_ta": "'அவன் சொல்வது உண்மை என்றால், நாம் ஏமாற்றப்பட்டிருக்கிறோம் என்று ஆகும்' → தர்க்க முடிவு → とすると. にしては、わりに 'எதிர்பார்ப்புக்கு மாறாக' (L13).",
+        "explanation_en": "\"If his story is true, it means we were tricked\" → a logical result → とすると. にしては and わりに mean \"for ~, it’s surprising\" (Lesson 13)."
+      },
+      {
+        "id": "L16-q20",
+        "type": "grammar_form",
+        "sentence": "私が 知って いる（　　）、彼は お金に 困って いないと 思います。",
+        "options": [
+          "以上",
+          "たびに",
+          "限り",
+          "ついでに"
+        ],
+        "answer": 2,
+        "explanation_ta": "'எனக்குத் தெரிந்தவரை' = 知っている限り. 以上 'என்பதால் கட்டாயம்' என்ற வேறு பொருள் தரும்.",
+        "explanation_en": "\"As far as I know\" = 知っている限り. 以上 means \"since ~, surely\". That is a different meaning."
+      },
+      {
+        "id": "L16-q21",
+        "type": "grammar_form",
+        "sentence": "A「この カード、ATMで 使えますか。」B「暗証番号さえ（　　）、使えますよ。」",
+        "options": [
+          "わかっても",
+          "わからなくて",
+          "わかるのに",
+          "わかれば"
+        ],
+        "answer": 3,
+        "explanation_ta": "さえ-க்குப் பின் ば-வடிவம்: さえわかれば = 'ரகசிய எண் மட்டும் தெரிந்தால் போதும்'. わかっても 'தெரிந்தாலும்' — பொருந்தாது.",
+        "explanation_en": "After さえ comes a ば-form: さえわかれば = \"if you just know the PIN, that’s enough\". わかっても means \"even if you know\". It doesn’t fit."
+      },
+      {
+        "id": "L16-q22",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "給料を",
+          "もらって",
+          "からでないと",
+          "新しい スマホは"
+        ],
+        "star": 2,
+        "after": "買えません。",
+        "explanation_ta": "給料を もらって (சம்பளம் வாங்கி) → からでないと (பிறகுதான்) → 新しいスマホは → 買えません. ★ = からでないと.",
+        "explanation_en": "給料を もらって (get my salary) → からでないと (not until) → 新しいスマホは (a new phone) → 買えません. ★ = からでないと."
+      },
+      {
+        "id": "L16-q23",
+        "type": "sentence_order",
+        "before": "もし",
+        "chunks": [
+          "百万円",
+          "あった",
+          "としたら",
+          "何に"
+        ],
+        "star": 1,
+        "after": "使いますか。",
+        "explanation_ta": "もし 百万円 (பத்து லட்சம் யென்) → あった → としたら (இருந்தது என்று வைத்துக்கொண்டால்) → 何に 使いますか. ★ = あった.",
+        "explanation_en": "もし 百万円 (a million yen) → あった (had) → としたら (suppose) → 何に 使いますか (what would you use it on). ★ = あった."
+      },
+      {
+        "id": "L16-q24",
+        "type": "sentence_order",
+        "before": "体が",
+        "chunks": [
+          "元気な",
+          "限り",
+          "この 仕事を",
+          "続けたい"
+        ],
+        "star": 3,
+        "after": "と 思います。",
+        "explanation_ta": "体が 元気な 限り (உடல் நலமாக இருக்கும் வரை) → この仕事を → 続けたい → と思います. ★ = 続けたい.",
+        "explanation_en": "体が 元気な 限り (as long as I’m healthy) → この仕事を (this job) → 続けたい (want to continue) → と思います. ★ = 続けたい."
+      },
+      {
+        "id": "L16-q25",
+        "type": "passage_cloze",
+        "passage": "私の 夢は、いつか 自分の 店を 持つ ことです。でも、店を 始める ために、たくさんの 資本が 必要です。今の 給料で 毎月 三万円 貯金できる［1］、五年で 百八十万円です。それでは とても 足りません。父は「お金［2］あれば 店が 成功する わけでは ない。まず ほかの 店で 働いて 経験を［3］、自分の 店は 無理だよ」と 言いました。たしかに、経験が［4］、お客さんが 何を 求めて いるか わからないでしょう。それで、来年から 近所の カフェで 働く ことに しました。",
+        "blanks": [
+          {
+            "options": [
+              "とすると",
+              "ばかりに",
+              "くせに",
+              "ついでに"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "しか",
+              "さえ",
+              "ほど",
+              "なんか"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "積んだ 以上",
+              "積みながら",
+              "積んでからでないと",
+              "積んだ とたん"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "ないくせに",
+              "ないおかげで",
+              "ないついでに",
+              "ない限り"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ 'மாதம் 30,000 சேமிப்பதாக வைத்துக்கொண்டால்' என்று கணக்கிடுவதால் とすると. ［2］ 'பணம் மட்டும் இருந்தால்' = さえ〜ば; しか எதிர்மறையுடன் மட்டுமே. ［3］ 'அனுபவம் பெற்ற பிறகுதான் (சொந்தக் கடை) முடியும்; இல்லையேல் 無理' → 積んでからでないと. ［4］ 'அனுபவம் இல்லாத வரை புரியாது' → ない限り.",
+        "explanation_en": "[1] The writer works out a sum: \"if I save 30,000 a month\" → とすると. [2] \"If you just have money\" = さえ〜ば. しか needs a negative. [3] \"Not until you get experience; otherwise 無理 (impossible)\" → 積んでからでないと. [4] \"Unless you have experience, you won’t know\" → ない限り."
+      }
+    ]
+  }
+}

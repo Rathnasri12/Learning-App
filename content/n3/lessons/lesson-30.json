@@ -1,0 +1,768 @@
+{
+ "lesson": 30,
+ "title": {
+  "ja": "せっかくの休み",
+  "ta": "அரிதாகக் கிடைத்த விடுமுறை",
+  "en": "A precious day off"
+ },
+ "intro_en": "This lesson is about free time and hobbies. You learn small words that show your feelings. せっかく means \"after all that trouble\" or \"a rare chance\". さすが shows admiration: \"just what you’d expect!\". どうせ shows you have given up: \"anyway\". まさか is surprise: \"surely not!\". Last, めったに〜ない means \"rarely\" and 決して〜ない means \"never\".",
+ "intro_ta": "இந்தப் பாடம் ஓய்வு நேரம், பொழுதுபோக்குகள் பற்றியது. மனநிலையைக் காட்டும் சில சிறு சொற்களைக் கற்போம். せっかく = 'சிரமப்பட்டு / அரிதாகக் கிடைத்த'; さすが = பாராட்டு ('எதிர்பார்த்தபடியே, அருமை!'); どうせ = விரக்தி ('எப்படியும்'); まさか = அதிர்ச்சி ('இருக்கவே முடியாது!'). மேலும் めったに〜ない ('அரிதாகவே') , 決して〜ない ('ஒருபோதும் இல்லை') ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g30-1",
+   "pattern": "せっかく 〜のに / 〜から",
+   "name": {
+    "en": "Specially / after all the trouble ~",
+    "ta": "சிரமப்பட்டு / அரிதாகக் கிடைத்த ~"
+   },
+   "explanation_en": "せっかく shows that something took effort or is a rare chance. Two patterns follow it. With のに, the effort was wasted: \"I went to the trouble, but…\". With から or なら, you want to use the chance well: \"since we have this chance, let’s …\". Before a noun, use せっかくの: せっかくの休み (\"my precious day off\"). せっかくですから is a polite set phrase when accepting or offering something.",
+   "explanation_ta": "せっかく என்பது ஒன்றுக்காகச் சிரமப்பட்டதையோ, அது அரிய வாய்ப்பு என்பதையோ காட்டும். இரண்டு வகையில் வரும்: のに உடன் வந்தால் 'சிரமப்பட்டும் வீணாகிவிட்டது' என்ற ஏமாற்றம்; から / なら உடன் வந்தால் 'இந்த வாய்ப்பை நன்றாகப் பயன்படுத்துவோம்'. பெயர்ச்சொல்லுக்கு முன் せっかくの: せっかくの休み ('அரிதாகக் கிடைத்த விடுமுறை'). せっかくですから என்பது வாய்ப்பை ஏற்கும்போதோ வழங்கும்போதோ சொல்லும் மரியாதையான தொடர். தமிழில் 'ஆசையாச் சமைச்சேன், யாரும் சாப்பிடலை' என்பதில் உள்ள 'ஆசையா' போன்ற உணர்வு.",
+   "tamil_parallel": "ஆசையாகச் சமைத்தும் யாரும் சாப்பிடவில்லை = せっかく作ったのに、誰も食べてくれなかった",
+   "tamil_parallel_en": "ஆசையாகச் சமைத்தும் யாரும் சாப்பிடவில்லை (I cooked specially, but nobody ate) = せっかく作ったのに、誰も食べてくれなかった",
+   "formation": "せっかく + வினை (சாதாரண வடிவம்) + のに  → வீணான முயற்சி\nせっかく + வினை (சாதாரண வடிவம்) + から / なら  → வாய்ப்பைப் பயன்படுத்துதல்\nせっかくの + பெயர்ச்சொல்",
+   "formation_en": "せっかく + verb (plain form) + のに  → wasted effort\nせっかく + verb (plain form) + から / なら  → use the chance\nせっかくの + noun",
+   "examples": [
+    {
+     "ja": "せっかく作ったのに、誰も食べてくれなかった。",
+     "reading": "せっかく つくったのに、だれも たべて くれなかった。",
+     "romaji": "sekkaku tsukutta noni, daremo tabete kurenakatta.",
+     "ta": "ஆசையாகச் சமைத்தும் யாரும் சாப்பிடவில்லை.",
+     "en": "I went to the trouble of cooking, but nobody ate it."
+    },
+    {
+     "ja": "せっかくの休みなのに、雨で出かけられない。",
+     "reading": "せっかくの やすみなのに、あめで でかけられない。",
+     "romaji": "sekkaku no yasumi na noni, ame de dekakerarenai.",
+     "ta": "அரிதாகக் கிடைத்த விடுமுறை, ஆனால் மழையால் வெளியே போக முடியவில்லை.",
+     "en": "It’s my precious day off, but the rain keeps me in."
+    },
+    {
+     "ja": "せっかく京都まで来たから、お寺をたくさん見ましょう。",
+     "reading": "せっかく きょうとまで きたから、おてらを たくさん みましょう。",
+     "romaji": "sekkaku kyouto made kita kara, otera o takusan mimashou.",
+     "ta": "இவ்வளவு தூரம் கியோட்டோ வரை வந்திருக்கிறோம், நிறையக் கோயில்களைப் பார்ப்போம்.",
+     "en": "Since we’ve come all the way to Kyoto, let’s see lots of temples."
+    },
+    {
+     "ja": "せっかくですから、もう少しゆっくりしていってください。",
+     "reading": "せっかくですから、もう すこし ゆっくり して いって ください。",
+     "romaji": "sekkaku desu kara, mou sukoshi yukkuri shite itte kudasai.",
+     "ta": "வந்ததே அரிது, இன்னும் கொஞ்ச நேரம் நிதானமாக இருந்துவிட்டுப் போங்கள்.",
+     "en": "Since you’re here, please stay and relax a little longer."
+    },
+    {
+     "ja": "せっかく早起きしたのに、電車が止まっていた。",
+     "reading": "せっかく はやおき したのに、でんしゃが とまって いた。",
+     "romaji": "sekkaku hayaoki shita noni, densha ga tomatte ita.",
+     "ta": "சிரமப்பட்டு அதிகாலையில் எழுந்தும், ரயில் நின்றுபோயிருந்தது.",
+     "en": "I got up early for nothing: the trains had stopped."
+    },
+    {
+     "ja": "せっかくのチャンスだから、やってみたら？",
+     "reading": "せっかくの チャンスだから、やって みたら？",
+     "romaji": "sekkaku no chansu da kara, yatte mitara?",
+     "ta": "அரிய வாய்ப்பு, முயன்று பார்க்கலாமே?",
+     "en": "It’s a rare chance. Why not give it a try?"
+    }
+   ],
+   "pitfalls_en": "Don’t use せっかく for bad things that just happen: せっかく雨が降った is odd. It is for effort or a rare good chance. Before a noun you need の: せっかくの休み, not せっかく休み.",
+   "pitfalls_ta": "தானாக நடக்கும் கெட்ட விஷயங்களுக்கு せっかく வராது: せっかく雨が降った என்பது பொருந்தாது. முயற்சி அல்லது அரிய நல்ல வாய்ப்புக்கே. பெயர்ச்சொல்லுக்கு முன் の அவசியம்: せっかくの休み (せっかく休み அல்ல)."
+  },
+  {
+   "id": "g30-2",
+   "pattern": "さすが(に)",
+   "name": {
+    "en": "As expected of ~ / even ~ (admiration)",
+    "ta": "எதிர்பார்த்தபடியே / ~ க்கே கூட"
+   },
+   "explanation_en": "さすが has two uses. 1) Praise: something is as good as you expected from that person or thing. さすが + noun, or just さすがだ / さすがですね. 2) さすがに + a limit: \"even (someone strong) can’t take this\". Example: even a heat-lover finds today too hot. Both show you know the person’s or thing’s reputation. Don’t use さすが to praise your boss’s skill directly; it can sound like you are judging them.",
+   "explanation_ta": "さすが இரண்டு வகையில் வரும். 1) பாராட்டு: அந்த நபர் அல்லது பொருளிடமிருந்து எதிர்பார்த்தபடியே சிறப்பாக இருக்கும்போது. さすが + பெயர்ச்சொல், அல்லது さすがだ / さすがですね. தமிழில் 'சென்னைக்காரர்னா சும்மாவா!' என்பது போல. 2) さすがに + எல்லை: 'எவ்வளவு வலிமையானவருக்கும் இது அதிகம்'. உதா: வெயில் பழகியவருக்கே இன்றைய வெப்பம் தாங்க முடியவில்லை. இரண்டிலும் அந்த நபரின் புகழ் தெரிந்தே பேசுகிறோம். மேலதிகாரியின் திறமையை நேரடியாக さすが என்று பாராட்டினால் 'மதிப்பிடுவது' போலத் தோன்றலாம்; கவனம்.",
+   "tamil_parallel": "சென்னைக்காரர் என்றால் சும்மாவா, காரம் ஒன்றுமே இல்லை = さすがチェンナイの人、辛い料理が平気ですね",
+   "tamil_parallel_en": "சென்னைக்காரர் என்றால் சும்மாவா (just what you’d expect of a Chennai person) = さすがチェンナイの人",
+   "formation": "さすが + பெயர்ச்சொல் (だ / ですね)  → பாராட்டு\nさすがだ / さすがですね\nさすがに + (எதிர்பார்ப்புக்கு மாறான எல்லை)  → ~க்கே கூட",
+   "formation_en": "さすが + noun (だ / ですね)  → praise\nさすがだ / さすがですね\nさすがに + (a limit, against expectation)  → even ~",
+   "examples": [
+    {
+     "ja": "さすがプロの料理人ですね。とてもおいしいです。",
+     "reading": "さすが プロの りょうりにんですね。とても おいしいです。",
+     "romaji": "sasuga puro no ryourinin desu ne. totemo oishii desu.",
+     "ta": "உண்மையிலேயே தொழில்முறைச் சமையல்காரர்தான்! மிகவும் சுவையாக இருக்கிறது.",
+     "en": "Just what you’d expect from a pro chef! It’s delicious."
+    },
+    {
+     "ja": "一位になったの？さすがだね。",
+     "reading": "いちいに なったの？さすがだね。",
+     "romaji": "ichii ni natta no? sasuga da ne.",
+     "ta": "முதலிடமா? எதிர்பார்த்தபடியே, அருமை!",
+     "en": "You came first? That’s you all over!"
+    },
+    {
+     "ja": "さすが富士山、写真よりずっときれいだ。",
+     "reading": "さすが ふじさん、しゃしんより ずっと きれいだ。",
+     "romaji": "sasuga fujisan, shashin yori zutto kirei da.",
+     "ta": "புஜி மலை என்றால் சும்மாவா, புகைப்படத்தைவிட மிக அழகு.",
+     "en": "Mt. Fuji lives up to its name: far more beautiful than in photos."
+    },
+    {
+     "ja": "暑さに強い私でも、さすがに今日の暑さはつらい。",
+     "reading": "あつさに つよい わたしでも、さすがに きょうの あつさは つらい。",
+     "romaji": "atsusa ni tsuyoi watashi demo, sasuga ni kyou no atsusa wa tsurai.",
+     "ta": "வெயிலைத் தாங்கும் எனக்கே இன்றைய வெப்பம் உண்மையிலேயே கடினமாக இருக்கிறது.",
+     "en": "Even I, who can take the heat, find today too hot."
+    },
+    {
+     "ja": "毎日歩いている父も、さすがに十キロは疲れたようだ。",
+     "reading": "まいにち あるいて いる ちちも、さすがに じゅっキロは つかれた ようだ。",
+     "romaji": "mainichi aruite iru chichi mo, sasuga ni jukkiro wa tsukareta you da.",
+     "ta": "தினமும் நடக்கும் அப்பாவுக்கும் பத்து கிலோமீட்டர் என்றால் களைப்புதான் போலும்.",
+     "en": "Even my father, who walks every day, seems tired after ten kilometres."
+    },
+    {
+     "ja": "さすがチェンナイの人、辛い料理が平気ですね。",
+     "reading": "さすが チェンナイの ひと、からい りょうりが へいきですね。",
+     "romaji": "sasuga chennai no hito, karai ryouri ga heiki desu ne.",
+     "ta": "சென்னைக்காரர் என்றால் சும்மாவா, காரமான உணவு உங்களுக்கு ஒன்றுமே இல்லை!",
+     "en": "Just what you’d expect from someone from Chennai: spicy food is no problem!"
+    }
+   ],
+   "pitfalls_en": "さすが is for something you already knew was good. For a pleasant surprise about someone unknown, use 意外 or 案外 instead. Also, さすがに (with に) usually leads to a limit, not to praise.",
+   "pitfalls_ta": "ஏற்கனவே சிறப்பு என்று தெரிந்த ஒன்றுக்கே さすが. எதிர்பாராத இனிய ஆச்சரியத்துக்கு 意外 / 案外 பயன்படுத்துங்கள். さすがに (に உடன்) பெரும்பாலும் 'எல்லை'யைக் காட்டும், பாராட்டை அல்ல."
+  },
+  {
+   "id": "g30-3",
+   "pattern": "どうせ 〜",
+   "name": {
+    "en": "Anyway (resigned: it won’t change)",
+    "ta": "எப்படியும் (மாறாது என்ற விரக்தி)"
+   },
+   "explanation_en": "どうせ means \"the result is decided anyway, so…\". It often sounds negative or resigned: どうせ無理だ (\"it’s hopeless anyway\"). It also appears in a positive way with なら: どうせやるなら, 楽しくやろう (\"if we must do it anyway, let’s enjoy it\"). It often goes with から, なら, だろう. It is casual and emotional. Compare とにかく (\"anyway, let’s just\"), which is neutral and does not give up.",
+   "explanation_ta": "どうせ = 'முடிவு ஏற்கனவே தெரிந்தது, மாறாது'. பெரும்பாலும் விரக்தி அல்லது சலிப்பைக் காட்டும்: どうせ無理だ ('எப்படியும் முடியாது'). なら உடன் நேர்மறையாகவும் வரும்: どうせやるなら、楽しくやろう ('எப்படியும் செய்யத்தான் வேண்டும் என்றால், மகிழ்ச்சியாகச் செய்வோம்'). から, なら, だろう உடன் அதிகம் வரும்; பேச்சு வழக்கு, உணர்ச்சி கலந்தது. とにかく ('எப்படியிருந்தாலும், செய்து பார்ப்போம்') நடுநிலையானது, விரக்தி இல்லை.",
+   "tamil_parallel": "எப்படியும் நேரத்துக்குப் போய்ச் சேர முடியாது, மெதுவாகப் போவோம் = どうせ間に合わないから、ゆっくり行こう",
+   "tamil_parallel_en": "எப்படியும் நேரத்துக்குப் போய்ச் சேர முடியாது (we won’t make it anyway) = どうせ間に合わないから",
+   "formation": "どうせ + சாதாரண வடிவம் + から / だろう\nどうせ + வினை (அகராதி வடிவம்) + なら + (நேர்மறைப் பரிந்துரை)",
+   "formation_en": "どうせ + plain form + から / だろう\nどうせ + verb (dictionary form) + なら + (positive suggestion)",
+   "examples": [
+    {
+     "ja": "どうせ間に合わないから、ゆっくり行こう。",
+     "reading": "どうせ まにあわないから、ゆっくり いこう。",
+     "romaji": "douse maniawanai kara, yukkuri ikou.",
+     "ta": "எப்படியும் நேரத்துக்குப் போய்ச் சேர முடியாது, மெதுவாகவே போவோம்.",
+     "en": "We won’t make it anyway, so let’s take our time."
+    },
+    {
+     "ja": "どうせやるなら、楽しくやろう。",
+     "reading": "どうせ やるなら、たのしく やろう。",
+     "romaji": "douse yaru nara, tanoshiku yarou.",
+     "ta": "எப்படியும் செய்யத்தான் வேண்டும் என்றால், மகிழ்ச்சியாகச் செய்வோம்.",
+     "en": "If we have to do it anyway, let’s have fun doing it."
+    },
+    {
+     "ja": "どうせ私には無理だと思って、何もしなかった。",
+     "reading": "どうせ わたしには むりだと おもって、なにも しなかった。",
+     "romaji": "douse watashi ni wa muri da to omotte, nanimo shinakatta.",
+     "ta": "எப்படியும் என்னால் முடியாது என்று நினைத்து எதுவும் செய்யவில்லை.",
+     "en": "I thought I couldn’t do it anyway, so I did nothing."
+    },
+    {
+     "ja": "どうせ雨が降るなら、家で映画を見ましょう。",
+     "reading": "どうせ あめが ふるなら、いえで えいがを みましょう。",
+     "romaji": "douse ame ga furu nara, ie de eiga o mimashou.",
+     "ta": "எப்படியும் மழை பெய்யப்போகிறது என்றால், வீட்டில் படம் பார்ப்போம்.",
+     "en": "If it’s going to rain anyway, let’s watch a film at home."
+    },
+    {
+     "ja": "弟はどうせ今日も遅くまで寝ているだろう。",
+     "reading": "おとうとは どうせ きょうも おそくまで ねて いる だろう。",
+     "romaji": "otouto wa douse kyou mo osoku made nete iru darou.",
+     "ta": "தம்பி எப்படியும் இன்றும் வெகுநேரம் வரை தூங்கிக்கொண்டிருப்பான்.",
+     "en": "My little brother will be sleeping late today too, no doubt."
+    },
+    {
+     "ja": "どうせ買うなら、少し高くてもいい物を買いたい。",
+     "reading": "どうせ かうなら、すこし たかくても いい ものを かいたい。",
+     "romaji": "douse kau nara, sukoshi takakute mo ii mono o kaitai.",
+     "ta": "எப்படியும் வாங்கத்தான் போகிறேன் என்றால், விலை கொஞ்சம் அதிகமானாலும் நல்ல பொருளையே வாங்க விரும்புகிறேன்.",
+     "en": "If I’m buying one anyway, I want a good one, even if it costs a bit more."
+    }
+   ],
+   "pitfalls_en": "どうせ can sound sulky or rude about other people (どうせあなたには分からない). Be careful using it about someone in front of them.",
+   "pitfalls_ta": "பிறரைப் பற்றிச் சொல்லும்போது どうせ கோபமாக, மரியாதைக் குறைவாக ஒலிக்கலாம் (どうせあなたには分からない = 'உனக்கு எப்படியும் புரியாது'). எதிரில் இருப்பவரிடம் கவனமாகப் பயன்படுத்துங்கள்."
+  },
+  {
+   "id": "g30-4",
+   "pattern": "まさか 〜ない / まさか 〜とは",
+   "name": {
+    "en": "Surely not ~ / never imagined that ~",
+    "ta": "இருக்கவே முடியாது / கனவிலும் நினைக்கவில்லை"
+   },
+   "explanation_en": "まさか shows strong surprise or disbelief. Three uses: 1) まさか + ないだろう / ないでしょう: \"surely it won’t happen\". 2) まさか〜とは思わなかった, or just まさか〜とは: \"I never imagined …\" (it did happen). 3) Alone as a reply: まさか! = \"No way!\". It is close to the feeling of ありえない. It’s used in both speech and writing.",
+   "explanation_ta": "まさか வலுவான அதிர்ச்சியையோ நம்பமுடியாமையையோ காட்டும். மூன்று பயன்கள்: 1) まさか + ないだろう / ないでしょう: 'நிச்சயம் அப்படி நடக்காது'. 2) まさか〜とは思わなかった அல்லது まさか〜とは: 'அப்படி நடக்கும் என்று கனவிலும் நினைக்கவில்லை' (ஆனால் நடந்துவிட்டது). 3) தனியாகப் பதிலாக: まさか! = 'இருக்கவே முடியாது!'. தமிழில் 'அட, அப்படியா?! நம்பவே முடியலை' என்ற உணர்வு.",
+   "tamil_parallel": "அவர் வேலையை விடுவார் என்று கனவிலும் நினைக்கவில்லை = まさか彼が会社を辞めるとは思わなかった",
+   "tamil_parallel_en": "அவர் வேலையை விடுவார் என்று கனவிலும் நினைக்கவில்லை (I never imagined he’d quit) = まさか彼が会社を辞めるとは思わなかった",
+   "formation": "まさか + சாதாரண வடிவம் + とは(思わなかった)\nまさか + 〜ないだろう / 〜ないでしょう\nまさか!  (தனியாக: 'இருக்கவே முடியாது!')",
+   "formation_en": "まさか + plain form + とは(思わなかった)\nまさか + 〜ないだろう / 〜ないでしょう\nまさか!  (alone: \"No way!\")",
+   "examples": [
+    {
+     "ja": "まさか彼が会社を辞めるとは思わなかった。",
+     "reading": "まさか かれが かいしゃを やめるとは おもわなかった。",
+     "romaji": "masaka kare ga kaisha o yameru to wa omowanakatta.",
+     "ta": "அவர் வேலையை விடுவார் என்று கனவிலும் நினைக்கவில்லை.",
+     "en": "I never imagined he would quit the company."
+    },
+    {
+     "ja": "まさか、また財布を忘れたんじゃないでしょうね。",
+     "reading": "まさか、また さいふを わすれたんじゃ ないでしょうね。",
+     "romaji": "masaka, mata saifu o wasureta n ja nai deshou ne.",
+     "ta": "மறுபடியும் பணப்பையை மறந்திருக்க மாட்டாய்தானே?",
+     "en": "Don’t tell me you forgot your wallet again!"
+    },
+    {
+     "ja": "あんなに練習したんだから、まさか負けないだろう。",
+     "reading": "あんなに れんしゅう したんだから、まさか まけないだろう。",
+     "romaji": "anna ni renshuu shita n da kara, masaka makenai darou.",
+     "ta": "அவ்வளவு பயிற்சி செய்திருக்கிறோம், நிச்சயம் தோற்க மாட்டோம்.",
+     "en": "We practised so hard; surely we won’t lose."
+    },
+    {
+     "ja": "まさかこんな所で先生に会うとは。",
+     "reading": "まさか こんな ところで せんせいに あうとは。",
+     "romaji": "masaka konna tokoro de sensei ni au to wa.",
+     "ta": "இப்படிப்பட்ட இடத்தில் ஆசிரியரைச் சந்திப்பேன் என்று எதிர்பார்க்கவே இல்லை!",
+     "en": "Who’d have thought I’d meet my teacher in a place like this!"
+    },
+    {
+     "ja": "「この絵、高いんでしょう？」「まさか。百円で買ったんだよ。」",
+     "reading": "「この え、たかいんでしょう？」「まさか。ひゃくえんで かったんだよ。」",
+     "romaji": "\"kono e, takai n deshou?\" \"masaka. hyakuen de katta n da yo.\"",
+     "ta": "\"இந்த ஓவியம் விலை அதிகம்தானே?\" \"இல்லவே இல்லை! நூறு யெனுக்கு வாங்கினேன்.\"",
+     "en": "\"This picture must be expensive?\" \"No way! I bought it for 100 yen.\""
+    },
+    {
+     "ja": "空は晴れているから、まさか雨は降らないでしょう。",
+     "reading": "そらは はれて いるから、まさか あめは ふらないでしょう。",
+     "romaji": "sora wa harete iru kara, masaka ame wa furanai deshou.",
+     "ta": "வானம் தெளிவாக இருக்கிறது, மழை பெய்யவே பெய்யாது.",
+     "en": "The sky is clear, so surely it won’t rain."
+    }
+   ],
+   "pitfalls_en": "まさか needs a negative or とは after it. まさか雨が降るでしょう (positive guess) is wrong. Say まさか雨は降らないでしょう.",
+   "pitfalls_ta": "まさか-க்குப் பின் எதிர்மறை அல்லது とは வர வேண்டும். まさか雨が降るでしょう (நேர்மறை ஊகம்) தவறு; まさか雨は降らないでしょう என்றே சொல்ல வேண்டும்."
+  },
+  {
+   "id": "g30-5",
+   "pattern": "めったに 〜ない / 決して 〜ない",
+   "name": {
+    "en": "Rarely / never",
+    "ta": "அரிதாகவே / ஒருபோதும் இல்லை"
+   },
+   "explanation_en": "Both words need a negative verb after them. めったに〜ない = \"rarely, hardly ever\". It is about how often. 決して〜ない = \"never, not at all\". It is a strong promise, rule or warning: 決して忘れません (\"I will never forget\"), 決して入らないでください. Compare with ほとんど〜ない (N4, \"almost not\") and ぜんぜん〜ない (casual \"not at all\"). 決して is more formal and firm.",
+   "explanation_ta": "இரண்டும் எதிர்மறை வினையுடன் மட்டுமே வரும். めったに〜ない = 'அரிதாகவே, எப்போதாவதுதான்' (எத்தனை முறை என்பது பற்றியது). 決して〜ない = 'ஒருபோதும் இல்லை'; உறுதிமொழி, விதி, எச்சரிக்கைக்குப் பயன்படும்: 決して忘れません ('ஒருபோதும் மறக்க மாட்டேன்'), 決して入らないでください. N4-இல் கற்ற ほとんど〜ない ('கிட்டத்தட்ட இல்லை'), பேச்சு வழக்கு ぜんぜん〜ない ('சுத்தமாக இல்லை') ஆகியவற்றை விட 決して முறையானது, உறுதியானது.",
+   "tamil_parallel": "இந்தப் பகுதியில் பனி அரிதாகவே பெய்யும் = この辺りでは、雪はめったに降りません",
+   "tamil_parallel_en": "இந்தப் பகுதியில் பனி அரிதாகவே பெய்யும் (it rarely snows here) = この辺りでは、雪はめったに降りません",
+   "formation": "めったに + வினை (எதிர்மறை)  → அரிதாகவே\n決して + வினை (எதிர்மறை)  → ஒருபோதும் இல்லை\n決して + 〜ないでください  → ஒருபோதும் செய்யாதீர்கள்",
+   "formation_en": "めったに + verb (negative)  → rarely\n決して + verb (negative)  → never\n決して + 〜ないでください  → never do ~",
+   "examples": [
+    {
+     "ja": "父は忙しくて、めったに休みを取りません。",
+     "reading": "ちちは いそがしくて、めったに やすみを とりません。",
+     "romaji": "chichi wa isogashikute, mettani yasumi o torimasen.",
+     "ta": "அப்பா வேலைப்பளுவால் அரிதாகவே விடுப்பு எடுப்பார்.",
+     "en": "My father is busy and rarely takes time off."
+    },
+    {
+     "ja": "この辺りでは、雪はめったに降りません。",
+     "reading": "この あたりでは、ゆきは めったに ふりません。",
+     "romaji": "kono atari de wa, yuki wa mettani furimasen.",
+     "ta": "இந்தப் பகுதியில் பனி அரிதாகவே பெய்யும்.",
+     "en": "It rarely snows around here."
+    },
+    {
+     "ja": "このご恩は、決して忘れません。",
+     "reading": "この ごおんは、けっして わすれません。",
+     "romaji": "kono goon wa, kesshite wasuremasen.",
+     "ta": "நீங்கள் செய்த இந்த உதவியை ஒருபோதும் மறக்க மாட்டேன்.",
+     "en": "I will never forget your kindness."
+    },
+    {
+     "ja": "危ないので、決して一人で川に入らないでください。",
+     "reading": "あぶないので、けっして ひとりで かわに はいらないで ください。",
+     "romaji": "abunai node, kesshite hitori de kawa ni hairanaide kudasai.",
+     "ta": "ஆபத்தானது, ஒருபோதும் தனியாக ஆற்றில் இறங்காதீர்கள்.",
+     "en": "It’s dangerous. Never go into the river alone."
+    },
+    {
+     "ja": "兄はめったに怒らない、優しい人です。",
+     "reading": "あには めったに おこらない、やさしい ひとです。",
+     "romaji": "ani wa mettani okoranai, yasashii hito desu.",
+     "ta": "அண்ணன் அரிதாகவே கோபப்படும் அன்பான மனிதர்.",
+     "en": "My brother is a kind person who rarely gets angry."
+    },
+    {
+     "ja": "決してあきらめないで、最後まで頑張ろう。",
+     "reading": "けっして あきらめないで、さいごまで がんばろう。",
+     "romaji": "kesshite akiramenaide, saigo made ganbarou.",
+     "ta": "ஒருபோதும் கைவிடாமல் கடைசி வரை முயல்வோம்.",
+     "en": "Never give up; let’s keep going to the end."
+    },
+    {
+     "ja": "こんなにきれいな景色は、めったに見られませんよ。",
+     "reading": "こんなに きれいな けしきは、めったに みられませんよ。",
+     "romaji": "konna ni kirei na keshiki wa, mettani miraremasen yo.",
+     "ta": "இவ்வளவு அழகான காட்சியை அரிதாகவே பார்க்க முடியும்.",
+     "en": "You rarely get to see such beautiful scenery."
+    }
+   ],
+   "pitfalls_en": "Never use them with a positive verb: めったに行きます is wrong; say めったに行きません. And めったに is about frequency, so 決して fits promises and warnings better.",
+   "pitfalls_ta": "நேர்மறை வினையுடன் ஒருபோதும் வராது: めったに行きます தவறு; めったに行きません சரி. めったに அடிக்கடித் தன்மை பற்றியது; உறுதிமொழி, எச்சரிக்கைக்கு 決して பொருத்தமானது."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0031",
+  "n3-v-0059",
+  "n3-v-0071",
+  "n3-v-0231",
+  "n3-v-0236",
+  "n3-v-0297",
+  "n3-v-0330",
+  "n3-v-0357",
+  "n3-v-0364",
+  "n3-v-0393",
+  "n3-v-0399",
+  "n3-v-0401",
+  "n3-v-0402",
+  "n3-v-0405",
+  "n3-v-0415",
+  "n3-v-0416",
+  "n3-v-0603",
+  "n3-v-0737",
+  "n3-v-0742",
+  "n3-v-0763",
+  "n3-v-0805",
+  "n3-v-0814",
+  "n3-v-0844",
+  "n3-v-1027",
+  "n3-v-1053",
+  "n3-v-1084",
+  "n3-v-1088",
+  "n3-v-1140",
+  "n3-v-1197",
+  "n3-v-1202",
+  "n3-v-1292",
+  "n3-v-1331",
+  "n3-v-1336",
+  "n3-v-1425",
+  "n3-v-1431",
+  "n3-v-1433",
+  "n3-v-1437",
+  "n3-v-1494",
+  "n3-v-1525",
+  "n3-v-1580",
+  "n3-v-1606",
+  "n3-v-1620",
+  "n3-v-1661",
+  "n3-v-1662",
+  "n3-v-1675",
+  "n3-v-1676",
+  "n3-v-1718",
+  "n3-v-1788",
+  "n3-v-1856",
+  "n3-v-1961",
+  "n3-v-1975",
+  "n3-v-1991",
+  "n3-v-1993"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L30-q01",
+    "type": "kanji_reading",
+    "sentence": "三十分 歩いたら、少し ＿休憩＿ しましょう。",
+    "target": "休憩",
+    "options": [
+     "きゅうけい",
+     "きゅうけ",
+     "きゅけい",
+     "やすけい"
+    ],
+    "answer": 0,
+    "explanation_ta": "休憩 = きゅうけい (இடைவேளை). இரண்டு நீண்ட ஒலிகள்: きゅう + けい. きゅけい, きゅうけ ஒலியைக் குறைக்கின்றன; やすけい கலப்பு வாசிப்பு.",
+    "explanation_en": "休憩 is read きゅうけい (break), with two long sounds: きゅう + けい. きゅけい and きゅうけ are too short; やすけい mixes readings."
+   },
+   {
+    "id": "L30-q02",
+    "type": "kanji_reading",
+    "sentence": "＿結局＿、旅行には 行きませんでした。",
+    "target": "結局",
+    "options": [
+     "けつきょく",
+     "けっきょく",
+     "けっきょ",
+     "けいきょく"
+    ],
+    "answer": 1,
+    "explanation_ta": "結局 = けっきょく (கடைசியில்). 結 (けつ) + 局 (きょく) சேரும்போது つ சிறிய っ ஆகிறது. けつきょく தவறு.",
+    "explanation_en": "結局 is read けっきょく (in the end). けつ + きょく becomes けっきょく with a small っ. けつきょく is wrong."
+   },
+   {
+    "id": "L30-q03",
+    "type": "kanji_reading",
+    "sentence": "田中さんは ＿相変わらず＿ 元気そうですね。",
+    "target": "相変わらず",
+    "options": [
+     "そうかわらず",
+     "あいがわらず",
+     "あいかわらず",
+     "しょうかわらず"
+    ],
+    "answer": 2,
+    "explanation_ta": "相変わらず = あいかわらず (வழக்கம்போல). 相 இங்கே あい; かわらず-வில் புள்ளி (゛) இல்லை. そう, しょう வேறு சொற்களில் வரும் வாசிப்புகள்.",
+    "explanation_en": "相変わらず is read あいかわらず (as usual). 相 is あい here, and かわらず has no ゛. そう and しょう are readings from other words."
+   },
+   {
+    "id": "L30-q04",
+    "type": "orthography",
+    "sentence": "医者に 運動を ＿すすめられました＿。",
+    "target": "すすめられました",
+    "options": [
+     "進められました",
+     "進めれました",
+     "勤められました",
+     "勧められました"
+    ],
+    "answer": 3,
+    "explanation_ta": "'பரிந்துரைத்தல்' என்ற பொருளில் すすめる = 勧める. 進める = முன்னேற்றுதல் (வேலை, கடிகாரம்), 勤める = வேலை செய்தல் (つとめる). 進めれました என்ற வடிவமும் தவறு.",
+    "explanation_en": "すすめる meaning \"recommend\" is 勧める. 進める = move forward, 勤める is つとめる (to work for). 進めれました is not a correct form."
+   },
+   {
+    "id": "L30-q05",
+    "type": "orthography",
+    "sentence": "同じ 失敗を ＿くりかえさない＿ ように します。",
+    "target": "くりかえさない",
+    "options": [
+     "操り返さない",
+     "繰り返さない",
+     "練り返さない",
+     "縁り返さない"
+    ],
+    "answer": 1,
+    "explanation_ta": "くりかえす = 繰り返す (திரும்பத் திரும்பச் செய்தல்). 繰 = சுற்றுதல் (糸 உறுப்பு). 操 (இயக்குதல்), 練 (பயிற்சி), 縁 (உறவு) தோற்றத்தில் ஒத்தவை, ஆனால் தவறு.",
+    "explanation_en": "くりかえす is 繰り返す (to repeat). 操 (operate), 練 (practise) and 縁 (bond) look similar but are wrong."
+   },
+   {
+    "id": "L30-q06",
+    "type": "vocab_context",
+    "sentence": "赤ちゃんが 寝て いるので、（　　） 部屋を 出ました。",
+    "options": [
+     "じっと",
+     "ずっと",
+     "そっと",
+     "きっと"
+    ],
+    "answer": 2,
+    "explanation_ta": "குழந்தையை எழுப்பாமல் மெதுவாக = そっと. じっと = அசையாமல், ずっと = தொடர்ந்து, きっと = நிச்சயமாக.",
+    "explanation_en": "Quietly, so as not to wake the baby = そっと. じっと = without moving, ずっと = all the time, きっと = surely."
+   },
+   {
+    "id": "L30-q07",
+    "type": "vocab_context",
+    "sentence": "弟は 姉を 困らせる ために、（　　） 間違えた。",
+    "options": [
+     "たまたま",
+     "やがて",
+     "ついに",
+     "わざと"
+    ],
+    "answer": 3,
+    "explanation_ta": "'தொந்தரவு செய்வதற்காக' என்ற நோக்கம் உள்ளது → வேண்டுமென்றே = わざと. たまたま = தற்செயலாக (நோக்கம் இல்லை), やがて = சிறிது நேரத்தில், ついに = இறுதியாக.",
+    "explanation_en": "There is a purpose (to annoy her) → on purpose = わざと. たまたま = by chance (no purpose), やがて = before long, ついに = at last."
+   },
+   {
+    "id": "L30-q08",
+    "type": "vocab_context",
+    "sentence": "本屋で （　　） 昔の 先生に 会いました。",
+    "options": [
+     "たまたま",
+     "わざと",
+     "つねに",
+     "いつまでも"
+    ],
+    "answer": 0,
+    "explanation_ta": "எதிர்பாராமல் சந்தித்தது = たまたま (தற்செயலாக). わざと = வேண்டுமென்றே, 常に = எப்போதும், いつまでも = என்றென்றும்.",
+    "explanation_en": "An unplanned meeting = たまたま (by chance). わざと = on purpose, つねに = always, いつまでも = forever."
+   },
+   {
+    "id": "L30-q09",
+    "type": "vocab_context",
+    "sentence": "空が 真っ暗で、（　　） 雨が 降り出しそうだ。",
+    "options": [
+     "いつか",
+     "今にも",
+     "今に",
+     "そのうち"
+    ],
+    "answer": 1,
+    "explanation_ta": "'எந்த நொடியிலும் மழை தொடங்கும் போலிருக்கிறது' = 今にも〜そうだ. 今に = 'விரைவில் (எதிர்காலத்தில்)'; 〜そうだ உடன் இணையாது. いつか, そのうち நீண்ட காலத்துக்கு.",
+    "explanation_en": "\"It looks like it will rain any second\" = 今にも〜そうだ. 今に means \"before long\" and doesn’t pair with 〜そうだ. いつか and そのうち are for later times."
+   },
+   {
+    "id": "L30-q10",
+    "type": "vocab_context",
+    "sentence": "三年 かかって、（　　） 家が 完成しました。",
+    "options": [
+     "いつか",
+     "しばしば",
+     "ついに",
+     "今にも"
+    ],
+    "answer": 2,
+    "explanation_ta": "நீண்ட காலத்துக்குப் பிறகு 'இறுதியாக' = ついに. いつか = என்றாவது (எதிர்காலம்), しばしば = அடிக்கடி, 今にも = எந்த நொடியிலும்.",
+    "explanation_en": "After a long time, \"at last\" = ついに. いつか = someday, しばしば = often, 今にも = any moment."
+   },
+   {
+    "id": "L30-q11",
+    "type": "paraphrase",
+    "sentence": "兄は めったに 映画を 見ません。",
+    "options": [
+     "兄は よく 映画を 見ます。",
+     "兄は 映画を 見た ことが ありません。",
+     "兄は 毎日 映画を 見ます。",
+     "兄は ほとんど 映画を 見ません。"
+    ],
+    "answer": 3,
+    "explanation_ta": "めったに見ません = அரிதாகவே பார்ப்பார் = ほとんど見ません. 見たことがありません = 'ஒருமுறைகூடப் பார்த்ததில்லை'; அது அதிகப்படியானது.",
+    "explanation_en": "めったに見ません = hardly ever watches = ほとんど見ません. 見たことがありません means \"has never watched\", which is too strong."
+   },
+   {
+    "id": "L30-q12",
+    "type": "paraphrase",
+    "sentence": "彼女は 案外 料理が 上手でした。",
+    "options": [
+     "彼女は いつも 料理が 上手でした。",
+     "彼女は 思ったより 料理が 上手でした。",
+     "彼女は 料理が 上手だと 思って いました。",
+     "彼女は 料理が あまり 上手では ありませんでした。"
+    ],
+    "answer": 1,
+    "explanation_ta": "案外 = எதிர்பார்த்ததைவிட = 思ったより. 上手だと思っていました = 'ஏற்கனவே தெரியும்' என்பதாகும்; ஆச்சரியம் இல்லை.",
+    "explanation_en": "案外 = more than expected = 思ったより. 上手だと思っていました means you already thought so, with no surprise."
+   },
+   {
+    "id": "L30-q13",
+    "type": "usage",
+    "sentence": "たまる",
+    "options": [
+     "毎月 お金を 銀行に たまります。",
+     "部屋の 電気を たまって ください。",
+     "忙しくて、仕事が たくさん たまって しまった。",
+     "雨が 止んで、空が たまりました。"
+    ],
+    "answer": 2,
+    "explanation_ta": "たまる (தன்வினை) = குவிதல்: 仕事がたまる. பணத்தைச் சேமிப்பது பிறவினை ためる (お金をためる). விளக்கு அணைப்பது 消す, வானம் தெளிவது 晴れる.",
+    "explanation_en": "たまる (no object) = to pile up: 仕事がたまる. Saving money takes an object: お金をためる. Turning off a light is 消す; clearing sky is 晴れる."
+   },
+   {
+    "id": "L30-q14",
+    "type": "usage",
+    "sentence": "勧める",
+    "options": [
+     "店員が 新しい スマホを 勧めて くれた。",
+     "時計を 五分 勧めました。",
+     "会議を 予定どおり 勧めます。",
+     "姉は 銀行に 勧めて います。"
+    ],
+    "answer": 0,
+    "explanation_ta": "勧める = பரிந்துரைத்தல்: スマホを勧める. கடிகாரத்தை முன்னே வைப்பது, கூட்டத்தை நடத்துவது 進める; வங்கியில் வேலை செய்வது 勤める.",
+    "explanation_en": "勧める = to recommend: スマホを勧める. Moving a clock ahead or running a meeting is 進める; working at a bank is 勤める."
+   },
+   {
+    "id": "L30-q15",
+    "type": "grammar_form",
+    "sentence": "（　　） 作ったのに、だれも 食べて くれなかった。",
+    "options": [
+     "どうせ",
+     "せっかく",
+     "さすが",
+     "まさか"
+    ],
+    "answer": 1,
+    "explanation_ta": "'சிரமப்பட்டுச் செய்தும் வீணானது' = せっかく〜のに. どうせ-வுடன் のに பொருந்தாது; どうせ 'முன்பே எதிர்பார்த்த முடிவு' என்பது.",
+    "explanation_en": "\"I went to the trouble, but it was wasted\" = せっかく〜のに. どうせ doesn’t fit with のに; it means the result was expected."
+   },
+   {
+    "id": "L30-q16",
+    "type": "grammar_form",
+    "sentence": "一位に なったの？ （　　） 田中さんだね。",
+    "options": [
+     "まさか",
+     "どうせ",
+     "せっかく",
+     "さすが"
+    ],
+    "answer": 3,
+    "explanation_ta": "எதிர்பார்த்தபடியே சிறப்பு → பாராட்டு = さすが田中さん. まさか = அதிர்ச்சி/நம்பமுடியாமை; பாராட்டுக்கு அல்ல.",
+    "explanation_en": "Good, just as expected → praise = さすが田中さん. まさか shows shock, not praise."
+   },
+   {
+    "id": "L30-q17",
+    "type": "grammar_form",
+    "sentence": "（　　） 間に合わないから、タクシーは やめて、ゆっくり 歩こう。",
+    "options": [
+     "どうせ",
+     "せっかく",
+     "さすが",
+     "決して"
+    ],
+    "answer": 0,
+    "explanation_ta": "'எப்படியும் நேரத்துக்குள் முடியாது' (விரக்தி) = どうせ. 決して-க்குப் பின் எதிர்மறை வந்தாலும் 'ஒருபோதும் இல்லை' என்ற உறுதி; பொருள் பொருந்தாது.",
+    "explanation_en": "\"We won’t make it anyway\" (resigned) = どうせ. 決して also takes a negative, but means a firm \"never\"."
+   },
+   {
+    "id": "L30-q18",
+    "type": "grammar_form",
+    "sentence": "（　　） 彼が うそを つく とは 思わなかった。",
+    "options": [
+     "さすが",
+     "めったに",
+     "まさか",
+     "せっかく"
+    ],
+    "answer": 2,
+    "explanation_ta": "'அவர் பொய் சொல்வார் என்று கனவிலும் நினைக்கவில்லை' = まさか〜とは思わなかった. めったに அடிக்கடித் தன்மை பற்றியது; とは思わなかった உடன் இணையாது.",
+    "explanation_en": "\"I never imagined he would lie\" = まさか〜とは思わなかった. めったに is about frequency and doesn’t pair with とは思わなかった."
+   },
+   {
+    "id": "L30-q19",
+    "type": "grammar_form",
+    "sentence": "この 町では、雪は （　　） 降りません。",
+    "options": [
+     "よく",
+     "たびたび",
+     "めったに",
+     "しばしば"
+    ],
+    "answer": 2,
+    "explanation_ta": "எதிர்மறை வினையுடன் 'அரிதாகவே' = めったに降りません. よく, たびたび, しばしば ஆகியவை 'அடிக்கடி' என்பதால் நேர்மறை வினையுடன் வரும்.",
+    "explanation_en": "With a negative verb, \"rarely\" = めったに降りません. よく, たびたび and しばしば mean \"often\" and go with positive verbs."
+   },
+   {
+    "id": "L30-q20",
+    "type": "grammar_form",
+    "sentence": "せっかくの 休み（　　）、仕事の 電話が 来た。",
+    "options": [
+     "だから",
+     "なのに",
+     "なので",
+     "ために"
+    ],
+    "answer": 1,
+    "explanation_ta": "'அரிய விடுமுறை, ஆனால் வேலை அழைப்பு வந்தது' (ஏமாற்றம்) = せっかくの休みなのに. だから / なので என்றால் 'விடுமுறை என்பதால் அழைப்பு வந்தது' என்று பொருள் தவறும்.",
+    "explanation_en": "\"A rare day off, but a work call came\" (disappointment) = せっかくの休みなのに. だから / なので would make the day off the reason for the call."
+   },
+   {
+    "id": "L30-q21",
+    "type": "grammar_form",
+    "sentence": "この ことは、（　　） だれにも 言わないで ください。",
+    "options": [
+     "めったに",
+     "さすがに",
+     "せっかく",
+     "決して"
+    ],
+    "answer": 3,
+    "explanation_ta": "உறுதியான வேண்டுகோள் 'ஒருபோதும் யாரிடமும் சொல்லாதீர்கள்' = 決して〜ないでください. めったに அடிக்கடித் தன்மை பற்றியது; வேண்டுகோளுக்குப் பொருந்தாது.",
+    "explanation_en": "A firm request, \"never tell anyone\" = 決して〜ないでください. めったに is about frequency, not requests."
+   },
+   {
+    "id": "L30-q22",
+    "type": "sentence_order",
+    "before": "せっかく",
+    "chunks": [
+     "京都まで",
+     "来た",
+     "のだから、",
+     "お寺を"
+    ],
+    "star": 2,
+    "after": "見に 行こう。",
+    "explanation_ta": "せっかく京都まで (கியோட்டோ வரை) → 来た (வந்தோம்) → のだから (என்பதால்) → お寺を見に行こう. ★ = のだから.",
+    "explanation_en": "せっかく 京都まで (all the way to Kyoto) → 来た (came) → のだから (since) → お寺を 見に 行こう. ★ = のだから."
+   },
+   {
+    "id": "L30-q23",
+    "type": "sentence_order",
+    "before": "あんなに 練習した",
+    "chunks": [
+     "のに、",
+     "まさか",
+     "負ける",
+     "とは"
+    ],
+    "star": 2,
+    "after": "思わなかった。",
+    "explanation_ta": "練習したのに (பயிற்சி செய்தும்) → まさか → 負ける (தோற்போம்) → とは思わなかった. ★ = 負ける.",
+    "explanation_en": "練習した のに (even though we practised) → まさか → 負ける (lose) → とは 思わなかった. ★ = 負ける."
+   },
+   {
+    "id": "L30-q24",
+    "type": "sentence_order",
+    "before": "どうせ",
+    "chunks": [
+     "旅行に",
+     "行く",
+     "なら、",
+     "海の 近い"
+    ],
+    "star": 2,
+    "after": "ホテルに 泊まりたい。",
+    "explanation_ta": "どうせ旅行に (பயணம்) → 行く → なら (போவதென்றால்) → 海の近いホテルに泊まりたい. ★ = なら.",
+    "explanation_en": "どうせ 旅行に → 行く → なら (if I’m going anyway) → 海の 近い ホテルに 泊まりたい. ★ = なら."
+   },
+   {
+    "id": "L30-q25",
+    "type": "passage_cloze",
+    "passage": "先週の 日曜日は、［1］の 休みだったので、朝から 友だちと 山へ 行く 予定でした。ところが、朝 起きたら 雨が 降って いました。友だちは「［2］ 雨なら、山は やめて 映画でも 見よう」と 言いました。映画館に 着くと、［3］ 人気の 映画で、席は ほとんど 空いて いませんでした。［4］ こんなに 人が 多いとは 思いませんでした。でも、映画は とても よかったです。こういう 休みも 悪くないと 思いました。",
+    "blanks": [
+     {
+      "options": [
+       "せっかく",
+       "さすが",
+       "どうせ",
+       "まさか"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "さすが",
+       "どうせ",
+       "せっかく",
+       "決して"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "めったに",
+       "せっかく",
+       "さすが",
+       "まさか"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "決して",
+       "どうせ",
+       "さすが",
+       "まさか"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "［1］ பெயர்ச்சொல்லுக்கு முன் 'அரிதாகக் கிடைத்த' = せっかくの休み. ［2］ 'எப்படியும் மழைதான் என்றால்' = どうせ雨なら. ［3］ 'புகழ்பெற்ற படம் என்றால் சும்மாவா' = さすが人気の映画. ［4］ 'இவ்வளவு கூட்டம் இருக்கும் என்று நினைக்கவே இல்லை' = まさか〜とは思いませんでした. 決して-க்கு とは思わなかった பொருந்தாது.",
+    "explanation_en": "[1] Before a noun, \"precious\" = せっかくの休み. [2] \"If it’s rain anyway\" = どうせ雨なら. [3] \"As you’d expect of a popular film\" = さすが人気の映画. [4] \"I never imagined so many people\" = まさか〜とは思いませんでした. 決して doesn’t go with とは思わなかった."
+   }
+  ]
+ }
+}

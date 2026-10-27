@@ -1,0 +1,407 @@
+{
+  "unit": 1,
+  "title": { "en": "Stone, rice and the city", "ta": "கல், அரிசி, நகரம்" },
+  "intro": {
+    "en": "Welcome to N3 kanji! In this unit you will learn fourteen kanji: stone, king, grass, ear, rice, the city, numbers and more. Most of them are built from kanji you already know. Find the old parts inside each new kanji, and the story will be easy to remember.",
+    "ta": "N3 கான்ஜிக்கு வரவேற்கிறோம்! இந்தப் பிரிவில் பதினான்கு கான்ஜிகளைக் கற்போம்: கல், அரசன், புல், காது, அரிசி, நகரம், எண்கள் மற்றும் பல. இவற்றில் பெரும்பாலானவை நீங்கள் ஏற்கெனவே அறிந்த கான்ஜிகளால் ஆனவை. ஒவ்வொரு புதிய கான்ஜிக்குள்ளும் பழைய பகுதிகளைத் தேடுங்கள்; கதை எளிதாக நினைவில் நிற்கும்."
+  },
+  "kanji": [
+    {
+      "kanji": "石",
+      "meaning": { "en": "stone", "ta": "கல்" },
+      "on": ["せき"],
+      "kun": ["いし"],
+      "mnemonic": {
+        "en": "The long top line and the slanting line are the edge of a cliff. At the bottom of the cliff lies a square rock (口). It fell down from the top: a stone.",
+        "ta": "மேலே உள்ள நீண்ட கோடும் சாய்ந்த கோடும் ஒரு பாறைச் சரிவின் விளிம்பு. சரிவின் அடியில் ஒரு சதுரக் கல் (口) கிடக்கிறது. அது மேலிருந்து உருண்டு விழுந்த கல்!"
+      },
+      "note": {
+        "en": "In 石けん (soap), せき becomes せっ: せっけん. Don’t mix up 石 with 右 (right): 右 has a short slanting line, and its top line is shorter.",
+        "ta": "石けん (சோப்பு) என்பதில் せき → せっ ஆகிறது: せっけん. 石-ஐ 右 (வலது) உடன் குழப்ப வேண்டாம்: 右-இல் சாய்ந்த கோடு குட்டையானது, மேல் கோடும் சிறியது."
+      },
+      "examples": [
+        { "word": "石", "reading": "いし", "en": "stone", "ta": "கல்", "vocabId": "n4-v-264" },
+        { "word": "小石", "reading": "こいし", "en": "small stone, pebble", "ta": "சிறு கல், கூழாங்கல்" },
+        { "word": "化石", "reading": "かせき", "en": "fossil", "ta": "புதைபடிவம்" },
+        { "word": "石けん", "reading": "せっけん", "en": "soap", "ta": "சோப்பு", "vocabId": "n5-v-348" }
+      ]
+    },
+    {
+      "kanji": "王",
+      "meaning": { "en": "king", "ta": "அரசன்" },
+      "on": ["おう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The three lines are the sky, the people and the earth. One straight line goes down through all three and joins them. Only a king can join the sky, the people and the earth.",
+        "ta": "மூன்று கோடுகள்: வானம், மக்கள், பூமி. ஒரு நேர் கோடு மூன்றையும் கீழ்நோக்கிக் கடந்து இணைக்கிறது. வானத்தையும் மக்களையும் பூமியையும் இணைப்பவன் அரசன் மட்டுமே!"
+      },
+      "note": {
+        "en": "女王 (queen) is じょおう, not じょうおう. Don’t mix up 王 with 主 (master, N4), which has a dot on top.",
+        "ta": "女王 (அரசி) = じょおう; じょうおう அல்ல. 王-ஐ 主 (எஜமானர், N4) உடன் குழப்ப வேண்டாம்; 主-க்கு மேலே ஒரு புள்ளி உண்டு."
+      },
+      "examples": [
+        { "word": "王", "reading": "おう", "en": "king", "ta": "அரசன்", "vocabId": "n3-v-0488" },
+        { "word": "王様", "reading": "おうさま", "en": "king (polite)", "ta": "அரசர் (மரியாதையாக)", "vocabId": "n3-v-0491" },
+        { "word": "王子", "reading": "おうじ", "en": "prince", "ta": "இளவரசன்", "vocabId": "n3-v-0492" },
+        { "word": "女王", "reading": "じょおう", "en": "queen", "ta": "அரசி", "vocabId": "n3-v-0160" }
+      ]
+    },
+    {
+      "kanji": "草",
+      "meaning": { "en": "grass", "ta": "புல்" },
+      "on": ["そう"],
+      "kun": ["くさ"],
+      "mnemonic": {
+        "en": "On top is the grass sign (艹). Under it is 早 (early). Grass comes up early in the morning, wet with dew, before anyone wakes up.",
+        "ta": "மேலே புல் குறி (艹). அதன் கீழ் 早 (சீக்கிரம்). எல்லோரும் எழுவதற்கு முன்பே, காலையில் சீக்கிரமாகப் பனித்துளியுடன் முளைத்து நிற்பது புல்!"
+      },
+      "note": {
+        "en": "草 = 艹 + 早. Without the grass top, it is just 早 (early, はやい).",
+        "ta": "草 = 艹 + 早. மேலே புல் குறி இல்லாவிட்டால் அது வெறும் 早 (சீக்கிரம், はやい)."
+      },
+      "examples": [
+        { "word": "草", "reading": "くさ", "en": "grass", "ta": "புல்", "vocabId": "n4-v-615" },
+        { "word": "草花", "reading": "くさばな", "en": "flowering plants", "ta": "பூச்செடிகள்" },
+        { "word": "草原", "reading": "そうげん", "en": "grassland, meadow", "ta": "புல்வெளி" },
+        { "word": "雑草", "reading": "ざっそう", "en": "weeds", "ta": "களை (வேண்டாத புல்)" }
+      ]
+    },
+    {
+      "kanji": "耳",
+      "meaning": { "en": "ear", "ta": "காது" },
+      "on": ["じ"],
+      "kun": ["みみ"],
+      "mnemonic": {
+        "en": "This is a picture of an ear. The tall outside shape is the ear, and the two short lines inside are the folds you can see in your ear. The long bottom line is the earlobe.",
+        "ta": "இது ஒரு காதின் படம். வெளியே உள்ள உயரமான வடிவம் காது; உள்ளே உள்ள இரண்டு சிறு கோடுகள் காதின் உள் மடிப்புகள். அடியில் நீண்டு செல்லும் கோடு காது மடல் (தோடு போடும் இடம்)."
+      },
+      "note": {
+        "en": "Don’t mix up 耳 (ear) and 目 (eye). 目 is a closed box; 耳 has lines sticking out on the left and right.",
+        "ta": "耳 (காது), 目 (கண்) இரண்டையும் குழப்ப வேண்டாம். 目 மூடிய பெட்டி; 耳-க்கு இடமும் வலமும் கோடுகள் வெளியே நீண்டிருக்கும்."
+      },
+      "examples": [
+        { "word": "耳", "reading": "みみ", "en": "ear", "ta": "காது", "vocabId": "n5-v-647" },
+        { "word": "右耳", "reading": "みぎみみ", "en": "right ear", "ta": "வலது காது" },
+        { "word": "耳元", "reading": "みみもと", "en": "close to someone’s ear", "ta": "காதருகில்" },
+        { "word": "早耳", "reading": "はやみみ", "en": "quick to hear news", "ta": "செய்தியை முதலில் கேட்பவர்" }
+      ]
+    },
+    {
+      "kanji": "合",
+      "meaning": { "en": "fit, join", "ta": "பொருந்துதல், சேர்தல்" },
+      "on": ["ごう", "がっ"],
+      "kun": ["あ.う", "あ.わせる"],
+      "mnemonic": {
+        "en": "At the bottom is a pot (口). On top is its lid: a roof (人) with a line under it. The lid comes down and fits the pot exactly. The two parts join together.",
+        "ta": "அடியில் ஒரு பானை (口). மேலே அதன் மூடி: ஒரு கூரை (人), அதன் கீழ் ஒரு கோடு. மூடி கீழே இறங்கிப் பானையில் கச்சிதமாகப் பொருந்துகிறது. இரண்டும் ஒன்றாகச் சேர்கின்றன!"
+      },
+      "note": {
+        "en": "合 often reads あい inside words: 試合 (しあい), 知り合い (しりあい). 間に合う (まにあう) means “to be in time”. 会 (meet, N4) has the same roof on top.",
+        "ta": "சொற்களுக்குள் 合 பெரும்பாலும் あい என வாசிக்கப்படும்: 試合 (しあい), 知り合い (しりあい). 間に合う (まにあう) = நேரத்துக்குச் சேர. 会 (சந்தித்தல், N4)-க்கும் இதே மேல் கூரை உண்டு."
+      },
+      "examples": [
+        { "word": "合う", "reading": "あう", "en": "to fit; to match", "ta": "பொருந்த", "vocabId": "n4-v-513" },
+        { "word": "試合", "reading": "しあい", "en": "match, game", "ta": "போட்டி (ஆட்டம்)", "vocabId": "n4-v-202" },
+        { "word": "間に合う", "reading": "まにあう", "en": "to be in time", "ta": "நேரத்துக்குச் சேர", "vocabId": "n4-v-608" },
+        { "word": "合格", "reading": "ごうかく", "en": "passing (an exam)", "ta": "(தேர்வில்) தேர்ச்சி", "vocabId": "n3-v-0883" }
+      ]
+    },
+    {
+      "kanji": "市",
+      "meaning": { "en": "city, market", "ta": "நகரம், சந்தை" },
+      "on": ["し"],
+      "kun": ["いち"],
+      "mnemonic": {
+        "en": "On top is a little roof (亠). Under it, a cloth banner hangs from a pole. Long ago, sellers hung a cloth like this to say “Market here!” Where a market grows, a city grows.",
+        "ta": "மேலே ஒரு சிறிய கூரை (亠). அதன் கீழ் ஒரு கம்பத்தில் துணிக் கொடி தொங்குகிறது. அந்தக் காலத்தில் வியாபாரிகள் இப்படி ஒரு துணியைத் தொங்கவிட்டு “இங்கே சந்தை!” என்று காட்டினார்கள். சந்தை வளரும் இடத்தில் நகரமும் வளரும்."
+      },
+      "note": {
+        "en": "市場 is いちば (a market where you buy vegetables). The right side of 姉 (older sister, N4) is 市.",
+        "ta": "市場 = いちば (காய்கறி வாங்கும் சந்தை). 姉 (அக்கா, N4)-இன் வலது பகுதி 市 தான்."
+      },
+      "examples": [
+        { "word": "市", "reading": "し", "en": "city", "ta": "நகரம் (மாநகராட்சி)", "vocabId": "n4-v-415" },
+        { "word": "市民", "reading": "しみん", "en": "citizen", "ta": "குடிமக்கள், நகரவாசிகள்", "vocabId": "n4-v-467" },
+        { "word": "市場", "reading": "いちば", "en": "market", "ta": "சந்தை (மார்க்கெட்)", "vocabId": "n3-v-0392" },
+        { "word": "都市", "reading": "とし", "en": "city (big, official)", "ta": "மாநகரம்", "vocabId": "n3-v-1610" }
+      ]
+    },
+    {
+      "kanji": "内",
+      "meaning": { "en": "inside", "ta": "உள்ளே" },
+      "on": ["ない"],
+      "kun": ["うち"],
+      "mnemonic": {
+        "en": "The outside shape (冂) is a doorway. A person (人) is walking in through it. Now the person is inside.",
+        "ta": "வெளிப்புற வடிவம் (冂) ஒரு வாசல். ஒரு மனிதர் (人) அதன் வழியாக உள்ளே நுழைகிறார். இப்போது அவர் உள்ளே இருக்கிறார்!"
+      },
+      "note": {
+        "en": "Don’t mix up 内 (inside: one 人) and 肉 (meat, N4: two 人).",
+        "ta": "内 (உள்ளே: ஒரு 人), 肉 (இறைச்சி, N4: இரண்டு 人) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "内", "reading": "うち", "en": "inside; while", "ta": "உள்ளே; ~ இருக்கும்போதே", "vocabId": "n4-v-242" },
+        { "word": "家内", "reading": "かない", "en": "(my) wife", "ta": "என் மனைவி (பணிவாக)", "vocabId": "n4-v-664" },
+        { "word": "以内", "reading": "いない", "en": "within", "ta": "〜க்குள்", "vocabId": "n4-v-260" },
+        { "word": "内容", "reading": "ないよう", "en": "content(s)", "ta": "உள்ளடக்கம்", "vocabId": "n3-v-1643" }
+      ]
+    },
+    {
+      "kanji": "回",
+      "meaning": { "en": "times, turn around", "ta": "முறை, சுற்றுதல்" },
+      "on": ["かい"],
+      "kun": ["まわ.る", "まわ.す"],
+      "mnemonic": {
+        "en": "A small box inside a big box. It looks like a spinning top seen from above, or water going round and round in a whirlpool. Each time it goes round, you count one time.",
+        "ta": "பெரிய பெட்டிக்குள் ஒரு சிறிய பெட்டி. மேலிருந்து பார்க்கும் சுழலும் பம்பரம் போல, அல்லது சுற்றிச் சுற்றி வரும் நீர்ச்சுழி போல. ஒவ்வொரு சுற்றுக்கும் “ஒரு முறை” என்று எண்ணுங்கள்!"
+      },
+      "note": {
+        "en": "～回 (かい) counts times: 一回 いっかい, 三回 さんかい. Floors (三階 さんがい) use a different kanji, 階.",
+        "ta": "～回 (かい) முறைகளை எண்ணும்: 一回 いっかい, 三回 さんかい. மாடிகளுக்கு (三階 さんがい) வேறு கான்ஜி: 階."
+      },
+      "examples": [
+        { "word": "二回", "reading": "にかい", "en": "two times, twice", "ta": "இரண்டு முறை", "vocabId": "n5-v-142" },
+        { "word": "今回", "reading": "こんかい", "en": "this time", "ta": "இந்த முறை", "vocabId": "n3-v-0949" },
+        { "word": "回る", "reading": "まわる", "en": "to turn, to go around", "ta": "சுற்ற", "vocabId": "n4-v-562" },
+        { "word": "回す", "reading": "まわす", "en": "to turn (something)", "ta": "(ஒன்றைச்) சுழற்ற", "vocabId": "n4-v-562" }
+      ]
+    },
+    {
+      "kanji": "米",
+      "meaning": { "en": "rice", "ta": "அரிசி" },
+      "on": ["べい", "まい"],
+      "kun": ["こめ"],
+      "mnemonic": {
+        "en": "The cross (十) is a rice plant. The four little strokes are grains of rice flying off when the farmer beats the plant at harvest time.",
+        "ta": "நடுவில் உள்ள சிலுவை (十) ஒரு நெற்பயிர். அறுவடையின்போது விவசாயி கதிரை அடிக்கும்போது நான்கு பக்கமும் தெறிக்கும் நெல்மணிகளே அந்த நான்கு சிறு கோடுகள்!"
+      },
+      "note": {
+        "en": "米 also means America: 米国 (べいこく) = the USA. Don’t mix up 米 and 来 (come, N5).",
+        "ta": "米 என்பது அமெரிக்காவையும் குறிக்கும்: 米国 (べいこく) = அமெரிக்கா. 米, 来 (வருதல், N5) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "米", "reading": "こめ", "en": "rice (uncooked)", "ta": "அரிசி", "vocabId": "n4-v-368" },
+        { "word": "新米", "reading": "しんまい", "en": "new rice; a beginner", "ta": "புது அரிசி; புதியவர்" },
+        { "word": "白米", "reading": "はくまい", "en": "white rice", "ta": "வெள்ளை அரிசி" },
+        { "word": "米国", "reading": "べいこく", "en": "the USA", "ta": "அமெரிக்கா" }
+      ]
+    },
+    {
+      "kanji": "当",
+      "meaning": { "en": "hit; right", "ta": "படுதல்; சரியான" },
+      "on": ["とう"],
+      "kun": ["あ.たる", "あ.てる"],
+      "mnemonic": {
+        "en": "The three little strokes on top are three arrows flying down. The shape below (ヨ) is a target board. All three arrows hit the board: right on target!",
+        "ta": "மேலே உள்ள மூன்று சிறு கோடுகள் கீழ்நோக்கிப் பறக்கும் மூன்று அம்புகள். கீழே உள்ள வடிவம் (ヨ) ஒரு இலக்குப் பலகை. மூன்று அம்புகளும் பலகையில் படுகின்றன: சரியான இலக்கு!"
+      },
+      "note": {
+        "en": "本当 (ほんとう) = true, real. When talking casually, people often say ほんと.",
+        "ta": "本当 (ほんとう) = உண்மை. சாதாரணப் பேச்சில் பலர் ほんと என்றும் சொல்வார்கள்."
+      },
+      "examples": [
+        { "word": "本当", "reading": "ほんとう", "en": "true; real", "ta": "உண்மை", "vocabId": "n5-v-613" },
+        { "word": "当たる", "reading": "あたる", "en": "to hit; to win (a prize)", "ta": "பட (மோத); (பரிசு) விழ", "vocabId": "n3-v-0327" },
+        { "word": "当たり前", "reading": "あたりまえ", "en": "natural, obvious", "ta": "இயல்பான, சொல்லத் தேவையில்லாத", "vocabId": "n3-v-0326" },
+        { "word": "当時", "reading": "とうじ", "en": "at that time", "ta": "அந்தக் காலத்தில் (அப்போது)", "vocabId": "n3-v-1577" }
+      ]
+    },
+    {
+      "kanji": "首",
+      "meaning": { "en": "neck", "ta": "கழுத்து" },
+      "on": ["しゅ"],
+      "kun": ["くび"],
+      "mnemonic": {
+        "en": "At the bottom is 自 (self), which was once a picture of a nose and face. On top are two hairs and a line, like a hairband. It is a whole head, sitting on top of the neck.",
+        "ta": "அடியில் 自 (தான்) - இது ஒருகாலத்தில் மூக்கு, முகத்தின் படம். மேலே இரண்டு முடிக் கோடுகளும் ஒரு கோடும், தலைப்பட்டை போல. இது கழுத்தின் மேல் அமர்ந்திருக்கும் முழுத் தலை!"
+      },
+      "note": {
+        "en": "首 is also the head part of 道 (road, N4). 手首 (てくび) = wrist, 足首 (あしくび) = ankle: the “necks” of the hand and foot.",
+        "ta": "道 (சாலை, N4)-இன் உள்ளே இருப்பதும் 首 தான். 手首 (てくび) = மணிக்கட்டு, 足首 (あしくび) = கணுக்கால்: கை, காலின் “கழுத்துகள்”."
+      },
+      "examples": [
+        { "word": "首", "reading": "くび", "en": "neck", "ta": "கழுத்து", "vocabId": "n4-v-574" },
+        { "word": "手首", "reading": "てくび", "en": "wrist", "ta": "மணிக்கட்டு" },
+        { "word": "首都", "reading": "しゅと", "en": "capital city", "ta": "தலைநகரம்", "vocabId": "n3-v-0117" },
+        { "word": "首相", "reading": "しゅしょう", "en": "prime minister", "ta": "பிரதமர்", "vocabId": "n3-v-0111" }
+      ]
+    },
+    {
+      "kanji": "数",
+      "meaning": { "en": "number, count", "ta": "எண், எண்ணுதல்" },
+      "on": ["すう"],
+      "kun": ["かず", "かぞ.える"],
+      "mnemonic": {
+        "en": "On the left, rice (米) is piled on top of a woman (女). On the right is a hand holding a stick (攵). The woman taps each rice bag with her stick and counts: one, two, three…",
+        "ta": "இடப்புறம், ஒரு பெண்ணின் (女) மேல் அரிசி (米) மூட்டை. வலப்புறம் குச்சி பிடித்த கை (攵). அந்தப் பெண் ஒவ்வொரு அரிசி மூட்டையையும் குச்சியால் தட்டி எண்ணுகிறாள்: ஒன்று, இரண்டு, மூன்று…"
+      },
+      "note": {
+        "en": "In 人数 (number of people), すう becomes ずう: にんずう. 数字 (すうじ) is a digit like 1, 2, 3.",
+        "ta": "人数 (ஆட்களின் எண்ணிக்கை) என்பதில் すう → ずう: にんずう. 数字 (すうじ) = 1, 2, 3 போன்ற இலக்கம்."
+      },
+      "examples": [
+        { "word": "数", "reading": "かず", "en": "number; amount", "ta": "எண்ணிக்கை", "vocabId": "n3-v-0610" },
+        { "word": "数える", "reading": "かぞえる", "en": "to count", "ta": "எண்ண", "vocabId": "n3-v-0612" },
+        { "word": "数学", "reading": "すうがく", "en": "mathematics", "ta": "கணிதம்", "vocabId": "n4-v-542" },
+        { "word": "数字", "reading": "すうじ", "en": "number, digit", "ta": "எண் (இலக்கம்)", "vocabId": "n3-v-0217" }
+      ]
+    },
+    {
+      "kanji": "記",
+      "meaning": { "en": "write down, record", "ta": "எழுதி வைத்தல், பதிவு" },
+      "on": ["き"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is a bending line (己), like a long strip of palm leaf. You write the words down on the strip so you will not forget them.",
+        "ta": "இடப்புறம் சொற்கள் (言). வலப்புறம் வளைந்த ஒரு கோடு (己), நீண்ட ஓலைச்சுவடி போல. மறந்துவிடாமல் இருக்கச் சொற்களை அந்த ஓலையில் எழுதி வைக்கிறோம்!"
+      },
+      "note": {
+        "en": "日記 (diary) has a small っ: にっき.",
+        "ta": "日記 (நாட்குறிப்பு) என்பதில் சிறிய っ உண்டு: にっき."
+      },
+      "examples": [
+        { "word": "日記", "reading": "にっき", "en": "diary", "ta": "நாட்குறிப்பு", "vocabId": "n4-v-482" },
+        { "word": "記者", "reading": "きしゃ", "en": "reporter, journalist", "ta": "செய்தியாளர், நிருபர்", "vocabId": "n3-v-0707" },
+        { "word": "記事", "reading": "きじ", "en": "article, news story", "ta": "செய்திக் கட்டுரை", "vocabId": "n3-v-0705" },
+        { "word": "記入", "reading": "きにゅう", "en": "filling in (a form)", "ta": "(படிவத்தில்) நிரப்புதல்", "vocabId": "n3-v-0718" }
+      ]
+    },
+    {
+      "kanji": "点",
+      "meaning": { "en": "point, dot; score", "ta": "புள்ளி; மதிப்பெண்" },
+      "on": ["てん"],
+      "kun": ["つ.く", "つ.ける"],
+      "mnemonic": {
+        "en": "Under the top part are four dots of fire (灬). Sparks from a fire jump up and leave small black dots everywhere. Each dot is a point.",
+        "ta": "மேல் பகுதியின் கீழ் நான்கு நெருப்புப் புள்ளிகள் (灬). நெருப்பிலிருந்து தீப்பொறிகள் தெறித்து எல்லா இடத்திலும் சிறிய கரும்புள்ளிகளை விடுகின்றன. ஒவ்வொன்றும் ஒரு புள்ளி!"
+      },
+      "note": {
+        "en": "点 is also a score: テストで 80点 (はちじゅってん). 点く / 点ける (a light comes on / turn on) are often written in kana: つく, つける.",
+        "ta": "点 என்பது மதிப்பெண்ணும் கூட: テストで 80点 (はちじゅってん). 点く / 点ける (விளக்கு எரிய / போட) பெரும்பாலும் கானாவில் எழுதப்படும்: つく, つける."
+      },
+      "examples": [
+        { "word": "点", "reading": "てん", "en": "score, mark; point", "ta": "மதிப்பெண்; புள்ளி", "vocabId": "n4-v-060" },
+        { "word": "交差点", "reading": "こうさてん", "en": "crossroads, intersection", "ta": "சந்திப்பு (நாற்சந்தி)", "vocabId": "n5-v-246" },
+        { "word": "点く", "reading": "つく", "en": "to come on (light, power)", "ta": "எரிய (விளக்கு)", "vocabId": "n4-v-549" },
+        { "word": "欠点", "reading": "けってん", "en": "weak point; flaw", "ta": "குறை; பலவீனம்", "vocabId": "n3-v-0848" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU1-q01", "type": "kanji_reading",
+        "sentence": "川で きれいな ＿石＿を ひろいました。", "target": "石",
+        "options": ["いし", "せき", "いっし", "いわ"], "answer": 0,
+        "explanation_en": "石 alone is read いし (கல், stone). せき is the on reading, used in words like 化石 (かせき). いわ is a big rock, a different kanji (岩).",
+        "explanation_ta": "தனியாக வரும் 石 = いし (கல், stone). せき என்பது ஆன் வாசிப்பு; 化石 (かせき) போன்ற சொற்களில் வரும். いわ என்பது பெரிய பாறை; அது வேறு கான்ஜி (岩)."
+      },
+      {
+        "id": "KU1-q02", "type": "kanji_reading",
+        "sentence": "この 国の ＿女王＿は とても 人気が あります。", "target": "女王",
+        "options": ["じょうおう", "じょおう", "じょおお", "にょおう"], "answer": 1,
+        "explanation_en": "女王 is read じょおう (அரசி, queen): じょ is short. じょうおう has a long じょう, which is wrong.",
+        "explanation_ta": "女王 = じょおう (அரசி, queen): じょ குறில். じょうおう-இல் じょう நெடிலாக உள்ளது; அது தவறு."
+      },
+      {
+        "id": "KU1-q03", "type": "kanji_reading",
+        "sentence": "毎日 ＿数学＿の しゅくだいが あります。", "target": "数学",
+        "options": ["すがく", "すうかく", "すうがく", "かずがく"], "answer": 2,
+        "explanation_en": "数学 is read すうがく (கணிதம், mathematics): long すう and がく with ゛. すがく is too short, and すうかく has no ゛.",
+        "explanation_ta": "数学 = すうがく (கணிதம், mathematics): நெடில் すう, ゛ உள்ள がく. すがく குறிலாக உள்ளது; すうかく-இல் ゛ இல்லை."
+      },
+      {
+        "id": "KU1-q04", "type": "kanji_reading",
+        "sentence": "名前は ここに ＿記入＿して ください。", "target": "記入",
+        "options": ["きいにゅう", "きにゅ", "きいれ", "きにゅう"], "answer": 3,
+        "explanation_en": "記入 is read きにゅう ((படிவத்தில்) நிரப்புதல், filling in a form): short き, long にゅう. きにゅ is too short; きいれ mixes in the kun reading of 入.",
+        "explanation_ta": "記入 = きにゅう ((படிவத்தில்) நிரப்புதல், filling in a form): குறில் き, நெடில் にゅう. きにゅ குறிலாக உள்ளது; きいれ-இல் 入-இன் குன் வாசிப்பு கலந்துள்ளது."
+      },
+      {
+        "id": "KU1-q05", "type": "kanji_reading",
+        "sentence": "テストで いい ＿点数＿を とりました。", "target": "点数",
+        "options": ["てんしゅう", "てんすう", "でんすう", "てんかず"], "answer": 1,
+        "explanation_en": "点数 is read てんすう (மதிப்பெண், score). でんすう has a wrong ゛, and てんかず mixes in the kun reading of 数.",
+        "explanation_ta": "点数 = てんすう (மதிப்பெண், score). でんすう-இல் தேவையில்லாத ゛; てんかず-இல் 数-இன் குன் வாசிப்பு கலந்துள்ளது."
+      },
+      {
+        "id": "KU1-q06", "type": "kanji_reading",
+        "sentence": "＿市場＿で やさいを 買いました。", "target": "市場",
+        "options": ["いちば", "いちぱ", "いちじょう", "しば"], "answer": 0,
+        "explanation_en": "市場 (the place where you buy vegetables) is read いちば (சந்தை, market). いちぱ has the wrong mark (゜), and いちじょう uses the on reading of 場.",
+        "explanation_ta": "市場 (காய்கறி வாங்கும் இடம்) = いちば (சந்தை, market). いちぱ-இல் தவறான ゜ குறி; いちじょう-இல் 場-இன் ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU1-q07", "type": "kanji_reading",
+        "sentence": "一時間 ＿以内＿に 来て ください。", "target": "以内",
+        "options": ["いうち", "いがい", "いいない", "いない"], "answer": 3,
+        "explanation_en": "以内 is read いない (〜க்குள், within). いうち uses the kun reading of 内. いがい is 以外 (except), a different word.",
+        "explanation_ta": "以内 = いない (〜க்குள், within). いうち-இல் 内-இன் குன் வாசிப்பு. いがい என்பது 以外 (தவிர); அது வேறு சொல்."
+      },
+      {
+        "id": "KU1-q08", "type": "kanji_reading",
+        "sentence": "この 薬は 一日に ＿三回＿ 飲みます。", "target": "三回",
+        "options": ["さんがい", "みかい", "さんかい", "さんまい"], "answer": 2,
+        "explanation_en": "三回 is read さんかい (மூன்று முறை, three times). さんがい with ゛ is 三階 (third floor), a different word.",
+        "explanation_ta": "三回 = さんかい (மூன்று முறை, three times). ゛ உள்ள さんがい என்பது 三階 (மூன்றாவது மாடி); அது வேறு சொல்."
+      },
+      {
+        "id": "KU1-q09", "type": "kanji_reading",
+        "sentence": "日本の ＿首都＿は 東京です。", "target": "首都",
+        "options": ["しゅうと", "くびと", "しゅと", "しゅど"], "answer": 2,
+        "explanation_en": "首都 is read しゅと (தலைநகரம், capital city): short しゅ, and と without ゛. しゅうと is too long; くびと uses the kun reading of 首.",
+        "explanation_ta": "首都 = しゅと (தலைநகரம், capital city): குறில் しゅ, ゛ இல்லாத と. しゅうと நெடிலாக உள்ளது; くびと-இல் 首-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU1-q10", "type": "kanji_reading",
+        "sentence": "これは ＿本当＿の 話です。", "target": "本当",
+        "options": ["ほんとう", "ほんどう", "ほうとう", "ほんとお"], "answer": 0,
+        "explanation_en": "本当 is read ほんとう (உண்மை, true). ほんどう has a wrong ゛, and ほんとお spells the long vowel with お instead of う.",
+        "explanation_ta": "本当 = ほんとう (உண்மை, true). ほんどう-இல் தேவையில்லாத ゛; ほんとお-இல் நெடிலை う-க்குப் பதிலாக お கொண்டு எழுதியுள்ளனர்."
+      },
+      {
+        "id": "KU1-q11", "type": "orthography",
+        "sentence": "にわの ＿くさ＿を とりました。", "target": "くさ",
+        "options": ["早", "草", "茶", "花"], "answer": 1,
+        "explanation_en": "くさ (புல், grass) is 草: the grass top 艹 over 早. 早 alone is はや(い), early. 茶 and 花 also have 艹 but are tea and flower.",
+        "explanation_ta": "くさ (புல், grass) = 草: 早-இன் மேல் புல் குறி 艹. வெறும் 早 = はや(い), சீக்கிரம். 茶, 花-க்கும் 艹 உண்டு; ஆனால் அவை தேநீர், பூ."
+      },
+      {
+        "id": "KU1-q12", "type": "orthography",
+        "sentence": "かぜで ＿みみ＿が いたいです。", "target": "みみ",
+        "options": ["目", "自", "取", "耳"], "answer": 3,
+        "explanation_en": "みみ (காது, ear) is 耳: lines stick out on both sides. 目 (eye) and 自 (self) are closed boxes. 取 (take) has 耳 plus a hand.",
+        "explanation_ta": "みみ (காது, ear) = 耳: இரு பக்கமும் கோடுகள் வெளியே நீண்டிருக்கும். 目 (கண்), 自 (தான்) மூடிய பெட்டிகள். 取 (எடுத்தல்) = 耳 + கை."
+      },
+      {
+        "id": "KU1-q13", "type": "orthography",
+        "sentence": "この くつは わたしの 足に ＿あいません＿。", "target": "あいません",
+        "options": ["会いません", "今いません", "全いません", "合いません"], "answer": 3,
+        "explanation_en": "“The shoes don’t fit” is 合いません, from 合う (பொருந்த, to fit). 会う is “to meet a person”, which has the same sound but the wrong meaning here.",
+        "explanation_ta": "“காலணி பொருந்தவில்லை” = 合いません; 合う (பொருந்த, to fit). 会う = ஒருவரைச் சந்திக்க; ஒலி ஒன்றுதான், ஆனால் இங்கே பொருள் தவறு."
+      },
+      {
+        "id": "KU1-q14", "type": "orthography",
+        "sentence": "日本人は ＿こめ＿を よく 食べます。", "target": "こめ",
+        "options": ["来", "末", "米", "未"], "answer": 2,
+        "explanation_en": "こめ (அரிசி, rice) is 米: a cross with four grains around it. 来 (come) looks similar but has a long line on top.",
+        "explanation_ta": "こめ (அரிசி, rice) = 米: சிலுவையைச் சுற்றி நான்கு நெல்மணிகள். 来 (வருதல்) இதைப் போலவே தெரியும்; ஆனால் மேலே நீண்ட கோடு உண்டு."
+      },
+      {
+        "id": "KU1-q15", "type": "orthography",
+        "sentence": "おかしの ＿かず＿を かぞえて ください。", "target": "かず",
+        "options": ["数", "教", "散", "料"], "answer": 0,
+        "explanation_en": "かず (எண்ணிக்கை, number) is 数: rice (米) and a woman (女) on the left. 教 (teach) and 散 (scatter) have the same right part but a different left part.",
+        "explanation_ta": "かず (எண்ணிக்கை, number) = 数: இடப்புறம் அரிசி (米), பெண் (女). 教 (கற்பித்தல்), 散 (சிதறுதல்) ஆகியவற்றுக்கும் அதே வலப் பகுதி; இடப் பகுதி வேறு."
+      },
+      {
+        "id": "KU1-q16", "type": "orthography",
+        "sentence": "毎日 ＿にっき＿を 書いて います。", "target": "にっき",
+        "options": ["日計", "日記", "日説", "日話"], "answer": 1,
+        "explanation_en": "にっき (நாட்குறிப்பு, diary) is 日記. 計, 説 and 話 also have 言 on the left, but only 記 means “write down”.",
+        "explanation_ta": "にっき (நாட்குறிப்பு, diary) = 日記. 計, 説, 話 ஆகியவற்றுக்கும் இடப்புறம் 言 உண்டு; ஆனால் “எழுதி வைத்தல்” என்ற பொருள் 記-க்கு மட்டுமே."
+      }
+    ]
+  }
+}

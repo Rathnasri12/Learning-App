@@ -1,0 +1,902 @@
+[
+  {
+    "id": "n3-v-0090",
+    "expression": "銃",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "en": "gun",
+    "ta": "துப்பாக்கி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本では普通の人は銃を持つことができません。",
+        "reading": "にほんでは ふつうの ひとは じゅうを もつ ことが できません。",
+        "romaji": "nihon de wa futsuu no hito wa juu o motsu koto ga dekimasen.",
+        "ta": "ஜப்பானில் சாதாரண மக்கள் துப்பாக்கி வைத்திருக்க முடியாது.",
+        "en": "In Japan, ordinary people can’t own guns."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0158",
+    "expression": "証明",
+    "reading": "しょうめい",
+    "romaji": "shoumei",
+    "en": "proof",
+    "ta": "நிரூபணம், சான்று",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "身分を証明するものを見せてください。",
+        "reading": "みぶんを しょうめい する ものを みせて ください。",
+        "romaji": "mibun o shoumei suru mono o misete kudasai.",
+        "ta": "உங்கள் அடையாளத்துக்குச் சான்றாக ஏதாவது காட்டுங்கள்.",
+        "en": "Please show something that proves who you are."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0294",
+    "expression": "絶対",
+    "reading": "ぜったい",
+    "romaji": "zettai",
+    "en": "definitely, absolutely",
+    "ta": "நிச்சயமாக, கண்டிப்பாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "このことは絶対に誰にも言わないでね。",
+        "reading": "この ことは ぜったいに だれにも いわないでね。",
+        "romaji": "kono koto wa zettai ni dare ni mo iwanaide ne.",
+        "ta": "இதைக் கண்டிப்பாக யாரிடமும் சொல்லாதே.",
+        "en": "Never tell anyone about this, OK?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0312",
+    "expression": "悪魔",
+    "reading": "あくま",
+    "romaji": "akuma",
+    "en": "devil, demon",
+    "ta": "பிசாசு, சாத்தான்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その犯人はまるで悪魔のような男だった。",
+        "reading": "その はんにんは まるで あくまの ような おとこだった。",
+        "romaji": "sono hannin wa marude akuma no you na otoko datta.",
+        "ta": "அந்தக் குற்றவாளி அப்படியே ஒரு பிசாசு போன்ற மனிதன்.",
+        "en": "The criminal was a man just like a devil."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0332",
+    "expression": "跡",
+    "reading": "あと",
+    "romaji": "ato",
+    "en": "trace, mark",
+    "ta": "தடம், அடையாளம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "雪の上に動物の足の跡が残っていた。",
+        "reading": "ゆきの うえに どうぶつの あしの あとが のこって いた。",
+        "romaji": "yuki no ue ni doubutsu no ashi no ato ga nokotte ita.",
+        "ta": "பனியின் மேல் ஒரு விலங்கின் கால் தடம் இருந்தது.",
+        "en": "An animal’s footprints were left on the snow."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0384",
+    "expression": "いたずら",
+    "reading": "いたずら",
+    "romaji": "itazura",
+    "en": "prank, mischief",
+    "ta": "குறும்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弟は先生の机にいたずらをして、しかられた。",
+        "reading": "おとうとは せんせいの つくえに いたずらを して、しかられた。",
+        "romaji": "otouto wa sensei no tsukue ni itazura o shite, shikarareta.",
+        "ta": "தம்பி ஆசிரியரின் மேசையில் குறும்பு செய்து திட்டு வாங்கினான்.",
+        "en": "My little brother played a prank on the teacher’s desk and got told off."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0412",
+    "expression": "違反",
+    "reading": "いはん",
+    "romaji": "ihan",
+    "en": "violation (of a rule)",
+    "ta": "(விதி) மீறல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "赤信号で渡るのは交通違反です。",
+        "reading": "あかしんごうで わたるのは こうつう いはんです。",
+        "romaji": "akashingou de wataru no wa koutsuu ihan desu.",
+        "ta": "சிவப்பு விளக்கில் சாலையைக் கடப்பது போக்குவரத்து விதிமீறல்.",
+        "en": "Crossing on a red light is a traffic violation."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0446",
+    "expression": "討つ",
+    "reading": "うつ",
+    "romaji": "utsu",
+    "en": "to avenge, to strike down",
+    "ta": "பழி தீர்க்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "昔の物語で、息子は父の敵を討った。",
+        "reading": "むかしの ものがたりで、むすこは ちちの かたきを うった。",
+        "romaji": "mukashi no monogatari de, musuko wa chichi no kataki o utta.",
+        "ta": "பழங்கதையில் மகன் தந்தையைக் கொன்றவனைப் பழி தீர்த்தான்.",
+        "en": "In the old tale, the son took revenge on his father’s enemy."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0447",
+    "expression": "撃つ",
+    "reading": "うつ",
+    "romaji": "utsu",
+    "en": "to shoot",
+    "ta": "சுட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "警察官は空に向けて銃を撃った。",
+        "reading": "けいさつかんは そらに むけて じゅうを うった。",
+        "romaji": "keisatsukan wa sora ni mukete juu o utta.",
+        "ta": "காவலர் வானத்தை நோக்கித் துப்பாக்கியால் சுட்டார்.",
+        "en": "The police officer fired his gun into the air."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0450",
+    "expression": "訴える",
+    "reading": "うったえる",
+    "romaji": "uttaeru",
+    "en": "to complain; to sue",
+    "ta": "முறையிட; வழக்குத் தொடர",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "隣の人がうるさいので、管理会社に訴えました。",
+        "reading": "となりの ひとが うるさいので、かんり がいしゃに うったえました。",
+        "romaji": "tonari no hito ga urusai node, kanri gaisha ni uttaemashita.",
+        "ta": "பக்கத்து வீட்டார் சத்தம் போடுவதால் கட்டட நிர்வாக நிறுவனத்திடம் முறையிட்டேன்.",
+        "en": "My neighbour is noisy, so I complained to the building management."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0454",
+    "expression": "奪う",
+    "reading": "うばう",
+    "romaji": "ubau",
+    "en": "to snatch, to take away",
+    "ta": "பறிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "男は女性のかばんを奪って逃げた。",
+        "reading": "おとこは じょせいの かばんを うばって にげた。",
+        "romaji": "otoko wa josei no kaban o ubatte nigeta.",
+        "ta": "அந்த ஆள் ஒரு பெண்ணின் பையைப் பறித்துக்கொண்டு ஓடினான்.",
+        "en": "The man snatched a woman’s bag and ran away."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0497",
+    "expression": "覆う",
+    "reading": "おおう",
+    "romaji": "oou",
+    "en": "to cover",
+    "ta": "மூட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "犯人はマスクで顔を覆っていた。",
+        "reading": "はんにんは マスクで かおを おおって いた。",
+        "romaji": "hannin wa masuku de kao o ootte ita.",
+        "ta": "குற்றவாளி முகக்கவசத்தால் முகத்தை மூடியிருந்தான்.",
+        "en": "The culprit had covered his face with a mask."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0515",
+    "expression": "恐ろしい",
+    "reading": "おそろしい",
+    "romaji": "osoroshii",
+    "en": "terrible, frightening",
+    "ta": "பயங்கரமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "昨日の夜、恐ろしい夢を見ました。",
+        "reading": "きのうの よる、おそろしい ゆめを みました。",
+        "romaji": "kinou no yoru, osoroshii yume o mimashita.",
+        "ta": "நேற்றிரவு ஒரு பயங்கரமான கனவு கண்டேன்.",
+        "en": "Last night I had a terrible dream."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0586",
+    "expression": "確実",
+    "reading": "かくじつ",
+    "romaji": "kakujitsu",
+    "en": "certain, sure",
+    "ta": "உறுதியான, நிச்சயமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この方法なら、確実に合格できます。",
+        "reading": "この ほうほう なら、かくじつに ごうかく できます。",
+        "romaji": "kono houhou nara, kakujitsu ni goukaku dekimasu.",
+        "ta": "இந்த முறையில் படித்தால் உறுதியாகத் தேர்ச்சி பெறலாம்.",
+        "en": "With this method, you can surely pass."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0589",
+    "expression": "隠す",
+    "reading": "かくす",
+    "romaji": "kakusu",
+    "en": "to hide (something)",
+    "ta": "மறைக்க, ஒளித்துவைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "弟はテストの点を母に隠していた。",
+        "reading": "おとうとは テストの てんを ははに かくして いた。",
+        "romaji": "otouto wa tesuto no ten o haha ni kakushite ita.",
+        "ta": "தம்பி தேர்வு மதிப்பெண்ணை அம்மாவிடம் மறைத்துவைத்திருந்தான்.",
+        "en": "My little brother was hiding his test score from our mother."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0593",
+    "expression": "隠れる",
+    "reading": "かくれる",
+    "romaji": "kakureru",
+    "en": "to hide (oneself)",
+    "ta": "ஒளிந்துகொள்ள",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "猫がベッドの下に隠れています。",
+        "reading": "ねこが ベッドの したに かくれて います。",
+        "romaji": "neko ga beddo no shita ni kakurete imasu.",
+        "ta": "பூனை கட்டிலுக்கு அடியில் ஒளிந்திருக்கிறது.",
+        "en": "The cat is hiding under the bed."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0727",
+    "expression": "奇妙",
+    "reading": "きみょう",
+    "romaji": "kimyou",
+    "en": "strange, odd",
+    "ta": "விசித்திரமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "夜中に奇妙な音が聞こえました。",
+        "reading": "よなかに きみょうな おとが きこえました。",
+        "romaji": "yonaka ni kimyou na oto ga kikoemashita.",
+        "ta": "நள்ளிரவில் ஒரு விசித்திரமான சத்தம் கேட்டது.",
+        "en": "I heard a strange sound in the middle of the night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0754",
+    "expression": "恐怖",
+    "reading": "きょうふ",
+    "romaji": "kyoufu",
+    "en": "fear, terror",
+    "ta": "அச்சம், பீதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "地震のとき、強い恐怖を感じました。",
+        "reading": "じしんの とき、つよい きょうふを かんじました。",
+        "romaji": "jishin no toki, tsuyoi kyoufu o kanjimashita.",
+        "ta": "நிலநடுக்கத்தின்போது கடும் அச்சத்தை உணர்ந்தேன்.",
+        "en": "During the earthquake, I felt great fear."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0831",
+    "expression": "刑事",
+    "reading": "けいじ",
+    "romaji": "keiji",
+    "en": "(police) detective",
+    "ta": "துப்பறியும் காவல் அதிகாரி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "二人の刑事が事件について話を聞きに来た。",
+        "reading": "ふたりの けいじが じけんに ついて はなしを ききに きた。",
+        "romaji": "futari no keiji ga jiken ni tsuite hanashi o kiki ni kita.",
+        "ta": "இரண்டு துப்பறியும் அதிகாரிகள் சம்பவம் பற்றி விசாரிக்க வந்தார்கள்.",
+        "en": "Two detectives came to ask about the incident."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0888",
+    "expression": "攻撃",
+    "reading": "こうげき",
+    "romaji": "kougeki",
+    "en": "attack",
+    "ta": "தாக்குதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "サッカーの試合で、相手チームの攻撃が強かった。",
+        "reading": "サッカーの しあいで、あいて チームの こうげきが つよかった。",
+        "romaji": "sakkaa no shiai de, aite chiimu no kougeki ga tsuyokatta.",
+        "ta": "கால்பந்துப் போட்டியில் எதிரணியின் தாக்குதல் வலுவாக இருந்தது.",
+        "en": "In the football match, the other team’s attack was strong."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0899",
+    "expression": "強盗",
+    "reading": "ごうとう",
+    "romaji": "goutou",
+    "en": "robbery, robber",
+    "ta": "கொள்ளை, கொள்ளையன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨夜、駅前の銀行に強盗が入った。",
+        "reading": "さくや、えきまえの ぎんこうに ごうとうが はいった。",
+        "romaji": "sakuya, ekimae no ginkou ni goutou ga haitta.",
+        "ta": "நேற்றிரவு ஸ்டேஷன் முன்னுள்ள வங்கியில் கொள்ளையன் புகுந்தான்.",
+        "en": "Last night a robber broke into the bank in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0947",
+    "expression": "殺す",
+    "reading": "ころす",
+    "romaji": "korosu",
+    "en": "to kill",
+    "ta": "கொல்ல",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "蚊を殺す薬を部屋に置きました。",
+        "reading": "かを ころす くすりを へやに おきました。",
+        "romaji": "ka o korosu kusuri o heya ni okimashita.",
+        "ta": "கொசுவைக் கொல்லும் மருந்தை அறையில் வைத்தேன்.",
+        "en": "I put some mosquito killer in my room."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0967",
+    "expression": "裁判",
+    "reading": "さいばん",
+    "romaji": "saiban",
+    "en": "trial, court case",
+    "ta": "நீதிமன்ற விசாரணை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その事件の裁判は来月始まります。",
+        "reading": "その じけんの さいばんは らいげつ はじまります。",
+        "romaji": "sono jiken no saiban wa raigetsu hajimarimasu.",
+        "ta": "அந்த வழக்கின் நீதிமன்ற விசாரணை அடுத்த மாதம் தொடங்குகிறது.",
+        "en": "The trial for that case starts next month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1021",
+    "expression": "妙",
+    "reading": "みょう",
+    "romaji": "myou",
+    "en": "strange, odd",
+    "ta": "விநோதமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "今日は妙に静かだね。何かあったのかな。",
+        "reading": "きょうは みょうに しずかだね。なにか あったのかな。",
+        "romaji": "kyou wa myou ni shizuka da ne. nanika atta no ka na.",
+        "ta": "இன்று விநோதமாக அமைதியாக இருக்கிறதே; ஏதாவது நடந்ததோ?",
+        "en": "It’s strangely quiet today. I wonder if something happened."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1082",
+    "expression": "物音",
+    "reading": "ものおと",
+    "romaji": "monooto",
+    "en": "sound, noise (of something)",
+    "ta": "(ஏதோ ஒன்றின்) சத்தம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台所で物音がしたので、見に行った。",
+        "reading": "だいどころで ものおとが したので、みに いった。",
+        "romaji": "daidokoro de monooto ga shita node, mi ni itta.",
+        "ta": "சமையலறையில் ஏதோ சத்தம் கேட்டதால் பார்க்கப் போனேன்.",
+        "en": "I heard a noise in the kitchen, so I went to look."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1208",
+    "expression": "悪",
+    "reading": "あく",
+    "romaji": "aku",
+    "en": "evil",
+    "ta": "தீமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昔話では、最後に悪は負けます。",
+        "reading": "むかしばなしでは、さいごに あくは まけます。",
+        "romaji": "mukashibanashi de wa, saigo ni aku wa makemasu.",
+        "ta": "பழங்கதைகளில் கடைசியில் தீமை தோற்கும்.",
+        "en": "In folk tales, evil loses in the end."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1269",
+    "expression": "刑",
+    "reading": "けい",
+    "romaji": "kei",
+    "en": "sentence, penalty",
+    "ta": "தண்டனை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "男は十年の刑を受けた。",
+        "reading": "おとこは じゅうねんの けいを うけた。",
+        "romaji": "otoko wa juunen no kei o uketa.",
+        "ta": "அந்த ஆணுக்குப் பத்து ஆண்டுத் தண்டனை விதிக்கப்பட்டது.",
+        "en": "The man was given a ten-year sentence."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1298",
+    "expression": "攻める",
+    "reading": "せめる",
+    "romaji": "semeru",
+    "en": "to attack, to go on the attack",
+    "ta": "தாக்க, தாக்கி ஆட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "後半は、私たちのチームがずっと攻めていた。",
+        "reading": "こうはんは、わたしたちの チームが ずっと せめて いた。",
+        "romaji": "kouhan wa, watashitachi no chiimu ga zutto semete ita.",
+        "ta": "இரண்டாம் பாதியில் எங்கள் அணியே தொடர்ந்து தாக்கி ஆடியது.",
+        "en": "In the second half, our team kept attacking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1378",
+    "expression": "逮捕",
+    "reading": "たいほ",
+    "romaji": "taiho",
+    "en": "arrest",
+    "ta": "கைது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "警察は銀行強盗の犯人を逮捕した。",
+        "reading": "けいさつは ぎんこう ごうとうの はんにんを たいほ した。",
+        "romaji": "keisatsu wa ginkou goutou no hannin o taiho shita.",
+        "ta": "காவல்துறை வங்கிக் கொள்ளைக் குற்றவாளியைக் கைது செய்தது.",
+        "en": "The police arrested the bank robber."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1396",
+    "expression": "たしか",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "en": "if I remember right; sure",
+    "ta": "சரியாக நினைவிருந்தால்; நிச்சயமாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "会議はたしか三時からだったと思います。",
+        "reading": "かいぎは たしか さんじから だったと おもいます。",
+        "romaji": "kaigi wa tashika sanji kara datta to omoimasu.",
+        "ta": "என் நினைவு சரியென்றால், கூட்டம் மூன்று மணிக்குத் தொடங்கும்.",
+        "en": "If I remember right, the meeting starts at three."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1428",
+    "expression": "弾",
+    "reading": "たま",
+    "romaji": "tama",
+    "en": "bullet",
+    "ta": "தோட்டா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "弾は窓ガラスに当たった。",
+        "reading": "たまは まどガラスに あたった。",
+        "romaji": "tama wa madogarasu ni atatta.",
+        "ta": "தோட்டா ஜன்னல் கண்ணாடியில் பட்டது.",
+        "en": "The bullet hit the window glass."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1430",
+    "expression": "騙す",
+    "reading": "だます",
+    "romaji": "damasu",
+    "en": "to trick, to cheat",
+    "ta": "ஏமாற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "電話で人を騙してお金を取る事件が増えています。",
+        "reading": "でんわで ひとを だまして おかねを とる じけんが ふえて います。",
+        "romaji": "denwa de hito o damashite okane o toru jiken ga fuete imasu.",
+        "ta": "தொலைபேசியில் மக்களை ஏமாற்றிப் பணம் பறிக்கும் சம்பவங்கள் அதிகரிக்கின்றன.",
+        "en": "Cases of tricking people out of money by phone are increasing."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1459",
+    "expression": "違いない",
+    "reading": "ちがいない",
+    "romaji": "chigainai",
+    "en": "must be, surely",
+    "ta": "நிச்சயம் ... ஆக இருக்கும்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "あの店はいつも人が並んでいるから、おいしいに違いない。",
+        "reading": "あの みせは いつも ひとが ならんで いるから、おいしいに ちがいない。",
+        "romaji": "ano mise wa itsumo hito ga narande iru kara, oishii ni chigainai.",
+        "ta": "அந்தக் கடையில் எப்போதும் வரிசை நிற்பதால், சாப்பாடு நிச்சயம் ருசியாக இருக்கும்.",
+        "en": "People always queue at that shop, so it must be good."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1503",
+    "expression": "捕まる",
+    "reading": "つかまる",
+    "romaji": "tsukamaru",
+    "en": "to be caught, to be arrested",
+    "ta": "பிடிபட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "逃げた犯人は三日後に捕まった。",
+        "reading": "にげた はんにんは みっかごに つかまった。",
+        "romaji": "nigeta hannin wa mikkago ni tsukamatta.",
+        "ta": "தப்பியோடிய குற்றவாளி மூன்று நாட்களுக்குப் பிறகு பிடிபட்டான்.",
+        "en": "The criminal who ran away was caught three days later."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1528",
+    "expression": "罪",
+    "reading": "つみ",
+    "romaji": "tsumi",
+    "en": "crime, guilt",
+    "ta": "குற்றம், பாவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は自分の罪を認めて、謝った。",
+        "reading": "かれは じぶんの つみを みとめて、あやまった。",
+        "romaji": "kare wa jibun no tsumi o mitomete, ayamatta.",
+        "ta": "அவன் தன் குற்றத்தை ஒப்புக்கொண்டு மன்னிப்புக் கேட்டான்.",
+        "en": "He admitted his crime and apologised."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1596",
+    "expression": "毒",
+    "reading": "どく",
+    "romaji": "doku",
+    "en": "poison",
+    "ta": "விஷம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このきのこには毒があるので、食べてはいけません。",
+        "reading": "この きのこには どくが あるので、たべては いけません。",
+        "romaji": "kono kinoko ni wa doku ga aru node, tabete wa ikemasen.",
+        "ta": "இந்தக் காளானில் விஷம் இருப்பதால் சாப்பிடக் கூடாது.",
+        "en": "This mushroom is poisonous, so you mustn’t eat it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1659",
+    "expression": "謎",
+    "reading": "なぞ",
+    "romaji": "nazo",
+    "en": "mystery, puzzle",
+    "ta": "புதிர், மர்மம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その事件は今も謎のままです。",
+        "reading": "その じけんは いまも なぞの ままです。",
+        "romaji": "sono jiken wa ima mo nazo no mama desu.",
+        "ta": "அந்தச் சம்பவம் இன்னும் மர்மமாகவே இருக்கிறது.",
+        "en": "That case is still a mystery today."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1777",
+    "expression": "発射",
+    "reading": "はっしゃ",
+    "romaji": "hassha",
+    "en": "firing, launch",
+    "ta": "ஏவுதல், சுடுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ロケットの発射を見に、たくさんの人が集まった。",
+        "reading": "ロケットの はっしゃを みに、たくさんの ひとが あつまった。",
+        "romaji": "roketto no hassha o mi ni, takusan no hito ga atsumatta.",
+        "ta": "ராக்கெட் ஏவுதலைப் பார்க்க நிறைய பேர் கூடினார்கள்.",
+        "en": "Many people gathered to watch the rocket launch."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1778",
+    "expression": "罰する",
+    "reading": "ばっする",
+    "romaji": "bassuru",
+    "en": "to punish",
+    "ta": "தண்டிக்க",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "法律を破った人は罰せられます。",
+        "reading": "ほうりつを やぶった ひとは ばっせられます。",
+        "romaji": "houritsu o yabutta hito wa basseraremasu.",
+        "ta": "சட்டத்தை மீறியவர்கள் தண்டிக்கப்படுவார்கள்.",
+        "en": "People who break the law are punished."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1803",
+    "expression": "犯罪",
+    "reading": "はんざい",
+    "romaji": "hanzai",
+    "en": "crime",
+    "ta": "குற்றச்செயல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この町は犯罪が少なくて安全です。",
+        "reading": "この まちは はんざいが すくなくて あんぜんです。",
+        "romaji": "kono machi wa hanzai ga sukunakute anzen desu.",
+        "ta": "இந்த ஊரில் குற்றங்கள் குறைவு; பாதுகாப்பானது.",
+        "en": "This town has little crime and is safe."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1807",
+    "expression": "犯人",
+    "reading": "はんにん",
+    "romaji": "hannin",
+    "en": "culprit, criminal",
+    "ta": "குற்றவாளி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "犯人はまだ見つかっていません。",
+        "reading": "はんにんは まだ みつかって いません。",
+        "romaji": "hannin wa mada mitsukatte imasen.",
+        "ta": "குற்றவாளி இன்னும் கண்டுபிடிக்கப்படவில்லை.",
+        "en": "The culprit hasn’t been found yet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1834",
+    "expression": "秘密",
+    "reading": "ひみつ",
+    "romaji": "himitsu",
+    "en": "secret",
+    "ta": "ரகசியம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "これは二人だけの秘密だよ。",
+        "reading": "これは ふたりだけの ひみつだよ。",
+        "romaji": "kore wa futari dake no himitsu da yo.",
+        "ta": "இது நம் இருவருக்கு மட்டுமான ரகசியம்.",
+        "en": "This is a secret just between the two of us."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1864",
+    "expression": "武器",
+    "reading": "ぶき",
+    "romaji": "buki",
+    "en": "weapon",
+    "ta": "ஆயுதம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "犯人は武器を持っていなかった。",
+        "reading": "はんにんは ぶきを もって いなかった。",
+        "romaji": "hannin wa buki o motte inakatta.",
+        "ta": "குற்றவாளியிடம் ஆயுதம் எதுவும் இல்லை.",
+        "en": "The culprit didn’t have a weapon."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1873",
+    "expression": "不思議",
+    "reading": "ふしぎ",
+    "romaji": "fushigi",
+    "en": "strange, mysterious",
+    "ta": "விசித்திரமான, அதிசயமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "鍵をかけたのに、ドアが開いていた。不思議だ。",
+        "reading": "かぎを かけたのに、ドアが あいて いた。ふしぎだ。",
+        "romaji": "kagi o kaketa noni, doa ga aite ita. fushigi da.",
+        "ta": "பூட்டியிருந்தும் கதவு திறந்திருந்தது. விசித்திரம்!",
+        "en": "I locked it, but the door was open. How strange."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1877",
+    "expression": "不正",
+    "reading": "ふせい",
+    "romaji": "fusei",
+    "en": "cheating, wrongdoing",
+    "ta": "முறைகேடு, மோசடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試験で不正をした学生は失格になった。",
+        "reading": "しけんで ふせいを した がくせいは しっかくに なった。",
+        "romaji": "shiken de fusei o shita gakusei wa shikkaku ni natta.",
+        "ta": "தேர்வில் முறைகேடு செய்த மாணவர் தகுதி நீக்கம் செய்யப்பட்டார்.",
+        "en": "The student who cheated in the exam was disqualified."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2001",
+    "expression": "裁く",
+    "reading": "さばく",
+    "romaji": "sabaku",
+    "en": "to judge (in court)",
+    "ta": "தீர்ப்பளிக்க, நீதி வழங்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "人が人を裁くのは難しいことだ。",
+        "reading": "ひとが ひとを さばくのは むずかしい ことだ。",
+        "romaji": "hito ga hito o sabaku no wa muzukashii koto da.",
+        "ta": "ஒரு மனிதர் இன்னொருவருக்குத் தீர்ப்பளிப்பது கடினமான விஷயம்.",
+        "en": "It is hard for one person to judge another."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2054",
+    "expression": "捜査",
+    "reading": "そうさ",
+    "romaji": "sousa",
+    "en": "(criminal) investigation",
+    "ta": "புலன் விசாரணை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "警察は今も事件の捜査を続けている。",
+        "reading": "けいさつは いまも じけんの そうさを つづけて いる。",
+        "romaji": "keisatsu wa ima mo jiken no sousa o tsuzukete iru.",
+        "ta": "காவல்துறை இப்போதும் அந்தச் சம்பவம் பற்றிய விசாரணையைத் தொடர்கிறது.",
+        "en": "The police are still investigating the case."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2063",
+    "expression": "盾",
+    "reading": "たて",
+    "romaji": "tate",
+    "en": "shield",
+    "ta": "கேடயம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昔の兵士は盾で体を守った。",
+        "reading": "むかしの へいしは たてで からだを まもった。",
+        "romaji": "mukashi no heishi wa tate de karada o mamotta.",
+        "ta": "பழங்கால வீரர்கள் கேடயத்தால் உடலைப் பாதுகாத்தார்கள்.",
+        "en": "Soldiers long ago protected themselves with shields."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2109",
+    "expression": "非行",
+    "reading": "ひこう",
+    "romaji": "hikou",
+    "en": "delinquency, misconduct",
+    "ta": "(இளைஞர்களின்) தவறான நடத்தை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "少年の非行を防ぐために、町の人たちが活動しています。",
+        "reading": "しょうねんの ひこうを ふせぐ ために、まちの ひとたちが かつどう して います。",
+        "romaji": "shounen no hikou o fusegu tame ni, machi no hitotachi ga katsudou shite imasu.",
+        "ta": "சிறுவர்கள் தவறான வழியில் போகாமல் தடுக்க ஊர் மக்கள் பணியாற்றுகிறார்கள்.",
+        "en": "People in town are working to keep young people out of trouble."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2134",
+    "expression": "予想",
+    "reading": "よそう",
+    "romaji": "yosou",
+    "en": "expectation, prediction",
+    "ta": "எதிர்பார்ப்பு, முன்கணிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試合の結果は予想と全然違った。",
+        "reading": "しあいの けっかは よそうと ぜんぜん ちがった。",
+        "romaji": "shiai no kekka wa yosou to zenzen chigatta.",
+        "ta": "போட்டியின் முடிவு எதிர்பார்த்ததற்கு முற்றிலும் மாறாக இருந்தது.",
+        "en": "The result of the match was completely different from what we expected."
+      }
+    ]
+  }
+]

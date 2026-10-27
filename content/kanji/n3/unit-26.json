@@ -1,0 +1,855 @@
+{
+  "unit": 26,
+  "title": {
+    "en": "Come back, run away, get angry",
+    "ta": "திரும்பு, தப்பி ஓடு, கோபப்படு"
+  },
+  "intro": {
+    "en": "In this unit you learn 13 kanji for moving and for home life: come back, cross over, run away, arrive, sleep, blow, steal, daughter and angry. You already know many of these words in kana (もどる, にげる, ねる). Tip: 到 (arrive) plus a person 亻 makes 倒 (fall) from the last unit.",
+    "ta": "இந்தப் பாடத்தில் நகர்வுக்கும் வீட்டு வாழ்க்கைக்கும் உரிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: திரும்பு, கடந்து செல், தப்பி ஓடு, வந்து சேர், தூங்கு, ஊது, திருடு, மகள், கோபம். இவற்றில் பல சொற்கள் கானாவில் ஏற்கனவே தெரியும் (もどる, にげる, ねる). குறிப்பு: 到 (வந்து சேர்) உடன் மனிதர் 亻 சேர்த்தால் கடந்த பாடத்தின் 倒 (விழு)."
+  },
+  "kanji": [
+    {
+      "kanji": "戻",
+      "meaning": {
+        "en": "return, come back",
+        "ta": "திரும்பு, திரும்பி வா"
+      },
+      "on": [],
+      "kun": [
+        "もど.る",
+        "もど.す"
+      ],
+      "mnemonic": {
+        "en": "A door (戸) on top and big (大) under it. A big dog walks out, but at night it comes back and waits under the door of its home. (Long ago the bottom was 犬, dog!)",
+        "ta": "மேலே ஒரு கதவு (戸), கீழே பெரிய (大). ஒரு பெரிய நாய் வெளியே போகிறது; இரவில் வீட்டுக் கதவின் கீழ் திரும்பி வந்து காத்திருக்கிறது. (பழைய வடிவில் கீழே 犬, நாய் இருந்தது!)"
+      },
+      "note": {
+        "en": "戻る: I come back. 戻す: I put something back. 帰る (かえる) is going home; 戻る is coming back to any place you were before.",
+        "ta": "戻る: நான் திரும்பி வருகிறேன். 戻す: ஒரு பொருளைத் திருப்பி வைக்கிறேன். 帰る (かえる) = வீட்டுக்குப் போதல்; 戻る = முன்பு இருந்த எந்த இடத்துக்கும் திரும்புதல்."
+      },
+      "examples": [
+        {
+          "word": "戻る",
+          "reading": "もどる",
+          "en": "to return, to come back",
+          "ta": "திரும்பி வா",
+          "vocabId": "n4-v-612"
+        },
+        {
+          "word": "戻す",
+          "reading": "もどす",
+          "en": "to put back, to return (something)",
+          "ta": "திருப்பி வை",
+          "vocabId": "n3-v-1078"
+        },
+        {
+          "word": "取り戻す",
+          "reading": "とりもどす",
+          "en": "to get back, to win back",
+          "ta": "மீண்டும் பெறு"
+        },
+        {
+          "word": "払い戻し",
+          "reading": "はらいもどし",
+          "en": "refund",
+          "ta": "பணம் திருப்பித் தருதல்"
+        }
+      ]
+    },
+    {
+      "kanji": "越",
+      "meaning": {
+        "en": "cross over, go past",
+        "ta": "கடந்து செல், தாண்டு"
+      },
+      "on": [
+        "えつ"
+      ],
+      "kun": [
+        "こ.える",
+        "こ.す"
+      ],
+      "mnemonic": {
+        "en": "Run (走) on the left. On the right is a big axe (戉). You run with an axe, cut through the forest and cross over the mountain.",
+        "ta": "இடப்பக்கம் ஓடு (走). வலப்பக்கம் ஒரு பெரிய கோடரி (戉). கோடரியுடன் ஓடிக் காட்டை வெட்டி வழி செய்து மலையைக் கடக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "引っ越す is ひっこす with a small っ. Don’t confuse 越 with 起 (おきる): both start with 走.",
+        "ta": "引っ越す = ひっこす (சிறிய っ உடன்). 越, 起 (おきる) இரண்டும் 走 உடன் தொடங்கும்; குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "越える",
+          "reading": "こえる",
+          "en": "to cross over, to go beyond",
+          "ta": "கடந்து செல், தாண்டு",
+          "vocabId": "n3-v-0905"
+        },
+        {
+          "word": "越す",
+          "reading": "こす",
+          "en": "to pass, to go over",
+          "ta": "கடந்து செல்",
+          "vocabId": "n3-v-0926"
+        },
+        {
+          "word": "引っ越す",
+          "reading": "ひっこす",
+          "en": "to move house",
+          "ta": "வீடு மாறு",
+          "vocabId": "n4-v-330"
+        },
+        {
+          "word": "引っ越し",
+          "reading": "ひっこし",
+          "en": "moving house",
+          "ta": "வீடு மாற்றம்",
+          "vocabId": "n3-v-1821"
+        }
+      ]
+    },
+    {
+      "kanji": "互",
+      "meaning": {
+        "en": "each other, mutual",
+        "ta": "ஒருவருக்கொருவர், பரஸ்பரம்"
+      },
+      "on": [
+        "ご"
+      ],
+      "kun": [
+        "たが.い"
+      ],
+      "mnemonic": {
+        "en": "Two lines like 二 (two): one on top, one at the bottom. Between them, two hooks hold on to each other like two hands shaking. Neither can stand alone: they help each other.",
+        "ta": "二 (இரண்டு) போல இரண்டு கோடுகள்: ஒன்று மேலே, ஒன்று கீழே. நடுவில் இரண்டு கொக்கிகள், கைகுலுக்கும் இரண்டு கைகள் போல ஒன்றையொன்று பிடித்துள்ளன. தனியாக நிற்க முடியாது: ஒருவருக்கொருவர் உதவுகின்றன."
+      },
+      "note": {
+        "en": "互い is たがい with a voiced が, not たかい (高い, high).",
+        "ta": "互い = たがい (கனமான が); たかい (高い, உயரம்) அல்ல."
+      },
+      "examples": [
+        {
+          "word": "お互い",
+          "reading": "おたがい",
+          "en": "each other",
+          "ta": "ஒருவருக்கொருவர்",
+          "vocabId": "n3-v-0517"
+        },
+        {
+          "word": "互い",
+          "reading": "たがい",
+          "en": "mutual, each other",
+          "ta": "பரஸ்பரம்",
+          "vocabId": "n3-v-1388"
+        },
+        {
+          "word": "相互",
+          "reading": "そうご",
+          "en": "mutual, reciprocal",
+          "ta": "பரஸ்பர"
+        },
+        {
+          "word": "交互",
+          "reading": "こうご",
+          "en": "taking turns, alternately",
+          "ta": "மாறி மாறி"
+        }
+      ]
+    },
+    {
+      "kanji": "逃",
+      "meaning": {
+        "en": "run away, escape",
+        "ta": "தப்பி ஓடு"
+      },
+      "on": [
+        "とう"
+      ],
+      "kun": [
+        "に.げる",
+        "に.がす",
+        "のが.す"
+      ],
+      "mnemonic": {
+        "en": "The road part (⻌) and 兆: it looks like dust and stones flying left and right. Someone runs away down the road so fast that dust flies on both sides.",
+        "ta": "சாலைப் பகுதி (⻌), கூடவே 兆: இடமும் வலமும் புழுதி, கற்கள் பறப்பது போலத் தெரிகிறது. ஒருவர் சாலையில் வேகமாகத் தப்பி ஓடுகிறார்; இரு பக்கமும் புழுதி பறக்கிறது."
+      },
+      "note": {
+        "en": "Don’t read 逃げる as なげる: that is 投げる (throw).",
+        "ta": "逃げる ஐ なげる என்று படிக்காதீர்கள்: அது 投げる (எறி)."
+      },
+      "examples": [
+        {
+          "word": "逃げる",
+          "reading": "にげる",
+          "en": "to run away, to escape",
+          "ta": "தப்பி ஓடு",
+          "vocabId": "n4-v-133"
+        },
+        {
+          "word": "逃がす",
+          "reading": "にがす",
+          "en": "to let go, to set free; to miss",
+          "ta": "விடுவி; தவறவிடு"
+        },
+        {
+          "word": "見逃す",
+          "reading": "みのがす",
+          "en": "to miss seeing, to overlook",
+          "ta": "பார்க்கத் தவறவிடு"
+        },
+        {
+          "word": "逃亡",
+          "reading": "とうぼう",
+          "en": "escape, running away",
+          "ta": "தப்பியோட்டம்"
+        }
+      ]
+    },
+    {
+      "kanji": "緒",
+      "meaning": {
+        "en": "cord; together",
+        "ta": "கயிறு; ஒன்றாக"
+      },
+      "on": [
+        "しょ",
+        "ちょ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Thread (糸) on the left, and person/someone (者) on the right. A thread ties people together, so they go everywhere together.",
+        "ta": "இடப்பக்கம் நூல் (糸), வலப்பக்கம் ஆள் (者). ஒரு நூல் மனிதர்களை ஒன்றாகக் கட்டுகிறது; அதனால் அவர்கள் எங்கும் ஒன்றாகப் போகிறார்கள்."
+      },
+      "note": {
+        "en": "一緒 is いっしょ: a small っ and a short しょ, not しょう.",
+        "ta": "一緒 = いっしょ: சிறிய っ, குறில் しょ; しょう அல்ல."
+      },
+      "examples": [
+        {
+          "word": "一緒",
+          "reading": "いっしょ",
+          "en": "together",
+          "ta": "ஒன்றாக",
+          "vocabId": "n5-v-062"
+        },
+        {
+          "word": "一緒に",
+          "reading": "いっしょに",
+          "en": "together (with)",
+          "ta": "(உடன்) சேர்ந்து"
+        },
+        {
+          "word": "情緒",
+          "reading": "じょうちょ",
+          "en": "feeling, atmosphere",
+          "ta": "உணர்வு, சூழல்"
+        }
+      ]
+    },
+    {
+      "kanji": "掛",
+      "meaning": {
+        "en": "hang",
+        "ta": "தொங்கவிடு, மாட்டு"
+      },
+      "on": [],
+      "kun": [
+        "か.ける",
+        "か.かる"
+      ],
+      "mnemonic": {
+        "en": "A hand (扌) on the left. On the right, a wall made of two piles of earth (圭) and a hook (卜) sticking out of it. The hand hangs a coat on the hook.",
+        "ta": "இடப்பக்கம் ஒரு கை (扌). வலப்பக்கம் இரண்டு மண் குவியல்களால் (圭) ஆன சுவர்; அதிலிருந்து நீட்டிக்கொண்டிருக்கும் ஒரு கொக்கி (卜). கை சட்டையைக் கொக்கியில் மாட்டுகிறது."
+      },
+      "note": {
+        "en": "These words are very often written in kana: かける, かかる, でかける. Learn to read the kanji when you see it.",
+        "ta": "இந்தச் சொற்கள் பெரும்பாலும் கானாவில் எழுதப்படும்: かける, かかる, でかける. கான்ஜியைப் பார்த்தால் படிக்கத் தெரிந்துகொள்ளுங்கள்."
+      },
+      "examples": [
+        {
+          "word": "掛ける",
+          "reading": "かける",
+          "en": "to hang; to put on (glasses); to sit down",
+          "ta": "தொங்கவிடு; (கண்ணாடி) அணி; உட்கார்",
+          "vocabId": "n5-v-158"
+        },
+        {
+          "word": "見掛ける",
+          "reading": "みかける",
+          "en": "to happen to see",
+          "ta": "தற்செயலாகப் பார்",
+          "vocabId": "n3-v-2126"
+        },
+        {
+          "word": "掛かる",
+          "reading": "かかる",
+          "en": "to hang; to take (time, money)",
+          "ta": "தொங்கு; (நேரம், பணம்) ஆகு"
+        },
+        {
+          "word": "出掛ける",
+          "reading": "でかける",
+          "en": "to go out",
+          "ta": "வெளியே போ"
+        }
+      ]
+    },
+    {
+      "kanji": "到",
+      "meaning": {
+        "en": "arrive, reach",
+        "ta": "வந்து சேர், அடை"
+      },
+      "on": [
+        "とう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "至 is an arrow that flies down and sticks in the ground (土 at the bottom). Next to it is a knife (刂). The arrow has reached its target: arrive.",
+        "ta": "至 என்பது கீழே பறந்து வந்து தரையில் (கீழே 土) குத்தி நிற்கும் அம்பு. அருகில் ஒரு கத்தி (刂). அம்பு இலக்கை அடைந்துவிட்டது: வந்து சேர்."
+      },
+      "note": {
+        "en": "Add a person 亻 to 到 and you get 倒 (fall, たおれる). Both have the on reading とう (long vowel).",
+        "ta": "到 உடன் மனிதர் 亻 சேர்த்தால் 倒 (விழு, たおれる). இரண்டுக்கும் on வாசிப்பு とう (நெடில்)."
+      },
+      "examples": [
+        {
+          "word": "到着",
+          "reading": "とうちゃく",
+          "en": "arrival",
+          "ta": "வருகை, வந்து சேர்தல்",
+          "vocabId": "n3-v-1582"
+        },
+        {
+          "word": "到着する",
+          "reading": "とうちゃくする",
+          "en": "to arrive",
+          "ta": "வந்து சேர்"
+        },
+        {
+          "word": "殺到",
+          "reading": "さっとう",
+          "en": "rush, flood (of people)",
+          "ta": "முண்டியடித்தல்"
+        }
+      ]
+    },
+    {
+      "kanji": "寝",
+      "meaning": {
+        "en": "sleep, lie down",
+        "ta": "தூங்கு, படு"
+      },
+      "on": [
+        "しん"
+      ],
+      "kun": [
+        "ね.る"
+      ],
+      "mnemonic": {
+        "en": "A roof (宀) on top. Under it on the left is a bed seen from the side (丬). On the right, a hand with a broom has just swept the room. The work is done; now you lie down on the bed under the roof and sleep.",
+        "ta": "மேலே கூரை (宀). கீழே இடப்பக்கம் பக்கவாட்டில் பார்க்கும் கட்டில் (丬). வலப்பக்கம் துடைப்பத்துடன் ஒரு கை; இப்போதுதான் அறையைப் பெருக்கியது. வேலை முடிந்தது; கூரையின் கீழ் கட்டிலில் படுத்துத் தூங்குகிறீர்கள்."
+      },
+      "note": {
+        "en": "寝る (ねる) is going to bed / lying down; 眠る (ねむる) is being asleep. Don’t read 寝 as ねむ.",
+        "ta": "寝る (ねる) = படுக்கப் போதல்; 眠る (ねむる) = உறங்கிக்கொண்டிருத்தல். 寝 ஐ ねむ என்று படிக்காதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "寝る",
+          "reading": "ねる",
+          "en": "to sleep, to go to bed",
+          "ta": "தூங்கு, படுக்கப் போ",
+          "vocabId": "n5-v-510"
+        },
+        {
+          "word": "寝坊",
+          "reading": "ねぼう",
+          "en": "sleeping late, oversleeping",
+          "ta": "அதிக நேரம் தூங்குதல்",
+          "vocabId": "n4-v-182"
+        },
+        {
+          "word": "昼寝",
+          "reading": "ひるね",
+          "en": "nap (in the daytime)",
+          "ta": "பகல் தூக்கம்"
+        },
+        {
+          "word": "寝室",
+          "reading": "しんしつ",
+          "en": "bedroom",
+          "ta": "படுக்கையறை"
+        }
+      ]
+    },
+    {
+      "kanji": "盗",
+      "meaning": {
+        "en": "steal",
+        "ta": "திருடு"
+      },
+      "on": [
+        "とう"
+      ],
+      "kun": [
+        "ぬす.む"
+      ],
+      "mnemonic": {
+        "en": "次 (next) on top of a plate (皿). A man looks at the plate of food and thinks, “Next, it’s mine!” He wants it so much that he steals it.",
+        "ta": "ஒரு தட்டின் (皿) மேல் 次 (அடுத்து). ஒருவர் உணவுத் தட்டைப் பார்த்து “அடுத்தது எனக்குத்தான்!” என்று நினைக்கிறார். ஆசையில் அதைத் திருடிவிடுகிறார்."
+      },
+      "note": {
+        "en": "In 強盗 both parts are long: ごうとう. Don’t confuse ぬすむ (steal) with ぬく (抜く, pull out).",
+        "ta": "強盗 என்பதில் இரண்டும் நெடில்: ごうとう. ぬすむ (திருடு), ぬく (抜く, பிடுங்கு) இரண்டையும் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "盗む",
+          "reading": "ぬすむ",
+          "en": "to steal",
+          "ta": "திருடு",
+          "vocabId": "n4-v-004"
+        },
+        {
+          "word": "強盗",
+          "reading": "ごうとう",
+          "en": "robbery; robber",
+          "ta": "கொள்ளை; கொள்ளைக்காரன்",
+          "vocabId": "n3-v-0899"
+        },
+        {
+          "word": "盗難",
+          "reading": "とうなん",
+          "en": "theft",
+          "ta": "திருட்டு"
+        }
+      ]
+    },
+    {
+      "kanji": "御",
+      "meaning": {
+        "en": "honourable (polite)",
+        "ta": "மரியாதைக்குரிய"
+      },
+      "on": [
+        "ご",
+        "ぎょ"
+      ],
+      "kun": [
+        "お-"
+      ],
+      "mnemonic": {
+        "en": "A servant walks (彳) at noon (午), stops (止), and kneels down (卩) in front of the king. Every step is polite: honourable.",
+        "ta": "ஒரு பணியாள் மதியம் (午) நடந்து (彳) வருகிறார், நிற்கிறார் (止), அரசர் முன் மண்டியிடுகிறார் (卩). ஒவ்வொரு அடியும் மரியாதை: மதிப்புக்குரிய."
+      },
+      "note": {
+        "en": "Today 御 is mostly written in kana (ごはん, お～, ご～), but you will see 御飯 on menus and signs.",
+        "ta": "இன்று 御 பெரும்பாலும் கானாவில் எழுதப்படும் (ごはん, お～, ご～); ஆனால் உணவுப் பட்டியல், பலகைகளில் 御飯 என்று பார்ப்பீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "御飯",
+          "reading": "ごはん",
+          "en": "cooked rice; meal",
+          "ta": "சோறு; உணவு",
+          "vocabId": "n5-v-265"
+        },
+        {
+          "word": "朝御飯",
+          "reading": "あさごはん",
+          "en": "breakfast",
+          "ta": "காலை உணவு",
+          "vocabId": "n5-v-013"
+        },
+        {
+          "word": "晩御飯",
+          "reading": "ばんごはん",
+          "en": "dinner",
+          "ta": "இரவு உணவு",
+          "vocabId": "n5-v-555"
+        },
+        {
+          "word": "制御",
+          "reading": "せいぎょ",
+          "en": "control",
+          "ta": "கட்டுப்பாடு"
+        }
+      ]
+    },
+    {
+      "kanji": "吹",
+      "meaning": {
+        "en": "blow",
+        "ta": "ஊது, வீசு"
+      },
+      "on": [
+        "すい"
+      ],
+      "kun": [
+        "ふ.く"
+      ],
+      "mnemonic": {
+        "en": "A mouth (口) next to 欠, a person with a wide-open mouth (you saw it in 次 and 歌). Open your mouth wide and blow air out.",
+        "ta": "வாய் (口), அருகில் 欠: வாயை அகலமாகத் திறந்த மனிதர் (次, 歌 இல் பார்த்தீர்கள்). வாயை அகலமாகத் திறந்து காற்றை ஊதுங்கள்."
+      },
+      "note": {
+        "en": "吹雪 is a special reading: ふぶき. Don’t confuse ふく (吹く, blow) with ふく (拭く, wipe) or ひく (引く).",
+        "ta": "吹雪 ஒரு சிறப்பு வாசிப்பு: ふぶき. ふく (吹く, ஊது), ふく (拭く, துடை), ひく (引く) ஆகியவற்றைக் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "吹く",
+          "reading": "ふく",
+          "en": "to blow (wind; with the mouth)",
+          "ta": "(காற்று) வீசு; ஊது",
+          "vocabId": "n5-v-580"
+        },
+        {
+          "word": "吹雪",
+          "reading": "ふぶき",
+          "en": "snowstorm",
+          "ta": "பனிப்புயல்"
+        },
+        {
+          "word": "吹き出す",
+          "reading": "ふきだす",
+          "en": "to burst out laughing; to spout",
+          "ta": "சிரிப்பு வெடி; பீறிட்டு வா"
+        }
+      ]
+    },
+    {
+      "kanji": "娘",
+      "meaning": {
+        "en": "daughter",
+        "ta": "மகள்"
+      },
+      "on": [],
+      "kun": [
+        "むすめ"
+      ],
+      "mnemonic": {
+        "en": "A girl (女) next to good (良). The good girl in the family is my daughter.",
+        "ta": "பெண் (女), அருகில் நல்ல (良). வீட்டிலுள்ள நல்ல பெண் என் மகள்."
+      },
+      "note": {
+        "en": "Say 娘 for your own daughter and 娘さん (or お嬢さん) for someone else’s.",
+        "ta": "உங்கள் மகளுக்கு 娘; மற்றவரின் மகளுக்கு 娘さん (அல்லது お嬢さん)."
+      },
+      "examples": [
+        {
+          "word": "娘",
+          "reading": "むすめ",
+          "en": "daughter (my own)",
+          "ta": "மகள் (என்னுடைய)",
+          "vocabId": "n4-v-637"
+        },
+        {
+          "word": "娘さん",
+          "reading": "むすめさん",
+          "en": "(someone else’s) daughter",
+          "ta": "(மற்றவரின்) மகள்"
+        },
+        {
+          "word": "一人娘",
+          "reading": "ひとりむすめ",
+          "en": "only daughter",
+          "ta": "ஒரே மகள்"
+        }
+      ]
+    },
+    {
+      "kanji": "怒",
+      "meaning": {
+        "en": "angry",
+        "ta": "கோபம்"
+      },
+      "on": [
+        "ど"
+      ],
+      "kun": [
+        "おこ.る",
+        "いか.る"
+      ],
+      "mnemonic": {
+        "en": "A woman (女) and a hand (又) on top: a boss’s hand keeps pushing her to work and work. Under them is her heart (心), boiling. Anger!",
+        "ta": "மேலே ஒரு பெண் (女), ஒரு கை (又): முதலாளியின் கை அவளை ஓயாமல் வேலை செய்யத் தள்ளுகிறது. கீழே அவளுடைய இதயம் (心) கொதிக்கிறது. கோபம்!"
+      },
+      "note": {
+        "en": "怒る is おこる in speech; 怒り (anger) is いかり. Don’t mix up 怒 with 努 (try hard, つとめる): 努 has power 力 under it.",
+        "ta": "பேச்சில் 怒る = おこる; 怒り (கோபம்) = いかり. 怒, 努 (முயற்சி, つとめる) இரண்டையும் குழப்பாதீர்கள்: 努-இன் கீழ் சக்தி 力 உள்ளது."
+      },
+      "examples": [
+        {
+          "word": "怒る",
+          "reading": "おこる",
+          "en": "to get angry; to scold",
+          "ta": "கோபப்படு; திட்டு",
+          "vocabId": "n4-v-027"
+        },
+        {
+          "word": "怒り",
+          "reading": "いかり",
+          "en": "anger",
+          "ta": "கோபம்",
+          "vocabId": "n3-v-1216"
+        },
+        {
+          "word": "怒鳴る",
+          "reading": "どなる",
+          "en": "to shout (in anger)",
+          "ta": "(கோபத்தில்) கத்து"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU26-q01",
+        "type": "kanji_reading",
+        "sentence": "急に 雨が 降ったので、家に ＿戻りました＿。",
+        "target": "戻りました",
+        "options": [
+          "もどりました",
+          "かえりました",
+          "れいりました",
+          "もとりました"
+        ],
+        "answer": 0,
+        "explanation_en": "戻りました is read もどりました (திரும்பி வந்தேன், came back). かえりました is 帰りました. もど has a voiced ど.",
+        "explanation_ta": "戻りました = もどりました (திரும்பி வந்தேன், came back). かえりました என்பது 帰りました. もど-இல் கனமான ど."
+      },
+      {
+        "id": "KU26-q02",
+        "type": "kanji_reading",
+        "sentence": "来月、新しい アパートに ＿引っ越します＿。",
+        "target": "引っ越します",
+        "options": [
+          "ひっごします",
+          "いんこします",
+          "ひっこします",
+          "ひきこします"
+        ],
+        "answer": 2,
+        "explanation_en": "引っ越します is read ひっこします (வீடு மாறுகிறேன், move house). The っ is small and こ is not voiced.",
+        "explanation_ta": "引っ越します = ひっこします (வீடு மாறுகிறேன், move house). っ சிறியது; こ கனமாகாது."
+      },
+      {
+        "id": "KU26-q03",
+        "type": "kanji_reading",
+        "sentence": "困った ときは ＿お互い＿に 助け合いましょう。",
+        "target": "お互い",
+        "options": [
+          "おごい",
+          "おたがい",
+          "おたかい",
+          "おだがい"
+        ],
+        "answer": 1,
+        "explanation_en": "お互い is read おたがい (ஒருவருக்கொருவர், each other). おたかい sounds like 高い (high).",
+        "explanation_ta": "お互い = おたがい (ஒருவருக்கொருவர், each other). おたかい என்பது 高い (உயரம்) போல ஒலிக்கும்."
+      },
+      {
+        "id": "KU26-q04",
+        "type": "kanji_reading",
+        "sentence": "ねこが 窓から 外へ ＿逃げました＿。",
+        "target": "逃げました",
+        "options": [
+          "なげました",
+          "とうげました",
+          "にけました",
+          "にげました"
+        ],
+        "answer": 3,
+        "explanation_en": "逃げました is read にげました (தப்பி ஓடியது, ran away). なげました is 投げました (threw).",
+        "explanation_ta": "逃げました = にげました (தப்பி ஓடியது, ran away). なげました என்பது 投げました (எறிந்தேன்)."
+      },
+      {
+        "id": "KU26-q05",
+        "type": "kanji_reading",
+        "sentence": "週末は 家族と ＿一緒＿に 出かけます。",
+        "target": "一緒",
+        "options": [
+          "いちしょ",
+          "いっちょ",
+          "いっしょ",
+          "いっしょう"
+        ],
+        "answer": 2,
+        "explanation_en": "一緒 is read いっしょ (ஒன்றாக, together). しょ is short; いっしょう is 一生 (whole life).",
+        "explanation_ta": "一緒 = いっしょ (ஒன்றாக, together). しょ குறில்; いっしょう என்பது 一生 (வாழ்நாள் முழுவதும்)."
+      },
+      {
+        "id": "KU26-q06",
+        "type": "kanji_reading",
+        "sentence": "かべに 時計を ＿掛けました＿。",
+        "target": "掛けました",
+        "options": [
+          "かけました",
+          "がけました",
+          "つけました",
+          "かいけました"
+        ],
+        "answer": 0,
+        "explanation_en": "掛けました is read かけました (மாட்டினேன், hung). It is が only after another word (e.g. 手掛かり).",
+        "explanation_ta": "掛けました = かけました (மாட்டினேன், hung). வேறு சொல்லுக்குப் பின் மட்டுமே が ஆகும் (எ.கா. 手掛かり)."
+      },
+      {
+        "id": "KU26-q07",
+        "type": "kanji_reading",
+        "sentence": "飛行機は 午後 三時に ＿到着＿します。",
+        "target": "到着",
+        "options": [
+          "とちゃく",
+          "どうちゃく",
+          "とうじゃく",
+          "とうちゃく"
+        ],
+        "answer": 3,
+        "explanation_en": "到着 is read とうちゃく (வந்து சேர்தல், arrival). 到 is とう with a long vowel; 着 is ちゃく, not じゃく.",
+        "explanation_ta": "到着 = とうちゃく (வந்து சேர்தல், arrival). 到 = とう (நெடில்); 着 = ちゃく, じゃく அல்ல."
+      },
+      {
+        "id": "KU26-q08",
+        "type": "kanji_reading",
+        "sentence": "昨日は 十一時に ＿寝ました＿。",
+        "target": "寝ました",
+        "options": [
+          "のました",
+          "ねました",
+          "ねりました",
+          "しんました"
+        ],
+        "answer": 1,
+        "explanation_en": "寝ました is read ねました (தூங்கினேன், went to bed). しん is the on reading (寝室 しんしつ), not used with okurigana.",
+        "explanation_ta": "寝ました = ねました (தூங்கினேன், went to bed). しん என்பது on வாசிப்பு (寝室 しんしつ); okurigana உடன் வராது."
+      },
+      {
+        "id": "KU26-q09",
+        "type": "kanji_reading",
+        "sentence": "電車の 中で さいふを ＿盗まれました＿。",
+        "target": "盗まれました",
+        "options": [
+          "ぬすまれました",
+          "ぬまれました",
+          "とうまれました",
+          "うすまれました"
+        ],
+        "answer": 0,
+        "explanation_en": "盗まれました is read ぬすまれました (திருடப்பட்டது, was stolen). とう is the on reading (強盗 ごうとう).",
+        "explanation_ta": "盗まれました = ぬすまれました (திருடப்பட்டது, was stolen). とう என்பது on வாசிப்பு (強盗 ごうとう)."
+      },
+      {
+        "id": "KU26-q10",
+        "type": "kanji_reading",
+        "sentence": "今日は 風が 強く ＿吹いて＿ います。",
+        "target": "吹いて",
+        "options": [
+          "ぶいて",
+          "ひいて",
+          "ふいて",
+          "すいて"
+        ],
+        "answer": 2,
+        "explanation_en": "吹いて is read ふいて (வீசுகிறது, blowing). すい is the on reading; ひいて is 引いて (pulling).",
+        "explanation_ta": "吹いて = ふいて (வீசுகிறது, blowing). すい என்பது on வாசிப்பு; ひいて என்பது 引いて (இழுத்து)."
+      },
+      {
+        "id": "KU26-q11",
+        "type": "orthography",
+        "sentence": "うちの ＿むすめ＿は 小学生です。",
+        "target": "むすめ",
+        "options": [
+          "婦",
+          "娘",
+          "妹",
+          "姉"
+        ],
+        "answer": 1,
+        "explanation_en": "むすめ (மகள், daughter) is 娘: woman 女 + good 良. 妹 and 姉 are younger and older sister; 婦 is wife/woman.",
+        "explanation_ta": "むすめ (மகள், daughter) = 娘: பெண் 女 + நல்ல 良. 妹, 姉 = தங்கை, அக்கா; 婦 = மனைவி/பெண்."
+      },
+      {
+        "id": "KU26-q12",
+        "type": "orthography",
+        "sentence": "父は 大きな 声で ＿おこりました＿。",
+        "target": "おこりました",
+        "options": [
+          "思りました",
+          "努りました",
+          "奴りました",
+          "怒りました"
+        ],
+        "answer": 3,
+        "explanation_en": "おこりました (கோபப்பட்டார், got angry) is 怒りました: heart 心 at the bottom. 努 has power 力 instead of a heart.",
+        "explanation_ta": "おこりました (கோபப்பட்டார், got angry) = 怒りました: கீழே இதயம் 心. 努-இல் இதயத்துக்குப் பதில் சக்தி 力."
+      },
+      {
+        "id": "KU26-q13",
+        "type": "orthography",
+        "sentence": "山を ＿こえて＿ 向こうの 町へ 行きました。",
+        "target": "こえて",
+        "options": [
+          "起えて",
+          "赴えて",
+          "走えて",
+          "越えて"
+        ],
+        "answer": 3,
+        "explanation_en": "こえて (கடந்து, crossing) is 越えて: run 走 + axe 戉. 起 also starts with 走 but means get up (おきる).",
+        "explanation_ta": "こえて (கடந்து, crossing) = 越えて: ஓடு 走 + கோடரி 戉. 起-உம் 走 உடன் தொடங்கும்; ஆனால் அது எழுந்திரு (おきる)."
+      },
+      {
+        "id": "KU26-q14",
+        "type": "orthography",
+        "sentence": "さあ、＿ごはん＿を 食べましょう。",
+        "target": "ごはん",
+        "options": [
+          "御館",
+          "御飯",
+          "卸飯",
+          "御飲"
+        ],
+        "answer": 1,
+        "explanation_en": "ごはん (சோறு, meal) is 御飯. 卸 looks like 御 but has no 彳 on the left; 飲 and 館 also have 食 but mean drink and building.",
+        "explanation_ta": "ごはん (சோறு, meal) = 御飯. 卸 என்பது 御 போலத் தெரியும், ஆனால் இடப்பக்கம் 彳 இல்லை; 飲, 館 இவற்றிலும் 食 உண்டு, பொருள் குடி, கட்டடம்."
+      },
+      {
+        "id": "KU26-q15",
+        "type": "orthography",
+        "sentence": "読んだ 本は 本だなに ＿もどして＿ ください。",
+        "target": "もどして",
+        "options": [
+          "涙して",
+          "房して",
+          "戻して",
+          "戸して"
+        ],
+        "answer": 2,
+        "explanation_en": "もどして (திருப்பி வைத்து, put back) is 戻して: door 戸 + big 大. 戸 alone is a door; 涙 has water and means tears.",
+        "explanation_ta": "もどして (திருப்பி வைத்து, put back) = 戻して: கதவு 戸 + பெரிய 大. தனி 戸 = கதவு; 涙-இல் தண்ணீர் உண்டு, பொருள் கண்ணீர்."
+      },
+      {
+        "id": "KU26-q16",
+        "type": "orthography",
+        "sentence": "どろぼうが 車を ＿ぬすみました＿。",
+        "target": "ぬすみました",
+        "options": [
+          "盗みました",
+          "次みました",
+          "抜みました",
+          "盛みました"
+        ],
+        "answer": 0,
+        "explanation_en": "ぬすみました (திருடினான், stole) is 盗みました: next 次 on a plate 皿. 抜 is ぬく (pull out).",
+        "explanation_ta": "ぬすみました (திருடினான், stole) = 盗みました: தட்டு 皿 மேல் அடுத்து 次. 抜 = ぬく (பிடுங்கு)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,866 @@
+[
+ {
+  "id": "n3-v-0093",
+  "expression": "宗教",
+  "reading": "しゅうきょう",
+  "romaji": "shuukyou",
+  "en": "religion",
+  "ta": "மதம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本では、宗教についてあまり話さない人が多いです。",
+    "reading": "にほんでは、しゅうきょうに ついて あまり はなさない ひとが おおいです。",
+    "romaji": "nihon de wa, shuukyou ni tsuite amari hanasanai hito ga ooi desu.",
+    "ta": "ஜப்பானில் மதத்தைப் பற்றி அதிகம் பேசாதவர்கள் பலர் இருக்கிறார்கள்.",
+    "en": "In Japan, many people don’t talk much about religion."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0187",
+  "expression": "信仰",
+  "reading": "しんこう",
+  "romaji": "shinkou",
+  "en": "faith, belief",
+  "ta": "மத நம்பிக்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祖母は信仰が深く、毎朝お寺へ行きます。",
+    "reading": "そぼは しんこうが ふかく、まいあさ おてらへ いきます。",
+    "romaji": "sobo wa shinkou ga fukaku, maiasa otera e ikimasu.",
+    "ta": "பாட்டிக்கு ஆழ்ந்த மத நம்பிக்கை உண்டு; தினமும் காலையில் கோயிலுக்குப் போவார்.",
+    "en": "My grandmother has deep faith and goes to the temple every morning."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0245",
+  "expression": "墨",
+  "reading": "すみ",
+  "romaji": "sumi",
+  "en": "ink stick, sumi ink",
+  "ta": "மை (சுமி மைக்கட்டி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "書道の授業で、墨をすって字を書きました。",
+    "reading": "しょどうの じゅぎょうで、すみを すって じを かきました。",
+    "romaji": "shodou no jugyou de, sumi o sutte ji o kakimashita.",
+    "ta": "எழுத்துக்கலை வகுப்பில் மையைத் தேய்த்து எழுத்துகளை எழுதினேன்.",
+    "en": "In calligraphy class, I ground ink and wrote characters."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0409",
+  "expression": "稲",
+  "reading": "いね",
+  "romaji": "ine",
+  "en": "rice plant",
+  "ta": "நெற்பயிர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "秋になると、田んぼの稲が黄色くなります。",
+    "reading": "あきに なると、たんぼの いねが きいろく なります。",
+    "romaji": "aki ni naru to, tanbo no ine ga kiiroku narimasu.",
+    "ta": "இலையுதிர் காலம் வந்தால் வயலில் உள்ள நெற்பயிர் மஞ்சளாகிவிடும்.",
+    "en": "In autumn, the rice plants in the fields turn yellow."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0425",
+  "expression": "祝い",
+  "reading": "いわい",
+  "romaji": "iwai",
+  "en": "celebration; gift",
+  "ta": "கொண்டாட்டம்; வாழ்த்துப் பரிசு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "兄の結婚のお祝いに、時計をあげました。",
+    "reading": "あにの けっこんの おいわいに、とけいを あげました。",
+    "romaji": "ani no kekkon no oiwai ni, tokei o agemashita.",
+    "ta": "அண்ணனின் திருமணத்துக்கு வாழ்த்துப் பரிசாக ஒரு கடிகாரம் கொடுத்தேன்.",
+    "en": "I gave my brother a watch as a wedding present."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0426",
+  "expression": "祝う",
+  "reading": "いわう",
+  "romaji": "iwau",
+  "en": "to celebrate",
+  "ta": "கொண்டாட",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "家族で祖父の八十歳の誕生日を祝いました。",
+    "reading": "かぞくで そふの はちじゅっさいの たんじょうびを いわいました。",
+    "romaji": "kazoku de sofu no hachijussai no tanjoubi o iwaimashita.",
+    "ta": "குடும்பமாகச் சேர்ந்து தாத்தாவின் எண்பதாவது பிறந்தநாளைக் கொண்டாடினோம்.",
+    "en": "Our family celebrated Grandpa’s 80th birthday."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0429",
+  "expression": "インク",
+  "reading": "インク",
+  "romaji": "inku",
+  "en": "ink",
+  "ta": "மை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "ペンのインクがなくなったので、新しいのを買いました。",
+    "reading": "ペンの インクが なくなったので、あたらしいのを かいました。",
+    "romaji": "pen no inku ga nakunatta node, atarashii no o kaimashita.",
+    "ta": "பேனாவில் மை தீர்ந்துவிட்டதால் புதியது வாங்கினேன்.",
+    "en": "My pen ran out of ink, so I bought a new one."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0458",
+  "expression": "梅",
+  "reading": "うめ",
+  "romaji": "ume",
+  "en": "Japanese plum (ume)",
+  "ta": "உமே (ஜப்பானிய பிளம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "桜より先に、二月ごろ梅の花が咲きます。",
+    "reading": "さくらより さきに、にがつごろ うめの はなが さきます。",
+    "romaji": "sakura yori saki ni, nigatsu goro ume no hana ga sakimasu.",
+    "ta": "செர்ரிக்கு முன்பே, பிப்ரவரி வாக்கில் உமே பூக்கள் பூக்கின்றன.",
+    "en": "Plum blossoms bloom around February, before the cherry blossoms."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0528",
+  "expression": "おめでとう",
+  "reading": "おめでとう",
+  "romaji": "omedetou",
+  "en": "congratulations",
+  "ta": "வாழ்த்துகள்",
+  "pos": "interjection",
+  "examples": [
+   {
+    "ja": "「合格、おめでとう！」と友達が言ってくれました。",
+    "reading": "「ごうかく、おめでとう！」と ともだちが いって くれました。",
+    "romaji": "\"goukaku, omedetou!\" to tomodachi ga itte kuremashita.",
+    "ta": "\"தேர்ச்சிக்கு வாழ்த்துகள்!\" என்று நண்பர் சொன்னார்.",
+    "en": "My friend said, “Congratulations on passing!”"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0619",
+  "expression": "刀",
+  "reading": "かたな",
+  "romaji": "katana",
+  "en": "sword (katana)",
+  "ta": "வாள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "博物館で昔の侍の刀を見ました。",
+    "reading": "はくぶつかんで むかしの さむらいの かたなを みました。",
+    "romaji": "hakubutsukan de mukashi no samurai no katana o mimashita.",
+    "ta": "அருங்காட்சியகத்தில் பழங்கால சாமுராய் வீரரின் வாளைப் பார்த்தேன்.",
+    "en": "I saw an old samurai sword at the museum."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0637",
+  "expression": "鐘",
+  "reading": "かね",
+  "romaji": "kane",
+  "en": "bell (temple bell)",
+  "ta": "மணி (கோயில் மணி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大みそかの夜、お寺の鐘が百八回鳴ります。",
+    "reading": "おおみそかの よる、おてらの かねが ひゃくはちかい なります。",
+    "romaji": "oomisoka no yoru, otera no kane ga hyakuhachikai narimasu.",
+    "ta": "ஆண்டின் கடைசி இரவில் கோயில் மணி 108 முறை ஒலிக்கும்.",
+    "en": "On New Year’s Eve, the temple bell rings 108 times."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0643",
+  "expression": "神",
+  "reading": "かみ",
+  "romaji": "kami",
+  "en": "god",
+  "ta": "கடவுள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本人は、山や川にも神がいると考えてきました。",
+    "reading": "にほんじんは、やまや かわにも かみが いると かんがえて きました。",
+    "romaji": "nihonjin wa, yama ya kawa ni mo kami ga iru to kangaete kimashita.",
+    "ta": "மலைகளிலும் ஆறுகளிலும் கூடக் கடவுள் இருப்பதாக ஜப்பானியர்கள் நெடுங்காலமாக நம்பி வந்திருக்கிறார்கள்.",
+    "en": "Japanese people have long believed gods live even in mountains and rivers."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0806",
+  "expression": "クリスマス",
+  "reading": "クリスマス",
+  "romaji": "kurisumasu",
+  "en": "Christmas",
+  "ta": "கிறிஸ்துமஸ்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本では、クリスマスにケーキを食べる家庭が多いです。",
+    "reading": "にほんでは、クリスマスに ケーキを たべる かていが おおいです。",
+    "romaji": "nihon de wa, kurisumasu ni keeki o taberu katei ga ooi desu.",
+    "ta": "ஜப்பானில் கிறிஸ்துமஸ் அன்று கேக் சாப்பிடும் குடும்பங்கள் அதிகம்.",
+    "en": "In Japan, many families eat cake at Christmas."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0811",
+  "expression": "暮れ",
+  "reading": "くれ",
+  "romaji": "kure",
+  "en": "year end",
+  "ta": "ஆண்டு இறுதி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "年の暮れは、大掃除で忙しいです。",
+    "reading": "としの くれは、おおそうじで いそがしいです。",
+    "romaji": "toshi no kure wa, oosouji de isogashii desu.",
+    "ta": "ஆண்டு இறுதியில் வீட்டை முழுவதும் சுத்தம் செய்வதால் பரபரப்பாக இருக்கும்.",
+    "en": "At the end of the year, we are busy with the big cleaning."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0933",
+  "expression": "琴",
+  "reading": "こと",
+  "romaji": "koto",
+  "en": "koto (Japanese harp)",
+  "ta": "கோட்டோ (ஜப்பானிய யாழ்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "姉は子どものころから琴を習っています。",
+    "reading": "あねは こどもの ころから ことを ならって います。",
+    "romaji": "ane wa kodomo no koro kara koto o naratte imasu.",
+    "ta": "அக்கா சிறு வயதிலிருந்தே கோட்டோ வாசிக்கக் கற்றுக்கொண்டு வருகிறாள்.",
+    "en": "My sister has been learning the koto since she was a child."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0935",
+  "expression": "諺",
+  "reading": "ことわざ",
+  "romaji": "kotowaza",
+  "en": "proverb",
+  "ta": "பழமொழி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "「猿も木から落ちる」は有名な諺です。",
+    "reading": "「さるも きから おちる」は ゆうめいな ことわざです。",
+    "romaji": "\"saru mo ki kara ochiru\" wa yuumei na kotowaza desu.",
+    "ta": "\"குரங்கும் மரத்திலிருந்து விழும்\" என்பது பிரபலமான பழமொழி.",
+    "en": "“Even monkeys fall from trees” is a famous proverb."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0979",
+  "expression": "桜",
+  "reading": "さくら",
+  "romaji": "sakura",
+  "en": "cherry blossom",
+  "ta": "செர்ரி மலர் (சகுரா)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "春になると、公園で桜を見ながらお弁当を食べます。",
+    "reading": "はるに なると、こうえんで さくらを みながら おべんとうを たべます。",
+    "romaji": "haru ni naru to, kouen de sakura o minagara obentou o tabemasu.",
+    "ta": "வசந்த காலம் வந்தால், பூங்காவில் செர்ரி மலர்களைப் பார்த்துக்கொண்டே மதிய உணவு சாப்பிடுவோம்.",
+    "en": "In spring, we eat packed lunches in the park while viewing the cherry blossoms."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0987",
+  "expression": "挿す",
+  "reading": "さす",
+  "romaji": "sasu",
+  "en": "to put in (flowers in a vase)",
+  "ta": "செருகி வைக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "母は玄関の花瓶に梅の枝を挿しました。",
+    "reading": "ははは げんかんの かびんに うめの えだを さしました。",
+    "romaji": "haha wa genkan no kabin ni ume no eda o sashimashita.",
+    "ta": "அம்மா வாசலில் இருந்த பூச்சாடியில் உமே மரக் கிளையைச் செருகி வைத்தார்.",
+    "en": "My mother put a plum branch in the vase at the entrance."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1075",
+  "expression": "元",
+  "reading": "もと",
+  "romaji": "moto",
+  "en": "origin, basis; former",
+  "ta": "மூலம், அடிப்படை; முன்னாள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この映画は、昔の話が元になっています。",
+    "reading": "この えいがは、むかしの はなしが もとに なって います。",
+    "romaji": "kono eiga wa, mukashi no hanashi ga moto ni natte imasu.",
+    "ta": "இந்தத் திரைப்படம் ஒரு பழைய கதையை அடிப்படையாகக் கொண்டது.",
+    "en": "This film is based on an old story."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1206",
+  "expression": "椀",
+  "reading": "わん",
+  "romaji": "wan",
+  "en": "wooden bowl",
+  "ta": "மரக் கிண்ணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "味噌汁は木の椀に入れて飲みます。",
+    "reading": "みそしるは きの わんに いれて のみます。",
+    "romaji": "misoshiru wa ki no wan ni irete nomimasu.",
+    "ta": "மிசோ சூப்பை மரக் கிண்ணத்தில் ஊற்றிக் குடிப்போம்.",
+    "en": "We drink miso soup from a wooden bowl."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1207",
+  "expression": "碗",
+  "reading": "わん",
+  "romaji": "wan",
+  "en": "ceramic bowl",
+  "ta": "பீங்கான் கிண்ணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この碗は京都で作られた焼き物です。",
+    "reading": "この わんは きょうとで つくられた やきものです。",
+    "romaji": "kono wan wa kyouto de tsukurareta yakimono desu.",
+    "ta": "இந்தக் கிண்ணம் கியோட்டோவில் செய்யப்பட்ட மட்பாண்டம்.",
+    "en": "This bowl is pottery made in Kyoto."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1256",
+  "expression": "起源",
+  "reading": "きげん",
+  "romaji": "kigen",
+  "en": "origin",
+  "ta": "தோற்றம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "漢字の起源は中国にあります。",
+    "reading": "かんじの きげんは ちゅうごくに あります。",
+    "romaji": "kanji no kigen wa chuugoku ni arimasu.",
+    "ta": "கான்ஜியின் தோற்றம் சீனாவில் உள்ளது.",
+    "en": "Kanji originally came from China."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1352",
+  "expression": "田",
+  "reading": "た",
+  "romaji": "ta",
+  "en": "rice field",
+  "ta": "வயல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "田に水を入れて、稲を植えます。",
+    "reading": "たに みずを いれて、いねを うえます。",
+    "romaji": "ta ni mizu o irete, ine o uemasu.",
+    "ta": "வயலில் தண்ணீர் பாய்ச்சி நெல் நடுவார்கள்.",
+    "en": "They fill the field with water and plant rice."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1422",
+  "expression": "足袋",
+  "reading": "たび",
+  "romaji": "tabi",
+  "en": "tabi (split-toe socks)",
+  "ta": "தாபி (கால்விரல் பிரிந்த ஜப்பானிய காலுறை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "着物を着るときは、白い足袋をはきます。",
+    "reading": "きものを きる ときは、しろい たびを はきます。",
+    "romaji": "kimono o kiru toki wa, shiroi tabi o hakimasu.",
+    "ta": "கிமோனோ அணியும்போது வெள்ளை தாபி காலுறை அணிவார்கள்.",
+    "en": "When you wear a kimono, you wear white tabi socks."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1470",
+  "expression": "茶",
+  "reading": "ちゃ",
+  "romaji": "cha",
+  "en": "tea",
+  "ta": "தேநீர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店では、日本の茶と和菓子が楽しめます。",
+    "reading": "この みせでは、にほんの ちゃと わがしが たのしめます。",
+    "romaji": "kono mise de wa, nihon no cha to wagashi ga tanoshimemasu.",
+    "ta": "இந்தக் கடையில் ஜப்பானியத் தேநீரையும் ஜப்பானிய இனிப்புகளையும் சுவைக்கலாம்.",
+    "en": "At this shop you can enjoy Japanese tea and sweets."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1516",
+  "expression": "伝わる",
+  "reading": "つたわる",
+  "romaji": "tsutawaru",
+  "en": "to be handed down",
+  "ta": "பரம்பரையாக வர",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この村には、古い話がたくさん伝わっています。",
+    "reading": "この むらには、ふるい はなしが たくさん つたわって います。",
+    "romaji": "kono mura ni wa, furui hanashi ga takusan tsutawatte imasu.",
+    "ta": "இந்தக் கிராமத்தில் பல பழங்கதைகள் தலைமுறை தலைமுறையாக வழங்கி வருகின்றன.",
+    "en": "Many old stories have been handed down in this village."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1569",
+  "expression": "伝統",
+  "reading": "でんとう",
+  "romaji": "dentou",
+  "en": "tradition",
+  "ta": "பாரம்பரியம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本の伝統を大切にする若い人が増えています。",
+    "reading": "にほんの でんとうを たいせつに する わかい ひとが ふえて います。",
+    "romaji": "nihon no dentou o taisetsu ni suru wakai hito ga fuete imasu.",
+    "ta": "ஜப்பானின் பாரம்பரியத்தை மதிக்கும் இளைஞர்கள் அதிகரித்து வருகின்றனர்.",
+    "en": "More young people are valuing Japanese traditions."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1585",
+  "expression": "東洋",
+  "reading": "とうよう",
+  "romaji": "touyou",
+  "en": "the East, the Orient",
+  "ta": "கீழை நாடுகள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大学で東洋の歴史を勉強しています。",
+    "reading": "だいがくで とうようの れきしを べんきょう して います。",
+    "romaji": "daigaku de touyou no rekishi o benkyou shite imasu.",
+    "ta": "பல்கலைக்கழகத்தில் கீழை நாடுகளின் வரலாற்றைப் படிக்கிறேன்.",
+    "en": "I study the history of the East at university."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1663",
+  "expression": "鍋",
+  "reading": "なべ",
+  "romaji": "nabe",
+  "en": "pot; hot-pot dish",
+  "ta": "பாத்திரம் (சமையல் பானை); நாபே உணவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "冬は家族で鍋を囲んで食べます。",
+    "reading": "ふゆは かぞくで なべを かこんで たべます。",
+    "romaji": "fuyu wa kazoku de nabe o kakonde tabemasu.",
+    "ta": "குளிர்காலத்தில் குடும்பமாக நாபே பானையைச் சுற்றி அமர்ந்து சாப்பிடுவோம்.",
+    "en": "In winter, our family sits around a hot pot and eats."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1686",
+  "expression": "日本",
+  "reading": "にっぽん",
+  "romaji": "nippon",
+  "en": "Japan (Nippon)",
+  "ta": "ஜப்பான் (நிப்பொன்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "サッカーの試合で、みんなが「がんばれ、日本！」と叫びました。",
+    "reading": "サッカーの しあいで、みんなが 「がんばれ、にっぽん！」と さけびました。",
+    "romaji": "sakkaa no shiai de, minna ga \"ganbare, nippon!\" to sakebimashita.",
+    "ta": "கால்பந்துப் போட்டியில் எல்லோரும் \"ஜப்பான், ஜெயிக்கட்டும்!\" என்று கத்தினார்கள்.",
+    "en": "At the soccer match, everyone shouted, “Go, Japan!”"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1687",
+  "expression": "日本",
+  "reading": "にほん",
+  "romaji": "nihon",
+  "en": "Japan",
+  "ta": "ஜப்பான்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本の祭りは夏に多いです。",
+    "reading": "にほんの まつりは なつに おおいです。",
+    "romaji": "nihon no matsuri wa natsu ni ooi desu.",
+    "ta": "ஜப்பானின் திருவிழாக்கள் கோடையில்தான் அதிகம்.",
+    "en": "Many Japanese festivals are held in summer."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1763",
+  "expression": "始まり",
+  "reading": "はじまり",
+  "romaji": "hajimari",
+  "en": "beginning, origin",
+  "ta": "தொடக்கம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "これがこの祭りの始まりだと言われています。",
+    "reading": "これが この まつりの はじまりだと いわれて います。",
+    "romaji": "kore ga kono matsuri no hajimari da to iwarete imasu.",
+    "ta": "இதுவே இந்தத் திருவிழாவின் தொடக்கம் என்று சொல்லப்படுகிறது.",
+    "en": "This is said to be how this festival began."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1768",
+  "expression": "旗",
+  "reading": "はた",
+  "romaji": "hata",
+  "en": "flag",
+  "ta": "கொடி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祝日に、家の前に日本の旗を立てる人もいます。",
+    "reading": "しゅくじつに、いえの まえに にほんの はたを たてる ひとも います。",
+    "romaji": "shukujitsu ni, ie no mae ni nihon no hata o tateru hito mo imasu.",
+    "ta": "தேசிய விடுமுறை நாட்களில் வீட்டின் முன் ஜப்பானியக் கொடியை நாட்டுபவர்களும் உண்டு.",
+    "en": "Some people put up the Japanese flag in front of their house on national holidays."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1892",
+  "expression": "筆",
+  "reading": "ふで",
+  "romaji": "fude",
+  "en": "writing brush",
+  "ta": "எழுதும் தூரிகை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "お正月に、筆で「夢」という字を書きました。",
+    "reading": "おしょうがつに、ふでで 「ゆめ」と いう じを かきました。",
+    "romaji": "oshougatsu ni, fude de \"yume\" to iu ji o kakimashita.",
+    "ta": "புத்தாண்டு அன்று தூரிகையால் \"夢\" (கனவு) என்ற எழுத்தை எழுதினேன்.",
+    "en": "At New Year, I wrote the character 夢 (“dream”) with a brush."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1912",
+  "expression": "文明",
+  "reading": "ぶんめい",
+  "romaji": "bunmei",
+  "en": "civilization",
+  "ta": "நாகரிகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "インダス文明は世界で最も古い文明の一つです。",
+    "reading": "インダスぶんめいは せかいで もっとも ふるい ぶんめいの ひとつです。",
+    "romaji": "indasubunmei wa sekai de mottomo furui bunmei no hitotsu desu.",
+    "ta": "சிந்து சமவெளி நாகரிகம் உலகின் மிகப் பழமையான நாகரிகங்களில் ஒன்று.",
+    "en": "The Indus civilization is one of the oldest in the world."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1942",
+  "expression": "ボール",
+  "reading": "ボール",
+  "romaji": "booru",
+  "en": "ball; mixing bowl",
+  "ta": "பந்து; கலக்கும் கிண்ணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "ボールに卵を割って、よく混ぜてください。",
+    "reading": "ボールに たまごを わって、よく まぜて ください。",
+    "romaji": "booru ni tamago o watte, yoku mazete kudasai.",
+    "ta": "ஒரு கிண்ணத்தில் முட்டையை உடைத்து ஊற்றி நன்றாகக் கலக்குங்கள்.",
+    "en": "Crack the eggs into a bowl and mix well."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1947",
+  "expression": "保存",
+  "reading": "ほぞん",
+  "romaji": "hozon",
+  "en": "preservation; saving (data)",
+  "ta": "பாதுகாத்தல்; சேமித்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この町では、古い家を大切に保存しています。",
+    "reading": "この まちでは、ふるい いえを たいせつに ほぞん して います。",
+    "romaji": "kono machi de wa, furui ie o taisetsu ni hozon shite imasu.",
+    "ta": "இந்த ஊரில் பழைய வீடுகளைக் கவனமாகப் பாதுகாத்து வருகிறார்கள்.",
+    "en": "This town carefully preserves its old houses."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1949",
+  "expression": "仏",
+  "reading": "ほとけ",
+  "romaji": "hotoke",
+  "en": "Buddha",
+  "ta": "புத்தர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "お寺の中には、大きな仏の像があります。",
+    "reading": "おてらの なかには、おおきな ほとけの ぞうが あります。",
+    "romaji": "otera no naka ni wa, ookina hotoke no zou ga arimasu.",
+    "ta": "கோயிலுக்குள் பெரிய புத்தர் சிலை ஒன்று உள்ளது.",
+    "en": "There is a large statue of Buddha inside the temple."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1992",
+  "expression": "祭",
+  "reading": "まつり",
+  "romaji": "matsuri",
+  "en": "festival",
+  "ta": "திருவிழா",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "京都の祇園祭は七月に行われます。",
+    "reading": "きょうとの ぎおんまつりは しちがつに おこなわれます。",
+    "romaji": "kyouto no gionmatsuri wa shichigatsu ni okonawaremasu.",
+    "ta": "கியோட்டோவின் ஜியோன் திருவிழா ஜூலை மாதம் நடைபெறும்.",
+    "en": "Kyoto’s Gion Festival is held in July."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2008",
+  "expression": "磁器",
+  "reading": "じき",
+  "romaji": "jiki",
+  "en": "porcelain",
+  "ta": "பீங்கான்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "有田は美しい磁器で有名な町です。",
+    "reading": "ありたは うつくしい じきで ゆうめいな まちです。",
+    "romaji": "arita wa utsukushii jiki de yuumei na machi desu.",
+    "ta": "அரிதா, அழகான பீங்கான் பொருட்களுக்குப் பெயர் பெற்ற ஊர்.",
+    "en": "Arita is a town famous for its beautiful porcelain."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2043",
+  "expression": "節",
+  "reading": "せつ",
+  "romaji": "setsu",
+  "en": "occasion, (that) time",
+  "ta": "சமயம், (அந்த) நேரம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "その節は大変お世話になりました。",
+    "reading": "その せつは たいへん おせわに なりました。",
+    "romaji": "sono setsu wa taihen osewa ni narimashita.",
+    "ta": "அந்தச் சமயத்தில் நீங்கள் செய்த உதவிக்கு மிக்க நன்றி.",
+    "en": "Thank you so much for your help at that time."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2044",
+  "expression": "膳",
+  "reading": "ぜん",
+  "romaji": "zen",
+  "en": "meal tray; meal",
+  "ta": "உணவுத் தட்டு; உணவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "旅館で、夕食の膳が部屋に運ばれてきました。",
+    "reading": "りょかんで、ゆうしょくの ぜんが へやに はこばれて きました。",
+    "romaji": "ryokan de, yuushoku no zen ga heya ni hakobarete kimashita.",
+    "ta": "விடுதியில் இரவு உணவுத் தட்டு எங்கள் அறைக்கே கொண்டு வரப்பட்டது.",
+    "en": "At the inn, the dinner tray was brought to our room."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2045",
+  "expression": "禅",
+  "reading": "ぜん",
+  "romaji": "zen",
+  "en": "Zen (Buddhism)",
+  "ta": "ஜென் (பௌத்தப் பிரிவு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "京都のお寺で、禅を体験しました。",
+    "reading": "きょうとの おてらで、ぜんを たいけん しました。",
+    "romaji": "kyouto no otera de, zen o taiken shimashita.",
+    "ta": "கியோட்டோவில் உள்ள கோயிலில் ஜென் தியானத்தை அனுபவித்துப் பார்த்தேன்.",
+    "en": "I tried Zen meditation at a temple in Kyoto."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2052",
+  "expression": "僧",
+  "reading": "そう",
+  "romaji": "sou",
+  "en": "Buddhist monk",
+  "ta": "பௌத்தத் துறவி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "朝早く、若い僧たちがお寺の庭を掃除していました。",
+    "reading": "あさ はやく、わかい そうたちが おてらの にわを そうじ して いました。",
+    "romaji": "asa hayaku, wakai soutachi ga otera no niwa o souji shite imashita.",
+    "ta": "அதிகாலையில் இளம் துறவிகள் கோயில் தோட்டத்தைச் சுத்தம் செய்துகொண்டிருந்தார்கள்.",
+    "en": "Early in the morning, young monks were cleaning the temple garden."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2053",
+  "expression": "像",
+  "reading": "ぞう",
+  "romaji": "zou",
+  "en": "statue",
+  "ta": "சிலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "渋谷駅の前に、犬のハチ公の像があります。",
+    "reading": "しぶやえきの まえに、いぬの ハチこうの ぞうが あります。",
+    "romaji": "shibuyaeki no mae ni, inu no hachikou no zou ga arimasu.",
+    "ta": "ஷிபுயா ரயில் நிலையத்தின் முன் ஹச்சிகோ என்ற நாயின் சிலை உள்ளது.",
+    "en": "There is a statue of the dog Hachiko in front of Shibuya Station."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2065",
+  "expression": "チャイム",
+  "reading": "チャイム",
+  "romaji": "chaimu",
+  "en": "chime",
+  "ta": "மணியோசை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "学校のチャイムが鳴ったら、席に座りましょう。",
+    "reading": "がっこうの チャイムが なったら、せきに すわりましょう。",
+    "romaji": "gakkou no chaimu ga nattara, seki ni suwarimashou.",
+    "ta": "பள்ளி மணி அடித்ததும் இருக்கையில் அமருவோம்.",
+    "en": "When the school chime rings, let’s sit down."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2108",
+  "expression": "碑",
+  "reading": "ひ",
+  "romaji": "hi",
+  "en": "stone monument",
+  "ta": "நினைவுக் கல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "公園に、有名な詩人の碑が立っています。",
+    "reading": "こうえんに、ゆうめいな しじんの ひが たって います。",
+    "romaji": "kouen ni, yuumei na shijin no hi ga tatte imasu.",
+    "ta": "பூங்காவில் புகழ்பெற்ற கவிஞர் ஒருவரின் நினைவுக் கல் நிற்கிறது.",
+    "en": "A stone monument to a famous poet stands in the park."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2113",
+  "expression": "福",
+  "reading": "ふく",
+  "romaji": "fuku",
+  "en": "good fortune",
+  "ta": "நற்பேறு, அதிர்ஷ்டம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "節分には「福は内」と言いながら豆をまきます。",
+    "reading": "せつぶんには 「ふくは うち」と いいながら まめを まきます。",
+    "romaji": "setsubun ni wa \"fuku wa uchi\" to iinagara mame o makimasu.",
+    "ta": "செட்சுபுன் நாளில் \"அதிர்ஷ்டமே, உள்ளே வா\" என்று சொல்லிக்கொண்டே பீன்ஸ் தூவுவார்கள்.",
+    "en": "On Setsubun, people throw beans, saying “Good luck, come in!”"
+   }
+  ]
+ }
+]

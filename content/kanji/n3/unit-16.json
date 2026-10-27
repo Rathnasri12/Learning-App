@@ -1,0 +1,865 @@
+{
+  "unit": 16,
+  "title": {
+    "en": "Society and duties",
+    "ta": "சமூகமும் கடமைகளும்"
+  },
+  "intro": {
+    "en": "In this unit you learn 13 kanji. Many are for society and work: 政 (politics), 経 (economy), 制 (system), 務 (duty) and 支 (support). Others are about people: 徒 (pupil), 笑 (laugh) and 願 (wish). Tip: 政 and 務 both have 攵, a hand holding a stick.",
+    "ta": "இந்தப் பாடத்தில் 13 கான்ஜிகளைக் கற்கிறீர்கள். பல சமூகம், வேலை பற்றியவை: 政 (அரசியல்), 経 (பொருளாதாரம்), 制 (அமைப்பு), 務 (கடமை), 支 (ஆதரவு). மற்றவை மனிதர்கள் பற்றியவை: 徒 (மாணவர்), 笑 (சிரி), 願 (வேண்டுகோள்). குறிப்பு: 政, 務 இரண்டிலும் 攵 (கம்பு பிடித்த கை) உண்டு."
+  },
+  "kanji": [
+    {
+      "kanji": "徒",
+      "meaning": {
+        "en": "pupil; on foot",
+        "ta": "மாணவர்; நடந்து"
+      },
+      "on": [
+        "と"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 彳, “going” (as in 行). On the right is 走 (run). Going and running, the pupils go to school on foot.",
+        "ta": "இடப்பக்கம் 彳: “போதல்” (行-இல் உள்ளது போல). வலப்பக்கம் 走 (ஓடு). நடந்தும் ஓடியும், மாணவர்கள் கால்நடையாகப் பள்ளிக்குப் போகிறார்கள்."
+      },
+      "note": {
+        "en": "生徒 (せいと) is a school pupil; 学生 (がくせい) is usually a college student.",
+        "ta": "生徒 (せいと) = பள்ளி மாணவர்; 学生 (がくせい) = பெரும்பாலும் கல்லூரி மாணவர்."
+      },
+      "examples": [
+        {
+          "word": "生徒",
+          "reading": "せいと",
+          "en": "pupil, school student",
+          "ta": "பள்ளி மாணவர்",
+          "vocabId": "n5-v-346"
+        },
+        {
+          "word": "徒歩",
+          "reading": "とほ",
+          "en": "on foot",
+          "ta": "நடந்து, கால்நடையாக"
+        },
+        {
+          "word": "生徒会",
+          "reading": "せいとかい",
+          "en": "student council",
+          "ta": "மாணவர் மன்றம்"
+        }
+      ]
+    },
+    {
+      "kanji": "欠",
+      "meaning": {
+        "en": "lack; be absent",
+        "ta": "குறை; இல்லாமை"
+      },
+      "on": [
+        "けつ"
+      ],
+      "kun": [
+        "か.ける",
+        "か.く"
+      ],
+      "mnemonic": {
+        "en": "A person (人) at the bottom, with a big open mouth on top. They are yawning because they lack sleep.",
+        "ta": "கீழே ஒருவர் (人), மேலே பெரிதாகத் திறந்த வாய். தூக்கம் குறைவு; அதனால் கொட்டாவி விடுகிறார்."
+      },
+      "note": {
+        "en": "This shape is also in 次 and 歌. 欠席 (けっせき) and 欠点 (けってん) have a small っ.",
+        "ta": "இந்த வடிவம் 次, 歌 இவற்றிலும் உண்டு. 欠席 (けっせき), 欠点 (けってん) இரண்டிலும் சிறிய っ."
+      },
+      "examples": [
+        {
+          "word": "欠席",
+          "reading": "けっせき",
+          "en": "absence",
+          "ta": "வராமை, வருகையின்மை",
+          "vocabId": "n3-v-0846"
+        },
+        {
+          "word": "欠点",
+          "reading": "けってん",
+          "en": "weak point, fault",
+          "ta": "குறை, பலவீனம்",
+          "vocabId": "n3-v-0848"
+        },
+        {
+          "word": "欠ける",
+          "reading": "かける",
+          "en": "to be missing, to lack",
+          "ta": "குறைய, இல்லாமல் இருக்க",
+          "vocabId": "n3-v-0596"
+        },
+        {
+          "word": "欠く",
+          "reading": "かく",
+          "en": "to lack",
+          "ta": "இல்லாமல் இருக்க",
+          "vocabId": "n3-v-1235"
+        }
+      ]
+    },
+    {
+      "kanji": "願",
+      "meaning": {
+        "en": "wish, request",
+        "ta": "வேண்டுகோள், விருப்பம்"
+      },
+      "on": [
+        "がん"
+      ],
+      "kun": [
+        "ねが.う"
+      ],
+      "mnemonic": {
+        "en": "On the left is 原 (field, source). On the right is 頁, a head. At the spring in the field, a person bows their head and prays: “Please!”",
+        "ta": "இடப்பக்கம் 原 (வயல், மூலம்). வலப்பக்கம் 頁: ஒரு தலை. வயலில் உள்ள ஊற்றின் அருகில் ஒருவர் தலை குனிந்து “தயவுசெய்து!” என்று வேண்டுகிறார்."
+      },
+      "note": {
+        "en": "You already know お願いします (おねがいします, please). Now you can write it in kanji.",
+        "ta": "お願いします (おねがいします, தயவுசெய்து) உங்களுக்கு ஏற்கனவே தெரியும். இப்போது அதைக் கான்ஜியில் எழுதலாம்."
+      },
+      "examples": [
+        {
+          "word": "お願い",
+          "reading": "おねがい",
+          "en": "request; please",
+          "ta": "வேண்டுகோள்; தயவுசெய்து"
+        },
+        {
+          "word": "願う",
+          "reading": "ねがう",
+          "en": "to wish, to ask for",
+          "ta": "விரும்ப, வேண்ட",
+          "vocabId": "n3-v-1699"
+        },
+        {
+          "word": "願い",
+          "reading": "ねがい",
+          "en": "wish",
+          "ta": "விருப்பம்",
+          "vocabId": "n3-v-1698"
+        },
+        {
+          "word": "願書",
+          "reading": "がんしょ",
+          "en": "application form",
+          "ta": "விண்ணப்பப் படிவம்"
+        }
+      ]
+    },
+    {
+      "kanji": "笑",
+      "meaning": {
+        "en": "laugh, smile",
+        "ta": "சிரி"
+      },
+      "on": [
+        "しょう"
+      ],
+      "kun": [
+        "わら.う",
+        "え.む"
+      ],
+      "mnemonic": {
+        "en": "On top is bamboo (⺮, as in 答). The two bamboo leaves look like two happy, closed eyes. Below, a person (夭, like 天) bends over with laughter.",
+        "ta": "மேலே மூங்கில் (⺮, 答-இல் உள்ளது போல). இரண்டு மூங்கில் இலைகளும் மகிழ்ச்சியில் மூடிய இரண்டு கண்கள் போல. கீழே ஒருவர் (夭, 天 போல) சிரிப்பில் குனிகிறார்."
+      },
+      "note": {
+        "en": "笑顔 (smiling face) has a special reading: えがお.",
+        "ta": "笑顔 (புன்னகை முகம்) சிறப்பு வாசிப்பு: えがお."
+      },
+      "examples": [
+        {
+          "word": "笑う",
+          "reading": "わらう",
+          "en": "to laugh, to smile",
+          "ta": "சிரிக்க",
+          "vocabId": "n4-v-498"
+        },
+        {
+          "word": "笑い",
+          "reading": "わらい",
+          "en": "laugh, laughter",
+          "ta": "சிரிப்பு",
+          "vocabId": "n3-v-1201"
+        },
+        {
+          "word": "笑顔",
+          "reading": "えがお",
+          "en": "smiling face",
+          "ta": "புன்னகை முகம்",
+          "vocabId": "n3-v-0473"
+        }
+      ]
+    },
+    {
+      "kanji": "束",
+      "meaning": {
+        "en": "bundle",
+        "ta": "கட்டு"
+      },
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "たば"
+      ],
+      "mnemonic": {
+        "en": "A tree (木) with a rope (口) tied round its middle. It is a bundle of sticks tied together.",
+        "ta": "நடுவில் கயிறு (口) கட்டிய ஒரு மரம் (木). அது ஒன்றாகக் கட்டிய குச்சிகளின் கட்டு."
+      },
+      "note": {
+        "en": "Don’t mix up 束 (bundle: 口 inside) and 東 (east: 日 inside).",
+        "ta": "束 (கட்டு: உள்ளே 口), 東 (கிழக்கு: உள்ளே 日) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "約束",
+          "reading": "やくそく",
+          "en": "promise, appointment",
+          "ta": "வாக்குறுதி, சந்திப்பு ஏற்பாடு",
+          "vocabId": "n4-v-537"
+        },
+        {
+          "word": "束",
+          "reading": "たば",
+          "en": "bundle, bunch",
+          "ta": "கட்டு, கொத்து",
+          "vocabId": "n3-v-1421"
+        },
+        {
+          "word": "花束",
+          "reading": "はなたば",
+          "en": "bunch of flowers",
+          "ta": "பூங்கொத்து"
+        }
+      ]
+    },
+    {
+      "kanji": "折",
+      "meaning": {
+        "en": "fold, break",
+        "ta": "மடி, முறி"
+      },
+      "on": [
+        "せつ"
+      ],
+      "kun": [
+        "お.る",
+        "お.れる"
+      ],
+      "mnemonic": {
+        "en": "On the left is a hand (扌, as in 持). On the right is 斤, an axe (as in 新 and 近). The hand uses the axe to break a stick in two.",
+        "ta": "இடப்பக்கம் ஒரு கை (扌, 持-இல் உள்ளது போல). வலப்பக்கம் 斤: ஒரு கோடரி (新, 近-இல் உள்ளது போல). கை கோடரியால் ஒரு குச்சியை இரண்டாக முறிக்கிறது."
+      },
+      "note": {
+        "en": "折る (おる) = to break or fold something; 折れる (おれる) = to break by itself. 右折 (うせつ) is a right turn.",
+        "ta": "折る (おる) = ஒன்றை முறி அல்லது மடி; 折れる (おれる) = தானாக முறி. 右折 (うせつ) = வலது திருப்பம்."
+      },
+      "examples": [
+        {
+          "word": "折る",
+          "reading": "おる",
+          "en": "to break, to fold",
+          "ta": "முறிக்க, மடிக்க",
+          "vocabId": "n4-v-020"
+        },
+        {
+          "word": "折れる",
+          "reading": "おれる",
+          "en": "to break, to be folded",
+          "ta": "முறிய",
+          "vocabId": "n4-v-427"
+        },
+        {
+          "word": "右折",
+          "reading": "うせつ",
+          "en": "right turn",
+          "ta": "வலது திருப்பம்"
+        },
+        {
+          "word": "左折",
+          "reading": "させつ",
+          "en": "left turn",
+          "ta": "இடது திருப்பம்"
+        }
+      ]
+    },
+    {
+      "kanji": "政",
+      "meaning": {
+        "en": "politics, government",
+        "ta": "அரசியல், ஆட்சி"
+      },
+      "on": [
+        "せい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 正 (correct). On the right is 攵, a hand with a stick. The ruler uses the stick to keep the country correct and in order. That is government.",
+        "ta": "இடப்பக்கம் 正 (சரியான). வலப்பக்கம் 攵: கம்பு பிடித்த கை. ஆட்சியாளர் அந்தக் கம்பால் நாட்டைச் சரியாக, ஒழுங்காக வைக்கிறார். அதுதான் ஆட்சி."
+      },
+      "examples": [
+        {
+          "word": "政治",
+          "reading": "せいじ",
+          "en": "politics",
+          "ta": "அரசியல்",
+          "vocabId": "n4-v-466"
+        },
+        {
+          "word": "政治家",
+          "reading": "せいじか",
+          "en": "politician",
+          "ta": "அரசியல்வாதி"
+        },
+        {
+          "word": "行政",
+          "reading": "ぎょうせい",
+          "en": "administration",
+          "ta": "நிர்வாகம்"
+        }
+      ]
+    },
+    {
+      "kanji": "経",
+      "meaning": {
+        "en": "pass through; economy",
+        "ta": "கட; பொருளாதாரம்"
+      },
+      "on": [
+        "けい"
+      ],
+      "kun": [
+        "た.つ",
+        "へ.る"
+      ],
+      "mnemonic": {
+        "en": "On the left is 糸, thread. On the right, a hand (又) over the ground (土). At a loom, a hand pulls the long threads through. Time passes like a long thread.",
+        "ta": "இடப்பக்கம் 糸: நூல். வலப்பக்கம் தரையின் (土) மேல் ஒரு கை (又). தறியில் ஒரு கை நீண்ட நூல்களை இழுத்துக் கடத்துகிறது. காலமும் நீண்ட நூல் போலக் கடந்து போகிறது."
+      },
+      "note": {
+        "en": "経つ (たつ) is used for time passing: 一年が 経つ. Don’t mix it up with 立つ (stand).",
+        "ta": "காலம் கடப்பதற்கு 経つ (たつ): 一年が 経つ. 立つ (நில்)-உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "経済",
+          "reading": "けいざい",
+          "en": "economy",
+          "ta": "பொருளாதாரம்",
+          "vocabId": "n4-v-405"
+        },
+        {
+          "word": "経験",
+          "reading": "けいけん",
+          "en": "experience",
+          "ta": "அனுபவம்",
+          "vocabId": "n4-v-597"
+        },
+        {
+          "word": "経つ",
+          "reading": "たつ",
+          "en": "(time) to pass",
+          "ta": "(காலம்) கடக்க",
+          "vocabId": "n3-v-1412"
+        },
+        {
+          "word": "神経",
+          "reading": "しんけい",
+          "en": "nerve",
+          "ta": "நரம்பு",
+          "vocabId": "n3-v-0185"
+        }
+      ]
+    },
+    {
+      "kanji": "現",
+      "meaning": {
+        "en": "present; appear",
+        "ta": "தற்போது; தோன்று"
+      },
+      "on": [
+        "げん"
+      ],
+      "kun": [
+        "あらわ.れる"
+      ],
+      "mnemonic": {
+        "en": "On the left, 王 stands for a jewel (玉) here. On the right is 見 (see). A jewel that you can see in front of you right now: it appears, it is real.",
+        "ta": "இடப்பக்கம் உள்ள 王 இங்கே ஒரு ரத்தினம் (玉). வலப்பக்கம் 見 (பார்). இப்போதே உங்கள் கண்முன் பார்க்க முடிகிற ரத்தினம்: அது தோன்றுகிறது, அது நிஜம்."
+      },
+      "examples": [
+        {
+          "word": "現在",
+          "reading": "げんざい",
+          "en": "now, the present",
+          "ta": "தற்போது",
+          "vocabId": "n3-v-0860"
+        },
+        {
+          "word": "現金",
+          "reading": "げんきん",
+          "en": "cash",
+          "ta": "ரொக்கப் பணம்",
+          "vocabId": "n3-v-0856"
+        },
+        {
+          "word": "現実",
+          "reading": "げんじつ",
+          "en": "reality",
+          "ta": "நிஜம், யதார்த்தம்",
+          "vocabId": "n3-v-0861"
+        },
+        {
+          "word": "現れる",
+          "reading": "あらわれる",
+          "en": "to appear",
+          "ta": "தோன்ற",
+          "vocabId": "n3-v-0346"
+        }
+      ]
+    },
+    {
+      "kanji": "性",
+      "meaning": {
+        "en": "nature; gender",
+        "ta": "இயல்பு; பாலினம்"
+      },
+      "on": [
+        "せい",
+        "しょう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 忄, the heart standing up. On the right is 生 (born, life). The heart you are born with is your nature.",
+        "ta": "இடப்பக்கம் 忄: நிமிர்ந்து நிற்கும் இதயம். வலப்பக்கம் 生 (பிறப்பு, உயிர்). பிறக்கும்போதே உங்களுடன் வரும் இதயம்தான் உங்கள் இயல்பு."
+      },
+      "note": {
+        "en": "In 相性 (あいしょう, how well two people match) it is read しょう.",
+        "ta": "相性 (あいしょう, இருவருக்கிடையே பொருத்தம்)-இல் இதை しょう என்று படிக்கவும்."
+      },
+      "examples": [
+        {
+          "word": "男性",
+          "reading": "だんせい",
+          "en": "man, male",
+          "ta": "ஆண்",
+          "vocabId": "n4-v-354"
+        },
+        {
+          "word": "女性",
+          "reading": "じょせい",
+          "en": "woman, female",
+          "ta": "பெண்",
+          "vocabId": "n4-v-367"
+        },
+        {
+          "word": "性格",
+          "reading": "せいかく",
+          "en": "personality",
+          "ta": "குணம், சுபாவம்",
+          "vocabId": "n3-v-0260"
+        },
+        {
+          "word": "相性",
+          "reading": "あいしょう",
+          "en": "how well two people match",
+          "ta": "பொருத்தம் (இருவருக்கிடையே)"
+        }
+      ]
+    },
+    {
+      "kanji": "制",
+      "meaning": {
+        "en": "system, control",
+        "ta": "அமைப்பு, கட்டுப்பாடு"
+      },
+      "on": [
+        "せい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a small tree with many branches. On the right is a knife (刂, as in 別 and 前). The gardener cuts the branches to keep the tree in shape. Rules keep things under control.",
+        "ta": "இடப்பக்கம் நிறையக் கிளைகள் உள்ள ஒரு சின்ன மரம். வலப்பக்கம் ஒரு கத்தி (刂, 別, 前-இல் உள்ளது போல). மரத்தை நல்ல வடிவில் வைக்கத் தோட்டக்காரர் கிளைகளை வெட்டுகிறார். விதிகள் எல்லாவற்றையும் கட்டுப்பாட்டில் வைக்கின்றன."
+      },
+      "examples": [
+        {
+          "word": "制度",
+          "reading": "せいど",
+          "en": "system",
+          "ta": "முறை, அமைப்பு",
+          "vocabId": "n3-v-0278"
+        },
+        {
+          "word": "制限",
+          "reading": "せいげん",
+          "en": "limit, restriction",
+          "ta": "வரம்பு, கட்டுப்பாடு",
+          "vocabId": "n3-v-0266"
+        },
+        {
+          "word": "制服",
+          "reading": "せいふく",
+          "en": "uniform",
+          "ta": "சீருடை"
+        },
+        {
+          "word": "規制",
+          "reading": "きせい",
+          "en": "regulation",
+          "ta": "ஒழுங்குமுறை",
+          "vocabId": "n3-v-1259"
+        }
+      ]
+    },
+    {
+      "kanji": "務",
+      "meaning": {
+        "en": "duty, task",
+        "ta": "கடமை, பணி"
+      },
+      "on": [
+        "む"
+      ],
+      "kun": [
+        "つと.める"
+      ],
+      "mnemonic": {
+        "en": "On the left is 矛, a spear. On the right is 攵, a hand with a stick, and under it is 力 (power). A guard holds his spear and stick and does his duty with all his power.",
+        "ta": "இடப்பக்கம் 矛: ஈட்டி. வலப்பக்கம் 攵: கம்பு பிடித்த கை; அதன் கீழ் 力 (சக்தி). ஒரு காவலர் ஈட்டியையும் கம்பையும் பிடித்து, முழு சக்தியுடன் தன் கடமையைச் செய்கிறார்."
+      },
+      "note": {
+        "en": "務める (つとめる) = to serve in a role, like leader or host. 努める (つとめる) = to try hard.",
+        "ta": "務める (つとめる) = தலைவர், தொகுப்பாளர் போன்ற ஒரு பொறுப்பில் பணியாற்று. 努める (つとめる) = கடுமையாக முயல்."
+      },
+      "examples": [
+        {
+          "word": "事務所",
+          "reading": "じむしょ",
+          "en": "office",
+          "ta": "அலுவலகம்",
+          "vocabId": "n4-v-192"
+        },
+        {
+          "word": "公務員",
+          "reading": "こうむいん",
+          "en": "government worker",
+          "ta": "அரசு ஊழியர்",
+          "vocabId": "n4-v-272"
+        },
+        {
+          "word": "事務",
+          "reading": "じむ",
+          "en": "office work",
+          "ta": "அலுவலக வேலை"
+        },
+        {
+          "word": "務める",
+          "reading": "つとめる",
+          "en": "to serve as",
+          "ta": "(ஒரு பொறுப்பில்) பணியாற்ற"
+        }
+      ]
+    },
+    {
+      "kanji": "支",
+      "meaning": {
+        "en": "support; branch",
+        "ta": "தாங்கு; கிளை"
+      },
+      "on": [
+        "し"
+      ],
+      "kun": [
+        "ささ.える"
+      ],
+      "mnemonic": {
+        "en": "On top is 十, a branch. Under it is 又, a hand. A hand holds up the branch so it does not fall. It supports it.",
+        "ta": "மேலே 十: ஒரு கிளை. அதன் கீழ் 又: ஒரு கை. கிளை விழாமல் இருக்க ஒரு கை அதைத் தாங்கிப் பிடிக்கிறது."
+      },
+      "note": {
+        "en": "支度 (したく) means getting ready: 出かける 支度を する.",
+        "ta": "支度 (したく) = தயாராகுதல்: 出かける 支度を する."
+      },
+      "examples": [
+        {
+          "word": "支える",
+          "reading": "ささえる",
+          "en": "to support",
+          "ta": "தாங்க, ஆதரிக்க",
+          "vocabId": "n3-v-0983"
+        },
+        {
+          "word": "支店",
+          "reading": "してん",
+          "en": "branch (office, shop)",
+          "ta": "கிளை (அலுவலகம், கடை)",
+          "vocabId": "n3-v-0064"
+        },
+        {
+          "word": "支払う",
+          "reading": "しはらう",
+          "en": "to pay",
+          "ta": "பணம் செலுத்த",
+          "vocabId": "n3-v-0074"
+        },
+        {
+          "word": "支度",
+          "reading": "したく",
+          "en": "preparation",
+          "ta": "தயாராகுதல்",
+          "vocabId": "n4-v-418"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU16-q01",
+        "type": "kanji_reading",
+        "sentence": "この 学校には ＿生徒＿が 五百人 います。",
+        "target": "生徒",
+        "options": [
+          "せいと",
+          "せいど",
+          "せと",
+          "しょうと"
+        ],
+        "answer": 0,
+        "explanation_en": "生徒 is read せいと (பள்ளி மாணவர், pupil). せいど has a voiced ど, and せと is missing the long い.",
+        "explanation_ta": "生徒 = せいと (பள்ளி மாணவர், pupil). せいど-இல் ど; せと-இல் நீண்ட い இல்லை; தவறு."
+      },
+      {
+        "id": "KU16-q02",
+        "type": "kanji_reading",
+        "sentence": "かぜで 学校を ＿欠席＿しました。",
+        "target": "欠席",
+        "options": [
+          "けつせき",
+          "けっせき",
+          "けっせぎ",
+          "けせき"
+        ],
+        "answer": 1,
+        "explanation_en": "欠席 is read けっせき (வராமை, absence): けつ becomes けっ. けつせき does not change the sound, and けせき has no っ.",
+        "explanation_ta": "欠席 = けっせき (வராமை, absence): けつ → けっ. けつせき-இல் இந்த மாற்றம் இல்லை; けせき-இல் っ இல்லை."
+      },
+      {
+        "id": "KU16-q03",
+        "type": "kanji_reading",
+        "sentence": "先生に ＿お願い＿が あります。",
+        "target": "お願い",
+        "options": [
+          "おねかい",
+          "おがんい",
+          "おねがい",
+          "おねがえ"
+        ],
+        "answer": 2,
+        "explanation_en": "お願い is read おねがい (வேண்டுகோள், request). おねかい has an unvoiced か, and おがんい uses the on reading がん.",
+        "explanation_ta": "お願い = おねがい (வேண்டுகோள், request). おねかい-இல் か; おがんい-இல் ஆன் வாசிப்பு がん; தவறு."
+      },
+      {
+        "id": "KU16-q04",
+        "type": "kanji_reading",
+        "sentence": "彼女の ＿笑顔＿は すてきです。",
+        "target": "笑顔",
+        "options": [
+          "わらいがお",
+          "しょうがん",
+          "えかお",
+          "えがお"
+        ],
+        "answer": 3,
+        "explanation_en": "笑顔 has a special reading: えがお (புன்னகை முகம், smiling face). わらいがお and しょうがん use the normal readings, so they are wrong.",
+        "explanation_ta": "笑顔-க்குச் சிறப்பு வாசிப்பு: えがお (புன்னகை முகம், smiling face). わらいがお, しょうがん சாதாரண வாசிப்புகள்; தவறு."
+      },
+      {
+        "id": "KU16-q05",
+        "type": "kanji_reading",
+        "sentence": "友達と 会う ＿約束＿を しました。",
+        "target": "約束",
+        "options": [
+          "やくぞく",
+          "やくそく",
+          "やくそっく",
+          "やっそく"
+        ],
+        "answer": 1,
+        "explanation_en": "約束 is read やくそく (வாக்குறுதி, promise). やくぞく has a voiced ぞ, and やくそっく has an extra small っ.",
+        "explanation_ta": "約束 = やくそく (வாக்குறுதி, promise). やくぞく-இல் ぞ; やくそっく-இல் கூடுதல் சிறிய っ; தவறு."
+      },
+      {
+        "id": "KU16-q06",
+        "type": "kanji_reading",
+        "sentence": "強い 風で 木の えだが ＿折れて＿ しまいました。",
+        "target": "折れて",
+        "options": [
+          "おりて",
+          "せつれて",
+          "おれて",
+          "おれって"
+        ],
+        "answer": 2,
+        "explanation_en": "折れて is read おれて (முறிந்து, broke). おりて is 降りて (get off), and せつれて mixes in the on reading せつ.",
+        "explanation_ta": "折れて = おれて (முறிந்து, broke). おりて என்பது 降りて (இறங்கி); せつれて-இல் ஆன் வாசிப்பு せつ; தவறு."
+      },
+      {
+        "id": "KU16-q07",
+        "type": "kanji_reading",
+        "sentence": "日本の ＿政治＿に ついて 勉強して います。",
+        "target": "政治",
+        "options": [
+          "せいち",
+          "せじ",
+          "しょうじ",
+          "せいじ"
+        ],
+        "answer": 3,
+        "explanation_en": "政治 is read せいじ (அரசியல், politics). せいち has ち instead of じ, and せじ is missing the long い.",
+        "explanation_ta": "政治 = せいじ (அரசியல், politics). せいち-இல் じ-க்குப் பதில் ち; せじ-இல் நீண்ட い இல்லை; தவறு."
+      },
+      {
+        "id": "KU16-q08",
+        "type": "kanji_reading",
+        "sentence": "＿経済＿の ニュースを 読みます。",
+        "target": "経済",
+        "options": [
+          "けいざい",
+          "けいさい",
+          "きょうざい",
+          "けざい"
+        ],
+        "answer": 0,
+        "explanation_en": "経済 is read けいざい (பொருளாதாரம், economy). けいさい has an unvoiced さ, and きょう is a rare reading of 経.",
+        "explanation_ta": "経済 = けいざい (பொருளாதாரம், economy). けいさい-இல் さ (குரலற்றது); きょう என்பது 経-இன் அரிய வாசிப்பு; தவறு."
+      },
+      {
+        "id": "KU16-q09",
+        "type": "kanji_reading",
+        "sentence": "＿現在＿、東京に 住んで います。",
+        "target": "現在",
+        "options": [
+          "げんさい",
+          "けんざい",
+          "げんざい",
+          "げざい"
+        ],
+        "answer": 2,
+        "explanation_en": "現在 is read げんざい (தற்போது, now). げんさい has an unvoiced さ, and けんざい has an unvoiced け.",
+        "explanation_ta": "現在 = げんざい (தற்போது, now). げんさい-இல் さ; けんざい-இல் け; இரண்டும் தவறு."
+      },
+      {
+        "id": "KU16-q10",
+        "type": "kanji_reading",
+        "sentence": "家族が いつも わたしを ＿支えて＿ くれます。",
+        "target": "支えて",
+        "options": [
+          "ささって",
+          "つかえて",
+          "さざえて",
+          "ささえて"
+        ],
+        "answer": 3,
+        "explanation_en": "支えて is read ささえて (தாங்கி, support). さざえて has a voiced ざ, and つかえて is a different word.",
+        "explanation_ta": "支えて = ささえて (தாங்கி, support). さざえて-இல் ざ; つかえて வேறு சொல்; தவறு."
+      },
+      {
+        "id": "KU16-q11",
+        "type": "orthography",
+        "sentence": "みんなで 大きな こえで ＿わらいました＿。",
+        "target": "わらいました",
+        "options": [
+          "竹いました",
+          "笑いました",
+          "答いました",
+          "咲いました"
+        ],
+        "answer": 1,
+        "explanation_en": "わらいました (சிரித்தோம், laughed) is written 笑いました. 竹 and 答 also have bamboo on top, and 咲 only looks a little like 笑.",
+        "explanation_ta": "わらいました (சிரித்தோம், laughed) = 笑いました. 竹, 答 இவற்றிலும் மேலே மூங்கில் உண்டு; 咲 பார்க்கக் கொஞ்சம் 笑 போல இருக்கும்."
+      },
+      {
+        "id": "KU16-q12",
+        "type": "orthography",
+        "sentence": "あの ＿じょせい＿は 私の 先生です。",
+        "target": "じょせい",
+        "options": [
+          "女性",
+          "女姓",
+          "女生",
+          "女制"
+        ],
+        "answer": 0,
+        "explanation_en": "じょせい (பெண், woman) is written 女性, with the heart 忄. 姓, 生 and 制 are also read せい, but they don’t mean nature or gender.",
+        "explanation_ta": "じょせい (பெண், woman) = 女性; இதயம் 忄 உண்டு. 姓, 生, 制 இவையும் せい; ஆனால் “இயல்பு, பாலினம்” என்ற பொருள் இல்லை."
+      },
+      {
+        "id": "KU16-q13",
+        "type": "orthography",
+        "sentence": "新しい ＿せいど＿が 始まりました。",
+        "target": "せいど",
+        "options": [
+          "製度",
+          "政度",
+          "正度",
+          "制度"
+        ],
+        "answer": 3,
+        "explanation_en": "せいど (முறை, system) is written 制度. 製, 政 and 正 are also read せい, and 製 even has 制 on top, but the word is 制度.",
+        "explanation_ta": "せいど (முறை, system) = 制度. 製, 政, 正 இவையும் せい; 製-இன் மேலே 制 கூட உண்டு; ஆனால் சொல் 制度."
+      },
+      {
+        "id": "KU16-q14",
+        "type": "orthography",
+        "sentence": "＿じむしょ＿は 三かいに あります。",
+        "target": "じむしょ",
+        "options": [
+          "事努所",
+          "事勢所",
+          "事務所",
+          "事霧所"
+        ],
+        "answer": 2,
+        "explanation_en": "じむしょ (அலுவலகம், office) is written 事務所. 努 and 勢 also have 力 at the bottom, and 霧 has 務 under rain, but only 務 is む for duty.",
+        "explanation_ta": "じむしょ (அலுவலகம், office) = 事務所. 努, 勢 இவற்றிலும் கீழே 力; 霧-இல் மழைக்குக் கீழ் 務. ஆனால் கடமை “む” 務 மட்டுமே."
+      },
+      {
+        "id": "KU16-q15",
+        "type": "orthography",
+        "sentence": "外国で 働いた ＿けいけん＿が あります。",
+        "target": "けいけん",
+        "options": [
+          "経験",
+          "軽験",
+          "径験",
+          "経検"
+        ],
+        "answer": 0,
+        "explanation_en": "けいけん (அனுபவம், experience) is written 経験. 軽 and 径 have the same right part and are also けい, and 検 is a different けん.",
+        "explanation_ta": "けいけん (அனுபவம், experience) = 経験. 軽, 径 இவற்றுக்கு அதே வலப்பகுதி, அவையும் けい; 検 வேறு けん."
+      },
+      {
+        "id": "KU16-q16",
+        "type": "orthography",
+        "sentence": "花の ＿たば＿を もらいました。",
+        "target": "たば",
+        "options": [
+          "東",
+          "束",
+          "速",
+          "未"
+        ],
+        "answer": 1,
+        "explanation_en": "たば (கொத்து, bunch) is written 束: a tree with a rope 口. 東 (east) has 日 inside, and 速 has 束 plus the road 辶.",
+        "explanation_ta": "たば (கொத்து, bunch) = 束: கயிறு 口 கட்டிய மரம். 東 (கிழக்கு)-இன் உள்ளே 日; 速-இல் 束-உடன் சாலை 辶."
+      }
+    ]
+  }
+}

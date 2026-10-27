@@ -1,0 +1,399 @@
+{
+  "unit": 3,
+  "title": { "en": "Parks, animals and the sky", "ta": "பூங்கா, விலங்குகள், வானம்" },
+  "intro": {
+    "en": "In this unit you will learn fourteen kanji: parks, horses, ships, pictures, sunny weather, snow and more. Look for the parts you know: rain (雨) is on top of snow, a bird (鳥) is inside “cry”, and thread (糸) is in “picture”. Each part tells a piece of the story.",
+    "ta": "இந்தப் பிரிவில் பதினான்கு கான்ஜிகளைக் கற்போம்: பூங்கா, குதிரை, கப்பல், ஓவியம், வெயில், பனி மற்றும் பல. நீங்கள் அறிந்த பகுதிகளைத் தேடுங்கள்: பனியின் மேல் மழை (雨), “கத்துதல்”-க்குள் பறவை (鳥), “ஓவியம்”-க்குள் நூல் (糸). ஒவ்வொரு பகுதியும் கதையின் ஒரு துண்டைச் சொல்கிறது."
+  },
+  "kanji": [
+    {
+      "kanji": "園",
+      "meaning": { "en": "garden, park", "ta": "தோட்டம், பூங்கா" },
+      "on": ["えん"],
+      "kun": ["その"],
+      "mnemonic": {
+        "en": "A big fence (囗) goes all the way around. Inside are soil (土), a small pond (口) and plants hanging down like long robes. A fenced place with soil, water and plants is a garden.",
+        "ta": "சுற்றிலும் ஒரு பெரிய வேலி (囗). உள்ளே மண் (土), ஒரு சிறு குளம் (口), நீண்ட ஆடை போலத் தொங்கும் செடிகள். மண், நீர், செடிகள் உள்ள வேலியிட்ட இடம் = தோட்டம்!"
+      },
+      "note": {
+        "en": "園 and 遠 (far) are both えん. 園 has a fence (囗) around it; 遠 has a road (⻌) under it.",
+        "ta": "園, 遠 (தூரம்) இரண்டும் えん. 園-ஐச் சுற்றி வேலி (囗); 遠-இன் கீழ் சாலை (⻌)."
+      },
+      "examples": [
+        { "word": "公園", "reading": "こうえん", "en": "park", "ta": "பூங்கா", "vocabId": "n5-v-245" },
+        { "word": "動物園", "reading": "どうぶつえん", "en": "zoo", "ta": "மிருகக்காட்சிசாலை", "vocabId": "n4-v-127" },
+        { "word": "学園", "reading": "がくえん", "en": "school, academy", "ta": "கல்விக்கூடம்" },
+        { "word": "花園", "reading": "はなぞの", "en": "flower garden", "ta": "பூந்தோட்டம்" }
+      ]
+    },
+    {
+      "kanji": "馬",
+      "meaning": { "en": "horse", "ta": "குதிரை" },
+      "on": ["ば"],
+      "kun": ["うま"],
+      "mnemonic": {
+        "en": "A horse seen from the side, standing up. The top lines are its head and long mane blowing in the wind. The four dots at the bottom are its four legs, running fast.",
+        "ta": "பக்கவாட்டில் நிமிர்ந்து நிற்கும் குதிரை. மேலே உள்ள கோடுகள் அதன் தலையும் காற்றில் பறக்கும் நீண்ட பிடரி மயிரும். அடியில் உள்ள நான்கு புள்ளிகள் வேகமாக ஓடும் அதன் நான்கு கால்கள்!"
+      },
+      "note": {
+        "en": "鳥 (bird) also has four dots at the bottom. 馬車 (ばしゃ) is a horse cart, like a jutka.",
+        "ta": "鳥 (பறவை)-க்கும் அடியில் நான்கு புள்ளிகள் உண்டு. 馬車 (ばしゃ) = குதிரை வண்டி (ஜட்கா போல)."
+      },
+      "examples": [
+        { "word": "馬", "reading": "うま", "en": "horse", "ta": "குதிரை", "vocabId": "n3-v-0455" },
+        { "word": "馬車", "reading": "ばしゃ", "en": "horse cart", "ta": "குதிரை வண்டி" },
+        { "word": "馬力", "reading": "ばりき", "en": "horsepower; energy", "ta": "குதிரைத் திறன்; வலிமை" }
+      ]
+    },
+    {
+      "kanji": "顔",
+      "meaning": { "en": "face", "ta": "முகம்" },
+      "on": ["がん"],
+      "kun": ["かお"],
+      "mnemonic": {
+        "en": "On the left, a young man stands (立) in front of a mirror and combs his hair: the three strokes (彡). On the right is 頁, the head. He is getting his face ready.",
+        "ta": "இடப்புறம், ஒரு இளைஞன் கண்ணாடி முன் நின்று (立) தலை சீவுகிறான்: மூன்று கோடுகள் (彡). வலப்புறம் 頁: தலை. அவன் தன் முகத்தை அழகாகத் தயார் செய்கிறான்!"
+      },
+      "note": {
+        "en": "笑顔 (smile, smiling face) has a special reading: えがお.",
+        "ta": "笑顔 (புன்னகை முகம்) சிறப்பு வாசிப்பு கொண்டது: えがお."
+      },
+      "examples": [
+        { "word": "顔", "reading": "かお", "en": "face", "ta": "முகம்", "vocabId": "n5-v-152" },
+        { "word": "笑顔", "reading": "えがお", "en": "smiling face, smile", "ta": "புன்னகை முகம்", "vocabId": "n3-v-0473" },
+        { "word": "顔色", "reading": "かおいろ", "en": "complexion; how someone looks", "ta": "முகத்தின் நிறம் (உடல்நிலை தெரியும்)" },
+        { "word": "洗顔", "reading": "せんがん", "en": "washing your face", "ta": "முகம் கழுவுதல்" }
+      ]
+    },
+    {
+      "kanji": "船",
+      "meaning": { "en": "ship, boat", "ta": "கப்பல், படகு" },
+      "on": ["せん"],
+      "kun": ["ふね"],
+      "mnemonic": {
+        "en": "On the left is 舟, a small boat. On the right, eight (八) mouths (口): eight people. A boat that carries eight people and more is a real ship.",
+        "ta": "இடப்புறம் 舟: ஒரு சிறிய படகு. வலப்புறம் எட்டு (八) வாய்கள் (口): எட்டு பேர். எட்டுப் பேருக்கு மேல் ஏற்றிச் செல்லும் படகுதான் உண்மையான கப்பல்!"
+      },
+      "note": {
+        "en": "Before some words, ふね becomes ふな: 船便 (ふなびん, sea mail). 風船 (ふうせん) is a balloon, a “wind ship”.",
+        "ta": "சில சொற்களுக்கு முன் ふね → ふな: 船便 (ふなびん, கடல் அஞ்சல்). 風船 (ふうせん) = பலூன், “காற்றுக் கப்பல்”."
+      },
+      "examples": [
+        { "word": "船", "reading": "ふね", "en": "ship, boat", "ta": "கப்பல்" },
+        { "word": "船便", "reading": "ふなびん", "en": "sea mail", "ta": "கப்பல் அஞ்சல்" },
+        { "word": "風船", "reading": "ふうせん", "en": "balloon", "ta": "பலூன்" },
+        { "word": "船長", "reading": "せんちょう", "en": "ship’s captain", "ta": "கப்பல் தலைவர் (மாலுமி)" }
+      ]
+    },
+    {
+      "kanji": "遠",
+      "meaning": { "en": "far", "ta": "தூரம்" },
+      "on": ["えん"],
+      "kun": ["とお.い"],
+      "mnemonic": {
+        "en": "Under it is a road (⻌). On top is a traveller in a long robe: soil (土), a mouth (口) and a long hem. He walks and walks along the road with his robe flapping. He is going far away.",
+        "ta": "கீழே ஒரு சாலை (⻌). மேலே நீண்ட அங்கி அணிந்த ஒரு பயணி: மண் (土), வாய் (口), நீண்ட அங்கியின் ஓரம். அங்கி படபடக்க அவர் சாலையில் நடந்துகொண்டே இருக்கிறார். மிகத் தூரம் போகிறார்!"
+      },
+      "note": {
+        "en": "Spell it とおい, with お, not とうい. 遠足 (えんそく) is a school trip.",
+        "ta": "とおい என்று お கொண்டு எழுதுங்கள்; とうい அல்ல. 遠足 (えんそく) = பள்ளிச் சுற்றுலா."
+      },
+      "examples": [
+        { "word": "遠い", "reading": "とおい", "en": "far", "ta": "தூரமான", "vocabId": "n5-v-452" },
+        { "word": "遠く", "reading": "とおく", "en": "far away; the distance", "ta": "தொலைவில்", "vocabId": "n4-v-425" },
+        { "word": "遠足", "reading": "えんそく", "en": "school trip, outing", "ta": "பள்ளிச் சுற்றுலா" }
+      ]
+    },
+    {
+      "kanji": "絵",
+      "meaning": { "en": "picture, drawing", "ta": "ஓவியம், படம்" },
+      "on": ["え", "かい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Thread (糸) + meet (会). Many colored threads meet on a cloth and make a picture, like the pictures woven into a silk saree.",
+        "ta": "நூல் (糸) + சந்தித்தல் (会). பல வண்ண நூல்கள் ஒரு துணியில் சந்தித்து ஒரு படத்தை உருவாக்குகின்றன, பட்டுப்புடவையில் நெய்த ஓவியங்கள் போல!"
+      },
+      "note": {
+        "en": "え looks like a kun reading, but it is an on reading. 絵 is the full kanji word for “picture”; 画 (picture, N4) is in 映画 and 絵画.",
+        "ta": "え குன் வாசிப்பு போலத் தோன்றினாலும் அது ஆன் வாசிப்பு. “படம்” என்பதற்குத் தனிச் சொல் 絵; 画 (படம், N4) 映画, 絵画 போன்றவற்றில் வரும்."
+      },
+      "examples": [
+        { "word": "絵", "reading": "え", "en": "picture, painting", "ta": "ஓவியம் (படம்)", "vocabId": "n5-v-087" },
+        { "word": "絵本", "reading": "えほん", "en": "picture book", "ta": "படப் புத்தகம்" },
+        { "word": "絵画", "reading": "かいが", "en": "painting, picture", "ta": "ஓவியம்", "vocabId": "n3-v-0552" }
+      ]
+    },
+    {
+      "kanji": "晴",
+      "meaning": { "en": "clear, sunny", "ta": "தெளிவான வானம், வெயில்" },
+      "on": ["せい"],
+      "kun": ["は.れる", "は.れ"],
+      "mnemonic": {
+        "en": "The sun (日) on the left and blue (青) on the right. The sun is out and the sky is blue: the weather is clear and sunny.",
+        "ta": "இடப்புறம் சூரியன் (日), வலப்புறம் நீலம் (青). சூரியன் வெளியே, வானம் நீலம்: தெளிவான வெயில் நாள்!"
+      },
+      "note": {
+        "en": "晴れ = sunny weather (noun); 晴れる = to clear up (verb). Don’t mix up 晴 (日 + 青) with 清 (clean: water + 青).",
+        "ta": "晴れ = வெயில் (பெயர்ச்சொல்); 晴れる = வானம் தெளிய (வினை). 晴 (日 + 青), 清 (சுத்தம்: நீர் + 青) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "晴れ", "reading": "はれ", "en": "clear (sunny) weather", "ta": "தெளிந்த வானம் (வெயில்)", "vocabId": "n5-v-547" },
+        { "word": "晴れる", "reading": "はれる", "en": "to clear up", "ta": "வானம் தெளிய (வெயில் வர)", "vocabId": "n5-v-548" },
+        { "word": "晴天", "reading": "せいてん", "en": "fine weather", "ta": "நல்ல வானிலை" }
+      ]
+    },
+    {
+      "kanji": "雪",
+      "meaning": { "en": "snow", "ta": "பனி" },
+      "on": ["せつ"],
+      "kun": ["ゆき"],
+      "mnemonic": {
+        "en": "Rain (雨) on top. Under it is a hand holding a broom (ヨ). When the rain falls as white flakes that you must sweep away with a broom, it is snow.",
+        "ta": "மேலே மழை (雨). அதன் கீழ் துடைப்பம் பிடித்த கை (ヨ). விழும் மழை வெள்ளைச் செதில்களாக மாறி, துடைப்பத்தால் பெருக்க வேண்டியிருந்தால், அது பனி!"
+      },
+      "note": {
+        "en": "大雪 (heavy snow) is おおゆき. In 雪国 (snow country), くに becomes ぐに: ゆきぐに. Don’t mix up 雪 and 雲 (cloud): both have 雨 on top.",
+        "ta": "大雪 (கடும் பனிப்பொழிவு) = おおゆき. 雪国 (பனி நாடு)-இல் くに → ぐに: ゆきぐに. 雪, 雲 (மேகம்) இரண்டையும் குழப்ப வேண்டாம்: இரண்டுக்கும் மேலே 雨 உண்டு."
+      },
+      "examples": [
+        { "word": "雪", "reading": "ゆき", "en": "snow", "ta": "பனி (ஸ்நோ)", "vocabId": "n5-v-681" },
+        { "word": "大雪", "reading": "おおゆき", "en": "heavy snow", "ta": "கடும் பனிப்பொழிவு" },
+        { "word": "雪国", "reading": "ゆきぐに", "en": "snow country", "ta": "பனி அதிகம் பெய்யும் பகுதி" }
+      ]
+    },
+    {
+      "kanji": "鳴",
+      "meaning": { "en": "cry (animal), ring", "ta": "(விலங்கு) கத்துதல், ஒலித்தல்" },
+      "on": ["めい"],
+      "kun": ["な.く", "な.る", "な.らす"],
+      "mnemonic": {
+        "en": "A mouth (口) next to a bird (鳥). The bird opens its mouth and sings, like a cuckoo calling in the morning.",
+        "ta": "பறவையின் (鳥) பக்கத்தில் ஒரு வாய் (口). காலையில் கூவும் குயில் போல, பறவை வாயைத் திறந்து பாடுகிறது!"
+      },
+      "note": {
+        "en": "鳴く is for animals and birds. When a person cries, it is 泣く, a different kanji. 鳴る = (a bell or phone) rings; 鳴らす = to ring it.",
+        "ta": "鳴く விலங்குகள், பறவைகளுக்கு மட்டும். மனிதர் அழுவது 泣く; அது வேறு கான்ஜி. 鳴る = (மணி, போன்) ஒலிக்க; 鳴らす = ஒலிக்கச் செய்ய."
+      },
+      "examples": [
+        { "word": "鳴く", "reading": "なく", "en": "to cry (animal); to sing (bird)", "ta": "(விலங்கு) கத்த / (பறவை) பாட", "vocabId": "n5-v-481" },
+        { "word": "鳴る", "reading": "なる", "en": "to ring; to sound", "ta": "ஒலிக்க", "vocabId": "n4-v-008" },
+        { "word": "鳴らす", "reading": "ならす", "en": "to ring; to sound", "ta": "ஒலிக்கச் செய்ய; (மணி) அடிக்க", "vocabId": "n3-v-1669" },
+        { "word": "鳴き声", "reading": "なきごえ", "en": "animal cry, bird song", "ta": "விலங்கின் சத்தம், பறவையின் பாட்டு" }
+      ]
+    },
+    {
+      "kanji": "才",
+      "meaning": { "en": "talent; years old", "ta": "திறமை; வயது" },
+      "on": ["さい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The flat line is the ground. A young sprout pushes up through it with a hook and a slanting leaf. The power to grow from inside is talent.",
+        "ta": "படுக்கைக் கோடு தரை. அதை முட்டிக்கொண்டு ஒரு இளம் முளை கொக்கியுடனும் சாய்ந்த இலையுடனும் மேலே வருகிறது. உள்ளிருந்து வளரும் சக்தியே திறமை!"
+      },
+      "note": {
+        "en": "才 is also an easy way to write age: 5才 = 5歳 (ごさい). Don’t mix up 才 with 寸 or 手.",
+        "ta": "வயதை எளிதாக எழுதவும் 才 பயன்படும்: 5才 = 5歳 (ごさい). 才-ஐ 寸, 手 ஆகியவற்றுடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "才能", "reading": "さいのう", "en": "talent", "ta": "திறமை", "vocabId": "n3-v-0966" },
+        { "word": "天才", "reading": "てんさい", "en": "genius", "ta": "மேதை" },
+        { "word": "五才", "reading": "ごさい", "en": "five years old", "ta": "ஐந்து வயது" }
+      ]
+    },
+    {
+      "kanji": "対",
+      "meaning": { "en": "opposite, against", "ta": "எதிர், எதிரான" },
+      "on": ["たい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 文 (writing). On the right is 寸, a hand with a thumb. Two people hold up their writings face to face and compare them, one against the other.",
+        "ta": "இடப்புறம் 文 (எழுத்து). வலப்புறம் 寸: கட்டைவிரலுடன் ஒரு கை. இருவர் தங்கள் எழுத்துகளை நேருக்கு நேர் தூக்கிப் பிடித்து ஒப்பிடுகிறார்கள்: ஒன்றுக்கு எதிர் ஒன்று!"
+      },
+      "note": {
+        "en": "絶対 (ぜったい) = absolutely. Be careful: it is 絶対, not 絶体.",
+        "ta": "絶対 (ぜったい) = நிச்சயமாக. கவனம்: 絶対 என்றுதான் எழுத வேண்டும்; 絶体 அல்ல."
+      },
+      "examples": [
+        { "word": "反対", "reading": "はんたい", "en": "opposition, against", "ta": "எதிர்ப்பு", "vocabId": "n4-v-304" },
+        { "word": "絶対", "reading": "ぜったい", "en": "definitely, absolutely", "ta": "நிச்சயமாக, கண்டிப்பாக", "vocabId": "n3-v-0294" },
+        { "word": "対する", "reading": "たいする", "en": "to face; to be against", "ta": "எதிர்கொள்ள; எதிர்க்க", "vocabId": "n3-v-1370" }
+      ]
+    },
+    {
+      "kanji": "部",
+      "meaning": { "en": "part, section", "ta": "பகுதி, பிரிவு" },
+      "on": ["ぶ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left, people stand (立) and talk with their mouths (口). On the right is ⻏, the sign for a village. The village is cut into parts, and each part has its own group talking.",
+        "ta": "இடப்புறம், மக்கள் நின்று (立) வாயால் (口) பேசுகிறார்கள். வலப்புறம் ⻏: கிராமத்தின் குறி. கிராமம் பல பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது; ஒவ்வொரு பகுதியிலும் ஒரு குழு பேசிக்கொண்டிருக்கிறது!"
+      },
+      "note": {
+        "en": "部屋 (room) has a special reading: へや.",
+        "ta": "部屋 (அறை) சிறப்பு வாசிப்பு கொண்டது: へや."
+      },
+      "examples": [
+        { "word": "部屋", "reading": "へや", "en": "room", "ta": "அறை", "vocabId": "n5-v-596" },
+        { "word": "全部", "reading": "ぜんぶ", "en": "all", "ta": "எல்லாம் (முழுவதும்)", "vocabId": "n5-v-357" },
+        { "word": "部長", "reading": "ぶちょう", "en": "department manager", "ta": "துறைத் தலைவர்", "vocabId": "n4-v-347" }
+      ]
+    },
+    {
+      "kanji": "相",
+      "meaning": { "en": "each other, partner", "ta": "ஒருவருக்கொருவர், துணை" },
+      "on": ["そう", "しょう"],
+      "kun": ["あい"],
+      "mnemonic": {
+        "en": "A tree (木) and an eye (目). You look at an old banyan tree, and the tree seems to look back at you. Looking at each other = mutual, partner.",
+        "ta": "மரம் (木) + கண் (目). ஒரு பழைய ஆலமரத்தை நீங்கள் பார்க்கிறீர்கள்; அந்த மரமும் உங்களைத் திரும்பிப் பார்ப்பது போலத் தோன்றுகிறது. ஒருவரை ஒருவர் பார்ப்பது = பரஸ்பரம், துணை!"
+      },
+      "note": {
+        "en": "相談 (talking something over) is そうだん. In 首相 (prime minister) it is しょう, and in 相手 (partner) it is あい.",
+        "ta": "相談 (கலந்து பேசுதல்) = そうだん. 首相 (பிரதமர்)-இல் しょう; 相手 (எதிராளி / துணை)-இல் あい."
+      },
+      "examples": [
+        { "word": "相談", "reading": "そうだん", "en": "talking something over; advice", "ta": "ஆலோசனை (கலந்து பேச)", "vocabId": "n4-v-629" },
+        { "word": "相手", "reading": "あいて", "en": "partner; the other person", "ta": "எதிர்த் தரப்பினர்; துணை", "vocabId": "n3-v-0302" },
+        { "word": "首相", "reading": "しゅしょう", "en": "prime minister", "ta": "பிரதமர்", "vocabId": "n3-v-0111" },
+        { "word": "相変わらず", "reading": "あいかわらず", "en": "as usual, as ever", "ta": "எப்போதும் போல", "vocabId": "n3-v-0297" }
+      ]
+    },
+    {
+      "kanji": "定",
+      "meaning": { "en": "decide, fix", "ta": "தீர்மானித்தல், நிர்ணயித்தல்" },
+      "on": ["てい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A roof (宀) on top. Under it is 正 (correct), with its foot changed a little. Under the roof of the house, the family sits and decides the correct plan. Now it is fixed.",
+        "ta": "மேலே ஒரு கூரை (宀). அதன் கீழ் 正 (சரியான); அதன் கால் பகுதி கொஞ்சம் மாறியுள்ளது. வீட்டுக் கூரையின் கீழ் குடும்பம் அமர்ந்து சரியான திட்டத்தைத் தீர்மானிக்கிறது. இனி அது நிர்ணயம்!"
+      },
+      "note": {
+        "en": "予定 (よてい) = a plan; 定食 (ていしょく) = a set meal, like a fixed meals plate.",
+        "ta": "予定 (よてい) = திட்டம்; 定食 (ていしょく) = நிர்ணயிக்கப்பட்ட சாப்பாடு, “மீல்ஸ்” போல."
+      },
+      "examples": [
+        { "word": "予定", "reading": "よてい", "en": "plan, schedule", "ta": "திட்டம், நிகழ்ச்சி நிரல்", "vocabId": "n4-v-261" },
+        { "word": "決定", "reading": "けってい", "en": "decision", "ta": "முடிவு", "vocabId": "n3-v-0847" },
+        { "word": "安定", "reading": "あんてい", "en": "stability", "ta": "நிலைத்தன்மை", "vocabId": "n3-v-0359" },
+        { "word": "定食", "reading": "ていしょく", "en": "set meal", "ta": "முழுச் சாப்பாடு (செட் மீல்)" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU3-q01", "type": "kanji_reading",
+        "sentence": "日曜日に ＿動物園＿へ 行きました。", "target": "動物園",
+        "options": ["どうぶつえん", "どうぶつおん", "どうぶつえ", "どうぶつぞの"], "answer": 0,
+        "explanation_en": "動物園 is read どうぶつえん (மிருகக்காட்சிசாலை, zoo). ぞの is the kun reading of 園 (as in 花園), and おん is a reading of 遠, not 園.",
+        "explanation_ta": "動物園 = どうぶつえん (மிருகக்காட்சிசாலை, zoo). ぞの என்பது 園-இன் குன் வாசிப்பு (花園 போல); おん என்பது 遠-இன் வாசிப்பு, 園-இன் அல்ல."
+      },
+      {
+        "id": "KU3-q02", "type": "kanji_reading",
+        "sentence": "家から 駅まで ＿遠い＿です。", "target": "遠い",
+        "options": ["とうい", "とおい", "とおおい", "えんい"], "answer": 1,
+        "explanation_en": "遠い is read とおい (தூரமான, far), spelled with お. とうい uses う for the long vowel, which is wrong for this word.",
+        "explanation_ta": "遠い = とおい (தூரமான, far); お கொண்டு எழுத வேண்டும். とうい-இல் நெடிலுக்கு う போட்டுள்ளனர்; இந்தச் சொல்லுக்கு அது தவறு."
+      },
+      {
+        "id": "KU3-q03", "type": "kanji_reading",
+        "sentence": "あの 子は いつも ＿笑顔＿です。", "target": "笑顔",
+        "options": ["わらいがお", "えかお", "えがお", "しょうがん"], "answer": 2,
+        "explanation_en": "笑顔 has a special reading: えがお (புன்னகை முகம், smiling face). えかお has no ゛, and しょうがん uses the on readings.",
+        "explanation_ta": "笑顔 சிறப்பு வாசிப்பு: えがお (புன்னகை முகம், smiling face). えかお-இல் ゛ இல்லை; しょうがん ஆன் வாசிப்புகள்."
+      },
+      {
+        "id": "KU3-q04", "type": "kanji_reading",
+        "sentence": "あしたは ＿晴れ＿でしょう。", "target": "晴れ",
+        "options": ["はらし", "ばれ", "せい", "はれ"], "answer": 3,
+        "explanation_en": "晴れ is read はれ (தெளிந்த வானம், sunny weather). ばれ has a wrong ゛, and せい is the on reading, used in 晴天.",
+        "explanation_ta": "晴れ = はれ (தெளிந்த வானம், sunny weather). ばれ-இல் தேவையில்லாத ゛; せい ஆன் வாசிப்பு, 晴天-இல் வரும்."
+      },
+      {
+        "id": "KU3-q05", "type": "kanji_reading",
+        "sentence": "けさ、たくさん ＿雪＿が ふりました。", "target": "雪",
+        "options": ["ゆぎ", "ゆき", "せつ", "ゆっき"], "answer": 1,
+        "explanation_en": "雪 is read ゆき (பனி, snow). ゆぎ has a wrong ゛, ゆっき has an extra っ, and せつ is the on reading.",
+        "explanation_ta": "雪 = ゆき (பனி, snow). ゆぎ-இல் தேவையில்லாத ゛; ゆっき-இல் கூடுதல் っ; せつ ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU3-q06", "type": "kanji_reading",
+        "sentence": "電話が ＿鳴って＿ います。", "target": "鳴って",
+        "options": ["なって", "めいって", "ないて", "なりって"], "answer": 0,
+        "explanation_en": "鳴って is read なって, from 鳴る (ஒலிக்க, to ring). ないて would be 鳴いて, from 鳴く (an animal cries), and めい is the on reading.",
+        "explanation_ta": "鳴って = なって; 鳴る (ஒலிக்க, to ring). ないて என்றால் 鳴いて, 鳴く (விலங்கு கத்துதல்)-இலிருந்து; めい ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU3-q07", "type": "kanji_reading",
+        "sentence": "わたしは その 計画に ＿反対＿です。", "target": "反対",
+        "options": ["はんたいい", "ばんたい", "はんだい", "はんたい"], "answer": 3,
+        "explanation_en": "反対 is read はんたい (எதிர்ப்பு, against). ばんたい and はんだい have a ゛ in the wrong place.",
+        "explanation_ta": "反対 = はんたい (எதிர்ப்பு, against). ばんたい, はんだい-இல் தவறான இடத்தில் ゛ உள்ளது."
+      },
+      {
+        "id": "KU3-q08", "type": "kanji_reading",
+        "sentence": "この ＿部屋＿は ひろいです。", "target": "部屋",
+        "options": ["ぶや", "ぶおく", "へや", "へいや"], "answer": 2,
+        "explanation_en": "部屋 has a special reading: へや (அறை, room). ぶや and ぶおく use the normal readings of the kanji, which are wrong here.",
+        "explanation_ta": "部屋 சிறப்பு வாசிப்பு: へや (அறை, room). ぶや, ぶおく கான்ஜிகளின் வழக்கமான வாசிப்புகள்; இங்கே தவறு."
+      },
+      {
+        "id": "KU3-q09", "type": "kanji_reading",
+        "sentence": "こまった ときは 先生に ＿相談＿します。", "target": "相談",
+        "options": ["そだん", "あいだん", "そうだん", "しょうだん"], "answer": 2,
+        "explanation_en": "相談 is read そうだん (ஆலோசனை, consultation): long そう. そだん is too short, and あい is the kun reading of 相.",
+        "explanation_ta": "相談 = そうだん (ஆலோசனை, consultation): நெடில் そう. そだん குறிலாக உள்ளது; あい என்பது 相-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU3-q10", "type": "kanji_reading",
+        "sentence": "来週の ＿予定＿は まだ わかりません。", "target": "予定",
+        "options": ["よてい", "よでい", "よじょう", "ようてい"], "answer": 0,
+        "explanation_en": "予定 is read よてい (திட்டம், plan): short よ and てい without ゛. よでい has a wrong ゛, and ようてい is too long.",
+        "explanation_ta": "予定 = よてい (திட்டம், plan): குறில் よ, ゛ இல்லாத てい. よでい-இல் தேவையில்லாத ゛; ようてい நெடிலாக உள்ளது."
+      },
+      {
+        "id": "KU3-q11", "type": "orthography",
+        "sentence": "子どもが 花の ＿え＿を かいて います。", "target": "え",
+        "options": ["会", "絵", "給", "紙"], "answer": 1,
+        "explanation_en": "え (ஓவியம், picture) is 絵: thread (糸) + meet (会). 会 alone means meet, and 紙 (paper) and 給 also have 糸 but different meanings.",
+        "explanation_ta": "え (ஓவியம், picture) = 絵: நூல் (糸) + சந்தித்தல் (会). தனியாக 会 = சந்தித்தல்; 紙 (காகிதம்), 給-க்கும் 糸 உண்டு, ஆனால் பொருள் வேறு."
+      },
+      {
+        "id": "KU3-q12", "type": "orthography",
+        "sentence": "＿うま＿に のった ことが ありますか。", "target": "うま",
+        "options": ["鳥", "駅", "魚", "馬"], "answer": 3,
+        "explanation_en": "うま (குதிரை, horse) is 馬. 鳥 (bird) and 魚 (fish) also have four dots at the bottom. 駅 (station) has 馬 on the left.",
+        "explanation_ta": "うま (குதிரை, horse) = 馬. 鳥 (பறவை), 魚 (மீன்)-க்கும் அடியில் நான்கு புள்ளிகள் உண்டு. 駅 (நிலையம்)-இன் இடப்புறம் 馬."
+      },
+      {
+        "id": "KU3-q13", "type": "orthography",
+        "sentence": "大きな ＿ふね＿で 海を わたりました。", "target": "ふね",
+        "options": ["般", "舟", "鉛", "船"], "answer": 3,
+        "explanation_en": "ふね (கப்பல், ship) for a big ship is 船: a boat (舟) + eight (八) + mouth (口). 舟 is a small boat, and 般 and 鉛 only look similar.",
+        "explanation_ta": "பெரிய கப்பலுக்கு ふね (கப்பல், ship) = 船: படகு (舟) + எட்டு (八) + வாய் (口). 舟 சிறிய படகு; 般, 鉛 பார்வைக்கு மட்டுமே ஒத்தவை."
+      },
+      {
+        "id": "KU3-q14", "type": "orthography",
+        "sentence": "かれは 音楽の ＿さいのう＿が あります。", "target": "さいのう",
+        "options": ["歳能", "在能", "才能", "財能"], "answer": 2,
+        "explanation_en": "さいのう (திறமை, talent) is 才能. 歳 (age), 在 and 財 can also be read さい or ざい, but they do not make this word.",
+        "explanation_ta": "さいのう (திறமை, talent) = 才能. 歳 (வயது), 在, 財 ஆகியவையும் さい / ざい என வாசிக்கப்படலாம்; ஆனால் இந்தச் சொல்லை உருவாக்காது."
+      },
+      {
+        "id": "KU3-q15", "type": "orthography",
+        "sentence": "あしたは ＿ぜったい＿に 来て ください。", "target": "ぜったい",
+        "options": ["絶対", "絶体", "絶待", "絶代"], "answer": 0,
+        "explanation_en": "ぜったい (நிச்சயமாக, absolutely) is 絶対. 絶体 is the most common mistake: 体 (body) is also たい, but it is wrong here.",
+        "explanation_ta": "ぜったい (நிச்சயமாக, absolutely) = 絶対. 絶体 மிகவும் பொதுவான தவறு: 体 (உடல்)-உம் たい தான்; ஆனால் இங்கே தவறு."
+      },
+      {
+        "id": "KU3-q16", "type": "orthography",
+        "sentence": "子どもたちは ＿こうえん＿で あそんで います。", "target": "こうえん",
+        "options": ["公遠", "公園", "公円", "公員"], "answer": 1,
+        "explanation_en": "こうえん (பூங்கா, park) is 公園: 園 has a fence (囗) around a garden. 遠 (far) and 円 (yen) are also えん but wrong here.",
+        "explanation_ta": "こうえん (பூங்கா, park) = 公園: 園-க்குத் தோட்டத்தைச் சுற்றி வேலி (囗). 遠 (தூரம்), 円 (யென்) ஆகியவையும் えん; ஆனால் இங்கே தவறு."
+      }
+    ]
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "title": {
+    "en": "N3 kanji exam",
+    "ta": "N3 கான்ஜி தேர்வு"
+  },
+  "passMark": 0.7,
+  "items": [
+    {
+      "id": "KX-q01",
+      "type": "kanji_reading",
+      "sentence": "川の そばで きれいな ＿石＿を ひろいました。",
+      "target": "石",
+      "options": [
+        "いし",
+        "せき",
+        "いわ",
+        "こく"
+      ],
+      "answer": 0,
+      "explanation_en": "石 alone is read いし (கல், stone). せき is the on reading (石油 せきゆ); いわ is 岩 (rock).",
+      "explanation_ta": "தனி 石 = いし (கல், stone). せき என்பது on வாசிப்பு (石油 せきゆ); いわ என்பது 岩 (பாறை)."
+    },
+    {
+      "id": "KX-q02",
+      "type": "kanji_reading",
+      "sentence": "この テレビ ＿番組＿は おもしろいです。",
+      "target": "番組",
+      "options": [
+        "はんぐみ",
+        "ばんそ",
+        "ばんぐみ",
+        "ばんくみ"
+      ],
+      "answer": 2,
+      "explanation_en": "番組 is read ばんぐみ (நிகழ்ச்சி, TV programme). くみ becomes ぐみ after 番.",
+      "explanation_ta": "番組 = ばんぐみ (நிகழ்ச்சி, TV programme). 番 பின்னால் くみ என்பது ぐみ ஆகிறது."
+    },
+    {
+      "id": "KX-q03",
+      "type": "kanji_reading",
+      "sentence": "駅は ここから ＿遠い＿ ですか。",
+      "target": "遠い",
+      "options": [
+        "ちかい",
+        "とおい",
+        "とうい",
+        "えんい"
+      ],
+      "answer": 1,
+      "explanation_en": "遠い is read とおい (தொலைவான, far). It is spelled with お: とおい, not とうい. ちかい is 近い (near).",
+      "explanation_ta": "遠い = とおい (தொலைவான, far). お உடன் எழுதப்படும்: とおい, とうい அல்ல. ちかい என்பது 近い (அருகில்)."
+    },
+    {
+      "id": "KX-q04",
+      "type": "kanji_reading",
+      "sentence": "わからない ことばを 辞書で ＿調べました＿。",
+      "target": "調べました",
+      "options": [
+        "くらべました",
+        "ちょうべました",
+        "しらへました",
+        "しらべました"
+      ],
+      "answer": 3,
+      "explanation_en": "調べました is read しらべました (தேடிப் பார்த்தேன், looked up). くらべました is 比べました (compared).",
+      "explanation_ta": "調べました = しらべました (தேடிப் பார்த்தேன், looked up). くらべました என்பது 比べました (ஒப்பிட்டேன்)."
+    },
+    {
+      "id": "KX-q05",
+      "type": "kanji_reading",
+      "sentence": "きのうの 試合に ＿勝ちました＿。",
+      "target": "勝ちました",
+      "options": [
+        "がちました",
+        "しょうちました",
+        "まちました",
+        "かちました"
+      ],
+      "answer": 3,
+      "explanation_en": "勝ちました is read かちました (வென்றேன், won). しょう is the on reading (勝負 しょうぶ).",
+      "explanation_ta": "勝ちました = かちました (வென்றேன், won). しょう என்பது on வாசிப்பு (勝負 しょうぶ)."
+    },
+    {
+      "id": "KX-q06",
+      "type": "kanji_reading",
+      "sentence": "ニュースは 七時に ＿放送＿されます。",
+      "target": "放送",
+      "options": [
+        "ほそう",
+        "ほうそう",
+        "ほうそ",
+        "ぼうそう"
+      ],
+      "answer": 1,
+      "explanation_en": "放送 is read ほうそう (ஒளிபரப்பு, broadcast): both parts are long.",
+      "explanation_ta": "放送 = ほうそう (ஒளிபரப்பு, broadcast): இரண்டு பகுதியும் நெடில்."
+    },
+    {
+      "id": "KX-q07",
+      "type": "kanji_reading",
+      "sentence": "にわに ＿美しい＿ 花が さいて います。",
+      "target": "美しい",
+      "options": [
+        "うつくしい",
+        "うつしい",
+        "びしい",
+        "うづくしい"
+      ],
+      "answer": 0,
+      "explanation_en": "美しい is read うつくしい (அழகான, beautiful). び is the on reading (美術 びじゅつ).",
+      "explanation_ta": "美しい = うつくしい (அழகான, beautiful). び என்பது on வாசிப்பு (美術 びじゅつ)."
+    },
+    {
+      "id": "KX-q08",
+      "type": "kanji_reading",
+      "sentence": "かぜの ＿薬＿を 飲みました。",
+      "target": "薬",
+      "options": [
+        "やく",
+        "らく",
+        "くすり",
+        "くずり"
+      ],
+      "answer": 2,
+      "explanation_en": "薬 is read くすり (மருந்து, medicine). やく is the on reading (薬局 やっきょく); らく is 楽.",
+      "explanation_ta": "薬 = くすり (மருந்து, medicine). やく என்பது on வாசிப்பு (薬局 やっきょく); らく என்பது 楽."
+    },
+    {
+      "id": "KX-q09",
+      "type": "kanji_reading",
+      "sentence": "＿昔＿、ここに 大きな 木が ありました。",
+      "target": "昔",
+      "options": [
+        "むかし",
+        "むがし",
+        "せき",
+        "ふるし"
+      ],
+      "answer": 0,
+      "explanation_en": "昔 is read むかし (முன்பு, long ago). か is not voiced.",
+      "explanation_ta": "昔 = むかし (முன்பு, long ago). か கனமாகாது."
+    },
+    {
+      "id": "KX-q10",
+      "type": "kanji_reading",
+      "sentence": "好きな 色を 一つ ＿選んで＿ ください。",
+      "target": "選んで",
+      "options": [
+        "せんんで",
+        "えれんで",
+        "えらんで",
+        "よらんで"
+      ],
+      "answer": 2,
+      "explanation_en": "選んで is read えらんで (தேர்ந்தெடுத்து, choose). せん is the on reading (選手 せんしゅ).",
+      "explanation_ta": "選んで = えらんで (தேர்ந்தெடுத்து, choose). せん என்பது on வாசிப்பு (選手 せんしゅ)."
+    },
+    {
+      "id": "KX-q11",
+      "type": "kanji_reading",
+      "sentence": "毎日 日本語の 勉強を ＿続けて＿ います。",
+      "target": "続けて",
+      "options": [
+        "つなげて",
+        "つづけて",
+        "つつけて",
+        "ぞくけて"
+      ],
+      "answer": 1,
+      "explanation_en": "続けて is read つづけて (தொடர்ந்து, continuing): the second つ is voiced, づ.",
+      "explanation_ta": "続けて = つづけて (தொடர்ந்து, continuing): இரண்டாவது つ கனமாகி づ ஆகிறது."
+    },
+    {
+      "id": "KX-q12",
+      "type": "kanji_reading",
+      "sentence": "旅行には パスポートが ＿必要＿です。",
+      "target": "必要",
+      "options": [
+        "ひっよう",
+        "ひつよ",
+        "ひちよう",
+        "ひつよう"
+      ],
+      "answer": 3,
+      "explanation_en": "必要 is read ひつよう (தேவை, necessary). There is no small っ, and よう is long.",
+      "explanation_ta": "必要 = ひつよう (தேவை, necessary). சிறிய っ இல்லை; よう நெடில்."
+    },
+    {
+      "id": "KX-q13",
+      "type": "kanji_reading",
+      "sentence": "パーティーに 行けなくて ＿残念＿です。",
+      "target": "残念",
+      "options": [
+        "さんねん",
+        "ざねん",
+        "ざんね",
+        "ざんねん"
+      ],
+      "answer": 3,
+      "explanation_en": "残念 is read ざんねん (வருத்தம், a pity). ざ is voiced; さんねん is 三年 (three years).",
+      "explanation_ta": "残念 = ざんねん (வருத்தம், a pity). ざ கனமானது; さんねん என்பது 三年 (மூன்று ஆண்டு)."
+    },
+    {
+      "id": "KX-q14",
+      "type": "kanji_reading",
+      "sentence": "＿飛行機＿で 東京へ 行きます。",
+      "target": "飛行機",
+      "options": [
+        "ひぎょうき",
+        "ひこうき",
+        "ひこき",
+        "とびこうき"
+      ],
+      "answer": 1,
+      "explanation_en": "飛行機 is read ひこうき (விமானம், aeroplane). とぶ is the kun reading of 飛, not used here.",
+      "explanation_ta": "飛行機 = ひこうき (விமானம், aeroplane). とぶ என்பது 飛-இன் kun வாசிப்பு; இங்கே இல்லை."
+    },
+    {
+      "id": "KX-q15",
+      "type": "kanji_reading",
+      "sentence": "＿冷たい＿ 水が 飲みたいです。",
+      "target": "冷たい",
+      "options": [
+        "つめたい",
+        "さめたい",
+        "ひえたい",
+        "れいたい"
+      ],
+      "answer": 0,
+      "explanation_en": "冷たい is read つめたい (குளிர்ந்த, cold). ひえる (冷える) is another reading, but with たい it is つめたい.",
+      "explanation_ta": "冷たい = つめたい (குளிர்ந்த, cold). ひえる (冷える) வேறு வாசிப்பு; たい வந்தால் つめたい."
+    },
+    {
+      "id": "KX-q16",
+      "type": "kanji_reading",
+      "sentence": "子どもたちが 楽しそうに ＿笑って＿ います。",
+      "target": "笑って",
+      "options": [
+        "しょうって",
+        "えみって",
+        "わらって",
+        "あらって"
+      ],
+      "answer": 2,
+      "explanation_en": "笑って is read わらって (சிரித்து, laughing). あらって is 洗って (washing).",
+      "explanation_ta": "笑って = わらって (சிரித்து, laughing). あらって என்பது 洗って (கழுவி)."
+    },
+    {
+      "id": "KX-q17",
+      "type": "kanji_reading",
+      "sentence": "インターネットで ＿情報＿を 集めます。",
+      "target": "情報",
+      "options": [
+        "じょうほう",
+        "じょほう",
+        "じょうぼう",
+        "しょうほう"
+      ],
+      "answer": 0,
+      "explanation_en": "情報 is read じょうほう (தகவல், information): じょう is long and voiced, ほう is not voiced.",
+      "explanation_ta": "情報 = じょうほう (தகவல், information): じょう நெடில், கனமானது; ほう கனமாகாது."
+    },
+    {
+      "id": "KX-q18",
+      "type": "kanji_reading",
+      "sentence": "父の ＿職業＿は 医者です。",
+      "target": "職業",
+      "options": [
+        "しょっぎょう",
+        "しきぎょう",
+        "しょくぎょう",
+        "しょくごう"
+      ],
+      "answer": 2,
+      "explanation_en": "職業 is read しょくぎょう (தொழில், occupation). 業 is ぎょう, not ごう.",
+      "explanation_ta": "職業 = しょくぎょう (தொழில், occupation). 業 = ぎょう, ごう அல்ல."
+    },
+    {
+      "id": "KX-q19",
+      "type": "kanji_reading",
+      "sentence": "くぎに ひっかけて、シャツが ＿破れました＿。",
+      "target": "破れました",
+      "options": [
+        "はれました",
+        "やぶれました",
+        "やふれました",
+        "こわれました"
+      ],
+      "answer": 1,
+      "explanation_en": "破れました is read やぶれました (கிழிந்தது, got torn). こわれました is for broken things (壊れました).",
+      "explanation_ta": "破れました = やぶれました (கிழிந்தது, got torn). こわれました என்பது உடைந்த பொருள்களுக்கு (壊れました)."
+    },
+    {
+      "id": "KX-q20",
+      "type": "kanji_reading",
+      "sentence": "友だちを 家に ＿招待＿しました。",
+      "target": "招待",
+      "options": [
+        "しょたい",
+        "しょうだい",
+        "まねたい",
+        "しょうたい"
+      ],
+      "answer": 3,
+      "explanation_en": "招待 is read しょうたい (அழைப்பு, invitation). 待 is たい, not だい.",
+      "explanation_ta": "招待 = しょうたい (அழைப்பு, invitation). 待 = たい, だい அல்ல."
+    },
+    {
+      "id": "KX-q21",
+      "type": "kanji_reading",
+      "sentence": "この 問題は とても ＿難しい＿です。",
+      "target": "難しい",
+      "options": [
+        "むすかしい",
+        "なんしい",
+        "むずがしい",
+        "むずかしい"
+      ],
+      "answer": 3,
+      "explanation_en": "難しい is read むずかしい (கடினமான, difficult): ず is voiced, か is not.",
+      "explanation_ta": "難しい = むずかしい (கடினமான, difficult): ず கனமானது, か கனமாகாது."
+    },
+    {
+      "id": "KX-q22",
+      "type": "kanji_reading",
+      "sentence": "先週、先生の 家を ＿訪ねました＿。",
+      "target": "訪ねました",
+      "options": [
+        "おとずねました",
+        "たずねました",
+        "たづねました",
+        "ほうねました"
+      ],
+      "answer": 1,
+      "explanation_en": "訪ねました is read たずねました (சந்திக்கச் சென்றேன், visited), spelled with ず, not づ.",
+      "explanation_ta": "訪ねました = たずねました (சந்திக்கச் சென்றேன், visited); ず, づ அல்ல."
+    },
+    {
+      "id": "KX-q23",
+      "type": "kanji_reading",
+      "sentence": "朝から 頭が ＿痛い＿です。",
+      "target": "痛い",
+      "options": [
+        "いたい",
+        "いだい",
+        "つうい",
+        "いたかい"
+      ],
+      "answer": 0,
+      "explanation_en": "痛い is read いたい (வலிக்கிறது, painful). つう is the on reading (頭痛 ずつう).",
+      "explanation_ta": "痛い = いたい (வலிக்கிறது, painful). つう என்பது on வாசிப்பு (頭痛 ずつう)."
+    },
+    {
+      "id": "KX-q24",
+      "type": "kanji_reading",
+      "sentence": "暑いので ＿窓＿を 開けて ください。",
+      "target": "窓",
+      "options": [
+        "そう",
+        "かど",
+        "まど",
+        "まと"
+      ],
+      "answer": 2,
+      "explanation_en": "窓 is read まど (சன்னல், window). まと (的) means target; そう is the on reading.",
+      "explanation_ta": "窓 = まど (சன்னல், window). まと (的) = இலக்கு; そう என்பது on வாசிப்பு."
+    },
+    {
+      "id": "KX-q25",
+      "type": "orthography",
+      "sentence": "クラスの 学生の ＿かず＿は 二十人です。",
+      "target": "かず",
+      "options": [
+        "数",
+        "教",
+        "枚",
+        "救"
+      ],
+      "answer": 0,
+      "explanation_en": "かず (எண்ணிக்கை, number) is 数. 教 (teach) and 救 (rescue) have the same right side 攵 but other left sides.",
+      "explanation_ta": "かず (எண்ணிக்கை, number) = 数. 教 (கற்பி), 救 (காப்பாற்று) இவற்றின் வலப்பக்கமும் 攵; இடப்பக்கம் வேறு."
+    },
+    {
+      "id": "KX-q26",
+      "type": "orthography",
+      "sentence": "あしたは ＿はれる＿ でしょう。",
+      "target": "はれる",
+      "options": [
+        "静れる",
+        "精れる",
+        "晴れる",
+        "清れる"
+      ],
+      "answer": 2,
+      "explanation_en": "はれる (வெயில் அடிக்கும், clear up) is 晴れる: sun 日 + blue 青. The others have 青 too, but with water, 争 or rice.",
+      "explanation_ta": "はれる (வெயில் அடிக்கும், clear up) = 晴れる: சூரியன் 日 + நீலம் 青. மற்றவற்றிலும் 青 உண்டு; ஆனால் தண்ணீர், 争, அரிசி சேர்ந்துள்ளன."
+    },
+    {
+      "id": "KX-q27",
+      "type": "orthography",
+      "sentence": "旅行の 日を ＿きめました＿。",
+      "target": "きめました",
+      "options": [
+        "浅めました",
+        "決めました",
+        "快めました",
+        "次めました"
+      ],
+      "answer": 1,
+      "explanation_en": "きめました (முடிவு செய்தேன், decided) is 決めました: water 氵 + 夬. 快 has a heart 忄.",
+      "explanation_ta": "きめました (முடிவு செய்தேன், decided) = 決めました: தண்ணீர் 氵 + 夬. 快-இல் இதயம் 忄."
+    },
+    {
+      "id": "KX-q28",
+      "type": "orthography",
+      "sentence": "ボールを こちらに ＿なげて＿ ください。",
+      "target": "なげて",
+      "options": [
+        "役げて",
+        "設げて",
+        "殺げて",
+        "投げて"
+      ],
+      "answer": 3,
+      "explanation_en": "なげて (எறிந்து, throw) is 投げて: hand 扌 + 殳. 役 has 彳 and means role.",
+      "explanation_ta": "なげて (எறிந்து, throw) = 投げて: கை 扌 + 殳. 役-இல் 彳; பொருள் பங்கு."
+    },
+    {
+      "id": "KX-q29",
+      "type": "orthography",
+      "sentence": "家族と いっしょで とても ＿しあわせ＿です。",
+      "target": "しあわせ",
+      "options": [
+        "辛せ",
+        "革せ",
+        "卒せ",
+        "幸せ"
+      ],
+      "answer": 3,
+      "explanation_en": "しあわせ (மகிழ்ச்சி, happy) is 幸せ. 辛 (からい, spicy) looks almost the same but has no 土 on top.",
+      "explanation_ta": "しあわせ (மகிழ்ச்சி, happy) = 幸せ. 辛 (からい, காரம்) கிட்டத்தட்ட ஒரே மாதிரி; ஆனால் மேலே 土 இல்லை."
+    },
+    {
+      "id": "KX-q30",
+      "type": "orthography",
+      "sentence": "冬の 朝は とても ＿さむい＿です。",
+      "target": "さむい",
+      "options": [
+        "塞い",
+        "寒い",
+        "実い",
+        "案い"
+      ],
+      "answer": 1,
+      "explanation_en": "さむい (குளிரான, cold weather) is 寒い. 実 and 案 also have the roof 宀 but mean fruit and plan.",
+      "explanation_ta": "さむい (குளிரான, cold) = 寒い. 実, 案 இவற்றிலும் கூரை 宀 உண்டு; பொருள் பழம், திட்டம்."
+    },
+    {
+      "id": "KX-q31",
+      "type": "orthography",
+      "sentence": "春に なると、天気が よく ＿かわります＿。",
+      "target": "かわります",
+      "options": [
+        "変わります",
+        "恋わります",
+        "夏わります",
+        "蛮わります"
+      ],
+      "answer": 0,
+      "explanation_en": "かわります (மாறுகிறது, changes) is 変わります. 恋 (love) has the same top but 心 at the bottom.",
+      "explanation_ta": "かわります (மாறுகிறது, changes) = 変わります. 恋 (காதல்)-இல் அதே மேல்பகுதி; கீழே 心."
+    },
+    {
+      "id": "KX-q32",
+      "type": "orthography",
+      "sentence": "父は 銀行で ＿はたらいて＿ います。",
+      "target": "はたらいて",
+      "options": [
+        "勤いて",
+        "重いて",
+        "働いて",
+        "動いて"
+      ],
+      "answer": 2,
+      "explanation_en": "はたらいて (வேலை செய்து, working) is 働いて: person 亻 + move 動. 動 alone is うごく (move).",
+      "explanation_ta": "はたらいて (வேலை செய்து, working) = 働いて: மனிதர் 亻 + நகர் 動. தனி 動 = うごく (நகர்)."
+    },
+    {
+      "id": "KX-q33",
+      "type": "orthography",
+      "sentence": "新しい ことばを たくさん ＿おぼえました＿。",
+      "target": "おぼえました",
+      "options": [
+        "覚えました",
+        "学えました",
+        "党えました",
+        "賞えました"
+      ],
+      "answer": 0,
+      "explanation_en": "おぼえました (நினைவில் வைத்தேன், memorised) is 覚えました: see 見 at the bottom. 学 has a child 子.",
+      "explanation_ta": "おぼえました (நினைவில் வைத்தேன், memorised) = 覚えました: கீழே பார் 見. 学-இல் குழந்தை 子."
+    },
+    {
+      "id": "KX-q34",
+      "type": "orthography",
+      "sentence": "どうぞ よろしく お＿ねがい＿します。",
+      "target": "ねがい",
+      "options": [
+        "頭い",
+        "類い",
+        "願い",
+        "顔い"
+      ],
+      "answer": 2,
+      "explanation_en": "ねがい (வேண்டுகோள், request) is 願い: field/spring 原 + head 頁. 顔, 頭 and 類 also have 頁.",
+      "explanation_ta": "ねがい (வேண்டுகோள், request) = 願い: 原 + தலை 頁. 顔, 頭, 類 இவற்றிலும் 頁 உண்டு."
+    },
+    {
+      "id": "KX-q35",
+      "type": "orthography",
+      "sentence": "日本に 来る 旅行者が ＿ふえて＿ います。",
+      "target": "ふえて",
+      "options": [
+        "層えて",
+        "増えて",
+        "憎えて",
+        "贈えて"
+      ],
+      "answer": 1,
+      "explanation_en": "ふえて (அதிகரித்து, increasing) is 増えて: earth 土 + 曽. 憎 has a heart 忄, 贈 has money 貝.",
+      "explanation_ta": "ふえて (அதிகரித்து, increasing) = 増えて: மண் 土 + 曽. 憎-இல் இதயம் 忄, 贈-இல் பணம் 貝."
+    },
+    {
+      "id": "KX-q36",
+      "type": "orthography",
+      "sentence": "あの 先生は まだ ＿わかい＿です。",
+      "target": "わかい",
+      "options": [
+        "苦い",
+        "右い",
+        "君い",
+        "若い"
+      ],
+      "answer": 3,
+      "explanation_en": "わかい (இளமையான, young) is 若い: grass 艹 + right 右. 苦い is にがい (bitter).",
+      "explanation_ta": "わかい (இளமையான, young) = 若い: புல் 艹 + வலது 右. 苦い = にがい (கசப்பு)."
+    },
+    {
+      "id": "KX-q37",
+      "type": "orthography",
+      "sentence": "この 答えは ＿ちがいます＿。",
+      "target": "ちがいます",
+      "options": [
+        "偉います",
+        "遠います",
+        "達います",
+        "違います"
+      ],
+      "answer": 3,
+      "explanation_en": "ちがいます (தவறு / வேறு, is wrong) is 違います: road ⻌ + 韋. 偉 has a person 亻 and is えらい (great).",
+      "explanation_ta": "ちがいます (தவறு, is wrong) = 違います: சாலை ⻌ + 韋. 偉-இல் மனிதர் 亻; அது えらい (பெரிய)."
+    },
+    {
+      "id": "KX-q38",
+      "type": "orthography",
+      "sentence": "じこで バスが 三十分 ＿おくれました＿。",
+      "target": "おくれました",
+      "options": [
+        "遊れました",
+        "遅れました",
+        "送れました",
+        "迷れました"
+      ],
+      "answer": 1,
+      "explanation_en": "おくれました (தாமதமானது, was late) is 遅れました. 送れました is also おくれました but means “could send”.",
+      "explanation_ta": "おくれました (தாமதமானது, was late) = 遅れました. 送れました என்பதும் おくれました தான்; ஆனால் பொருள் “அனுப்ப முடிந்தது”."
+    },
+    {
+      "id": "KX-q39",
+      "type": "orthography",
+      "sentence": "毎晩 十時に ＿ねます＿。",
+      "target": "ねます",
+      "options": [
+        "寝ます",
+        "練ます",
+        "寂ます",
+        "浸ます"
+      ],
+      "answer": 0,
+      "explanation_en": "ねます (தூங்குகிறேன், go to bed) is 寝ます: roof 宀 + bed 丬. 練 (ねる, knead) has thread 糸.",
+      "explanation_ta": "ねます (தூங்குகிறேன், go to bed) = 寝ます: கூரை 宀 + கட்டில் 丬. 練 (ねる, பிசை)-இல் நூல் 糸."
+    },
+    {
+      "id": "KX-q40",
+      "type": "orthography",
+      "sentence": "ゆうべ あまり 寝なかったので、とても ＿ねむい＿です。",
+      "target": "ねむい",
+      "options": [
+        "民い",
+        "根い",
+        "眠い",
+        "眼い"
+      ],
+      "answer": 2,
+      "explanation_en": "ねむい (தூக்கக் கலக்கம், sleepy) is 眠い: eye 目 + people 民. 眼 is eye (め/がん); 民 alone has no eye.",
+      "explanation_ta": "ねむい (தூக்கக் கலக்கம், sleepy) = 眠い: கண் 目 + மக்கள் 民. 眼 = கண் (め/がん); தனி 民-இல் கண் இல்லை."
+    }
+  ]
+}

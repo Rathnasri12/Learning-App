@@ -1,0 +1,356 @@
+{
+  "unit": 12,
+  "title": { "en": "Change, cost and results", "ta": "மாற்றம், செலவு, விளைவு" },
+  "intro": {
+    "en": "In this unit you learn 13 kanji: yesterday, change, fruit and result, surely, fight, place and put, cost, attach, explain, husband and harm. Watch the sets that look alike: 位 and 立, 付 and 村, 夫 and 天. The old part usually tells you the meaning.",
+    "ta": "இந்தப் பாடத்தில் 13 கான்ஜிகளைக் கற்கிறீர்கள்: நேற்று, மாற்றம், பழம் மற்றும் விளைவு, நிச்சயம், சண்டை, இடம் மற்றும் வை, செலவு, ஒட்டு, விளக்கு, கணவன், தீங்கு. ஒன்றுபோல் தெரியும் ஜோடிகளைக் கவனியுங்கள்: 位-立, 付-村, 夫-天. பழைய பகுதி பெரும்பாலும் பொருளைச் சொல்லிவிடும்."
+  },
+  "kanji": [
+    {
+      "kanji": "昨",
+      "meaning": { "en": "yesterday; last", "ta": "நேற்று; கடந்த" },
+      "on": ["さく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is the sun (日), one day. On the right is the saw-like part of 作 (make). The saw cuts that day off, and it is gone: yesterday, last (year).",
+        "ta": "இடப்பக்கம் சூரியன் (日) — ஒரு நாள். வலப்பக்கம் 作 (செய்) என்பதில் உள்ள ரம்பம் போன்ற பகுதி. ரம்பம் அந்த நாளை வெட்டி எடுத்துவிட்டது; அது போய்விட்டது: நேற்று, கடந்த (ஆண்டு)."
+      },
+      "note": {
+        "en": "Special readings: 昨日 = きのう (yesterday), 昨夜 = ゆうべ (last night), 一昨日 = おととい (the day before yesterday).",
+        "ta": "சிறப்பு வாசிப்புகள்: 昨日 = きのう (நேற்று), 昨夜 = ゆうべ (நேற்றிரவு), 一昨日 = おととい (நேற்று முன்தினம்)."
+      },
+      "examples": [
+        { "word": "昨日", "reading": "きのう", "en": "yesterday", "ta": "நேற்று", "vocabId": "n5-v-200" },
+        { "word": "昨年", "reading": "さくねん", "en": "last year", "ta": "கடந்த ஆண்டு" },
+        { "word": "昨夜", "reading": "ゆうべ", "en": "last night", "ta": "நேற்றிரவு", "vocabId": "n5-v-679" },
+        { "word": "一昨日", "reading": "おととい", "en": "the day before yesterday", "ta": "நேற்று முன்தினம்", "vocabId": "n5-v-121" }
+      ]
+    },
+    {
+      "kanji": "官",
+      "meaning": { "en": "government official", "ta": "அரசு அதிகாரி" },
+      "on": ["かん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "You know 館 (big hall). Take away 食 (food) and only 官 is left: a big government roof (宀) over offices stacked floor on floor. The people working in that building are officials.",
+        "ta": "館 (பெரிய மண்டபம்) உங்களுக்குத் தெரியும். அதிலிருந்து 食 (உணவு)-ஐ எடுத்துவிட்டால் 官 மட்டும் மீதி: பெரிய அரசுக் கூரையின் (宀) கீழ் மாடி மேல் மாடியாக அடுக்கிய அலுவலகங்கள். அந்தக் கட்டடத்தில் வேலை செய்பவர்கள்: அரசு அதிகாரிகள்."
+      },
+      "examples": [
+        { "word": "警官", "reading": "けいかん", "en": "police officer", "ta": "காவல் அதிகாரி", "vocabId": "n5-v-234" },
+        { "word": "外交官", "reading": "がいこうかん", "en": "diplomat", "ta": "தூதரக அதிகாரி" },
+        { "word": "長官", "reading": "ちょうかん", "en": "head of a government office", "ta": "அரசுத் துறைத் தலைவர்" }
+      ]
+    },
+    {
+      "kanji": "変",
+      "meaning": { "en": "change; strange", "ta": "மாற்றம்; விசித்திரம்" },
+      "on": ["へん"],
+      "kun": ["か.わる", "か.える"],
+      "mnemonic": {
+        "en": "On top, 亦 looks like a person with arms spread out and drops of sweat flying. At the bottom are walking legs (夂), as in 冬 and 夏. A person dancing in a strange way, changing shape every second: strange, change.",
+        "ta": "மேலே 亦: கைகளை விரித்து, வியர்வைத் துளிகள் தெறிக்க நிற்கும் ஒருவர் போல. அடியில் நடக்கும் கால்கள் (夂) — 冬, 夏 இவற்றில் உள்ளது போல. ஒவ்வொரு நொடியும் வடிவம் மாற்றி விசித்திரமாக ஆடும் ஒருவர் — தெருக்கூத்தில் வேஷம் மாற்றுபவர் போல: விசித்திரம், மாற்றம்."
+      },
+      "note": {
+        "en": "変わる (かわる) = to change by itself. 変える (かえる) = to change something. 変 (へん) alone = strange. 大変 (たいへん) = very; hard.",
+        "ta": "変わる (かわる) = தானே மாறுவது. 変える (かえる) = ஒன்றை மாற்றுவது. தனி 変 (へん) = விசித்திரம். 大変 (たいへん) = மிகவும்; கடினம்."
+      },
+      "examples": [
+        { "word": "変わる", "reading": "かわる", "en": "to change (by itself)", "ta": "மாற (தானாக)", "vocabId": "n4-v-411" },
+        { "word": "変える", "reading": "かえる", "en": "to change (something)", "ta": "(ஒன்றை) மாற்ற", "vocabId": "n4-v-394" },
+        { "word": "変", "reading": "へん", "en": "strange, odd", "ta": "விசித்திரமான", "vocabId": "n4-v-227" },
+        { "word": "大変", "reading": "たいへん", "en": "very; difficult, hard", "ta": "மிகவும்; கஷ்டமான", "vocabId": "n5-v-378" }
+      ]
+    },
+    {
+      "kanji": "果",
+      "meaning": { "en": "fruit; result", "ta": "பழம்; விளைவு" },
+      "on": ["か"],
+      "kun": ["は.たす"],
+      "mnemonic": {
+        "en": "A tree (木) with a big round fruit (田) on top, like a jackfruit hanging on its trunk. The fruit is what the tree gives at the end of its work: fruit, result.",
+        "ta": "மரத்தின் (木) மேல் பெரிய உருண்டைப் பழம் (田) — தண்டில் தொங்கும் பலாப்பழம் போல. மரம் தன் உழைப்பின் முடிவில் தருவது பழம்: பழம், விளைவு."
+      },
+      "note": {
+        "en": "Special reading: 果物 = くだもの (fruit).",
+        "ta": "சிறப்பு வாசிப்பு: 果物 = くだもの (பழங்கள்)."
+      },
+      "examples": [
+        { "word": "果物", "reading": "くだもの", "en": "fruit", "ta": "பழங்கள்", "vocabId": "n5-v-219" },
+        { "word": "成果", "reading": "せいか", "en": "result, fruit of one’s work", "ta": "உழைப்பின் பலன்" },
+        { "word": "果たす", "reading": "はたす", "en": "to carry out, to fulfil", "ta": "நிறைவேற்ற" }
+      ]
+    },
+    {
+      "kanji": "必",
+      "meaning": { "en": "surely, without fail", "ta": "நிச்சயமாக, தவறாமல்" },
+      "on": ["ひつ"],
+      "kun": ["かなら.ず"],
+      "mnemonic": {
+        "en": "A heart (心) with a sword stroke (丿) cut right through it. A promise carved deep into your heart must be kept: surely, without fail.",
+        "ta": "இதயத்தின் (心) நடுவே ஒரு வாள் கோடு (丿) ஊடுருவி வெட்டுகிறது. இதயத்தில் ஆழமாகப் பதித்த சத்தியம் கட்டாயம் காக்கப்பட வேண்டும்: நிச்சயமாக, தவறாமல்."
+      },
+      "note": {
+        "en": "必 is not 心 (heart): look for the extra slanting stroke. 必要 (ひつよう) = necessary.",
+        "ta": "必 என்பது 心 (இதயம்) அல்ல: கூடுதல் சாய்ந்த கோட்டைக் கவனியுங்கள். 必要 (ひつよう) = தேவையான."
+      },
+      "examples": [
+        { "word": "必ず", "reading": "かならず", "en": "surely, without fail", "ta": "நிச்சயமாக, தவறாமல்", "vocabId": "n4-v-025" },
+        { "word": "必要", "reading": "ひつよう", "en": "necessary", "ta": "தேவையான", "vocabId": "n4-v-082" },
+        { "word": "必死", "reading": "ひっし", "en": "desperate, with all one’s might", "ta": "முழு மூச்சுடன், உயிரைக் கொடுத்து", "vocabId": "n3-v-1822" }
+      ]
+    },
+    {
+      "kanji": "争",
+      "meaning": { "en": "fight, argue", "ta": "சண்டை, வாக்குவாதம்" },
+      "on": ["そう"],
+      "kun": ["あらそ.う"],
+      "mnemonic": {
+        "en": "On top is a grabbing hand (⺈), in the middle another hand (ヨ), and one stick (亅) goes down through both. Two hands pulling the same stick, neither lets go: fight, argue.",
+        "ta": "மேலே பற்றும் ஒரு கை (⺈), நடுவில் இன்னொரு கை (ヨ); இரண்டின் ஊடாகவும் ஒரே குச்சி (亅) கீழே இறங்குகிறது. ஒரே குச்சியை இரண்டு கைகள் இழுக்கின்றன, யாரும் விடவில்லை: சண்டை, வாக்குவாதம்."
+      },
+      "examples": [
+        { "word": "戦争", "reading": "せんそう", "en": "war", "ta": "போர்", "vocabId": "n4-v-179" },
+        { "word": "争う", "reading": "あらそう", "en": "to argue, to compete", "ta": "சண்டையிட, போட்டியிட", "vocabId": "n3-v-0339" },
+        { "word": "言い争い", "reading": "いいあらそい", "en": "quarrel, argument", "ta": "வாய்ச்சண்டை" }
+      ]
+    },
+    {
+      "kanji": "位",
+      "meaning": { "en": "rank; about", "ta": "நிலை, தரம்; சுமார்" },
+      "on": ["い"],
+      "kun": ["くらい"],
+      "mnemonic": {
+        "en": "A person (亻) stands (立) in his own place in the line. Where you stand shows your place and rank: position, rank.",
+        "ta": "ஒரு மனிதன் (亻) வரிசையில் தன் இடத்தில் நிற்கிறான் (立). நீங்கள் எங்கே நிற்கிறீர்கள் என்பதே உங்கள் இடத்தையும் தரத்தையும் காட்டும்: நிலை, தரம்."
+      },
+      "note": {
+        "en": "As a word, 位 (くらい / ぐらい) can mean “about”: 一時間位 (about an hour). It is usually written in kana. Ranks: 一位 (いちい, first place).",
+        "ta": "சொல்லாக 位 (くらい / ぐらい) = “சுமார்”: 一時間位 (சுமார் ஒரு மணி நேரம்). பெரும்பாலும் கானாவில் எழுதப்படும். தரவரிசை: 一位 (いちい, முதல் இடம்)."
+      },
+      "examples": [
+        { "word": "位置", "reading": "いち", "en": "position, location", "ta": "இருப்பிடம், நிலை", "vocabId": "n3-v-0389" },
+        { "word": "一位", "reading": "いちい", "en": "first place", "ta": "முதலிடம்" },
+        { "word": "地位", "reading": "ちい", "en": "social position, status", "ta": "சமூக அந்தஸ்து", "vocabId": "n3-v-1452" },
+        { "word": "単位", "reading": "たんい", "en": "unit; credit (at school)", "ta": "அலகு; (கல்லூரி) மதிப்பெண் அலகு", "vocabId": "n3-v-1441" }
+      ]
+    },
+    {
+      "kanji": "置",
+      "meaning": { "en": "put, place", "ta": "வை" },
+      "on": ["ち"],
+      "kun": ["お.く"],
+      "mnemonic": {
+        "en": "On top is a net (罒), as in the top of 買. Below is 直 (straight). A fisherman spreads his net out straight and puts it down on the sand to dry: put, place.",
+        "ta": "மேலே ஒரு வலை (罒) — 買-இன் மேல் பகுதி போல. கீழே 直 (நேர்). மீனவர் தன் வலையை நேராக விரித்து, உலர மணலில் வைக்கிறார்: வை."
+      },
+      "examples": [
+        { "word": "置く", "reading": "おく", "en": "to put, to place", "ta": "வைக்க", "vocabId": "n5-v-106" },
+        { "word": "位置", "reading": "いち", "en": "position, location", "ta": "இருப்பிடம்", "vocabId": "n3-v-0389" },
+        { "word": "物置", "reading": "ものおき", "en": "storeroom, shed", "ta": "பொருள் வைக்கும் அறை" }
+      ]
+    },
+    {
+      "kanji": "費",
+      "meaning": { "en": "cost, expense", "ta": "செலவு" },
+      "on": ["ひ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "At the bottom is money (貝, shell money, as in 買 and 貸). On top, 弗 looks like a dollar sign ($). Dollars and money flying out of your purse: cost, expense.",
+        "ta": "அடியில் பணம் (貝, சிப்பிப் பணம், 買, 貸 இவற்றில் உள்ளது போல). மேலே 弗 — டாலர் குறி ($) போலத் தெரிகிறது. உங்கள் பர்ஸிலிருந்து டாலரும் பணமும் பறந்து போகின்றன: செலவு."
+      },
+      "examples": [
+        { "word": "費用", "reading": "ひよう", "en": "cost, expense", "ta": "செலவு, கட்டணம்", "vocabId": "n3-v-1838" },
+        { "word": "交通費", "reading": "こうつうひ", "en": "travel costs", "ta": "போக்குவரத்துச் செலவு" },
+        { "word": "食費", "reading": "しょくひ", "en": "food costs", "ta": "உணவுச் செலவு" },
+        { "word": "消費", "reading": "しょうひ", "en": "consumption, spending", "ta": "நுகர்வு, செலவழிப்பு", "vocabId": "n3-v-0153" }
+      ]
+    },
+    {
+      "kanji": "付",
+      "meaning": { "en": "attach, stick to", "ta": "ஒட்டு, இணை" },
+      "on": ["ふ"],
+      "kun": ["つ.く", "つ.ける"],
+      "mnemonic": {
+        "en": "A person (亻) and a hand (寸) touching his back. The hand sticks a label on the person: attach, stick to.",
+        "ta": "ஒரு மனிதன் (亻); அவன் முதுகைத் தொடும் ஒரு கை (寸). அந்தக் கை அவன் மேல் ஒரு சீட்டை ஒட்டுகிறது: ஒட்டு, இணை."
+      },
+      "note": {
+        "en": "After another word, つく often becomes づく: 気付く (きづく, to notice). Don’t mix up 付 and 村 (village), which has a tree 木.",
+        "ta": "இன்னொரு சொல்லுக்குப் பின் つく பெரும்பாலும் づく ஆகும்: 気付く (きづく, கவனி). 付, 村 (கிராமம்) இரண்டையும் குழப்ப வேண்டாம்; 村-இல் மரம் 木 உண்டு."
+      },
+      "examples": [
+        { "word": "付ける", "reading": "つける", "en": "to attach, to put on", "ta": "இணைக்க, ஒட்ட" },
+        { "word": "気付く", "reading": "きづく", "en": "to notice", "ta": "கவனிக்க, உணர", "vocabId": "n3-v-0716" },
+        { "word": "付き合う", "reading": "つきあう", "en": "to go out with, to keep company", "ta": "பழக, உடன் இருக்க", "vocabId": "n3-v-1507" },
+        { "word": "寄付", "reading": "きふ", "en": "donation", "ta": "நன்கொடை", "vocabId": "n3-v-0722" }
+      ]
+    },
+    {
+      "kanji": "説",
+      "meaning": { "en": "explain; theory", "ta": "விளக்கு; கொள்கை" },
+      "on": ["せつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is big brother (兄) with two little rays (ハ) shining above his head. Big brother explains with words until the light comes on in your head: explain.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் அண்ணன் (兄); அவர் தலைக்கு மேல் இரண்டு சிறு ஒளிக் கதிர்கள் (ハ). உங்கள் மண்டையில் விளக்கு எரியும் வரை அண்ணன் சொற்களால் விளக்குகிறார்: விளக்கு."
+      },
+      "examples": [
+        { "word": "説明", "reading": "せつめい", "en": "explanation", "ta": "விளக்கம்", "vocabId": "n4-v-435" },
+        { "word": "小説", "reading": "しょうせつ", "en": "novel", "ta": "நாவல்", "vocabId": "n4-v-112" },
+        { "word": "説", "reading": "せつ", "en": "theory, opinion", "ta": "கொள்கை, கருத்து", "vocabId": "n3-v-0291" }
+      ]
+    },
+    {
+      "kanji": "夫",
+      "meaning": { "en": "husband", "ta": "கணவன்" },
+      "on": ["ふ", "ふう"],
+      "kun": ["おっと"],
+      "mnemonic": {
+        "en": "A big man (大) with one more line across his head, like a hairpin in his tied-up hair. In old times a man tied his hair up when he married: husband.",
+        "ta": "பெரிய மனிதன் (大); அவன் தலைக்குக் குறுக்கே இன்னொரு கோடு — முடிந்த முடியில் செருகிய கொண்டை ஊசி போல. பழங்காலத்தில் ஆண் திருமணம் ஆனதும் முடியைக் கொண்டையாக முடிவான்: கணவன்."
+      },
+      "note": {
+        "en": "Don’t mix up 夫 (the line goes through the head) and 天 (heaven, the line sits on top). 大丈夫 is read だいじょうぶ (it’s OK).",
+        "ta": "夫 (கோடு தலையைக் கடந்து செல்லும்), 天 (வானம், கோடு மேலே தனியாக) இரண்டையும் குழப்ப வேண்டாம். 大丈夫 = だいじょうぶ (பரவாயில்லை)."
+      },
+      "examples": [
+        { "word": "夫", "reading": "おっと", "en": "(my) husband", "ta": "(என்) கணவர்", "vocabId": "n4-v-185" },
+        { "word": "夫婦", "reading": "ふうふ", "en": "married couple", "ta": "கணவன் மனைவி, தம்பதி", "vocabId": "n3-v-1860" },
+        { "word": "工夫", "reading": "くふう", "en": "a clever idea, a smart way", "ta": "சாமர்த்திய வழி, யுக்தி" },
+        { "word": "夫人", "reading": "ふじん", "en": "wife, Mrs.", "ta": "மனைவி, திருமதி", "vocabId": "n3-v-1875" }
+      ]
+    },
+    {
+      "kanji": "害",
+      "meaning": { "en": "harm, damage", "ta": "தீங்கு, சேதம்" },
+      "on": ["がい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Under the roof (宀) there is a mouth (口), and a sharp saw-toothed line (丰) cuts down into it. Sharp, cutting words inside a home hurt the family: harm, damage.",
+        "ta": "கூரையின் (宀) கீழ் ஒரு வாய் (口); அதற்குள் கூர்மையான ரம்பப் பல் கோடு (丰) வெட்டி இறங்குகிறது. வீட்டுக்குள் பேசும் கூர்மையான, வெட்டும் சொற்கள் குடும்பத்தைக் காயப்படுத்துகின்றன: தீங்கு, சேதம்."
+      },
+      "examples": [
+        { "word": "害", "reading": "がい", "en": "harm, damage", "ta": "தீங்கு, சேதம்", "vocabId": "n3-v-0550" },
+        { "word": "公害", "reading": "こうがい", "en": "pollution", "ta": "சுற்றுச்சூழல் மாசு" },
+        { "word": "水害", "reading": "すいがい", "en": "flood damage", "ta": "வெள்ளச் சேதம்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU12-q01", "type": "kanji_reading",
+        "sentence": "＿昨日＿は 一日中 雨でした。", "target": "昨日",
+        "options": ["きのう", "きのお", "きの", "さくび"], "answer": 0,
+        "explanation_en": "昨日 has a special reading: きのう (நேற்று, yesterday). きの is too short, and きのお uses the wrong kana for the long vowel.",
+        "explanation_ta": "昨日-க்குச் சிறப்பு வாசிப்பு: きのう (நேற்று, yesterday). きの குறுகியது. きのお-இல் நீண்ட ஒலிக்குத் தவறான கானா."
+      },
+      {
+        "id": "KU12-q02", "type": "kanji_reading",
+        "sentence": "父は ＿外交官＿です。", "target": "外交官",
+        "options": ["がいこかん", "がいこうかん", "そとこうかん", "がいこうがん"], "answer": 1,
+        "explanation_en": "外交官 is read がいこうかん (தூதரக அதிகாரி, diplomat). がいこかん drops the long う, and がいこうがん wrongly voices かん.",
+        "explanation_ta": "外交官 = がいこうかん (தூதரக அதிகாரி, diplomat). がいこかん-இல் நீண்ட う விடுபட்டுள்ளது. がいこうがん-இல் かん-க்குத் தவறான ゛."
+      },
+      {
+        "id": "KU12-q03", "type": "kanji_reading",
+        "sentence": "しごとが 多くて ＿大変＿です。", "target": "大変",
+        "options": ["だいへん", "たいべん", "たいへん", "おおへん"], "answer": 2,
+        "explanation_en": "大変 is read たいへん (கஷ்டம், hard / very). だいへん wrongly voices た, and たいべん wrongly voices へ.",
+        "explanation_ta": "大変 = たいへん (கஷ்டம், hard / very). だいへん-இல் た-க்குத் தவறான ゛. たいべん-இல் へ-க்குத் தவறான ゛."
+      },
+      {
+        "id": "KU12-q04", "type": "kanji_reading",
+        "sentence": "毎朝 ＿果物＿を 食べます。", "target": "果物",
+        "options": ["かもの", "くたもの", "はてもの", "くだもの"], "answer": 3,
+        "explanation_en": "果物 has a special reading: くだもの (பழங்கள், fruit). くたもの has no voiced だ, and かもの uses the on reading か.",
+        "explanation_ta": "果物-க்குச் சிறப்பு வாசிப்பு: くだもの (பழங்கள், fruit). くたもの-இல் ゛ இல்லை. かもの on வாசிப்பு か-வைப் பயன்படுத்துகிறது."
+      },
+      {
+        "id": "KU12-q05", "type": "kanji_reading",
+        "sentence": "あしたは ＿必ず＿ 来て ください。", "target": "必ず",
+        "options": ["かならず", "かならづ", "ひつず", "かなず"], "answer": 0,
+        "explanation_en": "必ず is read かならず (நிச்சயமாக, surely), written with ず. かならづ uses the wrong kana づ, and ひつ is the on reading, as in 必要.",
+        "explanation_ta": "必ず = かならず (நிச்சயமாக, surely); ず கொண்டு எழுதப்படும். かならづ-இல் தவறான づ. ひつ என்பது on வாசிப்பு; 必要 போன்றவற்றில்."
+      },
+      {
+        "id": "KU12-q06", "type": "kanji_reading",
+        "sentence": "＿戦争＿は ぜったいに いけません。", "target": "戦争",
+        "options": ["せんそ", "せんそう", "ぜんそう", "せんしょう"], "answer": 1,
+        "explanation_en": "戦争 is read せんそう (போர், war), with a long そう. せんそ is too short, and ぜんそう wrongly voices せ.",
+        "explanation_ta": "戦争 = せんそう (போர், war), நீண்ட そう உடன். せんそ குறுகியது. ぜんそう-இல் தவறான ゛."
+      },
+      {
+        "id": "KU12-q07", "type": "kanji_reading",
+        "sentence": "地図で 駅の ＿位置＿を 見て ください。", "target": "位置",
+        "options": ["いっち", "いじ", "いち", "くらいち"], "answer": 2,
+        "explanation_en": "位置 is read いち (இருப்பிடம், position). いっち adds a wrong small っ, and いじ wrongly voices ち.",
+        "explanation_ta": "位置 = いち (இருப்பிடம், position). いっち-இல் தவறான சிறிய っ. いじ-இல் தவறான ゛."
+      },
+      {
+        "id": "KU12-q08", "type": "kanji_reading",
+        "sentence": "かぎを つくえの 上に ＿置いて＿ ください。", "target": "置いて",
+        "options": ["ちいて", "おきて", "おいって", "おいて"], "answer": 3,
+        "explanation_en": "置いて is read おいて (வைத்து, put), the て-form of 置く. おいって adds a wrong small っ, and ち is the on reading, as in 位置.",
+        "explanation_ta": "置いて = おいて (வைத்து, put); 置く-இன் て வடிவம். おいって-இல் தவறான சிறிய っ. ち என்பது on வாசிப்பு; 位置 போன்றவற்றில்."
+      },
+      {
+        "id": "KU12-q09", "type": "kanji_reading",
+        "sentence": "先生が あたらしい 文法を ＿説明＿しました。", "target": "説明",
+        "options": ["せつめい", "せつめ", "せっめい", "ぜつめい"], "answer": 0,
+        "explanation_en": "説明 is read せつめい (விளக்கம், explanation), with a long めい. せつめ is too short, and ぜつめい wrongly voices せ.",
+        "explanation_ta": "説明 = せつめい (விளக்கம், explanation), நீண்ட めい உடன். せつめ குறுகியது. ぜつめい-இல் தவறான ゛."
+      },
+      {
+        "id": "KU12-q10", "type": "kanji_reading",
+        "sentence": "わたしの ＿夫＿は 会社員です。", "target": "夫",
+        "options": ["おと", "おっと", "おっど", "ふう"], "answer": 1,
+        "explanation_en": "夫 alone is read おっと (கணவர், husband), with a small っ. おと drops the っ, and ふう is the on reading, as in 夫婦.",
+        "explanation_ta": "தனி 夫 = おっと (கணவர், husband), சிறிய っ உடன். おと-இல் っ விடுபட்டுள்ளது. ふう என்பது on வாசிப்பு; 夫婦 போன்றவற்றில்."
+      },
+      {
+        "id": "KU12-q11", "type": "orthography",
+        "sentence": "旅行の ＿ひよう＿は いくらですか。", "target": "ひよう",
+        "options": ["貸用", "買用", "費用", "費要"], "answer": 2,
+        "explanation_en": "ひよう is 費用 (செலவு, cost): the dollar sign 弗 over money 貝. 貸 (lend) and 買 (buy) also have 貝 but another top, and 要 is the wrong よう.",
+        "explanation_ta": "ひよう = 費用 (செலவு, cost): பணம் 貝 மேல் டாலர் குறி 弗. 貸 (கடன் கொடு), 買 (வாங்கு) இவற்றிலும் 貝 உண்டு; மேல் பகுதி வேறு. 要 தவறான よう."
+      },
+      {
+        "id": "KU12-q12", "type": "orthography",
+        "sentence": "電話番号が ＿かわりました＿。", "target": "かわりました",
+        "options": ["代わりました", "交わりました", "恋わりました", "変わりました"], "answer": 3,
+        "explanation_en": "Here かわる means “to change”, so it is 変わりました (மாறியது, changed). 代わる also reads かわる but means “to take someone’s place”, and 恋 only looks like 変.",
+        "explanation_ta": "இங்கே かわる = “மாறு”, எனவே 変わりました (மாறியது, changed). 代わる-வும் かわる தான்; ஆனால் பொருள் “ஒருவர் இடத்தில் வருவது”. 恋 பார்க்க மட்டும் 変 போல."
+      },
+      {
+        "id": "KU12-q13", "type": "orthography",
+        "sentence": "コートに 名前を ＿つけて＿ ください。", "target": "つけて",
+        "options": ["付けて", "村けて", "対けて", "代けて"], "answer": 0,
+        "explanation_en": "つけて is 付けて (இணைத்து, attach): a person 亻 with a hand 寸. 村 (village) has a tree 木 instead of a person, and 対 and 代 are other words.",
+        "explanation_ta": "つけて = 付けて (இணைத்து, attach): மனிதன் 亻 + கை 寸. 村 (கிராமம்)-இல் மனிதனுக்குப் பதில் மரம் 木. 対, 代 வேறு சொற்கள்."
+      },
+      {
+        "id": "KU12-q14", "type": "orthography",
+        "sentence": "たばこは 体に ＿がい＿が あります。", "target": "がい",
+        "options": ["客", "害", "宮", "外"], "answer": 1,
+        "explanation_en": "がい here is 害 (தீங்கு, harm): a saw-line cutting into a mouth under the roof. 客 (guest) and 宮 also have the roof 宀, and 外 (outside) is a different がい.",
+        "explanation_ta": "இங்கே がい = 害 (தீங்கு, harm): கூரையின் கீழ் வாய்க்குள் வெட்டும் ரம்பக் கோடு. 客 (விருந்தினர்), 宮 இவற்றிலும் 宀 கூரை உண்டு. 外 (வெளியே) வேறு がい."
+      },
+      {
+        "id": "KU12-q15", "type": "orthography",
+        "sentence": "二人は いつも 小さな ことで ＿あらそって＿ います。", "target": "あらそって",
+        "options": ["事って", "急って", "争って", "浄って"], "answer": 2,
+        "explanation_en": "あらそって is 争って (சண்டையிட்டு, arguing): two hands pulling one stick. 事 (thing) and 急 (hurry) look a little like 争 but mean other things.",
+        "explanation_ta": "あらそって = 争って (சண்டையிட்டு, arguing): ஒரே குச்சியை இழுக்கும் இரு கைகள். 事 (விஷயம்), 急 (அவசரம்) கொஞ்சம் 争 போலத் தெரிந்தாலும் பொருள் வேறு."
+      },
+      {
+        "id": "KU12-q16", "type": "orthography",
+        "sentence": "＿さくねん＿ 日本へ 来ました。", "target": "さくねん",
+        "options": ["作年", "昔年", "咋年", "昨年"], "answer": 3,
+        "explanation_en": "さくねん is 昨年 (கடந்த ஆண்டு, last year): the sun 日 with the saw part. 作 (make) has the same sound さく but a person 亻, and 昔 means long ago.",
+        "explanation_ta": "さくねん = 昨年 (கடந்த ஆண்டு, last year): சூரியன் 日 + ரம்பப் பகுதி. 作 (செய்) அதே さく ஒலி; ஆனால் அதில் மனிதன் 亻. 昔 = பழங்காலம்."
+      }
+    ]
+  }
+}

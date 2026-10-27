@@ -1,0 +1,830 @@
+[
+  {
+    "id": "n3-v-0012",
+    "expression": "騒ぎ",
+    "reading": "さわぎ",
+    "romaji": "sawagi",
+    "en": "commotion, fuss",
+    "ta": "கூச்சல் குழப்பம், சலசலப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅の前で何か騒ぎがあったようです。",
+        "reading": "えきの まえで なにか さわぎが あった ようです。",
+        "romaji": "eki no mae de nanika sawagi ga atta you desu.",
+        "ta": "ஸ்டேஷன் முன்னால் ஏதோ கூச்சல் குழப்பம் நடந்ததுபோல் தெரிகிறது.",
+        "en": "There seems to have been some commotion in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0034",
+    "expression": "事件",
+    "reading": "じけん",
+    "romaji": "jiken",
+    "en": "incident, case",
+    "ta": "சம்பவம், வழக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨日、近所で怖い事件がありました。",
+        "reading": "きのう、きんじょで こわい じけんが ありました。",
+        "romaji": "kinou, kinjo de kowai jiken ga arimashita.",
+        "ta": "நேற்று எங்கள் பக்கத்தில் ஒரு பயங்கரமான சம்பவம் நடந்தது.",
+        "en": "A scary incident happened in my neighbourhood yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0116",
+    "expression": "出版",
+    "reading": "しゅっぱん",
+    "romaji": "shuppan",
+    "en": "publishing, publication",
+    "ta": "நூல் வெளியீடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生の本が来月出版されるそうです。",
+        "reading": "せんせいの ほんが らいげつ しゅっぱん される そうです。",
+        "romaji": "sensei no hon ga raigetsu shuppan sareru sou desu.",
+        "ta": "ஆசிரியரின் புத்தகம் அடுத்த மாதம் வெளியிடப்படும் என்று கேள்விப்பட்டேன்.",
+        "en": "I hear our teacher’s book will be published next month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0135",
+    "expression": "状況",
+    "reading": "じょうきょう",
+    "romaji": "joukyou",
+    "en": "situation",
+    "ta": "நிலைமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今の状況を電話で教えてください。",
+        "reading": "いまの じょうきょうを でんわで おしえて ください。",
+        "romaji": "ima no joukyou o denwa de oshiete kudasai.",
+        "ta": "இப்போதைய நிலைமையைத் தொலைபேசியில் சொல்லுங்கள்.",
+        "en": "Please tell me the current situation by phone."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0157",
+    "expression": "情報",
+    "reading": "じょうほう",
+    "romaji": "jouhou",
+    "en": "information",
+    "ta": "தகவல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行の情報はインターネットで調べます。",
+        "reading": "りょこうの じょうほうは インターネットで しらべます。",
+        "romaji": "ryokou no jouhou wa intaanetto de shirabemasu.",
+        "ta": "பயணத் தகவல்களை இணையத்தில் தேடுகிறேன்.",
+        "en": "I look up travel information on the internet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0223",
+    "expression": "すくなくとも",
+    "reading": "すくなくとも",
+    "romaji": "sukunakutomo",
+    "en": "at least",
+    "ta": "குறைந்தபட்சம்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "駅まですくなくとも三十分はかかります。",
+        "reading": "えきまで すくなくとも さんじゅっぷんは かかります。",
+        "romaji": "eki made sukunakutomo sanjuppun wa kakarimasu.",
+        "ta": "ஸ்டேஷன் வரை குறைந்தபட்சம் முப்பது நிமிடம் ஆகும்.",
+        "en": "It takes at least thirty minutes to the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0342",
+    "expression": "表す",
+    "reading": "あらわす",
+    "romaji": "arawasu",
+    "en": "to express, to show",
+    "ta": "வெளிப்படுத்த, காட்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この絵は画家の悲しい気持ちを表しています。",
+        "reading": "この えは がかの かなしい きもちを あらわして います。",
+        "romaji": "kono e wa gaka no kanashii kimochi o arawashite imasu.",
+        "ta": "இந்த ஓவியம் ஓவியரின் சோகமான மனநிலையை வெளிப்படுத்துகிறது.",
+        "en": "This painting shows the painter’s sad feelings."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0344",
+    "expression": "著す",
+    "reading": "あらわす",
+    "romaji": "arawasu",
+    "en": "to write (a book)",
+    "ta": "நூல் இயற்ற, எழுத",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "その先生は日本の歴史について三冊の本を著しました。",
+        "reading": "その せんせいは にほんの れきしに ついて さんさつの ほんを あらわしました。",
+        "romaji": "sono sensei wa nihon no rekishi ni tsuite sansatsu no hon o arawashimashita.",
+        "ta": "அந்தப் பேராசிரியர் ஜப்பானிய வரலாறு பற்றி மூன்று நூல்கள் இயற்றியுள்ளார்.",
+        "en": "That professor has written three books on Japanese history."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0345",
+    "expression": "現れ",
+    "reading": "あらわれ",
+    "romaji": "araware",
+    "en": "sign, expression (of)",
+    "ta": "வெளிப்பாடு, அடையாளம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼の笑顔は安心の現れです。",
+        "reading": "かれの えがおは あんしんの あらわれです。",
+        "romaji": "kare no egao wa anshin no araware desu.",
+        "ta": "அவனுடைய புன்னகை நிம்மதியின் வெளிப்பாடு.",
+        "en": "His smile is a sign of relief."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0433",
+    "expression": "インタビュー",
+    "reading": "インタビュー",
+    "romaji": "intabyuu",
+    "en": "interview",
+    "ta": "நேர்காணல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "有名な歌手のインタビューを雑誌で読みました。",
+        "reading": "ゆうめいな かしゅの インタビューを ざっしで よみました。",
+        "romaji": "yuumei na kashu no intabyuu o zasshi de yomimashita.",
+        "ta": "பிரபல பாடகரின் நேர்காணலைப் பத்திரிகையில் படித்தேன்.",
+        "en": "I read an interview with a famous singer in a magazine."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0463",
+    "expression": "噂",
+    "reading": "うわさ",
+    "romaji": "uwasa",
+    "en": "rumour",
+    "ta": "வதந்தி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの店が閉まるという噂を聞きました。",
+        "reading": "あの みせが しまる という うわさを ききました。",
+        "romaji": "ano mise ga shimaru to iu uwasa o kikimashita.",
+        "ta": "அந்தக் கடை மூடப்படும் என்ற வதந்தியைக் கேட்டேன்.",
+        "en": "I heard a rumour that that shop will close."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0620",
+    "expression": "語る",
+    "reading": "かたる",
+    "romaji": "kataru",
+    "en": "to tell, to talk about",
+    "ta": "விவரித்துச் சொல்ல",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "祖父は戦争のころの話を静かに語りました。",
+        "reading": "そふは せんそうの ころの はなしを しずかに かたりました。",
+        "romaji": "sofu wa sensou no koro no hanashi o shizuka ni katarimashita.",
+        "ta": "தாத்தா போர்க்கால அனுபவங்களை அமைதியாக விவரித்தார்.",
+        "en": "My grandfather quietly told stories of the war years."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0650",
+    "expression": "空",
+    "reading": "から",
+    "romaji": "kara",
+    "en": "empty",
+    "ta": "காலி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冷蔵庫を開けたら、空でした。",
+        "reading": "れいぞうこを あけたら、からでした。",
+        "romaji": "reizouko o aketara, kara deshita.",
+        "ta": "ஃப்ரிட்ஜைத் திறந்தபோது அது காலியாக இருந்தது.",
+        "en": "When I opened the fridge, it was empty."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0705",
+    "expression": "記事",
+    "reading": "きじ",
+    "romaji": "kiji",
+    "en": "article, news story",
+    "ta": "செய்திக் கட்டுரை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今朝の新聞にチェンナイの記事が載っていました。",
+        "reading": "けさの しんぶんに チェンナイの きじが のって いました。",
+        "romaji": "kesa no shinbun ni chennai no kiji ga notte imashita.",
+        "ta": "இன்றைய காலைச் செய்தித்தாளில் சென்னை பற்றிய கட்டுரை வந்திருந்தது.",
+        "en": "There was an article about Chennai in this morning’s paper."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0707",
+    "expression": "記者",
+    "reading": "きしゃ",
+    "romaji": "kisha",
+    "en": "reporter, journalist",
+    "ta": "செய்தியாளர், நிருபர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は新聞社で記者をしています。",
+        "reading": "あねは しんぶんしゃで きしゃを して います。",
+        "romaji": "ane wa shinbunsha de kisha o shite imasu.",
+        "ta": "என் அக்கா ஒரு செய்தித்தாள் நிறுவனத்தில் நிருபராக இருக்கிறார்.",
+        "en": "My older sister works as a reporter at a newspaper."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0830",
+    "expression": "掲示",
+    "reading": "けいじ",
+    "romaji": "keiji",
+    "en": "notice, posting",
+    "ta": "அறிவிப்பு (பலகையில்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試験の時間は廊下に掲示してあります。",
+        "reading": "しけんの じかんは ろうかに けいじ して あります。",
+        "romaji": "shiken no jikan wa rouka ni keiji shite arimasu.",
+        "ta": "தேர்வு நேரம் நடைபாதைப் பலகையில் ஒட்டப்பட்டுள்ளது.",
+        "en": "The exam times are posted in the corridor."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0930",
+    "expression": "国境",
+    "reading": "こっきょう",
+    "romaji": "kokkyou",
+    "en": "border (between countries)",
+    "ta": "நாட்டு எல்லை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "バスで国境を越えてネパールへ行きました。",
+        "reading": "バスで こっきょうを こえて ネパールへ いきました。",
+        "romaji": "basu de kokkyou o koete nepaaru e ikimashita.",
+        "ta": "பேருந்தில் எல்லையைக் கடந்து நேபாளத்துக்குச் சென்றோம்.",
+        "en": "We crossed the border by bus and went to Nepal."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1150",
+    "expression": "余裕",
+    "reading": "よゆう",
+    "romaji": "yoyuu",
+    "en": "room to spare (time, money)",
+    "ta": "(நேரம், பணம்) மிச்சம், தாராளம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今月はお金に余裕がありません。",
+        "reading": "こんげつは おかねに よゆうが ありません。",
+        "romaji": "kongetsu wa okane ni yoyuu ga arimasen.",
+        "ta": "இந்த மாதம் கையில் மிச்சப் பணம் இல்லை.",
+        "en": "I have no money to spare this month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1250",
+    "expression": "刊行",
+    "reading": "かんこう",
+    "romaji": "kankou",
+    "en": "publication (of a series)",
+    "ta": "(இதழ், நூல்) வெளியீடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この雑誌は毎月十日に刊行されます。",
+        "reading": "この ざっしは まいつき とおかに かんこう されます。",
+        "romaji": "kono zasshi wa maitsuki tooka ni kankou saremasu.",
+        "ta": "இந்த இதழ் மாதந்தோறும் பத்தாம் தேதி வெளியிடப்படுகிறது.",
+        "en": "This magazine comes out on the 10th of every month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1270",
+    "expression": "経緯",
+    "reading": "けいい",
+    "romaji": "keii",
+    "en": "how it happened, background",
+    "ta": "நடந்த விவரம், பின்னணி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "事故の経緯を詳しく説明してください。",
+        "reading": "じこの けいいを くわしく せつめい して ください。",
+        "romaji": "jiko no keii o kuwashiku setsumei shite kudasai.",
+        "ta": "விபத்து எப்படி நடந்தது என்பதை விரிவாக விளக்குங்கள்.",
+        "en": "Please explain in detail how the accident happened."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1376",
+    "expression": "大部分",
+    "reading": "だいぶぶん",
+    "romaji": "daibubun",
+    "en": "most, the greater part",
+    "ta": "பெரும்பகுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "クラスの大部分の学生が試験に合格しました。",
+        "reading": "クラスの だいぶぶんの がくせいが しけんに ごうかく しました。",
+        "romaji": "kurasu no daibubun no gakusei ga shiken ni goukaku shimashita.",
+        "ta": "வகுப்பின் பெரும்பாலான மாணவர்கள் தேர்வில் தேர்ச்சி பெற்றனர்.",
+        "en": "Most of the students in the class passed the exam."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1438",
+    "expression": "便り",
+    "reading": "たより",
+    "romaji": "tayori",
+    "en": "news, letter",
+    "ta": "கடிதம், செய்தி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田舎の母から久しぶりに便りが来ました。",
+        "reading": "いなかの ははから ひさしぶりに たよりが きました。",
+        "romaji": "inaka no haha kara hisashiburi ni tayori ga kimashita.",
+        "ta": "ஊரிலுள்ள அம்மாவிடமிருந்து நீண்ட நாட்களுக்குப் பிறகு கடிதம் வந்தது.",
+        "en": "I got a letter from my mother back home after a long time."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1482",
+    "expression": "注目",
+    "reading": "ちゅうもく",
+    "romaji": "chuumoku",
+    "en": "attention, notice",
+    "ta": "கவனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本のアニメが世界中で注目されています。",
+        "reading": "にほんの アニメが せかいじゅうで ちゅうもく されて います。",
+        "romaji": "nihon no anime ga sekaijuu de chuumoku sarete imasu.",
+        "ta": "ஜப்பானிய அனிமே உலகம் முழுவதும் கவனம் பெறுகிறது.",
+        "en": "Japanese anime is getting attention all over the world."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1501",
+    "expression": "通信",
+    "reading": "つうしん",
+    "romaji": "tsuushin",
+    "en": "communication, connection",
+    "ta": "தகவல் தொடர்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "山の中では通信が切れることがあります。",
+        "reading": "やまの なかでは つうしんが きれる ことが あります。",
+        "romaji": "yama no naka de wa tsuushin ga kireru koto ga arimasu.",
+        "ta": "மலைப் பகுதிகளில் சில சமயம் தொடர்பு துண்டிக்கப்படும்.",
+        "en": "In the mountains the connection sometimes drops."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1505",
+    "expression": "疲れ",
+    "reading": "つかれ",
+    "romaji": "tsukare",
+    "en": "tiredness",
+    "ta": "களைப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "温泉に入って、一週間の疲れが取れました。",
+        "reading": "おんせんに はいって、いっしゅうかんの つかれが とれました。",
+        "romaji": "onsen ni haitte, isshuukan no tsukare ga toremashita.",
+        "ta": "வெந்நீர் ஊற்றில் குளித்ததும் ஒரு வாரக் களைப்பு நீங்கியது.",
+        "en": "A soak in the hot spring took away a week of tiredness."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1549",
+    "expression": "出来事",
+    "reading": "できごと",
+    "romaji": "dekigoto",
+    "en": "event, happening",
+    "ta": "நிகழ்வு, சம்பவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日の出来事を日記に書きました。",
+        "reading": "きょうの できごとを にっきに かきました。",
+        "romaji": "kyou no dekigoto o nikki ni kakimashita.",
+        "ta": "இன்றைய நிகழ்வுகளை நாட்குறிப்பில் எழுதினேன்.",
+        "en": "I wrote about today’s events in my diary."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1642",
+    "expression": "名",
+    "reading": "な",
+    "romaji": "na",
+    "en": "name, reputation",
+    "ta": "பெயர், புகழ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その町は焼き物で名が知られています。",
+        "reading": "その まちは やきもので なが しられて います。",
+        "romaji": "sono machi wa yakimono de na ga shirarete imasu.",
+        "ta": "அந்த ஊர் மண்பாண்டங்களுக்குப் பெயர் பெற்றது.",
+        "en": "That town is known for its pottery."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1657",
+    "expression": "無し",
+    "reading": "なし",
+    "romaji": "nashi",
+    "en": "without, none",
+    "ta": "இல்லாமல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "砂糖無しのコーヒーをください。",
+        "reading": "さとう なしの コーヒーを ください。",
+        "romaji": "satou nashi no koohii o kudasai.",
+        "ta": "சர்க்கரை இல்லாத காபி கொடுங்கள்.",
+        "en": "Coffee without sugar, please."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1690",
+    "expression": "人気",
+    "reading": "にんき",
+    "romaji": "ninki",
+    "en": "popularity",
+    "ta": "பிரபலம், மக்கள் விருப்பம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この店のドーサは学生に人気があります。",
+        "reading": "この みせの ドーサは がくせいに にんきが あります。",
+        "romaji": "kono mise no doosa wa gakusei ni ninki ga arimasu.",
+        "ta": "இந்தக் கடையின் தோசை மாணவர்களிடம் பிரபலம்.",
+        "en": "This shop’s dosa is popular with students."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1719",
+    "expression": "載せる",
+    "reading": "のせる",
+    "romaji": "noseru",
+    "en": "to put on; to publish",
+    "ta": "மேலே வைக்க; (பத்திரிகையில்) வெளியிட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "学校の新聞に私の作文を載せてもらいました。",
+        "reading": "がっこうの しんぶんに わたしの さくぶんを のせて もらいました。",
+        "romaji": "gakkou no shinbun ni watashi no sakubun o nosete moraimashita.",
+        "ta": "பள்ளிச் செய்தித்தாளில் என் கட்டுரையை வெளியிட்டார்கள்.",
+        "en": "They published my essay in the school newspaper."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1730",
+    "expression": "述べる",
+    "reading": "のべる",
+    "romaji": "noberu",
+    "en": "to state, to express",
+    "ta": "கூற, தெரிவிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "会議で社長が自分の考えを述べました。",
+        "reading": "かいぎで しゃちょうが じぶんの かんがえを のべました。",
+        "romaji": "kaigi de shachou ga jibun no kangae o nobemashita.",
+        "ta": "கூட்டத்தில் நிறுவனத் தலைவர் தன் கருத்தைத் தெரிவித்தார்.",
+        "en": "At the meeting, the company president stated his view."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1733",
+    "expression": "載る",
+    "reading": "のる",
+    "romaji": "noru",
+    "en": "to appear (in print)",
+    "ta": "(பத்திரிகையில்) வெளிவர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "友達の写真が雑誌に載りました。",
+        "reading": "ともだちの しゃしんが ざっしに のりました。",
+        "romaji": "tomodachi no shashin ga zasshi ni norimashita.",
+        "ta": "நண்பனின் புகைப்படம் பத்திரிகையில் வெளிவந்தது.",
+        "en": "My friend’s photo appeared in a magazine."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1775",
+    "expression": "発行",
+    "reading": "はっこう",
+    "romaji": "hakkou",
+    "en": "issue (of papers, documents)",
+    "ta": "வெளியீடு, வழங்குதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "パスポートの発行には一週間ぐらいかかります。",
+        "reading": "パスポートの はっこうには いっしゅうかん ぐらい かかります。",
+        "romaji": "pasupooto no hakkou ni wa isshuukan gurai kakarimasu.",
+        "ta": "பாஸ்போர்ட் வழங்க ஏறக்குறைய ஒரு வாரம் ஆகும்.",
+        "en": "Issuing a passport takes about a week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1782",
+    "expression": "発表",
+    "reading": "はっぴょう",
+    "romaji": "happyou",
+    "en": "announcement; presentation",
+    "ta": "அறிவிப்பு; விளக்கக்காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "試験の結果は来週発表されます。",
+        "reading": "しけんの けっかは らいしゅう はっぴょう されます。",
+        "romaji": "shiken no kekka wa raishuu happyou saremasu.",
+        "ta": "தேர்வு முடிவுகள் அடுத்த வாரம் அறிவிக்கப்படும்.",
+        "en": "The exam results will be announced next week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1827",
+    "expression": "一言",
+    "reading": "ひとこと",
+    "romaji": "hitokoto",
+    "en": "a word, a few words",
+    "ta": "ஒரு வார்த்தை, சுருக்கமாக",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "帰る前に、先生に一言お礼を言いました。",
+        "reading": "かえる まえに、せんせいに ひとこと おれいを いいました。",
+        "romaji": "kaeru mae ni, sensei ni hitokoto orei o iimashita.",
+        "ta": "கிளம்புவதற்கு முன் ஆசிரியருக்கு ஒரு வார்த்தை நன்றி சொன்னேன்.",
+        "en": "Before leaving, I said a word of thanks to my teacher."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1842",
+    "expression": "表現",
+    "reading": "ひょうげん",
+    "romaji": "hyougen",
+    "en": "expression (way of saying)",
+    "ta": "சொல்லும் விதம், வெளிப்பாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この表現は友達との会話でよく使います。",
+        "reading": "この ひょうげんは ともだちとの かいわで よく つかいます。",
+        "romaji": "kono hyougen wa tomodachi to no kaiwa de yoku tsukaimasu.",
+        "ta": "இந்தச் சொல்லாடலை நண்பர்களுடன் பேசும்போது அடிக்கடி பயன்படுத்துவோம்.",
+        "en": "We often use this expression when talking with friends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1843",
+    "expression": "表情",
+    "reading": "ひょうじょう",
+    "romaji": "hyoujou",
+    "en": "facial expression",
+    "ta": "முகபாவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "手紙を読んだ母の表情が急に明るくなりました。",
+        "reading": "てがみを よんだ ははの ひょうじょうが きゅうに あかるく なりました。",
+        "romaji": "tegami o yonda haha no hyoujou ga kyuu ni akaruku narimashita.",
+        "ta": "கடிதத்தைப் படித்த அம்மாவின் முகம் திடீரென மலர்ந்தது.",
+        "en": "My mother’s face suddenly brightened when she read the letter."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1893",
+    "expression": "ふと",
+    "reading": "ふと",
+    "romaji": "futo",
+    "en": "suddenly, by chance",
+    "ta": "திடீரென்று, தற்செயலாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "夜中にふと昔の友達のことを思い出しました。",
+        "reading": "よなかに ふと むかしの ともだちの ことを おもいだしました。",
+        "romaji": "yonaka ni futo mukashi no tomodachi no koto o omoidashimashita.",
+        "ta": "நள்ளிரவில் திடீரென்று பழைய நண்பனின் நினைவு வந்தது.",
+        "en": "In the middle of the night, I suddenly remembered an old friend."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1908",
+    "expression": "分",
+    "reading": "ぶん",
+    "romaji": "bun",
+    "en": "share, portion",
+    "ta": "பங்கு, பகுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "これは弟の分だから、食べないでね。",
+        "reading": "これは おとうとの ぶん だから、たべないでね。",
+        "romaji": "kore wa otouto no bun dakara, tabenaide ne.",
+        "ta": "இது தம்பியின் பங்கு, சாப்பிடாதே.",
+        "en": "This is my little brother’s share, so don’t eat it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1931",
+    "expression": "報告",
+    "reading": "ほうこく",
+    "romaji": "houkoku",
+    "en": "report",
+    "ta": "அறிக்கை, தெரிவித்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "出張の結果を部長に報告しました。",
+        "reading": "しゅっちょうの けっかを ぶちょうに ほうこく しました。",
+        "romaji": "shucchou no kekka o buchou ni houkoku shimashita.",
+        "ta": "அலுவல் பயணத்தின் முடிவுகளை மேலாளரிடம் தெரிவித்தேன்.",
+        "en": "I reported the results of the business trip to my manager."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2031",
+    "expression": "申告",
+    "reading": "しんこく",
+    "romaji": "shinkoku",
+    "en": "declaration (to officials)",
+    "ta": "(அதிகாரிகளிடம்) அறிவித்தல், தாக்கல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "空港で買った物を税関に申告しました。",
+        "reading": "くうこうで かった ものを ぜいかんに しんこく しました。",
+        "romaji": "kuukou de katta mono o zeikan ni shinkoku shimashita.",
+        "ta": "விமான நிலையத்தில் வாங்கிய பொருட்களைச் சுங்கத்துறையிடம் அறிவித்தேன்.",
+        "en": "At the airport, I declared what I had bought to customs."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2040",
+    "expression": "声明",
+    "reading": "せいめい",
+    "romaji": "seimei",
+    "en": "(official) statement",
+    "ta": "அதிகாரபூர்வ அறிக்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会社は事故について声明を出しました。",
+        "reading": "かいしゃは じこに ついて せいめいを だしました。",
+        "romaji": "kaisha wa jiko ni tsuite seimei o dashimashita.",
+        "ta": "விபத்து குறித்து நிறுவனம் அறிக்கை வெளியிட்டது.",
+        "en": "The company issued a statement about the accident."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2079",
+    "expression": "伝言",
+    "reading": "でんごん",
+    "romaji": "dengon",
+    "en": "message (passed on)",
+    "ta": "(ஒருவர் மூலம் சொல்லும்) தகவல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんに伝言をお願いできますか。",
+        "reading": "たなかさんに でんごんを おねがい できますか。",
+        "romaji": "tanaka-san ni dengon o onegai dekimasu ka.",
+        "ta": "தனாக்கா அவர்களுக்கு ஒரு தகவல் சொல்ல முடியுமா?",
+        "en": "Could you pass a message to Mr Tanaka?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2107",
+    "expression": "版",
+    "reading": "はん",
+    "romaji": "han",
+    "en": "edition",
+    "ta": "பதிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この辞書は新しい版のほうが使いやすいです。",
+        "reading": "この じしょは あたらしい はんの ほうが つかいやすいです。",
+        "romaji": "kono jisho wa atarashii han no hou ga tsukaiyasui desu.",
+        "ta": "இந்த அகராதியின் புதிய பதிப்பு பயன்படுத்த எளிது.",
+        "en": "The new edition of this dictionary is easier to use."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2122",
+    "expression": "マスコミ",
+    "reading": "マスコミ",
+    "romaji": "masukomi",
+    "en": "the media",
+    "ta": "ஊடகங்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その歌手の結婚はマスコミで大きな話題になりました。",
+        "reading": "その かしゅの けっこんは マスコミで おおきな わだいに なりました。",
+        "romaji": "sono kashu no kekkon wa masukomi de ookina wadai ni narimashita.",
+        "ta": "அந்தப் பாடகரின் திருமணம் ஊடகங்களில் பெரிய பேச்சானது.",
+        "en": "That singer’s marriage became big news in the media."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2128",
+    "expression": "メッセージ",
+    "reading": "メッセージ",
+    "romaji": "messeeji",
+    "en": "message",
+    "ta": "செய்தி, மெசேஜ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "誕生日に友達からたくさんメッセージが届きました。",
+        "reading": "たんじょうびに ともだちから たくさん メッセージが とどきました。",
+        "romaji": "tanjoubi ni tomodachi kara takusan messeeji ga todokimashita.",
+        "ta": "பிறந்தநாளில் நண்பர்களிடமிருந்து நிறைய மெசேஜ்கள் வந்தன.",
+        "en": "I got lots of messages from friends on my birthday."
+      }
+    ]
+  }
+]

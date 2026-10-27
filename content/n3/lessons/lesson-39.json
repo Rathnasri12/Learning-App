@@ -1,0 +1,788 @@
+{
+ "lesson": 39,
+ "title": {
+  "ja": "日本は島国である",
+  "ta": "ஜப்பான் ஒரு தீவு நாடு",
+  "en": "Japan is an island nation"
+ },
+ "intro_en": "This lesson helps you read news and essays about politics, the economy and the law. Written Japanese often uses である instead of です. You learn the written \"the fact is that …\" (〜のである / 〜のだ). You learn V-ず、 — a written way to say \"without doing\" or \"did not, and …\". You also learn three word-makers: 法律上 (\"from the point of view of the law\"), 経済的 (\"economic\") and 国際化 (\"internationalization\"). With these, many long newspaper words become easy.",
+ "intro_ta": "இந்தப் பாடம் அரசியல், பொருளாதாரம், சட்டம் பற்றிய செய்திகளையும் கட்டுரைகளையும் படிக்க உதவும். எழுத்து ஜப்பானிய மொழியில் です-க்குப் பதிலாக である அதிகம் வரும். 'உண்மை என்னவென்றால்…' என்று விளக்கும் எழுத்து வடிவம் 〜のである / 〜のだ, 'செய்யாமல்' என்பதற்கான எழுத்து வடிவம் V-ず、 ஆகியவற்றைக் கற்போம். மேலும் 法律上 ('சட்டப்படி'), 経済的 ('பொருளாதார ரீதியான'), 国際化 ('சர்வதேசமயமாக்கல்') போன்ற சொற்களை உருவாக்கும் 上・的・化 என்ற மூன்று பின்னொட்டுகளையும் கற்போம். இவற்றைத் தெரிந்துகொண்டால் செய்தித்தாளின் பல நீண்ட சொற்கள் எளிதாகிவிடும்.",
+ "grammar": [
+  {
+   "id": "g39-1",
+   "pattern": "〜のである / 〜のだ (written)",
+   "name": {
+    "en": "It is that ~ (written explanation)",
+    "ta": "உண்மை என்னவென்றால் ~ (எழுத்து நடை)"
+   },
+   "explanation_en": "In speech you say 〜んです to explain a reason or a background. In essays and news, the same idea is 〜のである or 〜のだ. である is simply the written form of だ. Use it to give the real reason, a conclusion, or a strong point. It often follows a sentence that asks \"why?\". Before のである, verbs and い-adjectives stay in the plain form. Nouns and な-adjectives need な: 問題なのである. The past is 〜のであった / 〜のだった. Don’t use it in polite talk to a person; there, use 〜んです.",
+   "explanation_ta": "பேச்சில் காரணத்தையோ பின்னணியையோ விளக்க 〜んです என்கிறோம். கட்டுரை, செய்தி போன்ற எழுத்தில் அதே பொருள் 〜のである அல்லது 〜のだ என்று வரும். である என்பது だ-வின் எழுத்து வடிவம் மட்டுமே. உண்மையான காரணம், முடிவு அல்லது வலியுறுத்த வேண்டிய கருத்தைச் சொல்ல இது பயன்படும்; பெரும்பாலும் 'ஏன்?' என்ற கேள்விக்குப் பின் பதிலாக வரும். வினை, い-பெயரடை சாதாரண வடிவத்திலேயே வரும்; பெயர்ச்சொல், な-பெயரடைக்குப் பின் な சேர்க்க வேண்டும் (問題なのである). இறந்த காலம் 〜のであった / 〜のだった. ஒருவரிடம் மரியாதையாகப் பேசும்போது இதைப் பயன்படுத்த வேண்டாம்; அங்கே 〜んです போதும்.",
+   "tamil_parallel": "அவர் பதவி விலகியது உடல்நலக் குறைவால்தான் = 彼が辞めたのは、病気のためだったのである",
+   "tamil_parallel_en": "அவர் பதவி விலகியது உடல்நலக் குறைவால்தான் (He resigned because of illness — that is the fact) = 彼が辞めたのは、病気のためだったのである",
+   "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + のである / のだ\nな-பெயரடை / பெயர்ச்சொல் + な + のである / のだ\nஇறந்த காலம்: 〜のであった / 〜のだった",
+   "formation_en": "verb / い-adjective (plain form) + のである / のだ\nな-adjective / noun + な + のである / のだ\npast: 〜のであった / 〜のだった",
+   "examples": [
+    {
+     "ja": "日本は島国である。だから、昔から魚をよく食べてきたのである。",
+     "reading": "にほんは しまぐにで ある。だから、むかしから さかなを よく たべて きたので ある。",
+     "romaji": "nihon wa shimaguni de aru. dakara, mukashi kara sakana o yoku tabete kita no de aru.",
+     "ta": "ஜப்பான் ஒரு தீவு நாடு. அதனால்தான் பழங்காலம் முதலே மீனை அதிகம் உண்டு வந்திருக்கிறார்கள்.",
+     "en": "Japan is an island nation. That is why people have eaten a lot of fish since long ago."
+    },
+    {
+     "ja": "首相が辞めたのは、病気のためだったのである。",
+     "reading": "しゅしょうが やめたのは、びょうきの ためだったので ある。",
+     "romaji": "shushou ga yameta no wa, byouki no tame datta no de aru.",
+     "ta": "பிரதமர் பதவி விலகியது உடல்நலக் குறைவால்தான்.",
+     "en": "The prime minister resigned, in fact, because of illness."
+    },
+    {
+     "ja": "本当の問題は、若者が政治に関心を持たないことなのだ。",
+     "reading": "ほんとうの もんだいは、わかものが せいじに かんしんを もたない ことなのだ。",
+     "romaji": "hontou no mondai wa, wakamono ga seiji ni kanshin o motanai koto na no da.",
+     "ta": "உண்மையான பிரச்சினை, இளைஞர்கள் அரசியலில் ஆர்வம் காட்டாததுதான்.",
+     "en": "The real problem is that young people are not interested in politics."
+    },
+    {
+     "ja": "では、なぜ景気はよくならないのだろうか。",
+     "reading": "では、なぜ けいきは よく ならないのだろうか。",
+     "romaji": "dewa, naze keiki wa yoku naranai no darou ka.",
+     "ta": "அப்படியானால், பொருளாதார நிலை ஏன் மேம்படவில்லை?",
+     "en": "Then why isn’t the economy getting better?"
+    },
+    {
+     "ja": "平和は、何もしなければ守ることができないのである。",
+     "reading": "へいわは、なにも しなければ まもる ことが できないので ある。",
+     "romaji": "heiwa wa, nani mo shinakereba mamoru koto ga dekinai no de aru.",
+     "ta": "எதுவும் செய்யாமல் இருந்தால் அமைதியைக் காக்க முடியாது என்பதே உண்மை.",
+     "en": "Peace cannot be kept if we do nothing."
+    },
+    {
+     "ja": "投票に行かない人が多い。自分の一票では何も変わらないと思っているのだ。",
+     "reading": "とうひょうに いかない ひとが おおい。じぶんの いっぴょうでは なにも かわらないと おもって いるのだ。",
+     "romaji": "touhyou ni ikanai hito ga ooi. jibun no ippyou de wa nani mo kawaranai to omotte iru no da.",
+     "ta": "வாக்களிக்கப் போகாதவர்கள் பலர். தன் ஒரு வாக்கால் எதுவும் மாறாது என்று அவர்கள் நினைப்பதுதான் காரணம்.",
+     "en": "Many people don’t vote. They think their one vote changes nothing."
+    }
+   ],
+   "pitfalls_en": "Don’t forget な after a noun: 問題のである is wrong; say 問題なのである. Also, のである is for writing. Saying it to your teacher sounds like a speech; use 〜んです in conversation.",
+   "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் な மறக்க வேண்டாம்: 問題のである தவறு; 問題なのである சரி. மேலும் のである எழுத்துக்குரியது; ஆசிரியரிடம் பேசும்போது இப்படிச் சொன்னால் மேடைப் பேச்சு போல் ஒலிக்கும் — உரையாடலில் 〜んです பயன்படுத்துங்கள்."
+  },
+  {
+   "id": "g39-2",
+   "pattern": "V-ず、〜",
+   "name": {
+    "en": "Not ~, and … / without ~ (written)",
+    "ta": "~ செய்யாமல், … (எழுத்து நடை)"
+   },
+   "explanation_en": "V-ず is an old, written negative. V-ず、 joins two parts of a sentence. It means 〜ないで (\"without doing\") or 〜なくて (\"did not, so …\"). You already know V-ずに. In writing, you can drop に and put a comma. To make it, take the ない-form and change ない to ず: 食べない → 食べず, 行かない → 行かず. する becomes せず (not しず). 来る becomes 来ず (こず). It sounds formal, so it is common in news, reports and stories.",
+   "explanation_ta": "V-ず என்பது பழைய, எழுத்து நடை எதிர்மறை வடிவம். V-ず、 என்று காற்புள்ளியுடன் வாக்கியத்தின் இரண்டு பகுதிகளை இணைக்கும். இது 〜ないで ('செய்யாமல்') அல்லது 〜なくて ('செய்யாததால்') என்பதற்குச் சமம். ஏற்கெனவே கற்ற V-ずに-இல் に-ஐ நீக்கி, காற்புள்ளி வைத்தால் இந்த எழுத்து வடிவம் கிடைக்கும். உருவாக்கும் முறை: ない-வடிவத்தில் ない-க்குப் பதில் ず (食べない → 食べず, 行かない → 行かず). する என்பது せず ஆகும் (しず அல்ல); 来る என்பது 来ず (こず). இது முறையாக ஒலிப்பதால் செய்திகள், அறிக்கைகள், கதைகளில் அதிகம் வரும். தமிழில் '-ஆமல்' என்ற வினையெச்சத்தைப் போன்றது.",
+   "tamil_parallel": "அவர் கேள்விகளுக்குப் பதில் சொல்லாமல், அரங்கை விட்டு வெளியேறினார் = 彼は質問に答えず、会場を出た",
+   "tamil_parallel_en": "அவர் கேள்விகளுக்குப் பதில் சொல்லாமல், அரங்கை விட்டு வெளியேறினார் (He left the hall without answering) = 彼は質問に答えず、会場を出た",
+   "formation": "V-ない வடிவம் − ない + ず、〜\n食べない → 食べず　行かない → 行かず\nする → せず　来る → 来ず (こず)",
+   "formation_en": "V-ない form − ない + ず、〜\n食べない → 食べず　行かない → 行かず\nする → せず　来る → 来ず (こず)",
+   "examples": [
+    {
+     "ja": "首相は記者の質問に答えず、会場を出た。",
+     "reading": "しゅしょうは きしゃの しつもんに こたえず、かいじょうを でた。",
+     "romaji": "shushou wa kisha no shitsumon ni kotaezu, kaijou o deta.",
+     "ta": "பிரதமர் செய்தியாளர்களின் கேள்விக்குப் பதில் சொல்லாமல் அரங்கை விட்டு வெளியேறினார்.",
+     "en": "The prime minister left the hall without answering the reporters’ questions."
+    },
+    {
+     "ja": "雨が三日間やまず、川の水があふれた。",
+     "reading": "あめが みっかかん やまず、かわの みずが あふれた。",
+     "romaji": "ame ga mikkakan yamazu, kawa no mizu ga afureta.",
+     "ta": "மூன்று நாட்கள் மழை நிற்காததால் ஆறு நிரம்பி வழிந்தது.",
+     "en": "The rain did not stop for three days, and the river overflowed."
+    },
+    {
+     "ja": "政府は野党の意見を聞かず、新しい制度を決めた。",
+     "reading": "せいふは やとうの いけんを きかず、あたらしい せいどを きめた。",
+     "romaji": "seifu wa yatou no iken o kikazu, atarashii seido o kimeta.",
+     "ta": "அரசு எதிர்க்கட்சியின் கருத்தைக் கேட்காமல் புதிய முறையை முடிவு செய்தது.",
+     "en": "The government decided on the new system without listening to the opposition."
+    },
+    {
+     "ja": "彼は誰にも相談せず、会社を辞めてしまった。",
+     "reading": "かれは だれにも そうだん せず、かいしゃを やめて しまった。",
+     "romaji": "kare wa dare ni mo soudan sezu, kaisha o yamete shimatta.",
+     "ta": "அவன் யாரிடமும் கலந்தாலோசிக்காமல் வேலையை விட்டுவிட்டான்.",
+     "en": "He quit his job without talking to anyone."
+    },
+    {
+     "ja": "約束の時間になっても彼は来ず、私は一人で帰った。",
+     "reading": "やくそくの じかんに なっても かれは こず、わたしは ひとりで かえった。",
+     "romaji": "yakusoku no jikan ni natte mo kare wa kozu, watashi wa hitori de kaetta.",
+     "ta": "சொன்ன நேரம் ஆகியும் அவன் வரவில்லை; நான் தனியாகத் திரும்பினேன்.",
+     "en": "He didn’t come even at the agreed time, so I went home alone."
+    },
+    {
+     "ja": "朝ご飯も食べず、どこへ行くのですか。",
+     "reading": "あさごはんも たべず、どこへ いくのですか。",
+     "romaji": "asagohan mo tabezu, doko e iku no desu ka.",
+     "ta": "காலை உணவு கூடச் சாப்பிடாமல் எங்கே போகிறீர்கள்?",
+     "en": "Where are you going without even eating breakfast?"
+    }
+   ],
+   "pitfalls_en": "する becomes せず, not しず. Also, V-ず is not a full sentence end in modern Japanese; use it to join to the next part (V-ず、…). At the end, say 〜ない or 〜なかった.",
+   "pitfalls_ta": "する → せず; しず என்பது தவறு. மேலும் இன்றைய ஜப்பானிய மொழியில் V-ず வாக்கியத்தை முடிக்காது; அடுத்த பகுதியுடன் இணைக்கவே (V-ず、…) பயன்படும். வாக்கிய முடிவில் 〜ない / 〜なかった சொல்லுங்கள்."
+  },
+  {
+   "id": "g39-3",
+   "pattern": "N 上(じょう)",
+   "name": {
+    "en": "From the point of view of N",
+    "ta": "N-இன் அடிப்படையில் / N ரீதியாக"
+   },
+   "explanation_en": "Add 上 (read じょう, not うえ) to some nouns. It means \"from the point of view of N\" or \"in terms of N\". Common words: 法律上 (by law), 健康上 (for health), 歴史上 (in history), 教育上 (for education), 仕事上 (at work), 計算上 (on paper, by the numbers). Before a noun, use の: 健康上の理由 (health reasons). It can also stand alone before a sentence: 法律上、問題はない. It is a stiff, written word, but people also use it in formal talk.",
+   "explanation_ta": "சில பெயர்ச்சொற்களுடன் 上 (うえ அல்ல, じょう என்று படிக்க வேண்டும்) சேர்த்தால் 'N-இன் கோணத்திலிருந்து / N ரீதியாக' என்று பொருள். அடிக்கடி வருவன: 法律上 (சட்டப்படி), 健康上 (உடல்நலக் காரணமாக), 歴史上 (வரலாற்றில்), 教育上 (கல்வி ரீதியாக), 仕事上 (வேலை தொடர்பாக), 計算上 (கணக்குப்படி). பெயர்ச்சொல்லுக்கு முன் の வரும்: 健康上の理由 (உடல்நலக் காரணம்). வாக்கியத் தொடக்கத்தில் தனியாகவும் வரும்: 法律上、問題はない. தமிழில் 'சட்டப்படி', 'உடல்நல ரீதியாக' என்பதில் வரும் '-படி / ரீதியாக' போன்றது. இது எழுத்து நடைச் சொல்; முறையான பேச்சிலும் வரும்.",
+   "tamil_parallel": "சட்டப்படி பதினெட்டு வயதில் வாக்களிக்கலாம் = 法律上、十八歳で投票できる",
+   "tamil_parallel_en": "சட்டப்படி பதினெட்டு வயதில் வாக்களிக்கலாம் (By law, you can vote at 18) = 法律上、十八歳で投票できる",
+   "formation": "பெயர்ச்சொல் + 上 (じょう)、〜\nபெயர்ச்சொல் + 上 + の + பெயர்ச்சொல்\n(எ.கா. 法律上・健康上・歴史上・教育上)",
+   "formation_en": "noun + 上 (じょう)、〜\nnoun + 上 + の + noun\n(e.g. 法律上・健康上・歴史上・教育上)",
+   "examples": [
+    {
+     "ja": "法律上、日本では十八歳から選挙で投票できる。",
+     "reading": "ほうりつじょう、にほんでは じゅうはっさいから せんきょで とうひょう できる。",
+     "romaji": "houritsujou, nihon de wa juuhassai kara senkyo de touhyou dekiru.",
+     "ta": "சட்டப்படி, ஜப்பானில் பதினெட்டு வயது முதல் தேர்தலில் வாக்களிக்கலாம்.",
+     "en": "By law, in Japan you can vote in elections from age 18."
+    },
+    {
+     "ja": "父は健康上の理由で、仕事を辞めることにしました。",
+     "reading": "ちちは けんこうじょうの りゆうで、しごとを やめる ことに しました。",
+     "romaji": "chichi wa kenkoujou no riyuu de, shigoto o yameru koto ni shimashita.",
+     "ta": "அப்பா உடல்நலக் காரணங்களால் வேலையை விட முடிவு செய்தார்.",
+     "en": "My father decided to quit his job for health reasons."
+    },
+    {
+     "ja": "彼は歴史上、最も有名な大統領の一人だ。",
+     "reading": "かれは れきしじょう、もっとも ゆうめいな だいとうりょうの ひとりだ。",
+     "romaji": "kare wa rekishijou, mottomo yuumei na daitouryou no hitori da.",
+     "ta": "வரலாற்றில் மிகப் பிரபலமான ஜனாதிபதிகளில் அவரும் ஒருவர்.",
+     "en": "He is one of the most famous presidents in history."
+    },
+    {
+     "ja": "こういう番組は、子どもの教育上よくないと思います。",
+     "reading": "こういう ばんぐみは、こどもの きょういくじょう よくないと おもいます。",
+     "romaji": "kou iu bangumi wa, kodomo no kyouikujou yokunai to omoimasu.",
+     "ta": "இப்படிப்பட்ட நிகழ்ச்சிகள் குழந்தைகளின் கல்விக்கு நல்லதல்ல என்று நினைக்கிறேன்.",
+     "en": "I think this kind of programme is bad for children’s education."
+    },
+    {
+     "ja": "計算上は、この予算で足りるはずです。",
+     "reading": "けいさんじょうは、この よさんで たりる はずです。",
+     "romaji": "keisanjou wa, kono yosan de tariru hazu desu.",
+     "ta": "கணக்குப்படி இந்த நிதி போதுமானதாக இருக்க வேண்டும்.",
+     "en": "By the numbers, this budget should be enough."
+    },
+    {
+     "ja": "仕事上の悩みは、誰に相談していますか。",
+     "reading": "しごとじょうの なやみは、だれに そうだん して いますか。",
+     "romaji": "shigotojou no nayami wa, dare ni soudan shite imasu ka.",
+     "ta": "வேலை தொடர்பான கவலைகளை யாரிடம் பகிர்ந்துகொள்கிறீர்கள்?",
+     "en": "Who do you talk to about work problems?"
+    }
+   ],
+   "pitfalls_en": "Read 上 as じょう here. 法律の上 (ほうりつの うえ) would mean \"on top of the law\". Also, you can’t add 上 to every noun; learn the common words as a set.",
+   "pitfalls_ta": "இங்கே 上 என்பதை じょう என்றே படிக்க வேண்டும். 法律の上 (ほうりつの うえ) என்றால் 'சட்டத்தின் மேலே' என்று வேறு பொருள். எல்லாப் பெயர்ச்சொல்லுடனும் 上 சேராது; அடிக்கடி வரும் சொற்களைத் தொகுப்பாக மனப்பாடம் செய்யுங்கள்."
+  },
+  {
+   "id": "g39-4",
+   "pattern": "N 的(な)",
+   "name": {
+    "en": "-ic, -al (経済的, 積極的)",
+    "ta": "N ரீதியான / N தன்மையுள்ள"
+   },
+   "explanation_en": "Add 的 (てき) to a kanji noun to make a な-adjective. It works like English \"-ic\" or \"-al\": 経済 (economy) → 経済的 (economic), 国際 → 国際的 (international), 歴史 → 歴史的 (historic). Use 〜的な before a noun: 国際的な都市. Use 〜的に to describe an action: 積極的に参加する. Use 〜的だ / 〜的である at the end. 個人的には means \"personally, in my view\". Compare with 上: 経済上 is \"in terms of the economy\"; 経済的 is an adjective and can also mean \"cheap, saving money\".",
+   "explanation_ta": "கான்ஜி பெயர்ச்சொல்லுடன் 的 (てき) சேர்த்தால் அது な-பெயரடையாக மாறும். ஆங்கிலத்தின் '-ic, -al' போன்றது: 経済 (பொருளாதாரம்) → 経済的 (பொருளாதார ரீதியான), 国際 → 国際的 (சர்வதேச), 歴史 → 歴史的 (வரலாற்றுச் சிறப்புமிக்க). பெயர்ச்சொல்லுக்கு முன் 〜的な (国際的な都市), வினைக்கு முன் 〜的に (積極的に参加する), முடிவில் 〜的だ / 〜的である. 個人的には = 'என் தனிப்பட்ட கருத்தில்'. 上-உடன் வேறுபாடு: 経済上 = 'பொருளாதாரக் கோணத்தில்'; 経済的 ஒரு பெயரடை, மேலும் 'சிக்கனமான, செலவு குறைந்த' என்ற பொருளும் உண்டு. தமிழில் 'அறிவியல் ரீதியான', 'வரலாற்றுப் பூர்வமான' போன்றது.",
+   "tamil_parallel": "டோக்கியோ ஒரு சர்வதேச நகரம் = 東京は国際的な都市だ",
+   "tamil_parallel_en": "டோக்கியோ ஒரு சர்வதேச நகரம் (Tokyo is an international city) = 東京は国際的な都市だ",
+   "formation": "பெயர்ச்சொல் + 的 + な + பெயர்ச்சொல்\nபெயர்ச்சொல் + 的 + に + வினை\nபெயர்ச்சொல் + 的 + だ / である",
+   "formation_en": "noun + 的 + な + noun\nnoun + 的 + に + verb\nnoun + 的 + だ / である",
+   "examples": [
+    {
+     "ja": "東京は世界でも国際的な都市の一つだ。",
+     "reading": "とうきょうは せかいでも こくさいてきな としの ひとつだ。",
+     "romaji": "toukyou wa sekai de mo kokusaiteki na toshi no hitotsu da.",
+     "ta": "உலகிலேயே சர்வதேசத் தன்மை கொண்ட நகரங்களில் டோக்கியோவும் ஒன்று.",
+     "en": "Tokyo is one of the most international cities in the world."
+    },
+    {
+     "ja": "経済的な理由で、大学に行けない若者もいる。",
+     "reading": "けいざいてきな りゆうで、だいがくに いけない わかものも いる。",
+     "romaji": "keizaiteki na riyuu de, daigaku ni ikenai wakamono mo iru.",
+     "ta": "பொருளாதாரக் காரணங்களால் பல்கலைக்கழகம் போக முடியாத இளைஞர்களும் உண்டு.",
+     "en": "Some young people can’t go to university for financial reasons."
+    },
+    {
+     "ja": "彼女はボランティア活動に積極的に参加している。",
+     "reading": "かのじょは ボランティア かつどうに せっきょくてきに さんか して いる。",
+     "romaji": "kanojo wa borantia katsudou ni sekkyokuteki ni sanka shite iru.",
+     "ta": "அவள் தன்னார்வப் பணிகளில் ஆர்வத்துடன் பங்கேற்கிறாள்.",
+     "en": "She takes an active part in volunteer work."
+    },
+    {
+     "ja": "個人的には、この計画には反対です。",
+     "reading": "こじんてきには、この けいかくには はんたいです。",
+     "romaji": "kojinteki ni wa, kono keikaku ni wa hantai desu.",
+     "ta": "தனிப்பட்ட முறையில் நான் இந்தத் திட்டத்தை எதிர்க்கிறேன்.",
+     "en": "Personally, I am against this plan."
+    },
+    {
+     "ja": "一般的に、日本人は時間を守ると言われている。",
+     "reading": "いっぱんてきに、にほんじんは じかんを まもると いわれて いる。",
+     "romaji": "ippanteki ni, nihonjin wa jikan o mamoru to iwarete iru.",
+     "ta": "பொதுவாக, ஜப்பானியர்கள் நேரம் தவறாதவர்கள் என்று சொல்லப்படுகிறது.",
+     "en": "In general, Japanese people are said to be punctual."
+    },
+    {
+     "ja": "この方法は、あまり効果的ではないようだ。",
+     "reading": "この ほうほうは、あまり こうかてきでは ない ようだ。",
+     "romaji": "kono houhou wa, amari koukateki de wa nai you da.",
+     "ta": "இந்த முறை அவ்வளவு பயனுள்ளதாகத் தெரியவில்லை.",
+     "en": "This method doesn’t seem very effective."
+    },
+    {
+     "ja": "その会議は、歴史的な一日になった。",
+     "reading": "その かいぎは、れきしてきな いちにちに なった。",
+     "romaji": "sono kaigi wa, rekishiteki na ichinichi ni natta.",
+     "ta": "அந்த மாநாடு ஒரு வரலாற்றுச் சிறப்புமிக்க நாளாக அமைந்தது.",
+     "en": "That meeting became a historic day."
+    }
+   ],
+   "pitfalls_en": "Don’t use の after 的: 国際的の都市 is wrong; say 国際的な都市. Also, 的 goes with kanji nouns, mostly not with native words or katakana.",
+   "pitfalls_ta": "的-க்குப் பின் の வராது: 国際的の都市 தவறு; 国際的な都市 சரி. மேலும் 的 பெரும்பாலும் கான்ஜி பெயர்ச்சொற்களுடன் மட்டுமே சேரும்."
+  },
+  {
+   "id": "g39-5",
+   "pattern": "N 化 (する)",
+   "name": {
+    "en": "-ization, becoming N (国際化, 自動化)",
+    "ta": "N-மயமாதல் / N-ஆக மாறுதல்"
+   },
+   "explanation_en": "Add 化 (か) to a noun to show a change: \"to become N\" or \"to make something N\". It is like English \"-ize / -ization\". 国際化 = internationalization, 自動化 = automation, 高齢化 = the population getting older, 映画化 = making into a film. Add する to use it as a verb: 自動化する. Things that happen by themselves often use 進む: 高齢化が進む. Things people do often use the passive: 映画化される. It is very common in news.",
+   "explanation_ta": "பெயர்ச்சொல்லுடன் 化 (か) சேர்த்தால் 'N ஆக மாறுதல்' அல்லது 'N ஆக மாற்றுதல்' என்று பொருள். தமிழில் '-மயமாக்கல்' (நவீனமயமாக்கல், கணினிமயமாக்கல்) போன்றது. 国際化 = சர்வதேசமயமாக்கல், 自動化 = தானியங்கிமயமாக்கல், 高齢化 = மக்கள்தொகையில் முதியோர் அதிகரிப்பு, 映画化 = திரைப்படமாக்குதல். வினையாகப் பயன்படுத்த する சேர்க்கவும் (自動化する). தானாக நடக்கும் மாற்றத்துக்கு 進む அடிக்கடி வரும் (高齢化が進む); மனிதர்கள் செய்யும் மாற்றத்துக்குச் செயப்பாட்டு வடிவம் (映画化される) வரும். செய்திகளில் மிக அதிகம் பயன்படுகிறது.",
+   "tamil_parallel": "தொழிற்சாலை வேலைகள் இயந்திரமயமாக்கப்பட்டன = 工場の仕事が機械化された",
+   "tamil_parallel_en": "தொழிற்சாலை வேலைகள் இயந்திரமயமாக்கப்பட்டன (Factory work was mechanized) = 工場の仕事が機械化された",
+   "formation": "பெயர்ச்சொல் + 化 (பெயர்ச்சொல்)\nபெயர்ச்சொல் + 化 + する / される\nN化が進む (மாற்றம் தொடர்கிறது)",
+   "formation_en": "noun + 化 (noun)\nnoun + 化 + する / される\nN化が進む (the change goes on)",
+   "examples": [
+    {
+     "ja": "日本では、高齢化が急に進んでいる。",
+     "reading": "にほんでは、こうれいかが きゅうに すすんで いる。",
+     "romaji": "nihon de wa, koureika ga kyuu ni susunde iru.",
+     "ta": "ஜப்பானில் முதியோர் விகிதம் வேகமாக அதிகரித்து வருகிறது.",
+     "en": "In Japan, the population is ageing quickly."
+    },
+    {
+     "ja": "この工場では、ほとんどの作業が自動化された。",
+     "reading": "この こうじょうでは、ほとんどの さぎょうが じどうか された。",
+     "romaji": "kono koujou de wa, hotondo no sagyou ga jidouka sareta.",
+     "ta": "இந்தத் தொழிற்சாலையில் பெரும்பாலான வேலைகள் தானியங்கிமயமாக்கப்பட்டன.",
+     "en": "Most of the work in this factory has been automated."
+    },
+    {
+     "ja": "あの人気の小説が、来年映画化されるそうだ。",
+     "reading": "あの にんきの しょうせつが、らいねん えいがか される そうだ。",
+     "romaji": "ano ninki no shousetsu ga, rainen eigaka sareru sou da.",
+     "ta": "அந்தப் பிரபல நாவல் அடுத்த ஆண்டு திரைப்படமாக எடுக்கப்படுமாம்.",
+     "en": "I hear that popular novel will be made into a film next year."
+    },
+    {
+     "ja": "大学の国際化のために、留学生を増やしている。",
+     "reading": "だいがくの こくさいかの ために、りゅうがくせいを ふやして いる。",
+     "romaji": "daigaku no kokusaika no tame ni, ryuugakusei o fuyashite iru.",
+     "ta": "பல்கலைக்கழகத்தைச் சர்வதேசமயமாக்க, வெளிநாட்டு மாணவர்களை அதிகரிக்கிறார்கள்.",
+     "en": "They are taking more foreign students to make the university international."
+    },
+    {
+     "ja": "地球の温暖化は、世界全体の問題である。",
+     "reading": "ちきゅうの おんだんかは、せかい ぜんたいの もんだいで ある。",
+     "romaji": "chikyuu no ondanka wa, sekai zentai no mondai de aru.",
+     "ta": "புவி வெப்பமயமாதல் முழு உலகத்தின் பிரச்சினை.",
+     "en": "Global warming is a problem for the whole world."
+    },
+    {
+     "ja": "この町の駅も、もう無人化されたのですか。",
+     "reading": "この まちの えきも、もう むじんか された のですか。",
+     "romaji": "kono machi no eki mo, mou mujinka sareta no desu ka.",
+     "ta": "இந்த ஊர் ரயில் நிலையமும் ஊழியர் இல்லாத நிலையமாக மாற்றப்பட்டதா?",
+     "en": "Has this town’s station also become unstaffed already?"
+    }
+   ],
+   "pitfalls_en": "Read 化 as か, not ば (化ける is a different word). Don’t confuse 化 and 的: 国際化 is a change (\"becoming international\"); 国際的 describes how something is (\"international\").",
+   "pitfalls_ta": "化 என்பதை か என்று படிக்க வேண்டும். 化 என்பதும் 的 என்பதும் வேறு: 国際化 = சர்வதேசமாக 'மாறும்' செயல்; 国際的 = 'சர்வதேசத் தன்மையுள்ள' என்று ஒன்றின் இயல்பைச் சொல்லும் பெயரடை."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0057",
+  "n3-v-0069",
+  "n3-v-0089",
+  "n3-v-0094",
+  "n3-v-0111",
+  "n3-v-0169",
+  "n3-v-0278",
+  "n3-v-0282",
+  "n3-v-0292",
+  "n3-v-0359",
+  "n3-v-0363",
+  "n3-v-0368",
+  "n3-v-0374",
+  "n3-v-0387",
+  "n3-v-0418",
+  "n3-v-0508",
+  "n3-v-0557",
+  "n3-v-0687",
+  "n3-v-0690",
+  "n3-v-0695",
+  "n3-v-0713",
+  "n3-v-0793",
+  "n3-v-0818",
+  "n3-v-0820",
+  "n3-v-0826",
+  "n3-v-0863",
+  "n3-v-0870",
+  "n3-v-0921",
+  "n3-v-0928",
+  "n3-v-0929",
+  "n3-v-1237",
+  "n3-v-1253",
+  "n3-v-1257",
+  "n3-v-1262",
+  "n3-v-1283",
+  "n3-v-1304",
+  "n3-v-1364",
+  "n3-v-1369",
+  "n3-v-1371",
+  "n3-v-1373",
+  "n3-v-1452",
+  "n3-v-1464",
+  "n3-v-1553",
+  "n3-v-1564",
+  "n3-v-1572",
+  "n3-v-1584",
+  "n3-v-1603",
+  "n3-v-1841",
+  "n3-v-1854",
+  "n3-v-1855",
+  "n3-v-1916",
+  "n3-v-1927",
+  "n3-v-2030",
+  "n3-v-2046",
+  "n3-v-2057",
+  "n3-v-2102",
+  "n3-v-2110",
+  "n3-v-2129"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L39-q01",
+    "type": "kanji_reading",
+    "sentence": "来月、市長の ＿選挙＿が あります。",
+    "target": "選挙",
+    "options": [
+     "せんきょ",
+     "せんきょう",
+     "ぜんきょ",
+     "せんこ"
+    ],
+    "answer": 0,
+    "explanation_ta": "選挙 = せんきょ (தேர்தல்). 挙 இங்கு 'きょ' — நீண்ட 'う' இல்லை. ぜんきょ என்பதில் 選-க்குத் தவறாக ぜ வருகிறது.",
+    "explanation_en": "選挙 is read せんきょ (election). 挙 is きょ here, with no long う. ぜんきょ has the wrong first sound."
+   },
+   {
+    "id": "L39-q02",
+    "type": "kanji_reading",
+    "sentence": "＿憲法＿は 国の 一番 大切な 法律である。",
+    "target": "憲法",
+    "options": [
+     "けんほう",
+     "げんぽう",
+     "けんぽう",
+     "けんぼう"
+    ],
+    "answer": 2,
+    "explanation_ta": "憲法 = けんぽう (அரசியலமைப்புச் சட்டம்). ん-க்குப் பின் 法 'ぽう' ஆகிறது (方法 ほうほう-வில் போல் அல்ல). けんほう, けんぼう தவறு.",
+    "explanation_en": "憲法 is read けんぽう (constitution). After ん, 法 becomes ぽう. けんほう and けんぼう are wrong."
+   },
+   {
+    "id": "L39-q03",
+    "type": "kanji_reading",
+    "sentence": "＿首相＿は 記者の 質問に 答えず、会場を 出た。",
+    "target": "首相",
+    "options": [
+     "しゅそう",
+     "しゅうしょう",
+     "くびしょう",
+     "しゅしょう"
+    ],
+    "answer": 3,
+    "explanation_ta": "首相 = しゅしょう (பிரதமர்). 首 இங்கு 'しゅ' (くび அல்ல), 相 'しょう'. しゅうしょう-வில் தேவையற்ற நீண்ட ஒலி உள்ளது.",
+    "explanation_en": "首相 is read しゅしょう (prime minister). 首 is しゅ here, not くび. しゅうしょう has an extra long sound."
+   },
+   {
+    "id": "L39-q04",
+    "type": "orthography",
+    "sentence": "経済を ＿あんてい＿させる ことが 大切だ。",
+    "target": "あんてい",
+    "options": [
+     "案定",
+     "安定",
+     "安停",
+     "安低"
+    ],
+    "answer": 1,
+    "explanation_ta": "あんてい = 安定 (நிலைத்தன்மை). 安 = அமைதி, 定 = நிலைப்படுத்து. 案 (திட்டம்), 停, 低 ஒலியில் ஒத்திருந்தாலும் இங்குப் பொருந்தாது.",
+    "explanation_en": "あんてい is 安定 (stability). 安 = calm, 定 = fixed. 案 (plan), 停 and 低 don’t fit here."
+   },
+   {
+    "id": "L39-q05",
+    "type": "orthography",
+    "sentence": "日曜日、近くの 小学校へ ＿とうひょう＿に 行きました。",
+    "target": "とうひょう",
+    "options": [
+     "投表",
+     "当票",
+     "投標",
+     "投票"
+    ],
+    "answer": 3,
+    "explanation_ta": "とうひょう = 投票 (வாக்களித்தல்). 投 = போடு (投げる), 票 = வாக்குச் சீட்டு. 表 (அட்டவணை), 標 (அடையாளம்) தவறு.",
+    "explanation_en": "とうひょう is 投票 (voting). 投 = throw in, 票 = ballot. 表 (table) and 標 (mark) are wrong."
+   },
+   {
+    "id": "L39-q06",
+    "type": "vocab_context",
+    "sentence": "政府の 計画に 反対する 人たちが、駅前で （　　）を 行った。",
+    "options": [
+     "ダム",
+     "データ",
+     "デモ",
+     "ドラマ"
+    ],
+    "answer": 2,
+    "explanation_ta": "எதிர்ப்பைத் தெரிவிக்கக் கூடி நடப்பது デモ (ஆர்ப்பாட்டம்). データ = தரவு, ダム = அணை, ドラマ = நாடகம்.",
+    "explanation_en": "People who oppose a plan gather for a デモ (protest). データ = data, ダム = dam, ドラマ = drama."
+   },
+   {
+    "id": "L39-q07",
+    "type": "vocab_context",
+    "sentence": "健康を （　　）する ために、毎日 三十分 歩いて いる。",
+    "options": [
+     "維持",
+     "支配",
+     "独立",
+     "評価"
+    ],
+    "answer": 0,
+    "explanation_ta": "உடல்நலத்தை 'தக்கவைக்க' = 健康を維持する. 支配 = ஆதிக்கம் செலுத்துதல், 独立 = சுதந்திரம், 評価 = மதிப்பீடு — பொருந்தாது.",
+    "explanation_en": "To keep your health = 健康を維持する. 支配 = control, 独立 = independence, 評価 = evaluation. They don’t fit."
+   },
+   {
+    "id": "L39-q08",
+    "type": "vocab_context",
+    "sentence": "最近 （　　）が 悪くて、会社の 売り上げが 下がって いる。",
+    "options": [
+     "天気",
+     "人気",
+     "景気",
+     "元気"
+    ],
+    "answer": 2,
+    "explanation_ta": "விற்பனை குறைவதற்குக் காரணம் பொருளாதார நிலை: 景気が悪い. 天気 = வானிலை, 人気 = பிரபலம், 元気 = உற்சாகம்.",
+    "explanation_en": "Sales fall when business is bad: 景気が悪い. 天気 = weather, 人気 = popularity, 元気 = energy."
+   },
+   {
+    "id": "L39-q09",
+    "type": "vocab_context",
+    "sentence": "来年の 四月から、新しい 税の 制度が （　　）される。",
+    "options": [
+     "享受",
+     "独立",
+     "振興",
+     "実施"
+    ],
+    "answer": 3,
+    "explanation_ta": "ஒரு முறையை 'நடைமுறைப்படுத்துதல்' = 実施される. 享受 = அனுபவித்தல், 振興 = ஊக்குவிப்பு — 'முறை' உடன் சேராது.",
+    "explanation_en": "A system is \"put into practice\": 実施される. 享受 = enjoying, 振興 = promotion. They don’t go with 制度."
+   },
+   {
+    "id": "L39-q10",
+    "type": "vocab_context",
+    "sentence": "長い 話し合いの 結果、ようやく 結論に （　　）。",
+    "options": [
+     "治めた",
+     "至った",
+     "諮った",
+     "集めた"
+    ],
+    "answer": 1,
+    "explanation_ta": "முடிவுக்கு 'வந்தடைந்தோம்' = 結論に至った. 治める = ஆட்சி செய்ய, 諮る = ஆலோசனை கேட்க, 集める = சேகரிக்க.",
+    "explanation_en": "\"We reached a conclusion\" = 結論に至った. 治める = to govern, 諮る = to consult, 集める = to collect."
+   },
+   {
+    "id": "L39-q11",
+    "type": "paraphrase",
+    "sentence": "この 割引は 高校生にも 適用されます。",
+    "options": [
+     "この 割引は 高校生だけが 使えます。",
+     "高校生も この 割引を 使う ことが できます。",
+     "高校生は この 割引を 使えません。",
+     "この 割引は 高校生が 作りました。"
+    ],
+    "answer": 1,
+    "explanation_ta": "適用される = 'பொருந்தும்'. உயர்நிலைப் பள்ளி மாணவர்களுக்கும் பொருந்தும் = அவர்களும் பயன்படுத்தலாம். 'だけ' என்ற விருப்பம் も-வின் பொருளுக்கு மாறானது.",
+    "explanation_en": "適用される = \"it applies\". It applies to high school students too, so they can use it. The だけ option is wrong because of も (\"also\")."
+   },
+   {
+    "id": "L39-q12",
+    "type": "paraphrase",
+    "sentence": "彼は 会議で 積極的に 意見を 言う。",
+    "options": [
+     "彼は 会議で あまり 意見を 言わない。",
+     "彼は 会議で 小さい 声で 意見を 言う。",
+     "彼は 会議で 人の 意見を よく 聞く。",
+     "彼は 会議で 自分から 進んで 意見を 言う。"
+    ],
+    "answer": 3,
+    "explanation_ta": "積極的に = 'தானாக முன்வந்து'. எனவே 自分から進んで சரி. 'あまり言わない' இதற்கு நேர் எதிர்.",
+    "explanation_en": "積極的に = \"actively, on your own\". So 自分から進んで is right. あまり言わない is the opposite."
+   },
+   {
+    "id": "L39-q13",
+    "type": "usage",
+    "sentence": "治める",
+    "options": [
+     "病気が 治めて、学校に 行けるように なった。",
+     "宿題を 明日までに 先生に 治めて ください。",
+     "財布を かばんの 中に 治めた。",
+     "昔、この 国は 一人の 王が 治めて いた。"
+    ],
+    "answer": 3,
+    "explanation_ta": "治める = நாட்டை ஆள்வது: 王が国を治める. நோய் குணமாவது 治る (病気が治る). பணம், வீட்டுப்பாடம் 'ஒப்படைப்பது' 納める / 出す; பையில் வைப்பது 入れる / 収める.",
+    "explanation_en": "治める = to rule a country: 王が国を治める. An illness getting better is 治る. Handing in homework is 出す. Putting a wallet in a bag is 入れる."
+   },
+   {
+    "id": "L39-q14",
+    "type": "usage",
+    "sentence": "支配",
+    "options": [
+     "毎朝、犬に えさを 支配して います。",
+     "会議の 時間を 少し 支配して ください。",
+     "その 国は 長い 間、外国に 支配されて いた。",
+     "母は スープの 味を 支配した。"
+    ],
+    "answer": 2,
+    "explanation_ta": "支配 = ஒரு நாடு / மக்கள் மீது ஆதிக்கம்: 外国に支配される. உணவு கொடுப்பது あげる, நேரம் மாற்றுவது 変える / 調整する, சுவை சரிசெய்வது 調える — இவற்றுக்கு 支配 பொருந்தாது.",
+    "explanation_en": "支配 = control over a country or people: 外国に支配される. Feeding a dog is えさをあげる; changing a time is 変える; fixing a taste is 調える."
+   },
+   {
+    "id": "L39-q15",
+    "type": "grammar_form",
+    "sentence": "法律（　　）、日本では 十八歳から 投票できる。",
+    "options": [
+     "的",
+     "上",
+     "化",
+     "中"
+    ],
+    "answer": 1,
+    "explanation_ta": "'சட்டப்படி' = 法律上 (ほうりつじょう). 法律的 என்றால் 法律的に என்று に தேவை; 法律化 = 'சட்டமாக்குதல்' — பொருள் வேறு.",
+    "explanation_en": "\"By law\" = 法律上. 法律的 would need に (法律的に). 法律化 means \"making into a law\"."
+   },
+   {
+    "id": "L39-q16",
+    "type": "grammar_form",
+    "sentence": "彼は 傘を （　　）、雨の 中を 出かけて いった。",
+    "options": [
+     "持たなく",
+     "持たず",
+     "持たずて",
+     "持ちず"
+    ],
+    "answer": 1,
+    "explanation_ta": "持たない → 持たず (ない-க்குப் பதில் ず). 'குடை எடுக்காமல்' = 持たず、. 持ちず என்பது தவறான வடிவம்; 持たなく、 என்று காற்புள்ளியுடன் இணைக்க முடியாது.",
+    "explanation_en": "持たない → 持たず (change ない to ず). \"Without taking an umbrella\" = 持たず、. 持ちず is a wrong form. 持たなく、 can’t join a sentence."
+   },
+   {
+    "id": "L39-q17",
+    "type": "grammar_form",
+    "sentence": "彼は 誰にも 相談（　　）、会社を 辞めて しまった。",
+    "options": [
+     "せず",
+     "しず",
+     "さず",
+     "すず"
+    ],
+    "answer": 0,
+    "explanation_ta": "する-வின் ず வடிவம் せず மட்டுமே. しず என்பது அடிக்கடி வரும் தவறு.",
+    "explanation_en": "The ず-form of する is せず. しず is a common mistake."
+   },
+   {
+    "id": "L39-q18",
+    "type": "grammar_form",
+    "sentence": "東京は 世界でも （　　）な 都市の 一つである。",
+    "options": [
+     "国際",
+     "国際化",
+     "国際的",
+     "国際上"
+    ],
+    "answer": 2,
+    "explanation_ta": "な-க்கு முன் பெயரடை வேண்டும்: 国際的な都市. 国際 என்பது பெயர்ச்சொல் (国際な தவறு); 国際化 'மாற்றம்', பெயரடை அல்ல.",
+    "explanation_en": "Before な you need an adjective: 国際的な都市. 国際 is a noun (国際な is wrong). 国際化 is a change, not an adjective."
+   },
+   {
+    "id": "L39-q19",
+    "type": "grammar_form",
+    "sentence": "工場の 仕事の 多くが 機械（　　）された。",
+    "options": [
+     "的",
+     "上",
+     "式",
+     "化"
+    ],
+    "answer": 3,
+    "explanation_ta": "'இயந்திரமயமாக்கப்பட்டது' = 機械化された. 化 + する / される மாற்றத்தைக் காட்டும். 的、上 ஆகியவற்றுடன் される சேராது.",
+    "explanation_en": "\"Was mechanized\" = 機械化された. 化 + する/される shows a change. 的 and 上 can’t take される."
+   },
+   {
+    "id": "L39-q20",
+    "type": "grammar_form",
+    "sentence": "なぜ 若者は 選挙に 行かないのか。政治に 関心が ないから（　　）。",
+    "options": [
+     "なのである",
+     "ことである",
+     "ものである",
+     "わけがない"
+    ],
+    "answer": 0,
+    "explanation_ta": "'ஏன்?' என்ற கேள்விக்கு எழுத்து நடையில் காரணம் சொல்வது 〜からなのである. からことである, からものである இலக்கணப்படி தவறு; わけがない = 'இருக்கவே முடியாது' — பொருள் மாறும்.",
+    "explanation_en": "The written answer to \"why?\" is 〜からなのである. からことである and からものである are not grammatical. わけがない means \"it can’t be\"."
+   },
+   {
+    "id": "L39-q21",
+    "type": "grammar_form",
+    "sentence": "経済（　　）に 苦しい 家庭を、国が 支援して いる。",
+    "options": [
+     "的",
+     "化",
+     "上",
+     "式"
+    ],
+    "answer": 0,
+    "explanation_ta": "'பொருளாதார ரீதியாகக் கஷ்டப்படும்' = 経済的に苦しい. に-க்கு முன் 的 வரும். 経済上 என்பதன் பின் に வராது (経済上の, 経済上、 என்றே வரும்).",
+    "explanation_en": "\"Struggling financially\" = 経済的に苦しい. 的 takes に. 経済上 is not followed by に (say 経済上の or 経済上、)."
+   },
+   {
+    "id": "L39-q22",
+    "type": "sentence_order",
+    "before": "最近、選挙に",
+    "chunks": [
+     "行かない",
+     "若者が",
+     "増えて いる",
+     "のである"
+    ],
+    "star": 1,
+    "after": "。",
+    "explanation_ta": "選挙に 行かない (வாக்களிக்கப் போகாத) → 若者が (இளைஞர்கள்) → 増えている (அதிகரிக்கிறார்கள்) → のである. ★ = 若者が.",
+    "explanation_en": "選挙に 行かない (who don’t vote) → 若者が (young people) → 増えている (are increasing) → のである. ★ = 若者が."
+   },
+   {
+    "id": "L39-q23",
+    "type": "sentence_order",
+    "before": "彼は",
+    "chunks": [
+     "誰にも",
+     "何も",
+     "言わず",
+     "家を"
+    ],
+    "star": 2,
+    "after": "出て いった。",
+    "explanation_ta": "誰にも (யாரிடமும்) 何も (எதுவும்) 言わず (சொல்லாமல்) 家を 出ていった. ★ = 言わず.",
+    "explanation_en": "誰にも (to anyone) 何も (anything) 言わず (without saying) 家を 出ていった. ★ = 言わず."
+   },
+   {
+    "id": "L39-q24",
+    "type": "sentence_order",
+    "before": "日本では",
+    "chunks": [
+     "少子化と",
+     "高齢化が",
+     "同時に",
+     "進んで"
+    ],
+    "star": 1,
+    "after": "いる。",
+    "explanation_ta": "少子化と (குழந்தைப் பிறப்புக் குறைவும்) 高齢化が (முதியோர் அதிகரிப்பும்) 同時に (ஒரே நேரத்தில்) 進んでいる. ★ = 高齢化が.",
+    "explanation_en": "少子化と (fewer children and) 高齢化が (more old people) 同時に (at the same time) 進んでいる. ★ = 高齢化が."
+   },
+   {
+    "id": "L39-q25",
+    "type": "sentence_order",
+    "before": "それは",
+    "chunks": [
+     "法律上",
+     "問題が",
+     "ない",
+     "としても"
+    ],
+    "star": 2,
+    "after": "、よくない ことだ。",
+    "explanation_ta": "法律上 (சட்டப்படி) 問題が ない (பிரச்சினை இல்லை) としても (என்றாலும்), よくないことだ. ★ = ない.",
+    "explanation_en": "法律上 (by law) 問題が ない (no problem) としても (even if), よくないことだ. ★ = ない."
+   },
+   {
+    "id": "L39-q26",
+    "type": "passage_cloze",
+    "passage": "日本は島国である。周りを海に囲まれているため、昔は外国の影響を受けにくかった。しかし、十九世紀の終わりごろから、日本は西洋の制度を取り入れ、近代［1］を進めた。政府は古い考えにこだわら［2］、多くの留学生を海外へ送った。その結果、日本は短い間に経済［3］にも大きく発展した。なぜ、これほど早く変わることができたのだろうか。それは、国民が新しいものを積極的に学ぼうとしたから［4］。",
+    "blanks": [
+     {
+      "options": [
+       "化",
+       "的",
+       "上",
+       "中"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "ない",
+       "ず",
+       "なくて",
+       "なければ"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "上",
+       "的",
+       "化",
+       "式"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "だったのか",
+       "なのだろうか",
+       "ではなかった",
+       "なのである"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "［1］ 'நவீனமயமாக்கலை முன்னெடுத்தது' = 近代化を進めた. ［2］ 'பழைய எண்ணங்களைப் பற்றிக்கொள்ளாமல்' = こだわらず、 (எழுத்து நடை). ［3］ 'பொருளாதார ரீதியாகவும்' = 経済的にも; に-க்கு முன் 的. ［4］ 'ஏன்?' என்ற கேள்விக்கான பதில் = 〜からなのである. なのだろうか மீண்டும் கேள்வியாகிவிடும்.",
+    "explanation_en": "[1] \"pushed modernization\" = 近代化を進めた. [2] \"without sticking to old ideas\" = こだわらず、 (written). [3] \"economically too\" = 経済的にも; 的 takes に. [4] The answer to \"why?\" = 〜からなのである. なのだろうか would ask the question again."
+   }
+  ]
+ }
+}

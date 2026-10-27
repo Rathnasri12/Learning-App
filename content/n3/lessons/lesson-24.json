@@ -1,0 +1,272 @@
+{
+ "lesson": 24,
+ "title": { "ja": "今度こそ", "ta": "இந்த முறை கண்டிப்பாக", "en": "This time for sure" },
+ "intro_en": "This lesson is about effort, records and success. You learn small words that add strong feeling to a noun. こそ means \"this one for sure\": 今度こそ (this time for sure). さえ / でさえ mean \"even\" for a basic or extreme case: 先生でさえ (even the teacher). まで means \"even\" when one more thing is added on top. だって is the casual \"even\" or \"too\": 子どもだって (even a kid). You also learn words like 記録, 努力, 合格 and 活躍.",
+ "intro_ta": "இந்தப் பாடம் முயற்சி, சாதனை, வெற்றி பற்றியது. ஒரு பெயர்ச்சொல்லுக்கு அழுத்தம் தரும் சிறிய சொற்களைக் கற்போம்: こそ = 'இதுதான், கண்டிப்பாக' (今度こそ = இந்த முறை கண்டிப்பாக); さえ / でさえ = 'கூட' — அடிப்படையான அல்லது உச்சமான உதாரணத்துக்கு (先生でさえ = ஆசிரியர் கூட); まで = 'கூட' — ஏற்கனவே உள்ளதன் மேல் இன்னொன்று சேரும்போது; だって = பேச்சு வழக்கில் 'கூட / -உம்' (子どもだって = குழந்தை கூட). 記録, 努力, 合格, 活躍 போன்ற சொற்களையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g24-1",
+   "pattern": "N こそ",
+   "name": { "en": "Precisely N / N for sure (emphasis)", "ta": "N-தான் / N-ஆவது கண்டிப்பாக" },
+   "explanation_en": "こそ puts strong focus on one noun: \"this one, and no other\". 今度こそ = \"this time for sure\" (after failing before). これこそ = \"this is exactly it\". こちらこそ = \"no, I should thank you\". こそ takes the place of は, が and を. Other particles stay: 若い時にこそ. It is often used for goals and strong feelings. Compare with からこそ (lesson 11): that is \"precisely because\".",
+   "explanation_ta": "こそ ஒரு பெயர்ச்சொல்லுக்கு வலுவான அழுத்தம் தரும்: 'இதுதான், வேறு எதுவும் அல்ல'. 今度こそ = 'இந்த முறையாவது கண்டிப்பாக' (முன்பு தோற்ற பிறகு). これこそ = 'இதுதான் சரியானது'. こちらこそ = 'நான்தான் உங்களுக்கு நன்றி சொல்ல வேண்டும்'. こそ என்பது は, が, を ஆகியவற்றின் இடத்தில் வரும்; மற்ற இடைச்சொற்கள் அப்படியே இருக்கும்: 若い時にこそ. இலக்குகள், உறுதியான உணர்வுகளுக்கு அதிகம் பயன்படும். பாடம் 11-இல் கற்ற からこそ = 'அதனால்தான்'.",
+   "tamil_parallel": "இந்த முறையாவது கண்டிப்பாக = 今度こそ; இதுதான் நான் தேடிய புத்தகம் = これこそ私が探していた本だ",
+   "tamil_parallel_en": "இந்த முறையாவது கண்டிப்பாக (this time for sure) = 今度こそ; இதுதான் நான் தேடிய புத்தகம் (this is exactly the book I wanted) = これこそ私が探していた本だ",
+   "formation": "பெயர்ச்சொல் + こそ (は / が / を-க்குப் பதிலாக)\nபெயர்ச்சொல் + に / で + こそ (若い時にこそ)\nநிலையான சொற்றொடர்கள்: 今度こそ、今年こそ、こちらこそ、これこそ",
+   "formation_en": "noun + こそ (in place of は / が / を)\nnoun + に / で + こそ (若い時にこそ)\nset phrases: 今度こそ、今年こそ、こちらこそ、これこそ",
+   "examples": [
+    { "ja": "今度こそ、試験に合格したいです。", "reading": "こんどこそ、しけんに ごうかく したいです。", "romaji": "kondo koso, shiken ni goukaku shitai desu.", "ta": "இந்த முறை கண்டிப்பாகத் தேர்வில் தேர்ச்சி பெற வேண்டும்.", "en": "This time, I really want to pass the exam." },
+    { "ja": "A「どうもありがとうございました。」B「こちらこそ、ありがとうございました。」", "reading": "A「どうも ありがとう ございました。」B「こちらこそ、ありがとう ございました。」", "romaji": "A \"doumo arigatou gozaimashita.\" B \"kochira koso, arigatou gozaimashita.\"", "ta": "A: \"மிக்க நன்றி.\" B: \"நான்தான் உங்களுக்கு நன்றி சொல்ல வேண்டும்.\"", "en": "A: \"Thank you very much.\" B: \"No, thank YOU.\"" },
+    { "ja": "毎日の努力こそが、成功への一番の近道です。", "reading": "まいにちの どりょくこそが、せいこうへの いちばんの ちかみちです。", "romaji": "mainichi no doryoku koso ga, seikou e no ichiban no chikamichi desu.", "ta": "தினசரி முயற்சிதான் வெற்றிக்கான மிகச் சிறந்த குறுக்கு வழி.", "en": "Daily effort is the very best shortcut to success." },
+    { "ja": "これこそ、私が探していた本です。", "reading": "これこそ、わたしが さがして いた ほんです。", "romaji": "kore koso, watashi ga sagashite ita hon desu.", "ta": "இதுதான் நான் தேடிக்கொண்டிருந்த புத்தகம்.", "en": "This is exactly the book I was looking for." },
+    { "ja": "今年こそ、たばこをやめるつもりです。", "reading": "ことしこそ、たばこを やめる つもりです。", "romaji": "kotoshi koso, tabako o yameru tsumori desu.", "ta": "இந்த வருடமாவது கண்டிப்பாகப் புகைப்பதை நிறுத்தப் போகிறேன்.", "en": "This year, I’m definitely going to quit smoking." },
+    { "ja": "若い時にこそ、いろいろな国へ行ってみてください。", "reading": "わかい ときにこそ、いろいろな くにへ いって みて ください。", "romaji": "wakai toki ni koso, iroiro na kuni e itte mite kudasai.", "ta": "இளமையில்தான் பல நாடுகளுக்குப் போய்ப் பார்க்க வேண்டும்.", "en": "It’s when you’re young that you should visit many countries." },
+    { "ja": "今度こそ、本当に来てくれる？", "reading": "こんどこそ、ほんとうに きて くれる？", "romaji": "kondo koso, hontou ni kite kureru?", "ta": "இந்த முறையாவது நிச்சயமாக வருவாயா?", "en": "Will you really come this time?" }
+   ],
+   "pitfalls_en": "Don’t keep を or が before こそ: 努力をこそ and 努力がこそ are wrong. Say 努力こそ. Also こそ is for good or important things; it is odd with small, plain facts.",
+   "pitfalls_ta": "こそ-க்கு முன் を / が வைக்கக் கூடாது: 努力をこそ, 努力がこそ தவறு; 努力こそ சரி. முக்கியமான அல்லது உணர்வுபூர்வமான விஷயங்களுக்கே こそ பொருந்தும்; சாதாரண சிறு உண்மைகளுக்கு இயல்பாக இருக்காது."
+  },
+  {
+   "id": "g24-2",
+   "pattern": "N さえ / N でさえ",
+   "name": { "en": "Even N", "ta": "N கூட" },
+   "explanation_en": "さえ means \"even\". It shows an extreme or very basic example. The meaning is \"so of course the rest too\". 時間さえない = \"I don’t even have time\" (so I have nothing else either). さえ takes the place of が and を. With other particles: 親にさえ, 友達とさえ. でさえ is used for a subject: 先生でさえ (even the teacher). It is a bit formal. It often comes with a negative. Don’t mix it up with さえ〜ば (lesson 16), which means \"if only\".",
+   "explanation_ta": "さえ என்றால் 'கூட'. ஒரு உச்சமான அல்லது மிக அடிப்படையான உதாரணத்தைக் காட்டும்; 'அப்படியென்றால் மற்றவை சொல்லவே வேண்டாம்' என்ற பொருள். 時間さえない = 'நேரம் கூட இல்லை' (மற்றது எதுவும் இல்லை). さえ என்பது が, を ஆகியவற்றின் இடத்தில் வரும்; மற்ற இடைச்சொற்களுக்குப் பின் சேரும்: 親にさえ, 友達とさえ. எழுவாய்க்கு (subject) でさえ: 先生でさえ (ஆசிரியர் கூட). சற்று முறையானது; பெரும்பாலும் எதிர்மறையுடன் வரும். பாடம் 16-இல் கற்ற さえ〜ば ('மட்டும் இருந்தால்') வேறு பொருள்.",
+   "tamil_parallel": "மதிய உணவுக்குக் கூட நேரமில்லை = 昼ご飯を食べる時間さえない; ஆசிரியரால் கூடத் தீர்க்க முடியவில்லை = 先生でさえ解けなかった",
+   "tamil_parallel_en": "மதிய உணவுக்குக் கூட நேரமில்லை (no time even for lunch) = 昼ご飯を食べる時間さえない; ஆசிரியரால் கூடத் தீர்க்க முடியவில்லை (even the teacher couldn’t solve it) = 先生でさえ解けなかった",
+   "formation": "பெயர்ச்சொல் + さえ (が / を-க்குப் பதிலாக): 名前さえ書けない\nபெயர்ச்சொல் + に / と + さえ: 親にさえ言えない\nஎழுவாய்: பெயர்ச்சொல் + でさえ: 先生でさえ",
+   "formation_en": "noun + さえ (in place of が / を): 名前さえ書けない\nnoun + に / と + さえ: 親にさえ言えない\nsubject: noun + でさえ: 先生でさえ",
+   "examples": [
+    { "ja": "忙しくて、昼ご飯を食べる時間さえありません。", "reading": "いそがしくて、ひるごはんを たべる じかんさえ ありません。", "romaji": "isogashikute, hirugohan o taberu jikan sae arimasen.", "ta": "வேலை அதிகம்; மதிய உணவு சாப்பிடக் கூட நேரமில்லை.", "en": "I’m so busy I don’t even have time for lunch." },
+    { "ja": "この問題は、先生でさえ解けなかった。", "reading": "この もんだいは、せんせいでさえ とけなかった。", "romaji": "kono mondai wa, sensei de sae tokenakatta.", "ta": "இந்தக் கணக்கை ஆசிரியரால் கூடத் தீர்க்க முடியவில்லை.", "en": "Even the teacher couldn’t solve this problem." },
+    { "ja": "疲れて、立っていることさえ辛かった。", "reading": "つかれて、たって いる ことさえ つらかった。", "romaji": "tsukarete, tatte iru koto sae tsurakatta.", "ta": "களைப்பால் நிற்பது கூடக் கஷ்டமாக இருந்தது.", "en": "I was so tired that even standing was hard." },
+    { "ja": "彼は、自分の名前さえ漢字で書けない。", "reading": "かれは、じぶんの なまえさえ かんじで かけない。", "romaji": "kare wa, jibun no namae sae kanji de kakenai.", "ta": "அவனால் தன் பெயரைக் கூடக் கான்ஜியில் எழுத முடியாது.", "en": "He can’t even write his own name in kanji." },
+    { "ja": "プロの選手でさえ、この記録を出すのは難しい。", "reading": "プロの せんしゅでさえ、この きろくを だすのは むずかしい。", "romaji": "puro no senshu de sae, kono kiroku o dasu no wa muzukashii.", "ta": "தொழில்முறை வீரர்களுக்குக் கூட இந்தச் சாதனையைப் படைப்பது கடினம்.", "en": "Even for professional athletes, setting this record is hard." },
+    { "ja": "親にさえ言えない悩みがあります。", "reading": "おやにさえ いえない なやみが あります。", "romaji": "oya ni sae ienai nayami ga arimasu.", "ta": "பெற்றோரிடம் கூடச் சொல்ல முடியாத ஒரு கவலை இருக்கிறது.", "en": "I have a worry I can’t even tell my parents." },
+    { "ja": "子どもでさえ知っていることを、知らないんですか。", "reading": "こどもでさえ しって いる ことを、しらないんですか。", "romaji": "kodomo de sae shitte iru koto o, shiranai n desu ka.", "ta": "குழந்தைக்குக் கூடத் தெரிந்த விஷயம் உங்களுக்குத் தெரியாதா?", "en": "You don’t know something that even a child knows?" }
+   ],
+   "pitfalls_en": "Don’t keep を before さえ: 名前をさえ is wrong in normal speech. Say 名前さえ. For a subject that does something, use でさえ, not がさえ.",
+   "pitfalls_ta": "さえ-க்கு முன் を வைக்கக் கூடாது: 名前をさえ என்பது இயல்பற்றது; 名前さえ சரி. செயலைச் செய்யும் எழுவாய்க்கு でさえ; がさえ என்று சொல்லக் கூடாது."
+  },
+  {
+   "id": "g24-3",
+   "pattern": "N まで (even)",
+   "name": { "en": "Even N (going as far as)", "ta": "N கூட (இதுவரை போய்விட்டது)" },
+   "explanation_en": "You know まで as \"until\" or \"as far as\". Here まで means \"even\". It adds one more surprising thing on top of others: 雨が降って、雷まで鳴った (it rained, and even thunder came). まで takes the place of が and を. With に it becomes にまで. さえ points to a basic case (\"not even …\"). まで shows things going further and further (\"even … too\"). まで is often used with positive verbs.",
+   "explanation_ta": "まで என்பதை 'வரை' என்று அறிவீர்கள். இங்கு まで என்றால் 'கூட'. ஏற்கனவே உள்ளவற்றின் மேல் இன்னும் ஒரு எதிர்பாராத விஷயம் சேர்வதைக் காட்டும்: 雨が降って、雷まで鳴った (மழை பெய்தது, இடி கூட இடித்தது). まで என்பது が, を ஆகியவற்றின் இடத்தில் வரும்; に-உடன் にまで. さえ அடிப்படையான உதாரணத்தைச் சுட்டும் ('~ கூட இல்லை'); まで 'இதுவரை கூடப் போய்விட்டது' என்று விஷயங்கள் மேலும் மேலும் கூடுவதைக் காட்டும். まで பெரும்பாலும் உடன்பாட்டு வினைகளுடன் வரும்.",
+   "tamil_parallel": "தம்பி என் கேக்கைக் கூடச் சாப்பிட்டுவிட்டான் = 弟は私のケーキまで食べてしまった",
+   "tamil_parallel_en": "தம்பி என் கேக்கைக் கூடச் சாப்பிட்டுவிட்டான் (my brother even ate my cake) = 弟は私のケーキまで食べてしまった",
+   "formation": "பெயர்ச்சொல் + まで (が / を-க்குப் பதிலாக): ケーキまで食べた\nபெயர்ச்சொல் + に + まで: 知らない人にまで",
+   "formation_en": "noun + まで (in place of が / を): ケーキまで食べた\nnoun + に + まで: 知らない人にまで",
+   "examples": [
+    { "ja": "弟は、私のケーキまで食べてしまった。", "reading": "おとうとは、わたしの ケーキまで たべて しまった。", "romaji": "otouto wa, watashi no keeki made tabete shimatta.", "ta": "தம்பி என் கேக்கைக் கூடச் சாப்பிட்டுவிட்டான்.", "en": "My brother even ate my cake." },
+    { "ja": "優勝して、知らない人にまで「おめでとう」と言われた。", "reading": "ゆうしょう して、しらない ひとにまで「おめでとう」と いわれた。", "romaji": "yuushou shite, shiranai hito ni made \"omedetou\" to iwareta.", "ta": "வெற்றி பெற்றதால் தெரியாதவர்கள் கூட \"வாழ்த்துக்கள்\" என்றார்கள்.", "en": "After I won, even strangers congratulated me." },
+    { "ja": "雨が降ってきて、雷まで鳴り始めた。", "reading": "あめが ふって きて、かみなりまで なりはじめた。", "romaji": "ame ga futte kite, kaminari made narihajimeta.", "ta": "மழை பெய்யத் தொடங்கியது; இடி கூட இடிக்கத் தொடங்கியது.", "en": "It started to rain, and then even thunder began." },
+    { "ja": "母は、近所の人の誕生日まで覚えている。", "reading": "ははは、きんじょの ひとの たんじょうびまで おぼえて いる。", "romaji": "haha wa, kinjo no hito no tanjoubi made oboete iru.", "ta": "அம்மா பக்கத்து வீட்டுக்காரர்களின் பிறந்தநாளைக் கூட நினைவில் வைத்திருக்கிறாள்.", "en": "My mother even remembers the neighbors’ birthdays." },
+    { "ja": "熱が出て、のどまで痛くなってきました。", "reading": "ねつが でて、のどまで いたく なって きました。", "romaji": "netsu ga dete, nodo made itaku natte kimashita.", "ta": "காய்ச்சல் வந்தது; தொண்டை கூட வலிக்கத் தொடங்கியது.", "en": "I got a fever, and now even my throat hurts." },
+    { "ja": "試合に勝って、ふだん厳しいコーチまで笑っていた。", "reading": "しあいに かって、ふだん きびしい コーチまで わらって いた。", "romaji": "shiai ni katte, fudan kibishii koochi made waratte ita.", "ta": "போட்டியில் வென்றதும், எப்போதும் கண்டிப்பான பயிற்சியாளர் கூடச் சிரித்தார்.", "en": "When we won, even our usually strict coach was smiling." },
+    { "ja": "親友のあなたまで、私を信じてくれないの？", "reading": "しんゆうの あなたまで、わたしを しんじて くれないの？", "romaji": "shin'yuu no anata made, watashi o shinjite kurenai no?", "ta": "என் உயிர்த் தோழி நீ கூட என்னை நம்பவில்லையா?", "en": "Even you, my best friend, don’t believe me?" }
+   ],
+   "pitfalls_en": "まで can also mean \"until\". 日曜日まで働く usually means \"work until Sunday\". To say \"even on Sunday\", use 日曜日も or 日曜日でさえ. Read the context carefully.",
+   "pitfalls_ta": "まで என்பதற்கு 'வரை' என்ற பொருளும் உண்டு. 日曜日まで働く என்றால் பெரும்பாலும் 'ஞாயிறு வரை வேலை'. 'ஞாயிறு கூட' என்பதற்கு 日曜日も அல்லது 日曜日でさえ என்று சொல்லலாம். சூழலைக் கவனமாகப் படியுங்கள்."
+  },
+  {
+   "id": "g24-4",
+   "pattern": "N だって (even)",
+   "name": { "en": "Even N / N too (casual)", "ta": "N கூட / N-உம் (பேச்சு வழக்கு)" },
+   "explanation_en": "だって is the casual spoken \"even\" or \"too\". It is like でも or も, but with more feeling. 子どもだってできる = \"even a kid can do it\". 私だって = \"me too, you know\". With question words it means \"any\": 誰だって (anyone), いつだって (any time). Use it with friends and family, not in formal writing. Don’t mix it up with だって at the start of a sentence, which means \"but / because\".",
+   "explanation_ta": "だって என்பது பேச்சு வழக்கில் 'கூட' அல்லது '-உம்'. でも, も போன்றது, ஆனால் உணர்வு அதிகம். 子どもだってできる = 'குழந்தை கூடச் செய்யும்'. 私だって = 'எனக்கும்தான்'. கேள்விச் சொற்களுடன் 'எந்த ~ ஆனாலும்': 誰だって (யார் வேண்டுமானாலும்), いつだって (எப்போது வேண்டுமானாலும்). நண்பர்கள், குடும்பத்தினருடன் பேசும்போது மட்டும்; முறையான எழுத்தில் வேண்டாம். வாக்கியத் தொடக்கத்தில் வரும் だって ('ஏனென்றால் / ஆனால்') வேறு.",
+   "tamil_parallel": "அது குழந்தை கூடச் செய்யும் = そんなの、子どもだってできるよ; எனக்கும்தான் களைப்பு = 私だって疲れてるよ",
+   "tamil_parallel_en": "அது குழந்தை கூடச் செய்யும் (even a kid can do that) = そんなの、子どもだってできるよ; எனக்கும்தான் களைப்பு (I’m tired too, you know) = 私だって疲れてるよ",
+   "formation": "பெயர்ச்சொல் + だって: 子どもだって、先生だって\nகேள்விச் சொல் + だって: 誰だって、いつだって、どこだって\nஎண் + だって (எதிர்மறையுடன்): 一度だって〜ない",
+   "formation_en": "noun + だって: 子どもだって、先生だって\nquestion word + だって: 誰だって、いつだって、どこだって\nnumber + だって (with a negative): 一度だって〜ない",
+   "examples": [
+    { "ja": "そんな簡単なこと、子どもだってできるよ。", "reading": "そんな かんたんな こと、こどもだって できるよ。", "romaji": "sonna kantan na koto, kodomo datte dekiru yo.", "ta": "அவ்வளவு எளிதான விஷயம்; குழந்தை கூடச் செய்யும்.", "en": "Something that easy? Even a kid can do it." },
+    { "ja": "先生だって、間違えることはあるよ。", "reading": "せんせいだって、まちがえる ことは あるよ。", "romaji": "sensei datte, machigaeru koto wa aru yo.", "ta": "ஆசிரியர் கூடத் தவறு செய்வதுண்டு.", "en": "Even teachers make mistakes sometimes." },
+    { "ja": "私だって、たまには一人になりたい。", "reading": "わたしだって、たまには ひとりに なりたい。", "romaji": "watashi datte, tama ni wa hitori ni naritai.", "ta": "எனக்கும் கூட எப்போதாவது தனியாக இருக்கத் தோன்றும்.", "en": "I want to be alone sometimes too, you know." },
+    { "ja": "練習すれば、誰だって上手になれるよ。", "reading": "れんしゅう すれば、だれだって じょうずに なれるよ。", "romaji": "renshuu sureba, dare datte jouzu ni nareru yo.", "ta": "பயிற்சி செய்தால் யார் வேண்டுமானாலும் திறமையாகலாம்.", "en": "If you practice, anyone can get good." },
+    { "ja": "一度だって、彼に勝ったことがない。", "reading": "いちどだって、かれに かった ことが ない。", "romaji": "ichido datte, kare ni katta koto ga nai.", "ta": "ஒருமுறை கூட அவனை வென்றதில்லை.", "en": "I’ve never beaten him, not even once." },
+    { "ja": "日曜日だって練習するの？", "reading": "にちようびだって れんしゅう するの？", "romaji": "nichiyoubi datte renshuu suru no?", "ta": "ஞாயிற்றுக்கிழமை கூடப் பயிற்சி செய்கிறாயா?", "en": "You practice even on Sundays?" }
+   ],
+   "pitfalls_en": "だって is too casual for a job interview or a report. There, use でも or でさえ: 子どもでもできます. Also, after a verb, use V-たって (lesson 2), not だって: 行ったって.",
+   "pitfalls_ta": "நேர்காணல், அறிக்கை போன்ற முறையான இடங்களுக்கு だって மிகவும் சாதாரணமானது; அங்கே でも அல்லது でさえ: 子どもでもできます. வினைக்குப் பின் だって அல்ல, பாடம் 2-இல் கற்ற V-たって: 行ったって."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0054", "n3-v-0063", "n3-v-0129", "n3-v-0147", "n3-v-0155", "n3-v-0212", "n3-v-0224", "n3-v-0267", "n3-v-0272", "n3-v-0273",
+  "n3-v-0382", "n3-v-0496", "n3-v-0521", "n3-v-0602", "n3-v-0627", "n3-v-0628", "n3-v-0641", "n3-v-0682", "n3-v-0712", "n3-v-0764",
+  "n3-v-0883", "n3-v-0920", "n3-v-0961", "n3-v-0965", "n3-v-1008", "n3-v-1013", "n3-v-1048", "n3-v-1103", "n3-v-1107", "n3-v-1180",
+  "n3-v-1209", "n3-v-1210", "n3-v-1355", "n3-v-1365", "n3-v-1366", "n3-v-1374", "n3-v-1413", "n3-v-1487", "n3-v-1618", "n3-v-1619",
+  "n3-v-1633", "n3-v-1638", "n3-v-1709", "n3-v-1713", "n3-v-1822", "n3-v-1845", "n3-v-1907", "n3-v-1983", "n3-v-2130"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L24-q01", "type": "kanji_reading",
+    "sentence": "彼は 百メートル走で 新しい ＿記録＿を 出した。", "target": "記録",
+    "options": ["きろう", "きりょく", "きろく", "きいろく"], "answer": 2,
+    "explanation_ta": "記録 = きろく (சாதனை, பதிவு). 録 = ろく. きりょく என்பது 気力 (மன வலிமை) — வேறு சொல்.",
+    "explanation_en": "記録 is read きろく (record). 録 is ろく. きりょく is 気力 (willpower), a different word."
+   },
+   {
+    "id": "L24-q02", "type": "kanji_reading",
+    "sentence": "毎日の ＿努力＿が いちばん 大切です。", "target": "努力",
+    "options": ["どりょく", "どうりょく", "どりき", "とりょく"], "answer": 0,
+    "explanation_ta": "努力 = どりょく (முயற்சி). どうりょく = 動力 (இயந்திர சக்தி) — நீண்ட ஒலி உள்ள வேறு சொல்.",
+    "explanation_en": "努力 is read どりょく (effort). どうりょく is 動力 (motive power), a different word with a long sound."
+   },
+   {
+    "id": "L24-q03", "type": "kanji_reading",
+    "sentence": "兄は 大学の 試験に ＿合格＿した。", "target": "合格",
+    "options": ["ごかく", "ごうかく", "こうかく", "ごうがく"], "answer": 1,
+    "explanation_ta": "合格 = ごうかく (தேர்ச்சி). 合 இங்கு ごう (நீண்ட ஒலி), 格 = かく (がく அல்ல).",
+    "explanation_en": "合格 is read ごうかく (passing). 合 is ごう with a long sound, and 格 is かく, not がく."
+   },
+   {
+    "id": "L24-q04", "type": "orthography",
+    "sentence": "彼女は クラスで いちばん ＿せいせき＿が いい。", "target": "せいせき",
+    "options": ["成積", "成績", "正績", "成責"], "answer": 1,
+    "explanation_ta": "せいせき = 成績 (மதிப்பெண்). 績 (糸 பகுதி உடையது) = சாதனை. 積 (குவித்தல்), 責 (பொறுப்பு) தோற்றத்தில் ஒத்தவை, ஆனால் தவறு.",
+    "explanation_en": "せいせき is 成績 (grades). 績 has the thread part 糸 and means \"results\". 積 (pile up) and 責 (duty) look similar but are wrong."
+   },
+   {
+    "id": "L24-q05", "type": "orthography",
+    "sentence": "長年の 夢が、ついに ＿じつげん＿した。", "target": "じつげん",
+    "options": ["実験", "実限", "日現", "実現"], "answer": 3,
+    "explanation_ta": "じつげん = 実現 (நனவாதல்). 現 = தோன்றுதல். 実験 (じっけん) = அறிவியல் சோதனை — ஒத்த தோற்றம், வேறு சொல்.",
+    "explanation_en": "じつげん is 実現 (coming true). 現 means \"to appear\". 実験 (じっけん) is an experiment, a different word."
+   },
+   {
+    "id": "L24-q06", "type": "vocab_context",
+    "sentence": "背が 低いので、上の 棚に 手が （　　）。", "options": ["達しない", "重ならない", "届かない", "劣らない"], "answer": 2,
+    "explanation_ta": "கை எட்டுவது = 手が届く; எட்டவில்லை = 届かない. 達する 'இலக்கு, அளவு எட்டுவது' (目標に達する); கைக்கு இயல்பாகப் பயன்படாது.",
+    "explanation_en": "A hand reaching something is 手が届く, so \"can’t reach\" is 届かない. 達する is for reaching a goal or amount (目標に達する), not for hands."
+   },
+   {
+    "id": "L24-q07", "type": "vocab_context",
+    "sentence": "山の （　　）から 見た 景色は、最高でした。", "options": ["頂上", "水準", "大半", "記録"], "answer": 0,
+    "explanation_ta": "மலையின் உச்சி = 山の頂上. 水準 = தரம், 大半 = பெரும்பகுதி — இடத்தைக் குறிக்காது.",
+    "explanation_en": "The top of a mountain is 山の頂上. 水準 = standard and 大半 = most. They are not places."
+   },
+   {
+    "id": "L24-q08", "type": "vocab_context",
+    "sentence": "新しい チームでの 彼の （　　）が 期待されて います。", "options": ["我慢", "満足", "克服", "活躍"], "answer": 3,
+    "explanation_ta": "புதிய அணியில் 'சிறப்பாக விளையாடுவார்' என்று எதிர்பார்ப்பு = 活躍が期待される. 満足 (திருப்தி), 我慢 (பொறுமை) மற்றவர்கள் 'எதிர்பார்க்கும்' விஷயங்கள் அல்ல.",
+    "explanation_en": "People expect him to do great on the new team: 活躍が期待される. 満足 (satisfaction) and 我慢 (patience) are not what fans expect."
+   },
+   {
+    "id": "L24-q09", "type": "vocab_context",
+    "sentence": "私の 給料では、旅行は （　　）年に 一回です。", "options": ["大いに", "せいぜい", "見事に", "必死に"], "answer": 1,
+    "explanation_ta": "'அதிகபட்சம் வருடத்துக்கு ஒரு முறை' = せいぜい. 大いに = பெரிதும், 見事に = அற்புதமாக — எண்ணிக்கையின் மேல் வரம்பைக் காட்டாது.",
+    "explanation_en": "\"Once a year at most\" = せいぜい. 大いに = greatly and 見事に = brilliantly. They don’t show an upper limit."
+   },
+   {
+    "id": "L24-q10", "type": "vocab_context",
+    "sentence": "彼女は 大きな 病気を （　　）して、また 舞台に 立った。", "options": ["満足", "実現", "克服", "合格"], "answer": 2,
+    "explanation_ta": "நோயை வென்று மீள்வது = 病気を克服する. 実現 கனவுகளுக்கும் திட்டங்களுக்கும் (夢を実現する); நோய்க்கு அல்ல.",
+    "explanation_en": "To beat an illness is 病気を克服する. 実現 is for dreams and plans (夢を実現する), not illness."
+   },
+   {
+    "id": "L24-q11", "type": "paraphrase",
+    "sentence": "参加者の 大半は 学生だった。",
+    "options": ["参加者の ほとんどは 学生だった。", "参加者の 半分は 学生だった。", "参加者は 全員 学生だった。", "参加者に 学生は 少なかった。"], "answer": 0,
+    "explanation_ta": "大半 = பெரும்பகுதி = ほとんど. 半 இருந்தாலும் 'சரியாகப் பாதி' (半分) அல்ல; அனைவரும் (全員) கூட அல்ல.",
+    "explanation_en": "大半 = most = ほとんど. It has 半 (half), but it doesn’t mean exactly half (半分). It isn’t \"all\" (全員) either."
+   },
+   {
+    "id": "L24-q12", "type": "paraphrase",
+    "sentence": "彼女は 優秀な 学生だ。",
+    "options": ["彼女は やさしい 学生だ。", "彼女は まじめな 学生だ。", "彼女は 新しい 学生だ。", "彼女は とても よく できる 学生だ。"], "answer": 3,
+    "explanation_ta": "優秀 = மிகச் சிறந்த, நன்றாகப் படிக்கும் = よくできる. 優 என்ற கான்ஜி இருந்தாலும் 'அன்பான' (やさしい) என்று பொருள் இல்லை. まじめ = ஒழுக்கமான — திறமையைக் குறிக்காது.",
+    "explanation_en": "優秀 = excellent, very able = よくできる. It has the kanji 優, but it doesn’t mean \"kind\" (やさしい). まじめ = serious, not \"able\"."
+   },
+   {
+    "id": "L24-q13", "type": "usage",
+    "sentence": "我慢",
+    "options": ["毎朝 我慢を 食べて います。", "明日の 我慢は 何時ですか。", "注射は 痛かったけど、泣かないで 我慢しました。", "我慢な 人に なりたいです。"], "answer": 2,
+    "explanation_ta": "我慢 = வலியையோ கஷ்டத்தையோ பொறுத்துக்கொள்ளுதல்; 我慢する என்று வினையாக வரும். இது な-பெயரடை அல்ல; 我慢な人 தவறு (我慢強い人 சரி).",
+    "explanation_en": "我慢 = putting up with pain or hardship, used as 我慢する. It is not a な-word, so 我慢な人 is wrong (say 我慢強い人)."
+   },
+   {
+    "id": "L24-q14", "type": "usage",
+    "sentence": "届く",
+    "options": ["もうすぐ 春が 届きます。", "母が 送った 荷物が、昨日 届きました。", "毎朝 七時に 会社に 届きます。", "毎日 先生に 宿題を 届きます。"], "answer": 1,
+    "explanation_ta": "届く = அனுப்பியது வந்து சேர்வது / கை எட்டுவது. பார்சல் வந்து சேர்ந்தது சரி. நாம் வேலைக்கு வந்து சேர்வது 着く; பருவம் வருவது 来る; நாம் கொண்டு கொடுப்பது 届ける.",
+    "explanation_en": "届く = something sent arrives, or a hand reaches. A parcel arriving is right. A person arriving at work is 着く. Spring coming is 来る. Handing something in is 届ける."
+   },
+   {
+    "id": "L24-q15", "type": "grammar_form",
+    "sentence": "去年は 失敗したが、今年（　　）合格したい。", "options": ["さえ", "まで", "だって", "こそ"], "answer": 3,
+    "explanation_ta": "முன்பு தோற்ற பிறகு 'இந்த வருடமாவது கண்டிப்பாக' = 今年こそ. 今年まで = 'இந்த வருடம் வரை' என்று பொருள் மாறிவிடும்.",
+    "explanation_en": "After failing before, \"this year for sure\" = 今年こそ. 今年まで would mean \"until this year\"."
+   },
+   {
+    "id": "L24-q16", "type": "grammar_form",
+    "sentence": "この 問題は 難しくて、先生（　　）解けなかった。", "options": ["でさえ", "こそ", "にこそ", "だけ"], "answer": 0,
+    "explanation_ta": "உச்சமான உதாரணம்: 'ஆசிரியரால் கூட' = 先生でさえ. 先生だけ என்றால் 'ஆசிரியர் மட்டும் தீர்க்கவில்லை' — 'கடினம்' என்ற பொருளுக்குப் பொருந்தாது.",
+    "explanation_en": "An extreme example, \"even the teacher\" = 先生でさえ. 先生だけ would mean \"only the teacher couldn’t\", which doesn’t match \"difficult\"."
+   },
+   {
+    "id": "L24-q17", "type": "grammar_form",
+    "sentence": "忙しくて、水を 飲む 時間（　　）なかった。", "options": ["こそ", "なら", "さえ", "ほど"], "answer": 2,
+    "explanation_ta": "மிக அடிப்படையான விஷயம் கூட இல்லை: 'தண்ணீர் குடிக்கக் கூட நேரமில்லை' = 時間さえなかった. こそ எதிர்மறையுடன் இப்படி வராது.",
+    "explanation_en": "Not even the most basic thing: \"no time even to drink water\" = 時間さえなかった. こそ doesn’t work like this with a negative."
+   },
+   {
+    "id": "L24-q18", "type": "grammar_form",
+    "sentence": "雨が 降って きて、雷（　　）鳴り始めた。", "options": ["こそ", "まで", "でさえ", "なら"], "answer": 1,
+    "explanation_ta": "மழையின் மேல் இன்னும் ஒன்று சேர்கிறது: 'இடி கூட' = 雷まで. でさえ 'அதுவே முடியவில்லை' போன்ற உச்ச உதாரணத்துக்கு; இங்கு விஷயங்கள் கூடிக்கொண்டே போவதால் まで.",
+    "explanation_en": "One more thing on top of the rain: \"even thunder\" = 雷まで. でさえ is for an extreme case (\"even X can’t\"). Here things are piling up, so まで."
+   },
+   {
+    "id": "L24-q19", "type": "grammar_form",
+    "sentence": "A「この 問題、難しいね。」B「大丈夫。練習すれば、誰（　　）できる ように なるよ。」", "options": ["こそ", "さえ", "まで", "だって"], "answer": 3,
+    "explanation_ta": "கேள்விச் சொல் + だって = 'யார் வேண்டுமானாலும்' (誰だって). நண்பர்களுக்கிடையேயான பேச்சு என்பதால் だって பொருந்தும். 誰さえ, 誰まで என்று சொல்ல மாட்டோம்.",
+    "explanation_en": "Question word + だって = \"anyone\" (誰だって). It fits this casual talk. We don’t say 誰さえ or 誰まで."
+   },
+   {
+    "id": "L24-q20", "type": "grammar_form",
+    "sentence": "A「いつも ありがとうございます。」B「いえ、こちら（　　）。」", "options": ["こそ", "さえ", "まで", "だって"], "answer": 0,
+    "explanation_ta": "'நான்தான் நன்றி சொல்ல வேண்டும்' = こちらこそ (நிலையான சொற்றொடர்). こちらだって பேச்சு வழக்கு, மரியாதையான உரையாடலுக்குப் பொருந்தாது.",
+    "explanation_en": "\"No, thank YOU\" = こちらこそ, a set phrase. こちらだって is casual and doesn’t fit polite talk."
+   },
+   {
+    "id": "L24-q21", "type": "grammar_form",
+    "sentence": "弟は、私が 楽しみに して いた ケーキ（　　）食べて しまった。", "options": ["こそ", "でさえ", "まで", "なら"], "answer": 2,
+    "explanation_ta": "'என் கேக்கைக் கூட' — எதிர்பாராத அளவுக்குப் போனது = ケーキまで. でさえ எழுவாய்க்கு (செய்பவருக்கு) வரும்; இங்கு கேக் செயப்படுபொருள்.",
+    "explanation_en": "\"Even my cake\", going further than expected = ケーキまで. でさえ is for the subject (the doer), but the cake is the object."
+   },
+   {
+    "id": "L24-q22", "type": "sentence_order",
+    "before": "去年は 負けたが、", "chunks": ["今年", "こそ", "絶対に", "優勝"], "star": 1, "after": "したい。",
+    "explanation_ta": "今年 (இந்த வருடம்) → こそ (கண்டிப்பாக) → 絶対に (நிச்சயமாக) → 優勝したい (வெல்ல வேண்டும்). ★ = こそ.",
+    "explanation_en": "今年 (this year) → こそ (for sure) → 絶対に (no matter what) → 優勝 したい (I want to win). ★ = こそ."
+   },
+   {
+    "id": "L24-q23", "type": "sentence_order",
+    "before": "この 漢字は 難しくて、", "chunks": ["日本人", "でさえ", "正しく", "読めない"], "star": 2, "after": "ことが ある。",
+    "explanation_ta": "日本人 (ஜப்பானியர்கள்) → でさえ (கூட) → 正しく (சரியாக) → 読めない (படிக்க முடியாது) ことがある. ★ = 正しく.",
+    "explanation_en": "日本人 (Japanese people) → でさえ (even) → 正しく (correctly) → 読めない (can’t read) ことが ある. ★ = 正しく."
+   },
+   {
+    "id": "L24-q24", "type": "sentence_order",
+    "before": "大会で 優勝したら、", "chunks": ["知らない", "人に", "まで", "声を"], "star": 2, "after": "かけられた。",
+    "explanation_ta": "知らない (தெரியாத) → 人に (மனிதர்களால்) → まで (கூட) → 声を かけられた (பேசப்பட்டேன்). ★ = まで.",
+    "explanation_en": "知らない (unknown) → 人に (by people) → まで (even) → 声を かけられた (I was spoken to). ★ = まで."
+   },
+   {
+    "id": "L24-q25", "type": "passage_cloze",
+    "passage": "私は 高校の 陸上部で 走って います。去年の 大会では、途中で 足が 痛く なって、歩く こと［1］できませんでした。とても 悔しかったです。それから 一年間、雨の 日［2］休まずに 練習しました。先週の 練習では、いつもは 厳しい コーチ［3］「よく 頑張ったね」と ほめて くれました。今年［4］、絶対に 優勝したいです。",
+    "blanks": [
+     { "options": ["こそ", "さえ", "なら", "ほど"], "answer": 1 },
+     { "options": ["こそ", "しか", "だって", "なら"], "answer": 2 },
+     { "options": ["まで", "こそ", "しか", "ほど"], "answer": 0 },
+     { "options": ["さえ", "まで", "しか", "こそ"], "answer": 3 }
+    ],
+    "explanation_ta": "［1］ ஓடுவது இருக்கட்டும், 'நடக்கக் கூட முடியவில்லை' = 歩くことさえ. ［2］ 'மழை நாளில் கூட' (பேச்சு வழக்கு) = 雨の日だって. ［3］ எப்போதும் கண்டிப்பான பயிற்சியாளர் 'கூட' பாராட்டினார் — எதிர்பாராத அளவு = コーチまで. ［4］ கடந்த ஆண்டுத் தோல்விக்குப் பின் 'இந்த வருடமாவது கண்டிப்பாக' = 今年こそ. しか எதிர்மறையுடன் மட்டுமே வரும்.",
+    "explanation_en": "[1] Not just running: \"I couldn’t even walk\" = 歩くことさえ. [2] \"Even on rainy days\" (casual) = 雨の日だって. [3] Even the usually strict coach praised me, more than expected = コーチまで. [4] After last year’s loss, \"this year for sure\" = 今年こそ. しか only works with a negative."
+   }
+  ]
+ }
+}

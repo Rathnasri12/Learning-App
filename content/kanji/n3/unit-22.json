@@ -1,0 +1,371 @@
+{
+  "unit": 22,
+  "title": { "en": "Home, visits and prices", "ta": "வீடு, வருகை, விலை" },
+  "intro": {
+    "en": "In this unit you learn 14 kanji about home and everyday life: home, visit, call, price, sit, get off and police. Look for parts you know, like 宀 (roof), 言 (say), 亻 (person) and 阝 (hill). Two of them, 除 and 降, start with the same hill 阝.",
+    "ta": "இந்தப் பாடத்தில் வீடும் அன்றாட வாழ்க்கையும் பற்றிய 14 கான்ஜிகளைக் கற்கிறீர்கள்: வீடு, சந்திப்பு, அழைப்பு, விலை, உட்காருதல், இறங்குதல், காவல்துறை. உங்களுக்குத் தெரிந்த பகுதிகளைத் தேடுங்கள்: 宀 (கூரை), 言 (சொல்), 亻 (மனிதன்), 阝 (குன்று). 除, 降 இரண்டும் அதே குன்று 阝 உடன் தொடங்குகின்றன."
+  },
+  "kanji": [
+    {
+      "kanji": "収",
+      "meaning": { "en": "collect, income", "ta": "சேகரித்தல், வருமானம்" },
+      "on": ["しゅう"],
+      "kun": ["おさ.める"],
+      "mnemonic": {
+        "en": "On the left is a hook (丩). On the right is a hand (又). The hand pulls in the paddy harvest with the hook and puts it away in the store room. To collect, to get income.",
+        "ta": "இடப்பக்கம் ஒரு கொக்கி (丩). வலப்பக்கம் ஒரு கை (又). கை கொக்கியால் நெல் அறுவடையை இழுத்து, களஞ்சியத்தில் சேமிக்கிறது. சேகரித்தல், வருமானம் பெறுதல்."
+      },
+      "note": {
+        "en": "Don’t mix up 収 (collect) and 取 (take, 耳 + 又). Both have the hand 又 on the right.",
+        "ta": "収 (சேகரித்தல்), 取 (எடுத்தல், 耳 + 又) இரண்டையும் குழப்பாதீர்கள். இரண்டிலும் வலப்பக்கம் கை 又 உண்டு."
+      },
+      "examples": [
+        { "word": "収入", "reading": "しゅうにゅう", "en": "income", "ta": "வருமானம்", "vocabId": "n3-v-0104" },
+        { "word": "吸収", "reading": "きゅうしゅう", "en": "absorption, taking in", "ta": "உறிஞ்சுதல்", "vocabId": "n3-v-0739" },
+        { "word": "収める", "reading": "おさめる", "en": "to put away, to store; to pay", "ta": "சேமித்து வைத்தல்; செலுத்துதல்", "vocabId": "n3-v-0506" }
+      ]
+    },
+    {
+      "kanji": "宅",
+      "meaning": { "en": "home, house", "ta": "வீடு" },
+      "on": ["たく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a roof (宀). Under it is 乇, a plant pushing its roots into the ground. Under a roof, you put down your roots and stay. That is your home.",
+        "ta": "மேலே கூரை (宀). அதன் கீழ் 乇 — நிலத்தில் வேர் ஊன்றும் ஒரு செடி. ஒரு கூரையின் கீழ் வேரூன்றித் தங்குகிறீர்கள். அதுதான் உங்கள் வீடு."
+      },
+      "note": {
+        "en": "お宅 (おたく) is a polite word for someone else’s house.",
+        "ta": "お宅 (おたく) என்பது மற்றவர்களின் வீட்டைக் குறிக்கும் மரியாதைச் சொல்."
+      },
+      "examples": [
+        { "word": "お宅", "reading": "おたく", "en": "(your) house, home (polite)", "ta": "(உங்கள்) வீடு (மரியாதை)", "vocabId": "n4-v-040" },
+        { "word": "住宅", "reading": "じゅうたく", "en": "housing, a house", "ta": "குடியிருப்பு, வீடு", "vocabId": "n3-v-0101" },
+        { "word": "帰宅", "reading": "きたく", "en": "going home", "ta": "வீடு திரும்புதல்", "vocabId": "n3-v-0711" },
+        { "word": "自宅", "reading": "じたく", "en": "one’s own home", "ta": "சொந்த வீடு" }
+      ]
+    },
+    {
+      "kanji": "警",
+      "meaning": { "en": "warn, guard", "ta": "எச்சரிக்கை, காவல்" },
+      "on": ["けい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 敬 (respect): a man and a hand holding a stick (攵). Under it is 言 (say). Strong words said with a stick in hand, so everyone listens: a warning. The police (警察) say words like that.",
+        "ta": "மேலே 敬 (மரியாதை): ஒரு மனிதனும், தடி பிடித்த கையும் (攵). அதன் கீழ் 言 (சொல்). கையில் தடியுடன் சொல்லப்படும் கடுமையான சொற்கள் — எல்லோரும் கேட்கிறார்கள். அதுதான் எச்சரிக்கை. காவல்துறை (警察) இப்படித்தான் பேசும்."
+      },
+      "examples": [
+        { "word": "警察", "reading": "けいさつ", "en": "police", "ta": "காவல்துறை", "vocabId": "n4-v-600" },
+        { "word": "警官", "reading": "けいかん", "en": "police officer", "ta": "காவலர்", "vocabId": "n5-v-234" },
+        { "word": "警告", "reading": "けいこく", "en": "warning", "ta": "எச்சரிக்கை", "vocabId": "n3-v-0828" }
+      ]
+    },
+    {
+      "kanji": "訪",
+      "meaning": { "en": "visit", "ta": "சந்திக்கச் செல்லுதல்" },
+      "on": ["ほう"],
+      "kun": ["たず.ねる", "おとず.れる"],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is 方 (direction, way). You ask the way with words, then walk to your friend’s house. To visit.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் 方 (திசை, வழி). வாயால் வழி கேட்டு, நண்பரின் வீட்டுக்கு நடந்து செல்கிறீர்கள். அதுதான் சந்திக்கச் செல்லுதல்."
+      },
+      "note": {
+        "en": "たずねる has two kanji: 訪ねる = to visit; 尋ねる = to ask a question.",
+        "ta": "たずねる க்கு இரண்டு கான்ஜிகள்: 訪ねる = சந்திக்கச் செல்லுதல்; 尋ねる = கேள்வி கேட்டல்."
+      },
+      "examples": [
+        { "word": "訪ねる", "reading": "たずねる", "en": "to visit", "ta": "சந்திக்கச் செல்லுதல்", "vocabId": "n4-v-618" },
+        { "word": "訪問", "reading": "ほうもん", "en": "visit, call", "ta": "வருகை", "vocabId": "n3-v-1937" },
+        { "word": "訪れる", "reading": "おとずれる", "en": "to visit (a place); to come (a season)", "ta": "(இடத்துக்கு) வருகை தருதல்; (பருவம்) வருதல்" }
+      ]
+    },
+    {
+      "kanji": "若",
+      "meaning": { "en": "young", "ta": "இளமையான" },
+      "on": [],
+      "kun": ["わか.い"],
+      "mnemonic": {
+        "en": "On top is grass (艹). Under it is 右 (right): a right hand. The right hand picks the new, soft tea leaves at the top of the plant. Fresh and new: young.",
+        "ta": "மேலே புல் (艹). அதன் கீழ் 右 (வலது): வலது கை. செடியின் உச்சியிலுள்ள புதிய மென்மையான தேயிலைக் கொழுந்தை வலது கை பறிக்கிறது. புதிது, பசுமை — இளமை."
+      },
+      "note": {
+        "en": "Don’t mix up 若 (young: 艹 + 右) and 苦 (bitter, painful: 艹 + 古). 若い is わかい; 苦い is にがい.",
+        "ta": "若 (இளமை: 艹 + 右), 苦 (கசப்பு, துன்பம்: 艹 + 古) இரண்டையும் குழப்பாதீர்கள். 若い = わかい; 苦い = にがい."
+      },
+      "examples": [
+        { "word": "若い", "reading": "わかい", "en": "young", "ta": "இளமையான", "vocabId": "n5-v-711" },
+        { "word": "若者", "reading": "わかもの", "en": "young people", "ta": "இளைஞர்கள்" },
+        { "word": "若々しい", "reading": "わかわかしい", "en": "youthful, young-looking", "ta": "இளமைத் துடிப்பான" }
+      ]
+    },
+    {
+      "kanji": "段",
+      "meaning": { "en": "step, level", "ta": "படி, நிலை" },
+      "on": ["だん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a little staircase going up. On the right is 殳, a hand holding a hammer. The hand cuts steps into a rock hill, one by one, like the steps up to a hill temple. Steps, levels.",
+        "ta": "இடப்பக்கம் மேலே ஏறும் ஒரு சிறு படிக்கட்டு. வலப்பக்கம் 殳 — சுத்தியல் பிடித்த கை. மலைக் கோயிலுக்குப் போகும் படிகள் போல, கை பாறையில் ஒவ்வொரு படியாகச் செதுக்குகிறது. படி, நிலை."
+      },
+      "examples": [
+        { "word": "値段", "reading": "ねだん", "en": "price", "ta": "விலை", "vocabId": "n4-v-516" },
+        { "word": "手段", "reading": "しゅだん", "en": "means, way", "ta": "வழி, உபாயம்", "vocabId": "n3-v-0112" },
+        { "word": "段々", "reading": "だんだん", "en": "gradually, step by step", "ta": "படிப்படியாக", "vocabId": "n5-v-398" }
+      ]
+    },
+    {
+      "kanji": "呼",
+      "meaning": { "en": "call", "ta": "அழைத்தல்" },
+      "on": ["こ"],
+      "kun": ["よ.ぶ"],
+      "mnemonic": {
+        "en": "On the left is a mouth (口). On the right is 乎: breath going out in waves. You open your mouth wide and your voice flies out across the field: “Amma!” You call someone.",
+        "ta": "இடப்பக்கம் வாய் (口). வலப்பக்கம் 乎: அலை அலையாக வெளியே போகும் மூச்சு. வாயை அகலத் திறந்து “அம்மா!” என்று கூப்பிடுகிறீர்கள்; குரல் வயல் தாண்டிப் பறக்கிறது. அதுதான் அழைத்தல்."
+      },
+      "note": {
+        "en": "呼吸 (こきゅう, breathing) = 呼 (breathe out) + 吸 (breathe in).",
+        "ta": "呼吸 (こきゅう, சுவாசம்) = 呼 (மூச்சை வெளியே விடுதல்) + 吸 (உள்ளிழுத்தல்)."
+      },
+      "examples": [
+        { "word": "呼ぶ", "reading": "よぶ", "en": "to call; to invite", "ta": "அழைத்தல்; வரவழைத்தல்", "vocabId": "n5-v-689" },
+        { "word": "呼吸", "reading": "こきゅう", "en": "breathing", "ta": "சுவாசம்", "vocabId": "n3-v-0914" },
+        { "word": "呼び出す", "reading": "よびだす", "en": "to call out, to summon", "ta": "வரவழைத்தல்" }
+      ]
+    },
+    {
+      "kanji": "値",
+      "meaning": { "en": "price, value", "ta": "விலை, மதிப்பு" },
+      "on": ["ち"],
+      "kun": ["ね"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to 直 (straight, honest). The person looks straight at the thing and says honestly what it is worth. That is its price, its value.",
+        "ta": "ஒரு மனிதன் (亻) 直 (நேர், நேர்மை) அருகில் நிற்கிறான். பொருளை நேராகப் பார்த்து அதன் உண்மையான மதிப்பை நேர்மையாகச் சொல்கிறான். அதுதான் விலை, மதிப்பு."
+      },
+      "examples": [
+        { "word": "値段", "reading": "ねだん", "en": "price", "ta": "விலை", "vocabId": "n4-v-516" },
+        { "word": "値上げ", "reading": "ねあげ", "en": "price rise", "ta": "விலை உயர்வு" },
+        { "word": "数値", "reading": "すうち", "en": "numerical value, figure", "ta": "எண் மதிப்பு" }
+      ]
+    },
+    {
+      "kanji": "処",
+      "meaning": { "en": "deal with", "ta": "கையாளுதல்" },
+      "on": ["しょ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left are walking feet (夂). On the right is 几, a small stool. You walk to your desk, sit on the stool and deal with the work, one file at a time. To handle, to deal with.",
+        "ta": "இடப்பக்கம் நடக்கும் கால்கள் (夂). வலப்பக்கம் 几 — ஒரு சிறிய முக்காலி. மேசைக்கு நடந்து போய், முக்காலியில் உட்கார்ந்து, ஒவ்வொரு கோப்பாக வேலையைக் கையாளுகிறீர்கள். கையாளுதல், சமாளித்தல்."
+      },
+      "examples": [
+        { "word": "処理", "reading": "しょり", "en": "processing, handling", "ta": "செயலாக்கம், கையாளுதல்", "vocabId": "n3-v-0177" },
+        { "word": "対処", "reading": "たいしょ", "en": "dealing with, coping", "ta": "சமாளித்தல்" },
+        { "word": "処分", "reading": "しょぶん", "en": "getting rid of; punishment", "ta": "அப்புறப்படுத்தல்; தண்டனை" }
+      ]
+    },
+    {
+      "kanji": "否",
+      "meaning": { "en": "no, deny", "ta": "இல்லை, மறுத்தல்" },
+      "on": ["ひ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 不 (not). Under it is a mouth (口). The mouth says, “Not! No!” To say no, to deny.",
+        "ta": "மேலே 不 (இல்லை). அதன் கீழ் வாய் (口). வாய் “இல்லை! முடியாது!” என்கிறது. மறுத்தல்."
+      },
+      "note": {
+        "en": "After ん, ひ often changes to ぴ: 賛否 (さんぴ, for and against), 安否 (あんぴ, safety).",
+        "ta": "ん க்குப் பிறகு ひ பெரும்பாலும் ぴ ஆகிவிடும்: 賛否 (さんぴ, ஆதரவும் எதிர்ப்பும்), 安否 (あんぴ, நலம்)."
+      },
+      "examples": [
+        { "word": "否定", "reading": "ひてい", "en": "denial, saying no", "ta": "மறுப்பு", "vocabId": "n3-v-1825" },
+        { "word": "賛否", "reading": "さんぴ", "en": "for and against", "ta": "ஆதரவும் எதிர்ப்பும்" },
+        { "word": "安否", "reading": "あんぴ", "en": "safety (whether someone is safe)", "ta": "நலம் (பாதுகாப்பாக உள்ளாரா)" }
+      ]
+    },
+    {
+      "kanji": "存",
+      "meaning": { "en": "exist; know", "ta": "இருத்தல்; அறிதல்" },
+      "on": ["そん", "ぞん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The top looks like 才, a young plant coming up out of the ground. Under it is 子 (child). A child, alive and growing like a new plant. To exist, to be there.",
+        "ta": "மேல்பகுதி 才 போல — நிலத்திலிருந்து முளைக்கும் இளஞ்செடி. அதன் கீழ் 子 (குழந்தை). புதுச் செடி போல உயிரோடு வளரும் குழந்தை. இருத்தல், உயிர்வாழ்தல்."
+      },
+      "note": {
+        "en": "Don’t mix up 存 (子 inside) and 在 (土 inside). Both mean “exist”: 存在 (そんざい). ご存じ (ごぞんじ) is a polite way to say “you know”.",
+        "ta": "存 (உள்ளே 子), 在 (உள்ளே 土) இரண்டையும் குழப்பாதீர்கள். இரண்டுக்கும் “இருத்தல்” என்று பொருள்: 存在 (そんざい). ご存じ (ごぞんじ) = “உங்களுக்குத் தெரியும்” என்பதன் மரியாதை வடிவம்."
+      },
+      "examples": [
+        { "word": "存在", "reading": "そんざい", "en": "existence, being", "ta": "இருப்பு", "vocabId": "n3-v-1350" },
+        { "word": "ご存じ", "reading": "ごぞんじ", "en": "(you) know (polite)", "ta": "(உங்களுக்குத்) தெரியும் (மரியாதை)", "vocabId": "n4-v-505" },
+        { "word": "生存", "reading": "せいぞん", "en": "survival, staying alive", "ta": "உயிர்வாழ்தல்" }
+      ]
+    },
+    {
+      "kanji": "座",
+      "meaning": { "en": "sit, seat", "ta": "உட்காருதல், இருக்கை" },
+      "on": ["ざ"],
+      "kun": ["すわ.る"],
+      "mnemonic": {
+        "en": "Under a roof (广), two people (人人) sit on the ground (土), side by side, like guests sitting on the floor for a wedding meal. To sit, a seat.",
+        "ta": "ஒரு கூரையின் கீழ் (广) இரண்டு பேர் (人人) தரையில் (土) அருகருகே உட்கார்ந்திருக்கிறார்கள் — கல்யாணப் பந்தியில் தரையில் அமர்ந்திருக்கும் விருந்தினர்கள் போல. உட்காருதல், இருக்கை."
+      },
+      "examples": [
+        { "word": "座る", "reading": "すわる", "en": "to sit", "ta": "உட்காருதல்", "vocabId": "n5-v-344" },
+        { "word": "座席", "reading": "ざせき", "en": "seat", "ta": "இருக்கை", "vocabId": "n3-v-0990" },
+        { "word": "口座", "reading": "こうざ", "en": "bank account", "ta": "வங்கிக் கணக்கு" }
+      ]
+    },
+    {
+      "kanji": "除",
+      "meaning": { "en": "remove", "ta": "நீக்குதல்" },
+      "on": ["じょ"],
+      "kun": ["のぞ.く"],
+      "mnemonic": {
+        "en": "On the left is a hill (阝). On the right is 余 (extra, too much). There is extra mud on the hill path, so you take it away. To remove.",
+        "ta": "இடப்பக்கம் குன்று (阝). வலப்பக்கம் 余 (மிகுதி, அதிகம்). குன்றுப் பாதையில் தேவையில்லாத சேறு அதிகம்; அதை அகற்றுகிறீர்கள். நீக்குதல்."
+      },
+      "note": {
+        "en": "In 掃除 (そうじ, cleaning) it is read じ.",
+        "ta": "掃除 (そうじ, சுத்தம் செய்தல்) இல் இது じ என்று படிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "除く", "reading": "のぞく", "en": "to remove, to leave out", "ta": "நீக்குதல், தவிர்த்தல்", "vocabId": "n3-v-1721" },
+        { "word": "除外", "reading": "じょがい", "en": "exclusion", "ta": "விலக்கல்" },
+        { "word": "解除", "reading": "かいじょ", "en": "cancelling, lifting (a ban)", "ta": "ரத்து செய்தல், நீக்குதல்" }
+      ]
+    },
+    {
+      "kanji": "降",
+      "meaning": { "en": "go down, fall", "ta": "இறங்குதல், பெய்தல்" },
+      "on": ["こう"],
+      "kun": ["お.りる", "お.ろす", "ふ.る"],
+      "mnemonic": {
+        "en": "On the left is a hill (阝). On the right are two feet, one above the other, walking down the hill step by step. To go down, to get off. Rain also comes down: 雨が降る.",
+        "ta": "இடப்பக்கம் குன்று (阝). வலப்பக்கம் ஒன்றன் கீழ் ஒன்றாக இரண்டு கால்கள் — குன்றிலிருந்து படிப்படியாக இறங்குகின்றன. இறங்குதல். மழையும் மேலிருந்து இறங்குகிறது: 雨が降る."
+      },
+      "examples": [
+        { "word": "降りる", "reading": "おりる", "en": "to get off (a train, bus)", "ta": "(ரயில், பேருந்திலிருந்து) இறங்குதல்", "vocabId": "n5-v-137" },
+        { "word": "降る", "reading": "ふる", "en": "to fall (rain, snow)", "ta": "(மழை, பனி) பெய்தல்", "vocabId": "n5-v-588" },
+        { "word": "降ろす", "reading": "おろす", "en": "to take down, to drop off", "ta": "இறக்குதல், இறக்கிவிடுதல்", "vocabId": "n3-v-0538" },
+        { "word": "以降", "reading": "いこう", "en": "from (then) on, after", "ta": "அதன் பிறகு" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU22-q01", "type": "kanji_reading",
+        "sentence": "父の ＿収入＿は あまり 多くないです。", "target": "収入",
+        "options": ["しゅうにゅう", "しゅにゅう", "しゅうにゅ", "しゅういり"], "answer": 0,
+        "explanation_en": "収入 is しゅうにゅう (வருமானம், income). Both parts are long: しゅう and にゅう.",
+        "explanation_ta": "収入 = しゅうにゅう (வருமானம், income). இரண்டு பகுதியும் நீட்டல்: しゅう, にゅう."
+      },
+      {
+        "id": "KU22-q02", "type": "kanji_reading",
+        "sentence": "きのう、先生の ＿お宅＿に うかがいました。", "target": "お宅",
+        "options": ["おたけ", "おたく", "おだく", "おいえ"], "answer": 1,
+        "explanation_en": "お宅 is おたく ((உங்கள்) வீடு, (your) house). It is たく, not voiced だく.",
+        "explanation_ta": "お宅 = おたく ((உங்கள்) வீடு, (your) house). たく தான், だく அல்ல."
+      },
+      {
+        "id": "KU22-q03", "type": "kanji_reading",
+        "sentence": "さいふを なくしたので ＿警察＿に 行きました。", "target": "警察",
+        "options": ["けいさい", "けさつ", "けいさつ", "けいざつ"], "answer": 2,
+        "explanation_en": "警察 is けいさつ (காவல்துறை, police): long けい and unvoiced さつ.",
+        "explanation_ta": "警察 = けいさつ (காவல்துறை, police): நீட்டல் けい, ஒலிமாற்றம் இல்லாத さつ."
+      },
+      {
+        "id": "KU22-q04", "type": "kanji_reading",
+        "sentence": "日曜日に 友だちの 家を ＿訪ねました＿。", "target": "訪ねました",
+        "options": ["たづねました", "ほうねました", "おとずねました", "たずねました"], "answer": 3,
+        "explanation_en": "訪ねる is たずねる (சந்திக்கச் செல்லுதல், to visit), written with ず, not づ. ほう is the on reading, as in 訪問.",
+        "explanation_ta": "訪ねる = たずねる (சந்திக்கச் செல்லுதல், to visit) — づ அல்ல, ず. ほう என்பது on வாசிப்பு — 訪問 போல."
+      },
+      {
+        "id": "KU22-q05", "type": "kanji_reading",
+        "sentence": "あの ＿若い＿ 人は だれですか。", "target": "若い",
+        "options": ["わかい", "わがい", "にがい", "じゃくい"], "answer": 0,
+        "explanation_en": "若い is わかい (இளமையான, young). にがい is 苦い (bitter), which looks similar: 艹 + 古.",
+        "explanation_ta": "若い = わかい (இளமையான, young). にがい என்பது 苦い (கசப்பு) — 艹 + 古, பார்க்க ஒன்றுபோல் இருக்கும்."
+      },
+      {
+        "id": "KU22-q06", "type": "kanji_reading",
+        "sentence": "この かばんの ＿値段＿は いくらですか。", "target": "値段",
+        "options": ["ねたん", "ねだん", "ちだん", "ねだい"], "answer": 1,
+        "explanation_en": "値段 is ねだん (விலை, price): kun ね + voiced だん. ち is the on reading of 値, but not here.",
+        "explanation_ta": "値段 = ねだん (விலை, price): kun ね + ஒலிமாற்ற だん. 値 இன் on வாசிப்பு ち, ஆனால் இங்கே அல்ல."
+      },
+      {
+        "id": "KU22-q07", "type": "kanji_reading",
+        "sentence": "名前を ＿呼ばれた＿ら、へんじを して ください。", "target": "呼ばれた",
+        "options": ["こばれた", "えらばれた", "よばれた", "よまれた"], "answer": 2,
+        "explanation_en": "呼ぶ is よぶ (அழைத்தல், to call), so 呼ばれた is よばれた. よまれた is from 読む (read).",
+        "explanation_ta": "呼ぶ = よぶ (அழைத்தல், to call); ஆகவே 呼ばれた = よばれた. よまれた என்பது 読む (படித்தல்) இலிருந்து."
+      },
+      {
+        "id": "KU22-q08", "type": "kanji_reading",
+        "sentence": "この データの ＿処理＿に 三日 かかります。", "target": "処理",
+        "options": ["しょうり", "じょり", "しより", "しょり"], "answer": 3,
+        "explanation_en": "処理 is しょり (செயலாக்கம், processing), with a short しょ. しょうり is 勝利 (victory).",
+        "explanation_ta": "処理 = しょり (செயலாக்கம், processing) — しょ நீட்டல் இல்லை. しょうり என்பது 勝利 (வெற்றி)."
+      },
+      {
+        "id": "KU22-q09", "type": "kanji_reading",
+        "sentence": "どうぞ、こちらに ＿座って＿ ください。", "target": "座って",
+        "options": ["すわって", "ざって", "すまって", "まって"], "answer": 0,
+        "explanation_en": "座る is すわる (உட்காருதல், to sit), so 座って is すわって. ざ is the on reading, as in 座席.",
+        "explanation_ta": "座る = すわる (உட்காருதல், to sit); ஆகவே 座って = すわって. ざ என்பது on வாசிப்பு — 座席 போல."
+      },
+      {
+        "id": "KU22-q10", "type": "kanji_reading",
+        "sentence": "夜から 雨が ＿降る＿ でしょう。", "target": "降る",
+        "options": ["おる", "ふる", "くだる", "こうる"], "answer": 1,
+        "explanation_en": "For rain, 降る is ふる (பெய்தல், to fall). お is used in 降りる (おりる, get off).",
+        "explanation_ta": "மழைக்கு 降る = ふる (பெய்தல், to fall). お என்பது 降りる (おりる, இறங்குதல்) இல் வரும்."
+      },
+      {
+        "id": "KU22-q11", "type": "orthography",
+        "sentence": "社長は その 話を ＿ひてい＿しました。", "target": "ひてい",
+        "options": ["不定", "非定", "否定", "皮定"], "answer": 2,
+        "explanation_en": "ひてい is 否定 (மறுப்பு, denial): 不 (not) over a mouth. 非 is also ひ, but 非定 is not a word.",
+        "explanation_ta": "ひてい = 否定 (மறுப்பு, denial): வாயின் மேல் 不 (இல்லை). 非 வும் ひ தான், ஆனால் 非定 என்ற சொல் இல்லை."
+      },
+      {
+        "id": "KU22-q12", "type": "orthography",
+        "sentence": "神の ＿そんざい＿を 信じますか。", "target": "そんざい",
+        "options": ["存材", "在存", "孫在", "存在"], "answer": 3,
+        "explanation_en": "そんざい is 存在 (இருப்பு, existence): 存 (子 inside) first, then 在 (土 inside). 在存 has them in the wrong order.",
+        "explanation_ta": "そんざい = 存在 (இருப்பு, existence): முதலில் 存 (உள்ளே 子), பிறகு 在 (உள்ளே 土). 在存 வரிசை தவறு."
+      },
+      {
+        "id": "KU22-q13", "type": "orthography",
+        "sentence": "次の 駅で 電車を ＿おりて＿ ください。", "target": "おりて",
+        "options": ["陸りて", "院りて", "降りて", "除りて"], "answer": 2,
+        "explanation_en": "おりる is 降りる (இறங்குதல், to get off): the hill 阝 + two feet going down. The others also have 阝 but other right sides.",
+        "explanation_ta": "おりる = 降りる (இறங்குதல், to get off): குன்று 阝 + இறங்கும் இரண்டு கால்கள். மற்றவற்றிலும் 阝 உண்டு, வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU22-q14", "type": "orthography",
+        "sentence": "この 中から 古い データを ＿のぞいて＿ ください。", "target": "のぞいて",
+        "options": ["徐いて", "余いて", "険いて", "除いて"], "answer": 3,
+        "explanation_en": "のぞく is 除く (நீக்குதல், to remove): hill 阝 + 余. 徐 has 彳 instead of 阝, and 余 alone has no hill.",
+        "explanation_ta": "のぞく = 除く (நீக்குதல், to remove): குன்று 阝 + 余. 徐 இல் 阝 பதிலாக 彳; 余 தனியாக இருந்தால் குன்று இல்லை."
+      },
+      {
+        "id": "KU22-q15", "type": "orthography",
+        "sentence": "今日は ＿じたく＿で 仕事を して います。", "target": "じたく",
+        "options": ["自宅", "自宇", "自守", "自家"], "answer": 0,
+        "explanation_en": "じたく is 自宅 (சொந்த வீடு, one’s own home). 宇 and 守 also have the roof 宀, but not the rooted plant 乇.",
+        "explanation_ta": "じたく = 自宅 (சொந்த வீடு, one’s own home). 宇, 守 இலும் கூரை 宀 உண்டு, ஆனால் வேரூன்றிய செடி 乇 இல்லை."
+      },
+      {
+        "id": "KU22-q16", "type": "orthography",
+        "sentence": "外は ＿だんだん＿ 暗く なって きました。", "target": "だんだん",
+        "options": ["団々", "段々", "弾々", "談々"], "answer": 1,
+        "explanation_en": "だんだん is 段々 (படிப்படியாக, gradually): step by step, like stairs. 団 and 談 are also だん, but have other meanings.",
+        "explanation_ta": "だんだん = 段々 (படிப்படியாக, gradually): படிக்கட்டு போல ஒவ்வொரு படியாக. 団, 談 வும் だん தான், ஆனால் பொருள் வேறு."
+      }
+    ]
+  }
+}

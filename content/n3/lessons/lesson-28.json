@@ -1,0 +1,702 @@
+{
+ "lesson": 28,
+ "title": {
+  "ja": "やるしかない",
+  "ta": "செய்வதைத் தவிர வேறு வழியில்லை",
+  "en": "No choice but to do it"
+ },
+ "intro_en": "This lesson is about problems at work: overtime, deadlines and bosses. You learn four ways to say you have no choice. しかない is the everyday way: \"I just have to …\". ほかない is a bit more formal. ないで済む / ずに済む says you got away without doing something. ざるを得ない is a strong, formal \"I am forced to …\".",
+ "intro_ta": "இந்தப் பாடம் வேலையிடப் பிரச்சினைகள் பற்றியது: கூடுதல் நேர வேலை, காலக்கெடு, மேலதிகாரி. 'வேறு வழியில்லை' என்று சொல்லும் நான்கு வடிவங்களைக் கற்போம். しかない அன்றாடப் பேச்சில் 'செய்துதான் ஆக வேண்டும்' என்பது; ほかない சற்று முறையானது. ないで済む / ずに済む என்பது 'செய்யாமலே தப்பித்தேன்' என்ற நிம்மதியைக் காட்டும். ざるを得ない என்பது 'கட்டாயமாகச் செய்ய வேண்டியதாயிற்று' என்ற வலுவான, முறையான வடிவம்.",
+ "grammar": [
+  {
+   "id": "g28-1",
+   "pattern": "V-る しか ない",
+   "name": {
+    "en": "Have no choice but to ~",
+    "ta": "~ வதைத் தவிர வேறு வழியில்லை"
+   },
+   "explanation_en": "Use this when there is only one way left. Put the dictionary form before しかない. You know しか…ない from N4: \"only\". Here it means \"the only thing left is to do it\". It is common in speech. Polite form: しかありません or しかないです. It often sounds a little tired or determined: やるしかない! (\"Let’s just do it!\")",
+   "explanation_ta": "ஒரே ஒரு வழி மட்டுமே மீதமிருக்கும்போது இந்த வடிவம் பயன்படுகிறது. வினையின் அகராதி வடிவத்துக்குப் பின் しかない சேர்க்க வேண்டும். N4-இல் கற்ற しか〜ない ('மட்டுமே') என்பதிலிருந்து வருகிறது: 'செய்வது மட்டுமே மீதம்' = 'செய்வதைத் தவிர வழியில்லை'. அன்றாடப் பேச்சில் அதிகம் வரும். மரியாதை வடிவம்: しかありません / しかないです. சில சமயம் சோர்வையும், சில சமயம் உறுதியையும் காட்டும்: やるしかない! ('செய்துதான் பார்ப்போம்!').",
+   "tamil_parallel": "டாக்ஸியில் போவதைத் தவிர வேறு வழியில்லை = タクシーで帰るしかない",
+   "tamil_parallel_en": "டாக்ஸியில் போவதைத் தவிர வேறு வழியில்லை (no choice but to take a taxi) = タクシーで帰るしかない",
+   "formation": "வினை (அகராதி வடிவம்) + しかない\nமரியாதை: வினை (அகராதி வடிவம்) + しかありません",
+   "formation_en": "verb (dictionary form) + しかない\npolite: verb (dictionary form) + しかありません",
+   "examples": [
+    {
+     "ja": "終電がもう出てしまったので、タクシーで帰るしかない。",
+     "reading": "しゅうでんが もう でて しまったので、タクシーで かえる しか ない。",
+     "romaji": "shuuden ga mou dete shimatta node, takushii de kaeru shika nai.",
+     "ta": "கடைசி ரயில் போய்விட்டதால், டாக்ஸியில் போவதைத் தவிர வேறு வழியில்லை.",
+     "en": "The last train has gone, so I have no choice but to take a taxi."
+    },
+    {
+     "ja": "期限は明日だから、今夜やるしかありません。",
+     "reading": "きげんは あしただから、こんや やる しか ありません。",
+     "romaji": "kigen wa ashita da kara, kon'ya yaru shika arimasen.",
+     "ta": "காலக்கெடு நாளை என்பதால் இன்றிரவே செய்வதைத் தவிர வழியில்லை.",
+     "en": "The deadline is tomorrow, so I have to do it tonight."
+    },
+    {
+     "ja": "担当の人が休みなので、待つしかないですね。",
+     "reading": "たんとうの ひとが やすみなので、まつ しか ないですね。",
+     "romaji": "tantou no hito ga yasumi na node, matsu shika nai desu ne.",
+     "ta": "பொறுப்பாளர் விடுப்பில் இருப்பதால் காத்திருப்பதைத் தவிர வழியில்லை, இல்லையா?",
+     "en": "The person in charge is off, so we just have to wait."
+    },
+    {
+     "ja": "上司の命令だから、やるしかないよ。",
+     "reading": "じょうしの めいれいだから、やる しか ないよ。",
+     "romaji": "joushi no meirei da kara, yaru shika nai yo.",
+     "ta": "மேலதிகாரியின் கட்டளை, செய்துதான் ஆக வேண்டும்.",
+     "en": "It’s the boss’s order, so we just have to do it."
+    },
+    {
+     "ja": "誰も手伝ってくれないなら、自分でするしかない。",
+     "reading": "だれも てつだって くれないなら、じぶんで する しか ない。",
+     "romaji": "daremo tetsudatte kurenai nara, jibun de suru shika nai.",
+     "ta": "யாரும் உதவாவிட்டால் நானே செய்வதைத் தவிர வழியில்லை.",
+     "en": "If nobody will help me, I’ll have to do it myself."
+    },
+    {
+     "ja": "「ほかに方法はないの？」「うん、謝るしかないと思う。」",
+     "reading": "「ほかに ほうほうは ないの？」「うん、あやまる しか ないと おもう。」",
+     "romaji": "\"hoka ni houhou wa nai no?\" \"un, ayamaru shika nai to omou.\"",
+     "ta": "\"வேறு வழியே இல்லையா?\" \"ம், மன்னிப்புக் கேட்பதைத் தவிர வழியில்லை என்று நினைக்கிறேன்.\"",
+     "en": "\"Isn’t there any other way?\" \"No, I think we can only apologize.\""
+    }
+   ],
+   "pitfalls_en": "Use the dictionary form, not the ない-form: 行かないしかない is wrong. Also, ～しかない after a noun means \"there is only ~\" (100円しかない = I only have 100 yen). After a verb it means \"no choice\".",
+   "pitfalls_ta": "அகராதி வடிவமே வர வேண்டும்: 行かないしかない தவறு. பெயர்ச்சொல்லுக்குப் பின் しかない வந்தால் 'மட்டுமே உள்ளது' (100円しかない = நூறு யென் மட்டுமே உள்ளது) என்று பொருள்; வினைக்குப் பின் வந்தால்தான் 'வேறு வழியில்லை'."
+  },
+  {
+   "id": "g28-2",
+   "pattern": "V-る ほか ない / V-る より ほか ない",
+   "name": {
+    "en": "There’s nothing to do but ~ (formal)",
+    "ta": "~ வதைத் தவிர வேறு வழியில்லை (முறையான வடிவம்)"
+   },
+   "explanation_en": "This has the same meaning as しかない. ほか means \"other\": \"there is no other way\". It is a bit more formal. You see it in writing, news and business talk. よりほかない is even stronger: \"there is nothing other than this\". Use the dictionary form before it. Polite form: ほかありません.",
+   "explanation_ta": "இதன் பொருள் しかない போன்றதே. ほか = 'வேறு'; ஆகவே 'வேறு வழி இல்லை'. しかない-ஐ விடச் சற்று முறையானது; எழுத்திலும் செய்திகளிலும் அலுவல் பேச்சிலும் அதிகம் வரும். よりほかない இன்னும் அழுத்தமானது: 'இதைத் தவிர வேறெதுவும் இல்லை'. வினையின் அகராதி வடிவத்துக்குப் பின் சேர்க்க வேண்டும். மரியாதை வடிவம்: ほかありません.",
+   "tamil_parallel": "நடப்பதைத் தவிர வேறு வழி இருக்கவில்லை = 歩くほかなかった",
+   "tamil_parallel_en": "நடப்பதைத் தவிர வேறு வழி இருக்கவில்லை (there was nothing to do but walk) = 歩くほかなかった",
+   "formation": "வினை (அகராதி வடிவம்) + ほかない\nவினை (அகராதி வடிவம்) + よりほかない\nமரியாதை: 〜ほかありません",
+   "formation_en": "verb (dictionary form) + ほかない\nverb (dictionary form) + よりほかない\npolite: 〜ほかありません",
+   "examples": [
+    {
+     "ja": "バスが来ないので、駅まで歩くほかなかった。",
+     "reading": "バスが こないので、えきまで あるく ほか なかった。",
+     "romaji": "basu ga konai node, eki made aruku hoka nakatta.",
+     "ta": "பஸ் வராததால் ரயில் நிலையம் வரை நடப்பதைத் தவிர வழியில்லாமல் போனது.",
+     "en": "The bus didn’t come, so I had no choice but to walk to the station."
+    },
+    {
+     "ja": "会社の決まりなので、そうするほかありません。",
+     "reading": "かいしゃの きまりなので、そう する ほか ありません。",
+     "romaji": "kaisha no kimari na node, sou suru hoka arimasen.",
+     "ta": "நிறுவனத்தின் விதி என்பதால் அப்படிச் செய்வதைத் தவிர வழியில்லை.",
+     "en": "It’s a company rule, so there’s nothing to do but follow it."
+    },
+    {
+     "ja": "機械が壊れてしまったので、手で作業するよりほかない。",
+     "reading": "きかいが こわれて しまったので、てで さぎょう する より ほか ない。",
+     "romaji": "kikai ga kowarete shimatta node, te de sagyou suru yori hoka nai.",
+     "ta": "இயந்திரம் பழுதாகிவிட்டதால் கையால் வேலை செய்வதைத் தவிர வேறு வழியில்லை.",
+     "en": "The machine has broken, so we have to do the work by hand."
+    },
+    {
+     "ja": "病気が治るまで、静かに待つよりほかありませんでした。",
+     "reading": "びょうきが なおるまで、しずかに まつ より ほか ありませんでした。",
+     "romaji": "byouki ga naoru made, shizuka ni matsu yori hoka arimasen deshita.",
+     "ta": "நோய் குணமாகும் வரை அமைதியாகக் காத்திருப்பதைத் தவிர வழி இருக்கவில்லை.",
+     "en": "Until I got better, I could only wait quietly."
+    },
+    {
+     "ja": "人が足りない以上、新しく人を雇うほかない。",
+     "reading": "ひとが たりない いじょう、あたらしく ひとを やとう ほか ない。",
+     "romaji": "hito ga tarinai ijou, atarashiku hito o yatou hoka nai.",
+     "ta": "ஆட்கள் போதாத நிலையில், புதிதாக ஆட்களை அமர்த்துவதைத் தவிர வழியில்லை.",
+     "en": "Since we’re short of staff, we have no choice but to hire more."
+    },
+    {
+     "ja": "ほかに方法がないなら、計画を変えるほかないでしょう。",
+     "reading": "ほかに ほうほうが ないなら、けいかくを かえる ほか ないでしょう。",
+     "romaji": "hoka ni houhou ga nai nara, keikaku o kaeru hoka nai deshou.",
+     "ta": "வேறு வழி இல்லையென்றால், திட்டத்தை மாற்றுவதைத் தவிர வழியில்லை போலும்.",
+     "en": "If there’s no other way, we’ll probably have to change the plan."
+    }
+   ],
+   "pitfalls_en": "Don’t add に: 歩くほかにない sounds odd in this pattern. Say 歩くほかない. And don’t mix it with ほうがいい (\"you had better\"): 歩くより ほうがいい is wrong.",
+   "pitfalls_ta": "இடையில் に சேர்க்க வேண்டாம்: 歩くほかない என்றே சொல்லுங்கள். ほうがいい ('…செய்வது நல்லது') உடன் குழப்ப வேண்டாம்; 歩くよりほうがいい என்பது தவறு."
+  },
+  {
+   "id": "g28-3",
+   "pattern": "V-ないで 済む / V-ず に 済む",
+   "name": {
+    "en": "Get by without ~ / don’t have to after all",
+    "ta": "~ ாமலேயே சமாளித்தல் / தேவையில்லாமல் போதல்"
+   },
+   "explanation_en": "Use this when you feared you must do something unpleasant, but in the end you didn’t have to. It shows relief. 済む means \"to be settled, to be enough\". Form 1: ない-form + で済む (more spoken). Form 2: ない-stem + ずに済む (a bit more formal). Careful: する becomes せずに, くる becomes こずに. Compare: なくてもいい (N4) is just \"it’s OK not to\". ないで済む adds \"lucky, I escaped it\".",
+   "explanation_ta": "விரும்பாத ஒன்றைச் செய்ய வேண்டி வருமோ என்று பயந்தும், கடைசியில் செய்யத் தேவையில்லாமல் போனதைச் சொல்ல இது பயன்படுகிறது; நிம்மதியைக் காட்டும். 済む = 'முடிந்துவிடுதல், போதுமாதல்'. வடிவம் 1: ない-வடிவம் + で済む (பேச்சில் அதிகம்). வடிவம் 2: ない-வேர் + ずに済む (சற்று முறையானது). する → せずに, くる → こずに என்று மாறும். N4-இல் கற்ற なくてもいい என்பது வெறும் 'செய்யாவிட்டாலும் பரவாயில்லை'; ないで済む-வில் 'நல்லவேளை, தப்பித்தேன்' என்ற உணர்வு உண்டு.",
+   "tamil_parallel": "கூடுதல் நேரம் வேலை செய்யாமலேயே தப்பித்தேன் = 残業しないで済んだ",
+   "tamil_parallel_en": "கூடுதல் நேரம் வேலை செய்யாமலேயே தப்பித்தேன் (I got away without overtime) = 残業しないで済んだ",
+   "formation": "வினை (ない-வடிவம்) + で済む  (行かないで済む)\nவினை (ない-வேர்) + ずに済む  (行かずに済む)\nする → せずに済む / くる → こずに済む",
+   "formation_en": "verb (ない-form) + で済む  (行かないで済む)\nverb (ない-stem) + ずに済む  (行かずに済む)\nする → せずに済む / くる → こずに済む",
+   "examples": [
+    {
+     "ja": "同僚が手伝ってくれたので、残業しないで済みました。",
+     "reading": "どうりょうが てつだって くれたので、ざんぎょう しないで すみました。",
+     "romaji": "douryou ga tetsudatte kureta node, zangyou shinai de sumimashita.",
+     "ta": "சக ஊழியர் உதவியதால் கூடுதல் நேரம் வேலை செய்யாமலேயே தப்பித்தேன்.",
+     "en": "My colleague helped, so I didn’t have to work overtime."
+    },
+    {
+     "ja": "会議がオンラインになったので、出張せずに済んだ。",
+     "reading": "かいぎが オンラインに なったので、しゅっちょう せずに すんだ。",
+     "romaji": "kaigi ga onrain ni natta node, shucchou sezu ni sunda.",
+     "ta": "கூட்டம் இணையவழியாக மாறியதால் அலுவல் பயணம் போகத் தேவையில்லாமல் போனது.",
+     "en": "The meeting moved online, so I didn’t have to go on a business trip."
+    },
+    {
+     "ja": "早く予約したので、長い時間待たずに済みました。",
+     "reading": "はやく よやく したので、ながい じかん またずに すみました。",
+     "romaji": "hayaku yoyaku shita node, nagai jikan matazu ni sumimashita.",
+     "ta": "முன்கூட்டியே முன்பதிவு செய்ததால் நீண்ட நேரம் காத்திருக்கத் தேவையில்லாமல் போனது.",
+     "en": "I booked early, so I didn’t have to wait long."
+    },
+    {
+     "ja": "歩いて行けば、お金を使わないで済むよ。",
+     "reading": "あるいて いけば、おかねを つかわないで すむよ。",
+     "romaji": "aruite ikeba, okane o tsukawanai de sumu yo.",
+     "ta": "நடந்து போனால் பணம் செலவழிக்காமலேயே சமாளிக்கலாம்.",
+     "en": "If you walk, you won’t have to spend any money."
+    },
+    {
+     "ja": "メモを取っておけば、同じことを何度も聞かずに済みます。",
+     "reading": "メモを とって おけば、おなじ ことを なんども きかずに すみます。",
+     "romaji": "memo o totte okeba, onaji koto o nando mo kikazu ni sumimasu.",
+     "ta": "குறிப்பெடுத்து வைத்தால், ஒரே விஷயத்தைப் பலமுறை கேட்கத் தேவையிருக்காது.",
+     "en": "If you take notes, you won’t need to ask the same thing again and again."
+    },
+    {
+     "ja": "薬を飲んだら熱が下がって、会社を休まずに済んだ。",
+     "reading": "くすりを のんだら ねつが さがって、かいしゃを やすまずに すんだ。",
+     "romaji": "kusuri o nondara netsu ga sagatte, kaisha o yasumazu ni sunda.",
+     "ta": "மருந்து சாப்பிட்டதும் காய்ச்சல் குறைந்ததால் அலுவலகத்துக்கு விடுப்பு எடுக்கத் தேவையில்லாமல் போனது.",
+     "en": "My fever went down after the medicine, so I didn’t have to miss work."
+    }
+   ],
+   "pitfalls_en": "する makes せずに, not しずに. Also don’t say しないずに: use either しないで or せずに. Do not use it for things you wanted to do; it is for escaping something unwanted.",
+   "pitfalls_ta": "する → せずに; しずに என்பது தவறு. しないずに என்றும் சொல்லக் கூடாது: しないで அல்லது せずに மட்டுமே. நீங்கள் விரும்பிய செயலுக்கு இது பொருந்தாது; விரும்பாத ஒன்றிலிருந்து தப்பியதற்கே."
+  },
+  {
+   "id": "g28-4",
+   "pattern": "V-ざるを 得ない",
+   "name": {
+    "en": "Cannot help but ~ / be forced to ~ (formal)",
+    "ta": "~ யே ஆக வேண்டும் (கட்டாயம், முறையான வடிவம்)"
+   },
+   "explanation_en": "This means \"I am forced to do it, though I don’t want to\". It is formal and strong, used in writing, news and serious talk. Take the ない-stem and add ざるを得ない (ざる is an old \"not\"; 得ない = \"cannot\"). So it is literally \"cannot not do\". Special forms: する → せざるを得ない, くる → こざるを得ない. With 言う or 認める it means \"I have to admit\". In daily talk, people usually say しかない.",
+   "explanation_ta": "'விருப்பமில்லாவிட்டாலும் கட்டாயமாகச் செய்ய வேண்டியுள்ளது' என்பதே பொருள். இது முறையான, அழுத்தமான வடிவம்; எழுத்து, செய்தி, தீவிரமான பேச்சில் வரும். வினையின் ない-வேருடன் ざるを得ない சேர்க்க வேண்டும் (ざる = பழைய எதிர்மறை 'இல்லாமல்', 得ない = 'முடியாது'). அதாவது 'செய்யாமல் இருக்க முடியாது'. தமிழில் 'செய்தே ஆக வேண்டும்' என்பது போல. சிறப்பு வடிவங்கள்: する → せざるを得ない, くる → こざるを得ない. 言う, 認める உடன் வந்தால் 'ஒப்புக்கொள்ளத்தான் வேண்டும்'. அன்றாடப் பேச்சில் பெரும்பாலும் しかない சொல்வார்கள்.",
+   "tamil_parallel": "போட்டியை ரத்து செய்தே ஆக வேண்டும் = 試合を中止せざるを得ない",
+   "tamil_parallel_en": "போட்டியை ரத்து செய்தே ஆக வேண்டும் (we are forced to cancel the match) = 試合を中止せざるを得ない",
+   "formation": "வினை (ない-வேர்) + ざるを得ない  (行か + ざるを得ない)\nする → せざるを得ない / くる → こざるを得ない",
+   "formation_en": "verb (ない-stem) + ざるを得ない  (行か + ざるを得ない)\nする → せざるを得ない / くる → こざるを得ない",
+   "examples": [
+    {
+     "ja": "上司に命じられたら、やらざるを得ない。",
+     "reading": "じょうしに めいじられたら、やらざるを えない。",
+     "romaji": "joushi ni meijiraretara, yarazaru o enai.",
+     "ta": "மேலதிகாரி உத்தரவிட்டால் செய்தே ஆக வேண்டும்.",
+     "en": "If the boss orders it, I’m forced to do it."
+    },
+    {
+     "ja": "雨がひどいので、試合は中止せざるを得ません。",
+     "reading": "あめが ひどいので、しあいは ちゅうし せざるを えません。",
+     "romaji": "ame ga hidoi node, shiai wa chuushi sezaru o emasen.",
+     "ta": "மழை கடுமையாக இருப்பதால் போட்டியை ரத்து செய்தே ஆக வேண்டும்.",
+     "en": "The rain is so bad that we have to cancel the match."
+    },
+    {
+     "ja": "期限に間に合わないので、徹夜で作業せざるを得なかった。",
+     "reading": "きげんに まにあわないので、てつやで さぎょう せざるを えなかった。",
+     "romaji": "kigen ni maniawanai node, tetsuya de sagyou sezaru o enakatta.",
+     "ta": "காலக்கெடுவுக்குள் முடியாது என்பதால் இரவு முழுக்க வேலை செய்தே ஆக வேண்டியிருந்தது.",
+     "en": "We were going to miss the deadline, so I had to work all night."
+    },
+    {
+     "ja": "何度も失敗したので、計画を変えざるを得ません。",
+     "reading": "なんども しっぱい したので、けいかくを かえざるを えません。",
+     "romaji": "nando mo shippai shita node, keikaku o kaezaru o emasen.",
+     "ta": "பலமுறை தோல்வியடைந்ததால் திட்டத்தை மாற்றியே ஆக வேண்டும்.",
+     "en": "We failed many times, so we must change the plan."
+    },
+    {
+     "ja": "彼の働きを見ると、よく頑張っていると言わざるを得ない。",
+     "reading": "かれの はたらきを みると、よく がんばって いると いわざるを えない。",
+     "romaji": "kare no hataraki o miru to, yoku ganbatte iru to iwazaru o enai.",
+     "ta": "அவரது உழைப்பைப் பார்த்தால், நன்றாக முயல்கிறார் என்று ஒப்புக்கொள்ளத்தான் வேண்டும்.",
+     "en": "Looking at his work, I have to admit he’s trying hard."
+    },
+    {
+     "ja": "体の調子が悪くて、仕事を辞めざるを得なかった。",
+     "reading": "からだの ちょうしが わるくて、しごとを やめざるを えなかった。",
+     "romaji": "karada no choushi ga warukute, shigoto o yamezaru o enakatta.",
+     "ta": "உடல்நிலை சரியில்லாததால் வேலையை விட வேண்டிய கட்டாயம் ஏற்பட்டது.",
+     "en": "My health was poor, so I was forced to quit my job."
+    }
+   ],
+   "pitfalls_en": "得ない is read えない, not とくない or えらない. Use the ない-stem: 行かざる (not 行きざる). For する, say せざる, not しざる. Don’t use it for happy choices; it shows pressure.",
+   "pitfalls_ta": "得ない என்பதை えない என்றே படிக்க வேண்டும். ない-வேர் வர வேண்டும்: 行かざる (行きざる அல்ல). する → せざる; しざる தவறு. மகிழ்ச்சியான தேர்வுகளுக்கு இது பொருந்தாது; நெருக்கடியைக் காட்டும்."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0064",
+  "n3-v-0124",
+  "n3-v-0172",
+  "n3-v-0226",
+  "n3-v-0243",
+  "n3-v-0329",
+  "n3-v-0466",
+  "n3-v-0495",
+  "n3-v-0525",
+  "n3-v-0546",
+  "n3-v-0551",
+  "n3-v-0556",
+  "n3-v-0576",
+  "n3-v-0631",
+  "n3-v-0681",
+  "n3-v-0688",
+  "n3-v-0698",
+  "n3-v-0700",
+  "n3-v-0706",
+  "n3-v-0725",
+  "n3-v-0758",
+  "n3-v-0825",
+  "n3-v-0849",
+  "n3-v-0894",
+  "n3-v-0896",
+  "n3-v-0900",
+  "n3-v-0974",
+  "n3-v-1047",
+  "n3-v-1049",
+  "n3-v-1054",
+  "n3-v-1060",
+  "n3-v-1097",
+  "n3-v-1184",
+  "n3-v-1193",
+  "n3-v-1263",
+  "n3-v-1293",
+  "n3-v-1295",
+  "n3-v-1318",
+  "n3-v-1321",
+  "n3-v-1326",
+  "n3-v-1383",
+  "n3-v-1447",
+  "n3-v-1448",
+  "n3-v-1510",
+  "n3-v-1512",
+  "n3-v-1530",
+  "n3-v-1560",
+  "n3-v-1562",
+  "n3-v-1563",
+  "n3-v-1588",
+  "n3-v-1772",
+  "n3-v-1968",
+  "n3-v-2022",
+  "n3-v-2036"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L28-q01",
+    "type": "kanji_reading",
+    "sentence": "レポートの ＿期限＿は 明日です。",
+    "target": "期限",
+    "options": [
+     "きげん",
+     "きけん",
+     "ききん",
+     "ぎげん"
+    ],
+    "answer": 0,
+    "explanation_ta": "期限 = きげん (காலக்கெடு). きけん = 危険 (ஆபத்து) என்ற வேறு சொல்; ஒலி ஒத்திருப்பதால் ஏமாற வேண்டாம்.",
+    "explanation_en": "期限 is read きげん (deadline). きけん is 危険 (danger), a different word that sounds close."
+   },
+   {
+    "id": "L28-q02",
+    "type": "kanji_reading",
+    "sentence": "＿同僚＿と いっしょに 昼ご飯を 食べました。",
+    "target": "同僚",
+    "options": [
+     "どうりょ",
+     "どうりょう",
+     "とうりょう",
+     "どうりゅう"
+    ],
+    "answer": 1,
+    "explanation_ta": "同僚 = どうりょう (சக ஊழியர்). கடைசியில் நீண்ட 'ஓ' (りょう) உண்டு; どうりょ-வில் அது இல்லை. 同 இங்கே どう, とう அல்ல.",
+    "explanation_en": "同僚 is read どうりょう (colleague). It ends in a long りょう; どうりょ is too short. 同 is どう here, not とう."
+   },
+   {
+    "id": "L28-q03",
+    "type": "kanji_reading",
+    "sentence": "この 仕事の ＿担当＿は だれですか。",
+    "target": "担当",
+    "options": [
+     "たんどう",
+     "だんとう",
+     "たんとう",
+     "たんとお"
+    ],
+    "answer": 2,
+    "explanation_ta": "担当 = たんとう (பொறுப்பு). இரண்டு ஒலிகளும் புள்ளி (゛) இல்லாதவை: た, と. たんどう, だんとう தவறு.",
+    "explanation_en": "担当 is read たんとう (in charge). Both た and と are plain, with no ゛ marks. たんどう and だんとう are wrong."
+   },
+   {
+    "id": "L28-q04",
+    "type": "orthography",
+    "sentence": "昨日は ＿てつや＿で レポートを 書きました。",
+    "target": "てつや",
+    "options": [
+     "鉄夜",
+     "撤夜",
+     "徹液",
+     "徹夜"
+    ],
+    "answer": 3,
+    "explanation_ta": "てつや = 徹夜 (இரவு முழுக்க விழித்திருத்தல்). 徹 = முழுவதும் ஊடுருவுதல் (徹底-விலும் வரும்), 夜 = இரவு. 鉄 = இரும்பு, 撤 = அகற்றுதல்; 液 = திரவம்.",
+    "explanation_en": "てつや is 徹夜 (staying up all night). 徹 means \"all the way through\" (also in 徹底); 夜 is night. 鉄 = iron, 撤 = remove, 液 = liquid."
+   },
+   {
+    "id": "L28-q05",
+    "type": "orthography",
+    "sentence": "部長の ＿だいり＿で 会議に 出ました。",
+    "target": "だいり",
+    "options": [
+     "大理",
+     "代理",
+     "代里",
+     "台理"
+    ],
+    "answer": 1,
+    "explanation_ta": "だいり = 代理 (பதிலாள்). 代 = பதிலாக (代わりに), 理 = காரணம்/நிர்வாகம். 大, 台 'だい' என்று ஒலித்தாலும் பொருள் வேறு; 里 = கிராமம்.",
+    "explanation_en": "だいり is 代理 (substitute). 代 means \"in place of\" (as in 代わりに). 大 and 台 also sound だい but mean big and stand. 里 means village."
+   },
+   {
+    "id": "L28-q06",
+    "type": "vocab_context",
+    "sentence": "この コピー機の （　　）が 分からないので、教えて ください。",
+    "options": [
+     "装置",
+     "設備",
+     "操作",
+     "作業"
+    ],
+    "answer": 2,
+    "explanation_ta": "இயந்திரத்தை இயக்கும் முறை = 操作. 装置 = கருவி, 設備 = வசதிகள் (கட்டடத்திலுள்ள உபகரணங்கள்), 作業 = கைவேலை/பணி. 'எப்படி இயக்குவது தெரியவில்லை' என்பதற்கு 操作 மட்டுமே பொருந்தும்.",
+    "explanation_en": "How you work a machine = 操作 (operation). 装置 = a device, 設備 = facilities, 作業 = a task. Only 操作 fits \"I don’t know how to use it\"."
+   },
+   {
+    "id": "L28-q07",
+    "type": "vocab_context",
+    "sentence": "わたしは 大学の テニス部で、（　　）に テニスを 教えて います。",
+    "options": [
+     "上司",
+     "代理",
+     "係",
+     "後輩"
+    ],
+    "answer": 3,
+    "explanation_ta": "கல்லூரிக் கழகத்தில் கற்றுக்கொடுப்பது இளையவர்களுக்கு: 後輩. 上司 = மேலதிகாரி (அலுவலகத்தில்), 代理 = பதிலாள், 係 = பொறுப்பாளர்.",
+    "explanation_en": "In a university club, you teach your juniors: 後輩. 上司 is a boss at work, 代理 is a substitute, 係 is the person in charge."
+   },
+   {
+    "id": "L28-q08",
+    "type": "vocab_context",
+    "sentence": "この 仕事は 経験の ある 田中さんに （　　）ことに しました。",
+    "options": [
+     "任せる",
+     "雇う",
+     "命じる",
+     "扱う"
+    ],
+    "answer": 0,
+    "explanation_ta": "'அனுபவம் உள்ள தனகாவிடம் இந்த வேலையை ஒப்படைக்க முடிவு செய்தோம்' = 任せる. 雇う = ஆளை வேலைக்கு அமர்த்துதல், 命じる = உத்தரவிடுதல் (ஒப்படைத்தல் அல்ல), 扱う = பொருளைக் கையாளுதல்.",
+    "explanation_en": "\"We decided to leave this job to Tanaka\" = 任せる. 雇う is hiring a person. 命じる is ordering, not leaving. 扱う is handling a thing."
+   },
+   {
+    "id": "L28-q09",
+    "type": "vocab_context",
+    "sentence": "プロジェクトは （　　）に 進んで いて、予定どおり 終わりそうです。",
+    "options": [
+     "正規",
+     "順調",
+     "協調",
+     "徹底"
+    ],
+    "answer": 1,
+    "explanation_ta": "'சீராக முன்னேறுகிறது' = 順調に進む. 正規 = முறையான/நிரந்தர, 協調 = ஒத்துழைப்பு, 徹底 = முழுமையாகக் கடைப்பிடித்தல்; இவை 進む-வுடன் பொருந்தாது.",
+    "explanation_en": "\"Going smoothly\" = 順調に進む. 正規 = regular, 協調 = cooperation, 徹底 = thoroughness. They don’t fit with 進む."
+   },
+   {
+    "id": "L28-q10",
+    "type": "vocab_context",
+    "sentence": "長い 話し合いの あと、やっと （　　）が 出ました。",
+    "options": [
+     "過程",
+     "構成",
+     "結論",
+     "会合"
+    ],
+    "answer": 2,
+    "explanation_ta": "நீண்ட கலந்துரையாடலுக்குப் பின் 'முடிவு வந்தது' = 結論が出る. 過程 = செயல்முறை, 構成 = அமைப்பு, 会合 = கூட்டம் (கூட்டமே 'வெளிவராது').",
+    "explanation_en": "After a long talk, \"a conclusion came out\" = 結論が出る. 過程 = process, 構成 = structure, 会合 = a meeting itself."
+   },
+   {
+    "id": "L28-q11",
+    "type": "paraphrase",
+    "sentence": "この 料理は 手間が かかります。",
+    "options": [
+     "この 料理は 値段が 高いです。",
+     "この 料理は すぐ できます。",
+     "この 料理は 手で 食べます。",
+     "この 料理は 作るのに 時間と 力が いります。"
+    ],
+    "answer": 3,
+    "explanation_ta": "手間がかかる = செய்ய நேரமும் உழைப்பும் தேவை. 手 என்ற எழுத்தைப் பார்த்து 'கையால் சாப்பிடுவது' என்று எண்ண வேண்டாம். 'விலை அதிகம்' வேறு பொருள்.",
+    "explanation_en": "手間がかかる = it takes time and work to make. Don’t be fooled by 手 (hand) into \"eat with your hands\". Price is a different idea."
+   },
+   {
+    "id": "L28-q12",
+    "type": "paraphrase",
+    "sentence": "電話で 話せたので、会社まで 行かずに 済みました。",
+    "options": [
+     "会社まで 行かなくても よかったです。",
+     "会社まで 行かなければ なりませんでした。",
+     "会社まで 行く つもりでした。",
+     "会社まで 行った ことが ありません。"
+    ],
+    "answer": 0,
+    "explanation_ta": "行かずに済んだ = போகத் தேவையில்லாமல் போனது = 行かなくてもよかった. 行かなければなりませんでした என்பது நேர் எதிர்ப் பொருள் ('போயே ஆக வேண்டியிருந்தது').",
+    "explanation_en": "行かずに済んだ = I didn’t have to go = 行かなくてもよかった. 行かなければなりませんでした means the opposite: \"I had to go\"."
+   },
+   {
+    "id": "L28-q13",
+    "type": "usage",
+    "sentence": "扱う",
+    "options": [
+     "毎朝 七時に 家を 扱います。",
+     "友だちに 誕生日の プレゼントを 扱いました。",
+     "この 店では 外国の 本も 扱って います。",
+     "雨が 扱って、試合が 中止に なりました。"
+    ],
+    "answer": 2,
+    "explanation_ta": "扱う = கையாளுதல்; கடை ஒரு பொருளை 'விற்பனைக்கு வைத்திருத்தல்' என்ற பொருளிலும் வரும்: 外国の本も扱っている. வீட்டை விட்டுக் கிளம்புதல் 出る, பரிசு கொடுத்தல் あげる, மழை பெய்தல் 降る.",
+    "explanation_en": "扱う = to handle; a shop can also \"handle\" (sell) goods: 外国の本も扱っている. Leaving home is 出る, giving a present is あげる, rain is 降る."
+   },
+   {
+    "id": "L28-q14",
+    "type": "usage",
+    "sentence": "就く",
+    "options": [
+     "毎朝 駅で 電車に 就きます。",
+     "兄は 去年 新しい 仕事に 就きました。",
+     "暑いので、窓を 就けて ください。",
+     "友だちと 駅で 就きました。"
+    ],
+    "answer": 1,
+    "explanation_ta": "就く = ஒரு பணியில்/பதவியில் சேர்தல்: 仕事に就く. ரயிலில் ஏறுவது 乗る, ஜன்னல் திறப்பது 開ける, ரயில் நிலையம் சென்றடைவது 着く (அதுவும் つく என்று ஒலிப்பதால் குழப்பம்).",
+    "explanation_en": "就く = to take a job or post: 仕事に就く. Getting on a train is 乗る, opening a window is 開ける, arriving is 着く (also read つく, so be careful)."
+   },
+   {
+    "id": "L28-q15",
+    "type": "grammar_form",
+    "sentence": "終電が 出て しまったので、タクシーで 帰る （　　）。",
+    "options": [
+     "ことは ない",
+     "わけが ない",
+     "しか ない",
+     "はずが ない"
+    ],
+    "answer": 2,
+    "explanation_ta": "கடைசி ரயில் போய்விட்டது → 'டாக்ஸியைத் தவிர வழியில்லை' = 帰るしかない. ことはない = தேவையில்லை (L27), わけがない / はずがない = 'இருக்கவே முடியாது'; பொருள் பொருந்தாது.",
+    "explanation_en": "The last train is gone → \"no choice but a taxi\" = 帰るしかない. ことはない = no need (L27). わけがない / はずがない = \"no way that…\"."
+   },
+   {
+    "id": "L28-q16",
+    "type": "grammar_form",
+    "sentence": "雨が ひどいので、試合は 中止（　　）を 得ない。",
+    "options": [
+     "しざる",
+     "せざる",
+     "さざる",
+     "しなく"
+    ],
+    "answer": 1,
+    "explanation_ta": "する-வுக்கு ざるを得ない சேர்க்கும்போது せざる என்று மாறும்: 中止せざるを得ない. しざる என்பது பொதுவான தவறு.",
+    "explanation_en": "With する, the form is せざる: 中止せざるを得ない. しざる is a common mistake."
+   },
+   {
+    "id": "L28-q17",
+    "type": "grammar_form",
+    "sentence": "友だちが 車で 送って くれたので、雨に ぬれ（　　）済みました。",
+    "options": [
+     "ずに",
+     "なくて",
+     "ないと",
+     "なければ"
+    ],
+    "answer": 0,
+    "explanation_ta": "'நனையாமலேயே தப்பித்தேன்' = ぬれずに済んだ. ずに済む அல்லது ないで済む மட்டுமே சரி; なくて済む இந்தப் பொருளில் வராது.",
+    "explanation_en": "\"I got away without getting wet\" = ぬれずに済んだ. Only ずに済む or ないで済む work; なくて済む is not used this way."
+   },
+   {
+    "id": "L28-q18",
+    "type": "grammar_form",
+    "sentence": "パスポートを なくして しまった。大使館に 相談する より （　　）。",
+    "options": [
+     "ほうが いい",
+     "ことだ",
+     "ものだ",
+     "ほかない"
+    ],
+    "answer": 3,
+    "explanation_ta": "より + ほかない = 'இதைத் தவிர வேறு வழியில்லை'. よりほうがいい என்று சொல்ல முடியாது (சரி: 相談したほうがいい). ことだ, ものだ より-வுடன் பொருந்தாது.",
+    "explanation_en": "より + ほかない = \"nothing but this\". You can’t say よりほうがいい (correct: 相談したほうがいい). ことだ and ものだ don’t go after より."
+   },
+   {
+    "id": "L28-q19",
+    "type": "grammar_form",
+    "sentence": "上司に 命じられたので、行きたく なくても 行か（　　）。",
+    "options": [
+     "ないで済む",
+     "ずには いられない",
+     "ざるを 得ない",
+     "なくても いい"
+    ],
+    "answer": 2,
+    "explanation_ta": "'விருப்பமில்லாவிட்டாலும் உத்தரவால் போயே ஆக வேண்டும்' = 行かざるを得ない. ずにはいられない (L23) = உணர்வால் 'செய்யாமல் இருக்க முடியவில்லை'; இங்கே காரணம் உத்தரவு, உணர்வு அல்ல.",
+    "explanation_en": "\"Forced to go by an order\" = 行かざるを得ない. ずにはいられない (L23) is \"can’t help it\" from feelings, not from orders."
+   },
+   {
+    "id": "L28-q20",
+    "type": "grammar_form",
+    "sentence": "早めに 準備して おいたので、徹夜（　　）済んだ。",
+    "options": [
+     "しずに",
+     "しないと",
+     "させて",
+     "せずに"
+    ],
+    "answer": 3,
+    "explanation_ta": "徹夜する → 徹夜せずに済んだ ('இரவு விழிக்கத் தேவையில்லாமல் போனது'). しずに என்ற வடிவமே இல்லை.",
+    "explanation_en": "徹夜する → 徹夜せずに済んだ (\"I didn’t have to stay up\"). しずに does not exist."
+   },
+   {
+    "id": "L28-q21",
+    "type": "grammar_form",
+    "sentence": "誰も 手伝って くれないなら、自分で やる （　　）ね。",
+    "options": [
+     "わけだ",
+     "しかない",
+     "ものだ",
+     "ことか"
+    ],
+    "answer": 1,
+    "explanation_ta": "'யாரும் உதவாவிட்டால் நானே செய்வதைத் தவிர வழியில்லை' = やるしかない. わけだ = 'அதனால்தான்', ものだ = பொதுவான உண்மை, ことか = வியப்பு; பொருள் பொருந்தாது.",
+    "explanation_en": "\"If no one helps, I have no choice but to do it\" = やるしかない. わけだ = \"that’s why\", ものだ = general truth, ことか = \"how …!\"."
+   },
+   {
+    "id": "L28-q22",
+    "type": "sentence_order",
+    "before": "電車が 止まって いるので、",
+    "chunks": [
+     "駅から",
+     "会社まで",
+     "歩く",
+     "しか"
+    ],
+    "star": 2,
+    "after": "ありません。",
+    "explanation_ta": "駅から (நிலையத்திலிருந்து) → 会社まで (அலுவலகம் வரை) → 歩く (நடப்பது) → しか ありません. ★ = 歩く. しか-க்கு முன் அகராதி வடிவ வினை வர வேண்டும்.",
+    "explanation_en": "駅から (from the station) → 会社まで (to the office) → 歩く (walk) → しか ありません. ★ = 歩く. A dictionary-form verb comes before しか."
+   },
+   {
+    "id": "L28-q23",
+    "type": "sentence_order",
+    "before": "同僚が 手伝って",
+    "chunks": [
+     "くれた",
+     "おかげで",
+     "残業",
+     "せずに"
+    ],
+    "star": 1,
+    "after": "済みました。",
+    "explanation_ta": "手伝ってくれた → おかげで (உதவியால்) → 残業 → せずに済みました. ★ = おかげで.",
+    "explanation_en": "手伝って くれた → おかげで (thanks to) → 残業 → せずに 済みました. ★ = おかげで."
+   },
+   {
+    "id": "L28-q24",
+    "type": "sentence_order",
+    "before": "上司の 命令",
+    "chunks": [
+     "なので、",
+     "やりたく",
+     "なくても、",
+     "やらざるを"
+    ],
+    "star": 2,
+    "after": "得ない。",
+    "explanation_ta": "上司の命令なので (கட்டளை என்பதால்) → やりたくなくても (விருப்பமில்லாவிட்டாலும்) → やらざるを得ない. ★ = なくても.",
+    "explanation_en": "上司の命令なので (since it’s an order) → やりたく なくても (even if I don’t want to) → やらざるを得ない. ★ = なくても."
+   },
+   {
+    "id": "L28-q25",
+    "type": "passage_cloze",
+    "passage": "私は 東京の 企業で 働いて います。先月、同じ 課の 先輩が 急に 会社を 辞めました。先輩が 担当して いた 仕事は、だれかが やる［1］ので、上司は それを 私に 任せました。期限まで 時間が なかったので、私は 毎晩 遅くまで 残業せざるを［2］。でも、ある 日、後輩の 田中さんが「私も 手伝います」と 言って くれました。田中さんの おかげで、週末は 会社に 来ないで［3］。最初は 一人で 頑張る［4］と 思って いましたが、仲間に 頼る ことも 大切だと 分かりました。",
+    "blanks": [
+     {
+      "options": [
+       "しかない",
+       "ことはない",
+       "わけがない",
+       "ずに済む"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "得ました",
+       "済みました",
+       "得ませんでした",
+       "ありませんでした"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "しかありませんでした",
+       "済みました",
+       "得ませんでした",
+       "いられませんでした"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "ことはない",
+       "わけではない",
+       "はずがない",
+       "ほかない"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "［1］ 'யாராவது செய்துதான் ஆக வேண்டும்' = やるしかない. ［2］ ざるを-க்குப் பின் எப்போதும் 得ない: 残業せざるを得ませんでした. 得ました என்பது வடிவமே அல்ல. ［3］ 'வரத் தேவையில்லாமல் போனது' = 来ないで済みました. ［4］ 'தனியாக முயல்வதைத் தவிர வழியில்லை என்று நினைத்தேன்' = 頑張るほかない. ことはない ('தேவையில்லை') கதையின் பொருளுக்கு மாறானது.",
+    "explanation_en": "[1] \"Someone has to do it\" = やるしかない. [2] After ざるを always comes 得ない: 残業せざるを得ませんでした. 得ました is not a real form. [3] \"I didn’t have to come in\" = 来ないで済みました. [4] \"I thought I had no choice but to work alone\" = 頑張るほかない. ことはない (\"no need\") goes against the story."
+   }
+  ]
+ }
+}

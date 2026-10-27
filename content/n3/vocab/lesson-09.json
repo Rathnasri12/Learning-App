@@ -1,0 +1,992 @@
+[
+  {
+    "id": "n3-v-0026",
+    "expression": "四季",
+    "reading": "しき",
+    "romaji": "shiki",
+    "en": "the four seasons",
+    "ta": "நான்கு பருவங்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本には四季があって、季節ごとに景色が変わります。",
+        "reading": "にほんには しきが あって、きせつごとに けしきが かわります。",
+        "romaji": "nihon ni wa shiki ga atte, kisetsu goto ni keshiki ga kawarimasu.",
+        "ta": "ஜப்பானில் நான்கு பருவங்கள் உண்டு; ஒவ்வொரு பருவத்திலும் காட்சி மாறும்.",
+        "en": "Japan has four seasons, and the scenery changes with each one."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0028",
+    "expression": "時期",
+    "reading": "じき",
+    "romaji": "jiki",
+    "en": "time, period",
+    "ta": "காலம் (பருவம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今の時期は、京都はとても混んでいます。",
+        "reading": "いまの じきは、きょうとは とても こんで います。",
+        "romaji": "ima no jiki wa, kyouto wa totemo konde imasu.",
+        "ta": "இந்தக் காலகட்டத்தில் கியோத்தோவில் மிகவும் கூட்டமாக இருக்கும்.",
+        "en": "At this time of year, Kyoto is very crowded."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0052",
+    "expression": "湿気",
+    "reading": "しっけ",
+    "romaji": "shikke",
+    "en": "dampness, humidity",
+    "ta": "ஈரப்பதம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "梅雨は湿気が多くて、洗濯物が乾きません。",
+        "reading": "つゆは しっけが おおくて、せんたくものが かわきません。",
+        "romaji": "tsuyu wa shikke ga ookute, sentakumono ga kawakimasen.",
+        "ta": "மழைக்காலத்தில் ஈரப்பதம் அதிகம்; துவைத்த துணிகள் காயாது.",
+        "en": "In the rainy season it's so damp that laundry won't dry."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0058",
+    "expression": "湿度",
+    "reading": "しつど",
+    "romaji": "shitsudo",
+    "en": "humidity (level)",
+    "ta": "ஈரப்பத அளவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日の湿度は、八十パーセントです。",
+        "reading": "きょうの しつどは、はちじゅっ パーセントです。",
+        "romaji": "kyou no shitsudo wa, hachijuppaasento desu.",
+        "ta": "இன்றைய ஈரப்பத அளவு 80 சதவீதம்.",
+        "en": "Today's humidity is 80 percent."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0083",
+    "expression": "湿る",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "en": "to get damp",
+    "ta": "ஈரமாக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "雨の日が続いて、布団が湿っています。",
+        "reading": "あめの ひが つづいて、ふとんが しめって います。",
+        "romaji": "ame no hi ga tsuzuite, futon ga shimette imasu.",
+        "ta": "மழை நாட்கள் தொடர்ந்ததால் மெத்தை ஈரமாக இருக்கிறது.",
+        "en": "After days of rain, the futon is damp."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0085",
+    "expression": "霜",
+    "reading": "しも",
+    "romaji": "shimo",
+    "en": "frost",
+    "ta": "உறைபனி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今朝は寒くて、畑に霜が降りていました。",
+        "reading": "けさは さむくて、はたけに しもが おりて いました。",
+        "romaji": "kesa wa samukute, hatake ni shimo ga orite imashita.",
+        "ta": "இன்று காலை குளிராக இருந்ததால் வயலில் உறைபனி படிந்திருந்தது.",
+        "en": "It was cold this morning, and there was frost on the fields."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0247",
+    "expression": "澄む",
+    "reading": "すむ",
+    "romaji": "sumu",
+    "en": "to become clear",
+    "ta": "தெளிவாக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "秋は空気が澄んでいて、山がよく見えます。",
+        "reading": "あきは くうきが すんで いて、やまが よく みえます。",
+        "romaji": "aki wa kuuki ga sunde ite, yama ga yoku miemasu.",
+        "ta": "இலையுதிர் காலத்தில் காற்று தெளிவாக இருப்பதால் மலைகள் நன்றாகத் தெரியும்.",
+        "en": "In autumn the air is clear, so you can see the mountains well."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0248",
+    "expression": "清む",
+    "reading": "すむ",
+    "romaji": "sumu",
+    "en": "to become clear (rare spelling)",
+    "ta": "தெளிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "一晩たつと、にごった水が清んできました。",
+        "reading": "ひとばん たつと、にごった みずが すんで きました。",
+        "romaji": "hitoban tatsu to, nigotta mizu ga sunde kimashita.",
+        "ta": "ஓர் இரவு கழிந்ததும் கலங்கிய நீர் தெளிந்தது.",
+        "en": "After a night, the muddy water became clear."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0306",
+    "expression": "明かり",
+    "reading": "あかり",
+    "romaji": "akari",
+    "en": "light, lamplight",
+    "ta": "வெளிச்சம் (விளக்கு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冬は五時になると、家々に明かりがつきます。",
+        "reading": "ふゆは ごじに なると、いえいえに あかりが つきます。",
+        "romaji": "fuyu wa goji ni naru to, ieie ni akari ga tsukimasu.",
+        "ta": "குளிர்காலத்தில் ஐந்து மணி ஆனதும் வீடுகளில் விளக்குகள் எரியத் தொடங்கும்.",
+        "en": "In winter, lights come on in the houses at five o'clock."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0322",
+    "expression": "温まる",
+    "reading": "あたたまる",
+    "romaji": "atatamaru",
+    "en": "to warm up (yourself)",
+    "ta": "கதகதப்பாக",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "温かいスープを飲んで、体が温まりました。",
+        "reading": "あたたかい スープを のんで、からだが あたたまりました。",
+        "romaji": "atatakai suupu o nonde, karada ga atatamarimashita.",
+        "ta": "சூடான சூப் குடித்ததும் உடல் கதகதப்பானது.",
+        "en": "I drank some hot soup and warmed up."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0323",
+    "expression": "暖める",
+    "reading": "あたためる",
+    "romaji": "atatameru",
+    "en": "to warm (something) up",
+    "ta": "சூடாக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "寒いので、ストーブで部屋を暖めておきました。",
+        "reading": "さむいので、ストーブで へやを あたためて おきました。",
+        "romaji": "samui node, sutoobu de heya o atatamete okimashita.",
+        "ta": "குளிராக இருப்பதால் ஹீட்டரால் அறையை முன்பே சூடாக்கி வைத்தேன்.",
+        "en": "It's cold, so I warmed the room with the heater beforehand."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0338",
+    "expression": "嵐",
+    "reading": "あらし",
+    "romaji": "arashi",
+    "en": "storm",
+    "ta": "புயல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昨夜は嵐で、木がたくさん倒れました。",
+        "reading": "さくやは あらしで、きが たくさん たおれました。",
+        "romaji": "sakuya wa arashi de, ki ga takusan taoremashita.",
+        "ta": "நேற்று இரவு புயலால் நிறைய மரங்கள் விழுந்தன.",
+        "en": "There was a storm last night, and many trees fell."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0390",
+    "expression": "一時",
+    "reading": "いちじ",
+    "romaji": "ichiji",
+    "en": "for a while, temporarily",
+    "ta": "சிறிது நேரம் (தற்காலிகமாக)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "東京は晴れ、一時雨でしょう。",
+        "reading": "とうきょうは はれ、いちじ あめでしょう。",
+        "romaji": "toukyou wa hare, ichiji ame deshou.",
+        "ta": "டோக்கியோவில் வெயில்; இடையில் சிறிது நேரம் மழை பெய்யலாம்.",
+        "en": "Tokyo will be sunny, with rain for a while."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0542",
+    "expression": "温暖",
+    "reading": "おんだん",
+    "romaji": "ondan",
+    "en": "warm, mild",
+    "ta": "மிதமான வெப்பமுள்ள",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "静岡は温暖な気候で、冬でも雪があまり降りません。",
+        "reading": "しずおかは おんだんな きこうで、ふゆでも ゆきが あまり ふりません。",
+        "romaji": "shizuoka wa ondan na kikou de, fuyu demo yuki ga amari furimasen.",
+        "ta": "ஷிசுவோகாவில் மிதமான காலநிலை; குளிர்காலத்திலும் அதிகம் பனி பெய்யாது.",
+        "en": "Shizuoka has a mild climate, and it rarely snows even in winter."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0543",
+    "expression": "温度",
+    "reading": "おんど",
+    "romaji": "ondo",
+    "en": "temperature",
+    "ta": "வெப்பநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "エアコンの温度を、二十六度にしてください。",
+        "reading": "エアコンの おんどを、にじゅうろくどに して ください。",
+        "romaji": "eakon no ondo o, nijuurokudo ni shite kudasai.",
+        "ta": "ஏசியின் வெப்பநிலையை 26 டிகிரியாக வையுங்கள்.",
+        "en": "Please set the air conditioner to 26 degrees."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0594",
+    "expression": "影",
+    "reading": "かげ",
+    "romaji": "kage",
+    "en": "shadow",
+    "ta": "நிழல் (உருவ நிழல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夕方になると、影が長くなります。",
+        "reading": "ゆうがたに なると、かげが ながく なります。",
+        "romaji": "yuugata ni naru to, kage ga nagaku narimasu.",
+        "ta": "மாலை ஆனதும் நிழல் நீளமாகும்.",
+        "en": "In the evening, shadows grow long."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0595",
+    "expression": "陰",
+    "reading": "かげ",
+    "romaji": "kage",
+    "en": "shade",
+    "ta": "நிழல் (வெயில் படாத இடம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暑いので、木の陰で少し休みましょう。",
+        "reading": "あついので、きの かげで すこし やすみましょう。",
+        "romaji": "atsui node, ki no kage de sukoshi yasumimashou.",
+        "ta": "வெயிலாக இருப்பதால் மர நிழலில் கொஞ்சம் ஓய்வெடுப்போம்.",
+        "en": "It's hot, so let's rest in the shade of a tree."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0644",
+    "expression": "雷",
+    "reading": "かみなり",
+    "romaji": "kaminari",
+    "en": "thunder",
+    "ta": "இடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夕方、大きな雷が鳴って、雨が降り出しました。",
+        "reading": "ゆうがた、おおきな かみなりが なって、あめが ふりだしました。",
+        "romaji": "yuugata, ookina kaminari ga natte, ame ga furidashimashita.",
+        "ta": "மாலையில் பெரிய இடி இடித்து மழை பெய்யத் தொடங்கியது.",
+        "en": "In the evening there was loud thunder, and it started to rain."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0683",
+    "expression": "乾燥",
+    "reading": "かんそう",
+    "romaji": "kansou",
+    "en": "dryness",
+    "ta": "வறட்சி (உலர்வு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "冬は空気が乾燥するので、肌が荒れやすいです。",
+        "reading": "ふゆは くうきが かんそう するので、はだが あれやすいです。",
+        "romaji": "fuyu wa kuuki ga kansou suru node, hada ga areyasui desu.",
+        "ta": "குளிர்காலத்தில் காற்று வறண்டு போவதால் தோலும் எளிதில் வறண்டுவிடும்.",
+        "en": "In winter the air gets dry, so your skin gets rough easily."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0692",
+    "expression": "気温",
+    "reading": "きおん",
+    "romaji": "kion",
+    "en": "air temperature",
+    "ta": "காற்றின் வெப்பநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "チェンナイの五月の気温は、四十度を超えることもあります。",
+        "reading": "チェンナイの ごがつの きおんは、よんじゅうどを こえる ことも あります。",
+        "romaji": "chennai no gogatsu no kion wa, yonjuudo o koeru koto mo arimasu.",
+        "ta": "சென்னையில் மே மாத வெப்பநிலை சில நேரம் 40 டிகிரியைத் தாண்டும்.",
+        "en": "In Chennai, May temperatures sometimes go over 40 degrees."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0696",
+    "expression": "期間",
+    "reading": "きかん",
+    "romaji": "kikan",
+    "en": "period, term",
+    "ta": "காலம் (கால அளவு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "セールの期間は、十日から二十日までです。",
+        "reading": "セールの きかんは、とおかから はつかまでです。",
+        "romaji": "seeru no kikan wa, tooka kara hatsuka made desu.",
+        "ta": "தள்ளுபடி விற்பனைக் காலம் 10-ஆம் தேதி முதல் 20-ஆம் தேதி வரை.",
+        "en": "The sale runs from the 10th to the 20th."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0702",
+    "expression": "気候",
+    "reading": "きこう",
+    "romaji": "kikou",
+    "en": "climate",
+    "ta": "காலநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の気候は、北と南でずいぶん違います。",
+        "reading": "にほんの きこうは、きたと みなみで ずいぶん ちがいます。",
+        "romaji": "nihon no kikou wa, kita to minami de zuibun chigaimasu.",
+        "ta": "ஜப்பானின் காலநிலை வடக்கிலும் தெற்கிலும் பெரிதும் வேறுபடும்.",
+        "en": "Japan's climate is very different in the north and the south."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0761",
+    "expression": "霧",
+    "reading": "きり",
+    "romaji": "kiri",
+    "en": "fog, mist",
+    "ta": "மூடுபனி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝、霧が深くて、前がよく見えませんでした。",
+        "reading": "あさ、きりが ふかくて、まえが よく みえませんでした。",
+        "romaji": "asa, kiri ga fukakute, mae ga yoku miemasen deshita.",
+        "ta": "காலையில் மூடுபனி அடர்த்தியாக இருந்ததால் முன்னால் சரியாகத் தெரியவில்லை.",
+        "en": "The fog was thick this morning, so I couldn't see ahead."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0909",
+    "expression": "氷",
+    "reading": "こおり",
+    "romaji": "koori",
+    "en": "ice",
+    "ta": "பனிக்கட்டி (ஐஸ்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "暑い日は、ジュースに氷をたくさん入れます。",
+        "reading": "あつい ひは、ジュースに こおりを たくさん いれます。",
+        "romaji": "atsui hi wa, juusu ni koori o takusan iremasu.",
+        "ta": "வெயில் நாளில் ஜூஸில் நிறைய ஐஸ் கட்டிகள் போடுவேன்.",
+        "en": "On hot days, I put lots of ice in my juice."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0976",
+    "expression": "昨",
+    "reading": "さく",
+    "romaji": "saku",
+    "en": "last, previous (sakunen)",
+    "ta": "சென்ற (கடந்த)",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "昨年の夏は、雨がとても少なかったです。",
+        "reading": "さくねんの なつは、あめが とても すくなかったです。",
+        "romaji": "sakunen no natsu wa, ame ga totemo sukunakatta desu.",
+        "ta": "சென்ற ஆண்டுக் கோடையில் மழை மிகக் குறைவு.",
+        "en": "Last year's summer had very little rain."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0989",
+    "expression": "射す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "en": "to shine (light)",
+    "ta": "(ஒளி) விழ",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "雨がやんで、雲の間から日が射してきました。",
+        "reading": "あめが やんで、くもの あいだから ひが さして きました。",
+        "romaji": "ame ga yande, kumo no aida kara hi ga sashite kimashita.",
+        "ta": "மழை நின்று, மேகங்களுக்கு இடையே வெயில் விழத் தொடங்கியது.",
+        "en": "The rain stopped, and sunlight shone through the clouds."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1034",
+    "expression": "蒸し暑い",
+    "reading": "むしあつい",
+    "romaji": "mushiatsui",
+    "en": "hot and humid",
+    "ta": "புழுக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "日本の夏は、チェンナイと同じくらい蒸し暑いです。",
+        "reading": "にほんの なつは、チェンナイと おなじ くらい むしあついです。",
+        "romaji": "nihon no natsu wa, chennai to onaji kurai mushiatsui desu.",
+        "ta": "ஜப்பானின் கோடைக்காலம் சென்னை அளவுக்குப் புழுக்கமாக இருக்கும்.",
+        "en": "Japanese summers are as hot and humid as Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1043",
+    "expression": "芽",
+    "reading": "め",
+    "romaji": "me",
+    "en": "sprout, bud",
+    "ta": "தளிர் (முளை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "春になって、庭の木に新しい芽が出ました。",
+        "reading": "はるに なって、にわの きに あたらしい めが でました。",
+        "romaji": "haru ni natte, niwa no ki ni atarashii me ga demashita.",
+        "ta": "வசந்த காலம் வந்ததும் தோட்டத்து மரத்தில் புதிய தளிர்கள் வந்தன.",
+        "en": "Spring came, and new buds appeared on the garden tree."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1121",
+    "expression": "夜",
+    "reading": "よ",
+    "romaji": "yo",
+    "en": "night (in set phrases)",
+    "ta": "இரவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜が明けると、鳥が鳴き始めました。",
+        "reading": "よが あけると、とりが なき はじめました。",
+        "romaji": "yo ga akeru to, tori ga naki hajimemashita.",
+        "ta": "பொழுது விடிந்ததும் பறவைகள் கூவத் தொடங்கின.",
+        "en": "When day broke, the birds began to sing."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1135",
+    "expression": "予期",
+    "reading": "よき",
+    "romaji": "yoki",
+    "en": "expectation",
+    "ta": "எதிர்பார்ப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "予期しない大雪で、電車が止まりました。",
+        "reading": "よき しない おおゆきで、でんしゃが とまりました。",
+        "romaji": "yoki shinai ooyuki de, densha ga tomarimashita.",
+        "ta": "எதிர்பாராத கடும் பனிப்பொழிவால் ரயில்கள் நின்றுவிட்டன.",
+        "en": "Unexpected heavy snow stopped the trains."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1146",
+    "expression": "予報",
+    "reading": "よほう",
+    "romaji": "yohou",
+    "en": "forecast",
+    "ta": "முன்னறிவிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "天気予報によると、明日は雪が降るそうです。",
+        "reading": "てんき よほうに よると、あしたは ゆきが ふる そうです。",
+        "romaji": "tenki yohou ni yoru to, ashita wa yuki ga furu sou desu.",
+        "ta": "வானிலை முன்னறிவிப்பின்படி நாளை பனி பெய்யுமாம்.",
+        "en": "According to the forecast, it will snow tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1381",
+    "expression": "太陽",
+    "reading": "たいよう",
+    "romaji": "taiyou",
+    "en": "the sun",
+    "ta": "சூரியன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "太陽が出て、洗濯物がよく乾きました。",
+        "reading": "たいようが でて、せんたくものが よく かわきました。",
+        "romaji": "taiyou ga dete, sentakumono ga yoku kawakimashita.",
+        "ta": "சூரியன் வந்ததால் துணிகள் நன்றாகக் காய்ந்தன.",
+        "en": "The sun came out, and the laundry dried well."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1468",
+    "expression": "地平線",
+    "reading": "ちへいせん",
+    "romaji": "chiheisen",
+    "en": "horizon",
+    "ta": "அடிவானம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夕日が、地平線の向こうに沈んでいきました。",
+        "reading": "ゆうひが、ちへいせんの むこうに しずんで いきました。",
+        "romaji": "yuuhi ga, chiheisen no mukou ni shizunde ikimashita.",
+        "ta": "மாலைச் சூரியன் அடிவானத்துக்கு அப்பால் மறைந்தது.",
+        "en": "The setting sun sank below the horizon."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1473",
+    "expression": "中",
+    "reading": "ちゅう",
+    "romaji": "chuu",
+    "en": "during, in the middle of",
+    "ta": "(-இன்) போது",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "授業中は、携帯の電源を切ってください。",
+        "reading": "じゅぎょうちゅうは、けいたいの でんげんを きって ください。",
+        "romaji": "jugyouchuu wa, keitai no dengen o kitte kudasai.",
+        "ta": "வகுப்பு நடக்கும்போது கைப்பேசியை அணைத்துவிடுங்கள்.",
+        "en": "Please turn off your phone during class."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1478",
+    "expression": "中止",
+    "reading": "ちゅうし",
+    "romaji": "chuushi",
+    "en": "cancellation",
+    "ta": "ரத்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "台風のため、花火大会は中止になりました。",
+        "reading": "たいふうの ため、はなび たいかいは ちゅうしに なりました。",
+        "romaji": "taifuu no tame, hanabi taikai wa chuushi ni narimashita.",
+        "ta": "புயல் காரணமாக வாணவேடிக்கை விழா ரத்து செய்யப்பட்டது.",
+        "en": "The fireworks festival was cancelled because of the typhoon."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1484",
+    "expression": "長期",
+    "reading": "ちょうき",
+    "romaji": "chouki",
+    "en": "long-term",
+    "ta": "நீண்ட காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏休みに、長期の旅行をする予定です。",
+        "reading": "なつやすみに、ちょうきの りょこうを する よていです。",
+        "romaji": "natsuyasumi ni, chouki no ryokou o suru yotei desu.",
+        "ta": "கோடை விடுமுறையில் நீண்ட நாள் பயணம் செல்லத் திட்டமிட்டுள்ளேன்.",
+        "en": "I plan to take a long trip in the summer holidays."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1493",
+    "expression": "散る",
+    "reading": "ちる",
+    "romaji": "chiru",
+    "en": "to fall, scatter (petals)",
+    "ta": "உதிர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "風が強くて、桜の花がもう散ってしまいました。",
+        "reading": "かぜが つよくて、さくらの はなが もう ちって しまいました。",
+        "romaji": "kaze ga tsuyokute, sakura no hana ga mou chitte shimaimashita.",
+        "ta": "காற்று பலமாக வீசியதால் சகுரா மலர்கள் ஏற்கெனவே உதிர்ந்துவிட்டன.",
+        "en": "The wind was strong, so the cherry blossoms have already fallen."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1500",
+    "expression": "通じる",
+    "reading": "つうじる",
+    "romaji": "tsuujiru",
+    "en": "to lead to; be understood",
+    "ta": "(வழி) செல்ல; புரிய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "簡単な日本語なら、もう通じるようになりました。",
+        "reading": "かんたんな にほんごなら、もう つうじる ように なりました。",
+        "romaji": "kantan na nihongo nara, mou tsuujiru you ni narimashita.",
+        "ta": "எளிய ஜப்பானிய மொழி என்றால், இப்போது நான் சொல்வது பிறருக்குப் புரிகிறது.",
+        "en": "My simple Japanese now gets understood."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1531",
+    "expression": "積もる",
+    "reading": "つもる",
+    "romaji": "tsumoru",
+    "en": "to pile up",
+    "ta": "குவிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "一晩で、雪が三十センチも積もりました。",
+        "reading": "ひとばんで、ゆきが さんじゅっ センチも つもりました。",
+        "romaji": "hitoban de, yuki ga sanjussenchi mo tsumorimashita.",
+        "ta": "ஒரே இரவில் 30 செ.மீ. அளவுக்குப் பனி குவிந்தது.",
+        "en": "As much as thirty centimetres of snow piled up in one night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1532",
+    "expression": "梅雨",
+    "reading": "つゆ",
+    "romaji": "tsuyu",
+    "en": "rainy season",
+    "ta": "மழைக்காலம் (ஜூன் மழைக்காலம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "東京の梅雨は、六月から七月の中ごろまでです。",
+        "reading": "とうきょうの つゆは、ろくがつから しちがつの なかごろまでです。",
+        "romaji": "toukyou no tsuyu wa, rokugatsu kara shichigatsu no nakagoro made desu.",
+        "ta": "டோக்கியோவின் மழைக்காலம் ஜூன் முதல் ஜூலை நடுப்பகுதி வரை.",
+        "en": "Tokyo's rainy season lasts from June to mid-July."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1541",
+    "expression": "定期",
+    "reading": "ていき",
+    "romaji": "teiki",
+    "en": "fixed term; commuter pass",
+    "ta": "குறிப்பிட்ட காலம் (சீசன் டிக்கெட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の定期が切れたので、新しく買いました。",
+        "reading": "でんしゃの ていきが きれたので、あたらしく かいました。",
+        "romaji": "densha no teiki ga kireta node, atarashiku kaimashita.",
+        "ta": "ரயில் சீசன் டிக்கெட்டின் காலம் முடிந்ததால் புதிதாக வாங்கினேன்.",
+        "en": "My train pass ran out, so I bought a new one."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1566",
+    "expression": "天候",
+    "reading": "てんこう",
+    "romaji": "tenkou",
+    "en": "weather (over a period)",
+    "ta": "வானிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "天候が悪いため、飛行機が遅れています。",
+        "reading": "てんこうが わるい ため、ひこうきが おくれて います。",
+        "romaji": "tenkou ga warui tame, hikouki ga okurete imasu.",
+        "ta": "மோசமான வானிலை காரணமாக விமானம் தாமதமாகிறது.",
+        "en": "The flight is delayed because of bad weather."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1683",
+    "expression": "日光",
+    "reading": "にっこう",
+    "romaji": "nikkou",
+    "en": "sunlight",
+    "ta": "சூரிய ஒளி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この薬は、日光が当たらない所に置いてください。",
+        "reading": "この くすりは、にっこうが あたらない ところに おいて ください。",
+        "romaji": "kono kusuri wa, nikkou ga ataranai tokoro ni oite kudasai.",
+        "ta": "இந்த மருந்தைச் சூரிய ஒளி படாத இடத்தில் வையுங்கள்.",
+        "en": "Keep this medicine out of direct sunlight."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1695",
+    "expression": "濡らす",
+    "reading": "ぬらす",
+    "romaji": "nurasu",
+    "en": "to make wet",
+    "ta": "நனைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "急な雨で、かばんを濡らしてしまいました。",
+        "reading": "きゅうな あめで、かばんを ぬらして しまいました。",
+        "romaji": "kyuu na ame de, kaban o nurashite shimaimashita.",
+        "ta": "திடீர் மழையில் பையை நனைத்துவிட்டேன்.",
+        "en": "I got my bag wet in the sudden rain."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1701",
+    "expression": "熱帯",
+    "reading": "ねったい",
+    "romaji": "nettai",
+    "en": "the tropics",
+    "ta": "வெப்பமண்டலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "南インドは熱帯なので、一年中暑いです。",
+        "reading": "みなみ インドは ねったいなので、いちねんじゅう あついです。",
+        "romaji": "minami indo wa nettai na node, ichinenjuu atsui desu.",
+        "ta": "தென்னிந்தியா வெப்பமண்டலப் பகுதி என்பதால் ஆண்டு முழுவதும் வெப்பமாக இருக்கும்.",
+        "en": "South India is in the tropics, so it is hot all year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1703",
+    "expression": "年間",
+    "reading": "ねんかん",
+    "romaji": "nenkan",
+    "en": "per year; a year's period",
+    "ta": "ஆண்டுக்கு (ஓர் ஆண்டு காலம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都には、年間五千万人の観光客が来ます。",
+        "reading": "きょうとには、ねんかん ごせんまんにんの かんこうきゃくが きます。",
+        "romaji": "kyouto ni wa, nenkan gosenmannin no kankoukyaku ga kimasu.",
+        "ta": "கியோத்தோவுக்கு ஆண்டுக்கு ஐந்து கோடி சுற்றுலாப் பயணிகள் வருகிறார்கள்.",
+        "en": "Kyoto gets fifty million tourists a year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1705",
+    "expression": "年中",
+    "reading": "ねんじゅう",
+    "romaji": "nenjuu",
+    "en": "all year round",
+    "ta": "ஆண்டு முழுவதும்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "沖縄は、年中暖かいです。",
+        "reading": "おきなわは、ねんじゅう あたたかいです。",
+        "romaji": "okinawa wa, nenjuu atatakai desu.",
+        "ta": "ஒகினாவா ஆண்டு முழுவதும் வெதுவெதுப்பாக இருக்கும்.",
+        "en": "Okinawa is warm all year round."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1732",
+    "expression": "昇る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "en": "to rise (sun)",
+    "ta": "உதிக்க (மேலே எழ)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "カンニャクマリで、海から太陽が昇るのを見ました。",
+        "reading": "カンニャクマリで、うみから たいようが のぼるのを みました。",
+        "romaji": "Kanyakumari de, umi kara taiyou ga noboru no o mimashita.",
+        "ta": "கன்னியாகுமரியில் கடலிலிருந்து சூரியன் உதிப்பதைப் பார்த்தேன்.",
+        "en": "In Kanyakumari, I watched the sun rise from the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1739",
+    "expression": "梅雨",
+    "reading": "ばいう",
+    "romaji": "baiu",
+    "en": "rainy season (formal)",
+    "ta": "மழைக்காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "天気予報で、「梅雨前線」という言葉をよく聞きます。",
+        "reading": "てんき よほうで、「ばいう ぜんせん」と いう ことばを よく ききます。",
+        "romaji": "tenki yohou de, \"baiu zensen\" to iu kotoba o yoku kikimasu.",
+        "ta": "வானிலை அறிக்கையில் 'மழைக்கால முன்னணி' என்ற சொல்லை அடிக்கடி கேட்கிறோம்.",
+        "en": "You often hear the term \"rainy-season front\" in weather forecasts."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1759",
+    "expression": "激しい",
+    "reading": "はげしい",
+    "romaji": "hageshii",
+    "en": "violent, intense",
+    "ta": "கடுமையான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "夜中に激しい雨が降って、道が川のようになりました。",
+        "reading": "よなかに はげしい あめが ふって、みちが かわの ように なりました。",
+        "romaji": "yonaka ni hageshii ame ga futte, michi ga kawa no you ni narimashita.",
+        "ta": "நள்ளிரவில் கடும் மழை பெய்து சாலை ஆறு போல ஆனது.",
+        "en": "Heavy rain fell at midnight, and the road became like a river."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1809",
+    "expression": "灯",
+    "reading": "ひ",
+    "romaji": "hi",
+    "en": "light, lamp",
+    "ta": "விளக்கு (ஒளி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ディーパバリの夜は、町中に灯がともります。",
+        "reading": "ディーパバリの よるは、まちじゅうに ひが ともります。",
+        "romaji": "diipabari no yoru wa, machijuu ni hi ga tomorimasu.",
+        "ta": "தீபாவளி இரவில் ஊர் முழுவதும் விளக்குகள் ஒளிர்கின்றன.",
+        "en": "On Deepavali night, lamps glow all over town."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1904",
+    "expression": "震える",
+    "reading": "ふるえる",
+    "romaji": "furueru",
+    "en": "to shiver, shake",
+    "ta": "நடுங்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "外はとても寒くて、体が震えました。",
+        "reading": "そとは とても さむくて、からだが ふるえました。",
+        "romaji": "soto wa totemo samukute, karada ga furuemashita.",
+        "ta": "வெளியே மிகவும் குளிராக இருந்ததால் உடல் நடுங்கியது.",
+        "en": "It was so cold outside that I shivered."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1989",
+    "expression": "松",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "en": "pine tree",
+    "ta": "பைன் மரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お正月には、玄関に松を飾ります。",
+        "reading": "おしょうがつには、げんかんに まつを かざります。",
+        "romaji": "oshougatsu ni wa, genkan ni matsu o kazarimasu.",
+        "ta": "புத்தாண்டின்போது வீட்டு வாசலில் பைன் கிளைகளை அலங்காரமாக வைப்பார்கள்.",
+        "en": "At New Year, people decorate their entrance with pine."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2072",
+    "expression": "露",
+    "reading": "つゆ",
+    "romaji": "tsuyu",
+    "en": "dew",
+    "ta": "பனித்துளி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "朝、庭の草に露が光っていました。",
+        "reading": "あさ、にわの くさに つゆが ひかって いました。",
+        "romaji": "asa, niwa no kusa ni tsuyu ga hikatte imashita.",
+        "ta": "காலையில் தோட்டத்துப் புல்லில் பனித்துளிகள் மின்னின.",
+        "en": "In the morning, dew was shining on the grass in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2124",
+    "expression": "末",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "en": "the end (of a period)",
+    "ta": "இறுதி",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "今月末までに、レポートを出してください。",
+        "reading": "こんげつまつまでに、レポートを だして ください。",
+        "romaji": "kongetsumatsu made ni, repooto o dashite kudasai.",
+        "ta": "இந்த மாத இறுதிக்குள் அறிக்கையைச் சமர்ப்பியுங்கள்.",
+        "en": "Please hand in the report by the end of this month."
+      }
+    ]
+  }
+]

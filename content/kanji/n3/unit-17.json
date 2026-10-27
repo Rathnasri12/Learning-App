@@ -1,0 +1,436 @@
+{
+  "unit": 17,
+  "title": { "en": "News, facts and judgment", "ta": "செய்தி, உண்மை, தீர்ப்பு" },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for news and facts: report, information, understand, judge, exist, increase and more. Many of them are in news words like 情報 (information) and 事件 (incident). Tip: look for parts you know. 判 is half (半) + knife (刂), and 件 is person (亻) + cow (牛).",
+    "ta": "இந்தப் பாடத்தில் செய்தி, உண்மைகள் பற்றிய 14 கான்ஜிகளைக் கற்கிறீர்கள்: அறிக்கை, தகவல், புரிதல், தீர்ப்பு, இருத்தல், அதிகரிப்பு போன்றவை. இவற்றில் பல 情報 (தகவல்), 事件 (சம்பவம்) போன்ற செய்திச் சொற்களில் வருகின்றன. குறிப்பு: உங்களுக்குத் தெரிந்த பகுதிகளைத் தேடுங்கள். 判 = பாதி (半) + கத்தி (刂); 件 = மனிதர் (亻) + மாடு (牛)."
+  },
+  "kanji": [
+    {
+      "kanji": "報",
+      "meaning": { "en": "report, news", "ta": "அறிக்கை, செய்தி" },
+      "on": ["ほう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 幸 (happiness). On the right, a messenger kneels down with his hand on his back. He kneels before the king and brings happy news: a report.",
+        "ta": "இடப்பக்கம் 幸 (மகிழ்ச்சி). வலப்பக்கம் ஒரு தூதுவன் கையைப் பின்னால் வைத்து மண்டியிட்டிருக்கிறான். அரசன் முன் மண்டியிட்டு மகிழ்ச்சியான செய்தியைச் சொல்கிறான்: அதுதான் அறிக்கை."
+      },
+      "note": {
+        "en": "報, 放 and 法 are all read ほう. Remember 報 by the 幸 on the left: news.",
+        "ta": "報, 放, 法 மூன்றும் ほう என்றே வாசிக்கப்படும். இடப்பக்க 幸-ஐ வைத்து 報 = செய்தி என்று நினைவில் கொள்ளுங்கள்."
+      },
+      "examples": [
+        { "word": "情報", "reading": "じょうほう", "en": "information", "ta": "தகவல்", "vocabId": "n3-v-0157" },
+        { "word": "報告", "reading": "ほうこく", "en": "report", "ta": "அறிக்கை, தெரிவித்தல்", "vocabId": "n3-v-1931" },
+        { "word": "天気予報", "reading": "てんきよほう", "en": "weather forecast", "ta": "வானிலை முன்னறிவிப்பு", "vocabId": "n4-v-453" }
+      ]
+    },
+    {
+      "kanji": "解",
+      "meaning": { "en": "solve, understand", "ta": "தீர், புரிந்துகொள்" },
+      "on": ["かい"],
+      "kun": ["と.く"],
+      "mnemonic": {
+        "en": "A horn (角) on the left, a sword (刀) and a cow (牛) on the right. With the sword, the butcher takes the cow apart, horn by horn, piece by piece. When you take a problem apart like this, you solve it and understand it.",
+        "ta": "இடப்பக்கம் கொம்பு (角); வலப்பக்கம் வாள் (刀), மாடு (牛). கசாப்புக்காரர் வாளால் மாட்டைக் கொம்பு கொம்பாக, துண்டு துண்டாகப் பிரிக்கிறார். ஒரு கணக்கையும் இப்படிப் பிரித்துப் பார்த்தால் அதைத் தீர்க்கலாம், புரிந்துகொள்ளலாம்."
+      },
+      "note": {
+        "en": "解 (かい) and 回 (かい, times) sound the same. 理解 = understanding, not 理回.",
+        "ta": "解 (かい), 回 (かい, முறை) இரண்டும் ஒரே ஒலி. 理解 = புரிதல்; 理回 என்று எழுதக்கூடாது."
+      },
+      "examples": [
+        { "word": "理解", "reading": "りかい", "en": "understanding", "ta": "புரிதல்", "vocabId": "n3-v-1161" },
+        { "word": "解決", "reading": "かいけつ", "en": "solution; settlement", "ta": "தீர்வு", "vocabId": "n3-v-0555" },
+        { "word": "誤解", "reading": "ごかい", "en": "misunderstanding", "ta": "தவறான புரிதல்", "vocabId": "n3-v-0912" },
+        { "word": "解く", "reading": "とく", "en": "to solve; to untie", "ta": "(கணக்கு) தீர்க்க; அவிழ்க்க", "vocabId": "n3-v-1594" }
+      ]
+    },
+    {
+      "kanji": "資",
+      "meaning": { "en": "funds, resources", "ta": "மூலதனம், வளம்" },
+      "on": ["し"],
+      "kun": [],
+      "mnemonic": {
+        "en": "次 (next) sits on top of 貝 (a shell, old money). Money you keep for the next step is your funds, your resources.",
+        "ta": "貝 (சிப்பி, பழங்காலப் பணம்) மேல் 次 (அடுத்தது) அமர்ந்திருக்கிறது. அடுத்த வேலைக்காகச் சேர்த்து வைக்கும் பணம்தான் மூலதனம், வளம்."
+      },
+      "examples": [
+        { "word": "資格", "reading": "しかく", "en": "qualification; licence", "ta": "தகுதி; தகுதிச் சான்றிதழ்", "vocabId": "n3-v-2004" },
+        { "word": "資料", "reading": "しりょう", "en": "materials, documents, data", "ta": "ஆவணங்கள், தரவுகள்" },
+        { "word": "資本", "reading": "しほん", "en": "capital, funds", "ta": "மூலதனம்", "vocabId": "n3-v-0076" }
+      ]
+    },
+    {
+      "kanji": "際",
+      "meaning": { "en": "occasion, edge, between", "ta": "சந்தர்ப்பம், எல்லை, இடையே" },
+      "on": ["さい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a hill wall (阝). On the right is a festival: meat and a hand above an altar (示). Two villages meet for the festival at the edge, where the hill wall divides them. 際 = the edge where people meet, as in 国際 (between countries).",
+        "ta": "இடப்பக்கம் குன்றுச் சுவர் (阝). வலப்பக்கம் ஒரு திருவிழா: பலிபீடத்தின் (示) மேல் இறைச்சியும் கையும். குன்று பிரிக்கும் எல்லையில் இரண்டு ஊர் மக்களும் திருவிழாவுக்குச் சந்திக்கிறார்கள். 際 = மக்கள் சந்திக்கும் எல்லை; 国際 (நாடுகளுக்கு இடையே) போல."
+      },
+      "note": {
+        "en": "実際 is read じっさい, with a small っ.",
+        "ta": "実際 = じっさい (சிறிய っ உண்டு)."
+      },
+      "examples": [
+        { "word": "国際", "reading": "こくさい", "en": "international", "ta": "சர்வதேச", "vocabId": "n4-v-370" },
+        { "word": "実際", "reading": "じっさい", "en": "in fact; reality", "ta": "உண்மையில்; நடைமுறையில்", "vocabId": "n3-v-0056" },
+        { "word": "交際", "reading": "こうさい", "en": "friendship; going out (with someone)", "ta": "நட்பு, பழக்கம்; காதல் உறவு", "vocabId": "n3-v-0891" }
+      ]
+    },
+    {
+      "kanji": "判",
+      "meaning": { "en": "judge, decide; stamp", "ta": "தீர்ப்பு, முடிவு; முத்திரை" },
+      "on": ["はん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Half (半) and a knife (刂). The judge cuts the matter into two halves with a knife, looks at both sides and decides.",
+        "ta": "பாதி (半), கத்தி (刂). நீதிபதி விஷயத்தைக் கத்தியால் இரண்டு பாதியாக வெட்டி, இரு பக்கத்தையும் பார்த்து முடிவு செய்கிறார்."
+      },
+      "note": {
+        "en": "In some words 判 becomes ばん, e.g. 裁判 (さいばん, court case).",
+        "ta": "சில சொற்களில் 判 = ばん ஆகும்; எ.கா. 裁判 (さいばん, நீதிமன்ற விசாரணை)."
+      },
+      "examples": [
+        { "word": "判断", "reading": "はんだん", "en": "judgment; decision", "ta": "மதிப்பீடு; முடிவு", "vocabId": "n3-v-1806" },
+        { "word": "判定", "reading": "はんてい", "en": "judgment, decision (by a referee)", "ta": "(நடுவரின்) தீர்ப்பு" },
+        { "word": "判子", "reading": "はんこ", "en": "personal seal, stamp", "ta": "பெயர் முத்திரை" }
+      ]
+    },
+    {
+      "kanji": "在",
+      "meaning": { "en": "exist, be (in a place)", "ta": "இரு, இருப்பு" },
+      "on": ["ざい"],
+      "kun": ["あ.る"],
+      "mnemonic": {
+        "en": "A hand (like the top of 右) reaches over a person (亻) standing on the ground (土). The person is really there: he exists, he is present.",
+        "ta": "தரையில் (土) நிற்கும் ஒரு மனிதர் (亻) மேல் ஒரு கை (右-இன் மேல்பகுதி போல) நீள்கிறது. அவர் உண்மையில் அங்கே இருக்கிறார்: இருப்பு."
+      },
+      "note": {
+        "en": "在る (to be, for things) is usually written in kana: ある.",
+        "ta": "在る (இருக்க, பொருட்களுக்கு) பொதுவாக கானாவில் ある என்றே எழுதப்படும்."
+      },
+      "examples": [
+        { "word": "現在", "reading": "げんざい", "en": "now, at present", "ta": "தற்போது", "vocabId": "n3-v-0860" },
+        { "word": "存在", "reading": "そんざい", "en": "existence", "ta": "இருப்பு", "vocabId": "n3-v-1350" },
+        { "word": "在る", "reading": "ある", "en": "to be, to exist (things)", "ta": "இருக்க (உயிரற்ற பொருள்)", "vocabId": "n5-v-040" }
+      ]
+    },
+    {
+      "kanji": "件",
+      "meaning": { "en": "matter, case", "ta": "விஷயம், வழக்கு" },
+      "on": ["けん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A person (亻) and a cow (牛). In the village, a man’s cow walked into the neighbour’s field and ate the crop. Now it is a big matter, a case for the village elders.",
+        "ta": "மனிதர் (亻), மாடு (牛). கிராமத்தில் ஒருவரின் மாடு பக்கத்து வீட்டு வயலில் புகுந்து பயிரைத் தின்றுவிட்டது. இப்போது அது பெரிய விஷயம்; ஊர்ப் பெரியவர்கள் பார்க்க வேண்டிய வழக்கு."
+      },
+      "note": {
+        "en": "件 is also a counter for cases: 3件 (さんけん, three cases).",
+        "ta": "件 எண்ணிக்கைச் சொல்லாகவும் வரும்: 3件 (さんけん, மூன்று சம்பவங்கள்)."
+      },
+      "examples": [
+        { "word": "事件", "reading": "じけん", "en": "incident, case", "ta": "சம்பவம், வழக்கு", "vocabId": "n3-v-0034" },
+        { "word": "件", "reading": "けん", "en": "matter, case", "ta": "விஷயம்", "vocabId": "n3-v-1277" },
+        { "word": "用件", "reading": "ようけん", "en": "business, the matter (you came about)", "ta": "வந்த வேலை, விஷயம்" }
+      ]
+    },
+    {
+      "kanji": "任",
+      "meaning": { "en": "duty; entrust", "ta": "பொறுப்பு; ஒப்படை" },
+      "on": ["にん"],
+      "kun": ["まか.せる"],
+      "mnemonic": {
+        "en": "A person (亻) carries a heavy load on a pole (the right side looks like 王 with a slanted top). Someone gave him this load. It is his duty now.",
+        "ta": "ஒரு மனிதர் (亻) கம்பில் கனமான சுமையைச் சுமக்கிறார் (வலப்பக்கம் மேலே சாய்ந்த கோடுடன் 王 போலத் தெரியும்). யாரோ இந்தச் சுமையை அவரிடம் ஒப்படைத்தார்கள். இப்போது அது அவர் பொறுப்பு."
+      },
+      "note": {
+        "en": "Don’t mix up 任 (にん, duty) and 仕 (し, as in 仕事). 任 has a slanted stroke on top.",
+        "ta": "任 (にん, பொறுப்பு), 仕 (し, 仕事-இல் உள்ளது) இரண்டையும் குழப்ப வேண்டாம். 任-இன் மேலே சாய்ந்த கோடு உண்டு."
+      },
+      "examples": [
+        { "word": "責任", "reading": "せきにん", "en": "responsibility", "ta": "பொறுப்பு", "vocabId": "n3-v-0288" },
+        { "word": "任せる", "reading": "まかせる", "en": "to leave (a job) to someone", "ta": "(ஒருவரிடம்) ஒப்படைக்க", "vocabId": "n3-v-1968" },
+        { "word": "主任", "reading": "しゅにん", "en": "person in charge, chief", "ta": "பொறுப்பாளர், தலைமை அலுவலர்" }
+      ]
+    },
+    {
+      "kanji": "増",
+      "meaning": { "en": "increase", "ta": "அதிகரி, கூடு" },
+      "on": ["ぞう"],
+      "kun": ["ふ.える", "ふ.やす"],
+      "mnemonic": {
+        "en": "Soil (土) on the left. On the right, a rice field (田) with the sun (日) below it and two new sprouts (八) on top. Add soil and sunshine to the field, and the crop grows bigger: it increases.",
+        "ta": "இடப்பக்கம் மண் (土). வலப்பக்கம் வயல் (田), அதன் கீழ் சூரியன் (日), மேலே இரண்டு புதிய முளைகள் (八). வயலுக்கு மண்ணும் வெயிலும் சேர்ந்தால் பயிர் பெருகுகிறது: அதிகரிப்பு."
+      },
+      "note": {
+        "en": "増える (ふえる) = something increases by itself. 増やす (ふやす) = you increase something.",
+        "ta": "増える (ふえる) = தானாகக் கூடுவது. 増やす (ふやす) = நாம் ஒன்றைக் கூட்டுவது."
+      },
+      "examples": [
+        { "word": "増える", "reading": "ふえる", "en": "to increase", "ta": "அதிகரிக்க (தானாக)", "vocabId": "n4-v-244" },
+        { "word": "増やす", "reading": "ふやす", "en": "to increase (something)", "ta": "அதிகரிக்க (கூட்ட)", "vocabId": "n3-v-1897" },
+        { "word": "増加", "reading": "ぞうか", "en": "increase", "ta": "அதிகரிப்பு", "vocabId": "n3-v-1317" }
+      ]
+    },
+    {
+      "kanji": "情",
+      "meaning": { "en": "feelings; information", "ta": "உணர்வு; தகவல்" },
+      "on": ["じょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A heart (忄) next to 青 (blue, young and fresh). A young, fresh heart is full of feelings.",
+        "ta": "இதயம் (忄) அருகே 青 (நீலம், இளமை, புதுமை). இளமையான புதிய இதயம் உணர்வுகளால் நிறைந்திருக்கும்."
+      },
+      "note": {
+        "en": "情 is a long じょう. Don’t mix it up with 精 (rice 米 on the left) and 晴 (sun 日 on the left), which are せい.",
+        "ta": "情 = じょう (நீண்ட ஒலி). இடப்பக்கம் அரிசி 米 உள்ள 精, சூரியன் 日 உள்ள 晴 இரண்டும் せい; குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "感情", "reading": "かんじょう", "en": "emotion, feelings", "ta": "உணர்ச்சி", "vocabId": "n3-v-0676" },
+        { "word": "友情", "reading": "ゆうじょう", "en": "friendship", "ta": "நட்பு", "vocabId": "n3-v-1109" },
+        { "word": "表情", "reading": "ひょうじょう", "en": "facial expression", "ta": "முகபாவம்", "vocabId": "n3-v-1843" },
+        { "word": "事情", "reading": "じじょう", "en": "circumstances; reasons", "ta": "சூழ்நிலை; காரணம்", "vocabId": "n3-v-0039" }
+      ]
+    },
+    {
+      "kanji": "示",
+      "meaning": { "en": "show, point out", "ta": "காட்டு, சுட்டிக்காட்டு" },
+      "on": ["じ"],
+      "kun": ["しめ.す"],
+      "mnemonic": {
+        "en": "A small altar table: two lines on top (二) and legs hanging down. At the temple altar, the god shows people a sign.",
+        "ta": "ஒரு சிறிய பலிபீடம்: மேலே இரண்டு கோடுகள் (二), கீழே தொங்கும் கால்கள். கோயில் பலிபீடத்தில் கடவுள் மக்களுக்கு ஒரு அடையாளத்தைக் காட்டுகிறார்."
+      },
+      "note": {
+        "en": "On the left side of a kanji, 示 becomes 礻, as in 神 (god), 社 (shrine) and 礼 (thanks).",
+        "ta": "கான்ஜியின் இடப்பக்கம் வரும்போது 示 = 礻 ஆக மாறும்; 神 (கடவுள்), 社 (கோயில்), 礼 (நன்றி) போல."
+      },
+      "examples": [
+        { "word": "示す", "reading": "しめす", "en": "to show, to point out", "ta": "காட்ட, சுட்டிக்காட்ட", "vocabId": "n3-v-0081" },
+        { "word": "指示", "reading": "しじ", "en": "instructions, directions", "ta": "அறிவுறுத்தல்" },
+        { "word": "表示", "reading": "ひょうじ", "en": "display, indication", "ta": "காட்சி, குறிப்பீடு" }
+      ]
+    },
+    {
+      "kanji": "確",
+      "meaning": { "en": "sure, certain", "ta": "உறுதி, நிச்சயம்" },
+      "on": ["かく"],
+      "kun": ["たし.か", "たし.かめる"],
+      "mnemonic": {
+        "en": "A stone (石) on the left. On the right, a bird (隹) sits in its nest under a roof. A nest on top of hard stone is firm and safe. Firm = sure, certain.",
+        "ta": "இடப்பக்கம் கல் (石). வலப்பக்கம் கூரையின் கீழ் கூட்டில் ஒரு பறவை (隹). கடினமான கல்லின் மேல் கட்டிய கூடு உறுதியானது, பாதுகாப்பானது. உறுதி = நிச்சயம்."
+      },
+      "note": {
+        "en": "正確 (accurate) and 性格 (personality) are both read せいかく.",
+        "ta": "正確 (துல்லியம்), 性格 (குணம்) இரண்டும் せいかく என்றே வாசிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "確か", "reading": "たしか", "en": "sure; if I remember rightly", "ta": "உறுதியாக; எனக்கு நினைவிருக்கும்படி", "vocabId": "n4-v-256" },
+        { "word": "確かめる", "reading": "たしかめる", "en": "to make sure, to check", "ta": "சரிபார்க்க", "vocabId": "n3-v-1397" },
+        { "word": "確認", "reading": "かくにん", "en": "confirmation, check", "ta": "உறுதிப்படுத்தல்", "vocabId": "n3-v-0591" },
+        { "word": "正確", "reading": "せいかく", "en": "accurate, exact", "ta": "துல்லியமான", "vocabId": "n3-v-0261" }
+      ]
+    },
+    {
+      "kanji": "容",
+      "meaning": { "en": "contents; form, looks", "ta": "உள்ளடக்கம்; தோற்றம்" },
+      "on": ["よう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Under a roof (宀) is a deep valley (谷: 八 + 人 + 口). A deep space under a roof can hold many things. 容 = what is held inside, the contents.",
+        "ta": "கூரையின் (宀) கீழ் ஆழமான பள்ளத்தாக்கு (谷: 八 + 人 + 口). கூரையின் கீழ் உள்ள ஆழமான இடம் நிறையப் பொருட்களைத் தாங்கும். 容 = உள்ளே இருப்பது, உள்ளடக்கம்."
+      },
+      "examples": [
+        { "word": "内容", "reading": "ないよう", "en": "content(s)", "ta": "உள்ளடக்கம்", "vocabId": "n3-v-1643" },
+        { "word": "美容院", "reading": "びよういん", "en": "beauty salon", "ta": "அழகு நிலையம்" },
+        { "word": "容易", "reading": "ようい", "en": "easy, simple", "ta": "எளிதான", "vocabId": "n3-v-1124" }
+      ]
+    },
+    {
+      "kanji": "演",
+      "meaning": { "en": "perform, act", "ta": "நிகழ்த்து, நடி" },
+      "on": ["えん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Under a roof (宀), an actor stands on a box (由) on his two legs (八). Water (氵) runs down his face: he cries real tears on stage. He performs well!",
+        "ta": "கூரையின் (宀) கீழ் ஒரு நடிகர் பெட்டியின் (由) மேல் இரண்டு கால்களில் (八) நிற்கிறார். அவர் முகத்தில் தண்ணீர் (氵) வழிகிறது: மேடையில் உண்மையான கண்ணீர் விடுகிறார். அருமையாக நடிக்கிறார்!"
+      },
+      "note": {
+        "en": "公演 (public performance) and 公園 (park) are both read こうえん.",
+        "ta": "公演 (பொது நிகழ்ச்சி), 公園 (பூங்கா) இரண்டும் こうえん என்றே வாசிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "出演", "reading": "しゅつえん", "en": "appearing (on stage, on TV)", "ta": "(மேடையில், டிவியில்) தோன்றுதல்" },
+        { "word": "公演", "reading": "こうえん", "en": "public performance, show", "ta": "பொது நிகழ்ச்சி, அரங்கேற்றம்", "vocabId": "n3-v-1279" },
+        { "word": "演説", "reading": "えんぜつ", "en": "speech (to an audience)", "ta": "சொற்பொழிவு, உரை", "vocabId": "n3-v-0484" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU17-q01",
+        "type": "kanji_reading",
+        "sentence": "インターネットで ＿情報＿を 集めます。",
+        "target": "情報",
+        "options": ["じょうほう", "じょほう", "じょうぼう", "せいほう"],
+        "answer": 0,
+        "explanation_en": "情報 is read じょうほう (தகவல், information). 情 is a long じょう, so じょほう is wrong, and 報 is ほう, not ぼう.",
+        "explanation_ta": "情報 = じょうほう (தகவல், information). 情 = じょう (நீண்ட ஒலி); அதனால் じょほう தவறு. 報 = ほう; ぼう அல்ல."
+      },
+      {
+        "id": "KU17-q02",
+        "type": "kanji_reading",
+        "sentence": "先生の 説明を ＿理解＿しました。",
+        "target": "理解",
+        "options": ["りけい", "りかい", "りがい", "りげ"],
+        "answer": 1,
+        "explanation_en": "理解 is read りかい (புரிதல், understanding). 解 is かい with an unvoiced か, so りがい is wrong.",
+        "explanation_ta": "理解 = りかい (புரிதல், understanding). 解 = かい (か, ஒலிப்பு இல்லாதது); அதனால் りがい தவறு."
+      },
+      {
+        "id": "KU17-q03",
+        "type": "kanji_reading",
+        "sentence": "日本語の 先生の ＿資格＿を 取りたいです。",
+        "target": "資格",
+        "options": ["しがく", "じかく", "しかく", "しかっく"],
+        "answer": 2,
+        "explanation_en": "資格 is read しかく (தகுதி, qualification). Both sounds are unvoiced: し and かく. じかく and しがく are wrong.",
+        "explanation_ta": "資格 = しかく (தகுதி, qualification). இரண்டும் ஒலிப்பு இல்லாதவை: し, かく. じかく, しがく தவறு."
+      },
+      {
+        "id": "KU17-q04",
+        "type": "kanji_reading",
+        "sentence": "東京で ＿国際＿会議が あります。",
+        "target": "国際",
+        "options": ["こくざい", "こっさい", "こくせい", "こくさい"],
+        "answer": 3,
+        "explanation_en": "国際 is read こくさい (சர்வதேச, international). 際 is さい, not ざい, and there is no small っ.",
+        "explanation_ta": "国際 = こくさい (சர்வதேச, international). 際 = さい; ざい அல்ல. சிறிய っ இல்லை."
+      },
+      {
+        "id": "KU17-q05",
+        "type": "kanji_reading",
+        "sentence": "自分で ＿判断＿して ください。",
+        "target": "判断",
+        "options": ["はんだん", "ばんだん", "はんたん", "はんだい"],
+        "answer": 0,
+        "explanation_en": "判断 is read はんだん (முடிவு, judgment). 判 is はん here, so ばんだん is wrong, and 断 is だん with a voiced だ.",
+        "explanation_ta": "判断 = はんだん (முடிவு, judgment). இங்கே 判 = はん; அதனால் ばんだん தவறு. 断 = だん (ஒலிப்புடைய だ)."
+      },
+      {
+        "id": "KU17-q06",
+        "type": "kanji_reading",
+        "sentence": "＿現在＿、 大阪に 住んで います。",
+        "target": "現在",
+        "options": ["げんさい", "げんざい", "けんざい", "げんじゃい"],
+        "answer": 1,
+        "explanation_en": "現在 is read げんざい (தற்போது, now). 在 is a voiced ざい, so げんさい is wrong.",
+        "explanation_ta": "現在 = げんざい (தற்போது, now). 在 = ざい (ஒலிப்புடையது); அதனால் げんさい தவறு."
+      },
+      {
+        "id": "KU17-q07",
+        "type": "kanji_reading",
+        "sentence": "きのう 駅の 近くで ＿事件＿が ありました。",
+        "target": "事件",
+        "options": ["じげん", "しけん", "じけん", "じっけん"],
+        "answer": 2,
+        "explanation_en": "事件 is read じけん (சம்பவம், incident). しけん is 試験 (exam) and じっけん is 実験 (experiment).",
+        "explanation_ta": "事件 = じけん (சம்பவம், incident). しけん என்பது 試験 (தேர்வு); じっけん என்பது 実験 (சோதனை)."
+      },
+      {
+        "id": "KU17-q08",
+        "type": "kanji_reading",
+        "sentence": "この 仕事は わたしに ＿任せて＿ ください。",
+        "target": "任せて",
+        "options": ["まがせて", "にんせて", "まけせて", "まかせて"],
+        "answer": 3,
+        "explanation_en": "任せて is read まかせて (ஒப்படைக்க, to leave to someone). にんせて mixes the on reading にん with the kana ending.",
+        "explanation_ta": "任せて = まかせて (ஒப்படைக்க, to leave to someone). にんせて என்பது on வாசிப்பு にん-ஐ கானா முடிவுடன் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU17-q09",
+        "type": "kanji_reading",
+        "sentence": "日本に 来る 外国人が ＿増えて＿ います。",
+        "target": "増えて",
+        "options": ["ふえて", "ふやえて", "ぞえて", "まえて"],
+        "answer": 0,
+        "explanation_en": "増えて is read ふえて (அதிகரிக்க, to increase). ふやす is a different verb (to increase something), so ふやえて is wrong.",
+        "explanation_ta": "増えて = ふえて (அதிகரிக்க, to increase). ふやす என்பது வேறு வினை (ஒன்றைக் கூட்டுவது); அதனால் ふやえて தவறு."
+      },
+      {
+        "id": "KU17-q10",
+        "type": "kanji_reading",
+        "sentence": "手紙の ＿内容＿を 教えて ください。",
+        "target": "内容",
+        "options": ["ないよ", "ないよう", "ないおう", "ないよお"],
+        "answer": 1,
+        "explanation_en": "内容 is read ないよう (உள்ளடக்கம், contents). 容 is a long よう, so ないよ is wrong.",
+        "explanation_ta": "内容 = ないよう (உள்ளடக்கம், contents). 容 = よう (நீண்ட ஒலி); அதனால் ないよ தவறு."
+      },
+      {
+        "id": "KU17-q11",
+        "type": "orthography",
+        "sentence": "かれは ＿かんじょう＿を 顔に 出しません。",
+        "target": "かんじょう",
+        "options": ["感晴", "感静", "感情", "感精"],
+        "answer": 2,
+        "explanation_en": "かんじょう is written 感情 (உணர்ச்சி, emotion). Feelings come from the heart 忄. 晴, 静 and 精 also have 青, but they are せい.",
+        "explanation_ta": "かんじょう = 感情 (உணர்ச்சி, emotion). உணர்வு இதயத்திலிருந்து வருகிறது: 忄. 晴, 静, 精 மூன்றிலும் 青 உண்டு; ஆனால் அவை せい."
+      },
+      {
+        "id": "KU17-q12",
+        "type": "orthography",
+        "sentence": "地図で 道を ＿しめして＿ くれました。",
+        "target": "しめして",
+        "options": ["礼して", "未して", "余して", "示して"],
+        "answer": 3,
+        "explanation_en": "しめして is written 示して (காட்ட, to show). 未 and 余 look a little like it, and 礼 has the altar 礻 on the side, but none of them is しめす.",
+        "explanation_ta": "しめして = 示して (காட்ட, to show). 未, 余 கொஞ்சம் ஒத்திருக்கும்; 礼-இன் பக்கத்தில் பலிபீடம் 礻 உண்டு. ஆனால் இவற்றில் எதுவும் しめす அல்ல."
+      },
+      {
+        "id": "KU17-q13",
+        "type": "orthography",
+        "sentence": "もう 一度 ＿たしかめて＿ ください。",
+        "target": "たしかめて",
+        "options": ["確かめて", "確めて", "碓かめて", "確しかめて"],
+        "answer": 0,
+        "explanation_en": "たしかめて is written 確かめて (சரிபார்க்க, to make sure). The kana starts after たし: 確+かめて. 碓 is a different kanji that only looks similar.",
+        "explanation_ta": "たしかめて = 確かめて (சரிபார்க்க, to make sure). たし-க்குப் பிறகு கானா தொடங்கும்: 確+かめて. 碓 பார்வைக்கு ஒத்த வேறு கான்ஜி."
+      },
+      {
+        "id": "KU17-q14",
+        "type": "orthography",
+        "sentence": "人口の ＿ぞうか＿が 問題に なって います。",
+        "target": "ぞうか",
+        "options": ["贈加", "増加", "憎加", "層加"],
+        "answer": 1,
+        "explanation_en": "ぞうか is written 増加 (அதிகரிப்பு, increase). Increase needs soil 土 on the left. 贈 (gift), 憎 (hate) and 層 (layer) only look similar.",
+        "explanation_ta": "ぞうか = 増加 (அதிகரிப்பு, increase). அதிகரிப்புக்கு இடப்பக்கம் மண் 土 வேண்டும். 贈 (பரிசு), 憎 (வெறுப்பு), 層 (அடுக்கு) பார்வைக்கு மட்டும் ஒத்தவை."
+      },
+      {
+        "id": "KU17-q15",
+        "type": "orthography",
+        "sentence": "首相が テレビで ＿えんぜつ＿を しました。",
+        "target": "えんぜつ",
+        "options": ["漢説", "減説", "演説", "浜説"],
+        "answer": 2,
+        "explanation_en": "えんぜつ is written 演説 (உரை, speech). All the options have water 氵, but only 演 (perform) is えん.",
+        "explanation_ta": "えんぜつ = 演説 (உரை, speech). எல்லா விடைகளிலும் தண்ணீர் 氵 உண்டு; ஆனால் 演 (நிகழ்த்து) மட்டுமே えん."
+      },
+      {
+        "id": "KU17-q16",
+        "type": "orthography",
+        "sentence": "部長に 仕事の ＿ほうこく＿を します。",
+        "target": "ほうこく",
+        "options": ["法告", "放告", "幸告", "報告"],
+        "answer": 3,
+        "explanation_en": "ほうこく is written 報告 (அறிக்கை, report). 法 and 放 are also ほう, but news and reports use 報. 幸 is only the left part of 報.",
+        "explanation_ta": "ほうこく = 報告 (அறிக்கை, report). 法, 放 இரண்டும் ほう தான்; ஆனால் செய்தி, அறிக்கைக்கு 報. 幸 என்பது 報-இன் இடப்பகுதி மட்டுமே."
+      }
+    ]
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "lesson": 14,
+  "title": {
+    "ja": "都会に対して田舎は",
+    "ta": "நகரமும் கிராமமும்",
+    "en": "City and countryside"
+  },
+  "intro_ta": "இந்தப் பாடத்தில் நகர வாழ்க்கையையும் கிராம வாழ்க்கையையும் ஒப்பிட்டுப் பேசக் கற்போம்: வீட்டு வாடகை, இரைச்சல், விவசாயம், பயிர்கள், பகுதிகள். இரண்டு விஷயங்களை எதிரெதிராக வைக்க 〜のに対して, 〜一方(で), ஒரே விஷயத்தின் நல்ல பக்கமும் கெட்ட பக்கமும் சொல்ல 〜反面, 'பதிலாக / ஈடாக' என்று சொல்ல 〜かわりに, 'அப்படிச் சொல்வதைவிட இப்படிச் சொல்வதே சரி' என்று திருத்திச் சொல்ல 〜というより ஆகியவற்றைப் படிப்போம். பாடத்தின் முடிவில் 'சென்னையா, கிராமமா?' என்று உங்கள் சொந்தக் கருத்தை ஜப்பானிய மொழியில் தெளிவாக எடுத்துச் சொல்ல முடியும்.",
+  "intro_en": "In this lesson you will compare city life and country life. You will talk about rent, noise, farming, crops and regions. You will learn 〜のに対して and 〜一方(で) to set two things side by side. You will learn 〜反面 for the good side and bad side of one thing. You will learn 〜かわりに for \"instead of\" or \"in exchange\". And you will learn 〜というより to say \"it’s more B than A\". At the end, you can give your own opinion: Chennai or a village?",
+  "grammar": [
+    {
+      "id": "g14-1",
+      "pattern": "〜のに 対して",
+      "name": {
+        "en": "Whereas ~ (contrast)",
+        "ta": "〜ஆக இருக்க, அதற்கு மாறாக"
+      },
+      "explanation_ta": "〜のに対して என்பது இரண்டு வெவ்வேறு விஷயங்களை (இரண்டு நபர், இரண்டு இடம், இரண்டு காலம்) எதிரெதிராக வைத்து ஒப்பிடும் வடிவம். தமிழில் 'நகரத்தில் வாடகை அதிகம்; அதற்கு மாறாகக் கிராமத்தில் குறைவு' என்பது போல. இங்கே のに என்பது N4-இல் கற்ற 'இருந்தும்' のに அல்ல; の (பெயர்ச்சொல்லாக்கும் の) + に対して ஆகும். உருவாக்கம்: சாதாரண வடிவம் + のに対して; な-பெயரடை, பெயர்ச்சொல் இவற்றுக்கு な அல்லது である (便利なのに対して / 学生であるのに対して). உணர்ச்சி இல்லாத, புறவயமான ஒப்பீடு; செய்தி, அறிக்கை, கட்டுரைகளில் அதிகம் வரும். பேச்சில் 'けど' அல்லது 'でも' போதும். (N に対して 'ஒருவரை நோக்கி' என்ற வேறு பொருளைப் பின்னர் பாடம் 35-இல் படிப்போம்.)",
+      "explanation_en": "〜のに対して means \"whereas\". It sets two different things side by side: two people, two places or two times. In Tamil: \"rent is high in the city; in contrast, it’s low in the village\" (அதற்கு மாறாக). This のに is not the のに \"even though\" from N4. It is の (which turns a sentence into a noun) + に対して. Put it after the plain form. With な-adjectives and nouns, use な or である: 便利なのに対して, 学生であるのに対して. It is a calm, fact-based comparison. You see it in news, reports and essays. In casual talk, けど or でも is enough. (N に対して meaning \"towards someone\" comes later, in lesson 35.)",
+      "tamil_parallel": "நகரத்தில் வாடகை அதிகம்; அதற்கு மாறாகக் கிராமத்தில் குறைவு = 都会は家賃が高いのに対して、田舎は安い",
+      "tamil_parallel_en": "\"Rent is high in the city; in contrast, it is low in the village\" (அதற்கு மாறாக) = 都会は家賃が高いのに対して、田舎は安い",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + のに対して　　高い のに対して\nな-பெயரடை + な / である + のに対して　　　　　　便利な のに対して\nபெயர்ச்சொல் + な / である + のに対して　　　　　学生である のに対して\nA は 〜のに対して、B は 〜",
+      "formation_en": "Verb / い-adjective (plain form) + のに対して　　高い のに対して\nな-adjective + な / である + のに対して　　　　便利な のに対して\nNoun + な / である + のに対して　　　　　　　　学生である のに対して\nA は 〜のに対して、B は 〜",
+      "examples": [
+        {
+          "ja": "都会は家賃が高いのに対して、田舎は安い。",
+          "reading": "とかいは やちんが たかいのに たいして、いなかは やすい。",
+          "romaji": "tokai wa yachin ga takai no ni taishite, inaka wa yasui.",
+          "ta": "நகரத்தில் வாடகை அதிகம்; அதற்கு மாறாகக் கிராமத்தில் குறைவு.",
+          "en": "Rent is high in the city, whereas it is cheap in the country."
+        },
+        {
+          "ja": "兄が外で働くのが好きなのに対して、弟は家にいるのが好きだ。",
+          "reading": "あにが そとで はたらくのが すきなのに たいして、おとうとは いえに いるのが すきだ。",
+          "romaji": "ani ga soto de hataraku no ga suki na no ni taishite, otouto wa ie ni iru no ga suki da.",
+          "ta": "அண்ணனுக்கு வெளியே வேலை செய்வது பிடிக்கும்; தம்பிக்கோ வீட்டில் இருப்பதுதான் பிடிக்கும்.",
+          "en": "My older brother likes working outdoors, whereas my younger brother likes staying home."
+        },
+        {
+          "ja": "北の地方は雪が多いのに対して、南は一年中暖かい。",
+          "reading": "きたの ちほうは ゆきが おおいのに たいして、みなみは いちねんじゅう あたたかい。",
+          "romaji": "kita no chihou wa yuki ga ooi no ni taishite, minami wa ichinenjuu atatakai.",
+          "ta": "வடக்குப் பகுதிகளில் பனி அதிகம்; அதற்கு மாறாகத் தெற்கு ஆண்டு முழுவதும் வெதுவெதுப்பாக இருக்கும்.",
+          "en": "The northern regions get a lot of snow, whereas the south is warm all year."
+        },
+        {
+          "ja": "昔は農業をする人が多かったのに対して、今は会社で働く人が多い。",
+          "reading": "むかしは のうぎょうを する ひとが おおかったのに たいして、いまは かいしゃで はたらく ひとが おおい。",
+          "romaji": "mukashi wa nougyou o suru hito ga ookatta no ni taishite, ima wa kaisha de hataraku hito ga ooi.",
+          "ta": "முன்பு விவசாயம் செய்பவர்கள் அதிகம்; இப்போதோ நிறுவனங்களில் வேலை செய்பவர்கள் அதிகம்.",
+          "en": "In the past many people farmed, whereas now most people work for companies."
+        },
+        {
+          "ja": "首都の人口が増えているのに対して、地方の人口は減っている。",
+          "reading": "しゅとの じんこうが ふえて いるのに たいして、ちほうの じんこうは へって いる。",
+          "romaji": "shuto no jinkou ga fuete iru no ni taishite, chihou no jinkou wa hette iru.",
+          "ta": "தலைநகரின் மக்கள்தொகை அதிகரித்து வருகிறது; அதற்கு மாறாகப் பிராந்தியங்களில் குறைந்து வருகிறது.",
+          "en": "The capital’s population is growing, whereas the regions’ population is shrinking."
+        }
+      ],
+      "pitfalls_ta": "な-பெயரடை, பெயர்ச்சொல்லுக்குப் பின் な / である வேண்டும்: 便利のに対して தவறு, 便利なのに対して சரி. இரண்டு பக்கங்களும் வெவ்வேறு விஷயங்களாக இருக்க வேண்டும்; ஒரே விஷயத்தின் இரு பக்கங்களுக்கு 反面 பயன்படுத்துங்கள்.",
+      "pitfalls_en": "With な-adjectives and nouns you need な or である: not 便利のに対して but 便利なのに対して. The two sides must be different things. For two sides of the same thing, use 反面."
+    },
+    {
+      "id": "g14-2",
+      "pattern": "〜一方(で)",
+      "name": {
+        "en": "While ~ / on the other hand",
+        "ta": "〜ஆக இருக்கும் அதே நேரம் / மறுபுறம்"
+      },
+      "explanation_ta": "〜一方(で) என்பது 'ஒரு பக்கம் A; மறுபக்கம் B' என்று இரண்டு விஷயங்களை இணைத்துச் சொல்லும். இது இரண்டு வேலைகளில் பயன்படும்: (1) எதிரெதிரான இரண்டு உண்மைகள் (அறுவடை அதிகரித்தது; மறுபுறம் விலை உயர்ந்தது), (2) ஒருவர் ஒரே நேரத்தில் செய்யும் இரண்டு வேறுபட்ட செயல்கள் (நிறுவனத்தில் வேலை செய்கிறாள்; அதே சமயம் தோட்டமும் போடுகிறாள்). தமிழில் 'ஒரு பக்கம்… மறுபக்கம்…', 'அதே நேரம்' போல. உருவாக்கம்: சாதாரண வடிவம் + 一方(で); な-பெயரடை + な / である; பெயர்ச்சொல் + である. で இல்லாமல் 一方、 என்றும் வரும். வாக்கியத் தொடக்கத்தில் 一方、 என்று தனிச் சொல்லாகவும் வரும். கவனிக்க: பாடம் 8-இல் கற்ற V-る一方だ 'தொடர்ந்து கூடிக்கொண்டே போகிறது' என்ற வேறு பொருள்; அது வாக்கிய முடிவில் だ-உடன் வரும்.",
+      "explanation_en": "〜一方(で) means \"while ~\" or \"on the other hand\". It has two jobs. (1) Two facts that contrast: \"the harvest grew; on the other hand, prices rose\". (2) Two different things one person does: \"she works at a company, and she also farms\". In Tamil: \"ஒரு பக்கம்… மறுபக்கம்…\" (on one side… on the other side…). Put it after the plain form. With な-adjectives use な or である. With nouns use である. You can drop で: 一方、. It can also start a new sentence: 一方、…. Careful: V-る一方だ from lesson 8 means \"keeps on ~\". That one ends the sentence with だ.",
+      "tamil_parallel": "நகரம் வசதியானது; மறுபக்கம் இரைச்சலும் அதிகம் = 都会は便利な一方で、騒音も多い",
+      "tamil_parallel_en": "\"The city is convenient; on the other side, it is also noisy\" (மறுபக்கம்) = 都会は便利な一方で、騒音も多い",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + 一方(で)　　働く 一方で\nな-பெயரடை + な / である + 一方(で)　　　　　　便利な 一方で\nபெயர்ச்சொல் + である + 一方(で)　　　　　　　　学生である 一方で\nவாக்கியம்。一方、வாக்கியம்。",
+      "formation_en": "Verb / い-adjective (plain form) + 一方(で)　　働く 一方で\nな-adjective + な / である + 一方(で)　　　　便利な 一方で\nNoun + である + 一方(で)　　　　　　　　　　学生である 一方で\nSentence。一方、sentence。",
+      "examples": [
+        {
+          "ja": "都会は便利な一方で、騒音や人の多さが問題だ。",
+          "reading": "とかいは べんりな いっぽうで、そうおんや ひとの おおさが もんだいだ。",
+          "romaji": "tokai wa benri na ippou de, souon ya hito no oosa ga mondai da.",
+          "ta": "நகரம் வசதியானது; மறுபக்கம் இரைச்சலும் கூட்டமும் பிரச்சினை.",
+          "en": "The city is convenient; on the other hand, noise and crowds are a problem."
+        },
+        {
+          "ja": "彼女は会社で働く一方で、週末は畑で野菜を作っている。",
+          "reading": "かのじょは かいしゃで はたらく いっぽうで、しゅうまつは はたけで やさいを つくって いる。",
+          "romaji": "kanojo wa kaisha de hataraku ippou de, shuumatsu wa hatake de yasai o tsukutte iru.",
+          "ta": "அவள் நிறுவனத்தில் வேலை செய்கிறாள்; அதே சமயம் வார இறுதிகளில் தோட்டத்தில் காய்கறி பயிரிடுகிறாள்.",
+          "en": "She works at a company, and at weekends she also grows vegetables in her field."
+        },
+        {
+          "ja": "この地域では、新しいビルの建設が進む一方、古い家も大切にされている。",
+          "reading": "この ちいきでは、あたらしい ビルの けんせつが すすむ いっぽう、ふるい いえも たいせつに されて いる。",
+          "romaji": "kono chiiki de wa, atarashii biru no kensetsu ga susumu ippou, furui ie mo taisetsu ni sarete iru.",
+          "ta": "இந்தப் பகுதியில் புதிய கட்டடங்கள் கட்டப்பட்டு வருகின்றன; அதே நேரம் பழைய வீடுகளும் பாதுகாக்கப்படுகின்றன.",
+          "en": "In this area, new buildings are going up, while old houses are also being looked after."
+        },
+        {
+          "ja": "米の収穫が増えた一方で、野菜の値段は上がった。",
+          "reading": "こめの しゅうかくが ふえた いっぽうで、やさいの ねだんは あがった。",
+          "romaji": "kome no shuukaku ga fueta ippou de, yasai no nedan wa agatta.",
+          "ta": "நெல் அறுவடை அதிகரித்தது; மறுபுறம் காய்கறி விலை உயர்ந்தது.",
+          "en": "The rice harvest grew, but on the other hand vegetable prices went up."
+        },
+        {
+          "ja": "田舎の生活は静かな一方で、店が少なくて不便だ。",
+          "reading": "いなかの せいかつは しずかな いっぽうで、みせが すくなくて ふべんだ。",
+          "romaji": "inaka no seikatsu wa shizuka na ippou de, mise ga sukunakute fuben da.",
+          "ta": "கிராம வாழ்க்கை அமைதியானது; அதே நேரம் கடைகள் குறைவு என்பதால் சிரமம்.",
+          "en": "Country life is quiet, but there are few shops, so it’s inconvenient."
+        }
+      ],
+      "pitfalls_ta": "〜一方で (மறுபுறம்) மற்றும் V-る一方だ (தொடர்ந்து கூடுகிறது / குறைகிறது) இரண்டையும் குழப்பாதீர்கள். な-பெயரடைக்குப் பின் な மறக்க வேண்டாம்: 静か一方で அல்ல, 静かな一方で.",
+      "pitfalls_en": "Don’t mix up 〜一方で (\"on the other hand\") and V-る一方だ (\"keeps going up / down\"). Don’t forget な after a な-adjective: not 静か一方で but 静かな一方で."
+    },
+    {
+      "id": "g14-3",
+      "pattern": "〜反面",
+      "name": {
+        "en": "On the other hand (two sides of one thing)",
+        "ta": "〜ஆக இருக்கும் அதே வேளையில் (ஒரே விஷயத்தின் மறுபக்கம்)"
+      },
+      "explanation_ta": "〜反面 என்பது ஒரே விஷயத்துக்கு உள்ள இரண்டு எதிரெதிர்ப் பக்கங்களைச் சொல்லும்: 'நகர வாழ்க்கை வசதியானது; அதன் மறுபக்கம் செலவு அதிகம்'. 反 = எதிர், 面 = பக்கம்; அதாவது 'நாணயத்தின் மறுபக்கம்'. தமிழில் 'அதே வேளையில்', 'அதன் மறுபக்கம்' என்று சொல்வது போல. உருவாக்கம்: சாதாரண வடிவம் + 反面; な-பெயரடை + な / である; பெயர்ச்சொல் + である. 〜のに対して இரண்டு வெவ்வேறு விஷயங்களை ஒப்பிடும்; 〜反面 ஒரே விஷயத்தின் (ஒரே எழுவாயின்) நல்லது-கெட்டது இரண்டையும் சொல்லும்; 〜一方で இரண்டுக்குமே பயன்படும். 反面 பெரும்பாலும் பேசுபவரின் மதிப்பீட்டைக் காட்டும்; சற்று எழுத்து நடை.",
+      "explanation_en": "〜反面 shows two opposite sides of the same thing. \"City life is convenient; on the other side, it costs a lot.\" 反 means \"opposite\" and 面 means \"side\". Think of the other side of a coin. In Tamil: \"அதன் மறுபக்கம்\" (its other side). Put it after the plain form. With な-adjectives use な or である. With nouns use である. 〜のに対して compares two different things. 〜反面 gives the good and bad sides of one thing (one subject). 〜一方で can do both jobs. 反面 usually shows the speaker’s opinion. It sounds a little written.",
+      "tamil_parallel": "நகர வாழ்க்கை வசதியானது; அதன் மறுபக்கம் செலவு அதிகம் = 都会の生活は便利な反面、お金がかかる",
+      "tamil_parallel_en": "\"City life is convenient; its other side is that it costs a lot\" (அதன் மறுபக்கம்) = 都会の生活は便利な反面、お金がかかる",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + 反面　　高い 反面\nな-பெயரடை + な / である + 反面　　　　　　便利な 反面\nபெயர்ச்சொல் + である + 反面　　　　　　　　 学生である 反面\n(ஒரே எழுவாய்: A は 〜反面、〜)",
+      "formation_en": "Verb / い-adjective (plain form) + 反面　　高い 反面\nな-adjective + な / である + 反面　　　　便利な 反面\nNoun + である + 反面　　　　　　　　　　 学生である 反面\n(one subject: A は 〜反面、〜)",
+      "examples": [
+        {
+          "ja": "都会の生活は便利な反面、お金がかかる。",
+          "reading": "とかいの せいかつは べんりな はんめん、おかねが かかる。",
+          "romaji": "tokai no seikatsu wa benri na hanmen, okane ga kakaru.",
+          "ta": "நகர வாழ்க்கை வசதியானது; அதன் மறுபக்கம் செலவு அதிகம்.",
+          "en": "City life is convenient, but on the other hand it costs a lot."
+        },
+        {
+          "ja": "田舎は空気がきれいな反面、交通が不便だ。",
+          "reading": "いなかは くうきが きれいな はんめん、こうつうが ふべんだ。",
+          "romaji": "inaka wa kuuki ga kirei na hanmen, koutsuu ga fuben da.",
+          "ta": "கிராமத்தில் காற்று தூய்மையானது; மறுபக்கம் போக்குவரத்து வசதி குறைவு.",
+          "en": "The countryside has clean air, but transport is inconvenient."
+        },
+        {
+          "ja": "一人暮らしは自由な反面、さびしいこともある。",
+          "reading": "ひとりぐらしは じゆうな はんめん、さびしい ことも ある。",
+          "romaji": "hitorigurashi wa jiyuu na hanmen, sabishii koto mo aru.",
+          "ta": "தனியாக வாழ்வதில் சுதந்திரம் உண்டு; அதே வேளையில் சில நேரம் தனிமையாகவும் இருக்கும்.",
+          "en": "Living alone gives you freedom, but it can also be lonely."
+        },
+        {
+          "ja": "この仕事は給料が高い反面、休みが少ない。",
+          "reading": "この しごとは きゅうりょうが たかい はんめん、やすみが すくない。",
+          "romaji": "kono shigoto wa kyuuryou ga takai hanmen, yasumi ga sukunai.",
+          "ta": "இந்த வேலையில் சம்பளம் அதிகம்; மறுபக்கம் விடுமுறை குறைவு.",
+          "en": "This job pays well, but you get few days off."
+        },
+        {
+          "ja": "駅に近いマンションは便利な反面、騒音が気になる。",
+          "reading": "えきに ちかい マンションは べんりな はんめん、そうおんが きに なる。",
+          "romaji": "eki ni chikai manshon wa benri na hanmen, souon ga ki ni naru.",
+          "ta": "ஸ்டேஷனுக்கு அருகே உள்ள அடுக்குமாடி வீடு வசதியானது; மறுபக்கம் இரைச்சல் தொல்லை தரும்.",
+          "en": "A flat near the station is convenient, but the noise bothers you."
+        },
+        {
+          "ja": "父は厳しい反面、とても優しいところもある。",
+          "reading": "ちちは きびしい はんめん、とても やさしい ところも ある。",
+          "romaji": "chichi wa kibishii hanmen, totemo yasashii tokoro mo aru.",
+          "ta": "அப்பா கண்டிப்பானவர்; அதே வேளையில் மிகவும் அன்பான பக்கமும் அவருக்கு உண்டு.",
+          "en": "My father is strict, but he also has a very kind side."
+        }
+      ],
+      "pitfalls_ta": "இரண்டு வெவ்வேறு நபர்கள் / இடங்களை 反面 கொண்டு ஒப்பிட வேண்டாம்: 都会は高い反面、田舎は安い என்பது இயல்பற்றது; அங்கே のに対して அல்லது 一方 பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Don’t use 反面 to compare two different people or places. 都会は高い反面、田舎は安い sounds wrong. Use のに対して or 一方 there."
+    },
+    {
+      "id": "g14-4",
+      "pattern": "〜かわりに",
+      "name": {
+        "en": "Instead of / in exchange for ~",
+        "ta": "〜க்குப் பதிலாக / 〜க்கு ஈடாக"
+      },
+      "explanation_ta": "〜かわりに (代わりに) மூன்று பொருள்களில் வரும். (1) பதிலாக: 'அம்மாவுக்குப் பதிலாக நான் சமைக்கிறேன்' (母のかわりに), 'வெளியே சாப்பிடுவதற்குப் பதிலாக' (外で食べるかわりに). (2) பரிமாற்றம்: 'நான் ஆங்கிலம் கற்றுத் தருகிறேன்; அதற்குப் பதிலாக நீங்கள் தமிழ் கற்றுத் தாருங்கள்'. (3) ஈடுசெய்தல்: 'ஸ்டேஷனிலிருந்து தொலைவு; அதற்கு ஈடாக வாடகை குறைவு' (ஒரே விஷயத்தின் குறையும் நிறையும்). தமிழின் '〜க்குப் பதிலாக', '〜க்கு ஈடாக' நேரடி இணை. உருவாக்கம்: பெயர்ச்சொல் + の + かわりに; வினை அகராதி வடிவம் + かわりに; பெயரடை + かわりに (な-பெயரடை + な). வாக்கியத் தொடக்கத்தில் かわりに、 என்று தனியாகவும் வரும். 反面 'கெட்ட பக்கமும் உண்டு' என்று எச்சரிக்கும்; かわりに 'அதற்கு ஈடு உண்டு' என்று சமன்செய்யும்.",
+      "explanation_en": "〜かわりに has three meanings. (1) Instead of: 母のかわりに (\"instead of my mother\"), 外で食べるかわりに (\"instead of eating out\"). (2) In exchange: \"I’ll teach you English; in return, teach me Tamil\". (3) To make up for: \"it’s far from the station, but to make up for that, the rent is low\". Here one thing has a minus and a plus. Tamil has the same idea: \"〜க்குப் பதிலாக\" (instead of) and \"〜க்கு ஈடாக\" (in exchange for). Noun + の + かわりに. Verb dictionary form + かわりに. Adjective + かわりに (な-adjectives take な). It can also start a sentence: かわりに、…. 反面 warns about a bad side. かわりに balances: you lose one thing and gain another.",
+      "tamil_parallel": "இன்று அம்மாவுக்குப் பதிலாக நான் சமைக்கிறேன் = 今日は母のかわりに、私が料理を作る",
+      "tamil_parallel_en": "\"Today I’ll cook instead of my mother\" (அம்மாவுக்குப் பதிலாக) = 今日は母のかわりに、私が料理を作る",
+      "formation": "பெயர்ச்சொல் + の + かわりに　　　　母の かわりに\nவினை (அகராதி வடிவம்) + かわりに　　教える かわりに\nい-பெயரடை + かわりに　　　　　　　　遠い かわりに\nな-பெயரடை + な + かわりに　　　　　　不便な かわりに\nかわりに、வாக்கியம் (வாக்கியத் தொடக்கம்)",
+      "formation_en": "Noun + の + かわりに　　　　　　母の かわりに\nVerb (dictionary form) + かわりに　教える かわりに\nい-adjective + かわりに　　　　　遠い かわりに\nな-adjective + な + かわりに　　　不便な かわりに\nかわりに、sentence (at the start)",
+      "examples": [
+        {
+          "ja": "今日は母のかわりに、私が晩ご飯を作ります。",
+          "reading": "きょうは ははの かわりに、わたしが ばんごはんを つくります。",
+          "romaji": "kyou wa haha no kawari ni, watashi ga bangohan o tsukurimasu.",
+          "ta": "இன்று அம்மாவுக்குப் பதிலாக நான் இரவு உணவு சமைக்கிறேன்.",
+          "en": "Today I’ll make dinner instead of my mother."
+        },
+        {
+          "ja": "外で食べるかわりに、家でお弁当を作ることにした。",
+          "reading": "そとで たべる かわりに、いえで おべんとうを つくる ことに した。",
+          "romaji": "soto de taberu kawari ni, ie de obentou o tsukuru koto ni shita.",
+          "ta": "வெளியே சாப்பிடுவதற்குப் பதிலாக, வீட்டிலேயே மதிய உணவு கட்டிக்கொண்டு போக முடிவு செய்தேன்.",
+          "en": "Instead of eating out, I decided to make a packed lunch at home."
+        },
+        {
+          "ja": "田舎の家は駅から遠いかわりに、家賃が安くて広い。",
+          "reading": "いなかの いえは えきから とおい かわりに、やちんが やすくて ひろい。",
+          "romaji": "inaka no ie wa eki kara tooi kawari ni, yachin ga yasukute hiroi.",
+          "ta": "கிராமத்து வீடு ஸ்டேஷனிலிருந்து தொலைவு; அதற்கு ஈடாக வாடகை குறைவு, இடமும் பெரியது.",
+          "en": "The country house is far from the station, but to make up for it, the rent is low and it’s big."
+        },
+        {
+          "ja": "英語を教えてあげるかわりに、タミル語を教えてくれませんか。",
+          "reading": "えいごを おしえて あげる かわりに、タミルごを おしえて くれませんか。",
+          "romaji": "eigo o oshiete ageru kawari ni, tamirugo o oshiete kuremasen ka.",
+          "ta": "நான் உங்களுக்கு ஆங்கிலம் கற்றுத் தருகிறேன்; அதற்குப் பதிலாக எனக்குத் தமிழ் கற்றுத் தருவீர்களா?",
+          "en": "I’ll teach you English. In exchange, could you teach me Tamil?"
+        },
+        {
+          "ja": "大家さんは家賃を下げるかわりに、庭の掃除を頼んできた。",
+          "reading": "おおやさんは やちんを さげる かわりに、にわの そうじを たのんで きた。",
+          "romaji": "ooyasan wa yachin o sageru kawari ni, niwa no souji o tanonde kita.",
+          "ta": "வாடகையைக் குறைப்பதற்கு ஈடாக, தோட்டத்தைச் சுத்தம் செய்யும்படி வீட்டு உரிமையாளர் கேட்டார்.",
+          "en": "The landlord offered to lower the rent if I cleaned the garden in return."
+        },
+        {
+          "ja": "部長が来られないので、かわりに私が会議に出ます。",
+          "reading": "ぶちょうが こられないので、かわりに わたしが かいぎに でます。",
+          "romaji": "buchou ga korarenai node, kawari ni watashi ga kaigi ni demasu.",
+          "ta": "மேலாளர் வர முடியாததால், அவருக்குப் பதிலாக நான் கூட்டத்தில் கலந்துகொள்கிறேன்.",
+          "en": "The manager can’t come, so I’ll attend the meeting instead."
+        }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் の மறக்க வேண்டாம்: 母かわりに அல்ல, 母のかわりに. 'ஈடு' பொருளில் முதல் பகுதி குறை, இரண்டாம் பகுதி நிறை (அல்லது மாறாக) — இரண்டும் ஒரே விஷயத்தைப் பற்றியதாக இருக்க வேண்டும்.",
+      "pitfalls_en": "Don’t forget の after a noun: not 母かわりに but 母のかわりに. In the \"make up for\" meaning, one part is a minus and one is a plus. Both must be about the same thing."
+    },
+    {
+      "id": "g14-5",
+      "pattern": "〜というより",
+      "name": {
+        "en": "Rather than ~",
+        "ta": "〜என்பதைவிட"
+      },
+      "explanation_ta": "〜というより என்பது 'A என்று சொல்வதைவிட B என்று சொல்வதே பொருத்தம்' என்று, முதலில் சொன்ன சொல்லைத் திருத்தி இன்னும் சரியான சொல்லைத் தரும். தமிழில் 'இன்று குளிர்ச்சி என்பதைவிடக் குளிர் என்றுதான் சொல்ல வேண்டும்', 'இது வீடு என்பதைவிடக் குடிசை' போல. உருவாக்கம்: சாதாரண வடிவம் + というより; பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ பெரும்பாலும் விடப்படும் (町というより, 不便というより). அடிக்கடி むしろ (உண்மையில், மாறாக) உடன் சேர்ந்து வரும்: 〜というより、むしろ〜. N5-இன் より (A より B が〜) இரண்டு பொருள்களை ஒப்பிடும்; というより ஒரே பொருளை விவரிக்க எந்தச் சொல் சரி என்பதை ஒப்பிடும். பேச்சிலும் எழுத்திலும் வரும்.",
+      "explanation_en": "〜というより means \"it’s more B than A\". You first say a word, then fix it with a better word. In Tamil: \"today it’s not so much cool as cold\" (குளிர்ச்சி என்பதைவிடக் குளிர்). Put it after the plain form. After nouns and な-adjectives, だ is usually dropped: 町というより, 不便というより. It often goes with むしろ (\"actually, rather\"): 〜というより、むしろ〜. より from N5 (A より B が〜) compares two things. というより compares two words for the same thing. You can use it in speech and writing.",
+      "tamil_parallel": "இது ஊர் என்பதைவிடக் கிராமம் = ここは町というより、村だ",
+      "tamil_parallel_en": "\"This is more of a village than a town\" (ஊர் என்பதைவிடக் கிராமம்) = ここは町というより、村だ",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + というより　　涼しい というより\nな-பெயரடை அடிச்சொல் + というより　　　　　　　　　不便 というより\nபெயர்ச்சொல் + というより　　　　　　　　　　　　　　町 というより\nA というより (むしろ) B",
+      "formation_en": "Verb / い-adjective (plain form) + というより　　涼しい というより\nな-adjective stem + というより　　　　　　　　不便 というより\nNoun + というより　　　　　　　　　　　　　　町 というより\nA というより (むしろ) B",
+      "examples": [
+        {
+          "ja": "今日は涼しいというより、寒いですね。",
+          "reading": "きょうは すずしいと いうより、さむいですね。",
+          "romaji": "kyou wa suzushii to iu yori, samui desu ne.",
+          "ta": "இன்று குளிர்ச்சி என்பதைவிடக் குளிர் என்றுதான் சொல்ல வேண்டும், இல்லையா?",
+          "en": "Today it’s not so much cool as cold, isn’t it?"
+        },
+        {
+          "ja": "彼の家は家というより、小屋のようだ。",
+          "reading": "かれの いえは いえと いうより、こやの ようだ。",
+          "romaji": "kare no ie wa ie to iu yori, koya no you da.",
+          "ta": "அவன் வீடு, வீடு என்பதைவிடக் குடிசை போலத்தான் இருக்கிறது.",
+          "en": "His house is more like a hut than a house."
+        },
+        {
+          "ja": "ここは町というより、村ですね。",
+          "reading": "ここは まちと いうより、むらですね。",
+          "romaji": "koko wa machi to iu yori, mura desu ne.",
+          "ta": "இது ஊர் என்பதைவிடக் கிராமம் என்றுதான் சொல்ல வேண்டும்.",
+          "en": "This is more of a village than a town, isn’t it?"
+        },
+        {
+          "ja": "姉は料理が好きというより、食べるのが好きなんです。",
+          "reading": "あねは りょうりが すきと いうより、たべるのが すきなんです。",
+          "romaji": "ane wa ryouri ga suki to iu yori, taberu no ga suki na n desu.",
+          "ta": "அக்காவுக்குச் சமைப்பது பிடிக்கும் என்பதைவிட, சாப்பிடுவதுதான் பிடிக்கும்.",
+          "en": "My sister doesn’t so much like cooking as like eating."
+        },
+        {
+          "ja": "田舎の生活は不便というより、むしろ楽しい。",
+          "reading": "いなかの せいかつは ふべんと いうより、むしろ たのしい。",
+          "romaji": "inaka no seikatsu wa fuben to iu yori, mushiro tanoshii.",
+          "ta": "கிராம வாழ்க்கை சிரமம் என்பதைவிட, உண்மையில் மகிழ்ச்சியானது.",
+          "en": "Country life isn’t so much inconvenient as actually fun."
+        },
+        {
+          "ja": "彼は怒っているというより、悲しんでいるように見えた。",
+          "reading": "かれは おこって いると いうより、かなしんで いる ように みえた。",
+          "romaji": "kare wa okotte iru to iu yori, kanashinde iru you ni mieta.",
+          "ta": "அவன் கோபமாக இருந்தான் என்பதைவிட, வருத்தமாக இருந்தது போலத் தெரிந்தது.",
+          "en": "He looked sad rather than angry."
+        }
+      ],
+      "pitfalls_ta": "な-பெயரடை, பெயர்ச்சொல்லுக்குப் பின் な / の சேர்க்காதீர்கள்: 不便なというより அல்ல, 不便というより. A, B இரண்டும் ஒரே விஷயத்தை விவரிக்கும் சொற்களாக இருக்க வேண்டும்; இரண்டு வெவ்வேறு பொருள்களை ஒப்பிட より போதும்.",
+      "pitfalls_en": "Don’t add な or の after a な-adjective or noun: not 不便なというより but 不便というより. A and B must both describe the same thing. To compare two different things, plain より is enough."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0072",
+    "n3-v-0091",
+    "n3-v-0092",
+    "n3-v-0117",
+    "n3-v-0134",
+    "n3-v-0234",
+    "n3-v-0244",
+    "n3-v-0325",
+    "n3-v-0328",
+    "n3-v-0389",
+    "n3-v-0404",
+    "n3-v-0459",
+    "n3-v-0498",
+    "n3-v-0730",
+    "n3-v-0819",
+    "n3-v-0853",
+    "n3-v-0864",
+    "n3-v-0866",
+    "n3-v-0945",
+    "n3-v-0971",
+    "n3-v-0978",
+    "n3-v-1020",
+    "n3-v-1028",
+    "n3-v-1094",
+    "n3-v-1222",
+    "n3-v-1258",
+    "n3-v-1316",
+    "n3-v-1368",
+    "n3-v-1409",
+    "n3-v-1411",
+    "n3-v-1453",
+    "n3-v-1457",
+    "n3-v-1462",
+    "n3-v-1469",
+    "n3-v-1475",
+    "n3-v-1481",
+    "n3-v-1517",
+    "n3-v-1592",
+    "n3-v-1610",
+    "n3-v-1616",
+    "n3-v-1646",
+    "n3-v-1708",
+    "n3-v-1710",
+    "n3-v-1711",
+    "n3-v-1712",
+    "n3-v-1715",
+    "n3-v-1735",
+    "n3-v-1762",
+    "n3-v-1771",
+    "n3-v-1798",
+    "n3-v-1914",
+    "n3-v-1924",
+    "n3-v-1936",
+    "n3-v-1956",
+    "n3-v-1957",
+    "n3-v-1970",
+    "n3-v-1971",
+    "n3-v-1987",
+    "n3-v-2082"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L14-q01",
+        "type": "kanji_reading",
+        "sentence": "祖父は村に広い＿土地＿を持っている。",
+        "target": "土地",
+        "options": [
+          "どじ",
+          "とち",
+          "どち",
+          "とじ"
+        ],
+        "answer": 1,
+        "explanation_ta": "土地 = とち (நிலம்). 土 தனியாக つち, ஆனால் இங்கே と; 地 = ち. どち / とじ தவறான ஒலிகள்.",
+        "explanation_en": "土地 = とち (நிலம், land). 土 alone is つち, but here it is と. 地 is ち. どち and とじ are wrong."
+      },
+      {
+        "id": "L14-q02",
+        "type": "kanji_reading",
+        "sentence": "秋は米の＿収穫＿の季節だ。",
+        "target": "収穫",
+        "options": [
+          "しゅうかく",
+          "しゅかく",
+          "しゅうがく",
+          "しょうかく"
+        ],
+        "answer": 0,
+        "explanation_ta": "収穫 = しゅうかく (அறுவடை). しゅう நீண்ட ஒலி; かく கடின ஒலி. しゅうがく (修学) வேறு சொல்.",
+        "explanation_en": "収穫 = しゅうかく (அறுவடை, harvest). しゅう is long and かく is hard. しゅうがく is a different word."
+      },
+      {
+        "id": "L14-q03",
+        "type": "kanji_reading",
+        "sentence": "東京の＿家賃＿はとても高い。",
+        "target": "家賃",
+        "options": [
+          "いえちん",
+          "かちん",
+          "やちん",
+          "やぢん"
+        ],
+        "answer": 2,
+        "explanation_ta": "家賃 = やちん (வீட்டு வாடகை). இங்கே 家 = や (大家 おおや போல). いえちん என்று படிக்கக் கூடாது.",
+        "explanation_en": "家賃 = やちん (வீட்டு வாடகை, rent). Here 家 is read や, like in 大家 (おおや). Not いえちん."
+      },
+      {
+        "id": "L14-q04",
+        "type": "orthography",
+        "sentence": "この＿ちいき＿では毎年祭りがある。",
+        "target": "ちいき",
+        "options": [
+          "池域",
+          "地或",
+          "知域",
+          "地域"
+        ],
+        "answer": 3,
+        "explanation_ta": "ちいき = 地域 (பகுதி). 地 = நிலம், 域 = எல்லைக்குட்பட்ட பகுதி. 池 (குளம்), 或 (域-இன் பாதி) தவறு.",
+        "explanation_en": "ちいき = 地域 (பகுதி, area). 地 means \"land\", 域 means \"zone\". 池 (pond) and 或 (half of 域) are wrong."
+      },
+      {
+        "id": "L14-q05",
+        "type": "orthography",
+        "sentence": "祖母は＿はたけ＿でなすを作っている。",
+        "target": "はたけ",
+        "options": [
+          "田",
+          "灯",
+          "畑",
+          "煙"
+        ],
+        "answer": 2,
+        "explanation_ta": "はたけ = 畑 (காய்கறித் தோட்டம்). 火 + 田 சேர்ந்த எழுத்து. 田 (た) என்பது நெல் வயல்; வேறு சொல்.",
+        "explanation_en": "はたけ = 畑 (தோட்டம், vegetable field). It is 火 + 田. 田 (た) is a rice paddy, a different word."
+      },
+      {
+        "id": "L14-q06",
+        "type": "vocab_context",
+        "sentence": "駅は町の（　　）にあるので、どこへ行くにも便利だ。",
+        "options": [
+          "端",
+          "境",
+          "角",
+          "中心"
+        ],
+        "answer": 3,
+        "explanation_ta": "எங்கு போகவும் வசதி → ஊரின் மையத்தில் = 中心. 端 (ஓரம்), 境 (எல்லை) என்றால் வசதி குறையும்.",
+        "explanation_en": "Easy to go anywhere → it is in the centre of town = 中心 (மையம்). 端 (edge) and 境 (border) would be less convenient."
+      },
+      {
+        "id": "L14-q07",
+        "type": "vocab_context",
+        "sentence": "東京の大学に入るため、十八歳で（　　）した。",
+        "options": [
+          "建設",
+          "上京",
+          "収穫",
+          "対照"
+        ],
+        "answer": 1,
+        "explanation_ta": "டோக்கியோவுக்குக் குடிபெயர்தல் = 上京. 建設 (கட்டுமானம்) கட்டடங்களுக்கு மட்டும்.",
+        "explanation_en": "Moving to Tokyo = 上京 (டோக்கியோவுக்குக் குடிபெயர்தல்). 建設 (construction) is only for buildings."
+      },
+      {
+        "id": "L14-q08",
+        "type": "vocab_context",
+        "sentence": "夜、となりの工事の（　　）がうるさくて眠れない。",
+        "options": [
+          "位置",
+          "地下",
+          "騒音",
+          "土地"
+        ],
+        "answer": 2,
+        "explanation_ta": "うるさい (சத்தம் அதிகம்) உடன் பொருந்துவது 騒音 (இரைச்சல்). 位置 (இருப்பிடம்) சத்தம் போடாது.",
+        "explanation_en": "うるさい (loud) goes with 騒音 (இரைச்சல், noise). 位置 (position) can’t be loud."
+      },
+      {
+        "id": "L14-q09",
+        "type": "vocab_context",
+        "sentence": "春になったら、畑に花の種を（　　）つもりだ。",
+        "options": [
+          "流す",
+          "築く",
+          "埋める",
+          "蒔く"
+        ],
+        "answer": 3,
+        "explanation_ta": "விதையை விதைத்தல் = 種を蒔く. 埋める (புதைத்தல்) பொருள் அருகில் வந்தாலும் விதைக்கு 蒔く தான் இயல்பான சொல்.",
+        "explanation_en": "To sow seeds = 種を蒔く (விதைக்க). 埋める (to bury) is close in meaning, but for seeds 蒔く is the natural word."
+      },
+      {
+        "id": "L14-q10",
+        "type": "vocab_context",
+        "sentence": "毎月、（　　）さんに家賃を払っています。",
+        "options": [
+          "農家",
+          "大家",
+          "農民",
+          "首都"
+        ],
+        "answer": 1,
+        "explanation_ta": "வாடகை கொடுப்பது வீட்டு உரிமையாளருக்கு = 大家さん. 農家 (விவசாயக் குடும்பம்) ஒலியில் ஒத்திருக்கும் பொறி.",
+        "explanation_en": "You pay rent to the landlord = 大家さん (வீட்டு உரிமையாளர்). 農家 (farming family) is a trap that looks similar."
+      },
+      {
+        "id": "L14-q11",
+        "type": "paraphrase",
+        "sentence": "この辺りには、店があちこちにある。",
+        "options": [
+          "この辺りには、店が一つもない。",
+          "この辺りの店は、とても大きい。",
+          "この辺りには、店が一つしかない。",
+          "この辺りには、店がいろいろな所にある。"
+        ],
+        "answer": 3,
+        "explanation_ta": "あちこち = அங்குமிங்கும், பல இடங்களில் = いろいろな所に. 一つしかない (ஒன்று மட்டும்) எதிர்ப்பொருள்.",
+        "explanation_en": "あちこち = here and there, in many places (அங்குமிங்கும்) = いろいろな所に. 一つしかない (only one) is the opposite."
+      },
+      {
+        "id": "L14-q12",
+        "type": "paraphrase",
+        "sentence": "駅は逆の方向です。",
+        "options": [
+          "駅は反対の方向です。",
+          "駅は同じ方向です。",
+          "駅はまっすぐ行った所です。",
+          "駅はすぐ近くです。"
+        ],
+        "answer": 0,
+        "explanation_ta": "逆 = எதிர் = 反対. 同じ方向 (அதே திசை) நேர் எதிர்ப்பொருள்.",
+        "explanation_en": "逆 = opposite (எதிர்) = 反対. 同じ方向 (the same direction) means the opposite."
+      },
+      {
+        "id": "L14-q13",
+        "type": "usage",
+        "sentence": "建つ",
+        "options": [
+          "父は去年、新しい家を建った。",
+          "先生が入ってきたので、学生たちが建った。",
+          "駅の前に新しいホテルが建った。",
+          "毎朝六時に建って、散歩します。"
+        ],
+        "answer": 2,
+        "explanation_ta": "建つ = (கட்டடம்) எழுப்பப்படுதல்; தன்வினை, を எடுக்காது. வீட்டைக் கட்டுதல் = 家を建てる. மனிதர் எழுந்து நிற்பது = 立つ. எழுவது = 起きる.",
+        "explanation_en": "建つ = (a building) goes up. It takes no を. To build a house = 家を建てる. A person stands up = 立つ. To get up = 起きる."
+      },
+      {
+        "id": "L14-q14",
+        "type": "usage",
+        "sentence": "位置",
+        "options": [
+          "位置が痛いので、病院へ行った。",
+          "明日の会議の位置は何時ですか。",
+          "テーブルを部屋の位置に置いた。",
+          "地図で学校の位置を確かめた。"
+        ],
+        "answer": 3,
+        "explanation_ta": "位置 = ஒன்று இருக்கும் இடம். 位置が痛い (胃 வயிறு என்ற குழப்பம்), 会議の位置は何時 (நேரம் = 時間) தவறு. அறையின் மூலை = 部屋の角(すみ).",
+        "explanation_en": "位置 = where something is (இருப்பிடம்). 位置が痛い mixes it up with 胃 (stomach). For a time, say 時間. A corner of a room is 部屋の角 (すみ)."
+      },
+      {
+        "id": "L14-q15",
+        "type": "grammar_form",
+        "sentence": "都会は家賃が高い（　　）、田舎は安い。",
+        "options": [
+          "かわりに",
+          "のに対して",
+          "というより",
+          "くせに"
+        ],
+        "answer": 1,
+        "explanation_ta": "நகரம் vs கிராமம் — இரண்டு வெவ்வேறு இடங்களை ஒப்பிடுதல் = のに対して. かわりに ஒரே விஷயத்தின் ஈடு; இங்கே எழுவாய் இரண்டு.",
+        "explanation_en": "City vs village: two different places = のに対して. かわりに balances one thing; here there are two subjects."
+      },
+      {
+        "id": "L14-q16",
+        "type": "grammar_form",
+        "sentence": "田舎の生活は静かな（　　）、店が少なくて不便だ。",
+        "options": [
+          "くせに",
+          "ので",
+          "反面",
+          "というより"
+        ],
+        "answer": 2,
+        "explanation_ta": "ஒரே விஷயத்தின் (கிராம வாழ்க்கை) நல்லதும் கெட்டதும் = 反面. というより-க்கு முன் な வராது (静かというより). くせに மனிதரைக் குறை கூறும்.",
+        "explanation_en": "Good and bad sides of one thing (country life) = 反面. というより can’t follow な (it would be 静かというより). くせに criticises a person."
+      },
+      {
+        "id": "L14-q17",
+        "type": "grammar_form",
+        "sentence": "今日は母の（　　）、私が晩ご飯を作ります。",
+        "options": [
+          "かわりに",
+          "反面",
+          "一方で",
+          "というより"
+        ],
+        "answer": 0,
+        "explanation_ta": "அம்மாவுக்குப் பதிலாக = 母のかわりに. 反面 / 一方で பெயர்ச்சொல் + の-க்குப் பின் வராது.",
+        "explanation_en": "Instead of my mother = 母のかわりに. 反面 and 一方で can’t come after noun + の."
+      },
+      {
+        "id": "L14-q18",
+        "type": "grammar_form",
+        "sentence": "今日は涼しい（　　）、寒いくらいだ。",
+        "options": [
+          "反面",
+          "一方で",
+          "かわりに",
+          "というより"
+        ],
+        "answer": 3,
+        "explanation_ta": "'குளிர்ச்சி' என்ற சொல்லைத் திருத்தி 'குளிர்' என்று சொல்வது = というより. 反面 இரண்டு எதிர்ப் பக்கங்களுக்கு; இங்கே ஒரே திசை, அளவு மட்டும் அதிகம்.",
+        "explanation_en": "Fixing the word \"cool\" to \"cold\" = というより. 反面 is for two opposite sides. Here both words point the same way; only the degree changes."
+      },
+      {
+        "id": "L14-q19",
+        "type": "grammar_form",
+        "sentence": "彼女は会社で働く（　　）、週末は畑で野菜を作っている。",
+        "options": [
+          "というより",
+          "一方で",
+          "にしては",
+          "かわりに"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஒருவர் செய்யும் இரண்டு வேறுபட்ட செயல்கள் = 一方で (அதே நேரம்). かわりに என்றால் 'வேலைக்குப் பதிலாக' ஆகிவிடும்; ஆனால் அவள் இரண்டையும் செய்கிறாள்.",
+        "explanation_en": "Two different things one person does = 一方で (\"and at the same time\"). かわりに would mean \"instead of working\", but she does both."
+      },
+      {
+        "id": "L14-q20",
+        "type": "grammar_form",
+        "sentence": "英語を教えてあげる（　　）、タミル語を教えてくれませんか。",
+        "options": [
+          "反面",
+          "一方",
+          "かわりに",
+          "のに対して"
+        ],
+        "answer": 2,
+        "explanation_ta": "பரிமாற்றம்: 'நான் இதைச் செய்கிறேன்; அதற்குப் பதிலாக நீ அதைச் செய்' = かわりに. மற்றவை ஒப்பீட்டு வடிவங்கள்; வேண்டுகோளுக்குப் பொருந்தாது.",
+        "explanation_en": "An exchange, \"I do this, you do that\" = かわりに. The others are for comparing. They don’t fit a request."
+      },
+      {
+        "id": "L14-q21",
+        "type": "grammar_form",
+        "sentence": "兄が外で遊ぶのが好きな（　　）、弟は家で本を読むのが好きだ。",
+        "options": [
+          "のに対して",
+          "反面",
+          "かわりに",
+          "というより"
+        ],
+        "answer": 0,
+        "explanation_ta": "அண்ணன் vs தம்பி — இரண்டு வெவ்வேறு நபர்கள் = のに対して. 反面 ஒரே நபரின் இரு பக்கங்களுக்கு மட்டும்.",
+        "explanation_en": "Older brother vs younger brother: two different people = のに対して. 反面 is only for two sides of one person or thing."
+      },
+      {
+        "id": "L14-q22",
+        "type": "sentence_order",
+        "before": "都会は",
+        "chunks": [
+          "便利な",
+          "反面",
+          "家賃が",
+          "高い"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "都会は 便利な 反面 家賃が 高い。= நகரம் வசதியானது; மறுபக்கம் வாடகை அதிகம். な-பெயரடை + な + 反面.",
+        "explanation_en": "都会は 便利な 反面 家賃が 高い。= The city is convenient, but rent is high. な-adjective + な + 反面."
+      },
+      {
+        "id": "L14-q23",
+        "type": "sentence_order",
+        "before": "車で行く",
+        "chunks": [
+          "かわりに",
+          "自転車で",
+          "行けば",
+          "お金が"
+        ],
+        "star": 2,
+        "after": "かからない。",
+        "explanation_ta": "車で行く かわりに 自転車で 行けば お金が かからない。= காரில் போவதற்குப் பதிலாக சைக்கிளில் போனால் செலவு இல்லை.",
+        "explanation_en": "車で行く かわりに 自転車で 行けば お金が かからない。= If you go by bike instead of by car, it costs nothing."
+      },
+      {
+        "id": "L14-q24",
+        "type": "sentence_order",
+        "before": "これは",
+        "chunks": [
+          "家",
+          "というより",
+          "小屋",
+          "と"
+        ],
+        "star": 2,
+        "after": "言ったほうがいい。",
+        "explanation_ta": "これは 家 というより 小屋 と 言ったほうがいい。= இதை வீடு என்பதைவிடக் குடிசை என்று சொல்வதே பொருத்தம்.",
+        "explanation_en": "これは 家 というより 小屋 と 言ったほうがいい。= It’s better to call this a hut than a house."
+      },
+      {
+        "id": "L14-q25",
+        "type": "passage_cloze",
+        "passage": "私はチェンナイで生まれたが、去年、タンジャーヴールの近くの村に引っ越した。チェンナイは店も仕事も多い［1］、村には店が三軒しかない。でも、村の生活は不便［2］、むしろ楽しい。空気がきれいで、家の周りには田んぼが広がっている。もちろん、村は静かな［3］、夜は少しさびしい。それに、村には電車の［4］、バスが一日に四本走っているだけだ。",
+        "blanks": [
+          {
+            "options": [
+              "のに対して",
+              "反面",
+              "かわりに",
+              "というより"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "一方",
+              "かわりに",
+              "というより",
+              "のに対して"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "くせに",
+              "反面",
+              "というより",
+              "にしては"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "反面",
+              "一方",
+              "というより",
+              "かわりに"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ சென்னை vs கிராமம் — இரண்டு இடங்கள் = のに対して. ［2］ 'சிரமம் என்பதைவிட, உண்மையில் மகிழ்ச்சி' = 不便というより、むしろ. ［3］ ஒரே கிராமத்தின் நல்லதும் கெட்டதும் = 静かな反面. ［4］ ரயிலுக்குப் பதிலாக பஸ் = 電車のかわりに; 反面 / 一方 பெயர்ச்சொல் + の-க்குப் பின் வராது.",
+        "explanation_en": "[1] Chennai vs the village: two places = のに対して. [2] \"Not so much inconvenient as actually fun\" = 不便というより、むしろ. [3] The good and bad sides of the same village = 静かな反面. [4] Buses instead of trains = 電車のかわりに. 反面 and 一方 can’t follow noun + の."
+      }
+    ]
+  }
+}

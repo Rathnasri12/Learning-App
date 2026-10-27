@@ -1,0 +1,282 @@
+{
+  "lesson": 3,
+  "title": { "ja": "帰るついでに", "ta": "வீட்டுக்குப் போகும் வழியில்", "en": "On the way home" },
+  "intro_ta": "இந்தப் பாடம் பரபரப்பான அன்றாட வாழ்க்கையைப் பற்றியது: தூக்கம், விழிப்பு, அலுவலகம், தபால் நிலையம், வங்கி போன்ற சிறு வேலைகள். ஒரு வேலையின் நடுவில் வேறு ஏதோ நடப்பதைச் சொல்ல 〜最中に, 'ஒவ்வொரு முறையும்' என்று சொல்ல 〜たびに, 'அப்படியே போகும் வழியில் இதையும் செய்தேன்' என்று சொல்ல 〜ついでに, அறிவிப்புகளிலும் அலுவல் பேச்சிலும் வரும் மரியாதையான 'போது' 〜際(に) ஆகிய நான்கு வடிவங்களைக் கற்போம். நேரம், நாள், கிழமை, தூக்கம் பற்றிய புதிய சொற்களும் உண்டு.",
+  "intro_en": "This lesson is about a busy daily life: sleeping, waking up, work, and small jobs at the post office and the bank. You will learn four patterns. 〜最中に says something happened right in the middle of what you were doing. 〜たびに means \"every time\". 〜ついでに means \"while I’m at it, I’ll also do this\". 〜際(に) is a formal way to say \"when\". You hear it in announcements and at work. New words cover time, days, dates and sleep.",
+  "grammar": [
+    {
+      "id": "g03-1",
+      "pattern": "V-ている / N の 最中に",
+      "name": { "en": "最中に: right in the middle of ~", "ta": "最中に: ...க்கொண்டிருக்கும் நடுவில்" },
+      "explanation_ta": "ஒரு செயல் மும்முரமாக நடந்துகொண்டிருக்கும்போதே, எதிர்பாராத வேறொன்று குறுக்கிட்டதைச் சொல்ல 〜最中に பயன்படும். தமிழில் 'சாப்பிட்டுக்கொண்டிருக்கும் நடுவில் மின்சாரம் போனது' என்பது போல. வினைக்கு V-ている + 最中に, பெயர்ச்சொல்லுக்கு N の最中に (会議の最中に). 'இப்போது அதைச் செய்துகொண்டிருக்கிறேன், மும்முரமாக இருக்கிறேன்' என்று சொல்ல 〜最中だ என்றும் முடிக்கலாம். N4-இல் கற்ற 〜間に என்பது ஒரு நீண்ட காலப்பகுதியைக் குறிக்கும்; 最中に என்பது 'சரியாக அந்த உச்ச நேரத்தில்' என்ற அழுத்தத்தைத் தரும். பின்பகுதியில் பெரும்பாலும் தொந்தரவான, எதிர்பாராத நிகழ்வு வரும் (電話が鳴った, 停電になった).",
+      "explanation_en": "Use 〜最中に when something unexpected cuts in right while you are busy doing something. In Tamil, it is like \"right in the middle of eating, the power went out\" (சாப்பிட்டுக்கொண்டிருக்கும் நடுவில்). For verbs, use V-ている + 最中に. For nouns, use N の最中に: 会議の最中に. You can also end with 〜最中だ: \"I’m busy doing it right now\". In N4 you learned 〜間に. It covers a long period. 最中に stresses \"right at that busy moment\". The second part is usually an unexpected or annoying event: 電話が鳴った, 停電になった.",
+      "tamil_parallel": "குளித்துக்கொண்டிருக்கும் நடுவில் போன் அடித்தது = シャワーを浴びている最中に、電話が鳴った",
+      "tamil_parallel_en": "\"Right in the middle of my shower, the phone rang\" (குளித்துக்கொண்டிருக்கும் நடுவில் போன் அடித்தது) = シャワーを浴びている最中に、電話が鳴った",
+      "formation": "வினை V-ている + 最中に: 食べている最中に\nபெயர்ச்சொல் + の + 最中に: 会議の最中に\nவாக்கிய முடிவு: 〜最中だ / 〜最中です\n(〜最中は = '...நடக்கும்போது (பொதுவாக)')",
+      "formation_en": "Verb V-ている + 最中に: 食べている最中に\nNoun + の + 最中に: 会議の最中に\nAt the end: 〜最中だ / 〜最中です\n(〜最中は = \"while ... is going on\" (in general))",
+      "examples": [
+        { "ja": "食事の 最中に 停電に なった。", "reading": "しょくじの さいちゅうに ていでんに なった。", "romaji": "shokuji no saichuu ni teiden ni natta.", "ta": "சாப்பிட்டுக்கொண்டிருக்கும் நடுவில் மின்சாரம் போனது.", "en": "The power went out right in the middle of the meal." },
+        { "ja": "シャワーを 浴びて いる 最中に、電話が 鳴った。", "reading": "シャワーを あびて いる さいちゅうに、でんわが なった。", "romaji": "shawaa o abite iru saichuu ni, denwa ga natta.", "ta": "குளித்துக்கொண்டிருக்கும் நடுவில் தொலைபேசி ஒலித்தது.", "en": "The phone rang right while I was in the shower." },
+        { "ja": "大事な 会議の 最中に 居眠りを して しまった。", "reading": "だいじな かいぎの さいちゅうに いねむりを して しまった。", "romaji": "daiji na kaigi no saichuu ni inemuri o shite shimatta.", "ta": "முக்கியமான கூட்டத்தின் நடுவில் கண்ணயர்ந்துவிட்டேன்.", "en": "I dozed off right in the middle of an important meeting." },
+        { "ja": "試験の 最中は 携帯電話を 使わないで ください。", "reading": "しけんの さいちゅうは けいたいでんわを つかわないで ください。", "romaji": "shiken no saichuu wa keitai denwa o tsukawanaide kudasai.", "ta": "தேர்வு நடந்துகொண்டிருக்கும்போது கைபேசியைப் பயன்படுத்தாதீர்கள்.", "en": "Please don't use your mobile phone during the exam." },
+        { "ja": "今 晩ご飯を 作って いる 最中だから、後で 電話するね。", "reading": "いま ばんごはんを つくって いる さいちゅうだから、あとで でんわするね。", "romaji": "ima bangohan o tsukutte iru saichuu dakara, ato de denwa suru ne.", "ta": "இப்போது இரவு உணவு சமைத்துக்கொண்டிருக்கிறேன், பிறகு அழைக்கிறேன்.", "en": "I'm right in the middle of making dinner, so I'll call you later." },
+        { "ja": "掃除を して いる 最中に、友だちが 遊びに 来た。", "reading": "そうじを して いる さいちゅうに、ともだちが あそびに きた。", "romaji": "souji o shite iru saichuu ni, tomodachi ga asobi ni kita.", "ta": "சுத்தம் செய்துகொண்டிருக்கும் நடுவில் நண்பர் வீட்டுக்கு வந்தார்.", "en": "A friend dropped by right in the middle of my cleaning." }
+      ],
+      "pitfalls_ta": "நீண்ட நிலைமைகளுக்கு 最中 பொருந்தாது: ✕ 日本にいる最中に → ○ 日本にいる間に. மேலும் வினைக்கு அகராதி வடிவம் வேண்டாம்: ✕ 食べる最中に → ○ 食べている最中に.",
+      "pitfalls_en": "最中 doesn’t fit long states: ✕ 日本にいる最中に → ○ 日本にいる間に. Also, don’t use the dictionary form: ✕ 食べる最中に → ○ 食べている最中に."
+    },
+    {
+      "id": "g03-2",
+      "pattern": "V-る / N の たびに",
+      "name": { "en": "たびに: every time ~", "ta": "たびに: ஒவ்வொரு முறையும்" },
+      "explanation_ta": "'A நடக்கும் ஒவ்வொரு முறையும் B நடக்கும்' என்று சொல்ல 〜たびに பயன்படும். தமிழில் 'இந்தப் பாடலைக் கேட்கும் ஒவ்வொரு முறையும் பள்ளிக் காலம் நினைவுக்கு வருகிறது' என்பது போல. வினையின் அகராதி வடிவம் + たびに (見るたびに), பெயர்ச்சொல் + の + たびに (旅行のたびに). இது பெரும்பாலும் இயல்பாகவே மீண்டும் மீண்டும் நடக்கும் பழக்கம் அல்லது உணர்வைக் குறிக்கும் (思い出す, 買う, 言う). N5-இல் கற்ற 〜とき ஒரு முறையைக் குறிக்கலாம்; たびに எப்போதும் 'திரும்பத் திரும்ப, ஒவ்வொரு முறையும்'. N4-இல் கற்ற 〜ごとに ('ஒவ்வொரு மணி நேரமும்' போன்ற அலகுகள்) என்பதிலிருந்தும் வேறுபட்டது; たびに ஒரு நிகழ்வைச் சார்ந்தது.",
+      "explanation_en": "Use 〜たびに to say \"every time A happens, B happens\". In Tamil, it is like \"every time I hear this song, I remember my school days\" (ஒவ்வொரு முறையும்). Use the dictionary form + たびに: 見るたびに. For nouns, use N + の + たびに: 旅行のたびに. B is usually a habit or a feeling that comes back again and again: 思い出す, 買う, 言う. 〜とき, from N5, can be about one time. たびに is always \"again and again, each time\". It is also different from 〜ごとに (N4), which is about units like \"every hour\". たびに is about an event.",
+      "tamil_parallel": "இந்தப் பாடலைக் கேட்கும் ஒவ்வொரு முறையும் பள்ளிக் காலம் நினைவுக்கு வருகிறது = この歌を聞くたびに、学生時代を思い出す",
+      "tamil_parallel_en": "\"Every time I hear this song, I remember my school days\" (இந்தப் பாடலைக் கேட்கும் ஒவ்வொரு முறையும் பள்ளிக் காலம் நினைவுக்கு வருகிறது) = この歌を聞くたびに、学生時代を思い出す",
+      "formation": "வினை (அகராதி வடிவம்) + たびに: 聞くたびに・会うたびに\nபெயர்ச்சொல் + の + たびに: 旅行のたびに・出張のたびに\n(この / その + たびに = 'இந்த / அந்த ஒவ்வொரு முறையும்')",
+      "formation_en": "Verb (dictionary form) + たびに: 聞くたびに・会うたびに\nNoun + の + たびに: 旅行のたびに・出張のたびに\n(この / その + たびに = \"each time this / that happens\")",
+      "examples": [
+        { "ja": "この 歌を 聞く たびに、学生時代を 思い出す。", "reading": "この うたを きく たびに、がくせいじだいを おもいだす。", "romaji": "kono uta o kiku tabi ni, gakusei jidai o omoidasu.", "ta": "இந்தப் பாடலைக் கேட்கும் ஒவ்வொரு முறையும் மாணவப் பருவம் நினைவுக்கு வருகிறது.", "en": "Every time I hear this song, I remember my student days." },
+        { "ja": "出張の たびに、子どもに お土産を 買います。", "reading": "しゅっちょうの たびに、こどもに おみやげを かいます。", "romaji": "shucchou no tabi ni, kodomo ni omiyage o kaimasu.", "ta": "ஒவ்வொரு அலுவல் பயணத்திலும் குழந்தைக்கு நினைவுப் பரிசு வாங்குவேன்.", "en": "Every business trip, I buy my child a souvenir." },
+        { "ja": "祖母は 会う たびに 「大きく なったね」と 言う。", "reading": "そぼは あう たびに 「おおきく なったね」と いう。", "romaji": "sobo wa au tabi ni \"ookiku natta ne\" to iu.", "ta": "பாட்டி ஒவ்வொரு முறை சந்திக்கும்போதும் 'பெரியவனாகிவிட்டாயே' என்பார்.", "en": "Every time we meet, my grandmother says, \"You've grown!\"" },
+        { "ja": "雨が 降る たびに、この 道は 水で いっぱいに なる。", "reading": "あめが ふる たびに、この みちは みずで いっぱいに なる。", "romaji": "ame ga furu tabi ni, kono michi wa mizu de ippai ni naru.", "ta": "மழை பெய்யும் ஒவ்வொரு முறையும் இந்தச் சாலையில் தண்ணீர் தேங்கிவிடும்.", "en": "Every time it rains, this road fills up with water." },
+        { "ja": "引っ越しの たびに、荷物が 増えて いく。", "reading": "ひっこしの たびに、にもつが ふえて いく。", "romaji": "hikkoshi no tabi ni, nimotsu ga fuete iku.", "ta": "ஒவ்வொரு முறை வீடு மாறும்போதும் சாமான்கள் அதிகரித்துக்கொண்டே போகின்றன.", "en": "Every time I move house, I end up with more stuff." },
+        { "ja": "駅の 前を 通る たびに、あの パン屋の いい においが する。", "reading": "えきの まえを とおる たびに、あの パンやの いい においが する。", "romaji": "eki no mae o tooru tabi ni, ano pan'ya no ii nioi ga suru.", "ta": "ரயில் நிலையத்தின் முன் கடந்து செல்லும் ஒவ்வொரு முறையும் அந்த ரொட்டிக் கடையின் நல்ல மணம் வீசுகிறது.", "en": "Every time I pass the station, I smell that bakery." }
+      ],
+      "pitfalls_ta": "ஒரே ஒரு முறை நடந்ததற்கு たびに வேண்டாம்: ✕ 昨日駅に行ったたびに → ○ 昨日駅に行ったとき. மேலும் 'ஒவ்வொரு மணி நேரமும்' போன்ற அலகுகளுக்கு ごとに / おきに பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Don’t use たびに for a single event: ✕ 昨日駅に行ったたびに → ○ 昨日駅に行ったとき. For units like \"every hour\", use ごとに or おきに."
+    },
+    {
+      "id": "g03-3",
+      "pattern": "V-る / V-た / N の ついでに",
+      "name": { "en": "ついでに: while you’re at it", "ta": "ついでに: அப்படியே போகிற போக்கில்" },
+      "explanation_ta": "'A என்ற முக்கிய வேலைக்காகப் போகும்போது, அந்த வாய்ப்பைப் பயன்படுத்தி B-ஐயும் செய்தேன்' என்று சொல்ல 〜ついでに பயன்படும். தமிழில் 'கடைக்குப் போகும்போது அப்படியே தபால் நிலையத்திலும் பார்சலை அனுப்பிவிட்டேன்' என்பது போல. A முக்கிய நோக்கம்; B கூடுதலாகச் சேர்த்துச் செய்வது. வினைக்கு அகராதி வடிவம் அல்லது た-வடிவம் + ついでに (行くついでに / 行ったついでに), பெயர்ச்சொல்லுக்கு N の ついでに (散歩のついでに). வாக்கியத்தின் தொடக்கத்தில் தனியாக ついでに என்றும் சொல்லலாம்: 'அப்படியே பாலும் வாங்கி வா'. இது யாரிடமாவது சின்ன உதவி கேட்க மிகவும் பயனுள்ளது.",
+      "explanation_en": "Use 〜ついでに for \"A is my main plan, and I use the chance to do B too\". In Tamil, it is like \"while I went to the shop, I also sent the parcel at the post office\" (அப்படியே). A is the main purpose. B is the extra job. Use the dictionary form or た-form + ついでに: 行くついでに, 行ったついでに. For nouns, use N の ついでに: 散歩のついでに. ついでに can also start a sentence: \"get some milk while you’re at it\". It is very useful for asking small favours.",
+      "tamil_parallel": "கடைக்குப் போகும்போது அப்படியே பாலும் வாங்கி வா = 買い物のついでに、牛乳も買ってきて",
+      "tamil_parallel_en": "\"When you go shopping, get some milk while you're at it\" (கடைக்குப் போகும்போது அப்படியே பாலும் வாங்கி வா) = 買い物のついでに、牛乳も買ってきて",
+      "formation": "வினை (அகராதி வடிவம்) + ついでに: 行くついでに\nவினை (た-வடிவம்) + ついでに: 行ったついでに\nபெயர்ச்சொல் + の + ついでに: 散歩のついでに\nதனியாக: ついでに、〜 (அப்படியே ...)",
+      "formation_en": "Verb (dictionary form) + ついでに: 行くついでに\nVerb (た-form) + ついでに: 行ったついでに\nNoun + の + ついでに: 散歩のついでに\nOn its own: ついでに、〜 (while you’re at it, ...)",
+      "examples": [
+        { "ja": "買い物に 行く ついでに、郵便局で 小包を 出して きた。", "reading": "かいものに いく ついでに、ゆうびんきょくで こづつみを だして きた。", "romaji": "kaimono ni iku tsuide ni, yuubinkyoku de kozutsumi o dashite kita.", "ta": "கடைக்குப் போனபோது அப்படியே தபால் நிலையத்தில் பார்சலையும் அனுப்பிவிட்டு வந்தேன்.", "en": "On my way to the shops, I also sent a parcel at the post office." },
+        { "ja": "散歩の ついでに、パンを 買って きて くれない？", "reading": "さんぽの ついでに、パンを かって きて くれない？", "romaji": "sanpo no tsuide ni, pan o katte kite kurenai?", "ta": "நடைக்குப் போகும்போது அப்படியே ரொட்டி வாங்கி வருகிறாயா?", "en": "While you're out for a walk, could you get some bread?" },
+        { "ja": "東京へ 出張した ついでに、大学の 友人に 会った。", "reading": "とうきょうへ しゅっちょうした ついでに、だいがくの ゆうじんに あった。", "romaji": "toukyou e shucchou shita tsuide ni, daigaku no yuujin ni atta.", "ta": "டோக்கியோவுக்கு அலுவல் பயணம் போனபோது அப்படியே கல்லூரி நண்பரையும் சந்தித்தேன்.", "en": "While I was in Tokyo on business, I also met a friend from university." },
+        { "ja": "帰る ついでに、銀行に 寄って お金を 下ろした。", "reading": "かえる ついでに、ぎんこうに よって おかねを おろした。", "romaji": "kaeru tsuide ni, ginkou ni yotte okane o oroshita.", "ta": "வீடு திரும்பும் வழியில் அப்படியே வங்கிக்குச் சென்று பணம் எடுத்தேன்.", "en": "On my way home, I stopped at the bank and took out some money." },
+        { "ja": "部屋を 掃除する ついでに、窓も ふきました。", "reading": "へやを そうじする ついでに、まども ふきました。", "romaji": "heya o souji suru tsuide ni, mado mo fukimashita.", "ta": "அறையைச் சுத்தம் செய்யும்போதே ஜன்னல்களையும் துடைத்தேன்.", "en": "While I was cleaning the room, I wiped the windows too." },
+        { "ja": "コンビニに 行くなら、ついでに 牛乳も 買って きて。", "reading": "コンビニに いくなら、ついでに ぎゅうにゅうも かって きて。", "romaji": "konbini ni iku nara, tsuide ni gyuunyuu mo katte kite.", "ta": "கடைக்குப் போகிறாய் என்றால், அப்படியே பாலும் வாங்கி வா.", "en": "If you're going to the convenience store, get some milk while you're at it." }
+      ],
+      "pitfalls_ta": "B (கூடுதல் வேலை) தான் முக்கிய நோக்கம் என்றால் ついでに பொருந்தாது. ஒரே நேரத்தில் இரண்டு செயல்களைச் செய்வதற்கு (பாடல் கேட்டுக்கொண்டே நடப்பது) 〜ながら பயன்படுத்துங்கள்; ついでに என்பது 'ஒரு வாய்ப்பைப் பயன்படுத்தி இன்னொன்றும்'.",
+      "pitfalls_en": "If B is the main purpose, ついでに doesn’t fit. For doing two things at the same moment (walking while listening to music), use 〜ながら. ついでに means \"using one chance to do one more thing\"."
+    },
+    {
+      "id": "g03-4",
+      "pattern": "V-る / V-た / N の 際(に)",
+      "name": { "en": "際(に): when (formal)", "ta": "際(に): -போது (மரியாதையான வடிவம்)" },
+      "explanation_ta": "〜際(に) என்பது 〜とき-இன் மரியாதையான, எழுத்து வடிவம். ரயில் நிலைய அறிவிப்புகள், கடை அறிவிப்புகள், அலுவலகக் கடிதங்கள், விதிமுறைகள் ஆகியவற்றில் அடிக்கடி வரும். தமிழில் 'இறங்கும்போது' என்பதை 'இறங்கும் சமயத்தில்' என்று முறைப்படிச் சொல்வது போல. வினைக்கு அகராதி வடிவம் அல்லது た-வடிவம் + 際(に) (利用する際に / 行った際に), பெயர்ச்சொல்லுக்கு N の際(に) (地震の際に). 際は என்று வந்தால் 'அந்தச் சமயத்தில் (விதியாக)' என்ற பொருள். நண்பர்களுடன் பேசும்போது இது மிகவும் கடினமாகக் கேட்கும்; அங்கு とき தான் சரி.",
+      "explanation_en": "〜際(に) is a formal, written way to say 〜とき (\"when\"). You see and hear it in station announcements, shop notices, work emails and rules. In Tamil, it is like saying \"at the time of getting off\" (இறங்கும் சமயத்தில்) instead of just \"when you get off\". Use the dictionary form or た-form + 際(に): 利用する際に, 行った際に. For nouns, use N の際(に): 地震の際に. 際は often gives a rule: \"at that time, please ...\". With friends it sounds far too stiff. Use とき there.",
+      "tamil_parallel": "இறங்கும் சமயத்தில் காலடியில் கவனமாக இருங்கள் = お降りの際は、足元にご注意ください",
+      "tamil_parallel_en": "\"When getting off, please watch your step\" (இறங்கும் சமயத்தில் காலடியில் கவனமாக இருங்கள்) = お降りの際は、足元にご注意ください",
+      "formation": "வினை (அகராதி வடிவம்) + 際(に)・際は: 利用する際は\nவினை (た-வடிவம்) + 際(に): 行った際に\nபெயர்ச்சொல் + の + 際(に)・際は: 地震の際は・お帰りの際は\n(சாதாரணப் பேச்சில் → とき)",
+      "formation_en": "Verb (dictionary form) + 際(に)・際は: 利用する際は\nVerb (た-form) + 際(に): 行った際に\nNoun + の + 際(に)・際は: 地震の際は・お帰りの際は\n(In casual speech → とき)",
+      "examples": [
+        { "ja": "お降りの 際は、足元に ご注意ください。", "reading": "おおりの さいは、あしもとに ごちゅうい ください。", "romaji": "oori no sai wa, ashimoto ni gochuui kudasai.", "ta": "இறங்கும்போது காலடியில் கவனமாக இருங்கள்.", "en": "When getting off, please watch your step." },
+        { "ja": "図書館を 利用する 際は、学生証を 見せて ください。", "reading": "としょかんを りようする さいは、がくせいしょうを みせて ください。", "romaji": "toshokan o riyou suru sai wa, gakuseishou o misete kudasai.", "ta": "நூலகத்தைப் பயன்படுத்தும்போது மாணவர் அடையாள அட்டையைக் காட்டுங்கள்.", "en": "When you use the library, please show your student ID." },
+        { "ja": "先日 東京へ 行った 際に、昔の 先生に お会いしました。", "reading": "せんじつ とうきょうへ いった さいに、むかしの せんせいに おあいしました。", "romaji": "senjitsu toukyou e itta sai ni, mukashi no sensei ni oai shimashita.", "ta": "சில நாட்களுக்கு முன் டோக்கியோ சென்றபோது பழைய ஆசிரியரைச் சந்தித்தேன்.", "en": "When I went to Tokyo the other day, I met my old teacher." },
+        { "ja": "地震の 際は、エレベーターを 使わないで ください。", "reading": "じしんの さいは、エレベーターを つかわないで ください。", "romaji": "jishin no sai wa, erebeetaa o tsukawanaide kudasai.", "ta": "நிலநடுக்கத்தின்போது லிஃப்டைப் பயன்படுத்தாதீர்கள்.", "en": "In an earthquake, do not use the lift." },
+        { "ja": "書類を 出す 際に、日付を 忘れずに 書いて ください。", "reading": "しょるいを だす さいに、ひづけを わすれずに かいて ください。", "romaji": "shorui o dasu sai ni, hizuke o wasurezu ni kaite kudasai.", "ta": "ஆவணத்தைச் சமர்ப்பிக்கும்போது தேதியை மறக்காமல் எழுதுங்கள்.", "en": "When you hand in the form, don't forget to write the date." },
+        { "ja": "帰国の 際には、ぜひ ご連絡ください。", "reading": "きこくの さいには、ぜひ ごれんらく ください。", "romaji": "kikoku no sai ni wa, zehi gorenraku kudasai.", "ta": "தாய்நாட்டுக்குத் திரும்பும்போது கட்டாயம் தொடர்பு கொள்ளுங்கள்.", "en": "When you return to your country, please do get in touch." }
+      ],
+      "pitfalls_ta": "நண்பர்களுடன் சாதாரணப் பேச்சில் 際 வேண்டாம்: ✕ 友だちと遊ぶ際に → ○ 友だちと遊ぶとき. பெயரடைகளுடன் (✕ 暑い際) பெரும்பாலும் வராது; செயல்கள், நிகழ்வுகளுடன் மட்டும் பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Don’t use 際 in casual talk with friends: ✕ 友だちと遊ぶ際に → ○ 友だちと遊ぶとき. It rarely goes with adjectives (✕ 暑い際). Use it with actions and events."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0004", "n3-v-0006", "n3-v-0035", "n3-v-0088", "n3-v-0137", "n3-v-0215", "n3-v-0239", "n3-v-0313", "n3-v-0410", "n3-v-0524",
+    "n3-v-0618", "n3-v-0711", "n3-v-0932", "n3-v-0949", "n3-v-0954", "n3-v-0960", "n3-v-0964", "n3-v-1015", "n3-v-1022", "n3-v-1072",
+    "n3-v-1112", "n3-v-1122", "n3-v-1133", "n3-v-1143", "n3-v-1156", "n3-v-1234", "n3-v-1306", "n3-v-1423", "n3-v-1458", "n3-v-1480",
+    "n3-v-1489", "n3-v-1509", "n3-v-1514", "n3-v-1522", "n3-v-1523", "n3-v-1524", "n3-v-1579", "n3-v-1593", "n3-v-1604", "n3-v-1623",
+    "n3-v-1669", "n3-v-1680", "n3-v-1681", "n3-v-1682", "n3-v-1684", "n3-v-1725", "n3-v-1820", "n3-v-1840", "n3-v-1883", "n3-v-1925",
+    "n3-v-1995", "n3-v-2081", "n3-v-2126"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L03-q01", "type": "kanji_reading",
+        "sentence": "父は 毎晩 七時ごろに ＿帰宅＿します。", "target": "帰宅",
+        "options": ["かえたく", "きたく", "きだく", "きいたく"], "answer": 1,
+        "explanation_ta": "帰宅 = きたく (வீடு திரும்புதல்). 帰 = き (சீன ஒலி), 宅 = たく. かえたく என்பது 帰る-வின் ஜப்பானிய ஒலியைக் கலந்த தவறு.",
+        "explanation_en": "帰宅 = きたく (வீடு திரும்புதல், coming home). 帰 is き here, and 宅 is たく. かえたく wrongly mixes in the reading of 帰る."
+      },
+      {
+        "id": "L03-q02", "type": "kanji_reading",
+        "sentence": "会議の ＿最中＿に 電話が 鳴った。", "target": "最中",
+        "options": ["さいなか", "さいじゅう", "さいちゅう", "さいちゅ"], "answer": 2,
+        "explanation_ta": "最中 = さいちゅう (நடுவில்). 中 இங்கு ちゅう (நீண்ட ஒலி); じゅう என்பது 世界中 (せかいじゅう) போன்ற சொற்களில் வரும்.",
+        "explanation_en": "最中 = さいちゅう (நடுவில், in the middle of). 中 is ちゅう here, with a long sound. じゅう is used in words like 世界中 (せかいじゅう)."
+      },
+      {
+        "id": "L03-q03", "type": "kanji_reading",
+        "sentence": "健康の ために、＿睡眠＿を 十分 とりましょう。", "target": "睡眠",
+        "options": ["すいみん", "すいめん", "すいねむ", "ずいみん"], "answer": 0,
+        "explanation_ta": "睡眠 = すいみん (தூக்கம்). 眠 = みん (眠い-இல் ねむ என்பது ஜப்பானிய ஒலி; இங்கு சீன ஒலி みん).",
+        "explanation_en": "睡眠 = すいみん (தூக்கம், sleep). 眠 is みん here. In 眠い it is ねむ, but this word uses the Chinese-style sound."
+      },
+      {
+        "id": "L03-q04", "type": "orthography",
+        "sentence": "郵便局で ＿こづつみ＿を 送りました。", "target": "こづつみ",
+        "options": ["子包", "少包", "小抱", "小包"], "answer": 3,
+        "explanation_ta": "சிறு பொட்டலம் = 小包 (小 'சிறிய' + 包 'சுற்றுதல்'). 子 (குழந்தை), 少 (கொஞ்சம்) ஒலி / வடிவம் ஒத்திருந்தாலும் தவறு.",
+        "explanation_en": "Parcel = 小包 (小 \"small\" + 包 \"wrap\"). 子 (child) and 少 (a little) look or sound similar, but they are wrong."
+      },
+      {
+        "id": "L03-q05", "type": "orthography",
+        "sentence": "書類に 今日の ＿ひづけ＿を 書いて ください。", "target": "ひづけ",
+        "options": ["火付", "日付", "日符", "目付"], "answer": 1,
+        "explanation_ta": "தேதி = 日付 (日 'நாள்' + 付 'இணைத்தல்'). 火 (நெருப்பு), 目 (கண்) வடிவில் ஒத்திருக்கும் தவறுகள்.",
+        "explanation_en": "Date = 日付 (日 \"day\" + 付 \"attach\"). 火 (fire) and 目 (eye) are look-alike mistakes."
+      },
+      {
+        "id": "L03-q06", "type": "vocab_context",
+        "sentence": "電車の 中で （　　）を して、駅を 乗り過ごして しまった。",
+        "options": ["居眠り", "睡眠", "夜明け", "帰宅"], "answer": 0,
+        "explanation_ta": "உட்கார்ந்தபடி கண்ணயர்வது = 居眠り; அதனால் நிலையத்தைத் தாண்டிவிட்டார். 睡眠 என்பது பொதுவான தூக்கம்; 睡眠をする என்று சொல்வதில்லை.",
+        "explanation_en": "Nodding off in your seat = 居眠り (கண்ணயர்தல், dozing). That is why the person missed the stop. 睡眠 is sleep in general, and we don’t say 睡眠をする."
+      },
+      {
+        "id": "L03-q07", "type": "vocab_context",
+        "sentence": "母に 何度 電話を かけても、（　　）。",
+        "options": ["付けない", "鳴らさない", "つながらない", "握らない"], "answer": 2,
+        "explanation_ta": "தொலைபேசி இணைப்பு கிடைக்காதது = 電話がつながらない. 鳴らさない ('ஒலிக்கச் செய்யவில்லை') பொருள் பொருந்தாது.",
+        "explanation_en": "Not getting through on the phone = 電話がつながらない (இணைப்பு கிடைக்கவில்லை). 鳴らさない (\"don’t ring it\") doesn’t make sense here."
+      },
+      {
+        "id": "L03-q08", "type": "vocab_context",
+        "sentence": "暑くて、かばんの 中の チョコレートが （　　） しまった。",
+        "options": ["溶いて", "溶けて", "解けて", "満ちて"], "answer": 1,
+        "explanation_ta": "வெப்பத்தால் தானாக உருகுவது = 溶ける. 溶く ஒருவர் கலக்குவது (பிறவினை); 解ける முடிச்சு அவிழ்வது, ஒலி ஒன்றே.",
+        "explanation_en": "Melting by itself in the heat = 溶ける (உருக, melt). 溶く is when you mix something. 解ける (come undone) sounds the same but means something else."
+      },
+      {
+        "id": "L03-q09", "type": "vocab_context",
+        "sentence": "（　　）は バスで 会社に 行きますが、今日は 雨なので タクシーで 来ました。",
+        "options": ["今回", "先日", "普段", "同時"], "answer": 2,
+        "explanation_ta": "'வழக்கமாக பஸ், ஆனால் இன்று டாக்ஸி' → 普段 (வழக்கமாக). 先日 ('சில நாட்களுக்கு முன்') ஒரு முறையைக் குறிக்கும்; பழக்கத்தை அல்ல.",
+        "explanation_en": "\"Usually the bus, but today a taxi\" → 普段 (வழக்கமாக, usually). 先日 (the other day) is one past time, not a habit."
+      },
+      {
+        "id": "L03-q10", "type": "vocab_context",
+        "sentence": "来週の 会議の （　　）と 場所を メールで お知らせします。",
+        "options": ["日常", "日中", "違い", "時刻"], "answer": 3,
+        "explanation_ta": "கூட்டத்தின் 'நேரமும் இடமும்' → 時刻と場所. 日中 ('பகல் நேரம்') ஒரு குறிப்பிட்ட மணியைக் குறிக்காது.",
+        "explanation_en": "The meeting’s time and place → 時刻と場所 (நேரம், the clock time). 日中 (daytime) is not an exact time."
+      },
+      {
+        "id": "L03-q11", "type": "paraphrase",
+        "sentence": "正午に 駅の 前で 会いましょう。",
+        "options": ["朝 十時に 駅の 前で 会いましょう。", "夜 十二時に 駅の 前で 会いましょう。", "昼 十二時に 駅の 前で 会いましょう。", "午後 三時に 駅の 前で 会いましょう。"], "answer": 2,
+        "explanation_ta": "正午 = பகல் 12 மணி (昼十二時). 夜十二時 என்பது நள்ளிரவு; அது 夜中.",
+        "explanation_en": "正午 = 12 noon (昼十二時). 夜十二時 is midnight. That is 夜中."
+      },
+      {
+        "id": "L03-q12", "type": "paraphrase",
+        "sentence": "先日、駅で 田中さんを 見かけました。",
+        "options": ["昨日の 夜、駅で 田中さんと 約束しました。", "この間、駅で 偶然 田中さんを 見ました。", "来週、駅で 田中さんに 会います。", "毎日、駅で 田中さんを 待って います。"], "answer": 1,
+        "explanation_ta": "先日 = この間 (சில நாட்களுக்கு முன்); 見かける = தற்செயலாகப் பார்ப்பது (偶然見る). 来週 எதிர்காலம், 毎日 பழக்கம்.",
+        "explanation_en": "先日 = この間 (சில நாட்களுக்கு முன், the other day). 見かける = to happen to see (偶然見る). 来週 is the future and 毎日 is a habit."
+      },
+      {
+        "id": "L03-q13", "type": "usage",
+        "sentence": "普段",
+        "options": ["普段は 七時に 起きますが、日曜日は 遅くまで 寝ます。", "明日は 普段 雨が 降るでしょう。", "駅には 普段 二時間 前に 着きました。", "この 店は 普段に 安くて おいしいです。"], "answer": 0,
+        "explanation_ta": "普段 = வழக்கமாக (பழக்கம்): 普段は七時に起きます. ஒரு முறை நடந்த செயலுக்கோ (着きました) நாளைய ஊகத்துக்கோ பொருந்தாது; 普段に என்ற வடிவமும் இல்லை.",
+        "explanation_en": "普段 = usually (வழக்கமாக), for habits: 普段は七時に起きます. It doesn’t fit a one-time past action (着きました) or a guess about tomorrow. 普段に is not used."
+      },
+      {
+        "id": "L03-q14", "type": "usage",
+        "sentence": "付ける",
+        "options": ["シャツに カレーの しみが 付けて しまった。", "何度 かけても 電話が 付けない。", "かばんに 名前を 書いた カードを 付けた。", "この 道を まっすぐ 付けると、駅です。"], "answer": 2,
+        "explanation_ta": "付ける = (ஒருவர்) இணைப்பது, பொருத்துவது: カードを付ける. கறை தானாகப் படிவது 付く (しみが付く); தொலைபேசி இணைப்பு つながる.",
+        "explanation_en": "付ける = to attach something (இணைக்க): カードを付ける. A stain that gets on by itself is 付く (しみが付く). A phone call getting through is つながる."
+      },
+      {
+        "id": "L03-q15", "type": "grammar_form",
+        "sentence": "大事な 会議の（　　）に、携帯電話が 鳴って しまった。",
+        "options": ["たび", "ついで", "最中", "際"], "answer": 2,
+        "explanation_ta": "கூட்டம் நடந்துகொண்டிருக்கும் நடுவில் எதிர்பாராத குறுக்கீடு → 会議の最中に. 際 என்பது மரியாதையான 'போது'; தவறுதலாக நடந்த குறுக்கீட்டுக்கு இயல்பாக இல்லை.",
+        "explanation_en": "An unexpected interruption right in the middle of a meeting → 会議の最中に. 際 is a formal \"when\". It doesn’t fit an accidental interruption."
+      },
+      {
+        "id": "L03-q16", "type": "grammar_form",
+        "sentence": "この 写真を 見る（　　）、楽しかった 旅行を 思い出す。",
+        "options": ["最中に", "たびに", "ついでに", "際に"], "answer": 1,
+        "explanation_ta": "'பார்க்கும் ஒவ்வொரு முறையும் நினைவுக்கு வருகிறது' → 見るたびに. ついでに என்றால் 'பார்க்கும்போது அப்படியே' என்ற பொருள்; நினைவு வருவது திட்டமிட்டுச் செய்வதல்ல.",
+        "explanation_en": "\"Every time I look at it, I remember\" → 見るたびに. ついでに means \"while I’m at it\". But remembering is not something you plan."
+      },
+      {
+        "id": "L03-q17", "type": "grammar_form",
+        "sentence": "駅へ 行く（　　）、この 手紙を ポストに 入れて くれない？",
+        "options": ["最中に", "たびに", "際に", "ついでに"], "answer": 3,
+        "explanation_ta": "முக்கியப் பயணம் நிலையத்துக்கு; அப்படியே கடிதத்தைப் போடச் சொல்கிறார் → 行くついでに. 際に மிகவும் முறையானது; 〜くれない？ என்ற நண்பர் பேச்சுக்குப் பொருந்தாது.",
+        "explanation_en": "The main trip is to the station. The letter is an extra job → 行くついでに. 際に is too formal for friendly 〜くれない？."
+      },
+      {
+        "id": "L03-q18", "type": "grammar_form",
+        "sentence": "非常の（　　）は、この ボタンを 押して ください。",
+        "options": ["際", "たび", "ついで", "最中"], "answer": 0,
+        "explanation_ta": "அறிவிப்புகளில் வரும் மரியாதையான 'அவசர நேரத்தில்' → 非常の際は. たびは என்ற வடிவம் இல்லை.",
+        "explanation_en": "A formal notice, \"in an emergency\" → 非常の際は. たびは is not a correct form."
+      },
+      {
+        "id": "L03-q19", "type": "grammar_form",
+        "sentence": "料理を（　　）最中に、お客さんが 来た。",
+        "options": ["作る", "作った", "作り", "作って いる"], "answer": 3,
+        "explanation_ta": "வினையுடன் 最中に வரும்போது எப்போதும் V-ている: 作っている最中に. 作る最中に என்று சொல்வதில்லை.",
+        "explanation_en": "With a verb, 最中に always takes V-ている: 作っている最中に. We don’t say 作る最中に."
+      },
+      {
+        "id": "L03-q20", "type": "grammar_form",
+        "sentence": "散歩（　　）ついでに、パン屋に 寄った。",
+        "options": ["の", "に", "を", "で"], "answer": 0,
+        "explanation_ta": "பெயர்ச்சொல் + の + ついでに: 散歩のついでに ('நடைக்குப் போனபோது அப்படியே').",
+        "explanation_en": "Noun + の + ついでに: 散歩のついでに (\"while out for a walk\")."
+      },
+      {
+        "id": "L03-q21", "type": "grammar_form",
+        "sentence": "パスポートを 申し込む（　　）は、写真が 二枚 必要です。",
+        "options": ["たび", "際", "ついで", "最中"], "answer": 1,
+        "explanation_ta": "அலுவல் விதிமுறை: 'விண்ணப்பிக்கும்போது புகைப்படம் தேவை' → 申し込む際は. 最中 வினைக்கு V-ている வேண்டும்; ついでは என்ற வடிவம் இங்கு பொருந்தாது.",
+        "explanation_en": "An official rule: \"when you apply, you need photos\" → 申し込む際は. 最中 needs V-ている. ついでは doesn’t fit here."
+      },
+      {
+        "id": "L03-q22", "type": "sentence_order",
+        "before": "母は ", "chunks": ["電話", "する", "たびに", "早く"], "star": 2, "after": "結婚しろと 言う。",
+        "explanation_ta": "母は電話するたびに早く結婚しろと言う = 'அம்மா ஒவ்வொரு முறை போன் செய்யும்போதும் சீக்கிரம் கல்யாணம் செய் என்கிறார்.' 電話する + たびに, பிறகு 早く.",
+        "explanation_en": "母は電話するたびに早く結婚しろと言う = \"Every time I call, my mother tells me to get married soon.\" 電話する + たびに, then 早く."
+      },
+      {
+        "id": "L03-q23", "type": "sentence_order",
+        "before": "郵便局へ ", "chunks": ["行く", "ついでに", "銀行にも", "寄って"], "star": 1, "after": "きます。",
+        "explanation_ta": "郵便局へ行くついでに、銀行にも寄ってきます = 'தபால் நிலையம் போகும்போது அப்படியே வங்கிக்கும் போய்விட்டு வருகிறேன்.'",
+        "explanation_en": "郵便局へ行くついでに、銀行にも寄ってきます = \"While I go to the post office, I’ll stop at the bank too.\""
+      },
+      {
+        "id": "L03-q24", "type": "sentence_order",
+        "before": "みんなで ", "chunks": ["食事を", "して", "いる", "最中に"], "star": 3, "after": "地震が 起きた。",
+        "explanation_ta": "みんなで食事をしている最中に地震が起きた = 'எல்லோரும் சாப்பிட்டுக்கொண்டிருக்கும் நடுவில் நிலநடுக்கம் ஏற்பட்டது.' して + いる + 最中に.",
+        "explanation_en": "みんなで食事をしている最中に地震が起きた = \"An earthquake hit right while we were all eating.\" して + いる + 最中に."
+      },
+      {
+        "id": "L03-q25", "type": "passage_cloze",
+        "passage": "今日は 朝から 忙しい 一日だった。会社へ 行く 前に、駅の 近くの 郵便局で 母に 小包を 送った。昼は 会議の［1］に お客さんが 来て、昼食を とる 時間が なかった。夕方、帰宅する［2］ スーパーに 寄って、明日の 弁当の 材料を 買った。この スーパーに 来る［3］、つい お菓子も 買って しまう。夜、マンションの 管理人さんから 「ゴミを 出す［4］は、曜日を 守って ください」という 手紙が 来て いた。",
+        "blanks": [
+          { "options": ["最中", "たび", "ついで", "際"], "answer": 0 },
+          { "options": ["最中に", "ついでに", "たびに", "際は"], "answer": 1 },
+          { "options": ["ついでに", "最中に", "たびに", "際は"], "answer": 2 },
+          { "options": ["たび", "ついで", "最中", "際"], "answer": 3 }
+        ],
+        "explanation_ta": "［1］ கூட்டம் நடந்துகொண்டிருக்கும் நடுவில் விருந்தினர் வந்தார் → 会議の最中に. ［2］ வீடு திரும்புவது முக்கியம்; அப்படியே கடைக்கும் போனார் → 帰宅するついでに. ［3］ 'இந்தக் கடைக்கு வரும் ஒவ்வொரு முறையும்' → 来るたびに. ［4］ நிர்வாகியின் மரியாதையான அறிவிப்பு → ゴミを出す際は.",
+        "explanation_en": "[1] A visitor came right in the middle of a meeting → 会議の最中に. [2] Going home is the main trip; the shop is an extra stop → 帰宅するついでに. [3] \"Every time I come to this shop\" → 来るたびに. [4] A formal notice from the building manager → ゴミを出す際は."
+      }
+    ]
+  }
+}

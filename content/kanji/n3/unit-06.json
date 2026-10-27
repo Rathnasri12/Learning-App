@@ -1,0 +1,451 @@
+{
+  "unit": 6,
+  "title": { "en": "Talking, moving and helping", "ta": "பேசுதல், நகர்தல், உதவுதல்" },
+  "intro": {
+    "en": "In this unit you will learn fourteen kanji about talking and thinking, things that flow and move, and helping and raising people. Many of them hide parts you know: 言, 火, 方, 王, 田, 月, 心 and 力. Find the known part first, then build the story.",
+    "ta": "இந்தப் பிரிவில் பேசுதல், சிந்தித்தல், ஓடும் நகரும் பொருள்கள், மனிதர்களுக்கு உதவுதல், வளர்த்தல் பற்றிய பதினான்கு கான்ஜிகளைக் கற்போம். பலவற்றுக்குள் உங்களுக்குத் தெரிந்த பகுதிகள் ஒளிந்திருக்கின்றன: 言, 火, 方, 王, 田, 月, 心, 力. முதலில் தெரிந்த பகுதியைக் கண்டுபிடியுங்கள்; பிறகு கதையை உருவாக்குங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "談",
+      "meaning": { "en": "talk, discussion", "ta": "பேச்சு, கலந்துரையாடல்" },
+      "on": ["だん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Words (言) on the left. On the right, fire on top of fire (火 + 火). Friends sit around a big campfire at night and talk and talk.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் நெருப்பின் மேல் நெருப்பு (火 + 火). இரவில் பெரிய தீ மூட்டி அதைச் சுற்றி நண்பர்கள் உட்கார்ந்து பேசிக்கொண்டே இருக்கிறார்கள்."
+      },
+      "note": {
+        "en": "談 is always だん (voiced). In 相談 it is そうだん, not そうたん.",
+        "ta": "談 எப்போதும் だん (ஒலிப்புடன்). 相談-இல் そうだん; そうたん அல்ல."
+      },
+      "examples": [
+        { "word": "相談", "reading": "そうだん", "en": "consultation; talking something over", "ta": "ஆலோசனை; கலந்து பேசுதல்", "vocabId": "n4-v-629" },
+        { "word": "面談", "reading": "めんだん", "en": "face-to-face meeting", "ta": "நேருக்கு நேர் சந்திப்பு" },
+        { "word": "会談", "reading": "かいだん", "en": "talks, conference", "ta": "பேச்சுவார்த்தை, மாநாடு" }
+      ]
+    },
+    {
+      "kanji": "流",
+      "meaning": { "en": "to flow; style", "ta": "ஓடு (நீர் போல); பாணி" },
+      "on": ["りゅう"],
+      "kun": ["なが.れる", "なが.す"],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, a newborn baby upside down (亠 + ム) with three lines of long hair below (like 川). The baby’s hair flows in the river current.",
+        "ta": "இடப்பக்கம் தண்ணீர் (氵). வலப்பக்கம் தலைகீழாகப் பிறக்கும் ஒரு குழந்தை (亠 + ム); அதன் கீழே மூன்று நீண்ட முடிக் கோடுகள் (川 போல). ஆற்றின் ஓட்டத்தில் குழந்தையின் முடி அலை அலையாக ஓடுகிறது."
+      },
+      "note": {
+        "en": "流れる = to flow (by itself); 流す = to let flow, to flush. Special: 流行る (はやる, to be popular). 流行 is りゅうこう.",
+        "ta": "流れる = (தானே) ஓடு; 流す = ஓடவிடு, கழுவிவிடு. சிறப்பு: 流行る (はやる, பிரபலமாகு). 流行 = りゅうこう."
+      },
+      "examples": [
+        { "word": "流れる", "reading": "ながれる", "en": "to flow", "ta": "ஓடு (நீர் போல)", "vocabId": "n3-v-1654" },
+        { "word": "流す", "reading": "ながす", "en": "to let flow, to flush", "ta": "ஓடவிடு, கழுவிவிடு", "vocabId": "n3-v-1646" },
+        { "word": "流行", "reading": "りゅうこう", "en": "fashion, trend", "ta": "நாகரிகம், பிரபலப் போக்கு", "vocabId": "n3-v-1168" },
+        { "word": "一流", "reading": "いちりゅう", "en": "first-class, top", "ta": "முதல் தரம்" }
+      ]
+    },
+    {
+      "kanji": "局",
+      "meaning": { "en": "office, station (TV, post)", "ta": "அலுவலகம், நிலையம் (தொலைக்காட்சி, அஞ்சல்)" },
+      "on": ["きょく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A flag (尸) hangs over a small booth. Inside the booth is a mouth (口) that talks all day on the phone. It is an office, like a TV station or a post office.",
+        "ta": "ஒரு சிறிய அறையின் மேல் ஒரு கொடி (尸) தொங்குகிறது. அறைக்குள் நாள் முழுதும் தொலைபேசியில் பேசும் ஒரு வாய் (口). இது ஓர் அலுவலகம்: தொலைக்காட்சி நிலையம் அல்லது அஞ்சல் அலுவலகம் போல."
+      },
+      "note": {
+        "en": "In 薬局 (pharmacy) the sound becomes やっきょく, with a small っ. 結局 (けっきょく) means “after all”.",
+        "ta": "薬局 (மருந்தகம்)-இல் ஒலி சிறிய っ உடன் やっきょく ஆகிறது. 結局 (けっきょく) = “கடைசியில்”."
+      },
+      "examples": [
+        { "word": "局", "reading": "きょく", "en": "office, bureau; (TV or radio) station", "ta": "அலுவலகம்; (தொலைக்காட்சி, வானொலி) நிலையம்", "vocabId": "n3-v-0758" },
+        { "word": "テレビ局", "reading": "テレビきょく", "en": "TV station", "ta": "தொலைக்காட்சி நிலையம்" },
+        { "word": "薬局", "reading": "やっきょく", "en": "pharmacy", "ta": "மருந்தகம்" }
+      ]
+    },
+    {
+      "kanji": "放",
+      "meaning": { "en": "to set free, to let go", "ta": "விடுவி, விட்டுவிடு" },
+      "on": ["ほう"],
+      "kun": ["はな.す"],
+      "mnemonic": {
+        "en": "Direction (方) on the left. On the right, a hand with a stick (攵) gives a little tap. You point the way and tap the cage: the bird flies free!",
+        "ta": "இடப்பக்கம் திசை (方). வலப்பக்கம் கம்பு பிடித்த கை (攵) மெதுவாகத் தட்டுகிறது. வழியைக் காட்டி கூண்டைத் தட்டுகிறீர்கள்: பறவை சுதந்திரமாகப் பறக்கிறது!"
+      },
+      "note": {
+        "en": "放す (はなす, let go) sounds like 話す (to speak). The kanji shows which one: 放 has 方, 話 has 言.",
+        "ta": "放す (はなす, விட்டுவிடு), 話す (பேசு) இரண்டும் ஒரே ஒலி. கான்ஜி வேறுபாட்டைக் காட்டும்: 放-இல் 方; 話-இல் 言."
+      },
+      "examples": [
+        { "word": "放送", "reading": "ほうそう", "en": "broadcast", "ta": "ஒலி/ஒளிபரப்பு", "vocabId": "n4-v-465" },
+        { "word": "放す", "reading": "はなす", "en": "to let go, to set free", "ta": "விட்டுவிடு, விடுவி", "vocabId": "n3-v-1787" },
+        { "word": "手放す", "reading": "てばなす", "en": "to part with, to give up", "ta": "கைவிடு, கொடுத்துவிடு" }
+      ]
+    },
+    {
+      "kanji": "球",
+      "meaning": { "en": "ball, sphere", "ta": "பந்து, கோளம்" },
+      "on": ["きゅう"],
+      "kun": ["たま"],
+      "mnemonic": {
+        "en": "The left side looks like 王 (king), but here it means a jewel (玉). On the right is 求 (to want). A round jewel that everyone wants to catch: a ball!",
+        "ta": "இடப்பக்கம் 王 (அரசன்) போலத் தெரியும்; ஆனால் இங்கே அது ரத்தினம் (玉). வலப்பக்கம் 求 (விரும்பு). எல்லோரும் பிடிக்க விரும்பும் உருண்டையான ரத்தினம்: பந்து!"
+      },
+      "note": {
+        "en": "地球 (ちきゅう) is the Earth, the big ball we live on. Short ち, long きゅう.",
+        "ta": "地球 (ちきゅう) = நாம் வாழும் பெரிய பந்து, பூமி. குறுகிய ち, நீண்ட きゅう."
+      },
+      "examples": [
+        { "word": "地球", "reading": "ちきゅう", "en": "the Earth", "ta": "பூமி", "vocabId": "n3-v-1461" },
+        { "word": "野球", "reading": "やきゅう", "en": "baseball", "ta": "பேஸ்பால்" },
+        { "word": "球", "reading": "たま", "en": "ball", "ta": "பந்து", "vocabId": "n3-v-1427" },
+        { "word": "電球", "reading": "でんきゅう", "en": "light bulb", "ta": "மின்விளக்குக் குமிழ்" }
+      ]
+    },
+    {
+      "kanji": "役",
+      "meaning": { "en": "role, duty; use", "ta": "பங்கு, கடமை; பயன்" },
+      "on": ["やく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left, 彳 is a person walking. On the right, a hand holds a stick (殳). A guard walks his round with a stick in his hand. That is his duty, his role.",
+        "ta": "இடப்பக்கம் 彳 = நடந்து செல்லும் ஒருவர். வலப்பக்கம் ஒரு கை கம்பைப் பிடித்திருக்கிறது (殳). கையில் கம்புடன் காவலர் சுற்றி வருகிறார். அதுதான் அவரது கடமை, அவரது பங்கு."
+      },
+      "note": {
+        "en": "役に立つ (やくに たつ) = to be useful. Don’t mix up 役 with 投 (throw), which has a hand 扌 on the left.",
+        "ta": "役に立つ (やくに たつ) = பயனுள்ளதாக இரு. இடப்பக்கம் கை 扌 உள்ள 投 (எறி) உடன் 役-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "役に立つ", "reading": "やくにたつ", "en": "to be useful", "ta": "பயனுள்ளதாக இரு", "vocabId": "n4-v-609" },
+        { "word": "役", "reading": "やく", "en": "role, position", "ta": "பங்கு, பதவி", "vocabId": "n3-v-1089" },
+        { "word": "市役所", "reading": "しやくしょ", "en": "city hall", "ta": "நகராட்சி அலுவலகம்" },
+        { "word": "主役", "reading": "しゅやく", "en": "leading role", "ta": "முக்கியக் கதாபாத்திரம்" }
+      ]
+    },
+    {
+      "kanji": "由",
+      "meaning": { "en": "reason, cause", "ta": "காரணம்" },
+      "on": ["ゆう", "ゆ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A rice field (田) with a sprout poking out of the top. Why did it come up? There is a reason: a seed is under the field.",
+        "ta": "மேலே ஒரு முளை வெளியே நீட்டும் வயல் (田). அது ஏன் வந்தது? ஒரு காரணம் உண்டு: வயலுக்குள் ஒரு விதை இருக்கிறது."
+      },
+      "note": {
+        "en": "Compare: 田 (field, no line out), 由 (line out on top), 申 (line out top and bottom, Unit 7). 理由 is りゆう, not りよう (利用, use).",
+        "ta": "ஒப்பிடுங்கள்: 田 (வயல், கோடு வெளியே இல்லை), 由 (மேலே கோடு வெளியே), 申 (மேலும் கீழும் கோடு, பிரிவு 7). 理由 = りゆう; りよう (利用, பயன்பாடு) அல்ல."
+      },
+      "examples": [
+        { "word": "理由", "reading": "りゆう", "en": "reason", "ta": "காரணம்", "vocabId": "n4-v-355" },
+        { "word": "自由", "reading": "じゆう", "en": "freedom; free", "ta": "சுதந்திரம்; சுதந்திரமான", "vocabId": "n4-v-572" },
+        { "word": "不自由", "reading": "ふじゆう", "en": "inconvenience; disability", "ta": "அசௌகரியம்; ஊனம்", "vocabId": "n3-v-1874" },
+        { "word": "経由", "reading": "けいゆ", "en": "via, by way of", "ta": "வழியாக", "vocabId": "n3-v-0834" }
+      ]
+    },
+    {
+      "kanji": "消",
+      "meaning": { "en": "to turn off, to erase; to disappear", "ta": "அணை, அழி; மறை" },
+      "on": ["しょう"],
+      "kun": ["き.える", "け.す"],
+      "mnemonic": {
+        "en": "Water (氵) is poured on a small (小) moon-shaped (月) flame. Shhh... the fire goes out and disappears.",
+        "ta": "சிறிய (小) நிலா வடிவ (月) தீச்சுடர் மேல் தண்ணீர் (氵) ஊற்றப்படுகிறது. ஷ்ஷ்... தீ அணைந்து மறைகிறது."
+      },
+      "note": {
+        "en": "消える (きえる) = to go out, to disappear (by itself). 消す (けす) = to turn off, to erase (something). けして is not けっして (決して, never).",
+        "ta": "消える (きえる) = (தானே) அணை, மறை. 消す (けす) = (ஒன்றை) அணை, அழி. けして, けっして (決して, ஒருபோதும்) அல்ல."
+      },
+      "examples": [
+        { "word": "消す", "reading": "けす", "en": "to turn off; to erase", "ta": "அணை; அழி", "vocabId": "n5-v-236" },
+        { "word": "消える", "reading": "きえる", "en": "to go out; to disappear", "ta": "அணை; மறை", "vocabId": "n5-v-192" },
+        { "word": "消しゴム", "reading": "けしゴム", "en": "eraser", "ta": "அழிப்பான்", "vocabId": "n4-v-281" },
+        { "word": "消費", "reading": "しょうひ", "en": "consumption, using up", "ta": "நுகர்வு, செலவிடுதல்", "vocabId": "n3-v-0153" }
+      ]
+    },
+    {
+      "kanji": "神",
+      "meaning": { "en": "god", "ta": "கடவுள்" },
+      "on": ["しん", "じん"],
+      "kun": ["かみ"],
+      "mnemonic": {
+        "en": "On the left is the altar (礻), the same as in 社 (shrine). On the right, 申: a lightning bolt comes down from the sky through a field. Lightning strikes the altar: a god is here!",
+        "ta": "இடப்பக்கம் பலிபீடம் (礻), 社 (கோயில்)-இல் உள்ள அதே பகுதி. வலப்பக்கம் 申: வானத்திலிருந்து ஒரு மின்னல் வயலைக் கடந்து இறங்குகிறது. பலிபீடத்தில் மின்னல்: கடவுள் வந்துவிட்டார்!"
+      },
+      "note": {
+        "en": "神社 is じんじゃ (both voiced). Alone, 神 is かみ; polite: 神様 (かみさま).",
+        "ta": "神社 = じんじゃ (இரண்டும் ஒலிப்புடன்). தனியாக 神 = かみ; மரியாதையாக: 神様 (かみさま)."
+      },
+      "examples": [
+        { "word": "神", "reading": "かみ", "en": "god", "ta": "கடவுள்", "vocabId": "n3-v-0643" },
+        { "word": "神社", "reading": "じんじゃ", "en": "Shinto shrine", "ta": "ஷிந்தோ கோயில்", "vocabId": "n4-v-659" },
+        { "word": "神様", "reading": "かみさま", "en": "God (polite)", "ta": "கடவுள் (மரியாதையாக)" },
+        { "word": "精神", "reading": "せいしん", "en": "mind, spirit", "ta": "மனம், ஆன்மா", "vocabId": "n3-v-0270" }
+      ]
+    },
+    {
+      "kanji": "配",
+      "meaning": { "en": "to hand out; to worry (in 心配)", "ta": "பகிர்ந்தளி; கவலை (心配-இல்)" },
+      "on": ["はい"],
+      "kun": ["くば.る"],
+      "mnemonic": {
+        "en": "On the left is a big sake jar (酉, the right side of 酒, sake). On the right, a person kneels (己). He kneels and hands out a cup to each guest.",
+        "ta": "இடப்பக்கம் ஒரு பெரிய சாக்கே ஜாடி (酉, 酒 (சாக்கே)-இன் வலப்பகுதி). வலப்பக்கம் மண்டியிட்ட ஒருவர் (己). அவர் மண்டியிட்டு ஒவ்வொரு விருந்தினருக்கும் ஒரு கோப்பையைப் பகிர்ந்தளிக்கிறார்."
+      },
+      "note": {
+        "en": "Learn 心配 (しんぱい, worry) first: your heart (心) is handed out in many directions. 配る (くばる) = to hand out.",
+        "ta": "முதலில் 心配 (しんぱい, கவலை) நினைவில் வையுங்கள்: உங்கள் இதயம் (心) பல பக்கங்களுக்குப் பிரிந்து போகிறது. 配る (くばる) = பகிர்ந்தளி."
+      },
+      "examples": [
+        { "word": "心配", "reading": "しんぱい", "en": "worry", "ta": "கவலை", "vocabId": "n4-v-037" },
+        { "word": "配る", "reading": "くばる", "en": "to hand out", "ta": "பகிர்ந்தளி" },
+        { "word": "配達", "reading": "はいたつ", "en": "delivery", "ta": "விநியோகம், டெலிவரி", "vocabId": "n3-v-1742" }
+      ]
+    },
+    {
+      "kanji": "育",
+      "meaning": { "en": "to raise, to grow up", "ta": "வளர், வளர்த்தெடு" },
+      "on": ["いく"],
+      "kun": ["そだ.つ", "そだ.てる"],
+      "mnemonic": {
+        "en": "The top (亠 + ム) is a baby being born head down. Below is 月, which here means the body. The baby’s body grows bigger and bigger: you raise a child.",
+        "ta": "மேலே (亠 + ム) தலைகீழாகப் பிறக்கும் குழந்தை. கீழே 月, இங்கே உடல் என்று பொருள். குழந்தையின் உடல் பெரிதாகிக்கொண்டே போகிறது: குழந்தையை வளர்க்கிறீர்கள்."
+      },
+      "note": {
+        "en": "The same baby top is in 流 (Unit 6). 育つ (そだつ) = to grow up (by itself); 育てる (そだてる) = to raise.",
+        "ta": "இதே குழந்தைப் பகுதி 流-இலும் உண்டு. 育つ (そだつ) = (தானே) வளர்; 育てる (そだてる) = வளர்த்தெடு."
+      },
+      "examples": [
+        { "word": "育てる", "reading": "そだてる", "en": "to raise, to bring up", "ta": "வளர்த்தெடு", "vocabId": "n4-v-286" },
+        { "word": "育つ", "reading": "そだつ", "en": "to grow up", "ta": "வளர்", "vocabId": "n3-v-1329" },
+        { "word": "教育", "reading": "きょういく", "en": "education", "ta": "கல்வி", "vocabId": "n4-v-366" },
+        { "word": "体育", "reading": "たいいく", "en": "physical education (PE)", "ta": "உடற்கல்வி", "vocabId": "n3-v-1357" }
+      ]
+    },
+    {
+      "kanji": "乗",
+      "meaning": { "en": "to ride, to get on", "ta": "ஏறு, பயணம் செய்" },
+      "on": ["じょう"],
+      "kun": ["の.る", "の.せる"],
+      "mnemonic": {
+        "en": "At the bottom is a tree (木). In the middle are two people back to back, like 北. They have climbed up and ride on top of the tree, like children on an elephant’s back.",
+        "ta": "கீழே ஒரு மரம் (木). நடுவில் 北 போல முதுகோடு முதுகாக இரண்டு பேர். அவர்கள் மேலே ஏறி மரத்தின் உச்சியில் சவாரி செய்கிறார்கள், யானை முதுகில் உட்கார்ந்த குழந்தைகள் போல."
+      },
+      "note": {
+        "en": "乗る takes に: 電車に のる. 乗せる (のせる) = to give someone a ride, to put on. 乗り換える = to change trains.",
+        "ta": "乗る-உடன் に வரும்: 電車に のる. 乗せる (のせる) = ஒருவரை ஏற்றிச் செல், மேலே வை. 乗り換える = ரயில் மாறு."
+      },
+      "examples": [
+        { "word": "乗る", "reading": "のる", "en": "to ride, to get on", "ta": "ஏறு, பயணம் செய்", "vocabId": "n5-v-516" },
+        { "word": "乗り物", "reading": "のりもの", "en": "vehicle", "ta": "வாகனம்", "vocabId": "n4-v-289" },
+        { "word": "乗せる", "reading": "のせる", "en": "to give a ride; to put on", "ta": "ஏற்றிச் செல்; மேலே வை", "vocabId": "n3-v-1718" },
+        { "word": "乗客", "reading": "じょうきゃく", "en": "passenger", "ta": "பயணி", "vocabId": "n3-v-0133" }
+      ]
+    },
+    {
+      "kanji": "想",
+      "meaning": { "en": "idea; to imagine", "ta": "எண்ணம்; கற்பனை செய்" },
+      "on": ["そう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 相 (a tree 木 and an eye 目). Below is a heart (心). You look at a tree, and in your heart a picture comes: an idea, a dream.",
+        "ta": "மேலே 相 (மரம் 木, கண் 目). கீழே இதயம் (心). நீங்கள் ஒரு மரத்தைப் பார்க்கிறீர்கள்; உங்கள் இதயத்தில் ஒரு படம் தோன்றுகிறது: ஒரு எண்ணம், ஒரு கனவு."
+      },
+      "note": {
+        "en": "相 and 想 are both そう. Add the heart for thinking. Compare 思 (おもう): a field 田 on a heart.",
+        "ta": "相, 想 இரண்டும் そう. சிந்தனைக்கு இதயத்தைச் சேர்க்கவும். ஒப்பிடுங்கள் 思 (おもう): இதயத்தின் மேல் வயல் 田."
+      },
+      "examples": [
+        { "word": "予想", "reading": "よそう", "en": "expectation, guess", "ta": "எதிர்பார்ப்பு, ஊகம்", "vocabId": "n3-v-2134" },
+        { "word": "感想", "reading": "かんそう", "en": "impressions, thoughts", "ta": "கருத்து, எண்ணம்", "vocabId": "n3-v-0684" },
+        { "word": "理想", "reading": "りそう", "en": "ideal", "ta": "இலட்சியம்", "vocabId": "n3-v-1165" },
+        { "word": "思想", "reading": "しそう", "en": "thought, ideas (philosophy)", "ta": "சிந்தனை, கொள்கை", "vocabId": "n3-v-0044" }
+      ]
+    },
+    {
+      "kanji": "助",
+      "meaning": { "en": "to help", "ta": "உதவு" },
+      "on": ["じょ"],
+      "kun": ["たす.ける", "たす.かる"],
+      "mnemonic": {
+        "en": "On the left is a pile of heavy boxes (且). On the right is power (力). You use your power to lift the heavy boxes for someone. You help!",
+        "ta": "இடப்பக்கம் கனமான பெட்டிகளின் அடுக்கு (且). வலப்பக்கம் வலிமை (力). ஒருவருக்காக உங்கள் வலிமையால் கனமான பெட்டிகளைத் தூக்குகிறீர்கள். உதவுகிறீர்கள்!"
+      },
+      "note": {
+        "en": "助ける (たすける) = to help someone; 助かる (たすかる) = to be saved, “that’s a big help!”. Don’t mix up 助 with 動 (move), which also has 力.",
+        "ta": "助ける (たすける) = ஒருவருக்கு உதவு; 助かる (たすかる) = காப்பாற்றப்படு, “பெரிய உதவி!”. 力 உள்ள 動 (நகர்) உடன் 助-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "助ける", "reading": "たすける", "en": "to help, to save", "ta": "உதவு, காப்பாற்று", "vocabId": "n3-v-1400" },
+        { "word": "助かる", "reading": "たすかる", "en": "to be saved; to be a help", "ta": "காப்பாற்றப்படு; உதவியாக இரு", "vocabId": "n3-v-1399" },
+        { "word": "助手", "reading": "じょしゅ", "en": "assistant", "ta": "உதவியாளர்", "vocabId": "n3-v-0172" },
+        { "word": "手助け", "reading": "てだすけ", "en": "help, a helping hand", "ta": "உதவிக்கரம்" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU6-q01",
+        "type": "kanji_reading",
+        "sentence": "先生に しょうらいの ことを ＿相談＿しました。",
+        "target": "相談",
+        "options": ["そうたん", "そだん", "そうだん", "しょうだん"],
+        "answer": 2,
+        "explanation_en": "相談 is そうだん (ஆலோசனை, consultation). 談 is voiced だん, so そうたん is wrong. そだん has a short vowel.",
+        "explanation_ta": "相談 = そうだん (ஆலோசனை, consultation). 談 ஒலிப்புடன் だん; அதனால் そうたん தவறு. そだん-இல் குறுகிய ஒலி."
+      },
+      {
+        "id": "KU6-q02",
+        "type": "kanji_reading",
+        "sentence": "この 川は 町の 中を ＿流れて＿ います。",
+        "target": "流れて",
+        "options": ["ながれて", "なかれて", "りゅうれて", "はなれて"],
+        "answer": 0,
+        "explanation_en": "流れて is ながれて (ஓடுகிறது, flowing), from 流れる. なかれて is wrongly unvoiced. りゅう is the on reading. はなれて is 放れて/離れて (to leave).",
+        "explanation_ta": "流れて = ながれて (ஓடுகிறது, flowing); 流れる-இலிருந்து. なかれて-இல் ஒலிப்பு இல்லாதது தவறு. りゅう ஆன் வாசிப்பு. はなれて = 放れて/離れて (விலகு)."
+      },
+      {
+        "id": "KU6-q03",
+        "type": "kanji_reading",
+        "sentence": "姉は テレビ＿局＿で はたらいて います。",
+        "target": "局",
+        "options": ["きょう", "ぎょく", "こく", "きょく"],
+        "answer": 3,
+        "explanation_en": "局 is きょく (நிலையம், station). きょう has no く at the end, ぎょく is wrongly voiced, and こく is the reading of 国.",
+        "explanation_ta": "局 = きょく (நிலையம், station). きょう-இல் கடைசி く இல்லை; ぎょく-இல் தவறான ஒலிப்பு; こく 国-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU6-q04",
+        "type": "kanji_reading",
+        "sentence": "この ニュースは 九時に ＿放送＿されます。",
+        "target": "放送",
+        "options": ["ほうそ", "ほうそう", "ほそう", "ぼうそう"],
+        "answer": 1,
+        "explanation_en": "放送 is ほうそう (ஒலிபரப்பு, broadcast): both parts are long. ほうそ and ほそう drop a long vowel, and ぼう is wrongly voiced.",
+        "explanation_ta": "放送 = ほうそう (ஒலிபரப்பு, broadcast): இரண்டு பகுதியும் நீண்ட ஒலி. ほうそ, ほそう இரண்டிலும் ஒரு நீண்ட ஒலி இல்லை; ぼう-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU6-q05",
+        "type": "kanji_reading",
+        "sentence": "みんなで ＿地球＿を 大切に しましょう。",
+        "target": "地球",
+        "options": ["ちきゅ", "じきゅう", "ちきゅう", "ちっきゅう"],
+        "answer": 2,
+        "explanation_en": "地球 is ちきゅう (பூமி, the Earth). きゅう is long, ち is not voiced (じ), and there is no small っ.",
+        "explanation_ta": "地球 = ちきゅう (பூமி, the Earth). きゅう நீண்ட ஒலி; ち ஒலிப்புடன் (じ) அல்ல; சிறிய っ இல்லை."
+      },
+      {
+        "id": "KU6-q06",
+        "type": "kanji_reading",
+        "sentence": "休んだ ＿理由＿を 話して ください。",
+        "target": "理由",
+        "options": ["りゆう", "りゅう", "りよう", "りゆ"],
+        "answer": 0,
+        "explanation_en": "理由 is りゆう (காரணம், reason): り + ゆう. りゅう uses a small ゅ, and りよう is 利用 (use).",
+        "explanation_ta": "理由 = りゆう (காரணம், reason): り + ゆう. りゅう-இல் சிறிய ゅ; りよう = 利用 (பயன்பாடு)."
+      },
+      {
+        "id": "KU6-q07",
+        "type": "kanji_reading",
+        "sentence": "部屋を 出る ときは 電気を ＿消して＿ ください。",
+        "target": "消して",
+        "options": ["きえして", "しょうして", "けっして", "けして"],
+        "answer": 3,
+        "explanation_en": "消して is けして (அணைத்து, turn off), from 消す. けっして (決して) means “never”. きえ is from 消える, which has no して form like this.",
+        "explanation_ta": "消して = けして (அணைத்து, turn off); 消す-இலிருந்து. けっして (決して) = “ஒருபோதும்”. きえ என்பது 消える-இலிருந்து; இப்படி して வடிவம் இல்லை."
+      },
+      {
+        "id": "KU6-q08",
+        "type": "kanji_reading",
+        "sentence": "お正月に 家族で ＿神社＿へ 行きました。",
+        "target": "神社",
+        "options": ["しんじゃ", "じんじゃ", "かみしゃ", "じんしゃ"],
+        "answer": 1,
+        "explanation_en": "神社 is じんじゃ (ஷிந்தோ கோயில், shrine): both parts are voiced. かみ is the kun reading of 神, not used here.",
+        "explanation_ta": "神社 = じんじゃ (ஷிந்தோ கோயில், shrine): இரண்டு பகுதியும் ஒலிப்புடன். かみ 神-இன் குன் வாசிப்பு; இங்கே பயன்படாது."
+      },
+      {
+        "id": "KU6-q09",
+        "type": "kanji_reading",
+        "sentence": "日本の ＿教育＿に ついて 研究して います。",
+        "target": "教育",
+        "options": ["きょういく", "きょいく", "きょうそだ", "きょういき"],
+        "answer": 0,
+        "explanation_en": "教育 is きょういく (கல்வி, education). きょ is too short, そだ is from the kun reading 育てる, and いき is wrong.",
+        "explanation_ta": "教育 = きょういく (கல்வி, education). きょ மிகக் குறுகியது; そだ என்பது 育てる என்ற குன் வாசிப்பிலிருந்து; いき தவறு."
+      },
+      {
+        "id": "KU6-q10",
+        "type": "kanji_reading",
+        "sentence": "電車や バスなどの ＿乗り物＿に よく 乗ります。",
+        "target": "乗り物",
+        "options": ["じょうもの", "のりもの", "のりぶつ", "のりもん"],
+        "answer": 1,
+        "explanation_en": "乗り物 is のりもの (வாகனம், vehicle). Both parts use kun readings: の(る) + もの. じょう is the on reading of 乗, and ぶつ is the on reading of 物.",
+        "explanation_ta": "乗り物 = のりもの (வாகனம், vehicle). இரண்டும் குன் வாசிப்பு: の(る) + もの. じょう 乗-இன் ஆன் வாசிப்பு; ぶつ 物-இன் ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU6-q11",
+        "type": "orthography",
+        "sentence": "川で おぼれて いる 犬を ＿たすけて＿ あげました。",
+        "target": "たすけて",
+        "options": ["動けて", "功けて", "肋けて", "助けて"],
+        "answer": 3,
+        "explanation_en": "たすける (உதவு, to help) is written 助ける: boxes (且) + power (力). 動 also has 力, but it means “to move”.",
+        "explanation_ta": "たすける (உதவு, to help) = 助ける: பெட்டிகள் (且) + வலிமை (力). 動-இலும் 力 உண்டு; ஆனால் அது “நகர்”."
+      },
+      {
+        "id": "KU6-q12",
+        "type": "orthography",
+        "sentence": "母は にわで 花を ＿そだてて＿ います。",
+        "target": "そだてて",
+        "options": ["有てて", "肯てて", "育てて", "背てて"],
+        "answer": 2,
+        "explanation_en": "そだてる (வளர்த்தெடு, to raise) is written 育てる: a baby on top (亠 + ム) + body (月). 有 and 背 also have 月 but a different top.",
+        "explanation_ta": "そだてる (வளர்த்தெடு, to raise) = 育てる: மேலே குழந்தை (亠 + ム) + உடல் (月). 有, 背 இரண்டிலும் 月 உண்டு; ஆனால் மேல்பகுதி வேறு."
+      },
+      {
+        "id": "KU6-q13",
+        "type": "orthography",
+        "sentence": "先生が テストを ＿くばって＿ います。",
+        "target": "くばって",
+        "options": ["酒って", "配って", "記って", "酉って"],
+        "answer": 1,
+        "explanation_en": "くばる (பகிர்ந்தளி, to hand out) is written 配る: a sake jar (酉) + a kneeling person (己). 記 has 言 on the left instead.",
+        "explanation_ta": "くばる (பகிர்ந்தளி, to hand out) = 配る: சாக்கே ஜாடி (酉) + மண்டியிட்டவர் (己). 記-இல் இடப்பக்கம் 言."
+      },
+      {
+        "id": "KU6-q14",
+        "type": "orthography",
+        "sentence": "この 本の 感＿そう＿を 聞かせて ください。",
+        "target": "そう",
+        "options": ["想", "思", "相", "箱"],
+        "answer": 0,
+        "explanation_en": "かんそう (கருத்து, impressions) is 感想, with 想 (相 on a heart 心). 相 is also そう but has no heart, and 思 is read し or おも.",
+        "explanation_ta": "かんそう (கருத்து, impressions) = 感想; 想 = இதயத்தின் (心) மேல் 相. 相-உம் そう; ஆனால் இதயம் இல்லை. 思 = し அல்லது おも."
+      },
+      {
+        "id": "KU6-q15",
+        "type": "orthography",
+        "sentence": "日曜日は ＿じゆう＿な 時間が 多いです。",
+        "target": "じゆう",
+        "options": ["自田", "自申", "自由", "目由"],
+        "answer": 2,
+        "explanation_en": "じゆう (சுதந்திரம், freedom) is written 自由. 由 is a field with a line out on top; 田 has no line out, and 申 has lines out at both ends.",
+        "explanation_ta": "じゆう (சுதந்திரம், freedom) = 自由. 由 = மேலே கோடு வெளியே நீட்டும் வயல்; 田-இல் கோடு வெளியே இல்லை; 申-இல் இரு முனைகளிலும் கோடு."
+      },
+      {
+        "id": "KU6-q16",
+        "type": "orthography",
+        "sentence": "この 本は とても ＿やく＿に 立ちました。",
+        "target": "やく",
+        "options": ["投", "約", "設", "役"],
+        "answer": 3,
+        "explanation_en": "やくに たつ (பயனுள்ளதாக இரு, to be useful) uses 役. 約 is also read やく but means “about, promise”. 投 has 扌 instead of 彳.",
+        "explanation_ta": "やくに たつ (பயனுள்ளதாக இரு, to be useful) = 役. 約-உம் やく; ஆனால் “சுமார், வாக்குறுதி”. 投-இல் 彳-க்குப் பதில் 扌."
+      }
+    ]
+  }
+}

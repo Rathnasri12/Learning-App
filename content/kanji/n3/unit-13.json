@@ -1,0 +1,957 @@
+{
+  "unit": 13,
+  "title": {
+    "en": "Work and feelings",
+    "ta": "வேலையும் உணர்வுகளும்"
+  },
+  "intro": {
+    "en": "In this unit you learn 14 kanji. Some are about work and life, like 働 (work), 労 (labour) and 席 (seat). Others help you talk about feelings and ideas: 念, 好, 失 and 例. Tip: many of these kanji are built from parts you already know, like 働 = 亻 + 動.",
+    "ta": "இந்தப் பாடத்தில் 14 கான்ஜிகளைக் கற்கிறீர்கள். சில வேலை, வாழ்க்கை பற்றியவை: 働 (வேலை செய்), 労 (உழைப்பு), 席 (இருக்கை). மற்றவை உணர்வுகளையும் எண்ணங்களையும் சொல்ல உதவும்: 念, 好, 失, 例. குறிப்பு: இவற்றில் பல கான்ஜிகள் நீங்கள் ஏற்கனவே அறிந்த பகுதிகளால் ஆனவை, உதாரணமாக 働 = 亻 + 動."
+  },
+  "kanji": [
+    {
+      "kanji": "席",
+      "meaning": {
+        "en": "seat",
+        "ta": "இருக்கை"
+      },
+      "on": [
+        "せき"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a roof 广, like in 店 (shop). Under it is a bench (廿) with a cloth (巾, from 市) spread on it. In a wedding hall, guests sit on these cloth-covered benches: seats.",
+        "ta": "மேலே 广 என்ற கூரை, 店 (கடை)-இல் உள்ளது போல. அதன் கீழ் ஒரு பெஞ்சு (廿), அதன் மேல் விரித்த துணி (巾, 市-இல் பார்த்தது). கல்யாண மண்டபத்தில் விருந்தினர் உட்காரும் துணி போட்ட பெஞ்சுகள்: இருக்கைகள்."
+      },
+      "note": {
+        "en": "出席 (しゅっせき, attend) and 欠席 (けっせき, be absent) both have a small っ.",
+        "ta": "出席 (しゅっせき, வருகை), 欠席 (けっせき, வராமை) இரண்டிலும் சிறிய っ உண்டு."
+      },
+      "examples": [
+        {
+          "word": "席",
+          "reading": "せき",
+          "en": "seat",
+          "ta": "இருக்கை",
+          "vocabId": "n4-v-503"
+        },
+        {
+          "word": "出席",
+          "reading": "しゅっせき",
+          "en": "attendance, attending",
+          "ta": "வருகை, கலந்துகொள்ளுதல்",
+          "vocabId": "n4-v-121"
+        },
+        {
+          "word": "欠席",
+          "reading": "けっせき",
+          "en": "absence",
+          "ta": "வராமை, வருகையின்மை",
+          "vocabId": "n3-v-0846"
+        },
+        {
+          "word": "座席",
+          "reading": "ざせき",
+          "en": "seat (in a bus, theatre)",
+          "ta": "இருக்கை (பேருந்து, அரங்கம்)",
+          "vocabId": "n3-v-0990"
+        }
+      ]
+    },
+    {
+      "kanji": "残",
+      "meaning": {
+        "en": "remain, be left",
+        "ta": "மீதம், எஞ்சு"
+      },
+      "on": [
+        "ざん"
+      ],
+      "kun": [
+        "のこ.る",
+        "のこ.す"
+      ],
+      "mnemonic": {
+        "en": "On the left is 歹, the bone part of 死 (death). On the right are two spear shapes. After the battle, only bones and broken spears remain on the field.",
+        "ta": "இடப்பக்கம் 歹: 死 (மரணம்)-இல் உள்ள எலும்புப் பகுதி. வலப்பக்கம் இரண்டு ஈட்டி வடிவங்கள். போர் முடிந்த பிறகு, களத்தில் எலும்புகளும் உடைந்த ஈட்டிகளும் மட்டுமே மீதம் இருக்கின்றன."
+      },
+      "note": {
+        "en": "残念 (ざんねん) is how you say “What a pity”. 残る = to be left; 残す = to leave something.",
+        "ta": "残念 (ざんねん) = “அடடா, வருத்தம்” என்று சொல்ல. 残る = தானாக மீதம் இருத்தல்; 残す = ஒன்றை மீதம் வைத்தல்."
+      },
+      "examples": [
+        {
+          "word": "残る",
+          "reading": "のこる",
+          "en": "to remain, to be left",
+          "ta": "மீதம் இருக்க",
+          "vocabId": "n4-v-229"
+        },
+        {
+          "word": "残す",
+          "reading": "のこす",
+          "en": "to leave (behind)",
+          "ta": "மீதம் வைக்க, விட்டுச் செல்ல",
+          "vocabId": "n3-v-1716"
+        },
+        {
+          "word": "残り",
+          "reading": "のこり",
+          "en": "the rest, leftover",
+          "ta": "மீதி",
+          "vocabId": "n3-v-1717"
+        },
+        {
+          "word": "残念",
+          "reading": "ざんねん",
+          "en": "a pity, regret",
+          "ta": "வருத்தம், அடடா",
+          "vocabId": "n4-v-135"
+        }
+      ]
+    },
+    {
+      "kanji": "念",
+      "meaning": {
+        "en": "thought, wish",
+        "ta": "எண்ணம், விருப்பம்"
+      },
+      "on": [
+        "ねん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 今 (now). Under it is 心 (heart). What is in your heart right now? A strong thought or wish.",
+        "ta": "மேலே 今 (இப்போது). கீழே 心 (இதயம்). இப்போது உங்கள் இதயத்தில் இருப்பது என்ன? ஒரு வலுவான எண்ணம், ஒரு விருப்பம்."
+      },
+      "note": {
+        "en": "Don’t mix up 念 and 今: 念 has the heart 心 under it.",
+        "ta": "念-ஐயும் 今-ஐயும் குழப்ப வேண்டாம்: 念-இன் கீழே இதயம் 心 உண்டு."
+      },
+      "examples": [
+        {
+          "word": "残念",
+          "reading": "ざんねん",
+          "en": "a pity, regret",
+          "ta": "வருத்தம், அடடா",
+          "vocabId": "n4-v-135"
+        },
+        {
+          "word": "記念",
+          "reading": "きねん",
+          "en": "commemoration, memory",
+          "ta": "நினைவு, நினைவுச் சின்னம்",
+          "vocabId": "n3-v-0719"
+        },
+        {
+          "word": "記念日",
+          "reading": "きねんび",
+          "en": "anniversary, memorial day",
+          "ta": "நினைவு நாள், ஆண்டு விழா நாள்"
+        },
+        {
+          "word": "記念写真",
+          "reading": "きねんしゃしん",
+          "en": "souvenir photo",
+          "ta": "நினைவுப் புகைப்படம்"
+        }
+      ]
+    },
+    {
+      "kanji": "労",
+      "meaning": {
+        "en": "labour, toil",
+        "ta": "உழைப்பு"
+      },
+      "on": [
+        "ろう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Look at 学 (study). Keep the top: three little drops (⺍) and a roof (冖). Under it, put 力 (power) instead of the child 子. Sweat drops fly while you use all your power: hard work.",
+        "ta": "学 (படிப்பு)-ஐப் பாருங்கள். மேல் பகுதி அப்படியே: மூன்று சின்னத் துளிகள் (⺍), ஒரு கூரை (冖). கீழே குழந்தை 子-க்குப் பதில் 力 (சக்தி). முழு சக்தியையும் போட்டு வேலை செய்யும்போது வியர்வைத் துளிகள் தெறிக்கின்றன: கடும் உழைப்பு."
+      },
+      "note": {
+        "en": "ご苦労さま (ごくろうさま) means “Thank you for your hard work”.",
+        "ta": "ご苦労さま (ごくろうさま) = “உங்கள் உழைப்புக்கு நன்றி”."
+      },
+      "examples": [
+        {
+          "word": "苦労",
+          "reading": "くろう",
+          "en": "hardship, trouble",
+          "ta": "கஷ்டம், சிரமம்",
+          "vocabId": "n3-v-0812"
+        },
+        {
+          "word": "労働",
+          "reading": "ろうどう",
+          "en": "labour, work",
+          "ta": "உழைப்பு, வேலை",
+          "vocabId": "n3-v-1184"
+        },
+        {
+          "word": "労働者",
+          "reading": "ろうどうしゃ",
+          "en": "worker, labourer",
+          "ta": "தொழிலாளி"
+        },
+        {
+          "word": "ご苦労さま",
+          "reading": "ごくろうさま",
+          "en": "thank you for your hard work",
+          "ta": "உங்கள் உழைப்புக்கு நன்றி"
+        }
+      ]
+    },
+    {
+      "kanji": "例",
+      "meaning": {
+        "en": "example",
+        "ta": "உதாரணம்"
+      },
+      "on": [
+        "れい"
+      ],
+      "kun": [
+        "たと.える"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a row (列) of things. The person points at one and says: “This one, for example.”",
+        "ta": "ஒருவர் (亻) பொருட்களின் ஒரு வரிசைக்கு (列) அருகில் நிற்கிறார். அதில் ஒன்றைக் காட்டி, “உதாரணமாக, இது” என்கிறார்."
+      },
+      "note": {
+        "en": "例えば is read たとえば, not れいえば.",
+        "ta": "例えば = たとえば; れいえば அல்ல."
+      },
+      "examples": [
+        {
+          "word": "例",
+          "reading": "れい",
+          "en": "example",
+          "ta": "உதாரணம்",
+          "vocabId": "n3-v-1173"
+        },
+        {
+          "word": "例えば",
+          "reading": "たとえば",
+          "en": "for example",
+          "ta": "உதாரணமாக",
+          "vocabId": "n4-v-384"
+        },
+        {
+          "word": "例外",
+          "reading": "れいがい",
+          "en": "exception",
+          "ta": "விதிவிலக்கு",
+          "vocabId": "n3-v-1175"
+        },
+        {
+          "word": "例文",
+          "reading": "れいぶん",
+          "en": "example sentence",
+          "ta": "உதாரண வாக்கியம்"
+        }
+      ]
+    },
+    {
+      "kanji": "然",
+      "meaning": {
+        "en": "so; nature",
+        "ta": "இயல்பு, அப்படி"
+      },
+      "on": [
+        "ぜん",
+        "ねん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Top left is a piece of meat (the 夕-like part). Top right is a dog (犬). At the bottom are four dots of fire (灬). Meat is cooking on the fire, so of course the dog comes running. It is only natural!",
+        "ta": "மேலே இடப்பக்கம் ஒரு இறைச்சித் துண்டு (夕 போன்ற பகுதி). வலப்பக்கம் ஒரு நாய் (犬). கீழே நான்கு நெருப்புப் புள்ளிகள் (灬). நெருப்பில் இறைச்சி வேகிறது; நாய் ஓடி வருவது இயல்புதானே!"
+      },
+      "note": {
+        "en": "然 often comes at the end of words that tell how something is: 自然 (nature), 全然 (not at all), 突然 (suddenly). In 天然 (てんねん, natural) it is read ねん.",
+        "ta": "然 பல சொற்களின் கடைசியில் வரும்: 自然 (இயற்கை), 全然 (கொஞ்சமும் இல்லை), 突然 (திடீரென்று). 天然 (てんねん, இயற்கையான)-இல் இதை ねん என்று படிக்க வேண்டும்."
+      },
+      "examples": [
+        {
+          "word": "自然",
+          "reading": "しぜん",
+          "en": "nature; natural",
+          "ta": "இயற்கை; இயல்பான",
+          "vocabId": "n3-v-0043"
+        },
+        {
+          "word": "全然",
+          "reading": "ぜんぜん",
+          "en": "not at all",
+          "ta": "கொஞ்சமும் இல்லை",
+          "vocabId": "n4-v-605"
+        },
+        {
+          "word": "当然",
+          "reading": "とうぜん",
+          "en": "of course, natural",
+          "ta": "இயல்பாகவே, நிச்சயமாக",
+          "vocabId": "n3-v-2086"
+        },
+        {
+          "word": "突然",
+          "reading": "とつぜん",
+          "en": "suddenly",
+          "ta": "திடீரென்று",
+          "vocabId": "n3-v-1617"
+        }
+      ]
+    },
+    {
+      "kanji": "伝",
+      "meaning": {
+        "en": "pass on, tell",
+        "ta": "தெரிவி, கடத்து"
+      },
+      "on": [
+        "でん"
+      ],
+      "kun": [
+        "つた.える",
+        "つた.わる"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) stands next to 云, the bottom part of 会 (meet). When people meet, this person passes on the message to everyone.",
+        "ta": "ஒருவர் (亻) 云-க்கு அருகில் நிற்கிறார்; 云 என்பது 会 (சந்தி)-இன் கீழ்ப் பகுதி. மக்கள் சந்திக்கும்போது, இவர் செய்தியை எல்லோருக்கும் கடத்துகிறார்."
+      },
+      "note": {
+        "en": "In 手伝う (てつだう, to help) 伝 is read つだ.",
+        "ta": "手伝う (てつだう, உதவு)-இல் 伝-ஐ つだ என்று படிக்கவும்."
+      },
+      "examples": [
+        {
+          "word": "伝える",
+          "reading": "つたえる",
+          "en": "to tell, to pass on (a message)",
+          "ta": "தெரிவிக்க, சொல்லிவிட",
+          "vocabId": "n4-v-433"
+        },
+        {
+          "word": "伝わる",
+          "reading": "つたわる",
+          "en": "to be passed on, to spread",
+          "ta": "பரவ, கடத்தப்பட",
+          "vocabId": "n3-v-1516"
+        },
+        {
+          "word": "手伝う",
+          "reading": "てつだう",
+          "en": "to help",
+          "ta": "உதவ",
+          "vocabId": "n4-v-492"
+        },
+        {
+          "word": "伝言",
+          "reading": "でんごん",
+          "en": "message (passed on by someone)",
+          "ta": "சொல்லியனுப்பிய செய்தி",
+          "vocabId": "n3-v-2079"
+        }
+      ]
+    },
+    {
+      "kanji": "働",
+      "meaning": {
+        "en": "work",
+        "ta": "வேலை செய்"
+      },
+      "on": [
+        "どう"
+      ],
+      "kun": [
+        "はたら.く"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) + 動 (move). A person who moves all day long is working. Think of a farmer in the paddy field, moving from morning to evening.",
+        "ta": "ஒருவர் (亻) + 動 (அசை). நாள் முழுக்க அசைந்துகொண்டே இருக்கும் ஆள் வேலை செய்கிறார். காலை முதல் மாலை வரை வயலில் அசைந்து உழைக்கும் விவசாயியை நினைத்துக்கொள்ளுங்கள்."
+      },
+      "note": {
+        "en": "動く (うごく) = to move; 働く (はたらく) = to work. Only 働 has the person 亻. This kanji was made in Japan.",
+        "ta": "動く (うごく) = அசை; 働く (はたらく) = வேலை செய். 働-இல் மட்டுமே 亻 (ஆள்) உண்டு. இந்தக் கான்ஜி ஜப்பானிலேயே உருவானது."
+      },
+      "examples": [
+        {
+          "word": "働く",
+          "reading": "はたらく",
+          "en": "to work",
+          "ta": "வேலை செய்ய",
+          "vocabId": "n5-v-535"
+        },
+        {
+          "word": "働き",
+          "reading": "はたらき",
+          "en": "work, function",
+          "ta": "வேலை, செயல்பாடு",
+          "vocabId": "n3-v-1772"
+        },
+        {
+          "word": "労働",
+          "reading": "ろうどう",
+          "en": "labour",
+          "ta": "உழைப்பு",
+          "vocabId": "n3-v-1184"
+        },
+        {
+          "word": "共働き",
+          "reading": "ともばたらき",
+          "en": "both husband and wife working",
+          "ta": "கணவன் மனைவி இருவரும் வேலை செய்தல்"
+        }
+      ]
+    },
+    {
+      "kanji": "景",
+      "meaning": {
+        "en": "scenery, view",
+        "ta": "காட்சி"
+      },
+      "on": [
+        "けい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "The sun (日) shines over 京 (capital city). From a hill you look down at the bright city: what a view!",
+        "ta": "京 (தலைநகரம்) மேல் சூரியன் (日) ஒளிர்கிறது. மலை மேலிருந்து பிரகாசமான நகரத்தைப் பார்க்கிறீர்கள்: என்ன அழகான காட்சி!"
+      },
+      "note": {
+        "en": "景色 (scenery) has a special reading: けしき, not けいしき.",
+        "ta": "景色 (இயற்கைக் காட்சி) சிறப்பு வாசிப்பு: けしき; けいしき அல்ல."
+      },
+      "examples": [
+        {
+          "word": "景色",
+          "reading": "けしき",
+          "en": "scenery, view",
+          "ta": "இயற்கைக் காட்சி",
+          "vocabId": "n4-v-255"
+        },
+        {
+          "word": "風景",
+          "reading": "ふうけい",
+          "en": "scenery, landscape",
+          "ta": "நிலக்காட்சி",
+          "vocabId": "n3-v-1859"
+        },
+        {
+          "word": "景気",
+          "reading": "けいき",
+          "en": "business conditions, the economy",
+          "ta": "வணிக நிலை, பொருளாதார நிலை",
+          "vocabId": "n3-v-0826"
+        },
+        {
+          "word": "光景",
+          "reading": "こうけい",
+          "en": "scene, sight",
+          "ta": "காட்சி, நிகழ்வு",
+          "vocabId": "n3-v-0886"
+        }
+      ]
+    },
+    {
+      "kanji": "好",
+      "meaning": {
+        "en": "like, fond of",
+        "ta": "பிடித்தல், விருப்பம்"
+      },
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "す.く",
+        "この.む"
+      ],
+      "mnemonic": {
+        "en": "A woman (女) holds her child (子) close. She loves her baby very much.",
+        "ta": "ஒரு பெண் (女) தன் குழந்தையை (子) அணைத்துக்கொள்கிறாள். அவளுக்குத் தன் குழந்தையை மிகவும் பிடிக்கும்."
+      },
+      "note": {
+        "en": "好き (すき) is a な-adjective: 好きな 食べ物 (favourite food).",
+        "ta": "好き (すき) ஒரு な-பெயரடை: 好きな 食べ物 (பிடித்த உணவு)."
+      },
+      "examples": [
+        {
+          "word": "好き",
+          "reading": "すき",
+          "en": "liked, to like",
+          "ta": "பிடித்தது, விருப்பம்",
+          "vocabId": "n5-v-331"
+        },
+        {
+          "word": "大好き",
+          "reading": "だいすき",
+          "en": "to like very much",
+          "ta": "மிகவும் பிடித்தது",
+          "vocabId": "n5-v-375"
+        },
+        {
+          "word": "好む",
+          "reading": "このむ",
+          "en": "to prefer, to like",
+          "ta": "விரும்ப",
+          "vocabId": "n3-v-0939"
+        },
+        {
+          "word": "友好",
+          "reading": "ゆうこう",
+          "en": "friendship (between groups or countries)",
+          "ta": "நட்பு (நாடுகளுக்கிடையே)",
+          "vocabId": "n3-v-1105"
+        }
+      ]
+    },
+    {
+      "kanji": "失",
+      "meaning": {
+        "en": "lose",
+        "ta": "இழ"
+      },
+      "on": [
+        "しつ"
+      ],
+      "kun": [
+        "うしな.う"
+      ],
+      "mnemonic": {
+        "en": "It looks like 夫 (husband), but one stroke flies off at the top left. It is the thing that slipped out of his hand. He lost it!",
+        "ta": "இது 夫 (கணவன்) போல இருக்கிறது, ஆனால் மேலே இடப்பக்கம் ஒரு கோடு பறந்து போகிறது. அது அவர் கையிலிருந்து நழுவிய பொருள். அவர் அதை இழந்துவிட்டார்!"
+      },
+      "note": {
+        "en": "失敗 (failure) is read しっぱい, with a small っ and ぱ.",
+        "ta": "失敗 (தோல்வி) = しっぱい; சிறிய っ-உம் ぱ-உம் உண்டு."
+      },
+      "examples": [
+        {
+          "word": "失礼",
+          "reading": "しつれい",
+          "en": "rudeness; excuse me",
+          "ta": "மரியாதைக் குறைவு; மன்னிக்கவும்",
+          "vocabId": "n4-v-057"
+        },
+        {
+          "word": "失敗",
+          "reading": "しっぱい",
+          "en": "failure, mistake",
+          "ta": "தோல்வி, தவறு",
+          "vocabId": "n4-v-577"
+        },
+        {
+          "word": "失う",
+          "reading": "うしなう",
+          "en": "to lose",
+          "ta": "இழக்க",
+          "vocabId": "n3-v-0443"
+        },
+        {
+          "word": "失業",
+          "reading": "しつぎょう",
+          "en": "losing one’s job",
+          "ta": "வேலையின்மை",
+          "vocabId": "n3-v-0051"
+        }
+      ]
+    },
+    {
+      "kanji": "差",
+      "meaning": {
+        "en": "difference",
+        "ta": "வேறுபாடு"
+      },
+      "on": [
+        "さ"
+      ],
+      "kun": [
+        "さ.す"
+      ],
+      "mnemonic": {
+        "en": "On top is a sheep (the 羊 part, as in 着 and 美). Under it is 工, a tool. Two farmers measure their sheep with a tool to see the difference.",
+        "ta": "மேலே ஒரு ஆடு (羊 பகுதி, 着, 美-இல் உள்ளது போல). அதன் கீழ் 工, ஒரு கருவி. இரண்டு விவசாயிகள் தங்கள் ஆடுகளைக் கருவியால் அளந்து, வேறுபாட்டைப் பார்க்கிறார்கள்."
+      },
+      "note": {
+        "en": "差す (さす) is used for opening an umbrella: かさを 差す.",
+        "ta": "差す (さす) குடை பிடிப்பதற்குச் சொல்லப்படும்: かさを 差す."
+      },
+      "examples": [
+        {
+          "word": "差",
+          "reading": "さ",
+          "en": "difference",
+          "ta": "வேறுபாடு",
+          "vocabId": "n3-v-0958"
+        },
+        {
+          "word": "交差点",
+          "reading": "こうさてん",
+          "en": "crossroads, intersection",
+          "ta": "சாலைச் சந்திப்பு",
+          "vocabId": "n5-v-246"
+        },
+        {
+          "word": "差す",
+          "reading": "さす",
+          "en": "to hold up (an umbrella)",
+          "ta": "(குடை) பிடிக்க",
+          "vocabId": "n5-v-281"
+        },
+        {
+          "word": "差別",
+          "reading": "さべつ",
+          "en": "discrimination",
+          "ta": "பாகுபாடு",
+          "vocabId": "n3-v-0999"
+        }
+      ]
+    },
+    {
+      "kanji": "末",
+      "meaning": {
+        "en": "end",
+        "ta": "முடிவு, கடைசி"
+      },
+      "on": [
+        "まつ"
+      ],
+      "kun": [
+        "すえ"
+      ],
+      "mnemonic": {
+        "en": "A tree (木) with a long line at the very top. That long line is the tip of the tree, the very end.",
+        "ta": "ஒரு மரம் (木), அதன் உச்சியில் ஒரு நீண்ட கோடு. அந்த நீண்ட கோடுதான் மரத்தின் நுனி, கடைசி முனை."
+      },
+      "note": {
+        "en": "Don’t mix up 末 (end: the top line is longer) and 未 (not yet: the top line is shorter).",
+        "ta": "末 (முடிவு: மேல் கோடு நீளம்), 未 (இன்னும் இல்லை: மேல் கோடு குட்டை) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "週末",
+          "reading": "しゅうまつ",
+          "en": "weekend",
+          "ta": "வார இறுதி"
+        },
+        {
+          "word": "年末",
+          "reading": "ねんまつ",
+          "en": "end of the year",
+          "ta": "ஆண்டு இறுதி"
+        },
+        {
+          "word": "月末",
+          "reading": "げつまつ",
+          "en": "end of the month",
+          "ta": "மாத இறுதி"
+        },
+        {
+          "word": "末",
+          "reading": "すえ",
+          "en": "the end (of)",
+          "ta": "இறுதி, கடைசி",
+          "vocabId": "n3-v-0219"
+        }
+      ]
+    },
+    {
+      "kanji": "種",
+      "meaning": {
+        "en": "kind; seed",
+        "ta": "வகை; விதை"
+      },
+      "on": [
+        "しゅ"
+      ],
+      "kun": [
+        "たね"
+      ],
+      "mnemonic": {
+        "en": "On the left is 禾, a grain plant (as in 秋 and 私). On the right is 重 (heavy). A grain full of heavy seeds. Farmers keep many kinds of seeds.",
+        "ta": "இடப்பக்கம் 禾, ஒரு தானியச் செடி (秋, 私-இல் உள்ளது போல). வலப்பக்கம் 重 (கனமான). கனமான விதைகள் நிறைந்த தானியம். விவசாயிகள் பல வகை விதைகளைச் சேமித்து வைக்கிறார்கள்."
+      },
+      "note": {
+        "en": "一種 (a kind of) is read いっしゅ, with a small っ.",
+        "ta": "一種 (ஒரு வகை) = いっしゅ; சிறிய っ உண்டு."
+      },
+      "examples": [
+        {
+          "word": "種類",
+          "reading": "しゅるい",
+          "en": "kind, type",
+          "ta": "வகை",
+          "vocabId": "n3-v-0121"
+        },
+        {
+          "word": "種",
+          "reading": "たね",
+          "en": "seed",
+          "ta": "விதை",
+          "vocabId": "n3-v-1420"
+        },
+        {
+          "word": "一種",
+          "reading": "いっしゅ",
+          "en": "a kind of",
+          "ta": "ஒரு வகை",
+          "vocabId": "n3-v-0395"
+        },
+        {
+          "word": "人種",
+          "reading": "じんしゅ",
+          "en": "race (of people)",
+          "ta": "இனம்",
+          "vocabId": "n3-v-0192"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU13-q01",
+        "type": "kanji_reading",
+        "sentence": "会議の ＿席＿は どこですか。",
+        "target": "席",
+        "options": [
+          "せき",
+          "せぎ",
+          "せっき",
+          "さき"
+        ],
+        "answer": 0,
+        "explanation_en": "席 is read せき (இருக்கை, seat). せぎ has a voiced ぎ, and せっき has an extra small っ: both are wrong.",
+        "explanation_ta": "席 = せき (இருக்கை, seat). せぎ-இல் ぎ, せっき-இல் கூடுதல் சிறிய っ: இரண்டும் தவறு."
+      },
+      {
+        "id": "KU13-q02",
+        "type": "kanji_reading",
+        "sentence": "パーティーに 行けなくて ＿残念＿です。",
+        "target": "残念",
+        "options": [
+          "さんねん",
+          "ざんねん",
+          "ざんね",
+          "ざねん"
+        ],
+        "answer": 1,
+        "explanation_en": "残念 is read ざんねん (வருத்தம், a pity). さんねん starts with an unvoiced さ, and ざねん has no ん after ざ.",
+        "explanation_ta": "残念 = ざんねん (வருத்தம், a pity). さんねん-இல் さ (குரலற்றது); ざねん-இல் ざ-க்குப் பின் ん இல்லை."
+      },
+      {
+        "id": "KU13-q03",
+        "type": "kanji_reading",
+        "sentence": "この 会社は ＿労働＿時間が 長いです。",
+        "target": "労働",
+        "options": [
+          "ろどう",
+          "ろうとう",
+          "ろうどう",
+          "ろうど"
+        ],
+        "answer": 2,
+        "explanation_en": "労働 is read ろうどう (உழைப்பு, labour). Both parts have a long vowel: ろう and どう. ろどう and ろうど are too short.",
+        "explanation_ta": "労働 = ろうどう (உழைப்பு, labour). இரண்டு பகுதிகளிலும் நீண்ட உயிர்: ろう, どう. ろどう, ろうど குறுகியவை; தவறு."
+      },
+      {
+        "id": "KU13-q04",
+        "type": "kanji_reading",
+        "sentence": "＿例えば＿、すしや てんぷらが 好きです。",
+        "target": "例えば",
+        "options": [
+          "たどえば",
+          "れいえば",
+          "たたえば",
+          "たとえば"
+        ],
+        "answer": 3,
+        "explanation_en": "例えば is read たとえば (உதாரணமாக, for example). れいえば mixes in the on reading れい, and たどえば has a voiced ど.",
+        "explanation_ta": "例えば = たとえば (உதாரணமாக, for example). れいえば-இல் ஆன் வாசிப்பு れい கலந்துவிட்டது; たどえば-இல் ど; தவறு."
+      },
+      {
+        "id": "KU13-q05",
+        "type": "kanji_reading",
+        "sentence": "この 町は ＿自然＿が 多くて きれいです。",
+        "target": "自然",
+        "options": [
+          "じぜん",
+          "しぜん",
+          "しせん",
+          "しねん"
+        ],
+        "answer": 1,
+        "explanation_en": "自然 is read しぜん (இயற்கை, nature). じぜん has a voiced じ, しせん has an unvoiced せ, and ねん is only for 天然.",
+        "explanation_ta": "自然 = しぜん (இயற்கை, nature). じぜん-இல் じ, しせん-இல் せ; ねん என்பது 天然-க்கு மட்டும்."
+      },
+      {
+        "id": "KU13-q06",
+        "type": "kanji_reading",
+        "sentence": "先生に この ことを ＿伝えて＿ ください。",
+        "target": "伝えて",
+        "options": [
+          "つだえて",
+          "でんえて",
+          "つたえて",
+          "つかえて"
+        ],
+        "answer": 2,
+        "explanation_en": "伝えて is read つたえて (தெரிவித்து, tell). つだえて has a voiced だ (that is only in 手伝う), and でんえて uses the on reading.",
+        "explanation_ta": "伝えて = つたえて (தெரிவித்து, tell). つだえて-இல் だ (அது 手伝う-இல் மட்டும்); でんえて-இல் ஆன் வாசிப்பு; தவறு."
+      },
+      {
+        "id": "KU13-q07",
+        "type": "kanji_reading",
+        "sentence": "父は 銀行で ＿働いて＿ います。",
+        "target": "働いて",
+        "options": [
+          "うごいて",
+          "はだらいて",
+          "はたらって",
+          "はたらいて"
+        ],
+        "answer": 3,
+        "explanation_en": "働いて is read はたらいて (வேலை செய்து, working). うごいて is the reading of 動いて (moving), a similar kanji without 亻.",
+        "explanation_ta": "働いて = はたらいて (வேலை செய்து, working). うごいて என்பது 亻 இல்லாத 動いて (அசைந்து)-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU13-q08",
+        "type": "kanji_reading",
+        "sentence": "山の 上から 見る ＿景色＿は すばらしいです。",
+        "target": "景色",
+        "options": [
+          "けしき",
+          "けいしき",
+          "けいいろ",
+          "けしょく"
+        ],
+        "answer": 0,
+        "explanation_en": "景色 has a special reading: けしき (இயற்கைக் காட்சி, scenery). けいしき uses the normal on reading けい, so it is wrong.",
+        "explanation_ta": "景色-க்குச் சிறப்பு வாசிப்பு: けしき (இயற்கைக் காட்சி, scenery). けいしき-இல் சாதாரண けい; தவறு."
+      },
+      {
+        "id": "KU13-q09",
+        "type": "kanji_reading",
+        "sentence": "テストで ＿失敗＿しました。",
+        "target": "失敗",
+        "options": [
+          "しつはい",
+          "しっぱ",
+          "しっぱい",
+          "しつぱい"
+        ],
+        "answer": 2,
+        "explanation_en": "失敗 is read しっぱい (தோல்வி, failure): しつ becomes しっ and はい becomes ぱい. しつはい does not change the sounds.",
+        "explanation_ta": "失敗 = しっぱい (தோல்வி, failure): しつ → しっ, はい → ぱい. しつはい-இல் இந்த மாற்றம் இல்லை; தவறு."
+      },
+      {
+        "id": "KU13-q10",
+        "type": "kanji_reading",
+        "sentence": "この 店には いろいろな ＿種類＿の パンが あります。",
+        "target": "種類",
+        "options": [
+          "しゅうるい",
+          "じゅるい",
+          "たねるい",
+          "しゅるい"
+        ],
+        "answer": 3,
+        "explanation_en": "種類 is read しゅるい (வகை, kind). しゅうるい has an extra long vowel, and たねるい mixes in the kun reading たね.",
+        "explanation_ta": "種類 = しゅるい (வகை, kind). しゅうるい-இல் கூடுதல் நீண்ட உயிர்; たねるい-இல் குன் வாசிப்பு たね கலந்துவிட்டது."
+      },
+      {
+        "id": "KU13-q11",
+        "type": "orthography",
+        "sentence": "わたしは ねこが ＿すき＿です。",
+        "target": "すき",
+        "options": [
+          "始き",
+          "好き",
+          "妹き",
+          "姉き"
+        ],
+        "answer": 1,
+        "explanation_en": "すき (பிடித்தது, like) is written 好き: 女 (woman) + 子 (child). 始, 妹 and 姉 also have 女 on the left, but they are not すき.",
+        "explanation_ta": "すき (பிடித்தது, like) = 好き: 女 (பெண்) + 子 (குழந்தை). 始, 妹, 姉 இவற்றிலும் இடப்பக்கம் 女 உண்டு; ஆனால் அவை すき அல்ல."
+      },
+      {
+        "id": "KU13-q12",
+        "type": "orthography",
+        "sentence": "ケーキの ＿のこり＿は あした 食べます。",
+        "target": "のこり",
+        "options": [
+          "残り",
+          "死り",
+          "浅り",
+          "銭り"
+        ],
+        "answer": 0,
+        "explanation_en": "のこり (மீதி, the rest) is written 残り. 死 has the same left part 歹, and 浅 and 銭 have the same right part, but only 残 means remain.",
+        "explanation_ta": "のこり (மீதி, the rest) = 残り. 死-இல் அதே இடப்பகுதி 歹; 浅, 銭-இல் அதே வலப்பகுதி. ஆனால் 残 மட்டுமே “மீதம்”."
+      },
+      {
+        "id": "KU13-q13",
+        "type": "orthography",
+        "sentence": "あしたの 会議に ＿しゅっせき＿します。",
+        "target": "しゅっせき",
+        "options": [
+          "出度",
+          "出庭",
+          "出座",
+          "出席"
+        ],
+        "answer": 3,
+        "explanation_en": "しゅっせき (கலந்துகொள்ளுதல், attend) is written 出席. 度, 庭 and 座 have the same roof 广, but they are not せき.",
+        "explanation_ta": "しゅっせき (கலந்துகொள்ளுதல், attend) = 出席. 度, 庭, 座 இவற்றிலும் அதே கூரை 广; ஆனால் அவை せき அல்ல."
+      },
+      {
+        "id": "KU13-q14",
+        "type": "orthography",
+        "sentence": "二人の 点数の ＿さ＿は 十点です。",
+        "target": "さ",
+        "options": [
+          "着",
+          "左",
+          "差",
+          "佐"
+        ],
+        "answer": 2,
+        "explanation_en": "さ (வேறுபாடு, difference) is written 差. 着 has the same sheep top, and 左 and 佐 are also read さ, but they mean other things.",
+        "explanation_ta": "さ (வேறுபாடு, difference) = 差. 着-இல் அதே ஆட்டு மேல்பகுதி; 左, 佐 இவற்றையும் さ என்று படிக்கலாம்; ஆனால் பொருள் வேறு."
+      },
+      {
+        "id": "KU13-q15",
+        "type": "orthography",
+        "sentence": "＿しゅうまつ＿は 何を しますか。",
+        "target": "しゅうまつ",
+        "options": [
+          "週末",
+          "週未",
+          "週木",
+          "週本"
+        ],
+        "answer": 0,
+        "explanation_en": "しゅうまつ (வார இறுதி, weekend) is written 週末. 未 (not yet) has a shorter top line; 木 and 本 are also trees, not まつ.",
+        "explanation_ta": "しゅうまつ (வார இறுதி, weekend) = 週末. 未 (இன்னும் இல்லை)-இல் மேல் கோடு குட்டை; 木, 本 இவை まつ அல்ல."
+      },
+      {
+        "id": "KU13-q16",
+        "type": "orthography",
+        "sentence": "先生が ＿れい＿を 見せて くれました。",
+        "target": "れい",
+        "options": [
+          "列",
+          "例",
+          "礼",
+          "冷"
+        ],
+        "answer": 1,
+        "explanation_en": "れい (உதாரணம், example) is written 例: a person 亻 next to a row 列. 礼 and 冷 are also read れい, and 列 has no 亻.",
+        "explanation_ta": "れい (உதாரணம், example) = 例: வரிசை 列-க்கு அருகில் ஆள் 亻. 礼, 冷 இவையும் れい; 列-இல் 亻 இல்லை."
+      }
+    ]
+  }
+}

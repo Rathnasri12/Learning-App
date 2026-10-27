@@ -1,0 +1,992 @@
+[
+ {
+  "id": "n3-v-0036",
+  "expression": "自殺",
+  "reading": "じさつ",
+  "romaji": "jisatsu",
+  "en": "suicide",
+  "ta": "தற்கொலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "自殺を防ぐための相談電話があります。",
+    "reading": "じさつを ふせぐ ための そうだん でんわが あります。",
+    "romaji": "jisatsu o fusegu tame no soudan denwa ga arimasu.",
+    "ta": "தற்கொலையைத் தடுப்பதற்கான ஆலோசனைத் தொலைபேசி சேவை உள்ளது.",
+    "en": "There are helplines to prevent suicide."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0041",
+  "expression": "自身",
+  "reading": "じしん",
+  "romaji": "jishin",
+  "en": "oneself, itself",
+  "ta": "தானே, சொந்தமாக",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "これは私自身が決めたことです。",
+    "reading": "これは わたしじしんが きめた ことです。",
+    "romaji": "kore wa watashijishin ga kimeta koto desu.",
+    "ta": "இது நானே எடுத்த முடிவு.",
+    "en": "This is something I decided myself."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0044",
+  "expression": "思想",
+  "reading": "しそう",
+  "romaji": "shisou",
+  "en": "thought, ideology",
+  "ta": "சிந்தனை, கொள்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "ガンジーの思想は、今も多くの人に影響を与えています。",
+    "reading": "ガンジーの しそうは、いまも おおくの ひとに えいきょうを あたえて います。",
+    "romaji": "ganjii no shisou wa, ima mo ooku no hito ni eikyou o ataete imasu.",
+    "ta": "காந்தியின் சிந்தனைகள் இன்றும் பலரிடம் தாக்கத்தை ஏற்படுத்துகின்றன.",
+    "en": "Gandhi’s ideas still influence many people today."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0067",
+  "expression": "児童",
+  "reading": "じどう",
+  "romaji": "jidou",
+  "en": "schoolchildren",
+  "ta": "பள்ளிச் சிறுவர்கள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この小学校には三百人の児童がいます。",
+    "reading": "この しょうがっこうには さんびゃくにんの じどうが います。",
+    "romaji": "kono shougakkou ni wa sanbyakunin no jidou ga imasu.",
+    "ta": "இந்தத் தொடக்கப் பள்ளியில் முந்நூறு சிறுவர்கள் படிக்கிறார்கள்.",
+    "en": "This elementary school has 300 children."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0102",
+  "expression": "集団",
+  "reading": "しゅうだん",
+  "romaji": "shuudan",
+  "en": "group, mass",
+  "ta": "குழு, கூட்டம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本の小学生は、集団で登校することが多いです。",
+    "reading": "にほんの しょうがくせいは、しゅうだんで とうこう する ことが おおいです。",
+    "romaji": "nihon no shougakusei wa, shuudan de toukou suru koto ga ooi desu.",
+    "ta": "ஜப்பானில் தொடக்கப் பள்ளி மாணவர்கள் பெரும்பாலும் குழுவாகச் சேர்ந்து பள்ளிக்குச் செல்வார்கள்.",
+    "en": "In Japan, elementary school children often walk to school in groups."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0108",
+  "expression": "主義",
+  "reading": "しゅぎ",
+  "romaji": "shugi",
+  "en": "principle, -ism",
+  "ta": "கொள்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "父は「借金はしない」という主義です。",
+    "reading": "ちちは 「しゃっきんは しない」と いう しゅぎです。",
+    "romaji": "chichi wa \"shakkin wa shinai\" to iu shugi desu.",
+    "ta": "\"கடன் வாங்கக் கூடாது\" என்பது அப்பாவின் கொள்கை.",
+    "en": "My father’s principle is “never borrow money.”"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0140",
+  "expression": "少女",
+  "reading": "しょうじょ",
+  "romaji": "shoujo",
+  "en": "young girl",
+  "ta": "சிறுமி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "公園で、少女が一人で本を読んでいた。",
+    "reading": "こうえんで、しょうじょが ひとりで ほんを よんで いた。",
+    "romaji": "kouen de, shoujo ga hitori de hon o yonde ita.",
+    "ta": "பூங்காவில் ஒரு சிறுமி தனியாகப் புத்தகம் படித்துக்கொண்டிருந்தாள்.",
+    "en": "A young girl was reading a book alone in the park."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0151",
+  "expression": "少年",
+  "reading": "しょうねん",
+  "romaji": "shounen",
+  "en": "boy",
+  "ta": "சிறுவன்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "少年のころ、毎日川で泳いでいました。",
+    "reading": "しょうねんの ころ、まいにち かわで およいで いました。",
+    "romaji": "shounen no koro, mainichi kawa de oyoide imashita.",
+    "ta": "சிறுவனாக இருந்தபோது தினமும் ஆற்றில் நீந்துவேன்.",
+    "en": "As a boy, I swam in the river every day."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0171",
+  "expression": "女子",
+  "reading": "じょし",
+  "romaji": "joshi",
+  "en": "girl, woman (female)",
+  "ta": "பெண், மாணவி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この大学は女子学生が多いです。",
+    "reading": "この だいがくは じょしがくせいが おおいです。",
+    "romaji": "kono daigaku wa joshigakusei ga ooi desu.",
+    "ta": "இந்தப் பல்கலைக்கழகத்தில் மாணவிகள் அதிகம்.",
+    "en": "This university has many female students."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0189",
+  "expression": "人工",
+  "reading": "じんこう",
+  "romaji": "jinkou",
+  "en": "artificial, man-made",
+  "ta": "செயற்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この湖は人工の湖です。",
+    "reading": "この みずうみは じんこうの みずうみです。",
+    "romaji": "kono mizuumi wa jinkou no mizuumi desu.",
+    "ta": "இந்த ஏரி மனிதர்கள் உருவாக்கிய செயற்கை ஏரி.",
+    "en": "This lake is man-made."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0192",
+  "expression": "人種",
+  "reading": "じんしゅ",
+  "romaji": "jinshu",
+  "en": "race (of people)",
+  "ta": "இனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "人種に関係なく、誰でも参加できます。",
+    "reading": "じんしゅに かんけい なく、だれでも さんか できます。",
+    "romaji": "jinshu ni kankei naku, dare demo sanka dekimasu.",
+    "ta": "இன வேறுபாடு இன்றி யார் வேண்டுமானாலும் பங்கேற்கலாம்.",
+    "en": "Anyone can take part, whatever their race."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0194",
+  "expression": "人生",
+  "reading": "じんせい",
+  "romaji": "jinsei",
+  "en": "(one’s) life",
+  "ta": "வாழ்க்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "人生は一度しかないから、好きなことをしたい。",
+    "reading": "じんせいは いちどしか ないから、すきな ことを したい。",
+    "romaji": "jinsei wa ichido shika nai kara, suki na koto o shitai.",
+    "ta": "வாழ்க்கை ஒரு முறைதான்; அதனால் பிடித்ததைச் செய்ய விரும்புகிறேன்.",
+    "en": "You only live once, so I want to do what I love."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0208",
+  "expression": "人類",
+  "reading": "じんるい",
+  "romaji": "jinrui",
+  "en": "mankind, humanity",
+  "ta": "மனித இனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "火を使うことは、人類の大きな発見でした。",
+    "reading": "ひを つかう ことは、じんるいの おおきな はっけんでした。",
+    "romaji": "hi o tsukau koto wa, jinrui no ookina hakken deshita.",
+    "ta": "நெருப்பைப் பயன்படுத்தியது மனித இனத்தின் பெரிய கண்டுபிடிப்பு.",
+    "en": "Using fire was a great discovery for mankind."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0256",
+  "expression": "性",
+  "reading": "せい",
+  "romaji": "sei",
+  "en": "sex, gender",
+  "ta": "பாலினம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "学校で、性について学ぶ授業があります。",
+    "reading": "がっこうで、せいに ついて まなぶ じゅぎょうが あります。",
+    "romaji": "gakkou de, sei ni tsuite manabu jugyou ga arimasu.",
+    "ta": "பள்ளியில் பாலினம், பாலியல் பற்றிக் கற்றுக்கொள்ளும் வகுப்பு உண்டு.",
+    "en": "At school, there are classes about sex and gender."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0270",
+  "expression": "精神",
+  "reading": "せいしん",
+  "romaji": "seishin",
+  "en": "mind, spirit",
+  "ta": "மனம், உள்ளம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "スポーツは体だけでなく、精神も強くします。",
+    "reading": "スポーツは からだだけで なく、せいしんも つよく します。",
+    "romaji": "supootsu wa karada dake de naku, seishin mo tsuyoku shimasu.",
+    "ta": "விளையாட்டு உடலை மட்டுமல்ல, மனதையும் வலுவாக்கும்.",
+    "en": "Sports make not only the body but also the mind strong."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0290",
+  "expression": "世間",
+  "reading": "せけん",
+  "romaji": "seken",
+  "en": "society, people around you",
+  "ta": "சமூகம், ஊர் மக்கள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "世間の目を気にしすぎないでください。",
+    "reading": "せけんの めを きに しすぎないで ください。",
+    "romaji": "seken no me o ki ni shisuginaide kudasai.",
+    "ta": "ஊர் என்ன நினைக்கும் என்று அதிகம் கவலைப்படாதீர்கள்.",
+    "en": "Don’t worry too much about what people think."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0519",
+  "expression": "男の人",
+  "reading": "おとこのひと",
+  "romaji": "otokonohito",
+  "en": "man",
+  "ta": "ஆண்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "駅で、知らない男の人に道を聞かれました。",
+    "reading": "えきで、しらない おとこのひとに みちを きかれました。",
+    "romaji": "eki de, shiranai otokonohito ni michi o kikaremashita.",
+    "ta": "ரயில் நிலையத்தில் தெரியாத ஒரு ஆண் என்னிடம் வழி கேட்டார்.",
+    "en": "At the station, a man I didn’t know asked me the way."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0617",
+  "expression": "方々",
+  "reading": "かたがた",
+  "romaji": "katagata",
+  "en": "people (polite)",
+  "ta": "பெருமக்கள் (மரியாதையாக)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今日は遠くから多くの方々に来ていただきました。",
+    "reading": "きょうは とおくから おおくの かたがたに きて いただきました。",
+    "romaji": "kyou wa tooku kara ooku no katagata ni kite itadakimashita.",
+    "ta": "இன்று தொலைவிலிருந்து பலர் வருகை தந்திருக்கிறார்கள்.",
+    "en": "Today many people kindly came from far away."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0664",
+  "expression": "考え",
+  "reading": "かんがえ",
+  "romaji": "kangae",
+  "en": "idea, thought",
+  "ta": "எண்ணம், யோசனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "「みんなで掃除をする」という彼女の考えに賛成です。",
+    "reading": "「みんなで そうじを する」と いう かのじょの かんがえに さんせいです。",
+    "romaji": "\"minna de souji o suru\" to iu kanojo no kangae ni sansei desu.",
+    "ta": "\"எல்லோரும் சேர்ந்து சுத்தம் செய்வோம்\" என்ற அவளுடைய யோசனையை ஆதரிக்கிறேன்.",
+    "en": "I agree with her idea that “we all clean together.”"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0808",
+  "expression": "グループ",
+  "reading": "グループ",
+  "romaji": "guruupu",
+  "en": "group",
+  "ta": "குழு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "授業で、四人ずつのグループに分かれました。",
+    "reading": "じゅぎょうで、よにんずつの グループに わかれました。",
+    "romaji": "jugyou de, yoninzutsu no guruupu ni wakaremashita.",
+    "ta": "வகுப்பில் நான்கு பேர் கொண்ட குழுக்களாகப் பிரிந்தோம்.",
+    "en": "In class, we split into groups of four."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0871",
+  "expression": "権利",
+  "reading": "けんり",
+  "romaji": "kenri",
+  "en": "right",
+  "ta": "உரிமை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "子どもにも、教育を受ける権利があります。",
+    "reading": "こどもにも、きょういくを うける けんりが あります。",
+    "romaji": "kodomo ni mo, kyouiku o ukeru kenri ga arimasu.",
+    "ta": "குழந்தைகளுக்கும் கல்வி பெறும் உரிமை உண்டு.",
+    "en": "Children also have the right to an education."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0917",
+  "expression": "国語",
+  "reading": "こくご",
+  "romaji": "kokugo",
+  "en": "national language; Japanese (school subject)",
+  "ta": "தேசிய மொழி; ஜப்பானிய மொழிப் பாடம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "小学校でいちばん好きな科目は国語でした。",
+    "reading": "しょうがっこうで いちばん すきな かもくは こくごでした。",
+    "romaji": "shougakkou de ichiban suki na kamoku wa kokugo deshita.",
+    "ta": "தொடக்கப் பள்ளியில் எனக்கு மிகவும் பிடித்த பாடம் ஜப்பானிய மொழி.",
+    "en": "My favorite subject in elementary school was Japanese."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0918",
+  "expression": "国籍",
+  "reading": "こくせき",
+  "romaji": "kokuseki",
+  "en": "nationality",
+  "ta": "குடியுரிமை (நாடு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "彼は日本で生まれたが、国籍はインドです。",
+    "reading": "かれは にほんで うまれたが、こくせきは インドです。",
+    "romaji": "kare wa nihon de umareta ga, kokuseki wa indo desu.",
+    "ta": "அவர் ஜப்பானில் பிறந்தாலும் அவருடைய குடியுரிமை இந்தியா.",
+    "en": "He was born in Japan, but his nationality is Indian."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0925",
+  "expression": "個人",
+  "reading": "こじん",
+  "romaji": "kojin",
+  "en": "individual, private person",
+  "ta": "தனிநபர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "これは会社の物ではなく、私個人のパソコンです。",
+    "reading": "これは かいしゃの ものでは なく、わたし こじんの パソコンです。",
+    "romaji": "kore wa kaisha no mono de wa naku, watashi kojin no pasokon desu.",
+    "ta": "இது நிறுவனத்தின் பொருள் அல்ல; என் சொந்தக் கணினி.",
+    "en": "This isn’t the company’s; it’s my own personal computer."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0999",
+  "expression": "差別",
+  "reading": "さべつ",
+  "romaji": "sabetsu",
+  "en": "discrimination",
+  "ta": "பாகுபாடு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "女性に対する差別は、まだなくなっていない。",
+    "reading": "じょせいに たいする さべつは、まだ なくなって いない。",
+    "romaji": "josei ni taisuru sabetsu wa, mada nakunatte inai.",
+    "ta": "பெண்களுக்கு எதிரான பாகுபாடு இன்னும் ஒழியவில்லை.",
+    "en": "Discrimination against women has not disappeared yet."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1051",
+  "expression": "目上",
+  "reading": "めうえ",
+  "romaji": "meue",
+  "en": "one’s senior, superior",
+  "ta": "மூத்தவர் (வயதில்/பதவியில் உயர்ந்தவர்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "目上の人には敬語を使いましょう。",
+    "reading": "めうえの ひとには けいごを つかいましょう。",
+    "romaji": "meue no hito ni wa keigo o tsukaimashou.",
+    "ta": "மூத்தவர்களிடம் மரியாதைச் சொற்களைப் பயன்படுத்துவோம்.",
+    "en": "Let’s use polite language with our seniors."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1081",
+  "expression": "者",
+  "reading": "もの",
+  "romaji": "mono",
+  "en": "person (humble, formal)",
+  "ta": "நபர், ஆள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "はじめまして。私は山田という者です。",
+    "reading": "はじめまして。わたしは やまだと いう ものです。",
+    "romaji": "hajimemashite. watashi wa yamada to iu mono desu.",
+    "ta": "வணக்கம். நான் யமாதா என்பவன்.",
+    "en": "Nice to meet you. My name is Yamada."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1144",
+  "expression": "世の中",
+  "reading": "よのなか",
+  "romaji": "yononaka",
+  "en": "society, the world",
+  "ta": "உலகம், சமூகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "世の中には、いろいろな考えの人がいます。",
+    "reading": "よのなかには、いろいろな かんがえの ひとが います。",
+    "romaji": "yononaka ni wa, iroiro na kangae no hito ga imasu.",
+    "ta": "உலகில் பலவிதமான எண்ணங்கொண்ட மனிதர்கள் இருக்கிறார்கள்.",
+    "en": "There are people with all kinds of ideas in the world."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1181",
+  "expression": "連想",
+  "reading": "れんそう",
+  "romaji": "rensou",
+  "en": "association (of ideas)",
+  "ta": "தொடர்புபடுத்தி நினைத்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "「赤」と聞くと、何を連想しますか。",
+    "reading": "「あか」と きくと、なにを れんそう しますか。",
+    "romaji": "\"aka\" to kiku to, nani o rensou shimasu ka.",
+    "ta": "\"சிவப்பு\" என்று கேட்டதும் உங்களுக்கு எது நினைவுக்கு வருகிறது?",
+    "en": "When you hear “red,” what do you think of?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1204",
+  "expression": "我々",
+  "reading": "われわれ",
+  "romaji": "wareware",
+  "en": "we (formal)",
+  "ta": "நாம், நாங்கள்",
+  "pos": "pronoun",
+  "examples": [
+   {
+    "ja": "我々は環境を守らなければならない。",
+    "reading": "われわれは かんきょうを まもらなければ ならない。",
+    "romaji": "wareware wa kankyou o mamoranakereba naranai.",
+    "ta": "நாம் சுற்றுச்சூழலைக் காக்க வேண்டும்.",
+    "en": "We must protect the environment."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1268",
+  "expression": "群",
+  "reading": "ぐん",
+  "romaji": "gun",
+  "en": "group, herd",
+  "ta": "கூட்டம், குழு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "彼の成績は、クラスで群を抜いています。",
+    "reading": "かれの せいせきは、クラスで ぐんを ぬいて います。",
+    "romaji": "kare no seiseki wa, kurasu de gun o nuite imasu.",
+    "ta": "அவனுடைய மதிப்பெண்கள் வகுப்பில் மற்ற எல்லோரையும் விட மிக உயர்ந்தவை.",
+    "en": "His grades stand far above the rest of the class."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1287",
+  "expression": "個々",
+  "reading": "ここ",
+  "romaji": "koko",
+  "en": "each, individual",
+  "ta": "ஒவ்வொன்றும் தனித்தனியாக",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "個々の意見を大切にしたいです。",
+    "reading": "ここの いけんを たいせつに したいです。",
+    "romaji": "koko no iken o taisetsu ni shitai desu.",
+    "ta": "ஒவ்வொருவரின் கருத்தையும் தனித்தனியாக மதிக்க விரும்புகிறேன்.",
+    "en": "I want to value each person’s opinion."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1302",
+  "expression": "全員",
+  "reading": "ぜんいん",
+  "romaji": "zen'in",
+  "en": "all members, everyone",
+  "ta": "எல்லோரும்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "クラスの全員が試験に合格しました。",
+    "reading": "クラスの ぜんいんが しけんに ごうかく しました。",
+    "romaji": "kurasu no zen'in ga shiken ni goukaku shimashita.",
+    "ta": "வகுப்பில் எல்லோரும் தேர்வில் தேர்ச்சி பெற்றனர்.",
+    "en": "Everyone in the class passed the exam."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1341",
+  "expression": "それぞれ",
+  "reading": "それぞれ",
+  "romaji": "sorezore",
+  "en": "each, respectively",
+  "ta": "ஒவ்வொருவரும்",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "人はそれぞれ考え方が違います。",
+    "reading": "ひとは それぞれ かんがえかたが ちがいます。",
+    "romaji": "hito wa sorezore kangaekata ga chigaimasu.",
+    "ta": "ஒவ்வொருவருக்கும் சிந்திக்கும் விதம் வேறுபடும்.",
+    "en": "Each person has a different way of thinking."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1345",
+  "expression": "揃う",
+  "reading": "そろう",
+  "romaji": "sorou",
+  "en": "to be all gathered, to be complete",
+  "ta": "ஒன்றுசேர, முழுமையாக இருக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "家族全員がそろったので、食事を始めましょう。",
+    "reading": "かぞく ぜんいんが そろったので、しょくじを はじめましょう。",
+    "romaji": "kazoku zen'in ga sorotta node, shokuji o hajimemashou.",
+    "ta": "குடும்பத்தினர் எல்லோரும் வந்து சேர்ந்துவிட்டதால் சாப்பிடத் தொடங்குவோம்.",
+    "en": "The whole family is here, so let’s start eating."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1350",
+  "expression": "存在",
+  "reading": "そんざい",
+  "romaji": "sonzai",
+  "en": "existence, presence",
+  "ta": "இருப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "母は私にとって大きな存在です。",
+    "reading": "ははは わたしに とって おおきな そんざいです。",
+    "romaji": "haha wa watashi ni totte ookina sonzai desu.",
+    "ta": "அம்மா என் வாழ்க்கையில் மிக முக்கியமான இடம் பிடித்தவர்.",
+    "en": "My mother is a big presence in my life."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1353",
+  "expression": "他",
+  "reading": "た",
+  "romaji": "ta",
+  "en": "other(s)",
+  "ta": "மற்றவை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "名前、住所、その他をここに書いてください。",
+    "reading": "なまえ、じゅうしょ、そのたを ここに かいて ください。",
+    "romaji": "namae, juusho, sonota o koko ni kaite kudasai.",
+    "ta": "பெயர், முகவரி, மற்ற விவரங்களை இங்கே எழுதுங்கள்.",
+    "en": "Write your name, address and other details here."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1370",
+  "expression": "対する",
+  "reading": "たいする",
+  "romaji": "taisuru",
+  "en": "to face, to be toward",
+  "ta": "நோக்கி இருக்க, எதிர்கொள்ள",
+  "pos": "verb-irregular",
+  "examples": [
+   {
+    "ja": "お客様に対する言葉づかいに気をつけましょう。",
+    "reading": "おきゃくさまに たいする ことばづかいに きを つけましょう。",
+    "romaji": "okyakusama ni taisuru kotobazukai ni ki o tsukemashou.",
+    "ta": "வாடிக்கையாளர்களிடம் பேசும் விதத்தில் கவனமாக இருப்போம்.",
+    "en": "Let’s be careful how we speak to customers."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1410",
+  "expression": "立場",
+  "reading": "たちば",
+  "romaji": "tachiba",
+  "en": "position, standpoint",
+  "ta": "நிலை, நிலைப்பாடு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "相手の立場になって考えてみてください。",
+    "reading": "あいての たちばに なって かんがえて みて ください。",
+    "romaji": "aite no tachiba ni natte kangaete mite kudasai.",
+    "ta": "மற்றவரின் இடத்தில் உங்களை வைத்துச் சிந்தித்துப் பாருங்கள்.",
+    "en": "Try to think from the other person’s position."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1419",
+  "expression": "他人",
+  "reading": "たにん",
+  "romaji": "tanin",
+  "en": "other people, stranger",
+  "ta": "பிறர், அந்நியர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "他人の物を勝手に使ってはいけません。",
+    "reading": "たにんの ものを かってに つかっては いけません。",
+    "romaji": "tanin no mono o katte ni tsukatte wa ikemasen.",
+    "ta": "பிறர் பொருளை அனுமதியின்றிப் பயன்படுத்தக் கூடாது.",
+    "en": "You must not use other people’s things without asking."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1558",
+  "expression": "哲学",
+  "reading": "てつがく",
+  "romaji": "tetsugaku",
+  "en": "philosophy",
+  "ta": "தத்துவம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "兄は大学で哲学を専攻しています。",
+    "reading": "あには だいがくで てつがくを せんこう して います。",
+    "romaji": "ani wa daigaku de tetsugaku o senkou shite imasu.",
+    "ta": "அண்ணன் பல்கலைக்கழகத்தில் தத்துவத்தை முதன்மைப் பாடமாகப் படிக்கிறான்.",
+    "en": "My brother majors in philosophy at university."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1691",
+  "expression": "人間",
+  "reading": "にんげん",
+  "romaji": "ningen",
+  "en": "human being",
+  "ta": "மனிதன்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "人間は一人では生きていけない。",
+    "reading": "にんげんは ひとりでは いきて いけない。",
+    "romaji": "ningen wa hitori de wa ikite ikenai.",
+    "ta": "மனிதனால் தனியாக வாழ முடியாது.",
+    "en": "Humans cannot live alone."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1829",
+  "expression": "等しい",
+  "reading": "ひとしい",
+  "romaji": "hitoshii",
+  "en": "equal",
+  "ta": "சமமான",
+  "pos": "i-adj",
+  "examples": [
+   {
+    "ja": "この二本の線は、長さが等しい。",
+    "reading": "この にほんの せんは、ながさが ひとしい。",
+    "romaji": "kono nihon no sen wa, nagasa ga hitoshii.",
+    "ta": "இந்த இரண்டு கோடுகளின் நீளமும் சமம்.",
+    "en": "These two lines are equal in length."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1831",
+  "expression": "一人一人",
+  "reading": "ひとりひとり",
+  "romaji": "hitorihitori",
+  "en": "each person, one by one",
+  "ta": "ஒவ்வொருவரும்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "先生は学生一人一人に声をかけました。",
+    "reading": "せんせいは がくせい ひとりひとりに こえを かけました。",
+    "romaji": "sensei wa gakusei hitorihitori ni koe o kakemashita.",
+    "ta": "ஆசிரியர் ஒவ்வொரு மாணவரிடமும் தனித்தனியாகப் பேசினார்.",
+    "en": "The teacher spoke to each student one by one."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1844",
+  "expression": "平等",
+  "reading": "びょうどう",
+  "romaji": "byoudou",
+  "en": "equality, equal",
+  "ta": "சமத்துவம், சமமான",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "法律の前では、すべての人が平等です。",
+    "reading": "ほうりつの まえでは、すべての ひとが びょうどうです。",
+    "romaji": "houritsu no mae de wa, subete no hito ga byoudou desu.",
+    "ta": "சட்டத்தின் முன் எல்லோரும் சமம்.",
+    "en": "Everyone is equal before the law."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1874",
+  "expression": "不自由",
+  "reading": "ふじゆう",
+  "romaji": "fujiyuu",
+  "en": "disability; inconvenience",
+  "ta": "குறைபாடு; சிரமம்",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "祖父は足が不自由なので、つえを使っています。",
+    "reading": "そふは あしが ふじゆうなので、つえを つかって います。",
+    "romaji": "sofu wa ashi ga fujiyuu na node, tsue o tsukatte imasu.",
+    "ta": "தாத்தாவுக்குக் கால் சரியாக இயங்காததால் கைத்தடி பயன்படுத்துகிறார்.",
+    "en": "My grandfather can’t walk well, so he uses a cane."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1876",
+  "expression": "婦人",
+  "reading": "ふじん",
+  "romaji": "fujin",
+  "en": "lady, woman",
+  "ta": "பெண்மணி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "デパートの三階は、婦人服の売り場です。",
+    "reading": "デパートの さんがいは、ふじんふくの うりばです。",
+    "romaji": "depaato no sangai wa, fujinfuku no uriba desu.",
+    "ta": "பல்பொருள் அங்காடியின் மூன்றாம் தளத்தில் பெண்களுக்கான ஆடைப் பிரிவு உள்ளது.",
+    "en": "The third floor of the department store is women’s clothing."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1939",
+  "expression": "ボーイ",
+  "reading": "ボーイ",
+  "romaji": "booi",
+  "en": "bellboy, waiter",
+  "ta": "பணியாளர் (ஹோட்டல்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "ホテルのボーイが、荷物を部屋まで運んでくれた。",
+    "reading": "ホテルの ボーイが、にもつを へやまで はこんで くれた。",
+    "romaji": "hoteru no booi ga, nimotsu o heya made hakonde kureta.",
+    "ta": "ஹோட்டல் பணியாளர் பைகளை அறை வரை கொண்டு வந்து தந்தார்.",
+    "en": "The hotel bellboy carried our bags to the room."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1943",
+  "expression": "他",
+  "reading": "ほか",
+  "romaji": "hoka",
+  "en": "other, else",
+  "ta": "வேறு, மற்ற",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "他に質問がある人はいますか。",
+    "reading": "ほかに しつもんが ある ひとは いますか。",
+    "romaji": "hoka ni shitsumon ga aru hito wa imasu ka.",
+    "ta": "வேறு யாருக்காவது கேள்வி இருக்கிறதா?",
+    "en": "Does anyone else have a question?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1959",
+  "expression": "本人",
+  "reading": "ほんにん",
+  "romaji": "honnin",
+  "en": "the person in question, oneself",
+  "ta": "சம்பந்தப்பட்டவர் (அவரே)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この書類は、本人が直接出してください。",
+    "reading": "この しょるいは、ほんにんが ちょくせつ だして ください。",
+    "romaji": "kono shorui wa, honnin ga chokusetsu dashite kudasai.",
+    "ta": "இந்த ஆவணத்தைச் சம்பந்தப்பட்டவரே நேரில் சமர்ப்பிக்க வேண்டும்.",
+    "en": "The person themselves must hand in this form directly."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1966",
+  "expression": "迷子",
+  "reading": "まいご",
+  "romaji": "maigo",
+  "en": "lost child",
+  "ta": "வழிதவறிய குழந்தை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祭りの人込みで、弟が迷子になりました。",
+    "reading": "まつりの ひとごみで、おとうとが まいごに なりました。",
+    "romaji": "matsuri no hitogomi de, otouto ga maigo ni narimashita.",
+    "ta": "திருவிழாக் கூட்டத்தில் தம்பி வழிதவறிப் போனான்.",
+    "en": "My little brother got lost in the festival crowd."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2009",
+  "expression": "自己",
+  "reading": "じこ",
+  "romaji": "jiko",
+  "en": "self, oneself",
+  "ta": "சுயம், தான்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "面接では、まず自己紹介をします。",
+    "reading": "めんせつでは、まず じこしょうかいを します。",
+    "romaji": "mensetsu de wa, mazu jikoshoukai o shimasu.",
+    "ta": "நேர்காணலில் முதலில் சுய அறிமுகம் செய்வோம்.",
+    "en": "In an interview, you first introduce yourself."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2015",
+  "expression": "衆",
+  "reading": "しゅう",
+  "romaji": "shuu",
+  "en": "the masses, people (in compounds)",
+  "ta": "மக்கள் கூட்டம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本の国会には、衆議院と参議院があります。",
+    "reading": "にほんの こっかいには、しゅうぎいんと さんぎいんが あります。",
+    "romaji": "nihon no kokkai ni wa, shuugiin to sangiin ga arimasu.",
+    "ta": "ஜப்பானிய நாடாளுமன்றத்தில் கீழவை (衆議院), மேலவை (参議院) என இரண்டு அவைகள் உள்ளன.",
+    "en": "Japan’s parliament has a lower house and an upper house."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2018",
+  "expression": "私用",
+  "reading": "しよう",
+  "romaji": "shiyou",
+  "en": "private business, personal use",
+  "ta": "சொந்த வேலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "会社の電話を私用で使わないでください。",
+    "reading": "かいしゃの でんわを しようで つかわないで ください。",
+    "romaji": "kaisha no denwa o shiyou de tsukawanaide kudasai.",
+    "ta": "அலுவலகத் தொலைபேசியைச் சொந்த வேலைக்குப் பயன்படுத்தாதீர்கள்.",
+    "en": "Please don’t use the office phone for personal matters."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2025",
+  "expression": "女史",
+  "reading": "じょし",
+  "romaji": "joshi",
+  "en": "Ms. (title for a distinguished woman)",
+  "ta": "திருமதி (புகழ்பெற்ற பெண்மணிக்கு)",
+  "pos": "suffix",
+  "examples": [
+   {
+    "ja": "今日は、有名な作家の田中女史が講演します。",
+    "reading": "きょうは、ゆうめいな さっかの たなか じょしが こうえん します。",
+    "romaji": "kyou wa, yuumei na sakka no tanaka joshi ga kouen shimasu.",
+    "ta": "இன்று புகழ்பெற்ற எழுத்தாளர் திருமதி தனகா உரையாற்றுகிறார்.",
+    "en": "Today the famous writer Ms. Tanaka will give a talk."
+   }
+  ]
+ }
+]

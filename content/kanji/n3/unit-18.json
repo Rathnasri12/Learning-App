@@ -1,0 +1,436 @@
+{
+  "unit": 18,
+  "title": { "en": "Skills, jobs and rules", "ta": "திறமை, வேலை, விதிகள்" },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for ability, jobs, rules and limits: 能 (ability), 職 (job), 規 (rule), 限 (limit) and more. Tip: some pairs share a part. 限 (limit) and 退 (leave) both have 艮; 限 has a hill 阝 and 退 has a road 辶.",
+    "ta": "இந்தப் பாடத்தில் திறமை, வேலை, விதி, வரம்பு பற்றிய 14 கான்ஜிகளைக் கற்கிறீர்கள்: 能 (திறமை), 職 (வேலை), 規 (விதி), 限 (வரம்பு) போன்றவை. குறிப்பு: சில ஜோடிகளில் ஒரே பகுதி இருக்கும். 限 (வரம்பு), 退 (விலகு) இரண்டிலும் 艮 உண்டு; 限-இல் குன்று 阝, 退-இல் சாலை 辶."
+  },
+  "kanji": [
+    {
+      "kanji": "能",
+      "meaning": { "en": "ability, can", "ta": "திறமை, இயலும்" },
+      "on": ["のう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "This kanji is a bear. On the left: its head (ム) and its big body (月). On the right: two pairs of sharp claws (ヒ ヒ). A bear can climb, swim, fish and fight. It has many abilities.",
+        "ta": "இந்தக் கான்ஜி ஒரு கரடி. இடப்பக்கம் அதன் தலை (ム), பெரிய உடல் (月). வலப்பக்கம் இரண்டு ஜோடி கூர்மையான நகங்கள் (ヒ ヒ). கரடி மரம் ஏறும், நீந்தும், மீன் பிடிக்கும், சண்டை போடும். அதற்குப் பல திறமைகள்."
+      },
+      "note": {
+        "en": "機能 (function) and 昨日 (yesterday) are both read きのう.",
+        "ta": "機能 (செயல்பாடு), 昨日 (நேற்று) இரண்டும் きのう என்றே வாசிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "能力", "reading": "のうりょく", "en": "ability", "ta": "திறன், ஆற்றல்", "vocabId": "n3-v-1713" },
+        { "word": "才能", "reading": "さいのう", "en": "talent", "ta": "திறமை", "vocabId": "n3-v-0966" },
+        { "word": "機能", "reading": "きのう", "en": "function", "ta": "செயல்பாடு", "vocabId": "n3-v-0720" }
+      ]
+    },
+    {
+      "kanji": "格",
+      "meaning": { "en": "rank, status, level", "ta": "தரம், நிலை" },
+      "on": ["かく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Wood (木) on the left. On the right is 各 (each): a foot (夂) stepping onto a box (口). Wooden steps, and each person stands on his own step: that is his rank, his level.",
+        "ta": "இடப்பக்கம் மரம் (木). வலப்பக்கம் 各 (ஒவ்வொரு): ஒரு பாதம் (夂) பெட்டியின் (口) மேல் ஏறுகிறது. மரப் படிகள்; ஒவ்வொருவரும் தன் படியில் நிற்கிறார்: அதுதான் அவர் தரம், நிலை."
+      },
+      "note": {
+        "en": "In 合格 (ごうかく, passing an exam), 合 is ごう and 格 is かく.",
+        "ta": "合格 (ごうかく, தேர்வில் தேர்ச்சி): 合 = ごう, 格 = かく."
+      },
+      "examples": [
+        { "word": "合格", "reading": "ごうかく", "en": "passing (an exam)", "ta": "(தேர்வில்) தேர்ச்சி", "vocabId": "n3-v-0883" },
+        { "word": "性格", "reading": "せいかく", "en": "personality, character", "ta": "குணம்", "vocabId": "n3-v-0260" },
+        { "word": "資格", "reading": "しかく", "en": "qualification; licence", "ta": "தகுதி; தகுதிச் சான்றிதழ்", "vocabId": "n3-v-2004" }
+      ]
+    },
+    {
+      "kanji": "過",
+      "meaning": { "en": "pass, go too far", "ta": "கடந்துபோ, மீறு" },
+      "on": ["か"],
+      "kun": ["す.ぎる", "す.ごす"],
+      "mnemonic": {
+        "en": "A road (辶) and a skull with an open mouth (口) above it. You walk past the old bones on the road and don’t stop. 過 = pass by. If you go past the limit, it is too much.",
+        "ta": "சாலை (辶), அதன் மேல் வாய் (口) திறந்த ஒரு மண்டை ஓடு. சாலையில் கிடக்கும் பழைய எலும்புகளை நிற்காமல் கடந்து போகிறீர்கள். 過 = கடந்துபோ. எல்லையைக் கடந்தால் அது அளவுக்கு மீறியது."
+      },
+      "note": {
+        "en": "Verb stem + すぎる means ‘too much’: 食べ過ぎる (eat too much). 過ごす (すごす) means to spend time.",
+        "ta": "வினையடி + すぎる = அளவுக்கு மீறி: 食べ過ぎる (அதிகமாகச் சாப்பிட). 過ごす (すごす) = நேரத்தைக் கழிக்க."
+      },
+      "examples": [
+        { "word": "過去", "reading": "かこ", "en": "the past", "ta": "கடந்த காலம்", "vocabId": "n3-v-0598" },
+        { "word": "過ぎる", "reading": "すぎる", "en": "to pass; to go too far", "ta": "கடந்துபோக (அளவு மீற)", "vocabId": "n4-v-079" },
+        { "word": "過ごす", "reading": "すごす", "en": "to spend (time)", "ta": "(நேரத்தைக்) கழிக்க", "vocabId": "n3-v-0228" },
+        { "word": "通り過ぎる", "reading": "とおりすぎる", "en": "to go past", "ta": "தாண்டிச் செல்ல", "vocabId": "n3-v-1591" }
+      ]
+    },
+    {
+      "kanji": "常",
+      "meaning": { "en": "usual, always", "ta": "வழக்கமான, எப்போதும்" },
+      "on": ["じょう"],
+      "kun": ["つね"],
+      "mnemonic": {
+        "en": "At the top is 小 over a house with a window (口). At the bottom hangs a cloth (巾). Every day the same small cloth hangs at the window. It is always there: usual.",
+        "ta": "மேலே ஜன்னல் (口) உள்ள வீட்டின் மேல் 小. கீழே ஒரு துணி (巾) தொங்குகிறது. தினமும் அதே சின்னத் துணி ஜன்னலில் தொங்குகிறது. எப்போதும் அங்கேயே இருக்கும்: வழக்கமானது."
+      },
+      "note": {
+        "en": "非常に (ひじょうに) means ‘very, extremely’. 非常口 (ひじょうぐち) is an emergency exit.",
+        "ta": "非常に (ひじょうに) = மிகவும். 非常口 (ひじょうぐち) = அவசர வெளியேறும் வழி."
+      },
+      "examples": [
+        { "word": "非常に", "reading": "ひじょうに", "en": "extremely, very", "ta": "மிகவும்; மிகமிக", "vocabId": "n4-v-039" },
+        { "word": "日常", "reading": "にちじょう", "en": "everyday, daily life", "ta": "அன்றாட வாழ்க்கை", "vocabId": "n3-v-1682" },
+        { "word": "常識", "reading": "じょうしき", "en": "common sense", "ta": "பொது அறிவு, இயல்பான புத்தி", "vocabId": "n3-v-0139" },
+        { "word": "常に", "reading": "つねに", "en": "always", "ta": "எப்போதும்", "vocabId": "n3-v-1525" }
+      ]
+    },
+    {
+      "kanji": "状",
+      "meaning": { "en": "condition; letter", "ta": "நிலைமை; கடிதம்" },
+      "on": ["じょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A dog (犬) lies next to a narrow bed (丬, a bed turned on its side). Is it sick? The vet comes and checks the dog’s condition.",
+        "ta": "ஒரு நாய் (犬) குறுகிய கட்டிலின் (丬, பக்கவாட்டில் நிற்கும் கட்டில்) அருகே படுத்திருக்கிறது. உடம்பு சரியில்லையா? மருத்துவர் வந்து நாயின் நிலைமையைப் பார்க்கிறார்."
+      },
+      "note": {
+        "en": "状 is じょう, like 常 and 情. Remember: the dog 犬 shows a condition.",
+        "ta": "状 = じょう; 常, 情 போலவே. நினைவில் கொள்ளுங்கள்: நாய் 犬 = நிலைமை."
+      },
+      "examples": [
+        { "word": "現状", "reading": "げんじょう", "en": "present situation", "ta": "தற்போதைய நிலை", "vocabId": "n3-v-0863" },
+        { "word": "招待状", "reading": "しょうたいじょう", "en": "invitation card", "ta": "அழைப்பிதழ்" },
+        { "word": "白状", "reading": "はくじょう", "en": "confession, owning up", "ta": "ஒப்புக்கொள்ளுதல்" }
+      ]
+    },
+    {
+      "kanji": "職",
+      "meaning": { "en": "job, work", "ta": "வேலை, தொழில்" },
+      "on": ["しょく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "An ear (耳), a sound (音) and a spear (戈). The guard listens with his ear for every sound, spear in his hand. That is his job.",
+        "ta": "காது (耳), ஒலி (音), ஈட்டி (戈). காவலர் கையில் ஈட்டியுடன் ஒவ்வொரு ஒலியையும் காதால் கவனிக்கிறார். அதுதான் அவர் வேலை."
+      },
+      "note": {
+        "en": "職 (job, ear 耳) and 識 (knowledge, words 言) look alike. 職 is しょく, like 食.",
+        "ta": "職 (வேலை, காது 耳), 識 (அறிவு, சொல் 言) ஒன்றுபோலத் தெரியும். 職 = しょく; 食 போலவே."
+      },
+      "examples": [
+        { "word": "職業", "reading": "しょくぎょう", "en": "occupation", "ta": "தொழில்", "vocabId": "n3-v-0162" },
+        { "word": "職員", "reading": "しょくいん", "en": "staff member", "ta": "பணியாளர், ஊழியர்" },
+        { "word": "退職", "reading": "たいしょく", "en": "leaving a job, retirement", "ta": "வேலையிலிருந்து ஓய்வு / விலகல்" }
+      ]
+    },
+    {
+      "kanji": "構",
+      "meaning": { "en": "build, structure; mind", "ta": "கட்டமைப்பு; கவலைப்படு" },
+      "on": ["こう"],
+      "kun": ["かま.う"],
+      "mnemonic": {
+        "en": "Wood (木) on the left. On the right, wooden beams are stacked across each other, like the frame of a new house. 構 = to build, a structure.",
+        "ta": "இடப்பக்கம் மரம் (木). வலப்பக்கம் மரச் சட்டங்கள் ஒன்றின் மேல் ஒன்று குறுக்காக அடுக்கப்பட்டுள்ளன; புதிய வீட்டின் சட்டம் போல. 構 = கட்டு, கட்டமைப்பு."
+      },
+      "note": {
+        "en": "結構 is けっこう (small っ): ‘fine, enough’. 構いません (かまいません) means ‘I don’t mind’.",
+        "ta": "結構 = けっこう (சிறிய っ): சரி, போதும். 構いません (かまいません) = பரவாயில்லை."
+      },
+      "examples": [
+        { "word": "結構", "reading": "けっこう", "en": "fine; that’s enough; quite", "ta": "போதும் (வேண்டாம்); நன்றாக", "vocabId": "n5-v-237" },
+        { "word": "構成", "reading": "こうせい", "en": "structure, make-up", "ta": "கட்டமைப்பு, அமைப்பு", "vocabId": "n3-v-0896" },
+        { "word": "構う", "reading": "かまう", "en": "to mind, to care about", "ta": "கவலைப்பட, பொருட்படுத்த" }
+      ]
+    },
+    {
+      "kanji": "断",
+      "meaning": { "en": "cut off; refuse; decide", "ta": "துண்டி; மறு; முடிவெடு" },
+      "on": ["だん"],
+      "kun": ["ことわ.る"],
+      "mnemonic": {
+        "en": "On the left, rice plants (米) stand in a box. On the right is an axe (斤). The axe cuts the rice plants off. Saying ‘no’ also cuts something off: ことわる, to refuse.",
+        "ta": "இடப்பக்கம் ஒரு பெட்டியில் நெல் செடிகள் (米). வலப்பக்கம் கோடாரி (斤). கோடாரி நெல் செடிகளை வெட்டித் துண்டிக்கிறது. ‘முடியாது’ என்று சொல்வதும் ஒன்றைத் துண்டிப்பதுதான்: ことわる, மறுக்க."
+      },
+      "note": {
+        "en": "横断歩道 (おうだんほどう) is a pedestrian crossing.",
+        "ta": "横断歩道 (おうだんほどう) = பாதசாரிகள் கடக்கும் இடம் (வரிக்குதிரைக் கோடு)."
+      },
+      "examples": [
+        { "word": "判断", "reading": "はんだん", "en": "judgment; decision", "ta": "மதிப்பீடு; முடிவு", "vocabId": "n3-v-1806" },
+        { "word": "断る", "reading": "ことわる", "en": "to refuse, to say no", "ta": "மறுக்க", "vocabId": "n3-v-0936" },
+        { "word": "横断", "reading": "おうだん", "en": "crossing (a road)", "ta": "(சாலையைக்) குறுக்கே கடத்தல்", "vocabId": "n3-v-0494" }
+      ]
+    },
+    {
+      "kanji": "規",
+      "meaning": { "en": "rule, standard", "ta": "விதி, அளவுகோல்" },
+      "on": ["き"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A grown man (夫) looks (見) carefully at everything and measures it with his ruler. He keeps everything to the standard: the rule.",
+        "ta": "ஒரு பெரியவர் (夫) எல்லாவற்றையும் கவனமாகப் பார்த்து (見) அளவுகோலால் அளக்கிறார். எல்லாம் சரியான அளவில் இருக்க வேண்டும்: அதுதான் விதி."
+      },
+      "examples": [
+        { "word": "規則", "reading": "きそく", "en": "rule", "ta": "விதி, ஒழுங்குமுறை", "vocabId": "n4-v-052" },
+        { "word": "規制", "reading": "きせい", "en": "regulation, control", "ta": "கட்டுப்பாடு", "vocabId": "n3-v-1259" },
+        { "word": "正規", "reading": "せいき", "en": "regular, official", "ta": "முறையான, அதிகாரப்பூர்வ", "vocabId": "n3-v-2036" }
+      ]
+    },
+    {
+      "kanji": "術",
+      "meaning": { "en": "art, technique", "ta": "கலை, நுட்பம்" },
+      "on": ["じゅつ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The kanji 行 (go) opens in the middle, and inside stands 朮: a tree (木) with one extra drop. Only a skilled gardener knows the way to grow this special tree. 術 = art, technique.",
+        "ta": "行 (போ) நடுவில் திறந்திருக்கிறது; உள்ளே 朮 நிற்கிறது: ஒரு கூடுதல் துளியுடன் மரம் (木). இந்தச் சிறப்பு மரத்தை வளர்க்கும் வழி திறமையான தோட்டக்காரருக்கு மட்டுமே தெரியும். 術 = கலை, நுட்பம்."
+      },
+      "note": {
+        "en": "Don’t mix up 術 (with 行 around it) and 街 (town, with 土土 inside).",
+        "ta": "術 (சுற்றி 行), 街 (நகரம், உள்ளே 土土) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "手術", "reading": "しゅじゅつ", "en": "surgery, operation", "ta": "அறுவை சிகிச்சை", "vocabId": "n3-v-0110" },
+        { "word": "美術館", "reading": "びじゅつかん", "en": "art museum", "ta": "கலைக்கூடம் (ஓவிய அருங்காட்சியகம்)", "vocabId": "n4-v-205" },
+        { "word": "技術", "reading": "ぎじゅつ", "en": "technology; skill", "ta": "தொழில்நுட்பம் (திறன்)", "vocabId": "n4-v-293" }
+      ]
+    },
+    {
+      "kanji": "備",
+      "meaning": { "en": "prepare, be ready", "ta": "தயார் செய், ஆயத்தம்" },
+      "on": ["び"],
+      "kun": ["そな.える"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to a quiver full of arrows: a lid on top and 用 (use) below. The arrows are ready to use. He is prepared.",
+        "ta": "ஒரு மனிதர் (亻) அம்புகள் நிறைந்த அம்பறாத்தூணியின் அருகே நிற்கிறார்: மேலே மூடி, கீழே 用 (பயன்படுத்து). அம்புகள் பயன்படுத்தத் தயார். அவரும் தயார்."
+      },
+      "examples": [
+        { "word": "準備", "reading": "じゅんび", "en": "preparation; to prepare", "ta": "தயாரிப்பு; தயார் செய்ய", "vocabId": "n4-v-171" },
+        { "word": "備える", "reading": "そなえる", "en": "to prepare for", "ta": "முன்னேற்பாடு செய்ய", "vocabId": "n3-v-1333" },
+        { "word": "予備", "reading": "よび", "en": "spare, reserve", "ta": "உதிரி, கையிருப்பு" }
+      ]
+    },
+    {
+      "kanji": "限",
+      "meaning": { "en": "limit", "ta": "வரம்பு, எல்லை" },
+      "on": ["げん"],
+      "kun": ["かぎ.る"],
+      "mnemonic": {
+        "en": "A tall hill (阝) on the left. On the right is a big eye (艮) on legs. The eye looks and looks, but it cannot see past the hill. That is the limit.",
+        "ta": "இடப்பக்கம் உயர்ந்த குன்று (阝). வலப்பக்கம் கால்கள் உள்ள பெரிய கண் (艮). கண் பார்த்துக்கொண்டே இருக்கிறது; ஆனால் குன்றுக்கு அப்பால் பார்க்க முடியவில்லை. அதுதான் எல்லை."
+      },
+      "note": {
+        "en": "期限 (きげん, deadline) and 危険 (きけん, danger) sound alike. できる限り (できるかぎり) means ‘as much as possible’.",
+        "ta": "期限 (きげん, கடைசி நாள்), 危険 (きけん, ஆபத்து) ஒத்த ஒலி. できる限り (できるかぎり) = முடிந்தவரை."
+      },
+      "examples": [
+        { "word": "制限", "reading": "せいげん", "en": "limit, restriction", "ta": "கட்டுப்பாடு, வரம்பு", "vocabId": "n3-v-0266" },
+        { "word": "期限", "reading": "きげん", "en": "deadline, time limit", "ta": "கடைசி நாள், கால வரம்பு", "vocabId": "n3-v-0700" },
+        { "word": "限界", "reading": "げんかい", "en": "limit (of what you can do)", "ta": "எல்லை (தாங்கும் அளவு)", "vocabId": "n3-v-0855" },
+        { "word": "限る", "reading": "かぎる", "en": "to limit", "ta": "வரம்பிட", "vocabId": "n3-v-0578" }
+      ]
+    },
+    {
+      "kanji": "退",
+      "meaning": { "en": "leave, retreat", "ta": "விலகு, பின்வாங்கு" },
+      "on": ["たい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A road (辶) and the same big eye on legs (艮) as in 限. He walks away down the road, but his eye keeps looking back. 退 = to leave, to step back.",
+        "ta": "சாலை (辶), 限-இல் உள்ள அதே கால்கள் கொண்ட பெரிய கண் (艮). அவர் சாலையில் விலகி நடக்கிறார்; ஆனால் கண் திரும்பித் திரும்பிப் பார்க்கிறது. 退 = விலகு, பின்வாங்கு."
+      },
+      "note": {
+        "en": "退 (leave) has a road 辶. 限 (limit) has a hill 阝. 入院 = enter hospital, 退院 = leave hospital.",
+        "ta": "退 (விலகு): சாலை 辶. 限 (வரம்பு): குன்று 阝. 入院 = மருத்துவமனையில் சேர்தல், 退院 = மருத்துவமனையிலிருந்து வெளியேறுதல்."
+      },
+      "examples": [
+        { "word": "退院", "reading": "たいいん", "en": "leaving hospital", "ta": "மருத்துவமனையிலிருந்து வீடு திரும்புதல்", "vocabId": "n4-v-517" },
+        { "word": "引退", "reading": "いんたい", "en": "retirement", "ta": "ஓய்வு பெறுதல்", "vocabId": "n3-v-0432" },
+        { "word": "退学", "reading": "たいがく", "en": "leaving school (dropping out)", "ta": "படிப்பை இடையில் நிறுத்துதல்", "vocabId": "n3-v-2058" }
+      ]
+    },
+    {
+      "kanji": "非",
+      "meaning": { "en": "not, un-; wrong", "ta": "அல்லாத; தவறு" },
+      "on": ["ひ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Two wings stand back to back, with their feathers pointing away from each other. They don’t agree. They go opposite ways: 非 = not, wrong.",
+        "ta": "இரண்டு சிறகுகள் முதுகோடு முதுகாக நிற்கின்றன; இறகுகள் எதிர் எதிர்த் திசையில். அவை ஒத்துப்போகவில்லை, எதிர் வழியில் போகின்றன: 非 = அல்லாத, தவறு."
+      },
+      "note": {
+        "en": "非, 不 and 未 are all ‘not’ prefixes. 是非 (ぜひ) means ‘by all means, please do’.",
+        "ta": "非, 不, 未 மூன்றும் ‘அல்லாத’ என்ற முன்னொட்டுகள். 是非 (ぜひ) = கட்டாயம், அவசியம்."
+      },
+      "examples": [
+        { "word": "非常に", "reading": "ひじょうに", "en": "extremely, very", "ta": "மிகவும்; மிகமிக", "vocabId": "n4-v-039" },
+        { "word": "非常口", "reading": "ひじょうぐち", "en": "emergency exit", "ta": "அவசர வெளியேறும் வழி" },
+        { "word": "是非", "reading": "ぜひ", "en": "by all means", "ta": "கட்டாயம் (அவசியம்)", "vocabId": "n4-v-407" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU18-q01",
+        "type": "kanji_reading",
+        "sentence": "かれは 話す ＿能力＿が 高いです。",
+        "target": "能力",
+        "options": ["のうりょく", "のりょく", "のうりき", "のうりょっく"],
+        "answer": 0,
+        "explanation_en": "能力 is read のうりょく (திறன், ability). 能 is a long のう, so のりょく is wrong. りき is another reading of 力, but not in this word.",
+        "explanation_ta": "能力 = のうりょく (திறன், ability). 能 = のう (நீண்ட ஒலி); அதனால் のりょく தவறு. りき என்பது 力-இன் வேறு வாசிப்பு; இந்தச் சொல்லில் இல்லை."
+      },
+      {
+        "id": "KU18-q02",
+        "type": "kanji_reading",
+        "sentence": "試験に ＿合格＿しました。",
+        "target": "合格",
+        "options": ["ごかく", "ごうかく", "こうかく", "ごうがく"],
+        "answer": 1,
+        "explanation_en": "合格 is read ごうかく (தேர்ச்சி, passing an exam). 合 is a long ごう, so ごかく is wrong, and 格 is かく, not がく.",
+        "explanation_ta": "合格 = ごうかく (தேர்ச்சி, passing an exam). 合 = ごう (நீண்ட ஒலி); அதனால் ごかく தவறு. 格 = かく; がく அல்ல."
+      },
+      {
+        "id": "KU18-q03",
+        "type": "kanji_reading",
+        "sentence": "＿過去＿の 写真を 見ました。",
+        "target": "過去",
+        "options": ["かこう", "がこ", "かこ", "かきょ"],
+        "answer": 2,
+        "explanation_en": "過去 is read かこ (கடந்த காலம், the past). Both sounds are short, so かこう is wrong, and 過 is か, not が.",
+        "explanation_ta": "過去 = かこ (கடந்த காலம், the past). இரண்டும் குட்டை ஒலி; அதனால் かこう தவறு. 過 = か; が அல்ல."
+      },
+      {
+        "id": "KU18-q04",
+        "type": "kanji_reading",
+        "sentence": "今日は ＿非常に＿ 寒いです。",
+        "target": "非常に",
+        "options": ["ひじょに", "ひしょうに", "びじょうに", "ひじょうに"],
+        "answer": 3,
+        "explanation_en": "非常に is read ひじょうに (மிகவும், extremely). 常 is a long, voiced じょう, so ひじょに and ひしょうに are wrong.",
+        "explanation_ta": "非常に = ひじょうに (மிகவும், extremely). 常 = じょう (நீண்ட, ஒலிப்புடையது); அதனால் ひじょに, ひしょうに தவறு."
+      },
+      {
+        "id": "KU18-q05",
+        "type": "kanji_reading",
+        "sentence": "あなたの ＿職業＿は 何ですか。",
+        "target": "職業",
+        "options": ["しょくぎょう", "しょくぎょ", "しょくごう", "しょっきょう"],
+        "answer": 0,
+        "explanation_en": "職業 is read しょくぎょう (தொழில், occupation). 業 is a long ぎょう, so しょくぎょ is wrong. There is no small っ.",
+        "explanation_ta": "職業 = しょくぎょう (தொழில், occupation). 業 = ぎょう (நீண்ட ஒலி); அதனால் しょくぎょ தவறு. சிறிய っ இல்லை."
+      },
+      {
+        "id": "KU18-q06",
+        "type": "kanji_reading",
+        "sentence": "コーヒーは もう ＿結構＿です。",
+        "target": "結構",
+        "options": ["けこう", "けっこう", "けっこ", "けつこう"],
+        "answer": 1,
+        "explanation_en": "結構 is read けっこう (போதும், that’s enough). It has a small っ and a long こう, so けこう and けっこ are wrong.",
+        "explanation_ta": "結構 = けっこう (போதும், that’s enough). சிறிய っ உண்டு, こう நீண்ட ஒலி; அதனால் けこう, けっこ தவறு."
+      },
+      {
+        "id": "KU18-q07",
+        "type": "kanji_reading",
+        "sentence": "パーティーに さそわれましたが、＿断りました＿。",
+        "target": "断りました",
+        "options": ["たちました", "ことはりました", "ことわりました", "ことりました"],
+        "answer": 2,
+        "explanation_en": "断りました is read ことわりました (மறுத்தேன், refused). たちました is the verb 断つ (to cut off), which has no り. Don’t write ことはり with は.",
+        "explanation_ta": "断りました = ことわりました (மறுத்தேன், refused). たちました என்பது 断つ (துண்டிக்க) வினை; அதில் り இல்லை. は கொண்டு ことはり என்று எழுதக்கூடாது."
+      },
+      {
+        "id": "KU18-q08",
+        "type": "kanji_reading",
+        "sentence": "父は 来週 ＿手術＿を 受けます。",
+        "target": "手術",
+        "options": ["しゅじつ", "しゅうじゅつ", "てじゅつ", "しゅじゅつ"],
+        "answer": 3,
+        "explanation_en": "手術 is read しゅじゅつ (அறுவை சிகிச்சை, surgery). 手 is a short しゅ here, not the kun reading て, and 術 is じゅつ.",
+        "explanation_ta": "手術 = しゅじゅつ (அறுவை சிகிச்சை, surgery). இங்கே 手 = しゅ (குட்டை ஒலி); kun வாசிப்பு て அல்ல. 術 = じゅつ."
+      },
+      {
+        "id": "KU18-q09",
+        "type": "kanji_reading",
+        "sentence": "試験に ＿備えて＿ 毎日 勉強します。",
+        "target": "備えて",
+        "options": ["そなえて", "そろえて", "びえて", "そだえて"],
+        "answer": 0,
+        "explanation_en": "備えて is read そなえて (முன்னேற்பாடு செய்ய, to prepare for). びえて mixes the on reading び with the kana ending. そろえて is a different verb.",
+        "explanation_ta": "備えて = そなえて (முன்னேற்பாடு செய்ய, to prepare for). びえて என்பது on வாசிப்பு び-ஐ கானா முடிவுடன் கலந்தது. そろえて வேறு வினை."
+      },
+      {
+        "id": "KU18-q10",
+        "type": "kanji_reading",
+        "sentence": "レポートの ＿期限＿は 金曜日です。",
+        "target": "期限",
+        "options": ["きけん", "きげん", "ぎげん", "きっげん"],
+        "answer": 1,
+        "explanation_en": "期限 is read きげん (கடைசி நாள், deadline). 限 is a voiced げん. きけん is 危険 (danger).",
+        "explanation_ta": "期限 = きげん (கடைசி நாள், deadline). 限 = げん (ஒலிப்புடையது). きけん என்பது 危険 (ஆபத்து)."
+      },
+      {
+        "id": "KU18-q11",
+        "type": "orthography",
+        "sentence": "会社の ＿げんじょう＿を 説明します。",
+        "target": "げんじょう",
+        "options": ["現常", "現情", "現状", "現伏"],
+        "answer": 2,
+        "explanation_en": "げんじょう is written 現状 (தற்போதைய நிலை, present situation). 常 and 情 are also じょう, but a condition uses 状. 伏 only looks like it.",
+        "explanation_ta": "げんじょう = 現状 (தற்போதைய நிலை, present situation). 常, 情 இரண்டும் じょう தான்; ஆனால் நிலைமைக்கு 状. 伏 பார்வைக்கு மட்டும் ஒத்தது."
+      },
+      {
+        "id": "KU18-q12",
+        "type": "orthography",
+        "sentence": "学校の ＿きそく＿を 守って ください。",
+        "target": "きそく",
+        "options": ["視則", "現則", "親則", "規則"],
+        "answer": 3,
+        "explanation_en": "きそく is written 規則 (விதி, rule). All the options have 見 on the right, but only 規 (夫 + 見) means rule.",
+        "explanation_ta": "きそく = 規則 (விதி, rule). எல்லா விடைகளிலும் வலப்பக்கம் 見 உண்டு; ஆனால் 規 (夫 + 見) மட்டுமே விதி."
+      },
+      {
+        "id": "KU18-q13",
+        "type": "orthography",
+        "sentence": "母は 明日 ＿たいいん＿します。",
+        "target": "たいいん",
+        "options": ["退院", "限院", "追院", "返院"],
+        "answer": 0,
+        "explanation_en": "たいいん is written 退院 (மருத்துவமனையிலிருந்து வீடு திரும்புதல், leaving hospital). 限 has the same 艮 but a hill 阝. 追 and 返 also have the road 辶.",
+        "explanation_ta": "たいいん = 退院 (மருத்துவமனையிலிருந்து வீடு திரும்புதல், leaving hospital). 限-இலும் 艮 உண்டு; ஆனால் அதில் குன்று 阝. 追, 返 இரண்டிலும் சாலை 辶 உண்டு."
+      },
+      {
+        "id": "KU18-q14",
+        "type": "orthography",
+        "sentence": "夏休みは 家族と ＿すごしました＿。",
+        "target": "すごしました",
+        "options": ["通ごしました", "過ごしました", "週ごしました", "遇ごしました"],
+        "answer": 1,
+        "explanation_en": "すごしました is written 過ごしました ((நேரத்தைக்) கழித்தேன், spent time). 通, 週 and 遇 also have the road 辶, but only 過 is す(ごす).",
+        "explanation_ta": "すごしました = 過ごしました ((நேரத்தைக்) கழித்தேன், spent time). 通, 週, 遇 மூன்றிலும் சாலை 辶 உண்டு; ஆனால் 過 மட்டுமே す(ごす)."
+      },
+      {
+        "id": "KU18-q15",
+        "type": "orthography",
+        "sentence": "この 道は スピードの ＿せいげん＿が あります。",
+        "target": "せいげん",
+        "options": ["制根", "制眼", "制限", "制退"],
+        "answer": 2,
+        "explanation_en": "せいげん is written 制限 (கட்டுப்பாடு, limit). 根, 眼 and 退 all have 艮, but only 限 (with the hill 阝) means limit.",
+        "explanation_ta": "せいげん = 制限 (கட்டுப்பாடு, limit). 根, 眼, 退 மூன்றிலும் 艮 உண்டு; ஆனால் குன்று 阝 உள்ள 限 மட்டுமே வரம்பு."
+      },
+      {
+        "id": "KU18-q16",
+        "type": "orthography",
+        "sentence": "週末に ＿びじゅつかん＿へ 行きました。",
+        "target": "びじゅつかん",
+        "options": ["美述館", "美街館", "美行館", "美術館"],
+        "answer": 3,
+        "explanation_en": "びじゅつかん is written 美術館 (கலைக்கூடம், art museum). 述 is also じゅつ but has a road 辶. 街 has 行 around it too, but it means town.",
+        "explanation_ta": "びじゅつかん = 美術館 (கலைக்கூடம், art museum). 述-உம் じゅつ; ஆனால் அதில் சாலை 辶. 街-இலும் சுற்றி 行 உண்டு; ஆனால் அது நகரம்."
+      }
+    ]
+  }
+}

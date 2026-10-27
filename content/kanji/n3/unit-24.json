@@ -1,0 +1,357 @@
+{
+  "unit": 24,
+  "title": { "en": "Daily life and meeting people", "ta": "அன்றாட வாழ்க்கையும் மனிதர்களும்" },
+  "intro": {
+    "en": "In this unit you learn 13 kanji for home life and people: wash, window, belly, evening, age, give, cross, welcome and he. Many use parts you know well: 氵 (water), 穴 (hole), 辶 (road) and 扌 (hand). Watch the pairs 空/突 and 晩/勉: one small part changes the meaning.",
+    "ta": "இந்தப் பாடத்தில் வீட்டு வாழ்க்கையும் மனிதர்களும் பற்றிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: கழுவுதல், சன்னல், வயிறு, இரவு, வயது, கொடுத்தல், கடத்தல், வரவேற்பு, அவன். பலவற்றில் நன்கு தெரிந்த பகுதிகள்: 氵 (நீர்), 穴 (ஓட்டை), 辶 (சாலை), 扌 (கை). 空/突, 晩/勉 ஜோடிகளைக் கவனியுங்கள்: ஒரு சிறு பகுதி மாறினால் பொருள் மாறும்."
+  },
+  "kanji": [
+    {
+      "kanji": "洗",
+      "meaning": { "en": "wash", "ta": "கழுவுதல்" },
+      "on": ["せん"],
+      "kun": ["あら.う"],
+      "mnemonic": {
+        "en": "On the left is water (氵). On the right is 先 (first, before). Before you eat, first you put your hands in water. You wash.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் 先 (முதலில், முன்). சாப்பிடுவதற்கு முன், முதலில் கையைத் தண்ணீரில் வைக்கிறீர்கள். கழுவுதல்."
+      },
+      "examples": [
+        { "word": "洗う", "reading": "あらう", "en": "to wash", "ta": "கழுவுதல்", "vocabId": "n5-v-039" },
+        { "word": "お手洗い", "reading": "おてあらい", "en": "toilet, restroom", "ta": "கழிவறை", "vocabId": "n5-v-116" },
+        { "word": "洗面所", "reading": "せんめんじょ", "en": "washroom, washbasin area", "ta": "முகம் கழுவும் இடம்" }
+      ]
+    },
+    {
+      "kanji": "窓",
+      "meaning": { "en": "window", "ta": "சன்னல்" },
+      "on": ["そう"],
+      "kun": ["まど"],
+      "mnemonic": {
+        "en": "On top is 穴, a hole in the wall under a roof. Below it are a small 厶 and 心 (heart). A hole in the wall that lets your heart look outside: a window.",
+        "ta": "மேலே 穴 — கூரையின் கீழ் சுவரில் ஒரு ஓட்டை. அதன் கீழ் சிறிய 厶, பிறகு 心 (இதயம்). உங்கள் மனம் வெளியே பார்க்க உதவும் சுவர் ஓட்டை: சன்னல்."
+      },
+      "examples": [
+        { "word": "窓", "reading": "まど", "en": "window", "ta": "சன்னல்", "vocabId": "n5-v-631" },
+        { "word": "窓口", "reading": "まどぐち", "en": "service counter, ticket window", "ta": "சேவைக் கவுண்டர், டிக்கெட் சன்னல்" },
+        { "word": "窓側", "reading": "まどがわ", "en": "window side", "ta": "சன்னல் பக்கம்" },
+        { "word": "同窓会", "reading": "どうそうかい", "en": "class reunion", "ta": "பழைய மாணவர் சந்திப்பு" }
+      ]
+    },
+    {
+      "kanji": "腹",
+      "meaning": { "en": "belly, stomach", "ta": "வயிறு" },
+      "on": ["ふく"],
+      "kun": ["はら"],
+      "mnemonic": {
+        "en": "On the left is 月, the body sign. On the right is 复: a person (top), a sun (日) and feet (夂) going back and forth. The part of the body where food goes in again and again, every day: the belly.",
+        "ta": "இடப்பக்கம் 月 — உடல் அடையாளம். வலப்பக்கம் 复: ஒரு மனிதன் (மேலே), சூரியன் (日), போய் வரும் கால்கள் (夂). தினமும் மீண்டும் மீண்டும் உணவு உள்ளே போகும் உடல் பகுதி: வயிறு."
+      },
+      "note": {
+        "en": "お腹 is read おなか (a special reading). 腹が立つ (はらがたつ) means “to get angry”.",
+        "ta": "お腹 = おなか (சிறப்பு வாசிப்பு). 腹が立つ (はらがたつ) = “கோபம் வருதல்”."
+      },
+      "examples": [
+        { "word": "お腹", "reading": "おなか", "en": "stomach, belly", "ta": "வயிறு", "vocabId": "n5-v-124" },
+        { "word": "腹", "reading": "はら", "en": "belly, stomach", "ta": "வயிறு", "vocabId": "n3-v-1797" },
+        { "word": "空腹", "reading": "くうふく", "en": "hunger, empty stomach", "ta": "வெறும் வயிறு, பசி" }
+      ]
+    },
+    {
+      "kanji": "頂",
+      "meaning": { "en": "top; receive", "ta": "உச்சி; பெற்றுக்கொள்ளுதல்" },
+      "on": ["ちょう"],
+      "kun": ["いただ.く"],
+      "mnemonic": {
+        "en": "On the left is 丁, a nail. On the right is 頁, a big head. The nail points at the very top of the head: the top, the peak. You also lift a gift up to your head to receive it with respect, like prasadam at the temple: いただく.",
+        "ta": "இடப்பக்கம் 丁 — ஒரு ஆணி. வலப்பக்கம் 頁 — பெரிய தலை. ஆணி தலையின் உச்சியைக் காட்டுகிறது: உச்சி, சிகரம். கோயில் பிரசாதத்தைத் தலைக்கு மேல் தூக்கி மரியாதையாக வாங்குவது போல, பரிசைப் பெற்றுக்கொள்ளுதல்: いただく."
+      },
+      "note": {
+        "en": "いただきます (before eating) comes from 頂く, but it is usually written in kana.",
+        "ta": "いただきます (சாப்பிடும் முன்) 頂く இலிருந்து வந்தது; ஆனால் பொதுவாகக் கானாவில் எழுதப்படும்."
+      },
+      "examples": [
+        { "word": "頂上", "reading": "ちょうじょう", "en": "top, summit", "ta": "உச்சி, சிகரம்", "vocabId": "n3-v-1487" },
+        { "word": "山頂", "reading": "さんちょう", "en": "mountain top", "ta": "மலை உச்சி" },
+        { "word": "頂く", "reading": "いただく", "en": "to receive (humble); to eat (humble)", "ta": "பெற்றுக்கொள்ளுதல் (பணிவு); சாப்பிடுதல் (பணிவு)" }
+      ]
+    },
+    {
+      "kanji": "晩",
+      "meaning": { "en": "evening, night", "ta": "இரவு, மாலை" },
+      "on": ["ばん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is the sun (日). On the right is 免 (escape), the same part as in 勉. The sun escapes and runs away behind the hills. It is evening.",
+        "ta": "இடப்பக்கம் சூரியன் (日). வலப்பக்கம் 免 (தப்பித்தல்) — 勉 இல் வரும் அதே பகுதி. சூரியன் தப்பி மலைக்குப் பின்னால் ஓடிவிடுகிறது. மாலை ஆகிவிட்டது."
+      },
+      "note": {
+        "en": "Don’t mix up 晩 (evening, sun 日 on the left) and 勉 (study, power 力).",
+        "ta": "晩 (மாலை, இடப்பக்கம் சூரியன் 日), 勉 (படிப்பு, 力 சக்தி) இரண்டையும் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        { "word": "今晩", "reading": "こんばん", "en": "tonight, this evening", "ta": "இன்று இரவு", "vocabId": "n5-v-273" },
+        { "word": "晩", "reading": "ばん", "en": "evening", "ta": "மாலை, இரவு", "vocabId": "n5-v-550" },
+        { "word": "毎晩", "reading": "まいばん", "en": "every night", "ta": "ஒவ்வொரு இரவும்", "vocabId": "n5-v-620" },
+        { "word": "晩ご飯", "reading": "ばんごはん", "en": "dinner", "ta": "இரவு உணவு" }
+      ]
+    },
+    {
+      "kanji": "歳",
+      "meaning": { "en": "years old, age", "ta": "வயது" },
+      "on": ["さい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is 止 (stop). Under it is a spear (戈) with small marks (小) on it. Every birthday you stop and cut one more mark into the spear. Count the marks: that is your age.",
+        "ta": "மேலே 止 (நிறுத்து). அதன் கீழ் சிறு கோடுகள் (小) உள்ள ஒரு ஈட்டி (戈). ஒவ்வொரு பிறந்தநாளிலும் நின்று ஈட்டியில் இன்னொரு கோடு செதுக்குகிறீர்கள். கோடுகளை எண்ணுங்கள்: அதுதான் உங்கள் வயது."
+      },
+      "note": {
+        "en": "二十歳 (20 years old) is read はたち. Watch the sound changes: 一歳 いっさい, 八歳 はっさい, 十歳 じゅっさい. In easy texts 才 is also used for age.",
+        "ta": "二十歳 (20 வயது) = はたち. ஒலிமாற்றங்களைக் கவனியுங்கள்: 一歳 いっさい, 八歳 はっさい, 十歳 じゅっさい. எளிய எழுத்தில் வயதுக்கு 才 வும் பயன்படும்."
+      },
+      "examples": [
+        { "word": "何歳", "reading": "なんさい", "en": "how old", "ta": "என்ன வயது" },
+        { "word": "二十歳", "reading": "はたち", "en": "20 years old", "ta": "20 வயது", "vocabId": "n5-v-534" },
+        { "word": "万歳", "reading": "ばんざい", "en": "hurray! (lit. ten thousand years)", "ta": "வாழ்க! (பத்தாயிரம் ஆண்டுகள்)" }
+      ]
+    },
+    {
+      "kanji": "与",
+      "meaning": { "en": "give", "ta": "கொடுத்தல்" },
+      "on": ["よ"],
+      "kun": ["あた.える"],
+      "mnemonic": {
+        "en": "It looks like a hand (the hook) passing a big spoon across a line to someone else. To give. You saw it before in 写 (copy), under a lid.",
+        "ta": "ஒரு கை (கொக்கி வடிவம்) ஒரு பெரிய கரண்டியைக் கோட்டைத் தாண்டி இன்னொருவரிடம் கொடுப்பது போல இருக்கிறது. கொடுத்தல். இதை 写 (நகல்) இல் மூடியின் கீழ் ஏற்கனவே பார்த்திருக்கிறீர்கள்."
+      },
+      "examples": [
+        { "word": "与える", "reading": "あたえる", "en": "to give", "ta": "கொடுத்தல், வழங்குதல்", "vocabId": "n3-v-0319" },
+        { "word": "給与", "reading": "きゅうよ", "en": "salary, pay", "ta": "சம்பளம்" },
+        { "word": "寄与", "reading": "きよ", "en": "contribution", "ta": "பங்களிப்பு" }
+      ]
+    },
+    {
+      "kanji": "違",
+      "meaning": { "en": "differ, wrong", "ta": "வேறுபடுதல், தவறு" },
+      "on": ["い"],
+      "kun": ["ちが.う", "ちが.える"],
+      "mnemonic": {
+        "en": "辶 is the road sign. On it is 韋: one foot at the top walks one way, one foot at the bottom walks the other way, around a wall (口). Two people walk in different directions. Different, and one of them is wrong!",
+        "ta": "辶 — சாலை அடையாளம். அதன் மேல் 韋: மேலே ஒரு கால் ஒரு திசையில், கீழே ஒரு கால் எதிர்த் திசையில், ஒரு சுவரைச் (口) சுற்றி நடக்கின்றன. இருவர் வெவ்வேறு திசையில் போகிறார்கள். வேறுபாடு — ஒருவர் தவறான வழியில்!"
+      },
+      "examples": [
+        { "word": "違う", "reading": "ちがう", "en": "to be different; to be wrong", "ta": "வேறுபடுதல்; தவறாக இருத்தல்", "vocabId": "n5-v-402" },
+        { "word": "間違える", "reading": "まちがえる", "en": "to make a mistake", "ta": "தவறு செய்தல்", "vocabId": "n4-v-162" },
+        { "word": "間違い", "reading": "まちがい", "en": "mistake", "ta": "தவறு", "vocabId": "n3-v-1988" },
+        { "word": "違反", "reading": "いはん", "en": "breaking (a rule or law)", "ta": "(விதி, சட்டம்) மீறல்", "vocabId": "n3-v-0412" }
+      ]
+    },
+    {
+      "kanji": "渡",
+      "meaning": { "en": "cross; hand over", "ta": "கடத்தல்; ஒப்படைத்தல்" },
+      "on": [],
+      "kun": ["わた.る", "わた.す"],
+      "mnemonic": {
+        "en": "On the left is water (氵). On the right is 度 (times). The ferryman takes his boat across the river many times a day. To cross over; he also hands people over to the other side.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் 度 (முறை). படகோட்டி தினமும் பல முறை ஆற்றைக் கடக்கிறார். கடத்தல்; மக்களை அக்கரையில் ஒப்படைக்கிறார்."
+      },
+      "note": {
+        "en": "渡る = to cross (you go across); 渡す = to hand something over (you give it across).",
+        "ta": "渡る = கடத்தல் (நீங்கள் கடந்து போகிறீர்கள்); 渡す = ஒன்றை ஒப்படைத்தல் (கை மாற்றிக் கொடுக்கிறீர்கள்)."
+      },
+      "examples": [
+        { "word": "渡る", "reading": "わたる", "en": "to cross, to go across", "ta": "கடந்து செல்லுதல்", "vocabId": "n5-v-717" },
+        { "word": "渡す", "reading": "わたす", "en": "to hand over", "ta": "கொடுத்தல், ஒப்படைத்தல்", "vocabId": "n5-v-716" },
+        { "word": "手渡す", "reading": "てわたす", "en": "to hand over in person", "ta": "கையில் கொடுத்தல்" }
+      ]
+    },
+    {
+      "kanji": "突",
+      "meaning": { "en": "sudden; poke", "ta": "திடீர்; குத்துதல்" },
+      "on": ["とつ"],
+      "kun": ["つ.く"],
+      "mnemonic": {
+        "en": "On top is 穴 (a hole). Under it is 犬 (dog). A dog suddenly jumps out of a hole and pushes into you! Sudden, and to poke.",
+        "ta": "மேலே 穴 (ஓட்டை). அதன் கீழ் 犬 (நாய்). ஒரு நாய் திடீரென ஓட்டையிலிருந்து குதித்து உங்கள் மேல் மோதுகிறது! திடீர், குத்துதல்."
+      },
+      "note": {
+        "en": "Don’t mix up 突 (穴 + 犬, dog) and 空 (穴 + 工, sky).",
+        "ta": "突 (穴 + 犬 நாய்), 空 (穴 + 工, வானம்) இரண்டையும் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        { "word": "突然", "reading": "とつぜん", "en": "suddenly", "ta": "திடீரென்று", "vocabId": "n3-v-1617" },
+        { "word": "突く", "reading": "つく", "en": "to poke, to push", "ta": "குத்துதல், தள்ளுதல்", "vocabId": "n3-v-1511" },
+        { "word": "突き当たり", "reading": "つきあたり", "en": "end (of a street)", "ta": "(தெருவின்) கடைசி முனை" }
+      ]
+    },
+    {
+      "kanji": "捕",
+      "meaning": { "en": "catch", "ta": "பிடித்தல்" },
+      "on": [],
+      "kun": ["つか.まえる", "つか.まる", "と.らえる"],
+      "mnemonic": {
+        "en": "On the left is a hand (扌). On the right is 甫: a field (田 inside 用) with a stick in it. A farmer’s hand grabs the rat that runs through the field. To catch.",
+        "ta": "இடப்பக்கம் கை (扌). வலப்பக்கம் 甫: ஒரு குச்சி நட்ட வயல் (用 க்குள் 田). வயலில் ஓடும் எலியை விவசாயியின் கை பிடிக்கிறது. பிடித்தல்."
+      },
+      "note": {
+        "en": "捕まえる = catch (someone); 捕まる = be caught.",
+        "ta": "捕まえる = (ஒருவரைப்) பிடித்தல்; 捕まる = பிடிபடுதல்."
+      },
+      "examples": [
+        { "word": "捕まえる", "reading": "つかまえる", "en": "to catch, to arrest", "ta": "பிடித்தல், கைது செய்தல்", "vocabId": "n4-v-128" },
+        { "word": "捕まる", "reading": "つかまる", "en": "to be caught, to be arrested", "ta": "பிடிபடுதல்", "vocabId": "n3-v-1503" },
+        { "word": "捕らえる", "reading": "とらえる", "en": "to catch, to capture", "ta": "பிடித்தல்" }
+      ]
+    },
+    {
+      "kanji": "迎",
+      "meaning": { "en": "welcome, meet", "ta": "வரவேற்றல்" },
+      "on": ["げい"],
+      "kun": ["むか.える"],
+      "mnemonic": {
+        "en": "On the road (辶) are two people: one stands and waits, the other comes up to meet them. You go out to the road to welcome a guest, like meeting them at the gate with a garland.",
+        "ta": "சாலையில் (辶) இரண்டு பேர்: ஒருவர் நின்று காத்திருக்கிறார், மற்றவர் அவரிடம் வருகிறார். விருந்தினரை வாசலில் மாலையுடன் சந்திப்பது போல, சாலைக்குப் போய் வரவேற்கிறீர்கள்."
+      },
+      "examples": [
+        { "word": "迎える", "reading": "むかえる", "en": "to welcome; to go to meet", "ta": "வரவேற்றல்; அழைத்துவரச் செல்லுதல்", "vocabId": "n4-v-123" },
+        { "word": "迎え", "reading": "むかえ", "en": "meeting, picking someone up", "ta": "அழைத்துவருதல்", "vocabId": "n3-v-1029" },
+        { "word": "送迎", "reading": "そうげい", "en": "pick-up and drop-off", "ta": "அழைத்துச் செல்லுதலும் கொண்டுவிடுதலும்" }
+      ]
+    },
+    {
+      "kanji": "彼",
+      "meaning": { "en": "he, that", "ta": "அவன், அது" },
+      "on": ["ひ"],
+      "kun": ["かれ", "かの"],
+      "mnemonic": {
+        "en": "On the left is 彳, the “going” sign from 待 and 後. On the right is 皮 (skin). A man walking over there, in his own skin, not me: he.",
+        "ta": "இடப்பக்கம் 彳 — 待, 後 இல் வரும் “நடை” அடையாளம். வலப்பக்கம் 皮 (தோல்). அங்கே நடந்து போகும் ஒருவன், அவன் தோலில் அவன் — நான் அல்ல: அவன்."
+      },
+      "note": {
+        "en": "彼 also means “boyfriend” and 彼女 (かのじょ) means “she” or “girlfriend”.",
+        "ta": "彼 என்றால் “காதலன்” என்றும் பொருள்; 彼女 (かのじょ) = “அவள்” அல்லது “காதலி”."
+      },
+      "examples": [
+        { "word": "彼", "reading": "かれ", "en": "he; boyfriend", "ta": "அவன்; காதலன்", "vocabId": "n4-v-066" },
+        { "word": "彼女", "reading": "かのじょ", "en": "she; girlfriend", "ta": "அவள்; காதலி", "vocabId": "n4-v-454" },
+        { "word": "彼ら", "reading": "かれら", "en": "they", "ta": "அவர்கள்", "vocabId": "n4-v-351" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU24-q01", "type": "kanji_reading",
+        "sentence": "食べる 前に 手を ＿洗いましょう＿。", "target": "洗いましょう",
+        "options": ["あらいましょう", "せんいましょう", "あろいましょう", "わらいましょう"], "answer": 0,
+        "explanation_en": "洗う is あらう (கழுவுதல், to wash), so 洗いましょう is あらいましょう. わらう is 笑う (laugh).",
+        "explanation_ta": "洗う = あらう (கழுவுதல், to wash); ஆகவே 洗いましょう = あらいましょう. わらう என்பது 笑う (சிரித்தல்)."
+      },
+      {
+        "id": "KU24-q02", "type": "kanji_reading",
+        "sentence": "＿窓＿を あけても いいですか。", "target": "窓",
+        "options": ["まと", "まど", "そう", "かど"], "answer": 1,
+        "explanation_en": "Alone, 窓 is まど (சன்னல், window), with voiced ど. そう is the on reading, as in 同窓会.",
+        "explanation_ta": "தனியாக 窓 = まど (சன்னல், window) — ど (ஒலிமாற்றம்). そう என்பது on வாசிப்பு — 同窓会 போல."
+      },
+      {
+        "id": "KU24-q03", "type": "kanji_reading",
+        "sentence": "＿お腹＿が すきました。", "target": "お腹",
+        "options": ["おはら", "おふく", "おなか", "おばら"], "answer": 2,
+        "explanation_en": "お腹 has a special reading: おなか (வயிறு, stomach). はら is the reading of 腹 alone.",
+        "explanation_ta": "お腹 க்குச் சிறப்பு வாசிப்பு: おなか (வயிறு, stomach). はら என்பது 腹 தனியாக வரும்போது."
+      },
+      {
+        "id": "KU24-q04", "type": "kanji_reading",
+        "sentence": "山の ＿頂上＿まで 三時間 かかりました。", "target": "頂上",
+        "options": ["ちょじょう", "ちょうじょ", "ていじょう", "ちょうじょう"], "answer": 3,
+        "explanation_en": "頂上 is ちょうじょう (உச்சி, summit). Both parts are long: ちょう and じょう.",
+        "explanation_ta": "頂上 = ちょうじょう (உச்சி, summit). இரண்டு பகுதியும் நீட்டல்: ちょう, じょう."
+      },
+      {
+        "id": "KU24-q05", "type": "kanji_reading",
+        "sentence": "＿今晩＿ 電話します。", "target": "今晩",
+        "options": ["こんばん", "こんぱん", "いまばん", "こんや"], "answer": 0,
+        "explanation_en": "今晩 is こんばん (இன்று இரவு, tonight), with ば, not ぱ. こんや is 今夜, a different word.",
+        "explanation_ta": "今晩 = こんばん (இன்று இரவு, tonight) — ば, ぱ அல்ல. こんや என்பது 今夜 — வேறு சொல்."
+      },
+      {
+        "id": "KU24-q06", "type": "kanji_reading",
+        "sentence": "弟は 来月 ＿二十歳＿に なります。", "target": "二十歳",
+        "options": ["はつか", "はたち", "ふつか", "はだち"], "answer": 1,
+        "explanation_en": "二十歳 has a special reading: はたち (20 வயது, 20 years old). はつか is 二十日 (the 20th day).",
+        "explanation_ta": "二十歳 க்குச் சிறப்பு வாசிப்பு: はたち (20 வயது, 20 years old). はつか என்பது 二十日 (20ஆம் தேதி)."
+      },
+      {
+        "id": "KU24-q07", "type": "kanji_reading",
+        "sentence": "子どもたちに 夢を ＿与える＿ 仕事です。", "target": "与える",
+        "options": ["よえる", "あだえる", "あたえる", "かえる"], "answer": 2,
+        "explanation_en": "与える is あたえる (கொடுத்தல், to give), with unvoiced た. よ is the on reading, as in 給与.",
+        "explanation_ta": "与える = あたえる (கொடுத்தல், to give) — た, だ அல்ல. よ என்பது on வாசிப்பு — 給与 போல."
+      },
+      {
+        "id": "KU24-q08", "type": "kanji_reading",
+        "sentence": "わたしの 意見は あなたと ＿違います＿。", "target": "違います",
+        "options": ["ちかいます", "いがいます", "しがいます", "ちがいます"], "answer": 3,
+        "explanation_en": "違う is ちがう (வேறுபடுதல், to be different), with voiced が. ちかう is a different verb.",
+        "explanation_ta": "違う = ちがう (வேறுபடுதல், to be different) — が (ஒலிமாற்றம்). ちかう வேறு வினைச்சொல்."
+      },
+      {
+        "id": "KU24-q09", "type": "kanji_reading",
+        "sentence": "車に 気を つけて 道を ＿渡って＿ ください。", "target": "渡って",
+        "options": ["わたって", "わだって", "とって", "かよって"], "answer": 0,
+        "explanation_en": "渡る is わたる (கடந்து செல்லுதல், to cross), so 渡って is わたって, with unvoiced た.",
+        "explanation_ta": "渡る = わたる (கடந்து செல்லுதல், to cross); ஆகவே 渡って = わたって — た, だ அல்ல."
+      },
+      {
+        "id": "KU24-q10", "type": "kanji_reading",
+        "sentence": "＿突然＿ 雨が 降って きました。", "target": "突然",
+        "options": ["とつせん", "とつぜん", "とっぜん", "とつぜい"], "answer": 1,
+        "explanation_en": "突然 is とつぜん (திடீரென்று, suddenly): とつ + voiced ぜん.",
+        "explanation_ta": "突然 = とつぜん (திடீரென்று, suddenly): とつ + ஒலிமாற்ற ぜん."
+      },
+      {
+        "id": "KU24-q11", "type": "orthography",
+        "sentence": "駅まで 母を ＿むかえ＿に 行きます。", "target": "むかえ",
+        "options": ["仰え", "逆え", "迎え", "近え"], "answer": 2,
+        "explanation_en": "むかえ is 迎え (அழைத்துவருதல், meeting someone): road 辶 + two people meeting. 仰 has 亻, not the road; 逆 and 近 have other right sides.",
+        "explanation_ta": "むかえ = 迎え (அழைத்துவருதல், meeting someone): சாலை 辶 + சந்திக்கும் இருவர். 仰 இல் சாலை இல்லை, 亻 உண்டு; 逆, 近 வேறு."
+      },
+      {
+        "id": "KU24-q12", "type": "orthography",
+        "sentence": "けいさつが どろぼうを ＿つかまえました＿。", "target": "つかまえました",
+        "options": ["補まえました", "浦まえました", "博まえました", "捕まえました"], "answer": 3,
+        "explanation_en": "つかまえる is 捕まえる (பிடித்தல், to catch), with the hand 扌. 補 has 衤 (clothes), 浦 has 氵 (water).",
+        "explanation_ta": "つかまえる = 捕まえる (பிடித்தல், to catch) — கை 扌. 補 இல் 衤 (உடை), 浦 இல் 氵 (நீர்)."
+      },
+      {
+        "id": "KU24-q13", "type": "orthography",
+        "sentence": "＿かのじょ＿は わたしの 姉です。", "target": "かのじょ",
+        "options": ["波女", "被女", "彼女", "皮女"], "answer": 2,
+        "explanation_en": "かのじょ is 彼女 (அவள், she): the going sign 彳 + 皮. 波 has 氵 and 被 has 衤.",
+        "explanation_ta": "かのじょ = 彼女 (அவள், she): நடை அடையாளம் 彳 + 皮. 波 இல் 氵, 被 இல் 衤."
+      },
+      {
+        "id": "KU24-q14", "type": "orthography",
+        "sentence": "＿まいばん＿ 日記を 書きます。", "target": "まいばん",
+        "options": ["毎免", "毎勉", "毎晴", "毎晩"], "answer": 3,
+        "explanation_en": "まいばん is 毎晩 (ஒவ்வொரு இரவும், every night): the sun 日 + 免. 勉 has 力, not the sun; 晴 is はれ (sunny).",
+        "explanation_ta": "まいばん = 毎晩 (ஒவ்வொரு இரவும், every night): சூரியன் 日 + 免. 勉 இல் சூரியன் இல்லை, 力 உண்டு; 晴 = はれ (வெயில்)."
+      },
+      {
+        "id": "KU24-q15", "type": "orthography",
+        "sentence": "これを 田中さんに ＿わたして＿ ください。", "target": "わたして",
+        "options": ["渡して", "度して", "波して", "液して"], "answer": 0,
+        "explanation_en": "わたす is 渡す (ஒப்படைத்தல், to hand over): water 氵 + 度. 度 alone has no water.",
+        "explanation_ta": "わたす = 渡す (ஒப்படைத்தல், to hand over): நீர் 氵 + 度. 度 தனியாக இருந்தால் நீர் இல்லை."
+      },
+      {
+        "id": "KU24-q16", "type": "orthography",
+        "sentence": "駅の ＿まどぐち＿で きっぷを 買います。", "target": "まどぐち",
+        "options": ["空口", "窓口", "突口", "究口"], "answer": 1,
+        "explanation_en": "まどぐち is 窓口 (டிக்கெட் சன்னல், ticket window): 窓 has 穴 + 心. 空, 突 and 究 also have 穴 on top.",
+        "explanation_ta": "まどぐち = 窓口 (டிக்கெட் சன்னல், ticket window): 窓 இல் 穴 + 心. 空, 突, 究 இலும் மேலே 穴 உண்டு."
+      }
+    ]
+  }
+}

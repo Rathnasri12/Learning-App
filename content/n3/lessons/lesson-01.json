@@ -1,0 +1,283 @@
+{
+  "lesson": 1,
+  "title": { "ja": "友だちとしゃべる", "ta": "நண்பர்களுடன் அரட்டை", "en": "Chatting with friends" },
+  "intro_ta": "N3 பாடத்திட்டத்தின் முதல் பாடத்துக்கு வரவேற்கிறோம்! இந்தப் பாடத்தில் நண்பர்களுடன் இயல்பாக, சாதாரணமாகப் பேசும் ஜப்பானிய மொழியைக் கற்போம். மறந்ததை உறுதி செய்ய 〜っけ, 'இல்லையா?' என்று ஒப்புதல் கேட்க 〜じゃない / 〜じゃん, சிறு குழந்தை போலச் சாக்குச் சொல்ல 〜もん, பேசுபவரின் உணர்வைக் காட்டும் வாக்கிய முடிவுகள் わ / ぞ / ぜ ஆகியவற்றைப் படிப்போம். நண்பர்கள், நகைச்சுவை, வாழ்த்துகள், அன்றாட வினைச்சொற்கள் பற்றிய புதிய சொற்களையும் கற்போம். அனிமே, நாடகங்களில் கேட்கும் பேச்சு இப்போது புரியத் தொடங்கும்.",
+  "intro_en": "Welcome to the first lesson of N3! In this lesson you will learn casual Japanese for talking with friends. You will learn 〜っけ to check something you forgot. You will learn 〜じゃない / 〜じゃん to say \"isn't it?\". You will learn 〜もん to give a childish excuse. You will also learn the endings わ, ぞ and ぜ. They show who is talking and how they feel. New words cover friends, jokes, greetings and everyday verbs. After this lesson, the talk in anime and dramas will make more sense.",
+  "grammar": [
+    {
+      "id": "g01-1",
+      "pattern": "〜っけ",
+      "name": { "en": "〜っけ: what was it again?", "ta": "〜っけ: மறந்ததை நினைவுபடுத்திக் கேட்பது" },
+      "explanation_ta": "ஒரு விஷயம் முன்பு தெரிந்திருந்தும் இப்போது சரியாக நினைவில்லாதபோது, அதை உறுதி செய்ய வாக்கியத்தின் கடைசியில் っけ சேர்க்கிறோம். தமிழில் 'அவர் பெயர் என்னவாக இருந்தது?', 'கூட்டம் மூன்று மணிக்குத்தானே?' என்று கேட்பது போல. இது பெரும்பாலும் தனக்குத்தானே கேட்கும் கேள்வியாகவும் இருக்கலாம் (சாவியை எங்கே வைத்தேன்?). பெயர்ச்சொல், な-பெயரடைக்கு だっけ / だったっけ; வினை, い-பெயரடைக்குப் பெரும்பாலும் கடந்த கால வடிவம் + っけ (行ったっけ, 高かったっけ). மரியாதையாகக் கேட்க でしたっけ / ましたっけ பயன்படுத்தலாம். கடந்த கால வடிவத்துடன், 'அந்தக் காலத்தில் இப்படிச் செய்தோம் இல்லையா' என்று பழைய நினைவை அசைபோடவும் வரும். か போல நேரடியாகப் புதிய தகவல் கேட்பதல்ல; 'முன்பே தெரியும், மறந்துவிட்டேன்' என்ற உணர்வு இதில் உண்டு.",
+      "explanation_en": "Add っけ at the end when you knew something but can’t remember it now. It means \"what was it again?\" or \"was it ...?\". You often ask yourself, like \"Where did I put my keys?\". With nouns and な-adjectives, use だっけ or だったっけ. With verbs and い-adjectives, you usually use the past form: 行ったっけ, 高かったっけ. To be polite, say でしたっけ or ましたっけ. With the past form, っけ can also mean \"we used to ..., didn’t we?\". It is different from か. With か you ask for new information. With っけ you say \"I knew this, but I forgot\".",
+      "tamil_parallel": "அவர் பெயர் என்னவாக இருந்தது? (மறந்துவிட்டேன்) = あの人の名前、何だっけ？",
+      "tamil_parallel_en": "\"What was his name again?\" (அவர் பெயர் என்னவாக இருந்தது?) = あの人の名前、何だっけ？",
+      "formation": "பெயர்ச்சொல் / な-பெயரடை + だっけ・だったっけ: 何だっけ・休みだったっけ\nவினை (கடந்த காலம்) + っけ: 置いたっけ・言ったっけ\nい-பெயரடை (கடந்த காலம்) + っけ: 高かったっけ\nமரியாதை: 〜でしたっけ・〜ましたっけ",
+      "formation_en": "Noun / な-adjective + だっけ・だったっけ: 何だっけ・休みだったっけ\nVerb (past) + っけ: 置いたっけ・言ったっけ\nい-adjective (past) + っけ: 高かったっけ\nPolite: 〜でしたっけ・〜ましたっけ",
+      "examples": [
+        { "ja": "ねえ、あの 人の 名前、何だっけ？", "reading": "ねえ、あの ひとの なまえ、なんだっけ？", "romaji": "nee, ano hito no namae, nan dakke?", "ta": "ஏய், அவர் பெயர் என்னவாக இருந்தது?", "en": "Hey, what was that person's name again?" },
+        { "ja": "今日って 何曜日だっけ？", "reading": "きょうって なんようびだっけ？", "romaji": "kyou tte nan'youbi dakke?", "ta": "இன்று என்ன கிழமை? மறந்துவிட்டேன்.", "en": "What day is it today again?" },
+        { "ja": "あれ、鍵 どこに 置いたっけ。", "reading": "あれ、かぎ どこに おいたっけ。", "romaji": "are, kagi doko ni oitakke.", "ta": "அட, சாவியை எங்கே வைத்தேன்?", "en": "Huh, where did I put the keys?" },
+        { "ja": "すみません、会議は 三時からでしたっけ。", "reading": "すみません、かいぎは さんじからでしたっけ。", "romaji": "sumimasen, kaigi wa sanji kara deshitakke.", "ta": "மன்னிக்கவும், கூட்டம் மூன்று மணிக்குத்தானே?", "en": "Sorry, was the meeting from three o'clock?" },
+        { "ja": "明日の 授業、休みだったっけ？", "reading": "あしたの じゅぎょう、やすみだったっけ？", "romaji": "ashita no jugyou, yasumi dattakke?", "ta": "நாளைக்கு வகுப்பு இல்லைதானே?", "en": "There's no class tomorrow, was it?" },
+        { "ja": "子どもの ころ、よく この 川で 泳いだっけ。", "reading": "こどもの ころ、よく この かわで およいだっけ。", "romaji": "kodomo no koro, yoku kono kawa de oyoidakke.", "ta": "சின்ன வயதில் இந்த ஆற்றில் அடிக்கடி நீந்தினோம், இல்லையா!", "en": "We often swam in this river as kids, didn't we." }
+      ],
+      "pitfalls_ta": "முற்றிலும் புதிய தகவலுக்கு っけ வேண்டாம்: முதல் முறை சந்திப்பவரிடம் お名前は何でしたっけ என்று கேட்பது விசித்திரமாக இருக்கும். 'これ、高いっけ' போல நிகழ்கால い-பெயரடையுடன் சேர்ப்பது இயல்பாக இல்லை; 高かったっけ என்று சொல்லுங்கள்.",
+      "pitfalls_en": "Don’t use っけ for brand-new information. Asking a new person お名前は何でしたっけ sounds strange. Also, 高いっけ with the present い-adjective sounds odd. Say 高かったっけ."
+    },
+    {
+      "id": "g01-2",
+      "pattern": "〜じゃない / 〜じゃん",
+      "name": { "en": "〜じゃない / 〜じゃん: isn't it?", "ta": "〜じゃない / 〜じゃん: இல்லையா? / தானே!" },
+      "explanation_ta": "N5-இல் じゃない என்பதை 'இல்லை' (学生じゃない = மாணவன் இல்லை) என்று கற்றோம். ஆனால் நண்பர்களுடன் பேசும்போது, குரலை மேலே தூக்கி அல்லது அழுத்தமாகச் சொல்லும் 〜じゃない, 'இல்லையா?', '...தானே!' என்று எதிரில் இருப்பவரின் ஒப்புதலைக் கேட்கும் அல்லது ஆச்சரியத்தைக் காட்டும். じゃん என்பது அதன் இன்னும் சாதாரண, சுருக்கமான வடிவம் (இளைஞர்கள் அதிகம் பயன்படுத்துவர்). வினை, い-பெயரடையின் சாதாரண வடிவத்துடன் நேரடியாகச் சேர்க்கலாம்: おいしいじゃん、言ったじゃない. பெயர்ச்சொல், な-பெயரடைக்கு だ இல்லாமல் சேர்க்கவும்: 上手じゃん. だから言ったじゃない ('நான் அப்போதே சொன்னேனே!') என்பது மிகவும் பொதுவான வாக்கியம். இது மரியாதைப் பேச்சுக்கு அல்ல; மேலதிகாரியிடம் 〜じゃないですか என்று சொல்லலாம், ஆனால் அதுவும் கொஞ்சம் நேரடியாகக் கேட்கும்.",
+      "explanation_en": "In N5 you learned じゃない as \"is not\": 学生じゃない. But with friends, じゃない can also mean \"isn’t it?\" or \"you know!\". You say it with a rising or strong voice. You ask the listener to agree, or you show surprise. じゃん is a shorter, more casual form. Young people use it a lot. Put it after the plain form of verbs and い-adjectives: おいしいじゃん, 言ったじゃない. With nouns and な-adjectives, drop だ: 上手じゃん. だから言ったじゃない means \"I told you so!\". This is casual speech. With a boss, 〜じゃないですか is possible, but it can sound pushy.",
+      "tamil_parallel": "நான் அப்போதே சொன்னேனே! = だから言ったじゃない; இது சூப்பரா இருக்கே! = これ、いいじゃん",
+      "tamil_parallel_en": "\"I told you so!\" (நான் அப்போதே சொன்னேனே!) = だから言ったじゃない. \"This is great, isn't it!\" (இது சூப்பரா இருக்கே!) = これ、いいじゃん.",
+      "formation": "வினை (சாதாரண வடிவம்) + じゃない・じゃん: あるじゃん・言ったじゃない\nい-பெயரடை + じゃない・じゃん: おいしいじゃん\nな-பெயரடை / பெயர்ச்சொல் + じゃない・じゃん: 上手じゃん・雨じゃない\n(குரல் மேலே ஏறும் அல்லது அழுத்தமாக முடியும்)",
+      "formation_en": "Verb (plain form) + じゃない・じゃん: あるじゃん・言ったじゃない\nい-adjective + じゃない・じゃん: おいしいじゃん\nな-adjective / noun + じゃない・じゃん: 上手じゃん・雨じゃない\n(The voice goes up, or the ending is strong)",
+      "examples": [
+        { "ja": "この ケーキ、すごく おいしいじゃん。", "reading": "この ケーキ、すごく おいしいじゃん。", "romaji": "kono keeki, sugoku oishii jan.", "ta": "இந்தக் கேக் ரொம்ப ருசியாக இருக்கே!", "en": "This cake is really good, isn't it!" },
+        { "ja": "ほら、だから 言ったじゃない。", "reading": "ほら、だから いったじゃない。", "romaji": "hora, dakara itta janai.", "ta": "பார், நான் அப்போதே சொன்னேனே!", "en": "See, I told you so!" },
+        { "ja": "ラヴィ、日本語 上手じゃん！", "reading": "ラヴィ、にほんご じょうずじゃん！", "romaji": "ravi, nihongo jouzu jan!", "ta": "ரவி, உன் ஜப்பானிய மொழி நன்றாக இருக்கே!", "en": "Ravi, your Japanese is good!" },
+        { "ja": "駅の 前に 本屋が あるじゃない？ あそこで 会おう。", "reading": "えきの まえに ほんやが あるじゃない？ あそこで あおう。", "romaji": "eki no mae ni hon'ya ga aru janai? asoko de aou.", "ta": "ரயில் நிலையத்தின் முன் ஒரு புத்தகக் கடை இருக்கிறது இல்லையா? அங்கே சந்திப்போம்.", "en": "You know the bookshop in front of the station? Let's meet there." },
+        { "ja": "なんだ、まだ 時間 あるじゃん。", "reading": "なんだ、まだ じかん あるじゃん。", "romaji": "nanda, mada jikan aru jan.", "ta": "அட, இன்னும் நேரம் இருக்கே!", "en": "Oh, we still have time!" },
+        { "ja": "いいじゃない、たまには 一緒に 食べようよ。", "reading": "いいじゃない、たまには いっしょに たべようよ。", "romaji": "ii janai, tama ni wa issho ni tabeyou yo.", "ta": "பரவாயில்லையே, எப்போதாவது ஒன்றாகச் சாப்பிடலாமே.", "en": "Come on, why not? Let's eat together for once." }
+      ],
+      "pitfalls_ta": "おいしいじゃない ('ருசியாக இருக்கே!') மற்றும் おいしくない ('ருசியாக இல்லை') வேறு வேறு. い-பெயரடையின் எதிர்மறை எப்போதும் 〜くない; எனவே 〜いじゃない என்று வந்தால் அது ஒப்புதல் கேட்பதுதான். பெயர்ச்சொல்லுடன் (学生じゃない) இரண்டு பொருளும் வரலாம்; குரலின் ஏற்ற இறக்கத்தையும் சூழலையும் வைத்துப் புரிந்துகொள்ளுங்கள்.",
+      "pitfalls_en": "おいしいじゃない (\"it’s tasty, isn’t it!\") and おいしくない (\"it’s not tasty\") are different. The negative of an い-adjective is always 〜くない. So 〜いじゃない is always \"isn’t it?\". With nouns, 学生じゃない can mean both. Listen to the voice and the situation."
+    },
+    {
+      "id": "g01-3",
+      "pattern": "〜もん",
+      "name": { "en": "〜もん: because ~ (casual excuse)", "ta": "〜もん: '...தானே, அதான்!' (சாக்கு)" },
+      "explanation_ta": "〜もん (எழுத்தில் 〜もの) என்பது காரணத்தைச் சொல்லும் மிகச் சாதாரணமான, உணர்ச்சி கலந்த வாக்கிய முடிவு. 'ஏன் சாப்பிடவில்லை?' என்ற கேள்விக்கு 'காரமா இருக்கே, அதான்!' என்று குழந்தை போலச் சாக்குச் சொல்வது போல. பெரும்பாலும் だって ('ஆனால் / ஏனென்றால்') உடன் சேர்ந்து வரும்: だって、辛いんだもん. வினை, い-பெயரடையின் சாதாரண வடிவம் + もん அல்லது + んだもん; பெயர்ச்சொல், な-பெயரடைக்கு だもん. குழந்தைகள், பெண்கள், நெருங்கிய நண்பர்கள் பேச்சில் அதிகம் வரும்; 'எனக்கு உரிமை உண்டு' என்ற செல்லமான பிடிவாதம் இதில் தெரியும். から, ので போன்ற சாதாரணக் காரணச் சொற்களைப் போல வாக்கியத்தின் நடுவில் வராது; வாக்கியத்தின் கடைசியில்தான் வரும். அலுவலகம், ஆசிரியர் போன்ற மரியாதை தேவைப்படும் இடங்களில் பயன்படுத்தக் கூடாது.",
+      "explanation_en": "〜もん gives a reason in a very casual, emotional way. In writing it is 〜もの. Think of a child who says \"But it’s spicy!\" when asked \"Why aren’t you eating?\". It often comes with だって (\"but / because\"): だって、辛いんだもん. Use the plain form + もん or + んだもん. With nouns and な-adjectives, use だもん. Children, young women and close friends use it a lot. It sounds a bit spoiled or stubborn. Unlike から or ので, it comes only at the end of a sentence. Don’t use it at work or with teachers.",
+      "tamil_parallel": "காரமா இருக்கே, அதான்! = だって、辛いんだもん",
+      "tamil_parallel_en": "\"But it's spicy, that's why!\" (காரமா இருக்கே, அதான்!) = だって、辛いんだもん",
+      "formation": "(だって、) வினை / い-பெயரடை (சாதாரண வடிவம்) + もん・んだもん: 疲れたもん・辛いんだもん\nபெயர்ச்சொல் / な-பெயரடை + だもん: 子どもだもん・好きだもん\nஎழுத்து / மென்மையான வடிவம்: 〜もの",
+      "formation_en": "(だって、) Verb / い-adjective (plain form) + もん・んだもん: 疲れたもん・辛いんだもん\nNoun / な-adjective + だもん: 子どもだもん・好きだもん\nWritten / softer form: 〜もの",
+      "examples": [
+        { "ja": "「どうして 食べないの？」「だって、辛いんだもん。」", "reading": "「どうして たべないの？」「だって、からいんだもん。」", "romaji": "\"doushite tabenai no?\" \"datte, karai n da mon.\"", "ta": "\"ஏன் சாப்பிடவில்லை?\" \"காரமா இருக்கே, அதான்!\"", "en": "\"Why aren't you eating?\" \"Because it's spicy!\"" },
+        { "ja": "今日は 出かけたくない。疲れたもん。", "reading": "きょうは でかけたくない。つかれたもん。", "romaji": "kyou wa dekaketakunai. tsukareta mon.", "ta": "இன்று வெளியே போக விருப்பமில்லை. களைப்பா இருக்கே!", "en": "I don't want to go out today. I'm tired!" },
+        { "ja": "しかたないよ。弟は まだ 子どもだもん。", "reading": "しかたないよ。おとうとは まだ こどもだもん。", "romaji": "shikatanai yo. otouto wa mada kodomo da mon.", "ta": "என்ன செய்வது? தம்பி இன்னும் சின்னப் பையன்தானே!", "en": "It can't be helped. My little brother is still a kid!" },
+        { "ja": "知らなかったよ。誰も 教えて くれなかったもん。", "reading": "しらなかったよ。だれも おしえて くれなかったもん。", "romaji": "shiranakatta yo. dare mo oshiete kurenakatta mon.", "ta": "எனக்குத் தெரியாது. யாருமே சொல்லவில்லையே!", "en": "I didn't know. Nobody told me!" },
+        { "ja": "遅れて ごめん。電車が 全然 来なかったんだもん。", "reading": "おくれて ごめん。でんしゃが ぜんぜん こなかったんだもん。", "romaji": "okurete gomen. densha ga zenzen konakatta n da mon.", "ta": "தாமதமானதுக்கு மன்னிச்சுக்கோ. ரயிலே வரவில்லையே!", "en": "Sorry I'm late. The train just didn't come!" },
+        { "ja": "この 服、また 買っちゃった。だって、好きなんだもん。", "reading": "この ふく、また かっちゃった。だって、すきなんだもん。", "romaji": "kono fuku, mata kacchatta. datte, suki na n da mon.", "ta": "இந்த உடையை மறுபடியும் வாங்கிவிட்டேன். எனக்குப் பிடிக்குமே, அதான்!", "en": "I bought these clothes again. Well, I like them!" }
+      ],
+      "pitfalls_ta": "〜もん என்பதை から போல வாக்கியத்தின் நடுவில் வைக்க முடியாது (✕ 疲れたもん、帰ります). மேலும் இது செல்லமாகப் பிடிவாதம் பிடிப்பது போலக் கேட்கும்; வேலையிடத்தில் காரணம் சொல்ல 〜ので / 〜んです பயன்படுத்துங்கள்.",
+      "pitfalls_en": "〜もん can’t join two parts of a sentence like から can (✕ 疲れたもん、帰ります). It also sounds childish and stubborn. At work, give reasons with 〜ので or 〜んです."
+    },
+    {
+      "id": "g01-4",
+      "pattern": "〜わ / 〜ぞ / 〜ぜ",
+      "name": { "en": "Endings わ, ぞ, ぜ: style and feeling", "ta": "わ / ぞ / ぜ: பேசுபவரின் பாணியும் உணர்வும்" },
+      "explanation_ta": "ね, よ போலவே わ, ぞ, ぜ ஆகியவை வாக்கியத்தின் கடைசியில் வந்து பேசுபவரின் உணர்வையும் பாணியையும் காட்டும். わ (குரல் மேலே ஏறினால்) மென்மையான, பாரம்பரியமாகப் பெண்கள் பேசும் பாணி: 私も行くわ. ஆனால் குரல் கீழே இறங்கும் わ இன்று ஆண்களும் பெண்களும் 'நான் ...கிறேன்' என்று தன் முடிவைச் சொல்லப் பயன்படுத்துவர் (குறிப்பாக மேற்கு ஜப்பானில்): じゃあ、帰るわ. ぞ என்பது ஆண்கள் பாணியில் வலுவான அழுத்தம்: தனக்குத்தானே உறுதி கூறுவது (頑張るぞ！) அல்லது எச்சரிப்பது (遅れるぞ). ぜ என்பது ஆண்கள் பாணியில் நட்பான, உற்சாகமான 'டா' போன்ற முடிவு: 行こうぜ. தமிழில் 'வா டா', 'செய்வேன்!', 'போகலாம்ப்பா' என்று சொல்லும் தொனி வேறுபாடு போல. இவை எல்லாமே சாதாரண (plain) வடிவத்துக்குப் பின் வரும்; மேலதிகாரியிடம் ぞ, ぜ பயன்படுத்தினால் மிகவும் மரியாதையற்றதாகத் தோன்றும்.",
+      "explanation_en": "Like ね and よ, the endings わ, ぞ and ぜ show the speaker’s feeling and style. わ with a rising voice is soft. It is a traditional female style: 私も行くわ. But わ with a falling voice is used by men and women today. It means \"I’m going to ...\", especially in western Japan: じゃあ、帰るわ. ぞ is strong and sounds male. You use it to push yourself (頑張るぞ！) or to warn someone (遅れるぞ). ぜ is male, friendly and excited, like \"let’s go, man!\": 行こうぜ. In Tamil, compare the tone of \"வா டா\" (come on, man) and \"போகலாம்ப்பா\" (let’s go). All of these come after the plain form. Using ぞ or ぜ with your boss is very rude.",
+      "tamil_parallel": "சரி, நான் கிளம்புறேன் = じゃあ、帰るわ; இன்று கண்டிப்பாக முயற்சி செய்வேன்! = 今日は頑張るぞ！; வா டா, போகலாம்! = 行こうぜ！",
+      "tamil_parallel_en": "\"Okay, I'm off\" (சரி, நான் கிளம்புறேன்) = じゃあ、帰るわ. \"I'll really try today!\" (இன்று கண்டிப்பாக முயற்சி செய்வேன்!) = 今日は頑張るぞ！ \"Come on, let's go!\" (வா டா, போகலாம்!) = 行こうぜ！",
+      "formation": "சாதாரண வடிவம் + わ: 行くわ・きれいだわ (மென்மை / தன் முடிவு)\nசாதாரண வடிவம் + ぞ: 頑張るぞ・遅れるぞ (வலுவான அழுத்தம், எச்சரிக்கை)\nசாதாரண வடிவம் / ஊக்க வடிவம் (〜おう) + ぜ: うまいぜ・行こうぜ (நட்பான உற்சாகம்)",
+      "formation_en": "Plain form + わ: 行くわ・きれいだわ (soft / your own decision)\nPlain form + ぞ: 頑張るぞ・遅れるぞ (strong push, warning)\nPlain form / \"let’s\" form (〜おう) + ぜ: うまいぜ・行こうぜ (friendly, excited)",
+      "examples": [
+        { "ja": "じゃあ、先に 帰るわ。また 明日。", "reading": "じゃあ、さきに かえるわ。また あした。", "romaji": "jaa, saki ni kaeru wa. mata ashita.", "ta": "சரி, நான் முன்னாடியே கிளம்புகிறேன். நாளை பார்க்கலாம்.", "en": "Okay, I'm heading home first. See you tomorrow." },
+        { "ja": "私も 一緒に 行くわ。ちょっと 待ってて。", "reading": "わたしも いっしょに いくわ。ちょっと まってて。", "romaji": "watashi mo issho ni iku wa. chotto mattete.", "ta": "நானும் உங்களோடு வருகிறேன். கொஞ்சம் காத்திருங்கள்.", "en": "I'll come with you too. Wait a moment." },
+        { "ja": "まあ、きれいな 花だわ。", "reading": "まあ、きれいな はなだわ。", "romaji": "maa, kirei na hana da wa.", "ta": "ஆகா, எவ்வளவு அழகான பூ!", "en": "Oh my, what a pretty flower!" },
+        { "ja": "よし、今日は 最後まで 頑張るぞ！", "reading": "よし、きょうは さいごまで がんばるぞ！", "romaji": "yoshi, kyou wa saigo made ganbaru zo!", "ta": "சரி, இன்று கடைசி வரை முழு முயற்சி செய்வேன்!", "en": "Right, today I'll give it my all to the end!" },
+        { "ja": "おい、早く しないと 遅れるぞ。", "reading": "おい、はやく しないと おくれるぞ。", "romaji": "oi, hayaku shinai to okureru zo.", "ta": "டேய், சீக்கிரம் கிளம்பாவிட்டால் தாமதமாகிவிடும்!", "en": "Hey, if you don't hurry, we'll be late!" },
+        { "ja": "さあ、みんなで 海へ 行こうぜ！", "reading": "さあ、みんなで うみへ いこうぜ！", "romaji": "saa, minna de umi e ikou ze!", "ta": "வாங்கடா, எல்லோரும் கடற்கரைக்குப் போகலாம்!", "en": "Come on, let's all go to the beach!" },
+        { "ja": "この ラーメン、けっこう うまいぜ。", "reading": "この ラーメン、けっこう うまいぜ。", "romaji": "kono raamen, kekkou umai ze.", "ta": "இந்த ராமென் நல்ல ருசியாக இருக்கு டா.", "en": "This ramen is pretty good, man." }
+      ],
+      "pitfalls_ta": "அனிமேயில் கேட்பதை அப்படியே பயன்படுத்த வேண்டாம். ぞ, ぜ ஆண் பாணியும் கரடுமுரடானதுமாகும்; ஆசிரியர், மேலதிகாரியிடம் பயன்படுத்தக் கூடாது. です / ます உடன் ぞ, ぜ சேராது. குரல் ஏறும் わ இன்று பழைய / நாடகப் பெண் பாணியாகக் கேட்கலாம்; முதலில் இவற்றைக் கேட்டுப் புரிந்துகொள்ளப் பழகுங்கள்.",
+      "pitfalls_en": "Don’t copy anime speech directly. ぞ and ぜ are male and rough. Never use them with teachers or bosses. They don’t go with です / ます. Rising わ can sound old-fashioned or like TV drama. First, learn to understand these endings when you hear them."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0078", "n3-v-0087", "n3-v-0146", "n3-v-0193", "n3-v-0228", "n3-v-0246", "n3-v-0250", "n3-v-0347", "n3-v-0348", "n3-v-0353",
+    "n3-v-0361", "n3-v-0385", "n3-v-0422", "n3-v-0440", "n3-v-0503", "n3-v-0511", "n3-v-0527", "n3-v-0538", "n3-v-0565", "n3-v-0572",
+    "n3-v-0596", "n3-v-0600", "n3-v-0677", "n3-v-0779", "n3-v-0788", "n3-v-0801", "n3-v-0905", "n3-v-0906", "n3-v-0927", "n3-v-0955",
+    "n3-v-0982", "n3-v-1078", "n3-v-1105", "n3-v-1109", "n3-v-1110", "n3-v-1113", "n3-v-1154", "n3-v-1226", "n3-v-1230", "n3-v-1343",
+    "n3-v-1395", "n3-v-1429", "n3-v-1434", "n3-v-1488", "n3-v-1581", "n3-v-1608", "n3-v-1625", "n3-v-1639", "n3-v-1674", "n3-v-1685",
+    "n3-v-1736", "n3-v-1963", "n3-v-1999"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L01-q01", "type": "kanji_reading",
+        "sentence": "彼の ＿冗談＿は いつも おもしろい。", "target": "冗談",
+        "options": ["じょだん", "じょうだん", "じょうたん", "しょうだん"], "answer": 1,
+        "explanation_ta": "冗談 = じょうだん (ஜோக்). 冗 நீண்ட ஒலி じょう; 談 = だん (ட ஒலி). じょだん நீளத்தைக் குறைத்த தவறு.",
+        "explanation_en": "冗談 = じょうだん (ஜோக், joke). 冗 has a long sound, じょう. 談 is だん. じょだん is too short."
+      },
+      {
+        "id": "L01-q02", "type": "kanji_reading",
+        "sentence": "大学の ＿友人＿と 久しぶりに 会った。", "target": "友人",
+        "options": ["ゆうにん", "ともじん", "ゆうじん", "ゆじん"], "answer": 2,
+        "explanation_ta": "友人 = ゆうじん (நண்பர், மரியாதையான சொல்). இரண்டும் சீன ஒலிகள்: 友 = ゆう, 人 = じん. ともじん என்பது ஜப்பானிய, சீன ஒலிகளைக் கலந்த தவறு.",
+        "explanation_en": "友人 = ゆうじん (நண்பர், friend). Both kanji use their Chinese-style sounds: 友 = ゆう, 人 = じん. ともじん mixes two kinds of readings."
+      },
+      {
+        "id": "L01-q03", "type": "kanji_reading",
+        "sentence": "二人の ＿友情＿は 今も 続いて いる。", "target": "友情",
+        "options": ["ゆうじょう", "ゆうじょ", "ともじょう", "ゆじょう"], "answer": 0,
+        "explanation_ta": "友情 = ゆうじょう (நட்பு). 情 = じょう (நீண்ட ஒலி). ゆうじょ என்பது நீளத்தை விட்டுவிட்ட தவறு.",
+        "explanation_en": "友情 = ゆうじょう (நட்பு, friendship). 情 is じょう, with a long sound. ゆうじょ drops the long sound."
+      },
+      {
+        "id": "L01-q04", "type": "orthography",
+        "sentence": "その 話は ＿しんじられない＿。", "target": "しんじられない",
+        "options": ["真じられない", "伸じられない", "心じられない", "信じられない"], "answer": 3,
+        "explanation_ta": "நம்புதல் = 信じる. 真, 伸, 心 எல்லாம் しん என்று ஒலித்தாலும் 'நம்புதல்' என்ற பொருள் தராது.",
+        "explanation_en": "\"To believe\" (நம்ப) = 信じる. 真, 伸 and 心 can also be read しん, but they don’t mean \"believe\"."
+      },
+      {
+        "id": "L01-q05", "type": "orthography",
+        "sentence": "週末は 家族と 楽しく ＿すごした＿。", "target": "すごした",
+        "options": ["通ごした", "過ごした", "遇ごした", "退ごした"], "answer": 1,
+        "explanation_ta": "நேரத்தைக் கழித்தல் = 過ごす. 通 (கடந்து செல்), 遇, 退 ஆகியவை வடிவில் ஒத்திருந்தாலும் வேறு கான்ஜி.",
+        "explanation_en": "\"To spend time\" (கழிக்க) = 過ごす. 通, 遇 and 退 look similar, but they are different kanji."
+      },
+      {
+        "id": "L01-q06", "type": "vocab_context",
+        "sentence": "友だちと カフェで 二時間も （　　）。",
+        "options": ["しゃべった", "黙った", "避けた", "戻した"], "answer": 0,
+        "explanation_ta": "நண்பர்களுடன் கஃபேயில் இரண்டு மணி நேரம் 'அரட்டை அடித்தேன்' → しゃべった. 黙った (பேசாமல் இருந்தேன்) இந்தச் சூழலுக்குப் பொருந்தாது.",
+        "explanation_en": "Two hours with friends at a cafe → しゃべった (அரட்டை அடித்தேன், chatted). 黙った (went silent) doesn’t fit here."
+      },
+      {
+        "id": "L01-q07", "type": "vocab_context",
+        "sentence": "「（　　）！ 宿題を 家に 忘れた。」",
+        "options": ["いらっしゃい", "しまった", "いただきます", "よろしく"], "answer": 1,
+        "explanation_ta": "ஏதோ தவறு நடந்ததை உணர்ந்தவுடன் 'ஐயோ!' = しまった. いらっしゃい வரவேற்பு; いただきます சாப்பிடும் முன் சொல்வது.",
+        "explanation_en": "When you notice a mistake, you say しまった (ஐயோ!, oh no!). いらっしゃい is \"welcome\". いただきます is said before eating."
+      },
+      {
+        "id": "L01-q08", "type": "vocab_context",
+        "sentence": "今日の 気温は 三十八度を （　　）。",
+        "options": ["越えた", "下った", "超えた", "囲んだ"], "answer": 2,
+        "explanation_ta": "எண், அளவு ஒரு எல்லையைத் தாண்டுவது = 超える. 越える (மலை, எல்லை போன்ற இடத்தைக் கடப்பது) ஒலியில் ஒன்றுதான், ஆனால் இடத்துக்குப் பயன்படும்.",
+        "explanation_en": "A number going over a limit = 超える (தாண்ட, exceed). 越える sounds the same. But it is for crossing a place, like a mountain or a border."
+      },
+      {
+        "id": "L01-q09", "type": "vocab_context",
+        "sentence": "子どもたちは 先生を （　　） 座りました。",
+        "options": ["抱えて", "合わせて", "動かして", "囲んで"], "answer": 3,
+        "explanation_ta": "ஆசிரியரைச் 'சுற்றி' அமர்ந்தனர் → 囲んで. 抱えて (கைகளில் தூக்கி) ஒருவரைத் தூக்குவதைக் குறிக்கும்.",
+        "explanation_en": "The children sat around the teacher → 囲んで (சுற்றி, surrounding). 抱えて means holding someone in your arms."
+      },
+      {
+        "id": "L01-q10", "type": "vocab_context",
+        "sentence": "それは よかったね。（　　）、来週の 旅行、何時に 出発する？",
+        "options": ["ところで", "だけど", "それと", "まあ"], "answer": 0,
+        "explanation_ta": "பேச்சின் தலைப்பை மாற்றும்போது 'அது சரி' = ところで. だけど (ஆனால்) முரண்பாட்டைக் காட்டும்; இங்கு முரண்பாடு இல்லை.",
+        "explanation_en": "To change the topic, say ところで (அது சரி, by the way). だけど (but) shows a contrast. There is no contrast here."
+      },
+      {
+        "id": "L01-q11", "type": "paraphrase",
+        "sentence": "兄は とても おしゃべりだ。",
+        "options": ["兄は あまり 話さない 人だ。", "兄は よく 笑う 人だ。", "兄は 話が 下手な 人だ。", "兄は よく 話す 人だ。"], "answer": 3,
+        "explanation_ta": "おしゃべり = நிறையப் பேசுபவர் (வாயாடி) → よく話す人. あまり話さない என்பது நேர் எதிர்.",
+        "explanation_en": "おしゃべり = a person who talks a lot (வாயாடி, chatterbox) → よく話す人. あまり話さない is the opposite."
+      },
+      {
+        "id": "L01-q12", "type": "paraphrase",
+        "sentence": "なんで 昨日 来なかったの？",
+        "options": ["昨日は 何時に 来たの？", "どうして 昨日 来なかったの？", "昨日 来られなかったの？", "昨日は だれと 来たの？"], "answer": 1,
+        "explanation_ta": "なんで = どうして (ஏன்). 来られなかったの？ என்பது 'வர முடியவில்லையா?' என்று கேட்கிறது; காரணத்தைக் கேட்கவில்லை.",
+        "explanation_en": "なんで = どうして (ஏன், why). 来られなかったの？ asks \"Couldn’t you come?\". It doesn’t ask for the reason."
+      },
+      {
+        "id": "L01-q13", "type": "usage",
+        "sentence": "冗談",
+        "options": ["父は 毎朝 冗談を して、会社へ 行く。", "この 料理は 冗談なので、とても 辛い。", "友だちの 冗談を 聞いて、みんなで 笑った。", "冗談が 多い 部屋は 少し 暗い。"], "answer": 2,
+        "explanation_ta": "冗談 = ஜோக்; 冗談を言う / 冗談を聞く என்று பயன்படும். 冗談をする என்று சொல்வதில்லை; உணவு, அறைக்கும் இது பொருந்தாது.",
+        "explanation_en": "冗談 = a joke (ஜோக்). We say 冗談を言う or 冗談を聞く. We don’t say 冗談をする. It doesn’t fit food or rooms either."
+      },
+      {
+        "id": "L01-q14", "type": "usage",
+        "sentence": "過ごす",
+        "options": ["毎朝 バスで 駅まで 過ごします。", "この 道を 過ごすと、右に 駅が あります。", "テストの 前に 教科書を 過ごしました。", "夏休みは 祖母の 家で 過ごしました。"], "answer": 3,
+        "explanation_ta": "過ごす = நேரம் / காலத்தைக் கழித்தல்: 夏休みを過ごす. இடம் வழியாகச் செல்வது 通る; பயணம் செய்வது 行く.",
+        "explanation_en": "過ごす = to spend a period of time (கழிக்க): 夏休みを過ごす. Going along a road is 通る. Travelling somewhere is 行く."
+      },
+      {
+        "id": "L01-q15", "type": "grammar_form",
+        "sentence": "あの 店、何時まで（　　）？ 忘れちゃった。",
+        "options": ["だぞ", "だもん", "じゃん", "だっけ"], "answer": 3,
+        "explanation_ta": "முன்பு தெரிந்தது, இப்போது மறந்துவிட்டது ('忘れちゃった') → だっけ. じゃん ஒப்புதல் கேட்பது; கேள்வி கேட்கவில்லை.",
+        "explanation_en": "You knew it before, but you forgot (忘れちゃった) → だっけ. じゃん asks the listener to agree. It doesn’t ask a question."
+      },
+      {
+        "id": "L01-q16", "type": "grammar_form",
+        "sentence": "「ねえ、この 服、どう？」「いい（　　）！ よく 似合ってるよ。」",
+        "options": ["じゃん", "っけ", "もん", "ぞ"], "answer": 0,
+        "explanation_ta": "'நல்லா இருக்கே!' என்று பாராட்டி ஒப்புதல் தருவது → いいじゃん. いいっけ என்பது இலக்கணப் பிழை; もん காரணம் சொல்வது.",
+        "explanation_en": "\"It looks great!\" (நல்லா இருக்கே!) → いいじゃん. いいっけ is not correct. もん gives a reason."
+      },
+      {
+        "id": "L01-q17", "type": "grammar_form",
+        "sentence": "「どうして 宿題を しなかったの？」「だって、時間が なかった（　　）。」",
+        "options": ["っけ", "じゃん", "んだもん", "ぜ"], "answer": 2,
+        "explanation_ta": "だって + 〜もん = 'நேரமே இல்லையே, அதான்!' என்று சாக்குச் சொல்வது. っけ மறந்ததைக் கேட்பது; இங்கு காரணம் தேவை.",
+        "explanation_en": "だって + 〜もん gives an excuse: \"There was no time, that’s why!\" (நேரமே இல்லையே, அதான்!). っけ asks about something you forgot. Here you need a reason."
+      },
+      {
+        "id": "L01-q18", "type": "grammar_form",
+        "sentence": "この 映画、前に 一緒に（　　）っけ？",
+        "options": ["見る", "見た", "見て", "見ない"], "answer": 1,
+        "explanation_ta": "முன்பு நடந்ததை நினைவுபடுத்திக் கேட்பதால் கடந்த காலம் + っけ → 見たっけ. 見るっけ இங்கு இயல்பாக இல்லை.",
+        "explanation_en": "You are checking a past event, so use the past form + っけ → 見たっけ. 見るっけ sounds wrong here."
+      },
+      {
+        "id": "L01-q19", "type": "grammar_form",
+        "sentence": "よし、明日から 毎朝 走る（　　）！",
+        "options": ["っけ", "もん", "ぞ", "じゃん"], "answer": 2,
+        "explanation_ta": "'நாளையிலிருந்து ஓடுவேன்!' என்று தனக்குத்தானே உறுதி கூறுவது → 走るぞ. じゃん எதிரில் இருப்பவரிடம் ஒப்புதல் கேட்பது.",
+        "explanation_en": "You make a strong promise to yourself: \"I’ll run from tomorrow!\" → 走るぞ. じゃん asks the listener to agree."
+      },
+      {
+        "id": "L01-q20", "type": "grammar_form",
+        "sentence": "ほら、だから 言った（　　）。傘を 持って 行けって。",
+        "options": ["っけ", "もん", "じゃない", "ぜ"], "answer": 2,
+        "explanation_ta": "'நான் அப்போதே சொன்னேனே!' = だから言ったじゃない. 言ったっけ என்றால் 'சொன்னேனா?' என்று சந்தேகம்; இங்கு அழுத்தம் தேவை.",
+        "explanation_en": "\"I told you so!\" (நான் அப்போதே சொன்னேனே!) = だから言ったじゃない. 言ったっけ means \"Did I say it?\". That is doubt, not a strong point."
+      },
+      {
+        "id": "L01-q21", "type": "grammar_form",
+        "sentence": "「もう 寝なさい。」「いやだ。まだ 眠く ない（　　）。」",
+        "options": ["っけ", "もん", "だっけ", "かな"], "answer": 1,
+        "explanation_ta": "தூங்கச் சொன்னதற்குக் குழந்தை 'இன்னும் தூக்கம் வரவில்லையே!' என்று பிடிவாதமாகக் காரணம் சொல்கிறது → もん. かな ('...ஓ?') சந்தேகம் காட்டும்.",
+        "explanation_en": "A child refuses to sleep and gives a stubborn reason: \"I’m not sleepy yet!\" → もん. かな (\"I wonder\") shows doubt."
+      },
+      {
+        "id": "L01-q22", "type": "sentence_order",
+        "before": "ねえ、", "chunks": ["あの", "人の", "名前", "何だった"], "star": 2, "after": "っけ？",
+        "explanation_ta": "ねえ、あの人の名前、何だったっけ？ = 'ஏய், அவர் பெயர் என்னவாக இருந்தது?' あの → 人の → 名前 → 何だった → っけ.",
+        "explanation_en": "ねえ、あの人の名前、何だったっけ？ = \"Hey, what was that person’s name again?\" あの → 人の → 名前 → 何だった → っけ."
+      },
+      {
+        "id": "L01-q23", "type": "sentence_order",
+        "before": "この 店、", "chunks": ["すごく", "安くて", "おいしい", "じゃん"], "star": 1, "after": "！",
+        "explanation_ta": "この店、すごく安くておいしいじゃん！ = 'இந்தக் கடை ரொம்ப மலிவாகவும் ருசியாகவும் இருக்கே!' すごく 安くて-ஐ விவரிக்கிறது; じゃん கடைசியில்.",
+        "explanation_en": "この店、すごく安くておいしいじゃん！ = \"This place is so cheap and tasty!\" すごく describes 安くて. じゃん comes last."
+      },
+      {
+        "id": "L01-q24", "type": "sentence_order",
+        "before": "眠いよ。だって、", "chunks": ["昨日", "ほとんど", "寝て", "いないんだ"], "star": 2, "after": "もん。",
+        "explanation_ta": "だって、昨日ほとんど寝ていないんだもん = 'நேற்று கிட்டத்தட்டத் தூங்கவே இல்லையே, அதான்!' ほとんど + 〜ていない = கிட்டத்தட்ட ...இல்லை.",
+        "explanation_en": "だって、昨日ほとんど寝ていないんだもん = \"Because I hardly slept yesterday!\" ほとんど + 〜ていない = almost not."
+      },
+      {
+        "id": "L01-q25", "type": "passage_cloze",
+        "passage": "ミナ：「ねえ、ラヴィ。昨日 話して いた 映画、何て タイトル［1］？」\nラヴィ：「『サクラ』だよ。すごく よかった［2］。ミナも 見に 行こうよ。」\nミナ：「うーん、でも 今週は 無理。宿題が たくさん ある［3］。」\nラヴィ：「そうか。じゃあ、来週 一緒に 行こう［4］！」",
+        "blanks": [
+          { "options": ["だっけ", "じゃん", "だもん", "だぞ"], "answer": 0 },
+          { "options": ["っけ", "ぜ", "だっけ", "じゃない"], "answer": 1 },
+          { "options": ["っけ", "だっけ", "ぞ", "んだもん"], "answer": 3 },
+          { "options": ["ぜ", "っけ", "もん", "じゃない"], "answer": 0 }
+        ],
+        "explanation_ta": "［1］ நேற்று கேட்ட பெயரை மறந்துவிட்டாள் → だっけ. ［2］ ரவி (ஆண்) நண்பரிடம் உற்சாகமாகச் சொல்கிறான் → よかったぜ. ［3］ 'நிறைய வீட்டுப்பாடம் இருக்கே, அதான்!' என்று சாக்கு → あるんだもん. ［4］ 'போகலாம் வா!' என்று நட்பாக அழைப்பது → 行こうぜ; 行こうっけ, 行こうもん என்ற வடிவங்கள் இல்லை.",
+        "explanation_en": "[1] Mina forgot the title she heard yesterday → だっけ. [2] Ravi (male) speaks with excitement to a friend → よかったぜ. [3] She gives an excuse: \"I have lots of homework!\" → あるんだもん. [4] A friendly \"let’s go!\" → 行こうぜ. 行こうっけ and 行こうもん are not real forms."
+      }
+    ]
+  }
+}

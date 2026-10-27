@@ -1,0 +1,956 @@
+[
+  {
+    "id": "n3-v-0004",
+    "expression": "覚ます",
+    "reading": "さます",
+    "romaji": "samasu",
+    "en": "to wake (someone) up",
+    "ta": "எழுப்ப; (கண்) விழிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "毎朝 六時に 目を 覚まします。",
+        "reading": "まいあさ ろくじに めを さまします。",
+        "romaji": "maiasa rokuji ni me o samashimasu.",
+        "ta": "தினமும் காலை ஆறு மணிக்குக் கண் விழிக்கிறேன்.",
+        "en": "I wake up at six every morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0006",
+    "expression": "覚める",
+    "reading": "さめる",
+    "romaji": "sameru",
+    "en": "to wake up",
+    "ta": "விழிப்பு வர",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夜中に 大きな 音で 目が 覚めました。",
+        "reading": "よなかに おおきな おとで めが さめました。",
+        "romaji": "yonaka ni ookina oto de me ga samemashita.",
+        "ta": "நள்ளிரவில் பெரிய சத்தத்தால் விழிப்பு வந்தது.",
+        "en": "A loud noise woke me up in the middle of the night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0035",
+    "expression": "時刻",
+    "reading": "じこく",
+    "romaji": "jikoku",
+    "en": "time (on the clock)",
+    "ta": "நேரம் (குறிப்பிட்ட மணி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅で 電車の 時刻を 調べました。",
+        "reading": "えきで でんしゃの じこくを しらべました。",
+        "romaji": "eki de densha no jikoku o shirabemashita.",
+        "ta": "ரயில் நிலையத்தில் ரயில் புறப்படும் நேரத்தைப் பார்த்தேன்.",
+        "en": "I checked the train times at the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0088",
+    "expression": "週",
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "en": "week",
+    "ta": "வாரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "週に 二回、仕事の 後で ジムに 行きます。",
+        "reading": "しゅうに にかい、しごとの あとで ジムに いきます。",
+        "romaji": "shuu ni nikai, shigoto no ato de jimu ni ikimasu.",
+        "ta": "வாரத்துக்கு இரண்டு முறை வேலை முடிந்ததும் ஜிம்முக்குப் போவேன்.",
+        "en": "Twice a week, I go to the gym after work."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0137",
+    "expression": "正午",
+    "reading": "しょうご",
+    "romaji": "shougo",
+    "en": "noon",
+    "ta": "நண்பகல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昼休みは 正午から 一時までです。",
+        "reading": "ひるやすみは しょうごから いちじまでです。",
+        "romaji": "hiruyasumi wa shougo kara ichiji made desu.",
+        "ta": "மதிய இடைவேளை நண்பகல் பன்னிரண்டு மணி முதல் ஒரு மணி வரை.",
+        "en": "The lunch break is from noon to one o'clock."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0215",
+    "expression": "睡眠",
+    "reading": "すいみん",
+    "romaji": "suimin",
+    "en": "sleep",
+    "ta": "தூக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "健康の ために、十分な 睡眠を とりましょう。",
+        "reading": "けんこうの ために、じゅうぶんな すいみんを とりましょう。",
+        "romaji": "kenkou no tame ni, juubun na suimin o torimashou.",
+        "ta": "உடல்நலத்துக்காகப் போதுமான அளவு தூங்குங்கள்.",
+        "en": "Get enough sleep for your health."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0239",
+    "expression": "既に",
+    "reading": "すでに",
+    "romaji": "sudeni",
+    "en": "already",
+    "ta": "ஏற்கனவே",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "駅に 着いた とき、電車は 既に 出て いました。",
+        "reading": "えきに ついた とき、でんしゃは すでに でて いました。",
+        "romaji": "eki ni tsuita toki, densha wa sudeni dete imashita.",
+        "ta": "ரயில் நிலையத்தை அடைந்தபோது ரயில் ஏற்கனவே புறப்பட்டிருந்தது.",
+        "en": "When I got to the station, the train had already left."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0313",
+    "expression": "明ける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "en": "to dawn; (a year) to begin",
+    "ta": "விடிய; (ஆண்டு) பிறக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "夜が 明ける 前に 家を 出ました。",
+        "reading": "よるが あける まえに いえを でました。",
+        "romaji": "yoru ga akeru mae ni ie o demashita.",
+        "ta": "பொழுது விடிவதற்கு முன் வீட்டை விட்டுக் கிளம்பினேன்.",
+        "en": "I left home before dawn."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0410",
+    "expression": "居眠り",
+    "reading": "いねむり",
+    "romaji": "inemuri",
+    "en": "dozing off",
+    "ta": "கண்ணயர்தல் (உட்கார்ந்தபடி தூங்குதல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の 中で 居眠りを して、駅を 乗り過ごした。",
+        "reading": "でんしゃの なかで いねむりを して、えきを のりすごした。",
+        "romaji": "densha no naka de inemuri o shite, eki o norisugoshita.",
+        "ta": "ரயிலில் கண்ணயர்ந்து, இறங்க வேண்டிய நிலையத்தைத் தாண்டிவிட்டேன்.",
+        "en": "I dozed off on the train and missed my stop."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0524",
+    "expression": "お昼",
+    "reading": "おひる",
+    "romaji": "ohiru",
+    "en": "noon; lunch",
+    "ta": "மதியம்; மதிய உணவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お昼は 会社の 近くの 店で 食べます。",
+        "reading": "おひるは かいしゃの ちかくの みせで たべます。",
+        "romaji": "ohiru wa kaisha no chikaku no mise de tabemasu.",
+        "ta": "மதிய உணவை அலுவலகத்துக்கு அருகிலுள்ள கடையில் சாப்பிடுவேன்.",
+        "en": "I have lunch at a place near the office."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0618",
+    "expression": "片付く",
+    "reading": "かたづく",
+    "romaji": "katazuku",
+    "en": "to be tidied; to be finished",
+    "ta": "ஒழுங்காக; (வேலை) முடிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "部屋が 片付いたら、お茶に しましょう。",
+        "reading": "へやが かたづいたら、おちゃに しましょう。",
+        "romaji": "heya ga katazuitara, ocha ni shimashou.",
+        "ta": "அறை ஒழுங்கானதும் தேநீர் அருந்தலாம்.",
+        "en": "Once the room is tidy, let's have some tea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0711",
+    "expression": "帰宅",
+    "reading": "きたく",
+    "romaji": "kitaku",
+    "en": "coming home",
+    "ta": "வீடு திரும்புதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は いつも 七時ごろに 帰宅します。",
+        "reading": "ちちは いつも しちじごろに きたくします。",
+        "romaji": "chichi wa itsumo shichiji goro ni kitaku shimasu.",
+        "ta": "அப்பா எப்போதும் ஏழு மணியளவில் வீடு திரும்புவார்.",
+        "en": "My father always gets home at about seven."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0932",
+    "expression": "小包",
+    "reading": "こづつみ",
+    "romaji": "kozutsumi",
+    "en": "parcel",
+    "ta": "பார்சல்; சிறு பொட்டலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "郵便局で インドの 母に 小包を 送りました。",
+        "reading": "ゆうびんきょくで インドの ははに こづつみを おくりました。",
+        "romaji": "yuubinkyoku de indo no haha ni kozutsumi o okurimashita.",
+        "ta": "தபால் நிலையத்திலிருந்து இந்தியாவில் உள்ள அம்மாவுக்குப் பார்சல் அனுப்பினேன்.",
+        "en": "I sent a parcel to my mother in India from the post office."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0949",
+    "expression": "今回",
+    "reading": "こんかい",
+    "romaji": "konkai",
+    "en": "this time",
+    "ta": "இந்த முறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今回の 旅行は とても 楽しかったです。",
+        "reading": "こんかいの りょこうは とても たのしかったです。",
+        "romaji": "konkai no ryokou wa totemo tanoshikatta desu.",
+        "ta": "இந்த முறைப் பயணம் மிகவும் மகிழ்ச்சியாக இருந்தது.",
+        "en": "This trip was a lot of fun."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0954",
+    "expression": "今日",
+    "reading": "こんにち",
+    "romaji": "konnichi",
+    "en": "today; nowadays (formal)",
+    "ta": "இன்றைய காலம்; இக்காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日では、多くの 人が スマホを 持って います。",
+        "reading": "こんにちでは、おおくの ひとが スマホを もって います。",
+        "romaji": "konnichi de wa, ooku no hito ga sumaho o motte imasu.",
+        "ta": "இக்காலத்தில் பலரிடம் ஸ்மார்ட்போன் இருக்கிறது.",
+        "en": "Nowadays, many people have smartphones."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0960",
+    "expression": "際",
+    "reading": "さい",
+    "romaji": "sai",
+    "en": "when; on the occasion of (formal)",
+    "ta": "சமயம்; -போது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お帰りの 際は、忘れ物に ご注意ください。",
+        "reading": "おかえりの さいは、わすれものに ごちゅうい ください。",
+        "romaji": "okaeri no sai wa, wasuremono ni gochuui kudasai.",
+        "ta": "திரும்பிச் செல்லும்போது பொருட்களை மறந்துவிடாமல் கவனியுங்கள்.",
+        "en": "When you leave, please take all your belongings."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0964",
+    "expression": "最中",
+    "reading": "さいちゅう",
+    "romaji": "saichuu",
+    "en": "in the middle of",
+    "ta": "நடுவில்; ...க்கொண்டிருக்கும்போது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "食事の 最中に 電話が 鳴りました。",
+        "reading": "しょくじの さいちゅうに でんわが なりました。",
+        "romaji": "shokuji no saichuu ni denwa ga narimashita.",
+        "ta": "சாப்பிட்டுக்கொண்டிருக்கும் நடுவில் தொலைபேசி ஒலித்தது.",
+        "en": "The phone rang in the middle of the meal."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1015",
+    "expression": "満ちる",
+    "reading": "みちる",
+    "romaji": "michiru",
+    "en": "to be full (of)",
+    "ta": "நிரம்ப; நிறைய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "彼女の 顔は 喜びに 満ちて いました。",
+        "reading": "かのじょの かおは よろこびに みちて いました。",
+        "romaji": "kanojo no kao wa yorokobi ni michite imashita.",
+        "ta": "அவள் முகம் மகிழ்ச்சியால் நிறைந்திருந்தது.",
+        "en": "Her face was full of joy."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1022",
+    "expression": "明後日",
+    "reading": "みょうごにち",
+    "romaji": "myougonichi",
+    "en": "the day after tomorrow (formal)",
+    "ta": "நாளை மறுநாள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明後日の 会議は 午前十時からです。",
+        "reading": "みょうごにちの かいぎは ごぜん じゅうじからです。",
+        "romaji": "myougonichi no kaigi wa gozen juuji kara desu.",
+        "ta": "நாளை மறுநாள் கூட்டம் காலை பத்து மணிக்குத் தொடங்கும்.",
+        "en": "The meeting the day after tomorrow starts at 10 a.m."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1072",
+    "expression": "用いる",
+    "reading": "もちいる",
+    "romaji": "mochiiru",
+    "en": "to use (formal)",
+    "ta": "பயன்படுத்த",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "この 料理には 地元の 野菜を 用いて います。",
+        "reading": "この りょうりには じもとの やさいを もちいて います。",
+        "romaji": "kono ryouri ni wa jimoto no yasai o mochiite imasu.",
+        "ta": "இந்த உணவில் உள்ளூர்க் காய்கறிகளைப் பயன்படுத்துகிறோம்.",
+        "en": "We use local vegetables in this dish."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1112",
+    "expression": "郵便",
+    "reading": "ゆうびん",
+    "romaji": "yuubin",
+    "en": "mail; post",
+    "ta": "அஞ்சல்; தபால்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今朝、私に 郵便が 二通 届きました。",
+        "reading": "けさ、わたしに ゆうびんが につう とどきました。",
+        "romaji": "kesa, watashi ni yuubin ga nitsuu todokimashita.",
+        "ta": "இன்று காலை எனக்கு இரண்டு தபால்கள் வந்தன.",
+        "en": "Two letters came for me this morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1122",
+    "expression": "夜明け",
+    "reading": "よあけ",
+    "romaji": "yoake",
+    "en": "dawn",
+    "ta": "விடியல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜明けに 海岸を 散歩するのが 好きです。",
+        "reading": "よあけに かいがんを さんぽするのが すきです。",
+        "romaji": "yoake ni kaigan o sanpo suru no ga suki desu.",
+        "ta": "விடியலில் கடற்கரையில் நடப்பது எனக்குப் பிடிக்கும்.",
+        "en": "I like walking along the beach at dawn."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1133",
+    "expression": "曜日",
+    "reading": "ようび",
+    "romaji": "youbi",
+    "en": "day of the week",
+    "ta": "கிழமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ゴミを 出す 日は 曜日で 決まって います。",
+        "reading": "ゴミを だす ひは ようびで きまって います。",
+        "romaji": "gomi o dasu hi wa youbi de kimatte imasu.",
+        "ta": "குப்பை போடும் நாள் கிழமைப்படி நிர்ணயிக்கப்பட்டுள்ளது.",
+        "en": "Rubbish days are fixed by the day of the week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1143",
+    "expression": "夜中",
+    "reading": "よなか",
+    "romaji": "yonaka",
+    "en": "the middle of the night",
+    "ta": "நள்ளிரவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜中に おなかが すいて、ラーメンを 作りました。",
+        "reading": "よなかに おなかが すいて、ラーメンを つくりました。",
+        "romaji": "yonaka ni onaka ga suite, raamen o tsukurimashita.",
+        "ta": "நள்ளிரவில் பசித்ததால் ராமென் சமைத்தேன்.",
+        "en": "I got hungry in the middle of the night and made ramen."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1156",
+    "expression": "来",
+    "reading": "らい～",
+    "romaji": "rai～",
+    "en": "next ~",
+    "ta": "அடுத்த ~",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "来学期から 日本語の クラスが 増えます。",
+        "reading": "らいがっきから にほんごの クラスが ふえます。",
+        "romaji": "raigakki kara nihongo no kurasu ga fuemasu.",
+        "ta": "அடுத்த பருவத்திலிருந்து ஜப்பானிய மொழி வகுப்புகள் அதிகரிக்கும்.",
+        "en": "From next term, there will be more Japanese classes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1234",
+    "expression": "織る",
+    "reading": "おる",
+    "romaji": "oru",
+    "en": "to weave",
+    "ta": "நெய்ய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "祖母は カーンチプラムで 絹の サリーを 織って いました。",
+        "reading": "そぼは カーンチプラムで きぬの サリーを おって いました。",
+        "romaji": "sobo wa kaanchipuramu de kinu no sarii o otte imashita.",
+        "ta": "பாட்டி காஞ்சிபுரத்தில் பட்டுப் புடவை நெய்து வந்தார்.",
+        "en": "My grandmother used to weave silk saris in Kanchipuram."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1306",
+    "expression": "先日",
+    "reading": "せんじつ",
+    "romaji": "senjitsu",
+    "en": "the other day",
+    "ta": "சில நாட்களுக்கு முன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先日、駅で 偶然 先生に 会いました。",
+        "reading": "せんじつ、えきで ぐうぜん せんせいに あいました。",
+        "romaji": "senjitsu, eki de guuzen sensei ni aimashita.",
+        "ta": "சில நாட்களுக்கு முன் ரயில் நிலையத்தில் தற்செயலாக ஆசிரியரைச் சந்தித்தேன்.",
+        "en": "The other day I happened to meet my teacher at the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1423",
+    "expression": "度",
+    "reading": "たび",
+    "romaji": "tabi",
+    "en": "each time; occasion",
+    "ta": "ஒவ்வொரு முறையும்; தடவை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 写真を 見る たびに、インドを 思い出します。",
+        "reading": "この しゃしんを みる たびに、インドを おもいだします。",
+        "romaji": "kono shashin o miru tabi ni, indo o omoidashimasu.",
+        "ta": "இந்தப் புகைப்படத்தைப் பார்க்கும் ஒவ்வொரு முறையும் இந்தியா நினைவுக்கு வருகிறது.",
+        "en": "Every time I look at this photo, I think of India."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1458",
+    "expression": "違い",
+    "reading": "ちがい",
+    "romaji": "chigai",
+    "en": "difference",
+    "ta": "வேறுபாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 二つの 言葉の 違いが わかりません。",
+        "reading": "この ふたつの ことばの ちがいが わかりません。",
+        "romaji": "kono futatsu no kotoba no chigai ga wakarimasen.",
+        "ta": "இந்த இரண்டு சொற்களுக்கும் உள்ள வேறுபாடு புரியவில்லை.",
+        "en": "I don't understand the difference between these two words."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1480",
+    "expression": "昼食",
+    "reading": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "en": "lunch (formal)",
+    "ta": "மதிய உணவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議の 後で、みんなで 昼食を とりました。",
+        "reading": "かいぎの あとで、みんなで ちゅうしょくを とりました。",
+        "romaji": "kaigi no ato de, minna de chuushoku o torimashita.",
+        "ta": "கூட்டம் முடிந்ததும் எல்லோரும் சேர்ந்து மதிய உணவு அருந்தினோம்.",
+        "en": "After the meeting, we all had lunch together."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1489",
+    "expression": "貯金",
+    "reading": "ちょきん",
+    "romaji": "chokin",
+    "en": "savings",
+    "ta": "சேமிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行の ために、毎月 少しずつ 貯金して います。",
+        "reading": "りょこうの ために、まいつき すこしずつ ちょきんして います。",
+        "romaji": "ryokou no tame ni, maitsuki sukoshi zutsu chokin shite imasu.",
+        "ta": "சுற்றுலாவுக்காக ஒவ்வொரு மாதமும் கொஞ்சம் கொஞ்சமாகச் சேமிக்கிறேன்.",
+        "en": "I'm saving a little every month for a trip."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1509",
+    "expression": "付く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "en": "to stick; to be attached",
+    "ta": "ஒட்ட; படிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "シャツに カレーの しみが 付いて しまった。",
+        "reading": "シャツに カレーの しみが ついて しまった。",
+        "romaji": "shatsu ni karee no shimi ga tsuite shimatta.",
+        "ta": "சட்டையில் குழம்புக் கறை பட்டுவிட்டது.",
+        "en": "I got a curry stain on my shirt."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1514",
+    "expression": "付ける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "en": "to attach; to put on",
+    "ta": "இணைக்க; பொருத்த",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "かばんに 名前を 書いた カードを 付けました。",
+        "reading": "かばんに なまえを かいた カードを つけました。",
+        "romaji": "kaban ni namae o kaita kaado o tsukemashita.",
+        "ta": "பையில் பெயர் எழுதிய அட்டையை இணைத்தேன்.",
+        "en": "I attached a card with my name on it to my bag."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1522",
+    "expression": "繋がる",
+    "reading": "つながる",
+    "romaji": "tsunagaru",
+    "en": "to be connected; to get through",
+    "ta": "இணைய; (இணைப்பு) கிடைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "何度 かけても、電話が つながりません。",
+        "reading": "なんど かけても、でんわが つながりません。",
+        "romaji": "nando kakete mo, denwa ga tsunagarimasen.",
+        "ta": "எத்தனை முறை அழைத்தாலும் தொலைபேசி இணைப்பு கிடைக்கவில்லை.",
+        "en": "However many times I call, I can't get through."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1523",
+    "expression": "繋ぐ",
+    "reading": "つなぐ",
+    "romaji": "tsunagu",
+    "en": "to connect; to hold (hands)",
+    "ta": "இணைக்க; (கை) கோர்க்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "子どもと 手を つないで 道を 渡りました。",
+        "reading": "こどもと てを つないで みちを わたりました。",
+        "romaji": "kodomo to te o tsunaide michi o watarimashita.",
+        "ta": "குழந்தையின் கையைப் பிடித்துக்கொண்டு சாலையைக் கடந்தேன்.",
+        "en": "I crossed the road holding my child's hand."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1524",
+    "expression": "繋げる",
+    "reading": "つなげる",
+    "romaji": "tsunageru",
+    "en": "to connect",
+    "ta": "இணைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "パソコンを テレビに つなげて、映画を 見ました。",
+        "reading": "パソコンを テレビに つなげて、えいがを みました。",
+        "romaji": "pasokon o terebi ni tsunagete, eiga o mimashita.",
+        "ta": "கணினியைத் தொலைக்காட்சியுடன் இணைத்துப் படம் பார்த்தோம்.",
+        "en": "We connected the computer to the TV and watched a film."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1579",
+    "expression": "同時",
+    "reading": "どうじ",
+    "romaji": "douji",
+    "en": "the same time",
+    "ta": "ஒரே நேரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "二人は ほとんど 同時に ゴールしました。",
+        "reading": "ふたりは ほとんど どうじに ゴールしました。",
+        "romaji": "futari wa hotondo douji ni gooru shimashita.",
+        "ta": "இருவரும் கிட்டத்தட்ட ஒரே நேரத்தில் இலக்கை அடைந்தார்கள்.",
+        "en": "The two of them finished at almost the same time."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1593",
+    "expression": "溶く",
+    "reading": "とく",
+    "romaji": "toku",
+    "en": "to mix in; to beat (eggs)",
+    "ta": "கரைக்க; (முட்டை) அடித்துக் கலக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "卵を 溶いて、フライパンに 入れます。",
+        "reading": "たまごを といて、フライパンに いれます。",
+        "romaji": "tamago o toite, furaipan ni iremasu.",
+        "ta": "முட்டையை அடித்துக் கலக்கி வாணலியில் ஊற்றவும்.",
+        "en": "Beat the eggs and pour them into the frying pan."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1604",
+    "expression": "溶ける",
+    "reading": "とける",
+    "romaji": "tokeru",
+    "en": "to melt; to dissolve",
+    "ta": "உருக; கரைய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "暑くて、アイスクリームが すぐ 溶けて しまった。",
+        "reading": "あつくて、アイスクリームが すぐ とけて しまった。",
+        "romaji": "atsukute, aisukuriimu ga sugu tokete shimatta.",
+        "ta": "வெயிலால் ஐஸ்கிரீம் உடனே உருகிவிட்டது.",
+        "en": "It was so hot that the ice cream melted straight away."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1623",
+    "expression": "留める",
+    "reading": "とめる",
+    "romaji": "tomeru",
+    "en": "to fasten; to pin",
+    "ta": "பொருத்த; (கிளிப்பால்) சேர்த்து வைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "この 書類を クリップで 留めて ください。",
+        "reading": "この しょるいを クリップで とめて ください。",
+        "romaji": "kono shorui o kurippu de tomete kudasai.",
+        "ta": "இந்த ஆவணங்களை கிளிப்பால் சேர்த்து வையுங்கள்.",
+        "en": "Please clip these papers together."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1669",
+    "expression": "鳴らす",
+    "reading": "ならす",
+    "romaji": "narasu",
+    "en": "to ring; to sound",
+    "ta": "ஒலிக்கச் செய்ய; (மணி) அடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "自転車の ベルを 鳴らして、前の 人に 知らせました。",
+        "reading": "じてんしゃの ベルを ならして、まえの ひとに しらせました。",
+        "romaji": "jitensha no beru o narashite, mae no hito ni shirasemashita.",
+        "ta": "சைக்கிள் மணியை அடித்து முன்னால் இருந்தவருக்குத் தெரிவித்தேன்.",
+        "en": "I rang my bicycle bell to warn the person in front."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1680",
+    "expression": "握る",
+    "reading": "にぎる",
+    "romaji": "nigiru",
+    "en": "to grip; to make (rice balls)",
+    "ta": "இறுகப் பிடிக்க; (சோற்று உருண்டை) பிடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "母は 毎朝 おにぎりを 握って くれます。",
+        "reading": "ははは まいあさ おにぎりを にぎって くれます。",
+        "romaji": "haha wa maiasa onigiri o nigitte kuremasu.",
+        "ta": "அம்மா தினமும் காலையில் எனக்குச் சோற்று உருண்டை பிடித்துத் தருகிறார்.",
+        "en": "My mother makes rice balls for me every morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1681",
+    "expression": "日",
+    "reading": "にち",
+    "romaji": "nichi",
+    "en": "day (counter)",
+    "ta": "நாள்",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "この 薬は 一日に 三回 飲んで ください。",
+        "reading": "この くすりは いちにちに さんかい のんで ください。",
+        "romaji": "kono kusuri wa ichinichi ni sankai nonde kudasai.",
+        "ta": "இந்த மருந்தை ஒரு நாளைக்கு மூன்று முறை சாப்பிடுங்கள்.",
+        "en": "Take this medicine three times a day."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1682",
+    "expression": "日常",
+    "reading": "にちじょう",
+    "romaji": "nichijou",
+    "en": "everyday; daily life",
+    "ta": "அன்றாட; அன்றாட வாழ்க்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日常の 会話なら、日本語で できます。",
+        "reading": "にちじょうの かいわなら、にほんごで できます。",
+        "romaji": "nichijou no kaiwa nara, nihongo de dekimasu.",
+        "ta": "அன்றாட உரையாடல் என்றால் ஜப்பானிய மொழியில் பேச முடியும்.",
+        "en": "I can manage everyday conversation in Japanese."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1684",
+    "expression": "日中",
+    "reading": "にっちゅう",
+    "romaji": "nitchuu",
+    "en": "daytime",
+    "ta": "பகல் நேரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "五月の チェンナイは 日中 とても 暑いです。",
+        "reading": "ごがつの チェンナイは にっちゅう とても あついです。",
+        "romaji": "gogatsu no chennai wa nitchuu totemo atsui desu.",
+        "ta": "மே மாதத்தில் சென்னையில் பகல் நேரம் மிகவும் வெப்பமாக இருக்கும்.",
+        "en": "In May, Chennai is very hot during the day."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1725",
+    "expression": "ノック",
+    "reading": "ノック",
+    "romaji": "nokku",
+    "en": "a knock",
+    "ta": "(கதவைத்) தட்டுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "部屋に 入る 前に、ドアを ノックして ください。",
+        "reading": "へやに はいる まえに、ドアを ノックして ください。",
+        "romaji": "heya ni hairu mae ni, doa o nokku shite kudasai.",
+        "ta": "அறைக்குள் நுழையும் முன் கதவைத் தட்டுங்கள்.",
+        "en": "Please knock on the door before you come in."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1820",
+    "expression": "日付",
+    "reading": "ひづけ",
+    "romaji": "hizuke",
+    "en": "date",
+    "ta": "தேதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "書類に 今日の 日付を 書いて ください。",
+        "reading": "しょるいに きょうの ひづけを かいて ください。",
+        "romaji": "shorui ni kyou no hizuke o kaite kudasai.",
+        "ta": "ஆவணத்தில் இன்றைய தேதியை எழுதுங்கள்.",
+        "en": "Please write today's date on the form."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1840",
+    "expression": "秒",
+    "reading": "びょう",
+    "romaji": "byou",
+    "en": "second (of time)",
+    "ta": "விநாடி",
+    "pos": "counter",
+    "examples": [
+      {
+        "ja": "電子レンジで 三十秒 温めて ください。",
+        "reading": "でんしレンジで さんじゅうびょう あたためて ください。",
+        "romaji": "denshi renji de sanjuubyou atatamete kudasai.",
+        "ta": "மைக்ரோவேவில் முப்பது விநாடிகள் சூடுபடுத்துங்கள்.",
+        "en": "Heat it in the microwave for thirty seconds."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1883",
+    "expression": "普段",
+    "reading": "ふだん",
+    "romaji": "fudan",
+    "en": "usually",
+    "ta": "வழக்கமாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "普段は 自転車で 会社に 行きます。",
+        "reading": "ふだんは じてんしゃで かいしゃに いきます。",
+        "romaji": "fudan wa jitensha de kaisha ni ikimasu.",
+        "ta": "வழக்கமாக சைக்கிளில் அலுவலகம் செல்வேன்.",
+        "en": "I usually cycle to work."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1925",
+    "expression": "弁当",
+    "reading": "べんとう",
+    "romaji": "bentou",
+    "en": "packed lunch",
+    "ta": "டிபன் (மதிய உணவுப் பெட்டி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "毎朝 自分で お弁当を 作って います。",
+        "reading": "まいあさ じぶんで おべんとうを つくって います。",
+        "romaji": "maiasa jibun de obentou o tsukutte imasu.",
+        "ta": "தினமும் காலையில் நானே டிபன் தயாரிக்கிறேன்.",
+        "en": "I make my own packed lunch every morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1995",
+    "expression": "学ぶ",
+    "reading": "まなぶ",
+    "romaji": "manabu",
+    "en": "to learn",
+    "ta": "கற்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "日本で 働きながら、日本の 文化を 学びたいです。",
+        "reading": "にほんで はたらきながら、にほんの ぶんかを まなびたいです。",
+        "romaji": "nihon de hatarakinagara, nihon no bunka o manabitai desu.",
+        "ta": "ஜப்பானில் வேலை செய்துகொண்டே ஜப்பானியக் கலாச்சாரத்தைக் கற்க ஆசை.",
+        "en": "I want to learn about Japanese culture while working in Japan."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2081",
+    "expression": "問う",
+    "reading": "とう",
+    "romaji": "tou",
+    "en": "to ask; to test (formal)",
+    "ta": "கேட்க; வினவ",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この 試験では 日本語の 力が 問われます。",
+        "reading": "この しけんでは にほんごの ちからが とわれます。",
+        "romaji": "kono shiken de wa nihongo no chikara ga towaremasu.",
+        "ta": "இந்தத் தேர்வில் ஜப்பானிய மொழித் திறன் சோதிக்கப்படும்.",
+        "en": "This exam tests your Japanese ability."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2126",
+    "expression": "見掛ける",
+    "reading": "みかける",
+    "romaji": "mikakeru",
+    "en": "to happen to see",
+    "ta": "தற்செயலாகப் பார்க்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "帰る 途中、駅で 先生を 見かけました。",
+        "reading": "かえる とちゅう、えきで せんせいを みかけました。",
+        "romaji": "kaeru tochuu, eki de sensei o mikakemashita.",
+        "ta": "வீடு திரும்பும் வழியில் ரயில் நிலையத்தில் ஆசிரியரைப் பார்த்தேன்.",
+        "en": "On my way home, I saw my teacher at the station."
+      }
+    ]
+  }
+]

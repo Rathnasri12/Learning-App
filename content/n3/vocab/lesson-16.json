@@ -1,0 +1,956 @@
+[
+ {
+  "id": "n3-v-0029",
+  "expression": "支給",
+  "reading": "しきゅう",
+  "romaji": "shikyuu",
+  "en": "allowance, provision",
+  "ta": "வழங்கல் (படி, உதவித்தொகை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "会社から交通費が支給されます。",
+    "reading": "かいしゃから こうつうひが しきゅう されます。",
+    "romaji": "kaisha kara koutsuuhi ga shikyuu saremasu.",
+    "ta": "நிறுவனத்திலிருந்து பயணச் செலவுப் படி வழங்கப்படுகிறது.",
+    "en": "The company pays an allowance for travel costs."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0038",
+  "expression": "支出",
+  "reading": "ししゅつ",
+  "romaji": "shishutsu",
+  "en": "expenses, spending",
+  "ta": "செலவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今月は支出が収入より多かったです。",
+    "reading": "こんげつは ししゅつが しゅうにゅうより おおかったです。",
+    "romaji": "kongetsu wa shishutsu ga shuunyuu yori ookatta desu.",
+    "ta": "இந்த மாதம் வருமானத்தைவிடச் செலவு அதிகமாக இருந்தது.",
+    "en": "This month my spending was more than my income."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0073",
+  "expression": "支払",
+  "reading": "しはらい",
+  "romaji": "shiharai",
+  "en": "payment",
+  "ta": "பணம் செலுத்துதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "支払は現金でお願いします。",
+    "reading": "しはらいは げんきんで おねがいします。",
+    "romaji": "shiharai wa genkin de onegai shimasu.",
+    "ta": "பணத்தை ரொக்கமாகச் செலுத்துங்கள்.",
+    "en": "Please make the payment in cash."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0074",
+  "expression": "支払う",
+  "reading": "しはらう",
+  "romaji": "shiharau",
+  "en": "to pay",
+  "ta": "பணம் செலுத்த",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "電気代はコンビニで支払うことができます。",
+    "reading": "でんきだいは コンビニで しはらう ことが できます。",
+    "romaji": "denkidai wa konbini de shiharau koto ga dekimasu.",
+    "ta": "மின்சாரக் கட்டணத்தைக் கன்வீனியன்ஸ் ஸ்டோரில் செலுத்தலாம்.",
+    "en": "You can pay the electricity bill at a convenience store."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0076",
+  "expression": "資本",
+  "reading": "しほん",
+  "romaji": "shihon",
+  "en": "capital, funds",
+  "ta": "மூலதனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "店を始めるために、資本を集めています。",
+    "reading": "みせを はじめる ために、しほんを あつめて います。",
+    "romaji": "mise o hajimeru tame ni, shihon o atsumete imasu.",
+    "ta": "கடை தொடங்குவதற்காக மூலதனம் திரட்டிக்கொண்டிருக்கிறேன்.",
+    "en": "I am raising capital to start a shop."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0086",
+  "expression": "借金",
+  "reading": "しゃっきん",
+  "romaji": "shakkin",
+  "en": "debt, loan",
+  "ta": "கடன்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "兄は車を買うために借金をしました。",
+    "reading": "あには くるまを かう ために しゃっきんを しました。",
+    "romaji": "ani wa kuruma o kau tame ni shakkin o shimashita.",
+    "ta": "அண்ணன் கார் வாங்குவதற்காகக் கடன் வாங்கினார்.",
+    "en": "My older brother took a loan to buy a car."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0104",
+  "expression": "収入",
+  "reading": "しゅうにゅう",
+  "romaji": "shuunyuu",
+  "en": "income",
+  "ta": "வருமானம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "父の収入で家族五人が生活しています。",
+    "reading": "ちちの しゅうにゅうで かぞく ごにんが せいかつして います。",
+    "romaji": "chichi no shuunyuu de kazoku gonin ga seikatsu shite imasu.",
+    "ta": "அப்பாவின் வருமானத்தில் எங்கள் குடும்பத்தின் ஐந்து பேரும் வாழ்கிறோம்.",
+    "en": "Our family of five lives on my father’s income."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0153",
+  "expression": "消費",
+  "reading": "しょうひ",
+  "romaji": "shouhi",
+  "en": "consumption, using up",
+  "ta": "நுகர்வு (பயன்பாடு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "夏は電気の消費が多くなります。",
+    "reading": "なつは でんきの しょうひが おおく なります。",
+    "romaji": "natsu wa denki no shouhi ga ooku narimasu.",
+    "ta": "கோடையில் மின்சாரப் பயன்பாடு அதிகமாகிறது.",
+    "en": "In summer we use more electricity."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0216",
+  "expression": "数",
+  "reading": "すう",
+  "romaji": "suu",
+  "en": "number; several",
+  "ta": "எண்; சில",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "数年前に一度チェンナイへ行きました。",
+    "reading": "すうねん まえに いちど チェンナイへ いきました。",
+    "romaji": "suunen mae ni ichido chennai e ikimashita.",
+    "ta": "சில வருடங்களுக்கு முன் ஒருமுறை சென்னைக்குப் போனேன்.",
+    "en": "I went to Chennai once a few years ago."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0217",
+  "expression": "数字",
+  "reading": "すうじ",
+  "romaji": "suuji",
+  "en": "number, digit",
+  "ta": "எண் (இலக்கம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "電話番号の数字を一つ間違えました。",
+    "reading": "でんわばんごうの すうじを ひとつ まちがえました。",
+    "romaji": "denwa bangou no suuji o hitotsu machigaemashita.",
+    "ta": "தொலைபேசி எண்ணில் ஒரு இலக்கத்தைத் தவறாக எழுதிவிட்டேன்.",
+    "en": "I got one digit of the phone number wrong."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0259",
+  "expression": "税",
+  "reading": "ぜい",
+  "romaji": "zei",
+  "en": "tax",
+  "ta": "வரி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この値段に税は入っていますか。",
+    "reading": "この ねだんに ぜいは はいって いますか。",
+    "romaji": "kono nedan ni zei wa haitte imasu ka.",
+    "ta": "இந்த விலையில் வரி சேர்ந்திருக்கிறதா?",
+    "en": "Does this price include tax?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0264",
+  "expression": "税金",
+  "reading": "ぜいきん",
+  "romaji": "zeikin",
+  "en": "tax (money)",
+  "ta": "வரிப்பணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "毎年三月に税金を払います。",
+    "reading": "まいとし さんがつに ぜいきんを はらいます。",
+    "romaji": "maitoshi sangatsu ni zeikin o haraimasu.",
+    "ta": "ஒவ்வொரு வருடமும் மார்ச் மாதத்தில் வரி கட்டுகிறேன்.",
+    "en": "I pay my taxes every March."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0275",
+  "expression": "贅沢",
+  "reading": "ぜいたく",
+  "romaji": "zeitaku",
+  "en": "luxury; luxurious",
+  "ta": "ஆடம்பரம்; ஆடம்பரமான",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "たまには贅沢な食事をしたいです。",
+    "reading": "たまには ぜいたくな しょくじを したいです。",
+    "romaji": "tama ni wa zeitaku na shokuji o shitai desu.",
+    "ta": "எப்போதாவது ஒருமுறை ஆடம்பரமான உணவு சாப்பிட ஆசை.",
+    "en": "Once in a while I want a luxurious meal."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0573",
+  "expression": "価格",
+  "reading": "かかく",
+  "romaji": "kakaku",
+  "en": "price",
+  "ta": "விலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "野菜の価格が上がっています。",
+    "reading": "やさいの かかくが あがって います。",
+    "romaji": "yasai no kakaku ga agatte imasu.",
+    "ta": "காய்கறிகளின் விலை ஏறிக்கொண்டிருக்கிறது.",
+    "en": "Vegetable prices are going up."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0584",
+  "expression": "額",
+  "reading": "がく",
+  "romaji": "gaku",
+  "en": "amount; frame",
+  "ta": "தொகை; சட்டம் (ஃபிரேம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "毎月返す額を銀行と決めました。",
+    "reading": "まいつき かえす がくを ぎんこうと きめました。",
+    "romaji": "maitsuki kaesu gaku o ginkou to kimemashita.",
+    "ta": "ஒவ்வொரு மாதமும் திருப்பிச் செலுத்தும் தொகையை வங்கியுடன் முடிவு செய்தேன்.",
+    "en": "I agreed with the bank on the amount to repay each month."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0605",
+  "expression": "貸し",
+  "reading": "かし",
+  "romaji": "kashi",
+  "en": "money lent (owed to you)",
+  "ta": "கடன் கொடுத்தது",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "彼には千円の貸しがあります。",
+    "reading": "かれには せんえんの かしが あります。",
+    "romaji": "kare ni wa sen’en no kashi ga arimasu.",
+    "ta": "அவனுக்கு நான் ஆயிரம் யென் கடன் கொடுத்திருக்கிறேன்.",
+    "en": "He owes me a thousand yen."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0611",
+  "expression": "稼ぐ",
+  "reading": "かせぐ",
+  "romaji": "kasegu",
+  "en": "to earn",
+  "ta": "சம்பாதிக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "夏休みにアルバイトで旅行のお金を稼ぎました。",
+    "reading": "なつやすみに アルバイトで りょこうの おかねを かせぎました。",
+    "romaji": "natsuyasumi ni arubaito de ryokou no okane o kasegimashita.",
+    "ta": "கோடை விடுமுறையில் பகுதிநேர வேலை செய்து பயணத்துக்கான பணம் சம்பாதித்தேன்.",
+    "en": "In the summer holidays I earned money for a trip with a part-time job."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0639",
+  "expression": "株",
+  "reading": "かぶ",
+  "romaji": "kabu",
+  "en": "stock, share",
+  "ta": "பங்கு (ஷேர்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "父は銀行の株を少し持っています。",
+    "reading": "ちちは ぎんこうの かぶを すこし もって います。",
+    "romaji": "chichi wa ginkou no kabu o sukoshi motte imasu.",
+    "ta": "அப்பாவிடம் ஒரு வங்கியின் சில பங்குகள் உள்ளன.",
+    "en": "My father owns a few shares in a bank."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0675",
+  "expression": "勘定",
+  "reading": "かんじょう",
+  "romaji": "kanjou",
+  "en": "bill; counting",
+  "ta": "கணக்கு (பில்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "すみません、お勘定をお願いします。",
+    "reading": "すみません、おかんじょうを おねがいします。",
+    "romaji": "sumimasen, okanjou o onegai shimasu.",
+    "ta": "மன்னிக்கவும், பில் கொண்டு வாருங்கள்.",
+    "en": "Excuse me, the bill, please."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0744",
+  "expression": "給料",
+  "reading": "きゅうりょう",
+  "romaji": "kyuuryou",
+  "en": "salary, wages",
+  "ta": "சம்பளம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "給料は毎月二十五日に出ます。",
+    "reading": "きゅうりょうは まいつき にじゅうごにちに でます。",
+    "romaji": "kyuuryou wa maitsuki nijuugonichi ni demasu.",
+    "ta": "சம்பளம் ஒவ்வொரு மாதமும் 25ஆம் தேதி கிடைக்கும்.",
+    "en": "We get our salary on the 25th of every month."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0766",
+  "expression": "金",
+  "reading": "きん",
+  "romaji": "kin",
+  "en": "gold; money",
+  "ta": "தங்கம்; பணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "インドの結婚式では金のアクセサリーをたくさんつけます。",
+    "reading": "インドの けっこんしきでは きんの アクセサリーを たくさん つけます。",
+    "romaji": "indo no kekkonshiki de wa kin no akusesarii o takusan tsukemasu.",
+    "ta": "இந்தியத் திருமணங்களில் நிறையத் தங்க நகைகள் அணிவார்கள்.",
+    "en": "At Indian weddings people wear a lot of gold jewellery."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0769",
+  "expression": "金額",
+  "reading": "きんがく",
+  "romaji": "kingaku",
+  "en": "amount of money",
+  "ta": "பணத் தொகை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "レシートの金額を確認してください。",
+    "reading": "レシートの きんがくを かくにんして ください。",
+    "romaji": "reshiito no kingaku o kakunin shite kudasai.",
+    "ta": "ரசீதில் உள்ள தொகையைச் சரிபாருங்கள்.",
+    "en": "Please check the amount on the receipt."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0770",
+  "expression": "金庫",
+  "reading": "きんこ",
+  "romaji": "kinko",
+  "en": "safe (for money)",
+  "ta": "பணப்பெட்டகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大事な書類は金庫に入れてあります。",
+    "reading": "だいじな しょるいは きんこに いれて あります。",
+    "romaji": "daiji na shorui wa kinko ni irete arimasu.",
+    "ta": "முக்கியமான ஆவணங்கள் பணப்பெட்டகத்தில் வைக்கப்பட்டுள்ளன.",
+    "en": "Important papers are kept in the safe."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0772",
+  "expression": "金銭",
+  "reading": "きんせん",
+  "romaji": "kinsen",
+  "en": "money, cash",
+  "ta": "பணம் (பண விவகாரம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "友達との金銭の貸し借りはしないほうがいいです。",
+    "reading": "ともだちとの きんせんの かしかりは しない ほうが いいです。",
+    "romaji": "tomodachi to no kinsen no kashikari wa shinai hou ga ii desu.",
+    "ta": "நண்பர்களுடன் பணம் கொடுக்கல் வாங்கல் செய்யாமல் இருப்பது நல்லது.",
+    "en": "It’s better not to lend or borrow money between friends."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0777",
+  "expression": "金融",
+  "reading": "きんゆう",
+  "romaji": "kin'yuu",
+  "en": "finance, banking",
+  "ta": "நிதி (வங்கித் துறை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "姉は金融の会社で働いています。",
+    "reading": "あねは きんゆうの かいしゃで はたらいて います。",
+    "romaji": "ane wa kin’yuu no kaisha de hataraite imasu.",
+    "ta": "அக்கா ஒரு நிதி நிறுவனத்தில் வேலை செய்கிறார்.",
+    "en": "My older sister works at a finance company."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0813",
+  "expression": "加える",
+  "reading": "くわえる",
+  "romaji": "kuwaeru",
+  "en": "to add",
+  "ta": "சேர்க்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "給料にボーナスを加えると、三十万円になります。",
+    "reading": "きゅうりょうに ボーナスを くわえると、さんじゅうまんえんに なります。",
+    "romaji": "kyuuryou ni boonasu o kuwaeru to, sanjuuman’en ni narimasu.",
+    "ta": "சம்பளத்துடன் போனஸைச் சேர்த்தால் மூன்று லட்சம் யென் ஆகும்.",
+    "en": "If you add the bonus to the salary, it comes to 300,000 yen."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0829",
+  "expression": "計算",
+  "reading": "けいさん",
+  "romaji": "keisan",
+  "en": "calculation",
+  "ta": "கணக்கிடுதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "旅行の費用を計算してみました。",
+    "reading": "りょこうの ひようを けいさんして みました。",
+    "romaji": "ryokou no hiyou o keisan shite mimashita.",
+    "ta": "பயணச் செலவைக் கணக்கிட்டுப் பார்த்தேன்.",
+    "en": "I tried working out the cost of the trip."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0856",
+  "expression": "現金",
+  "reading": "げんきん",
+  "romaji": "genkin",
+  "en": "cash",
+  "ta": "ரொக்கம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店は現金しか使えません。",
+    "reading": "この みせは げんきんしか つかえません。",
+    "romaji": "kono mise wa genkin shika tsukaemasen.",
+    "ta": "இந்தக் கடையில் ரொக்கம் மட்டுமே செல்லும்.",
+    "en": "This shop only takes cash."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0880",
+  "expression": "硬貨",
+  "reading": "こうか",
+  "romaji": "kouka",
+  "en": "coin",
+  "ta": "நாணயம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この自動販売機は五百円硬貨も使えます。",
+    "reading": "この じどうはんばいきは ごひゃくえん こうかも つかえます。",
+    "romaji": "kono jidouhanbaiki wa gohyakuen kouka mo tsukaemasu.",
+    "ta": "இந்த விற்பனை இயந்திரத்தில் 500 யென் நாணயமும் பயன்படுத்தலாம்.",
+    "en": "This vending machine also takes 500-yen coins."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0882",
+  "expression": "豪華",
+  "reading": "ごうか",
+  "romaji": "gouka",
+  "en": "luxurious, grand",
+  "ta": "பிரம்மாண்டமான",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "友達の結婚式はとても豪華でした。",
+    "reading": "ともだちの けっこんしきは とても ごうかでした。",
+    "romaji": "tomodachi no kekkonshiki wa totemo gouka deshita.",
+    "ta": "நண்பரின் திருமணம் மிகவும் பிரம்மாண்டமாக இருந்தது.",
+    "en": "My friend’s wedding was very grand."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0887",
+  "expression": "合計",
+  "reading": "ごうけい",
+  "romaji": "goukei",
+  "en": "total",
+  "ta": "மொத்தம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "合計で三千五百円です。",
+    "reading": "ごうけいで さんぜん ごひゃくえんです。",
+    "romaji": "goukei de sanzen gohyakuen desu.",
+    "ta": "மொத்தம் மூவாயிரத்து ஐந்நூறு யென்.",
+    "en": "That’s 3,500 yen in total."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0962",
+  "expression": "財産",
+  "reading": "ざいさん",
+  "romaji": "zaisan",
+  "en": "property, fortune",
+  "ta": "சொத்து",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祖父は財産を全部学校に寄付しました。",
+    "reading": "そふは ざいさんを ぜんぶ がっこうに きふしました。",
+    "romaji": "sofu wa zaisan o zenbu gakkou ni kifu shimashita.",
+    "ta": "தாத்தா தம் சொத்து முழுவதையும் ஒரு பள்ளிக்கு நன்கொடையாகக் கொடுத்தார்.",
+    "en": "My grandfather gave all his property to a school."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0992",
+  "expression": "札",
+  "reading": "さつ",
+  "romaji": "satsu",
+  "en": "banknote",
+  "ta": "பணத்தாள் (நோட்டு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "一万円札しかありませんが、いいですか。",
+    "reading": "いちまんえんさつしか ありませんが、いいですか。",
+    "romaji": "ichiman’ensatsu shika arimasen ga, ii desu ka.",
+    "ta": "என்னிடம் பத்தாயிரம் யென் நோட்டு மட்டுமே இருக்கிறது, பரவாயில்லையா?",
+    "en": "I only have a 10,000-yen note. Is that OK?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1007",
+  "expression": "万一",
+  "reading": "まんいち",
+  "romaji": "man'ichi",
+  "en": "by any chance, just in case",
+  "ta": "ஒருவேளை",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "万一のために、少しお金を貯めています。",
+    "reading": "まんいちの ために、すこし おかねを ためて います。",
+    "romaji": "man’ichi no tame ni, sukoshi okane o tamete imasu.",
+    "ta": "ஏதாவது நேர்ந்தால் உதவும் என்று கொஞ்சம் பணம் சேமித்து வருகிறேன்.",
+    "en": "I’m saving a little money just in case."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1073",
+  "expression": "もったいない",
+  "reading": "もったいない",
+  "romaji": "mottainai",
+  "en": "wasteful, a waste",
+  "ta": "வீண் (வீணாக்குவது வருத்தம்)",
+  "pos": "i-adj",
+  "examples": [
+   {
+    "ja": "まだ使えるのに捨てるのはもったいないです。",
+    "reading": "まだ つかえるのに すてるのは もったいないです。",
+    "romaji": "mada tsukaeru noni suteru no wa mottainai desu.",
+    "ta": "இன்னும் பயன்படுத்த முடியும்போது தூக்கி எறிவது வீண்.",
+    "en": "It’s a waste to throw it away when it still works."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1145",
+  "expression": "余分",
+  "reading": "よぶん",
+  "romaji": "yobun",
+  "en": "extra, surplus",
+  "ta": "கூடுதல் (மிச்சம்)",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "余分なお金は使わないで、貯金します。",
+    "reading": "よぶんな おかねは つかわないで、ちょきんします。",
+    "romaji": "yobun na okane wa tsukawanaide, chokin shimasu.",
+    "ta": "கூடுதல் பணத்தைச் செலவழிக்காமல் சேமிக்கிறேன்.",
+    "en": "I don’t spend extra money; I save it."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1160",
+  "expression": "利益",
+  "reading": "りえき",
+  "romaji": "rieki",
+  "en": "profit",
+  "ta": "லாபம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今年は店の利益が去年より増えました。",
+    "reading": "ことしは みせの りえきが きょねんより ふえました。",
+    "romaji": "kotoshi wa mise no rieki ga kyonen yori fuemashita.",
+    "ta": "இந்த ஆண்டு கடையின் லாபம் கடந்த ஆண்டைவிட அதிகரித்தது.",
+    "en": "This year the shop made more profit than last year."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1171",
+  "expression": "両替",
+  "reading": "りょうがえ",
+  "romaji": "ryougae",
+  "en": "money exchange",
+  "ta": "பணம் மாற்றுதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "空港でルピーを円に両替しました。",
+    "reading": "くうこうで ルピーを えんに りょうがえしました。",
+    "romaji": "kuukou de rupii o en ni ryougae shimashita.",
+    "ta": "விமான நிலையத்தில் ரூபாயை யென்னாக மாற்றினேன்.",
+    "en": "I changed rupees into yen at the airport."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1172",
+  "expression": "料金",
+  "reading": "りょうきん",
+  "romaji": "ryoukin",
+  "en": "fee, fare",
+  "ta": "கட்டணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このバスの料金は二百円です。",
+    "reading": "この バスの りょうきんは にひゃくえんです。",
+    "romaji": "kono basu no ryoukin wa nihyakuen desu.",
+    "ta": "இந்தப் பஸ்ஸின் கட்டணம் இருநூறு யென்.",
+    "en": "The fare for this bus is 200 yen."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1241",
+  "expression": "賭ける",
+  "reading": "かける",
+  "romaji": "kakeru",
+  "en": "to bet",
+  "ta": "பந்தயம் கட்ட",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "兄は友達と試合の結果にお金を賭けました。",
+    "reading": "あには ともだちと しあいの けっかに おかねを かけました。",
+    "romaji": "ani wa tomodachi to shiai no kekka ni okane o kakemashita.",
+    "ta": "அண்ணன் நண்பருடன் போட்டியின் முடிவின் மேல் பணம் பந்தயம் கட்டினார்.",
+    "en": "My brother bet money with a friend on the result of the match."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1245",
+  "expression": "借り",
+  "reading": "かり",
+  "romaji": "kari",
+  "en": "debt, something owed",
+  "ta": "கடன் (திருப்பித் தர வேண்டியது)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "田中さんには借りがあるので、今度手伝います。",
+    "reading": "たなかさんには かりが あるので、こんど てつだいます。",
+    "romaji": "tanaka-san ni wa kari ga aru node, kondo tetsudaimasu.",
+    "ta": "தனகா அவர்களுக்கு நான் கடன்பட்டிருக்கிறேன், அதனால் அடுத்த முறை உதவுவேன்.",
+    "en": "I owe Tanaka-san, so I’ll help him next time."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1289",
+  "expression": "小銭",
+  "reading": "こぜに",
+  "romaji": "kozeni",
+  "en": "small change, coins",
+  "ta": "சில்லறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "バスに乗る前に小銭を用意しておきます。",
+    "reading": "バスに のる まえに こぜにを よういして おきます。",
+    "romaji": "basu ni noru mae ni kozeni o youi shite okimasu.",
+    "ta": "பஸ்ஸில் ஏறும் முன் சில்லறையைத் தயாராக வைத்துக்கொள்வேன்.",
+    "en": "I get small change ready before I get on the bus."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1297",
+  "expression": "節約",
+  "reading": "せつやく",
+  "romaji": "setsuyaku",
+  "en": "saving, cutting costs",
+  "ta": "சிக்கனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "節約のために、毎日お弁当を作っています。",
+    "reading": "せつやくの ために、まいにち おべんとうを つくって います。",
+    "romaji": "setsuyaku no tame ni, mainichi obentou o tsukutte imasu.",
+    "ta": "சிக்கனத்துக்காகத் தினமும் மதிய உணவை நானே சமைத்து எடுத்துச் செல்கிறேன்.",
+    "en": "To save money, I make my own lunch box every day."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1320",
+  "expression": "相続",
+  "reading": "そうぞく",
+  "romaji": "souzoku",
+  "en": "inheritance",
+  "ta": "வாரிசுரிமை (சொத்தைப் பெறுதல்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "父の家は長男が相続しました。",
+    "reading": "ちちの いえは ちょうなんが そうぞくしました。",
+    "romaji": "chichi no ie wa chounan ga souzoku shimashita.",
+    "ta": "அப்பாவின் வீட்டை மூத்த மகன் வாரிசாகப் பெற்றார்.",
+    "en": "The eldest son inherited his father’s house."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1361",
+  "expression": "代金",
+  "reading": "だいきん",
+  "romaji": "daikin",
+  "en": "price, payment (for goods)",
+  "ta": "பொருளின் விலைப் பணம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "代金は商品が届いてから払います。",
+    "reading": "だいきんは しょうひんが とどいてから はらいます。",
+    "romaji": "daikin wa shouhin ga todoite kara haraimasu.",
+    "ta": "பொருள் வந்து சேர்ந்த பிறகு அதன் விலையைச் செலுத்துவேன்.",
+    "en": "I’ll pay for the goods after they arrive."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1496",
+  "expression": "通貨",
+  "reading": "つうか",
+  "romaji": "tsuuka",
+  "en": "currency",
+  "ta": "நாணய முறை (செலாவணி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "インドの通貨はルピーです。",
+    "reading": "インドの つうかは ルピーです。",
+    "romaji": "indo no tsuuka wa rupii desu.",
+    "ta": "இந்தியாவின் நாணயம் ரூபாய்.",
+    "en": "India’s currency is the rupee."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1576",
+  "expression": "銅貨",
+  "reading": "どうか",
+  "romaji": "douka",
+  "en": "copper coin",
+  "ta": "செப்பு நாணயம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "博物館で昔の銅貨を見ました。",
+    "reading": "はくぶつかんで むかしの どうかを みました。",
+    "romaji": "hakubutsukan de mukashi no douka o mimashita.",
+    "ta": "அருங்காட்சியகத்தில் பழங்காலச் செப்பு நாணயங்களைப் பார்த்தேன்.",
+    "en": "I saw old copper coins at the museum."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1761",
+  "expression": "破産",
+  "reading": "はさん",
+  "romaji": "hasan",
+  "en": "bankruptcy (personal)",
+  "ta": "திவால்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "賭け事で破産した人の話を聞きました。",
+    "reading": "かけごとで はさんした ひとの はなしを ききました。",
+    "romaji": "kakegoto de hasan shita hito no hanashi o kikimashita.",
+    "ta": "சூதாட்டத்தால் திவாலான ஒருவரின் கதையைக் கேட்டேன்.",
+    "en": "I heard the story of a man who went bankrupt from gambling."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1838",
+  "expression": "費用",
+  "reading": "ひよう",
+  "romaji": "hiyou",
+  "en": "cost, expense",
+  "ta": "செலவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "留学の費用は親が出してくれました。",
+    "reading": "りゅうがくの ひようは おやが だして くれました。",
+    "romaji": "ryuugaku no hiyou wa oya ga dashite kuremashita.",
+    "ta": "வெளிநாட்டுப் படிப்புக்கான செலவைப் பெற்றோர் கொடுத்தார்கள்.",
+    "en": "My parents paid the cost of my study abroad."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1879",
+  "expression": "不足",
+  "reading": "ふそく",
+  "romaji": "fusoku",
+  "en": "shortage, lack",
+  "ta": "பற்றாக்குறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "お金が不足しているので、旅行はやめます。",
+    "reading": "おかねが ふそくして いるので、りょこうは やめます。",
+    "romaji": "okane ga fusoku shite iru node, ryokou wa yamemasu.",
+    "ta": "பணம் போதாததால் பயணத்தைக் கைவிடுகிறேன்.",
+    "en": "I’m short of money, so I’ll give up the trip."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1982",
+  "expression": "貧しい",
+  "reading": "まずしい",
+  "romaji": "mazushii",
+  "en": "poor, needy",
+  "ta": "ஏழ்மையான",
+  "pos": "i-adj",
+  "examples": [
+   {
+    "ja": "祖父は貧しい村で生まれました。",
+    "reading": "そふは まずしい むらで うまれました。",
+    "romaji": "sofu wa mazushii mura de umaremashita.",
+    "ta": "தாத்தா ஓர் ஏழ்மையான கிராமத்தில் பிறந்தார்.",
+    "en": "My grandfather was born in a poor village."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2038",
+  "expression": "精算",
+  "reading": "せいさん",
+  "romaji": "seisan",
+  "en": "settling (a fare or bill)",
+  "ta": "மீதிக் கட்டணம் செலுத்திக் கணக்கை முடித்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "乗り越したので、駅で料金を精算しました。",
+    "reading": "のりこしたので、えきで りょうきんを せいさんしました。",
+    "romaji": "norikoshita node, eki de ryoukin o seisan shimashita.",
+    "ta": "இறங்க வேண்டிய ஸ்டேஷனைத் தாண்டிவிட்டதால், ஸ்டேஷனில் கூடுதல் கட்டணத்தைச் செலுத்தினேன்.",
+    "en": "I rode past my stop, so I paid the extra fare at the station."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2083",
+  "expression": "倒産",
+  "reading": "とうさん",
+  "romaji": "tousan",
+  "en": "bankruptcy (of a company)",
+  "ta": "(நிறுவனம்) திவாலாதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "去年、近所の工場が倒産しました。",
+    "reading": "きょねん、きんじょの こうじょうが とうさんしました。",
+    "romaji": "kyonen, kinjo no koujou ga tousan shimashita.",
+    "ta": "கடந்த ஆண்டு அருகிலுள்ள ஒரு தொழிற்சாலை திவாலானது.",
+    "en": "Last year a factory in my neighbourhood went bankrupt."
+   }
+  ]
+ }
+]

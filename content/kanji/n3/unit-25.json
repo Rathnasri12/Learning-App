@@ -1,0 +1,926 @@
+{
+  "unit": 25,
+  "title": {
+    "en": "Push, pull out, fall and float",
+    "ta": "தள்ளு, இழு, விழு, மித"
+  },
+  "intro": {
+    "en": "In this unit you learn 14 kanji for actions and feelings: push, pull out, fall, float, pay, hug, dance, and fear. Many use the hand part 扌 (押, 抜, 払, 抱) or the road part ⻌ (込, 途, 遅). Tip: look at the right side to tell the hand kanji apart.",
+    "ta": "இந்தப் பாடத்தில் செயல்களுக்கும் உணர்வுகளுக்கும் உரிய 14 கான்ஜிகளைக் கற்கிறீர்கள்: தள்ளு, பிடுங்கு, விழு, மித, பணம் செலுத்து, அணை, நடனம், பயம். பலவற்றில் கைப் பகுதி 扌 (押, 抜, 払, 抱) அல்லது சாலைப் பகுதி ⻌ (込, 途, 遅) உள்ளது. குறிப்பு: கை உள்ள கான்ஜிகளை வேறுபடுத்த வலப்பக்கத்தைப் பாருங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "舞",
+      "meaning": {
+        "en": "dance",
+        "ta": "நடனம் ஆடு"
+      },
+      "on": [
+        "ぶ"
+      ],
+      "kun": [
+        "ま.う",
+        "まい"
+      ],
+      "mnemonic": {
+        "en": "The top is a dancer’s wide, swirling skirt with tassels (the four short lines) hanging from it. Under the skirt are two feet (夕 and 㐄) stepping in different directions. A skirt that swings while the feet move in and out = dance.",
+        "ta": "மேலே, சுழலும் அகலமான பாவாடை; அதிலிருந்து நான்கு குஞ்சங்கள் (நான்கு சிறு கோடுகள்) தொங்குகின்றன. கீழே இரண்டு பாதங்கள் (夕, 㐄) வெவ்வேறு திசையில் அடி வைக்கின்றன. பரதநாட்டியம் ஆடும் பெண்ணின் பாவாடை சுழல, கால்கள் தாளம் போடுகின்றன = நடனம்."
+      },
+      "note": {
+        "en": "In 見舞い (みまい) the kun reading まう becomes まい. 舞台 is ぶたい: 台 is read たい here, not だい.",
+        "ta": "見舞い (みまい) என்பதில் まう என்ற kun வாசிப்பு まい ஆகிறது. 舞台 = ぶたい: இங்கே 台 என்பது たい, だい அல்ல."
+      },
+      "examples": [
+        {
+          "word": "舞台",
+          "reading": "ぶたい",
+          "en": "stage (in a theatre)",
+          "ta": "மேடை (அரங்கில்)",
+          "vocabId": "n3-v-1880"
+        },
+        {
+          "word": "お見舞い",
+          "reading": "おみまい",
+          "en": "visiting a sick person",
+          "ta": "நோயாளியைப் பார்க்கச் செல்லுதல்",
+          "vocabId": "n4-v-502"
+        },
+        {
+          "word": "見舞い",
+          "reading": "みまい",
+          "en": "visit or message of sympathy",
+          "ta": "நலம் விசாரிப்பு / ஆறுதல் சந்திப்பு",
+          "vocabId": "n3-v-1018"
+        },
+        {
+          "word": "舞う",
+          "reading": "まう",
+          "en": "to dance; to flutter (leaves, snow)",
+          "ta": "ஆடு; (இலை, பனி) பறந்து சுழல்"
+        }
+      ]
+    },
+    {
+      "kanji": "込",
+      "meaning": {
+        "en": "go into; crowded",
+        "ta": "உள்ளே நுழை; கூட்டமாக"
+      },
+      "on": [],
+      "kun": [
+        "こ.む",
+        "こ.める"
+      ],
+      "mnemonic": {
+        "en": "Enter (入) sits on the road part (⻌). Everybody enters the same road at the same time, so the road is packed. Go in + crowded.",
+        "ta": "நுழை (入) என்பது சாலைப் பகுதி (⻌) மேல் அமர்ந்திருக்கிறது. எல்லாரும் ஒரே நேரத்தில் ஒரே சாலைக்குள் நுழைகிறார்கள்; சாலை நெரிசலாகிறது. உள்ளே நுழை + கூட்டம்."
+      },
+      "note": {
+        "en": "込 was made in Japan, so it has no on reading. After another word こむ often becomes ごみ: 人込み (ひとごみ). Don’t mix it up with 入 (はいる).",
+        "ta": "込 ஜப்பானில் உருவான கான்ஜி; அதனால் இதற்கு on வாசிப்பு இல்லை. வேறு சொல்லுக்குப் பின் こむ பெரும்பாலும் ごみ ஆகும்: 人込み (ひとごみ). 入 (はいる) உடன் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "込む",
+          "reading": "こむ",
+          "en": "to be crowded",
+          "ta": "கூட்டமாக இரு, நெரிசலாக இரு",
+          "vocabId": "n4-v-616"
+        },
+        {
+          "word": "人込み",
+          "reading": "ひとごみ",
+          "en": "crowd of people",
+          "ta": "மக்கள் கூட்டம்",
+          "vocabId": "n3-v-1828"
+        },
+        {
+          "word": "申し込む",
+          "reading": "もうしこむ",
+          "en": "to apply for",
+          "ta": "விண்ணப்பி",
+          "vocabId": "n3-v-1061"
+        },
+        {
+          "word": "飛び込む",
+          "reading": "とびこむ",
+          "en": "to jump into",
+          "ta": "உள்ளே குதி"
+        }
+      ]
+    },
+    {
+      "kanji": "頼",
+      "meaning": {
+        "en": "rely on; request",
+        "ta": "நம்பு; வேண்டு"
+      },
+      "on": [
+        "らい"
+      ],
+      "kun": [
+        "たの.む",
+        "たよ.る"
+      ],
+      "mnemonic": {
+        "en": "On the left is a heavy bundle (束) of firewood. On the right is a head (頁, as in 頭 and 顔). You can’t carry the bundle, so you bow your head and ask a friend: “Please help!” You request, and you rely on them.",
+        "ta": "இடப்பக்கம் கனமான விறகுக் கட்டு (束). வலப்பக்கம் தலை (頁, 頭, 顔 இல் உள்ளது போல). கட்டைத் தூக்க முடியவில்லை; தலை குனிந்து நண்பரிடம் “உதவி செய்யுங்கள்” என்று கேட்கிறீர்கள். வேண்டுகிறீர்கள், அவரை நம்பியிருக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "頼む (たのむ, ask) and 頼る (たよる, rely on) look alike. Don’t read 頼みました as たのしみました: that is 楽しみ (looking forward).",
+        "ta": "頼む (たのむ, கேள்), 頼る (たよる, நம்பியிரு) இரண்டும் ஒத்திருக்கின்றன. 頼みました என்பதை たのしみました என்று படிக்காதீர்கள்; அது 楽しみ (ஆவலுடன் எதிர்பார்த்தல்)."
+      },
+      "examples": [
+        {
+          "word": "頼む",
+          "reading": "たのむ",
+          "en": "to ask (a favour), to request",
+          "ta": "(உதவி) கேள், வேண்டு",
+          "vocabId": "n5-v-389"
+        },
+        {
+          "word": "頼る",
+          "reading": "たよる",
+          "en": "to rely on, to depend on",
+          "ta": "நம்பியிரு, சார்ந்திரு",
+          "vocabId": "n3-v-1439"
+        },
+        {
+          "word": "信頼",
+          "reading": "しんらい",
+          "en": "trust",
+          "ta": "நம்பிக்கை",
+          "vocabId": "n3-v-0206"
+        }
+      ]
+    },
+    {
+      "kanji": "途",
+      "meaning": {
+        "en": "way, route",
+        "ta": "வழி"
+      },
+      "on": [
+        "と"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "You know 余 (extra, left over). Put it on the road (⻌): there is still some road left over. You are in the middle of the way, not at the end yet.",
+        "ta": "余 (மீதி) என்பது உங்களுக்குத் தெரியும். அதைச் சாலை (⻌) மேல் வையுங்கள்: இன்னும் கொஞ்சம் சாலை மீதி இருக்கிறது. நீங்கள் வழியின் நடுவில் இருக்கிறீர்கள்; இன்னும் முடிவுக்கு வரவில்லை."
+      },
+      "note": {
+        "en": "途 is と with a short vowel: とちゅう, not とうちゅう.",
+        "ta": "途 = と (குறில்): とちゅう, とうちゅう அல்ல."
+      },
+      "examples": [
+        {
+          "word": "途中",
+          "reading": "とちゅう",
+          "en": "on the way, halfway",
+          "ta": "வழியில், பாதியில்",
+          "vocabId": "n4-v-621"
+        },
+        {
+          "word": "途中下車",
+          "reading": "とちゅうげしゃ",
+          "en": "getting off a train on the way",
+          "ta": "வழியில் ரயிலிலிருந்து இறங்குதல்"
+        },
+        {
+          "word": "用途",
+          "reading": "ようと",
+          "en": "use, purpose",
+          "ta": "பயன்பாடு"
+        }
+      ]
+    },
+    {
+      "kanji": "抜",
+      "meaning": {
+        "en": "pull out",
+        "ta": "பிடுங்கு, வெளியே இழு"
+      },
+      "on": [
+        "ばつ"
+      ],
+      "kun": [
+        "ぬ.く",
+        "ぬ.ける"
+      ],
+      "mnemonic": {
+        "en": "A hand (扌) reaches into the mud and pulls out a friend (the right side looks like 友) who is stuck. The extra dot is the mud splashing as he comes out.",
+        "ta": "ஒரு கை (扌) சேற்றில் மாட்டிக்கொண்ட நண்பரை (வலப்பக்கம் 友 போலத் தெரிகிறது) வெளியே இழுக்கிறது. அவர் வெளியே வரும்போது தெறிக்கும் சேறுதான் அந்தக் கூடுதல் புள்ளி."
+      },
+      "note": {
+        "en": "抜く (pull out, I do it) and 抜ける (comes out by itself, e.g. hair or a tooth). Don’t mix up ぬく and ぬすむ (盗む, steal).",
+        "ta": "抜く (நான் பிடுங்குகிறேன்), 抜ける (தானாக வெளியே வருகிறது, எ.கா. முடி, பல்). ぬく, ぬすむ (盗む, திருடு) இரண்டையும் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "抜く",
+          "reading": "ぬく",
+          "en": "to pull out, to take out",
+          "ta": "பிடுங்கு, வெளியே எடு",
+          "vocabId": "n3-v-1692"
+        },
+        {
+          "word": "抜ける",
+          "reading": "ぬける",
+          "en": "to come out, to fall out; to leave",
+          "ta": "வெளியே வா, உதிர்; விலகு",
+          "vocabId": "n3-v-1693"
+        },
+        {
+          "word": "追い抜く",
+          "reading": "おいぬく",
+          "en": "to overtake, to pass",
+          "ta": "முந்திச் செல்"
+        },
+        {
+          "word": "選抜",
+          "reading": "せんばつ",
+          "en": "selection",
+          "ta": "தேர்ந்தெடுப்பு"
+        }
+      ]
+    },
+    {
+      "kanji": "婚",
+      "meaning": {
+        "en": "marriage",
+        "ta": "திருமணம்"
+      },
+      "on": [
+        "こん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A woman (女) on the left. On the right, the sun (日) is going down under a roof-like line: evening. Long ago, weddings were held in the evening. Woman + evening = marriage.",
+        "ta": "இடப்பக்கம் ஒரு பெண் (女). வலப்பக்கம் சூரியன் (日) கீழே இறங்குகிறது: மாலை நேரம். பழங்காலத்தில் திருமணம் மாலையில் நடந்தது. பெண் + மாலை = திருமணம்."
+      },
+      "note": {
+        "en": "結婚 is けっこん with a small っ.",
+        "ta": "結婚 = けっこん (சிறிய っ உடன்)."
+      },
+      "examples": [
+        {
+          "word": "結婚",
+          "reading": "けっこん",
+          "en": "marriage",
+          "ta": "திருமணம்",
+          "vocabId": "n5-v-238"
+        },
+        {
+          "word": "婚約",
+          "reading": "こんやく",
+          "en": "engagement (to marry)",
+          "ta": "நிச்சயதார்த்தம்",
+          "vocabId": "n3-v-0956"
+        },
+        {
+          "word": "新婚",
+          "reading": "しんこん",
+          "en": "newly married",
+          "ta": "புதிதாகத் திருமணமான"
+        }
+      ]
+    },
+    {
+      "kanji": "浮",
+      "meaning": {
+        "en": "float",
+        "ta": "மித"
+      },
+      "on": [
+        "ふ"
+      ],
+      "kun": [
+        "う.く",
+        "う.かぶ",
+        "う.かべる"
+      ],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, a hand (爫, the claw on top) holds a child (子) up over the water. The child does not sink: it floats.",
+        "ta": "இடப்பக்கம் தண்ணீர் (氵). வலப்பக்கம், மேலே ஒரு கை (爫) ஒரு குழந்தையை (子) தண்ணீருக்கு மேலே தூக்கிப் பிடிக்கிறது. குழந்தை மூழ்கவில்லை; மிதக்கிறது."
+      },
+      "note": {
+        "en": "浮かぶ: something floats by itself. 浮かべる: you make it float. Don’t confuse 浮 with 学 or 字: 浮 has water 氵.",
+        "ta": "浮かぶ: ஒன்று தானாக மிதக்கிறது. 浮かべる: நீங்கள் அதை மிதக்கவிடுகிறீர்கள். 浮 ஐ 学, 字 உடன் குழப்பாதீர்கள்: 浮-இல் தண்ணீர் 氵 உண்டு."
+      },
+      "examples": [
+        {
+          "word": "浮く",
+          "reading": "うく",
+          "en": "to float",
+          "ta": "மித"
+        },
+        {
+          "word": "浮かぶ",
+          "reading": "うかぶ",
+          "en": "to float; (an idea) comes to mind",
+          "ta": "மித; (யோசனை) மனதில் தோன்று"
+        },
+        {
+          "word": "浮かべる",
+          "reading": "うかべる",
+          "en": "to float (something); to show (a smile, tears)",
+          "ta": "(ஒன்றை) மிதக்கவிடு; (புன்னகை, கண்ணீர்) காட்டு"
+        },
+        {
+          "word": "浮力",
+          "reading": "ふりょく",
+          "en": "buoyancy",
+          "ta": "மிதக்கும் விசை"
+        }
+      ]
+    },
+    {
+      "kanji": "押",
+      "meaning": {
+        "en": "push, press",
+        "ta": "தள்ளு, அழுத்து"
+      },
+      "on": [
+        "おう"
+      ],
+      "kun": [
+        "お.す",
+        "おさ.える"
+      ],
+      "mnemonic": {
+        "en": "A hand (扌) holds a big rubber stamp: a square box (like 田) with a handle sticking down. The hand presses the stamp hard onto the paper. Push!",
+        "ta": "ஒரு கை (扌) பெரிய ரப்பர் முத்திரையைப் பிடித்திருக்கிறது: சதுரப் பெட்டி (田 போல), கீழே நீண்ட கைப்பிடி. கை அதைத் தாளின் மேல் அழுத்துகிறது. தள்ளு!"
+      },
+      "note": {
+        "en": "On doors: 押 = push, 引 = pull. Don’t mix them up!",
+        "ta": "கதவுகளில்: 押 = தள்ளு, 引 = இழு. குழப்பாதீர்கள்!"
+      },
+      "examples": [
+        {
+          "word": "押す",
+          "reading": "おす",
+          "en": "to push, to press",
+          "ta": "தள்ளு, அழுத்து",
+          "vocabId": "n5-v-113"
+        },
+        {
+          "word": "押し入れ",
+          "reading": "おしいれ",
+          "en": "closet (Japanese style)",
+          "ta": "சுவர் அலமாரி (ஜப்பானிய)",
+          "vocabId": "n4-v-388"
+        },
+        {
+          "word": "押さえる",
+          "reading": "おさえる",
+          "en": "to hold down, to press down",
+          "ta": "அழுத்திப் பிடி",
+          "vocabId": "n3-v-0504"
+        }
+      ]
+    },
+    {
+      "kanji": "倒",
+      "meaning": {
+        "en": "fall down; knock down",
+        "ta": "கீழே விழு; வீழ்த்து"
+      },
+      "on": [
+        "とう"
+      ],
+      "kun": [
+        "たお.れる",
+        "たお.す"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) next to an arrow that comes down and hits the ground (至, with earth 土 at the bottom), plus a knife (刂). Hit by the arrow, the person falls down flat.",
+        "ta": "ஒரு மனிதர் (亻); அருகில் வானிலிருந்து வந்து தரையைத் (至, கீழே மண் 土) தாக்கும் அம்பு, கூடவே ஒரு கத்தி (刂). அம்பு பட்ட மனிதர் தரையில் சாய்ந்து விழுகிறார்."
+      },
+      "note": {
+        "en": "倒れる: falls by itself. 倒す: you knock it down. In 面倒 the reading is voiced: めんどう.",
+        "ta": "倒れる: தானாக விழுகிறது. 倒す: நீங்கள் வீழ்த்துகிறீர்கள். 面倒 என்பதில் ஒலி கனமாகிறது: めんどう."
+      },
+      "examples": [
+        {
+          "word": "倒れる",
+          "reading": "たおれる",
+          "en": "to fall down, to collapse",
+          "ta": "கீழே விழு, சரிந்து விழு",
+          "vocabId": "n4-v-567"
+        },
+        {
+          "word": "倒す",
+          "reading": "たおす",
+          "en": "to knock down; to beat",
+          "ta": "வீழ்த்து; தோற்கடி",
+          "vocabId": "n3-v-1385"
+        },
+        {
+          "word": "面倒",
+          "reading": "めんどう",
+          "en": "trouble, bother; looking after",
+          "ta": "தொந்தரவு; கவனித்துக்கொள்ளுதல்",
+          "vocabId": "n3-v-1059"
+        },
+        {
+          "word": "倒産",
+          "reading": "とうさん",
+          "en": "bankruptcy (of a company)",
+          "ta": "(நிறுவனம்) திவால்",
+          "vocabId": "n3-v-2083"
+        }
+      ]
+    },
+    {
+      "kanji": "払",
+      "meaning": {
+        "en": "pay",
+        "ta": "பணம் செலுத்து"
+      },
+      "on": [],
+      "kun": [
+        "はら.う"
+      ],
+      "mnemonic": {
+        "en": "A hand (扌) and 厶, the “myself” part you saw in 私 (I). The hand takes my own money out of my pocket and pays.",
+        "ta": "ஒரு கை (扌), கூடவே 私 (நான்) இல் பார்த்த “என்னுடைய” பகுதி 厶. கை என் பையிலிருந்து என் சொந்தப் பணத்தை எடுத்துச் செலுத்துகிறது."
+      },
+      "note": {
+        "en": "After another word はらい can become ばらい: 前払い (まえばらい). But 支払い stays しはらい.",
+        "ta": "வேறு சொல்லுக்குப் பின் はらい சில நேரம் ばらい ஆகும்: 前払い (まえばらい). ஆனால் 支払い என்பது しはらい தான்."
+      },
+      "examples": [
+        {
+          "word": "払う",
+          "reading": "はらう",
+          "en": "to pay",
+          "ta": "பணம் செலுத்து",
+          "vocabId": "n4-v-544"
+        },
+        {
+          "word": "支払う",
+          "reading": "しはらう",
+          "en": "to pay (a bill)",
+          "ta": "(கட்டணம்) செலுத்து",
+          "vocabId": "n3-v-0074"
+        },
+        {
+          "word": "支払い",
+          "reading": "しはらい",
+          "en": "payment",
+          "ta": "பணம் செலுத்துதல்",
+          "vocabId": "n3-v-0073"
+        },
+        {
+          "word": "前払い",
+          "reading": "まえばらい",
+          "en": "paying in advance",
+          "ta": "முன்பணம் செலுத்துதல்"
+        }
+      ]
+    },
+    {
+      "kanji": "遅",
+      "meaning": {
+        "en": "late, slow",
+        "ta": "தாமதம், மெதுவான"
+      },
+      "on": [
+        "ち"
+      ],
+      "kun": [
+        "おそ.い",
+        "おく.れる"
+      ],
+      "mnemonic": {
+        "en": "A sheep (羊) walks along the road (⻌) carrying a heavy load on its back (尸). Sheep are slow, and with that load it arrives late.",
+        "ta": "ஓர் ஆடு (羊) முதுகில் கனமான சுமையுடன் (尸) சாலையில் (⻌) நடக்கிறது. ஆடு மெதுவாக நடக்கும்; இந்தச் சுமையுடன் தாமதமாகத்தான் வந்து சேர்கிறது."
+      },
+      "note": {
+        "en": "遅い (おそい) and 遅れる (おくれる) use the same kanji with different readings. 送れる (can send) is also おくれる, so read the meaning of the sentence.",
+        "ta": "遅い (おそい), 遅れる (おくれる) ஒரே கான்ஜி, வெவ்வேறு வாசிப்பு. 送れる (அனுப்ப முடியும்) கூட おくれる தான்; அதனால் வாக்கியத்தின் பொருளைப் பாருங்கள்."
+      },
+      "examples": [
+        {
+          "word": "遅い",
+          "reading": "おそい",
+          "en": "slow; late",
+          "ta": "மெதுவான; தாமதமான",
+          "vocabId": "n5-v-114"
+        },
+        {
+          "word": "遅れる",
+          "reading": "おくれる",
+          "en": "to be late",
+          "ta": "தாமதமாகு",
+          "vocabId": "n4-v-522"
+        },
+        {
+          "word": "遅刻",
+          "reading": "ちこく",
+          "en": "being late (for school, work)",
+          "ta": "(பள்ளி, வேலைக்கு) தாமதமாக வருதல்",
+          "vocabId": "n3-v-1463"
+        },
+        {
+          "word": "遅れ",
+          "reading": "おくれ",
+          "en": "delay",
+          "ta": "தாமதம்",
+          "vocabId": "n3-v-1231"
+        }
+      ]
+    },
+    {
+      "kanji": "更",
+      "meaning": {
+        "en": "change; further",
+        "ta": "மாற்று; மேலும்"
+      },
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "さら",
+        "さら.に"
+      ],
+      "mnemonic": {
+        "en": "You met 便 (convenient) in Unit 15: take away the person 亻 and 更 is left. Picture an old calendar page (日) on a stand; a long sweep of the hand tears it off and a new day starts. Change, and further on.",
+        "ta": "15-ஆம் பாடத்தில் 便 (வசதி) கற்றீர்கள்: அதிலிருந்து மனிதர் 亻 ஐ நீக்கினால் 更 மீதி. ஒரு பழைய நாள்காட்டித் தாள் (日) ஸ்டாண்டில் இருக்கிறது; கை நீளமாக வீசி அதைக் கிழிக்கிறது, புதிய நாள் தொடங்குகிறது. மாற்றம், இன்னும் மேலே."
+      },
+      "note": {
+        "en": "Don’t mix up 更 and 便: 便 has a person 亻 on the left.",
+        "ta": "更, 便 இரண்டையும் குழப்பாதீர்கள்: 便-இல் இடப்பக்கம் மனிதர் 亻 உண்டு."
+      },
+      "examples": [
+        {
+          "word": "更に",
+          "reading": "さらに",
+          "en": "furthermore, even more",
+          "ta": "மேலும், இன்னும் அதிகமாக",
+          "vocabId": "n3-v-0009"
+        },
+        {
+          "word": "変更",
+          "reading": "へんこう",
+          "en": "change (of plans)",
+          "ta": "மாற்றம் (திட்டத்தில்)",
+          "vocabId": "n3-v-1923"
+        },
+        {
+          "word": "更新",
+          "reading": "こうしん",
+          "en": "renewal, update",
+          "ta": "புதுப்பித்தல்"
+        },
+        {
+          "word": "今更",
+          "reading": "いまさら",
+          "en": "now, after so long (too late)",
+          "ta": "இப்போது போய் (மிகத் தாமதமாக)"
+        }
+      ]
+    },
+    {
+      "kanji": "抱",
+      "meaning": {
+        "en": "hug, hold in the arms",
+        "ta": "அணை, கையில் ஏந்து"
+      },
+      "on": [
+        "ほう"
+      ],
+      "kun": [
+        "だ.く",
+        "かか.える"
+      ],
+      "mnemonic": {
+        "en": "A hand (扌) and 包, a picture of arms wrapped around a baby curled up inside. The hand and arms wrap around the baby: a hug.",
+        "ta": "ஒரு கை (扌), கூடவே 包: உள்ளே சுருண்டு கிடக்கும் குழந்தையைச் சுற்றிக் கைகள் வளைந்திருக்கும் படம். கைகள் குழந்தையைச் சுற்றி அணைக்கின்றன: கட்டியணைப்பு."
+      },
+      "note": {
+        "en": "抱く is usually だく (hug). In written language it can be いだく (to hold a feeling, a dream).",
+        "ta": "抱く பெரும்பாலும் だく (அணை). எழுத்து மொழியில் いだく (உணர்வு, கனவு வைத்திரு) என்றும் படிக்கலாம்."
+      },
+      "examples": [
+        {
+          "word": "抱く",
+          "reading": "だく",
+          "en": "to hug, to hold (a baby)",
+          "ta": "அணை, (குழந்தையை) ஏந்து",
+          "vocabId": "n3-v-1394"
+        },
+        {
+          "word": "抱える",
+          "reading": "かかえる",
+          "en": "to hold in the arms; to have (a problem)",
+          "ta": "கையில் அணைத்துப் பிடி; (பிரச்சினை) இரு",
+          "vocabId": "n3-v-0572"
+        },
+        {
+          "word": "抱きしめる",
+          "reading": "だきしめる",
+          "en": "to hug tightly",
+          "ta": "இறுக்கி அணை"
+        }
+      ]
+    },
+    {
+      "kanji": "恐",
+      "meaning": {
+        "en": "fear",
+        "ta": "பயம்"
+      },
+      "on": [
+        "きょう"
+      ],
+      "kun": [
+        "おそ.れる",
+        "おそ.ろしい"
+      ],
+      "mnemonic": {
+        "en": "On top, someone holds a tool (工) and a raised hand (凡) right above your heart (心). Your heart shakes: fear.",
+        "ta": "மேலே ஒருவர் ஒரு கருவியை (工) உயர்த்திய கையுடன் (凡) உங்கள் இதயத்துக்கு (心) மேலே பிடித்திருக்கிறார். இதயம் நடுங்குகிறது: பயம்."
+      },
+      "note": {
+        "en": "恐 (おそれる) and 怖 (こわい) both mean fear. Both are in 恐怖 (きょうふ). Don’t confuse 恐ろしい with 遅い (おそい, late).",
+        "ta": "恐 (おそれる), 怖 (こわい) இரண்டுக்கும் பயம் என்று பொருள். இரண்டும் 恐怖 (きょうふ) இல் உள்ளன. 恐ろしい ஐ 遅い (おそい, தாமதம்) உடன் குழப்பாதீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "恐ろしい",
+          "reading": "おそろしい",
+          "en": "terrible, frightening",
+          "ta": "பயங்கரமான",
+          "vocabId": "n3-v-0515"
+        },
+        {
+          "word": "恐れる",
+          "reading": "おそれる",
+          "en": "to fear, to be afraid of",
+          "ta": "பயப்படு, அஞ்சு",
+          "vocabId": "n3-v-0514"
+        },
+        {
+          "word": "恐らく",
+          "reading": "おそらく",
+          "en": "perhaps, probably",
+          "ta": "ஒருவேளை, பெரும்பாலும்",
+          "vocabId": "n3-v-0513"
+        },
+        {
+          "word": "恐怖",
+          "reading": "きょうふ",
+          "en": "fear, terror",
+          "ta": "அச்சம், பீதி",
+          "vocabId": "n3-v-0754"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU25-q01",
+        "type": "kanji_reading",
+        "sentence": "＿舞台＿の 上で 歌を 歌いました。",
+        "target": "舞台",
+        "options": [
+          "ぶたい",
+          "まいだい",
+          "ぶだい",
+          "むたい"
+        ],
+        "answer": 0,
+        "explanation_en": "舞台 is read ぶたい (மேடை, stage). 舞 is ぶ here, and 台 is たい, not だい.",
+        "explanation_ta": "舞台 = ぶたい (மேடை, stage). இங்கே 舞 = ぶ, 台 = たい; だい அல்ல."
+      },
+      {
+        "id": "KU25-q02",
+        "type": "kanji_reading",
+        "sentence": "朝の 電車は いつも ＿込んで＿ います。",
+        "target": "込んで",
+        "options": [
+          "くんで",
+          "ごんで",
+          "こんで",
+          "すんで"
+        ],
+        "answer": 2,
+        "explanation_en": "込んで is read こんで (கூட்டமாக, crowded). It becomes ごみ only after another word, as in 人込み (ひとごみ).",
+        "explanation_ta": "込んで = こんで (கூட்டமாக, crowded). 人込み (ひとごみ) போல வேறு சொல்லுக்குப் பின் மட்டுமே ごみ ஆகும்."
+      },
+      {
+        "id": "KU25-q03",
+        "type": "kanji_reading",
+        "sentence": "友だちに 引っ越しの 手伝いを ＿頼みました＿。",
+        "target": "頼みました",
+        "options": [
+          "らいみました",
+          "たのみました",
+          "たのしみました",
+          "たよりました"
+        ],
+        "answer": 1,
+        "explanation_en": "頼みました is read たのみました (கேட்டேன், asked a favour). たのしみ is 楽しみ (looking forward); たよりました needs 頼りました.",
+        "explanation_ta": "頼みました = たのみました (உதவி கேட்டேன், asked). たのしみ என்பது 楽しみ (ஆவல்); たよりました என்றால் 頼りました என்று எழுத வேண்டும்."
+      },
+      {
+        "id": "KU25-q04",
+        "type": "kanji_reading",
+        "sentence": "家に 帰る ＿途中＿で 雨が 降って きました。",
+        "target": "途中",
+        "options": [
+          "とうちゅう",
+          "みちなか",
+          "とじゅう",
+          "とちゅう"
+        ],
+        "answer": 3,
+        "explanation_en": "途中 is read とちゅう (வழியில், on the way). 途 is と with a short vowel, so とうちゅう is wrong.",
+        "explanation_ta": "途中 = とちゅう (வழியில், on the way). 途 = と (குறில்); அதனால் とうちゅう தவறு."
+      },
+      {
+        "id": "KU25-q05",
+        "type": "kanji_reading",
+        "sentence": "歯医者で 悪い 歯を ＿抜きました＿。",
+        "target": "抜きました",
+        "options": [
+          "ひきました",
+          "ばつきました",
+          "ぬきました",
+          "ぬすみました"
+        ],
+        "answer": 2,
+        "explanation_en": "抜きました is read ぬきました (பிடுங்கினேன், pulled out). ぬすみました is 盗みました (stole); ひきました is 引きました.",
+        "explanation_ta": "抜きました = ぬきました (பிடுங்கினேன், pulled out). ぬすみました என்பது 盗みました (திருடினேன்); ひきました என்பது 引きました."
+      },
+      {
+        "id": "KU25-q06",
+        "type": "kanji_reading",
+        "sentence": "姉は 来月 ＿結婚＿します。",
+        "target": "結婚",
+        "options": [
+          "けっこん",
+          "けつこん",
+          "けっこ",
+          "けっごん"
+        ],
+        "answer": 0,
+        "explanation_en": "結婚 is read けっこん (திருமணம், marriage), with a small っ and a long ending こん.",
+        "explanation_ta": "結婚 = けっこん (திருமணம், marriage): சிறிய っ, கடைசியில் こん."
+      },
+      {
+        "id": "KU25-q07",
+        "type": "kanji_reading",
+        "sentence": "海に 小さい 船が ＿浮かんで＿ います。",
+        "target": "浮かんで",
+        "options": [
+          "ふかんで",
+          "うがんで",
+          "ゆかんで",
+          "うかんで"
+        ],
+        "answer": 3,
+        "explanation_en": "浮かんで is read うかんで (மிதந்து, floating). ふ is the on reading (浮力 ふりょく); with okurigana use the kun reading う.",
+        "explanation_ta": "浮かんで = うかんで (மிதந்து, floating). ふ என்பது on வாசிப்பு (浮力 ふりょく); okurigana இருந்தால் kun வாசிப்பு う."
+      },
+      {
+        "id": "KU25-q08",
+        "type": "kanji_reading",
+        "sentence": "ボタンを ＿押す＿と、ドアが 開きます。",
+        "target": "押す",
+        "options": [
+          "あす",
+          "おす",
+          "おうす",
+          "ひく"
+        ],
+        "answer": 1,
+        "explanation_en": "押す is read おす (அழுத்து, push). ひく is 引く (pull), the opposite. おう is the on reading, not used here.",
+        "explanation_ta": "押す = おす (அழுத்து, push). ひく என்பது 引く (இழு), எதிர்ச்சொல். おう என்பது on வாசிப்பு; இங்கே இல்லை."
+      },
+      {
+        "id": "KU25-q09",
+        "type": "kanji_reading",
+        "sentence": "道で おじいさんが ＿倒れました＿。",
+        "target": "倒れました",
+        "options": [
+          "たおれました",
+          "とうれました",
+          "たわれました",
+          "こわれました"
+        ],
+        "answer": 0,
+        "explanation_en": "倒れました is read たおれました (கீழே விழுந்தார், fell down). こわれました is 壊れました (broke), used for things.",
+        "explanation_ta": "倒れました = たおれました (கீழே விழுந்தார், fell down). こわれました என்பது 壊れました (உடைந்தது); பொருள்களுக்கு மட்டும்."
+      },
+      {
+        "id": "KU25-q10",
+        "type": "kanji_reading",
+        "sentence": "今朝 会社に 十分 ＿遅刻＿しました。",
+        "target": "遅刻",
+        "options": [
+          "ちっこく",
+          "じこく",
+          "ちこく",
+          "ちごく"
+        ],
+        "answer": 2,
+        "explanation_en": "遅刻 is read ちこく (தாமதமாக வருதல், being late). じこく is 時刻 (time of day), a different word.",
+        "explanation_ta": "遅刻 = ちこく (தாமதமாக வருதல், being late). じこく என்பது 時刻 (நேரம்); வேறு சொல்."
+      },
+      {
+        "id": "KU25-q11",
+        "type": "orthography",
+        "sentence": "レストランで お金を ＿はらいました＿。",
+        "target": "はらいました",
+        "options": [
+          "押いました",
+          "払いました",
+          "私いました",
+          "抱いました"
+        ],
+        "answer": 1,
+        "explanation_en": "はらいました (பணம் செலுத்தினேன், paid) is 払いました: hand 扌 + 厶. 私 has the grain part 禾, not a hand.",
+        "explanation_ta": "はらいました (பணம் செலுத்தினேன், paid) = 払いました: கை 扌 + 厶. 私-இல் கை இல்லை, தானியப் பகுதி 禾 உள்ளது."
+      },
+      {
+        "id": "KU25-q12",
+        "type": "orthography",
+        "sentence": "会議の 時間が ＿へんこう＿に なりました。",
+        "target": "へんこう",
+        "options": [
+          "変高",
+          "変校",
+          "変便",
+          "変更"
+        ],
+        "answer": 3,
+        "explanation_en": "へんこう (மாற்றம், change) is 変更. 便 looks like 更 but has a person 亻 and is read べん/びん.",
+        "explanation_ta": "へんこう (மாற்றம், change) = 変更. 便 என்பது 更 போலத் தெரியும், ஆனால் அதில் மனிதர் 亻 உண்டு; அது べん/びん."
+      },
+      {
+        "id": "KU25-q13",
+        "type": "orthography",
+        "sentence": "母は 赤ちゃんを ＿だいて＿ います。",
+        "target": "だいて",
+        "options": [
+          "包いて",
+          "持いて",
+          "泡いて",
+          "抱いて"
+        ],
+        "answer": 3,
+        "explanation_en": "だいて (அணைத்து, hugging) is 抱いて: a hand 扌 + wrap 包. 包 alone has no hand, and 泡 has water.",
+        "explanation_ta": "だいて (அணைத்து, hugging) = 抱いて: கை 扌 + சுற்று 包. தனி 包-இல் கை இல்லை; 泡-இல் தண்ணீர் உள்ளது."
+      },
+      {
+        "id": "KU25-q14",
+        "type": "orthography",
+        "sentence": "夜の 山道は ＿おそろしい＿です。",
+        "target": "おそろしい",
+        "options": [
+          "急ろしい",
+          "恐ろしい",
+          "怒ろしい",
+          "思ろしい"
+        ],
+        "answer": 1,
+        "explanation_en": "おそろしい (பயங்கரமான, frightening) is 恐ろしい. 怒, 思 and 急 also have 心 at the bottom, but they mean angry, think and hurry.",
+        "explanation_ta": "おそろしい (பயங்கரமான, frightening) = 恐ろしい. 怒, 思, 急 இவற்றின் கீழும் 心 உண்டு; ஆனால் அவை கோபம், நினை, அவசரம்."
+      },
+      {
+        "id": "KU25-q15",
+        "type": "orthography",
+        "sentence": "かぜで 体の 力が ＿ぬけました＿。",
+        "target": "ぬけました",
+        "options": [
+          "投けました",
+          "扱けました",
+          "抜けました",
+          "技けました"
+        ],
+        "answer": 2,
+        "explanation_en": "ぬけました (வெளியேறியது, left / drained out) is 抜けました. 投 (throw) and 技 (skill) also have a hand 扌, but different right sides.",
+        "explanation_ta": "ぬけました (வெளியேறியது, drained out) = 抜けました. 投 (எறி), 技 (திறமை) இவற்றிலும் கை 扌 உண்டு; ஆனால் வலப்பக்கம் வேறு."
+      },
+      {
+        "id": "KU25-q16",
+        "type": "orthography",
+        "sentence": "日曜日の デパートは 人が 多くて ＿こんで＿ います。",
+        "target": "こんで",
+        "options": [
+          "込んで",
+          "入んで",
+          "辺んで",
+          "迎んで"
+        ],
+        "answer": 0,
+        "explanation_en": "こんで (கூட்டமாக, crowded) is 込んで: enter 入 on the road ⻌. 入 alone is はいる; 辺 and 迎 have the road part but other insides.",
+        "explanation_ta": "こんで (கூட்டமாக, crowded) = 込んで: சாலை ⻌ மேல் நுழை 入. தனி 入 = はいる; 辺, 迎 இவற்றிலும் சாலைப் பகுதி உண்டு, உள்ளே வேறு."
+      }
+    ]
+  }
+}

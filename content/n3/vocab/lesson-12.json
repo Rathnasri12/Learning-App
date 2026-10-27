@@ -1,0 +1,830 @@
+[
+  {
+    "id": "n3-v-0037",
+    "expression": "事実",
+    "reading": "じじつ",
+    "romaji": "jijitsu",
+    "en": "fact; truth",
+    "ta": "உண்மை (நடந்தது)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼が 言った ことは 事実では ありませんでした。",
+        "reading": "かれが いった ことは じじつでは ありませんでした。",
+        "romaji": "kare ga itta koto wa jijitsu de wa arimasen deshita.",
+        "ta": "அவர் சொன்னது உண்மை அல்ல.",
+        "en": "What he said was not true."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0039",
+    "expression": "事情",
+    "reading": "じじょう",
+    "romaji": "jijou",
+    "en": "circumstances; reasons",
+    "ta": "சூழ்நிலை; காரணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "家の 事情で、来月 国に 帰る ことに なりました。",
+        "reading": "いえの じじょうで、らいげつ くにに かえる ことに なりました。",
+        "romaji": "ie no jijou de, raigetsu kuni ni kaeru koto ni narimashita.",
+        "ta": "குடும்பச் சூழ்நிலையால், அடுத்த மாதம் நாட்டுக்குத் திரும்ப வேண்டியதாயிற்று.",
+        "en": "For family reasons, I'm going back to my country next month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0056",
+    "expression": "実際",
+    "reading": "じっさい",
+    "romaji": "jissai",
+    "en": "reality; in fact",
+    "ta": "உண்மையில்; நேரில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "写真で 見るより、実際の 富士山は ずっと 大きかったです。",
+        "reading": "しゃしんで みるより、じっさいの ふじさんは ずっと おおきかったです。",
+        "romaji": "shashin de miru yori, jissai no fujisan wa zutto ookikatta desu.",
+        "ta": "புகைப்படத்தில் பார்த்ததைவிட, நேரில் பார்த்த ஃபூஜி மலை மிகப் பெரியதாக இருந்தது.",
+        "en": "The real Mt Fuji was much bigger than in photos."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0060",
+    "expression": "実に",
+    "reading": "じつに",
+    "romaji": "jitsuni",
+    "en": "truly; really",
+    "ta": "உண்மையிலேயே; மிகவும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "今日の 演奏は 実に すばらしかった。",
+        "reading": "きょうの えんそうは じつに すばらしかった。",
+        "romaji": "kyou no ensou wa jitsu ni subarashikatta.",
+        "ta": "இன்றைய இசை நிகழ்ச்சி உண்மையிலேயே அற்புதமாக இருந்தது.",
+        "en": "Today's performance was truly wonderful."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0061",
+    "expression": "実は",
+    "reading": "じつは",
+    "romaji": "jitsuha",
+    "en": "actually; to tell the truth",
+    "ta": "உண்மையைச் சொன்னால்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "実は、来月 会社を 辞める ことに なりました。",
+        "reading": "じつは、らいげつ かいしゃを やめる ことに なりました。",
+        "romaji": "jitsu wa, raigetsu kaisha o yameru koto ni narimashita.",
+        "ta": "உண்மையைச் சொன்னால், அடுத்த மாதம் நான் வேலையை விட்டு விலகப் போகிறேன்.",
+        "en": "Actually, I'll be leaving the company next month."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0097",
+    "expression": "修正",
+    "reading": "しゅうせい",
+    "romaji": "shuusei",
+    "en": "correction; revision",
+    "ta": "திருத்தம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生に 言われた ところを 修正して、もう 一度 出しました。",
+        "reading": "せんせいに いわれた ところを しゅうせいして、もう いちど だしました。",
+        "romaji": "sensei ni iwareta tokoro o shuusei shite, mou ichido dashimashita.",
+        "ta": "ஆசிரியர் சுட்டிக்காட்டிய இடங்களைத் திருத்தி மீண்டும் சமர்ப்பித்தேன்.",
+        "en": "I corrected the parts my teacher pointed out and handed it in again."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0107",
+    "expression": "修理",
+    "reading": "しゅうり",
+    "romaji": "shuuri",
+    "en": "repair",
+    "ta": "பழுது பார்த்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "壊れた 自転車を 修理に 出しました。",
+        "reading": "こわれた じてんしゃを しゅうりに だしました。",
+        "romaji": "kowareta jitensha o shuuri ni dashimashita.",
+        "ta": "உடைந்த சைக்கிளைப் பழுது பார்க்கக் கொடுத்தேன்.",
+        "en": "I took my broken bicycle in for repair."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0254",
+    "expression": "正",
+    "reading": "せい",
+    "romaji": "sei",
+    "en": "regular; correct; (logically) true",
+    "ta": "முறையான; சரியான",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "兄は 去年 正社員に なりました。",
+        "reading": "あには きょねん せいしゃいんに なりました。",
+        "romaji": "ani wa kyonen seishain ni narimashita.",
+        "ta": "அண்ணன் கடந்த ஆண்டு நிரந்தர ஊழியர் ஆனார்.",
+        "en": "My brother became a full-time regular employee last year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0308",
+    "expression": "明らか",
+    "reading": "あきらか",
+    "romaji": "akiraka",
+    "en": "clear; obvious",
+    "ta": "தெளிவான; வெளிப்படையான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "調査で 事故の 原因が 明らかに なりました。",
+        "reading": "ちょうさで じこの げんいんが あきらかに なりました。",
+        "romaji": "chousa de jiko no gen'in ga akiraka ni narimashita.",
+        "ta": "விசாரணையில் விபத்துக்கான காரணம் தெளிவானது.",
+        "en": "The investigation made the cause of the accident clear."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0336",
+    "expression": "誤り",
+    "reading": "あやまり",
+    "romaji": "ayamari",
+    "en": "error",
+    "ta": "பிழை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 文には 文法の 誤りが 二つ あります。",
+        "reading": "この ぶんには ぶんぽうの あやまりが ふたつ あります。",
+        "romaji": "kono bun ni wa bunpou no ayamari ga futatsu arimasu.",
+        "ta": "இந்த வாக்கியத்தில் இரண்டு இலக்கணப் பிழைகள் உள்ளன.",
+        "en": "There are two grammar errors in this sentence."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0427",
+    "expression": "言わば",
+    "reading": "いわば",
+    "romaji": "iwaba",
+    "en": "so to speak",
+    "ta": "சொல்லப்போனால்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "祖母は、言わば 私の 二人目の 母です。",
+        "reading": "そぼは、いわば わたしの ふたりめの ははです。",
+        "romaji": "sobo wa, iwaba watashi no futarime no haha desu.",
+        "ta": "பாட்டி, சொல்லப்போனால், எனக்கு இரண்டாவது அம்மா.",
+        "en": "My grandmother is, so to speak, my second mother."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0428",
+    "expression": "いわゆる",
+    "reading": "いわゆる",
+    "romaji": "iwayuru",
+    "en": "so-called; what is called",
+    "ta": "என்று சொல்லப்படும்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "これが いわゆる「日本の おもてなし」です。",
+        "reading": "これが いわゆる「にほんの おもてなし」です。",
+        "romaji": "kore ga iwayuru \"nihon no omotenashi\" desu.",
+        "ta": "இதுதான் 'ஜப்பானிய விருந்தோம்பல்' என்று சொல்லப்படுவது.",
+        "en": "This is what people call \"Japanese hospitality\"."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0444",
+    "expression": "疑う",
+    "reading": "うたがう",
+    "romaji": "utagau",
+    "en": "to doubt; to suspect",
+    "ta": "சந்தேகப்பட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "友達を 疑って しまって、後で 謝りました。",
+        "reading": "ともだちを うたがって しまって、あとで あやまりました。",
+        "romaji": "tomodachi o utagatte shimatte, ato de ayamarimashita.",
+        "ta": "நண்பனைச் சந்தேகப்பட்டுவிட்டேன், பிறகு மன்னிப்புக் கேட்டேன்.",
+        "en": "I suspected my friend, and later I apologized."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0555",
+    "expression": "解決",
+    "reading": "かいけつ",
+    "romaji": "kaiketsu",
+    "en": "solution; settlement",
+    "ta": "தீர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "よく 話し合って、問題が 解決しました。",
+        "reading": "よく はなしあって、もんだいが かいけつしました。",
+        "romaji": "yoku hanashiatte, mondai ga kaiketsu shimashita.",
+        "ta": "நன்றாகப் பேசிக்கொண்டதால் பிரச்சினை தீர்ந்தது.",
+        "en": "We talked it over properly, and the problem was solved."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0559",
+    "expression": "解釈",
+    "reading": "かいしゃく",
+    "romaji": "kaishaku",
+    "en": "interpretation",
+    "ta": "விளக்கம்; பொருள்கோடல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 詩の 解釈は 一つでは ありません。",
+        "reading": "この しの かいしゃくは ひとつでは ありません。",
+        "romaji": "kono shi no kaishaku wa hitotsu de wa arimasen.",
+        "ta": "இந்தக் கவிதைக்கு ஒரே ஒரு விளக்கம் மட்டும் இல்லை.",
+        "en": "There is more than one way to interpret this poem."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0591",
+    "expression": "確認",
+    "reading": "かくにん",
+    "romaji": "kakunin",
+    "en": "confirmation; check",
+    "ta": "உறுதிப்படுத்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "出かける 前に、電車の 時間を 確認しました。",
+        "reading": "でかける まえに、でんしゃの じかんを かくにんしました。",
+        "romaji": "dekakeru mae ni, densha no jikan o kakunin shimashita.",
+        "ta": "வெளியே போகும் முன் ரயில் நேரத்தை உறுதிப்படுத்திக்கொண்டேன்.",
+        "en": "Before going out, I checked the train times."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0635",
+    "expression": "かなり",
+    "reading": "かなり",
+    "romaji": "kanari",
+    "en": "quite; considerably",
+    "ta": "கணிசமாக; ரொம்பவே",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "日本語が かなり 上手に なりましたね。",
+        "reading": "にほんごが かなり じょうずに なりましたね。",
+        "romaji": "nihongo ga kanari jouzu ni narimashita ne.",
+        "ta": "உங்கள் ஜப்பானிய மொழி ரொம்பவே முன்னேறிவிட்டதே.",
+        "en": "Your Japanese has got quite good."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0716",
+    "expression": "気付く",
+    "reading": "きづく",
+    "romaji": "kizuku",
+    "en": "to notice",
+    "ta": "கவனிக்க; உணர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "電車を 降りてから、傘を 忘れた ことに 気付きました。",
+        "reading": "でんしゃを おりてから、かさを わすれた ことに きづきました。",
+        "romaji": "densha o orite kara, kasa o wasureta koto ni kizukimashita.",
+        "ta": "ரயிலிலிருந்து இறங்கிய பிறகுதான் குடையை மறந்துவிட்டதை உணர்ந்தேன்.",
+        "en": "After getting off the train, I noticed I had forgotten my umbrella."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0729",
+    "expression": "疑問",
+    "reading": "ぎもん",
+    "romaji": "gimon",
+    "en": "question; doubt",
+    "ta": "ஐயம்; சந்தேகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "授業の 後で、疑問に 思った ことを 先生に 聞きました。",
+        "reading": "じゅぎょうの あとで、ぎもんに おもった ことを せんせいに ききました。",
+        "romaji": "jugyou no ato de, gimon ni omotta koto o sensei ni kikimashita.",
+        "ta": "வகுப்பு முடிந்ததும், எனக்கு ஐயமாக இருந்ததை ஆசிரியரிடம் கேட்டேன்.",
+        "en": "After class, I asked the teacher about what I had doubts about."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0822",
+    "expression": "下",
+    "reading": "げ",
+    "romaji": "ge",
+    "en": "lower; last (of two parts)",
+    "ta": "கீழ்; இறுதிப் பாகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "上巻は 読みましたが、下巻は まだです。",
+        "reading": "じょうかんは よみましたが、げかんは まだです。",
+        "romaji": "joukan wa yomimashita ga, gekan wa mada desu.",
+        "ta": "முதல் பாகத்தைப் படித்துவிட்டேன், இரண்டாம் பாகத்தை இன்னும் படிக்கவில்லை.",
+        "en": "I've read the first volume, but not the second yet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0861",
+    "expression": "現実",
+    "reading": "げんじつ",
+    "romaji": "genjitsu",
+    "en": "reality",
+    "ta": "நிஜம்; யதார்த்தம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "留学生活は 楽しいと 思って いましたが、現実は 大変でした。",
+        "reading": "りゅうがくせいかつは たのしいと おもって いましたが、げんじつは たいへんでした。",
+        "romaji": "ryuugaku seikatsu wa tanoshii to omotte imashita ga, genjitsu wa taihen deshita.",
+        "ta": "வெளிநாட்டுப் படிப்பு வாழ்க்கை சந்தோஷமாக இருக்கும் என்று நினைத்தேன், ஆனால் நிஜத்தில் கஷ்டமாக இருந்தது.",
+        "en": "I thought life as an exchange student would be fun, but the reality was tough."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0912",
+    "expression": "誤解",
+    "reading": "ごかい",
+    "romaji": "gokai",
+    "en": "misunderstanding",
+    "ta": "தவறான புரிதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私の 説明が 悪くて、誤解させて しまいました。",
+        "reading": "わたしの せつめいが わるくて、ごかいさせて しまいました。",
+        "romaji": "watashi no setsumei ga warukute, gokai sasete shimaimashita.",
+        "ta": "என் விளக்கம் சரியில்லாததால், தவறாகப் புரிந்துகொள்ள வைத்துவிட்டேன்.",
+        "en": "My explanation was poor, and I caused a misunderstanding."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0944",
+    "expression": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "romaji": "gomennasai",
+    "en": "I'm sorry",
+    "ta": "மன்னிச்சுடுங்க",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "ごめんなさい、約束の 時間を 忘れて いました。",
+        "reading": "ごめんなさい、やくそくの じかんを わすれて いました。",
+        "romaji": "gomennasai, yakusoku no jikan o wasurete imashita.",
+        "ta": "மன்னிச்சுடுங்க, சந்திக்க வேண்டிய நேரத்தை மறந்துவிட்டேன்.",
+        "en": "I'm sorry, I forgot the time we agreed on."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1014",
+    "expression": "ミス",
+    "reading": "ミス",
+    "romaji": "misu",
+    "en": "mistake",
+    "ta": "தவறு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "計算ミスで、テストの 点が 悪かった。",
+        "reading": "けいさんミスで、テストの てんが わるかった。",
+        "romaji": "keisan misu de, tesuto no ten ga warukatta.",
+        "ta": "கணக்கில் செய்த தவறால் தேர்வில் மதிப்பெண் குறைந்தது.",
+        "en": "I got a bad score on the test because of a calculation mistake."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1016",
+    "expression": "密",
+    "reading": "みつ",
+    "romaji": "mitsu",
+    "en": "close; dense",
+    "ta": "நெருக்கமான; அடர்த்தியான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "誤解を 防ぐ ために、チームで 密に 連絡を 取りましょう。",
+        "reading": "ごかいを ふせぐ ために、チームで みつに れんらくを とりましょう。",
+        "romaji": "gokai o fusegu tame ni, chiimu de mitsu ni renraku o torimashou.",
+        "ta": "தவறான புரிதலைத் தவிர்க்க, குழுவில் நெருக்கமாகத் தொடர்பில் இருப்போம்.",
+        "en": "To avoid misunderstandings, let's keep in close contact as a team."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1017",
+    "expression": "認める",
+    "reading": "みとめる",
+    "romaji": "mitomeru",
+    "en": "to admit; to accept",
+    "ta": "ஒப்புக்கொள்ள; அங்கீகரிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "彼は やっと 自分の ミスを 認めました。",
+        "reading": "かれは やっと じぶんの ミスを みとめました。",
+        "romaji": "kare wa yatto jibun no misu o mitomemashita.",
+        "ta": "அவர் ஒருவழியாகத் தன் தவறை ஒப்புக்கொண்டார்.",
+        "en": "He finally admitted his mistake."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1044",
+    "expression": "明確",
+    "reading": "めいかく",
+    "romaji": "meikaku",
+    "en": "clear; definite",
+    "ta": "தெளிவான; துல்லியமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "会議では、自分の 意見を 明確に 言って ください。",
+        "reading": "かいぎでは、じぶんの いけんを めいかくに いって ください。",
+        "romaji": "kaigi de wa, jibun no iken o meikaku ni itte kudasai.",
+        "ta": "கூட்டத்தில் உங்கள் கருத்தைத் தெளிவாகச் சொல்லுங்கள்.",
+        "en": "At meetings, please state your opinion clearly."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1062",
+    "expression": "申し訳",
+    "reading": "もうしわけ",
+    "romaji": "moushiwake",
+    "en": "apology; excuse",
+    "ta": "மன்னிப்பு; சாக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お待たせして しまって、申し訳 ありません。",
+        "reading": "おまたせして しまって、もうしわけ ありません。",
+        "romaji": "omatase shite shimatte, moushiwake arimasen.",
+        "ta": "உங்களைக் காக்க வைத்ததற்கு மிகவும் வருந்துகிறேன்.",
+        "en": "I'm very sorry to have kept you waiting."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1161",
+    "expression": "理解",
+    "reading": "りかい",
+    "romaji": "rikai",
+    "en": "understanding",
+    "ta": "புரிதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "両親は 私の 夢を 理解して くれました。",
+        "reading": "りょうしんは わたしの ゆめを りかいして くれました。",
+        "romaji": "ryoushin wa watashi no yume o rikai shite kuremashita.",
+        "ta": "பெற்றோர் என் கனவைப் புரிந்துகொண்டார்கள்.",
+        "en": "My parents understood my dream."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1194",
+    "expression": "脇",
+    "reading": "わき",
+    "romaji": "waki",
+    "en": "side; armpit",
+    "ta": "ஓரம்; அக்குள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "道の 脇に 車を 止めて、地図を 見ました。",
+        "reading": "みちの わきに くるまを とめて、ちずを みました。",
+        "romaji": "michi no waki ni kuruma o tomete, chizu o mimashita.",
+        "ta": "சாலை ஓரத்தில் காரை நிறுத்தி வரைபடத்தைப் பார்த்தேன்.",
+        "en": "I stopped the car at the side of the road and looked at the map."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1397",
+    "expression": "確かめる",
+    "reading": "たしかめる",
+    "romaji": "tashikameru",
+    "en": "to make sure; to check",
+    "ta": "சரிபார்க்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "本当か どうか、自分の 目で 確かめたいです。",
+        "reading": "ほんとうか どうか、じぶんの めで たしかめたいです。",
+        "romaji": "hontou ka dou ka, jibun no me de tashikametai desu.",
+        "ta": "அது உண்மையா இல்லையா என்று என் கண்ணாலேயே சரிபார்க்க விரும்புகிறேன்.",
+        "en": "I want to see with my own eyes whether it's true."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1502",
+    "expression": "通訳",
+    "reading": "つうやく",
+    "romaji": "tsuuyaku",
+    "en": "interpreting; interpreter",
+    "ta": "மொழிபெயர்ப்பாளர் (பேச்சு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議で 日本語と タミル語の 通訳を しました。",
+        "reading": "かいぎで にほんごと タミルごの つうやくを しました。",
+        "romaji": "kaigi de nihongo to tamirugo no tsuuyaku o shimashita.",
+        "ta": "கூட்டத்தில் ஜப்பானிய மொழிக்கும் தமிழுக்கும் இடையே மொழிபெயர்த்தேன்.",
+        "en": "I interpreted between Japanese and Tamil at the meeting."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1513",
+    "expression": "注ぐ",
+    "reading": "つぐ",
+    "romaji": "tsugu",
+    "en": "to pour",
+    "ta": "ஊற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "お客さんの コップに お茶を 注ぎました。",
+        "reading": "おきゃくさんの コップに おちゃを つぎました。",
+        "romaji": "okyakusan no koppu ni ocha o tsugimashita.",
+        "ta": "விருந்தினரின் கோப்பையில் தேநீர் ஊற்றினேன்.",
+        "en": "I poured tea into the guest's cup."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1556",
+    "expression": "ですから",
+    "reading": "ですから",
+    "romaji": "desukara",
+    "en": "therefore; so",
+    "ta": "ஆகவே; அதனால்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "明日は 祝日です。ですから、銀行は 休みです。",
+        "reading": "あしたは しゅくじつです。ですから、ぎんこうは やすみです。",
+        "romaji": "ashita wa shukujitsu desu. desu kara, ginkou wa yasumi desu.",
+        "ta": "நாளை பொது விடுமுறை. ஆகவே வங்கி இயங்காது.",
+        "en": "Tomorrow is a national holiday. So the banks are closed."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1660",
+    "expression": "納得",
+    "reading": "なっとく",
+    "romaji": "nattoku",
+    "en": "being convinced; accepting",
+    "ta": "ஏற்றுக்கொள்ளுதல்; மனநிறைவான புரிதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生の 説明を 聞いて、やっと 納得しました。",
+        "reading": "せんせいの せつめいを きいて、やっと なっとくしました。",
+        "romaji": "sensei no setsumei o kiite, yatto nattoku shimashita.",
+        "ta": "ஆசிரியரின் விளக்கத்தைக் கேட்ட பிறகுதான் மனதுக்குச் சரியாகப் புரிந்தது.",
+        "en": "After hearing the teacher's explanation, I was finally convinced."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1825",
+    "expression": "否定",
+    "reading": "ひてい",
+    "romaji": "hitei",
+    "en": "denial",
+    "ta": "மறுப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は その うわさを 強く 否定しました。",
+        "reading": "かれは その うわさを つよく ひていしました。",
+        "romaji": "kare wa sono uwasa o tsuyoku hitei shimashita.",
+        "ta": "அவர் அந்த வதந்தியை உறுதியாக மறுத்தார்.",
+        "en": "He strongly denied the rumour."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1862",
+    "expression": "不可",
+    "reading": "ふか",
+    "romaji": "fuka",
+    "en": "not allowed; fail (grade)",
+    "ta": "அனுமதி இல்லை; தேர்ச்சி இல்லை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 美術館の 中は 写真撮影 不可です。",
+        "reading": "この びじゅつかんの なかは しゃしんさつえい ふかです。",
+        "romaji": "kono bijutsukan no naka wa shashin satsuei fuka desu.",
+        "ta": "இந்தக் கலைக்கூடத்துக்குள் புகைப்படம் எடுக்க அனுமதி இல்லை.",
+        "en": "Taking photos is not allowed inside this museum."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1958",
+    "expression": "本当",
+    "reading": "ほんと",
+    "romaji": "honto",
+    "en": "truth; really (casual)",
+    "ta": "உண்மை; நிஜமாகவா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "「来月 結婚するんだ。」「えっ、ほんと？ おめでとう！」",
+        "reading": "「らいげつ けっこんするんだ。」「えっ、ほんと？ おめでとう！」",
+        "romaji": "\"raigetsu kekkon suru n da.\" \"e, honto? omedetou!\"",
+        "ta": "\"அடுத்த மாதம் எனக்குக் கல்யாணம்.\" \"அப்படியா, நிஜமாகவா? வாழ்த்துகள்!\"",
+        "en": "\"I'm getting married next month.\" \"Really? Congratulations!\""
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1976",
+    "expression": "まさに",
+    "reading": "まさに",
+    "romaji": "masani",
+    "en": "exactly; truly",
+    "ta": "சரியாக; உண்மையிலேயே",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "それは まさに 私が 言いたかった ことです。",
+        "reading": "それは まさに わたしが いいたかった ことです。",
+        "romaji": "sore wa masani watashi ga iitakatta koto desu.",
+        "ta": "அதுதான் சரியாக நான் சொல்ல நினைத்தது.",
+        "en": "That is exactly what I wanted to say."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1988",
+    "expression": "間違い",
+    "reading": "まちがい",
+    "romaji": "machigai",
+    "en": "mistake",
+    "ta": "தவறு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "答えに 間違いが ないか、もう 一度 確かめて ください。",
+        "reading": "こたえに まちがいが ないか、もう いちど たしかめて ください。",
+        "romaji": "kotae ni machigai ga nai ka, mou ichido tashikamete kudasai.",
+        "ta": "பதில்களில் தவறு இருக்கிறதா என்று மீண்டும் ஒரு முறை சரிபாருங்கள்.",
+        "en": "Please check once more that there are no mistakes in your answers."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2023",
+    "expression": "正体",
+    "reading": "しょうたい",
+    "romaji": "shoutai",
+    "en": "true identity; true nature",
+    "ta": "உண்மை அடையாளம்; உண்மை உருவம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜中に 聞こえた 音の 正体は 猫でした。",
+        "reading": "よなかに きこえた おとの しょうたいは ねこでした。",
+        "romaji": "yonaka ni kikoeta oto no shoutai wa neko deshita.",
+        "ta": "நள்ளிரவில் கேட்ட சத்தத்துக்குக் காரணம் உண்மையில் ஒரு பூனைதான்.",
+        "en": "The noise I heard in the middle of the night turned out to be a cat."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2032",
+    "expression": "真理",
+    "reading": "しんり",
+    "romaji": "shinri",
+    "en": "truth (universal)",
+    "ta": "மெய்ம்மை; சத்தியம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "科学者は 自然の 真理を 探し 続けて います。",
+        "reading": "かがくしゃは しぜんの しんりを さがし つづけて います。",
+        "romaji": "kagakusha wa shizen no shinri o sagashi tsuzukete imasu.",
+        "ta": "விஞ்ஞானிகள் இயற்கையின் மெய்ம்மையைத் தொடர்ந்து தேடிக்கொண்டிருக்கிறார்கள்.",
+        "en": "Scientists keep searching for the truths of nature."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2047",
+    "expression": "先行",
+    "reading": "せんこう",
+    "romaji": "senkou",
+    "en": "going ahead; advance (sale)",
+    "ta": "முன்கூட்டியே; முன்னால் செல்லுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "コンサートの チケットの 先行販売が 明日から 始まります。",
+        "reading": "コンサートの チケットの せんこうはんばいが あしたから はじまります。",
+        "romaji": "konsaato no chiketto no senkou hanbai ga ashita kara hajimarimasu.",
+        "ta": "இசை நிகழ்ச்சி டிக்கெட்டுகளின் முன்கூட்டிய விற்பனை நாளை முதல் தொடங்குகிறது.",
+        "en": "The advance sale of concert tickets starts tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2050",
+    "expression": "沿う",
+    "reading": "そう",
+    "romaji": "sou",
+    "en": "to run along; to follow",
+    "ta": "ஒட்டிச் செல்ல; பின்பற்ற",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "川に 沿って 歩くと、駅に 着きます。",
+        "reading": "かわに そって あるくと、えきに つきます。",
+        "romaji": "kawa ni sotte aruku to, eki ni tsukimasu.",
+        "ta": "ஆற்றை ஒட்டி நடந்தால் ரயில் நிலையத்தை அடையலாம்.",
+        "en": "If you walk along the river, you'll reach the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2071",
+    "expression": "摘む",
+    "reading": "つむ",
+    "romaji": "tsumu",
+    "en": "to pick; to pluck",
+    "ta": "பறிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "毎朝、祖母は 庭で ジャスミンの 花を 摘みます。",
+        "reading": "まいあさ、そぼは にわで ジャスミンの はなを つみます。",
+        "romaji": "maiasa, sobo wa niwa de jasumin no hana o tsumimasu.",
+        "ta": "தினமும் காலையில் பாட்டி தோட்டத்தில் மல்லிகைப் பூ பறிக்கிறார்.",
+        "en": "Every morning my grandmother picks jasmine flowers in the garden."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2086",
+    "expression": "当然",
+    "reading": "とうぜん",
+    "romaji": "touzen",
+    "en": "natural; of course",
+    "ta": "இயல்பானது; நிச்சயமாக",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "悪い ことを したら、謝るのは 当然です。",
+        "reading": "わるい ことを したら、あやまるのは とうぜんです。",
+        "romaji": "warui koto o shitara, ayamaru no wa touzen desu.",
+        "ta": "தவறு செய்தால் மன்னிப்புக் கேட்பது இயல்பானதே.",
+        "en": "If you do something wrong, it's only natural to apologize."
+      }
+    ]
+  }
+]

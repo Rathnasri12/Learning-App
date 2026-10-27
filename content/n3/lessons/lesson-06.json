@@ -1,0 +1,728 @@
+{
+  "lesson": 6,
+  "title": {
+    "ja": "助け合う",
+    "ta": "ஒருவருக்கொருவர் உதவுதல்",
+    "en": "Helping each other"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் களம் குடும்பம், நண்பர்கள், உறவுகள். ます-அடியுடன் சேரும் இரண்டு பின்னொட்டுகளைக் கற்போம்: 合う (ஒருவருக்கொருவர்: 助け合う, 話し合う), 込む (உள்ளே / ஆழமாக: 飛び込む, 思い込む). N4-இல் பார்த்த 'எண்ண வடிவம்' (意向形) கொண்டு 「〜ようとする」 (செய்ய முயல்வது / செய்யப்போகும் நொடி), 「〜ようとしない」 (செய்யவே மறுப்பது) ஆகியவற்றை ஆழமாகக் கற்போம். 'குடும்பமாகக் கலந்து பேசினோம்', 'அவர் திருமணமாகாதவர் என்று தவறாக நினைத்தேன்', 'தம்பி பெற்றோர் சொல்லைக் கேட்கவே மாட்டான்' என்று உறவுகளைப் பற்றி இயல்பாகப் பேசலாம்.",
+  "intro_en": "This lesson is about family, friends and relationships. You learn two endings that join the ます-stem. 合う = “each other” (助け合う, 話し合う). 込む = “into” or “deeply” (飛び込む, 思い込む). You also go deeper into the volitional form you met in N4. 〜ようとする = try to, or be just about to. 〜ようとしない = refuse to, won’t even try. You will say things like “We talked it over as a family”, “I wrongly thought he was single” and “My brother won’t listen to our parents”.",
+  "grammar": [
+    {
+      "id": "g06-1",
+      "pattern": "V-ます 合う",
+      "name": {
+        "en": "Do to each other (help each other, talk together)",
+        "ta": "ஒருவருக்கொருவர் செய்தல்"
+      },
+      "explanation_ta": "ます-அடி + 合う (あう) என்றால் 'இருவர் அல்லது பலர் ஒருவருக்கொருவர் ஒரே செயலைச் செய்தல்' என்று பொருள். 助ける → 助け合う (ஒருவருக்கொருவர் உதவுதல்), 話す → 話し合う (கலந்து பேசுதல்), 見る → 見合う (ஒருவரையொருவர் பார்த்தல்). する வினைகளில் 'し合う': 連絡し合う, 信頼し合う. இது u-வினை போல மாறும் (合った、合って、合いましょう). எழுவாய் பன்மையாக (二人は, 家族で, 友達と) இருக்கும்; 「お互いに」 (ஒருவருக்கொருவர்) என்பதும் அடிக்கடி சேர்ந்து வரும். தமிழில் '-க்கொள்ளுதல்' (உதவிக்கொள்ளுதல், பேசிக்கொள்ளுதல்) போன்றது.",
+      "explanation_en": "ます-stem + 合う (あう) means two or more people do the same thing to each other. 助ける → 助け合う (help each other). 話す → 話し合う (talk it over). 見る → 見合う (look at each other). With する verbs, use し合う: 連絡し合う, 信頼し合う. It changes like an う-verb (合った、合って、合いましょう). The doers are plural: 二人は, 家族で, 友達と. お互いに (each other) often comes with it. In Tamil it is like “-க்கொள்ள” (உதவிக்கொள்ள, help each other).",
+      "tamil_parallel": "ஒருவருக்கொருவர் உதவிக்கொள்வோம் = 助け合いましょう; கலந்து பேசினோம் = 話し合った",
+      "tamil_parallel_en": "உதவிக்கொள்வோம் (let’s help each other) = 助け合いましょう; கலந்து பேசினோம் (we talked it over) = 話し合った",
+      "formation": "V-ます அடி + 合う (u-வினை)\n助けます → 助け合う\n話します → 話し合う\nNする → N し合う (連絡し合う)",
+      "formation_en": "V-ます stem + 合う (う-verb)\n助けます → 助け合う\n話します → 話し合う\nN する → N し合う (連絡し合う)",
+      "examples": [
+        {
+          "ja": "困ったときは、家族で助け合いましょう。",
+          "reading": "こまった ときは、かぞくで たすけあいましょう。",
+          "romaji": "komatta toki wa, kazoku de tasukeaimashou.",
+          "ta": "கஷ்ட காலத்தில் குடும்பமாக ஒருவருக்கொருவர் உதவிக்கொள்வோம்.",
+          "en": "When times are hard, let’s help each other as a family."
+        },
+        {
+          "ja": "二人はよく話し合って、結婚することに決めました。",
+          "reading": "ふたりは よく はなしあって、けっこんする ことに きめました。",
+          "romaji": "futari wa yoku hanashiatte, kekkon suru koto ni kimemashita.",
+          "ta": "இருவரும் நன்றாகக் கலந்து பேசித் திருமணம் செய்ய முடிவு செய்தனர்.",
+          "en": "The two talked it over well and decided to get married."
+        },
+        {
+          "ja": "姉妹は顔を見合って笑った。",
+          "reading": "しまいは かおを みあって わらった。",
+          "romaji": "shimai wa kao o miatte waratta.",
+          "ta": "சகோதரிகள் ஒருவர் முகத்தை ஒருவர் பார்த்துச் சிரித்தனர்.",
+          "en": "The sisters looked at each other and laughed."
+        },
+        {
+          "ja": "留学してからも、友達とは毎週連絡し合っています。",
+          "reading": "りゅうがくして からも、ともだちとは まいしゅう れんらくしあって います。",
+          "romaji": "ryuugaku shite kara mo, tomodachi to wa maishuu renraku shiatte imasu.",
+          "ta": "வெளிநாட்டுக்குப் படிக்க வந்த பிறகும் நண்பர்களுடன் ஒவ்வொரு வாரமும் தொடர்பு கொள்கிறோம்.",
+          "en": "Even after going abroad to study, my friends and I keep in touch every week."
+        },
+        {
+          "ja": "夫婦はお互いに信頼し合うことが大切です。",
+          "reading": "ふうふは おたがいに しんらいしあう ことが たいせつです。",
+          "romaji": "fuufu wa otagai ni shinrai shiau koto ga taisetsu desu.",
+          "ta": "கணவன் மனைவி ஒருவரையொருவர் நம்புவது முக்கியம்.",
+          "en": "It is important for a married couple to trust each other."
+        },
+        {
+          "ja": "けんかしないで、二人で分け合って食べなさい。",
+          "reading": "けんか しないで、ふたりで わけあって たべなさい。",
+          "romaji": "kenka shinaide, futari de wakeatte tabenasai.",
+          "ta": "சண்டை போடாமல் இருவரும் பகிர்ந்து சாப்பிடுங்கள்.",
+          "en": "Don’t fight. Share it between the two of you."
+        },
+        {
+          "ja": "友達と意見を言い合うのは、いいことだと思う。",
+          "reading": "ともだちと いけんを いいあうのは、いい ことだと おもう。",
+          "romaji": "tomodachi to iken o iiau no wa, ii koto da to omou.",
+          "ta": "நண்பர்களுடன் கருத்துகளைப் பரிமாறிக்கொள்வது நல்லது என்று நினைக்கிறேன்.",
+          "en": "I think it’s good to share opinions openly with friends."
+        }
+      ],
+      "pitfalls_ta": "ஒருவர் மட்டும் செய்தால் 合う வராது: 「私は彼を助け合った」 தவறு; 「私たちは助け合った」 அல்லது 「彼と助け合った」 சொல்லுங்கள். 「話し合う」 என்பது வெறும் 'பேசுவது' அல்ல; ஒரு விஷயத்தைத் தீர்க்கக் 'கலந்து பேசுவது'.",
+      "pitfalls_en": "合う needs two sides. 「私は彼を助け合った」 is wrong. Say 「私たちは助け合った」 or 「彼と助け合った」. 話し合う is not just “talk”. It means “talk something over to decide or solve it”."
+    },
+    {
+      "id": "g06-2",
+      "pattern": "V-ます 込む",
+      "name": {
+        "en": "Into / deeply, thoroughly",
+        "ta": "உள்ளே (நுழைதல்) / ஆழமாக, முழுமையாக"
+      },
+      "explanation_ta": "ます-அடி + 込む (こむ) இரண்டு பொருள் தரும். (1) 'உள்ளே': 飛び込む (உள்ளே குதித்தல்), 駆け込む (ஓடி உள்ளே நுழைதல்), 書き込む (படிவத்தில் எழுதி நிரப்புதல்), 入り込む (நுழைந்துவிடுதல்). (2) 'ஆழமாக, நீண்ட நேரம், முழுமையாக': 話し込む (பேச்சில் மூழ்குதல்), 考え込む (ஆழ்ந்த யோசனையில் இருத்தல்), 思い込む (ஒன்றை உறுதியாக — பெரும்பாலும் தவறாக — நம்பிவிடுதல்). இது u-வினை போல மாறும் (込んだ、込んで). தமிழில் 'உள்ளே' அல்லது '…இல் மூழ்கி' என்பது போல.",
+      "explanation_en": "ます-stem + 込む (こむ) has two meanings. (1) “Into”: 飛び込む (jump in), 駆け込む (rush in), 書き込む (write into a form), 入り込む (get in). (2) “Deeply, for a long time, fully”: 話し込む (get deep into talk), 考え込む (be lost in thought), 思い込む (firmly believe, often wrongly). It changes like an う-verb (込んだ、込んで). In Tamil it is like “உள்ளே” (inside) or “…இல் மூழ்கி” (sunk in).",
+      "tamil_parallel": "குளத்தில் குதித்தான் = プールに飛び込んだ; அவர் திருமணமாகாதவர் என்று தவறாக நம்பியிருந்தேன் = 独身だと思い込んでいた",
+      "tamil_parallel_en": "குளத்தில் குதித்தான் (he jumped into the pool) = プールに飛び込んだ; தவறாக நம்பியிருந்தேன் (I had wrongly assumed) = 思い込んでいた",
+      "formation": "V-ます அடி + 込む (u-வினை)\n飛びます → 飛び込む (உள்ளே)\n考えます → 考え込む (ஆழமாக)\n思います → 思い込む (உறுதியாக நம்புதல்)",
+      "formation_en": "V-ます stem + 込む (う-verb)\n飛びます → 飛び込む (into)\n考えます → 考え込む (deeply)\n思います → 思い込む (firmly believe)",
+      "examples": [
+        {
+          "ja": "子どもたちが次々とプールに飛び込みました。",
+          "reading": "こどもたちが つぎつぎと プールに とびこみました。",
+          "romaji": "kodomotachi ga tsugitsugi to puuru ni tobikomimashita.",
+          "ta": "குழந்தைகள் ஒன்றன்பின் ஒன்றாக நீச்சல் குளத்தில் குதித்தனர்.",
+          "en": "The children jumped into the pool one after another."
+        },
+        {
+          "ja": "ドアが閉まる直前に、電車に駆け込んだ。",
+          "reading": "ドアが しまる ちょくぜんに、でんしゃに かけこんだ。",
+          "romaji": "doa ga shimaru chokuzen ni, densha ni kakekonda.",
+          "ta": "கதவு மூடுவதற்குச் சற்று முன் ஓடி ரயிலுக்குள் நுழைந்தேன்.",
+          "en": "I dashed onto the train just before the doors closed."
+        },
+        {
+          "ja": "私は、彼がまだ独身だと思い込んでいた。",
+          "reading": "わたしは、かれが まだ どくしんだと おもいこんで いた。",
+          "romaji": "watashi wa, kare ga mada dokushin da to omoikonde ita.",
+          "ta": "அவர் இன்னும் திருமணமாகாதவர் என்று நான் தவறாக நம்பியிருந்தேன்.",
+          "en": "I had assumed he was still single."
+        },
+        {
+          "ja": "母は電話で一時間も親戚と話し込んでいる。",
+          "reading": "ははは でんわで いちじかんも しんせきと はなしこんで いる。",
+          "romaji": "haha wa denwa de ichijikan mo shinseki to hanashikonde iru.",
+          "ta": "அம்மா தொலைபேசியில் ஒரு மணி நேரமாக உறவினருடன் பேச்சில் மூழ்கியிருக்கிறார்.",
+          "en": "Mom has been deep in conversation with a relative on the phone for a whole hour."
+        },
+        {
+          "ja": "この紙に名前と住所を書き込んでください。",
+          "reading": "この かみに なまえと じゅうしょを かきこんで ください。",
+          "romaji": "kono kami ni namae to juusho o kakikonde kudasai.",
+          "ta": "இந்தத் தாளில் பெயரையும் முகவரியையும் எழுதி நிரப்புங்கள்.",
+          "en": "Please fill in your name and address on this form."
+        },
+        {
+          "ja": "父は手紙を読んで、何か考え込んでいる。",
+          "reading": "ちちは てがみを よんで、なにか かんがえこんで いる。",
+          "romaji": "chichi wa tegami o yonde, nanika kangaekonde iru.",
+          "ta": "அப்பா கடிதத்தைப் படித்துவிட்டு ஏதோ ஆழ்ந்த யோசனையில் இருக்கிறார்.",
+          "en": "Dad read the letter and is now lost in thought."
+        },
+        {
+          "ja": "窓のすき間から、冷たい風が入り込んでくる。",
+          "reading": "まどの すきまから、つめたい かぜが はいりこんで くる。",
+          "romaji": "mado no sukima kara, tsumetai kaze ga hairikonde kuru.",
+          "ta": "ஜன்னல் இடுக்கு வழியாகக் குளிர்ந்த காற்று உள்ளே நுழைகிறது.",
+          "en": "Cold wind is getting in through the gap in the window."
+        }
+      ],
+      "pitfalls_ta": "「思い込む」 என்பது வெறும் 思う அல்ல; 'சரிபார்க்காமல் உறுதியாக நம்பிவிடுதல்', பெரும்பாலும் பின்னர் தவறு என்று தெரியும். 「込む」 தனியாக 'கூட்டமாக இருத்தல்' (電車が込んでいる) என்ற பொருளிலும் வரும்; அது வேறு பயன்பாடு.",
+      "pitfalls_en": "思い込む is not just 思う. It means believing something firmly without checking, and it often turns out wrong. On its own, 込む (混む) also means “crowded” (電車が込んでいる). That is a different use."
+    },
+    {
+      "id": "g06-3",
+      "pattern": "V-よう と する",
+      "name": {
+        "en": "Try to ~ / be just about to ~",
+        "ta": "செய்ய முயல்வது / செய்யப்போகும் நொடி"
+      },
+      "explanation_ta": "எண்ண வடிவம் (行こう、食べよう、しよう) + とする இரண்டு பொருள் தரும். (1) 'செய்ய முயல்வது': 立とうとしている (எழுந்து நிற்க முயல்கிறது), 伝えようとしたが、… (சொல்ல முயன்றேன், ஆனால்…). பெரும்பாலும் முயற்சி வெற்றி பெறவில்லை என்ற உணர்வு. (2) 'சரியாகச் செய்யப்போகும் நொடி': 出ようとしたとき (கிளம்பப்போனபோது), ドアが閉まろうとしている (கதவு மூடப்போகிறது). N4-இல் கற்ற 「〜てみる」 'செய்து பார்ப்பது' (உண்மையில் செய்தல்); 「〜ようとする」 'முயற்சி மட்டும், நடந்ததா தெரியாது'. தமிழில் '…க்க முயன்றேன்', '…க்கப்போனபோது' போன்றது.",
+      "explanation_en": "Volitional form (行こう、食べよう、しよう) + とする has two meanings. (1) “Try to”: 立とうとしている (is trying to stand), 伝えようとしたが、… (I tried to tell her, but…). It often hints the try didn’t work. (2) “Be just about to”: 出ようとしたとき (just as I was about to leave), ドアが閉まろうとしている (the doors are about to close). 〜てみる (N4) = actually do it and see. 〜ようとする = only the attempt, maybe not done. In Tamil it is like “…க்க முயன்றேன்” or “…க்கப்போனபோது”.",
+      "tamil_parallel": "சொல்ல முயன்றேன், ஆனால் வார்த்தை வரவில்லை = 言おうとしたが、言葉が出なかった; கிளம்பப்போனபோது = 出ようとしたとき",
+      "tamil_parallel_en": "சொல்ல முயன்றேன் (I tried to say) = 言おうとした; கிளம்பப்போனபோது (just as I was about to leave) = 出ようとしたとき",
+      "formation": "குழு I: 行く → 行こうとする、立つ → 立とうとする\nகுழு II: 食べる → 食べようとする、出る → 出ようとする\nகுழு III: する → しようとする、来る → 来ようとする (こようとする)",
+      "formation_en": "Group I: 行く → 行こうとする、立つ → 立とうとする\nGroup II: 食べる → 食べようとする、出る → 出ようとする\nGroup III: する → しようとする、来る → 来ようとする (こようとする)",
+      "examples": [
+        {
+          "ja": "家を出ようとしたとき、母から電話がかかってきた。",
+          "reading": "いえを でようと した とき、ははから でんわが かかって きた。",
+          "romaji": "ie o deyou to shita toki, haha kara denwa ga kakatte kita.",
+          "ta": "வீட்டிலிருந்து கிளம்பப்போனபோது அம்மாவிடமிருந்து அழைப்பு வந்தது.",
+          "en": "Just as I was about to leave home, my mother called."
+        },
+        {
+          "ja": "赤ちゃんが一人で立とうとしています。",
+          "reading": "あかちゃんが ひとりで たとうと して います。",
+          "romaji": "akachan ga hitori de tatou to shite imasu.",
+          "ta": "குழந்தை தானாக எழுந்து நிற்க முயல்கிறது.",
+          "en": "The baby is trying to stand up on her own."
+        },
+        {
+          "ja": "川に落ちた子どもを助けようとして、父は川に飛び込んだ。",
+          "reading": "かわに おちた こどもを たすけようと して、ちちは かわに とびこんだ。",
+          "romaji": "kawa ni ochita kodomo o tasukeyou to shite, chichi wa kawa ni tobikonda.",
+          "ta": "ஆற்றில் விழுந்த குழந்தையைக் காப்பாற்ற முயன்று அப்பா ஆற்றில் குதித்தார்.",
+          "en": "Trying to save a child who fell in, my father jumped into the river."
+        },
+        {
+          "ja": "彼女に気持ちを伝えようとしたが、言葉が出なかった。",
+          "reading": "かのじょに きもちを つたえようと したが、ことばが でなかった。",
+          "romaji": "kanojo ni kimochi o tsutaeyou to shita ga, kotoba ga denakatta.",
+          "ta": "அவளிடம் என் மனதைச் சொல்ல முயன்றேன், ஆனால் வார்த்தைகள் வரவில்லை.",
+          "en": "I tried to tell her how I felt, but no words came out."
+        },
+        {
+          "ja": "寝ようとしたら、隣の部屋から大きな音が聞こえた。",
+          "reading": "ねようと したら、となりの へやから おおきな おとが きこえた。",
+          "romaji": "neyou to shitara, tonari no heya kara ookina oto ga kikoeta.",
+          "ta": "தூங்கப்போனபோது பக்கத்து அறையிலிருந்து பெரிய சத்தம் கேட்டது.",
+          "en": "Just as I was going to sleep, I heard a loud noise next door."
+        },
+        {
+          "ja": "祖母は毎日、新しい日本語の言葉を覚えようとしています。",
+          "reading": "そぼは まいにち、あたらしい にほんごの ことばを おぼえようと して います。",
+          "romaji": "sobo wa mainichi, atarashii nihongo no kotoba o oboeyou to shite imasu.",
+          "ta": "பாட்டி தினமும் புதிய ஜப்பானியச் சொற்களை நினைவில் வைக்க முயல்கிறார்.",
+          "en": "Grandmother tries to learn new Japanese words every day."
+        },
+        {
+          "ja": "電車のドアが閉まろうとしている。急いで！",
+          "reading": "でんしゃの ドアが しまろうと して いる。いそいで！",
+          "romaji": "densha no doa ga shimarou to shite iru. isoide!",
+          "ta": "ரயில் கதவுகள் மூடப்போகின்றன. சீக்கிரம்!",
+          "en": "The train doors are about to close. Hurry!"
+        }
+      ],
+      "pitfalls_ta": "「〜ようと思う」 (செய்ய நினைக்கிறேன், திட்டம்) வேறு; 「〜ようとする」 (இப்போது முயல்கிறேன் / செய்யப்போகிறேன்) வேறு. 「食べてみる」 = சாப்பிட்டுப் பார்த்தேன் (உண்மையில் சாப்பிட்டேன்); 「食べようとした」 = சாப்பிட முயன்றேன் (சாப்பிட்டேனா என்று தெரியாது).",
+      "pitfalls_en": "〜ようと思う (I’m thinking of doing it, a plan) is different from 〜ようとする (trying now, or about to). 食べてみた = I tried it, and I did eat. 食べようとした = I tried to eat, but maybe I didn’t."
+    },
+    {
+      "id": "g06-4",
+      "pattern": "V-よう と しない",
+      "name": {
+        "en": "Won’t even try / refuses to",
+        "ta": "செய்யவே மறுப்பது / முயற்சி கூடச் செய்யாதது"
+      },
+      "explanation_ta": "「〜ようとしない」 என்றால் 'செய்ய வேண்டும் என்று எதிர்பார்க்கப்பட்டும், அந்த நபர் செய்ய முயற்சி கூடச் செய்யவில்லை / மறுக்கிறார்' என்று பொருள். பெரும்பாலும் மூன்றாம் நபரைப் பற்றி (弟は, 父は, 彼は), பேசுபவரின் எரிச்சல் அல்லது கவலையுடன் சொல்லப்படும். கடந்த காலம்: 〜ようとしなかった. 「いくら〜ても」 (எவ்வளவு…ஆலும்) உடன் அடிக்கடி வரும். வெறும் 「聞かない」 'கேட்பதில்லை' (உண்மை); 「聞こうとしない」 'கேட்கவே மாட்டேன் என்கிறான்' (மனமில்லை, மறுப்பு). தமிழில் '…க்கவே மாட்டேன் என்கிறான்' போன்றது.",
+      "explanation_en": "〜ようとしない means a person won’t even try to do something they should do. They refuse. It is usually about someone else (弟は, 父は, 彼は). It shows the speaker is annoyed or worried. Past: 〜ようとしなかった. It often comes with いくら〜ても (no matter how much…). 聞かない just states “he doesn’t listen”. 聞こうとしない means “he refuses to listen, he has no will to”. In Tamil it is like “…க்கவே மாட்டேன் என்கிறான்”.",
+      "tamil_parallel": "தம்பி பெற்றோர் சொல்வதைக் கேட்கவே மாட்டேன் என்கிறான் = 弟は親の話を聞こうとしない",
+      "tamil_parallel_en": "கேட்கவே மாட்டேன் என்கிறான் (he refuses to listen) = 弟は親の話を聞こうとしない",
+      "formation": "எண்ண வடிவம் + としない / としなかった\n聞く → 聞こうとしない\n食べる → 食べようとしない\nする → しようとしない",
+      "formation_en": "Volitional form + としない / としなかった\n聞く → 聞こうとしない\n食べる → 食べようとしない\nする → しようとしない",
+      "examples": [
+        {
+          "ja": "弟は親の話をまったく聞こうとしない。",
+          "reading": "おとうとは おやの はなしを まったく きこうと しない。",
+          "romaji": "otouto wa oya no hanashi o mattaku kikou to shinai.",
+          "ta": "தம்பி பெற்றோர் சொல்வதைக் கேட்கவே மாட்டேன் என்கிறான்.",
+          "en": "My younger brother refuses to listen to our parents at all."
+        },
+        {
+          "ja": "父はいくら頼んでも、病院へ行こうとしません。",
+          "reading": "ちちは いくら たのんでも、びょういんへ いこうと しません。",
+          "romaji": "chichi wa ikura tanondemo, byouin e ikou to shimasen.",
+          "ta": "எவ்வளவு கெஞ்சினாலும் அப்பா மருத்துவமனைக்குப் போக மறுக்கிறார்.",
+          "en": "No matter how much we beg, Dad refuses to go to the hospital."
+        },
+        {
+          "ja": "子どもは嫌いな野菜を食べようとしない。",
+          "reading": "こどもは きらいな やさいを たべようと しない。",
+          "romaji": "kodomo wa kirai na yasai o tabeyou to shinai.",
+          "ta": "குழந்தை தனக்குப் பிடிக்காத காய்கறிகளைச் சாப்பிடவே மாட்டேன் என்கிறது.",
+          "en": "The child won’t even try the vegetables he dislikes."
+        },
+        {
+          "ja": "彼は自分の間違いを認めようとしなかった。",
+          "reading": "かれは じぶんの まちがいを みとめようと しなかった。",
+          "romaji": "kare wa jibun no machigai o mitomeyou to shinakatta.",
+          "ta": "அவன் தன் தவறை ஒப்புக்கொள்ளவே இல்லை.",
+          "en": "He refused to admit his mistake."
+        },
+        {
+          "ja": "けんかの後、姉は一日中私と話そうとしなかった。",
+          "reading": "けんかの あと、あねは いちにちじゅう わたしと はなそうと しなかった。",
+          "romaji": "kenka no ato, ane wa ichinichijuu watashi to hanasou to shinakatta.",
+          "ta": "சண்டைக்குப் பிறகு அக்கா நாள் முழுவதும் என்னுடன் பேச மறுத்தாள்.",
+          "en": "After our fight, my sister wouldn’t talk to me all day."
+        },
+        {
+          "ja": "どうして誰も手伝おうとしないの？",
+          "reading": "どうして だれも てつだおうと しないの？",
+          "romaji": "doushite daremo tetsudaou to shinai no?",
+          "ta": "ஏன் யாருமே உதவ முன்வரவில்லை?",
+          "en": "Why won’t anyone even try to help?"
+        }
+      ],
+      "pitfalls_ta": "உங்களைப் பற்றிச் சொல்லும்போது 「私は行こうとしない」 இயல்பாக இல்லை; 「行きたくない」 (போக விருப்பமில்லை) அல்லது 「行かないつもりだ」 (போகும் எண்ணமில்லை) சொல்லுங்கள். 「〜ようとしない」 மற்றவர்களின் நடத்தையைப் பற்றியது.",
+      "pitfalls_en": "About yourself, 「私は行こうとしない」 sounds odd. Say 「行きたくない」 (I don’t want to go) or 「行かないつもりだ」 (I don’t plan to go). 〜ようとしない describes other people’s behaviour."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0018",
+    "n3-v-0049",
+    "n3-v-0077",
+    "n3-v-0118",
+    "n3-v-0181",
+    "n3-v-0195",
+    "n3-v-0204",
+    "n3-v-0205",
+    "n3-v-0206",
+    "n3-v-0257",
+    "n3-v-0296",
+    "n3-v-0298",
+    "n3-v-0301",
+    "n3-v-0339",
+    "n3-v-0394",
+    "n3-v-0407",
+    "n3-v-0408",
+    "n3-v-0460",
+    "n3-v-0467",
+    "n3-v-0517",
+    "n3-v-0752",
+    "n3-v-0753",
+    "n3-v-0755",
+    "n3-v-0794",
+    "n3-v-0874",
+    "n3-v-0876",
+    "n3-v-0891",
+    "n3-v-0956",
+    "n3-v-0972",
+    "n3-v-1000",
+    "n3-v-1149",
+    "n3-v-1164",
+    "n3-v-1192",
+    "n3-v-1354",
+    "n3-v-1388",
+    "n3-v-1394",
+    "n3-v-1400",
+    "n3-v-1439",
+    "n3-v-1466",
+    "n3-v-1506",
+    "n3-v-1507",
+    "n3-v-1535",
+    "n3-v-1559",
+    "n3-v-1599",
+    "n3-v-1645",
+    "n3-v-1648",
+    "n3-v-1785",
+    "n3-v-1793",
+    "n3-v-1802",
+    "n3-v-1830",
+    "n3-v-1860",
+    "n3-v-1875",
+    "n3-v-1881",
+    "n3-v-1974",
+    "n3-v-2068",
+    "n3-v-2084",
+    "n3-v-2085",
+    "n3-v-2090"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L06-q01",
+        "type": "kanji_reading",
+        "sentence": "彼女は高校時代からの＿親友＿です。",
+        "target": "親友",
+        "options": [
+          "しんゆう",
+          "しんゆ",
+          "おやとも",
+          "しんよう"
+        ],
+        "answer": 0,
+        "explanation_ta": "親友 = しんゆう (நெருங்கிய நண்பர்). 親 இங்கே しん (நெருக்கம்), おや (பெற்றோர்) அல்ல. しんよう (信用 = நம்பிக்கை) வேறு சொல்.",
+        "explanation_en": "親友 = しんゆう (best friend). Here 親 is read しん (close), not おや (parent). しんよう (trust) is a different word."
+      },
+      {
+        "id": "L06-q02",
+        "type": "kanji_reading",
+        "sentence": "ポンガルには＿親戚＿がみんな祖父の家に集まる。",
+        "target": "親戚",
+        "options": [
+          "しんせつ",
+          "しんせき",
+          "おやせき",
+          "しんぜき"
+        ],
+        "answer": 1,
+        "explanation_ta": "親戚 = しんせき (உறவினர்). しんせつ (親切 = அன்பான உதவி) ஒலியில் ஒத்தது, ஆனால் வேறு சொல்.",
+        "explanation_en": "親戚 = しんせき (relatives). しんせつ (親切, kind) sounds similar, but it is a different word."
+      },
+      {
+        "id": "L06-q03",
+        "type": "kanji_reading",
+        "sentence": "兄は来月、＿婚約＿する予定です。",
+        "target": "婚約",
+        "options": [
+          "けいやく",
+          "こんにゃく",
+          "こんやっく",
+          "こんやく"
+        ],
+        "answer": 3,
+        "explanation_ta": "婚約 = こんやく (நிச்சயதார்த்தம்). けいやく (契約 = ஒப்பந்தம்) வேறு சொல்; こんにゃく ஒரு உணவுப் பொருள்.",
+        "explanation_en": "婚約 = こんやく (engagement). けいやく means “contract”. こんにゃく is a kind of food."
+      },
+      {
+        "id": "L06-q04",
+        "type": "kanji_reading",
+        "sentence": "隣の＿夫婦＿はいつも仲がいい。",
+        "target": "夫婦",
+        "options": [
+          "ふさい",
+          "ふふ",
+          "ふうふ",
+          "ふうぶ"
+        ],
+        "answer": 2,
+        "explanation_ta": "夫婦 = ふうふ (தம்பதி). 夫 இங்கே ふう (நீண்டது). ふさい என்பது 夫妻 என்ற வேறு சொல்லின் வாசிப்பு.",
+        "explanation_en": "夫婦 = ふうふ (married couple). Here 夫 is the long ふう. ふさい is the reading of a different word, 夫妻."
+      },
+      {
+        "id": "L06-q05",
+        "type": "orthography",
+        "sentence": "困っている人を見たら、＿たすけ＿ましょう。",
+        "target": "たすけ",
+        "options": [
+          "肋け",
+          "助け",
+          "扶け",
+          "協け"
+        ],
+        "answer": 1,
+        "explanation_ta": "உதவுதல் = 助ける. 肋 (விலா எலும்பு) தோற்றத்தில் ஒத்தது, ஆனால் தவறு. 協 (協力-இல் உள்ளது) தனியாக たすける என்று வாசிக்கப்படாது.",
+        "explanation_en": "To help = 助ける. 肋 (rib) looks similar, but it’s wrong. 協 (as in 協力) is not read たすける on its own."
+      },
+      {
+        "id": "L06-q06",
+        "type": "orthography",
+        "sentence": "私たちには＿きょうつう＿の友達が多い。",
+        "target": "きょうつう",
+        "options": [
+          "協通",
+          "共痛",
+          "強通",
+          "共通"
+        ],
+        "answer": 3,
+        "explanation_ta": "பொதுவான = 共通: 共 (சேர்ந்து), 通 (செல்லுதல்). 協 (協力-இன் 'ஒத்துழை') ஒலியில் ஒத்தது, ஆனால் இங்கே தவறு.",
+        "explanation_en": "In common = 共通: 共 (together) + 通 (pass). 協 (as in 協力) sounds the same, but it’s wrong here."
+      },
+      {
+        "id": "L06-q07",
+        "type": "vocab_context",
+        "sentence": "一度うそをつくと、（　　）をなくしてしまう。",
+        "options": [
+          "愛情",
+          "信用",
+          "交際",
+          "協力"
+        ],
+        "answer": 1,
+        "explanation_ta": "பொய் சொன்னால் இழப்பது 'நம்பிக்கை' = 信用をなくす. 愛情 (பாசம்) பொருள் ரீதியாக நெருங்கியது, ஆனால் பொய்யுடன் இயல்பான தொடர் 信用.",
+        "explanation_en": "What you lose when you lie is trust = 信用をなくす. 愛情 (affection) is close, but 信用 is the natural word with lying."
+      },
+      {
+        "id": "L06-q08",
+        "type": "vocab_context",
+        "sentence": "兄は三十五歳ですが、まだ（　　）です。",
+        "options": [
+          "夫婦",
+          "親戚",
+          "独身",
+          "仲間"
+        ],
+        "answer": 2,
+        "explanation_ta": "'இன்னும் திருமணமாகவில்லை' = まだ独身. 夫婦 (தம்பதி) ஒருவரைப் பற்றிச் சொல்லாது.",
+        "explanation_en": "“Still not married” = まだ独身. 夫婦 (married couple) can’t describe one person."
+      },
+      {
+        "id": "L06-q09",
+        "type": "vocab_context",
+        "sentence": "中学生の弟は最近、親に（　　）してばかりいる。",
+        "options": [
+          "協力",
+          "信頼",
+          "交際",
+          "反抗"
+        ],
+        "answer": 3,
+        "explanation_ta": "親に反抗する = பெற்றோருக்கு அடங்காமல் எதிர்த்தல். 協力 (ஒத்துழைப்பு) நல்ல பொருள்; 「ばかりいる」 குறை கூறும் தொனியுடன் பொருந்தாது.",
+        "explanation_en": "親に反抗する = to rebel against your parents. 協力 (cooperation) is positive. It doesn’t fit the complaining tone of ばかりいる."
+      },
+      {
+        "id": "L06-q10",
+        "type": "vocab_context",
+        "sentence": "あの二人はとても（　　）がいいので、いつも一緒にいる。",
+        "options": [
+          "仲",
+          "愛",
+          "対",
+          "姓"
+        ],
+        "answer": 0,
+        "explanation_ta": "'நன்றாகப் பழகுதல்' = 仲がいい. 愛がいい என்று சொல்ல மாட்டோம்.",
+        "explanation_en": "“To get along well” = 仲がいい. We don’t say 愛がいい."
+      },
+      {
+        "id": "L06-q11",
+        "type": "paraphrase",
+        "sentence": "田中さんとは十年の付き合いです。",
+        "options": [
+          "田中さんとは十年会っていません。",
+          "田中さんとは十年前から親しくしています。",
+          "田中さんとは十年前に別れました。",
+          "田中さんは十年前に結婚しました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "十年の付き合い = பத்து ஆண்டுப் பழக்கம், அதாவது 'பத்து ஆண்டுகளாக நெருக்கமாகப் பழகுகிறேன்'. 十年会っていない நேர் எதிர்.",
+        "explanation_en": "十年の付き合い = we’ve known each other for ten years, so “we’ve been close for ten years”. 十年会っていない means the opposite."
+      },
+      {
+        "id": "L06-q12",
+        "type": "paraphrase",
+        "sentence": "弟は親の話を聞こうとしない。",
+        "options": [
+          "弟は親の話を聞きたいと思っている。",
+          "弟は親の話が聞こえない。",
+          "弟は親の話を全然聞くつもりがない。",
+          "弟は親の話をもう聞いた。"
+        ],
+        "answer": 2,
+        "explanation_ta": "聞こうとしない = கேட்கவே மனமில்லை = 聞くつもりがない. 聞こえない 'காதில் விழவில்லை' (திறன் சார்ந்தது); மனமில்லாமை அல்ல.",
+        "explanation_en": "聞こうとしない = he has no will to listen = 聞くつもりがない. 聞こえない means “he can’t hear”. That’s about hearing, not about will."
+      },
+      {
+        "id": "L06-q13",
+        "type": "usage",
+        "sentence": "頼る",
+        "options": [
+          "友達に手紙を頼って送りました。",
+          "一人暮らしを始めてからも、つい親に頼ってしまう。",
+          "雨が降りそうなので、かさを頼って出かけた。",
+          "先生に質問を頼りました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "頼る = ஒருவரைச் சார்ந்திருத்தல் (N に頼る). 'தனியாக வாழத் தொடங்கியும் பெற்றோரைச் சார்ந்திருக்கிறேன்' சரி. 'கேள்வியை ஆசிரியரிடம்' என்பதற்கு 質問する வேண்டும்.",
+        "explanation_en": "頼る = to depend on someone (N に頼る). “Even living alone, I still depend on my parents” is right. For asking a teacher, use 質問する."
+      },
+      {
+        "id": "L06-q14",
+        "type": "usage",
+        "sentence": "逆らう",
+        "options": [
+          "駅で友達に逆らって、一緒に帰りました。",
+          "毎日、母に逆らって料理を手伝います。",
+          "新しい靴が足に逆らって、ちょうどいいです。",
+          "子どものころ、よく親に逆らって叱られた。"
+        ],
+        "answer": 3,
+        "explanation_ta": "逆らう = சொல்லை மீறுதல், எதிர்த்தல். 'பெற்றோர் சொல்லை மீறித் திட்டு வாங்கினேன்' சரி. 'அம்மாவை மீறிச் சமையலுக்கு உதவுகிறேன்' பொருள் முரண்.",
+        "explanation_en": "逆らう = to disobey, to go against. “I disobeyed my parents and got scolded” is right. “I go against Mom and help her cook” doesn’t make sense."
+      },
+      {
+        "id": "L06-q15",
+        "type": "grammar_form",
+        "sentence": "困ったときは、家族みんなで助け（　　）ましょう。",
+        "options": [
+          "込み",
+          "合い",
+          "かけ",
+          "きり"
+        ],
+        "answer": 1,
+        "explanation_ta": "'குடும்பமாக ஒருவருக்கொருவர் உதவுவோம்' = 助け合いましょう. 込み 'உள்ளே / ஆழமாக' என்று பொருள்; இங்கே பொருந்தாது.",
+        "explanation_en": "“Let’s help each other as a family” = 助け合いましょう. 込み means “into / deeply”, which doesn’t fit."
+      },
+      {
+        "id": "L06-q16",
+        "type": "grammar_form",
+        "sentence": "暑かったので、子どもたちはすぐプールに飛び（　　）。",
+        "options": [
+          "合った",
+          "かけた",
+          "込んだ",
+          "きった"
+        ],
+        "answer": 2,
+        "explanation_ta": "'நீச்சல் குளத்துக்குள் குதித்தனர்' = 飛び込んだ (உள்ளே). 飛び合う 'ஒருவர் மேல் ஒருவர் குதித்தல்' என்ற பொருளில் இயல்பாக இல்லை.",
+        "explanation_en": "“They jumped into the pool” = 飛び込んだ (into). 飛び合う is not natural."
+      },
+      {
+        "id": "L06-q17",
+        "type": "grammar_form",
+        "sentence": "彼女はまだ独身だと思い（　　）いたが、実は結婚していた。",
+        "options": [
+          "合って",
+          "かけて",
+          "きって",
+          "込んで"
+        ],
+        "answer": 3,
+        "explanation_ta": "'உறுதியாக (தவறாக) நம்பியிருந்தேன்' = 思い込んでいた. 「実は」 (உண்மையில்) என்பது அந்த நம்பிக்கை தவறு என்று காட்டுகிறது.",
+        "explanation_en": "“I had firmly (and wrongly) believed” = 思い込んでいた. 実は (actually) shows the belief was wrong."
+      },
+      {
+        "id": "L06-q18",
+        "type": "grammar_form",
+        "sentence": "家を（　　）としたとき、雨が降ってきた。",
+        "options": [
+          "出る",
+          "出た",
+          "出よう",
+          "出たい"
+        ],
+        "answer": 2,
+        "explanation_ta": "'கிளம்பப்போனபோது' = 出ようとしたとき (எண்ண வடிவம் + とする). 出るとした என்ற அமைப்பு இந்தப் பொருளில் இல்லை.",
+        "explanation_en": "“Just as I was about to leave” = 出ようとしたとき (volitional + とする). 出るとした doesn’t have this meaning."
+      },
+      {
+        "id": "L06-q19",
+        "type": "grammar_form",
+        "sentence": "父はいくら頼んでも、病院へ（　　）としない。",
+        "options": [
+          "行こう",
+          "行く",
+          "行った",
+          "行って"
+        ],
+        "answer": 0,
+        "explanation_ta": "'போகவே மறுக்கிறார்' = 行こうとしない (எண்ண வடிவம் + としない). மற்ற வடிவங்கள் とする-வுடன் இந்தப் பொருளைத் தராது.",
+        "explanation_en": "“He refuses to go” = 行こうとしない (volitional + としない). The other forms don’t give this meaning with とする."
+      },
+      {
+        "id": "L06-q20",
+        "type": "grammar_form",
+        "sentence": "今日は疲れているので、私は誰にも（　　）。",
+        "options": [
+          "会いたくない",
+          "会おうとしない",
+          "会ってはいけない",
+          "会わなくてもいい"
+        ],
+        "answer": 0,
+        "explanation_ta": "உங்கள் சொந்த விருப்பத்தைச் சொல்ல 会いたくない (சந்திக்க விருப்பமில்லை). 会おうとしない மற்றவர்களின் நடத்தையைப் பற்றியது; 「私は」 உடன் இயல்பாக இல்லை.",
+        "explanation_en": "For your own feeling, say 会いたくない (I don’t want to meet anyone). 会おうとしない describes other people. It sounds odd with 私は."
+      },
+      {
+        "id": "L06-q21",
+        "type": "sentence_order",
+        "before": "二人は",
+        "chunks": [
+          "よく",
+          "話し合って",
+          "結婚する",
+          "ことに"
+        ],
+        "star": 1,
+        "after": "決めた。",
+        "explanation_ta": "よく (நன்றாக) → 話し合って (கலந்து பேசி) → 結婚する (திருமணம் செய்ய) → ことに決めた (முடிவு செய்தனர்). ★ = 話し合って.",
+        "explanation_en": "よく (well) → 話し合って (talked it over) → 結婚する (to marry) → ことに決めた (decided). ★ = 話し合って."
+      },
+      {
+        "id": "L06-q22",
+        "type": "sentence_order",
+        "before": "弟は",
+        "chunks": [
+          "親の",
+          "話を",
+          "聞こう",
+          "と"
+        ],
+        "star": 2,
+        "after": "しない。",
+        "explanation_ta": "親の (பெற்றோரின்) → 話を (பேச்சை) → 聞こう (கேட்க) → と しない (மறுக்கிறான்). ★ = 聞こう.",
+        "explanation_en": "親の (our parents’) → 話を (words) → 聞こう (to listen) → と しない (refuses). ★ = 聞こう."
+      },
+      {
+        "id": "L06-q23",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "子どもを",
+          "助けようと",
+          "して",
+          "父は"
+        ],
+        "star": 3,
+        "after": "川に飛び込んだ。",
+        "explanation_ta": "子どもを (குழந்தையை) → 助けようとして (காப்பாற்ற முயன்று) → 父は (அப்பா) 川に飛び込んだ. ★ = 父は.",
+        "explanation_en": "子どもを (the child) → 助けようとして (trying to save) → 父は (my father) 川に飛び込んだ (jumped into the river). ★ = 父は."
+      },
+      {
+        "id": "L06-q24",
+        "type": "grammar_form",
+        "sentence": "姉と私はサイズが同じなので、服を貸し（　　）ている。",
+        "options": [
+          "込ん",
+          "かけ",
+          "合っ",
+          "きっ"
+        ],
+        "answer": 2,
+        "explanation_ta": "'ஒருவருக்கொருவர் உடை கொடுத்துக்கொள்கிறோம்' = 貸し合っている. 貸し込む இந்தப் பொருளில் இல்லை.",
+        "explanation_en": "“We lend each other clothes” = 貸し合っている. 貸し込む doesn’t have this meaning."
+      },
+      {
+        "id": "L06-q25",
+        "type": "passage_cloze",
+        "passage": "私の家族はとても仲がいい。父と母は、何か問題があると、必ず二人で話し［1］。でも、中学生の弟は最近反抗的で、親の話を全然聞こう［2］。先週も、母が注意し［3］としたとき、弟は自分の部屋に駆け［4］、ドアを閉めてしまった。父は「今は無理に話さないで、待とう」と言った。家族で助け合えば、きっと大丈夫だと思う。",
+        "blanks": [
+          {
+            "options": [
+              "込む",
+              "合う",
+              "かける",
+              "きる"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "とする",
+              "とした",
+              "としよう",
+              "としない"
+            ],
+            "answer": 3
+          },
+          {
+            "options": [
+              "よう",
+              "ます",
+              "たい",
+              "て"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "合って",
+              "かけて",
+              "込んで",
+              "きって"
+            ],
+            "answer": 2
+          }
+        ],
+        "explanation_ta": "［1］ இருவரும் கலந்து பேசுவார்கள் = 話し合う. ［2］ 「全然」 உடன் மறுப்பு = 聞こうとしない. ［3］ 'கண்டிக்கப்போனபோது' = 注意しようとしたとき. ［4］ ஓடி அறைக்குள் நுழைந்தான் = 駆け込んで.",
+        "explanation_en": "［1］ The two talk it over = 話し合う. ［2］ With 全然, it’s a refusal = 聞こうとしない. ［3］ “Just as Mom was about to scold him” = 注意しようとしたとき. ［4］ He ran into his room = 駆け込んで."
+      }
+    ]
+  }
+}

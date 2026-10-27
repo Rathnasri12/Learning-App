@@ -1,0 +1,768 @@
+{
+  "lesson": 17,
+  "title": {
+    "ja": "安いとは限らない",
+    "ta": "எப்போதும் மலிவு என்று சொல்ல முடியாது",
+    "en": "Not always cheap"
+  },
+  "intro_ta": "இந்தப் பாடம் கடைவீதி, தள்ளுபடி விற்பனை, வாடிக்கையாளர் சேவை பற்றியது. 限る ('வரம்பிடு') என்ற வினையிலிருந்து வரும் நான்கு வடிவங்களைக் கற்போம்: 'எப்போதும் அப்படி என்று சொல்ல முடியாது' (〜とは限らない), 'இதற்கு மட்டும்' (Nに限り), 'இது மட்டுமல்ல' (Nに限らず), 'சரியாக இந்த நேரத்தில்தான் (கெட்டது நடக்கும்)' (Nに限って). கூடவே 'செய்வதும் நிறுத்துவதுமாக' என்று மீண்டும் மீண்டும் நடப்பதைச் சொல்லும் V-ては-வையும், 'அது அதன் வழியில்' என்று சொல்லும் NはNで-வையும் படிப்போம்.",
+  "intro_en": "This lesson is about shopping, sales and customer service. You will learn four patterns that come from the verb 限る (to limit). 〜とは限らない means \"not always\". Nに限り means \"only for N\". Nに限らず means \"not only N\". Nに限って means \"on that very day, of all days\" (when something bad happens). You will also learn V-ては for actions that repeat again and again. And you will learn NはNで for \"N, in its own way\".",
+  "grammar": [
+    {
+      "id": "g17-1",
+      "pattern": "〜とは 限らない",
+      "name": {
+        "en": "Not necessarily / not always",
+        "ta": "எப்போதும் 〜 என்று சொல்ல முடியாது"
+      },
+      "explanation_ta": "〜とは限らない என்பது 'பொதுவாக அப்படித்தான் என்று நினைப்பார்கள்; ஆனால் எல்லா நேரமும் அப்படி இல்லை, விதிவிலக்கு உண்டு' என்ற பொருள் தரும். தமிழில் 'எப்போதும் 〜 என்று சொல்ல முடியாது'. சாதாரண வடிவத்துக்குப் பின் とは限らない வரும்; பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ சேர்ப்பது இயல்பு (本当だとは限らない). பெரும்பாலும் 必ずしも (கட்டாயம்), いつも (எப்போதும்), みんな / 全部 (எல்லாம்), 〜からといって (L11) ஆகியவற்றுடன் சேர்ந்து வரும். 〜わけではない (L12) 'அப்படி இல்லை' என்று மறுக்கும்; とは限らない 'சில நேரம் அப்படி இல்லாமல் போகலாம்' என்று விதிவிலக்கைச் சுட்டிக்காட்டும். கண்ணியமாக: 〜とは限りません.",
+      "explanation_en": "〜とは限らない means \"people think it’s usually true, but not every time\". There are exceptions. Put とは限らない after the plain form. After a noun or な-adjective, add だ (本当だとは限らない). It often comes with 必ずしも (necessarily), いつも (always), みんな / 全部 (all), or 〜からといって (Lesson 11). 〜わけではない (Lesson 12) says \"it isn’t so\". とは限らない points out that sometimes it may not be so. The polite form is 〜とは限りません.",
+      "tamil_parallel": "விலை அதிகமான பொருள் எல்லாம் தரமானது என்று சொல்ல முடியாது = 高い物が必ずしもいい物だとは限らない",
+      "tamil_parallel_en": "\"You can’t say all expensive things are good\" (சொல்ல முடியாது) = 高い物が必ずしもいい物だとは限らない",
+      "formation": "சாதாரண வடிவம் + とは限らない / とは限りません\n   安い → 安いとは限らない\n   好きだ → 好きだとは限らない\n   本当だ → 本当だとは限らない\n(必ずしも / いつも / みんな … とは限らない)",
+      "formation_en": "Plain form + とは限らない / とは限りません\n   安い → 安いとは限らない\n   好きだ → 好きだとは限らない\n   本当だ → 本当だとは限らない\n(必ずしも / いつも / みんな … とは限らない)",
+      "examples": [
+        {
+          "ja": "値段が高い物が、必ずしも品がいいとは限りません。",
+          "reading": "ねだんが たかい ものが、かならずしも しなが いいとは かぎりません。",
+          "romaji": "nedan ga takai mono ga, kanarazushimo shina ga ii to wa kagirimasen.",
+          "ta": "விலை அதிகமான பொருள் எல்லாம் தரமானது என்று சொல்ல முடியாது.",
+          "en": "Expensive things are not necessarily good quality."
+        },
+        {
+          "ja": "セールの品がいつも安いとは限りませんよ。",
+          "reading": "セールの しなが いつも やすいとは かぎりませんよ。",
+          "romaji": "seeru no shina ga itsumo yasui to wa kagirimasen yo.",
+          "ta": "தள்ளுபடிப் பொருட்கள் எப்போதும் மலிவாக இருக்கும் என்று சொல்ல முடியாது.",
+          "en": "Sale items aren’t always cheap, you know."
+        },
+        {
+          "ja": "広告に書いてあることが全部本当だとは限らない。",
+          "reading": "こうこくに かいて ある ことが ぜんぶ ほんとうだとは かぎらない。",
+          "romaji": "koukoku ni kaite aru koto ga zenbu hontou da to wa kagiranai.",
+          "ta": "விளம்பரத்தில் எழுதியிருப்பது எல்லாம் உண்மை என்று சொல்ல முடியாது.",
+          "en": "Not everything written in ads is true."
+        },
+        {
+          "ja": "日本人がみんな寿司が好きだとは限りません。",
+          "reading": "にほんじんが みんな すしが すきだとは かぎりません。",
+          "romaji": "nihonjin ga minna sushi ga suki da to wa kagirimasen.",
+          "ta": "ஜப்பானியர் எல்லோருக்கும் சுஷி பிடிக்கும் என்று சொல்ல முடியாது.",
+          "en": "Not all Japanese people like sushi."
+        },
+        {
+          "ja": "有名な店だからといって、おいしいとは限りません。",
+          "reading": "ゆうめいな みせだからと いって、おいしいとは かぎりません。",
+          "romaji": "yuumei na mise da kara to itte, oishii to wa kagirimasen.",
+          "ta": "பிரபலமான கடை என்பதற்காக உணவு ருசியாக இருக்கும் என்று சொல்ல முடியாது.",
+          "en": "Just because a shop is famous, it isn’t always tasty."
+        },
+        {
+          "ja": "中古品が新品より悪いとは限らないんじゃないですか。",
+          "reading": "ちゅうこひんが しんぴんより わるいとは かぎらないんじゃ ないですか。",
+          "romaji": "chuukohin ga shinpin yori warui to wa kagiranai n ja nai desu ka.",
+          "ta": "பழைய பொருள் புதியதைவிட மோசம் என்று சொல்ல முடியாதல்லவா?",
+          "en": "Used goods aren’t always worse than new ones, are they?"
+        }
+      ],
+      "pitfalls_ta": "限らない-க்கு முன் とは வேண்டும்: 安いに限らない ✗ → 安いとは限らない ✓. 必ずしも எப்போதும் எதிர்மறையுடன் (とは限らない、わけではない) வரும்; 必ずしも安いです ✗.",
+      "pitfalls_en": "You need とは before 限らない: 安いに限らない ✗ → 安いとは限らない ✓. 必ずしも always goes with a negative (とは限らない, わけではない). 必ずしも安いです ✗."
+    },
+    {
+      "id": "g17-2",
+      "pattern": "N に 限り / N に 限らず",
+      "name": {
+        "en": "Only for N / not only N",
+        "ta": "N-க்கு மட்டும் / N மட்டுமல்ல"
+      },
+      "explanation_ta": "Nに限り = 'N-க்கு மட்டும்' — கடை அறிவிப்பு, விளம்பரம், அறிவிப்புப் பலகைகளில் வரும் முறையான வடிவம்: 本日に限り (இன்று மட்டும்), 会員に限り (உறுப்பினர்களுக்கு மட்டும்). பேச்சில் இதையே だけ என்று சொல்வோம். Nに限らず = 'N மட்டுமல்ல, மற்றவையும்' — பின்பகுதியில் பெரும்பாலும் も வரும் (平日も、大人にも). N4-இல் கற்ற 〜だけでなく-க்கு ஒத்தது; ஆனால் に限らず சற்று முறையானது, 'பரந்த அளவில்' என்ற உணர்வைத் தரும். இரண்டும் 限る (வரம்பிடு) என்ற வினையிலிருந்து வருகின்றன: 限り = வரம்பிட்டு, 限らず = வரம்பிடாமல்.",
+      "explanation_en": "Nに限り means \"only for N\". It is a formal form for shop notices, ads and signs: 本日に限り (today only), 会員に限り (members only). In speech we usually say だけ. Nに限らず means \"not only N, but others too\". The second part often has も (平日も, 大人にも). It is like 〜だけでなく from N4, but more formal. It gives a feeling of \"widely\". Both come from 限る (to limit): 限り = limited to, 限らず = not limited to.",
+      "tamil_parallel": "இன்று மட்டும் 20% தள்ளுபடி = 本日に限り二割引 / வார இறுதியில் மட்டுமல்ல, வார நாட்களிலும் = 週末に限らず平日も",
+      "tamil_parallel_en": "\"Today only, 20% off\" (இன்று மட்டும்) = 本日に限り二割引 / \"Not only at weekends, but on weekdays too\" (வார இறுதியில் மட்டுமல்ல) = 週末に限らず平日も",
+      "formation": "பெயர்ச்சொல் + に限り   ('〜க்கு மட்டும்', அறிவிப்பு நடை)\n   本日に限り、会員の方に限り\nபெயர்ச்சொல் + に限らず … も   ('〜மட்டுமல்ல, 〜உம்')\n   週末に限らず平日も、子どもに限らず大人にも",
+      "formation_en": "Noun + に限り   (\"only for\", notice style)\n   本日に限り、会員の方に限り\nNoun + に限らず … も   (\"not only ~, also ~\")\n   週末に限らず平日も、子どもに限らず大人にも",
+      "examples": [
+        {
+          "ja": "本日に限り、全商品が二割引です。",
+          "reading": "ほんじつに かぎり、ぜん しょうひんが にわりびきです。",
+          "romaji": "honjitsu ni kagiri, zen shouhin ga niwaribiki desu.",
+          "ta": "இன்று மட்டும், எல்லாப் பொருட்களுக்கும் 20% தள்ளுபடி.",
+          "en": "Today only, all items are 20% off."
+        },
+        {
+          "ja": "先着五十名様に限り、袋を無料で差し上げます。",
+          "reading": "せんちゃく ごじゅうめいさまに かぎり、ふくろを むりょうで さしあげます。",
+          "romaji": "senchaku gojuumeisama ni kagiri, fukuro o muryou de sashiagemasu.",
+          "ta": "முதலில் வரும் 50 பேருக்கு மட்டும் ஒரு பை இலவசமாக வழங்கப்படும்.",
+          "en": "Only the first 50 customers will get a free bag."
+        },
+        {
+          "ja": "会員の方に限り、配達は無料です。",
+          "reading": "かいいんの かたに かぎり、はいたつは むりょうです。",
+          "romaji": "kaiin no kata ni kagiri, haitatsu wa muryou desu.",
+          "ta": "உறுப்பினர்களுக்கு மட்டும் டெலிவரி இலவசம்.",
+          "en": "Delivery is free for members only."
+        },
+        {
+          "ja": "この店は週末に限らず、平日も混んでいます。",
+          "reading": "この みせは しゅうまつに かぎらず、へいじつも こんで います。",
+          "romaji": "kono mise wa shuumatsu ni kagirazu, heijitsu mo konde imasu.",
+          "ta": "இந்தக் கடை வார இறுதியில் மட்டுமல்ல, வார நாட்களிலும் கூட்டமாக இருக்கும்.",
+          "en": "This shop is crowded not only at weekends but on weekdays too."
+        },
+        {
+          "ja": "このバッグは若い人に限らず、お年寄りにも人気があります。",
+          "reading": "この バッグは わかい ひとに かぎらず、おとしよりにも にんきが あります。",
+          "romaji": "kono baggu wa wakai hito ni kagirazu, otoshiyori ni mo ninki ga arimasu.",
+          "ta": "இந்தப் பை இளைஞர்களிடம் மட்டுமல்ல, முதியவர்களிடமும் பிரபலம்.",
+          "en": "This bag is popular not only with young people but with older people too."
+        },
+        {
+          "ja": "食品に限らず、物価が全体的に上がっています。",
+          "reading": "しょくひんに かぎらず、ぶっかが ぜんたいてきに あがって います。",
+          "romaji": "shokuhin ni kagirazu, bukka ga zentaiteki ni agatte imasu.",
+          "ta": "உணவுப் பொருட்கள் மட்டுமல்ல, பொதுவாக எல்லா விலைகளும் ஏறிக்கொண்டிருக்கின்றன.",
+          "en": "Not just food: prices in general are going up."
+        },
+        {
+          "ja": "このサービスは会員に限りますか。",
+          "reading": "この サービスは かいいんに かぎりますか。",
+          "romaji": "kono saabisu wa kaiin ni kagirimasu ka.",
+          "ta": "இந்தச் சேவை உறுப்பினர்களுக்கு மட்டும்தானா?",
+          "en": "Is this service only for members?"
+        }
+      ],
+      "pitfalls_ta": "に限り, に限らず இரண்டும் ஒலியில் ஒத்தவை, ஆனால் பொருள் எதிரெதிர்: 限り = 'மட்டும்', 限らず = 'மட்டுமல்ல'. ず என்பது 'ない' என்ற எதிர்மறையின் பழைய வடிவம் என்று நினைவில் வையுங்கள். に限らず-க்குப் பின் も-ஐ மறக்காதீர்கள்.",
+      "pitfalls_en": "に限り and に限らず sound alike, but the meanings are opposite. 限り = \"only\". 限らず = \"not only\". Remember: ず is an old way to say ない (not). After に限らず, don’t forget も."
+    },
+    {
+      "id": "g17-3",
+      "pattern": "N に 限って",
+      "name": {
+        "en": "On that very (day), of all (times)",
+        "ta": "சரியாக அந்த நேரத்தில்தான்"
+      },
+      "explanation_ta": "Nに限って இரண்டு விதமாகப் பயன்படும். (1) 'வேறு நாட்களில் இல்லை, சரியாக இந்த நாளில்தான் (கெட்டது) நடக்கிறது' என்ற எரிச்சல் / துரதிர்ஷ்டம்: 急いでいる日に限って電車が遅れる. தமிழில் 'அவசரமான நாளில்தான் ரயில் லேட்டாகும்!' என்று '-தான்' கொண்டு சொல்வதைப் போன்றது. (2) 'என் பிள்ளை மட்டும் அப்படிச் செய்யவே மாட்டான்' என்ற நம்பிக்கை: うちの子に限って〜ない. இது பெரும்பாலும் はずがない / わけがない உடன் வரும். பேச்சிலும் எழுத்திலும் வரும்; உணர்ச்சி கலந்த வடிவம். Nに限り ('மட்டும்', அறிவிப்பு) உடன் குழப்ப வேண்டாம்.",
+      "explanation_en": "Nに限って has two uses. (1) \"Not on other days, but on this very day, something bad happens.\" It shows annoyance or bad luck: 急いでいる日に限って電車が遅れる (the train is late on the very day I’m in a hurry). In Tamil we use \"-தான்\" in the same way. (2) Trust: \"My child, of all people, would never do that\": うちの子に限って〜ない. This often comes with はずがない or わけがない. It is full of feeling. Don’t mix it up with Nに限り (\"only\", used in notices).",
+      "tamil_parallel": "அவசரமான நாளில்தான் ரயில் லேட்டாகும் = 急いでいる日に限って、電車が遅れる",
+      "tamil_parallel_en": "\"The train is late exactly on the day I’m in a hurry\" (அவசரமான நாளில்தான்) = 急いでいる日に限って、電車が遅れる",
+      "formation": "பெயர்ச்சொல் (நாள் / நேரம் / நபர்) + に限って + (எதிர்பாராத கெட்ட நிகழ்வு)\n   急いでいる日に限って、傘がない時に限って\nநபர் + に限って + 〜はずがない / 〜わけがない\n   うちの子に限って",
+      "formation_en": "Noun (day / time / person) + に限って + (unexpected bad event)\n   急いでいる日に限って、傘がない時に限って\nPerson + に限って + 〜はずがない / 〜わけがない\n   うちの子に限って",
+      "examples": [
+        {
+          "ja": "急いでいる日に限って、電車が遅れる。",
+          "reading": "いそいで いる ひに かぎって、でんしゃが おくれる。",
+          "romaji": "isoide iru hi ni kagitte, densha ga okureru.",
+          "ta": "அவசரமான நாளில்தான் ரயில் தாமதமாக வரும்.",
+          "en": "The train is late on the very days I’m in a hurry."
+        },
+        {
+          "ja": "傘を持っていない日に限って、雨が降ります。",
+          "reading": "かさを もって いない ひに かぎって、あめが ふります。",
+          "romaji": "kasa o motte inai hi ni kagitte, ame ga furimasu.",
+          "ta": "குடை கொண்டு வராத நாளில்தான் மழை பெய்யும்.",
+          "en": "It rains on exactly the days I don’t have an umbrella."
+        },
+        {
+          "ja": "欲しい物があるときに限って、お金がない。",
+          "reading": "ほしい ものが ある ときに かぎって、おかねが ない。",
+          "romaji": "hoshii mono ga aru toki ni kagitte, okane ga nai.",
+          "ta": "ஏதாவது வாங்க ஆசைப்படும்போதுதான் கையில் பணம் இருக்காது.",
+          "en": "Whenever there’s something I want, that’s when I have no money."
+        },
+        {
+          "ja": "セールの日に限って、仕事が忙しくて行けません。",
+          "reading": "セールの ひに かぎって、しごとが いそがしくて いけません。",
+          "romaji": "seeru no hi ni kagitte, shigoto ga isogashikute ikemasen.",
+          "ta": "தள்ளுபடி நாளில்தான் வேலை அதிகமாகி, போக முடியாமல் போகிறது.",
+          "en": "On sale days of all days, I’m too busy at work to go."
+        },
+        {
+          "ja": "うちの子に限って、店の物を盗むはずがありません。",
+          "reading": "うちの こに かぎって、みせの ものを ぬすむ はずが ありません。",
+          "romaji": "uchi no ko ni kagitte, mise no mono o nusumu hazu ga arimasen.",
+          "ta": "என் பிள்ளை மட்டும் கடையில் பொருளைத் திருடவே மாட்டான்.",
+          "en": "My child, of all people, would never steal from a shop."
+        },
+        {
+          "ja": "どうして大事な日に限って、寝坊してしまうんだろう。",
+          "reading": "どうして だいじな ひに かぎって、ねぼうして しまうんだろう。",
+          "romaji": "doushite daiji na hi ni kagitte, nebou shite shimau n darou.",
+          "ta": "ஏன்தான் முக்கியமான நாளில் மட்டும் தூங்கி லேட்டாகிவிடுகிறதோ?",
+          "en": "Why do I always oversleep on the important days?"
+        }
+      ],
+      "pitfalls_ta": "Nに限って பொதுவாக நல்ல செய்திக்கு வராது: 誕生日に限ってプレゼントをもらった ✗ (இயல்பற்றது). எரிச்சல், துரதிர்ஷ்டம், அல்லது 'அவர் அப்படிச் செய்ய மாட்டார்' என்ற நம்பிக்கைக்கு மட்டும் பயன்படுத்துங்கள்.",
+      "pitfalls_en": "Nに限って is not used for good news: 誕生日に限ってプレゼントをもらった ✗ (sounds strange). Use it for annoyance, bad luck, or trust that \"he would never do that\"."
+    },
+    {
+      "id": "g17-4",
+      "pattern": "V-て は (repeated)",
+      "name": {
+        "en": "Do ~ and then ~, again and again",
+        "ta": "செய்வதும் 〜வதுமாக (திரும்பத் திரும்ப)"
+      },
+      "explanation_ta": "V1-ては V2 என்பது 'V1 செய்வது, பிறகு V2 செய்வது — இது திரும்பத் திரும்ப நடக்கிறது' என்று காட்டும். பெரும்பாலும் இரண்டு முறை சொல்லப்படும்: 書いては消し、書いては消し (எழுதுவதும் அழிப்பதுமாக). தமிழில் 'எடுப்பதும் வைப்பதுமாக', 'பெய்வதும் நிற்பதுமாக' என்று 'உம்' சேர்த்துச் சொல்வதற்குச் சரியான இணை. முதல் வினை て-வடிவம் + は; இரண்டாம் வினை ます-அடி (消し) அல்லது சாதாரண வடிவம். இரண்டு ஜோடிகளையும் சொன்ன பிறகு する சேர்க்கலாம் (書いては消し、書いては消しして). இது சற்று இலக்கிய / விவரண நடை; தினசரிப் பேச்சில் 〜たり〜たりする அதிகம். ஆனால் 〜たり〜たり 'பல செயல்களின் உதாரணங்கள்' மட்டுமே; 〜ては 'ஒரே சுழற்சி மீண்டும் மீண்டும்' என்பதை வலியுறுத்தும்.",
+      "explanation_en": "V1-ては V2 means \"do V1, then V2, and this happens again and again\". It is often said twice: 書いては消し、書いては消し (write and erase, write and erase). In Tamil we say this with \"-உம்\": எடுப்பதும் வைப்பதுமாக (picking up and putting back). The first verb is the て-form + は. The second verb is the ます-stem (消し) or plain form. After the two pairs you can add する (書いては消し、書いては消しして). This is a bit of a story-telling style. In daily talk, 〜たり〜たりする is more common. But 〜たり〜たり just gives examples of actions. 〜ては stresses the same cycle again and again.",
+      "tamil_parallel": "பையை எடுப்பதும் திரும்ப வைப்பதுமாக இருக்கிறாள் = バッグを手に取っては戻し、取っては戻ししている",
+      "tamil_parallel_en": "\"She keeps picking up the bag and putting it back\" (எடுப்பதும் வைப்பதுமாக) = バッグを手に取っては戻し、取っては戻ししている",
+      "formation": "வினை1 て-வடிவம் + は + வினை2 ます-அடி、வினை1-ては + வினை2 ます-அடி + する\n   書いては消し、書いては消しする\nவினை1-ては + வினை2 (பழக்கம்)\n   買ってはすぐ飽きる",
+      "formation_en": "Verb1 て-form + は + Verb2 ます-stem、Verb1-ては + Verb2 ます-stem + する\n   書いては消し、書いては消しする\nVerb1-ては + Verb2 (a habit)\n   買ってはすぐ飽きる",
+      "examples": [
+        {
+          "ja": "手紙を書いては消し、書いては消しして、やっと完成しました。",
+          "reading": "てがみを かいては けし、かいては けし して、やっと かんせいしました。",
+          "romaji": "tegami o kaite wa keshi, kaite wa keshi shite, yatto kansei shimashita.",
+          "ta": "கடிதத்தை எழுதுவதும் அழிப்பதுமாக, எழுதுவதும் அழிப்பதுமாக இருந்து கடைசியில் முடித்தேன்.",
+          "en": "I wrote and erased, wrote and erased, and at last finished the letter."
+        },
+        {
+          "ja": "妹はバッグを手に取っては戻し、なかなか決められません。",
+          "reading": "いもうとは バッグを てに とっては もどし、なかなか きめられません。",
+          "romaji": "imouto wa baggu o te ni totte wa modoshi, nakanaka kimeraremasen.",
+          "ta": "தங்கை பையை எடுப்பதும் திரும்ப வைப்பதுமாக இருக்கிறாள்; முடிவு செய்ய முடியவில்லை.",
+          "en": "My sister keeps picking up bags and putting them back. She can’t decide."
+        },
+        {
+          "ja": "休みの日は食べては寝て、食べては寝ての生活でした。",
+          "reading": "やすみの ひは たべては ねて、たべては ねての せいかつでした。",
+          "romaji": "yasumi no hi wa tabete wa nete, tabete wa nete no seikatsu deshita.",
+          "ta": "விடுமுறை நாட்களில் சாப்பிடுவதும் தூங்குவதுமாகவே இருந்தேன்.",
+          "en": "On my days off, I just ate and slept, ate and slept."
+        },
+        {
+          "ja": "朝から雨が降ってはやみ、降ってはやみしています。",
+          "reading": "あさから あめが ふっては やみ、ふっては やみ して います。",
+          "romaji": "asa kara ame ga futte wa yami, futte wa yami shite imasu.",
+          "ta": "காலையிலிருந்து மழை பெய்வதும் நிற்பதுமாக இருக்கிறது.",
+          "en": "Since morning, the rain keeps starting and stopping."
+        },
+        {
+          "ja": "弟は新しいゲームを買ってはすぐ飽きてしまいます。",
+          "reading": "おとうとは あたらしい ゲームを かっては すぐ あきて しまいます。",
+          "romaji": "otouto wa atarashii geemu o katte wa sugu akite shimaimasu.",
+          "ta": "தம்பி புதிய விளையாட்டை வாங்குவதும் உடனே சலித்துப்போவதுமாக இருக்கிறான்.",
+          "en": "My brother buys new games and soon gets bored of them, again and again."
+        },
+        {
+          "ja": "何度も値段を見ては、ため息をついていますね。どうしたんですか。",
+          "reading": "なんども ねだんを みては、ためいきを ついて いますね。どうしたんですか。",
+          "romaji": "nando mo nedan o mite wa, tameiki o tsuite imasu ne. doushita n desu ka.",
+          "ta": "விலையைத் திரும்பத் திரும்பப் பார்த்துப் பெருமூச்சு விடுகிறீர்களே, என்ன ஆயிற்று?",
+          "en": "You keep looking at the price and sighing. What’s wrong?"
+        }
+      ],
+      "pitfalls_ta": "இங்கே は என்பது தலைப்பு は அல்ல; 'wa' என்று ஒலித்தாலும் 'திரும்பத் திரும்ப' என்ற பொருள். 〜てはいけない ('செய்யக் கூடாது') உடன் குழப்பாதீர்கள்: அங்கே は-க்குப் பின் いけない வரும்; இங்கே இன்னொரு செயல் வரும்.",
+      "pitfalls_en": "This は is not the topic は. It sounds like \"wa\", but here it shows repeating. Don’t mix it up with 〜てはいけない (must not). There, いけない comes after は. Here, another action comes after it."
+    },
+    {
+      "id": "g17-5",
+      "pattern": "N は N で",
+      "name": {
+        "en": "N, in its own way / for its part",
+        "ta": "N-உம் அதன் பங்குக்கு / அதற்கே உரிய முறையில்"
+      },
+      "explanation_ta": "NはNで என்பதில் ஒரே பெயர்ச்சொல் இரண்டு முறை வரும். பொருள்: 'மற்றதைப் பற்றிப் பேசினோம்; இப்போது N-ஐ அதன் சொந்த நிலையில் பார்த்தால்…'. இரண்டு விதமாக வரும்: (1) ஒன்றை மற்றொன்றுடன் ஒப்பிட்டு, 'N-க்கும் அதற்கே உரிய நல்ல / கெட்ட பக்கம் உண்டு' என்று சொல்ல: 中古は中古で味がある. (2) 'அவன் அவன் பாட்டுக்கு' என்பது போல, 'அந்த நபரும் தனக்கே உரிய வேலையில் இருந்தார்': 姉は姉で買い物に夢中だった. தமிழில் 'அக்கா அவள் பாட்டுக்கு…' என்று சொல்வது இதற்கு மிக நெருக்கமானது. பேச்சில் அதிகம்.",
+      "explanation_en": "In NはNで, the same noun comes twice. It means \"we talked about the other thing; now N, in its own way…\". It has two uses. (1) Comparing: \"N also has its own good or bad points\": 中古は中古で味がある (used things have their own charm). (2) \"That person, for their part, was busy with their own thing\": 姉は姉で買い物に夢中だった (my sister was busy with her own shopping). Tamil \"அக்கா அவள் பாட்டுக்கு…\" (my sister, on her own…) is very close. It is common in speech.",
+      "tamil_parallel": "அக்கா அவள் பாட்டுக்குத் தன் ஷாப்பிங்கில் மூழ்கியிருந்தாள் = 姉は姉で、自分の買い物に夢中でした",
+      "tamil_parallel_en": "\"My sister, for her part, was lost in her own shopping\" (அக்கா அவள் பாட்டுக்கு) = 姉は姉で、自分の買い物に夢中でした",
+      "formation": "பெயர்ச்சொல் + は + அதே பெயர்ச்சொல் + で、〜\n   市場は市場で、中古は中古で、姉は姉で",
+      "formation_en": "Noun + は + the same noun + で、〜\n   市場は市場で、中古は中古で、姉は姉で",
+      "examples": [
+        {
+          "ja": "デパートはデパートで、サービスがいいという良さがあります。",
+          "reading": "デパートは デパートで、サービスが いいと いう よさが あります。",
+          "romaji": "depaato wa depaato de, saabisu ga ii to iu yosa ga arimasu.",
+          "ta": "டிபார்ட்மென்ட் ஸ்டோருக்கு அதற்கே உரிய சிறப்பு உண்டு — அங்கே சேவை நன்றாக இருக்கும்.",
+          "en": "Department stores have their own good point: the service is good."
+        },
+        {
+          "ja": "市場は市場で、安くて新鮮な物が買えます。",
+          "reading": "いちばは いちばで、やすくて しんせんな ものが かえます。",
+          "romaji": "ichiba wa ichiba de, yasukute shinsen na mono ga kaemasu.",
+          "ta": "சந்தையில், அதன் வழியில், மலிவான புதிய பொருட்களை வாங்கலாம்.",
+          "en": "Markets, for their part, let you buy cheap, fresh things."
+        },
+        {
+          "ja": "姉は姉で、自分の買い物に夢中でした。",
+          "reading": "あねは あねで、じぶんの かいものに むちゅうでした。",
+          "romaji": "ane wa ane de, jibun no kaimono ni muchuu deshita.",
+          "ta": "அக்கா அவள் பாட்டுக்குத் தன் ஷாப்பிங்கில் மூழ்கியிருந்தாள்.",
+          "en": "My sister, for her part, was lost in her own shopping."
+        },
+        {
+          "ja": "新品はいいけど、中古は中古で味がありますよ。",
+          "reading": "しんぴんは いいけど、ちゅうこは ちゅうこで あじが ありますよ。",
+          "romaji": "shinpin wa ii kedo, chuuko wa chuuko de aji ga arimasu yo.",
+          "ta": "புதியது நல்லதுதான்; ஆனால் பழையதுக்கும் அதற்கே உரிய அழகு உண்டு.",
+          "en": "New things are nice, but used things have their own charm."
+        },
+        {
+          "ja": "一人暮らしは一人暮らしで、大変なこともあります。",
+          "reading": "ひとりぐらしは ひとりぐらしで、たいへんな ことも あります。",
+          "romaji": "hitorigurashi wa hitorigurashi de, taihen na koto mo arimasu.",
+          "ta": "தனியாக வாழ்வதிலும் அதற்கே உரிய கஷ்டங்கள் உண்டு.",
+          "en": "Living alone has its own hard parts too."
+        },
+        {
+          "ja": "安い店は安い店で、いいところがあると思いませんか。",
+          "reading": "やすい みせは やすい みせで、いい ところが あると おもいませんか。",
+          "romaji": "yasui mise wa yasui mise de, ii tokoro ga aru to omoimasen ka.",
+          "ta": "மலிவான கடைக்கும் அதற்கே உரிய நல்ல பக்கங்கள் உண்டு என்று நினைக்கவில்லையா?",
+          "en": "Don’t you think cheap shops have their own good points?"
+        }
+      ],
+      "pitfalls_ta": "இரண்டு இடத்திலும் ஒரே பெயர்ச்சொல் வர வேண்டும்: 市場はデパートで ✗. で-க்குப் பதிலாக も போட்டால் ('市場は市場も') பொருள் கெடும்.",
+      "pitfalls_en": "The same noun must come in both places: 市場はデパートで ✗. If you use も instead of で (市場は市場も), the meaning breaks."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0068",
+    "n3-v-0122",
+    "n3-v-0125",
+    "n3-v-0149",
+    "n3-v-0154",
+    "n3-v-0164",
+    "n3-v-0295",
+    "n3-v-0388",
+    "n3-v-0392",
+    "n3-v-0462",
+    "n3-v-0506",
+    "n3-v-0507",
+    "n3-v-0566",
+    "n3-v-0567",
+    "n3-v-0568",
+    "n3-v-0578",
+    "n3-v-0622",
+    "n3-v-0634",
+    "n3-v-0717",
+    "n3-v-0881",
+    "n3-v-0884",
+    "n3-v-0890",
+    "n3-v-0938",
+    "n3-v-0939",
+    "n3-v-0959",
+    "n3-v-1042",
+    "n3-v-1168",
+    "n3-v-1314",
+    "n3-v-1346",
+    "n3-v-1401",
+    "n3-v-1402",
+    "n3-v-1477",
+    "n3-v-1483",
+    "n3-v-1697",
+    "n3-v-1742",
+    "n3-v-1773",
+    "n3-v-1796",
+    "n3-v-1808",
+    "n3-v-1850",
+    "n3-v-1851",
+    "n3-v-1867",
+    "n3-v-1868",
+    "n3-v-1869",
+    "n3-v-1887",
+    "n3-v-1933",
+    "n3-v-1946",
+    "n3-v-1960",
+    "n3-v-1964",
+    "n3-v-1994",
+    "n3-v-2091",
+    "n3-v-2117",
+    "n3-v-2131",
+    "n3-v-2137"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L17-q01",
+        "type": "kanji_reading",
+        "sentence": "この 店は ＿商品＿の 種類が 多い。",
+        "target": "商品",
+        "options": [
+          "しょうひん",
+          "しょうしな",
+          "しょひん",
+          "しょうぴん"
+        ],
+        "answer": 0,
+        "explanation_ta": "商品 = しょうひん (விற்பனைப் பொருள்). 品 தனியாக しな என்றாலும் இங்கே ひん. ぴん என்று மாறாது.",
+        "explanation_en": "商品 = しょうひん (விற்பனைப் பொருள், products). 品 alone is しな, but here it is ひん. It does not change to ぴん."
+      },
+      {
+        "id": "L17-q02",
+        "type": "kanji_reading",
+        "sentence": "＿物価＿が 毎年 少しずつ 上がって います。",
+        "target": "物価",
+        "options": [
+          "もっか",
+          "ぶつか",
+          "ぶっか",
+          "ものか"
+        ],
+        "answer": 2,
+        "explanation_ta": "物価 = ぶっか (விலைவாசி). ぶつ + か → சிறு っ வந்து ぶっか ஆகும். ぶつか என்று எழுதுவது தவறு.",
+        "explanation_en": "物価 = ぶっか (விலைவாசி, prices). ぶつ + か becomes ぶっか with a small っ. ぶつか is wrong."
+      },
+      {
+        "id": "L17-q03",
+        "type": "kanji_reading",
+        "sentence": "この パソコンには 一年間の ＿保証＿が あります。",
+        "target": "保証",
+        "options": [
+          "ほうしょう",
+          "ほしょう",
+          "ほじょう",
+          "ぼしょう"
+        ],
+        "answer": 1,
+        "explanation_ta": "保証 = ほしょう (உத்தரவாதம்). 保 குறில் ほ; ほうしょう என்று நீட்டக் கூடாது.",
+        "explanation_en": "保証 = ほしょう (உத்தரவாதம், warranty). 保 is a short ほ. Don’t make it long like ほうしょう."
+      },
+      {
+        "id": "L17-q04",
+        "type": "orthography",
+        "sentence": "注文した 品物は 明日 ＿はいたつ＿されます。",
+        "target": "はいたつ",
+        "options": [
+          "配建",
+          "記達",
+          "背達",
+          "配達"
+        ],
+        "answer": 3,
+        "explanation_ta": "டெலிவரி = 配達 (配 = பகிர்ந்தளி, 達 = சென்றடை). 建、記、背 வடிவம் ஒத்த வேறு எழுத்துகள்.",
+        "explanation_en": "Delivery = 配達 (配 = hand out, 達 = reach). 建, 記 and 背 just look similar."
+      },
+      {
+        "id": "L17-q05",
+        "type": "orthography",
+        "sentence": "プレゼントなので、＿ほうそう＿を お願いします。",
+        "target": "ほうそう",
+        "options": [
+          "放送",
+          "包装",
+          "包送",
+          "方装"
+        ],
+        "answer": 1,
+        "explanation_ta": "பரிசைப் பொதிதல் = 包装 (包 = சுற்று, 装 = அலங்கரி). 放送 = ஒலிபரப்பு (டிவி, ரேடியோ); ஒலி ஒன்று, பொருள் வேறு.",
+        "explanation_en": "Gift-wrapping = 包装 (包 = wrap, 装 = dress up). 放送 means broadcasting (TV, radio). Same sound, different meaning."
+      },
+      {
+        "id": "L17-q06",
+        "type": "vocab_context",
+        "sentence": "サイズが 合わなかったので、店で 別の サイズと （　　）して もらいました。",
+        "options": [
+          "交換",
+          "両替",
+          "販売",
+          "包装"
+        ],
+        "answer": 0,
+        "explanation_ta": "ஒரு பொருளை வேறொன்றுக்கு மாற்றுவது = 交換. 両替 பணத்தை மட்டும் மாற்றுவது.",
+        "explanation_en": "Changing one item for another = 交換 (மாற்றுதல், exchange). 両替 is only for changing money."
+      },
+      {
+        "id": "L17-q07",
+        "type": "vocab_context",
+        "sentence": "三千円 以上 買うと、配達が （　　）に なります。",
+        "options": [
+          "高価",
+          "無料",
+          "中古",
+          "有機"
+        ],
+        "answer": 1,
+        "explanation_ta": "அதிகம் வாங்கினால் டெலிவரி 'இலவசம்' = 無料. 高価 'விலையுயர்ந்த' — எதிர்ப்பொருள்.",
+        "explanation_en": "If you buy a lot, delivery becomes free = 無料 (இலவசம்). 高価 (expensive) is the opposite."
+      },
+      {
+        "id": "L17-q08",
+        "type": "vocab_context",
+        "sentence": "この 色は 私の （　　）じゃ ありません。",
+        "options": [
+          "価値",
+          "順番",
+          "好み",
+          "宣伝"
+        ],
+        "answer": 2,
+        "explanation_ta": "'என் ரசனைக்கு ஏற்றதல்ல' = 私の好みじゃない. 価値 'மதிப்பு' — நிறத்துக்கு இங்கே பொருந்தாது.",
+        "explanation_en": "\"Not to my taste\" = 私の好みじゃない (என் ரசனை அல்ல). 価値 (value) doesn’t fit a colour here."
+      },
+      {
+        "id": "L17-q09",
+        "type": "vocab_context",
+        "sentence": "今年は この デザインの 服が とても （　　）います。",
+        "options": [
+          "揃えて",
+          "含んで",
+          "限って",
+          "流行って"
+        ],
+        "answer": 3,
+        "explanation_ta": "'இந்த ஆண்டு இந்த டிசைன் பிரபலம்' = 流行っています. 揃えて 'சேர்த்து வைத்து' — பொருள் பொருந்தாது.",
+        "explanation_en": "\"This design is in fashion this year\" = 流行っています (பிரபலமாக இருக்கிறது). 揃えて (putting together) doesn’t fit."
+      },
+      {
+        "id": "L17-q10",
+        "type": "vocab_context",
+        "sentence": "レジの 前に 長い 列が あって、（　　）を 待つのに 二十分 かかった。",
+        "options": [
+          "順番",
+          "品",
+          "好み",
+          "価値"
+        ],
+        "answer": 0,
+        "explanation_ta": "வரிசையில் 'என் முறைக்காக' காத்திருத்தல் = 順番を待つ.",
+        "explanation_en": "Waiting for your turn in line = 順番を待つ (முறைக்காகக் காத்திருத்தல்)."
+      },
+      {
+        "id": "L17-q11",
+        "type": "paraphrase",
+        "sentence": "この 値段には 税金が 含まれて います。",
+        "options": [
+          "税金は 別に 払います。",
+          "税金は この 値段に 入って います。",
+          "税金は いりません。",
+          "税金は あとで 返します。"
+        ],
+        "answer": 1,
+        "explanation_ta": "含まれている = 'உள்ளே அடங்கியிருக்கிறது' = 入っている. 別に払う 'தனியாகச் செலுத்து' எதிர்ப்பொருள்.",
+        "explanation_en": "含まれている = \"is included\" (அடங்கியிருக்கிறது) = 入っている. 別に払う (pay separately) is the opposite."
+      },
+      {
+        "id": "L17-q12",
+        "type": "paraphrase",
+        "sentence": "この 時計は 本物では ありません。",
+        "options": [
+          "この 時計は 高価な 物です。",
+          "この 時計は 中古です。",
+          "この 時計は 新品では ありません。",
+          "この 時計は 本当の ブランド品では ありません。"
+        ],
+        "answer": 3,
+        "explanation_ta": "本物ではない = 'அசல் அல்ல' (போலி). 新品ではない 'புதியது அல்ல' — வேறு பொருள்; அசல் பழைய பொருளும் இருக்கலாம்.",
+        "explanation_en": "本物ではない = \"not the real thing\" (அசல் அல்ல, fake). 新品ではない means \"not new\". That’s different: an old watch can still be real."
+      },
+      {
+        "id": "L17-q13",
+        "type": "usage",
+        "sentence": "揃える",
+        "options": [
+          "古い 本を 売って、お金に 揃えました。",
+          "友達の 誕生日を 揃えて、プレゼントを 買いました。",
+          "引っ越す 前に、必要な 家具を 全部 揃えました。",
+          "熱が 揃えたので、薬を 飲みました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "揃える = தேவையான எல்லாவற்றையும் சேர்த்து வைப்பது. பணமாக மாற்றுவது 換える; பிறந்தநாளை நினைவில் வைப்பது 覚える.",
+        "explanation_en": "揃える = to get together everything you need (சேர்த்து வைக்க). Turning things into money is 換える. Remembering a birthday is 覚える."
+      },
+      {
+        "id": "L17-q14",
+        "type": "usage",
+        "sentence": "流行る",
+        "options": [
+          "今、若い 人の 間で この 歌が 流行って います。",
+          "私は この 店が 流行って、よく 来ます。",
+          "病院で 薬を 流行って もらいました。",
+          "店の 前に 人が たくさん 流行って います。"
+        ],
+        "answer": 0,
+        "explanation_ta": "流行る = பலரிடம் பிரபலமாக இருப்பது. 'எனக்குப் பிடித்தது' = 気に入る; வரிசையில் நிற்பது = 並ぶ.",
+        "explanation_en": "流行る = to be popular with many people (பிரபலமாக). \"I like it\" = 気に入る. Standing in line = 並ぶ."
+      },
+      {
+        "id": "L17-q15",
+        "type": "grammar_form",
+        "sentence": "有名な 店の 料理が 必ずしも おいしい（　　）。",
+        "options": [
+          "に 限ります",
+          "わけです",
+          "とは 限りません",
+          "はずです"
+        ],
+        "answer": 2,
+        "explanation_ta": "必ずしも எதிர்மறையுடன் வரும் → とは限りません ('எப்போதும் என்று சொல்ல முடியாது'). はずです நேர்மறை, 必ずしも உடன் சேராது.",
+        "explanation_en": "必ずしも needs a negative → とは限りません (\"not always\"). はずです is positive and doesn’t go with 必ずしも."
+      },
+      {
+        "id": "L17-q16",
+        "type": "grammar_form",
+        "sentence": "本日（　　）、全商品 半額です。",
+        "options": [
+          "に 限り",
+          "に 限らず",
+          "に 限って",
+          "とは 限らず"
+        ],
+        "answer": 0,
+        "explanation_ta": "கடை அறிவிப்பு: 'இன்று மட்டும்' = 本日に限り. に限って 'சரியாக இன்றுதான் (கெட்டது)' என்ற உணர்ச்சி வடிவம்.",
+        "explanation_en": "A shop notice: \"today only\" = 本日に限り. に限って means \"on this very day (something bad)\". It is full of feeling."
+      },
+      {
+        "id": "L17-q17",
+        "type": "grammar_form",
+        "sentence": "この アニメは 子ども（　　）、大人にも 人気が あります。",
+        "options": [
+          "に 限り",
+          "に 限らず",
+          "に 限って",
+          "とは 限らず"
+        ],
+        "answer": 1,
+        "explanation_ta": "'குழந்தைகள் மட்டுமல்ல, பெரியவர்களும்' → に限らず … にも. に限り 'மட்டும்' — எதிர்ப்பொருள்.",
+        "explanation_en": "\"Not only children, adults too\" → に限らず … にも. に限り means \"only\". It is the opposite."
+      },
+      {
+        "id": "L17-q18",
+        "type": "grammar_form",
+        "sentence": "急いで いる 時（　　）、エレベーターが なかなか 来ない。",
+        "options": [
+          "に 限らず",
+          "に 限り",
+          "に 限って",
+          "とは 限らず"
+        ],
+        "answer": 2,
+        "explanation_ta": "'அவசரமான நேரத்தில்தான் லிஃப்ட் வராது' — எரிச்சல் → に限って.",
+        "explanation_en": "\"The lift won’t come exactly when I’m in a hurry\" — annoyance → に限って."
+      },
+      {
+        "id": "L17-q19",
+        "type": "grammar_form",
+        "sentence": "朝から 雨が 降って（　　）やみ、降っては やみ して います。",
+        "options": [
+          "も",
+          "から",
+          "で",
+          "は"
+        ],
+        "answer": 3,
+        "explanation_ta": "'பெய்வதும் நிற்பதுமாக' — திரும்பத் திரும்ப → 降ってはやみ. இரண்டாம் ஜோடியிலும் は வருவதைக் கவனியுங்கள்.",
+        "explanation_en": "\"Raining and stopping\" again and again → 降ってはやみ. Look: the second pair also has は."
+      },
+      {
+        "id": "L17-q20",
+        "type": "grammar_form",
+        "sentence": "新品は いいけど、中古は 中古（　　）、いい ところが ありますよ。",
+        "options": [
+          "に",
+          "も",
+          "と",
+          "で"
+        ],
+        "answer": 3,
+        "explanation_ta": "'பழையதுக்கும் அதற்கே உரிய நல்ல பக்கம்' → 中古は中古で.",
+        "explanation_en": "\"Used things have their own good points\" → 中古は中古で."
+      },
+      {
+        "id": "L17-q21",
+        "type": "grammar_form",
+        "sentence": "広告に 書いて ある ことが 全部 本当だ（　　）。",
+        "options": [
+          "に 限る",
+          "とは 限らない",
+          "に 限らない",
+          "に 限って いない"
+        ],
+        "answer": 1,
+        "explanation_ta": "'எல்லாம் உண்மை என்று சொல்ல முடியாது' → 本当だとは限らない. だ-க்குப் பின் とは வேண்டும்; に வராது.",
+        "explanation_en": "\"You can’t say all of it is true\" → 本当だとは限らない. After だ you need とは, not に."
+      },
+      {
+        "id": "L17-q22",
+        "type": "sentence_order",
+        "before": "値段が 高い 物が",
+        "chunks": [
+          "必ずしも",
+          "いい 物だ",
+          "とは",
+          "限りません"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "必ずしも (கட்டாயம்) → いい物だ (நல்ல பொருள்) → とは → 限りません (என்று சொல்ல முடியாது). ★ = いい物だ.",
+        "explanation_en": "必ずしも (necessarily) → いい物だ (is a good thing) → とは → 限りません. ★ = いい物だ."
+      },
+      {
+        "id": "L17-q23",
+        "type": "sentence_order",
+        "before": "傘を",
+        "chunks": [
+          "持って いない",
+          "日に",
+          "限って",
+          "雨が"
+        ],
+        "star": 2,
+        "after": "降る。",
+        "explanation_ta": "傘を 持っていない 日に (குடை இல்லாத நாளில்) → 限って (சரியாக அன்றுதான்) → 雨が 降る. ★ = 限って.",
+        "explanation_en": "傘を 持っていない 日に (on a day without an umbrella) → 限って (that very day) → 雨が 降る. ★ = 限って."
+      },
+      {
+        "id": "L17-q24",
+        "type": "sentence_order",
+        "before": "この 店は",
+        "chunks": [
+          "週末に",
+          "限らず",
+          "平日も",
+          "混んで"
+        ],
+        "star": 0,
+        "after": "います。",
+        "explanation_ta": "週末に 限らず (வார இறுதியில் மட்டுமல்ல) → 平日も (வார நாட்களிலும்) → 混んでいます. ★ = 週末に.",
+        "explanation_en": "週末に 限らず (not only at weekends) → 平日も (weekdays too) → 混んでいます (is crowded). ★ = 週末に."
+      },
+      {
+        "id": "L17-q25",
+        "type": "passage_cloze",
+        "passage": "先週、駅前の デパートで セールが ありました。入口には「本日［1］、全商品 三割引」と 書いて ありました。でも、セールの 品が いつも 安い［2］。私は 気に入った バッグを 手に 取って［3］戻し、取っては 戻しして、結局 何も 買いませんでした。帰りに 近所の 市場へ 寄りました。市場は 市場［4］、安くて 新鮮な 野菜が たくさん あって、楽しかったです。",
+        "blanks": [
+          {
+            "options": [
+              "に 限らず",
+              "に 限り",
+              "だけでなく",
+              "に 限って"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "はずです",
+              "わけです",
+              "とは 限りません",
+              "に 限ります"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "から",
+              "で",
+              "も",
+              "は"
+            ],
+            "answer": 3
+          },
+          {
+            "options": [
+              "で",
+              "に",
+              "を",
+              "が"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ கடை அறிவிப்பு 'இன்று மட்டும்' → に限り. ［2］ 'எப்போதும் மலிவு என்று சொல்ல முடியாது' → とは限りません. ［3］ 'எடுப்பதும் வைப்பதுமாக' → 取っては戻し. ［4］ 'சந்தைக்கு அதற்கே உரிய சிறப்பு' → 市場は市場で.",
+        "explanation_en": "[1] A shop notice: \"today only\" → に限り. [2] \"Not always cheap\" → とは限りません. [3] \"Picking up and putting back\" → 取っては戻し. [4] \"The market has its own good points\" → 市場は市場で."
+      }
+    ]
+  }
+}

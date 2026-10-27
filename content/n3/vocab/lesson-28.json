@@ -1,0 +1,974 @@
+[
+ {
+  "id": "n3-v-0064",
+  "expression": "支店",
+  "reading": "してん",
+  "romaji": "shiten",
+  "en": "branch office",
+  "ta": "கிளை அலுவலகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "来月から大阪の支店で働くことになりました。",
+    "reading": "らいげつから おおさかの してんで はたらく ことに なりました。",
+    "romaji": "raigetsu kara oosaka no shiten de hataraku koto ni narimashita.",
+    "ta": "அடுத்த மாதம் முதல் ஒசாகா கிளையில் வேலை செய்வது என்று முடிவாகியுள்ளது.",
+    "en": "From next month, I’ll work at the Osaka branch."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0124",
+  "expression": "順調",
+  "reading": "じゅんちょう",
+  "romaji": "junchou",
+  "en": "going smoothly",
+  "ta": "சீரான, தடையில்லாத",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "新しいプロジェクトは順調に進んでいます。",
+    "reading": "あたらしい プロジェクトは じゅんちょうに すすんで います。",
+    "romaji": "atarashii purojekuto wa junchou ni susunde imasu.",
+    "ta": "புதிய திட்டம் சீராக முன்னேறி வருகிறது.",
+    "en": "The new project is going smoothly."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0172",
+  "expression": "助手",
+  "reading": "じょしゅ",
+  "romaji": "joshu",
+  "en": "assistant",
+  "ta": "உதவியாளர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "助手が会議の資料を準備してくれました。",
+    "reading": "じょしゅが かいぎの しりょうを じゅんび して くれました。",
+    "romaji": "joshu ga kaigi no shiryou o junbi shite kuremashita.",
+    "ta": "உதவியாளர் கூட்டத்துக்கான ஆவணங்களைத் தயார் செய்து கொடுத்தார்.",
+    "en": "My assistant prepared the papers for the meeting."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0226",
+  "expression": "スケジュール",
+  "reading": "スケジュール",
+  "romaji": "sukejuuru",
+  "en": "schedule",
+  "ta": "கால அட்டவணை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今週はスケジュールがいっぱいで、休む時間がありません。",
+    "reading": "こんしゅうは スケジュールが いっぱいで、やすむ じかんが ありません。",
+    "romaji": "konshuu wa sukejuuru ga ippai de, yasumu jikan ga arimasen.",
+    "ta": "இந்த வாரம் அட்டவணை நிரம்பியிருப்பதால் ஓய்வெடுக்க நேரமில்லை.",
+    "en": "My schedule is full this week, so I have no time to rest."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0243",
+  "expression": "済ませる",
+  "reading": "すませる",
+  "romaji": "sumaseru",
+  "en": "to get done, finish",
+  "ta": "முடித்துக்கொள்ள",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "昼ご飯は会社の近くで簡単に済ませました。",
+    "reading": "ひるごはんは かいしゃの ちかくで かんたんに すませました。",
+    "romaji": "hirugohan wa kaisha no chikaku de kantan ni sumasemashita.",
+    "ta": "மதிய உணவை அலுவலகம் அருகே சுருக்கமாக முடித்துக்கொண்டேன்.",
+    "en": "I had a quick lunch near the office."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0329",
+  "expression": "扱う",
+  "reading": "あつかう",
+  "romaji": "atsukau",
+  "en": "to handle, deal with",
+  "ta": "கையாள",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この機械は重いので、注意して扱ってください。",
+    "reading": "この きかいは おもいので、ちゅうい して あつかって ください。",
+    "romaji": "kono kikai wa omoi node, chuui shite atsukatte kudasai.",
+    "ta": "இந்த இயந்திரம் கனமானது, அதனால் கவனமாகக் கையாளுங்கள்.",
+    "en": "This machine is heavy, so please handle it with care."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0466",
+  "expression": "柄",
+  "reading": "え",
+  "romaji": "e",
+  "en": "handle, grip",
+  "ta": "கைப்பிடி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "工場で、ハンマーの柄が折れてしまいました。",
+    "reading": "こうじょうで、ハンマーの えが おれて しまいました。",
+    "romaji": "koujou de, hanmaa no e ga orete shimaimashita.",
+    "ta": "தொழிற்சாலையில் சுத்தியலின் கைப்பிடி உடைந்துவிட்டது.",
+    "en": "At the factory, the hammer’s handle broke."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0495",
+  "expression": "終える",
+  "reading": "おえる",
+  "romaji": "oeru",
+  "en": "to finish",
+  "ta": "முடிக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "仕事を終えてから、同僚と食事に行きました。",
+    "reading": "しごとを おえてから、どうりょうと しょくじに いきました。",
+    "romaji": "shigoto o oete kara, douryou to shokuji ni ikimashita.",
+    "ta": "வேலையை முடித்த பிறகு சக ஊழியருடன் சாப்பிடப் போனேன்.",
+    "en": "After finishing work, I went to eat with a colleague."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0525",
+  "expression": "オフィス",
+  "reading": "オフィス",
+  "romaji": "ofisu",
+  "en": "office",
+  "ta": "அலுவலகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しいオフィスは駅から歩いて五分です。",
+    "reading": "あたらしい オフィスは えきから あるいて ごふんです。",
+    "romaji": "atarashii ofisu wa eki kara aruite gofun desu.",
+    "ta": "புதிய அலுவலகம் ரயில் நிலையத்திலிருந்து நடந்தால் ஐந்து நிமிடம்.",
+    "en": "The new office is a five-minute walk from the station."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0546",
+  "expression": "課",
+  "reading": "か",
+  "romaji": "ka",
+  "en": "section, department",
+  "ta": "பிரிவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "私は営業課で働いています。",
+    "reading": "わたしは えいぎょうかで はたらいて います。",
+    "romaji": "watashi wa eigyouka de hataraite imasu.",
+    "ta": "நான் விற்பனைப் பிரிவில் வேலை செய்கிறேன்.",
+    "en": "I work in the sales section."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0551",
+  "expression": "会員",
+  "reading": "かいいん",
+  "romaji": "kaiin",
+  "en": "member",
+  "ta": "உறுப்பினர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このジムの会員になると、毎日使えます。",
+    "reading": "この ジムの かいいんに なると、まいにち つかえます。",
+    "romaji": "kono jimu no kaiin ni naru to, mainichi tsukaemasu.",
+    "ta": "இந்த உடற்பயிற்சிக் கூடத்தின் உறுப்பினரானால் தினமும் பயன்படுத்தலாம்.",
+    "en": "If you become a member of this gym, you can use it every day."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0556",
+  "expression": "会合",
+  "reading": "かいごう",
+  "romaji": "kaigou",
+  "en": "meeting, gathering",
+  "ta": "கூட்டம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今夜は地域の会合があるので、早く帰ります。",
+    "reading": "こんやは ちいきの かいごうが あるので、はやく かえります。",
+    "romaji": "kon'ya wa chiiki no kaigou ga aru node, hayaku kaerimasu.",
+    "ta": "இன்றிரவு பகுதி மக்களின் கூட்டம் இருப்பதால் சீக்கிரம் வீடு திரும்புகிறேன்.",
+    "en": "There’s a local meeting tonight, so I’m going home early."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0576",
+  "expression": "係",
+  "reading": "かかり",
+  "romaji": "kakari",
+  "en": "person in charge",
+  "ta": "பொறுப்பாளர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "受付の係の人に名前を言ってください。",
+    "reading": "うけつけの かかりの ひとに なまえを いって ください。",
+    "romaji": "uketsuke no kakari no hito ni namae o itte kudasai.",
+    "ta": "வரவேற்பில் உள்ள பொறுப்பாளரிடம் உங்கள் பெயரைச் சொல்லுங்கள்.",
+    "en": "Please give your name to the person at reception."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0631",
+  "expression": "過程",
+  "reading": "かてい",
+  "romaji": "katei",
+  "en": "process",
+  "ta": "செயல்முறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "結果だけでなく、過程も大切です。",
+    "reading": "けっかだけで なく、かていも たいせつです。",
+    "romaji": "kekka dake de naku, katei mo taisetsu desu.",
+    "ta": "முடிவு மட்டுமல்ல, அதை அடையும் செயல்முறையும் முக்கியம்.",
+    "en": "Not only the result but also the process matters."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0681",
+  "expression": "完成",
+  "reading": "かんせい",
+  "romaji": "kansei",
+  "en": "completion",
+  "ta": "கட்டி முடித்தல், நிறைவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しいビルは来年の春に完成する予定です。",
+    "reading": "あたらしい ビルは らいねんの はるに かんせい する よていです。",
+    "romaji": "atarashii biru wa rainen no haru ni kansei suru yotei desu.",
+    "ta": "புதிய கட்டடம் அடுத்த ஆண்டு வசந்த காலத்தில் கட்டி முடிக்கப்படும்.",
+    "en": "The new building is due to be finished next spring."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0688",
+  "expression": "完了",
+  "reading": "かんりょう",
+  "romaji": "kanryou",
+  "en": "completion (of a task)",
+  "ta": "பணி முடிவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "データの送信が完了しました。",
+    "reading": "データの そうしんが かんりょう しました。",
+    "romaji": "deeta no soushin ga kanryou shimashita.",
+    "ta": "தரவு அனுப்புதல் முடிந்தது.",
+    "en": "The data has been sent."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0698",
+  "expression": "企業",
+  "reading": "きぎょう",
+  "romaji": "kigyou",
+  "en": "company, enterprise",
+  "ta": "நிறுவனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "兄は大きな企業でエンジニアをしています。",
+    "reading": "あには おおきな きぎょうで エンジニアを して います。",
+    "romaji": "ani wa ookina kigyou de enjinia o shite imasu.",
+    "ta": "என் அண்ணன் ஒரு பெரிய நிறுவனத்தில் பொறியாளராக இருக்கிறார்.",
+    "en": "My older brother is an engineer at a big company."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0700",
+  "expression": "期限",
+  "reading": "きげん",
+  "romaji": "kigen",
+  "en": "deadline, time limit",
+  "ta": "காலக்கெடு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "レポートの期限は金曜日までです。",
+    "reading": "レポートの きげんは きんようびまでです。",
+    "romaji": "repooto no kigen wa kin'youbi made desu.",
+    "ta": "அறிக்கையின் காலக்கெடு வெள்ளிக்கிழமை வரை.",
+    "en": "The report deadline is Friday."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0706",
+  "expression": "技師",
+  "reading": "ぎし",
+  "romaji": "gishi",
+  "en": "engineer, technician",
+  "ta": "தொழில்நுட்ப வல்லுநர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "工場の技師が機械を直してくれました。",
+    "reading": "こうじょうの ぎしが きかいを なおして くれました。",
+    "romaji": "koujou no gishi ga kikai o naoshite kuremashita.",
+    "ta": "தொழிற்சாலையின் தொழில்நுட்ப வல்லுநர் இயந்திரத்தைச் சரிசெய்து கொடுத்தார்.",
+    "en": "The factory technician fixed the machine for us."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0725",
+  "expression": "決まり",
+  "reading": "きまり",
+  "romaji": "kimari",
+  "en": "rule",
+  "ta": "விதி, வழக்கம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この会社では、朝九時に集まる決まりです。",
+    "reading": "この かいしゃでは、あさ くじに あつまる きまりです。",
+    "romaji": "kono kaisha de wa, asa kuji ni atsumaru kimari desu.",
+    "ta": "இந்த நிறுவனத்தில் காலை ஒன்பது மணிக்குக் கூடுவது விதி.",
+    "en": "At this company, the rule is to gather at nine a.m."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0758",
+  "expression": "局",
+  "reading": "きょく",
+  "romaji": "kyoku",
+  "en": "bureau, station",
+  "ta": "நிலையம், அலுவலகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "姉はテレビ局で働いています。",
+    "reading": "あねは テレビきょくで はたらいて います。",
+    "romaji": "ane wa terebikyoku de hataraite imasu.",
+    "ta": "என் அக்கா ஒரு தொலைக்காட்சி நிலையத்தில் வேலை செய்கிறார்.",
+    "en": "My older sister works at a TV station."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0825",
+  "expression": "経営",
+  "reading": "けいえい",
+  "romaji": "keiei",
+  "en": "management, running a business",
+  "ta": "நிர்வாகம், நடத்துதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "おじはチェンナイでレストランを経営しています。",
+    "reading": "おじは チェンナイで レストランを けいえい して います。",
+    "romaji": "oji wa chennai de resutoran o keiei shite imasu.",
+    "ta": "என் மாமா சென்னையில் ஓர் உணவகம் நடத்துகிறார்.",
+    "en": "My uncle runs a restaurant in Chennai."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0849",
+  "expression": "結論",
+  "reading": "けつろん",
+  "romaji": "ketsuron",
+  "en": "conclusion",
+  "ta": "முடிவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "長い会議の後、やっと結論が出ました。",
+    "reading": "ながい かいぎの あと、やっと けつろんが でました。",
+    "romaji": "nagai kaigi no ato, yatto ketsuron ga demashita.",
+    "ta": "நீண்ட கூட்டத்துக்குப் பிறகு ஒருவழியாக முடிவு எட்டப்பட்டது.",
+    "en": "After a long meeting, we finally reached a conclusion."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0894",
+  "expression": "工場",
+  "reading": "こうば",
+  "romaji": "kouba",
+  "en": "workshop, small factory",
+  "ta": "பட்டறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祖父は町の小さな工場で家具を作っていました。",
+    "reading": "そふは まちの ちいさな こうばで かぐを つくって いました。",
+    "romaji": "sofu wa machi no chiisana kouba de kagu o tsukutte imashita.",
+    "ta": "தாத்தா ஊரில் ஒரு சிறிய பட்டறையில் மரச்சாமான்கள் செய்துவந்தார்.",
+    "en": "My grandfather made furniture in a small workshop in town."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0896",
+  "expression": "構成",
+  "reading": "こうせい",
+  "romaji": "kousei",
+  "en": "structure, composition",
+  "ta": "அமைப்பு, கட்டமைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "発表の構成を先輩に見てもらいました。",
+    "reading": "はっぴょうの こうせいを せんぱいに みて もらいました。",
+    "romaji": "happyou no kousei o senpai ni mite moraimashita.",
+    "ta": "என் விளக்கக்காட்சியின் அமைப்பை மூத்தவரிடம் காட்டிச் சரிபார்த்தேன்.",
+    "en": "I had a senior check the structure of my presentation."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0900",
+  "expression": "後輩",
+  "reading": "こうはい",
+  "romaji": "kouhai",
+  "en": "junior (at work or school)",
+  "ta": "ஜூனியர், இளையவர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "後輩に仕事のやり方を教えました。",
+    "reading": "こうはいに しごとの やりかたを おしえました。",
+    "romaji": "kouhai ni shigoto no yarikata o oshiemashita.",
+    "ta": "ஜூனியருக்கு வேலை செய்யும் முறையைக் கற்றுக்கொடுத்தேன்.",
+    "en": "I taught my junior how to do the job."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0974",
+  "expression": "作業",
+  "reading": "さぎょう",
+  "romaji": "sagyou",
+  "en": "work, task",
+  "ta": "பணி, வேலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この作業は二時間で終わると思います。",
+    "reading": "この さぎょうは にじかんで おわると おもいます。",
+    "romaji": "kono sagyou wa nijikan de owaru to omoimasu.",
+    "ta": "இந்தப் பணி இரண்டு மணி நேரத்தில் முடியும் என்று நினைக்கிறேன்.",
+    "en": "I think this task will be done in two hours."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1047",
+  "expression": "命じる",
+  "reading": "めいじる",
+  "romaji": "meijiru",
+  "en": "to order, appoint",
+  "ta": "உத்தரவிட",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "部長は私に大阪への出張を命じました。",
+    "reading": "ぶちょうは わたしに おおさかへの しゅっちょうを めいじました。",
+    "romaji": "buchou wa watashi ni oosaka e no shucchou o meijimashita.",
+    "ta": "மேலாளர் என்னை ஒசாகாவுக்கு அலுவல் பயணம் போகும்படி உத்தரவிட்டார்.",
+    "en": "The manager ordered me to go on a business trip to Osaka."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1049",
+  "expression": "命令",
+  "reading": "めいれい",
+  "romaji": "meirei",
+  "en": "order, command",
+  "ta": "கட்டளை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "上司の命令なので、断れませんでした。",
+    "reading": "じょうしの めいれいなので、ことわれませんでした。",
+    "romaji": "joushi no meirei na node, kotowaremasen deshita.",
+    "ta": "மேலதிகாரியின் கட்டளை என்பதால் மறுக்க முடியவில்லை.",
+    "en": "It was my boss’s order, so I couldn’t refuse."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1054",
+  "expression": "メモ",
+  "reading": "メモ",
+  "romaji": "memo",
+  "en": "note, memo",
+  "ta": "குறிப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大事なことは、すぐメモを取ってください。",
+    "reading": "だいじな ことは、すぐ メモを とって ください。",
+    "romaji": "daiji na koto wa, sugu memo o totte kudasai.",
+    "ta": "முக்கியமானவற்றை உடனே குறிப்பெடுத்துக்கொள்ளுங்கள்.",
+    "en": "Please write down important things right away."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1060",
+  "expression": "メンバー",
+  "reading": "メンバー",
+  "romaji": "menbaa",
+  "en": "member (of a team)",
+  "ta": "குழு உறுப்பினர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しいチームのメンバーは五人です。",
+    "reading": "あたらしい チームの メンバーは ごにんです。",
+    "romaji": "atarashii chiimu no menbaa wa gonin desu.",
+    "ta": "புதிய குழுவில் ஐந்து உறுப்பினர்கள் உள்ளனர்.",
+    "en": "The new team has five members."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1097",
+  "expression": "雇う",
+  "reading": "やとう",
+  "romaji": "yatou",
+  "en": "to hire, employ",
+  "ta": "வேலைக்கு அமர்த்த",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "店が忙しくなったので、アルバイトを二人雇いました。",
+    "reading": "みせが いそがしく なったので、アルバイトを ふたり やといました。",
+    "romaji": "mise ga isogashiku natta node, arubaito o futari yatoimashita.",
+    "ta": "கடையில் வேலை அதிகமானதால் இரண்டு பகுதிநேரப் பணியாளர்களை அமர்த்தினோம்.",
+    "en": "The shop got busy, so we hired two part-timers."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1184",
+  "expression": "労働",
+  "reading": "ろうどう",
+  "romaji": "roudou",
+  "en": "labour, work",
+  "ta": "உழைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "長い時間の労働は体に悪いです。",
+    "reading": "ながい じかんの ろうどうは からだに わるいです。",
+    "romaji": "nagai jikan no roudou wa karada ni warui desu.",
+    "ta": "நீண்ட நேர உழைப்பு உடலுக்குக் கெடுதல்.",
+    "en": "Working long hours is bad for your body."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1193",
+  "expression": "分かれる",
+  "reading": "わかれる",
+  "romaji": "wakareru",
+  "en": "to split, divide",
+  "ta": "பிரிய",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "研修では三つのグループに分かれて話し合いました。",
+    "reading": "けんしゅうでは みっつの グループに わかれて はなしあいました。",
+    "romaji": "kenshuu de wa mittsu no guruupu ni wakarete hanashiaimashita.",
+    "ta": "பயிற்சியில் மூன்று குழுக்களாகப் பிரிந்து கலந்துரையாடினோம்.",
+    "en": "At the training, we split into three groups to talk."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1263",
+  "expression": "協調",
+  "reading": "きょうちょう",
+  "romaji": "kyouchou",
+  "en": "cooperation",
+  "ta": "ஒத்துழைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "チームの仕事では、協調がいちばん大切です。",
+    "reading": "チームの しごとでは、きょうちょうが いちばん たいせつです。",
+    "romaji": "chiimu no shigoto de wa, kyouchou ga ichiban taisetsu desu.",
+    "ta": "குழு வேலையில் ஒத்துழைப்புதான் மிக முக்கியம்.",
+    "en": "In teamwork, cooperation matters most."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1293",
+  "expression": "作",
+  "reading": "さく",
+  "romaji": "saku",
+  "en": "a work (creation)",
+  "ta": "படைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この絵は有名な画家の最後の作です。",
+    "reading": "この えは ゆうめいな がかの さいごの さくです。",
+    "romaji": "kono e wa yuumei na gaka no saigo no saku desu.",
+    "ta": "இந்த ஓவியம் ஒரு புகழ்பெற்ற ஓவியரின் கடைசிப் படைப்பு.",
+    "en": "This painting is a famous artist’s last work."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1295",
+  "expression": "設備",
+  "reading": "せつび",
+  "romaji": "setsubi",
+  "en": "equipment, facilities",
+  "ta": "வசதிகள், உபகரணங்கள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この工場は設備が新しくて安全です。",
+    "reading": "この こうじょうは せつびが あたらしくて あんぜんです。",
+    "romaji": "kono koujou wa setsubi ga atarashikute anzen desu.",
+    "ta": "இந்தத் தொழிற்சாலையின் உபகரணங்கள் புதியவை, பாதுகாப்பானவை.",
+    "en": "This factory’s equipment is new and safe."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1318",
+  "expression": "操作",
+  "reading": "そうさ",
+  "romaji": "sousa",
+  "en": "operation (of a machine)",
+  "ta": "இயக்குதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しいコピー機の操作を教えてもらえますか。",
+    "reading": "あたらしい コピーきの そうさを おしえて もらえますか。",
+    "romaji": "atarashii kopiiki no sousa o oshiete moraemasu ka.",
+    "ta": "புதிய நகல் இயந்திரத்தை இயக்கும் முறையைச் சொல்லித் தர முடியுமா?",
+    "en": "Could you show me how to use the new copier?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1321",
+  "expression": "装置",
+  "reading": "そうち",
+  "romaji": "souchi",
+  "en": "device, apparatus",
+  "ta": "கருவி, சாதனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "火事のときは、この装置が自動で水を出します。",
+    "reading": "かじの ときは、この そうちが じどうで みずを だします。",
+    "romaji": "kaji no toki wa, kono souchi ga jidou de mizu o dashimasu.",
+    "ta": "தீ விபத்தின்போது இந்தக் கருவி தானாகவே தண்ணீர் பீய்ச்சும்.",
+    "en": "In a fire, this device sprays water automatically."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1326",
+  "expression": "組織",
+  "reading": "そしき",
+  "romaji": "soshiki",
+  "en": "organization",
+  "ta": "அமைப்பு, நிறுவனம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大きな組織では、一人で決めることはできません。",
+    "reading": "おおきな そしきでは、ひとりで きめる ことは できません。",
+    "romaji": "ookina soshiki de wa, hitori de kimeru koto wa dekimasen.",
+    "ta": "பெரிய அமைப்பில் ஒருவரே தனியாக முடிவெடுக்க முடியாது.",
+    "en": "In a big organization, one person can’t decide alone."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1383",
+  "expression": "代理",
+  "reading": "だいり",
+  "romaji": "dairi",
+  "en": "proxy, substitute",
+  "ta": "பதிலாள், பிரதிநிதி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "部長の代理で会議に出ました。",
+    "reading": "ぶちょうの だいりで かいぎに でました。",
+    "romaji": "buchou no dairi de kaigi ni demashita.",
+    "ta": "மேலாளருக்குப் பதிலாக நான் கூட்டத்தில் கலந்துகொண்டேன்.",
+    "en": "I attended the meeting in place of the manager."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1447",
+  "expression": "団体",
+  "reading": "だんたい",
+  "romaji": "dantai",
+  "en": "group, association",
+  "ta": "குழு, சங்கம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "団体で予約すると、料金が安くなります。",
+    "reading": "だんたいで よやく すると、りょうきんが やすく なります。",
+    "romaji": "dantai de yoyaku suru to, ryoukin ga yasuku narimasu.",
+    "ta": "குழுவாக முன்பதிவு செய்தால் கட்டணம் குறையும்.",
+    "en": "If you book as a group, the price is lower."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1448",
+  "expression": "担当",
+  "reading": "たんとう",
+  "romaji": "tantou",
+  "en": "being in charge",
+  "ta": "பொறுப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この仕事の担当は山田さんです。",
+    "reading": "この しごとの たんとうは やまださんです。",
+    "romaji": "kono shigoto no tantou wa yamada-san desu.",
+    "ta": "இந்த வேலைக்குப் பொறுப்பாளர் திரு. யமதா.",
+    "en": "Mr. Yamada is in charge of this job."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1510",
+  "expression": "就く",
+  "reading": "つく",
+  "romaji": "tsuku",
+  "en": "to take (a job or post)",
+  "ta": "(பணியில்) சேர",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "大学を出て、銀行の仕事に就きました。",
+    "reading": "だいがくを でて、ぎんこうの しごとに つきました。",
+    "romaji": "daigaku o dete, ginkou no shigoto ni tsukimashita.",
+    "ta": "பல்கலைக்கழகப் படிப்பை முடித்து வங்கி வேலையில் சேர்ந்தேன்.",
+    "en": "After university, I took a job at a bank."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1512",
+  "expression": "次ぐ",
+  "reading": "つぐ",
+  "romaji": "tsugu",
+  "en": "to rank next to, follow",
+  "ta": "அடுத்து வர",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "大阪は東京に次ぐ大きな町です。",
+    "reading": "おおさかは とうきょうに つぐ おおきな まちです。",
+    "romaji": "oosaka wa toukyou ni tsugu ookina machi desu.",
+    "ta": "டோக்கியோவுக்கு அடுத்த பெரிய நகரம் ஒசாகா.",
+    "en": "Osaka is the next biggest city after Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1530",
+  "expression": "詰める",
+  "reading": "つめる",
+  "romaji": "tsumeru",
+  "en": "to pack, fill",
+  "ta": "அடைக்க, நிரப்ப",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "箱に商品を詰めて、お客さんに送りました。",
+    "reading": "はこに しょうひんを つめて、おきゃくさんに おくりました。",
+    "romaji": "hako ni shouhin o tsumete, okyakusan ni okurimashita.",
+    "ta": "பெட்டியில் பொருட்களை அடைத்து வாடிக்கையாளருக்கு அனுப்பினோம்.",
+    "en": "We packed the goods in a box and sent them to the customer."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1560",
+  "expression": "徹底",
+  "reading": "てってい",
+  "romaji": "tettei",
+  "en": "thoroughness",
+  "ta": "முழுமையாகக் கடைப்பிடித்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "工場では安全の決まりを徹底しています。",
+    "reading": "こうじょうでは あんぜんの きまりを てってい して います。",
+    "romaji": "koujou de wa anzen no kimari o tettei shite imasu.",
+    "ta": "தொழிற்சாலையில் பாதுகாப்பு விதிகளை முழுமையாகக் கடைப்பிடிக்கிறார்கள்.",
+    "en": "The factory makes sure safety rules are followed fully."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1562",
+  "expression": "徹夜",
+  "reading": "てつや",
+  "romaji": "tetsuya",
+  "en": "staying up all night",
+  "ta": "இரவு முழுவதும் விழித்திருத்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "期限に間に合わせるため、徹夜で仕事をしました。",
+    "reading": "きげんに まにあわせる ため、てつやで しごとを しました。",
+    "romaji": "kigen ni maniawaseru tame, tetsuya de shigoto o shimashita.",
+    "ta": "காலக்கெடுவுக்குள் முடிக்க இரவு முழுவதும் விழித்திருந்து வேலை செய்தேன்.",
+    "en": "I worked all night to meet the deadline."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1563",
+  "expression": "手間",
+  "reading": "てま",
+  "romaji": "tema",
+  "en": "time and effort, trouble",
+  "ta": "சிரமம், உழைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この料理は手間がかかりますが、とてもおいしいです。",
+    "reading": "この りょうりは てまが かかりますが、とても おいしいです。",
+    "romaji": "kono ryouri wa tema ga kakarimasu ga, totemo oishii desu.",
+    "ta": "இந்த உணவைச் செய்ய அதிக சிரமம் ஆகும், ஆனால் மிகவும் சுவையானது.",
+    "en": "This dish takes a lot of effort, but it’s very tasty."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1588",
+  "expression": "同僚",
+  "reading": "どうりょう",
+  "romaji": "douryou",
+  "en": "colleague, co-worker",
+  "ta": "சக ஊழியர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "同僚のおかげで、仕事が早く終わりました。",
+    "reading": "どうりょうの おかげで、しごとが はやく おわりました。",
+    "romaji": "douryou no okage de, shigoto ga hayaku owarimashita.",
+    "ta": "சக ஊழியரின் உதவியால் வேலை சீக்கிரம் முடிந்தது.",
+    "en": "Thanks to my colleague, the work finished early."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1772",
+  "expression": "働き",
+  "reading": "はたらき",
+  "romaji": "hataraki",
+  "en": "work, efforts",
+  "ta": "உழைப்பு, செயல்பாடு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "彼の働きで、店の売り上げが増えました。",
+    "reading": "かれの はたらきで、みせの うりあげが ふえました。",
+    "romaji": "kare no hataraki de, mise no uriage ga fuemashita.",
+    "ta": "அவருடைய உழைப்பால் கடையின் விற்பனை அதிகரித்தது.",
+    "en": "Thanks to his efforts, the shop’s sales went up."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1968",
+  "expression": "任せる",
+  "reading": "まかせる",
+  "romaji": "makaseru",
+  "en": "to leave (a task) to someone",
+  "ta": "ஒப்படைக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "この仕事はあなたに任せます。",
+    "reading": "この しごとは あなたに まかせます。",
+    "romaji": "kono shigoto wa anata ni makasemasu.",
+    "ta": "இந்த வேலையை உங்களிடம் ஒப்படைக்கிறேன்.",
+    "en": "I’ll leave this job to you."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2022",
+  "expression": "上司",
+  "reading": "じょうし",
+  "romaji": "joushi",
+  "en": "boss, superior",
+  "ta": "மேலதிகாரி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "上司に相談してから、お返事します。",
+    "reading": "じょうしに そうだん してから、おへんじ します。",
+    "romaji": "joushi ni soudan shite kara, ohenji shimasu.",
+    "ta": "மேலதிகாரியிடம் கலந்தாலோசித்த பிறகு பதில் சொல்கிறேன்.",
+    "en": "I’ll give you an answer after I talk with my boss."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2036",
+  "expression": "正規",
+  "reading": "せいき",
+  "romaji": "seiki",
+  "en": "regular, official",
+  "ta": "முறையான, நிரந்தர",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "来年から正規の社員になれることになりました。",
+    "reading": "らいねんから せいきの しゃいんに なれる ことに なりました。",
+    "romaji": "rainen kara seiki no shain ni nareru koto ni narimashita.",
+    "ta": "அடுத்த ஆண்டு முதல் நிரந்தர ஊழியராக முடியும் என்று முடிவாகியுள்ளது.",
+    "en": "It’s been decided I can become a regular employee next year."
+   }
+  ]
+ }
+]

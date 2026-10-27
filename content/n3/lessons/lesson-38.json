@@ -1,0 +1,814 @@
+{
+ "lesson": 38,
+ "title": {
+  "ja": "感謝をこめて",
+  "ta": "நன்றியுடன்",
+  "en": "With gratitude"
+ },
+ "intro_en": "This lesson is about ceremonies and events: graduations, weddings, speeches and gifts. You learn 〜をはじめ (\"starting with\"), to name the main example first. You learn 〜をきっかけに (\"because of this chance\"), to say what started something. You learn 〜をこめて (\"with a feeling inside\"), for gifts and letters. You learn 〜に代わって (\"in place of\") and the formal \"in, at\" 〜において. Last, you learn the speech call 〜ようではないか (\"Let’s …!\").",
+ "intro_ta": "இந்தப் பாடம் விழாக்கள், நிகழ்வுகள் பற்றியது: பட்டமளிப்பு, திருமணம், உரைகள், பரிசுகள். முக்கிய உதாரணத்தை முதலில் சொல்லும் 〜をはじめ ('முதலாக'), ஒன்று தொடங்கக் காரணமான நிகழ்வைச் சொல்லும் 〜をきっかけに ('-ஐத் திருப்புமுனையாகக் கொண்டு'), பரிசுகளிலும் கடிதங்களிலும் உணர்வைச் சேர்க்கும் 〜をこめて ('-உடன்') ஆகியவற்றைக் கற்போம். 〜に代わって ('-க்குப் பதிலாக'), முறையான 'இல்' ஆகிய 〜において, உரைகளில் கேட்போரை ஊக்குவிக்கும் 〜ようではないか ('…வோம்!') ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g38-1",
+   "pattern": "N を はじめ(として)",
+   "name": {
+    "en": "Starting with N / including N",
+    "ta": "N முதலாக / N உட்பட"
+   },
+   "explanation_en": "Use this to name the most important or typical example first. Then you add a bigger group: 校長先生をはじめ、多くの先生方 (the principal and many other teachers). It is polite and a little formal, so it is common in speeches and guides. をはじめとして is a little more formal. Before a noun, use をはじめとする N. Compare など: など comes after the list; をはじめ puts the main item first.",
+   "explanation_ta": "மிக முக்கியமான அல்லது சிறந்த உதாரணத்தை முதலில் சொல்லி, பின் பெரிய குழுவைக் குறிப்பிட இது பயன்படும்: 校長先生をはじめ、多くの先生方 = தலைமையாசிரியர் முதலாக பல ஆசிரியர்கள். தமிழில் 'X முதல் ...வரை', 'X உட்படப் பலர்' என்பது போல. விழா உரைகள், சுற்றுலா வழிகாட்டிகளில் அதிகம் வரும். をはじめとして இன்னும் முறையானது. பெயர்ச்சொல்லுக்கு முன் をはじめとする N. など பட்டியலுக்குப் பின் வரும்; をはじめ முக்கியமானதை முதலில் வைக்கும்.",
+   "tamil_parallel": "தலைமையாசிரியர் உட்படப் பல ஆசிரியர்கள் = 校長先生をはじめ、多くの先生方",
+   "tamil_parallel_en": "தலைமையாசிரியர் உட்படப் பல ஆசிரியர்கள் (the principal and many teachers) = 校長先生をはじめ、多くの先生方",
+   "formation": "பெயர்ச்சொல் + をはじめ(として)、+ பெரிய குழு\nபெயர்ச்சொல் + をはじめとする + பெயர்ச்சொல்",
+   "formation_en": "noun + をはじめ(として)、+ the bigger group\nnoun + をはじめとする + noun",
+   "examples": [
+    {
+     "ja": "東京をはじめ、日本の大きな町には外国人が多いです。",
+     "reading": "とうきょうを はじめ、にほんの おおきな まちには がいこくじんが おおいです。",
+     "romaji": "toukyou o hajime, nihon no ookina machi ni wa gaikokujin ga ooi desu.",
+     "ta": "டோக்கியோ முதலாக ஜப்பானின் பெரிய நகரங்களில் வெளிநாட்டினர் அதிகம்.",
+     "en": "Big Japanese cities, starting with Tokyo, have many foreigners."
+    },
+    {
+     "ja": "式には、校長先生をはじめ、多くの先生方が出席されました。",
+     "reading": "しきには、こうちょう せんせいを はじめ、おおくの せんせいがたが しゅっせき されました。",
+     "romaji": "shiki ni wa, kouchou sensei o hajime, ooku no senseigata ga shusseki saremashita.",
+     "ta": "விழாவில் தலைமையாசிரியர் உட்படப் பல ஆசிரியர்கள் கலந்துகொண்டனர்.",
+     "en": "The principal and many other teachers attended the ceremony."
+    },
+    {
+     "ja": "社長をはじめとして、社員全員が新年会に参加しました。",
+     "reading": "しゃちょうを はじめと して、しゃいん ぜんいんが しんねんかいに さんか しました。",
+     "romaji": "shachou o hajime to shite, shain zen'in ga shinnenkai ni sanka shimashita.",
+     "ta": "நிறுவனத் தலைவர் முதல் எல்லா ஊழியர்களும் புத்தாண்டு விருந்தில் கலந்துகொண்டனர்.",
+     "en": "Everyone, from the company president down, came to the New Year party."
+    },
+    {
+     "ja": "チェンナイには、ドーサをはじめ、おいしい料理がたくさんあります。",
+     "reading": "チェンナイには、ドーサを はじめ、おいしい りょうりが たくさん あります。",
+     "romaji": "chennai ni wa, doosa o hajime, oishii ryouri ga takusan arimasu.",
+     "ta": "சென்னையில் தோசை முதலாகப் பல சுவையான உணவுகள் உள்ளன.",
+     "en": "Chennai has lots of tasty food, starting with dosa."
+    },
+    {
+     "ja": "両親をはじめ、応援してくれた皆さんに感謝しています。",
+     "reading": "りょうしんを はじめ、おうえん して くれた みなさんに かんしゃ して います。",
+     "romaji": "ryoushin o hajime, ouen shite kureta minasan ni kansha shite imasu.",
+     "ta": "என் பெற்றோர் உட்பட எனக்கு ஆதரவு தந்த அனைவருக்கும் நன்றி.",
+     "en": "I thank everyone who supported me, above all my parents."
+    },
+    {
+     "ja": "京都には、金閣寺をはじめとする有名なお寺がたくさんあります。",
+     "reading": "きょうとには、きんかくじを はじめと する ゆうめいな おてらが たくさん あります。",
+     "romaji": "kyouto ni wa, kinkakuji o hajime to suru yuumei na otera ga takusan arimasu.",
+     "ta": "க்யோட்டோவில் கின்காகுஜி முதலான பல புகழ்பெற்ற கோயில்கள் உள்ளன.",
+     "en": "Kyoto has many famous temples, such as Kinkakuji."
+    }
+   ],
+   "pitfalls_en": "Put the most important or best-known item first. Don’t use it for just one item with nothing after it. Also, the particle is を: 東京がはじめ is wrong.",
+   "pitfalls_ta": "முக்கியமான அல்லது பிரபலமானதையே முதலில் வைக்க வேண்டும்; பின்னால் ஒரு பெரிய குழு வர வேண்டும். துகள் を தான்: 東京がはじめ தவறு."
+  },
+  {
+   "id": "g38-2",
+   "pattern": "N を きっかけに",
+   "name": {
+    "en": "Taking N as a chance / triggered by N",
+    "ta": "N-ஐத் திருப்புமுனையாகக் கொண்டு"
+   },
+   "explanation_en": "This shows the event that started a change or a new action. 留学をきっかけに、日本の文化に興味を持った means studying abroad started my interest in Japanese culture. You can also say がきっかけで, or the formal を契機に. The result is usually a new habit, decision or relationship. It is about a starting point, not only a reason. For a plain reason, use ので or から.",
+   "explanation_ta": "ஒரு மாற்றம் அல்லது புதிய செயல் தொடங்கக் காரணமாக அமைந்த நிகழ்வைக் காட்டும். 留学をきっかけに、日本の文化に興味を持った = வெளிநாட்டுப் படிப்பே ஜப்பானியப் பண்பாட்டில் ஆர்வம் வர வழிவகுத்தது. がきっかけで என்றும், முறையாக を契機に என்றும் சொல்லலாம். விளைவு பொதுவாக ஒரு புதிய பழக்கம், முடிவு அல்லது உறவு. இது 'தொடக்கப்புள்ளி'யைக் காட்டுகிறது; வெறும் காரணத்துக்கு ので / から போதும்.",
+   "tamil_parallel": "நோயே திருப்புமுனையாக, தினமும் நடக்கத் தொடங்கினேன் = 病気をきっかけに、毎日歩くようになりました",
+   "tamil_parallel_en": "நோயே திருப்புமுனையாக, தினமும் நடக்கத் தொடங்கினேன் (my illness got me walking every day) = 病気をきっかけに、毎日歩くようになりました",
+   "formation": "பெயர்ச்சொல் + をきっかけに(して)、+ புதிய மாற்றம்\nபெயர்ச்சொல் + がきっかけで、+ புதிய மாற்றம்",
+   "formation_en": "noun + をきっかけに(して)、+ the new change\nnoun + がきっかけで、+ the new change",
+   "examples": [
+    {
+     "ja": "留学をきっかけに、日本の文化に興味を持ちました。",
+     "reading": "りゅうがくを きっかけに、にほんの ぶんかに きょうみを もちました。",
+     "romaji": "ryuugaku o kikkake ni, nihon no bunka ni kyoumi o mochimashita.",
+     "ta": "வெளிநாட்டுப் படிப்பால் ஜப்பானியப் பண்பாட்டில் ஆர்வம் வந்தது.",
+     "en": "Studying abroad got me interested in Japanese culture."
+    },
+    {
+     "ja": "友達の結婚式をきっかけに、二人は出会いました。",
+     "reading": "ともだちの けっこんしきを きっかけに、ふたりは であいました。",
+     "romaji": "tomodachi no kekkonshiki o kikkake ni, futari wa deaimashita.",
+     "ta": "நண்பரின் திருமணமே அந்த இருவரும் சந்திக்க வழிவகுத்தது.",
+     "en": "The two of them met at a friend’s wedding."
+    },
+    {
+     "ja": "病気をきっかけにして、毎日歩くようになりました。",
+     "reading": "びょうきを きっかけに して、まいにち あるく ように なりました。",
+     "romaji": "byouki o kikkake ni shite, mainichi aruku you ni narimashita.",
+     "ta": "நோய் வந்த பிறகு, அதைத் திருப்புமுனையாகக் கொண்டு தினமும் நடக்கத் தொடங்கினேன்.",
+     "en": "My illness got me walking every day."
+    },
+    {
+     "ja": "あの講演がきっかけで、医者になろうと決めました。",
+     "reading": "あの こうえんが きっかけで、いしゃに なろうと きめました。",
+     "romaji": "ano kouen ga kikkake de, isha ni narou to kimemashita.",
+     "ta": "அந்தச் சொற்பொழிவே நான் மருத்துவராக முடிவெடுக்கக் காரணம்.",
+     "en": "That lecture made me decide to become a doctor."
+    },
+    {
+     "ja": "何をきっかけに、日本語の勉強を始めたんですか。",
+     "reading": "なにを きっかけに、にほんごの べんきょうを はじめたんですか。",
+     "romaji": "nani o kikkake ni, nihongo no benkyou o hajimeta n desu ka.",
+     "ta": "எதனால் ஜப்பானிய மொழி படிக்கத் தொடங்கினீர்கள்?",
+     "en": "What got you started studying Japanese?"
+    },
+    {
+     "ja": "大会での優勝をきっかけに、町の人たちの応援が増えました。",
+     "reading": "たいかいでの ゆうしょうを きっかけに、まちの ひとたちの おうえんが ふえました。",
+     "romaji": "taikai de no yuushou o kikkake ni, machi no hitotachi no ouen ga fuemashita.",
+     "ta": "போட்டியில் வென்ற பிறகு ஊர் மக்களின் ஆதரவு அதிகரித்தது.",
+     "en": "After we won the tournament, support from the town grew."
+    }
+   ],
+   "pitfalls_en": "Don’t use it for a simple, fixed reason: 雨をきっかけに、傘を持って行った sounds odd. Use 雨なので. きっかけ is for an event that starts something new.",
+   "pitfalls_ta": "சாதாரண காரணத்துக்கு இது பொருந்தாது: 雨をきっかけに、傘を持って行った விசித்திரமாக ஒலிக்கும்; 雨なので சரி. ஏதாவது புதிதாகத் தொடங்கக் காரணமான நிகழ்வுக்கே きっかけ."
+  },
+  {
+   "id": "g38-3",
+   "pattern": "N を こめて",
+   "name": {
+    "en": "With (a feeling) put into it",
+    "ta": "N நிறைந்த மனதுடன்"
+   },
+   "explanation_en": "こめる (込める) means \"to put in, to fill\". をこめて means you put a feeling into something you make or give. Common words: 心をこめて (with all your heart), 感謝をこめて, 愛をこめて, 願いをこめて. It goes with actions like writing, cooking, singing or giving gifts. Before a noun, use をこめた N: 感謝をこめた手紙.",
+   "explanation_ta": "こめる (込める) = உள்ளே நிரப்புதல். をこめて என்றால் நீங்கள் செய்யும் அல்லது கொடுக்கும் பொருளில் ஒரு உணர்வை நிரப்புவது. 心をこめて (முழு மனதுடன்), 感謝をこめて (நன்றியுடன்), 愛をこめて (அன்புடன்), 願いをこめて (வேண்டுதலுடன்) அதிகம் வரும். தமிழில் '-உடன்', 'நிறைந்த' என்பது போல. எழுதுதல், சமைத்தல், பாடுதல், பரிசளித்தல் போன்ற செயல்களுடன் வரும். பெயர்ச்சொல்லுக்கு முன் をこめた N: 感謝をこめた手紙.",
+   "tamil_parallel": "நன்றியுடன் கடிதம் எழுதினேன் = 感謝をこめて手紙を書きました",
+   "tamil_parallel_en": "நன்றியுடன் கடிதம் எழுதினேன் (I wrote a letter full of thanks) = 感謝をこめて手紙を書きました",
+   "formation": "உணர்வுப் பெயர்ச்சொல் + をこめて + வினை\nஉணர்வுப் பெயர்ச்சொல் + をこめた + பெயர்ச்சொல்",
+   "formation_en": "feeling noun + をこめて + verb\nfeeling noun + をこめた + noun",
+   "examples": [
+    {
+     "ja": "感謝の気持ちをこめて、手紙を書きました。",
+     "reading": "かんしゃの きもちを こめて、てがみを かきました。",
+     "romaji": "kansha no kimochi o komete, tegami o kakimashita.",
+     "ta": "நன்றி உணர்வுடன் ஒரு கடிதம் எழுதினேன்.",
+     "en": "I wrote a letter full of thanks."
+    },
+    {
+     "ja": "母のために、心をこめて料理を作りました。",
+     "reading": "ははの ために、こころを こめて りょうりを つくりました。",
+     "romaji": "haha no tame ni, kokoro o komete ryouri o tsukurimashita.",
+     "ta": "அம்மாவுக்காக முழு மனதுடன் சமைத்தேன்.",
+     "en": "I cooked for my mother with all my heart."
+    },
+    {
+     "ja": "平和への願いをこめて、鶴を折りました。",
+     "reading": "へいわへの ねがいを こめて、つるを おりました。",
+     "romaji": "heiwa e no negai o komete, tsuru o orimashita.",
+     "ta": "அமைதிக்கான வேண்டுதலுடன் காகிதக் கொக்குகளை மடித்தோம்.",
+     "en": "We folded paper cranes with a wish for peace."
+    },
+    {
+     "ja": "愛をこめて、この歌を歌います。",
+     "reading": "あいを こめて、この うたを うたいます。",
+     "romaji": "ai o komete, kono uta o utaimasu.",
+     "ta": "அன்புடன் இந்தப் பாடலைப் பாடுகிறேன்.",
+     "en": "I’ll sing this song with love."
+    },
+    {
+     "ja": "先生への感謝をこめた花束を贈りました。",
+     "reading": "せんせいへの かんしゃを こめた はなたばを おくりました。",
+     "romaji": "sensei e no kansha o kometa hanataba o okurimashita.",
+     "ta": "ஆசிரியருக்கு நன்றி நிறைந்த ஒரு பூங்கொத்தைப் பரிசளித்தோம்.",
+     "en": "We gave our teacher a bouquet full of thanks."
+    },
+    {
+     "ja": "心をこめて書いたスピーチは、きっと相手に伝わりますよ。",
+     "reading": "こころを こめて かいた スピーチは、きっと あいてに つたわりますよ。",
+     "romaji": "kokoro o komete kaita supiichi wa, kitto aite ni tsutawarimasu yo.",
+     "ta": "முழு மனதுடன் எழுதிய உரை நிச்சயம் கேட்பவர் மனதைத் தொடும்.",
+     "en": "A speech written from the heart will surely reach your listeners."
+    }
+   ],
+   "pitfalls_en": "Use it with feelings (心, 感謝, 愛, 願い), not with things: 砂糖をこめてケーキを作る is wrong. Use 砂糖を入れて.",
+   "pitfalls_ta": "உணர்வுகளுடன் மட்டும் (心, 感謝, 愛, 願い); பொருள்களுடன் அல்ல: 砂糖をこめてケーキを作る தவறு; 砂糖を入れて சரி."
+  },
+  {
+   "id": "g38-4",
+   "pattern": "N に 代わって / N に 代わり",
+   "name": {
+    "en": "In place of N / on behalf of N",
+    "ta": "N-க்குப் பதிலாக / N சார்பாக"
+   },
+   "explanation_en": "This has two uses. 1) Someone does a job in place of another person: 社長に代わって、私がご挨拶します (I’ll greet you on behalf of the president). 2) Something new replaces something old: 手紙に代わってメール (email instead of letters). に代わり is the same but more formal and written. Compare かわりに (lesson 14): it is more casual and also means \"in exchange\".",
+   "explanation_ta": "இரண்டு பயன்கள். 1) ஒருவருக்குப் பதிலாக இன்னொருவர் ஒரு வேலையைச் செய்வது: 社長に代わって、私がご挨拶します = தலைவர் சார்பாக நான் வாழ்த்துரை கூறுகிறேன். 2) பழையதற்குப் பதிலாகப் புதியது வருவது: 手紙に代わってメール = கடிதத்துக்குப் பதிலாக மின்னஞ்சல். தமிழில் '-க்குப் பதிலாக', '-இன் சார்பாக'. に代わり இன்னும் முறையானது, எழுத்தில் வரும். பாடம் 14-இல் கற்ற かわりに அன்றாடப் பேச்சுக்கு உரியது; அதற்கு 'ஈடாக' என்ற பொருளும் உண்டு.",
+   "tamil_parallel": "தலைவர் சார்பாக நான் பேசுகிறேன் = 社長に代わって、私が話します",
+   "tamil_parallel_en": "தலைவர் சார்பாக நான் பேசுகிறேன் (I speak on behalf of the president) = 社長に代わって、私が話します",
+   "formation": "பெயர்ச்சொல் + に代わって、+ செயல்\nபெயர்ச்சொல் + に代わり、+ செயல் (முறையானது)",
+   "formation_en": "noun + に代わって、+ action\nnoun + に代わり、+ action (more formal)",
+   "examples": [
+    {
+     "ja": "社長に代わって、私がご挨拶申し上げます。",
+     "reading": "しゃちょうに かわって、わたしが ごあいさつ もうしあげます。",
+     "romaji": "shachou ni kawatte, watashi ga goaisatsu moushiagemasu.",
+     "ta": "தலைவர் சார்பாக நான் வாழ்த்துரை கூறுகிறேன்.",
+     "en": "I will give the greeting on behalf of the president."
+    },
+    {
+     "ja": "病気の父に代わって、兄が式に出席しました。",
+     "reading": "びょうきの ちちに かわって、あにが しきに しゅっせき しました。",
+     "romaji": "byouki no chichi ni kawatte, ani ga shiki ni shusseki shimashita.",
+     "ta": "நோயுற்ற அப்பாவுக்குப் பதிலாக அண்ணன் விழாவில் கலந்துகொண்டார்.",
+     "en": "My brother went to the ceremony in place of our sick father."
+    },
+    {
+     "ja": "最近は、手紙に代わってメールで連絡する人が増えました。",
+     "reading": "さいきんは、てがみに かわって メールで れんらく する ひとが ふえました。",
+     "romaji": "saikin wa, tegami ni kawatte meeru de renraku suru hito ga fuemashita.",
+     "ta": "சமீபத்தில் கடிதத்துக்குப் பதிலாக மின்னஞ்சலில் தொடர்புகொள்பவர்கள் அதிகரித்துள்ளனர்.",
+     "en": "These days more people use email instead of letters."
+    },
+    {
+     "ja": "会長に代わり、副会長が賞を受け取りました。",
+     "reading": "かいちょうに かわり、ふくかいちょうが しょうを うけとりました。",
+     "romaji": "kaichou ni kawari, fukukaichou ga shou o uketorimashita.",
+     "ta": "தலைவருக்குப் பதிலாகத் துணைத் தலைவர் விருதைப் பெற்றுக்கொண்டார்.",
+     "en": "The vice-chair received the award on behalf of the chair."
+    },
+    {
+     "ja": "皆さんに代わって、お礼を言わせてください。",
+     "reading": "みなさんに かわって、おれいを いわせて ください。",
+     "romaji": "minasan ni kawatte, orei o iwasete kudasai.",
+     "ta": "உங்கள் அனைவரின் சார்பாக நான் நன்றி சொல்ல அனுமதியுங்கள்.",
+     "en": "Let me say thank you on behalf of everyone."
+    },
+    {
+     "ja": "今日は、田中先生に代わって私が授業をします。",
+     "reading": "きょうは、たなか せんせいに かわって わたしが じゅぎょうを します。",
+     "romaji": "kyou wa, tanaka sensei ni kawatte watashi ga jugyou o shimasu.",
+     "ta": "இன்று தனகா ஆசிரியருக்குப் பதிலாக நான் பாடம் நடத்துகிறேன்.",
+     "en": "Today I’ll teach the class in place of Mr Tanaka."
+    }
+   ],
+   "pitfalls_en": "The particle is に: 父に代わって. 父を代わって is wrong. Don’t confuse it with 父の代わりに, which is the casual way to say the same thing.",
+   "pitfalls_ta": "துகள் に தான்: 父に代わって; 父を代わって தவறு. அன்றாடப் பேச்சில் இதே பொருளுக்கு 父の代わりに என்று சொல்லலாம்; இரண்டின் அமைப்பும் வேறு."
+  },
+  {
+   "id": "g38-5",
+   "pattern": "N に おいて / N に おける N",
+   "name": {
+    "en": "In / at N (formal place or field)",
+    "ta": "N-இல் (முறையானது)"
+   },
+   "explanation_en": "This is a formal way to say で (in, at). Use it for a place, a time or a field: ホールにおいて行われます (it will be held in the hall). You see it in notices, news, speeches and reports. In daily talk, just use で. Before a noun, use における: 現代社会における問題 (problems in modern society).",
+   "explanation_ta": "இது で (இல்) என்பதன் முறையான வடிவம். இடம், காலம், துறை ஆகியவற்றுக்கு வரும்: ホールにおいて行われます = அரங்கில் நடைபெறும். அறிவிப்புகள், செய்திகள், உரைகள், அறிக்கைகளில் வரும். தமிழில் '-இல்' என்பதை மேடைத் தமிழில் 'அரங்கில் நடைபெறும்' என்று சொல்வது போல. அன்றாடப் பேச்சில் で போதும். பெயர்ச்சொல்லுக்கு முன் における: 現代社会における問題 = நவீன சமூகத்திலுள்ள பிரச்சினைகள்.",
+   "tamil_parallel": "விழா நகர அரங்கில் நடைபெறும் = 式は市民ホールにおいて行われます",
+   "tamil_parallel_en": "விழா நகர அரங்கில் நடைபெறும் (the ceremony will be held in the city hall) = 式は市民ホールにおいて行われます",
+   "formation": "பெயர்ச்சொல் (இடம் / காலம் / துறை) + において + வினை\nபெயர்ச்சொல் + における + பெயர்ச்சொல்",
+   "formation_en": "noun (place / time / field) + において + verb\nnoun + における + noun",
+   "examples": [
+    {
+     "ja": "卒業式は、市民ホールにおいて行われます。",
+     "reading": "そつぎょうしきは、しみん ホールに おいて おこなわれます。",
+     "romaji": "sotsugyoushiki wa, shimin hooru ni oite okonawaremasu.",
+     "ta": "பட்டமளிப்பு விழா நகர அரங்கில் நடைபெறும்.",
+     "en": "The graduation ceremony will be held in the city hall."
+    },
+    {
+     "ja": "彼は医学の分野において、大きな貢献をしました。",
+     "reading": "かれは いがくの ぶんやに おいて、おおきな こうけんを しました。",
+     "romaji": "kare wa igaku no bun'ya ni oite, ookina kouken o shimashita.",
+     "ta": "அவர் மருத்துவத் துறையில் பெரும் பங்களிப்பு செய்தார்.",
+     "en": "He made a great contribution in the field of medicine."
+    },
+    {
+     "ja": "現代社会における問題について、話し合いましょう。",
+     "reading": "げんだい しゃかいに おける もんだいに ついて、はなしあいましょう。",
+     "romaji": "gendai shakai ni okeru mondai ni tsuite, hanashiaimashou.",
+     "ta": "நவீன சமூகத்திலுள்ள பிரச்சினைகள் பற்றி விவாதிப்போம்.",
+     "en": "Let’s discuss problems in modern society."
+    },
+    {
+     "ja": "今回の大会において、日本のチームは三位でした。",
+     "reading": "こんかいの たいかいに おいて、にほんの チームは さんいでした。",
+     "romaji": "konkai no taikai ni oite, nihon no chiimu wa san'i deshita.",
+     "ta": "இந்த முறை போட்டியில் ஜப்பானிய அணி மூன்றாம் இடம் பெற்றது.",
+     "en": "In this tournament, the Japanese team came third."
+    },
+    {
+     "ja": "学校における事故は、すぐに報告してください。",
+     "reading": "がっこうに おける じこは、すぐに ほうこく して ください。",
+     "romaji": "gakkou ni okeru jiko wa, sugu ni houkoku shite kudasai.",
+     "ta": "பள்ளியில் நடக்கும் விபத்துகளை உடனே தெரிவியுங்கள்.",
+     "en": "Please report any accident at school right away."
+    },
+    {
+     "ja": "この発見は、科学の歴史において、とても重要です。",
+     "reading": "この はっけんは、かがくの れきしに おいて、とても じゅうようです。",
+     "romaji": "kono hakken wa, kagaku no rekishi ni oite, totemo juuyou desu.",
+     "ta": "இந்தக் கண்டுபிடிப்பு அறிவியல் வரலாற்றில் மிக முக்கியமானது.",
+     "en": "This discovery is very important in the history of science."
+    }
+   ],
+   "pitfalls_en": "It sounds very stiff in daily talk: 家において晩ご飯を食べた is strange. Say 家で. Also, before a noun use における, not において: 学校において事故 is wrong.",
+   "pitfalls_ta": "அன்றாடப் பேச்சில் இது மிகவும் கடினமாக ஒலிக்கும்: 家において晩ご飯を食べた விசித்திரம்; 家で சரி. பெயர்ச்சொல்லுக்கு முன் における வேண்டும்: 学校において事故 தவறு."
+  },
+  {
+   "id": "g38-6",
+   "pattern": "V-よう では ないか / V-よう じゃ ないか",
+   "name": {
+    "en": "Let’s ~ (rallying call in speeches)",
+    "ta": "…வோம்! (உரையில் அழைப்பு)"
+   },
+   "explanation_en": "Add ではないか to the \"let’s\" form (volitional, 守ろう, 頑張ろう). It is a strong call to a group: \"Come on, let’s …!\" Leaders use it in speeches. ではありませんか is the polite version. じゃないか is spoken and sounds a bit manly or bold. It is not a question, so say it with a falling tone. Compare ましょう: ましょう is a normal invitation; ようではないか is a strong, public call.",
+   "explanation_ta": "'…வோம்' வடிவத்துக்கு (volitional: 守ろう, 頑張ろう) ではないか சேர்த்தால், ஒரு குழுவை உற்சாகமாக அழைக்கும் உரை வடிவம் கிடைக்கும்: 'வாருங்கள், …வோம்!'. தலைவர்கள், மேடைப் பேச்சாளர்கள் பயன்படுத்துவர். மரியாதை வடிவம் ではありませんか. じゃないか பேச்சு வடிவம், சற்றுத் துணிச்சலாக ஒலிக்கும். இது கேள்வி அல்ல; இறங்கு தொனியில் சொல்ல வேண்டும். ましょう சாதாரண அழைப்பு; ようではないか மேடையில் விடுக்கும் வலுவான அழைப்பு.",
+   "tamil_parallel": "எல்லோரும் சேர்ந்து இந்த ஊரைக் காப்போம்! = みんなでこの町を守ろうではないか",
+   "tamil_parallel_en": "எல்லோரும் சேர்ந்து இந்த ஊரைக் காப்போம்! (Let’s all protect this town!) = みんなでこの町を守ろうではないか",
+   "formation": "வினை (volitional: -よう / -おう) + ではないか\nமரியாதை: + ではありませんか\nபேச்சு: + じゃないか",
+   "formation_en": "verb (volitional: -よう / -おう) + ではないか\npolite: + ではありませんか\nspoken: + じゃないか",
+   "examples": [
+    {
+     "ja": "みんなで力を合わせて、この町を守ろうではないか。",
+     "reading": "みんなで ちからを あわせて、この まちを まもろうでは ないか。",
+     "romaji": "minna de chikara o awasete, kono machi o mamorou de wa nai ka.",
+     "ta": "எல்லோரும் ஒன்றுசேர்ந்து இந்த ஊரைக் காப்போம்!",
+     "en": "Let’s all join forces and protect this town!"
+    },
+    {
+     "ja": "最後まであきらめずに、戦おうではありませんか。",
+     "reading": "さいごまで あきらめずに、たたかおうでは ありませんか。",
+     "romaji": "saigo made akiramezu ni, tatakaou de wa arimasen ka.",
+     "ta": "கடைசி வரை விட்டுக்கொடுக்காமல் போராடுவோம்!",
+     "en": "Let us fight to the end without giving up!"
+    },
+    {
+     "ja": "今年こそ、大会で優勝しようじゃないか。",
+     "reading": "ことしこそ、たいかいで ゆうしょう しようじゃ ないか。",
+     "romaji": "kotoshi koso, taikai de yuushou shiyou ja nai ka.",
+     "ta": "இந்த ஆண்டாவது போட்டியில் வெல்வோம்!",
+     "en": "This year, let’s win the tournament!"
+    },
+    {
+     "ja": "困っている人たちを、みんなで支えようではないか。",
+     "reading": "こまって いる ひとたちを、みんなで ささえようでは ないか。",
+     "romaji": "komatte iru hitotachi o, minna de sasaeyou de wa nai ka.",
+     "ta": "சிரமப்படுபவர்களை எல்லோரும் சேர்ந்து தாங்குவோம்!",
+     "en": "Let’s all support the people in need!"
+    },
+    {
+     "ja": "若い人の意見も、聞いてみようではないか。",
+     "reading": "わかい ひとの いけんも、きいて みようでは ないか。",
+     "romaji": "wakai hito no iken mo, kiite miyou de wa nai ka.",
+     "ta": "இளைஞர்களின் கருத்தையும் கேட்டுப் பார்ப்போம்!",
+     "en": "Let’s listen to young people’s opinions too!"
+    },
+    {
+     "ja": "新しい年を、笑顔で迎えようではありませんか。",
+     "reading": "あたらしい としを、えがおで むかえようでは ありませんか。",
+     "romaji": "atarashii toshi o, egao de mukaeyou de wa arimasen ka.",
+     "ta": "புதிய ஆண்டைப் புன்னகையுடன் வரவேற்போம்!",
+     "en": "Let us welcome the new year with smiles!"
+    }
+   ],
+   "pitfalls_en": "Use the volitional form, not the dictionary form: 守るではないか is wrong. Don’t confuse it with のではないか (lesson 22), which means \"isn’t it maybe …?\". Don’t use it to invite one friend to lunch; say 行きましょう.",
+   "pitfalls_ta": "அகராதி வடிவம் அல்ல, volitional வடிவம் வேண்டும்: 守るではないか தவறு. பாடம் 22-இல் கற்ற のではないか ('…அல்லவா?' என்ற ஊகம்) வேறு. ஒரு நண்பரை மதிய உணவுக்கு அழைக்க இது வேண்டாம்; 行きましょう போதும்."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0119",
+  "n3-v-0241",
+  "n3-v-0302",
+  "n3-v-0311",
+  "n3-v-0317",
+  "n3-v-0319",
+  "n3-v-0439",
+  "n3-v-0468",
+  "n3-v-0482",
+  "n3-v-0484",
+  "n3-v-0490",
+  "n3-v-0502",
+  "n3-v-0558",
+  "n3-v-0604",
+  "n3-v-0661",
+  "n3-v-0669",
+  "n3-v-0673",
+  "n3-v-0719",
+  "n3-v-0722",
+  "n3-v-0780",
+  "n3-v-0803",
+  "n3-v-0878",
+  "n3-v-0889",
+  "n3-v-0963",
+  "n3-v-0983",
+  "n3-v-1012",
+  "n3-v-1182",
+  "n3-v-1189",
+  "n3-v-1211",
+  "n3-v-1225",
+  "n3-v-1228",
+  "n3-v-1272",
+  "n3-v-1311",
+  "n3-v-1359",
+  "n3-v-1375",
+  "n3-v-1421",
+  "n3-v-1471",
+  "n3-v-1519",
+  "n3-v-1539",
+  "n3-v-1543",
+  "n3-v-1717",
+  "n3-v-1910",
+  "n3-v-1937",
+  "n3-v-1997",
+  "n3-v-2098",
+  "n3-v-2105"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L38-q01",
+    "type": "kanji_reading",
+    "sentence": "皆様の ご支援に 心から ＿感謝＿ いたします。",
+    "target": "感謝",
+    "options": [
+     "かんしゃ",
+     "かんじゃ",
+     "がんしゃ",
+     "かんさ"
+    ],
+    "answer": 0,
+    "explanation_ta": "感謝 = かんしゃ (நன்றி). かんじゃ என்பது 患者 (நோயாளி) — ஒலி ஒத்தாலும் வேறு சொல்.",
+    "explanation_en": "感謝 is read かんしゃ (thanks). かんじゃ is 患者 (patient), a different word."
+   },
+   {
+    "id": "L38-q02",
+    "type": "kanji_reading",
+    "sentence": "来週、留学生の ＿歓迎＿会を 開きます。",
+    "target": "歓迎",
+    "options": [
+     "かんけい",
+     "かんげい",
+     "がんげい",
+     "かんげ"
+    ],
+    "answer": 1,
+    "explanation_ta": "歓迎 = かんげい (வரவேற்பு). 迎 'げい' (迎える = むかえる). かんけい என்பது 関係 (தொடர்பு).",
+    "explanation_en": "歓迎 is read かんげい (welcome). 迎 is げい here. かんけい is 関係 (relation)."
+   },
+   {
+    "id": "L38-q03",
+    "type": "kanji_reading",
+    "sentence": "卒業の ＿記念＿に、学校に 木を 植えました。",
+    "target": "記念",
+    "options": [
+     "きえん",
+     "きねい",
+     "ぎねん",
+     "きねん"
+    ],
+    "answer": 3,
+    "explanation_ta": "記念 = きねん (நினைவு). 念 'ねん'. ぎねん, きねい தவறான வாசிப்புகள்.",
+    "explanation_en": "記念 is read きねん (memory, commemoration). 念 is ねん. ぎねん and きねい are wrong."
+   },
+   {
+    "id": "L38-q04",
+    "type": "orthography",
+    "sentence": "来月、市の マラソン ＿たいかい＿に 出ます。",
+    "target": "たいかい",
+    "options": [
+     "代会",
+     "対会",
+     "大会",
+     "大回"
+    ],
+    "answer": 2,
+    "explanation_ta": "たいかい = 大会 (பெரிய போட்டி / மாநாடு): 大 (பெரிய) + 会 (கூட்டம்). 代, 対 ஒலியில் ஒத்தாலும் பொருள் வேறு; 回 = முறை.",
+    "explanation_en": "たいかい is 大会 (big event): 大 (big) + 会 (meeting). 代 and 対 sound the same but are wrong. 回 means \"times\"."
+   },
+   {
+    "id": "L38-q05",
+    "type": "orthography",
+    "sentence": "毎年、地元の お寺に ＿きふ＿を して います。",
+    "target": "きふ",
+    "options": [
+     "寄付",
+     "記付",
+     "寄府",
+     "奇付"
+    ],
+    "answer": 0,
+    "explanation_ta": "きふ = 寄付 (நன்கொடை): 寄 (கொடுத்துச் சேர்ப்பது) + 付 (சேர்த்தல்). 記, 奇, 府 ஒலியில் ஒத்தவை, ஆனால் தவறு.",
+    "explanation_en": "きふ is 寄付 (donation). 記, 奇 and 府 sound similar but are wrong."
+   },
+   {
+    "id": "L38-q06",
+    "type": "vocab_context",
+    "sentence": "卒業式の あと、学生たちは 先生と （　　）を しました。",
+    "options": [
+     "応援",
+     "握手",
+     "寄付",
+     "訪問"
+    ],
+    "answer": 1,
+    "explanation_ta": "'ஆசிரியருடன் கைகுலுக்கினார்கள்' = 先生と握手をした. 応援 = உற்சாகமூட்டல் (と உடன் பொருந்தாது), 訪問 = வருகை.",
+    "explanation_en": "\"They shook hands with the teacher\" = 先生と握手をした. 応援 is cheering. 訪問 is a visit. They don’t fit with と here."
+   },
+   {
+    "id": "L38-q07",
+    "type": "vocab_context",
+    "sentence": "この レストランは 静かで、（　　）が とても いいです。",
+    "options": [
+     "気分",
+     "天気",
+     "元気",
+     "雰囲気"
+    ],
+    "answer": 3,
+    "explanation_ta": "ஒரு இடத்தின் 'சூழல்' = 雰囲気. 気分 = ஒருவரின் மனநிலை; ஒரு உணவகத்துக்குப் பயன்படுத்துவதில்லை.",
+    "explanation_en": "The mood of a place = 雰囲気 (atmosphere). 気分 is how a person feels, not a place."
+   },
+   {
+    "id": "L38-q08",
+    "type": "vocab_context",
+    "sentence": "レポートは 金曜日までに 先生に （　　）して ください。",
+    "options": [
+     "開始",
+     "代表",
+     "提出",
+     "記念"
+    ],
+    "answer": 2,
+    "explanation_ta": "அறிக்கையைச் சமர்ப்பிப்பது = 提出する. 開始 = தொடக்கம், 代表 = பிரதிநிதி, 記念 = நினைவு.",
+    "explanation_en": "Handing in a report = 提出する. 開始 = start, 代表 = representative, 記念 = memory."
+   },
+   {
+    "id": "L38-q09",
+    "type": "vocab_context",
+    "sentence": "祖父の 七十歳の 誕生日 パーティーに、親せきを たくさん （　　）。",
+    "options": [
+     "招きました",
+     "預けました",
+     "与えました",
+     "支えました"
+    ],
+    "answer": 0,
+    "explanation_ta": "விருந்துக்கு அழைப்பது = 招く. 預ける = ஒப்படைப்பது, 与える = அளிப்பது, 支える = தாங்குவது.",
+    "explanation_en": "Inviting people to a party = 招く. 預ける = to leave in someone’s care. 与える = to give. 支える = to support."
+   },
+   {
+    "id": "L38-q10",
+    "type": "vocab_context",
+    "sentence": "駅で （　　） 小学校の ときの 友達に 会いました。",
+    "options": [
+     "連続",
+     "偶然",
+     "最終",
+     "永久"
+    ],
+    "answer": 1,
+    "explanation_ta": "எதிர்பாராமல் சந்திப்பது = 偶然会う (தற்செயலாக). 連続 = தொடர்ச்சி, 最終 = இறுதி, 永久 = நிரந்தரம்.",
+    "explanation_en": "Meeting someone unexpectedly = 偶然会う (by chance). 連続 = in a row, 最終 = last, 永久 = forever."
+   },
+   {
+    "id": "L38-q11",
+    "type": "paraphrase",
+    "sentence": "父の 代わりに、兄が 式に 出ました。",
+    "options": [
+     "父と いっしょに、兄が 式に 出ました。",
+     "父が 兄を 式に 連れて 行きました。",
+     "父も 兄も 式に 出ませんでした。",
+     "父に 代わって、兄が 式に 出ました。"
+    ],
+    "answer": 3,
+    "explanation_ta": "父の代わりに = 父に代わって = 'அப்பாவுக்குப் பதிலாக'. அப்பா போகவில்லை, அண்ணன் போனார். 'いっしょに' என்றால் இருவரும் போனார்கள் — பொருள் வேறு.",
+    "explanation_en": "父の代わりに = 父に代わって = \"in place of Father\". Father did not go; the brother did. いっしょに means both went."
+   },
+   {
+    "id": "L38-q12",
+    "type": "paraphrase",
+    "sentence": "留学を きっかけに、自分で 料理を するように なりました。",
+    "options": [
+     "留学する 前から、自分で 料理を して いました。",
+     "留学中は、自分で 料理を しませんでした。",
+     "留学した ことが 始まりで、自分で 料理を するように なりました。",
+     "料理を 習うために、留学しました。"
+    ],
+    "answer": 2,
+    "explanation_ta": "をきっかけに = அதுவே தொடக்கப்புள்ளி. 'வெளிநாட்டுப் படிப்புக்குப் பிறகே சமைக்கத் தொடங்கினேன்'. '前から' என்றால் முன்பே சமைத்தேன் — எதிர்ப்பொருள்.",
+    "explanation_en": "をきっかけに = that was the starting point. I began cooking because of studying abroad. 前から (\"since before\") says the opposite."
+   },
+   {
+    "id": "L38-q13",
+    "type": "usage",
+    "sentence": "預ける",
+    "options": [
+     "旅行の 間、犬を 友達に 預けました。",
+     "先生に 宿題を 預けました。",
+     "母に 誕生日の プレゼントを 預けました。",
+     "駅で 偶然 昔の 友達に 預けました。"
+    ],
+    "answer": 0,
+    "explanation_ta": "預ける = சிறிது காலம் பாதுகாக்கச் சொல்லி ஒப்படைப்பது: 犬を友達に預ける. வீட்டுப்பாடம் 提出する / 出す; பரிசு あげる / 贈る; சந்திப்பது 会う.",
+    "explanation_en": "預ける = to leave something in someone’s care for a while: 犬を友達に預ける. Homework is 提出する or 出す. A present is あげる or 贈る. Meeting is 会う."
+   },
+   {
+    "id": "L38-q14",
+    "type": "usage",
+    "sentence": "臨む",
+    "options": [
+     "毎朝 七時に 家に 臨みます。",
+     "友達に 本を 臨みました。",
+     "みんなが 幸せに なる ことを 臨みます。",
+     "選手たちは 強い 気持ちで 決勝に 臨みました。"
+    ],
+    "answer": 3,
+    "explanation_ta": "臨む = முக்கியமான நிகழ்வை எதிர்கொள்வது / அதில் பங்கேற்பது: 決勝に臨む, 試験に臨む. 'விரும்புவது' 望む (அதே ஒலி, வேறு கான்ஜி) — அதுதான் மூன்றாம் விருப்பத்தின் பொறி.",
+    "explanation_en": "臨む = to face or take part in an important event: 決勝に臨む. \"To wish for\" is 望む, same sound, different kanji. That is the trap in the third option."
+   },
+   {
+    "id": "L38-q15",
+    "type": "grammar_form",
+    "sentence": "これは 母が 心（　　）作って くれた お弁当です。",
+    "options": [
+     "をはじめ",
+     "をきっかけに",
+     "をこめて",
+     "に代わって"
+    ],
+    "answer": 2,
+    "explanation_ta": "'முழு மனதுடன் செய்த' = 心をこめて. をはじめ பட்டியலின் முதல் உதாரணத்துக்கு; をきっかけに தொடக்கக் காரணத்துக்கு — இங்குப் பொருந்தாது.",
+    "explanation_en": "\"Made with all her heart\" = 心をこめて. をはじめ is for the first item of a group. をきっかけに is for a starting event."
+   },
+   {
+    "id": "L38-q16",
+    "type": "grammar_form",
+    "sentence": "京都には、金閣寺（　　）有名な お寺が たくさん あります。",
+    "options": [
+     "をこめて",
+     "をはじめ",
+     "に代わって",
+     "において"
+    ],
+    "answer": 1,
+    "explanation_ta": "சிறந்த உதாரணத்தை முதலில் சொல்லி பின் பல கோயில்கள் = 金閣寺をはじめ. において இடத்துக்கு வரும், ஆனால் 金閣寺において有名なお寺 என்பது பொருளற்றது.",
+    "explanation_en": "Name the best example first, then the group = 金閣寺をはじめ. において marks a place, but \"famous temples in Kinkakuji\" makes no sense."
+   },
+   {
+    "id": "L38-q17",
+    "type": "grammar_form",
+    "sentence": "入院中の 部長（　　）、今日は 私が 会議に 出ます。",
+    "options": [
+     "をきっかけに",
+     "をこめて",
+     "において",
+     "に代わって"
+    ],
+    "answer": 3,
+    "explanation_ta": "மருத்துவமனையிலுள்ள மேலாளருக்குப் பதிலாக = 部長に代わって. をきっかけに என்றால் 'மேலாளர் காரணமாகப் புதிதாக ஒன்று தொடங்கியது' — பொருந்தாது.",
+    "explanation_en": "In place of the manager in hospital = 部長に代わって. をきっかけに would mean the manager started something new. It doesn’t fit."
+   },
+   {
+    "id": "L38-q18",
+    "type": "grammar_form",
+    "sentence": "子どもの 病気（　　）、家族で 田舎に 引っ越しました。",
+    "options": [
+     "をきっかけに",
+     "をはじめ",
+     "をこめて",
+     "に代わり"
+    ],
+    "answer": 0,
+    "explanation_ta": "குழந்தையின் நோயே கிராமத்துக்குக் குடிபெயரக் காரணமான தொடக்கம் = 病気をきっかけに. に代わり = 'பதிலாக' — பொருளற்றது.",
+    "explanation_en": "The child’s illness started the move to the countryside = 病気をきっかけに. に代わり (\"in place of\") makes no sense."
+   },
+   {
+    "id": "L38-q19",
+    "type": "grammar_form",
+    "sentence": "卒業式は、市民ホール（　　）行われます。",
+    "options": [
+     "にとって",
+     "において",
+     "における",
+     "に対して"
+    ],
+    "answer": 1,
+    "explanation_ta": "விழா நடக்கும் இடம் (முறையான 'இல்') = ホールにおいて行われます. における பின்னால் பெயர்ச்சொல் வேண்டும்; にとって = 'ஒருவருக்கு', に対して = 'நோக்கி'.",
+    "explanation_en": "The formal place word before a verb = ホールにおいて. における needs a noun after it. にとって = \"for someone\". に対して = \"toward\"."
+   },
+   {
+    "id": "L38-q20",
+    "type": "grammar_form",
+    "sentence": "現代社会（　　）家族の 役割に ついて 考えましょう。",
+    "options": [
+     "において",
+     "における",
+     "をはじめ",
+     "をこめて"
+    ],
+    "answer": 1,
+    "explanation_ta": "பின்னால் 家族の役割 என்ற பெயர்ச்சொல் வருவதால் における (நவீன சமூகத்தில் குடும்பத்தின் பங்கு). において வினைக்கு முன் வரும் வடிவம்.",
+    "explanation_en": "A noun phrase (家族の役割) comes next, so use における. において is the form before a verb."
+   },
+   {
+    "id": "L38-q21",
+    "type": "grammar_form",
+    "sentence": "みんなで 力を 合わせて、この 町を （　　）ではないか。",
+    "options": [
+     "守る",
+     "守った",
+     "守ろう",
+     "守れ"
+    ],
+    "answer": 2,
+    "explanation_ta": "உரையில் அழைப்பு 'காப்போம்!' = volitional 守ろう + ではないか. 守るではないか தவறு; 守れ என்பது கட்டளை வடிவம்.",
+    "explanation_en": "A call to action uses the \"let’s\" form: 守ろう + ではないか. 守るではないか is wrong. 守れ is a command."
+   },
+   {
+    "id": "L38-q22",
+    "type": "sentence_order",
+    "before": "本日は",
+    "chunks": [
+     "社長に",
+     "代わって",
+     "私が",
+     "ご挨拶"
+    ],
+    "star": 1,
+    "after": "いたします。",
+    "explanation_ta": "社長に (தலைவருக்கு) → 代わって (பதிலாக) → 私が (நான்) → ご挨拶 いたします (வாழ்த்துரை கூறுகிறேன்). ★ = 代わって.",
+    "explanation_en": "社長に → 代わって (in place of the president) → 私が (I) → ご挨拶 いたします (will give the greeting). ★ = 代わって."
+   },
+   {
+    "id": "L38-q23",
+    "type": "sentence_order",
+    "before": "先生への",
+    "chunks": [
+     "感謝を",
+     "こめて",
+     "みんなで",
+     "花束を"
+    ],
+    "star": 2,
+    "after": "贈りました。",
+    "explanation_ta": "感謝を (நன்றியை) → こめて (நிரப்பி) → みんなで (எல்லோரும் சேர்ந்து) → 花束を (பூங்கொத்தை) 贈りました. ★ = みんなで.",
+    "explanation_en": "感謝を こめて (with thanks) → みんなで (all together) → 花束を (a bouquet) 贈りました (we gave). ★ = みんなで."
+   },
+   {
+    "id": "L38-q24",
+    "type": "sentence_order",
+    "before": "この 町には、",
+    "chunks": [
+     "有名な",
+     "お寺を",
+     "はじめ",
+     "古い"
+    ],
+    "star": 2,
+    "after": "建物が たくさん あります。",
+    "explanation_ta": "有名な (புகழ்பெற்ற) → お寺を (கோயில்) → はじめ (முதலாக) → 古い (பழைய) 建物が. ★ = はじめ.",
+    "explanation_en": "有名な (famous) → お寺を (temple) → はじめ (starting with) → 古い (old) 建物が (buildings). ★ = はじめ."
+   },
+   {
+    "id": "L38-q25",
+    "type": "passage_cloze",
+    "passage": "卒業生代表の ラヴィです。本日は、校長先生［1］、多くの 先生方に お祝いの 言葉を いただき、本当に ありがとうございます。私は 五年前、日本の アニメ［2］日本語の 勉強を 始めました。最初は ひらがなも 読めませんでしたが、先生方や 友達に 支えられて、ここまで 来る ことが できました。この 学校［3］学んだ ことは、一生の 宝物です。感謝の 気持ちを こめて、心から お礼を 申し上げます。皆さん、これからも 夢に 向かって、がんばろう［4］。",
+    "blanks": [
+     {
+      "options": [
+       "に代わって",
+       "をはじめ",
+       "をこめて",
+       "をきっかけに"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "をこめて",
+       "をはじめ",
+       "をきっかけに",
+       "において"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "において",
+       "をこめて",
+       "に代わって",
+       "をはじめ"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "のではないか",
+       "でしょうか",
+       "かもしれない",
+       "ではないか"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "［1］ தலைமையாசிரியரை முதலில் சொல்லி 'பல ஆசிரியர்கள்' = 校長先生をはじめ. ［2］ அனிமேயே படிப்பைத் தொடங்கக் காரணம் = アニメをきっかけに. ［3］ முறையான உரையில் 'இந்தப் பள்ளியில்' = この学校において. ［4］ மேடையில் அழைப்பு 'முயற்சி செய்வோம்!' = がんばろうではないか; のではないか ஊகத்துக்கு மட்டும், volitional-க்குப் பின் வராது.",
+    "explanation_en": "[1] The principal first, then many teachers = 校長先生をはじめ. [2] Anime started my study = アニメをきっかけに. [3] Formal \"at this school\" in a speech = この学校において. [4] A call to the audience = がんばろうではないか. のではないか is a guess and can’t follow the \"let’s\" form."
+   }
+  ]
+ }
+}

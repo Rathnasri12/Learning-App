@@ -1,0 +1,974 @@
+[
+  {
+    "id": "n3-v-0010",
+    "expression": "去る",
+    "reading": "さる",
+    "romaji": "saru",
+    "en": "to leave, go away",
+    "ta": "விட்டுச் செல்ல",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "彼は十年前にこの町を去りました。",
+        "reading": "かれは じゅうねんまえに この まちを さりました。",
+        "romaji": "kare wa juunen mae ni kono machi o sarimashita.",
+        "ta": "அவர் பத்து ஆண்டுகளுக்கு முன் இந்த ஊரை விட்டுச் சென்றார்.",
+        "en": "He left this town ten years ago."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0075",
+    "expression": "死亡",
+    "reading": "しぼう",
+    "romaji": "shibou",
+    "en": "death (formal)",
+    "ta": "இறப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "交通事故の死亡者は、去年より少なくなりました。",
+        "reading": "こうつうじこの しぼうしゃは、きょねんより すくなく なりました。",
+        "romaji": "koutsuujiko no shibousha wa, kyonen yori sukunaku narimashita.",
+        "ta": "சாலை விபத்துகளில் இறந்தவர்களின் எண்ணிக்கை கடந்த ஆண்டை விடக் குறைந்தது.",
+        "en": "Road accident deaths went down compared with last year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0115",
+    "expression": "出身",
+    "reading": "しゅっしん",
+    "romaji": "shusshin",
+    "en": "where one is from",
+    "ta": "சொந்த ஊர் (பூர்வீகம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "私はタミル・ナードゥのマドゥライ出身です。",
+        "reading": "わたしは タミル・ナードゥの マドゥライ しゅっしんです。",
+        "romaji": "watashi wa Tamiru Naadu no Madurai shusshin desu.",
+        "ta": "நான் தமிழ்நாட்டின் மதுரையைச் சேர்ந்தவன்.",
+        "en": "I am from Madurai in Tamil Nadu."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0184",
+    "expression": "進学",
+    "reading": "しんがく",
+    "romaji": "shingaku",
+    "en": "going on to higher education",
+    "ta": "மேல்படிப்புக்குச் செல்லுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は高校を出たあと、大学に進学しました。",
+        "reading": "あには こうこうを でた あと、だいがくに しんがく しました。",
+        "romaji": "ani wa koukou o deta ato, daigaku ni shingaku shimashita.",
+        "ta": "அண்ணன் பள்ளிப் படிப்பை முடித்த பின் பல்கலைக்கழகத்தில் சேர்ந்தார்.",
+        "en": "After high school, my brother went on to university."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0255",
+    "expression": "生",
+    "reading": "せい",
+    "romaji": "sei",
+    "en": "life (formal)",
+    "ta": "வாழ்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖父は九十年の生を静かに終えました。",
+        "reading": "そふは きゅうじゅうねんの せいを しずかに おえました。",
+        "romaji": "sofu wa kyuujuunen no sei o shizuka ni oemashita.",
+        "ta": "தாத்தா தனது தொண்ணூறு ஆண்டு வாழ்வை அமைதியாக நிறைவு செய்தார்.",
+        "en": "My grandfather ended his ninety years of life peacefully."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0262",
+    "expression": "世紀",
+    "reading": "せいき",
+    "romaji": "seiki",
+    "en": "century",
+    "ta": "நூற்றாண்டு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このお寺は十二世紀に建てられました。",
+        "reading": "この おてらは じゅうにせいきに たてられました。",
+        "romaji": "kono otera wa juuni seiki ni tateraremashita.",
+        "ta": "இந்தக் கோயில் பன்னிரண்டாம் நூற்றாண்டில் கட்டப்பட்டது.",
+        "en": "This temple was built in the 12th century."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0271",
+    "expression": "成人",
+    "reading": "せいじん",
+    "romaji": "seijin",
+    "en": "adult; coming of age",
+    "ta": "வயது வந்தவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本では毎年一月に成人の日があります。",
+        "reading": "にほんでは まいとし いちがつに せいじんの ひが あります。",
+        "romaji": "nihon de wa maitoshi ichigatsu ni seijin no hi ga arimasu.",
+        "ta": "ஜப்பானில் ஒவ்வொரு ஆண்டும் ஜனவரியில் 'வயது வந்தோர் தினம்' கொண்டாடப்படுகிறது.",
+        "en": "In Japan, Coming of Age Day is in January every year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0277",
+    "expression": "生長",
+    "reading": "せいちょう",
+    "romaji": "seichou",
+    "en": "growth (of plants)",
+    "ta": "(செடியின்) வளர்ச்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "雨が多い年は、稲の生長が早いです。",
+        "reading": "あめが おおい としは、いねの せいちょうが はやいです。",
+        "romaji": "ame ga ooi toshi wa, ine no seichou ga hayai desu.",
+        "ta": "மழை அதிகமுள்ள ஆண்டில் நெல் வேகமாக வளரும்.",
+        "en": "In rainy years, rice plants grow quickly."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0279",
+    "expression": "青年",
+    "reading": "せいねん",
+    "romaji": "seinen",
+    "en": "young man, youth",
+    "ta": "இளைஞர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "駅で道を聞いたら、親切な青年が案内してくれました。",
+        "reading": "えきで みちを きいたら、しんせつな せいねんが あんない して くれました。",
+        "romaji": "eki de michi o kiitara, shinsetsu na seinen ga annai shite kuremashita.",
+        "ta": "ஸ்டேஷனில் வழி கேட்டபோது, அன்பான ஓர் இளைஞர் அழைத்துச் சென்று காட்டினார்.",
+        "en": "When I asked the way at the station, a kind young man showed me."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0280",
+    "expression": "生年月日",
+    "reading": "せいねんがっぴ",
+    "romaji": "seinengappi",
+    "en": "date of birth",
+    "ta": "பிறந்த தேதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この書類に名前と生年月日を書いてください。",
+        "reading": "この しょるいに なまえと せいねんがっぴを かいて ください。",
+        "romaji": "kono shorui ni namae to seinengappi o kaite kudasai.",
+        "ta": "இந்தப் படிவத்தில் உங்கள் பெயரையும் பிறந்த தேதியையும் எழுதுங்கள்.",
+        "en": "Please write your name and date of birth on this form."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0284",
+    "expression": "生命",
+    "reading": "せいめい",
+    "romaji": "seimei",
+    "en": "life",
+    "ta": "உயிர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "医者の仕事は、人の生命を守ることです。",
+        "reading": "いしゃの しごとは、ひとの せいめいを まもる ことです。",
+        "romaji": "isha no shigoto wa, hito no seimei o mamoru koto desu.",
+        "ta": "மருத்துவரின் பணி மனித உயிரைக் காப்பதுதான்.",
+        "en": "A doctor's job is to protect people's lives."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0380",
+    "expression": "以前",
+    "reading": "いぜん",
+    "romaji": "izen",
+    "en": "before, formerly",
+    "ta": "முன்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "以前はチェンナイに住んでいましたが、今は大阪にいます。",
+        "reading": "いぜんは チェンナイに すんで いましたが、いまは おおさかに います。",
+        "romaji": "izen wa Chennai ni sunde imashita ga, ima wa Oosaka ni imasu.",
+        "ta": "முன்பு சென்னையில் வசித்தேன்; இப்போது ஓசாகாவில் இருக்கிறேன்.",
+        "en": "I used to live in Chennai, but now I'm in Osaka."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0397",
+    "expression": "一生",
+    "reading": "いっしょう",
+    "romaji": "isshou",
+    "en": "one's whole life",
+    "ta": "வாழ்நாள் முழுவதும்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先生に言われた言葉は、一生忘れません。",
+        "reading": "せんせいに いわれた ことばは、いっしょう わすれません。",
+        "romaji": "sensei ni iwareta kotoba wa, isshou wasuremasen.",
+        "ta": "ஆசிரியர் சொன்ன வார்த்தைகளை வாழ்நாள் முழுவதும் மறக்க மாட்டேன்.",
+        "en": "I will never forget what my teacher told me."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0411",
+    "expression": "命",
+    "reading": "いのち",
+    "romaji": "inochi",
+    "en": "life",
+    "ta": "உயிர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "命は一つしかないから、大切にしてください。",
+        "reading": "いのちは ひとつしか ないから、たいせつに して ください。",
+        "romaji": "inochi wa hitotsu shika nai kara, taisetsu ni shite kudasai.",
+        "ta": "உயிர் ஒன்றே ஒன்றுதான்; அதைப் பத்திரமாகக் காத்துக்கொள்ளுங்கள்.",
+        "en": "You only have one life, so take care of it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0419",
+    "expression": "以来",
+    "reading": "いらい",
+    "romaji": "irai",
+    "en": "since (then)",
+    "ta": "அன்றிலிருந்து",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "卒業以来、田中さんには会っていません。",
+        "reading": "そつぎょう いらい、たなかさんには あって いません。",
+        "romaji": "sotsugyou irai, Tanaka-san ni wa atte imasen.",
+        "ta": "பட்டம் பெற்றதிலிருந்து தனகாவைச் சந்திக்கவே இல்லை.",
+        "en": "I haven't seen Tanaka since graduation."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0456",
+    "expression": "生まれ",
+    "reading": "うまれ",
+    "romaji": "umare",
+    "en": "birth; born in",
+    "ta": "பிறப்பு (பிறந்த இடம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母はコインバトール生まれで、父はチェンナイ生まれです。",
+        "reading": "ははは コインバトール うまれで、ちちは チェンナイ うまれです。",
+        "romaji": "haha wa Koinbatooru umare de, chichi wa Chennai umare desu.",
+        "ta": "அம்மா கோயம்புத்தூரில் பிறந்தவர்; அப்பா சென்னையில் பிறந்தவர்.",
+        "en": "My mother was born in Coimbatore and my father in Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0486",
+    "expression": "老い",
+    "reading": "おい",
+    "romaji": "oi",
+    "en": "old age",
+    "ta": "முதுமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖母は「老いは誰にでも来るよ」と笑いました。",
+        "reading": "そぼは 「おいは だれにでも くるよ」と わらいました。",
+        "romaji": "sobo wa \"oi wa dare ni demo kuru yo\" to waraimashita.",
+        "ta": "\"முதுமை எல்லோருக்கும் வரும்\" என்று பாட்டி சிரித்தார்.",
+        "en": "\"Old age comes to everyone,\" my grandmother said with a laugh."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0531",
+    "expression": "思い出",
+    "reading": "おもいで",
+    "romaji": "omoide",
+    "en": "memory (of an event)",
+    "ta": "நினைவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都で友達と過ごした夏は、いい思い出です。",
+        "reading": "きょうとで ともだちと すごした なつは、いい おもいでです。",
+        "romaji": "kyouto de tomodachi to sugoshita natsu wa, ii omoide desu.",
+        "ta": "கியோத்தோவில் நண்பர்களுடன் கழித்த கோடைக்காலம் ஓர் இனிய நினைவு.",
+        "en": "The summer I spent with friends in Kyoto is a happy memory."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0598",
+    "expression": "過去",
+    "reading": "かこ",
+    "romaji": "kako",
+    "en": "the past",
+    "ta": "கடந்த காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "過去のことは忘れて、前を向きましょう。",
+        "reading": "かこの ことは わすれて、まえを むきましょう。",
+        "romaji": "kako no koto wa wasurete, mae o mukimashou.",
+        "ta": "கடந்த காலத்தை மறந்து, முன்னோக்கிப் பார்ப்போம்.",
+        "en": "Let's forget the past and look ahead."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0691",
+    "expression": "記憶",
+    "reading": "きおく",
+    "romaji": "kioku",
+    "en": "memory (remembering)",
+    "ta": "நினைவு (ஞாபகம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "子どものころの記憶は、あまりありません。",
+        "reading": "こどもの ころの きおくは、あまり ありません。",
+        "romaji": "kodomo no koro no kioku wa, amari arimasen.",
+        "ta": "சிறு வயது ஞாபகங்கள் எனக்கு அதிகம் இல்லை.",
+        "en": "I don't have many memories of my childhood."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0733",
+    "expression": "旧",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "en": "former, old (ex-)",
+    "ta": "பழைய (முன்னாள்)",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "結婚した後も、仕事では旧姓を使っています。",
+        "reading": "けっこん した あとも、しごとでは きゅうせいを つかって います。",
+        "romaji": "kekkon shita ato mo, shigoto de wa kyuusei o tsukatte imasu.",
+        "ta": "திருமணத்துக்குப் பிறகும் வேலையில் என் பழைய குடும்பப் பெயரையே பயன்படுத்துகிறேன்.",
+        "en": "Even after marrying, I use my maiden name at work."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0799",
+    "expression": "暮らし",
+    "reading": "くらし",
+    "romaji": "kurashi",
+    "en": "living, way of life",
+    "ta": "வாழ்க்கை (வாழ்க்கைமுறை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本の暮らしにも、だいぶ慣れました。",
+        "reading": "にほんの くらしにも、だいぶ なれました。",
+        "romaji": "nihon no kurashi ni mo, daibu naremashita.",
+        "ta": "ஜப்பானிய வாழ்க்கைக்கும் ஓரளவு பழகிவிட்டேன்.",
+        "en": "I've got quite used to life in Japan."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0860",
+    "expression": "現在",
+    "reading": "げんざい",
+    "romaji": "genzai",
+    "en": "now, at present",
+    "ta": "தற்போது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "現在、東京のIT会社で働いています。",
+        "reading": "げんざい、とうきょうの アイティー がいしゃで はたらいて います。",
+        "romaji": "genzai, toukyou no aitii-gaisha de hataraite imasu.",
+        "ta": "தற்போது டோக்கியோவில் ஓர் ஐடி நிறுவனத்தில் வேலை செய்கிறேன்.",
+        "en": "I currently work at an IT company in Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0872",
+    "expression": "後",
+    "reading": "ご",
+    "romaji": "go",
+    "en": "after, later (~ go)",
+    "ta": "பிறகு",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "日本に来て三年後に、結婚しました。",
+        "reading": "にほんに きて さんねんごに、けっこん しました。",
+        "romaji": "nihon ni kite sannengo ni, kekkon shimashita.",
+        "ta": "ஜப்பானுக்கு வந்து மூன்று ஆண்டுகளுக்குப் பிறகு திருமணம் செய்துகொண்டேன்.",
+        "en": "Three years after coming to Japan, I got married."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0915",
+    "expression": "故郷",
+    "reading": "こきょう",
+    "romaji": "kokyou",
+    "en": "hometown",
+    "ta": "சொந்த ஊர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "年に一度、故郷のトリチーに帰ります。",
+        "reading": "ねんに いちど、こきょうの トリチーに かえります。",
+        "romaji": "nen ni ichido, kokyou no Torichii ni kaerimasu.",
+        "ta": "ஆண்டுக்கு ஒருமுறை என் சொந்த ஊரான திருச்சிக்குப் போவேன்.",
+        "en": "Once a year, I go back to my hometown, Trichy."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0950",
+    "expression": "今後",
+    "reading": "こんご",
+    "romaji": "kongo",
+    "en": "from now on",
+    "ta": "இனிமேல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今後ともよろしくお願いします。",
+        "reading": "こんごとも よろしく おねがいします。",
+        "romaji": "kongo tomo yoroshiku onegai shimasu.",
+        "ta": "இனிமேலும் உங்கள் ஆதரவை அன்புடன் வேண்டுகிறேன்.",
+        "en": "I look forward to working with you from now on."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1023",
+    "expression": "未来",
+    "reading": "みらい",
+    "romaji": "mirai",
+    "en": "the future",
+    "ta": "எதிர்காலம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "子どもたちの未来のために、木を植えましょう。",
+        "reading": "こどもたちの みらいの ために、きを うえましょう。",
+        "romaji": "kodomotachi no mirai no tame ni, ki o uemashou.",
+        "ta": "குழந்தைகளின் எதிர்காலத்துக்காக மரங்களை நடுவோம்.",
+        "en": "Let's plant trees for the children's future."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1167",
+    "expression": "留学",
+    "reading": "りゅうがく",
+    "romaji": "ryuugaku",
+    "en": "studying abroad",
+    "ta": "வெளிநாட்டில் படிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "大学生のとき、一年間アメリカに留学しました。",
+        "reading": "だいがくせいの とき、いちねんかん アメリカに りゅうがく しました。",
+        "romaji": "daigakusei no toki, ichinenkan Amerika ni ryuugaku shimashita.",
+        "ta": "பல்கலைக்கழகத்தில் படித்தபோது, ஒரு வருடம் அமெரிக்காவில் படித்தேன்.",
+        "en": "At university, I studied in America for a year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1183",
+    "expression": "老人",
+    "reading": "ろうじん",
+    "romaji": "roujin",
+    "en": "elderly person",
+    "ta": "முதியவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車で、老人に席を譲りました。",
+        "reading": "でんしゃで、ろうじんに せきを ゆずりました。",
+        "romaji": "densha de, roujin ni seki o yuzurimashita.",
+        "ta": "ரயிலில் ஒரு முதியவருக்கு என் இருக்கையைக் கொடுத்தேன்.",
+        "en": "I gave my seat to an elderly person on the train."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1227",
+    "expression": "産む",
+    "reading": "うむ",
+    "romaji": "umu",
+    "en": "to give birth",
+    "ta": "பெற்றெடுக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "姉は去年、元気な女の子を産みました。",
+        "reading": "あねは きょねん、げんきな おんなのこを うみました。",
+        "romaji": "ane wa kyonen, genki na onna no ko o umimashita.",
+        "ta": "அக்கா கடந்த ஆண்டு ஆரோக்கியமான ஒரு பெண் குழந்தையைப் பெற்றெடுத்தார்.",
+        "en": "Last year my sister gave birth to a healthy baby girl."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1288",
+    "expression": "故人",
+    "reading": "こじん",
+    "romaji": "kojin",
+    "en": "the deceased",
+    "ta": "காலமானவர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お葬式で、みんなが故人の思い出を話しました。",
+        "reading": "おそうしきで、みんなが こじんの おもいでを はなしました。",
+        "romaji": "osoushiki de, minna ga kojin no omoide o hanashimashita.",
+        "ta": "இறுதிச் சடங்கில் எல்லோரும் காலமானவரைப் பற்றிய நினைவுகளைப் பகிர்ந்தனர்.",
+        "en": "At the funeral, everyone shared memories of the deceased."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1329",
+    "expression": "育つ",
+    "reading": "そだつ",
+    "romaji": "sodatsu",
+    "en": "to grow up",
+    "ta": "வளர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "私は海の近くの小さな村で育ちました。",
+        "reading": "わたしは うみの ちかくの ちいさな むらで そだちました。",
+        "romaji": "watashi wa umi no chikaku no chiisa na mura de sodachimashita.",
+        "ta": "நான் கடலுக்கு அருகிலுள்ள ஒரு சிறிய கிராமத்தில் வளர்ந்தேன்.",
+        "en": "I grew up in a small village near the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1412",
+    "expression": "経つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "en": "(time) to pass",
+    "ta": "(காலம்) கடக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "日本に来てから、もう五年が経ちました。",
+        "reading": "にほんに きてから、もう ごねんが たちました。",
+        "romaji": "nihon ni kite kara, mou gonen ga tachimashita.",
+        "ta": "ஜப்பானுக்கு வந்து ஏற்கெனவே ஐந்து ஆண்டுகள் ஆகிவிட்டன.",
+        "en": "Five years have already passed since I came to Japan."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1445",
+    "expression": "誕生",
+    "reading": "たんじょう",
+    "romaji": "tanjou",
+    "en": "birth",
+    "ta": "பிறப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "赤ちゃんの誕生を、家族みんなで喜びました。",
+        "reading": "あかちゃんの たんじょうを、かぞく みんなで よろこびました。",
+        "romaji": "akachan no tanjou o, kazoku minna de yorokobimashita.",
+        "ta": "குழந்தை பிறந்ததைக் குடும்பத்தினர் அனைவரும் மகிழ்ச்சியுடன் கொண்டாடினோம்.",
+        "en": "The whole family was happy about the baby's birth."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1537",
+    "expression": "出会い",
+    "reading": "であい",
+    "romaji": "deai",
+    "en": "meeting (someone)",
+    "ta": "சந்திப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼女との出会いが、私の人生を変えました。",
+        "reading": "かのじょとの であいが、わたしの じんせいを かえました。",
+        "romaji": "kanojo to no deai ga, watashi no jinsei o kaemashita.",
+        "ta": "அவளைச் சந்தித்தது என் வாழ்க்கையையே மாற்றியது.",
+        "en": "Meeting her changed my life."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1538",
+    "expression": "出合い",
+    "reading": "であい",
+    "romaji": "deai",
+    "en": "encounter (with a thing)",
+    "ta": "(ஒன்றைத்) தற்செயலாகக் கண்டடைதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "一冊の本との出合いで、医者になろうと決めました。",
+        "reading": "いっさつの ほんとの であいで、いしゃに なろうと きめました。",
+        "romaji": "issatsu no hon to no deai de, isha ni narou to kimemashita.",
+        "ta": "ஒரு புத்தகம் கையில் கிடைத்ததால்தான் மருத்துவர் ஆக முடிவு செய்தேன்.",
+        "en": "Coming across one book made me decide to become a doctor."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1577",
+    "expression": "当時",
+    "reading": "とうじ",
+    "romaji": "touji",
+    "en": "at that time",
+    "ta": "அந்தக் காலத்தில் (அப்போது)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "当時は、まだ日本語がぜんぜん話せませんでした。",
+        "reading": "とうじは、まだ にほんごが ぜんぜん はなせませんでした。",
+        "romaji": "touji wa, mada nihongo ga zenzen hanasemasen deshita.",
+        "ta": "அப்போது எனக்கு ஜப்பானிய மொழி கொஞ்சம்கூடப் பேசத் தெரியாது.",
+        "en": "At that time, I couldn't speak Japanese at all."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1611",
+    "expression": "年月",
+    "reading": "としつき",
+    "romaji": "toshitsuki",
+    "en": "years, time",
+    "ta": "ஆண்டுகள் (காலம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "長い年月が経って、町はすっかり変わりました。",
+        "reading": "ながい としつきが たって、まちは すっかり かわりました。",
+        "romaji": "nagai toshitsuki ga tatte, machi wa sukkari kawarimashita.",
+        "ta": "நீண்ட காலம் கடந்ததால் ஊர் முற்றிலும் மாறிவிட்டது.",
+        "en": "After many years, the town has completely changed."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1613",
+    "expression": "年寄",
+    "reading": "としより",
+    "romaji": "toshiyori",
+    "en": "old people",
+    "ta": "வயதானவர்கள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この村は年寄が多く、若い人は少ないです。",
+        "reading": "この むらは としよりが おおく、わかい ひとは すくないです。",
+        "romaji": "kono mura wa toshiyori ga ooku, wakai hito wa sukunai desu.",
+        "ta": "இந்தக் கிராமத்தில் வயதானவர்கள் அதிகம், இளைஞர்கள் குறைவு.",
+        "en": "This village has many old people and few young ones."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1704",
+    "expression": "年月",
+    "reading": "ねんげつ",
+    "romaji": "nengetsu",
+    "en": "years (formal)",
+    "ta": "நீண்ட காலம் (ஆண்டுகள்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この橋は、十年の年月をかけて造られました。",
+        "reading": "この はしは、じゅうねんの ねんげつを かけて つくられました。",
+        "romaji": "kono hashi wa, juunen no nengetsu o kakete tsukuraremashita.",
+        "ta": "இந்தப் பாலம் பத்து ஆண்டுகள் செலவழித்துக் கட்டப்பட்டது.",
+        "en": "This bridge took ten years to build."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1706",
+    "expression": "年代",
+    "reading": "ねんだい",
+    "romaji": "nendai",
+    "en": "era, decade; age group",
+    "ta": "காலகட்டம் (பத்தாண்டு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父が若かった八十年代には、携帯電話はありませんでした。",
+        "reading": "ちちが わかかった はちじゅう ねんだいには、けいたい でんわは ありませんでした。",
+        "romaji": "chichi ga wakakatta hachijuu nendai ni wa, keitai denwa wa arimasen deshita.",
+        "ta": "அப்பா இளைஞராக இருந்த எண்பதுகளில் கைப்பேசி இல்லை.",
+        "en": "In the '80s, when my father was young, there were no mobile phones."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1707",
+    "expression": "年齢",
+    "reading": "ねんれい",
+    "romaji": "nenrei",
+    "en": "age",
+    "ta": "வயது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この仕事に年齢は関係ありません。",
+        "reading": "この しごとに ねんれいは かんけい ありません。",
+        "romaji": "kono shigoto ni nenrei wa kankei arimasen.",
+        "ta": "இந்த வேலைக்கு வயது ஒரு பொருட்டல்ல.",
+        "en": "Age doesn't matter for this job."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1716",
+    "expression": "残す",
+    "reading": "のこす",
+    "romaji": "nokosu",
+    "en": "to leave behind",
+    "ta": "விட்டுச் செல்ல (மீதம் வைக்க)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "祖父は家族に、古い写真をたくさん残しました。",
+        "reading": "そふは かぞくに、ふるい しゃしんを たくさん のこしました。",
+        "romaji": "sofu wa kazoku ni, furui shashin o takusan nokoshimashita.",
+        "ta": "தாத்தா குடும்பத்துக்காக நிறைய பழைய புகைப்படங்களை விட்டுச் சென்றார்.",
+        "en": "My grandfather left the family many old photos."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1724",
+    "expression": "後",
+    "reading": "のち",
+    "romaji": "nochi",
+    "en": "later, afterwards",
+    "ta": "பின்னர் (பின்னாளில்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は後に、有名な作家になりました。",
+        "reading": "かれは のちに、ゆうめいな さっかに なりました。",
+        "romaji": "kare wa nochi ni, yuumei na sakka ni narimashita.",
+        "ta": "அவர் பின்னாளில் புகழ்பெற்ற எழுத்தாளர் ஆனார்.",
+        "en": "He later became a famous writer."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1747",
+    "expression": "墓",
+    "reading": "はか",
+    "romaji": "haka",
+    "en": "grave",
+    "ta": "கல்லறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "お盆には、家族で祖父のお墓に行きます。",
+        "reading": "おぼんには、かぞくで そふの おはかに いきます。",
+        "romaji": "obon ni wa, kazoku de sofu no ohaka ni ikimasu.",
+        "ta": "ஓபோன் பண்டிகையின்போது குடும்பத்துடன் தாத்தாவின் கல்லறைக்குச் செல்வோம்.",
+        "en": "During Obon, our family visits my grandfather's grave."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1789",
+    "expression": "放れる",
+    "reading": "はなれる",
+    "romaji": "hanareru",
+    "en": "to leave, part from (usually 離れる)",
+    "ta": "பிரிய (விலகிச் செல்ல)",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "十八歳で親の元を放れて、一人で暮らし始めました。",
+        "reading": "じゅうはっさいで おやの もとを はなれて、ひとりで くらし はじめました。",
+        "romaji": "juuhassai de oya no moto o hanarete, hitori de kurashi hajimemashita.",
+        "ta": "பதினெட்டு வயதில் பெற்றோரை விட்டுப் பிரிந்து தனியாக வாழத் தொடங்கினேன்.",
+        "en": "At eighteen, I left my parents and began living alone."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1821",
+    "expression": "引越し",
+    "reading": "ひっこし",
+    "romaji": "hikkoshi",
+    "en": "moving house",
+    "ta": "வீடு மாற்றம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "来週の日曜日に、大阪へ引越しをします。",
+        "reading": "らいしゅうの にちようびに、おおさかへ ひっこしを します。",
+        "romaji": "raishuu no nichiyoubi ni, oosaka e hikkoshi o shimasu.",
+        "ta": "அடுத்த வார ஞாயிற்றுக்கிழமை ஓசாகாவுக்கு வீடு மாறுகிறேன்.",
+        "en": "I'm moving to Osaka next Sunday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2003",
+    "expression": "死",
+    "reading": "し",
+    "romaji": "shi",
+    "en": "death",
+    "ta": "மரணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "祖母の死を知って、すぐ故郷に帰りました。",
+        "reading": "そぼの しを しって、すぐ こきょうに かえりました。",
+        "romaji": "sobo no shi o shitte, sugu kokyou ni kaerimashita.",
+        "ta": "பாட்டியின் மரணச் செய்தி அறிந்து உடனே சொந்த ஊருக்குத் திரும்பினேன்.",
+        "en": "When I learned of my grandmother's death, I went straight home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2021",
+    "expression": "生涯",
+    "reading": "しょうがい",
+    "romaji": "shougai",
+    "en": "one's lifetime",
+    "ta": "வாழ்நாள்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は生涯、この村で子どもたちに勉強を教えました。",
+        "reading": "かれは しょうがい、この むらで こどもたちに べんきょうを おしえました。",
+        "romaji": "kare wa shougai, kono mura de kodomotachi ni benkyou o oshiemashita.",
+        "ta": "அவர் தன் வாழ்நாள் முழுவதும் இந்தக் கிராமத்துக் குழந்தைகளுக்குப் பாடம் சொல்லிக்கொடுத்தார்.",
+        "en": "He taught the children of this village all his life."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2039",
+    "expression": "成年",
+    "reading": "せいねん",
+    "romaji": "seinen",
+    "en": "legal adulthood",
+    "ta": "சட்டப்படி வயது வந்த நிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本では、十八歳で成年になります。",
+        "reading": "にほんでは、じゅうはっさいで せいねんに なります。",
+        "romaji": "nihon de wa, juuhassai de seinen ni narimasu.",
+        "ta": "ஜப்பானில் 18 வயதில் ஒருவர் சட்டப்படி வயது வந்தவர் ஆகிறார்.",
+        "en": "In Japan, you legally become an adult at 18."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2058",
+    "expression": "退学",
+    "reading": "たいがく",
+    "romaji": "taigaku",
+    "en": "leaving school (dropping out)",
+    "ta": "படிப்பை இடையில் நிறுத்துதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は家の事情で、大学を退学しました。",
+        "reading": "かれは いえの じじょうで、だいがくを たいがく しました。",
+        "romaji": "kare wa ie no jijou de, daigaku o taigaku shimashita.",
+        "ta": "குடும்பச் சூழ்நிலை காரணமாக அவர் பல்கலைக்கழகப் படிப்பை இடையில் நிறுத்தினார்.",
+        "en": "He left university for family reasons."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2078",
+    "expression": "転校",
+    "reading": "てんこう",
+    "romaji": "tenkou",
+    "en": "changing schools",
+    "ta": "பள்ளி மாறுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父の仕事で、小学生のときに三回転校しました。",
+        "reading": "ちちの しごとで、しょうがくせいの ときに さんかい てんこう しました。",
+        "romaji": "chichi no shigoto de, shougakusei no toki ni sankai tenkou shimashita.",
+        "ta": "அப்பாவின் வேலை காரணமாக, தொடக்கப்பள்ளிக் காலத்தில் மூன்று முறை பள்ளி மாறினேன்.",
+        "en": "Because of my father's job, I changed schools three times in primary school."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2092",
+    "expression": "慣らす",
+    "reading": "ならす",
+    "romaji": "narasu",
+    "en": "to get (something) used to",
+    "ta": "பழக்கப்படுத்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "寒さに体を慣らすために、毎朝外を歩いています。",
+        "reading": "さむさに からだを ならす ために、まいあさ そとを あるいて います。",
+        "romaji": "samusa ni karada o narasu tame ni, maiasa soto o aruite imasu.",
+        "ta": "குளிருக்கு உடலைப் பழக்கப்படுத்த, தினமும் காலையில் வெளியே நடக்கிறேன்.",
+        "en": "I walk outside every morning to get my body used to the cold."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2115",
+    "expression": "経る",
+    "reading": "へる",
+    "romaji": "heru",
+    "en": "to pass through, go through",
+    "ta": "கடந்து செல்ல",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "多くの経験を経て、彼は立派な医者になりました。",
+        "reading": "おおくの けいけんを へて、かれは りっぱな いしゃに なりました。",
+        "romaji": "ooku no keiken o hete, kare wa rippa na isha ni narimashita.",
+        "ta": "பல அனுபவங்களைக் கடந்து அவர் சிறந்த மருத்துவர் ஆனார்.",
+        "en": "After many experiences, he became a fine doctor."
+      }
+    ]
+  }
+]

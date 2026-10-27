@@ -1,0 +1,749 @@
+{
+ "lesson": 36,
+ "title": {
+  "ja": "教えていただけないでしょうか",
+  "ta": "தயவுசெய்து எனக்குச் சொல்ல முடியுமா?",
+  "en": "Could you kindly tell me?"
+ },
+ "intro_en": "This lesson is about business requests and emails. You learn the most polite way to ask: 〜ていただけないでしょうか (\"Could you kindly …?\"). You learn to say what you want others to do: 〜ていただきたい. You learn the set phrases on signs and notices, like お待ち願います and ご協力願います. You learn \"according to …\" (〜に応じて). Last, you learn 次第: \"as soon as …\" and \"it depends on …\".",
+ "intro_ta": "இந்தப் பாடம் வணிகக் கோரிக்கைகள், மின்னஞ்சல்கள் பற்றியது. மிகப் பணிவாக வேண்டுகோள் விடுக்கும் 〜ていただけないでしょうか ('தயவுசெய்து … தர முடியுமா?') வடிவத்தைக் கற்போம். மற்றவர் ஒன்றைச் செய்ய வேண்டும் என்ற விருப்பத்தைச் சொல்ல 〜ていただきたい, அறிவிப்புப் பலகைகளில் வரும் お待ち願います, ご協力願います போன்ற முறையான சொற்றொடர்கள், '…க்கு ஏற்ப' என்ற 〜に応じて, '…ஆனவுடன்' / '…ஐப் பொறுத்தது' என்ற 次第 ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g36-1",
+   "pattern": "V-て いただけないでしょうか / V-て もらえないでしょうか",
+   "name": {
+    "en": "Would you be so kind as to ~?",
+    "ta": "தயவுசெய்து ~ தர முடியுமா?"
+   },
+   "explanation_en": "This is a very polite request. It is softer than 〜てください and 〜てくださいませんか. Literally it means \"Isn’t it possible for me to receive your doing …?\" Use いただけないでしょうか with customers, bosses and in emails. もらえないでしょうか is a little less formal: use it with people at your own level. Add a soft opener first: すみませんが, 申し訳ありませんが, お忙しいところ恐縮ですが.",
+   "explanation_ta": "இது மிகப் பணிவான வேண்டுகோள்; 〜てください, 〜てくださいませんか ஆகியவற்றை விட மென்மையானது. நேரடிப் பொருள்: 'நீங்கள் … செய்து தருவதை நான் பெற முடியாதா?' வாடிக்கையாளர், மேலதிகாரி, மின்னஞ்சல் ஆகியவற்றில் いただけないでしょうか பயன்படுத்துவோம். もらえないでしょうか சற்றுக் குறைந்த முறைமை; சம நிலையில் உள்ளவர்களிடம் பயன்படும். முன்னால் すみませんが, 申し訳ありませんが போன்ற மென்மையான தொடக்கம் சேர்ப்பது வழக்கம். தமிழில் 'தயவுசெய்து … தர முடியுமா?' என்று கேட்பதற்குச் சமம்.",
+   "tamil_parallel": "தயவுசெய்து இதைச் சொல்லித் தர முடியுமா? = 教えていただけないでしょうか",
+   "tamil_parallel_en": "தயவுசெய்து இதைச் சொல்லித் தர முடியுமா? (could you kindly tell me?) = 教えていただけないでしょうか",
+   "formation": "வினை て-வடிவம் + いただけないでしょうか (மிக மரியாதை)\nவினை て-வடிவம் + もらえないでしょうか (மரியாதை)",
+   "formation_en": "verb て-form + いただけないでしょうか (very polite)\nverb て-form + もらえないでしょうか (polite)",
+   "examples": [
+    {
+     "ja": "すみませんが、この書類の書き方を教えていただけないでしょうか。",
+     "reading": "すみませんが、この しょるいの かきかたを おしえて いただけないでしょうか。",
+     "romaji": "sumimasen ga, kono shorui no kakikata o oshiete itadakenai deshou ka.",
+     "ta": "மன்னிக்கவும், இந்த ஆவணத்தை எப்படி நிரப்புவது என்று தயவுசெய்து சொல்லித் தர முடியுமா?",
+     "en": "Excuse me, could you kindly tell me how to fill in this form?"
+    },
+    {
+     "ja": "申し訳ありませんが、会議を来週に延期していただけないでしょうか。",
+     "reading": "もうしわけ ありませんが、かいぎを らいしゅうに えんき して いただけないでしょうか。",
+     "romaji": "moushiwake arimasen ga, kaigi o raishuu ni enki shite itadakenai deshou ka.",
+     "ta": "மன்னிக்கவும், கூட்டத்தை அடுத்த வாரத்துக்கு ஒத்திவைக்க முடியுமா?",
+     "en": "I’m sorry, but could you possibly put the meeting off until next week?"
+    },
+    {
+     "ja": "詳しい資料を前もって送っていただけないでしょうか。",
+     "reading": "くわしい しりょうを まえもって おくって いただけないでしょうか。",
+     "romaji": "kuwashii shiryou o maemotte okutte itadakenai deshou ka.",
+     "ta": "விரிவான ஆவணங்களை முன்கூட்டியே அனுப்பித் தர முடியுமா?",
+     "en": "Could you kindly send the detailed materials in advance?"
+    },
+    {
+     "ja": "推薦状を書いていただけないでしょうか。",
+     "reading": "すいせんじょうを かいて いただけないでしょうか。",
+     "romaji": "suisenjou o kaite itadakenai deshou ka.",
+     "ta": "எனக்கு ஒரு பரிந்துரைக் கடிதம் எழுதித் தர முடியுமா?",
+     "en": "Would you be so kind as to write me a letter of recommendation?"
+    },
+    {
+     "ja": "ちょっと手伝ってもらえないでしょうか。",
+     "reading": "ちょっと てつだって もらえないでしょうか。",
+     "romaji": "chotto tetsudatte moraenai deshou ka.",
+     "ta": "கொஞ்சம் உதவி செய்ய முடியுமா?",
+     "en": "Could you possibly help me a little?"
+    },
+    {
+     "ja": "お忙しいところ恐縮ですが、直接お会いして説明させていただけないでしょうか。",
+     "reading": "おいそがしい ところ きょうしゅくですが、ちょくせつ おあい して せつめい させて いただけないでしょうか。",
+     "romaji": "oisogashii tokoro kyoushuku desu ga, chokusetsu oai shite setsumei sasete itadakenai deshou ka.",
+     "ta": "நீங்கள் வேலையாக இருக்கும் நேரத்தில் தொந்தரவுக்கு மன்னிக்கவும்; நேரில் சந்தித்து விளக்க எனக்கு அனுமதி தர முடியுமா?",
+     "en": "I’m sorry to trouble you when you’re busy, but may I meet you in person and explain?"
+    }
+   ],
+   "pitfalls_en": "Use the potential form いただける, not いただく: 教えていただかないでしょうか is wrong. Use it for others’ actions, not your own: 私が行っていただけないでしょうか is wrong.",
+   "pitfalls_ta": "முடியும் வடிவமான いただける வர வேண்டும்: 教えていただかないでしょうか தவறு. இது மற்றவர் செய்யும் செயலுக்கு மட்டுமே; உங்கள் செயலுக்கு அல்ல: 私が行っていただけないでしょうか தவறு."
+  },
+  {
+   "id": "g36-2",
+   "pattern": "V-て いただきたい / V-て もらいたい",
+   "name": {
+    "en": "I would like you to ~",
+    "ta": "நீங்கள் ~ வேண்டும் என்று விரும்புகிறேன்"
+   },
+   "explanation_en": "Use this to say what you want someone else to do. 来ていただきたい = \"I’d like you to come.\" It is ていただく (\"receive your doing\") + たい (\"want\"). It is polite, but it sounds firmer than a question. It often appears as 〜ていただきたいのですが (soft) or 〜ていただきたいと思います (formal). もらいたい is more casual. Compare てほしい (N4): same meaning, but not humble. いただきたい is the polite business version.",
+   "explanation_ta": "மற்றவர் ஒன்றைச் செய்ய வேண்டும் என்ற உங்கள் விருப்பத்தைச் சொல்லும் வடிவம்: 来ていただきたい = 'நீங்கள் வர வேண்டும் என்று விரும்புகிறேன்'. ていただく ('நீங்கள் செய்வதைப் பெறுதல்') + たい ('விரும்புதல்'). இது மரியாதையானது, ஆனால் கேள்வி வடிவத்தை விட உறுதியாக ஒலிக்கும். 〜ていただきたいのですが (மென்மை), 〜ていただきたいと思います (முறையானது) என்று அடிக்கடி வரும். もらいたい பேச்சு வழக்கு. N4-இல் கற்ற てほしい அதே பொருள்; ஆனால் いただきたい வணிகத்தில் பயன்படும் பணிவான வடிவம்.",
+   "tamil_parallel": "நீங்கள் கூட்டத்துக்கு வர வேண்டும் என்று விரும்புகிறேன் = 会議に出席していただきたいです",
+   "tamil_parallel_en": "நீங்கள் கூட்டத்துக்கு வர வேண்டும் என்று விரும்புகிறேன் (I would like you to attend the meeting) = 会議に出席していただきたいです",
+   "formation": "வினை て-வடிவம் + いただきたい (です / のですが / と思います)\nவினை て-வடிவம் + もらいたい (பேச்சு வழக்கு)",
+   "formation_en": "verb て-form + いただきたい (です / のですが / と思います)\nverb て-form + もらいたい (casual)",
+   "examples": [
+    {
+     "ja": "明日の会議には、部長にもぜひ出席していただきたいです。",
+     "reading": "あしたの かいぎには、ぶちょうにも ぜひ しゅっせき して いただきたいです。",
+     "romaji": "ashita no kaigi ni wa, buchou ni mo zehi shusseki shite itadakitai desu.",
+     "ta": "நாளைய கூட்டத்தில் துறைத் தலைவரும் கட்டாயம் கலந்துகொள்ள வேண்டும் என்று விரும்புகிறோம்.",
+     "en": "We would really like the department head to attend tomorrow’s meeting too."
+    },
+    {
+     "ja": "この件について、もう一度検討していただきたいのですが。",
+     "reading": "この けんに ついて、もう いちど けんとう して いただきたいのですが。",
+     "romaji": "kono ken ni tsuite, mou ichido kentou shite itadakitai no desu ga.",
+     "ta": "இந்த விஷயத்தை நீங்கள் இன்னொரு முறை பரிசீலிக்க வேண்டும் என்று கேட்டுக்கொள்கிறேன்.",
+     "en": "I would like you to consider this matter once more."
+    },
+    {
+     "ja": "契約書の内容をよく読んでから、署名していただきたいと思います。",
+     "reading": "けいやくしょの ないようを よく よんでから、しょめい して いただきたいと おもいます。",
+     "romaji": "keiyakusho no naiyou o yoku yonde kara, shomei shite itadakitai to omoimasu.",
+     "ta": "ஒப்பந்தத்தின் உள்ளடக்கத்தை நன்றாகப் படித்த பிறகு கையொப்பமிட வேண்டும் என்று கேட்டுக்கொள்கிறேன்.",
+     "en": "I’d like you to read the contract carefully before you sign it."
+    },
+    {
+     "ja": "予定に変更があったら、前もって知らせてもらいたい。",
+     "reading": "よていに へんこうが あったら、まえもって しらせて もらいたい。",
+     "romaji": "yotei ni henkou ga attara, maemotte shirasete moraitai.",
+     "ta": "திட்டத்தில் மாற்றம் இருந்தால் முன்கூட்டியே சொல்ல வேண்டும்.",
+     "en": "If the schedule changes, I want you to tell me in advance."
+    },
+    {
+     "ja": "お客様には、気持ちよく買い物をしていただきたいと考えております。",
+     "reading": "おきゃくさまには、きもちよく かいものを して いただきたいと かんがえて おります。",
+     "romaji": "okyakusama ni wa, kimochi yoku kaimono o shite itadakitai to kangaete orimasu.",
+     "ta": "வாடிக்கையாளர்கள் மகிழ்ச்சியாகப் பொருட்கள் வாங்க வேண்டும் என்பதே எங்கள் விருப்பம்.",
+     "en": "We want our customers to enjoy shopping here."
+    },
+    {
+     "ja": "そんなに大事なことは、直接言ってもらいたかった。",
+     "reading": "そんなに だいじな ことは、ちょくせつ いって もらいたかった。",
+     "romaji": "sonna ni daiji na koto wa, chokusetsu itte moraitakatta.",
+     "ta": "அவ்வளவு முக்கியமான விஷயத்தை நேரடியாகச் சொல்லியிருக்க வேண்டும் என்று விரும்பினேன்.",
+     "en": "I wish you had told me something that important directly."
+    }
+   ],
+   "pitfalls_en": "The person who does the action takes に: 部長に出席していただきたい. Don’t use this with a boss as a bare order (〜ていただきたい。). Soften it: 〜ていただきたいのですが.",
+   "pitfalls_ta": "செயலைச் செய்பவர் に எடுப்பார்: 部長に出席していただきたい. மேலதிகாரியிடம் வெறுமனே 〜ていただきたい。 என்று முடித்தால் கட்டளை போல ஒலிக்கும்; 〜ていただきたいのですが என்று மென்மையாக்குங்கள்."
+  },
+  {
+   "id": "g36-3",
+   "pattern": "お V-ます 願う / ご N 願う",
+   "name": {
+    "en": "We ask you to ~ (formal notices)",
+    "ta": "~ செய்யுமாறு கேட்டுக்கொள்கிறோம்"
+   },
+   "explanation_en": "This is a fixed, very formal way to ask the public to do something. You see it on signs, in train announcements and in business letters. お待ち願います = \"Please wait.\" ご協力願います = \"We ask for your cooperation.\" Use お + verb ます-stem for Japanese verbs (お待ち, お知らせ). Use ご + する-noun for Chinese-style words (ご協力, ご注意, ご了承). Polite forms: 願います, お願いします, 願えますか.",
+   "explanation_ta": "பொதுமக்களிடம் ஒன்றைச் செய்யுமாறு கேட்கும் நிலையான, மிக முறையான வடிவம். அறிவிப்புப் பலகைகள், ரயில் அறிவிப்புகள், வணிகக் கடிதங்களில் வரும். お待ち願います = 'தயவுசெய்து காத்திருங்கள்'. ご協力願います = 'உங்கள் ஒத்துழைப்பைக் கேட்டுக்கொள்கிறோம்'. ஜப்பானிய வினைகளுக்கு お + ます-அடி (お待ち, お知らせ); சீன மூலச் சொற்களுக்கு ご + する-பெயர்ச்சொல் (ご協力, ご注意, ご了承). வடிவங்கள்: 願います, お願いします, 願えますか. தமிழில் 'கேட்டுக்கொள்ளப்படுகிறீர்கள்' என்ற அறிவிப்பு நடைக்குச் சமம்.",
+   "tamil_parallel": "உங்கள் ஒத்துழைப்பைக் கேட்டுக்கொள்கிறோம் = ご協力願います",
+   "tamil_parallel_en": "உங்கள் ஒத்துழைப்பைக் கேட்டுக்கொள்கிறோம் (we ask for your cooperation) = ご協力願います",
+   "formation": "お + வினை ます-அடி + 願います (お待ち願います)\nご + する-பெயர்ச்சொல் + 願います (ご協力願います)",
+   "formation_en": "お + verb ます-stem + 願います (お待ち願います)\nご + する-noun + 願います (ご協力願います)",
+   "examples": [
+    {
+     "ja": "順番にお呼びしますので、こちらでお待ち願います。",
+     "reading": "じゅんばんに および しますので、こちらで おまち ねがいます。",
+     "romaji": "junban ni oyobi shimasu node, kochira de omachi negaimasu.",
+     "ta": "வரிசைப்படி அழைப்போம்; தயவுசெய்து இங்கே காத்திருங்கள்.",
+     "en": "We will call you in order, so please wait here."
+    },
+    {
+     "ja": "工事中はご迷惑をおかけしますが、ご協力願います。",
+     "reading": "こうじちゅうは ごめいわくを おかけ しますが、ごきょうりょく ねがいます。",
+     "romaji": "koujichuu wa gomeiwaku o okake shimasu ga, gokyouryoku negaimasu.",
+     "ta": "கட்டுமான வேலை நடக்கும்போது சிரமத்துக்கு மன்னிக்கவும்; உங்கள் ஒத்துழைப்பைக் கேட்டுக்கொள்கிறோம்.",
+     "en": "We are sorry for the trouble during construction and ask for your cooperation."
+    },
+    {
+     "ja": "足元にご注意願います。",
+     "reading": "あしもとに ごちゅうい ねがいます。",
+     "romaji": "ashimoto ni gochuui negaimasu.",
+     "ta": "கால் வைக்கும் இடத்தில் கவனமாக இருங்கள்.",
+     "en": "Please watch your step."
+    },
+    {
+     "ja": "料金は前もってお支払い願います。",
+     "reading": "りょうきんは まえもって おしはらい ねがいます。",
+     "romaji": "ryoukin wa maemotte oshiharai negaimasu.",
+     "ta": "கட்டணத்தை முன்கூட்டியே செலுத்துமாறு கேட்டுக்கொள்கிறோம்.",
+     "en": "Please pay the fee in advance."
+    },
+    {
+     "ja": "予定が変更になる場合もありますので、ご了承願います。",
+     "reading": "よていが へんこうに なる ばあいも ありますので、ごりょうしょう ねがいます。",
+     "romaji": "yotei ga henkou ni naru baai mo arimasu node, goryoushou negaimasu.",
+     "ta": "திட்டத்தில் மாற்றம் ஏற்படலாம் என்பதைத் தயவுசெய்து புரிந்துகொள்ளுங்கள்.",
+     "en": "Please note that the schedule may change."
+    },
+    {
+     "ja": "恐れ入りますが、こちらにお名前をお書き願えますか。",
+     "reading": "おそれいりますが、こちらに おなまえを おかき ねがえますか。",
+     "romaji": "osoreirimasu ga, kochira ni onamae o okaki negaemasu ka.",
+     "ta": "மன்னிக்கவும், இங்கே உங்கள் பெயரை எழுத முடியுமா?",
+     "en": "Excuse me, could you write your name here, please?"
+    }
+   ],
+   "pitfalls_en": "Use the ます-stem, not the て-form: お待って願います is wrong. Don’t use お with する-nouns: お協力 is wrong; say ご協力.",
+   "pitfalls_ta": "て-வடிவம் அல்ல, ます-அடி வர வேண்டும்: お待って願います தவறு; お待ち願います சரி. する-பெயர்ச்சொற்களுக்கு ご: お協力 தவறு; ご協力 சரி."
+  },
+  {
+   "id": "g36-4",
+   "pattern": "N に 応じて / N に 応じた N",
+   "name": {
+    "en": "According to / in response to N",
+    "ta": "N-க்கு ஏற்ப"
+   },
+   "explanation_en": "に応じて means \"to match N\": when N changes, the result changes too. 年齢に応じて = \"depending on age\". 予算に応じて = \"to suit your budget\". It also means \"in response to\": 要望に応じて = \"in answer to requests\". Before a noun, use に応じた: 能力に応じた仕事 (\"work that fits your ability\"). Common words before it: 予算, 年齢, 能力, 季節, 希望, 必要.",
+   "explanation_ta": "に応じて = 'N-க்கு ஏற்ப': N மாறினால் முடிவும் மாறும். 年齢に応じて = 'வயதுக்கு ஏற்ப', 予算に応じて = 'உங்கள் பட்ஜெட்டுக்கு ஏற்ப'. 'கோரிக்கைக்குப் பதிலளித்து' என்ற பொருளிலும் வரும்: 要望に応じて. பெயர்ச்சொல்லுக்கு முன் に応じた: 能力に応じた仕事 = 'திறமைக்கு ஏற்ற வேலை'. இதற்கு முன் அடிக்கடி வரும் சொற்கள்: 予算, 年齢, 能力, 季節, 希望, 必要. தமிழின் '-க்கு ஏற்ப', '-க்குத் தகுந்தபடி' என்பதற்குச் சமம்.",
+   "tamil_parallel": "உங்கள் பட்ஜெட்டுக்கு ஏற்பத் திட்டம் தயாரிப்போம் = ご予算に応じてプランを作ります",
+   "tamil_parallel_en": "உங்கள் பட்ஜெட்டுக்கு ஏற்ப (to suit your budget) திட்டம் தயாரிப்போம் (we will make a plan) = ご予算に応じてプランを作ります",
+   "formation": "பெயர்ச்சொல் + に 応じて + வினை\nபெயர்ச்சொல் + に 応じた + பெயர்ச்சொல்",
+   "formation_en": "noun + に 応じて + verb\nnoun + に 応じた + noun",
+   "examples": [
+    {
+     "ja": "お客様のご予算に応じて、いろいろなプランをご用意しております。",
+     "reading": "おきゃくさまの ごよさんに おうじて、いろいろな プランを ごようい して おります。",
+     "romaji": "okyakusama no goyosan ni oujite, iroiro na puran o goyoui shite orimasu.",
+     "ta": "வாடிக்கையாளரின் பட்ஜெட்டுக்கு ஏற்பப் பல திட்டங்களைத் தயாராக வைத்திருக்கிறோம்.",
+     "en": "We have various plans to suit each customer’s budget."
+    },
+    {
+     "ja": "年齢に応じて、料金が違います。",
+     "reading": "ねんれいに おうじて、りょうきんが ちがいます。",
+     "romaji": "nenrei ni oujite, ryoukin ga chigaimasu.",
+     "ta": "வயதுக்கு ஏற்பக் கட்டணம் மாறுபடும்.",
+     "en": "The price is different depending on age."
+    },
+    {
+     "ja": "季節に応じて、店のメニューを変えています。",
+     "reading": "きせつに おうじて、みせの メニューを かえて います。",
+     "romaji": "kisetsu ni oujite, mise no menyuu o kaete imasu.",
+     "ta": "பருவத்துக்கு ஏற்பக் கடையின் உணவுப் பட்டியலை மாற்றுகிறோம்.",
+     "en": "We change the shop’s menu to match the season."
+    },
+    {
+     "ja": "会社は社員の要求に応じて、休みを増やした。",
+     "reading": "かいしゃは しゃいんの ようきゅうに おうじて、やすみを ふやした。",
+     "romaji": "kaisha wa shain no youkyuu ni oujite, yasumi o fuyashita.",
+     "ta": "ஊழியர்களின் கோரிக்கைக்குப் பதிலளித்து நிறுவனம் விடுமுறைகளை அதிகரித்தது.",
+     "en": "In response to the staff’s demands, the company gave more days off."
+    },
+    {
+     "ja": "一人一人の能力に応じた仕事を任せたい。",
+     "reading": "ひとりひとりの のうりょくに おうじた しごとを まかせたい。",
+     "romaji": "hitorihitori no nouryoku ni oujita shigoto o makasetai.",
+     "ta": "ஒவ்வொருவரின் திறமைக்கும் ஏற்ற வேலையை ஒப்படைக்க விரும்புகிறேன்.",
+     "en": "I want to give each person work that fits their ability."
+    },
+    {
+     "ja": "必要に応じて、資料を追加で送ります。",
+     "reading": "ひつように おうじて、しりょうを ついかで おくります。",
+     "romaji": "hitsuyou ni oujite, shiryou o tsuika de okurimasu.",
+     "ta": "தேவைக்கு ஏற்பக் கூடுதல் ஆவணங்களை அனுப்புவோம்.",
+     "en": "We will send extra materials as needed."
+    }
+   ],
+   "pitfalls_en": "Before a noun, use に応じた, not に応じて: 能力に応じて仕事 is wrong. Don’t use it for a single fixed thing: it needs something that can vary (age, budget, season).",
+   "pitfalls_ta": "பெயர்ச்சொல்லுக்கு முன் に応じた: 能力に応じて仕事 தவறு; 能力に応じた仕事 சரி. மாறக்கூடிய ஒன்றுடன் (வயது, பட்ஜெட், பருவம்) மட்டுமே வரும்; மாறாத ஒரு பொருளுடன் அல்ல."
+  },
+  {
+   "id": "g36-5",
+   "pattern": "V-ます 次第 / N 次第",
+   "name": {
+    "en": "As soon as ~ / depending on N",
+    "ta": "~ ஆனவுடன் / N-ஐப் பொறுத்தது"
+   },
+   "explanation_en": "次第 has two uses. (1) Verb ます-stem + 次第 = \"as soon as …\". わかり次第、連絡します = \"I’ll contact you as soon as I know.\" It is formal and used in business. The second part is a plan or request, never a past event. (2) Noun + 次第 = \"it depends on N\". 天気次第です = \"It depends on the weather.\" 次第で = \"depending on\": 努力次第で = \"depending on your effort\".",
+   "explanation_ta": "次第 இரண்டு விதமாக வரும். (1) வினை ます-அடி + 次第 = '…ஆனவுடன்': わかり次第、連絡します = 'தெரிந்தவுடன் தொடர்புகொள்கிறேன்.' இது முறையானது, வணிகத்தில் பயன்படும். பின்பகுதி திட்டமோ கோரிக்கையோ ஆக இருக்க வேண்டும்; நடந்து முடிந்த கடந்தகாலச் செயல் வராது. (2) பெயர்ச்சொல் + 次第 = 'N-ஐப் பொறுத்தது': 天気次第です = 'வானிலையைப் பொறுத்தது.' 次第で = 'பொறுத்து': 努力次第で = 'முயற்சியைப் பொறுத்து'. தமிழில் '-ஆனவுடன்', '-ஐப் பொறுத்து' என்பவற்றுக்குச் சமம்.",
+   "tamil_parallel": "விவரம் தெரிந்தவுடன் சொல்கிறேன் = わかり次第、お知らせします / போவதா இல்லையா என்பது வானிலையைப் பொறுத்தது = 行くかどうかは天気次第です",
+   "tamil_parallel_en": "விவரம் தெரிந்தவுடன் சொல்கிறேன் (I’ll tell you as soon as I know) = わかり次第、お知らせします / போவதா இல்லையா என்பது வானிலையைப் பொறுத்தது (whether we go depends on the weather) = 行くかどうかは天気次第です",
+   "formation": "வினை ます-அடி + 次第、〜 (…ஆனவுடன்)\nபெயர்ச்சொல் + 次第だ / 次第で (…ஐப் பொறுத்து)",
+   "formation_en": "verb ます-stem + 次第、〜 (as soon as …)\nnoun + 次第だ / 次第で (depending on …)",
+   "examples": [
+    {
+     "ja": "詳しいことがわかり次第、ご連絡いたします。",
+     "reading": "くわしい ことが わかりしだい、ごれんらく いたします。",
+     "romaji": "kuwashii koto ga wakarishidai, gorenraku itashimasu.",
+     "ta": "விவரங்கள் தெரிந்தவுடன் உங்களைத் தொடர்புகொள்கிறோம்.",
+     "en": "We will contact you as soon as we know the details."
+    },
+    {
+     "ja": "資料が届き次第、お送りします。",
+     "reading": "しりょうが とどきしだい、おおくり します。",
+     "romaji": "shiryou ga todokishidai, ookuri shimasu.",
+     "ta": "ஆவணங்கள் வந்து சேர்ந்தவுடன் உங்களுக்கு அனுப்புகிறோம்.",
+     "en": "We will send the materials as soon as they arrive."
+    },
+    {
+     "ja": "会議が終わり次第、そちらに向かいます。",
+     "reading": "かいぎが おわりしだい、そちらに むかいます。",
+     "romaji": "kaigi ga owarishidai, sochira ni mukaimasu.",
+     "ta": "கூட்டம் முடிந்தவுடன் அங்கே வருகிறேன்.",
+     "en": "I’ll head over to you as soon as the meeting ends."
+    },
+    {
+     "ja": "旅行に行けるかどうかは、天気次第です。",
+     "reading": "りょこうに いけるか どうかは、てんき しだいです。",
+     "romaji": "ryokou ni ikeru ka dou ka wa, tenki shidai desu.",
+     "ta": "பயணம் போக முடியுமா இல்லையா என்பது வானிலையைப் பொறுத்தது.",
+     "en": "Whether we can go on the trip depends on the weather."
+    },
+    {
+     "ja": "この商売がうまくいくかどうかは、あなたの努力次第だ。",
+     "reading": "この しょうばいが うまく いくか どうかは、あなたの どりょく しだいだ。",
+     "romaji": "kono shoubai ga umaku iku ka dou ka wa, anata no doryoku shidai da.",
+     "ta": "இந்த வியாபாரம் வெற்றி பெறுவது உங்கள் முயற்சியைப் பொறுத்தது.",
+     "en": "Whether this business succeeds depends on your effort."
+    },
+    {
+     "ja": "条件次第で、契約するかもしれません。",
+     "reading": "じょうけん しだいで、けいやく するかも しれません。",
+     "romaji": "jouken shidai de, keiyaku suru kamo shiremasen.",
+     "ta": "நிபந்தனைகளைப் பொறுத்து ஒப்பந்தம் செய்யலாம்.",
+     "en": "Depending on the terms, we may sign the contract."
+    }
+   ],
+   "pitfalls_en": "Use the ます-stem: わかる次第 and わかった次第 are wrong; say わかり次第. Don’t use it for past events: 駅に着き次第、電話した is wrong; say 着いてすぐ電話した.",
+   "pitfalls_ta": "ます-அடி வர வேண்டும்: わかる次第, わかった次第 தவறு; わかり次第 சரி. நடந்து முடிந்த நிகழ்வுக்கு வராது: 駅に着き次第、電話した தவறு; 着いてすぐ電話した சரி."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0014",
+  "n3-v-0024",
+  "n3-v-0027",
+  "n3-v-0030",
+  "n3-v-0046",
+  "n3-v-0082",
+  "n3-v-0112",
+  "n3-v-0120",
+  "n3-v-0136",
+  "n3-v-0141",
+  "n3-v-0144",
+  "n3-v-0150",
+  "n3-v-0152",
+  "n3-v-0174",
+  "n3-v-0213",
+  "n3-v-0263",
+  "n3-v-0268",
+  "n3-v-0293",
+  "n3-v-0307",
+  "n3-v-0356",
+  "n3-v-0391",
+  "n3-v-0420",
+  "n3-v-0470",
+  "n3-v-0480",
+  "n3-v-0493",
+  "n3-v-0529",
+  "n3-v-0539",
+  "n3-v-0554",
+  "n3-v-0749",
+  "n3-v-0815",
+  "n3-v-0823",
+  "n3-v-0833",
+  "n3-v-0867",
+  "n3-v-0868",
+  "n3-v-0904",
+  "n3-v-0936",
+  "n3-v-0997",
+  "n3-v-1045",
+  "n3-v-1080",
+  "n3-v-1127",
+  "n3-v-1138",
+  "n3-v-1277",
+  "n3-v-1294",
+  "n3-v-1407",
+  "n3-v-1486",
+  "n3-v-1490",
+  "n3-v-1540",
+  "n3-v-1901",
+  "n3-v-1923",
+  "n3-v-1935",
+  "n3-v-2011",
+  "n3-v-2070",
+  "n3-v-2089",
+  "n3-v-2103",
+  "n3-v-2120"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L36-q01",
+    "type": "kanji_reading",
+    "sentence": "こちらの 書類に ＿署名＿を お願いします。",
+    "target": "署名",
+    "options": [
+     "しょうめい",
+     "しょめえ",
+     "じょめい",
+     "しょめい"
+    ],
+    "answer": 3,
+    "explanation_ta": "署名 = しょめい (கையொப்பம்). 署 குறுகிய しょ. しょうめい என்பது 証明 (சான்று) அல்லது 照明 (விளக்கு) — வேறு சொற்கள்.",
+    "explanation_en": "署名 is read しょめい (signature). 署 is a short しょ. しょうめい is 証明 (proof) or 照明 (lighting)."
+   },
+   {
+    "id": "L36-q02",
+    "type": "kanji_reading",
+    "sentence": "台風の ため、会議は 来週に ＿延期＿されました。",
+    "target": "延期",
+    "options": [
+     "えんぎ",
+     "えんき",
+     "ていき",
+     "えいき"
+    ],
+    "answer": 1,
+    "explanation_ta": "延期 = えんき (ஒத்திவைப்பு). えんぎ என்பது 演技 (நடிப்பு) — 'ぎ' கடின ஒலி வேண்டாம்.",
+    "explanation_en": "延期 is read えんき (postponement). えんぎ is 演技 (acting). Don’t voice the き."
+   },
+   {
+    "id": "L36-q03",
+    "type": "kanji_reading",
+    "sentence": "この 計画には 部長の ＿承認＿が 必要です。",
+    "target": "承認",
+    "options": [
+     "しょうにん",
+     "じょうにん",
+     "しょうじん",
+     "しょにん"
+    ],
+    "answer": 0,
+    "explanation_ta": "承認 = しょうにん (ஒப்புதல்). 承 நீண்ட しょう; 認 = にん (認める). しょにん-இல் நீண்ட ஒலி இல்லை.",
+    "explanation_en": "承認 is read しょうにん (approval). 承 is a long しょう, 認 is にん. しょにん is missing the long sound."
+   },
+   {
+    "id": "L36-q04",
+    "type": "orthography",
+    "sentence": "新しい 取引先と ＿けいやく＿を 結びました。",
+    "target": "けいやく",
+    "options": [
+     "契役",
+     "計約",
+     "契約",
+     "係約"
+    ],
+    "answer": 2,
+    "explanation_ta": "けいやく = 契約 (ஒப்பந்தம்). 約 = வாக்குறுதி (約束). 計 = கணக்கு, 係 = பொறுப்பு, 役 = பங்கு — ஒலியில் ஒத்தாலும் தவறு.",
+    "explanation_en": "けいやく is 契約 (contract). 約 means \"promise\" (約束). 計, 係 and 役 sound close but are wrong."
+   },
+   {
+    "id": "L36-q05",
+    "type": "orthography",
+    "sentence": "いただいた 案を 社内で ＿けんとう＿します。",
+    "target": "けんとう",
+    "options": [
+     "検討",
+     "見当",
+     "険討",
+     "健討"
+    ],
+    "answer": 0,
+    "explanation_ta": "けんとう = 検討 (பரிசீலனை). 見当 கூட けんとう என்றே படிக்கப்படும், ஆனால் பொருள் 'ஊகம்' (見当がつく). 'திட்டத்தைப் பரிசீலிப்பது' 検討.",
+    "explanation_en": "けんとう here is 検討 (careful review). 見当 is also read けんとう but means \"a guess\" (見当がつく)."
+   },
+   {
+    "id": "L36-q06",
+    "type": "vocab_context",
+    "sentence": "仕事の 依頼を （　　）ときは、失礼に ならないように 丁寧に 話しましょう。",
+    "options": [
+     "占める",
+     "断る",
+     "継ぐ",
+     "綴じる"
+    ],
+    "answer": 1,
+    "explanation_ta": "வேலை வேண்டுகோளை மறுக்கும்போது = 依頼を断る. 占める = இடம் பிடித்தல், 継ぐ = ஏற்று நடத்துதல், 綴じる = காகிதங்களை இணைத்தல்.",
+    "explanation_en": "Turning down a work request = 依頼を断る. 占める = take up, 継ぐ = take over, 綴じる = bind papers."
+   },
+   {
+    "id": "L36-q07",
+    "type": "vocab_context",
+    "sentence": "費用が いくら かかるか、まったく （　　）が つかない。",
+    "options": [
+     "検討",
+     "考慮",
+     "見当",
+     "参考"
+    ],
+    "answer": 2,
+    "explanation_ta": "'ஊகிக்கவே முடியவில்லை' = 見当がつかない என்பது நிலையான சொற்றொடர். 検討, 考慮 'つく' உடன் வராது.",
+    "explanation_en": "\"I have no idea\" = 見当がつかない, a set phrase. 検討 and 考慮 don’t go with つく."
+   },
+   {
+    "id": "L36-q08",
+    "type": "vocab_context",
+    "sentence": "来月の 出張の ホテルは、（　　）予約して おいた ほうが いい。",
+    "options": [
+     "一度に",
+     "少々",
+     "至急",
+     "前もって"
+    ],
+    "answer": 3,
+    "explanation_ta": "அடுத்த மாதப் பயணத்துக்கு முன்கூட்டியே முன்பதிவு செய்தல் = 前もって (〜ておく உடன் இயல்பாக வரும்). 至急 = அவசரமாக; அடுத்த மாதத்துக்குப் பொருந்தாது.",
+    "explanation_en": "Booking ahead for next month’s trip = 前もって, which goes well with 〜ておく. 至急 means \"urgently\" and doesn’t suit next month."
+   },
+   {
+    "id": "L36-q09",
+    "type": "vocab_context",
+    "sentence": "この 店は 年中 無休で （　　）して います。",
+    "options": [
+     "営業",
+     "会計",
+     "請求",
+     "設計"
+    ],
+    "answer": 0,
+    "explanation_ta": "கடை திறந்து வியாபாரம் நடத்துவது = 営業している. 会計 = பணம் செலுத்துதல், 請求 = கட்டணம் கோருதல், 設計 = வடிவமைத்தல்.",
+    "explanation_en": "A shop being open for business = 営業している. 会計 = paying the bill, 請求 = billing, 設計 = design."
+   },
+   {
+    "id": "L36-q10",
+    "type": "paraphrase",
+    "sentence": "至急 連絡して ください。",
+    "options": [
+     "時間が ある ときに 連絡して ください。",
+     "あとで 連絡して ください。",
+     "急いで 連絡して ください。",
+     "前もって 連絡して ください。"
+    ],
+    "answer": 2,
+    "explanation_ta": "至急 = அவசரமாக = 急いで. 'நேரம் கிடைக்கும்போது', 'பிறகு' என்பவை எதிர்ப் பொருள்.",
+    "explanation_en": "至急 = urgently = 急いで. \"When you have time\" and \"later\" are the opposite."
+   },
+   {
+    "id": "L36-q11",
+    "type": "paraphrase",
+    "sentence": "部長の 承認を もらいました。",
+    "options": [
+     "部長に 断られました。",
+     "部長に 質問しました。",
+     "部長に 書類を 渡しました。",
+     "部長に 認めて もらいました。"
+    ],
+    "answer": 3,
+    "explanation_ta": "承認 = ஒப்புதல் = 認めてもらう. 'மறுக்கப்பட்டேன்' (断られた) என்பது எதிர்ப் பொருள்.",
+    "explanation_en": "承認 = approval = 認めてもらう. \"I was turned down\" (断られた) is the opposite."
+   },
+   {
+    "id": "L36-q12",
+    "type": "usage",
+    "sentence": "応じる",
+    "options": [
+     "駅で 友達に 応じて、一緒に 帰りました。",
+     "会社は 社員の 要求に 応じて、休みを 増やした。",
+     "毎朝 六時に 応じて 起きます。",
+     "この 道を まっすぐ 応じると、駅が あります。"
+    ],
+    "answer": 1,
+    "explanation_ta": "応じる = கோரிக்கைக்குப் பதிலளித்தல் / ஏற்றல்: 要求に応じる சரி. நண்பரைச் சந்திப்பது 会う; நேராகச் செல்வது 行く.",
+    "explanation_en": "応じる = to respond to a request: 要求に応じる is right. Meeting a friend is 会う. Going straight is 行く."
+   },
+   {
+    "id": "L36-q13",
+    "type": "usage",
+    "sentence": "断る",
+    "options": [
+     "体調が 悪かったので、パーティーの 誘いを 断った。",
+     "雨が 断ったので、外で 遊ぼう。",
+     "電話が 急に 断って しまった。",
+     "コップを 落として 断って しまった。"
+    ],
+    "answer": 0,
+    "explanation_ta": "断る = அழைப்பு/கோரிக்கையை மறுத்தல்: 誘いを断る சரி. மழை நிற்பது やむ, அழைப்பு துண்டிக்கப்படுவது 切れる, உடைவது 割れる.",
+    "explanation_en": "断る = to turn down an invitation or request: 誘いを断る is right. Rain stopping is やむ, a call cutting off is 切れる, breaking is 割れる."
+   },
+   {
+    "id": "L36-q14",
+    "type": "grammar_form",
+    "sentence": "すみませんが、この 書類を 日本語に 訳して （　　）。",
+    "options": [
+     "いただきましょうか",
+     "くださいましょうか",
+     "いただけないでしょうか",
+     "さしあげないでしょうか"
+    ],
+    "answer": 2,
+    "explanation_ta": "மிகப் பணிவான வேண்டுகோள் = 〜ていただけないでしょうか. いただきましょうか 'நான் பெறட்டுமா?' என்ற தவறான பொருள்; さしあげる நான் கொடுப்பது.",
+    "explanation_en": "A very polite request = 〜ていただけないでしょうか. いただきましょうか means \"shall I receive?\", which is wrong. さしあげる is me giving."
+   },
+   {
+    "id": "L36-q15",
+    "type": "grammar_form",
+    "sentence": "お客様の ご予算（　　）、いくつかの プランを ご用意して おります。",
+    "options": [
+     "に 応じて",
+     "に とって",
+     "と して",
+     "に 対して"
+    ],
+    "answer": 0,
+    "explanation_ta": "'பட்ஜெட்டுக்கு ஏற்ப' — பட்ஜெட் மாறினால் திட்டமும் மாறும் = に応じて. にとって மதிப்பீட்டுக்கு; に対して நோக்கிய செயலுக்கு.",
+    "explanation_en": "\"To suit your budget\": the plans change with the budget = に応じて. にとって is for judgments; に対して is for actions toward someone."
+   },
+   {
+    "id": "L36-q16",
+    "type": "grammar_form",
+    "sentence": "工事中は ご迷惑を おかけしますが、ご協力 （　　）。",
+    "options": [
+     "願いましょう",
+     "願いたいです",
+     "願いません",
+     "願います"
+    ],
+    "answer": 3,
+    "explanation_ta": "அறிவிப்புகளில் வரும் நிலையான வடிவம் = ご協力願います. 願いましょう 'சேர்ந்து வேண்டுவோம்' என்ற தவறான பொருள்.",
+    "explanation_en": "The set phrase on notices = ご協力願います. 願いましょう means \"let’s ask\", which is wrong here."
+   },
+   {
+    "id": "L36-q17",
+    "type": "grammar_form",
+    "sentence": "結果が わかり（　　）、すぐに ご連絡いたします。",
+    "options": [
+     "ながら",
+     "次第",
+     "たら",
+     "とたん"
+    ],
+    "answer": 1,
+    "explanation_ta": "ます-அடி わかり + 次第 = 'தெரிந்தவுடன்'. たら, とたん ஆகியவை ます-அடியுடன் சேராது (わかったら, わかったとたん). ながら 'கொண்டே' என்ற வேறு பொருள்.",
+    "explanation_en": "ます-stem わかり + 次第 = \"as soon as I know\". たら and とたん don’t attach to the ます-stem (わかったら, わかったとたん). ながら means \"while\"."
+   },
+   {
+    "id": "L36-q18",
+    "type": "grammar_form",
+    "sentence": "明日の 会議には、部長にも ぜひ 出席して （　　）と 思って おります。",
+    "options": [
+     "いただけない",
+     "さしあげたい",
+     "いただきたい",
+     "くださりたい"
+    ],
+    "answer": 2,
+    "explanation_ta": "'துறைத் தலைவர் கலந்துகொள்ள வேண்டும் என்று விரும்புகிறேன்' = 〜ていただきたいと思います. くださりたい என்ற வடிவம் இல்லை; いただけない எதிர்மறை.",
+    "explanation_en": "\"I would like the department head to attend\" = 〜ていただきたいと思います. くださりたい doesn’t exist. いただけない is negative."
+   },
+   {
+    "id": "L36-q19",
+    "type": "grammar_form",
+    "sentence": "旅行に 行けるか どうかは、天気（　　）です。",
+    "options": [
+     "ばかり",
+     "だけ",
+     "ほど",
+     "次第"
+    ],
+    "answer": 3,
+    "explanation_ta": "'வானிலையைப் பொறுத்தது' = 天気次第です. 天気だけです 'வானிலை மட்டுமே' என்ற வேறு பொருள்.",
+    "explanation_en": "\"It depends on the weather\" = 天気次第です. 天気だけです means \"only the weather\", a different meaning."
+   },
+   {
+    "id": "L36-q20",
+    "type": "grammar_form",
+    "sentence": "この 博物館は、年齢（　　）料金が 違います。",
+    "options": [
+     "に とって",
+     "に 応じて",
+     "と して",
+     "に 対して"
+    ],
+    "answer": 1,
+    "explanation_ta": "'வயதுக்கு ஏற்பக் கட்டணம் மாறும்' = 年齢に応じて. として 'வயதாக' என்ற பொருளற்ற வாக்கியம் ஆகும்.",
+    "explanation_en": "\"The price changes with age\" = 年齢に応じて. として would mean \"as an age\", which makes no sense."
+   },
+   {
+    "id": "L36-q21",
+    "type": "sentence_order",
+    "before": "申し訳ありませんが、",
+    "chunks": [
+     "もう 少し",
+     "待って",
+     "いただけない",
+     "でしょうか"
+    ],
+    "star": 2,
+    "after": "。",
+    "explanation_ta": "もう 少し (இன்னும் சற்று) → 待って (காத்திருந்து) → いただけない → でしょうか (தர முடியுமா?). ★ = いただけない.",
+    "explanation_en": "もう 少し (a little more) → 待って (wait) → いただけない → でしょうか (could you kindly?). ★ = いただけない."
+   },
+   {
+    "id": "L36-q22",
+    "type": "sentence_order",
+    "before": "資料が",
+    "chunks": [
+     "届き",
+     "次第",
+     "すぐに",
+     "お送り"
+    ],
+    "star": 1,
+    "after": "します。",
+    "explanation_ta": "届き (வந்து சேர்ந்து) → 次第 (உடன்) → すぐに (உடனே) → お送りします (அனுப்புகிறோம்). ★ = 次第.",
+    "explanation_en": "届き (arrive) → 次第 (as soon as) → すぐに (right away) → お送りします (we will send). ★ = 次第."
+   },
+   {
+    "id": "L36-q23",
+    "type": "sentence_order",
+    "before": "お客様の",
+    "chunks": [
+     "ご希望",
+     "に",
+     "応じた",
+     "プランを"
+    ],
+    "star": 2,
+    "after": "ご用意します。",
+    "explanation_ta": "ご希望 (விருப்பம்) + に 応じた (க்கு ஏற்ற) → プランを (திட்டத்தை) ご用意します. பெயர்ச்சொல்லுக்கு முன் 応じた. ★ = 応じた.",
+    "explanation_en": "ご希望 (wishes) + に 応じた (that fit) → プランを (a plan) ご用意します. Before a noun, use 応じた. ★ = 応じた."
+   },
+   {
+    "id": "L36-q24",
+    "type": "passage_cloze",
+    "passage": "山田様\nいつも お世話に なって おります。ABC商事の ラージャです。\n［1］、先日 ご提案いただいた 新しい プランの 件ですが、社内で 検討した 結果、ぜひ 進めたいと 考えて おります。つきましては、詳しい 条件を 教えて［2］。また、こちらの 予算［3］内容を 少し 変更する ことは 可能でしょうか。お返事を いただき［4］、契約書を ご用意いたします。\nどうぞ よろしく お願いいたします。",
+    "blanks": [
+     {
+      "options": [
+       "さて",
+       "しかし",
+       "それに",
+       "だから"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "さしあげませんか",
+       "くださいましょうか",
+       "いただけないでしょうか",
+       "いただきましょうか"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "に とって",
+       "と して",
+       "から して",
+       "に 応じて"
+      ],
+      "answer": 3
+     },
+     {
+      "options": [
+       "ながら",
+       "次第",
+       "とたん",
+       "うちに"
+      ],
+      "answer": 1
+     }
+    ],
+    "explanation_ta": "[1] வாழ்த்துக்குப் பின் முக்கிய விஷயத்துக்கு மாறும்போது = さて. [2] மிகப் பணிவான வேண்டுகோள் = 教えていただけないでしょうか. [3] 'எங்கள் பட்ஜெட்டுக்கு ஏற்ப' = 予算に応じて. [4] ます-அடி いただき + 次第 = 'பதில் கிடைத்தவுடன்'.",
+    "explanation_en": "[1] Moving from greetings to the main topic = さて. [2] A very polite request = 教えていただけないでしょうか. [3] \"To match our budget\" = 予算に応じて. [4] ます-stem いただき + 次第 = \"as soon as we receive your reply\"."
+   }
+  ]
+ }
+}

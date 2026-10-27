@@ -1,0 +1,767 @@
+{
+  "lesson": 4,
+  "title": {
+    "ja": "家を出たとたん",
+    "ta": "வீட்டை விட்டு வெளியே வந்த உடனே",
+    "en": "The moment I left home"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் களம் தினசரிப் பயணம்: ரயில், பேருந்து, போக்குவரத்து நெரிசல், நூலிழையில் தப்பிய நிமிடங்கள். 「ところ」 (நேரம், கட்டம்) என்ற சொல்லைச் சுற்றி அமைந்த நான்கு அமைப்புகளையும் 「とたん」 என்பதையும் கற்போம். 'வெளியே வந்த உடனே மழை பெய்தது' (出たとたん), 'கேட்டுப் பார்த்தபோது தெரிந்தது' (聞いたところ), 'கிளம்பும் நேரத்தில் ஒருவர் வந்தார்' (出るところに), 'செய்துகொண்டிருந்தபோது பார்த்துவிட்டார்கள்' (しているところを), 'கொஞ்சம் இருந்தால் தவறவிட்டிருப்பேன்' (乗り遅れるところだった) என்று எல்லாம் இயல்பாகச் சொல்ல முடியும்.",
+  "intro_en": "This lesson is about commuting: trains, buses, traffic and close calls. You learn とたん and four patterns built on ところ (the point in time). You will say things like: “The moment I left, it rained” (出たとたん). “When I asked, I found out” (聞いたところ). “Just as I was leaving, someone came” (出るところに). “I was seen doing it” (しているところを). “I almost missed the train” (乗り遅れるところだった).",
+  "grammar": [
+    {
+      "id": "g04-1",
+      "pattern": "V-た とたん(に)",
+      "name": {
+        "en": "The moment ~ (something unexpected happened)",
+        "ta": "…செய்த உடனே (எதிர்பாராதது நடந்தது)"
+      },
+      "explanation_ta": "「V-たとたん(に)」 என்றால் 'ஒன்று நடந்த அதே நொடியில் இன்னொன்று திடீரென நடந்தது' என்று பொருள். வினையின் た வடிவத்துடன் とたん அல்லது とたんに சேர்க்கிறோம்: 出た → 出たとたん. இரண்டாம் பகுதி பேசுபவர் எதிர்பார்க்காத, திடீர் நிகழ்வாக இருக்கும் (மழை பெய்தது, தொலைபேசி அடித்தது, திடுக்கிட்டேன்). அதனால் அது கடந்த காலத்தில் வரும். பேசுபவரின் சொந்த விருப்பம், திட்டம், கட்டளை (〜しよう, 〜してください) இரண்டாம் பகுதியில் வராது. N4-இல் கற்ற 「V-たらすぐ」 சாதாரணமாக 'செய்த பிறகு உடனே' என்று சொல்லும்; とたん அதைவிட வேகமும் ஆச்சரியமும் கொண்டது. பேச்சிலும் எழுத்திலும் பயன்படும்.",
+      "explanation_en": "V-たとたん(に) means “at the very moment A happened, B suddenly happened”. Add とたん or とたんに to the た-form: 出た → 出たとたん. Part B is something sudden that you did not expect, like rain starting or a phone ringing. So part B is in the past. Part B cannot be your own plan, wish or request (〜しよう, 〜してください). V-たらすぐ (N4) just means “right after”. とたん adds speed and surprise. You can use it in speech and writing.",
+      "tamil_parallel": "வீட்டை விட்டு வெளியே வந்ததுமே மழை பெய்தது = 家を出たとたん、雨が降った",
+      "tamil_parallel_en": "வெளியே வந்ததுமே மழை பெய்தது (the moment I came out, it rained) = 家を出たとたん、雨が降った",
+      "formation": "V-た + とたん(に)\n出る → 出たとたん\n座る → 座ったとたんに",
+      "formation_en": "V-た + とたん(に)\n出る → 出たとたん\n座る → 座ったとたんに",
+      "examples": [
+        {
+          "ja": "家を出たとたん、雨が降り出した。",
+          "reading": "いえを でた とたん、あめが ふりだした。",
+          "romaji": "ie o deta totan, ame ga furidashita.",
+          "ta": "வீட்டை விட்டு வெளியே வந்த உடனே மழை பெய்யத் தொடங்கியது.",
+          "en": "The moment I left home, it started to rain."
+        },
+        {
+          "ja": "電車のドアが閉まったとたんに、忘れ物に気がつきました。",
+          "reading": "でんしゃの ドアが しまった とたんに、わすれものに きが つきました。",
+          "romaji": "densha no doa ga shimatta totan ni, wasuremono ni ki ga tsukimashita.",
+          "ta": "ரயில் கதவு மூடிய உடனே, ஏதோ மறந்துவிட்டதை உணர்ந்தேன்.",
+          "en": "The moment the train doors closed, I realised I’d left something behind."
+        },
+        {
+          "ja": "信号が青になったとたん、子どもが走り出しました。",
+          "reading": "しんごうが あおに なった とたん、こどもが はしりだしました。",
+          "romaji": "shingou ga ao ni natta totan, kodomo ga hashiridashimashita.",
+          "ta": "சிக்னல் பச்சையானதுமே குழந்தை ஓடத் தொடங்கியது.",
+          "en": "The moment the light turned green, the child started running."
+        },
+        {
+          "ja": "座席に座ったとたんに、眠ってしまいました。",
+          "reading": "ざせきに すわった とたんに、ねむって しまいました。",
+          "romaji": "zaseki ni suwatta totan ni, nemutte shimaimashita.",
+          "ta": "இருக்கையில் உட்கார்ந்ததுமே தூங்கிவிட்டேன்.",
+          "en": "The moment I sat down, I fell asleep."
+        },
+        {
+          "ja": "トンネルを出たとたん、強い風が吹いてきた。",
+          "reading": "トンネルを でた とたん、つよい かぜが ふいて きた。",
+          "romaji": "tonneru o deta totan, tsuyoi kaze ga fuite kita.",
+          "ta": "சுரங்கப்பாதையிலிருந்து வெளியே வந்ததுமே பலத்த காற்று வீசியது.",
+          "en": "As soon as we came out of the tunnel, a strong wind hit us."
+        },
+        {
+          "ja": "彼は駅に着いたとたん、財布がないことに気づいた。",
+          "reading": "かれは えきに ついた とたん、さいふが ない ことに きづいた。",
+          "romaji": "kare wa eki ni tsuita totan, saifu ga nai koto ni kizuita.",
+          "ta": "ஸ்டேஷனை அடைந்ததுமே அவன் பர்ஸ் இல்லை என்பதை உணர்ந்தான்.",
+          "en": "The moment he reached the station, he noticed his wallet was gone."
+        }
+      ],
+      "pitfalls_ta": "「家に帰ったとたん、宿題をしよう」 தவறு: இரண்டாம் பகுதியில் உங்கள் திட்டம் வரக்கூடாது. அதற்கு 「家に帰ったらすぐ宿題をしよう」 என்று சொல்லுங்கள். とたん-க்கு முன் அகராதி வடிவம் (出るとたん) வராது; எப்போதும் た வடிவம்.",
+      "pitfalls_en": "「家に帰ったとたん、宿題をしよう」 is wrong: part B can’t be your plan. Say 「家に帰ったらすぐ宿題をしよう」 instead. Always use the た-form before とたん, never 出るとたん."
+    },
+    {
+      "id": "g04-2",
+      "pattern": "V-た ところ",
+      "name": {
+        "en": "When I did ~, I found that ~",
+        "ta": "…செய்தபோது (…என்று தெரிந்தது)"
+      },
+      "explanation_ta": "「V-たところ、B」 என்றால் 'A-ஐச் செய்து பார்த்தபோது B என்ற முடிவு/தகவல் தெரிந்தது' என்று பொருள். A என்பது பேசுபவர் வேண்டுமென்றே செய்த செயல் (கேட்டேன், அழைத்தேன், பயன்படுத்தினேன்). B அதன் விளைவு, பெரும்பாலும் கடந்த காலம். இது N4-இல் கற்ற கண்டறியும் 「〜たら」 (聞いたら、わかった) போன்றது; ஆனால் ところ சற்று முறையானது, எழுத்திலும் அலுவலகப் பேச்சிலும் அதிகம் வரும். கவனம்: N4-இன் 「今帰ったところです」 ('இப்போதுதான் வந்தேன்') வேறு. இங்கே ところ-க்குப் பின் காற்புள்ளியும் இன்னொரு வாக்கியப் பகுதியும் வரும்.",
+      "explanation_en": "V-たところ、B means “I did A, and then I found out B”. A is something you chose to do: asked, called, tried. B is the result or the news, usually in the past. It is like the “discovery” たら you know from N4 (聞いたら、わかった). But ところ is a bit more formal. You see it in writing and at work. Careful: 今帰ったところです (“I just got back”, N4) is different. Here ところ is followed by a comma and a second part.",
+      "tamil_parallel": "ஸ்டேஷன் ஊழியரிடம் கேட்டதில், ரயில் தாமதம் என்று தெரிந்தது = 駅員に聞いたところ、電車が遅れているとわかった",
+      "tamil_parallel_en": "கேட்டதில் … என்று தெரிந்தது (when I asked, I found out …) = 聞いたところ、…とわかった",
+      "formation": "V-た + ところ、+ விளைவு (கடந்த காலம்)\n聞く → 聞いたところ、…\n電話する → 電話したところ、…",
+      "formation_en": "V-た + ところ、+ result (past)\n聞く → 聞いたところ、…\n電話する → 電話したところ、…",
+      "examples": [
+        {
+          "ja": "駅員に聞いたところ、次の電車は二十分後だとわかった。",
+          "reading": "えきいんに きいた ところ、つぎの でんしゃは にじゅっぷんごだと わかった。",
+          "romaji": "ekiin ni kiita tokoro, tsugi no densha wa nijuppungo da to wakatta.",
+          "ta": "ஸ்டேஷன் ஊழியரிடம் கேட்டபோது, அடுத்த ரயில் இருபது நிமிடம் கழித்துதான் என்று தெரிந்தது.",
+          "en": "When I asked a station worker, I learned the next train was in twenty minutes."
+        },
+        {
+          "ja": "高速道路を使ったところ、三十分早く着きました。",
+          "reading": "こうそくどうろを つかった ところ、さんじゅっぷん はやく つきました。",
+          "romaji": "kousokudouro o tsukatta tokoro, sanjuppun hayaku tsukimashita.",
+          "ta": "விரைவுச் சாலையைப் பயன்படுத்தியதில் முப்பது நிமிடம் முன்னதாகச் சேர்ந்தோம்.",
+          "en": "When we took the expressway, we arrived thirty minutes early."
+        },
+        {
+          "ja": "会社に電話したところ、課長はもう帰っていました。",
+          "reading": "かいしゃに でんわした ところ、かちょうは もう かえって いました。",
+          "romaji": "kaisha ni denwa shita tokoro, kachou wa mou kaette imashita.",
+          "ta": "அலுவலகத்துக்கு அழைத்தபோது, மேலாளர் ஏற்கெனவே வீட்டுக்குப் போயிருந்தார்.",
+          "en": "When I called the office, the section chief had already gone home."
+        },
+        {
+          "ja": "アプリで調べたところ、事故で電車が止まっていることがわかりました。",
+          "reading": "アプリで しらべた ところ、じこで でんしゃが とまって いる ことが わかりました。",
+          "romaji": "apuri de shirabeta tokoro, jiko de densha ga tomatte iru koto ga wakarimashita.",
+          "ta": "ஆப்பில் பார்த்தபோது விபத்தால் ரயில்கள் நின்றிருப்பது தெரிந்தது.",
+          "en": "When I checked the app, I found the trains had stopped because of an accident."
+        },
+        {
+          "ja": "自転車で通勤してみたところ、体の調子がよくなりました。",
+          "reading": "じてんしゃで つうきんして みた ところ、からだの ちょうしが よく なりました。",
+          "romaji": "jitensha de tsuukin shite mita tokoro, karada no choushi ga yoku narimashita.",
+          "ta": "சைக்கிளில் வேலைக்குப் போய்ப் பார்த்ததில் உடல்நிலை நன்றாக ஆனது.",
+          "en": "When I tried cycling to work, I started to feel healthier."
+        },
+        {
+          "ja": "先輩に相談したところ、いい方法を教えてくれました。",
+          "reading": "せんぱいに そうだんした ところ、いい ほうほうを おしえて くれました。",
+          "romaji": "senpai ni soudan shita tokoro, ii houhou o oshiete kuremashita.",
+          "ta": "சீனியரிடம் ஆலோசனை கேட்டபோது, அவர் நல்ல வழியைச் சொல்லிக் கொடுத்தார்.",
+          "en": "When I asked my senior for advice, she showed me a good way."
+        }
+      ],
+      "pitfalls_ta": "「V-たところです」 (இப்போதுதான் செய்தேன்) உடன் குழப்ப வேண்டாம்: 「ところ、」 என்று காற்புள்ளி வந்து இன்னொரு பகுதி தொடர்ந்தால் அது 'செய்தபோது தெரிந்தது'. விளைவுப் பகுதியில் உங்கள் விருப்பம் (〜したい) அல்லது கட்டளை வராது.",
+      "pitfalls_en": "Don’t mix it up with V-たところです (“I just did it”). If ところ is followed by a comma and more words, it means “when I did it, I found”. The second part can’t be a wish or a request."
+    },
+    {
+      "id": "g04-3",
+      "pattern": "V-る / V-ている / V-た ところに・ところへ",
+      "name": {
+        "en": "Just when ~ (someone or something comes)",
+        "ta": "…செய்யும்/செய்துகொண்டிருக்கும் நேரத்தில் (ஒருவர் வந்தார்)"
+      },
+      "explanation_ta": "「〜ところに / ところへ」 என்றால் 'நான் ஒரு செயலின் ஒரு கட்டத்தில் இருந்தபோது, சரியாக அப்போது யாரோ வந்தார் / ஏதோ நடந்தது' என்று பொருள். பெரும்பாலும் அது நம் செயலைக் குறுக்கிடும். இரண்டாம் பகுதியில் 来る, 帰ってくる, 電話がかかってくる, 入ってくる போன்ற 'வருதல்' வினைகள் அதிகம் வரும். ところ-க்கு முன் உள்ள வடிவம் கட்டத்தைக் காட்டும்: V-る = செய்யப்போகும் நேரம், V-ている = செய்துகொண்டிருக்கும் நேரம், V-た = செய்து முடித்த நேரம். に, へ இரண்டும் ஒரே பொருள்; தமிழில் '…நேரத்தில்' (-இல்) என்பது போல. 「ちょうどいいところに来たね」 (சரியான நேரத்தில் வந்தாய்) என்பது பொதுவான பேச்சு.",
+      "explanation_en": "〜ところに / ところへ means “just as I was at this point in an action, someone came or something happened”. It often interrupts what you are doing. Part B often has a “coming” verb: 来る, 帰ってくる, 電話がかかってくる, 入ってくる. The form before ところ shows the stage. V-る = about to do. V-ている = in the middle of doing. V-た = just finished. に and へ mean the same here. A common phrase is ちょうどいいところに来たね (“You came at just the right time”).",
+      "tamil_parallel": "நான் கிளம்பும் நேரத்தில் நண்பர் வந்தார் = 出かけるところに友達が来た",
+      "tamil_parallel_en": "கிளம்பும் நேரத்தில் நண்பர் வந்தார் (just as I was leaving, a friend came) = 出かけるところに友達が来た",
+      "formation": "V-る ところに/へ (செய்யப்போகும் நேரம்)\nV-ている ところに/へ (செய்துகொண்டிருக்கும் நேரம்)\nV-た ところに/へ (செய்து முடித்த நேரம்)\n+ 来る / 電話がかかってくる …",
+      "formation_en": "V-る ところに/へ (about to do)\nV-ている ところに/へ (in the middle of doing)\nV-た ところに/へ (just finished)\n+ 来る / 電話がかかってくる …",
+      "examples": [
+        {
+          "ja": "出かけるところに、友達から電話がかかってきました。",
+          "reading": "でかける ところに、ともだちから でんわが かかって きました。",
+          "romaji": "dekakeru tokoro ni, tomodachi kara denwa ga kakatte kimashita.",
+          "ta": "நான் கிளம்பும் நேரத்தில் நண்பரிடமிருந்து அழைப்பு வந்தது.",
+          "en": "Just as I was going out, a friend phoned me."
+        },
+        {
+          "ja": "ちょうどバスを待っているところへ、雨が降ってきました。",
+          "reading": "ちょうど バスを まって いる ところへ、あめが ふって きました。",
+          "romaji": "choudo basu o matte iru tokoro e, ame ga futte kimashita.",
+          "ta": "நான் பேருந்துக்காகக் காத்திருந்த நேரத்தில் சரியாக மழை வந்தது.",
+          "en": "Right while I was waiting for the bus, it started to rain."
+        },
+        {
+          "ja": "家に帰ったところに、母から荷物が届きました。",
+          "reading": "いえに かえった ところに、ははから にもつが とどきました。",
+          "romaji": "ie ni kaetta tokoro ni, haha kara nimotsu ga todokimashita.",
+          "ta": "நான் வீட்டுக்குத் திரும்பிய நேரத்தில் அம்மாவிடமிருந்து பார்சல் வந்தது.",
+          "en": "Just as I got home, a parcel arrived from my mother."
+        },
+        {
+          "ja": "ちょうどいいところに来たね。ちょっと手伝ってくれる？",
+          "reading": "ちょうど いい ところに きたね。ちょっと てつだって くれる？",
+          "romaji": "choudo ii tokoro ni kita ne. chotto tetsudatte kureru?",
+          "ta": "சரியான நேரத்தில் வந்தாய். கொஞ்சம் உதவி செய்வாயா?",
+          "en": "You came at just the right time. Can you help me a bit?"
+        },
+        {
+          "ja": "会議の準備をしているところへ、部長が入ってきました。",
+          "reading": "かいぎの じゅんびを して いる ところへ、ぶちょうが はいって きました。",
+          "romaji": "kaigi no junbi o shite iru tokoro e, buchou ga haitte kimashita.",
+          "ta": "கூட்டத்துக்குத் தயார் செய்துகொண்டிருந்தபோது மேலாளர் உள்ளே வந்தார்.",
+          "en": "While I was getting the meeting ready, the manager came in."
+        },
+        {
+          "ja": "電車が発車するところに、男の人が走って乗ってきました。",
+          "reading": "でんしゃが はっしゃする ところに、おとこの ひとが はしって のって きました。",
+          "romaji": "densha ga hassha suru tokoro ni, otoko no hito ga hashitte notte kimashita.",
+          "ta": "ரயில் புறப்படும் நேரத்தில் ஒருவர் ஓடி வந்து ஏறினார்.",
+          "en": "Just as the train was leaving, a man ran up and got on."
+        }
+      ],
+      "pitfalls_ta": "「ところに」 ஒரு நேரக் கட்டத்தைக் காட்டுகிறது, இடத்தை அல்ல; 'அந்த இடத்தில்' என்று மொழிபெயர்க்க வேண்டாம். ஒருவர் உங்களை 'பார்த்தார், பிடித்தார்' என்றால் 「ところを」 (அடுத்த அமைப்பு) பயன்படுத்துங்கள்.",
+      "pitfalls_en": "ところに here is a point in time, not a place. Don’t translate it as “at that place”. If someone “saw” or “caught” you, use ところを (the next pattern)."
+    },
+    {
+      "id": "g04-4",
+      "pattern": "V-ている ところを",
+      "name": {
+        "en": "(Seen or caught) in the act of ~",
+        "ta": "…செய்துகொண்டிருக்கும்போது (பார்க்கப்பட்டது/பிடிபட்டது)"
+      },
+      "explanation_ta": "「V-ているところを + 見る/見られる/見つかる/助ける/呼び止める」 என்றால் 'ஒருவர் ஒரு செயலைச் செய்துகொண்டிருந்த அந்த நிலையை (யாரோ) பார்த்தார், பிடித்தார், காப்பாற்றினார்' என்று பொருள். இங்கே を என்பது தமிழின் -ஐ போல: 'செய்துகொண்டிருந்த நிலையை' பார்த்தார். பெரும்பாலும் passive (見られた, 見つかった) உடன் வந்து 'மாட்டிக்கொண்டேன்' என்ற உணர்வைத் தரும். 「お忙しいところを、ありがとうございます」 (நீங்கள் பிஸியாக இருக்கும் நேரத்திலும் நன்றி) என்பது மரியாதையான நிலையான தொடர். ところに 'அந்த நேரத்தில் ஏதோ வந்தது'; ところを 'அந்த நிலையை நேரடியாகப் பார்த்தல்/கையாளுதல்'.",
+      "explanation_en": "V-ているところを + 見る / 見られる / 見つかる / 助ける / 呼び止める means someone saw, caught or helped a person right in the middle of an action. を marks “that scene” as the object, like Tamil -ஐ. With passive forms (見られた, 見つかった) it often means “I got caught”. お忙しいところを、ありがとうございます (“Thank you for your time while you’re busy”) is a polite set phrase. ところに = something arrived at that moment. ところを = someone acted directly on that scene.",
+      "tamil_parallel": "வகுப்பில் தூங்கிக்கொண்டிருந்ததை ஆசிரியர் பார்த்துவிட்டார் = 授業中に寝ているところを先生に見られた",
+      "tamil_parallel_en": "தூங்கிக்கொண்டிருந்ததை ஆசிரியர் பார்த்துவிட்டார் (the teacher saw me sleeping) = 寝ているところを先生に見られた",
+      "formation": "V-ている + ところを + 見る / 見られる / 見つかる / 助ける …\n寝る → 寝ているところを見られた",
+      "formation_en": "V-ている + ところを + 見る / 見られる / 見つかる / 助ける …\n寝る → 寝ているところを見られた",
+      "examples": [
+        {
+          "ja": "信号を無視して横断しているところを、警察官に見られました。",
+          "reading": "しんごうを むしして おうだんして いる ところを、けいさつかんに みられました。",
+          "romaji": "shingou o mushi shite oudan shite iru tokoro o, keisatsukan ni miraremashita.",
+          "ta": "சிக்னலை மதிக்காமல் சாலையைக் கடந்துகொண்டிருந்ததை ஒரு போலீஸ்காரர் பார்த்துவிட்டார்.",
+          "en": "A police officer saw me crossing against the light."
+        },
+        {
+          "ja": "授業中に寝ているところを先生に見つかった。",
+          "reading": "じゅぎょうちゅうに ねて いる ところを せんせいに みつかった。",
+          "romaji": "jugyouchuu ni nete iru tokoro o sensei ni mitsukatta.",
+          "ta": "வகுப்பில் தூங்கிக்கொண்டிருந்தபோது ஆசிரியரிடம் மாட்டிக்கொண்டேன்.",
+          "en": "The teacher caught me sleeping in class."
+        },
+        {
+          "ja": "道で困っているところを、知らない人が助けてくれました。",
+          "reading": "みちで こまって いる ところを、しらない ひとが たすけて くれました。",
+          "romaji": "michi de komatte iru tokoro o, shiranai hito ga tasukete kuremashita.",
+          "ta": "சாலையில் சிரமப்பட்டுக்கொண்டிருந்தபோது தெரியாத ஒருவர் எனக்கு உதவினார்.",
+          "en": "When I was in trouble on the street, a stranger helped me."
+        },
+        {
+          "ja": "駅で電車を待っているところを、友達に写真に撮られました。",
+          "reading": "えきで でんしゃを まって いる ところを、ともだちに しゃしんに とられました。",
+          "romaji": "eki de densha o matte iru tokoro o, tomodachi ni shashin ni toraremashita.",
+          "ta": "ஸ்டேஷனில் ரயிலுக்காகக் காத்திருந்தபோது நண்பர் என்னைப் படம் எடுத்துவிட்டார்.",
+          "en": "My friend took a photo of me while I was waiting for the train."
+        },
+        {
+          "ja": "男が店の物を盗んでいるところを、店員が捕まえました。",
+          "reading": "おとこが みせの ものを ぬすんで いる ところを、てんいんが つかまえました。",
+          "romaji": "otoko ga mise no mono o nusunde iru tokoro o, ten'in ga tsukamaemashita.",
+          "ta": "ஒருவன் கடைப் பொருளைத் திருடிக்கொண்டிருந்தபோதே கடை ஊழியர் அவனைப் பிடித்தார்.",
+          "en": "A shop worker caught a man in the act of stealing."
+        },
+        {
+          "ja": "お忙しいところを、ありがとうございます。",
+          "reading": "おいそがしい ところを、ありがとうございます。",
+          "romaji": "oisogashii tokoro o, arigatou gozaimasu.",
+          "ta": "நீங்கள் வேலையாக இருக்கும் நேரத்திலும் (நேரம் ஒதுக்கியதற்கு) நன்றி.",
+          "en": "Thank you for your time when you’re so busy."
+        }
+      ],
+      "pitfalls_ta": "「寝ているところに先生に見られた」 தவறு; 'பார்த்தல், பிடித்தல்' வினைகளுடன் を வேண்டும். ஆனால் 'யாரோ வந்தார்' என்றால் ところに.",
+      "pitfalls_en": "「寝ているところに先生に見られた」 is wrong. Verbs like “see” and “catch” need を. But for “someone came”, use ところに."
+    },
+    {
+      "id": "g04-5",
+      "pattern": "V-る ところだった",
+      "name": {
+        "en": "Almost ~ (but it didn’t happen)",
+        "ta": "…ஆகியிருக்கும் (நல்லவேளை, ஆகவில்லை)"
+      },
+      "explanation_ta": "「V-るところだった」 என்றால் 'கொஞ்சம் இருந்தால் அது நடந்திருக்கும், ஆனால் நடக்கவில்லை' என்று பொருள். பெரும்பாலும் கெட்ட விஷயம் (விழுதல், மோதுதல், தவறவிடுதல்) நூலிழையில் தப்பியதைச் சொல்லும். 「もう少しで」 (கொஞ்சம் இருந்தால்), 「危うく」 போன்ற சொற்களுடனும், 「〜たら / 〜なかったら」 உடனும் அடிக்கடி வரும். ところ-க்கு முன் அகராதி வடிவம் (る வடிவம்) மட்டும்; 'ஆகியிருக்கும்' என்ற கடந்த காலப் பொருள் だった-வில் உள்ளது. தமிழில் '…ஆகப் பார்த்தது', '…ஆகியிருக்கும்' போன்றது.",
+      "explanation_en": "V-るところだった means “it almost happened, but it didn’t”. It is usually about a bad thing you just escaped: falling, crashing, missing a train. It often goes with もう少しで (“a little more and…”) or 危うく. It also goes with 〜たら / 〜なかったら (“if…”). Use the dictionary form before ところ. The past meaning is in だった. In Tamil it is like “…ஆகியிருக்கும்” (it would have happened).",
+      "tamil_parallel": "கொஞ்சம் இருந்தால் ரயிலைத் தவறவிட்டிருப்பேன் = もう少しで電車に乗り遅れるところだった",
+      "tamil_parallel_en": "கொஞ்சம் இருந்தால் தவறவிட்டிருப்பேன் (I almost missed it) = もう少しで乗り遅れるところだった",
+      "formation": "(もう少しで) + V-る (அகராதி வடிவம்) + ところだった / ところでした\n転ぶ → 転ぶところだった",
+      "formation_en": "(もう少しで) + V-る (dictionary form) + ところだった / ところでした\n転ぶ → 転ぶところだった",
+      "examples": [
+        {
+          "ja": "もう少しで電車に乗り遅れるところだった。",
+          "reading": "もう すこしで でんしゃに のりおくれる ところだった。",
+          "romaji": "mou sukoshi de densha ni noriokureru tokoro datta.",
+          "ta": "கொஞ்சம் இருந்தால் ரயிலைத் தவறவிட்டிருப்பேன்.",
+          "en": "I very nearly missed the train."
+        },
+        {
+          "ja": "ブレーキが遅かったら、前の車に衝突するところでした。",
+          "reading": "ブレーキが おそかったら、まえの くるまに しょうとつする ところでした。",
+          "romaji": "bureeki ga osokattara, mae no kuruma ni shoutotsu suru tokoro deshita.",
+          "ta": "பிரேக் போடத் தாமதித்திருந்தால் முன்னால் இருந்த காரில் மோதியிருப்பேன்.",
+          "en": "If I had braked any later, I would have crashed into the car in front."
+        },
+        {
+          "ja": "階段で転ぶところだったけど、手すりにつかまって助かった。",
+          "reading": "かいだんで ころぶ ところだったけど、てすりに つかまって たすかった。",
+          "romaji": "kaidan de korobu tokoro datta kedo, tesuri ni tsukamatte tasukatta.",
+          "ta": "படிக்கட்டில் விழப்போனேன், ஆனால் கைப்பிடியைப் பிடித்துக்கொண்டதால் தப்பித்தேன்.",
+          "en": "I nearly fell on the stairs, but I grabbed the handrail and was fine."
+        },
+        {
+          "ja": "話に夢中になって、降りる駅を通り過ぎるところでした。",
+          "reading": "はなしに むちゅうに なって、おりる えきを とおりすぎる ところでした。",
+          "romaji": "hanashi ni muchuu ni natte, oriru eki o toorisugiru tokoro deshita.",
+          "ta": "பேச்சில் மூழ்கி, இறங்க வேண்டிய ஸ்டேஷனைத் தாண்டப்போனேன்.",
+          "en": "I got so into the chat that I nearly went past my stop."
+        },
+        {
+          "ja": "危ない！もう少しで車にひかれるところだったよ。",
+          "reading": "あぶない！もう すこしで くるまに ひかれる ところだったよ。",
+          "romaji": "abunai! mou sukoshi de kuruma ni hikareru tokoro datta yo.",
+          "ta": "ஜாக்கிரதை! கொஞ்சம் இருந்தால் கார் உன்மேல் ஏறியிருக்கும்.",
+          "en": "Watch out! You were nearly hit by a car."
+        },
+        {
+          "ja": "彼が教えてくれなかったら、大事な会議を忘れるところでした。",
+          "reading": "かれが おしえて くれなかったら、だいじな かいぎを わすれる ところでした。",
+          "romaji": "kare ga oshiete kurenakattara, daiji na kaigi o wasureru tokoro deshita.",
+          "ta": "அவர் சொல்லியிருக்காவிட்டால் முக்கியமான கூட்டத்தை மறந்திருப்பேன்.",
+          "en": "If he hadn’t told me, I would have forgotten an important meeting."
+        }
+      ],
+      "pitfalls_ta": "「乗り遅れたところだった」 தவறு; ところ-க்கு முன் அகராதி வடிவம் வேண்டும். 「乗り遅れるところだ」 (இப்போது தவறவிடப் போகிறேன்) என்பதும் வேறு பொருள். அது உண்மையில் நடந்திருந்தால் 「乗り遅れてしまった」 என்று சொல்லுங்கள்.",
+      "pitfalls_en": "「乗り遅れたところだった」 is wrong: use the dictionary form before ところ. 「乗り遅れるところだ」 (“I’m about to miss it”) is a different meaning. If it really happened, say 「乗り遅れてしまった」."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0022",
+    "n3-v-0099",
+    "n3-v-0123",
+    "n3-v-0133",
+    "n3-v-0148",
+    "n3-v-0188",
+    "n3-v-0252",
+    "n3-v-0365",
+    "n3-v-0366",
+    "n3-v-0396",
+    "n3-v-0406",
+    "n3-v-0465",
+    "n3-v-0483",
+    "n3-v-0494",
+    "n3-v-0504",
+    "n3-v-0547",
+    "n3-v-0738",
+    "n3-v-0743",
+    "n3-v-0787",
+    "n3-v-0834",
+    "n3-v-0852",
+    "n3-v-0885",
+    "n3-v-0897",
+    "n3-v-0948",
+    "n3-v-0951",
+    "n3-v-0990",
+    "n3-v-1117",
+    "n3-v-1136",
+    "n3-v-1179",
+    "n3-v-1231",
+    "n3-v-1323",
+    "n3-v-1380",
+    "n3-v-1463",
+    "n3-v-1495",
+    "n3-v-1497",
+    "n3-v-1498",
+    "n3-v-1499",
+    "n3-v-1508",
+    "n3-v-1546",
+    "n3-v-1561",
+    "n3-v-1582",
+    "n3-v-1589",
+    "n3-v-1591",
+    "n3-v-1615",
+    "n3-v-1617",
+    "n3-v-1629",
+    "n3-v-1641",
+    "n3-v-1745",
+    "n3-v-1776",
+    "n3-v-1780",
+    "n3-v-1815",
+    "n3-v-1828",
+    "n3-v-1852",
+    "n3-v-1905",
+    "n3-v-1930",
+    "n3-v-1941",
+    "n3-v-1948",
+    "n3-v-2055"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L04-q01",
+        "type": "kanji_reading",
+        "sentence": "朝の道路はひどく＿渋滞＿していた。",
+        "target": "渋滞",
+        "options": [
+          "しゅうたい",
+          "じゅたい",
+          "じゅうたい",
+          "じゅうだい"
+        ],
+        "answer": 2,
+        "explanation_ta": "渋滞 = じゅうたい (போக்குவரத்து நெரிசல்). じゅう-வில் நீண்ட ஒலியும், たい-இல் தெளிவான 'த'-வும் வேண்டும். じゅたい குறுகியது; じゅうだい (重大/十代) வேறு சொல்.",
+        "explanation_en": "渋滞 = じゅうたい (traffic jam). It needs the long じゅう and a clear た. じゅたい is too short. じゅうだい is a different word."
+      },
+      {
+        "id": "L04-q02",
+        "type": "kanji_reading",
+        "sentence": "事故で電車に三十分の＿遅れ＿が出ています。",
+        "target": "遅れ",
+        "options": [
+          "おそれ",
+          "おくれ",
+          "おぐれ",
+          "おこれ"
+        ],
+        "answer": 1,
+        "explanation_ta": "遅れ = おくれ (தாமதம்), 遅れる (தாமதமாக) என்ற வினையிலிருந்து. おそれ (恐れ = பயம்) வேறு சொல்; 遅い (おそい) உடன் குழப்ப வேண்டாம்.",
+        "explanation_en": "遅れ = おくれ (delay), from 遅れる (to be late). おそれ means “fear”, a different word. Don’t mix it up with 遅い (おそい)."
+      },
+      {
+        "id": "L04-q03",
+        "type": "kanji_reading",
+        "sentence": "飛行機は予定どおり＿到着＿しました。",
+        "target": "到着",
+        "options": [
+          "とちゃく",
+          "どうちゃく",
+          "とうじゃく",
+          "とうちゃく"
+        ],
+        "answer": 3,
+        "explanation_ta": "到着 = とうちゃく (வந்து சேருதல்). と-வில் நீண்ட 'ஓ' (とう) வேண்டும், ちゃく-வில் 'ச' ஒலி மாறாது. とちゃく குறுகியது.",
+        "explanation_en": "到着 = とうちゃく (arrival). It needs the long とう, and ちゃく does not change to じゃく. とちゃく is too short."
+      },
+      {
+        "id": "L04-q04",
+        "type": "kanji_reading",
+        "sentence": "交差点で車とバイクが＿衝突＿した。",
+        "target": "衝突",
+        "options": [
+          "しょうどつ",
+          "しょうとつ",
+          "そうとつ",
+          "しょとつ"
+        ],
+        "answer": 1,
+        "explanation_ta": "衝突 = しょうとつ (மோதல்). しょう நீண்டது, とつ-வில் 'த' ஒலி. しょうどつ, しょとつ இரண்டும் ஒலி பிழை.",
+        "explanation_en": "衝突 = しょうとつ (collision). しょう is long, and とつ has a clear と. しょうどつ and しょとつ have the wrong sounds."
+      },
+      {
+        "id": "L04-q05",
+        "type": "orthography",
+        "sentence": "急行はこの駅を＿つうか＿します。",
+        "target": "つうか",
+        "options": [
+          "通化",
+          "痛過",
+          "通過",
+          "通貨"
+        ],
+        "answer": 2,
+        "explanation_ta": "つうか (நிற்காமல் கடந்து செல்லுதல்) = 通過: 通 (வழியே செல்), 過 (கடந்து). 通貨 என்பதும் つうか தான், ஆனால் அது 'நாணயம், பணம்'.",
+        "explanation_en": "つうか (passing through) = 通過: 通 (go through) + 過 (pass). 通貨 is also read つうか, but it means “currency”."
+      },
+      {
+        "id": "L04-q06",
+        "type": "orthography",
+        "sentence": "駅前の＿ていりゅうじょ＿でバスを待ちます。",
+        "target": "ていりゅうじょ",
+        "options": [
+          "停流所",
+          "停留所",
+          "定留所",
+          "停留処"
+        ],
+        "answer": 1,
+        "explanation_ta": "ていりゅうじょ (பேருந்து நிறுத்தம்) = 停留所: 停 (நிற்க), 留 (தங்க), 所 (இடம்). 流 (ஓட), 定 (நிர்ணயம்) தவறான எழுத்துகள்.",
+        "explanation_en": "ていりゅうじょ (bus stop) = 停留所: 停 (stop) + 留 (stay) + 所 (place). 流 (flow) and 定 (fix) are the wrong kanji."
+      },
+      {
+        "id": "L04-q07",
+        "type": "vocab_context",
+        "sentence": "電車が混んでいたので、お年寄りに席を（　　）。",
+        "options": [
+          "わたしました",
+          "よこぎりました",
+          "とおりました",
+          "ゆずりました"
+        ],
+        "answer": 3,
+        "explanation_ta": "இருக்கையை ஒருவருக்கு 'விட்டுக்கொடுத்தல்' = 席を譲る. わたす (கையில் கொடுத்தல்) பொருள்களுக்குப் பயன்படும்; இருக்கைக்கு இயல்பாக வராது.",
+        "explanation_en": "Giving your seat to someone = 席を譲る. わたす (hand over) is for objects you pass by hand. It doesn’t sound natural with a seat."
+      },
+      {
+        "id": "L04-q08",
+        "type": "vocab_context",
+        "sentence": "駅で十年ぶりに昔の友達に（　　）会いました。",
+        "options": [
+          "ばったり",
+          "すっかり",
+          "はっきり",
+          "しっかり"
+        ],
+        "answer": 0,
+        "explanation_ta": "எதிர்பாராமல் ஒருவரைச் சந்தித்தல் = ばったり会う. すっかり (முழுவதும்), はっきり (தெளிவாக), しっかり (உறுதியாக) 会う உடன் பொருந்தாது.",
+        "explanation_en": "Meeting someone by chance = ばったり会う. すっかり (completely), はっきり (clearly) and しっかり (firmly) don’t fit with 会う."
+      },
+      {
+        "id": "L04-q09",
+        "type": "vocab_context",
+        "sentence": "このバスは駅を（　　）して、空港まで行きます。",
+        "options": [
+          "経由",
+          "到着",
+          "発車",
+          "移動"
+        ],
+        "answer": 0,
+        "explanation_ta": "'ஸ்டேஷன் வழியாக' = 駅を経由して. 到着 (வந்து சேர்தல்) என்றால் அங்கேயே பயணம் முடியும்; 'பிறகு விமான நிலையம் வரை' என்பதுடன் பொருந்தாது.",
+        "explanation_en": "“Via the station” = 駅を経由して. 到着 means the trip ends there, so it doesn’t fit with “then on to the airport”."
+      },
+      {
+        "id": "L04-q10",
+        "type": "vocab_context",
+        "sentence": "子どもが急に飛び出してきたので、あわてて（　　）を踏んだ。",
+        "options": [
+          "エンジン",
+          "ハンドル",
+          "ブレーキ",
+          "トンネル"
+        ],
+        "answer": 2,
+        "explanation_ta": "வண்டியை நிறுத்த மிதிப்பது பிரேக் = ブレーキを踏む. エンジン, ハンドル (ஸ்டீயரிங்) ஆகியவற்றை 'மிதிக்க' மாட்டோம்.",
+        "explanation_en": "To stop a car you step on the brake = ブレーキを踏む. You don’t step on an engine or a steering wheel (ハンドル)."
+      },
+      {
+        "id": "L04-q11",
+        "type": "vocab_context",
+        "sentence": "毎日電車で一時間かけて会社に（　　）しています。",
+        "options": [
+          "通勤",
+          "通過",
+          "通行",
+          "横断"
+        ],
+        "answer": 0,
+        "explanation_ta": "வேலைக்குத் தினமும் சென்று வருதல் = 通勤. 通過 (நிற்காமல் கடந்து செல்லுதல்), 通行 (ஒரு வழியாகச் செல்லுதல்) 'அலுவலகத்துக்கு' என்பதுடன் பொருந்தாது.",
+        "explanation_en": "Going to work every day = 通勤 (commuting). 通過 (passing through) and 通行 (passing along a road) don’t fit with “to the office”."
+      },
+      {
+        "id": "L04-q12",
+        "type": "paraphrase",
+        "sentence": "今朝は駅がひどく混雑していた。",
+        "options": [
+          "今朝は駅がとても静かだった。",
+          "今朝は駅に人がとても多かった。",
+          "今朝は駅に電車が来なかった。",
+          "今朝は駅がとても汚かった。"
+        ],
+        "answer": 1,
+        "explanation_ta": "混雑 = கூட்ட நெரிசல், அதாவது 'மக்கள் மிக அதிகம்'. 静か (அமைதி) நேர் எதிர்ப் பொருள்.",
+        "explanation_en": "混雑 = crowded, so “there were very many people”. 静か (quiet) means the opposite."
+      },
+      {
+        "id": "L04-q13",
+        "type": "paraphrase",
+        "sentence": "一瞬、何が起きたかわからなかった。",
+        "options": [
+          "しばらくの間、何が起きたかわからなかった。",
+          "長い間、何が起きたかわからなかった。",
+          "ほんの短い間、何が起きたかわからなかった。",
+          "一日中、何が起きたかわからなかった。"
+        ],
+        "answer": 2,
+        "explanation_ta": "一瞬 = ஒரு நொடி, மிகக் குறுகிய நேரம் = ほんの短い間. しばらく (சிறிது நேரம், சில நிமிடங்கள்) 一瞬-ஐ விட நீண்டது.",
+        "explanation_en": "一瞬 = an instant, a very short time = ほんの短い間. しばらく (for a while) is longer than 一瞬."
+      },
+      {
+        "id": "L04-q14",
+        "type": "usage",
+        "sentence": "通り過ぎる",
+        "options": [
+          "毎日、電車で会社に通り過ぎています。",
+          "先生の説明を通り過ぎて、よくわかりました。",
+          "新しい家に通り過ぎて、一か月になります。",
+          "話に夢中になって、降りる駅を通り過ぎてしまった。"
+        ],
+        "answer": 3,
+        "explanation_ta": "通り過ぎる = ஓர் இடத்தை நிற்காமல் தாண்டிச் செல்லுதல்; 'இறங்க வேண்டிய ஸ்டேஷனைத் தாண்டினேன்' சரி. 会社に通う (தினமும் போவது) என்பதற்கு 通り過ぎる பொருந்தாது.",
+        "explanation_en": "通り過ぎる = to go past a place without stopping. “I went past my stop” is right. For going to work every day, use 通う, not 通り過ぎる."
+      },
+      {
+        "id": "L04-q15",
+        "type": "usage",
+        "sentence": "譲る",
+        "options": [
+          "毎朝、駅まで自転車を譲ります。",
+          "電車でお年寄りに席を譲りました。",
+          "雨がひどくて、試合を譲りました。",
+          "友達の誕生日にケーキを譲って食べました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "譲る = தனக்குரியதை மற்றவருக்கு விட்டுக்கொடுத்தல்; 'முதியவருக்கு இருக்கையை விட்டுக்கொடுத்தேன்' சரி. 'மழையால் போட்டியை…' என்பதற்கு 中止する (ரத்து) வேண்டும்.",
+        "explanation_en": "譲る = to give what is yours to someone else. “I gave my seat to an elderly person” is right. For “because of rain, the match was…” you need 中止する (cancel)."
+      },
+      {
+        "id": "L04-q16",
+        "type": "grammar_form",
+        "sentence": "立ち上がった（　　）、電車が急に止まって転びそうになった。",
+        "options": [
+          "ながら",
+          "とたん",
+          "あいだに",
+          "までに"
+        ],
+        "answer": 1,
+        "explanation_ta": "'எழுந்த அதே நொடியில் திடீரென' = 立ち上がったとたん. ながら, あいだに ஆகியவை た வடிவத்துடன் சேராது.",
+        "explanation_en": "“The very moment I stood up, suddenly…” = 立ち上がったとたん. ながら and あいだに don’t join to the た-form."
+      },
+      {
+        "id": "L04-q17",
+        "type": "grammar_form",
+        "sentence": "駅員に聞いた（　　）、電車は事故で止まっているということだった。",
+        "options": [
+          "とたん",
+          "ところを",
+          "ところ",
+          "ところへ"
+        ],
+        "answer": 2,
+        "explanation_ta": "'கேட்டபோது இந்தத் தகவல் தெரிந்தது' = 聞いたところ. とたん திடீர் நிகழ்வுக்கு; இங்கே கேட்டுப் பெற்ற தகவல், அதனால் ところ.",
+        "explanation_en": "“When I asked, I learned this” = 聞いたところ. とたん is for a sudden event. Here it is news you got by asking, so use ところ."
+      },
+      {
+        "id": "L04-q18",
+        "type": "grammar_form",
+        "sentence": "ちょうど家を出る（　　）、宅配便が届いた。",
+        "options": [
+          "ところに",
+          "ところを",
+          "ところだった",
+          "とたん"
+        ],
+        "answer": 0,
+        "explanation_ta": "'கிளம்பும் நேரத்தில் பார்சல் வந்தது' = 出るところに. とたん-க்கு முன் た வடிவம் வேண்டும் (出たとたん); ところを 'பார்த்தல், பிடித்தல்' வினைகளுடன் வரும்.",
+        "explanation_en": "“Just as I was leaving, a parcel came” = 出るところに. とたん needs the た-form (出たとたん). ところを goes with verbs like “see” or “catch”."
+      },
+      {
+        "id": "L04-q19",
+        "type": "grammar_form",
+        "sentence": "授業中に寝ている（　　）先生に見られてしまった。",
+        "options": [
+          "ところに",
+          "ところで",
+          "ところを",
+          "ところだ"
+        ],
+        "answer": 2,
+        "explanation_ta": "'தூங்கிக்கொண்டிருந்த நிலையை ஆசிரியர் பார்த்தார்' = 寝ているところを見られた. 見る வினைக்கு -ஐ (を) வேண்டும்; ところに 'யாரோ வந்தார்' என்பதற்கு.",
+        "explanation_en": "“The teacher saw me while I was sleeping” = 寝ているところを見られた. The verb 見る needs を. ところに is for “someone came”."
+      },
+      {
+        "id": "L04-q20",
+        "type": "grammar_form",
+        "sentence": "目覚まし時計が鳴らなくて、もう少しで遅刻する（　　）。",
+        "options": [
+          "ところだ",
+          "ところに",
+          "ばかりだった",
+          "ところだった"
+        ],
+        "answer": 3,
+        "explanation_ta": "'கொஞ்சம் இருந்தால் தாமதமாகியிருக்கும்' = もう少しで遅刻するところだった. ところだ என்றால் 'இப்போது தாமதமாகப் போகிறேன்'; கடந்த காலச் சூழலுக்குப் பொருந்தாது.",
+        "explanation_en": "“I was almost late” = もう少しで遅刻するところだった. ところだ means “I’m about to be late now”. It doesn’t fit a past story."
+      },
+      {
+        "id": "L04-q21",
+        "type": "grammar_form",
+        "sentence": "前の車が急に止まって、もう少しで（　　）ところだった。",
+        "options": [
+          "ぶつかった",
+          "ぶつかる",
+          "ぶつかって",
+          "ぶつからない"
+        ],
+        "answer": 1,
+        "explanation_ta": "ところだった-க்கு முன் அகராதி வடிவம்: ぶつかるところだった (மோதியிருப்பேன்). ぶつかったところ என்றால் 'மோதியபோது' என்று வேறு பொருள்.",
+        "explanation_en": "Use the dictionary form before ところだった: ぶつかるところだった (I almost crashed). ぶつかったところ means “when I crashed”, a different meaning."
+      },
+      {
+        "id": "L04-q22",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "家を",
+          "出た",
+          "とたん",
+          "雨が"
+        ],
+        "star": 2,
+        "after": "降り出した。",
+        "explanation_ta": "家を (வீட்டை) → 出た (விட்டு வந்தேன்) → とたん (உடனே) → 雨が (மழை) 降り出した. ★ = とたん.",
+        "explanation_en": "家を (home) → 出た (left) → とたん (the moment) → 雨が (the rain) 降り出した (started). ★ = とたん."
+      },
+      {
+        "id": "L04-q23",
+        "type": "sentence_order",
+        "before": "もう少しで",
+        "chunks": [
+          "前の",
+          "車に",
+          "ぶつかる",
+          "ところ"
+        ],
+        "star": 1,
+        "after": "だった。",
+        "explanation_ta": "前の (முன்னால் உள்ள) → 車に (காரில்) → ぶつかる (மோத) → ところだった (இருந்தது). ★ = 車に.",
+        "explanation_en": "前の (in front) → 車に (into the car) → ぶつかる (crash) → ところだった (almost). ★ = 車に."
+      },
+      {
+        "id": "L04-q24",
+        "type": "sentence_order",
+        "before": "信号を無視して",
+        "chunks": [
+          "道路を",
+          "横断して",
+          "いる",
+          "ところを"
+        ],
+        "star": 3,
+        "after": "警察官に見られた。",
+        "explanation_ta": "道路を (சாலையை) → 横断している (கடந்துகொண்டிருக்கும்) → ところを (அந்த நிலையை) → 警察官に見られた. ★ = ところを.",
+        "explanation_en": "道路を (the road) → 横断している (crossing) → ところを (in the act) → 警察官に見られた (a police officer saw me). ★ = ところを."
+      },
+      {
+        "id": "L04-q25",
+        "type": "passage_cloze",
+        "passage": "今朝は本当に運が悪かった。家を［1］とたん、強い雨が降り出した。かさを取りに戻ったので、駅まで走らなければならなかった。いつもの電車にはなんとか間に合ったが、もう少しで乗り遅れる［2］。ところが、二つ目の駅で電車が止まってしまった。駅員に聞いた［3］、前の駅で事故があったそうだ。結局、会社には三十分も遅刻した。席に着いて、ほっとしている［4］、部長が来て「今日の会議の資料はできた？」と聞いた。",
+        "blanks": [
+          {
+            "options": [
+              "出る",
+              "出た",
+              "出て",
+              "出ない"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "ところだった",
+              "ところだ",
+              "とたんだった",
+              "ところを"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "とたん",
+              "ところへ",
+              "ところ",
+              "ところを"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "ところを",
+              "ところだった",
+              "とたん",
+              "ところへ"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ とたん-க்கு முன் た வடிவம்: 出たとたん. ［2］ கொஞ்சம் இருந்தால் தவறவிட்டிருப்பேன் = 乗り遅れるところだった. ［3］ கேட்டபோது தகவல் தெரிந்தது = 聞いたところ. ［4］ நிம்மதியாக இருந்த நேரத்தில் மேலாளர் வந்தார் = ほっとしているところへ (யாரோ வந்தார், அதனால் へ/に; を அல்ல).",
+        "explanation_en": "［1］ Use the た-form before とたん: 出たとたん. ［2］ “I almost missed it” = 乗り遅れるところだった. ［3］ “When I asked, I learned” = 聞いたところ. ［4］ “Just as I was relaxing, the manager came” = ほっとしているところへ. Someone came, so use へ/に, not を."
+      }
+    ]
+  }
+}

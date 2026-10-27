@@ -1,0 +1,874 @@
+{
+  "unit": 14,
+  "title": {
+    "en": "Goals and results",
+    "ta": "இலக்குகளும் முடிவுகளும்"
+  },
+  "intro": {
+    "en": "In this unit you learn 13 kanji about wishes, success and failure: 望 (hope), 達 (reach), 満 (full), 完 (complete) and 敗 (defeat). You also meet 観 and 察, two kanji for looking carefully. Tip: 観 has 見 (see) on the right, so it is about looking.",
+    "ta": "இந்தப் பாடத்தில் விருப்பம், வெற்றி, தோல்வி பற்றிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: 望 (நம்பிக்கை), 達 (அடை), 満 (நிறைவு), 完 (முழுமை), 敗 (தோல்வி). கவனமாகப் பார்ப்பதற்கான 観, 察 என்ற இரண்டு கான்ஜிகளும் வரும். குறிப்பு: 観-இன் வலப்பக்கம் 見 (பார்) உள்ளது; அதனால் இது பார்ப்பது பற்றியது."
+  },
+  "kanji": [
+    {
+      "kanji": "望",
+      "meaning": {
+        "en": "hope, wish",
+        "ta": "நம்பிக்கை, விருப்பம்"
+      },
+      "on": [
+        "ぼう"
+      ],
+      "kun": [
+        "のぞ.む"
+      ],
+      "mnemonic": {
+        "en": "Top left: 亡, a man who is lost far from home. Top right: the full moon (月). Below: a king (王). The lost king looks up at the full moon and hopes to go home.",
+        "ta": "மேலே இடப்பக்கம் 亡: வீட்டை விட்டுத் தொலைந்து போன ஒருவன். வலப்பக்கம் முழு நிலா (月). கீழே ஒரு அரசன் (王). தொலைந்த அரசன் முழு நிலவைப் பார்த்து, வீடு திரும்ப வேண்டும் என்று ஏங்குகிறான்."
+      },
+      "note": {
+        "en": "望む (のぞむ) = to wish for. 希望 (きぼう, hope) is a very common word with this kanji.",
+        "ta": "望む (のぞむ) = விரும்பு. 希望 (きぼう, நம்பிக்கை) இந்தக் கான்ஜியுடன் வரும் மிகவும் பொதுவான சொல்."
+      },
+      "examples": [
+        {
+          "word": "望む",
+          "reading": "のぞむ",
+          "en": "to wish for, to hope",
+          "ta": "விரும்ப, எதிர்பார்க்க",
+          "vocabId": "n3-v-1723"
+        },
+        {
+          "word": "望み",
+          "reading": "のぞみ",
+          "en": "wish, hope",
+          "ta": "விருப்பம், நம்பிக்கை",
+          "vocabId": "n3-v-1722"
+        },
+        {
+          "word": "失望",
+          "reading": "しつぼう",
+          "en": "disappointment",
+          "ta": "ஏமாற்றம்",
+          "vocabId": "n3-v-0062"
+        },
+        {
+          "word": "要望",
+          "reading": "ようぼう",
+          "en": "request, demand",
+          "ta": "கோரிக்கை"
+        }
+      ]
+    },
+    {
+      "kanji": "観",
+      "meaning": {
+        "en": "view, watch",
+        "ta": "பார்வை, கவனி"
+      },
+      "on": [
+        "かん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a bird (隹, as in 曜 and 進) with a feather crest on its head (the 艹-like top). On the right is 見 (see). A crested owl sits on a branch and watches everything with its big eyes.",
+        "ta": "இடப்பக்கம் தலையில் இறகுக் கொண்டை (艹 போன்ற மேல் பகுதி) உள்ள ஒரு பறவை (隹, 曜, 進-இல் உள்ளது போல). வலப்பக்கம் 見 (பார்). கொண்டை உள்ள ஒரு ஆந்தை கிளையில் அமர்ந்து, பெரிய கண்களால் எல்லாவற்றையும் கவனிக்கிறது."
+      },
+      "note": {
+        "en": "観光 (かんこう) is sightseeing, and 観光客 (かんこうきゃく) is a tourist.",
+        "ta": "観光 (かんこう) = சுற்றுலா; 観光客 (かんこうきゃく) = சுற்றுலாப் பயணி."
+      },
+      "examples": [
+        {
+          "word": "観光",
+          "reading": "かんこう",
+          "en": "sightseeing",
+          "ta": "சுற்றுலா",
+          "vocabId": "n3-v-0670"
+        },
+        {
+          "word": "観客",
+          "reading": "かんきゃく",
+          "en": "audience",
+          "ta": "பார்வையாளர்கள்",
+          "vocabId": "n3-v-0667"
+        },
+        {
+          "word": "観察",
+          "reading": "かんさつ",
+          "en": "observation",
+          "ta": "உற்றுநோக்கல், கவனித்தல்",
+          "vocabId": "n3-v-0671"
+        },
+        {
+          "word": "観光客",
+          "reading": "かんこうきゃく",
+          "en": "tourist",
+          "ta": "சுற்றுலாப் பயணி"
+        }
+      ]
+    },
+    {
+      "kanji": "察",
+      "meaning": {
+        "en": "guess, understand",
+        "ta": "ஊகி, புரிந்துகொள்"
+      },
+      "on": [
+        "さつ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Under a roof (宀) is 祭, a festival. A police officer stands in the temple hall during the festival and watches the crowd carefully to understand what is going on.",
+        "ta": "கூரையின் (宀) கீழ் 祭: ஒரு திருவிழா. திருவிழா நேரத்தில் கோயில் மண்டபத்தில் ஒரு போலீஸ்காரர் நின்று, என்ன நடக்கிறது என்று புரிந்துகொள்ளக் கூட்டத்தைக் கவனமாகப் பார்க்கிறார்."
+      },
+      "note": {
+        "en": "警察 (けいさつ) is the police. 察 is almost never used alone; learn it in words.",
+        "ta": "警察 (けいさつ) = காவல்துறை. 察 தனியாக அரிதாகவே வரும்; சொற்களுடன் கற்றுக்கொள்ளுங்கள்."
+      },
+      "examples": [
+        {
+          "word": "警察",
+          "reading": "けいさつ",
+          "en": "police",
+          "ta": "காவல்துறை, போலீஸ்",
+          "vocabId": "n4-v-600"
+        },
+        {
+          "word": "観察",
+          "reading": "かんさつ",
+          "en": "observation",
+          "ta": "உற்றுநோக்கல், கவனித்தல்",
+          "vocabId": "n3-v-0671"
+        },
+        {
+          "word": "警察官",
+          "reading": "けいさつかん",
+          "en": "police officer",
+          "ta": "காவல் அதிகாரி"
+        },
+        {
+          "word": "察する",
+          "reading": "さっする",
+          "en": "to guess, to sense",
+          "ta": "ஊகிக்க, உணர்ந்துகொள்ள"
+        }
+      ]
+    },
+    {
+      "kanji": "達",
+      "meaning": {
+        "en": "reach; (plural)",
+        "ta": "அடை; (பன்மை)"
+      },
+      "on": [
+        "たつ"
+      ],
+      "kun": [
+        "-たち"
+      ],
+      "mnemonic": {
+        "en": "A sheep (羊) with earth (土) on its head walks along the road (辶, as in 道 and 週). It walks and walks until it reaches the village.",
+        "ta": "தலையில் மண் (土) உள்ள ஒரு ஆடு (羊) சாலையில் (辶, 道, 週-இல் உள்ளது போல) நடக்கிறது. ஊரை அடையும் வரை நடந்துகொண்டே இருக்கிறது."
+      },
+      "note": {
+        "en": "After a word for people, 達 makes it plural: 友達 (ともだち, friends), 子ども達 (こどもたち, children). Here it is read たち or だち.",
+        "ta": "ஆட்களைக் குறிக்கும் சொல்லின் பின் 達 வந்தால் பன்மை: 友達 (ともだち, நண்பர்கள்), 子ども達 (こどもたち, குழந்தைகள்). இங்கே இதை たち அல்லது だち என்று படிக்கவும்."
+      },
+      "examples": [
+        {
+          "word": "友達",
+          "reading": "ともだち",
+          "en": "friend",
+          "ta": "நண்பர்",
+          "vocabId": "n5-v-469"
+        },
+        {
+          "word": "配達",
+          "reading": "はいたつ",
+          "en": "delivery",
+          "ta": "விநியோகம், டெலிவரி",
+          "vocabId": "n3-v-1742"
+        },
+        {
+          "word": "上達",
+          "reading": "じょうたつ",
+          "en": "improvement (in a skill)",
+          "ta": "திறமையில் முன்னேற்றம்",
+          "vocabId": "n3-v-0145"
+        },
+        {
+          "word": "発達",
+          "reading": "はったつ",
+          "en": "development, growth",
+          "ta": "வளர்ச்சி",
+          "vocabId": "n3-v-1779"
+        }
+      ]
+    },
+    {
+      "kanji": "良",
+      "meaning": {
+        "en": "good",
+        "ta": "நல்ல"
+      },
+      "on": [
+        "りょう"
+      ],
+      "kun": [
+        "よ.い",
+        "い.い"
+      ],
+      "mnemonic": {
+        "en": "Look at 食 (eat). Take off the roof (人) on top and you get 良. What is under the roof of a kitchen? Good food!",
+        "ta": "食 (சாப்பிடு)-ஐப் பாருங்கள். மேலே உள்ள கூரையை (人) எடுத்தால் 良 கிடைக்கும். சமையலறைக் கூரையின் கீழ் என்ன இருக்கிறது? நல்ல உணவு!"
+      },
+      "note": {
+        "en": "良い can be read よい or いい. いい is more casual. Don’t mix up 良 and 食.",
+        "ta": "良い-ஐ よい அல்லது いい என்று படிக்கலாம்; いい சாதாரணப் பேச்சு. 良-ஐயும் 食-ஐயும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "良い",
+          "reading": "よい",
+          "en": "good",
+          "ta": "நல்ல",
+          "vocabId": "n3-v-2133"
+        },
+        {
+          "word": "不良",
+          "reading": "ふりょう",
+          "en": "bad, faulty",
+          "ta": "மோசமான, குறைபாடுள்ள"
+        },
+        {
+          "word": "良心",
+          "reading": "りょうしん",
+          "en": "conscience",
+          "ta": "மனசாட்சி"
+        },
+        {
+          "word": "最良",
+          "reading": "さいりょう",
+          "en": "the best",
+          "ta": "மிகச் சிறந்த"
+        }
+      ]
+    },
+    {
+      "kanji": "候",
+      "meaning": {
+        "en": "weather, season",
+        "ta": "பருவநிலை"
+      },
+      "on": [
+        "こう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A person (亻) stands by a pole (丨). On the right, under a small roof, is an arrow (矢). The person shoots the arrow into the sky to check the weather.",
+        "ta": "ஒருவர் (亻) ஒரு கம்பத்தின் (丨) அருகில் நிற்கிறார். வலப்பக்கம் ஒரு சின்னக் கூரையின் கீழ் ஒரு அம்பு (矢). வானிலையைப் பார்க்க அவர் அம்பை வானத்தை நோக்கி எய்கிறார்."
+      },
+      "note": {
+        "en": "気候 (きこう) is the usual climate of a place; 天気 (てんき) is the weather today.",
+        "ta": "気候 (きこう) = ஒரு இடத்தின் வழக்கமான காலநிலை; 天気 (てんき) = இன்றைய வானிலை."
+      },
+      "examples": [
+        {
+          "word": "気候",
+          "reading": "きこう",
+          "en": "climate",
+          "ta": "காலநிலை",
+          "vocabId": "n3-v-0702"
+        },
+        {
+          "word": "天候",
+          "reading": "てんこう",
+          "en": "weather",
+          "ta": "வானிலை",
+          "vocabId": "n3-v-1566"
+        },
+        {
+          "word": "候補",
+          "reading": "こうほ",
+          "en": "candidate",
+          "ta": "வேட்பாளர்",
+          "vocabId": "n3-v-0903"
+        }
+      ]
+    },
+    {
+      "kanji": "満",
+      "meaning": {
+        "en": "full",
+        "ta": "நிரம்பிய, நிறைவு"
+      },
+      "on": [
+        "まん"
+      ],
+      "kun": [
+        "み.ちる"
+      ],
+      "mnemonic": {
+        "en": "Water (氵) is on the left. On the right, grass (艹) sits on top of 両 (both). Water fills both sides of the pot, right up to the grass at the top. It is full.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் 両 (இரண்டும்) மேல் புல் (艹). பானையின் இரண்டு பக்கமும், மேலே உள்ள புல் வரை நீர் நிரம்புகிறது. அது முழுதாக நிறைந்திருக்கிறது."
+      },
+      "note": {
+        "en": "満員 (まんいん) means full of people, like a crowded train.",
+        "ta": "満員 (まんいん) = ஆட்கள் நிரம்பிய; கூட்டமான ரயில் போல."
+      },
+      "examples": [
+        {
+          "word": "満足",
+          "reading": "まんぞく",
+          "en": "satisfaction",
+          "ta": "திருப்தி",
+          "vocabId": "n3-v-1008"
+        },
+        {
+          "word": "不満",
+          "reading": "ふまん",
+          "en": "dissatisfaction, complaint",
+          "ta": "அதிருப்தி",
+          "vocabId": "n3-v-1896"
+        },
+        {
+          "word": "満ちる",
+          "reading": "みちる",
+          "en": "to become full",
+          "ta": "நிறைய",
+          "vocabId": "n3-v-1015"
+        },
+        {
+          "word": "満員",
+          "reading": "まんいん",
+          "en": "full (of people)",
+          "ta": "ஆட்கள் நிரம்பிய"
+        }
+      ]
+    },
+    {
+      "kanji": "敗",
+      "meaning": {
+        "en": "defeat, fail",
+        "ta": "தோல்வி"
+      },
+      "on": [
+        "はい"
+      ],
+      "kun": [
+        "やぶ.れる"
+      ],
+      "mnemonic": {
+        "en": "On the left is 貝, a shell (as in 買 and 貸). On the right is 攵, a hand with a stick (as in 教 and 数). The stick hits the shell and breaks it. The shell lost the fight.",
+        "ta": "இடப்பக்கம் 貝: ஒரு சிப்பி (買, 貸-இல் உள்ளது போல). வலப்பக்கம் 攵: கம்பு பிடித்த கை (教, 数-இல் உள்ளது போல). கம்பு சிப்பியை அடித்து உடைக்கிறது. சண்டையில் சிப்பி தோற்றுவிட்டது."
+      },
+      "note": {
+        "en": "In 失敗 (しっぱい) はい becomes ぱい after the small っ.",
+        "ta": "失敗 (しっぱい)-இல் சிறிய っ-க்குப் பின் はい → ぱい ஆகிறது."
+      },
+      "examples": [
+        {
+          "word": "失敗",
+          "reading": "しっぱい",
+          "en": "failure, mistake",
+          "ta": "தோல்வி, தவறு",
+          "vocabId": "n4-v-577"
+        },
+        {
+          "word": "敗れる",
+          "reading": "やぶれる",
+          "en": "to be defeated, to lose",
+          "ta": "தோற்க"
+        },
+        {
+          "word": "勝敗",
+          "reading": "しょうはい",
+          "en": "victory or defeat",
+          "ta": "வெற்றி தோல்வி"
+        }
+      ]
+    },
+    {
+      "kanji": "積",
+      "meaning": {
+        "en": "pile up",
+        "ta": "குவி, அடுக்கு"
+      },
+      "on": [
+        "せき"
+      ],
+      "kun": [
+        "つ.む",
+        "つ.もる"
+      ],
+      "mnemonic": {
+        "en": "On the left is 禾, grain (as in 秋). On the right, a tall stack sits on 貝 (money). After the harvest, the farmer piles up grain and money.",
+        "ta": "இடப்பக்கம் 禾: தானியம் (秋-இல் உள்ளது போல). வலப்பக்கம் 貝 (பணம்) மேல் உயரமான அடுக்கு. அறுவடைக்குப் பிறகு விவசாயி தானியத்தையும் பணத்தையும் குவித்து வைக்கிறார்."
+      },
+      "note": {
+        "en": "積む (つむ) = to pile something up; 積もる (つもる) = to pile up by itself, like snow: 雪が 積もる.",
+        "ta": "積む (つむ) = ஒன்றை அடுக்கி வை; 積もる (つもる) = தானாகக் குவி, பனி போல: 雪が 積もる."
+      },
+      "examples": [
+        {
+          "word": "積む",
+          "reading": "つむ",
+          "en": "to pile up, to load",
+          "ta": "அடுக்க, ஏற்ற",
+          "vocabId": "n3-v-1529"
+        },
+        {
+          "word": "積もる",
+          "reading": "つもる",
+          "en": "to pile up (snow, dust)",
+          "ta": "குவிய (பனி, தூசி)",
+          "vocabId": "n3-v-1531"
+        },
+        {
+          "word": "面積",
+          "reading": "めんせき",
+          "en": "area (size)",
+          "ta": "பரப்பளவு"
+        },
+        {
+          "word": "見積もり",
+          "reading": "みつもり",
+          "en": "estimate, price quote",
+          "ta": "மதிப்பீடு (விலை)"
+        }
+      ]
+    },
+    {
+      "kanji": "飛",
+      "meaning": {
+        "en": "fly",
+        "ta": "பற"
+      },
+      "on": [
+        "ひ"
+      ],
+      "kun": [
+        "と.ぶ",
+        "と.ばす"
+      ],
+      "mnemonic": {
+        "en": "Look at the shape: wings on the right and on the left, and a long body going up through the middle. It is a bird flapping its wings and flying up.",
+        "ta": "வடிவத்தைப் பாருங்கள்: வலப்பக்கமும் இடப்பக்கமும் இறக்கைகள், நடுவில் மேலே போகும் நீண்ட உடல். ஒரு பறவை இறக்கைகளை அடித்து மேலே பறக்கிறது."
+      },
+      "note": {
+        "en": "飛ぶ (とぶ) = to fly; 飛ばす (とばす) = to make something fly, or to skip.",
+        "ta": "飛ぶ (とぶ) = பற; 飛ばす (とばす) = ஒன்றைப் பறக்கவிடு, அல்லது தவிர்த்துவிடு."
+      },
+      "examples": [
+        {
+          "word": "飛ぶ",
+          "reading": "とぶ",
+          "en": "to fly, to jump",
+          "ta": "பறக்க, தாவ",
+          "vocabId": "n5-v-467"
+        },
+        {
+          "word": "飛行機",
+          "reading": "ひこうき",
+          "en": "aeroplane",
+          "ta": "விமானம்",
+          "vocabId": "n5-v-562"
+        },
+        {
+          "word": "飛ばす",
+          "reading": "とばす",
+          "en": "to make fly; to skip",
+          "ta": "பறக்கவிட; தவிர்க்க",
+          "vocabId": "n3-v-1621"
+        },
+        {
+          "word": "飛び出す",
+          "reading": "とびだす",
+          "en": "to rush out, to jump out",
+          "ta": "திடீரென்று வெளியே பாய",
+          "vocabId": "n3-v-1622"
+        }
+      ]
+    },
+    {
+      "kanji": "殺",
+      "meaning": {
+        "en": "kill",
+        "ta": "கொல்"
+      },
+      "on": [
+        "さつ"
+      ],
+      "kun": [
+        "ころ.す"
+      ],
+      "mnemonic": {
+        "en": "On the left, an X (乂) is marked over a tree (木). On the right is a hand swinging a club (殳). The woodcutter marks the tree with an X and cuts it down. Its life is over: kill.",
+        "ta": "இடப்பக்கம் ஒரு மரத்தின் (木) மேல் ✕ குறி (乂). வலப்பக்கம் ஒரு தடியை வீசும் கை (殳). மரம்வெட்டி மரத்தில் ✕ போட்டு அதை வெட்டி வீழ்த்துகிறான். அதன் உயிர் முடிந்தது: கொல்."
+      },
+      "note": {
+        "en": "You will often see it in news words like 殺人 (さつじん, murder).",
+        "ta": "செய்திகளில் 殺人 (さつじん, கொலை) போன்ற சொற்களில் இதை அடிக்கடி பார்ப்பீர்கள்."
+      },
+      "examples": [
+        {
+          "word": "殺す",
+          "reading": "ころす",
+          "en": "to kill",
+          "ta": "கொல்ல",
+          "vocabId": "n3-v-0947"
+        },
+        {
+          "word": "自殺",
+          "reading": "じさつ",
+          "en": "suicide",
+          "ta": "தற்கொலை",
+          "vocabId": "n3-v-0036"
+        },
+        {
+          "word": "殺人",
+          "reading": "さつじん",
+          "en": "murder",
+          "ta": "கொலை"
+        }
+      ]
+    },
+    {
+      "kanji": "単",
+      "meaning": {
+        "en": "single, simple",
+        "ta": "ஒற்றை, எளிய"
+      },
+      "on": [
+        "たん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Three little sprouts (⺍) grow on top of one rice field (田), which stands on a single stick (十). Just one small field: simple.",
+        "ta": "ஒரே ஒரு நெல் வயலின் (田) மேல் மூன்று சின்ன முளைகள் (⺍); அந்த வயல் ஒரே ஒரு கம்பின் (十) மேல் நிற்கிறது. ஒரே ஒரு சின்ன வயல்: எளியது."
+      },
+      "note": {
+        "en": "簡単 (かんたん, easy) also uses this kanji.",
+        "ta": "簡単 (かんたん, எளிதான) என்ற சொல்லிலும் இந்தக் கான்ஜி வரும்."
+      },
+      "examples": [
+        {
+          "word": "単語",
+          "reading": "たんご",
+          "en": "word, vocabulary",
+          "ta": "சொல், சொற்கள்",
+          "vocabId": "n3-v-1442"
+        },
+        {
+          "word": "単位",
+          "reading": "たんい",
+          "en": "unit; credit (at college)",
+          "ta": "அலகு; (கல்லூரி) கிரெடிட்",
+          "vocabId": "n3-v-1441"
+        },
+        {
+          "word": "単に",
+          "reading": "たんに",
+          "en": "simply, only",
+          "ta": "வெறுமனே, மட்டும்",
+          "vocabId": "n3-v-1450"
+        },
+        {
+          "word": "単なる",
+          "reading": "たんなる",
+          "en": "mere, just",
+          "ta": "வெறும்",
+          "vocabId": "n3-v-1449"
+        }
+      ]
+    },
+    {
+      "kanji": "完",
+      "meaning": {
+        "en": "complete",
+        "ta": "முழுமை, நிறைவு"
+      },
+      "on": [
+        "かん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a roof (宀). Under it is 元 (origin, base). You build the house up from the base, and last you put the roof on. Now the house is complete.",
+        "ta": "மேலே ஒரு கூரை (宀). அதன் கீழ் 元 (அடிப்படை). அடித்தளத்திலிருந்து வீட்டைக் கட்டி, கடைசியில் கூரை போடுகிறீர்கள். இப்போது வீடு முழுமையாக முடிந்தது."
+      },
+      "examples": [
+        {
+          "word": "完成",
+          "reading": "かんせい",
+          "en": "completion",
+          "ta": "கட்டி முடித்தல், நிறைவு",
+          "vocabId": "n3-v-0681"
+        },
+        {
+          "word": "完全",
+          "reading": "かんぜん",
+          "en": "perfect, complete",
+          "ta": "முழுமையான",
+          "vocabId": "n3-v-0682"
+        },
+        {
+          "word": "完全に",
+          "reading": "かんぜんに",
+          "en": "completely",
+          "ta": "முற்றிலும்"
+        },
+        {
+          "word": "未完成",
+          "reading": "みかんせい",
+          "en": "unfinished",
+          "ta": "முடிக்கப்படாத"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU14-q01",
+        "type": "kanji_reading",
+        "sentence": "みんなが 平和を ＿望んで＿ います。",
+        "target": "望んで",
+        "options": [
+          "のぞんで",
+          "のそんで",
+          "のぞって",
+          "ぼうんで"
+        ],
+        "answer": 0,
+        "explanation_en": "望んで is read のぞんで (விரும்பி, wishing). のそんで has an unvoiced そ, and ぼうんで uses the on reading ぼう.",
+        "explanation_ta": "望んで = のぞんで (விரும்பி, wishing). のそんで-இல் そ (குரலற்றது); ぼうんで-இல் ஆன் வாசிப்பு ぼう; தவறு."
+      },
+      {
+        "id": "KU14-q02",
+        "type": "kanji_reading",
+        "sentence": "京都へ ＿観光＿に 行きました。",
+        "target": "観光",
+        "options": [
+          "かんこ",
+          "かんこう",
+          "がんこう",
+          "かんごう"
+        ],
+        "answer": 1,
+        "explanation_en": "観光 is read かんこう (சுற்றுலா, sightseeing). かんこ is too short, and がんこう and かんごう have a voiced sound.",
+        "explanation_ta": "観光 = かんこう (சுற்றுலா, sightseeing). かんこ குறுகியது; がんこう, かんごう-இல் குரல் ஒலி; தவறு."
+      },
+      {
+        "id": "KU14-q03",
+        "type": "kanji_reading",
+        "sentence": "さいふを なくしたので ＿警察＿に 行きました。",
+        "target": "警察",
+        "options": [
+          "けさつ",
+          "けいさい",
+          "けいさつ",
+          "けいざつ"
+        ],
+        "answer": 2,
+        "explanation_en": "警察 is read けいさつ (காவல்துறை, police). けさつ is missing the long い, and けいざつ has a voiced ざ.",
+        "explanation_ta": "警察 = けいさつ (காவல்துறை, police). けさつ-இல் நீண்ட い இல்லை; けいざつ-இல் ざ; தவறு."
+      },
+      {
+        "id": "KU14-q04",
+        "type": "kanji_reading",
+        "sentence": "＿友達＿と えいがを 見ました。",
+        "target": "友達",
+        "options": [
+          "ともたち",
+          "ゆうたつ",
+          "ともだっち",
+          "ともだち"
+        ],
+        "answer": 3,
+        "explanation_en": "友達 is read ともだち (நண்பர், friend). In this word たち becomes だち. ゆうたつ uses on readings, so it is wrong.",
+        "explanation_ta": "友達 = ともだち (நண்பர், friend). இந்தச் சொல்லில் たち → だち. ゆうたつ ஆன் வாசிப்புகள்; தவறு."
+      },
+      {
+        "id": "KU14-q05",
+        "type": "kanji_reading",
+        "sentence": "日本の ＿気候＿は インドと ちがいます。",
+        "target": "気候",
+        "options": [
+          "きこ",
+          "きこう",
+          "きごう",
+          "ぎこう"
+        ],
+        "answer": 1,
+        "explanation_en": "気候 is read きこう (காலநிலை, climate). きこ is too short, and きごう and ぎこう have a voiced sound.",
+        "explanation_ta": "気候 = きこう (காலநிலை, climate). きこ குறுகியது; きごう, ぎこう-இல் குரல் ஒலி; தவறு."
+      },
+      {
+        "id": "KU14-q06",
+        "type": "kanji_reading",
+        "sentence": "新しい 仕事に ＿満足＿して います。",
+        "target": "満足",
+        "options": [
+          "まんそく",
+          "まんぞぐ",
+          "まんぞく",
+          "まぞく"
+        ],
+        "answer": 2,
+        "explanation_en": "満足 is read まんぞく (திருப்தி, satisfaction). In this word そく becomes ぞく, so まんそく is wrong; まぞく is missing ん.",
+        "explanation_ta": "満足 = まんぞく (திருப்தி, satisfaction). இந்தச் சொல்லில் そく → ぞく; அதனால் まんそく தவறு. まぞく-இல் ん இல்லை."
+      },
+      {
+        "id": "KU14-q07",
+        "type": "kanji_reading",
+        "sentence": "サッカーの 決勝で ＿敗れて＿ しまいました。",
+        "target": "敗れて",
+        "options": [
+          "はいれて",
+          "やぶれって",
+          "やふれて",
+          "やぶれて"
+        ],
+        "answer": 3,
+        "explanation_en": "敗れて is read やぶれて (தோற்று, lost). はいれて mixes in the on reading はい, and やふれて has an unvoiced ふ.",
+        "explanation_ta": "敗れて = やぶれて (தோற்று, lost). はいれて-இல் ஆன் வாசிப்பு はい கலந்துவிட்டது; やふれて-இல் ふ; தவறு."
+      },
+      {
+        "id": "KU14-q08",
+        "type": "kanji_reading",
+        "sentence": "雪が たくさん ＿積もりました＿。",
+        "target": "積もりました",
+        "options": [
+          "つもりました",
+          "つむりました",
+          "せきりました",
+          "づもりました"
+        ],
+        "answer": 0,
+        "explanation_en": "積もりました is read つもりました (குவிந்தது, piled up). つむ is the reading of 積む (to pile something up), not 積もる.",
+        "explanation_ta": "積もりました = つもりました (குவிந்தது, piled up). つむ என்பது 積む (அடுக்கு)-இன் வாசிப்பு; 積もる அல்ல."
+      },
+      {
+        "id": "KU14-q09",
+        "type": "kanji_reading",
+        "sentence": "＿飛行機＿で インドに 帰ります。",
+        "target": "飛行機",
+        "options": [
+          "ひこき",
+          "ひぎょうき",
+          "ひこうき",
+          "とびこうき"
+        ],
+        "answer": 2,
+        "explanation_en": "飛行機 is read ひこうき (விமானம், aeroplane). ひこき is too short, and とびこうき mixes in the kun reading とび.",
+        "explanation_ta": "飛行機 = ひこうき (விமானம், aeroplane). ひこき குறுகியது; とびこうき-இல் குன் வாசிப்பு とび கலந்துவிட்டது."
+      },
+      {
+        "id": "KU14-q10",
+        "type": "kanji_reading",
+        "sentence": "毎日 日本語の ＿単語＿を 十 おぼえます。",
+        "target": "単語",
+        "options": [
+          "だんご",
+          "たんごう",
+          "たんこ",
+          "たんご"
+        ],
+        "answer": 3,
+        "explanation_en": "単語 is read たんご (சொல், word). だんご (a sweet rice ball) starts with a voiced だ, and たんごう has an extra long vowel.",
+        "explanation_ta": "単語 = たんご (சொல், word). だんご (ஒரு இனிப்பு அரிசி உருண்டை)-இல் だ; たんごう-இல் கூடுதல் நீண்ட உயிர்; தவறு."
+      },
+      {
+        "id": "KU14-q11",
+        "type": "orthography",
+        "sentence": "新しい 駅が ＿かんせい＿しました。",
+        "target": "かんせい",
+        "options": [
+          "官成",
+          "完成",
+          "院成",
+          "完生"
+        ],
+        "answer": 1,
+        "explanation_en": "かんせい (கட்டி முடித்தல், completion) is written 完成. 官 is also read かん but means government official; 院 looks similar.",
+        "explanation_ta": "かんせい (கட்டி முடித்தல், completion) = 完成. 官-ஐயும் かん என்று படிக்கலாம், ஆனால் பொருள் அதிகாரி; 院 பார்க்க ஒத்திருக்கும்."
+      },
+      {
+        "id": "KU14-q12",
+        "type": "orthography",
+        "sentence": "体に ＿よい＿ 食べ物を 食べましょう。",
+        "target": "よい",
+        "options": [
+          "良い",
+          "食い",
+          "長い",
+          "艮い"
+        ],
+        "answer": 0,
+        "explanation_en": "よい (நல்ல, good) is written 良い. 食 has a roof 人 on top of 良, and 長 and 艮 only look similar.",
+        "explanation_ta": "よい (நல்ல, good) = 良い. 食-இல் 良-க்கு மேல் 人 கூரை உண்டு; 長, 艮 பார்க்க மட்டுமே ஒத்திருக்கும்."
+      },
+      {
+        "id": "KU14-q13",
+        "type": "orthography",
+        "sentence": "鳥が 空を ＿とんで＿ います。",
+        "target": "とんで",
+        "options": [
+          "発んで",
+          "登んで",
+          "跳んで",
+          "飛んで"
+        ],
+        "answer": 3,
+        "explanation_en": "とんで (பறந்து, flying) is written 飛んで. 跳んで is also とんで but means jumping, not flying in the sky.",
+        "explanation_ta": "とんで (பறந்து, flying) = 飛んで. 跳んで-ஐயும் とんで என்று படிக்கலாம்; ஆனால் அது குதித்தல், வானில் பறத்தல் அல்ல."
+      },
+      {
+        "id": "KU14-q14",
+        "type": "orthography",
+        "sentence": "子どもたちは 花を ＿かんさつ＿しました。",
+        "target": "かんさつ",
+        "options": [
+          "観祭",
+          "歓察",
+          "観察",
+          "観際"
+        ],
+        "answer": 2,
+        "explanation_en": "かんさつ (உற்றுநோக்கல், observation) is written 観察. 祭 has no roof 宀, and 歓 is a different かん.",
+        "explanation_ta": "かんさつ (உற்றுநோக்கல், observation) = 観察. 祭-இல் 宀 கூரை இல்லை; 歓 வேறு かん."
+      },
+      {
+        "id": "KU14-q15",
+        "type": "orthography",
+        "sentence": "朝の 電車は いつも ＿まんいん＿です。",
+        "target": "まんいん",
+        "options": [
+          "満員",
+          "万員",
+          "満院",
+          "漫員"
+        ],
+        "answer": 0,
+        "explanation_en": "まんいん (ஆட்கள் நிரம்பிய, full of people) is written 満員. 万 and 漫 are also read まん, but they don’t mean full.",
+        "explanation_ta": "まんいん (ஆட்கள் நிரம்பிய, full of people) = 満員. 万, 漫 இவையும் まん; ஆனால் “நிரம்பிய” என்ற பொருள் இல்லை."
+      },
+      {
+        "id": "KU14-q16",
+        "type": "orthography",
+        "sentence": "大学の ＿たんい＿を とりました。",
+        "target": "たんい",
+        "options": [
+          "単住",
+          "単位",
+          "短位",
+          "単立"
+        ],
+        "answer": 1,
+        "explanation_en": "たんい (கிரெடிட், credit) is written 単位. 短 is also read たん but means short, and 住 looks like 位.",
+        "explanation_ta": "たんい (கிரெடிட், credit) = 単位. 短-ஐயும் たん என்று படிக்கலாம், ஆனால் பொருள் குட்டை; 住 பார்க்க 位 போல இருக்கும்."
+      }
+    ]
+  }
+}

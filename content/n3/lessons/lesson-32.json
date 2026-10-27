@@ -1,0 +1,701 @@
+{
+  "lesson": 32,
+  "title": {
+    "ja": "知らないふりをする",
+    "ta": "தெரியாதது போல் நடிப்பது",
+    "en": "Pretending not to know"
+  },
+  "intro_en": "This lesson is about the theatre, magic shows and acting. You learn to say \"pretend to …\" (〜ふりをする). You learn V-てみせる for two jobs: showing someone how to do something, and \"I’ll show you I can!\". You learn V-てごらん, a kind way to tell a child \"try …\". Last, you learn 〜かのように, \"as if …\", for something that looks true but isn’t.",
+  "intro_ta": "இந்தப் பாடம் நாடகம், மாயவித்தை நிகழ்ச்சிகள், நடிப்பு பற்றியது. 'போல் நடிப்பது, பாசாங்கு செய்வது' (〜ふりをする) என்று சொல்லக் கற்போம். V-てみせる இரண்டு வேலைகளைச் செய்யும்: ஒருவருக்குச் செய்து காட்டுவது, 'செய்து காட்டுகிறேன் பார்!' என்ற உறுதி. குழந்தையிடம் அன்பாக 'செய்து பார்' என்று சொல்லும் V-てごらん-ஐயும் கற்போம். கடைசியாக, உண்மையில்லாத ஒன்றை உண்மை போலத் தோன்றுவதாகச் சொல்லும் 〜かのように ('ஏதோ ... போல') வடிவத்தைக் கற்போம்.",
+  "grammar": [
+    {
+      "id": "g32-1",
+      "pattern": "〜ふりを する",
+      "name": {
+        "en": "Pretend to ~",
+        "ta": "~ போல் நடிக்க / பாசாங்கு செய்ய"
+      },
+      "explanation_en": "ふり means \"a show, a fake look\". 〜ふりをする means \"pretend to …\". You act like something is true, but it isn’t. 寝ているふりをする = pretend to be asleep. 知らないふりをする = pretend not to know. Put a plain form before ふり. For nouns use の: 医者のふり. For な-words use な: 元気なふり. Compare with 真似をする: 真似 means copying someone’s actions. ふり means hiding the truth.",
+      "explanation_ta": "ふり = 'வெளித்தோற்றம், போலி நடிப்பு'. 〜ふりをする = 'உண்மையில்லாததை உண்மை போல நடிப்பது, பாசாங்கு செய்வது'. 寝ているふりをする = தூங்குவது போல் நடிப்பது; 知らないふりをする = தெரியாதது போல் நடிப்பது. ふり-க்கு முன் சாதாரண (plain) வடிவம் வரும்; பெயர்ச்சொல்லுக்கு の (医者のふり), な-பெயரடைக்கு な (元気なふり). 真似をする என்பது ஒருவரின் செயலைப் பார்த்து அப்படியே செய்வது (பின்பற்றுதல்); ふり என்பது உண்மையை மறைத்து நடிப்பது.",
+      "tamil_parallel": "தெரிந்தும் தெரியாதது போல் நடித்தான் = 知っているのに、知らないふりをした",
+      "tamil_parallel_en": "தெரிந்தும் தெரியாதது போல் நடித்தான் (He knew, but pretended not to) = 知っているのに、知らないふりをした",
+      "formation": "வினை (சாதாரண வடிவம்) + ふりをする (寝ているふり / 寝たふり)\nい-பெயரடை + ふりをする (忙しいふり)\nな-பெயரடை + な + ふりをする (平気なふり)\nபெயர்ச்சொல் + の + ふりをする (学生のふり)",
+      "formation_en": "verb (plain form) + ふりをする (寝ているふり / 寝たふり)\nい-adjective + ふりをする (忙しいふり)\nな-adjective + な + ふりをする (平気なふり)\nnoun + の + ふりをする (学生のふり)",
+      "examples": [
+        {
+          "ja": "弟は、まだ寝ているふりをしている。",
+          "reading": "おとうとは、まだ ねて いる ふりを して いる。",
+          "romaji": "otouto wa, mada nete iru furi o shite iru.",
+          "ta": "தம்பி இன்னும் தூங்குவது போல் நடித்துக்கொண்டிருக்கிறான்.",
+          "en": "My brother is still pretending to be asleep."
+        },
+        {
+          "ja": "本当は知っているのに、知らないふりをした。",
+          "reading": "ほんとうは しって いるのに、しらない ふりを した。",
+          "romaji": "hontou wa shitte iru noni, shiranai furi o shita.",
+          "ta": "உண்மையில் தெரிந்திருந்தும், தெரியாதது போல் நடித்தேன்.",
+          "en": "I actually knew, but I pretended not to."
+        },
+        {
+          "ja": "彼は聞こえないふりをして、返事をしなかった。",
+          "reading": "かれは きこえない ふりを して、へんじを しなかった。",
+          "romaji": "kare wa kikoenai furi o shite, henji o shinakatta.",
+          "ta": "அவன் காதில் விழாதது போல் நடித்து, பதில் சொல்லவில்லை.",
+          "en": "He pretended not to hear and didn’t answer."
+        },
+        {
+          "ja": "子どもたちは、医者のふりをして遊んでいる。",
+          "reading": "こどもたちは、いしゃの ふりを して あそんで いる。",
+          "romaji": "kodomotachi wa, isha no furi o shite asonde iru.",
+          "ta": "குழந்தைகள் மருத்துவர் போல் நடித்து விளையாடுகிறார்கள்.",
+          "en": "The children are playing at being doctors."
+        },
+        {
+          "ja": "彼女は元気なふりをしていたが、本当はとても疲れていた。",
+          "reading": "かのじょは げんきな ふりを して いたが、ほんとうは とても つかれて いた。",
+          "romaji": "kanojo wa genki na furi o shite ita ga, hontou wa totemo tsukarete ita.",
+          "ta": "அவள் நன்றாக இருப்பது போல் காட்டிக்கொண்டாள்; உண்மையில் மிகவும் களைப்பாக இருந்தாள்.",
+          "en": "She acted as if she was fine, but she was really very tired."
+        },
+        {
+          "ja": "分かったふりをしないで、何でも質問してください。",
+          "reading": "わかった ふりを しないで、なんでも しつもん して ください。",
+          "romaji": "wakatta furi o shinaide, nandemo shitsumon shite kudasai.",
+          "ta": "புரிந்தது போல் நடிக்காமல், எதுவானாலும் கேள்வி கேளுங்கள்.",
+          "en": "Don’t pretend you understand. Ask me anything."
+        },
+        {
+          "ja": "手品師は、カードを捨てたふりをして、ポケットに入れた。",
+          "reading": "てじなしは、かーどを すてた ふりを して、ぽけっとに いれた。",
+          "romaji": "tejinashi wa, kaado o suteta furi o shite, poketto ni ireta.",
+          "ta": "மாயவித்தைக்காரர் சீட்டை எறிந்தது போல் நடித்து, சட்டைப்பைக்குள் வைத்தார்.",
+          "en": "The magician pretended to throw the card away and put it in his pocket."
+        }
+      ],
+      "pitfalls_en": "Don’t forget の after a noun: 医者ふり is wrong. Also, ふり is for faking. If you mean \"copy someone\", use 真似: 先生の真似をする (copy the teacher’s way).",
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் の மறக்கக் கூடாது: 医者ふり தவறு; 医者のふり சரி. ஒருவரைப் பார்த்து அப்படியே செய்வதற்கு 真似 பயன்படுத்துங்கள்: 先生の真似をする (ஆசிரியர் போலவே செய்வது)."
+    },
+    {
+      "id": "g32-2",
+      "pattern": "V-て みせる",
+      "name": {
+        "en": "Show how / I’ll show you I can",
+        "ta": "செய்து காட்ட / செய்து காட்டுவேன்"
+      },
+      "explanation_en": "V-てみせる has two uses. First: \"do it so someone can see\". You show how to do it. 先生が踊ってみせた = The teacher danced to show us. Second: strong will. \"I will do it, just watch!\" 絶対に合格してみせる = I’ll pass, you’ll see! The second use is for your own action in the future. Compare with V-てみる (N4): てみる is \"try and see\". てみせる is \"do it for others to see\".",
+      "explanation_ta": "V-てみせる இரண்டு விதமாகப் பயன்படும். முதலாவது: மற்றவர் பார்க்கும்படி 'செய்து காட்டுவது'. 先生が踊ってみせた = ஆசிரியர் ஆடிக் காட்டினார். இரண்டாவது: வலுவான உறுதி — 'நிச்சயம் செய்து காட்டுவேன், பார்!'. 絶対に合格してみせる = கட்டாயம் தேர்ச்சி பெற்றுக் காட்டுவேன். இந்த இரண்டாவது பொருள் பேசுபவரின் எதிர்காலச் செயலுக்கு மட்டும். N4-இல் கற்ற V-てみる 'செய்து பார்ப்பது' (முயற்சி); てみせる 'மற்றவர்களுக்குச் செய்து காட்டுவது'.",
+      "tamil_parallel": "ஆசிரியர் முதலில் தானே ஆடிக் காட்டினார் = 先生がまず自分で踊ってみせた; கட்டாயம் வென்று காட்டுவேன் = 必ず勝ってみせる",
+      "tamil_parallel_en": "ஆசிரியர் முதலில் தானே ஆடிக் காட்டினார் (The teacher first danced to show us) = 先生がまず自分で踊ってみせた; கட்டாயம் வென்று காட்டுவேன் (I’ll win, you’ll see) = 必ず勝ってみせる",
+      "formation": "வினை て-வடிவம் + みせる\n① செய்து காட்டுதல்: やってみせる / 書いてみせる\n② உறுதி (எதிர்காலம்): 〜てみせる！ / 〜てみせます",
+      "formation_en": "verb て-form + みせる\n① showing how: やってみせる / 書いてみせる\n② strong will (future): 〜てみせる！ / 〜てみせます",
+      "examples": [
+        {
+          "ja": "ダンスの先生は、まず自分で踊ってみせた。",
+          "reading": "だんすの せんせいは、まず じぶんで おどって みせた。",
+          "romaji": "dansu no sensei wa, mazu jibun de odotte miseta.",
+          "ta": "நடன ஆசிரியர் முதலில் தானே ஆடிக் காட்டினார்.",
+          "en": "The dance teacher first danced to show us."
+        },
+        {
+          "ja": "母が、おにぎりの作り方をやってみせてくれた。",
+          "reading": "ははが、おにぎりの つくりかたを やって みせて くれた。",
+          "romaji": "haha ga, onigiri no tsukurikata o yatte misete kureta.",
+          "ta": "அம்மா ஒனிகிரி செய்யும் முறையைச் செய்து காட்டினார்.",
+          "en": "My mother showed me how to make rice balls."
+        },
+        {
+          "ja": "手品師は、帽子から花を出してみせた。",
+          "reading": "てじなしは、ぼうしから はなを だして みせた。",
+          "romaji": "tejinashi wa, boushi kara hana o dashite miseta.",
+          "ta": "மாயவித்தைக்காரர் தொப்பியிலிருந்து பூவை எடுத்துக் காட்டினார்.",
+          "en": "The magician pulled a flower out of a hat for us."
+        },
+        {
+          "ja": "次の試合では、必ず勝ってみせる。",
+          "reading": "つぎの しあいでは、かならず かって みせる。",
+          "romaji": "tsugi no shiai de wa, kanarazu katte miseru.",
+          "ta": "அடுத்த போட்டியில் கட்டாயம் வென்று காட்டுவேன்.",
+          "en": "I will win the next match, you’ll see."
+        },
+        {
+          "ja": "今年こそ、N3に合格してみせます。",
+          "reading": "ことしこそ、えぬさんに ごうかく して みせます。",
+          "romaji": "kotoshi koso, enu san ni goukaku shite misemasu.",
+          "ta": "இந்த ஆண்டாவது N3-இல் தேர்ச்சி பெற்றுக் காட்டுவேன்.",
+          "en": "This year I will pass N3, I promise."
+        },
+        {
+          "ja": "父は心配な顔を見せずに、笑ってみせた。",
+          "reading": "ちちは しんぱいな かおを みせずに、わらって みせた。",
+          "romaji": "chichi wa shinpai na kao o misezu ni, waratte miseta.",
+          "ta": "அப்பா கவலை முகத்தைக் காட்டாமல், சிரித்துக் காட்டினார்.",
+          "en": "My father hid his worry and gave us a smile."
+        }
+      ],
+      "pitfalls_en": "Don’t mix up てみせる and てみる. 食べてみる = try eating. 食べてみせる = eat so others can see. Also, the \"strong will\" use is not for other people: 彼は合格してみせる sounds odd.",
+      "pitfalls_ta": "てみせる, てみる இரண்டையும் குழப்ப வேண்டாம்: 食べてみる = சாப்பிட்டுப் பார்ப்பது; 食べてみせる = மற்றவர் பார்க்கச் சாப்பிட்டுக் காட்டுவது. 'உறுதி' பொருள் பேசுபவருக்கு மட்டும்; 彼は合格してみせる இயல்பற்றது."
+    },
+    {
+      "id": "g32-3",
+      "pattern": "V-て ごらん",
+      "name": {
+        "en": "Try ~ (to a child or junior)",
+        "ta": "~ செய்து பார் (குழந்தை / இளையவரிடம்)"
+      },
+      "explanation_en": "V-てごらん means \"try doing …\" or \"go on, …\". It is a kind, soft way to tell a child or a younger person to do something. ごらん comes from ご覧なさい, a polite word for 見なさい. 食べてごらん = Go on, try eating it. 見てごらん = Look! Parents and teachers use it a lot. Never use it to your boss or teacher. To them, say 〜てみてください.",
+      "explanation_ta": "V-てごらん = 'செய்து பார்', 'பார், ... செய்'. குழந்தையிடமோ, தன்னை விட இளையவரிடமோ அன்பாக, மென்மையாக ஏதாவது செய்யச் சொல்ல இந்த வடிவம். ごらん என்பது 見なさい-இன் மரியாதைச் சொல்லான ご覧なさい-இலிருந்து வந்தது. 食べてごらん = சாப்பிட்டுப் பார்; 見てごらん = பார்! பெற்றோரும் ஆசிரியர்களும் அடிக்கடி பயன்படுத்துவர். மேலதிகாரி, ஆசிரியரிடம் ஒருபோதும் சொல்லக் கூடாது; அவர்களிடம் 〜てみてください என்று சொல்ல வேண்டும்.",
+      "tamil_parallel": "இந்த இனிப்பைச் சாப்பிட்டுப் பார், கண்ணு = このお菓子、食べてごらん",
+      "tamil_parallel_en": "இந்த இனிப்பைச் சாப்பிட்டுப் பார், கண்ணு (Try this sweet, dear) = このお菓子、食べてごらん",
+      "formation": "வினை て-வடிவம் + ごらん\n(= 〜てみなさい-இன் மென்மையான வடிவம்)\nமேலோரிடம்: 〜てみてください",
+      "formation_en": "verb て-form + ごらん\n(= a soft form of 〜てみなさい)\nto a senior: 〜てみてください",
+      "examples": [
+        {
+          "ja": "このお菓子、おいしいよ。食べてごらん。",
+          "reading": "この おかし、おいしいよ。たべて ごらん。",
+          "romaji": "kono okashi, oishii yo. tabete goran.",
+          "ta": "இந்த இனிப்பு ருசியாக இருக்கும். சாப்பிட்டுப் பார்.",
+          "en": "This sweet is tasty. Go on, try it."
+        },
+        {
+          "ja": "怖くないから、目を開けてごらん。",
+          "reading": "こわく ないから、めを あけて ごらん。",
+          "romaji": "kowaku nai kara, me o akete goran.",
+          "ta": "பயப்பட ஒன்றுமில்லை; கண்ணைத் திறந்து பார்.",
+          "en": "It’s not scary. Open your eyes."
+        },
+        {
+          "ja": "窓の外を見てごらん。雪が降っているよ。",
+          "reading": "まどの そとを みて ごらん。ゆきが ふって いるよ。",
+          "romaji": "mado no soto o mite goran. yuki ga futte iru yo.",
+          "ta": "ஜன்னலுக்கு வெளியே பார். பனி பெய்கிறது.",
+          "en": "Look out of the window. It’s snowing."
+        },
+        {
+          "ja": "もう一度、ゆっくり読んでごらん。",
+          "reading": "もう いちど、ゆっくり よんで ごらん。",
+          "romaji": "mou ichido, yukkuri yonde goran.",
+          "ta": "இன்னொரு முறை மெதுவாகப் படித்துப் பார்.",
+          "en": "Read it once more, slowly."
+        },
+        {
+          "ja": "答えを見る前に、自分で考えてごらん。",
+          "reading": "こたえを みる まえに、じぶんで かんがえて ごらん。",
+          "romaji": "kotae o miru mae ni, jibun de kangaete goran.",
+          "ta": "விடையைப் பார்ப்பதற்கு முன், நீயே யோசித்துப் பார்.",
+          "en": "Before you look at the answer, think for yourself."
+        },
+        {
+          "ja": "この手品、どうやるか分かる？当ててごらん。",
+          "reading": "この てじな、どう やるか わかる？あてて ごらん。",
+          "romaji": "kono tejina, dou yaru ka wakaru? atete goran.",
+          "ta": "இந்த வித்தையை எப்படிச் செய்கிறேன் தெரியுமா? ஊகித்துப் பார்.",
+          "en": "Do you know how this trick works? Have a guess."
+        }
+      ],
+      "pitfalls_en": "Don’t say 〜てごらんください to a guest; it sounds strange. Use 〜てみてください, or ご覧ください only for \"please look\". And never use ごらん with your teacher or boss.",
+      "pitfalls_ta": "விருந்தினரிடம் 〜てごらんください என்பது இயல்பற்றது; 〜てみてください என்றோ, 'பாருங்கள்' என்பதற்கு மட்டும் ご覧ください என்றோ சொல்லுங்கள். ஆசிரியர், மேலதிகாரியிடம் ごらん ஒருபோதும் வேண்டாம்."
+    },
+    {
+      "id": "g32-4",
+      "pattern": "〜かのように",
+      "name": {
+        "en": "As if ~ (though it isn’t true)",
+        "ta": "ஏதோ ~ போல (உண்மையில் அப்படி இல்லை)"
+      },
+      "explanation_en": "かのように means \"as if …\". It looks true, but it is not true. 何もなかったかのように = as if nothing had happened (but something did). Put a plain form before it. For nouns and な-words, use である: 女王であるかのように. Before a noun, use かのような: 夏が来たかのような暑さ. It is often used with まるで. Compare with まるで〜ようだ (lesson 20). ようだ can be a simple comparison. かのように clearly says \"it is not real\". It is a little more written.",
+      "explanation_ta": "かのように = 'ஏதோ ... போல'. வெளிப்பார்வைக்கு உண்மை போலத் தோன்றும்; ஆனால் உண்மை அல்ல. 何もなかったかのように = ஏதும் நடக்காதது போல (உண்மையில் நடந்தது). முன்னால் சாதாரண (plain) வடிவம் வரும்; பெயர்ச்சொல், な-பெயரடைக்கு である சேர்க்கவும்: 女王であるかのように. பெயர்ச்சொல்லுக்கு முன் かのような: 夏が来たかのような暑さ. பெரும்பாலும் まるで உடன் வரும். பாடம் 20-இன் まるで〜ようだ வெறும் ஒப்புமையாகவும் இருக்கலாம்; かのように 'உண்மையில் அப்படி இல்லை' என்பதைத் தெளிவாகக் காட்டும், சற்று எழுத்து நடை.",
+      "tamil_parallel": "ஏதும் நடக்காதது போலச் சாப்பிட ஆரம்பித்தான் = 何もなかったかのように、ご飯を食べ始めた",
+      "tamil_parallel_en": "ஏதும் நடக்காதது போலச் சாப்பிட ஆரம்பித்தான் (He started eating as if nothing had happened) = 何もなかったかのように、ご飯を食べ始めた",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + かのように\nபெயர்ச்சொல் / な-பெயரடை + である + かのように\nபெயர்ச்சொல்லுக்கு முன்: 〜かのような + பெயர்ச்சொல்\nவாக்கிய இறுதி: 〜かのようだ",
+      "formation_en": "verb / い-adjective (plain form) + かのように\nnoun / な-adjective + である + かのように\nbefore a noun: 〜かのような + noun\nat the end: 〜かのようだ",
+      "examples": [
+        {
+          "ja": "弟は、何もなかったかのように、ご飯を食べ始めた。",
+          "reading": "おとうとは、なにも なかった かのように、ごはんを たべはじめた。",
+          "romaji": "otouto wa, nani mo nakatta ka no you ni, gohan o tabehajimeta.",
+          "ta": "தம்பி ஏதும் நடக்காதது போலச் சாப்பிட ஆரம்பித்தான்.",
+          "en": "My brother started eating as if nothing had happened."
+        },
+        {
+          "ja": "彼は何も知らないかのように、笑っていた。",
+          "reading": "かれは なにも しらない かのように、わらって いた。",
+          "romaji": "kare wa nani mo shiranai ka no you ni, waratte ita.",
+          "ta": "அவன் எதுவுமே தெரியாதது போலச் சிரித்துக்கொண்டிருந்தான்.",
+          "en": "He was laughing as if he knew nothing."
+        },
+        {
+          "ja": "彼女は、本物の女王であるかのように舞台を歩いた。",
+          "reading": "かのじょは、ほんものの じょおうで ある かのように ぶたいを あるいた。",
+          "romaji": "kanojo wa, honmono no joou de aru ka no you ni butai o aruita.",
+          "ta": "அவள் உண்மையான அரசி போல மேடையில் நடந்தாள்.",
+          "en": "She walked across the stage as if she were a real queen."
+        },
+        {
+          "ja": "その話を初めて聞いたかのように、彼女は驚いてみせた。",
+          "reading": "その はなしを はじめて きいた かのように、かのじょは おどろいて みせた。",
+          "romaji": "sono hanashi o hajimete kiita ka no you ni, kanojo wa odoroite miseta.",
+          "ta": "அந்தச் செய்தியை முதன்முறை கேட்பது போல அவள் வியந்து காட்டினாள்.",
+          "en": "She acted surprised, as if she had heard the news for the first time."
+        },
+        {
+          "ja": "手品師が手を振ると、カードがまるで生きているかのように動いた。",
+          "reading": "てじなしが てを ふると、かーどが まるで いきて いる かのように うごいた。",
+          "romaji": "tejinashi ga te o furu to, kaado ga marude ikite iru ka no you ni ugoita.",
+          "ta": "மாயவித்தைக்காரர் கையை அசைத்ததும், சீட்டு உயிருள்ளது போல அசைந்தது.",
+          "en": "When the magician waved his hand, the card moved as if it were alive."
+        },
+        {
+          "ja": "まだ四月なのに、夏が来たかのような暑さだ。",
+          "reading": "まだ しがつ なのに、なつが きた かのような あつさだ。",
+          "romaji": "mada shigatsu na noni, natsu ga kita ka no you na atsusa da.",
+          "ta": "இன்னும் ஏப்ரல்தான்; ஆனால் கோடை வந்துவிட்டது போன்ற வெப்பம்.",
+          "en": "It’s only April, but it’s as hot as if summer had come."
+        }
+      ],
+      "pitfalls_en": "Don’t put だ before かのように: 女王だかのように is wrong. Say 女王であるかのように. Don’t use it for a real fact. If he really knows nothing, just say 何も知らない.",
+      "pitfalls_ta": "かのように-க்கு முன் だ வராது: 女王だかのように தவறு; 女王であるかのように சரி. உண்மையான நிலைக்கு இதைப் பயன்படுத்தக் கூடாது; அவனுக்கு உண்மையில் எதுவும் தெரியாவிட்டால் நேரடியாக 何も知らない என்று சொல்லுங்கள்."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0002",
+    "n3-v-0070",
+    "n3-v-0081",
+    "n3-v-0084",
+    "n3-v-0160",
+    "n3-v-0176",
+    "n3-v-0220",
+    "n3-v-0232",
+    "n3-v-0343",
+    "n3-v-0346",
+    "n3-v-0457",
+    "n3-v-0481",
+    "n3-v-0488",
+    "n3-v-0491",
+    "n3-v-0492",
+    "n3-v-0522",
+    "n3-v-0667",
+    "n3-v-0686",
+    "n3-v-0756",
+    "n3-v-0837",
+    "n3-v-0838",
+    "n3-v-0869",
+    "n3-v-0926",
+    "n3-v-1089",
+    "n3-v-1093",
+    "n3-v-1155",
+    "n3-v-1249",
+    "n3-v-1279",
+    "n3-v-1390",
+    "n3-v-1446",
+    "n3-v-1555",
+    "n3-v-1630",
+    "n3-v-1647",
+    "n3-v-1688",
+    "n3-v-1714",
+    "n3-v-1744",
+    "n3-v-1755",
+    "n3-v-1795",
+    "n3-v-1814",
+    "n3-v-1880",
+    "n3-v-1903",
+    "n3-v-1965",
+    "n3-v-1972",
+    "n3-v-1996",
+    "n3-v-2024",
+    "n3-v-2114"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L32-q01",
+        "type": "kanji_reading",
+        "sentence": "兄は 有名な ＿俳優＿に なりたいと 言って います。",
+        "target": "俳優",
+        "options": [
+          "はいゆ",
+          "はいゆう",
+          "ばいゆう",
+          "はいよう"
+        ],
+        "answer": 1,
+        "explanation_ta": "俳優 = はいゆう (நடிகர்). 優 = ゆう (நீண்ட ஒலி). はいゆ என்று சுருக்கக் கூடாது; ばいゆう-வில் தவறான 'ば'.",
+        "explanation_en": "俳優 is read はいゆう (actor). 優 is ゆう, a long sound. はいゆ is too short. ばいゆう has a wrong ば."
+      },
+      {
+        "id": "L32-q02",
+        "type": "kanji_reading",
+        "sentence": "初めて ＿舞台＿に 立った ときは、とても 緊張しました。",
+        "target": "舞台",
+        "options": [
+          "ぶだい",
+          "まいだい",
+          "ぶたい",
+          "むたい"
+        ],
+        "answer": 2,
+        "explanation_ta": "舞台 = ぶたい (மேடை). 舞 = ぶ, 台 = たい. 台 'だい' என்றும் படிக்கப்படும் (一台), ஆனால் இங்கே たい.",
+        "explanation_en": "舞台 is read ぶたい (stage). 舞 = ぶ, 台 = たい. 台 can be だい (一台), but here it is たい."
+      },
+      {
+        "id": "L32-q03",
+        "type": "kanji_reading",
+        "sentence": "公演が 終わると、＿観客＿は 立ち上がって 拍手を した。",
+        "target": "観客",
+        "options": [
+          "かんきゃく",
+          "かんかく",
+          "かんきゃっく",
+          "みきゃく"
+        ],
+        "answer": 0,
+        "explanation_ta": "観客 = かんきゃく (பார்வையாளர்கள்). 客 = きゃく (お客さん). かんかく (感覚 = உணர்வு) வேறு சொல்.",
+        "explanation_en": "観客 is read かんきゃく (audience). 客 = きゃく, as in お客さん. かんかく (感覚, a sense) is a different word."
+      },
+      {
+        "id": "L32-q04",
+        "type": "orthography",
+        "sentence": "駅の 近くに 新しい ＿げきじょう＿が できた。",
+        "target": "げきじょう",
+        "options": [
+          "激場",
+          "劇上",
+          "劇揚",
+          "劇場"
+        ],
+        "answer": 3,
+        "explanation_ta": "げきじょう = 劇場 (நாடக அரங்கு). 劇 = நாடகம், 場 = இடம். 激 (கடுமையான) ஒலியில் ஒத்தாலும் பொருள் வேறு; 上, 揚 'இடம்' அல்ல.",
+        "explanation_en": "げきじょう is 劇場 (theatre). 劇 = play, 場 = place. 激 (fierce) sounds the same but means something else. 上 and 揚 don’t mean \"place\"."
+      },
+      {
+        "id": "L32-q05",
+        "type": "orthography",
+        "sentence": "演奏が 終わると、大きな ＿はくしゅ＿が 起こった。",
+        "target": "はくしゅ",
+        "options": [
+          "拍手",
+          "白手",
+          "泊手",
+          "拍主"
+        ],
+        "answer": 0,
+        "explanation_ta": "はくしゅ = 拍手 (கைதட்டல்). 拍 = தாளம்/தட்டுதல், 手 = கை. 白, 泊 ஒலியில் ஒத்தாலும் பொருள் வேறு.",
+        "explanation_en": "はくしゅ is 拍手 (applause). 拍 = beat, 手 = hand. 白 and 泊 sound like はく but mean other things."
+      },
+      {
+        "id": "L32-q06",
+        "type": "vocab_context",
+        "sentence": "映画の （　　）が 俳優に「もっと 大きな 声で」と 言った。",
+        "options": [
+          "観客",
+          "監督",
+          "照明",
+          "王子"
+        ],
+        "answer": 1,
+        "explanation_ta": "நடிகருக்கு அறிவுரை சொல்பவர் = 監督 (இயக்குநர்). 観客 பார்வையாளர்கள்; 照明 ஒளியமைப்பு — ஆள் அல்ல.",
+        "explanation_en": "The person who tells actors what to do is the 監督 (director). 観客 = audience. 照明 = lighting, not a person."
+      },
+      {
+        "id": "L32-q07",
+        "type": "vocab_context",
+        "sentence": "この 映画は、最後の （　　）で 主人公が 泣く ところが よかった。",
+        "options": [
+          "現場",
+          "入場",
+          "場面",
+          "役割"
+        ],
+        "answer": 2,
+        "explanation_ta": "படத்தின் கடைசிக் காட்சி = 最後の場面. 現場 = சம்பவ இடம் (விபத்து, வேலை), 入場 = நுழைவு.",
+        "explanation_en": "The last scene of a film = 最後の場面. 現場 = the real site (of an accident or work). 入場 = entry."
+      },
+      {
+        "id": "L32-q08",
+        "type": "vocab_context",
+        "sentence": "子どもの ころ、父は よく トランプの （　　）を 見せて くれた。",
+        "options": [
+          "演技",
+          "手品",
+          "宝",
+          "劇"
+        ],
+        "answer": 1,
+        "explanation_ta": "சீட்டுக்கட்டு வைத்துச் செய்யும் வித்தை = トランプの手品. 演技 = நடிப்பு; 'சீட்டுக்கட்டு நடிப்பு' என்பது பொருளற்றது.",
+        "explanation_en": "A trick with playing cards = トランプの手品. 演技 = acting; \"card acting\" makes no sense."
+      },
+      {
+        "id": "L32-q09",
+        "type": "vocab_context",
+        "sentence": "学校の 劇で、私は 王様の （　　）を もらった。",
+        "options": [
+          "姿",
+          "幕",
+          "真似",
+          "役"
+        ],
+        "answer": 3,
+        "explanation_ta": "நாடகத்தில் ஏற்கும் வேடம் = 役. 王様の役をもらう = ராஜா வேடம் கிடைத்தது. 姿 = தோற்றம், 幕 = திரை.",
+        "explanation_en": "A part in a play = 役. 王様の役をもらう = get the part of the king. 姿 = figure, 幕 = curtain."
+      },
+      {
+        "id": "L32-q10",
+        "type": "vocab_context",
+        "sentence": "最後の 場面が 終わると、ゆっくり （　　）が 下りた。",
+        "options": [
+          "幕",
+          "照明",
+          "舞台",
+          "マイク"
+        ],
+        "answer": 0,
+        "explanation_ta": "நாடக முடிவில் இறங்குவது திரை = 幕が下りる. 舞台 (மேடை) இறங்காது; 照明 'அணையும்' (消える / 暗くなる).",
+        "explanation_en": "At the end of a play, the curtain comes down: 幕が下りる. A stage doesn’t come down. Lights go off: 照明が消える."
+      },
+      {
+        "id": "L32-q11",
+        "type": "paraphrase",
+        "sentence": "弟は 寝た ふりを して いる。",
+        "options": [
+          "弟は 本当に ぐっすり 寝て いる。",
+          "弟は 寝て いないが、寝て いるように 見せて いる。",
+          "弟は 早く 寝たいと 言って いる。",
+          "弟は 寝る 準備を して いる。"
+        ],
+        "answer": 1,
+        "explanation_ta": "寝たふり = உண்மையில் தூங்கவில்லை, தூங்குவது போல் காட்டுகிறான். 'உண்மையில் நன்றாகத் தூங்குகிறான்' என்பது நேர் எதிர்.",
+        "explanation_en": "寝たふり = he is not asleep, but he makes it look like he is. \"Really sleeping well\" is the opposite."
+      },
+      {
+        "id": "L32-q12",
+        "type": "paraphrase",
+        "sentence": "子どもたちは 先生の 真似を した。",
+        "options": [
+          "子どもたちは 先生を 手伝った。",
+          "子どもたちは 先生に 質問を した。",
+          "子どもたちは 先生を 待って いた。",
+          "子どもたちは 先生と 同じように 話したり 動いたり した。"
+        ],
+        "answer": 3,
+        "explanation_ta": "真似をする = ஒருவரைப் போலவே பேசுவது, அசைவது (பின்பற்றுதல்). 手伝う = உதவுதல் — வேறு பொருள்.",
+        "explanation_en": "真似をする = talk and move just like someone (copy them). 手伝う = help; it is different."
+      },
+      {
+        "id": "L32-q13",
+        "type": "usage",
+        "sentence": "現れる",
+        "options": [
+          "毎朝 七時に 家を 現れます。",
+          "先生に 宿題を 現れました。",
+          "雲の 間から、きれいな 月が 現れた。",
+          "新しい 店で 靴を 現れた。"
+        ],
+        "answer": 2,
+        "explanation_ta": "現れる = தோன்றுவது (தன்வினை; を எடுக்காது). 'மேகங்களுக்கு இடையிலிருந்து நிலா தோன்றியது' சரி. 家を出る, 宿題を出す, 靴を買う என்று இருக்க வேண்டும்.",
+        "explanation_en": "現れる = to appear. It takes no を. \"The moon appeared between the clouds\" is right. The others need 家を出る, 宿題を出す, 靴を買う."
+      },
+      {
+        "id": "L32-q14",
+        "type": "usage",
+        "sentence": "役割",
+        "options": [
+          "この 劇場の 役割は 三千円です。",
+          "グループの 中で、一人一人の 役割を 決めましょう。",
+          "役割が 痛いので、病院へ 行きます。",
+          "明日は いい 役割に なるでしょう。"
+        ],
+        "answer": 1,
+        "explanation_ta": "役割 = ஒவ்வொருவரின் பொறுப்பு / பங்கு. 'குழுவில் ஒவ்வொருவரின் பொறுப்பையும் முடிவு செய்வோம்' சரி. விலை (料金), உடல் உறுப்பு, வானிலை — இவற்றுக்கு 役割 பொருந்தாது.",
+        "explanation_en": "役割 = each person’s job or role. \"Let’s decide each person’s role in the group\" is right. A price (料金), a body part or the weather don’t fit."
+      },
+      {
+        "id": "L32-q15",
+        "type": "grammar_form",
+        "sentence": "本当は 答えを 知って いるのに、知らない （　　）を した。",
+        "options": [
+          "ふり",
+          "まね",
+          "よう",
+          "つもり"
+        ],
+        "answer": 0,
+        "explanation_ta": "'தெரிந்தும் தெரியாதது போல் நடித்தேன்' = 知らないふりをした. まね-க்கு முன் 'யாரை' (Nの) வேண்டும்: 先生のまね. つもりをする என்ற வடிவம் இல்லை.",
+        "explanation_en": "\"I knew, but pretended not to\" = 知らないふりをした. まね needs a person before it: 先生のまね. つもりをする is not a pattern."
+      },
+      {
+        "id": "L32-q16",
+        "type": "grammar_form",
+        "sentence": "新しい ダンスを 習う とき、先生が まず 自分で 踊って （　　）。",
+        "options": [
+          "おいた",
+          "みせた",
+          "しまった",
+          "あった"
+        ],
+        "answer": 1,
+        "explanation_ta": "மாணவர்கள் பார்க்கும்படி ஆசிரியர் ஆடிக் காட்டினார் = 踊ってみせた. 踊っておいた 'முன்கூட்டியே ஆடிவைத்தார்' — பொருந்தாது.",
+        "explanation_en": "The teacher danced so we could see: 踊ってみせた. 踊っておいた = danced in advance. It doesn’t fit."
+      },
+      {
+        "id": "L32-q17",
+        "type": "grammar_form",
+        "sentence": "（母が 子どもに）「この 果物、甘くて おいしいよ。食べて （　　）。」",
+        "options": [
+          "おいて",
+          "しまえ",
+          "ごらん",
+          "あった"
+        ],
+        "answer": 2,
+        "explanation_ta": "அம்மா குழந்தையிடம் அன்பாக 'சாப்பிட்டுப் பார்' = 食べてごらん. しまえ கடுமையான கட்டளை; あった பொருளற்றது.",
+        "explanation_en": "A mother kindly says \"try eating it\": 食べてごらん. しまえ is a harsh order. あった makes no sense."
+      },
+      {
+        "id": "L32-q18",
+        "type": "grammar_form",
+        "sentence": "けんかの あと、彼は 何も なかった （　　）、笑って 話し 始めた。",
+        "options": [
+          "ために",
+          "くせに",
+          "ばかりに",
+          "かのように"
+        ],
+        "answer": 3,
+        "explanation_ta": "சண்டை நடந்தது; ஆனால் 'ஏதும் நடக்காதது போல' = 何もなかったかのように. くせに 'இருந்தும் (குறை சொல்லும் தொனி)' — பொருள் பொருந்தாது.",
+        "explanation_en": "There was a fight, but he acted \"as if nothing had happened\": 何もなかったかのように. くせに (\"even though\", blaming) doesn’t fit."
+      },
+      {
+        "id": "L32-q19",
+        "type": "grammar_form",
+        "sentence": "前の 試合では 負けたが、次の 試合では 絶対に 勝って （　　）！",
+        "options": [
+          "おく",
+          "しまう",
+          "みせる",
+          "みる"
+        ],
+        "answer": 2,
+        "explanation_ta": "'கட்டாயம் வென்று காட்டுவேன்' என்ற உறுதி = 勝ってみせる. 勝ってみる 'வெல்ல முயன்று பார்ப்பது' — 絶対に உடன் பொருந்தாது.",
+        "explanation_en": "\"I’ll win, you’ll see!\" is strong will: 勝ってみせる. 勝ってみる = try to win; it doesn’t match 絶対に."
+      },
+      {
+        "id": "L32-q20",
+        "type": "grammar_form",
+        "sentence": "彼女の 演技は、まるで 本物の 女王で ある （　　）だった。",
+        "options": [
+          "かのよう",
+          "そう",
+          "らしい",
+          "っぽい"
+        ],
+        "answer": 0,
+        "explanation_ta": "まるで + 'உண்மையான அரசி போல' (உண்மையில் அல்ல) = 女王であるかのようだった. である-க்குப் பின் そう, らしい, っぽい இந்த வடிவில் வராது.",
+        "explanation_en": "まるで + \"as if she were a real queen\" (she isn’t) = 女王であるかのようだった. そう, らしい and っぽい don’t follow である like this."
+      },
+      {
+        "id": "L32-q21",
+        "type": "grammar_form",
+        "sentence": "本当は 寂しいのに、彼女は 平気な （　　）を して いた。",
+        "options": [
+          "ほど",
+          "まね",
+          "ばかり",
+          "ふり"
+        ],
+        "answer": 3,
+        "explanation_ta": "'தனிமையாக உணர்ந்தும், பரவாயில்லை என்பது போல் நடித்தாள்' = 平気なふり. まね ஒருவரைப் பின்பற்றுவது; 平気なまね என்பது இயல்பற்றது.",
+        "explanation_en": "\"She was lonely but acted as if she was fine\" = 平気なふり. まね is copying a person. 平気なまね is unnatural."
+      },
+      {
+        "id": "L32-q22",
+        "type": "sentence_order",
+        "before": "彼は 道で 会っても、",
+        "chunks": [
+          "私の",
+          "ことを",
+          "知らない",
+          "ふりを"
+        ],
+        "star": 2,
+        "after": "した。",
+        "explanation_ta": "彼は 道で 会っても、私の ことを 知らない ふりを した (வழியில் சந்தித்தும், என்னைத் தெரியாதது போல் நடித்தான்). ★ = 知らない.",
+        "explanation_en": "彼は 道で 会っても、私の ことを 知らない ふりを した (Even when we met on the street, he pretended not to know me). ★ = 知らない."
+      },
+      {
+        "id": "L32-q23",
+        "type": "sentence_order",
+        "before": "お母さんが",
+        "chunks": [
+          "カレーの",
+          "作り方を",
+          "やって",
+          "みせて"
+        ],
+        "star": 2,
+        "after": "くれた。",
+        "explanation_ta": "お母さんが カレーの 作り方を やって みせて くれた (அம்மா கறி செய்யும் முறையைச் செய்து காட்டினார்). ★ = やって.",
+        "explanation_en": "お母さんが カレーの 作り方を やって みせて くれた (Mum showed me how to make curry). ★ = やって."
+      },
+      {
+        "id": "L32-q24",
+        "type": "sentence_order",
+        "before": "まだ 四月なのに、",
+        "chunks": [
+          "夏が",
+          "来た",
+          "かのような",
+          "暑さ"
+        ],
+        "star": 2,
+        "after": "だ。",
+        "explanation_ta": "まだ 四月なのに、夏が 来た かのような 暑さ だ (இன்னும் ஏப்ரல்தான், ஆனால் கோடை வந்தது போன்ற வெப்பம்). பெயர்ச்சொல்லுக்கு முன் かのような. ★ = かのような.",
+        "explanation_en": "まだ 四月なのに、夏が 来た かのような 暑さ だ (It’s only April, but it’s as hot as summer). Before a noun use かのような. ★ = かのような."
+      },
+      {
+        "id": "L32-q25",
+        "type": "passage_cloze",
+        "passage": "昨日、娘と 一緒に 劇場で 手品の 公演を 見ました。照明が 暗く なり、舞台に 手品師が ［1］と、観客は 大きな 拍手を しました。手品師は 観客の 中から 娘を 呼んで、「この 箱の 中を よく 見て ［2］」と 言いました。娘が「何も ありません」と 答えると、手品師は 箱の 中から 赤い 花を 出して ［3］。その 花は まるで 生きて いる ［4］、ゆらゆらと 動いて いました。娘は 驚かない ふりを して いましたが、帰り道では ずっと 手品の 話ばかり して いました。",
+        "blanks": [
+          {
+            "options": [
+              "現す",
+              "現れる",
+              "示す",
+              "越す"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "おく",
+              "しまう",
+              "ごらん",
+              "みせる"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "みせました",
+              "ごらんでした",
+              "おきました",
+              "ありました"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "ふりを して",
+              "かのように",
+              "ばかりに",
+              "くせに"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ 'மேடையில் தோன்றியதும்' = 手品師が現れると (தன்வினை, が உடன்). 現す-க்கு を வேண்டும் (姿を現す). ［2］ குழந்தையிடம் 'நன்றாகப் பார்' = 見てごらん. ［3］ பார்வையாளர் பார்க்கும்படி பூவை எடுத்துக் காட்டினார் = 出してみせました. ［4］ 'உயிருள்ளது போல' (உண்மையில் அல்ல) = 生きているかのように.",
+        "explanation_en": "[1] \"When the magician appeared on stage\" = 現れると (with が). 現す needs を (姿を現す). [2] Kindly to a child: \"look carefully\" = 見てごらん. [3] He took out a flower for all to see: 出してみせました. [4] \"As if it were alive\" (it isn’t) = 生きているかのように."
+      }
+    ]
+  }
+}

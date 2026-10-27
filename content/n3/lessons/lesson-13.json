@@ -1,0 +1,754 @@
+{
+  "lesson": 13,
+  "title": {
+    "ja": "子どものくせに",
+    "ta": "சின்னப் பையனாக இருந்தும்",
+    "en": "Even though he's just a kid"
+  },
+  "intro_ta": "இந்தப் பாடத்தில் மனிதர்களின் குணம், பழக்கம், திறமை பற்றிப் பேசக் கற்போம். 'சின்னப் பையனாக இருந்துகொண்டு பெரிய பேச்சு பேசுகிறான்' என்று குறை சொல்ல 〜くせに, 'வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பு' என்று எதிர்பார்ப்போடு ஒப்பிட 〜わりに / 〜にしては, 'சிறியதாக இருந்தாலும்' என்று ஒப்புக்கொண்டு பேச 〜ながら(も), 'அப்படிச் செய்யலாமே!' என்று ஆதங்கப்பட 〜ばいいのに ஆகியவற்றைப் படிப்போம். இவற்றைக் கொண்டு நண்பர்கள், குடும்பத்தினர், சக ஊழியர்கள் பற்றிய உங்கள் உண்மையான எண்ணங்களை இயல்பாகச் சொல்ல முடியும்.",
+  "intro_en": "In this lesson you will talk about people: their character, habits and talents. You will learn 〜くせに to complain: \"he's just a kid, and yet…\". You will learn 〜わりに and 〜にしては to compare with what you expected. For example: \"lively for her age\". You will learn 〜ながら(も) to say \"although\". And you will learn 〜ばいいのに to say \"I wish…\" or \"why don't they…\". With these, you can share your real feelings about friends, family and co-workers.",
+  "grammar": [
+    {
+      "id": "g13-1",
+      "pattern": "〜くせに",
+      "name": {
+        "en": "Even though ~ (criticism)",
+        "ta": "〜ஆக இருந்துகொண்டே (குறை கூறல்)"
+      },
+      "explanation_ta": "〜くせに என்பது 'A ஆக இருந்தும் B செய்கிறான்' என்று ஒருவரின் நடத்தையைக் குறை கூறும், எரிச்சலைக் காட்டும் இணைப்பு. தமிழில் 'சின்னப் பையனாக இருந்துகொண்டு பெரியவன் மாதிரிப் பேசுகிறான்', 'தெரிந்திருந்தும் சொல்லவில்லை' என்று சொல்லும்போது உள்ள கோபத் தொனி இதில் உண்டு. உருவாக்கம்: சாதாரண வடிவம் + くせに; な-பெயரடை + な + くせに; பெயர்ச்சொல் + の + くせに. இரண்டு பகுதிகளுக்கும் எழுவாய் ஒரே நபராக இருக்க வேண்டும்; பெரும்பாலும் மற்றவர்களைப் பற்றியே பேசுவோம், தன்னைப் பற்றி அல்ல. N4-இல் கற்ற のに-உம் 'இருந்தும்' என்ற பொருள்தான்; ஆனால் のに ஏமாற்றம் அல்லது வருத்தத்தைக் காட்டும், くせに நேரடியாக அந்த நபரைக் குற்றம் சாட்டும். அதனால் くせに பேச்சுவழக்கு, முரட்டுத் தொனி கொண்டது; மேலதிகாரிகளிடம் பயன்படுத்தக் கூடாது. வாக்கியத்தின் முடிவிலும் 「知ってるくせに。」 என்று தனியாக வரலாம்.",
+      "explanation_en": "〜くせに means \"even though A, he does B\". You use it to criticise someone. It shows you are annoyed. In Tamil the tone is like \"சின்னப் பையனாக இருந்துகொண்டு\" (being just a kid, and still…). Put it after the plain form. With な-adjectives use な + くせに. With nouns use の + くせに. Both parts must be about the same person. You usually say it about other people, not yourself. のに (from N4) also means \"even though\". But のに shows disappointment. くせに blames the person directly. So くせに is casual and rough. Don’t use it to your boss. It can also end a sentence: 「知ってるくせに。」 (\"You know it!\").",
+      "tamil_parallel": "சின்னப் பையனாக இருந்துகொண்டு பெரிய பேச்சு பேசுகிறான் = 子どものくせに、大人みたいなことを言う",
+      "tamil_parallel_en": "\"Being just a kid, he still talks big\" (சின்னப் பையனாக இருந்துகொண்டு பெரிய பேச்சு பேசுகிறான்) = 子どものくせに、大人みたいなことを言う",
+      "formation": "வினை (சாதாரண வடிவம்) + くせに　　知っている くせに\nい-பெயரடை + くせに　　　　　　　若い くせに\nな-பெயரடை + な + くせに　　　　下手な くせに\nபெயர்ச்சொல் + の + くせに　　　　子どもの くせに",
+      "formation_en": "Verb (plain form) + くせに　　知っている くせに\nい-adjective + くせに　　　　　若い くせに\nな-adjective + な + くせに　　下手な くせに\nNoun + の + くせに　　　　　　子どもの くせに",
+      "examples": [
+        {
+          "ja": "弟は自分では何もしないくせに、文句ばかり言う。",
+          "reading": "おとうとは じぶんでは なにも しない くせに、もんくばかり いう。",
+          "romaji": "otouto wa jibun de wa nani mo shinai kuse ni, monku bakari iu.",
+          "ta": "தம்பி தானாக எதுவும் செய்வதில்லை; இருந்துகொண்டே எப்போதும் குறை மட்டும் சொல்கிறான்.",
+          "en": "My brother never does anything himself, yet all he does is complain."
+        },
+        {
+          "ja": "彼は歌が下手なくせに、カラオケが大好きだ。",
+          "reading": "かれは うたが へたな くせに、カラオケが だいすきだ。",
+          "romaji": "kare wa uta ga heta na kuse ni, karaoke ga daisuki da.",
+          "ta": "அவனுக்குப் பாடவே வராது; இருந்தும் கரோக்கே என்றால் அவனுக்கு உயிர்.",
+          "en": "He’s bad at singing, and yet he loves karaoke."
+        },
+        {
+          "ja": "子どものくせに、大人の話に口を出さないで。",
+          "reading": "こどもの くせに、おとなの はなしに くちを ださないで。",
+          "romaji": "kodomo no kuse ni, otona no hanashi ni kuchi o dasanaide.",
+          "ta": "சின்னப் பையன் நீ, பெரியவர்கள் பேச்சில் தலையிடாதே.",
+          "en": "You’re just a kid. Don’t butt into grown-ups’ talk."
+        },
+        {
+          "ja": "知っているくせに、どうして教えてくれないの？",
+          "reading": "しって いる くせに、どうして おしえて くれないの？",
+          "romaji": "shitte iru kuse ni, doushite oshiete kurenai no?",
+          "ta": "உனக்குத் தெரிந்திருந்தும் ஏன் எனக்குச் சொல்ல மாட்டேன் என்கிறாய்?",
+          "en": "You know it, so why won’t you tell me?"
+        },
+        {
+          "ja": "あの人はお金持ちのくせに、本当にけちだ。",
+          "reading": "あの ひとは おかねもちの くせに、ほんとうに けちだ。",
+          "romaji": "ano hito wa okanemochi no kuse ni, hontou ni kechi da.",
+          "ta": "அவர் பணக்காரர்; இருந்தும் பெரிய கஞ்சன்.",
+          "en": "He’s rich, and yet he’s really stingy."
+        },
+        {
+          "ja": "「できない」と言ったくせに、一人で全部やったの？",
+          "reading": "「できない」と いった くせに、ひとりで ぜんぶ やったの？",
+          "romaji": "\"dekinai\" to itta kuse ni, hitori de zenbu yatta no?",
+          "ta": "\"முடியாது\" என்று சொல்லிவிட்டு, தனியாக எல்லாவற்றையும் செய்துவிட்டாயா?",
+          "en": "You said you couldn’t, and you did it all by yourself?"
+        }
+      ],
+      "pitfalls_ta": "くせに-ஐ உங்களைப் பற்றியோ, மரியாதையாகப் பேச வேண்டிய நபரிடமோ பயன்படுத்தாதீர்கள்; அது குற்றச்சாட்டாகக் கேட்கும். குறை கூறும் எண்ணம் இல்லாத இடத்தில் のに அல்லது けれど போதும். பெயர்ச்சொல்லுக்குப் பின் の-வை மறக்காதீர்கள்: 子どもくせに அல்ல, 子どものくせに.",
+      "pitfalls_en": "Don’t use くせに about yourself or to people you must respect. It sounds like an attack. If you are not criticising, のに or けれど is enough. After a noun, don’t forget の: not 子どもくせに but 子どものくせに."
+    },
+    {
+      "id": "g13-2",
+      "pattern": "〜わりに(は)",
+      "name": {
+        "en": "Considering ~ / for ~",
+        "ta": "〜க்கு ஏற்றதைவிட / 〜ஐப் பார்த்தால்"
+      },
+      "explanation_ta": "〜わりに(は) என்பது 'A-இன் அளவைப் பார்த்தால் B இப்படி இருக்கும் என்று எதிர்பார்த்தேன்; ஆனால் அப்படி இல்லை' என்று சொல்லும் வடிவம். தமிழில் 'வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பு', 'விலையைப் பார்த்தால் ரொம்பச் சுவை' என்று சொல்வது போல. わり (割) என்றால் விகிதம், அளவு; அதனால் வயது, விலை, உழைப்பு, அளவு போன்ற 'அளவிடக்கூடிய' விஷயங்களுடன் அதிகம் வரும். உருவாக்கம்: வினை / い-பெயரடை (சாதாரண வடிவம்) + わりに; な-பெயரடை + な; பெயர்ச்சொல் + の. முடிவு நல்லதாகவும் இருக்கலாம் (年のわりに元気), கெட்டதாகவும் இருக்கலாம் (勉強したわりに点が悪い). は சேர்த்தால் வேறுபாடு இன்னும் அழுத்தமாகும். பேச்சிலும் எழுத்திலும் இரண்டிலும் வரும்.",
+      "explanation_en": "〜わりに(は) means \"for ~\" or \"considering ~\". You expected one result from A, but B is different. In Tamil: \"lively for her age\" (வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பு). わり means \"proportion\" or \"degree\". So it often comes after things you can measure: age, price, effort, size. Put it after the plain form of verbs and い-adjectives. With な-adjectives use な. With nouns use の. The result can be good (年のわりに元気, \"lively for her age\"). It can also be bad (勉強したわりに点が悪い, \"I studied, but my score was bad\"). Adding は makes the contrast stronger. You can use it in speech and writing.",
+      "tamil_parallel": "பாட்டி வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பாக இருக்கிறார் = 祖母は年のわりに元気だ",
+      "tamil_parallel_en": "\"Grandma is lively for her age\" (பாட்டி வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பாக இருக்கிறார்) = 祖母は年のわりに元気だ",
+      "formation": "வினை (சாதாரண வடிவம்) + わりに(は)　　勉強した わりに\nい-பெயரடை + わりに(は)　　　　　　　安い わりに\nな-பெயரடை + な + わりに(は)　　　　　有名な わりに\nபெயர்ச்சொல் + の + わりに(は)　　　　　年の わりに",
+      "formation_en": "Verb (plain form) + わりに(は)　　勉強した わりに\nい-adjective + わりに(は)　　　安い わりに\nな-adjective + な + わりに(は)　有名な わりに\nNoun + の + わりに(は)　　　　　年の わりに",
+      "examples": [
+        {
+          "ja": "この店は値段のわりにおいしい。",
+          "reading": "この みせは ねだんの わりに おいしい。",
+          "romaji": "kono mise wa nedan no wari ni oishii.",
+          "ta": "இந்தக் கடையில் விலைக்கு ஏற்றதைவிடச் சுவை அதிகம்.",
+          "en": "This shop’s food is tasty for the price."
+        },
+        {
+          "ja": "祖母は年のわりに元気です。",
+          "reading": "そぼは としの わりに げんきです。",
+          "romaji": "sobo wa toshi no wari ni genki desu.",
+          "ta": "பாட்டி வயதுக்கு ஏற்றதைவிடச் சுறுசுறுப்பாக இருக்கிறார்.",
+          "en": "My grandmother is lively for her age."
+        },
+        {
+          "ja": "よく勉強したわりには、点数が悪かった。",
+          "reading": "よく べんきょうした わりには、てんすうが わるかった。",
+          "romaji": "yoku benkyou shita wari ni wa, tensuu ga warukatta.",
+          "ta": "நன்றாகப் படித்திருந்தும், அதற்கேற்ற மதிப்பெண் வரவில்லை.",
+          "en": "For all my studying, I got a poor score."
+        },
+        {
+          "ja": "彼は細いわりに、よく食べる。",
+          "reading": "かれは ほそい わりに、よく たべる。",
+          "romaji": "kare wa hosoi wari ni, yoku taberu.",
+          "ta": "அவன் ஒல்லியாக இருப்பதைப் பார்த்தால் நம்ப முடியாத அளவுக்குச் சாப்பிடுவான்.",
+          "en": "He eats a lot for someone so thin."
+        },
+        {
+          "ja": "この仕事は大変なわりに、給料が安い。",
+          "reading": "この しごとは たいへんな わりに、きゅうりょうが やすい。",
+          "romaji": "kono shigoto wa taihen na wari ni, kyuuryou ga yasui.",
+          "ta": "இந்த வேலை கஷ்டமானது; அதற்கேற்ற சம்பளம் இல்லை.",
+          "en": "This job is hard, but the pay is low for it."
+        },
+        {
+          "ja": "有名なわりに、あの映画はあまり面白くなかったね。",
+          "reading": "ゆうめいな わりに、あの えいがは あまり おもしろくなかったね。",
+          "romaji": "yuumei na wari ni, ano eiga wa amari omoshirokunakatta ne.",
+          "ta": "அவ்வளவு பிரபலமான படம்; ஆனால் அவ்வளவு சுவாரசியமாக இல்லை, இல்லையா?",
+          "en": "For such a famous film, it wasn’t very interesting, was it?"
+        }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் の வேண்டும்: 年わりに அல்ல, 年のわりに. くせに போல குற்றம் சாட்டும் தொனி わりに-க்கு இல்லை; அது வெறும் ஒப்பீடு மட்டுமே.",
+      "pitfalls_en": "After a noun you need の: not 年わりに but 年のわりに. わりに does not blame anyone like くせに. It only compares."
+    },
+    {
+      "id": "g13-3",
+      "pattern": "〜にしては",
+      "name": {
+        "en": "For ~ (unexpected for that standard)",
+        "ta": "〜ஆக இருப்பதற்கு (எதிர்பாராத அளவு)"
+      },
+      "explanation_ta": "〜にしては என்பது 'A என்ற நிலையை வைத்துப் பார்த்தால், B எதிர்பாராதது' என்று சொல்லும். தமிழில் 'ஒரு வருடம்தான் ஆனவனுக்கு இவ்வளவு நல்ல ஜப்பானியமா!', 'அக்டோபர் மாதத்துக்கு இது ரொம்ப வெயில்' என்பது போல. உருவாக்கம்: பெயர்ச்சொல் அல்லது வினையின் சாதாரண வடிவம் + にしては; பெயர்ச்சொல்லுக்குப் பின் の வராது (小学生にしては). わりに-உடன் உள்ள வேறுபாடு: わりに வயது, விலை போன்ற அளவுகளுடன் வந்து, பெயரடைகளுடனும் சேரும்; にしては ஒரு குறிப்பிட்ட நபர், நிலை, உண்மை (プロ, 十月, 初めて作った) என்ற 'தரத்தை' வைத்துப் பேசுபவரின் மதிப்பீட்டைச் சொல்லும், பொதுவாகப் பெயரடைகளுடன் வராது. 'அவளைப் பொறுத்தவரை இது அபூர்வம்' (彼女にしては珍しい) என்றும் பயன்படும்.",
+      "explanation_en": "〜にしては means \"for ~\". You judge B against a standard A, and B is a surprise. In Tamil: \"for someone here only a year, his Japanese is so good!\" Put にしては right after a noun or the plain form of a verb. There is no の after the noun: 小学生にしては. How is it different from わりに? わりに goes with amounts like age or price. It can follow adjectives. にしては uses a person, a status or a fact as the standard (プロ \"a pro\", 十月 \"October\", 初めて作った \"made for the first time\"). It usually does not follow adjectives. You can also say 彼女にしては珍しい: \"that’s unusual for her\".",
+      "tamil_parallel": "அக்டோபர் மாதத்துக்கு இன்று ரொம்ப வெயில் = 十月にしては、今日は暑い",
+      "tamil_parallel_en": "\"It’s very hot today for October\" (அக்டோபர் மாதத்துக்கு இன்று ரொம்ப வெயில்) = 十月にしては、今日は暑い",
+      "formation": "பெயர்ச்சொல் + にしては　　　　　　プロ にしては\nவினை (சாதாரண வடிவம்) + にしては　初めて 作った にしては\n(の சேர்க்கக் கூடாது: ✕ プロのにしては)",
+      "formation_en": "Noun + にしては　　　　　　　プロ にしては\nVerb (plain form) + にしては　初めて 作った にしては\n(no の: ✕ プロのにしては)",
+      "examples": [
+        {
+          "ja": "日本に来て一年にしては、彼は日本語がとても上手だ。",
+          "reading": "にほんに きて いちねんに しては、かれは にほんごが とても じょうずだ。",
+          "romaji": "nihon ni kite ichinen ni shite wa, kare wa nihongo ga totemo jouzu da.",
+          "ta": "ஜப்பான் வந்து ஒரு வருடம்தான் ஆகிறது; அதற்கு அவன் ஜப்பானிய மொழி மிக நன்றாகப் பேசுகிறான்.",
+          "en": "For someone in Japan only a year, his Japanese is very good."
+        },
+        {
+          "ja": "小学生にしては、ずいぶん難しい本を読んでいますね。",
+          "reading": "しょうがくせいに しては、ずいぶん むずかしい ほんを よんで いますね。",
+          "romaji": "shougakusei ni shite wa, zuibun muzukashii hon o yonde imasu ne.",
+          "ta": "தொடக்கப்பள்ளி மாணவனுக்கு இது ரொம்பக் கடினமான புத்தகம்; அதைப் படிக்கிறானே!",
+          "en": "For a primary school child, he’s reading quite a difficult book."
+        },
+        {
+          "ja": "初めて作ったにしては、このカレーはおいしい。",
+          "reading": "はじめて つくったに しては、この カレーは おいしい。",
+          "romaji": "hajimete tsukutta ni shite wa, kono karee wa oishii.",
+          "ta": "முதல் முறையாகச் செய்தது என்றால், இந்தக் கறி நன்றாகவே இருக்கிறது.",
+          "en": "For a first attempt, this curry is tasty."
+        },
+        {
+          "ja": "十月にしては、今日はずいぶん暑いですね。",
+          "reading": "じゅうがつに しては、きょうは ずいぶん あついですね。",
+          "romaji": "juugatsu ni shite wa, kyou wa zuibun atsui desu ne.",
+          "ta": "அக்டோபர் மாதத்துக்கு இன்று ரொம்ப வெப்பமாக இருக்கிறது, இல்லையா?",
+          "en": "It’s very hot today for October, isn’t it?"
+        },
+        {
+          "ja": "プロの選手にしては、今日の試合はミスが多かった。",
+          "reading": "プロの せんしゅに しては、きょうの しあいは ミスが おおかった。",
+          "romaji": "puro no senshu ni shite wa, kyou no shiai wa misu ga ookatta.",
+          "ta": "ஒரு தொழில்முறை வீரருக்கு இன்றைய ஆட்டத்தில் தவறுகள் அதிகம்.",
+          "en": "For a professional player, he made a lot of mistakes in today’s match."
+        },
+        {
+          "ja": "いつも早い彼女にしては、今日は珍しく遅刻したね。",
+          "reading": "いつも はやい かのじょに しては、きょうは めずらしく ちこくしたね。",
+          "romaji": "itsumo hayai kanojo ni shite wa, kyou wa mezurashiku chikoku shita ne.",
+          "ta": "எப்போதும் சீக்கிரம் வரும் அவளுக்கு, இன்று தாமதமாக வந்தது அபூர்வம்தான்.",
+          "en": "She’s always early, so being late today is unusual for her."
+        }
+      ],
+      "pitfalls_ta": "にしては-க்கு முன் の போடாதீர்கள் (✕ 子どものにしては). பெயரடைக்குப் பின் にしては பொதுவாக வராது; '安いにしては' என்பதற்குப் பதில் '安いわりに' சொல்லுங்கள்.",
+      "pitfalls_en": "Don’t put の before にしては (✕ 子どものにしては). にしては does not usually follow adjectives. Say 安いわりに, not 安いにしては."
+    },
+    {
+      "id": "g13-4",
+      "pattern": "〜ながら(も)",
+      "name": {
+        "en": "Although ~",
+        "ta": "〜ஆக இருந்தாலும்"
+      },
+      "explanation_ta": "N5-இல் ながら என்பது 'செய்துகொண்டே' (இசை கேட்டுக்கொண்டே படிப்பது) என்று கற்றோம். ஆனால் நிலையைக் காட்டும் வினைகள் (知っている, いる, ある), பெயரடைகள், பெயர்ச்சொற்களுடன் ながら(も) வந்தால் 'A ஆக இருந்தாலும் B' என்ற ஒப்புக்கொள்ளும் பொருள் வரும். தமிழில் 'சிறியதாக இருந்தாலும் இது என் அருமையான வீடு', 'தவறு என்று தெரிந்திருந்தும் பொய் சொன்னேன்' போல. உருவாக்கம்: வினை ます-அடிச்சொல் + ながら (知っていながら, 言いながら); い-பெயரடை + ながら (狭いながら); な-பெயரடை அடிச்சொல் / பெயர்ச்சொல் + ながら (残念ながら, 子どもながら). も சேர்த்தால் 'இருந்தும் கூட' என்று அழுத்தம் கூடும். இது சற்று எழுத்து நடை, பணிவான தொனி; くせに போல குற்றம் சாட்டாது. 残念ながら (வருத்தத்துடன்) என்பது நிலையான சொற்றொடர்.",
+      "explanation_en": "In N5 you learned ながら as \"while doing\" (study while listening to music). But some words describe a state: 知っている, いる, ある, adjectives and nouns. With these, ながら(も) means \"although A, B\". In Tamil: \"small, but it’s my dear home\" (சிறியதாக இருந்தாலும் இது என் அருமையான வீடு). How to make it: verb ます-stem + ながら (知っていながら, 言いながら). い-adjective + ながら (狭いながら). な-adjective stem or noun + ながら (残念ながら, 子どもながら). Adding も makes it stronger: \"even though\". It sounds a little written and polite. Unlike くせに, it does not blame. 残念ながら (\"unfortunately\") is a set phrase.",
+      "tamil_parallel": "சிறியதாக இருந்தாலும் இது என் அருமையான வீடு = 狭いながらも、ここは私の大切な家だ",
+      "tamil_parallel_en": "\"Though small, this is my dear home\" (சிறியதாக இருந்தாலும் இது என் அருமையான வீடு) = 狭いながらも、ここは私の大切な家だ",
+      "formation": "வினை ます-அடிச்சொல் + ながら(も)　　知ってい ながら\nい-பெயரடை + ながら(も)　　　　　　狭い ながらも\nな-பெயரடை அடிச்சொல் + ながら(も)　　残念 ながら\nபெயர்ச்சொல் + ながら(も)　　　　　　子ども ながら",
+      "formation_en": "Verb ます-stem + ながら(も)　　知ってい ながら\nい-adjective + ながら(も)　　　狭い ながらも\nな-adjective stem + ながら(も)　残念 ながら\nNoun + ながら(も)　　　　　　　子ども ながら",
+      "examples": [
+        {
+          "ja": "狭いながらも、ここは私の大切な家です。",
+          "reading": "せまいながらも、ここは わたしの たいせつな いえです。",
+          "romaji": "semai nagara mo, koko wa watashi no taisetsu na ie desu.",
+          "ta": "சிறியதாக இருந்தாலும், இது எனக்கு அருமையான வீடு.",
+          "en": "Though it’s small, this is my precious home."
+        },
+        {
+          "ja": "彼は子どもながら、とてもしっかりしている。",
+          "reading": "かれは こどもながら、とても しっかり して いる。",
+          "romaji": "kare wa kodomo nagara, totemo shikkari shite iru.",
+          "ta": "அவன் சிறுவனாக இருந்தாலும் மிகப் பொறுப்பாக நடந்துகொள்கிறான்.",
+          "en": "Though he’s a child, he’s very responsible."
+        },
+        {
+          "ja": "悪いと知っていながら、うそをついてしまった。",
+          "reading": "わるいと しって いながら、うそを ついて しまった。",
+          "romaji": "warui to shitte inagara, uso o tsuite shimatta.",
+          "ta": "தவறு என்று தெரிந்திருந்தும் பொய் சொல்லிவிட்டேன்.",
+          "en": "I knew it was wrong, but I told a lie anyway."
+        },
+        {
+          "ja": "残念ながら、明日のパーティーには行けません。",
+          "reading": "ざんねんながら、あしたの パーティーには いけません。",
+          "romaji": "zannen nagara, ashita no paatii ni wa ikemasen.",
+          "ta": "வருத்தமாக இருந்தாலும், நாளைய விருந்துக்கு என்னால் வர முடியாது.",
+          "en": "Unfortunately, I can’t come to tomorrow’s party."
+        },
+        {
+          "ja": "彼女は苦手ながらも、毎日一生懸命練習している。",
+          "reading": "かのじょは にがてながらも、まいにち いっしょうけんめい れんしゅうして いる。",
+          "romaji": "kanojo wa nigate nagara mo, mainichi isshoukenmei renshuu shite iru.",
+          "ta": "அவளுக்குச் சரியாக வராவிட்டாலும், தினமும் கடுமையாகப் பயிற்சி செய்கிறாள்.",
+          "en": "Though she isn’t good at it, she practises hard every day."
+        },
+        {
+          "ja": "彼は「行く」と言いながら、結局来なかった。",
+          "reading": "かれは「いく」と いいながら、けっきょく こなかった。",
+          "romaji": "kare wa \"iku\" to iinagara, kekkyoku konakatta.",
+          "ta": "\"வருகிறேன்\" என்று சொல்லியும், கடைசியில் அவன் வரவே இல்லை.",
+          "en": "He said he’d come, but in the end he didn’t."
+        }
+      ],
+      "pitfalls_ta": "'செய்துகொண்டே' (இரண்டு செயல் ஒரே நேரத்தில்) பொருளுக்கும் 'இருந்தாலும்' பொருளுக்கும் வடிவம் ஒன்றே; வாக்கியத்தின் பொருளை வைத்தே பிரித்தறிய வேண்டும். ながらも என்று も சேர்த்தால் அது எப்போதும் 'இருந்தாலும்' பொருள்தான்.",
+      "pitfalls_en": "\"While doing\" and \"although\" use the same form. You must tell them apart from the meaning. With も (ながらも), it always means \"although\"."
+    },
+    {
+      "id": "g13-5",
+      "pattern": "〜ばいいのに / 〜たらいいのに",
+      "name": {
+        "en": "I wish ~ / why don't they ~",
+        "ta": "〜ஆனால் நன்றாக இருக்குமே / 〜செய்யலாமே"
+      },
+      "explanation_ta": "〜ばいいのに / 〜たらいいのに என்பது 'அப்படி இருந்தால் நன்றாக இருக்குமே!' என்ற ஆசையையோ, 'அவன் அப்படிச் செய்யலாமே!' என்ற ஆதங்கம், மெல்லிய குறையையோ காட்டும். தமிழில் 'மழை சீக்கிரம் நின்றால் நன்றாக இருக்குமே', 'புரியவில்லை என்றால் ஆசிரியரிடம் கேட்கலாமே' என்று சொல்வது போல. N4-இல் கற்ற 〜ばいい (〜செய்தால் போதும்) உடன் のに (இருந்தும், ஆனால்) சேர்ந்தது; 'ஆனால் நிஜத்தில் அப்படி இல்லை' என்ற வருத்தம் இதில் உள்ளது. உருவாக்கம்: V-ば / V-たら + いいのに; い-பெயரடை: 〜ければ / 〜かったら いいのに; な-பெயரடை, பெயர்ச்சொல்: 〜なら / 〜だったら いいのに. N4-இன் 〜ばよかった உங்கள் சொந்தக் கடந்தகால வருத்தம்; 〜ばいいのに இப்போதைய நிலை அல்லது மற்றவர்கள் பற்றியது. 〜たらどう？ நேரடியாக ஆலோசனை சொல்லும்; 〜ばいいのに பெரும்பாலும் தனக்குள் முணுமுணுப்பது போல.",
+      "explanation_en": "〜ばいいのに / 〜たらいいのに means \"I wish…\" or \"why don’t they…?\". It shows a wish, or a small complaint. In Tamil: \"it would be nice if the rain stopped soon\" (மழை சீக்கிரம் நின்றால் நன்றாக இருக்குமே). It is 〜ばいい (\"it’s enough if…\", N4) + のに (\"but\"). So it says: \"…but in reality it isn’t so\". How to make it: V-ば or V-たら + いいのに. い-adjectives: 〜ければ / 〜かったら いいのに. な-adjectives and nouns: 〜なら / 〜だったら いいのに. 〜ばよかった (N4) is your own past regret. 〜ばいいのに is about now, or about other people. 〜たらどう？ gives advice directly. 〜ばいいのに often sounds like talking to yourself.",
+      "tamil_parallel": "புரியவில்லை என்றால் ஆசிரியரிடம் கேட்கலாமே = 分からないなら、先生に聞けばいいのに",
+      "tamil_parallel_en": "\"If he doesn’t understand, he could just ask the teacher\" (புரியவில்லை என்றால் ஆசிரியரிடம் கேட்கலாமே) = 分からないなら、先生に聞けばいいのに",
+      "formation": "வினை ば-வடிவம் + いいのに　　　　聞けば いいのに\nவினை たら-வடிவம் + いいのに　　　寝たら いいのに\nい-பெயரடை: 〜ければ / 〜かったら いいのに　高かったら いいのに\nな-பெயரடை / பெயர்ச்சொல்: 〜なら / 〜だったら いいのに　休みなら いいのに",
+      "formation_en": "Verb ば-form + いいのに　　　　聞けば いいのに\nVerb たら-form + いいのに　　　寝たら いいのに\nい-adjective: 〜ければ / 〜かったら いいのに　高かったら いいのに\nな-adjective / noun: 〜なら / 〜だったら いいのに　休みなら いいのに",
+      "examples": [
+        {
+          "ja": "毎日休みならいいのに。",
+          "reading": "まいにち やすみなら いいのに。",
+          "romaji": "mainichi yasumi nara ii noni.",
+          "ta": "தினமும் விடுமுறையாக இருந்தால் எவ்வளவு நன்றாக இருக்கும்!",
+          "en": "I wish every day were a holiday."
+        },
+        {
+          "ja": "雨が早くやめばいいのに。",
+          "reading": "あめが はやく やめば いいのに。",
+          "romaji": "ame ga hayaku yameba ii noni.",
+          "ta": "மழை சீக்கிரம் நின்றால் நன்றாக இருக்குமே.",
+          "en": "I wish the rain would stop soon."
+        },
+        {
+          "ja": "分からないなら、先生に聞けばいいのに。",
+          "reading": "わからないなら、せんせいに きけば いいのに。",
+          "romaji": "wakaranai nara, sensei ni kikeba ii noni.",
+          "ta": "புரியவில்லை என்றால் ஆசிரியரிடம் கேட்கலாமே.",
+          "en": "If he doesn’t understand, he could just ask the teacher."
+        },
+        {
+          "ja": "もう少し背が高かったらいいのに。",
+          "reading": "もう すこし せが たかかったら いいのに。",
+          "romaji": "mou sukoshi se ga takakattara ii noni.",
+          "ta": "இன்னும் கொஞ்சம் உயரமாக இருந்தால் நன்றாக இருக்குமே.",
+          "en": "I wish I were a little taller."
+        },
+        {
+          "ja": "そんなに疲れているなら、早く寝たらいいのに。",
+          "reading": "そんなに つかれて いるなら、はやく ねたら いいのに。",
+          "romaji": "sonna ni tsukarete iru nara, hayaku netara ii noni.",
+          "ta": "அவ்வளவு களைப்பாக இருந்தால் சீக்கிரம் தூங்கலாமே.",
+          "en": "If you’re that tired, why don’t you go to bed early?"
+        },
+        {
+          "ja": "彼ももっと正直に話せばいいのに。",
+          "reading": "かれも もっと しょうじきに はなせば いいのに。",
+          "romaji": "kare mo motto shoujiki ni hanaseba ii noni.",
+          "ta": "அவனும் இன்னும் கொஞ்சம் நேர்மையாகப் பேசலாமே.",
+          "en": "I wish he would speak more honestly too."
+        }
+      ],
+      "pitfalls_ta": "உங்கள் சொந்தக் கடந்தகாலத் தவறுக்கு 〜ばいいのに அல்ல, 〜ばよかった (படித்திருக்கலாமே = 勉強すればよかった). மேலதிகாரியிடம் நேரடியாக 〜ばいいのに என்றால் குறை சொல்வது போலக் கேட்கும்; அங்கே 〜たらいかがですか பயன்படுத்துங்கள்.",
+      "pitfalls_en": "For your own past mistake, use 〜ばよかった, not 〜ばいいのに (勉強すればよかった, \"I should have studied\"). Saying 〜ばいいのに to your boss sounds like a complaint. Use 〜たらいかがですか instead."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0050",
+    "n3-v-0079",
+    "n3-v-0080",
+    "n3-v-0127",
+    "n3-v-0138",
+    "n3-v-0177",
+    "n3-v-0186",
+    "n3-v-0190",
+    "n3-v-0202",
+    "n3-v-0260",
+    "n3-v-0377",
+    "n3-v-0448",
+    "n3-v-0461",
+    "n3-v-0505",
+    "n3-v-0518",
+    "n3-v-0520",
+    "n3-v-0608",
+    "n3-v-0638",
+    "n3-v-0701",
+    "n3-v-0745",
+    "n3-v-0784",
+    "n3-v-0840",
+    "n3-v-0966",
+    "n3-v-1077",
+    "n3-v-1111",
+    "n3-v-1126",
+    "n3-v-1163",
+    "n3-v-1177",
+    "n3-v-1191",
+    "n3-v-1218",
+    "n3-v-1238",
+    "n3-v-1266",
+    "n3-v-1340",
+    "n3-v-1414",
+    "n3-v-1443",
+    "n3-v-1444",
+    "n3-v-1586",
+    "n3-v-1597",
+    "n3-v-1600",
+    "n3-v-1602",
+    "n3-v-1643",
+    "n3-v-1665",
+    "n3-v-1679",
+    "n3-v-1748",
+    "n3-v-1944",
+    "n3-v-2049"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L13-q01",
+        "type": "kanji_reading",
+        "sentence": "兄は＿正直＿な人です。",
+        "target": "正直",
+        "options": [
+          "しょうじき",
+          "せいじき",
+          "しょうちょく",
+          "せいちょく"
+        ],
+        "answer": 0,
+        "explanation_ta": "正直 = しょうじき (நேர்மையான). 正 இங்கே しょう என்று படிக்கப்படும் (正月 போல), せい அல்ல; 直 = じき.",
+        "explanation_en": "正直 = しょうじき (நேர்மையான, honest). Here 正 is read しょう, like in 正月, not せい. 直 is じき."
+      },
+      {
+        "id": "L13-q02",
+        "type": "kanji_reading",
+        "sentence": "姉は＿性格＿が明るいです。",
+        "target": "性格",
+        "options": [
+          "せいがく",
+          "しょうかく",
+          "せいかく",
+          "しょうがく"
+        ],
+        "answer": 2,
+        "explanation_ta": "性格 = せいかく (குணம்). かく என்பது கடினமான か; がく (学) என்று மாற்றக் கூடாது.",
+        "explanation_en": "性格 = せいかく (குணம், personality). The second part is かく with a hard か. Don’t change it to がく."
+      },
+      {
+        "id": "L13-q03",
+        "type": "kanji_reading",
+        "sentence": "妹には絵の＿才能＿があります。",
+        "target": "才能",
+        "options": [
+          "ざいのう",
+          "さいの",
+          "さいどう",
+          "さいのう"
+        ],
+        "answer": 3,
+        "explanation_ta": "才能 = さいのう (திறமை). のう நீண்ட ஒலி; さいの என்று சுருக்கக் கூடாது. ざい என்பது 財 (செல்வம்) போன்ற வேறு சொல்.",
+        "explanation_en": "才能 = さいのう (திறமை, talent). のう is long; don’t shorten it to さいの. ざい is a different kanji, like 財 (wealth)."
+      },
+      {
+        "id": "L13-q04",
+        "type": "orthography",
+        "sentence": "あの犬はとても＿かしこい＿です。",
+        "target": "かしこい",
+        "options": [
+          "堅い",
+          "賢い",
+          "緊い",
+          "覧い"
+        ],
+        "answer": 1,
+        "explanation_ta": "かしこい = 賢い (புத்திசாலியான). 堅い (かたい, உறுதியான) தோற்றத்தில் ஒத்திருக்கும்; ஆனால் பொருள் வேறு.",
+        "explanation_en": "かしこい = 賢い (புத்திசாலியான, clever). 堅い (かたい, hard, firm) looks similar, but the meaning is different."
+      },
+      {
+        "id": "L13-q05",
+        "type": "orthography",
+        "sentence": "母は手が＿きよう＿で、何でも作れます。",
+        "target": "きよう",
+        "options": [
+          "器要",
+          "機用",
+          "器用",
+          "気用"
+        ],
+        "answer": 2,
+        "explanation_ta": "きよう = 器用 (கைத்திறமையுள்ள). 器 = பாத்திரம், 用 = பயன். 機 (இயந்திரம்), 要 (தேவை) தவறு.",
+        "explanation_en": "きよう = 器用 (கைத்திறமையுள்ள, good with your hands). 器 means \"tool\", 用 means \"use\". 機 (machine) and 要 (need) are wrong."
+      },
+      {
+        "id": "L13-q06",
+        "type": "vocab_context",
+        "sentence": "事故が起きても、彼女は（　　）に救急車を呼んだ。",
+        "options": [
+          "冷静",
+          "陽気",
+          "地味",
+          "単純"
+        ],
+        "answer": 0,
+        "explanation_ta": "விபத்தின்போதும் பதறாமல் நிதானமாக = 冷静に. 陽気 (கலகலப்பான) இங்கே பொருந்தாது; ஆபத்தான நேரத்தில் கலகலப்பு இல்லை.",
+        "explanation_en": "She stayed calm even in an accident = 冷静に (நிதானமாக, calmly). 陽気 (cheerful) does not fit an emergency."
+      },
+      {
+        "id": "L13-q07",
+        "type": "vocab_context",
+        "sentence": "祖父は（　　）な人で、大きな声を出したことがない。",
+        "options": [
+          "わがまま",
+          "意地悪",
+          "穏やか",
+          "深刻"
+        ],
+        "answer": 2,
+        "explanation_ta": "ஒருமுறை கூடக் கத்தியதில்லை → சாந்தமான = 穏やか. わがまま (அடம்பிடிக்கும்), 意地悪 (வம்பு செய்யும்) எதிர்மறைக் குணங்கள்.",
+        "explanation_en": "He has never raised his voice → gentle = 穏やか (சாந்தமான). わがまま (selfish) and 意地悪 (mean) are bad traits."
+      },
+      {
+        "id": "L13-q08",
+        "type": "vocab_context",
+        "sentence": "考えるときに鉛筆をかむのは、子どものころからの（　　）です。",
+        "options": [
+          "特徴",
+          "性格",
+          "才能",
+          "癖"
+        ],
+        "answer": 3,
+        "explanation_ta": "பென்சிலைக் கடிப்பது திரும்பத் திரும்பச் செய்யும் பழக்கம் = 癖. 性格 என்பது முழுக் குணம்; ஒரு செயல் அல்ல.",
+        "explanation_en": "Biting your pencil is something you do again and again = 癖 (பழக்கம், habit). 性格 is your whole personality, not one action."
+      },
+      {
+        "id": "L13-q09",
+        "type": "vocab_context",
+        "sentence": "（　　）電車の中にかさを置いてきてしまった。",
+        "options": [
+          "しっかり",
+          "うっかり",
+          "はっきり",
+          "ゆっくり"
+        ],
+        "answer": 1,
+        "explanation_ta": "கவனிக்காமல் குடையை ரயிலில் விட்டுவிட்டேன் = うっかり. しっかり (கவனமாக, உறுதியாக) எதிர்ப்பொருள்.",
+        "explanation_en": "I left my umbrella on the train without noticing = うっかり (கவனக்குறைவாக, carelessly). しっかり (firmly, carefully) is the opposite."
+      },
+      {
+        "id": "L13-q10",
+        "type": "vocab_context",
+        "sentence": "人の前で話すのが（　　）なので、発表の日はとても緊張します。",
+        "options": [
+          "苦手",
+          "得意",
+          "器用",
+          "有能"
+        ],
+        "answer": 0,
+        "explanation_ta": "பதற்றம் ஆகிறது → பேசுவது சரியாக வராது = 苦手. 得意 (கைவந்த) என்றால் பதற்றம் வராது; அது எதிர்ப்பொருள்.",
+        "explanation_en": "The speaker gets nervous → not good at it = 苦手 (சரியாக வராத, weak at). 得意 (good at) is the opposite."
+      },
+      {
+        "id": "L13-q11",
+        "type": "paraphrase",
+        "sentence": "姉は大人しい。",
+        "options": [
+          "姉は大人のように見える。",
+          "姉はよく怒る。",
+          "姉は静かで、あまり話さない。",
+          "姉は年をとっている。"
+        ],
+        "answer": 2,
+        "explanation_ta": "大人しい = அமைதியான, அடக்கமான. 大人 (பெரியவர்) என்ற எழுத்து இருந்தாலும் 'பெரியவர் போலத் தோற்றம்' என்ற பொருள் அல்ல; அதுதான் முக்கியப் பொறி.",
+        "explanation_en": "大人しい = quiet and well-behaved (அடக்கமான). It contains 大人 (adult), but it does not mean \"looks like an adult\". That is the main trap."
+      },
+      {
+        "id": "L13-q12",
+        "type": "paraphrase",
+        "sentence": "兄はけちだ。",
+        "options": [
+          "兄はお金をたくさん使う。",
+          "兄はお金を使いたがらない。",
+          "兄はお金を持っていない。",
+          "兄はお金をよく貸してくれる。"
+        ],
+        "answer": 1,
+        "explanation_ta": "けち = கஞ்சன்; பணம் செலவழிக்க விரும்பாதவன் = 使いたがらない. お金を持っていない (பணம் இல்லை) என்பது ஏழ்மை; கஞ்சத்தனம் அல்ல.",
+        "explanation_en": "けち = stingy (கஞ்சன்): he doesn’t want to spend money = 使いたがらない. お金を持っていない means he has no money. That is being poor, not stingy."
+      },
+      {
+        "id": "L13-q13",
+        "type": "usage",
+        "sentence": "自慢",
+        "options": [
+          "自慢して、先生に宿題を出しました。",
+          "友達の病気が自慢で、毎日電話している。",
+          "自慢な人と話すのは疲れる。",
+          "彼は毎日、新しい時計の自慢ばかりしている。"
+        ],
+        "answer": 3,
+        "explanation_ta": "自慢 = பெருமை பேசுதல்; 〜の自慢をする என்று வரும். 自慢 பெயர்ச்சொல் / する-வினை; な-பெயரடை அல்ல, அதனால் 自慢な人 தவறு (自慢する人 / 自慢ばかりする人 சரி).",
+        "explanation_en": "自慢 = boasting (பெருமை பேசுதல்). We say 〜の自慢をする. 自慢 is a noun or a する-verb, not a な-adjective. So 自慢な人 is wrong. Say 自慢ばかりする人."
+      },
+      {
+        "id": "L13-q14",
+        "type": "usage",
+        "sentence": "深刻",
+        "options": [
+          "水不足が深刻になって、町の人は困っている。",
+          "この店の深刻な料理を食べてみたい。",
+          "授業中、弟は深刻に寝ていた。",
+          "彼女はいつも深刻な色の服を着ている。"
+        ],
+        "answer": 0,
+        "explanation_ta": "深刻 = கடுமையான, ஆழமான பிரச்சினை. பிரச்சினை, நிலைமைகளுக்கு மட்டுமே பயன்படும். பகட்டில்லாத நிறம் என்றால் 地味な色; 深刻な色 தவறு.",
+        "explanation_en": "深刻 = serious, grave (கடுமையான). It is used for problems and situations. A plain colour is 地味な色, not 深刻な色."
+      },
+      {
+        "id": "L13-q15",
+        "type": "grammar_form",
+        "sentence": "弟は自分では何もしない（　　）、文句ばかり言う。",
+        "options": [
+          "ながら",
+          "くせに",
+          "わりに",
+          "にしては"
+        ],
+        "answer": 1,
+        "explanation_ta": "எதுவும் செய்யாமல் குறை மட்டும் சொல்கிறான் → குற்றம் சாட்டும் 'இருந்துகொண்டே' = くせに. わりに ஒப்பீடு மட்டும்; இங்கே அளவு இல்லை.",
+        "explanation_en": "He does nothing but complains → criticism, \"and yet\" = くせに. わりに only compares with an amount; there is no amount here."
+      },
+      {
+        "id": "L13-q16",
+        "type": "grammar_form",
+        "sentence": "祖母は年の（　　）、とても元気です。",
+        "options": [
+          "くせに",
+          "にしては",
+          "わりに",
+          "ながら"
+        ],
+        "answer": 2,
+        "explanation_ta": "年の + わりに = வயதுக்கு ஏற்றதைவிட. にしては-க்கு முன் の வராது (✕ 年のにしては). くせに குறை கூறும்; இங்கே பாராட்டு.",
+        "explanation_en": "年の + わりに = for her age. You can’t put の before にしては (✕ 年のにしては). くせに criticises, but this is praise."
+      },
+      {
+        "id": "L13-q17",
+        "type": "grammar_form",
+        "sentence": "日本に来て半年（　　）、彼の日本語はとても上手だ。",
+        "options": [
+          "にしては",
+          "わりに",
+          "くせに",
+          "ながらも"
+        ],
+        "answer": 0,
+        "explanation_ta": "'அரை வருடம்' என்ற நிலைக்கு எதிர்பாராத திறமை = 半年にしては. わりに என்றால் 半年のわりに என்று の வேண்டும்; இங்கே の இல்லை.",
+        "explanation_en": "Very good for only half a year = 半年にしては. わりに would need の (半年のわりに), and there is no の here."
+      },
+      {
+        "id": "L13-q18",
+        "type": "grammar_form",
+        "sentence": "残念（　　）、今回は参加できません。",
+        "options": [
+          "くせに",
+          "わりに",
+          "ながら",
+          "にしては"
+        ],
+        "answer": 2,
+        "explanation_ta": "残念ながら = வருத்தத்துடன் (நிலையான சொற்றொடர்). な-பெயரடை அடிச்சொல்லுக்குப் பின் நேரடியாக ながら வரும்.",
+        "explanation_en": "残念ながら = unfortunately (வருத்தத்துடன்). It is a set phrase. ながら comes right after the な-adjective stem."
+      },
+      {
+        "id": "L13-q19",
+        "type": "grammar_form",
+        "sentence": "明日はピクニックだから、雨が早く（　　）いいのに。",
+        "options": [
+          "やんで",
+          "やむ",
+          "やまない",
+          "やめば"
+        ],
+        "answer": 3,
+        "explanation_ta": "ஆசை: 'மழை நின்றால் நன்றாக இருக்குமே' = やめばいいのに. やんでいいのに என்ற வடிவம் இல்லை; やまない (நிற்காது) எதிர்ப்பொருள்.",
+        "explanation_en": "A wish: \"I wish the rain would stop\" = やめばいいのに. やんでいいのに is not a real form. やまない (won’t stop) is the opposite."
+      },
+      {
+        "id": "L13-q20",
+        "type": "grammar_form",
+        "sentence": "分からないなら、先生に（　　）いいのに。",
+        "options": [
+          "聞いて",
+          "聞けば",
+          "聞く",
+          "聞こう"
+        ],
+        "answer": 1,
+        "explanation_ta": "〜ばいいのに = 'கேட்கலாமே'. 聞く → 聞けば. 聞いていいのに என்றால் 'கேட்க அனுமதி உண்டு, ஆனால்…' என்ற வேறு பொருள்.",
+        "explanation_en": "〜ばいいのに = \"he could just ask\". 聞く → 聞けば. 聞いていいのに would mean \"he’s allowed to ask, but…\". That is a different meaning."
+      },
+      {
+        "id": "L13-q21",
+        "type": "grammar_form",
+        "sentence": "狭い（　　）、ここは私の大好きな家です。",
+        "options": [
+          "くせに",
+          "にしては",
+          "ばいいのに",
+          "ながらも"
+        ],
+        "answer": 3,
+        "explanation_ta": "சிறியதாக இருந்தாலும் = 狭いながらも. にしては பெயரடைக்குப் பின் வராது; くせに தன் வீட்டைப் பற்றிக் குறை கூற ஏற்றதல்ல.",
+        "explanation_en": "Although it is small = 狭いながらも. にしては doesn’t follow adjectives. くせに criticises a person, so it doesn’t fit your own home."
+      },
+      {
+        "id": "L13-q22",
+        "type": "sentence_order",
+        "before": "あの選手は",
+        "chunks": [
+          "プロ",
+          "にしては",
+          "ミスが",
+          "多すぎる"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "あの選手は プロ にしては ミスが 多すぎる。= அந்த வீரர் ஒரு தொழில்முறை வீரருக்குத் தவறுகள் அதிகம் செய்கிறார். பெயர்ச்சொல் + にしては, பின்னர் முடிவு.",
+        "explanation_en": "あの選手は プロ にしては ミスが 多すぎる。= He makes too many mistakes for a pro. Noun + にしては, then the result."
+      },
+      {
+        "id": "L13-q23",
+        "type": "sentence_order",
+        "before": "この店は",
+        "chunks": [
+          "値段の",
+          "わりに",
+          "料理の",
+          "量が"
+        ],
+        "star": 2,
+        "after": "多い。",
+        "explanation_ta": "この店は 値段の わりに 料理の 量が 多い。= இந்தக் கடையில் விலைக்கு ஏற்றதைவிட உணவின் அளவு அதிகம். N の + わりに.",
+        "explanation_en": "この店は 値段の わりに 料理の 量が 多い。= This shop gives big portions for the price. Noun + の + わりに."
+      },
+      {
+        "id": "L13-q24",
+        "type": "sentence_order",
+        "before": "そんなに",
+        "chunks": [
+          "行きたい",
+          "なら",
+          "一緒に",
+          "行けば"
+        ],
+        "star": 2,
+        "after": "いいのに。",
+        "explanation_ta": "そんなに 行きたい なら 一緒に 行けば いいのに。= அவ்வளவு போக விரும்பினால் கூடவே போகலாமே. 〜なら (என்றால்) முதலில், பிறகு 〜ばいいのに.",
+        "explanation_en": "そんなに 行きたい なら 一緒に 行けば いいのに。= If you want to go that much, why don’t you go with them? First 〜なら (if), then 〜ばいいのに."
+      },
+      {
+        "id": "L13-q25",
+        "type": "passage_cloze",
+        "passage": "私のクラスに、ラジュという男子がいる。ラジュは十二歳［1］、大人のような話し方をする。初めて会ったときは「子ども［2］、えらそうなことを言うな」と腹が立った。でも、話してみると、とても正直で優しい人だった。ただ、字がとても汚い。もう少しきれいに［3］いいのに、と思う。でも、そんな小さな問題はあり［4］、彼は本当にすばらしい人物だ。",
+        "blanks": [
+          {
+            "options": [
+              "にしては",
+              "ばいいのに",
+              "だから",
+              "それでも"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "ので",
+              "のくせに",
+              "にしては",
+              "ばいいのに"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "書いて",
+              "書く",
+              "書けば",
+              "書こう"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "くせに",
+              "わりに",
+              "ば",
+              "ながらも"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ பன்னிரண்டு வயதுக்கு எதிர்பாராத பேச்சு = 十二歳にしては. ［2］ 腹が立った (கோபம் வந்தது) → குறை கூறும் 子どものくせに. ［3］ ஆசை 'எழுதலாமே' = 書けばいいのに. ［4］ ます-அடிச்சொல் あり-க்குப் பின் வருவது ながらも மட்டுமே (இருந்தாலும்); くせに / わりに சாதாரண வடிவத்துக்குப் பின் வரும் (あるくせに).",
+        "explanation_en": "[1] A surprising way of talking for a 12-year-old = 十二歳にしては. [2] 腹が立った (I got angry) → a complaint = 子どものくせに. [3] A wish, \"he could write\" = 書けばいいのに. [4] After the ます-stem あり, only ながらも (\"although\") fits. くせに and わりに need the plain form (あるくせに)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "lesson": 18,
+  "title": {
+    "ja": "合格するには",
+    "ta": "தேர்வில் தேர்ச்சி பெற",
+    "en": "To pass the exam"
+  },
+  "intro_ta": "இந்தப் பாடம் படிப்பு, தேர்வு பற்றியது. 'இதைச் செய்ய வேண்டுமென்றால் இது தேவை' என்று சொல்ல V-るには, 'இப்படி நடந்தால் நல்லது' என்று நம்பிக்கை சொல்ல 〜といいな, 'செய்துவிட்டதாக நினைத்து / நினைத்துக்கொண்டு' என்பதற்கு V-たつもり(で), 'ஓர் இலக்கை நோக்கி' என்பதற்கு Nに向けて ஆகியவற்றைக் கற்போம். பள்ளி, விடுதி அறிவிப்புகளில் வரும் கண்ணியமான கோரிக்கை V-るようお願いします-ஐயும் படிப்போம். பாடம், மதிப்பெண், கிரெடிட், இலக்கணச் சொற்கள் (பெயர்ச்சொல், வினைச்சொல், இடைச்சொல்) போன்ற சொற்களும் உள்ளன.",
+  "intro_en": "This lesson is about studying and exams. You will learn V-るには for \"to do this, you need that\". You will learn 〜といいな to say what you hope for. You will learn V-たつもり(で) for \"I believed I had done it\" or \"as if I had done it\". You will learn Nに向けて for \"toward a goal\". You will also learn V-るようお願いします, a polite request used in school and dorm notices. There are words for subjects, grades, credits and grammar terms like noun, verb and particle.",
+  "grammar": [
+    {
+      "id": "g18-1",
+      "pattern": "V-る には",
+      "name": {
+        "en": "In order to ~ (what you need)",
+        "ta": "〜செய்ய வேண்டுமென்றால் (தேவை)"
+      },
+      "explanation_ta": "V-る + には என்பது 'இந்த இலக்கை அடைய வேண்டுமென்றால்…' என்று தொடங்கி, அதற்கு என்ன தேவை / எவ்வளவு கடினம் / எது சிறந்தது என்று சொல்லும். பின்பகுதியில் பெரும்பாலும் 必要だ、〜なければならない、〜がいい、〜が一番だ、時間がかかる、大変だ போன்ற மதிப்பீடு வரும். தமிழில் 'தேர்ச்சி பெற வேண்டுமென்றால், 〜 தேவை' என்பதற்குச் சரியான இணை. N4-இல் கற்ற ために-உடன் வேறுபாடு: ために-க்குப் பின் 'அதற்காக நான் செய்யும் செயல்' வரும் (合格するために毎日勉強している); には-க்குப் பின் 'தேவை / மதிப்பீடு' வரும் (合格するには毎日の勉強が必要だ). には-க்குப் பின் 'நான் செய்கிறேன்' போன்ற தனிப்பட்ட செயல் வருவது இயல்பற்றது.",
+      "explanation_en": "V-る + には means \"to reach this goal…\". Then it says what you need, how hard it is, or what is best. The second part often has 必要だ (is needed), 〜なければならない (must), 〜がいい (is good), 〜が一番だ (is best), 時間がかかる (takes time) or 大変だ (is hard). It is different from ために (N4). After ために comes an action you do for the goal: 合格するために毎日勉強している (I study every day to pass). After には comes a need or a judgement: 合格するには毎日の勉強が必要だ (to pass, daily study is needed). A personal action like \"I do ~\" sounds odd after には.",
+      "tamil_parallel": "N3-இல் தேர்ச்சி பெற வேண்டுமென்றால், சுமார் அறுநூறு கான்ஜி கற்க வேண்டும் = N3に合格するには、漢字を六百字ぐらい覚える必要があります",
+      "tamil_parallel_en": "\"If you want to pass N3, you need to learn about 600 kanji\" (தேர்ச்சி பெற வேண்டுமென்றால்) = N3に合格するには、漢字を六百字ぐらい覚える必要があります",
+      "formation": "வினை அகராதி வடிவம் + には、+ தேவை / மதிப்பீடு\n   合格するには 〜必要です\n   覚えるには 〜が一番です\n   行くには 〜かかります",
+      "formation_en": "Verb dictionary form + には、+ need / judgement\n   合格するには 〜必要です\n   覚えるには 〜が一番です\n   行くには 〜かかります",
+      "examples": [
+        {
+          "ja": "N3に合格するには、漢字を六百字ぐらい覚える必要があります。",
+          "reading": "エヌさんに ごうかくするには、かんじを ろっぴゃくじ ぐらい おぼえる ひつようが あります。",
+          "romaji": "enu-san ni goukaku suru ni wa, kanji o roppyakuji gurai oboeru hitsuyou ga arimasu.",
+          "ta": "N3-இல் தேர்ச்சி பெற வேண்டுமென்றால், சுமார் அறுநூறு கான்ஜி கற்க வேண்டும்.",
+          "en": "To pass N3, you need to learn about 600 kanji."
+        },
+        {
+          "ja": "奨学金をもらうには、成績がよくなければなりません。",
+          "reading": "しょうがくきんを もらうには、せいせきが よくなければ なりません。",
+          "romaji": "shougakukin o morau ni wa, seiseki ga yokunakereba narimasen.",
+          "ta": "உதவித்தொகை பெற வேண்டுமென்றால் மதிப்பெண் நன்றாக இருக்க வேண்டும்.",
+          "en": "To get a scholarship, your grades must be good."
+        },
+        {
+          "ja": "単語を覚えるには、毎日少しずつ復習するのが一番です。",
+          "reading": "たんごを おぼえるには、まいにち すこしずつ ふくしゅうするのが いちばんです。",
+          "romaji": "tango o oboeru ni wa, mainichi sukoshizutsu fukushuu suru no ga ichiban desu.",
+          "ta": "சொற்களை நினைவில் வைக்க, தினமும் கொஞ்சம் கொஞ்சமாகத் திருப்பிப் பார்ப்பதே சிறந்த வழி.",
+          "en": "To learn words, reviewing a little every day is best."
+        },
+        {
+          "ja": "この大学に入るには、どのくらい勉強すればいいですか。",
+          "reading": "この だいがくに はいるには、どの くらい べんきょうすれば いいですか。",
+          "romaji": "kono daigaku ni hairu ni wa, dono kurai benkyou sureba ii desu ka.",
+          "ta": "இந்தப் பல்கலைக்கழகத்தில் சேர வேண்டுமென்றால் எவ்வளவு படிக்க வேண்டும்?",
+          "en": "How much should I study to get into this university?"
+        },
+        {
+          "ja": "卒業するには、あと十単位必要です。",
+          "reading": "そつぎょうするには、あと じゅう たんい ひつようです。",
+          "romaji": "sotsugyou suru ni wa, ato juu tan’i hitsuyou desu.",
+          "ta": "பட்டம் பெற இன்னும் பத்து கிரெடிட் தேவை.",
+          "en": "To graduate, I need ten more credits."
+        },
+        {
+          "ja": "一人で勉強を続けるには、強い気持ちが要ります。",
+          "reading": "ひとりで べんきょうを つづけるには、つよい きもちが いります。",
+          "romaji": "hitori de benkyou o tsuzukeru ni wa, tsuyoi kimochi ga irimasu.",
+          "ta": "தனியாகப் படிப்பைத் தொடர மன உறுதி தேவை.",
+          "en": "To keep studying on your own, you need a strong will."
+        },
+        {
+          "ja": "寮から大学まで行くには、バスで二十分かかります。",
+          "reading": "りょうから だいがくまで いくには、バスで にじゅっぷん かかります。",
+          "romaji": "ryou kara daigaku made iku ni wa, basu de nijuppun kakarimasu.",
+          "ta": "விடுதியிலிருந்து பல்கலைக்கழகம் போகப் பஸ்ஸில் இருபது நிமிடம் ஆகும்.",
+          "en": "Getting from the dorm to the university takes twenty minutes by bus."
+        }
+      ],
+      "pitfalls_ta": "には-க்குப் பின் 'நான் இதைச் செய்கிறேன்' என்று எழுதுவது இயல்பற்றது: 合格するには毎日勉強しています ✗ → 合格するために毎日勉強しています ✓. இந்த には-ஐ இடம் காட்டும் に + は (部屋には) உடன் குழப்பாதீர்கள்; இங்கே அது அகராதி வடிவ வினைக்குப் பின் வருகிறது.",
+      "pitfalls_en": "\"I do ~\" after には sounds odd: 合格するには毎日勉強しています ✗ → 合格するために毎日勉強しています ✓. Don’t mix it up with place に + は (部屋には, in the room). Here it comes after a verb in dictionary form."
+    },
+    {
+      "id": "g18-2",
+      "pattern": "〜と いい(な) / 〜と いいね",
+      "name": {
+        "en": "I hope ~",
+        "ta": "〜ஆனால் நல்லது (நம்பிக்கை)"
+      },
+      "explanation_ta": "சாதாரண வடிவம் + といいな என்பது 'இப்படி நடந்தால் நல்லது' என்ற தன் நம்பிக்கை / ஆசையைக் காட்டும் (தனக்குத்தானே சொல்லும்போது な / なあ). மற்றவருக்காக நல்லது நினைத்துச் சொல்லும்போது といいね / といいですね ('நல்லபடியாக நடக்கட்டும்'). கவலையுடன், உறுதியில்லாமல் சொல்லும்போது といいんですが / といいんだけど. பெரும்பாலும் நம் கையில் இல்லாத விஷயங்களுக்கு (வானிலை, தேர்வு முடிவு, பிறர் உடல்நலம்) பயன்படும். L13-இல் கற்ற 〜ばいいのに / 〜たらいいのに 'நடக்கவில்லையே' என்ற வருத்தம்; といいな இனி நடக்கக்கூடியதற்கான நம்பிக்கை. 〜たらいい (N4) என்பது 'இப்படிச் செய்யலாம்' என்ற ஆலோசனை.",
+      "explanation_en": "Plain form + といいな means \"it would be nice if ~\". It shows your hope or wish. Say な or なあ when talking to yourself. Say といいね or といいですね to wish something good for someone else. Say といいんですが or といいんだけど when you are worried and not sure. It is mostly for things you can’t control: weather, exam results, someone’s health. 〜ばいいのに and 〜たらいいのに (Lesson 13) show regret that something isn’t happening. といいな is hope for something that can still happen. 〜たらいい (N4) is advice: \"you could do ~\".",
+      "tamil_parallel": "நாளைத் தேர்வு எளிதாக இருந்தால் நல்லது! = 明日の試験、簡単だといいな",
+      "tamil_parallel_en": "\"It would be nice if tomorrow’s exam were easy!\" (எளிதாக இருந்தால் நல்லது) = 明日の試験、簡単だといいな",
+      "formation": "சாதாரண வடிவம் + といいな / といいなあ   (தனக்குத்தானே)\nசாதாரண வடிவம் + といいね / といいですね   (மற்றவருக்கு வாழ்த்து)\nசாதாரண வடிவம் + といいんですが   (கவலையுடன்)\n   晴れる → 晴れるといいね\n   簡単だ → 簡単だといいな\n   合格している → 合格しているといいですね",
+      "formation_en": "Plain form + といいな / といいなあ   (to yourself)\nPlain form + といいね / といいですね   (wishing someone well)\nPlain form + といいんですが   (with worry)\n   晴れる → 晴れるといいね\n   簡単だ → 簡単だといいな\n   合格している → 合格しているといいですね",
+      "examples": [
+        {
+          "ja": "明日の試験、簡単だといいな。",
+          "reading": "あしたの しけん、かんたんだと いいな。",
+          "romaji": "ashita no shiken, kantan da to ii na.",
+          "ta": "நாளைத் தேர்வு எளிதாக இருந்தால் நல்லது!",
+          "en": "I hope tomorrow’s exam is easy."
+        },
+        {
+          "ja": "合格しているといいですね。",
+          "reading": "ごうかくして いると いいですね。",
+          "romaji": "goukaku shite iru to ii desu ne.",
+          "ta": "நீங்கள் தேர்ச்சி பெற்றிருப்பீர்கள் என்று நம்புகிறேன்.",
+          "en": "I hope you’ve passed."
+        },
+        {
+          "ja": "奨学金がもらえるといいんですが…。",
+          "reading": "しょうがくきんが もらえると いいんですが…。",
+          "romaji": "shougakukin ga moraeru to ii n desu ga….",
+          "ta": "உதவித்தொகை கிடைத்தால் நல்லது… (கிடைக்குமோ தெரியவில்லை)",
+          "en": "I hope I can get the scholarship…"
+        },
+        {
+          "ja": "週末、晴れるといいね。",
+          "reading": "しゅうまつ、はれると いいね。",
+          "romaji": "shuumatsu, hareru to ii ne.",
+          "ta": "வார இறுதியில் வெயில் அடித்தால் நல்லது, இல்லையா?",
+          "en": "Let’s hope it’s sunny at the weekend."
+        },
+        {
+          "ja": "早く日本語で小説が読めるようになるといいなあ。",
+          "reading": "はやく にほんごで しょうせつが よめる ように なると いいなあ。",
+          "romaji": "hayaku nihongo de shousetsu ga yomeru you ni naru to ii naa.",
+          "ta": "சீக்கிரமே ஜப்பானிய மொழியில் நாவல் படிக்க முடிந்தால் எவ்வளவு நல்லது!",
+          "en": "I hope I can read novels in Japanese soon."
+        },
+        {
+          "ja": "先生の風邪が早く治るといいですね。",
+          "reading": "せんせいの かぜが はやく なおると いいですね。",
+          "romaji": "sensei no kaze ga hayaku naoru to ii desu ne.",
+          "ta": "ஆசிரியரின் சளிக்காய்ச்சல் சீக்கிரம் குணமாகட்டும்.",
+          "en": "I hope our teacher’s cold gets better soon."
+        }
+      ],
+      "pitfalls_ta": "な-பெயரடை, பெயர்ச்சொல்லுக்குப் பின் だ வேண்டும்: 簡単といいな ✗ → 簡単だといいな ✓. மற்றவரிடம் 'நீங்கள் இதைச் செய்யுங்கள்' என்று சொல்ல といいな பயன்படுத்தாதீர்கள்; அது ஆலோசனை அல்ல, நம்பிக்கை மட்டுமே.",
+      "pitfalls_en": "After a な-adjective or noun, add だ: 簡単といいな ✗ → 簡単だといいな ✓. Don’t use といいな to tell someone what to do. It is a hope, not advice."
+    },
+    {
+      "id": "g18-3",
+      "pattern": "V-た つもりで / V-た つもり",
+      "name": {
+        "en": "Believing you did ~ / as if you had done ~",
+        "ta": "செய்துவிட்டதாக நினைத்து / நினைத்துக்கொண்டு"
+      },
+      "explanation_ta": "N4-இல் V-るつもり = 'செய்ய எண்ணம்' என்று கற்றோம். V-た + つもり வேறு பொருள் தரும். (1) V-たつもり(だった) = 'செய்துவிட்டேன் என்று நான் நம்பினேன் — ஆனால் உண்மை வேறு': 覚えたつもりだったのに、忘れていた. தமிழில் 'மனப்பாடம் செய்துவிட்டேன் என்று நினைத்தேன்…'. (2) V-たつもりで + செயல் = 'உண்மையில் நடக்கவில்லை; ஆனால் நடந்ததாகக் கற்பனை செய்துகொண்டு': 旅行に行ったつもりで貯金する (பயணம் போனதாக நினைத்துக்கொண்டு அந்தப் பணத்தைச் சேமிப்பது). தேர்வுப் பயிற்சியில் 本番のつもりで ('உண்மையான தேர்வு என்று நினைத்துக்கொண்டு') என்பதும் அடிக்கடி வரும். (3) தன்னைப் பற்றி 'நான் 〜 என்று நினைக்கிறேன் (மற்றவர் எப்படி நினைப்பாரோ)': よく書けたつもりです.",
+      "explanation_en": "In N4 you learned V-るつもり = \"I plan to ~\". V-た + つもり has a different meaning. (1) V-たつもり(だった) = \"I believed I had done it, but the truth was different\": 覚えたつもりだったのに、忘れていた (I thought I had learned it, but I forgot). (2) V-たつもりで + action = \"it didn’t really happen, but imagine it did\": 旅行に行ったつもりで貯金する (save the money as if you had gone on the trip). In exam practice, 本番のつもりで (as if it were the real exam) is common. (3) About yourself: \"I think I did ~ (I’m not sure what others think)\": よく書けたつもりです.",
+      "tamil_parallel": "நன்றாக மனப்பாடம் செய்துவிட்டேன் என்று நினைத்தேன் = ちゃんと覚えたつもりだった / பயணம் போனதாக நினைத்துக்கொண்டு = 旅行に行ったつもりで",
+      "tamil_parallel_en": "\"I thought I had learned it well\" (செய்துவிட்டேன் என்று நினைத்தேன்) = ちゃんと覚えたつもりだった / \"As if I had gone on a trip\" (போனதாக நினைத்துக்கொண்டு) = 旅行に行ったつもりで",
+      "formation": "வினை た-வடிவம் + つもり(だった)   ('செய்ததாக நம்பினேன்')\n   覚えたつもりだった、出したつもりでした\nவினை た-வடிவம் + つもりで + செயல்   ('செய்ததாகக் கற்பனை செய்து')\n   行ったつもりで、受けたつもりで\nஒப்பிடுக: வினை る-வடிவம் + つもり = எண்ணம் (N4)",
+      "formation_en": "Verb た-form + つもり(だった)   (\"I believed I had done\")\n   覚えたつもりだった、出したつもりでした\nVerb た-form + つもりで + action   (\"as if I had done\")\n   行ったつもりで、受けたつもりで\nCompare: verb る-form + つもり = a plan (N4)",
+      "examples": [
+        {
+          "ja": "ちゃんと覚えたつもりだったのに、試験で全然思い出せなかった。",
+          "reading": "ちゃんと おぼえた つもりだったのに、しけんで ぜんぜん おもいだせなかった。",
+          "romaji": "chanto oboeta tsumori datta noni, shiken de zenzen omoidasenakatta.",
+          "ta": "நன்றாக மனப்பாடம் செய்துவிட்டேன் என்று நினைத்தேன்; ஆனால் தேர்வில் எதுவுமே நினைவுக்கு வரவில்லை.",
+          "en": "I thought I had learned it properly, but I couldn’t remember a thing in the exam."
+        },
+        {
+          "ja": "宿題を出したつもりでしたが、かばんの中に残っていました。",
+          "reading": "しゅくだいを だした つもりでしたが、かばんの なかに のこって いました。",
+          "romaji": "shukudai o dashita tsumori deshita ga, kaban no naka ni nokotte imashita.",
+          "ta": "வீட்டுப்பாடத்தை ஒப்படைத்துவிட்டேன் என்று நினைத்தேன்; ஆனால் அது பையிலேயே இருந்தது.",
+          "en": "I thought I had handed in my homework, but it was still in my bag."
+        },
+        {
+          "ja": "本番の試験を受けたつもりで、時間を計って問題を解きました。",
+          "reading": "ほんばんの しけんを うけた つもりで、じかんを はかって もんだいを ときました。",
+          "romaji": "honban no shiken o uketa tsumori de, jikan o hakatte mondai o tokimashita.",
+          "ta": "உண்மையான தேர்வு எழுதுவதாக நினைத்துக்கொண்டு, நேரம் வைத்துக் கேள்விகளுக்கு விடை எழுதினேன்.",
+          "en": "I timed myself and solved the questions as if I were taking the real exam."
+        },
+        {
+          "ja": "旅行に行ったつもりで、そのお金を貯金しました。",
+          "reading": "りょこうに いった つもりで、その おかねを ちょきんしました。",
+          "romaji": "ryokou ni itta tsumori de, sono okane o chokin shimashita.",
+          "ta": "பயணம் போய்விட்டதாக நினைத்துக்கொண்டு, அந்தப் பணத்தைச் சேமித்தேன்.",
+          "en": "I pretended I had gone on the trip and saved that money instead."
+        },
+        {
+          "ja": "先生になったつもりで、友達に文法を説明してみてください。",
+          "reading": "せんせいに なった つもりで、ともだちに ぶんぽうを せつめいして みて ください。",
+          "romaji": "sensei ni natta tsumori de, tomodachi ni bunpou o setsumei shite mite kudasai.",
+          "ta": "நீங்களே ஆசிரியராகிவிட்டதாக நினைத்துக்கொண்டு, நண்பருக்கு இலக்கணத்தை விளக்கிப் பாருங்கள்.",
+          "en": "Try explaining the grammar to a friend as if you were the teacher."
+        },
+        {
+          "ja": "自分ではよく書けたつもりですが、どうですか。",
+          "reading": "じぶんでは よく かけた つもりですが、どうですか。",
+          "romaji": "jibun de wa yoku kaketa tsumori desu ga, dou desu ka.",
+          "ta": "நான் நன்றாக எழுதியிருப்பதாக நினைக்கிறேன்; நீங்கள் என்ன நினைக்கிறீர்கள்?",
+          "en": "I think I wrote it well myself. What do you think?"
+        }
+      ],
+      "pitfalls_ta": "る-வடிவம் / た-வடிவம் வேறுபாட்டைக் கவனியுங்கள்: 行くつもり = 'போக எண்ணம்'; 行ったつもり = 'போனதாக நினைத்து'. ஒரு எழுத்து மாறினால் பொருள் முழுவதும் மாறும்.",
+      "pitfalls_en": "Watch the る-form and た-form: 行くつもり = \"I plan to go\". 行ったつもり = \"as if I had gone\". One kana changes the whole meaning."
+    },
+    {
+      "id": "g18-4",
+      "pattern": "N に 向けて",
+      "name": {
+        "en": "Toward (a goal or date)",
+        "ta": "〜ஐ நோக்கி / 〜ஐ முன்னிட்டு"
+      },
+      "explanation_ta": "向ける = 'ஒரு திசையில் திருப்பு'. Nに向けて என்பது 'N என்ற இலக்கை / நாளை நோக்கி (தயாரிப்பு, முயற்சி)' என்று பொருள். தேர்வு, விழா, பட்டமளிப்பு, வெளிநாட்டுப் படிப்பு போன்ற எதிர்கால இலக்குகளுடன் வரும்; பின்பகுதியில் 準備する、勉強する、練習する、貯める போன்ற முயற்சி வரும். தமிழில் '〜ஐ நோக்கி', '〜ஐ முன்னிட்டு'. பெயர்ச்சொல்லுக்கு முன் வரும்போது Nに向けた + N: 試験に向けた準備 (தேர்வுக்கான தயாரிப்பு). Nに向けた என்பது 'N-க்காக உருவாக்கப்பட்ட' என்ற பொருளிலும் வரும்: 子ども向け போல (留学生に向けた教科書). 〜ために-ஐவிட 'இலக்கை நோக்கி படிப்படியாக முன்னேறுவது' என்ற உணர்வு அதிகம்; செய்திகள், அறிவிப்புகளிலும் அதிகம்.",
+      "explanation_en": "向ける means \"to turn toward\". Nに向けて means \"toward goal or date N\" (preparing, making an effort). It comes with future goals: an exam, a festival, graduation, study abroad. The second part shows effort: 準備する (prepare), 勉強する (study), 練習する (practise), 貯める (save). Before a noun, use Nに向けた + N: 試験に向けた準備 (preparation for the exam). Nに向けた can also mean \"made for N\": 留学生に向けた教科書 (a textbook for foreign students). It feels more like step-by-step progress toward a goal than 〜ために. It is common in the news and in notices.",
+      "tamil_parallel": "டிசம்பர் தேர்வை நோக்கித் தினமும் மூன்று மணி நேரம் படிக்கிறேன் = 十二月の試験に向けて、毎日三時間勉強しています",
+      "tamil_parallel_en": "\"I study three hours a day toward the December exam\" (தேர்வை நோக்கி) = 十二月の試験に向けて、毎日三時間勉強しています",
+      "formation": "பெயர்ச்சொல் + に向けて + முயற்சி / தயாரிப்பு\n   試験に向けて、留学に向けて\nபெயர்ச்சொல் + に向けた + பெயர்ச்சொல்\n   試験に向けた準備、留学生に向けた教科書",
+      "formation_en": "Noun + に向けて + effort / preparation\n   試験に向けて、留学に向けて\nNoun + に向けた + noun\n   試験に向けた準備、留学生に向けた教科書",
+      "examples": [
+        {
+          "ja": "十二月の試験に向けて、毎日三時間勉強しています。",
+          "reading": "じゅうにがつの しけんに むけて、まいにち さんじかん べんきょうして います。",
+          "romaji": "juunigatsu no shiken ni mukete, mainichi sanjikan benkyou shite imasu.",
+          "ta": "டிசம்பர் தேர்வை நோக்கித் தினமும் மூன்று மணி நேரம் படிக்கிறேன்.",
+          "en": "I study three hours a day for the December exam."
+        },
+        {
+          "ja": "留学に向けて、お金を貯めています。",
+          "reading": "りゅうがくに むけて、おかねを ためて います。",
+          "romaji": "ryuugaku ni mukete, okane o tamete imasu.",
+          "ta": "வெளிநாட்டுப் படிப்பை நோக்கிப் பணம் சேமித்து வருகிறேன்.",
+          "en": "I’m saving money toward studying abroad."
+        },
+        {
+          "ja": "文化祭に向けて、クラスのみんなで準備を始めました。",
+          "reading": "ぶんかさいに むけて、クラスの みんなで じゅんびを はじめました。",
+          "romaji": "bunkasai ni mukete, kurasu no minna de junbi o hajimemashita.",
+          "ta": "பள்ளிக் கலைவிழாவை முன்னிட்டு வகுப்பில் எல்லோரும் சேர்ந்து தயாரிப்பைத் தொடங்கினோம்.",
+          "en": "Our whole class started getting ready for the school festival."
+        },
+        {
+          "ja": "卒業に向けて、最後の課題を書いています。",
+          "reading": "そつぎょうに むけて、さいごの かだいを かいて います。",
+          "romaji": "sotsugyou ni mukete, saigo no kadai o kaite imasu.",
+          "ta": "பட்டப்படிப்பை முடிக்கும் நோக்கில் கடைசி ஒப்படைப்பை எழுதிக்கொண்டிருக்கிறேன்.",
+          "en": "I’m writing my last assignment before graduation."
+        },
+        {
+          "ja": "これは日本で働きたい人に向けた日本語の教科書です。",
+          "reading": "これは にほんで はたらきたい ひとに むけた にほんごの きょうかしょです。",
+          "romaji": "kore wa nihon de hatarakitai hito ni muketa nihongo no kyoukasho desu.",
+          "ta": "இது ஜப்பானில் வேலை செய்ய விரும்புவோருக்கான ஜப்பானிய மொழிப் பாடப்புத்தகம்.",
+          "en": "This is a Japanese textbook for people who want to work in Japan."
+        },
+        {
+          "ja": "試験に向けて、何か特別なことをしていますか。",
+          "reading": "しけんに むけて、なにか とくべつな ことを して いますか。",
+          "romaji": "shiken ni mukete, nanika tokubetsu na koto o shite imasu ka.",
+          "ta": "தேர்வை முன்னிட்டு ஏதாவது சிறப்பாகச் செய்கிறீர்களா?",
+          "en": "Are you doing anything special to get ready for the exam?"
+        }
+      ],
+      "pitfalls_ta": "向けて-க்கு முன் に தான் வர வேண்டும்; を வராது: 試験を向けて ✗. 〜に対して (L14, 'எதிராக / ஒப்பிட்டு') உடன் குழப்பாதீர்கள்; に向けて எப்போதும் 'எதிர்கால இலக்கு'.",
+      "pitfalls_en": "Use に before 向けて, not を: 試験を向けて ✗. Don’t mix it up with 〜に対して (Lesson 14, \"compared with / toward a person\"). に向けて is always about a future goal."
+    },
+    {
+      "id": "g18-5",
+      "pattern": "V-る よう(に) お願いします",
+      "name": {
+        "en": "Please make sure to ~ (polite request)",
+        "ta": "〜செய்யுமாறு கேட்டுக்கொள்கிறோம்"
+      },
+      "explanation_ta": "V-る / V-ない + よう(に)お願いします என்பது பள்ளி, விடுதி, அலுவலக அறிவிப்புகளிலும் ஆசிரியர் வகுப்பிலும் பயன்படும் கண்ணியமான கோரிக்கை: 'இப்படிச் செய்யுமாறு / செய்யாதிருக்குமாறு கேட்டுக்கொள்கிறோம்'. தமிழ் அறிவிப்புகளில் வரும் '〜செய்யுமாறு கேட்டுக்கொள்ளப்படுகிறது' என்பதற்குச் சரியான இணை. 〜てください நேரடியாக ஒரு நபரிடம் கேட்பது; ようお願いします பலருக்கு, விதிமுறை போல, மென்மையாகவும் முறையாகவும் சொல்லும். எழுத்தில் に-ஐ விட்டு ようお願いします என்றும், பேச்சில் ようにお願いします / ようにしてください என்றும் வரும். செய்யக்கூடாததற்கு ない-வடிவம்: 遅れないようお願いします.",
+      "explanation_en": "V-る / V-ない + よう(に)お願いします is a polite request. It is used in school, dorm and office notices, and by teachers in class. It means \"please make sure to ~\" or \"please make sure not to ~\". 〜てください asks one person directly. ようお願いします speaks to many people, like a rule, and sounds soft and formal. In writing, に is often dropped: ようお願いします. In speech, people say ようにお願いします or ようにしてください. For things not to do, use the ない-form: 遅れないようお願いします (please don’t be late).",
+      "tamil_parallel": "தேர்வு நேரத்தில் கைபேசியை அணைக்குமாறு கேட்டுக்கொள்ளப்படுகிறது = 試験の時は、携帯電話の電源を切るようお願いします",
+      "tamil_parallel_en": "\"You are requested to switch off your phone during the exam\" (கேட்டுக்கொள்ளப்படுகிறது) = 試験の時は、携帯電話の電源を切るようお願いします",
+      "formation": "வினை அகராதி வடிவம் + よう(に)お願いします   ('செய்யுமாறு')\n   書くようお願いします、出すようにお願いします\nவினை ない-வடிவம் + よう(に)お願いします   ('செய்யாதிருக்குமாறு')\n   遅れないようお願いします、話さないようお願いします",
+      "formation_en": "Verb dictionary form + よう(に)お願いします   (\"please do\")\n   書くようお願いします、出すようにお願いします\nVerb ない-form + よう(に)お願いします   (\"please don’t\")\n   遅れないようお願いします、話さないようお願いします",
+      "examples": [
+        {
+          "ja": "試験の時は、携帯電話の電源を切るようお願いします。",
+          "reading": "しけんの ときは、けいたいでんわの でんげんを きる よう おねがいします。",
+          "romaji": "shiken no toki wa, keitai denwa no dengen o kiru you onegai shimasu.",
+          "ta": "தேர்வு நேரத்தில் கைபேசியை அணைத்து வைக்குமாறு கேட்டுக்கொள்கிறோம்.",
+          "en": "During the exam, please make sure your phone is switched off."
+        },
+        {
+          "ja": "答案には必ず名前を書くようにお願いします。",
+          "reading": "とうあんには かならず なまえを かく ように おねがいします。",
+          "romaji": "touan ni wa kanarazu namae o kaku you ni onegai shimasu.",
+          "ta": "விடைத்தாளில் கட்டாயம் பெயர் எழுதுமாறு கேட்டுக்கொள்கிறோம்.",
+          "en": "Please be sure to write your name on the answer sheet."
+        },
+        {
+          "ja": "課題は金曜日までに出すようお願いします。",
+          "reading": "かだいは きんようびまでに だす よう おねがいします。",
+          "romaji": "kadai wa kin’youbi made ni dasu you onegai shimasu.",
+          "ta": "ஒப்படைப்பை வெள்ளிக்கிழமைக்குள் சமர்ப்பிக்குமாறு கேட்டுக்கொள்கிறோம்.",
+          "en": "Please make sure to hand in your assignment by Friday."
+        },
+        {
+          "ja": "図書館の中では大きな声で話さないようお願いします。",
+          "reading": "としょかんの なかでは おおきな こえで はなさない よう おねがいします。",
+          "romaji": "toshokan no naka de wa ookina koe de hanasanai you onegai shimasu.",
+          "ta": "நூலகத்துக்குள் உரத்த குரலில் பேச வேண்டாம் என்று கேட்டுக்கொள்கிறோம்.",
+          "en": "Please do not talk loudly inside the library."
+        },
+        {
+          "ja": "欠席する場合は、前の日までに連絡するようにお願いします。",
+          "reading": "けっせきする ばあいは、まえの ひまでに れんらくする ように おねがいします。",
+          "romaji": "kesseki suru baai wa, mae no hi made ni renraku suru you ni onegai shimasu.",
+          "ta": "வகுப்புக்கு வர முடியாவிட்டால், முந்தைய நாளுக்குள் தெரிவிக்குமாறு கேட்டுக்கொள்கிறோம்.",
+          "en": "If you will be absent, please let us know by the day before."
+        },
+        {
+          "ja": "寮の門は十時に閉まりますので、遅れないようお願いします。",
+          "reading": "りょうの もんは じゅうじに しまりますので、おくれない よう おねがいします。",
+          "romaji": "ryou no mon wa juuji ni shimarimasu node, okurenai you onegai shimasu.",
+          "ta": "விடுதி வாயில் பத்து மணிக்கு மூடப்படும்; எனவே தாமதிக்க வேண்டாம் என்று கேட்டுக்கொள்கிறோம்.",
+          "en": "The dorm gate closes at ten, so please don’t be late."
+        }
+      ],
+      "pitfalls_ta": "よう-க்கு முன் て-வடிவம் வராது: 書いてようお願いします ✗ → 書くようお願いします ✓. 'செய்யாதீர்கள்' என்பதற்கு ないで அல்ல, ない: 遅れないでようお願いします ✗ → 遅れないようお願いします ✓.",
+      "pitfalls_en": "Don’t use the て-form before よう: 書いてようお願いします ✗ → 書くようお願いします ✓. For \"please don’t\", use ない, not ないで: 遅れないでようお願いします ✗ → 遅れないようお願いします ✓."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0065",
+    "n3-v-0103",
+    "n3-v-0128",
+    "n3-v-0132",
+    "n3-v-0159",
+    "n3-v-0170",
+    "n3-v-0358",
+    "n3-v-0516",
+    "n3-v-0544",
+    "n3-v-0583",
+    "n3-v-0587",
+    "n3-v-0588",
+    "n3-v-0592",
+    "n3-v-0626",
+    "n3-v-0629",
+    "n3-v-0632",
+    "n3-v-0646",
+    "n3-v-0734",
+    "n3-v-0746",
+    "n3-v-0750",
+    "n3-v-0778",
+    "n3-v-0792",
+    "n3-v-0798",
+    "n3-v-0817",
+    "n3-v-0846",
+    "n3-v-0857",
+    "n3-v-0892",
+    "n3-v-0913",
+    "n3-v-0919",
+    "n3-v-1046",
+    "n3-v-1067",
+    "n3-v-1068",
+    "n3-v-1091",
+    "n3-v-1092",
+    "n3-v-1148",
+    "n3-v-1170",
+    "n3-v-1232",
+    "n3-v-1242",
+    "n3-v-1286",
+    "n3-v-1303",
+    "n3-v-1435",
+    "n3-v-1436",
+    "n3-v-1440",
+    "n3-v-1441",
+    "n3-v-1442",
+    "n3-v-1456",
+    "n3-v-1465",
+    "n3-v-1467",
+    "n3-v-1474",
+    "n3-v-1476",
+    "n3-v-1571",
+    "n3-v-1574",
+    "n3-v-1578",
+    "n3-v-1594",
+    "n3-v-1749",
+    "n3-v-1909",
+    "n3-v-2010",
+    "n3-v-2017",
+    "n3-v-2026"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L18-q01",
+        "type": "kanji_reading",
+        "sentence": "毎朝 単語を ＿暗記＿して います。",
+        "target": "暗記",
+        "options": [
+          "あんぎ",
+          "おんき",
+          "あんき",
+          "あんけ"
+        ],
+        "answer": 2,
+        "explanation_ta": "暗記 = あんき (மனப்பாடம்). 記 = き; ぎ என்று கடினமாக்க வேண்டாம். 暗 = あん (இருள்) — 'பார்க்காமல் சொல்வது' என்று நினைவில் வையுங்கள்.",
+        "explanation_en": "暗記 = あんき (மனப்பாடம், learning by heart). 記 is き, not ぎ. 暗 = あん (dark): think \"saying it without looking\"."
+      },
+      {
+        "id": "L18-q02",
+        "type": "kanji_reading",
+        "sentence": "大学の ＿寮＿に 住んで います。",
+        "target": "寮",
+        "options": [
+          "りょ",
+          "りょう",
+          "りょく",
+          "りゅう"
+        ],
+        "answer": 1,
+        "explanation_ta": "寮 = りょう (விடுதி). நீண்ட ஒலி; りょ என்று சுருக்க வேண்டாம்.",
+        "explanation_en": "寮 = りょう (விடுதி, dormitory). It has a long sound. Don’t cut it to りょ."
+      },
+      {
+        "id": "L18-q03",
+        "type": "kanji_reading",
+        "sentence": "試験が 終わったら、＿答案＿を 前に 出して ください。",
+        "target": "答案",
+        "options": [
+          "とうあん",
+          "こたえあん",
+          "どうあん",
+          "とあん"
+        ],
+        "answer": 0,
+        "explanation_ta": "答案 = とうあん (விடைத்தாள்). 答 தனியாக こたえ, ஆனால் இந்தச் சொல்லில் とう (ஓன் உச்சரிப்பு).",
+        "explanation_en": "答案 = とうあん (விடைத்தாள், answer sheet). 答 alone is こたえ, but in this word it is とう (on reading)."
+      },
+      {
+        "id": "L18-q04",
+        "type": "orthography",
+        "sentence": "この 漢字の ＿よみ＿を 教えて ください。",
+        "target": "よみ",
+        "options": [
+          "詠み",
+          "続み",
+          "説み",
+          "読み"
+        ],
+        "answer": 3,
+        "explanation_ta": "உச்சரிப்பு / வாசிப்பு = 読み (読む = படி). 詠む 'கவிதை இயற்று'; 続、説 வடிவம் ஒத்த வேறு எழுத்துகள்.",
+        "explanation_en": "Reading = 読み (from 読む, to read). 詠む means to compose a poem. 続 and 説 just look similar."
+      },
+      {
+        "id": "L18-q05",
+        "type": "orthography",
+        "sentence": "来週から 新しい ＿がっき＿が 始まります。",
+        "target": "がっき",
+        "options": [
+          "学季",
+          "楽器",
+          "学期",
+          "学機"
+        ],
+        "answer": 2,
+        "explanation_ta": "பள்ளிப் பருவம் = 学期. 楽器 (がっき) = இசைக்கருவி; ஒலி ஒன்று, பொருள் வேறு.",
+        "explanation_en": "School term = 学期. 楽器 (がっき) is a musical instrument. Same sound, different meaning."
+      },
+      {
+        "id": "L18-q06",
+        "type": "vocab_context",
+        "sentence": "図書館は 静かなので、勉強に （　　）できます。",
+        "options": [
+          "集中",
+          "指導",
+          "省略",
+          "暗記"
+        ],
+        "answer": 0,
+        "explanation_ta": "அமைதியான இடத்தில் படிப்பில் 'கவனம் செலுத்த' முடியும் = 集中できる. 勉強に暗記 என்று சொல்வதில்லை.",
+        "explanation_en": "In a quiet place you can focus on study = 集中できる (கவனம் செலுத்த முடியும்). 勉強に暗記 is not said."
+      },
+      {
+        "id": "L18-q07",
+        "type": "vocab_context",
+        "sentence": "熱が あったので、授業を （　　）しました。",
+        "options": [
+          "出席",
+          "欠席",
+          "学習",
+          "交換"
+        ],
+        "answer": 1,
+        "explanation_ta": "காய்ச்சலால் வகுப்புக்குப் போகவில்லை = 欠席. 出席 (வருகை) எதிர்ப்பொருள்.",
+        "explanation_en": "Because of a fever, I missed class = 欠席 (வராமை, absence). 出席 (attending) is the opposite."
+      },
+      {
+        "id": "L18-q08",
+        "type": "vocab_context",
+        "sentence": "「食べる」「行く」「書く」は 全部 （　　）です。",
+        "options": [
+          "名詞",
+          "助詞",
+          "動詞",
+          "文字"
+        ],
+        "answer": 2,
+        "explanation_ta": "செயலைக் குறிக்கும் சொற்கள் = 動詞 (வினைச்சொல்). 名詞 பெயர்ச்சொல், 助詞 இடைச்சொல் (は、を போன்றவை).",
+        "explanation_en": "Words for actions = 動詞 (வினைச்சொல், verbs). 名詞 is noun. 助詞 is particle (like は and を)."
+      },
+      {
+        "id": "L18-q09",
+        "type": "vocab_context",
+        "sentence": "大学では 経済を （　　）して います。",
+        "options": [
+          "課程",
+          "指導",
+          "活用",
+          "専攻"
+        ],
+        "answer": 3,
+        "explanation_ta": "பல்கலைக்கழகத்தில் 'முதன்மைப் பாடமாகப் படிப்பது' = 専攻する. 課程 என்பது பாடநெறி; 課程する என்று சொல்வதில்லை.",
+        "explanation_en": "Studying something as your main subject at university = 専攻する (major in). 課程 is a course; 課程する is not said."
+      },
+      {
+        "id": "L18-q10",
+        "type": "vocab_context",
+        "sentence": "成績が よかったので、大学から （　　）を もらえる ことに なりました。",
+        "options": [
+          "給料",
+          "奨学金",
+          "料金",
+          "借金"
+        ],
+        "answer": 1,
+        "explanation_ta": "நல்ல மதிப்பெண்ணுக்காகப் பல்கலைக்கழகம் தருவது = 奨学金 (உதவித்தொகை). 給料 வேலைக்கான சம்பளம்.",
+        "explanation_en": "Money a university gives for good grades = 奨学金 (உதவித்தொகை, scholarship). 給料 is salary from a job."
+      },
+      {
+        "id": "L18-q11",
+        "type": "paraphrase",
+        "sentence": "祖母に 料理を 教わりました。",
+        "options": [
+          "私が 祖母に 料理を 教えました。",
+          "祖母と 一緒に 料理を 食べました。",
+          "祖母が 私に 料理を 教えて くれました。",
+          "祖母に 料理を 作って もらいました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "教わる = 'கற்றுக்கொள்ளுதல்' (ஒருவரிடம்). அதாவது பாட்டி எனக்குக் கற்றுத் தந்தார். 私が教えました திசையைத் தலைகீழாக்குகிறது.",
+        "explanation_en": "教わる = to be taught by someone (கற்றுக்கொள்ள). So grandma taught me. 私が教えました turns the direction around."
+      },
+      {
+        "id": "L18-q12",
+        "type": "paraphrase",
+        "sentence": "試しに この 問題を やって みて ください。",
+        "options": [
+          "この 問題は 試験に 出ます。",
+          "この 問題を 何回も やって ください。",
+          "この 問題は やらなくても いいです。",
+          "どう なるか、一度 この 問題を やって みて ください。"
+        ],
+        "answer": 3,
+        "explanation_ta": "試しに = 'ஒரு முயற்சியாக, எப்படி இருக்கிறது என்று பார்க்க'. 試験に出る (தேர்வில் வரும்) — 試 எழுத்து ஒன்றாக இருப்பதால் வரும் பொறி.",
+        "explanation_en": "試しに = \"as a try, to see how it goes\" (ஒரு முயற்சியாக). 試験に出る (will be on the exam) is a trap because of the same kanji 試."
+      },
+      {
+        "id": "L18-q13",
+        "type": "usage",
+        "sentence": "訳す",
+        "options": [
+          "先生の 説明を ノートに 訳しました。",
+          "日本語の メールを タミル語に 訳しました。",
+          "古い 机を 新しい 机に 訳しました。",
+          "駅で 円を ルピーに 訳しました。"
+        ],
+        "answer": 1,
+        "explanation_ta": "訳す = ஒரு மொழியிலிருந்து இன்னொரு மொழிக்கு மாற்றுவது. பணத்தை மாற்றுவது 両替する; பொருளை மாற்றுவது 替える.",
+        "explanation_en": "訳す = to change words from one language to another (மொழிபெயர்க்க). Changing money is 両替する. Replacing a thing is 替える."
+      },
+      {
+        "id": "L18-q14",
+        "type": "usage",
+        "sentence": "解く",
+        "options": [
+          "毎日 単語を 二十個 解いて います。",
+          "先生に 質問を 解きました。",
+          "この 数学の 問題は 難しくて、なかなか 解けない。",
+          "試験の 前に 教科書を 解きました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "解く = கேள்விக்கு / கணக்குக்கு விடை காண்பது. சொற்களை நினைவில் வைப்பது 覚える; கேள்வி கேட்பது 質問する.",
+        "explanation_en": "解く = to solve a question or problem (தீர்க்க). Learning words is 覚える. Asking a question is 質問する."
+      },
+      {
+        "id": "L18-q15",
+        "type": "grammar_form",
+        "sentence": "N3に 合格する（　　）、毎日 勉強する ことが 大切です。",
+        "options": [
+          "のに",
+          "には",
+          "ので",
+          "と"
+        ],
+        "answer": 1,
+        "explanation_ta": "'தேர்ச்சி பெற வேண்டுமென்றால், தினமும் படிப்பது முக்கியம்' — பின்னால் மதிப்பீடு (大切です) → には. ので 'ஆகவே' — காரணம், பொருந்தாது.",
+        "explanation_en": "\"To pass, studying every day is important.\" A judgement (大切です) follows → には. ので (so, because) gives a reason. It doesn’t fit."
+      },
+      {
+        "id": "L18-q16",
+        "type": "grammar_form",
+        "sentence": "明日の 試験、簡単だと（　　）なあ。",
+        "options": [
+          "いい",
+          "よかった",
+          "いけない",
+          "なる"
+        ],
+        "answer": 0,
+        "explanation_ta": "நாளைக்கான நம்பிக்கை → 簡単だといいなあ. よかった கடந்த காலம் — 'அப்படி இருந்திருக்கலாமே' என்ற வருத்தம்; நாளைக்குப் பொருந்தாது.",
+        "explanation_en": "A hope for tomorrow → 簡単だといいなあ. よかった is past. It shows regret (\"it would have been nice\"). It doesn’t fit tomorrow."
+      },
+      {
+        "id": "L18-q17",
+        "type": "grammar_form",
+        "sentence": "ちゃんと 鍵を かけた（　　）だったのに、ドアが 開いて いた。",
+        "options": [
+          "こと",
+          "ため",
+          "わけ",
+          "つもり"
+        ],
+        "answer": 3,
+        "explanation_ta": "'பூட்டிவிட்டேன் என்று நினைத்தேன்; ஆனால் திறந்திருந்தது' → かけたつもりだった.",
+        "explanation_en": "\"I thought I had locked it, but the door was open\" → かけたつもりだった."
+      },
+      {
+        "id": "L18-q18",
+        "type": "grammar_form",
+        "sentence": "本番の 試験を 受けた（　　）、時間を 計って 問題を 解きました。",
+        "options": [
+          "つもりで",
+          "ばかりで",
+          "ところで",
+          "ように"
+        ],
+        "answer": 0,
+        "explanation_ta": "'உண்மையான தேர்வு எழுதுவதாக நினைத்துக்கொண்டு' → 受けたつもりで. ばかりで 'இப்போதுதான் எழுதியதால்' — பொருள் பொருந்தாது.",
+        "explanation_en": "\"As if I were taking the real exam\" → 受けたつもりで. ばかりで means \"because I just took it\". It doesn’t fit."
+      },
+      {
+        "id": "L18-q19",
+        "type": "grammar_form",
+        "sentence": "来年の 留学（　　）、毎月 お金を 貯めて います。",
+        "options": [
+          "に 対して",
+          "に 向けて",
+          "に よって",
+          "に ついて"
+        ],
+        "answer": 1,
+        "explanation_ta": "'அடுத்த ஆண்டு வெளிநாட்டுப் படிப்பை நோக்கி' — எதிர்கால இலக்கு → に向けて. に対して 'எதிராக / ஒப்பிட்டு'.",
+        "explanation_en": "\"Toward studying abroad next year\" — a future goal → に向けて. に対して means \"against\" or \"compared with\"."
+      },
+      {
+        "id": "L18-q20",
+        "type": "grammar_form",
+        "sentence": "図書館の 中では、大きな 声で 話さない（　　）お願いします。",
+        "options": [
+          "ため",
+          "ので",
+          "まま",
+          "よう"
+        ],
+        "answer": 3,
+        "explanation_ta": "அறிவிப்பு நடைக் கோரிக்கை: 'பேச வேண்டாம் என்று கேட்டுக்கொள்கிறோம்' → 話さないようお願いします.",
+        "explanation_en": "A polite notice request: \"please do not talk loudly\" → 話さないようお願いします."
+      },
+      {
+        "id": "L18-q21",
+        "type": "grammar_form",
+        "sentence": "この 大学に 入る（　　）、何点 取れば いいですか。",
+        "options": [
+          "には",
+          "ので",
+          "ながら",
+          "ても"
+        ],
+        "answer": 0,
+        "explanation_ta": "'இந்தப் பல்கலைக்கழகத்தில் சேர வேண்டுமென்றால், எவ்வளவு மதிப்பெண் தேவை?' → 入るには. ても 'சேர்ந்தாலும்' — பொருந்தாது.",
+        "explanation_en": "\"To get into this university, how many points do I need?\" → 入るには. ても means \"even if I enter\". It doesn’t fit."
+      },
+      {
+        "id": "L18-q22",
+        "type": "sentence_order",
+        "before": "N3に",
+        "chunks": [
+          "合格する",
+          "には",
+          "漢字を",
+          "たくさん"
+        ],
+        "star": 1,
+        "after": "覚えなければ なりません。",
+        "explanation_ta": "N3に 合格する (தேர்ச்சி பெற) → には (வேண்டுமென்றால்) → 漢字を → たくさん 覚えなければなりません. ★ = には.",
+        "explanation_en": "N3に 合格する (pass N3) → には (to) → 漢字を (kanji) → たくさん 覚えなければなりません (must learn a lot). ★ = には."
+      },
+      {
+        "id": "L18-q23",
+        "type": "sentence_order",
+        "before": "",
+        "chunks": [
+          "来月の",
+          "試験に",
+          "向けて",
+          "毎日"
+        ],
+        "star": 2,
+        "after": "三時間 勉強して います。",
+        "explanation_ta": "来月の 試験に (அடுத்த மாதத் தேர்வை) → 向けて (நோக்கி) → 毎日 三時間 勉強しています. ★ = 向けて.",
+        "explanation_en": "来月の 試験に (next month’s exam) → 向けて (toward) → 毎日 三時間 勉強しています (study three hours a day). ★ = 向けて."
+      },
+      {
+        "id": "L18-q24",
+        "type": "sentence_order",
+        "before": "旅行に",
+        "chunks": [
+          "行った",
+          "つもりで",
+          "その お金を",
+          "貯金"
+        ],
+        "star": 3,
+        "after": "しました。",
+        "explanation_ta": "旅行に 行った つもりで (பயணம் போனதாக நினைத்துக்கொண்டு) → その お金を → 貯金しました. ★ = 貯金.",
+        "explanation_en": "旅行に 行った つもりで (as if I had gone on a trip) → その お金を (that money) → 貯金しました (saved). ★ = 貯金."
+      },
+      {
+        "id": "L18-q25",
+        "type": "passage_cloze",
+        "passage": "来月、日本語能力試験の N3を 受けます。試験［1］、毎日 寮の 部屋で 勉強して います。N3に 合格する［2］、漢字や 単語を たくさん 覚えなければ なりません。先週の 練習テストでは、よく できた［3］だったのに、点数は あまり よく ありませんでした。今日、学校から お知らせが 来ました。「試験の 日は、受験票を 必ず 持って くる［4］お願いします。」今度こそ 合格できると いいな。",
+        "blanks": [
+          {
+            "options": [
+              "に ついて",
+              "に 向けて",
+              "に よって",
+              "に 対して"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "ので",
+              "ても",
+              "には",
+              "ながら"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "こと",
+              "つもり",
+              "ため",
+              "もの"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "よう",
+              "ため",
+              "ので",
+              "まま"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ 'தேர்வை நோக்கி' படிப்பது → に向けて. ［2］ 'தேர்ச்சி பெற வேண்டுமென்றால் … கற்க வேண்டும்' → には. ［3］ 'நன்றாகச் செய்தேன் என்று நினைத்தேன்; ஆனால் மதிப்பெண் குறைவு' → できたつもりだった. ［4］ பள்ளி அறிவிப்பின் கோரிக்கை → 持ってくるようお願いします.",
+        "explanation_en": "[1] Studying \"toward the exam\" → に向けて. [2] \"To pass, you must learn…\" → には. [3] \"I thought I did well, but my score was low\" → できたつもりだった. [4] A request in a school notice → 持ってくるようお願いします."
+      }
+    ]
+  }
+}

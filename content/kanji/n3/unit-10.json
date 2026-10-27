@@ -1,0 +1,880 @@
+{
+  "unit": 10,
+  "title": {
+    "en": "Society, choices and rules",
+    "ta": "சமூகம், தேர்வுகள், விதிகள்"
+  },
+  "intro": {
+    "en": "In this unit you learn 14 kanji. Most are about society: meeting, people, choose, war, law and promise. A few are for daily life: swim, box and cold. Many have a known part that gives the meaning, like 氵 (water), 言 (say), 車 (car) and 女 (woman).",
+    "ta": "இந்தப் பாடத்தில் 14 கான்ஜிகளைக் கற்கிறீர்கள். பெரும்பாலானவை சமூகம் பற்றியவை: கூட்டம், மக்கள், தேர்ந்தெடு, போர், சட்டம், வாக்குறுதி. சில அன்றாட வாழ்க்கைக்கானவை: நீந்து, பெட்டி, குளிர். பலவற்றில் பொருளைக் காட்டும் தெரிந்த பகுதி உண்டு: 氵 (நீர்), 言 (சொல்), 車 (வண்டி), 女 (பெண்)."
+  },
+  "kanji": [
+    {
+      "kanji": "泳",
+      "meaning": {
+        "en": "swim",
+        "ta": "நீந்து"
+      },
+      "on": [
+        "えい"
+      ],
+      "kun": [
+        "およ.ぐ"
+      ],
+      "mnemonic": {
+        "en": "On the left is water (氵). On the right is 永: it looks like a person kicking legs and moving arms, with a dot for the head above the water. Arms and legs moving in water: swim.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் 永: தலைக்கு ஒரு புள்ளி நீருக்கு மேல், கைகளை அசைத்து, கால்களை உதைக்கும் ஒருவர் போலத் தெரிகிறது. தண்ணீரில் கை கால் அசைப்பது: நீச்சல், குளத்தில் நீந்தும் சிறுவன் போல."
+      },
+      "examples": [
+        {
+          "word": "泳ぐ",
+          "reading": "およぐ",
+          "en": "to swim",
+          "ta": "நீந்த",
+          "vocabId": "n5-v-136"
+        },
+        {
+          "word": "水泳",
+          "reading": "すいえい",
+          "en": "swimming (as a sport)",
+          "ta": "நீச்சல் (விளையாட்டு)",
+          "vocabId": "n4-v-596"
+        },
+        {
+          "word": "泳ぎ",
+          "reading": "およぎ",
+          "en": "swimming",
+          "ta": "நீச்சல்",
+          "vocabId": "n3-v-0534"
+        }
+      ]
+    },
+    {
+      "kanji": "箱",
+      "meaning": {
+        "en": "box",
+        "ta": "பெட்டி"
+      },
+      "on": [],
+      "kun": [
+        "はこ"
+      ],
+      "mnemonic": {
+        "en": "On top is bamboo (⺮), as in 答 and 等. Below is 相: wood (木) and an eye (目). A box made of bamboo and wood, with a little hole for your eye to look inside: box.",
+        "ta": "மேலே மூங்கில் (⺮) — 答, 等 இவற்றில் உள்ளது போல. கீழே 相: மரம் (木), கண் (目). மூங்கிலும் மரமும் கொண்டு செய்த பெட்டி; உள்ளே எட்டிப் பார்க்கக் கண் அளவுச் சிறு துளை: பெட்டி."
+      },
+      "note": {
+        "en": "After another word, はこ often becomes ばこ: ごみ箱 (ごみばこ, trash can), 本箱 (ほんばこ, bookcase).",
+        "ta": "இன்னொரு சொல்லுக்குப் பின் はこ பெரும்பாலும் ばこ ஆகும்: ごみ箱 (ごみばこ, குப்பைத் தொட்டி), 本箱 (ほんばこ, புத்தக அலமாரி)."
+      },
+      "examples": [
+        {
+          "word": "箱",
+          "reading": "はこ",
+          "en": "box",
+          "ta": "பெட்டி",
+          "vocabId": "n5-v-525"
+        },
+        {
+          "word": "ごみ箱",
+          "reading": "ごみばこ",
+          "en": "trash can",
+          "ta": "குப்பைத் தொட்டி"
+        },
+        {
+          "word": "本箱",
+          "reading": "ほんばこ",
+          "en": "bookcase",
+          "ta": "புத்தக அலமாரி"
+        }
+      ]
+    },
+    {
+      "kanji": "寒",
+      "meaning": {
+        "en": "cold (weather)",
+        "ta": "குளிர் (வானிலை)"
+      },
+      "on": [
+        "かん"
+      ],
+      "kun": [
+        "さむ.い"
+      ],
+      "mnemonic": {
+        "en": "Under the roof (宀) the house is stuffed with straw and blankets (the crossing lines). At the bottom are two drops of ice (⺀), as in 冬 (winter). Even inside the house it is freezing: cold.",
+        "ta": "கூரையின் (宀) கீழ் வீடு முழுக்க வைக்கோலும் போர்வைகளும் (குறுக்குக் கோடுகள்) நிரம்பியிருக்கின்றன. அடியில் இரண்டு பனித் துளிகள் (⺀) — 冬 (குளிர்காலம்) என்பதில் உள்ளது போல. வீட்டுக்குள்ளேயே நடுங்கும் குளிர்: குளிர்."
+      },
+      "note": {
+        "en": "寒い (さむい) is for cold weather or a cold room. For cold things you touch, use 冷たい (つめたい).",
+        "ta": "寒い (さむい) = வானிலை அல்லது அறை குளிராக இருப்பது. தொட்டுப் பார்க்கும் பொருள் குளிர்ந்திருந்தால் 冷たい (つめたい)."
+      },
+      "examples": [
+        {
+          "word": "寒い",
+          "reading": "さむい",
+          "en": "cold (weather)",
+          "ta": "குளிரான (வானிலை)",
+          "vocabId": "n5-v-285"
+        },
+        {
+          "word": "寒さ",
+          "reading": "さむさ",
+          "en": "the cold, coldness",
+          "ta": "குளிர்"
+        },
+        {
+          "word": "寒気",
+          "reading": "さむけ",
+          "en": "chills, a shiver",
+          "ta": "உடல் நடுக்கம், குளிர் காய்ச்சல் உணர்வு"
+        },
+        {
+          "word": "寒冷",
+          "reading": "かんれい",
+          "en": "cold (climate)",
+          "ta": "குளிர்ந்த (தட்பவெப்பம்)"
+        }
+      ]
+    },
+    {
+      "kanji": "議",
+      "meaning": {
+        "en": "discuss, debate",
+        "ta": "விவாதம், கலந்தாலோசனை"
+      },
+      "on": [
+        "ぎ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is 義 (what is right): a sheep (羊) above 我 (I, holding a spear). People sit together and use words to decide what is right: discussion, meeting.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் 義 (நியாயம்): 我 (நான், ஈட்டியுடன்) மேல் ஒரு ஆடு (羊). ஊர்ப் பஞ்சாயத்தில் மக்கள் உட்கார்ந்து சொற்களால் எது நியாயம் என்று முடிவு செய்கிறார்கள்: விவாதம், கூட்டம்."
+      },
+      "examples": [
+        {
+          "word": "会議",
+          "reading": "かいぎ",
+          "en": "meeting, conference",
+          "ta": "கூட்டம், கலந்தாய்வுக் கூட்டம்",
+          "vocabId": "n4-v-640"
+        },
+        {
+          "word": "会議室",
+          "reading": "かいぎしつ",
+          "en": "meeting room",
+          "ta": "கூட்ட அறை",
+          "vocabId": "n4-v-145"
+        },
+        {
+          "word": "議論",
+          "reading": "ぎろん",
+          "en": "discussion, argument",
+          "ta": "விவாதம்",
+          "vocabId": "n3-v-0765"
+        },
+        {
+          "word": "不思議",
+          "reading": "ふしぎ",
+          "en": "strange, mysterious",
+          "ta": "விசித்திரமான, புதிரான",
+          "vocabId": "n3-v-1873"
+        }
+      ]
+    },
+    {
+      "kanji": "民",
+      "meaning": {
+        "en": "people, citizens",
+        "ta": "மக்கள், குடிமக்கள்"
+      },
+      "on": [
+        "みん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "The top is a small box, like a basket carried on a head. Below, a long body bends and its cloth sweeps out to the right, like a worker walking with a load. The ordinary working people who carry the country: the people.",
+        "ta": "மேலே ஒரு சிறு பெட்டி — தலையில் சுமக்கும் கூடை போல. கீழே நீண்ட உடல் குனிந்து, அதன் ஆடை வலப்பக்கம் வீசுகிறது — சுமையுடன் நடக்கும் உழைப்பாளி போல. நாட்டைத் தாங்கும் சாதாரண உழைக்கும் மக்கள்: மக்கள்."
+      },
+      "examples": [
+        {
+          "word": "市民",
+          "reading": "しみん",
+          "en": "citizen",
+          "ta": "நகரக் குடிமகன்",
+          "vocabId": "n4-v-467"
+        },
+        {
+          "word": "国民",
+          "reading": "こくみん",
+          "en": "the people of a country, nation",
+          "ta": "நாட்டு மக்கள்",
+          "vocabId": "n3-v-0921"
+        },
+        {
+          "word": "住民",
+          "reading": "じゅうみん",
+          "en": "residents",
+          "ta": "குடியிருப்போர்",
+          "vocabId": "n3-v-0105"
+        }
+      ]
+    },
+    {
+      "kanji": "連",
+      "meaning": {
+        "en": "connect; take along",
+        "ta": "இணை; கூட்டிச் செல்"
+      },
+      "on": [
+        "れん"
+      ],
+      "kun": [
+        "つ.れる"
+      ],
+      "mnemonic": {
+        "en": "A car (車) on the road (辶). Cars follow each other in a long line, one joined to the next, like the cars of a train: connect. A car also takes people along: 連れる (to take someone with you).",
+        "ta": "சாலையில் (辶) ஒரு வண்டி (車). ரயில் பெட்டிகள் போல வண்டிகள் ஒன்றோடொன்று இணைந்து நீண்ட வரிசையில் செல்கின்றன: இணை. வண்டி ஆட்களையும் கூட்டிச் செல்கிறது: 連れる (ஒருவரை உடன் கூட்டிச் செல்வது)."
+      },
+      "note": {
+        "en": "連れる is for people and animals: 子どもを連れて行く (take a child). For things, use 持って行く.",
+        "ta": "連れる மனிதர், விலங்குகளுக்கு மட்டும்: 子どもを連れて行く (குழந்தையைக் கூட்டிச் செல்). பொருட்களுக்கு 持って行く."
+      },
+      "examples": [
+        {
+          "word": "連れる",
+          "reading": "つれる",
+          "en": "to take (a person) along",
+          "ta": "(ஒருவரை) கூட்டிச் செல்ல",
+          "vocabId": "n4-v-292"
+        },
+        {
+          "word": "連れ",
+          "reading": "つれ",
+          "en": "companion",
+          "ta": "துணை, உடன் வருபவர்",
+          "vocabId": "n3-v-1535"
+        },
+        {
+          "word": "関連",
+          "reading": "かんれん",
+          "en": "relation, connection",
+          "ta": "தொடர்பு",
+          "vocabId": "n3-v-0689"
+        },
+        {
+          "word": "連休",
+          "reading": "れんきゅう",
+          "en": "holidays in a row, long weekend",
+          "ta": "தொடர் விடுமுறை"
+        }
+      ]
+    },
+    {
+      "kanji": "選",
+      "meaning": {
+        "en": "choose, elect",
+        "ta": "தேர்ந்தெடு"
+      },
+      "on": [
+        "せん"
+      ],
+      "kun": [
+        "えら.ぶ"
+      ],
+      "mnemonic": {
+        "en": "On a stage with legs (共) stand two people, side by side (two small 己 shapes). People walking on the road (辶) look at them and pick one: choose, elect. Like an election on the street.",
+        "ta": "கால்கள் உள்ள மேடையில் (共) இரண்டு பேர் பக்கம் பக்கமாக நிற்கிறார்கள் (இரண்டு சிறிய 己 வடிவங்கள்). சாலையில் (辶) நடந்து போகும் மக்கள் அவர்களைப் பார்த்து ஒருவரைத் தேர்ந்தெடுக்கிறார்கள்: தேர்தல் பிரசார மேடை போல. தேர்ந்தெடு."
+      },
+      "examples": [
+        {
+          "word": "選ぶ",
+          "reading": "えらぶ",
+          "en": "to choose, to select",
+          "ta": "தேர்ந்தெடுக்க",
+          "vocabId": "n4-v-248"
+        },
+        {
+          "word": "選手",
+          "reading": "せんしゅ",
+          "en": "player, athlete",
+          "ta": "விளையாட்டு வீரர்",
+          "vocabId": "n3-v-1308"
+        },
+        {
+          "word": "当選",
+          "reading": "とうせん",
+          "en": "being elected; winning (a prize draw)",
+          "ta": "தேர்தலில் வெற்றி; குலுக்கலில் பரிசு பெறுதல்"
+        }
+      ]
+    },
+    {
+      "kanji": "関",
+      "meaning": {
+        "en": "gate; connection",
+        "ta": "வாயில்; தொடர்பு"
+      },
+      "on": [
+        "かん"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Outside is a gate (門), as in 開 (open) and 間. Inside is a wooden bar with two horns on top: the bolt that locks the gate. The gate is where two sides meet, so 関 also means connection, relation.",
+        "ta": "வெளியே ஒரு வாயில் (門) — 開 (திற), 間 இவற்றில் உள்ளது போல. உள்ளே மேலே இரண்டு கொம்புகள் உள்ள மரத் தாழ்ப்பாள்: கோட்டை வாசல் கதவைப் பூட்டும் தடி. இரண்டு பக்கங்களும் சந்திக்கும் இடம் வாயில்; அதனால் 関 = தொடர்பு என்றும் பொருள்."
+      },
+      "note": {
+        "en": "関係 (かんけい) = relationship, is very common: 関係ありません (it has nothing to do with it).",
+        "ta": "関係 (かんけい) = தொடர்பு; மிகவும் அதிகமாகப் பயன்படும்: 関係ありません (அதற்கும் இதற்கும் சம்பந்தம் இல்லை)."
+      },
+      "examples": [
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "en": "relationship, connection",
+          "ta": "தொடர்பு, சம்பந்தம்",
+          "vocabId": "n4-v-646"
+        },
+        {
+          "word": "関心",
+          "reading": "かんしん",
+          "en": "interest, concern",
+          "ta": "ஆர்வம், அக்கறை",
+          "vocabId": "n3-v-0679"
+        },
+        {
+          "word": "関する",
+          "reading": "かんする",
+          "en": "to be about, to concern",
+          "ta": "பற்றியதாக இருக்க",
+          "vocabId": "n3-v-0680"
+        }
+      ]
+    },
+    {
+      "kanji": "戦",
+      "meaning": {
+        "en": "war, battle",
+        "ta": "போர், சண்டை"
+      },
+      "on": [
+        "せん"
+      ],
+      "kun": [
+        "たたか.う"
+      ],
+      "mnemonic": {
+        "en": "On the left is a shield with two horns on top (単). On the right is 戈, a long spear with a hook. A soldier with shield and spear: war, battle, fight.",
+        "ta": "இடப்பக்கம் மேலே இரண்டு கொம்புகள் உள்ள கேடயம் (単). வலப்பக்கம் 戈: கொக்கியுடன் நீண்ட ஈட்டி. கேடயமும் ஈட்டியும் ஏந்திய வீரன்: போர், சண்டை."
+      },
+      "examples": [
+        {
+          "word": "戦争",
+          "reading": "せんそう",
+          "en": "war",
+          "ta": "போர்",
+          "vocabId": "n4-v-179"
+        },
+        {
+          "word": "戦う",
+          "reading": "たたかう",
+          "en": "to fight, to compete",
+          "ta": "போராட, போட்டியிட",
+          "vocabId": "n3-v-1405"
+        },
+        {
+          "word": "戦い",
+          "reading": "たたかい",
+          "en": "battle, fight",
+          "ta": "சண்டை, போராட்டம்",
+          "vocabId": "n3-v-1404"
+        },
+        {
+          "word": "作戦",
+          "reading": "さくせん",
+          "en": "plan, strategy",
+          "ta": "திட்டம், போர் உத்தி"
+        }
+      ]
+    },
+    {
+      "kanji": "最",
+      "meaning": {
+        "en": "most",
+        "ta": "மிக, மிகவும்"
+      },
+      "on": [
+        "さい"
+      ],
+      "kun": [
+        "もっと.も"
+      ],
+      "mnemonic": {
+        "en": "The sun (日) sits on top of 取 (take). Someone reaches up and takes the sun itself, the highest prize of all: the most.",
+        "ta": "取 (எடு) என்பதன் மேல் சூரியன் (日) இருக்கிறது. ஒருவர் கையை நீட்டிச் சூரியனையே எடுக்கிறார் — எல்லாவற்றிலும் உயர்ந்த பரிசு: மிக, மிகவும்."
+      },
+      "note": {
+        "en": "最 makes “most” words: 最初 (first), 最後 (last), 最高 (the best), 最近 (recently).",
+        "ta": "最 “மிக” என்ற சொற்களை உருவாக்கும்: 最初 (முதல்), 最後 (கடைசி), 最高 (மிகச் சிறந்த), 最近 (சமீபத்தில்)."
+      },
+      "examples": [
+        {
+          "word": "最近",
+          "reading": "さいきん",
+          "en": "recently, these days",
+          "ta": "சமீபத்தில், இப்போதெல்லாம்",
+          "vocabId": "n4-v-376"
+        },
+        {
+          "word": "最後",
+          "reading": "さいご",
+          "en": "last, end",
+          "ta": "கடைசி, முடிவு",
+          "vocabId": "n4-v-515"
+        },
+        {
+          "word": "最高",
+          "reading": "さいこう",
+          "en": "the best, highest",
+          "ta": "மிகச் சிறந்த, மிக உயர்ந்த",
+          "vocabId": "n3-v-0961"
+        },
+        {
+          "word": "最も",
+          "reading": "もっとも",
+          "en": "most",
+          "ta": "மிகவும்",
+          "vocabId": "n4-v-512"
+        }
+      ]
+    },
+    {
+      "kanji": "約",
+      "meaning": {
+        "en": "promise; about",
+        "ta": "வாக்குறுதி; சுமார்"
+      },
+      "on": [
+        "やく"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is thread (糸), as in 紙 and 終. On the right is a ladle with one small drop (勺). Tie a thread round your finger so you won’t forget your promise. One small drop, not exact: about.",
+        "ta": "இடப்பக்கம் நூல் (糸) — 紙, 終 இவற்றில் உள்ளது போல. வலப்பக்கம் ஒரு துளியுடன் அகப்பை (勺). வாக்குறுதியை மறக்காமல் இருக்க விரலில் நூல் கட்டுகிறோம்: வாக்குறுதி. ஒரு சிறு துளி — சரியான அளவு அல்ல: சுமார்."
+      },
+      "examples": [
+        {
+          "word": "約束",
+          "reading": "やくそく",
+          "en": "promise, appointment",
+          "ta": "வாக்குறுதி, சந்திப்பு ஏற்பாடு",
+          "vocabId": "n4-v-537"
+        },
+        {
+          "word": "予約",
+          "reading": "よやく",
+          "en": "reservation, booking",
+          "ta": "முன்பதிவு",
+          "vocabId": "n4-v-341"
+        },
+        {
+          "word": "約",
+          "reading": "やく",
+          "en": "about, approximately",
+          "ta": "சுமார், ஏறக்குறைய",
+          "vocabId": "n3-v-1090"
+        }
+      ]
+    },
+    {
+      "kanji": "法",
+      "meaning": {
+        "en": "law; method",
+        "ta": "சட்டம்; முறை"
+      },
+      "on": [
+        "ほう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "Water (氵) and 去 (go away). Water always goes away downhill; it never flows up. That is the fixed rule of nature: law, method.",
+        "ta": "நீர் (氵), 去 (போய்விடு). தண்ணீர் எப்போதும் கீழ் நோக்கியே போய்விடும்; ஒருபோதும் மேலே ஏறாது. இது இயற்கையின் மாறாத விதி: சட்டம், முறை."
+      },
+      "note": {
+        "en": "After ん, ほう becomes ぽう: 文法 (ぶんぽう, grammar).",
+        "ta": "ん-க்குப் பின் ほう என்பது ぽう ஆகும்: 文法 (ぶんぽう, இலக்கணம்)."
+      },
+      "examples": [
+        {
+          "word": "方法",
+          "reading": "ほうほう",
+          "en": "method, way",
+          "ta": "முறை, வழி",
+          "vocabId": "n3-v-1935"
+        },
+        {
+          "word": "文法",
+          "reading": "ぶんぽう",
+          "en": "grammar",
+          "ta": "இலக்கணம்",
+          "vocabId": "n4-v-206"
+        },
+        {
+          "word": "作法",
+          "reading": "さほう",
+          "en": "manners, etiquette",
+          "ta": "நடத்தை முறை, ஒழுக்கம்",
+          "vocabId": "n3-v-0001"
+        }
+      ]
+    },
+    {
+      "kanji": "要",
+      "meaning": {
+        "en": "need; important point",
+        "ta": "தேவை; முக்கியம்"
+      },
+      "on": [
+        "よう"
+      ],
+      "kun": [
+        "い.る"
+      ],
+      "mnemonic": {
+        "en": "A woman (女) carries a heavy pot (the 西 shape) on her head, like village women carrying water pots from the well. Her strong waist holds everything up. It is the key point, the thing you really need: need, important.",
+        "ta": "ஒரு பெண் (女) தலையில் கனமான குடத்தைச் (西 வடிவம்) சுமக்கிறாள் — கிணற்றிலிருந்து தண்ணீர்க் குடம் சுமக்கும் கிராமப் பெண்கள் போல. அவளுடைய உறுதியான இடுப்பே எல்லாவற்றையும் தாங்குகிறது. அதுவே முக்கியப் புள்ளி, உண்மையில் தேவையானது: தேவை, முக்கியம்."
+      },
+      "note": {
+        "en": "要る (いる) = to need. Don’t mix it up with いる (to be, for people) and 入る (はいる, to enter).",
+        "ta": "要る (いる) = தேவைப்படு. いる (இருக்கிறார், மனிதர்களுக்கு), 入る (はいる, நுழை) இவற்றுடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "必要",
+          "reading": "ひつよう",
+          "en": "necessary",
+          "ta": "தேவையான",
+          "vocabId": "n4-v-082"
+        },
+        {
+          "word": "重要",
+          "reading": "じゅうよう",
+          "en": "important",
+          "ta": "முக்கியமான",
+          "vocabId": "n3-v-0106"
+        },
+        {
+          "word": "要る",
+          "reading": "いる",
+          "en": "to need",
+          "ta": "தேவைப்பட"
+        },
+        {
+          "word": "要点",
+          "reading": "ようてん",
+          "en": "main point",
+          "ta": "முக்கியக் கருத்து",
+          "vocabId": "n3-v-1132"
+        }
+      ]
+    },
+    {
+      "kanji": "治",
+      "meaning": {
+        "en": "cure; govern",
+        "ta": "குணமாக்கு; ஆட்சி செய்"
+      },
+      "on": [
+        "じ",
+        "ち"
+      ],
+      "kun": [
+        "なお.る",
+        "なお.す",
+        "おさ.める"
+      ],
+      "mnemonic": {
+        "en": "Water (氵) and 台 (stand, platform). People build a strong stone platform to control the river water: govern. A glass of medicine water on the bedside table makes you well: cure (治る).",
+        "ta": "நீர் (氵), 台 (மேடை). ஆற்று நீரைக் கட்டுப்படுத்த மக்கள் உறுதியான கல் மேடை (அணை) கட்டுகிறார்கள்: ஆட்சி செய். படுக்கை அருகே மேசை மேல் வைத்த மருந்துத் தண்ணீர் உங்களைக் குணமாக்குகிறது: 治る (குணமாகு)."
+      },
+      "note": {
+        "en": "治る (なおる) = an illness gets better. 直る (なおる) = a broken thing gets fixed. Same sound, different kanji.",
+        "ta": "治る (なおる) = நோய் குணமாவது. 直る (なおる) = உடைந்த பொருள் சரியாவது. ஒலி ஒன்று, கான்ஜி வேறு."
+      },
+      "examples": [
+        {
+          "word": "治る",
+          "reading": "なおる",
+          "en": "to get better (from illness)",
+          "ta": "(நோய்) குணமாக",
+          "vocabId": "n4-v-218"
+        },
+        {
+          "word": "治す",
+          "reading": "なおす",
+          "en": "to cure, to heal",
+          "ta": "குணப்படுத்த"
+        },
+        {
+          "word": "政治",
+          "reading": "せいじ",
+          "en": "politics",
+          "ta": "அரசியல்",
+          "vocabId": "n4-v-466"
+        },
+        {
+          "word": "治める",
+          "reading": "おさめる",
+          "en": "to govern, to rule",
+          "ta": "ஆட்சி செய்ய",
+          "vocabId": "n3-v-0508"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU10-q01",
+        "type": "kanji_reading",
+        "sentence": "なつは 毎日 海で ＿泳ぎます＿。",
+        "target": "泳ぎます",
+        "options": [
+          "あそぎます",
+          "およきます",
+          "およぎます",
+          "えいぎます"
+        ],
+        "answer": 2,
+        "explanation_en": "泳ぎます is read およぎます (நீந்துகிறேன், swim). およきます has no voiced ぎ, and えい is the on reading, used in 水泳.",
+        "explanation_ta": "泳ぎます = およぎます (நீந்துகிறேன், swim). およきます-இல் ゛ இல்லை. えい என்பது on வாசிப்பு; 水泳 போன்ற சொற்களில் மட்டும்."
+      },
+      {
+        "id": "KU10-q02",
+        "type": "kanji_reading",
+        "sentence": "三時から ＿会議＿が あります。",
+        "target": "会議",
+        "options": [
+          "かいぎ",
+          "かいき",
+          "かいぎい",
+          "がいぎ"
+        ],
+        "answer": 0,
+        "explanation_en": "会議 is read かいぎ (கூட்டம், meeting). かいき has no voiced ぎ, and がいぎ wrongly voices the first sound.",
+        "explanation_ta": "会議 = かいぎ (கூட்டம், meeting). かいき-இல் ゛ இல்லை. がいぎ-இல் முதல் ஒலியில் தவறான ゛."
+      },
+      {
+        "id": "KU10-q03",
+        "type": "kanji_reading",
+        "sentence": "この 図書館は ＿市民＿なら だれでも 使えます。",
+        "target": "市民",
+        "options": [
+          "しみ",
+          "いちみん",
+          "しびん",
+          "しみん"
+        ],
+        "answer": 3,
+        "explanation_en": "市民 is read しみん (குடிமகன், citizen). しみ drops the ん, and いち is the kun reading of 市, used in 市場.",
+        "explanation_ta": "市民 = しみん (குடிமகன், citizen). しみ-இல் ん விடுபட்டுள்ளது. いち என்பது 市-இன் kun வாசிப்பு; 市場 போன்றவற்றில் மட்டும்."
+      },
+      {
+        "id": "KU10-q04",
+        "type": "kanji_reading",
+        "sentence": "日曜日に 子どもを どうぶつ園へ ＿連れて＿ 行きました。",
+        "target": "連れて",
+        "options": [
+          "つらて",
+          "つれて",
+          "づれて",
+          "れんて"
+        ],
+        "answer": 1,
+        "explanation_en": "連れて is read つれて (கூட்டிக்கொண்டு, taking along). づれて wrongly voices つ, and れん is the on reading, as in 連休.",
+        "explanation_ta": "連れて = つれて (கூட்டிக்கொண்டு, taking along). づれて-இல் தவறான ゛. れん என்பது on வாசிப்பு; 連休 போன்றவற்றில்."
+      },
+      {
+        "id": "KU10-q05",
+        "type": "kanji_reading",
+        "sentence": "その 話は わたしとは ＿関係＿が ありません。",
+        "target": "関係",
+        "options": [
+          "かんけ",
+          "かんけい",
+          "かんげい",
+          "かんかい"
+        ],
+        "answer": 1,
+        "explanation_en": "関係 is read かんけい (சம்பந்தம், relation), with a long けい. かんけ is too short, and かんげい is 歓迎 (welcome).",
+        "explanation_ta": "関係 = かんけい (சம்பந்தம், relation), நீண்ட けい உடன். かんけ குறுகியது. かんげい என்பது 歓迎 (வரவேற்பு)."
+      },
+      {
+        "id": "KU10-q06",
+        "type": "kanji_reading",
+        "sentence": "＿最近＿、あまり ねて いません。",
+        "target": "最近",
+        "options": [
+          "さいぎん",
+          "さきん",
+          "もっときん",
+          "さいきん"
+        ],
+        "answer": 3,
+        "explanation_en": "最近 is read さいきん (சமீபத்தில், recently). さいぎん wrongly voices き, and さきん drops the い.",
+        "explanation_ta": "最近 = さいきん (சமீபத்தில், recently). さいぎん-இல் தவறான ゛. さきん-இல் い விடுபட்டுள்ளது."
+      },
+      {
+        "id": "KU10-q07",
+        "type": "kanji_reading",
+        "sentence": "レストランを 七時に ＿予約＿しました。",
+        "target": "予約",
+        "options": [
+          "よやく",
+          "ようやく",
+          "よやっく",
+          "よいやく"
+        ],
+        "answer": 0,
+        "explanation_en": "予約 is read よやく (முன்பதிவு, reservation), with a short よ. ようやく (finally) is a different word, and よやっく adds a wrong small っ.",
+        "explanation_ta": "予約 = よやく (முன்பதிவு, reservation), குறுகிய よ. ようやく (கடைசியில்) வேறு சொல். よやっく-இல் தவறான சிறிய っ."
+      },
+      {
+        "id": "KU10-q08",
+        "type": "kanji_reading",
+        "sentence": "日本語の ＿文法＿は むずかしいです。",
+        "target": "文法",
+        "options": [
+          "ぶんほう",
+          "もんぽう",
+          "ぶんぽう",
+          "ぶんぼう"
+        ],
+        "answer": 2,
+        "explanation_en": "文法 is read ぶんぽう (இலக்கணம், grammar): after ん, ほう becomes ぽう. ぶんほう keeps the plain ほ, and ぶんぼう uses ぼ instead of ぽ.",
+        "explanation_ta": "文法 = ぶんぽう (இலக்கணம், grammar): ん-க்குப் பின் ほう என்பது ぽう ஆகும். ぶんほう-இல் ほ மாறவில்லை. ぶんぼう-இல் ぽ-க்குப் பதில் ぼ."
+      },
+      {
+        "id": "KU10-q09",
+        "type": "kanji_reading",
+        "sentence": "かぜが ＿治ったら＿、また 学校へ 行きます。",
+        "target": "治ったら",
+        "options": [
+          "なほったら",
+          "おさったら",
+          "じったら",
+          "なおったら"
+        ],
+        "answer": 3,
+        "explanation_en": "治ったら is read なおったら (குணமானால், when it gets better). なほ is an old spelling, and おさ comes from 治める (to govern).",
+        "explanation_ta": "治ったら = なおったら (குணமானால், when it gets better). なほ பழைய எழுத்துமுறை. おさ என்பது 治める (ஆட்சி செய்) என்பதிலிருந்து."
+      },
+      {
+        "id": "KU10-q10",
+        "type": "kanji_reading",
+        "sentence": "これは とても ＿重要＿な 話です。",
+        "target": "重要",
+        "options": [
+          "じゅよう",
+          "じゅうよう",
+          "じょうよう",
+          "おもよう"
+        ],
+        "answer": 1,
+        "explanation_en": "重要 is read じゅうよう (முக்கியமான, important), with a long じゅう. じゅよう is too short, and おも is the kun reading of 重.",
+        "explanation_ta": "重要 = じゅうよう (முக்கியமான, important), நீண்ட じゅう. じゅよう குறுகியது. おも என்பது 重-இன் kun வாசிப்பு."
+      },
+      {
+        "id": "KU10-q11",
+        "type": "orthography",
+        "sentence": "古い 本を ＿はこ＿に 入れました。",
+        "target": "はこ",
+        "options": [
+          "箱",
+          "相",
+          "答",
+          "想"
+        ],
+        "answer": 0,
+        "explanation_en": "はこ is 箱 (பெட்டி, box): bamboo ⺮ on top of 相. 相 alone has no bamboo, and 答 has bamboo but a different bottom.",
+        "explanation_ta": "はこ = 箱 (பெட்டி, box): 相 மேல் மூங்கில் ⺮. தனி 相-இல் மூங்கில் இல்லை. 答-இல் மூங்கில் உண்டு; கீழ்ப் பகுதி வேறு."
+      },
+      {
+        "id": "KU10-q12",
+        "type": "orthography",
+        "sentence": "すきな 色を ＿えらんで＿ ください。",
+        "target": "えらんで",
+        "options": [
+          "送んで",
+          "選んで",
+          "運んで",
+          "進んで"
+        ],
+        "answer": 1,
+        "explanation_en": "えらんで is 選んで (தேர்ந்தெடுத்து, choose). 運んで (carry), 進んで (go forward) and 送 also sit on the road 辶, but they are other words.",
+        "explanation_ta": "えらんで = 選んで (தேர்ந்தெடுத்து, choose). 運んで (சுமந்து), 進んで (முன்னேறி), 送 — இவையும் 辶 சாலை மேல் உள்ளவை; ஆனால் வேறு சொற்கள்."
+      },
+      {
+        "id": "KU10-q13",
+        "type": "orthography",
+        "sentence": "さいごまで あきらめないで ＿たたかいます＿。",
+        "target": "たたかいます",
+        "options": [
+          "打かいます",
+          "戦かいます",
+          "戦います",
+          "単います"
+        ],
+        "answer": 2,
+        "explanation_en": "たたかいます is written 戦います (போராடுவேன், fight), with only い as okurigana. 戦かいます has too much okurigana, and 打 means hit.",
+        "explanation_ta": "たたかいます = 戦います (போராடுவேன், fight); ஒகுரிகானா い மட்டும். 戦かいます-இல் ஒகுரிகானா அதிகம். 打 = அடி."
+      },
+      {
+        "id": "KU10-q14",
+        "type": "orthography",
+        "sentence": "きょうは ＿さむい＿ですね。",
+        "target": "さむい",
+        "options": [
+          "冬い",
+          "安い",
+          "実い",
+          "寒い"
+        ],
+        "answer": 3,
+        "explanation_en": "さむい is 寒い (குளிரான, cold): a roof 宀 with ice drops at the bottom. 冬 (winter) has the ice drops but no roof, and 安 and 実 have the roof but no ice.",
+        "explanation_ta": "さむい = 寒い (குளிரான, cold): 宀 கூரை, அடியில் பனித் துளிகள். 冬 (குளிர்காலம்) பனித் துளி உண்டு, கூரை இல்லை. 安, 実-இல் கூரை உண்டு, பனி இல்லை."
+      },
+      {
+        "id": "KU10-q15",
+        "type": "orthography",
+        "sentence": "この かばんは ＿やく＿ 五千円でした。",
+        "target": "やく",
+        "options": [
+          "約",
+          "役",
+          "薬",
+          "終"
+        ],
+        "answer": 0,
+        "explanation_en": "やく (about) is 約 (சுமார், about). 役 (role) and 薬 (medicine) have the same sound, and 終 has the same thread 糸 but means end.",
+        "explanation_ta": "やく (சுமார்) = 約 (சுமார், about). 役 (பங்கு), 薬 (மருந்து) அதே ஒலி கொண்டவை. 終-இலும் அதே நூல் 糸 உண்டு; பொருள் முடிவு."
+      },
+      {
+        "id": "KU10-q16",
+        "type": "orthography",
+        "sentence": "この 町の ＿じゅうみん＿は やさしいです。",
+        "target": "じゅうみん",
+        "options": [
+          "住氏",
+          "主民",
+          "住民",
+          "重民"
+        ],
+        "answer": 2,
+        "explanation_en": "じゅうみん is 住民 (குடியிருப்போர், residents): 住 (live) + 民 (people). 氏 looks like 民 but has no box on top, and 主 and 重 have the wrong meaning.",
+        "explanation_ta": "じゅうみん = 住民 (குடியிருப்போர், residents): 住 (வசி) + 民 (மக்கள்). 氏 பார்க்க 民 போல இருக்கும்; ஆனால் மேலே பெட்டி இல்லை. 主, 重 பொருள் பொருந்தாது."
+      }
+    ]
+  }
+}

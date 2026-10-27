@@ -1,0 +1,682 @@
+{
+ "lesson": 34,
+ "title": {
+  "ja": "日本といえば",
+  "ta": "ஜப்பான் என்றாலே",
+  "en": "Speaking of Japan"
+ },
+ "intro_en": "This lesson is about Japanese culture and traditions: festivals, temples, tea and old arts. You learn to bring up a topic with \"speaking of …\" (〜といえば). You learn to give a reason in a clear, teacher-like way with 〜かというと. You learn to put your feeling first, like \"to my surprise …\" (驚いたことに). Last, you learn \"it’s true that …, but …\" (〜ことは〜が).",
+ "intro_ta": "இந்தப் பாடம் ஜப்பானிய கலாச்சாரம், பாரம்பரியம் பற்றியது: திருவிழாக்கள், கோயில்கள், தேநீர்ச் சடங்கு, பழங்கலைகள். ஒரு தலைப்பைத் தொடங்க 'X என்றாலே' (〜といえば) என்று சொல்லக் கற்போம். 'ஏன் என்றால்…' என்று ஆசிரியர் போலக் காரணம் விளக்க 〜かというと பயன்படுத்துவோம். 'ஆச்சரியமாக…', 'வருத்தமாக…' என்று முதலிலேயே உணர்வைச் சொல்ல 〜ことに, 'செய்தேன் தான், ஆனால்…' என்று ஒப்புக்கொண்டு மாற்றுக் கருத்தைச் சேர்க்க 〜ことは〜が ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g34-1",
+   "pattern": "〜と いうと / 〜と いえば / 〜と いったら",
+   "name": {
+    "en": "Speaking of ~ / when it comes to ~",
+    "ta": "~ என்றாலே / ~ என்று சொன்னால்"
+   },
+   "explanation_en": "Use this when a topic comes up and you say the first thing it makes you think of. Put a noun before といえば. 日本といえば、桜 = \"Speaking of Japan, cherry blossoms.\" といえば is the most common in talk. というと is a little more formal. It is also used to check: 「Aというと、Bのことですか」 (\"By A, do you mean B?\"). といったら is casual and strong: \"when it comes to X, it has to be Y\". Compare について (N4): it just means \"about\". といえば jumps to a picture in your mind.",
+   "explanation_ta": "ஒரு தலைப்பு பேச்சில் வந்ததும், அது உடனே நினைவூட்டும் விஷயத்தைச் சொல்ல இந்த வடிவம் பயன்படுகிறது. பெயர்ச்சொல் + といえば: 日本といえば、桜 = 'ஜப்பான் என்றாலே செர்ரி மலர்.' உரையாடலில் அதிகம் வருவது といえば. というと சற்று முறையானது; 'Aというと、Bのことですか' ('A என்று சொன்னால் B-யைத்தானே குறிப்பிடுகிறீர்கள்?') என்று உறுதிப்படுத்தவும் பயன்படும். といったら பேச்சு வழக்கில், அழுத்தமாக 'X என்றால் அது Y தான்!' என்ற உணர்வைத் தரும். N4-இல் கற்ற について வெறும் 'பற்றி' என்பது; といえば மனதில் உடனே தோன்றும் படத்தைச் சொல்கிறது.",
+   "tamil_parallel": "ஜப்பான் என்றாலே ஃபூஜி மலைதான் = 日本といえば、富士山です",
+   "tamil_parallel_en": "ஜப்பான் என்றாலே ஃபூஜி மலைதான் (speaking of Japan, it’s Mt. Fuji) = 日本といえば、富士山です",
+   "formation": "பெயர்ச்சொல் + と いえば、〜\nபெயர்ச்சொல் + と いうと、〜\nபெயர்ச்சொல் + と いったら、〜 (பேச்சு வழக்கு, அழுத்தம்)",
+   "formation_en": "noun + と いえば、〜\nnoun + と いうと、〜\nnoun + と いったら、〜 (casual, strong)",
+   "examples": [
+    {
+     "ja": "日本といえば、富士山と桜ですね。",
+     "reading": "にほんと いえば、ふじさんと さくらですね。",
+     "romaji": "nihon to ieba, fujisan to sakura desu ne.",
+     "ta": "ஜப்பான் என்றாலே ஃபூஜி மலையும் செர்ரி மலர்களும்தான், இல்லையா?",
+     "en": "Speaking of Japan, it’s Mt. Fuji and cherry blossoms, right?"
+    },
+    {
+     "ja": "京都というと、どんなお寺を思い出しますか。",
+     "reading": "きょうとと いうと、どんな おてらを おもいだしますか。",
+     "romaji": "kyouto to iu to, donna otera o omoidashimasu ka.",
+     "ta": "கியோட்டோ என்றால் உங்களுக்கு எந்தக் கோயில் நினைவுக்கு வருகிறது?",
+     "en": "When you think of Kyoto, which temple comes to mind?"
+    },
+    {
+     "ja": "ポンガルといえば、去年は祖母と一緒に甘いポンガルを作りました。",
+     "reading": "ポンガルと いえば、きょねんは そぼと いっしょに あまい ポンガルを つくりました。",
+     "romaji": "pongaru to ieba, kyonen wa sobo to issho ni amai pongaru o tsukurimashita.",
+     "ta": "பொங்கல் என்றதும் நினைவுக்கு வருகிறது — போன வருடம் பாட்டியுடன் சேர்ந்து சர்க்கரைப் பொங்கல் செய்தேன்.",
+     "en": "Speaking of Pongal, last year I made sweet pongal with my grandmother."
+    },
+    {
+     "ja": "夏の祭りといったら、やっぱり花火でしょう。",
+     "reading": "なつの まつりと いったら、やっぱり はなびでしょう。",
+     "romaji": "natsu no matsuri to ittara, yappari hanabi deshou.",
+     "ta": "கோடைத் திருவிழா என்றால் கண்டிப்பாக வாணவேடிக்கைதான்!",
+     "en": "When it comes to summer festivals, it has to be fireworks."
+    },
+    {
+     "ja": "「お正月といえば、何を食べますか。」「おせち料理とお雑煮です。」",
+     "reading": "「おしょうがつと いえば、なにを たべますか。」「おせちりょうりと おぞうにです。」",
+     "romaji": "\"oshougatsu to ieba, nani o tabemasu ka.\" \"osechiryouri to ozouni desu.\"",
+     "ta": "\"புத்தாண்டு என்றால் என்ன சாப்பிடுவீர்கள்?\" \"ஓசெச்சி உணவும் ஓசோனி சூப்பும்.\"",
+     "en": "\"What do you eat at New Year?\" \"Osechi dishes and ozoni soup.\""
+    },
+    {
+     "ja": "「禅というと、座禅のことですか。」「ええ、そうです。」",
+     "reading": "「ぜんと いうと、ざぜんの ことですか。」「ええ、そうです。」",
+     "romaji": "\"zen to iu to, zazen no koto desu ka.\" \"ee, sou desu.\"",
+     "ta": "\"ஜென் என்று சொன்னால், அமர்ந்து செய்யும் தியானத்தைத்தானே சொல்கிறீர்கள்?\" \"ஆமாம்.\"",
+     "en": "\"By Zen, do you mean sitting meditation?\" \"Yes, that’s right.\""
+    }
+   ],
+   "pitfalls_en": "Don’t use といえば just to mean \"about\": 宗教といえば話しましょう is wrong; say 宗教について話しましょう. After といえば you say what comes to mind, not a request.",
+   "pitfalls_ta": "'பற்றி' என்ற பொருளுக்கு といえば வராது: 宗教といえば話しましょう தவறு; 宗教について話しましょう சரி. といえば-க்குப் பின் மனதில் தோன்றும் விஷயத்தைச் சொல்ல வேண்டும்; கோரிக்கை அல்ல."
+  },
+  {
+   "id": "g34-2",
+   "pattern": "〜か と いうと",
+   "name": {
+    "en": "If you ask why / whether ~, …",
+    "ta": "ஏன் ~ என்றால் / ~ ஆ என்றால்"
+   },
+   "explanation_en": "Use this to raise a question yourself and then answer it. It sounds like a teacher explaining. Put a question in plain form before かというと. Often a question word comes first: なぜ, どうして, 何を. The answer usually ends with からです or ためです. With a yes/no question, it often means \"not really\": 〜かというと、そうではない (\"Is it true that …? Not really.\"). For nouns and な-words, drop だ: 好きかというと.",
+   "explanation_ta": "நீங்களே ஒரு கேள்வியை எழுப்பி, உடனே பதில் சொல்ல இந்த வடிவம் உதவுகிறது; ஆசிரியர் விளக்குவது போல ஒலிக்கும். சாதாரண வடிவக் கேள்வி + かというと. பெரும்பாலும் なぜ, どうして, 何を போன்ற கேள்விச் சொல் முன்னால் வரும்; பதில் 〜からです / 〜ためです என்று முடியும். ஆம்/இல்லைக் கேள்வியுடன் வந்தால் பெரும்பாலும் 'அப்படி இல்லை' என்ற பொருள்: 〜かというと、そうではない ('…ஆ என்றால், அப்படி இல்லை'). பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ வராது: 好きかというと. தமிழில் 'ஏன் என்றால்…' என்று சொல்வதைப் போன்றதே இது.",
+   "tamil_parallel": "நான் ஏன் ஜப்பானிய மொழி படிக்கிறேன் என்றால், அனிமே பிடிக்கும் என்பதால் = なぜ日本語を勉強しているかというと、アニメが好きだからです",
+   "tamil_parallel_en": "நான் ஏன் ஜப்பானிய மொழி படிக்கிறேன் என்றால் (if you ask why I study Japanese), அனிமே பிடிக்கும் என்பதால் (it’s because I like anime) = なぜ日本語を勉強しているかというと、アニメが好きだからです",
+   "formation": "(なぜ / どうして / 何 …) + சாதாரண வடிவம் + か と いうと、〜からだ / 〜ためだ\nபெயர்ச்சொல் / な-பெயரடை (だ இல்லாமல்) + か と いうと\n〜か と いうと、そうでは ない (அப்படி இல்லை)",
+   "formation_en": "(なぜ / どうして / 何 …) + plain form + か と いうと、〜からだ / 〜ためだ\nnoun / な-adjective (no だ) + か と いうと\n〜か と いうと、そうでは ない (not really)",
+   "examples": [
+    {
+     "ja": "なぜ日本人は桜が好きかというと、すぐに散ってしまうからです。",
+     "reading": "なぜ にほんじんは さくらが すきかと いうと、すぐに ちって しまう からです。",
+     "romaji": "naze nihonjin wa sakura ga suki ka to iu to, sugu ni chitte shimau kara desu.",
+     "ta": "ஜப்பானியர்களுக்கு ஏன் செர்ரி மலர் பிடிக்கும் என்றால், அது சீக்கிரம் உதிர்ந்துவிடுவதால்தான்.",
+     "en": "Why do Japanese people love cherry blossoms? Because they fall so quickly."
+    },
+    {
+     "ja": "どうして節分に豆をまくかというと、悪い鬼を追い出すためです。",
+     "reading": "どうして せつぶんに まめを まくかと いうと、わるい おにを おいだす ためです。",
+     "romaji": "doushite setsubun ni mame o maku ka to iu to, warui oni o oidasu tame desu.",
+     "ta": "செட்சுபுன் அன்று ஏன் பீன்ஸ் தூவுகிறார்கள் என்றால், தீய பேய்களை விரட்டுவதற்காக.",
+     "en": "Why do people throw beans on Setsubun? To chase out bad demons."
+    },
+    {
+     "ja": "私がなぜ日本語を勉強しているかというと、日本のアニメが大好きだからです。",
+     "reading": "わたしが なぜ にほんごを べんきょう して いるかと いうと、にほんの アニメが だいすきだ からです。",
+     "romaji": "watashi ga naze nihongo o benkyou shite iru ka to iu to, nihon no anime ga daisuki da kara desu.",
+     "ta": "நான் ஏன் ஜப்பானிய மொழி படிக்கிறேன் என்றால், எனக்கு ஜப்பானிய அனிமே மிகவும் பிடிக்கும் என்பதால்தான்.",
+     "en": "Why am I studying Japanese? Because I love Japanese anime."
+    },
+    {
+     "ja": "お正月に何をするかというと、家族で神社へ行って、お雑煮を食べます。",
+     "reading": "おしょうがつに なにを するかと いうと、かぞくで じんじゃへ いって、おぞうにを たべます。",
+     "romaji": "oshougatsu ni nani o suru ka to iu to, kazoku de jinja e itte, ozouni o tabemasu.",
+     "ta": "புத்தாண்டில் என்ன செய்வோம் என்றால், குடும்பத்தோடு ஆலயத்துக்குச் சென்று ஓசோனி சாப்பிடுவோம்.",
+     "en": "What do we do at New Year? We go to a shrine as a family and eat ozoni."
+    },
+    {
+     "ja": "日本人がみんな着物を着られるかというと、そうではありません。",
+     "reading": "にほんじんが みんな きものを きられるかと いうと、そうでは ありません。",
+     "romaji": "nihonjin ga minna kimono o kirareru ka to iu to, sou de wa arimasen.",
+     "ta": "ஜப்பானியர் எல்லோருக்கும் கிமோனோ அணியத் தெரியுமா என்றால், அப்படி இல்லை.",
+     "en": "Can every Japanese person put on a kimono? Not really."
+    },
+    {
+     "ja": "高い物がいい物かというと、必ずしもそうとは限らない。",
+     "reading": "たかい ものが いい ものかと いうと、かならずしも そうとは かぎらない。",
+     "romaji": "takai mono ga ii mono ka to iu to, kanarazushimo sou to wa kagiranai.",
+     "ta": "விலை உயர்ந்தது எல்லாம் நல்லதா என்றால், எப்போதும் அப்படி இருக்கும் என்று சொல்ல முடியாது.",
+     "en": "Is an expensive thing always a good thing? Not necessarily."
+    }
+   ],
+   "pitfalls_en": "Keep the question part in plain form: 好きですかというと is wrong; say 好きかというと. Also don’t forget か: なぜ桜が好きというと is wrong.",
+   "pitfalls_ta": "கேள்விப் பகுதி சாதாரண வடிவில் இருக்க வேண்டும்: 好きですかというと தவறு; 好きかというと சரி. か-வை விடக்கூடாது: なぜ桜が好きというと தவறு."
+  },
+  {
+   "id": "g34-3",
+   "pattern": "Adj / V-た ことに",
+   "name": {
+    "en": "To my ~ (surprise, joy, regret)",
+    "ta": "~ ஆக (ஆச்சரியமாக, மகிழ்ச்சியாக)"
+   },
+   "explanation_en": "Put your feeling first, then tell the fact. 驚いたことに = \"to my surprise\". うれしいことに = \"happily, to my joy\". 残念なことに = \"sadly\". Use only feeling words: うれしい, 残念, 不思議, 困った, 驚いた, ありがたい. It sounds a bit written or like a story. The second part is a fact, not a wish or a request.",
+   "explanation_ta": "முதலில் உங்கள் உணர்வைச் சொல்லி, பின் நடந்த உண்மையைச் சொல்லும் வடிவம். 驚いたことに = 'ஆச்சரியமாக', うれしいことに = 'மகிழ்ச்சிக்குரிய விஷயம்', 残念なことに = 'வருத்தத்துக்குரிய விஷயம்'. உணர்வைக் காட்டும் சொற்களுடன் மட்டுமே வரும்: うれしい, 残念, 不思議, 困った, 驚いた, ありがたい. எழுத்து நடை அல்லது கதை சொல்லும் நடை போல ஒலிக்கும். பின்பகுதி நடந்த உண்மையாக இருக்க வேண்டும்; விருப்பமோ கோரிக்கையோ வராது. தமிழில் 'ஆச்சரியம் என்னவென்றால்…' என்று சொல்வதைப் போன்றது.",
+   "tamil_parallel": "ஆச்சரியம் என்னவென்றால், அவர் கோட்டோ வாசித்தார் = 驚いたことに、彼は琴を弾いた",
+   "tamil_parallel_en": "ஆச்சரியம் என்னவென்றால் (to my surprise), அவர் கோட்டோ வாசித்தார் (he played the koto) = 驚いたことに、彼は琴を弾いた",
+   "formation": "い-பெயரடை + ことに (うれしいことに)\nな-பெயரடை + な + ことに (残念なことに)\nவினை た-வடிவம் + ことに (驚いたことに / 困ったことに)",
+   "formation_en": "い-adjective + ことに (うれしいことに)\nな-adjective + な + ことに (残念なことに)\nverb た-form + ことに (驚いたことに / 困ったことに)",
+   "examples": [
+    {
+     "ja": "うれしいことに、祭りの日は晴れました。",
+     "reading": "うれしい ことに、まつりの ひは はれました。",
+     "romaji": "ureshii koto ni, matsuri no hi wa haremashita.",
+     "ta": "மகிழ்ச்சிக்குரிய விஷயம், திருவிழா அன்று வானம் தெளிவாக இருந்தது.",
+     "en": "To my joy, it was sunny on the day of the festival."
+    },
+    {
+     "ja": "驚いたことに、その外国人は琴を上手に弾いた。",
+     "reading": "おどろいた ことに、その がいこくじんは ことを じょうずに ひいた。",
+     "romaji": "odoroita koto ni, sono gaikokujin wa koto o jouzu ni hiita.",
+     "ta": "ஆச்சரியமாக, அந்த வெளிநாட்டவர் கோட்டோவை மிக அழகாக வாசித்தார்.",
+     "en": "To my surprise, that foreigner played the koto very well."
+    },
+    {
+     "ja": "残念なことに、この古いお寺は火事で焼けてしまいました。",
+     "reading": "ざんねんな ことに、この ふるい おてらは かじで やけて しまいました。",
+     "romaji": "zannen na koto ni, kono furui otera wa kaji de yakete shimaimashita.",
+     "ta": "வருத்தத்துக்குரிய விஷயம், இந்தப் பழைய கோயில் தீ விபத்தில் எரிந்துபோனது.",
+     "en": "Sadly, this old temple burned down in a fire."
+    },
+    {
+     "ja": "困ったことに、祭りの前の日に財布をなくしてしまった。",
+     "reading": "こまった ことに、まつりの まえの ひに さいふを なくして しまった。",
+     "romaji": "komatta koto ni, matsuri no mae no hi ni saifu o nakushite shimatta.",
+     "ta": "சிக்கல் என்னவென்றால், திருவிழாவுக்கு முந்தைய நாள் பணப்பையைத் தொலைத்துவிட்டேன்.",
+     "en": "To my dismay, I lost my wallet the day before the festival."
+    },
+    {
+     "ja": "不思議なことに、この鐘は誰も触らないのに鳴ることがあるそうだ。",
+     "reading": "ふしぎな ことに、この かねは だれも さわらないのに なる ことが ある そうだ。",
+     "romaji": "fushigi na koto ni, kono kane wa dare mo sawaranai noni naru koto ga aru sou da.",
+     "ta": "விசித்திரம் என்னவென்றால், யாரும் தொடாமலேயே இந்த மணி சில நேரம் ஒலிக்குமாம்.",
+     "en": "Strangely, they say this bell sometimes rings when no one touches it."
+    },
+    {
+     "ja": "ありがたいことに、近所の人が着物の着方を教えてくれました。",
+     "reading": "ありがたい ことに、きんじょの ひとが きものの きかたを おしえて くれました。",
+     "romaji": "arigatai koto ni, kinjo no hito ga kimono no kikata o oshiete kuremashita.",
+     "ta": "நன்றிக்குரிய விஷயம், பக்கத்து வீட்டுக்காரர் கிமோனோ அணியும் முறையைக் கற்றுத் தந்தார்.",
+     "en": "Thankfully, a neighbor taught me how to wear a kimono."
+    }
+   ],
+   "pitfalls_en": "Use the right link: 残念なことに (with な), not 残念ことに or 残念のことに. Don’t end with a wish or request: うれしいことに、来てください is wrong.",
+   "pitfalls_ta": "சரியான இணைப்பு: 残念なことに (な உடன்); 残念ことに, 残念のことに தவறு. பின்பகுதியில் விருப்பமோ கோரிக்கையோ வராது: うれしいことに、来てください தவறு."
+  },
+  {
+   "id": "g34-4",
+   "pattern": "〜ことは 〜が",
+   "name": {
+    "en": "It’s true that ~, but ~",
+    "ta": "~ தான், ஆனால் ~"
+   },
+   "explanation_en": "Say the same word twice: 行くことは行くが… = \"I will go, yes, but …\". You agree that something is true. Then you add a limit or a problem. It is like Tamil \"-தான்\": \"போவேன் தான், ஆனால்…\". Repeat the same verb or adjective. In polite speech, only the second one takes です/ます: 行くことは行きますが. In casual talk, けど is common in place of が.",
+   "explanation_ta": "ஒரே சொல்லை இருமுறை சொல்லும் வடிவம்: 行くことは行くが… = 'போவேன் தான், ஆனால்…'. ஒரு விஷயம் உண்மை என்று ஒப்புக்கொண்டு, அதற்கு ஒரு வரம்பையோ பிரச்சினையையோ சேர்க்கிறோம். தமிழின் '-தான்' அழுத்தத்துக்கு நேர் இணையானது: 'படித்தேன் தான், ஆனால் புரியவில்லை' = 読んだことは読んだが、わからなかった. ஒரே வினையோ பெயரடையோ இருமுறை வர வேண்டும். மரியாதை நடையில் இரண்டாவது சொல் மட்டும் です/ます எடுக்கும்: 行くことは行きますが. பேச்சு வழக்கில் が-க்குப் பதில் けど அதிகம் வரும்.",
+   "tamil_parallel": "படித்தேன் தான், ஆனால் புரியவில்லை = 読んだことは読んだが、わからなかった",
+   "tamil_parallel_en": "படித்தேன் தான் (I did read it), ஆனால் புரியவில்லை (but I didn’t understand) = 読んだことは読んだが、わからなかった",
+   "formation": "வினை (அகராதி / た-வடிவம்) + ことは + அதே வினை + が\nい-பெயரடை + ことは + அதே பெயரடை + が\nな-பெயரடை + な + ことは + அதே சொல் + だ + が\n(மரியாதை: 〜ことは 〜ますが / 〜ですが)",
+   "formation_en": "verb (dictionary / た-form) + ことは + same verb + が\nい-adjective + ことは + same adjective + が\nな-adjective + な + ことは + same word + だ + が\n(polite: 〜ことは 〜ますが / 〜ですが)",
+   "examples": [
+    {
+     "ja": "着物は持っていることは持っているが、一人では着られない。",
+     "reading": "きものは もって いる ことは もって いるが、ひとりでは きられない。",
+     "romaji": "kimono wa motte iru koto wa motte iru ga, hitori de wa kirarenai.",
+     "ta": "கிமோனோ என்னிடம் இருக்கிறது தான், ஆனால் தனியாக அணிய முடியாது.",
+     "en": "I do have a kimono, but I can’t put it on by myself."
+    },
+    {
+     "ja": "茶道の本を読んだことは読んだが、よくわからなかった。",
+     "reading": "さどうの ほんを よんだ ことは よんだが、よく わからなかった。",
+     "romaji": "sadou no hon o yonda koto wa yonda ga, yoku wakaranakatta.",
+     "ta": "தேநீர்ச் சடங்கு பற்றிய புத்தகத்தைப் படித்தேன் தான், ஆனால் சரியாகப் புரியவில்லை.",
+     "en": "I did read the book on the tea ceremony, but I didn’t really understand it."
+    },
+    {
+     "ja": "この刀は古いことは古いですが、あまり価値はないそうです。",
+     "reading": "この かたなは ふるい ことは ふるいですが、あまり かちは ない そうです。",
+     "romaji": "kono katana wa furui koto wa furui desu ga, amari kachi wa nai sou desu.",
+     "ta": "இந்த வாள் பழையது தான், ஆனால் அதற்கு அதிக மதிப்பு இல்லையாம்.",
+     "en": "This sword is old, yes, but they say it isn’t worth much."
+    },
+    {
+     "ja": "祭りはにぎやかなことはにぎやかだが、人が多すぎて疲れる。",
+     "reading": "まつりは にぎやかな ことは にぎやかだが、ひとが おおすぎて つかれる。",
+     "romaji": "matsuri wa nigiyaka na koto wa nigiyaka da ga, hito ga oosugite tsukareru.",
+     "ta": "திருவிழா கலகலப்பாகத் தான் இருக்கிறது, ஆனால் கூட்டம் அதிகமாக இருப்பதால் களைப்பாகிறது.",
+     "en": "The festival is lively, sure, but there are too many people and it’s tiring."
+    },
+    {
+     "ja": "「お寺の座禅、行く？」「行くことは行くけど、少し遅れるよ。」",
+     "reading": "「おてらの ざぜん、いく？」「いく ことは いくけど、すこし おくれるよ。」",
+     "romaji": "\"otera no zazen, iku?\" \"iku koto wa iku kedo, sukoshi okureru yo.\"",
+     "ta": "\"கோயில் தியானத்துக்கு வருகிறாயா?\" \"வருவேன் தான், ஆனால் கொஞ்சம் தாமதமாகும்.\"",
+     "en": "\"Are you going to the Zen meditation at the temple?\" \"I’m going, but I’ll be a bit late.\""
+    },
+    {
+     "ja": "琴は弾けることは弾けますが、上手ではありません。",
+     "reading": "ことは ひける ことは ひけますが、じょうずでは ありません。",
+     "romaji": "koto wa hikeru koto wa hikemasu ga, jouzu de wa arimasen.",
+     "ta": "கோட்டோ வாசிக்கத் தெரியும் தான், ஆனால் நன்றாக வாசிக்க மாட்டேன்.",
+     "en": "I can play the koto, but I’m not good at it."
+    }
+   ],
+   "pitfalls_en": "Use the same word both times: 行くことは来るが is wrong. Don’t add ます to the first one: 行きますことは行きますが is wrong; say 行くことは行きますが.",
+   "pitfalls_ta": "இரண்டு இடத்திலும் ஒரே சொல் வர வேண்டும்: 行くことは来るが தவறு. முதல் சொல்லுக்கு ます சேர்க்கக்கூடாது: 行きますことは行きますが தவறு; 行くことは行きますが சரி."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0093",
+  "n3-v-0187",
+  "n3-v-0245",
+  "n3-v-0409",
+  "n3-v-0425",
+  "n3-v-0426",
+  "n3-v-0429",
+  "n3-v-0458",
+  "n3-v-0528",
+  "n3-v-0619",
+  "n3-v-0637",
+  "n3-v-0643",
+  "n3-v-0806",
+  "n3-v-0811",
+  "n3-v-0933",
+  "n3-v-0935",
+  "n3-v-0979",
+  "n3-v-0987",
+  "n3-v-1075",
+  "n3-v-1206",
+  "n3-v-1207",
+  "n3-v-1256",
+  "n3-v-1352",
+  "n3-v-1422",
+  "n3-v-1470",
+  "n3-v-1516",
+  "n3-v-1569",
+  "n3-v-1585",
+  "n3-v-1663",
+  "n3-v-1686",
+  "n3-v-1687",
+  "n3-v-1763",
+  "n3-v-1768",
+  "n3-v-1892",
+  "n3-v-1912",
+  "n3-v-1942",
+  "n3-v-1947",
+  "n3-v-1949",
+  "n3-v-1992",
+  "n3-v-2008",
+  "n3-v-2043",
+  "n3-v-2044",
+  "n3-v-2045",
+  "n3-v-2052",
+  "n3-v-2053",
+  "n3-v-2065",
+  "n3-v-2108",
+  "n3-v-2113"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L34-q01",
+    "type": "kanji_reading",
+    "sentence": "日本の ＿伝統＿を 若い 人にも 伝えたい。",
+    "target": "伝統",
+    "options": [
+     "てんとう",
+     "でんとう",
+     "でんどう",
+     "でんと"
+    ],
+    "answer": 1,
+    "explanation_ta": "伝統 = でんとう (பாரம்பரியம்). 伝 இங்கு でん (伝える-வில் வரும் அதே கான்ஜி), 統 = とう. でんどう என்பது வேறு சொல் (電動 = மின்சாரத்தில் இயங்கும்).",
+    "explanation_en": "伝統 is read でんとう (tradition). 伝 is でん, 統 is とう. でんどう is a different word (電動, electric)."
+   },
+   {
+    "id": "L34-q02",
+    "type": "kanji_reading",
+    "sentence": "この 祭りの ＿起源＿は 千年 以上 前だと 言われて います。",
+    "target": "起源",
+    "options": [
+     "きけん",
+     "きいげん",
+     "きげん",
+     "おこげん"
+    ],
+    "answer": 2,
+    "explanation_ta": "起源 = きげん (தோற்றம்). きけん என்பது 危険 (ஆபத்து) — ஒலி ஒத்தாலும் வேறு சொல். 起 இங்கு き, 起きる-வின் おき அல்ல.",
+    "explanation_en": "起源 is read きげん (origin). きけん is 危険 (danger), a different word. 起 is read き here, not おき."
+   },
+   {
+    "id": "L34-q03",
+    "type": "kanji_reading",
+    "sentence": "朝早く、お寺の 前で 若い ＿僧＿が 掃除を して いました。",
+    "target": "僧",
+    "options": [
+     "そう",
+     "ぞう",
+     "しょう",
+     "そお"
+    ],
+    "answer": 0,
+    "explanation_ta": "僧 = そう (பௌத்தத் துறவி). ぞう என்பது 像 (சிலை) — கடைசிப் பகுதி போல் தெரிந்தாலும் வேறு கான்ஜி; ஒலியும் வேறு.",
+    "explanation_en": "僧 is read そう (monk). ぞう is 像 (statue). They look a bit alike, but the kanji and sound are different."
+   },
+   {
+    "id": "L34-q04",
+    "type": "orthography",
+    "sentence": "冬は 家族で ＿なべ＿を 囲んで 食べます。",
+    "target": "なべ",
+    "options": [
+     "釜",
+     "鉢",
+     "銅",
+     "鍋"
+    ],
+    "answer": 3,
+    "explanation_ta": "なべ = 鍋 (சமையல் பானை). 釜 = かま (சோறு வடிக்கும் பானை), 鉢 = はち (கிண்ணம்/தொட்டி), 銅 = どう (செம்பு). எல்லாவற்றிலும் 金 பகுதி இருப்பதால் கவனம்.",
+    "explanation_en": "なべ is 鍋 (pot). 釜 is かま (rice pot), 鉢 is はち (bowl), 銅 is どう (copper). All have the metal part 金, so look carefully."
+   },
+   {
+    "id": "L34-q05",
+    "type": "orthography",
+    "sentence": "書道の 授業で、＿ふで＿を 使って 字を 書きました。",
+    "target": "ふで",
+    "options": [
+     "筒",
+     "筆",
+     "箸",
+     "笛"
+    ],
+    "answer": 1,
+    "explanation_ta": "ふで = 筆 (எழுதும் தூரிகை). 筒 = つつ (குழாய்), 箸 = はし (சாப்ஸ்டிக்), 笛 = ふえ (புல்லாங்குழல்). எல்லாவற்றிலும் மூங்கில் (竹) பகுதி உள்ளது.",
+    "explanation_en": "ふで is 筆 (brush). 筒 is つつ (tube), 箸 is はし (chopsticks), 笛 is ふえ (flute). All have the bamboo part 竹."
+   },
+   {
+    "id": "L34-q06",
+    "type": "vocab_context",
+    "sentence": "結婚の （　　）に、友達から きれいな 食器を もらいました。",
+    "options": [
+     "祭り",
+     "伝統",
+     "お祝い",
+     "信仰"
+    ],
+    "answer": 2,
+    "explanation_ta": "திருமணத்துக்குக் கிடைக்கும் வாழ்த்துப் பரிசு = 結婚のお祝い. 祭り = திருவிழா, 伝統 = பாரம்பரியம், 信仰 = மத நம்பிக்கை; இவை பரிசுடன் பொருந்தாது.",
+    "explanation_en": "A wedding gift is 結婚のお祝い. 祭り = festival, 伝統 = tradition, 信仰 = faith. They don’t fit with a gift."
+   },
+   {
+    "id": "L34-q07",
+    "type": "vocab_context",
+    "sentence": "この 村には、昔から 不思議な 話が （　　）います。",
+    "options": [
+     "伝わって",
+     "祝って",
+     "挿して",
+     "保存して"
+    ],
+    "answer": 0,
+    "explanation_ta": "கதைகள் தலைமுறை தலைமுறையாக வருவது = 話が伝わっている. 保存して いる என்றால் 'を' வேண்டும் (話を保存している), அதுவும் 'பாதுகாத்து வைத்தல்' என்ற வேறு பொருள்.",
+    "explanation_en": "Stories handed down over time = 話が伝わっている. 保存している needs を and means \"keep safely\", not \"handed down\"."
+   },
+   {
+    "id": "L34-q08",
+    "type": "vocab_context",
+    "sentence": "「猿も 木から 落ちる」と いう （　　）を 知って いますか。",
+    "options": [
+     "宗教",
+     "文明",
+     "起源",
+     "諺"
+    ],
+    "answer": 3,
+    "explanation_ta": "'குரங்கும் மரத்திலிருந்து விழும்' என்பது ஒரு பழமொழி = 諺. 宗教 = மதம், 文明 = நாகரிகம், 起源 = தோற்றம்.",
+    "explanation_en": "\"Even monkeys fall from trees\" is a proverb: 諺. 宗教 = religion, 文明 = civilization, 起源 = origin."
+   },
+   {
+    "id": "L34-q09",
+    "type": "vocab_context",
+    "sentence": "玄関の 花瓶に 桜の 枝を （　　）。",
+    "options": [
+     "伝わりました",
+     "挿しました",
+     "祝いました",
+     "鳴りました"
+    ],
+    "answer": 1,
+    "explanation_ta": "பூச்சாடியில் கிளையைச் செருகி வைப்பது = 枝を挿す. 伝わる, 鳴る ஆகியவை を எடுக்காத வினைகள்; 祝う = கொண்டாடுதல்.",
+    "explanation_en": "Putting a branch in a vase = 枝を挿す. 伝わる and 鳴る don’t take を. 祝う means \"to celebrate\"."
+   },
+   {
+    "id": "L34-q10",
+    "type": "paraphrase",
+    "sentence": "驚いたことに、祖父は 琴が 弾ける。",
+    "options": [
+     "祖父は 琴が 弾けると、前から 知って いた。",
+     "祖父は 琴が 弾けないので、残念だ。",
+     "祖父が 琴を 弾けると 知って、とても びっくりした。",
+     "祖父に 琴を 弾いて ほしいと 思った。"
+    ],
+    "answer": 2,
+    "explanation_ta": "驚いたことに = 'ஆச்சரியமாக' — தாத்தாவுக்குக் கோட்டோ வாசிக்கத் தெரியும் என்று அறிந்து வியந்தேன் = びっくりした. 'முன்பே தெரியும்' என்றால் ஆச்சரியம் இல்லை.",
+    "explanation_en": "驚いたことに = \"to my surprise\": I was amazed to learn Grandpa can play the koto. \"I already knew\" means no surprise."
+   },
+   {
+    "id": "L34-q11",
+    "type": "paraphrase",
+    "sentence": "年の 暮れは いつも 忙しい。",
+    "options": [
+     "年末は いつも 忙しい。",
+     "年の 始まりは いつも 忙しい。",
+     "夏休みは いつも 忙しい。",
+     "毎晩 いつも 忙しい。"
+    ],
+    "answer": 0,
+    "explanation_ta": "年の暮れ = ஆண்டின் இறுதி = 年末. 暮れ-ஐ 'மாலை' என்று நினைத்து 毎晩 தேர்வு செய்யக்கூடாது; 年の始まり அதற்கு எதிர்ப் பொருள்.",
+    "explanation_en": "年の暮れ = the end of the year = 年末. Don’t read 暮れ as \"evening\" and pick 毎晩. 年の始まり is the opposite."
+   },
+   {
+    "id": "L34-q12",
+    "type": "usage",
+    "sentence": "祝う",
+    "options": [
+     "祖父の お葬式を 家族で 祝いました。",
+     "毎朝 お寺へ 行って、仏を 祝います。",
+     "テストに 失敗して、友達に 祝われました。",
+     "みんなで 姉の 合格を 祝いました。"
+    ],
+    "answer": 3,
+    "explanation_ta": "祝う = மகிழ்ச்சியான நிகழ்வைக் கொண்டாடுதல்: 合格を祝う சரி. இறுதிச் சடங்கு, தோல்வி ஆகியவற்றைக் 'கொண்டாட' மாட்டோம். புத்தரை வணங்குவது 拝む, 祝う அல்ல.",
+    "explanation_en": "祝う = to celebrate a happy event: 合格を祝う is right. You don’t celebrate a funeral or a failure. Praying to Buddha is 拝む, not 祝う."
+   },
+   {
+    "id": "L34-q13",
+    "type": "usage",
+    "sentence": "保存",
+    "options": [
+     "パーティーの ために、レストランを 保存しました。",
+     "この 町では、古い 家が 今も きれいに 保存されて います。",
+     "毎日 運動して、体を 保存して います。",
+     "電車の 中で、友達の 席を 保存して おきました。"
+    ],
+    "answer": 1,
+    "explanation_ta": "保存 = பழையதைச் சேதமின்றிப் பாதுகாத்து வைத்தல்: 古い家が保存されている சரி. உணவகத்தை முன்பதிவு செய்வது 予約, இருக்கையைப் பிடித்து வைப்பது 席を取っておく.",
+    "explanation_en": "保存 = to keep something old safe: 古い家が保存されている is right. Booking a restaurant is 予約. Saving a seat is 席を取っておく."
+   },
+   {
+    "id": "L34-q14",
+    "type": "grammar_form",
+    "sentence": "夏の 祭り（　　）、やっぱり 花火ですね。",
+    "options": [
+     "と いえば",
+     "に ついて",
+     "に よると",
+     "なのに"
+    ],
+    "answer": 0,
+    "explanation_ta": "'கோடைத் திருவிழா என்றாலே வாணவேடிக்கைதான்' — நினைவுக்கு வருவதைச் சொல்வது = といえば. について = 'பற்றி' மட்டுமே; によると = தகவலின் மூலம் ('…இன்படி').",
+    "explanation_en": "\"Speaking of summer festivals, it’s fireworks\": といえば. について only means \"about\". によると gives a source (\"according to\")."
+   },
+   {
+    "id": "L34-q15",
+    "type": "grammar_form",
+    "sentence": "なぜ 日本人が 桜を 好む（　　）、すぐに 散って しまう からだ。",
+    "options": [
+     "と いえば",
+     "ことに",
+     "かと いうと",
+     "ことは"
+    ],
+    "answer": 2,
+    "explanation_ta": "なぜ…からだ என்று கேள்வியும் காரணமும் சேர்ந்து வருகின்றன: 'ஏன் … என்றால், … என்பதால்' = かというと. といえば கேள்விக்குப் பின் வராது.",
+    "explanation_en": "なぜ … からだ asks a question and gives the reason: \"Why …? Because …\" = かというと. といえば doesn’t follow a question."
+   },
+   {
+    "id": "L34-q16",
+    "type": "grammar_form",
+    "sentence": "（　　）ことに、祭りの 日は 朝から 雨だった。",
+    "options": [
+     "残念",
+     "残念だ",
+     "残念の",
+     "残念な"
+    ],
+    "answer": 3,
+    "explanation_ta": "な-பெயரடை + な + ことに: 残念なことに. 残念だことに, 残念のことに இரண்டும் தவறு.",
+    "explanation_en": "な-adjective + な + ことに: 残念なことに. 残念だことに and 残念のことに are wrong."
+   },
+   {
+    "id": "L34-q17",
+    "type": "grammar_form",
+    "sentence": "着物は 持って いる（　　）持って いるが、一人では 着られない。",
+    "options": [
+     "ことに",
+     "ことは",
+     "ことか",
+     "ことで"
+    ],
+    "answer": 1,
+    "explanation_ta": "ஒரே வினை இருமுறை வந்து 'இருக்கிறது தான், ஆனால்…' = 〜ことは〜が. ことに உணர்வைக் காட்டும்; ことか 'எவ்வளவு…!' என்ற வியப்பு.",
+    "explanation_en": "The same verb twice, \"I do have it, but …\" = 〜ことは〜が. ことに shows a feeling. ことか means \"how very …!\""
+   },
+   {
+    "id": "L34-q18",
+    "type": "grammar_form",
+    "sentence": "驚いた（　　）、その 外国人は 茶道の 先生だった。",
+    "options": [
+     "ように",
+     "ことは",
+     "ことに",
+     "ものに"
+    ],
+    "answer": 2,
+    "explanation_ta": "'ஆச்சரியமாக, அவர் தேநீர்ச் சடங்கு ஆசிரியர்' — உணர்வு முதலில் = 驚いたことに. ことは-க்குப் பின் அதே சொல் மீண்டும் வர வேண்டும்.",
+    "explanation_en": "\"To my surprise, he was a tea ceremony teacher\" = 驚いたことに. ことは needs the same word again after it."
+   },
+   {
+    "id": "L34-q19",
+    "type": "grammar_form",
+    "sentence": "「あの 映画、おもしろかった？」「おもしろい ことは （　　）けど、ちょっと 長かったよ。」",
+    "options": [
+     "おもしろくて",
+     "おもしろさ",
+     "おもしろく",
+     "おもしろかった"
+    ],
+    "answer": 3,
+    "explanation_ta": "〜ことは-க்குப் பின் அதே பெயரடை முழு வடிவில் வர வேண்டும்: おもしろいことはおもしろかったけど ('சுவாரஸ்யம் தான், ஆனால்'). おもしろくて, おもしろく ஆகியவை முழு வடிவம் அல்ல.",
+    "explanation_en": "After 〜ことは, the same adjective comes again in full form: おもしろいことはおもしろかったけど. おもしろくて and おもしろく are not full forms."
+   },
+   {
+    "id": "L34-q20",
+    "type": "grammar_form",
+    "sentence": "日本人が みんな 茶道を 習うかと いうと、（　　）。",
+    "options": [
+     "そうでは ない",
+     "そうだ からだ",
+     "そうらしい",
+     "そうしたい"
+    ],
+    "answer": 0,
+    "explanation_ta": "ஆம்/இல்லைக் கேள்வி + かというと பெரும்பாலும் 'அப்படி இல்லை' என்று முடியும் = そうではない. மற்றவை கேள்விக்குப் பதிலாகப் பொருந்தவில்லை.",
+    "explanation_en": "A yes/no question + かというと usually ends with \"not really\" = そうではない. The others don’t answer the question."
+   },
+   {
+    "id": "L34-q21",
+    "type": "sentence_order",
+    "before": "",
+    "chunks": [
+     "日本の",
+     "お正月",
+     "と いえば、",
+     "おせち料理"
+    ],
+    "star": 2,
+    "after": "でしょう。",
+    "explanation_ta": "日本の (ஜப்பானின்) → お正月 (புத்தாண்டு) → と いえば、(என்றாலே) → おせち料理 (ஓசெச்சி உணவு) でしょう. ★ = と いえば.",
+    "explanation_en": "日本の → お正月 (Japanese New Year) → と いえば、(speaking of) → おせち料理 でしょう. ★ = と いえば."
+   },
+   {
+    "id": "L34-q22",
+    "type": "sentence_order",
+    "before": "なぜ 節分に",
+    "chunks": [
+     "豆を",
+     "まく",
+     "かと",
+     "いうと、"
+    ],
+    "star": 1,
+    "after": "鬼を 追い出す ためです。",
+    "explanation_ta": "豆を (பீன்ஸை) → まく (தூவுகிறார்கள்) → かと いうと (ஏன் என்றால்) → 鬼を追い出すためです. ★ = まく.",
+    "explanation_en": "豆を → まく (throw beans) → かと いうと (if you ask why) → to chase out demons. ★ = まく."
+   },
+   {
+    "id": "L34-q23",
+    "type": "sentence_order",
+    "before": "この お寺の",
+    "chunks": [
+     "鐘は",
+     "古い",
+     "ことは",
+     "古いですが、"
+    ],
+    "star": 2,
+    "after": "音は 今も きれいです。",
+    "explanation_ta": "鐘は (மணி) → 古い → ことは → 古いですが (பழையது தான், ஆனால்) → ஓசை இன்னும் அழகாக உள்ளது. ★ = ことは.",
+    "explanation_en": "鐘は (the bell) → 古い → ことは → 古いですが (it is old, but) → its sound is still beautiful. ★ = ことは."
+   },
+   {
+    "id": "L34-q24",
+    "type": "passage_cloze",
+    "passage": "私の ふるさと、タミル・ナードゥでは、一月に ポンガルと いう 祭りが あります。ポンガル［1］、甘い ご飯を 思い出す 人が 多いでしょう。なぜ この 祭りを する［2］、米が とれた ことを 太陽の 神に 感謝する ためです。去年、日本人の 友達を 家に 招きました。［3］、友達は 初めてなのに、家の 前に 上手に コーラムを かきました。でも 食事の とき、「甘い ものは 好き［4］好きだけど、甘い ご飯は ちょっと…」と 言って いました。",
+    "blanks": [
+     {
+      "options": [
+       "に ついて",
+       "と いえば",
+       "から",
+       "なのに"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "ことに",
+       "と いえば",
+       "かと いうと",
+       "ことは"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "残念な ことに",
+       "困った ことに",
+       "楽しい ことは",
+       "驚いた ことに"
+      ],
+      "answer": 3
+     },
+     {
+      "options": [
+       "な ことは",
+       "の ことは",
+       "な ことに",
+       "だ ことは"
+      ],
+      "answer": 0
+     }
+    ],
+    "explanation_ta": "[1] 'பொங்கல் என்றாலே சர்க்கரைப் பொங்கல் நினைவுக்கு வரும்' = といえば. [2] なぜ…ためです: 'ஏன் என்றால்' = かというと. [3] முதல் முறையிலேயே அழகாகக் கோலம் போட்டார் — இது ஆச்சரியம் = 驚いたことに; 残念, 困った எதிர்மறை உணர்வுகள். [4] な-பெயரடை: 好きなことは好きだけど = 'பிடிக்கும் தான், ஆனால்'.",
+    "explanation_en": "[1] \"Speaking of Pongal, people think of sweet rice\" = といえば. [2] なぜ … ためです: \"if you ask why\" = かというと. [3] She drew a kolam well on her first try: a surprise = 驚いたことに. 残念 and 困った are bad feelings. [4] With a な-word: 好きなことは好きだけど = \"I do like it, but\"."
+   }
+  ]
+ }
+}

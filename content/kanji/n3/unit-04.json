@@ -1,0 +1,384 @@
+{
+  "unit": 4,
+  "title": { "en": "Decide, change and move forward", "ta": "முடிவு, மாற்றம், முன்னேற்றம்" },
+  "intro": {
+    "en": "In this unit you will learn thirteen kanji for actions and ideas: decide, change, take, receive, move forward, peace and more. These kanji appear in many N3 words, so learn the on readings well. Look for parts you know, like the king (王) inside 全 and the ear (耳) inside 取.",
+    "ta": "இந்தப் பிரிவில் செயல்கள், கருத்துகள் பற்றிய பதின்மூன்று கான்ஜிகளைக் கற்போம்: முடிவு செய்தல், மாற்றம், எடுத்தல், பெறுதல், முன்னேறுதல், அமைதி மற்றும் பல. இவை பல N3 சொற்களில் வருவதால், ஆன் வாசிப்புகளை நன்றாகக் கற்றுக்கொள்ளுங்கள். 全-க்குள் அரசன் (王), 取-க்குள் காது (耳) போன்ற அறிந்த பகுதிகளைத் தேடுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "実",
+      "meaning": { "en": "truth, real; fruit", "ta": "உண்மை; கனி" },
+      "on": ["じつ"],
+      "kun": ["み"],
+      "mnemonic": {
+        "en": "A roof (宀) on top. Under it, a person (人, at the bottom) stacks three (三) shelves full of fruit. Fruit you can hold in your hand is real, not a dream: the truth.",
+        "ta": "மேலே ஒரு கூரை (宀). அதன் கீழ், ஒருவர் (அடியில் 人) மூன்று (三) அடுக்குகளில் கனிகளை அடுக்கி வைக்கிறார். கையில் பிடிக்கக்கூடிய கனி கனவு அல்ல, நிஜம்: உண்மை!"
+      },
+      "note": {
+        "en": "Before さ, け and こ, じつ becomes じっ: 実際 (じっさい), 実験 (じっけん). 実は (じつは) = “to tell the truth…”.",
+        "ta": "さ, け, こ-க்கு முன் じつ → じっ: 実際 (じっさい), 実験 (じっけん). 実は (じつは) = “உண்மையைச் சொன்னால்…”."
+      },
+      "examples": [
+        { "word": "実は", "reading": "じつは", "en": "actually; to tell the truth", "ta": "உண்மையைச் சொன்னால்", "vocabId": "n3-v-0061" },
+        { "word": "事実", "reading": "じじつ", "en": "fact; truth", "ta": "உண்மை (நடந்தது)", "vocabId": "n3-v-0037" },
+        { "word": "実際", "reading": "じっさい", "en": "reality; in fact", "ta": "உண்மையில்; நேரில்", "vocabId": "n3-v-0056" },
+        { "word": "実", "reading": "み", "en": "fruit, nut, seed", "ta": "கனி, விதை" }
+      ]
+    },
+    {
+      "kanji": "決",
+      "meaning": { "en": "decide", "ta": "முடிவு செய்தல்" },
+      "on": ["けつ"],
+      "kun": ["き.める", "き.まる"],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, the river bank breaks open (夬). When the water breaks through, it rushes out and never comes back. Once you decide, there is no going back.",
+        "ta": "இடப்புறம் நீர் (氵). வலப்புறம், ஆற்றின் கரை உடைகிறது (夬). கரையை உடைத்த வெள்ளம் பாய்ந்து ஓடும்; திரும்பி வராது. ஒருமுறை முடிவு செய்தால், பின்வாங்க முடியாது!"
+      },
+      "note": {
+        "en": "決める = you decide something; 決まる = something is decided. 決して (けっして) + a negative = never.",
+        "ta": "決める = (நாம்) ஒன்றை முடிவு செய்வது; 決まる = ஒன்று முடிவாவது. 決して (けっして) + எதிர்மறை = ஒருபோதும் இல்லை."
+      },
+      "examples": [
+        { "word": "決める", "reading": "きめる", "en": "to decide", "ta": "முடிவு செய்ய", "vocabId": "n4-v-180" },
+        { "word": "決まる", "reading": "きまる", "en": "to be decided", "ta": "முடிவாக (தீர்மானமாக)", "vocabId": "n4-v-131" },
+        { "word": "決して", "reading": "けっして", "en": "never (with a negative)", "ta": "ஒருபோதும் (〜 கூடாது)", "vocabId": "n4-v-191" },
+        { "word": "解決", "reading": "かいけつ", "en": "solution; settlement", "ta": "தீர்வு", "vocabId": "n3-v-0555" }
+      ]
+    },
+    {
+      "kanji": "全",
+      "meaning": { "en": "all, whole", "ta": "முழுவதும், எல்லாம்" },
+      "on": ["ぜん"],
+      "kun": ["まった.く", "すべ.て"],
+      "mnemonic": {
+        "en": "A big roof (人) over a king (王). The king keeps everything in his land safe under one roof. Nothing is left outside: all, the whole.",
+        "ta": "ஒரு அரசனின் (王) மேல் பெரிய கூரை (人). அரசன் தன் நாட்டின் எல்லாவற்றையும் ஒரே கூரையின் கீழ் பாதுகாக்கிறான். வெளியே எதுவும் இல்லை: எல்லாம், முழுவதும்!"
+      },
+      "note": {
+        "en": "Don’t mix up 全 (人 + 王) and 金 (gold, money): 金 has two extra dots. 全然 (ぜんぜん) + a negative = not at all.",
+        "ta": "全 (人 + 王), 金 (தங்கம், பணம்) இரண்டையும் குழப்ப வேண்டாம்: 金-க்குக் கூடுதலாக இரண்டு புள்ளிகள் உண்டு. 全然 (ぜんぜん) + எதிர்மறை = கொஞ்சம் கூட இல்லை."
+      },
+      "examples": [
+        { "word": "全部", "reading": "ぜんぶ", "en": "all", "ta": "எல்லாம் (முழுவதும்)", "vocabId": "n5-v-357" },
+        { "word": "全然", "reading": "ぜんぜん", "en": "not at all (with a negative)", "ta": "முற்றிலும் (இல்லை)", "vocabId": "n4-v-605" },
+        { "word": "全く", "reading": "まったく", "en": "really, completely", "ta": "முற்றிலும், உண்மையில்", "vocabId": "n3-v-1991" },
+        { "word": "全て", "reading": "すべて", "en": "all; everything", "ta": "எல்லாம்", "vocabId": "n3-v-0242" }
+      ]
+    },
+    {
+      "kanji": "表",
+      "meaning": { "en": "surface; show; chart", "ta": "மேற்பரப்பு; வெளிப்படுத்துதல்; அட்டவணை" },
+      "on": ["ひょう"],
+      "kun": ["おもて", "あらわ.す"],
+      "mnemonic": {
+        "en": "The bottom part is clothes (衣). The top part (like 生) is soft fur growing. A fur coat is worn with the fur on the outside. The outside, the surface, is what you show to people.",
+        "ta": "அடிப் பகுதி ஆடை (衣). மேல் பகுதி (生 போல) வளரும் மென்மையான உரோமம். உரோமக் கோட்டை உரோமம் வெளியே தெரியும்படி அணிவோம். வெளிப்புறம், மேற்பரப்பு = மக்களுக்குக் காட்டுவது!"
+      },
+      "note": {
+        "en": "発表 (presentation) has a small っ and ぴょ: はっぴょう. 表 (おもて) = front, outside; 表 (ひょう) = a chart or table.",
+        "ta": "発表 (விளக்கக்காட்சி)-இல் சிறிய っ, ぴょ உண்டு: はっぴょう. 表 (おもて) = முன்பக்கம், வெளிப்புறம்; 表 (ひょう) = அட்டவணை."
+      },
+      "examples": [
+        { "word": "表", "reading": "おもて", "en": "front, surface; outside", "ta": "முன்பக்கம், மேற்பக்கம்", "vocabId": "n4-v-033" },
+        { "word": "発表", "reading": "はっぴょう", "en": "announcement; presentation", "ta": "அறிவிப்பு; விளக்கக்காட்சி", "vocabId": "n3-v-1782" },
+        { "word": "代表", "reading": "だいひょう", "en": "representative", "ta": "பிரதிநிதி", "vocabId": "n3-v-1375" },
+        { "word": "表す", "reading": "あらわす", "en": "to express, to show", "ta": "வெளிப்படுத்த, காட்ட", "vocabId": "n3-v-0342" }
+      ]
+    },
+    {
+      "kanji": "調",
+      "meaning": { "en": "check; tone, condition", "ta": "ஆராய்தல்; தொனி, நிலை" },
+      "on": ["ちょう"],
+      "kun": ["しら.べる"],
+      "mnemonic": {
+        "en": "Words (言) on the left. On the right is 周, “all around”: a fence (冂) with soil (土) and a mouth (口) inside. You go all around the place asking questions with words. You are checking everything.",
+        "ta": "இடப்புறம் சொற்கள் (言). வலப்புறம் 周, “சுற்றிலும்”: ஒரு வேலிக்குள் (冂) மண் (土), வாய் (口). இடம் முழுக்கச் சுற்றிச் சுற்றிச் சொற்களால் கேள்வி கேட்கிறீர்கள். எல்லாவற்றையும் ஆராய்கிறீர்கள்!"
+      },
+      "note": {
+        "en": "調子 (ちょうし) = condition, how something is going: 体の 調子が いい = I feel well.",
+        "ta": "調子 (ちょうし) = நிலை, ஒன்று எப்படிப் போகிறது: 体の 調子が いい = உடல்நிலை நன்றாக இருக்கிறது."
+      },
+      "examples": [
+        { "word": "調べる", "reading": "しらべる", "en": "to check, to look up", "ta": "சரிபார்க்க, தேடிப் பார்க்க", "vocabId": "n4-v-181" },
+        { "word": "調子", "reading": "ちょうし", "en": "condition; tone", "ta": "நிலை (உடல்நிலை); தொனி", "vocabId": "n3-v-1486" },
+        { "word": "強調", "reading": "きょうちょう", "en": "emphasis", "ta": "வலியுறுத்தல்", "vocabId": "n3-v-0751" }
+      ]
+    },
+    {
+      "kanji": "化",
+      "meaning": { "en": "change", "ta": "மாற்றம்" },
+      "on": ["か", "け"],
+      "kun": ["ば.ける"],
+      "mnemonic": {
+        "en": "On the left, a person stands up (亻). On the right, a person is upside down (匕), like doing a headstand in yoga. The person turns over and changes!",
+        "ta": "இடப்புறம், ஒருவர் நிமிர்ந்து நிற்கிறார் (亻). வலப்புறம், ஒருவர் தலைகீழாக (匕), யோகாவில் சிரசாசனம் செய்வது போல. அந்த மனிதர் புரண்டு மாறுகிறார்!"
+      },
+      "note": {
+        "en": "化学 (chemistry) and 科学 (science) are both read かがく. お化け (おばけ) = a ghost, something that changes its shape.",
+        "ta": "化学 (வேதியியல்), 科学 (அறிவியல்) இரண்டும் かがく என்றே வாசிக்கப்படும். お化け (おばけ) = பேய், உருவம் மாறும் ஒன்று."
+      },
+      "examples": [
+        { "word": "文化", "reading": "ぶんか", "en": "culture", "ta": "கலாச்சாரம்", "vocabId": "n4-v-543" },
+        { "word": "化学", "reading": "かがく", "en": "chemistry", "ta": "வேதியியல்", "vocabId": "n3-v-0574" },
+        { "word": "変化", "reading": "へんか", "en": "change", "ta": "மாற்றம்", "vocabId": "n3-v-1921" },
+        { "word": "お化け", "reading": "おばけ", "en": "ghost", "ta": "பேய்" }
+      ]
+    },
+    {
+      "kanji": "期",
+      "meaning": { "en": "period of time", "ta": "காலம், பருவம்" },
+      "on": ["き"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 其, a basket standing on legs. On the right is the moon (月). Every time the moon becomes full, the farmer fills one basket with grain. One basket = one period of time.",
+        "ta": "இடப்புறம் 其: கால்களுடன் நிற்கும் ஒரு கூடை. வலப்புறம் நிலா (月). ஒவ்வொரு பௌர்ணமிக்கும் விவசாயி ஒரு கூடையைத் தானியத்தால் நிரப்புகிறார். ஒரு கூடை = ஒரு காலப் பகுதி!"
+      },
+      "note": {
+        "en": "学期 (school term) has a small っ: がっき.",
+        "ta": "学期 (பள்ளிப் பருவம்)-இல் சிறிய っ உண்டு: がっき."
+      },
+      "examples": [
+        { "word": "学期", "reading": "がっき", "en": "school term", "ta": "பருவம் (டெர்ம்)", "vocabId": "n3-v-0626" },
+        { "word": "期間", "reading": "きかん", "en": "period, term", "ta": "காலம் (கால அளவு)", "vocabId": "n3-v-0696" },
+        { "word": "期待", "reading": "きたい", "en": "expectation, hope", "ta": "எதிர்பார்ப்பு", "vocabId": "n3-v-0709" },
+        { "word": "時期", "reading": "じき", "en": "time, season", "ta": "காலம் (பருவம்)", "vocabId": "n3-v-0028" }
+      ]
+    },
+    {
+      "kanji": "取",
+      "meaning": { "en": "take", "ta": "எடுத்தல்" },
+      "on": ["しゅ"],
+      "kun": ["と.る"],
+      "mnemonic": {
+        "en": "An ear (耳) and a hand (又). The teacher’s hand takes the naughty boy by the ear and pulls him to the front of the class. The hand takes the ear!",
+        "ta": "காது (耳) + கை (又). குறும்புக்காரச் சிறுவனின் காதை ஆசிரியரின் கை பிடித்து வகுப்பின் முன்னால் இழுத்துச் செல்கிறது. கை காதை எடுக்கிறது!"
+      },
+      "note": {
+        "en": "取る has many uses: take, get (a grade), pass (the salt). 最 (most), which you will meet later, has 取 under the sun (日).",
+        "ta": "取る-க்குப் பல பயன்கள்: எடுத்தல், (மதிப்பெண்) பெறுதல், (உப்பை) எடுத்துக் கொடுத்தல். பின்னால் வரும் 最 (மிக)-இல் சூரியனின் (日) கீழ் 取 உண்டு."
+      },
+      "examples": [
+        { "word": "取る", "reading": "とる", "en": "to take; to pass (hand)", "ta": "எடுக்க", "vocabId": "n5-v-473" },
+        { "word": "受け取る", "reading": "うけとる", "en": "to receive", "ta": "பெற்றுக்கொள்ள", "vocabId": "n3-v-0439" },
+        { "word": "取れる", "reading": "とれる", "en": "to come off", "ta": "கழன்று விழ", "vocabId": "n3-v-1636" }
+      ]
+    },
+    {
+      "kanji": "都",
+      "meaning": { "en": "capital, big city", "ta": "தலைநகர், பெருநகரம்" },
+      "on": ["と", "つ"],
+      "kun": ["みやこ"],
+      "mnemonic": {
+        "en": "On the left is 者 (person). On the right is ⻏, the village sign. When a great many persons crowd into one village, it grows into a big city, the capital.",
+        "ta": "இடப்புறம் 者 (நபர்). வலப்புறம் ⻏: கிராமத்தின் குறி. ஏராளமான மக்கள் ஒரே கிராமத்தில் கூடினால், அது ஒரு பெருநகரமாக, தலைநகராக வளரும்!"
+      },
+      "note": {
+        "en": "都合 (convenience) is read つごう, with つ, not と. 東京都 (とうきょうと) = Tokyo Metropolis.",
+        "ta": "都合 (வசதி) = つごう; と அல்ல, つ. 東京都 (とうきょうと) = டோக்கியோ பெருநகரம்."
+      },
+      "examples": [
+        { "word": "京都", "reading": "きょうと", "en": "Kyoto (city)", "ta": "கியோட்டோ (நகரம்)" },
+        { "word": "都合", "reading": "つごう", "en": "convenience; schedule", "ta": "வசதி", "vocabId": "n4-v-332" },
+        { "word": "首都", "reading": "しゅと", "en": "capital city", "ta": "தலைநகரம்", "vocabId": "n3-v-0117" },
+        { "word": "都会", "reading": "とかい", "en": "city, big town", "ta": "நகரம்", "vocabId": "n3-v-1592" }
+      ]
+    },
+    {
+      "kanji": "和",
+      "meaning": { "en": "peace; Japanese style", "ta": "அமைதி; ஜப்பானிய பாணி" },
+      "on": ["わ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A rice plant (禾) and a mouth (口). When every mouth has rice to eat, nobody fights. There is peace and harmony, and Japan, a rice country, is also called 和.",
+        "ta": "நெற்பயிர் (禾) + வாய் (口). ஒவ்வொரு வாய்க்கும் சாப்பிட அரிசி இருந்தால், யாரும் சண்டையிட மாட்டார்கள். அமைதி, ஒற்றுமை! அரிசி நாடான ஜப்பானுக்கும் 和 என்று பெயர்."
+      },
+      "note": {
+        "en": "和 = Japanese style: 和食 (Japanese food) vs 洋食 (Western food); 和室 (Japanese-style room with tatami).",
+        "ta": "和 = ஜப்பானிய பாணி: 和食 (ஜப்பானிய உணவு) ↔ 洋食 (மேற்கத்திய உணவு); 和室 (தாதாமி பாய் உள்ள ஜப்பானிய அறை)."
+      },
+      "examples": [
+        { "word": "平和", "reading": "へいわ", "en": "peace", "ta": "அமைதி", "vocabId": "n3-v-1916" },
+        { "word": "和食", "reading": "わしょく", "en": "Japanese food", "ta": "ஜப்பானிய உணவு" },
+        { "word": "和室", "reading": "わしつ", "en": "Japanese-style room", "ta": "ஜப்பானிய பாணி அறை" }
+      ]
+    },
+    {
+      "kanji": "平",
+      "meaning": { "en": "flat, even; peace", "ta": "சமதளம், சமம்; அமைதி" },
+      "on": ["へい", "びょう"],
+      "kun": ["たい.ら", "ひら"],
+      "mnemonic": {
+        "en": "It looks like a weighing scale. The top line is a flat board. The two little dots are two equal weights, one on each side. The long pole stands in the middle. Everything is flat and even.",
+        "ta": "இது ஒரு தராசு போலத் தெரிகிறது. மேல் கோடு சமதளமான பலகை. இரண்டு சிறு புள்ளிகள் இரு பக்கமும் உள்ள சம எடைகள். நடுவில் நீண்ட கம்பம். எல்லாமே சமதளம், சமம்!"
+      },
+      "note": {
+        "en": "平等 (equality) is びょうどう, not へいとう. 平日 (へいじつ) = a weekday.",
+        "ta": "平等 (சமத்துவம்) = びょうどう; へいとう அல்ல. 平日 (へいじつ) = வார நாள்."
+      },
+      "examples": [
+        { "word": "平和", "reading": "へいわ", "en": "peace", "ta": "அமைதி", "vocabId": "n3-v-1916" },
+        { "word": "平日", "reading": "へいじつ", "en": "weekday", "ta": "வார நாள்" },
+        { "word": "平ら", "reading": "たいら", "en": "flat, level", "ta": "சமதளமான", "vocabId": "n3-v-1382" },
+        { "word": "平等", "reading": "びょうどう", "en": "equality", "ta": "சமத்துவம்", "vocabId": "n3-v-1844" }
+      ]
+    },
+    {
+      "kanji": "受",
+      "meaning": { "en": "receive", "ta": "பெறுதல்" },
+      "on": ["じゅ"],
+      "kun": ["う.ける"],
+      "mnemonic": {
+        "en": "On top is a hand reaching down (爫). In the middle is a cover (冖), like a wrapped parcel. At the bottom is another hand (又). One hand passes the parcel down, and the hand below receives it.",
+        "ta": "மேலே கீழ்நோக்கி நீளும் கை (爫). நடுவில் ஒரு மூடி (冖), பொதி போல. அடியில் இன்னொரு கை (又). மேலுள்ள கை பொதியைக் கீழே கொடுக்கிறது; கீழுள்ள கை அதைப் பெறுகிறது!"
+      },
+      "note": {
+        "en": "受ける also means to take an exam: 試験を 受ける. 受付 (うけつけ) = reception desk, written without okurigana.",
+        "ta": "受ける என்பதற்குத் தேர்வு எழுதுதல் என்ற பொருளும் உண்டு: 試験を 受ける. 受付 (うけつけ) = வரவேற்பு மேசை; ஒகுரிகானா இல்லாமல் எழுதப்படும்."
+      },
+      "examples": [
+        { "word": "受ける", "reading": "うける", "en": "to take (an exam); to receive", "ta": "(தேர்வு) எழுத, பெற", "vocabId": "n4-v-160" },
+        { "word": "受付", "reading": "うけつけ", "en": "reception desk", "ta": "வரவேற்பு மேசை", "vocabId": "n4-v-241" },
+        { "word": "受け取る", "reading": "うけとる", "en": "to receive", "ta": "பெற்றுக்கொள்ள", "vocabId": "n3-v-0439" },
+        { "word": "受験", "reading": "じゅけん", "en": "taking an entrance exam", "ta": "நுழைவுத் தேர்வு எழுதுதல்" }
+      ]
+    },
+    {
+      "kanji": "進",
+      "meaning": { "en": "move forward", "ta": "முன்னேறுதல்" },
+      "on": ["しん"],
+      "kun": ["すす.む", "すす.める"],
+      "mnemonic": {
+        "en": "A road (⻌) and a short-tailed bird (隹), the same bird you saw in 集 (gather). A bird can hop forward but never walks backward. On the road it only moves forward!",
+        "ta": "சாலை (⻌) + குட்டை வால் பறவை (隹); 集 (கூடுதல்)-இல் பார்த்த அதே பறவை. பறவை முன்னே தாவும்; பின்னோக்கி நடக்காது. சாலையில் அது முன்னேறுகிறது மட்டுமே!"
+      },
+      "note": {
+        "en": "進む = (you) go forward; 進める = move something forward, like a plan.",
+        "ta": "進む = (நாம்) முன்னே செல்வது; 進める = ஒரு திட்டம் போன்ற ஒன்றை முன்னெடுத்துச் செல்வது."
+      },
+      "examples": [
+        { "word": "進む", "reading": "すすむ", "en": "to move forward, to progress", "ta": "முன்னேற", "vocabId": "n4-v-301" },
+        { "word": "進める", "reading": "すすめる", "en": "to move (something) forward", "ta": "முன்னெடுத்துச் செல்ல", "vocabId": "n3-v-0230" },
+        { "word": "進学", "reading": "しんがく", "en": "going on to higher education", "ta": "மேல்படிப்புக்குச் செல்லுதல்", "vocabId": "n3-v-0184" },
+        { "word": "前進", "reading": "ぜんしん", "en": "moving forward", "ta": "முன்னோக்கிச் செல்லுதல்", "vocabId": "n3-v-1310" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU4-q01", "type": "kanji_reading",
+        "sentence": "＿実は＿、あした 国へ 帰ります。", "target": "実は",
+        "options": ["じつは", "じっは", "みは", "しつは"], "answer": 0,
+        "explanation_en": "実は is read じつは (உண்மையைச் சொன்னால், actually). じっは wrongly uses a small っ, and み is the kun reading (fruit).",
+        "explanation_ta": "実は = じつは (உண்மையைச் சொன்னால், actually). じっは-இல் தவறாகச் சிறிய っ; み என்பது குன் வாசிப்பு (கனி)."
+      },
+      {
+        "id": "KU4-q02", "type": "kanji_reading",
+        "sentence": "旅行の 日を ＿決めました＿。", "target": "決めました",
+        "options": ["ぎめました", "きめました", "けつめました", "けめました"], "answer": 1,
+        "explanation_en": "決めました is read きめました, from 決める (முடிவு செய்ய, to decide). ぎめました has a wrong ゛, and けつ is the on reading.",
+        "explanation_ta": "決めました = きめました; 決める (முடிவு செய்ய, to decide). ぎめました-இல் தேவையில்லாத ゛; けつ ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q03", "type": "kanji_reading",
+        "sentence": "その 映画は ＿全然＿ おもしろく なかった。", "target": "全然",
+        "options": ["ぜんせん", "ぜぜん", "ぜんぜん", "ぜんねん"], "answer": 2,
+        "explanation_en": "全然 is read ぜんぜん (முற்றிலும் (இல்லை), not at all). ぜんせん is missing the ゛ on the second ぜ.",
+        "explanation_ta": "全然 = ぜんぜん (முற்றிலும் (இல்லை), not at all). ぜんせん-இல் இரண்டாவது ぜ-வின் ゛ இல்லை."
+      },
+      {
+        "id": "KU4-q04", "type": "kanji_reading",
+        "sentence": "あした クラスで ＿発表＿します。", "target": "発表",
+        "options": ["はつひょう", "はっぴょ", "はっひょう", "はっぴょう"], "answer": 3,
+        "explanation_en": "発表 is read はっぴょう (விளக்கக்காட்சி, presentation): small っ, ぴ with ゜, and a long ょう. はっひょう has no ゜, and はっぴょ is too short.",
+        "explanation_ta": "発表 = はっぴょう (விளக்கக்காட்சி, presentation): சிறிய っ, ゜ உள்ள ぴ, நெடில் ょう. はっひょう-இல் ゜ இல்லை; はっぴょ குறிலாக உள்ளது."
+      },
+      {
+        "id": "KU4-q05", "type": "kanji_reading",
+        "sentence": "今日は 体の ＿調子＿が いいです。", "target": "調子",
+        "options": ["ちょうこ", "ちょうし", "ちょし", "ちょうじ"], "answer": 1,
+        "explanation_en": "調子 is read ちょうし (நிலை, condition): long ちょう. ちょし is too short, ちょうじ has a wrong ゛, and こ is another reading of 子.",
+        "explanation_ta": "調子 = ちょうし (நிலை, condition): நெடில் ちょう. ちょし குறிலாக உள்ளது; ちょうじ-இல் தேவையில்லாத ゛; こ என்பது 子-இன் வேறு வாசிப்பு."
+      },
+      {
+        "id": "KU4-q06", "type": "kanji_reading",
+        "sentence": "日本の ＿文化＿に きょうみが あります。", "target": "文化",
+        "options": ["ぶんか", "ぶんけ", "もんか", "ぶんが"], "answer": 0,
+        "explanation_en": "文化 is read ぶんか (கலாச்சாரம், culture). け is another reading of 化 that is not used here, and ぶんが has a wrong ゛.",
+        "explanation_ta": "文化 = ぶんか (கலாச்சாரம், culture). け என்பது 化-இன் வேறு வாசிப்பு, இங்கே பொருந்தாது; ぶんが-இல் தேவையில்லாத ゛."
+      },
+      {
+        "id": "KU4-q07", "type": "kanji_reading",
+        "sentence": "夏休みの ＿期間＿は 一か月です。", "target": "期間",
+        "options": ["ききん", "ぎかん", "ごかん", "きかん"], "answer": 3,
+        "explanation_en": "期間 is read きかん (கால அளவு, period). ぎかん has a wrong ゛, and ご is a rare reading of 期.",
+        "explanation_ta": "期間 = きかん (கால அளவு, period). ぎかん-இல் தேவையில்லாத ゛; ご என்பது 期-இன் அரிய வாசிப்பு."
+      },
+      {
+        "id": "KU4-q08", "type": "kanji_reading",
+        "sentence": "＿京都＿に 行った ことが ありますか。", "target": "京都",
+        "options": ["きょうつ", "きょと", "きょうと", "けいと"], "answer": 2,
+        "explanation_en": "京都 is read きょうと (கியோட்டோ, Kyoto): long きょう and と. きょと is too short, and つ is the reading of 都 used in 都合.",
+        "explanation_ta": "京都 = きょうと (கியோட்டோ, Kyoto): நெடில் きょう, と. きょと குறிலாக உள்ளது; つ என்பது 都合-இல் வரும் 都-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q09", "type": "kanji_reading",
+        "sentence": "せかいの ＿平和＿を ねがって います。", "target": "平和",
+        "options": ["へいほ", "ひらわ", "へいわ", "べいわ"], "answer": 2,
+        "explanation_en": "平和 is read へいわ (அமைதி, peace). ひら is the kun reading of 平, and べいわ has a wrong ゛.",
+        "explanation_ta": "平和 = へいわ (அமைதி, peace). ひら என்பது 平-இன் குன் வாசிப்பு; べいわ-இல் தேவையில்லாத ゛."
+      },
+      {
+        "id": "KU4-q10", "type": "kanji_reading",
+        "sentence": "兄は 来年 大学を ＿受験＿します。", "target": "受験",
+        "options": ["じゅけん", "じゅうけん", "うけけん", "しゅけん"], "answer": 0,
+        "explanation_en": "受験 is read じゅけん (நுழைவுத் தேர்வு எழுதுதல், taking an entrance exam): short じゅ. じゅうけん is too long, and うけ is the kun reading.",
+        "explanation_ta": "受験 = じゅけん (நுழைவுத் தேர்வு எழுதுதல், taking an entrance exam): குறில் じゅ. じゅうけん நெடிலாக உள்ளது; うけ குன் வாசிப்பு."
+      },
+      {
+        "id": "KU4-q11", "type": "orthography",
+        "sentence": "その 本を ＿とって＿ ください。", "target": "とって",
+        "options": ["耳って", "取って", "収って", "最って"], "answer": 1,
+        "explanation_en": "とって (எடுத்து, take) is 取って: ear (耳) + hand (又). 耳 alone has no hand. 最 (most) has 取 inside but means something else.",
+        "explanation_ta": "とって (எடுத்து, take) = 取って: காது (耳) + கை (又). தனி 耳-க்குக் கை இல்லை. 最 (மிக)-க்குள் 取 இருந்தாலும் பொருள் வேறு."
+      },
+      {
+        "id": "KU4-q12", "type": "orthography",
+        "sentence": "先生の しつもんを ＿うけました＿。", "target": "うけました",
+        "options": ["愛けました", "授けました", "変けました", "受けました"], "answer": 3,
+        "explanation_en": "うけました (பெற்றேன், received) is 受けました, from 受ける. 愛 (love) and 授 have a similar top with 爫 and 冖.",
+        "explanation_ta": "うけました (பெற்றேன், received) = 受けました; 受ける. 愛 (அன்பு), 授 ஆகியவற்றுக்கும் 爫, 冖 கொண்ட இதே போன்ற மேல் பகுதி உண்டு."
+      },
+      {
+        "id": "KU4-q13", "type": "orthography",
+        "sentence": "ゆっくり 前に ＿すすんで＿ ください。", "target": "すすんで",
+        "options": ["連んで", "追んで", "運んで", "進んで"], "answer": 3,
+        "explanation_en": "すすんで (முன்னேறி, move forward) is 進んで: a road (⻌) + a bird (隹). 運んで is はこんで (carry), and 連 and 追 also have ⻌.",
+        "explanation_ta": "すすんで (முன்னேறி, move forward) = 進んで: சாலை (⻌) + பறவை (隹). 運んで = はこんで (சுமந்து); 連, 追-க்கும் ⻌ உண்டு."
+      },
+      {
+        "id": "KU4-q14", "type": "orthography",
+        "sentence": "クラスの ＿ぜんいん＿が 来ました。", "target": "ぜんいん",
+        "options": ["金員", "会員", "全員", "今員"], "answer": 2,
+        "explanation_en": "ぜんいん (எல்லா உறுப்பினர்களும், all members) is 全員: 人 + 王. 金 (gold) has two more dots, and 会員 is かいいん (member).",
+        "explanation_ta": "ぜんいん (எல்லா உறுப்பினர்களும், all members) = 全員: 人 + 王. 金 (தங்கம்)-க்குக் கூடுதலாக இரண்டு புள்ளிகள்; 会員 = かいいん (உறுப்பினர்)."
+      },
+      {
+        "id": "KU4-q15", "type": "orthography",
+        "sentence": "わからない ことばを じしょで ＿しらべました＿。", "target": "しらべました",
+        "options": ["調べました", "談べました", "周べました", "説べました"], "answer": 0,
+        "explanation_en": "しらべました (தேடிப் பார்த்தேன், looked up) is 調べました: words (言) + 周. 周 alone has no 言, and 談 and 説 have 言 but a different right side.",
+        "explanation_ta": "しらべました (தேடிப் பார்த்தேன், looked up) = 調べました: சொற்கள் (言) + 周. தனி 周-க்கு 言 இல்லை; 談, 説-க்கு 言 உண்டு, ஆனால் வலப் பகுதி வேறு."
+      },
+      {
+        "id": "KU4-q16", "type": "orthography",
+        "sentence": "この みちは ＿たいら＿です。", "target": "たいら",
+        "options": ["半ら", "平ら", "米ら", "干ら"], "answer": 1,
+        "explanation_en": "たいら (சமதளமான, flat) is 平ら. 半 (half) and 干 look similar but have different strokes in the middle.",
+        "explanation_ta": "たいら (சமதளமான, flat) = 平ら. 半 (பாதி), 干 இதைப் போலவே தெரியும்; ஆனால் நடுவில் உள்ள கோடுகள் வேறு."
+      }
+    ]
+  }
+}

@@ -1,0 +1,914 @@
+{
+  "unit": 15,
+  "title": {
+    "en": "Feelings and daily life",
+    "ta": "உணர்வுகளும் அன்றாட வாழ்க்கையும்"
+  },
+  "intro": {
+    "en": "In this unit you learn 14 kanji. Some show feelings: 愛 (love), 喜 (joy) and 静 (quiet). Others are for daily life: 給 (salary), 辞 (words, quit), 便 (convenient), 冷 (cold) and 熱 (heat). Tip: look for parts you know, like 青 in 静 and 見 in 覚.",
+    "ta": "இந்தப் பாடத்தில் 14 கான்ஜிகளைக் கற்கிறீர்கள். சில உணர்வுகளைக் காட்டுகின்றன: 愛 (அன்பு), 喜 (மகிழ்ச்சி), 静 (அமைதி). மற்றவை அன்றாட வாழ்க்கைக்கானவை: 給 (சம்பளம்), 辞 (சொல், வேலையை விடு), 便 (வசதி), 冷 (குளிர்), 熱 (வெப்பம்). குறிப்பு: 静-இல் 青, 覚-இல் 見 போல நீங்கள் அறிந்த பகுதிகளைத் தேடுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "給",
+      "meaning": {
+        "en": "salary; give",
+        "ta": "சம்பளம்; வழங்கு"
+      },
+      "on": [
+        "きゅう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is 糸, thread (as in 紙). On the right is 合 (fit, join). A thread joins the worker and the company, and every month money comes along it to the worker: a salary.",
+        "ta": "இடப்பக்கம் 糸: நூல் (紙-இல் உள்ளது போல). வலப்பக்கம் 合 (பொருந்து, இணை). தொழிலாளியையும் நிறுவனத்தையும் ஒரு நூல் இணைக்கிறது; அதன் வழியே ஒவ்வொரு மாதமும் பணம் தொழிலாளிக்கு வருகிறது: சம்பளம்."
+      },
+      "note": {
+        "en": "給料 (きゅうりょう) has two long sounds: きゅう and りょう.",
+        "ta": "給料 (きゅうりょう)-இல் இரண்டு நீண்ட ஒலிகள்: きゅう, りょう."
+      },
+      "examples": [
+        {
+          "word": "給料",
+          "reading": "きゅうりょう",
+          "en": "salary, wages",
+          "ta": "சம்பளம்",
+          "vocabId": "n3-v-0744"
+        },
+        {
+          "word": "月給",
+          "reading": "げっきゅう",
+          "en": "monthly salary",
+          "ta": "மாதச் சம்பளம்"
+        },
+        {
+          "word": "供給",
+          "reading": "きょうきゅう",
+          "en": "supply",
+          "ta": "வழங்கல்",
+          "vocabId": "n3-v-0749"
+        },
+        {
+          "word": "支給",
+          "reading": "しきゅう",
+          "en": "payment, allowance",
+          "ta": "வழங்குதல், படி",
+          "vocabId": "n3-v-0029"
+        }
+      ]
+    },
+    {
+      "kanji": "辞",
+      "meaning": {
+        "en": "word; quit",
+        "ta": "சொல்; விலகு"
+      },
+      "on": [
+        "じ"
+      ],
+      "kun": [
+        "や.める"
+      ],
+      "mnemonic": {
+        "en": "On the left is 舌, a tongue (千 over a mouth 口). On the right is 辛, a sharp, spicy needle. Sharp words come off your tongue: “I quit!” And a 辞書 is a book full of words.",
+        "ta": "இடப்பக்கம் 舌: நாக்கு (口 வாயின் மேல் 千). வலப்பக்கம் 辛: கூர்மையான, காரமான ஊசி. நாக்கிலிருந்து கூர்மையான சொற்கள் வருகின்றன: “நான் வேலையை விடுகிறேன்!” 辞書 என்பது சொற்கள் நிறைந்த புத்தகம்."
+      },
+      "note": {
+        "en": "辞める (やめる) is to quit a job or school. To stop doing something is 止める (やめる).",
+        "ta": "辞める (やめる) = வேலையை அல்லது பள்ளியை விட்டு விலகு. ஒரு செயலை நிறுத்துவது 止める (やめる)."
+      },
+      "examples": [
+        {
+          "word": "辞書",
+          "reading": "じしょ",
+          "en": "dictionary",
+          "ta": "அகராதி",
+          "vocabId": "n5-v-297"
+        },
+        {
+          "word": "辞表",
+          "reading": "じひょう",
+          "en": "letter of resignation",
+          "ta": "ராஜினாமாக் கடிதம்"
+        },
+        {
+          "word": "辞める",
+          "reading": "やめる",
+          "en": "to quit, to resign",
+          "ta": "(வேலையை) விட, ராஜினாமா செய்ய",
+          "vocabId": "n3-v-1101"
+        }
+      ]
+    },
+    {
+      "kanji": "愛",
+      "meaning": {
+        "en": "love",
+        "ta": "அன்பு, காதல்"
+      },
+      "on": [
+        "あい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On top is a hand (爫, as in 受). In the middle, a heart (心) under a cover (冖). At the bottom, walking legs (夂). You carry your heart carefully in your hands and walk to the one you love.",
+        "ta": "மேலே ஒரு கை (爫, 受-இல் உள்ளது போல). நடுவில் மூடியின் (冖) கீழ் ஒரு இதயம் (心). கீழே நடக்கும் கால்கள் (夂). உங்கள் இதயத்தைக் கைகளில் பத்திரமாக ஏந்திக்கொண்டு, நீங்கள் நேசிப்பவரிடம் நடந்து போகிறீர்கள்."
+      },
+      "note": {
+        "en": "かわいい is often written 可愛い, with this kanji.",
+        "ta": "かわいい என்ற சொல்லை அடிக்கடி இந்தக் கான்ஜியுடன் 可愛い என்று எழுதுவார்கள்."
+      },
+      "examples": [
+        {
+          "word": "愛",
+          "reading": "あい",
+          "en": "love",
+          "ta": "அன்பு, காதல்",
+          "vocabId": "n3-v-0296"
+        },
+        {
+          "word": "愛する",
+          "reading": "あいする",
+          "en": "to love",
+          "ta": "நேசிக்க",
+          "vocabId": "n3-v-0301"
+        },
+        {
+          "word": "愛情",
+          "reading": "あいじょう",
+          "en": "love, affection",
+          "ta": "பாசம், அன்பு",
+          "vocabId": "n3-v-0298"
+        }
+      ]
+    },
+    {
+      "kanji": "未",
+      "meaning": {
+        "en": "not yet",
+        "ta": "இன்னும் இல்லை"
+      },
+      "on": [
+        "み"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A young tree (木) with a short branch on top. It has not grown tall yet.",
+        "ta": "ஒரு இளம் மரம் (木), மேலே ஒரு குட்டையான கிளை. அது இன்னும் உயரமாக வளரவில்லை."
+      },
+      "note": {
+        "en": "未 (not yet) has a shorter top line; 末 (end) has a longer one.",
+        "ta": "未 (இன்னும் இல்லை)-இல் மேல் கோடு குட்டை; 末 (முடிவு)-இல் மேல் கோடு நீளம்."
+      },
+      "examples": [
+        {
+          "word": "未来",
+          "reading": "みらい",
+          "en": "future",
+          "ta": "எதிர்காலம்",
+          "vocabId": "n3-v-1023"
+        },
+        {
+          "word": "未成年",
+          "reading": "みせいねん",
+          "en": "under-age person, minor",
+          "ta": "வயது வராதவர் (சிறார்)"
+        },
+        {
+          "word": "未完成",
+          "reading": "みかんせい",
+          "en": "unfinished",
+          "ta": "முடிக்கப்படாத"
+        }
+      ]
+    },
+    {
+      "kanji": "冷",
+      "meaning": {
+        "en": "cold, cool",
+        "ta": "குளிர்ச்சி"
+      },
+      "on": [
+        "れい"
+      ],
+      "kun": [
+        "つめ.たい",
+        "ひ.やす",
+        "さ.める"
+      ],
+      "mnemonic": {
+        "en": "On the left, two drops of ice (冫, as in 次). On the right is 令: a person kneeling under a roof. There is ice right beside them, so they feel cold.",
+        "ta": "இடப்பக்கம் இரண்டு பனித் துளிகள் (冫, 次-இல் உள்ளது போல). வலப்பக்கம் 令: கூரையின் கீழ் முட்டி போட்ட ஒருவர். அருகிலேயே பனி; அதனால் அவருக்குக் குளிர்கிறது."
+      },
+      "note": {
+        "en": "冷たい (つめたい) is for things you touch, like water. 寒い (さむい) is for the weather. 冷える (ひえる) = to get cold.",
+        "ta": "冷たい (つめたい) = தொடும்போது குளிர்ந்த, தண்ணீர் போல. 寒い (さむい) = வானிலைக் குளிர். 冷える (ひえる) = குளிர்ந்துபோ."
+      },
+      "examples": [
+        {
+          "word": "冷たい",
+          "reading": "つめたい",
+          "en": "cold (to touch)",
+          "ta": "குளிர்ந்த (தொடும்போது)",
+          "vocabId": "n5-v-422"
+        },
+        {
+          "word": "冷やす",
+          "reading": "ひやす",
+          "en": "to cool, to chill",
+          "ta": "குளிர்விக்க",
+          "vocabId": "n3-v-1837"
+        },
+        {
+          "word": "冷める",
+          "reading": "さめる",
+          "en": "to get cold (food, drinks)",
+          "ta": "ஆறிப்போக (உணவு, பானம்)",
+          "vocabId": "n3-v-0005"
+        },
+        {
+          "word": "冷静",
+          "reading": "れいせい",
+          "en": "calm",
+          "ta": "நிதானமான, அமைதியான",
+          "vocabId": "n3-v-1177"
+        }
+      ]
+    },
+    {
+      "kanji": "類",
+      "meaning": {
+        "en": "kind, sort",
+        "ta": "வகை"
+      },
+      "on": [
+        "るい"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left, rice (米) over 大 (big). On the right, a head (頁, as in 頭 and 顔). Someone bends their head over big heaps of rice and sorts the grains into kinds.",
+        "ta": "இடப்பக்கம் 大 (பெரிய) மேல் அரிசி (米). வலப்பக்கம் ஒரு தலை (頁, 頭, 顔-இல் உள்ளது போல). ஒருவர் பெரிய அரிசிக் குவியல் மேல் தலையைக் குனிந்து, தானியங்களை வகை வகையாகப் பிரிக்கிறார்."
+      },
+      "examples": [
+        {
+          "word": "種類",
+          "reading": "しゅるい",
+          "en": "kind, type",
+          "ta": "வகை",
+          "vocabId": "n3-v-0121"
+        },
+        {
+          "word": "書類",
+          "reading": "しょるい",
+          "en": "documents, papers",
+          "ta": "ஆவணங்கள்",
+          "vocabId": "n3-v-0178"
+        },
+        {
+          "word": "人類",
+          "reading": "じんるい",
+          "en": "mankind",
+          "ta": "மனித இனம்",
+          "vocabId": "n3-v-0208"
+        },
+        {
+          "word": "親類",
+          "reading": "しんるい",
+          "en": "relatives",
+          "ta": "உறவினர்கள்"
+        }
+      ]
+    },
+    {
+      "kanji": "熱",
+      "meaning": {
+        "en": "heat, fever",
+        "ta": "வெப்பம், காய்ச்சல்"
+      },
+      "on": [
+        "ねつ"
+      ],
+      "kun": [
+        "あつ.い"
+      ],
+      "mnemonic": {
+        "en": "On top, earth (土) is piled up and a person kneels, holding something round. At the bottom are four dots of fire (灬). The person is cooking over a hot fire: heat!",
+        "ta": "மேலே மண் (土) குவிந்திருக்கிறது; ஒருவர் உருண்டையான ஒன்றைப் பிடித்தபடி முட்டி போட்டிருக்கிறார். கீழே நான்கு நெருப்புப் புள்ளிகள் (灬). அவர் சூடான நெருப்பின் மேல் சமைக்கிறார்: வெப்பம்!"
+      },
+      "note": {
+        "en": "熱い (あつい) is for hot things, like tea. For hot weather, use 暑い (あつい).",
+        "ta": "熱い (あつい) = சூடான பொருள், டீ போல. வெப்பமான வானிலைக்கு 暑い (あつい)."
+      },
+      "examples": [
+        {
+          "word": "熱い",
+          "reading": "あつい",
+          "en": "hot (to touch)",
+          "ta": "சூடான (பொருள்)",
+          "vocabId": "n5-v-024"
+        },
+        {
+          "word": "熱",
+          "reading": "ねつ",
+          "en": "fever; heat",
+          "ta": "காய்ச்சல்; வெப்பம்",
+          "vocabId": "n4-v-219"
+        },
+        {
+          "word": "熱心",
+          "reading": "ねっしん",
+          "en": "eager, keen",
+          "ta": "ஆர்வமுள்ள",
+          "vocabId": "n4-v-214"
+        },
+        {
+          "word": "熱中",
+          "reading": "ねっちゅう",
+          "en": "being absorbed in something",
+          "ta": "ஒன்றில் மூழ்கியிருத்தல்",
+          "vocabId": "n3-v-1702"
+        }
+      ]
+    },
+    {
+      "kanji": "覚",
+      "meaning": {
+        "en": "remember; wake up",
+        "ta": "நினைவில் வை; விழி"
+      },
+      "on": [
+        "かく"
+      ],
+      "kun": [
+        "おぼ.える",
+        "さ.める",
+        "さ.ます"
+      ],
+      "mnemonic": {
+        "en": "It looks like 学 (study), but with 見 (see) at the bottom instead of the child 子. You see it, you study it, and then you remember it.",
+        "ta": "இது 学 (படிப்பு) போலத் தெரிகிறது; ஆனால் கீழே குழந்தை 子-க்குப் பதில் 見 (பார்). பார்க்கிறீர்கள், படிக்கிறீர்கள், பிறகு நினைவில் வைக்கிறீர்கள்."
+      },
+      "note": {
+        "en": "覚める (さめる) means to wake up. 冷める (さめる) means to get cold. Same sound, different kanji.",
+        "ta": "覚める (さめる) = விழித்தெழு. 冷める (さめる) = ஆறிப்போ. ஒலி ஒன்று, கான்ஜி வேறு."
+      },
+      "examples": [
+        {
+          "word": "覚える",
+          "reading": "おぼえる",
+          "en": "to remember, to learn",
+          "ta": "நினைவில் வைக்க, மனப்பாடம் செய்ய",
+          "vocabId": "n5-v-132"
+        },
+        {
+          "word": "覚める",
+          "reading": "さめる",
+          "en": "to wake up",
+          "ta": "விழிக்க",
+          "vocabId": "n3-v-0006"
+        },
+        {
+          "word": "目覚まし時計",
+          "reading": "めざましどけい",
+          "en": "alarm clock",
+          "ta": "அலாரம் கடிகாரம்"
+        },
+        {
+          "word": "感覚",
+          "reading": "かんかく",
+          "en": "sense, feeling",
+          "ta": "உணர்வு, புலன்",
+          "vocabId": "n3-v-0665"
+        }
+      ]
+    },
+    {
+      "kanji": "便",
+      "meaning": {
+        "en": "convenience; mail; flight",
+        "ta": "வசதி; அஞ்சல்"
+      },
+      "on": [
+        "べん",
+        "びん"
+      ],
+      "kun": [
+        "たよ.り"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) is next to 更, which looks like a box (日) on a stand. The postman brings the box right to your door. How convenient!",
+        "ta": "ஒருவர் (亻) 更-க்கு அருகில்; 更 ஒரு தாங்கியின் மேல் உள்ள பெட்டி (日) போலத் தெரிகிறது. தபால்காரர் அந்தப் பெட்டியை உங்கள் வாசலுக்கே கொண்டு வருகிறார். எவ்வளவு வசதி!"
+      },
+      "note": {
+        "en": "Two on readings: べん in 便利 (convenient), びん in 便 (flight) and 郵便 (ゆうびん, mail).",
+        "ta": "இரண்டு ஆன் வாசிப்புகள்: 便利 (வசதியான)-இல் べん; 便 (விமானச் சேவை), 郵便 (ゆうびん, அஞ்சல்)-இல் びん."
+      },
+      "examples": [
+        {
+          "word": "便利",
+          "reading": "べんり",
+          "en": "convenient",
+          "ta": "வசதியான",
+          "vocabId": "n5-v-600"
+        },
+        {
+          "word": "不便",
+          "reading": "ふべん",
+          "en": "inconvenient",
+          "ta": "வசதியற்ற",
+          "vocabId": "n4-v-379"
+        },
+        {
+          "word": "便",
+          "reading": "びん",
+          "en": "flight; mail",
+          "ta": "விமானச் சேவை; அஞ்சல்",
+          "vocabId": "n3-v-1852"
+        },
+        {
+          "word": "便り",
+          "reading": "たより",
+          "en": "news, letter",
+          "ta": "செய்தி, கடிதம்",
+          "vocabId": "n3-v-1438"
+        }
+      ]
+    },
+    {
+      "kanji": "努",
+      "meaning": {
+        "en": "make an effort",
+        "ta": "முயற்சி"
+      },
+      "on": [
+        "ど"
+      ],
+      "kun": [
+        "つと.める"
+      ],
+      "mnemonic": {
+        "en": "On top: a woman (女) and her hand (又). Below: 力 (power). She puts her hand to the job and uses all her power. That is effort.",
+        "ta": "மேலே: ஒரு பெண் (女), அவள் கை (又). கீழே: 力 (சக்தி). அவள் வேலையில் கை வைத்து முழு சக்தியையும் போடுகிறாள். அதுதான் முயற்சி."
+      },
+      "note": {
+        "en": "つとめる has three kanji: 努める (try hard), 務める (serve as) and 勤める (work for a company).",
+        "ta": "つとめる-க்கு மூன்று கான்ஜிகள்: 努める (கடுமையாக முயல்), 務める (ஒரு பொறுப்பில் பணியாற்று), 勤める (ஒரு நிறுவனத்தில் வேலை செய்)."
+      },
+      "examples": [
+        {
+          "word": "努力",
+          "reading": "どりょく",
+          "en": "effort",
+          "ta": "முயற்சி",
+          "vocabId": "n3-v-1633"
+        },
+        {
+          "word": "努める",
+          "reading": "つとめる",
+          "en": "to try hard",
+          "ta": "கடுமையாக முயல"
+        },
+        {
+          "word": "努力家",
+          "reading": "どりょくか",
+          "en": "hard worker",
+          "ta": "கடின உழைப்பாளி"
+        }
+      ]
+    },
+    {
+      "kanji": "散",
+      "meaning": {
+        "en": "scatter",
+        "ta": "சிதறு"
+      },
+      "on": [
+        "さん"
+      ],
+      "kun": [
+        "ち.る",
+        "ち.らす"
+      ],
+      "mnemonic": {
+        "en": "On the left, a branch with leaves (the top part) over 月. On the right, a hand with a stick (攵). The stick hits the branch, and the leaves scatter everywhere.",
+        "ta": "இடப்பக்கம், 月-இன் மேல் இலைகள் உள்ள கிளை (மேல் பகுதி). வலப்பக்கம் கம்பு பிடித்த கை (攵). கம்பு கிளையை அடிக்கிறது; இலைகள் எல்லா இடத்திலும் சிதறுகின்றன."
+      },
+      "note": {
+        "en": "散歩 (さんぽ, a walk) has ぽ, not ほ.",
+        "ta": "散歩 (さんぽ, நடைப்பயிற்சி)-இல் ぽ; ほ அல்ல."
+      },
+      "examples": [
+        {
+          "word": "散歩",
+          "reading": "さんぽ",
+          "en": "walk, stroll",
+          "ta": "நடைப்பயிற்சி, உலா",
+          "vocabId": "n5-v-289"
+        },
+        {
+          "word": "散る",
+          "reading": "ちる",
+          "en": "to fall, to scatter (like flowers)",
+          "ta": "உதிர, சிதற",
+          "vocabId": "n3-v-1493"
+        },
+        {
+          "word": "散らす",
+          "reading": "ちらす",
+          "en": "to scatter",
+          "ta": "சிதறடிக்க",
+          "vocabId": "n3-v-1492"
+        },
+        {
+          "word": "散らかる",
+          "reading": "ちらかる",
+          "en": "to be messy",
+          "ta": "அலங்கோலமாகக் கிடக்க"
+        }
+      ]
+    },
+    {
+      "kanji": "静",
+      "meaning": {
+        "en": "quiet",
+        "ta": "அமைதி"
+      },
+      "on": [
+        "せい"
+      ],
+      "kun": [
+        "しず.か",
+        "しず.まる"
+      ],
+      "mnemonic": {
+        "en": "On the left is 青 (blue). On the right is 争 (fight). When the fight ends and everything turns calm and blue like the evening sky, it is quiet.",
+        "ta": "இடப்பக்கம் 青 (நீலம்). வலப்பக்கம் 争 (சண்டை). சண்டை முடிந்து, மாலை வானம் போல எல்லாம் நீலமாக அமைதியாகும்போது, அமைதி."
+      },
+      "examples": [
+        {
+          "word": "静か",
+          "reading": "しずか",
+          "en": "quiet",
+          "ta": "அமைதியான",
+          "vocabId": "n5-v-298"
+        },
+        {
+          "word": "静まる",
+          "reading": "しずまる",
+          "en": "to become quiet",
+          "ta": "அமைதியாக"
+        },
+        {
+          "word": "冷静",
+          "reading": "れいせい",
+          "en": "calm",
+          "ta": "நிதானமான",
+          "vocabId": "n3-v-1177"
+        },
+        {
+          "word": "安静",
+          "reading": "あんせい",
+          "en": "rest (for health)",
+          "ta": "ஓய்வு (உடல்நலத்துக்காக)"
+        }
+      ]
+    },
+    {
+      "kanji": "喜",
+      "meaning": {
+        "en": "joy",
+        "ta": "மகிழ்ச்சி"
+      },
+      "on": [
+        "き"
+      ],
+      "kun": [
+        "よろこ.ぶ"
+      ],
+      "mnemonic": {
+        "en": "On top is a drum on a stand (士 and the parts under it). At the bottom is a mouth (口) singing. Drums beat and people sing at the temple festival: joy!",
+        "ta": "மேலே ஒரு தாங்கியின் மேல் மேளம் (士-உம் அதன் கீழ் உள்ள பகுதிகளும்). கீழே பாடும் ஒரு வாய் (口). கோயில் திருவிழாவில் மேளம் அடிக்கிறது, மக்கள் பாடுகிறார்கள்: மகிழ்ச்சி!"
+      },
+      "note": {
+        "en": "喜ぶ (よろこぶ) is used for other people’s joy too: 母は 喜んで います.",
+        "ta": "மற்றவர்களின் மகிழ்ச்சிக்கும் 喜ぶ (よろこぶ) பயன்படும்: 母は 喜んで います."
+      },
+      "examples": [
+        {
+          "word": "喜ぶ",
+          "reading": "よろこぶ",
+          "en": "to be glad",
+          "ta": "மகிழ",
+          "vocabId": "n4-v-320"
+        },
+        {
+          "word": "喜び",
+          "reading": "よろこび",
+          "en": "joy",
+          "ta": "மகிழ்ச்சி",
+          "vocabId": "n3-v-1153"
+        },
+        {
+          "word": "大喜び",
+          "reading": "おおよろこび",
+          "en": "great joy",
+          "ta": "பெரும் மகிழ்ச்சி"
+        }
+      ]
+    },
+    {
+      "kanji": "老",
+      "meaning": {
+        "en": "old",
+        "ta": "முதுமை"
+      },
+      "on": [
+        "ろう"
+      ],
+      "kun": [
+        "お.いる"
+      ],
+      "mnemonic": {
+        "en": "On top is 土 with a long slash: an old man with long white hair. At the bottom is 匕, his bent back and walking stick. An old man walks slowly.",
+        "ta": "மேலே நீண்ட சாய்வுக் கோட்டுடன் 土: நீண்ட வெள்ளை முடி உள்ள முதியவர். கீழே 匕: அவரின் வளைந்த முதுகும் கைத்தடியும். ஒரு முதியவர் மெதுவாக நடக்கிறார்."
+      },
+      "note": {
+        "en": "老 and 考 (think) have the same top. Old people think a lot!",
+        "ta": "老-க்கும் 考 (யோசி)-க்கும் ஒரே மேல் பகுதி. முதியவர்கள் நிறைய யோசிப்பார்கள்!"
+      },
+      "examples": [
+        {
+          "word": "老人",
+          "reading": "ろうじん",
+          "en": "old person",
+          "ta": "முதியவர்",
+          "vocabId": "n3-v-1183"
+        },
+        {
+          "word": "老い",
+          "reading": "おい",
+          "en": "old age",
+          "ta": "முதுமை",
+          "vocabId": "n3-v-0486"
+        },
+        {
+          "word": "老いる",
+          "reading": "おいる",
+          "en": "to grow old",
+          "ta": "வயதாக"
+        },
+        {
+          "word": "老後",
+          "reading": "ろうご",
+          "en": "one’s old age (after working life)",
+          "ta": "முதுமைக் காலம்"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU15-q01",
+        "type": "kanji_reading",
+        "sentence": "今月の ＿給料＿は もう もらいました。",
+        "target": "給料",
+        "options": [
+          "きゅうりょう",
+          "きゅりょう",
+          "きゅうりょ",
+          "きょうりょう"
+        ],
+        "answer": 0,
+        "explanation_en": "給料 is read きゅうりょう (சம்பளம், salary), with two long sounds. きゅりょう and きゅうりょ are too short.",
+        "explanation_ta": "給料 = きゅうりょう (சம்பளம், salary); இரண்டு நீண்ட ஒலிகள். きゅりょう, きゅうりょ குறுகியவை; தவறு."
+      },
+      {
+        "id": "KU15-q02",
+        "type": "kanji_reading",
+        "sentence": "わからない ことばは ＿辞書＿で しらべます。",
+        "target": "辞書",
+        "options": [
+          "じしょう",
+          "じしょ",
+          "じっしょ",
+          "ししょ"
+        ],
+        "answer": 1,
+        "explanation_en": "辞書 is read じしょ (அகராதி, dictionary). じしょう has an extra long vowel, and ししょ has an unvoiced し.",
+        "explanation_ta": "辞書 = じしょ (அகராதி, dictionary). じしょう-இல் கூடுதல் நீண்ட உயிர்; ししょ-இல் し; தவறு."
+      },
+      {
+        "id": "KU15-q03",
+        "type": "kanji_reading",
+        "sentence": "母の ＿愛情＿を 感じます。",
+        "target": "愛情",
+        "options": [
+          "あいしょう",
+          "あいじょ",
+          "あいじょう",
+          "あいぞう"
+        ],
+        "answer": 2,
+        "explanation_en": "愛情 is read あいじょう (பாசம், affection). あいしょう has an unvoiced しょ, and あいじょ is too short.",
+        "explanation_ta": "愛情 = あいじょう (பாசம், affection). あいしょう-இல் しょ (குரலற்றது); あいじょ குறுகியது; தவறு."
+      },
+      {
+        "id": "KU15-q04",
+        "type": "kanji_reading",
+        "sentence": "＿未来＿の じぶんに 手紙を 書きました。",
+        "target": "未来",
+        "options": [
+          "まつらい",
+          "みいらい",
+          "みれい",
+          "みらい"
+        ],
+        "answer": 3,
+        "explanation_en": "未来 is read みらい (எதிர்காலம், future). まつ is the reading of the look-alike 末 (end), so まつらい is wrong.",
+        "explanation_ta": "未来 = みらい (எதிர்காலம், future). まつ என்பது ஒத்த வடிவ 末 (முடிவு)-இன் வாசிப்பு; அதனால் まつらい தவறு."
+      },
+      {
+        "id": "KU15-q05",
+        "type": "kanji_reading",
+        "sentence": "＿冷たい＿ 水を 飲みたいです。",
+        "target": "冷たい",
+        "options": [
+          "ひえたい",
+          "つめたい",
+          "つべたい",
+          "つめだい"
+        ],
+        "answer": 1,
+        "explanation_en": "冷たい is read つめたい (குளிர்ந்த, cold). ひえ is from 冷える, a different word. つめだい has a voiced だ.",
+        "explanation_ta": "冷たい = つめたい (குளிர்ந்த, cold). ひえ என்பது 冷える என்ற வேறு சொல்லிலிருந்து. つめだい-இல் だ; தவறு."
+      },
+      {
+        "id": "KU15-q06",
+        "type": "kanji_reading",
+        "sentence": "彼は ＿熱心＿に 勉強して います。",
+        "target": "熱心",
+        "options": [
+          "ねつしん",
+          "ねしん",
+          "ねっしん",
+          "ねっじん"
+        ],
+        "answer": 2,
+        "explanation_en": "熱心 is read ねっしん (ஆர்வமுள்ள, eager): ねつ becomes ねっ. ねつしん does not change the sound, and ねしん has no っ.",
+        "explanation_ta": "熱心 = ねっしん (ஆர்வமுள்ள, eager): ねつ → ねっ. ねつしん-இல் இந்த மாற்றம் இல்லை; ねしん-இல் っ இல்லை."
+      },
+      {
+        "id": "KU15-q07",
+        "type": "kanji_reading",
+        "sentence": "この 漢字を ＿覚えて＿ ください。",
+        "target": "覚えて",
+        "options": [
+          "おほえて",
+          "さめえて",
+          "おぼって",
+          "おぼえて"
+        ],
+        "answer": 3,
+        "explanation_en": "覚えて is read おぼえて (நினைவில் வைத்து, remember). おほえて has an unvoiced ほ, and さめ is from 覚める (wake up).",
+        "explanation_ta": "覚えて = おぼえて (நினைவில் வைத்து, remember). おほえて-இல் ほ; さめ என்பது 覚める (விழி)-இலிருந்து; தவறு."
+      },
+      {
+        "id": "KU15-q08",
+        "type": "kanji_reading",
+        "sentence": "この 店は 駅に 近くて ＿便利＿です。",
+        "target": "便利",
+        "options": [
+          "べんり",
+          "びんり",
+          "べんりい",
+          "へんり"
+        ],
+        "answer": 0,
+        "explanation_en": "便利 is read べんり (வசதியான, convenient). びん is the other on reading, used in 便 (flight), not here.",
+        "explanation_ta": "便利 = べんり (வசதியான, convenient). びん என்பது மற்றொரு ஆன் வாசிப்பு; 便 (விமானச் சேவை)-இல் வரும், இங்கே அல்ல."
+      },
+      {
+        "id": "KU15-q09",
+        "type": "kanji_reading",
+        "sentence": "毎朝 公園を ＿散歩＿します。",
+        "target": "散歩",
+        "options": [
+          "さんほ",
+          "さんぼ",
+          "さんぽ",
+          "ちほ"
+        ],
+        "answer": 2,
+        "explanation_en": "散歩 is read さんぽ (நடைப்பயிற்சி, walk), with ぽ. さんほ and さんぼ have the wrong sound after ん.",
+        "explanation_ta": "散歩 = さんぽ (நடைப்பயிற்சி, walk); ぽ உண்டு. さんほ, さんぼ-இல் ん-க்குப் பின் தவறான ஒலி."
+      },
+      {
+        "id": "KU15-q10",
+        "type": "kanji_reading",
+        "sentence": "プレゼントを もらって、妹は とても ＿喜んで＿ いました。",
+        "target": "喜んで",
+        "options": [
+          "よろごんで",
+          "よろこって",
+          "きんで",
+          "よろこんで"
+        ],
+        "answer": 3,
+        "explanation_en": "喜んで is read よろこんで (மகிழ்ந்து, glad). よろごんで has a voiced ご, and きんで uses the on reading き.",
+        "explanation_ta": "喜んで = よろこんで (மகிழ்ந்து, glad). よろごんで-இல் ご; きんで-இல் ஆன் வாசிப்பு き; தவறு."
+      },
+      {
+        "id": "KU15-q11",
+        "type": "orthography",
+        "sentence": "図書館では ＿しずか＿に して ください。",
+        "target": "しずか",
+        "options": [
+          "清か",
+          "静か",
+          "晴か",
+          "精か"
+        ],
+        "answer": 1,
+        "explanation_en": "しずか (அமைதியான, quiet) is written 静か. 清, 晴 and 精 also have 青, but they don’t mean quiet.",
+        "explanation_ta": "しずか (அமைதியான, quiet) = 静か. 清, 晴, 精 இவற்றிலும் 青 உண்டு; ஆனால் “அமைதி” என்ற பொருள் இல்லை."
+      },
+      {
+        "id": "KU15-q12",
+        "type": "orthography",
+        "sentence": "毎日の ＿どりょく＿が 大切です。",
+        "target": "どりょく",
+        "options": [
+          "努力",
+          "怒力",
+          "奴力",
+          "努刀"
+        ],
+        "answer": 0,
+        "explanation_en": "どりょく (முயற்சி, effort) is written 努力. 怒 (angry) is also read ど, and 刀 (sword) only looks like 力.",
+        "explanation_ta": "どりょく (முயற்சி, effort) = 努力. 怒 (கோபம்)-ஐயும் ど என்று படிக்கலாம்; 刀 (வாள்) பார்க்க மட்டுமே 力 போல."
+      },
+      {
+        "id": "KU15-q13",
+        "type": "orthography",
+        "sentence": "電車で ＿ろうじん＿に 席を ゆずりました。",
+        "target": "ろうじん",
+        "options": [
+          "考人",
+          "労人",
+          "者人",
+          "老人"
+        ],
+        "answer": 3,
+        "explanation_en": "ろうじん (முதியவர், old person) is written 老人. 考 has the same top, and 労 is also read ろう, but they don’t mean old.",
+        "explanation_ta": "ろうじん (முதியவர், old person) = 老人. 考-க்கு அதே மேல் பகுதி; 労-ஐயும் ろう என்று படிக்கலாம்; ஆனால் “முதுமை” இல்லை."
+      },
+      {
+        "id": "KU15-q14",
+        "type": "orthography",
+        "sentence": "この 花は 何 ＿しゅるい＿ ありますか。",
+        "target": "しゅるい",
+        "options": [
+          "種頭",
+          "種顔",
+          "種類",
+          "種願"
+        ],
+        "answer": 2,
+        "explanation_en": "しゅるい (வகை, kind) is written 種類. 頭, 顔 and 願 have the same right part 頁, but they are not るい.",
+        "explanation_ta": "しゅるい (வகை, kind) = 種類. 頭, 顔, 願 இவற்றிலும் அதே வலப்பகுதி 頁; ஆனால் அவை るい அல்ல."
+      },
+      {
+        "id": "KU15-q15",
+        "type": "orthography",
+        "sentence": "スープが ＿さめない＿ うちに 食べて ください。",
+        "target": "さめない",
+        "options": [
+          "冷めない",
+          "覚めない",
+          "令めない",
+          "寒めない"
+        ],
+        "answer": 0,
+        "explanation_en": "Here さめる means the soup gets cold (ஆறிப்போ, cool down), so it is 冷めない. 覚める is also さめる, but it means to wake up.",
+        "explanation_ta": "இங்கே さめる = சூப் ஆறிப்போதல் (cool down); அதனால் 冷めない. 覚める-ம் さめる தான், ஆனால் பொருள் “விழித்தெழு”."
+      },
+      {
+        "id": "KU15-q16",
+        "type": "orthography",
+        "sentence": "ジュースを ＿ひやして＿ おきます。",
+        "target": "ひやして",
+        "options": [
+          "令やして",
+          "冷やして",
+          "氷やして",
+          "寒やして"
+        ],
+        "answer": 1,
+        "explanation_en": "ひやして (குளிர்வித்து, chill) is written 冷やして. 令 has no ice drops 冫, and 氷 (ice) and 寒 (cold) are other words.",
+        "explanation_ta": "ひやして (குளிர்வித்து, chill) = 冷やして. 令-இல் பனித் துளிகள் 冫 இல்லை; 氷 (பனிக்கட்டி), 寒 (குளிர்) வேறு சொற்கள்."
+      }
+    ]
+  }
+}

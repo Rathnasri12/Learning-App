@@ -1,0 +1,763 @@
+{
+ "lesson": 35,
+ "title": {
+  "ja": "私にとって",
+  "ta": "எனக்கு",
+  "en": "For me"
+ },
+ "intro_en": "This lesson is about society and values: people, groups, rights and points of view. You learn to say \"for me …\" (私にとって) and \"as a doctor …\" (医者として). You learn to show who an action or feeling is aimed at with 〜に対して (\"toward\"). You learn to imagine another person’s feelings with 〜にしたら / 〜にすれば. Last, you learn to judge from a clue with 〜から言うと / 〜からすると / 〜からして.",
+ "intro_ta": "இந்தப் பாடம் சமூகம், மதிப்பீடுகள் பற்றியது: மனிதர்கள், குழுக்கள், உரிமைகள், கண்ணோட்டங்கள். 'எனக்கு…' / 'என்னைப் பொறுத்தவரை…' (私にとって), 'மருத்துவராக…' (医者として) என்று சொல்லக் கற்போம். ஒரு செயல் அல்லது உணர்வு யாரை நோக்கியது என்று காட்ட 〜に対して, மற்றவரின் இடத்தில் இருந்து அவர் உணர்வைக் கற்பனை செய்ய 〜にしたら / 〜にすれば, ஒரு அடையாளத்தை வைத்து முடிவு சொல்ல 〜から言うと / 〜からすると / 〜からして ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g35-1",
+   "pattern": "N に とって",
+   "name": {
+    "en": "For N / from N’s point of view",
+    "ta": "N-க்கு / N-ஐப் பொறுத்தவரை"
+   },
+   "explanation_en": "Put a person or group before にとって. Then say how something looks to them: important, hard, a problem, and so on. 外国人にとって、敬語は難しい = \"For foreigners, keigo is hard.\" The end is usually a judgment word: 大切だ, 難しい, 問題だ, ありがたい. Compare のために: that means \"for the good of\" or \"in order to\". にとって is only \"in the eyes of\". You can’t use it with action verbs like 作る or 買う.",
+   "explanation_ta": "ஒருவர் அல்லது ஒரு குழு + にとって, பின்பு அவர்களின் பார்வையில் அந்த விஷயம் எப்படிப்பட்டது என்று சொல்கிறோம்: முக்கியம், கடினம், பிரச்சினை முதலியன. 外国人にとって、敬語は難しい = 'வெளிநாட்டவருக்கு மரியாதைச் சொற்கள் கடினம்.' வாக்கியம் பெரும்பாலும் மதிப்பீட்டுச் சொல்லுடன் முடியும்: 大切だ, 難しい, 問題だ, ありがたい. தமிழில் '-க்கு' அல்லது '-ஐப் பொறுத்தவரை' என்பதற்குச் சமம். のために என்பது 'நன்மைக்காக / நோக்கத்துக்காக'; にとって 'அவர் பார்வையில்' மட்டுமே. ஆகவே 作る, 買う போன்ற செயல் வினைகளுடன் வராது: 母にとってケーキを作った தவறு; 母のためにケーキを作った சரி.",
+   "tamil_parallel": "எனக்கு, குடும்பம்தான் முக்கியம் = 私にとって、家族が大切です",
+   "tamil_parallel_en": "எனக்கு (for me), குடும்பம்தான் முக்கியம் (family is what matters) = 私にとって、家族が大切です",
+   "formation": "பெயர்ச்சொல் + に とって、〜 (மதிப்பீடு: 大切だ / 難しい / 問題だ)\nபெயர்ச்சொல் + に とっての + பெயர்ச்சொல்",
+   "formation_en": "noun + に とって、〜 (a judgment: 大切だ / 難しい / 問題だ)\nnoun + に とっての + noun",
+   "examples": [
+    {
+     "ja": "私にとって、家族は何より大切です。",
+     "reading": "わたしに とって、かぞくは なにより たいせつです。",
+     "romaji": "watashi ni totte, kazoku wa nani yori taisetsu desu.",
+     "ta": "எனக்கு, குடும்பம்தான் எல்லாவற்றையும் விட முக்கியம்.",
+     "en": "For me, family is more important than anything."
+    },
+    {
+     "ja": "外国人にとって、敬語はとても難しい。",
+     "reading": "がいこくじんに とって、けいごは とても むずかしい。",
+     "romaji": "gaikokujin ni totte, keigo wa totemo muzukashii.",
+     "ta": "வெளிநாட்டவருக்கு மரியாதைச் சொற்கள் மிகவும் கடினம்.",
+     "en": "For foreigners, keigo is very difficult."
+    },
+    {
+     "ja": "この写真は、祖母にとって大切な思い出です。",
+     "reading": "この しゃしんは、そぼに とって たいせつな おもいでです。",
+     "romaji": "kono shashin wa, sobo ni totte taisetsu na omoide desu.",
+     "ta": "இந்தப் புகைப்படம் பாட்டிக்கு ஒரு விலைமதிப்பற்ற நினைவு.",
+     "en": "This photo is a precious memory for my grandmother."
+    },
+    {
+     "ja": "子どもにとって、遊ぶことも勉強の一つだ。",
+     "reading": "こどもに とって、あそぶ ことも べんきょうの ひとつだ。",
+     "romaji": "kodomo ni totte, asobu koto mo benkyou no hitotsu da.",
+     "ta": "குழந்தைகளுக்கு விளையாடுவதும் ஒருவகைக் கல்விதான்.",
+     "en": "For children, playing is also a kind of learning."
+    },
+    {
+     "ja": "あなたにとって、幸せとは何ですか。",
+     "reading": "あなたに とって、しあわせとは なんですか。",
+     "romaji": "anata ni totte, shiawase to wa nan desu ka.",
+     "ta": "உங்களைப் பொறுத்தவரை மகிழ்ச்சி என்றால் என்ன?",
+     "en": "What does happiness mean to you?"
+    },
+    {
+     "ja": "農家にとって、雨が降らないのは大きな問題です。",
+     "reading": "のうかに とって、あめが ふらないのは おおきな もんだいです。",
+     "romaji": "nouka ni totte, ame ga furanai no wa ookina mondai desu.",
+     "ta": "விவசாயிகளுக்கு மழை பெய்யாதது பெரிய பிரச்சினை.",
+     "en": "For farmers, no rain is a big problem."
+    }
+   ],
+   "pitfalls_en": "Don’t use にとって for doing something for someone: 母にとってケーキを作った is wrong. Say 母のためにケーキを作った. Also don’t use it for attitude toward someone: that is に対して.",
+   "pitfalls_ta": "ஒருவருக்காக ஒன்றைச் செய்வதற்கு にとって வராது: 母にとってケーキを作った தவறு; 母のためにケーキを作った சரி. ஒருவரிடம் காட்டும் நடத்தைக்கும் にとって அல்ல, に対して."
+  },
+  {
+   "id": "g35-2",
+   "pattern": "N と して / N と しては",
+   "name": {
+    "en": "As N (role, position)",
+    "ta": "N-ஆக (பங்கு, நிலை)"
+   },
+   "explanation_en": "として shows a role, job or position: 医者として = \"as a doctor\". 留学生として来た = \"came as a student\". Before a noun, use としての: 親としての責任 (\"my duty as a parent\"). としては has two uses. 私としては = \"as for me, in my opinion\". 日本人としては背が高い = \"tall for a Japanese person\". This second use is close to にしては (Lesson 13).",
+   "explanation_ta": "として ஒருவரின் பங்கு, வேலை அல்லது நிலையைக் காட்டுகிறது: 医者として = 'மருத்துவராக'. 留学生として来た = 'வெளிநாட்டு மாணவராக வந்தேன்.' பெயர்ச்சொல்லுக்கு முன் としての: 親としての責任 = 'பெற்றோர் என்ற முறையிலான பொறுப்பு'. としては இரண்டு விதமாக வரும்: 私としては = 'என்னைப் பொறுத்தவரை (என் கருத்து)'; 日本人としては背が高い = 'ஜப்பானியர் என்ற அளவில் பார்த்தால் உயரம்'. இரண்டாவது பயன்பாடு பாடம் 13-இல் கற்ற にしては-க்கு அருகில் உள்ளது. தமிழின் '-ஆக' (மருத்துவராக, ஆசிரியராக) என்பதற்கு நேர் இணை.",
+   "tamil_parallel": "அவர் மருத்துவராக உழைக்கிறார் = 彼は医者として働いている",
+   "tamil_parallel_en": "அவர் மருத்துவராக உழைக்கிறார் (he works as a doctor) = 彼は医者として働いている",
+   "formation": "பெயர்ச்சொல் + と して + வினை (பங்கு)\nபெயர்ச்சொல் + と しての + பெயர்ச்சொல்\nபெயர்ச்சொல் + と しては、〜 (கருத்து / 'அந்த அளவில்')",
+   "formation_en": "noun + と して + verb (role)\nnoun + と しての + noun\nnoun + と しては、〜 (opinion / \"for a …\")",
+   "examples": [
+    {
+     "ja": "彼は医者として、村の人々のために働いている。",
+     "reading": "かれは いしゃと して、むらの ひとびとの ために はたらいて いる。",
+     "romaji": "kare wa isha to shite, mura no hitobito no tame ni hataraite iru.",
+     "ta": "அவர் மருத்துவராக கிராம மக்களுக்காக உழைக்கிறார்.",
+     "en": "He works as a doctor for the people of the village."
+    },
+    {
+     "ja": "三年前、留学生として日本に来ました。",
+     "reading": "さんねんまえ、りゅうがくせいと して にほんに きました。",
+     "romaji": "sannen mae, ryuugakusei to shite nihon ni kimashita.",
+     "ta": "மூன்று ஆண்டுகளுக்கு முன் வெளிநாட்டு மாணவராக ஜப்பானுக்கு வந்தேன்.",
+     "en": "Three years ago, I came to Japan as an international student."
+    },
+    {
+     "ja": "私としては、この考えに賛成です。",
+     "reading": "わたしと しては、この かんがえに さんせいです。",
+     "romaji": "watashi to shite wa, kono kangae ni sansei desu.",
+     "ta": "என்னைப் பொறுத்தவரை, இந்த யோசனைக்கு நான் ஆதரவு.",
+     "en": "As for me, I agree with this idea."
+    },
+    {
+     "ja": "親として、子どもの将来が心配です。",
+     "reading": "おやと して、こどもの しょうらいが しんぱいです。",
+     "romaji": "oya to shite, kodomo no shourai ga shinpai desu.",
+     "ta": "பெற்றோர் என்ற முறையில், பிள்ளையின் எதிர்காலம் பற்றிக் கவலையாக இருக்கிறது.",
+     "en": "As a parent, I worry about my child’s future."
+    },
+    {
+     "ja": "京都は、古い町として世界に知られている。",
+     "reading": "きょうとは、ふるい まちと して せかいに しられて いる。",
+     "romaji": "kyouto wa, furui machi to shite sekai ni shirarete iru.",
+     "ta": "கியோட்டோ ஒரு பழமையான நகரமாக உலகம் முழுவதும் அறியப்படுகிறது.",
+     "en": "Kyoto is known around the world as an old city."
+    },
+    {
+     "ja": "社会人としてのマナーを身につけましょう。",
+     "reading": "しゃかいじんと しての マナーを みに つけましょう。",
+     "romaji": "shakaijin to shite no manaa o mi ni tsukemashou.",
+     "ta": "வேலைக்குச் செல்லும் ஒருவருக்குரிய நடத்தை முறைகளைக் கற்றுக்கொள்வோம்.",
+     "en": "Let’s learn the manners of a working adult."
+    },
+    {
+     "ja": "彼は日本人としては背が高いほうだ。",
+     "reading": "かれは にほんじんと しては せが たかい ほうだ。",
+     "romaji": "kare wa nihonjin to shite wa se ga takai hou da.",
+     "ta": "ஜப்பானியர் என்ற அளவில் பார்த்தால் அவர் உயரமானவர்தான்.",
+     "en": "He is on the tall side for a Japanese person."
+    }
+   ],
+   "pitfalls_en": "Before a noun, add の: 親として責任 is wrong; say 親としての責任. Don’t mix it up with にとって: 私として大切だ is wrong; say 私にとって大切だ.",
+   "pitfalls_ta": "பெயர்ச்சொல்லுக்கு முன் の வேண்டும்: 親として責任 தவறு; 親としての責任 சரி. にとって-உடன் குழப்ப வேண்டாம்: 私として大切だ தவறு; 私にとって大切だ சரி."
+  },
+  {
+   "id": "g35-3",
+   "pattern": "N に 対して (toward)",
+   "name": {
+    "en": "Toward / against N",
+    "ta": "N-இடம் / N-க்கு எதிராக"
+   },
+   "explanation_en": "に対して shows who or what an action or feeling is aimed at. 目上の人に対して丁寧に話す = \"speak politely to seniors\". 計画に対して反対する = \"oppose the plan\". 質問に対して答える = \"answer a question\". Before a noun, use に対する: 子どもに対する愛 (\"love for children\"). It is a bit formal; in talk, simple に often works too. In Lesson 14 you learned 〜のに対して for contrast (\"while A …, B …\"). This one is different: it means \"toward\".",
+   "explanation_ta": "ஒரு செயல் அல்லது உணர்வு யாரை / எதை நோக்கியது என்று காட்ட に対して. 目上の人に対して丁寧に話す = 'மூத்தவர்களிடம் மரியாதையாகப் பேசுதல்'. 計画に対して反対する = 'திட்டத்தை எதிர்த்தல்'. 質問に対して答える = 'கேள்விக்குப் பதில் சொல்லுதல்'. பெயர்ச்சொல்லுக்கு முன் に対する: 子どもに対する愛 = 'குழந்தைகள் மீதான அன்பு'. இது சற்று முறையானது; பேச்சில் வெறும் に கூடப் போதும். தமிழில் '-இடம்', '-மீது', '-க்கு எதிராக' என்ற வேற்றுமை உருபுகளுக்குச் சமம். பாடம் 14-இல் கற்ற 〜のに対して ஒப்பீட்டுக்கு ('A இப்படி, ஆனால் B அப்படி'); இது 'நோக்கி' என்ற வேறு பொருள்.",
+   "tamil_parallel": "மூத்தவர்களிடம் மரியாதையாகப் பேசு = 目上の人に対して丁寧に話しなさい",
+   "tamil_parallel_en": "மூத்தவர்களிடம் மரியாதையாகப் பேசு (speak politely to seniors) = 目上の人に対して丁寧に話しなさい",
+   "formation": "பெயர்ச்சொல் + に 対して + வினை / பெயரடை\nபெயர்ச்சொல் + に 対する + பெயர்ச்சொல்",
+   "formation_en": "noun + に 対して + verb / adjective\nnoun + に 対する + noun",
+   "examples": [
+    {
+     "ja": "先生は、学生の質問に対して丁寧に答えた。",
+     "reading": "せんせいは、がくせいの しつもんに たいして ていねいに こたえた。",
+     "romaji": "sensei wa, gakusei no shitsumon ni taishite teinei ni kotaeta.",
+     "ta": "ஆசிரியர் மாணவரின் கேள்விக்குப் பொறுமையாகப் பதில் சொன்னார்.",
+     "en": "The teacher answered the student’s question carefully."
+    },
+    {
+     "ja": "目上の人に対して、そんな言い方をしてはいけない。",
+     "reading": "めうえの ひとに たいして、そんな いいかたを しては いけない。",
+     "romaji": "meue no hito ni taishite, sonna iikata o shite wa ikenai.",
+     "ta": "மூத்தவர்களிடம் அப்படிப் பேசக் கூடாது.",
+     "en": "You must not speak like that to your seniors."
+    },
+    {
+     "ja": "住民は、新しい道路の計画に対して反対している。",
+     "reading": "じゅうみんは、あたらしい どうろの けいかくに たいして はんたい して いる。",
+     "romaji": "juumin wa, atarashii douro no keikaku ni taishite hantai shite iru.",
+     "ta": "புதிய சாலைத் திட்டத்தை ஊர் மக்கள் எதிர்க்கிறார்கள்.",
+     "en": "The residents are against the new road plan."
+    },
+    {
+     "ja": "子どもに対する親の愛は、どこの国でも同じだ。",
+     "reading": "こどもに たいする おやの あいは、どこの くにでも おなじだ。",
+     "romaji": "kodomo ni taisuru oya no ai wa, doko no kuni demo onaji da.",
+     "ta": "குழந்தைகள் மீது பெற்றோர் வைக்கும் அன்பு எந்த நாட்டிலும் ஒன்றுதான்.",
+     "en": "Parents’ love for their children is the same in every country."
+    },
+    {
+     "ja": "彼は他人に対して、いつも優しい。",
+     "reading": "かれは たにんに たいして、いつも やさしい。",
+     "romaji": "kare wa tanin ni taishite, itsumo yasashii.",
+     "ta": "அவர் மற்றவர்களிடம் எப்போதும் அன்பாக நடந்துகொள்வார்.",
+     "en": "He is always kind to other people."
+    },
+    {
+     "ja": "差別に対して声を上げる人が増えてきた。",
+     "reading": "さべつに たいして こえを あげる ひとが ふえて きた。",
+     "romaji": "sabetsu ni taishite koe o ageru hito ga fuete kita.",
+     "ta": "பாகுபாட்டுக்கு எதிராகக் குரல் கொடுப்பவர்கள் அதிகரித்து வருகிறார்கள்.",
+     "en": "More and more people are speaking out against discrimination."
+    }
+   ],
+   "pitfalls_en": "Before a noun, use に対する, not に対して: 子どもに対して愛 is wrong. Don’t use に対して for a simple place or time: 駅に対して行く is wrong.",
+   "pitfalls_ta": "பெயர்ச்சொல்லுக்கு முன் に対する வர வேண்டும்: 子どもに対して愛 தவறு; 子どもに対する愛 சரி. இடம், நேரத்தைக் குறிக்க に対して வராது: 駅に対して行く தவறு."
+  },
+  {
+   "id": "g35-4",
+   "pattern": "N に したら / N に すれば",
+   "name": {
+    "en": "From N’s side (imagining their feelings)",
+    "ta": "N-இன் இடத்தில் இருந்து பார்த்தால்"
+   },
+   "explanation_en": "Use this to put yourself in someone else’s shoes. You guess how they feel. 子どもにしたら、つらいだろう = \"From the child’s side, it must be hard.\" The end often has a guess: だろう, かもしれない, と思う. It is used for other people, not for yourself. For yourself, say 私にとって or 私としては. にとって gives a general judgment. にしたら imagines one person’s feelings.",
+   "explanation_ta": "மற்றவரின் இடத்தில் உங்களை வைத்து, அவர் எப்படி உணர்வார் என்று ஊகிக்கும் வடிவம். 子どもにしたら、つらいだろう = 'குழந்தையின் இடத்தில் இருந்து பார்த்தால் கஷ்டமாகத்தான் இருக்கும்.' வாக்கியம் பெரும்பாலும் ஊகத்துடன் முடியும்: だろう, かもしれない, と思う. இது மற்றவர்களுக்கு மட்டுமே; உங்களைப் பற்றிச் சொல்ல 私にとって அல்லது 私としては. にとって பொதுவான மதிப்பீடு; にしたら / にすれば ஒருவரின் மன உணர்வைக் கற்பனை செய்வது. தமிழில் 'அவர் நிலையில் இருந்து பார்த்தால்…' என்பதற்குச் சமம்.",
+   "tamil_parallel": "குழந்தையின் இடத்தில் இருந்து பார்த்தால் கஷ்டமாக இருக்கும் = 子どもにしたら、つらいだろう",
+   "tamil_parallel_en": "குழந்தையின் இடத்தில் இருந்து பார்த்தால் (from the child’s side) கஷ்டமாக இருக்கும் (it must be hard) = 子どもにしたら、つらいだろう",
+   "formation": "பெயர்ச்சொல் (மற்றவர்) + に したら、〜だろう / 〜かもしれない\nபெயர்ச்சொல் (மற்றவர்) + に すれば、〜だろう",
+   "formation_en": "noun (another person) + に したら、〜だろう / 〜かもしれない\nnoun (another person) + に すれば、〜だろう",
+   "examples": [
+    {
+     "ja": "子どもにしたら、毎日塾に行くのはつらいだろう。",
+     "reading": "こどもに したら、まいにち じゅくに いくのは つらいだろう。",
+     "romaji": "kodomo ni shitara, mainichi juku ni iku no wa tsurai darou.",
+     "ta": "குழந்தையின் இடத்தில் இருந்து பார்த்தால், தினமும் டியூஷன் போவது கஷ்டமாகத்தான் இருக்கும்.",
+     "en": "For the child, going to cram school every day must be hard."
+    },
+    {
+     "ja": "親にすれば、子どもが遠くに住むのは寂しいものだ。",
+     "reading": "おやに すれば、こどもが とおくに すむのは さびしい ものだ。",
+     "romaji": "oya ni sureba, kodomo ga tooku ni sumu no wa sabishii mono da.",
+     "ta": "பெற்றோரின் நிலையில், பிள்ளை தொலைவில் வாழ்வது தனிமையாகத்தான் இருக்கும்.",
+     "en": "For parents, it is lonely when their child lives far away."
+    },
+    {
+     "ja": "店員にしたら、閉店の直前に客が来ると困るだろう。",
+     "reading": "てんいんに したら、へいてんの ちょくぜんに きゃくが くると こまるだろう。",
+     "romaji": "ten'in ni shitara, heiten no chokuzen ni kyaku ga kuru to komaru darou.",
+     "ta": "கடை ஊழியர்களின் இடத்தில் இருந்து பார்த்தால், கடை மூடும் நேரத்தில் வாடிக்கையாளர் வந்தால் சிரமமாகத்தான் இருக்கும்.",
+     "en": "For shop staff, a customer coming just before closing must be a bother."
+    },
+    {
+     "ja": "迷子の子どもにすれば、どんなに怖かったことか。",
+     "reading": "まいごの こどもに すれば、どんなに こわかった ことか。",
+     "romaji": "maigo no kodomo ni sureba, donna ni kowakatta koto ka.",
+     "ta": "வழிதவறிய அந்தக் குழந்தைக்கு எவ்வளவு பயமாக இருந்திருக்கும்!",
+     "en": "How scared that lost child must have been!"
+    },
+    {
+     "ja": "彼にしたら、親切のつもりだったのでしょう。",
+     "reading": "かれに したら、しんせつの つもりだったのでしょう。",
+     "romaji": "kare ni shitara, shinsetsu no tsumori datta no deshou.",
+     "ta": "அவரைப் பொறுத்தவரை, உதவி செய்யும் எண்ணத்தில்தான் அப்படிச் செய்திருப்பார்.",
+     "en": "From his side, he probably meant to be kind."
+    },
+    {
+     "ja": "外国人にすれば、日本のゴミの分け方は複雑だと感じるだろう。",
+     "reading": "がいこくじんに すれば、にほんの ゴミの わけかたは ふくざつだと かんじるだろう。",
+     "romaji": "gaikokujin ni sureba, nihon no gomi no wakekata wa fukuzatsu da to kanjiru darou.",
+     "ta": "வெளிநாட்டவரின் இடத்தில் இருந்து பார்த்தால், ஜப்பானின் குப்பை பிரிக்கும் முறை சிக்கலாகத் தோன்றும்.",
+     "en": "To foreigners, Japan’s way of sorting trash probably feels complicated."
+    }
+   ],
+   "pitfalls_en": "Don’t use it about yourself: 私にしたら is unusual; say 私にとって or 私としては. Don’t use it with things: 車にしたら is wrong. It is for people (or animals) with feelings.",
+   "pitfalls_ta": "உங்களைப் பற்றிச் சொல்ல இது வழக்கமாக வராது: 私にしたら என்பதற்குப் பதில் 私にとって / 私としては. உணர்வு இல்லாத பொருட்களுடன் வராது: 車にしたら தவறு; உணர்வு உள்ள மனிதர் (அல்லது விலங்கு) மட்டுமே."
+  },
+  {
+   "id": "g35-5",
+   "pattern": "N から 言うと / から すると / から して",
+   "name": {
+    "en": "Judging from N",
+    "ta": "N-ஐ வைத்துப் பார்த்தால்"
+   },
+   "explanation_en": "These show what your judgment is based on. から言うと (also から言えば) = \"speaking from …\": a point of view or experience. 経験から言うと = \"from my experience\". からすると = \"judging from …\": a clue you see or hear. 話し方からすると = \"judging from the way he talks\". からして = \"just from N (the first small thing)\". It means \"even just this shows it\". 名前からして高そうだ = \"Even the name sounds expensive.\"",
+   "explanation_ta": "உங்கள் முடிவு எதை அடிப்படையாகக் கொண்டது என்று காட்டும் வடிவங்கள். から言うと (から言えば) = ஒரு கண்ணோட்டம் அல்லது அனுபவத்திலிருந்து சொல்வது: 経験から言うと = 'என் அனுபவத்தை வைத்துச் சொன்னால்'. からすると = கண்ணால் பார்க்கும் / காதால் கேட்கும் அடையாளத்தை வைத்து ஊகிப்பது: 話し方からすると = 'பேசும் விதத்தை வைத்துப் பார்த்தால்'. からして = 'முதலில் தெரியும் சிறிய விஷயத்தைப் பார்த்தாலே' — 'இதைப் பார்த்தாலே மற்றதும் புரியும்' என்ற உணர்வு: 名前からして高そうだ = 'பெயரைப் பார்த்தாலே விலை அதிகம் போலத் தெரிகிறது'. தமிழில் '-ஐ வைத்துப் பார்த்தால்', '-ஐப் பார்த்தாலே' என்பதற்குச் சமம்.",
+   "tamil_parallel": "அவர் பேச்சை வைத்துப் பார்த்தால், அவர் ஒசாகாவைச் சேர்ந்தவர் = 話し方からすると、彼は大阪の人だ",
+   "tamil_parallel_en": "அவர் பேச்சை வைத்துப் பார்த்தால் (judging from how he talks), அவர் ஒசாகாவைச் சேர்ந்தவர் (he is from Osaka) = 話し方からすると、彼は大阪の人だ",
+   "formation": "பெயர்ச்சொல் + から 言うと / から 言えば (கண்ணோட்டம், அனுபவம்)\nபெயர்ச்சொல் + から すると / から すれば (அடையாளம் → ஊகம்)\nபெயர்ச்சொல் + から して (இதைப் பார்த்தாலே)",
+   "formation_en": "noun + から 言うと / から 言えば (point of view, experience)\nnoun + から すると / から すれば (clue → guess)\nnoun + から して (even just from this)",
+   "examples": [
+    {
+     "ja": "経験から言うと、この仕事は一週間でできると思います。",
+     "reading": "けいけんから いうと、この しごとは いっしゅうかんで できると おもいます。",
+     "romaji": "keiken kara iu to, kono shigoto wa isshuukan de dekiru to omoimasu.",
+     "ta": "என் அனுபவத்தை வைத்துச் சொன்னால், இந்த வேலையை ஒரு வாரத்தில் முடிக்கலாம் என்று நினைக்கிறேன்.",
+     "en": "From my experience, I think this job can be done in a week."
+    },
+    {
+     "ja": "親の立場から言うと、子どもには安全な道を通ってほしい。",
+     "reading": "おやの たちばから いうと、こどもには あんぜんな みちを とおって ほしい。",
+     "romaji": "oya no tachiba kara iu to, kodomo ni wa anzen na michi o tootte hoshii.",
+     "ta": "பெற்றோர் நிலையிலிருந்து சொன்னால், பிள்ளைகள் பாதுகாப்பான வழியில் செல்ல வேண்டும் என்று விரும்புகிறோம்.",
+     "en": "From a parent’s position, I want children to take safe roads."
+    },
+    {
+     "ja": "あの話し方からすると、彼は関西の人だろう。",
+     "reading": "あの はなしかたから すると、かれは かんさいの ひとだろう。",
+     "romaji": "ano hanashikata kara suru to, kare wa kansai no hito darou.",
+     "ta": "அவர் பேசும் விதத்தை வைத்துப் பார்த்தால், அவர் கான்சாய் பகுதியைச் சேர்ந்தவராக இருப்பார்.",
+     "en": "Judging from the way he talks, he must be from the Kansai area."
+    },
+    {
+     "ja": "空の色からすると、午後は雨が降りそうだ。",
+     "reading": "そらの いろから すると、ごごは あめが ふりそうだ。",
+     "romaji": "sora no iro kara suru to, gogo wa ame ga furisou da.",
+     "ta": "வானத்தின் நிறத்தை வைத்துப் பார்த்தால், மதியம் மழை பெய்யும் போலிருக்கிறது.",
+     "en": "Judging from the color of the sky, it looks like rain this afternoon."
+    },
+    {
+     "ja": "日本人の感覚からすると、時間に遅れるのはとても失礼だ。",
+     "reading": "にほんじんの かんかくから すると、じかんに おくれるのは とても しつれいだ。",
+     "romaji": "nihonjin no kankaku kara suru to, jikan ni okureru no wa totemo shitsurei da.",
+     "ta": "ஜப்பானியர்களின் பார்வையில், நேரம் தவறுவது மிகவும் மரியாதைக் குறைவு.",
+     "en": "To the Japanese way of thinking, being late is very rude."
+    },
+    {
+     "ja": "この店は、名前からして高そうだ。",
+     "reading": "この みせは、なまえから して たかそうだ。",
+     "romaji": "kono mise wa, namae kara shite takasou da.",
+     "ta": "இந்தக் கடையின் பெயரைப் பார்த்தாலே விலை அதிகம் போலத் தெரிகிறது.",
+     "en": "Even just the name of this shop makes it sound expensive."
+    },
+    {
+     "ja": "彼は服装からして、まじめそうな人だ。",
+     "reading": "かれは ふくそうから して、まじめそうな ひとだ。",
+     "romaji": "kare wa fukusou kara shite, majimesou na hito da.",
+     "ta": "அவருடைய உடையைப் பார்த்தாலே அவர் ஒழுக்கமானவர் போலத் தெரிகிறது.",
+     "en": "Just from his clothes, he looks like a serious person."
+    }
+   ],
+   "pitfalls_en": "Don’t use から言うと for a clue you see: 空の色から言うと sounds odd; say 空の色からすると. Use からして for a small first sign, not for a full reason.",
+   "pitfalls_ta": "கண்ணால் பார்க்கும் அடையாளத்துக்கு から言うと பொருந்தாது: 空の色から言うと என்பதற்குப் பதில் 空の色からすると. からして ஒரு சிறிய முதல் அடையாளத்துக்கு மட்டுமே; முழுக் காரணத்தைச் சொல்ல அல்ல."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0036",
+  "n3-v-0041",
+  "n3-v-0044",
+  "n3-v-0067",
+  "n3-v-0102",
+  "n3-v-0108",
+  "n3-v-0140",
+  "n3-v-0151",
+  "n3-v-0171",
+  "n3-v-0189",
+  "n3-v-0192",
+  "n3-v-0194",
+  "n3-v-0208",
+  "n3-v-0256",
+  "n3-v-0270",
+  "n3-v-0290",
+  "n3-v-0519",
+  "n3-v-0617",
+  "n3-v-0664",
+  "n3-v-0808",
+  "n3-v-0871",
+  "n3-v-0917",
+  "n3-v-0918",
+  "n3-v-0925",
+  "n3-v-0999",
+  "n3-v-1051",
+  "n3-v-1081",
+  "n3-v-1144",
+  "n3-v-1181",
+  "n3-v-1204",
+  "n3-v-1268",
+  "n3-v-1287",
+  "n3-v-1302",
+  "n3-v-1341",
+  "n3-v-1345",
+  "n3-v-1350",
+  "n3-v-1353",
+  "n3-v-1370",
+  "n3-v-1410",
+  "n3-v-1419",
+  "n3-v-1558",
+  "n3-v-1691",
+  "n3-v-1829",
+  "n3-v-1831",
+  "n3-v-1844",
+  "n3-v-1874",
+  "n3-v-1876",
+  "n3-v-1939",
+  "n3-v-1943",
+  "n3-v-1959",
+  "n3-v-1966",
+  "n3-v-2009",
+  "n3-v-2015",
+  "n3-v-2018",
+  "n3-v-2025"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L35-q01",
+    "type": "kanji_reading",
+    "sentence": "人は みな ＿平等＿で ある べきだ。",
+    "target": "平等",
+    "options": [
+     "へいとう",
+     "びょうとう",
+     "びょうどう",
+     "へいどう"
+    ],
+    "answer": 2,
+    "explanation_ta": "平等 = びょうどう (சமத்துவம்). 平 இங்கு びょう (平和-வில் へい அல்ல), 等 இங்கு どう. இரண்டும் சேர்ந்து びょうどう.",
+    "explanation_en": "平等 is read びょうどう (equality). 平 is びょう here (not へい as in 平和), and 等 is どう."
+   },
+   {
+    "id": "L35-q02",
+    "type": "kanji_reading",
+    "sentence": "子どもには 教育を 受ける ＿権利＿が ある。",
+    "target": "権利",
+    "options": [
+     "けんり",
+     "けんりい",
+     "げんり",
+     "かんり"
+    ],
+    "answer": 0,
+    "explanation_ta": "権利 = けんり (உரிமை). かんり என்பது 管理 (நிர்வாகம்) — வேறு சொல். げんり-வில் தவறான கடின ஒலி.",
+    "explanation_en": "権利 is read けんり (right). かんり is 管理 (management), a different word. げんり has a wrong voiced sound."
+   },
+   {
+    "id": "L35-q03",
+    "type": "kanji_reading",
+    "sentence": "相手の ＿立場＿に なって 考えましょう。",
+    "target": "立場",
+    "options": [
+     "りつば",
+     "たちじょう",
+     "りっば",
+     "たちば"
+    ],
+    "answer": 3,
+    "explanation_ta": "立場 = たちば (நிலை, நிலைப்பாடு). இது ஜப்பானிய (訓) வாசிப்பு: 立つ-வின் たち + 場 = ば.",
+    "explanation_en": "立場 is read たちば (position). It uses Japanese readings: たち (from 立つ) + ば."
+   },
+   {
+    "id": "L35-q04",
+    "type": "orthography",
+    "sentence": "彼は 日本で 生まれたが、＿こくせき＿は インドだ。",
+    "target": "こくせき",
+    "options": [
+     "国席",
+     "国籍",
+     "国積",
+     "国績"
+    ],
+    "answer": 1,
+    "explanation_ta": "こくせき = 国籍 (நாட்டுரிமை). 籍 = பதிவேடு (竹 பகுதி). 席 = இருக்கை, 積 = குவிப்பு, 績 = சாதனை — ஒலி ஒன்றே, பொருள் வேறு.",
+    "explanation_en": "こくせき is 国籍 (nationality). 籍 means \"register\". 席 = seat, 積 = pile, 績 = results. Same sound, different meaning."
+   },
+   {
+    "id": "L35-q05",
+    "type": "orthography",
+    "sentence": "女性に 対する ＿さべつ＿を なくしたい。",
+    "target": "さべつ",
+    "options": [
+     "左別",
+     "差列",
+     "差別",
+     "佐別"
+    ],
+    "answer": 2,
+    "explanation_ta": "さべつ = 差別 (பாகுபாடு). 差 = வேறுபாடு, 別 = பிரித்தல். 左 (இடது), 佐 ஒலியில் 'さ' என்றாலும் பொருந்தாது; 列 = வரிசை.",
+    "explanation_en": "さべつ is 差別 (discrimination). 差 = difference, 別 = separate. 左 (left) and 佐 also sound さ but are wrong. 列 = line."
+   },
+   {
+    "id": "L35-q06",
+    "type": "vocab_context",
+    "sentence": "祭りの 人込みで、子どもが （　　）に なって しまった。",
+    "options": [
+     "迷子",
+     "他人",
+     "本人",
+     "少年"
+    ],
+    "answer": 0,
+    "explanation_ta": "கூட்டத்தில் குழந்தை வழிதவறுவது = 迷子になる. 他人 = அந்நியர், 本人 = சம்பந்தப்பட்டவர், 少年 = சிறுவன்; 〜になってしまった உடன் பொருந்தாது.",
+    "explanation_en": "A child getting lost in a crowd = 迷子になる. 他人 = stranger, 本人 = the person himself, 少年 = boy. They don’t fit."
+   },
+   {
+    "id": "L35-q07",
+    "type": "vocab_context",
+    "sentence": "パスポートは、（　　）が 窓口に 来て 受け取って ください。",
+    "options": [
+     "他人",
+     "個々",
+     "全員",
+     "本人"
+    ],
+    "answer": 3,
+    "explanation_ta": "பாஸ்போர்ட்டைச் சம்பந்தப்பட்டவரே நேரில் வந்து பெற வேண்டும் = 本人. 他人 இதற்கு நேர் எதிர் (வேறொருவர்).",
+    "explanation_en": "The passport owner must come in person: 本人. 他人 is the opposite (someone else)."
+   },
+   {
+    "id": "L35-q08",
+    "type": "vocab_context",
+    "sentence": "会社の パソコンを （　　）で 使っては いけません。",
+    "options": [
+     "個人",
+     "私用",
+     "自身",
+     "自己"
+    ],
+    "answer": 1,
+    "explanation_ta": "அலுவலகப் பொருளைச் சொந்த வேலைக்குப் பயன்படுத்துவது = 私用で使う. 個人 = தனிநபர், 自身 / 自己 = தான்; 'で使う' உடன் இயல்பாக வருவது 私用.",
+    "explanation_en": "Using company things for personal matters = 私用で使う. 個人 = individual, 自身 / 自己 = self. Only 私用 fits naturally."
+   },
+   {
+    "id": "L35-q09",
+    "type": "vocab_context",
+    "sentence": "家族 全員が （　　）ので、写真を 撮りましょう。",
+    "options": [
+     "等しい",
+     "対した",
+     "揃った",
+     "伝わった"
+    ],
+    "answer": 2,
+    "explanation_ta": "எல்லோரும் வந்து சேர்ந்துவிட்டார்கள் = 全員が揃った. 等しい = சமமான; 伝わった = பரவியது — இவை பொருந்தாது.",
+    "explanation_en": "Everyone is here = 全員が揃った. 等しい = equal, 伝わった = was passed on. They don’t fit."
+   },
+   {
+    "id": "L35-q10",
+    "type": "paraphrase",
+    "sentence": "人は それぞれ 考え方が 違う。",
+    "options": [
+     "人は みんな 同じ ことを 考えて いる。",
+     "人は 考える ことが 好きでは ない。",
+     "人は ほかの 人の 考えを 聞かない。",
+     "一人一人 考え方が 違う。"
+    ],
+    "answer": 3,
+    "explanation_ta": "それぞれ = ஒவ்வொருவரும் = 一人一人. 'எல்லோரும் ஒன்றையே நினைக்கிறார்கள்' என்பது எதிர்ப் பொருள்.",
+    "explanation_en": "それぞれ = each person = 一人一人. \"Everyone thinks the same\" is the opposite."
+   },
+   {
+    "id": "L35-q11",
+    "type": "paraphrase",
+    "sentence": "この 二つの 箱の 重さは 等しい。",
+    "options": [
+     "この 二つの 箱は 重さが 違う。",
+     "この 二つの 箱は 重さが 同じだ。",
+     "この 二つの 箱は とても 重い。",
+     "この 二つの 箱は 軽い。"
+    ],
+    "answer": 1,
+    "explanation_ta": "等しい = சமமான = 同じ. 'கனமானது' (重い) என்று பொருள் இல்லை; 重さ என்ற சொல் இருப்பதால் குழம்ப வேண்டாம்.",
+    "explanation_en": "等しい = equal = 同じ. It doesn’t mean \"heavy\". Don’t be fooled by the word 重さ."
+   },
+   {
+    "id": "L35-q12",
+    "type": "usage",
+    "sentence": "立場",
+    "options": [
+     "社長の 立場では、そんな ことは 言えないだろう。",
+     "バスの 立場で 三十分 待った。",
+     "この 部屋は 立場が 広くて、気持ちが いい。",
+     "雨の 日は 立場が 悪くて、歩きにくい。"
+    ],
+    "answer": 0,
+    "explanation_ta": "立場 = ஒருவரின் நிலை / பொறுப்பு: 社長の立場 சரி. பேருந்து நிறுத்தம் = バス停, நடக்கும் தரை = 足元/足場; இவை 立場 அல்ல.",
+    "explanation_en": "立場 = someone’s position or role: 社長の立場 is right. A bus stop is バス停, and footing is 足元 / 足場, not 立場."
+   },
+   {
+    "id": "L35-q13",
+    "type": "usage",
+    "sentence": "揃う",
+    "options": [
+     "毎朝 七時に 家を 揃います。",
+     "友達に 本を 揃って もらいました。",
+     "必要な 書類が 全部 揃ったら、出して ください。",
+     "雨が 揃って、川の 水が 増えた。"
+    ],
+    "answer": 2,
+    "explanation_ta": "揃う = தேவையானவை எல்லாம் ஒன்றுசேர்தல் / முழுமையாதல்: 書類が全部揃う சரி. 揃う を எடுக்காத வினை; 'வீட்டை விட்டு கிளம்புதல்' 家を出る.",
+    "explanation_en": "揃う = everything needed is together: 書類が全部揃う is right. 揃う doesn’t take を. Leaving home is 家を出る."
+   },
+   {
+    "id": "L35-q14",
+    "type": "grammar_form",
+    "sentence": "私（　　）、家族は 何より 大切な 存在です。",
+    "options": [
+     "に 対して",
+     "に とって",
+     "と して",
+     "に すれば"
+    ],
+    "answer": 1,
+    "explanation_ta": "'எனக்கு, குடும்பம் முக்கியம்' — மதிப்பீடு = にとって. にすれば மற்றவர்களுக்கு; に対して ஒருவரை நோக்கிய செயலுக்கு.",
+    "explanation_en": "\"For me, family is important\" is a judgment: にとって. にすれば is for other people. に対して is for an action toward someone."
+   },
+   {
+    "id": "L35-q15",
+    "type": "grammar_form",
+    "sentence": "彼は 留学生（　　）日本に 来て、今は 大学で 教えて いる。",
+    "options": [
+     "に とって",
+     "に 対して",
+     "から して",
+     "と して"
+    ],
+    "answer": 3,
+    "explanation_ta": "'வெளிநாட்டு மாணவராக வந்தார்' — பங்கு/நிலை = として. にとって மதிப்பீட்டுக்கு மட்டும்.",
+    "explanation_en": "\"He came as an international student\" is a role: として. にとって is only for a judgment."
+   },
+   {
+    "id": "L35-q16",
+    "type": "grammar_form",
+    "sentence": "目上の 人（　　）、そんな 話し方を しては いけません。",
+    "options": [
+     "に 対して",
+     "に とって",
+     "と して",
+     "から すると"
+    ],
+    "answer": 0,
+    "explanation_ta": "பேச்சு மூத்தவர்களை நோக்கியது = に対して ('மூத்தவர்களிடம்'). にとって 'அவர் பார்வையில்' — இங்கு பொருந்தாது.",
+    "explanation_en": "The way of talking is aimed at seniors: に対して (\"to seniors\"). にとって means \"in their eyes\" and doesn’t fit."
+   },
+   {
+    "id": "L35-q17",
+    "type": "grammar_form",
+    "sentence": "子ども（　　）、毎日 塾に 行くのは つらいだろう。",
+    "options": [
+     "と して",
+     "に 対して",
+     "に したら",
+     "から 言うと"
+    ],
+    "answer": 2,
+    "explanation_ta": "குழந்தையின் உணர்வைக் கற்பனை செய்து 'கஷ்டமாக இருக்கும்' (だろう) = にしたら. として பங்கைக் காட்டும்.",
+    "explanation_en": "Imagining the child’s feelings, \"it must be hard\" (だろう): にしたら. として shows a role."
+   },
+   {
+    "id": "L35-q18",
+    "type": "grammar_form",
+    "sentence": "あの 話し方（　　）、彼は 関西の 人だろう。",
+    "options": [
+     "に とって",
+     "から すると",
+     "と して",
+     "に 対して"
+    ],
+    "answer": 1,
+    "explanation_ta": "பேசும் விதம் என்ற அடையாளத்தை வைத்து ஊகிப்பது = からすると. மற்றவை அடிப்படையைக் காட்டாது.",
+    "explanation_en": "Guessing from a clue (the way he talks) = からすると. The others don’t show a basis for a guess."
+   },
+   {
+    "id": "L35-q19",
+    "type": "grammar_form",
+    "sentence": "学生の 質問（　　）、先生は 丁寧に 答えた。",
+    "options": [
+     "に とって",
+     "と して",
+     "に したら",
+     "に 対して"
+    ],
+    "answer": 3,
+    "explanation_ta": "கேள்விக்குப் பதில் சொல்லுதல் — பதில் கேள்வியை நோக்கியது = に対して. にしたら உணர்வைக் கற்பனை செய்வது.",
+    "explanation_en": "Answering a question: the answer is aimed at it = に対して. にしたら imagines feelings."
+   },
+   {
+    "id": "L35-q20",
+    "type": "grammar_form",
+    "sentence": "この 店は 名前（　　）高そうだ。",
+    "options": [
+     "に 対して",
+     "と して",
+     "から して",
+     "に とって"
+    ],
+    "answer": 2,
+    "explanation_ta": "'பெயரைப் பார்த்தாலே விலை அதிகம் போல' — சிறிய முதல் அடையாளம் = からして. として = '-ஆக' (பங்கு).",
+    "explanation_en": "\"Even the name looks expensive\": a small first sign = からして. として = \"as\" (a role)."
+   },
+   {
+    "id": "L35-q21",
+    "type": "sentence_order",
+    "before": "外国人",
+    "chunks": [
+     "に とって",
+     "敬語は",
+     "とても",
+     "難しい"
+    ],
+    "star": 1,
+    "after": "ものだ。",
+    "explanation_ta": "外国人 + に とって (வெளிநாட்டவருக்கு) → 敬語は (மரியாதைச் சொற்கள்) → とても → 難しい ものだ. ★ = 敬語は.",
+    "explanation_en": "外国人 + に とって (for foreigners) → 敬語は (keigo) → とても → 難しい ものだ. ★ = 敬語は."
+   },
+   {
+    "id": "L35-q22",
+    "type": "sentence_order",
+    "before": "私は",
+    "chunks": [
+     "医者",
+     "と して",
+     "村の",
+     "人々の"
+    ],
+    "star": 1,
+    "after": "ために 働きたい。",
+    "explanation_ta": "医者 + と して (மருத்துவராக) → 村の 人々の ために (கிராம மக்களுக்காக) 働きたい. ★ = と して.",
+    "explanation_en": "医者 + と して (as a doctor) → 村の 人々の ために (for the village people) 働きたい. ★ = と して."
+   },
+   {
+    "id": "L35-q23",
+    "type": "sentence_order",
+    "before": "親の",
+    "chunks": [
+     "立場",
+     "から",
+     "言うと、",
+     "子どもには"
+    ],
+    "star": 2,
+    "after": "安全な 道を 通って ほしい。",
+    "explanation_ta": "親の 立場 (பெற்றோர் நிலை) → から 言うと (இருந்து சொன்னால்) → 子どもには → பாதுகாப்பான வழியில் செல்ல வேண்டும். ★ = 言うと.",
+    "explanation_en": "親の 立場 (a parent’s position) → から 言うと (speaking from) → 子どもには → I want them to take safe roads. ★ = 言うと."
+   },
+   {
+    "id": "L35-q24",
+    "type": "passage_cloze",
+    "passage": "私は 三年前、留学生［1］日本に 来ました。来た ばかりの ころ、私［2］いちばん 難しかったのは 敬語でした。目上の 人［3］どう 話せば いいか、全然 わからなかったのです。今 考えると、日本人の 先生［4］、私の 日本語は きっと 変に 聞こえた でしょう。それでも 先生は いつも 優しく 教えて くださいました。",
+    "blanks": [
+     {
+      "options": [
+       "に とって",
+       "と して",
+       "から して",
+       "に 対して"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "と して",
+       "に 対して",
+       "に とって",
+       "から して"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "に 対して",
+       "と して",
+       "に とって",
+       "に すれば"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "と して",
+       "に 対して",
+       "から して",
+       "に したら"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "[1] 'வெளிநாட்டு மாணவராக வந்தேன்' — பங்கு = として. [2] 'எனக்கு மிகக் கடினமாக இருந்தது' — மதிப்பீடு = にとって. [3] 'மூத்தவர்களிடம் எப்படிப் பேசுவது' — நோக்கி = に対して. [4] ஆசிரியரின் இடத்தில் இருந்து அவர் உணர்வைக் கற்பனை செய்தல் (でしょう) = にしたら.",
+    "explanation_en": "[1] \"I came as a student\": a role = として. [2] \"The hardest thing for me\": a judgment = にとって. [3] \"How to speak to seniors\": toward = に対して. [4] Imagining the teacher’s side (でしょう) = にしたら."
+   }
+  ]
+ }
+}

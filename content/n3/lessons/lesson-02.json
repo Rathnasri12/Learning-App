@@ -1,0 +1,283 @@
+{
+  "lesson": 2,
+  "title": { "ja": "ゲームなんか", "ta": "வார இறுதித் திட்டங்கள்", "en": "Plans for the weekend" },
+  "intro_ta": "இந்தப் பாடத்தில் நண்பர்களை வெளியே அழைப்பது, வார இறுதித் திட்டம் போடுவது பற்றிப் பேசக் கற்போம். 'பிக்னிக் மாதிரி ஏதாவது' என்று உதாரணம் சொல்ல அல்லது 'கேம் எல்லாம் வேண்டாம்' என்று ஒதுக்கிப் பேச N なんか; 'தனியாக மலை ஏறுவதா!' என்று ஆச்சரியம், நம்பமுடியாமையைக் காட்ட 〜なんて; 'ஜூஸ் அல்லது ஏதாவது', 'கடற்கரை அல்லது எங்காவது' என்று தெளிவில்லாமல் சொல்ல N か何か / N かどこか; 'ஓடினாலும் பயனில்லை' என்று சாதாரணப் பேச்சில் சொல்ல V-たって ஆகியவற்றைப் படிப்போம். முகாம், மலை நடை, பானங்கள், விளையாட்டுகள் பற்றிய சொற்களும் உண்டு.",
+  "intro_en": "In this lesson you will invite friends out and make weekend plans. You will learn N なんか. Use it to give an example, like \"a picnic or something\". You can also use it to brush something off: \"games? no thanks\". You will learn 〜なんて to show surprise: \"climb a mountain alone?!\". You will learn N か何か and N かどこか to be vague: \"juice or something\", \"the beach or somewhere\". You will also learn V-たって, a casual way to say \"even if\". New words cover camping, hiking, drinks and games.",
+  "grammar": [
+    {
+      "id": "g02-1",
+      "pattern": "N なんか",
+      "name": { "en": "N なんか: things like N", "ta": "N なんか: N மாதிரி / N எல்லாம்" },
+      "explanation_ta": "N なんか என்பது N4-இல் கற்ற など-வின் சாதாரணப் பேச்சு வடிவம். இதற்கு மூன்று வேலைகள் உண்டு. (1) ஒரு உதாரணம் தந்து மென்மையாகப் பரிந்துரைப்பது: ジュースなんかどう？ ('ஜூஸ் மாதிரி ஏதாவது எப்படி?'). (2) தன்னைத் தாழ்த்திப் பணிவாகப் பேசுவது: 私なんか ('நானெல்லாம்...'). (3) ஒன்றை மதிப்பில்லாததாக ஒதுக்கித் தள்ளுவது, பெரும்பாலும் எதிர்மறையுடன்: ゲームなんかしたくない ('கேம் எல்லாம் விளையாட வேண்டாம்'). தமிழில் 'மாதிரி', '-எல்லாம்' என்று சேர்ப்பது போல. பெயர்ச்சொல்லுக்குப் பின் நேரடியாக வரும்; が, を பெரும்பாலும் விடுபடும், ஆனால் に, で, と போன்றவை இருக்கலாம் (公園でなんか). など எழுத்திலும் மரியாதைப் பேச்சிலும்; なんか நண்பர்களிடம் மட்டும்.",
+      "explanation_en": "N なんか is the casual form of など, which you learned in N4. It has three jobs. (1) Give a soft example or suggestion: ジュースなんかどう？ (\"How about juice or something?\"). (2) Talk about yourself humbly: 私なんか (\"someone like me ...\"). (3) Brush something off as not worth much, often with a negative: ゲームなんかしたくない (\"I don’t want to play games or anything\"). In Tamil, it is like adding \"மாதிரி\" (like) or \"-எல்லாம்\" (and all that). It comes right after the noun. が and を usually drop out, but に, で, と can stay: 公園でなんか. Use など in writing and polite speech. Use なんか only with friends.",
+      "tamil_parallel": "ஜூஸ் மாதிரி ஏதாவது எப்படி? = ジュースなんかどう？; கேம் எல்லாம் வேண்டாம் = ゲームなんかいらない",
+      "tamil_parallel_en": "\"How about juice or something?\" (ஜூஸ் மாதிரி ஏதாவது எப்படி?) = ジュースなんかどう？ \"No games and all that\" (கேம் எல்லாம் வேண்டாம்) = ゲームなんかいらない",
+      "formation": "பெயர்ச்சொல் + なんか: ジュースなんか・私なんか\nபெயர்ச்சொல் + (に・で・と) + なんか: 公園でなんか\n(が・を பெரும்பாலும் விடுபடும்)\nமரியாதை / எழுத்து வடிவம்: など",
+      "formation_en": "Noun + なんか: ジュースなんか・私なんか\nNoun + (に・で・と) + なんか: 公園でなんか\n(が and を usually drop out)\nPolite / written form: など",
+      "examples": [
+        { "ja": "飲み物は ジュースなんか どう？", "reading": "のみものは ジュースなんか どう？", "romaji": "nomimono wa juusu nanka dou?", "ta": "குடிக்க ஜூஸ் மாதிரி ஏதாவது எப்படி?", "en": "For drinks, how about juice or something?" },
+        { "ja": "今度の 週末は ハイキングなんか いいね。", "reading": "こんどの しゅうまつは ハイキングなんか いいね。", "romaji": "kondo no shuumatsu wa haikingu nanka ii ne.", "ta": "இந்த வார இறுதிக்கு மலை நடை மாதிரி ஏதாவது நன்றாக இருக்கும்.", "en": "Something like hiking would be nice this weekend." },
+        { "ja": "私なんか まだまだです。", "reading": "わたしなんか まだまだです。", "romaji": "watashi nanka madamada desu.", "ta": "நானெல்லாம் இன்னும் கற்க வேண்டியது நிறைய.", "en": "Someone like me still has a long way to go." },
+        { "ja": "ゲームなんか したくない。外で 遊ぼうよ。", "reading": "ゲームなんか したくない。そとで あそぼうよ。", "romaji": "geemu nanka shitakunai. soto de asobou yo.", "ta": "கேம் எல்லாம் விளையாட வேண்டாம். வெளியே விளையாடலாம் வா.", "en": "I don't want to play games or anything. Let's play outside." },
+        { "ja": "あんな 人の 言う ことなんか 信じないで。", "reading": "あんな ひとの いう ことなんか しんじないで。", "romaji": "anna hito no iu koto nanka shinjinaide.", "ta": "அப்படிப்பட்டவர் சொல்வதையெல்லாம் நம்பாதே.", "en": "Don't believe anything that sort of person says." },
+        { "ja": "お菓子なんか 食べないで、ちゃんと ご飯を 食べなさい。", "reading": "おかしなんか たべないで、ちゃんと ごはんを たべなさい。", "romaji": "okashi nanka tabenaide, chanto gohan o tabenasai.", "ta": "தின்பண்டம் எல்லாம் சாப்பிடாமல் ஒழுங்காகச் சாப்பாடு சாப்பிடு.", "en": "Don't eat sweets. Eat a proper meal." }
+      ],
+      "pitfalls_ta": "மற்றவருடைய பொருள் அல்லது விருப்பத்துடன் なんか சேர்த்தால் அவமதிப்பது போலக் கேட்கலாம் (先生の話なんか = 'ஆசிரியர் பேச்செல்லாம்...'). மரியாதையாக உதாரணம் சொல்ல など பயன்படுத்துங்கள். தொடக்கத்தில் வரும் なんか ('ஏனோ, எதுவோ') வேறு சொல்.",
+      "pitfalls_en": "なんか with someone else’s things can sound rude: 先生の話なんか (\"the teacher’s talk and stuff\"). For polite examples, use など. Also, なんか at the start of a sentence (\"somehow\") is a different word."
+    },
+    {
+      "id": "g02-2",
+      "pattern": "〜なんて",
+      "name": { "en": "〜なんて: something like ~ (surprise)", "ta": "〜なんて: '...வா?!' (ஆச்சரியம், நம்பமுடியாமை)" },
+      "explanation_ta": "〜なんて என்பது なんか-ஐ விட உணர்ச்சி அதிகம் உள்ள சொல். ஒரு செயல் அல்லது செய்தி மீது ஆச்சரியம், நம்பமுடியாமை, வெறுப்பு, அல்லது 'அதெல்லாம் முக்கியமில்லை' என்ற அலட்சியம் காட்டும். தமிழில் 'தனியாக மலை ஏறுவதா?!', 'அவன் தோல்வியடைந்தானா? நம்பவே முடியவில்லை' என்று சொல்வது போல. なんか பெயர்ச்சொல்லுக்குப் பின் மட்டுமே வரும்; ஆனால் なんて வினை, பெயரடையின் சாதாரண வடிவத்துக்குப் பின்னும் (முழு வாக்கியத்துக்குப் பின்னும்) வரலாம்: 一人で行くなんて. பின்னால் பெரும்பாலும் 信じられない、びっくりした、すごい、ひどい போன்ற உணர்ச்சிச் சொற்கள் வரும். 'N なんて人' = 'N என்ற பெயருடைய (எனக்குத் தெரியாத) ஒருவர்' என்ற பொருளிலும் வரும்.",
+      "explanation_en": "〜なんて is stronger than なんか. It shows surprise, disbelief, dislike, or \"that doesn’t matter\". It is like Tamil \"climb a mountain alone?!\" (தனியாக மலை ஏறுவதா?!). なんか comes only after nouns. But なんて can also come after the plain form of verbs and adjectives, after a whole idea: 一人で行くなんて. After it, you often hear feeling words: 信じられない, びっくりした, すごい, ひどい. Also, N なんて人 means \"someone called N\" (whom I don’t know).",
+      "tamil_parallel": "அவன் தோல்வியடைந்தானா? நம்பவே முடியவில்லை! = 彼が落ちたなんて、信じられない",
+      "tamil_parallel_en": "\"He failed? I can't believe it!\" (அவன் தோல்வியடைந்தானா? நம்பவே முடியவில்லை!) = 彼が落ちたなんて、信じられない",
+      "formation": "சாதாரண வடிவம் (வினை / い-பெயரடை) + なんて: 行くなんて・落ちたなんて・高いなんて\nபெயர்ச்சொல் / な-பெயரடை (+だ) + なんて: 宿題なんて・好きだなんて\n〜なんて + உணர்ச்சிச் சொல் (信じられない・すごい・ひどい …)\nN なんて + பெயர்ச்சொல் = 'N என்ற ...': ラジュなんて人",
+      "formation_en": "Plain form (verb / い-adjective) + なんて: 行くなんて・落ちたなんて・高いなんて\nNoun / な-adjective (+だ) + なんて: 宿題なんて・好きだなんて\n〜なんて + feeling word (信じられない・すごい・ひどい …)\nN なんて + noun = \"a ... called N\": ラジュなんて人",
+      "examples": [
+        { "ja": "一人で 山に 登るなんて、危ないよ。", "reading": "ひとりで やまに のぼるなんて、あぶないよ。", "romaji": "hitori de yama ni noboru nante, abunai yo.", "ta": "தனியாக மலை ஏறுவதா? ஆபத்து!", "en": "Climbing a mountain alone? That's dangerous!" },
+        { "ja": "彼が 試験に 落ちたなんて、信じられない。", "reading": "かれが しけんに おちたなんて、しんじられない。", "romaji": "kare ga shiken ni ochita nante, shinjirarenai.", "ta": "அவன் தேர்வில் தோல்வியடைந்தானா? நம்பவே முடியவில்லை.", "en": "He failed the exam? I can't believe it." },
+        { "ja": "こんな 所で 君に 会うなんて、びっくりした。", "reading": "こんな ところで きみに あうなんて、びっくりした。", "romaji": "konna tokoro de kimi ni au nante, bikkuri shita.", "ta": "இப்படிப்பட்ட இடத்தில் உன்னைச் சந்திப்பேன் என்று நினைக்கவே இல்லை!", "en": "Fancy meeting you in a place like this! What a surprise." },
+        { "ja": "宿題なんて、やりたくないよ。", "reading": "しゅくだいなんて、やりたくないよ。", "romaji": "shukudai nante, yaritakunai yo.", "ta": "வீட்டுப்பாடமா? செய்யவே விருப்பமில்லை.", "en": "Homework? I don't want to do it." },
+        { "ja": "コーヒー 一杯で 千円も するなんて、高すぎる。", "reading": "コーヒー いっぱいで せんえんも するなんて、たかすぎる。", "romaji": "koohii ippai de sen'en mo suru nante, takasugiru.", "ta": "ஒரு கப் காபிக்கு ஆயிரம் யென்னா? மிக அதிகம்!", "en": "A thousand yen for one coffee? That's far too expensive!" },
+        { "ja": "「ラジュ」なんて 人は 知りませんよ。", "reading": "「ラジュ」なんて ひとは しりませんよ。", "romaji": "\"raju\" nante hito wa shirimasen yo.", "ta": "'ராஜு' என்று யாரையும் எனக்குத் தெரியாது.", "en": "I don't know anyone called \"Raju\"." }
+      ],
+      "pitfalls_ta": "வினைக்குப் பின் なんか வராது (✕ 行くなんか); அங்கு なんて தான் சரி. மேலும் なんて ('என்ன ஒரு ...!' என்ற なんて + பெயரடை, உதா. なんてきれいな) வேறு பயன்பாடு; இங்கு வாக்கியத்தின் பின்னால் வரும் なんて-ஐ மட்டும் கவனியுங்கள்.",
+      "pitfalls_en": "なんか can’t follow a verb (✕ 行くなんか). Use なんて there. Also, なんて before an adjective (なんてきれいな, \"how pretty!\") is a different use. Here we only study なんて after a word or idea."
+    },
+    {
+      "id": "g02-3",
+      "pattern": "N か 何か / N か どこか",
+      "name": { "en": "N or something / somewhere", "ta": "N அல்லது ஏதாவது / எங்காவது" },
+      "explanation_ta": "ஒன்றைத் துல்லியமாகச் சொல்லாமல், 'ஜூஸ் அல்லது ஏதாவது', 'கடற்கரை அல்லது வேறு எங்காவது' என்று தோராயமாகச் சொல்ல N か何か / N かどこか பயன்படும். பொருளுக்கு 何か, இடத்துக்கு どこか, ஆளுக்கு 誰か, நேரத்துக்கு いつか. தமிழில் 'பேனா கீனா ஏதாவது', 'கடற்கரை கிடற்கரை எங்காவது' என்று சொல்வது போல. இது மென்மையாகப் பரிந்துரைக்க உதவும்; கேட்பவருக்கு வேறு தேர்வு செய்யவும் இடம் தரும். が, を பெரும்பாலும் விடுபடும் (ジュースか何か飲もう); ஆனால் へ, で, に இருக்கும் (海かどこかへ, 先生か誰かに).",
+      "explanation_en": "Use N か何か or N かどこか when you don’t want to be exact. It means \"N or something\" or \"N or somewhere\". Use 何か for things, どこか for places, 誰か for people and いつか for times. In Tamil, it is like \"பேனா கீனா ஏதாவது\" (a pen or something). It makes a suggestion soft and leaves room for other ideas. が and を usually drop out: ジュースか何か飲もう. But へ, で and に stay: 海かどこかへ, 先生か誰かに.",
+      "tamil_parallel": "ஜூஸ் அல்லது ஏதாவது குடிக்கலாம் = ジュースか何か飲もう; கடற்கரை அல்லது எங்காவது போகலாம் = 海かどこかへ行こう",
+      "tamil_parallel_en": "\"Let's drink juice or something\" (ஜூஸ் அல்லது ஏதாவது குடிக்கலாம்) = ジュースか何か飲もう. \"Let's go to the beach or somewhere\" (கடற்கரை அல்லது எங்காவது போகலாம்) = 海かどこかへ行こう",
+      "formation": "பெயர்ச்சொல் + か + 何か: ジュースか何か (பொருள்)\nபெயர்ச்சொல் + か + どこか (+ へ・で・に): 海かどこかへ (இடம்)\nபெயர்ச்சொல் + か + 誰か (+ に・と): 先生か誰かに (ஆள்)\nபெயர்ச்சொல் + か + いつか: 土曜日かいつか (நேரம்)",
+      "formation_en": "Noun + か + 何か: ジュースか何か (thing)\nNoun + か + どこか (+ へ・で・に): 海かどこかへ (place)\nNoun + か + 誰か (+ に・と): 先生か誰かに (person)\nNoun + か + いつか: 土曜日かいつか (time)",
+      "examples": [
+        { "ja": "のどが 渇いたね。ジュースか 何か 飲もうか。", "reading": "のどが かわいたね。ジュースか なにか のもうか。", "romaji": "nodo ga kawaita ne. juusu ka nanika nomou ka.", "ta": "தாகமாக இருக்கிறது. ஜூஸ் அல்லது ஏதாவது குடிக்கலாமா?", "en": "I'm thirsty. Shall we drink juice or something?" },
+        { "ja": "週末は 海か どこかへ 行きたいな。", "reading": "しゅうまつは うみか どこかへ いきたいな。", "romaji": "shuumatsu wa umi ka dokoka e ikitai na.", "ta": "வார இறுதியில் கடற்கரை அல்லது வேறு எங்காவது போக ஆசை.", "en": "This weekend I'd like to go to the beach or somewhere." },
+        { "ja": "わからない ことは 先生か 誰かに 聞いて ください。", "reading": "わからない ことは せんせいか だれかに きいて ください。", "romaji": "wakaranai koto wa sensei ka dareka ni kiite kudasai.", "ta": "புரியாததை ஆசிரியரிடமோ வேறு யாரிடமோ கேளுங்கள்.", "en": "If you don't understand something, ask your teacher or someone." },
+        { "ja": "書く ものが ない？ じゃあ、ペンか 何か 貸すよ。", "reading": "かく ものが ない？ じゃあ、ペンか なにか かすよ。", "romaji": "kaku mono ga nai? jaa, pen ka nanika kasu yo.", "ta": "எழுத எதுவும் இல்லையா? சரி, பேனா அல்லது ஏதாவது தருகிறேன்.", "en": "Nothing to write with? Then I'll lend you a pen or something." },
+        { "ja": "雨だから、映画館か どこかで 会おう。", "reading": "あめだから、えいがかんか どこかで あおう。", "romaji": "ame dakara, eigakan ka dokoka de aou.", "ta": "மழை பெய்வதால் சினிமா தியேட்டரிலோ வேறு எங்காவதோ சந்திப்போம்.", "en": "It's raining, so let's meet at a cinema or somewhere." },
+        { "ja": "来週の 土曜日か いつか、一緒に キャンプに 行かない？", "reading": "らいしゅうの どようびか いつか、いっしょに キャンプに いかない？", "romaji": "raishuu no doyoubi ka itsuka, issho ni kyanpu ni ikanai?", "ta": "அடுத்த சனிக்கிழமையோ வேறு ஏதாவது நாளோ, சேர்ந்து முகாமுக்குப் போகலாமா?", "en": "Shall we go camping together next Saturday or some other time?" }
+      ],
+      "pitfalls_ta": "何か (ஏதாவது) மற்றும் 何が (எது?) வேறு. 'ジュースか何が' என்று எழுதக் கூடாது. இடத்துக்கு 何か அல்ல, どこか: ✕ 海か何かへ行こう → ○ 海かどこかへ行こう.",
+      "pitfalls_en": "何か (something) and 何が (what?) are different. Don’t write ジュースか何が. For places, use どこか, not 何か: ✕ 海か何かへ行こう → ○ 海かどこかへ行こう."
+    },
+    {
+      "id": "g02-4",
+      "pattern": "V-たって / Adj-くたって",
+      "name": { "en": "V-たって: even if (casual)", "ta": "V-たって: '...னாலும்' (சாதாரணப் பேச்சு)" },
+      "explanation_ta": "N4-இல் கற்ற 〜ても ('...னாலும்') என்பதன் சாதாரணப் பேச்சு வடிவம் 〜たって. வினையின் て-வடிவத்தின் て-ஐ た ஆக்கி って சேர்க்கவும்: 走って → 走ったって, 読んで → 読んだって. い-பெயரடைக்கு 〜くたって (高くたって), な-பெயரடை, பெயர்ச்சொல்லுக்கு 〜だって (雨だって, 静かだって). தமிழில் 'ஓடினாலும் பயனில்லை', 'விலை அதிகமானாலும் பரவாயில்லை' என்பது போல. いくら, 何回 போன்ற சொற்களுடன் 'எத்தனை முறை ...னாலும்' என்ற பொருளில் அடிக்கடி வரும். பொருள் ても-வைப் போலவே; ஆனால் நண்பர்களிடம் மட்டும் பயன்படுத்துங்கள். எழுத்திலும் மரியாதைப் பேச்சிலும் 〜ても தான்.",
+      "explanation_en": "〜たって is the casual form of 〜ても (\"even if\"), which you learned in N4. Take the verb’s て-form, change て to た, and add って: 走って → 走ったって, 読んで → 読んだって. For い-adjectives, use 〜くたって: 高くたって. For な-adjectives and nouns, use 〜だって: 雨だって, 静かだって. In Tamil, it is like \"even if you run\" (ஓடினாலும்). It often comes with いくら or 何回: \"no matter how much ...\". The meaning is the same as ても. But use たって only with friends. In writing and polite speech, use 〜ても.",
+      "tamil_parallel": "இப்போது ஓடினாலும் நேரத்துக்குப் போக முடியாது = 今から走ったって、間に合わない",
+      "tamil_parallel_en": "\"Even if you run now, you won't make it\" (இப்போது ஓடினாலும் நேரத்துக்குப் போக முடியாது) = 今から走ったって、間に合わない",
+      "formation": "வினை て-வடிவம் → て/で-ஐ た/だ ஆக்கி + って: 走って → 走ったって・読んで → 読んだって\nい-பெயரடை: 〜い → 〜くたって: 高い → 高くたって\nな-பெயரடை / பெயர்ச்சொல் + だって: 静かだって・雨だって\n(いくら / 何回 + 〜たって = எத்தனை ...னாலும்)",
+      "formation_en": "Verb て-form → change て/で to た/だ + って: 走って → 走ったって・読んで → 読んだって\nい-adjective: 〜い → 〜くたって: 高い → 高くたって\nな-adjective / noun + だって: 静かだって・雨だって\n(いくら / 何回 + 〜たって = no matter how much ...)",
+      "examples": [
+        { "ja": "今から 走ったって、もう 間に合わないよ。", "reading": "いまから はしったって、もう まにあわないよ。", "romaji": "ima kara hashittatte, mou maniawanai yo.", "ta": "இப்போது ஓடினாலும் இனி நேரத்துக்குப் போக முடியாது.", "en": "Even if you run now, you won't make it." },
+        { "ja": "いくら 誘ったって、彼は 来ないと 思う。", "reading": "いくら さそったって、かれは こないと おもう。", "romaji": "ikura sasottatte, kare wa konai to omou.", "ta": "எத்தனை முறை அழைத்தாலும் அவன் வரமாட்டான் என்று நினைக்கிறேன்.", "en": "No matter how often you invite him, I don't think he'll come." },
+        { "ja": "少し 高くたって、おいしい ものが 食べたい。", "reading": "すこし たかくたって、おいしい ものが たべたい。", "romaji": "sukoshi takakutatte, oishii mono ga tabetai.", "ta": "கொஞ்சம் விலை அதிகமானாலும் ருசியான உணவு சாப்பிட ஆசை.", "en": "Even if it's a bit expensive, I want to eat something tasty." },
+        { "ja": "雨だって、試合は あるよ。", "reading": "あめだって、しあいは あるよ。", "romaji": "ame datte, shiai wa aru yo.", "ta": "மழை பெய்தாலும் போட்டி நடக்கும்.", "en": "Even if it rains, the match is on." },
+        { "ja": "少し 遅れたって 大丈夫だよ。待ってるから。", "reading": "すこし おくれたって だいじょうぶだよ。まってるから。", "romaji": "sukoshi okuretatte daijoubu da yo. matteru kara.", "ta": "கொஞ்சம் தாமதமானாலும் பரவாயில்லை. காத்திருக்கிறேன்.", "en": "It's fine even if you're a bit late. I'll wait." },
+        { "ja": "寒くたって、毎朝 散歩に 行きます。", "reading": "さむくたって、まいあさ さんぽに いきます。", "romaji": "samukutatte, maiasa sanpo ni ikimasu.", "ta": "குளிராக இருந்தாலும் தினமும் காலையில் நடைக்குச் செல்வேன்.", "en": "Even when it's cold, I go for a walk every morning." },
+        { "ja": "今ごろ 謝ったって、もう 遅いよ。", "reading": "いまごろ あやまったって、もう おそいよ。", "romaji": "imagoro ayamattatte, mou osoi yo.", "ta": "இப்போது மன்னிப்புக் கேட்டாலும் காலம் கடந்துவிட்டது.", "en": "Even if you say sorry now, it's too late." }
+      ],
+      "pitfalls_ta": "ます-வடிவத்திலிருந்து உருவாக்க வேண்டாம்: ✕ 読みたって → ○ 読んだって; ✕ 行きたって → ○ 行ったって. 〜たい ('...ணும் ஆசை') உடன் குழப்பிக்கொள்ளாதீர்கள். இணைப்புச்சொல் だって ('ஏனென்றால்') மற்றும் மேற்கோள் 〜って ('...என்று') வேறு.",
+      "pitfalls_en": "Don’t make it from the ます-form: ✕ 読みたって → ○ 読んだって, ✕ 行きたって → ○ 行ったって. Don’t mix it up with 〜たい (\"want to\"). The word だって (\"because\") and the quote 〜って are different too."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0096", "n3-v-0221", "n3-v-0225", "n3-v-0300", "n3-v-0351", "n3-v-0435", "n3-v-0475", "n3-v-0548", "n3-v-0560", "n3-v-0606",
+    "n3-v-0732", "n3-v-0796", "n3-v-0836", "n3-v-0873", "n3-v-0980", "n3-v-0988", "n3-v-0991", "n3-v-1123", "n3-v-1142", "n3-v-1190",
+    "n3-v-1235", "n3-v-1246", "n3-v-1344", "n3-v-1415", "n3-v-1492", "n3-v-1529", "n3-v-1534", "n3-v-1547", "n3-v-1568", "n3-v-1590",
+    "n3-v-1595", "n3-v-1605", "n3-v-1621", "n3-v-1628", "n3-v-1631", "n3-v-1632", "n3-v-1636", "n3-v-1654", "n3-v-1692", "n3-v-1721",
+    "n3-v-1729", "n3-v-1731", "n3-v-1734", "n3-v-1741", "n3-v-1765", "n3-v-1794", "n3-v-1810", "n3-v-1813", "n3-v-1906", "n3-v-1940",
+    "n3-v-2035", "n3-v-2062", "n3-v-2077"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L02-q01", "type": "kanji_reading",
+        "sentence": "明日は 午後から ＿外出＿する 予定です。", "target": "外出",
+        "options": ["かいしゅつ", "がいしゅう", "がいしゅつ", "そとしゅつ"], "answer": 2,
+        "explanation_ta": "外出 = がいしゅつ (வெளியே செல்லுதல்). 外 = がい (கா அல்ல); 出 = しゅつ. がいしゅう என்பது ஒலியைத் தவறாக நீட்டியது.",
+        "explanation_en": "外出 = がいしゅつ (வெளியே செல்லுதல், going out). 外 is がい, not かい. 出 is しゅつ. がいしゅう has the wrong ending."
+      },
+      {
+        "id": "L02-q02", "type": "kanji_reading",
+        "sentence": "この ＿酒＿は 米から 作られて います。", "target": "酒",
+        "options": ["さけ", "さか", "しゅ", "さき"], "answer": 0,
+        "explanation_ta": "தனியாக வரும்போது 酒 = さけ (மது / சாகே). しゅ என்பது 日本酒 (にほんしゅ) போன்ற கூட்டுச் சொற்களில் வரும் ஒலி.",
+        "explanation_en": "On its own, 酒 = さけ (மது, alcohol). しゅ is used in compound words like 日本酒 (にほんしゅ)."
+      },
+      {
+        "id": "L02-q03", "type": "kanji_reading",
+        "sentence": "毎朝 金魚に ＿餌＿を やります。", "target": "餌",
+        "options": ["じ", "えさ", "えざ", "えし"], "answer": 1,
+        "explanation_ta": "餌 = えさ (விலங்குகளுக்கான தீனி). えざ என்பது தேவையில்லாமல் புள்ளி (゛) சேர்த்த தவறு.",
+        "explanation_en": "餌 = えさ (தீனி, animal food). えざ adds a voicing mark (゛) by mistake."
+      },
+      {
+        "id": "L02-q04", "type": "orthography",
+        "sentence": "クラスの 友だちを 映画に ＿さそった＿。", "target": "さそった",
+        "options": ["訪った", "談った", "詠った", "誘った"], "answer": 3,
+        "explanation_ta": "அழைத்தல் = 誘う. 訪 (சந்திக்கச் செல்), 談 (பேச்சு), 詠 (கவிதை) எல்லாமே 言-பக்கம் கொண்டவை; வடிவம் ஒத்திருந்தாலும் பொருள் வேறு.",
+        "explanation_en": "\"To invite\" (அழைக்க) = 誘う. 訪, 談 and 詠 also have the 言 part on the left. They look similar, but the meanings are different."
+      },
+      {
+        "id": "L02-q05", "type": "orthography",
+        "sentence": "ワインを 飲みすぎて、＿よって＿ しまった。", "target": "よって",
+        "options": ["配って", "酔って", "酢って", "酒って"], "answer": 1,
+        "explanation_ta": "போதை ஏறுதல் = 酔う. 酢 (வினிகர்), 酒 (மது) ஒரே பக்கம் (酉) கொண்டவை, ஆனால் வினைச்சொற்கள் அல்ல.",
+        "explanation_en": "\"To get drunk\" (போதை ஏற) = 酔う. 酢 (vinegar) and 酒 (alcohol) share the same 酉 part. But they are not verbs."
+      },
+      {
+        "id": "L02-q06", "type": "vocab_context",
+        "sentence": "今度の 週末、車を 借りて 海まで （　　）に 行かない？",
+        "options": ["ハイキング", "ドライブ", "ボート", "スケート"], "answer": 1,
+        "explanation_ta": "காரை வாடகைக்கு எடுத்து கடற்கரை வரை போவது → ドライブ (காரில் உலா). ハイキング என்பது நடந்து செல்வது.",
+        "explanation_en": "Renting a car and going to the sea → ドライブ (காரில் உலா, a drive). ハイキング is walking."
+      },
+      {
+        "id": "L02-q07", "type": "vocab_context",
+        "sentence": "キャンプ場に 着いたら、まず （　　）を 立てよう。",
+        "options": ["テント", "ヨット", "アルバム", "トランプ"], "answer": 0,
+        "explanation_ta": "முகாமில் முதலில் அமைப்பது கூடாரம் → テントを立てる. ヨット (பாய்மரப் படகு) அமைப்பதில்லை.",
+        "explanation_en": "At a campsite, you first put up a tent → テントを立てる (கூடாரம் அமைக்க). You don’t \"put up\" a yacht (ヨット)."
+      },
+      {
+        "id": "L02-q08", "type": "vocab_context",
+        "sentence": "映画を 見に 行く？ （　　）、家で ゲームでも する？",
+        "options": ["だって", "それと", "それとも", "だけど"], "answer": 2,
+        "explanation_ta": "இரண்டு தேர்வுகளில் ஒன்றைக் கேட்கும் கேள்வியில் 'அல்லது' = それとも. それと ('அதோடு') ஒன்றைக் கூடுதலாகச் சேர்க்கிறது.",
+        "explanation_en": "In a question with two choices, \"or\" (அல்லது) = それとも. それと (\"and also\") adds one more thing."
+      },
+      {
+        "id": "L02-q09", "type": "vocab_context",
+        "sentence": "今日は 忙しくて、昼ご飯を （　　） しまった。",
+        "options": ["除いて", "外して", "省いて", "抜いて"], "answer": 3,
+        "explanation_ta": "ஒரு வேளை உணவைத் தவிர்ப்பது = ご飯を抜く. 外す (கழற்றுதல்) கண்ணாடி, கடிகாரம் போன்றவற்றுக்கு.",
+        "explanation_en": "Skipping a meal = ご飯を抜く (உணவைத் தவிர்க்க). 外す (take off) is for glasses, watches and so on."
+      },
+      {
+        "id": "L02-q10", "type": "vocab_context",
+        "sentence": "雨の ため、運動会は 来週に （　　）。",
+        "options": ["流れた", "上った", "通した", "延びた"], "answer": 3,
+        "explanation_ta": "நிகழ்ச்சி பின்னால் தள்ளிப்போவது = 延びる. 流れる (நிகழ்ச்சி ரத்தாவது) என்றால் 来週に என்ற பகுதி பொருந்தாது.",
+        "explanation_en": "An event being put off to a later day = 延びる (தள்ளிப்போக). 流れる can mean \"be called off\", but then 来週に doesn’t fit."
+      },
+      {
+        "id": "L02-q11", "type": "paraphrase",
+        "sentence": "休みの 日は のんびり 過ごしたい。",
+        "options": ["休みの 日は 忙しく 過ごしたい。", "休みの 日は 一人で 過ごしたい。", "休みの 日は ゆっくり 過ごしたい。", "休みの 日は 外で 過ごしたい。"], "answer": 2,
+        "explanation_ta": "のんびり = ゆっくり (அவசரமின்றி, ஓய்வாக). 忙しく என்பது எதிர்ப்பொருள்; 一人で ('தனியாக') வேறு பொருள்.",
+        "explanation_en": "のんびり = ゆっくり (ஓய்வாக, relaxed, without hurry). 忙しく is the opposite. 一人で (alone) means something else."
+      },
+      {
+        "id": "L02-q12", "type": "paraphrase",
+        "sentence": "今日は 雨なので、外出しません。",
+        "options": ["今日は 雨なので、出かけません。", "今日は 雨なので、起きません。", "今日は 雨なので、休みません。", "今日は 雨なので、帰りません。"], "answer": 0,
+        "explanation_ta": "外出する = 出かける (வெளியே செல்லுதல்). 帰る (வீடு திரும்புதல்) எதிர்த் திசை.",
+        "explanation_en": "外出する = 出かける (வெளியே போக, to go out). 帰る (go home) is the other direction."
+      },
+      {
+        "id": "L02-q13", "type": "usage",
+        "sentence": "誘う",
+        "options": ["先生に 宿題を 誘いました。", "友だちを 花火大会に 誘ったけど、断られた。", "毎朝 犬を 公園まで 誘って います。", "強い 雨が 誘って、道が すべりやすい。"], "answer": 1,
+        "explanation_ta": "誘う = ஒருவரை 'சேர்ந்து செய்யலாம்' என்று அழைப்பது: 友だちを〜に誘う. நாயைக் கூட்டிச் செல்வது 連れて行く; வீட்டுப்பாடத்தைக் கேட்பது 聞く / 出す.",
+        "explanation_en": "誘う = to invite someone to do something with you: 友だちを〜に誘う. Taking a dog somewhere is 連れて行く. Homework doesn’t fit 誘う."
+      },
+      {
+        "id": "L02-q14", "type": "usage",
+        "sentence": "抜く",
+        "options": ["シャツの ボタンが 抜いて しまった。", "ジュースを コップに 抜いて ください。", "テントを 抜いて、キャンプを 始めた。", "歯医者で 悪い 歯を 抜いて もらった。"], "answer": 3,
+        "explanation_ta": "抜く = பிடுங்குதல் (歯を抜く). பொத்தான் தானாகக் கழன்றால் 取れる; ஜூஸை ஊற்றுவது 注ぐ / 入れる.",
+        "explanation_en": "抜く = to pull out: 歯を抜く (பல்லைப் பிடுங்க). A button that comes off by itself is 取れる. Pouring juice is 注ぐ or 入れる."
+      },
+      {
+        "id": "L02-q15", "type": "grammar_form",
+        "sentence": "私（　　） まだまだ 下手です。",
+        "options": ["なんか", "か何か", "たって", "かどこか"], "answer": 0,
+        "explanation_ta": "தன்னைத் தாழ்த்திப் பணிவாகச் சொல்வது → 私なんか ('நானெல்லாம்'). か何か தோராயமான பொருளைக் குறிக்கும்; தன்னைப் பற்றியல்ல.",
+        "explanation_en": "Talking about yourself humbly → 私なんか (\"someone like me\"). か何か means \"or something\". It is not for yourself."
+      },
+      {
+        "id": "L02-q16", "type": "grammar_form",
+        "sentence": "一人で 外国を 旅行する（　　）、すごいね。",
+        "options": ["なんか", "なんて", "か何か", "たって"], "answer": 1,
+        "explanation_ta": "வினையின் சாதாரண வடிவத்துக்குப் பின் ஆச்சரியம் → なんて. なんか பெயர்ச்சொல்லுக்குப் பின் மட்டுமே வரும்.",
+        "explanation_en": "Surprise after the plain form of a verb → なんて. なんか comes only after nouns."
+      },
+      {
+        "id": "L02-q17", "type": "grammar_form",
+        "sentence": "疲れたね。喫茶店（　　）で 少し 休もうか。",
+        "options": ["か何か", "なんて", "かどこか", "たって"], "answer": 2,
+        "explanation_ta": "இடத்தைத் தோராயமாகச் சொல்ல → 喫茶店かどこかで. か何か பொருளுக்கு; இடத்துக்கு どこか.",
+        "explanation_en": "To be vague about a place → 喫茶店かどこかで (a cafe or somewhere). か何か is for things. For places, use どこか."
+      },
+      {
+        "id": "L02-q18", "type": "grammar_form",
+        "sentence": "今から（　　）、もう バスには 間に合わないよ。",
+        "options": ["急ぎたって", "急ぐたって", "急いでって", "急いだって"], "answer": 3,
+        "explanation_ta": "て-வடிவம் 急いで → で-ஐ だ ஆக்கி って → 急いだって ('அவசரப்பட்டாலும்'). 急ぎたって என்பது ます-வடிவத்திலிருந்து உருவாக்கிய தவறு.",
+        "explanation_en": "The て-form is 急いで. Change で to だ and add って → 急いだって (\"even if you hurry\"). 急ぎたって wrongly starts from the ます-form."
+      },
+      {
+        "id": "L02-q19", "type": "grammar_form",
+        "sentence": "この カレーは 少し （　　）、おいしいから 全部 食べるよ。",
+        "options": ["辛いたって", "辛くたって", "辛かったって", "辛いだって"], "answer": 1,
+        "explanation_ta": "い-பெயரடை: 辛い → 辛くたって ('காரமாக இருந்தாலும்'). 辛かったって என்பது '...காரமாக இருந்ததாம்' என்ற மேற்கோள் பொருள் தரும்.",
+        "explanation_en": "い-adjective: 辛い → 辛くたって (\"even if it’s spicy\"). 辛かったって sounds like a quote: \"they said it was spicy\"."
+      },
+      {
+        "id": "L02-q20", "type": "grammar_form",
+        "sentence": "のどが 渇いたな。コーラ（　　） 飲みたい。",
+        "options": ["かどこか", "なんて", "か何か", "たって"], "answer": 2,
+        "explanation_ta": "பானத்தைத் தோராயமாகச் சொல்ல → コーラか何か ('கோலா அல்லது ஏதாவது'). かどこか இடத்துக்கு மட்டும்.",
+        "explanation_en": "To be vague about a drink → コーラか何か (\"cola or something\"). かどこか is only for places."
+      },
+      {
+        "id": "L02-q21", "type": "grammar_form",
+        "sentence": "「ラヴィ、彼女が できたらしいよ。」「え、ラヴィに 彼女が いる（　　）、知らなかった！」",
+        "options": ["なんて", "なんか", "たって", "か何か"], "answer": 0,
+        "explanation_ta": "ஒரு முழு வாக்கியத்தின் மீது ஆச்சரியம் ('ரவிக்குக் காதலி இருக்கிறாளா!') → いるなんて. வினைக்குப் பின் なんか வராது.",
+        "explanation_en": "Surprise at a whole idea (\"Ravi has a girlfriend?!\") → いるなんて. なんか can’t follow a verb."
+      },
+      {
+        "id": "L02-q22", "type": "sentence_order",
+        "before": "雨の 日は ", "chunks": ["家で", "映画", "なんか", "見る"], "star": 2, "after": "のが 好きです。",
+        "explanation_ta": "雨の日は家で映画なんか見るのが好きです = 'மழை நாளில் வீட்டில் படம் மாதிரி ஏதாவது பார்ப்பது பிடிக்கும்.' 映画 + なんか, பிறகு வினை 見る.",
+        "explanation_en": "雨の日は家で映画なんか見るのが好きです = \"On rainy days I like watching films and things at home.\" 映画 + なんか, then the verb 見る."
+      },
+      {
+        "id": "L02-q23", "type": "sentence_order",
+        "before": "いくら ", "chunks": ["電話", "したって", "彼は", "出ない"], "star": 1, "after": "と 思うよ。",
+        "explanation_ta": "いくら電話したって、彼は出ないと思うよ = 'எத்தனை முறை போன் செய்தாலும் அவன் எடுக்கமாட்டான் என்று நினைக்கிறேன்.' いくら + 〜たって ஒன்றாக வரும்.",
+        "explanation_en": "いくら電話したって、彼は出ないと思うよ = \"No matter how often you call, I don’t think he’ll answer.\" いくら goes with 〜たって."
+      },
+      {
+        "id": "L02-q24", "type": "sentence_order",
+        "before": "夏休みは ", "chunks": ["山か", "どこかへ", "キャンプに", "行きたい"], "star": 1, "after": "な。",
+        "explanation_ta": "夏休みは山かどこかへキャンプに行きたいな = 'கோடை விடுமுறையில் மலைக்கோ வேறு எங்காவதோ முகாமுக்குப் போக ஆசை.' 山か + どこかへ சேர்ந்தே வரும்.",
+        "explanation_en": "夏休みは山かどこかへキャンプに行きたいな = \"In the summer holidays I want to go camping in the mountains or somewhere.\" 山か + どこかへ go together."
+      },
+      {
+        "id": "L02-q25", "type": "passage_cloze",
+        "passage": "今度の 土曜日、クラスの みんなで 川へ キャンプに 行く ことに なった。ラヴィも 誘ったけど、「キャンプ［1］ 虫が 多いから 嫌だよ」と 言う。「ラヴィが そんなに 虫が 嫌いだ［2］、知らなかったよ」と 私が 言うと、彼は 笑った。そして、「でも、雨が 降った［3］ 行くよ。みんなと 一緒なら 楽しいから」と 言った。夜は テントの 前で ジュース［4］ 飲みながら、トランプを する 予定だ。",
+        "blanks": [
+          { "options": ["なんか", "か何か", "たって", "かどこか"], "answer": 0 },
+          { "options": ["なんか", "なんて", "たって", "か何か"], "answer": 1 },
+          { "options": ["なんか", "なんて", "たって", "かどこか"], "answer": 2 },
+          { "options": ["か何か", "かどこか", "なんて", "たって"], "answer": 0 }
+        ],
+        "explanation_ta": "［1］ முகாமை 'அதெல்லாம் வேண்டாம்' என்று ஒதுக்குகிறான் → キャンプなんか. ［2］ ஒரு முழு வாக்கியத்தின் மீது ஆச்சரியம் → 嫌いだなんて. ［3］ 'மழை பெய்தாலும் வருவேன்' → 降ったって. ［4］ பானத்தைத் தோராயமாகச் சொல்வது → ジュースか何か; かどこか இடத்துக்கு மட்டும்.",
+        "explanation_en": "[1] Ravi brushes off camping → キャンプなんか. [2] Surprise at a whole idea → 嫌いだなんて. [3] \"I’ll come even if it rains\" → 降ったって. [4] Vague about a drink → ジュースか何か. かどこか is only for places."
+      }
+    ]
+  }
+}

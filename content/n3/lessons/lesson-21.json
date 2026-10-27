@@ -1,0 +1,311 @@
+{
+  "lesson": 21,
+  "title": { "ja": "犯人に違いない", "ta": "அவன்தான் குற்றவாளியாக இருக்க வேண்டும்", "en": "He must be the culprit" },
+  "intro_ta": "இந்தப் பாடத்தில் மர்மக் கதைகளிலும் அன்றாட வாழ்விலும் ஊகம், உறுதி, சாத்தியமின்மை ஆகியவற்றைச் சொல்லக் கற்போம். 'அவன்தான் குற்றவாளியாக இருக்க வேண்டும்' (〜に違いない), 'அது நிச்சயம், சொல்லவே வேண்டாம்' (〜に決まっている), 'அப்படி இருக்க வழியே இல்லை' (〜わけがない), 'அப்படி நடந்திருக்க வேண்டியது, ஆனால் நடக்கவில்லை' (〜はずだった), 'அப்படி நடக்கும் போலத் தெரியவில்லை' (〜そうもない) ஆகியவற்றைப் பார்ப்போம். குற்றம், காவல்துறை, ரகசியம், மர்மம் தொடர்பான சொற்களும் இதில் உள்ளன.",
+  "intro_en": "In this lesson you learn to talk about guesses, certainty and things that can’t be true. This is useful in mystery stories and in daily life. You learn: “he must be the culprit” (〜に違いない), “it’s obvious” (〜に決まっている), “there’s no way” (〜わけがない), “it was supposed to happen, but didn’t” (〜はずだった), and “it doesn’t look likely” (〜そうもない). The new words are about crime, the police, secrets and mysteries.",
+  "grammar": [
+    {
+      "id": "g21-1",
+      "pattern": "〜に 違いない",
+      "name": { "en": "Must be ~ (strong belief)", "ta": "நிச்சயம் ...ஆக இருக்க வேண்டும்" },
+      "explanation_ta": "ஏதோ ஒரு காரணம் அல்லது அடையாளத்தை வைத்துப் பேசுபவர் 'இது நிச்சயம் இப்படித்தான்' என்று உறுதியாக நம்புவதை 〜に違いない காட்டும். சாதாரண வடிவம் + に違いない: 入ったに違いない, 疲れているに違いない, 寒いに違いない. பெயர்ச்சொல்லும் な-பெயரடையும் だ இல்லாமல் நேரடியாகச் சேரும்: 犯人に違いない, 有名に違いない. மரியாதை வடிவம் 〜に違いありません. இது எழுத்திலும் சற்று முறையான பேச்சிலும் வரும். N4-இல் கற்ற 〜はずだ தர்க்கம், தகவல் அடிப்படையிலான எதிர்பார்ப்பு; に違いない பேசுபவரின் உள்ளுணர்வு கலந்த வலுவான நம்பிக்கை. きっと〜だろう என்பதைவிட வலுவானது.",
+      "explanation_en": "〜に違いない shows you strongly believe something from a clue or sign: “it must be so”. Plain form + に違いない: 入ったに違いない, 疲れているに違いない, 寒いに違いない. Nouns and na-adjectives join directly, with no だ: 犯人に違いない, 有名に違いない. The polite form is 〜に違いありません. It is used in writing and fairly formal speech. 〜はずだ (from N4) is an expectation based on facts and logic. に違いない is your own strong feeling. It is stronger than きっと〜だろう.",
+      "tamil_parallel": "அவன்தான் குற்றவாளியாக இருக்க வேண்டும் = あの男が犯人に違いない",
+      "tamil_parallel_en": "அவன்தான் குற்றவாளியாக இருக்க வேண்டும் (he must be the culprit) = あの男が犯人に違いない",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + に違いない\nな-பெயரடை / பெயர்ச்சொல் (だ இல்லாமல்) + に違いない\nமரியாதை: 〜に違いありません",
+      "formation_en": "Verb / i-adjective (plain form) + に違いない\nna-adjective / noun (no だ) + に違いない\nPolite: 〜に違いありません",
+      "examples": [
+        { "ja": "窓が割れている。泥棒が入ったに違いない。", "reading": "まどが われて いる。どろぼうが はいったに ちがいない。", "romaji": "mado ga warete iru. dorobou ga haitta ni chigainai.", "ta": "ஜன்னல் உடைந்திருக்கிறது. திருடன் புகுந்திருக்க வேண்டும்.", "en": "The window is broken. A thief must have got in." },
+        { "ja": "あの男が犯人に違いない。", "reading": "あの おとこが はんにんに ちがいない。", "romaji": "ano otoko ga hannin ni chigainai.", "ta": "அந்த ஆள்தான் குற்றவாளியாக இருக்க வேண்டும்.", "en": "That man must be the culprit." },
+        { "ja": "こんなに人が並んでいるのだから、有名な店に違いありません。", "reading": "こんなに ひとが ならんで いるのだから、ゆうめいな みせに ちがいありません。", "romaji": "konna ni hito ga narande iru no dakara, yuumei na mise ni chigai arimasen.", "ta": "இவ்வளவு பேர் வரிசையில் நிற்பதால் இது நிச்சயம் பிரபலமான கடைதான்.", "en": "With so many people queuing, it must be a famous shop." },
+        { "ja": "彼女は一日中歩いたから、疲れているに違いない。", "reading": "かのじょは いちにちじゅう あるいたから、つかれて いるに ちがいない。", "romaji": "kanojo wa ichinichijuu aruita kara, tsukarete iru ni chigainai.", "ta": "அவள் நாள் முழுக்க நடந்ததால் நிச்சயம் களைப்பாக இருப்பாள்.", "en": "She walked all day, so she must be tired." },
+        { "ja": "この字は田中さんの字に違いない。", "reading": "この じは たなかさんの じに ちがいない。", "romaji": "kono ji wa tanaka-san no ji ni chigainai.", "ta": "இந்தக் கையெழுத்து நிச்சயம் தனாக்காவுடையதுதான்.", "en": "This handwriting must be Mr Tanaka’s." },
+        { "ja": "山の上は今ごろ寒いに違いない。", "reading": "やまの うえは いまごろ さむいに ちがいない。", "romaji": "yama no ue wa imagoro samui ni chigainai.", "ta": "இந்நேரம் மலை உச்சியில் நிச்சயம் குளிராக இருக்கும்.", "en": "It must be cold on top of the mountain by now." }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுடன் だ சேர்க்கக் கூடாது: 犯人だに違いない தவறு, 犯人に違いない சரி. 違う (வேறுபடு) என்ற வினையோடு குழப்ப வேண்டாம்; இங்கே 'தவறே இல்லை' என்ற பொருள்.",
+      "pitfalls_en": "Don’t add だ after a noun: 犯人だに違いない is wrong; 犯人に違いない is right. Don’t mix it up with 違う (to be different). Here it means “there is no mistake”."
+    },
+    {
+      "id": "g21-2",
+      "pattern": "〜に 決まっている",
+      "name": { "en": "It’s certain that ~ / obviously", "ta": "...தான், சந்தேகமே இல்லை" },
+      "explanation_ta": "'இது எல்லோருக்கும் தெரிந்ததே, அப்படித்தான் இருக்கும்' என்று மிக உறுதியாக, உணர்ச்சியுடன் சொல்ல 〜に決まっている பயன்படும். அமைப்பு に違いない போலவே: சாதாரண வடிவம் + に決まっている; பெயர்ச்சொல், な-பெயரடை நேரடியாக (犯人に決まっている, 好きに決まっている). பேச்சில் 〜に決まってる என்று சுருங்கும்; 〜に決まってるじゃない / でしょう என்றும் வரும். に違いない ஆதாரம் வைத்துச் சொல்வது, சற்று முறையானது; に決まっている பேசுபவரின் தனிப்பட்ட உறுதி, அன்றாடப் பேச்சில் அதிகம். மேலதிகாரியிடம் பேசும்போது சற்று முரட்டுத்தனமாகத் தோன்றலாம்.",
+      "explanation_en": "Use 〜に決まっている to say “of course it is so, it’s obvious”. It is very sure and a bit emotional. The form is the same as に違いない: plain form + に決まっている. Nouns and na-adjectives join directly: 犯人に決まっている, 好きに決まっている. In speech it becomes 〜に決まってる, often with じゃない or でしょう. に違いない is based on clues and is a bit formal. に決まっている is your personal certainty, common in daily talk. It can sound rude to your boss.",
+      "tamil_parallel": "அவ்வளவு சாப்பிட்டால் வயிறு வலிக்கத்தான் செய்யும் = そんなに食べたら、おなかが痛くなるに決まっている",
+      "tamil_parallel_en": "...தான் செய்யும் (it will obviously …) = 〜に決まっている: おなかが痛くなるに決まっている",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + に決まっている\nな-பெயரடை / பெயர்ச்சொல் (だ இல்லாமல்) + に決まっている\nபேச்சு: 〜に決まってる(じゃない / でしょう)",
+      "formation_en": "Verb / i-adjective (plain form) + に決まっている\nna-adjective / noun (no だ) + に決まっている\nSpoken: 〜に決まってる(じゃない / でしょう)",
+      "examples": [
+        { "ja": "そんなに食べたら、おなかが痛くなるに決まっているよ。", "reading": "そんなに たべたら、おなかが いたく なるに きまって いるよ。", "romaji": "sonna ni tabetara, onaka ga itaku naru ni kimatte iru yo.", "ta": "அவ்வளவு சாப்பிட்டால் வயிறு வலிக்கத்தான் செய்யும்.", "en": "If you eat that much, of course you’ll get a stomach-ache." },
+        { "ja": "練習しなかったんだから、負けるに決まってる。", "reading": "れんしゅう しなかったんだから、まけるに きまってる。", "romaji": "renshuu shinakattan dakara, makeru ni kimatteru.", "ta": "பயிற்சியே செய்யவில்லை; தோற்பது நிச்சயம்.", "en": "We didn’t practise, so of course we’ll lose." },
+        { "ja": "子どもはお菓子が好きに決まっています。", "reading": "こどもは おかしが すきに きまって います。", "romaji": "kodomo wa okashi ga suki ni kimatte imasu.", "ta": "குழந்தைகளுக்கு இனிப்புப் பண்டங்கள் பிடிக்கும்; சொல்லவே வேண்டாம்.", "en": "Of course children like sweets." },
+        { "ja": "「どっちが犯人だと思う？」「あの男に決まってるじゃない。」", "reading": "「どっちが はんにんだと おもう？」「あの おとこに きまってる じゃない。」", "romaji": "\"dotchi ga hannin da to omou?\" \"ano otoko ni kimatteru janai.\"", "ta": "'யார் குற்றவாளி என்று நினைக்கிறாய்?' 'அந்த ஆள்தான், சந்தேகமே இல்லை!'", "en": "“Which one do you think did it?” “That man, obviously!”" },
+        { "ja": "八月のチェンナイは暑いに決まっている。", "reading": "はちがつの チェンナイは あついに きまって いる。", "romaji": "hachigatsu no chennai wa atsui ni kimatte iru.", "ta": "ஆகஸ்ட் மாதச் சென்னை வெயிலாகத்தான் இருக்கும்.", "en": "Chennai in August is bound to be hot." },
+        { "ja": "そんなうまい話、うそに決まっているでしょう。", "reading": "そんな うまい はなし、うそに きまって いるでしょう。", "romaji": "sonna umai hanashi, uso ni kimatte iru deshou.", "ta": "அவ்வளவு நல்ல வாய்ப்பு என்றால் அது பொய்யாகத்தான் இருக்கும்.", "en": "A deal that good has to be a lie." }
+      ],
+      "pitfalls_ta": "決まっている-க்கு 'முடிவு செய்யப்பட்டுள்ளது' (会議は三時に決まっている) என்ற சாதாரணப் பொருளும் உண்டு. に + 決まっている ஒரு வாக்கியத்தின் முடிவில் வந்தால்தான் 'நிச்சயம்' என்ற பொருள்.",
+      "pitfalls_en": "決まっている can also simply mean “has been decided” (会議は三時に決まっている). It means “obviously” when に + 決まっている ends a statement like this."
+    },
+    {
+      "id": "g21-3",
+      "pattern": "〜わけがない",
+      "name": { "en": "There’s no way that ~", "ta": "...ஆக வழியே இல்லை" },
+      "explanation_ta": "காரணத்தை வைத்துப் பார்த்தால் 'அப்படி நடக்கவே முடியாது, சாத்தியமே இல்லை' என்று உறுதியாக மறுக்க 〜わけがない பயன்படும். சாதாரண வடிவம் + わけがない; な-பெயரடை + な (下手なわけがない); பெயர்ச்சொல் + の / である (犯人のわけがない). பேச்சில் が நீங்கி 〜わけない என்றும் வரும். மரியாதை: 〜わけがありません. N4-இல் கற்ற 〜はずがない கிட்டத்தட்ட அதே பொருள்; わけがない சற்று உணர்ச்சி மிக்கது. பாடம் 12-இல் கற்ற 〜わけではない ('எப்போதும் அப்படி என்று இல்லை', பகுதி மறுப்பு) முற்றிலும் வேறு; わけがない முழு மறுப்பு.",
+      "explanation_en": "Use 〜わけがない to strongly deny something: “there’s no way it can be true”. Plain form + わけがない. na-adjective + な: 下手なわけがない. Noun + の or である: 犯人のわけがない. In speech, が can drop: 〜わけない. Polite: 〜わけがありません. It is close to 〜はずがない (from N4), but more emotional. Don’t confuse it with 〜わけではない (Lesson 12, “it’s not that …”, a partial denial). わけがない is a full denial.",
+      "tamil_parallel": "அவ்வளவு அன்பானவர் குற்றவாளியாக இருக்க வழியே இல்லை = あんなに優しい人が犯人のわけがない",
+      "tamil_parallel_en": "...ஆக வழியே இல்லை (there’s no way …) = 〜わけがない: 犯人のわけがない",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + わけがない\nな-பெயரடை + な + わけがない\nபெயர்ச்சொல் + の / である + わけがない\nபேச்சு: 〜わけない / மரியாதை: 〜わけがありません",
+      "formation_en": "Verb / i-adjective (plain form) + わけがない\nna-adjective + な + わけがない\nNoun + の / である + わけがない\nSpoken: 〜わけない / Polite: 〜わけがありません",
+      "examples": [
+        { "ja": "あんなに優しい人が犯人のわけがない。", "reading": "あんなに やさしい ひとが はんにんの わけが ない。", "romaji": "anna ni yasashii hito ga hannin no wake ga nai.", "ta": "அவ்வளவு அன்பானவர் குற்றவாளியாக இருக்க வழியே இல்லை.", "en": "There’s no way such a kind person is the culprit." },
+        { "ja": "一日で日本語が話せるようになるわけがない。", "reading": "いちにちで にほんごが はなせる ように なる わけが ない。", "romaji": "ichinichi de nihongo ga hanaseru you ni naru wake ga nai.", "ta": "ஒரே நாளில் ஜப்பானிய மொழி பேச வந்துவிட வழியே இல்லை.", "en": "There’s no way you can learn to speak Japanese in one day." },
+        { "ja": "鍵はかけたから、泥棒が入れるわけがない。", "reading": "かぎは かけたから、どろぼうが はいれる わけが ない。", "romaji": "kagi wa kaketa kara, dorobou ga haireru wake ga nai.", "ta": "பூட்டியிருக்கிறேன்; அதனால் திருடன் உள்ளே வர முடியவே முடியாது.", "en": "I locked it, so there’s no way a thief could get in." },
+        { "ja": "こんな高い店で、学生の私が払えるわけがないよ。", "reading": "こんな たかい みせで、がくせいの わたしが はらえる わけが ないよ。", "romaji": "konna takai mise de, gakusei no watashi ga haraeru wake ga nai yo.", "ta": "இவ்வளவு விலையுயர்ந்த கடையில் மாணவனான என்னால் பணம் கட்டவே முடியாது.", "en": "There’s no way a student like me can pay at a place this expensive." },
+        { "ja": "毎日練習している彼女が下手なわけがない。", "reading": "まいにち れんしゅう して いる かのじょが へたな わけが ない。", "romaji": "mainichi renshuu shite iru kanojo ga heta na wake ga nai.", "ta": "தினமும் பயிற்சி செய்யும் அவள் மோசமாக இருக்க வழியே இல்லை.", "en": "She practises every day, so there’s no way she’s bad at it." },
+        { "ja": "そんなこと、私が知っているわけがないでしょう。", "reading": "そんな こと、わたしが しって いる わけが ないでしょう。", "romaji": "sonna koto, watashi ga shitte iru wake ga nai deshou.", "ta": "அப்படிப்பட்ட விஷயம் எனக்கு எப்படித் தெரியும்?", "en": "How on earth would I know something like that?" }
+      ],
+      "pitfalls_ta": "わけがない (முழு மறுப்பு: 'வழியே இல்லை') மற்றும் わけではない (பகுதி மறுப்பு: 'அப்படி என்று இல்லை') இரண்டையும் குழப்ப வேண்டாம். な-பெயரடைக்கு な மறக்கக் கூடாது: 下手わけがない தவறு.",
+      "pitfalls_en": "Don’t mix up わけがない (full denial, “no way”) and わけではない (partial, “it’s not that …”). Don’t forget な with na-adjectives: 下手わけがない is wrong."
+    },
+    {
+      "id": "g21-4",
+      "pattern": "〜はずだった",
+      "name": { "en": "Was supposed to ~ (but didn’t)", "ta": "...ஆக இருந்திருக்க வேண்டியது (ஆனால் நடக்கவில்லை)" },
+      "explanation_ta": "N4-இல் கற்ற 〜はずだ ('...ஆக இருக்க வேண்டும்', எதிர்பார்ப்பு) கடந்த காலத்தில் 〜はずだった ஆகும். 'அப்படி நடக்கும் என்று திட்டமிட்டோம் / எதிர்பார்த்தோம், ஆனால் உண்மையில் நடக்கவில்லை' என்ற ஏமாற்றம், ஆச்சரியம், வருத்தம் இதில் உண்டு. சாதாரண வடிவம் + はずだった; பெயர்ச்சொல் + の (休みのはずだった); な-பெயரடை + な. பின்னால் 〜が / 〜のに / でも + உண்மையில் நடந்தது வரும். 'こんなはずじゃなかった' = 'இப்படி ஆக வேண்டியதில்லையே!' என்பது மிகவும் பொதுவான சொற்றொடர்.",
+      "explanation_en": "You know 〜はずだ (should be, expected). In the past it is 〜はずだった: “it was supposed to happen, but it didn’t”. It shows disappointment, surprise or regret. Plain form + はずだった. Noun + の: 休みのはずだった. na-adjective + な. After it comes 〜が, 〜のに or でも, and what really happened. こんなはずじゃなかった (“this wasn’t supposed to happen!”) is a very common phrase.",
+      "tamil_parallel": "ரயில் பத்து மணிக்கு வந்திருக்க வேண்டியது; ஆனால் தாமதமானது = 電車は十時に着くはずだったが、遅れた",
+      "tamil_parallel_en": "வந்திருக்க வேண்டியது (was supposed to arrive) = 着くはずだった",
+      "formation": "வினை (சாதாரண வடிவம்) + はずだった\nい-பெயரடை + はずだった\nな-பெயரடை + な / பெயர்ச்சொல் + の + はずだった\nஎதிர்மறை: 〜はずじゃなかった / 〜はずではなかった",
+      "formation_en": "Verb (plain form) + はずだった\ni-adjective + はずだった\nna-adjective + な / noun + の + はずだった\nNegative: 〜はずじゃなかった / 〜はずではなかった",
+      "examples": [
+        { "ja": "犯人は九時に駅に来るはずだったが、来なかった。", "reading": "はんにんは くじに えきに くる はずだったが、こなかった。", "romaji": "hannin wa kuji ni eki ni kuru hazu datta ga, konakatta.", "ta": "குற்றவாளி ஒன்பது மணிக்கு ஸ்டேஷனுக்கு வந்திருக்க வேண்டியது; ஆனால் வரவில்லை.", "en": "The culprit was supposed to come to the station at nine, but didn’t." },
+        { "ja": "今日は休みのはずだったのに、急に仕事が入った。", "reading": "きょうは やすみの はずだったのに、きゅうに しごとが はいった。", "romaji": "kyou wa yasumi no hazu datta noni, kyuu ni shigoto ga haitta.", "ta": "இன்று எனக்கு விடுமுறையாக இருந்திருக்க வேண்டியது; திடீரென வேலை வந்துவிட்டது.", "en": "Today was supposed to be my day off, but work suddenly came up." },
+        { "ja": "電車は十時に着くはずだったが、事故で一時間遅れた。", "reading": "でんしゃは じゅうじに つく はずだったが、じこで いちじかん おくれた。", "romaji": "densha wa juuji ni tsuku hazu datta ga, jiko de ichijikan okureta.", "ta": "ரயில் பத்து மணிக்கு வந்திருக்க வேண்டியது; விபத்தால் ஒரு மணி நேரம் தாமதமானது.", "en": "The train was supposed to arrive at ten, but an accident made it an hour late." },
+        { "ja": "簡単に勝てるはずだった試合に負けてしまった。", "reading": "かんたんに かてる はずだった しあいに まけて しまった。", "romaji": "kantan ni kateru hazu datta shiai ni makete shimatta.", "ta": "எளிதாக வென்றிருக்க வேண்டிய போட்டியில் தோற்றுவிட்டோம்.", "en": "We lost a match we should have won easily." },
+        { "ja": "「田中さんも来るはずだったよね？」「うん、でも急に来られなくなったって。」", "reading": "「たなかさんも くる はずだったよね？」「うん、でも きゅうに こられなく なったって。」", "romaji": "\"tanaka-san mo kuru hazu datta yo ne?\" \"un, demo kyuu ni korarenaku nattatte.\"", "ta": "'தனாக்காவும் வருவதாக இருந்தது, இல்லையா?' 'ஆமாம், ஆனால் திடீரென வர முடியவில்லையாம்.'", "en": "“Mr Tanaka was supposed to come too, right?” “Yes, but he says he suddenly couldn’t.”" },
+        { "ja": "こんなはずじゃなかった。", "reading": "こんな はずじゃ なかった。", "romaji": "konna hazu ja nakatta.", "ta": "இப்படி ஆக வேண்டியதில்லையே!", "en": "This wasn’t supposed to happen." }
+      ],
+      "pitfalls_ta": "はずだった என்றால் பெரும்பாலும் 'நடக்கவில்லை' என்று பொருள். 'நடக்கும் என்று எதிர்பார்த்தேன், நடந்தது' என்றால் 思ったとおり〜 போன்றவை பயன்படுத்துங்கள். பெயர்ச்சொல்லுக்கு の மறக்க வேண்டாம்: 休みはずだった தவறு.",
+      "pitfalls_en": "はずだった usually means it did NOT happen. If it happened as you expected, say 思ったとおり〜 instead. Don’t forget の after a noun: 休みはずだった is wrong."
+    },
+    {
+      "id": "g21-5",
+      "pattern": "V-ます そうもない / そうにない",
+      "name": { "en": "Doesn’t look likely to ~", "ta": "...ஆகும் போலத் தெரியவில்லை" },
+      "explanation_ta": "N4-இல் கற்ற 'வினை ます-தண்டு + そうだ' (降りそうだ = பெய்யும் போலிருக்கிறது) என்பதன் வலுவான எதிர்மறை 〜そうもない / 〜そうにない. 'அப்படி நடக்கும் அறிகுறியே தெரியவில்லை' என்ற பொருள்: やみそうにない (நிற்கும் போலத் தெரியவில்லை), 終わりそうもない (முடியும் போலத் தெரியவில்லை). 〜そうにもない என்று இன்னும் வலுவாகவும் சொல்லலாம். மரியாதை: 〜そうもありません / 〜そうにありません. முடியுமா என்பதற்கு முடிவு வடிவத்துடன் (potential): 帰れそうにない, 解けそうもない. சாதாரணப் பேச்சில் 降らなそう என்ற வடிவமும் உண்டு; ஆனால் そうもない 'வாய்ப்பே இல்லை' என்ற உணர்வு அதிகம்.",
+      "explanation_en": "You know ます-stem + そうだ (降りそうだ = looks like it will rain). Its strong negative is 〜そうもない / 〜そうにない: “there is no sign it will happen”. Examples: やみそうにない (doesn’t look like stopping), 終わりそうもない (doesn’t look like finishing). 〜そうにもない is even stronger. Polite: 〜そうもありません / 〜そうにありません. For “can”, use the potential form: 帰れそうにない, 解けそうもない. Casual 降らなそう also exists, but そうもない feels more like “no chance”.",
+      "tamil_parallel": "இந்த மழை நிற்கும் போலத் தெரியவில்லை = この雨はやみそうにない",
+      "tamil_parallel_en": "நிற்கும் போலத் தெரியவில்லை (doesn’t look like stopping) = やみそうにない",
+      "formation": "வினை ます-தண்டு + そうもない / そうにない / そうにもない\nமுடிவு வடிவம் (potential): 帰れる → 帰れそうにない\nமரியாதை: 〜そうもありません / 〜そうにありません",
+      "formation_en": "Verb ます-stem + そうもない / そうにない / そうにもない\nPotential: 帰れる → 帰れそうにない\nPolite: 〜そうもありません / 〜そうにありません",
+      "examples": [
+        { "ja": "この雨はなかなかやみそうにない。", "reading": "この あめは なかなか やみそうに ない。", "romaji": "kono ame wa nakanaka yamisou ni nai.", "ta": "இந்த மழை சீக்கிரம் நிற்கும் போலத் தெரியவில்லை.", "en": "This rain doesn’t look like stopping any time soon." },
+        { "ja": "仕事が多すぎて、今日中に終わりそうもない。", "reading": "しごとが おおすぎて、きょうじゅうに おわりそうも ない。", "romaji": "shigoto ga oosugite, kyoujuu ni owarisou mo nai.", "ta": "வேலை மிக அதிகம்; இன்றைக்குள் முடியும் போலத் தெரியவில்லை.", "en": "There’s too much work. It doesn’t look like I’ll finish today." },
+        { "ja": "犯人はなかなか捕まりそうにありません。", "reading": "はんにんは なかなか つかまりそうに ありません。", "romaji": "hannin wa nakanaka tsukamarisou ni arimasen.", "ta": "குற்றவாளி சீக்கிரம் பிடிபடுவான் போலத் தெரியவில்லை.", "en": "It doesn’t look like the culprit will be caught soon." },
+        { "ja": "この謎は私には解けそうもない。", "reading": "この なぞは わたしには とけそうも ない。", "romaji": "kono nazo wa watashi ni wa tokesou mo nai.", "ta": "இந்தப் புதிரை என்னால் தீர்க்க முடியும் போலத் தெரியவில்லை.", "en": "I don’t think I’ll be able to solve this puzzle." },
+        { "ja": "今年の夏休みは、国に帰れそうにない。", "reading": "ことしの なつやすみは、くにに かえれそうに ない。", "romaji": "kotoshi no natsuyasumi wa, kuni ni kaeresou ni nai.", "ta": "இந்தக் கோடை விடுமுறையில் ஊருக்குப் போக முடியும் போலத் தெரியவில்லை.", "en": "It doesn’t look like I can go home this summer holiday." },
+        { "ja": "「会議、何時に終わりそう？」「まだ終わりそうにないよ。」", "reading": "「かいぎ、なんじに おわりそう？」「まだ おわりそうに ないよ。」", "romaji": "\"kaigi, nanji ni owarisou?\" \"mada owarisou ni nai yo.\"", "ta": "'கூட்டம் எத்தனை மணிக்கு முடியும் போலிருக்கிறது?' 'இப்போதைக்கு முடியும் போலத் தெரியவில்லை.'", "en": "“What time will the meeting end, do you think?” “It doesn’t look like ending yet.”" }
+      ],
+      "pitfalls_ta": "ます-தண்டுடன் சேர்க்க வேண்டும்: 終わるそうもない தவறு, 終わりそうもない சரி. அகராதி வடிவம் + そうだ என்பது 'கேள்விப்பட்டேன்' என்ற வேறு பொருள்.",
+      "pitfalls_en": "Use the ます-stem: 終わるそうもない is wrong; 終わりそうもない is right. Dictionary form + そうだ means “I hear”, a different pattern."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0090", "n3-v-0158", "n3-v-0294", "n3-v-0312", "n3-v-0332", "n3-v-0384", "n3-v-0412", "n3-v-0446",
+    "n3-v-0447", "n3-v-0450", "n3-v-0454", "n3-v-0497", "n3-v-0515", "n3-v-0586", "n3-v-0589", "n3-v-0593",
+    "n3-v-0727", "n3-v-0754", "n3-v-0831", "n3-v-0888", "n3-v-0899", "n3-v-0947", "n3-v-0967", "n3-v-1021",
+    "n3-v-1082", "n3-v-1208", "n3-v-1269", "n3-v-1298", "n3-v-1378", "n3-v-1396", "n3-v-1428", "n3-v-1430",
+    "n3-v-1459", "n3-v-1503", "n3-v-1528", "n3-v-1596", "n3-v-1659", "n3-v-1777", "n3-v-1778", "n3-v-1803",
+    "n3-v-1807", "n3-v-1834", "n3-v-1864", "n3-v-1873", "n3-v-1877", "n3-v-2001", "n3-v-2054", "n3-v-2063",
+    "n3-v-2109", "n3-v-2134"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L21-q01", "type": "kanji_reading",
+        "sentence": "警察は 銀行強盗の 犯人を ＿逮捕＿した。", "target": "逮捕",
+        "options": ["たいほう", "だいほ", "たいほ", "たいぼ"], "answer": 2,
+        "explanation_ta": "逮捕 = たいほ (கைது). கடைசி ほ குறுகியது; たいほう (大砲, பீரங்கி) வேறு சொல்.",
+        "explanation_en": "逮捕 = たいほ (arrest). The last ほ is short. たいほう (cannon) is a different word."
+      },
+      {
+        "id": "L21-q02", "type": "kanji_reading",
+        "sentence": "その 事件は 今も ＿謎＿の ままだ。", "target": "謎",
+        "options": ["なぞ", "めい", "なそ", "まよ"], "answer": 0,
+        "explanation_ta": "謎 = なぞ (மர்மம், புதிர்). ぞ-வில் புள்ளிகள் (゛) உண்டு; なそ தவறு.",
+        "explanation_en": "謎 = なぞ (mystery, puzzle). ぞ has the two dots (゛), so なそ is wrong."
+      },
+      {
+        "id": "L21-q03", "type": "kanji_reading",
+        "sentence": "警察は 今も 事件の ＿捜査＿を 続けて いる。", "target": "捜査",
+        "options": ["そうざ", "しょうさ", "そさ", "そうさ"], "answer": 3,
+        "explanation_ta": "捜査 = そうさ (புலன் விசாரணை). 捜 = そう (நீண்ட ஒலி), 査 = さ (調査 போல). そうざ-வில் புள்ளி தவறு.",
+        "explanation_en": "捜査 = そうさ (investigation). 捜 is そう (long) and 査 is さ, as in 調査. そうざ wrongly adds dots."
+      },
+      {
+        "id": "L21-q04", "type": "orthography",
+        "sentence": "これは 二人だけの ＿ひみつ＿だよ。", "target": "ひみつ",
+        "options": ["秘蜜", "秘密", "比密", "泌密"], "answer": 1,
+        "explanation_ta": "ひみつ = 秘密 (ரகசியம்). 蜜 (தேன்) ஒத்த எழுத்து, ஆனால் தவறு.",
+        "explanation_en": "ひみつ = 秘密 (secret). 蜜 (honey) looks similar, but it is wrong."
+      },
+      {
+        "id": "L21-q05", "type": "orthography",
+        "sentence": "＿はんにん＿は まだ 見つかって いない。", "target": "はんにん",
+        "options": ["反人", "犯任", "犯人", "範人"], "answer": 2,
+        "explanation_ta": "はんにん = 犯人 (குற்றவாளி). 犯 = குற்றம் செய் (犯罪), 人 = மனிதன். 反 (எதிர்) ஒலி ஒன்று, ஆனால் பொருள் வேறு.",
+        "explanation_en": "はんにん = 犯人 (culprit). 犯 means “to commit a crime” (犯罪), and 人 is “person”. 反 (against) sounds the same but means something else."
+      },
+      {
+        "id": "L21-q06", "type": "vocab_context",
+        "sentence": "夜中に 台所で （　　）が したので、見に 行った。",
+        "options": ["物音", "恐怖", "予想", "秘密"], "answer": 0,
+        "explanation_ta": "'சத்தம் கேட்டது' = 物音がする. 恐怖 (அச்சம்) உணர்வு; 'がする' உடன் இடத்தில் கேட்பது அல்ல.",
+        "explanation_en": "“A sound was heard” = 物音がする. 恐怖 (fear) is a feeling, not something heard in a place."
+      },
+      {
+        "id": "L21-q07", "type": "vocab_context",
+        "sentence": "赤信号で 道を 渡るのは 交通（　　）です。",
+        "options": ["不正", "攻撃", "違反", "裁判"], "answer": 2,
+        "explanation_ta": "விதியை மீறுவது = 違反; 交通違反 = போக்குவரத்து விதிமீறல். 不正 (முறைகேடு) பொதுவாகத் தேர்வு, பணம் தொடர்பானது; 交通不正 என்ற சொல் இல்லை.",
+        "explanation_en": "Breaking a rule = 違反; 交通違反 = traffic violation. 不正 (cheating) is for exams or money; 交通不正 is not a word."
+      },
+      {
+        "id": "L21-q08", "type": "vocab_context",
+        "sentence": "猫が ベッドの 下に （　　）います。",
+        "options": ["隠して", "隠れて", "覆って", "奪って"], "answer": 1,
+        "explanation_ta": "தானே ஒளிந்துகொள்வது = 隠れる (を இல்லை). 隠す என்பது ஏதாவது ஒன்றை மறைப்பது (〜を隠す); இங்கே செயப்படுபொருள் இல்லை.",
+        "explanation_en": "To hide yourself = 隠れる (no を). 隠す means to hide something (〜を隠す). There is no object here."
+      },
+      {
+        "id": "L21-q09", "type": "vocab_context",
+        "sentence": "試合の 結果は （　　）と 全然 違った。",
+        "options": ["証明", "刑事", "跡", "予想"], "answer": 3,
+        "explanation_ta": "'எதிர்பார்த்ததற்கு மாறாக' = 予想と違う. 証明 (நிரூபணம்) இங்கே பொருள் தராது.",
+        "explanation_en": "“Different from what we expected” = 予想と違う. 証明 (proof) makes no sense here."
+      },
+      {
+        "id": "L21-q10", "type": "vocab_context",
+        "sentence": "電話で お年寄りを （　　）、お金を 取る 事件が 増えて いる。",
+        "options": ["裁いて", "騙して", "攻めて", "罰して"], "answer": 1,
+        "explanation_ta": "பொய் சொல்லிப் பணம் பறிப்பது = 騙す (ஏமாற்றுதல்). 罰する (தண்டித்தல்) நீதிமன்றம் / அதிகாரிகள் செய்வது.",
+        "explanation_en": "Lying to people to take their money = 騙す (to trick). 罰する (to punish) is what courts or officials do."
+      },
+      {
+        "id": "L21-q11", "type": "paraphrase",
+        "sentence": "あの 男が 犯人に 違いない。",
+        "options": ["あの 男は 犯人では ないだろう。", "あの 男が 犯人かどうか 分からない。", "あの 男が 犯人だと 強く 思う。", "あの 男が 犯人だと 聞いた。"], "answer": 2,
+        "explanation_ta": "に違いない = பேசுபவரின் வலுவான நம்பிக்கை = 犯人だと強く思う. 聞いた (கேள்விப்பட்டேன்) பிறரிடமிருந்து வந்த தகவல்; அது வேறு.",
+        "explanation_en": "に違いない = the speaker strongly believes it = 犯人だと強く思う. 聞いた (I heard) is news from others, which is different."
+      },
+      {
+        "id": "L21-q12", "type": "paraphrase",
+        "sentence": "彼が 約束を 忘れる わけが ない。",
+        "options": ["彼が 約束を 忘れる はずが ない。", "彼は よく 約束を 忘れる。", "彼は 約束を 忘れた ことが ある。", "彼が 約束を 忘れたかどうか 分からない。"], "answer": 0,
+        "explanation_ta": "わけがない = はずがない = 'வழியே இல்லை'. 'அடிக்கடி மறப்பான்' என்பது எதிர்ப் பொருள்.",
+        "explanation_en": "わけがない = はずがない = “there’s no way”. “He often forgets” is the opposite."
+      },
+      {
+        "id": "L21-q13", "type": "paraphrase",
+        "sentence": "雨は なかなか やみそうに ない。",
+        "options": ["雨は まだ 続きそうだ。", "雨は もうすぐ やむ。", "雨は もう やんだ。", "雨は 降らない はずだ。"], "answer": 0,
+        "explanation_ta": "やみそうにない = நிற்கும் அறிகுறி இல்லை = இன்னும் தொடரும் போலிருக்கிறது (続きそうだ). もうすぐやむ எதிர்ப் பொருள்.",
+        "explanation_en": "やみそうにない = no sign of stopping = it looks like it will go on (続きそうだ). もうすぐやむ is the opposite."
+      },
+      {
+        "id": "L21-q14", "type": "usage",
+        "sentence": "隠す",
+        "options": ["猫が 箱の 中に 隠して いる。", "月が 雲に 隠して 見えない。", "犯人は 家の 中に 隠して 出て こない。", "弟は テストの 点を 母に 隠して いた。"], "answer": 3,
+        "explanation_ta": "隠す = ஏதாவது ஒன்றை (を) மறைத்தல்: 点を隠す. மற்ற வாக்கியங்களில் தானே ஒளிந்துகொள்வது, அதற்கு 隠れる வேண்டும்.",
+        "explanation_en": "隠す = to hide something (with を): 点を隠す. In the other sentences, someone hides themselves, so 隠れる is needed."
+      },
+      {
+        "id": "L21-q15", "type": "usage",
+        "sentence": "確実",
+        "options": ["確実な 雨が 降って いる。", "この 方法なら 確実に 合格できる。", "彼は 確実な 顔を して いる。", "部屋を 確実に 汚して しまった。"], "answer": 1,
+        "explanation_ta": "確実 = உறுதியாக, நிச்சயமாக (முடிவு / பலன்): 確実に合格できる. மழை, முகம் பற்றி 確実 பயன்படுத்துவதில்லை.",
+        "explanation_en": "確実 = sure, certain (about a result): 確実に合格できる. You don’t use 確実 for rain or a face."
+      },
+      {
+        "id": "L21-q16", "type": "grammar_form",
+        "sentence": "窓が 割れて いる。泥棒が 入った（　　）。",
+        "options": ["に 違いない", "わけが ない", "そうに ない", "はずだった"], "answer": 0,
+        "explanation_ta": "உடைந்த ஜன்னல் என்ற அடையாளத்தை வைத்து உறுதியான ஊகம் = 入ったに違いない. わけがない எதிர்ப் பொருள் ('வழியே இல்லை').",
+        "explanation_en": "A broken window is a clue, so a strong guess = 入ったに違いない. わけがない means the opposite (“no way”)."
+      },
+      {
+        "id": "L21-q17", "type": "grammar_form",
+        "sentence": "そんなに 食べたら、おなかが 痛く なるに （　　）よ。",
+        "options": ["違って いる", "決まって いる", "わけが ない", "はずだった"], "answer": 1,
+        "explanation_ta": "'வலிக்கத்தான் செய்யும்' = 痛くなるに決まっている. 違っている (வேறுபட்டிருக்கிறது) தவறு; சரியான வடிவம் に違いない.",
+        "explanation_en": "“It will obviously hurt” = 痛くなるに決まっている. 違っている (is different) is wrong; the right form would be に違いない."
+      },
+      {
+        "id": "L21-q18", "type": "grammar_form",
+        "sentence": "鍵は かけたから、泥棒が 入れる （　　）。",
+        "options": ["に 違いない", "に 決まって いる", "わけが ない", "はずだった"], "answer": 2,
+        "explanation_ta": "பூட்டியிருப்பதால் 'உள்ளே வர முடியவே முடியாது' = 入れるわけがない. に違いない என்றால் 'நிச்சயம் வருவான்', பொருள் எதிர்.",
+        "explanation_en": "It’s locked, so “no way they can get in” = 入れるわけがない. に違いない would mean “they surely can”, the opposite."
+      },
+      {
+        "id": "L21-q19", "type": "grammar_form",
+        "sentence": "電車は 十時に 着く （　　）が、事故で 一時間 遅れた。",
+        "options": ["わけが なかった", "はずだった", "に 違いなかった", "そうだった"], "answer": 1,
+        "explanation_ta": "'வந்திருக்க வேண்டியது, ஆனால் தாமதமானது' = 着くはずだった. そうだった (கேள்விப்பட்டேன்) இங்கே பொருந்தாது.",
+        "explanation_en": "“Was supposed to arrive, but was late” = 着くはずだった. そうだった (I heard) doesn’t fit here."
+      },
+      {
+        "id": "L21-q20", "type": "grammar_form",
+        "sentence": "仕事が 多すぎて、今日中に （　　）。",
+        "options": ["終わるそうも ない", "終わる はずだ", "終わる わけだ", "終わりそうも ない"], "answer": 3,
+        "explanation_ta": "ます-தண்டு + そうもない = 終わりそうもない (முடியும் போலத் தெரியவில்லை). 終わるそうもない தவறு (அகராதி வடிவம் சேராது).",
+        "explanation_en": "ます-stem + そうもない = 終わりそうもない (doesn’t look like finishing). 終わるそうもない is wrong; the dictionary form doesn’t fit."
+      },
+      {
+        "id": "L21-q21", "type": "grammar_form",
+        "sentence": "毎日 練習して いる 彼女が 下手（　　） わけが ない。",
+        "options": ["な", "の", "だ", "に"], "answer": 0,
+        "explanation_ta": "な-பெயரடை + な + わけがない: 下手なわけがない. 下手のわけ, 下手だわけ இரண்டும் தவறு.",
+        "explanation_en": "na-adjective + な + わけがない: 下手なわけがない. 下手のわけ and 下手だわけ are both wrong."
+      },
+      {
+        "id": "L21-q22", "type": "grammar_form",
+        "sentence": "犯人は あの 男（　　）。足の 跡も 同じだ。",
+        "options": ["わけが ない", "そうも ない", "の はずだった", "に 違いない"], "answer": 3,
+        "explanation_ta": "கால் தடம் ஒத்திருக்கிறது என்ற ஆதாரத்தால் உறுதியான முடிவு = あの男に違いない. わけがない எதிர்ப் பொருள்; ஆதாரத்துக்குப் பொருந்தாது.",
+        "explanation_en": "The footprints match, so a strong conclusion = あの男に違いない. わけがない is the opposite and doesn’t fit the clue."
+      },
+      {
+        "id": "L21-q23", "type": "sentence_order",
+        "before": "こんなに 人が 並んで いるのだから、", "chunks": ["おいしい", "店", "に", "違いない"], "star": 1, "after": "。",
+        "explanation_ta": "おいしい 店 (ருசியான கடை) → に 違いない (நிச்சயம்). ★ = 店.",
+        "explanation_en": "おいしい 店 (a tasty shop) → に 違いない (must be). ★ = 店."
+      },
+      {
+        "id": "L21-q24", "type": "sentence_order",
+        "before": "練習も しないで", "chunks": ["試合に", "勝てる", "わけが", "ない"], "star": 2, "after": "でしょう。",
+        "explanation_ta": "試合に 勝てる (போட்டியில் வெல்ல முடியும்) → わけが ない (வழியே இல்லை). ★ = わけが.",
+        "explanation_en": "試合に 勝てる (can win the match) → わけが ない (no way). ★ = わけが."
+      },
+      {
+        "id": "L21-q25", "type": "sentence_order",
+        "before": "今日は 休みの", "chunks": ["はずだった", "のに", "急に", "仕事が"], "star": 1, "after": "入った。",
+        "explanation_ta": "休みの はずだった (விடுமுறையாக இருந்திருக்க வேண்டியது) → のに (ஆனாலும்) → 急に 仕事が 入った (திடீரென வேலை வந்தது). ★ = のに.",
+        "explanation_en": "休みの はずだった (was supposed to be a day off) → のに (but) → 急に 仕事が 入った (work suddenly came up). ★ = のに."
+      },
+      {
+        "id": "L21-q26", "type": "passage_cloze",
+        "passage": "夜中の 二時ごろ、台所で 物音が しました。家族は みんな 寝て いる［1］。こわく なって、そっと 台所を 覗くと、冷蔵庫が 開いて いて、中の ケーキが なくなって いました。「泥棒が 入った［2］。」と 思いましたが、ドアにも 窓にも 鍵が かかって いました。外から 人が 入れる［3］。次の 朝、弟の 口の まわりに クリームが ついて いるのを 見つけました。犯人は 弟［4］。",
+        "blanks": [
+          { "options": ["はずです", "わけが ありません", "そうに ありません", "に 決まって いません"], "answer": 0 },
+          { "options": ["わけが ない", "に 違いない", "そうも ない", "はずだった"], "answer": 1 },
+          { "options": ["に 違いありません", "はずでした", "わけが ありません", "に 決まって います"], "answer": 2 },
+          { "options": ["の はずでした", "に 決まって います", "わけが ありません", "そうも ありません"], "answer": 1 }
+        ],
+        "explanation_ta": "［1］ நேரத்தை வைத்து எதிர்பார்ப்பு: 寝ているはずです (தூங்கிக்கொண்டிருக்க வேண்டும்). ［2］ கேக் காணாமல் போனதால் உறுதியான ஊகம்: 入ったに違いない. ［3］ எல்லாம் பூட்டியிருப்பதால் முழு மறுப்பு: 入れるわけがありません. ［4］ வாயில் கிரீம்! 'சந்தேகமே இல்லை' = 弟に決まっています. の はずでした என்றால் 'அவனாக இருந்திருக்க வேண்டியது, ஆனால் இல்லை' என்ற எதிர்ப் பொருள்.",
+        "explanation_en": "［1］ An expectation from the time of night: 寝ているはずです (they should be asleep). ［2］ The cake is gone, so a strong guess: 入ったに違いない. ［3］ Everything is locked, so a full denial: 入れるわけがありません. ［4］ Cream on his mouth! “Obviously” = 弟に決まっています. の はずでした would mean “was supposed to be him, but wasn’t”, the opposite."
+      }
+    ]
+  }
+}

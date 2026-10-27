@@ -1,0 +1,303 @@
+{
+  "lesson": 11,
+  "title": { "ja": "やるからには", "ta": "செய்வதென்று முடிவெடுத்தால்", "en": "If I'm going to do it" },
+  "intro_ta": "இந்தப் பாடம் வேலை, தொழில் தேர்வு, பொறுப்பு பற்றியது. 'அதனால்தான்' என்று காரணத்தை வலியுறுத்தும் 〜からこそ, 'ஒப்புக்கொண்ட பிறகு கட்டாயம் செய்ய வேண்டும்' என்ற உறுதியைக் காட்டும் 〜からには, 〜以上(は), எல்லோருக்கும் தெரிந்த காரணத்தைச் சொல்லி அறிவுரை கூறும் 〜のだから, 'அதற்காக மட்டும் ... என்று அர்த்தமில்லை' என்று சொல்லும் 〜からといって ஆகியவற்றைக் கற்போம். நேர்முகத் தேர்வு, இலக்கு, தகுதி போன்ற சொற்களும் வரும்.",
+  "intro_en": "This lesson is about jobs, career choices and responsibility. You learn 〜からこそ: \"precisely because\". You learn 〜からには and 〜以上(は): \"now that I've decided, I must\". You learn 〜のだから for a reason everyone knows. And 〜からといって: \"just because ~ doesn't mean\". You also learn words like interview, goal and qualification.",
+  "grammar": [
+    {
+      "id": "g11-1",
+      "pattern": "〜からこそ",
+      "name": { "en": "Precisely because ~", "ta": "〜என்பதால்தான்" },
+      "explanation_ta": "〜からこそ என்பது から (காரணம்) + こそ (அதுவே, அதுதான்). 'வேறு எதனாலும் அல்ல, இந்தக் காரணத்தால்தான்' என்று காரணத்தை அழுத்தமாகச் சொல்கிறது. தமிழில் 'உன் மேல் அக்கறை இருப்பதால்தான் திட்டுகிறேன்' என்பதில் வரும் '-ஆல்தான்' போல. பெரும்பாலும் கேட்பவர் எதிர்பார்க்காத, நேர்மறையான காரணத்தைக் காட்டப் பயன்படும்: 'கஷ்டம் என்பதால் விட்டுவிடுவேன்' அல்ல, 'கஷ்டம் என்பதால்தான் முயல்வேன்'. வாக்கிய இறுதியில் அடிக்கடி 〜のだ / 〜んです வரும். ので உடன் こそ சேர்க்க முடியாது (ので こそ ✗).",
+      "explanation_en": "〜からこそ is から (because) + こそ (exactly this). It puts strong focus on the reason: \"it is exactly because of this\". It is like the Tamil \"-ஆல்தான்\". It often shows a positive reason that the listener may not expect. Not \"it's hard, so I'll stop\", but \"it's hard, and that's exactly why I'll try\". The sentence often ends with 〜のだ / 〜んです. You cannot add こそ to ので.",
+      "tamil_parallel": "உன் மேல் அக்கறை இருப்பதால்தான் கண்டிப்பாகச் சொல்கிறேன் = 心配しているからこそ、厳しく言うんだよ",
+      "tamil_parallel_en": "\"It's exactly because I care that I'm strict with you\" (அக்கறை இருப்பதால்தான் கண்டிப்பாகச் சொல்கிறேன்) = 心配しているからこそ、厳しく言うんだよ.",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + からこそ: 失敗したからこそ・難しいからこそ\nな-பெயரடை / பெயர்ச்சொல் + だ + からこそ: 好きだからこそ・今だからこそ\nஅடிக்கடி: 〜からこそ、〜のだ / 〜んです",
+      "formation_en": "Verb / い-adjective (plain form) + からこそ: 失敗したからこそ・難しいからこそ\nな-adjective / noun + だ + からこそ: 好きだからこそ・今だからこそ\nOften: 〜からこそ、〜のだ / 〜んです",
+      "examples": [
+        { "ja": "君の ことを 心配して いるからこそ、厳しく 言うんだよ。", "reading": "きみの ことを しんぱいして いるからこそ、きびしく いうんだよ。", "romaji": "kimi no koto o shinpai shite iru kara koso, kibishiku iu n da yo.", "ta": "உன்னைப் பற்றி அக்கறை இருப்பதால்தான் கண்டிப்பாகச் சொல்கிறேன்.", "en": "It's exactly because I care about you that I'm being strict." },
+        { "ja": "難しい 仕事だからこそ、挑戦したいんです。", "reading": "むずかしい しごとだからこそ、ちょうせんしたいんです。", "romaji": "muzukashii shigoto da kara koso, chousen shitai n desu.", "ta": "கடினமான வேலை என்பதால்தான் அதை முயன்று பார்க்க விரும்புகிறேன்.", "en": "It's exactly because the job is hard that I want to try it." },
+        { "ja": "失敗したからこそ、わかった ことも たくさん あります。", "reading": "しっぱいしたからこそ、わかった ことも たくさん あります。", "romaji": "shippai shita kara koso, wakatta koto mo takusan arimasu.", "ta": "தோற்றதால்தான் புரிந்துகொண்ட விஷயங்களும் நிறைய இருக்கின்றன.", "en": "There are many things I learned exactly because I failed." },
+        { "ja": "「どうして 毎日 練習するの？」「好きだからこそ、もっと うまく なりたいんだ。」", "reading": "「どうして まいにち れんしゅうするの？」「すきだからこそ、もっと うまく なりたいんだ。」", "romaji": "\"doushite mainichi renshuu suru no?\" \"suki da kara koso, motto umaku naritai n da.\"", "ta": "\"ஏன் தினமும் பயிற்சி செய்கிறாய்?\" \"பிடித்திருப்பதால்தான் இன்னும் நன்றாகச் செய்ய விரும்புகிறேன்.\"", "en": "\"Why do you practise every day?\" \"Because I love it, I want to get better.\"" },
+        { "ja": "家族が 応援して くれたからこそ、ここまで 来られました。", "reading": "かぞくが おうえんして くれたからこそ、ここまで こられました。", "romaji": "kazoku ga ouen shite kureta kara koso, koko made koraremashita.", "ta": "குடும்பம் ஆதரவு தந்ததால்தான் இந்த நிலைக்கு வர முடிந்தது.", "en": "It's because my family supported me that I got this far." },
+        { "ja": "忙しい 時だからこそ、体を 大切に しましょう。", "reading": "いそがしい ときだからこそ、からだを たいせつに しましょう。", "romaji": "isogashii toki da kara koso, karada o taisetsu ni shimashou.", "ta": "வேலை அதிகமான நேரம் என்பதால்தான் உடலைக் கவனமாகப் பார்த்துக்கொள்ள வேண்டும்.", "en": "Exactly because we're busy, let's take care of our health." }
+      ],
+      "pitfalls_ta": "ので + こそ சேர்ந்து வராது (ので こそ ✗); から + こそ மட்டுமே. மேலும், 'மழை பெய்ததால்தான் போட்டி ரத்தானது' போன்ற சாதாரண எதிர்மறைக் காரணத்துக்கு からこそ இயல்பாகக் கேட்காது; அங்கே から அல்லது せいで போதும்.",
+      "pitfalls_en": "You cannot say ので こそ. Only から + こそ. Also, for a plain bad reason, like \"the game was cancelled because of rain\", からこそ sounds strange. Use から or せいで there."
+    },
+    {
+      "id": "g11-2",
+      "pattern": "〜からには",
+      "name": { "en": "Now that ~ (then I must)", "ta": "〜என்று ஆன பிறகு (கட்டாயம்)" },
+      "explanation_ta": "〜からには என்பது 'இப்படி முடிவு செய்துவிட்ட / இந்த நிலைக்கு வந்துவிட்ட பிறகு, அதற்கேற்ப கட்டாயம் இதைச் செய்ய வேண்டும்' என்ற உறுதியைக் காட்டுகிறது. தமிழில் 'செய்வதென்று முடிவெடுத்த பிறகு, முழு மனதோடு செய்ய வேண்டும்' போல. இரண்டாம் பகுதியில் கடமை (〜なければならない), உறுதி (〜つもりだ, 〜たい), அறிவுரை / கட்டளை (〜なさい, 〜てください), 'செய்வோம்' (〜よう) போன்றவை வரும். முதல் பகுதி பெரும்பாலும் ஒரு முடிவு அல்லது பொறுப்பு: 約束したからには, 日本に来たからには, 試合に出るからには. பேச்சிலும் எழுத்திலும் இரண்டிலும் வரும்.",
+      "explanation_en": "〜からには means \"now that ~ (it's decided), I must / I will ...\". It shows strong resolve. The first part is usually a decision or a role: 約束したからには, 日本に来たからには, 試合に出るからには. The second part is a duty (〜なければならない), a plan (〜つもりだ, 〜たい), advice or an order (〜なさい, 〜てください), or \"let's\" (〜よう). You can use it in speech and writing.",
+      "tamil_parallel": "செய்வதென்று முடிவெடுத்த பிறகு, முழு மனதோடு செய்ய வேண்டும் = やるからには、全力でやらなければならない",
+      "tamil_parallel_en": "\"Now that I've decided to do it, I must give it everything\" (செய்வதென்று முடிவெடுத்த பிறகு, முழு மனதோடு செய்ய வேண்டும்) = やるからには、全力でやらなければならない.",
+      "formation": "வினை (சாதாரண வடிவம்: அகராதி / た) + からには: 出るからには・約束したからには\nபெயர்ச்சொல் / な-பெயரடை + である + からには: 学生であるからには\nபின்பகுதி: 〜なければならない・〜つもりだ・〜たい・〜なさい・〜よう",
+      "formation_en": "Verb (plain: dictionary / た-form) + からには: 出るからには・約束したからには\nNoun / な-adjective + である + からには: 学生であるからには\nSecond part: 〜なければならない・〜つもりだ・〜たい・〜なさい・〜よう",
+      "examples": [
+        { "ja": "試合に 出る からには、優勝を 目指します。", "reading": "しあいに でる からには、ゆうしょうを めざします。", "romaji": "shiai ni deru kara ni wa, yuushou o mezashimasu.", "ta": "போட்டியில் கலந்துகொள்வதென்றால், வெற்றியையே இலக்காகக் கொள்வேன்.", "en": "Now that I'm in the tournament, I'm aiming to win." },
+        { "ja": "約束した からには、守らなければ なりません。", "reading": "やくそくした からには、まもらなければ なりません。", "romaji": "yakusoku shita kara ni wa, mamoranakereba narimasen.", "ta": "வாக்குக் கொடுத்த பிறகு அதைக் காப்பாற்றியே ஆக வேண்டும்.", "en": "Once you've made a promise, you must keep it." },
+        { "ja": "日本に 来た からには、日本語を しっかり 勉強する つもりです。", "reading": "にほんに きた からには、にほんごを しっかり べんきょうする つもりです。", "romaji": "nihon ni kita kara ni wa, nihongo o shikkari benkyou suru tsumori desu.", "ta": "ஜப்பானுக்கு வந்துவிட்ட பிறகு, ஜப்பானிய மொழியை நன்றாகப் படிக்கப் போகிறேன்.", "en": "Now that I'm in Japan, I plan to study Japanese seriously." },
+        { "ja": "やる からには、最後まで 責任を 持って やりなさい。", "reading": "やる からには、さいごまで せきにんを もって やりなさい。", "romaji": "yaru kara ni wa, saigo made sekinin o motte yarinasai.", "ta": "செய்வதென்று முடிவெடுத்தால், கடைசி வரை பொறுப்புடன் செய்.", "en": "If you're going to do it, do it responsibly to the end." },
+        { "ja": "社長に なった からには、社員の 生活を 守る 義務が ある。", "reading": "しゃちょうに なった からには、しゃいんの せいかつを まもる ぎむが ある。", "romaji": "shachou ni natta kara ni wa, shain no seikatsu o mamoru gimu ga aru.", "ta": "நிறுவனத் தலைவர் ஆன பிறகு, ஊழியர்களின் வாழ்க்கையைக் காக்கும் கடமை உண்டு.", "en": "Now that I'm the company president, I have a duty to protect my staff's lives." },
+        { "ja": "「留学する からには、何か 目標が あるんでしょう？」「はい、資格を 取りたいんです。」", "reading": "「りゅうがくする からには、なにか もくひょうが あるんでしょう？」「はい、しかくを とりたいんです。」", "romaji": "\"ryuugaku suru kara ni wa, nanika mokuhyou ga aru n deshou?\" \"hai, shikaku o toritai n desu.\"", "ta": "\"வெளிநாட்டுக்குப் படிக்கப் போகிறீர்கள் என்றால், ஏதாவது இலக்கு இருக்கும்தானே?\" \"ஆம், ஒரு தகுதிச் சான்றிதழ் பெற விரும்புகிறேன்.\"", "en": "\"If you're studying abroad, you must have some goal, right?\" \"Yes, I want to get a qualification.\"" }
+      ],
+      "pitfalls_ta": "からには பின்னால் சாதாரண உண்மைச் செய்தி வராது: 日本に来たからには、寿司を食べました ✗. 'செய்ய வேண்டும் / செய்வேன்' போன்ற உறுதி அல்லது கடமை வர வேண்டும். ஒலி ஒத்திருப்பதால் からこそ உடன் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "Do not put a simple past fact after からには: 日本に来たからには、寿司を食べました ✗. Put a duty or a strong plan: \"I must / I will\". Do not mix it up with からこそ, which sounds similar."
+    },
+    {
+      "id": "g11-3",
+      "pattern": "〜以上(は)",
+      "name": { "en": "Since ~ / as long as ~ (then must)", "ta": "〜என்ற நிலையில் (கட்டாயம்)" },
+      "explanation_ta": "〜以上(は) என்பது からには போலவே 'இந்த நிலை உண்மையாக இருக்கும் வரை / இதை ஏற்றுக்கொண்ட பிறகு, இது தவிர்க்க முடியாதது' என்ற பொருள் தரும். N5-இல் 以上 என்பதை 'அதற்கு மேல்' என்று கற்றோம்; இங்கே அது காரணத்தைக் காட்டும். からには-ஐவிடச் சற்று முறையான (formal), தர்க்கரீதியான தொனி; விதிகள், ஒப்பந்தங்கள், பொறுப்புகள் பற்றிப் பேசும்போது அதிகம் வரும். பின்பகுதியில் கடமை, உறுதி, தீர்மானம், அல்லது 'முடியாது' போன்ற முடிவு வரும். 以上は என்று は சேர்த்தால் அழுத்தம் கூடும்.",
+      "explanation_en": "〜以上(は) means almost the same as からには: \"since ~ is true, then ~ must follow\". In N5 you learned 以上 as \"more than\". Here it gives a reason. It sounds a bit more formal and logical than からには. You often hear it about rules, contracts and duties. The second part is a duty, a decision, or a conclusion like \"it's impossible\". Adding は (以上は) makes it stronger.",
+      "tamil_parallel": "ஒப்பந்தத்தில் கையெழுத்திட்ட நிலையில், விதிகளைப் பின்பற்றியே ஆக வேண்டும் = 契約にサインした以上、ルールを守らなければならない",
+      "tamil_parallel_en": "\"Since you signed the contract, you must follow the rules\" (ஒப்பந்தத்தில் கையெழுத்திட்ட நிலையில் விதிகளைப் பின்பற்ற வேண்டும்) = 契約にサインした以上、ルールを守らなければならない.",
+      "formation": "வினை (சாதாரண வடிவம்) + 以上(は): 受ける以上は・決めた以上・ない以上\nபெயர்ச்சொல் / な-பெயரடை + である + 以上(は): 学生である以上\nபின்பகுதி: கடமை / உறுதி / முடிவு",
+      "formation_en": "Verb (plain form) + 以上(は): 受ける以上は・決めた以上・ない以上\nNoun / な-adjective + である + 以上(は): 学生である以上\nSecond part: a duty / a decision / a conclusion",
+      "examples": [
+        { "ja": "学生である 以上、授業には ちゃんと 出なさい。", "reading": "がくせいである いじょう、じゅぎょうには ちゃんと でなさい。", "romaji": "gakusei de aru ijou, jugyou ni wa chanto denasai.", "ta": "மாணவனாக இருக்கும் வரை, வகுப்புக்கு ஒழுங்காக வர வேண்டும்.", "en": "As long as you're a student, go to your classes properly." },
+        { "ja": "契約に サインした 以上、ルールを 守らなければ なりません。", "reading": "けいやくに サインした いじょう、ルールを まもらなければ なりません。", "romaji": "keiyaku ni sain shita ijou, ruuru o mamoranakereba narimasen.", "ta": "ஒப்பந்தத்தில் கையெழுத்திட்ட பிறகு, விதிகளைப் பின்பற்றியே ஆக வேண்டும்.", "en": "Since you signed the contract, you must follow the rules." },
+        { "ja": "試験を 受ける 以上は、合格したい。", "reading": "しけんを うける いじょうは、ごうかくしたい。", "romaji": "shiken o ukeru ijou wa, goukaku shitai.", "ta": "தேர்வு எழுதுவதென்றால், தேர்ச்சி பெறவே விரும்புகிறேன்.", "en": "If I'm taking the exam, I want to pass." },
+        { "ja": "会社を 辞めると 決めた 以上、もう 迷いません。", "reading": "かいしゃを やめると きめた いじょう、もう まよいません。", "romaji": "kaisha o yameru to kimeta ijou, mou mayoimasen.", "ta": "வேலையை விடுவதென்று முடிவெடுத்த பிறகு, இனி தயங்க மாட்டேன்.", "en": "Now that I've decided to quit, I won't hesitate any more." },
+        { "ja": "本人に やる 気が ない 以上、周りが 何を 言っても 無理です。", "reading": "ほんにんに やる きが ない いじょう、まわりが なにを いっても むりです。", "romaji": "honnin ni yaru ki ga nai ijou, mawari ga nani o itte mo muri desu.", "ta": "சம்பந்தப்பட்டவருக்கே ஆர்வம் இல்லாத நிலையில், சுற்றியுள்ளவர்கள் என்ன சொன்னாலும் பயனில்லை.", "en": "As long as he himself has no motivation, nothing others say will help." },
+        { "ja": "「一緒に 住む 以上、家事は 半分ずつ しようね。」", "reading": "「いっしょに すむ いじょう、かじは はんぶんずつ しようね。」", "romaji": "\"issho ni sumu ijou, kaji wa hanbun zutsu shiyou ne.\"", "ta": "\"ஒன்றாக வாழப் போகிறோம் என்றால், வீட்டு வேலைகளைப் பாதி பாதியாகப் பகிர்ந்துகொள்வோம்.\"", "en": "\"Since we're living together, let's split the housework half and half.\"" }
+      ],
+      "pitfalls_ta": "以上 என்பதை 'அதற்கு மேல்' (三人以上) என்ற பொருளுடன் குழப்ப வேண்டாம்; வினை அல்லது である-வுக்குப் பின் வந்தால் காரணப் பொருள். からには போலவே, பின்பகுதியில் சாதாரண கடந்தகாலச் செய்தி வராது.",
+      "pitfalls_en": "Do not mix it up with 以上 meaning \"or more\" (三人以上). After a verb or である, it means \"since\". As with からには, do not put a simple past fact after it."
+    },
+    {
+      "id": "g11-4",
+      "pattern": "〜のだから / 〜んだから",
+      "name": { "en": "Since (obviously) ~", "ta": "〜தானே, அதனால்" },
+      "explanation_ta": "〜のだから என்பது பேசுபவருக்கும் கேட்பவருக்கும் ஏற்கனவே தெரிந்த ஒரு உண்மையை 'இது தெரிந்ததுதானே' என்று நினைவூட்டி, அதை வைத்து அறிவுரை, கட்டளை, விமர்சனம் அல்லது தீர்மானம் சொல்லும் வடிவம். தமிழில் 'நீ இப்போ பெரியவன் ஆயிட்டே தானே, உன் வேலையை நீயே செய்' என்பதில் வரும் 'தானே' போல. பேச்சில் 〜んだから. வெறும் から-வைவிட வலுவான, சில நேரம் சற்றுக் கடுமையான தொனி. பின்பகுதியில் 〜なさい, 〜てください, 〜ほうがいい, 〜はずだ, 〜だろう போன்றவை அடிக்கடி வரும்.",
+      "explanation_en": "Use 〜のだから when the reason is a fact you both already know. It means \"after all, ~ is true, so ...\". Then you give advice, an order, a complaint or a conclusion. It is like the Tamil \"தானே\". In speech it is 〜んだから. It is stronger than plain から, and can sound a little strict. After it you often hear 〜なさい, 〜てください, 〜ほうがいい, 〜はずだ or 〜だろう.",
+      "tamil_parallel": "நீ இப்போ பெரியவன்தானே, உன் வேலையை நீயே செய் = もう大人なんだから、自分のことは自分でしなさい",
+      "tamil_parallel_en": "\"You're an adult now, aren't you, so do things yourself\" (நீ இப்போ பெரியவன்தானே, உன் வேலையை நீயே செய்) = もう大人なんだから、自分のことは自分でしなさい.",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + のだから / んだから: 練習しているんだから・熱があるのだから\nな-பெயரடை / பெயர்ச்சொல் + な + のだから / んだから: 大人なんだから・道なのだから\nபின்பகுதி: அறிவுரை / கட்டளை / தீர்மானம்",
+      "formation_en": "Verb / い-adjective (plain form) + のだから / んだから: 練習しているんだから・熱があるのだから\nな-adjective / noun + な + のだから / んだから: 大人なんだから・道なのだから\nSecond part: advice / an order / a conclusion",
+      "examples": [
+        { "ja": "もう 大人なんだから、自分の ことは 自分で しなさい。", "reading": "もう おとななんだから、じぶんの ことは じぶんで しなさい。", "romaji": "mou otona na n da kara, jibun no koto wa jibun de shinasai.", "ta": "நீ இப்போது பெரியவன்தானே, உன் வேலைகளை நீயே செய்.", "en": "You're an adult now, so do things for yourself." },
+        { "ja": "毎日 練習して いるんだから、きっと 上手に なるよ。", "reading": "まいにち れんしゅうして いるんだから、きっと じょうずに なるよ。", "romaji": "mainichi renshuu shite iru n da kara, kitto jouzu ni naru yo.", "ta": "தினமும் பயிற்சி செய்கிறாய்தானே, கண்டிப்பாகத் திறமையாகிவிடுவாய்.", "en": "You practise every day, so you'll surely get good." },
+        { "ja": "熱が あるのだから、今日は 休んだ ほうが いいですよ。", "reading": "ねつが あるのだから、きょうは やすんだ ほうが いいですよ。", "romaji": "netsu ga aru no da kara, kyou wa yasunda hou ga ii desu yo.", "ta": "காய்ச்சல் இருக்கிறதுதானே, இன்று ஓய்வெடுப்பதே நல்லது.", "en": "You have a fever, so you'd better rest today." },
+        { "ja": "「この 問題、難しいね。」「先生でも わからないんだから、私たちに わかる はずが ないよ。」", "reading": "「この もんだい、むずかしいね。」「せんせいでも わからないんだから、わたしたちに わかる はずが ないよ。」", "romaji": "\"kono mondai, muzukashii ne.\" \"sensei demo wakaranai n da kara, watashitachi ni wakaru hazu ga nai yo.\"", "ta": "\"இந்தக் கேள்வி கடினம், இல்லையா?\" \"ஆசிரியருக்கே தெரியவில்லைதானே, நமக்கு எப்படித் தெரியும்?\"", "en": "\"This question is hard.\" \"Even the teacher doesn't know, so there's no way we would.\"" },
+        { "ja": "自分で 決めた 道なんだから、もっと 自信を 持って。", "reading": "じぶんで きめた みちなんだから、もっと じしんを もって。", "romaji": "jibun de kimeta michi na n da kara, motto jishin o motte.", "ta": "நீயே தேர்ந்தெடுத்த பாதைதானே, இன்னும் தன்னம்பிக்கையோடு இரு.", "en": "It's the path you chose yourself, so be more confident." },
+        { "ja": "約束したんだから、今度は 遅れないでね。", "reading": "やくそくしたんだから、こんどは おくれないでね。", "romaji": "yakusoku shita n da kara, kondo wa okurenaide ne.", "ta": "வாக்குக் கொடுத்தாய்தானே, இந்த முறை தாமதமாக வராதே.", "en": "You promised, so don't be late this time." }
+      ],
+      "pitfalls_ta": "கேட்பவருக்குத் தெரியாத புதிய காரணத்தைச் சொல்லும்போது のだから இயல்பாக இருக்காது; அங்கே から / ので. மேலதிகாரியிடம் 〜んだから என்று சொன்னால் குறை சொல்வது போல் கேட்கலாம். な-பெயரடை, பெயர்ச்சொல்லுக்குப் பின் なんだから (大人だんだから ✗).",
+      "pitfalls_en": "If the listener doesn't know the reason yet, のだから sounds odd. Use から or ので. Saying 〜んだから to your boss can sound like a complaint. After nouns and な-adjectives, say なんだから (大人だんだから ✗)."
+    },
+    {
+      "id": "g11-5",
+      "pattern": "〜からといって",
+      "name": { "en": "Just because ~ (doesn't mean)", "ta": "〜என்பதற்காக மட்டும் (... என்று ஆகாது)" },
+      "explanation_ta": "〜からといって என்பது 'இந்தக் காரணம் இருக்கிறது என்பதற்காக மட்டும், இந்த முடிவு சரியாகிவிடாது' என்று சொல்லும் வடிவம். தமிழில் 'சம்பளம் அதிகம் என்பதற்காக அது நல்ல நிறுவனம் என்று சொல்ல முடியாது' போல. பின்பகுதி கட்டாயம் எதிர்மறை அல்லது மறுப்புத் தொனியில் இருக்கும்: 〜ない, 〜とは言えない, 〜てはいけない, 〜ないでください, 〜のはよくない. பேச்சில் 〜からって என்று சுருங்கும். முதல் பகுதி சாதாரண வடிவம்; பெயர்ச்சொல், な-பெயரடைக்கு だからといって.",
+      "explanation_en": "〜からといって means \"just because ~, it doesn't mean ...\". The first part is a reason. The second part says that reason is not enough. For example: \"Just because the pay is high, you can't say it's a good company.\" The second part is always negative or a warning: 〜ない, 〜とは言えない, 〜てはいけない, 〜ないでください, 〜のはよくない. In casual speech it is 〜からって. With nouns and な-adjectives, say だからといって.",
+      "tamil_parallel": "ஒரு முறை தோற்றாய் என்பதற்காக மட்டும் கைவிடாதே = 一度失敗したからといって、諦めないで",
+      "tamil_parallel_en": "\"Don't give up just because you failed once\" (ஒரு முறை தோற்றாய் என்பதற்காக மட்டும் கைவிடாதே) = 一度失敗したからといって、諦めないで.",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + からといって: 失敗したからといって・高いからといって\nな-பெயரடை / பெயர்ச்சொல் + だ + からといって: 日本人だからといって\nபின்பகுதி: எதிர்மறை / மறுப்பு (〜ない・〜とは言えない・〜てはいけない)\nபேச்சு: 〜からって",
+      "formation_en": "Verb / い-adjective (plain form) + からといって: 失敗したからといって・高いからといって\nな-adjective / noun + だ + からといって: 日本人だからといって\nSecond part: negative or a warning (〜ない・〜とは言えない・〜てはいけない)\nCasual: 〜からって",
+      "examples": [
+        { "ja": "日本人だからといって、みんなが すしを 好きだと 思っては いけません。", "reading": "にほんじんだからといって、みんなが すしを すきだと おもっては いけません。", "romaji": "nihonjin da kara to itte, minna ga sushi o suki da to omotte wa ikemasen.", "ta": "ஜப்பானியர் என்பதற்காக மட்டும் எல்லோருக்கும் சுஷி பிடிக்கும் என்று நினைக்கக் கூடாது.", "en": "Just because people are Japanese, don't think everyone likes sushi." },
+        { "ja": "給料が 高いからといって、いい 会社だとは 言えません。", "reading": "きゅうりょうが たかいからといって、いい かいしゃだとは いえません。", "romaji": "kyuuryou ga takai kara to itte, ii kaisha da to wa iemasen.", "ta": "சம்பளம் அதிகம் என்பதற்காக மட்டும் அது நல்ல நிறுவனம் என்று சொல்ல முடியாது.", "en": "Just because the pay is high, you can't say it's a good company." },
+        { "ja": "一度 失敗したからといって、諦めないで ください。", "reading": "いちど しっぱいしたからといって、あきらめないで ください。", "romaji": "ichido shippai shita kara to itte, akiramenaide kudasai.", "ta": "ஒரு முறை தோற்றீர்கள் என்பதற்காகக் கைவிடாதீர்கள்.", "en": "Don't give up just because you failed once." },
+        { "ja": "忙しいからといって、朝ご飯を 抜くのは 体に よくないですよ。", "reading": "いそがしいからといって、あさごはんを ぬくのは からだに よくないですよ。", "romaji": "isogashii kara to itte, asagohan o nuku no wa karada ni yokunai desu yo.", "ta": "வேலை அதிகம் என்பதற்காகக் காலை உணவைத் தவிர்ப்பது உடலுக்கு நல்லதல்ல.", "en": "Being busy is no reason to skip breakfast. It's bad for your health." },
+        { "ja": "学歴が あるからといって、いばっては いけない。", "reading": "がくれきが あるからといって、いばっては いけない。", "romaji": "gakureki ga aru kara to itte, ibatte wa ikenai.", "ta": "படிப்பு அதிகம் என்பதற்காகக் கர்வம் கொள்ளக் கூடாது.", "en": "You shouldn't act proud just because you're well educated." },
+        { "ja": "「野菜、嫌い。」「嫌いだからって、全然 食べないのは よくないよ。」", "reading": "「やさい、きらい。」「きらいだからって、ぜんぜん たべないのは よくないよ。」", "romaji": "\"yasai, kirai.\" \"kirai da kara tte, zenzen tabenai no wa yokunai yo.\"", "ta": "\"காய்கறி பிடிக்காது.\" \"பிடிக்காது என்பதற்காகக் கொஞ்சம் கூடச் சாப்பிடாமல் இருப்பது நல்லதல்ல.\"", "en": "\"I hate vegetables.\" \"Just because you hate them, not eating any at all isn't good.\"" }
+      ],
+      "pitfalls_ta": "からといって பின்னால் நேர்மறையான சாதாரண முடிவு வராது: 安いからといって、たくさん買いました ✗ (அங்கே から மட்டும் போதும்). 'என்பதற்காக மட்டும் ... ஆகாது' என்ற மறுப்பு எப்போதும் இருக்க வேண்டும்.",
+      "pitfalls_en": "Do not put a simple positive result after からといって: 安いからといって、たくさん買いました ✗. Just use から there. The second part must say \"that doesn't follow\" or \"don't\"."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0051", "n3-v-0055", "n3-v-0095", "n3-v-0161", "n3-v-0162", "n3-v-0288", "n3-v-0309", "n3-v-0331",
+    "n3-v-0372", "n3-v-0373", "n3-v-0432", "n3-v-0585", "n3-v-0709", "n3-v-0723", "n3-v-0728", "n3-v-0845",
+    "n3-v-0847", "n3-v-0903", "n3-v-1058", "n3-v-1061", "n3-v-1065", "n3-v-1066", "n3-v-1101", "n3-v-1104",
+    "n3-v-1118", "n3-v-1139", "n3-v-1165", "n3-v-1214", "n3-v-1239", "n3-v-1301", "n3-v-1313", "n3-v-1367",
+    "n3-v-1520", "n3-v-1521", "n3-v-1698", "n3-v-1699", "n3-v-1722", "n3-v-1723", "n3-v-1806", "n3-v-1926",
+    "n3-v-1929", "n3-v-2004", "n3-v-2014", "n3-v-2048", "n3-v-2066", "n3-v-2094"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L11-q01", "type": "kanji_reading",
+        "sentence": "来月から 東京の 会社に ＿就職＿します。", "target": "就職",
+        "options": ["じゅうしょく", "しゅうしょく", "しゅしょく", "しゅうしき"], "answer": 1,
+        "explanation_ta": "就職 = しゅうしょく (வேலையில் சேர்தல்). 就 என்பது しゅう; じゅう என்று கலங்கல் ஒலியுடன் படிப்பது தவறு. 職 = しょく.",
+        "explanation_en": "就職 = しゅうしょく (வேலையில் சேர்தல், getting a job). 就 is しゅう, not じゅう. 職 is しょく."
+      },
+      {
+        "id": "L11-q02", "type": "kanji_reading",
+        "sentence": "明日は 大切な ＿面接＿が あります。", "target": "面接",
+        "options": ["めんせっ", "めんぜつ", "めんせつ", "もんせつ"], "answer": 2,
+        "explanation_ta": "面接 = めんせつ (நேர்முகத் தேர்வு). 接 = せつ; ぜつ என்று கலங்கல் ஒலி இல்லை.",
+        "explanation_en": "面接 = めんせつ (நேர்முகத் தேர்வு, interview). 接 is せつ, not ぜつ."
+      },
+      {
+        "id": "L11-q03", "type": "kanji_reading",
+        "sentence": "引き受けた 仕事は 最後まで ＿責任＿を 持って やります。", "target": "責任",
+        "options": ["せきにん", "せきじん", "しゃくにん", "せきにい"], "answer": 0,
+        "explanation_ta": "責任 = せきにん (பொறுப்பு). 任 = にん; じん என்று படிப்பது தவறு.",
+        "explanation_en": "責任 = せきにん (பொறுப்பு, responsibility). 任 is にん, not じん."
+      },
+      {
+        "id": "L11-q04", "type": "orthography",
+        "sentence": "看護師の ＿しかく＿を 取って、日本で 働きたいです。", "target": "しかく",
+        "options": ["視覚", "四角", "死角", "資格"], "answer": 3,
+        "explanation_ta": "வேலைக்கான தகுதி = 資格. 視覚 (பார்வை உணர்வு), 四角 (சதுரம்), 死角 (பார்வைக்குத் தெரியாத இடம்) எல்லாமே しかく என்றே படிக்கப்படும், ஆனால் பொருள் வேறு.",
+        "explanation_en": "A qualification for a job = 資格. 視覚 (eyesight), 四角 (square) and 死角 (blind spot) are all read しかく too, but they mean other things."
+      },
+      {
+        "id": "L11-q05", "type": "orthography",
+        "sentence": "新しい ことに どんどん ＿ちょうせん＿したいです。", "target": "ちょうせん",
+        "options": ["跳戦", "挑戦", "桃戦", "挑選"], "answer": 1,
+        "explanation_ta": "ちょうせん (சவால், முயற்சி) = 挑戦. 跳 (குதிக்க), 桃 (பீச் பழம்) தோற்றத்தில் ஒத்தவை; 選 (தேர்ந்தெடுக்க) தவறு.",
+        "explanation_en": "ちょうせん (challenge) = 挑戦. 跳 (jump) and 桃 (peach) look similar. 選 (choose) is wrong."
+      },
+      {
+        "id": "L11-q06", "type": "vocab_context",
+        "sentence": "一度 失敗した ぐらいで、夢を （　　）ないで ください。",
+        "options": ["諦め", "申し込ま", "望ま", "当て"], "answer": 0,
+        "explanation_ta": "夢を諦める = கனவைக் கைவிட. 望まない என்றால் 'விரும்பாதே' — தோல்வியுடன் பொருந்தாது.",
+        "explanation_en": "夢を諦める means \"to give up your dream\" (கனவைக் கைவிட). 望まない (don't wish) does not fit with failing."
+      },
+      {
+        "id": "L11-q07", "type": "vocab_context",
+        "sentence": "日本語能力試験に インターネットで （　　）。",
+        "options": ["当てました", "願いました", "申し込みました", "辞めました"], "answer": 2,
+        "explanation_ta": "தேர்வுக்கு விண்ணப்பிப்பது = 試験に申し込む. 願う (வேண்ட) இணையத்தில் செய்யும் செயல் அல்ல.",
+        "explanation_en": "To apply for an exam = 試験に申し込む (விண்ணப்பிக்க). 願う (to wish) is not something you do online."
+      },
+      {
+        "id": "L11-q08", "type": "vocab_context",
+        "sentence": "会社を 辞めて 自分の 店を 開くのは 大きな （　　）だ。",
+        "options": ["義務", "学歴", "職業", "冒険"], "answer": 3,
+        "explanation_ta": "நிலையான வேலையை விட்டுக் கடை தொடங்குவது ஆபத்து நிறைந்த முயற்சி → 冒険 (துணிகரச் செயல்). 義務 (கடமை) பொருந்தாது.",
+        "explanation_en": "Leaving a safe job to open a shop is risky → 冒険 (துணிகரச் செயல், a risk / adventure). 義務 (duty) does not fit."
+      },
+      {
+        "id": "L11-q09", "type": "vocab_context",
+        "sentence": "この 奨学金は 留学生が （　　）です。日本人の 学生は 申し込めません。",
+        "options": ["目的", "対象", "候補", "理想"], "answer": 1,
+        "explanation_ta": "யாருக்காக என்பதைக் காட்டுவது 対象 (இலக்குக் குழு). 候補 என்றால் தேர்வுக்குக் கருதப்படுபவர்; இங்கே பொருந்தாது.",
+        "explanation_en": "対象 shows who something is for (இலக்குக் குழு). 候補 means a candidate being considered. It does not fit here."
+      },
+      {
+        "id": "L11-q10", "type": "vocab_context",
+        "sentence": "健康の ために、たばこを やめる （　　）を しました。",
+        "options": ["期待", "決定", "決心", "判断"], "answer": 2,
+        "explanation_ta": "தனிப்பட்ட உறுதியான முடிவு = 決心をする (தீர்மானிக்க). 決定 என்பது கூட்டம், நிறுவனம் போன்றவற்றின் அதிகாரப்பூர்வ முடிவு.",
+        "explanation_en": "A firm personal decision = 決心をする (தீர்மானிக்க). 決定 is an official decision, like one made at a meeting."
+      },
+      {
+        "id": "L11-q11", "type": "paraphrase",
+        "sentence": "彼は 意志が 強い 人です。",
+        "options": ["彼は 体が 丈夫な 人です。", "彼は 人の 意見を よく 聞く 人です。", "彼は 一度 決めた ことを 最後まで やる 人です。", "彼は 怒りやすい 人です。"], "answer": 2,
+        "explanation_ta": "意志が強い = மன உறுதி உள்ளவர்; முடிவு செய்ததைக் கடைசி வரை செய்பவர். 体が丈夫 என்பது உடல் வலிமை, மனம் அல்ல.",
+        "explanation_en": "意志が強い means strong-willed (மன உறுதி உள்ளவர்). He does what he decides, to the end. 体が丈夫 is about a strong body, not the mind."
+      },
+      {
+        "id": "L11-q12", "type": "paraphrase",
+        "sentence": "父は 去年 仕事を 引退しました。",
+        "options": ["父は 去年 仕事を 変えました。", "父は 去年 新しい 仕事を 始めました。", "父は 去年 仕事を 探しました。", "父は 去年 働くのを やめました。"], "answer": 3,
+        "explanation_ta": "引退 = ஓய்வு பெறுதல், அதாவது வேலை செய்வதையே நிறுத்துவது → 働くのをやめました. 仕事を変えた என்றால் வேறு வேலைக்கு மாறியது.",
+        "explanation_en": "引退 means retiring: you stop working → 働くのをやめました. 仕事を変えた means he changed jobs."
+      },
+      {
+        "id": "L11-q13", "type": "usage",
+        "sentence": "期待",
+        "options": ["新しい 社員には みんなが 期待して います。", "明日は 雨が 期待なので、傘を 持って いきます。", "駅で 友達を 一時間 期待しました。", "期待な ことが あったら、電話して ください。"], "answer": 0,
+        "explanation_ta": "期待する = நல்லதை எதிர்பார்க்க / நம்பிக்கை வைக்க: 新しい社員に期待する. ஒருவருக்காகக் காத்திருப்பது 待つ; 期待 な-பெயரடை அல்ல.",
+        "explanation_en": "期待する means to expect something good or to have hopes for someone: 新しい社員に期待する. Waiting for a friend is 待つ. 期待 is not a な-adjective."
+      },
+      {
+        "id": "L11-q14", "type": "usage",
+        "sentence": "判断",
+        "options": ["判断を 開けて、部屋に 入りました。", "彼は 判断が 速くて、料理が 上手です。", "判断を 書いて、先生に 出しました。", "行くか 行かないかは、自分で 判断して ください。"], "answer": 3,
+        "explanation_ta": "判断する = நிலைமையைப் பார்த்து முடிவு செய்ய: 自分で判断する. கதவு திறப்பது, சமையல், எழுதிக் கொடுப்பது இவற்றுடன் 判断 பொருந்தாது.",
+        "explanation_en": "判断する means to judge a situation and decide: 自分で判断する. It does not go with opening a door, cooking or handing in writing."
+      },
+      {
+        "id": "L11-q15", "type": "grammar_form",
+        "sentence": "約束した （　　）、守らなければ ならない。",
+        "options": ["からには", "からといって", "のに", "けれど"], "answer": 0,
+        "explanation_ta": "'வாக்குக் கொடுத்த பிறகு கட்டாயம் காப்பாற்ற வேண்டும்' → からには. からといって பின்னால் மறுப்பு வர வேண்டும்; のに, けれど 'இருந்தும்' என்ற எதிர்ப் பொருள்.",
+        "explanation_en": "\"Once you promise, you must keep it\" → からには. からといって needs a negative after it. のに and けれど mean \"although\"."
+      },
+      {
+        "id": "L11-q16", "type": "grammar_form",
+        "sentence": "日本人だ（　　）、だれでも 着物が 一人で 着られると 思っては いけない。",
+        "options": ["からには", "からこそ", "からといって", "以上"], "answer": 2,
+        "explanation_ta": "'ஜப்பானியர் என்பதற்காக மட்டும் ... என்று நினைக்கக் கூடாது' → からといって. பின்பகுதி 〜てはいけない என்ற மறுப்பு. からには, 以上 'கட்டாயம் செய்ய வேண்டும்' என்ற பொருள்.",
+        "explanation_en": "\"Just because someone is Japanese, don't think ...\" → からといって. The second part is a warning, 〜てはいけない. からには and 以上 mean \"so you must\"."
+      },
+      {
+        "id": "L11-q17", "type": "grammar_form",
+        "sentence": "君の ことが 大切だ（　　）、厳しく 言うんだよ。",
+        "options": ["からといって", "からこそ", "からには", "のに"], "answer": 1,
+        "explanation_ta": "'நீ முக்கியம் என்பதால்தான் கண்டிப்பாகச் சொல்கிறேன்' → からこそ (காரணத்தை வலியுறுத்துதல்). のに என்றால் 'முக்கியமாக இருந்தும்' என்று எதிர்ப் பொருள்.",
+        "explanation_en": "\"It's exactly because you matter to me that I'm strict\" → からこそ (strong focus on the reason). のに would mean \"even though you matter\"."
+      },
+      {
+        "id": "L11-q18", "type": "grammar_form",
+        "sentence": "もう 子どもじゃない（　　）、自分の 部屋は 自分で 掃除しなさい。",
+        "options": ["からといって", "のに", "んだから", "けど"], "answer": 2,
+        "explanation_ta": "'நீ இப்போ குழந்தை இல்லைதானே' என்று தெரிந்த உண்மையை வைத்துக் கட்டளை → んだから. からといって பின்னால் மறுப்பு வேண்டும்.",
+        "explanation_en": "\"You're not a child any more, right?\" A known fact, then an order → んだから. からといって needs a negative after it."
+      },
+      {
+        "id": "L11-q19", "type": "grammar_form",
+        "sentence": "学生で ある （　　）、授業には きちんと 出なければ ならない。",
+        "options": ["のに", "せいで", "からといって", "以上"], "answer": 3,
+        "explanation_ta": "〜である以上 = '〜ஆக இருக்கும் நிலையில் கட்டாயம்'. のに (இருந்தும்), せいで (கெட்ட விளைவின் காரணம்) இங்கே பொருந்தாது.",
+        "explanation_en": "〜である以上 means \"since you are ~, you must\". のに (although) and せいで (because of, bad result) do not fit."
+      },
+      {
+        "id": "L11-q20", "type": "grammar_form",
+        "sentence": "試合に 出る （　　）、優勝を 目指したい。",
+        "options": ["からといって", "からには", "おかげで", "ものだから"], "answer": 1,
+        "explanation_ta": "'போட்டியில் கலந்துகொள்வதென்றால் வெற்றியையே இலக்காக்க விரும்புகிறேன்' → からには + 〜たい. ものだから சாக்குச் சொல்ல; இங்கே உறுதி தேவை.",
+        "explanation_en": "\"If I'm in the tournament, I want to win\" → からには + 〜たい. ものだから is for excuses. Here you need resolve."
+      },
+      {
+        "id": "L11-q21", "type": "grammar_form",
+        "sentence": "安い（　　）、要らない 物まで たくさん 買うのは よくないよ。",
+        "options": ["からといって", "からには", "からこそ", "以上は"], "answer": 0,
+        "explanation_ta": "'மலிவு என்பதற்காகத் தேவையில்லாததையும் வாங்குவது நல்லதல்ல' → からといって + மறுப்பு (よくない). からこそ 'அதனால்தான்' என்று எதிர்ப் பொருள் தரும்.",
+        "explanation_en": "\"Just because it's cheap, buying things you don't need isn't good\" → からといって + a negative (よくない). からこそ would mean \"exactly because\"."
+      },
+      {
+        "id": "L11-q22", "type": "sentence_order",
+        "before": "やる", "chunks": ["からには", "最後まで", "責任を", "持って"], "star": 2, "after": "やります。",
+        "explanation_ta": "やる からには (செய்வதென்றால்) → 最後まで (கடைசி வரை) → 責任を 持って (பொறுப்புடன்) → やります. ★ = 責任を.",
+        "explanation_en": "やるからには (if I do it) → 最後まで (to the end) → 責任を持って (responsibly) → やります. ★ = 責任を."
+      },
+      {
+        "id": "L11-q23", "type": "sentence_order",
+        "before": "一度 失敗した", "chunks": ["からといって", "夢を", "諦めて", "しまうのは"], "star": 1, "after": "もったいないよ。",
+        "explanation_ta": "一度 失敗した からといって (ஒரு முறை தோற்றதற்காக) → 夢を 諦めて しまうのは (கனவைக் கைவிடுவது) → もったいない (வீண்). ★ = 夢を.",
+        "explanation_en": "一度失敗したからといって (just because you failed once) → 夢を諦めてしまうのは (giving up your dream) → もったいない (is a waste). ★ = 夢を."
+      },
+      {
+        "id": "L11-q24", "type": "sentence_order",
+        "before": "家族が", "chunks": ["応援して", "くれた", "からこそ", "ここまで"], "star": 2, "after": "来られました。",
+        "explanation_ta": "家族が 応援して くれた (குடும்பம் ஆதரவு தந்தது) → からこそ (அதனால்தான்) → ここまで 来られました (இந்த அளவுக்கு வர முடிந்தது). ★ = からこそ.",
+        "explanation_en": "家族が応援してくれた (my family supported me) → からこそ (exactly because) → ここまで来られました (I could come this far). ★ = からこそ."
+      },
+      {
+        "id": "L11-q25", "type": "passage_cloze",
+        "passage": "私は 去年 大学を 卒業して、日本の IT 会社に 就職しました。最初は 日本語が 下手で、何度も 会社を 辞めようと 思いました。でも、自分で 選んだ 道［1］、簡単に 諦めたく ありませんでした。上司は「外国人だ［2］、仕事が 遅くても いいとは 思わないで ください。」と 厳しく 言いました。今は、上司が 厳しかった［3］、成長できたと 思って います。この 会社で 働く［4］、いつか チームの リーダーに なりたいです。",
+        "blanks": [
+          { "options": ["なのに", "だからといって", "なのだから", "だったら"], "answer": 2 },
+          { "options": ["からこそ", "からといって", "からには", "のだから"], "answer": 1 },
+          { "options": ["からこそ", "からといって", "のに", "以上"], "answer": 0 },
+          { "options": ["からといって", "せいで", "からには", "おかげで"], "answer": 2 }
+        ],
+        "explanation_ta": "［1］ 'நானே தேர்ந்தெடுத்த பாதைதானே' என்ற தெரிந்த காரணம் → 道なのだから. ［2］ 'வெளிநாட்டவர் என்பதற்காக மட்டும் மெதுவாக இருக்கலாம் என்று நினைக்காதே' → からといって + மறுப்பு. ［3］ 'மேலதிகாரி கண்டிப்பாக இருந்ததால்தான் வளர முடிந்தது' → からこそ. ［4］ 'இந்த நிறுவனத்தில் வேலை செய்வதென்றால், ஒரு நாள் தலைவர் ஆக வேண்டும்' → からには + 〜たい.",
+        "explanation_en": "[1] \"It's the path I chose myself, after all\" → 道なのだから. [2] \"Just because you're a foreigner, don't think being slow is OK\" → からといって + a negative. [3] \"It's exactly because my boss was strict that I grew\" → からこそ. [4] \"Now that I work at this company, I want to become a leader one day\" → からには + 〜たい."
+      }
+    ]
+  }
+}

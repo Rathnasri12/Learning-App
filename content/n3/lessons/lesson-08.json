@@ -1,0 +1,801 @@
+{
+  "lesson": 8,
+  "title": {
+    "ja": "増える一方だ",
+    "ta": "தொடர்ந்து அதிகரித்துக்கொண்டே இருக்கிறது",
+    "en": "It just keeps rising"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் கருப்பொருள் மாறிவரும் சமூகம்: தொழில்நுட்பம், மக்கள்தொகை, விலைவாசி. 'விலை ஏறிக்கொண்டே போகிறது (一方だ)', 'வயது ஆக ஆக (につれて / と共に)', 'விதிகளைப் பின்பற்றி (にしたがって)', 'கட்டுமானப் பணியை முன்னிட்டு (に伴って)' என்று காலப்போக்கில் நடக்கும் மாற்றங்களைச் சொல்லக் கற்போம். செய்தி, அறிவிப்புகளில் வரும் முறையான வடிவங்களையும், 増える／増やす、広がる／広げる போன்ற தன்வினை–பிறவினை ஜோடிகளையும் படிப்போம்.",
+  "intro_en": "This lesson is about a changing society: technology, population and prices. You will learn to talk about change over time. You will say \"prices just keep going up\" (一方だ). You will say \"as I get older\" (につれて / と共に). You will say \"following the rules\" (にしたがって). You will say \"because of the building work\" (に伴って). You will also see formal patterns from news and notices. And you will learn verb pairs like 増える / 増やす and 広がる / 広げる.",
+  "grammar": [
+    {
+      "id": "g08-1",
+      "pattern": "V-る 一方だ",
+      "name": {
+        "en": "Keeps on ~ (one way only)",
+        "ta": "〜க்கொண்டே போகிறது"
+      },
+      "explanation_ta": "V-る一方だ என்றால் ஒரு மாற்றம் ஒரே திசையில், நிற்காமல் தொடர்ந்து போகிறது என்று பொருள். 増える、減る、上がる、悪くなる போன்ற மாற்றத்தைக் காட்டும் வினைகளுடன் மட்டுமே வரும். பெரும்பாலும் கெட்ட மாற்றம், கவலை அல்லது புகார் தொனி இருக்கும். தமிழில் 'ஏறிக்கொண்டே போகிறது', 'குறைந்துகொண்டே வருகிறது' என்ற '-க்கொண்டே' வடிவத்துக்குச் சமம். ます-நடையில் 一方です, கடந்த காலத்தில் 一方でした. どんどん〜ている என்பதைவிட 'திரும்பி வரும் வாய்ப்பே இல்லை' என்ற வலுவான உணர்வு உண்டு.",
+      "explanation_en": "V-る一方だ means a change keeps going in one direction and does not stop. Use it only with verbs of change, like 増える (increase), 減る (decrease), 上がる (rise) and 悪くなる (get worse). It is usually a bad change, so it sounds worried or unhappy. It is like Tamil \"-க்கொண்டே போகிறது\" (keeps on going). In polite speech say 一方です. In the past say 一方でした. It is stronger than どんどん〜ている. It suggests the change won't turn back.",
+      "tamil_parallel": "டோக்கியோவில் வீட்டு வாடகை ஏறிக்கொண்டே போகிறது = 東京の家賃は上がる一方です",
+      "tamil_parallel_en": "Tamil \"-க்கொண்டே போகிறது\" (keeps on ~ing): \"Rent in Tokyo just keeps going up\" = 東京の家賃は上がる一方です",
+      "formation": "மாற்ற வினை அகராதி வடிவம் + 一方だ / 一方です\n(増える、減る、上がる、下がる、悪くなる、高くなる…)",
+      "formation_en": "Change verb, dictionary form + 一方だ / 一方です\n(増える, 減る, 上がる, 下がる, 悪くなる, 高くなる…)",
+      "examples": [
+        {
+          "ja": "東京の家賃は、上がる一方です。",
+          "reading": "とうきょうの やちんは、あがる いっぽうです。",
+          "romaji": "toukyou no yachin wa, agaru ippou desu.",
+          "ta": "டோக்கியோவில் வீட்டு வாடகை ஏறிக்கொண்டே போகிறது.",
+          "en": "Rent in Tokyo just keeps going up."
+        },
+        {
+          "ja": "田舎の人口は、減る一方だ。",
+          "reading": "いなかの じんこうは、へる いっぽうだ。",
+          "romaji": "inaka no jinkou wa, heru ippou da.",
+          "ta": "கிராமப்புற மக்கள்தொகை குறைந்துகொண்டே வருகிறது.",
+          "en": "The population of the countryside keeps falling."
+        },
+        {
+          "ja": "薬を飲んでも、父の病気は悪くなる一方でした。",
+          "reading": "くすりを のんでも、ちちの びょうきは わるく なる いっぽうでした。",
+          "romaji": "kusuri o nonde mo, chichi no byouki wa waruku naru ippou deshita.",
+          "ta": "மருந்து சாப்பிட்டும் அப்பாவின் நோய் மோசமாகிக்கொண்டே போனது.",
+          "en": "Even with medicine, my father's illness just kept getting worse."
+        },
+        {
+          "ja": "スマホを使う人は、増える一方です。",
+          "reading": "スマホを つかう ひとは、ふえる いっぽうです。",
+          "romaji": "sumaho o tsukau hito wa, fueru ippou desu.",
+          "ta": "ஸ்மார்ட்போன் பயன்படுத்துபவர்கள் அதிகரித்துக்கொண்டே போகிறார்கள்.",
+          "en": "The number of smartphone users keeps rising."
+        },
+        {
+          "ja": "練習しないから、ピアノが下手になる一方だよ。",
+          "reading": "れんしゅう しないから、ピアノが へたに なる いっぽうだよ。",
+          "romaji": "renshuu shinai kara, piano ga heta ni naru ippou da yo.",
+          "ta": "பயிற்சி செய்யாததால், பியானோ வாசிப்பு மோசமாகிக்கொண்டே போகிறது.",
+          "en": "I don't practise, so my piano playing just keeps getting worse."
+        },
+        {
+          "ja": "物価は上がる一方なのに、給料は全然上がらない。",
+          "reading": "ぶっかは あがる いっぽうなのに、きゅうりょうは ぜんぜん あがらない。",
+          "romaji": "bukka wa agaru ippou na noni, kyuuryou wa zenzen agaranai.",
+          "ta": "விலைவாசி ஏறிக்கொண்டே போகிறது; ஆனால் சம்பளம் கொஞ்சம்கூட உயரவில்லை.",
+          "en": "Prices keep rising, but my salary doesn't go up at all."
+        },
+        {
+          "ja": "最近、仕事は増える一方ですか。",
+          "reading": "さいきん、しごとは ふえる いっぽうですか。",
+          "romaji": "saikin, shigoto wa fueru ippou desu ka.",
+          "ta": "சமீபமாக வேலை அதிகரித்துக்கொண்டே போகிறதா?",
+          "en": "Has your work just kept piling up lately?"
+        }
+      ],
+      "pitfalls_ta": "மாற்றம் காட்டாத வினைகளுடன் 一方だ வராது: 毎日勉強する一方だ ✗. மேலும் 一方で (வாக்கிய நடுவில்) என்பது 'மறுபக்கம்' என்ற வேறு பொருள்; இரண்டையும் குழப்பாதீர்கள்.",
+      "pitfalls_en": "Don't use 一方だ with verbs that don't show change: 毎日勉強する一方だ ✗. Also, 一方で in the middle of a sentence means \"on the other hand\". Don't mix them up."
+    },
+    {
+      "id": "g08-2",
+      "pattern": "N / V-る と 共に",
+      "name": {
+        "en": "Together with / as ~",
+        "ta": "〜உடன் சேர்ந்து / 〜ஆக ஆக"
+      },
+      "explanation_ta": "と共に மூன்று பொருள்களில் வரும். (1) பெயர்ச்சொல் + と共に = 'ஒன்றாக, கூடவே' (一緒に-இன் முறையான வடிவம்): 家族と共に. (2) மாற்றம் + と共に = 'அது மாற மாற இதுவும் மாறுகிறது': 年を取ると共に、体力が落ちる. (3) ஒரு நிகழ்வு + と共に = 'அதே நேரத்தில்': 卒業と共に帰国した. தமிழில் '-உடன்', '-ஓடு' (குடும்பத்துடன்) அல்லது 'ஆக ஆக' என்பதற்குச் சமம். 一緒に-ஐ விட எழுத்து நடை, உரை, செய்திகளில் அதிகம்; நண்பர்களுடன் பேசும்போது 一緒に போதும்.",
+      "explanation_en": "と共に has three uses. (1) Noun + と共に = \"together with\". It is a formal 一緒に: 家族と共に (with my family). (2) A change + と共に = \"as A changes, B changes too\": 年を取ると共に、体力が落ちる (as you age, your strength drops). (3) An event + と共に = \"at the same time as\": 卒業と共に帰国した (went home as soon as I graduated). It is like Tamil \"-உடன்\" (with) or \"ஆக ஆக\" (as ~ goes on). It is more formal than 一緒に. You see it in writing, speeches and news. With friends, 一緒に is enough.",
+      "tamil_parallel": "குடும்பத்துடன் புதிய வாழ்க்கையைத் தொடங்கினேன் = 家族と共に新しい生活を始めました; வயது ஆக ஆக = 年を取ると共に",
+      "tamil_parallel_en": "Tamil \"-உடன்\" (with): \"I started a new life with my family\" = 家族と共に新しい生活を始めました. Tamil \"ஆக ஆக\" (as ~ goes on) = 年を取ると共に",
+      "formation": "பெயர்ச்சொல் + と共に (家族と共に、進歩と共に、卒業と共に)\nவினை அகராதி வடிவம் + と共に (年を取ると共に、増えると共に)",
+      "formation_en": "Noun + と共に (家族と共に, 進歩と共に, 卒業と共に)\nVerb dictionary form + と共に (年を取ると共に, 増えると共に)",
+      "examples": [
+        {
+          "ja": "家族と共に、日本で新しい生活を始めました。",
+          "reading": "かぞくと ともに、にほんで あたらしい せいかつを はじめました。",
+          "romaji": "kazoku to tomo ni, nihon de atarashii seikatsu o hajimemashita.",
+          "ta": "குடும்பத்துடன் சேர்ந்து ஜப்பானில் புதிய வாழ்க்கையைத் தொடங்கினேன்.",
+          "en": "I started a new life in Japan together with my family."
+        },
+        {
+          "ja": "年を取ると共に、体力が落ちてきました。",
+          "reading": "としを とると ともに、たいりょくが おちて きました。",
+          "romaji": "toshi o toru to tomo ni, tairyoku ga ochite kimashita.",
+          "ta": "வயது ஆக ஆக உடல் வலிமை குறைந்து வருகிறது.",
+          "en": "As I've got older, my strength has dropped."
+        },
+        {
+          "ja": "技術の進歩と共に、生活はますます便利になりました。",
+          "reading": "ぎじゅつの しんぽと ともに、せいかつは ますます べんりに なりました。",
+          "romaji": "gijutsu no shinpo to tomo ni, seikatsu wa masumasu benri ni narimashita.",
+          "ta": "தொழில்நுட்ப முன்னேற்றத்துடன் வாழ்க்கை மேலும் மேலும் வசதியானது.",
+          "en": "As technology has advanced, life has become more and more convenient."
+        },
+        {
+          "ja": "卒業と共に、彼は故郷に帰りました。",
+          "reading": "そつぎょうと ともに、かれは こきょうに かえりました。",
+          "romaji": "sotsugyou to tomo ni, kare wa kokyou ni kaerimashita.",
+          "ta": "படிப்பு முடிந்த உடனேயே அவர் சொந்த ஊருக்குத் திரும்பினார்.",
+          "en": "As soon as he graduated, he went back to his hometown."
+        },
+        {
+          "ja": "人口が増えると共に、町の問題も増えています。",
+          "reading": "じんこうが ふえると ともに、まちの もんだいも ふえて います。",
+          "romaji": "jinkou ga fueru to tomo ni, machi no mondai mo fuete imasu.",
+          "ta": "மக்கள்தொகை அதிகரிக்க அதிகரிக்க ஊரின் பிரச்சினைகளும் அதிகரிக்கின்றன.",
+          "en": "As the population grows, the town's problems are growing too."
+        },
+        {
+          "ja": "この会社は、地域と共に成長してきました。",
+          "reading": "この かいしゃは、ちいきと ともに せいちょう して きました。",
+          "romaji": "kono kaisha wa, chiiki to tomo ni seichou shite kimashita.",
+          "ta": "இந்த நிறுவனம் இந்தப் பகுதியுடன் சேர்ந்து வளர்ந்து வந்துள்ளது.",
+          "en": "This company has grown together with the local community."
+        }
+      ],
+      "pitfalls_ta": "と共に-க்கு முன் வினை அகராதி வடிவத்தில் வர வேண்டும்: 年を取って共に ✗. நண்பர்களுடன் சாதாரணப் பேச்சில் 友達と共に映画を見た என்பது மிகக் கனமாக ஒலிக்கும்; 友達と一緒に போதும்.",
+      "pitfalls_en": "Use the dictionary form before と共に: 年を取って共に ✗. In casual talk, 友達と共に映画を見た sounds far too heavy. Just say 友達と一緒に."
+    },
+    {
+      "id": "g08-3",
+      "pattern": "V-る / N に つれて",
+      "name": {
+        "en": "As ~, (gradually) ~",
+        "ta": "〜ஆக ஆக (படிப்படியாக)"
+      },
+      "explanation_ta": "につれて என்றால் 'A படிப்படியாக மாற மாற, B-யும் படிப்படியாக மாறுகிறது'. இரண்டு பகுதிகளிலும் மெல்ல நடக்கும் மாற்றம் இருக்க வேண்டும்: 上達する、経つ、近づく、成長する; இரண்டாம் பகுதியில் 〜なる、〜てくる、だんだん போன்றவை அடிக்கடி வரும். தமிழில் 'ஆக ஆக', 'போகப் போக' என்பதற்குச் சமம். அன்றாடப் பேச்சிலும் எழுத்திலும் இயல்பாகப் பயன்படும். と共に-ஐ விட மென்மையானது; にしたがって-ஐ விடப் பேச்சு நடைக்கு நெருக்கமானது.",
+      "explanation_en": "につれて means \"as A gradually changes, B also gradually changes\". Both parts must show slow change. Part A uses verbs like 上達する (improve), 経つ (pass), 近づく (come near) or 成長する (grow). Part B often has 〜なる, 〜てくる or だんだん (little by little). It is like Tamil \"ஆக ஆக\" or \"போகப் போக\" (as it goes on). It is natural in both speech and writing. It is softer than と共に and more spoken than にしたがって.",
+      "tamil_parallel": "ஜப்பானிய மொழி மேம்பட மேம்பட, ஜப்பான் வாழ்க்கை மகிழ்ச்சியானது = 日本語が上達するにつれて、日本の生活が楽しくなった",
+      "tamil_parallel_en": "Tamil \"ஆக ஆக\" (as ~ goes on): \"As my Japanese improved, life in Japan became more fun\" = 日本語が上達するにつれて、日本の生活が楽しくなった",
+      "formation": "வினை அகராதி வடிவம் + につれて、 + படிப்படியான மாற்றம்\nபெயர்ச்சொல் (மாற்றம்) + につれて (時代の変化につれて)",
+      "formation_en": "Verb dictionary form + につれて、 + gradual change\nNoun (of change) + につれて (時代の変化につれて)",
+      "examples": [
+        {
+          "ja": "日本語が上達するにつれて、日本の生活が楽しくなりました。",
+          "reading": "にほんごが じょうたつ するに つれて、にほんの せいかつが たのしく なりました。",
+          "romaji": "nihongo ga joutatsu suru ni tsurete, nihon no seikatsu ga tanoshiku narimashita.",
+          "ta": "ஜப்பானிய மொழி மேம்பட மேம்பட, ஜப்பான் வாழ்க்கை மகிழ்ச்சியானது.",
+          "en": "As my Japanese improved, life in Japan became more fun."
+        },
+        {
+          "ja": "時間が経つにつれて、悲しみも少しずつ消えていきました。",
+          "reading": "じかんが たつに つれて、かなしみも すこしずつ きえて いきました。",
+          "romaji": "jikan ga tatsu ni tsurete, kanashimi mo sukoshizutsu kiete ikimashita.",
+          "ta": "காலம் போகப் போக, துக்கமும் கொஞ்சம் கொஞ்சமாக மறைந்தது.",
+          "en": "As time passed, the sadness slowly faded."
+        },
+        {
+          "ja": "山を登るにつれて、気温が下がってきました。",
+          "reading": "やまを のぼるに つれて、きおんが さがって きました。",
+          "romaji": "yama o noboru ni tsurete, kion ga sagatte kimashita.",
+          "ta": "மலை ஏற ஏற வெப்பநிலை குறைந்து வந்தது.",
+          "en": "As we climbed the mountain, the temperature dropped."
+        },
+        {
+          "ja": "子どもが成長するにつれて、家族で出かけることが減りました。",
+          "reading": "こどもが せいちょう するに つれて、かぞくで でかける ことが へりました。",
+          "romaji": "kodomo ga seichou suru ni tsurete, kazoku de dekakeru koto ga herimashita.",
+          "ta": "குழந்தைகள் வளர வளர, குடும்பமாக வெளியே போவது குறைந்தது.",
+          "en": "As the children grew up, we went out as a family less often."
+        },
+        {
+          "ja": "時代の変化につれて、人々の考え方も変わってきました。",
+          "reading": "じだいの へんかに つれて、ひとびとの かんがえかたも かわって きました。",
+          "romaji": "jidai no henka ni tsurete, hitobito no kangaekata mo kawatte kimashita.",
+          "ta": "காலம் மாற மாற மக்களின் சிந்தனையும் மாறி வந்துள்ளது.",
+          "en": "As the times have changed, people's way of thinking has changed too."
+        },
+        {
+          "ja": "締め切りが近づくにつれて、だんだん忙しくなってきた。",
+          "reading": "しめきりが ちかづくに つれて、だんだん いそがしく なって きた。",
+          "romaji": "shimekiri ga chikazuku ni tsurete, dandan isogashiku natte kita.",
+          "ta": "கடைசித் தேதி நெருங்க நெருங்க, வேலை மேலும் மேலும் பரபரப்பானது.",
+          "en": "As the deadline got closer, I got busier and busier."
+        },
+        {
+          "ja": "話を聞くにつれて、気持ちが変わりましたか。",
+          "reading": "はなしを きくに つれて、きもちが かわりましたか。",
+          "romaji": "hanashi o kiku ni tsurete, kimochi ga kawarimashita ka.",
+          "ta": "கதையைக் கேட்கக் கேட்க உங்கள் மனநிலை மாறியதா?",
+          "en": "Did your feelings change as you listened to the story?"
+        }
+      ],
+      "pitfalls_ta": "ஒருமுறை நடக்கும் நிகழ்வுக்கு につれて வராது: 駅に着くにつれて ✗. இரண்டாம் பகுதியில் விருப்பம், கட்டளை (〜たい、〜てください) வராது; தானாக நடக்கும் மாற்றமே வர வேண்டும்.",
+      "pitfalls_en": "Don't use につれて for a one-time event: 駅に着くにつれて ✗. Part B can't be a wish or a request (〜たい, 〜てください). It must be a change that happens by itself."
+    },
+    {
+      "id": "g08-4",
+      "pattern": "V-る / N に したがって",
+      "name": {
+        "en": "As ~ / following ~",
+        "ta": "〜ஆக ஆக / 〜இன்படி"
+      },
+      "explanation_ta": "にしたがって-க்கு இரண்டு பொருள். (1) につれて போலவே 'A மாற மாற B-யும் மாறுகிறது': 駅から離れるにしたがって、家賃が安くなる. இது につれて-ஐ விடச் சற்று முறையானது, எழுத்தில் அதிகம். (2) விதி, அறிவுரை, வழிகாட்டல் போன்ற பெயர்ச்சொற்களுடன் 'அதைப் பின்பற்றி' என்ற பொருள்: 指示にしたがって (அறிவுறுத்தலின்படி), ルールにしたがって. இந்த இரண்டாம் பொருளில் につれて வர முடியாது. தமிழில் (1) 'ஆக ஆக', (2) '-இன்படி', 'பின்பற்றி' என்பதற்குச் சமம்.",
+      "explanation_en": "にしたがって has two meanings. (1) Like につれて: \"as A changes, B changes\". 駅から離れるにしたがって、家賃が安くなる (the farther from the station, the cheaper the rent). It is a bit more formal than につれて and common in writing. (2) With nouns like rules, instructions or a map: \"following ~\". 指示にしたがって (following the instructions), ルールにしたがって (by the rules). You can't use につれて for meaning (2). It is like Tamil (1) \"ஆக ஆக\" and (2) \"-இன்படி\" (according to).",
+      "tamil_parallel": "ஸ்டேஷனிலிருந்து விலக விலக வாடகை குறையும் = 駅から離れるにしたがって家賃が安くなる; அறிவுறுத்தலின்படி = 指示にしたがって",
+      "tamil_parallel_en": "Tamil \"ஆக ஆக\" (as ~): \"The farther from the station, the cheaper the rent\" = 駅から離れるにしたがって家賃が安くなる. Tamil \"-இன்படி\" (according to) = 指示にしたがって",
+      "formation": "(1) வினை அகராதி வடிவம் + にしたがって、 + மாற்றம்\n(2) பெயர்ச்சொல் (விதி / அறிவுறுத்தல் / வரைபடம்) + にしたがって、 + செயல்",
+      "formation_en": "(1) Verb dictionary form + にしたがって、 + change\n(2) Noun (rule / instruction / map) + にしたがって、 + action",
+      "examples": [
+        {
+          "ja": "駅から離れるにしたがって、家賃が安くなります。",
+          "reading": "えきから はなれるに したがって、やちんが やすく なります。",
+          "romaji": "eki kara hanareru ni shitagatte, yachin ga yasuku narimasu.",
+          "ta": "ஸ்டேஷனிலிருந்து விலக விலக வாடகை குறையும்.",
+          "en": "The farther you go from the station, the cheaper the rent."
+        },
+        {
+          "ja": "経済が発展するにしたがって、生活も豊かになりました。",
+          "reading": "けいざいが はってん するに したがって、せいかつも ゆたかに なりました。",
+          "romaji": "keizai ga hatten suru ni shitagatte, seikatsu mo yutaka ni narimashita.",
+          "ta": "பொருளாதாரம் வளர வளர, வாழ்க்கையும் வளமானது.",
+          "en": "As the economy developed, life became richer too."
+        },
+        {
+          "ja": "学年が上がるにしたがって、勉強が難しくなります。",
+          "reading": "がくねんが あがるに したがって、べんきょうが むずかしく なります。",
+          "romaji": "gakunen ga agaru ni shitagatte, benkyou ga muzukashiku narimasu.",
+          "ta": "வகுப்பு உயர உயரப் படிப்பு கடினமாகும்.",
+          "en": "The higher the grade, the harder the studies get."
+        },
+        {
+          "ja": "係員の指示にしたがって、ゆっくり外に出てください。",
+          "reading": "かかりいんの しじに したがって、ゆっくり そとに でて ください。",
+          "romaji": "kakariin no shiji ni shitagatte, yukkuri soto ni dete kudasai.",
+          "ta": "பணியாளரின் அறிவுறுத்தலின்படி மெதுவாக வெளியே செல்லுங்கள்.",
+          "en": "Please follow the staff's instructions and go out slowly."
+        },
+        {
+          "ja": "地図にしたがって行ったら、すぐに駅が見つかりました。",
+          "reading": "ちずに したがって いったら、すぐに えきが みつかりました。",
+          "romaji": "chizu ni shitagatte ittara, sugu ni eki ga mitsukarimashita.",
+          "ta": "வரைபடத்தைப் பின்பற்றிச் சென்றதும் ஸ்டேஷன் உடனே கிடைத்தது.",
+          "en": "I followed the map and found the station right away."
+        },
+        {
+          "ja": "会社の規則にしたがって、休みの申請は一週間前に出してください。",
+          "reading": "かいしゃの きそくに したがって、やすみの しんせいは いっしゅうかん まえに だして ください。",
+          "romaji": "kaisha no kisoku ni shitagatte, yasumi no shinsei wa isshuukan mae ni dashite kudasai.",
+          "ta": "நிறுவன விதிகளின்படி விடுப்பு விண்ணப்பத்தை ஒரு வாரம் முன்பே கொடுங்கள்.",
+          "en": "Under company rules, please apply for leave one week in advance."
+        },
+        {
+          "ja": "この町のルールにしたがって、ごみを分けていますか。",
+          "reading": "この まちの ルールに したがって、ごみを わけて いますか。",
+          "romaji": "kono machi no ruuru ni shitagatte, gomi o wakete imasu ka.",
+          "ta": "இந்த ஊரின் விதிகளின்படி குப்பையைப் பிரித்துப் போடுகிறீர்களா?",
+          "en": "Do you sort your rubbish according to this town's rules?"
+        }
+      ],
+      "pitfalls_ta": "'விதியின்படி' என்ற பொருளில் につれて-ஐப் பயன்படுத்தாதீர்கள்: 指示につれて ✗ → 指示にしたがって ✓. பெயர்ச்சொல்லுக்குப் பின் நேரடியாக に வரும்; の வேண்டாம்: 指示のにしたがって ✗.",
+      "pitfalls_en": "Don't use につれて for \"following a rule\": 指示につれて ✗ → 指示にしたがって ✓. After a noun, put に directly, with no の: 指示のにしたがって ✗."
+    },
+    {
+      "id": "g08-5",
+      "pattern": "V-る / N に 伴って",
+      "name": {
+        "en": "Along with ~ (formal)",
+        "ta": "〜ஐ ஒட்டி / 〜காரணமாக (முறையான)"
+      },
+      "explanation_ta": "に伴って என்றால் 'A நடப்பதோடு சேர்ந்து, அதன் விளைவாக B-யும் நடக்கிறது'. செய்திகள், அறிவிப்புகள், அலுவலகக் கடிதங்கள் போன்ற முறையான இடங்களில் அதிகம்; பெரும்பாலும் சமூக மாற்றம், கட்டுமானம், இடமாற்றம் போன்ற பெரிய விஷயங்கள். பெயர்ச்சொல்லுக்கு முன் வரும்போது に伴う N (発達に伴う問題); எழுத்து நடையில் に伴い என்றும் வரும். தமிழில் '〜ஐ ஒட்டி', '〜காரணமாக', '〜ஐ முன்னிட்டு' என்பதற்குச் சமம். அன்றாட நண்பர் பேச்சில் இது மிகக் கனம்; அங்கே につれて அல்லது から போதும்.",
+      "explanation_en": "に伴って means \"along with A, B also happens (as a result)\". You see it in news, notices and office letters. It is often about big things like social change, building work or moving offices. Before a noun, use に伴う: 発達に伴う問題 (problems that come with development). In writing, に伴い is also common. It is like Tamil \"〜ஐ ஒட்டி\" or \"〜காரணமாக\" (because of, along with). It is too heavy for chats with friends. There, use につれて or から.",
+      "tamil_parallel": "நிலையக் கட்டுமானப் பணியை ஒட்டி வடக்கு வாசல் மூடப்படும் = 駅の工事に伴って、北口が使えなくなります",
+      "tamil_parallel_en": "Tamil \"〜ஐ ஒட்டி\" (along with, because of): \"Because of station building work, the north exit will be closed\" = 駅の工事に伴って、北口が使えなくなります",
+      "formation": "பெயர்ச்சொல் + に伴って / に伴い、 + விளைவு\nவினை அகராதி வடிவம் + に伴って\nபெயர்ச்சொல் + に伴う + பெயர்ச்சொல் (発達に伴う問題)",
+      "formation_en": "Noun + に伴って / に伴い、 + result\nVerb dictionary form + に伴って\nNoun + に伴う + noun (発達に伴う問題)",
+      "examples": [
+        {
+          "ja": "人口の増加に伴って、交通の問題が深刻になりました。",
+          "reading": "じんこうの ぞうかに ともなって、こうつうの もんだいが しんこくに なりました。",
+          "romaji": "jinkou no zouka ni tomonatte, koutsuu no mondai ga shinkoku ni narimashita.",
+          "ta": "மக்கள்தொகை அதிகரிப்போடு போக்குவரத்துப் பிரச்சினையும் தீவிரமானது.",
+          "en": "Along with population growth, traffic problems became serious."
+        },
+        {
+          "ja": "駅の工事に伴って、北口は来月から使えなくなります。",
+          "reading": "えきの こうじに ともなって、きたぐちは らいげつから つかえなく なります。",
+          "romaji": "eki no kouji ni tomonatte, kitaguchi wa raigetsu kara tsukaenaku narimasu.",
+          "ta": "நிலையக் கட்டுமானப் பணி காரணமாக, அடுத்த மாதம் முதல் வடக்கு வாசலைப் பயன்படுத்த முடியாது.",
+          "en": "Due to station building work, the north exit will be closed from next month."
+        },
+        {
+          "ja": "経済が成長するに伴って、都市が拡大していきました。",
+          "reading": "けいざいが せいちょう するに ともなって、としが かくだい して いきました。",
+          "romaji": "keizai ga seichou suru ni tomonatte, toshi ga kakudai shite ikimashita.",
+          "ta": "பொருளாதாரம் வளர்ந்ததோடு நகரங்களும் விரிவடைந்தன.",
+          "en": "As the economy grew, the cities expanded."
+        },
+        {
+          "ja": "台風の接近に伴って、多くの店が早く閉まりました。",
+          "reading": "たいふうの せっきんに ともなって、おおくの みせが はやく しまりました。",
+          "romaji": "taifuu no sekkin ni tomonatte, ooku no mise ga hayaku shimarimashita.",
+          "ta": "புயல் நெருங்கியதை ஒட்டி பல கடைகள் சீக்கிரமே மூடப்பட்டன.",
+          "en": "As the typhoon approached, many shops closed early."
+        },
+        {
+          "ja": "技術の発達に伴う問題も、少なくありません。",
+          "reading": "ぎじゅつの はったつに ともなう もんだいも、すくなく ありません。",
+          "romaji": "gijutsu no hattatsu ni tomonau mondai mo, sukunaku arimasen.",
+          "ta": "தொழில்நுட்ப வளர்ச்சியோடு வரும் பிரச்சினைகளும் குறைவல்ல.",
+          "en": "There are quite a few problems that come with technological development."
+        },
+        {
+          "ja": "社員が増えるに伴って、新しいオフィスに引越しすることになりました。",
+          "reading": "しゃいんが ふえるに ともなって、あたらしい オフィスに ひっこし する ことに なりました。",
+          "romaji": "shain ga fueru ni tomonatte, atarashii ofisu ni hikkoshi suru koto ni narimashita.",
+          "ta": "ஊழியர்கள் அதிகரித்ததால் புதிய அலுவலகத்துக்கு இடம் மாற முடிவானது.",
+          "en": "As our staff grew, it was decided that we'd move to a new office."
+        }
+      ],
+      "pitfalls_ta": "に伴って-க்குப் பின் தனிப்பட்ட விருப்பம், கட்டளை வருவது இயல்பல்ல: 工事に伴って、気をつけてください என்பதைவிட 工事中ですので、気をつけてください இயல்பானது. பெயர்ச்சொல்லுக்கு முன் に伴って அல்ல, に伴う.",
+      "pitfalls_en": "A personal wish or request after に伴って sounds odd. Instead of 工事に伴って、気をつけてください, say 工事中ですので、気をつけてください. Before a noun, use に伴う, not に伴って."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0066",
+    "n3-v-0145",
+    "n3-v-0173",
+    "n3-v-0203",
+    "n3-v-0214",
+    "n3-v-0230",
+    "n3-v-0276",
+    "n3-v-0340",
+    "n3-v-0471",
+    "n3-v-0477",
+    "n3-v-0478",
+    "n3-v-0537",
+    "n3-v-0561",
+    "n3-v-0590",
+    "n3-v-0693",
+    "n3-v-0697",
+    "n3-v-0774",
+    "n3-v-0827",
+    "n3-v-0865",
+    "n3-v-1071",
+    "n3-v-1185",
+    "n3-v-1223",
+    "n3-v-1273",
+    "n3-v-1278",
+    "n3-v-1310",
+    "n3-v-1317",
+    "n3-v-1377",
+    "n3-v-1389",
+    "n3-v-1460",
+    "n3-v-1567",
+    "n3-v-1626",
+    "n3-v-1670",
+    "n3-v-1728",
+    "n3-v-1779",
+    "n3-v-1781",
+    "n3-v-1783",
+    "n3-v-1826",
+    "n3-v-1847",
+    "n3-v-1848",
+    "n3-v-1849",
+    "n3-v-1863",
+    "n3-v-1897",
+    "n3-v-1898",
+    "n3-v-1918",
+    "n3-v-1919",
+    "n3-v-1921",
+    "n3-v-1981",
+    "n3-v-1984",
+    "n3-v-2028",
+    "n3-v-2029",
+    "n3-v-2061",
+    "n3-v-2073",
+    "n3-v-2074",
+    "n3-v-2075",
+    "n3-v-2111",
+    "n3-v-2112",
+    "n3-v-2135",
+    "n3-v-2136"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L08-q01",
+        "type": "kanji_reading",
+        "sentence": "日本では 人口の ＿減少＿が 問題に なって います。",
+        "target": "減少",
+        "options": [
+          "げんじょう",
+          "げんしょ",
+          "げんしょう",
+          "へんしょう"
+        ],
+        "answer": 2,
+        "explanation_ta": "減少 = げんしょう (குறைவு). 少 = しょう (நீட்டல் உண்டு). げんじょう என்பது 現状 (தற்போதைய நிலை).",
+        "explanation_en": "減少 = げんしょう (குறைவு, decrease). 少 is しょう, with a long vowel. げんじょう is 現状 (present state)."
+      },
+      {
+        "id": "L08-q02",
+        "type": "kanji_reading",
+        "sentence": "医学の ＿進歩＿で、多くの 命が 助かるように なりました。",
+        "target": "進歩",
+        "options": [
+          "しんぽ",
+          "しんぼ",
+          "しんほ",
+          "すすほ"
+        ],
+        "answer": 0,
+        "explanation_ta": "進歩 = しんぽ (முன்னேற்றம்). ん-க்குப் பின் ほ → ぽ ஆகிறது (散歩 さんぽ போல).",
+        "explanation_en": "進歩 = しんぽ (முன்னேற்றம், progress). After ん, ほ changes to ぽ, as in 散歩 (さんぽ)."
+      },
+      {
+        "id": "L08-q03",
+        "type": "kanji_reading",
+        "sentence": "この 工場では、＿機械＿が ほとんどの 仕事を します。",
+        "target": "機械",
+        "options": [
+          "きがい",
+          "きけい",
+          "ききかい",
+          "きかい"
+        ],
+        "answer": 3,
+        "explanation_ta": "機械 = きかい (இயந்திரம்). きがい (濁音) தவறு; ஒலி தெளிவாக か.",
+        "explanation_en": "機械 = きかい (இயந்திரம், machine). きがい is wrong; the sound is a clear か."
+      },
+      {
+        "id": "L08-q04",
+        "type": "orthography",
+        "sentence": "去年より 観光客が ＿ぞうか＿しました。",
+        "target": "ぞうか",
+        "options": [
+          "増化",
+          "贈加",
+          "増加",
+          "増可"
+        ],
+        "answer": 2,
+        "explanation_ta": "ぞうか = 増加 (増 = கூடுதல், 加 = சேர்த்தல்). 贈 என்பது 'பரிசு கொடுத்தல்' (贈る); 化 = மாற்றம்.",
+        "explanation_en": "ぞうか = 増加 (அதிகரிப்பு, increase). 増 means increase and 加 means add. 贈 means give a gift (贈る). 化 means change."
+      },
+      {
+        "id": "L08-q05",
+        "type": "orthography",
+        "sentence": "電話の ＿はつめい＿は、生活を 大きく 変えました。",
+        "target": "はつめい",
+        "options": [
+          "発命",
+          "発明",
+          "初明",
+          "発名"
+        ],
+        "answer": 1,
+        "explanation_ta": "はつめい = 発明 (கண்டுபிடிப்பு: 発 = வெளிப்படுத்தல், 明 = தெளிவு). 命 (உயிர்), 名 (பெயர்) ஒலி ஒத்தவை, பொருள் வேறு.",
+        "explanation_en": "はつめい = 発明 (கண்டுபிடிப்பு, invention). 命 (life) and 名 (name) sound like めい, but the meaning is wrong."
+      },
+      {
+        "id": "L08-q06",
+        "type": "vocab_context",
+        "sentence": "毎日 練習したので、テニスが（　　）しました。",
+        "options": [
+          "増加",
+          "発明",
+          "拡大",
+          "上達"
+        ],
+        "answer": 3,
+        "explanation_ta": "திறமை மேம்படுவது → 上達. 増加 எண்ணிக்கை கூடுவது; 拡大 அளவு பெரிதாவது.",
+        "explanation_en": "A skill getting better → 上達 (திறமை மேம்படுதல், improvement). 増加 is a number going up. 拡大 is size getting bigger."
+      },
+      {
+        "id": "L08-q07",
+        "type": "vocab_context",
+        "sentence": "ごみを（　　）ために、マイバッグを 使いましょう。",
+        "options": [
+          "減る",
+          "増やす",
+          "減らす",
+          "広まる"
+        ],
+        "answer": 2,
+        "explanation_ta": "ごみを (-ஐ) வருவதால் பிறவினை வேண்டும் → 減らす (குறைக்க). 減る தன்வினை: ごみが減る.",
+        "explanation_en": "ごみを has を, so you need the action verb 減らす (குறைக்க, to reduce). 減る has no object: ごみが減る."
+      },
+      {
+        "id": "L08-q08",
+        "type": "vocab_context",
+        "sentence": "その うわさは、すぐに クラス全体に（　　）。",
+        "options": [
+          "広げた",
+          "広めた",
+          "深めた",
+          "広がった"
+        ],
+        "answer": 3,
+        "explanation_ta": "うわさは தானாகப் பரவியது (யாரும் பரப்பியதாகச் சொல்லவில்லை) → 広がった. 広げた／広めた -ஐ (を) கேட்கும் பிறவினைகள்.",
+        "explanation_en": "The rumour spread by itself, with no doer → 広がった (பரவியது, spread). 広げた and 広めた need an object with を."
+      },
+      {
+        "id": "L08-q09",
+        "type": "vocab_context",
+        "sentence": "最近、若い 人は 新聞を 読まない（　　）が あります。",
+        "options": [
+          "変化",
+          "傾向",
+          "発達",
+          "進行"
+        ],
+        "answer": 1,
+        "explanation_ta": "'〜போக்கு உள்ளது' → 傾向がある. 変化がある 'மாற்றம் உள்ளது' — 読まない変化 என்று சொல்ல முடியாது.",
+        "explanation_en": "\"There is a tendency to ~\" → 傾向がある (போக்கு உள்ளது). You can't say 読まない変化."
+      },
+      {
+        "id": "L08-q10",
+        "type": "vocab_context",
+        "sentence": "料理が 焦げそうなので、火を（　　）ください。",
+        "options": [
+          "弱めて",
+          "弱まって",
+          "強まって",
+          "高まって"
+        ],
+        "answer": 0,
+        "explanation_ta": "火を (-ஐ) → பிறவினை 弱める (குறைக்க). 弱まる தன்வினை: 火が弱まる.",
+        "explanation_en": "火を has を → use the action verb 弱める (குறைக்க, turn down). 弱まる has no object: 火が弱まる."
+      },
+      {
+        "id": "L08-q11",
+        "type": "vocab_context",
+        "sentence": "（　　）は 現金を 使わない 人が 多いです。",
+        "options": [
+          "ますます",
+          "徐々に",
+          "共に",
+          "近頃"
+        ],
+        "answer": 3,
+        "explanation_ta": "'இப்போதெல்லாம் ரொக்கம் பயன்படுத்தாதவர்கள் அதிகம்' → 近頃は. ますます、徐々に வினையுடன் வரும் வினையடைகள்; は-வுடன் தலைப்பாக வராது.",
+        "explanation_en": "\"These days, many people don't use cash\" → 近頃は (இப்போதெல்லாம், nowadays). ますます and 徐々に are adverbs for verbs. They can't be a topic with は."
+      },
+      {
+        "id": "L08-q12",
+        "type": "paraphrase",
+        "sentence": "熱が 徐々に 下がって きました。",
+        "options": [
+          "熱が 急に 下がりました。",
+          "熱が 少しずつ 下がって きました。",
+          "熱が また 上がりました。",
+          "熱が 全然 下がりません。"
+        ],
+        "answer": 1,
+        "explanation_ta": "徐々に = 少しずつ (கொஞ்சம் கொஞ்சமாக). 急に (திடீரென்று) இதற்கு நேர் எதிர்.",
+        "explanation_en": "徐々に = 少しずつ (கொஞ்சம் கொஞ்சமாக, little by little). 急に (suddenly) is the opposite."
+      },
+      {
+        "id": "L08-q13",
+        "type": "paraphrase",
+        "sentence": "物価は 上がる 一方です。",
+        "options": [
+          "物価は 少しも 上がりません。",
+          "物価は 上がったり 下がったり します。",
+          "物価は どんどん 上がり 続けて います。",
+          "物価は 一度だけ 上がりました。"
+        ],
+        "answer": 2,
+        "explanation_ta": "上がる一方 = நிற்காமல் ஏறிக்கொண்டே போவது = どんどん上がり続けている. 'ஏறி இறங்குவது' ஒரே திசை அல்ல.",
+        "explanation_en": "上がる一方 = keeps rising without stopping = どんどん上がり続けている. \"Going up and down\" is not one direction."
+      },
+      {
+        "id": "L08-q14",
+        "type": "usage",
+        "sentence": "広める",
+        "options": [
+          "道が 広めて、運転しやすく なりました。",
+          "地図を 机の 上に 広めて ください。",
+          "火事が 町中に 広めました。",
+          "彼女は タミル料理を 日本で 広めたいと 思って います。"
+        ],
+        "answer": 3,
+        "explanation_ta": "広める = அறிவு, பழக்கம், உணவு போன்றவற்றைப் பலரிடம் 'பரப்புவது'. வரைபடத்தை விரிப்பது 広げる; தீ தானாகப் பரவுவது 広がる.",
+        "explanation_en": "広める means to make ideas, customs or food known to many people. Spreading out a map is 広げる. Fire spreading by itself is 広がる."
+      },
+      {
+        "id": "L08-q15",
+        "type": "usage",
+        "sentence": "減る",
+        "options": [
+          "毎日 歩いて、体重が 3キロ 減りました。",
+          "ダイエットの ために、ご飯を 減って います。",
+          "お金を 減らないように 気を つけます。",
+          "店は 店員を 減る ことに しました。"
+        ],
+        "answer": 0,
+        "explanation_ta": "減る தன்வினை: 体重が減る. மற்ற வாக்கியங்களில் を இருப்பதால் 減らす (குறைக்க) வேண்டும்.",
+        "explanation_en": "減る has no object: 体重が減る (weight goes down). The other sentences have を, so they need 減らす (to reduce)."
+      },
+      {
+        "id": "L08-q16",
+        "type": "grammar_form",
+        "sentence": "去年も 今年も 上がって、家賃は 上がる（　　）。",
+        "options": [
+          "ところだった",
+          "一方だ",
+          "ことに した",
+          "ように した"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஏறிக்கொண்டே போகிறது → 上がる一方だ. ところだった 'கிட்டத்தட்ட நடக்க இருந்தது' (பாடம் 4).",
+        "explanation_en": "It keeps going up → 上がる一方だ. ところだった means \"almost happened\" (Lesson 4)."
+      },
+      {
+        "id": "L08-q17",
+        "type": "grammar_form",
+        "sentence": "年を 取る（　　）、体力が 落ちて きた。",
+        "options": [
+          "上で",
+          "と一緒に",
+          "と共に",
+          "一方で"
+        ],
+        "answer": 2,
+        "explanation_ta": "வயது ஆக ஆக (மாற்றம் + மாற்றம்) → 取ると共に. と一緒に வினையுடன் சேராது; பெயர்ச்சொல்லுடன் மட்டுமே.",
+        "explanation_en": "As you get older (change + change) → 取ると共に. と一緒に can't follow a verb; it only follows a noun."
+      },
+      {
+        "id": "L08-q18",
+        "type": "grammar_form",
+        "sentence": "山を 登る（　　）、だんだん 寒く なって きた。",
+        "options": [
+          "につれて",
+          "ついでに",
+          "とたんに",
+          "たびに"
+        ],
+        "answer": 0,
+        "explanation_ta": "'ஏற ஏற படிப்படியாக' (だんだん) → につれて. とたんに た-வடிவம் கேட்கும், திடீர் நிகழ்வுக்கு; たびに 'ஒவ்வொரு முறையும்'.",
+        "explanation_en": "\"The higher we climbed, the colder it got\" (だんだん) → につれて. とたんに needs the た-form and a sudden event. たびに means \"every time\"."
+      },
+      {
+        "id": "L08-q19",
+        "type": "grammar_form",
+        "sentence": "係員の 指示（　　）、外に 出て ください。",
+        "options": [
+          "につれて",
+          "に伴って",
+          "にしたがって",
+          "と共に"
+        ],
+        "answer": 2,
+        "explanation_ta": "அறிவுறுத்தலைப் 'பின்பற்றி' → にしたがって. につれて, に伴って இந்தப் பொருளில் வராது.",
+        "explanation_en": "\"Following\" the instructions → にしたがって. につれて and に伴って can't mean \"follow\"."
+      },
+      {
+        "id": "L08-q20",
+        "type": "grammar_form",
+        "sentence": "駅の 工事（　　）、北口が 使えなく なります。",
+        "options": [
+          "にしたがって",
+          "に伴って",
+          "につれて",
+          "一方で"
+        ],
+        "answer": 1,
+        "explanation_ta": "அறிவிப்பு நடையில் 'பணியை ஒட்டி / காரணமாக' → に伴って. につれて படிப்படியான மாற்றத்துக்கு; ஒருமுறை மூடுவதற்கு அல்ல.",
+        "explanation_en": "Notice style, \"because of the work\" → に伴って. につれて is for gradual change, not a single closure."
+      },
+      {
+        "id": "L08-q21",
+        "type": "grammar_form",
+        "sentence": "技術の 発達（　　）問題に ついて 話し合いました。",
+        "options": [
+          "に伴って",
+          "に伴う",
+          "につれて",
+          "一方な"
+        ],
+        "answer": 1,
+        "explanation_ta": "அடுத்து பெயர்ச்சொல் (問題) வருவதால் → に伴う問題. に伴って வினையை விவரிக்கும்; பெயர்ச்சொல்லுக்கு முன் வராது.",
+        "explanation_en": "A noun (問題) comes next → に伴う問題. に伴って links to a verb; it can't come right before a noun."
+      },
+      {
+        "id": "L08-q22",
+        "type": "grammar_form",
+        "sentence": "家族（　　）、日本で 新しい 生活を 始めました。",
+        "options": [
+          "に伴って",
+          "につれて",
+          "と共に",
+          "にしたがって"
+        ],
+        "answer": 2,
+        "explanation_ta": "'குடும்பத்துடன் சேர்ந்து' → と共に (一緒に-இன் முறையான வடிவம்). மற்றவை 'மாற்றம்' அல்லது 'பின்பற்றுதல்' பொருள்.",
+        "explanation_en": "\"Together with my family\" → と共に (a formal 一緒に). The others are about change or following."
+      },
+      {
+        "id": "L08-q23",
+        "type": "sentence_order",
+        "before": "スマホを",
+        "chunks": [
+          "使う",
+          "人は",
+          "増える",
+          "一方"
+        ],
+        "star": 2,
+        "after": "です。",
+        "explanation_ta": "スマホを 使う (பயன்படுத்தும்) → 人は → 増える (அதிகரிக்கும்) → 一方 です. ★ = 増える.",
+        "explanation_en": "スマホを 使う (who use smartphones) → 人は (people) → 増える (increase) → 一方 です (keep on). ★ = 増える."
+      },
+      {
+        "id": "L08-q24",
+        "type": "sentence_order",
+        "before": "日本語が",
+        "chunks": [
+          "上達する",
+          "につれて",
+          "日本の",
+          "生活が"
+        ],
+        "star": 1,
+        "after": "楽しく なりました。",
+        "explanation_ta": "日本語が 上達する → につれて (ஆக ஆக) → 日本の 生活が → 楽しく なりました. ★ = につれて.",
+        "explanation_en": "日本語が 上達する (Japanese improves) → につれて (as) → 日本の 生活が (life in Japan) → 楽しく なりました. ★ = につれて."
+      },
+      {
+        "id": "L08-q25",
+        "type": "sentence_order",
+        "before": "この 町では、",
+        "chunks": [
+          "人口の",
+          "増加に",
+          "伴って",
+          "交通の"
+        ],
+        "star": 2,
+        "after": "問題が 深刻に なりました。",
+        "explanation_ta": "人口の 増加に (மக்கள்தொகை அதிகரிப்பை) → 伴って (ஒட்டி) → 交通の 問題が 深刻に なりました. ★ = 伴って.",
+        "explanation_en": "人口の 増加に (population growth) → 伴って (along with) → 交通の 問題が (traffic problems) 深刻に なりました. ★ = 伴って."
+      },
+      {
+        "id": "L08-q26",
+        "type": "passage_cloze",
+        "passage": "私の 祖父は 七十年前に 生まれました。当時、村には 電話も テレビも ありませんでした。しかし、技術の 進歩［1］、生活は ますます 便利に なりました。祖父は「時代が 変わる［2］、人の 考え方も 少しずつ 変わって きた」と 言います。でも、村の 人口は 減る［3］で、若い 人は ほとんど 都会へ 出て いきます。村の 小学校も、子どもの 減少［4］、来年 なくなる ことに なりました。",
+        "blanks": [
+          {
+            "options": [
+              "と共に",
+              "一方",
+              "につれる",
+              "に伴う"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "一方",
+              "につれて",
+              "に伴う",
+              "と共の"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "につれて",
+              "と共に",
+              "一方",
+              "にしたがって"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "に伴って",
+              "にしたがって",
+              "一方",
+              "と共の"
+            ],
+            "answer": 0
+          }
+        ],
+        "explanation_ta": "［1］ 'முன்னேற்றத்துடன் சேர்ந்து' → と共に; に伴う-க்குப் பின் பெயர்ச்சொல் தேவை. ［2］ 'காலம் மாற மாற, படிப்படியாக' → につれて. ［3］ 'குறைந்துகொண்டே போகிறது' → 減る一方で. ［4］ செய்தி நடையில் 'குழந்தைகள் குறைந்ததை ஒட்டி' → に伴って; にしたがって 'பின்பற்றி' என்று பொருள் மாறிவிடும்.",
+        "explanation_en": "[1] \"Together with progress\" → と共に. に伴う needs a noun after it. [2] \"As the times change, little by little\" → につれて. [3] \"Keeps falling\" → 減る一方で. [4] News style, \"because of fewer children\" → に伴って. にしたがって would mean \"following\"."
+      }
+    ]
+  }
+}

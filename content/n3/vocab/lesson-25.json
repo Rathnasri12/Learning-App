@@ -1,0 +1,830 @@
+[
+  {
+    "id": "n3-v-0109",
+    "expression": "宿泊",
+    "reading": "しゅくはく",
+    "romaji": "shukuhaku",
+    "en": "lodging, staying (at a hotel)",
+    "ta": "தங்குதல் (விடுதியில்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このホテルの宿泊料は、一泊一万円です。",
+        "reading": "この ホテルの しゅくはくりょうは、いっぱく いちまんえんです。",
+        "romaji": "kono hoteru no shukuhakuryou wa, ippaku ichiman en desu.",
+        "ta": "இந்த ஹோட்டலில் தங்கும் கட்டணம் ஓர் இரவுக்குப் பத்தாயிரம் யென்.",
+        "en": "The room charge at this hotel is 10,000 yen a night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0183",
+    "expression": "城",
+    "reading": "しろ",
+    "romaji": "shiro",
+    "en": "castle",
+    "ta": "கோட்டை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "丘の上に古い城が見えます。",
+        "reading": "おかの うえに ふるい しろが みえます。",
+        "romaji": "oka no ue ni furui shiro ga miemasu.",
+        "ta": "குன்றின் மேல் ஒரு பழைய கோட்டை தெரிகிறது.",
+        "en": "You can see an old castle on the hill."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0378",
+    "expression": "泉",
+    "reading": "いずみ",
+    "romaji": "izumi",
+    "en": "spring (of water)",
+    "ta": "நீரூற்று",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "森の中に、水がとてもきれいな泉があります。",
+        "reading": "もりの なかに、みずが とても きれいな いずみが あります。",
+        "romaji": "mori no naka ni, mizu ga totemo kirei na izumi ga arimasu.",
+        "ta": "காட்டுக்குள் மிகவும் தெளிவான நீருள்ள ஒரு நீரூற்று இருக்கிறது.",
+        "en": "In the forest there is a spring with very clear water."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0424",
+    "expression": "岩",
+    "reading": "いわ",
+    "romaji": "iwa",
+    "en": "rock",
+    "ta": "பாறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "カンニャークマリでは、海の中の大きな岩まで船で行きました。",
+        "reading": "カンニャークマリでは、うみの なかの おおきな いわまで ふねで いきました。",
+        "romaji": "kannyaakumari de wa, umi no naka no ookina iwa made fune de ikimashita.",
+        "ta": "கன்னியாகுமரியில் கடலுக்குள் இருக்கும் பெரிய பாறை வரை படகில் சென்றோம்.",
+        "en": "In Kanyakumari we went by boat to the big rock in the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0449",
+    "expression": "映す",
+    "reading": "うつす",
+    "romaji": "utsusu",
+    "en": "to reflect, to project",
+    "ta": "பிரதிபலிக்கச் செய்ய, திரையில் காட்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "出かける前に、鏡に自分の姿を映してみました。",
+        "reading": "でかける まえに、かがみに じぶんの すがたを うつして みました。",
+        "romaji": "dekakeru mae ni, kagami ni jibun no sugata o utsushite mimashita.",
+        "ta": "வெளியே போகும் முன், கண்ணாடியில் என் உருவத்தைப் பார்த்துக்கொண்டேன்.",
+        "en": "Before going out, I looked at myself in the mirror."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0451",
+    "expression": "写る",
+    "reading": "うつる",
+    "romaji": "utsuru",
+    "en": "to appear (in a photo)",
+    "ta": "புகைப்படத்தில் விழ, தெரிய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この写真には、後ろに富士山がきれいに写っています。",
+        "reading": "この しゃしんには、うしろに ふじさんが きれいに うつって います。",
+        "romaji": "kono shashin ni wa, ushiro ni fujisan ga kirei ni utsutte imasu.",
+        "ta": "இந்தப் புகைப்படத்தில் பின்னால் ஃபுஜி மலை அழகாகத் தெரிகிறது.",
+        "en": "Mt. Fuji shows up beautifully behind us in this photo."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0499",
+    "expression": "丘",
+    "reading": "おか",
+    "romaji": "oka",
+    "en": "hill",
+    "ta": "குன்று",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "丘の上から町全体がよく見えます。",
+        "reading": "おかの うえから まち ぜんたいが よく みえます。",
+        "romaji": "oka no ue kara machi zentai ga yoku miemasu.",
+        "ta": "குன்றின் மேலிருந்து ஊர் முழுவதும் நன்றாகத் தெரிகிறது.",
+        "en": "From the top of the hill you can see the whole town."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0500",
+    "expression": "沖",
+    "reading": "おき",
+    "romaji": "oki",
+    "en": "open sea, offshore",
+    "ta": "நடுக்கடல் (கரையிலிருந்து தொலைவான கடல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "沖のほうに大きな船が見えます。",
+        "reading": "おきの ほうに おおきな ふねが みえます。",
+        "romaji": "oki no hou ni ookina fune ga miemasu.",
+        "ta": "கடலில் தொலைவில் ஒரு பெரிய கப்பல் தெரிகிறது.",
+        "en": "You can see a big ship out at sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0553",
+    "expression": "海外",
+    "reading": "かいがい",
+    "romaji": "kaigai",
+    "en": "overseas, abroad",
+    "ta": "வெளிநாடு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "初めての海外旅行で、シンガポールに行きました。",
+        "reading": "はじめての かいがい りょこうで、シンガポールに いきました。",
+        "romaji": "hajimete no kaigai ryokou de, shingapooru ni ikimashita.",
+        "ta": "என் முதல் வெளிநாட்டுப் பயணத்தில் சிங்கப்பூருக்குச் சென்றேன்.",
+        "en": "On my first trip abroad, I went to Singapore."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0654",
+    "expression": "河",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "en": "river (large)",
+    "ta": "ஆறு, பெரிய நதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この河は昔、船で物を運ぶのに使われていました。",
+        "reading": "この かわは むかし、ふねで ものを はこぶのに つかわれて いました。",
+        "romaji": "kono kawa wa mukashi, fune de mono o hakobu no ni tsukawarete imashita.",
+        "ta": "முன்பு இந்த நதி படகுகளில் பொருட்களைக் கொண்டுசெல்லப் பயன்பட்டது.",
+        "en": "Long ago this river was used to carry goods by boat."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0670",
+    "expression": "観光",
+    "reading": "かんこう",
+    "romaji": "kankou",
+    "en": "sightseeing",
+    "ta": "சுற்றுலா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "京都には、観光に来る人がとても多いです。",
+        "reading": "きょうとには、かんこうに くる ひとが とても おおいです。",
+        "romaji": "kyouto ni wa, kankou ni kuru hito ga totemo ooi desu.",
+        "ta": "கியோட்டோவுக்குச் சுற்றுலா வருபவர்கள் மிக அதிகம்.",
+        "en": "Very many people come to Kyoto for sightseeing."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0703",
+    "expression": "岸",
+    "reading": "きし",
+    "romaji": "kishi",
+    "en": "shore, bank",
+    "ta": "கரை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "ボートを岸に止めて、少し休みました。",
+        "reading": "ボートを きしに とめて、すこし やすみました。",
+        "romaji": "booto o kishi ni tomete, sukoshi yasumimashita.",
+        "ta": "படகைக் கரையில் நிறுத்திவிட்டுச் சிறிது ஓய்வெடுத்தோம்.",
+        "en": "We stopped the boat at the shore and rested a little."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0736",
+    "expression": "休暇",
+    "reading": "きゅうか",
+    "romaji": "kyuuka",
+    "en": "vacation, leave",
+    "ta": "விடுமுறை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏の休暇に、家族で北海道へ行きます。",
+        "reading": "なつの きゅうかに、かぞくで ほっかいどうへ いきます。",
+        "romaji": "natsu no kyuuka ni, kazoku de hokkaidou e ikimasu.",
+        "ta": "கோடை விடுமுறையில் குடும்பத்துடன் ஹொக்கைடோ செல்கிறோம்.",
+        "en": "For our summer vacation, my family is going to Hokkaido."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0886",
+    "expression": "光景",
+    "reading": "こうけい",
+    "romaji": "koukei",
+    "en": "sight, scene",
+    "ta": "காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "山の上から見た朝日の光景は忘れられません。",
+        "reading": "やまの うえから みた あさひの こうけいは わすれられません。",
+        "romaji": "yama no ue kara mita asahi no koukei wa wasureraremasen.",
+        "ta": "மலை உச்சியிலிருந்து பார்த்த சூரிய உதயக் காட்சியை மறக்க முடியாது.",
+        "en": "I can’t forget the sight of the sunrise from the mountain top."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0998",
+    "expression": "砂漠",
+    "reading": "さばく",
+    "romaji": "sabaku",
+    "en": "desert",
+    "ta": "பாலைவனம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "インドのラジャスタンには、大きな砂漠があります。",
+        "reading": "インドの ラジャスタンには、おおきな さばくが あります。",
+        "romaji": "indo no rajasutan ni wa, ookina sabaku ga arimasu.",
+        "ta": "இந்தியாவின் ராஜஸ்தானில் ஒரு பெரிய பாலைவனம் இருக்கிறது.",
+        "en": "There is a large desert in Rajasthan, India."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1003",
+    "expression": "迷う",
+    "reading": "まよう",
+    "romaji": "mayou",
+    "en": "to get lost; to be unsure",
+    "ta": "வழி தவற; தயங்க, குழம்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "地図を持っていたのに、道に迷ってしまいました。",
+        "reading": "ちずを もって いたのに、みちに まよって しまいました。",
+        "romaji": "chizu o motte ita noni, michi ni mayotte shimaimashita.",
+        "ta": "வரைபடம் கையில் இருந்தும் வழி தவறிவிட்டேன்.",
+        "en": "Even though I had a map, I got lost."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1011",
+    "expression": "見送り",
+    "reading": "みおくり",
+    "romaji": "miokuri",
+    "en": "seeing someone off",
+    "ta": "வழியனுப்புதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "国へ帰る友達の見送りに、空港まで行きました。",
+        "reading": "くにへ かえる ともだちの みおくりに、くうこうまで いきました。",
+        "romaji": "kuni e kaeru tomodachi no miokuri ni, kuukou made ikimashita.",
+        "ta": "சொந்த நாட்டுக்குத் திரும்பும் நண்பரை வழியனுப்ப விமான நிலையம் வரை சென்றேன்.",
+        "en": "I went to the airport to see off a friend going home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1019",
+    "expression": "土産",
+    "reading": "みやげ",
+    "romaji": "miyage",
+    "en": "souvenir",
+    "ta": "நினைவுப் பரிசு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行のお土産に、地元のお菓子を買いました。",
+        "reading": "りょこうの おみやげに、じもとの おかしを かいました。",
+        "romaji": "ryokou no omiyage ni, jimoto no okashi o kaimashita.",
+        "ta": "பயண நினைவுப் பரிசாக அந்த ஊர் இனிப்புகளை வாங்கினேன்.",
+        "en": "As a travel souvenir, I bought some local sweets."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1029",
+    "expression": "迎え",
+    "reading": "むかえ",
+    "romaji": "mukae",
+    "en": "meeting, pick-up",
+    "ta": "அழைத்துச் செல்ல வருதல், வரவேற்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夜遅く着いたので、駅まで父が迎えに来てくれました。",
+        "reading": "よる おそく ついたので、えきまで ちちが むかえに きて くれました。",
+        "romaji": "yoru osoku tsuita node, eki made chichi ga mukae ni kite kuremashita.",
+        "ta": "இரவு தாமதமாக வந்ததால், அப்பா நிலையத்துக்கு வந்து என்னை அழைத்துச் சென்றார்.",
+        "en": "I arrived late at night, so my father came to pick me up at the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1096",
+    "expression": "宿",
+    "reading": "やど",
+    "romaji": "yado",
+    "en": "inn, place to stay",
+    "ta": "தங்கும் விடுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今夜の宿は、まだ決めていません。",
+        "reading": "こんやの やどは、まだ きめて いません。",
+        "romaji": "kon'ya no yado wa, mada kimete imasen.",
+        "ta": "இன்றிரவு எங்கே தங்குவது என்று இன்னும் முடிவு செய்யவில்லை.",
+        "en": "I haven’t decided where to stay tonight yet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1134",
+    "expression": "ヨーロッパ",
+    "reading": "ヨーロッパ",
+    "romaji": "yooroppa",
+    "en": "Europe",
+    "ta": "ஐரோப்பா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "いつかヨーロッパの古い町を歩いてみたいです。",
+        "reading": "いつか ヨーロッパの ふるい まちを あるいて みたいです。",
+        "romaji": "itsuka yooroppa no furui machi o aruite mitai desu.",
+        "ta": "என்றாவது ஒருநாள் ஐரோப்பாவின் பழைய நகரங்களில் நடந்து பார்க்க ஆசை.",
+        "en": "Someday I want to walk around the old towns of Europe."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1162",
+    "expression": "陸",
+    "reading": "りく",
+    "romaji": "riku",
+    "en": "land (not sea)",
+    "ta": "நிலம், தரை (கடலுக்கு எதிர்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "長い航海のあと、やっと陸が見えてきました。",
+        "reading": "ながい こうかいの あと、やっと りくが みえて きました。",
+        "romaji": "nagai koukai no ato, yatto riku ga miete kimashita.",
+        "ta": "நீண்ட கடல் பயணத்துக்குப் பிறகு, ஒருவழியாக நிலம் தெரியத் தொடங்கியது.",
+        "en": "After a long voyage, land finally came into view."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1205",
+    "expression": "湾",
+    "reading": "わん",
+    "romaji": "wan",
+    "en": "bay",
+    "ta": "வளைகுடா",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "船の上から見る東京湾の夜景はとてもきれいです。",
+        "reading": "ふねの うえから みる とうきょうわんの やけいは とても きれいです。",
+        "romaji": "fune no ue kara miru toukyouwan no yakei wa totemo kirei desu.",
+        "ta": "கப்பலிலிருந்து பார்க்கும் டோக்கியோ வளைகுடாவின் இரவுக் காட்சி மிக அழகு.",
+        "en": "The night view of Tokyo Bay from a boat is very beautiful."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1248",
+    "expression": "～観",
+    "reading": "かん",
+    "romaji": "kan",
+    "en": "view, outlook (suffix)",
+    "ta": "கண்ணோட்டம், நோக்கு (பின்னொட்டு)",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "海外で暮らして、人生観が大きく変わりました。",
+        "reading": "かいがいで くらして、じんせいかんが おおきく かわりました。",
+        "romaji": "kaigai de kurashite, jinseikan ga ookiku kawarimashita.",
+        "ta": "வெளிநாட்டில் வாழ்ந்ததால், வாழ்க்கை பற்றிய என் கண்ணோட்டம் பெரிதும் மாறியது.",
+        "en": "Living abroad greatly changed my outlook on life."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1260",
+    "expression": "丘陵",
+    "reading": "きゅうりょう",
+    "romaji": "kyuuryou",
+    "en": "hills, hilly area",
+    "ta": "குன்றுப் பகுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この町の西には、低い丘陵が続いています。",
+        "reading": "この まちの にしには、ひくい きゅうりょうが つづいて います。",
+        "romaji": "kono machi no nishi ni wa, hikui kyuuryou ga tsuzuite imasu.",
+        "ta": "இந்த ஊரின் மேற்கே தாழ்வான குன்றுகள் தொடர்ந்து இருக்கின்றன.",
+        "en": "West of this town, a line of low hills continues."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1281",
+    "expression": "航海",
+    "reading": "こうかい",
+    "romaji": "koukai",
+    "en": "voyage, sailing",
+    "ta": "கடல் பயணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "昔の人は、星を見ながら航海しました。",
+        "reading": "むかしの ひとは、ほしを みながら こうかい しました。",
+        "romaji": "mukashi no hito wa, hoshi o minagara koukai shimashita.",
+        "ta": "பழங்காலத்து மக்கள் நட்சத்திரங்களைப் பார்த்துக்கொண்டே கடலில் பயணம் செய்தார்கள்.",
+        "en": "Long ago, people sailed by looking at the stars."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1363",
+    "expression": "滞在",
+    "reading": "たいざい",
+    "romaji": "taizai",
+    "en": "stay (for a while)",
+    "ta": "தங்குதல் (சில காலம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "東京には一週間滞在する予定です。",
+        "reading": "とうきょうには いっしゅうかん たいざい する よていです。",
+        "romaji": "toukyou ni wa isshuukan taizai suru yotei desu.",
+        "ta": "டோக்கியோவில் ஒரு வாரம் தங்கத் திட்டமிட்டிருக்கிறேன்.",
+        "en": "I plan to stay in Tokyo for one week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1384",
+    "expression": "大陸",
+    "reading": "たいりく",
+    "romaji": "tairiku",
+    "en": "continent",
+    "ta": "கண்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "オーストラリアは国でもあり、大陸でもあります。",
+        "reading": "オーストラリアは くにでも あり、たいりくでも あります。",
+        "romaji": "oosutoraria wa kuni de mo ari, tairiku de mo arimasu.",
+        "ta": "ஆஸ்திரேலியா ஒரு நாடும் கூட, ஒரு கண்டமும் கூட.",
+        "en": "Australia is both a country and a continent."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1418",
+    "expression": "谷",
+    "reading": "たに",
+    "romaji": "tani",
+    "en": "valley",
+    "ta": "பள்ளத்தாக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "谷の下を、細い川が流れています。",
+        "reading": "たにの したを、ほそい かわが ながれて います。",
+        "romaji": "tani no shita o, hosoi kawa ga nagarete imasu.",
+        "ta": "பள்ளத்தாக்கின் அடியில் ஒரு சிறிய ஆறு ஓடுகிறது.",
+        "en": "A narrow river flows at the bottom of the valley."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1424",
+    "expression": "旅",
+    "reading": "たび",
+    "romaji": "tabi",
+    "en": "journey, trip",
+    "ta": "பயணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "休みの日に、一人で旅に出るのが好きです。",
+        "reading": "やすみの ひに、ひとりで たびに でるのが すきです。",
+        "romaji": "yasumi no hi ni, hitori de tabi ni deru no ga suki desu.",
+        "ta": "விடுமுறை நாட்களில் தனியாகப் பயணம் கிளம்புவது எனக்குப் பிடிக்கும்.",
+        "en": "On my days off, I like to go on trips alone."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1526",
+    "expression": "翼",
+    "reading": "つばさ",
+    "romaji": "tsubasa",
+    "en": "wing (of a plane or bird)",
+    "ta": "இறக்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "飛行機の窓から、大きな翼が見えました。",
+        "reading": "ひこうきの まどから、おおきな つばさが みえました。",
+        "romaji": "hikouki no mado kara, ookina tsubasa ga miemashita.",
+        "ta": "விமான ஜன்னல் வழியாகப் பெரிய இறக்கை தெரிந்தது.",
+        "en": "I could see the big wing from the plane window."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1573",
+    "expression": "塔",
+    "reading": "とう",
+    "romaji": "tou",
+    "en": "tower, pagoda",
+    "ta": "கோபுரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "タンジャーヴールのお寺には、とても高い塔があります。",
+        "reading": "タンジャーヴールの おてらには、とても たかい とうが あります。",
+        "romaji": "tanjaavuuru no otera ni wa, totemo takai tou ga arimasu.",
+        "ta": "தஞ்சாவூர் கோவிலில் மிக உயரமான கோபுரம் இருக்கிறது.",
+        "en": "The temple in Thanjavur has a very tall tower."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1598",
+    "expression": "読書",
+    "reading": "どくしょ",
+    "romaji": "dokusho",
+    "en": "reading (books)",
+    "ta": "புத்தக வாசிப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の中では、いつも読書をしています。",
+        "reading": "でんしゃの なかでは、いつも どくしょを して います。",
+        "romaji": "densha no naka de wa, itsumo dokusho o shite imasu.",
+        "ta": "ரயிலில் எப்போதும் புத்தகம் படித்துக்கொண்டிருப்பேன்.",
+        "en": "On the train, I always read books."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1609",
+    "expression": "登山",
+    "reading": "とざん",
+    "romaji": "tozan",
+    "en": "mountain climbing",
+    "ta": "மலையேற்றம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "夏休みに、友達と富士山に登山しました。",
+        "reading": "なつやすみに、ともだちと ふじさんに とざん しました。",
+        "romaji": "natsuyasumi ni, tomodachi to fujisan ni tozan shimashita.",
+        "ta": "கோடை விடுமுறையில் நண்பர்களுடன் ஃபுஜி மலை ஏறினேன்.",
+        "en": "In the summer holidays, I climbed Mt. Fuji with friends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1624",
+    "expression": "泊める",
+    "reading": "とめる",
+    "romaji": "tomeru",
+    "en": "to let someone stay overnight",
+    "ta": "(ஒருவரை) இரவு தங்க வைக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "旅行中の友達を、一晩家に泊めました。",
+        "reading": "りょこうちゅうの ともだちを、ひとばん いえに とめました。",
+        "romaji": "ryokouchuu no tomodachi o, hitoban ie ni tomemashita.",
+        "ta": "பயணத்தில் இருந்த நண்பரை ஓர் இரவு என் வீட்டில் தங்க வைத்தேன்.",
+        "en": "I let a traveling friend stay at my house for a night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1651",
+    "expression": "眺め",
+    "reading": "ながめ",
+    "romaji": "nagame",
+    "en": "view",
+    "ta": "காட்சி, தோற்றம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このホテルの部屋は、海の眺めがとてもいいです。",
+        "reading": "この ホテルの へやは、うみの ながめが とても いいです。",
+        "romaji": "kono hoteru no heya wa, umi no nagame ga totemo ii desu.",
+        "ta": "இந்த ஹோட்டல் அறையிலிருந்து கடலின் காட்சி மிக அருமை.",
+        "en": "The rooms at this hotel have a great view of the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1652",
+    "expression": "眺める",
+    "reading": "ながめる",
+    "romaji": "nagameru",
+    "en": "to gaze at, to look out at",
+    "ta": "பார்த்து ரசிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "マリーナビーチに座って、夕日を眺めました。",
+        "reading": "マリーナビーチに すわって、ゆうひを ながめました。",
+        "romaji": "mariina biichi ni suwatte, yuuhi o nagamemashita.",
+        "ta": "மெரினா கடற்கரையில் உட்கார்ந்து மாலைச் சூரியனைப் பார்த்து ரசித்தேன்.",
+        "en": "I sat on Marina Beach and gazed at the evening sun."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1653",
+    "expression": "流れ",
+    "reading": "ながれ",
+    "romaji": "nagare",
+    "en": "flow, current",
+    "ta": "ஓட்டம், நீரோட்டம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この川は流れが速いので、泳がないでください。",
+        "reading": "この かわは ながれが はやいので、およがないで ください。",
+        "romaji": "kono kawa wa nagare ga hayai node, oyoganaide kudasai.",
+        "ta": "இந்த ஆற்றில் நீரோட்டம் வேகமாக இருப்பதால் நீந்தாதீர்கள்.",
+        "en": "The current in this river is fast, so please don’t swim."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1666",
+    "expression": "波",
+    "reading": "なみ",
+    "romaji": "nami",
+    "en": "wave",
+    "ta": "அலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は波が高いので、海に入ってはいけません。",
+        "reading": "きょうは なみが たかいので、うみに はいっては いけません。",
+        "romaji": "kyou wa nami ga takai node, umi ni haitte wa ikemasen.",
+        "ta": "இன்று அலைகள் உயரமாக இருப்பதால் கடலில் இறங்கக் கூடாது.",
+        "en": "The waves are high today, so you must not go into the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1758",
+    "expression": "博物館",
+    "reading": "はくぶつかん",
+    "romaji": "hakubutsukan",
+    "en": "museum",
+    "ta": "அருங்காட்சியகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "チェンナイの博物館で、昔の道具をたくさん見ました。",
+        "reading": "チェンナイの はくぶつかんで、むかしの どうぐを たくさん みました。",
+        "romaji": "chennai no hakubutsukan de, mukashi no dougu o takusan mimashita.",
+        "ta": "சென்னை அருங்காட்சியகத்தில் பழங்காலக் கருவிகள் பலவற்றைப் பார்த்தேன்.",
+        "en": "At the museum in Chennai, I saw many old tools."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1766",
+    "expression": "パスポート",
+    "reading": "パスポート",
+    "romaji": "pasupooto",
+    "en": "passport",
+    "ta": "கடவுச்சீட்டு (பாஸ்போர்ட்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "空港に行く前に、パスポートがあるか確認してください。",
+        "reading": "くうこうに いく まえに、パスポートが あるか かくにん して ください。",
+        "romaji": "kuukou ni iku mae ni, pasupooto ga aru ka kakunin shite kudasai.",
+        "ta": "விமான நிலையம் போகும் முன், பாஸ்போர்ட் இருக்கிறதா என்று சரிபார்த்துக்கொள்ளுங்கள்.",
+        "en": "Before going to the airport, check that you have your passport."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1857",
+    "expression": "分",
+    "reading": "ぶ",
+    "romaji": "bu",
+    "en": "part; one tenth (in ratios)",
+    "ta": "பங்கு (பத்தில் ஒரு பங்கு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日晴れるかどうかは、五分五分だそうです。",
+        "reading": "あした はれるか どうかは、ごぶごぶだ そうです。",
+        "romaji": "ashita hareru ka dou ka wa, gobugobu da sou desu.",
+        "ta": "நாளை வெயில் அடிக்குமா என்பது பாதிக்குப் பாதி வாய்ப்பு என்கிறார்கள்.",
+        "en": "They say it’s fifty-fifty whether it will be sunny tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1859",
+    "expression": "風景",
+    "reading": "ふうけい",
+    "romaji": "fuukei",
+    "en": "scenery, landscape",
+    "ta": "இயற்கைக் காட்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "電車の窓から見る田舎の風景が好きです。",
+        "reading": "でんしゃの まどから みる いなかの ふうけいが すきです。",
+        "romaji": "densha no mado kara miru inaka no fuukei ga suki desu.",
+        "ta": "ரயில் ஜன்னல் வழியாகத் தெரியும் கிராமக் காட்சிகள் எனக்குப் பிடிக்கும்.",
+        "en": "I like the countryside scenery from the train window."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1882",
+    "expression": "再び",
+    "reading": "ふたたび",
+    "romaji": "futatabi",
+    "en": "again, once more",
+    "ta": "மீண்டும்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "十年後、再びこの町を訪れました。",
+        "reading": "じゅうねんご、ふたたび この まちを おとずれました。",
+        "romaji": "juunengo, futatabi kono machi o otozuremashita.",
+        "ta": "பத்து ஆண்டுகள் கழித்து மீண்டும் இந்த ஊருக்கு வந்தேன்.",
+        "en": "Ten years later, I visited this town again."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1889",
+    "expression": "ぶつける",
+    "reading": "ぶつける",
+    "romaji": "butsukeru",
+    "en": "to bump, to hit",
+    "ta": "மோத, இடித்துக்கொள்ள",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "バスを降りるとき、ドアに頭をぶつけてしまいました。",
+        "reading": "バスを おりる とき、ドアに あたまを ぶつけて しまいました。",
+        "romaji": "basu o oriru toki, doa ni atama o butsukete shimaimashita.",
+        "ta": "பஸ்ஸிலிருந்து இறங்கும்போது கதவில் தலையை இடித்துக்கொண்டேன்.",
+        "en": "I hit my head on the door when getting off the bus."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2132",
+    "expression": "世",
+    "reading": "よ",
+    "romaji": "yo",
+    "en": "world, society",
+    "ta": "உலகம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この世で一番きれいな景色だと思いました。",
+        "reading": "この よで いちばん きれいな けしきだと おもいました。",
+        "romaji": "kono yo de ichiban kirei na keshiki da to omoimashita.",
+        "ta": "இதுதான் இந்த உலகிலேயே மிக அழகான காட்சி என்று நினைத்தேன்.",
+        "en": "I thought it was the most beautiful view in the world."
+      }
+    ]
+  }
+]

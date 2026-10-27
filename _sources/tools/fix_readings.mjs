@@ -2,7 +2,8 @@
 // the skeleton, the lesson inputs and the written vocab files.
 //  - entries with kanji in the reading field / missing reading / misspelled expression (FIX table)
 //  - する-nouns whose reading carries する but whose expression does not (せいさんする → せいさん)
-// Usage: node fix_readings.mjs <level>
+//  - romaji quirks (fyi → fi, konnichiha → konnichiwa)
+// Usage: node fix_readings.mjs <level>   (n5 | n4 | n3)
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -24,9 +25,16 @@ const FIX = {
     "n4-v-506": ["下がる", "さがる"],
   },
   n3: {},
+  n5: {},
 }[level];
-if (!FIX) throw new Error("usage: fix_readings.mjs n4|n3");
+if (!FIX) throw new Error("usage: fix_readings.mjs n5|n4|n3");
 const MISSPELT = { 楽む: "楽しむ", 落る: "落ちる" };
+// Romaji quirks of the converter: フィ → "fyi", greeting は → "ha".
+const fixRomaji = (r) =>
+  r
+    .replace(/fy([iea])/g, "f$1")
+    .replace(/\bkonnichiha\b/g, "konnichiwa")
+    .replace(/\bkonbanha\b/g, "konbanwa");
 
 function apply(w) {
   let changed = false;
@@ -44,13 +52,18 @@ function apply(w) {
     changed = true;
   }
   if (changed) w.romaji = toRomaji(w.reading.replace(/\s/g, ""));
+  const r = fixRomaji(w.romaji);
+  if (r !== w.romaji) {
+    w.romaji = r;
+    changed = true;
+  }
   return changed;
 }
 
 const files = [path.join(root, "content", level, "vocab-skeleton.json")];
-for (const d of [`_sources/lesson-inputs/${level}`, `content/${level}/vocab`]) {
+for (const d of [level === "n5" ? "_sources/lesson-inputs" : `_sources/lesson-inputs/${level}`, `content/${level}/vocab`]) {
   const dir = path.join(root, d);
-  if (fs.existsSync(dir)) for (const f of fs.readdirSync(dir)) files.push(path.join(dir, f));
+  if (fs.existsSync(dir)) for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".json"))) files.push(path.join(dir, f));
 }
 let nFiles = 0;
 let nWords = 0;

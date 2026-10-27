@@ -1,0 +1,790 @@
+{
+ "lesson": 40,
+ "title": {
+  "ja": "つまり、要するに",
+  "ta": "வேறு வார்த்தைகளில் சொன்னால்",
+  "en": "In other words"
+ },
+ "intro_en": "This lesson is about writing your opinion in an essay. Good essays use small linking words. They show how one sentence connects to the next. You learn すると (\"then, and what happened was\") and そこで (\"so we did …\"). You learn そのうえ / しかも / さらに (\"on top of that\"). You learn つまり / 要するに / すなわち (\"in other words, in short\"). You learn ただし (\"but, except\") and なお (\"please note\"). Last, you learn なぜなら 〜からだ (\"the reason is …\"). The topics are the environment, energy and the future.",
+ "intro_ta": "இந்தப் பாடம் கட்டுரையில் உங்கள் கருத்தை எழுதுவது பற்றியது. நல்ல கட்டுரையில் ஒரு வாக்கியம் அடுத்ததுடன் எப்படித் தொடர்புடையது என்பதைக் காட்டும் இணைப்புச் சொற்கள் இருக்கும். すると ('அப்போது… நடந்தது'), そこで ('அதனால்… செய்தோம்'), そのうえ / しかも / さらに ('அதோடு'), つまり / 要するに / すなわち ('அதாவது, சுருக்கமாக'), ただし ('ஆனால், விதிவிலக்காக'), なお ('குறிப்பு') ஆகியவற்றைக் கற்போம். இறுதியாக, காரணத்தைத் தனி வாக்கியமாகச் சொல்லும் なぜなら 〜からだ ('ஏனென்றால்') வடிவத்தையும் கற்போம். சுற்றுச்சூழல், ஆற்றல், எதிர்காலம் ஆகியவை பாடத்தின் கருப்பொருள்கள்.",
+ "grammar": [
+  {
+   "id": "g40-1",
+   "pattern": "すると / そこで",
+   "name": {
+    "en": "Then (what happened) / so (what we did)",
+    "ta": "அப்போது (நடந்தது) / அதனால் (செய்தது)"
+   },
+   "explanation_en": "Both words start a new sentence after a first event. すると means \"then, and right after that …\". What follows is a result or a discovery. It is not your plan: ボタンを押した。すると、ドアが開いた. In talk, すると can also mean \"if so, then …\". そこで means \"so, because of that situation, we did …\". What follows is a choice someone makes: 道が分からなかった。そこで、駅員に聞いた. So: すると + what happened; そこで + what someone decided to do. Don’t put a request or plan after すると.",
+   "explanation_ta": "இரண்டும் முதல் நிகழ்வுக்குப் பின் புதிய வாக்கியத்தைத் தொடங்கும். すると = 'அப்படிச் செய்தவுடன்… நடந்தது'. அதன் பின் வருவது ஒரு விளைவு அல்லது கண்டுபிடிப்பு; நம் விருப்பப்படி செய்த செயல் அல்ல (ボタンを押した。すると、ドアが開いた). பேச்சில் 'அப்படியானால்' என்ற பொருளிலும் すると வரும். そこで = 'அந்த நிலைமையால், அதனால்… செய்தோம்'. அதன் பின் யாரோ எடுத்த முடிவு / செயல் வரும் (道が分からなかった。そこで、駅員に聞いた). சுருக்கமாக: すると + நடந்தது; そこで + செய்ய முடிவு செய்தது. すると-க்குப் பின் வேண்டுகோள், திட்டம் வராது. தமிழில் 'அப்போது' / 'எனவே' என்பவற்றைப் போல.",
+   "tamil_parallel": "பொத்தானை அழுத்தினேன். அப்போது கதவு திறந்தது = ボタンを押した。すると、ドアが開いた / வழி தெரியவில்லை. எனவே கேட்டேன் = 道が分からなかった。そこで、聞いた",
+   "tamil_parallel_en": "பொத்தானை அழுத்தினேன். அப்போது கதவு திறந்தது (I pressed the button. Then the door opened) = ボタンを押した。すると、ドアが開いた / வழி தெரியவில்லை. எனவே கேட்டேன் (I didn’t know the way, so I asked) = 道が分からなかった。そこで、聞いた",
+   "formation": "நிகழ்வு。すると、விளைவு / கண்டுபிடிப்பு。\nநிலைமை / பிரச்சினை。そこで、எடுத்த செயல்。",
+   "formation_en": "event。すると、result / discovery。\nsituation / problem。そこで、action someone took。",
+   "examples": [
+    {
+     "ja": "ボタンを押した。すると、ドアがゆっくり開いた。",
+     "reading": "ボタンを おした。すると、ドアが ゆっくり あいた。",
+     "romaji": "botan o oshita. suruto, doa ga yukkuri aita.",
+     "ta": "பொத்தானை அழுத்தினேன். அப்போது கதவு மெதுவாகத் திறந்தது.",
+     "en": "I pressed the button. Then the door slowly opened."
+    },
+    {
+     "ja": "窓を開けた。すると、冷たい風が入ってきた。",
+     "reading": "まどを あけた。すると、つめたい かぜが はいって きた。",
+     "romaji": "mado o aketa. suruto, tsumetai kaze ga haitte kita.",
+     "ta": "ஜன்னலைத் திறந்தேன். அப்போது குளிர்ந்த காற்று உள்ளே வந்தது.",
+     "en": "I opened the window. Then a cold wind came in."
+    },
+    {
+     "ja": "「明日は雨だそうです。」「すると、試合は中止ですか。」",
+     "reading": "「あしたは あめだ そうです。」「すると、しあいは ちゅうしですか。」",
+     "romaji": "\"ashita wa ame da sou desu.\" \"suruto, shiai wa chuushi desu ka.\"",
+     "ta": "\"நாளை மழையாம்.\" \"அப்படியானால் போட்டி ரத்தா?\"",
+     "en": "\"I hear it will rain tomorrow.\" \"Then is the match cancelled?\""
+    },
+    {
+     "ja": "町のごみが増えてきた。そこで、市はごみを分ける新しいルールを作った。",
+     "reading": "まちの ごみが ふえて きた。そこで、しは ごみを わける あたらしい ルールを つくった。",
+     "romaji": "machi no gomi ga fuete kita. sokode, shi wa gomi o wakeru atarashii ruuru o tsukutta.",
+     "ta": "நகரில் குப்பை அதிகரித்தது. எனவே நகராட்சி குப்பையைப் பிரிக்கும் புதிய விதியைக் கொண்டுவந்தது.",
+     "en": "Waste in the town increased. So the city made a new rule for sorting it."
+    },
+    {
+     "ja": "日本語の会話がなかなか上手にならなかった。そこで、毎日日本人の友達と話すことにした。",
+     "reading": "にほんごの かいわが なかなか じょうずに ならなかった。そこで、まいにち にほんじんの ともだちと はなす ことに した。",
+     "romaji": "nihongo no kaiwa ga nakanaka jouzu ni naranakatta. sokode, mainichi nihonjin no tomodachi to hanasu koto ni shita.",
+     "ta": "ஜப்பானிய உரையாடல் சீக்கிரம் மேம்படவில்லை. எனவே தினமும் ஜப்பானிய நண்பருடன் பேச முடிவு செய்தேன்.",
+     "en": "My Japanese conversation wasn’t improving. So I decided to talk with a Japanese friend every day."
+    },
+    {
+     "ja": "電気代が高くなった。そこで、家族みんなでエネルギーを節約することにした。",
+     "reading": "でんきだいが たかく なった。そこで、かぞく みんなで エネルギーを せつやく する ことに した。",
+     "romaji": "denkidai ga takaku natta. sokode, kazoku minna de enerugii o setsuyaku suru koto ni shita.",
+     "ta": "மின்கட்டணம் அதிகமானது. எனவே குடும்பத்தினர் அனைவரும் ஆற்றலைச் சிக்கனமாகப் பயன்படுத்த முடிவு செய்தோம்.",
+     "en": "The electricity bill went up. So our whole family decided to save energy."
+    }
+   ],
+   "pitfalls_en": "Don’t say 雨が降ってきた。すると、傘を買いましょう. A suggestion can’t follow すると. Use そこで for a decision, or just だから for a suggestion.",
+   "pitfalls_ta": "雨が降ってきた。すると、傘を買いましょう என்பது தவறு; すると-க்குப் பின் பரிந்துரை வராது. எடுத்த முடிவுக்கு そこで, பரிந்துரைக்கு だから பயன்படுத்துங்கள்."
+  },
+  {
+   "id": "g40-2",
+   "pattern": "そのうえ / しかも / さらに",
+   "name": {
+    "en": "Moreover, on top of that",
+    "ta": "அதோடு, அதுமட்டுமின்றி"
+   },
+   "explanation_en": "All three add one more point in the same direction. Good + good, or bad + bad. そのうえ means \"on top of that\". しかも means \"and what’s more\"; it often adds a surprising point. しかも can also join inside one sentence: 安くて、しかもおいしい. さらに means \"furthermore, one step more\". It is common in writing and lists. As an adverb, さらに also means \"even more\": 値段がさらに上がる. If the next point goes the other way, use でも or しかし instead.",
+   "explanation_ta": "மூன்றும் ஒரே திசையில் இன்னொரு கருத்தைச் சேர்க்கும் — நல்லது + நல்லது, அல்லது கெட்டது + கெட்டது. そのうえ = 'அதோடு'. しかも = 'அதுமட்டுமின்றி'; பெரும்பாலும் வியப்பான கூடுதல் தகவலைச் சேர்க்கும்; ஒரே வாக்கியத்துக்குள்ளும் வரும் (安くて、しかもおいしい). さらに = 'மேலும், இன்னும் ஒரு படி'; எழுத்திலும் பட்டியலிலும் அதிகம். வினையடையாக 'இன்னும் அதிகமாக' என்றும் பொருள் (値段がさらに上がる). அடுத்த கருத்து எதிர்த் திசையில் இருந்தால் でも / しかし பயன்படுத்த வேண்டும். தமிழில் 'அதோடு', 'போதாக்குறைக்கு', 'மேலும்' போன்றவை.",
+   "tamil_parallel": "அறை விசாலமானது; அதோடு வாடகையும் குறைவு = 部屋が広い。そのうえ、家賃も安い",
+   "tamil_parallel_en": "அறை விசாலமானது; அதோடு வாடகையும் குறைவு (The room is big; on top of that, the rent is low) = 部屋が広い。そのうえ、家賃も安い",
+   "formation": "கருத்து 1。そのうえ / しかも / さらに、கருத்து 2 (அதே திசை)。\nAdj-くて / N-で、しかも 〜 (ஒரே வாக்கியம்)",
+   "formation_en": "point 1。そのうえ / しかも / さらに、point 2 (same direction)。\nAdj-くて / N-で、しかも 〜 (one sentence)",
+   "examples": [
+    {
+     "ja": "この部屋は広くて明るい。そのうえ、家賃も安い。",
+     "reading": "この へやは ひろくて あかるい。その うえ、やちんも やすい。",
+     "romaji": "kono heya wa hirokute akarui. sono ue, yachin mo yasui.",
+     "ta": "இந்த அறை விசாலமும் வெளிச்சமும் கொண்டது. அதோடு வாடகையும் குறைவு.",
+     "en": "This room is big and bright. On top of that, the rent is cheap."
+    },
+    {
+     "ja": "彼は頭がいい。しかも、スポーツも得意だ。",
+     "reading": "かれは あたまが いい。しかも、スポーツも とくいだ。",
+     "romaji": "kare wa atama ga ii. shikamo, supootsu mo tokui da.",
+     "ta": "அவன் புத்திசாலி. அதுமட்டுமின்றி விளையாட்டிலும் திறமைசாலி.",
+     "en": "He is smart. What’s more, he is good at sports too."
+    },
+    {
+     "ja": "道に迷った。しかも、雨まで降ってきた。",
+     "reading": "みちに まよった。しかも、あめまで ふって きた。",
+     "romaji": "michi ni mayotta. shikamo, ame made futte kita.",
+     "ta": "வழி தவறிவிட்டேன். போதாக்குறைக்கு மழையும் பெய்யத் தொடங்கியது.",
+     "en": "I got lost. And on top of that, it started to rain."
+    },
+    {
+     "ja": "石油は値段が高い。さらに、燃やすと大気を汚す。",
+     "reading": "せきゆは ねだんが たかい。さらに、もやすと たいきを よごす。",
+     "romaji": "sekiyu wa nedan ga takai. sarani, moyasu to taiki o yogosu.",
+     "ta": "பெட்ரோலியம் விலை அதிகம். மேலும், எரித்தால் வளிமண்டலத்தை மாசுபடுத்தும்.",
+     "en": "Oil is expensive. Furthermore, burning it pollutes the air."
+    },
+    {
+     "ja": "道が混んでいた。そのうえ、事故で電車も止まっていた。",
+     "reading": "みちが こんで いた。その うえ、じこで でんしゃも とまって いた。",
+     "romaji": "michi ga konde ita. sono ue, jiko de densha mo tomatte ita.",
+     "ta": "சாலையில் நெரிசல். அதோடு விபத்தால் ரயிலும் நின்றுபோயிருந்தது.",
+     "en": "The roads were crowded. On top of that, the trains had stopped because of an accident."
+    },
+    {
+     "ja": "会員になると割引がある。さらに、誕生日にはプレゼントももらえる。",
+     "reading": "かいいんに なると わりびきが ある。さらに、たんじょうびには プレゼントも もらえる。",
+     "romaji": "kaiin ni naru to waribiki ga aru. sarani, tanjoubi ni wa purezento mo moraeru.",
+     "ta": "உறுப்பினரானால் தள்ளுபடி உண்டு. மேலும் பிறந்தநாளில் பரிசும் கிடைக்கும்.",
+     "en": "Members get a discount. Furthermore, they get a present on their birthday."
+    },
+    {
+     "ja": "その店、安くて、しかもおいしいって本当？",
+     "reading": "その みせ、やすくて、しかも おいしいって ほんとう？",
+     "romaji": "sono mise, yasukute, shikamo oishii tte hontou?",
+     "ta": "அந்தக் கடை மலிவாகவும், அதுமட்டுமின்றி சுவையாகவும் இருக்குமாமே, உண்மையா?",
+     "en": "Is it true that shop is cheap and tasty too?"
+    }
+   ],
+   "pitfalls_en": "Don’t use these for opposite points: 部屋は広い。しかも、家賃が高い sounds strange if you mean a good + bad pair. Use でも for \"but\".",
+   "pitfalls_ta": "எதிர் கருத்துகளுக்கு இவை வராது: 'அறை விசாலம்; ஆனால் வாடகை அதிகம்' என்று சொல்ல しかも அல்ல, でも / しかし பயன்படுத்த வேண்டும்."
+  },
+  {
+   "id": "g40-3",
+   "pattern": "つまり / 要するに / すなわち",
+   "name": {
+    "en": "In other words, in short, namely",
+    "ta": "அதாவது, சுருக்கமாகச் சொன்னால்"
+   },
+   "explanation_en": "All three say the same thing again in another way. つまり is the most common. It means \"in other words\" or \"so, that means\". You can use it in talk and writing. 要するに means \"in short\". Use it after a long talk to give the main point. It can sound a little blunt. すなわち means \"namely, that is\". It is formal and mostly written. It joins two things that are exactly equal: 日本の首都、すなわち東京. You can put つまり and すなわち between two nouns.",
+   "explanation_ta": "மூன்றும் சொன்னதையே வேறு விதமாக மீண்டும் சொல்லும். つまり மிகப் பொதுவானது: 'அதாவது / அப்படியென்றால்'; பேச்சிலும் எழுத்திலும் வரும். 要するに = 'சுருக்கமாகச் சொன்னால்'; நீண்ட விளக்கத்துக்குப் பின் முக்கியக் கருத்தைச் சொல்லும்; சற்றுக் கடுமையாக ஒலிக்கக்கூடும். すなわち = 'அதாவது (சரியாகச் சமமானது)'; முறையான எழுத்து நடை (日本の首都、すなわち東京). つまり, すなわち இரண்டு பெயர்ச்சொற்களுக்கு நடுவிலும் வரலாம். தமிழில் 'அதாவது', 'மொத்தத்தில்', 'சுருக்கமாக' போன்றவை.",
+   "tamil_parallel": "அம்மாவின் அக்கா, அதாவது பெரியம்மா = 母の姉、つまりおば",
+   "tamil_parallel_en": "அம்மாவின் அக்கா, அதாவது பெரியம்மா (my mother’s older sister, in other words my aunt) = 母の姉、つまりおば",
+   "formation": "N1、つまり / すなわち N2 (N1 = N2)\nகருத்து。つまり / 要するに、அதே கருத்து வேறு விதமாக / சுருக்கம்。",
+   "formation_en": "N1、つまり / すなわち N2 (N1 = N2)\nstatement。つまり / 要するに、same idea in other words / summary。",
+   "examples": [
+    {
+     "ja": "父の弟、つまり叔父は大阪に住んでいる。",
+     "reading": "ちちの おとうと、つまり おじは おおさかに すんで いる。",
+     "romaji": "chichi no otouto, tsumari oji wa oosaka ni sunde iru.",
+     "ta": "அப்பாவின் தம்பி, அதாவது சித்தப்பா, ஒசாகாவில் வசிக்கிறார்.",
+     "en": "My father’s younger brother, that is, my uncle, lives in Osaka."
+    },
+    {
+     "ja": "彼は毎日遅刻する。つまり、この仕事にやる気がないのだ。",
+     "reading": "かれは まいにち ちこく する。つまり、この しごとに やるきが ないのだ。",
+     "romaji": "kare wa mainichi chikoku suru. tsumari, kono shigoto ni yaruki ga nai no da.",
+     "ta": "அவன் தினமும் தாமதமாக வருகிறான். அதாவது, இந்த வேலையில் அவனுக்கு ஆர்வம் இல்லை.",
+     "en": "He is late every day. In other words, he has no motivation for this job."
+    },
+    {
+     "ja": "いろいろ説明したけど、要するにお金が足りないんだ。",
+     "reading": "いろいろ せつめい したけど、ようするに おかねが たりないんだ。",
+     "romaji": "iroiro setsumei shita kedo, yousuru ni okane ga tarinai n da.",
+     "ta": "நிறைய விளக்கினேன்; சுருக்கமாகச் சொன்னால், பணம் போதவில்லை.",
+     "en": "I explained a lot, but in short, we don’t have enough money."
+    },
+    {
+     "ja": "要するに、明日は来られないということですか。",
+     "reading": "ようするに、あしたは こられないと いう ことですか。",
+     "romaji": "yousuru ni, ashita wa korarenai to iu koto desu ka.",
+     "ta": "சுருக்கமாக, நாளை உங்களால் வர முடியாது என்கிறீர்களா?",
+     "en": "In short, are you saying you can’t come tomorrow?"
+    },
+    {
+     "ja": "地球の表面の約七割、すなわち大部分は海である。",
+     "reading": "ちきゅうの ひょうめんの やく ななわり、すなわち だいぶぶんは うみで ある。",
+     "romaji": "chikyuu no hyoumen no yaku nanawari, sunawachi daibubun wa umi de aru.",
+     "ta": "பூமியின் மேற்பரப்பில் சுமார் எழுபது சதவீதம், அதாவது பெரும்பகுதி, கடல்தான்.",
+     "en": "About 70% of the earth’s surface, that is, most of it, is sea."
+    },
+    {
+     "ja": "資源を大切に使うこと、すなわち環境を守ることが重要である。",
+     "reading": "しげんを たいせつに つかう こと、すなわち かんきょうを まもる ことが じゅうようで ある。",
+     "romaji": "shigen o taisetsu ni tsukau koto, sunawachi kankyou o mamoru koto ga juuyou de aru.",
+     "ta": "வளங்களைக் கவனமாகப் பயன்படுத்துவது, அதாவது சுற்றுச்சூழலைக் காப்பது, முக்கியம்.",
+     "en": "Using resources carefully, that is, protecting the environment, is important."
+    }
+   ],
+   "pitfalls_en": "Don’t use すなわち in casual talk; it sounds like a textbook. Also, 要するに to an older person can sound rude, as if their talk was too long. つまり is the safe choice.",
+   "pitfalls_ta": "நண்பர்களுடன் பேசும்போது すなわち பாடப்புத்தகம் போல ஒலிக்கும். மூத்தவரிடம் 要するに என்றால் 'நீங்கள் ரொம்ப நீளமாகப் பேசினீர்கள்' என்பது போல் மரியாதைக் குறைவாகத் தோன்றலாம். つまり பாதுகாப்பான தேர்வு."
+  },
+  {
+   "id": "g40-4",
+   "pattern": "ただし / なお",
+   "name": {
+    "en": "But (exception) / note that (extra information)",
+    "ta": "ஆனால் (விதிவிலக்கு) / குறிப்பு (கூடுதல் தகவல்)"
+   },
+   "explanation_en": "Both start a sentence that adds something to a rule or notice. ただし means \"but, except\". It adds a condition or an exception to what you just said: 本は借りられます。ただし、辞書はだめです. なお means \"please note, also\". It adds extra information on a new small point: 会議は三時からです。なお、駐車場はありません. Both are formal. You see them in notices, rules, emails and essays. Tip: ただし limits the first sentence; なお does not change it.",
+   "explanation_ta": "இரண்டும் ஒரு விதி அல்லது அறிவிப்புக்குப் பின் கூடுதல் தகவலைச் சேர்க்கும். ただし = 'ஆனால், இதற்கு விதிவிலக்கு'; முதல் வாக்கியத்துக்கு ஒரு நிபந்தனை அல்லது விலக்கைச் சேர்க்கும் (本は借りられます。ただし、辞書はだめです). なお = 'குறிப்பு / மேலும் ஒரு தகவல்'; முதல் வாக்கியத்தை மாற்றாமல் வேறு ஒரு சிறிய விஷயத்தைச் சேர்க்கும் (会議は三時からです。なお、駐車場はありません). இரண்டும் முறையானவை; அறிவிப்புகள், விதிகள், மின்னஞ்சல்கள், கட்டுரைகளில் வரும். நினைவில் கொள்ள: ただし முதல் வாக்கியத்தைக் கட்டுப்படுத்தும்; なお கட்டுப்படுத்தாது. தமிழில் 'ஆனால்…' / 'குறிப்பு:' போன்றவை.",
+   "tamil_parallel": "நுழைவுக் கட்டணம் ஆயிரம் யென். ஆனால் மாணவர்களுக்கு இலவசம் = 入場料は千円です。ただし、学生は無料です",
+   "tamil_parallel_en": "நுழைவுக் கட்டணம் ஆயிரம் யென். ஆனால் மாணவர்களுக்கு இலவசம் (Entry is 1,000 yen, but free for students) = 入場料は千円です。ただし、学生は無料です",
+   "formation": "விதி / அறிவிப்பு。ただし、விதிவிலக்கு / நிபந்தனை。\nவிதி / அறிவிப்பு。なお、கூடுதல் தகவல்。",
+   "formation_en": "rule / notice。ただし、exception / condition。\nrule / notice。なお、extra information。",
+   "examples": [
+    {
+     "ja": "図書館の本は二週間借りられます。ただし、辞書は借りられません。",
+     "reading": "としょかんの ほんは にしゅうかん かりられます。ただし、じしょは かりられません。",
+     "romaji": "toshokan no hon wa nishuukan kariraremasu. tadashi, jisho wa kariraremasen.",
+     "ta": "நூலகப் புத்தகங்களை இரண்டு வாரம் இரவல் வாங்கலாம். ஆனால் அகராதிகளை வாங்க முடியாது.",
+     "en": "You can borrow library books for two weeks. However, you can’t borrow dictionaries."
+    },
+    {
+     "ja": "参加費は千円です。ただし、学生は無料です。",
+     "reading": "さんかひは せんえんです。ただし、がくせいは むりょうです。",
+     "romaji": "sankahi wa sen’en desu. tadashi, gakusei wa muryou desu.",
+     "ta": "பங்கேற்புக் கட்டணம் ஆயிரம் யென். ஆனால் மாணவர்களுக்கு இலவசம்.",
+     "en": "The fee is 1,000 yen. Students, however, are free."
+    },
+    {
+     "ja": "明日は店を休みます。ただし、予約の方は午前中だけ受け取りができます。",
+     "reading": "あしたは みせを やすみます。ただし、よやくの かたは ごぜんちゅう だけ うけとりが できます。",
+     "romaji": "ashita wa mise o yasumimasu. tadashi, yoyaku no kata wa gozenchuu dake uketori ga dekimasu.",
+     "ta": "நாளை கடை விடுமுறை. ஆனால் முன்பதிவு செய்தவர்கள் காலையில் மட்டும் பொருளைப் பெற்றுக்கொள்ளலாம்.",
+     "en": "The shop is closed tomorrow. But people with reservations can pick up in the morning only."
+    },
+    {
+     "ja": "申し込みは今月末までです。なお、詳しいことはホームページをご覧ください。",
+     "reading": "もうしこみは こんげつまつまでです。なお、くわしい ことは ホームページを ごらん ください。",
+     "romaji": "moushikomi wa kongetsumatsu made desu. nao, kuwashii koto wa hoomupeeji o goran kudasai.",
+     "ta": "விண்ணப்பம் இம்மாத இறுதி வரை. குறிப்பு: விவரங்களுக்கு இணையதளத்தைப் பாருங்கள்.",
+     "en": "Applications close at the end of this month. For details, please see the website."
+    },
+    {
+     "ja": "会議は三時に始まります。なお、資料は当日お配りします。",
+     "reading": "かいぎは さんじに はじまります。なお、しりょうは とうじつ おくばり します。",
+     "romaji": "kaigi wa sanji ni hajimarimasu. nao, shiryou wa toujitsu okubari shimasu.",
+     "ta": "கூட்டம் மூன்று மணிக்குத் தொடங்கும். குறிப்பு: ஆவணங்கள் அன்றே வழங்கப்படும்.",
+     "en": "The meeting starts at three. Note that handouts will be given on the day."
+    },
+    {
+     "ja": "この席はどなたでも座れます。ただし、お年寄りや体の不自由な方を優先してください。",
+     "reading": "この せきは どなたでも すわれます。ただし、おとしよりや からだの ふじゆうな かたを ゆうせん して ください。",
+     "romaji": "kono seki wa donata demo suwaremasu. tadashi, otoshiyori ya karada no fujiyuu na kata o yuusen shite kudasai.",
+     "ta": "இந்த இருக்கையில் யார் வேண்டுமானாலும் அமரலாம். ஆனால் முதியவர்களுக்கும் மாற்றுத்திறனாளிகளுக்கும் முன்னுரிமை கொடுங்கள்.",
+     "en": "Anyone may sit in this seat. However, please give priority to elderly and disabled people."
+    }
+   ],
+   "pitfalls_en": "Don’t use ただし for a simple \"but\" in a story: 雨が降った。ただし、出かけた is strange. Use でも / しかし. ただし is for rules and conditions.",
+   "pitfalls_ta": "கதையில் சாதாரண 'ஆனால்'-க்கு ただし வராது: 雨が降った。ただし、出かけた என்பது இயல்பற்றது; でも / しかし பயன்படுத்துங்கள். ただし விதிகள், நிபந்தனைகளுக்கு மட்டுமே."
+  },
+  {
+   "id": "g40-5",
+   "pattern": "なぜなら 〜からだ",
+   "name": {
+    "en": "The reason is that ~",
+    "ta": "ஏனென்றால் ~"
+   },
+   "explanation_en": "First you state your opinion or a fact. Then you start a new sentence with なぜなら to give the reason. End that sentence with からだ (or からです). This order is clear and strong, so it is good for essays and speeches. Compare: 〜から、〜 and 〜ので、〜 put the reason first in one sentence. With なぜなら, the reason comes second, in its own sentence. In casual talk, people usually say 〜から or だって 〜もん instead.",
+   "explanation_ta": "முதலில் உங்கள் கருத்தையோ ஒரு உண்மையையோ சொல்லுங்கள். பிறகு なぜなら என்று புதிய வாக்கியத்தைத் தொடங்கி காரணத்தைச் சொல்லுங்கள்; அந்த வாக்கியம் からだ (அல்லது からです) என்று முடிய வேண்டும். இந்த வரிசை தெளிவானதும் வலுவானதும் என்பதால் கட்டுரைகள், உரைகளுக்கு ஏற்றது. 〜から、〜 / 〜ので、〜 ஒரே வாக்கியத்தில் காரணத்தை முதலில் வைக்கும்; なぜなら காரணத்தைப் பின்னால் தனி வாக்கியமாக வைக்கும். நண்பர்களுடன் பேசும்போது பெரும்பாலும் 〜から அல்லது だって〜もん என்பார்கள். தமிழில் 'ஏனென்றால் …' என்று தொடங்கி '…தான் காரணம்' என்று முடிப்பதைப் போன்றது.",
+   "tamil_parallel": "நான் சைக்கிளில் போகிறேன். ஏனென்றால் அது சுற்றுச்சூழலுக்கு நல்லது = 私は自転車で通う。なぜなら、環境にいいからだ",
+   "tamil_parallel_en": "நான் சைக்கிளில் போகிறேன். ஏனென்றால் அது சுற்றுச்சூழலுக்கு நல்லது (I go by bike. That’s because it is good for the environment) = 私は自転車で通う。なぜなら、環境にいいからだ",
+   "formation": "கருத்து / உண்மை。なぜなら、காரணம் (சாதாரண வடிவம்) + からだ / からです。",
+   "formation_en": "opinion / fact。なぜなら、reason (plain form) + からだ / からです。",
+   "examples": [
+    {
+     "ja": "私は自転車で通勤している。なぜなら、環境にいいからだ。",
+     "reading": "わたしは じてんしゃで つうきん して いる。なぜなら、かんきょうに いいからだ。",
+     "romaji": "watashi wa jitensha de tsuukin shite iru. nazenara, kankyou ni ii kara da.",
+     "ta": "நான் சைக்கிளில் வேலைக்குப் போகிறேன். ஏனென்றால் அது சுற்றுச்சூழலுக்கு நல்லது.",
+     "en": "I cycle to work. That’s because it’s good for the environment."
+    },
+    {
+     "ja": "石油は大切に使うべきだ。なぜなら、いずれなくなるからだ。",
+     "reading": "せきゆは たいせつに つかう べきだ。なぜなら、いずれ なく なるからだ。",
+     "romaji": "sekiyu wa taisetsu ni tsukau beki da. nazenara, izure naku naru kara da.",
+     "ta": "பெட்ரோலியத்தைக் கவனமாகப் பயன்படுத்த வேண்டும். ஏனென்றால் எப்படியும் ஒரு நாள் அது தீர்ந்துவிடும்.",
+     "en": "We should use oil carefully. The reason is that it will run out someday."
+    },
+    {
+     "ja": "彼の主張には反対です。なぜなら、具体的な例が一つもないからです。",
+     "reading": "かれの しゅちょうには はんたいです。なぜなら、ぐたいてきな れいが ひとつも ないからです。",
+     "romaji": "kare no shuchou ni wa hantai desu. nazenara, gutaiteki na rei ga hitotsu mo nai kara desu.",
+     "ta": "அவருடைய வாதத்தை நான் எதிர்க்கிறேன். ஏனென்றால் அதில் ஒரு குறிப்பான உதாரணம்கூட இல்லை.",
+     "en": "I disagree with his claim. That’s because there isn’t a single concrete example."
+    },
+    {
+     "ja": "今年は野菜が高い。なぜなら、夏に雨が少なかったからだ。",
+     "reading": "ことしは やさいが たかい。なぜなら、なつに あめが すくなかったからだ。",
+     "romaji": "kotoshi wa yasai ga takai. nazenara, natsu ni ame ga sukunakatta kara da.",
+     "ta": "இந்த ஆண்டு காய்கறி விலை அதிகம். ஏனென்றால் கோடையில் மழை குறைவாக இருந்தது.",
+     "en": "Vegetables are expensive this year. That’s because there was little rain in summer."
+    },
+    {
+     "ja": "この計画はきっと成功する。なぜなら、町の人がみんな協力しているからだ。",
+     "reading": "この けいかくは きっと せいこう する。なぜなら、まちの ひとが みんな きょうりょく して いるからだ。",
+     "romaji": "kono keikaku wa kitto seikou suru. nazenara, machi no hito ga minna kyouryoku shite iru kara da.",
+     "ta": "இந்தத் திட்டம் நிச்சயம் வெற்றி பெறும். ஏனென்றால் ஊர் மக்கள் அனைவரும் ஒத்துழைக்கிறார்கள்.",
+     "en": "This plan will surely succeed. That’s because everyone in town is helping."
+    },
+    {
+     "ja": "「どうして反対なんですか。」「なぜなら、費用がかかりすぎるからです。」",
+     "reading": "「どうして はんたいなんですか。」「なぜなら、ひようが かかりすぎるからです。」",
+     "romaji": "\"doushite hantai nan desu ka.\" \"nazenara, hiyou ga kakarisugiru kara desu.\"",
+     "ta": "\"ஏன் எதிர்க்கிறீர்கள்?\" \"ஏனென்றால் செலவு மிக அதிகம்.\"",
+     "en": "\"Why are you against it?\" \"Because it costs too much.\""
+    }
+   ],
+   "pitfalls_en": "Don’t forget から at the end: なぜなら、環境にいいだ is wrong. Also don’t put なぜなら first and the opinion after in one sentence; the reason sentence must come second.",
+   "pitfalls_ta": "முடிவில் から மறக்க வேண்டாம்: なぜなら、環境にいいだ தவறு; 環境にいいからだ சரி. மேலும் なぜなら வாக்கியம் கருத்துக்குப் பின்னால்தான் வர வேண்டும்."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0007",
+  "n3-v-0009",
+  "n3-v-0025",
+  "n3-v-0033",
+  "n3-v-0048",
+  "n3-v-0106",
+  "n3-v-0113",
+  "n3-v-0240",
+  "n3-v-0253",
+  "n3-v-0287",
+  "n3-v-0289",
+  "n3-v-0315",
+  "n3-v-0334",
+  "n3-v-0341",
+  "n3-v-0349",
+  "n3-v-0350",
+  "n3-v-0379",
+  "n3-v-0398",
+  "n3-v-0476",
+  "n3-v-0512",
+  "n3-v-0597",
+  "n3-v-0624",
+  "n3-v-0630",
+  "n3-v-0668",
+  "n3-v-0741",
+  "n3-v-0751",
+  "n3-v-0765",
+  "n3-v-0786",
+  "n3-v-0835",
+  "n3-v-0893",
+  "n3-v-0946",
+  "n3-v-0986",
+  "n3-v-1032",
+  "n3-v-1036",
+  "n3-v-1070",
+  "n3-v-1130",
+  "n3-v-1132",
+  "n3-v-1173",
+  "n3-v-1186",
+  "n3-v-1187",
+  "n3-v-1200",
+  "n3-v-1219",
+  "n3-v-1261",
+  "n3-v-1296",
+  "n3-v-1307",
+  "n3-v-1325",
+  "n3-v-1327",
+  "n3-v-1335",
+  "n3-v-1360",
+  "n3-v-1449",
+  "n3-v-1450",
+  "n3-v-1461",
+  "n3-v-1527",
+  "n3-v-1554",
+  "n3-v-1607",
+  "n3-v-1644",
+  "n3-v-1658",
+  "n3-v-2064",
+  "n3-v-2080",
+  "n3-v-2088"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L40-q01",
+    "type": "kanji_reading",
+    "sentence": "工場の 水で 川が ＿汚染＿された。",
+    "target": "汚染",
+    "options": [
+     "おせん",
+     "おぜん",
+     "よごせん",
+     "おうせん"
+    ],
+    "answer": 0,
+    "explanation_ta": "汚染 = おせん (மாசு). 汚 இங்கு 'お' (よごれる-வில் வருவது போல் அல்ல), 染 'せん'. おぜん என்பது தவறான கலங்கல் ஒலி.",
+    "explanation_en": "汚染 is read おせん (pollution). 汚 is お here, not よご. おぜん has a wrong voiced sound."
+   },
+   {
+    "id": "L40-q02",
+    "type": "kanji_reading",
+    "sentence": "＿環境＿を 守る ために、ごみを 減らそう。",
+    "target": "環境",
+    "options": [
+     "かんけい",
+     "かんきょう",
+     "かんきょ",
+     "がんきょう"
+    ],
+    "answer": 1,
+    "explanation_ta": "環境 = かんきょう (சுற்றுச்சூழல்). かんけい (関係 = தொடர்பு) என்பதுடன் குழப்ப வேண்டாம்; かんきょ-வில் நீண்ட 'う' விடுபட்டுள்ளது.",
+    "explanation_en": "環境 is read かんきょう (environment). Don’t mix it up with かんけい (関係, relation). かんきょ is missing the long う."
+   },
+   {
+    "id": "L40-q03",
+    "type": "kanji_reading",
+    "sentence": "日本は 天然＿資源＿が 少ない 国だ。",
+    "target": "資源",
+    "options": [
+     "しけん",
+     "じげん",
+     "しげん",
+     "しげい"
+    ],
+    "answer": 2,
+    "explanation_ta": "資源 = しげん (வளங்கள்). 源 'げん' (கலங்கல் ஒலி). しけん = தேர்வு (試験); じげん = பரிமாணம் — வேறு சொற்கள்.",
+    "explanation_en": "資源 is read しげん (resources). 源 is げん. しけん (試験) means exam; じげん is another word."
+   },
+   {
+    "id": "L40-q04",
+    "type": "orthography",
+    "sentence": "＿ちきゅう＿の 気温が 少しずつ 上がって いる。",
+    "target": "ちきゅう",
+    "options": [
+     "地救",
+     "池球",
+     "知球",
+     "地球"
+    ],
+    "answer": 3,
+    "explanation_ta": "ちきゅう = 地球 (பூமி). 地 = நிலம், 球 = உருண்டை. 救 (காப்பாற்று), 池 (குளம்), 知 (அறி) தவறு.",
+    "explanation_en": "ちきゅう is 地球 (the earth). 地 = ground, 球 = ball. 救 (save), 池 (pond) and 知 (know) are wrong."
+   },
+   {
+    "id": "L40-q05",
+    "type": "orthography",
+    "sentence": "先生の 話の ＿ようてん＿を ノートに まとめた。",
+    "target": "ようてん",
+    "options": [
+     "要点",
+     "用点",
+     "要店",
+     "容点"
+    ],
+    "answer": 0,
+    "explanation_ta": "ようてん = 要点 (முக்கியக் கருத்து). 要 = முக்கியமான (要するに-வில் உள்ளது), 点 = புள்ளி. 用, 容, 店 பொருந்தாது.",
+    "explanation_en": "ようてん is 要点 (main point). 要 = key (as in 要するに), 点 = point. 用, 容 and 店 are wrong."
+   },
+   {
+    "id": "L40-q06",
+    "type": "vocab_context",
+    "sentence": "その 映画は 今、若者の 間で （　　）に なって いる。",
+    "options": [
+     "主張",
+     "話題",
+     "要点",
+     "仮定"
+    ],
+    "answer": 1,
+    "explanation_ta": "'பேசுபொருளாக இருக்கிறது' = 話題になっている. 主張 = வாதம், 要点 = முக்கியக் கருத்து, 仮定 = அனுமானம் — 〜になる உடன் பொருந்தாது.",
+    "explanation_en": "\"It is the talk of …\" = 話題になっている. 主張 = claim, 要点 = main point, 仮定 = assumption. They don’t fit."
+   },
+   {
+    "id": "L40-q07",
+    "type": "vocab_context",
+    "sentence": "説明が 分かりにくいので、具体的な 例を （　　）ください。",
+    "options": [
+     "指して",
+     "向けて",
+     "挙げて",
+     "説いて"
+    ],
+    "answer": 2,
+    "explanation_ta": "உதாரணம் 'காட்டுவது' = 例を挙げる. 指す = சுட்டிக்காட்ட, 向ける = திருப்ப, 説く = போதிக்க — 例 உடன் இயல்பாகச் சேராது.",
+    "explanation_en": "\"Give an example\" = 例を挙げる. 指す = point at, 向ける = turn toward, 説く = preach. They don’t go with 例."
+   },
+   {
+    "id": "L40-q08",
+    "type": "vocab_context",
+    "sentence": "この 鳥は 数が 減り続けて いて、（　　）の おそれが ある。",
+    "options": [
+     "汚染",
+     "絶滅",
+     "協議",
+     "活気"
+    ],
+    "answer": 1,
+    "explanation_ta": "எண்ணிக்கை குறைந்தால் இனம் 'அழிந்துபோகும்' அபாயம் = 絶滅のおそれ. 汚染 = மாசு, 協議 = பேச்சுவார்த்தை, 活気 = கலகலப்பு.",
+    "explanation_en": "If numbers keep falling, there is a risk of extinction = 絶滅のおそれ. 汚染 = pollution, 協議 = talks, 活気 = liveliness."
+   },
+   {
+    "id": "L40-q09",
+    "type": "vocab_context",
+    "sentence": "事故から 一年 たったが、原因は （　　）として 分からない。",
+    "options": [
+     "依然",
+     "一層",
+     "単に",
+     "寧ろ"
+    ],
+    "answer": 0,
+    "explanation_ta": "'இன்னும் (முன்பு போலவே)' = 依然として. 一層 = இன்னும் அதிகமாக, 単に = வெறுமனே, 寧ろ = மாறாக — として உடன் சேராது.",
+    "explanation_en": "\"Still, as before\" = 依然として. 一層 = even more, 単に = simply, 寧ろ = rather. None of them take として."
+   },
+   {
+    "id": "L40-q10",
+    "type": "vocab_context",
+    "sentence": "A案は 安く、B案は 早い。私は （　　）、つまり B案が いいと 思う。",
+    "options": [
+     "前者",
+     "これら",
+     "例",
+     "後者"
+    ],
+    "answer": 3,
+    "explanation_ta": "இரண்டில் இரண்டாவதாகச் சொன்ன B = 後者 (பின்னது). 前者 = முன்னது (A). これら = இவை (பன்மை).",
+    "explanation_en": "B was said second, so it is 後者 (the latter). 前者 = the former (A). これら = these (plural)."
+   },
+   {
+    "id": "L40-q11",
+    "type": "paraphrase",
+    "sentence": "要するに、彼は 来たくないのだ。",
+    "options": [
+     "たぶん、彼は 来たくないのだ。",
+     "それでも、彼は 来たくないのだ。",
+     "簡単に 言うと、彼は 来たくないのだ。",
+     "そのうえ、彼は 来たくないのだ。"
+    ],
+    "answer": 2,
+    "explanation_ta": "要するに = 'சுருக்கமாக / எளிதாகச் சொன்னால்' = 簡単に言うと. たぶん = ஒருவேளை (ஊகம்) — பொருள் வேறு.",
+    "explanation_en": "要するに = \"in short\" = 簡単に言うと. たぶん = \"maybe\", a guess. That is a different meaning."
+   },
+   {
+    "id": "L40-q12",
+    "type": "paraphrase",
+    "sentence": "彼女の 意見は、話の テーマから 少し ずれて いる。",
+    "options": [
+     "彼女の 意見は、テーマと とても よく 合って いる。",
+     "彼女の 意見は、テーマと 少し 合って いない。",
+     "彼女の 意見は、テーマより ずっと 長い。",
+     "彼女の 意見は、テーマと 同じだ。"
+    ],
+    "answer": 1,
+    "explanation_ta": "ずれる = 'சரியான இடத்திலிருந்து விலகு'. கருத்து தலைப்பிலிருந்து விலகியிருக்கிறது = தலைப்புடன் சரியாகப் பொருந்தவில்லை (合っていない).",
+    "explanation_en": "ずれる = \"to be off\". Her opinion is a bit off the topic = it doesn’t quite match the topic (合っていない)."
+   },
+   {
+    "id": "L40-q13",
+    "type": "usage",
+    "sentence": "向ける",
+    "options": [
+     "毎朝 七時に 家を 向けます。",
+     "記者は カメラを 子どもたちに 向けた。",
+     "この 服は 私には 向けて いません。",
+     "駅までの 道を 向けて ください。"
+    ],
+    "answer": 1,
+    "explanation_ta": "向ける = ஒன்றை ஒரு பக்கம் 'திருப்புவது': カメラを〜に向ける. 'பொருந்தாது' என்பது 向いていない (向く); வழி காட்டுவது 教える; வீட்டை விட்டுப் புறப்படுவது 出る.",
+    "explanation_en": "向ける = to turn something toward: カメラを〜に向ける. \"Not suited\" is 向いていない (from 向く). Showing the way is 教える. Leaving home is 出る."
+   },
+   {
+    "id": "L40-q14",
+    "type": "usage",
+    "sentence": "単なる",
+    "options": [
+     "彼は 単なる 走って いった。",
+     "この かばんは 単なるです。",
+     "単なるに 説明して ください。",
+     "それは 単なる うわさだ。"
+    ],
+    "answer": 3,
+    "explanation_ta": "単なる பெயர்ச்சொல்லுக்கு முன் மட்டும் வரும்: 単なるうわさ (வெறும் வதந்தி). வினைக்கு முன் 単に; です, に உடன் 単なる சேராது.",
+    "explanation_en": "単なる only comes before a noun: 単なるうわさ (a mere rumour). Before a verb, use 単に. 単なる can’t take です or に."
+   },
+   {
+    "id": "L40-q15",
+    "type": "grammar_form",
+    "sentence": "窓を 開けた。（　　）、涼しい 風が 入って きた。",
+    "options": [
+     "すると",
+     "そこで",
+     "なお",
+     "ただし"
+    ],
+    "answer": 0,
+    "explanation_ta": "ஜன்னலைத் திறந்தவுடன் 'நடந்தது' (விளைவு) = すると. そこで-க்குப் பின் ஒருவர் முடிவு செய்து செய்த செயல் வர வேண்டும்; காற்று வருவது செயல் அல்ல.",
+    "explanation_en": "What happened after opening the window (a result) = すると. そこで needs an action someone chose. The wind coming in is not a choice."
+   },
+   {
+    "id": "L40-q16",
+    "type": "grammar_form",
+    "sentence": "駅までの 道が 分からなかった。（　　）、交番で 聞く ことに した。",
+    "options": [
+     "すると",
+     "ただし",
+     "そこで",
+     "なぜなら"
+    ],
+    "answer": 2,
+    "explanation_ta": "பிரச்சினை → எடுத்த முடிவு (聞くことにした) = そこで. すると-க்குப் பின் நம் முடிவு வராது; なぜなら காரணத்தைச் சொல்லும்.",
+    "explanation_en": "Problem → decision (聞くことにした) = そこで. すると can’t be followed by your own decision. なぜなら gives a reason."
+   },
+   {
+    "id": "L40-q17",
+    "type": "grammar_form",
+    "sentence": "この 部屋は 駅から 近い。（　　）、家賃も 安い。",
+    "options": [
+     "ところが",
+     "ただし",
+     "すると",
+     "そのうえ"
+    ],
+    "answer": 3,
+    "explanation_ta": "நல்லது + நல்லது (近い + 安い) = そのうえ (அதோடு). ところが எதிர்பாராத மாறுபாட்டைக் காட்டும்; ただし விதிவிலக்கைச் சேர்க்கும்.",
+    "explanation_en": "Good + good (near + cheap) = そのうえ. ところが shows a surprising contrast. ただし adds an exception."
+   },
+   {
+    "id": "L40-q18",
+    "type": "grammar_form",
+    "sentence": "母の 兄、（　　）伯父は 医者を して いる。",
+    "options": [
+     "つまり",
+     "しかも",
+     "ところが",
+     "なお"
+    ],
+    "answer": 0,
+    "explanation_ta": "'அம்மாவின் அண்ணன்' = 'மாமா' — ஒரே ஆளை வேறு வார்த்தையில் சொல்வது = つまり. しかも கூடுதல் தகவலைச் சேர்க்கும்; இரண்டு பெயர்ச்சொற்களை 'சமம்' என்று இணைக்காது.",
+    "explanation_en": "\"Mother’s older brother\" = \"uncle\": the same person in other words = つまり. しかも adds a new point; it doesn’t say two nouns are equal."
+   },
+   {
+    "id": "L40-q19",
+    "type": "grammar_form",
+    "sentence": "この 公園は 誰でも 使えます。（　　）、夜 十時以降は 入れません。",
+    "options": [
+     "そこで",
+     "しかも",
+     "ただし",
+     "つまり"
+    ],
+    "answer": 2,
+    "explanation_ta": "'யார் வேண்டுமானாலும்' என்ற விதிக்கு ஒரு விதிவிலக்கு (இரவு 10 மணிக்குப் பின் இல்லை) = ただし. しかも ஒரே திசையில் சேர்க்கும்; இது எதிர்த் திசை.",
+    "explanation_en": "An exception to \"anyone can use it\" = ただし. しかも adds in the same direction, but this limits the rule."
+   },
+   {
+    "id": "L40-q20",
+    "type": "grammar_form",
+    "sentence": "私は 電車で 通って いる。なぜなら、車より 環境に いい（　　）。",
+    "options": [
+     "ことだ",
+     "からだ",
+     "ものだ",
+     "わけだ"
+    ],
+    "answer": 1,
+    "explanation_ta": "なぜなら-வுடன் வாக்கியம் 〜からだ என்று முடிய வேண்டும். ことだ (அறிவுரை), ものだ (பொது உண்மை) இங்குப் பொருந்தாது.",
+    "explanation_en": "A なぜなら sentence ends with 〜からだ. ことだ (advice) and ものだ (general truth) don’t fit."
+   },
+   {
+    "id": "L40-q21",
+    "type": "grammar_form",
+    "sentence": "申し込みは 金曜日までです。（　　）、詳しい ことは 事務室で 聞いて ください。",
+    "options": [
+     "ただし",
+     "すると",
+     "しかも",
+     "なお"
+    ],
+    "answer": 3,
+    "explanation_ta": "முதல் வாக்கியத்தை மாற்றாமல் கூடுதல் தகவல் சேர்ப்பது = なお. ただし விதிவிலக்கு / நிபந்தனையைச் சேர்க்கும்; இங்கே எந்த விலக்கும் இல்லை.",
+    "explanation_en": "Extra information that doesn’t change the first sentence = なお. ただし adds an exception, but there is none here."
+   },
+   {
+    "id": "L40-q22",
+    "type": "sentence_order",
+    "before": "ボタンを",
+    "chunks": [
+     "押した。",
+     "すると、",
+     "ドアが",
+     "ゆっくり"
+    ],
+    "star": 1,
+    "after": "開いた。",
+    "explanation_ta": "ボタンを 押した。(பொத்தானை அழுத்தினேன்) → すると、(அப்போது) → ドアが (கதவு) → ゆっくり 開いた (மெதுவாகத் திறந்தது). ★ = すると、.",
+    "explanation_en": "ボタンを 押した。(I pressed the button) → すると、(then) → ドアが (the door) → ゆっくり 開いた (opened slowly). ★ = すると、."
+   },
+   {
+    "id": "L40-q23",
+    "type": "sentence_order",
+    "before": "この 店は",
+    "chunks": [
+     "値段が",
+     "安くて、",
+     "しかも",
+     "料理が"
+    ],
+    "star": 2,
+    "after": "おいしい。",
+    "explanation_ta": "値段が 安くて、(விலை குறைவு) しかも (அதுமட்டுமின்றி) 料理が おいしい (உணவு சுவையானது). ★ = しかも.",
+    "explanation_en": "値段が 安くて、(cheap) しかも (what’s more) 料理が おいしい (the food is tasty). ★ = しかも."
+   },
+   {
+    "id": "L40-q24",
+    "type": "sentence_order",
+    "before": "私は",
+    "chunks": [
+     "その 計画に",
+     "反対だ。",
+     "なぜなら",
+     "お金が"
+    ],
+    "star": 2,
+    "after": "かかりすぎるからだ。",
+    "explanation_ta": "その計画に 反対だ。(அந்தத் திட்டத்தை எதிர்க்கிறேன்) なぜなら (ஏனென்றால்) お金が かかりすぎるからだ (செலவு அதிகம்). ★ = なぜなら.",
+    "explanation_en": "その計画に 反対だ。(I’m against the plan) なぜなら (because) お金が かかりすぎるからだ (it costs too much). ★ = なぜなら."
+   },
+   {
+    "id": "L40-q25",
+    "type": "sentence_order",
+    "before": "話は 長かったが、",
+    "chunks": [
+     "要するに",
+     "時間が",
+     "足りない",
+     "という"
+    ],
+    "star": 1,
+    "after": "ことだ。",
+    "explanation_ta": "要するに (சுருக்கமாக) 時間が 足りない (நேரம் போதவில்லை) という ことだ (என்பதுதான்). ★ = 時間が.",
+    "explanation_en": "要するに (in short) 時間が 足りない (there isn’t enough time) という ことだ (is the point). ★ = 時間が."
+   },
+   {
+    "id": "L40-q26",
+    "type": "passage_cloze",
+    "passage": "私たちの生活は、石油や石炭などの資源に支えられている。［1］、これらの資源には限りがあり、いずれなくなると言われている。［2］、石油や石炭は燃やすと大気を汚し、地球の温暖化の原因にもなる。［3］、今のような生活をこのまま続けることは難しいのである。そこで今、太陽や風のエネルギーが注目されている。［4］、これらは何度でも使えるうえ、空気も汚さないからだ。私たち一人一人も、エネルギーを大切に使う必要があるだろう。",
+    "blanks": [
+     {
+      "options": [
+       "しかし",
+       "すると",
+       "つまり",
+       "なぜなら"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "ただし",
+       "さらに",
+       "すると",
+       "つまり"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "しかも",
+       "なお",
+       "そこで",
+       "つまり"
+      ],
+      "answer": 3
+     },
+     {
+      "options": [
+       "ただし",
+       "すると",
+       "なぜなら",
+       "そのうえ"
+      ],
+      "answer": 2
+     }
+    ],
+    "explanation_ta": "［1］ 'வளங்கள் நம்மைத் தாங்குகின்றன' → 'ஆனால் அவை தீர்ந்துவிடும்' = எதிர்க் கருத்து: しかし. ［2］ ஒரு பிரச்சினைக்குப் பின் இன்னொரு பிரச்சினை (மாசு) = さらに. ［3］ மேலே சொன்னதன் சுருக்கம் / முடிவு = つまり; そこで-க்குப் பின் ஒரு செயல் வர வேண்டும். ［4］ வாக்கியம் 〜からだ என்று முடிகிறது = なぜなら.",
+    "explanation_en": "[1] \"Resources support us\" → \"but they will run out\": a contrast = しかし. [2] One more problem (pollution) = さらに. [3] A summary of what came before = つまり; そこで needs an action after it. [4] The sentence ends in 〜からだ, so = なぜなら."
+   }
+  ]
+ }
+}

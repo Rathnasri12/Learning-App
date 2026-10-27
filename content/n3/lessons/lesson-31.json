@@ -1,0 +1,776 @@
+{
+  "lesson": 31,
+  "title": {
+    "ja": "楽しいどころか",
+    "ta": "மகிழ்ச்சி என்பதற்கு மாறாக",
+    "en": "Far from fun"
+  },
+  "intro_en": "This lesson is about art, books, films and music. You learn to give your honest opinion. You can say \"far from …, it was the opposite\" (〜どころか). You can say \"it’s no use doing …\" (〜てもしかたがない). You learn \"not particularly\" (別に〜ない) and \"not at all\" (少しも〜ない). Last, you learn two ways to guess: どうやら〜らしい (it seems, from what I see) and おそらく〜だろう (probably).",
+  "intro_ta": "இந்தப் பாடம் கலை, நூல்கள், திரைப்படங்கள், இசை பற்றியது. ஒரு படைப்பைப் பற்றி உங்கள் உண்மையான கருத்தைச் சொல்லக் கற்போம். 'அப்படி இருப்பதற்கு மாறாக, நேர் எதிராக இருந்தது' (〜どころか), 'அப்படிச் செய்வதில் பயனில்லை' (〜てもしかたがない) என்று சொல்லலாம். 'பெரிதாக இல்லை' (別に〜ない), 'கொஞ்சம்கூட இல்லை' (少しも〜ない) என்ற மறுப்பு வடிவங்களையும் கற்போம். கடைசியாக, அறிகுறிகளை வைத்து ஊகிக்கும் どうやら〜らしい, முறையான ஊகமான おそらく〜だろう ஆகியவற்றைக் கற்போம்.",
+  "grammar": [
+    {
+      "id": "g31-1",
+      "pattern": "〜どころか",
+      "name": {
+        "en": "Far from ~ / let alone ~",
+        "ta": "~ என்பதற்கு மாறாக / ~ இருக்கட்டும்"
+      },
+      "explanation_en": "どころか has two uses. First: \"far from A, the truth is the opposite B\". 楽しいどころか、疲れただけだった = Far from fun, it only made me tired. Second: \"not even the easy thing, so of course not the hard thing\". 漢字どころか、ひらがなも書けない = He can’t even write hiragana, let alone kanji. Put a plain form before it. Nouns and な-words go directly: 静かどころか. It shows surprise or a strong feeling. Compare with ばかりか (lesson 25). ばかりか adds something in the same direction. どころか often turns to the opposite.",
+      "explanation_ta": "どころか இரண்டு விதமாகப் பயன்படும். முதலாவது: 'A என்பதற்கு மாறாக, உண்மையில் நேர் எதிரான B'. 楽しいどころか、疲れただけだった = மகிழ்ச்சியாக இருப்பதற்குப் பதில், களைப்புதான் மிஞ்சியது. இரண்டாவது: 'கடினமானது இருக்கட்டும், எளிதானதுகூட முடியாது'. 漢字どころか、ひらがなも書けない = கான்ஜி இருக்கட்டும், ஹிரகானாகூட எழுதத் தெரியாது. முன்னால் சாதாரண (plain) வடிவம் வரும்; பெயர்ச்சொல், な-பெயரடை நேரடியாகச் சேரும் (静かどころか). இது வியப்பையும் வலுவான உணர்வையும் காட்டும். பாடம் 25-இல் கற்ற ばかりか அதே திசையில் இன்னொன்றைச் சேர்க்கும்; どころか பெரும்பாலும் எதிர்த் திசைக்குத் திருப்பும்.",
+      "tamil_parallel": "சுவாரசியம் இருக்கட்டும், தூக்கமே வந்துவிட்டது = おもしろいどころか、眠くなってしまった",
+      "tamil_parallel_en": "சுவாரசியம் இருக்கட்டும், தூக்கமே வந்துவிட்டது (Far from interesting, it made me sleepy) = おもしろいどころか、眠くなってしまった",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + どころか\nな-பெயரடை (அடி) + どころか (静かどころか)\nபெயர்ச்சொல் + どころか (漢字どころか)\nA どころか B (B = எதிரானது / இன்னும் அடிப்படையானதுகூட இல்லை)",
+      "formation_en": "verb / い-adjective (plain form) + どころか\nな-adjective (stem) + どころか (静かどころか)\nnoun + どころか (漢字どころか)\nA どころか B (B = the opposite / not even the basic thing)",
+      "examples": [
+        {
+          "ja": "休みの日の旅行は、楽しいどころか、疲れただけだった。",
+          "reading": "やすみの ひの りょこうは、たのしい どころか、つかれた だけだった。",
+          "romaji": "yasumi no hi no ryokou wa, tanoshii dokoroka, tsukareta dake datta.",
+          "ta": "விடுமுறைப் பயணம் மகிழ்ச்சியாக இருப்பதற்கு மாறாக, களைப்பைத்தான் தந்தது.",
+          "en": "Far from fun, the holiday trip just made me tired."
+        },
+        {
+          "ja": "その映画はおもしろいどころか、途中で寝てしまった。",
+          "reading": "その えいがは おもしろい どころか、とちゅうで ねて しまった。",
+          "romaji": "sono eiga wa omoshiroi dokoroka, tochuu de nete shimatta.",
+          "ta": "அந்தப் படம் சுவாரசியமாக இருப்பதற்கு மாறாக, நடுவிலேயே தூங்கிவிட்டேன்.",
+          "en": "Far from interesting, that film put me to sleep halfway."
+        },
+        {
+          "ja": "弟は漢字どころか、ひらがなもまだ書けない。",
+          "reading": "おとうとは かんじ どころか、ひらがなも まだ かけない。",
+          "romaji": "otouto wa kanji dokoroka, hiragana mo mada kakenai.",
+          "ta": "தம்பிக்குக் கான்ஜி இருக்கட்டும், ஹிரகானாகூட இன்னும் எழுதத் தெரியாது.",
+          "en": "My little brother can’t even write hiragana yet, let alone kanji."
+        },
+        {
+          "ja": "雨はやむどころか、ますます強くなってきた。",
+          "reading": "あめは やむ どころか、ますます つよく なって きた。",
+          "romaji": "ame wa yamu dokoroka, masumasu tsuyoku natte kita.",
+          "ta": "மழை நிற்பதற்கு மாறாக, இன்னும் இன்னும் பலமாகிவிட்டது.",
+          "en": "Far from stopping, the rain got heavier and heavier."
+        },
+        {
+          "ja": "ホテルは静かどころか、隣の部屋が一晩中うるさかった。",
+          "reading": "ほてるは しずか どころか、となりの へやが ひとばんじゅう うるさかった。",
+          "romaji": "hoteru wa shizuka dokoroka, tonari no heya ga hitobanjuu urusakatta.",
+          "ta": "ஹோட்டல் அமைதியாக இருப்பதற்கு மாறாக, பக்கத்து அறை இரவு முழுக்கச் சத்தமாக இருந்தது.",
+          "en": "Far from quiet, the hotel room next door was noisy all night."
+        },
+        {
+          "ja": "その作品は批判されるどころか、大きな賞をもらった。",
+          "reading": "その さくひんは ひはん される どころか、おおきな しょうを もらった。",
+          "romaji": "sono sakuhin wa hihan sareru dokoroka, ookina shou o moratta.",
+          "ta": "அந்தப் படைப்பு விமர்சிக்கப்படுவதற்கு மாறாக, பெரிய விருது பெற்றது.",
+          "en": "Far from being criticized, that work won a big prize."
+        },
+        {
+          "ja": "忙しくて、映画どころか、テレビを見る時間もありません。",
+          "reading": "いそがしくて、えいが どころか、てれびを みる じかんも ありません。",
+          "romaji": "isogashikute, eiga dokoroka, terebi o miru jikan mo arimasen.",
+          "ta": "வேலை அதிகம்; சினிமா இருக்கட்டும், டிவி பார்க்கக்கூட நேரமில்லை.",
+          "en": "I’m so busy I don’t even have time for TV, let alone films."
+        }
+      ],
+      "pitfalls_en": "Don’t put だ before どころか: 静かだどころか is wrong. Say 静かどころか. Also, B usually goes against what people expect. If B is in the same direction, ばかりか or だけでなく is often better.",
+      "pitfalls_ta": "どころか-க்கு முன் だ வராது: 静かだどころか தவறு; 静かどころか சரி. மேலும் B பொதுவாக எதிர்பார்ப்புக்கு மாறானதாக இருக்கும். அதே திசையில் இன்னொன்றைச் சேர்க்க ばかりか அல்லது だけでなく பொருத்தமானது."
+    },
+    {
+      "id": "g31-2",
+      "pattern": "〜ても しかたがない",
+      "name": {
+        "en": "It’s no use ~",
+        "ta": "~ செய்வதில் பயனில்லை"
+      },
+      "explanation_en": "Use this to say an action is pointless. It won’t change anything. Make the て-form and add もしかたがない. 今さら後悔してもしかたがない = It’s no use regretting it now. Casual speech often says しょうがない. Polite: しかたがありません. A second use: \"it’s natural, you can’t complain\". 練習しなかったから、負けてもしかたがない = I didn’t practise, so losing is only natural. Don’t mix it up with 〜てしかたがない (lesson 23). That one has no も. It means \"I feel … very much\".",
+      "explanation_ta": "ஒரு செயலால் எந்தப் பயனும் இல்லை, எதுவும் மாறாது என்று சொல்ல இந்த வடிவம். வினையின் て-வடிவத்துடன் もしかたがない சேர்க்க வேண்டும். 今さら後悔してもしかたがない = இப்போது வருந்துவதில் பயனில்லை. பேச்சு வழக்கில் しょうがない என்றும் சொல்வர்; மரியாதை வடிவம் しかたがありません. இன்னொரு பொருள்: 'அப்படி ஆனதில் வியப்பில்லை, குறை சொல்ல முடியாது'. 練習しなかったから、負けてもしかたがない = பயிற்சி செய்யவில்லை, அதனால் தோற்றதில் வியப்பில்லை. பாடம் 23-இல் கற்ற 〜てしかたがない (も இல்லாதது) 'மிகவும் அப்படி உணர்கிறேன்' என்று பொருள்; இரண்டையும் குழப்ப வேண்டாம்.",
+      "tamil_parallel": "இப்போது வருந்தி என்ன பயன்? / வருந்துவதில் பயனில்லை = 今さら後悔してもしかたがない",
+      "tamil_parallel_en": "இப்போது வருந்தி என்ன பயன்? (What’s the use of regretting now?) = 今さら後悔してもしかたがない",
+      "formation": "வினை て-வடிவம் + も + しかたがない\nい-பெயரடை: 〜くても しかたがない\nな-பெயரடை / பெயர்ச்சொல்: 〜でも しかたがない\nமரியாதை: しかたがありません / பேச்சு: しょうがない",
+      "formation_en": "verb て-form + も + しかたがない\nい-adjective: 〜くても しかたがない\nな-adjective / noun: 〜でも しかたがない\npolite: しかたがありません / casual: しょうがない",
+      "examples": [
+        {
+          "ja": "終わったことを考えても、しかたがないよ。",
+          "reading": "おわった ことを かんがえても、しかたが ないよ。",
+          "romaji": "owatta koto o kangaetemo, shikata ga nai yo.",
+          "ta": "முடிந்துபோனதைப் பற்றி யோசித்து என்ன பயன்?",
+          "en": "It’s no use thinking about what’s over."
+        },
+        {
+          "ja": "一人で悩んでいてもしかたがないから、先生に相談しよう。",
+          "reading": "ひとりで なやんで いても しかたが ないから、せんせいに そうだん しよう。",
+          "romaji": "hitori de nayande itemo shikata ga nai kara, sensei ni soudan shiyou.",
+          "ta": "தனியாகக் கவலைப்பட்டுக்கொண்டிருப்பதில் பயனில்லை; ஆசிரியரிடம் ஆலோசனை கேட்போம்.",
+          "en": "Worrying alone is no use, so let’s ask the teacher."
+        },
+        {
+          "ja": "高い楽器を買ってもしかたがない。どうせあまり弾かないでしょう？",
+          "reading": "たかい がっきを かっても しかたが ない。どうせ あまり ひかないでしょう？",
+          "romaji": "takai gakki o kattemo shikata ga nai. douse amari hikanai deshou?",
+          "ta": "விலையுயர்ந்த இசைக்கருவி வாங்கிப் பயனில்லை. எப்படியும் அதிகம் வாசிக்க மாட்டாய், இல்லையா?",
+          "en": "There’s no point buying an expensive instrument. You won’t play much anyway, right?"
+        },
+        {
+          "ja": "天気のことで文句を言っても、しかたがありません。",
+          "reading": "てんきの ことで もんくを いっても、しかたが ありません。",
+          "romaji": "tenki no koto de monku o ittemo, shikata ga arimasen.",
+          "ta": "வானிலையைப் பற்றிக் குறை சொல்லிப் பயனில்லை.",
+          "en": "It’s no use complaining about the weather."
+        },
+        {
+          "ja": "全然練習しなかったのだから、失敗してもしかたがない。",
+          "reading": "ぜんぜん れんしゅう しなかったのだから、しっぱい しても しかたが ない。",
+          "romaji": "zenzen renshuu shinakatta no da kara, shippai shitemo shikata ga nai.",
+          "ta": "கொஞ்சமும் பயிற்சி செய்யவில்லை; அதனால் தோல்வியடைந்ததில் வியப்பில்லை.",
+          "en": "I didn’t practise at all, so it’s natural that I failed."
+        },
+        {
+          "ja": "そんなに泣いてもしょうがないじゃない。また頑張ろうよ。",
+          "reading": "そんなに ないても しょうが ないじゃない。また がんばろうよ。",
+          "romaji": "sonna ni naitemo shou ga nai ja nai. mata ganbarou yo.",
+          "ta": "இப்படி அழுது என்ன பயன்? மீண்டும் முயற்சி செய்வோம்.",
+          "en": "Crying like that won’t help, will it? Let’s try again."
+        }
+      ],
+      "pitfalls_en": "Don’t drop も. 後悔してしかたがない means \"I regret it terribly\", not \"it’s no use\". Also, use the て-form, not the dictionary form: 考えるもしかたがない is wrong.",
+      "pitfalls_ta": "も-வை விட்டுவிடக் கூடாது. 後悔してしかたがない என்றால் 'மிகவும் வருந்துகிறேன்' என்று பொருள் மாறிவிடும். மேலும் அகராதி வடிவம் வராது: 考えるもしかたがない தவறு; 考えてもしかたがない சரி."
+    },
+    {
+      "id": "g31-3",
+      "pattern": "別に 〜ない / 少しも 〜ない",
+      "name": {
+        "en": "Not particularly / not at all",
+        "ta": "பெரிதாக இல்லை / கொஞ்சம்கூட இல்லை"
+      },
+      "explanation_en": "Both words come with a negative at the end. 別に〜ない means \"not particularly\". It is a soft, light \"no\". You have no special reason or feeling. In casual talk, 別に alone can be an answer: 「どうしたの？」「別に。」 (\"Nothing.\"). Be careful: it can sound cold. 少しも〜ない means \"not at all, not even a little\". It is strong, like 全然〜ない. It is a bit more written than 全然. Compare with あまり〜ない: \"not very\". あまり leaves a little; 少しも leaves nothing.",
+      "explanation_ta": "இரண்டு சொற்களுக்கும் பின் வாக்கிய இறுதியில் மறுப்பு (〜ない) வரும். 別に〜ない = 'பெரிதாக இல்லை, தனிப்பட்ட காரணம் / உணர்வு எதுவும் இல்லை' என்ற மென்மையான மறுப்பு. பேச்சில் 別に என்று மட்டும் பதில் சொல்லலாம்: 「どうしたの？」「別に。」 ('ஒன்றுமில்லை'). ஆனால் சில நேரம் அது அலட்சியமாகத் தோன்றலாம். 少しも〜ない = 'கொஞ்சம்கூட இல்லை'; 全然〜ない போல வலுவானது, சற்று எழுத்து நடைக்கு நெருக்கமானது. あまり〜ない = 'அவ்வளவாக இல்லை' — கொஞ்சம் மிஞ்சும்; 少しも எதையும் மிஞ்ச விடாது.",
+      "tamil_parallel": "எனக்கு அது பெரிதாகப் பிடிக்காது = 別に好きじゃない; கொஞ்சம்கூடப் புரியவில்லை = 少しも分からなかった",
+      "tamil_parallel_en": "எனக்கு அது பெரிதாகப் பிடிக்காது (I don’t particularly like it) = 別に好きじゃない; கொஞ்சம்கூடப் புரியவில்லை (I didn’t understand at all) = 少しも分からなかった",
+      "formation": "別に + மறுப்பு (〜ない / 〜ません)\n少しも + மறுப்பு (〜ない / 〜ません)\nபேச்சில் பதிலாக: 別に。",
+      "formation_en": "別に + negative (〜ない / 〜ません)\n少しも + negative (〜ない / 〜ません)\nas a short casual answer: 別に。",
+      "examples": [
+        {
+          "ja": "「この絵、好き？」「別に好きじゃないけど、嫌いでもないよ。」",
+          "reading": "「この え、すき？」「べつに すきじゃ ないけど、きらいでも ないよ。」",
+          "romaji": "\"kono e, suki?\" \"betsu ni suki ja nai kedo, kirai demo nai yo.\"",
+          "ta": "'இந்த ஓவியம் பிடிக்குமா?' 'பெரிதாகப் பிடிக்காது, ஆனால் வெறுப்பும் இல்லை.'",
+          "en": "\"Do you like this picture?\" \"Not particularly, but I don’t hate it.\""
+        },
+        {
+          "ja": "別に急いでいないので、ゆっくりでいいですよ。",
+          "reading": "べつに いそいで いないので、ゆっくりで いいですよ。",
+          "romaji": "betsu ni isoide inai node, yukkuri de ii desu yo.",
+          "ta": "எனக்குப் பெரிய அவசரம் ஒன்றும் இல்லை; நிதானமாகச் செய்யுங்கள்.",
+          "en": "I’m not in any particular hurry, so take your time."
+        },
+        {
+          "ja": "「元気がないね。どうしたの？」「別に。」",
+          "reading": "「げんきが ないね。どうしたの？」「べつに。」",
+          "romaji": "\"genki ga nai ne. dou shita no?\" \"betsu ni.\"",
+          "ta": "'சோர்வாக இருக்கிறாயே, என்ன ஆச்சு?' 'ஒன்றுமில்லை.'",
+          "en": "\"You look down. What’s wrong?\" \"Nothing.\""
+        },
+        {
+          "ja": "みんな怖いと言っていたが、その映画は少しも怖くなかった。",
+          "reading": "みんな こわいと いって いたが、その えいがは すこしも こわく なかった。",
+          "romaji": "minna kowai to itte ita ga, sono eiga wa sukoshimo kowaku nakatta.",
+          "ta": "எல்லோரும் பயமாக இருக்கும் என்றார்கள்; ஆனால் அந்தப் படம் கொஞ்சம்கூடப் பயமாக இல்லை.",
+          "en": "Everyone said it was scary, but the film wasn’t scary at all."
+        },
+        {
+          "ja": "説明を三回聞いても、少しも分からなかった。",
+          "reading": "せつめいを さんかい きいても、すこしも わからなかった。",
+          "romaji": "setsumei o sankai kiitemo, sukoshimo wakaranakatta.",
+          "ta": "விளக்கத்தை மூன்று முறை கேட்டும், கொஞ்சம்கூடப் புரியவில்லை.",
+          "en": "Even after hearing the explanation three times, I didn’t understand at all."
+        },
+        {
+          "ja": "彼は疲れているのに、少しも休もうとしない。",
+          "reading": "かれは つかれて いるのに、すこしも やすもうと しない。",
+          "romaji": "kare wa tsukarete iru noni, sukoshimo yasumou to shinai.",
+          "ta": "அவர் களைப்பாக இருந்தும், கொஞ்சம்கூட ஓய்வெடுக்க முயலவில்லை.",
+          "en": "He’s tired, but he doesn’t try to rest at all."
+        },
+        {
+          "ja": "あなたが謝ることは別にありませんよ。",
+          "reading": "あなたが あやまる ことは べつに ありませんよ。",
+          "romaji": "anata ga ayamaru koto wa betsu ni arimasen yo.",
+          "ta": "நீங்கள் மன்னிப்புக் கேட்க வேண்டிய அவசியம் ஒன்றும் இல்லை.",
+          "en": "There’s nothing in particular you need to apologize for."
+        }
+      ],
+      "pitfalls_en": "Both need a negative. 少しもおいしいです is wrong. Also, 少し (a little) and 少しも (not at all) are very different. Don’t answer a teacher or boss with just 別に. It sounds rude.",
+      "pitfalls_ta": "இரண்டுக்கும் பின் கட்டாயம் மறுப்பு வர வேண்டும்: 少しもおいしいです தவறு. 少し (கொஞ்சம்), 少しも (கொஞ்சம்கூட இல்லை) — பொருள் முற்றிலும் வேறு. ஆசிரியர், மேலதிகாரியிடம் 別に என்று மட்டும் பதில் சொன்னால் மரியாதைக் குறைவாகத் தோன்றும்."
+    },
+    {
+      "id": "g31-4",
+      "pattern": "どうやら 〜らしい / 〜ようだ",
+      "name": {
+        "en": "It seems that ~ (from the signs)",
+        "ta": "அறிகுறிகளைப் பார்த்தால் ~ போலத் தெரிகிறது"
+      },
+      "explanation_en": "どうやら means \"it looks like, from what I can see\". You look at some signs and slowly reach an idea. You are fairly sure, but not 100%. It goes with らしい or ようだ (from N4) at the end. どうやら雨が降ってきたようだ = It looks like it has started to rain. It often shows you just noticed something. Compare with たぶん (\"maybe\", a simple guess). どうやら needs signs you can see or hear.",
+      "explanation_ta": "どうやら = 'நான் பார்க்கும் அறிகுறிகளை வைத்துச் சொன்னால், அப்படித் தெரிகிறது'. சில அடையாளங்களைக் கவனித்து மெல்ல ஒரு முடிவுக்கு வருவதைக் காட்டும். ஓரளவு உறுதி உண்டு, ஆனால் முழு உறுதி இல்லை. வாக்கிய இறுதியில் N4-இல் கற்ற らしい அல்லது ようだ வரும். どうやら雨が降ってきたようだ = மழை தொடங்கிவிட்டது போலத் தெரிகிறது. பெரும்பாலும் 'இப்போதுதான் கவனித்தேன்' என்ற உணர்வும் இருக்கும். たぶん என்பது வெறும் ஊகம்; どうやら-வுக்குக் கண்ணால் பார்த்த / காதால் கேட்ட ஆதாரம் தேவை.",
+      "tamil_parallel": "பார்த்தால், எல்லோரும் வெளியே போயிருப்பார்கள் போலத் தெரிகிறது = どうやらみんな出かけているようだ",
+      "tamil_parallel_en": "பார்த்தால், எல்லோரும் வெளியே போயிருப்பார்கள் போலத் தெரிகிறது (It looks like everyone is out) = どうやらみんな出かけているようだ",
+      "formation": "どうやら + சாதாரண வடிவம் + らしい\nどうやら + சாதாரண வடிவம் + ようだ\n(பெயர்ச்சொல் + らしい / பெயர்ச்சொல் + のようだ)",
+      "formation_en": "どうやら + plain form + らしい\nどうやら + plain form + ようだ\n(noun + らしい / noun + のようだ)",
+      "examples": [
+        {
+          "ja": "外が暗くなってきた。どうやら雨が降りそうだ。",
+          "reading": "そとが くらく なって きた。どうやら あめが ふりそうだ。",
+          "romaji": "soto ga kuraku natte kita. douyara ame ga furisou da.",
+          "ta": "வெளியே இருட்டாகிவிட்டது. பார்த்தால் மழை பெய்யும் போலத் தெரிகிறது.",
+          "en": "It’s getting dark outside. It looks like it’s going to rain."
+        },
+        {
+          "ja": "隣の家は電気が消えている。どうやらみんな出かけているようだ。",
+          "reading": "となりの いえは でんきが きえて いる。どうやら みんな でかけて いる ようだ。",
+          "romaji": "tonari no ie wa denki ga kiete iru. douyara minna dekakete iru you da.",
+          "ta": "பக்கத்து வீட்டில் விளக்கு அணைந்திருக்கிறது. எல்லோரும் வெளியே போயிருப்பார்கள் போலத் தெரிகிறது.",
+          "en": "The lights are off next door. It seems everyone is out."
+        },
+        {
+          "ja": "地図を見ると、どうやら道を間違えたらしい。",
+          "reading": "ちずを みると、どうやら みちを まちがえた らしい。",
+          "romaji": "chizu o miru to, douyara michi o machigaeta rashii.",
+          "ta": "வரைபடத்தைப் பார்த்தால், நாம் வழி தவறிவிட்டோம் போலத் தெரிகிறது.",
+          "en": "Looking at the map, it seems we took the wrong road."
+        },
+        {
+          "ja": "観客の顔を見ると、どうやら演奏は成功したようだ。",
+          "reading": "かんきゃくの かおを みると、どうやら えんそうは せいこう した ようだ。",
+          "romaji": "kankyaku no kao o miru to, douyara ensou wa seikou shita you da.",
+          "ta": "பார்வையாளர்களின் முகங்களைப் பார்த்தால், இசை வாசிப்பு வெற்றி பெற்றது போலத் தெரிகிறது.",
+          "en": "Judging from the audience’s faces, the performance seems to have gone well."
+        },
+        {
+          "ja": "どうやらこの絵は、その画家の最後の作品らしい。",
+          "reading": "どうやら この えは、その がかの さいごの さくひん らしい。",
+          "romaji": "douyara kono e wa, sono gaka no saigo no sakuhin rashii.",
+          "ta": "பார்த்தால், இந்த ஓவியம் அந்த ஓவியரின் கடைசிப் படைப்பு போலத் தெரிகிறது.",
+          "en": "It seems this picture is that painter’s last work."
+        },
+        {
+          "ja": "彼は返事をしない。どうやら私の話を聞いていなかったようだ。",
+          "reading": "かれは へんじを しない。どうやら わたしの はなしを きいて いなかった ようだ。",
+          "romaji": "kare wa henji o shinai. douyara watashi no hanashi o kiite inakatta you da.",
+          "ta": "அவர் பதில் சொல்லவில்லை. நான் சொன்னதைக் கேட்கவில்லை போலத் தெரிகிறது.",
+          "en": "He doesn’t answer. It seems he wasn’t listening to me."
+        }
+      ],
+      "pitfalls_en": "Don’t end with です or だ alone: どうやら雨です is strange. Use らしい / ようだ / そうだ at the end. Don’t use どうやら for wishes or plans: どうやら行きたい is wrong.",
+      "pitfalls_ta": "どうやら வந்தால் இறுதியில் らしい / ようだ / そうだ வர வேண்டும்; どうやら雨です என்பது இயல்பற்றது. விருப்பம், திட்டம் சொல்ல どうやら பயன்படாது: どうやら行きたい தவறு."
+    },
+    {
+      "id": "g31-5",
+      "pattern": "おそらく 〜だろう",
+      "name": {
+        "en": "Probably ~ (formal guess)",
+        "ta": "பெரும்பாலும் ~ ஆக இருக்கும்"
+      },
+      "explanation_en": "おそらく means \"probably\". It is like たぶん, but more formal. You hear it in news, reports and speeches. It usually ends with だろう or でしょう. おそらく明日も雨だろう = It will probably rain tomorrow too. The guess is fairly strong. It is often about the future or the past you can’t check. In daily chat, たぶん is more common. Kanji: 恐らく, but kana is common.",
+      "explanation_ta": "おそらく = 'பெரும்பாலும்'. たぶん போன்ற பொருள்தான்; ஆனால் இது முறையானது. செய்திகள், அறிக்கைகள், உரைகளில் அதிகம் வரும். வாக்கிய இறுதியில் பொதுவாக だろう அல்லது でしょう வரும். おそらく明日も雨だろう = பெரும்பாலும் நாளையும் மழை பெய்யும். ஊகம் ஓரளவு வலுவானது; எதிர்காலத்தைப் பற்றியோ, சரிபார்க்க முடியாத கடந்த காலத்தைப் பற்றியோ சொல்லப் பயன்படும். அன்றாடப் பேச்சில் たぶん அதிகம். கான்ஜி 恐らく; ஆனால் கானாவில் எழுதுவதும் வழக்கம்.",
+      "tamil_parallel": "பெரும்பாலும் அவர் வரமாட்டார் = おそらく彼は来ないだろう",
+      "tamil_parallel_en": "பெரும்பாலும் அவர் வரமாட்டார் (He probably won’t come) = おそらく彼は来ないだろう",
+      "formation": "おそらく + சாதாரண வடிவம் + だろう / でしょう\nபெயர்ச்சொல் / な-பெயரடை: おそらく 〜だろう (雨だろう)\n(〜のだろう / 〜と思う உடனும் வரும்)",
+      "formation_en": "おそらく + plain form + だろう / でしょう\nnoun / な-adjective: おそらく 〜だろう (雨だろう)\n(also with 〜のだろう / 〜と思う)",
+      "examples": [
+        {
+          "ja": "おそらく明日も雨だろう。",
+          "reading": "おそらく あしたも あめだろう。",
+          "romaji": "osoraku ashita mo ame darou.",
+          "ta": "பெரும்பாலும் நாளையும் மழை பெய்யும்.",
+          "en": "It will probably rain tomorrow too."
+        },
+        {
+          "ja": "この絵は、おそらく二百年以上前に描かれたのだろう。",
+          "reading": "この えは、おそらく にひゃくねん いじょう まえに えがかれたのだろう。",
+          "romaji": "kono e wa, osoraku nihyakunen ijou mae ni egakareta no darou.",
+          "ta": "இந்த ஓவியம் பெரும்பாலும் இருநூறு ஆண்டுகளுக்கு முன்பே வரையப்பட்டிருக்கும்.",
+          "en": "This painting was probably made more than two hundred years ago."
+        },
+        {
+          "ja": "その歌手の新しい曲は、おそらく人気が出るでしょう。",
+          "reading": "その かしゅの あたらしい きょくは、おそらく にんきが でるでしょう。",
+          "romaji": "sono kashu no atarashii kyoku wa, osoraku ninki ga deru deshou.",
+          "ta": "அந்தப் பாடகரின் புதிய பாடல் பெரும்பாலும் பிரபலமாகும்.",
+          "en": "That singer’s new song will probably become popular."
+        },
+        {
+          "ja": "彼はもう出発したから、おそらく三時ごろには着くだろう。",
+          "reading": "かれは もう しゅっぱつ したから、おそらく さんじごろには つくだろう。",
+          "romaji": "kare wa mou shuppatsu shita kara, osoraku sanji goro ni wa tsuku darou.",
+          "ta": "அவர் ஏற்கெனவே கிளம்பிவிட்டார்; பெரும்பாலும் மூன்று மணி வாக்கில் வந்து சேர்வார்.",
+          "en": "He has already left, so he’ll probably arrive around three."
+        },
+        {
+          "ja": "台風のため、明日の公演はおそらく中止になるでしょう。",
+          "reading": "たいふうの ため、あしたの こうえんは おそらく ちゅうしに なるでしょう。",
+          "romaji": "taifuu no tame, ashita no kouen wa osoraku chuushi ni naru deshou.",
+          "ta": "புயல் காரணமாக, நாளைய நிகழ்ச்சி பெரும்பாலும் ரத்து செய்யப்படும்.",
+          "en": "Because of the typhoon, tomorrow’s show will probably be cancelled."
+        },
+        {
+          "ja": "これほど難しい問題は、おそらく誰にも解けないだろう。",
+          "reading": "これほど むずかしい もんだいは、おそらく だれにも とけないだろう。",
+          "romaji": "kore hodo muzukashii mondai wa, osoraku dare ni mo tokenai darou.",
+          "ta": "இவ்வளவு கடினமான கணக்கை பெரும்பாலும் யாராலும் தீர்க்க முடியாது.",
+          "en": "Probably no one can solve a problem this hard."
+        }
+      ],
+      "pitfalls_en": "Don’t use おそらく with a sure fact or an order: おそらく来てください is wrong. Also, it is too stiff for chatting with friends; use たぶん there.",
+      "pitfalls_ta": "உறுதியான உண்மை, கட்டளை ஆகியவற்றுடன் おそらく வராது: おそらく来てください தவறு. நண்பர்களுடன் பேசும்போது இது மிகவும் முறையாகத் தோன்றும்; அங்கே たぶん பயன்படுத்துங்கள்."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0019",
+    "n3-v-0040",
+    "n3-v-0130",
+    "n3-v-0175",
+    "n3-v-0227",
+    "n3-v-0249",
+    "n3-v-0430",
+    "n3-v-0474",
+    "n3-v-0485",
+    "n3-v-0513",
+    "n3-v-0540",
+    "n3-v-0552",
+    "n3-v-0571",
+    "n3-v-0580",
+    "n3-v-0609",
+    "n3-v-0625",
+    "n3-v-0642",
+    "n3-v-0647",
+    "n3-v-0649",
+    "n3-v-0684",
+    "n3-v-0795",
+    "n3-v-0800",
+    "n3-v-0832",
+    "n3-v-0977",
+    "n3-v-0993",
+    "n3-v-0994",
+    "n3-v-1069",
+    "n3-v-1083",
+    "n3-v-1157",
+    "n3-v-1255",
+    "n3-v-1290",
+    "n3-v-1319",
+    "n3-v-1356",
+    "n3-v-1379",
+    "n3-v-1491",
+    "n3-v-1518",
+    "n3-v-1587",
+    "n3-v-1612",
+    "n3-v-1614",
+    "n3-v-1740",
+    "n3-v-1832",
+    "n3-v-1861",
+    "n3-v-1871",
+    "n3-v-1917",
+    "n3-v-1922",
+    "n3-v-2006",
+    "n3-v-2056",
+    "n3-v-2059",
+    "n3-v-2095",
+    "n3-v-2096",
+    "n3-v-2106",
+    "n3-v-2121",
+    "n3-v-2127"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L31-q01",
+        "type": "kanji_reading",
+        "sentence": "有名な ＿画家＿の 絵を 見に 行きました。",
+        "target": "画家",
+        "options": [
+          "かくか",
+          "がっか",
+          "がか",
+          "えか"
+        ],
+        "answer": 2,
+        "explanation_ta": "画家 = がか (ஓவியர்). 画 இங்கே 'が' என்று படிக்கப்படுகிறது. がっか (学科 = பாடப்பிரிவு) என்பது வேறு சொல்; えか என்ற வாசிப்பு இல்லை.",
+        "explanation_en": "画家 is read がか (painter). Here 画 is read が. がっか is a different word (学科, a school subject). えか is not a reading."
+      },
+      {
+        "id": "L31-q02",
+        "type": "kanji_reading",
+        "sentence": "好きな ＿作家＿の 新しい 本を 買いました。",
+        "target": "作家",
+        "options": [
+          "さっか",
+          "さくか",
+          "さくや",
+          "さっけ"
+        ],
+        "answer": 0,
+        "explanation_ta": "作家 = さっか (எழுத்தாளர்). 作 + 家 சேரும்போது சிறு っ வருகிறது. さくか என்று படிப்பது பொதுவான தவறு.",
+        "explanation_en": "作家 is read さっか (writer). When 作 and 家 join, a small っ appears. さくか is a common mistake."
+      },
+      {
+        "id": "L31-q03",
+        "type": "kanji_reading",
+        "sentence": "この 小説の ＿著者＿に サインを もらいました。",
+        "target": "著者",
+        "options": [
+          "ちょうしゃ",
+          "しょしゃ",
+          "ちょさ",
+          "ちょしゃ"
+        ],
+        "answer": 3,
+        "explanation_ta": "著者 = ちょしゃ (நூலாசிரியர்). 著 = ちょ (சிறிய ょ, நீளம் இல்லை). ちょうしゃ என்று நீட்டக் கூடாது.",
+        "explanation_en": "著者 is read ちょしゃ (author). 著 is ちょ, short, not long. ちょうしゃ is wrong."
+      },
+      {
+        "id": "L31-q04",
+        "type": "orthography",
+        "sentence": "何か 新しい ＿がっき＿を 習いたいです。",
+        "target": "がっき",
+        "options": [
+          "学器",
+          "楽器",
+          "楽機",
+          "学機"
+        ],
+        "answer": 1,
+        "explanation_ta": "がっき = 楽器 (இசைக்கருவி). 楽 = இசை (音楽), 器 = கருவி/பாத்திரம். 学 (கல்வி) இங்கே பொருந்தாது; 機 இயந்திரத்துக்கு.",
+        "explanation_en": "がっき is 楽器 (musical instrument). 楽 as in 音楽 (music), 器 means a tool. 学 is \"study\". 機 is for machines."
+      },
+      {
+        "id": "L31-q05",
+        "type": "orthography",
+        "sentence": "会議の 資料を ＿いんさつ＿して ください。",
+        "target": "いんさつ",
+        "options": [
+          "印冊",
+          "印札",
+          "引刷",
+          "印刷"
+        ],
+        "answer": 3,
+        "explanation_ta": "いんさつ = 印刷 (அச்சிடுதல்). 印 = முத்திரை, 刷 = அச்சிடுதல் (刷る). 引 (இழு) ஒலியில் ஒத்தாலும் பொருள் வேறு.",
+        "explanation_en": "いんさつ is 印刷 (printing). 印 = a mark, 刷 = print (刷る). 引 means \"pull\"; it is wrong here."
+      },
+      {
+        "id": "L31-q06",
+        "type": "vocab_context",
+        "sentence": "コンサートの あと、みんなが ピアノの （　　）が すばらしかったと 話して いた。",
+        "options": [
+          "作曲",
+          "指揮",
+          "演奏",
+          "印刷"
+        ],
+        "answer": 2,
+        "explanation_ta": "பியானோ வாசித்தது அருமை = ピアノの演奏. 指揮 இசைக்குழுவை நடத்துவது; 作曲 இசையமைப்பது — கச்சேரியில் கேட்டது வாசிப்புதான்.",
+        "explanation_en": "The piano playing was great: ピアノの演奏. 指揮 is conducting. 作曲 is writing music. At a concert you hear the playing."
+      },
+      {
+        "id": "L31-q07",
+        "type": "vocab_context",
+        "sentence": "この 本を 読んで、どう 思ったか、（　　）を 聞かせて ください。",
+        "options": [
+          "感想",
+          "想像",
+          "創造",
+          "題名"
+        ],
+        "answer": 0,
+        "explanation_ta": "'படித்து என்ன நினைத்தீர்கள்' = 感想 (கருத்து). 想像 = கற்பனை, 創造 = படைப்பாக்கம் — இரண்டும் そうぞう என்று ஒலித்தாலும் பொருந்தாது.",
+        "explanation_en": "\"What did you think after reading?\" = 感想 (impressions). 想像 (imagination) and 創造 (creation) both sound そうぞう but don’t fit."
+      },
+      {
+        "id": "L31-q08",
+        "type": "vocab_context",
+        "sentence": "この 物語は ここで 終わって いない。（　　）は 来月号に のるそうだ。",
+        "options": [
+          "題",
+          "年鑑",
+          "書物",
+          "続き"
+        ],
+        "answer": 3,
+        "explanation_ta": "கதை முடியவில்லை; அடுத்த பகுதி அடுத்த மாத இதழில் = 続き (தொடர்ச்சி). 年鑑 = ஆண்டு நூல், 題 = தலைப்பு.",
+        "explanation_en": "The story isn’t finished. The next part comes next month: 続き. 年鑑 = yearbook, 題 = title."
+      },
+      {
+        "id": "L31-q09",
+        "type": "vocab_context",
+        "sentence": "目が 疲れたので、本を （　　）、少し 休んだ。",
+        "options": [
+          "刷って",
+          "閉じて",
+          "描いて",
+          "汲んで"
+        ],
+        "answer": 1,
+        "explanation_ta": "கண் களைத்ததால் புத்தகத்தை மூடினேன் = 本を閉じて. 刷る = அச்சிட, 汲む = நீர் இறைக்க — பொருந்தாது.",
+        "explanation_en": "My eyes were tired, so I closed the book: 本を閉じて. 刷る = print, 汲む = draw water. They don’t fit."
+      },
+      {
+        "id": "L31-q10",
+        "type": "vocab_context",
+        "sentence": "この 小説は、戦争の 中で 生きる 家族の 姿を （　　）いる。",
+        "options": [
+          "刷って",
+          "めくって",
+          "描いて",
+          "閉じて"
+        ],
+        "answer": 2,
+        "explanation_ta": "நாவல் ஒரு குடும்பத்தின் வாழ்க்கையைச் சித்தரிக்கிறது = 描いて(えがいて)いる. めくる = பக்கம் புரட்ட — நாவல் செய்யும் செயல் அல்ல.",
+        "explanation_en": "A novel portrays a family’s life: 描いて (えがいて) いる. めくる = turn pages; a novel doesn’t do that."
+      },
+      {
+        "id": "L31-q11",
+        "type": "paraphrase",
+        "sentence": "その 作品は 少しも おもしろく なかった。",
+        "options": [
+          "その 作品は 少し おもしろかった。",
+          "その 作品は 全然 おもしろく なかった。",
+          "その 作品は とても おもしろかった。",
+          "その 作品は あまり おもしろく なかった。"
+        ],
+        "answer": 1,
+        "explanation_ta": "少しも〜ない = 'கொஞ்சம்கூட இல்லை' = 全然〜ない. あまり〜ない 'அவ்வளவாக இல்லை' — கொஞ்சம் சுவாரசியம் இருந்திருக்கலாம் என்று பொருள்; அது வலிமை குறைந்தது.",
+        "explanation_en": "少しも〜ない = \"not at all\" = 全然〜ない. あまり〜ない means \"not very\". It is weaker; it leaves a little interest."
+      },
+      {
+        "id": "L31-q12",
+        "type": "paraphrase",
+        "sentence": "おそらく 彼は 来ないだろう。",
+        "options": [
+          "彼は 絶対に 来ない。",
+          "彼は 来るに 違いない。",
+          "彼が 来るか どうか 全然 分からない。",
+          "たぶん 彼は 来ないと 思う。"
+        ],
+        "answer": 3,
+        "explanation_ta": "おそらく〜だろう = 'பெரும்பாலும்' = たぶん〜と思う. 絶対に = உறுதியாக — おそらく முழு உறுதி அல்ல. 来るに違いない பொருள் நேர் எதிரானது.",
+        "explanation_en": "おそらく〜だろう = \"probably\" = たぶん〜と思う. 絶対に is 100% sure, but おそらく is not. 来るに違いない has the opposite meaning."
+      },
+      {
+        "id": "L31-q13",
+        "type": "usage",
+        "sentence": "演奏",
+        "options": [
+          "好きな 作家の 本を 一晩で 演奏しました。",
+          "子どもたちが 公園で 元気に 演奏して いた。",
+          "姉の バイオリンの 演奏を 聞いて、感動した。",
+          "私は 毎晩 寝る 前に 日記を 演奏して います。"
+        ],
+        "answer": 2,
+        "explanation_ta": "演奏 = இசைக்கருவியை வாசிப்பது. 'அக்காவின் வயலின் வாசிப்பைக் கேட்டு நெகிழ்ந்தேன்' சரி. நூல் (読む), விளையாட்டு (遊ぶ), நாட்குறிப்பு (書く) — இவற்றுக்கு 演奏 வராது.",
+        "explanation_en": "演奏 = playing music on an instrument. \"I was moved by my sister’s violin playing\" is right. Books (読む), playing in a park (遊ぶ) and diaries (書く) don’t use 演奏."
+      },
+      {
+        "id": "L31-q14",
+        "type": "usage",
+        "sentence": "少しも",
+        "options": [
+          "説明を 何度 聞いても、少しも 分からなかった。",
+          "少しも 時間が ありますから、お茶を 飲みましょう。",
+          "この カレーは 少しも おいしいです。",
+          "薬を 飲んだら、少しも 元気に なりました。"
+        ],
+        "answer": 0,
+        "explanation_ta": "少しも-வுக்குப் பின் மறுப்பு வர வேண்டும்: 少しも分からなかった சரி. மற்ற மூன்றிலும் உடன்பாட்டு வடிவம் உள்ளது; அங்கே 少し (கொஞ்சம்) தான் வர வேண்டும்.",
+        "explanation_en": "少しも needs a negative: 少しも分からなかった is right. The other three are positive. They need 少し (a little), not 少しも."
+      },
+      {
+        "id": "L31-q15",
+        "type": "grammar_form",
+        "sentence": "その 映画は 楽しい （　　）、途中で 寝て しまった。",
+        "options": [
+          "ばかりか",
+          "だけでなく",
+          "うえに",
+          "どころか"
+        ],
+        "answer": 3,
+        "explanation_ta": "'மகிழ்ச்சியாக இருப்பதற்கு மாறாக, தூங்கிவிட்டேன்' — எதிர்த் திசை = どころか. ばかりか, だけでなく, うえに அதே திசையில் இன்னொன்றைச் சேர்க்கும்; 'மகிழ்ச்சி + தூக்கம்' பொருந்தாது.",
+        "explanation_en": "\"Far from fun, I fell asleep\" turns to the opposite: どころか. ばかりか, だけでなく and うえに add something in the same direction. They don’t fit."
+      },
+      {
+        "id": "L31-q16",
+        "type": "grammar_form",
+        "sentence": "もう 終わった ことだ。今さら 後悔して （　　）よ。",
+        "options": [
+          "もかまわない",
+          "もしかたがない",
+          "おいた",
+          "しまおう"
+        ],
+        "answer": 1,
+        "explanation_ta": "'முடிந்ததைப் பற்றி இப்போது வருந்திப் பயனில்லை' = 後悔してもしかたがない. もかまわない 'செய்யலாம், பரவாயில்லை' என்ற அனுமதி — இங்கே பொருள் சரியில்லை.",
+        "explanation_en": "\"It’s over. It’s no use regretting it now\" = 後悔してもしかたがない. もかまわない gives permission (\"it’s OK to\"). The meaning doesn’t fit."
+      },
+      {
+        "id": "L31-q17",
+        "type": "grammar_form",
+        "sentence": "「この 絵、気に 入った？」「うーん、（　　）好きじゃないかな。」",
+        "options": [
+          "別に",
+          "必ず",
+          "ぜひ",
+          "きっと"
+        ],
+        "answer": 0,
+        "explanation_ta": "மறுப்புடன் வரும் மென்மையான 'பெரிதாக இல்லை' = 別に〜ない. 必ず, ぜひ, きっと ஆகியவை உடன்பாடு / விருப்பத்துடன் வரும்.",
+        "explanation_en": "A soft \"not particularly\" with a negative = 別に〜ない. 必ず, ぜひ and きっと go with positive ideas or wishes."
+      },
+      {
+        "id": "L31-q18",
+        "type": "grammar_form",
+        "sentence": "空が 急に 暗く なって きた。（　　）雨が 降るらしい。",
+        "options": [
+          "まるで",
+          "ぜひ",
+          "どうやら",
+          "たとえ"
+        ],
+        "answer": 2,
+        "explanation_ta": "வானம் இருண்டது என்ற அறிகுறியை வைத்து ஊகம் = どうやら〜らしい. まるで 'ஒப்புமை' (〜ようだ உடன்), たとえ 'என்றாலும்' (〜ても உடன்).",
+        "explanation_en": "A guess from a sign (the dark sky) = どうやら〜らしい. まるで is for \"just like\" (with ようだ). たとえ goes with 〜ても."
+      },
+      {
+        "id": "L31-q19",
+        "type": "grammar_form",
+        "sentence": "この 寺は （　　）五百年 以上 前に 建てられたのだろう。",
+        "options": [
+          "決して",
+          "少しも",
+          "まさか",
+          "おそらく"
+        ],
+        "answer": 3,
+        "explanation_ta": "முறையான ஊகம் 'பெரும்பாலும் ... இருக்கும்' = おそらく〜だろう. 決して, 少しも மறுப்புடன் வரும்; まさか 'அப்படி இருக்க முடியாது' என்ற வியப்பு.",
+        "explanation_en": "A formal guess, \"probably\" = おそらく〜だろう. 決して and 少しも need a negative. まさか means \"surely not\"."
+      },
+      {
+        "id": "L31-q20",
+        "type": "grammar_form",
+        "sentence": "雨は やむ （　　）、ますます 強く なって きた。",
+        "options": [
+          "ばかりか",
+          "どころか",
+          "かわりに",
+          "からには"
+        ],
+        "answer": 1,
+        "explanation_ta": "'மழை நிற்பதற்கு மாறாக, இன்னும் பலமானது' = やむどころか. ばかりか 'நின்றது மட்டுமல்ல' என்று பொருள் தரும் — முரண்படுகிறது.",
+        "explanation_en": "\"Far from stopping, it got stronger\" = やむどころか. ばかりか would mean \"not only did it stop\". That makes no sense."
+      },
+      {
+        "id": "L31-q21",
+        "type": "grammar_form",
+        "sentence": "隣の 部屋から 笑い声が 聞こえる。どうやら パーティーを して いる （　　）。",
+        "options": [
+          "つもりだ",
+          "はずがない",
+          "ようだ",
+          "ことだ"
+        ],
+        "answer": 2,
+        "explanation_ta": "சிரிப்புச் சத்தம் கேட்கிறது → அறிகுறியை வைத்து ஊகம் = どうやら〜ようだ. つもりだ (என் திட்டம்), はずがない (வாய்ப்பே இல்லை) பொருந்தாது.",
+        "explanation_en": "You hear laughing, so you guess from it: どうやら〜ようだ. つもりだ is your own plan. はずがない means \"can’t be\"."
+      },
+      {
+        "id": "L31-q22",
+        "type": "sentence_order",
+        "before": "弟は",
+        "chunks": [
+          "漢字",
+          "どころか",
+          "ひらがな",
+          "も"
+        ],
+        "star": 2,
+        "after": "書けない。",
+        "explanation_ta": "弟は 漢字 どころか ひらがな も 書けない (கான்ஜி இருக்கட்டும், ஹிரகானாகூட எழுதத் தெரியாது). ★ = ひらがな.",
+        "explanation_en": "弟は 漢字 どころか ひらがな も 書けない (He can’t even write hiragana, let alone kanji). ★ = ひらがな."
+      },
+      {
+        "id": "L31-q23",
+        "type": "sentence_order",
+        "before": "今さら",
+        "chunks": [
+          "文句を",
+          "言って",
+          "も",
+          "しかたがない"
+        ],
+        "star": 1,
+        "after": "でしょう。",
+        "explanation_ta": "今さら 文句を 言って も しかたがない でしょう (இப்போது குறை சொல்லிப் பயனில்லை, இல்லையா?). ★ = 言って.",
+        "explanation_en": "今さら 文句を 言って も しかたがない でしょう (Complaining now is no use, is it?). ★ = 言って."
+      },
+      {
+        "id": "L31-q24",
+        "type": "sentence_order",
+        "before": "どうやら",
+        "chunks": [
+          "この",
+          "絵は",
+          "あの 画家の",
+          "作品",
+          "らしい"
+        ],
+        "star": 3,
+        "after": "。",
+        "explanation_ta": "どうやら この 絵は あの 画家の 作品 らしい (பார்த்தால் இந்த ஓவியம் அந்த ஓவியரின் படைப்பு போலத் தெரிகிறது). ★ = 作品.",
+        "explanation_en": "どうやら この 絵は あの 画家の 作品 らしい (It seems this picture is that painter’s work). ★ = 作品."
+      },
+      {
+        "id": "L31-q25",
+        "type": "passage_cloze",
+        "passage": "先週、友達に 誘われて、有名な 画家の 展覧会に 行きました。私は 絵に ［1］興味が なかったので、あまり 期待して いませんでした。でも、行って みると、退屈 ［2］、とても 感動しました。特に 海を 描いた 一枚の 絵の 前では、長い 時間 動けませんでした。説明を 読むと、［3］その 絵は 画家が 亡くなる 前に 描いた 最後の 作品らしいです。もっと 早く 見に 来れば よかったと 思いましたが、今さら 後悔して ［4］。次の 展覧会には 必ず 行こうと 思います。",
+        "blanks": [
+          {
+            "options": [
+              "別に",
+              "まさか",
+              "おそらく",
+              "どうやら"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "ばかりか",
+              "どころか",
+              "だけでなく",
+              "うえに"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "たとえ",
+              "決して",
+              "どうやら",
+              "少しも"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "おきます",
+              "たまりません",
+              "かまいません",
+              "もしかたがありません"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ 'ஓவியத்தில் பெரிதாக ஆர்வம் இல்லை' = 別に〜なかった. ［2］ 'சலிப்பாக இருப்பதற்கு மாறாக மிகவும் நெகிழ்ந்தேன்' = 退屈どころか. ［3］ விளக்கத்தைப் படித்து ஊகம் + らしい = どうやら. ［4］ 'இப்போது வருந்திப் பயனில்லை' = 後悔してもしかたがありません. たまりません 'தாங்க முடியாத அளவு' என்ற உணர்வு; 今さら (இப்போது போய்) உடன் பொருந்தாது.",
+        "explanation_en": "[1] \"I wasn’t particularly interested\" = 別に〜なかった. [2] \"Far from boring, I was very moved\" = 退屈どころか. [3] A guess from the notice, with らしい = どうやら. [4] \"It’s no use regretting now\" = 後悔してもしかたがありません. たまりません means \"terribly\"; it doesn’t match 今さら (\"now, too late\")."
+      }
+    ]
+  }
+}

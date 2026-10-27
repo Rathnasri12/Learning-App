@@ -1,0 +1,705 @@
+{
+ "lesson": 29,
+ "title": {
+  "ja": "ルールは守るべきだ",
+  "ta": "விதிகளைப் பின்பற்ற வேண்டும்",
+  "en": "Rules should be followed"
+ },
+ "intro_en": "This lesson is about life in Japan: rubbish rules, neighbours, notices and old customs. You learn べきだ, \"you should\", and べきではない, \"you shouldn’t\". You learn ものではない, which states a social rule. You learn たものだ for happy memories: \"I used to …\". Last, you learn the short こと ending used on signs and written rules.",
+ "intro_ta": "இந்தப் பாடம் ஜப்பானிய வாழ்க்கை பற்றியது: குப்பை விதிகள், அக்கம்பக்கத்தினர், அறிவிப்புகள், பழைய வழக்கங்கள். 'செய்ய வேண்டும்' என்ற べきだ, 'செய்யக் கூடாது' என்ற べきではない ஆகியவற்றைக் கற்போம். சமூக நெறியைச் சொல்லும் ものではない, இனிய நினைவுகளைச் சொல்லும் たものだ ('முன்பு …வோம்'), அறிவிப்புப் பலகைகளிலும் எழுதப்பட்ட விதிகளிலும் வரும் சுருக்கமான こと முடிவு ஆகியவற்றையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g29-1",
+   "pattern": "V-る べきだ / V-る べきではない",
+   "name": {
+    "en": "Should / should not",
+    "ta": "~ வேண்டும் / ~ க் கூடாது"
+   },
+   "explanation_en": "べきだ says what is right to do, in your opinion or by common sense. Put the dictionary form before べきだ. For する, both するべき and すべき are used. The negative is べきではない (\"you shouldn’t\"). べきだった means \"should have\" (regret). It is stronger than ほうがいい (\"you’d better\"). Don’t use it to tell your boss what to do; it sounds rude.",
+   "explanation_ta": "சரியானது, கடமை என்று நீங்கள் கருதுவதை அல்லது பொதுவான அறிவுப்படி செய்ய வேண்டியதைச் சொல்ல べきだ பயன்படுகிறது. வினையின் அகராதி வடிவத்துக்குப் பின் べきだ சேர்க்க வேண்டும். する-வுக்கு するべき, すべき இரண்டும் சரி. எதிர்மறை べきではない ('செய்யக் கூடாது'). べきだった = 'செய்திருக்க வேண்டும்' (வருத்தம்). ほうがいい ('செய்வது நல்லது') -ஐ விட அழுத்தமானது. மேலதிகாரியிடம் 'நீங்கள் … べきです' என்று சொன்னால் மரியாதைக் குறைவாகத் தோன்றும்.",
+   "tamil_parallel": "வாக்குறுதியைக் காப்பாற்ற வேண்டும் = 約束は守るべきだ",
+   "tamil_parallel_en": "வாக்குறுதியைக் காப்பாற்ற வேண்டும் (you should keep promises) = 約束は守るべきだ",
+   "formation": "வினை (அகராதி வடிவம்) + べきだ / べきです\nவினை (அகராதி வடிவம்) + べきではない\nする → するべき / すべき\nகடந்த காலம்: べきだった (செய்திருக்க வேண்டும்)",
+   "formation_en": "verb (dictionary form) + べきだ / べきです\nverb (dictionary form) + べきではない\nする → するべき / すべき\npast: べきだった (should have)",
+   "examples": [
+    {
+     "ja": "約束は守るべきだ。",
+     "reading": "やくそくは まもる べきだ。",
+     "romaji": "yakusoku wa mamoru beki da.",
+     "ta": "வாக்குறுதியைக் காப்பாற்ற வேண்டும்.",
+     "en": "You should keep your promises."
+    },
+    {
+     "ja": "ごみは決められた日に出すべきです。",
+     "reading": "ごみは きめられた ひに だす べきです。",
+     "romaji": "gomi wa kimerareta hi ni dasu beki desu.",
+     "ta": "குப்பையை நிர்ணயித்த நாளில்தான் வெளியே வைக்க வேண்டும்.",
+     "en": "Rubbish should be put out on the set day."
+    },
+    {
+     "ja": "電車の中で、大声で電話するべきではありません。",
+     "reading": "でんしゃの なかで、おおごえで でんわ する べきでは ありません。",
+     "romaji": "densha no naka de, oogoe de denwa suru beki de wa arimasen.",
+     "ta": "ரயிலுக்குள் உரத்த குரலில் தொலைபேசியில் பேசக் கூடாது.",
+     "en": "You shouldn’t talk loudly on the phone on a train."
+    },
+    {
+     "ja": "困ったときは、一人で悩まないで、誰かに相談すべきだよ。",
+     "reading": "こまった ときは、ひとりで なやまないで、だれかに そうだん すべきだよ。",
+     "romaji": "komatta toki wa, hitori de nayamanaide, dareka ni soudan subeki da yo.",
+     "ta": "சிரமம் வந்தால் தனியாகக் கவலைப்படாமல் யாரிடமாவது ஆலோசனை கேட்க வேண்டும்.",
+     "en": "When you’re in trouble, don’t worry alone; you should talk to someone."
+    },
+    {
+     "ja": "若いうちに、いろいろな国へ行ってみるべきだと思います。",
+     "reading": "わかい うちに、いろいろな くにへ いって みる べきだと おもいます。",
+     "romaji": "wakai uchi ni, iroiro na kuni e itte miru beki da to omoimasu.",
+     "ta": "இளமையிலேயே பல நாடுகளுக்குப் போய்ப் பார்க்க வேண்டும் என்று நினைக்கிறேன்.",
+     "en": "I think you should visit many countries while you’re young."
+    },
+    {
+     "ja": "本当のことを言うべきだったのに、言えなかった。",
+     "reading": "ほんとうの ことを いう べきだったのに、いえなかった。",
+     "romaji": "hontou no koto o iu beki datta noni, ienakatta.",
+     "ta": "உண்மையைச் சொல்லியிருக்க வேண்டும், ஆனால் சொல்ல முடியவில்லை.",
+     "en": "I should have told the truth, but I couldn’t."
+    },
+    {
+     "ja": "外国人も、地域の会合に参加するべきでしょうか。",
+     "reading": "がいこくじんも、ちいきの かいごうに さんか する べきでしょうか。",
+     "romaji": "gaikokujin mo, chiiki no kaigou ni sanka suru beki deshou ka.",
+     "ta": "வெளிநாட்டவரும் பகுதிக் கூட்டங்களில் கலந்துகொள்ள வேண்டுமா?",
+     "en": "Should foreigners also take part in local meetings?"
+    }
+   ],
+   "pitfalls_en": "べき follows the dictionary form only: 守ったべき and 守らないべき are wrong. For \"should not\", say 守るべきではない. Also, はずだ (\"it should be, I expect\") is a guess, not a duty.",
+   "pitfalls_ta": "べき அகராதி வடிவத்துக்குப் பின் மட்டுமே வரும்: 守ったべき, 守らないべき தவறு. 'கூடாது' என்பதற்கு 守るべきではない. はずだ ('அப்படி இருக்கும் என்று எதிர்பார்க்கிறேன்') ஊகம்; கடமை அல்ல."
+  },
+  {
+   "id": "g29-2",
+   "pattern": "V-る ものではない",
+   "name": {
+    "en": "You shouldn’t ~ (social norm)",
+    "ta": "~ க் கூடாது (சமூக நெறி)"
+   },
+   "explanation_en": "ものではない says \"people don’t do that; it goes against good manners\". It states a general social rule, often as advice or a gentle scolding, like a parent or older person. Put the dictionary form before ものではない. In speech, もんじゃない. Compare: べきではない gives your own judgement about a case. ものではない speaks about what everyone accepts as normal. (You learned ものだ, \"it is natural\", in Lesson 27; this is its negative.)",
+   "explanation_ta": "'அப்படிச் செய்வது நாகரிகம் அல்ல, மக்கள் அப்படிச் செய்ய மாட்டார்கள்' என்ற பொதுவான சமூக நெறியைச் சொல்ல ものではない பயன்படுகிறது. பெற்றோர் அல்லது பெரியவர்கள் அறிவுரையாகவோ மென்மையாகக் கண்டிக்கவோ சொல்வது போல. வினையின் அகராதி வடிவத்துக்குப் பின் ものではない சேர்க்க வேண்டும்; பேச்சில் もんじゃない. べきではない ஒரு குறிப்பிட்ட விஷயத்தில் உங்கள் சொந்தக் கருத்தைச் சொல்லும்; ものではない எல்லோரும் ஏற்றுக்கொண்ட நெறியைச் சொல்லும். பாடம் 27-இல் கற்ற ものだ-வின் எதிர்மறை இது. தமிழில் 'பெரியவர்களை எதிர்த்துப் பேசக் கூடாது' என்பது போல.",
+   "tamil_parallel": "பிறரைப் பற்றிக் குறை சொல்லக் கூடாது = 人の悪口を言うものではない",
+   "tamil_parallel_en": "பிறரைப் பற்றிக் குறை சொல்லக் கூடாது (one shouldn’t speak ill of others) = 人の悪口を言うものではない",
+   "formation": "வினை (அகராதி வடிவம்) + ものではない\nமரியாதை: 〜ものではありません\nபேச்சு: 〜もんじゃない",
+   "formation_en": "verb (dictionary form) + ものではない\npolite: 〜ものではありません\nspoken: 〜もんじゃない",
+   "examples": [
+    {
+     "ja": "人の悪口を言うものではない。",
+     "reading": "ひとの わるくちを いう ものでは ない。",
+     "romaji": "hito no warukuchi o iu mono de wa nai.",
+     "ta": "பிறரைப் பற்றிக் குறை சொல்லக் கூடாது.",
+     "en": "You shouldn’t speak ill of others."
+    },
+    {
+     "ja": "目上の人に、そんな言葉を使うものではありません。",
+     "reading": "めうえの ひとに、そんな ことばを つかう ものでは ありません。",
+     "romaji": "meue no hito ni, sonna kotoba o tsukau mono de wa arimasen.",
+     "ta": "பெரியவர்களிடம் அப்படிப்பட்ட வார்த்தைகளைப் பயன்படுத்தக் கூடாது.",
+     "en": "You shouldn’t use words like that with your elders."
+    },
+    {
+     "ja": "食べ物を残すものではないと、祖母によく言われました。",
+     "reading": "たべものを のこす ものでは ないと、そぼに よく いわれました。",
+     "romaji": "tabemono o nokosu mono de wa nai to, sobo ni yoku iwaremashita.",
+     "ta": "உணவை வீணாக மிச்சம் வைக்கக் கூடாது என்று பாட்டி அடிக்கடி சொல்வார்.",
+     "en": "My grandmother often told me not to leave food uneaten."
+    },
+    {
+     "ja": "約束なしで、急に人の家に行くものではない。",
+     "reading": "やくそく なしで、きゅうに ひとの いえに いく ものでは ない。",
+     "romaji": "yakusoku nashi de, kyuu ni hito no ie ni iku mono de wa nai.",
+     "ta": "முன்பே சொல்லாமல் திடீரென்று பிறர் வீட்டுக்குப் போகக் கூடாது.",
+     "en": "You shouldn’t drop in on someone’s home without arranging it."
+    },
+    {
+     "ja": "子どもは、夜遅くまで外で遊ぶものではありません。",
+     "reading": "こどもは、よる おそくまで そとで あそぶ ものでは ありません。",
+     "romaji": "kodomo wa, yoru osoku made soto de asobu mono de wa arimasen.",
+     "ta": "குழந்தைகள் இரவு வெகுநேரம் வரை வெளியே விளையாடக் கூடாது.",
+     "en": "Children shouldn’t play outside until late at night."
+    },
+    {
+     "ja": "「男は泣くもんじゃない」と父は言うけど、私はそう思わない。",
+     "reading": "「おとこは なく もんじゃ ない」と ちちは いうけど、わたしは そう おもわない。",
+     "romaji": "\"otoko wa naku mon ja nai\" to chichi wa iu kedo, watashi wa sou omowanai.",
+     "ta": "\"ஆண்கள் அழக் கூடாது\" என்று அப்பா சொல்வார், ஆனால் நான் அப்படி நினைக்கவில்லை.",
+     "en": "Dad says \"men shouldn’t cry\", but I don’t think so."
+    }
+   ],
+   "pitfalls_en": "Don’t confuse it with ことはない (Lesson 27, \"there’s no need to\"). 行くことはない = you don’t need to go. 行くものではない = it’s bad manners to go.",
+   "pitfalls_ta": "பாடம் 27-இன் ことはない ('தேவையில்லை') உடன் குழப்ப வேண்டாம். 行くことはない = போகத் தேவையில்லை; 行くものではない = போவது நாகரிகம் அல்ல."
+  },
+  {
+   "id": "g29-3",
+   "pattern": "V-た ものだ",
+   "name": {
+    "en": "Used to ~ (nostalgic memory)",
+    "ta": "முன்பு ~ வோம் (இனிய நினைவு)"
+   },
+   "explanation_en": "Use た-form + ものだ to remember something you did often in the past, with feeling. It is like \"I used to …, those were the days\". Words like 昔は, 子どものころは, よく often come with it. It is only for repeated habits, not one-time events. Compare: よく〜ました is plain fact; たものだ adds warm memory.",
+   "explanation_ta": "கடந்த காலத்தில் அடிக்கடி செய்ததை ஏக்கத்தோடு நினைவுகூர た-வடிவம் + ものだ பயன்படுகிறது. தமிழில் 'சின்ன வயசுல இந்த ஆத்துல நீந்துவோம்' என்று சொல்வது போல. 昔は, 子どものころは, よく போன்ற சொற்களுடன் அதிகம் வரும். ஒருமுறை மட்டும் நடந்ததற்கு அல்ல; திரும்பத் திரும்ப நடந்த பழக்கத்துக்கு மட்டும். よく〜ました வெறும் தகவல்; たものだ அதில் இனிய நினைவைச் சேர்க்கும்.",
+   "tamil_parallel": "சிறுவயதில் இந்த ஆற்றில் அடிக்கடி நீந்துவோம் = 子どものころは、よくこの川で泳いだものだ",
+   "tamil_parallel_en": "சிறுவயதில் இந்த ஆற்றில் அடிக்கடி நீந்துவோம் (as a child I often swam in this river) = 子どものころは、よくこの川で泳いだものだ",
+   "formation": "வினை (た-வடிவம்) + ものだ / ものです\n(昔は / 子どものころは / よく உடன்)",
+   "formation_en": "verb (た-form) + ものだ / ものです\n(with 昔は / 子どものころは / よく)",
+   "examples": [
+    {
+     "ja": "子どものころは、よくこの川で泳いだものだ。",
+     "reading": "こどもの ころは、よく この かわで およいだ ものだ。",
+     "romaji": "kodomo no koro wa, yoku kono kawa de oyoida mono da.",
+     "ta": "சிறுவயதில் இந்த ஆற்றில் அடிக்கடி நீந்துவோம்.",
+     "en": "As a child, I often swam in this river."
+    },
+    {
+     "ja": "学生のころは、友だちと朝まで話したものです。",
+     "reading": "がくせいの ころは、ともだちと あさまで はなした ものです。",
+     "romaji": "gakusei no koro wa, tomodachi to asa made hanashita mono desu.",
+     "ta": "மாணவப் பருவத்தில் நண்பர்களுடன் விடியும் வரை பேசிக்கொண்டிருப்போம்.",
+     "en": "When I was a student, I used to talk with friends until morning."
+    },
+    {
+     "ja": "昔は、どの家でも、家族が居間に集まってテレビを見たものだ。",
+     "reading": "むかしは、どの いえでも、かぞくが いまに あつまって テレビを みた ものだ。",
+     "romaji": "mukashi wa, dono ie demo, kazoku ga ima ni atsumatte terebi o mita mono da.",
+     "ta": "முன்பெல்லாம் எல்லா வீடுகளிலும் குடும்பத்தினர் கூடத்தில் கூடி டிவி பார்ப்பார்கள்.",
+     "en": "In the old days, in every home the family gathered in the living room to watch TV."
+    },
+    {
+     "ja": "若いころは毎晩遅くまで働いたものだが、今はもう無理だ。",
+     "reading": "わかい ころは まいばん おそくまで はたらいた ものだが、いまは もう むりだ。",
+     "romaji": "wakai koro wa maiban osoku made hataraita mono da ga, ima wa mou muri da.",
+     "ta": "இளமையில் தினமும் இரவு வெகுநேரம் வரை உழைப்பேன்; இப்போது முடியாது.",
+     "en": "When I was young I worked late every night, but I can’t anymore."
+    },
+    {
+     "ja": "夏休みには、祖父の村へ行って、川で魚をとったものです。",
+     "reading": "なつやすみには、そふの むらへ いって、かわで さかなを とった ものです。",
+     "romaji": "natsuyasumi ni wa, sofu no mura e itte, kawa de sakana o totta mono desu.",
+     "ta": "கோடை விடுமுறையில் தாத்தாவின் கிராமத்துக்குப் போய் ஆற்றில் மீன் பிடிப்போம்.",
+     "en": "In the summer holidays, I’d go to my grandfather’s village and catch fish in the river."
+    },
+    {
+     "ja": "昔はこの辺りでも、星がよく見えたものですね。",
+     "reading": "むかしは この あたりでも、ほしが よく みえた ものですね。",
+     "romaji": "mukashi wa kono atari demo, hoshi ga yoku mieta mono desu ne.",
+     "ta": "முன்பு இந்தப் பகுதியிலும் நட்சத்திரங்கள் நன்றாகத் தெரியும், இல்லையா?",
+     "en": "Long ago, you could see the stars well even around here, couldn’t you?"
+    }
+   ],
+   "pitfalls_en": "Use the た-form. 泳ぐものだ (dictionary form) means \"it is natural to swim\", a different meaning. And don’t use it for one event: 去年一度京都へ行ったものだ is wrong.",
+   "pitfalls_ta": "た-வடிவமே வர வேண்டும்; 泳ぐものだ (அகராதி வடிவம்) என்றால் 'நீந்துவது இயல்பு' என்ற வேறு பொருள். ஒருமுறை நடந்ததற்குப் பயன்படுத்தக் கூடாது: 去年一度京都へ行ったものだ தவறு."
+  },
+  {
+   "id": "g29-4",
+   "pattern": "V-る / V-ない こと (instruction)",
+   "name": {
+    "en": "Must ~ (written rules and notices)",
+    "ta": "~ வேண்டும் / ~ க் கூடாது (எழுதப்பட்ட விதிகள்)"
+   },
+   "explanation_en": "On signs, school rules, dorm rules and teacher’s notes, a sentence often ends in こと. Dictionary form + こと = \"you must do\". ない-form + こと = \"do not\". It is short and firm, like a written order. It is used in writing, or by a teacher or boss speaking to people below them. Do not use it to a customer or a superior.",
+   "explanation_ta": "அறிவிப்புப் பலகைகள், பள்ளி விதிகள், விடுதி விதிகள், ஆசிரியர் குறிப்புகள் ஆகியவற்றில் வாக்கியம் பெரும்பாலும் こと என்று முடியும். அகராதி வடிவம் + こと = 'செய்ய வேண்டும்'; ない-வடிவம் + こと = 'செய்யக் கூடாது'. தமிழ் அறிவிப்புகளில் 'அமைதி காக்கவும்', 'புகைபிடிக்கக் கூடாது' என்பது போலச் சுருக்கமான, உறுதியான கட்டளை. எழுத்தில், அல்லது ஆசிரியர்/மேலதிகாரி கீழுள்ளவர்களிடம் சொல்லும்போது மட்டுமே பயன்படும்; வாடிக்கையாளரிடமோ மேலதிகாரியிடமோ சொல்லக் கூடாது.",
+   "tamil_parallel": "நடைபாதையில் ஓடக் கூடாது = 廊下を走らないこと",
+   "tamil_parallel_en": "நடைபாதையில் ஓடக் கூடாது (do not run in the hallway) = 廊下を走らないこと",
+   "formation": "வினை (அகராதி வடிவம்) + こと  → செய்ய வேண்டும்\nவினை (ない-வடிவம்) + こと  → செய்யக் கூடாது",
+   "formation_en": "verb (dictionary form) + こと  → must do\nverb (ない-form) + こと  → must not do",
+   "examples": [
+    {
+     "ja": "教室では、携帯電話の電源を切ること。",
+     "reading": "きょうしつでは、けいたい でんわの でんげんを きる こと。",
+     "romaji": "kyoushitsu de wa, keitai denwa no dengen o kiru koto.",
+     "ta": "வகுப்பறையில் கைபேசியை அணைத்து வைக்க வேண்டும்.",
+     "en": "Turn off your mobile phone in the classroom."
+    },
+    {
+     "ja": "ごみは、朝八時までに出すこと。",
+     "reading": "ごみは、あさ はちじまでに だす こと。",
+     "romaji": "gomi wa, asa hachiji made ni dasu koto.",
+     "ta": "குப்பையைக் காலை எட்டு மணிக்குள் வெளியே வைக்க வேண்டும்.",
+     "en": "Put out rubbish by 8 a.m."
+    },
+    {
+     "ja": "廊下を走らないこと。",
+     "reading": "ろうかを はしらない こと。",
+     "romaji": "rouka o hashiranai koto.",
+     "ta": "நடைபாதையில் ஓடக் கூடாது.",
+     "en": "Do not run in the hallway."
+    },
+    {
+     "ja": "書類には、必ず姓名を記入すること。",
+     "reading": "しょるいには、かならず せいめいを きにゅう する こと。",
+     "romaji": "shorui ni wa, kanarazu seimei o kinyuu suru koto.",
+     "ta": "ஆவணத்தில் கட்டாயம் முழுப் பெயரை எழுத வேண்டும்.",
+     "en": "Always fill in your full name on the form."
+    },
+    {
+     "ja": "夜十時以降は、大きな音を出さないこと。",
+     "reading": "よる じゅうじ いこうは、おおきな おとを ださない こと。",
+     "romaji": "yoru juuji ikou wa, ookina oto o dasanai koto.",
+     "ta": "இரவு பத்து மணிக்குப் பிறகு பெரிய சத்தம் எழுப்பக் கூடாது.",
+     "en": "No loud noise after 10 p.m."
+    },
+    {
+     "ja": "宿題は金曜日までに出すこと。忘れないこと。",
+     "reading": "しゅくだいは きんようびまでに だす こと。わすれない こと。",
+     "romaji": "shukudai wa kin'youbi made ni dasu koto. wasurenai koto.",
+     "ta": "வீட்டுப்பாடத்தை வெள்ளிக்குள் கொடுக்க வேண்டும். மறக்கக் கூடாது.",
+     "en": "Hand in your homework by Friday. Don’t forget."
+    }
+   ],
+   "pitfalls_en": "Don’t add です: 走らないことです changes it into advice (ことだ, Lesson 27). On a notice, just end with こと. And it is never polite enough for customers; shops write 〜ないでください instead.",
+   "pitfalls_ta": "です சேர்க்க வேண்டாம்: 走らないことです என்றால் அது பாடம் 27-இன் அறிவுரை வடிவம் (ことだ) ஆகிவிடும். அறிவிப்பில் こと என்றே முடிக்க வேண்டும். வாடிக்கையாளர்களுக்கு இது போதுமான மரியாதை இல்லை; கடைகள் 〜ないでください என்று எழுதும்."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0047",
+  "n3-v-0101",
+  "n3-v-0105",
+  "n3-v-0178",
+  "n3-v-0179",
+  "n3-v-0182",
+  "n3-v-0266",
+  "n3-v-0285",
+  "n3-v-0299",
+  "n3-v-0316",
+  "n3-v-0370",
+  "n3-v-0414",
+  "n3-v-0582",
+  "n3-v-0607",
+  "n3-v-0718",
+  "n3-v-0757",
+  "n3-v-0768",
+  "n3-v-0771",
+  "n3-v-0828",
+  "n3-v-0855",
+  "n3-v-0942",
+  "n3-v-0970",
+  "n3-v-1002",
+  "n3-v-1057",
+  "n3-v-1063",
+  "n3-v-1098",
+  "n3-v-1115",
+  "n3-v-1120",
+  "n3-v-1175",
+  "n3-v-1178",
+  "n3-v-1196",
+  "n3-v-1243",
+  "n3-v-1251",
+  "n3-v-1259",
+  "n3-v-1264",
+  "n3-v-1282",
+  "n3-v-1339",
+  "n3-v-1391",
+  "n3-v-1479",
+  "n3-v-1753",
+  "n3-v-1786",
+  "n3-v-1787",
+  "n3-v-1878",
+  "n3-v-1945",
+  "n3-v-1962",
+  "n3-v-2016",
+  "n3-v-2033",
+  "n3-v-2041",
+  "n3-v-2051",
+  "n3-v-2138"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L29-q01",
+    "type": "kanji_reading",
+    "sentence": "この 公園では、ボール遊びは ＿禁止＿です。",
+    "target": "禁止",
+    "options": [
+     "きんじ",
+     "きんし",
+     "ぎんし",
+     "こんし"
+    ],
+    "answer": 1,
+    "explanation_ta": "禁止 = きんし (தடை). 止 இங்கு し, じ அல்ல. 禁 = きん (禁煙 = きんえん போல).",
+    "explanation_en": "禁止 is read きんし (ban). 止 is し here, not じ. 禁 is きん, as in 禁煙 (きんえん)."
+   },
+   {
+    "id": "L29-q02",
+    "type": "kanji_reading",
+    "sentence": "ここに 名前と 住所を ＿記入＿して ください。",
+    "target": "記入",
+    "options": [
+     "きにゅう",
+     "きいれ",
+     "きにゅ",
+     "きじゅう"
+    ],
+    "answer": 0,
+    "explanation_ta": "記入 = きにゅう (படிவத்தில் எழுதுதல்). 入 இங்கு にゅう (入学 = にゅうがく போல). きいれ என்பது கான்ஜியின் ஜப்பானிய வாசிப்பைக் கலப்பது; きにゅ நீண்ட ஒலி இல்லை.",
+    "explanation_en": "記入 is read きにゅう (filling in). 入 is にゅう here, as in 入学. きいれ mixes readings; きにゅ is missing the long sound."
+   },
+   {
+    "id": "L29-q03",
+    "type": "kanji_reading",
+    "sentence": "台風で 家の ＿屋根＿が 壊れました。",
+    "target": "屋根",
+    "options": [
+     "おくね",
+     "やこん",
+     "やね",
+     "いえね"
+    ],
+    "answer": 2,
+    "explanation_ta": "屋根 = やね (கூரை). இது சிறப்பு வாசிப்பு: 屋 = や (本屋 = ほんや போல), 根 = ね. おくね, やこん தவறு.",
+    "explanation_en": "屋根 is read やね (roof). 屋 is や (as in 本屋), 根 is ね. おくね and やこん are wrong."
+   },
+   {
+    "id": "L29-q04",
+    "type": "orthography",
+    "sentence": "旅行の 間、犬を ＿あずかって＿ もらいました。",
+    "target": "あずかって",
+    "options": [
+     "預って",
+     "予かって",
+     "頂かって",
+     "預かって"
+    ],
+    "answer": 3,
+    "explanation_ta": "あずかる = 預かる; ஒக்குரிகானா 'か' சேர்த்தே எழுத வேண்டும்: 預かって. 預って-இல் か இல்லை. 予 = முன்கூட்டியே, 頂 = உச்சி/பெறுதல் (頂く).",
+    "explanation_en": "あずかる is written 預かる, with か after the kanji: 預かって. 預って drops the か. 予 means \"before\", 頂 is in 頂く."
+   },
+   {
+    "id": "L29-q05",
+    "type": "orthography",
+    "sentence": "駅の 前は ＿ちゅうしゃ＿ 禁止です。",
+    "target": "ちゅうしゃ",
+    "options": [
+     "注車",
+     "駐車",
+     "駐者",
+     "柱車"
+    ],
+    "answer": 1,
+    "explanation_ta": "ちゅうしゃ (வாகனம் நிறுத்துதல்) = 駐車. 駐 = நிறுத்தி வைத்தல் (குதிரை 馬 உறுப்பு), 車 = வண்டி. 注射 (ஊசி) என்ற சொல்லும் ちゅうしゃ தான்; 注 இங்கு பொருந்தாது. 者 = நபர்.",
+    "explanation_en": "ちゅうしゃ (parking) is 駐車: 駐 = to stop and stay, 車 = car. 注射 (injection) is also ちゅうしゃ, but 注 is wrong here. 者 = person."
+   },
+   {
+    "id": "L29-q06",
+    "type": "vocab_context",
+    "sentence": "ごみは 燃える ごみと 燃えない ごみに （　　） ください。",
+    "options": [
+     "離して",
+     "放して",
+     "分けて",
+     "掃いて"
+    ],
+    "answer": 2,
+    "explanation_ta": "இரண்டு வகையாகப் பிரிப்பது = AとBに分ける. 離す = விலக்கி வைத்தல், 放す = விடுவித்தல், 掃く = பெருக்குதல்.",
+    "explanation_en": "Sorting into two kinds = AとBに分ける. 離す = keep apart, 放す = let go, 掃く = sweep."
+   },
+   {
+    "id": "L29-q07",
+    "type": "vocab_context",
+    "sentence": "この ルールには （　　）が ありません。だれでも 守らなければ なりません。",
+    "options": [
+     "例外",
+     "限界",
+     "規制",
+     "許可"
+    ],
+    "answer": 0,
+    "explanation_ta": "'எல்லோரும் கடைப்பிடிக்க வேண்டும்' → 'விதிவிலக்கு இல்லை' = 例外がない. 限界 = எல்லை, 規制 = கட்டுப்பாடு, 許可 = அனுமதி.",
+    "explanation_en": "\"Everyone must follow it\" → \"no exceptions\" = 例外がない. 限界 = limit, 規制 = regulation, 許可 = permission."
+   },
+   {
+    "id": "L29-q08",
+    "type": "vocab_context",
+    "sentence": "運転（　　）を 持って いないので、車は 運転できません。",
+    "options": [
+     "許可",
+     "書類",
+     "印",
+     "免許"
+    ],
+    "answer": 3,
+    "explanation_ta": "ஓட்டுநர் உரிமம் = 運転免許. 許可 = அனுமதி (பொதுவானது), 書類 = ஆவணங்கள், 印 = குறி. 運転許可 என்று சொல்வதில்லை.",
+    "explanation_en": "A driving licence = 運転免許. 許可 is general permission, 書類 = papers, 印 = a mark. We don’t say 運転許可."
+   },
+   {
+    "id": "L29-q09",
+    "type": "vocab_context",
+    "sentence": "長い 間 使って いない 本棚に （　　）が たまって います。",
+    "options": [
+     "列",
+     "ほこり",
+     "屋根",
+     "毛布"
+    ],
+    "answer": 1,
+    "explanation_ta": "நீண்ட நாள் பயன்படுத்தாத அலமாரியில் தூசி படியும்: ほこりがたまる. 列 = வரிசை, 屋根 = கூரை, 毛布 = கம்பளி.",
+    "explanation_en": "Dust builds up on an unused shelf: ほこりがたまる. 列 = line, 屋根 = roof, 毛布 = blanket."
+   },
+   {
+    "id": "L29-q10",
+    "type": "vocab_context",
+    "sentence": "みんなが バス停で きちんと （　　）に 並んで います。",
+    "options": [
+     "印",
+     "合図",
+     "列",
+     "間"
+    ],
+    "answer": 2,
+    "explanation_ta": "வரிசையில் நிற்பது = 列に並ぶ. 印 = குறி, 合図 = சைகை, 間 = அறை/இடைவெளி.",
+    "explanation_en": "Standing in a queue = 列に並ぶ. 印 = mark, 合図 = signal, 間 = room or space."
+   },
+   {
+    "id": "L29-q11",
+    "type": "paraphrase",
+    "sentence": "ここで たばこを 吸っては いけません。",
+    "options": [
+     "ここで たばこを 売って います。",
+     "ここで たばこを 吸っても いいです。",
+     "ここには 灰皿が あります。",
+     "ここは 禁煙です。"
+    ],
+    "answer": 3,
+    "explanation_ta": "吸ってはいけません = புகைபிடிக்கக் கூடாது = 禁煙. 吸ってもいいです என்பது நேர் எதிர் ('பிடிக்கலாம்').",
+    "explanation_en": "吸ってはいけません = no smoking = 禁煙. 吸ってもいいです is the opposite (\"you may smoke\")."
+   },
+   {
+    "id": "L29-q12",
+    "type": "paraphrase",
+    "sentence": "若い ころは、よく 夜中まで 友だちと 遊んだ ものだ。",
+    "options": [
+     "若い ころは、よく 夜中まで 友だちと 遊んで いた。",
+     "若い ころは、夜中まで 友だちと 遊ぶ べきだった。",
+     "若い ころは、夜中まで 友だちと 遊んでは いけなかった。",
+     "若い ころは、夜中まで 友だちと 遊んだ ことが ない。"
+    ],
+    "answer": 0,
+    "explanation_ta": "遊んだものだ = முன்பு அடிக்கடி விளையாடுவோம் = よく遊んでいた. べきだった = 'செய்திருக்க வேண்டும்' (வருத்தம்); ものだ-வுக்கு 'கடமை' பொருள் இல்லை இங்கே.",
+    "explanation_en": "遊んだものだ = I often used to play = よく遊んでいた. べきだった = \"should have\" (regret), a different idea."
+   },
+   {
+    "id": "L29-q13",
+    "type": "usage",
+    "sentence": "守る",
+    "options": [
+     "駅で 友だちを 三十分 守りました。",
+     "約束の 時間は ちゃんと 守って ください。",
+     "毎朝 薬を 守って います。",
+     "冷蔵庫に 野菜を 守りました。"
+    ],
+    "answer": 1,
+    "explanation_ta": "守る = (விதி, நேரம், வாக்குறுதியை) கடைப்பிடித்தல்/காத்தல்: 時間を守る. நண்பருக்காகக் காத்திருப்பது 待つ, மருந்து சாப்பிடுவது 飲む, காய்கறி வைப்பது 入れる.",
+    "explanation_en": "守る = to keep (rules, time, promises) or protect: 時間を守る. Waiting for a friend is 待つ, taking medicine is 飲む, putting vegetables away is 入れる."
+   },
+   {
+    "id": "L29-q14",
+    "type": "usage",
+    "sentence": "許す",
+    "options": [
+     "母は、私が 一人で 旅行する ことを 許して くれた。",
+     "電車が 遅れて、会議に 許しました。",
+     "この 店は 夜 十時まで 許して います。",
+     "友だちに 本を 許しました。"
+    ],
+    "answer": 0,
+    "explanation_ta": "許す = அனுமதித்தல்/மன்னித்தல்: 旅行することを許す. தாமதமாவது 遅れる, கடை திறந்திருப்பது 開いている, புத்தகம் இரவல் கொடுப்பது 貸す.",
+    "explanation_en": "許す = to allow or forgive: 旅行することを許す. Being late is 遅れる, a shop being open is 開いている, lending a book is 貸す."
+   },
+   {
+    "id": "L29-q15",
+    "type": "grammar_form",
+    "sentence": "約束は 守る （　　）だ。",
+    "options": [
+     "はず",
+     "べき",
+     "わけ",
+     "ところ"
+    ],
+    "answer": 1,
+    "explanation_ta": "'வாக்குறுதியைக் காப்பாற்ற வேண்டும்' (கடமை) = 守るべきだ. はずだ = 'அப்படி இருக்கும் என்று எதிர்பார்க்கிறேன்' (ஊகம்); கடமை அல்ல.",
+    "explanation_en": "\"You should keep promises\" (duty) = 守るべきだ. はずだ = \"I expect it to be so\", a guess, not a duty."
+   },
+   {
+    "id": "L29-q16",
+    "type": "grammar_form",
+    "sentence": "人の 悪口を 言う （　　）。",
+    "options": [
+     "ことは ない",
+     "わけでは ない",
+     "ものでは ない",
+     "しか ない"
+    ],
+    "answer": 2,
+    "explanation_ta": "சமூக நெறி 'பிறரைக் குறை சொல்லக் கூடாது' = 言うものではない. ことはない = 'சொல்லத் தேவையில்லை'; நெறியைச் சொல்லாது. しかない = 'வேறு வழியில்லை'.",
+    "explanation_en": "Social rule \"don’t speak ill of others\" = 言うものではない. ことはない = \"no need to\"; しかない = \"no choice but\"."
+   },
+   {
+    "id": "L29-q17",
+    "type": "grammar_form",
+    "sentence": "子どもの ころは、毎日 暗く なるまで 外で 遊んだ （　　）。",
+    "options": [
+     "べきだ",
+     "ことだ",
+     "ものでは ない",
+     "ものだ"
+    ],
+    "answer": 3,
+    "explanation_ta": "子どものころ + 遊んだ + ものだ = இனிய பழைய நினைவு ('விளையாடுவோம்'). べきだ, ことだ, ものではない ஆகியவை た-வடிவத்துக்குப் பின் இப்படி வராது.",
+    "explanation_en": "子どものころ + 遊んだ + ものだ = a warm memory (\"we used to play\"). べきだ, ことだ and ものではない don’t follow the た-form like this."
+   },
+   {
+    "id": "L29-q18",
+    "type": "grammar_form",
+    "sentence": "【注意】部屋の 中で たばこを 吸わない （　　）。",
+    "options": [
+     "こと",
+     "もの",
+     "べき",
+     "はず"
+    ],
+    "answer": 0,
+    "explanation_ta": "அறிவிப்பில் 'செய்யக் கூடாது' = ない-வடிவம் + こと. 吸わないべき என்பது தவறு (べき அகராதி வடிவத்துக்குப் பின்தான்). もの, はず பொருந்தாது.",
+    "explanation_en": "On a notice, \"do not\" = ない-form + こと. 吸わないべき is wrong (べき needs the dictionary form)."
+   },
+   {
+    "id": "L29-q19",
+    "type": "grammar_form",
+    "sentence": "試験の 前は 遊んで ばかり いないで、もっと 勉強（　　）だった。",
+    "options": [
+     "しべき",
+     "すべき",
+     "したべき",
+     "するもの"
+    ],
+    "answer": 1,
+    "explanation_ta": "勉強する + べき = 勉強すべき (அல்லது するべき). べきだった = 'படித்திருக்க வேண்டும்' (வருத்தம்). しべき, したべき என்ற வடிவங்கள் இல்லை.",
+    "explanation_en": "勉強する + べき = 勉強すべき (or するべき). べきだった = \"I should have studied\". しべき and したべき don’t exist."
+   },
+   {
+    "id": "L29-q20",
+    "type": "grammar_form",
+    "sentence": "お年寄りに、そんな 失礼な ことを （　　）ものでは ありません。",
+    "options": [
+     "言った",
+     "言って",
+     "言う",
+     "言わない"
+    ],
+    "answer": 2,
+    "explanation_ta": "ものではない-க்கு முன் அகராதி வடிவம்: 言うものではありません ('சொல்லக் கூடாது'). 言ったものでは என்றால் 'நினைவு' பொருளுடன் குழம்பும்; 言わない சேர்த்தால் இரட்டை எதிர்மறையாகி பொருள் மாறும்.",
+    "explanation_en": "Before ものではない use the dictionary form: 言うものではありません. 言った mixes in the \"memory\" pattern; 言わない makes a double negative."
+   },
+   {
+    "id": "L29-q21",
+    "type": "grammar_form",
+    "sentence": "昔は、この 川で よく 子どもたちが （　　）ものだ。",
+    "options": [
+     "泳ぐ",
+     "泳ごう",
+     "泳げ",
+     "泳いだ"
+    ],
+    "answer": 3,
+    "explanation_ta": "昔は + よく → பழைய நினைவு: た-வடிவம் + ものだ = 泳いだものだ. 泳ぐものだ என்றால் 'நீந்துவது இயல்பு' என்ற பொது உண்மை; இங்கே 昔は இருப்பதால் பொருந்தாது.",
+    "explanation_en": "昔は + よく → a memory: た-form + ものだ = 泳いだものだ. 泳ぐものだ means \"it’s natural to swim\", which doesn’t fit with 昔は."
+   },
+   {
+    "id": "L29-q22",
+    "type": "sentence_order",
+    "before": "ごみは",
+    "chunks": [
+     "決められた",
+     "日の",
+     "朝に",
+     "出す"
+    ],
+    "star": 1,
+    "after": "こと。",
+    "explanation_ta": "決められた (நிர்ணயிக்கப்பட்ட) → 日の (நாளின்) → 朝に (காலையில்) → 出す こと (வெளியே வைக்க வேண்டும்). ★ = 日の.",
+    "explanation_en": "決められた (set) → 日の (day’s) → 朝に (in the morning) → 出す こと (must put out). ★ = 日の."
+   },
+   {
+    "id": "L29-q23",
+    "type": "sentence_order",
+    "before": "電車の 中では、",
+    "chunks": [
+     "大きな",
+     "声で",
+     "話す",
+     "べきでは"
+    ],
+    "star": 2,
+    "after": "ありません。",
+    "explanation_ta": "大きな声で (உரத்த குரலில்) → 話す (பேசுவது) → べきではありません (கூடாது). ★ = 話す. べき-க்கு முன் அகராதி வடிவ வினை.",
+    "explanation_en": "大きな 声で (in a loud voice) → 話す (talk) → べきでは ありません (shouldn’t). ★ = 話す. A dictionary-form verb comes before べき."
+   },
+   {
+    "id": "L29-q24",
+    "type": "sentence_order",
+    "before": "学生の ころは、よく",
+    "chunks": [
+     "この",
+     "店で",
+     "ラーメンを",
+     "食べた"
+    ],
+    "star": 1,
+    "after": "ものだ。",
+    "explanation_ta": "この店で (இந்தக் கடையில்) → ラーメンを → 食べたものだ (சாப்பிடுவோம்). ★ = 店で.",
+    "explanation_en": "この 店で (at this shop) → ラーメンを → 食べた ものだ (used to eat). ★ = 店で."
+   },
+   {
+    "id": "L29-q25",
+    "type": "passage_cloze",
+    "passage": "日本に 来て、最初に 驚いたのは ごみの ルールでした。ごみは 燃える ごみと 燃えない ごみに 分けて、決められた 日の 朝に 出さなければ なりません。アパートの 掲示板には「ごみは 朝 八時までに 出す［1］」と 書いて あります。大家さんにも「ルールは ちゃんと 守る［2］ですよ」と 言われました。最初は 面倒だと 思いましたが、近所の おばあさんが「昔は この 辺りも ごみだらけで、よく みんなで 掃除した［3］よ」と 話して くれました。それを 聞いて、ルールを 守らない 人を 見ても、すぐ 怒る［4］と 思うように なりました。",
+    "blanks": [
+     {
+      "options": [
+       "もの",
+       "こと",
+       "はず",
+       "べき"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "わけ",
+       "はず",
+       "ところ",
+       "べき"
+      ],
+      "answer": 3
+     },
+     {
+      "options": [
+       "ものだ",
+       "ものではない",
+       "べきだ",
+       "ことだ"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "べきだ",
+       "ものではない",
+       "ものだ",
+       "しかない"
+      ],
+      "answer": 1
+     }
+    ],
+    "explanation_ta": "［1］ அறிவிப்புப் பலகையின் விதி = 出すこと. ［2］ 'விதிகளைக் கடைப்பிடிக்க வேண்டும்' = 守るべきです; はず ஊகம் மட்டுமே. ［3］ பாட்டியின் பழைய நினைவு = 掃除したものだ. ［4］ 'உடனே கோபப்படக் கூடாது' (பொது நெறி) = 怒るものではない. べきだ என்றால் 'கோபப்பட வேண்டும்' என்று நேர் எதிர்ப் பொருள் வரும்.",
+    "explanation_en": "[1] A rule on a notice board = 出すこと. [2] \"You should follow the rules\" = 守るべきです; はず is only a guess. [3] The old woman’s memory = 掃除したものだ. [4] \"One shouldn’t get angry right away\" = 怒るものではない. べきだ would mean \"you should get angry\"."
+   }
+  ]
+ }
+}

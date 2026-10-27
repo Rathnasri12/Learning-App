@@ -1,0 +1,429 @@
+{
+  "unit": 7,
+  "title": { "en": "Life, luck and polite words", "ta": "வாழ்க்கை, அதிர்ஷ்டம், மரியாதைச் சொற்கள்" },
+  "intro": {
+    "en": "In this unit you will learn thirteen kanji about life and good fortune, winning and losing, nature (leaves, falling, deep water) and polite words like 申す and 〜様. Look for the grass 艹 on top of 葉 and 落, and water 氵 on the left of 落 and 深.",
+    "ta": "இந்தப் பிரிவில் வாழ்க்கை, நல்ல அதிர்ஷ்டம், வெற்றி தோல்வி, இயற்கை (இலைகள், விழுதல், ஆழமான நீர்), 申す, 〜様 போன்ற மரியாதைச் சொற்கள் பற்றிய பதின்மூன்று கான்ஜிகளைக் கற்போம். 葉, 落 மேலே உள்ள புல் 艹-ஐயும், 落, 深 இடப்பக்கம் உள்ள தண்ணீர் 氵-ஐயும் கவனியுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "追",
+      "meaning": { "en": "to chase", "ta": "துரத்து" },
+      "on": ["つい"],
+      "kun": ["お.う"],
+      "mnemonic": {
+        "en": "The road (辶, as in 道 and 近) carries a pile of army supplies (𠂤, like a stack of buns). Soldiers run down the road after the supply cart: they chase it!",
+        "ta": "சாலையில் (辶, 道, 近-இல் உள்ளது போல) ஒரு படையின் பொருள் அடுக்கு (𠂤, அடுக்கிய பன் போல) போகிறது. வீரர்கள் அந்த வண்டியின் பின்னால் சாலையில் ஓடுகிறார்கள்: துரத்துகிறார்கள்!"
+      },
+      "note": {
+        "en": "Don’t mix up 追 with 送 (to send), which also has 辶. 追う (おう) sounds like 負う (to carry on your back).",
+        "ta": "辶 உள்ள 送 (அனுப்பு) உடன் 追-ஐக் குழப்ப வேண்டாம். 追う (おう), 負う (முதுகில் சுமை) இரண்டும் ஒரே ஒலி."
+      },
+      "examples": [
+        { "word": "追う", "reading": "おう", "en": "to chase, to run after", "ta": "துரத்து, பின்னால் ஓடு", "vocabId": "n3-v-0489" },
+        { "word": "追い付く", "reading": "おいつく", "en": "to catch up with", "ta": "பிடித்துவிடு, எட்டிப்பிடி", "vocabId": "n3-v-0487" },
+        { "word": "追加", "reading": "ついか", "en": "addition, extra", "ta": "கூடுதல், சேர்ப்பு" }
+      ]
+    },
+    {
+      "kanji": "商",
+      "meaning": { "en": "trade, business", "ta": "வணிகம், வியாபாரம்" },
+      "on": ["しょう"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The top looks like 立 (stand). Below is a market stall with goods (八) and a mouth (口). The seller stands at his stall and shouts: “Fresh mangoes! Come and buy!” That is trade.",
+        "ta": "மேல்பகுதி 立 (நில்) போலத் தெரியும். கீழே பொருள்கள் (八) உள்ள ஒரு சந்தைக் கடையும் ஒரு வாயும் (口). வியாபாரி தன் கடையில் நின்று கூவுகிறார்: “புது மாம்பழம்! வாங்க வாங்க!” இதுதான் வணிகம்."
+      },
+      "note": {
+        "en": "商 is always しょう (long). 商売 (しょうばい) = business; 商品 (しょうひん) = goods for sale.",
+        "ta": "商 எப்போதும் しょう (நீண்ட ஒலி). 商売 (しょうばい) = வியாபாரம்; 商品 (しょうひん) = விற்பனைப் பொருள்கள்."
+      },
+      "examples": [
+        { "word": "商品", "reading": "しょうひん", "en": "goods, product", "ta": "விற்பனைப் பொருள்", "vocabId": "n3-v-0154" },
+        { "word": "商売", "reading": "しょうばい", "en": "business, trade", "ta": "வியாபாரம்", "vocabId": "n3-v-0152" },
+        { "word": "商人", "reading": "しょうにん", "en": "merchant, trader", "ta": "வியாபாரி", "vocabId": "n3-v-0149" },
+        { "word": "商店", "reading": "しょうてん", "en": "shop, store", "ta": "கடை" }
+      ]
+    },
+    {
+      "kanji": "葉",
+      "meaning": { "en": "leaf", "ta": "இலை" },
+      "on": ["よう"],
+      "kun": ["は"],
+      "mnemonic": {
+        "en": "Grass (艹) on top, the world (世) in the middle, and a tree (木) at the bottom. All the trees in the world are covered with green leaves.",
+        "ta": "மேலே புல் (艹), நடுவில் உலகம் (世), கீழே மரம் (木). உலகத்தின் எல்லா மரங்களும் பச்சை இலைகளால் மூடப்பட்டிருக்கின்றன."
+      },
+      "note": {
+        "en": "は becomes ば after another word: 言葉 (ことば, word). 葉書 (はがき) = postcard: in old times people wrote on leaves.",
+        "ta": "வேறு சொல்லுக்குப் பின் は, ば ஆகும்: 言葉 (ことば, சொல்). 葉書 (はがき) = அஞ்சல் அட்டை: பழங்காலத்தில் இலைகளில் எழுதினார்கள், நம் பனையோலைச் சுவடி போல."
+      },
+      "examples": [
+        { "word": "葉", "reading": "は", "en": "leaf", "ta": "இலை", "vocabId": "n4-v-081" },
+        { "word": "言葉", "reading": "ことば", "en": "word; language", "ta": "சொல்; மொழி", "vocabId": "n5-v-262" },
+        { "word": "葉書", "reading": "はがき", "en": "postcard", "ta": "அஞ்சல் அட்டை", "vocabId": "n5-v-523" }
+      ]
+    },
+    {
+      "kanji": "落",
+      "meaning": { "en": "to fall, to drop", "ta": "விழு, கீழே போடு" },
+      "on": ["らく"],
+      "kun": ["お.ちる", "お.とす"],
+      "mnemonic": {
+        "en": "Grass and leaves (艹) on top, water (氵) on the left, and 各 (each) below. In autumn, each leaf falls from the tree and drops into the water.",
+        "ta": "மேலே புல்லும் இலைகளும் (艹), இடப்பக்கம் தண்ணீர் (氵), கீழே 各 (ஒவ்வொன்றும்). இலையுதிர் காலத்தில் ஒவ்வொரு இலையும் மரத்திலிருந்து விழுந்து தண்ணீரில் விழுகிறது."
+      },
+      "note": {
+        "en": "落ちる (おちる) = to fall (by itself); 落とす (おとす) = to drop, to lose something. 落とし物 = a lost item.",
+        "ta": "落ちる (おちる) = (தானே) விழு; 落とす (おとす) = ஒன்றைக் கீழே போடு, தொலை. 落とし物 = தொலைந்த பொருள்."
+      },
+      "examples": [
+        { "word": "落ちる", "reading": "おちる", "en": "to fall, to drop", "ta": "விழு", "vocabId": "n4-v-098" },
+        { "word": "落とす", "reading": "おとす", "en": "to drop; to lose", "ta": "கீழே போடு; தொலை", "vocabId": "n4-v-554" },
+        { "word": "落とし物", "reading": "おとしもの", "en": "lost item", "ta": "தொலைந்த பொருள்" },
+        { "word": "落語", "reading": "らくご", "en": "rakugo (comic storytelling)", "ta": "ராகுகோ (நகைச்சுவைக் கதை சொல்லல்)" }
+      ]
+    },
+    {
+      "kanji": "負",
+      "meaning": { "en": "to lose; to carry", "ta": "தோல்; சுமை" },
+      "on": ["ふ"],
+      "kun": ["ま.ける", "お.う"],
+      "mnemonic": {
+        "en": "A person bent over (ク) carries a big shell (貝, the money shell in 買う) on his back. He lost the game and must pay the money. Heavy!",
+        "ta": "குனிந்த ஒருவர் (ク) முதுகில் பெரிய சிப்பியைச் (貝, 買う-இல் உள்ள பணச் சிப்பி) சுமக்கிறார். அவர் போட்டியில் தோற்றார்; பணம் கட்ட வேண்டும். கனமானது!"
+      },
+      "note": {
+        "en": "負ける (まける) = to lose, the opposite of 勝つ (to win). Together: 勝負 (しょうぶ, a match).",
+        "ta": "負ける (まける) = தோல்; 勝つ (வெல்)-இன் எதிர்ச்சொல். இரண்டும் சேர்ந்தால்: 勝負 (しょうぶ, போட்டி)."
+      },
+      "examples": [
+        { "word": "負ける", "reading": "まける", "en": "to lose (a game)", "ta": "தோல் (போட்டியில்)", "vocabId": "n4-v-469" },
+        { "word": "負け", "reading": "まけ", "en": "defeat, loss", "ta": "தோல்வி", "vocabId": "n3-v-1973" },
+        { "word": "負う", "reading": "おう", "en": "to carry on one’s back; to take on", "ta": "முதுகில் சுமை; பொறுப்பேற்று", "vocabId": "n3-v-1230" },
+        { "word": "勝負", "reading": "しょうぶ", "en": "match, contest", "ta": "போட்டி" }
+      ]
+    },
+    {
+      "kanji": "守",
+      "meaning": { "en": "to protect; to keep (a rule)", "ta": "காப்பாற்று; (விதியை) கடைப்பிடி" },
+      "on": ["しゅ", "す"],
+      "kun": ["まも.る"],
+      "mnemonic": {
+        "en": "A roof (宀) and a hand (寸) under it. A guard keeps his hand on the house all night: he protects it.",
+        "ta": "ஒரு கூரை (宀), அதன் கீழே ஒரு கை (寸). காவலர் இரவு முழுதும் வீட்டின் மேல் கை வைத்திருக்கிறார்: அதைக் காக்கிறார்."
+      },
+      "note": {
+        "en": "守る also means to keep a promise or a rule: やくそくを 守る. In 留守 (るす, not at home) it is read す.",
+        "ta": "守る = வாக்குறுதி அல்லது விதியைக் கடைப்பிடித்தல் என்றும் பொருள்: やくそくを 守る. 留守 (るす, வீட்டில் இல்லை)-இல் す."
+      },
+      "examples": [
+        { "word": "守る", "reading": "まもる", "en": "to protect; to keep (a rule)", "ta": "காப்பாற்று; கடைப்பிடி", "vocabId": "n3-v-1002" },
+        { "word": "留守", "reading": "るす", "en": "being away from home", "ta": "வீட்டில் இல்லாமை", "vocabId": "n4-v-487" },
+        { "word": "お守り", "reading": "おまもり", "en": "lucky charm", "ta": "காப்புத் தாயத்து" }
+      ]
+    },
+    {
+      "kanji": "美",
+      "meaning": { "en": "beautiful", "ta": "அழகான" },
+      "on": ["び"],
+      "kun": ["うつく.しい"],
+      "mnemonic": {
+        "en": "A sheep with horns (羊) on top of 大 (big). For old farmers, a big, fat sheep was the most beautiful thing in the world.",
+        "ta": "கொம்புள்ள ஆடு (羊) 大 (பெரிய)-இன் மேல். பழங்கால விவசாயிகளுக்குப் பெரிய, கொழுத்த ஆடுதான் உலகிலேயே அழகான பொருள்."
+      },
+      "note": {
+        "en": "Special: 美味しい (おいしい, delicious), usually written in kana. 美しい is long: うつくしい.",
+        "ta": "சிறப்பு: 美味しい (おいしい, சுவையான); பொதுவாகக் கானாவில் எழுதுவார்கள். 美しい நீளமானது: うつくしい."
+      },
+      "examples": [
+        { "word": "美しい", "reading": "うつくしい", "en": "beautiful", "ta": "அழகான", "vocabId": "n4-v-197" },
+        { "word": "美人", "reading": "びじん", "en": "beautiful woman", "ta": "அழகான பெண்", "vocabId": "n3-v-1818" },
+        { "word": "美術館", "reading": "びじゅつかん", "en": "art museum", "ta": "கலை அருங்காட்சியகம்", "vocabId": "n4-v-205" },
+        { "word": "美味しい", "reading": "おいしい", "en": "delicious", "ta": "சுவையான", "vocabId": "n5-v-097" }
+      ]
+    },
+    {
+      "kanji": "命",
+      "meaning": { "en": "life; order", "ta": "உயிர்; கட்டளை" },
+      "on": ["めい"],
+      "kun": ["いのち"],
+      "mnemonic": {
+        "en": "Under a big roof (𠆢), a mouth (口) gives an order, and a person kneels (卩) to obey. The king’s order can decide your life.",
+        "ta": "பெரிய கூரையின் (𠆢) கீழே ஒரு வாய் (口) கட்டளை இடுகிறது; ஒருவர் மண்டியிட்டு (卩) கீழ்ப்படிகிறார். அரசனின் கட்டளை உங்கள் உயிரையே தீர்மானிக்கும்."
+      },
+      "note": {
+        "en": "Alone, 命 is いのち (life). In words it is めい: 生命 (せいめい), 運命 (うんめい). 一生懸命 (いっしょうけんめい) = with all your effort.",
+        "ta": "தனியாக 命 = いのち (உயிர்). சொற்களில் めい: 生命 (せいめい), 運命 (うんめい). 一生懸命 (いっしょうけんめい) = முழு முயற்சியுடன்."
+      },
+      "examples": [
+        { "word": "命", "reading": "いのち", "en": "life", "ta": "உயிர்", "vocabId": "n3-v-0411" },
+        { "word": "生命", "reading": "せいめい", "en": "life", "ta": "உயிர், வாழ்வு", "vocabId": "n3-v-0284" },
+        { "word": "運命", "reading": "うんめい", "en": "fate, destiny", "ta": "விதி" },
+        { "word": "命じる", "reading": "めいじる", "en": "to order, to command", "ta": "கட்டளையிடு", "vocabId": "n3-v-1047" }
+      ]
+    },
+    {
+      "kanji": "福",
+      "meaning": { "en": "good fortune", "ta": "நல்ல அதிர்ஷ்டம், பாக்கியம்" },
+      "on": ["ふく"],
+      "kun": [],
+      "mnemonic": {
+        "en": "The altar (礻, as in 神 and 社) on the left. On the right: one roof (一), a mouth (口) and a full rice field (田). Pray at the altar, and you get a full field and every mouth is fed. Good fortune!",
+        "ta": "இடப்பக்கம் பலிபீடம் (礻, 神, 社-இல் உள்ளது போல). வலப்பக்கம்: ஒரு கூரை (一), ஒரு வாய் (口), நிறைந்த வயல் (田). பலிபீடத்தில் வேண்டினால் வயல் நிறையும்; எல்லா வாய்க்கும் உணவு கிடைக்கும். பாக்கியம்!"
+      },
+      "note": {
+        "en": "福 has the altar 礻 (four strokes, like 神). Don’t mix it up with 副 (sub-), which has a knife 刂 on the right.",
+        "ta": "福-இல் பலிபீடம் 礻 (神 போல நான்கு கோடுகள்). வலப்பக்கம் கத்தி 刂 உள்ள 副 (துணை) உடன் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "幸福", "reading": "こうふく", "en": "happiness", "ta": "மகிழ்ச்சி, நல்வாழ்வு", "vocabId": "n3-v-0901" },
+        { "word": "福", "reading": "ふく", "en": "good fortune", "ta": "நல்ல அதிர்ஷ்டம்", "vocabId": "n3-v-2113" },
+        { "word": "福の神", "reading": "ふくのかみ", "en": "god of good fortune", "ta": "செல்வக் கடவுள்" }
+      ]
+    },
+    {
+      "kanji": "横",
+      "meaning": { "en": "side; sideways", "ta": "பக்கம்; குறுக்காக" },
+      "on": ["おう"],
+      "kun": ["よこ"],
+      "mnemonic": {
+        "en": "A tree (木) on the left. On the right is 黄 (yellow): a field (田) with a wide hat on top and two legs below. A yellow wooden bar lies sideways across the gate.",
+        "ta": "இடப்பக்கம் மரம் (木). வலப்பக்கம் 黄 (மஞ்சள்): மேலே அகலமான தொப்பி, கீழே இரண்டு கால்கள் உள்ள வயல் (田). மஞ்சள் மரக்கம்பு வாசலின் குறுக்கே படுத்திருக்கிறது."
+      },
+      "note": {
+        "en": "Alone, 横 is よこ (side, next to). In words it is おう: 横断歩道 (おうだんほどう, a crosswalk).",
+        "ta": "தனியாக 横 = よこ (பக்கம், அருகே). சொற்களில் おう: 横断歩道 (おうだんほどう, பாதசாரிகள் கடக்கும் இடம்)."
+      },
+      "examples": [
+        { "word": "横", "reading": "よこ", "en": "side; next to", "ta": "பக்கம்; அருகே", "vocabId": "n5-v-686" },
+        { "word": "横切る", "reading": "よこぎる", "en": "to cut across", "ta": "குறுக்கே கட", "vocabId": "n3-v-1136" },
+        { "word": "横断歩道", "reading": "おうだんほどう", "en": "crosswalk", "ta": "பாதசாரிகள் கடக்கும் இடம்" }
+      ]
+    },
+    {
+      "kanji": "深",
+      "meaning": { "en": "deep", "ta": "ஆழமான" },
+      "on": ["しん"],
+      "kun": ["ふか.い"],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, a hole (the cover with 八 on top) and a tree (木) below it. The water in the well is so deep that a whole tree fits under it.",
+        "ta": "இடப்பக்கம் தண்ணீர் (氵). வலப்பக்கம் ஒரு குழி (மேலே 八 உள்ள மூடி), அதன் கீழே ஒரு மரம் (木). கிணற்றுத் தண்ணீர் அவ்வளவு ஆழம்; ஒரு முழு மரமே அதற்குள் மூழ்கிவிடும்."
+      },
+      "note": {
+        "en": "深い (ふかい, deep) is the opposite of 浅い (あさい, shallow). 深夜 (しんや) = late at night.",
+        "ta": "深い (ふかい, ஆழமான) என்பதன் எதிர்ச்சொல் 浅い (あさい, ஆழமில்லாத). 深夜 (しんや) = நள்ளிரவு."
+      },
+      "examples": [
+        { "word": "深い", "reading": "ふかい", "en": "deep", "ta": "ஆழமான", "vocabId": "n4-v-095" },
+        { "word": "深まる", "reading": "ふかまる", "en": "to deepen", "ta": "ஆழமாகு", "vocabId": "n3-v-1863" },
+        { "word": "深夜", "reading": "しんや", "en": "late at night", "ta": "நள்ளிரவு" },
+        { "word": "深刻", "reading": "しんこく", "en": "serious", "ta": "தீவிரமான", "vocabId": "n3-v-0190" }
+      ]
+    },
+    {
+      "kanji": "申",
+      "meaning": { "en": "to say (humble)", "ta": "சொல் (பணிவாக)" },
+      "on": ["しん"],
+      "kun": ["もう.す"],
+      "mnemonic": {
+        "en": "A field (田) with a line going right through it, from the sky to the ground, like lightning. A message comes down from heaven, and you speak very humbly: “I humbly say...”",
+        "ta": "வானத்திலிருந்து தரை வரை மின்னல் போல ஒரு கோடு நேராகக் கடந்து போகும் வயல் (田). வானத்திலிருந்து ஒரு செய்தி இறங்குகிறது; நீங்கள் மிகப் பணிவாகப் பேசுகிறீர்கள்: “பணிவுடன் சொல்கிறேன்...”"
+      },
+      "note": {
+        "en": "田 (no line out), 由 (line out on top), 申 (line out top and bottom). 申します (もうします) = humble 言います: 田中と 申します.",
+        "ta": "田 (கோடு வெளியே இல்லை), 由 (மேலே கோடு வெளியே), 申 (மேலும் கீழும் கோடு வெளியே). 申します (もうします) = 言います-இன் பணிவு வடிவம்: 田中と 申します."
+      },
+      "examples": [
+        { "word": "申す", "reading": "もうす", "en": "to say, to be called (humble)", "ta": "சொல், பெயர் (பணிவாக)", "vocabId": "n4-v-306" },
+        { "word": "申し上げる", "reading": "もうしあげる", "en": "to say (very humble)", "ta": "சொல் (மிகப் பணிவாக)", "vocabId": "n4-v-119" },
+        { "word": "申し込む", "reading": "もうしこむ", "en": "to apply for, to sign up", "ta": "விண்ணப்பி, பதிவு செய்", "vocabId": "n3-v-1061" }
+      ]
+    },
+    {
+      "kanji": "様",
+      "meaning": { "en": "Mr./Ms. (very polite); way, state", "ta": "திரு/திருமதி (மிக மரியாதை); முறை, நிலை" },
+      "on": ["よう"],
+      "kun": ["さま"],
+      "mnemonic": {
+        "en": "A tree (木), a sheep (羊) and flowing water (水) at the bottom. A pretty village scene: this is the way things look. Add さま after a name to show great respect.",
+        "ta": "ஒரு மரம் (木), ஒரு ஆடு (羊), கீழே ஓடும் தண்ணீர் (水). ஓர் அழகான கிராமக் காட்சி: பொருள்கள் இப்படித்தான் தோன்றுகின்றன. பெயருக்குப் பின் さま சேர்த்தால் பெரும் மரியாதை."
+      },
+      "note": {
+        "en": "〜様 (さま) is a very polite さん: お客様 (おきゃくさま, customer). 様子 (ようす) = how something looks, the state.",
+        "ta": "〜様 (さま) = மிக மரியாதையான さん: お客様 (おきゃくさま, வாடிக்கையாளர்). 様子 (ようす) = ஒன்றின் தோற்றம், நிலை."
+      },
+      "examples": [
+        { "word": "様子", "reading": "ようす", "en": "state, how someone looks", "ta": "நிலை, தோற்றம்", "vocabId": "n3-v-1129" },
+        { "word": "様々", "reading": "さまざま", "en": "various", "ta": "பலவிதமான", "vocabId": "n3-v-0002" },
+        { "word": "王様", "reading": "おうさま", "en": "king", "ta": "அரசன்", "vocabId": "n3-v-0491" },
+        { "word": "お客様", "reading": "おきゃくさま", "en": "customer, guest (very polite)", "ta": "வாடிக்கையாளர், விருந்தினர் (மிக மரியாதை)" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU7-q01",
+        "type": "kanji_reading",
+        "sentence": "走って 友だちに ＿追いつきました＿。",
+        "target": "追いつきました",
+        "options": ["ついつきました", "おいつきました", "おいづきました", "おうつきました"],
+        "answer": 1,
+        "explanation_en": "追いつきました is おいつきました (பிடித்துவிட்டேன், caught up), from 追う (おう). つい is the on reading of 追. づき is wrongly voiced.",
+        "explanation_ta": "追いつきました = おいつきました (பிடித்துவிட்டேன், caught up); 追う (おう)-இலிருந்து. つい 追-இன் ஆன் வாசிப்பு. づき-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU7-q02",
+        "type": "kanji_reading",
+        "sentence": "この 店の ＿商品＿は 安いです。",
+        "target": "商品",
+        "options": ["しょひん", "しょうびん", "しょうしな", "しょうひん"],
+        "answer": 3,
+        "explanation_en": "商品 is しょうひん (விற்பனைப் பொருள், goods). 商 is a long しょう. ひん is not voiced, and しな is the kun reading of 品.",
+        "explanation_ta": "商品 = しょうひん (விற்பனைப் பொருள், goods). 商 நீண்ட しょう. ひん ஒலிப்புடன் அல்ல; しな 品-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q03",
+        "type": "kanji_reading",
+        "sentence": "その ＿言葉＿の いみが わかりません。",
+        "target": "言葉",
+        "options": ["ことば", "ことは", "げんば", "ごとば"],
+        "answer": 0,
+        "explanation_en": "言葉 is ことば (சொல், word). 葉 (は) becomes ば here, so ことは is wrong. げん is the on reading of 言.",
+        "explanation_ta": "言葉 = ことば (சொல், word). இங்கே 葉 (は), ば ஆகிறது; அதனால் ことは தவறு. げん 言-இன் ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q04",
+        "type": "kanji_reading",
+        "sentence": "駅で さいふを ＿落としました＿。",
+        "target": "落としました",
+        "options": ["おちしました", "らくとしました", "おとしました", "おどしました"],
+        "answer": 2,
+        "explanation_en": "落としました is おとしました (தொலைத்தேன், dropped / lost), from 落とす. おどしました (threatened) is wrongly voiced. らく is the on reading.",
+        "explanation_ta": "落としました = おとしました (தொலைத்தேன், dropped / lost); 落とす-இலிருந்து. おどしました (மிரட்டினேன்)-இல் தவறான ஒலிப்பு. らく ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q05",
+        "type": "kanji_reading",
+        "sentence": "しあいに ＿負けて＿、くやしいです。",
+        "target": "負けて",
+        "options": ["かけて", "まけて", "ふけて", "まげて"],
+        "answer": 1,
+        "explanation_en": "負けて is まけて (தோற்று, lost), from 負ける. まげて (曲げて) means “bending”. ふ is the on reading of 負.",
+        "explanation_ta": "負けて = まけて (தோற்று, lost); 負ける-இலிருந்து. まげて (曲げて) = “வளைத்து”. ふ 負-இன் ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q06",
+        "type": "kanji_reading",
+        "sentence": "やくそくは かならず ＿守ります＿。",
+        "target": "守ります",
+        "options": ["もります", "しゅります", "まぼります", "まもります"],
+        "answer": 3,
+        "explanation_en": "守ります is まもります (கடைப்பிடிப்பேன், keep / protect), from 守る. まぼ is wrongly voiced, and しゅ is the on reading.",
+        "explanation_ta": "守ります = まもります (கடைப்பிடிப்பேன், keep / protect); 守る-இலிருந்து. まぼ-இல் தவறான ஒலிப்பு; しゅ ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q07",
+        "type": "kanji_reading",
+        "sentence": "ここから 見る 山は とても ＿美しい＿です。",
+        "target": "美しい",
+        "options": ["うつくしい", "うつしい", "びしい", "うつくい"],
+        "answer": 0,
+        "explanation_en": "美しい is うつくしい (அழகான, beautiful): う・つ・く・し・い. うつしい drops く, and び is the on reading.",
+        "explanation_ta": "美しい = うつくしい (அழகான, beautiful): う・つ・く・し・い. うつしい-இல் く இல்லை; び ஆன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q08",
+        "type": "kanji_reading",
+        "sentence": "＿命＿は 一つしか ありません。",
+        "target": "命",
+        "options": ["めい", "いのし", "いのち", "みょう"],
+        "answer": 2,
+        "explanation_en": "命 alone is いのち (உயிர், life). めい is the on reading used in words like 生命. いのし is wrong.",
+        "explanation_ta": "தனியாக 命 = いのち (உயிர், life). めい ஆன் வாசிப்பு; 生命 போன்ற சொற்களில் வரும். いのし தவறு."
+      },
+      {
+        "id": "KU7-q09",
+        "type": "kanji_reading",
+        "sentence": "この 川は とても ＿深い＿です。",
+        "target": "深い",
+        "options": ["ふるい", "ふがい", "ぶかい", "ふかい"],
+        "answer": 3,
+        "explanation_en": "深い is ふかい (ஆழமான, deep). ふるい is 古い (old). ぶかい is voiced; that sound appears only inside other words.",
+        "explanation_ta": "深い = ふかい (ஆழமான, deep). ふるい = 古い (பழைய). ぶかい ஒலிப்புடன்; அது பிற சொற்களுக்குள் மட்டும் வரும்."
+      },
+      {
+        "id": "KU7-q10",
+        "type": "kanji_reading",
+        "sentence": "今日は 母の ＿様子＿が いつもと ちがいます。",
+        "target": "様子",
+        "options": ["ようし", "ようす", "さまこ", "よすう"],
+        "answer": 1,
+        "explanation_en": "様子 is ようす (நிலை, state / how someone looks). 子 is read す here, not し. さま is the kun reading of 様.",
+        "explanation_ta": "様子 = ようす (நிலை, state / how someone looks). இங்கே 子 = す; し அல்ல. さま 様-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU7-q11",
+        "type": "orthography",
+        "sentence": "けいさつが どろぼうを ＿おって＿ います。",
+        "target": "おって",
+        "options": ["追って", "迫って", "退って", "送って"],
+        "answer": 0,
+        "explanation_en": "おう (துரத்து, to chase) is written 追う: the road (辶) + a pile of supplies. 送 (send) and 迫 also have 辶 but other parts.",
+        "explanation_ta": "おう (துரத்து, to chase) = 追う: சாலை (辶) + பொருள் அடுக்கு. 送 (அனுப்பு), 迫 இரண்டிலும் 辶 உண்டு; ஆனால் மற்றப் பகுதிகள் வேறு."
+      },
+      {
+        "id": "KU7-q12",
+        "type": "orthography",
+        "sentence": "秋に なると 木の ＿は＿が 赤く なります。",
+        "target": "は",
+        "options": ["楽", "菜", "葉", "華"],
+        "answer": 2,
+        "explanation_en": "は (இலை, leaf) is written 葉: grass (艹) + world (世) + tree (木). 菜 and 華 also have 艹, but they are other words.",
+        "explanation_ta": "は (இலை, leaf) = 葉: புல் (艹) + உலகம் (世) + மரம் (木). 菜, 華 இரண்டிலும் 艹 உண்டு; ஆனால் அவை வேறு சொற்கள்."
+      },
+      {
+        "id": "KU7-q13",
+        "type": "orthography",
+        "sentence": "駅の ＿よこ＿に 本屋が あります。",
+        "target": "よこ",
+        "options": ["横", "黄", "構", "様"],
+        "answer": 0,
+        "explanation_en": "よこ (பக்கம், side) is written 横: a tree (木) + yellow (黄). 黄 alone means yellow, and 様 has a sheep (羊) instead.",
+        "explanation_ta": "よこ (பக்கம், side) = 横: மரம் (木) + மஞ்சள் (黄). தனி 黄 = மஞ்சள்; 様-இல் அதற்குப் பதில் ஆடு (羊)."
+      },
+      {
+        "id": "KU7-q14",
+        "type": "orthography",
+        "sentence": "はじめまして。田中と ＿もうします＿。",
+        "target": "もうします",
+        "options": ["由します", "申します", "甲します", "中します"],
+        "answer": 1,
+        "explanation_en": "もうす (சொல் (பணிவாக), to say humbly) is written 申す: a field with a line through the top and bottom. 由 has a line only on top.",
+        "explanation_ta": "もうす (சொல் (பணிவாக), to say humbly) = 申す: மேலும் கீழும் கோடு நீட்டும் வயல். 由-இல் மேலே மட்டும் கோடு."
+      },
+      {
+        "id": "KU7-q15",
+        "type": "orthography",
+        "sentence": "父は 小さな 店で ＿しょうばい＿を して います。",
+        "target": "しょうばい",
+        "options": ["商買", "高売", "商売", "適売"],
+        "answer": 2,
+        "explanation_en": "しょうばい (வியாபாரம், business) is 商売: trade (商) + sell (売). 買 means “buy”, and 高 looks like 商 but means “high”.",
+        "explanation_ta": "しょうばい (வியாபாரம், business) = 商売: வணிகம் (商) + விற்பனை (売). 買 = வாங்கு; 高 商 போலத் தெரியும், ஆனால் “உயர்ந்த”."
+      },
+      {
+        "id": "KU7-q16",
+        "type": "orthography",
+        "sentence": "コップが テーブルから ＿おちました＿。",
+        "target": "おちました",
+        "options": ["洛ちました", "茖ちました", "客ちました", "落ちました"],
+        "answer": 3,
+        "explanation_en": "おちる (விழு, to fall) is written 落ちる: grass (艹) + water (氵) + each (各). 洛 has no grass, and 客 (guest) has a roof.",
+        "explanation_ta": "おちる (விழு, to fall) = 落ちる: புல் (艹) + தண்ணீர் (氵) + ஒவ்வொன்றும் (各). 洛-இல் புல் இல்லை; 客 (விருந்தினர்)-இல் கூரை."
+      }
+    ]
+  }
+}

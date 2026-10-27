@@ -1,0 +1,357 @@
+{
+  "unit": 21,
+  "title": { "en": "Dreams, rights and ideas", "ta": "கனவுகள், உரிமைகள், கருத்துகள்" },
+  "intro": {
+    "en": "In this unit you learn 13 kanji about life and ideas: dream, get used to, poor, rights, argue, doubt and kind. Many of them have 言 (say) or 亻 (person) on the left. Find the old part first, then read the story.",
+    "ta": "இந்தப் பாடத்தில் வாழ்க்கையும் சிந்தனையும் பற்றிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: கனவு, பழகுதல், ஏழை, உரிமை, விவாதம், சந்தேகம், அன்பு. பலவற்றின் இடப்பக்கம் 言 (சொல்) அல்லது 亻 (மனிதன்) இருக்கிறது. முதலில் பழைய பகுதியைக் கண்டுபிடியுங்கள், பிறகு கதையைப் படியுங்கள்."
+  },
+  "kanji": [
+    {
+      "kanji": "夢",
+      "meaning": { "en": "dream", "ta": "கனவு" },
+      "on": ["む"],
+      "kun": ["ゆめ"],
+      "mnemonic": {
+        "en": "On top is grass (艹). Under it is an eye lying on its side (罒), then a blanket (冖), and at the bottom 夕 (evening). In the evening you lie under a blanket, your eyes close, and you see a dream.",
+        "ta": "மேலே புல் (艹). அதன் கீழ் படுத்திருக்கும் ஒரு கண் (罒), பிறகு ஒரு போர்வை (冖), அடியில் 夕 (மாலை). மாலையில் போர்வைக்குள் படுக்கிறீர்கள், கண்கள் மூடுகின்றன — கனவு வருகிறது."
+      },
+      "note": {
+        "en": "夢中 (むちゅう) means “lost in something, crazy about it”, like being inside a dream.",
+        "ta": "夢中 (むちゅう) என்றால் “ஒன்றில் மூழ்கிப்போதல்” — கனவுக்குள் இருப்பது போல."
+      },
+      "examples": [
+        { "word": "夢", "reading": "ゆめ", "en": "dream", "ta": "கனவு", "vocabId": "n4-v-374" },
+        { "word": "夢中", "reading": "むちゅう", "en": "absorbed in, crazy about", "ta": "மூழ்கிப்போன, பித்தான", "vocabId": "n3-v-1040" },
+        { "word": "悪夢", "reading": "あくむ", "en": "bad dream, nightmare", "ta": "கெட்ட கனவு" }
+      ]
+    },
+    {
+      "kanji": "慣",
+      "meaning": { "en": "get used to", "ta": "பழகுதல்" },
+      "on": ["かん"],
+      "kun": ["な.れる", "な.らす"],
+      "mnemonic": {
+        "en": "On the left is the heart (忄). On the right, coins (貝, money, as in 買) hang on a string (毌). You put coin after coin on the string, again and again. Doing the same thing every day, your heart gets used to it.",
+        "ta": "இடப்பக்கம் இதயம் (忄). வலப்பக்கம் ஒரு கயிற்றில் (毌) கோர்த்த காசுகள் (貝 — 買 இல் வரும் பணம்). ஒவ்வொரு காசாகக் கோர்க்கிறீர்கள், மீண்டும் மீண்டும். தினமும் ஒரே வேலை செய்தால் மனம் அதற்குப் பழகிவிடும்."
+      },
+      "examples": [
+        { "word": "慣れる", "reading": "なれる", "en": "to get used to", "ta": "பழகிப்போதல்", "vocabId": "n4-v-490" },
+        { "word": "習慣", "reading": "しゅうかん", "en": "habit, custom", "ta": "பழக்கம், வழக்கம்", "vocabId": "n4-v-545" },
+        { "word": "慣らす", "reading": "ならす", "en": "to make (someone) used to", "ta": "பழக்கப்படுத்துதல்", "vocabId": "n3-v-2092" }
+      ]
+    },
+    {
+      "kanji": "貧",
+      "meaning": { "en": "poor", "ta": "ஏழை" },
+      "on": ["ひん"],
+      "kun": ["まず.しい"],
+      "mnemonic": {
+        "en": "On top is 分 (divide). At the bottom is 貝 (money). The money is divided into many tiny pieces, so each person gets very little. That family is poor.",
+        "ta": "மேலே 分 (பிரித்தல்). கீழே 貝 (பணம்). பணம் பல சின்னத் துண்டுகளாகப் பிரிக்கப்படுகிறது; ஒவ்வொருவருக்கும் கொஞ்சம் தான் கிடைக்கிறது. அந்தக் குடும்பம் ஏழை."
+      },
+      "note": {
+        "en": "Don’t mix up 貧 (poor, 分 on top) and 負 (lose, a small hook on top). Both have 貝 at the bottom.",
+        "ta": "貧 (ஏழை, மேலே 分) மற்றும் 負 (தோல்வி, மேலே சிறு கொக்கி) இரண்டையும் குழப்பாதீர்கள். இரண்டுக்கும் கீழே 貝 உண்டு."
+      },
+      "examples": [
+        { "word": "貧しい", "reading": "まずしい", "en": "poor, needy", "ta": "ஏழ்மையான", "vocabId": "n3-v-1982" },
+        { "word": "貧困", "reading": "ひんこん", "en": "poverty", "ta": "வறுமை" },
+        { "word": "貧富", "reading": "ひんぷ", "en": "rich and poor", "ta": "ஏழையும் பணக்காரரும்" }
+      ]
+    },
+    {
+      "kanji": "祖",
+      "meaning": { "en": "ancestor", "ta": "முன்னோர்" },
+      "on": ["そ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is ネ, the altar sign from 神 (god) and 社 (shrine). On the right is 且, a tall stone with lines on it. The family puts up a stone for the old people who came before and prays at the altar, like a garlanded photo of grandparents on the wall at home.",
+        "ta": "இடப்பக்கம் ネ — 神 (கடவுள்), 社 (கோயில்) இல் வரும் பூஜை அடையாளம். வலப்பக்கம் 且 — கோடுகள் உள்ள ஒரு உயரமான கல். முன்னோர்களுக்காகக் குடும்பம் கல் வைத்து வணங்குகிறது — வீட்டுச் சுவரில் மாலை போட்ட தாத்தா பாட்டி படம் போல."
+      },
+      "note": {
+        "en": "祖父 (grandfather) and 祖母 (grandmother) are for your own family. For someone else’s, say おじいさん and おばあさん.",
+        "ta": "祖父 (தாத்தா), 祖母 (பாட்டி) என்பவை உங்கள் சொந்தக் குடும்பத்திற்கு. மற்றவர்களுடையவர்களுக்கு おじいさん, おばあさん என்று சொல்லுங்கள்."
+      },
+      "examples": [
+        { "word": "祖母", "reading": "そぼ", "en": "(my) grandmother", "ta": "(என்) பாட்டி", "vocabId": "n4-v-236" },
+        { "word": "祖父", "reading": "そふ", "en": "(my) grandfather", "ta": "(என்) தாத்தா", "vocabId": "n4-v-339" },
+        { "word": "祖先", "reading": "そせん", "en": "ancestor", "ta": "முன்னோர்" },
+        { "word": "祖国", "reading": "そこく", "en": "homeland, motherland", "ta": "தாய்நாடு" }
+      ]
+    },
+    {
+      "kanji": "権",
+      "meaning": { "en": "right, power", "ta": "உரிமை, அதிகாரம்" },
+      "on": ["けん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left is a tree (木). On the right, a big bird (隹) wearing a crown sits in it. The bird with the crown owns the tree. It has the power and the right to stay there.",
+        "ta": "இடப்பக்கம் மரம் (木). வலப்பக்கம் கிரீடம் அணிந்த ஒரு பெரிய பறவை (隹) அதில் அமர்ந்திருக்கிறது. கிரீடம் உள்ள பறவைக்கே அந்த மரம் சொந்தம். அங்கே இருக்க அதற்கே அதிகாரமும் உரிமையும்."
+      },
+      "examples": [
+        { "word": "権利", "reading": "けんり", "en": "right, privilege", "ta": "உரிமை", "vocabId": "n3-v-0871" },
+        { "word": "人権", "reading": "じんけん", "en": "human rights", "ta": "மனித உரிமைகள்" },
+        { "word": "権力", "reading": "けんりょく", "en": "power, authority", "ta": "அதிகாரம்" }
+      ]
+    },
+    {
+      "kanji": "済",
+      "meaning": { "en": "finish, settle", "ta": "முடிதல், தீர்தல்" },
+      "on": ["さい"],
+      "kun": ["す.む", "す.ます"],
+      "mnemonic": {
+        "en": "On the left is water (氵). On the right, everything stands in neat, even rows. You wash things and line them up neatly. Now the job is finished.",
+        "ta": "இடப்பக்கம் நீர் (氵). வலப்பக்கம் எல்லாம் சீரான வரிசைகளில் நிற்கின்றன. பொருட்களைக் கழுவி அழகாக வரிசையாக அடுக்குகிறீர்கள். இப்போது வேலை முடிந்தது."
+      },
+      "note": {
+        "en": "すみません comes from 済む: “it is not finished”, I cannot pay you back enough. 経済 (けいざい) means economy.",
+        "ta": "すみません என்பது 済む இலிருந்து வந்தது: “இது முடியவில்லை” — உங்களுக்குத் திருப்பிச் செய்ய முடியவில்லை என்ற பொருள். 経済 (けいざい) = பொருளாதாரம்."
+      },
+      "examples": [
+        { "word": "済む", "reading": "すむ", "en": "to finish, to end", "ta": "முடிதல்", "vocabId": "n4-v-413" },
+        { "word": "経済", "reading": "けいざい", "en": "economy", "ta": "பொருளாதாரம்", "vocabId": "n4-v-405" },
+        { "word": "済ませる", "reading": "すませる", "en": "to finish (something)", "ta": "(ஒன்றை) முடித்துவிடுதல்", "vocabId": "n3-v-0243" }
+      ]
+    },
+    {
+      "kanji": "認",
+      "meaning": { "en": "recognize, admit", "ta": "ஒப்புக்கொள்ளுதல்" },
+      "on": ["にん"],
+      "kun": ["みと.める"],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right is a blade (刃) over a heart (心): you keep your heart still, even when it hurts. You hold your feelings, listen, and say, “Yes, you are right.” You admit it.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் இதயத்தின் (心) மேல் ஒரு கத்தி (刃): வலித்தாலும் மனதை அமைதியாக வைத்துக்கொள்கிறீர்கள். உணர்ச்சியை அடக்கி, கேட்டு, “ஆம், நீங்கள் சொல்வது சரி” என்கிறீர்கள். அதுதான் ஒப்புக்கொள்ளுதல்."
+      },
+      "examples": [
+        { "word": "認める", "reading": "みとめる", "en": "to admit, to accept, to approve", "ta": "ஒப்புக்கொள்ளுதல், அங்கீகரித்தல்", "vocabId": "n3-v-1017" },
+        { "word": "確認", "reading": "かくにん", "en": "check, confirmation", "ta": "உறுதிப்படுத்தல்", "vocabId": "n3-v-0591" },
+        { "word": "認識", "reading": "にんしき", "en": "understanding, awareness", "ta": "புரிதல், உணர்வு" }
+      ]
+    },
+    {
+      "kanji": "論",
+      "meaning": { "en": "argument, theory", "ta": "வாதம், கோட்பாடு" },
+      "on": ["ろん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left are words (言). On the right, a roof covers a pile of pages tied together, all in good order. Words put in order, page after page: an argument, a paper.",
+        "ta": "இடப்பக்கம் சொற்கள் (言). வலப்பக்கம் ஒரு கூரையின் கீழ் ஒழுங்காகக் கட்டிய பக்கங்களின் அடுக்கு. பக்கம் பக்கமாக ஒழுங்காக வைத்த சொற்கள் — வாதம், ஆய்வுக் கட்டுரை."
+      },
+      "examples": [
+        { "word": "議論", "reading": "ぎろん", "en": "discussion, argument", "ta": "விவாதம்", "vocabId": "n3-v-0765" },
+        { "word": "論文", "reading": "ろんぶん", "en": "thesis, paper", "ta": "ஆய்வுக் கட்டுரை", "vocabId": "n3-v-1188" },
+        { "word": "理論", "reading": "りろん", "en": "theory", "ta": "கோட்பாடு" }
+      ]
+    },
+    {
+      "kanji": "疑",
+      "meaning": { "en": "doubt", "ta": "சந்தேகம்" },
+      "on": ["ぎ"],
+      "kun": ["うたが.う"],
+      "mnemonic": {
+        "en": "On the left, a man (匕) holds an arrow (矢). On the right, a foot (疋) stands under a little hook (マ) and does not know where to step. He stands at a fork in the road and thinks, “Which way? I am not sure.” That is doubt.",
+        "ta": "இடப்பக்கம் ஒரு மனிதன் (匕) கையில் அம்பு (矢). வலப்பக்கம் ஒரு சிறு கொக்கியின் (マ) கீழ் ஒரு கால் (疋) — எங்கே அடி வைப்பது என்று தெரியவில்லை. இரண்டு பாதை பிரியும் இடத்தில் நின்று “எந்த வழி? உறுதியாகத் தெரியவில்லையே” என்று யோசிக்கிறான். அதுதான் சந்தேகம்."
+      },
+      "examples": [
+        { "word": "疑う", "reading": "うたがう", "en": "to doubt, to suspect", "ta": "சந்தேகப்படுதல்", "vocabId": "n3-v-0444" },
+        { "word": "疑問", "reading": "ぎもん", "en": "question, doubt", "ta": "கேள்வி, ஐயம்", "vocabId": "n3-v-0729" },
+        { "word": "容疑者", "reading": "ようぎしゃ", "en": "suspect (of a crime)", "ta": "சந்தேக நபர்" }
+      ]
+    },
+    {
+      "kanji": "供",
+      "meaning": { "en": "offer, go with", "ta": "அர்ப்பணித்தல், உடன் செல்லுதல்" },
+      "on": ["きょう"],
+      "kun": ["とも", "-ども"],
+      "mnemonic": {
+        "en": "A person (亻) stands next to 共 (together): two hands holding up a gift. A person who goes together with you and holds out an offering, like carrying a tray of fruit to the temple.",
+        "ta": "ஒரு மனிதன் (亻) 共 (சேர்ந்து) அருகில் நிற்கிறான்: இரண்டு கைகள் ஒரு காணிக்கையைத் தூக்கிப் பிடிக்கின்றன. உங்களுடன் சேர்ந்து வந்து காணிக்கை தரும் ஆள் — கோயிலுக்குப் பழத் தட்டு எடுத்துச் செல்வது போல."
+      },
+      "note": {
+        "en": "In 子供 (child) it is read ども, with a voiced sound.",
+        "ta": "子供 (குழந்தை) இல் இது ども என்று (ஒலிமாற்றத்துடன்) படிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "子供", "reading": "こども", "en": "child, children", "ta": "குழந்தை(கள்)", "vocabId": "n5-v-263" },
+        { "word": "供給", "reading": "きょうきゅう", "en": "supply", "ta": "வழங்கல்", "vocabId": "n3-v-0749" },
+        { "word": "お供", "reading": "おとも", "en": "going with someone, companion", "ta": "உடன் செல்லுதல், துணை" }
+      ]
+    },
+    {
+      "kanji": "割",
+      "meaning": { "en": "divide, break", "ta": "பிரித்தல், உடைத்தல்" },
+      "on": [],
+      "kun": ["わ.る", "わ.れる", "わり"],
+      "mnemonic": {
+        "en": "On the left is 害 (harm). On the right is a knife (刂). The knife does harm to a thing and splits it in two, like cutting a coconut open. To divide, to break.",
+        "ta": "இடப்பக்கம் 害 (தீங்கு). வலப்பக்கம் கத்தி (刂). கத்தி ஒரு பொருளுக்குத் தீங்கு செய்து இரண்டாகப் பிளக்கிறது — தேங்காயை உடைப்பது போல. பிரித்தல், உடைத்தல்."
+      },
+      "note": {
+        "en": "割 is almost always read わ or わり. 割引 (わりびき) is a discount: a part is cut off the price.",
+        "ta": "割 பெரும்பாலும் わ அல்லது わり என்றுதான் படிக்கப்படும். 割引 (わりびき) = தள்ளுபடி: விலையிலிருந்து ஒரு பகுதி வெட்டப்படுகிறது."
+      },
+      "examples": [
+        { "word": "割る", "reading": "わる", "en": "to divide, to break", "ta": "பிரித்தல், உடைத்தல்", "vocabId": "n3-v-1202" },
+        { "word": "割れる", "reading": "われる", "en": "to break, to crack", "ta": "உடைந்துபோதல்", "vocabId": "n4-v-558" },
+        { "word": "割合", "reading": "わりあい", "en": "rate, ratio", "ta": "விகிதம்", "vocabId": "n4-v-488" },
+        { "word": "割引", "reading": "わりびき", "en": "discount", "ta": "தள்ளுபடி" }
+      ]
+    },
+    {
+      "kanji": "難",
+      "meaning": { "en": "difficult", "ta": "கடினம்" },
+      "on": ["なん"],
+      "kun": ["むずか.しい"],
+      "mnemonic": {
+        "en": "On the left is wet, sticky clay (the same part as in 漢). On the right is 隹, a bird. The bird’s feet are stuck in the mud and it tries to fly away. That is very difficult!",
+        "ta": "இடப்பக்கம் ஈரமான ஒட்டும் களிமண் (漢 இல் வரும் அதே பகுதி). வலப்பக்கம் 隹 — ஒரு பறவை. பறவையின் கால்கள் சேற்றில் மாட்டிக்கொண்டன; அது பறக்க முயல்கிறது. ரொம்பக் கடினம்!"
+      },
+      "note": {
+        "en": "The opposite of 難しい (difficult) is 易しい (easy).",
+        "ta": "難しい (கடினம்) என்பதன் எதிர்ச்சொல் 易しい (எளிது)."
+      },
+      "examples": [
+        { "word": "難しい", "reading": "むずかしい", "en": "difficult", "ta": "கடினமான", "vocabId": "n5-v-652" },
+        { "word": "困難", "reading": "こんなん", "en": "difficulty, hardship", "ta": "சிரமம்", "vocabId": "n3-v-0953" },
+        { "word": "難民", "reading": "なんみん", "en": "refugee", "ta": "அகதி" }
+      ]
+    },
+    {
+      "kanji": "優",
+      "meaning": { "en": "kind, excellent", "ta": "அன்பான, சிறந்த" },
+      "on": ["ゆう"],
+      "kun": ["やさ.しい", "すぐ.れる"],
+      "mnemonic": {
+        "en": "A person (亻) stands by a head (the top of 頁) with a heart (心) under it and slow feet (夂). This person thinks with head and heart and walks slowly beside you. So kind! Such a person is also the best: excellent.",
+        "ta": "ஒரு மனிதன் (亻) அருகில் ஒரு தலை (頁 இன் மேல்பகுதி), அதன் கீழ் இதயம் (心), மெதுவான கால்கள் (夂). தலையாலும் இதயத்தாலும் யோசித்து உங்கள் அருகில் மெதுவாக நடக்கும் ஆள். எவ்வளவு அன்பு! அப்படிப்பட்டவர் தான் மிகச் சிறந்தவர்."
+      },
+      "note": {
+        "en": "やさしい has two kanji: 優しい = kind, gentle (a person); 易しい = easy (a test).",
+        "ta": "やさしい க்கு இரண்டு கான்ஜிகள்: 優しい = அன்பான (மனிதர்); 易しい = எளிதான (தேர்வு)."
+      },
+      "examples": [
+        { "word": "優しい", "reading": "やさしい", "en": "kind, gentle", "ta": "அன்பான, மென்மையான", "vocabId": "n4-v-591" },
+        { "word": "女優", "reading": "じょゆう", "en": "actress", "ta": "நடிகை", "vocabId": "n3-v-0176" },
+        { "word": "優勝", "reading": "ゆうしょう", "en": "winning first place, championship", "ta": "முதல் இடம், வெற்றிக்கோப்பை", "vocabId": "n3-v-1108" },
+        { "word": "優れる", "reading": "すぐれる", "en": "to be excellent", "ta": "சிறந்து விளங்குதல்", "vocabId": "n3-v-0224" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU21-q01", "type": "kanji_reading",
+        "sentence": "ゆうべ、こわい ＿夢＿を 見ました。", "target": "夢",
+        "options": ["ゆめ", "む", "ゆみ", "よめ"], "answer": 0,
+        "explanation_en": "Alone, 夢 is read ゆめ (கனவு, dream). む is the on reading, used in words like 夢中.",
+        "explanation_ta": "தனியாக 夢 = ゆめ (கனவு, dream). む என்பது on வாசிப்பு; 夢中 போன்ற சொற்களில் வரும்."
+      },
+      {
+        "id": "KU21-q02", "type": "kanji_reading",
+        "sentence": "日本の 生活に もう ＿慣れ＿ました。", "target": "慣れ",
+        "options": ["かんれ", "なれ", "ながれ", "はなれ"], "answer": 1,
+        "explanation_en": "慣れる is なれる (பழகிப்போதல், to get used to). ながれ is 流れ (flow), a different word.",
+        "explanation_ta": "慣れる = なれる (பழகிப்போதல், to get used to). ながれ என்பது 流れ (ஓட்டம்) — வேறு சொல்."
+      },
+      {
+        "id": "KU21-q03", "type": "kanji_reading",
+        "sentence": "子どもの ころ、家は ＿貧しかった＿です。", "target": "貧しかった",
+        "options": ["ひんしかった", "まづしかった", "まずしかった", "まずかった"], "answer": 2,
+        "explanation_en": "貧しい is まずしい (ஏழ்மையான, poor). It is written with ず, not づ. まずい means “bad taste”.",
+        "explanation_ta": "貧しい = まずしい (ஏழ்மையான, poor). づ அல்ல, ず. まずい என்றால் “சுவையில்லாத”."
+      },
+      {
+        "id": "KU21-q04", "type": "kanji_reading",
+        "sentence": "わたしの ＿祖母＿は 九十さいです。", "target": "祖母",
+        "options": ["そうぼ", "そふ", "そぼう", "そぼ"], "answer": 3,
+        "explanation_en": "祖母 is そぼ (பாட்டி, grandmother), with short vowels. そふ is 祖父 (grandfather).",
+        "explanation_ta": "祖母 = そぼ (பாட்டி, grandmother) — நீட்டல் இல்லை. そふ என்பது 祖父 (தாத்தா)."
+      },
+      {
+        "id": "KU21-q05", "type": "kanji_reading",
+        "sentence": "だれにでも 教育を 受ける ＿権利＿が あります。", "target": "権利",
+        "options": ["けんり", "げんり", "けいり", "かんり"], "answer": 0,
+        "explanation_en": "権利 is けんり (உரிமை, right), with unvoiced け. げんり is a different word.",
+        "explanation_ta": "権利 = けんり (உரிமை, right) — け, げ அல்ல. げんり வேறு சொல்."
+      },
+      {
+        "id": "KU21-q06", "type": "kanji_reading",
+        "sentence": "しゅくだいは もう ＿済んだ＿？", "target": "済んだ",
+        "options": ["さいんだ", "すんだ", "すまんだ", "ずんだ"], "answer": 1,
+        "explanation_en": "済む is すむ (முடிதல், to finish), so 済んだ is すんだ. さい is the on reading, as in 経済.",
+        "explanation_ta": "済む = すむ (முடிதல், to finish); ஆகவே 済んだ = すんだ. さい என்பது on வாசிப்பு — 経済 போல."
+      },
+      {
+        "id": "KU21-q07", "type": "kanji_reading",
+        "sentence": "かれは 自分の まちがいを ＿認め＿ました。", "target": "認め",
+        "options": ["しため", "もとめ", "みとめ", "にんめ"], "answer": 2,
+        "explanation_en": "認める is みとめる (ஒப்புக்கொள்ளுதல், to admit). もとめる is 求める (to ask for).",
+        "explanation_ta": "認める = みとめる (ஒப்புக்கொள்ளுதல், to admit). もとめる என்பது 求める (கேட்டுப்பெறுதல்)."
+      },
+      {
+        "id": "KU21-q08", "type": "kanji_reading",
+        "sentence": "会議で 長い ＿議論＿が ありました。", "target": "議論",
+        "options": ["ぎりん", "きろん", "ぎろう", "ぎろん"], "answer": 3,
+        "explanation_en": "議論 is ぎろん (விவாதம், discussion). 議 is voiced ぎ, and 論 is ろん.",
+        "explanation_ta": "議論 = ぎろん (விவாதம், discussion). 議 = ぎ (ஒலிமாற்றம்), 論 = ろん."
+      },
+      {
+        "id": "KU21-q09", "type": "kanji_reading",
+        "sentence": "その 話が 本当か どうか ＿疑問＿です。", "target": "疑問",
+        "options": ["ぎもん", "ぎいもん", "きもん", "うたもん"], "answer": 0,
+        "explanation_en": "疑問 is ぎもん (ஐயம், doubt), with a short ぎ. うたが is the kun reading, used only in 疑う.",
+        "explanation_ta": "疑問 = ぎもん (ஐயம், doubt) — ぎ நீட்டல் இல்லை. うたが என்பது kun வாசிப்பு; 疑う வில் மட்டும் வரும்."
+      },
+      {
+        "id": "KU21-q10", "type": "kanji_reading",
+        "sentence": "＿子供＿たちが 公園で 遊んで います。", "target": "子供",
+        "options": ["ことも", "こども", "こきょう", "こともう"], "answer": 1,
+        "explanation_en": "子供 is こども (குழந்தைகள், children). Here 供 is voiced: ども, not とも.",
+        "explanation_ta": "子供 = こども (குழந்தைகள், children). இங்கே 供 = ども (ஒலிமாற்றம்), とも அல்ல."
+      },
+      {
+        "id": "KU21-q11", "type": "orthography",
+        "sentence": "コップが ＿われて＿ しまいました。", "target": "われて",
+        "options": ["害れて", "別れて", "割れて", "刻れて"], "answer": 2,
+        "explanation_en": "われる is 割れる (உடைதல், to break): 害 (harm) + a knife. 害 alone has no knife, and 別れる is わかれる.",
+        "explanation_ta": "われる = 割れる (உடைதல், to break): 害 (தீங்கு) + கத்தி. 害 இல் கத்தி இல்லை; 別れる = わかれる."
+      },
+      {
+        "id": "KU21-q12", "type": "orthography",
+        "sentence": "この もんだいは とても ＿むずかしい＿です。", "target": "むずかしい",
+        "options": ["勤しい", "漢しい", "嘆しい", "難しい"], "answer": 3,
+        "explanation_en": "むずかしい is 難しい (கடினமான, difficult): sticky clay + the bird 隹. 勤 and 漢 have the clay but no bird.",
+        "explanation_ta": "むずかしい = 難しい (கடினமான, difficult): களிமண் + பறவை 隹. 勤, 漢 இல் களிமண் உண்டு, பறவை இல்லை."
+      },
+      {
+        "id": "KU21-q13", "type": "orthography",
+        "sentence": "となりの おばあさんは とても ＿やさしい＿ 人です。", "target": "やさしい",
+        "options": ["易しい", "憂しい", "優しい", "夏しい"], "answer": 2,
+        "explanation_en": "A kind person is 優しい (அன்பான, kind). 易しい is also やさしい, but it means “easy”, for a test, not a person.",
+        "explanation_ta": "அன்பான மனிதர் = 優しい (அன்பான, kind). 易しい வும் やさしい தான், ஆனால் அது “எளிதான” (தேர்வு) — மனிதருக்கு அல்ல."
+      },
+      {
+        "id": "KU21-q14", "type": "orthography",
+        "sentence": "日本の ＿けいざい＿に ついて 勉強して います。", "target": "けいざい",
+        "options": ["軽済", "経際", "計済", "経済"], "answer": 3,
+        "explanation_en": "けいざい is 経済 (பொருளாதாரம், economy). 際 is さい but means “edge, time”; 計 and 軽 are けい with other meanings.",
+        "explanation_ta": "けいざい = 経済 (பொருளாதாரம், economy). 際 வும் さい தான், ஆனால் பொருள் வேறு; 計, 軽 வும் けい, பொருள் வேறு."
+      },
+      {
+        "id": "KU21-q15", "type": "orthography",
+        "sentence": "その 話を ＿うたがって＿ いる 人は いません。", "target": "うたがって",
+        "options": ["疑って", "凝って", "擬って", "歌って"], "answer": 0,
+        "explanation_en": "うたがう is 疑う (சந்தேகப்படுதல், to doubt). 凝 and 擬 look the same on the right but have an extra part. 歌う is うたう (sing).",
+        "explanation_ta": "うたがう = 疑う (சந்தேகப்படுதல், to doubt). 凝, 擬 வலப்பக்கம் ஒன்றுபோல் இருந்தாலும் கூடுதல் பகுதி உண்டு. 歌う = うたう (பாடுதல்)."
+      },
+      {
+        "id": "KU21-q16", "type": "orthography",
+        "sentence": "毎朝 走るのが わたしの ＿しゅうかん＿です。", "target": "しゅうかん",
+        "options": ["週慣", "習慣", "習貫", "集慣"], "answer": 1,
+        "explanation_en": "しゅうかん is 習慣 (பழக்கம், habit): 習 (learn) + 慣 (get used to). 週 and 集 are also しゅう; 貫 has no heart 忄.",
+        "explanation_ta": "しゅうかん = 習慣 (பழக்கம், habit): 習 (கற்றல்) + 慣 (பழகுதல்). 週, 集 வும் しゅう தான்; 貫 இல் இதயம் 忄 இல்லை."
+      }
+    ]
+  }
+}

@@ -1,0 +1,830 @@
+[
+  {
+    "id": "n3-v-0051",
+    "expression": "失業",
+    "reading": "しつぎょう",
+    "romaji": "shitsugyou",
+    "en": "unemployment; losing one's job",
+    "ta": "வேலையின்மை; வேலை இழப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会社が つぶれて、父は 失業して しまいました。",
+        "reading": "かいしゃが つぶれて、ちちは しつぎょうして しまいました。",
+        "romaji": "kaisha ga tsuburete, chichi wa shitsugyou shite shimaimashita.",
+        "ta": "நிறுவனம் மூடப்பட்டதால் அப்பா வேலை இழந்துவிட்டார்.",
+        "en": "The company went bankrupt, and my father lost his job."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0055",
+    "expression": "実行",
+    "reading": "じっこう",
+    "romaji": "jikkou",
+    "en": "carrying out; putting into action",
+    "ta": "செயல்படுத்துதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "計画を 立てるのは 簡単ですが、実行するのは 難しいです。",
+        "reading": "けいかくを たてるのは かんたんですが、じっこうするのは むずかしいです。",
+        "romaji": "keikaku o tateru no wa kantan desu ga, jikkou suru no wa muzukashii desu.",
+        "ta": "திட்டம் போடுவது எளிது, ஆனால் அதைச் செயல்படுத்துவது கடினம்.",
+        "en": "Making a plan is easy, but carrying it out is hard."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0095",
+    "expression": "就職",
+    "reading": "しゅうしょく",
+    "romaji": "shuushoku",
+    "en": "getting a job",
+    "ta": "வேலையில் சேர்தல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄は 大学を 出て、東京の 会社に 就職しました。",
+        "reading": "あには だいがくを でて、とうきょうの かいしゃに しゅうしょくしました。",
+        "romaji": "ani wa daigaku o dete, toukyou no kaisha ni shuushoku shimashita.",
+        "ta": "அண்ணன் பல்கலைக்கழகம் முடித்து டோக்கியோவில் ஒரு நிறுவனத்தில் வேலைக்குச் சேர்ந்தார்.",
+        "en": "My brother finished university and got a job at a company in Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0161",
+    "expression": "職",
+    "reading": "しょく",
+    "romaji": "shoku",
+    "en": "job; trade",
+    "ta": "வேலை; தொழில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "手に 職を つければ、どこでも 働けます。",
+        "reading": "てに しょくを つければ、どこでも はたらけます。",
+        "romaji": "te ni shoku o tsukereba, doko demo hatarakemasu.",
+        "ta": "கையில் ஒரு தொழில் இருந்தால் எங்கு வேண்டுமானாலும் வேலை செய்யலாம்.",
+        "en": "If you learn a trade, you can work anywhere."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0162",
+    "expression": "職業",
+    "reading": "しょくぎょう",
+    "romaji": "shokugyou",
+    "en": "occupation",
+    "ta": "தொழில்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "書類の 職業の 欄に「会社員」と 書きました。",
+        "reading": "しょるいの しょくぎょうの らんに「かいしゃいん」と かきました。",
+        "romaji": "shorui no shokugyou no ran ni \"kaishain\" to kakimashita.",
+        "ta": "படிவத்தில் 'தொழில்' என்ற இடத்தில் \"நிறுவன ஊழியர்\" என்று எழுதினேன்.",
+        "en": "In the \"occupation\" box on the form, I wrote \"office worker\"."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0288",
+    "expression": "責任",
+    "reading": "せきにん",
+    "romaji": "sekinin",
+    "en": "responsibility",
+    "ta": "பொறுப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "引き受けた からには、最後まで 責任を 持って やります。",
+        "reading": "ひきうけた からには、さいごまで せきにんを もって やります。",
+        "romaji": "hikiuketa kara ni wa, saigo made sekinin o motte yarimasu.",
+        "ta": "ஒப்புக்கொண்ட பிறகு, கடைசி வரை பொறுப்புடன் செய்து முடிப்பேன்.",
+        "en": "Now that I've taken it on, I'll see it through responsibly."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0309",
+    "expression": "諦める",
+    "reading": "あきらめる",
+    "romaji": "akirameru",
+    "en": "to give up",
+    "ta": "கைவிட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "一度 失敗しても、夢を 諦めないで ください。",
+        "reading": "いちど しっぱいしても、ゆめを あきらめないで ください。",
+        "romaji": "ichido shippai shite mo, yume o akiramenaide kudasai.",
+        "ta": "ஒரு முறை தோற்றாலும் உங்கள் கனவைக் கைவிடாதீர்கள்.",
+        "en": "Even if you fail once, don't give up your dream."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0331",
+    "expression": "当てる",
+    "reading": "あてる",
+    "romaji": "ateru",
+    "en": "to hit; to guess right",
+    "ta": "அடிக்க; சரியாக ஊகிக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "私の 年を 当てて みて ください。",
+        "reading": "わたしの としを あてて みて ください。",
+        "romaji": "watashi no toshi o atete mite kudasai.",
+        "ta": "என் வயதைச் சரியாக ஊகித்துச் சொல்லுங்கள் பார்க்கலாம்.",
+        "en": "Try to guess my age."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0372",
+    "expression": "意思",
+    "reading": "いし",
+    "romaji": "ishi",
+    "en": "intention",
+    "ta": "எண்ணம்; நோக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会社を 辞める 意思を 上司に 伝えました。",
+        "reading": "かいしゃを やめる いしを じょうしに つたえました。",
+        "romaji": "kaisha o yameru ishi o joushi ni tsutaemashita.",
+        "ta": "வேலையை விட்டு விலகும் எண்ணத்தை மேலதிகாரியிடம் தெரிவித்தேன்.",
+        "en": "I told my boss that I intend to quit."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0373",
+    "expression": "意志",
+    "reading": "いし",
+    "romaji": "ishi",
+    "en": "will; willpower",
+    "ta": "மன உறுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼女は 意志が 強いので、毎朝 五時に 起きて 勉強して います。",
+        "reading": "かのじょは いしが つよいので、まいあさ ごじに おきて べんきょうして います。",
+        "romaji": "kanojo wa ishi ga tsuyoi node, maiasa goji ni okite benkyou shite imasu.",
+        "ta": "அவளுக்கு மன உறுதி அதிகம், அதனால் தினமும் காலை ஐந்து மணிக்கு எழுந்து படிக்கிறாள்.",
+        "en": "She has strong willpower, so she gets up at five every morning to study."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0432",
+    "expression": "引退",
+    "reading": "いんたい",
+    "romaji": "intai",
+    "en": "retirement",
+    "ta": "ஓய்வு பெறுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの クリケット選手は 来年 引退する そうです。",
+        "reading": "あの クリケットせんしゅは らいねん いんたいする そうです。",
+        "romaji": "ano kuriketto senshu wa rainen intai suru sou desu.",
+        "ta": "அந்தக் கிரிக்கெட் வீரர் அடுத்த ஆண்டு ஓய்வு பெறப் போகிறாராம்.",
+        "en": "I hear that cricket player will retire next year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0585",
+    "expression": "覚悟",
+    "reading": "かくご",
+    "romaji": "kakugo",
+    "en": "readiness; resolve",
+    "ta": "மனத் தயார்நிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "留学は 大変だと 思いますが、覚悟は できて います。",
+        "reading": "りゅうがくは たいへんだと おもいますが、かくごは できて います。",
+        "romaji": "ryuugaku wa taihen da to omoimasu ga, kakugo wa dekite imasu.",
+        "ta": "வெளிநாட்டுப் படிப்பு கஷ்டமாக இருக்கும் என்று தெரியும், ஆனால் நான் மனதளவில் தயாராக இருக்கிறேன்.",
+        "en": "I know studying abroad will be hard, but I'm ready for it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0709",
+    "expression": "期待",
+    "reading": "きたい",
+    "romaji": "kitai",
+    "en": "expectation",
+    "ta": "எதிர்பார்ப்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "両親の 期待に 応えたいです。",
+        "reading": "りょうしんの きたいに こたえたいです。",
+        "romaji": "ryoushin no kitai ni kotaetai desu.",
+        "ta": "பெற்றோரின் எதிர்பார்ப்பை நிறைவேற்ற விரும்புகிறேன்.",
+        "en": "I want to live up to my parents' expectations."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0723",
+    "expression": "希望",
+    "reading": "きぼう",
+    "romaji": "kibou",
+    "en": "hope; wish",
+    "ta": "நம்பிக்கை; விருப்பம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "第一希望の 大学に 合格しました。",
+        "reading": "だいいちきぼうの だいがくに ごうかくしました。",
+        "romaji": "daiichi kibou no daigaku ni goukaku shimashita.",
+        "ta": "நான் முதலில் விரும்பிய பல்கலைக்கழகத்திலேயே இடம் கிடைத்தது.",
+        "en": "I got into the university that was my first choice."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0728",
+    "expression": "義務",
+    "reading": "ぎむ",
+    "romaji": "gimu",
+    "en": "duty; obligation",
+    "ta": "கடமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本では 中学校まで 教育を 受ける ことが 義務です。",
+        "reading": "にほんでは ちゅうがっこうまで きょういくを うける ことが ぎむです。",
+        "romaji": "nihon de wa chuugakkou made kyouiku o ukeru koto ga gimu desu.",
+        "ta": "ஜப்பானில் நடுநிலைப் பள்ளி வரை கல்வி கற்பது கட்டாயக் கடமை.",
+        "en": "In Japan, schooling is compulsory up to junior high school."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0845",
+    "expression": "決心",
+    "reading": "けっしん",
+    "romaji": "kesshin",
+    "en": "determination; resolution",
+    "ta": "தீர்மானம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "健康の ために、たばこを やめる 決心を しました。",
+        "reading": "けんこうの ために、たばこを やめる けっしんを しました。",
+        "romaji": "kenkou no tame ni, tabako o yameru kesshin o shimashita.",
+        "ta": "ஆரோக்கியத்துக்காகப் புகைபிடிப்பதை நிறுத்தத் தீர்மானித்தேன்.",
+        "en": "For my health, I made up my mind to quit smoking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0847",
+    "expression": "決定",
+    "reading": "けってい",
+    "romaji": "kettei",
+    "en": "decision",
+    "ta": "முடிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会議で 来年の 計画が 決定しました。",
+        "reading": "かいぎで らいねんの けいかくが けっていしました。",
+        "romaji": "kaigi de rainen no keikaku ga kettei shimashita.",
+        "ta": "கூட்டத்தில் அடுத்த ஆண்டுத் திட்டம் முடிவானது.",
+        "en": "Next year's plan was decided at the meeting."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0903",
+    "expression": "候補",
+    "reading": "こうほ",
+    "romaji": "kouho",
+    "en": "candidate; option",
+    "ta": "வேட்பாளர்; பரிசீலனையில் உள்ளது",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "旅行先の 候補は 京都と 沖縄です。",
+        "reading": "りょこうさきの こうほは きょうとと おきなわです。",
+        "romaji": "ryokousaki no kouho wa kyouto to okinawa desu.",
+        "ta": "சுற்றுலா செல்லப் பரிசீலனையில் உள்ள இடங்கள் கியோட்டோவும் ஒகினாவாவும்.",
+        "en": "The places we're considering for our trip are Kyoto and Okinawa."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1058",
+    "expression": "面接",
+    "reading": "めんせつ",
+    "romaji": "mensetsu",
+    "en": "interview",
+    "ta": "நேர்முகத் தேர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "明日は 大切な 面接が あるので、早く 寝ます。",
+        "reading": "あしたは たいせつな めんせつが あるので、はやく ねます。",
+        "romaji": "ashita wa taisetsu na mensetsu ga aru node, hayaku nemasu.",
+        "ta": "நாளை முக்கியமான நேர்முகத் தேர்வு இருப்பதால் சீக்கிரம் தூங்குகிறேன்.",
+        "en": "I have an important interview tomorrow, so I'll go to bed early."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1061",
+    "expression": "申し込む",
+    "reading": "もうしこむ",
+    "romaji": "moushikomu",
+    "en": "to apply for; to sign up",
+    "ta": "விண்ணப்பிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "日本語能力試験に インターネットで 申し込みました。",
+        "reading": "にほんごのうりょくしけんに インターネットで もうしこみました。",
+        "romaji": "nihongo nouryoku shiken ni intaanetto de moushikomimashita.",
+        "ta": "ஜப்பானிய மொழித் திறன் தேர்வுக்கு இணையம் வழியாக விண்ணப்பித்தேன்.",
+        "en": "I applied for the JLPT online."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1065",
+    "expression": "目的",
+    "reading": "もくてき",
+    "romaji": "mokuteki",
+    "en": "purpose; aim",
+    "ta": "நோக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本に 来た 目的は 技術を 学ぶ ことです。",
+        "reading": "にほんに きた もくてきは ぎじゅつを まなぶ ことです。",
+        "romaji": "nihon ni kita mokuteki wa gijutsu o manabu koto desu.",
+        "ta": "நான் ஜப்பானுக்கு வந்த நோக்கம் தொழில்நுட்பம் கற்பதுதான்.",
+        "en": "My purpose in coming to Japan is to learn technical skills."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1066",
+    "expression": "目標",
+    "reading": "もくひょう",
+    "romaji": "mokuhyou",
+    "en": "goal; target",
+    "ta": "இலக்கு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今年の 目標は N3に 合格する ことです。",
+        "reading": "ことしの もくひょうは エヌさんに ごうかくする ことです。",
+        "romaji": "kotoshi no mokuhyou wa enu san ni goukaku suru koto desu.",
+        "ta": "இந்த ஆண்டின் என் இலக்கு N3 தேர்வில் தேர்ச்சி பெறுவது.",
+        "en": "My goal this year is to pass N3."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1101",
+    "expression": "辞める",
+    "reading": "やめる",
+    "romaji": "yameru",
+    "en": "to quit (a job)",
+    "ta": "(வேலையை) விட்டு விலக",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "姉は 結婚して 会社を 辞めました。",
+        "reading": "あねは けっこんして かいしゃを やめました。",
+        "romaji": "ane wa kekkon shite kaisha o yamemashita.",
+        "ta": "அக்கா திருமணமானதும் வேலையை விட்டு விலகினார்.",
+        "en": "My sister got married and quit her company."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1104",
+    "expression": "勇気",
+    "reading": "ゆうき",
+    "romaji": "yuuki",
+    "en": "courage",
+    "ta": "துணிச்சல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "勇気を 出して、先生に 質問しました。",
+        "reading": "ゆうきを だして、せんせいに しつもんしました。",
+        "romaji": "yuuki o dashite, sensei ni shitsumon shimashita.",
+        "ta": "துணிச்சலை வரவழைத்துக்கொண்டு ஆசிரியரிடம் கேள்வி கேட்டேன்.",
+        "en": "I got up my courage and asked the teacher a question."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1118",
+    "expression": "豊か",
+    "reading": "ゆたか",
+    "romaji": "yutaka",
+    "en": "rich; abundant",
+    "ta": "வளமான; செழிப்பான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "タンジャーヴールは 自然が 豊かな 町です。",
+        "reading": "タンジャーヴールは しぜんが ゆたかな まちです。",
+        "romaji": "tanjaavuuru wa shizen ga yutaka na machi desu.",
+        "ta": "தஞ்சாவூர் இயற்கை வளம் நிறைந்த ஊர்.",
+        "en": "Thanjavur is a town rich in nature."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1139",
+    "expression": "止す",
+    "reading": "よす",
+    "romaji": "yosu",
+    "en": "to stop; to quit",
+    "ta": "நிறுத்த; விட்டுவிட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "危ないから、そんな ことは よしなさい。",
+        "reading": "あぶないから、そんな ことは よしなさい。",
+        "romaji": "abunai kara, sonna koto wa yoshinasai.",
+        "ta": "ஆபத்தானது, அப்படிச் செய்வதை விட்டுவிடு.",
+        "en": "That's dangerous, so stop doing that."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1165",
+    "expression": "理想",
+    "reading": "りそう",
+    "romaji": "risou",
+    "en": "ideal",
+    "ta": "இலட்சியம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "理想の 仕事は、好きな ことを して 給料が もらえる 仕事です。",
+        "reading": "りそうの しごとは、すきな ことを して きゅうりょうが もらえる しごとです。",
+        "romaji": "risou no shigoto wa, suki na koto o shite kyuuryou ga moraeru shigoto desu.",
+        "ta": "பிடித்ததைச் செய்து சம்பளமும் கிடைக்கும் வேலைதான் என் இலட்சிய வேலை.",
+        "en": "My ideal job is one where I do what I love and get paid for it."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1214",
+    "expression": "意",
+    "reading": "い",
+    "romaji": "i",
+    "en": "will; mind",
+    "ta": "மனம்; எண்ணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は 意を 決して、社長に 本当の ことを 話しました。",
+        "reading": "かれは いを けっして、しゃちょうに ほんとうの ことを はなしました。",
+        "romaji": "kare wa i o kesshite, shachou ni hontou no koto o hanashimashita.",
+        "ta": "அவர் மனதை உறுதிப்படுத்திக்கொண்டு, நிறுவனத் தலைவரிடம் உண்மையைச் சொன்னார்.",
+        "en": "He made up his mind and told the company president the truth."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1239",
+    "expression": "学歴",
+    "reading": "がくれき",
+    "romaji": "gakureki",
+    "en": "educational background",
+    "ta": "கல்வித் தகுதி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 会社は 学歴より 経験を 大切に して います。",
+        "reading": "この かいしゃは がくれきより けいけんを たいせつに して います。",
+        "romaji": "kono kaisha wa gakureki yori keiken o taisetsu ni shite imasu.",
+        "ta": "இந்த நிறுவனம் கல்வித் தகுதியைவிட அனுபவத்தையே முக்கியமாகக் கருதுகிறது.",
+        "en": "This company values experience more than education."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1301",
+    "expression": "全",
+    "reading": "ぜん",
+    "romaji": "zen",
+    "en": "all; whole (prefix)",
+    "ta": "முழு; அனைத்து",
+    "pos": "prefix",
+    "examples": [
+      {
+        "ja": "全国の 高校生が この 大会に 参加します。",
+        "reading": "ぜんこくの こうこうせいが この たいかいに さんかします。",
+        "romaji": "zenkoku no koukousei ga kono taikai ni sanka shimasu.",
+        "ta": "நாடு முழுவதுமுள்ள மேல்நிலைப் பள்ளி மாணவர்கள் இந்தப் போட்டியில் பங்கேற்கிறார்கள்.",
+        "en": "High school students from all over the country take part in this contest."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1313",
+    "expression": "選択",
+    "reading": "せんたく",
+    "romaji": "sentaku",
+    "en": "choice; selection",
+    "ta": "தேர்வு (தேர்ந்தெடுத்தல்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "どの 大学に 行くかは 人生の 大きな 選択です。",
+        "reading": "どの だいがくに いくかは じんせいの おおきな せんたくです。",
+        "romaji": "dono daigaku ni iku ka wa jinsei no ookina sentaku desu.",
+        "ta": "எந்தப் பல்கலைக்கழகத்துக்குப் போவது என்பது வாழ்க்கையின் பெரிய தேர்வு.",
+        "en": "Which university to go to is a big choice in life."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1367",
+    "expression": "対象",
+    "reading": "たいしょう",
+    "romaji": "taishou",
+    "en": "target; intended group",
+    "ta": "இலக்கு (யாருக்கானது)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "この 奨学金は 留学生が 対象です。",
+        "reading": "この しょうがくきんは りゅうがくせいが たいしょうです。",
+        "romaji": "kono shougakukin wa ryuugakusei ga taishou desu.",
+        "ta": "இந்த உதவித்தொகை வெளிநாட்டு மாணவர்களுக்கானது.",
+        "en": "This scholarship is for international students."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1520",
+    "expression": "勤め",
+    "reading": "つとめ",
+    "romaji": "tsutome",
+    "en": "work; employment",
+    "ta": "வேலை (பணி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "勤めが 終わってから、日本語の 学校に 通って います。",
+        "reading": "つとめが おわってから、にほんごの がっこうに かよって います。",
+        "romaji": "tsutome ga owatte kara, nihongo no gakkou ni kayotte imasu.",
+        "ta": "வேலை முடிந்த பிறகு ஜப்பானிய மொழிப் பள்ளிக்குப் போய் வருகிறேன்.",
+        "en": "After work, I go to a Japanese language school."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1521",
+    "expression": "務め",
+    "reading": "つとめ",
+    "romaji": "tsutome",
+    "en": "duty; role",
+    "ta": "கடமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "子どもを 守るのは 親の 務めです。",
+        "reading": "こどもを まもるのは おやの つとめです。",
+        "romaji": "kodomo o mamoru no wa oya no tsutome desu.",
+        "ta": "குழந்தைகளைப் பாதுகாப்பது பெற்றோரின் கடமை.",
+        "en": "Protecting children is the parents' duty."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1698",
+    "expression": "願い",
+    "reading": "ねがい",
+    "romaji": "negai",
+    "en": "wish; request",
+    "ta": "வேண்டுதல்; கோரிக்கை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "母の 願いは 家族が みんな 健康で いる ことです。",
+        "reading": "ははの ねがいは かぞくが みんな けんこうで いる ことです。",
+        "romaji": "haha no negai wa kazoku ga minna kenkou de iru koto desu.",
+        "ta": "குடும்பத்தினர் எல்லோரும் ஆரோக்கியமாக இருக்க வேண்டும் என்பதே அம்மாவின் வேண்டுதல்.",
+        "en": "My mother's wish is for the whole family to stay healthy."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1699",
+    "expression": "願う",
+    "reading": "ねがう",
+    "romaji": "negau",
+    "en": "to wish; to pray for",
+    "ta": "வேண்ட; விரும்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "皆さんの 幸せを 心から 願って います。",
+        "reading": "みなさんの しあわせを こころから ねがって います。",
+        "romaji": "minasan no shiawase o kokoro kara negatte imasu.",
+        "ta": "உங்கள் அனைவரின் மகிழ்ச்சியை மனதார வேண்டுகிறேன்.",
+        "en": "I truly wish you all happiness."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1722",
+    "expression": "望み",
+    "reading": "のぞみ",
+    "romaji": "nozomi",
+    "en": "hope; wish",
+    "ta": "நம்பிக்கை; ஆசை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "まだ 合格の 望みは あります。最後まで がんばります。",
+        "reading": "まだ ごうかくの のぞみは あります。さいごまで がんばります。",
+        "romaji": "mada goukaku no nozomi wa arimasu. saigo made ganbarimasu.",
+        "ta": "தேர்ச்சி பெறும் நம்பிக்கை இன்னும் இருக்கிறது. கடைசி வரை முயல்வேன்.",
+        "en": "There is still hope of passing. I'll keep trying to the end."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1723",
+    "expression": "望む",
+    "reading": "のぞむ",
+    "romaji": "nozomu",
+    "en": "to wish for; to hope",
+    "ta": "விரும்ப; எதிர்பார்க்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "多くの 人が 平和な 世界を 望んで います。",
+        "reading": "おおくの ひとが へいわな せかいを のぞんで います。",
+        "romaji": "ooku no hito ga heiwa na sekai o nozonde imasu.",
+        "ta": "பலர் அமைதியான உலகை விரும்புகிறார்கள்.",
+        "en": "Many people wish for a peaceful world."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1806",
+    "expression": "判断",
+    "reading": "はんだん",
+    "romaji": "handan",
+    "en": "judgment; decision",
+    "ta": "மதிப்பீடு; முடிவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "人を 見た目だけで 判断しては いけません。",
+        "reading": "ひとを みためだけで はんだんしては いけません。",
+        "romaji": "hito o mitame dake de handan shite wa ikemasen.",
+        "ta": "ஒருவரைத் தோற்றத்தை வைத்து மட்டும் மதிப்பிடக் கூடாது.",
+        "en": "You shouldn't judge people only by their looks."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1926",
+    "expression": "方",
+    "reading": "ほう",
+    "romaji": "hou",
+    "en": "side; direction; (the) one",
+    "ta": "பக்கம்; திசை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "給料より、やりがいの ある 仕事の 方を 選びました。",
+        "reading": "きゅうりょうより、やりがいの ある しごとの ほうを えらびました。",
+        "romaji": "kyuuryou yori, yarigai no aru shigoto no hou o erabimashita.",
+        "ta": "சம்பளத்தைவிட, மனநிறைவு தரும் வேலையையே தேர்ந்தெடுத்தேன்.",
+        "en": "Rather than the salary, I chose the job that is worth doing."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1929",
+    "expression": "冒険",
+    "reading": "ぼうけん",
+    "romaji": "bouken",
+    "en": "adventure; risk",
+    "ta": "சாகசம்; துணிகரச் செயல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "会社を 辞めて 店を 始めるのは 大きな 冒険です。",
+        "reading": "かいしゃを やめて みせを はじめるのは おおきな ぼうけんです。",
+        "romaji": "kaisha o yamete mise o hajimeru no wa ookina bouken desu.",
+        "ta": "வேலையை விட்டுவிட்டுக் கடை தொடங்குவது பெரிய துணிகரச் செயல்.",
+        "en": "Quitting your job to open a shop is a big risk."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2004",
+    "expression": "資格",
+    "reading": "しかく",
+    "romaji": "shikaku",
+    "en": "qualification; licence",
+    "ta": "தகுதி; தகுதிச் சான்றிதழ்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "看護師の 資格を 取って、日本で 働きたいです。",
+        "reading": "かんごしの しかくを とって、にほんで はたらきたいです。",
+        "romaji": "kangoshi no shikaku o totte, nihon de hatarakitai desu.",
+        "ta": "செவிலியர் தகுதிச் சான்றிதழ் பெற்று ஜப்பானில் வேலை செய்ய விரும்புகிறேன்.",
+        "en": "I want to get a nursing qualification and work in Japan."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2014",
+    "expression": "志望",
+    "reading": "しぼう",
+    "romaji": "shibou",
+    "en": "wish; first choice (of school, job)",
+    "ta": "விருப்பம் (இலக்கு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "面接で 志望理由を 聞かれました。",
+        "reading": "めんせつで しぼうりゆうを きかれました。",
+        "romaji": "mensetsu de shibou riyuu o kikaremashita.",
+        "ta": "நேர்முகத் தேர்வில், இந்த வேலையை ஏன் விரும்புகிறேன் என்ற காரணத்தைக் கேட்டார்கள்.",
+        "en": "At the interview, they asked me why I applied."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2048",
+    "expression": "選考",
+    "reading": "せんこう",
+    "romaji": "senkou",
+    "en": "selection; screening",
+    "ta": "தேர்வு நடைமுறை (பரிசீலனை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "書類選考に 通ったので、来週 面接が あります。",
+        "reading": "しょるいせんこうに とおったので、らいしゅう めんせつが あります。",
+        "romaji": "shorui senkou ni tootta node, raishuu mensetsu ga arimasu.",
+        "ta": "விண்ணப்பப் பரிசீலனையில் தேறியதால் அடுத்த வாரம் நேர்முகத் தேர்வு இருக்கிறது.",
+        "en": "I passed the document screening, so I have an interview next week."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2066",
+    "expression": "挑戦",
+    "reading": "ちょうせん",
+    "romaji": "chousen",
+    "en": "challenge; attempt",
+    "ta": "சவால்; முயற்சி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "新しい ことに どんどん 挑戦したいです。",
+        "reading": "あたらしい ことに どんどん ちょうせんしたいです。",
+        "romaji": "atarashii koto ni dondon chousen shitai desu.",
+        "ta": "புதிய விஷயங்களை அடுத்தடுத்து முயன்று பார்க்க விரும்புகிறேன்.",
+        "en": "I want to take on one new challenge after another."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2094",
+    "expression": "難",
+    "reading": "なん",
+    "romaji": "nan",
+    "en": "difficulty; hardship",
+    "ta": "சிரமம்; கஷ்டம்",
+    "pos": "suffix",
+    "examples": [
+      {
+        "ja": "不景気で、若者の 就職難が 続いて います。",
+        "reading": "ふけいきで、わかものの しゅうしょくなんが つづいて います。",
+        "romaji": "fukeiki de, wakamono no shuushokunan ga tsuzuite imasu.",
+        "ta": "பொருளாதார மந்தத்தால் இளைஞர்களுக்கு வேலை கிடைப்பது தொடர்ந்து சிரமமாக இருக்கிறது.",
+        "en": "Because of the recession, it is still hard for young people to find jobs."
+      }
+    ]
+  }
+]

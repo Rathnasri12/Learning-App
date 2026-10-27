@@ -1,0 +1,956 @@
+[
+ {
+  "id": "n3-v-0068",
+  "expression": "品",
+  "reading": "しな",
+  "romaji": "shina",
+  "en": "goods, item",
+  "ta": "பொருள் (சரக்கு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店ではいい品が安く買えます。",
+    "reading": "この みせでは いい しなが やすく かえます。",
+    "romaji": "kono mise de wa ii shina ga yasuku kaemasu.",
+    "ta": "இந்தக் கடையில் நல்ல பொருட்களை மலிவாக வாங்கலாம்.",
+    "en": "You can buy good items cheaply at this shop."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0122",
+  "expression": "順",
+  "reading": "じゅん",
+  "romaji": "jun",
+  "en": "order, sequence",
+  "ta": "வரிசை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "名前の順に呼びますので、お待ちください。",
+    "reading": "なまえの じゅんに よびますので、おまち ください。",
+    "romaji": "namae no jun ni yobimasu node, omachi kudasai.",
+    "ta": "பெயர் வரிசைப்படி அழைப்போம், தயவுசெய்து காத்திருங்கள்.",
+    "en": "We’ll call you in order of name, so please wait."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0125",
+  "expression": "順番",
+  "reading": "じゅんばん",
+  "romaji": "junban",
+  "en": "turn (in line)",
+  "ta": "முறை (வரிசையில்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "レジの前で順番を待っています。",
+    "reading": "レジの まえで じゅんばんを まって います。",
+    "romaji": "reji no mae de junban o matte imasu.",
+    "ta": "பணம் செலுத்தும் இடத்தின் முன் என் முறைக்காகக் காத்திருக்கிறேன்.",
+    "en": "I’m waiting for my turn at the checkout."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0149",
+  "expression": "商人",
+  "reading": "しょうにん",
+  "romaji": "shounin",
+  "en": "merchant, trader",
+  "ta": "வணிகர்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "昔、この町には多くの商人が住んでいました。",
+    "reading": "むかし、この まちには おおくの しょうにんが すんで いました。",
+    "romaji": "mukashi, kono machi ni wa ooku no shounin ga sunde imashita.",
+    "ta": "முன்பு இந்த ஊரில் நிறைய வணிகர்கள் வாழ்ந்தார்கள்.",
+    "en": "Long ago, many merchants lived in this town."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0154",
+  "expression": "商品",
+  "reading": "しょうひん",
+  "romaji": "shouhin",
+  "en": "product, goods",
+  "ta": "விற்பனைப் பொருள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しい商品が来週から店に並びます。",
+    "reading": "あたらしい しょうひんが らいしゅうから みせに ならびます。",
+    "romaji": "atarashii shouhin ga raishuu kara mise ni narabimasu.",
+    "ta": "புதிய பொருட்கள் அடுத்த வாரத்திலிருந்து கடைகளில் விற்பனைக்கு வரும்.",
+    "en": "The new products will be in the shops from next week."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0164",
+  "expression": "食品",
+  "reading": "しょくひん",
+  "romaji": "shokuhin",
+  "en": "food products",
+  "ta": "உணவுப் பொருள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このスーパーではインドの食品も売っています。",
+    "reading": "この スーパーでは インドの しょくひんも うって います。",
+    "romaji": "kono suupaa de wa indo no shokuhin mo utte imasu.",
+    "ta": "இந்தச் சூப்பர் மார்க்கெட்டில் இந்திய உணவுப் பொருட்களும் விற்கிறார்கள்.",
+    "en": "This supermarket also sells Indian food products."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0295",
+  "expression": "セット",
+  "reading": "セット",
+  "romaji": "setto",
+  "en": "set",
+  "ta": "தொகுப்பு (செட்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "ハンバーガーとジュースのセットを注文しました。",
+    "reading": "ハンバーガーと ジュースの セットを ちゅうもんしました。",
+    "romaji": "hanbaagaa to juusu no setto o chuumon shimashita.",
+    "ta": "ஹாம்பர்கரும் ஜூஸும் சேர்ந்த செட்டை ஆர்டர் செய்தேன்.",
+    "en": "I ordered a hamburger and juice set."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0388",
+  "expression": "市",
+  "reading": "いち",
+  "romaji": "ichi",
+  "en": "market, fair",
+  "ta": "சந்தை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日曜日に神社で古い物の市があります。",
+    "reading": "にちようびに じんじゃで ふるい ものの いちが あります。",
+    "romaji": "nichiyoubi ni jinja de furui mono no ichi ga arimasu.",
+    "ta": "ஞாயிற்றுக்கிழமை ஆலயத்தில் பழைய பொருட்களின் சந்தை நடக்கும்.",
+    "en": "On Sunday there is a market for old things at the shrine."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0392",
+  "expression": "市場",
+  "reading": "いちば",
+  "romaji": "ichiba",
+  "en": "market",
+  "ta": "சந்தை (மார்க்கெட்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "朝早く市場へ魚を買いに行きました。",
+    "reading": "あさ はやく いちばへ さかなを かいに いきました。",
+    "romaji": "asa hayaku ichiba e sakana o kai ni ikimashita.",
+    "ta": "அதிகாலையில் மீன் வாங்கச் சந்தைக்குப் போனேன்.",
+    "en": "I went to the market early in the morning to buy fish."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0462",
+  "expression": "売れる",
+  "reading": "うれる",
+  "romaji": "ureru",
+  "en": "to sell (well), to be sold",
+  "ta": "விற்பனையாக",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "この傘は雨の日によく売れます。",
+    "reading": "この かさは あめの ひに よく うれます。",
+    "romaji": "kono kasa wa ame no hi ni yoku uremasu.",
+    "ta": "இந்தக் குடை மழை நாட்களில் நன்றாக விற்பனையாகும்.",
+    "en": "These umbrellas sell well on rainy days."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0506",
+  "expression": "収める",
+  "reading": "おさめる",
+  "romaji": "osameru",
+  "en": "to put away, to store",
+  "ta": "(உள்ளே) வைக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "旅行の写真をアルバムに収めました。",
+    "reading": "りょこうの しゃしんを アルバムに おさめました。",
+    "romaji": "ryokou no shashin o arubamu ni osamemashita.",
+    "ta": "பயணப் புகைப்படங்களை ஆல்பத்தில் சேர்த்து வைத்தேன்.",
+    "en": "I put the trip photos into an album."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0507",
+  "expression": "納める",
+  "reading": "おさめる",
+  "romaji": "osameru",
+  "en": "to pay (a fee or tax)",
+  "ta": "(கட்டணம், வரி) செலுத்த",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "授業料は四月までに納めてください。",
+    "reading": "じゅぎょうりょうは しがつまでに おさめて ください。",
+    "romaji": "jugyouryou wa shigatsu made ni osamete kudasai.",
+    "ta": "கல்விக் கட்டணத்தை ஏப்ரலுக்குள் செலுத்துங்கள்.",
+    "en": "Please pay the tuition fee by April."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0566",
+  "expression": "代える",
+  "reading": "かえる",
+  "romaji": "kaeru",
+  "en": "to replace, to substitute",
+  "ta": "ஈடாக வைக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "健康はお金に代えられません。",
+    "reading": "けんこうは おかねに かえられません。",
+    "romaji": "kenkou wa okane ni kaeraremasen.",
+    "ta": "ஆரோக்கியத்துக்கு ஈடாகப் பணத்தை வைக்க முடியாது.",
+    "en": "Money can’t replace your health."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0567",
+  "expression": "替える",
+  "reading": "かえる",
+  "romaji": "kaeru",
+  "en": "to change (for), to exchange",
+  "ta": "மாற்ற",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "一万円札を千円札に替えてもらえますか。",
+    "reading": "いちまんえんさつを せんえんさつに かえて もらえますか。",
+    "romaji": "ichiman’ensatsu o sen’ensatsu ni kaete moraemasu ka.",
+    "ta": "பத்தாயிரம் யென் நோட்டை ஆயிரம் யென் நோட்டுகளாக மாற்றித் தர முடியுமா?",
+    "en": "Could you change a 10,000-yen note into 1,000-yen notes?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0568",
+  "expression": "換える",
+  "reading": "かえる",
+  "romaji": "kaeru",
+  "en": "to convert, to exchange",
+  "ta": "(வேறொன்றாக) மாற்ற",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "古い本を売って、お金に換えました。",
+    "reading": "ふるい ほんを うって、おかねに かえました。",
+    "romaji": "furui hon o utte, okane ni kaemashita.",
+    "ta": "பழைய புத்தகங்களை விற்றுப் பணமாக மாற்றினேன்.",
+    "en": "I sold my old books and turned them into money."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0578",
+  "expression": "限る",
+  "reading": "かぎる",
+  "romaji": "kagiru",
+  "en": "to limit",
+  "ta": "வரம்பிட",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "参加者は二十人に限ります。",
+    "reading": "さんかしゃは にじゅうにんに かぎります。",
+    "romaji": "sankasha wa nijuunin ni kagirimasu.",
+    "ta": "பங்கேற்பாளர்கள் இருபது பேருக்கு மட்டுமே.",
+    "en": "Participants are limited to twenty people."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0622",
+  "expression": "価値",
+  "reading": "かち",
+  "romaji": "kachi",
+  "en": "value, worth",
+  "ta": "மதிப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この古い時計は今、高い価値があります。",
+    "reading": "この ふるい とけいは いま、たかい かちが あります。",
+    "romaji": "kono furui tokei wa ima, takai kachi ga arimasu.",
+    "ta": "இந்தப் பழைய கடிகாரத்துக்கு இப்போது அதிக மதிப்பு உண்டு.",
+    "en": "This old watch is worth a lot now."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0634",
+  "expression": "必ずしも",
+  "reading": "かならずしも",
+  "romaji": "kanarazushimo",
+  "en": "(not) necessarily",
+  "ta": "எப்போதும் (அப்படி இல்லை)",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "高い物が必ずしもいい物だとは限りません。",
+    "reading": "たかい ものが かならずしも いい ものだとは かぎりません。",
+    "romaji": "takai mono ga kanarazushimo ii mono da to wa kagirimasen.",
+    "ta": "விலை உயர்ந்த பொருள் எப்போதும் நல்ல பொருள் என்று சொல்ல முடியாது.",
+    "en": "Expensive things are not necessarily good things."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0717",
+  "expression": "気に入る",
+  "reading": "きにいる",
+  "romaji": "kiniiru",
+  "en": "to like, to be pleased with",
+  "ta": "பிடித்துப்போக",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "このバッグがとても気に入りました。",
+    "reading": "この バッグが とても きに いりました。",
+    "romaji": "kono baggu ga totemo ki ni irimashita.",
+    "ta": "இந்தக் கைப்பை எனக்கு மிகவும் பிடித்துவிட்டது.",
+    "en": "I really like this bag."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0881",
+  "expression": "高価",
+  "reading": "こうか",
+  "romaji": "kouka",
+  "en": "expensive, high-priced",
+  "ta": "விலையுயர்ந்த",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "高価な物は金庫に入れてください。",
+    "reading": "こうかな ものは きんこに いれて ください。",
+    "romaji": "kouka na mono wa kinko ni irete kudasai.",
+    "ta": "விலையுயர்ந்த பொருட்களைப் பணப்பெட்டகத்தில் வையுங்கள்.",
+    "en": "Please put expensive things in the safe."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0884",
+  "expression": "交換",
+  "reading": "こうかん",
+  "romaji": "koukan",
+  "en": "exchange, swap",
+  "ta": "மாற்றுதல் (பரிமாற்றம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "サイズが合わなかったので、店で交換してもらいました。",
+    "reading": "サイズが あわなかったので、みせで こうかんして もらいました。",
+    "romaji": "saizu ga awanakatta node, mise de koukan shite moraimashita.",
+    "ta": "அளவு பொருந்தாததால் கடையில் மாற்றித் தந்தார்கள்.",
+    "en": "The size didn’t fit, so the shop exchanged it for me."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0890",
+  "expression": "広告",
+  "reading": "こうこく",
+  "romaji": "koukoku",
+  "en": "advertisement",
+  "ta": "விளம்பரம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新聞の広告を見て、この店に来ました。",
+    "reading": "しんぶんの こうこくを みて、この みせに きました。",
+    "romaji": "shinbun no koukoku o mite, kono mise ni kimashita.",
+    "ta": "செய்தித்தாள் விளம்பரத்தைப் பார்த்து இந்தக் கடைக்கு வந்தேன்.",
+    "en": "I saw the newspaper ad and came to this shop."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0938",
+  "expression": "好み",
+  "reading": "このみ",
+  "romaji": "konomi",
+  "en": "taste, liking",
+  "ta": "ரசனை (விருப்பம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このシャツの色は私の好みではありません。",
+    "reading": "この シャツの いろは わたしの このみでは ありません。",
+    "romaji": "kono shatsu no iro wa watashi no konomi de wa arimasen.",
+    "ta": "இந்தச் சட்டையின் நிறம் என் ரசனைக்கு ஏற்றதல்ல.",
+    "en": "The colour of this shirt isn’t to my taste."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0939",
+  "expression": "好む",
+  "reading": "このむ",
+  "romaji": "konomu",
+  "en": "to like, to prefer",
+  "ta": "விரும்ப",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "若い人は明るい色の服を好むようです。",
+    "reading": "わかい ひとは あかるい いろの ふくを このむ ようです。",
+    "romaji": "wakai hito wa akarui iro no fuku o konomu you desu.",
+    "ta": "இளைஞர்கள் பிரகாசமான நிற உடைகளை விரும்புவதாகத் தெரிகிறது.",
+    "en": "Young people seem to prefer brightly coloured clothes."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0959",
+  "expression": "サービス",
+  "reading": "サービス",
+  "romaji": "saabisu",
+  "en": "service; free extra",
+  "ta": "சேவை; இலவசம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このコーヒーはサービスです。どうぞ。",
+    "reading": "この コーヒーは サービスです。どうぞ。",
+    "romaji": "kono koohii wa saabisu desu. douzo.",
+    "ta": "இந்தக் காபி இலவசம். எடுத்துக்கொள்ளுங்கள்.",
+    "en": "This coffee is free. Please have it."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1042",
+  "expression": "無料",
+  "reading": "むりょう",
+  "romaji": "muryou",
+  "en": "free (of charge)",
+  "ta": "இலவசம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "三千円以上買うと、配達は無料です。",
+    "reading": "さんぜんえん いじょう かうと、はいたつは むりょうです。",
+    "romaji": "sanzen’en ijou kau to, haitatsu wa muryou desu.",
+    "ta": "மூவாயிரம் யென்னுக்கு மேல் வாங்கினால் டெலிவரி இலவசம்.",
+    "en": "If you spend 3,000 yen or more, delivery is free."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1168",
+  "expression": "流行",
+  "reading": "りゅうこう",
+  "romaji": "ryuukou",
+  "en": "fashion, trend",
+  "ta": "நாகரிகம் (ட்ரெண்ட்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今年はこの色が流行しています。",
+    "reading": "ことしは この いろが りゅうこうして います。",
+    "romaji": "kotoshi wa kono iro ga ryuukou shite imasu.",
+    "ta": "இந்த ஆண்டு இந்த நிறம் ட்ரெண்டாக இருக்கிறது.",
+    "en": "This colour is in fashion this year."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1314",
+  "expression": "宣伝",
+  "reading": "せんでん",
+  "romaji": "senden",
+  "en": "advertising, publicity",
+  "ta": "விளம்பரம் (பிரசாரம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "テレビで宣伝しているお菓子を買ってみました。",
+    "reading": "テレビで せんでんして いる おかしを かって みました。",
+    "romaji": "terebi de senden shite iru okashi o katte mimashita.",
+    "ta": "டிவியில் விளம்பரம் செய்யப்படும் தின்பண்டத்தை வாங்கிப் பார்த்தேன்.",
+    "en": "I tried the snack they advertise on TV."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1346",
+  "expression": "揃える",
+  "reading": "そろえる",
+  "romaji": "soroeru",
+  "en": "to get together (a full set), to line up",
+  "ta": "(தேவையானவற்றை) சேர்த்து வைக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "引っ越す前に、必要な家具を揃えました。",
+    "reading": "ひっこす まえに、ひつような かぐを そろえました。",
+    "romaji": "hikkosu mae ni, hitsuyou na kagu o soroemashita.",
+    "ta": "வீடு மாறுவதற்கு முன் தேவையான மரச்சாமான்கள் எல்லாவற்றையும் வாங்கிச் சேர்த்தேன்.",
+    "en": "Before moving, I got all the furniture I needed."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1401",
+  "expression": "ただ",
+  "reading": "ただ",
+  "romaji": "tada",
+  "en": "free (of charge); just",
+  "ta": "இலவசம்; வெறும்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店では袋はただでもらえます。",
+    "reading": "この みせでは ふくろは ただで もらえます。",
+    "romaji": "kono mise de wa fukuro wa tada de moraemasu.",
+    "ta": "இந்தக் கடையில் பையை இலவசமாகப் பெறலாம்.",
+    "en": "At this shop you can get a bag for free."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1402",
+  "expression": "只",
+  "reading": "ただ",
+  "romaji": "tada",
+  "en": "free (of charge); mere",
+  "ta": "இலவசம்; வெறும்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "只より高い物はないと言います。",
+    "reading": "ただより たかい ものは ないと いいます。",
+    "romaji": "tada yori takai mono wa nai to iimasu.",
+    "ta": "\"இலவசத்தைவிட விலை உயர்ந்தது எதுவும் இல்லை\" என்று சொல்வார்கள்.",
+    "en": "They say nothing costs more than something free."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1477",
+  "expression": "中古",
+  "reading": "ちゅうこ",
+  "romaji": "chuuko",
+  "en": "used, second-hand",
+  "ta": "பழைய (செகண்ட் ஹேண்ட்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "お金がないので、中古の自転車を買いました。",
+    "reading": "おかねが ないので、ちゅうこの じてんしゃを かいました。",
+    "romaji": "okane ga nai node, chuuko no jitensha o kaimashita.",
+    "ta": "பணம் இல்லாததால் செகண்ட் ஹேண்ட் சைக்கிள் வாங்கினேன்.",
+    "en": "I had no money, so I bought a used bicycle."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1483",
+  "expression": "注文",
+  "reading": "ちゅうもん",
+  "romaji": "chuumon",
+  "en": "order (for goods)",
+  "ta": "ஆர்டர் (கேட்டு வாங்குதல்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "インターネットで本を注文しました。",
+    "reading": "インターネットで ほんを ちゅうもんしました。",
+    "romaji": "intaanetto de hon o chuumon shimashita.",
+    "ta": "இணையத்தில் புத்தகம் ஆர்டர் செய்தேன்.",
+    "en": "I ordered a book online."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1697",
+  "expression": "値",
+  "reading": "ね",
+  "romaji": "ne",
+  "en": "price",
+  "ta": "விலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "雨が多くて、野菜の値が上がりました。",
+    "reading": "あめが おおくて、やさいの ねが あがりました。",
+    "romaji": "ame ga ookute, yasai no ne ga agarimashita.",
+    "ta": "மழை அதிகமாக இருந்ததால் காய்கறி விலை ஏறியது.",
+    "en": "There was a lot of rain, so vegetable prices went up."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1742",
+  "expression": "配達",
+  "reading": "はいたつ",
+  "romaji": "haitatsu",
+  "en": "delivery",
+  "ta": "டெலிவரி (விநியோகம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "注文した品物は明日の午前中に配達されます。",
+    "reading": "ちゅうもんした しなものは あしたの ごぜんちゅうに はいたつ されます。",
+    "romaji": "chuumon shita shinamono wa ashita no gozenchuu ni haitatsu saremasu.",
+    "ta": "ஆர்டர் செய்த பொருள் நாளை காலை நேரத்தில் டெலிவரி செய்யப்படும்.",
+    "en": "The goods you ordered will be delivered tomorrow morning."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1773",
+  "expression": "バッグ",
+  "reading": "バッグ",
+  "romaji": "baggu",
+  "en": "bag, handbag",
+  "ta": "கைப்பை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "姉の誕生日に革のバッグをプレゼントしました。",
+    "reading": "あねの たんじょうびに かわの バッグを プレゼントしました。",
+    "romaji": "ane no tanjoubi ni kawa no baggu o purezento shimashita.",
+    "ta": "அக்காவின் பிறந்தநாளுக்குத் தோல் கைப்பை பரிசளித்தேன்.",
+    "en": "I gave my older sister a leather bag for her birthday."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1796",
+  "expression": "流行る",
+  "reading": "はやる",
+  "romaji": "hayaru",
+  "en": "to be popular, to be in fashion",
+  "ta": "பிரபலமாக இருக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "今、若い人の間でこのゲームが流行っています。",
+    "reading": "いま、わかい ひとの あいだで この ゲームが はやって います。",
+    "romaji": "ima, wakai hito no aida de kono geemu ga hayatte imasu.",
+    "ta": "இப்போது இளைஞர்களிடையே இந்த விளையாட்டு பிரபலமாக இருக்கிறது.",
+    "en": "This game is popular among young people now."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1808",
+  "expression": "販売",
+  "reading": "はんばい",
+  "romaji": "hanbai",
+  "en": "sale, selling",
+  "ta": "விற்பனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店ではコンサートのチケットの販売もしています。",
+    "reading": "この みせでは コンサートの チケットの はんばいも して います。",
+    "romaji": "kono mise de wa konsaato no chiketto no hanbai mo shite imasu.",
+    "ta": "இந்தக் கடையில் இசை நிகழ்ச்சி டிக்கெட் விற்பனையும் நடக்கிறது.",
+    "en": "This shop also sells concert tickets."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1850",
+  "expression": "品",
+  "reading": "ひん",
+  "romaji": "hin",
+  "en": "elegance, class; goods",
+  "ta": "கண்ணியம் (நயம்); பொருள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "あの人の話し方には品があります。",
+    "reading": "あの ひとの はなしかたには ひんが あります。",
+    "romaji": "ano hito no hanashikata ni wa hin ga arimasu.",
+    "ta": "அவருடைய பேச்சில் ஒரு கண்ணியம் இருக்கிறது.",
+    "en": "That person speaks with elegance."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1851",
+  "expression": "瓶",
+  "reading": "びん",
+  "romaji": "bin",
+  "en": "bottle",
+  "ta": "பாட்டில்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "空いた瓶はこの箱に入れてください。",
+    "reading": "あいた びんは この はこに いれて ください。",
+    "romaji": "aita bin wa kono hako ni irete kudasai.",
+    "ta": "காலியான பாட்டில்களை இந்தப் பெட்டியில் போடுங்கள்.",
+    "en": "Please put empty bottles in this box."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1867",
+  "expression": "含む",
+  "reading": "ふくむ",
+  "romaji": "fukumu",
+  "en": "to contain, to include",
+  "ta": "உள்ளடக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この値段は税金を含んでいます。",
+    "reading": "この ねだんは ぜいきんを ふくんで います。",
+    "romaji": "kono nedan wa zeikin o fukunde imasu.",
+    "ta": "இந்த விலையில் வரியும் அடங்கியுள்ளது.",
+    "en": "This price includes tax."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1868",
+  "expression": "含める",
+  "reading": "ふくめる",
+  "romaji": "fukumeru",
+  "en": "to include (someone or something)",
+  "ta": "சேர்த்துக்கொள்ள",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "私を含めて、五人で旅行に行きます。",
+    "reading": "わたしを ふくめて、ごにんで りょこうに いきます。",
+    "romaji": "watashi o fukumete, gonin de ryokou ni ikimasu.",
+    "ta": "என்னையும் சேர்த்து ஐந்து பேர் பயணம் போகிறோம்.",
+    "en": "Five of us, including me, are going on a trip."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1869",
+  "expression": "袋",
+  "reading": "ふくろ",
+  "romaji": "fukuro",
+  "en": "bag, sack",
+  "ta": "பை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "「袋はいりますか」と店員に聞かれました。",
+    "reading": "「ふくろは いりますか」と てんいんに きかれました。",
+    "romaji": "\"fukuro wa irimasu ka\" to ten’in ni kikaremashita.",
+    "ta": "\"பை வேண்டுமா?\" என்று கடை ஊழியர் கேட்டார்.",
+    "en": "The shop assistant asked me, \"Do you need a bag?\""
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1887",
+  "expression": "物価",
+  "reading": "ぶっか",
+  "romaji": "bukka",
+  "en": "prices, cost of living",
+  "ta": "விலைவாசி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "東京は物価が高いと言われています。",
+    "reading": "とうきょうは ぶっかが たかいと いわれて います。",
+    "romaji": "toukyou wa bukka ga takai to iwarete imasu.",
+    "ta": "டோக்கியோவில் விலைவாசி அதிகம் என்று சொல்லப்படுகிறது.",
+    "en": "People say prices are high in Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1933",
+  "expression": "包装",
+  "reading": "ほうそう",
+  "romaji": "housou",
+  "en": "wrapping, packing",
+  "ta": "பொதியிடல் (ரேப்பிங்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "プレゼントなので、包装をお願いします。",
+    "reading": "プレゼントなので、ほうそうを おねがいします。",
+    "romaji": "purezento na node, housou o onegai shimasu.",
+    "ta": "இது பரிசு என்பதால், அழகாகப் பொதிந்து தாருங்கள்.",
+    "en": "It’s a present, so please wrap it."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1946",
+  "expression": "保証",
+  "reading": "ほしょう",
+  "romaji": "hoshou",
+  "en": "guarantee, warranty",
+  "ta": "உத்தரவாதம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このパソコンには一年間の保証がついています。",
+    "reading": "この パソコンには いちねんかんの ほしょうが ついて います。",
+    "romaji": "kono pasokon ni wa ichinenkan no hoshou ga tsuite imasu.",
+    "ta": "இந்தக் கணினிக்கு ஒரு வருட உத்தரவாதம் உண்டு.",
+    "en": "This computer comes with a one-year warranty."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1960",
+  "expression": "本物",
+  "reading": "ほんもの",
+  "romaji": "honmono",
+  "en": "the real thing, genuine",
+  "ta": "அசல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このダイヤモンドは本物ですか。",
+    "reading": "この ダイヤモンドは ほんものですか。",
+    "romaji": "kono daiyamondo wa honmono desu ka.",
+    "ta": "இந்த வைரம் அசலா?",
+    "en": "Is this diamond real?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1964",
+  "expression": "マーケット",
+  "reading": "マーケット",
+  "romaji": "maaketto",
+  "en": "market",
+  "ta": "மார்க்கெட் (சந்தை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "週末に駅の前でフリーマーケットがあります。",
+    "reading": "しゅうまつに えきの まえで フリーマーケットが あります。",
+    "romaji": "shuumatsu ni eki no mae de furii maaketto ga arimasu.",
+    "ta": "வார இறுதியில் ஸ்டேஷன் முன் ஒரு பழைய பொருள் சந்தை நடக்கும்.",
+    "en": "There’s a flea market in front of the station at the weekend."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1994",
+  "expression": "まとめる",
+  "reading": "まとめる",
+  "romaji": "matomeru",
+  "en": "to put together; to sum up",
+  "ta": "ஒன்றாகச் சேர்க்க; தொகுக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "買った物を一つの袋にまとめてもらえますか。",
+    "reading": "かった ものを ひとつの ふくろに まとめて もらえますか。",
+    "romaji": "katta mono o hitotsu no fukuro ni matomete moraemasu ka.",
+    "ta": "வாங்கியவற்றை ஒரே பையில் சேர்த்துப் போட்டுத் தர முடியுமா?",
+    "en": "Could you put the things I bought together in one bag?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2091",
+  "expression": "並",
+  "reading": "なみ",
+  "romaji": "nami",
+  "en": "regular (size), ordinary",
+  "ta": "சாதாரண (நடுத்தர அளவு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "牛丼の並を一つください。",
+    "reading": "ぎゅうどんの なみを ひとつ ください。",
+    "romaji": "gyuudon no nami o hitotsu kudasai.",
+    "ta": "சாதாரண அளவு ஒரு கியூடான் (மாட்டிறைச்சி சாதம்) கொடுங்கள்.",
+    "en": "One regular-size beef bowl, please."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2117",
+  "expression": "保障",
+  "reading": "ほしょう",
+  "romaji": "hoshou",
+  "en": "security, protection",
+  "ta": "பாதுகாப்பு (உறுதி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "日本では社会保障のために税金を払います。",
+    "reading": "にほんでは しゃかい ほしょうの ために ぜいきんを はらいます。",
+    "romaji": "nihon de wa shakai hoshou no tame ni zeikin o haraimasu.",
+    "ta": "ஜப்பானில் சமூகப் பாதுகாப்புக்காக வரி செலுத்துகிறோம்.",
+    "en": "In Japan we pay taxes for social security."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2131",
+  "expression": "有機",
+  "reading": "ゆうき",
+  "romaji": "yuuki",
+  "en": "organic",
+  "ta": "இயற்கை முறை (ஆர்கானிக்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店の野菜は全部有機野菜です。",
+    "reading": "この みせの やさいは ぜんぶ ゆうき やさいです。",
+    "romaji": "kono mise no yasai wa zenbu yuuki yasai desu.",
+    "ta": "இந்தக் கடையின் காய்கறிகள் எல்லாம் இயற்கை முறையில் விளைந்தவை.",
+    "en": "All the vegetables at this shop are organic."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2137",
+  "expression": "ラベル",
+  "reading": "ラベル",
+  "romaji": "raberu",
+  "en": "label",
+  "ta": "லேபிள் (விவரச் சீட்டு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "買う前に、食品のラベルをよく読みます。",
+    "reading": "かう まえに、しょくひんの ラベルを よく よみます。",
+    "romaji": "kau mae ni, shokuhin no raberu o yoku yomimasu.",
+    "ta": "வாங்கும் முன் உணவுப் பொருளின் லேபிளை நன்றாகப் படிப்பேன்.",
+    "en": "Before I buy food, I read the label carefully."
+   }
+  ]
+ }
+]

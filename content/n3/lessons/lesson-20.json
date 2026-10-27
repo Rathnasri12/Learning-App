@@ -1,0 +1,291 @@
+{
+  "lesson": 20,
+  "title": { "ja": "大人っぽい", "ta": "பெரியவர் போலத் தோற்றம்", "en": "Looking grown-up" },
+  "intro_ta": "இந்தப் பாடத்தில் மனிதர்களும் பொருட்களும் எப்படித் தோற்றமளிக்கிறார்கள் என்று விவரிக்கக் கற்போம். 大人っぽい (பெரியவர் போல), 忘れっぽい (அடிக்கடி மறக்கும்) போன்ற 〜っぽい சொற்கள், 寂しげ (சோகம் தெரியும்) போன்ற 〜げ வடிவம், 'அப்படியே ... போல' என்று உவமை சொல்லும் まるで〜ようだ, 'பார்ப்பதற்கு ... போலத் தெரிகிறது' என்ற 〜ように見える ஆகியவற்றைக் கற்போம். உடை, முடி, முகம், வண்ணம், டிசைன் தொடர்பான சொற்களும் இதில் உள்ளன.",
+  "intro_en": "In this lesson you learn to describe how people and things look. You learn 〜っぽい words like 大人っぽい (grown-up looking) and 忘れっぽい (forgetful). You learn 〜げ, as in 寂しげ (looking lonely). You learn まるで〜ようだ (just like …) for comparisons. And you learn 〜ように見える (it looks as if …). The new words are about clothes, hair, faces, colours and patterns.",
+  "grammar": [
+    {
+      "id": "g20-1",
+      "pattern": "N / V-ます っぽい",
+      "name": { "en": "-ish, -like / tends to", "ta": "...போன்ற / அடிக்கடி ...செய்யும்" },
+      "explanation_ta": "〜っぽい இரண்டு பொருள் தரும். (1) பெயர்ச்சொல் + っぽい = 'அந்தக் குணம் / தோற்றம் கொண்ட': 大人っぽい (பெரியவர் போலத் தோன்றும்), 子どもっぽい (குழந்தைத்தனமான), 白っぽい (வெண்மை கலந்த), 水っぽい (தண்ணீராக உள்ள). い-பெயரடையின் தண்டுடனும் சேரும்: 安い → 安っぽい (மலிவாகத் தெரியும்). (2) வினையின் ます தண்டு + っぽい = 'அடிக்கடி அப்படிச் செய்யும் பழக்கம்': 忘れっぽい (அடிக்கடி மறக்கும்), 怒りっぽい (எளிதில் கோபப்படும்), 飽きっぽい (சீக்கிரம் சலித்துவிடும்). っぽい ஒரு い-பெயரடை போல மாறும்: っぽくない, っぽかった, っぽく見える. இது பேச்சு வழக்கு; பெரும்பாலும் சற்று எதிர்மறையான உணர்வு தரும் (大人っぽい விதிவிலக்கு, அது பாராட்டு). 子どもらしい (குழந்தைக்கு ஏற்ற, நல்ல பொருளில்) மற்றும் 子どもっぽい (பெரியவர் குழந்தைபோல நடப்பது, குறை) இரண்டும் வேறு.",
+      "explanation_en": "〜っぽい has two uses. (1) Noun + っぽい = “has that feeling or look”: 大人っぽい (looks grown-up), 子どもっぽい (childish), 白っぽい (whitish), 水っぽい (watery). It also goes on i-adjective stems: 安い → 安っぽい (looks cheap). (2) Verb ます-stem + っぽい = “often does it”: 忘れっぽい (forgetful), 怒りっぽい (quick to get angry), 飽きっぽい (gets bored fast). っぽい changes like an i-adjective: っぽくない, っぽかった, っぽく見える. It is casual, and often a little negative. 大人っぽい is an exception; it is praise. 子どもらしい (like a child should be, good) is different from 子どもっぽい (an adult acting like a child, bad).",
+      "tamil_parallel": "குழந்தைத்தனமான = 子どもっぽい; அடிக்கடி மறக்கும் (மறதிக்கார) = 忘れっぽい; வெண்மை கலந்த = 白っぽい",
+      "tamil_parallel_en": "குழந்தைத்தனமான (childish) = 子どもっぽい; மறதிக்கார (forgetful) = 忘れっぽい; வெண்மை கலந்த (whitish) = 白っぽい",
+      "formation": "பெயர்ச்சொல் + っぽい: 大人っぽい、子どもっぽい、白っぽい\nい-பெயரடைத் தண்டு + っぽい: 安っぽい\nவினை ます-தண்டு + っぽい: 忘れっぽい、怒りっぽい\nமாற்றம்: っぽくない / っぽかった / っぽく 見える",
+      "formation_en": "Noun + っぽい: 大人っぽい、子どもっぽい、白っぽい\ni-adjective stem + っぽい: 安っぽい\nVerb ます-stem + っぽい: 忘れっぽい、怒りっぽい\nForms: っぽくない / っぽかった / っぽく 見える",
+      "examples": [
+        { "ja": "姉は高校生なのに、とても大人っぽいです。", "reading": "あねは こうこうせい なのに、とても おとなっぽいです。", "romaji": "ane wa koukousei na noni, totemo otonappoi desu.", "ta": "அக்கா பள்ளி மாணவியாக இருந்தும் மிகவும் பெரியவள் போலத் தெரிகிறாள்.", "en": "My sister is still in high school, but she looks very grown-up." },
+        { "ja": "大人なのに、そんなことで泣くなんて子どもっぽいよ。", "reading": "おとな なのに、そんな ことで なく なんて こどもっぽいよ。", "romaji": "otona na noni, sonna koto de naku nante kodomoppoi yo.", "ta": "பெரியவனாக இருந்துகொண்டு இதற்கெல்லாம் அழுவது குழந்தைத்தனம்.", "en": "You’re an adult. Crying over that is childish." },
+        { "ja": "最近、忘れっぽくなって困っています。", "reading": "さいきん、わすれっぽく なって こまって います。", "romaji": "saikin, wasureppoku natte komatte imasu.", "ta": "சமீபகாலமாக அடிக்கடி மறந்துவிடுகிறேன்; சிரமமாக இருக்கிறது.", "en": "Lately I’ve become forgetful, and it’s a problem." },
+        { "ja": "白っぽいシャツに黒いジーンズを合わせました。", "reading": "しろっぽい シャツに くろい ジーンズを あわせました。", "romaji": "shiroppoi shatsu ni kuroi jiinzu o awasemashita.", "ta": "வெண்மை கலந்த சட்டையுடன் கருப்பு ஜீன்ஸ் அணிந்தேன்.", "en": "I wore a whitish shirt with black jeans." },
+        { "ja": "父は怒りっぽいので、話すときは気をつけます。", "reading": "ちちは おこりっぽいので、はなす ときは きを つけます。", "romaji": "chichi wa okorippoi node, hanasu toki wa ki o tsukemasu.", "ta": "அப்பா எளிதில் கோபப்படுவார்; அதனால் பேசும்போது கவனமாக இருப்பேன்.", "en": "My father gets angry easily, so I’m careful when I talk to him." },
+        { "ja": "このカレー、ちょっと水っぽくない？", "reading": "この カレー、ちょっと みずっぽくない？", "romaji": "kono karee, chotto mizuppokunai?", "ta": "இந்தக் கறி கொஞ்சம் தண்ணீராக இல்லையா?", "en": "Isn’t this curry a bit watery?" },
+        { "ja": "この服は安っぽく見えるから、買うのをやめた。", "reading": "この ふくは やすっぽく みえるから、かうのを やめた。", "romaji": "kono fuku wa yasuppoku mieru kara, kau no o yameta.", "ta": "இந்த உடை மலிவானதாகத் தெரிந்ததால் வாங்கவில்லை.", "en": "These clothes looked cheap, so I didn’t buy them." }
+      ],
+      "pitfalls_ta": "っぽい-ஐ எல்லாச் சொற்களுடனும் சேர்க்க முடியாது; 大人っぽい, 子どもっぽい, 忘れっぽい போன்ற வழக்கமான சொற்களைக் கற்றுக்கொள்ளுங்கள். வயதானவர் அல்லது மேலதிகாரியைப் பற்றிப் பேசும்போது っぽい முரட்டுத்தனமாக ஒலிக்கலாம்.",
+      "pitfalls_en": "っぽい doesn’t go with every word. Learn the common ones: 大人っぽい, 子どもっぽい, 忘れっぽい. Talking about older people or your boss with っぽい can sound rude."
+    },
+    {
+      "id": "g20-2",
+      "pattern": "Adj-stem げ",
+      "name": { "en": "Looking ~ (寂しげ, 楽しげ)", "ta": "...ஆகத் தெரியும் (முகத்தில் உணர்ச்சி)" },
+      "explanation_ta": "ஒருவரின் முகம், நடத்தை ஆகியவற்றில் தெரியும் உணர்ச்சியைச் சொல்ல 〜げ பயன்படும். い-பெயரடையின் い-ஐ நீக்கி げ சேர்க்க வேண்டும்: 寂しい → 寂しげ, 楽しい → 楽しげ, 悲しい → 悲しげ, 懐かしい → 懐かしげ. சில な-பெயரடைகளுடனும் வரும்: 不安げ. 'ある' உடன்: 自信ありげ (தன்னம்பிக்கை இருப்பது போல). げ ஒரு な-பெயரடை போல மாறும்: 寂しげな顔, 楽しげに話す. N4-இல் கற்ற 〜そう (楽しそう) போன்ற பொருள்தான்; ஆனால் げ சற்று இலக்கியத் தன்மை கொண்டது, கதைகளிலும் எழுத்திலும் அதிகம் வரும். பேச்சில் பெரும்பாலும் そう போதும்.",
+      "explanation_en": "〜げ describes a feeling you can see on someone’s face or in how they act. Drop the い of an i-adjective and add げ: 寂しい → 寂しげ, 楽しい → 楽しげ, 悲しい → 悲しげ, 懐かしい → 懐かしげ. Some na-adjectives work too: 不安げ. With ある: 自信ありげ (looking confident). げ works like a na-adjective: 寂しげな顔, 楽しげに話す. It is close to 〜そう (楽しそう), which you know. But げ sounds more like a story or written text. In daily talk, そう is usually enough.",
+      "tamil_parallel": "சோகம் தெரியும் முகம் / சோகமான முகம் = 寂しげな顔; மகிழ்ச்சியாக (விளையாடுகிறார்கள்) = 楽しげに(遊んでいる)",
+      "tamil_parallel_en": "சோகம் தெரியும் முகம் (a face that looks lonely) = 寂しげな顔; மகிழ்ச்சியாக (happily) = 楽しげに",
+      "formation": "い-பெயரடை (い நீக்கி) + げ: 寂しい → 寂しげ、楽しい → 楽しげ\nசில な-பெயரடைகள் + げ: 不安げ\nபெயர்ச்சொல்லுக்கு முன்: 〜げな + பெயர்ச்சொல்\nவினைக்கு முன்: 〜げに + வினை",
+      "formation_en": "i-adjective (drop い) + げ: 寂しい → 寂しげ、楽しい → 楽しげ\nSome na-adjectives + げ: 不安げ\nBefore a noun: 〜げな + noun\nBefore a verb: 〜げに + verb",
+      "examples": [
+        { "ja": "子どもたちが公園で楽しげに遊んでいます。", "reading": "こどもたちが こうえんで たのしげに あそんで います。", "romaji": "kodomotachi ga kouen de tanoshige ni asonde imasu.", "ta": "குழந்தைகள் பூங்காவில் மகிழ்ச்சியாக விளையாடிக்கொண்டிருக்கிறார்கள்.", "en": "The children are playing happily in the park." },
+        { "ja": "彼女は寂しげな笑顔で「さようなら」と言った。", "reading": "かのじょは さびしげな えがおで 「さようなら」と いった。", "romaji": "kanojo wa sabishige na egao de \"sayounara\" to itta.", "ta": "அவள் சோகம் கலந்த புன்னகையுடன் 'போய் வருகிறேன்' என்றாள்.", "en": "She said goodbye with a lonely smile." },
+        { "ja": "犬が悲しげな目でこっちを見ている。", "reading": "いぬが かなしげな めで こっちを みて いる。", "romaji": "inu ga kanashige na me de kotchi o mite iru.", "ta": "நாய் சோகமான கண்களுடன் இங்கே பார்த்துக்கொண்டிருக்கிறது.", "en": "The dog is looking at us with sad eyes." },
+        { "ja": "試験の前、弟は不安げな様子だった。", "reading": "しけんの まえ、おとうとは ふあんげな ようすだった。", "romaji": "shiken no mae, otouto wa fuange na yousu datta.", "ta": "தேர்வுக்கு முன் தம்பி கவலையாகக் காணப்பட்டான்.", "en": "Before the exam, my little brother looked anxious." },
+        { "ja": "祖父は昔の写真を懐かしげに見ていた。", "reading": "そふは むかしの しゃしんを なつかしげに みて いた。", "romaji": "sofu wa mukashi no shashin o natsukashige ni mite ita.", "ta": "தாத்தா பழைய புகைப்படங்களை ஏக்கத்துடன் பார்த்துக்கொண்டிருந்தார்.", "en": "My grandfather was looking fondly at old photos." },
+        { "ja": "彼は自信ありげに手を挙げた。", "reading": "かれは じしん ありげに てを あげた。", "romaji": "kare wa jishin arige ni te o ageta.", "ta": "அவன் தன்னம்பிக்கையுடன் கையை உயர்த்தினான்.", "en": "He raised his hand, looking confident." }
+      ],
+      "pitfalls_ta": "い-ஐ நீக்க மறக்கக் கூடாது: 寂しいげ என்பது தவறு, 寂しげ சரி. げ-வை உங்கள் சொந்த உணர்ச்சிக்குப் பயன்படுத்துவதில்லை; வெளியே தெரியும் மற்றவர்களின் உணர்ச்சிக்கே.",
+      "pitfalls_en": "Remember to drop い: 寂しいげ is wrong, 寂しげ is right. Don’t use げ for your own feelings. It describes what you see in other people."
+    },
+    {
+      "id": "g20-3",
+      "pattern": "まるで 〜よう(だ) / みたい(だ)",
+      "name": { "en": "Just like ~ (as if)", "ta": "அப்படியே ... போல" },
+      "explanation_ta": "N4-இல் கற்ற 〜ようだ / 〜みたいだ 'போல' என்ற உவமைப் பொருளும் தரும். அதற்கு முன் まるで சேர்த்தால் 'உண்மையில் அப்படி இல்லை, ஆனால் அப்படியே ... போல' என்ற வலுவான உவமை ஆகும். பெயர்ச்சொல் + のようだ / みたいだ; வினை, பெயரடை (சாதாரண வடிவம்) + ようだ / みたいだ. பெயர்ச்சொல்லுக்கு முன் ような / みたいな, வினைக்கு முன் ように / みたいに. ようだ எழுத்திலும் முறையான பேச்சிலும், みたいだ சாதாரணப் பேச்சிலும் வரும். まるで இருப்பதால், இது ஊகம் (〜ようだ = போலத் தெரிகிறது) அல்ல, உவமை என்று தெளிவாகும். まるで + எதிர்மறை (まるで分からない) என்றால் 'சிறிதும் ... இல்லை' என்ற வேறு பொருள்.",
+      "explanation_en": "You know 〜ようだ / 〜みたいだ (like, seems). Add まるで before it to make a strong comparison: “it isn’t really so, but it is just like …”. Noun + のようだ / みたいだ. Verb or adjective (plain form) + ようだ / みたいだ. Before a noun: ような / みたいな. Before a verb or adjective: ように / みたいに. ようだ is for writing and polite talk; みたいだ is casual. With まるで, it is clearly a comparison, not a guess. Note: まるで + negative (まるで分からない) means “not at all”, a different use.",
+      "tamil_parallel": "அவள் புன்னகை அப்படியே ஒரு பூ போல = 彼女の笑顔はまるで花のようだ",
+      "tamil_parallel_en": "அப்படியே ஒரு பூ போல (just like a flower) = まるで花のようだ",
+      "formation": "まるで + பெயர்ச்சொல் + の ようだ / みたいだ\nまるで + சாதாரண வடிவம் + ようだ / みたいだ\nபெயர்ச்சொல்லுக்கு முன்: 〜ような / 〜みたいな + பெயர்ச்சொல்\nவினை / பெயரடைக்கு முன்: 〜ように / 〜みたいに",
+      "formation_en": "まるで + noun + の ようだ / みたいだ\nまるで + plain form + ようだ / みたいだ\nBefore a noun: 〜ような / 〜みたいな + noun\nBefore a verb or adjective: 〜ように / 〜みたいに",
+      "examples": [
+        { "ja": "彼女の笑顔はまるで花のようだ。", "reading": "かのじょの えがおは まるで はなの ようだ。", "romaji": "kanojo no egao wa marude hana no you da.", "ta": "அவளுடைய புன்னகை அப்படியே ஒரு பூ போல.", "en": "Her smile is just like a flower." },
+        { "ja": "この部屋はまるでホテルみたいにきれいですね。", "reading": "この へやは まるで ホテル みたいに きれいですね。", "romaji": "kono heya wa marude hoteru mitai ni kirei desu ne.", "ta": "இந்த அறை அப்படியே ஹோட்டல் மாதிரி சுத்தமாக இருக்கிறதே.", "en": "This room is as clean as a hotel." },
+        { "ja": "まだ五月なのに、まるで夏のような暑さだ。", "reading": "まだ ごがつ なのに、まるで なつの ような あつさだ。", "romaji": "mada gogatsu na noni, marude natsu no you na atsusa da.", "ta": "இன்னும் மே மாதம்தான்; ஆனாலும் அப்படியே கோடைபோல வெப்பம்.", "en": "It’s only May, but it’s as hot as summer." },
+        { "ja": "二人はまるで本当の姉妹のように仲がいい。", "reading": "ふたりは まるで ほんとうの しまいの ように なかが いい。", "romaji": "futari wa marude hontou no shimai no you ni naka ga ii.", "ta": "அந்த இருவரும் உண்மையான சகோதரிகள் போல நெருக்கமாக இருக்கிறார்கள்.", "en": "The two of them are as close as real sisters." },
+        { "ja": "久しぶりに会った友達は、まるで別の人みたいだった。", "reading": "ひさしぶりに あった ともだちは、まるで べつの ひと みたいだった。", "romaji": "hisashiburi ni atta tomodachi wa, marude betsu no hito mitai datta.", "ta": "நீண்ட நாள் கழித்துச் சந்தித்த நண்பன் அப்படியே வேறு ஆள் போல இருந்தான்.", "en": "The friend I hadn’t seen for ages was like a different person." },
+        { "ja": "彼は何も知らないのに、まるで全部知っているように話す。", "reading": "かれは なにも しらないのに、まるで ぜんぶ しって いる ように はなす。", "romaji": "kare wa nanimo shiranai noni, marude zenbu shitte iru you ni hanasu.", "ta": "அவனுக்கு எதுவும் தெரியாது; ஆனாலும் எல்லாம் தெரிந்தவன் போலப் பேசுகிறான்.", "en": "He knows nothing, but he talks as if he knows everything." }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பிறகு ようだ என்றால் の வேண்டும் (花のようだ); みたいだ என்றால் の வேண்டாம் (花みたいだ). 花ようだ, 花のみたいだ இரண்டும் தவறு.",
+      "pitfalls_en": "After a noun, ようだ needs の (花のようだ), but みたいだ doesn’t (花みたいだ). 花ようだ and 花のみたいだ are both wrong."
+    },
+    {
+      "id": "g20-4",
+      "pattern": "〜ように 見える",
+      "name": { "en": "Looks as if ~ / seems ~", "ta": "...போலத் தெரிகிறது" },
+      "explanation_ta": "கண்ணால் பார்த்து 'இப்படித் தெரிகிறது' என்று சொல்ல 〜ように見える பயன்படும். உண்மை வேறாக இருக்கலாம் என்ற உணர்வும் அதில் உண்டு. வினை (சாதாரண வடிவம்) + ように見える (疲れているように見える), பெயர்ச்சொல் + のように見える (学生のように見える), な-பெயரடை + なように見える (元気なように見える). பெயரடைகளுக்கு எளிய வடிவமும் உண்டு: 若く見える, 元気に見える. N4-இல் கற்ற 〜そうだ (தோற்றம்: 疲れていそう) உடனடிப் பார்வை; ように見える 'என் கண்ணுக்கு அப்படித் தோன்றுகிறது' என்று சற்று எச்சரிக்கையாகச் சொல்வது. 〜けど, 本当は 〜 என்று உண்மை வேறு என்று அடிக்கடி தொடரும்.",
+      "explanation_en": "Use 〜ように見える to say how something looks to your eyes. It often hints that the truth may be different. Verb (plain form) + ように見える: 疲れているように見える. Noun + のように見える: 学生のように見える. na-adjective + なように見える: 元気なように見える. Adjectives also have a short form: 若く見える, 元気に見える. 〜そうだ (looks like) is a quick first look. ように見える is a careful “to me it looks like …”. It often continues with 〜けど、本当は… (but really …).",
+      "tamil_parallel": "அவர் களைப்பாக இருப்பது போலத் தெரிகிறது = 彼は疲れているように見える",
+      "tamil_parallel_en": "களைப்பாக இருப்பது போலத் தெரிகிறது (he looks tired) = 疲れているように見える",
+      "formation": "வினை (சாதாரண வடிவம்) + ように 見える\nபெயர்ச்சொல் + の + ように 見える\nな-பெயரடை + な + ように 見える\nசுருக்கம்: い-பெயரடை 〜く 見える / な-பெயரடை 〜に 見える",
+      "formation_en": "Verb (plain form) + ように 見える\nNoun + の + ように 見える\nna-adjective + な + ように 見える\nShort: i-adj 〜く 見える / na-adj 〜に 見える",
+      "examples": [
+        { "ja": "田中さんは疲れているように見えます。", "reading": "たなかさんは つかれて いる ように みえます。", "romaji": "tanaka-san wa tsukarete iru you ni miemasu.", "ta": "தனாக்கா களைப்பாக இருப்பது போலத் தெரிகிறார்.", "en": "Mr Tanaka looks tired." },
+        { "ja": "その人は学生のように見えますが、実は先生です。", "reading": "その ひとは がくせいの ように みえますが、じつは せんせいです。", "romaji": "sono hito wa gakusei no you ni miemasu ga, jitsu wa sensei desu.", "ta": "அவர் மாணவர் போலத் தெரிகிறார்; ஆனால் உண்மையில் ஆசிரியர்.", "en": "That person looks like a student, but is actually a teacher." },
+        { "ja": "遠くから見ると、あの岩は人の顔のように見える。", "reading": "とおくから みると、あの いわは ひとの かおの ように みえる。", "romaji": "tooku kara miru to, ano iwa wa hito no kao no you ni mieru.", "ta": "தூரத்திலிருந்து பார்த்தால் அந்தப் பாறை மனித முகம் போலத் தெரிகிறது.", "en": "From far away, that rock looks like a human face." },
+        { "ja": "彼は元気なように見えるけど、本当は悩みがあるらしい。", "reading": "かれは げんきな ように みえるけど、ほんとうは なやみが ある らしい。", "romaji": "kare wa genki na you ni mieru kedo, hontou wa nayami ga aru rashii.", "ta": "அவன் உற்சாகமாக இருப்பது போலத் தெரிகிறான்; ஆனால் உண்மையில் அவனுக்குக் கவலை இருக்கிறதாம்.", "en": "He looks fine, but it seems he really has worries." },
+        { "ja": "この服を着ると、少しやせたように見えますね。", "reading": "この ふくを きると、すこし やせた ように みえますね。", "romaji": "kono fuku o kiru to, sukoshi yaseta you ni miemasu ne.", "ta": "இந்த உடையை அணிந்தால் கொஞ்சம் மெலிந்தது போலத் தெரிகிறது.", "en": "In these clothes, you look a little slimmer." },
+        { "ja": "私、怒っているように見える？", "reading": "わたし、おこって いる ように みえる？", "romaji": "watashi, okotte iru you ni mieru?", "ta": "நான் கோபமாக இருப்பது போலத் தெரிகிறேனா?", "en": "Do I look angry?" }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்கு の, な-பெயரடைக்கு な மறக்க வேண்டாம்: 学生ように見える, 元気ように見える இரண்டும் தவறு. 'தோன்றுகிறது' (எண்ணம்) என்பதற்கு 思う; 'பார்வையில் தெரிகிறது' என்பதற்கு 見える.",
+      "pitfalls_en": "Don’t forget の after a noun and な after a na-adjective: 学生ように見える and 元気ように見える are wrong. For “I think”, use 思う. For “it looks”, use 見える."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0021", "n3-v-0233", "n3-v-0238", "n3-v-0413", "n3-v-0417", "n3-v-0431", "n3-v-0452", "n3-v-0473",
+    "n3-v-0510", "n3-v-0523", "n3-v-0575", "n3-v-0640", "n3-v-0645", "n3-v-0652", "n3-v-0653", "n3-v-0656",
+    "n3-v-0658", "n3-v-0704", "n3-v-0762", "n3-v-0839", "n3-v-1006", "n3-v-1024", "n3-v-1055", "n3-v-1056",
+    "n3-v-1086", "n3-v-1100", "n3-v-1129", "n3-v-1199", "n3-v-1217", "n3-v-1224", "n3-v-1330", "n3-v-1332",
+    "n3-v-1403", "n3-v-1515", "n3-v-1635", "n3-v-1677", "n3-v-1694", "n3-v-1720", "n3-v-1769", "n3-v-1770",
+    "n3-v-1784", "n3-v-1804", "n3-v-1818", "n3-v-1819", "n3-v-1823", "n3-v-1866", "n3-v-1920", "n3-v-1932",
+    "n3-v-1952", "n3-v-1953", "n3-v-1955", "n3-v-1969", "n3-v-1990", "n3-v-1998", "n3-v-2101", "n3-v-2104"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L20-q01", "type": "kanji_reading",
+        "sentence": "赤ちゃんの ＿笑顔＿は 本当に かわいい。", "target": "笑顔",
+        "options": ["しょうがお", "えがお", "わらいがお", "えかお"], "answer": 1,
+        "explanation_ta": "笑顔 = えがお (புன்னகை முகம்). இது சிறப்பு வாசிப்பு; 笑 இங்கே え. かお → がお என்று ஒலி மாறும், ஆகவே えかお தவறு.",
+        "explanation_en": "笑顔 = えがお (smiling face). It is a special reading: 笑 is え here. かお changes to がお, so えかお is wrong."
+      },
+      {
+        "id": "L20-q02", "type": "kanji_reading",
+        "sentence": "面接には きちんと した ＿服装＿で 行きましょう。", "target": "服装",
+        "options": ["ふくしょう", "ふくぞう", "ふそう", "ふくそう"], "answer": 3,
+        "explanation_ta": "服装 = ふくそう (உடை, உடுத்தும் விதம்). 装 = そう. ふくしょう என்பது தவறான ஒலி.",
+        "explanation_en": "服装 = ふくそう (clothes, way of dressing). 装 is そう. ふくしょう has the wrong sound."
+      },
+      {
+        "id": "L20-q03", "type": "kanji_reading",
+        "sentence": "新しい 先生の ＿印象＿は どうでしたか。", "target": "印象",
+        "options": ["いんぞう", "いんしょ", "いんしょう", "いんじょう"], "answer": 2,
+        "explanation_ta": "印象 = いんしょう (மனப்பதிவு). 象 இங்கே しょう (நீண்ட ஒலி). いんしょ குறுகியது; いんぞう ஒலி தவறு.",
+        "explanation_en": "印象 = いんしょう (impression). Here 象 is しょう, a long sound. いんしょ is too short, and いんぞう is the wrong sound."
+      },
+      {
+        "id": "L20-q04", "type": "orthography",
+        "sentence": "その シャツ、よく ＿にあって＿ いますよ。", "target": "にあって",
+        "options": ["似合って", "以合って", "似会って", "煮合って"], "answer": 0,
+        "explanation_ta": "にあう = 似合う (பொருந்துதல்). 似 = ஒத்திருத்தல் (似る), 合 = பொருந்துதல் (合う). 会 (சந்தித்தல்) தவறான எழுத்து.",
+        "explanation_en": "にあう = 似合う (to suit). 似 means “to look alike” (似る) and 合 means “to fit” (合う). 会 (to meet) is the wrong kanji."
+      },
+      {
+        "id": "L20-q05", "type": "orthography",
+        "sentence": "暑いので、帽子を ＿かぶって＿ 出かけました。", "target": "かぶって",
+        "options": ["破って", "被って", "彼って", "皮って"], "answer": 1,
+        "explanation_ta": "かぶる = 被る (தலையில் அணிதல்). 破る = やぶる (கிழித்தல்); எழுத்து ஒத்திருந்தாலும் வேறு சொல்.",
+        "explanation_en": "かぶる = 被る (to wear on the head). 破る is やぶる (to tear). The kanji look alike, but it is a different word."
+      },
+      {
+        "id": "L20-q06", "type": "vocab_context",
+        "sentence": "この 靴は 大きさが 私の 足に （　　）です。",
+        "options": ["そっくり", "まるで", "ぴったり", "派手"], "answer": 2,
+        "explanation_ta": "அளவு சரியாகப் பொருந்துவது = ぴったり. そっくり என்பது இருவர் / இரண்டு பொருட்கள் ஒரே மாதிரி இருப்பது; அளவுக்கு அல்ல.",
+        "explanation_en": "A perfect fit = ぴったり. そっくり means two people or things look exactly alike. It is not about size."
+      },
+      {
+        "id": "L20-q07", "type": "vocab_context",
+        "sentence": "娘さんは 顔も 声も お母さんに （　　）ですね。",
+        "options": ["ぴったり", "派手", "粋", "そっくり"], "answer": 3,
+        "explanation_ta": "முகமும் குரலும் அம்மாவைப் போலவே = お母さんにそっくり. ぴったり அளவு அல்லது நேரம் சரியாகப் பொருந்துவதற்கு.",
+        "explanation_en": "Face and voice just like her mother = お母さんにそっくり. ぴったり is for an exact fit of size or time."
+      },
+      {
+        "id": "L20-q08", "type": "vocab_context",
+        "sentence": "自転車で 転んで、ズボンが （　　）しまった。",
+        "options": ["破れて", "輝いて", "映って", "巻いて"], "answer": 0,
+        "explanation_ta": "விழுந்ததால் பேன்ட் கிழிந்தது = 破れてしまった. 輝く (மின்னுதல்) இங்கே பொருந்தாது.",
+        "explanation_en": "You fell, so your trousers tore = 破れてしまった. 輝く (to shine) doesn’t fit."
+      },
+      {
+        "id": "L20-q09", "type": "vocab_context",
+        "sentence": "父は 若い ころから ひげを （　　）います。",
+        "options": ["刈って", "被って", "生やして", "着けて"], "answer": 2,
+        "explanation_ta": "தாடி / மீசை வளர்த்தல் = ひげを生やす. 刈る என்றால் வெட்டுவது; 'இளமையிலிருந்து' என்பதுடன் பொருந்தாது.",
+        "explanation_en": "To grow a beard or moustache = ひげを生やす. 刈る means to cut, which doesn’t fit “since he was young”."
+      },
+      {
+        "id": "L20-q10", "type": "vocab_context",
+        "sentence": "姉は 出かける 前に 鏡の 前で 三十分も （　　）を します。",
+        "options": ["模様", "化粧", "生地", "魅力"], "answer": 1,
+        "explanation_ta": "கண்ணாடி முன் செய்வது = 化粧をする (மேக்கப் போடுதல்). 模様 (டிசைன்) 'をする' உடன் வராது.",
+        "explanation_en": "What you do in front of a mirror = 化粧をする (to put on make-up). 模様 (pattern) doesn’t go with をする."
+      },
+      {
+        "id": "L20-q11", "type": "paraphrase",
+        "sentence": "妹は 中学生だが、大人っぽい。",
+        "options": ["妹は もう 大人だ。", "妹は 大人のように 見える。", "妹は 大人が 好きだ。", "妹は 大人に なりたくない。"], "answer": 1,
+        "explanation_ta": "大人っぽい = பெரியவர் போலத் தோன்றுதல் = 大人のように見える. もう大人だ என்றால் உண்மையில் பெரியவள்; அது தவறு, அவள் இன்னும் மாணவி.",
+        "explanation_en": "大人っぽい = looks grown-up = 大人のように見える. もう大人だ means she really is an adult. That is wrong; she is still a student."
+      },
+      {
+        "id": "L20-q12", "type": "paraphrase",
+        "sentence": "弟は 忘れっぽい。",
+        "options": ["弟は よく 物を 忘れる。", "弟は 何も 忘れない。", "弟は 昨日 宿題を 忘れた。", "弟は 忘れたい ことが ある。"], "answer": 0,
+        "explanation_ta": "ます-தண்டு + っぽい = அடிக்கடி அப்படிச் செய்யும் பழக்கம்: 忘れっぽい = அடிக்கடி மறப்பவன். 昨日忘れた ஒரு முறை நடந்தது மட்டும்; பழக்கம் அல்ல.",
+        "explanation_en": "ます-stem + っぽい = often does it: 忘れっぽい = often forgets. 昨日忘れた is only one time, not a habit."
+      },
+      {
+        "id": "L20-q13", "type": "paraphrase",
+        "sentence": "この 部屋は まるで ホテルみたいだ。",
+        "options": ["この 部屋は ホテルの 中に ある。", "この 部屋は ホテルより 狭い。", "この 部屋は 本当の ホテルだ。", "この 部屋は ホテルに よく 似て いる。"], "answer": 3,
+        "explanation_ta": "まるで〜みたいだ = உண்மையில் அது இல்லை, ஆனால் அதைப் போலவே = ホテルによく似ている. 本当のホテルだ தவறு; まるで என்றால் உண்மையில் ஹோட்டல் இல்லை.",
+        "explanation_en": "まるで〜みたいだ = it isn’t really that, but it’s just like it = ホテルによく似ている. 本当のホテルだ is wrong; まるで means it is not a real hotel."
+      },
+      {
+        "id": "L20-q14", "type": "usage",
+        "sentence": "似合う",
+        "options": ["駅で 友達と 似合いました。", "答えが 全部 似合って いました。", "この 赤い ドレス、あなたに よく 似合いますね。", "父と 私は 顔が 似合って います。"], "answer": 2,
+        "explanation_ta": "似合う = உடை முதலியவை ஒருவருக்குப் பொருந்துதல். நண்பரைச் சந்திப்பது 会う; முகம் ஒத்திருப்பது 似ている. ஒலி ஒத்திருப்பதால் குழப்பம் வரும்.",
+        "explanation_en": "似合う = clothes etc. suit a person. Meeting a friend is 会う. Looking alike is 似ている. The sounds are close, so be careful."
+      },
+      {
+        "id": "L20-q15", "type": "usage",
+        "sentence": "派手",
+        "options": ["祭りの 日は 派手な 色の 服を 着る 人が 多い。", "毎朝 派手に 起きます。", "この 問題は 派手で、すぐ 分かった。", "昨日は 派手な 雨が 降って いた。"], "answer": 0,
+        "explanation_ta": "派手 = கண்ணைக் கவரும் பளிச்சென்ற (உடை, வண்ணம்). 'எளிதான கேள்வி' என்பதற்கு 簡単; 'கனமழை' என்பதற்கு 強い雨.",
+        "explanation_en": "派手 = bright and showy (clothes, colours). For an easy question, say 簡単. For heavy rain, say 強い雨."
+      },
+      {
+        "id": "L20-q16", "type": "grammar_form",
+        "sentence": "大人なのに、そんな ことで 泣くなんて （　　）よ。",
+        "options": ["子どもらしい", "子どもげ", "子どもっぽい", "子どもよう"], "answer": 2,
+        "explanation_ta": "பெரியவர் குழந்தைபோல நடப்பது (குறை) = 子どもっぽい. 子どもらしい என்பது குழந்தைக்கு ஏற்ற நல்ல குணம்; பெரியவரைக் குறை சொல்லப் பொருந்தாது.",
+        "explanation_en": "An adult acting like a child (a criticism) = 子どもっぽい. 子どもらしい is a good quality for a real child. It doesn’t criticise an adult."
+      },
+      {
+        "id": "L20-q17", "type": "grammar_form",
+        "sentence": "最近、（　　）なって、よく かぎを なくします。",
+        "options": ["忘れっぽく", "忘れそうに", "忘れように", "忘れげに"], "answer": 0,
+        "explanation_ta": "'மறதி அதிகமாகிவிட்டது' = 忘れっぽくなる (っぽい → っぽく + なる). 忘れげ என்ற வடிவம் இல்லை; げ பெயரடைகளுடன் மட்டும்.",
+        "explanation_en": "“I’ve become forgetful” = 忘れっぽくなる (っぽい → っぽく + なる). 忘れげ doesn’t exist; げ goes on adjectives."
+      },
+      {
+        "id": "L20-q18", "type": "grammar_form",
+        "sentence": "犬が （　　）目で こっちを 見て いる。",
+        "options": ["悲しげの", "悲しいげな", "悲しげな", "悲しげに"], "answer": 2,
+        "explanation_ta": "げ な-பெயரடை போல: பெயர்ச்சொல்லுக்கு (目) முன் 悲しげな. 悲しいげ தவறு (い நீக்க வேண்டும்); 悲しげの தவறு.",
+        "explanation_en": "げ works like a na-adjective: before a noun (目), use 悲しげな. 悲しいげ is wrong (drop い), and 悲しげの is wrong too."
+      },
+      {
+        "id": "L20-q19", "type": "grammar_form",
+        "sentence": "彼女の 日本語は （　　） 日本人の ようだ。",
+        "options": ["きっと", "まるで", "ぜひ", "ちっとも"], "answer": 1,
+        "explanation_ta": "'அப்படியே ஜப்பானியர் போல' என்ற உவமை = まるで〜のようだ. きっと (நிச்சயம்) ஊகத்துக்கு; உவமைக்கு அல்ல.",
+        "explanation_en": "A comparison, “just like a Japanese person” = まるで〜のようだ. きっと (surely) is for a guess, not a comparison."
+      },
+      {
+        "id": "L20-q20", "type": "grammar_form",
+        "sentence": "まだ 五月なのに、まるで 夏（　　） 暑さだ。",
+        "options": ["ような", "のように", "みたいの", "のような"], "answer": 3,
+        "explanation_ta": "பெயர்ச்சொல் (夏) + の + ような + பெயர்ச்சொல் (暑さ). のように வினைக்கு முன் வரும்; 夏ような-வில் の இல்லை.",
+        "explanation_en": "Noun (夏) + の + ような + noun (暑さ). のように goes before a verb. 夏ような has no の."
+      },
+      {
+        "id": "L20-q21", "type": "grammar_form",
+        "sentence": "田中さんは 疲れて いる（　　） 見えます。",
+        "options": ["そうに", "ように", "ような", "らしく"], "answer": 1,
+        "explanation_ta": "வினை (疲れている) + ように見える. ような பெயர்ச்சொல்லுக்கு முன் மட்டும். 疲れているそうに என்ற வடிவம் இல்லை.",
+        "explanation_en": "Verb (疲れている) + ように見える. ような only goes before a noun. 疲れているそうに is not a real form."
+      },
+      {
+        "id": "L20-q22", "type": "grammar_form",
+        "sentence": "あの 人は 学生（　　） 見えますが、実は 先生です。",
+        "options": ["ように", "っぽいに", "らしい", "のように"], "answer": 3,
+        "explanation_ta": "பெயர்ச்சொல் + の + ように見える: 学生のように見える. の இல்லாத 学生ように தவறு.",
+        "explanation_en": "Noun + の + ように見える: 学生のように見える. 学生ように, without の, is wrong."
+      },
+      {
+        "id": "L20-q23", "type": "sentence_order",
+        "before": "久しぶりに 会った 友達は、", "chunks": ["まるで", "別の", "人", "みたいだった"], "star": 1, "after": "。",
+        "explanation_ta": "まるで (அப்படியே) → 別の 人 (வேறு ஆள்) → みたいだった (போல இருந்தான்). ★ = 別の.",
+        "explanation_en": "まるで (just) → 別の 人 (a different person) → みたいだった (was like). ★ = 別の."
+      },
+      {
+        "id": "L20-q24", "type": "sentence_order",
+        "before": "彼は 元気", "chunks": ["な", "ように", "見える", "けど"], "star": 1, "after": "、本当は 悩みが ある らしい。",
+        "explanation_ta": "元気 + な (な-பெயரடை) → ように → 見える → けど (ஆனால்). ★ = ように.",
+        "explanation_en": "元気 + な (na-adjective) → ように → 見える → けど (but). ★ = ように."
+      },
+      {
+        "id": "L20-q25", "type": "sentence_order",
+        "before": "妹は 中学生なのに、", "chunks": ["化粧を", "すると", "ずいぶん", "大人っぽく"], "star": 3, "after": "見える。",
+        "explanation_ta": "化粧を すると (மேக்கப் போட்டால்) → ずいぶん (மிகவும்) → 大人っぽく 見える (பெரியவள் போலத் தெரிகிறாள்). ★ = 大人っぽく.",
+        "explanation_en": "化粧を すると (when she wears make-up) → ずいぶん (very) → 大人っぽく 見える (looks grown-up). ★ = 大人っぽく."
+      },
+      {
+        "id": "L20-q26", "type": "passage_cloze",
+        "passage": "先週、久しぶりに 高校の 同窓会に 行きました。いちばん 驚いたのは 友達の ミーナさんです。高校の ころは 髪の毛が 短くて、男の子［1］ 服装を して いましたが、今は 長い 髪に きれいな サリーを 着て、［2］ 映画スターの ようでした。話して みると、昔と 同じで 明るい 人でした。でも、帰る とき、ミーナさんは 少し 寂し［3］ 笑顔で 手を 振って いました。家に 帰って その 日の 写真を 見ると、私も みんなも 少し 年を 取った［4］ 見えました。",
+        "blanks": [
+          { "options": ["らしく", "っぽい", "みたく", "げな"], "answer": 1 },
+          { "options": ["まるで", "ぜひ", "たとえ", "ちっとも"], "answer": 0 },
+          { "options": ["そうで", "っぽく", "げな", "らしい"], "answer": 2 },
+          { "options": ["ような", "そうに", "ように", "らしく"], "answer": 2 }
+        ],
+        "explanation_ta": "［1］ 'ஆண் பிள்ளை போன்ற உடை' = 男の子っぽい服装 (பெயர்ச்சொல்லுக்கு முன் っぽい). ［2］ 〜のようでした உடன் உவமை = まるで. ［3］ பெயர்ச்சொல் (笑顔) முன் = 寂しげな. ［4］ வினை (年を取った) + ように見えました.",
+        "explanation_en": "［1］ “Boyish clothes” = 男の子っぽい服装 (っぽい before a noun). ［2］ A comparison with 〜のようでした = まるで. ［3］ Before a noun (笑顔) = 寂しげな. ［4］ Verb (年を取った) + ように見えました."
+      }
+    ]
+  }
+}

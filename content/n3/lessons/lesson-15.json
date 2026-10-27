@@ -1,0 +1,767 @@
+{
+  "lesson": 15,
+  "title": {
+    "ja": "たとえ負けても",
+    "ta": "தோற்றாலும் கூட",
+    "en": "Even if we lose"
+  },
+  "intro_ta": "இந்தப் பாடத்தில் விளையாட்டு, போட்டி, பயிற்சி, வெற்றி-தோல்வி பற்றிப் பேசக் கற்போம். 'சாம்பியன் ஆனோம் என்றாலும் சின்னப் போட்டிதான்' என்று அடக்கமாகச் சொல்ல 〜といっても, 'மழை பெய்தபோதிலும் நிறைய பேர் வந்தார்கள்' என்று சொல்ல 〜にもかかわらず, 'ஒருவேளை அப்படி நடந்தாலும்' என்று கற்பனை செய்ய 〜としても, உறுதியைக் காட்ட たとえ〜ても, 'எவ்வளவு ஓடினாலும்' என்று சொல்ல V-ても V-ても ஆகியவற்றைப் படிப்போம். இவை அனைத்தும் 'இருந்தாலும் / ஆனாலும்' குடும்பத்தைச் சேர்ந்தவை; ஒவ்வொன்றின் சிறு வேறுபாட்டையும் கவனமாகப் பார்ப்போம்.",
+  "intro_en": "In this lesson you will talk about sports, contests, training, winning and losing. You will learn 〜といっても to play something down: \"we won, but it was a small contest\". You will learn 〜にもかかわらず for \"despite\": \"despite the rain, many people came\". You will learn 〜としても to imagine: \"even if that happens\". You will learn たとえ〜ても to show strong will. And you will learn V-ても V-ても for \"no matter how much I run\". All of these mean \"even though\" or \"even if\". We will look closely at the small differences.",
+  "grammar": [
+    {
+      "id": "g15-1",
+      "pattern": "〜といっても",
+      "name": {
+        "en": "Although I say ~, (it’s not much)",
+        "ta": "〜என்று சொன்னாலும் (பெரிதாக ஒன்றுமில்லை)"
+      },
+      "explanation_ta": "〜といっても என்பது 'A என்று சொன்னேன்; ஆனால் நீங்கள் நினைக்கும் அளவுக்குப் பெரிதல்ல' என்று தன் கூற்றைத் தானே திருத்தி, அளவைக் குறைத்துச் சொல்லும். தமிழில் 'தினமும் ஓடுகிறேன் என்றாலும், வெறும் பத்து நிமிடம்தான்', 'அணித் தலைவர் என்றாலும் பெரிதாக ஒன்றும் செய்வதில்லை' போல. உருவாக்கம்: சாதாரண வடிவம் + といっても; பெயர்ச்சொல், な-பெயரடைக்குப் பின் だ விடப்படலாம் (キャプテンといっても). பின்பகுதியில் だけ, ぐらい, それほど〜ない போன்ற 'சிறிது' என்ற சொற்கள் அடிக்கடி வரும். 〜ても (இருந்தாலும்) பொதுவான ஒப்புக்கொள்ளல்; といっても குறிப்பாக 'கேட்பவர் அதிகமாக எண்ணிவிடக் கூடாது' என்று விளக்கம் தரும். பேச்சில் அதிகம் வரும்; அடக்கமாகப் பேசவும் உதவும்.",
+      "explanation_en": "〜といっても means \"I said A, but it’s not as big as you think\". You correct your own words and make them smaller. In Tamil: \"I run every day, but only ten minutes\" (ஓடுகிறேன் என்றாலும், வெறும் பத்து நிமிடம்தான்). Put it after the plain form. After nouns and な-adjectives, だ can be dropped: キャプテンといっても. The second part often has words like だけ (only), ぐらい (about) or それほど〜ない (not so). 〜ても is a general \"even if\". といっても says \"don’t imagine too much\". It is common in speech. It helps you sound modest.",
+      "tamil_parallel": "தினமும் ஓடுகிறேன் என்றாலும், வெறும் பத்து நிமிடம்தான் = 毎日走っているといっても、十分ぐらいだ",
+      "tamil_parallel_en": "\"I say I run every day, but it’s only ten minutes\" (ஓடுகிறேன் என்றாலும், வெறும் பத்து நிமிடம்தான்) = 毎日走っているといっても、十分ぐらいだ",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + といっても　　走っている といっても\nな-பெயரடை / பெயர்ச்சொல் (+ だ) + といっても　　　キャプテン(だ) といっても\nA といっても、(சிறிய உண்மை: だけ / ぐらい / それほど〜ない)",
+      "formation_en": "Verb / い-adjective (plain form) + といっても　　走っている といっても\nな-adjective / noun (+ だ) + といっても　　　　キャプテン(だ) といっても\nA といっても、(the small truth: だけ / ぐらい / それほど〜ない)",
+      "examples": [
+        {
+          "ja": "毎日走っているといっても、十分ぐらいです。",
+          "reading": "まいにち はしって いると いっても、じゅっぷんぐらいです。",
+          "romaji": "mainichi hashitte iru to itte mo, juppun gurai desu.",
+          "ta": "தினமும் ஓடுகிறேன் என்றாலும், வெறும் பத்து நிமிடம்தான்.",
+          "en": "I do run every day, but only for about ten minutes."
+        },
+        {
+          "ja": "優勝したといっても、参加したのは五チームだけだった。",
+          "reading": "ゆうしょうしたと いっても、さんかしたのは ごチームだけだった。",
+          "romaji": "yuushou shita to itte mo, sanka shita no wa go chiimu dake datta.",
+          "ta": "சாம்பியன் ஆனோம் என்றாலும், கலந்துகொண்டது ஐந்து அணிகள் மட்டுமே.",
+          "en": "We did win the title, but only five teams took part."
+        },
+        {
+          "ja": "キャプテンといっても、特別なことは何もしていません。",
+          "reading": "キャプテンと いっても、とくべつな ことは なにも して いません。",
+          "romaji": "kyaputen to itte mo, tokubetsu na koto wa nani mo shite imasen.",
+          "ta": "அணித் தலைவர் என்றாலும், நான் சிறப்பாக எதுவும் செய்வதில்லை.",
+          "en": "I may be the captain, but I don’t do anything special."
+        },
+        {
+          "ja": "泳げるといっても、二十五メートルぐらいだ。",
+          "reading": "およげると いっても、にじゅうご メートルぐらいだ。",
+          "romaji": "oyogeru to itte mo, nijuugo meetoru gurai da.",
+          "ta": "நீந்தத் தெரியும் என்றாலும், இருபத்தைந்து மீட்டர் அளவுதான்.",
+          "en": "I can swim, but only about twenty-five metres."
+        },
+        {
+          "ja": "寒いといっても、チェンナイの冬は二十度ぐらいです。",
+          "reading": "さむいと いっても、チェンナイの ふゆは にじゅうどぐらいです。",
+          "romaji": "samui to itte mo, chennai no fuyu wa nijuudo gurai desu.",
+          "ta": "குளிர் என்றாலும், சென்னையின் குளிர்காலம் இருபது டிகிரி அளவுதான்.",
+          "en": "We call it cold, but winter in Chennai is about twenty degrees."
+        },
+        {
+          "ja": "試合に負けたといっても、一点差だったじゃないか。",
+          "reading": "しあいに まけたと いっても、いってんさだったじゃないか。",
+          "romaji": "shiai ni maketa to itte mo, ittensa datta ja nai ka.",
+          "ta": "போட்டியில் தோற்றோம் என்றாலும், ஒரே ஒரு புள்ளி வித்தியாசம்தானே?",
+          "en": "Sure, we lost, but it was only by one point, wasn’t it?"
+        }
+      ],
+      "pitfalls_ta": "といっても-க்குப் பின் 'அது பெரிய விஷயம் இல்லை' என்ற விளக்கம் வர வேண்டும்; எதிர்பாராத முடிவைச் சொல்ல (மழை பெய்தும் வந்தார்கள்) にもかかわらず அல்லது のに பயன்படுத்துங்கள்.",
+      "pitfalls_en": "After といっても, explain that it is \"not a big deal\". To give a surprising result (\"it rained, but they came\"), use にもかかわらず or のに."
+    },
+    {
+      "id": "g15-2",
+      "pattern": "〜にもかかわらず",
+      "name": {
+        "en": "Despite ~",
+        "ta": "〜இருந்தபோதிலும்"
+      },
+      "explanation_ta": "〜にもかかわらず என்பது 'A என்ற உண்மை இருந்தபோதிலும், எதிர்பாராத B நடந்தது' என்று சொல்லும் முறையான (எழுத்து நடை) வடிவம். தமிழில் 'மழை பெய்தபோதிலும் நிறைய பேர் வந்தார்கள்', 'கடுமையாகப் பயிற்சி செய்தபோதிலும் தோற்றோம்' போல. உருவாக்கம்: சாதாரண வடிவம் + にもかかわらず; பெயர்ச்சொல் / な-பெயரடை அடிச்சொல் + にもかかわらず (அல்லது である + にもかかわらず). N4-இன் のに-க்குப் பொருள் ஒன்றுதான்; ஆனால் のに பேச்சு நடை, ஏமாற்றம் / குறை உணர்வைக் காட்டும்; にもかかわらず செய்தி, அறிக்கை, உரைகளில் வரும், உணர்ச்சி குறைவு. A ஏற்கனவே நடந்த / உண்மையான விஷயம்; கற்பனை அல்ல. பின்பகுதியில் கட்டளை, வேண்டுகோள் (〜てください) வராது.",
+      "explanation_en": "〜にもかかわらず means \"despite\". A is a fact, but an unexpected B happened. It is formal and used in writing. In Tamil: \"despite the rain, many people came\" (மழை பெய்தபோதிலும்). Put it after the plain form. After nouns and な-adjective stems, put it directly, or use である + にもかかわらず. It means the same as のに (N4). But のに is spoken and shows disappointment. にもかかわらず is used in news, reports and speeches, with less feeling. A must be a real fact, not imagined. The second part can’t be an order or request (〜てください).",
+      "tamil_parallel": "மழை பெய்தபோதிலும் நிறைய பேர் போட்டியைப் பார்க்க வந்தார்கள் = 雨にもかかわらず、たくさんの人が試合を見に来た",
+      "tamil_parallel_en": "\"Despite the rain, many people came to watch the match\" (மழை பெய்தபோதிலும்) = 雨にもかかわらず、たくさんの人が試合を見に来た",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + にもかかわらず　　練習した にもかかわらず\nபெயர்ச்சொல் / な-பெயரடை அடிச்சொல் + にもかかわらず　　雨 にもかかわらず\n(+ である): 七十歳である にもかかわらず",
+      "formation_en": "Verb / い-adjective (plain form) + にもかかわらず　　練習した にもかかわらず\nNoun / な-adjective stem + にもかかわらず　　　　　雨 にもかかわらず\n(+ である): 七十歳である にもかかわらず",
+      "examples": [
+        {
+          "ja": "雨にもかかわらず、たくさんの人が試合を見に来た。",
+          "reading": "あめにも かかわらず、たくさんの ひとが しあいを みに きた。",
+          "romaji": "ame ni mo kakawarazu, takusan no hito ga shiai o mi ni kita.",
+          "ta": "மழை பெய்தபோதிலும், நிறைய பேர் போட்டியைப் பார்க்க வந்தார்கள்.",
+          "en": "Despite the rain, many people came to watch the match."
+        },
+        {
+          "ja": "一生懸命練習したにもかかわらず、一回戦で負けてしまった。",
+          "reading": "いっしょうけんめい れんしゅうしたにも かかわらず、いっかいせんで まけて しまった。",
+          "romaji": "isshoukenmei renshuu shita ni mo kakawarazu, ikkaisen de makete shimatta.",
+          "ta": "கடுமையாகப் பயிற்சி செய்தபோதிலும், முதல் சுற்றிலேயே தோற்றுவிட்டோம்.",
+          "en": "Despite practising very hard, we lost in the first round."
+        },
+        {
+          "ja": "彼は足をけがしているにもかかわらず、最後まで走った。",
+          "reading": "かれは あしを けがして いるにも かかわらず、さいごまで はしった。",
+          "romaji": "kare wa ashi o kega shite iru ni mo kakawarazu, saigo made hashitta.",
+          "ta": "காலில் காயம் இருந்தபோதிலும் அவர் கடைசி வரை ஓடினார்.",
+          "en": "Despite his injured leg, he ran to the end."
+        },
+        {
+          "ja": "不利な状況にもかかわらず、チームはあきらめなかった。",
+          "reading": "ふりな じょうきょうにも かかわらず、チームは あきらめなかった。",
+          "romaji": "furi na joukyou ni mo kakawarazu, chiimu wa akiramenakatta.",
+          "ta": "பாதகமான நிலையிலும் அணி மனம் தளரவில்லை.",
+          "en": "Despite the difficult situation, the team didn’t give up."
+        },
+        {
+          "ja": "平日にもかかわらず、競技場は人でいっぱいだった。",
+          "reading": "へいじつにも かかわらず、きょうぎじょうは ひとで いっぱいだった。",
+          "romaji": "heijitsu ni mo kakawarazu, kyougijou wa hito de ippai datta.",
+          "ta": "வார நாளாக இருந்தபோதிலும், விளையாட்டரங்கம் மக்களால் நிரம்பி இருந்தது.",
+          "en": "Even though it was a weekday, the stadium was full of people."
+        },
+        {
+          "ja": "彼女は七十歳であるにもかかわらず、毎朝十キロ走る。",
+          "reading": "かのじょは ななじゅっさいで あるにも かかわらず、まいあさ じゅっキロ はしる。",
+          "romaji": "kanojo wa nanajussai de aru ni mo kakawarazu, maiasa jukkiro hashiru.",
+          "ta": "எழுபது வயதாக இருந்தபோதிலும், அவர் தினமும் காலை பத்து கிலோமீட்டர் ஓடுகிறார்.",
+          "en": "Despite being seventy, she runs ten kilometres every morning."
+        }
+      ],
+      "pitfalls_ta": "にもかかわらず-க்குப் பின் 〜てください, 〜ましょう போன்ற வேண்டுகோள் / அழைப்பு வராது. 'ஒருவேளை' என்ற கற்பனைக்கு としても அல்லது ても பயன்படுத்துங்கள்; にもかかわらず உண்மையில் நடந்ததற்கு மட்டும்.",
+      "pitfalls_en": "Don’t put a request or invitation (〜てください, 〜ましょう) after にもかかわらず. For \"even if\" (imagined), use としても or ても. にもかかわらず is only for real facts."
+    },
+    {
+      "id": "g15-3",
+      "pattern": "〜としても",
+      "name": {
+        "en": "Even if (we suppose) ~",
+        "ta": "ஒருவேளை 〜என்றாலும் கூட"
+      },
+      "explanation_ta": "〜としても என்பது 'A நடக்கிறது என்று வைத்துக்கொண்டாலும், B மாறாது' என்று கற்பனை நிலையை முன்வைக்கும். தமிழில் 'இப்போது அவசரப்பட்டாலும் கூட நேரத்துக்குப் போய்ச் சேர முடியாது', 'அது உண்மையாகவே இருந்தாலும் நான் அவனை நம்புகிறேன்' போல. உருவாக்கம்: சாதாரண வடிவம் + としても; பெயர்ச்சொல் / な-பெயரடை + だ + としても (本当だとしても). 〜ても-வுடன் உள்ள வேறுபாடு: ても எந்த 'இருந்தாலும்' நிலைக்கும் பொதுவானது; としても 'அப்படி ஒரு நிலையை வைத்துக்கொண்டால்' என்ற கற்பனையை வலியுறுத்தும், பெரும்பாலும் நடக்க வாய்ப்பு குறைவான அல்லது உறுதியில்லாத விஷயங்களுக்கு. にもかかわらず உண்மை நடந்ததற்கு; としても கற்பனைக்கு. たとえ〜としても என்று சேர்ந்தும் வரும்.",
+      "explanation_en": "〜としても means \"even if we suppose A, B won’t change\". It sets up an imagined situation. In Tamil: \"even if we hurry now, we won’t make it\" (அவசரப்பட்டாலும் கூட). Put it after the plain form. With nouns and な-adjectives use だ + としても: 本当だとしても. How is it different from 〜ても? ても is a general \"even if\". としても stresses \"let’s imagine this\". It is used for things that may not happen, or are not sure. にもかかわらず is for real facts. としても is for imagined ones. You can also say たとえ〜としても.",
+      "tamil_parallel": "அது உண்மையாகவே இருந்தாலும், நான் அவனை நம்புகிறேன் = それが本当だとしても、私は彼を信じる",
+      "tamil_parallel_en": "\"Even if that is true, I believe him\" (உண்மையாகவே இருந்தாலும்) = それが本当だとしても、私は彼を信じる",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + としても　　急いだ としても\nபெயர்ச்சொல் / な-பெயரடை + だ + としても　　　　　本当だ としても\n(たとえ + 〜としても)",
+      "formation_en": "Verb / い-adjective (plain form) + としても　　急いだ としても\nNoun / な-adjective + だ + としても　　　　　本当だ としても\n(たとえ + 〜としても)",
+      "examples": [
+        {
+          "ja": "今から急いだとしても、もう試合には間に合わない。",
+          "reading": "いまから いそいだと しても、もう しあいには まに あわない。",
+          "romaji": "ima kara isoida to shite mo, mou shiai ni wa ma ni awanai.",
+          "ta": "இப்போது அவசரப்பட்டாலும் கூட, போட்டிக்கு நேரத்துக்குப் போய்ச் சேர முடியாது.",
+          "en": "Even if we hurry now, we won’t make it to the match."
+        },
+        {
+          "ja": "優勝できないとしても、最後まで全力で戦いたい。",
+          "reading": "ゆうしょう できないと しても、さいごまで ぜんりょくで たたかいたい。",
+          "romaji": "yuushou dekinai to shite mo, saigo made zenryoku de tatakaitai.",
+          "ta": "சாம்பியன் ஆக முடியாவிட்டாலும் கூட, கடைசி வரை முழு பலத்துடன் போராட விரும்புகிறேன்.",
+          "en": "Even if we can’t win the title, I want to give it everything to the end."
+        },
+        {
+          "ja": "それが本当だとしても、私は彼を信じます。",
+          "reading": "それが ほんとうだと しても、わたしは かれを しんじます。",
+          "romaji": "sore ga hontou da to shite mo, watashi wa kare o shinjimasu.",
+          "ta": "அது உண்மையாகவே இருந்தாலும், நான் அவனை நம்புகிறேன்.",
+          "en": "Even if that’s true, I still believe him."
+        },
+        {
+          "ja": "宝くじが当たったとしても、仕事はやめないと思う。",
+          "reading": "たからくじが あたったと しても、しごとは やめないと おもう。",
+          "romaji": "takarakuji ga atatta to shite mo, shigoto wa yamenai to omou.",
+          "ta": "லாட்டரியில் பரிசு விழுந்தாலும் கூட, வேலையை விட மாட்டேன் என்று நினைக்கிறேன்.",
+          "en": "Even if I won the lottery, I don’t think I’d quit my job."
+        },
+        {
+          "ja": "雨だとしても、試合は決行します。",
+          "reading": "あめだと しても、しあいは けっこうします。",
+          "romaji": "ame da to shite mo, shiai wa kekkou shimasu.",
+          "ta": "மழை பெய்தாலும் கூட, போட்டி திட்டமிட்டபடி நடக்கும்.",
+          "en": "Even if it rains, the match will go ahead."
+        },
+        {
+          "ja": "行くとしても、午後になると思います。",
+          "reading": "いくと しても、ごごに なると おもいます。",
+          "romaji": "iku to shite mo, gogo ni naru to omoimasu.",
+          "ta": "போவதாக இருந்தாலும், மதியத்துக்குப் பிறகுதான் என்று நினைக்கிறேன்.",
+          "en": "Even if I do go, I think it’ll be in the afternoon."
+        }
+      ],
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்குப் பின் だ மறக்க வேண்டாம்: 雨としても அல்ல, 雨だとしても. ஏற்கனவே நடந்த உண்மைக்கு (பயிற்சி செய்தோம், ஆனால் தோற்றோம்) としても அல்ல, にもかかわらず / のに.",
+      "pitfalls_en": "Don’t forget だ after a noun: not 雨としても but 雨だとしても. For something that really happened (we practised but lost), use にもかかわらず or のに, not としても."
+    },
+    {
+      "id": "g15-4",
+      "pattern": "たとえ 〜ても",
+      "name": {
+        "en": "Even if ~ (strong)",
+        "ta": "எப்படி இருந்தாலும் / 〜ஆனாலும் கூட (உறுதி)"
+      },
+      "explanation_ta": "たとえ என்பது வாக்கியத்தின் தொடக்கத்தில் வந்து, பின்னால் வரும் 〜ても / 〜でも-வுக்கு 'என்ன ஆனாலும் சரி' என்ற வலிமையைச் சேர்க்கும் சொல். தமிழில் 'தோற்றாலும் கூட, கடைசி வரை மனம் தளர மாட்டேன்' என்பதில் உள்ள 'கூட' போல. உருவாக்கம்: たとえ + V-ても; たとえ + い-பெயரடை-くても; たとえ + பெயர்ச்சொல் / な-பெயரடை + でも. たとえ தனியாக வர முடியாது; பின்னால் கட்டாயம் ても / でも / としても வர வேண்டும். பின்பகுதி பெரும்பாலும் பேசுபவரின் உறுதி, முடிவு, கருத்து (〜ない, 〜たい, 〜つもりだ). もし (ஒருவேளை) நிபந்தனைக்கு (〜たら, 〜ば); たとえ 'இருந்தாலும்' என்ற எதிர்நிலைக்கு மட்டும்.",
+      "explanation_en": "たとえ comes at the start of a sentence. It makes the 〜ても / 〜でも after it stronger: \"no matter what\". In Tamil it is like the \"கூட\" in \"தோற்றாலும் கூட\" (even if we lose). How to make it: たとえ + V-ても. たとえ + い-adjective-くても. たとえ + noun or な-adjective + でも. たとえ can’t stand alone. ても, でも or としても must follow. The second part usually shows your will or opinion (〜ない, 〜たい, 〜つもりだ). もし (\"if\") goes with 〜たら or 〜ば. たとえ is only for \"even if\".",
+      "tamil_parallel": "தோற்றாலும் கூட, கடைசி வரை மனம் தளர மாட்டேன் = たとえ負けても、最後まであきらめない",
+      "tamil_parallel_en": "\"Even if we lose, I won’t give up till the end\" (தோற்றாலும் கூட) = たとえ負けても、最後まであきらめない",
+      "formation": "たとえ + V-ても　　　　　　　　　　　　たとえ 負けても\nたとえ + い-பெயரடை-くても　　　　　　　たとえ 苦しくても\nたとえ + பெயர்ச்சொல் / な-பெயரடை + でも　たとえ 雨でも",
+      "formation_en": "たとえ + V-ても　　　　　　　　　　　たとえ 負けても\nたとえ + い-adjective-くても　　　　　たとえ 苦しくても\nたとえ + noun / な-adjective + でも　たとえ 雨でも",
+      "examples": [
+        {
+          "ja": "たとえ負けても、最後まであきらめない。",
+          "reading": "たとえ まけても、さいごまで あきらめない。",
+          "romaji": "tatoe maketemo, saigo made akiramenai.",
+          "ta": "தோற்றாலும் கூட, கடைசி வரை மனம் தளர மாட்டேன்.",
+          "en": "Even if we lose, I won’t give up until the end."
+        },
+        {
+          "ja": "たとえ雨でも、練習は休みません。",
+          "reading": "たとえ あめでも、れんしゅうは やすみません。",
+          "romaji": "tatoe ame demo, renshuu wa yasumimasen.",
+          "ta": "மழையாக இருந்தாலும் கூட, பயிற்சிக்கு விடுமுறை இல்லை.",
+          "en": "Even if it rains, we won’t skip practice."
+        },
+        {
+          "ja": "たとえ親に反対されても、私はサッカー選手になりたい。",
+          "reading": "たとえ おやに はんたいされても、わたしは サッカー せんしゅに なりたい。",
+          "romaji": "tatoe oya ni hantai saretemo, watashi wa sakkaa senshu ni naritai.",
+          "ta": "பெற்றோர் எதிர்த்தாலும் கூட, நான் கால்பந்து வீரன் ஆக விரும்புகிறேன்.",
+          "en": "Even if my parents are against it, I want to be a football player."
+        },
+        {
+          "ja": "たとえ苦しくても、毎日トレーニングを続けます。",
+          "reading": "たとえ くるしくても、まいにち トレーニングを つづけます。",
+          "romaji": "tatoe kurushikutemo, mainichi toreeningu o tsuzukemasu.",
+          "ta": "எவ்வளவு கஷ்டமாக இருந்தாலும், தினமும் பயிற்சியைத் தொடர்வேன்.",
+          "en": "Even if it’s hard, I’ll keep training every day."
+        },
+        {
+          "ja": "たとえ相手が強いチームでも、怖くない。",
+          "reading": "たとえ あいてが つよい チームでも、こわくない。",
+          "romaji": "tatoe aite ga tsuyoi chiimu demo, kowakunai.",
+          "ta": "எதிரணி பலமான அணியாக இருந்தாலும் கூட, எனக்குப் பயமில்லை.",
+          "en": "Even if the other side is a strong team, I’m not scared."
+        },
+        {
+          "ja": "たとえ一点差でも、勝ちは勝ちだ。",
+          "reading": "たとえ いってんさでも、かちは かちだ。",
+          "romaji": "tatoe ittensa demo, kachi wa kachi da.",
+          "ta": "ஒரு புள்ளி வித்தியாசமாக இருந்தாலும், வெற்றி வெற்றிதான்.",
+          "en": "Even if it’s by one point, a win is a win."
+        }
+      ],
+      "pitfalls_ta": "たとえ-வுக்குப் பின் 〜たら / 〜ば போடாதீர்கள் (✕ たとえ雨なら); அது もし-யின் வேலை. たとえ இருந்தால் கட்டாயம் ても / でも வேண்டும்.",
+      "pitfalls_en": "Don’t use 〜たら or 〜ば after たとえ (✕ たとえ雨なら). That is the job of もし. With たとえ you must use ても or でも."
+    },
+    {
+      "id": "g15-5",
+      "pattern": "V-ても V-ても",
+      "name": {
+        "en": "No matter how much (you keep doing) ~",
+        "ta": "எவ்வளவு 〜னாலும்"
+      },
+      "explanation_ta": "ஒரே வினையின் て-வடிவம் + も-வை இரண்டு முறை சொன்னால் 'எவ்வளவு திரும்பத் திரும்பச் செய்தாலும், எதிர்பார்த்த பலன் வரவில்லை' என்ற பொருள். தமிழில் 'எவ்வளவு ஓடினாலும் எட்டிப்பிடிக்க முடியவில்லை', 'கூப்பிட்டுக் கூப்பிட்டுப் பார்த்தும் யாரும் வரவில்லை' என்று வினையை இரட்டிப்பது போலவே. உருவாக்கம்: V-ても + அதே V-ても, பின்னால் பெரும்பாலும் எதிர்மறை அல்லது 'மாற்றம் இல்லை' என்ற முடிவு (〜ない, なかなか〜ない, すぐ〜). இது பேச்சிலும் கதைகளிலும் அதிகம் வரும்; முயற்சியும் சலிப்பும் தெரியும். N4-இன் いくら〜ても-வுக்கு அருகில் உள்ள பொருள்; ஆனால் இதில் செயல் மீண்டும் மீண்டும் நடப்பது கண்முன் தெரியும்.",
+      "explanation_en": "Say the て-form + も of the same verb twice. It means \"no matter how many times I do it, the result doesn’t come\". Tamil also doubles the verb: \"கூப்பிட்டுக் கூப்பிட்டுப் பார்த்தும்\" (I called and called, but…). How to make it: V-ても + the same V-ても. The second part is usually negative, or \"no change\" (〜ない, なかなか〜ない, すぐ〜). It is common in speech and stories. It shows effort and frustration. It is close to いくら〜ても (N4). But here you can almost see the action being repeated.",
+      "tamil_parallel": "ஓடி ஓடிப் பார்த்தும் எட்டிப்பிடிக்க முடியவில்லை = 走っても走っても、追い付けない",
+      "tamil_parallel_en": "\"I ran and ran, but couldn’t catch up\" (ஓடி ஓடிப் பார்த்தும்) = 走っても走っても、追い付けない",
+      "formation": "V-ても + (அதே) V-ても、〜ない\n走っても 走っても、追い付けない\n練習しても 練習しても、上手に ならない",
+      "formation_en": "V-ても + (the same) V-ても、〜ない\n走っても 走っても、追い付けない\n練習しても 練習しても、上手に ならない",
+      "examples": [
+        {
+          "ja": "走っても走っても、前の選手に追い付けない。",
+          "reading": "はしっても はしっても、まえの せんしゅに おいつけない。",
+          "romaji": "hashittemo hashittemo, mae no senshu ni oitsukenai.",
+          "ta": "எவ்வளவு ஓடினாலும், முன்னால் உள்ள வீரரை எட்டிப்பிடிக்க முடியவில்லை.",
+          "en": "No matter how much I run, I can’t catch the runner ahead."
+        },
+        {
+          "ja": "練習しても練習しても、なかなか上手にならない。",
+          "reading": "れんしゅうしても れんしゅうしても、なかなか じょうずに ならない。",
+          "romaji": "renshuu shitemo renshuu shitemo, nakanaka jouzu ni naranai.",
+          "ta": "எவ்வளவு பயிற்சி செய்தாலும், சுலபமாகத் திறமை வரவில்லை.",
+          "en": "No matter how much I practise, I just don’t get better."
+        },
+        {
+          "ja": "食べても食べても、すぐおなかがすく。",
+          "reading": "たべても たべても、すぐ おなかが すく。",
+          "romaji": "tabetemo tabetemo, sugu onaka ga suku.",
+          "ta": "எவ்வளவு சாப்பிட்டாலும், உடனே பசிக்கிறது.",
+          "en": "No matter how much I eat, I get hungry again right away."
+        },
+        {
+          "ja": "考えても考えても、いい作戦が思い付かない。",
+          "reading": "かんがえても かんがえても、いい さくせんが おもいつかない。",
+          "romaji": "kangaetemo kangaetemo, ii sakusen ga omoitsukanai.",
+          "ta": "எவ்வளவு யோசித்தாலும், நல்ல உத்தி தோன்றவில்லை.",
+          "en": "No matter how hard I think, I can’t come up with a good plan."
+        },
+        {
+          "ja": "呼んでも呼んでも、だれも出てこなかった。",
+          "reading": "よんでも よんでも、だれも でて こなかった。",
+          "romaji": "yondemo yondemo, dare mo dete konakatta.",
+          "ta": "கூப்பிட்டுக் கூப்பிட்டுப் பார்த்தும் யாரும் வெளியே வரவில்லை.",
+          "en": "I called and called, but nobody came out."
+        },
+        {
+          "ja": "洗っても洗っても、ユニフォームの汚れが落ちない。",
+          "reading": "あらっても あらっても、ユニフォームの よごれが おちない。",
+          "romaji": "arattemo arattemo, yunifoomu no yogore ga ochinai.",
+          "ta": "எவ்வளவு துவைத்தாலும், சீருடையின் கறை போகவில்லை.",
+          "en": "No matter how much I wash it, the stain on my uniform won’t come out."
+        }
+      ],
+      "pitfalls_ta": "இரண்டு முறையும் ஒரே வினை வர வேண்டும் (走っても泳いでも என்றால் 'ஓடினாலும் நீந்தினாலும்' என்ற வேறு பொருள்). பின்பகுதி பொதுவாக 'பலன் இல்லை' என்ற முடிவு; நல்ல முடிவுக்கு இது இயல்பாக வராது.",
+      "pitfalls_en": "Use the same verb both times. 走っても泳いでも means \"whether I run or swim\", a different meaning. The second part is usually \"no result\". It doesn’t sound natural with a good result."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0013",
+    "n3-v-0114",
+    "n3-v-0201",
+    "n3-v-0229",
+    "n3-v-0305",
+    "n3-v-0327",
+    "n3-v-0487",
+    "n3-v-0489",
+    "n3-v-0530",
+    "n3-v-0534",
+    "n3-v-0621",
+    "n3-v-0731",
+    "n3-v-0747",
+    "n3-v-0776",
+    "n3-v-0821",
+    "n3-v-0851",
+    "n3-v-0907",
+    "n3-v-0911",
+    "n3-v-0953",
+    "n3-v-1108",
+    "n3-v-1114",
+    "n3-v-1159",
+    "n3-v-1240",
+    "n3-v-1252",
+    "n3-v-1276",
+    "n3-v-1284",
+    "n3-v-1291",
+    "n3-v-1308",
+    "n3-v-1342",
+    "n3-v-1357",
+    "n3-v-1385",
+    "n3-v-1387",
+    "n3-v-1404",
+    "n3-v-1405",
+    "n3-v-1406",
+    "n3-v-1417",
+    "n3-v-1426",
+    "n3-v-1427",
+    "n3-v-1455",
+    "n3-v-1504",
+    "n3-v-1511",
+    "n3-v-1536",
+    "n3-v-1542",
+    "n3-v-1548",
+    "n3-v-1622",
+    "n3-v-1634",
+    "n3-v-1656",
+    "n3-v-1693",
+    "n3-v-1726",
+    "n3-v-1727",
+    "n3-v-1764",
+    "n3-v-1767",
+    "n3-v-1824",
+    "n3-v-1885",
+    "n3-v-1888",
+    "n3-v-1902",
+    "n3-v-1973",
+    "n3-v-2060",
+    "n3-v-2100"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L15-q01",
+        "type": "kanji_reading",
+        "sentence": "兄は明日の大会に＿出場＿します。",
+        "target": "出場",
+        "options": [
+          "しゅっじょう",
+          "でじょう",
+          "しゅつじょう",
+          "しゅつば"
+        ],
+        "answer": 2,
+        "explanation_ta": "出場 = しゅつじょう (போட்டியில் களமிறங்குதல்). இங்கே 出 = しゅつ; சிறிய っ வராது (出発 しゅっぱつ-இல் மட்டும் っ).",
+        "explanation_en": "出場 = しゅつじょう (competing in an event). Here 出 is しゅつ with no small っ. (出発 しゅっぱつ has っ, but this word doesn’t.)"
+      },
+      {
+        "id": "L15-q02",
+        "type": "kanji_reading",
+        "sentence": "＿審判＿の判断は正しかった。",
+        "target": "審判",
+        "options": [
+          "しんばん",
+          "しんぱん",
+          "じんぱん",
+          "しんはん"
+        ],
+        "answer": 1,
+        "explanation_ta": "審判 = しんぱん (நடுவர்). ん-க்குப் பின் 判 = ぱん என்று 'ப' ஒலியாக மாறும்; ばん, はん தவறு.",
+        "explanation_en": "審判 = しんぱん (நடுவர், referee). After ん, 判 becomes ぱん. ばん and はん are wrong."
+      },
+      {
+        "id": "L15-q03",
+        "type": "kanji_reading",
+        "sentence": "スポーツ選手は＿筋肉＿が多い。",
+        "target": "筋肉",
+        "options": [
+          "きんにく",
+          "すじにく",
+          "きんじく",
+          "きにく"
+        ],
+        "answer": 0,
+        "explanation_ta": "筋肉 = きんにく (தசை). 筋 தனியாக すじ, ஆனால் இந்தச் சொல்லில் きん. すじにく பொறி.",
+        "explanation_en": "筋肉 = きんにく (தசை, muscle). 筋 alone is すじ, but in this word it is きん. すじにく is the trap."
+      },
+      {
+        "id": "L15-q04",
+        "type": "orthography",
+        "sentence": "私たちのチームが県の大会で＿ゆうしょう＿した。",
+        "target": "ゆうしょう",
+        "options": [
+          "有勝",
+          "優将",
+          "友勝",
+          "優勝"
+        ],
+        "answer": 3,
+        "explanation_ta": "ゆうしょう = 優勝 (சாம்பியன் பட்டம்). 優 = சிறந்த, 勝 = வெற்றி. 有 (இருத்தல்), 将 (தளபதி) தவறு.",
+        "explanation_en": "ゆうしょう = 優勝 (winning the title). 優 means \"excellent\", 勝 means \"win\". 有 (have) and 将 (general) are wrong."
+      },
+      {
+        "id": "L15-q05",
+        "type": "orthography",
+        "sentence": "ボールを強く＿けった＿。",
+        "target": "けった",
+        "options": [
+          "踏った",
+          "蹴った",
+          "跳った",
+          "躍った"
+        ],
+        "answer": 1,
+        "explanation_ta": "けった = 蹴った (உதைத்தேன்). எல்லா விருப்பங்களிலும் 足 (கால்) பகுதி உள்ளது; 蹴 மட்டுமே ける என்று படிக்கப்படும்.",
+        "explanation_en": "けった = 蹴った (kicked). All the options have the 足 (foot) part. Only 蹴 is read ける."
+      },
+      {
+        "id": "L15-q06",
+        "type": "vocab_context",
+        "sentence": "背が高い選手は、バレーボールで（　　）だ。",
+        "options": [
+          "不利",
+          "困難",
+          "有利",
+          "単純"
+        ],
+        "answer": 2,
+        "explanation_ta": "உயரம் கைப்பந்தில் உதவும் → சாதகம் = 有利. 不利 (பாதகம்) எதிர்ப்பொருள்.",
+        "explanation_en": "Height helps in volleyball → an advantage = 有利 (சாதகமான). 不利 (disadvantage) is the opposite."
+      },
+      {
+        "id": "L15-q07",
+        "type": "vocab_context",
+        "sentence": "試合の前に、足の筋肉をよく（　　）おこう。",
+        "options": [
+          "伸ばして",
+          "延ばして",
+          "抜けて",
+          "外れて"
+        ],
+        "answer": 0,
+        "explanation_ta": "தசையை நீட்டுதல் = 伸ばす. 延ばす ஒலி ஒன்று; ஆனால் அது நேரம், தேதியை நீட்டித்தல் / தள்ளிவைத்தல்.",
+        "explanation_en": "Stretching a muscle = 伸ばす (நீட்ட). 延ばす sounds the same, but it is for time and dates: to extend or postpone."
+      },
+      {
+        "id": "L15-q08",
+        "type": "vocab_context",
+        "sentence": "ゴールが決まると、観客から大きな（　　）が上がった。",
+        "options": [
+          "騒音",
+          "抵抗",
+          "降伏",
+          "歓声"
+        ],
+        "answer": 3,
+        "explanation_ta": "கோல் விழுந்ததும் மகிழ்ச்சிக் கூச்சல் = 歓声 (ஆரவாரம்). 騒音 என்பது தொல்லை தரும் இரைச்சல்; மகிழ்ச்சி அல்ல.",
+        "explanation_en": "A shout of joy after a goal = 歓声 (ஆரவாரம், cheer). 騒音 is annoying noise, not joy."
+      },
+      {
+        "id": "L15-q09",
+        "type": "vocab_context",
+        "sentence": "前の選手に、あと少しで（　　）ところだった。",
+        "options": [
+          "思い付く",
+          "追い付く",
+          "飛び出す",
+          "引っ張る"
+        ],
+        "answer": 1,
+        "explanation_ta": "முன்னால் உள்ள வீரரை எட்டிப்பிடித்தல் = 追い付く. 思い付く (யோசனை தோன்றுதல்) தோற்றத்தில் ஒத்த பொறி.",
+        "explanation_en": "Catching up with the runner ahead = 追い付く (எட்டிப்பிடிக்க). 思い付く (to think of an idea) looks similar. It is the trap."
+      },
+      {
+        "id": "L15-q10",
+        "type": "vocab_context",
+        "sentence": "最後のシュートは、ゴールから（　　）しまった。",
+        "options": [
+          "抜けて",
+          "当たって",
+          "外れて",
+          "倒れて"
+        ],
+        "answer": 2,
+        "explanation_ta": "இலக்கைத் தவறுதல் = ゴールから外れる. 当たる என்றால் பட்டது; அதற்கு 〜に当たる என்று வரும், から அல்ல.",
+        "explanation_en": "Missing the goal = ゴールから外れる (தவற). 当たる means \"to hit\". It takes 〜に, not から."
+      },
+      {
+        "id": "L15-q11",
+        "type": "paraphrase",
+        "sentence": "練習は大変だった。だが、楽しかった。",
+        "options": [
+          "練習は大変だったが、楽しかった。",
+          "練習は大変だったので、楽しかった。",
+          "練習は大変で、楽しくなかった。",
+          "練習は楽だったから、楽しかった。"
+        ],
+        "answer": 0,
+        "explanation_ta": "だが = ஆனால் = 〜が. ので (ஆகையால்) காரணத்தைக் காட்டும்; இங்கே எதிர்நிலை வேண்டும்.",
+        "explanation_en": "だが = but (ஆனால்) = 〜が. ので (so) shows a reason, but here we need a contrast."
+      },
+      {
+        "id": "L15-q12",
+        "type": "paraphrase",
+        "sentence": "雨でも、試合は決行します。",
+        "options": [
+          "雨なら、試合は中止です。",
+          "雨でも、試合は予定どおり行います。",
+          "雨の日は、試合を延ばします。",
+          "雨が降ったら、試合を休みます。"
+        ],
+        "answer": 1,
+        "explanation_ta": "決行 = திட்டமிட்டபடி நடத்துதல் = 予定どおり行う. 延ばす (தள்ளிவைத்தல்), 中止 (ரத்து) எதிர்ப்பொருள்.",
+        "explanation_en": "決行 = to go ahead as planned = 予定どおり行う. 延ばす (postpone) and 中止 (cancel) mean the opposite."
+      },
+      {
+        "id": "L15-q13",
+        "type": "usage",
+        "sentence": "戦う",
+        "options": [
+          "毎朝、歯を戦ってから学校へ行く。",
+          "弟と一緒にテレビを戦って見た。",
+          "雨が強く戦っている。",
+          "明日、去年の優勝チームと戦う。"
+        ],
+        "answer": 3,
+        "explanation_ta": "戦う = போராடுதல், மோதுதல்; 〜と戦う (ஒருவருடன் மோது). பல் துலக்குதல் = 歯を磨く; மழை பெய்வது = 降る.",
+        "explanation_en": "戦う = to fight or compete (போராட). We say 〜と戦う (fight with someone). Brushing teeth is 歯を磨く. Rain falling is 降る."
+      },
+      {
+        "id": "L15-q14",
+        "type": "usage",
+        "sentence": "当たる",
+        "options": [
+          "投げたボールが窓に当たって、ガラスが割れた。",
+          "友達と駅で当たる約束をした。",
+          "毎朝六時に当たって、公園を走る。",
+          "先生の話をよく当たってください。"
+        ],
+        "answer": 0,
+        "explanation_ta": "当たる = (ஒன்று) மேலே படுதல், மோதுதல்: 〜に当たる. நண்பரைச் சந்திப்பது = 会う; எழுவது = 起きる; கேட்பது = 聞く.",
+        "explanation_en": "当たる = to hit something (பட): 〜に当たる. Meeting a friend is 会う. Getting up is 起きる. Listening is 聞く."
+      },
+      {
+        "id": "L15-q15",
+        "type": "grammar_form",
+        "sentence": "毎日走っている（　　）、十分ぐらいです。",
+        "options": [
+          "にもかかわらず",
+          "としても",
+          "といっても",
+          "ながらも"
+        ],
+        "answer": 2,
+        "explanation_ta": "'தினமும் ஓடுகிறேன் என்றாலும் வெறும் பத்து நிமிடம்' — அளவைக் குறைத்துச் சொல்வது = といっても. にもかかわらず-க்குப் பின் எதிர்பாராத முடிவு வர வேண்டும்.",
+        "explanation_en": "\"I run every day, but only ten minutes\" plays it down = といっても. After にもかかわらず you need a surprising result."
+      },
+      {
+        "id": "L15-q16",
+        "type": "grammar_form",
+        "sentence": "雨（　　）、たくさんの人が試合を見に来た。",
+        "options": [
+          "にもかかわらず",
+          "といっても",
+          "ても",
+          "としても"
+        ],
+        "answer": 0,
+        "explanation_ta": "உண்மையில் மழை பெய்தது; இருந்தும் வந்தார்கள் = 雨にもかかわらず. としても கற்பனைக்கு; இங்கே நடந்த உண்மை. ても பெயர்ச்சொல்லுக்குப் பின் நேரடியாக வராது (雨でも).",
+        "explanation_en": "It really rained, but they came = 雨にもかかわらず. としても is for imagined things, but this really happened. ても can’t follow a noun directly (it would be 雨でも)."
+      },
+      {
+        "id": "L15-q17",
+        "type": "grammar_form",
+        "sentence": "今から急いだ（　　）、もう試合には間に合わない。",
+        "options": [
+          "にもかかわらず",
+          "といっても",
+          "くせに",
+          "としても"
+        ],
+        "answer": 3,
+        "explanation_ta": "'இப்போது அவசரப்பட்டாலும் கூட' — இன்னும் நடக்காத கற்பனை = としても. にもかかわらず நடந்த உண்மைக்கு மட்டும்.",
+        "explanation_en": "\"Even if we hurry now\" is something not yet done, so it is imagined = としても. にもかかわらず is only for real facts."
+      },
+      {
+        "id": "L15-q18",
+        "type": "grammar_form",
+        "sentence": "（　　）負けても、最後まであきらめない。",
+        "options": [
+          "それでも",
+          "たとえ",
+          "だが",
+          "しかも"
+        ],
+        "answer": 1,
+        "explanation_ta": "〜ても-வுடன் சேர்ந்து 'என்ன ஆனாலும்' என்ற வலிமை = たとえ. それでも, だが இணைப்புச் சொற்கள்; வாக்கியங்களுக்கு இடையே மட்டும் வரும்.",
+        "explanation_en": "With 〜ても, the strong \"no matter what\" word is たとえ. それでも and だが join two sentences. They don’t go inside one like this."
+      },
+      {
+        "id": "L15-q19",
+        "type": "grammar_form",
+        "sentence": "たとえ雨（　　）、練習は休みません。",
+        "options": [
+          "なら",
+          "だから",
+          "なのに",
+          "でも"
+        ],
+        "answer": 3,
+        "explanation_ta": "たとえ + பெயர்ச்சொல் + でも. なら (என்றால்) நிபந்தனை; たとえ-வுடன் வராது.",
+        "explanation_en": "たとえ + noun + でも. なら (if) is a condition. It doesn’t go with たとえ."
+      },
+      {
+        "id": "L15-q20",
+        "type": "grammar_form",
+        "sentence": "走っても（　　）、前の選手に追い付けない。",
+        "options": [
+          "走れば",
+          "走って",
+          "走っても",
+          "走ったら"
+        ],
+        "answer": 2,
+        "explanation_ta": "V-ても V-ても = எவ்வளவு ஓடினாலும்; ஒரே வடிவம் இரண்டு முறை. 走れば / 走ったら நிபந்தனை; பொருள் பொருந்தாது.",
+        "explanation_en": "V-ても V-ても = no matter how much I run. The same form appears twice. 走れば and 走ったら are conditions; they don’t fit."
+      },
+      {
+        "id": "L15-q21",
+        "type": "grammar_form",
+        "sentence": "一生懸命練習した（　　）、一回戦で負けてしまった。",
+        "options": [
+          "ので",
+          "にもかかわらず",
+          "としても",
+          "たとえ"
+        ],
+        "answer": 1,
+        "explanation_ta": "பயிற்சி செய்தது உண்மை; ஆனால் தோல்வி = にもかかわらず. としても கற்பனைக்கு; இங்கே கடந்தகால உண்மை. ので (ஆகையால்) பொருந்தாது.",
+        "explanation_en": "Practising is a real fact, but they lost = にもかかわらず. としても is for imagined things; this is a past fact. ので (so) doesn’t make sense."
+      },
+      {
+        "id": "L15-q22",
+        "type": "sentence_order",
+        "before": "たとえ",
+        "chunks": [
+          "相手が",
+          "強くても",
+          "最後まで",
+          "あきらめずに"
+        ],
+        "star": 1,
+        "after": "戦おう。",
+        "explanation_ta": "たとえ 相手が 強くても 最後まで あきらめずに 戦おう。= எதிரணி பலமாக இருந்தாலும் கூட, கடைசி வரை மனம் தளராமல் போராடுவோம். たとえ … 〜くても ஜோடியாக வரும்.",
+        "explanation_en": "たとえ 相手が 強くても 最後まで あきらめずに 戦おう。= Even if they are strong, let’s fight to the end without giving up. たとえ pairs with 〜くても."
+      },
+      {
+        "id": "L15-q23",
+        "type": "sentence_order",
+        "before": "雨が強い",
+        "chunks": [
+          "にもかかわらず",
+          "選手たちは",
+          "最後まで",
+          "走り続けた"
+        ],
+        "star": 1,
+        "after": "。",
+        "explanation_ta": "雨が強い にもかかわらず 選手たちは 最後まで 走り続けた。= கனமழை பெய்தபோதிலும் வீரர்கள் கடைசி வரை ஓடிக்கொண்டே இருந்தார்கள்.",
+        "explanation_en": "雨が強い にもかかわらず 選手たちは 最後まで 走り続けた。= Despite the heavy rain, the runners kept running to the end."
+      },
+      {
+        "id": "L15-q24",
+        "type": "sentence_order",
+        "before": "練習しても",
+        "chunks": [
+          "練習しても",
+          "なかなか",
+          "上手に",
+          "ならない"
+        ],
+        "star": 2,
+        "after": "。",
+        "explanation_ta": "練習しても 練習しても なかなか 上手に ならない。= எவ்வளவு பயிற்சி செய்தாலும் சுலபமாகத் திறமை வரவில்லை. V-ても இரண்டு முறை, பிறகு なかなか〜ない.",
+        "explanation_en": "練習しても 練習しても なかなか 上手に ならない。= No matter how much I practise, I just don’t improve. V-ても twice, then なかなか〜ない."
+      },
+      {
+        "id": "L15-q25",
+        "type": "passage_cloze",
+        "passage": "先週、町のクリケット大会に出場した。大会［1］、参加したのは六チームだけの小さな大会だ。決勝の日は、朝から強い雨が降っていた。［2］、試合は決行された。私たちは最後まで一生懸命戦った［3］、三対五で負けてしまった。試合の後、コーチは「［4］負けても、最後まであきらめないことが大切だ。今日のみんなは、それができた」と言ってくれた。",
+        "blanks": [
+          {
+            "options": [
+              "といっても",
+              "にもかかわらず",
+              "としても",
+              "ても"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "だから",
+              "それに",
+              "それでも",
+              "たとえ"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "としても",
+              "にもかかわらず",
+              "といっても",
+              "たとえ"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "それでも",
+              "だが",
+              "しかも",
+              "たとえ"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ 'போட்டி என்றாலும் சின்னப் போட்டிதான்' = 大会といっても. ［2］ மழை பெய்தது; இருந்தும் போட்டி நடந்தது = それでも. だから (ஆகையால்) பொருந்தாது. ［3］ முழு முயற்சி உண்மை; ஆனால் தோல்வி = にもかかわらず. ［4］ 〜ても-வுடன் சேரும் வலிமைச் சொல் = たとえ.",
+        "explanation_en": "[1] \"It’s called a tournament, but it was a small one\" = 大会といっても. [2] It rained, but the match still went ahead = それでも. だから (so) doesn’t fit. [3] They really tried hard, but lost = にもかかわらず. [4] The strong word that goes with 〜ても = たとえ."
+      }
+    ]
+  }
+}

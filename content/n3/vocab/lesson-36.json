@@ -1,0 +1,992 @@
+[
+ {
+  "id": "n3-v-0014",
+  "expression": "参考",
+  "reading": "さんこう",
+  "romaji": "sankou",
+  "en": "reference",
+  "ta": "மேற்கோள், முன்மாதிரி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "先輩のレポートを参考にして書きました。",
+    "reading": "せんぱいの レポートを さんこうに して かきました。",
+    "romaji": "senpai no repooto o sankou ni shite kakimashita.",
+    "ta": "சீனியரின் அறிக்கையை முன்மாதிரியாக வைத்து எழுதினேன்.",
+    "en": "I wrote it using my senior’s report as a reference."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0024",
+  "expression": "直に",
+  "reading": "じかに",
+  "romaji": "jikani",
+  "en": "directly, in person",
+  "ta": "நேரடியாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "社長に直に話してみます。",
+    "reading": "しゃちょうに じかに はなして みます。",
+    "romaji": "shachou ni jika ni hanashite mimasu.",
+    "ta": "நிறுவனத் தலைவரிடம் நேரடியாகப் பேசிப் பார்க்கிறேன்.",
+    "en": "I’ll try talking to the company president directly."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0027",
+  "expression": "直",
+  "reading": "じき",
+  "romaji": "jiki",
+  "en": "soon, shortly",
+  "ta": "விரைவில்",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "もう直、会議が始まります。",
+    "reading": "もう じき、かいぎが はじまります。",
+    "romaji": "mou jiki, kaigi ga hajimarimasu.",
+    "ta": "இன்னும் சற்று நேரத்தில் கூட்டம் தொடங்கும்.",
+    "en": "The meeting will start very soon."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0030",
+  "expression": "至急",
+  "reading": "しきゅう",
+  "romaji": "shikyuu",
+  "en": "urgently",
+  "ta": "அவசரமாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "至急、連絡してください。",
+    "reading": "しきゅう、れんらく して ください。",
+    "romaji": "shikyuu, renraku shite kudasai.",
+    "ta": "அவசரமாகத் தொடர்புகொள்ளுங்கள்.",
+    "en": "Please contact us urgently."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0046",
+  "expression": "次第",
+  "reading": "しだい",
+  "romaji": "shidai",
+  "en": "as soon as; depending on",
+  "ta": "~ஆனவுடன்; ~ஐப் பொறுத்து",
+  "pos": "suffix",
+  "examples": [
+   {
+    "ja": "詳しいことがわかり次第、お知らせします。",
+    "reading": "くわしい ことが わかりしだい、おしらせ します。",
+    "romaji": "kuwashii koto ga wakarishidai, oshirase shimasu.",
+    "ta": "விவரங்கள் தெரிந்தவுடன் உங்களுக்குத் தெரிவிக்கிறோம்.",
+    "en": "We will let you know as soon as we have details."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0082",
+  "expression": "占める",
+  "reading": "しめる",
+  "romaji": "shimeru",
+  "en": "to make up, to take up",
+  "ta": "பங்கு வகிக்க, இடம் பிடிக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "この会社では、女性が社員の半分を占めています。",
+    "reading": "この かいしゃでは、じょせいが しゃいんの はんぶんを しめて います。",
+    "romaji": "kono kaisha de wa, josei ga shain no hanbun o shimete imasu.",
+    "ta": "இந்த நிறுவனத்தில் ஊழியர்களில் பாதிப் பேர் பெண்கள்.",
+    "en": "Women make up half the staff at this company."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0112",
+  "expression": "手段",
+  "reading": "しゅだん",
+  "romaji": "shudan",
+  "en": "means, way",
+  "ta": "வழிமுறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "連絡の手段は、メールがいちばん便利です。",
+    "reading": "れんらくの しゅだんは、メールが いちばん べんりです。",
+    "romaji": "renraku no shudan wa, meeru ga ichiban benri desu.",
+    "ta": "தொடர்புகொள்ள மின்னஞ்சலே மிகவும் வசதியான வழி.",
+    "en": "Email is the most convenient way to get in touch."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0120",
+  "expression": "需要",
+  "reading": "じゅよう",
+  "romaji": "juyou",
+  "en": "demand",
+  "ta": "தேவை (சந்தையில்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "夏はエアコンの需要が高くなります。",
+    "reading": "なつは エアコンの じゅようが たかく なります。",
+    "romaji": "natsu wa eakon no juyou ga takaku narimasu.",
+    "ta": "கோடையில் ஏசிக்கான தேவை அதிகரிக்கும்.",
+    "en": "Demand for air conditioners rises in summer."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0136",
+  "expression": "条件",
+  "reading": "じょうけん",
+  "romaji": "jouken",
+  "en": "conditions, terms",
+  "ta": "நிபந்தனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この仕事の条件を詳しく教えてください。",
+    "reading": "この しごとの じょうけんを くわしく おしえて ください。",
+    "romaji": "kono shigoto no jouken o kuwashiku oshiete kudasai.",
+    "ta": "இந்த வேலையின் நிபந்தனைகளை விரிவாகச் சொல்லுங்கள்.",
+    "en": "Please tell me the terms of this job in detail."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0141",
+  "expression": "少々",
+  "reading": "しょうしょう",
+  "romaji": "shoushou",
+  "en": "a little, a moment (formal)",
+  "ta": "சற்று",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "少々お待ちください。",
+    "reading": "しょうしょう おまち ください。",
+    "romaji": "shoushou omachi kudasai.",
+    "ta": "சற்றுக் காத்திருங்கள்.",
+    "en": "Please wait a moment."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0144",
+  "expression": "状態",
+  "reading": "じょうたい",
+  "romaji": "joutai",
+  "en": "condition, state",
+  "ta": "நிலை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この機械は古いですが、まだいい状態です。",
+    "reading": "この きかいは ふるいですが、まだ いい じょうたいです。",
+    "romaji": "kono kikai wa furui desu ga, mada ii joutai desu.",
+    "ta": "இந்த இயந்திரம் பழையதுதான், ஆனால் இன்னும் நல்ல நிலையில் உள்ளது.",
+    "en": "This machine is old, but it is still in good condition."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0150",
+  "expression": "承認",
+  "reading": "しょうにん",
+  "romaji": "shounin",
+  "en": "approval",
+  "ta": "ஒப்புதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この計画には部長の承認が必要です。",
+    "reading": "この けいかくには ぶちょうの しょうにんが ひつようです。",
+    "romaji": "kono keikaku ni wa buchou no shounin ga hitsuyou desu.",
+    "ta": "இந்தத் திட்டத்துக்குத் துறைத் தலைவரின் ஒப்புதல் தேவை.",
+    "en": "This plan needs the department head’s approval."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0152",
+  "expression": "商売",
+  "reading": "しょうばい",
+  "romaji": "shoubai",
+  "en": "business, trade",
+  "ta": "வியாபாரம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "祖父はチェンナイで小さな商売をしていました。",
+    "reading": "そふは チェンナイで ちいさな しょうばいを して いました。",
+    "romaji": "sofu wa chennai de chiisana shoubai o shite imashita.",
+    "ta": "தாத்தா சென்னையில் சிறிய வியாபாரம் செய்து வந்தார்.",
+    "en": "My grandfather ran a small business in Chennai."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0174",
+  "expression": "署名",
+  "reading": "しょめい",
+  "romaji": "shomei",
+  "en": "signature",
+  "ta": "கையொப்பம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "契約書のここに署名をお願いします。",
+    "reading": "けいやくしょの ここに しょめいを おねがい します。",
+    "romaji": "keiyakusho no koko ni shomei o onegai shimasu.",
+    "ta": "ஒப்பந்தப் பத்திரத்தில் இங்கே கையொப்பமிடுங்கள்.",
+    "en": "Please sign the contract here."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0213",
+  "expression": "推薦",
+  "reading": "すいせん",
+  "romaji": "suisen",
+  "en": "recommendation",
+  "ta": "பரிந்துரை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "先生の推薦で、この会社に入りました。",
+    "reading": "せんせいの すいせんで、この かいしゃに はいりました。",
+    "romaji": "sensei no suisen de, kono kaisha ni hairimashita.",
+    "ta": "ஆசிரியரின் பரிந்துரையால் இந்த நிறுவனத்தில் சேர்ந்தேன்.",
+    "en": "I joined this company on my teacher’s recommendation."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0263",
+  "expression": "請求",
+  "reading": "せいきゅう",
+  "romaji": "seikyuu",
+  "en": "bill, claim",
+  "ta": "கட்டணக் கோரிக்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今月の電気代の請求書が届きました。",
+    "reading": "こんげつの でんきだいの せいきゅうしょが とどきました。",
+    "romaji": "kongetsu no denkidai no seikyuusho ga todokimashita.",
+    "ta": "இந்த மாத மின்கட்டண பில் வந்துவிட்டது.",
+    "en": "This month’s electricity bill has arrived."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0268",
+  "expression": "正式",
+  "reading": "せいしき",
+  "romaji": "seishiki",
+  "en": "official, formal",
+  "ta": "அதிகாரபூர்வமான",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "来週、正式に契約を結びます。",
+    "reading": "らいしゅう、せいしきに けいやくを むすびます。",
+    "romaji": "raishuu, seishiki ni keiyaku o musubimasu.",
+    "ta": "அடுத்த வாரம் அதிகாரபூர்வமாக ஒப்பந்தம் செய்துகொள்வோம்.",
+    "en": "We will officially sign the contract next week."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0293",
+  "expression": "設計",
+  "reading": "せっけい",
+  "romaji": "sekkei",
+  "en": "design, plan",
+  "ta": "வடிவமைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この家は有名な建築家が設計しました。",
+    "reading": "この いえは ゆうめいな けんちくかが せっけい しました。",
+    "romaji": "kono ie wa yuumei na kenchikuka ga sekkei shimashita.",
+    "ta": "இந்த வீட்டைப் புகழ்பெற்ற கட்டடக் கலைஞர் ஒருவர் வடிவமைத்தார்.",
+    "en": "A famous architect designed this house."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0307",
+  "expression": "空き",
+  "reading": "あき",
+  "romaji": "aki",
+  "en": "opening, free time, vacancy",
+  "ta": "காலியிடம், ஓய்வு நேரம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "来週の火曜日なら、予定に空きがあります。",
+    "reading": "らいしゅうの かようびなら、よていに あきが あります。",
+    "romaji": "raishuu no kayoubi nara, yotei ni aki ga arimasu.",
+    "ta": "அடுத்த செவ்வாய்க்கிழமை என்றால் எனக்கு நேரம் காலியாக உள்ளது.",
+    "en": "I have an opening in my schedule next Tuesday."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0356",
+  "expression": "案",
+  "reading": "あん",
+  "romaji": "an",
+  "en": "plan, proposal",
+  "ta": "திட்டம், யோசனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しい商品の案を三つ考えました。",
+    "reading": "あたらしい しょうひんの あんを みっつ かんがえました。",
+    "romaji": "atarashii shouhin no an o mittsu kangaemashita.",
+    "ta": "புதிய பொருளுக்கான மூன்று யோசனைகளை உருவாக்கினேன்.",
+    "en": "I came up with three ideas for the new product."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0391",
+  "expression": "一度に",
+  "reading": "いちどに",
+  "romaji": "ichidoni",
+  "en": "all at once",
+  "ta": "ஒரே நேரத்தில்",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "そんなにたくさんの仕事は、一度にできません。",
+    "reading": "そんなに たくさんの しごとは、いちどに できません。",
+    "romaji": "sonna ni takusan no shigoto wa, ichido ni dekimasen.",
+    "ta": "அவ்வளவு வேலையை ஒரே நேரத்தில் செய்ய முடியாது.",
+    "en": "I can’t do that much work all at once."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0420",
+  "expression": "依頼",
+  "reading": "いらい",
+  "romaji": "irai",
+  "en": "request",
+  "ta": "வேண்டுகோள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "取引先から翻訳の依頼がありました。",
+    "reading": "とりひきさきから ほんやくの いらいが ありました。",
+    "romaji": "torihikisaki kara hon'yaku no irai ga arimashita.",
+    "ta": "வாடிக்கை நிறுவனத்திடமிருந்து மொழிபெயர்ப்பு வேண்டுகோள் வந்தது.",
+    "en": "A client company asked us to do a translation."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0470",
+  "expression": "営業",
+  "reading": "えいぎょう",
+  "romaji": "eigyou",
+  "en": "business (operation); sales",
+  "ta": "வணிகச் செயல்பாடு; விற்பனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この店は夜十時まで営業しています。",
+    "reading": "この みせは よる じゅうじまで えいぎょう して います。",
+    "romaji": "kono mise wa yoru juuji made eigyou shite imasu.",
+    "ta": "இந்தக் கடை இரவு பத்து மணி வரை திறந்திருக்கும்.",
+    "en": "This shop is open until 10 p.m."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0480",
+  "expression": "延期",
+  "reading": "えんき",
+  "romaji": "enki",
+  "en": "postponement",
+  "ta": "ஒத்திவைப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "台風のため、会議は来週に延期されました。",
+    "reading": "たいふうの ため、かいぎは らいしゅうに えんき されました。",
+    "romaji": "taifuu no tame, kaigi wa raishuu ni enki saremashita.",
+    "ta": "புயல் காரணமாகக் கூட்டம் அடுத்த வாரத்துக்கு ஒத்திவைக்கப்பட்டது.",
+    "en": "Because of the typhoon, the meeting was put off until next week."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0493",
+  "expression": "応じる",
+  "reading": "おうじる",
+  "romaji": "oujiru",
+  "en": "to respond to, to accept",
+  "ta": "ஏற்க, பதிலளிக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "会社は客の要求に応じました。",
+    "reading": "かいしゃは きゃくの ようきゅうに おうじました。",
+    "romaji": "kaisha wa kyaku no youkyuu ni oujimashita.",
+    "ta": "நிறுவனம் வாடிக்கையாளரின் கோரிக்கையை ஏற்றுக்கொண்டது.",
+    "en": "The company agreed to the customer’s demand."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0529",
+  "expression": "お目に掛かる",
+  "reading": "おめにかかる",
+  "romaji": "omenikakaru",
+  "en": "to meet (humble)",
+  "ta": "சந்திக்க (பணிவாக)",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "明日、社長にお目にかかる予定です。",
+    "reading": "あした、しゃちょうに おめに かかる よていです。",
+    "romaji": "ashita, shachou ni ome ni kakaru yotei desu.",
+    "ta": "நாளை நிறுவனத் தலைவரைச் சந்திக்க இருக்கிறேன்.",
+    "en": "I am going to meet the president tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0539",
+  "expression": "卸す",
+  "reading": "おろす",
+  "romaji": "orosu",
+  "en": "to sell wholesale",
+  "ta": "மொத்தமாக விற்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この農家は、近くのスーパーに野菜を卸しています。",
+    "reading": "この のうかは、ちかくの スーパーに やさいを おろして います。",
+    "romaji": "kono nouka wa, chikaku no suupaa ni yasai o oroshite imasu.",
+    "ta": "இந்த விவசாயக் குடும்பம் அருகிலுள்ள சூப்பர்மார்க்கெட்டுக்குக் காய்கறிகளை மொத்தமாக விற்கிறது.",
+    "en": "This farm sells vegetables wholesale to a nearby supermarket."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0554",
+  "expression": "会計",
+  "reading": "かいけい",
+  "romaji": "kaikei",
+  "en": "bill (payment); accounts",
+  "ta": "பில் செலுத்துதல்; கணக்கு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "お会計はレジでお願いします。",
+    "reading": "おかいけいは レジで おねがい します。",
+    "romaji": "okaikei wa reji de onegai shimasu.",
+    "ta": "பணத்தைக் காசாளர் இடத்தில் செலுத்துங்கள்.",
+    "en": "Please pay at the register."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0749",
+  "expression": "供給",
+  "reading": "きょうきゅう",
+  "romaji": "kyoukyuu",
+  "en": "supply",
+  "ta": "வழங்கல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "需要に供給が追いつきません。",
+    "reading": "じゅように きょうきゅうが おいつきません。",
+    "romaji": "juyou ni kyoukyuu ga oitsukimasen.",
+    "ta": "தேவைக்கு ஏற்ப வழங்கல் இல்லை.",
+    "en": "Supply can’t keep up with demand."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0815",
+  "expression": "詳しい",
+  "reading": "くわしい",
+  "romaji": "kuwashii",
+  "en": "detailed",
+  "ta": "விரிவான",
+  "pos": "i-adj",
+  "examples": [
+   {
+    "ja": "詳しい資料はメールで送ります。",
+    "reading": "くわしい しりょうは メールで おくります。",
+    "romaji": "kuwashii shiryou wa meeru de okurimasu.",
+    "ta": "விரிவான ஆவணங்களை மின்னஞ்சலில் அனுப்புகிறேன்.",
+    "en": "I’ll send the detailed materials by email."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0823",
+  "expression": "計",
+  "reading": "けい",
+  "romaji": "kei",
+  "en": "total",
+  "ta": "மொத்தம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "参加者は男性十人、女性八人、計十八人です。",
+    "reading": "さんかしゃは だんせい じゅうにん、じょせい はちにん、けい じゅうはちにんです。",
+    "romaji": "sankasha wa dansei juunin, josei hachinin, kei juuhachinin desu.",
+    "ta": "பங்கேற்றவர்கள்: ஆண்கள் பத்து, பெண்கள் எட்டு, மொத்தம் பதினெட்டுப் பேர்.",
+    "en": "There are ten men and eight women, eighteen people in total."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0833",
+  "expression": "契約",
+  "reading": "けいやく",
+  "romaji": "keiyaku",
+  "en": "contract",
+  "ta": "ஒப்பந்தம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "新しい取引先と一年の契約を結びました。",
+    "reading": "あたらしい とりひきさきと いちねんの けいやくを むすびました。",
+    "romaji": "atarashii torihikisaki to ichinen no keiyaku o musubimashita.",
+    "ta": "புதிய வாடிக்கை நிறுவனத்துடன் ஓராண்டு ஒப்பந்தம் செய்தோம்.",
+    "en": "We signed a one-year contract with a new client."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0867",
+  "expression": "見当",
+  "reading": "けんとう",
+  "romaji": "kentou",
+  "en": "guess, estimate",
+  "ta": "ஊகம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "費用がいくらかかるか、全然見当がつきません。",
+    "reading": "ひようが いくら かかるか、ぜんぜん けんとうが つきません。",
+    "romaji": "hiyou ga ikura kakaru ka, zenzen kentou ga tsukimasen.",
+    "ta": "செலவு எவ்வளவு ஆகும் என்று ஊகிக்கவே முடியவில்லை.",
+    "en": "I have no idea how much it will cost."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0868",
+  "expression": "検討",
+  "reading": "けんとう",
+  "romaji": "kentou",
+  "en": "consideration, review",
+  "ta": "பரிசீலனை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "いただいた案を社内で検討します。",
+    "reading": "いただいた あんを しゃないで けんとう します。",
+    "romaji": "itadaita an o shanai de kentou shimasu.",
+    "ta": "நீங்கள் அனுப்பிய திட்டத்தை நிறுவனத்துக்குள் பரிசீலிக்கிறோம்.",
+    "en": "We will review your proposal within the company."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0904",
+  "expression": "考慮",
+  "reading": "こうりょ",
+  "romaji": "kouryo",
+  "en": "taking into account",
+  "ta": "கணக்கில் எடுத்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "社員の意見も考慮して、決めました。",
+    "reading": "しゃいんの いけんも こうりょ して、きめました。",
+    "romaji": "shain no iken mo kouryo shite, kimemashita.",
+    "ta": "ஊழியர்களின் கருத்தையும் கணக்கில் எடுத்து முடிவு செய்தோம்.",
+    "en": "We decided after taking the staff’s opinions into account."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0936",
+  "expression": "断る",
+  "reading": "ことわる",
+  "romaji": "kotowaru",
+  "en": "to refuse, to decline",
+  "ta": "மறுக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "忙しかったので、飲み会の誘いを断りました。",
+    "reading": "いそがしかったので、のみかいの さそいを ことわりました。",
+    "romaji": "isogashikatta node, nomikai no sasoi o kotowarimashita.",
+    "ta": "வேலை அதிகமாக இருந்ததால் விருந்து அழைப்பை மறுத்துவிட்டேன்.",
+    "en": "I was busy, so I turned down the invitation to the drinking party."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0997",
+  "expression": "さて",
+  "reading": "さて",
+  "romaji": "sate",
+  "en": "well, now (new topic)",
+  "ta": "சரி, இப்போது",
+  "pos": "conjunction",
+  "examples": [
+   {
+    "ja": "さて、次の議題に移りましょう。",
+    "reading": "さて、つぎの ぎだいに うつりましょう。",
+    "romaji": "sate, tsugi no gidai ni utsurimashou.",
+    "ta": "சரி, அடுத்த விவாதப் பொருளுக்குச் செல்வோம்.",
+    "en": "Now, let’s move on to the next item."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1045",
+  "expression": "名刺",
+  "reading": "めいし",
+  "romaji": "meishi",
+  "en": "business card",
+  "ta": "விசிட்டிங் கார்டு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "初めて会った人と名刺を交換しました。",
+    "reading": "はじめて あった ひとと めいしを こうかん しました。",
+    "romaji": "hajimete atta hito to meishi o koukan shimashita.",
+    "ta": "முதன்முறை சந்தித்தவருடன் விசிட்டிங் கார்டுகளைப் பரிமாறிக்கொண்டேன்.",
+    "en": "I exchanged business cards with someone I met for the first time."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1080",
+  "expression": "求める",
+  "reading": "もとめる",
+  "romaji": "motomeru",
+  "en": "to ask for, to seek",
+  "ta": "கோர, தேட",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "客から説明を求められました。",
+    "reading": "きゃくから せつめいを もとめられました。",
+    "romaji": "kyaku kara setsumei o motomeraremashita.",
+    "ta": "வாடிக்கையாளர் என்னிடம் விளக்கம் கேட்டார்.",
+    "en": "A customer asked me for an explanation."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1127",
+  "expression": "要求",
+  "reading": "ようきゅう",
+  "romaji": "youkyuu",
+  "en": "demand",
+  "ta": "கோரிக்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "社員たちは給料を上げるよう要求しました。",
+    "reading": "しゃいんたちは きゅうりょうを あげるよう ようきゅう しました。",
+    "romaji": "shaintachi wa kyuuryou o ageru you youkyuu shimashita.",
+    "ta": "சம்பளத்தை உயர்த்தும்படி ஊழியர்கள் கோரினார்கள்.",
+    "en": "The staff demanded a pay rise."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1138",
+  "expression": "予算",
+  "reading": "よさん",
+  "romaji": "yosan",
+  "en": "budget",
+  "ta": "ஒதுக்கீட்டுத் தொகை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今回の旅行の予算は五万円です。",
+    "reading": "こんかいの りょこうの よさんは ごまんえんです。",
+    "romaji": "konkai no ryokou no yosan wa gomanen desu.",
+    "ta": "இந்தப் பயணத்துக்கான ஒதுக்கீடு ஐம்பதாயிரம் யென்.",
+    "en": "The budget for this trip is 50,000 yen."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1277",
+  "expression": "件",
+  "reading": "けん",
+  "romaji": "ken",
+  "en": "matter, case",
+  "ta": "விஷயம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "昨日の件で、お電話しました。",
+    "reading": "きのうの けんで、おでんわ しました。",
+    "romaji": "kinou no ken de, odenwa shimashita.",
+    "ta": "நேற்றைய விஷயம் தொடர்பாக அழைத்தேன்.",
+    "en": "I’m calling about yesterday’s matter."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1294",
+  "expression": "策",
+  "reading": "さく",
+  "romaji": "saku",
+  "en": "plan, measure",
+  "ta": "வழிமுறை, உத்தி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "売り上げを伸ばすための策を考えましょう。",
+    "reading": "うりあげを のばす ための さくを かんがえましょう。",
+    "romaji": "uriage o nobasu tame no saku o kangaemashou.",
+    "ta": "விற்பனையை அதிகரிக்கும் உத்திகளை யோசிப்போம்.",
+    "en": "Let’s think of measures to raise sales."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1407",
+  "expression": "直ちに",
+  "reading": "ただちに",
+  "romaji": "tadachini",
+  "en": "at once, immediately",
+  "ta": "உடனடியாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "火災報知器が鳴ったら、直ちに避難してください。",
+    "reading": "かさいほうちきが なったら、ただちに ひなん して ください。",
+    "romaji": "kasaihouchiki ga nattara, tadachi ni hinan shite kudasai.",
+    "ta": "தீ எச்சரிக்கை மணி ஒலித்தால் உடனடியாக வெளியேறுங்கள்.",
+    "en": "If the fire alarm goes off, evacuate immediately."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1486",
+  "expression": "調子",
+  "reading": "ちょうし",
+  "romaji": "choushi",
+  "en": "condition, shape",
+  "ta": "நிலை (இயங்கும் நிலை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "最近、パソコンの調子が悪いです。",
+    "reading": "さいきん、パソコンの ちょうしが わるいです。",
+    "romaji": "saikin, pasokon no choushi ga warui desu.",
+    "ta": "சமீபமாக என் கணினி சரியாக வேலை செய்யவில்லை.",
+    "en": "My computer hasn’t been working well lately."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1490",
+  "expression": "直接",
+  "reading": "ちょくせつ",
+  "romaji": "chokusetsu",
+  "en": "directly",
+  "ta": "நேரடியாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "詳しいことは、担当者に直接聞いてください。",
+    "reading": "くわしい ことは、たんとうしゃに ちょくせつ きいて ください。",
+    "romaji": "kuwashii koto wa, tantousha ni chokusetsu kiite kudasai.",
+    "ta": "விவரங்களைப் பொறுப்பாளரிடம் நேரடியாகக் கேளுங்கள்.",
+    "en": "Please ask the person in charge directly for details."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1540",
+  "expression": "提案",
+  "reading": "ていあん",
+  "romaji": "teian",
+  "en": "proposal, suggestion",
+  "ta": "முன்மொழிவு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "会議で新しいサービスを提案しました。",
+    "reading": "かいぎで あたらしい サービスを ていあん しました。",
+    "romaji": "kaigi de atarashii saabisu o teian shimashita.",
+    "ta": "கூட்டத்தில் புதிய சேவை ஒன்றை முன்மொழிந்தேன்.",
+    "en": "I proposed a new service at the meeting."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1901",
+  "expression": "プラン",
+  "reading": "プラン",
+  "romaji": "puran",
+  "en": "plan",
+  "ta": "திட்டம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "旅行会社で、京都の旅行プランを選びました。",
+    "reading": "りょこうがいしゃで、きょうとの りょこう プランを えらびました。",
+    "romaji": "ryokougaisha de, kyouto no ryokou puran o erabimashita.",
+    "ta": "பயண நிறுவனத்தில் கியோட்டோ பயணத் திட்டத்தைத் தேர்ந்தெடுத்தேன்.",
+    "en": "At the travel agency, I chose a Kyoto travel plan."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1923",
+  "expression": "変更",
+  "reading": "へんこう",
+  "romaji": "henkou",
+  "en": "change",
+  "ta": "மாற்றம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "会議の時間が三時に変更になりました。",
+    "reading": "かいぎの じかんが さんじに へんこうに なりました。",
+    "romaji": "kaigi no jikan ga sanji ni henkou ni narimashita.",
+    "ta": "கூட்ட நேரம் மூன்று மணிக்கு மாற்றப்பட்டது.",
+    "en": "The meeting time has been changed to three o’clock."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1935",
+  "expression": "方法",
+  "reading": "ほうほう",
+  "romaji": "houhou",
+  "en": "method, way",
+  "ta": "முறை, வழி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "もっと安く送る方法はありませんか。",
+    "reading": "もっと やすく おくる ほうほうは ありませんか。",
+    "romaji": "motto yasuku okuru houhou wa arimasen ka.",
+    "ta": "இன்னும் மலிவாக அனுப்ப ஏதாவது வழி இருக்கிறதா?",
+    "en": "Is there a cheaper way to send it?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2011",
+  "expression": "辞退",
+  "reading": "じたい",
+  "romaji": "jitai",
+  "en": "declining (politely)",
+  "ta": "(பணிவாக) மறுத்தல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "せっかくのお話ですが、今回は辞退させていただきます。",
+    "reading": "せっかくの おはなしですが、こんかいは じたい させて いただきます。",
+    "romaji": "sekkaku no ohanashi desu ga, konkai wa jitai sasete itadakimasu.",
+    "ta": "நல்ல வாய்ப்புதான், ஆனால் இம்முறை பணிவுடன் மறுக்கிறேன்.",
+    "en": "It’s a kind offer, but I must decline this time."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2070",
+  "expression": "継ぐ",
+  "reading": "つぐ",
+  "romaji": "tsugu",
+  "en": "to take over, to inherit",
+  "ta": "(தொழிலை) ஏற்று நடத்த",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "兄が父の店を継ぐことになりました。",
+    "reading": "あにが ちちの みせを つぐ ことに なりました。",
+    "romaji": "ani ga chichi no mise o tsugu koto ni narimashita.",
+    "ta": "அப்பாவின் கடையை அண்ணன் ஏற்று நடத்துவது என்று முடிவாகியுள்ளது.",
+    "en": "It has been decided that my brother will take over our father’s shop."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2089",
+  "expression": "綴じる",
+  "reading": "とじる",
+  "romaji": "tojiru",
+  "en": "to bind, to file",
+  "ta": "(காகிதங்களை) இணைக்க",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "会議の資料をホッチキスで綴じてください。",
+    "reading": "かいぎの しりょうを ホッチキスで とじて ください。",
+    "romaji": "kaigi no shiryou o hocchikisu de tojite kudasai.",
+    "ta": "கூட்ட ஆவணங்களை ஸ்டேப்லரால் இணைத்து வையுங்கள்.",
+    "en": "Please staple the meeting papers together."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2103",
+  "expression": "図る",
+  "reading": "はかる",
+  "romaji": "hakaru",
+  "en": "to aim for, to work toward",
+  "ta": "முயல, நோக்கிச் செயல்பட",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "会社は社員との話し合いで、問題の解決を図った。",
+    "reading": "かいしゃは しゃいんとの はなしあいで、もんだいの かいけつを はかった。",
+    "romaji": "kaisha wa shain to no hanashiai de, mondai no kaiketsu o hakatta.",
+    "ta": "ஊழியர்களுடன் பேச்சுவார்த்தை நடத்திப் பிரச்சினையைத் தீர்க்க நிறுவனம் முயன்றது.",
+    "en": "The company tried to solve the problem by talking with its staff."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2120",
+  "expression": "前もって",
+  "reading": "まえもって",
+  "romaji": "maemotte",
+  "en": "in advance",
+  "ta": "முன்கூட்டியே",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "休むときは、前もって連絡してください。",
+    "reading": "やすむ ときは、まえもって れんらく して ください。",
+    "romaji": "yasumu toki wa, maemotte renraku shite kudasai.",
+    "ta": "விடுப்பு எடுக்கும்போது முன்கூட்டியே தெரிவியுங்கள்.",
+    "en": "If you’re taking a day off, please tell us in advance."
+   }
+  ]
+ }
+]

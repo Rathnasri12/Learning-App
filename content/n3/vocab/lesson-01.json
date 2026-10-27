@@ -1,0 +1,956 @@
+[
+  {
+    "id": "n3-v-0078",
+    "expression": "しまった (かん)",
+    "reading": "しまった (かん)",
+    "romaji": "shimatta(kan)",
+    "en": "Oh no!",
+    "ta": "ஐயோ!",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "しまった！ 財布を 家に 忘れた。",
+        "reading": "しまった！ さいふを いえに わすれた。",
+        "romaji": "shimatta! saifu o ie ni wasureta.",
+        "ta": "ஐயோ! பர்ஸை வீட்டிலேயே மறந்துவிட்டேன்.",
+        "en": "Oh no! I left my wallet at home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0087",
+    "expression": "しゃべる",
+    "reading": "しゃべる",
+    "romaji": "shaberu",
+    "en": "to chat",
+    "ta": "அரட்டை அடிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "友だちと 夜 遅くまで しゃべりました。",
+        "reading": "ともだちと よる おそくまで しゃべりました。",
+        "romaji": "tomodachi to yoru osoku made shaberimashita.",
+        "ta": "நண்பர்களுடன் இரவு வெகுநேரம் வரை அரட்டை அடித்தேன்.",
+        "en": "I chatted with friends until late at night."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0146",
+    "expression": "冗談",
+    "reading": "じょうだん",
+    "romaji": "joudan",
+    "en": "a joke",
+    "ta": "ஜோக்; வேடிக்கைப் பேச்சு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼の 冗談は いつも おもしろいです。",
+        "reading": "かれの じょうだんは いつも おもしろいです。",
+        "romaji": "kare no joudan wa itsumo omoshiroi desu.",
+        "ta": "அவருடைய ஜோக்குகள் எப்போதும் வேடிக்கையாக இருக்கும்.",
+        "en": "His jokes are always funny."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0193",
+    "expression": "信じる",
+    "reading": "しんじる",
+    "romaji": "shinjiru",
+    "en": "to believe",
+    "ta": "நம்ப",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "その 話は ちょっと 信じられません。",
+        "reading": "その はなしは ちょっと しんじられません。",
+        "romaji": "sono hanashi wa chotto shinjiraremasen.",
+        "ta": "அந்தக் கதையைக் கொஞ்சம் நம்ப முடியவில்லை.",
+        "en": "I can't really believe that story."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0228",
+    "expression": "過ごす",
+    "reading": "すごす",
+    "romaji": "sugosu",
+    "en": "to spend (time)",
+    "ta": "(நேரத்தைக்) கழிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "週末は 家族と ゆっくり 過ごしました。",
+        "reading": "しゅうまつは かぞくと ゆっくり すごしました。",
+        "romaji": "shuumatsu wa kazoku to yukkuri sugoshimashita.",
+        "ta": "வார இறுதியைக் குடும்பத்துடன் நிதானமாகக் கழித்தேன்.",
+        "en": "I spent a relaxed weekend with my family."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0246",
+    "expression": "すみません (かん)",
+    "reading": "すみません (かん)",
+    "romaji": "sumimasen(kan)",
+    "en": "sorry; excuse me",
+    "ta": "மன்னிக்கவும்",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "すみません、駅は どこですか。",
+        "reading": "すみません、えきは どこですか。",
+        "romaji": "sumimasen, eki wa doko desu ka.",
+        "ta": "மன்னிக்கவும், ரயில் நிலையம் எங்கே இருக்கிறது?",
+        "en": "Excuse me, where is the station?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0250",
+    "expression": "為る",
+    "reading": "",
+    "romaji": "",
+    "en": "to do",
+    "ta": "செய்ய",
+    "pos": "verb-irregular",
+    "examples": [
+      {
+        "ja": "今度の 日曜日は 何を するの？",
+        "reading": "こんどの にちようびは なにを するの？",
+        "romaji": "kondo no nichiyoubi wa nani o suru no?",
+        "ta": "இந்த ஞாயிற்றுக்கிழமை என்ன செய்யப் போகிறாய்?",
+        "en": "What are you doing this Sunday?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0347",
+    "expression": "ありがとう",
+    "reading": "ありがとう",
+    "romaji": "arigatou",
+    "en": "thanks",
+    "ta": "நன்றி",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "手伝って くれて ありがとう。助かったよ。",
+        "reading": "てつだって くれて ありがとう。たすかったよ。",
+        "romaji": "tetsudatte kurete arigatou. tasukatta yo.",
+        "ta": "உதவி செய்ததற்கு நன்றி. ரொம்ப உதவியாக இருந்தது.",
+        "en": "Thanks for helping me. It was a big help."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0348",
+    "expression": "在る; 有る",
+    "reading": "ある",
+    "romaji": "aru",
+    "en": "to be; to exist (things)",
+    "ta": "இருக்க (பொருள்)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "駅の 近くに 新しい カフェが あります。",
+        "reading": "えきの ちかくに あたらしい カフェが あります。",
+        "romaji": "eki no chikaku ni atarashii kafe ga arimasu.",
+        "ta": "ரயில் நிலையத்துக்கு அருகில் ஒரு புதிய கஃபே இருக்கிறது.",
+        "en": "There is a new cafe near the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0353",
+    "expression": "合わせる",
+    "reading": "あわせる",
+    "romaji": "awaseru",
+    "en": "to put together; to match",
+    "ta": "ஒன்றுசேர்க்க; பொருத்த",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "みんなで 力を 合わせて 頑張ろう。",
+        "reading": "みんなで ちからを あわせて がんばろう。",
+        "romaji": "minna de chikara o awasete ganbarou.",
+        "ta": "எல்லோரும் ஒன்றாகச் சேர்ந்து பாடுபடுவோம்.",
+        "en": "Let's all join forces and do our best."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0361",
+    "expression": "あんまり",
+    "reading": "あんまり",
+    "romaji": "anmari",
+    "en": "not much (casual)",
+    "ta": "அவ்வளவாக (இல்லை)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "今日は あんまり 時間が ないんだ。",
+        "reading": "きょうは あんまり じかんが ないんだ。",
+        "romaji": "kyou wa anmari jikan ga nai n da.",
+        "ta": "இன்று அவ்வளவாக நேரம் இல்லை.",
+        "en": "I don't have much time today."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0385",
+    "expression": "いただきます",
+    "reading": "いただきます",
+    "romaji": "itadakimasu",
+    "en": "thanks for the food (before eating)",
+    "ta": "சாப்பிடுகிறேன் (உணவுக்கு நன்றி)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "日本では 「いただきます」と 言ってから 食べます。",
+        "reading": "にほんでは 「いただきます」と いってから たべます。",
+        "romaji": "nihon de wa \"itadakimasu\" to itte kara tabemasu.",
+        "ta": "ஜப்பானில் 'இதாதாகிமாசு' என்று சொல்லிவிட்டுத்தான் சாப்பிடுவார்கள்.",
+        "en": "In Japan, people say \"itadakimasu\" before they eat."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0422",
+    "expression": "いらっしゃい",
+    "reading": "いらっしゃい",
+    "romaji": "irasshai",
+    "en": "welcome; come in",
+    "ta": "வாங்க; வருக",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "いらっしゃい！ さあ、中に 入って。",
+        "reading": "いらっしゃい！ さあ、なかに はいって。",
+        "romaji": "irasshai! saa, naka ni haitte.",
+        "ta": "வாங்க! உள்ளே வாங்க.",
+        "en": "Welcome! Come on in."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0440",
+    "expression": "動かす",
+    "reading": "うごかす",
+    "romaji": "ugokasu",
+    "en": "to move (something)",
+    "ta": "நகர்த்த",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "この 机を 窓の 近くに 動かしましょう。",
+        "reading": "この つくえを まどの ちかくに うごかしましょう。",
+        "romaji": "kono tsukue o mado no chikaku ni ugokashimashou.",
+        "ta": "இந்த மேசையை ஜன்னல் அருகே நகர்த்துவோம்.",
+        "en": "Let's move this desk near the window."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0503",
+    "expression": "起こる",
+    "reading": "おこる",
+    "romaji": "okoru",
+    "en": "to happen",
+    "ta": "நடக்க; நிகழ",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "昨日 駅の 前で 事故が 起こりました。",
+        "reading": "きのう えきの まえで じこが おこりました。",
+        "romaji": "kinou eki no mae de jiko ga okorimashita.",
+        "ta": "நேற்று ரயில் நிலையத்தின் முன்னால் ஒரு விபத்து நடந்தது.",
+        "en": "An accident happened in front of the station yesterday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0511",
+    "expression": "お喋り",
+    "reading": "おしゃべり",
+    "romaji": "oshaberi",
+    "en": "chatting; a chatterbox",
+    "ta": "அரட்டை; வாயாடி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "姉は 友だちとの おしゃべりが 大好きです。",
+        "reading": "あねは ともだちとの おしゃべりが だいすきです。",
+        "romaji": "ane wa tomodachi to no oshaberi ga daisuki desu.",
+        "ta": "அக்காவுக்கு நண்பர்களுடன் அரட்டை அடிப்பது ரொம்பப் பிடிக்கும்.",
+        "en": "My older sister loves chatting with her friends."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0527",
+    "expression": "お前",
+    "reading": "おまえ",
+    "romaji": "omae",
+    "en": "you (rough, male speech)",
+    "ta": "நீ (மரியாதையில்லாமல்)",
+    "pos": "pronoun",
+    "examples": [
+      {
+        "ja": "おまえ、昨日 どこに 行ってたんだ？",
+        "reading": "おまえ、きのう どこに いってたんだ？",
+        "romaji": "omae, kinou doko ni itteta n da?",
+        "ta": "டேய், நேற்று நீ எங்கே போயிருந்தாய்?",
+        "en": "Hey, where were you yesterday?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0538",
+    "expression": "降ろす",
+    "reading": "おろす",
+    "romaji": "orosu",
+    "en": "to take down; to drop off",
+    "ta": "இறக்க; இறக்கிவிட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "すみません、駅の 前で 降ろして ください。",
+        "reading": "すみません、えきの まえで おろして ください。",
+        "romaji": "sumimasen, eki no mae de oroshite kudasai.",
+        "ta": "மன்னிக்கவும், ரயில் நிலையத்தின் முன் இறக்கிவிடுங்கள்.",
+        "en": "Excuse me, please drop me off in front of the station."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0565",
+    "expression": "帰す",
+    "reading": "かえす",
+    "romaji": "kaesu",
+    "en": "to send (someone) home",
+    "ta": "வீட்டுக்கு அனுப்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "熱が あったので、先生は 子どもを 家に 帰しました。",
+        "reading": "ねつが あったので、せんせいは こどもを いえに かえしました。",
+        "romaji": "netsu ga atta node, sensei wa kodomo o ie ni kaeshimashita.",
+        "ta": "காய்ச்சல் இருந்ததால் ஆசிரியர் குழந்தையை வீட்டுக்கு அனுப்பினார்.",
+        "en": "The child had a fever, so the teacher sent him home."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0572",
+    "expression": "抱える",
+    "reading": "かかえる",
+    "romaji": "kakaeru",
+    "en": "to carry in your arms",
+    "ta": "கைகளில் அணைத்துத் தூக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "彼女は 大きな 荷物を 抱えて 歩いて いました。",
+        "reading": "かのじょは おおきな にもつを かかえて あるいて いました。",
+        "romaji": "kanojo wa ookina nimotsu o kakaete aruite imashita.",
+        "ta": "அவள் பெரிய மூட்டையைக் கைகளில் தூக்கிக்கொண்டு நடந்துகொண்டிருந்தாள்.",
+        "en": "She was walking with a big bag in her arms."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0596",
+    "expression": "欠ける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "en": "to be chipped; to be missing",
+    "ta": "சிதைய; குறைய",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "この コップ、少し 欠けて いますよ。",
+        "reading": "この コップ、すこし かけて いますよ。",
+        "romaji": "kono koppu, sukoshi kakete imasu yo.",
+        "ta": "இந்தக் குவளையின் ஓரம் கொஞ்சம் சிதைந்திருக்கிறது.",
+        "en": "This glass is a little chipped."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0600",
+    "expression": "囲む",
+    "reading": "かこむ",
+    "romaji": "kakomu",
+    "en": "to surround; to sit around",
+    "ta": "சூழ; சுற்றி அமர",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "家族で テーブルを 囲んで 晩ご飯を 食べました。",
+        "reading": "かぞくで テーブルを かこんで ばんごはんを たべました。",
+        "romaji": "kazoku de teeburu o kakonde bangohan o tabemashita.",
+        "ta": "குடும்பமாக மேசையைச் சுற்றி அமர்ந்து இரவு உணவு சாப்பிட்டோம்.",
+        "en": "Our family sat around the table and ate dinner."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0677",
+    "expression": "感じる",
+    "reading": "かんじる",
+    "romaji": "kanjiru",
+    "en": "to feel",
+    "ta": "உணர",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "朝は 少し 寒さを 感じます。",
+        "reading": "あさは すこし さむさを かんじます。",
+        "romaji": "asa wa sukoshi samusa o kanjimasu.",
+        "ta": "காலையில் கொஞ்சம் குளிரை உணர்கிறேன்.",
+        "en": "I feel a little cold in the morning."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0779",
+    "expression": "食う",
+    "reading": "くう",
+    "romaji": "kuu",
+    "en": "to eat (rough, male speech)",
+    "ta": "தின்ன (கரடுமுரடான பேச்சு)",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "おなか すいたな。何か 食おうぜ。",
+        "reading": "おなか すいたな。なにか くおうぜ。",
+        "romaji": "onaka suita na. nanika kuou ze.",
+        "ta": "பசிக்குது டா. ஏதாவது சாப்பிடலாம் வா.",
+        "en": "I'm hungry. Let's grab something to eat."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0788",
+    "expression": "下る",
+    "reading": "くだる",
+    "romaji": "kudaru",
+    "en": "to go down",
+    "ta": "இறங்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "山を 下る ときは 足もとに 気を つけて ください。",
+        "reading": "やまを くだる ときは あしもとに きを つけて ください。",
+        "romaji": "yama o kudaru toki wa ashimoto ni ki o tsukete kudasai.",
+        "ta": "மலையிலிருந்து இறங்கும்போது காலடியில் கவனமாக இருங்கள்.",
+        "en": "Watch your step when you go down the mountain."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0801",
+    "expression": "暮らす",
+    "reading": "くらす",
+    "romaji": "kurasu",
+    "en": "to live (your life)",
+    "ta": "வாழ; வசிக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "祖父母は チェンナイで 静かに 暮らして います。",
+        "reading": "そふぼは チェンナイで しずかに くらして います。",
+        "romaji": "sofubo wa chennai de shizuka ni kurashite imasu.",
+        "ta": "தாத்தா பாட்டி சென்னையில் அமைதியாக வாழ்கிறார்கள்.",
+        "en": "My grandparents live a quiet life in Chennai."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0905",
+    "expression": "越える",
+    "reading": "こえる",
+    "romaji": "koeru",
+    "en": "to cross (over)",
+    "ta": "கடக்க; தாண்டிச் செல்ல",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "この 山を 越えると、海が 見えます。",
+        "reading": "この やまを こえると、うみが みえます。",
+        "romaji": "kono yama o koeru to, umi ga miemasu.",
+        "ta": "இந்த மலையைக் கடந்தால் கடல் தெரியும்.",
+        "en": "Once you cross this mountain, you can see the sea."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0906",
+    "expression": "超える",
+    "reading": "こえる",
+    "romaji": "koeru",
+    "en": "to exceed",
+    "ta": "மீற; (அளவைத்) தாண்ட",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "今日の 気温は 四十度を 超えました。",
+        "reading": "きょうの きおんは よんじゅうどを こえました。",
+        "romaji": "kyou no kion wa yonjuudo o koemashita.",
+        "ta": "இன்றைய வெப்பநிலை நாற்பது டிகிரியைத் தாண்டியது.",
+        "en": "Today's temperature went over 40 degrees."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0927",
+    "expression": "超す",
+    "reading": "こす",
+    "romaji": "kosu",
+    "en": "to go over; to exceed",
+    "ta": "தாண்ட",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "パーティーに 来た 人は 百人を 超しました。",
+        "reading": "パーティーに きた ひとは ひゃくにんを こしました。",
+        "romaji": "paatii ni kita hito wa hyakunin o koshimashita.",
+        "ta": "விருந்துக்கு வந்தவர்கள் நூறு பேரைத் தாண்டினார்கள்.",
+        "en": "More than a hundred people came to the party."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0955",
+    "expression": "こんにちは",
+    "reading": "こんにちは",
+    "romaji": "konnichiwa",
+    "en": "hello (daytime)",
+    "ta": "வணக்கம் (பகலில்)",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "こんにちは。今日は いい 天気ですね。",
+        "reading": "こんにちは。きょうは いい てんきですね。",
+        "romaji": "konnichiwa. kyou wa ii tenki desu ne.",
+        "ta": "வணக்கம். இன்று நல்ல வானிலை, இல்லையா?",
+        "en": "Hello. Lovely weather today, isn't it?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0982",
+    "expression": "避ける",
+    "reading": "さける",
+    "romaji": "sakeru",
+    "en": "to avoid",
+    "ta": "தவிர்க்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "朝の 込んで いる 電車は なるべく 避けて います。",
+        "reading": "あさの こんで いる でんしゃは なるべく さけて います。",
+        "romaji": "asa no konde iru densha wa narubeku sakete imasu.",
+        "ta": "காலை நேர நெரிசலான ரயில்களை முடிந்தவரை தவிர்க்கிறேன்.",
+        "en": "I try to avoid crowded morning trains."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1078",
+    "expression": "戻す",
+    "reading": "もどす",
+    "romaji": "modosu",
+    "en": "to put back",
+    "ta": "திரும்ப வைக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "読んだ 本は 元の 場所に 戻して ください。",
+        "reading": "よんだ ほんは もとの ばしょに もどして ください。",
+        "romaji": "yonda hon wa moto no basho ni modoshite kudasai.",
+        "ta": "படித்த புத்தகங்களை முன்பு இருந்த இடத்திலேயே திரும்ப வையுங்கள்.",
+        "en": "Please put the books back where they were."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1105",
+    "expression": "友好",
+    "reading": "ゆうこう",
+    "romaji": "yuukou",
+    "en": "friendship (between groups)",
+    "ta": "நட்புறவு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "日本と インドの 友好には 長い 歴史が あります。",
+        "reading": "にほんと インドの ゆうこうには ながい れきしが あります。",
+        "romaji": "nihon to indo no yuukou ni wa nagai rekishi ga arimasu.",
+        "ta": "ஜப்பான்–இந்தியா நட்புறவுக்கு நீண்ட வரலாறு உண்டு.",
+        "en": "Friendship between Japan and India has a long history."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1109",
+    "expression": "友情",
+    "reading": "ゆうじょう",
+    "romaji": "yuujou",
+    "en": "friendship",
+    "ta": "நட்பு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "二人の 友情は 子どもの ころから 続いて います。",
+        "reading": "ふたりの ゆうじょうは こどもの ころから つづいて います。",
+        "romaji": "futari no yuujou wa kodomo no koro kara tsuzuite imasu.",
+        "ta": "இருவரின் நட்பு சிறுவயதிலிருந்தே தொடர்கிறது.",
+        "en": "Their friendship has lasted since childhood."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1110",
+    "expression": "友人",
+    "reading": "ゆうじん",
+    "romaji": "yuujin",
+    "en": "friend (formal)",
+    "ta": "நண்பர்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "先週、大学の 友人と 食事を しました。",
+        "reading": "せんしゅう、だいがくの ゆうじんと しょくじを しました。",
+        "romaji": "senshuu, daigaku no yuujin to shokuji o shimashita.",
+        "ta": "போன வாரம் கல்லூரி நண்பருடன் சேர்ந்து சாப்பிட்டேன்.",
+        "en": "Last week I had a meal with a friend from university."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1113",
+    "expression": "ユーモア",
+    "reading": "ユーモア",
+    "romaji": "yuumoa",
+    "en": "humour",
+    "ta": "நகைச்சுவை உணர்வு",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "田中さんは ユーモアが あって、話すと 楽しいです。",
+        "reading": "たなかさんは ユーモアが あって、はなすと たのしいです。",
+        "romaji": "tanaka-san wa yuumoa ga atte, hanasu to tanoshii desu.",
+        "ta": "தனகா அவர்களுக்கு நகைச்சுவை உணர்வு உண்டு; அவருடன் பேசுவது மகிழ்ச்சியாக இருக்கும்.",
+        "en": "Mr Tanaka has a sense of humour and is fun to talk to."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1154",
+    "expression": "よろしく (かん)",
+    "reading": "よろしく (かん)",
+    "romaji": "yoroshiku(kan)",
+    "en": "(give my) regards",
+    "ta": "நலம் விசாரித்ததாகச் சொல்லுங்கள்",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "お母さんに よろしく 伝えて ください。",
+        "reading": "おかあさんに よろしく つたえて ください。",
+        "romaji": "okaasan ni yoroshiku tsutaete kudasai.",
+        "ta": "உங்கள் அம்மாவிடம் நான் நலம் விசாரித்ததாகச் சொல்லுங்கள்.",
+        "en": "Please give my regards to your mother."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1226",
+    "expression": "埋まる",
+    "reading": "うまる",
+    "romaji": "umaru",
+    "en": "to be buried; to be filled up",
+    "ta": "புதைய; நிரம்ப",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "週末の 予定は もう 全部 埋まって います。",
+        "reading": "しゅうまつの よていは もう ぜんぶ うまって います。",
+        "romaji": "shuumatsu no yotei wa mou zenbu umatte imasu.",
+        "ta": "வார இறுதித் திட்டங்கள் ஏற்கனவே முழுவதும் நிரம்பிவிட்டன.",
+        "en": "My weekend is already fully booked."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1230",
+    "expression": "負う",
+    "reading": "おう",
+    "romaji": "ou",
+    "en": "to bear; to suffer (an injury)",
+    "ta": "(பொறுப்பு) ஏற்க; (காயம்) அடைய",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "父は 事故で 足に けがを 負いました。",
+        "reading": "ちちは じこで あしに けがを おいました。",
+        "romaji": "chichi wa jiko de ashi ni kega o oimashita.",
+        "ta": "விபத்தில் அப்பாவின் காலில் காயம் ஏற்பட்டது.",
+        "en": "My father hurt his leg in an accident."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1343",
+    "expression": "それと",
+    "reading": "それと",
+    "romaji": "soreto",
+    "en": "and also",
+    "ta": "அதோடு; கூடவே",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "コーヒーを ください。それと、ケーキも お願いします。",
+        "reading": "コーヒーを ください。それと、ケーキも おねがいします。",
+        "romaji": "koohii o kudasai. sore to, keeki mo onegai shimasu.",
+        "ta": "ஒரு காபி கொடுங்கள். அதோடு ஒரு கேக்கும் வேண்டும்.",
+        "en": "A coffee, please. And a piece of cake too."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1395",
+    "expression": "だけど",
+    "reading": "だけど",
+    "romaji": "dakedo",
+    "en": "but (casual)",
+    "ta": "ஆனால்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "旅行に 行きたい。だけど、お金が ないんだ。",
+        "reading": "りょこうに いきたい。だけど、おかねが ないんだ。",
+        "romaji": "ryokou ni ikitai. dakedo, okane ga nai n da.",
+        "ta": "சுற்றுலா போக ஆசைதான். ஆனால் பணம் இல்லை.",
+        "en": "I want to go on a trip. But I don't have the money."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1429",
+    "expression": "偶",
+    "reading": "たま",
+    "romaji": "tama",
+    "en": "occasional; rare",
+    "ta": "எப்போதாவது வரும்; அரிதான",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "たまの 休みだから、ゆっくり 寝たい。",
+        "reading": "たまの やすみだから、ゆっくり ねたい。",
+        "romaji": "tama no yasumi dakara, yukkuri netai.",
+        "ta": "எப்போதாவது கிடைக்கும் விடுமுறை என்பதால் நன்றாகத் தூங்க வேண்டும்.",
+        "en": "It's a rare day off, so I want to sleep in."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1434",
+    "expression": "黙る",
+    "reading": "だまる",
+    "romaji": "damaru",
+    "en": "to go silent",
+    "ta": "பேசாமல் இருக்க",
+    "pos": "verb-u",
+    "examples": [
+      {
+        "ja": "先生に 聞かれて、彼は 黙って しまいました。",
+        "reading": "せんせいに きかれて、かれは だまって しまいました。",
+        "romaji": "sensei ni kikarete, kare wa damatte shimaimashita.",
+        "ta": "ஆசிரியர் கேட்டதும் அவன் பேசாமல் நின்றுவிட்டான்.",
+        "en": "When the teacher asked him, he went quiet."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1488",
+    "expression": "ちょうだい",
+    "reading": "ちょうだい",
+    "romaji": "choudai",
+    "en": "give me, please (casual)",
+    "ta": "கொடு (செல்லமாக)",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "お母さん、冷たい お水 ちょうだい。",
+        "reading": "おかあさん、つめたい おみず ちょうだい。",
+        "romaji": "okaasan, tsumetai omizu choudai.",
+        "ta": "அம்மா, கொஞ்சம் குளிர்ந்த தண்ணீர் கொடு.",
+        "en": "Mum, can I have some cold water?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1581",
+    "expression": "どうぞよろしく",
+    "reading": "どうぞよろしく",
+    "romaji": "douzoyoroshiku",
+    "en": "pleased to meet you",
+    "ta": "உங்களைச் சந்தித்ததில் மகிழ்ச்சி",
+    "pos": "expression",
+    "examples": [
+      {
+        "ja": "はじめまして、ラージャです。どうぞ よろしく。",
+        "reading": "はじめまして、ラージャです。どうぞ よろしく。",
+        "romaji": "hajimemashite, raaja desu. douzo yoroshiku.",
+        "ta": "வணக்கம், நான் ராஜா. உங்களைச் சந்தித்ததில் மகிழ்ச்சி.",
+        "en": "Hello, I'm Raja. Pleased to meet you."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1608",
+    "expression": "ところで",
+    "reading": "ところで",
+    "romaji": "tokorode",
+    "en": "by the way",
+    "ta": "அது சரி; இது இருக்கட்டும்",
+    "pos": "conjunction",
+    "examples": [
+      {
+        "ja": "ところで、来週の パーティーに 行く？",
+        "reading": "ところで、らいしゅうの パーティーに いく？",
+        "romaji": "tokorode, raishuu no paatii ni iku?",
+        "ta": "அது சரி, அடுத்த வாரப் பார்ட்டிக்குப் போகிறாயா?",
+        "en": "By the way, are you going to next week's party?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1625",
+    "expression": "友",
+    "reading": "とも",
+    "romaji": "tomo",
+    "en": "friend (literary)",
+    "ta": "தோழன்; நண்பன்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は 私の 一番の 友です。",
+        "reading": "かれは わたしの いちばんの ともです。",
+        "romaji": "kare wa watashi no ichiban no tomo desu.",
+        "ta": "அவன் என் உயிர்த் தோழன்.",
+        "en": "He is my best friend."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1639",
+    "expression": "とんでもない",
+    "reading": "とんでもない",
+    "romaji": "tondemonai",
+    "en": "not at all; outrageous",
+    "ta": "அதெல்லாம் ஒன்றுமில்லை; அநியாயமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "「ありがとう ございました。」「いえ、とんでもないです。」",
+        "reading": "「ありがとう ございました。」「いえ、とんでもないです。」",
+        "romaji": "\"arigatou gozaimashita.\" \"ie, tondemonai desu.\"",
+        "ta": "\"மிக்க நன்றி.\" \"ஐயோ, அதெல்லாம் ஒன்றுமில்லை.\"",
+        "en": "\"Thank you so much.\" \"Oh, not at all.\""
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1674",
+    "expression": "何で",
+    "reading": "なんで",
+    "romaji": "nande",
+    "en": "why (casual)",
+    "ta": "ஏன்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "なんで 昨日 来なかったの？",
+        "reading": "なんで きのう こなかったの？",
+        "romaji": "nande kinou konakatta no?",
+        "ta": "நேற்று ஏன் வரவில்லை?",
+        "en": "Why didn't you come yesterday?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1685",
+    "expression": "にっこり",
+    "reading": "にっこり",
+    "romaji": "nikkori",
+    "en": "with a sweet smile",
+    "ta": "புன்னகையுடன்",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "赤ちゃんが 私を 見て、にっこり 笑いました。",
+        "reading": "あかちゃんが わたしを みて、にっこり わらいました。",
+        "romaji": "akachan ga watashi o mite, nikkori waraimashita.",
+        "ta": "குழந்தை என்னைப் பார்த்து அழகாகப் புன்னகைத்தது.",
+        "en": "The baby looked at me and gave a sweet smile."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1736",
+    "expression": "はあ (かん)",
+    "reading": "はあ (かん)",
+    "romaji": "haa(kan)",
+    "en": "sigh; huh?",
+    "ta": "ஹூம் (பெருமூச்சு)",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "はあ、今日も 残業か。疲れたなあ。",
+        "reading": "はあ、きょうも ざんぎょうか。つかれたなあ。",
+        "romaji": "haa, kyou mo zangyou ka. tsukareta naa.",
+        "ta": "ஹூம், இன்றைக்கும் கூடுதல் நேர வேலையா. களைப்பாக இருக்கிறது.",
+        "en": "Sigh, overtime again today. I'm so tired."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1963",
+    "expression": "まあ",
+    "reading": "まあ",
+    "romaji": "maa",
+    "en": "well; oh my",
+    "ta": "பரவாயில்லை; சரி...",
+    "pos": "interjection",
+    "examples": [
+      {
+        "ja": "「試験、どうだった？」「まあ、悪くは なかったよ。」",
+        "reading": "「しけん、どうだった？」「まあ、わるくは なかったよ。」",
+        "romaji": "\"shiken, dou datta?\" \"maa, waruku wa nakatta yo.\"",
+        "ta": "\"தேர்வு எப்படி இருந்தது?\" \"பரவாயில்லை, மோசமில்லை.\"",
+        "en": "\"How was the exam?\" \"Well, it wasn't bad.\""
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1999",
+    "expression": "柵",
+    "reading": "さく",
+    "romaji": "saku",
+    "en": "fence",
+    "ta": "வேலி",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "庭の 周りに 木の 柵を 作りました。",
+        "reading": "にわの まわりに きの さくを つくりました。",
+        "romaji": "niwa no mawari ni ki no saku o tsukurimashita.",
+        "ta": "தோட்டத்தைச் சுற்றி மர வேலி அமைத்தோம்.",
+        "en": "We built a wooden fence around the garden."
+      }
+    ]
+  }
+]

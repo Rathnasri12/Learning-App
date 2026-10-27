@@ -1,0 +1,900 @@
+{
+  "unit": 8,
+  "title": {
+    "en": "Travel, guests and daily life",
+    "ta": "பயணம், விருந்தினர், அன்றாட வாழ்க்கை"
+  },
+  "intro": {
+    "en": "In this unit you will learn fourteen kanji for travelling (harbor, road, climb, fast, inn), for guests and other people, and for daily life (tools, medicine, happiness, hardship). Many have a roof 宀, the road 辶 or grass 艹. Name the part first, then the story is easy.",
+    "ta": "இந்தப் பிரிவில் பயணம் (துறைமுகம், சாலை, ஏறுதல், வேகம், விடுதி), விருந்தினர், மற்றவர்கள், அன்றாட வாழ்க்கை (கருவி, மருந்து, மகிழ்ச்சி, கஷ்டம்) பற்றிய பதினான்கு கான்ஜிகளைக் கற்போம். பலவற்றில் கூரை 宀, சாலை 辶 அல்லது புல் 艹 இருக்கிறது. முதலில் அந்தப் பகுதியின் பெயரைச் சொல்லுங்கள்; பிறகு கதை எளிதாகும்."
+  },
+  "kanji": [
+    {
+      "kanji": "港",
+      "meaning": {
+        "en": "harbor, port",
+        "ta": "துறைமுகம்"
+      },
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "みなと"
+      ],
+      "mnemonic": {
+        "en": "Water (氵) on the left. On the right, 共 (together: two hands holding something) above a coiled rope (巳). At the water’s edge, boats are tied together with ropes. It is a harbor.",
+        "ta": "இடப்பக்கம் தண்ணீர் (氵). வலப்பக்கம் 共 (ஒன்றாக: இரண்டு கைகள் ஒன்றைப் பிடித்திருக்கின்றன), அதன் கீழே சுருண்ட கயிறு (巳). நீர்க்கரையில் படகுகள் கயிறுகளால் ஒன்றாகக் கட்டப்பட்டிருக்கின்றன. இது ஒரு துறைமுகம்."
+      },
+      "note": {
+        "en": "空港 (くうこう) is an “air harbor”: an airport. Both parts are long vowels.",
+        "ta": "空港 (くうこう) = “வானத் துறைமுகம்”: விமான நிலையம். இரண்டு பகுதியும் நீண்ட ஒலி."
+      },
+      "examples": [
+        {
+          "word": "港",
+          "reading": "みなと",
+          "en": "harbor, port",
+          "ta": "துறைமுகம்",
+          "vocabId": "n4-v-340"
+        },
+        {
+          "word": "空港",
+          "reading": "くうこう",
+          "en": "airport",
+          "ta": "விமான நிலையம்",
+          "vocabId": "n4-v-324"
+        },
+        {
+          "word": "港町",
+          "reading": "みなとまち",
+          "en": "port town",
+          "ta": "துறைமுக நகரம்"
+        }
+      ]
+    },
+    {
+      "kanji": "路",
+      "meaning": {
+        "en": "road, path",
+        "ta": "சாலை, பாதை"
+      },
+      "on": [
+        "ろ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A foot (足) on the left, and 各 (each) on the right. Each foot walks the same way again and again, and a path is made: a road.",
+        "ta": "இடப்பக்கம் கால் (足), வலப்பக்கம் 各 (ஒவ்வொன்றும்). ஒவ்வொரு காலும் ஒரே வழியில் மீண்டும் மீண்டும் நடக்கிறது; ஒரு பாதை உருவாகிறது: சாலை."
+      },
+      "note": {
+        "en": "道路 is どうろ: long どう, short ろ. Don’t mix up 路 with 露 (dew), which has rain on top.",
+        "ta": "道路 = どうろ: நீண்ட どう, குறுகிய ろ. மேலே மழை உள்ள 露 (பனித்துளி) உடன் 路-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "道路",
+          "reading": "どうろ",
+          "en": "road",
+          "ta": "சாலை",
+          "vocabId": "n3-v-1589"
+        },
+        {
+          "word": "通路",
+          "reading": "つうろ",
+          "en": "passage, aisle",
+          "ta": "நடைபாதை, இடைவழி"
+        },
+        {
+          "word": "進路",
+          "reading": "しんろ",
+          "en": "course, future path",
+          "ta": "செல்லும் வழி, எதிர்காலப் பாதை"
+        }
+      ]
+    },
+    {
+      "kanji": "他",
+      "meaning": {
+        "en": "other",
+        "ta": "மற்ற, வேறு"
+      },
+      "on": [
+        "た"
+      ],
+      "kun": [
+        "ほか"
+      ],
+      "mnemonic": {
+        "en": "A person (亻) next to 也, a curled-up snake. That person over there with the snake is not you. He is the other one.",
+        "ta": "ஒருவர் (亻) அருகே 也, சுருண்டு கிடக்கும் ஒரு பாம்பு. பாம்போடு அங்கே நிற்பவர் நீங்கள் அல்ல. அவர் வேறொருவர்."
+      },
+      "note": {
+        "en": "Same right side 也: 他 (person 亻, other), 地 (earth 土, ground), 池 (water 氵, pond). 他人 (たにん) = a stranger.",
+        "ta": "வலப்பக்கம் ஒரே 也: 他 (ஆள் 亻, மற்ற), 地 (மண் 土, நிலம்), 池 (தண்ணீர் 氵, குளம்). 他人 (たにん) = அந்நியர்."
+      },
+      "examples": [
+        {
+          "word": "他",
+          "reading": "ほか",
+          "en": "other",
+          "ta": "மற்ற, வேறு",
+          "vocabId": "n3-v-1943"
+        },
+        {
+          "word": "他人",
+          "reading": "たにん",
+          "en": "stranger, other people",
+          "ta": "அந்நியர், மற்றவர்கள்",
+          "vocabId": "n3-v-1419"
+        },
+        {
+          "word": "その他",
+          "reading": "そのた",
+          "en": "and others, etc.",
+          "ta": "மற்றவை, முதலியன"
+        }
+      ]
+    },
+    {
+      "kanji": "客",
+      "meaning": {
+        "en": "guest, customer",
+        "ta": "விருந்தினர், வாடிக்கையாளர்"
+      },
+      "on": [
+        "きゃく"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A roof (宀) and 各 (each) under it. Each person who walks in under your roof is a guest. Welcome!",
+        "ta": "ஒரு கூரை (宀), அதன் கீழே 各 (ஒவ்வொன்றும்). உங்கள் கூரையின் கீழ் நுழையும் ஒவ்வொருவரும் விருந்தினர். வருக!"
+      },
+      "note": {
+        "en": "Polite forms: お客さん, お客様 (おきゃくさま). Don’t mix up 客 with 各 (each, no roof).",
+        "ta": "மரியாதை வடிவங்கள்: お客さん, お客様 (おきゃくさま). கூரை இல்லாத 各 (ஒவ்வொன்றும்) உடன் 客-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "客",
+          "reading": "きゃく",
+          "en": "guest, customer",
+          "ta": "விருந்தினர், வாடிக்கையாளர்",
+          "vocabId": "n4-v-195"
+        },
+        {
+          "word": "お客さん",
+          "reading": "おきゃくさん",
+          "en": "guest, customer (polite)",
+          "ta": "விருந்தினர், வாடிக்கையாளர் (மரியாதை)"
+        },
+        {
+          "word": "乗客",
+          "reading": "じょうきゃく",
+          "en": "passenger",
+          "ta": "பயணி",
+          "vocabId": "n3-v-0133"
+        },
+        {
+          "word": "観客",
+          "reading": "かんきゃく",
+          "en": "audience",
+          "ta": "பார்வையாளர்கள்",
+          "vocabId": "n3-v-0667"
+        }
+      ]
+    },
+    {
+      "kanji": "登",
+      "meaning": {
+        "en": "to climb",
+        "ta": "ஏறு"
+      },
+      "on": [
+        "と",
+        "とう"
+      ],
+      "kun": [
+        "のぼ.る"
+      ],
+      "mnemonic": {
+        "en": "On top are two feet stepping apart (癶). Below them is a high stool (豆). Put your feet on the stool and climb up, like climbing the steps to a hill temple.",
+        "ta": "மேலே இரண்டு கால்கள் விரிந்து அடியெடுக்கின்றன (癶). அவற்றின் கீழே ஒரு உயரமான முக்காலி (豆). முக்காலியில் கால் வைத்து மேலே ஏறுங்கள், மலைக்கோயில் படிகளில் ஏறுவது போல."
+      },
+      "note": {
+        "en": "登山 is とざん (short と), but 登場 is とうじょう (long とう). 登る (のぼる) is used for mountains and stairs.",
+        "ta": "登山 = とざん (குறுகிய と); ஆனால் 登場 = とうじょう (நீண்ட とう). 登る (のぼる) மலை, படிக்கட்டுக்குப் பயன்படும்."
+      },
+      "examples": [
+        {
+          "word": "登る",
+          "reading": "のぼる",
+          "en": "to climb",
+          "ta": "ஏறு",
+          "vocabId": "n5-v-513"
+        },
+        {
+          "word": "登山",
+          "reading": "とざん",
+          "en": "mountain climbing",
+          "ta": "மலையேற்றம்",
+          "vocabId": "n3-v-1609"
+        },
+        {
+          "word": "登場",
+          "reading": "とうじょう",
+          "en": "appearance (on stage), entrance",
+          "ta": "(மேடையில்) தோன்றுதல்"
+        }
+      ]
+    },
+    {
+      "kanji": "速",
+      "meaning": {
+        "en": "fast",
+        "ta": "வேகமான"
+      },
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "はや.い"
+      ],
+      "mnemonic": {
+        "en": "The road (辶) carries a bundle (束: a tree 木 tied with a band 口). A delivery man races down the road with his bundle on a bike. Fast!",
+        "ta": "சாலையில் (辶) ஒரு கட்டு (束: பட்டையால் கட்டிய மரம் 木) போகிறது. டெலிவரி செய்பவர் தன் கட்டுடன் சைக்கிளில் சாலையில் பறக்கிறார். வேகம்!"
+      },
+      "note": {
+        "en": "速い = fast (speed); 早い = early (time). Both are はやい. 早速 (さっそく) = right away.",
+        "ta": "速い = வேகமான (வேகம்); 早い = சீக்கிரம் (நேரம்). இரண்டும் はやい. 早速 (さっそく) = உடனே."
+      },
+      "examples": [
+        {
+          "word": "速い",
+          "reading": "はやい",
+          "en": "fast",
+          "ta": "வேகமான",
+          "vocabId": "n5-v-544"
+        },
+        {
+          "word": "速度",
+          "reading": "そくど",
+          "en": "speed",
+          "ta": "வேகம்",
+          "vocabId": "n3-v-1323"
+        },
+        {
+          "word": "高速",
+          "reading": "こうそく",
+          "en": "high speed; expressway",
+          "ta": "அதிவேகம்; விரைவுச் சாலை",
+          "vocabId": "n3-v-0897"
+        },
+        {
+          "word": "早速",
+          "reading": "さっそく",
+          "en": "right away",
+          "ta": "உடனே"
+        }
+      ]
+    },
+    {
+      "kanji": "号",
+      "meaning": {
+        "en": "number; signal",
+        "ta": "எண்; சமிக்ஞை"
+      },
+      "on": [
+        "ごう"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A mouth (口) on top of a bent line like a horn. Someone shouts through a horn: “Number five! Number five, please!”",
+        "ta": "கொம்பு போல வளைந்த கோட்டின் மேல் ஒரு வாய் (口). ஒருவர் கொம்பு வழியாகக் கத்துகிறார்: “ஐந்தாம் எண்! ஐந்தாம் எண், வாருங்கள்!”"
+      },
+      "note": {
+        "en": "号 is voiced: ごう. 番号 = ばんごう, 信号 = しんごう (traffic light).",
+        "ta": "号 ஒலிப்புடன்: ごう. 番号 = ばんごう, 信号 = しんごう (போக்குவரத்து விளக்கு)."
+      },
+      "examples": [
+        {
+          "word": "番号",
+          "reading": "ばんごう",
+          "en": "number",
+          "ta": "எண்",
+          "vocabId": "n5-v-554"
+        },
+        {
+          "word": "信号",
+          "reading": "しんごう",
+          "en": "traffic light, signal",
+          "ta": "போக்குவரத்து விளக்கு, சமிக்ஞை",
+          "vocabId": "n3-v-0188"
+        },
+        {
+          "word": "記号",
+          "reading": "きごう",
+          "en": "symbol, sign",
+          "ta": "குறியீடு"
+        }
+      ]
+    },
+    {
+      "kanji": "苦",
+      "meaning": {
+        "en": "bitter; hard, painful",
+        "ta": "கசப்பு; கஷ்டமான, வேதனையான"
+      },
+      "on": [
+        "く"
+      ],
+      "kun": [
+        "くる.しい",
+        "にが.い"
+      ],
+      "mnemonic": {
+        "en": "Grass (艹) on top of old (古). Old herbs taste bitter, like neem leaves. Bitter medicine is hard to swallow: suffering!",
+        "ta": "பழைய (古)-இன் மேல் புல் (艹). பழைய மூலிகைகள் வேப்பிலை போலக் கசக்கும். கசப்பு மருந்தை விழுங்குவது கஷ்டம்: வேதனை!"
+      },
+      "note": {
+        "en": "苦い (にがい) = bitter; 苦しい (くるしい) = painful, hard. 苦手 (にがて) = not good at, don’t like.",
+        "ta": "苦い (にがい) = கசப்பான; 苦しい (くるしい) = வேதனையான, கஷ்டமான. 苦手 (にがて) = திறமை இல்லாத, பிடிக்காத."
+      },
+      "examples": [
+        {
+          "word": "苦しい",
+          "reading": "くるしい",
+          "en": "painful, hard",
+          "ta": "வேதனையான, கஷ்டமான",
+          "vocabId": "n3-v-0809"
+        },
+        {
+          "word": "苦い",
+          "reading": "にがい",
+          "en": "bitter",
+          "ta": "கசப்பான",
+          "vocabId": "n4-v-011"
+        },
+        {
+          "word": "苦手",
+          "reading": "にがて",
+          "en": "weak at, not good with",
+          "ta": "திறமை இல்லாத, பிடிக்காத",
+          "vocabId": "n3-v-1679"
+        },
+        {
+          "word": "苦労",
+          "reading": "くろう",
+          "en": "hardship, hard work",
+          "ta": "கஷ்டம், கடின உழைப்பு",
+          "vocabId": "n3-v-0812"
+        }
+      ]
+    },
+    {
+      "kanji": "具",
+      "meaning": {
+        "en": "tool; ingredient",
+        "ta": "கருவி; சேர்மானம்"
+      },
+      "on": [
+        "ぐ"
+      ],
+      "kun": [],
+      "mnemonic": {
+        "en": "A cupboard with shelves (目) stands on a table (一) with two legs (八). The shelves are full of tools and things for the house.",
+        "ta": "அலமாரித் தட்டுகள் உள்ள ஒரு பெட்டி (目), இரண்டு கால்கள் (八) உள்ள ஒரு மேசையின் (一) மேல் நிற்கிறது. தட்டுகள் முழுதும் வீட்டுக்கான கருவிகளும் பொருள்களும்."
+      },
+      "note": {
+        "en": "Don’t mix up 具 with 真 (true), which has 十 on top, or 貝 (shell). 具合 (ぐあい) = condition, how you feel.",
+        "ta": "மேலே 十 உள்ள 真 (உண்மை), 貝 (சிப்பி) உடன் 具-ஐக் குழப்ப வேண்டாம். 具合 (ぐあい) = நிலை, உடல்நிலை."
+      },
+      "examples": [
+        {
+          "word": "道具",
+          "reading": "どうぐ",
+          "en": "tool",
+          "ta": "கருவி",
+          "vocabId": "n4-v-437"
+        },
+        {
+          "word": "家具",
+          "reading": "かぐ",
+          "en": "furniture",
+          "ta": "தளபாடங்கள்",
+          "vocabId": "n3-v-0582"
+        },
+        {
+          "word": "具合",
+          "reading": "ぐあい",
+          "en": "condition, health",
+          "ta": "நிலை, உடல்நிலை",
+          "vocabId": "n4-v-447"
+        }
+      ]
+    },
+    {
+      "kanji": "返",
+      "meaning": {
+        "en": "to return, to give back",
+        "ta": "திருப்பிக் கொடு"
+      },
+      "on": [
+        "へん"
+      ],
+      "kun": [
+        "かえ.す",
+        "かえ.る"
+      ],
+      "mnemonic": {
+        "en": "The road (辶) and 反 (opposite, from Unit 5). You go back down the road the opposite way to give back what you borrowed.",
+        "ta": "சாலை (辶), 反 (எதிர், பிரிவு 5). கடன் வாங்கியதைத் திருப்பிக் கொடுக்க, சாலையில் எதிர்த் திசையில் திரும்பிப் போகிறீர்கள்."
+      },
+      "note": {
+        "en": "返す (かえす) = to give back a thing. 帰す (かえす) = to send a person home. 返事 (へんじ) = a reply.",
+        "ta": "返す (かえす) = ஒரு பொருளைத் திருப்பிக் கொடு. 帰す (かえす) = ஒருவரை வீட்டுக்கு அனுப்பு. 返事 (へんじ) = பதில்."
+      },
+      "examples": [
+        {
+          "word": "返す",
+          "reading": "かえす",
+          "en": "to give back, to return",
+          "ta": "திருப்பிக் கொடு",
+          "vocabId": "n5-v-150"
+        },
+        {
+          "word": "返事",
+          "reading": "へんじ",
+          "en": "reply, answer",
+          "ta": "பதில்",
+          "vocabId": "n4-v-430"
+        },
+        {
+          "word": "返る",
+          "reading": "かえる",
+          "en": "to come back (to the owner)",
+          "ta": "(உரியவரிடம்) திரும்பி வா"
+        }
+      ]
+    },
+    {
+      "kanji": "宿",
+      "meaning": {
+        "en": "inn, lodging",
+        "ta": "விடுதி, தங்குமிடம்"
+      },
+      "on": [
+        "しゅく"
+      ],
+      "kun": [
+        "やど"
+      ],
+      "mnemonic": {
+        "en": "Under a roof (宀), a person (亻) next to a hundred (百). An inn with a hundred beds, where travellers stay for the night, like a choultry (சத்திரம்) on a pilgrim road.",
+        "ta": "ஒரு கூரையின் (宀) கீழ், நூறு (百)-க்கு அருகே ஒருவர் (亻). நூறு படுக்கைகள் உள்ள விடுதி; புனிதப் பயணச் சாலையில் உள்ள சத்திரம் போல, பயணிகள் இரவு தங்குகிறார்கள்."
+      },
+      "note": {
+        "en": "宿題 (しゅくだい) = homework: “a question you take home to your lodging”. 下宿 (げしゅく) = a boarding house.",
+        "ta": "宿題 (しゅくだい) = வீட்டுப்பாடம்: “தங்குமிடத்துக்கு எடுத்துச் செல்லும் கேள்வி”. 下宿 (げしゅく) = தங்கும் வீடு."
+      },
+      "examples": [
+        {
+          "word": "宿題",
+          "reading": "しゅくだい",
+          "en": "homework",
+          "ta": "வீட்டுப்பாடம்",
+          "vocabId": "n5-v-318"
+        },
+        {
+          "word": "下宿",
+          "reading": "げしゅく",
+          "en": "boarding house, lodgings",
+          "ta": "தங்கும் வீடு",
+          "vocabId": "n4-v-295"
+        },
+        {
+          "word": "宿",
+          "reading": "やど",
+          "en": "inn, place to stay",
+          "ta": "விடுதி, தங்குமிடம்",
+          "vocabId": "n3-v-1096"
+        }
+      ]
+    },
+    {
+      "kanji": "薬",
+      "meaning": {
+        "en": "medicine",
+        "ta": "மருந்து"
+      },
+      "on": [
+        "やく"
+      ],
+      "kun": [
+        "くすり"
+      ],
+      "mnemonic": {
+        "en": "Grass (艹) on top of 楽 (comfortable, fun). Herbs that make you feel comfortable again: medicine, like a grandmother’s herbal cure.",
+        "ta": "楽 (சுகம், மகிழ்ச்சி)-இன் மேல் புல் (艹). உங்களை மீண்டும் சுகமாக்கும் மூலிகைகள்: மருந்து, பாட்டி வைத்தியம் போல."
+      },
+      "note": {
+        "en": "薬 = 艹 + 楽. Don’t forget the grass on top! 薬局 is やっきょく, with a small っ.",
+        "ta": "薬 = 艹 + 楽. மேலே உள்ள புல்லை மறக்க வேண்டாம்! 薬局 = やっきょく, சிறிய っ உடன்."
+      },
+      "examples": [
+        {
+          "word": "薬",
+          "reading": "くすり",
+          "en": "medicine",
+          "ta": "மருந்து",
+          "vocabId": "n5-v-217"
+        },
+        {
+          "word": "薬局",
+          "reading": "やっきょく",
+          "en": "pharmacy",
+          "ta": "மருந்தகம்"
+        },
+        {
+          "word": "目薬",
+          "reading": "めぐすり",
+          "en": "eye drops",
+          "ta": "கண் சொட்டு மருந்து"
+        },
+        {
+          "word": "薬屋",
+          "reading": "くすりや",
+          "en": "drugstore",
+          "ta": "மருந்துக் கடை"
+        }
+      ]
+    },
+    {
+      "kanji": "幸",
+      "meaning": {
+        "en": "happiness, luck",
+        "ta": "மகிழ்ச்சி, அதிர்ஷ்டம்"
+      },
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "しあわ.せ",
+        "さいわ.い"
+      ],
+      "mnemonic": {
+        "en": "Earth (土) on top, two little dots, and two lines below like a stand. Look at 辛 (spicy, hard): it has one line less on top. One extra good thing turns a hard life into happiness!",
+        "ta": "மேலே மண் (土), இரண்டு சிறிய புள்ளிகள், கீழே தாங்கி போல இரண்டு கோடுகள். 辛 (காரம், கஷ்டம்)-ஐப் பாருங்கள்: அதில் மேலே ஒரு கோடு குறைவு. ஒரு கூடுதல் நல்ல விஷயம் கஷ்டமான வாழ்க்கையை மகிழ்ச்சியாக்குகிறது!"
+      },
+      "note": {
+        "en": "幸せ (しあわせ) is written with only せ after the kanji. 幸い (さいわい) = luckily. 不幸 (ふこう) = unhappiness.",
+        "ta": "幸せ (しあわせ): கான்ஜிக்குப் பின் せ மட்டும். 幸い (さいわい) = அதிர்ஷ்டவசமாக. 不幸 (ふこう) = துரதிர்ஷ்டம்."
+      },
+      "examples": [
+        {
+          "word": "幸せ",
+          "reading": "しあわせ",
+          "en": "happiness; happy",
+          "ta": "மகிழ்ச்சி; மகிழ்ச்சியான",
+          "vocabId": "n3-v-0020"
+        },
+        {
+          "word": "幸い",
+          "reading": "さいわい",
+          "en": "fortunately",
+          "ta": "அதிர்ஷ்டவசமாக",
+          "vocabId": "n3-v-0969"
+        },
+        {
+          "word": "幸運",
+          "reading": "こううん",
+          "en": "good luck",
+          "ta": "நல்ல அதிர்ஷ்டம்",
+          "vocabId": "n3-v-0877"
+        },
+        {
+          "word": "不幸",
+          "reading": "ふこう",
+          "en": "misfortune; unhappy",
+          "ta": "துரதிர்ஷ்டம்; துக்கமான",
+          "vocabId": "n3-v-1870"
+        }
+      ]
+    },
+    {
+      "kanji": "等",
+      "meaning": {
+        "en": "equal; class, grade; etc.",
+        "ta": "சமம்; தரம்; முதலியன"
+      },
+      "on": [
+        "とう"
+      ],
+      "kun": [
+        "ひと.しい",
+        "など"
+      ],
+      "mnemonic": {
+        "en": "Bamboo (⺮) above a temple (寺, the right side of 時). The monks cut all the bamboo sticks to equal length and sort them by grade: first, second, and so on.",
+        "ta": "ஒரு கோயிலின் (寺, 時-இன் வலப்பக்கம்) மேல் மூங்கில் (⺮). துறவிகள் எல்லா மூங்கில் கம்புகளையும் சம நீளத்தில் வெட்டி, தரம் பிரிக்கிறார்கள்: முதல், இரண்டாம், முதலியன."
+      },
+      "note": {
+        "en": "平等 (equality) is びょうどう, not へいとう. Don’t mix up 等 with 待 (wait), which has 彳 instead of bamboo.",
+        "ta": "平等 (சமத்துவம்) = びょうどう; へいとう அல்ல. மூங்கிலுக்குப் பதில் 彳 உள்ள 待 (காத்திரு) உடன் 等-ஐக் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        {
+          "word": "平等",
+          "reading": "びょうどう",
+          "en": "equality",
+          "ta": "சமத்துவம்",
+          "vocabId": "n3-v-1844"
+        },
+        {
+          "word": "上等",
+          "reading": "じょうとう",
+          "en": "first-class, very good",
+          "ta": "முதல் தரமான",
+          "vocabId": "n3-v-0147"
+        },
+        {
+          "word": "等しい",
+          "reading": "ひとしい",
+          "en": "equal",
+          "ta": "சமமான",
+          "vocabId": "n3-v-1829"
+        },
+        {
+          "word": "一等",
+          "reading": "いっとう",
+          "en": "first place, first class",
+          "ta": "முதலிடம், முதல் வகுப்பு"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU8-q01",
+        "type": "kanji_reading",
+        "sentence": "あしたの 朝、＿空港＿へ 行きます。",
+        "target": "空港",
+        "options": [
+          "くうこ",
+          "そらこう",
+          "くこう",
+          "くうこう"
+        ],
+        "answer": 3,
+        "explanation_en": "空港 is くうこう (விமான நிலையம், airport): both parts are long. くうこ and くこう drop a long vowel, and そら is the kun reading of 空.",
+        "explanation_ta": "空港 = くうこう (விமான நிலையம், airport): இரண்டும் நீண்ட ஒலி. くうこ, くこう இரண்டிலும் ஒரு நீண்ட ஒலி இல்லை; そら 空-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU8-q02",
+        "type": "kanji_reading",
+        "sentence": "この ＿道路＿は 車が 多いです。",
+        "target": "道路",
+        "options": [
+          "どうろ",
+          "どろ",
+          "みちろ",
+          "どうろう"
+        ],
+        "answer": 0,
+        "explanation_en": "道路 is どうろ (சாலை, road): long どう, short ろ. どろ is mud, and みち is the kun reading of 道.",
+        "explanation_ta": "道路 = どうろ (சாலை, road): நீண்ட どう, குறுகிய ろ. どろ = சேறு; みち 道-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU8-q03",
+        "type": "kanji_reading",
+        "sentence": "＿他＿に しつもんは ありますか。",
+        "target": "他",
+        "options": [
+          "た",
+          "ほか",
+          "ほが",
+          "だ"
+        ],
+        "answer": 1,
+        "explanation_en": "他に is ほかに (வேறு, other / else). た is the on reading, used in 他人 and その他. ほが is wrongly voiced.",
+        "explanation_ta": "他に = ほかに (வேறு, other / else). た ஆன் வாசிப்பு; 他人, その他-இல் வரும். ほが-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q04",
+        "type": "kanji_reading",
+        "sentence": "店に ＿お客さん＿が たくさん 来ました。",
+        "target": "お客さん",
+        "options": [
+          "おかくさん",
+          "おきゃさん",
+          "おきゃくさん",
+          "おぎゃくさん"
+        ],
+        "answer": 2,
+        "explanation_en": "お客さん is おきゃくさん (வாடிக்கையாளர், customer). 客 is きゃく with a small ゃ. おきゃさん drops く, and ぎゃく is wrongly voiced.",
+        "explanation_ta": "お客さん = おきゃくさん (வாடிக்கையாளர், customer). 客 = சிறிய ゃ உடன் きゃく. おきゃさん-இல் く இல்லை; ぎゃく-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q05",
+        "type": "kanji_reading",
+        "sentence": "夏休みに 友だちと ＿登山＿を しました。",
+        "target": "登山",
+        "options": [
+          "とうざん",
+          "のぼりやま",
+          "とさん",
+          "とざん"
+        ],
+        "answer": 3,
+        "explanation_en": "登山 is とざん (மலையேற்றம், mountain climbing): short と and voiced ざん. とう is used in 登場, not here.",
+        "explanation_ta": "登山 = とざん (மலையேற்றம், mountain climbing): குறுகிய と, ஒலிப்புடன் ざん. とう 登場-இல் வரும்; இங்கே அல்ல."
+      },
+      {
+        "id": "KU8-q06",
+        "type": "kanji_reading",
+        "sentence": "あの 電車は とても ＿速い＿です。",
+        "target": "速い",
+        "options": [
+          "はやい",
+          "そくい",
+          "ばやい",
+          "はいやい"
+        ],
+        "answer": 0,
+        "explanation_en": "速い is はやい (வேகமான, fast). そく is the on reading of 速, and ばやい is wrongly voiced.",
+        "explanation_ta": "速い = はやい (வேகமான, fast). そく 速-இன் ஆன் வாசிப்பு; ばやい-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q07",
+        "type": "kanji_reading",
+        "sentence": "電話＿番号＿を 教えて ください。",
+        "target": "番号",
+        "options": [
+          "ばんこう",
+          "ばんごう",
+          "ばんご",
+          "はんごう"
+        ],
+        "answer": 1,
+        "explanation_en": "番号 is ばんごう (எண், number). 号 is voiced and long: ごう. ばんこう is unvoiced, ばんご is too short, and はん is unvoiced.",
+        "explanation_ta": "番号 = ばんごう (எண், number). 号 ஒலிப்புடன் நீண்ட ஒலி: ごう. ばんこう ஒலிப்பு இல்லாதது; ばんご மிகக் குறுகியது; はん ஒலிப்பு இல்லாதது."
+      },
+      {
+        "id": "KU8-q08",
+        "type": "kanji_reading",
+        "sentence": "わたしは 数学が ＿苦手＿です。",
+        "target": "苦手",
+        "options": [
+          "くて",
+          "くるて",
+          "にがて",
+          "にがで"
+        ],
+        "answer": 2,
+        "explanation_en": "苦手 is にがて (திறமை இல்லாத, weak at). It uses the kun reading of 苦い (にがい). く is the on reading, and にがで is wrongly voiced.",
+        "explanation_ta": "苦手 = にがて (திறமை இல்லாத, weak at). 苦い (にがい) என்ற குன் வாசிப்பு. く ஆன் வாசிப்பு; にがで-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q09",
+        "type": "kanji_reading",
+        "sentence": "友だちの メールに ＿返事＿を 書きました。",
+        "target": "返事",
+        "options": [
+          "へんじ",
+          "へんごと",
+          "かえじ",
+          "べんじ"
+        ],
+        "answer": 0,
+        "explanation_en": "返事 is へんじ (பதில், reply). かえ is the kun reading of 返す, and べん is wrongly voiced.",
+        "explanation_ta": "返事 = へんじ (பதில், reply). かえ 返す-இன் குன் வாசிப்பு; べん-இல் தவறான ஒலிப்பு."
+      },
+      {
+        "id": "KU8-q10",
+        "type": "kanji_reading",
+        "sentence": "今日は ＿宿題＿が たくさん あります。",
+        "target": "宿題",
+        "options": [
+          "しゅくたい",
+          "やどだい",
+          "しゅくだい",
+          "しゅうくだい"
+        ],
+        "answer": 2,
+        "explanation_en": "宿題 is しゅくだい (வீட்டுப்பாடம், homework). 題 is voiced だい, しゅく is short, and やど is the kun reading of 宿.",
+        "explanation_ta": "宿題 = しゅくだい (வீட்டுப்பாடம், homework). 題 ஒலிப்புடன் だい; しゅく குறுகியது; やど 宿-இன் குன் வாசிப்பு."
+      },
+      {
+        "id": "KU8-q11",
+        "type": "orthography",
+        "sentence": "かぜを ひいたので ＿くすり＿を 飲みました。",
+        "target": "くすり",
+        "options": [
+          "楽",
+          "薬",
+          "葉",
+          "落"
+        ],
+        "answer": 1,
+        "explanation_en": "くすり (மருந்து, medicine) is written 薬: grass (艹) on top of 楽. 楽 alone has no grass and means “fun, easy”.",
+        "explanation_ta": "くすり (மருந்து, medicine) = 薬: 楽-இன் மேல் புல் (艹). தனி 楽-இல் புல் இல்லை; அது “மகிழ்ச்சி, எளிது”."
+      },
+      {
+        "id": "KU8-q12",
+        "type": "orthography",
+        "sentence": "家族と いっしょで とても ＿しあわせ＿です。",
+        "target": "しあわせ",
+        "options": [
+          "辛せ",
+          "幸わせ",
+          "辛わせ",
+          "幸せ"
+        ],
+        "answer": 3,
+        "explanation_en": "しあわせ (மகிழ்ச்சி, happiness) is written 幸せ, with only せ after it. 辛 (spicy) has one line less, and 幸わせ has extra kana.",
+        "explanation_ta": "しあわせ (மகிழ்ச்சி, happiness) = 幸せ; பின்னால் せ மட்டும். 辛 (காரம்)-இல் ஒரு கோடு குறைவு; 幸わせ-இல் கூடுதல் கானா."
+      },
+      {
+        "id": "KU8-q13",
+        "type": "orthography",
+        "sentence": "＿ほか＿の 人にも 聞いて みましょう。",
+        "target": "ほか",
+        "options": [
+          "他",
+          "地",
+          "池",
+          "化"
+        ],
+        "answer": 0,
+        "explanation_en": "ほか (மற்ற, other) is written 他: a person (亻) + 也. 地 (ground) has 土, and 池 (pond) has 氵.",
+        "explanation_ta": "ほか (மற்ற, other) = 他: ஆள் (亻) + 也. 地 (நிலம்)-இல் 土; 池 (குளம்)-இல் 氵."
+      },
+      {
+        "id": "KU8-q14",
+        "type": "orthography",
+        "sentence": "図書館に 本を ＿かえして＿ ください。",
+        "target": "かえして",
+        "options": [
+          "帰して",
+          "返して",
+          "反して",
+          "変えして"
+        ],
+        "answer": 1,
+        "explanation_en": "To give back a thing (திருப்பிக் கொடு, to return) is 返す: road (辶) + opposite (反). 帰す is for sending a person home.",
+        "explanation_ta": "ஒரு பொருளைத் திருப்பிக் கொடுப்பது (திருப்பிக் கொடு, to return) = 返す: சாலை (辶) + எதிர் (反). 帰す ஒருவரை வீட்டுக்கு அனுப்புவதற்கு."
+      },
+      {
+        "id": "KU8-q15",
+        "type": "orthography",
+        "sentence": "船が ＿みなと＿に 着きました。",
+        "target": "みなと",
+        "options": [
+          "湖",
+          "巷",
+          "港",
+          "洪"
+        ],
+        "answer": 2,
+        "explanation_en": "みなと (துறைமுகம், harbor) is written 港: water (氵) + 巷. 巷 alone has no water, and 湖 is a lake.",
+        "explanation_ta": "みなと (துறைமுகம், harbor) = 港: தண்ணீர் (氵) + 巷. தனி 巷-இல் தண்ணீர் இல்லை; 湖 = ஏரி."
+      },
+      {
+        "id": "KU8-q16",
+        "type": "orthography",
+        "sentence": "りょうりの ＿どうぐ＿を 買いました。",
+        "target": "どうぐ",
+        "options": [
+          "道貝",
+          "通具",
+          "道真",
+          "道具"
+        ],
+        "answer": 3,
+        "explanation_en": "どうぐ (கருவி, tool) is 道具. 具 looks like 貝 (shell) and 真 (true), but only 具 has the table with two legs and no 十 on top.",
+        "explanation_ta": "どうぐ (கருவி, tool) = 道具. 具, 貝 (சிப்பி), 真 (உண்மை) போலத் தெரியும்; ஆனால் இரண்டு கால் மேசையும், மேலே 十 இல்லாததும் 具-இல் மட்டும்."
+      }
+    ]
+  }
+}

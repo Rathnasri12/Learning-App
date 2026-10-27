@@ -1,0 +1,768 @@
+{
+ "lesson": 37,
+ "title": {
+  "ja": "調査に基づいて",
+  "ta": "ஒரு ஆய்வின் அடிப்படையில்",
+  "en": "Based on a survey"
+ },
+ "intro_en": "This lesson is about research and reports. You learn words for science, surveys and numbers. You learn the formal \"about\" (〜に関して), used in reports and meetings. You learn 〜によって for \"by\", \"depending on\" and \"because of\". You learn two ways to say \"based on\": 〜をもとに (using something as material) and 〜に基づいて (following facts or rules). Last, you learn 〜を中心に, \"centred on\" or \"mainly\".",
+ "intro_ta": "இந்தப் பாடம் ஆராய்ச்சி, அறிக்கைகள் பற்றியது. அறிவியல், கணக்கெடுப்பு, எண்கள் தொடர்பான சொற்களைக் கற்போம். அறிக்கைகளிலும் கூட்டங்களிலும் வரும் முறையான 'குறித்து' (〜に関して), 'ஆல் / பொறுத்து / காரணமாக' என்ற மூன்று பொருள் தரும் 〜によって ஆகியவற்றைக் கற்போம். 'அடிப்படையாகக் கொண்டு' என்பதைச் சொல்ல இரண்டு வழிகள் உண்டு: மூலப்பொருளாக வைத்துச் செய்வது 〜をもとに, உண்மைகள் அல்லது விதிகளைப் பின்பற்றுவது 〜に基づいて. கடைசியாக 'மையமாகக் கொண்டு' (〜を中心に) என்பதையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g37-1",
+   "pattern": "N に 関して / N に 関する N",
+   "name": {
+    "en": "About / concerning N (formal)",
+    "ta": "N குறித்து / N தொடர்பான"
+   },
+   "explanation_en": "This means \"about\" or \"concerning\". It is like について (N4), but more formal. You hear it in reports, news, meetings and on forms. Before a verb or at a comma, use に関して. Before a noun, use に関する: 宇宙に関する本 (a book about space). You can add は or も: に関しては, に関しても. In casual talk, について is more natural.",
+   "explanation_ta": "இதன் பொருள் 'குறித்து', 'தொடர்பாக'. N4-இல் கற்ற について போன்றதுதான், ஆனால் அதைவிட முறையானது. அறிக்கைகள், செய்திகள், கூட்டங்கள், விண்ணப்பப் படிவங்களில் அதிகம் வரும். வினைக்கு முன் அல்லது காற்புள்ளிக்கு முன் に関して; பெயர்ச்சொல்லுக்கு முன் に関する (宇宙に関する本 = விண்வெளி தொடர்பான புத்தகம்). தமிழில் '-ஐக் குறித்து', '-ஐப் பற்றிய' என்பது போல. に関しては, に関しても என்று は, も சேர்க்கலாம். நண்பர்களுடன் பேசும்போது について இயல்பாக இருக்கும்.",
+   "tamil_parallel": "சுற்றுச்சூழல் குறித்து கருத்து = 環境に関して意見; விண்வெளி தொடர்பான புத்தகம் = 宇宙に関する本",
+   "tamil_parallel_en": "சுற்றுச்சூழல் குறித்து (about the environment) = 環境に関して; விண்வெளி தொடர்பான புத்தகம் (a book about space) = 宇宙に関する本",
+   "formation": "பெயர்ச்சொல் + に関して + வினை\nபெயர்ச்சொல் + に関する + பெயர்ச்சொல்\n(வலியுறுத்த: に関しては / に関しても)",
+   "formation_en": "noun + に関して + verb\nnoun + に関する + noun\n(for focus: に関しては / に関しても)",
+   "examples": [
+    {
+     "ja": "環境問題に関して、皆さんの意見を聞かせてください。",
+     "reading": "かんきょう もんだいに かんして、みなさんの いけんを きかせて ください。",
+     "romaji": "kankyou mondai ni kanshite, minasan no iken o kikasete kudasai.",
+     "ta": "சுற்றுச்சூழல் பிரச்சினைகள் குறித்து உங்கள் அனைவரின் கருத்தையும் சொல்லுங்கள்.",
+     "en": "Please tell us your opinions about environmental problems."
+    },
+    {
+     "ja": "夏休みに、宇宙に関する本を三冊読みました。",
+     "reading": "なつやすみに、うちゅうに かんする ほんを さんさつ よみました。",
+     "romaji": "natsuyasumi ni, uchuu ni kansuru hon o sansatsu yomimashita.",
+     "ta": "கோடை விடுமுறையில் விண்வெளி தொடர்பான மூன்று புத்தகங்களைப் படித்தேன்.",
+     "en": "Over the summer holidays I read three books about space."
+    },
+    {
+     "ja": "この件に関しては、まだ何も決まっていません。",
+     "reading": "この けんに かんしては、まだ なにも きまって いません。",
+     "romaji": "kono ken ni kanshite wa, mada nani mo kimatte imasen.",
+     "ta": "இந்த விஷயம் குறித்து இன்னும் எதுவும் முடிவாகவில்லை.",
+     "en": "Nothing has been decided yet about this matter."
+    },
+    {
+     "ja": "大学で、日本の食文化に関する調査を行いました。",
+     "reading": "だいがくで、にほんの しょくぶんかに かんする ちょうさを おこないました。",
+     "romaji": "daigaku de, nihon no shokubunka ni kansuru chousa o okonaimashita.",
+     "ta": "பல்கலைக்கழகத்தில் ஜப்பானிய உணவுப் பண்பாடு குறித்த ஓர் ஆய்வை நடத்தினோம்.",
+     "en": "At university we carried out a survey on Japanese food culture."
+    },
+    {
+     "ja": "今日の授業の内容に関して、質問はありませんか。",
+     "reading": "きょうの じゅぎょうの ないように かんして、しつもんは ありませんか。",
+     "romaji": "kyou no jugyou no naiyou ni kanshite, shitsumon wa arimasen ka.",
+     "ta": "இன்றைய பாடத்தின் உள்ளடக்கம் குறித்து ஏதாவது கேள்வி இருக்கிறதா?",
+     "en": "Are there any questions about today’s lesson?"
+    },
+    {
+     "ja": "物理に関しては、兄のほうがずっと詳しいです。",
+     "reading": "ぶつりに かんしては、あにの ほうが ずっと くわしいです。",
+     "romaji": "butsuri ni kanshite wa, ani no hou ga zutto kuwashii desu.",
+     "ta": "இயற்பியல் விஷயத்தில் என் அண்ணனுக்குத்தான் அதிகம் தெரியும்.",
+     "en": "When it comes to physics, my older brother knows much more."
+    }
+   ],
+   "pitfalls_en": "Before a noun, use に関する, not に関して: 宇宙に関して本 is wrong. Also, it sounds stiff with friends. Say 宇宙についての本 or 宇宙の話 in casual talk.",
+   "pitfalls_ta": "பெயர்ச்சொல்லுக்கு முன் に関する வர வேண்டும்; 宇宙に関して本 தவறு. நண்பர்களுடன் பேசும்போது இது மிகவும் முறையாக ஒலிக்கும்; அங்கே について பயன்படுத்துங்கள்."
+  },
+  {
+   "id": "g37-2",
+   "pattern": "N に よって / N に よる N",
+   "name": {
+    "en": "By / depending on / due to N",
+    "ta": "N-ஆல் / N-ஐப் பொறுத்து / N காரணமாக"
+   },
+   "explanation_en": "によって has several jobs. 1) \"By\" someone, in passive sentences about creators: ベルによって発明された (invented by Bell). 2) \"Depending on\": 人によって違う (it differs from person to person). 3) \"Because of\" a cause, mostly in news: 台風による被害 (damage from the typhoon). 4) \"By means of\": 実験によって分かった (we learned it through experiments). Before a noun, use による. によっては means \"in some cases, depending on\". In daily passive sentences, use に, not によって: 母に叱られた.",
+   "explanation_ta": "によって பல வேலைகள் செய்யும். 1) செயப்பாட்டு வாக்கியத்தில் உருவாக்கியவர்: ベルによって発明された = பெல்லால் கண்டுபிடிக்கப்பட்டது (தமிழில் '-ஆல்'). 2) 'பொறுத்து': 人によって違う = ஆளுக்கு ஆள் வேறுபடும். 3) காரணம் (செய்திகளில்): 台風による被害 = புயலால் ஏற்பட்ட சேதம். 4) வழிமுறை: 実験によって分かった = சோதனை மூலம் தெரிந்தது. பெயர்ச்சொல்லுக்கு முன் による. によっては = 'சில சமயங்களில், பொறுத்து'. அன்றாட செயப்பாட்டு வாக்கியங்களில் (母に叱られた) に போதும்; によって கண்டுபிடிப்பு, படைப்பு போன்ற முறையான இடங்களுக்கு.",
+   "tamil_parallel": "ஆளுக்கு ஆள் வேறுபடும் = 人によって違う; புயலால் ஏற்பட்ட சேதம் = 台風による被害",
+   "tamil_parallel_en": "ஆளுக்கு ஆள் வேறுபடும் (it differs from person to person) = 人によって違う; புயலால் ஏற்பட்ட சேதம் (damage from the typhoon) = 台風による被害",
+   "formation": "பெயர்ச்சொல் + によって + வினை\nபெயர்ச்சொல் + による + பெயர்ச்சொல்\nபெயர்ச்சொல் + によっては (சில சமயங்களில்)",
+   "formation_en": "noun + によって + verb\nnoun + による + noun\nnoun + によっては (in some cases)",
+   "examples": [
+    {
+     "ja": "人によって、好きな季節は違います。",
+     "reading": "ひとに よって、すきな きせつは ちがいます。",
+     "romaji": "hito ni yotte, suki na kisetsu wa chigaimasu.",
+     "ta": "ஆளுக்கு ஆள் பிடித்த பருவம் வேறுபடும்.",
+     "en": "Favourite seasons differ from person to person."
+    },
+    {
+     "ja": "電話は、ベルによって発明されました。",
+     "reading": "でんわは、ベルに よって はつめい されました。",
+     "romaji": "denwa wa, beru ni yotte hatsumei saremashita.",
+     "ta": "தொலைபேசி பெல் அவர்களால் கண்டுபிடிக்கப்பட்டது.",
+     "en": "The telephone was invented by Bell."
+    },
+    {
+     "ja": "台風による影響で、飛行機が飛びませんでした。",
+     "reading": "たいふうに よる えいきょうで、ひこうきが とびませんでした。",
+     "romaji": "taifuu ni yoru eikyou de, hikouki ga tobimasen deshita.",
+     "ta": "புயலின் தாக்கத்தால் விமானங்கள் பறக்கவில்லை.",
+     "en": "Because of the typhoon, the planes did not fly."
+    },
+    {
+     "ja": "調査の結果は、地域によって大きく違いました。",
+     "reading": "ちょうさの けっかは、ちいきに よって おおきく ちがいました。",
+     "romaji": "chousa no kekka wa, chiiki ni yotte ookiku chigaimashita.",
+     "ta": "ஆய்வு முடிவுகள் பகுதிக்குப் பகுதி பெரிதும் வேறுபட்டன.",
+     "en": "The survey results differed greatly by region."
+    },
+    {
+     "ja": "実験によって、新しい事実が分かりました。",
+     "reading": "じっけんに よって、あたらしい じじつが わかりました。",
+     "romaji": "jikken ni yotte, atarashii jijitsu ga wakarimashita.",
+     "ta": "சோதனையின் மூலம் ஒரு புதிய உண்மை தெரியவந்தது.",
+     "en": "Through the experiment, a new fact became clear."
+    },
+    {
+     "ja": "天気によっては、試合が中止になるかもしれません。",
+     "reading": "てんきに よっては、しあいが ちゅうしに なるかも しれません。",
+     "romaji": "tenki ni yotte wa, shiai ga chuushi ni naru kamo shiremasen.",
+     "ta": "வானிலையைப் பொறுத்து, போட்டி ரத்தாகக்கூடும்.",
+     "en": "Depending on the weather, the match may be cancelled."
+    }
+   ],
+   "pitfalls_en": "Don’t use によって for small daily passives: 母によって叱られた sounds strange. Say 母に叱られた. Also, before a noun it is による, not によって: 地震による被害.",
+   "pitfalls_ta": "அன்றாடச் செயப்பாட்டு வாக்கியங்களில் によって இயல்பாக இல்லை: 母によって叱られた என்பதை விட 母に叱られた சரி. பெயர்ச்சொல்லுக்கு முன் による வர வேண்டும்: 地震による被害."
+  },
+  {
+   "id": "g37-3",
+   "pattern": "N を もとに(して)",
+   "name": {
+    "en": "Based on N (material, source)",
+    "ta": "N-ஐ அடிப்படையாக வைத்து"
+   },
+   "explanation_en": "Use this when you make something new using N as material or a hint. N can be a story, data, a recipe or an idea. The new thing is your own work: 実際の事件をもとに小説を書いた (I wrote a novel based on a real event). Note the particle を. Adding して changes nothing: をもとに and をもとにして mean the same. Before a noun, say をもとにした N.",
+   "explanation_ta": "ஒன்றை மூலப்பொருளாக அல்லது குறிப்பாக வைத்துப் புதிதாக ஒன்றை உருவாக்கும்போது இது வரும். கதை, தரவு, சமையல் குறிப்பு, யோசனை போன்றவை N-ஆக வரலாம். உருவான பொருள் உங்களுடைய சொந்தப் படைப்பு: 実際の事件をもとに小説を書いた = உண்மைச் சம்பவத்தை வைத்து நாவல் எழுதினேன். துகள் を என்பதைக் கவனியுங்கள் (தமிழில் '-ஐ வைத்து'). をもとに, をもとにして இரண்டும் ஒரே பொருள். பெயர்ச்சொல்லுக்கு முன் をもとにした N.",
+   "tamil_parallel": "உண்மைச் சம்பவத்தை வைத்து எழுதிய நாவல் = 実際の事件をもとにした小説",
+   "tamil_parallel_en": "உண்மைச் சம்பவத்தை வைத்து எழுதிய நாவல் (a novel based on a real event) = 実際の事件をもとにした小説",
+   "formation": "பெயர்ச்சொல் + をもとに(して) + வினை\nபெயர்ச்சொல் + をもとにした + பெயர்ச்சொல்",
+   "formation_en": "noun + をもとに(して) + verb\nnoun + をもとにした + noun",
+   "examples": [
+    {
+     "ja": "実際にあった事件をもとにして、小説を書きました。",
+     "reading": "じっさいに あった じけんを もとに して、しょうせつを かきました。",
+     "romaji": "jissai ni atta jiken o moto ni shite, shousetsu o kakimashita.",
+     "ta": "உண்மையில் நடந்த ஒரு சம்பவத்தை அடிப்படையாக வைத்து நாவல் எழுதினேன்.",
+     "en": "I wrote a novel based on something that really happened."
+    },
+    {
+     "ja": "アンケートの結果をもとに、新しい商品を作りました。",
+     "reading": "アンケートの けっかを もとに、あたらしい しょうひんを つくりました。",
+     "romaji": "ankeeto no kekka o moto ni, atarashii shouhin o tsukurimashita.",
+     "ta": "கணக்கெடுப்பு முடிவுகளை வைத்து ஒரு புதிய பொருளைத் தயாரித்தோம்.",
+     "en": "We made a new product based on the survey results."
+    },
+    {
+     "ja": "この料理は、祖母のレシピをもとにしています。",
+     "reading": "この りょうりは、そぼの レシピを もとに して います。",
+     "romaji": "kono ryouri wa, sobo no reshipi o moto ni shite imasu.",
+     "ta": "இந்த உணவு என் பாட்டியின் சமையல் குறிப்பை அடிப்படையாகக் கொண்டது.",
+     "en": "This dish is based on my grandmother’s recipe."
+    },
+    {
+     "ja": "この表をもとにして、図を作ってください。",
+     "reading": "この ひょうを もとに して、ずを つくって ください。",
+     "romaji": "kono hyou o moto ni shite, zu o tsukutte kudasai.",
+     "ta": "இந்த அட்டவணையை வைத்து ஒரு வரைபடம் தயாரியுங்கள்.",
+     "en": "Please make a diagram from this table."
+    },
+    {
+     "ja": "何をもとにして、この数字を出したんですか。",
+     "reading": "なにを もとに して、この すうじを だしたんですか。",
+     "romaji": "nani o moto ni shite, kono suuji o dashita n desu ka.",
+     "ta": "எதை அடிப்படையாக வைத்து இந்த எண்ணைக் கண்டுபிடித்தீர்கள்?",
+     "en": "What did you base this number on?"
+    },
+    {
+     "ja": "先生の講義をもとにしたレポートを書きました。",
+     "reading": "せんせいの こうぎを もとに した レポートを かきました。",
+     "romaji": "sensei no kougi o moto ni shita repooto o kakimashita.",
+     "ta": "ஆசிரியரின் விரிவுரையை வைத்து ஒரு அறிக்கை எழுதினேன்.",
+     "en": "I wrote a report based on the teacher’s lecture."
+    }
+   ],
+   "pitfalls_en": "The particle is を: 事件をもとに. Don’t say 事件にもとに. Don’t mix it up with に基づいて, which takes に.",
+   "pitfalls_ta": "துகள் を தான்: 事件をもとに; 事件にもとに தவறு. に என்ற துகளுடன் வருவது に基づいて மட்டுமே; இரண்டையும் குழப்பிக்கொள்ள வேண்டாம்."
+  },
+  {
+   "id": "g37-4",
+   "pattern": "N に 基づいて / N に 基づく N",
+   "name": {
+    "en": "Based on N (grounds, rules)",
+    "ta": "N-இன் அடிப்படையில்"
+   },
+   "explanation_en": "This means \"based on\" or \"according to\" firm grounds: facts, data, law, rules or experience. You follow N closely and do not change it. Compare: をもとに = N is material for something new and creative. に基づいて = N is the rule or proof you follow. 事実に基づいた映画 is a film that keeps to the facts. Before a noun, use に基づく or に基づいた. It is formal; you see it in reports and official notices.",
+   "explanation_ta": "உண்மைகள், தரவுகள், சட்டம், விதிகள், அனுபவம் போன்ற உறுதியான ஆதாரத்தை அடிப்படையாகக் கொண்டு, அதை மாற்றாமல் பின்பற்றுவதைக் காட்டும். ஒப்பிடுங்கள்: をもとに = மூலப்பொருளை வைத்துப் புதிதாகப் படைப்பது; に基づいて = விதி அல்லது ஆதாரத்தைப் பின்பற்றுவது. 事実に基づいた映画 = உண்மைகளைப் பின்பற்றி எடுத்த திரைப்படம். தமிழில் '-இன் அடிப்படையில்', '-இன்படி'. பெயர்ச்சொல்லுக்கு முன் に基づく / に基づいた. இது முறையான வடிவம்; அறிக்கைகள், அதிகாரப்பூர்வ அறிவிப்புகளில் வரும்.",
+   "tamil_parallel": "சட்டத்தின்படி முடிவெடுப்போம் = 法律に基づいて判断します; தரவுகளின் அடிப்படையிலான திட்டம் = データに基づく計画",
+   "tamil_parallel_en": "சட்டத்தின்படி முடிவெடுப்போம் (we decide according to the law) = 法律に基づいて判断します; தரவுகளின் அடிப்படையிலான திட்டம் (a plan based on data) = データに基づく計画",
+   "formation": "பெயர்ச்சொல் + に基づいて + வினை\nபெயர்ச்சொல் + に基づく / に基づいた + பெயர்ச்சொல்",
+   "formation_en": "noun + に基づいて + verb\nnoun + に基づく / に基づいた + noun",
+   "examples": [
+    {
+     "ja": "法律に基づいて、正しく判断します。",
+     "reading": "ほうりつに もとづいて、ただしく はんだん します。",
+     "romaji": "houritsu ni motozuite, tadashiku handan shimasu.",
+     "ta": "சட்டத்தின் அடிப்படையில் சரியாக முடிவெடுப்போம்.",
+     "en": "We will judge correctly according to the law."
+    },
+    {
+     "ja": "この映画は、事実に基づいています。",
+     "reading": "この えいがは、じじつに もとづいて います。",
+     "romaji": "kono eiga wa, jijitsu ni motozuite imasu.",
+     "ta": "இந்தத் திரைப்படம் உண்மைகளை அடிப்படையாகக் கொண்டது.",
+     "en": "This film is based on facts."
+    },
+    {
+     "ja": "調査に基づいた報告を、来週発表します。",
+     "reading": "ちょうさに もとづいた ほうこくを、らいしゅう はっぴょう します。",
+     "romaji": "chousa ni motozuita houkoku o, raishuu happyou shimasu.",
+     "ta": "ஆய்வின் அடிப்படையிலான அறிக்கையை அடுத்த வாரம் வெளியிடுவோம்.",
+     "en": "Next week we’ll present a report based on the survey."
+    },
+    {
+     "ja": "会社の規則に基づいて、休みを取ってください。",
+     "reading": "かいしゃの きそくに もとづいて、やすみを とって ください。",
+     "romaji": "kaisha no kisoku ni motozuite, yasumi o totte kudasai.",
+     "ta": "நிறுவன விதிகளின்படி விடுப்பு எடுத்துக்கொள்ளுங்கள்.",
+     "en": "Please take your leave according to company rules."
+    },
+    {
+     "ja": "経験に基づくアドバイスは、とても役に立ちます。",
+     "reading": "けいけんに もとづく アドバイスは、とても やくに たちます。",
+     "romaji": "keiken ni motozuku adobaisu wa, totemo yaku ni tachimasu.",
+     "ta": "அனுபவத்தின் அடிப்படையிலான அறிவுரை மிகவும் பயனுள்ளது.",
+     "en": "Advice based on experience is very useful."
+    },
+    {
+     "ja": "その説は、何に基づいているのですか。",
+     "reading": "その せつは、なにに もとづいて いるのですか。",
+     "romaji": "sono setsu wa, nani ni motozuite iru no desu ka.",
+     "ta": "அந்தக் கோட்பாடு எதன் அடிப்படையில் அமைந்துள்ளது?",
+     "en": "What is that theory based on?"
+    }
+   ],
+   "pitfalls_en": "The particle is に: 事実に基づいて. 事実を基づいて is wrong. And for a creative work from a hint or source, をもとに is usually more natural.",
+   "pitfalls_ta": "துகள் に தான்: 事実に基づいて; 事実を基づいて தவறு. ஒரு குறிப்பை வைத்துப் புதிய படைப்பை உருவாக்கும்போது をもとに பொதுவாக இயல்பாக இருக்கும்."
+  },
+  {
+   "id": "g37-5",
+   "pattern": "N を 中心に(して)",
+   "name": {
+    "en": "Centred on N",
+    "ta": "N-ஐ மையமாகக் கொண்டு"
+   },
+   "explanation_en": "This means \"with N at the centre\" or \"mainly N\". It can be a place: 駅を中心に (around the station). It can be people or topics: 若い人を中心に (mainly young people). Other things are included too, but N is the main part. Before a noun, say を中心にした N or を中心とする N. It is common in news and reports.",
+   "explanation_ta": "'N-ஐ மையமாகக் கொண்டு', 'முக்கியமாக N' என்ற பொருள். இடமாக இருக்கலாம்: 駅を中心に = நிலையத்தைச் சுற்றி. மனிதர்கள் அல்லது தலைப்புகளாகவும் இருக்கலாம்: 若い人を中心に = முக்கியமாக இளைஞர்கள். மற்றவையும் அடங்கும், ஆனால் N தான் முதன்மை. பெயர்ச்சொல்லுக்கு முன் を中心にした N அல்லது を中心とする N. செய்திகளிலும் அறிக்கைகளிலும் அடிக்கடி வரும்.",
+   "tamil_parallel": "நிலையத்தை மையமாகக் கொண்டு வளர்ந்த ஊர் = 駅を中心に発展した町",
+   "tamil_parallel_en": "நிலையத்தை மையமாகக் கொண்டு வளர்ந்த ஊர் (a town that grew around the station) = 駅を中心に発展した町",
+   "formation": "பெயர்ச்சொல் + を中心に(して) + வினை\nபெயர்ச்சொல் + を中心にした / を中心とする + பெயர்ச்சொல்",
+   "formation_en": "noun + を中心に(して) + verb\nnoun + を中心にした / を中心とする + noun",
+   "examples": [
+    {
+     "ja": "この町は、駅を中心に発展しました。",
+     "reading": "この まちは、えきを ちゅうしんに はってん しました。",
+     "romaji": "kono machi wa, eki o chuushin ni hatten shimashita.",
+     "ta": "இந்த ஊர் ரயில் நிலையத்தை மையமாகக் கொண்டு வளர்ந்தது.",
+     "en": "This town grew up around the station."
+    },
+    {
+     "ja": "今回の調査は、若い人を中心に行いました。",
+     "reading": "こんかいの ちょうさは、わかい ひとを ちゅうしんに おこないました。",
+     "romaji": "konkai no chousa wa, wakai hito o chuushin ni okonaimashita.",
+     "ta": "இந்த முறை ஆய்வை முக்கியமாக இளைஞர்களிடம் நடத்தினோம்.",
+     "en": "This survey was done mainly with young people."
+    },
+    {
+     "ja": "地球は、太陽を中心にして回っています。",
+     "reading": "ちきゅうは、たいようを ちゅうしんに して まわって います。",
+     "romaji": "chikyuu wa, taiyou o chuushin ni shite mawatte imasu.",
+     "ta": "பூமி சூரியனை மையமாகக் கொண்டு சுற்றுகிறது.",
+     "en": "The earth goes around the sun."
+    },
+    {
+     "ja": "兄は、化学を中心に勉強しています。",
+     "reading": "あには、かがくを ちゅうしんに べんきょう して います。",
+     "romaji": "ani wa, kagaku o chuushin ni benkyou shite imasu.",
+     "ta": "என் அண்ணன் முக்கியமாக வேதியியல் படிக்கிறார்.",
+     "en": "My older brother studies mainly chemistry."
+    },
+    {
+     "ja": "南インドを中心に、大雨が降っています。",
+     "reading": "みなみ インドを ちゅうしんに、おおあめが ふって います。",
+     "romaji": "minami indo o chuushin ni, ooame ga futte imasu.",
+     "ta": "தென்னிந்தியாவை மையமாகக் கொண்டு கனமழை பெய்து வருகிறது.",
+     "en": "Heavy rain is falling, mainly in South India."
+    },
+    {
+     "ja": "田中さんを中心にしたグループで、実験を進めています。",
+     "reading": "たなかさんを ちゅうしんに した グループで、じっけんを すすめて います。",
+     "romaji": "tanaka-san o chuushin ni shita guruupu de, jikken o susumete imasu.",
+     "ta": "தனகா அவர்களை மையமாகக் கொண்ட குழு சோதனையை நடத்தி வருகிறது.",
+     "en": "A group led by Ms Tanaka is carrying out the experiment."
+    }
+   ],
+   "pitfalls_en": "を中心に means \"mainly\", not \"only\". If only young people answered, say 若い人だけに. Also keep the particle を: 駅の中心に means \"in the middle of the station\".",
+   "pitfalls_ta": "を中心に என்றால் 'முக்கியமாக'; 'மட்டும்' அல்ல. இளைஞர்கள் மட்டும் என்றால் 若い人だけに. துகள் を-வை மறக்க வேண்டாம்: 駅の中心に என்றால் 'நிலையத்தின் நடுவில்' என்று பொருள் மாறிவிடும்."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0016",
+  "n3-v-0017",
+  "n3-v-0053",
+  "n3-v-0143",
+  "n3-v-0211",
+  "n3-v-0242",
+  "n3-v-0291",
+  "n3-v-0403",
+  "n3-v-0434",
+  "n3-v-0445",
+  "n3-v-0469",
+  "n3-v-0501",
+  "n3-v-0532",
+  "n3-v-0535",
+  "n3-v-0536",
+  "n3-v-0574",
+  "n3-v-0610",
+  "n3-v-0612",
+  "n3-v-0666",
+  "n3-v-0671",
+  "n3-v-0680",
+  "n3-v-0689",
+  "n3-v-0699",
+  "n3-v-0710",
+  "n3-v-0724",
+  "n3-v-0739",
+  "n3-v-0842",
+  "n3-v-0862",
+  "n3-v-0879",
+  "n3-v-0995",
+  "n3-v-1076",
+  "n3-v-1079",
+  "n3-v-1090",
+  "n3-v-1106",
+  "n3-v-1131",
+  "n3-v-1141",
+  "n3-v-1152",
+  "n3-v-1166",
+  "n3-v-1188",
+  "n3-v-1212",
+  "n3-v-1312",
+  "n3-v-1485",
+  "n3-v-1649",
+  "n3-v-1650",
+  "n3-v-1737",
+  "n3-v-1750",
+  "n3-v-1751",
+  "n3-v-1774",
+  "n3-v-1801",
+  "n3-v-1839",
+  "n3-v-1890",
+  "n3-v-1891",
+  "n3-v-1894",
+  "n3-v-1899",
+  "n3-v-1911",
+  "n3-v-1913",
+  "n3-v-1915",
+  "n3-v-1967",
+  "n3-v-2002",
+  "n3-v-2007"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L37-q01",
+    "type": "kanji_reading",
+    "sentence": "大雨の ＿影響＿で、電車が 止まりました。",
+    "target": "影響",
+    "options": [
+     "えいこう",
+     "えいきょう",
+     "けいきょう",
+     "えいきょ"
+    ],
+    "answer": 1,
+    "explanation_ta": "影響 = えいきょう (தாக்கம்). 響 'きょう' என்று நீண்ட ஒலியுடன் படிக்கப்படும். えいきょ-வில் நீட்டல் இல்லை; えいこう தவறான வாசிப்பு.",
+    "explanation_en": "影響 is read えいきょう (influence, effect). 響 is きょう, with a long sound. えいきょ is missing the long sound. えいこう is wrong."
+   },
+   {
+    "id": "L37-q02",
+    "type": "kanji_reading",
+    "sentence": "アンケートの データを ＿分析＿して、レポートを 書きます。",
+    "target": "分析",
+    "options": [
+     "ぶんせき",
+     "ぶんさき",
+     "ふんせき",
+     "ぶんぜき"
+    ],
+    "answer": 0,
+    "explanation_ta": "分析 = ぶんせき (பகுப்பாய்வு). இங்கு 分 'ぶん' என்று படிக்கப்படும்; ふん நிமிடத்துக்கு (五分 போல). 析 = せき, ぜき அல்ல.",
+    "explanation_en": "分析 is read ぶんせき (analysis). Here 分 is ぶん. ふん is for minutes, as in 五分. 析 is せき, not ぜき."
+   },
+   {
+    "id": "L37-q03",
+    "type": "kanji_reading",
+    "sentence": "この クラスの テストの ＿平均＿は 七十点でした。",
+    "target": "平均",
+    "options": [
+     "へいぎん",
+     "ひょうきん",
+     "へいこう",
+     "へいきん"
+    ],
+    "answer": 3,
+    "explanation_ta": "平均 = へいきん (சராசரி). 均 'きん' — 'ぎん' அல்ல. 平 இங்கு へい என்று படிக்கப்படும்.",
+    "explanation_en": "平均 is read へいきん (average). 均 is きん, not ぎん. 平 is へい here. へいこう is another word."
+   },
+   {
+    "id": "L37-q04",
+    "type": "orthography",
+    "sentence": "理科の 時間に、水を 使った ＿じっけん＿を しました。",
+    "target": "じっけん",
+    "options": [
+     "実検",
+     "実険",
+     "実験",
+     "実剣"
+    ],
+    "answer": 2,
+    "explanation_ta": "じっけん = 実験 (சோதனை). 験 என்ற கான்ஜியில் 'குதிரை' (馬) பகுதி உள்ளது; 試験-இல் வரும் அதே கான்ஜி. 検, 険, 剣 ஒலியில் ஒத்தாலும் வேறு.",
+    "explanation_en": "じっけん is 実験 (experiment). 験 has the \"horse\" part (馬), like in 試験. 検, 険 and 剣 sound alike but are wrong."
+   },
+   {
+    "id": "L37-q05",
+    "type": "orthography",
+    "sentence": "大学で ＿うちゅう＿に ついて 研究したいです。",
+    "target": "うちゅう",
+    "options": [
+     "宇宙",
+     "宇宅",
+     "字宙",
+     "宇由"
+    ],
+    "answer": 0,
+    "explanation_ta": "うちゅう = 宇宙 (விண்வெளி). இரண்டு கான்ஜிக்கும் மேலே 'கூரை' (宀) உண்டு. 字 என்பது 'எழுத்து'; 宅 என்பது 'வீடு'.",
+    "explanation_en": "うちゅう is 宇宙 (space). Both kanji have the \"roof\" part on top. 字 means \"letter\"; 宅 means \"house\"."
+   },
+   {
+    "id": "L37-q06",
+    "type": "vocab_context",
+    "sentence": "この 薬は 頭痛に よく （　　）。",
+    "options": [
+     "治します",
+     "かかります",
+     "当たります",
+     "効きます"
+    ],
+    "answer": 3,
+    "explanation_ta": "மருந்து பலன் தருவது = 効く: 頭痛に効きます. 治します என்றால் 'குணப்படுத்துகிறேன்' — அதற்கு を வேண்டும் (頭痛を治す); に உடன் பொருந்தாது.",
+    "explanation_en": "Medicine \"works\" = 効く: 頭痛に効きます. 治します needs を (頭痛を治す) and a person doing it. It doesn’t fit with に here."
+   },
+   {
+    "id": "L37-q07",
+    "type": "vocab_context",
+    "sentence": "答えた 人の 八十（　　）が 「はい」を 選びました。",
+    "options": [
+     "プラス",
+     "ページ",
+     "パーセント",
+     "マイナス"
+    ],
+    "answer": 2,
+    "explanation_ta": "'பதில் அளித்தவர்களில் 80 சதவீதம்' = 八十パーセント. プラス, マイナス கூட்டல்/கழித்தல்; ページ பக்கம் — இங்குப் பொருந்தாது.",
+    "explanation_en": "\"80 percent of the people who answered\" = 八十パーセント. プラス and マイナス are plus and minus. ページ is a page."
+   },
+   {
+    "id": "L37-q08",
+    "type": "vocab_context",
+    "sentence": "レポートに 本の 文章を （　　）する ときは、本の 名前も 書いて ください。",
+    "options": [
+     "発見",
+     "観察",
+     "予測",
+     "引用"
+    ],
+    "answer": 3,
+    "explanation_ta": "வேறொருவரின் வாக்கியத்தை எடுத்துக் காட்டுவது = 引用 (மேற்கோள்). 発見 = கண்டுபிடிப்பு, 観察 = உற்றுநோக்கல், 予測 = முன்கணிப்பு.",
+    "explanation_en": "Using someone’s words in your report = 引用 (quotation). 発見 = discovery, 観察 = observation, 予測 = prediction."
+   },
+   {
+    "id": "L37-q09",
+    "type": "vocab_context",
+    "sentence": "期末試験の （　　）は、教科書の 1課から 5課までです。",
+    "options": [
+     "部分",
+     "範囲",
+     "間隔",
+     "要素"
+    ],
+    "answer": 1,
+    "explanation_ta": "தேர்வில் வரும் பாடப்பகுதி = 試験の範囲 (வரம்பு). 部分 = ஒரு பொருளின் ஒரு பகுதி; 'தேர்வின் வரம்பு' என்பதற்கு 範囲 தான் சரி. 間隔 = இடைவெளி.",
+    "explanation_en": "What an exam covers = 試験の範囲 (range). 部分 is a part of one thing, not the scope of a test. 間隔 is a gap."
+   },
+   {
+    "id": "L37-q10",
+    "type": "vocab_context",
+    "sentence": "実験の 結果を 見やすく するために、（　　）に まとめました。",
+    "options": [
+     "表",
+     "数",
+     "率",
+     "説"
+    ],
+    "answer": 0,
+    "explanation_ta": "முடிவுகளைப் பார்க்க எளிதாக அட்டவணையாகத் தொகுப்பது = 表にまとめる. 数 = எண்ணிக்கை, 率 = விகிதம், 説 = கோட்பாடு.",
+    "explanation_en": "To make results easy to read, you put them in a table: 表にまとめる. 数 = number, 率 = rate, 説 = theory."
+   },
+   {
+    "id": "L37-q11",
+    "type": "paraphrase",
+    "sentence": "ここから 空港まで ざっと 三十キロです。",
+    "options": [
+     "ここから 空港まで だいたい 三十キロです。",
+     "ここから 空港まで ちょうど 三十キロです。",
+     "ここから 空港まで 三十キロ 以上です。",
+     "ここから 空港まで 三十キロも ありません。"
+    ],
+    "answer": 0,
+    "explanation_ta": "ざっと = தோராயமாக = だいたい. ちょうど என்றால் 'சரியாக' — எதிர்ப்பொருள்.",
+    "explanation_en": "ざっと = roughly = だいたい. ちょうど means \"exactly\", the opposite idea."
+   },
+   {
+    "id": "L37-q12",
+    "type": "paraphrase",
+    "sentence": "子どもたちを 中心に アンケートを しました。",
+    "options": [
+     "子どもたちだけに アンケートを しました。",
+     "主に 子どもたちに アンケートを しました。",
+     "子どもたちが アンケートを 作りました。",
+     "子どもたちには アンケートを しませんでした。"
+    ],
+    "answer": 1,
+    "explanation_ta": "を中心に = 'முக்கியமாக' = 主に. மற்றவர்களும் இருக்கலாம்; ஆகவே だけ ('மட்டும்') பொருந்தாது.",
+    "explanation_en": "を中心に = \"mainly\" = 主に. Others may be included too, so だけ (\"only\") is wrong."
+   },
+   {
+    "id": "L37-q13",
+    "type": "usage",
+    "sentence": "及ぼす",
+    "options": [
+     "友だちに 誕生日の プレゼントを 及ぼしました。",
+     "毎朝 庭の 花に 水を 及ぼします。",
+     "先生が 学生に 宿題を 及ぼしました。",
+     "台風は 農業に 大きな 被害を 及ぼしました。"
+    ],
+    "answer": 3,
+    "explanation_ta": "及ぼす = (தாக்கம், சேதம்) ஏற்படுத்துவது; 影響を及ぼす, 被害を及ぼす என்றே வரும். பரிசு கொடுப்பது あげる, நீர் ஊற்றுவது やる, வீட்டுப்பாடம் தருவது 出す.",
+    "explanation_en": "及ぼす = to cause (an effect or damage): 影響を及ぼす, 被害を及ぼす. Giving a present is あげる. Watering is 水をやる. Setting homework is 宿題を出す."
+   },
+   {
+    "id": "L37-q14",
+    "type": "usage",
+    "sentence": "生じる",
+    "options": [
+     "去年、姉に 子どもが 生じました。",
+     "朝 六時に 生じて、ジョギングを します。",
+     "新しい 計画には、いくつか 問題が 生じました。",
+     "庭に きれいな 花が たくさん 生じました。"
+    ],
+    "answer": 2,
+    "explanation_ta": "生じる = (பிரச்சினை, மாற்றம்) ஏற்படுவது: 問題が生じる. குழந்தை பிறப்பது 生まれる, எழுவது 起きる, பூ பூப்பது 咲く.",
+    "explanation_en": "生じる = (a problem or change) arises: 問題が生じる. A baby is 生まれる. Getting up is 起きる. Flowers 咲く."
+   },
+   {
+    "id": "L37-q15",
+    "type": "grammar_form",
+    "sentence": "図書館で 日本の 歴史（　　）本を 探して います。",
+    "options": [
+     "に関して",
+     "に関する",
+     "をもとに",
+     "を中心に"
+    ],
+    "answer": 1,
+    "explanation_ta": "பின்னால் 本 என்ற பெயர்ச்சொல் வருவதால் に関する (தொடர்பான). に関して வினைக்கு முன் மட்டுமே வரும்; 'に関して本' தவறு.",
+    "explanation_en": "A noun (本) comes next, so use に関する. に関して goes before a verb, so に関して本 is wrong."
+   },
+   {
+    "id": "L37-q16",
+    "type": "grammar_form",
+    "sentence": "調査の 結果、好きな 食べ物は 年齢（　　）大きく 違う ことが 分かりました。",
+    "options": [
+     "に関する",
+     "をもとに",
+     "によって",
+     "に基づく"
+    ],
+    "answer": 2,
+    "explanation_ta": "'வயதைப் பொறுத்து வேறுபடுகிறது' = 年齢によって違う. 違う போன்ற 'மாறுபடுதல்' வினைகளுடன் によって வரும். に関する, に基づく பெயர்ச்சொல்லுக்கு முன் மட்டுமே.",
+    "explanation_en": "\"It differs depending on age\" = 年齢によって違う. によって goes with verbs like 違う. に関する and に基づく need a noun after them."
+   },
+   {
+    "id": "L37-q17",
+    "type": "grammar_form",
+    "sentence": "この 小説は、作者の 子どもの ころの 思い出（　　）書かれました。",
+    "options": [
+     "を中心に",
+     "に関して",
+     "によると",
+     "をもとにして"
+    ],
+    "answer": 3,
+    "explanation_ta": "நினைவுகளை மூலப்பொருளாக வைத்துப் புதிய படைப்பை எழுதுவது = 思い出をもとにして. によると = 'கூற்றுப்படி' (செய்தியின் மூலத்தைக் காட்டும்); இங்குப் பொருந்தாது.",
+    "explanation_en": "Memories used as material for a new story = 思い出をもとにして. によると means \"according to\" a source of news. It doesn’t fit."
+   },
+   {
+    "id": "L37-q18",
+    "type": "grammar_form",
+    "sentence": "会社の 規則（　　）、給料が 決められます。",
+    "options": [
+     "に基づいて",
+     "に対して",
+     "に関して",
+     "を中心に"
+    ],
+    "answer": 0,
+    "explanation_ta": "விதிகளைப் பின்பற்றி முடிவெடுப்பது = 規則に基づいて. に関して = 'குறித்து' — 'விதிகளைக் குறித்து சம்பளம் முடிவாகிறது' என்பது பொருளற்றது. に対して = 'நோக்கி / எதிராக'.",
+    "explanation_en": "Salaries are set by following the rules = 規則に基づいて. に関して (\"about the rules\") makes no sense here. に対して means \"toward\"."
+   },
+   {
+    "id": "L37-q19",
+    "type": "grammar_form",
+    "sentence": "地震（　　）被害は、思ったより 小さかったです。",
+    "options": [
+     "によって",
+     "による",
+     "に関して",
+     "をもとに"
+    ],
+    "answer": 1,
+    "explanation_ta": "பின்னால் 被害 என்ற பெயர்ச்சொல் வருவதால் による (நிலநடுக்கத்தால் ஏற்பட்ட சேதம்). によって வினைக்கு முன் வரும் வடிவம்.",
+    "explanation_en": "A noun (被害) comes next, so use による: damage from the earthquake. によって is the form before a verb."
+   },
+   {
+    "id": "L37-q20",
+    "type": "grammar_form",
+    "sentence": "この 町は、古い お寺（　　）発展して きました。",
+    "options": [
+     "に関して",
+     "によると",
+     "に基づく",
+     "を中心に"
+    ],
+    "answer": 3,
+    "explanation_ta": "'பழைய கோயிலை மையமாகக் கொண்டு ஊர் வளர்ந்தது' = お寺を中心に発展した. に基づく பின்னால் பெயர்ச்சொல் வேண்டும்; によると செய்தியின் மூலத்துக்கு.",
+    "explanation_en": "\"The town grew around an old temple\" = お寺を中心に発展した. に基づく needs a noun after it. によると is for a source of news."
+   },
+   {
+    "id": "L37-q21",
+    "type": "grammar_form",
+    "sentence": "この 図は、去年 集めた データ（　　）作りました。",
+    "options": [
+     "に関して",
+     "による",
+     "をもとに",
+     "を中心に"
+    ],
+    "answer": 2,
+    "explanation_ta": "தரவுகளை மூலப்பொருளாக வைத்து வரைபடம் தயாரித்தது = データをもとに作った. による பெயர்ச்சொல்லுக்கு முன் மட்டுமே; 'データに関して作った' என்பது 'தரவு குறித்து செய்தோம்' — பொருள் சரியில்லை.",
+    "explanation_en": "The data was the material for the diagram = データをもとに作った. による needs a noun after it. データに関して作った (\"made about the data\") is odd."
+   },
+   {
+    "id": "L37-q22",
+    "type": "sentence_order",
+    "before": "この 小説は",
+    "chunks": [
+     "実際に",
+     "あった",
+     "事件を",
+     "もとにして"
+    ],
+    "star": 2,
+    "after": "書かれました。",
+    "explanation_ta": "実際に (உண்மையில்) → あった (நடந்த) → 事件を (சம்பவத்தை) → もとにして (அடிப்படையாக வைத்து) 書かれました. ★ = 事件を.",
+    "explanation_en": "実際に (really) → あった (happened) → 事件を (the incident) → もとにして (based on) 書かれました. ★ = 事件を."
+   },
+   {
+    "id": "L37-q23",
+    "type": "sentence_order",
+    "before": "図書館で",
+    "chunks": [
+     "宇宙",
+     "に関する",
+     "本を",
+     "借りて"
+    ],
+    "star": 1,
+    "after": "きました。",
+    "explanation_ta": "宇宙 (விண்வெளி) → に関する (தொடர்பான) → 本を (புத்தகத்தை) → 借りて きました (இரவல் வாங்கி வந்தேன்). ★ = に関する.",
+    "explanation_en": "宇宙 (space) → に関する (about) → 本を (a book) → 借りて きました (I borrowed and came back). ★ = に関する."
+   },
+   {
+    "id": "L37-q24",
+    "type": "sentence_order",
+    "before": "調査の 結果、",
+    "chunks": [
+     "地域",
+     "によって",
+     "意見が",
+     "違う"
+    ],
+    "star": 2,
+    "after": "ことが 分かりました。",
+    "explanation_ta": "地域 (பகுதி) → によって (பொறுத்து) → 意見が (கருத்துகள்) → 違う (வேறுபடுகின்றன) ことが分かりました. ★ = 意見が.",
+    "explanation_en": "地域 (region) → によって (depending on) → 意見が (opinions) → 違う (differ) ことが分かりました. ★ = 意見が."
+   },
+   {
+    "id": "L37-q25",
+    "type": "passage_cloze",
+    "passage": "私たちの クラスでは、高校生の スマートフォンの 使い方［1］調査を 行いました。近くの 高校の 一年生［2］、百人に アンケートを お願いしました。そして、集まった 答え［3］、表と 図を 作りました。分析の 結果、一日に 使う 時間は 人［4］大きく 違う ことが 分かりました。平均は 約三時間で、主に 動画を 見たり、友だちと 連絡したり して いる そうです。",
+    "blanks": [
+     {
+      "options": [
+       "に関して",
+       "に関する",
+       "によって",
+       "をもとに"
+      ],
+      "answer": 1
+     },
+     {
+      "options": [
+       "を中心に",
+       "に関する",
+       "による",
+       "をもとに"
+      ],
+      "answer": 0
+     },
+     {
+      "options": [
+       "を中心に",
+       "に関する",
+       "をもとに",
+       "による"
+      ],
+      "answer": 2
+     },
+     {
+      "options": [
+       "による",
+       "に関して",
+       "をもとに",
+       "によって"
+      ],
+      "answer": 3
+     }
+    ],
+    "explanation_ta": "［1］ பின்னால் 調査 என்ற பெயர்ச்சொல் வருவதால் に関する (பயன்பாடு குறித்த ஆய்வு). ［2］ 'முக்கியமாக முதலாம் ஆண்டு மாணவர்கள்' = 一年生を中心に. ［3］ பதில்களை மூலப்பொருளாக வைத்து அட்டவணை தயாரித்தது = 答えをもとに. ［4］ 'ஆளுக்கு ஆள் வேறுபடும்' = 人によって違う; による பின்னால் பெயர்ச்சொல் வேண்டும்.",
+    "explanation_en": "[1] A noun (調査) comes next, so に関する. [2] \"Mainly first-year students\" = 一年生を中心に. [3] The answers were the material for the tables = 答えをもとに. [4] \"It differs from person to person\" = 人によって違う. による needs a noun after it."
+   }
+  ]
+ }
+}

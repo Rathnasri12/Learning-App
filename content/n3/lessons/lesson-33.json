@@ -1,0 +1,768 @@
+{
+  "lesson": 33,
+  "title": {
+    "ja": "子ども向けの商品",
+    "ta": "குழந்தைகளுக்கான பொருட்கள்",
+    "en": "Products made for children"
+  },
+  "intro_en": "This lesson is about products and design. You learn to say who a product is made for (N向け). You learn to say what or who something suits well (N向き). You learn V-ますづらい, \"hard to …\", when something feels uncomfortable to do. You learn to make nouns from adjectives with み, like 重み and 楽しみ. Last, you learn to compare things with Nに比べて.",
+  "intro_ta": "இந்தப் பாடம் பொருட்கள், வடிவமைப்பு பற்றியது. ஒரு பொருள் யாருக்காகத் தயாரிக்கப்பட்டது என்று சொல்ல N向け, எதற்கு / யாருக்குப் பொருத்தமானது என்று சொல்ல N向き கற்போம். ஏதாவது செய்வது சிரமமாக, அசௌகரியமாக இருக்கும்போது சொல்லும் V-ますづらい ('செய்யக் கடினம்') கற்போம். 重み, 楽しみ போல, பெயரடையிலிருந்து み சேர்த்துப் பெயர்ச்சொல் உருவாக்குவதையும், Nに比べて கொண்டு ஒப்பிடுவதையும் கற்போம்.",
+  "grammar": [
+    {
+      "id": "g33-1",
+      "pattern": "N 向け",
+      "name": {
+        "en": "Made for / aimed at N",
+        "ta": "N-க்காகத் தயாரிக்கப்பட்ட"
+      },
+      "explanation_en": "向け means \"made for, aimed at\". The maker had this group in mind. 子ども向けの本 = a book made for children. 外国人向けのガイド = a guide for foreigners. Use Nの before a noun: 初心者向けのコース. Use に before a verb: 子ども向けに作られた. At the end: 〜向けだ. It is about the plan of the maker. Compare with 向き (next point). 向き is about being suitable, even if nobody planned it.",
+      "explanation_ta": "向け = 'N-க்காகவே தயாரிக்கப்பட்ட, N-ஐ இலக்காகக் கொண்ட'. தயாரிப்பவர் அந்தக் குழுவை மனதில் வைத்துச் செய்தது. 子ども向けの本 = குழந்தைகளுக்கான புத்தகம்; 外国人向けのガイド = வெளிநாட்டவருக்கான வழிகாட்டி. பெயர்ச்சொல்லுக்கு முன் 〜向けの, வினைக்கு முன் 〜向けに (子ども向けに作られた), இறுதியில் 〜向けだ. இது தயாரிப்பவரின் நோக்கத்தைச் சொல்லும். அடுத்து வரும் 向き 'பொருத்தமாக இருப்பது' — யாரும் திட்டமிடாவிட்டாலும் கூட.",
+      "tamil_parallel": "குழந்தைகளுக்கான (குழந்தைகளுக்கென்றே செய்த) புத்தகம் = 子ども向けの本",
+      "tamil_parallel_en": "குழந்தைகளுக்கான புத்தகம் (a book made for children) = 子ども向けの本",
+      "formation": "பெயர்ச்சொல் + 向けの + பெயர்ச்சொல் (子ども向けの本)\nபெயர்ச்சொல் + 向けに + வினை (外国人向けに作る)\nபெயர்ச்சொல் + 向けだ / 向けです",
+      "formation_en": "noun + 向けの + noun (子ども向けの本)\nnoun + 向けに + verb (外国人向けに作る)\nnoun + 向けだ / 向けです",
+      "examples": [
+        {
+          "ja": "これは、小学生向けの科学の本です。",
+          "reading": "これは、しょうがくせい むけの かがくの ほんです。",
+          "romaji": "kore wa, shougakusei muke no kagaku no hon desu.",
+          "ta": "இது தொடக்கப்பள்ளி மாணவர்களுக்கான அறிவியல் நூல்.",
+          "en": "This is a science book for primary school children."
+        },
+        {
+          "ja": "駅で、外国人向けの無料の地図をもらいました。",
+          "reading": "えきで、がいこくじん むけの むりょうの ちずを もらいました。",
+          "romaji": "eki de, gaikokujin muke no muryou no chizu o moraimashita.",
+          "ta": "ரயில் நிலையத்தில் வெளிநாட்டவர்களுக்கான இலவச வரைபடம் கிடைத்தது.",
+          "en": "At the station I got a free map made for foreigners."
+        },
+        {
+          "ja": "このスマホは、お年寄り向けに作られています。",
+          "reading": "この すまほは、おとしより むけに つくられて います。",
+          "romaji": "kono sumaho wa, otoshiyori muke ni tsukurarete imasu.",
+          "ta": "இந்த ஸ்மார்ட்போன் முதியவர்களுக்காகவே தயாரிக்கப்பட்டது.",
+          "en": "This smartphone is made for elderly people."
+        },
+        {
+          "ja": "この会社は、海外向けの製品を多く製造している。",
+          "reading": "この かいしゃは、かいがい むけの せいひんを おおく せいぞう して いる。",
+          "romaji": "kono kaisha wa, kaigai muke no seihin o ooku seizou shite iru.",
+          "ta": "இந்த நிறுவனம் வெளிநாட்டுச் சந்தைக்கான தயாரிப்புகளை அதிகம் உற்பத்தி செய்கிறது.",
+          "en": "This company makes many products for overseas markets."
+        },
+        {
+          "ja": "この番組は子ども向けですが、大人が見てもおもしろい。",
+          "reading": "この ばんぐみは こども むけですが、おとなが みても おもしろい。",
+          "romaji": "kono bangumi wa kodomo muke desu ga, otona ga mitemo omoshiroi.",
+          "ta": "இந்த நிகழ்ச்சி குழந்தைகளுக்கானது; ஆனால் பெரியவர்கள் பார்த்தாலும் சுவாரசியமாக இருக்கும்.",
+          "en": "This programme is for children, but it’s fun for adults too."
+        },
+        {
+          "ja": "初心者向けのヨガ教室はありませんか。",
+          "reading": "しょしんしゃ むけの よが きょうしつは ありませんか。",
+          "romaji": "shoshinsha muke no yoga kyoushitsu wa arimasen ka.",
+          "ta": "தொடக்க நிலையினருக்கான யோகா வகுப்பு ஏதாவது இருக்கிறதா?",
+          "en": "Is there a yoga class for beginners?"
+        }
+      ],
+      "pitfalls_en": "Don’t forget の before a noun: 子ども向け本 is wrong. Also 向け is not a verb here. Lesson 18’s Nに向けて means \"toward a goal\" (試験に向けて). That is different.",
+      "pitfalls_ta": "பெயர்ச்சொல்லுக்கு முன் の வேண்டும்: 子ども向け本 தவறு; 子ども向けの本 சரி. பாடம் 18-இன் Nに向けて 'ஓர் இலக்கை நோக்கி' (試験に向けて) என்ற வேறு பொருள்; குழப்ப வேண்டாம்."
+    },
+    {
+      "id": "g33-2",
+      "pattern": "N 向き",
+      "name": {
+        "en": "Suited to N",
+        "ta": "N-க்குப் பொருத்தமான"
+      },
+      "explanation_en": "向き means \"good for, suited to\". It says the thing fits that person or use well. Maybe nobody planned it. この料理は辛くないので、子ども向きだ = This dish isn’t spicy, so it suits children. The negative is common: 初心者向きではない = not suitable for beginners. Use Nの before a noun: 若者向きの服. 向き also means \"facing\": 南向きの部屋 = a room facing south. The verb is 向く: 彼は先生に向いている = He is suited to being a teacher.",
+      "explanation_ta": "向き = 'N-க்குப் பொருத்தமான, ஏற்ற'. அந்த ஆளுக்கோ பயன்பாட்டுக்கோ இயல்பாகப் பொருந்துகிறது என்று சொல்லும்; யாரும் திட்டமிட்டுச் செய்திருக்க வேண்டியதில்லை. この料理は辛くないので、子ども向きだ = இந்த உணவு காரமில்லாததால் குழந்தைகளுக்கு ஏற்றது. மறுப்பு வடிவம் அடிக்கடி வரும்: 初心者向きではない = தொடக்க நிலையினருக்கு ஏற்றதல்ல. பெயர்ச்சொல்லுக்கு முன் 〜向きの. 向き 'திசை நோக்கிய' என்றும் பொருள்படும்: 南向きの部屋 = தெற்கு நோக்கிய அறை. வினை வடிவம் 向く: 彼は先生に向いている = அவர் ஆசிரியர் பணிக்கு ஏற்றவர்.",
+      "tamil_parallel": "இந்த மலைப்பாதை தொடக்க நிலையினருக்கு ஏற்றதல்ல = この山道は初心者向きではない",
+      "tamil_parallel_en": "இந்த மலைப்பாதை தொடக்க நிலையினருக்கு ஏற்றதல்ல (This trail isn’t suited to beginners) = この山道は初心者向きではない",
+      "formation": "பெயர்ச்சொல் + 向きの + பெயர்ச்சொல் (若者向きの服)\nபெயர்ச்சொல் + 向きだ / 向きではない\nதிசை: 南向き / 北向き\nவினை: Nに 向いている",
+      "formation_en": "noun + 向きの + noun (若者向きの服)\nnoun + 向きだ / 向きではない\ndirection: 南向き / 北向き\nverb: Nに 向いている",
+      "examples": [
+        {
+          "ja": "この料理は辛くないので、子ども向きです。",
+          "reading": "この りょうりは からく ないので、こども むきです。",
+          "romaji": "kono ryouri wa karaku nai node, kodomo muki desu.",
+          "ta": "இந்த உணவு காரமில்லாததால் குழந்தைகளுக்கு ஏற்றது.",
+          "en": "This dish isn’t spicy, so it suits children."
+        },
+        {
+          "ja": "この山道は急なので、初心者向きではありません。",
+          "reading": "この やまみちは きゅうなので、しょしんしゃ むきでは ありません。",
+          "romaji": "kono yamamichi wa kyuu na node, shoshinsha muki de wa arimasen.",
+          "ta": "இந்த மலைப்பாதை செங்குத்தானதால் தொடக்க நிலையினருக்கு ஏற்றதல்ல.",
+          "en": "This mountain path is steep, so it isn’t for beginners."
+        },
+        {
+          "ja": "南向きの部屋は、冬でも明るくて暖かい。",
+          "reading": "みなみ むきの へやは、ふゆでも あかるくて あたたかい。",
+          "romaji": "minami muki no heya wa, fuyu demo akarukute atatakai.",
+          "ta": "தெற்கு நோக்கிய அறை குளிர்காலத்திலும் வெளிச்சமாகவும் வெதுவெதுப்பாகவும் இருக்கும்.",
+          "en": "A south-facing room is bright and warm even in winter."
+        },
+        {
+          "ja": "このかばんは軽くて丈夫なので、旅行向きだ。",
+          "reading": "この かばんは かるくて じょうぶなので、りょこう むきだ。",
+          "romaji": "kono kaban wa karukute joubu na node, ryokou muki da.",
+          "ta": "இந்தப் பை லேசாகவும் உறுதியாகவும் இருப்பதால் பயணத்துக்கு ஏற்றது.",
+          "en": "This bag is light and strong, so it’s good for travel."
+        },
+        {
+          "ja": "人と話すのが好きな姉は、営業の仕事に向いている。",
+          "reading": "ひとと はなすのが すきな あねは、えいぎょうの しごとに むいて いる。",
+          "romaji": "hito to hanasu no ga suki na ane wa, eigyou no shigoto ni muite iru.",
+          "ta": "மக்களுடன் பேசப் பிடிக்கும் அக்கா விற்பனைப் பணிக்கு ஏற்றவர்.",
+          "en": "My sister loves talking to people, so she suits sales work."
+        },
+        {
+          "ja": "この映画は、どちらかというと大人向きだと思う。",
+          "reading": "この えいがは、どちらかと いうと おとな むきだと おもう。",
+          "romaji": "kono eiga wa, dochira ka to iu to otona muki da to omou.",
+          "ta": "இந்தப் படம் பெரும்பாலும் பெரியவர்களுக்கே ஏற்றது என்று நினைக்கிறேன்.",
+          "en": "I think this film is more suited to adults."
+        }
+      ],
+      "pitfalls_en": "向け = the maker’s target. 向き = a good fit. A children’s book is 子ども向けの本 (made for them). A mild dish that children happen to like is 子ども向きの料理. For a person’s talent, use the verb: 先生に向いている, not 先生向きだ.",
+      "pitfalls_ta": "向け = தயாரிப்பவரின் இலக்கு; 向き = இயல்பான பொருத்தம். குழந்தைகளுக்கென்றே எழுதிய நூல் 子ども向けの本; காரமில்லாத, குழந்தைகளுக்கு ஏற்ற உணவு 子ども向きの料理. ஒருவரின் திறமையைச் சொல்ல வினை வடிவம்: 先生に向いている (先生向きだ என்பது இயல்பற்றது)."
+    },
+    {
+      "id": "g33-3",
+      "pattern": "V-ます づらい",
+      "name": {
+        "en": "Hard to ~ (uncomfortable)",
+        "ta": "~ செய்யச் சிரமம்"
+      },
+      "explanation_en": "Take the ます-stem of a verb and add づらい. It means \"hard to do, and it feels bad or uncomfortable\". 読みづらい = hard to read (it hurts my eyes). 言いづらい = hard to say (I feel bad). It is about the feeling of the person doing it. Compare with にくい (N4). にくい is more neutral: 壊れにくい = hard to break. For things that happen by themselves, use にくい, not づらい. It works like an い-adjective: 読みづらくて, 読みづらかった.",
+      "explanation_ta": "வினையின் ます-அடியுடன் づらい சேர்த்தால் 'செய்வது கடினம், செய்யும்போது அசௌகரியமாக / மனதுக்குச் சங்கடமாக இருக்கிறது' என்று பொருள். 読みづらい = படிக்கச் சிரமம் (கண் வலிக்கிறது); 言いづらい = சொல்லச் சங்கடம். இது செய்பவரின் உணர்வைக் காட்டும். N4-இன் にくい பொதுவான, புறநிலை 'கடினம்': 壊れにくい = எளிதில் உடையாது. தானாக நடக்கும் செயல்களுக்கு にくい தான்; づらい வராது. い-பெயரடை போல மாறும்: 読みづらくて, 読みづらかった.",
+      "tamil_parallel": "இந்த எழுத்து சின்னதாக இருப்பதால் படிக்கச் சிரமமாக இருக்கிறது = この字は小さくて読みづらい",
+      "tamil_parallel_en": "இந்த எழுத்து சின்னதாக இருப்பதால் படிக்கச் சிரமமாக இருக்கிறது (This print is small and hard to read) = この字は小さくて読みづらい",
+      "formation": "வினை ます-அடி + づらい (読みます → 読みづらい)\nい-பெயரடை போல: 〜づらくて / 〜づらかった / 〜づらくない\nஒப்பிடுக: 〜にくい (புறநிலை), 〜やすい (எளிது)",
+      "formation_en": "verb ます-stem + づらい (読みます → 読みづらい)\nworks like an い-adjective: 〜づらくて / 〜づらかった / 〜づらくない\ncompare: 〜にくい (neutral), 〜やすい (easy)",
+      "examples": [
+        {
+          "ja": "この説明書は字が小さくて、読みづらい。",
+          "reading": "この せつめいしょは じが ちいさくて、よみづらい。",
+          "romaji": "kono setsumeisho wa ji ga chiisakute, yomizurai.",
+          "ta": "இந்தக் கையேட்டில் எழுத்துகள் சிறியவை; படிக்கச் சிரமமாக இருக்கிறது.",
+          "en": "The print in this manual is small and hard to read."
+        },
+        {
+          "ja": "新しい靴はまだ硬くて、歩きづらいです。",
+          "reading": "あたらしい くつは まだ かたくて、あるきづらいです。",
+          "romaji": "atarashii kutsu wa mada katakute, arukizurai desu.",
+          "ta": "புதிய காலணி இன்னும் கடினமாக இருப்பதால் நடக்கச் சிரமமாக இருக்கிறது.",
+          "en": "My new shoes are still stiff and hard to walk in."
+        },
+        {
+          "ja": "先生には、宿題を忘れたとは言いづらい。",
+          "reading": "せんせいには、しゅくだいを わすれたとは いいづらい。",
+          "romaji": "sensei ni wa, shukudai o wasureta to wa iizurai.",
+          "ta": "வீட்டுப்பாடத்தை மறந்துவிட்டேன் என்று ஆசிரியரிடம் சொல்லச் சங்கடமாக இருக்கிறது.",
+          "en": "It’s hard to tell the teacher I forgot my homework."
+        },
+        {
+          "ja": "このコップは縁が厚くて、少し飲みづらい。",
+          "reading": "この こっぷは ふちが あつくて、すこし のみづらい。",
+          "romaji": "kono koppu wa fuchi ga atsukute, sukoshi nomizurai.",
+          "ta": "இந்த டம்ளரின் விளிம்பு தடிமனாக இருப்பதால் குடிக்கக் கொஞ்சம் சிரமமாக இருக்கிறது.",
+          "en": "This cup has a thick rim, so it’s a bit hard to drink from."
+        },
+        {
+          "ja": "部屋が暗くて、とても仕事がしづらかった。",
+          "reading": "へやが くらくて、とても しごとが しづらかった。",
+          "romaji": "heya ga kurakute, totemo shigoto ga shizurakatta.",
+          "ta": "அறை இருட்டாக இருந்ததால் வேலை செய்ய மிகவும் சிரமமாக இருந்தது.",
+          "en": "The room was dark, so it was very hard to work."
+        },
+        {
+          "ja": "このはさみは、左手では使いづらくないですか。",
+          "reading": "この はさみは、ひだりてでは つかいづらく ないですか。",
+          "romaji": "kono hasami wa, hidarite de wa tsukaizuraku nai desu ka.",
+          "ta": "இந்தக் கத்தரிக்கோலை இடது கையால் பயன்படுத்தச் சிரமமாக இல்லையா?",
+          "en": "Isn’t this pair of scissors hard to use with your left hand?"
+        }
+      ],
+      "pitfalls_en": "Use the ます-stem, not the dictionary form: 読むづらい is wrong. Don’t use づらい for things without feelings: この皿は割れづらい sounds odd. Say 割れにくい.",
+      "pitfalls_ta": "அகராதி வடிவம் வராது; ます-அடி தான்: 読むづらい தவறு, 読みづらい சரி. உணர்வில்லாத பொருட்களின் தன்மைக்கு づらい வராது: この皿は割れづらい இயல்பற்றது; 割れにくい என்று சொல்லுங்கள்."
+    },
+    {
+      "id": "g33-4",
+      "pattern": "Adj-stem み",
+      "name": {
+        "en": "Noun from adjective (重み, 楽しみ, 甘み)",
+        "ta": "பெயரடையிலிருந்து பெயர்ச்சொல் (重み, 楽しみ, 甘み)"
+      },
+      "explanation_en": "Drop い from an い-adjective and add み. It makes a noun. 重い → 重み, 甘い → 甘み, 痛い → 痛み, 楽しい → 楽しみ. You know さ makes nouns too: 重さ. さ is a size you can measure: 重さは5キロ (the weight is 5 kg). み is a quality you feel: 甘み (a sweet taste), 重み (a sense of weight, importance). Only some words take み. Common ones: 甘み, 苦み, 痛み, 重み, 厚み, 深み, 強み, 弱み, 楽しみ, 悲しみ. 楽しみにする means \"look forward to\".",
+      "explanation_ta": "い-பெயரடையின் い-வை நீக்கி み சேர்த்தால் பெயர்ச்சொல் உருவாகும்: 重い → 重み, 甘い → 甘み, 痛い → 痛み, 楽しい → 楽しみ. さ சேர்த்தும் பெயர்ச்சொல் உருவாக்கலாம் (重さ) என்று தெரியும். さ அளக்கக்கூடிய அளவு: 重さは5キロ (எடை 5 கிலோ). み உணரப்படும் தன்மை: 甘み (இனிப்புச் சுவை), 重み (கனம், முக்கியத்துவம் என்ற உணர்வு). சில சொற்களுக்கு மட்டுமே み வரும்: 甘み, 苦み, 痛み, 重み, 厚み, 深み, 強み, 弱み, 楽しみ, 悲しみ. 楽しみにする = ஆவலுடன் எதிர்பார்ப்பது.",
+      "tamil_parallel": "இந்த மாம்பழத்தில் இயல்பான இனிப்பு இருக்கிறது = このマンゴーには自然な甘みがある",
+      "tamil_parallel_en": "இந்த மாம்பழத்தில் இயல்பான இனிப்பு இருக்கிறது (This mango has a natural sweetness) = このマンゴーには自然な甘みがある",
+      "formation": "い-பெயரடை − い + み (甘い → 甘み)\nஒப்பிடுக: − い + さ (அளவு: 甘さ, 重さ)\n楽しみ に する = ஆவலுடன் எதிர்பார்க்க",
+      "formation_en": "い-adjective − い + み (甘い → 甘み)\ncompare: − い + さ (amount: 甘さ, 重さ)\n楽しみ に する = look forward to",
+      "examples": [
+        {
+          "ja": "このマンゴーには、自然な甘みがあります。",
+          "reading": "この まんごーには、しぜんな あまみが あります。",
+          "romaji": "kono mangoo ni wa, shizen na amami ga arimasu.",
+          "ta": "இந்த மாம்பழத்தில் இயல்பான இனிப்புச் சுவை இருக்கிறது.",
+          "en": "This mango has a natural sweetness."
+        },
+        {
+          "ja": "来月の旅行を、とても楽しみにしています。",
+          "reading": "らいげつの りょこうを、とても たのしみに して います。",
+          "romaji": "raigetsu no ryokou o, totemo tanoshimi ni shite imasu.",
+          "ta": "அடுத்த மாதப் பயணத்தை மிகவும் ஆவலுடன் எதிர்பார்க்கிறேன்.",
+          "en": "I’m really looking forward to next month’s trip."
+        },
+        {
+          "ja": "薬を飲んだら、足の痛みがなくなった。",
+          "reading": "くすりを のんだら、あしの いたみが なくなった。",
+          "romaji": "kusuri o nondara, ashi no itami ga nakunatta.",
+          "ta": "மருந்து சாப்பிட்டதும் கால் வலி போய்விட்டது.",
+          "en": "After I took the medicine, the pain in my leg went away."
+        },
+        {
+          "ja": "この木の机は、厚みがあって丈夫だ。",
+          "reading": "この きの つくえは、あつみが あって じょうぶだ。",
+          "romaji": "kono ki no tsukue wa, atsumi ga atte joubu da.",
+          "ta": "இந்த மர மேசை தடிமனாக இருப்பதால் உறுதியாக இருக்கிறது.",
+          "en": "This wooden desk has good thickness and is strong."
+        },
+        {
+          "ja": "この製品の強みは、軽くて壊れにくいことです。",
+          "reading": "この せいひんの つよみは、かるくて こわれにくい ことです。",
+          "romaji": "kono seihin no tsuyomi wa, karukute kowarenikui koto desu.",
+          "ta": "இந்தத் தயாரிப்பின் பலம், அது லேசானது, எளிதில் உடையாதது.",
+          "en": "This product’s strength is that it’s light and hard to break."
+        },
+        {
+          "ja": "社長の言葉には、重みがある。",
+          "reading": "しゃちょうの ことばには、おもみが ある。",
+          "romaji": "shachou no kotoba ni wa, omomi ga aru.",
+          "ta": "நிறுவனத் தலைவரின் சொற்களுக்கு ஒரு கனம் (மதிப்பு) இருக்கிறது.",
+          "en": "The company president’s words carry weight."
+        }
+      ],
+      "pitfalls_en": "Not every adjective takes み. 安み is wrong; say 安さ. For a number, use さ: 重さは3キロ, not 重みは3キロ. 楽しみ is also used alone: 楽しみです! (I can’t wait!)",
+      "pitfalls_ta": "எல்லாப் பெயரடைகளுக்கும் み வராது; 安み தவறு; 安さ என்று さ பயன்படுத்துங்கள். எண்ணால் அளக்கும்போது さ: 重さは3キロ சரி, 重みは3キロ தவறு. 楽しみです! ('ஆவலாக இருக்கிறது!') என்று தனியாகவும் வரும்."
+    },
+    {
+      "id": "g33-5",
+      "pattern": "N に 比べて / N に 比べると",
+      "name": {
+        "en": "Compared with N",
+        "ta": "N-உடன் ஒப்பிடும்போது"
+      },
+      "explanation_en": "比べる means \"to compare\". Nに比べて and Nに比べると mean \"compared with N\". Then say how the other thing is. 去年に比べて、今年は暑い = Compared with last year, this year is hot. You can also say Nと比べて. It is like より (N5), but a bit more formal. It is common in reports and product talk. Polite writing: Nに比べ. It often goes with ずっと (much), 少し (a little) or あまり〜ない (not very).",
+      "explanation_ta": "比べる = ஒப்பிடுவது. Nに比べて / Nに比べると = 'N-உடன் ஒப்பிடும்போது'. பின்னர் மற்றொன்றின் நிலையைச் சொல்ல வேண்டும். 去年に比べて、今年は暑い = கடந்த ஆண்டுடன் ஒப்பிடும்போது இந்த ஆண்டு வெப்பம் அதிகம். Nと比べて என்றும் சொல்லலாம். N5-இல் கற்ற より போன்ற பொருள்; ஆனால் சற்று முறையானது. அறிக்கைகளிலும் பொருட்களை ஒப்பிடும் பேச்சிலும் அதிகம் வரும். எழுத்து நடையில் Nに比べ. பெரும்பாலும் ずっと, 少し, あまり போன்ற அளவுச் சொற்களுடன் வரும். தமிழில் 'ஐ விட', 'உடன் ஒப்பிட்டால்' என்பதற்குச் சமம்.",
+      "tamil_parallel": "சென்னையுடன் ஒப்பிட்டால் ஊட்டி மிகவும் குளிர் = チェンナイに比べると、ウーティはずっと寒い",
+      "tamil_parallel_en": "சென்னையுடன் ஒப்பிட்டால் ஊட்டி மிகவும் குளிர் (Compared with Chennai, Ooty is much colder) = チェンナイに比べると、ウーティはずっと寒い",
+      "formation": "பெயர்ச்சொல் + に比べて、〜\nபெயர்ச்சொல் + に比べると、〜\n(பெயர்ச்சொல் + と比べて / எழுத்து: に比べ)\nவினை: V-る + のに比べて",
+      "formation_en": "noun + に比べて、〜\nnoun + に比べると、〜\n(noun + と比べて / written: に比べ)\nverb: V-る + のに比べて",
+      "examples": [
+        {
+          "ja": "去年に比べて、今年は雨が少ない。",
+          "reading": "きょねんに くらべて、ことしは あめが すくない。",
+          "romaji": "kyonen ni kurabete, kotoshi wa ame ga sukunai.",
+          "ta": "கடந்த ஆண்டுடன் ஒப்பிடும்போது இந்த ஆண்டு மழை குறைவு.",
+          "en": "Compared with last year, there is less rain this year."
+        },
+        {
+          "ja": "チェンナイに比べると、ウーティはずっと涼しい。",
+          "reading": "ちぇんないに くらべると、うーてぃは ずっと すずしい。",
+          "romaji": "chennai ni kuraberu to, uuti wa zutto suzushii.",
+          "ta": "சென்னையுடன் ஒப்பிட்டால் ஊட்டி மிகவும் குளிர்ச்சியானது.",
+          "en": "Compared with Chennai, Ooty is much cooler."
+        },
+        {
+          "ja": "新しい製品は、前の型に比べて、ずっと軽くなりました。",
+          "reading": "あたらしい せいひんは、まえの かたに くらべて、ずっと かるく なりました。",
+          "romaji": "atarashii seihin wa, mae no kata ni kurabete, zutto karuku narimashita.",
+          "ta": "புதிய தயாரிப்பு, பழைய மாதிரியுடன் ஒப்பிடும்போது மிகவும் லேசாகிவிட்டது.",
+          "en": "The new product is much lighter than the old model."
+        },
+        {
+          "ja": "鉄に比べると、プラスチックは軽いが、弱い。",
+          "reading": "てつに くらべると、ぷらすちっくは かるいが、よわい。",
+          "romaji": "tetsu ni kuraberu to, purasuchikku wa karui ga, yowai.",
+          "ta": "இரும்புடன் ஒப்பிட்டால் பிளாஸ்டிக் லேசானது, ஆனால் வலுக் குறைந்தது.",
+          "en": "Compared with iron, plastic is light but weak."
+        },
+        {
+          "ja": "姉に比べて、私はあまり料理が上手ではありません。",
+          "reading": "あねに くらべて、わたしは あまり りょうりが じょうずでは ありません。",
+          "romaji": "ane ni kurabete, watashi wa amari ryouri ga jouzu de wa arimasen.",
+          "ta": "அக்காவுடன் ஒப்பிடும்போது எனக்குச் சமையல் அவ்வளவாக வராது.",
+          "en": "Compared with my sister, I’m not very good at cooking."
+        },
+        {
+          "ja": "電車で行くのに比べて、バスは時間がかかりますか。",
+          "reading": "でんしゃで いくのに くらべて、ばすは じかんが かかりますか。",
+          "romaji": "densha de iku no ni kurabete, basu wa jikan ga kakarimasu ka.",
+          "ta": "ரயிலில் போவதுடன் ஒப்பிடும்போது பேருந்தில் அதிக நேரம் ஆகுமா?",
+          "en": "Does the bus take longer than going by train?"
+        }
+      ],
+      "pitfalls_en": "Don’t say Nを比べて for this meaning. Use に or と: 去年に比べて. Also, the thing after 比べて is the one you describe. 東京に比べて、大阪は安い = Osaka is cheaper.",
+      "pitfalls_ta": "இந்தப் பொருளில் Nを比べて தவறு; に அல்லது と தான்: 去年に比べて. 比べて-க்குப் பின் வருவதுதான் விவரிக்கப்படுவது: 東京に比べて、大阪は安い = ஒசாகா தான் மலிவு."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0023",
+    "n3-v-0121",
+    "n3-v-0126",
+    "n3-v-0237",
+    "n3-v-0251",
+    "n3-v-0274",
+    "n3-v-0281",
+    "n3-v-0381",
+    "n3-v-0395",
+    "n3-v-0479",
+    "n3-v-0569",
+    "n3-v-0613",
+    "n3-v-0615",
+    "n3-v-0616",
+    "n3-v-0636",
+    "n3-v-0694",
+    "n3-v-0715",
+    "n3-v-0720",
+    "n3-v-0735",
+    "n3-v-0767",
+    "n3-v-0773",
+    "n3-v-0782",
+    "n3-v-0785",
+    "n3-v-0791",
+    "n3-v-0816",
+    "n3-v-0875",
+    "n3-v-0908",
+    "n3-v-0934",
+    "n3-v-0958",
+    "n3-v-0984",
+    "n3-v-1004",
+    "n3-v-1005",
+    "n3-v-1030",
+    "n3-v-1124",
+    "n3-v-1151",
+    "n3-v-1236",
+    "n3-v-1247",
+    "n3-v-1271",
+    "n3-v-1274",
+    "n3-v-1334",
+    "n3-v-1382",
+    "n3-v-1550",
+    "n3-v-1557",
+    "n3-v-1565",
+    "n3-v-1575",
+    "n3-v-1601",
+    "n3-v-1673",
+    "n3-v-1743",
+    "n3-v-1800",
+    "n3-v-1812",
+    "n3-v-1836",
+    "n3-v-1853",
+    "n3-v-1884",
+    "n3-v-1900",
+    "n3-v-1928",
+    "n3-v-2019",
+    "n3-v-2037",
+    "n3-v-2069",
+    "n3-v-2076",
+    "n3-v-2139"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L33-q01",
+        "type": "kanji_reading",
+        "sentence": "この 会社の ＿製品＿は、とても 丈夫です。",
+        "target": "製品",
+        "options": [
+          "せいぴん",
+          "せいひん",
+          "せいしな",
+          "せいほん"
+        ],
+        "answer": 1,
+        "explanation_ta": "製品 = せいひん (தயாரிப்பு). 品 இங்கே ひん; 'ぴん' ஆகாது. しな (品物) தனிச்சொல்லில் வரும் வாசிப்பு.",
+        "explanation_en": "製品 is read せいひん (product). 品 is ひん here, not ぴん. しな is used in 品物."
+      },
+      {
+        "id": "L33-q02",
+        "type": "kanji_reading",
+        "sentence": "この いすは ＿金属＿で できて いるので、重い。",
+        "target": "金属",
+        "options": [
+          "きんぞく",
+          "きんしょく",
+          "かねぞく",
+          "きんそく"
+        ],
+        "answer": 0,
+        "explanation_ta": "金属 = きんぞく (உலோகம்). 属 = ぞく (濁音). かね என்பது 金 தனியாக வரும்போது.",
+        "explanation_en": "金属 is read きんぞく (metal). 属 is ぞく, with the voiced sound. かね is 金 used alone."
+      },
+      {
+        "id": "L33-q03",
+        "type": "kanji_reading",
+        "sentence": "二つの 店の 値段を ＿比較＿して みましょう。",
+        "target": "比較",
+        "options": [
+          "ひこう",
+          "ひか",
+          "ひきょう",
+          "ひかく"
+        ],
+        "answer": 3,
+        "explanation_ta": "比較 = ひかく (ஒப்பீடு). 較 = かく. ひこう (飛行 = பறத்தல்) வேறு சொல்.",
+        "explanation_en": "比較 is read ひかく (comparison). 較 = かく. ひこう (飛行, flying) is another word."
+      },
+      {
+        "id": "L33-q04",
+        "type": "orthography",
+        "sentence": "この 工場では、自転車を ＿せいぞう＿して います。",
+        "target": "せいぞう",
+        "options": [
+          "制造",
+          "製増",
+          "製造",
+          "製像"
+        ],
+        "answer": 2,
+        "explanation_ta": "せいぞう = 製造 (உற்பத்தி). 製 = தயாரி (製品), 造 = உருவாக்கு (造る). 制 (கட்டுப்பாடு), 増 (அதிகரி), 像 (உருவச்சிலை) தவறு.",
+        "explanation_en": "せいぞう is 製造 (manufacture). 製 = make (製品), 造 = build (造る). 制, 増 and 像 are wrong."
+      },
+      {
+        "id": "L33-q05",
+        "type": "orthography",
+        "sentence": "この カメラには、便利な ＿きのう＿が たくさん あります。",
+        "target": "きのう",
+        "options": [
+          "機脳",
+          "気能",
+          "器能",
+          "機能"
+        ],
+        "answer": 3,
+        "explanation_ta": "きのう = 機能 (செயல்பாடு). 機 = இயந்திரம், 能 = திறன். 'நேற்று' என்ற 昨日-உடன் குழப்ப வேண்டாம்.",
+        "explanation_en": "きのう here is 機能 (function). 機 = machine, 能 = ability. Don’t mix it up with 昨日 (yesterday)."
+      },
+      {
+        "id": "L33-q06",
+        "type": "vocab_context",
+        "sentence": "この ケーキは レモンが 入って いて、少し （　　）。",
+        "options": [
+          "すっぱい",
+          "鋭い",
+          "濃い",
+          "硬い"
+        ],
+        "answer": 0,
+        "explanation_ta": "எலுமிச்சை சேர்த்தால் புளிப்பு = すっぱい. 鋭い = கூர்மையான (கத்தி), 硬い = கடினமான — சுவைக்கு அல்ல.",
+        "explanation_en": "Lemon makes it sour: すっぱい. 鋭い = sharp (a knife). 硬い = hard. They are not tastes."
+      },
+      {
+        "id": "L33-q07",
+        "type": "vocab_context",
+        "sentence": "双子の 兄弟は よく 似て いて、（　　）が つかない。",
+        "options": [
+          "比較",
+          "区別",
+          "差",
+          "種類"
+        ],
+        "answer": 1,
+        "explanation_ta": "'யார் யார் என்று பிரித்தறிய முடியவில்லை' = 区別がつかない (நிலையான சேர்க்கை). 差 'வித்தியாசம்' — 差がつく வேறு பொருள் (இடைவெளி உருவாவது).",
+        "explanation_en": "\"Can’t tell them apart\" = 区別がつかない, a fixed phrase. 差がつく means a gap forms (as in a race)."
+      },
+      {
+        "id": "L33-q08",
+        "type": "vocab_context",
+        "sentence": "時計の （　　）が もう 三時を 指して いる。",
+        "options": [
+          "棒",
+          "縄",
+          "針",
+          "枠"
+        ],
+        "answer": 2,
+        "explanation_ta": "கடிகார முள் = 時計の針. 棒 = கம்பு, 縄 = கயிறு, 枠 = சட்டம்.",
+        "explanation_en": "Clock hands = 時計の針. 棒 = stick, 縄 = rope, 枠 = frame."
+      },
+      {
+        "id": "L33-q09",
+        "type": "vocab_context",
+        "sentence": "この ジーンズは 小さくて、おなかの ところが ちょっと （　　）。",
+        "options": [
+          "平らだ",
+          "容易だ",
+          "鋭い",
+          "きつい"
+        ],
+        "answer": 3,
+        "explanation_ta": "உடை சிறியதால் இறுக்கம் = きつい. 平ら = சமமான, 容易 = எளிதான — உடைக்குப் பொருந்தாது.",
+        "explanation_en": "Small clothes feel tight: きつい. 平ら = flat, 容易 = easy. They don’t fit."
+      },
+      {
+        "id": "L33-q10",
+        "type": "vocab_context",
+        "sentence": "雨に ぬれて、木の 板が （　　）しまった。",
+        "options": [
+          "反って",
+          "加わって",
+          "接いで",
+          "向いて"
+        ],
+        "answer": 0,
+        "explanation_ta": "நனைந்த மரப் பலகை வளைந்துவிட்டது = 板が反って(かえって)しまった. 加わる = சேர, 接ぐ = ஒட்ட.",
+        "explanation_en": "A wet board warps: 板が反って (かえって) しまった. 加わる = join, 接ぐ = graft."
+      },
+      {
+        "id": "L33-q11",
+        "type": "paraphrase",
+        "sentence": "この 問題を 解くのは 容易では ない。",
+        "options": [
+          "この 問題を 解くのは 時間が かからない。",
+          "この 問題を 解くのは 面白くない。",
+          "この 問題を 解くのは 簡単では ない。",
+          "この 問題は 新しく ない。"
+        ],
+        "answer": 2,
+        "explanation_ta": "容易 = 簡単 (எளிது). 容易ではない = 簡単ではない. 'நேரம் ஆகாது' என்பது நேர் எதிர் பொருள்.",
+        "explanation_en": "容易 = 簡単 (easy). 容易ではない = 簡単ではない. \"Takes no time\" is the opposite."
+      },
+      {
+        "id": "L33-q12",
+        "type": "paraphrase",
+        "sentence": "北海道に 比べると、沖縄は ずっと 暖かい。",
+        "options": [
+          "北海道は 沖縄より ずっと 暖かい。",
+          "沖縄は 北海道より ずっと 暖かい。",
+          "沖縄と 北海道は 同じぐらい 暖かい。",
+          "沖縄は 北海道ほど 暖かく ない。"
+        ],
+        "answer": 1,
+        "explanation_ta": "'ஹொக்கைடோவுடன் ஒப்பிட்டால் ஒகினாவா வெப்பம்' = 沖縄は北海道より暖かい. முதல் விடை இடங்களை மாற்றிவிட்டது.",
+        "explanation_en": "\"Compared with Hokkaido, Okinawa is warm\" = 沖縄は北海道より暖かい. The first option swaps the places."
+      },
+      {
+        "id": "L33-q13",
+        "type": "usage",
+        "sentence": "異なる",
+        "options": [
+          "毎朝 七時に 家を 異なります。",
+          "この 道を 異なると、駅に 着きます。",
+          "壊れた 時計を 店で 異なって もらった。",
+          "国に よって、あいさつの 仕方が 異なる。"
+        ],
+        "answer": 3,
+        "explanation_ta": "異なる = வேறுபடுவது (違う-வின் முறையான சொல்). 'நாட்டுக்கு நாடு வணக்க முறை வேறுபடும்' சரி. மற்றவற்றுக்கு 出る, 曲がる, 直す வேண்டும்.",
+        "explanation_en": "異なる = to differ (a formal 違う). \"Greetings differ by country\" is right. The others need 出る, 曲がる, 直す."
+      },
+      {
+        "id": "L33-q14",
+        "type": "usage",
+        "sentence": "適する",
+        "options": [
+          "駅まで 適して 十分 かかります。",
+          "この 靴は、雨の 日の 山登りに 適して いる。",
+          "友達に 誕生日の 本を 適しました。",
+          "毎日 二時間 日本語を 適して います。"
+        ],
+        "answer": 1,
+        "explanation_ta": "適する = ஒன்றுக்குப் பொருத்தமாக இருப்பது (Nに適している). 'இந்தக் காலணி மழைநாள் மலையேற்றத்துக்கு ஏற்றது' சரி. மற்றவற்றுக்கு 歩いて, あげました, 勉強して வேண்டும்.",
+        "explanation_en": "適する = to be suitable for (Nに適している). \"These shoes suit rainy-day hiking\" is right. The others need 歩いて, あげました, 勉強して."
+      },
+      {
+        "id": "L33-q15",
+        "type": "grammar_form",
+        "sentence": "この 本は、小学生（　　）に やさしい 言葉で 書かれた 科学の 本です。",
+        "options": [
+          "向き",
+          "向け",
+          "づらい",
+          "比べ"
+        ],
+        "answer": 1,
+        "explanation_ta": "எழுத்தாளர் தொடக்கப்பள்ளி மாணவர்களை இலக்காக வைத்து எழுதியது = 小学生向けに. 向き 'இயல்பான பொருத்தம்'; 向きに書かれた என்று சொல்வதில்லை.",
+        "explanation_en": "The writer aimed it at children: 小学生向けに. 向き is a natural fit; 向きに書かれた is not used."
+      },
+      {
+        "id": "L33-q16",
+        "type": "grammar_form",
+        "sentence": "この 部屋は 南（　　）で、冬でも 明るい。",
+        "options": [
+          "向け",
+          "み",
+          "向き",
+          "比べ"
+        ],
+        "answer": 2,
+        "explanation_ta": "திசை நோக்கிய அறை = 南向き. 向け 'யாருக்காகச் செய்தது' — திசைக்கு வராது.",
+        "explanation_en": "A room facing south = 南向き. 向け means \"made for someone\"; it is not for directions."
+      },
+      {
+        "id": "L33-q17",
+        "type": "grammar_form",
+        "sentence": "この ペンは 細すぎて、持ち（　　）。",
+        "options": [
+          "づらい",
+          "向きだ",
+          "向けだ",
+          "みだ"
+        ],
+        "answer": 0,
+        "explanation_ta": "மிகவும் மெல்லியதால் பிடிக்கச் சிரமம் = 持ちづらい (ます-அடி + づらい). 向き / 向け பெயர்ச்சொல்லுடன் தான் சேரும்.",
+        "explanation_en": "It’s too thin, so it’s hard to hold: 持ちづらい (ます-stem + づらい). 向き and 向け go after nouns."
+      },
+      {
+        "id": "L33-q18",
+        "type": "grammar_form",
+        "sentence": "来週の 文化祭を、とても 楽し（　　）に して います。",
+        "options": [
+          "さ",
+          "げ",
+          "み",
+          "く"
+        ],
+        "answer": 2,
+        "explanation_ta": "'ஆவலுடன் எதிர்பார்க்கிறேன்' = 楽しみにしている (நிலையான சேர்க்கை). 楽しさにする, 楽しげにする இந்தப் பொருளில் வராது.",
+        "explanation_en": "\"Look forward to\" = 楽しみにしている, a fixed phrase. 楽しさにする and 楽しげにする don’t work here."
+      },
+      {
+        "id": "L33-q19",
+        "type": "grammar_form",
+        "sentence": "去年（　　）、今年は 野菜の 値段が 高い。",
+        "options": [
+          "に 向けて",
+          "に 向いて",
+          "に 加わって",
+          "に 比べて"
+        ],
+        "answer": 3,
+        "explanation_ta": "'கடந்த ஆண்டுடன் ஒப்பிடும்போது' = 去年に比べて. に向けて 'ஓர் இலக்கை நோக்கி' (பாடம் 18) — பொருந்தாது.",
+        "explanation_en": "\"Compared with last year\" = 去年に比べて. に向けて means \"toward a goal\" (lesson 18). It doesn’t fit."
+      },
+      {
+        "id": "L33-q20",
+        "type": "grammar_form",
+        "sentence": "上司に「会社を やめたい」とは、なかなか 言い（　　）。",
+        "options": [
+          "やすい",
+          "づらい",
+          "向きだ",
+          "向けだ"
+        ],
+        "answer": 1,
+        "explanation_ta": "மேலதிகாரியிடம் சொல்வது மனதுக்குச் சங்கடம் = 言いづらい. なかなか (எளிதில் இல்லை) உடன் やすい பொருந்தாது.",
+        "explanation_en": "Telling your boss feels awkward: 言いづらい. やすい (easy) doesn’t match なかなか."
+      },
+      {
+        "id": "L33-q21",
+        "type": "grammar_form",
+        "sentence": "人と 話すのが 好きな 彼は、営業の 仕事に （　　）いる。",
+        "options": [
+          "比べて",
+          "加わって",
+          "向けて",
+          "向いて"
+        ],
+        "answer": 3,
+        "explanation_ta": "ஒருவர் ஒரு வேலைக்கு ஏற்றவர் = Nに向いている (向く). 向けている 'நோக்கித் திருப்பியிருக்கிறார்' — பொருள் வேறு.",
+        "explanation_en": "A person suited to a job = Nに向いている (向く). 向けている means \"is pointing it toward\"."
+      },
+      {
+        "id": "L33-q22",
+        "type": "sentence_order",
+        "before": "これは",
+        "chunks": [
+          "外国人",
+          "向けの",
+          "日本語の",
+          "教科書"
+        ],
+        "star": 1,
+        "after": "です。",
+        "explanation_ta": "これは 外国人 向けの 日本語の 教科書 です (இது வெளிநாட்டவர்களுக்கான ஜப்பானிய மொழிப் பாடநூல்). ★ = 向けの.",
+        "explanation_en": "これは 外国人 向けの 日本語の 教科書 です (This is a Japanese textbook for foreigners). ★ = 向けの."
+      },
+      {
+        "id": "L33-q23",
+        "type": "sentence_order",
+        "before": "この 説明書は",
+        "chunks": [
+          "字が",
+          "小さくて",
+          "読み",
+          "づらい"
+        ],
+        "star": 2,
+        "after": "です。",
+        "explanation_ta": "この 説明書は 字が 小さくて 読み づらい です (இந்தக் கையேட்டின் எழுத்து சிறியதால் படிக்கச் சிரமம்). ★ = 読み.",
+        "explanation_en": "この 説明書は 字が 小さくて 読み づらい です (The print in this manual is small and hard to read). ★ = 読み."
+      },
+      {
+        "id": "L33-q24",
+        "type": "sentence_order",
+        "before": "東京",
+        "chunks": [
+          "に",
+          "比べると",
+          "大阪の",
+          "物価は"
+        ],
+        "star": 2,
+        "after": "少し 安い。",
+        "explanation_ta": "東京 に 比べると 大阪の 物価は 少し 安い (டோக்கியோவுடன் ஒப்பிட்டால் ஒசாகாவில் விலைவாசி கொஞ்சம் குறைவு). ★ = 大阪の.",
+        "explanation_en": "東京 に 比べると 大阪の 物価は 少し 安い (Compared with Tokyo, prices in Osaka are a bit lower). ★ = 大阪の."
+      },
+      {
+        "id": "L33-q25",
+        "type": "passage_cloze",
+        "passage": "私の 会社は、小さい 子ども［1］の 食器を 作って います。食器は 落としても 割れない ように、プラスチックで できて います。以前の 製品は 形が 四角くて、小さな 手では 持ち［2］という 声が 多く ありました。そこで、新しい 製品は 縁を 丸く して、手に 合う デザインに しました。また、前の 型［3］、重さも 半分に なりました。来月から 店に 並ぶ 予定で、私たちも 子どもたちが 使う 姿を 見るのを とても 楽し［4］に して います。",
+        "blanks": [
+          {
+            "options": [
+              "づらい",
+              "比べ",
+              "向け",
+              "向き"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "向き",
+              "向け",
+              "やすい",
+              "づらい"
+            ],
+            "answer": 3
+          },
+          {
+            "options": [
+              "に 比べて",
+              "に 向けて",
+              "に 加わって",
+              "に 適して"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "さ",
+              "み",
+              "げ",
+              "く"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ நிறுவனம் குழந்தைகளை இலக்காக வைத்துத் தயாரிக்கிறது = 子ども向けの食器. ［2］ 'சிறிய கைகளால் பிடிக்கச் சிரமம்' என்ற புகார் = 持ちづらい. ［3］ 'பழைய மாதிரியுடன் ஒப்பிடும்போது' = 前の型に比べて. ［4］ 'ஆவலுடன் எதிர்பார்க்கிறோம்' = 楽しみにしている. ［1］-இல் 向き போட்டால் 'தயாரிப்பவரின் நோக்கம்' என்ற பொருள் வராது.",
+        "explanation_en": "[1] The company makes them for small children: 子ども向けの食器. [2] The complaint \"hard to hold for small hands\" = 持ちづらい. [3] \"Compared with the old model\" = 前の型に比べて. [4] \"We look forward to it\" = 楽しみにしている. 向き in [1] would not show the maker’s aim."
+      }
+    ]
+  }
+}

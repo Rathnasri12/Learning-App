@@ -1,0 +1,830 @@
+[
+  {
+    "id": "n3-v-0050",
+    "expression": "質",
+    "reading": "しつ",
+    "romaji": "shitsu",
+    "en": "quality",
+    "ta": "தரம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "安い物より質のいい物を買いたいです。",
+        "reading": "やすい ものより しつの いい ものを かいたいです。",
+        "romaji": "yasui mono yori shitsu no ii mono o kaitai desu.",
+        "ta": "மலிவான பொருளைவிட தரமான பொருளையே வாங்க விரும்புகிறேன்.",
+        "en": "I want to buy good-quality things, not cheap ones."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0079",
+    "expression": "自慢",
+    "reading": "じまん",
+    "romaji": "jiman",
+    "en": "boasting, pride",
+    "ta": "பெருமை பேசுதல்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼はいつも新しい車の自慢をしています。",
+        "reading": "かれは いつも あたらしい くるまの じまんを して います。",
+        "romaji": "kare wa itsumo atarashii kuruma no jiman o shite imasu.",
+        "ta": "அவன் எப்போதும் தன் புதிய காரைப் பற்றிப் பெருமை பேசிக்கொண்டிருக்கிறான்.",
+        "en": "He is always boasting about his new car."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0080",
+    "expression": "地味",
+    "reading": "じみ",
+    "romaji": "jimi",
+    "en": "plain, sober",
+    "ta": "பகட்டில்லாத (எளிமையான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "姉はいつも地味な色の服を着ています。",
+        "reading": "あねは いつも じみな いろの ふくを きて います。",
+        "romaji": "ane wa itsumo jimi na iro no fuku o kite imasu.",
+        "ta": "அக்கா எப்போதும் பகட்டில்லாத நிற உடைகளையே அணிகிறாள்.",
+        "en": "My older sister always wears plain-coloured clothes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0127",
+    "expression": "小",
+    "reading": "しょう",
+    "romaji": "shou",
+    "en": "small (size)",
+    "ta": "சிறியது (சிறிய அளவு)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "飲み物のサイズは大と小があります。",
+        "reading": "のみものの サイズは だいと しょうが あります。",
+        "romaji": "nomimono no saizu wa dai to shou ga arimasu.",
+        "ta": "பானங்களில் பெரியது, சிறியது என்று இரண்டு அளவுகள் உள்ளன.",
+        "en": "Drinks come in two sizes: large and small."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0138",
+    "expression": "正直",
+    "reading": "しょうじき",
+    "romaji": "shoujiki",
+    "en": "honest; honesty",
+    "ta": "நேர்மையான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "正直に言うと、その映画はあまり面白くなかったです。",
+        "reading": "しょうじきに いうと、その えいがは あまり おもしろくなかったです。",
+        "romaji": "shoujiki ni iu to, sono eiga wa amari omoshirokunakatta desu.",
+        "ta": "நேர்மையாகச் சொன்னால், அந்தப் படம் அவ்வளவு சுவாரசியமாக இல்லை.",
+        "en": "To be honest, that film wasn’t very interesting."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0177",
+    "expression": "処理",
+    "reading": "しょり",
+    "romaji": "shori",
+    "en": "handling, processing",
+    "ta": "கையாளுதல் (செயலாக்கம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は仕事の処理がとても早いです。",
+        "reading": "かれは しごとの しょりが とても はやいです。",
+        "romaji": "kare wa shigoto no shori ga totemo hayai desu.",
+        "ta": "அவர் வேலைகளை மிக வேகமாகக் கையாள்வார்.",
+        "en": "He handles his work very quickly."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0186",
+    "expression": "真剣",
+    "reading": "しんけん",
+    "romaji": "shinken",
+    "en": "serious, earnest",
+    "ta": "மனப்பூர்வமான (தீவிரமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "学生たちは真剣な顔で先生の話を聞いていました。",
+        "reading": "がくせいたちは しんけんな かおで せんせいの はなしを きいて いました。",
+        "romaji": "gakuseitachi wa shinken na kao de sensei no hanashi o kiite imashita.",
+        "ta": "மாணவர்கள் தீவிரமான முகத்துடன் ஆசிரியர் சொல்வதைக் கேட்டுக்கொண்டிருந்தார்கள்.",
+        "en": "The students listened to the teacher with serious faces."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0190",
+    "expression": "深刻",
+    "reading": "しんこく",
+    "romaji": "shinkoku",
+    "en": "serious, grave",
+    "ta": "கடுமையான (ஆழமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "水不足はこの町の深刻な問題です。",
+        "reading": "みずぶそくは この まちの しんこくな もんだいです。",
+        "romaji": "mizubusoku wa kono machi no shinkoku na mondai desu.",
+        "ta": "தண்ணீர்ப் பற்றாக்குறை இந்த ஊரின் கடுமையான பிரச்சினை.",
+        "en": "Water shortage is a serious problem in this town."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0202",
+    "expression": "人物",
+    "reading": "じんぶつ",
+    "romaji": "jinbutsu",
+    "en": "person, figure",
+    "ta": "நபர் (ஆளுமை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼はこの会社でとても大切な人物です。",
+        "reading": "かれは この かいしゃで とても たいせつな じんぶつです。",
+        "romaji": "kare wa kono kaisha de totemo taisetsu na jinbutsu desu.",
+        "ta": "அவர் இந்த நிறுவனத்தில் மிக முக்கியமான நபர்.",
+        "en": "He is a very important person in this company."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0260",
+    "expression": "性格",
+    "reading": "せいかく",
+    "romaji": "seikaku",
+    "en": "personality, character",
+    "ta": "குணம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "兄と私は性格が全然違います。",
+        "reading": "あにと わたしは せいかくが ぜんぜん ちがいます。",
+        "romaji": "ani to watashi wa seikaku ga zenzen chigaimasu.",
+        "ta": "அண்ணனுக்கும் எனக்கும் குணம் முற்றிலும் வேறுபட்டது.",
+        "en": "My older brother and I have completely different personalities."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0377",
+    "expression": "意地悪",
+    "reading": "いじわる",
+    "romaji": "ijiwaru",
+    "en": "mean, nasty",
+    "ta": "வம்பு செய்யும் (கெடுமதியுள்ள)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "小さい弟に意地悪をしてはいけません。",
+        "reading": "ちいさい おとうとに いじわるを しては いけません。",
+        "romaji": "chiisai otouto ni ijiwaru o shite wa ikemasen.",
+        "ta": "சின்னத் தம்பியிடம் வேண்டுமென்றே வம்பு செய்யக் கூடாது.",
+        "en": "You must not be mean to your little brother."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0448",
+    "expression": "うっかり",
+    "reading": "うっかり",
+    "romaji": "ukkari",
+    "en": "carelessly, by mistake",
+    "ta": "கவனக்குறைவாக",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "うっかり友達の誕生日を忘れてしまいました。",
+        "reading": "うっかり ともだちの たんじょうびを わすれて しまいました。",
+        "romaji": "ukkari tomodachi no tanjoubi o wasurete shimaimashita.",
+        "ta": "கவனக்குறைவாக நண்பரின் பிறந்தநாளை மறந்துவிட்டேன்.",
+        "en": "I carelessly forgot my friend’s birthday."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0461",
+    "expression": "羨ましい",
+    "reading": "うらやましい",
+    "romaji": "urayamashii",
+    "en": "envious, enviable",
+    "ta": "பொறாமைப்படத்தக்க",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "毎年海外旅行に行ける友達が羨ましいです。",
+        "reading": "まいとし かいがいりょこうに いける ともだちが うらやましいです。",
+        "romaji": "maitoshi kaigairyokou ni ikeru tomodachi ga urayamashii desu.",
+        "ta": "ஒவ்வொரு ஆண்டும் வெளிநாடு சுற்றுலா போகும் நண்பரைப் பார்த்தால் எனக்குப் பொறாமையாக இருக்கிறது.",
+        "en": "I envy my friend who can travel abroad every year."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0505",
+    "expression": "幼い",
+    "reading": "おさない",
+    "romaji": "osanai",
+    "en": "very young; childish",
+    "ta": "சின்னஞ்சிறிய (இளம் வயது)",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "幼いころ、私はマドゥライに住んでいました。",
+        "reading": "おさない ころ、わたしは マドゥライに すんで いました。",
+        "romaji": "osanai koro, watashi wa madurai ni sunde imashita.",
+        "ta": "சிறு வயதில் நான் மதுரையில் வசித்தேன்.",
+        "en": "When I was very young, I lived in Madurai."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0518",
+    "expression": "穏やか",
+    "reading": "おだやか",
+    "romaji": "odayaka",
+    "en": "calm, gentle",
+    "ta": "அமைதியான (சாந்தமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "祖父は穏やかな人で、怒ったことがありません。",
+        "reading": "そふは おだやかな ひとで、おこった ことが ありません。",
+        "romaji": "sofu wa odayaka na hito de, okotta koto ga arimasen.",
+        "ta": "தாத்தா சாந்தமான மனிதர்; அவர் ஒருமுறை கூடக் கோபப்பட்டதில்லை.",
+        "en": "My grandfather is a gentle man who has never got angry."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0520",
+    "expression": "大人しい",
+    "reading": "おとなしい",
+    "romaji": "otonashii",
+    "en": "quiet, well-behaved",
+    "ta": "அடக்கமான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "姉は大人しくて、あまり話しません。",
+        "reading": "あねは おとなしくて、あまり はなしません。",
+        "romaji": "ane wa otonashikute, amari hanashimasen.",
+        "ta": "அக்கா அடக்கமானவள்; அதிகம் பேச மாட்டாள்.",
+        "en": "My older sister is quiet and doesn’t talk much."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0608",
+    "expression": "賢い",
+    "reading": "かしこい",
+    "romaji": "kashikoi",
+    "en": "clever, wise",
+    "ta": "புத்திசாலியான",
+    "pos": "i-adj",
+    "examples": [
+      {
+        "ja": "この犬は賢くて、人の言葉がよく分かります。",
+        "reading": "この いぬは かしこくて、ひとの ことばが よく わかります。",
+        "romaji": "kono inu wa kashikokute, hito no kotoba ga yoku wakarimasu.",
+        "ta": "இந்த நாய் புத்திசாலி; மனிதர்கள் பேசுவதை நன்றாகப் புரிந்துகொள்ளும்.",
+        "en": "This dog is clever and understands people’s words well."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0638",
+    "expression": "可能",
+    "reading": "かのう",
+    "romaji": "kanou",
+    "en": "possible",
+    "ta": "சாத்தியமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "この仕事を一週間で終わらせるのは可能ですか。",
+        "reading": "この しごとを いっしゅうかんで おわらせるのは かのうですか。",
+        "romaji": "kono shigoto o isshuukan de owaraseru no wa kanou desu ka.",
+        "ta": "இந்த வேலையை ஒரு வாரத்தில் முடிப்பது சாத்தியமா?",
+        "en": "Is it possible to finish this work in one week?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0701",
+    "expression": "機嫌",
+    "reading": "きげん",
+    "romaji": "kigen",
+    "en": "mood, temper",
+    "ta": "மனநிலை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "今日は部長の機嫌がいいですね。",
+        "reading": "きょうは ぶちょうの きげんが いいですね。",
+        "romaji": "kyou wa buchou no kigen ga ii desu ne.",
+        "ta": "இன்று மேலாளரின் மனநிலை நன்றாக இருக்கிறது, இல்லையா?",
+        "en": "The manager is in a good mood today, isn’t he?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0745",
+    "expression": "器用",
+    "reading": "きよう",
+    "romaji": "kiyou",
+    "en": "good with one’s hands",
+    "ta": "கைத்திறமையுள்ள",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "母は器用で、服も自分で作ります。",
+        "reading": "ははは きようで、ふくも じぶんで つくります。",
+        "romaji": "haha wa kiyou de, fuku mo jibun de tsukurimasu.",
+        "ta": "அம்மா கைத்திறமை உள்ளவர்; உடைகளைக் கூடத் தானே தைத்துக்கொள்வார்.",
+        "en": "My mother is good with her hands; she even makes her own clothes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0784",
+    "expression": "癖",
+    "reading": "くせ",
+    "romaji": "kuse",
+    "en": "habit (often bad)",
+    "ta": "பழக்கம் (பெரும்பாலும் கெட்ட பழக்கம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼は考えるとき、髪をさわる癖があります。",
+        "reading": "かれは かんがえる とき、かみを さわる くせが あります。",
+        "romaji": "kare wa kangaeru toki, kami o sawaru kuse ga arimasu.",
+        "ta": "யோசிக்கும்போது தலைமுடியைத் தொடும் பழக்கம் அவனுக்கு உண்டு.",
+        "en": "He has a habit of touching his hair when he thinks."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0840",
+    "expression": "けち",
+    "reading": "けち",
+    "romaji": "kechi",
+    "en": "stingy; miser",
+    "ta": "கஞ்சத்தனமான (கஞ்சன்)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "あの人はけちで、コーヒー一杯もおごってくれません。",
+        "reading": "あの ひとは けちで、コーヒー いっぱいも おごって くれません。",
+        "romaji": "ano hito wa kechi de, koohii ippai mo ogotte kuremasen.",
+        "ta": "அவர் கஞ்சன்; ஒரு கப் காபி கூட வாங்கித் தர மாட்டார்.",
+        "en": "That man is stingy; he won’t even buy you one coffee."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-0966",
+    "expression": "才能",
+    "reading": "さいのう",
+    "romaji": "sainou",
+    "en": "talent",
+    "ta": "திறமை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "妹には絵の才能があります。",
+        "reading": "いもうとには えの さいのうが あります。",
+        "romaji": "imouto ni wa e no sainou ga arimasu.",
+        "ta": "தங்கைக்கு ஓவியம் வரையும் திறமை இருக்கிறது.",
+        "en": "My younger sister has a talent for drawing."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1077",
+    "expression": "素",
+    "reading": "もと",
+    "romaji": "moto",
+    "en": "base, source",
+    "ta": "அடிப்படைக் கலவை (மூலம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "カレーの素を使えば、十分で作れます。",
+        "reading": "カレーの もとを つかえば、じゅっぷんで つくれます。",
+        "romaji": "karee no moto o tsukaeba, juppun de tsukuremasu.",
+        "ta": "கறி மசாலாக் கலவையைப் பயன்படுத்தினால் பத்து நிமிடத்தில் செய்துவிடலாம்.",
+        "en": "With a curry base mix, you can make it in ten minutes."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1111",
+    "expression": "有能",
+    "reading": "ゆうのう",
+    "romaji": "yuunou",
+    "en": "capable, competent",
+    "ta": "திறமையான (தகுதியான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "新しい部長は若いけれど、とても有能です。",
+        "reading": "あたらしい ぶちょうは わかいけれど、とても ゆうのうです。",
+        "romaji": "atarashii buchou wa wakai keredo, totemo yuunou desu.",
+        "ta": "புதிய மேலாளர் இளையவர் என்றாலும் மிகத் திறமையானவர்.",
+        "en": "The new manager is young but very capable."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1126",
+    "expression": "陽気",
+    "reading": "ようき",
+    "romaji": "youki",
+    "en": "cheerful; weather",
+    "ta": "கலகலப்பான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "彼女は陽気な性格で、いつも笑っています。",
+        "reading": "かのじょは ようきな せいかくで、いつも わらって います。",
+        "romaji": "kanojo wa youki na seikaku de, itsumo waratte imasu.",
+        "ta": "அவள் கலகலப்பான குணம் கொண்டவள்; எப்போதும் சிரித்துக்கொண்டே இருப்பாள்.",
+        "en": "She has a cheerful nature and is always smiling."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1163",
+    "expression": "利口",
+    "reading": "りこう",
+    "romaji": "rikou",
+    "en": "bright, clever",
+    "ta": "கெட்டிக்கார",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "弟は利口で、先生の言うことをすぐ覚えます。",
+        "reading": "おとうとは りこうで、せんせいの いう ことを すぐ おぼえます。",
+        "romaji": "otouto wa rikou de, sensei no iu koto o sugu oboemasu.",
+        "ta": "தம்பி கெட்டிக்காரன்; ஆசிரியர் சொல்வதை உடனே நினைவில் வைத்துக்கொள்வான்.",
+        "en": "My younger brother is bright and remembers what the teacher says right away."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1177",
+    "expression": "冷静",
+    "reading": "れいせい",
+    "romaji": "reisei",
+    "en": "calm, cool-headed",
+    "ta": "நிதானமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "事故のとき、彼女は冷静に救急車を呼びました。",
+        "reading": "じこの とき、かのじょは れいせいに きゅうきゅうしゃを よびました。",
+        "romaji": "jiko no toki, kanojo wa reisei ni kyuukyuusha o yobimashita.",
+        "ta": "விபத்து நடந்தபோது அவள் நிதானமாக ஆம்புலன்ஸை அழைத்தாள்.",
+        "en": "At the accident, she calmly called an ambulance."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1191",
+    "expression": "わがまま",
+    "reading": "わがまま",
+    "romaji": "wagamama",
+    "en": "selfish, spoilt",
+    "ta": "அடம்பிடிக்கும் (சுயநலமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "わがままを言わないで、早く寝なさい。",
+        "reading": "わがままを いわないで、はやく ねなさい。",
+        "romaji": "wagamama o iwanaide, hayaku nenasai.",
+        "ta": "அடம் பிடிக்காமல் சீக்கிரம் தூங்கு.",
+        "en": "Stop being selfish and go to bed now."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1218",
+    "expression": "意地",
+    "reading": "いじ",
+    "romaji": "iji",
+    "en": "stubbornness, pride",
+    "ta": "வீம்பு (பிடிவாதம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "意地を張らないで、謝ったらどう？",
+        "reading": "いじを はらないで、あやまったら どう？",
+        "romaji": "iji o haranaide, ayamattara dou?",
+        "ta": "வீம்பு பிடிக்காமல் மன்னிப்புக் கேட்டால் என்ன?",
+        "en": "Don’t be stubborn. Why not apologise?"
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1238",
+    "expression": "格",
+    "reading": "かく",
+    "romaji": "kaku",
+    "en": "rank, class",
+    "ta": "தரம் (நிலை)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "あの選手はほかの選手とは格が違います。",
+        "reading": "あの せんしゅは ほかの せんしゅとは かくが ちがいます。",
+        "romaji": "ano senshu wa hoka no senshu to wa kaku ga chigaimasu.",
+        "ta": "அந்த வீரர் மற்ற வீரர்களைவிட மிக உயர்ந்த தரத்தில் இருக்கிறார்.",
+        "en": "That player is in a different class from the others."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1266",
+    "expression": "近視",
+    "reading": "きんし",
+    "romaji": "kinshi",
+    "en": "short-sightedness",
+    "ta": "கிட்டப்பார்வை",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "近視なので、眼鏡がないと黒板が見えません。",
+        "reading": "きんしなので、めがねが ないと こくばんが みえません。",
+        "romaji": "kinshi na node, megane ga nai to kokuban ga miemasen.",
+        "ta": "எனக்குக் கிட்டப்பார்வை என்பதால், கண்ணாடி இல்லாமல் கரும்பலகை தெரியாது.",
+        "en": "I’m short-sighted, so I can’t see the blackboard without glasses."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1340",
+    "expression": "粗末",
+    "reading": "そまつ",
+    "romaji": "somatsu",
+    "en": "careless, wasteful; poor",
+    "ta": "அலட்சியமான (மட்டமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "食べ物を粗末にしてはいけません。",
+        "reading": "たべものを そまつに しては いけません。",
+        "romaji": "tabemono o somatsu ni shite wa ikemasen.",
+        "ta": "உணவை அலட்சியம் செய்து வீணாக்கக் கூடாது.",
+        "en": "You must not waste food."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1414",
+    "expression": "唯",
+    "reading": "たった",
+    "romaji": "tatta",
+    "en": "only, just",
+    "ta": "வெறும் (மட்டுமே)",
+    "pos": "adverb",
+    "examples": [
+      {
+        "ja": "このペンはたった百円です。",
+        "reading": "この ペンは たった ひゃくえんです。",
+        "romaji": "kono pen wa tatta hyakuen desu.",
+        "ta": "இந்தப் பேனா வெறும் நூறு யென் தான்.",
+        "en": "This pen is only 100 yen."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1443",
+    "expression": "男子",
+    "reading": "だんし",
+    "romaji": "danshi",
+    "en": "boy, young man",
+    "ta": "ஆண் (மாணவன்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "このクラスは男子が十五人、女子が十人です。",
+        "reading": "この クラスは だんしが じゅうごにん、じょしが じゅうにんです。",
+        "romaji": "kono kurasu wa danshi ga juugonin, joshi ga juunin desu.",
+        "ta": "இந்த வகுப்பில் பதினைந்து மாணவர்கள், பத்து மாணவிகள் உள்ளனர்.",
+        "en": "This class has fifteen boys and ten girls."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1444",
+    "expression": "単純",
+    "reading": "たんじゅん",
+    "romaji": "tanjun",
+    "en": "simple, simple-minded",
+    "ta": "எளிமையான (வெகுளியான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "彼は単純な人で、何でもすぐ信じます。",
+        "reading": "かれは たんじゅんな ひとで、なんでも すぐ しんじます。",
+        "romaji": "kare wa tanjun na hito de, nandemo sugu shinjimasu.",
+        "ta": "அவன் வெகுளியான ஆள்; எதையும் உடனே நம்பிவிடுவான்.",
+        "en": "He is a simple person and believes anything right away."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1586",
+    "expression": "同様",
+    "reading": "どうよう",
+    "romaji": "douyou",
+    "en": "the same, similar",
+    "ta": "அதே போன்ற",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "弟も兄と同様に背が高いです。",
+        "reading": "おとうとも あにと どうように せが たかいです。",
+        "romaji": "otouto mo ani to douyou ni se ga takai desu.",
+        "ta": "தம்பியும் அண்ணனைப் போலவே உயரமானவன்.",
+        "en": "My younger brother is tall, just like my older brother."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1597",
+    "expression": "得意",
+    "reading": "とくい",
+    "romaji": "tokui",
+    "en": "good at; proud",
+    "ta": "கைவந்த (தேர்ந்த)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "兄は料理が得意で、特にビリヤニがおいしいです。",
+        "reading": "あには りょうりが とくいで、とくに ビリヤニが おいしいです。",
+        "romaji": "ani wa ryouri ga tokui de, toku ni biriyani ga oishii desu.",
+        "ta": "அண்ணனுக்குச் சமையல் கைவந்த கலை; குறிப்பாக அவர் செய்யும் பிரியாணி சுவையாக இருக்கும்.",
+        "en": "My brother is good at cooking; his biryani is especially tasty."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1600",
+    "expression": "特徴",
+    "reading": "とくちょう",
+    "romaji": "tokuchou",
+    "en": "feature, characteristic",
+    "ta": "சிறப்பம்சம் (தனி அடையாளம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "彼の話し方には特徴があります。",
+        "reading": "かれの はなしかたには とくちょうが あります。",
+        "romaji": "kare no hanashikata ni wa tokuchou ga arimasu.",
+        "ta": "அவர் பேசும் விதத்தில் ஒரு தனி அடையாளம் இருக்கிறது.",
+        "en": "He has a distinctive way of speaking."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1602",
+    "expression": "独特",
+    "reading": "どくとく",
+    "romaji": "dokutoku",
+    "en": "unique, distinctive",
+    "ta": "தனித்துவமான",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "マドゥライのタミル語には独特のアクセントがあります。",
+        "reading": "マドゥライの タミルごには どくとくの アクセントが あります。",
+        "romaji": "madurai no tamirugo ni wa dokutoku no akusento ga arimasu.",
+        "ta": "மதுரைத் தமிழுக்குத் தனித்துவமான உச்சரிப்பு உண்டு.",
+        "en": "Madurai Tamil has a distinctive accent."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1643",
+    "expression": "内容",
+    "reading": "ないよう",
+    "romaji": "naiyou",
+    "en": "content(s)",
+    "ta": "உள்ளடக்கம்",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "その本の内容を簡単に説明してください。",
+        "reading": "その ほんの ないようを かんたんに せつめいして ください。",
+        "romaji": "sono hon no naiyou o kantan ni setsumei shite kudasai.",
+        "ta": "அந்தப் புத்தகத்தின் உள்ளடக்கத்தைச் சுருக்கமாக விளக்குங்கள்.",
+        "en": "Please explain the contents of that book briefly."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1665",
+    "expression": "怠ける",
+    "reading": "なまける",
+    "romaji": "namakeru",
+    "en": "to be lazy, slack off",
+    "ta": "சோம்பேறித்தனமாக இருக்க",
+    "pos": "verb-ru",
+    "examples": [
+      {
+        "ja": "怠けていると、試験に合格できませんよ。",
+        "reading": "なまけて いると、しけんに ごうかく できませんよ。",
+        "romaji": "namakete iru to, shiken ni goukaku dekimasen yo.",
+        "ta": "சோம்பேறித்தனமாக இருந்தால் தேர்வில் தேற முடியாது.",
+        "en": "If you slack off, you won’t pass the exam."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1679",
+    "expression": "苦手",
+    "reading": "にがて",
+    "romaji": "nigate",
+    "en": "weak at, not good with",
+    "ta": "சரியாக வராத (பிடிக்காத)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "私は人の前で話すのが苦手です。",
+        "reading": "わたしは ひとの まえで はなすのが にがてです。",
+        "romaji": "watashi wa hito no mae de hanasu no ga nigate desu.",
+        "ta": "மற்றவர்கள் முன்னால் பேசுவது எனக்குச் சரியாக வராது.",
+        "en": "I’m not good at speaking in front of people."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1748",
+    "expression": "馬鹿",
+    "reading": "ばか",
+    "romaji": "baka",
+    "en": "fool; foolish",
+    "ta": "முட்டாள் (முட்டாள்தனமான)",
+    "pos": "na-adj",
+    "examples": [
+      {
+        "ja": "そんな馬鹿なことを言わないでください。",
+        "reading": "そんな ばかな ことを いわないで ください。",
+        "romaji": "sonna baka na koto o iwanaide kudasai.",
+        "ta": "அப்படி முட்டாள்தனமாகப் பேசாதீர்கள்.",
+        "en": "Please don’t say such foolish things."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-1944",
+    "expression": "誇り",
+    "reading": "ほこり",
+    "romaji": "hokori",
+    "en": "pride",
+    "ta": "பெருமை (கௌரவம்)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "父は自分の仕事に誇りを持っています。",
+        "reading": "ちちは じぶんの しごとに ほこりを もって います。",
+        "romaji": "chichi wa jibun no shigoto ni hokori o motte imasu.",
+        "ta": "அப்பா தன் வேலையைப் பற்றிப் பெருமை கொள்கிறார்.",
+        "en": "My father takes pride in his work."
+      }
+    ]
+  },
+  {
+    "id": "n3-v-2049",
+    "expression": "相",
+    "reading": "そう",
+    "romaji": "sou",
+    "en": "look, sign (in a face)",
+    "ta": "முகக்குறி (அறிகுறி)",
+    "pos": "noun",
+    "examples": [
+      {
+        "ja": "占い師に「あなたには成功する相が出ている」と言われました。",
+        "reading": "うらないしに「あなたには せいこうする そうが でて いる」と いわれました。",
+        "romaji": "uranaishi ni \"anata ni wa seikou suru sou ga dete iru\" to iwaremashita.",
+        "ta": "\"உங்கள் முகத்தில் வெற்றியின் அறிகுறி தெரிகிறது\" என்று ஜோசியர் என்னிடம் சொன்னார்.",
+        "en": "A fortune-teller told me, \"Your face shows signs of success.\""
+      }
+    ]
+  }
+]

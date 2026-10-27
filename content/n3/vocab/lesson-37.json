@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "n3-v-0016",
+  "expression": "酸性",
+  "reading": "さんせい",
+  "romaji": "sansei",
+  "en": "acidity; acidic",
+  "ta": "அமிலத்தன்மை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "レモンの汁は酸性です。",
+    "reading": "レモンの しるは さんせいです。",
+    "romaji": "remon no shiru wa sansei desu.",
+    "ta": "எலுமிச்சைச் சாறு அமிலத்தன்மை கொண்டது.",
+    "en": "Lemon juice is acidic."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0017",
+  "expression": "酸素",
+  "reading": "さんそ",
+  "romaji": "sanso",
+  "en": "oxygen",
+  "ta": "ஆக்சிஜன் (பிராணவாயு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "植物は光を受けて酸素を出します。",
+    "reading": "しょくぶつは ひかりを うけて さんそを だします。",
+    "romaji": "shokubutsu wa hikari o ukete sanso o dashimasu.",
+    "ta": "தாவரங்கள் ஒளியைப் பெற்று ஆக்சிஜனை வெளியிடுகின்றன.",
+    "en": "Plants take in light and give off oxygen."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0053",
+  "expression": "実験",
+  "reading": "じっけん",
+  "romaji": "jikken",
+  "en": "experiment",
+  "ta": "சோதனை (ஆய்வகச் சோதனை)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "理科の授業で水を使った実験をしました。",
+    "reading": "りかの じゅぎょうで みずを つかった じっけんを しました。",
+    "romaji": "rika no jugyou de mizu o tsukatta jikken o shimashita.",
+    "ta": "அறிவியல் வகுப்பில் தண்ணீரைப் பயன்படுத்தி ஒரு சோதனை செய்தோம்.",
+    "en": "In science class we did an experiment with water."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0143",
+  "expression": "生じる",
+  "reading": "しょうじる",
+  "romaji": "shoujiru",
+  "en": "to arise",
+  "ta": "ஏற்பட",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "計画に少し問題が生じました。",
+    "reading": "けいかくに すこし もんだいが しょうじました。",
+    "romaji": "keikaku ni sukoshi mondai ga shoujimashita.",
+    "ta": "திட்டத்தில் சிறிது பிரச்சினை ஏற்பட்டது.",
+    "en": "A small problem arose in the plan."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0211",
+  "expression": "図",
+  "reading": "ず",
+  "romaji": "zu",
+  "en": "figure; diagram",
+  "ta": "படம் (வரைபடம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "言葉だけでは分かりにくいので、図を使って説明します。",
+    "reading": "ことばだけでは わかりにくいので、ずを つかって せつめい します。",
+    "romaji": "kotoba dake de wa wakarinikui node, zu o tsukatte setsumei shimasu.",
+    "ta": "வார்த்தைகளால் மட்டும் புரிவது கடினம் என்பதால், படத்தைப் பயன்படுத்தி விளக்குகிறேன்.",
+    "en": "Words alone are hard to follow, so I’ll explain with a diagram."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0242",
+  "expression": "全て",
+  "reading": "すべて",
+  "romaji": "subete",
+  "en": "all; everything",
+  "ta": "எல்லாம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "アンケートの質問に全て答えました。",
+    "reading": "アンケートの しつもんに すべて こたえました。",
+    "romaji": "ankeeto no shitsumon ni subete kotaemashita.",
+    "ta": "கணக்கெடுப்பின் எல்லாக் கேள்விகளுக்கும் பதில் அளித்தேன்.",
+    "en": "I answered all the questions on the survey."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0291",
+  "expression": "説",
+  "reading": "せつ",
+  "romaji": "setsu",
+  "en": "theory",
+  "ta": "கோட்பாடு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この現象については、いくつかの説があります。",
+    "reading": "この げんしょうに ついては、いくつかの せつが あります。",
+    "romaji": "kono genshou ni tsuite wa, ikutsuka no setsu ga arimasu.",
+    "ta": "இந்த நிகழ்வு பற்றிப் பல கோட்பாடுகள் உள்ளன.",
+    "en": "There are several theories about this phenomenon."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0403",
+  "expression": "一般",
+  "reading": "いっぱん",
+  "romaji": "ippan",
+  "en": "general; ordinary",
+  "ta": "பொது",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この図書館は一般の人も使えます。",
+    "reading": "この としょかんは いっぱんの ひとも つかえます。",
+    "romaji": "kono toshokan wa ippan no hito mo tsukaemasu.",
+    "ta": "இந்த நூலகத்தைப் பொதுமக்களும் பயன்படுத்தலாம்.",
+    "en": "Members of the general public can also use this library."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0434",
+  "expression": "引用",
+  "reading": "いんよう",
+  "romaji": "in'you",
+  "en": "quotation",
+  "ta": "மேற்கோள்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "レポートに有名な学者の言葉を引用しました。",
+    "reading": "レポートに ゆうめいな がくしゃの ことばを いんよう しました。",
+    "romaji": "repooto ni yuumei na gakusha no kotoba o in'you shimashita.",
+    "ta": "அறிக்கையில் ஒரு புகழ்பெற்ற அறிஞரின் சொற்களை மேற்கோள் காட்டினேன்.",
+    "en": "I quoted a famous scholar’s words in my report."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0445",
+  "expression": "宇宙",
+  "reading": "うちゅう",
+  "romaji": "uchuu",
+  "en": "space; universe",
+  "ta": "விண்வெளி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "将来、宇宙へ行ってみたいです。",
+    "reading": "しょうらい、うちゅうへ いって みたいです。",
+    "romaji": "shourai, uchuu e itte mitai desu.",
+    "ta": "எதிர்காலத்தில் விண்வெளிக்குப் போய்ப் பார்க்க ஆசை.",
+    "en": "Someday I want to go to space."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0469",
+  "expression": "影響",
+  "reading": "えいきょう",
+  "romaji": "eikyou",
+  "en": "influence; effect",
+  "ta": "தாக்கம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "雨の影響で電車が遅れています。",
+    "reading": "あめの えいきょうで でんしゃが おくれて います。",
+    "romaji": "ame no eikyou de densha ga okurete imasu.",
+    "ta": "மழையின் தாக்கத்தால் ரயில் தாமதமாக வருகிறது.",
+    "en": "The trains are late because of the rain."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0501",
+  "expression": "奥",
+  "reading": "おく",
+  "romaji": "oku",
+  "en": "the back; inner part",
+  "ta": "உள் பகுதி (உட்புறம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "実験の道具は、部屋の奥の棚にあります。",
+    "reading": "じっけんの どうぐは、へやの おくの たなに あります。",
+    "romaji": "jikken no dougu wa, heya no oku no tana ni arimasu.",
+    "ta": "சோதனைக் கருவிகள் அறையின் உள் பகுதியிலுள்ள அலமாரியில் உள்ளன.",
+    "en": "The lab tools are on the shelf at the back of the room."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0532",
+  "expression": "主に",
+  "reading": "おもに",
+  "romaji": "omoni",
+  "en": "mainly",
+  "ta": "முக்கியமாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "この町の人は主にバスを使います。",
+    "reading": "この まちの ひとは おもに バスを つかいます。",
+    "romaji": "kono machi no hito wa omoni basu o tsukaimasu.",
+    "ta": "இந்த ஊர் மக்கள் முக்கியமாகப் பேருந்தைப் பயன்படுத்துகிறார்கள்.",
+    "en": "People in this town mainly use the bus."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0535",
+  "expression": "およそ",
+  "reading": "およそ",
+  "romaji": "oyoso",
+  "en": "about; roughly",
+  "ta": "ஏறக்குறைய",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "駅から大学まで、およそ二十分かかります。",
+    "reading": "えきから だいがくまで、およそ にじゅっぷん かかります。",
+    "romaji": "eki kara daigaku made, oyoso nijuppun kakarimasu.",
+    "ta": "நிலையத்திலிருந்து பல்கலைக்கழகம் வரை ஏறக்குறைய இருபது நிமிடம் ஆகும்.",
+    "en": "It takes about twenty minutes from the station to the university."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0536",
+  "expression": "及ぼす",
+  "reading": "およぼす",
+  "romaji": "oyobosu",
+  "en": "to exert; to cause",
+  "ta": "(விளைவை) ஏற்படுத்த",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "タバコは体に悪い影響を及ぼします。",
+    "reading": "タバコは からだに わるい えいきょうを およぼします。",
+    "romaji": "tabako wa karada ni warui eikyou o oyoboshimasu.",
+    "ta": "புகையிலை உடலுக்குத் தீய விளைவுகளை ஏற்படுத்துகிறது.",
+    "en": "Tobacco has a bad effect on the body."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0574",
+  "expression": "化学",
+  "reading": "かがく",
+  "romaji": "kagaku",
+  "en": "chemistry",
+  "ta": "வேதியியல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "兄は大学で化学を勉強しています。",
+    "reading": "あには だいがくで かがくを べんきょう して います。",
+    "romaji": "ani wa daigaku de kagaku o benkyou shite imasu.",
+    "ta": "என் அண்ணன் பல்கலைக்கழகத்தில் வேதியியல் படிக்கிறார்.",
+    "en": "My older brother studies chemistry at university."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0610",
+  "expression": "数",
+  "reading": "かず",
+  "romaji": "kazu",
+  "en": "number; amount",
+  "ta": "எண்ணிக்கை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "参加する人の数を教えてください。",
+    "reading": "さんか する ひとの かずを おしえて ください。",
+    "romaji": "sanka suru hito no kazu o oshiete kudasai.",
+    "ta": "கலந்துகொள்பவர்களின் எண்ணிக்கையைச் சொல்லுங்கள்.",
+    "en": "Please tell me the number of people taking part."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0612",
+  "expression": "数える",
+  "reading": "かぞえる",
+  "romaji": "kazoeru",
+  "en": "to count",
+  "ta": "எண்ண",
+  "pos": "verb-ru",
+  "examples": [
+   {
+    "ja": "アンケートの用紙を一枚ずつ数えました。",
+    "reading": "アンケートの ようしを いちまいずつ かぞえました。",
+    "romaji": "ankeeto no youshi o ichimai zutsu kazoemashita.",
+    "ta": "கணக்கெடுப்புத் தாள்களை ஒவ்வொன்றாக எண்ணினேன்.",
+    "en": "I counted the survey sheets one by one."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0666",
+  "expression": "間隔",
+  "reading": "かんかく",
+  "romaji": "kankaku",
+  "en": "interval; gap",
+  "ta": "இடைவெளி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このバスは十分の間隔で来ます。",
+    "reading": "この バスは じゅっぷんの かんかくで きます。",
+    "romaji": "kono basu wa juppun no kankaku de kimasu.",
+    "ta": "இந்தப் பேருந்து பத்து நிமிட இடைவெளியில் வருகிறது.",
+    "en": "This bus comes every ten minutes."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0671",
+  "expression": "観察",
+  "reading": "かんさつ",
+  "romaji": "kansatsu",
+  "en": "observation",
+  "ta": "உற்றுநோக்கல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "毎朝、庭の花を観察して、ノートに書きます。",
+    "reading": "まいあさ、にわの はなを かんさつ して、ノートに かきます。",
+    "romaji": "maiasa, niwa no hana o kansatsu shite, nooto ni kakimasu.",
+    "ta": "தினமும் காலையில் தோட்டத்துப் பூக்களை உற்றுநோக்கி நோட்டில் எழுதுகிறேன்.",
+    "en": "Every morning I observe the flowers in the garden and write notes."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0680",
+  "expression": "関する",
+  "reading": "かんする",
+  "romaji": "kansuru",
+  "en": "to concern; to relate to",
+  "ta": "தொடர்புடையதாக இருக்க",
+  "pos": "verb-irregular",
+  "examples": [
+   {
+    "ja": "環境に関する本を図書館で借りました。",
+    "reading": "かんきょうに かんする ほんを としょかんで かりました。",
+    "romaji": "kankyou ni kansuru hon o toshokan de karimashita.",
+    "ta": "சுற்றுச்சூழல் தொடர்பான புத்தகத்தை நூலகத்தில் இரவல் வாங்கினேன்.",
+    "en": "I borrowed a book about the environment from the library."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0689",
+  "expression": "関連",
+  "reading": "かんれん",
+  "romaji": "kanren",
+  "en": "connection; relation",
+  "ta": "தொடர்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "仕事に関連する資格を取りたいです。",
+    "reading": "しごとに かんれん する しかくを とりたいです。",
+    "romaji": "shigoto ni kanren suru shikaku o toritai desu.",
+    "ta": "வேலையுடன் தொடர்புடைய ஒரு தகுதிச் சான்றிதழ் பெற விரும்புகிறேன்.",
+    "en": "I want to get a qualification related to my job."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0699",
+  "expression": "効く",
+  "reading": "きく",
+  "romaji": "kiku",
+  "en": "to work; to be effective",
+  "ta": "பலன் தர (வேலை செய்ய)",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この薬は頭痛によく効きます。",
+    "reading": "この くすりは ずつうに よく ききます。",
+    "romaji": "kono kusuri wa zutsuu ni yoku kikimasu.",
+    "ta": "இந்த மருந்து தலைவலிக்கு நன்றாகப் பலன் தரும்.",
+    "en": "This medicine works well for headaches."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0710",
+  "expression": "気体",
+  "reading": "きたい",
+  "romaji": "kitai",
+  "en": "gas",
+  "ta": "வாயு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "温度が百度になると、水は気体になります。",
+    "reading": "おんどが ひゃくどに なると、みずは きたいに なります。",
+    "romaji": "ondo ga hyakudo ni naru to, mizu wa kitai ni narimasu.",
+    "ta": "வெப்பநிலை நூறு டிகிரி ஆனால், தண்ணீர் வாயுவாக மாறும்.",
+    "en": "When the temperature reaches 100 degrees, water turns into gas."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0724",
+  "expression": "基本",
+  "reading": "きほん",
+  "romaji": "kihon",
+  "en": "basics; foundation",
+  "ta": "அடிப்படை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "まず基本の文法をしっかり覚えましょう。",
+    "reading": "まず きほんの ぶんぽうを しっかり おぼえましょう。",
+    "romaji": "mazu kihon no bunpou o shikkari oboemashou.",
+    "ta": "முதலில் அடிப்படை இலக்கணத்தை நன்றாக மனப்பாடம் செய்வோம்.",
+    "en": "First, let’s learn the basic grammar well."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0739",
+  "expression": "吸収",
+  "reading": "きゅうしゅう",
+  "romaji": "kyuushuu",
+  "en": "absorption",
+  "ta": "உறிஞ்சுதல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このタオルは水をよく吸収します。",
+    "reading": "この タオルは みずを よく きゅうしゅう します。",
+    "romaji": "kono taoru wa mizu o yoku kyuushuu shimasu.",
+    "ta": "இந்தத் துண்டு தண்ணீரை நன்றாக உறிஞ்சும்.",
+    "en": "This towel absorbs water well."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0842",
+  "expression": "結果",
+  "reading": "けっか",
+  "romaji": "kekka",
+  "en": "result",
+  "ta": "முடிவு (விளைவு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "調査の結果は来週発表されます。",
+    "reading": "ちょうさの けっかは らいしゅう はっぴょう されます。",
+    "romaji": "chousa no kekka wa raishuu happyou saremasu.",
+    "ta": "ஆய்வின் முடிவுகள் அடுத்த வாரம் வெளியிடப்படும்.",
+    "en": "The survey results will be announced next week."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0862",
+  "expression": "現象",
+  "reading": "げんしょう",
+  "romaji": "genshou",
+  "en": "phenomenon",
+  "ta": "நிகழ்வு (இயற்கை நிகழ்வு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "虹は光と水によって起こる現象です。",
+    "reading": "にじは ひかりと みずに よって おこる げんしょうです。",
+    "romaji": "niji wa hikari to mizu ni yotte okoru genshou desu.",
+    "ta": "வானவில் ஒளியாலும் நீராலும் ஏற்படும் ஒரு இயற்கை நிகழ்வு.",
+    "en": "A rainbow is a phenomenon caused by light and water."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0879",
+  "expression": "効果",
+  "reading": "こうか",
+  "romaji": "kouka",
+  "en": "effect; result",
+  "ta": "பலன்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "毎日歩いたら、ダイエットの効果が出ました。",
+    "reading": "まいにち あるいたら、ダイエットの こうかが でました。",
+    "romaji": "mainichi aruitara, daietto no kouka ga demashita.",
+    "ta": "தினமும் நடந்ததால் எடை குறைப்பின் பலன் தெரிந்தது.",
+    "en": "Walking every day made my diet work."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-0995",
+  "expression": "ざっと",
+  "reading": "ざっと",
+  "romaji": "zatto",
+  "en": "roughly; quickly",
+  "ta": "மேலோட்டமாக",
+  "pos": "adverb",
+  "examples": [
+   {
+    "ja": "会議の前に、資料にざっと目を通しました。",
+    "reading": "かいぎの まえに、しりょうに ざっと めを とおしました。",
+    "romaji": "kaigi no mae ni, shiryou ni zatto me o tooshimashita.",
+    "ta": "கூட்டத்துக்கு முன் ஆவணங்களை மேலோட்டமாகப் பார்த்தேன்.",
+    "en": "Before the meeting, I quickly looked through the papers."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1076",
+  "expression": "基",
+  "reading": "もと",
+  "romaji": "moto",
+  "en": "basis; source",
+  "ta": "அடிப்படை (மூலம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この映画は本当にあった話を基に作られました。",
+    "reading": "この えいがは ほんとうに あった はなしを もとに つくられました。",
+    "romaji": "kono eiga wa hontou ni atta hanashi o moto ni tsukuraremashita.",
+    "ta": "இந்தத் திரைப்படம் உண்மையில் நடந்த ஒரு கதையை அடிப்படையாகக் கொண்டு எடுக்கப்பட்டது.",
+    "en": "This film was made based on a true story."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1079",
+  "expression": "基づく",
+  "reading": "もとづく",
+  "romaji": "motozuku",
+  "en": "to be based on",
+  "ta": "அடிப்படையாகக் கொண்டிருக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "調査のデータに基づいて、計画を立てました。",
+    "reading": "ちょうさの データに もとづいて、けいかくを たてました。",
+    "romaji": "chousa no deeta ni motozuite, keikaku o tatemashita.",
+    "ta": "ஆய்வுத் தரவுகளின் அடிப்படையில் திட்டம் வகுத்தோம்.",
+    "en": "We made a plan based on the survey data."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1090",
+  "expression": "約",
+  "reading": "やく",
+  "romaji": "yaku",
+  "en": "about; approximately",
+  "ta": "சுமார்",
+  "pos": "prefix",
+  "examples": [
+   {
+    "ja": "チェンナイから東京まで、飛行機で約十時間です。",
+    "reading": "チェンナイから とうきょうまで、ひこうきで やく じゅうじかんです。",
+    "romaji": "chennai kara toukyou made, hikouki de yaku juujikan desu.",
+    "ta": "சென்னையிலிருந்து டோக்கியோ வரை விமானத்தில் சுமார் பத்து மணி நேரம்.",
+    "en": "It’s about ten hours by plane from Chennai to Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1106",
+  "expression": "有効",
+  "reading": "ゆうこう",
+  "romaji": "yuukou",
+  "en": "valid; effective",
+  "ta": "செல்லுபடியாகும்",
+  "pos": "na-adj",
+  "examples": [
+   {
+    "ja": "このチケットは今月の終わりまで有効です。",
+    "reading": "この チケットは こんげつの おわりまで ゆうこうです。",
+    "romaji": "kono chiketto wa kongetsu no owari made yuukou desu.",
+    "ta": "இந்த டிக்கெட் இந்த மாத இறுதி வரை செல்லுபடியாகும்.",
+    "en": "This ticket is valid until the end of this month."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1131",
+  "expression": "要素",
+  "reading": "ようそ",
+  "romaji": "youso",
+  "en": "element; factor",
+  "ta": "கூறு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "健康には、食事と睡眠が大切な要素です。",
+    "reading": "けんこうには、しょくじと すいみんが たいせつな ようそです。",
+    "romaji": "kenkou ni wa, shokuji to suimin ga taisetsu na youso desu.",
+    "ta": "ஆரோக்கியத்துக்கு உணவும் தூக்கமும் முக்கியமான கூறுகள்.",
+    "en": "Food and sleep are important factors for health."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1141",
+  "expression": "予測",
+  "reading": "よそく",
+  "romaji": "yosoku",
+  "en": "prediction; forecast",
+  "ta": "முன்கணிப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "専門家は、来年も人口が増えると予測しています。",
+    "reading": "せんもんかは、らいねんも じんこうが ふえると よそく して います。",
+    "romaji": "senmonka wa, rainen mo jinkou ga fueru to yosoku shite imasu.",
+    "ta": "அடுத்த ஆண்டும் மக்கள் தொகை கூடும் என்று நிபுணர்கள் கணிக்கிறார்கள்.",
+    "en": "Experts predict the population will grow next year too."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1152",
+  "expression": "因る",
+  "reading": "よる",
+  "romaji": "yoru",
+  "en": "to be due to; to come from",
+  "ta": "காரணமாக அமைய",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "この事故は運転手の不注意に因るものでした。",
+    "reading": "この じこは うんてんしゅの ふちゅういに よる ものでした。",
+    "romaji": "kono jiko wa untenshu no fuchuui ni yoru mono deshita.",
+    "ta": "இந்த விபத்து ஓட்டுநரின் கவனக்குறைவால் ஏற்பட்டது.",
+    "en": "This accident was due to the driver’s carelessness."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1166",
+  "expression": "率",
+  "reading": "りつ",
+  "romaji": "ritsu",
+  "en": "rate; ratio",
+  "ta": "விகிதம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "今年の試験の合格率は六十パーセントでした。",
+    "reading": "ことしの しけんの ごうかくりつは ろくじゅう パーセントでした。",
+    "romaji": "kotoshi no shiken no goukakuritsu wa rokujuu paasento deshita.",
+    "ta": "இந்த ஆண்டுத் தேர்வின் தேர்ச்சி விகிதம் அறுபது சதவீதம்.",
+    "en": "This year’s exam pass rate was sixty percent."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1188",
+  "expression": "論文",
+  "reading": "ろんぶん",
+  "romaji": "ronbun",
+  "en": "research paper; thesis",
+  "ta": "ஆய்வுக் கட்டுரை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "大学院で日本語の教え方について論文を書いています。",
+    "reading": "だいがくいんで にほんごの おしえかたに ついて ろんぶんを かいて います。",
+    "romaji": "daigakuin de nihongo no oshiekata ni tsuite ronbun o kaite imasu.",
+    "ta": "முதுநிலைப் படிப்பில் ஜப்பானிய மொழி கற்பிக்கும் முறை பற்றி ஆய்வுக் கட்டுரை எழுதுகிறேன்.",
+    "en": "In grad school I’m writing a paper on how to teach Japanese."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1212",
+  "expression": "アンケート",
+  "reading": "アンケート",
+  "romaji": "ankeeto",
+  "en": "questionnaire; survey",
+  "ta": "கேள்வித்தாள் (கருத்துக் கணிப்பு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "店の前でお客さんにアンケートをお願いしました。",
+    "reading": "みせの まえで おきゃくさんに アンケートを おねがい しました。",
+    "romaji": "mise no mae de okyakusan ni ankeeto o onegai shimashita.",
+    "ta": "கடை முன் வாடிக்கையாளர்களிடம் கேள்வித்தாளை நிரப்பக் கேட்டோம்.",
+    "en": "In front of the shop, we asked customers to fill in a questionnaire."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1312",
+  "expression": "全体",
+  "reading": "ぜんたい",
+  "romaji": "zentai",
+  "en": "the whole; overall",
+  "ta": "முழுவதும்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "クラス全体で、町の歴史を調べました。",
+    "reading": "クラス ぜんたいで、まちの れきしを しらべました。",
+    "romaji": "kurasu zentai de, machi no rekishi o shirabemashita.",
+    "ta": "வகுப்பு முழுவதும் சேர்ந்து ஊரின் வரலாற்றை ஆராய்ந்தோம்.",
+    "en": "The whole class looked into the town’s history."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1485",
+  "expression": "調査",
+  "reading": "ちょうさ",
+  "romaji": "chousa",
+  "en": "survey; investigation",
+  "ta": "ஆய்வு (கணக்கெடுப்பு)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "市は、住民の生活について調査を行いました。",
+    "reading": "しは、じゅうみんの せいかつに ついて ちょうさを おこないました。",
+    "romaji": "shi wa, juumin no seikatsu ni tsuite chousa o okonaimashita.",
+    "ta": "நகராட்சி மக்களின் வாழ்க்கை பற்றி ஒரு ஆய்வு நடத்தியது.",
+    "en": "The city carried out a survey on residents’ daily lives."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1649",
+  "expression": "中身",
+  "reading": "なかみ",
+  "romaji": "nakami",
+  "en": "contents; substance",
+  "ta": "உள்ளே இருப்பது (உள்ளடக்கம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "箱の中身を確認してから、サインしてください。",
+    "reading": "はこの なかみを かくにん してから、サイン して ください。",
+    "romaji": "hako no nakami o kakunin shite kara, sain shite kudasai.",
+    "ta": "பெட்டிக்குள் இருப்பதைச் சரிபார்த்த பிறகு கையெழுத்திடுங்கள்.",
+    "en": "Please check the contents of the box, then sign."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1650",
+  "expression": "中味",
+  "reading": "なかみ",
+  "romaji": "nakami",
+  "en": "contents; filling",
+  "ta": "உள்ளே இருப்பது (பூரணம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "このパンの中味はカレーです。",
+    "reading": "この パンの なかみは カレーです。",
+    "romaji": "kono pan no nakami wa karee desu.",
+    "ta": "இந்த ரொட்டியின் உள்ளே கறி இருக்கிறது.",
+    "en": "The filling of this bread is curry."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1737",
+  "expression": "パーセント",
+  "reading": "パーセント",
+  "romaji": "paasento",
+  "en": "percent",
+  "ta": "சதவீதம்",
+  "pos": "counter",
+  "examples": [
+   {
+    "ja": "答えた人の七十パーセントが「はい」と言いました。",
+    "reading": "こたえた ひとの ななじゅう パーセントが「はい」と いいました。",
+    "romaji": "kotaeta hito no nanajuu paasento ga \"hai\" to iimashita.",
+    "ta": "பதில் அளித்தவர்களில் எழுபது சதவீதம் பேர் \"ஆம்\" என்றார்கள்.",
+    "en": "Seventy percent of the people who answered said yes."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1750",
+  "expression": "計る",
+  "reading": "はかる",
+  "romaji": "hakaru",
+  "en": "to measure (time, temperature)",
+  "ta": "அளக்க",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "毎朝、熱を計ってから出かけます。",
+    "reading": "まいあさ、ねつを はかってから でかけます。",
+    "romaji": "maiasa, netsu o hakatte kara dekakemasu.",
+    "ta": "தினமும் காலையில் உடல் வெப்பத்தை அளந்த பிறகே வெளியே செல்கிறேன்.",
+    "en": "Every morning I take my temperature before I go out."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1751",
+  "expression": "量る",
+  "reading": "はかる",
+  "romaji": "hakaru",
+  "en": "to weigh",
+  "ta": "எடை போட",
+  "pos": "verb-u",
+  "examples": [
+   {
+    "ja": "小麦粉を二百グラム量ってください。",
+    "reading": "こむぎこを にひゃく グラム はかって ください。",
+    "romaji": "komugiko o nihyaku guramu hakatte kudasai.",
+    "ta": "கோதுமை மாவை இருநூறு கிராம் எடை போட்டுக் கொடுங்கள்.",
+    "en": "Please weigh out 200 grams of flour."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1774",
+  "expression": "発見",
+  "reading": "はっけん",
+  "romaji": "hakken",
+  "en": "discovery",
+  "ta": "கண்டுபிடிப்பு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "その学者は新しい星を発見しました。",
+    "reading": "その がくしゃは あたらしい ほしを はっけん しました。",
+    "romaji": "sono gakusha wa atarashii hoshi o hakken shimashita.",
+    "ta": "அந்த அறிஞர் ஒரு புதிய நட்சத்திரத்தைக் கண்டுபிடித்தார்.",
+    "en": "That scientist discovered a new star."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1801",
+  "expression": "範囲",
+  "reading": "はんい",
+  "romaji": "han'i",
+  "en": "range; scope",
+  "ta": "வரம்பு (பகுதி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "テストの範囲は、教科書の三十ページまでです。",
+    "reading": "テストの はんいは、きょうかしょの さんじゅっページまでです。",
+    "romaji": "tesuto no han'i wa, kyoukasho no sanjuppeeji made desu.",
+    "ta": "தேர்வுப் பகுதி பாடநூலின் முப்பதாம் பக்கம் வரை.",
+    "en": "The test covers the textbook up to page thirty."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1839",
+  "expression": "表",
+  "reading": "ひょう",
+  "romaji": "hyou",
+  "en": "table; chart",
+  "ta": "அட்டவணை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "調査の結果を表にまとめました。",
+    "reading": "ちょうさの けっかを ひょうに まとめました。",
+    "romaji": "chousa no kekka o hyou ni matomemashita.",
+    "ta": "ஆய்வு முடிவுகளை அட்டவணையாகத் தொகுத்தோம்.",
+    "en": "We put the survey results into a table."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1890",
+  "expression": "物質",
+  "reading": "ぶっしつ",
+  "romaji": "busshitsu",
+  "en": "substance; material",
+  "ta": "பொருள் (வேதிப்பொருள்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この水には体に悪い物質が入っています。",
+    "reading": "この みずには からだに わるい ぶっしつが はいって います。",
+    "romaji": "kono mizu ni wa karada ni warui busshitsu ga haitte imasu.",
+    "ta": "இந்தத் தண்ணீரில் உடலுக்குக் கேடான ஒரு பொருள் கலந்திருக்கிறது.",
+    "en": "This water contains a substance that is bad for you."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1891",
+  "expression": "物理",
+  "reading": "ぶつり",
+  "romaji": "butsuri",
+  "en": "physics",
+  "ta": "இயற்பியல்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "物理の問題は難しいけれど、面白いです。",
+    "reading": "ぶつりの もんだいは むずかしい けれど、おもしろいです。",
+    "romaji": "butsuri no mondai wa muzukashii keredo, omoshiroi desu.",
+    "ta": "இயற்பியல் கணக்குகள் கடினம், ஆனால் சுவாரசியமானவை.",
+    "en": "Physics problems are hard, but interesting."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1894",
+  "expression": "部分",
+  "reading": "ぶぶん",
+  "romaji": "bubun",
+  "en": "part; section",
+  "ta": "பகுதி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "この論文で一番大切な部分はどこですか。",
+    "reading": "この ろんぶんで いちばん たいせつな ぶぶんは どこですか。",
+    "romaji": "kono ronbun de ichiban taisetsu na bubun wa doko desu ka.",
+    "ta": "இந்த ஆய்வுக் கட்டுரையில் மிக முக்கியமான பகுதி எது?",
+    "en": "Which is the most important part of this paper?"
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1899",
+  "expression": "プラス",
+  "reading": "プラス",
+  "romaji": "purasu",
+  "en": "plus; advantage",
+  "ta": "கூடுதல் (சாதகம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "留学の経験は、仕事にもプラスになります。",
+    "reading": "りゅうがくの けいけんは、しごとにも プラスに なります。",
+    "romaji": "ryuugaku no keiken wa, shigoto ni mo purasu ni narimasu.",
+    "ta": "வெளிநாட்டில் படித்த அனுபவம் வேலைக்கும் சாதகமாக அமையும்.",
+    "en": "Studying abroad is a plus for your career too."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1911",
+  "expression": "分析",
+  "reading": "ぶんせき",
+  "romaji": "bunseki",
+  "en": "analysis",
+  "ta": "பகுப்பாய்வு",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "アンケートのデータを分析して、レポートを書きます。",
+    "reading": "アンケートの データを ぶんせき して、レポートを かきます。",
+    "romaji": "ankeeto no deeta o bunseki shite, repooto o kakimasu.",
+    "ta": "கணக்கெடுப்புத் தரவுகளைப் பகுப்பாய்வு செய்து அறிக்கை எழுதுவேன்.",
+    "en": "I’ll analyse the survey data and write a report."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1913",
+  "expression": "分野",
+  "reading": "ぶんや",
+  "romaji": "bun'ya",
+  "en": "field; area",
+  "ta": "துறை",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "姉は医学の分野で研究をしています。",
+    "reading": "あねは いがくの ぶんやで けんきゅうを して います。",
+    "romaji": "ane wa igaku no bun'ya de kenkyuu o shite imasu.",
+    "ta": "என் அக்கா மருத்துவத் துறையில் ஆராய்ச்சி செய்கிறார்.",
+    "en": "My older sister does research in the field of medicine."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1915",
+  "expression": "平均",
+  "reading": "へいきん",
+  "romaji": "heikin",
+  "en": "average",
+  "ta": "சராசரி",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "チェンナイの五月の平均気温は、三十度を超えます。",
+    "reading": "チェンナイの ごがつの へいきん きおんは、さんじゅうどを こえます。",
+    "romaji": "chennai no gogatsu no heikin kion wa, sanjuudo o koemasu.",
+    "ta": "சென்னையின் மே மாதச் சராசரி வெப்பநிலை முப்பது டிகிரியைத் தாண்டும்.",
+    "en": "Chennai’s average temperature in May is over 30 degrees."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-1967",
+  "expression": "マイナス",
+  "reading": "マイナス",
+  "romaji": "mainasu",
+  "en": "minus; disadvantage",
+  "ta": "கழித்தல் (பாதகம்)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "北海道の冬は、マイナス十度になる日もあります。",
+    "reading": "ほっかいどうの ふゆは、マイナス じゅうどに なる ひも あります。",
+    "romaji": "hokkaidou no fuyu wa, mainasu juudo ni naru hi mo arimasu.",
+    "ta": "ஹொக்கைடோவின் குளிர்காலத்தில் மைனஸ் பத்து டிகிரி ஆகும் நாட்களும் உண்டு.",
+    "en": "In Hokkaido’s winter, some days reach minus ten degrees."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2002",
+  "expression": "酸化",
+  "reading": "さんか",
+  "romaji": "sanka",
+  "en": "oxidation",
+  "ta": "ஆக்சிஜனேற்றம்",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "切ったりんごは酸化して、茶色くなります。",
+    "reading": "きった りんごは さんか して、ちゃいろく なります。",
+    "romaji": "kitta ringo wa sanka shite, chairoku narimasu.",
+    "ta": "வெட்டிய ஆப்பிள் ஆக்சிஜனேற்றம் அடைந்து பழுப்பு நிறமாகிறது.",
+    "en": "Cut apples oxidise and turn brown."
+   }
+  ]
+ },
+ {
+  "id": "n3-v-2007",
+  "expression": "磁気",
+  "reading": "じき",
+  "romaji": "jiki",
+  "en": "magnetism",
+  "ta": "காந்தம் (காந்த சக்தி)",
+  "pos": "noun",
+  "examples": [
+   {
+    "ja": "カードを磁気の強い物の近くに置かないでください。",
+    "reading": "カードを じきの つよい ものの ちかくに おかないで ください。",
+    "romaji": "kaado o jiki no tsuyoi mono no chikaku ni okanaide kudasai.",
+    "ta": "அட்டையைக் காந்த சக்தி அதிகமுள்ள பொருள்களின் அருகில் வைக்காதீர்கள்.",
+    "en": "Don’t put the card near things with strong magnetism."
+   }
+  ]
+ }
+]

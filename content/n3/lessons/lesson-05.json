@@ -1,0 +1,782 @@
+{
+  "lesson": 5,
+  "title": {
+    "ja": "やりかけの家事",
+    "ta": "முடிக்காத வீட்டு வேலைகள்",
+    "en": "Unfinished housework"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் களம் வீட்டு வேலையும் சமையலும். வினையின் ます-அடியுடன் (食べ・作り・出し) சேரும் ஐந்து சிறு பின்னொட்டுகளைக் கற்போம்: かける (பாதியில் நின்றது), きる (முழுவதும் செய்தல்), たて (அப்போதுதான் செய்தது), っぱなし (அணைக்காமல்/மூடாமல் விட்டது), 直す (மீண்டும் சரியாகச் செய்தல்). இவற்றைக் கொண்டு 'பாதி சாப்பிட்ட ரொட்டி', 'சாப்பிட்டு முடிக்க முடியவில்லை', 'சுடச்சுட வடை', 'குழாயைத் திறந்தபடியே விட்டாய்', 'மீண்டும் கழுவு' என்று வீட்டில் நடப்பவற்றை இயல்பாகச் சொல்லலாம்.",
+  "intro_en": "This lesson is about housework and cooking. You learn five short endings that join the ます-stem of a verb (食べ・作り・出し). かける = half-done. きる = do all of it. たて = freshly done. っぱなし = left on or left undone. 直す = do it again properly. With them you can say “half-eaten bread”, “I can’t finish it”, “freshly fried”, “you left the tap running” and “wash it again”.",
+  "grammar": [
+    {
+      "id": "g05-1",
+      "pattern": "V-ます かける / V-ます かけの N",
+      "name": {
+        "en": "Half-done (started but not finished)",
+        "ta": "பாதியில் நின்ற (தொடங்கி முடிக்காத)"
+      },
+      "explanation_ta": "ます-அடி + かける என்றால் 'ஒரு செயலைத் தொடங்கி, பாதியில் நிறுத்தியது / முடிக்காதது' என்று பொருள். 食べかける = சாப்பிடத் தொடங்கிப் பாதியில் விட்டது. பெயர்ச்சொல்லுக்கு முன் 「かけの N」 என்று வரும்: 食べかけのパン (பாதி சாப்பிட்ட ரொட்டி), 読みかけの本 (பாதி படித்த புத்தகம்). வினையாகவும் பயன்படும்: 言いかけて、やめた (சொல்லத் தொடங்கி நிறுத்தினார்). இது ru-வினை போல மாறும் (かけた、かけて). N4-இல் கற்ற 「〜始める」 'தொடங்குவது' மட்டும் சொல்லும்; かける 'தொடங்கி, இன்னும் முடியவில்லை' என்பதை வலியுறுத்தும்.",
+      "explanation_en": "ます-stem + かける means you started something and stopped halfway. 食べかける = start eating and not finish. Before a noun, say かけの N: 食べかけのパン (half-eaten bread), 読みかけの本 (a half-read book). It also works as a verb: 言いかけて、やめた (started to say it, then stopped). It changes like a る-verb (かけた、かけて). 〜始める (N4) only says “begin”. かける stresses “begun but not finished”.",
+      "tamil_parallel": "பாதி சாப்பிட்ட ரொட்டி = 食べかけのパン; சொல்லத் தொடங்கி நிறுத்தினார் = 言いかけて、やめた",
+      "tamil_parallel_en": "பாதி சாப்பிட்ட ரொட்டி (half-eaten bread) = 食べかけのパン; சொல்லத் தொடங்கி நிறுத்தினார் (started to say, then stopped) = 言いかけて、やめた",
+      "formation": "V-ます அடி + かける (ru-வினை போல மாறும்)\nV-ます அடி + かけ + の + பெயர்ச்சொல்\n食べます → 食べかける / 食べかけのパン",
+      "formation_en": "V-ます stem + かける (changes like a る-verb)\nV-ます stem + かけ + の + noun\n食べます → 食べかける / 食べかけのパン",
+      "examples": [
+        {
+          "ja": "読みかけの本が机の上にあります。",
+          "reading": "よみかけの ほんが つくえの うえに あります。",
+          "romaji": "yomikake no hon ga tsukue no ue ni arimasu.",
+          "ta": "பாதி படித்த புத்தகம் மேசை மேல் இருக்கிறது.",
+          "en": "There’s a half-read book on the desk."
+        },
+        {
+          "ja": "食べかけのパンを冷蔵庫に入れておいた。",
+          "reading": "たべかけの パンを れいぞうこに いれて おいた。",
+          "romaji": "tabekake no pan o reizouko ni irete oita.",
+          "ta": "பாதி சாப்பிட்ட ரொட்டியை ஃப்ரிட்ஜில் வைத்தேன்.",
+          "en": "I put the half-eaten bread in the fridge."
+        },
+        {
+          "ja": "洗濯物を畳みかけたとき、電話が鳴りました。",
+          "reading": "せんたくものを たたみかけた とき、でんわが なりました。",
+          "romaji": "sentakumono o tatamikaketa toki, denwa ga narimashita.",
+          "ta": "துணிகளை மடிக்கத் தொடங்கியபோது தொலைபேசி அடித்தது.",
+          "en": "I had just started folding the laundry when the phone rang."
+        },
+        {
+          "ja": "料理を作りかけたまま、出かけてしまった。",
+          "reading": "りょうりを つくりかけた まま、でかけて しまった。",
+          "romaji": "ryouri o tsukurikaketa mama, dekakete shimatta.",
+          "ta": "சமையலைப் பாதியில் விட்டுவிட்டு வெளியே போய்விட்டேன்.",
+          "en": "I went out and left the cooking half-done."
+        },
+        {
+          "ja": "母は何か言いかけて、やめました。",
+          "reading": "ははは なにか いいかけて、やめました。",
+          "romaji": "haha wa nanika iikakete, yamemashita.",
+          "ta": "அம்மா ஏதோ சொல்லத் தொடங்கி, நிறுத்திவிட்டார்.",
+          "en": "Mom started to say something, then stopped."
+        },
+        {
+          "ja": "飲みかけのジュースをこぼさないでね。",
+          "reading": "のみかけの ジュースを こぼさないでね。",
+          "romaji": "nomikake no juusu o kobosanaide ne.",
+          "ta": "பாதி குடித்த ஜூஸைக் கொட்டிவிடாதே.",
+          "en": "Don’t spill your half-finished juice, OK?"
+        },
+        {
+          "ja": "この部屋の掃除はまだやりかけです。",
+          "reading": "この へやの そうじは まだ やりかけです。",
+          "romaji": "kono heya no souji wa mada yarikake desu.",
+          "ta": "இந்த அறையைச் சுத்தம் செய்வது இன்னும் பாதியில்தான் இருக்கிறது.",
+          "en": "Cleaning this room is still only half-done."
+        }
+      ],
+      "pitfalls_ta": "かける ます-அடியுடன் சேரும்: 食べかけ (சரி), 食べるかけ (தவறு). 「〜始める」 என்பதுடன் குழப்ப வேண்டாம்: 食べ始めた = சாப்பிடத் தொடங்கினேன் (பின் முடித்திருக்கலாம்); 食べかけた = தொடங்கி, முடிக்கவில்லை.",
+      "pitfalls_en": "かける joins the ます-stem: 食べかけ is right, 食べるかけ is wrong. Don’t mix it up with 〜始める. 食べ始めた = I started eating (maybe I finished). 食べかけた = I started and didn’t finish."
+    },
+    {
+      "id": "g05-2",
+      "pattern": "V-ます きる / V-ます きれない",
+      "name": {
+        "en": "Do completely / can’t finish",
+        "ta": "முழுவதும் செய்து முடித்தல் / முடிக்க முடியாது"
+      },
+      "explanation_ta": "ます-அடி + きる என்றால் 'ஒன்றை முழுவதுமாக, கடைசி வரை செய்து முடித்தல்' என்று பொருள்: 使いきる (முழுவதும் பயன்படுத்தித் தீர்த்தல்), 走りきる (கடைசி வரை ஓடுதல்). 'முடியாது' என்ற வடிவம் 「〜きれない」: 食べきれない = அளவு அதிகம், சாப்பிட்டு முடிக்க முடியாது. இது u-வினை போல மாறும் (きった、きって、きれる). 疲れきる (முழுவதும் களைத்துப்போதல்) போல 'முற்றிலும்' என்ற நிலையையும் காட்டும். N4-இன் 「〜てしまう」 'முடித்துவிட்டேன் / வருத்தம்' என்று சொல்லும்; きる அளவில் 'எல்லாம், கடைசி வரை' என்பதை வலியுறுத்தும்.",
+      "explanation_en": "ます-stem + きる means you do something completely, to the very end. 使いきる = use it all up. 走りきる = run to the finish. The “can’t” form is 〜きれない: 食べきれない = there is too much, I can’t eat it all. It changes like an う-verb (きった、きって、きれる). It can also mean “totally”, as in 疲れきる (completely worn out). 〜てしまう (N4) means “finished” or shows regret. きる stresses “all of it, to the end”.",
+      "tamil_parallel": "முழுவதும் சாப்பிட முடியாது = 食べきれない; பாலை முழுதும் தீர்த்துவிட்டேன் = 牛乳を使いきった",
+      "tamil_parallel_en": "முழுவதும் சாப்பிட முடியாது (I can’t eat it all) = 食べきれない; பாலைத் தீர்த்துவிட்டேன் (I used up the milk) = 牛乳を使いきった",
+      "formation": "V-ます அடி + きる (முழுவதும் செய்தல்)\nV-ます அடி + きれない (முழுவதும் செய்ய முடியாது)\n食べます → 食べきる / 食べきれない",
+      "formation_en": "V-ます stem + きる (do all of it)\nV-ます stem + きれない (can’t do all of it)\n食べます → 食べきる / 食べきれない",
+      "examples": [
+        {
+          "ja": "一人では食べきれないほど料理を作ってしまった。",
+          "reading": "ひとりでは たべきれない ほど りょうりを つくって しまった。",
+          "romaji": "hitori de wa tabekirenai hodo ryouri o tsukutte shimatta.",
+          "ta": "ஒருவரால் சாப்பிட்டு முடிக்க முடியாத அளவுக்குச் சமைத்துவிட்டேன்.",
+          "en": "I made more food than one person can eat."
+        },
+        {
+          "ja": "牛乳を一日で使いきりました。",
+          "reading": "ぎゅうにゅうを いちにちで つかいきりました。",
+          "romaji": "gyuunyuu o ichinichi de tsukaikirimashita.",
+          "ta": "பாலை ஒரே நாளில் முழுவதும் பயன்படுத்தித் தீர்த்துவிட்டேன்.",
+          "en": "I used up all the milk in one day."
+        },
+        {
+          "ja": "こんなにたくさんの洗濯物は、今日中に乾かしきれません。",
+          "reading": "こんなに たくさんの せんたくものは、きょうじゅうに かわかしきれません。",
+          "romaji": "konna ni takusan no sentakumono wa, kyoujuu ni kawakashikiremasen.",
+          "ta": "இவ்வளவு துணிகளை இன்றைக்குள் முழுவதும் உலர்த்த முடியாது.",
+          "en": "I can’t get this much laundry dry by today."
+        },
+        {
+          "ja": "弟はマラソンを最後まで走りきった。",
+          "reading": "おとうとは マラソンを さいごまで はしりきった。",
+          "romaji": "otouto wa marason o saigo made hashirikitta.",
+          "ta": "தம்பி மாரத்தானைக் கடைசி வரை ஓடி முடித்தான்.",
+          "en": "My brother ran the marathon all the way to the end."
+        },
+        {
+          "ja": "冷蔵庫に入りきらないので、野菜を少し隣の人にあげた。",
+          "reading": "れいぞうこに はいりきらないので、やさいを すこし となりの ひとに あげた。",
+          "romaji": "reizouko ni hairikiranai node, yasai o sukoshi tonari no hito ni ageta.",
+          "ta": "ஃப்ரிட்ஜில் எல்லாம் கொள்ளாததால் கொஞ்சம் காய்கறிகளைப் பக்கத்து வீட்டுக்காரருக்குக் கொடுத்தேன்.",
+          "en": "Not everything fit in the fridge, so I gave some vegetables to my neighbour."
+        },
+        {
+          "ja": "今日は疲れきって、料理をする元気がない。",
+          "reading": "きょうは つかれきって、りょうりを する げんきが ない。",
+          "romaji": "kyou wa tsukarekitte, ryouri o suru genki ga nai.",
+          "ta": "இன்று முழுவதும் களைத்துப்போனதால் சமைக்கச் சக்தியில்லை.",
+          "en": "Today I’m completely worn out and have no energy to cook."
+        },
+        {
+          "ja": "そのケーキ、一人で全部食べきれる？",
+          "reading": "その ケーキ、ひとりで ぜんぶ たべきれる？",
+          "romaji": "sono keeki, hitori de zenbu tabekireru?",
+          "ta": "அந்தக் கேக்கை நீ ஒருவனாகவே முழுதும் சாப்பிட முடியுமா?",
+          "en": "Can you eat that whole cake by yourself?"
+        }
+      ],
+      "pitfalls_ta": "「食べられない」 = சாப்பிடவே முடியாது (பிடிக்காது, ஒவ்வாது); 「食べきれない」 = சாப்பிடலாம், ஆனால் அளவு அதிகம், முழுவதும் முடியாது. இரண்டையும் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "食べられない = I can’t eat it at all (I don’t like it, or I’m allergic). 食べきれない = I can eat it, but there’s too much to finish. Don’t mix them up."
+    },
+    {
+      "id": "g05-3",
+      "pattern": "V-ます たて",
+      "name": {
+        "en": "Freshly done (just made, just baked)",
+        "ta": "அப்போதுதான் செய்த (சுடச்சுட, புத்தம் புதிய)"
+      },
+      "explanation_ta": "ます-அடி + たて என்றால் 'இப்போதுதான் செய்யப்பட்டது, அதனால் புதியது' என்று பொருள். பெரும்பாலும் 「たての N」 என்று பெயர்ச்சொல்லுக்கு முன் வரும்: 焼きたてのパン (இப்போதுதான் சுட்ட ரொட்டி), 炊きたてのご飯 (அப்போதுதான் வடித்த சோறு), 揚げたて (சுடச்சுடப் பொரித்தது). です உடனும் வரும்: このペンキは塗りたてです. உணவு, சலவை, பெயிண்ட், 'இப்போதுதான் வந்தவர்' (来たて) போன்ற சில வினைகளுடன் மட்டுமே இயல்பாக வரும். N4-இன் 「V-たばかり」 எந்த வினையுடனும் 'சற்று முன்புதான் செய்தேன்' என்று சொல்லும்; たて 'புதுமையான, நல்ல நிலை' என்ற உணர்வைத் தரும்.",
+      "explanation_en": "ます-stem + たて means “just made, so it’s fresh”. It usually comes before a noun as たての N: 焼きたてのパン (freshly baked bread), 炊きたてのご飯 (freshly cooked rice), 揚げたて (freshly fried). It can also end a sentence with です: このペンキは塗りたてです (this paint is fresh). It sounds natural only with some verbs: food, washing, paint, 来たて (just arrived). V-たばかり (N4) works with any verb and just means “a moment ago”. たて adds the feeling “fresh and in good condition”.",
+      "tamil_parallel": "சுடச்சுட வடை = 揚げたてのワダ; அப்போதுதான் வடித்த சோறு = 炊きたてのご飯",
+      "tamil_parallel_en": "சுடச்சுட வடை (freshly fried vadai) = 揚げたてのワダ; அப்போதுதான் வடித்த சோறு (freshly cooked rice) = 炊きたてのご飯",
+      "formation": "V-ます அடி + たて + の + பெயர்ச்சொல்\nV-ます அடி + たて + です\n焼きます → 焼きたてのパン",
+      "formation_en": "V-ます stem + たて + の + noun\nV-ます stem + たて + です\n焼きます → 焼きたてのパン",
+      "examples": [
+        {
+          "ja": "焼きたてのパンはとてもいいにおいがします。",
+          "reading": "やきたての パンは とても いい においが します。",
+          "romaji": "yakitate no pan wa totemo ii nioi ga shimasu.",
+          "ta": "இப்போதுதான் சுட்ட ரொட்டி மிக நல்ல வாசனை வீசுகிறது.",
+          "en": "Freshly baked bread smells wonderful."
+        },
+        {
+          "ja": "炊きたてのご飯に生卵をかけて食べます。",
+          "reading": "たきたての ごはんに なまたまごを かけて たべます。",
+          "romaji": "takitate no gohan ni namatamago o kakete tabemasu.",
+          "ta": "அப்போதுதான் வடித்த சோற்றின் மேல் பச்சை முட்டையை ஊற்றிச் சாப்பிடுவேன்.",
+          "en": "I eat freshly cooked rice with a raw egg on top."
+        },
+        {
+          "ja": "揚げたての天ぷらは熱いから、気をつけてね。",
+          "reading": "あげたての てんぷらは あついから、きを つけてね。",
+          "romaji": "agetate no tenpura wa atsui kara, ki o tsukete ne.",
+          "ta": "சுடச்சுடப் பொரித்த தெம்புரா சூடாக இருக்கும், கவனமாகச் சாப்பிடு.",
+          "en": "Freshly fried tempura is hot, so be careful."
+        },
+        {
+          "ja": "このペンキは塗りたてです。触らないでください。",
+          "reading": "この ペンキは ぬりたてです。さわらないで ください。",
+          "romaji": "kono penki wa nuritate desu. sawaranaide kudasai.",
+          "ta": "இந்தப் பெயிண்ட் இப்போதுதான் அடிக்கப்பட்டது. தொடாதீர்கள்.",
+          "en": "This paint is still wet. Please don’t touch."
+        },
+        {
+          "ja": "洗いたてのタオルは気持ちがいい。",
+          "reading": "あらいたての タオルは きもちが いい。",
+          "romaji": "araitate no taoru wa kimochi ga ii.",
+          "ta": "புதிதாகத் துவைத்த துண்டு இதமாக இருக்கிறது.",
+          "en": "A freshly washed towel feels lovely."
+        },
+        {
+          "ja": "彼は日本に来たてで、まだ日本語が上手じゃない。",
+          "reading": "かれは にほんに きたてで、まだ にほんごが じょうずじゃ ない。",
+          "romaji": "kare wa nihon ni kitate de, mada nihongo ga jouzu ja nai.",
+          "ta": "அவர் இப்போதுதான் ஜப்பானுக்கு வந்தவர்; இன்னும் ஜப்பானிய மொழி நன்றாகத் தெரியாது.",
+          "en": "He has only just come to Japan, so his Japanese isn’t good yet."
+        },
+        {
+          "ja": "作りたてのスープを、温かいうちにどうぞ。",
+          "reading": "つくりたての スープを、あたたかい うちに どうぞ。",
+          "romaji": "tsukuritate no suupu o, atatakai uchi ni douzo.",
+          "ta": "இப்போதுதான் செய்த சூப், சூடாக இருக்கும்போதே சாப்பிடுங்கள்.",
+          "en": "Here’s freshly made soup. Enjoy it while it’s warm."
+        }
+      ],
+      "pitfalls_ta": "たて எல்லா வினைகளுடனும் வராது: 読みたての本, 見たての映画 இயல்பாக இல்லை; அதற்கு 「読んだばかりの本」 சொல்லுங்கள். 'சாப்பிட விரும்புகிறேன்' (食べたい) உடன் குழப்ப வேண்டாம்: たて-இல் い இல்லை.",
+      "pitfalls_en": "たて doesn’t work with every verb. 読みたての本 or 見たての映画 sound odd; say 読んだばかりの本. Don’t confuse it with 食べたい (want to eat). たて has no い."
+    },
+    {
+      "id": "g05-4",
+      "pattern": "V-ます っぱなし",
+      "name": {
+        "en": "Left on / left as it is (careless)",
+        "ta": "அப்படியே விட்டுவிட்ட (அலட்சியமாக)"
+      },
+      "explanation_ta": "ます-அடி + っぱなし என்றால் 'ஒரு செயலைச் செய்துவிட்டு, அதைச் சரி செய்யாமல் அப்படியே விட்டது' என்று பொருள். பெரும்பாலும் குறை கூறும் உணர்வு: 水を出しっぱなし (குழாயைத் திறந்தபடியே விட்டது), 電気をつけっぱなし (லைட்டை அணைக்காமல் விட்டது). 「〜っぱなしにする」 (அப்படியே விடுதல்), 「〜っぱなしだ」 (அப்படியே இருக்கிறது), 「〜っぱなしで」 (அப்படியே வைத்துக்கொண்டு) என்று வரும். 立ちっぱなし (தொடர்ந்து நின்றுகொண்டே) போல 'நீண்ட நேரம் தொடர்ந்து' என்ற பொருளும் உண்டு. N4-இன் 「V-たまま」 நடுநிலையாக 'அந்த நிலையிலேயே' என்று சொல்லும்; っぱなし பேச்சுவழக்கு, அலட்சியம்/எரிச்சல் உணர்வு கூடுதல்.",
+      "explanation_en": "ます-stem + っぱなし means you did something and then left it that way. It usually sounds like a complaint: 水を出しっぱなし (left the tap running), 電気をつけっぱなし (left the light on). Use 〜っぱなしにする (leave it), 〜っぱなしだ (it’s been left), 〜っぱなしで (with it left). It can also mean “nonstop for a long time”: 立ちっぱなし (standing the whole time). V-たまま (N4) is neutral: “in that state”. っぱなし is casual and sounds careless or annoyed.",
+      "tamil_parallel": "குழாயைத் திறந்தபடியே விட்டுவிட்டாய் = 水を出しっぱなしにした; லைட் எரிந்துகொண்டே இருக்கிறது = 電気がつけっぱなしだ",
+      "tamil_parallel_en": "குழாயைத் திறந்தபடியே விட்டாய் (you left the tap running) = 水を出しっぱなしにした; லைட் எரிந்துகொண்டே இருக்கிறது (the light’s been left on) = 電気がつけっぱなしだ",
+      "formation": "V-ます அடி + っぱなし + にする / だ / で\n出します → 出しっぱなしにする\nつけます → つけっぱなしだ",
+      "formation_en": "V-ます stem + っぱなし + にする / だ / で\n出します → 出しっぱなしにする\nつけます → つけっぱなしだ",
+      "examples": [
+        {
+          "ja": "水を出しっぱなしにしないでください。",
+          "reading": "みずを だしっぱなしに しないで ください。",
+          "romaji": "mizu o dashippanashi ni shinaide kudasai.",
+          "ta": "குழாயைத் திறந்தபடியே விட்டுவிடாதீர்கள்.",
+          "en": "Please don’t leave the water running."
+        },
+        {
+          "ja": "弟はいつも服を脱ぎっぱなしにする。",
+          "reading": "おとうとは いつも ふくを ぬぎっぱなしに する。",
+          "romaji": "otouto wa itsumo fuku o nugippanashi ni suru.",
+          "ta": "தம்பி எப்போதும் கழற்றிய உடைகளை அப்படியே போட்டுவிடுவான்.",
+          "en": "My brother always leaves his clothes where he took them off."
+        },
+        {
+          "ja": "窓を開けっぱなしで寝て、風邪をひいた。",
+          "reading": "まどを あけっぱなしで ねて、かぜを ひいた。",
+          "romaji": "mado o akeppanashi de nete, kaze o hiita.",
+          "ta": "ஜன்னலைத் திறந்தபடியே தூங்கியதால் சளி பிடித்தது.",
+          "en": "I slept with the window open and caught a cold."
+        },
+        {
+          "ja": "台所の電気がつけっぱなしだよ。消してね。",
+          "reading": "だいどころの でんきが つけっぱなしだよ。けしてね。",
+          "romaji": "daidokoro no denki ga tsukeppanashi da yo. keshite ne.",
+          "ta": "சமையலறை லைட் எரிந்துகொண்டே இருக்கிறது. அணைத்துவிடு.",
+          "en": "The kitchen light’s been left on. Turn it off, OK?"
+        },
+        {
+          "ja": "電車が混んでいて、一時間立ちっぱなしだった。",
+          "reading": "でんしゃが こんで いて、いちじかん たちっぱなしだった。",
+          "romaji": "densha ga konde ite, ichijikan tachippanashi datta.",
+          "ta": "ரயிலில் கூட்டமாக இருந்ததால் ஒரு மணி நேரம் நின்றுகொண்டே இருந்தேன்.",
+          "en": "The train was crowded, so I stood the whole hour."
+        },
+        {
+          "ja": "使った皿を流しに置きっぱなしにしないで。",
+          "reading": "つかった さらを ながしに おきっぱなしに しないで。",
+          "romaji": "tsukatta sara o nagashi ni okippanashi ni shinaide.",
+          "ta": "பயன்படுத்திய தட்டுகளை சிங்கிலேயே அப்படியே போட்டுவிடாதே.",
+          "en": "Don’t just leave used plates sitting in the sink."
+        },
+        {
+          "ja": "エアコンをつけっぱなしにして出かけてしまった。",
+          "reading": "エアコンを つけっぱなしに して でかけて しまった。",
+          "romaji": "eakon o tsukeppanashi ni shite dekakete shimatta.",
+          "ta": "ஏசியை அணைக்காமல் வெளியே போய்விட்டேன்.",
+          "en": "I went out and left the air conditioner on."
+        }
+      ],
+      "pitfalls_ta": "っぱなし-க்கு முன் சிறிய っ உண்டு: 出しっぱなし (சரி), 出しはなし (தவறு). இது பெரும்பாலும் எதிர்மறை உணர்வு; 'நல்ல நிலையில் வைத்திருக்கிறேன்' என்பதற்கு 「〜ておく」 அல்லது 「〜たまま」 பயன்படுத்துங்கள்.",
+      "pitfalls_en": "There is a small っ: 出しっぱなし is right, 出しはなし is wrong. It usually sounds negative. For “I kept it that way on purpose”, use 〜ておく or 〜たまま."
+    },
+    {
+      "id": "g05-5",
+      "pattern": "V-ます 直す",
+      "name": {
+        "en": "Redo, do again properly",
+        "ta": "மீண்டும் (சரியாகச்) செய்தல்"
+      },
+      "explanation_ta": "ます-அடி + 直す (なおす) என்றால் 'முதல் முறை சரியில்லாததால், மீண்டும் நன்றாகச் செய்தல்' என்று பொருள். 書き直す (மீண்டும் எழுதுதல்), 作り直す (மீண்டும் சமைத்தல்), 洗い直す (மீண்டும் கழுவுதல்), 考え直す (மறுபடி யோசித்தல்), かけ直す (தொலைபேசியில் திரும்ப அழைத்தல்). இது u-வினை போல மாறும் (直した、直して). வெறும் 「もう一度 V」 என்பது 'மீண்டும் ஒருமுறை' மட்டும்; 直す 'திருத்தி, மேம்படுத்தி' என்ற பொருளைச் சேர்க்கும். தமிழில் 'திருத்தி எழுது', 'மறுபடி செய்' போன்றது.",
+      "explanation_en": "ます-stem + 直す (なおす) means the first try wasn’t good, so you do it again better. 書き直す = rewrite. 作り直す = make again. 洗い直す = wash again. 考え直す = rethink. かけ直す = call back. It changes like an う-verb (直した、直して). もう一度 V just means “once more”. 直す adds “to fix it, to make it better”.",
+      "tamil_parallel": "திருத்தி மீண்டும் எழுதுங்கள் = 書き直してください; மறுபடி யோசி = 考え直して",
+      "tamil_parallel_en": "திருத்தி மீண்டும் எழுதுங்கள் (please rewrite it) = 書き直してください; மறுபடி யோசி (think again) = 考え直して",
+      "formation": "V-ます அடி + 直す (u-வினை போல மாறும்)\n書きます → 書き直す\n作ります → 作り直した",
+      "formation_en": "V-ます stem + 直す (changes like an う-verb)\n書きます → 書き直す\n作ります → 作り直した",
+      "examples": [
+        {
+          "ja": "字が読みにくいので、書き直してください。",
+          "reading": "じが よみにくいので、かきなおして ください。",
+          "romaji": "ji ga yominikui node, kakinaoshite kudasai.",
+          "ta": "எழுத்து படிக்கக் கடினமாக இருப்பதால் மீண்டும் எழுதுங்கள்.",
+          "en": "Your writing is hard to read, so please write it again."
+        },
+        {
+          "ja": "味が薄かったので、スープを作り直しました。",
+          "reading": "あじが うすかったので、スープを つくりなおしました。",
+          "romaji": "aji ga usukatta node, suupu o tsukurinaoshimashita.",
+          "ta": "சுவை குறைவாக இருந்ததால் சூப்பை மீண்டும் செய்தேன்.",
+          "en": "The soup was bland, so I made it again."
+        },
+        {
+          "ja": "今忙しいので、後でかけ直します。",
+          "reading": "いま いそがしいので、あとで かけなおします。",
+          "romaji": "ima isogashii node, ato de kakenaoshimasu.",
+          "ta": "இப்போது வேலையாக இருக்கிறேன், பிறகு திரும்ப அழைக்கிறேன்.",
+          "en": "I’m busy now, so I’ll call you back later."
+        },
+        {
+          "ja": "ちゃんと洗えていなかったので、皿を洗い直した。",
+          "reading": "ちゃんと あらえて いなかったので、さらを あらいなおした。",
+          "romaji": "chanto araete inakatta node, sara o arainaoshita.",
+          "ta": "சரியாகக் கழுவப்படாததால் தட்டுகளை மீண்டும் கழுவினேன்.",
+          "en": "They weren’t properly clean, so I washed the plates again."
+        },
+        {
+          "ja": "タオルをきれいに畳み直してくれる？",
+          "reading": "タオルを きれいに たたみなおして くれる？",
+          "romaji": "taoru o kirei ni tataminaoshite kureru?",
+          "ta": "துண்டுகளை மீண்டும் நேர்த்தியாக மடித்துத் தருவாயா?",
+          "en": "Could you fold the towels again neatly?"
+        },
+        {
+          "ja": "その計画は、もう一度考え直したほうがいいよ。",
+          "reading": "その けいかくは、もう いちど かんがえなおした ほうが いいよ。",
+          "romaji": "sono keikaku wa, mou ichido kangaenaoshita hou ga ii yo.",
+          "ta": "அந்தத் திட்டத்தை இன்னொரு முறை மறுபடி யோசிப்பது நல்லது.",
+          "en": "You should rethink that plan once more."
+        }
+      ],
+      "pitfalls_ta": "直す ます-அடியுடன் சேரும்: 書き直す (சரி), 書いて直す (வேறு பொருள்: எழுதிவிட்டுப் பிறகு சரிசெய்தல்). 「直る」 (தானாகச் சரியாதல்) உடன் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "直す joins the ます-stem: 書き直す is right. 書いて直す means something else (“write, then fix”). Don’t confuse it with 直る (“to get fixed” by itself)."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0003",
+    "n3-v-0005",
+    "n3-v-0008",
+    "n3-v-0163",
+    "n3-v-0166",
+    "n3-v-0167",
+    "n3-v-0168",
+    "n3-v-0196",
+    "n3-v-0210",
+    "n3-v-0218",
+    "n3-v-0265",
+    "n3-v-0314",
+    "n3-v-0320",
+    "n3-v-0321",
+    "n3-v-0324",
+    "n3-v-0599",
+    "n3-v-0659",
+    "n3-v-0662",
+    "n3-v-0804",
+    "n3-v-0910",
+    "n3-v-0922",
+    "n3-v-0924",
+    "n3-v-0937",
+    "n3-v-0940",
+    "n3-v-0941",
+    "n3-v-0943",
+    "n3-v-0968",
+    "n3-v-0973",
+    "n3-v-1001",
+    "n3-v-1026",
+    "n3-v-1031",
+    "n3-v-1037",
+    "n3-v-1052",
+    "n3-v-1119",
+    "n3-v-1125",
+    "n3-v-1137",
+    "n3-v-1195",
+    "n3-v-1221",
+    "n3-v-1244",
+    "n3-v-1305",
+    "n3-v-1328",
+    "n3-v-1337",
+    "n3-v-1338",
+    "n3-v-1386",
+    "n3-v-1392",
+    "n3-v-1408",
+    "n3-v-1454",
+    "n3-v-1664",
+    "n3-v-1678",
+    "n3-v-1689",
+    "n3-v-1760",
+    "n3-v-1837",
+    "n3-v-1865",
+    "n3-v-1977",
+    "n3-v-1978",
+    "n3-v-1979",
+    "n3-v-1980",
+    "n3-v-1985",
+    "n3-v-1986"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L05-q01",
+        "type": "kanji_reading",
+        "sentence": "この市場の野菜はとても＿新鮮＿です。",
+        "target": "新鮮",
+        "options": [
+          "しんぜん",
+          "しんせん",
+          "しんせい",
+          "じんせん"
+        ],
+        "answer": 1,
+        "explanation_ta": "新鮮 = しんせん (புத்தம் புதிய). இரண்டும் 'ச' ஒலி, ぜ ஆகாது. しんせい (申請 = விண்ணப்பம்) வேறு சொல்.",
+        "explanation_en": "新鮮 = しんせん (fresh). Both parts use せ/し, not ぜ. しんせい is a different word (application)."
+      },
+      {
+        "id": "L05-q02",
+        "type": "kanji_reading",
+        "sentence": "カレーの＿材料＿を全部テーブルに並べてください。",
+        "target": "材料",
+        "options": [
+          "ざいりょう",
+          "さいりょう",
+          "ざいりょ",
+          "ざいりょく"
+        ],
+        "answer": 0,
+        "explanation_ta": "材料 = ざいりょう (தேவையான பொருட்கள்). ざ-வில் நிகர ஒலி (゛) உண்டு, りょう நீண்டது. ざいりょく (財力 = செல்வ வலிமை) வேறு.",
+        "explanation_en": "材料 = ざいりょう (ingredients). It starts with ざ, and りょう is long. ざいりょ is too short."
+      },
+      {
+        "id": "L05-q03",
+        "type": "kanji_reading",
+        "sentence": "台所の＿洗剤＿がなくなったので、買ってきてください。",
+        "target": "洗剤",
+        "options": [
+          "せんさい",
+          "せいざい",
+          "せんざい",
+          "せんじゃい"
+        ],
+        "answer": 2,
+        "explanation_ta": "洗剤 = せんざい (சோப்புத் தூள்). ん-க்குப் பின் ざ (நிகர ஒலி). せんさい (繊細 = மென்மையான) வேறு சொல்.",
+        "explanation_en": "洗剤 = せんざい (detergent). After ん it’s ざ. せんさい is a different word (delicate)."
+      },
+      {
+        "id": "L05-q04",
+        "type": "kanji_reading",
+        "sentence": "暑い日が続いて、＿食欲＿がありません。",
+        "target": "食欲",
+        "options": [
+          "しょくよう",
+          "しょくやく",
+          "しょっよく",
+          "しょくよく"
+        ],
+        "answer": 3,
+        "explanation_ta": "食欲 = しょくよく (பசி, சாப்பிட ஆர்வம்). 欲 = よく (ஆசை). しょくよう (食用 = உண்ணக்கூடிய) வேறு சொல்.",
+        "explanation_en": "食欲 = しょくよく (appetite). 欲 = よく (desire). しょくよう is a different word (edible)."
+      },
+      {
+        "id": "L05-q05",
+        "type": "orthography",
+        "sentence": "玉ねぎを油で＿いためます＿。",
+        "target": "いためます",
+        "options": [
+          "痛めます",
+          "炒めます",
+          "妙めます",
+          "沙めます"
+        ],
+        "answer": 1,
+        "explanation_ta": "வதக்குதல் = 炒める (火 'நெருப்பு' பகுதி உள்ளது). 痛める என்பதும் いためる, ஆனால் 'காயப்படுத்துதல்'. 妙, 沙 தோற்றத்தில் ஒத்த தவறான எழுத்துகள்.",
+        "explanation_en": "Stir-frying = 炒める. It has the fire part 火. 痛める is also いためる, but it means “to hurt”. 妙 and 沙 only look similar."
+      },
+      {
+        "id": "L05-q06",
+        "type": "orthography",
+        "sentence": "スープに塩と＿こしょう＿を少し入れる。",
+        "target": "こしょう",
+        "options": [
+          "故障",
+          "胡升",
+          "古椒",
+          "胡椒"
+        ],
+        "answer": 3,
+        "explanation_ta": "மிளகு = 胡椒 (こしょう). 故障 என்பதும் こしょう, ஆனால் பொருள் 'பழுது' (இயந்திரக் கோளாறு).",
+        "explanation_en": "Pepper = 胡椒 (こしょう). 故障 is also こしょう, but it means “breakdown”."
+      },
+      {
+        "id": "L05-q07",
+        "type": "vocab_context",
+        "sentence": "りんごの皮を（　　）から、小さく切ってください。",
+        "options": [
+          "むいて",
+          "ふいて",
+          "たたんで",
+          "まぜて"
+        ],
+        "answer": 0,
+        "explanation_ta": "தோலை உரித்தல் = 皮をむく. ふく (துடைத்தல்), たたむ (மடித்தல்) தோலுடன் பொருந்தாது.",
+        "explanation_en": "Peeling skin = 皮をむく. ふく (wipe) and たたむ (fold) don’t go with skin."
+      },
+      {
+        "id": "L05-q08",
+        "type": "vocab_context",
+        "sentence": "お茶が熱すぎるので、少し（　　）から飲みます。",
+        "options": [
+          "あたためて",
+          "わかして",
+          "さまして",
+          "にて"
+        ],
+        "answer": 2,
+        "explanation_ta": "சூடாக உள்ளதை ஆறவைத்தல் = 冷ます (さます). あたためる (சூடாக்குதல்), わかす (கொதிக்கவைத்தல்) நேர் எதிர்.",
+        "explanation_en": "Letting something hot cool down = 冷ます (さます). あたためる (heat) and わかす (boil) are the opposite."
+      },
+      {
+        "id": "L05-q09",
+        "type": "vocab_context",
+        "sentence": "テーブルにジュースを（　　）しまったので、タオルで拭いた。",
+        "options": [
+          "こぼれて",
+          "こぼして",
+          "まざって",
+          "むいて"
+        ],
+        "answer": 1,
+        "explanation_ta": "ஜூஸை 'நான்' சிந்தினேன் (を) = こぼす (செயப்படுபொருள் வினை). こぼれる 'தானாகச் சிந்துதல்'; を உடன் வராது.",
+        "explanation_en": "I spilled the juice (を) = こぼす, the verb that takes an object. こぼれる means “to spill by itself”. It can’t take を."
+      },
+      {
+        "id": "L05-q10",
+        "type": "vocab_context",
+        "sentence": "食べ終わったら、テーブルを（　　）ください。",
+        "options": [
+          "たいて",
+          "ゆでて",
+          "ふいて",
+          "むいて"
+        ],
+        "answer": 2,
+        "explanation_ta": "மேசையைத் துடைத்தல் = テーブルを拭く (ふく). 炊く (சோறு சமைத்தல்), 茹でる (வேகவைத்தல்) சமையல் வினைகள்.",
+        "explanation_en": "Wiping the table = テーブルを拭く (ふく). 炊く (cook rice) and 茹でる (boil) are cooking verbs."
+      },
+      {
+        "id": "L05-q11",
+        "type": "paraphrase",
+        "sentence": "冷蔵庫の牛乳を使いきった。",
+        "options": [
+          "冷蔵庫の牛乳はまだたくさんある。",
+          "冷蔵庫の牛乳を少し使った。",
+          "冷蔵庫の牛乳を使わなかった。",
+          "冷蔵庫の牛乳はもうない。"
+        ],
+        "answer": 3,
+        "explanation_ta": "使いきった = முழுவதும் பயன்படுத்தித் தீர்த்தேன், அதாவது 'பால் இனி இல்லை'. 少し使った (கொஞ்சம் பயன்படுத்தினேன்) என்பது பாதிதான்.",
+        "explanation_en": "使いきった = I used it all up, so “there is no milk left”. 少し使った (used a little) is only part of it."
+      },
+      {
+        "id": "L05-q12",
+        "type": "paraphrase",
+        "sentence": "このパンは焼きたてです。",
+        "options": [
+          "このパンは焼いたばかりです。",
+          "このパンは昨日焼きました。",
+          "このパンはまだ焼いていません。",
+          "このパンは焼きすぎました。"
+        ],
+        "answer": 0,
+        "explanation_ta": "焼きたて = இப்போதுதான் சுட்டது = 焼いたばかり. 焼きすぎ (அதிகமாகச் சுட்டது) வேறு பொருள்.",
+        "explanation_en": "焼きたて = just baked = 焼いたばかり. 焼きすぎ (overbaked) means something else."
+      },
+      {
+        "id": "L05-q13",
+        "type": "usage",
+        "sentence": "そのまま",
+        "options": [
+          "そのまま、明日駅で会いましょう。",
+          "洗ったトマトをそのまま食べました。",
+          "料理がそのまま上手になりました。",
+          "毎朝そのまま七時に起きます。"
+        ],
+        "answer": 1,
+        "explanation_ta": "そのまま = எதுவும் மாற்றாமல் அப்படியே. 'கழுவிய தக்காளியை (சமைக்காமல்) அப்படியே சாப்பிட்டேன்' சரி. 'சமையல் அப்படியே திறமையானது' என்பதில் மாற்றம் உள்ளதால் பொருந்தாது.",
+        "explanation_en": "そのまま = as it is, with no change. “I ate the washed tomato as it was” is right. “My cooking got better そのまま” is about change, so it doesn’t fit."
+      },
+      {
+        "id": "L05-q14",
+        "type": "usage",
+        "sentence": "冷める",
+        "options": [
+          "暑いので、冷蔵庫でジュースを冷めました。",
+          "母は夜、部屋を冷めて寝ます。",
+          "早く食べないと、スープが冷めてしまうよ。",
+          "冬の朝は、手がとても冷めます。"
+        ],
+        "answer": 2,
+        "explanation_ta": "冷める = சூடான ஒன்று தானாக ஆறிப்போதல் (செயப்படுபொருள் இல்லை). 'சூப் ஆறிவிடும்' சரி. ジュースを冷めました தவறு; を உடன் 冷やす வேண்டும்.",
+        "explanation_en": "冷める = something hot cools down by itself, with no object. “The soup will get cold” is right. ジュースを冷めました is wrong: with を you need 冷やす."
+      },
+      {
+        "id": "L05-q15",
+        "type": "grammar_form",
+        "sentence": "机の上に読み（　　）の本がたくさんある。",
+        "options": [
+          "たて",
+          "かけ",
+          "すぎ",
+          "なおし"
+        ],
+        "answer": 1,
+        "explanation_ta": "'பாதி படித்த புத்தகம்' = 読みかけの本. 読みたて இயல்பான சொல் அல்ல; たて உணவு போன்ற சில வினைகளுடன் மட்டும் வரும்.",
+        "explanation_en": "“A half-read book” = 読みかけの本. 読みたて is not natural: たて only goes with a few verbs, like food ones."
+      },
+      {
+        "id": "L05-q16",
+        "type": "grammar_form",
+        "sentence": "料理が多すぎて、一人では食べ（　　）。",
+        "options": [
+          "かけない",
+          "たてない",
+          "なおさない",
+          "きれない"
+        ],
+        "answer": 3,
+        "explanation_ta": "'அளவு அதிகம், முழுவதும் சாப்பிட முடியாது' = 食べきれない. かけない, たてない என்ற வடிவங்கள் இந்தப் பொருளில் இல்லை.",
+        "explanation_en": "“Too much, I can’t eat it all” = 食べきれない. かけない and たてない don’t carry this meaning."
+      },
+      {
+        "id": "L05-q17",
+        "type": "grammar_form",
+        "sentence": "駅前のパン屋で、焼き（　　）のパンを買った。",
+        "options": [
+          "かけ",
+          "っぱなし",
+          "たて",
+          "きり"
+        ],
+        "answer": 2,
+        "explanation_ta": "'இப்போதுதான் சுட்ட ரொட்டி' = 焼きたてのパン. 焼きかけ = பாதி சுட்டது; கடையில் அப்படிப்பட்டதை வாங்க மாட்டோம்.",
+        "explanation_en": "“Freshly baked bread” = 焼きたてのパン. 焼きかけ means half-baked, which a shop wouldn’t sell."
+      },
+      {
+        "id": "L05-q18",
+        "type": "grammar_form",
+        "sentence": "歯をみがくとき、水を出し（　　）にしないでください。",
+        "options": [
+          "かけ",
+          "たて",
+          "なおし",
+          "っぱなし"
+        ],
+        "answer": 3,
+        "explanation_ta": "'குழாயைத் திறந்தபடியே விடாதீர்கள்' = 出しっぱなしにしない. 出しかけ = திறக்கத் தொடங்கியது; பொருந்தாது.",
+        "explanation_en": "“Don’t leave the water running” = 出しっぱなしにしない. 出しかけ means “started to turn on”, which doesn’t fit."
+      },
+      {
+        "id": "L05-q19",
+        "type": "grammar_form",
+        "sentence": "レポートに間違いが多かったので、全部書き（　　）。",
+        "options": [
+          "なおした",
+          "かけた",
+          "きれた",
+          "たてた"
+        ],
+        "answer": 0,
+        "explanation_ta": "'தவறுகள் அதிகம், அதனால் மீண்டும் எழுதினேன்' = 書き直した. 書きかけた = எழுதத் தொடங்கி நிறுத்தினேன்; காரணத்துடன் பொருந்தாது.",
+        "explanation_en": "“There were many mistakes, so I rewrote it” = 書き直した. 書きかけた = started writing and stopped, which doesn’t match the reason."
+      },
+      {
+        "id": "L05-q20",
+        "type": "grammar_form",
+        "sentence": "宿題をやり（　　）のまま、寝てしまった。",
+        "options": [
+          "かけ",
+          "きり",
+          "たて",
+          "なおし"
+        ],
+        "answer": 0,
+        "explanation_ta": "'வீட்டுப்பாடத்தைப் பாதியில் விட்டுத் தூங்கிவிட்டேன்' = やりかけのまま. やりきり 'முழுவதும் முடித்தது', まま உடன் பொருள் முரண்.",
+        "explanation_en": "“I fell asleep with my homework half-done” = やりかけのまま. やりきり would mean “finished”, which clashes with まま."
+      },
+      {
+        "id": "L05-q21",
+        "type": "sentence_order",
+        "before": "姉は",
+        "chunks": [
+          "読みかけの",
+          "本を",
+          "テーブルに",
+          "置いた"
+        ],
+        "star": 1,
+        "after": "まま出かけた。",
+        "explanation_ta": "読みかけの (பாதி படித்த) → 本を (புத்தகத்தை) → テーブルに (மேசையில்) → 置いた (வைத்த) まま出かけた. ★ = 本を.",
+        "explanation_en": "読みかけの (half-read) → 本を (the book) → テーブルに (on the table) → 置いた (put) まま出かけた (and went out). ★ = 本を."
+      },
+      {
+        "id": "L05-q22",
+        "type": "sentence_order",
+        "before": "一人では",
+        "chunks": [
+          "食べきれない",
+          "ほど",
+          "たくさん",
+          "料理を"
+        ],
+        "star": 2,
+        "after": "作ってしまった。",
+        "explanation_ta": "食べきれない (சாப்பிட்டு முடிக்க முடியாத) → ほど (அளவுக்கு) → たくさん (நிறைய) → 料理を (உணவை) 作ってしまった. ★ = たくさん.",
+        "explanation_en": "食べきれない (can’t finish) → ほど (so much that) → たくさん (a lot of) → 料理を (food) 作ってしまった (I made). ★ = たくさん."
+      },
+      {
+        "id": "L05-q23",
+        "type": "sentence_order",
+        "before": "昨日の夜、",
+        "chunks": [
+          "電気を",
+          "つけっぱなしに",
+          "して",
+          "寝て"
+        ],
+        "star": 1,
+        "after": "しまった。",
+        "explanation_ta": "電気を (லைட்டை) → つけっぱなしにして (அணைக்காமல் விட்டு) → 寝てしまった (தூங்கிவிட்டேன்). ★ = つけっぱなしに.",
+        "explanation_en": "電気を (the light) → つけっぱなしにして (leaving it on) → 寝てしまった (I fell asleep). ★ = つけっぱなしに."
+      },
+      {
+        "id": "L05-q24",
+        "type": "passage_cloze",
+        "passage": "日曜日の朝、久しぶりにパンを焼いた。焼き［1］のパンはとてもおいしかったが、たくさん焼きすぎて、家族四人でも食べ［2］。午後は洗濯をした。ところが、買い物に出ている間に雨が降ってきた。洗濯物を外に干し［3］にしていたので、全部ぬれてしまった。しかたなく、もう一度洗い［4］ことにした。",
+        "blanks": [
+          {
+            "options": [
+              "かけ",
+              "たて",
+              "きり",
+              "なおし"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "きれなかった",
+              "きった",
+              "かけた",
+              "たてだった"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "たて",
+              "かけ",
+              "っぱなし",
+              "きり"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "かける",
+              "きれる",
+              "たてる",
+              "なおす"
+            ],
+            "answer": 3
+          }
+        ],
+        "explanation_ta": "［1］ இப்போதுதான் சுட்ட ரொட்டி = 焼きたて. ［2］ அதிகமாகச் சுட்டதால் முழுவதும் சாப்பிட முடியவில்லை = 食べきれなかった. ［3］ வெளியே காயப்போட்டபடியே விட்டிருந்தேன் = 干しっぱなし. ［4］ நனைந்ததால் மீண்டும் துவைக்க முடிவு செய்தேன் = 洗い直す.",
+        "explanation_en": "［1］ Freshly baked bread = 焼きたて. ［2］ We made too much, so we couldn’t eat it all = 食べきれなかった. ［3］ I had left the washing hanging outside = 干しっぱなし. ［4］ It got wet, so I decided to wash it again = 洗い直す."
+      }
+    ]
+  }
+}

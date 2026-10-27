@@ -1,0 +1,422 @@
+{
+  "unit": 19,
+  "title": { "en": "Money, knowledge and people", "ta": "செல்வம், அறிவு, மனிதர்கள்" },
+  "intro": {
+    "en": "In this unit you learn 13 kanji about wealth, knowledge and people: 財 (wealth), 識 (knowledge), 師 (teacher), 婦 (woman, wife) and more. Tip: money words often have the shell 貝 (old money) inside: 財, 責 and 資 from the last units.",
+    "ta": "இந்தப் பாடத்தில் செல்வம், அறிவு, மனிதர்கள் பற்றிய 13 கான்ஜிகளைக் கற்கிறீர்கள்: 財 (செல்வம்), 識 (அறிவு), 師 (ஆசிரியர்), 婦 (பெண், மனைவி) போன்றவை. குறிப்பு: பணம் தொடர்பான கான்ஜிகளில் பெரும்பாலும் சிப்பி 貝 (பழங்காலப் பணம்) இருக்கும்: 財, 責, முந்தைய பாடத்தின் 資."
+  },
+  "kanji": [
+    {
+      "kanji": "財",
+      "meaning": { "en": "wealth, property", "ta": "செல்வம், சொத்து" },
+      "on": ["ざい", "さい"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Shell money (貝) on the left and talent (才) on the right. Use your talent to collect money, and you build wealth.",
+        "ta": "இடப்பக்கம் சிப்பிப் பணம் (貝), வலப்பக்கம் திறமை (才). திறமையைப் பயன்படுத்திப் பணம் சேர்த்தால் செல்வம் உருவாகும்."
+      },
+      "note": {
+        "en": "財布 (wallet) is さいふ, not ざいふ. Most other words use ざい.",
+        "ta": "財布 (பணப்பை) = さいふ; ざいふ அல்ல. மற்ற பெரும்பாலான சொற்களில் ざい."
+      },
+      "examples": [
+        { "word": "財布", "reading": "さいふ", "en": "wallet", "ta": "பணப்பை (பர்ஸ்)", "vocabId": "n5-v-276" },
+        { "word": "財産", "reading": "ざいさん", "en": "property, fortune", "ta": "சொத்து", "vocabId": "n3-v-0962" },
+        { "word": "文化財", "reading": "ぶんかざい", "en": "cultural treasure", "ta": "கலாச்சாரச் சொத்து (பாரம்பரியச் சின்னம்)" }
+      ]
+    },
+    {
+      "kanji": "識",
+      "meaning": { "en": "know, knowledge", "ta": "அறி, அறிவு" },
+      "on": ["しき"],
+      "kun": [],
+      "mnemonic": {
+        "en": "Words (言), a sound (音) and a spear (戈). You hear words and sounds, and your mind keeps them sharp like a spear. That is knowledge.",
+        "ta": "சொல் (言), ஒலி (音), ஈட்டி (戈). சொற்களையும் ஒலிகளையும் கேட்டு, மனம் அவற்றை ஈட்டி போலக் கூர்மையாக வைத்துக்கொள்கிறது. அதுதான் அறிவு."
+      },
+      "note": {
+        "en": "識 (knowledge) has words 言 on the left. 職 (job) has an ear 耳.",
+        "ta": "識 (அறிவு): இடப்பக்கம் சொல் 言. 職 (வேலை): காது 耳."
+      },
+      "examples": [
+        { "word": "知識", "reading": "ちしき", "en": "knowledge", "ta": "அறிவு", "vocabId": "n3-v-1465" },
+        { "word": "常識", "reading": "じょうしき", "en": "common sense", "ta": "பொது அறிவு, இயல்பான புத்தி", "vocabId": "n3-v-0139" },
+        { "word": "意識", "reading": "いしき", "en": "consciousness, awareness", "ta": "சுயநினைவு, விழிப்புணர்வு", "vocabId": "n3-v-0375" }
+      ]
+    },
+    {
+      "kanji": "程",
+      "meaning": { "en": "degree, extent", "ta": "அளவு" },
+      "on": ["てい"],
+      "kun": ["ほど"],
+      "mnemonic": {
+        "en": "A grain plant (禾) on the left. On the right, a mouth (口) above a king (王). The king opens his mouth and asks, ‘How much grain is there?’ 程 = how much, the degree.",
+        "ta": "இடப்பக்கம் தானியச் செடி (禾). வலப்பக்கம் அரசன் (王) மேல் வாய் (口). அரசன் வாய் திறந்து ‘எவ்வளவு தானியம் இருக்கிறது?’ என்று கேட்கிறான். 程 = எவ்வளவு, அளவு."
+      },
+      "note": {
+        "en": "ほど is often written in kana: それほど (not that much), 3日ほど (about 3 days).",
+        "ta": "ほど பெரும்பாலும் கானாவில் எழுதப்படும்: それほど (அவ்வளவு இல்லை), 3日ほど (சுமார் 3 நாள்)."
+      },
+      "examples": [
+        { "word": "程度", "reading": "ていど", "en": "degree, level", "ta": "அளவு, நிலை", "vocabId": "n3-v-1545" },
+        { "word": "過程", "reading": "かてい", "en": "process", "ta": "செயல்முறை", "vocabId": "n3-v-0631" },
+        { "word": "程", "reading": "ほど", "en": "extent; (not) as … as", "ta": "அளவு; (-ஐப்) போல்", "vocabId": "n4-v-575" }
+      ]
+    },
+    {
+      "kanji": "師",
+      "meaning": { "en": "teacher, expert", "ta": "ஆசிரியர், நிபுணர்" },
+      "on": ["し"],
+      "kun": [],
+      "mnemonic": {
+        "en": "On the left, a pile of hills: a crowd of students. On the right, a cloth (巾) with a flat line on top, like a banner. The master holds up the banner and the crowd follows him. 師 = teacher, master.",
+        "ta": "இடப்பக்கம் குவிந்த குன்றுகள்: மாணவர் கூட்டம். வலப்பக்கம் மேலே தட்டையான கோடு உள்ள துணி (巾), ஒரு கொடி போல. குரு கொடியை உயர்த்துகிறார்; கூட்டம் பின்தொடர்கிறது. 師 = ஆசிரியர், குரு."
+      },
+      "note": {
+        "en": "医師 (いし) is a formal word for doctor. In daily talk people say 医者 (いしゃ).",
+        "ta": "医師 (いし) = மருத்துவர் (முறைப்படியான சொல்). அன்றாடப் பேச்சில் 医者 (いしゃ)."
+      },
+      "examples": [
+        { "word": "医師", "reading": "いし", "en": "doctor, physician", "ta": "மருத்துவர்", "vocabId": "n3-v-0371" },
+        { "word": "教師", "reading": "きょうし", "en": "teacher", "ta": "ஆசிரியர்" },
+        { "word": "美容師", "reading": "びようし", "en": "hairdresser", "ta": "சிகை அலங்கார நிபுணர்" }
+      ]
+    },
+    {
+      "kanji": "易",
+      "meaning": { "en": "easy; trade", "ta": "எளிது; வர்த்தகம்" },
+      "on": ["い", "えき"],
+      "kun": ["やさ.しい"],
+      "mnemonic": {
+        "en": "This is a lizard: the head (日) on top and the legs (勿) below. A lizard changes its colour very easily. 易 = easy, and also change, exchange (trade).",
+        "ta": "இது ஒரு பல்லி / ஓணான்: மேலே தலை (日), கீழே கால்கள் (勿). ஓணான் மிக எளிதாக நிறம் மாற்றும். 易 = எளிது; மாற்றம், பரிமாற்றம் (வர்த்தகம்)."
+      },
+      "note": {
+        "en": "易しい (easy) and 優しい (kind) are both read やさしい.",
+        "ta": "易しい (எளிதான), 優しい (அன்பான) இரண்டும் やさしい என்றே வாசிக்கப்படும்."
+      },
+      "examples": [
+        { "word": "易しい", "reading": "やさしい", "en": "easy", "ta": "எளிதான", "vocabId": "n5-v-669" },
+        { "word": "容易", "reading": "ようい", "en": "easy, simple", "ta": "எளிதான", "vocabId": "n3-v-1124" },
+        { "word": "貿易", "reading": "ぼうえき", "en": "trade (between countries)", "ta": "வர்த்தகம்", "vocabId": "n4-v-303" }
+      ]
+    },
+    {
+      "kanji": "破",
+      "meaning": { "en": "tear, break", "ta": "கிழி, உடை" },
+      "on": ["は"],
+      "kun": ["やぶ.る", "やぶ.れる"],
+      "mnemonic": {
+        "en": "A stone (石) hits a piece of skin or leather (皮). The leather tears open. 破 = tear, break.",
+        "ta": "ஒரு கல் (石) தோலின் (皮) மேல் மோதுகிறது. தோல் கிழிந்துவிடுகிறது. 破 = கிழி, உடை."
+      },
+      "note": {
+        "en": "破る (やぶる) = to tear something, or to break a promise. 破れる (やぶれる) = to get torn.",
+        "ta": "破る (やぶる) = ஒன்றைக் கிழிக்க / வாக்கை மீற. 破れる (やぶれる) = (தானாகக்) கிழிய."
+      },
+      "examples": [
+        { "word": "破る", "reading": "やぶる", "en": "to tear; to break (a promise)", "ta": "கிழிக்க; (வாக்கை) மீற", "vocabId": "n3-v-1099" },
+        { "word": "破れる", "reading": "やぶれる", "en": "to tear, to get torn", "ta": "கிழிய", "vocabId": "n3-v-1100" },
+        { "word": "破産", "reading": "はさん", "en": "bankruptcy", "ta": "திவால்", "vocabId": "n3-v-1761" }
+      ]
+    },
+    {
+      "kanji": "責",
+      "meaning": { "en": "blame; duty", "ta": "குற்றம் சாட்டு; பொறுப்பு" },
+      "on": ["せき"],
+      "kun": ["せ.める"],
+      "mnemonic": {
+        "en": "A thorny bush (the top, like 主) over shell money (貝). You owe money, so people keep poking you with thorns: ‘Pay it back!’ 責 = blame, and the duty to pay.",
+        "ta": "சிப்பிப் பணத்தின் (貝) மேல் முள் செடி (மேல்பகுதி, 主 போல). நீங்கள் பணம் கடன்பட்டிருக்கிறீர்கள்; ‘திருப்பிக் கொடு!’ என்று மக்கள் முள்ளால் குத்துகிறார்கள். 責 = குற்றம் சாட்டுதல், திருப்பித் தரும் பொறுப்பு."
+      },
+      "note": {
+        "en": "責任 is せきにん. Don’t mix up 責 (blame) with 積 (pile up), which has a grain plant 禾 on the left.",
+        "ta": "責任 = せきにん. 責 (குற்றம் சாட்டு), 積 (குவி, இடப்பக்கம் தானியச் செடி 禾) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "責任", "reading": "せきにん", "en": "responsibility", "ta": "பொறுப்பு", "vocabId": "n3-v-0288" },
+        { "word": "責める", "reading": "せめる", "en": "to blame", "ta": "குற்றம் சாட்ட, பழிக்க", "vocabId": "n3-v-1299" },
+        { "word": "責任者", "reading": "せきにんしゃ", "en": "person in charge", "ta": "பொறுப்பாளர்" }
+      ]
+    },
+    {
+      "kanji": "因",
+      "meaning": { "en": "cause", "ta": "காரணம்" },
+      "on": ["いん"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A big (大) man lies on a mat inside a box-shaped room (囗). Why is he lying there all day? He is sick, and that is the cause.",
+        "ta": "ஒரு பெரிய (大) மனிதர் பெட்டி போன்ற அறையில் (囗) பாயில் படுத்திருக்கிறார். ஏன் நாள் முழுதும் படுத்திருக்கிறார்? உடம்பு சரியில்லை; அதுதான் காரணம்."
+      },
+      "note": {
+        "en": "Don’t mix up 因 (cause, 大 inside) and 困 (in trouble, 木 inside).",
+        "ta": "因 (காரணம், உள்ளே 大), 困 (சிரமம், உள்ளே 木) இரண்டையும் குழப்ப வேண்டாம்."
+      },
+      "examples": [
+        { "word": "原因", "reading": "げんいん", "en": "cause", "ta": "காரணம்", "vocabId": "n4-v-233" },
+        { "word": "要因", "reading": "よういん", "en": "main factor", "ta": "முக்கியக் காரணி" },
+        { "word": "死因", "reading": "しいん", "en": "cause of death", "ta": "மரணக் காரணம்" }
+      ]
+    },
+    {
+      "kanji": "富",
+      "meaning": { "en": "rich, wealth", "ta": "செல்வம், வளம்" },
+      "on": ["ふ"],
+      "kun": ["とみ", "と.む"],
+      "mnemonic": {
+        "en": "Under a roof (宀) there is one mouth (一 + 口) and a whole rice field (田). A house that owns a big field and has food for every mouth is rich.",
+        "ta": "கூரையின் (宀) கீழ் ஒரு வாய் (一 + 口), ஒரு முழு வயல் (田). பெரிய வயலும், ஒவ்வொரு வாய்க்கும் உணவும் உள்ள வீடு செல்வமானது."
+      },
+      "note": {
+        "en": "Don’t mix up 富 (rich, roof 宀) and 福 (luck, altar 礻). In 富士山 (ふじさん, Mount Fuji), 富 is ふ.",
+        "ta": "富 (செல்வம், கூரை 宀), 福 (அதிர்ஷ்டம், பலிபீடம் 礻) இரண்டையும் குழப்ப வேண்டாம். 富士山 (ふじさん, ஃபூஜி மலை)-இல் 富 = ふ."
+      },
+      "examples": [
+        { "word": "富士山", "reading": "ふじさん", "en": "Mount Fuji", "ta": "ஃபூஜி மலை" },
+        { "word": "富", "reading": "とみ", "en": "wealth, riches", "ta": "செல்வம்" },
+        { "word": "富む", "reading": "とむ", "en": "to be rich (in)", "ta": "நிறைந்திருக்க, வளமாக இருக்க" }
+      ]
+    },
+    {
+      "kanji": "適",
+      "meaning": { "en": "suitable, fit", "ta": "பொருத்தமான, ஏற்ற" },
+      "on": ["てき"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A road (辶) and an old (古) house with a hat-shaped roof on top. The tired traveller finds an old inn on the road. It fits him just right: suitable.",
+        "ta": "சாலை (辶), மேலே தொப்பி போன்ற கூரையுடன் ஒரு பழைய (古) வீடு. களைத்த பயணி சாலையில் ஒரு பழைய சத்திரத்தைக் காண்கிறார். அவருக்குச் சரியாகப் பொருந்துகிறது: ஏற்றது."
+      },
+      "note": {
+        "en": "適当 can mean ‘suitable’, but in daily talk it often means ‘careless, rough’: 適当に やる (do it carelessly).",
+        "ta": "適当 = பொருத்தமான; ஆனால் அன்றாடப் பேச்சில் பெரும்பாலும் ‘அலட்சியமாக, ஏனோதானோ’ என்றும் பொருள்: 適当に やる."
+      },
+      "examples": [
+        { "word": "適当", "reading": "てきとう", "en": "suitable; (also) careless", "ta": "பொருத்தமான, ஏற்ற; (மேலும்) ஏனோதானோ", "vocabId": "n4-v-203" },
+        { "word": "適切", "reading": "てきせつ", "en": "appropriate, right", "ta": "சரியான, தகுந்த", "vocabId": "n3-v-1551" },
+        { "word": "適度", "reading": "てきど", "en": "moderate", "ta": "அளவான", "vocabId": "n3-v-1552" }
+      ]
+    },
+    {
+      "kanji": "婦",
+      "meaning": { "en": "woman, wife", "ta": "பெண், மனைவி" },
+      "on": ["ふ"],
+      "kun": [],
+      "mnemonic": {
+        "en": "A woman (女) holding a broom (帚, a hand over a cloth 巾). In old pictures the woman of the house sweeps the floor. 婦 = woman, wife. (Today everyone sweeps!)",
+        "ta": "துடைப்பம் (帚, துணி 巾 மேல் ஒரு கை) பிடித்த ஒரு பெண் (女). பழைய ஓவியங்களில் வீட்டுப் பெண் தரையைப் பெருக்குவாள். 婦 = பெண், மனைவி. (இன்று எல்லோரும் பெருக்குகிறார்கள்!)"
+      },
+      "note": {
+        "en": "夫婦 (husband and wife) is ふうふ: 夫 becomes a long ふう here.",
+        "ta": "夫婦 (கணவன் மனைவி) = ふうふ: இங்கே 夫 = ふう (நீண்ட ஒலி)."
+      },
+      "examples": [
+        { "word": "夫婦", "reading": "ふうふ", "en": "married couple", "ta": "கணவன் மனைவி (தம்பதி)", "vocabId": "n3-v-1860" },
+        { "word": "主婦", "reading": "しゅふ", "en": "housewife", "ta": "இல்லத்தரசி", "vocabId": "n3-v-0118" },
+        { "word": "婦人", "reading": "ふじん", "en": "lady, woman", "ta": "பெண்மணி", "vocabId": "n3-v-1876" }
+      ]
+    },
+    {
+      "kanji": "寄",
+      "meaning": { "en": "drop by, come near", "ta": "வழியில் போ, அருகே வா" },
+      "on": ["き"],
+      "kun": ["よ.る", "よ.せる"],
+      "mnemonic": {
+        "en": "A roof (宀) over a big (大) old man with a walking stick (可). The tired old man comes near the house and drops in to rest for a while.",
+        "ta": "கைத்தடி (可) பிடித்த பெரிய (大) முதியவர் மேல் கூரை (宀). களைத்த முதியவர் வீட்டின் அருகே வந்து சிறிது ஓய்வெடுக்க உள்ளே நுழைகிறார்."
+      },
+      "note": {
+        "en": "年寄り (としより) means old people. Use it kindly; お年寄り is more polite.",
+        "ta": "年寄り (としより) = வயதானவர்கள். மரியாதையாகச் சொல்ல お年寄り."
+      },
+      "examples": [
+        { "word": "寄る", "reading": "よる", "en": "to stop by, to drop in", "ta": "வழியில் போய் வர", "vocabId": "n4-v-130" },
+        { "word": "年寄り", "reading": "としより", "en": "old people", "ta": "வயதானவர்கள்", "vocabId": "n3-v-1613" },
+        { "word": "寄付", "reading": "きふ", "en": "donation", "ta": "நன்கொடை", "vocabId": "n3-v-0722" }
+      ]
+    },
+    {
+      "kanji": "余",
+      "meaning": { "en": "extra, too much", "ta": "மிச்சம், அதிகம்" },
+      "on": ["よ"],
+      "kun": ["あま.る", "あま.り"],
+      "mnemonic": {
+        "en": "A big roof (人) over a table (一) on a stand with legs (ホ). The wedding feast is over, but food is still on the table under the roof. It is extra: left over.",
+        "ta": "கால்கள் உள்ள தாங்கியின் (ホ) மேல் மேசை (一), அதன் மேல் பெரிய கூரை (人). கல்யாண விருந்து முடிந்தது; ஆனால் கூரையின் கீழ் மேசையில் இன்னும் உணவு இருக்கிறது. அது மிச்சம்."
+      },
+      "note": {
+        "en": "あまり + negative = ‘not very’: あまり 高くない (not very expensive). 余る (あまる) = to be left over.",
+        "ta": "あまり + எதிர்மறை = அவ்வளவாக இல்லை: あまり 高くない (அவ்வளவு விலை இல்லை). 余る (あまる) = மிச்சமிருக்க."
+      },
+      "examples": [
+        { "word": "余り", "reading": "あまり", "en": "not very (with a negative); the rest", "ta": "அவ்வளவாக (இல்லை); மிச்சம்", "vocabId": "n5-v-036" },
+        { "word": "余る", "reading": "あまる", "en": "to be left over", "ta": "மிச்சமிருக்க" },
+        { "word": "余分", "reading": "よぶん", "en": "extra, surplus", "ta": "கூடுதல் (மிச்சம்)", "vocabId": "n3-v-1145" }
+      ]
+    }
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "KU19-q01",
+        "type": "kanji_reading",
+        "sentence": "かれは 車の ＿知識＿が たくさん あります。",
+        "target": "知識",
+        "options": ["ちしき", "ちしょく", "ちしっき", "ちじき"],
+        "answer": 0,
+        "explanation_en": "知識 is read ちしき (அறிவு, knowledge). しょく is the reading of 職 (job), which looks similar.",
+        "explanation_ta": "知識 = ちしき (அறிவு, knowledge). しょく என்பது பார்வைக்கு ஒத்த 職 (வேலை)-இன் வாசிப்பு."
+      },
+      {
+        "id": "KU19-q02",
+        "type": "kanji_reading",
+        "sentence": "駅で ＿財布＿を 落としました。",
+        "target": "財布",
+        "options": ["ざいふ", "さいふ", "さいぶ", "ざいぶ"],
+        "answer": 1,
+        "explanation_en": "財布 is read さいふ (பணப்பை, wallet). In this word 財 is さい, not ざい.",
+        "explanation_ta": "財布 = さいふ (பணப்பை, wallet). இந்தச் சொல்லில் 財 = さい; ざい அல்ல."
+      },
+      {
+        "id": "KU19-q03",
+        "type": "kanji_reading",
+        "sentence": "どの ＿程度＿ 日本語が 話せますか。",
+        "target": "程度",
+        "options": ["ていと", "てど", "ていど", "ほどど"],
+        "answer": 2,
+        "explanation_en": "程度 is read ていど (அளவு, degree). 程 is a long てい, and 度 is a voiced ど. ほどど mixes in the kun reading ほど.",
+        "explanation_ta": "程度 = ていど (அளவு, degree). 程 = てい (நீண்ட ஒலி), 度 = ど (ஒலிப்புடையது). ほどど என்பது kun வாசிப்பு ほど-ஐக் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU19-q04",
+        "type": "kanji_reading",
+        "sentence": "兄は ＿医師＿に なりました。",
+        "target": "医師",
+        "options": ["いいし", "いじ", "いしゃ", "いし"],
+        "answer": 3,
+        "explanation_en": "医師 is read いし (மருத்துவர், doctor). いしゃ is 医者, a different word with the same meaning.",
+        "explanation_ta": "医師 = いし (மருத்துவர், doctor). いしゃ என்பது 医者; அதே பொருள் உள்ள வேறு சொல்."
+      },
+      {
+        "id": "KU19-q05",
+        "type": "kanji_reading",
+        "sentence": "この 問題は とても ＿易しい＿です。",
+        "target": "易しい",
+        "options": ["やさしい", "やすしい", "えきしい", "たやしい"],
+        "answer": 0,
+        "explanation_en": "易しい is read やさしい (எளிதான, easy). えきしい mixes the on reading えき with the kana ending.",
+        "explanation_ta": "易しい = やさしい (எளிதான, easy). えきしい என்பது on வாசிப்பு えき-ஐ கானா முடிவுடன் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU19-q06",
+        "type": "kanji_reading",
+        "sentence": "シャツが ＿破れて＿ しまいました。",
+        "target": "破れて",
+        "options": ["われて", "やぶれて", "やぶって", "はれて"],
+        "answer": 1,
+        "explanation_en": "破れて is read やぶれて (கிழிய, to get torn). やぶって would be written 破って. はれて mixes in the on reading は.",
+        "explanation_ta": "破れて = やぶれて (கிழிய, to get torn). やぶって என்றால் 破って என்று எழுத வேண்டும். はれて என்பது on வாசிப்பு は-ஐக் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU19-q07",
+        "type": "kanji_reading",
+        "sentence": "火事の ＿原因＿を 調べて います。",
+        "target": "原因",
+        "options": ["げんい", "けんいん", "げんいん", "げにん"],
+        "answer": 2,
+        "explanation_en": "原因 is read げんいん (காரணம், cause). 因 is いん, so げんい is wrong, and 原 is a voiced げん.",
+        "explanation_ta": "原因 = げんいん (காரணம், cause). 因 = いん; அதனால் げんい தவறு. 原 = げん (ஒலிப்புடையது)."
+      },
+      {
+        "id": "KU19-q08",
+        "type": "kanji_reading",
+        "sentence": "となりの ＿夫婦＿は いつも いっしょに 散歩して います。",
+        "target": "夫婦",
+        "options": ["ふふ", "ふうぶ", "ふっふ", "ふうふ"],
+        "answer": 3,
+        "explanation_en": "夫婦 is read ふうふ (கணவன் மனைவி, married couple). 夫 is a long ふう here, so ふふ is wrong.",
+        "explanation_ta": "夫婦 = ふうふ (கணவன் மனைவி, married couple). இங்கே 夫 = ふう (நீண்ட ஒலி); அதனால் ふふ தவறு."
+      },
+      {
+        "id": "KU19-q09",
+        "type": "kanji_reading",
+        "sentence": "帰りに スーパーに ＿寄って＿ ください。",
+        "target": "寄って",
+        "options": ["よって", "きって", "よせって", "のって"],
+        "answer": 0,
+        "explanation_en": "寄って is read よって (வழியில் போய் வர, to stop by). きって mixes in the on reading き.",
+        "explanation_ta": "寄って = よって (வழியில் போய் வர, to stop by). きって என்பது on வாசிப்பு き-ஐக் கலந்தது; தவறு."
+      },
+      {
+        "id": "KU19-q10",
+        "type": "kanji_reading",
+        "sentence": "パーティーの 料理が ＿余りました＿。",
+        "target": "余りました",
+        "options": ["よりました", "あまりました", "のこりました", "あましました"],
+        "answer": 1,
+        "explanation_en": "余りました is read あまりました (மிச்சமானது, was left over). のこりました has the same meaning but is the verb 残る. よりました mixes in the on reading よ.",
+        "explanation_ta": "余りました = あまりました (மிச்சமானது, was left over). のこりました அதே பொருள்; ஆனால் அது 残る வினை. よりました on வாசிப்பு よ-ஐக் கலந்தது."
+      },
+      {
+        "id": "KU19-q11",
+        "type": "orthography",
+        "sentence": "これは わたしの ＿せきにん＿です。",
+        "target": "せきにん",
+        "options": ["債任", "積任", "責任", "席任"],
+        "answer": 2,
+        "explanation_en": "せきにん is written 責任 (பொறுப்பு, responsibility). 積 and 席 are also せき, and 債 looks similar, but only 責 means duty.",
+        "explanation_ta": "せきにん = 責任 (பொறுப்பு, responsibility). 積, 席 இரண்டும் せき தான்; 債 பார்வைக்கு ஒத்தது. ஆனால் 責 மட்டுமே பொறுப்பு."
+      },
+      {
+        "id": "KU19-q12",
+        "type": "orthography",
+        "sentence": "＿てきとうな＿ 言葉を 選んで ください。",
+        "target": "てきとうな",
+        "options": ["敵当な", "滴当な", "摘当な", "適当な"],
+        "answer": 3,
+        "explanation_en": "てきとうな is written 適当な (பொருத்தமான, suitable). All four have the same right part, but suitable takes the road 辶. 敵 means enemy.",
+        "explanation_ta": "てきとうな = 適当な (பொருத்தமான, suitable). நான்கிலும் ஒரே வலப்பகுதி உண்டு; ஆனால் பொருத்தம் = சாலை 辶. 敵 = எதிரி."
+      },
+      {
+        "id": "KU19-q13",
+        "type": "orthography",
+        "sentence": "かれは 大きな ＿ざいさん＿を のこしました。",
+        "target": "ざいさん",
+        "options": ["財産", "材産", "在産", "罪産"],
+        "answer": 0,
+        "explanation_en": "ざいさん is written 財産 (சொத்து, property). 材, 在 and 罪 are also ざい, but money takes the shell 貝.",
+        "explanation_ta": "ざいさん = 財産 (சொத்து, property). 材, 在, 罪 மூன்றும் ざい தான்; ஆனால் பணத்துக்குச் சிப்பி 貝."
+      },
+      {
+        "id": "KU19-q14",
+        "type": "orthography",
+        "sentence": "いつか ＿ふじさん＿に 登りたいです。",
+        "target": "ふじさん",
+        "options": ["宮士山", "富士山", "福士山", "副士山"],
+        "answer": 1,
+        "explanation_en": "ふじさん is written 富士山 (ஃபூஜி மலை, Mount Fuji). 福 and 副 look like 富 but have other left parts. 宮 has a roof, but means palace.",
+        "explanation_ta": "ふじさん = 富士山 (ஃபூஜி மலை, Mount Fuji). 福, 副 இரண்டும் 富 போலத் தெரியும்; ஆனால் வேறு பகுதிகள் உண்டு. 宮-இலும் கூரை உண்டு; அது அரண்மனை."
+      },
+      {
+        "id": "KU19-q15",
+        "type": "orthography",
+        "sentence": "それは ＿じょうしき＿です。",
+        "target": "じょうしき",
+        "options": ["常織", "常職", "常識", "常式"],
+        "answer": 2,
+        "explanation_en": "じょうしき is written 常識 (பொது அறிவு, common sense). Knowledge takes words 言. 職 (ear 耳) means job, and 式 is a ceremony.",
+        "explanation_ta": "じょうしき = 常識 (பொது அறிவு, common sense). அறிவுக்கு சொல் 言. 職 (காது 耳) = வேலை; 式 = விழா."
+      },
+      {
+        "id": "KU19-q16",
+        "type": "orthography",
+        "sentence": "約束を ＿やぶっては＿ いけません。",
+        "target": "やぶっては",
+        "options": ["被っては", "波っては", "皮っては", "破っては"],
+        "answer": 3,
+        "explanation_en": "やぶっては is written 破っては ((வாக்கை) மீற, to break a promise). All options have 皮, but break takes the stone 石.",
+        "explanation_ta": "やぶっては = 破っては ((வாக்கை) மீற, to break a promise). எல்லா விடைகளிலும் 皮 உண்டு; ஆனால் உடைப்பதற்குக் கல் 石."
+      }
+    ]
+  }
+}

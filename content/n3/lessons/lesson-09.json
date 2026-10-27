@@ -1,0 +1,745 @@
+{
+  "lesson": 9,
+  "title": {
+    "ja": "夏から秋にかけて",
+    "ta": "கோடையிலிருந்து இலையுதிர் காலம் வரை",
+    "en": "From summer into autumn"
+  },
+  "intro_ta": "இந்தப் பாடத்தின் கருப்பொருள் பருவங்கள், வானிலை, ஆண்டு நாட்காட்டி. 'கோடையிலிருந்து இலையுதிர் காலம் வரை (から〜にかけて)', 'ஆண்டு முழுவதும் (を通じて / 中)', 'ஒரு வாரம் முழுக்க (にわたって)', 'கூட்டம் நடந்துகொண்டிருக்கிறது (会議中)' என்று ஒரு காலப்பகுதி அல்லது பரப்பு முழுவதும் பரவிய நிகழ்வுகளைச் சொல்லக் கற்போம். வானிலை அறிக்கையைப் புரிந்துகொள்ளவும், ஜப்பானின் நான்கு பருவங்களையும் தமிழ்நாட்டின் வெப்பமான காலநிலையையும் ஒப்பிட்டுப் பேசவும் பயிற்சி செய்வோம்.",
+  "intro_en": "This lesson is about seasons, weather and the yearly calendar. You will learn to talk about things that spread over a time or an area. You will say \"from summer into autumn\" (から〜にかけて). You will say \"all year round\" (を通じて / 中). You will say \"for a whole week\" (にわたって). You will say \"in a meeting now\" (会議中). You will practise understanding weather forecasts. You will also compare Japan's four seasons with the hot climate of Tamil Nadu.",
+  "grammar": [
+    {
+      "id": "g09-1",
+      "pattern": "N から N に かけて",
+      "name": {
+        "en": "From ~ through ~ (roughly)",
+        "ta": "〜இலிருந்து 〜வரை (சுமாராக)"
+      },
+      "explanation_ta": "AからBにかけて என்றால் 'A-யிலிருந்து B வரையிலான பகுதி முழுவதும் பரவலாக' என்று பொருள். காலம் (夏から秋にかけて) அல்லது இடம் (九州から関東にかけて) இரண்டுக்கும் வரும். から〜まで தொடக்கமும் முடிவும் துல்லியமாக இருக்கும்போது (9時から5時まで); から〜にかけて எல்லைகள் தெளிவில்லாமல், அந்தப் பகுதியில் எங்கோ, எப்போதோ, பரவலாக நடக்கும்போது. வானிலை அறிக்கை, செய்திகளில் மிக அதிகம். இரண்டாம் பகுதியில் பொதுவாக ஒருவரின் திட்டமிட்ட ஒருமுறைச் செயல் வராது; இயற்கை நிகழ்வு அல்லது நிலை வரும்.",
+      "explanation_en": "AからBにかけて means \"spread over the range from A to B\". Use it for time (夏から秋にかけて, from summer into autumn) or places (九州から関東にかけて, from Kyushu to Kanto). から〜まで gives an exact start and end (9時から5時まで). から〜にかけて has fuzzy edges. It means something happens somewhere or sometime in that range. It is very common in weather forecasts and news. Part B is usually a natural event or a state, not one planned action.",
+      "tamil_parallel": "கோடையிலிருந்து இலையுதிர் காலம் வரை (அந்தக் காலப்பகுதியில்) புயல்கள் அடிக்கடி வரும் = 夏から秋にかけて、台風がよく来ます",
+      "tamil_parallel_en": "Tamil \"〜இலிருந்து 〜வரை\" (from ~ to ~), loosely: \"Typhoons often come from summer into autumn\" = 夏から秋にかけて、台風がよく来ます",
+      "formation": "பெயர்ச்சொல் A (காலம் / இடம்) + から + பெயர்ச்சொல் B + にかけて、 + நிகழ்வு / நிலை\nபெயர்ச்சொல்லுக்கு முன்: AからBにかけての + பெயர்ச்சொல்",
+      "formation_en": "Noun A (time / place) + から + noun B + にかけて、 + event / state\nBefore a noun: AからBにかけての + noun",
+      "examples": [
+        {
+          "ja": "夏から秋にかけて、台風がよく来ます。",
+          "reading": "なつから あきに かけて、たいふうが よく きます。",
+          "romaji": "natsu kara aki ni kakete, taifuu ga yoku kimasu.",
+          "ta": "கோடையிலிருந்து இலையுதிர் காலம் வரை புயல்கள் அடிக்கடி வரும்.",
+          "en": "Typhoons often come from summer into autumn."
+        },
+        {
+          "ja": "今夜から明日の朝にかけて、雪が降るでしょう。",
+          "reading": "こんやから あしたの あさに かけて、ゆきが ふるでしょう。",
+          "romaji": "kon'ya kara ashita no asa ni kakete, yuki ga furu deshou.",
+          "ta": "இன்றிரவு முதல் நாளை காலை வரை பனி பெய்யக்கூடும்.",
+          "en": "Snow is likely from tonight through tomorrow morning."
+        },
+        {
+          "ja": "九州から関東にかけて、激しい雨が降りました。",
+          "reading": "きゅうしゅうから かんとうに かけて、はげしい あめが ふりました。",
+          "romaji": "kyuushuu kara kantou ni kakete, hageshii ame ga furimashita.",
+          "ta": "க்யூஷூ முதல் கான்தோ வரையிலான பகுதியில் கடும் மழை பெய்தது.",
+          "en": "Heavy rain fell across the area from Kyushu to Kanto."
+        },
+        {
+          "ja": "チェンナイでは、十月から十二月にかけて雨が多いです。",
+          "reading": "チェンナイでは、じゅうがつから じゅうにがつに かけて あめが おおいです。",
+          "romaji": "chennai de wa, juugatsu kara juunigatsu ni kakete ame ga ooi desu.",
+          "ta": "சென்னையில் அக்டோபர் முதல் டிசம்பர் வரை மழை அதிகம்.",
+          "en": "In Chennai, there is a lot of rain from October to December."
+        },
+        {
+          "ja": "三月末から四月の初めにかけて、桜が咲きます。",
+          "reading": "さんがつまつから しがつの はじめに かけて、さくらが さきます。",
+          "romaji": "sangatsumatsu kara shigatsu no hajime ni kakete, sakura ga sakimasu.",
+          "ta": "மார்ச் இறுதி முதல் ஏப்ரல் தொடக்கம் வரை சகுரா மலர்கள் பூக்கும்.",
+          "en": "Cherry blossoms bloom from late March to early April."
+        },
+        {
+          "ja": "首から肩にかけて、ずっと痛いんです。",
+          "reading": "くびから かたに かけて、ずっと いたいんです。",
+          "romaji": "kubi kara kata ni kakete, zutto itai n desu.",
+          "ta": "கழுத்திலிருந்து தோள்பட்டை வரை தொடர்ந்து வலிக்கிறது.",
+          "en": "I've had pain all the way from my neck to my shoulders."
+        },
+        {
+          "ja": "年末から年始にかけて、お店は休みですか。",
+          "reading": "ねんまつから ねんしに かけて、おみせは やすみですか。",
+          "romaji": "nenmatsu kara nenshi ni kakete, omise wa yasumi desu ka.",
+          "ta": "ஆண்டு இறுதியிலிருந்து புத்தாண்டுத் தொடக்கம் வரை கடை விடுமுறையா?",
+          "en": "Is the shop closed over the New Year period?"
+        }
+      ],
+      "pitfalls_ta": "துல்லியமான நேரத்துக்கு にかけて வேண்டாம்: 9時から5時にかけて働きます என்பது இயல்பற்றது → 9時から5時まで ✓. から-வை விட்டுவிட்டு 'Bにかけて' மட்டும் சொல்வதும் இந்த நிலையில் தவறு.",
+      "pitfalls_en": "Don't use にかけて for exact times: 9時から5時にかけて働きます sounds odd → 9時から5時まで ✓. Also, keep the から part. Don't say only \"Bにかけて\" here."
+    },
+    {
+      "id": "g09-2",
+      "pattern": "N を 通じて / を 通して",
+      "name": {
+        "en": "Throughout ~ / through ~",
+        "ta": "〜முழுவதும் / 〜மூலம்"
+      },
+      "explanation_ta": "を通じて／を通して-க்கு இரண்டு பொருள். (1) காலம் + を通じて = 'அந்தக் காலம் முழுவதும், இடைவிடாமல்': 一年を通じて暖かい (ஆண்டு முழுவதும் வெதுவெதுப்பு). (2) ஆள் / வழி / அனுபவம் + を通じて = 'அதன் மூலம், வழியாக': 友達を通じて知り合った (நண்பன் மூலம் அறிமுகமானோம்), インターネットを通して. இரண்டும் பெரும்பாலும் ஒன்றுக்கொன்று மாற்றலாம்; 通して சற்றுப் பேச்சு நடைக்கு நெருக்கம், மேலும் 'தானே முயன்று அதன் வழியாக' என்ற உணர்வு அதிகம் (経験を通して学んだ). தமிழில் '-முழுவதும்' மற்றும் '-மூலம் / வழியாக' என்பதற்குச் சமம்.",
+      "explanation_en": "を通じて / を通して have two meanings. (1) Time + を通じて = \"all through that time, without a break\". 一年を通じて暖かい = warm all year round. (2) Person / channel / experience + を通じて = \"through, by way of\". 友達を通じて知り合った = we met through a friend. インターネットを通して = through the internet. The two forms are mostly the same. 通して sounds a bit more spoken. It also suggests you did it yourself, through effort (経験を通して学んだ, learned through experience). It is like Tamil \"-முழுவதும்\" (all through) and \"-மூலம்\" (through).",
+      "tamil_parallel": "ஒகினாவா ஆண்டு முழுவதும் வெதுவெதுப்பு = 沖縄は一年を通じて暖かい; நண்பன் மூலம் அறிமுகமானோம் = 友達を通じて知り合った",
+      "tamil_parallel_en": "Tamil \"-முழுவதும்\" (all through): \"Okinawa is warm all year\" = 沖縄は一年を通じて暖かい. Tamil \"-மூலம்\" (through): \"We met through a friend\" = 友達を通じて知り合った",
+      "formation": "(1) காலம் + を通じて / を通して (一年を通じて、四季を通じて)\n(2) ஆள் / வழி / அனுபவம் + を通じて / を通して (友達を通じて、経験を通して)",
+      "formation_en": "(1) Time + を通じて / を通して (一年を通じて, 四季を通じて)\n(2) Person / channel / experience + を通じて / を通して (友達を通じて, 経験を通して)",
+      "examples": [
+        {
+          "ja": "沖縄は、一年を通じて暖かいです。",
+          "reading": "おきなわは、いちねんを つうじて あたたかいです。",
+          "romaji": "okinawa wa, ichinen o tsuujite atatakai desu.",
+          "ta": "ஒகினாவா ஆண்டு முழுவதும் வெதுவெதுப்பாக இருக்கும்.",
+          "en": "Okinawa is warm throughout the year."
+        },
+        {
+          "ja": "この地方は、四季を通じて観光客が多いです。",
+          "reading": "この ちほうは、しきを つうじて かんこうきゃくが おおいです。",
+          "romaji": "kono chihou wa, shiki o tsuujite kankoukyaku ga ooi desu.",
+          "ta": "இந்தப் பகுதிக்கு நான்கு பருவங்களிலும் சுற்றுலாப் பயணிகள் அதிகம் வருவார்கள்.",
+          "en": "This region has many tourists in every season."
+        },
+        {
+          "ja": "夏休みを通して、毎朝ラジオ体操をしました。",
+          "reading": "なつやすみを とおして、まいあさ ラジオ たいそうを しました。",
+          "romaji": "natsuyasumi o tooshite, maiasa rajio taisou o shimashita.",
+          "ta": "கோடை விடுமுறை முழுவதும் தினமும் காலையில் ரேடியோ உடற்பயிற்சி செய்தேன்.",
+          "en": "All through the summer holidays, I did radio exercises every morning."
+        },
+        {
+          "ja": "友達を通じて、今の妻と知り合いました。",
+          "reading": "ともだちを つうじて、いまの つまと しりあいました。",
+          "romaji": "tomodachi o tsuujite, ima no tsuma to shiriaimashita.",
+          "ta": "ஒரு நண்பர் மூலம்தான் என் மனைவியை அறிமுகம் செய்துகொண்டேன்.",
+          "en": "I met my wife through a friend."
+        },
+        {
+          "ja": "インターネットを通して、世界のニュースを読んでいます。",
+          "reading": "インターネットを とおして、せかいの ニュースを よんで います。",
+          "romaji": "intaanetto o tooshite, sekai no nyuusu o yonde imasu.",
+          "ta": "இணையம் மூலம் உலகச் செய்திகளைப் படிக்கிறேன்.",
+          "en": "I read world news through the internet."
+        },
+        {
+          "ja": "留学の経験を通して、多くのことを学びました。",
+          "reading": "りゅうがくの けいけんを とおして、おおくの ことを まなびました。",
+          "romaji": "ryuugaku no keiken o tooshite, ooku no koto o manabimashita.",
+          "ta": "வெளிநாட்டுப் படிப்பு அனுபவத்தின் மூலம் பல விஷயங்களைக் கற்றேன்.",
+          "en": "I learned many things through my experience of studying abroad."
+        },
+        {
+          "ja": "会社の人を通して申し込むことも、できますか。",
+          "reading": "かいしゃの ひとを とおして もうしこむ ことも、できますか。",
+          "romaji": "kaisha no hito o tooshite moushikomu koto mo, dekimasu ka.",
+          "ta": "நிறுவனத்தில் உள்ள ஒருவர் மூலமாகவும் விண்ணப்பிக்க முடியுமா?",
+          "en": "Can I also apply through someone at the company?"
+        }
+      ],
+      "pitfalls_ta": "を-வை விடாதீர்கள்: 一年通じて ✗ → 一年を通じて ✓. ஒரு சாலையை 'வழியாகக் கடந்து போவது' 通る: この道を通って行く; 道を通じて行く ✗.",
+      "pitfalls_en": "Don't drop を: 一年通じて ✗ → 一年を通じて ✓. For physically going along a road, use 通る: この道を通って行く. 道を通じて行く ✗."
+    },
+    {
+      "id": "g09-3",
+      "pattern": "N に わたって / に わたる N",
+      "name": {
+        "en": "Over (a whole period or area)",
+        "ta": "〜முழுக்க (நீண்ட காலம் / பரந்த பகுதி)"
+      },
+      "explanation_ta": "にわたって என்றால் 'ஒரு நீண்ட காலம், பரந்த பகுதி அல்லது பல முறைகள் முழுக்க' என்று பொருள். அளவு பெரியது என்பதை வலியுறுத்தும்: 一週間にわたって (ஒரு வாரம் முழுக்க), 広い地域にわたって (பரந்த பகுதி முழுக்க), 五回にわたって (ஐந்து முறைகளாக). பெயர்ச்சொல்லுக்கு முன் にわたる N (三日間にわたる祭り); எழுத்தில் にわたり என்றும் வரும். செய்தி, அறிவிப்பு, முறையான பேச்சில் அதிகம். から〜にかけて 'A-விலிருந்து B வரை' என்று இரண்டு முனைகளைச் சொல்லும்; にわたって ஒரே பெயர்ச்சொல்லாக மொத்த அளவைச் சொல்லும்.",
+      "explanation_en": "にわたって means \"over a whole long time, wide area or many times\". It stresses that the size is big. 一週間にわたって = for a whole week. 広い地域にわたって = over a wide area. 五回にわたって = over five sessions. Before a noun, use にわたる (三日間にわたる祭り, a festival lasting three days). In writing, にわたり is also used. It is common in news, notices and formal speech. から〜にかけて names two ends (from A to B). にわたって names the whole span with one noun.",
+      "tamil_parallel": "மழை ஒரு வாரம் முழுக்கத் தொடர்ந்தது = 雨は一週間にわたって続いた; மூன்று நாள் நீடித்த திருவிழா = 三日間にわたる祭り",
+      "tamil_parallel_en": "Tamil \"〜முழுக்க\" (all over / all through): \"The rain went on for a whole week\" = 雨は一週間にわたって続いた; \"a three-day festival\" = 三日間にわたる祭り",
+      "formation": "காலம் / பகுதி / எண்ணிக்கை + にわたって (にわたり)、 + நிகழ்வு\nகாலம் / பகுதி + にわたる + பெயர்ச்சொல் (三日間にわたる祭り)",
+      "formation_en": "Period / area / number of times + にわたって (にわたり)、 + event\nPeriod / area + にわたる + noun (三日間にわたる祭り)",
+      "examples": [
+        {
+          "ja": "梅雨の大雨は、一週間にわたって続きました。",
+          "reading": "つゆの おおあめは、いっしゅうかんに わたって つづきました。",
+          "romaji": "tsuyu no ooame wa, isshuukan ni watatte tsuzukimashita.",
+          "ta": "மழைக்காலக் கனமழை ஒரு வாரம் முழுக்கத் தொடர்ந்தது.",
+          "en": "The rainy-season downpours went on for a whole week."
+        },
+        {
+          "ja": "雪は、東北の広い地域にわたって降りました。",
+          "reading": "ゆきは、とうほくの ひろい ちいきに わたって ふりました。",
+          "romaji": "yuki wa, touhoku no hiroi chiiki ni watatte furimashita.",
+          "ta": "தோஹோகுவின் பரந்த பகுதி முழுவதும் பனி பெய்தது.",
+          "en": "Snow fell over a wide area of Tohoku."
+        },
+        {
+          "ja": "三日間にわたる祭りに、たくさんの人が集まりました。",
+          "reading": "みっかかんに わたる まつりに、たくさんの ひとが あつまりました。",
+          "romaji": "mikkakan ni wataru matsuri ni, takusan no hito ga atsumarimashita.",
+          "ta": "மூன்று நாள் நீடித்த திருவிழாவுக்கு ஏராளமானோர் கூடினர்.",
+          "en": "Lots of people gathered for the three-day festival."
+        },
+        {
+          "ja": "祖父は、四十年にわたってこの村で米を作ってきました。",
+          "reading": "そふは、よんじゅうねんに わたって この むらで こめを つくって きました。",
+          "romaji": "sofu wa, yonjuunen ni watatte kono mura de kome o tsukutte kimashita.",
+          "ta": "தாத்தா நாற்பது ஆண்டுகள் முழுக்க இந்தக் கிராமத்தில் நெல் விளைவித்து வந்தார்.",
+          "en": "My grandfather has grown rice in this village for forty years."
+        },
+        {
+          "ja": "会議は、五時間にわたって行われました。",
+          "reading": "かいぎは、ごじかんに わたって おこなわれました。",
+          "romaji": "kaigi wa, gojikan ni watatte okonawaremashita.",
+          "ta": "கூட்டம் ஐந்து மணி நேரம் நீடித்தது.",
+          "en": "The meeting went on for five hours."
+        },
+        {
+          "ja": "長期にわたる工事が、やっと終わりました。",
+          "reading": "ちょうきに わたる こうじが、やっと おわりました。",
+          "romaji": "chouki ni wataru kouji ga, yatto owarimashita.",
+          "ta": "நீண்ட காலம் நடந்த கட்டுமானப் பணி ஒருவழியாக முடிந்தது.",
+          "en": "The long building work has finally finished."
+        },
+        {
+          "ja": "台風の被害は、どのくらいの範囲にわたっていますか。",
+          "reading": "たいふうの ひがいは、どのくらいの はんいに わたって いますか。",
+          "romaji": "taifuu no higai wa, dono kurai no han'i ni watatte imasu ka.",
+          "ta": "புயல் சேதம் எவ்வளவு பரப்பில் பரவியுள்ளது?",
+          "en": "How wide an area does the typhoon damage cover?"
+        }
+      ],
+      "pitfalls_ta": "குறுகிய, சாதாரண காலத்துக்கு にわたって இயல்பல்ல: 五分にわたって待った ✗. பெயர்ச்சொல்லுக்கு முன் にわたって அல்ல, にわたる: 三日間にわたって祭り ✗ → 三日間にわたる祭り ✓.",
+      "pitfalls_en": "にわたって sounds odd for short, ordinary times: 五分にわたって待った ✗. Before a noun, use にわたる: 三日間にわたって祭り ✗ → 三日間にわたる祭り ✓."
+    },
+    {
+      "id": "g09-4",
+      "pattern": "N 中(じゅう) / N 中(ちゅう)",
+      "name": {
+        "en": "All through N / during N",
+        "ta": "〜முழுவதும் / 〜நடக்கும்போது"
+      },
+      "explanation_ta": "中 என்ற ஒரே கான்ஜிக்கு இரண்டு வாசிப்பு, இரண்டு பொருள். (1) じゅう = 'முழுவதும்': காலத்துடன் 一日中 (நாள் முழுவதும்), 一年中; இடத்துடன் 世界中 (உலகம் முழுவதும்), 町中, 家中. (2) ちゅう = 'நடந்துகொண்டிருக்கும்போது / அந்தக் காலத்துக்குள்': 会議中 (கூட்டத்தில் இருக்கிறார்), 工事中, 授業中; 午前中 (மதியத்துக்குள்), 今週中 (இந்த வாரத்துக்குள்). கவனிக்க: 今日中 (きょうじゅう), 今年中 (ことしじゅう) 'இன்றைக்குள் / இந்த ஆண்டுக்குள்' என்ற பொருளில் じゅう என்று வாசிக்கப்படும். தமிழில் (1) '-முழுவதும்', (2) '-இன்போது / நடக்கிறது', '-க்குள்' என்பதற்குச் சமம்.",
+      "explanation_en": "The kanji 中 has two readings here, with two meanings. (1) じゅう = \"all through\". With time: 一日中 (all day), 一年中 (all year). With places: 世界中 (all over the world), 町中 (all over town), 家中 (the whole house). (2) ちゅう = \"in the middle of\" or \"within\". 会議中 (in a meeting), 工事中 (under construction), 授業中 (during class). 午前中 (during the morning), 今週中 (within this week). Note: 今日中 (きょうじゅう) and 今年中 (ことしじゅう) mean \"by the end of today / this year\", read じゅう. In Tamil, (1) is \"-முழுவதும்\" (all over). (2) is \"-இன்போது\" (during) or \"-க்குள்\" (within).",
+      "tamil_parallel": "நேற்று நாள் முழுவதும் மழை = 昨日は一日中雨だった; மேலாளர் இப்போது கூட்டத்தில் இருக்கிறார் = 部長は今、会議中です",
+      "tamil_parallel_en": "Tamil \"-முழுவதும்\" (all through): \"It rained all day yesterday\" = 昨日は一日中雨だった. Tamil \"-இல் இருக்கிறார்\" (during): \"The manager is in a meeting now\" = 部長は今、会議中です",
+      "formation": "காலம் / இடம் + 中(じゅう) = முழுவதும் (一日中、一年中、世界中、町中)\nசெயல் பெயர்ச்சொல் / காலம் + 中(ちゅう) = நடக்கும்போது / அதற்குள் (会議中、工事中、午前中、今週中)\nவிதிவிலக்கு: 今日中 (きょうじゅう)、今年中 (ことしじゅう)",
+      "formation_en": "Time / place + 中(じゅう) = all through (一日中, 一年中, 世界中, 町中)\nActivity noun / time + 中(ちゅう) = during / within (会議中, 工事中, 午前中, 今週中)\nException: 今日中 (きょうじゅう), 今年中 (ことしじゅう)",
+      "examples": [
+        {
+          "ja": "昨日は、一日中雨が降っていました。",
+          "reading": "きのうは、いちにちじゅう あめが ふって いました。",
+          "romaji": "kinou wa, ichinichijuu ame ga futte imashita.",
+          "ta": "நேற்று நாள் முழுவதும் மழை பெய்துகொண்டிருந்தது.",
+          "en": "Yesterday it rained all day."
+        },
+        {
+          "ja": "南インドは、一年中暑いです。",
+          "reading": "みなみ インドは、いちねんじゅう あついです。",
+          "romaji": "minami indo wa, ichinenjuu atsui desu.",
+          "ta": "தென்னிந்தியாவில் ஆண்டு முழுவதும் வெப்பம்.",
+          "en": "South India is hot all year round."
+        },
+        {
+          "ja": "ディーパバリの夜は、町中が明るくなります。",
+          "reading": "ディーパバリの よるは、まちじゅうが あかるく なります。",
+          "romaji": "diipabari no yoru wa, machijuu ga akaruku narimasu.",
+          "ta": "தீபாவளி இரவில் ஊர் முழுவதும் ஒளிமயமாகும்.",
+          "en": "On Deepavali night, the whole town lights up."
+        },
+        {
+          "ja": "部長は今、会議中です。",
+          "reading": "ぶちょうは いま、かいぎちゅうです。",
+          "romaji": "buchou wa ima, kaigichuu desu.",
+          "ta": "மேலாளர் இப்போது கூட்டத்தில் இருக்கிறார்.",
+          "en": "The manager is in a meeting right now."
+        },
+        {
+          "ja": "この道は工事中なので、通れません。",
+          "reading": "この みちは こうじちゅうなので、とおれません。",
+          "romaji": "kono michi wa koujichuu na node, tooremasen.",
+          "ta": "இந்தச் சாலையில் கட்டுமானப் பணி நடப்பதால் போக முடியாது.",
+          "en": "This road is under construction, so you can't go through."
+        },
+        {
+          "ja": "午前中に、洗濯を済ませておきます。",
+          "reading": "ごぜんちゅうに、せんたくを すませて おきます。",
+          "romaji": "gozenchuu ni, sentaku o sumasete okimasu.",
+          "ta": "மதியத்துக்குள் துணி துவைப்பதை முடித்துவிடுவேன்.",
+          "en": "I'll get the laundry done during the morning."
+        },
+        {
+          "ja": "このレポート、今週中に出せますか。",
+          "reading": "この レポート、こんしゅうちゅうに だせますか。",
+          "romaji": "kono repooto, konshuuchuu ni dasemasu ka.",
+          "ta": "இந்த அறிக்கையை இந்த வாரத்துக்குள் கொடுக்க முடியுமா?",
+          "en": "Can you hand in this report within this week?"
+        }
+      ],
+      "pitfalls_ta": "வாசிப்பைக் கவனியுங்கள்: 一日中 = いちにちじゅう (いちにちちゅう ✗); 会議中 = かいぎちゅう (かいぎじゅう ✗). 'முழுவதும்' என்றால் じゅう, 'நடந்துகொண்டிருக்கிறது' என்றால் ちゅう என்று நினைவில் வையுங்கள்.",
+      "pitfalls_en": "Watch the reading: 一日中 = いちにちじゅう (not いちにちちゅう); 会議中 = かいぎちゅう (not かいぎじゅう). Remember: \"all through\" is じゅう; \"in the middle of\" is ちゅう."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0026",
+    "n3-v-0028",
+    "n3-v-0052",
+    "n3-v-0058",
+    "n3-v-0083",
+    "n3-v-0085",
+    "n3-v-0247",
+    "n3-v-0248",
+    "n3-v-0306",
+    "n3-v-0322",
+    "n3-v-0323",
+    "n3-v-0338",
+    "n3-v-0390",
+    "n3-v-0542",
+    "n3-v-0543",
+    "n3-v-0594",
+    "n3-v-0595",
+    "n3-v-0644",
+    "n3-v-0683",
+    "n3-v-0692",
+    "n3-v-0696",
+    "n3-v-0702",
+    "n3-v-0761",
+    "n3-v-0909",
+    "n3-v-0976",
+    "n3-v-0989",
+    "n3-v-1034",
+    "n3-v-1043",
+    "n3-v-1121",
+    "n3-v-1135",
+    "n3-v-1146",
+    "n3-v-1381",
+    "n3-v-1468",
+    "n3-v-1473",
+    "n3-v-1478",
+    "n3-v-1484",
+    "n3-v-1493",
+    "n3-v-1500",
+    "n3-v-1531",
+    "n3-v-1532",
+    "n3-v-1541",
+    "n3-v-1566",
+    "n3-v-1683",
+    "n3-v-1695",
+    "n3-v-1701",
+    "n3-v-1703",
+    "n3-v-1705",
+    "n3-v-1732",
+    "n3-v-1739",
+    "n3-v-1759",
+    "n3-v-1809",
+    "n3-v-1904",
+    "n3-v-1989",
+    "n3-v-2072",
+    "n3-v-2124"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L09-q01",
+        "type": "kanji_reading",
+        "sentence": "今日は ＿湿度＿が 高くて、蒸し暑いです。",
+        "target": "湿度",
+        "options": [
+          "しめど",
+          "しつど",
+          "しつと",
+          "しっど"
+        ],
+        "answer": 1,
+        "explanation_ta": "湿度 = しつど (ஈரப்பத அளவு). 湿る (しめる) வினையின் வாசிப்பு இங்கே வராது; 度 = ど.",
+        "explanation_en": "湿度 = しつど (ஈரப்பத அளவு, humidity). The verb reading しめ (湿る) is not used here. 度 is ど."
+      },
+      {
+        "id": "L09-q02",
+        "type": "kanji_reading",
+        "sentence": "＿天候＿が 悪いため、試合は 中止に なりました。",
+        "target": "天候",
+        "options": [
+          "てんき",
+          "てんこ",
+          "でんこう",
+          "てんこう"
+        ],
+        "answer": 3,
+        "explanation_ta": "天候 = てんこう (வானிலை). てんき என்பது 天気 என்ற வேறு சொல்லின் வாசிப்பு; 候 = こう.",
+        "explanation_en": "天候 = てんこう (வானிலை, weather). てんき is the reading of a different word, 天気. 候 is こう."
+      },
+      {
+        "id": "L09-q03",
+        "type": "kanji_reading",
+        "sentence": "日本の ＿気候＿は、北と 南で ずいぶん 違います。",
+        "target": "気候",
+        "options": [
+          "きこう",
+          "きごう",
+          "けこう",
+          "きこ"
+        ],
+        "answer": 0,
+        "explanation_ta": "気候 = きこう (காலநிலை). きごう என்பது 記号 (குறியீடு); நீட்டலை விடக்கூடாது.",
+        "explanation_en": "気候 = きこう (காலநிலை, climate). きごう is 記号 (symbol). Don't drop the long vowel."
+      },
+      {
+        "id": "L09-q04",
+        "type": "orthography",
+        "sentence": "夜中に ＿かみなり＿が 鳴って、目が 覚めました。",
+        "target": "かみなり",
+        "options": [
+          "電",
+          "雪",
+          "雷",
+          "雲"
+        ],
+        "answer": 2,
+        "explanation_ta": "かみなり = 雷 (இடி: 雨 + 田). 電 (மின்சாரம்) தோற்றத்தில் ஒத்தது; 雪 பனி, 雲 மேகம்.",
+        "explanation_en": "かみなり = 雷 (இடி, thunder): 雨 on top of 田. 電 (electricity) looks similar. 雪 is snow and 雲 is cloud."
+      },
+      {
+        "id": "L09-q05",
+        "type": "orthography",
+        "sentence": "朝は ＿きり＿が 深くて、前が よく 見えなかった。",
+        "target": "きり",
+        "options": [
+          "露",
+          "霧",
+          "霜",
+          "雰"
+        ],
+        "answer": 1,
+        "explanation_ta": "きり = 霧 (மூடுபனி). 露 (つゆ) பனித்துளி, 霜 (しも) உறைபனி — எல்லாம் 雨 தலைக்கூறு கொண்டவை, கவனம்.",
+        "explanation_en": "きり = 霧 (மூடுபனி, fog). 露 (つゆ) is dew and 霜 (しも) is frost. They all have 雨 on top, so be careful."
+      },
+      {
+        "id": "L09-q06",
+        "type": "vocab_context",
+        "sentence": "梅雨は（　　）が 多くて、洗濯物が なかなか 乾きません。",
+        "options": [
+          "湿気",
+          "日光",
+          "温暖",
+          "乾燥"
+        ],
+        "answer": 0,
+        "explanation_ta": "துணி காயாததற்குக் காரணம் ஈரப்பதம் → 湿気が多い. 乾燥 'வறட்சி' — இதற்கு எதிர்.",
+        "explanation_en": "Laundry won't dry because of dampness → 湿気が多い (ஈரப்பதம் அதிகம், very damp). 乾燥 (dryness) is the opposite."
+      },
+      {
+        "id": "L09-q07",
+        "type": "vocab_context",
+        "sentence": "一晩で 雪が 三十センチも（　　）。",
+        "options": [
+          "散りました",
+          "震えました",
+          "積もりました",
+          "湿りました"
+        ],
+        "answer": 2,
+        "explanation_ta": "பனி குவிவது → 積もる. 散る மலர், இலை உதிர்வது.",
+        "explanation_en": "Snow piling up → 積もる (குவிய, pile up). 散る is for petals and leaves falling."
+      },
+      {
+        "id": "L09-q08",
+        "type": "vocab_context",
+        "sentence": "風が 強くて、桜の 花が もう（　　）しまいました。",
+        "options": [
+          "昇って",
+          "積もって",
+          "射して",
+          "散って"
+        ],
+        "answer": 3,
+        "explanation_ta": "மலர்கள் உதிர்வது → 散って. 昇る சூரியன் உதிப்பது; 射す ஒளி விழுவது.",
+        "explanation_en": "Blossoms falling → 散って (உதிர்ந்து, fall). 昇る is the sun rising. 射す is light shining."
+      },
+      {
+        "id": "L09-q09",
+        "type": "vocab_context",
+        "sentence": "寒くて 手が（　　）、字が うまく 書けません。",
+        "options": [
+          "震えて",
+          "濡らして",
+          "温まって",
+          "澄んで"
+        ],
+        "answer": 0,
+        "explanation_ta": "குளிரால் கை நடுங்குவது → 震えて. 温まって (கதகதப்பாகி) பொருளுக்கு எதிர்; 濡らす を கேட்கும் பிறவினை.",
+        "explanation_en": "Hands shaking from cold → 震えて (நடுங்கி, shaking). 温まって (warming up) is the opposite. 濡らす needs を."
+      },
+      {
+        "id": "L09-q10",
+        "type": "vocab_context",
+        "sentence": "天気（　　）に よると、明日は 雪だそうです。",
+        "options": [
+          "予期",
+          "予報",
+          "予定",
+          "予約"
+        ],
+        "answer": 1,
+        "explanation_ta": "天気予報 = வானிலை முன்னறிவிப்பு. 予定 (திட்டம்), 予約 (முன்பதிவு) 天気-உடன் சேராது.",
+        "explanation_en": "天気予報 = weather forecast (வானிலை முன்னறிவிப்பு). 予定 (plan) and 予約 (booking) don't go with 天気."
+      },
+      {
+        "id": "L09-q11",
+        "type": "vocab_context",
+        "sentence": "台風の ため、花火大会は（　　）に なりました。",
+        "options": [
+          "中心",
+          "長期",
+          "中止",
+          "定期"
+        ],
+        "answer": 2,
+        "explanation_ta": "புயலால் நிகழ்ச்சி ரத்து → 中止になる. 中心 (மையம்) ஒலியில் ஒத்தது, பொருள் வேறு.",
+        "explanation_en": "An event cancelled because of a typhoon → 中止になる (ரத்து, cancelled). 中心 (centre) sounds similar but means something else."
+      },
+      {
+        "id": "L09-q12",
+        "type": "paraphrase",
+        "sentence": "この 地方は 年中 暖かいです。",
+        "options": [
+          "この 地方は 冬だけ 暖かいです。",
+          "この 地方は 時々 暖かいです。",
+          "この 地方は 夏だけ 暖かいです。",
+          "この 地方は 一年中 暖かいです。"
+        ],
+        "answer": 3,
+        "explanation_ta": "年中 = 一年中 (ஆண்டு முழுவதும்). 'குளிர்காலத்தில் மட்டும்' போன்றவை ஒரு பகுதி மட்டுமே.",
+        "explanation_en": "年中 = 一年中 (ஆண்டு முழுவதும், all year). \"Only in winter\" is just part of the year."
+      },
+      {
+        "id": "L09-q13",
+        "type": "paraphrase",
+        "sentence": "東京は 晴れ、一時 雨でしょう。",
+        "options": [
+          "東京は 一日中 雨でしょう。",
+          "東京は 晴れて、少しの 間 雨が 降るでしょう。",
+          "東京は 一時ごろ 雨が 降るでしょう。",
+          "東京は 雨が 降らないでしょう。"
+        ],
+        "answer": 1,
+        "explanation_ta": "வானிலையில் 一時 (いちじ) = 'சிறிது நேரம்'. 'ஒரு மணியளவில்' (一時ごろ) என்று நினைப்பது பொதுவான பொறி.",
+        "explanation_en": "In forecasts, 一時 (いちじ) means \"for a while\" (சிறிது நேரம்). Thinking it means \"around one o'clock\" (一時ごろ) is a common trap."
+      },
+      {
+        "id": "L09-q14",
+        "type": "usage",
+        "sentence": "積もる",
+        "options": [
+          "道に 雪が たくさん 積もって、車が 走れません。",
+          "気温が 積もって、暑く なりました。",
+          "机の 上に 本を 積もって ください。",
+          "毎月 お金を 積もって います。"
+        ],
+        "answer": 0,
+        "explanation_ta": "積もる தன்வினை: பனி, தூசி தானாகக் குவிவது. புத்தகங்களை அடுக்குவது 積む (பிறவினை); வெப்பநிலை 上がる.",
+        "explanation_en": "積もる has no object: snow or dust piling up by itself. Stacking books is 積む (with を). For temperature, use 上がる."
+      },
+      {
+        "id": "L09-q15",
+        "type": "usage",
+        "sentence": "通じる",
+        "options": [
+          "毎日 この 道を 通じて 会社へ 行きます。",
+          "雨が 通じて、服が 濡れました。",
+          "私の 下手な 英語でも、ちゃんと 通じました。",
+          "夜 十時に 店が 通じます。"
+        ],
+        "answer": 2,
+        "explanation_ta": "通じる = சொல்வது பிறருக்குப் 'புரிவது' (英語が通じた). சாலை வழியாகப் போவது 通る: この道を通って.",
+        "explanation_en": "通じる here means \"to be understood\": 英語が通じた (my English got through). Going along a road is 通る: この道を通って."
+      },
+      {
+        "id": "L09-q16",
+        "type": "grammar_form",
+        "sentence": "夏から 秋（　　）、台風が よく 来ます。",
+        "options": [
+          "にかけて",
+          "にわたって",
+          "を通じて",
+          "中"
+        ],
+        "answer": 0,
+        "explanation_ta": "AからB + にかけて (இலிருந்து 〜வரை பரவலாக). にわたって, を通じて ஒரே பெயர்ச்சொல்லுடன் வரும்; から〜 ஜோடி இல்லை.",
+        "explanation_en": "AからB + にかけて (from A into B, loosely). にわたって and を通じて take one noun; they don't pair with から."
+      },
+      {
+        "id": "L09-q17",
+        "type": "grammar_form",
+        "sentence": "沖縄は 一年（　　）暖かいです。",
+        "options": [
+          "にかけて",
+          "を通じて",
+          "の間に",
+          "までに"
+        ],
+        "answer": 1,
+        "explanation_ta": "'ஆண்டு முழுவதும்' → 一年を通じて. までに 'கெடுவுக்குள்' — நிலைக்குப் பொருந்தாது.",
+        "explanation_en": "\"All year round\" → 一年を通じて. までに means \"by (a deadline)\"; it doesn't fit a state."
+      },
+      {
+        "id": "L09-q18",
+        "type": "grammar_form",
+        "sentence": "三日間（　　）祭りに、たくさんの 人が 来ました。",
+        "options": [
+          "にかけての",
+          "を通じて",
+          "にわたる",
+          "中の"
+        ],
+        "answer": 2,
+        "explanation_ta": "அடுத்து பெயர்ச்சொல் (祭り) → にわたる祭り. にかけての-க்கு から〜 ஜோடி தேவை.",
+        "explanation_en": "A noun (祭り) comes next → にわたる祭り. にかけての needs a から〜 pair."
+      },
+      {
+        "id": "L09-q19",
+        "type": "grammar_form",
+        "sentence": "友達（　　）、今の 妻と 知り合いました。",
+        "options": [
+          "を通じて",
+          "にわたって",
+          "にかけて",
+          "中に"
+        ],
+        "answer": 0,
+        "explanation_ta": "'நண்பர் மூலம்' (வழி) → を通じて. にわたって அளவு / காலத்துக்கு; ஆளுக்கு அல்ல.",
+        "explanation_en": "\"Through a friend\" (a channel) → を通じて. にわたって is for size or length of time, not for a person."
+      },
+      {
+        "id": "L09-q20",
+        "type": "grammar_form",
+        "sentence": "この 道は 工事（　　）なので、通れません。",
+        "options": [
+          "間",
+          "ごろ",
+          "最中",
+          "中"
+        ],
+        "answer": 3,
+        "explanation_ta": "'பணி நடந்துகொண்டிருக்கிறது' → 工事中 (ちゅう). 最中 பெயர்ச்சொல்லுடன் の தேவை (工事の最中); மேலும் 'உச்சக்கட்டம்' என்ற தனிப் பொருள்.",
+        "explanation_en": "\"Under construction\" → 工事中 (ちゅう). 最中 needs の after a noun (工事の最中), and it means \"right in the middle of\"."
+      },
+      {
+        "id": "L09-q21",
+        "type": "grammar_form",
+        "sentence": "今夜から 明日の 朝（　　）、雪が 降るでしょう。",
+        "options": [
+          "までに",
+          "にかけて",
+          "にわたって",
+          "を通して"
+        ],
+        "answer": 1,
+        "explanation_ta": "வானிலை அறிக்கை நடை: 'இன்றிரவு முதல் நாளை காலை வரை பரவலாக' → から〜にかけて. までに 'அதற்குள்' (கெடு).",
+        "explanation_en": "Forecast style, \"from tonight into tomorrow morning\" → から〜にかけて. までに means \"by (a deadline)\"."
+      },
+      {
+        "id": "L09-q22",
+        "type": "grammar_form",
+        "sentence": "留学の 経験（　　）、多くの ことを 学びました。",
+        "options": [
+          "にかけて",
+          "にわたって",
+          "を通して",
+          "中で"
+        ],
+        "answer": 2,
+        "explanation_ta": "'அனுபவத்தின் மூலம் கற்றேன்' → を通して. にわたって அளவைச் சொல்லும்; 'மூலம்' அல்ல.",
+        "explanation_en": "\"I learned through the experience\" → を通して. にわたって shows size or length, not \"through\"."
+      },
+      {
+        "id": "L09-q23",
+        "type": "sentence_order",
+        "before": "九州から",
+        "chunks": [
+          "関東に",
+          "かけて",
+          "激しい",
+          "雨が"
+        ],
+        "star": 1,
+        "after": "降りました。",
+        "explanation_ta": "九州から 関東に (க்யூஷூ முதல் கான்தோ) → かけて → 激しい 雨が (கடும் மழை) → 降りました. ★ = かけて.",
+        "explanation_en": "九州から 関東に (from Kyushu to Kanto) → かけて → 激しい 雨が (heavy rain) → 降りました. ★ = かけて."
+      },
+      {
+        "id": "L09-q24",
+        "type": "sentence_order",
+        "before": "祖父は",
+        "chunks": [
+          "四十年に",
+          "わたって",
+          "この 村で",
+          "米を"
+        ],
+        "star": 2,
+        "after": "作って きました。",
+        "explanation_ta": "四十年に わたって (நாற்பது ஆண்டுகள் முழுக்க) → この 村で (இந்தக் கிராமத்தில்) → 米を 作ってきました. ★ = この 村で.",
+        "explanation_en": "四十年に わたって (for forty whole years) → この 村で (in this village) → 米を 作ってきました (has grown rice). ★ = この 村で."
+      },
+      {
+        "id": "L09-q25",
+        "type": "sentence_order",
+        "before": "沖縄は",
+        "chunks": [
+          "一年を",
+          "通じて",
+          "暖かい",
+          "ので"
+        ],
+        "star": 0,
+        "after": "冬でも 泳げます。",
+        "explanation_ta": "一年を 通じて (ஆண்டு முழுவதும்) → 暖かい ので (வெதுவெதுப்பாக இருப்பதால்) → 冬でも 泳げます. ★ = 一年を.",
+        "explanation_en": "一年を 通じて (all year) → 暖かい ので (is warm, so) → 冬でも 泳げます (you can swim even in winter). ★ = 一年を."
+      },
+      {
+        "id": "L09-q26",
+        "type": "passage_cloze",
+        "passage": "日本には 四季が あります。春は 三月から 五月［1］、いろいろな 所で 桜が 咲きます。六月には 梅雨が 始まり、雨の 日が 一か月［2］続きます。夏は 蒸し暑く、一日［3］エアコンを つけて いる 家も 多いです。私の 故郷の チェンナイは 一年［4］暑いので、日本の 秋の 涼しさが とても 好きに なりました。",
+        "blanks": [
+          {
+            "options": [
+              "にかけて",
+              "にわたる",
+              "を通じて",
+              "中"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "にかけて",
+              "の間に",
+              "にわたって",
+              "までに"
+            ],
+            "answer": 2
+          },
+          {
+            "options": [
+              "にかけて",
+              "中",
+              "にわたる",
+              "までに"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "にかけて",
+              "を通じて",
+              "にわたる",
+              "中に"
+            ],
+            "answer": 1
+          }
+        ],
+        "explanation_ta": "［1］ から〜 ஜோடி → 三月から五月にかけて. ［2］ 'ஒரு மாதம் முழுக்க' + 続きます → 一か月にわたって. ［3］ 'நாள் முழுவதும்' → 一日中 (じゅう). ［4］ 'ஆண்டு முழுவதும்' → 一年を通じて; 一年中に என்று に சேர்ப்பது தவறு.",
+        "explanation_en": "[1] A から〜 pair → 三月から五月にかけて. [2] \"For a whole month\" + 続きます → 一か月にわたって. [3] \"All day\" → 一日中 (じゅう). [4] \"All year\" → 一年を通じて. Adding に (一年中に) is wrong here."
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+ "lesson": 22,
+ "title": { "ja": "かぜ気味", "ta": "லேசான சளி", "en": "A touch of a cold" },
+ "intro_en": "This lesson is about health and the body. You learn to talk about how you feel at the doctor’s. You can say \"I have a feeling that …\" (〜ような気がする). You can say \"a touch of a cold\" (風邪気味). You can say \"I tend to …\" for bad habits (〜がち). You learn the careful warning \"there is a risk that …\" (〜おそれがある), used in news and on medicine labels. Last, you learn a soft way to share a worry: \"Isn’t it …?\" (〜のではないか / 〜んじゃない？).",
+ "intro_ta": "இந்தப் பாடம் உடல்நலம், உடல் உறுப்புகள் பற்றியது. மருத்துவரிடம் உங்கள் உடல்நிலையைச் சொல்லக் கற்போம். 'அப்படித் தோன்றுகிறது' (〜ような気がする), 'லேசான சளி' (風邪気味), கெட்ட பழக்கங்களுக்கு 'அடிக்கடி அப்படி ஆகிவிடும்' (〜がち) என்று சொல்லலாம். செய்திகளிலும் மருந்துச் சீட்டுகளிலும் வரும் 'அபாயம் உண்டு' (〜おそれがある) என்ற எச்சரிக்கை வடிவத்தையும், 'அப்படி இருக்குமோ?' என்று மென்மையாகச் சந்தேகத்தைச் சொல்லும் 〜のではないか / 〜んじゃない？ வடிவத்தையும் கற்போம்.",
+ "grammar": [
+  {
+   "id": "g22-1",
+   "pattern": "〜ような 気が する",
+   "name": { "en": "I have a feeling that ~", "ta": "~ போலத் தோன்றுகிறது" },
+   "explanation_en": "Use this to share a vague feeling. You have no clear proof. It is softer than と思います. Put a plain-form sentence before ような気がする. For nouns use のような, for な-words use なような. You can also drop ような: 熱がある気がする. Compare with ようです (N4). ようです is based on what you see or hear. 気がする is just your own feeling inside. Polite form: 気がします.",
+   "explanation_ta": "தெளிவான ஆதாரம் இல்லாமல், மனதில் ஒரு உணர்வாகத் தோன்றுவதைச் சொல்ல இந்த வடிவம் பயன்படுகிறது. இது と思います-ஐ விட மென்மையானது. சாதாரண (plain) வடிவ வாக்கியத்துக்குப் பின் ような気がする சேர்க்க வேண்டும்; பெயர்ச்சொல்லுக்கு のような, な-பெயரடைக்கு なような. ような-வை விட்டு நேரடியாக 熱がある気がする என்றும் சொல்லலாம். N4-இல் கற்ற ようです கண்ணால் பார்த்த, காதால் கேட்ட ஆதாரத்தின் அடிப்படையில் சொல்வது; 気がする என்பது உள்ளுக்குள் தோன்றும் உணர்வு மட்டுமே. மரியாதை வடிவம்: 気がします.",
+   "tamil_parallel": "காய்ச்சல் இருப்பது போலத் தோன்றுகிறது = 熱があるような気がします",
+   "tamil_parallel_en": "காய்ச்சல் இருப்பது போலத் தோன்றுகிறது (I feel like I have a fever) = 熱があるような気がします",
+   "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + ような気がする\nな-பெயரடை + な + ような気がする\nபெயர்ச்சொல் + の + ような気がする\n(ような இல்லாமல்: சாதாரண வடிவம் + 気がする)",
+   "formation_en": "verb / い-adjective (plain form) + ような気がする\nな-adjective + な + ような気がする\nnoun + の + ような気がする\n(without ような: plain form + 気がする)",
+   "examples": [
+    { "ja": "熱があるような気がします。", "reading": "ねつが ある ような きが します。", "romaji": "netsu ga aru you na ki ga shimasu.", "ta": "காய்ச்சல் இருப்பது போலத் தோன்றுகிறது.", "en": "I feel like I have a fever." },
+    { "ja": "前にもこの医院に来たことがあるような気がする。", "reading": "まえにも この いいんに きた ことが ある ような きが する。", "romaji": "mae ni mo kono iin ni kita koto ga aru you na ki ga suru.", "ta": "முன்பும் இந்தக் கிளினிக்குக்கு வந்தது போலத் தோன்றுகிறது.", "en": "I feel like I’ve been to this clinic before." },
+    { "ja": "最近、少し太ったような気がします。", "reading": "さいきん、すこし ふとった ような きが します。", "romaji": "saikin, sukoshi futotta you na ki ga shimasu.", "ta": "சமீபத்தில் கொஞ்சம் எடை கூடியது போலத் தோன்றுகிறது.", "en": "I feel like I’ve put on a little weight lately." },
+    { "ja": "今日は何だか体が重いような気がする。", "reading": "きょうは なんだか からだが おもい ような きが する。", "romaji": "kyou wa nandaka karada ga omoi you na ki ga suru.", "ta": "இன்று ஏனோ உடல் கனமாக இருப்பது போலத் தோன்றுகிறது.", "en": "Somehow my body feels heavy today." },
+    { "ja": "なかなか治らないような気がして、不安です。", "reading": "なかなか なおらない ような きが して、ふあんです。", "romaji": "nakanaka naoranai you na ki ga shite, fuan desu.", "ta": "சீக்கிரம் குணமாகாது போலத் தோன்றுவதால் கவலையாக இருக்கிறது.", "en": "I feel like it won’t get better soon, and I’m worried." },
+    { "ja": "誰かに見られているような気がしませんか。", "reading": "だれかに みられて いる ような きが しませんか。", "romaji": "dareka ni mirarete iru you na ki ga shimasen ka.", "ta": "யாரோ நம்மைப் பார்த்துக்கொண்டிருப்பது போலத் தோன்றவில்லையா?", "en": "Don’t you feel like someone is watching us?" }
+   ],
+   "pitfalls_en": "Don’t use the て-form before ような: 熱があって気がする is wrong. Use the plain form: 熱がある気がする. Also, ように気がする is wrong; it must be ような.",
+   "pitfalls_ta": "ような-க்கு முன் て-வடிவம் வராது: 熱があって気がする தவறு; 熱がある(ような)気がする சரி. மேலும் ように気がする என்பது தவறு; ような என்றே வர வேண்டும்."
+  },
+  {
+   "id": "g22-2",
+   "pattern": "N / V-ます 気味",
+   "name": { "en": "A touch of ~ / slightly ~", "ta": "லேசாக ~ ஆக இருக்கிறது" },
+   "explanation_en": "気味 (ぎみ) means \"a little bit like that\". It is usually for a bad state you feel now. Add it to a noun or to the ます-stem of a verb. Common words: 風邪気味 (a slight cold), 疲れ気味 (a bit tired), 太り気味 (a bit heavy), 遅れ気味 (a bit late). Use it as 〜気味だ, 〜気味で, or 〜気味の + noun. It is softer than saying 風邪です. Compare with っぽい (lesson 20): っぽい is more casual and also used for looks, like 子どもっぽい.",
+   "explanation_ta": "気味 (ぎみ) என்றால் 'லேசாக அப்படி இருக்கிறது' என்று பொருள். பெரும்பாலும் இப்போது உணரும் ஒரு கெட்ட நிலையைச் சொல்லப் பயன்படும். பெயர்ச்சொல்லுடனோ, வினையின் ます-அடியுடனோ (stem) சேரும்: 風邪気味 (லேசான சளி), 疲れ気味 (கொஞ்சம் களைப்பு), 太り気味 (கொஞ்சம் எடை அதிகம்), 遅れ気味 (கொஞ்சம் தாமதம்). 〜気味だ, 〜気味で, 〜気味の + பெயர்ச்சொல் என்று பயன்படுத்தலாம். 風邪です என்று நேரடியாகச் சொல்வதை விட இது மென்மையானது. பாடம் 20-இன் っぽい இன்னும் பேச்சு வழக்கானது; 子どもっぽい போலத் தோற்றத்துக்கும் வரும்.",
+   "tamil_parallel": "லேசாகச் சளி பிடித்த மாதிரி இருக்கிறது = 風邪気味です; கொஞ்சம் களைப்பாக இருக்கிறது = 疲れ気味です",
+   "tamil_parallel_en": "லேசாகச் சளி பிடித்த மாதிரி இருக்கிறது (I have a touch of a cold) = 風邪気味です; கொஞ்சம் களைப்பாக இருக்கிறது (I’m a bit tired) = 疲れ気味です",
+   "formation": "பெயர்ச்சொல் + 気味 (風邪気味)\nவினை ます-அடி + 気味 (疲れます → 疲れ気味)\n〜気味だ / 〜気味で、〜 / 〜気味の + பெயர்ச்சொல்",
+   "formation_en": "noun + 気味 (風邪気味)\nverb ます-stem + 気味 (疲れます → 疲れ気味)\n〜気味だ / 〜気味で、〜 / 〜気味の + noun",
+   "examples": [
+    { "ja": "今日は少し風邪気味なので、早く寝ます。", "reading": "きょうは すこし かぜぎみなので、はやく ねます。", "romaji": "kyou wa sukoshi kazegimi na node, hayaku nemasu.", "ta": "இன்று லேசாகச் சளி பிடித்த மாதிரி இருப்பதால் சீக்கிரம் தூங்கப் போகிறேன்.", "en": "I have a touch of a cold today, so I’ll go to bed early." },
+    { "ja": "最近、仕事が忙しくて疲れ気味です。", "reading": "さいきん、しごとが いそがしくて つかれぎみです。", "romaji": "saikin, shigoto ga isogashikute tsukaregimi desu.", "ta": "சமீபமாக வேலை அதிகம் என்பதால் கொஞ்சம் களைப்பாக இருக்கிறேன்.", "en": "Work has been busy lately, so I’m a bit tired." },
+    { "ja": "電車が遅れ気味なので、少し早く家を出ましょう。", "reading": "でんしゃが おくれぎみなので、すこし はやく いえを でましょう。", "romaji": "densha ga okuregimi na node, sukoshi hayaku ie o demashou.", "ta": "ரயில்கள் கொஞ்சம் தாமதமாக ஓடுவதால் சற்று முன்னதாகவே வீட்டிலிருந்து கிளம்புவோம்.", "en": "The trains are running a little late, so let’s leave home a bit early." },
+    { "ja": "父は太り気味なので、医師に運動を勧められました。", "reading": "ちちは ふとりぎみなので、いしに うんどうを すすめられました。", "romaji": "chichi wa futorigimi na node, ishi ni undou o susumeraremashita.", "ta": "அப்பாவுக்குக் கொஞ்சம் எடை அதிகம் என்பதால் மருத்துவர் உடற்பயிற்சி செய்யச் சொன்னார்.", "en": "My father is a little overweight, so the doctor told him to exercise." },
+    { "ja": "風邪気味の人は、マスクをしてください。", "reading": "かぜぎみの ひとは、マスクを して ください。", "romaji": "kazegimi no hito wa, masuku o shite kudasai.", "ta": "லேசான சளி உள்ளவர்கள் முகக்கவசம் அணியுங்கள்.", "en": "If you have a slight cold, please wear a mask." },
+    { "ja": "患者は少し緊張気味の顔で、診察室に入ってきた。", "reading": "かんじゃは すこし きんちょうぎみの かおで、しんさつしつに はいって きた。", "romaji": "kanja wa sukoshi kinchougimi no kao de, shinsatsushitsu ni haitte kita.", "ta": "நோயாளி கொஞ்சம் பதட்டமான முகத்துடன் பரிசோதனை அறைக்குள் வந்தார்.", "en": "The patient came into the exam room looking a little nervous." },
+    { "ja": "風邪気味ですか。顔色が悪いですよ。", "reading": "かぜぎみですか。かおいろが わるいですよ。", "romaji": "kazegimi desu ka. kaoiro ga warui desu yo.", "ta": "லேசாகச் சளியா? முகம் வாடியிருக்கிறதே.", "en": "Do you have a bit of a cold? You look pale." }
+   ],
+   "pitfalls_en": "Don’t add 気味 to the dictionary form: 疲れる気味 is wrong; say 疲れ気味. Also, 気味 is rarely used for good things. \"A little happy\" is not 嬉し気味.",
+   "pitfalls_ta": "அகராதி வடிவத்துடன் 気味 சேராது: 疲れる気味 தவறு; 疲れ気味 சரி. நல்ல விஷயங்களுக்கு 気味 அரிதாகவே வரும்; 'கொஞ்சம் சந்தோஷம்' என்பதற்கு 嬉し気味 என்று சொல்ல மாட்டோம்."
+  },
+  {
+   "id": "g22-3",
+   "pattern": "N / V-ます がち",
+   "name": { "en": "Tend to ~ (often bad)", "ta": "அடிக்கடி ~ ஆகிவிடும்" },
+   "explanation_en": "がち means \"this often happens\" or \"I tend to do this\". It is usually for bad things. Add it to a noun or a verb ます-stem: 病気がち (often sick), 忘れがち (tend to forget), 遅れがち (often late), なりがち (tend to become). Use it as 〜がちだ, 〜がちな + noun, or 〜がちの + noun. 気味 is about a light state now. がち is about how often something happens. Compare with やすい (N4): やすい means \"easy to\", and can be good or bad.",
+   "explanation_ta": "がち என்றால் 'அடிக்கடி இப்படி நடக்கிறது / இப்படிச் செய்யும் போக்கு உண்டு' என்று பொருள். பெரும்பாலும் கெட்ட விஷயங்களுக்கே வரும். பெயர்ச்சொல் அல்லது வினையின் ます-அடியுடன் சேரும்: 病気がち (அடிக்கடி உடம்பு சரியில்லாமல் போவது), 忘れがち (மறந்துவிடும் போக்கு), 遅れがち (அடிக்கடி தாமதம்), なりがち (அப்படி ஆகிவிடுவது). 〜がちだ, 〜がちな + பெயர்ச்சொல், 〜がちの + பெயர்ச்சொல் என்று வரும். 気味 இப்போதைய லேசான நிலை; がち எத்தனை முறை நடக்கிறது என்ற போக்கு. N4-இல் கற்ற やすい 'எளிதில் ~ ஆகும்' என்ற பொருள்; அது நல்லதுக்கும் கெட்டதுக்கும் வரும்.",
+   "tamil_parallel": "நான் அடிக்கடி மறந்துவிடுவேன் = 私は忘れがちです; சிறு வயதில் அடிக்கடி உடம்பு சரியில்லாமல் போகும் = 子どものころは病気がちでした",
+   "tamil_parallel_en": "நான் அடிக்கடி மறந்துவிடுவேன் (I tend to forget) = 私は忘れがちです; சிறு வயதில் அடிக்கடி உடம்பு சரியில்லாமல் போகும் (I was often sick as a child) = 子どものころは病気がちでした",
+   "formation": "பெயர்ச்சொல் + がち (病気がち)\nவினை ます-அடி + がち (忘れます → 忘れがち)\n〜がちだ / 〜がちな + பெயர்ச்சொல் / 〜がちの + பெயர்ச்சொல்",
+   "formation_en": "noun + がち (病気がち)\nverb ます-stem + がち (忘れます → 忘れがち)\n〜がちだ / 〜がちな + noun / 〜がちの + noun",
+   "examples": [
+    { "ja": "冬は、運動不足になりがちです。", "reading": "ふゆは、うんどう ぶそくに なりがちです。", "romaji": "fuyu wa, undou busoku ni narigachi desu.", "ta": "குளிர்காலத்தில் உடற்பயிற்சி குறைந்துவிடுவது வழக்கம்.", "en": "In winter, we tend not to get enough exercise." },
+    { "ja": "子どものころ、私は病気がちでした。", "reading": "こどもの ころ、わたしは びょうきがちでした。", "romaji": "kodomo no koro, watashi wa byoukigachi deshita.", "ta": "சிறு வயதில் எனக்கு அடிக்கடி உடம்பு சரியில்லாமல் போகும்.", "en": "As a child, I was often sick." },
+    { "ja": "忙しいと、朝ご飯を抜きがちです。", "reading": "いそがしいと、あさごはんを ぬきがちです。", "romaji": "isogashii to, asagohan o nukigachi desu.", "ta": "வேலை அதிகமாக இருந்தால் காலை உணவைத் தவிர்த்துவிடுவது உண்டு.", "en": "When I’m busy, I tend to skip breakfast." },
+    { "ja": "薬を飲むのを忘れがちなので、スマホにメモしています。", "reading": "くすりを のむのを わすれがちなので、スマホに メモ して います。", "romaji": "kusuri o nomu no o wasuregachi na node, sumaho ni memo shite imasu.", "ta": "மாத்திரை சாப்பிட மறந்துவிடுவதால் போனில் குறித்து வைத்திருக்கிறேன்.", "en": "I tend to forget my medicine, so I keep a note on my phone." },
+    { "ja": "一人暮らしの人は、栄養が偏りがちだ。", "reading": "ひとりぐらしの ひとは、えいようが かたよりがちだ。", "romaji": "hitorigurashi no hito wa, eiyou ga katayorigachi da.", "ta": "தனியாக வாழ்பவர்களுக்கு ஊட்டச்சத்து சமநிலை தவறிவிடுவது வழக்கம்.", "en": "People who live alone tend to have an unbalanced diet." },
+    { "ja": "雨の日は、気分が暗くなりがちですね。", "reading": "あめの ひは、きぶんが くらく なりがちですね。", "romaji": "ame no hi wa, kibun ga kuraku narigachi desu ne.", "ta": "மழை நாட்களில் மனம் சோர்ந்துவிடுவது உண்டு, இல்லையா?", "en": "On rainy days, we tend to feel gloomy, don’t we?" },
+    { "ja": "最近、寝不足になりがちじゃありませんか。", "reading": "さいきん、ねぶそくに なりがちじゃ ありませんか。", "romaji": "saikin, nebusoku ni narigachi ja arimasen ka.", "ta": "சமீபமாக அடிக்கடி தூக்கம் குறைவாக இருக்கிறீர்கள் அல்லவா?", "en": "Haven’t you been short of sleep a lot lately?" }
+   ],
+   "pitfalls_en": "Don’t use がち for one single event. 昨日は遅れがちでした is odd; say 昨日は遅れました. がち is about something that happens again and again.",
+   "pitfalls_ta": "ஒரே ஒரு முறை நடந்ததற்கு がち வராது: 昨日は遅れがちでした என்பது இயல்பற்றது; 昨日は遅れました என்று சொல்ல வேண்டும். がち என்பது மீண்டும் மீண்டும் நடக்கும் போக்கு."
+  },
+  {
+   "id": "g22-4",
+   "pattern": "〜おそれが ある",
+   "name": { "en": "There is a risk that ~", "ta": "~ ஆகும் அபாயம் உண்டு" },
+   "explanation_en": "おそれがある means \"something bad may happen\". It is formal. You hear it in the news, weather reports and on medicine labels. Put it after the dictionary form of a verb, or after noun + の: 大雨のおそれがある. It is only for bad results. For neutral \"maybe\", use かもしれない. おそれがある sounds more official and serious than かもしれない.",
+   "explanation_ta": "おそれがある என்றால் 'கெட்டது ஏதாவது நடக்கும் அபாயம் இருக்கிறது' என்று பொருள். இது முறையான (formal) வடிவம்; செய்திகள், வானிலை அறிக்கை, மருந்துச் சீட்டு போன்றவற்றில் அதிகம் வரும். வினையின் அகராதி வடிவத்துக்குப் பின்னோ, பெயர்ச்சொல் + の-க்குப் பின்னோ வரும்: 大雨のおそれがある. கெட்ட விளைவுகளுக்கு மட்டுமே பயன்படும். சாதாரண 'இருக்கலாம்' என்பதற்கு かもしれない சொல்லலாம்; おそれがある அதைவிட அதிகாரபூர்வமாகவும் கனமாகவும் ஒலிக்கும்.",
+   "tamil_parallel": "நாளை கனமழை பெய்யும் அபாயம் உள்ளது = 明日は大雨のおそれがあります",
+   "tamil_parallel_en": "நாளை கனமழை பெய்யும் அபாயம் உள்ளது (there is a risk of heavy rain tomorrow) = 明日は大雨のおそれがあります",
+   "formation": "வினை அகராதி வடிவம் + おそれがある (悪くなるおそれがある)\nபெயர்ச்சொல் + の + おそれがある (大雨のおそれがある)",
+   "formation_en": "verb dictionary form + おそれがある (悪くなるおそれがある)\nnoun + の + おそれがある (大雨のおそれがある)",
+   "examples": [
+    { "ja": "明日は大雨のおそれがあります。", "reading": "あしたは おおあめの おそれが あります。", "romaji": "ashita wa ooame no osore ga arimasu.", "ta": "நாளை கனமழை பெய்யும் அபாயம் உள்ளது.", "en": "There is a risk of heavy rain tomorrow." },
+    { "ja": "この薬は眠くなるおそれがあります。運転しないでください。", "reading": "この くすりは ねむく なる おそれが あります。うんてん しないで ください。", "romaji": "kono kusuri wa nemuku naru osore ga arimasu. unten shinaide kudasai.", "ta": "இந்த மாத்திரையால் தூக்கம் வரக்கூடும். வண்டி ஓட்ட வேண்டாம்.", "en": "This medicine may make you sleepy. Do not drive." },
+    { "ja": "早く治療しないと、病気が悪くなるおそれがあります。", "reading": "はやく ちりょう しないと、びょうきが わるく なる おそれが あります。", "romaji": "hayaku chiryou shinai to, byouki ga waruku naru osore ga arimasu.", "ta": "சீக்கிரம் சிகிச்சை செய்யாவிட்டால் நோய் மோசமாகும் அபாயம் உள்ளது.", "en": "If it isn’t treated soon, the illness may get worse." },
+    { "ja": "このウイルスは、ほかの人にうつるおそれがある。", "reading": "この ウイルスは、ほかの ひとに うつる おそれが ある。", "romaji": "kono uirusu wa, hoka no hito ni utsuru osore ga aru.", "ta": "இந்த வைரஸ் மற்றவர்களுக்கும் பரவும் அபாயம் உண்டு.", "en": "This virus may spread to other people." },
+    { "ja": "台風のため、電車が止まるおそれがあります。", "reading": "たいふうの ため、でんしゃが とまる おそれが あります。", "romaji": "taifuu no tame, densha ga tomaru osore ga arimasu.", "ta": "புயல் காரணமாக ரயில்கள் நின்றுபோகும் அபாயம் உள்ளது.", "en": "Because of the typhoon, the trains may stop." },
+    { "ja": "子どもが飲んでも、体に悪い影響が出るおそれはありませんか。", "reading": "こどもが のんでも、からだに わるい えいきょうが でる おそれは ありませんか。", "romaji": "kodomo ga nonde mo, karada ni warui eikyou ga deru osore wa arimasen ka.", "ta": "குழந்தை குடித்தாலும் உடலுக்குக் கெடுதல் ஏற்படும் அபாயம் இல்லையா?", "en": "Is there any risk of harm if a child takes it?" }
+   ],
+   "pitfalls_en": "Don’t use おそれがある for good things. 明日は晴れるおそれがあります sounds strange, as if sun is bad news. Say 晴れるかもしれません.",
+   "pitfalls_ta": "நல்ல விஷயங்களுக்கு おそれがある சொல்லக் கூடாது. 明日は晴れるおそれがあります என்றால் வெயில் ஒரு ஆபத்து போல விசித்திரமாக ஒலிக்கும்; 晴れるかもしれません என்று சொல்லுங்கள்."
+  },
+  {
+   "id": "g22-5",
+   "pattern": "〜のではないか / 〜んじゃないか",
+   "name": { "en": "Isn’t it ~? / I suspect ~", "ta": "~ ஆக இருக்குமோ?" },
+   "explanation_en": "This shows a guess or a worry in a soft way. Literally it means \"isn’t it the case that …?\", but it really means \"I think maybe …\". Put it after the plain form. With nouns and な-words, use な: 病気なのではないか. It often comes with と思う (I think) or と心配する (I worry). In polite speech, say のではないですか / のではないでしょうか. In casual speech, say んじゃない？ (rising voice). Don’t mix it up with じゃない / じゃん from lesson 1. Those check a fact the listener can see. んじゃない shows your own guess.",
+   "explanation_ta": "ஒரு ஊகத்தையோ கவலையையோ மென்மையாகச் சொல்ல இந்த வடிவம் உதவும். நேர்ப் பொருள் 'அப்படி இல்லையா?' என்றாலும், உண்மையான பொருள் 'அப்படி இருக்கலாம் என்று நினைக்கிறேன்'. சாதாரண வடிவத்துக்குப் பின் வரும்; பெயர்ச்சொல், な-பெயரடைக்கு な சேர்க்க வேண்டும்: 病気なのではないか. பெரும்பாலும் と思う (நினைக்கிறேன்), と心配する (கவலைப்படுகிறேன்) உடன் வரும். மரியாதையாக のではないですか / のではないでしょうか; பேச்சு வழக்கில் んじゃない？ (குரல் உயர்த்தி). பாடம் 1-இல் கற்ற じゃない / じゃん கேட்பவருக்கே தெரிந்த உண்மையை உறுதிப்படுத்துவது; んじゃない என்பது உங்கள் சொந்த ஊகம்.",
+   "tamil_parallel": "காய்ச்சல் இருக்குமோ? / காய்ச்சல் இல்லையா? = 熱があるのではないですか / 熱があるんじゃない？",
+   "tamil_parallel_en": "காய்ச்சல் இருக்குமோ? (maybe you have a fever?) = 熱があるのではないですか / 熱があるんじゃない？",
+   "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + のではないか / んじゃないか\nな-பெயரடை / பெயர்ச்சொல் + な + のではないか (病気なのではないか)\nமரியாதை: 〜のではないですか / 〜のではないでしょうか\nபேச்சு: 〜んじゃない？",
+   "formation_en": "verb / い-adjective (plain form) + のではないか / んじゃないか\nな-adjective / noun + な + のではないか (病気なのではないか)\npolite: 〜のではないですか / 〜のではないでしょうか\ncasual: 〜んじゃない？",
+   "examples": [
+    { "ja": "顔色が悪いですね。熱があるのではないですか。", "reading": "かおいろが わるいですね。ねつが ある のでは ないですか。", "romaji": "kaoiro ga warui desu ne. netsu ga aru no de wa nai desu ka.", "ta": "முகம் வெளிறியிருக்கிறதே. காய்ச்சல் இருக்குமோ?", "en": "You look pale. Don’t you have a fever?" },
+    { "ja": "この咳は、風邪ではなくアレルギーなのではないかと思います。", "reading": "この せきは、かぜでは なく アレルギーなのでは ないかと おもいます。", "romaji": "kono seki wa, kaze de wa naku arerugii na no de wa nai ka to omoimasu.", "ta": "இந்த இருமல் சளி அல்ல, ஒவ்வாமையாக இருக்குமோ என்று நினைக்கிறேன்.", "en": "I suspect this cough is an allergy, not a cold." },
+    { "ja": "そんなに食べたら、おなかを壊すんじゃない？", "reading": "そんなに たべたら、おなかを こわすんじゃ ない？", "romaji": "sonna ni tabetara, onaka o kowasu n ja nai?", "ta": "அவ்வளவு சாப்பிட்டால் வயிறு கெட்டுப்போகாதா?", "en": "Won’t you upset your stomach if you eat that much?" },
+    { "ja": "母は、私が病気なのではないかと心配しています。", "reading": "ははは、わたしが びょうきなのでは ないかと しんぱい して います。", "romaji": "haha wa, watashi ga byouki na no de wa nai ka to shinpai shite imasu.", "ta": "எனக்கு உடம்பு சரியில்லையோ என்று அம்மா கவலைப்படுகிறாள்.", "en": "My mother is worried that I might be ill." },
+    { "ja": "少し休んだほうがいいんじゃないか。", "reading": "すこし やすんだ ほうが いいんじゃ ないか。", "romaji": "sukoshi yasunda hou ga ii n ja nai ka.", "ta": "கொஞ்சம் ஓய்வெடுப்பது நல்லதல்லவா?", "en": "Maybe you’d better rest a little." },
+    { "ja": "検査の結果が悪いのではないかと、ずっと不安でした。", "reading": "けんさの けっかが わるいのでは ないかと、ずっと ふあんでした。", "romaji": "kensa no kekka ga warui no de wa nai ka to, zutto fuan deshita.", "ta": "பரிசோதனை முடிவு மோசமாக இருக்குமோ என்று எப்போதும் கவலையாக இருந்தது.", "en": "I kept worrying that the test results would be bad." }
+   ],
+   "pitfalls_en": "It looks negative, but it is not a \"no\". 熱があるのではないか means \"maybe you DO have a fever\". Also don’t forget な after nouns: 病気のではないか is wrong; say 病気なのではないか.",
+   "pitfalls_ta": "இதில் ない இருந்தாலும் இது எதிர்மறைப் பொருள் அல்ல. 熱があるのではないか = 'காய்ச்சல் இருக்கலாம்' என்பதே பொருள். பெயர்ச்சொல்லுக்குப் பின் な மறக்கக் கூடாது: 病気のではないか தவறு; 病気なのではないか சரி."
+  }
+ ],
+ "vocab_ids": [
+  "n3-v-0045", "n3-v-0098", "n3-v-0110", "n3-v-0142", "n3-v-0180", "n3-v-0185", "n3-v-0191", "n3-v-0197", "n3-v-0198", "n3-v-0199",
+  "n3-v-0235", "n3-v-0286", "n3-v-0318", "n3-v-0335", "n3-v-0362", "n3-v-0367", "n3-v-0371", "n3-v-0375", "n3-v-0376", "n3-v-0386",
+  "n3-v-0423", "n3-v-0438", "n3-v-0472", "n3-v-0563", "n3-v-0577", "n3-v-0579", "n3-v-0614", "n3-v-0648", "n3-v-0660", "n3-v-0674",
+  "n3-v-0726", "n3-v-0789", "n3-v-0790", "n3-v-0841", "n3-v-0858", "n3-v-0859", "n3-v-0914", "n3-v-0923", "n3-v-1009", "n3-v-1018",
+  "n3-v-1025", "n3-v-1035", "n3-v-1041", "n3-v-1147", "n3-v-1215", "n3-v-1254", "n3-v-1265", "n3-v-1275", "n3-v-1358", "n3-v-1552",
+  "n3-v-1754", "n3-v-2005", "n3-v-2013", "n3-v-2034", "n3-v-2042", "n3-v-2067", "n3-v-2097", "n3-v-2099", "n3-v-2123", "n3-v-2125"
+ ],
+ "test": {
+  "passMark": 0.7,
+  "items": [
+   {
+    "id": "L22-q01", "type": "kanji_reading",
+    "sentence": "朝から ＿頭痛＿が して、仕事に 集中できません。", "target": "頭痛",
+    "options": ["ずつう", "とうつう", "あたまつう", "ずうつう"], "answer": 0,
+    "explanation_ta": "頭痛 = ずつう (தலைவலி). இங்கு 頭 'ず' என்று படிக்கப்படுகிறது. とうつう என்பது தவறான வாசிப்பு; ずうつう-வில் நீண்ட 'உ' இல்லை.",
+    "explanation_en": "頭痛 is read ずつう (headache). Here 頭 is read ず. とうつう is a wrong reading. ずうつう has an extra long sound."
+   },
+   {
+    "id": "L22-q02", "type": "kanji_reading",
+    "sentence": "父は 来月、心臓の ＿手術＿を 受けます。", "target": "手術",
+    "options": ["しゅうじゅつ", "しゅじゅつ", "てじゅつ", "しゅじゅう"], "answer": 1,
+    "explanation_ta": "手術 = しゅじゅつ (அறுவை சிகிச்சை). இரண்டுமே குறுகிய ஒலிகள்: しゅ + じゅつ. しゅうじゅつ-வில் தேவையற்ற நீண்ட ஒலி உள்ளது.",
+    "explanation_en": "手術 is read しゅじゅつ (surgery). Both parts are short: しゅ + じゅつ. しゅうじゅつ has a wrong long sound."
+   },
+   {
+    "id": "L22-q03", "type": "kanji_reading",
+    "sentence": "待合室で 多くの ＿患者＿が 待って います。", "target": "患者",
+    "options": ["かんしゃ", "がんじゃ", "かんじゃ", "かんじや"], "answer": 2,
+    "explanation_ta": "患者 = かんじゃ (நோயாளி). 者 இங்கு じゃ என்று ஒலிக்கும். かんしゃ என்பது 感謝 (நன்றி) — வேறு சொல்.",
+    "explanation_en": "患者 is read かんじゃ (patient). 者 sounds じゃ here. かんしゃ is 感謝 (thanks), a different word."
+   },
+   {
+    "id": "L22-q04", "type": "orthography",
+    "sentence": "冬は 風邪の ＿よぼう＿が 大切です。", "target": "よぼう",
+    "options": ["予坊", "余防", "予房", "予防"], "answer": 3,
+    "explanation_ta": "よぼう = 予防 (தடுப்பு). 予 = முன்கூட்டியே, 防 = தடுத்தல் (防ぐ). 坊, 房 ஒலியில் ஒத்தாலும் பொருள் வேறு.",
+    "explanation_en": "よぼう is 予防 (prevention). 予 means \"before\", 防 means \"to stop\" (防ぐ). 坊 and 房 sound alike but mean other things."
+   },
+   {
+    "id": "L22-q05", "type": "orthography",
+    "sentence": "毎朝、＿たいおん＿を 測って から 出かけます。", "target": "たいおん",
+    "options": ["体温", "体湿", "休温", "体暖"], "answer": 0,
+    "explanation_ta": "たいおん = 体温 (உடல் வெப்பநிலை). 休 (ஓய்வு) என்பது 体 போலத் தோன்றும் வேறு கான்ஜி; கவனமாகப் பாருங்கள்.",
+    "explanation_en": "たいおん is 体温 (body temperature). 休 (rest) looks like 体, but it is a different kanji. Look carefully."
+   },
+   {
+    "id": "L22-q06", "type": "vocab_context",
+    "sentence": "蚊に 刺されて、うでが （　　）。", "options": ["からい", "かゆい", "かるい", "かたい"], "answer": 1,
+    "explanation_ta": "கொசு கடித்தால் அரிக்கும்: かゆい. からい = காரமான, かるい = லேசான, かたい = கடினமான — இங்குப் பொருந்தாது.",
+    "explanation_en": "A mosquito bite makes your skin itch: かゆい. からい = spicy, かるい = light, かたい = hard. They don’t fit."
+   },
+   {
+    "id": "L22-q07", "type": "vocab_context",
+    "sentence": "昨日は とても 疲れて いたので、朝まで （　　）眠りました。", "options": ["はっきり", "すっかり", "ぐっすり", "しっかり"], "answer": 2,
+    "explanation_ta": "ஆழ்ந்து தூங்குவது = ぐっすり眠る. すっかり = முழுவதும் (すっかり忘れた), はっきり = தெளிவாக; தூக்கத்துடன் இயல்பாக வருவது ぐっすり மட்டுமே.",
+    "explanation_en": "To sleep deeply is ぐっすり眠る. すっかり = completely (すっかり忘れた). はっきり = clearly. Only ぐっすり goes naturally with sleep."
+   },
+   {
+    "id": "L22-q08", "type": "vocab_context",
+    "sentence": "手術の あと、祖母は 少しずつ （　　）して います。", "options": ["予防", "検査", "診察", "回復"], "answer": 3,
+    "explanation_ta": "அறுவை சிகிச்சைக்குப் பின் 'கொஞ்சம் கொஞ்சமாகக் குணமடைகிறார்' = 回復しています. 予防 = தடுப்பு, 検査 = பரிசோதனை; இவை நோயாளி தானே 'செய்வது' அல்ல.",
+    "explanation_en": "After surgery, she is \"getting better little by little\": 回復しています. 予防 = prevention and 検査 = a test. They don’t fit."
+   },
+   {
+    "id": "L22-q09", "type": "vocab_context",
+    "sentence": "駅の 階段を 走って 上ったら、（　　）が 苦しく なった。", "options": ["息", "汗", "咳", "舌"], "answer": 0,
+    "explanation_ta": "ஓடியபின் மூச்சு வாங்குவது = 息が苦しくなる. 汗 (வியர்வை) 'かく' உடன் வரும்: 汗をかく. 咳 (இருமல்) 'でる' உடன் வரும்.",
+    "explanation_en": "After running, you are out of breath: 息が苦しくなる. 汗 (sweat) goes with かく: 汗をかく. 咳 (cough) goes with 出る."
+   },
+   {
+    "id": "L22-q10", "type": "vocab_context",
+    "sentence": "野菜や 果物には （　　）が たくさん あるので、毎日 食べましょう。", "options": ["脂肪", "栄養", "症状", "異常"], "answer": 1,
+    "explanation_ta": "காய்கறி, பழங்களில் நிறைய இருப்பது ஊட்டச்சத்து (栄養). 脂肪 = கொழுப்பு; அதனால் 'தினமும் சாப்பிடுவோம்' என்பதோடு பொருந்தாது.",
+    "explanation_en": "Vegetables and fruit are full of 栄養 (nutrients). 脂肪 is fat; it doesn’t match \"let’s eat them every day\"."
+   },
+   {
+    "id": "L22-q11", "type": "paraphrase",
+    "sentence": "最近、少し 疲れ気味です。",
+    "options": ["最近、とても 疲れて います。", "最近、全然 疲れて いません。", "最近、ちょっと 疲れて います。", "最近、疲れる ことが 好きです。"], "answer": 2,
+    "explanation_ta": "疲れ気味 = 'கொஞ்சம் களைப்பாக இருக்கிறது' = ちょっと疲れています. とても疲れています என்பது 'மிகவும்' — 気味 காட்டும் லேசான அளவுக்கு மாறானது.",
+    "explanation_en": "疲れ気味 = \"a bit tired\" = ちょっと疲れています. とても疲れています means \"very tired\". 気味 shows only a light degree."
+   },
+   {
+    "id": "L22-q12", "type": "paraphrase",
+    "sentence": "この 医院の 診察は 九時からです。",
+    "options": ["この 医院は 九時に 閉まります。", "この 医院の 検査は 九時までです。", "この 医院は 九時から 手術を します。", "この 医院で 医者が 患者を 診るのは 九時からです。"], "answer": 3,
+    "explanation_ta": "診察 = மருத்துவர் நோயாளியைப் பார்த்துப் பரிசோதிப்பது (医者が患者を診る). 'ஒன்பது மணிக்கு மூடும்' அல்லது 'அறுவை சிகிச்சை' என்பவை வேறு பொருள்.",
+    "explanation_en": "診察 = a doctor examines patients (医者が患者を診る). \"Closes at nine\" and \"surgery\" mean different things."
+   },
+   {
+    "id": "L22-q13", "type": "usage",
+    "sentence": "渇く",
+    "options": ["運動した あと、のどが 渇きました。", "雨が やんで、道が 渇きました。", "シャツを 外で 渇かしました。", "おなかが 渇いたので、ご飯を 食べます。"], "answer": 0,
+    "explanation_ta": "渇く = தாகமெடுப்பது; のどが渇く என்றே வரும். ஈரம் காய்வதற்கு 乾く (道が乾く, シャツを乾かす) என்ற வேறு கான்ஜி. பசிக்கு おなかがすく.",
+    "explanation_en": "渇く = to be thirsty; it goes with のど: のどが渇く. Drying (a road, a shirt) uses a different kanji: 乾く / 乾かす. Hunger is おなかがすく."
+   },
+   {
+    "id": "L22-q14", "type": "usage",
+    "sentence": "見舞い",
+    "options": ["先生に 見舞いの 手紙で 宿題を 出しました。", "誕生日に 友達の 見舞いに 行きました。", "入院して いる 祖母の お見舞いに 行きました。", "テレビで 見舞いの 番組を 見ました。"], "answer": 2,
+    "explanation_ta": "見舞い = உடம்பு சரியில்லாதவரை நலம் விசாரிக்கச் செல்வது. மருத்துவமனையில் இருக்கும் பாட்டியைப் பார்க்கச் செல்வது சரியான பயன்பாடு. பிறந்தநாளுக்கு 見舞い பொருந்தாது.",
+    "explanation_en": "見舞い = visiting someone who is sick. Visiting your grandmother in hospital is right. A birthday visit is not 見舞い."
+   },
+   {
+    "id": "L22-q15", "type": "grammar_form",
+    "sentence": "今日は 朝から 少し 風邪（　　）なので、早めに 帰ります。", "options": ["がち", "らしい", "気味", "おそれ"], "answer": 2,
+    "explanation_ta": "இன்றைய லேசான உடல்நிலை = 風邪気味. がち அடிக்கடி நடக்கும் போக்கைக் காட்டும்; 'இன்று' என்ற ஒரு நாளுக்குப் பொருந்தாது. 風邪らしい = 'சளி போலத் தெரிகிறது' (மற்றவரைப் பற்றி).",
+    "explanation_en": "A slight condition today = 風邪気味. がち is for something that happens often, not for one day. 風邪らしい = \"it seems to be a cold\", usually about others."
+   },
+   {
+    "id": "L22-q16", "type": "grammar_form",
+    "sentence": "子どもの ころ、弟は 病気（　　）で、よく 学校を 休んだ。", "options": ["がち", "気味", "ような", "おそれ"], "answer": 0,
+    "explanation_ta": "'அடிக்கடி உடம்பு சரியில்லாமல் போவான், அதனால் அடிக்கடி பள்ளிக்கு வரமாட்டான்' — மீண்டும் மீண்டும் நடப்பது = 病気がち. 気味 இப்போதைய லேசான நிலை; 病気気味 என்பது இயல்பான சொல் அல்ல.",
+    "explanation_en": "\"He was often sick and often missed school\" shows a repeated tendency: 病気がち. 気味 is a light state now, and 病気気味 is not a natural word."
+   },
+   {
+    "id": "L22-q17", "type": "grammar_form",
+    "sentence": "台風が 近づいて いるので、明日は 電車が 止まる （　　）が あります。", "options": ["わけ", "はず", "ため", "おそれ"], "answer": 3,
+    "explanation_ta": "கெட்டது நடக்கும் அபாயம் = 止まるおそれがあります. はず 'இருக்க வேண்டும்' (はずです), 'はずがあります' என்று சொல்லமாட்டோம். わけ = காரணம்/பொருள்.",
+    "explanation_en": "A risk of something bad = 止まるおそれがあります. はず means \"should be\" and is used as はずです, not はずがあります. わけ is about reasons."
+   },
+   {
+    "id": "L22-q18", "type": "grammar_form",
+    "sentence": "なんだか 誰かに 見られて いる （　　）気が する。", "options": ["ように", "ような", "そうな", "みたいに"], "answer": 1,
+    "explanation_ta": "気 என்ற பெயர்ச்சொல்லுக்கு முன் பெயரடை வடிவம் தேவை: ような気がする. ように / みたいに வினையடை வடிவங்கள்; 気-க்கு முன் வராது.",
+    "explanation_en": "Before the noun 気 you need the noun-joining form: ような気がする. ように and みたいに join verbs, not nouns."
+   },
+   {
+    "id": "L22-q19", "type": "grammar_form",
+    "sentence": "A「顔色が 悪いよ。熱が ある（　　）？」 B「うん、ちょっと 寒い。」", "options": ["んじゃない", "っけ", "もん", "ぞ"], "answer": 0,
+    "explanation_ta": "முகத்தைப் பார்த்து 'காய்ச்சல் இருக்குமோ?' என்று ஊகிப்பது = 熱があるんじゃない？ っけ மறந்ததை நினைவுகூரும்போது (熱があったっけ？) வரும்; இங்குப் பொருந்தாது.",
+    "explanation_en": "Guessing from someone’s face, \"Don’t you have a fever?\" = 熱があるんじゃない？ っけ is for trying to remember something, so it doesn’t fit."
+   },
+   {
+    "id": "L22-q20", "type": "grammar_form",
+    "sentence": "試験に 落ちた （　　）と、結果が 出るまで ずっと 心配して いた。", "options": ["ようではないか", "わけではないか", "ことではないか", "のではないか"], "answer": 3,
+    "explanation_ta": "'தேர்வில் தோற்றுவிட்டேனோ என்று கவலைப்பட்டேன்' = 落ちたのではないかと心配していた. ようではないか என்பது 'செய்வோம்' என்ற முறையான அழைப்பு — பொருள் வேறு.",
+    "explanation_en": "\"I worried that I might have failed\" = 落ちたのではないかと心配していた. ようではないか is a formal \"let’s do it\", so the meaning is wrong."
+   },
+   {
+    "id": "L22-q21", "type": "grammar_form",
+    "sentence": "忙しいと、食事の 時間が 不規則に なり（　　）だ。", "options": ["っぽい", "がち", "げ", "たて"], "answer": 1,
+    "explanation_ta": "'வேலை அதிகமானால் உணவு நேரம் ஒழுங்கற்றதாகிவிடும்' — கெட்ட போக்கு = なりがちだ. たて = 'புதிதாக' (焼きたて), げ = 'தோற்றம்' (楽しげ) — இங்குப் பொருந்தாது.",
+    "explanation_en": "\"When busy, meal times tend to become irregular\" is a bad tendency: なりがちだ. たて = freshly done (焼きたて). げ = looking ~ (楽しげ). They don’t fit."
+   },
+   {
+    "id": "L22-q22", "type": "sentence_order",
+    "before": "今日は 朝から", "chunks": ["頭が", "痛い", "ような", "気が"], "star": 2, "after": "します。",
+    "explanation_ta": "頭が (தலை) → 痛い (வலிக்கிறது) → ような (போல) → 気が (தோன்றுகிறது) します. ★ = ような.",
+    "explanation_en": "頭が (head) → 痛い (hurts) → ような (like) → 気が します (I feel). ★ = ような."
+   },
+   {
+    "id": "L22-q23", "type": "sentence_order",
+    "before": "寝不足が 続くと、", "chunks": ["病気に", "かかる", "おそれが", "ある"], "star": 1, "after": "そうだ。",
+    "explanation_ta": "病気に (நோய்க்கு) → かかる (ஆளாகும்) → おそれが ある (அபாயம் உண்டு) → そうだ (என்று சொல்கிறார்கள்). ★ = かかる.",
+    "explanation_en": "病気に → かかる (catch an illness) → おそれが ある (there is a risk) → そうだ (they say). ★ = かかる."
+   },
+   {
+    "id": "L22-q24", "type": "sentence_order",
+    "before": "冬は", "chunks": ["寒くて", "外に 出ないので", "運動不足に", "なり"], "star": 2, "after": "がちだ。",
+    "explanation_ta": "寒くて (குளிராக இருப்பதால்) → 外に出ないので (வெளியே போகாததால்) → 運動不足に (உடற்பயிற்சி குறைவாக) → なり + がちだ (ஆகிவிடும் போக்கு). ★ = 運動不足に.",
+    "explanation_en": "寒くて (it’s cold) → 外に 出ないので (we don’t go out) → 運動不足に (short of exercise) → なり + がちだ (tend to become). ★ = 運動不足に."
+   },
+   {
+    "id": "L22-q25", "type": "passage_cloze",
+    "passage": "先週から 少し 風邪［1］で、咳が なかなか 止まりません。最初は すぐ 治るだろうと 思って いましたが、熱も 出て きて、肺の 病気なのでは［2］と 心配に なりました。それで、近くの 医院で 診察を 受けました。医師には「このままだと 病気が 悪く なる［3］が あるので、薬を 飲んで ゆっくり 休んで ください」と 言われました。私は 忙しいと 無理を し［4］なので、これからは 体を 大切に しようと 思います。",
+    "blanks": [
+     { "options": ["気味", "がち", "おそれ", "ような"], "answer": 0 },
+     { "options": ["ないで", "ないか", "ないの", "なくて"], "answer": 1 },
+     { "options": ["わけ", "はず", "おそれ", "よう"], "answer": 2 },
+     { "options": ["かけ", "げ", "たて", "がち"], "answer": 3 }
+    ],
+    "explanation_ta": "［1］ இப்போதைய லேசான சளி = 風邪気味. ［2］ 'நுரையீரல் நோயோ என்று' = 病気なのではないかと. ［3］ மருத்துவரின் எச்சரிக்கை 'மோசமாகும் அபாயம்' = 悪くなるおそれがある. ［4］ 'வேலை அதிகமானால் அளவுக்கு மீறி உழைத்துவிடும் போக்கு' = 無理をしがち. 気味-ஐ ［4］-இல் போட்டால் 'அடிக்கடி நடக்கும்' என்ற பொருள் வராது.",
+    "explanation_en": "[1] A slight cold now = 風邪気味. [2] \"I worried it might be a lung illness\" = 病気なのではないかと. [3] The doctor’s warning \"it may get worse\" = 悪くなるおそれがある. [4] \"When busy, I tend to push myself too hard\" = 無理をしがち. 気味 in [4] would not show a repeated habit."
+   }
+  ]
+ }
+}

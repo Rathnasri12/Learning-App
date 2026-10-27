@@ -1,0 +1,282 @@
+{
+  "lesson": 12,
+  "title": { "ja": "そういうわけではない", "ta": "நான் அப்படிச் சொல்லவில்லை", "en": "That's not what I mean" },
+  "intro_ta": "தவறான புரிதல்களைத் தீர்க்கவும், காரணங்களையும் உண்மைகளையும் தெளிவாக விளக்கவும் இந்தப் பாடம் உதவும். 'அதனால்தான் / ஆச்சரியமில்லை' என்று முடிவு சொல்லும் 〜わけだ, 'அப்படி அர்த்தமில்லை' என்று பகுதியளவு மறுக்கும் 〜わけではない, சமூக / தார்மீகக் காரணத்தால் 'செய்ய முடியாது' என்று சொல்லும் 〜わけにはいかない, ஒரு உண்மையிலிருந்து காரணம் அல்லது பெயரின் தோற்றம் சொல்லும் 〜ことから ஆகியவற்றைக் கற்போம்.",
+  "intro_en": "This lesson helps you clear up misunderstandings and explain facts. You learn 〜わけだ: \"that's why / no wonder\". You learn 〜わけではない: \"it doesn't mean that\". You learn 〜わけにはいかない: \"I can't, because it wouldn't be right\". And 〜ことから: \"from the fact that\", for reasons and the origin of names.",
+  "grammar": [
+    {
+      "id": "g12-1",
+      "pattern": "〜わけだ",
+      "name": { "en": "That's why / no wonder", "ta": "அதனால்தான் / ஆச்சரியமில்லை" },
+      "explanation_ta": "〜わけだ என்பது தெரிந்த உண்மைகளை வைத்து 'அப்படியென்றால், இது இயல்பான முடிவுதான்' என்று சொல்லும் வடிவம். மூன்று பயன்கள்: (1) காரணம் தெரிந்ததும் 'ஆச்சரியமில்லை' (だから / どうりで 〜わけだ), (2) சொன்னதை வேறு வார்த்தையில் 'அதாவது' என்று சுருக்குதல் (つまり 〜わけだ), (3) கணக்கு அல்லது தர்க்கப்படி வரும் முடிவு. தமிழில் 'அதான் இவ்வளவு சூடா இருக்கு!' என்பதில் வரும் 'அதான்' போல. பேச்சில் வாக்கிய இறுதியில் 〜わけ என்றும் சுருங்கும். N4-இல் கற்ற 〜はずだ 'இப்படி இருக்க வேண்டும்' என்ற எதிர்பார்ப்பு; わけだ ஏற்கனவே தெரிந்த உண்மையிலிருந்து வரும் புரிதல்.",
+      "explanation_en": "Use 〜わけだ to draw a natural conclusion from facts. There are three uses. (1) \"No wonder\": you just learned the reason (だから / どうりで 〜わけだ). (2) \"In other words\": you sum up what was said (つまり 〜わけだ). (3) A result that follows by logic or numbers. It is like the Tamil \"அதான்\". In casual speech the sentence can end with 〜わけ. 〜はずだ (N4) is an expectation: \"it should be\". わけだ is understanding from facts you already know.",
+      "tamil_parallel": "ஏசி பழுதாகியிருக்கிறது. அதான் இவ்வளவு சூடாக இருக்கிறது! = エアコンが壊れている。暑いわけだ。",
+      "tamil_parallel_en": "\"The AC is broken. No wonder it's so hot!\" (அதான் இவ்வளவு சூடாக இருக்கிறது) = エアコンが壊れている。暑いわけだ。",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + わけだ: 増えているわけだ・暑いわけだ\nな-பெயரடை + な + わけだ: 上手なわけだ\nபெயர்ச்சொல் + という / の + わけだ: 最後というわけだ\nபணிவு: 〜わけです; பேச்சு: 〜わけ",
+      "formation_en": "Verb / い-adjective (plain form) + わけだ: 増えているわけだ・暑いわけだ\nな-adjective + な + わけだ: 上手なわけだ\nNoun + という / の + わけだ: 最後というわけだ\nPolite: 〜わけです; casual: 〜わけ",
+      "examples": [
+        { "ja": "「彼女は 10年 日本に 住んで いたそうですよ。」「だから 日本語が 上手な わけですね。」", "reading": "「かのじょは じゅうねん にほんに すんで いたそうですよ。」「だから にほんごが じょうずな わけですね。」", "romaji": "\"kanojo wa juunen nihon ni sunde ita sou desu yo.\" \"dakara nihongo ga jouzu na wake desu ne.\"", "ta": "\"அவர் பத்து வருடம் ஜப்பானில் வாழ்ந்தாராம்.\" \"அதான் அவருடைய ஜப்பானிய மொழி அவ்வளவு நன்றாக இருக்கிறது.\"", "en": "\"I hear she lived in Japan for ten years.\" \"No wonder her Japanese is so good.\"" },
+        { "ja": "エアコンが 壊れて いる。暑い わけだ。", "reading": "エアコンが こわれて いる。あつい わけだ。", "romaji": "eakon ga kowarete iru. atsui wake da.", "ta": "ஏசி பழுதாகியிருக்கிறது. அதான் இவ்வளவு சூடாக இருக்கிறது.", "en": "The air conditioner is broken. No wonder it's hot." },
+        { "ja": "1時間に 60キロ 走るから、3時間で 180キロ 進む わけです。", "reading": "いちじかんに ろくじゅっキロ はしるから、さんじかんで ひゃくはちじゅっキロ すすむ わけです。", "romaji": "ichijikan ni rokujukkiro hashiru kara, sanjikan de hyakuhachijukkiro susumu wake desu.", "ta": "ஒரு மணி நேரத்தில் 60 கி.மீ. ஓடுகிறது, ஆக மூன்று மணி நேரத்தில் 180 கி.மீ. போகும்.", "en": "It goes 60 km an hour, so in three hours it covers 180 km." },
+        { "ja": "「来月 インドに 帰ります。」「じゃあ、一緒に 働けるのも 今月で 最後と いう わけですね。」", "reading": "「らいげつ インドに かえります。」「じゃあ、いっしょに はたらけるのも こんげつで さいごと いう わけですね。」", "romaji": "\"raigetsu indo ni kaerimasu.\" \"jaa, issho ni hatarakeru no mo kongetsu de saigo to iu wake desu ne.\"", "ta": "\"அடுத்த மாதம் இந்தியாவுக்குத் திரும்புகிறேன்.\" \"அப்படியென்றால், நாம் சேர்ந்து வேலை செய்வது இந்த மாதத்தோடு முடிகிறது, இல்லையா?\"", "en": "\"I'm going back to India next month.\" \"So this month is the last time we'll work together.\"" },
+        { "ja": "円安で 日本への 旅行が 安く なった。それで 外国人の 観光客が 増えて いる わけだ。", "reading": "えんやすで にほんへの りょこうが やすく なった。それで がいこくじんの かんこうきゃくが ふえて いる わけだ。", "romaji": "en'yasu de nihon e no ryokou ga yasuku natta. sore de gaikokujin no kankoukyaku ga fuete iru wake da.", "ta": "யென் மதிப்பு குறைந்ததால் ஜப்பான் பயணம் மலிவாகிவிட்டது. அதனால்தான் வெளிநாட்டுச் சுற்றுலாப் பயணிகள் அதிகரிக்கிறார்கள்.", "en": "The weak yen has made trips to Japan cheaper. That's why foreign tourists are increasing." },
+        { "ja": "「なんで 遅れたの？」「電車で 寝ちゃって、終点まで 行っちゃった わけ。」", "reading": "「なんで おくれたの？」「でんしゃで ねちゃって、しゅうてんまで いっちゃった わけ。」", "romaji": "\"nande okureta no?\" \"densha de nechatte, shuuten made itchatta wake.\"", "ta": "\"ஏன் தாமதம்?\" \"ரயிலில் தூங்கிவிட்டேன், கடைசி நிலையம் வரை போய்விட்டேன், அதான்.\"", "en": "\"Why were you late?\" \"I fell asleep on the train and went all the way to the last stop.\"" }
+      ],
+      "pitfalls_ta": "காரணம் அல்லது தர்க்கம் இல்லாமல் புதிய செய்தியைச் சொல்ல わけだ பயன்படுத்தக் கூடாது. な-பெயரடைக்குப் பின் なわけだ (上手だわけだ ✗). はずだ 'அப்படி இருக்க வேண்டும்' (எதிர்பார்ப்பு), わけだ 'அப்படித்தான் இருக்கிறது, புரிகிறது' (புரிதல்).",
+      "pitfalls_en": "Do not use わけだ for plain new information with no reason or logic behind it. After な-adjectives, say なわけだ (上手だわけだ ✗). はずだ is an expectation: \"it should be\". わけだ is understanding: \"so that's why\"."
+    },
+    {
+      "id": "g12-2",
+      "pattern": "〜わけではない",
+      "name": { "en": "It doesn't mean that ~ / not necessarily", "ta": "〜என்று அர்த்தமில்லை" },
+      "explanation_ta": "〜わけではない என்பது மற்றவர் நினைக்கக்கூடிய முடிவை 'முழுவதும் அப்படி இல்லை' என்று பகுதியளவு மறுக்கும் வடிவம். தவறான புரிதலைத் திருத்த மிகவும் பயனுள்ளது: 'கோபமாக இருக்கிறேன் என்று அர்த்தமில்லை, கொஞ்சம் களைப்பு அவ்வளவுதான்'. 〜ない என்று நேரடியாக மறுப்பதைவிட மென்மையானது. 'எல்லோரும் / எப்போதும்' (みんな, いつも, 全部) போன்ற சொற்களுடன் 'எல்லோரும் அப்படி அல்ல' என்று சொல்லவும் வரும். பேச்சில் 〜わけじゃない; 〜というわけではない என்றும் சொல்லலாம். கடந்த பாடத்தின் 〜からといって உடன் சேர்ந்து அடிக்கடி வரும்: 〜からといって、〜わけではない.",
+      "explanation_en": "〜わけではない partly denies an idea the listener may have: \"it's not that ~\". It is very useful for clearing up a misunderstanding: \"It's not that I'm angry. I'm just a bit tired.\" It is softer than a plain 〜ない. With words like みんな, いつも or 全部, it means \"not all / not always\". In speech it is 〜わけじゃない. You can also say 〜というわけではない. It often goes with 〜からといって from the last lesson: 〜からといって、〜わけではない.",
+      "tamil_parallel": "கோபமாக இருக்கிறேன் என்று அர்த்தமில்லை, கொஞ்சம் களைப்பு அவ்வளவுதான் = 怒っているわけじゃない。ちょっと疲れているだけ。",
+      "tamil_parallel_en": "\"It's not that I'm angry. I'm just a bit tired\" (கோபமாக இருக்கிறேன் என்று அர்த்தமில்லை) = 怒っているわけじゃない。ちょっと疲れているだけ。",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + わけではない: 食べるわけではない・高いわけではない\nな-பெயரடை + な + わけではない: 嫌いなわけではない\nபெயர்ச்சொல் + という + わけではない: 反対というわけではない\nபணிவு: 〜わけではありません; பேச்சு: 〜わけじゃない",
+      "formation_en": "Verb / い-adjective (plain form) + わけではない: 食べるわけではない・高いわけではない\nな-adjective + な + わけではない: 嫌いなわけではない\nNoun + という + わけではない: 反対というわけではない\nPolite: 〜わけではありません; casual: 〜わけじゃない",
+      "examples": [
+        { "ja": "嫌いな わけでは ありませんが、辛い 物は あまり 食べません。", "reading": "きらいな わけでは ありませんが、からい ものは あまり たべません。", "romaji": "kirai na wake de wa arimasen ga, karai mono wa amari tabemasen.", "ta": "பிடிக்காது என்று அர்த்தமில்லை, ஆனால் காரமான உணவை அதிகம் சாப்பிடுவதில்லை.", "en": "It's not that I dislike it, but I don't eat spicy food much." },
+        { "ja": "お金が あるからといって、幸せな わけではない。", "reading": "おかねが あるからといって、しあわせな わけではない。", "romaji": "okane ga aru kara to itte, shiawase na wake de wa nai.", "ta": "பணம் இருக்கிறது என்பதற்காக மகிழ்ச்சியாக இருக்கிறோம் என்று அர்த்தமில்லை.", "en": "Having money doesn't mean you're happy." },
+        { "ja": "日本人が みんな 納豆を 食べる わけでは ありません。", "reading": "にほんじんが みんな なっとうを たべる わけでは ありません。", "romaji": "nihonjin ga minna nattou o taberu wake de wa arimasen.", "ta": "ஜப்பானியர் எல்லோரும் நாட்டோ சாப்பிடுவார்கள் என்று இல்லை.", "en": "Not all Japanese people eat natto." },
+        { "ja": "「怒ってるの？」「怒って いる わけじゃないよ。ちょっと 疲れて いるだけ。」", "reading": "「おこってるの？」「おこって いる わけじゃないよ。ちょっと つかれて いるだけ。」", "romaji": "\"okotteru no?\" \"okotte iru wake ja nai yo. chotto tsukarete iru dake.\"", "ta": "\"கோபமா?\" \"கோபம் இல்லை. கொஞ்சம் களைப்பு அவ்வளவுதான்.\"", "en": "\"Are you angry?\" \"It's not that I'm angry. I'm just a bit tired.\"" },
+        { "ja": "毎日 料理を する わけでは ないが、週末は 自分で 作る。", "reading": "まいにち りょうりを する わけでは ないが、しゅうまつは じぶんで つくる。", "romaji": "mainichi ryouri o suru wake de wa nai ga, shuumatsu wa jibun de tsukuru.", "ta": "தினமும் சமைப்பதில்லை, ஆனால் வார இறுதியில் நானே சமைக்கிறேன்.", "en": "I don't cook every day, but at weekends I make my own meals." },
+        { "ja": "誤解しないで ください。あなたの 意見に 反対して いる わけでは ないんです。", "reading": "ごかいしないで ください。あなたの いけんに はんたいして いる わけでは ないんです。", "romaji": "gokai shinaide kudasai. anata no iken ni hantai shite iru wake de wa nai n desu.", "ta": "தவறாக நினைக்காதீர்கள். உங்கள் கருத்தை நான் எதிர்க்கிறேன் என்று அர்த்தமில்லை.", "en": "Please don't misunderstand. It's not that I'm against your opinion." }
+      ],
+      "pitfalls_ta": "わけではない என்பது முழு மறுப்பு அல்ல. 'சுத்தமாகப் பிடிக்காது' என்று சொல்ல 嫌いです போதும்; 嫌いなわけではない என்றால் 'பிடிக்காது என்று இல்லை'. わけではない (அர்த்தமில்லை) மற்றும் わけにはいかない (செய்ய முடியாது) இரண்டையும் குழப்ப வேண்டாம்.",
+      "pitfalls_en": "わけではない is not a full \"no\". To say you really dislike something, just say 嫌いです. 嫌いなわけではない means \"it's not that I dislike it\". Do not mix up わけではない (it doesn't mean) and わけにはいかない (I can't)."
+    },
+    {
+      "id": "g12-3",
+      "pattern": "V-る わけには いかない",
+      "name": { "en": "Can't (for social or moral reasons)", "ta": "(சூழ்நிலை / கடமையால்) செய்ய முடியாது" },
+      "explanation_ta": "V-る わけにはいかない என்பது 'செய்யும் திறன் இருக்கிறது, ஆனால் பொறுப்பு, வாக்குறுதி, சமூக நெறி போன்றவற்றால் செய்வது சரியல்ல, எனவே செய்ய முடியாது' என்று சொல்லும் வடிவம். தமிழில் 'நாளை முக்கியக் கூட்டம் இருக்கு, லீவ் போட முடியாது' போல. N4-இல் கற்ற 〜られない / できない திறன் இல்லாமையைக் காட்டும்; わけにはいかない மனசாட்சி அல்லது சூழ்நிலையால் வரும் தடை. V-ない わけにはいかない என்றால் இரட்டை மறுப்பு: 'செய்யாமல் இருக்க முடியாது = செய்தே ஆக வேண்டும்'.",
+      "explanation_en": "V-る わけにはいかない means \"I can't do it\", not because I'm unable, but because it wouldn't be right. A duty, a promise or social rules stop you. Like: \"I have an important meeting tomorrow, so I can't take the day off.\" 〜られない / できない (N4) means you are not able. わけにはいかない is about your conscience or the situation. V-ない わけにはいかない is a double negative: \"I can't not do it\" = \"I have to\".",
+      "tamil_parallel": "நாளை முக்கியக் கூட்டம் இருக்கிறது, விடுப்பு எடுக்க முடியாது = 明日は大切な会議があるので、休むわけにはいかない",
+      "tamil_parallel_en": "\"There's an important meeting tomorrow, so I can't take the day off\" (விடுப்பு எடுக்க முடியாது) = 明日は大切な会議があるので、休むわけにはいかない.",
+      "formation": "V (அகராதி வடிவம்) + わけには いかない: 休むわけにはいかない (செய்ய முடியாது)\nV (ない வடிவம்) + わけには いかない: 行かないわけにはいかない (செய்தே ஆக வேண்டும்)\nபணிவு: 〜わけにはいきません",
+      "formation_en": "V (dictionary form) + わけには いかない: 休むわけにはいかない (I can't do it)\nV (ない-form) + わけには いかない: 行かないわけにはいかない (I have to do it)\nPolite: 〜わけにはいきません",
+      "examples": [
+        { "ja": "明日は 大切な 会議が あるので、休む わけには いきません。", "reading": "あしたは たいせつな かいぎが あるので、やすむ わけには いきません。", "romaji": "ashita wa taisetsu na kaigi ga aru node, yasumu wake ni wa ikimasen.", "ta": "நாளை முக்கியமான கூட்டம் இருப்பதால் விடுப்பு எடுக்க முடியாது.", "en": "I have an important meeting tomorrow, so I can't take the day off." },
+        { "ja": "友達との 約束だから、破る わけには いかない。", "reading": "ともだちとの やくそくだから、やぶる わけには いかない。", "romaji": "tomodachi to no yakusoku da kara, yaburu wake ni wa ikanai.", "ta": "நண்பனுக்குக் கொடுத்த வாக்கு, அதை மீற முடியாது.", "en": "It's a promise to a friend, so I can't break it." },
+        { "ja": "車で 来たので、お酒を 飲む わけには いかないんです。", "reading": "くるまで きたので、おさけを のむ わけには いかないんです。", "romaji": "kuruma de kita node, osake o nomu wake ni wa ikanai n desu.", "ta": "காரில் வந்திருப்பதால் மது அருந்த முடியாது.", "en": "I came by car, so I can't drink." },
+        { "ja": "これは 父の 大切な 時計だから、あげる わけには いかないよ。", "reading": "これは ちちの たいせつな とけいだから、あげる わけには いかないよ。", "romaji": "kore wa chichi no taisetsu na tokei da kara, ageru wake ni wa ikanai yo.", "ta": "இது அப்பாவின் விலைமதிப்பற்ற கடிகாரம், இதைக் கொடுக்க முடியாது.", "en": "This is my father's precious watch, so I can't give it away." },
+        { "ja": "先生に 頼まれたら、引き受けない わけには いかない。", "reading": "せんせいに たのまれたら、ひきうけない わけには いかない。", "romaji": "sensei ni tanomaretara, hikiukenai wake ni wa ikanai.", "ta": "ஆசிரியரே கேட்டால், ஒப்புக்கொள்ளாமல் இருக்க முடியாது.", "en": "If my teacher asks me, I can't say no." },
+        { "ja": "「その 秘密、教えて くれない？」「ごめん、だれにも 言わないと 約束したから、話す わけには いかないんだ。」", "reading": "「その ひみつ、おしえて くれない？」「ごめん、だれにも いわないと やくそくしたから、はなす わけには いかないんだ。」", "romaji": "\"sono himitsu, oshiete kurenai?\" \"gomen, dare ni mo iwanai to yakusoku shita kara, hanasu wake ni wa ikanai n da.\"", "ta": "\"அந்த ரகசியத்தைச் சொல்லுவாயா?\" \"மன்னிச்சுக்கோ, யாரிடமும் சொல்ல மாட்டேன் என்று வாக்குக் கொடுத்திருக்கிறேன், அதனால் சொல்ல முடியாது.\"", "en": "\"Will you tell me the secret?\" \"Sorry, I promised not to tell anyone, so I can't.\"" }
+      ],
+      "pitfalls_ta": "திறன் இல்லாமைக்கு わけにはいかない வேண்டாம்: 泳ぐわけにはいかない என்றால் 'நீந்தத் தெரியாது' அல்ல, 'நீந்துவது சரியல்ல'. 'நீந்தத் தெரியாது' = 泳げない. மேலும் に-ஐ விடக் கூடாது: わけはいかない ✗ → わけにはいかない.",
+      "pitfalls_en": "Do not use わけにはいかない for lack of ability. 泳ぐわけにはいかない does not mean \"I can't swim\". It means \"it wouldn't be right to swim\". \"I can't swim\" = 泳げない. Also keep the に: わけはいかない ✗ → わけにはいかない."
+    },
+    {
+      "id": "g12-4",
+      "pattern": "〜ことから",
+      "name": { "en": "From the fact that ~ (reason, origin)", "ta": "〜என்பதிலிருந்து / 〜என்பதால்" },
+      "explanation_ta": "〜ことから என்பது 'ஒரு உண்மையை அடிப்படையாக வைத்து' என்ற பொருளில், (1) ஒரு பெயர் அல்லது பட்டப்பெயர் எப்படி வந்தது என்று சொல்ல (〜ことから〜と呼ばれている), (2) ஒரு உண்மையிலிருந்து ஒரு முடிவுக்கு வர (〜ことから〜がわかる), (3) ஒரு நிகழ்வு எப்படித் தொடங்கியது என்று சொல்லப் பயன்படுகிறது. தமிழில் 'கோயில்கள் அதிகம் இருப்பதால் மதுரை கோயில் நகரம் என்று அழைக்கப்படுகிறது' போல. இது பெரும்பாலும் எழுத்து நடை, செய்தி, விளக்கம் போன்றவற்றில் வரும்; அன்றாடப் பேச்சில் から அல்லது ので போதும். கட்டளை, வேண்டுகோள் பின்னால் வராது.",
+      "explanation_en": "〜ことから means \"from the fact that ~\". It has three main uses. (1) How a name or nickname came about: 〜ことから〜と呼ばれている. (2) Reaching a conclusion from a fact: 〜ことから〜がわかる. (3) How something started. For example: \"Madurai is called the temple city because it has many temples.\" It is mostly used in writing, news and explanations. In daily talk, から or ので is enough. Do not put an order or request after it.",
+      "tamil_parallel": "கோயில்கள் அதிகம் இருப்பதால், மதுரை 'கோயில் நகரம்' என்று அழைக்கப்படுகிறது = 寺院が多いことから、マドゥライは「寺の町」と呼ばれている",
+      "tamil_parallel_en": "\"Because it has many temples, Madurai is called 'the temple city'\" (கோயில்கள் அதிகம் இருப்பதால் மதுரை 'கோயில் நகரம்') = 寺院が多いことから、マドゥライは「寺の町」と呼ばれている.",
+      "formation": "வினை / い-பெயரடை (சாதாரண வடிவம்) + ことから: 見えることから・多いことから\nな-பெயரடை + な / である + ことから: 上手なことから\nபெயர்ச்சொல் + である + ことから: 港町であることから\nஅடிக்கடி: 〜ことから〜と呼ばれる / 〜ことから〜がわかる",
+      "formation_en": "Verb / い-adjective (plain form) + ことから: 見えることから・多いことから\nな-adjective + な / である + ことから: 上手なことから\nNoun + である + ことから: 港町であることから\nOften: 〜ことから〜と呼ばれる / 〜ことから〜がわかる",
+      "examples": [
+        { "ja": "富士山が よく 見える ことから、この 町は「富士見町」と 呼ばれて います。", "reading": "ふじさんが よく みえる ことから、この まちは「ふじみちょう」と よばれて います。", "romaji": "fujisan ga yoku mieru koto kara, kono machi wa \"fujimichou\" to yobarete imasu.", "ta": "ஃபூஜி மலை நன்றாகத் தெரிவதால், இந்த ஊர் 'ஃபூஜிமி-சோ' என்று அழைக்கப்படுகிறது.", "en": "Because you can see Mt Fuji well, this town is called \"Fujimi-cho\"." },
+        { "ja": "マドゥライは 寺院が 多い ことから、「寺の 町」と 呼ばれて います。", "reading": "マドゥライは じいんが おおい ことから、「てらの まち」と よばれて います。", "romaji": "madurai wa jiin ga ooi koto kara, \"tera no machi\" to yobarete imasu.", "ta": "கோயில்கள் அதிகம் இருப்பதால், மதுரை 'கோயில் நகரம்' என்று அழைக்கப்படுகிறது.", "en": "Madurai is called \"the temple city\" because it has many temples." },
+        { "ja": "道が ぬれて いる ことから、夜中に 雨が 降った ことが わかる。", "reading": "みちが ぬれて いる ことから、よなかに あめが ふった ことが わかる。", "romaji": "michi ga nurete iru koto kara, yonaka ni ame ga futta koto ga wakaru.", "ta": "சாலை ஈரமாக இருப்பதிலிருந்து, நள்ளிரவில் மழை பெய்தது தெரிகிறது.", "en": "From the wet road, we can tell it rained during the night." },
+        { "ja": "彼女は 歌が 上手な ことから、「カナリア」と いう あだ名が つきました。", "reading": "かのじょは うたが じょうずな ことから、「カナリア」と いう あだなが つきました。", "romaji": "kanojo wa uta ga jouzu na koto kara, \"kanaria\" to iu adana ga tsukimashita.", "ta": "அவள் நன்றாகப் பாடுவதால், அவளுக்கு 'கனாரியா' (பாடும் பறவை) என்ற பட்டப்பெயர் வந்தது.", "en": "Because she sings well, she got the nickname \"Canary\"." },
+        { "ja": "言葉の 意味を 間違えて 覚えて いた ことから、大きな 誤解が 生まれました。", "reading": "ことばの いみを まちがえて おぼえて いた ことから、おおきな ごかいが うまれました。", "romaji": "kotoba no imi o machigaete oboete ita koto kara, ookina gokai ga umaremashita.", "ta": "ஒரு சொல்லின் பொருளைத் தவறாக நினைவில் வைத்திருந்ததிலிருந்து பெரிய தவறான புரிதல் உண்டானது.", "en": "A big misunderstanding came from remembering a word's meaning wrongly." },
+        { "ja": "ドアに 指紋が 残って いた ことから、犯人が わかりました。", "reading": "ドアに しもんが のこって いた ことから、はんにんが わかりました。", "romaji": "doa ni shimon ga nokotte ita koto kara, hannin ga wakarimashita.", "ta": "கதவில் கைரேகை இருந்ததை வைத்துக் குற்றவாளி யார் என்று தெரிந்தது.", "en": "From the fingerprints left on the door, they found out who did it." }
+      ],
+      "pitfalls_ta": "ことから பின்னால் 'செய்யுங்கள்', 'செய்வோம்' போன்ற வேண்டுகோள் வராது: 雨が降っていることから、傘を持って行ってください ✗ (から பயன்படுத்துங்கள்). அன்றாட உரையாடலில் அதிகம் பயன்படுத்தினால் புத்தக நடை போலக் கேட்கும்.",
+      "pitfalls_en": "No request or \"let's\" after ことから: 雨が降っていることから、傘を持って行ってください ✗. Use から there. In everyday conversation, it can sound too bookish."
+    }
+  ],
+  "vocab_ids": [
+    "n3-v-0037", "n3-v-0039", "n3-v-0056", "n3-v-0060", "n3-v-0061", "n3-v-0097", "n3-v-0107", "n3-v-0254",
+    "n3-v-0308", "n3-v-0336", "n3-v-0427", "n3-v-0428", "n3-v-0444", "n3-v-0555", "n3-v-0559", "n3-v-0591",
+    "n3-v-0635", "n3-v-0716", "n3-v-0729", "n3-v-0822", "n3-v-0861", "n3-v-0912", "n3-v-0944", "n3-v-1014",
+    "n3-v-1016", "n3-v-1017", "n3-v-1044", "n3-v-1062", "n3-v-1161", "n3-v-1194", "n3-v-1397", "n3-v-1502",
+    "n3-v-1513", "n3-v-1556", "n3-v-1660", "n3-v-1825", "n3-v-1862", "n3-v-1958", "n3-v-1976", "n3-v-1988",
+    "n3-v-2023", "n3-v-2032", "n3-v-2047", "n3-v-2050", "n3-v-2071", "n3-v-2086"
+  ],
+  "test": {
+    "passMark": 0.7,
+    "items": [
+      {
+        "id": "L12-q01", "type": "kanji_reading",
+        "sentence": "それは ＿誤解＿です。私は そんな ことを 言って いません。", "target": "誤解",
+        "options": ["ごうかい", "ごがい", "ごかい", "ごけい"], "answer": 2,
+        "explanation_ta": "誤解 = ごかい (தவறான புரிதல்). 誤 = ご (நீட்டல் இல்லை); 解 = かい, கலங்கல் ஒலி இல்லை.",
+        "explanation_en": "誤解 = ごかい (தவறான புரிதல், misunderstanding). 誤 is a short ご. 解 is かい, not がい."
+      },
+      {
+        "id": "L12-q02", "type": "kanji_reading",
+        "sentence": "出発の 時間を もう 一度 ＿確認＿して ください。", "target": "確認",
+        "options": ["かくじん", "かくにん", "こうにん", "かくみん"], "answer": 1,
+        "explanation_ta": "確認 = かくにん (உறுதிப்படுத்தல்). 認 = にん (認める = みとめる). じん என்று படிப்பது தவறு.",
+        "explanation_en": "確認 = かくにん (உறுதிப்படுத்தல், checking). 認 is にん, as in 認める. じん is wrong."
+      },
+      {
+        "id": "L12-q03", "type": "kanji_reading",
+        "sentence": "彼は やっと 自分の ミスを ＿認めました＿。", "target": "認めました",
+        "options": ["みとめました", "みどめました", "もとめました", "にんめました"], "answer": 0,
+        "explanation_ta": "認める = みとめる (ஒப்புக்கொள்ள). もとめる (求める) என்பது 'கோர / தேட' என்ற வேறு வினை.",
+        "explanation_en": "認める = みとめる (ஒப்புக்கொள்ள, to admit). もとめる (求める) is a different verb: \"to ask for\"."
+      },
+      {
+        "id": "L12-q04", "type": "orthography",
+        "sentence": "本当の ＿じじつ＿を 話して ください。", "target": "じじつ",
+        "options": ["時実", "事日", "字実", "事実"], "answer": 3,
+        "explanation_ta": "じじつ (உண்மை) = 事実. 事 = விஷயம், 実 = உண்மை. 時 (நேரம்), 字 (எழுத்து) ஒலியில் ஒத்தாலும் தவறு.",
+        "explanation_en": "じじつ (fact) = 事実. 事 is \"thing\", 実 is \"real\". 時 (time) and 字 (letter) sound similar but are wrong."
+      },
+      {
+        "id": "L12-q05", "type": "orthography",
+        "sentence": "壊れた パソコンを ＿しゅうり＿に 出しました。", "target": "しゅうり",
+        "options": ["修利", "収理", "修理", "終理"], "answer": 2,
+        "explanation_ta": "しゅうり (பழுது பார்த்தல்) = 修理. 修正 (திருத்தம்) சொல்லிலும் இதே 修. 収, 終 ஒலியில் ஒத்தவை.",
+        "explanation_en": "しゅうり (repair) = 修理. The same 修 is in 修正 (correction). 収 and 終 sound the same but are wrong."
+      },
+      {
+        "id": "L12-q06", "type": "vocab_context",
+        "sentence": "電車を 降りてから、財布が ない ことに （　　）。",
+        "options": ["確かめました", "気付きました", "認めました", "疑いました"], "answer": 1,
+        "explanation_ta": "〜ことに気付く = 〜என்பதை உணர / கவனிக்க. 確かめる (சரிபார்க்க) を எடுக்கும்; ことに உடன் வராது.",
+        "explanation_en": "〜ことに気付く means \"to notice that ~\" (உணர). 確かめる (to check) takes を, not ことに."
+      },
+      {
+        "id": "L12-q07", "type": "vocab_context",
+        "sentence": "社長が 日本に 来るので、日本語と タミル語の （　　）を 頼まれました。",
+        "options": ["通訳", "修理", "解釈", "確認"], "answer": 0,
+        "explanation_ta": "இரண்டு மொழிகளுக்கு இடையே பேச்சை மொழிபெயர்ப்பது = 通訳. 解釈 என்பது ஒரு கருத்துக்கு விளக்கம் / பொருள்கோடல்.",
+        "explanation_en": "Interpreting speech between two languages = 通訳. 解釈 is how you interpret a meaning."
+      },
+      {
+        "id": "L12-q08", "type": "vocab_context",
+        "sentence": "答えを 出す 前に、計算に （　　）が ないか もう 一度 見て ください。",
+        "options": ["疑問", "事情", "現実", "間違い"], "answer": 3,
+        "explanation_ta": "கணக்கில் இருக்கக்கூடாதது = 間違い (தவறு). 疑問 (ஐயம்) மனதில் தோன்றுவது; கணக்கில் இருப்பது அல்ல.",
+        "explanation_en": "What should not be in a calculation = 間違い (mistake). 疑問 (a doubt) is in your mind, not in the sums."
+      },
+      {
+        "id": "L12-q09", "type": "vocab_context",
+        "sentence": "先生の 説明は わかりやすくて、みんな （　　）した ようでした。",
+        "options": ["否定", "修正", "納得", "先行"], "answer": 2,
+        "explanation_ta": "விளக்கம் கேட்டு 'சரிதான்' என்று மனதார ஏற்றுக்கொள்வது = 納得する. 否定 (மறுப்பு) எதிர்ப் பொருள்.",
+        "explanation_en": "Hearing an explanation and accepting it = 納得する (to be convinced). 否定 (denial) is the opposite."
+      },
+      {
+        "id": "L12-q10", "type": "vocab_context",
+        "sentence": "「来月から 東京で 働くんだ。」「えっ、（　　）？ すごいね。」",
+        "options": ["ほんと", "実に", "まさに", "いわゆる"], "answer": 0,
+        "explanation_ta": "ஆச்சரியத்துடன் 'நிஜமாகவா?' என்று கேட்பது = ほんと？ (本当 என்பதன் பேச்சு வடிவம்). 実に, まさに வினாவாக வராது.",
+        "explanation_en": "Asking \"Really?\" in surprise = ほんと？ (casual form of 本当). 実に and まさに are not used as a question."
+      },
+      {
+        "id": "L12-q11", "type": "paraphrase",
+        "sentence": "事故の 原因は 明らかです。",
+        "options": ["事故の 原因は まだ わかりません。", "事故の 原因は はっきり わかって います。", "事故の 原因は 一つでは ありません。", "事故の 原因は 今 調べて いる ところです。"], "answer": 1,
+        "explanation_ta": "明らか = தெளிவான, சந்தேகம் இல்லாத → はっきりわかっている. まだわからない என்பது எதிர்ப் பொருள்.",
+        "explanation_en": "明らか means clear, with no doubt → はっきりわかっている. まだわからない is the opposite."
+      },
+      {
+        "id": "L12-q12", "type": "paraphrase",
+        "sentence": "実は、来月 国に 帰るんです。",
+        "options": ["たぶん、来月 国に 帰るんです。", "もしかすると、来月 国に 帰るんです。", "本当の ことを 言うと、来月 国に 帰るんです。", "やっぱり、来月 国に 帰るんです。"], "answer": 2,
+        "explanation_ta": "実は = 'உண்மையைச் சொன்னால்', இதுவரை சொல்லாத விஷயத்தை வெளிப்படுத்துதல் → 本当のことを言うと. たぶん, もしかすると உறுதியின்மையைக் காட்டும்.",
+        "explanation_en": "実は means \"to tell the truth\". You share something you haven't said yet → 本当のことを言うと. たぶん and もしかすると show you are not sure."
+      },
+      {
+        "id": "L12-q13", "type": "usage",
+        "sentence": "疑う",
+        "options": ["わからない ことを 先生に 疑いました。", "明日の 天気を 疑って、テレビを 見ました。", "友達の 誕生日を 疑って、プレゼントを 買いました。", "証拠も ないのに、人を 疑うのは よくないですよ。"], "answer": 3,
+        "explanation_ta": "疑う = ஒருவர் மீது / ஒரு விஷயத்தின் மீது சந்தேகப்பட: 人を疑う. ஆசிரியரிடம் கேள்வி கேட்பது 質問する; பிறந்தநாளை நினைவு கூர்வது வேறு.",
+        "explanation_en": "疑う means to suspect or doubt someone or something: 人を疑う. Asking the teacher is 質問する. The other uses make no sense."
+      },
+      {
+        "id": "L12-q14", "type": "usage",
+        "sentence": "解決",
+        "options": ["店の ドアを 解決して ください。", "長い 話し合いの 後、問題が やっと 解決しました。", "毎朝 7時に 家を 解決します。", "新しい 単語を ノートに 解決しました。"], "answer": 1,
+        "explanation_ta": "解決 = பிரச்சினைக்குத் தீர்வு: 問題が解決する. கதவைத் திறப்பது 開ける, வீட்டை விட்டுக் கிளம்புவது 出る, எழுதுவது 書く.",
+        "explanation_en": "解決 is solving a problem: 問題が解決する. Opening a door is 開ける. Leaving home is 出る. Writing is 書く."
+      },
+      {
+        "id": "L12-q15", "type": "grammar_form",
+        "sentence": "「田中さん、一年 フランスに 住んで いたそうですよ。」「それで フランス語が 上手な （　　）ね。」",
+        "options": ["わけです", "わけでは ありません", "わけには いきません", "ことからです"], "answer": 0,
+        "explanation_ta": "காரணம் தெரிந்ததும் 'அதான் நன்றாகப் பேசுகிறார்' → わけです. わけではありません என்றால் 'நன்றாகப் பேசுகிறார் என்று இல்லை' என்று எதிர்ப் பொருள்.",
+        "explanation_en": "You learn the reason: \"no wonder she speaks it well\" → わけです. わけではありません would mean \"it's not that she's good\"."
+      },
+      {
+        "id": "L12-q16", "type": "grammar_form",
+        "sentence": "嫌いな （　　）が、辛い 料理は あまり 食べません。",
+        "options": ["わけです", "わけでは ありません", "わけには いきません", "ことからです"], "answer": 1,
+        "explanation_ta": "'பிடிக்காது என்று இல்லை, ஆனால் அதிகம் சாப்பிடுவதில்லை' → わけではありません (பகுதியளவு மறுப்பு). わけにはいきません 'செய்ய முடியாது' என்ற பொருள்.",
+        "explanation_en": "\"It's not that I dislike it, but I don't eat it much\" → わけではありません (a soft \"not\"). わけにはいきません means \"I can't\"."
+      },
+      {
+        "id": "L12-q17", "type": "grammar_form",
+        "sentence": "明日は 大事な 試験だから、休む （　　）。",
+        "options": ["わけだ", "わけではない", "わけには いかない", "ことから"], "answer": 2,
+        "explanation_ta": "'முக்கியத் தேர்வு இருப்பதால் விடுப்பு எடுப்பது சரியல்ல' → 休むわけにはいかない. わけではない 'விடுப்பு எடுப்பேன் என்று அர்த்தமில்லை' — பொருந்தாது.",
+        "explanation_en": "\"There's an important exam, so I can't (it wouldn't be right to) stay home\" → 休むわけにはいかない. わけではない does not fit."
+      },
+      {
+        "id": "L12-q18", "type": "grammar_form",
+        "sentence": "寺院が 多い （　　）、マドゥライは「寺の 町」と 呼ばれて います。",
+        "options": ["からといって", "ことに", "ことから", "わけでは なく"], "answer": 2,
+        "explanation_ta": "பெயர் எப்படி வந்தது என்று சொல்லும் 〜ことから〜と呼ばれている. からといって பின்னால் மறுப்பு வேண்டும்.",
+        "explanation_en": "To explain where a name comes from: 〜ことから〜と呼ばれている. からといって needs a negative after it."
+      },
+      {
+        "id": "L12-q19", "type": "grammar_form",
+        "sentence": "「怒ってるの？」「怒って いる （　　）。ちょっと 疲れて いるだけだよ。」",
+        "options": ["わけだ", "ことから", "わけには いかない", "わけじゃない"], "answer": 3,
+        "explanation_ta": "தவறான புரிதலைத் திருத்தி 'கோபம் இல்லை' என்று சொல்வது → わけじゃない (わけではない-இன் பேச்சு வடிவம்). わけだ என்றால் 'அதான் கோபம்' என்று எதிர்ப் பொருள்.",
+        "explanation_en": "You correct a misunderstanding: \"It's not that I'm angry\" → わけじゃない (casual わけではない). わけだ would mean \"that's why I'm angry\"."
+      },
+      {
+        "id": "L12-q20", "type": "grammar_form",
+        "sentence": "車で 来たので、お酒を 飲む わけには （　　）。",
+        "options": ["いきません", "ありません", "なりません", "できません"], "answer": 0,
+        "explanation_ta": "நிலையான வடிவம்: 〜わけにはいかない / いきません. ありません, なりません, できません இந்த வடிவத்தில் வராது.",
+        "explanation_en": "The fixed pattern is 〜わけにはいかない / いきません. ありません, なりません and できません do not go in this pattern."
+      },
+      {
+        "id": "L12-q21", "type": "grammar_form",
+        "sentence": "1時間に 5キロ 歩くから、3時間で 15キロ 歩く （　　）。",
+        "options": ["わけではない", "ことから", "わけには いかない", "わけだ"], "answer": 3,
+        "explanation_ta": "கணக்குப்படி வரும் இயல்பான முடிவு → わけだ (5 × 3 = 15). わけではない என்றால் 'அப்படி இல்லை' என்று மறுப்பு.",
+        "explanation_en": "A result that follows from the numbers → わけだ (5 × 3 = 15). わけではない would deny it."
+      },
+      {
+        "id": "L12-q22", "type": "sentence_order",
+        "before": "辛い 物が", "chunks": ["嫌いな", "わけでは", "ないけど", "今日は"], "star": 1, "after": "食べたくない。",
+        "explanation_ta": "辛い 物が 嫌いな (காரம் பிடிக்காது) → わけでは ないけど (என்று இல்லை, ஆனால்) → 今日は 食べたくない. ★ = わけでは.",
+        "explanation_en": "辛い物が嫌いな (dislike spicy food) → わけではないけど (it's not that, but) → 今日は食べたくない. ★ = わけでは."
+      },
+      {
+        "id": "L12-q23", "type": "sentence_order",
+        "before": "大切な 約束だから、", "chunks": ["遅れる", "わけには", "いかない", "んです"], "star": 0, "after": "。",
+        "explanation_ta": "大切な 約束だから (முக்கியமான சந்திப்பு என்பதால்) → 遅れる わけには いかない んです (தாமதமாக வர முடியாது). ★ = 遅れる.",
+        "explanation_en": "大切な約束だから (it's an important appointment) → 遅れるわけにはいかないんです (I can't be late). ★ = 遅れる."
+      },
+      {
+        "id": "L12-q24", "type": "sentence_order",
+        "before": "川や 運河が 多い", "chunks": ["ことから", "この 町は", "「水の 都」と", "呼ばれて"], "star": 2, "after": "います。",
+        "explanation_ta": "川や 運河が 多い ことから (ஆறுகளும் கால்வாய்களும் அதிகம் என்பதால்) → この 町は → 「水の 都」と (நீர் நகரம் என்று) → 呼ばれて います. ★ = 「水の 都」と.",
+        "explanation_en": "川や運河が多いことから (because there are many rivers and canals) → この町は → 「水の都」と (as \"the water city\") → 呼ばれています. ★ = 「水の都」と."
+      },
+      {
+        "id": "L12-q25", "type": "passage_cloze",
+        "passage": "先週、同じ クラスの リナさんと けんかを しました。私が 彼女の メッセージに 返事を しなかった［1］、リナさんは 私が 怒って いると 思った そうです。でも、私は 怒って いた［2］。実は、スマホが 壊れて いて、メッセージが 読めなかったんです。それを 説明すると、リナさんは「そうだったの。それで 返事が 来なかった［3］ね。ごめんね。」と 言いました。大切な 友達との 関係を、こんな 小さな 誤解で 終わらせる［4］と 思って、すぐに 話しに 行って よかったです。",
+        "blanks": [
+          { "options": ["からといって", "ことから", "わけでは なく", "わけには"], "answer": 1 },
+          { "options": ["わけでは ありません", "わけです", "ことからです", "わけには いきません"], "answer": 0 },
+          { "options": ["わけには いかない", "わけじゃない", "わけだ", "ことから"], "answer": 2 },
+          { "options": ["わけだ", "わけではない", "ことから", "わけには いかない"], "answer": 3 }
+        ],
+        "explanation_ta": "［1］ 'பதில் அனுப்பாததிலிருந்து, அவள் நான் கோபமாக இருக்கிறேன் என்று நினைத்தாள்' → ことから. ［2］ தவறான புரிதலைத் திருத்துதல்: 'கோபமாக இருந்தேன் என்று இல்லை' → わけではありません. ［3］ காரணம் தெரிந்ததும் 'அதான் பதில் வரவில்லை' → わけだ. ［4］ 'இவ்வளவு சிறிய தவறான புரிதலால் நட்பை முடித்துக்கொள்வது சரியல்ல' → わけにはいかない.",
+        "explanation_en": "[1] \"From the fact that I didn't reply, she thought I was angry\" → ことから. [2] Clearing up the misunderstanding: \"it's not that I was angry\" → わけではありません. [3] She learns the reason: \"so that's why no reply came\" → わけだ. [4] \"I can't let a friendship end over a small misunderstanding\" → わけにはいかない."
+      }
+    ]
+  }
+}
