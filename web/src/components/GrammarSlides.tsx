@@ -10,6 +10,9 @@ import Speaker from "./Speaker";
 import Explain, { LangSwitch } from "./Explain";
 import confetti from "canvas-confetti";
 
+// Stable fallback: a selector that returns a fresh [] on every call makes zustand re-render forever.
+const NO_GRAMMAR_DONE: string[] = [];
+
 export default function GrammarSlides({
   level,
   n,
@@ -26,7 +29,7 @@ export default function GrammarSlides({
   const addXp = useProgress((s) => s.addXp);
   const touchStreak = useProgress((s) => s.touchStreak);
   const settings = useProgress((s) => s.settings);
-  const done = useProgress((s) => s.lessons[key]?.grammarDone ?? []);
+  const done = useProgress((s) => s.lessons[key]?.grammarDone ?? NO_GRAMMAR_DONE);
   const [i, setI] = useState(0);
   const [mode, setMode] = useState<"read" | "build">("read");
   const g = grammar[i];
